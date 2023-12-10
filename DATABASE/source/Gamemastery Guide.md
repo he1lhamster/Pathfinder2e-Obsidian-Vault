@@ -2,9 +2,6 @@
 id: '22'
 name: Gamemastery Guide
 rarity: Common
-rus_type_level: null
-source: null
-trait: null
 type: Source
 
 ---

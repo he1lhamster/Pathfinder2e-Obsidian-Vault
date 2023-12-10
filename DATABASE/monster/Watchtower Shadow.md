@@ -2,9 +2,7 @@
 ac: '36'
 alignment: CE
 all_resistance: '15'
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Light Vulnerability
@@ -13,12 +11,9 @@ creature_ability:
 - Site Bound
 - Slink in Shadows
 - Steal Shadow
-creature_family: null
 dexterity: '+7'
-element: null
 fly_speed: '30'
 fortitude: '+21'
-hardness: null
 hp: 190 (rejuvenation)
 id: '1462'
 immunity:
@@ -29,7 +24,6 @@ immunity:
 - precision
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '+0'
-land_speed: null
 language:
 - '[[DATABASE/language/Necril|Necril]]'
 - '[[DATABASE/language/Tien|Tien]]'
@@ -44,8 +38,6 @@ resistance:
 - '[[DATABASE/equipment/Ghost Touch|ghost touch]]'
 - or [[DATABASE/trait/Positive|positive]] ;double resistance against non- [[DATABASE/trait/Magical|magical]]
   )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -62,7 +54,6 @@ strength: '-5'
 strength_req: '-5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Incorporeal|Incorporeal]]'
 - '[[DATABASE/trait/Undead|Undead]]'

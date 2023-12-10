@@ -1,10 +1,7 @@
 ﻿---
 ac: '27'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Arrow Volley
@@ -16,15 +13,10 @@ creature_ability:
 - ''
 - Troop Defenses
 - Troop Movement
-creature_family: null
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+18'
-hardness: null
 hp: '135'
 id: '1091'
-immunity: null
 intelligence: '+2'
 land_speed: '40'
 language:
@@ -39,9 +31,6 @@ reflex: '+13'
 resistance:
 - mental 5
 - slashing 5
-rus_type_level: null
-school: null
-sense: null
 size: Gargantuan
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +13'
@@ -53,19 +42,16 @@ skill:
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 40 feet; troop movement
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Troop|Troop]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
 weakness:

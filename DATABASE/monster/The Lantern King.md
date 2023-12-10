@@ -1,10 +1,7 @@
 ﻿---
 ac: '54'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+12'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Adjust Temperature
@@ -19,12 +16,10 @@ creature_ability:
 - Playful Switch
 - Prismatic Burst
 - Reactive
-creature_family: null
 dexterity: '+12'
 element: Fire
 fly_speed: '60'
 fortitude: '+36'
-hardness: null
 hp: '500'
 id: '2196'
 immunity:
@@ -38,7 +33,6 @@ immunity:
 - '[[DATABASE/trait/Sleep|sleep]]'
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '+9'
-land_speed: null
 language:
 - '[[DATABASE/language/Aklo|Aklo]]'
 - '[[DATABASE/language/Common|Common]]'
@@ -53,8 +47,6 @@ rarity: Unique
 reflex: '+39'
 resistance:
 - physical 20 (except [[DATABASE/equipment/Cold Iron Weapon|cold iron]] )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/spell/True Seeing|true seeing]]'
@@ -99,7 +91,6 @@ strength: '+9'
 strength_req: '9'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Fire|Fire]]'

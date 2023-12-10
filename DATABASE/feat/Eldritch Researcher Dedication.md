@@ -1,26 +1,23 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Eldritch Researcher Dedication
-frequency: null
-heighten_level: null
 id: '2658'
+leads_to: '[[DATABASE/feat/Able Ritualist|Able Ritualist]] , [[DATABASE/feat/Advanced
+  Seeker of Truths|Advanced Seeker of Truths]] , [[DATABASE/feat/Entities from Afar|Entities
+  from Afar]] , [[DATABASE/feat/Incredible Recollection|Incredible Recollection]]
+  , [[DATABASE/feat/Know it All|Know it All]] , [[DATABASE/feat/Lorefinder|Lorefinder]]
+  , [[DATABASE/feat/Scholarly Defense|Scholarly Defense]] , [[DATABASE/feat/Seeker
+  of Truths|Seeker of Truths]] , [[DATABASE/feat/Strange Script|Strange Script]] ,
+  [[DATABASE/feat/Words of Unraveling|Words of Unraveling]]'
 level: '2'
 name: Eldritch Researcher Dedication
 prerequisite: Trained in [[DATABASE/skill/Arcana|Arcana]] ; Trained in [[DATABASE/skill/Occultism|Occultism]]
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 164. Hands of the Devil|Pathfinder #164: Hands
   of the Devil]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

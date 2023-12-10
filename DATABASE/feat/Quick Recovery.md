@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Quick Recovery
-frequency: null
-heighten_level: null
 id: '3923'
 level: '3'
 name: Quick Recovery
 prerequisite: Stability 14
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Kingdom|Kingdom]]'
-trigger: null
 type: Feat
 
 ---

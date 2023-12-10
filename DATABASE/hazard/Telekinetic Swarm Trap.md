@@ -1,21 +1,15 @@
 ﻿---
 ac: '33'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+24'
 hardness: '22'
 hazard_type: Trap
 hp: 88 (BT 44) per telekinetic cloud
 id: '27'
-immunity: null
 level: '12'
 name: Telekinetic Swarm Trap
 rarity: Common
 reflex: '+19'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Complex|Complex]]'
@@ -23,8 +17,6 @@ trait:
 - '[[DATABASE/trait/Mechanical|Mechanical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Telekinetic Swarm Trap<span class="item-type">Hazard 12</span>

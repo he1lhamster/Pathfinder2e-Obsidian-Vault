@@ -1,20 +1,15 @@
 ﻿---
 ac: '15'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-3'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Blood Feast
 - Echolocation
 creature_family: '[[DATABASE/monsterfamily/Bat|Bat]]'
 dexterity: '+4'
-element: null
 fly_speed: '30'
 fortitude: '+6'
-hardness: null
 hp: '11'
 id: '45'
 immunity:
@@ -22,7 +17,6 @@ immunity:
 - '[[DATABASE/monsterability/Swarm Mind|swarm mind]]'
 intelligence: '-4'
 land_speed: '5'
-language: null
 level: '1'
 max_speed: '30'
 name: Vampire Bat Swarm
@@ -33,8 +27,6 @@ resistance:
 - bludgeoning 6
 - piercing 6
 - slashing 3
-rus_type_level: null
-school: null
 sense:
 - echolocation (precise) 20 feet
 - low-light vision
@@ -47,12 +39,10 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 5 feet
 - fly 30 feet
-spell: null
 strength: '+1'
 strength_req: '1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 - '[[DATABASE/trait/Swarm|Swarm]]'

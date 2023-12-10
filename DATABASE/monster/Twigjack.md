@@ -1,23 +1,15 @@
 ﻿---
 ac: '19'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Bramble Jump
 - Splinter Spray
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+9'
-hardness: null
 hp: '50'
 id: '838'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -29,9 +21,6 @@ name: Twigjack
 perception: '+9'
 rarity: Common
 reflex: '+11'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Tiny
@@ -43,12 +32,10 @@ skill:
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 25 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Plant|Plant]]'

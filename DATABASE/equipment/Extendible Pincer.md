@@ -1,54 +1,18 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
 bulk: L
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '1148'
 item_category: Adventuring Gear
-item_subcategory: null
-land_speed: null
 level: '0'
-max_speed: null
 name: Extendible Pincer
-onset: null
 price: 2 gp
-range: null
 rarity: Uncommon
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
-school: null
-size: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-spell: null
-stage: null
 subcategory: adventuringgear
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Clockwork|Clockwork]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Item
 usage: held in 2 hands
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Extendible Pincer<span class="item-type">Item 0</span>

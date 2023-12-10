@@ -1,21 +1,16 @@
 ﻿---
 ac: '17'
 alignment: N
-all_resistance: null
 burrow_speed: '15'
 charisma: '+0'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Critical Ignition
 - Molten Body
 - Reactive Thrash
-creature_family: null
 dexterity: '+1'
 element: Earth, Fire
-fly_speed: null
 fortitude: '+8'
-hardness: null
 hp: '45'
 id: '2185'
 immunity:
@@ -34,9 +29,6 @@ name: Thoqqua
 perception: '+7'
 rarity: Uncommon
 reflex: '+7'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) 60 feet'
@@ -48,12 +40,10 @@ source: '[[DATABASE/source/Crown of the Kobold King|Crown of the Kobold King]]'
 speed:
 - 25 feet
 - burrow 15 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Elemental|Elemental]]'

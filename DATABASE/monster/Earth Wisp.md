@@ -1,10 +1,8 @@
 ﻿---
 ac: '16'
 alignment: N
-all_resistance: null
 burrow_speed: '20'
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Accord Essence
@@ -13,9 +11,7 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Elemental, Wisp|Elemental, Wisp]]'
 dexterity: '+1'
 element: Earth
-fly_speed: null
 fortitude: '+7'
-hardness: null
 hp: '15'
 id: '1143'
 immunity:
@@ -35,8 +31,6 @@ rarity: Common
 reflex: '+5'
 resistance:
 - bludgeoning 2
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) 30 feet'
@@ -49,12 +43,10 @@ source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 20 feet
 - burrow 20 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Elemental|Elemental]]'
@@ -62,7 +54,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+4'
 wisdom: '+2'
 

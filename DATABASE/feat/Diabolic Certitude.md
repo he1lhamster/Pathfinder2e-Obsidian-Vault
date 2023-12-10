@@ -1,20 +1,12 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Diabolic Certitude
-frequency: null
-heighten_level: null
 id: '909'
 level: '4'
 name: Diabolic Certitude
 prerequisite: '[[DATABASE/feat/Hellknight Armiger Dedication|Hellknight Armiger Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/World Guide|World Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Skill|Skill]]'

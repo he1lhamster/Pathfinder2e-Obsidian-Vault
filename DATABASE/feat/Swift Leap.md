@@ -1,23 +1,14 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Swift Leap
-frequency: null
-heighten_level: null
 id: '3506'
 level: '4'
 name: Swift Leap
 prerequisite: '[[DATABASE/feat/Ghoul Dedication|Ghoul Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

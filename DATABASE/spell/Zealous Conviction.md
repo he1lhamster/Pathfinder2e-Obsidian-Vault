@@ -1,28 +1,16 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 10 minutes
-element: null
 heighten: 9th
 heighten_level: 6, 9
 id: '378'
-lesson: null
 level: '6'
-mystery: null
 name: Zealous Conviction
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Enchantment
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: up to 10 willing creatures
@@ -33,7 +21,6 @@ trait:
 - '[[DATABASE/trait/Emotion|Emotion]]'
 - '[[DATABASE/trait/Enchantment|Enchantment]]'
 - '[[DATABASE/trait/Mental|Mental]]'
-trigger: null
 type: Spell
 
 ---

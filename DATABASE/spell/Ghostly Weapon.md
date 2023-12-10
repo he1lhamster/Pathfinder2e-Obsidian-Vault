@@ -1,11 +1,8 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Arundhat|Arundhat]]'
 - '[[DATABASE/deity/Atreia|Atreia]]'
@@ -14,22 +11,13 @@ deity:
 - '[[DATABASE/deity/Falayna|Falayna]]'
 - '[[DATABASE/deity/Gravelady''s Guard|Gravelady''s Guard]]'
 - '[[DATABASE/deity/Pharasma|Pharasma]]'
-domain: null
 duration: 5 minutes
-element: null
-heighten: null
 heighten_level: '3'
 id: '133'
-lesson: null
 level: '3'
-mystery: null
 name: Ghostly Weapon
-patron_theme: null
 range: touch
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: 1 weapon that is either unattended or wielded by you or a willing ally
@@ -38,7 +26,6 @@ tradition:
 - Occult
 trait:
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Spell
 
 ---

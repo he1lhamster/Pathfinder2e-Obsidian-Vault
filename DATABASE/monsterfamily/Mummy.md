@@ -3,9 +3,7 @@ creature_family: Mummy
 id: '74'
 name: Mummy
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
-trait: null
 type: Creature Family
 
 ---

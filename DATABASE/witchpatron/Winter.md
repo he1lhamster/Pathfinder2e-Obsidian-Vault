@@ -2,13 +2,11 @@
 id: '8'
 name: Winter
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Nature|Nature]]'
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 tradition:
 - Primal
-trait: null
 type: Witch Patron Theme
 
 ---

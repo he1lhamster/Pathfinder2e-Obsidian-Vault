@@ -1,8 +1,6 @@
 ﻿---
 bulk: L
 damage: 1d6 B
-deity: null
-favored_weapon: null
 hands: '2'
 id: '308'
 item_category: Weapons
@@ -10,9 +8,7 @@ item_subcategory: Base Weapons
 level: '0'
 name: Whipstaff
 price: 3 gp
-range: null
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 trait:
 - '[[DATABASE/trait/Agile|Agile]]'

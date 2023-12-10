@@ -1,8 +1,6 @@
 ﻿---
 ac: '36'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+25'
 hardness: 25 Comet Hardness
 hazard_type: Trap
@@ -16,9 +14,6 @@ level: '16'
 name: Spiraling Comets
 rarity: Uncommon
 reflex: '+30'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 186. Ghost King''s Rage|Pathfinder #186: Ghost
   King''s Rage]]'
 trait:
@@ -27,8 +22,6 @@ trait:
 - '[[DATABASE/trait/Trap|Trap]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Spiraling Comets<span class="item-type">Hazard 16</span>

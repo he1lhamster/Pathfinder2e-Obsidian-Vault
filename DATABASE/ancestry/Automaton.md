@@ -5,7 +5,6 @@ ability:
 ability_boost:
 - Strength
 - Free
-ability_flaw: null
 hp: '8'
 id: '48'
 land_speed: '25'
@@ -15,7 +14,6 @@ language:
 max_speed: '25'
 name: Automaton
 rarity: Rare
-rus_type_level: null
 size: Medium, Small
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 speed:

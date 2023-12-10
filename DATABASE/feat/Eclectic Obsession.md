@@ -1,23 +1,15 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Eclectic Obsession
 frequency: once per day
-heighten_level: null
 id: '995'
 level: '5'
 name: Eclectic Obsession
 prerequisite: '[[DATABASE/feat/Gnome Obsession|Gnome Obsession]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Gnome|Gnome]]'
-trigger: null
 type: Feat
 
 ---

@@ -5,27 +5,16 @@ bloodline: '[[DATABASE/sorcererbloodline/Nymph|Nymph]] , [[DATABASE/sorcererbloo
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: sustained up to 1 minute
-element: null
-heighten: null
 heighten_level: '2'
 id: '31'
-lesson: null
 level: '2'
-mystery: null
 name: Calm Emotions
-patron_theme: null
 range: 120 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Will
 school: Enchantment
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Divine
 - Occult
@@ -34,7 +23,6 @@ trait:
 - '[[DATABASE/trait/Enchantment|Enchantment]]'
 - '[[DATABASE/trait/Incapacitation|Incapacitation]]'
 - '[[DATABASE/trait/Mental|Mental]]'
-trigger: null
 type: Spell
 
 ---

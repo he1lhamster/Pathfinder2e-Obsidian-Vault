@@ -1,10 +1,7 @@
 ﻿---
 ac: '19'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Attack of Opportunity
@@ -12,13 +9,9 @@ creature_ability:
 - Shield Block
 creature_family: '[[DATABASE/monsterfamily/Geniekin|Geniekin]]'
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+7'
-hardness: null
 hp: '20'
 id: '760'
-immunity: null
 intelligence: '+0'
 land_speed: '20'
 language:
@@ -30,10 +23,6 @@ name: Oread Guard
 perception: '+7'
 rarity: Common
 reflex: '+6'
-resistance: null
-rus_type_level: null
-school: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +7'
@@ -44,21 +33,17 @@ skill:
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 20 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Oread|Oread]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+5'
 wisdom: '+2'
 

@@ -1,37 +1,20 @@
 ﻿---
 actions: '[three-actions]'
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
-heighten: null
 heighten_level: '10'
 id: '377'
-lesson: null
 level: '10'
-mystery: null
 name: Wish
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Arcane
 trait:
 - '[[DATABASE/trait/Divination|Divination]]'
-trigger: null
 type: Spell
 
 ---

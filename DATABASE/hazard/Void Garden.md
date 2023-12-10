@@ -1,8 +1,6 @@
 ﻿---
 ac: '36'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+28'
 hardness: 22 Crystal Hardness
 hazard_type: Environmental
@@ -16,9 +14,6 @@ level: '14'
 name: Void Garden
 rarity: Common
 reflex: '+22'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 184. The Ghouls Hunger|Pathfinder #184: The
   Ghouls Hunger]]'
 trait:
@@ -27,7 +22,6 @@ trait:
 type: Hazard
 weakness:
 - positive 15
-will: null
 
 ---
 # Void Garden<span class="item-type">Hazard 14</span>

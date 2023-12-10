@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Seedpod
-frequency: null
-heighten_level: null
 id: '1041'
+leads_to: '[[DATABASE/feat/Thorned Seedpod|Thorned Seedpod]]'
 level: '1'
 name: Seedpod
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Leshy|Leshy]]'
-trigger: null
 type: Feat
 
 ---

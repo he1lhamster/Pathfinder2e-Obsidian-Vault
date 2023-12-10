@@ -18,7 +18,6 @@ language:
 max_speed: '25'
 name: Anadi
 rarity: Rare
-rus_type_level: null
 size: Medium
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
 speed:
@@ -28,7 +27,6 @@ trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Ancestry
-vision: null
 
 ---
 # Anadi

@@ -2,7 +2,6 @@
 id: '387'
 name: Grimoire
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 trait:
 - Grimoire

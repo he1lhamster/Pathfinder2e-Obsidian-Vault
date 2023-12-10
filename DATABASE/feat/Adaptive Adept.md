@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Adaptive Adept
-frequency: null
-heighten_level: null
 id: '73'
 level: '5'
 name: Adaptive Adept
 prerequisite: '[[DATABASE/feat/Adapted Cantrip|Adapted Cantrip]] ; can cast 3rd-level
   spells'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,22 +1,16 @@
 ﻿---
 ac: '12'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '-1'
 creature_ability:
 - Font of Knowledge
 - Inspirational Presence
 creature_family: '[[DATABASE/monsterfamily/Scholars|Scholars]]'
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+1'
 hp: '5'
 id: '948'
-immunity: null
 intelligence: '+4'
 land_speed: '25'
 language:
@@ -27,9 +21,6 @@ name: Teacher
 perception: '+4'
 rarity: Common
 reflex: '+2'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Lore|Academia Lore]] +14'
@@ -39,20 +30,16 @@ skill:
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 speed:
 - 25 feet
-spell: null
 strength: '+0'
 strength_req: '0'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+6'
 wisdom: '+2'
 

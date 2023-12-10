@@ -1,6 +1,5 @@
 ﻿---
 ac: '16'
-bulk: null
 fortitude: '+11'
 hardness: '5'
 hp: '40'
@@ -13,7 +12,6 @@ name: Hwacha
 price: 180 gp
 rarity: Uncommon
 reflex: '+4'
-rus_type_level: null
 size: Large
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:

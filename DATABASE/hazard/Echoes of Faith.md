@@ -1,10 +1,7 @@
 ﻿---
 ac: '24'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+13'
-hardness: null
 hazard_type: Haunt
 hp: '60'
 id: '221'
@@ -14,10 +11,6 @@ immunity:
 level: '6'
 name: Echoes of Faith
 rarity: Common
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 152. Legacy of the Lost God|Pathfinder #152:
   Legacy of the Lost God]]'
 trait:

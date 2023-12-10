@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Dance Underfoot
-frequency: null
-heighten_level: null
 id: '1433'
+leads_to: '[[DATABASE/feat/Toppling Dance|Toppling Dance]]'
 level: '9'
 name: Dance Underfoot
 prerequisite: '[[DATABASE/feat/Step Lively|Step Lively]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Halfling|Halfling]]'
-trigger: null
 type: Feat
 
 ---

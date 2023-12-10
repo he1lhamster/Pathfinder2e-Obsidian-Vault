@@ -1,10 +1,7 @@
 ﻿---
 ac: '43'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+8'
-climb_speed: null
 constitution: '+8'
 creature_ability:
 - Attack of Opportunity
@@ -17,28 +14,20 @@ creature_ability:
 - Rage
 - Throw Rock
 - Wide Swing
-creature_family: null
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+35'
-hardness: null
 hp: 360 ( fast healing 20)
 id: '2352'
 immunity:
 - cold
 intelligence: '+4'
 land_speed: '30'
-language: null
 level: '19'
 max_speed: '30'
 name: Kargstaad
 perception: '+33'
 rarity: Unique
 reflex: '+31'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]] Languages Aklo'
 - Common
@@ -53,12 +42,10 @@ skill:
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 speed:
 - 30 feet; ice stride
-spell: null
 strength: '+10'
 strength_req: '10'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Cold|Cold]]'
 - '[[DATABASE/trait/Giant|Giant]]'

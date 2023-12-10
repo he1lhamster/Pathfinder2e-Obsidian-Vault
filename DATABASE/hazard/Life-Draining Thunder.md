@@ -1,28 +1,15 @@
 ﻿---
-ac: null
-all_resistance: null
 complexity: Simple
-element: null
-fortitude: null
-hardness: null
 hazard_type: Trap
-hp: null
 id: '167'
-immunity: null
 level: '13'
 name: Life-Draining Thunder
 rarity: Common
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Shadows at Sundown|Shadows at Sundown]]'
 trait:
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Life-Draining Thunder<span class="item-type">Hazard 13</span>

@@ -1,26 +1,17 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Unusual Composition
-frequency: null
-heighten_level: null
 id: '200'
 level: '10'
 name: Unusual Composition
 prerequisite: '[[DATABASE/bardmuse/Polymath|polymath muse]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Bard|Bard]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Metamagic|Metamagic]]'
-trigger: null
 type: Feat
 
 ---

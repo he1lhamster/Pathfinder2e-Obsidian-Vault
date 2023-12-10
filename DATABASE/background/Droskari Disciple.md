@@ -8,16 +8,13 @@ ability_boost:
 feat: '[[DATABASE/feat/Skill Training|Skill Training]]'
 id: '126'
 name: Droskari Disciple
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Lore|Lore]]'
 - Droskar [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Pathfinder 148. Fires of the Haunted City|Pathfinder #148:
   Fires of the Haunted City]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

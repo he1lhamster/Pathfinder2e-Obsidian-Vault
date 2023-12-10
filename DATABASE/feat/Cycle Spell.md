@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Cycle Spell
-frequency: null
-heighten_level: null
 id: '3467'
 level: '4'
 name: Cycle Spell
 prerequisite: '[[DATABASE/feat/Soul Warden Dedication|Soul Warden Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

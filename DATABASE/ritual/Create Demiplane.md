@@ -1,8 +1,5 @@
 ﻿---
-area: null
 cost: precious materials worth a total value of 800 gp
-duration: null
-element: null
 heighten: 10th
 heighten_level: 8, 10
 id: '31'
@@ -11,16 +8,12 @@ name: Create Demiplane
 primary_check: '[[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
   , [[DATABASE/skill/Occultism|Occultism]] , or [[DATABASE/skill/Religion|Religion]]
   (legendary)'
-range: null
 rarity: Rare
-requirement: null
-rus_type_level: null
 school: Conjuration
 secondary_casters: '3'
 secondary_check: Arcana, Nature, Occultism, Religion (whichever three aren't used
   for the primary check)
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-target: null
 trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Rare|Rare]]'

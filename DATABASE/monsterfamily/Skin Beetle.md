@@ -3,10 +3,8 @@ creature_family: Skin Beetle
 id: '332'
 name: Skin Beetle
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 188. They Watched the Stars|Pathfinder #188:
   They Watched the Stars]]'
-trait: null
 type: Creature Family
 
 ---

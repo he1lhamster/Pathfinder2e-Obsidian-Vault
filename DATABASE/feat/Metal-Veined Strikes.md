@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Metal-Veined Strikes
-frequency: null
-heighten_level: null
 id: '2574'
 level: '13'
 name: Metal-Veined Strikes
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Oread|Oread]]'
-trigger: null
 type: Feat
 
 ---

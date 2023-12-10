@@ -1,8 +1,6 @@
 ﻿---
 bulk: '2'
 damage: 1d8 S
-deity: null
-favored_weapon: null
 hands: '2'
 id: '298'
 item_category: Weapons
@@ -10,9 +8,7 @@ item_subcategory: Base Weapons
 level: '0'
 name: Nodachi
 price: 6 gp
-range: null
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 trait:
 - '[[DATABASE/trait/Brace|Brace]]'

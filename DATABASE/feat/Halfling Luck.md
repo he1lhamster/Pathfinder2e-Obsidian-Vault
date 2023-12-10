@@ -1,20 +1,15 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Halfling Luck
 frequency: once per day
-heighten_level: null
 id: '54'
+leads_to: '[[DATABASE/feat/Guiding Luck|Guiding Luck]] , [[DATABASE/feat/Halfling
+  Ingenuity|Halfling Ingenuity]] , [[DATABASE/feat/Incredible Luck (Halfling)|Incredible
+  Luck (Halfling)]] , [[DATABASE/feat/Shared Luck (Halfling)|Shared Luck (Halfling)]]'
 level: '1'
 name: Halfling Luck
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fortune|Fortune]]'
 - '[[DATABASE/trait/Halfling|Halfling]]'

@@ -1,38 +1,21 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
-heighten: null
 heighten_level: '1'
 id: '1166'
-lesson: null
 level: '1'
-mystery: null
 name: Warp Step
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-target: null
 tradition:
 - Arcane
 - Occult
 trait:
 - '[[DATABASE/trait/Cantrip|Cantrip]]'
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
-trigger: null
 type: Cantrip
 
 ---

@@ -1,24 +1,16 @@
 ﻿---
 ac: '19'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Go for the Eyes
 - Sneak Attack
 - Surprise Attacker
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+7'
-hardness: null
 hp: '27'
 id: '392'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -30,9 +22,6 @@ name: Tengu Sneak
 perception: '+6'
 rarity: Common
 reflex: '+10'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 size: Medium
@@ -47,12 +36,10 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 25 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Tengu|Tengu]]'
@@ -60,7 +47,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+4'
 wisdom: '+0'
 

@@ -1,24 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Azure Fins
-frequency: null
-heighten_level: null
 id: '4363'
+leads_to: '[[DATABASE/feat/Call the Worm|Call the Worm]]'
 level: '10'
 name: Azure Fins
 prerequisite: '[[DATABASE/feat/Worm Caller Dedication|Worm Caller Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 194. Cult of the Cave Worm|Pathfinder #194:
   Cult of the Cave Worm]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

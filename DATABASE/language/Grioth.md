@@ -2,7 +2,6 @@
 id: '65'
 name: Grioth
 rarity: Rare
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'

@@ -3,9 +3,7 @@ creature_family: Bear
 id: '13'
 name: Bear
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
-trait: null
 type: Creature Family
 
 ---

@@ -1,10 +1,5 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
-component: null
-cost: null
-deity: null
 domain:
 - '[[DATABASE/domain/Wood Domain|Wood]]'
 duration: sustained up to 1 minute
@@ -12,27 +7,16 @@ element: Wood
 heighten: 8th
 heighten_level: 4, 8
 id: '1419'
-lesson: null
 level: '4'
-mystery: null
 name: Wood Walk
-patron_theme: null
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-target: null
-tradition: null
 trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Focus|Focus]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 - '[[DATABASE/trait/Wood|Wood]]'
-trigger: null
 type: Focus
 
 ---

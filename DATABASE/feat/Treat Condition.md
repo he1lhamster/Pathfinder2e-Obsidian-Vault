@@ -1,27 +1,21 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Treat Condition
-frequency: null
-heighten_level: null
 id: '2029'
+leads_to: '[[DATABASE/feat/Holistic Care|Holistic Care]] , [[DATABASE/feat/Preventative
+  Treatment|Preventative Treatment]]'
 level: '4'
 name: Treat Condition
 prerequisite: '[[DATABASE/feat/Medic Dedication|Medic Dedication]]'
 rarity: Common
 requirement: You are holding [[DATABASE/equipment/Healer's Tools|healer's tools]]
   , or you are wearing themand have a hand free.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Healing|Healing]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

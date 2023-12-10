@@ -1,26 +1,18 @@
 ﻿---
 actions: '[one-action]'
-cost: null
 element: Metal
 feat: Metal Carapace
-frequency: null
 heighten_level: 1, 4, 7, 10, 13, 16, 19
 id: '4253'
 level: '1'
 name: Metal Carapace
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Impulse|Impulse]]'
 - '[[DATABASE/trait/Kineticist|Kineticist]]'
 - '[[DATABASE/trait/Metal|Metal]]'
 - '[[DATABASE/trait/Primal|Primal]]'
-trigger: null
 type: Feat
 
 ---

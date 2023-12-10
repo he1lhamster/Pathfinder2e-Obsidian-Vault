@@ -1,10 +1,7 @@
 ﻿---
 ac: '31'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Attack of Opportunity
@@ -16,10 +13,8 @@ creature_ability:
 - Ghost Bane
 creature_family: '[[DATABASE/monsterfamily/Dragon, Umbral|Dragon, Umbral]]'
 dexterity: '+3'
-element: null
 fly_speed: '140'
 fortitude: '+22'
-hardness: null
 hp: '195'
 id: '634'
 immunity:
@@ -38,9 +33,6 @@ name: Young Umbral Dragon
 perception: '+22'
 rarity: Uncommon
 reflex: '+20'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent (imprecise) 60 feet]]'
@@ -65,7 +57,6 @@ strength_req: '7'
 strongest_save:
 - Fortitude
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dragon|Dragon]]'
 - '[[DATABASE/trait/Shadow|Shadow]]'
@@ -74,7 +65,6 @@ type: Creature
 vision: Greater darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+22'
 wisdom: '+5'
 

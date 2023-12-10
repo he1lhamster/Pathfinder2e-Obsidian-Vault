@@ -1,18 +1,11 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
-frequency: null
 id: '1457'
 name: Break Them Down
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 trait:
 - '[[DATABASE/trait/Gunslinger|Gunslinger]]'
-trigger: null
 type: Action
 
 ---

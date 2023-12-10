@@ -1,8 +1,6 @@
 ﻿---
 ac: '17'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
 climb_speed: '20'
 constitution: '+3'
@@ -11,25 +9,18 @@ creature_ability:
 - Fly Pox
 creature_family: '[[DATABASE/monsterfamily/Fly|Fly]]'
 dexterity: '+4'
-element: null
 fly_speed: '40'
 fortitude: '+6'
-hardness: null
 hp: '20'
 id: '673'
-immunity: null
 intelligence: '-5'
 land_speed: '20'
-language: null
 level: '1'
 max_speed: '40'
 name: Giant Fly
 perception: '+8'
 rarity: Common
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Tremorsense|tremorsense (imprecise) 30 feet]]'
@@ -42,12 +33,10 @@ speed:
 - 20 feet
 - climb 20 feet
 - fly 40 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
@@ -55,7 +44,6 @@ vision: Darkvision
 weakest_save:
 - Fortitude
 - Will
-weakness: null
 will: '+6'
 wisdom: '+3'
 

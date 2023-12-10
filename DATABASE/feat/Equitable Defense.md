@@ -1,20 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Equitable Defense
 frequency: once per 10 minutes
-heighten_level: null
 id: '4042'
 level: '8'
 name: Equitable Defense
 prerequisite: '[[DATABASE/feat/Shieldmarshal Dedication|Shieldmarshal Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 trigger: You take damage from a critical hit.

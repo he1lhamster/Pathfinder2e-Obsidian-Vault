@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Rampaging Form
-frequency: null
-heighten_level: null
 id: '2630'
 level: '17'
 name: Rampaging Form
 prerequisite: '[[DATABASE/action/Change Shape|Change Shape]] with a fox alternate
   form'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Kitsune|Kitsune]]'
-trigger: null
 type: Feat
 
 ---

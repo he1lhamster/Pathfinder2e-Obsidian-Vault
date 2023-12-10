@@ -1,25 +1,18 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Prayer-Touched Weapon
 frequency: once per turn
-heighten_level: null
 id: '3631'
 level: '4'
 name: Prayer-Touched Weapon
 prerequisite: divinespells, you follow a good-aligned deity
 rarity: Uncommon
 requirement: Your most recent action was to cast a non-cantrip divine spell.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Cleric|Cleric]]'
 - '[[DATABASE/trait/Oracle|Oracle]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

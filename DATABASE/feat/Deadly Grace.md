@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Deadly Grace
-frequency: null
-heighten_level: null
 id: '1554'
 level: '16'
 name: Deadly Grace
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Swashbuckler|Swashbuckler]]'
-trigger: null
 type: Feat
 
 ---

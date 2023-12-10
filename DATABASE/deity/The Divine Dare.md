@@ -30,11 +30,9 @@ follower_alignment:
 id: '269'
 name: The Divine Dare
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]]'
 source: '[[DATABASE/source/Firebrands|Firebrands]]'
-trait: null
 type: Deity
 
 ---

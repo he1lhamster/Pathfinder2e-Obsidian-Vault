@@ -1,21 +1,10 @@
 ﻿---
-ac: null
-all_resistance: null
 complexity: Complex
-element: null
-fortitude: null
-hardness: null
 hazard_type: Trap
-hp: null
 id: '386'
-immunity: null
 level: '8'
 name: Corrupted Draft
 rarity: Unique
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/The Enmity Cycle|The Enmity Cycle]]'
 trait:
 - '[[DATABASE/trait/Complex|Complex]]'
@@ -24,8 +13,6 @@ trait:
 - '[[DATABASE/trait/Trap|Trap]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Corrupted Draft<span class="item-type">Hazard 8</span>

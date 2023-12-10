@@ -1,10 +1,7 @@
 ﻿---
 ac: '27'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Motion Sense
@@ -12,12 +9,8 @@ creature_ability:
 - Rallying Call
 - Stretching Step
 - Subsume
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+21'
-hardness: null
 hp: '320'
 id: '2490'
 immunity:
@@ -40,8 +33,6 @@ rarity: Unique
 reflex: '+14'
 resistance:
 - evil 10
-rus_type_level: null
-school: null
 sense:
 - motion sense 60 feet
 - no vision
@@ -54,18 +45,15 @@ source: '[[DATABASE/source/Pathfinder 158. Sixty Feet Under|Pathfinder #158: Six
   Feet Under]]'
 speed:
 - 15 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Ooze|Ooze]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
 weakness:

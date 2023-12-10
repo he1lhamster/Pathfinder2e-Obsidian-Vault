@@ -2,9 +2,6 @@
 id: '173'
 name: Chapter 4. Rivers Run Red
 rarity: Common
-rus_type_level: null
-source: null
-trait: null
 type: Source
 
 ---

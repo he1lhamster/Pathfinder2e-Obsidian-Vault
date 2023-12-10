@@ -1,14 +1,8 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
-frequency: null
 id: '11'
 name: Debilitating Strike
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Rogue|Rogue]]'

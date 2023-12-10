@@ -1,8 +1,6 @@
 ﻿---
 ac: '25'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+18'
 hardness: 12 Keystone Hardness
 hazard_type: Trap
@@ -16,9 +14,6 @@ level: '7'
 name: Keystone Trap
 rarity: Unique
 reflex: '+12'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 182. Graveclaw|Pathfinder #182: Graveclaw]]'
 trait:
 - '[[DATABASE/trait/Complex|Complex]]'
@@ -26,8 +21,6 @@ trait:
 - '[[DATABASE/trait/Trap|Trap]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Keystone Trap<span class="item-type">Hazard 7</span>

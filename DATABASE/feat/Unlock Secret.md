@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Unlock Secret
-frequency: null
-heighten_level: null
 id: '3973'
+leads_to: '[[DATABASE/feat/Transcendent Realization|Transcendent Realization]]'
 level: '5'
 name: Unlock Secret
 prerequisite: '[[DATABASE/feat/Open Mind|Open Mind]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Kashrishi|Kashrishi]]'
-trigger: null
 type: Feat
 
 ---

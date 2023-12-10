@@ -1,23 +1,17 @@
 ﻿---
 ac: '15'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Plaque Burst
 - Tooth Tug
 creature_family: '[[DATABASE/monsterfamily/Tooth Fairy|Tooth Fairy]]'
 dexterity: '+3'
-element: null
 fly_speed: '25'
 fortitude: '+2'
-hardness: null
 hp: '8'
 id: '1344'
-immunity: null
 intelligence: '-1'
 land_speed: '10'
 language:
@@ -28,9 +22,6 @@ name: Tooth Fairy
 perception: '+6'
 rarity: Common
 reflex: '+7'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Tiny
@@ -49,7 +40,6 @@ strength: '-2'
 strength_req: '-2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 type: Creature

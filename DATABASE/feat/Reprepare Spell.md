@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Reprepare Spell
-frequency: null
-heighten_level: null
 id: '661'
+leads_to: '[[DATABASE/feat/Reclaim Spell|Reclaim Spell]]'
 level: '18'
 name: Reprepare Spell
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Wizard|Wizard]]'
-trigger: null
 type: Feat
 
 ---

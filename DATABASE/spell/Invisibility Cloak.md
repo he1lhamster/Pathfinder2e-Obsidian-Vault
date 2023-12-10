@@ -1,36 +1,20 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
-cost: null
-deity: null
-domain: null
 duration: 1 minute
-element: null
 heighten: 6th, 8th
 heighten_level: 4, 6, 8
 id: '531'
-lesson: null
 level: '4'
-mystery: null
 name: Invisibility Cloak
-patron_theme: null
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Illusion
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
-tradition: null
 trait:
 - '[[DATABASE/trait/Illusion|Illusion]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 - '[[DATABASE/trait/Wizard|Wizard]]'
-trigger: null
 type: Focus
 
 ---

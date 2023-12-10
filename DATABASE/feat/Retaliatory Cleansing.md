@@ -1,21 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Retaliatory Cleansing
 frequency: You're holding holy water or a bomb that deals positive damage in one of
   your hands.
-heighten_level: null
 id: '3636'
 level: '8'
 name: Retaliatory Cleansing
-prerequisite: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Alchemist|Alchemist]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

@@ -1,8 +1,6 @@
 ﻿---
 ac: '20'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-3'
 climb_speed: '20'
 constitution: '+5'
@@ -11,12 +9,8 @@ creature_ability:
 - Suction Wizard
 - Swarming Slither
 - Weak Acid
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+14'
-hardness: null
 hp: '65'
 id: '1368'
 immunity:
@@ -27,7 +21,6 @@ immunity:
 - '[[DATABASE/trait/Visual|visual]]'
 intelligence: '-5'
 land_speed: '20'
-language: null
 level: '5'
 max_speed: '20'
 name: Wizard Sponge
@@ -37,8 +30,6 @@ reflex: '+13'
 resistance:
 - piercing 5
 - slashing 5
-rus_type_level: null
-school: null
 sense:
 - no vision
 - '[[DATABASE/monsterability/Tremorsense|tremorsense]] 60 feet'
@@ -50,18 +41,15 @@ source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 20 feet
 - climb 20 feet; suction
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fungus|Fungus]]'
 - '[[DATABASE/trait/Mindless|Mindless]]'
 - '[[DATABASE/trait/Swarm|Swarm]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
 weakness:

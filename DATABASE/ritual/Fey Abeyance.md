@@ -3,24 +3,18 @@ area: "An enclosed area up to 60 feet \xD7 60 feet, up to 20 feet high"
 cost: rare oils, [[DATABASE/equipment/Cold Iron|cold iron]] bells worth at least 5
   gp
 duration: 1 week
-element: null
-heighten: null
 heighten_level: '1'
 id: '50'
 level: '1'
 name: Fey Abeyance
 primary_check: '[[DATABASE/skill/Nature|Nature]] (trained)'
-range: null
 rarity: Rare
-requirement: null
-rus_type_level: null
 school: Abjuration
 secondary_casters: '1'
 secondary_check: '[[DATABASE/skill/Crafting|Crafting]] , [[DATABASE/skill/Intimidation|Intimidation]]
   , [[DATABASE/skill/Occultism|Occultism]] , [[DATABASE/skill/Performance|Performance]]'
 source: '[[DATABASE/source/Pathfinder 169. Kindled Magic|Pathfinder #169: Kindled
   Magic]]'
-target: null
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Rare|Rare]]'

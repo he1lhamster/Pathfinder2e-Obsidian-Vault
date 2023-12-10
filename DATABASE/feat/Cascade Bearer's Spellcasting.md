@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Cascade Bearer's Spellcasting
-frequency: null
-heighten_level: null
 id: '1110'
 level: '10'
 name: Cascade Bearer's Spellcasting
 prerequisite: '[[DATABASE/feat/Magaambyan Attendant Dedication|Magaambyan Attendant
   Dedication]] ; Cascade Bearersaffiliation'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

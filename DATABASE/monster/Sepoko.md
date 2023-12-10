@@ -1,10 +1,7 @@
 ﻿---
 ac: '31'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Divine Font
@@ -12,15 +9,10 @@ creature_ability:
 - Swamp Stride
 - Terrifying Croak
 - Tongue Grab
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+21'
-hardness: null
 hp: '200'
 id: '2277'
-immunity: null
 intelligence: '+0'
 land_speed: '20'
 language:
@@ -31,9 +23,6 @@ name: Sepoko
 perception: '+22'
 rarity: Unique
 reflex: '+18'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -85,7 +74,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+24'
 wisdom: '+5'
 

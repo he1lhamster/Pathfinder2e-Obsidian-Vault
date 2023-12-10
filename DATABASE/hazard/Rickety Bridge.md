@@ -1,27 +1,14 @@
 ﻿---
-ac: null
-all_resistance: null
 complexity: Simple
-element: null
-fortitude: null
-hardness: null
 hazard_type: Environmental
-hp: null
 id: '273'
-immunity: null
 level: '4'
 name: Rickety Bridge
 rarity: Common
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
 - '[[DATABASE/trait/Environmental|Environmental]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Rickety Bridge<span class="item-type">Hazard 4</span>

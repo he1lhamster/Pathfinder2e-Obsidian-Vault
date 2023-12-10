@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Shall Not Falter, Shall Not Rout
-frequency: null
-heighten_level: null
 id: '2168'
 level: '10'
 name: Shall Not Falter, Shall Not Rout
 prerequisite: '[[DATABASE/feat/Knight Reclaimant Dedication|Knight Reclaimant Dedication]]'
 rarity: Rare
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Legends|Legends]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Feat
 
 ---

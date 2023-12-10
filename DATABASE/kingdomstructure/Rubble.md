@@ -1,10 +1,8 @@
 ﻿---
-cost: null
 id: '49'
 level: '0'
 name: Rubble
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
 - '[[DATABASE/trait/Yard|Yard]]'

@@ -1,10 +1,7 @@
 ﻿---
 ac: '24'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Black Apoxia
@@ -12,12 +9,8 @@ creature_ability:
 - Sagebane
 - Steal Breath
 - Stunning Flurry
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+12'
-hardness: null
 hp: 90 ( negative healing )
 id: '1215'
 immunity:
@@ -36,9 +29,6 @@ name: Kurobozu
 perception: '+14'
 rarity: Uncommon
 reflex: '+16'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -50,12 +40,10 @@ skill:
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 35 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 - '[[DATABASE/trait/Undead|Undead]]'
@@ -63,7 +51,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+14'
 wisdom: '+4'
 

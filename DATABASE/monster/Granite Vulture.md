@@ -1,10 +1,7 @@
 ﻿---
 ac: '18'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Anchored Soul
@@ -13,12 +10,9 @@ creature_ability:
 - Reconstitution
 - Spirit Body
 - Spirit Receptacle
-creature_family: null
 dexterity: '+4'
-element: null
 fly_speed: '25'
 fortitude: '+6'
-hardness: null
 hp: '28'
 id: '2046'
 immunity:
@@ -38,9 +32,6 @@ name: Granite Vulture
 perception: '+10'
 rarity: Rare
 reflex: '+8'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -59,7 +50,6 @@ strength: '+2'
 strength_req: '2'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fiend|Fiend]]'
 - '[[DATABASE/trait/Rare|Rare]]'
@@ -67,7 +57,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+10'
 wisdom: '+4'
 

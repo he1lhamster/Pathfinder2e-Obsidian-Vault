@@ -1,23 +1,16 @@
 ﻿---
 ac: '19'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Pack Attack
 - Rugged Travel
 creature_family: '[[DATABASE/monsterfamily/Gnoll|Gnoll]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+8'
-hardness: null
 hp: '45'
 id: '230'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -30,9 +23,6 @@ name: Gnoll Cultist
 perception: '+8'
 rarity: Common
 reflex: '+6'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -61,7 +51,6 @@ strength: '+2'
 strength_req: '2'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Gnoll|Gnoll]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -69,7 +58,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+10'
 wisdom: '+3'
 

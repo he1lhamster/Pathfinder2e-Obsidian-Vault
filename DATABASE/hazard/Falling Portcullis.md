@@ -1,8 +1,6 @@
 ﻿---
 ac: '24'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+17'
 hardness: '14'
 hazard_type: Trap
@@ -16,16 +14,11 @@ level: '6'
 name: Falling Portcullis
 rarity: Common
 reflex: '+11'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
 - '[[DATABASE/trait/Mechanical|Mechanical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Falling Portcullis<span class="item-type">Hazard 6</span>

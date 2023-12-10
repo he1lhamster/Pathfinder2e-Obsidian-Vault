@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Wyrmling Flight
-frequency: null
-heighten_level: null
 id: '2392'
 level: '17'
 name: Wyrmling Flight
 prerequisite: '[[DATABASE/feat/Hatchling Flight|Hatchling Flight]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Kobold|Kobold]]'
-trigger: null
 type: Feat
 
 ---

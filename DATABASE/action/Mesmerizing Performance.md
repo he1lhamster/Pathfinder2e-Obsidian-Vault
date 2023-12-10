@@ -1,22 +1,16 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
-frequency: null
 id: '380'
 name: Mesmerizing Performance
 rarity: Uncommon
 requirement: "The companion\u2019s last action was a successful [[DATABASE/skill/Performance|Performance]]\
   \ check to [[DATABASE/action/Perform|Perform]] ."
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 152. Legacy of the Lost God|Pathfinder #152:
   Legacy of the Lost God]]'
 trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Emotion|Emotion]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Action
 
 ---

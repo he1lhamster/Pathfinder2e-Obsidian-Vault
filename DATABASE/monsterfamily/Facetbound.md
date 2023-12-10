@@ -3,10 +3,8 @@ creature_family: Facetbound
 id: '327'
 name: Facetbound
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 185. A Taste of Ashes|Pathfinder #185: A Taste
   of Ashes]]'
-trait: null
 type: Creature Family
 
 ---

@@ -1,25 +1,16 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Incredible Recollection
-frequency: null
-heighten_level: null
 id: '2668'
 level: '14'
 name: Incredible Recollection
 prerequisite: '[[DATABASE/feat/Eldritch Researcher Dedication|Eldritch Researcher
   Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 164. Hands of the Devil|Pathfinder #164: Hands
   of the Devil]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

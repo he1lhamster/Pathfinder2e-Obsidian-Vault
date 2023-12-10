@@ -1,18 +1,10 @@
 ﻿---
-actions: null
-cost: null
-element: null
-frequency: null
 id: '476'
 name: Travel
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
 - '[[DATABASE/trait/Move|Move]]'
-trigger: null
 type: Action
 
 ---

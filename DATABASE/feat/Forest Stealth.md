@@ -1,10 +1,6 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Forest Stealth
-frequency: null
-heighten_level: null
 id: '982'
 level: '5'
 name: Forest Stealth
@@ -12,13 +8,9 @@ prerequisite: Expert in [[DATABASE/skill/Stealth|Stealth]]
 rarity: Common
 requirement: You are in a forest or jungle environment near an environmental feature
   that would allow you to TakeCover.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Elf|Elf]]'
-trigger: null
 type: Feat
 
 ---

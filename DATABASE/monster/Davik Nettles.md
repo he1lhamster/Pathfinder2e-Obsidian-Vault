@@ -1,10 +1,7 @@
 ﻿---
 ac: '19'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Fearsome Gaze
@@ -12,15 +9,10 @@ creature_ability:
 - Rejuvenation
 - Rotting Stench
 - Sure Possession
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+12'
-hardness: null
 hp: '70'
 id: '2226'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -33,8 +25,6 @@ rarity: Unique
 reflex: '+11'
 resistance:
 - '[[DATABASE/trait/Fire|fire]] 7'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -60,7 +50,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+10'
 wisdom: '+2'
 

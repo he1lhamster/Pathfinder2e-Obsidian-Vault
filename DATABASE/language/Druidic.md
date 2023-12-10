@@ -2,7 +2,6 @@
 id: '23'
 name: Druidic
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Secret|Secret]]'

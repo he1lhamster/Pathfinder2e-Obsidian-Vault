@@ -1,20 +1,13 @@
 ﻿---
 actions: '[three-actions]'
-cost: null
 element: Air
 feat: Infinite Expanse of Bluest Heaven
-frequency: null
-heighten_level: null
 id: '4220'
 level: '18'
 name: Infinite Expanse of Bluest Heaven
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Illusion
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Illusion|Illusion]]'
@@ -24,7 +17,6 @@ trait:
 - '[[DATABASE/trait/Overflow|Overflow]]'
 - '[[DATABASE/trait/Primal|Primal]]'
 - '[[DATABASE/trait/Visual|Visual]]'
-trigger: null
 type: Feat
 
 ---

@@ -5,7 +5,6 @@ id: '13'
 level: '5'
 name: Lizardfolk Defenders
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
 - '[[DATABASE/trait/Skirmisher|Skirmisher]]'

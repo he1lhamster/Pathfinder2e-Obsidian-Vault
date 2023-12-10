@@ -1,7 +1,6 @@
 ﻿---
 id: '15'
 name: Fatigued
-source: null
 
 ---
 # Fatigued

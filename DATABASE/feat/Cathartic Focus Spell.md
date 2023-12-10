@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Cathartic Focus Spell
-frequency: null
-heighten_level: null
 id: '2965'
 level: '4'
 name: Cathartic Focus Spell
 prerequisite: '[[DATABASE/feat/Cathartic Mage Dedication|Cathartic Mage Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

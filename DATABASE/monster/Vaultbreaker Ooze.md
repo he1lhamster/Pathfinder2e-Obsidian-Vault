@@ -1,8 +1,6 @@
 ﻿---
 ac: '13'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
 climb_speed: '10'
 constitution: '+7'
@@ -14,10 +12,7 @@ creature_ability:
 - Treasure Sense
 creature_family: '[[DATABASE/monsterfamily/Ooze|Ooze]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+17'
-hardness: null
 hp: '150'
 id: '997'
 immunity:
@@ -29,16 +24,12 @@ immunity:
 - '[[DATABASE/trait/Visual|visual]]'
 intelligence: '-5'
 land_speed: '20'
-language: null
 level: '6'
 max_speed: '20'
 name: Vaultbreaker Ooze
 perception: '+10'
 rarity: Uncommon
 reflex: '+10'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - motion sense 60 feet
 - treasure sense (imprecise) 30 feet
@@ -50,21 +41,17 @@ source: '[[DATABASE/source/Pathfinder 158. Sixty Feet Under|Pathfinder #158: Six
 speed:
 - 20 feet
 - climb 10 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Mindless|Mindless]]'
 - '[[DATABASE/trait/Ooze|Ooze]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+8'
 wisdom: '+0'
 

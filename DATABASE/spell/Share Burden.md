@@ -1,32 +1,17 @@
 ﻿---
 actions: '[reaction]'
-area: null
-bloodline: null
 component:
 - Somatic
-cost: null
-deity: null
 domain:
 - '[[DATABASE/domain/Repose Domain|Repose]]'
-duration: null
-element: null
-heighten: null
 heighten_level: '1'
 id: '612'
-lesson: null
 level: '1'
-mystery: null
 name: Share Burden
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
 target: you and the triggering ally.
-tradition: null
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Mental|Mental]]'

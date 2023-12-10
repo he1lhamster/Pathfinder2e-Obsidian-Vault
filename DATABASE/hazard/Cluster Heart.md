@@ -1,8 +1,6 @@
 ﻿---
 ac: '39'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+33'
 hardness: '15'
 hazard_type: Environmental
@@ -20,8 +18,6 @@ resistance:
 - '[[DATABASE/spell/Disintegrate|disintegrate]] deals double damage'
 - ignoringHardness
 - rather than destroying the cluster heart outright
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 191. The Destiny War|Pathfinder #191: The Destiny
   War]]'
 trait:
@@ -29,7 +25,6 @@ trait:
 type: Hazard
 weakness:
 - '[[DATABASE/trait/Sonic|sonic]] 20'
-will: null
 
 ---
 # Cluster Heart<span class="item-type">Hazard 18</span>

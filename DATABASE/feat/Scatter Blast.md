@@ -1,24 +1,15 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Scatter Blast
-frequency: null
-heighten_level: null
 id: '3175'
 level: '6'
 name: Scatter Blast
-prerequisite: null
 rarity: Common
 requirement: You're wielding a loaded firearm that has the [[DATABASE/trait/Scatter|scatter]]
   trait.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Gunslinger|Gunslinger]]'
-trigger: null
 type: Feat
 
 ---

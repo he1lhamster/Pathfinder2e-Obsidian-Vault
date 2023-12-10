@@ -1,14 +1,9 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 frequency: once per hour
 id: '348'
 name: Feast on the Fallen
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 149. Against the Scarlet Triad|Pathfinder #149:
   Against the Scarlet Triad]]'
 trait:

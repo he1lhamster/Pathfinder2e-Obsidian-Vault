@@ -1,8 +1,5 @@
 ﻿---
 ac: '13'
-burrow_speed: null
-climb_speed: null
-fly_speed: null
 fortitude: '+7'
 hardness: '5'
 hp: '18'
@@ -14,13 +11,8 @@ max_speed: '30'
 name: Clunkerjunker
 price: 30 gp
 rarity: Uncommon
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 size: Medium
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Vehicle

@@ -3,10 +3,8 @@ creature_family: Demon Throng
 id: '337'
 name: Demon Throng
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 191. The Destiny War|Pathfinder #191: The Destiny
   War]]'
-trait: null
 type: Creature Family
 
 ---

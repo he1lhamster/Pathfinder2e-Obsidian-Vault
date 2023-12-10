@@ -8,9 +8,7 @@ ability_boost:
 feat: '[[DATABASE/feat/Streetwise|Streetwise]]'
 id: '281'
 name: Alkenstar Sojourner
-prerequisite: null
 rarity: Uncommon
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Society|Society]]'
 - Engineering [[DATABASE/skill/Lore|Lore]]

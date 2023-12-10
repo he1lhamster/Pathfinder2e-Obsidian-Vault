@@ -1,18 +1,11 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
-frequency: null
 id: '1267'
 name: Unnerving Screech
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 181. Zombie Feast|Pathfinder #181: Zombie Feast]]'
 trait:
 - '[[DATABASE/trait/Auditory|Auditory]]'
-trigger: null
 type: Action
 
 ---

@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Attunement to Stone
-frequency: null
-heighten_level: null
 id: '892'
 level: '10'
 name: Attunement to Stone
 prerequisite: '[[DATABASE/feat/Ka Stone Ritual|Ka Stone Ritual]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/World Guide|World Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

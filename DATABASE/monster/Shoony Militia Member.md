@@ -1,21 +1,13 @@
 ﻿---
 ac: '17'
 alignment: LG
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+1'
-creature_ability: null
 creature_family: '[[DATABASE/monsterfamily/Shoony|Shoony]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+9'
-hardness: null
 hp: '40'
 id: '522'
-immunity: null
 intelligence: '+0'
 land_speed: '20'
 language:
@@ -27,9 +19,6 @@ name: Shoony Militia Member
 perception: '+8'
 rarity: Rare
 reflex: '+6'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 - scent (imprecise) 30 feet
@@ -44,12 +33,10 @@ source: '[[DATABASE/source/Pathfinder 153. Life''s Long Shadows|Pathfinder #153:
   Long Shadows]]'
 speed:
 - 20 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Rare|Rare]]'
@@ -58,7 +45,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Reflex
-weakness: null
 will: '+8'
 wisdom: '+2'
 

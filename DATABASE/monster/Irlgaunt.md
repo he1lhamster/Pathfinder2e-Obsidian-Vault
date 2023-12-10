@@ -1,23 +1,17 @@
 ﻿---
 ac: '34'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
 climb_speed: '30'
 constitution: '+5'
 creature_ability:
 - Regurgitate Gastrolith
 - Stone Step
-creature_family: null
 dexterity: '+8'
 element: Earth
-fly_speed: null
 fortitude: '+22'
-hardness: null
 hp: '265'
 id: '704'
-immunity: null
 intelligence: '+4'
 land_speed: '30'
 language:
@@ -31,9 +25,6 @@ name: Irlgaunt
 perception: '+24'
 rarity: Common
 reflex: '+25'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -55,7 +46,6 @@ strength: '+7'
 strength_req: '7'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Earth|Earth]]'

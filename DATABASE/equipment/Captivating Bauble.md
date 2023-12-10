@@ -1,46 +1,17 @@
 ﻿---
-ac: null
 actions: '[three-actions]'
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '2098'
 item_category: Consumables
 item_subcategory: Talismans
-land_speed: null
 level: '12'
-max_speed: null
 name: Captivating Bauble
-onset: null
 price: 350 gp
-range: null
 rarity: Common
-reflex: null
 requirement: You are a master in [[DATABASE/skill/Deception|Deception]] or [[DATABASE/skill/Diplomacy|Diplomacy]]
   .
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Enchantment
-size: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-spell: null
-stage: null
 subcategory: consumable/talisman
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Auditory|Auditory]]'
 - '[[DATABASE/trait/Consumable|Consumable]]'
@@ -50,12 +21,8 @@ trait:
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Talisman|Talisman]]'
 - '[[DATABASE/trait/Visual|Visual]]'
-trigger: null
 type: Item
 usage: affixed to armor
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Captivating Bauble<span class="item-type">Item 12</span>

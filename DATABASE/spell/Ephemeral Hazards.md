@@ -1,39 +1,25 @@
 ﻿---
 actions: '[three-actions]'
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
 domain:
 - '[[DATABASE/domain/Delirium Domain|Delirium]]'
 duration: 1 minute
-element: null
 heighten: '+1'
 heighten_level: 4, 5, 6, 7, 8, 9, 10
 id: '601'
-lesson: null
 level: '4'
-mystery: null
 name: Ephemeral Hazards
-patron_theme: null
 range: 60 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Illusion
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
-target: null
-tradition: null
 trait:
 - '[[DATABASE/trait/Illusion|Illusion]]'
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Visual|Visual]]'
-trigger: null
 type: Focus
 
 ---

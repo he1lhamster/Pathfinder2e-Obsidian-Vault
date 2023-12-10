@@ -22,11 +22,9 @@ follower_alignment:
 id: '7'
 name: Gorum
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]]'
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Deity
 
 ---

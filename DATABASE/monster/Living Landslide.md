@@ -1,10 +1,8 @@
 ﻿---
 ac: '21'
 alignment: N
-all_resistance: null
 burrow_speed: '25'
 charisma: '-1'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Crumble
@@ -13,9 +11,7 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Elemental, Earth|Elemental, Earth]]'
 dexterity: '-1'
 element: Earth
-fly_speed: null
 fortitude: '+15'
-hardness: null
 hp: '90'
 id: '183'
 immunity:
@@ -33,9 +29,6 @@ name: Living Landslide
 perception: '+12'
 rarity: Common
 reflex: '+8'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - tremorsense (imprecise) 60 feet
@@ -47,12 +40,10 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 25 feet
 - burrow 25 feet; earth glide
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Elemental|Elemental]]'
@@ -60,7 +51,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+10'
 wisdom: '+1'
 

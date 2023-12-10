@@ -1,27 +1,14 @@
 ﻿---
 actions: '[one-action]'
-area: null
-bloodline: null
 component:
 - Somatic
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
 heighten: 3rd, 5th
 heighten_level: 1, 3, 5
 id: '722'
-lesson: null
 level: '1'
-mystery: null
 name: Thoughtful Gift
-patron_theme: null
 range: 120 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 target: 1 willing creature
@@ -32,7 +19,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Teleportation|Teleportation]]'
-trigger: null
 type: Spell
 
 ---

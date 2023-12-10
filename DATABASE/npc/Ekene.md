@@ -1,10 +1,7 @@
 ﻿---
 ac: '19'
 alignment: LG
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Ancestry Feat
@@ -15,12 +12,9 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Threshold of Knowledge Pregenerated Characters|Threshold
   of Knowledge Pregenerated Characters]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+5'
 hp: '16'
 id: '1750'
-immunity: null
 intelligence: '+1'
 land_speed: '30'
 language:
@@ -33,8 +27,6 @@ name: Ekene
 perception: '+4'
 rarity: Unique
 reflex: '+9'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
@@ -56,7 +48,6 @@ strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Elf|Elf]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -65,7 +56,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+6'
 wisdom: '+1'
 

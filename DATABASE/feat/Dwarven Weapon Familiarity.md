@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Dwarven Weapon Familiarity
-frequency: null
-heighten_level: null
 id: '2'
+leads_to: '[[DATABASE/feat/Dwarven Weapon Cunning|Dwarven Weapon Cunning]] , [[DATABASE/feat/Dwarven
+  Weapon Expertise|Dwarven Weapon Expertise]]'
 level: '1'
 name: Dwarven Weapon Familiarity
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Dwarf|Dwarf]]'
-trigger: null
 type: Feat
 
 ---

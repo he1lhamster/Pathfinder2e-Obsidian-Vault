@@ -6,11 +6,9 @@ ability_boost:
 id: '3'
 name: Athletics
 rarity: Common
-rus_type_level: null
 skill:
 - Athletics
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Skill
 
 ---

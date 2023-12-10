@@ -1,10 +1,7 @@
 ﻿---
 ac: '24'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Constrict
@@ -13,10 +10,7 @@ creature_ability:
 - Wicked Bite
 creature_family: '[[DATABASE/monsterfamily/Urdefhan|Urdefhan]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+17'
-hardness: null
 hp: 120 ( negative healing )
 id: '1389'
 immunity:
@@ -35,9 +29,6 @@ name: Urdefhan Lasher
 perception: '+16'
 rarity: Common
 reflex: '+14'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 size: Medium
@@ -59,7 +50,6 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Urdefhan|Urdefhan]]'
@@ -67,7 +57,6 @@ type: Creature
 vision: Greater darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+16'
 wisdom: '+3'
 

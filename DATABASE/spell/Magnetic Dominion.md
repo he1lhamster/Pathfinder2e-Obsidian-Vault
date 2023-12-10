@@ -1,27 +1,14 @@
 ﻿---
 actions: '[three-actions]'
 area: 100-foot emanation
-bloodline: null
-component: null
-cost: null
-deity: null
-domain: null
 duration: sustained up to 1 minute
 element: Metal
-heighten: null
 heighten_level: '9'
 id: '1372'
-lesson: null
 level: '9'
-mystery: null
 name: Magnetic Dominion
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Reflex
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 target: any number of creatures wearing metal armor, creatures made of metal, creatures
   that have the [[DATABASE/trait/Metal|metal]] trait, and unattended metal objects
@@ -32,7 +19,6 @@ trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Metal|Metal]]'
-trigger: null
 type: Spell
 
 ---

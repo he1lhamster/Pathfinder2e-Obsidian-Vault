@@ -1,10 +1,6 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Whirlwind Stance
-frequency: null
-heighten_level: null
 id: '1197'
 level: '10'
 name: Whirlwind Stance
@@ -13,17 +9,13 @@ prerequisite: '[[DATABASE/feat/Staff Acrobat Dedication|Staff Acrobat Dedication
 rarity: Uncommon
 requirement: You are wielding your staff, which must have the [[DATABASE/trait/Parry|parry]]
   trait.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 151. The Show Must Go On|Pathfinder #151: The
   Show Must Go On]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Flourish|Flourish]]'
 - '[[DATABASE/trait/Stance|Stance]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

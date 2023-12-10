@@ -1,10 +1,8 @@
 ﻿---
 ac: '41'
 alignment: N
-all_resistance: null
 burrow_speed: '40'
 charisma: '-1'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Dune Dispersal
@@ -15,27 +13,18 @@ creature_ability:
 - Spew Sandstorm
 - Swallow
 - Whole
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+35'
-hardness: null
 hp: '445'
 id: '1673'
-immunity: null
 intelligence: '-4'
 land_speed: '30'
-language: null
 level: '19'
 max_speed: '40'
 name: Gluttonworm
 perception: '+32'
 rarity: Uncommon
 reflex: '+29'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) 100 feet'
@@ -47,12 +36,10 @@ source: '[[DATABASE/source/Pathfinder 173. Doorway to the Red Star|Pathfinder #1
 speed:
 - 30 feet
 - burrow 40 feet (in sand or loose soil only)
-spell: null
 strength: '+10'
 strength_req: '10'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
@@ -60,7 +47,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+32'
 wisdom: '+5'
 

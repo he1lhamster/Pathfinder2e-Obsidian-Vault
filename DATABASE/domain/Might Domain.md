@@ -1,5 +1,4 @@
 ﻿---
-advanced_apocryphal_spell: null
 advanced_domain_spell: '[[DATABASE/spell/Enduring Might|Enduring Might]]'
 apocryphal_spell: '[[DATABASE/spell/Victory Cry|Victory Cry]]'
 deity:
@@ -59,9 +58,7 @@ domain_spell: '[[DATABASE/spell/Athletic Rush|Athletic Rush]]'
 id: '20'
 name: Might Domain
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Domain
 
 ---

@@ -2,7 +2,6 @@
 id: '231'
 name: Protean
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait:
 - Protean

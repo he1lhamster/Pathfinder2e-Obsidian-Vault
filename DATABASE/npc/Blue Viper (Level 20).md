@@ -1,10 +1,7 @@
 ﻿---
 ac: '44'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Infused Items
@@ -15,10 +12,7 @@ creature_ability:
 - Potent Poisoner
 - Quick Application
 - Quick Bomber
-creature_family: null
 dexterity: '+7'
-element: null
-fly_speed: null
 fortitude: '+30'
 hp: '366'
 id: '1528'
@@ -37,8 +31,6 @@ name: Blue Viper (Level 20)
 perception: '+33'
 rarity: Unique
 reflex: '+36'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
@@ -53,12 +45,10 @@ source: '[[DATABASE/source/Pathfinder 168. King of the Mountain|Pathfinder #168:
   of the Mountain]]'
 speed:
 - 25 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Ratfolk|Ratfolk]]'
@@ -67,7 +57,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+33'
 wisdom: '+3'
 

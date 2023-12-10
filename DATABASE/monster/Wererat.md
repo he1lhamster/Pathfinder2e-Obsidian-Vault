@@ -1,10 +1,7 @@
 ﻿---
 ac: '19'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Change Shape
@@ -15,13 +12,9 @@ creature_ability:
 - Sneak Attack
 creature_family: '[[DATABASE/monsterfamily/Werecreature|Werecreature]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+6'
-hardness: null
 hp: '45'
 id: '410'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -32,9 +25,6 @@ name: Wererat
 perception: '+8'
 rarity: Common
 reflex: '+10'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 - scent (imprecise) 30 feet
@@ -48,12 +38,10 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 25 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Human|Human]]'

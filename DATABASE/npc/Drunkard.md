@@ -1,21 +1,15 @@
 ﻿---
 ac: '17'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Drunken Rage
 creature_family: '[[DATABASE/monsterfamily/Publicans|Publicans]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+10'
 hp: '40'
 id: '946'
-immunity: null
 intelligence: '-1'
 land_speed: '25'
 language:
@@ -26,9 +20,6 @@ name: Drunkard
 perception: '+6'
 rarity: Common
 reflex: '+8'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Lore|Alcohol Lore]] +3'
@@ -37,20 +28,16 @@ skill:
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 speed:
 - 25 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+6'
 wisdom: '+0'
 

@@ -1,25 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Aura of Unbreakable Virtue
-frequency: null
-heighten_level: null
 id: '1161'
 level: '20'
 name: Aura of Unbreakable Virtue
 prerequisite: '[[DATABASE/championtenet/Good|tenets of good]]'
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 150. Broken Promises|Pathfinder #150: Broken
   Promises]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Champion|Champion]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

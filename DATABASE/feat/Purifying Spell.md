@@ -1,26 +1,18 @@
 ﻿---
 actions: '[one-action]'
-cost: null
 element: Water
 feat: Purifying Spell
-frequency: null
-heighten_level: null
 id: '2979'
 level: '12'
 name: Purifying Spell
 prerequisite: '[[DATABASE/druidicorder/Wave|wave order]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Druid|Druid]]'
 - '[[DATABASE/trait/Metamagic|Metamagic]]'
 - '[[DATABASE/trait/Water|Water]]'
-trigger: null
 type: Feat
 
 ---

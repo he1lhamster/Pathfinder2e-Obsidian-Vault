@@ -2,7 +2,6 @@
 id: '43'
 name: Detection
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - Detection

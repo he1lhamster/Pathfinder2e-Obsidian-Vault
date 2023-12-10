@@ -1,21 +1,15 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
-frequency: null
 id: '1430'
 name: Covering Fire
 rarity: Common
 requirement: '[[DATABASE/kingmakerwarfaretactic/Sharpshooter|Sharpshooter]]'
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
 - '[[DATABASE/trait/Attack|Attack]]'
 - '[[DATABASE/trait/Cavalry|Cavalry]]'
 - '[[DATABASE/trait/Infantry|Infantry]]'
 - '[[DATABASE/trait/Skirmisher|Skirmisher]]'
-trigger: null
 type: Action
 
 ---

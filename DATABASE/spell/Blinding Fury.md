@@ -1,26 +1,14 @@
 ﻿---
 actions: '[reaction]'
-area: null
-bloodline: null
 component:
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: varies
-element: null
-heighten: null
 heighten_level: '6'
 id: '672'
-lesson: null
 level: '6'
-mystery: null
 name: Blinding Fury
-patron_theme: null
 range: 60 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Will
 school: Enchantment
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'

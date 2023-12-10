@@ -1,10 +1,7 @@
 ﻿---
 ac: '36'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Infused Items
@@ -14,14 +11,10 @@ creature_ability:
 - Potent Poisoner
 - Quick Application
 - Toxic Escape
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+30'
 hp: '300'
 id: '1493'
-immunity: null
 intelligence: '+5'
 land_speed: '25'
 language:
@@ -35,8 +28,6 @@ name: Blue Viper (Level 16)
 perception: '+30'
 rarity: Unique
 reflex: '+29'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Small
@@ -50,12 +41,10 @@ skill:
 source: '[[DATABASE/source/Pathfinder 167. Ready Fight!|Pathfinder #167: Ready? Fight!]]'
 speed:
 - 25 feet
-spell: null
 strength: '+0'
 strength_req: '0'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Ratfolk|Ratfolk]]'
@@ -64,7 +53,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+24'
 wisdom: '+2'
 

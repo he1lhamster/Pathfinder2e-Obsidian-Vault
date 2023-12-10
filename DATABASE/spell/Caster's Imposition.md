@@ -1,28 +1,16 @@
 ﻿---
 actions: '[three-actions]'
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 1 minute
-element: null
 heighten: 4th, 5th
 heighten_level: 3, 4, 5
 id: '1215'
-lesson: null
 level: '3'
-mystery: null
 name: Caster's Imposition
-patron_theme: null
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 saving_throw: Will
 school: Abjuration
 source: '[[DATABASE/source/Pathfinder 182. Graveclaw|Pathfinder #182: Graveclaw]]'
@@ -36,7 +24,6 @@ trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Curse|Curse]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Spell
 
 ---

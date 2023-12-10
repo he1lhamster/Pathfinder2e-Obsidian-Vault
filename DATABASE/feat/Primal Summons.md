@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Primal Summons
-frequency: null
-heighten_level: null
 id: '343'
 level: '12'
 name: Primal Summons
 prerequisite: '[[DATABASE/feat/Call of the Wild|Call of the Wild]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Druid|Druid]]'
-trigger: null
 type: Feat
 
 ---

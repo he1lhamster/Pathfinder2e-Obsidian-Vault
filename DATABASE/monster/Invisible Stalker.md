@@ -1,10 +1,7 @@
 ﻿---
 ac: '26'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Naturally Invisible
@@ -15,7 +12,6 @@ dexterity: '+6'
 element: Air
 fly_speed: '25'
 fortitude: '+14'
-hardness: null
 hp: '70'
 id: '179'
 immunity:
@@ -33,9 +29,6 @@ name: Invisible Stalker
 perception: '+16'
 rarity: Common
 reflex: '+18'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -47,12 +40,10 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 25 feet
 - fly 25 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Elemental|Elemental]]'
@@ -60,7 +51,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+11'
 wisdom: '+2'
 

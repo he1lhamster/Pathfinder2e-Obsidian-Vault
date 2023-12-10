@@ -1,38 +1,22 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
-heighten: null
 heighten_level: '7'
 id: '1157'
-lesson: null
 level: '7'
-mystery: null
 name: Momentary Recovery
-patron_theme: null
 range: 60 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-target: null
 tradition:
 - Arcane
 - Occult
 trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Teleportation|Teleportation]]'
-trigger: null
 type: Spell
 
 ---

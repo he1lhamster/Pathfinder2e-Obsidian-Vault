@@ -1,27 +1,18 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Grovel
-frequency: null
-heighten_level: null
 id: '1277'
 level: '5'
 name: Grovel
 prerequisite: Trained in [[DATABASE/skill/Deception|Deception]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Auditory|Auditory]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Emotion|Emotion]]'
 - '[[DATABASE/trait/Kobold|Kobold]]'
 - '[[DATABASE/trait/Mental|Mental]]'
-trigger: null
 type: Feat
 
 ---

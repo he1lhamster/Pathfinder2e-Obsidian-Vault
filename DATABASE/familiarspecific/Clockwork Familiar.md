@@ -1,9 +1,7 @@
 ﻿---
 id: '9'
 name: Clockwork Familiar
-rus_type_level: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
-trait: null
 
 ---
 # Clockwork Familiar

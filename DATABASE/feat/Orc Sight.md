@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Orc Sight
-frequency: null
-heighten_level: null
 id: '84'
 level: '1'
 name: Orc Sight
 prerequisite: low-light vision
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Half-Orc|Half-Orc]]'
-trigger: null
 type: Feat
 
 ---

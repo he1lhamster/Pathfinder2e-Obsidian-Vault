@@ -1,38 +1,24 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 10 minutes
-element: null
 heighten: '+1'
 heighten_level: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
 id: '473'
-lesson: null
 level: '1'
-mystery: null
 name: Goodberry
-patron_theme: null
 range: touch
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: 1 ripe berry
-tradition: null
 trait:
 - '[[DATABASE/trait/Druid|Druid]]'
 - '[[DATABASE/trait/Healing|Healing]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Focus
 
 ---

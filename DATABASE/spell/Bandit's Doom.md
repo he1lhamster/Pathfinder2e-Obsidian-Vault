@@ -1,29 +1,15 @@
 ﻿---
-actions: null
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 1 month
-element: null
 heighten: '+2'
 heighten_level: 5, 7, 9
 id: '866'
-lesson: null
 level: '5'
-mystery: null
 name: Bandit's Doom
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 target: 1 item of 2 Bulk or less
@@ -34,7 +20,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Curse|Curse]]'
-trigger: null
 type: Spell
 
 ---

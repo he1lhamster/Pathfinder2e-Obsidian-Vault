@@ -1,10 +1,7 @@
 ﻿---
 ac: '28'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Attack of Opportunity
@@ -12,10 +9,8 @@ creature_ability:
 - Truespeech
 creature_family: '[[DATABASE/monsterfamily/Aeon|Aeon]]'
 dexterity: '+5'
-element: null
 fly_speed: '40'
 fortitude: '+17'
-hardness: null
 hp: '160'
 id: '537'
 immunity:
@@ -36,9 +31,6 @@ name: Zelekhut
 perception: '+21'
 rarity: Common
 reflex: '+20'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/spell/True Seeing|true seeing]]'
@@ -65,7 +57,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aeon|Aeon]]'
 - '[[DATABASE/trait/Inevitable|Inevitable]]'

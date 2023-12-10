@@ -1,31 +1,18 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Verbal
 - Somatic
-cost: null
-deity: null
-domain: null
 duration: 1 minute
 element: Fire
 heighten: 4th, 6th, 8th
 heighten_level: 2, 4, 6, 8
 id: '1233'
-lesson: null
 level: '2'
-mystery: null
 name: Blazing Blade
-patron_theme: null
-range: null
 rarity: Rare
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
-target: null
 tradition:
 - Divine
 - Primal
@@ -34,7 +21,6 @@ trait:
 - '[[DATABASE/trait/Fire|Fire]]'
 - '[[DATABASE/trait/Good|Good]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Spell
 
 ---

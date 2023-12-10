@@ -3,10 +3,8 @@ creature_family: Spawn of Rovagug
 id: '115'
 name: Spawn of Rovagug
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 150. Broken Promises|Pathfinder #150: Broken
   Promises]]'
-trait: null
 type: Creature Family
 
 ---

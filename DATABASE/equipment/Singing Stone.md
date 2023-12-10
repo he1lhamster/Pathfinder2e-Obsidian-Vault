@@ -1,55 +1,20 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
 bulk: L
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
 element: Earth
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '2596'
 item_category: Held Items
-item_subcategory: null
-land_speed: null
 level: '13'
-max_speed: null
 name: Singing Stone
-onset: null
 price: 3,000 gp
-range: null
 rarity: Uncommon
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
-school: null
-size: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-spell: null
-stage: null
 subcategory: helditem
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Item
 usage: held in 1 hand
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Singing Stone<span class="item-type">Item 13</span>

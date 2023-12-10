@@ -1,24 +1,16 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Quicken Heartbeat
 frequency: once per turn
-heighten_level: null
 id: '1229'
 level: '10'
 name: Quicken Heartbeat
 prerequisite: '[[DATABASE/feat/Golem Grafter Dedication|Golem Grafter Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 153. Life''s Long Shadows|Pathfinder #153: Life''s
   Long Shadows]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

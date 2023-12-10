@@ -1,9 +1,5 @@
 ﻿---
-ac: null
-all_resistance: null
 complexity: Complex
-element: null
-fortitude: null
 hardness: 17 Sluiceway Hardness
 hazard_type: Trap
 hp: 38 (BT 34)
@@ -15,10 +11,6 @@ immunity:
 level: '9'
 name: Quarry Sluiceway
 rarity: Common
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 147. Tomorrow Must Burn|Pathfinder #147: Tomorrow
   Must Burn]]'
 trait:
@@ -26,8 +18,6 @@ trait:
 - '[[DATABASE/trait/Mechanical|Mechanical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Quarry Sluiceway<span class="item-type">Hazard 9</span>

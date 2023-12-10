@@ -1,10 +1,6 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Subtle Shank
-frequency: null
-heighten_level: null
 id: '2208'
 level: '8'
 name: Subtle Shank
@@ -13,16 +9,12 @@ rarity: Uncommon
 requirement: You have a melee weapon of light bulk [[DATABASE/action/Conceal an Object|Concealed]]
   on yourperson via the [[DATABASE/skill/Stealth|Stealth]] skill, and the target isn't
   awareof it.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 159. All or Nothing|Pathfinder #159: All or
   Nothing]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Flourish|Flourish]]'
 - '[[DATABASE/trait/Rogue|Rogue]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

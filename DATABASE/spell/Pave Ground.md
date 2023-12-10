@@ -1,29 +1,15 @@
 ﻿---
 actions: '[two-actions]'
 area: 60-foot line along the ground
-bloodline: null
-component: null
-cost: null
-deity: null
-domain: null
 duration: sustained up to 1 minute
 element: Earth
 heighten: 4th, 6th
 heighten_level: 2, 4, 6
 id: '1338'
-lesson: null
 level: '2'
-mystery: null
 name: Pave Ground
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-target: null
 tradition:
 - Arcane
 - Primal
@@ -31,7 +17,6 @@ trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
-trigger: null
 type: Spell
 
 ---

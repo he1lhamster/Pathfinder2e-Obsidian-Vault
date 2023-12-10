@@ -1,29 +1,18 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Skode|Skode]]'
-domain: null
 duration: 1 hour
-element: null
 heighten: 5th
 heighten_level: 1, 5
 id: '206'
-lesson: null
 level: '1'
-mystery: null
 name: Negate Aroma
-patron_theme: null
 range: touch
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: 1 willing creature
@@ -32,7 +21,6 @@ tradition:
 - Primal
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
-trigger: null
 type: Spell
 
 ---

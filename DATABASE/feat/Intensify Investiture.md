@@ -1,23 +1,14 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Intensify Investiture
 frequency: once per 10 minutes
-heighten_level: null
 id: '3721'
 level: '12'
 name: Intensify Investiture
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Thaumaturge|Thaumaturge]]'
-trigger: null
 type: Feat
 
 ---

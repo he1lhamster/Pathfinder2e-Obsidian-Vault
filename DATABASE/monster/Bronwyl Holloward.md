@@ -1,22 +1,14 @@
 ﻿---
 ac: '25'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Tormenter
-creature_family: null
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+16'
-hardness: null
 hp: '135'
 id: '2715'
-immunity: null
 intelligence: '+5'
 land_speed: '30'
 language:
@@ -34,8 +26,6 @@ rarity: Unique
 reflex: '+13'
 resistance:
 - '[[DATABASE/trait/Poison|poison]] 8'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -72,7 +62,6 @@ strength: '+3'
 strength_req: '3'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Duergar|Duergar]]'
 - '[[DATABASE/trait/Dwarf|Dwarf]]'
@@ -82,7 +71,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+17'
 wisdom: '+1'
 

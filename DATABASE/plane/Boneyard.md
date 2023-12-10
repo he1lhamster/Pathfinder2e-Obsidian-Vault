@@ -1,11 +1,9 @@
 ﻿---
 alignment: N
-element: null
 id: '15'
 name: Boneyard
 plane_category: Outer Sphere Planes
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
 - '[[DATABASE/trait/Timeless|Timeless]]'

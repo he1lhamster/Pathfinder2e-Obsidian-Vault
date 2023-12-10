@@ -2,9 +2,6 @@
 id: '47'
 name: Pathfinder 158. Sixty Feet Under
 rarity: Common
-rus_type_level: null
-source: null
-trait: null
 type: Source
 
 ---

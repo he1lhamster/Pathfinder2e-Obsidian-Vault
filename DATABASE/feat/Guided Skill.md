@@ -1,24 +1,16 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Guided Skill
 frequency: once per day
-heighten_level: null
 id: '4108'
 level: '6'
 name: Guided Skill
 prerequisite: '[[DATABASE/feat/Scion of Domora Dedication|Scion of Domora Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 188. They Watched the Stars|Pathfinder #188:
   They Watched the Stars]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

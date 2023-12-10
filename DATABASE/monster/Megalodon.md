@@ -1,10 +1,7 @@
 ﻿---
 ac: '27'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Blood Scent
@@ -13,25 +10,16 @@ creature_ability:
 - Swallow Whole
 creature_family: '[[DATABASE/monsterfamily/Shark|Shark]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+21'
-hardness: null
 hp: '180'
 id: '366'
-immunity: null
 intelligence: '-4'
-land_speed: null
-language: null
 level: '9'
 max_speed: '80'
 name: Megalodon
 perception: '+20'
 rarity: Uncommon
 reflex: '+16'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - blood scent
 - scent (imprecise) 100 feet
@@ -43,7 +31,6 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - swim 80 feet
-spell: null
 strength: '+8'
 strength_req: '8'
 strongest_save:
@@ -54,10 +41,8 @@ trait:
 - '[[DATABASE/trait/Aquatic|Aquatic]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+17'
 wisdom: '+3'
 

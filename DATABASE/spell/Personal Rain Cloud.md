@@ -1,27 +1,17 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 1 minute
 element: Water
 heighten: '+1'
 heighten_level: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
 id: '631'
-lesson: null
 level: '1'
-mystery: null
 name: Personal Rain Cloud
-patron_theme: null
 range: 60 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 saving_throw: Reflex
 school: Evocation
 source: '[[DATABASE/source/Pathfinder 151. The Show Must Go On|Pathfinder #151: The
@@ -34,7 +24,6 @@ trait:
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 - '[[DATABASE/trait/Water|Water]]'
-trigger: null
 type: Spell
 
 ---

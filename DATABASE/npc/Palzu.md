@@ -1,23 +1,16 @@
 ﻿---
 ac: '25'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Crack Shot
 - Howling Bullet
 - Rugged Travel
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+17'
 hp: '135'
 id: '1970'
-immunity: null
 intelligence: '-1'
 land_speed: '25'
 language:
@@ -28,8 +21,6 @@ name: Palzu
 perception: '+17'
 rarity: Unique
 reflex: '+18'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -43,12 +34,10 @@ source: '[[DATABASE/source/Pathfinder 179. Cradle of Quartz|Pathfinder #179: Cra
   of Quartz]]'
 speed:
 - 25 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Gnoll|Gnoll]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -57,7 +46,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+13'
 wisdom: '+3'
 

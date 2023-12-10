@@ -1,25 +1,15 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Echoing Channel
-frequency: null
-heighten_level: null
 id: '306'
 level: '18'
 name: Echoing Channel
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Cleric|Cleric]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Metamagic|Metamagic]]'
-trigger: null
 type: Feat
 
 ---

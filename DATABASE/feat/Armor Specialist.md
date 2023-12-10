@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Armor Specialist
-frequency: null
-heighten_level: null
 id: '2064'
 level: '6'
 name: Armor Specialist
 prerequisite: '[[DATABASE/feat/Sentinel Dedication|Sentinel Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

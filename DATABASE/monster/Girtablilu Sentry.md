@@ -1,10 +1,7 @@
 ﻿---
 ac: '27'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Constrict
@@ -12,13 +9,9 @@ creature_ability:
 - Girtablilu Venom
 creature_family: '[[DATABASE/monsterfamily/Girtablilu|Girtablilu]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+20'
-hardness: null
 hp: '160'
 id: '1170'
-immunity: null
 intelligence: '+3'
 land_speed: '40'
 language:
@@ -30,9 +23,6 @@ name: Girtablilu Sentry
 perception: '+18'
 rarity: Common
 reflex: '+16'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) 60 feet'
@@ -45,19 +35,16 @@ skill:
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 40 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+12'
 wisdom: '+4'
 

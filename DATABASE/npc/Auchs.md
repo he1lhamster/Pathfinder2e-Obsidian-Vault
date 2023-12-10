@@ -1,21 +1,14 @@
 ﻿---
 ac: '15'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Hit 'Em Hard
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+12'
 hp: '40'
 id: '2282'
-immunity: null
 intelligence: '-2'
 land_speed: '25'
 language:
@@ -26,9 +19,6 @@ name: Auchs
 perception: '+6'
 rarity: Unique
 reflex: '+5'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +10'
@@ -36,21 +26,17 @@ skill:
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 speed:
 - 25 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+3'
 wisdom: '+0'
 

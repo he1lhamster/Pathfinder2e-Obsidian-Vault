@@ -2,9 +2,7 @@
 id: '35'
 level: '2'
 name: Zephyr Guard
-prerequisite: null
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 149. Against the Scarlet Triad|Pathfinder #149:
   Against the Scarlet Triad]]'
 trait:

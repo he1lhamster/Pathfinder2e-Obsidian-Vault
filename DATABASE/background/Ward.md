@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Fascinating Performance|Fascinating Performance]]'
 id: '181'
 name: Ward
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Performance|Performance]]'
 - Genealogy [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

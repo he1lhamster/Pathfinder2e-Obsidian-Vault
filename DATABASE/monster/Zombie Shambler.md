@@ -1,20 +1,14 @@
 ﻿---
 ac: '12'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Jaws
 - Slow
 creature_family: '[[DATABASE/monsterfamily/Zombie|Zombie]]'
 dexterity: '-2'
-element: null
-fly_speed: null
 fortitude: '+6'
-hardness: null
 hp: 20 ( negative healing )
 id: '423'
 immunity:
@@ -26,16 +20,12 @@ immunity:
 - unconscious
 intelligence: '-5'
 land_speed: '25'
-language: null
 level: '-1'
 max_speed: '25'
 name: Zombie Shambler
 perception: '+0'
 rarity: Common
 reflex: '+0'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -44,12 +34,10 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 25 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Mindless|Mindless]]'
 - '[[DATABASE/trait/Undead|Undead]]'

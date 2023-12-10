@@ -1,10 +1,6 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Familiar Conduit
-frequency: null
-heighten_level: null
 id: '1972'
 level: '4'
 name: Familiar Conduit
@@ -12,15 +8,12 @@ prerequisite: '[[DATABASE/feat/Familiar Master Dedication|Familiar Master Dedica
   ; able to cast spells'
 rarity: Common
 requirement: You have line of effect to your familiar.
-rus_type_level: null
 school: Conjuration
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Metamagic|Metamagic]]'
-trigger: null
 type: Feat
 
 ---

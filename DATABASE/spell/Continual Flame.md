@@ -1,29 +1,18 @@
 ﻿---
 actions: '[three-actions]'
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
 cost: 6 gp of ruby dust
-deity: null
-domain: null
 duration: unlimited
-element: null
 heighten: '+1'
 heighten_level: 2, 3, 4, 5, 6, 7, 8, 9, 10
 id: '50'
-lesson: null
 level: '2'
-mystery: null
 name: Continual Flame
-patron_theme: null
 range: touch
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: 1 object
@@ -35,7 +24,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Light|Light]]'
-trigger: null
 type: Spell
 
 ---

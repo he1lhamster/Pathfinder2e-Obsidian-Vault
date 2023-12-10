@@ -2,7 +2,6 @@
 id: '232'
 name: Psychopomp
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait:
 - Psychopomp

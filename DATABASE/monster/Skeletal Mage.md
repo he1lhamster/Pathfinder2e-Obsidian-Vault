@@ -1,18 +1,11 @@
 ﻿---
 ac: '21'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+0'
-creature_ability: null
 creature_family: '[[DATABASE/monsterfamily/Skeleton|Skeleton]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+9'
-hardness: null
 hp: 60 ( negative healing )
 id: '1901'
 immunity:
@@ -38,8 +31,6 @@ resistance:
 - '[[DATABASE/trait/Fire|fire]] 10'
 - piercing 5
 - slashing 5
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -65,7 +56,6 @@ strength: '+2'
 strength_req: '2'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Skeleton|Skeleton]]'
 - '[[DATABASE/trait/Undead|Undead]]'
@@ -73,7 +63,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+13'
 wisdom: '+2'
 

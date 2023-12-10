@@ -1,18 +1,8 @@
 ﻿---
-ability: null
-ability_boost: null
-feat: null
 id: '137'
 name: Blow-In
-prerequisite: null
-rarity: null
-rus_type_level: null
-skill: null
 source: '[[DATABASE/source/Extinction Curse Player''s Guide|Extinction Curse Player''s
   Guide]]'
-subcategory: null
-trait: null
-type: null
 
 ---
 # Blow-In<span class="item-type">Background</span>

@@ -2,9 +2,7 @@
 ac: '44'
 alignment: CE
 all_resistance: '15'
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Attack of Opportunity
@@ -16,15 +14,10 @@ creature_ability:
 - Rock
 - Tooth Grind
 - Unstoppable
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+36'
-hardness: null
 hp: '360'
 id: '690'
-immunity: null
 intelligence: '+0'
 land_speed: '40'
 language:
@@ -37,8 +30,6 @@ rarity: Unique
 reflex: '+32'
 resistance:
 - all 15 (except unarmed attacks)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - keen hearing 120 feet
@@ -52,12 +43,10 @@ skill:
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 40 feet
-spell: null
 strength: '+10'
 strength_req: '10'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
@@ -65,7 +54,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+31'
 wisdom: '+6'
 

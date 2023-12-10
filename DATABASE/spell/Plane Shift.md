@@ -1,30 +1,15 @@
 ﻿---
-actions: null
-area: null
-bloodline: null
 component:
 - Focus
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
-heighten: null
 heighten_level: '7'
 id: '222'
-lesson: null
 level: '7'
-mystery: null
 name: Plane Shift
-patron_theme: null
 range: touch
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: 1 willing creature, or up to 8 willing creatures joining hands
@@ -38,7 +23,6 @@ trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Teleportation|Teleportation]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Spell
 
 ---

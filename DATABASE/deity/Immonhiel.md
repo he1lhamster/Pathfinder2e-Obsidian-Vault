@@ -23,12 +23,10 @@ follower_alignment:
 id: '238'
 name: Immonhiel
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Medicine|Medicine]]'
 source: '[[DATABASE/source/Pathfinder 176. Lost Mammoth Valley|Pathfinder #176: Lost
   Mammoth Valley]]'
-trait: null
 type: Deity
 
 ---

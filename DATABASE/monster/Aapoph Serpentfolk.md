@@ -1,10 +1,7 @@
 ﻿---
 ac: '18'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Attack of Opportunity
@@ -12,13 +9,9 @@ creature_ability:
 - Slithering Attack
 creature_family: '[[DATABASE/monsterfamily/Serpentfolk|Serpentfolk]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+10'
-hardness: null
 hp: '60'
 id: '799'
-immunity: null
 intelligence: '-3'
 land_speed: '25'
 language:
@@ -33,8 +26,6 @@ rarity: Uncommon
 reflex: '+7'
 resistance:
 - poison 5
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent (imprecise) 30 feet]]'
@@ -46,12 +37,10 @@ skill:
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 25 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Mutant|Mutant]]'
@@ -61,7 +50,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+6'
 wisdom: '+1'
 

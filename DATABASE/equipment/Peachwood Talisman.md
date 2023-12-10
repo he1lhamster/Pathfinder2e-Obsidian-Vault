@@ -1,57 +1,24 @@
 ﻿---
-ac: null
 actions: '[one-action]'
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '1542'
 item_category: Consumables
 item_subcategory: Talismans
-land_speed: null
 level: '6'
-max_speed: null
 name: Peachwood Talisman
-onset: null
 price: 40 gp
-range: null
 rarity: Uncommon
-reflex: null
 requirement: You are an expert in Perception
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Abjuration
-size: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-spell: null
-stage: null
 subcategory: consumable/talisman
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Consumable|Consumable]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Talisman|Talisman]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Item
 usage: affixed to armor
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Peachwood Talisman<span class="item-type">Item 6</span>

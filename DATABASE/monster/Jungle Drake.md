@@ -1,10 +1,7 @@
 ﻿---
 ac: '23'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Draconic Frenzy
@@ -20,7 +17,6 @@ dexterity: '+3'
 element: Earth
 fly_speed: '50'
 fortitude: '+17'
-hardness: null
 hp: '90'
 id: '161'
 immunity:
@@ -38,9 +34,6 @@ name: Jungle Drake
 perception: '+13'
 rarity: Common
 reflex: '+13'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - scent (imprecise) 30 feet
@@ -54,12 +47,10 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 20 feet
 - fly 50 feet; woodland stride
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dragon|Dragon]]'
 - '[[DATABASE/trait/Earth|Earth]]'
@@ -67,7 +58,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+11'
 wisdom: '+1'
 

@@ -2,7 +2,6 @@
 id: '125'
 name: Plant
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - Plant

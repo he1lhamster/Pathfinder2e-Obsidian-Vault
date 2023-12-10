@@ -2,7 +2,6 @@
 id: '493'
 name: Vehicular
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 trait:
 - Vehicular

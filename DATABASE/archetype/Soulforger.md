@@ -4,7 +4,6 @@ level: '2'
 name: Soulforger
 prerequisite: Wisdom 14 or ability to castdivinespells
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

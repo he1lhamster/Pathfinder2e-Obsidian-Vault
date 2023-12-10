@@ -1,10 +1,7 @@
 ﻿---
 ac: '36'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '-3'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Blighted Footfalls
@@ -14,12 +11,8 @@ creature_ability:
 - Sudden Destruction
 - Toxic
 - Blood
-creature_family: null
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+30'
-hardness: null
 hp: '245'
 id: '1343'
 immunity:
@@ -39,8 +32,6 @@ reflex: '+25'
 resistance:
 - acid 15
 - negative 15
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - smoke vision
@@ -68,7 +59,6 @@ strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Rare|Rare]]'
@@ -77,7 +67,6 @@ vision: Darkvision
 weakest_save:
 - Reflex
 - Will
-weakness: null
 will: '+25'
 wisdom: '+6'
 

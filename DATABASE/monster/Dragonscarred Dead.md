@@ -1,22 +1,16 @@
 ﻿---
 ac: '33'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Breath-Seared Sword
 - Frightful Presence
 - Glare of Rage
 - Guardian Sense
-creature_family: null
 dexterity: '+5'
 element: Fire
-fly_speed: null
 fortitude: '+25'
-hardness: null
 hp: '210'
 id: '472'
 immunity:
@@ -38,9 +32,6 @@ name: Dragonscarred Dead
 perception: '+24'
 rarity: Uncommon
 reflex: '+20'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - guardian sense
@@ -53,12 +44,10 @@ source: '[[DATABASE/source/Pathfinder 148. Fires of the Haunted City|Pathfinder 
   Fires of the Haunted City]]'
 speed:
 - 25 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fire|Fire]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

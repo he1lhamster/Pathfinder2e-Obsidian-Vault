@@ -2,9 +2,7 @@
 id: '9'
 name: Wildfire Scorcher
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Legends|Legends]]'
-trait: null
 type: Animal Companion Specialization
 
 ---

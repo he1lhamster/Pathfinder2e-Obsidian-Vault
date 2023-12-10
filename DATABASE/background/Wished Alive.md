@@ -5,12 +5,9 @@ ability:
 ability_boost:
 - Constitution
 - Charisma
-feat: null
 id: '266'
 name: Wished Alive
-prerequisite: null
 rarity: Rare
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Diplomacy|Diplomacy]]'
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'

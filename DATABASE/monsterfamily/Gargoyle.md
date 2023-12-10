@@ -3,9 +3,7 @@ creature_family: Gargoyle
 id: '49'
 name: Gargoyle
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
-trait: null
 type: Creature Family
 
 ---

@@ -1,29 +1,14 @@
 ﻿---
 actions: '[three-actions]'
 area: 30-foot burst centered on you
-bloodline: null
-component: null
-cost: null
-deity: null
-domain: null
 duration: sustained up to 1 minute
 element: Water
-heighten: null
 heighten_level: '7'
 id: '1385'
-lesson: null
 level: '7'
-mystery: null
 name: Dancing Fountain
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-target: null
 tradition:
 - Arcane
 - Primal
@@ -31,7 +16,6 @@ trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Water|Water]]'
-trigger: null
 type: Spell
 
 ---

@@ -1,29 +1,16 @@
 ﻿---
-actions: null
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Nyarlathotep|Nyarlathotep (The Crawling Chaos)]]'
-domain: null
 duration: 1 hour
-element: null
-heighten: null
 heighten_level: '8'
 id: '89'
-lesson: null
 level: '8'
-mystery: null
 name: Dream Council
-patron_theme: null
 range: planetary
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Illusion
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: up to 12 creatures you know by name and have met in person
@@ -34,7 +21,6 @@ trait:
 - '[[DATABASE/trait/Illusion|Illusion]]'
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Sleep|Sleep]]'
-trigger: null
 type: Spell
 
 ---

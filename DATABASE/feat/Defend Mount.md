@@ -1,20 +1,12 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Defend Mount
-frequency: null
-heighten_level: null
 id: '1924'
 level: '6'
 name: Defend Mount
 prerequisite: '[[DATABASE/feat/Cavalier Dedication|Cavalier Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 trigger: An enemy makes an attack roll against your mount while you're riding it.

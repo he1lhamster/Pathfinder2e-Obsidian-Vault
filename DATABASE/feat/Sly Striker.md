@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Sly Striker
-frequency: null
-heighten_level: null
 id: '577'
+leads_to: '[[DATABASE/feat/Impossible Striker|Impossible Striker]]'
 level: '8'
 name: Sly Striker
 prerequisite: '[[DATABASE/class_/Rogue|sneak attack]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Rogue|Rogue]]'
-trigger: null
 type: Feat
 
 ---

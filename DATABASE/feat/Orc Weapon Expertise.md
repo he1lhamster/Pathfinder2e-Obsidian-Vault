@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Orc Weapon Expertise
-frequency: null
-heighten_level: null
 id: '91'
 level: '13'
 name: Orc Weapon Expertise
 prerequisite: '[[DATABASE/feat/Orc Weapon Familiarity|Orc Weapon Familiarity]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Orc|Orc]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,52 +1,14 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
 bulk: '1'
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '2358'
 item_category: Materials
-item_subcategory: null
-land_speed: null
 level: '0'
-max_speed: null
 name: Bone
-onset: null
 price: 1 sp
-range: null
 rarity: Common
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
-school: null
-size: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-spell: null
-stage: null
 subcategory: material
-swim_speed: null
-trait: null
-trigger: null
 type: Item
-usage: null
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Bone<span class="item-type">Item 0+</span>

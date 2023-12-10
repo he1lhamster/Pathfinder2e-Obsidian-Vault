@@ -1,28 +1,16 @@
 ﻿---
 actions: '[two-actions]'
-area: null
 bloodline: '[[DATABASE/sorcererbloodline/Draconic|Draconic]]'
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: until the next time you make your daily preparations.
-element: null
-heighten: null
 heighten_level: '4'
 id: '296'
-lesson: null
 level: '4'
-mystery: null
 name: Spell Immunity
-patron_theme: null
 range: touch
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: 1 creature
@@ -32,7 +20,6 @@ tradition:
 - Occult
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
-trigger: null
 type: Spell
 
 ---

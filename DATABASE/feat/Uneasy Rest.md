@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Uneasy Rest
-frequency: null
-heighten_level: null
 id: '3381'
 level: '6'
 name: Uneasy Rest
 prerequisite: '[[DATABASE/feat/Spell Trickster Dedication|Spell Trickster Dedication]]
   ; ability to cast [[DATABASE/spell/Sleep|sleep]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

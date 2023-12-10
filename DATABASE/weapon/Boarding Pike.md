@@ -1,8 +1,6 @@
 ﻿---
 bulk: '2'
 damage: 1d10 P
-deity: null
-favored_weapon: null
 hands: '2'
 id: '138'
 item_category: Weapons
@@ -10,9 +8,7 @@ item_subcategory: Base Weapons
 level: '1'
 name: Boarding Pike
 price: 8 sp
-range: null
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
 trait:
 - '[[DATABASE/trait/Reach|Reach]]'

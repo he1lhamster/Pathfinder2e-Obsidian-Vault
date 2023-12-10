@@ -1,31 +1,17 @@
 ﻿---
 actions: '[two-actions]'
 area: 30-foot emanation
-bloodline: null
-component: null
-cost: null
 deity:
 - '[[DATABASE/deity/Ferrumnestra|Ferrumnestra]]'
 - '[[DATABASE/deity/Laudinmio|Laudinmio]]'
-domain: null
-duration: null
 element: Metal
 heighten: 3rd
 heighten_level: 1, 3
 id: '1368'
-lesson: null
 level: '1'
-mystery: null
 name: Detect Metal
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-target: null
 tradition:
 - Arcane
 - Divine
@@ -37,7 +23,6 @@ trait:
 - '[[DATABASE/trait/Detection|Detection]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Metal|Metal]]'
-trigger: null
 type: Cantrip
 
 ---

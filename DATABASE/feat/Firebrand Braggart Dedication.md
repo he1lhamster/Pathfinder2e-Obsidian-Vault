@@ -1,26 +1,20 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Firebrand Braggart Dedication
-frequency: null
-heighten_level: null
 id: '1067'
+leads_to: '[[DATABASE/feat/Boaster''s Challenge|Boaster''s Challenge]] , [[DATABASE/feat/Bravo''s
+  Determination|Bravo''s Determination]] , [[DATABASE/feat/Daring Act|Daring Act]]
+  , [[DATABASE/feat/Great Boaster|Great Boaster]]'
 level: '4'
 name: Firebrand Braggart Dedication
 prerequisite: Charisma 14; second mark member of the Firebrands
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Misfortune|Misfortune]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

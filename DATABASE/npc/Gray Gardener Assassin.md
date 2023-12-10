@@ -1,10 +1,7 @@
 ﻿---
 ac: '36'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Anonymity
@@ -15,14 +12,10 @@ creature_ability:
 - Quick Draw
 - Sneak Attack
 - Surprise Attack
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+22'
 hp: '255'
 id: '1648'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -33,9 +26,6 @@ name: Gray Gardener Assassin
 perception: '+26'
 rarity: Rare
 reflex: '+27'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +25'
@@ -47,21 +37,17 @@ skill:
 source: '[[DATABASE/source/Night of the Gray Death|Night of the Gray Death]]'
 speed:
 - 25 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+26'
 wisdom: '+4'
 

@@ -1,28 +1,14 @@
 ﻿---
-actions: null
-area: null
-bloodline: null
 component:
 - 1 Minute
-cost: null
-deity: null
-domain: null
 duration: unlimited
 element: Earth
-heighten: null
 heighten_level: '5'
 id: '1330'
-lesson: null
 level: '5'
-mystery: null
 name: Engrave Memory
-patron_theme: null
 range: touch
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 target: 1 stone of at least 1 Bulk
 tradition:
@@ -33,7 +19,6 @@ trait:
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Spell
 
 ---

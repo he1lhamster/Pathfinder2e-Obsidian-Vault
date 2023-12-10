@@ -1,20 +1,14 @@
 ﻿---
 ac: '32'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-4'
 climb_speed: '30'
 constitution: '+5'
 creature_ability:
 - Cling
 - Swarming Bites
-creature_family: null
 dexterity: '+7'
-element: null
-fly_speed: null
 fortitude: '+25'
-hardness: null
 hp: '155'
 id: '2319'
 immunity:
@@ -22,7 +16,6 @@ immunity:
 - swarm mind
 intelligence: '-5'
 land_speed: '30'
-language: null
 level: '12'
 max_speed: '30'
 name: Vicious Army Ant Swarm
@@ -33,8 +26,6 @@ resistance:
 - bludgeoning 8
 - piercing 15
 - slashing 15
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise)'
@@ -45,12 +36,10 @@ source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 speed:
 - 30 feet
 - climb 30 feet
-spell: null
 strength: '-2'
 strength_req: '-2'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 - '[[DATABASE/trait/Rare|Rare]]'

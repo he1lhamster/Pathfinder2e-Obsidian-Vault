@@ -1,7 +1,5 @@
 ﻿---
-advanced_apocryphal_spell: null
 advanced_domain_spell: '[[DATABASE/spell/Fallow Field|Fallow Field]]'
-apocryphal_spell: null
 deity:
 - '[[DATABASE/deity/Apollyon|Apollyon]]'
 - '[[DATABASE/deity/Azathoth|Azathoth]]'
@@ -24,9 +22,7 @@ domain_spell: '[[DATABASE/spell/Withering Grasp|Withering Grasp]]'
 id: '42'
 name: Decay Domain
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
-trait: null
 type: Domain
 
 ---

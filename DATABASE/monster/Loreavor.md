@@ -1,10 +1,7 @@
 ﻿---
 ac: '28'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Reconstruct Spell
@@ -13,13 +10,10 @@ creature_ability:
 - Thoughtsense
 creature_family: '[[DATABASE/monsterfamily/Ennosite|Ennosite]]'
 dexterity: '+6'
-element: null
 fly_speed: '20'
 fortitude: '+15'
-hardness: null
 hp: '155'
 id: '1942'
-immunity: null
 intelligence: '+6'
 land_speed: '20'
 language:
@@ -32,8 +26,6 @@ rarity: Rare
 reflex: '+21'
 resistance:
 - '[[DATABASE/trait/Mental|mental]] 10'
-rus_type_level: null
-school: null
 sense:
 - thoughtsense (imprecise) 60 feet
 size: Small
@@ -55,15 +47,12 @@ strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Astral|Astral]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+19'
 wisdom: '+4'
 

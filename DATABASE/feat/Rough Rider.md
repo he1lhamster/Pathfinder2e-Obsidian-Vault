@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Rough Rider
-frequency: null
-heighten_level: null
 id: '45'
 level: '1'
 name: Rough Rider
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Goblin|Goblin]]'
-trigger: null
 type: Feat
 
 ---

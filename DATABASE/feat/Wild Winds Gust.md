@@ -1,27 +1,21 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
 element: Air
 feat: Wild Winds Gust
-frequency: null
-heighten_level: null
 id: '478'
 level: '14'
 name: Wild Winds Gust
 prerequisite: '[[DATABASE/feat/Wild Winds Initiate|Wild Winds Initiate]]'
 rarity: Common
 requirement: You are in Wild Winds Stance.
-rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Monk|Monk]]'
-trigger: null
 type: Feat
 
 ---

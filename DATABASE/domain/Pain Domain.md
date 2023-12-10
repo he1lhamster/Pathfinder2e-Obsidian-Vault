@@ -1,7 +1,5 @@
 ﻿---
-advanced_apocryphal_spell: null
 advanced_domain_spell: '[[DATABASE/spell/Retributive Pain|Retributive Pain]]'
-apocryphal_spell: null
 deity:
 - '[[DATABASE/deity/Arazni|Arazni]]'
 - '[[DATABASE/deity/Calistria|Calistria]]'
@@ -23,9 +21,7 @@ domain_spell: '[[DATABASE/spell/Savor the Sting|Savor the Sting]]'
 id: '24'
 name: Pain Domain
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Domain
 
 ---

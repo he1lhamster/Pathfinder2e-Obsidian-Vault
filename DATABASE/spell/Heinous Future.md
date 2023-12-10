@@ -1,28 +1,15 @@
 ﻿---
 actions: '[two-actions]'
 area: 30 feet
-bloodline: null
 component:
 - Material
 - Somatic
-cost: null
-deity: null
-domain: null
 duration: Will
-element: null
-heighten: null
 heighten_level: '6'
 id: '1435'
-lesson: null
 level: '6'
-mystery: null
 name: Heinous Future
-patron_theme: null
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Wake the Dead 3|Wake the Dead #3]]'
 target: 1 creature
@@ -36,7 +23,6 @@ trait:
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Prediction|Prediction]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Spell
 
 ---

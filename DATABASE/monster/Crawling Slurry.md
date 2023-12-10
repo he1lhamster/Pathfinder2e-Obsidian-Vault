@@ -1,8 +1,6 @@
 ﻿---
 ac: '30'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
 climb_speed: '20'
 constitution: '+6'
@@ -14,10 +12,7 @@ creature_ability:
 - Splatter
 creature_family: '[[DATABASE/monsterfamily/Ooze|Ooze]]'
 dexterity: '+9'
-element: null
-fly_speed: null
 fortitude: '+28'
-hardness: null
 hp: '300'
 id: '1796'
 immunity:
@@ -30,16 +25,12 @@ immunity:
 - '[[DATABASE/trait/Visual|visual]]'
 intelligence: '-5'
 land_speed: '30'
-language: null
 level: '16'
 max_speed: '30'
 name: Crawling Slurry
 perception: '+26'
 rarity: Rare
 reflex: '+31'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - motion sense 60 feet
 - no vision
@@ -52,22 +43,18 @@ source: '[[DATABASE/source/Pathfinder 174. Shadows of the Ancients|Pathfinder #1
 speed:
 - 30 feet
 - climb 20 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Acid|Acid]]'
 - '[[DATABASE/trait/Mindless|Mindless]]'
 - '[[DATABASE/trait/Ooze|Ooze]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+20'
 wisdom: '+0'
 

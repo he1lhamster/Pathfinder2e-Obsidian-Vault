@@ -1,24 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Magical Adept
-frequency: null
-heighten_level: null
 id: '2920'
+leads_to: '[[DATABASE/feat/Magical Master|Magical Master]]'
 level: '8'
 name: Magical Adept
 prerequisite: '[[DATABASE/feat/Magical Understudy|Magical Understudy]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Evolution|Evolution]]'
 - '[[DATABASE/trait/Summoner|Summoner]]'
-trigger: null
 type: Feat
 
 ---

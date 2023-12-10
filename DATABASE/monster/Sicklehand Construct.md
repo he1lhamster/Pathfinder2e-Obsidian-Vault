@@ -1,21 +1,14 @@
 ﻿---
 ac: '16'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Critical Vulnerability
 - Menacing Sickles
 - Ridden Construct
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+5'
-hardness: null
 hp: '15'
 id: '1603'
 immunity:
@@ -34,16 +27,12 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '25'
-language: null
 level: '0'
 max_speed: '25'
 name: Sicklehand Construct
 perception: '+6'
 rarity: Rare
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
@@ -54,12 +43,10 @@ source: '[[DATABASE/source/Pathfinder 169. Kindled Magic|Pathfinder #169: Kindle
   Magic]]'
 speed:
 - 25 feet
-spell: null
 strength: '+1'
 strength_req: '1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Mindless|Mindless]]'

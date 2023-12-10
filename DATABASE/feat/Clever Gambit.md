@@ -1,20 +1,12 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Clever Gambit
-frequency: null
-heighten_level: null
 id: '1782'
 level: '2'
 name: Clever Gambit
 prerequisite: '[[DATABASE/rogueracket/Mastermind|mastermind racket]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Rogue|Rogue]]'
 trigger: Your Strike critically hits and deals damage to a creature you've identified

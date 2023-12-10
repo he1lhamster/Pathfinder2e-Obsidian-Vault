@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Metallic Envisionment
-frequency: null
-heighten_level: null
 id: '3871'
 level: '12'
 name: Metallic Envisionment
 prerequisite: '[[DATABASE/feat/Mind Smith Dedication|Mind Smith Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,21 +1,14 @@
 ﻿---
 ac: '22'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Sneak Attack
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+8'
 hp: '70'
 id: '2487'
-immunity: null
 intelligence: '+4'
 land_speed: '25'
 language:
@@ -27,9 +20,6 @@ name: Copper Hand Illusionist
 perception: '+15'
 rarity: Common
 reflex: '+13'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +13'
@@ -62,15 +52,12 @@ strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+12'
 wisdom: '+1'
 

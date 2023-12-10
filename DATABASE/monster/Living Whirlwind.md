@@ -1,10 +1,7 @@
 ﻿---
 ac: '24'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Disperse
@@ -14,7 +11,6 @@ dexterity: '+5'
 element: Air
 fly_speed: '50'
 fortitude: '+9'
-hardness: null
 hp: '50'
 id: '178'
 immunity:
@@ -23,7 +19,6 @@ immunity:
 - poison
 - sleep
 intelligence: '-2'
-land_speed: null
 language:
 - '[[DATABASE/language/Auran|Auran]]'
 level: '5'
@@ -32,9 +27,6 @@ name: Living Whirlwind
 perception: '+10'
 rarity: Common
 reflex: '+16'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -44,12 +36,10 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - fly 50 feet; swiftness
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Elemental|Elemental]]'
@@ -57,7 +47,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+10'
 wisdom: '+1'
 

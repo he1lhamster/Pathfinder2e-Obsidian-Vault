@@ -1,28 +1,15 @@
 ﻿---
-ac: null
-all_resistance: null
 complexity: Simple
-element: null
-fortitude: null
-hardness: null
 hazard_type: Trap
-hp: null
 id: '183'
-immunity: null
 level: '2'
 name: Shrinking Hall
 rarity: Common
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 trait:
 - '[[DATABASE/trait/Mechanical|Mechanical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Shrinking Hall<span class="item-type">Hazard 2</span>

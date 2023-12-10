@@ -2,9 +2,6 @@
 id: '125'
 name: Pathfinder 180. The Smoking Gun
 rarity: Common
-rus_type_level: null
-source: null
-trait: null
 type: Source
 
 ---

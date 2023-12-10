@@ -1,52 +1,14 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
-bulk: '2'
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
+bulk: '1'
 id: '2580'
 item_category: Adventuring Gear
-item_subcategory: null
-land_speed: null
-level: '2'
-max_speed: null
+level: '1'
 name: Floating Tent
-onset: null
-price: 25 gp
-range: null
+price: 10 gp
 rarity: Common
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
-school: null
-size: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-spell: null
-stage: null
 subcategory: adventuringgear
-swim_speed: null
-trait: null
-trigger: null
 type: Item
-usage: null
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Floating Tent<span class="item-type">Item 1+</span>

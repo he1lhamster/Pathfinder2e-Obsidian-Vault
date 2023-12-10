@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Spell Gem
-frequency: null
-heighten_level: null
 id: '3518'
 level: '16'
 name: Spell Gem
 prerequisite: '[[DATABASE/feat/Lich Dedication|Lich Dedication]]'
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,23 +1,16 @@
 ﻿---
 ac: '39'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Darting Shot
 - Return Fire
 - Sneak Attack
-creature_family: null
 dexterity: '+9'
-element: null
-fly_speed: null
 fortitude: '+27'
 hp: '315'
 id: '1582'
-immunity: null
 intelligence: '+7'
 land_speed: '30'
 language:
@@ -31,9 +24,6 @@ name: Scarlet Triad Boss
 perception: '+30'
 rarity: Common
 reflex: '+33'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +32'
@@ -47,20 +37,16 @@ source: '[[DATABASE/source/Pathfinder 149. Against the Scarlet Triad|Pathfinder 
   Against the Scarlet Triad]]'
 speed:
 - 30 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+29'
 wisdom: '+5'
 

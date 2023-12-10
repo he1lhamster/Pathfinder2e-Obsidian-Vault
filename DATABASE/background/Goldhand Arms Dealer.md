@@ -8,9 +8,7 @@ ability_boost:
 feat: '[[DATABASE/feat/Group Impression|Group Impression]]'
 id: '283'
 name: Goldhand Arms Dealer
-prerequisite: null
 rarity: Uncommon
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Diplomacy|Diplomacy]]'
 - Mercantile [[DATABASE/skill/Lore|Lore]]

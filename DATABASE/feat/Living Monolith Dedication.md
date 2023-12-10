@@ -1,26 +1,17 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Living Monolith Dedication
-frequency: null
-heighten_level: null
 id: '888'
+leads_to: '[[DATABASE/feat/Ka Stone Ritual|Ka Stone Ritual]]'
 level: '2'
 name: Living Monolith Dedication
 prerequisite: '[[DATABASE/language/Osiriani|Ancient Osiriani]] and [[DATABASE/language/Sphinx|Sphinx]]
   languages; Trained in [[DATABASE/skill/Crafting|Crafting]]'
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/World Guide|World Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

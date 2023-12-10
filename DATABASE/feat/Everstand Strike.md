@@ -1,26 +1,18 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Everstand Strike
-frequency: null
-heighten_level: null
 id: '1088'
 level: '4'
 name: Everstand Strike
 prerequisite: '[[DATABASE/feat/Everstand Stance|Everstand Stance]]'
 rarity: Uncommon
 requirement: You are wielding a shield in two hands.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Champion|Champion]]'
 - '[[DATABASE/trait/Fighter|Fighter]]'
 - '[[DATABASE/trait/Press|Press]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

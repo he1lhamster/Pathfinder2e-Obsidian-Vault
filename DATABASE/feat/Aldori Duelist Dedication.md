@@ -1,25 +1,18 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Aldori Duelist Dedication
-frequency: null
-heighten_level: null
 id: '876'
+leads_to: '[[DATABASE/feat/Aldori Parry|Aldori Parry]] , [[DATABASE/feat/Duelist''s
+  Edge|Duelist''s Edge]] , [[DATABASE/feat/Saving Slash|Saving Slash]] , [[DATABASE/feat/Unnerving
+  Prowess|Unnerving Prowess]]'
 level: '2'
 name: Aldori Duelist Dedication
 prerequisite: trained in [[DATABASE/weapon/Aldori Dueling Sword|Aldori dueling swords]]
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/World Guide|World Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

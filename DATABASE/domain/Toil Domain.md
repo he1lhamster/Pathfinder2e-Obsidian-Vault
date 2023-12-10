@@ -1,20 +1,8 @@
 ﻿---
-advanced_apocryphal_spell: null
-advanced_domain_spell: '[[DATABASE/spell/Tireless Worker|Tireless Worker]]'
-apocryphal_spell: null
-deity:
-- '[[DATABASE/deity/Bolka|Bolka]]'
-- '[[DATABASE/deity/Sairazul|Sairazul]]'
-domain:
-- '[[DATABASE/domain/Toil Domain|Toil]]'
-domain_spell: '[[DATABASE/spell/Practice Makes Perfect|Practice Makes Perfect]]'
-id: '61'
+id: '39'
 name: Toil Domain
-rarity: Common
-rus_type_level: null
-source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-trait: null
-type: Domain
+source: '[[DATABASE/source/Pathfinder 148. Fires of the Haunted City|Pathfinder #148:
+  Fires of the Haunted City]]'
 
 ---
 # Toil Domain

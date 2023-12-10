@@ -1,45 +1,14 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
 base_item: '[[DATABASE/weapon/Gauntlet|Gauntlet]]'
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '1729'
 item_category: Weapons
 item_subcategory: Specific Magic Weapons
-land_speed: null
 level: '5'
-max_speed: null
 name: Grasp of Droskar
-onset: null
 price: 155 gp
-range: null
 rarity: Rare
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Divination
-size: null
 source: '[[DATABASE/source/Crown of the Kobold King|Crown of the Kobold King]]'
-spell: null
-stage: null
-subcategory: null
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Cursed|Cursed]]'
 - '[[DATABASE/trait/Divination|Divination]]'
@@ -47,12 +16,8 @@ trait:
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Item
 usage: worn glove
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Grasp of Droskar<span class="item-type">Item 5</span>

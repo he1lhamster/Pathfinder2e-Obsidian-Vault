@@ -1,28 +1,16 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Verbal
 - Somatic
-cost: null
-deity: null
-domain: null
 duration: sustained up to 1 minute
-element: null
 heighten: 7th, 9th
 heighten_level: 4, 7, 9
 id: '1234'
-lesson: null
 level: '4'
-mystery: null
 name: Dawnflower's Light
-patron_theme: null
 range: touch
 rarity: Rare
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
 target: 1 unattended, non- [[DATABASE/trait/Magical|magical]] object of 1 Bulk or
@@ -35,7 +23,6 @@ trait:
 - '[[DATABASE/trait/Good|Good]]'
 - '[[DATABASE/trait/Light|Light]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Spell
 
 ---

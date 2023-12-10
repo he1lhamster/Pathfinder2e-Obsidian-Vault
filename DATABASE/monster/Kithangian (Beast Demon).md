@@ -1,10 +1,7 @@
 ﻿---
 ac: '28'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - All-Around Vision
@@ -16,13 +13,9 @@ creature_ability:
 - Rasping Tongues
 creature_family: '[[DATABASE/monsterfamily/Demon|Demon]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+20'
-hardness: null
 hp: '205'
 id: '2457'
-immunity: null
 intelligence: '-2'
 land_speed: '30'
 language:
@@ -37,9 +30,6 @@ name: Kithangian
 perception: '+19'
 rarity: Uncommon
 reflex: '+15'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -62,7 +52,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Demon|Demon]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

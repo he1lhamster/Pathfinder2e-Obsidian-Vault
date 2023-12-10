@@ -1,25 +1,16 @@
 ﻿---
 actions: '[three-actions]'
-cost: null
-element: null
 feat: All the Time in the World
 frequency: once per hour
-heighten_level: null
 id: '2744'
 level: '20'
 name: All the Time in the World
-prerequisite: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 168. King of the Mountain|Pathfinder #168: King
   of the Mountain]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Investigator|Investigator]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

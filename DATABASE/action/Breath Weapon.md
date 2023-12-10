@@ -1,20 +1,10 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
-frequency: null
-id: '767'
+frequency: once per hour
+id: '560'
 name: Breath Weapon
 rarity: Common
-requirement: null
-rus_type_level: null
-school: Evocation
-source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-trait:
-- '[[DATABASE/trait/Arcane|Arcane]]'
-- '[[DATABASE/trait/Eidolon|Eidolon]]'
-- '[[DATABASE/trait/Evocation|Evocation]]'
-trigger: null
+source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 type: Action
 
 ---

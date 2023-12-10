@@ -4,9 +4,7 @@ level: '2'
 name: Cavalier
 prerequisite: Trained in [[DATABASE/skill/Nature|Nature]] or Trained in [[DATABASE/skill/Society|Society]]
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-trait: null
 type: Archetype
 
 ---

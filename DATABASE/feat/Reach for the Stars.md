@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Reach for the Stars
-frequency: null
-heighten_level: null
 id: '3211'
 level: '18'
 name: Reach for the Stars
 prerequisite: '[[DATABASE/feat/Black Powder Boost|Black Powder Boost]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Gunslinger|Gunslinger]]'
-trigger: null
 type: Feat
 
 ---

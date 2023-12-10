@@ -1,10 +1,7 @@
 ﻿---
 ac: '30'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Necrotic Decay
@@ -12,10 +9,7 @@ creature_ability:
 - Wicked Bite
 creature_family: '[[DATABASE/monsterfamily/Urdefhan|Urdefhan]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+19'
-hardness: null
 hp: 195 ( negative healing )
 id: '877'
 immunity:
@@ -34,9 +28,6 @@ name: Urdefhan High Tormentor
 perception: '+22'
 rarity: Common
 reflex: '+16'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 size: Medium
@@ -69,7 +60,6 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Urdefhan|Urdefhan]]'

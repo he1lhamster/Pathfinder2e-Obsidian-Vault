@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Dominating Gaze
-frequency: null
-heighten_level: null
 id: '3556'
 level: '16'
 name: Dominating Gaze
 prerequisite: '[[DATABASE/feat/Manipulative Charm|Manipulative Charm]]'
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

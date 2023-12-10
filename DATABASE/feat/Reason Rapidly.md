@@ -1,23 +1,13 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Reason Rapidly
-frequency: null
-heighten_level: null
 id: '1472'
 level: '12'
 name: Reason Rapidly
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Investigator|Investigator]]'
-trigger: null
 type: Feat
 
 ---

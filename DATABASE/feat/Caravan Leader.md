@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Caravan Leader
-frequency: null
-heighten_level: null
 id: '2115'
 level: '11'
 name: Caravan Leader
 prerequisite: Constitution 18; [[DATABASE/feat/Pick up the Pace|Pick up the Pace]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/General|General]]'
-trigger: null
 type: Feat
 
 ---

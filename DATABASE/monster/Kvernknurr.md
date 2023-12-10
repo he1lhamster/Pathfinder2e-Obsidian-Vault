@@ -1,24 +1,17 @@
 ﻿---
 ac: '22'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Frightening Bellow
 - Swallow Projectile
 - Swallow Whole
-creature_family: null
 dexterity: '+2'
 element: Water
-fly_speed: null
 fortitude: '+15'
-hardness: null
 hp: '80'
 id: '2459'
-immunity: null
 intelligence: '-1'
 land_speed: '30'
 language:
@@ -33,8 +26,6 @@ rarity: Uncommon
 reflex: '+12'
 resistance:
 - '[[DATABASE/trait/Cold|cold]] 5'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Large
@@ -46,12 +37,10 @@ source: '[[DATABASE/source/Pathfinder 188. They Watched the Stars|Pathfinder #18
   They Watched the Stars]]'
 speed:
 - 30 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Amphibious|Amphibious]]'
 - '[[DATABASE/trait/Fey|Fey]]'

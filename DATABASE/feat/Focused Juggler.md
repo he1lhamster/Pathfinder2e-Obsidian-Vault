@@ -1,21 +1,13 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Focused Juggler
-frequency: null
-heighten_level: null
 id: '1188'
 level: '4'
 name: Focused Juggler
 prerequisite: '[[DATABASE/feat/Juggler Dedication|Juggler Dedication]]'
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 151. The Show Must Go On|Pathfinder #151: The
   Show Must Go On]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'

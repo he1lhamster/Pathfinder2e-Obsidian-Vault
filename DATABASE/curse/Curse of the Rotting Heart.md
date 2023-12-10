@@ -1,10 +1,8 @@
 ﻿---
-element: null
 id: '45'
 level: '9'
 name: Curse of the Rotting Heart
 rarity: Common
-rus_type_level: null
 saving_throw: DC 25 Will
 school: Necromancy
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
@@ -13,7 +11,6 @@ trait:
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 type: Curse
-usage: null
 
 ---
 # Curse of the Rotting Heart<span class="item-type">Curse 9</span>

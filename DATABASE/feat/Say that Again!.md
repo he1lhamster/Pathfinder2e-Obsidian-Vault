@@ -1,18 +1,11 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Say that Again!
-frequency: null
-heighten_level: null
 id: '3898'
 level: '6'
 name: Say that Again!
 prerequisite: Expert in [[DATABASE/skill/Athletics|Athletics]]
 rarity: Rare
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
 subcategory: athletics
 trait:

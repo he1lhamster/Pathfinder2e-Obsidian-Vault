@@ -23,11 +23,9 @@ follower_alignment:
 id: '190'
 name: Diomazul
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]]'
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-trait: null
 type: Deity
 
 ---

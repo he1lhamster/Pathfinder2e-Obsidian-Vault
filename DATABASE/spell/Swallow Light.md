@@ -1,28 +1,16 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 1 minute
-element: null
 heighten: '+2'
 heighten_level: 2, 4, 6, 8, 10
 id: '1209'
-lesson: null
 level: '2'
-mystery: null
 name: Swallow Light
-patron_theme: null
 range: 30 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Pathfinder 181. Zombie Feast|Pathfinder #181: Zombie Feast]]'
 target: 1 [[DATABASE/trait/Magical|magical]] [[DATABASE/spell/Light|light]] effect
@@ -36,7 +24,6 @@ trait:
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Negative|Negative]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Spell
 
 ---

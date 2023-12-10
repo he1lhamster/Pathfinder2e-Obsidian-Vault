@@ -1,20 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Reactive Charm
 frequency: once per day
-heighten_level: null
 id: '3364'
 level: '10'
 name: Reactive Charm
 prerequisite: '[[DATABASE/feat/Captivator Dedication|Captivator Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 trigger: You are the target of a spell or attack.

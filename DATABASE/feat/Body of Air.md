@@ -1,20 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
 element: Air
 feat: Body of Air
-frequency: null
 heighten_level: 14, 15, 16, 17, 18, 19, 20
 id: '4218'
 level: '14'
 name: Body of Air
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Impulse|Impulse]]'

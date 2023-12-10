@@ -1,17 +1,18 @@
 ﻿---
-id: '24'
+id: '21'
 level: '15'
 name: Blightburn Sickness
 onset: 1d4 days
-rarity: Common
-rus_type_level: null
+rarity: Uncommon
 saving_throw: DC 32 Fortitude
-school: null
-source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-stage: 'Stage 1: drained 1 (1 day)Stage 2: drained 1 and sickened 1Stage 3: drained
-  2 and sickened 2 (1 week)Stage 4: drained 3 and sickened 3 (1 month)Stage 5: increase
-  drained condition by 1 (1 year)'
-trait: null
+source: '[[DATABASE/source/Pathfinder 155. Lord of the Black Sands|Pathfinder #155:
+  Lord of the Black Sands]]'
+stage: 'Stage 1: drained 1 (1 day)Stage 2: drained 1 and sickened 1 (1 day)Stage 3:
+  drained 2 and sickened 2 (1 week)Stage 4: drained 3 and sickened 3 (1 month)Stage
+  5: increase drained condition by 1 (1 year)'
+trait:
+- '[[DATABASE/trait/Disease|Disease]]'
+- '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Disease
 
 ---

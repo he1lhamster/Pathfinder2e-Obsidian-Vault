@@ -1,26 +1,17 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Cryptic Spell
-frequency: null
-heighten_level: null
 id: '3761'
 level: '4'
 name: Cryptic Spell
-prerequisite: null
 rarity: Common
 requirement: You're in natural terrain.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Druid|Druid]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Metamagic|Metamagic]]'
-trigger: null
 type: Feat
 
 ---

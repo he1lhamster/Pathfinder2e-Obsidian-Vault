@@ -1,22 +1,15 @@
 ﻿---
 ac: '26'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Ice Stride
 - Ignite Greataxe
 - Throw Bomb
 - Wide Swing
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+19'
-hardness: null
 hp: '100'
 id: '1822'
 immunity:
@@ -32,9 +25,6 @@ name: Graylok Artillerist
 perception: '+16'
 rarity: Uncommon
 reflex: '+16'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Large
@@ -46,12 +36,10 @@ source: '[[DATABASE/source/Pathfinder 177. Burning Tundra|Pathfinder #177: Burni
   Tundra]]'
 speed:
 - 30 feet; ice stride
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Cold|Cold]]'
 - '[[DATABASE/trait/Giant|Giant]]'

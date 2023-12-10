@@ -1,10 +1,7 @@
 ﻿---
 ac: '34'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+8'
 creature_ability:
 - Attack of Opportunity
@@ -13,13 +10,9 @@ creature_ability:
 - Rain of Debris
 creature_family: '[[DATABASE/monsterfamily/Div|Div]]'
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+28'
-hardness: null
 hp: '350'
 id: '1120'
-immunity: null
 intelligence: '+4'
 land_speed: '35'
 language:
@@ -32,9 +25,6 @@ name: Sepid
 perception: '+24'
 rarity: Common
 reflex: '+23'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 size: Large
@@ -63,7 +53,6 @@ strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Div|Div]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

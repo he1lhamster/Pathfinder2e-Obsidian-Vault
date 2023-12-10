@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Diverse Weapon Expert
-frequency: null
-heighten_level: null
 id: '714'
 level: '12'
 name: Diverse Weapon Expert
 prerequisite: '[[DATABASE/feat/Fighter Dedication|Fighter Dedication]] ; expert in
   any kind of weapon or unarmedattack'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

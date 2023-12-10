@@ -1,11 +1,7 @@
 ﻿---
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 dexterity: '+1'
-element: null
-fly_speed: null
 hp: '8'
 id: '52'
 intelligence: '-5'
@@ -13,17 +9,14 @@ land_speed: '30'
 max_speed: '30'
 name: Zombie Mount
 rarity: Uncommon
-rus_type_level: null
 sense:
 - darkvision
 size: Large
-skill: null
 source: '[[DATABASE/source/Pathfinder 181. Zombie Feast|Pathfinder #181: Zombie Feast]]'
 speed:
 - 30 feet
 strength: '+2'
 strength_req: '2'
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Animal Companion

@@ -3,9 +3,7 @@ creature_family: Elemental, Water
 id: '45'
 name: Elemental, Water
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
-trait: null
 type: Creature Family
 
 ---

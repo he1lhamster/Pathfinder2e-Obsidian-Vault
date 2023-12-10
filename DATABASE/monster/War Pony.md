@@ -1,35 +1,24 @@
 ﻿---
 ac: '16'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Buck
 - Gallop
 creature_family: '[[DATABASE/monsterfamily/Horse|Horse]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+8'
-hardness: null
 hp: '20'
 id: '267'
-immunity: null
 intelligence: '-4'
 land_speed: '35'
-language: null
 level: '1'
 max_speed: '35'
 name: War Pony
 perception: '+5'
 rarity: Common
 reflex: '+7'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 - scent (imprecise) 30 feet
@@ -40,19 +29,16 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 35 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+5'
 wisdom: '+2'
 

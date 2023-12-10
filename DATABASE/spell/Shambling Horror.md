@@ -1,39 +1,24 @@
 ﻿---
 actions: '[three-actions]'
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 10 minutes
-element: null
-heighten: null
 heighten_level: '6'
 id: '1105'
-lesson: null
 level: '6'
-mystery: null
 name: Shambling Horror
-patron_theme: null
 range: touch
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 target: "1 corpse of a Gargantuan or smaller creature that has a level no greater\
   \ than your level \u2013 4 and hasdied since the last sunrise"
-tradition: null
 trait:
 - '[[DATABASE/trait/Evil|Evil]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Focus
 
 ---

@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Standby Spell
-frequency: null
-heighten_level: null
 id: '2867'
 level: '8'
 name: Standby Spell
 prerequisite: '[[DATABASE/action/Spellstrike|Spellstrike]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Magus|Magus]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,39 +1,21 @@
 ﻿---
-actions: null
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
 heighten: '+1'
 heighten_level: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
 id: '1167'
-lesson: null
 level: '1'
-mystery: null
 name: Cinder Gaze
-patron_theme: null
-range: null
 rarity: Rare
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-target: null
-tradition: null
 trait:
 - '[[DATABASE/trait/Cleric|Cleric]]'
 - '[[DATABASE/trait/Divination|Divination]]'
 - '[[DATABASE/trait/Prediction|Prediction]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Focus
 
 ---

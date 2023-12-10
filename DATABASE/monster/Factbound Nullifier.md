@@ -1,10 +1,7 @@
 ﻿---
 ac: '38'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Attack of Opportunity
@@ -14,10 +11,8 @@ creature_ability:
 - Sever Spell
 creature_family: '[[DATABASE/monsterfamily/Facetbound|Facetbound]]'
 dexterity: '+4'
-element: null
 fly_speed: '25'
 fortitude: '+26'
-hardness: null
 hp: 305 ( negative healing )
 id: '2362'
 immunity:
@@ -37,9 +32,6 @@ name: Factbound Nullifier
 perception: '+25'
 rarity: Rare
 reflex: '+22'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -60,7 +52,6 @@ strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Undead|Undead]]'
@@ -68,7 +59,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+24'
 wisdom: '+2'
 

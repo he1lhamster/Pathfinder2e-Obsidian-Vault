@@ -1,25 +1,18 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Fighter Dedication
-frequency: null
-heighten_level: null
 id: '709'
+leads_to: '[[DATABASE/feat/Basic Maneuver|Basic Maneuver]] , [[DATABASE/feat/Diverse
+  Weapon Expert|Diverse Weapon Expert]] , [[DATABASE/feat/Fighter Resiliency|Fighter
+  Resiliency]] , [[DATABASE/feat/Opportunist|Opportunist]]'
 level: '2'
 name: Fighter Dedication
 prerequisite: Strength 14; Dexterity 14
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Multiclass|Multiclass]]'
-trigger: null
 type: Feat
 
 ---

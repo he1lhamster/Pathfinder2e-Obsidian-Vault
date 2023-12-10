@@ -1,24 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Loaner Spell
-frequency: null
-heighten_level: null
 id: '1797'
+leads_to: '[[DATABASE/feat/Steal Spell|Steal Spell]]'
 level: '8'
 name: Loaner Spell
 prerequisite: Trained in [[DATABASE/skill/Arcana|Arcana]] , Trained in [[DATABASE/skill/Nature|Nature]]
   , Trained in [[DATABASE/skill/Occultism|Occultism]] , or Trainedin [[DATABASE/skill/Religion|Religion]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Rogue|Rogue]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,14 +1,9 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
-frequency: null
 id: '95'
 name: Grab an Edge
 rarity: Common
 requirement: Your hands are not tied behind your back or otherwise restrained
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Manipulate|Manipulate]]'

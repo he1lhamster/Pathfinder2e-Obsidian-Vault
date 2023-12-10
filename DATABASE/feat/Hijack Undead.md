@@ -1,25 +1,18 @@
 ﻿---
 actions: '[three-actions]'
-cost: null
-element: null
 feat: Hijack Undead
 frequency: once per hour
-heighten_level: null
 id: '3647'
+leads_to: '[[DATABASE/feat/Improved Hijack Undead|Improved Hijack Undead]]'
 level: '4'
 name: Hijack Undead
 prerequisite: '[[DATABASE/feat/Clockwork Reanimator Dedication|Clockwork Reanimator
   Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 180. The Smoking Gun|Pathfinder #180: The Smoking
   Gun]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

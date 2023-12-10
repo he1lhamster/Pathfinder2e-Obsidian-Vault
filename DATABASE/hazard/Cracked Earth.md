@@ -1,27 +1,14 @@
 ﻿---
-ac: null
-all_resistance: null
 complexity: Simple
-element: null
-fortitude: null
-hardness: null
 hazard_type: Environmental
-hp: null
 id: '304'
-immunity: null
 level: '3'
 name: Cracked Earth
 rarity: Common
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 trait:
 - '[[DATABASE/trait/Environmental|Environmental]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Cracked Earth<span class="item-type">Hazard 3</span>

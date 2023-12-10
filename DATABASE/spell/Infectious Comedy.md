@@ -1,27 +1,15 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Verbal
 - Somatic
-cost: null
-deity: null
-domain: null
 duration: sustained up to 1 minute
-element: null
-heighten: null
 heighten_level: '5'
 id: '1240'
-lesson: null
 level: '5'
-mystery: null
 name: Infectious Comedy
-patron_theme: null
 range: 30 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 saving_throw: Will
 school: Enchantment
 source: '[[DATABASE/source/Pathfinder 185. A Taste of Ashes|Pathfinder #185: A Taste
@@ -36,7 +24,6 @@ trait:
 - '[[DATABASE/trait/Incapacitation|Incapacitation]]'
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Spell
 
 ---

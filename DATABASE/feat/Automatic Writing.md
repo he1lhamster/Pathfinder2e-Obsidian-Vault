@@ -1,18 +1,11 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Automatic Writing
 frequency: once per day
-heighten_level: null
 id: '3771'
 level: '2'
 name: Automatic Writing
 prerequisite: Expert in [[DATABASE/skill/Occultism|Occultism]]
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: occultism
 trait:
@@ -22,7 +15,6 @@ trait:
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Skill|Skill]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

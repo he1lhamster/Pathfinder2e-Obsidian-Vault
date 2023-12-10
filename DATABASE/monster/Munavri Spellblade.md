@@ -1,23 +1,16 @@
 ﻿---
 ac: '18'
 alignment: NG
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Intuit Object
 - Light Blindness
 creature_family: '[[DATABASE/monsterfamily/Munavri|Munavri]]'
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+8'
-hardness: null
 hp: '28'
 id: '1241'
-immunity: null
 intelligence: '+0'
 land_speed: '20'
 language:
@@ -32,8 +25,6 @@ rarity: Rare
 reflex: '+6'
 resistance:
 - mental 2
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -57,7 +48,6 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Munavri|Munavri]]'
@@ -66,7 +56,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+7'
 wisdom: '+1'
 

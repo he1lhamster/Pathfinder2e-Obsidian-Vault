@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Big Mouth
-frequency: null
-heighten_level: null
 id: '1306'
 level: '9'
 name: Big Mouth
 prerequisite: '[[DATABASE/feat/Cheek Pouches|Cheek Pouches]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Ratfolk|Ratfolk]]'
-trigger: null
 type: Feat
 
 ---

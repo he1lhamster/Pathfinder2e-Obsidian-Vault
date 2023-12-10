@@ -1,36 +1,18 @@
 ﻿---
 actions: '[one-action]'
-area: null
-bloodline: null
 component:
 - Verbal
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
-heighten: null
 heighten_level: '1'
 id: '1041'
-lesson: null
 level: '1'
-mystery: null
 name: Shielding Strike
-patron_theme: null
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-target: null
-tradition: null
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Magus|Magus]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Focus
 
 ---

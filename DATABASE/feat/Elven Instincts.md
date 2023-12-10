@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Elven Instincts
-frequency: null
-heighten_level: null
 id: '981'
 level: '5'
 name: Elven Instincts
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Elf|Elf]]'
-trigger: null
 type: Feat
 
 ---

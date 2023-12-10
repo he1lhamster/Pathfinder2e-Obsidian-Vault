@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Signifer's Sight
-frequency: null
-heighten_level: null
 id: '1085'
 level: '10'
 name: Signifer's Sight
 prerequisite: '[[DATABASE/feat/Hellknight Signifer Dedication|Hellknight Signifer
   Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

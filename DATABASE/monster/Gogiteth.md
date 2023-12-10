@@ -1,8 +1,6 @@
 ﻿---
 ac: '31'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
 climb_speed: '30'
 constitution: '+4'
@@ -11,15 +9,10 @@ creature_ability:
 - Constrict
 - Skittering Assault
 - Skittering Reposition
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+25'
-hardness: null
 hp: '250'
 id: '237'
-immunity: null
 intelligence: '-2'
 land_speed: '40'
 language:
@@ -32,8 +25,6 @@ rarity: Common
 reflex: '+22'
 resistance:
 - poison 10
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Large
@@ -45,19 +36,16 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 40 feet; climb 30 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+20'
 wisdom: '+1'
 

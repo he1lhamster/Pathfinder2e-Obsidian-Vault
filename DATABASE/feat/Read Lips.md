@@ -1,24 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Read Lips
-frequency: null
-heighten_level: null
 id: '833'
 level: '1'
 name: Read Lips
 prerequisite: Trained in [[DATABASE/skill/Society|Society]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: society
 trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

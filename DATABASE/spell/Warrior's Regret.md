@@ -1,27 +1,15 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
 heighten: '+2'
 heighten_level: 2, 4, 6, 8, 10
 id: '1030'
-lesson: null
 level: '2'
-mystery: null
 name: Warrior's Regret
-patron_theme: null
 range: touch
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Will
 school: Enchantment
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
@@ -35,7 +23,6 @@ trait:
 - '[[DATABASE/trait/Emotion|Emotion]]'
 - '[[DATABASE/trait/Enchantment|Enchantment]]'
 - '[[DATABASE/trait/Mental|Mental]]'
-trigger: null
 type: Spell
 
 ---

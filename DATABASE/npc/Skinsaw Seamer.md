@@ -1,23 +1,16 @@
 ﻿---
 ac: '26'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Flay
 - Quick Stitch
 - Wire Catch
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+16'
 hp: '130'
 id: '2493'
-immunity: null
 intelligence: '+2'
 land_speed: '25'
 language:
@@ -29,9 +22,6 @@ name: Skinsaw Seamer
 perception: '+18'
 rarity: Rare
 reflex: '+18'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +18'
@@ -45,21 +35,17 @@ source: '[[DATABASE/source/Pathfinder 158. Sixty Feet Under|Pathfinder #158: Six
   Feet Under]]'
 speed:
 - 25 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+17'
 wisdom: '+3'
 

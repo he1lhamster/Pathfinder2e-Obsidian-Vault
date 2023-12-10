@@ -1,10 +1,6 @@
 ﻿---
 ac: '35'
-alignment: null
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Cloudgaze
@@ -19,7 +15,6 @@ dexterity: '+8'
 element: Air
 fly_speed: '100'
 fortitude: '+21'
-hardness: null
 hp: '175'
 id: '2619'
 immunity:
@@ -28,7 +23,6 @@ immunity:
 - '[[DATABASE/trait/Poison|poison]]'
 - '[[DATABASE/trait/Sleep|sleep]]'
 intelligence: '+4'
-land_speed: null
 language:
 - '[[DATABASE/language/Sussuran|Sussuran]]'
 level: '13'
@@ -37,9 +31,6 @@ name: Picture-in-Cloud
 perception: '+20'
 rarity: Common
 reflex: '+26'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Huge
@@ -49,12 +40,10 @@ skill:
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 speed:
 - fly 100 feet; swiftness
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Elemental|Elemental]]'
@@ -62,7 +51,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+19'
 wisdom: '+4'
 

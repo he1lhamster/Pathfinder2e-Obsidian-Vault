@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Link Wellspring
-frequency: null
-heighten_level: null
 id: '2939'
 level: '18'
 name: Link Wellspring
 prerequisite: '[[DATABASE/feat/Link Focus|Link Focus]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Summoner|Summoner]]'
-trigger: null
 type: Feat
 
 ---

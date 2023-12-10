@@ -1,20 +1,12 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Fake Out
-frequency: null
-heighten_level: null
 id: '3161'
 level: '2'
 name: Fake Out
-prerequisite: null
 rarity: Common
 requirement: You're wielding a loaded firearm or crossbow.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Gunslinger|Gunslinger]]'
 - '[[DATABASE/trait/Visual|Visual]]'

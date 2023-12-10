@@ -1,7 +1,6 @@
 ﻿---
 advanced_apocryphal_spell: '[[DATABASE/spell/Shaken Confidence|Shaken Confidence]]'
 advanced_domain_spell: '[[DATABASE/spell/Delusional Pride|Delusional Pride]]'
-apocryphal_spell: null
 deity:
 - '[[DATABASE/deity/Adanye|Adanye]]'
 - '[[DATABASE/deity/Arazni|Arazni]]'
@@ -41,9 +40,7 @@ domain_spell: '[[DATABASE/spell/Veil of Confidence|Veil of Confidence]]'
 id: '4'
 name: Confidence Domain
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Domain
 
 ---

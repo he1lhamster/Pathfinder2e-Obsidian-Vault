@@ -1,28 +1,7 @@
 ﻿---
-bulk: L
-damage: 1d6 P
-deity: null
-favored_weapon: null
-hands: '1'
-id: '343'
-item_category: Weapons
-item_subcategory: Base Weapons
-level: '0'
+id: '147'
 name: Thunder Sling
-price: 5 gp
-range: 50 ft.
-rarity: Uncommon
-rus_type_level: null
-source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-trait:
-- '[[DATABASE/trait/Agile|Agile]]'
-- '[[DATABASE/trait/Propulsive|Propulsive]]'
-- '[[DATABASE/trait/Tengu|Tengu]]'
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
-type: Weapon
-weapon_category: Martial
-weapon_group: '[[DATABASE/weapongroup/Sling|Sling]]'
-weapon_type: Ranged
+source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 
 ---
 # Thunder Sling

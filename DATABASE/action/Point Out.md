@@ -1,21 +1,15 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
-frequency: null
 id: '97'
 name: Point Out
 rarity: Common
 requirement: "A creature is undetected by one or more of your allies but isn\u2019\
   t undetected by you."
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Auditory|Auditory]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Visual|Visual]]'
-trigger: null
 type: Action
 
 ---

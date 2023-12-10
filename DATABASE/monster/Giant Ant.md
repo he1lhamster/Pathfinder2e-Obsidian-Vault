@@ -1,8 +1,6 @@
 ﻿---
 ac: '18'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-4'
 climb_speed: '20'
 constitution: '+4'
@@ -11,25 +9,17 @@ creature_ability:
 - Haul Away
 creature_family: '[[DATABASE/monsterfamily/Ant|Ant]]'
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+10'
-hardness: null
 hp: '30'
 id: '548'
-immunity: null
 intelligence: '-5'
 land_speed: '40'
-language: null
 level: '2'
 max_speed: '40'
 name: Giant Ant
 perception: '+7'
 rarity: Common
 reflex: '+7'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent (imprecise) 30 feet]]'
@@ -41,19 +31,16 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 40 feet
 - climb 20 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+5'
 wisdom: '+1'
 

@@ -1,10 +1,7 @@
 ﻿---
 ac: '21'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Compel Courage
@@ -14,10 +11,7 @@ creature_ability:
 - Whispering Wounds
 creature_family: '[[DATABASE/monsterfamily/Velstrac|Velstrac]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+9'
-hardness: null
 hp: '67'
 id: '848'
 immunity:
@@ -34,9 +28,6 @@ name: Ostiarius
 perception: '+15'
 rarity: Common
 reflex: '+15'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 - painsight
@@ -63,7 +54,6 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fiend|Fiend]]'
 - '[[DATABASE/trait/Velstrac|Velstrac]]'

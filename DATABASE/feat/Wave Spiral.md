@@ -1,24 +1,18 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
 element: Water
 feat: Wave Spiral
 frequency: once per minute
-heighten_level: null
 id: '2985'
 level: '12'
 name: Wave Spiral
 prerequisite: '[[DATABASE/feat/Reflective Ripple Stance|Reflective Ripple Stance]]'
 rarity: Common
 requirement: You're in Reflective Ripple Stance.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Monk|Monk]]'
 - '[[DATABASE/trait/Water|Water]]'
-trigger: null
 type: Feat
 
 ---

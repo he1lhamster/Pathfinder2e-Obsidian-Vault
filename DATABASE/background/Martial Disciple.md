@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Cat Fall|Cat Fall]] , [[DATABASE/feat/Quick Jump|QuickJump]]'
 id: '24'
 name: Martial Disciple
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] or [[DATABASE/skill/Athletics|Athletics]]'
 - Warfare [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

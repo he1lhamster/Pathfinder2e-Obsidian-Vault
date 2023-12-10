@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Flexible Ritualist
-frequency: null
-heighten_level: null
 id: '2042'
+leads_to: '[[DATABASE/feat/Assured Ritualist|Assured Ritualist]]'
 level: '6'
 name: Flexible Ritualist
 prerequisite: '[[DATABASE/feat/Ritualist Dedication|Ritualist Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

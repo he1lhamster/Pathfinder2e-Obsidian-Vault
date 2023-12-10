@@ -1,24 +1,14 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Weapon Infusion
-frequency: null
-heighten_level: null
 id: '4186'
 level: '1'
 name: Weapon Infusion
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Infusion|Infusion]]'
 - '[[DATABASE/trait/Kineticist|Kineticist]]'
-trigger: null
 type: Feat
 
 ---

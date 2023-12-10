@@ -1,22 +1,15 @@
 ﻿---
 ac: '17'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Drain Bonded Item
 creature_family: '[[DATABASE/monsterfamily/Planar Scion|Planar Scion]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+5'
-hardness: null
 hp: '29'
 id: '331'
-immunity: null
 intelligence: '+4'
 land_speed: '25'
 language:
@@ -28,9 +21,6 @@ name: Tiefling Adept
 perception: '+6'
 rarity: Common
 reflex: '+7'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -63,7 +53,6 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -72,7 +61,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+8'
 wisdom: '+1'
 

@@ -1,24 +1,17 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Pickpocket
-frequency: null
-heighten_level: null
 id: '818'
+leads_to: '[[DATABASE/feat/Larcenous Hand|Larcenous Hand]] , [[DATABASE/feat/Legendary
+  Thief|Legendary Thief]] , [[DATABASE/feat/Plant Evidence|Plant Evidence]]'
 level: '1'
 name: Pickpocket
 prerequisite: Trained in [[DATABASE/skill/Thievery|Thievery]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: thievery
 trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,8 +1,6 @@
 ﻿---
 ac: '25'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
 climb_speed: '30'
 constitution: '+4'
@@ -15,10 +13,7 @@ creature_ability:
 - Stable Stance
 creature_family: '[[DATABASE/monsterfamily/Devil|Devil]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+17'
-hardness: null
 hp: '105'
 id: '1114'
 immunity:
@@ -49,8 +44,6 @@ rarity: Common
 reflex: '+14'
 resistance:
 - physical 5 (except [[DATABASE/equipment/Silver Weapon|silver]] )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 size: Large
@@ -63,12 +56,10 @@ source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 30 feet
 - climb 30 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Devil|Devil]]'

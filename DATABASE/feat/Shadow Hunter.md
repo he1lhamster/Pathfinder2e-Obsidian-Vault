@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Shadow Hunter
-frequency: null
-heighten_level: null
 id: '545'
 level: '18'
 name: Shadow Hunter
 prerequisite: '[[DATABASE/feat/Camouflage|Camouflage]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Ranger|Ranger]]'
-trigger: null
 type: Feat
 
 ---

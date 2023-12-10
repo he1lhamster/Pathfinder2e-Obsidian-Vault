@@ -1,8 +1,6 @@
 ﻿---
 ac: '21'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
 climb_speed: '20'
 constitution: '+2'
@@ -10,12 +8,8 @@ creature_ability:
 - Change Shape
 - Devour Flesh
 - Luring Laugh
-creature_family: null
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+13'
-hardness: null
 hp: 85 ( negative healing )
 id: '1867'
 immunity:
@@ -40,8 +34,6 @@ rarity: Common
 reflex: '+10'
 resistance:
 - '[[DATABASE/trait/Fire|fire]] 5'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -57,13 +49,11 @@ source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 speed:
 - 30 feet
 - climb 20 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Genie|Genie]]'
 - '[[DATABASE/trait/Ghul|Ghul]]'

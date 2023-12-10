@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Shield of Grace
-frequency: null
-heighten_level: null
 id: '258'
 level: '16'
 name: Shield of Grace
 prerequisite: '[[DATABASE/feat/Shield Warden|Shield Warden]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Champion|Champion]]'
-trigger: null
 type: Feat
 
 ---

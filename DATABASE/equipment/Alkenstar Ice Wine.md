@@ -1,45 +1,14 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
 bulk: L
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '1788'
 item_category: Alchemical Items
 item_subcategory: Drugs
-land_speed: null
 level: '5'
-max_speed: null
 name: Alkenstar Ice Wine
-onset: null
 price: 25 gp
-range: null
 rarity: Uncommon
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
-school: null
-size: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-spell: null
-stage: null
 subcategory: alchemical/drug
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Alchemical|Alchemical]]'
 - '[[DATABASE/trait/Consumable|Consumable]]'
@@ -48,12 +17,8 @@ trait:
 - '[[DATABASE/trait/Poison|Poison]]'
 - '[[DATABASE/trait/Positive|Positive]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Item
 usage: held in 1 hand
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Alkenstar Ice Wine<span class="item-type">Item 5</span>

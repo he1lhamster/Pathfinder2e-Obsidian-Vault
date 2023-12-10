@@ -1,18 +1,12 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Skeptic's Defense
 frequency: once per day
-heighten_level: null
 id: '3777'
 level: '7'
 name: Skeptic's Defense
 prerequisite: Master in [[DATABASE/skill/Intimidation|Intimidation]]
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: intimidation
 trait:

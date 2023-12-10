@@ -1,10 +1,7 @@
 ﻿---
 ac: '36'
 alignment: CG
-all_resistance: null
-burrow_speed: null
 charisma: '+8'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Flame Jump
@@ -13,12 +10,9 @@ creature_ability:
 - Shining Blaze
 - Smoke Vision
 - Wildfire Storm
-creature_family: null
 dexterity: '+7'
 element: Fire
-fly_speed: null
 fortitude: '+22'
-hardness: null
 hp: '255'
 id: '1262'
 immunity:
@@ -41,8 +35,6 @@ rarity: Common
 reflex: '+27'
 resistance:
 - cold 5
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - smoke vision
@@ -67,7 +59,6 @@ strength: '+7'
 strength_req: '7'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Celestial|Celestial]]'
 - '[[DATABASE/trait/Fire|Fire]]'

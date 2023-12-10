@@ -1,10 +1,7 @@
 ﻿---
 ac: '30'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Draft Contract
@@ -13,10 +10,7 @@ creature_ability:
 - Ward Contract
 creature_family: '[[DATABASE/monsterfamily/Devil|Devil]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+18'
-hardness: null
 hp: '150'
 id: '112'
 immunity:
@@ -42,8 +36,6 @@ reflex: '+18'
 resistance:
 - physical 10 (except [[DATABASE/equipment/Silver Weapon|silver]] )
 - '[[DATABASE/trait/Poison|poison]] 10'
-rus_type_level: null
-school: null
 sense:
 - greater darkvision
 size: Medium
@@ -78,7 +70,6 @@ strength: '+3'
 strength_req: '3'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Devil|Devil]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

@@ -1,36 +1,19 @@
 ﻿---
 actions: '[one-action]'
-area: null
-bloodline: null
 component:
 - Somatic
-cost: null
-deity: null
-domain: null
 duration: 1 minute
-element: null
-heighten: null
 heighten_level: '7'
 id: '1039'
-lesson: null
 level: '7'
-mystery: null
 name: Hasted Assault
-patron_theme: null
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-target: null
-tradition: null
 trait:
 - '[[DATABASE/trait/Magus|Magus]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Focus
 
 ---

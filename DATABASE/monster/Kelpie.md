@@ -1,23 +1,15 @@
 ﻿---
 ac: '21'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Captivating Lure
 - Change Shape
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+11'
-hardness: null
 hp: '60'
 id: '709'
-immunity: null
 intelligence: '-1'
 land_speed: '35'
 language:
@@ -32,8 +24,6 @@ rarity: Common
 reflex: '+12'
 resistance:
 - fire 5
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Large
@@ -45,7 +35,6 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 35 feet
 - swim 35 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:

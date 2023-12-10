@@ -1,39 +1,25 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Cosmic Caravan|Cosmic Caravan]]'
 - '[[DATABASE/deity/Cosmic Caravan|Cosmic Caravan]]'
-domain: null
 duration: 10 minutes
-element: null
-heighten: null
 heighten_level: '6'
 id: '671'
-lesson: null
 level: '6'
-mystery: null
 name: Blanket of Stars
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Will
 school: Illusion
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-target: null
 tradition:
 - Occult
 - Primal
 trait:
 - '[[DATABASE/trait/Illusion|Illusion]]'
-trigger: null
 type: Spell
 
 ---

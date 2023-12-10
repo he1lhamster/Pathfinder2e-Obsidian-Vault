@@ -1,22 +1,16 @@
 ﻿---
 ac: '21'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Guide's Warning
 - Guiding Words
 creature_family: '[[DATABASE/monsterfamily/Explorers|Explorers]]'
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+12'
 hp: '60'
 id: '903'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -27,9 +21,6 @@ name: Guide
 perception: '+14'
 rarity: Common
 reflex: '+11'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +14'
@@ -39,20 +30,16 @@ skill:
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 speed:
 - 25 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+14'
 wisdom: '+3'
 

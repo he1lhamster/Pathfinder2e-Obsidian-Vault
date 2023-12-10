@@ -1,26 +1,20 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Butterfly Blade Dedication
-frequency: null
-heighten_level: null
 id: '2704'
+leads_to: '[[DATABASE/feat/Butterfly''s Kiss|Butterfly''s Kiss]] , [[DATABASE/feat/Butterfly''s
+  Sting|Butterfly''s Sting]] , [[DATABASE/feat/Deadly Butterfly|Deadly Butterfly]]
+  , [[DATABASE/feat/Innocent Butterfly|Innocent Butterfly]] , [[DATABASE/feat/Mastermind''s
+  Eye|Mastermind''s Eye]]'
 level: '4'
 name: Butterfly Blade Dedication
 prerequisite: trained in [[DATABASE/weapon/Butterfly Sword|butterfly swords]]
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #166:
   Despair on Danger Island]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

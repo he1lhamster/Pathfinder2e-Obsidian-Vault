@@ -1,25 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Harrower Dedication
-frequency: null
-heighten_level: null
 id: '4153'
 level: '2'
 name: Harrower Dedication
-prerequisite: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Stolen Fate Player''s Guide|Stolen Fate Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

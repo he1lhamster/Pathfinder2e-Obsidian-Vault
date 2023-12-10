@@ -1,26 +1,17 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Bless Tonic
-frequency: null
-heighten_level: null
 id: '1175'
 level: '7'
 name: Bless Tonic
 prerequisite: Master in [[DATABASE/skill/Crafting|Crafting]] ; deity who grants [[DATABASE/spell/Heal|heal]]
   divine font
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
 subcategory: crafting
 trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Positive|Positive]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

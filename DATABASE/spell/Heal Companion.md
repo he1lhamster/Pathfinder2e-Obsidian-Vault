@@ -1,37 +1,21 @@
 ﻿---
 actions: '[one-action]'
-area: null
-bloodline: null
-component: null
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
 heighten: '+1'
 heighten_level: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
 id: '771'
-lesson: null
 level: '1'
-mystery: null
 name: Heal Companion
-patron_theme: null
 range: touch or 30 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 target: your animal companion
-tradition: null
 trait:
 - '[[DATABASE/trait/Healing|Healing]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Positive|Positive]]'
 - '[[DATABASE/trait/Ranger|Ranger]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Focus
 
 ---

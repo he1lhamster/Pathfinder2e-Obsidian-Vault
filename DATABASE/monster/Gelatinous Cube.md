@@ -1,10 +1,7 @@
 ﻿---
 ac: '10'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Engulf
@@ -14,10 +11,7 @@ creature_ability:
 - Weak Acid
 creature_family: '[[DATABASE/monsterfamily/Ooze|Ooze]]'
 dexterity: '-5'
-element: null
-fly_speed: null
 fortitude: '+12'
-hardness: null
 hp: '90'
 id: '321'
 immunity:
@@ -29,7 +23,6 @@ immunity:
 - visual
 intelligence: '-5'
 land_speed: '15'
-language: null
 level: '3'
 max_speed: '15'
 name: Gelatinous Cube
@@ -38,8 +31,6 @@ rarity: Common
 reflex: '+0'
 resistance:
 - electricity 5
-rus_type_level: null
-school: null
 sense:
 - motion sense 60 feet
 - no vision
@@ -49,20 +40,16 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 15 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Mindless|Mindless]]'
 - '[[DATABASE/trait/Ooze|Ooze]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+5'
 wisdom: '+0'
 

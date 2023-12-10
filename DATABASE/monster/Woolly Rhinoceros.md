@@ -1,10 +1,7 @@
 ﻿---
 ac: '25'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Cold Adaptation
@@ -13,25 +10,17 @@ creature_ability:
 - Trample
 creature_family: '[[DATABASE/monsterfamily/Rhinoceros|Rhinoceros]]'
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+17'
-hardness: null
 hp: '100'
 id: '789'
-immunity: null
 intelligence: '-4'
 land_speed: '35'
-language: null
 level: '6'
 max_speed: '35'
 name: Woolly Rhinoceros
 perception: '+11'
 rarity: Common
 reflex: '+11'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Scent|scent (imprecise) 30 feet]]'
 size: Large
@@ -41,19 +30,15 @@ skill:
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 35 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+15'
 wisdom: '+3'
 

@@ -4,7 +4,6 @@ level: '2'
 name: Pactbound Initiate
 prerequisite: Trained in [[DATABASE/skill/Nature|Nature]]
 rarity: Rare
-rus_type_level: null
 source: '[[DATABASE/source/Monsters of Myth|Monsters of Myth]]'
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'

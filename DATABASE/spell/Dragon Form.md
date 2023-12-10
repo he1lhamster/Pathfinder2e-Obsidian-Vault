@@ -1,11 +1,9 @@
 ﻿---
 actions: '[two-actions]'
-area: null
 bloodline: '[[DATABASE/sorcererbloodline/Draconic|Draconic]]'
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Apsu|Apsu]]'
 - '[[DATABASE/deity/Dahak|Dahak]]'
@@ -13,32 +11,21 @@ deity:
 - '[[DATABASE/deity/Lady Nanbyo|LadyNanbyo]]'
 - '[[DATABASE/deity/Sturovenen|Sturovenen]]'
 - '[[DATABASE/deity/Uvuko|Uvuko]]'
-domain: null
 duration: 1 minute
-element: null
 heighten: 8th
 heighten_level: 6, 8
 id: '88'
-lesson: null
 level: '6'
-mystery: null
 name: Dragon Form
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Arcane
 - Primal
 trait:
 - '[[DATABASE/trait/Polymorph|Polymorph]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Spell
 
 ---

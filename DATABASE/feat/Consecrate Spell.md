@@ -1,20 +1,12 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Consecrate Spell
-frequency: null
-heighten_level: null
 id: '3637'
 level: '10'
 name: Consecrate Spell
 prerequisite: ability to cast focus spells,divinespells
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Cleric|Cleric]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
@@ -22,7 +14,6 @@ trait:
 - '[[DATABASE/trait/Oracle|Oracle]]'
 - '[[DATABASE/trait/Sorcerer|Sorcerer]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

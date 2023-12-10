@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Plague Sniffer
-frequency: null
-heighten_level: null
 id: '2428'
 level: '5'
 name: Plague Sniffer
 prerequisite: '[[DATABASE/heritage/Longsnout Rat|Longsnout Rat]] heritage'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Ratfolk|Ratfolk]]'
-trigger: null
 type: Feat
 
 ---

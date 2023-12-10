@@ -12,7 +12,6 @@ level: '0'
 name: Coral Armor
 price: 5 gp
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 speed_penalty: -5 ft.
 strength: '+14'

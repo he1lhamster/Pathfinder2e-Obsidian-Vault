@@ -1,8 +1,6 @@
 ﻿---
 bulk: '1'
 damage: 1d10 B
-deity: null
-favored_weapon: null
 hands: '2'
 id: '78'
 item_category: Weapons
@@ -12,7 +10,6 @@ name: Halfling Sling Staff
 price: 5 gp
 range: 80 ft.
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Halfling|Halfling]]'

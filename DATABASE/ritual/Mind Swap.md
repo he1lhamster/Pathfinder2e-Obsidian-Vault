@@ -1,9 +1,7 @@
 ﻿---
-area: null
 cost: "a pair of jeweled mirrors worth a total value of 50 gp \xD7 the level of the\
   \ highest-level target"
 duration: 1 week
-element: null
 heighten: 9th
 heighten_level: 5, 9
 id: '61'
@@ -12,8 +10,6 @@ name: Mind Swap
 primary_check: '[[DATABASE/skill/Occultism|Occultism]] (expert)'
 range: 10 feet
 rarity: Rare
-requirement: null
-rus_type_level: null
 school: Necromancy
 secondary_casters: '1'
 secondary_check: '[[DATABASE/skill/Medicine|Medicine]] or Occultism'

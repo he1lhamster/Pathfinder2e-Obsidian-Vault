@@ -1,29 +1,16 @@
 ﻿---
-actions: null
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 1 hour
-element: null
 heighten: 4th
 heighten_level: 2, 4
 id: '1115'
-lesson: null
 level: '2'
-mystery: null
 name: Empathic Link
-patron_theme: null
 range: touch
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
 target: 1 willing creature
@@ -35,7 +22,6 @@ trait:
 - '[[DATABASE/trait/Emotion|Emotion]]'
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Spell
 
 ---

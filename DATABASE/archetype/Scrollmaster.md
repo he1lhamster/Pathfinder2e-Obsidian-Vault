@@ -5,7 +5,6 @@ name: Scrollmaster
 prerequisite: expert in any [[DATABASE/skill/Lore|Lore]] skill; member of the Pathfinder
   Societyaffiliated with the School of Scrolls
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

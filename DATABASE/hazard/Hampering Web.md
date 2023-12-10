@@ -1,10 +1,7 @@
 ﻿---
 ac: '19'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+10'
-hardness: null
 hazard_type: Environmental
 hp: 26 (BT 13)
 id: '34'
@@ -16,15 +13,10 @@ level: '1'
 name: Hampering Web
 rarity: Common
 reflex: '+11'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
 - '[[DATABASE/trait/Environmental|Environmental]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Hampering Web<span class="item-type">Hazard 1</span>

@@ -1,20 +1,14 @@
 ﻿---
 ac: '12'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Monstrous Yeast
 - Motion Sense
 creature_family: '[[DATABASE/monsterfamily/Ooze|Ooze]]'
 dexterity: '-2'
-element: null
-fly_speed: null
 fortitude: '+10'
-hardness: null
 hp: '60'
 id: '1929'
 immunity:
@@ -26,7 +20,6 @@ immunity:
 - '[[DATABASE/trait/Visual|visual]]'
 intelligence: '-5'
 land_speed: '20'
-language: null
 level: '2'
 max_speed: '20'
 name: Yeast Ooze
@@ -36,8 +29,6 @@ reflex: '+3'
 resistance:
 - slashing 5
 - piercing 5
-rus_type_level: null
-school: null
 sense:
 - motion sense 60 feet
 - no vision
@@ -49,7 +40,6 @@ source: '[[DATABASE/source/Pathfinder 178. Punks in a Powderkeg|Pathfinder #178:
 speed:
 - 20 feet
 - swim 20 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
@@ -60,7 +50,6 @@ trait:
 - '[[DATABASE/trait/Ooze|Ooze]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
 weakness:

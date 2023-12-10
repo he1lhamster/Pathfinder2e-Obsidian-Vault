@@ -1,22 +1,15 @@
 ﻿---
 ac: '31'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Filth Wallow
 - Putrid Stench
 - Refuse Pile
 - Wretched Weeps
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+22'
-hardness: null
 hp: 170 (filth wallow)
 id: '316'
 immunity:
@@ -32,9 +25,6 @@ name: Ofalth
 perception: '+18'
 rarity: Common
 reflex: '+17'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Large
@@ -44,19 +34,16 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 30 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+18'
 wisdom: '+2'
 

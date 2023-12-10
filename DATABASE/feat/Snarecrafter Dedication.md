@@ -1,25 +1,18 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Snarecrafter Dedication
-frequency: null
-heighten_level: null
 id: '2074'
+leads_to: '[[DATABASE/feat/Giant Snare|Giant Snare]] , [[DATABASE/feat/Plentiful Snares|Plentiful
+  Snares]] , [[DATABASE/feat/Remote Trigger|Remote Trigger]] , [[DATABASE/feat/Surprise
+  Snare|Surprise Snare]] , [[DATABASE/feat/Trapsmith Dedication|Trapsmith Dedication]]'
 level: '2'
 name: Snarecrafter Dedication
 prerequisite: Trained in [[DATABASE/skill/Crafting|Crafting]] ; [[DATABASE/feat/Snare
   Crafting|Snare Crafting]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
-trigger: null
 type: Feat
 
 ---

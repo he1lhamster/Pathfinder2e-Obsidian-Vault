@@ -4,7 +4,6 @@ level: '2'
 name: Twilight Speaker
 prerequisite: Trained in [[DATABASE/skill/Society|Society]]
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 189. Dreamers of the Nameless Spires|Pathfinder
   #189: Dreamers of the Nameless Spires]]'
 trait:

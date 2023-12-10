@@ -1,10 +1,7 @@
 ﻿---
 ac: '22'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Constrict
@@ -12,17 +9,12 @@ creature_ability:
 - Penanggalan Bile
 - Ride Corpse
 - Spewing Bile
-creature_family: null
 dexterity: '+5'
-element: null
 fly_speed: '40'
 fortitude: '+9'
-hardness: null
 hp: '83'
 id: '1261'
-immunity: null
 intelligence: '+0'
-land_speed: null
 language:
 - '[[DATABASE/language/Aklo|Aklo]]'
 - '[[DATABASE/language/Common|Common]]'
@@ -32,9 +24,6 @@ name: Penanggalan
 perception: '+11'
 rarity: Common
 reflex: '+16'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -46,12 +35,10 @@ skill:
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - fly 40 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Tanggal|Tanggal]]'

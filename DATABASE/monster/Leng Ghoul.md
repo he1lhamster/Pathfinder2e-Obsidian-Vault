@@ -1,7 +1,6 @@
 ﻿---
 ac: '29'
 alignment: CE
-all_resistance: null
 burrow_speed: '25'
 charisma: '+6'
 climb_speed: '25'
@@ -14,10 +13,7 @@ creature_ability:
 - Sneak Attack
 creature_family: '[[DATABASE/monsterfamily/Ghoul|Ghoul]]'
 dexterity: '+7'
-element: null
-fly_speed: null
 fortitude: '+18'
-hardness: null
 hp: 180 ( negative healing )
 id: '1165'
 immunity:
@@ -39,9 +35,6 @@ name: Leng Ghoul
 perception: '+19'
 rarity: Uncommon
 reflex: '+21'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -57,12 +50,10 @@ speed:
 - 25 feet
 - burrow 25 feet
 - climb 25 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dream|Dream]]'
 - '[[DATABASE/trait/Ghoul|Ghoul]]'
@@ -72,7 +63,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+19'
 wisdom: '+5'
 

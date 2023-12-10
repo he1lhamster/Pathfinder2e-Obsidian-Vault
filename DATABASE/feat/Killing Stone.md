@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Killing Stone
-frequency: null
-heighten_level: null
 id: '2628'
 level: '13'
 name: Killing Stone
 prerequisite: '[[DATABASE/feat/Star Orb|Star Orb]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Kitsune|Kitsune]]'
-trigger: null
 type: Feat
 
 ---

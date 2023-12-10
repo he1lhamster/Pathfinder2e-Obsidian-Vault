@@ -1,31 +1,17 @@
 ﻿---
 actions: '[one-action]'
-area: null
-bloodline: null
 component:
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 1 round
-element: null
-heighten: null
 heighten_level: '7'
 id: '380'
-lesson: null
 level: '7'
-mystery: null
 name: Allegro
-patron_theme: null
 range: 30 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Enchantment
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: 1 ally
-tradition: null
 trait:
 - '[[DATABASE/trait/Bard|Bard]]'
 - '[[DATABASE/trait/Cantrip|Cantrip]]'
@@ -34,7 +20,6 @@ trait:
 - '[[DATABASE/trait/Enchantment|Enchantment]]'
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Cantrip
 
 ---

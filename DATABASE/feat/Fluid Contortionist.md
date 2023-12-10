@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Fluid Contortionist
-frequency: null
-heighten_level: null
 id: '2610'
 level: '5'
 name: Fluid Contortionist
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Undine|Undine]]'
-trigger: null
 type: Feat
 
 ---

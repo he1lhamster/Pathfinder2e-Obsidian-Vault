@@ -1,27 +1,19 @@
 ﻿---
 ac: '18'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Clinging Bites
 creature_family: '[[DATABASE/monsterfamily/Trilobite|Trilobite]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+10'
-hardness: null
 hp: '30'
 id: '1348'
 immunity:
 - precision
 - '[[DATABASE/monsterability/Swarm Mind|swarm mind]]'
 intelligence: '-5'
-land_speed: null
-language: null
 level: '3'
 max_speed: '25'
 name: Trilobite Swarm
@@ -32,8 +24,6 @@ resistance:
 - bludgeoning 3
 - piercing 3
 - slashing 5
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Wavesense|wavesense]] (imprecise) 60 feet'
@@ -45,7 +35,6 @@ skill:
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - swim 25 feet
-spell: null
 strength: '+1'
 strength_req: '1'
 strongest_save:

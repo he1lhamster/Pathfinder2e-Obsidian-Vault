@@ -2,7 +2,6 @@
 id: '491'
 name: Spellgun
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 trait:
 - Spellgun

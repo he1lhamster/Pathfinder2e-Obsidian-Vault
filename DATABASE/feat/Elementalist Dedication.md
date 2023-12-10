@@ -1,25 +1,20 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Elementalist Dedication
-frequency: null
-heighten_level: null
-id: '4340'
+id: '2986'
+leads_to: '[[DATABASE/feat/Burning Spell|Burning Spell]] , [[DATABASE/feat/Dousing
+  Spell|Dousing Spell]] , [[DATABASE/feat/Elemental Familiar|Elemental Familiar]]
+  , [[DATABASE/feat/Metabolize Element|Metabolize Element]] , [[DATABASE/feat/Redirect
+  Elements|Redirect Elements]] , [[DATABASE/feat/Rockslide Spell|Rockslide Spell]]
+  , [[DATABASE/feat/Wind-Tossed Spell|Wind-Tossed Spell]]'
 level: '2'
 name: Elementalist Dedication
 prerequisite: elemental magic
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
-source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
+source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Class|Class]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
-trigger: null
 type: Feat
 
 ---

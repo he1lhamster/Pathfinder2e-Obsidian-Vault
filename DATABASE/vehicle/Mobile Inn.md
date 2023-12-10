@@ -1,8 +1,5 @@
 ﻿---
 ac: '22'
-burrow_speed: null
-climb_speed: null
-fly_speed: null
 fortitude: '+18'
 hardness: '10'
 hp: '100'
@@ -14,13 +11,8 @@ max_speed: '30'
 name: Mobile Inn
 price: 1,500 gp
 rarity: Rare
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 size: Huge
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Vehicle

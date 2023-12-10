@@ -1,10 +1,7 @@
 ﻿---
 ac: '24'
 alignment: NG
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Aura of Courage
@@ -13,10 +10,7 @@ creature_ability:
 - Immortal Shabti
 creature_family: '[[DATABASE/monsterfamily/Shabti|Shabti]]'
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+14'
-hardness: null
 hp: '75'
 id: '1291'
 immunity:
@@ -32,9 +26,6 @@ name: Shabti Redeemer
 perception: '+8'
 rarity: Rare
 reflex: '+8'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -54,7 +45,6 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Rare|Rare]]'
@@ -63,7 +53,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+11'
 wisdom: '+0'
 

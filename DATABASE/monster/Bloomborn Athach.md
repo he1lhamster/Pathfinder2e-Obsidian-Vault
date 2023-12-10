@@ -1,10 +1,7 @@
 ﻿---
 ac: '40'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Athach Venom
@@ -12,15 +9,10 @@ creature_ability:
 - Catch Rock
 - Swift Claw
 - Throw Rock
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+33'
-hardness: null
 hp: '375'
 id: '2348'
-immunity: null
 intelligence: '+2'
 land_speed: '40'
 language:
@@ -33,9 +25,6 @@ name: Bloomborn Athach
 perception: '+31'
 rarity: Rare
 reflex: '+30'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Huge
@@ -45,12 +34,10 @@ skill:
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 speed:
 - 40 feet
-spell: null
 strength: '+9'
 strength_req: '9'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Giant|Giant]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'

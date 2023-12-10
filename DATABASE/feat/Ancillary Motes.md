@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Ancillary Motes
-frequency: null
-heighten_level: null
 id: '2484'
 level: '9'
 name: Ancillary Motes
 prerequisite: '[[DATABASE/feat/Crystalline Dust|Crystalline Dust]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Aphorite|Aphorite]]'
-trigger: null
 type: Feat
 
 ---

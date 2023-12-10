@@ -1,7 +1,6 @@
 ﻿---
 id: '10'
 name: Drained
-source: null
 
 ---
 # Drained

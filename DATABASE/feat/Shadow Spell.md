@@ -1,25 +1,16 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Shadow Spell
-frequency: null
-heighten_level: null
 id: '3012'
 level: '8'
 name: Shadow Spell
 prerequisite: '[[DATABASE/feat/Shadowcaster Dedication|Shadowcaster Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Metamagic|Metamagic]]'
 - '[[DATABASE/trait/Shadow|Shadow]]'
-trigger: null
 type: Feat
 
 ---

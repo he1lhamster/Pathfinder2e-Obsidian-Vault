@@ -1,37 +1,22 @@
 ﻿---
 actions: '[one-action]'
-area: null
-bloodline: null
 component:
 - Somatic
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
 heighten: 3rd, 5th, 7th
 heighten_level: 1, 3, 5, 7
 id: '1062'
-lesson: null
 level: '1'
-mystery: null
 name: Efficient Apport
-patron_theme: null
 range: 60 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 target: 1 unattended object of light Bulk or less
-tradition: null
 trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Teleportation|Teleportation]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 - '[[DATABASE/trait/Wizard|Wizard]]'
-trigger: null
 type: Focus
 
 ---

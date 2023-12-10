@@ -1,20 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Aldori Riposte
-frequency: null
-heighten_level: null
 id: '879'
 level: '6'
 name: Aldori Riposte
 prerequisite: '[[DATABASE/feat/Aldori Parry|Aldori Parry]]'
 rarity: Common
 requirement: You are benefiting from Aldori Parry.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/World Guide|World Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 trigger: An opponent within your reach critically fails a Strike against you.

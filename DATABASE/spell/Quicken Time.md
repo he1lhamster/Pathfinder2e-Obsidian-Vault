@@ -1,37 +1,23 @@
 ﻿---
 actions: '[two-actions]'
 area: 20-foot burst
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 1 minute
-element: null
-heighten: null
 heighten_level: '5'
 id: '1187'
-lesson: null
 level: '5'
-mystery: null
 name: Quicken Time
-patron_theme: null
 range: 120 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-target: null
 tradition:
 - Arcane
 - Occult
 trait:
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Spell
 
 ---

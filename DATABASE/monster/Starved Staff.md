@@ -1,22 +1,15 @@
 ﻿---
 ac: '32'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Breath Weapon
 - Corpse Consumption
 - Starvation Aura
 - Swallow Whole
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+24'
-hardness: null
 hp: 250 ( negative healing )
 id: '2113'
 immunity:
@@ -41,8 +34,6 @@ resistance:
 - '[[DATABASE/trait/Fire|fire]] 10'
 - piercing 10
 - slashing 10
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Huge
@@ -53,12 +44,10 @@ source: '[[DATABASE/source/Pathfinder 154. Siege of the Dinosaurs|Pathfinder #15
   Siege of the Dinosaurs]]'
 speed:
 - 25 feet
-spell: null
 strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Undead|Undead]]'
 - '[[DATABASE/trait/Unique|Unique]]'
@@ -66,7 +55,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+21'
 wisdom: '+3'
 

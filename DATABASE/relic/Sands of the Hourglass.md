@@ -1,11 +1,9 @@
 ﻿---
-element: null
 id: '104'
 item_category: Relics
 name: Sands of the Hourglass
 prerequisite: The relic is 5th level or higher.
 rarity: Common
-rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 trait:

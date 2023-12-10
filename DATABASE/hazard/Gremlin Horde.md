@@ -1,29 +1,20 @@
 ﻿---
 ac: '27'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+11'
 hardness: 15 (while inside the centurion)
-hazard_type: null
 hp: 22 per gremlin gang
 id: '177'
-immunity: null
 level: '6'
 name: Gremlin Horde
 rarity: Common
 reflex: '+17'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 180. The Smoking Gun|Pathfinder #180: The Smoking
   Gun]]'
 trait:
 - '[[DATABASE/trait/Complex|Complex]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Gremlin Horde<span class="item-type">Hazard 6</span>

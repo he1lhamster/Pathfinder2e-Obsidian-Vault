@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Titan Slinger
-frequency: null
-heighten_level: null
 id: '57'
 level: '1'
 name: Titan Slinger
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Halfling|Halfling]]'
-trigger: null
 type: Feat
 
 ---

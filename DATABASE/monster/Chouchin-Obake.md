@@ -1,10 +1,7 @@
 ﻿---
 ac: '24'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Constrict
@@ -12,10 +9,8 @@ creature_ability:
 - Shadowbind
 creature_family: '[[DATABASE/monsterfamily/Tsukumogami|Tsukumogami]]'
 dexterity: '+4'
-element: null
 fly_speed: '20'
 fortitude: '+12'
-hardness: null
 hp: '75'
 id: '1351'
 immunity:
@@ -30,7 +25,6 @@ immunity:
 - '[[DATABASE/trait/Poison|poison]]'
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '+3'
-land_speed: null
 language:
 - '[[DATABASE/language/Common|Common]]'
 level: '6'
@@ -41,9 +35,6 @@ rarity: Common
 reflex: '+16'
 resistance:
 - physical 5
-rus_type_level: null
-school: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +12'
@@ -52,19 +43,15 @@ skill:
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - fly 20 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Kami|Kami]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+15'
 wisdom: '+5'
 

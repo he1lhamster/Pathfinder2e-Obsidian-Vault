@@ -1,58 +1,21 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
 bulk: '3'
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '1814'
 item_category: Artifacts
-item_subcategory: null
-land_speed: null
 level: '25'
-max_speed: null
 name: Passage Pane
-onset: null
-price: null
-range: null
 rarity: Rare
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Conjuration
-size: null
 source: '[[DATABASE/source/Pathfinder 186. Ghost King''s Rage|Pathfinder #186: Ghost
   King''s Rage]]'
-spell: null
-stage: null
 subcategory: artifact
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Artifact|Artifact]]'
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Divine|Divine]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Teleportation|Teleportation]]'
-trigger: null
 type: Item
-usage: null
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Passage Pane<span class="item-type">Item 25</span>

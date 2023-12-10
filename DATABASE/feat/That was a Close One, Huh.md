@@ -1,10 +1,7 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: That was a Close One, Huh?
 frequency: once per round
-heighten_level: null
 id: '3275'
 level: '7'
 name: That was a Close One, Huh
@@ -14,14 +11,10 @@ rarity: Common
 requirement: Either you used Accidental Shot and hit your opponent with the Strike
   this turn, or you used LuckyEscape since your last turn and the triggering attack
   missed you.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

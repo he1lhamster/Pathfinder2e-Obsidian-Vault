@@ -1,14 +1,8 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
-frequency: null
 id: '53'
 name: Demoralize
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Auditory|Auditory]]'
@@ -16,7 +10,6 @@ trait:
 - '[[DATABASE/trait/Emotion|Emotion]]'
 - '[[DATABASE/trait/Fear|Fear]]'
 - '[[DATABASE/trait/Mental|Mental]]'
-trigger: null
 type: Action
 
 ---

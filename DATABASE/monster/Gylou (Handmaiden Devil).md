@@ -1,8 +1,6 @@
 ﻿---
 ac: '36'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+8'
 climb_speed: '35'
 constitution: '+4'
@@ -13,10 +11,7 @@ creature_ability:
 - Tentacle Encage
 creature_family: '[[DATABASE/monsterfamily/Devil|Devil]]'
 dexterity: '+7'
-element: null
-fly_speed: null
 fortitude: '+22'
-hardness: null
 hp: '240'
 id: '610'
 immunity:
@@ -37,8 +32,6 @@ rarity: Common
 reflex: '+25'
 resistance:
 - physical 10 (except [[DATABASE/equipment/Silver|silver]] )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 - '[[DATABASE/spell/True Seeing|true seeing]]'
@@ -68,7 +61,6 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Devil|Devil]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Distracting Shot
-frequency: null
-heighten_level: null
 id: '525'
+leads_to: '[[DATABASE/feat/Greater Distracting Shot|Greater Distracting Shot]]'
 level: '12'
 name: Distracting Shot
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Ranger|Ranger]]'
-trigger: null
 type: Feat
 
 ---

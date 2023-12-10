@@ -2,7 +2,6 @@
 id: '347'
 name: Climbing
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Azarketi Ancestry Web Supplement|Azarketi Ancestry Web
   Supplement]]'
 trait:

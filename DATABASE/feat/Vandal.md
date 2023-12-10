@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Vandal
-frequency: null
-heighten_level: null
 id: '1427'
 level: '5'
 name: Vandal
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Goblin|Goblin]]'
-trigger: null
 type: Feat
 
 ---

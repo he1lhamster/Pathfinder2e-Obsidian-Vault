@@ -1,27 +1,16 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: see below
-element: null
 heighten: '+2'
 heighten_level: 2, 4, 6, 8, 10
 id: '839'
-lesson: null
 level: '2'
-mystery: null
 name: Worm's Repast
-patron_theme: null
 range: 30 feet
 rarity: Rare
-requirement: null
-rus_type_level: null
 saving_throw: Fortitude
 school: Necromancy
 source: '[[DATABASE/source/Pathfinder 163. Ruins of Gauntlight|Pathfinder #163: Ruins
@@ -33,7 +22,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Spell
 
 ---

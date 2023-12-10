@@ -2,19 +2,13 @@
 ac: '15'
 alignment: NE
 all_resistance: '3'
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Slow
 - Trundling Gore
-creature_family: null
 dexterity: '-2'
-element: null
-fly_speed: null
 fortitude: '+11'
-hardness: null
 hp: 70 ( negative healing )
 id: '2040'
 immunity:
@@ -26,7 +20,6 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '25'
-language: null
 level: '3'
 max_speed: '25'
 name: Mosghuta, Boss Cow
@@ -35,8 +28,6 @@ rarity: Unique
 reflex: '+3'
 resistance:
 - all damage 3
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -45,12 +36,10 @@ skill:
 source: '[[DATABASE/source/Pathfinder 181. Zombie Feast|Pathfinder #181: Zombie Feast]]'
 speed:
 - 25 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Mindless|Mindless]]'
 - '[[DATABASE/trait/Undead|Undead]]'

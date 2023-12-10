@@ -1,20 +1,14 @@
 ﻿---
 ac: '27'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Rib Skewer
 - Trample
 creature_family: '[[DATABASE/monsterfamily/Skeleton|Skeleton]]'
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+20'
-hardness: null
 hp: 140 ( negative healing )
 id: '1299'
 immunity:
@@ -26,7 +20,6 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '40'
-language: null
 level: '9'
 max_speed: '40'
 name: Tyrannosaurus Skeleton
@@ -39,8 +32,6 @@ resistance:
 - fire 10
 - piercing 10
 - slashing 10
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Gargantuan
@@ -49,12 +40,10 @@ skill:
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 40 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Mindless|Mindless]]'
 - '[[DATABASE/trait/Skeleton|Skeleton]]'
@@ -63,7 +52,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+17'
 wisdom: '+2'
 

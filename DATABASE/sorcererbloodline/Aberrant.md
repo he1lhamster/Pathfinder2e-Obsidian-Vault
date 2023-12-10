@@ -3,7 +3,6 @@ bloodline: Aberrant
 id: '1'
 name: Aberrant
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 spell:
 - '[[DATABASE/spell/Aberrant Whispers|Aberrant Whispers]]'
@@ -19,7 +18,6 @@ spell:
 - '[[DATABASE/spell/Unusual Anatomy|Unusual Anatomy]]'
 - '[[DATABASE/spell/Vampiric Touch|Vampiric Touch]]'
 - '[[DATABASE/spell/Warp Mind|Warp Mind]]'
-trait: null
 type: Sorcerer Bloodline
 
 ---

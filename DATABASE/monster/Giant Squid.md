@@ -1,10 +1,7 @@
 ﻿---
 ac: '28'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Constrict
@@ -12,16 +9,10 @@ creature_ability:
 - Ravenous Embrace
 creature_family: '[[DATABASE/monsterfamily/Squid|Squid]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+15'
-hardness: null
 hp: '155'
 id: '820'
-immunity: null
 intelligence: '-4'
-land_speed: null
-language: null
 level: '9'
 max_speed: '40'
 name: Giant Squid
@@ -30,8 +21,6 @@ rarity: Common
 reflex: '+18'
 resistance:
 - cold 10
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Huge
@@ -41,7 +30,6 @@ skill:
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - swim 40 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
@@ -54,7 +42,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+21'
 wisdom: '+6'
 

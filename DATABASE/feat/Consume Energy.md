@@ -1,20 +1,12 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Consume Energy
-frequency: null
-heighten_level: null
 id: '3781'
 level: '2'
 name: Consume Energy
-prerequisite: null
 rarity: Rare
-requirement: null
-rus_type_level: null
 school: Abjuration
 source: '[[DATABASE/source/Gatewalkers Player''s Guide|Gatewalkers Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Deviant|Deviant]]'

@@ -1,20 +1,12 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Theoretical Acumen
 frequency: once per day
-heighten_level: null
 id: '992'
 level: '1'
 name: Theoretical Acumen
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Gnome|Gnome]]'
 trigger: You succeed at a skill check to [[DATABASE/action/Recall Knowledge|Recall

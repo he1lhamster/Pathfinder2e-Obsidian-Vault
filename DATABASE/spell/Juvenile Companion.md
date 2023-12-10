@@ -1,28 +1,16 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 10 minutes
-element: null
 heighten: 2nd
 heighten_level: 1, 2
 id: '938'
-lesson: null
 level: '1'
-mystery: null
 name: Juvenile Companion
-patron_theme: null
 range: touch
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 target: yourcompanion
@@ -31,7 +19,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Polymorph|Polymorph]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Spell
 
 ---

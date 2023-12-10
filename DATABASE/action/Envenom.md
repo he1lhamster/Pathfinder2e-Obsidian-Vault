@@ -1,17 +1,10 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 frequency: once per day
 id: '1451'
 name: Envenom
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-trait: null
-trigger: null
 type: Action
 
 ---

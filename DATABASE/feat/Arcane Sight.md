@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Arcane Sight
-frequency: null
-heighten_level: null
 id: '2814'
 level: '13'
 name: Arcane Sight
 prerequisite: ability to cast the [[DATABASE/spell/Detect Magic|detect magic]] cantrip
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Goloma|Goloma]]'
-trigger: null
 type: Feat
 
 ---

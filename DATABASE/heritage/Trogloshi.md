@@ -2,9 +2,7 @@
 id: '214'
 name: Trogloshi
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-trait: null
 type: Heritage
 
 ---

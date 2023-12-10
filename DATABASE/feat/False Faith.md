@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: False Faith
-frequency: null
-heighten_level: null
 id: '1144'
 level: '1'
 name: False Faith
 prerequisite: worshipper of [[DATABASE/deity/Droskar|Droskar]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 148. Fires of the Haunted City|Pathfinder #148:
   Fires of the Haunted City]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Cleric|Cleric]]'
-trigger: null
 type: Feat
 
 ---

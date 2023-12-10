@@ -1,10 +1,7 @@
 ﻿---
 ac: '36'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+8'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Discorporate
@@ -12,10 +9,7 @@ creature_ability:
 - Swarm Shape
 creature_family: '[[DATABASE/monsterfamily/Worm That Walks|Worm That Walks]]'
 dexterity: '+8'
-element: null
-fly_speed: null
 fortitude: '+23'
-hardness: null
 hp: 200 ( fast healing 10 )
 id: '864'
 immunity:
@@ -38,8 +32,6 @@ rarity: Uncommon
 reflex: '+28'
 resistance:
 - physical 10
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Tremorsense|tremorsense (imprecise) 30 feet]]'
@@ -91,7 +83,6 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Swarm|Swarm]]'

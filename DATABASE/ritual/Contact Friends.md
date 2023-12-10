@@ -1,24 +1,17 @@
 ﻿---
-area: null
 cost: incense worth 50 gp
 duration: up to 10 minutes
-element: null
-heighten: null
 heighten_level: '3'
 id: '86'
 level: '3'
 name: Contact Friends
 primary_check: '[[DATABASE/skill/Arcana|Arcana]] or [[DATABASE/skill/Occultism|Occultism]]
   (expert)'
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Divination
 secondary_casters: 1 (or more)
 secondary_check: '[[DATABASE/skill/Survival|Survival]]'
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-target: null
 trait:
 - '[[DATABASE/trait/Divination|Divination]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

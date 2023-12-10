@@ -1,15 +1,10 @@
 ﻿---
 ability_type: Specific Familiar - Spirit Guide
-actions: null
-frequency: null
 id: '92'
 name: Bound to Mortal
 rarity: Common
-requirement: null
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 188. They Watched the Stars|Pathfinder #188:
   They Watched the Stars]]'
-trait: null
 type: Familiar Ability
 
 ---

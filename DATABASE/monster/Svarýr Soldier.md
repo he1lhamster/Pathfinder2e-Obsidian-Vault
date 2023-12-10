@@ -1,10 +1,7 @@
 ﻿---
 ac: '39'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Attack of Opportunity
@@ -12,15 +9,11 @@ creature_ability:
 - "Defender of Svar\xFDr"
 - Instant Repair
 - Shield Block
-creature_family: null
 dexterity: '+5'
-element: null
 fly_speed: '30'
 fortitude: '+31'
-hardness: null
 hp: '295'
 id: '2589'
-immunity: null
 intelligence: '+1'
 land_speed: '40'
 language:
@@ -35,8 +28,6 @@ rarity: Rare
 reflex: '+27'
 resistance:
 - piercing 15
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -59,7 +50,6 @@ strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aesir|Aesir]]'
 - '[[DATABASE/trait/Monitor|Monitor]]'
@@ -68,7 +58,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+25'
 wisdom: '+3'
 

@@ -1,36 +1,20 @@
 ﻿---
 actions: '[two-actions]'
 area: 20-foot cone
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
-heighten: null
 heighten_level: '2'
 id: '556'
-lesson: null
 level: '2'
-mystery: null
 name: Invoke the Crimson Oath
-patron_theme: null
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 saving_throw: basicFortitude
 school: Evocation
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-target: null
-tradition: null
 trait:
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Focus
 
 ---

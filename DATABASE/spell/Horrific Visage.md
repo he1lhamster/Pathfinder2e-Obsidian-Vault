@@ -5,28 +5,15 @@ bloodline: '[[DATABASE/sorcererbloodline/Hag|Hag]]'
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
 heighten: 5th
 heighten_level: 3, 5
 id: '514'
-lesson: null
 level: '3'
-mystery: null
 name: Horrific Visage
-patron_theme: null
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 saving_throw: Will
 school: Illusion
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
-tradition: null
 trait:
 - '[[DATABASE/trait/Emotion|Emotion]]'
 - '[[DATABASE/trait/Fear|Fear]]'
@@ -35,7 +22,6 @@ trait:
 - '[[DATABASE/trait/Sorcerer|Sorcerer]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 - '[[DATABASE/trait/Visual|Visual]]'
-trigger: null
 type: Focus
 
 ---

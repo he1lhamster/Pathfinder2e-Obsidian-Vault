@@ -1,18 +1,12 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
-frequency: null
 id: '1437'
 name: Taunt
 rarity: Common
 requirement: '[[DATABASE/kingmakerwarfaretactic/Focused Devotion|Focused Devotion]]'
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
 - '[[DATABASE/trait/Morale|Morale]]'
-trigger: null
 type: Action
 
 ---

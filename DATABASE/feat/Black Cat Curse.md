@@ -1,20 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Black Cat Curse
 frequency: once per day
-heighten_level: null
 id: '1266'
 level: '13'
 name: Black Cat Curse
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Divination
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Catfolk|Catfolk]]'
 - '[[DATABASE/trait/Divination|Divination]]'

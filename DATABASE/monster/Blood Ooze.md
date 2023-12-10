@@ -1,8 +1,6 @@
 ﻿---
 ac: '12'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
 climb_speed: '10'
 constitution: '+5'
@@ -13,10 +11,7 @@ creature_ability:
 - Siphon Vitality
 creature_family: '[[DATABASE/monsterfamily/Ooze|Ooze]]'
 dexterity: '-4'
-element: null
-fly_speed: null
 fortitude: '+15'
-hardness: null
 hp: '90'
 id: '429'
 immunity:
@@ -27,16 +22,12 @@ immunity:
 - visual
 intelligence: '-5'
 land_speed: '10'
-language: null
 level: '4'
 max_speed: '10'
 name: Blood Ooze
 perception: '+8'
 rarity: Common
 reflex: '+6'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - motion sense 60 feet
 - no vision
@@ -48,21 +39,17 @@ source: '[[DATABASE/source/The Fall of Plaguestone|The Fall of Plaguestone]]'
 speed:
 - 10 feet
 - climb 10 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Mindless|Mindless]]'
 - '[[DATABASE/trait/Ooze|Ooze]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
 - Will
-weakness: null
 will: '+6'
 wisdom: '+0'
 

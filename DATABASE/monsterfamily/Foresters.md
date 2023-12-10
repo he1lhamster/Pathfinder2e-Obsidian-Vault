@@ -3,9 +3,7 @@ creature_family: Foresters
 id: '186'
 name: Foresters
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
-trait: null
 type: Creature Family
 
 ---

@@ -1,31 +1,21 @@
 ﻿---
 actions: '[two-actions]'
 area: 20-foot burst
-bloodline: null
 component:
 - Somatic
 - Verbal
 cost: one vial ofholy water
-deity: null
-domain: null
-duration: null
 element: Water
 heighten: '+1'
 heighten_level: 4, 5, 6, 7, 8, 9, 10
 id: '151'
-lesson: null
 level: '4'
-mystery: null
 name: Holy Cascade
-patron_theme: null
 range: 500 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: basicReflex
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Divine
 trait:
@@ -33,7 +23,6 @@ trait:
 - '[[DATABASE/trait/Good|Good]]'
 - '[[DATABASE/trait/Positive|Positive]]'
 - '[[DATABASE/trait/Water|Water]]'
-trigger: null
 type: Spell
 
 ---

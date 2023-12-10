@@ -1,38 +1,25 @@
 ﻿---
 actions: '[two-actions]'
 area: 10-foot emanation
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 1 round
-element: null
 heighten: '+1'
 heighten_level: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
 id: '704'
-lesson: null
 level: '1'
-mystery: null
 name: Noxious Vapors
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: basicFortitude
 school: Evocation
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-target: null
 tradition:
 - Arcane
 - Primal
 trait:
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Poison|Poison]]'
-trigger: null
 type: Spell
 
 ---

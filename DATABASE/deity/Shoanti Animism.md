@@ -1,21 +1,12 @@
 ﻿---
-ability: null
-ability_boost: null
 alignment: Any
 deity:
 - '[[DATABASE/deity/Shoanti Animism|Shoanti Animism]]'
 deity_category: Faiths & Philosophies
-divine_font: null
-domain: null
-favored_weapon: null
-follower_alignment: null
 id: '203'
 name: Shoanti Animism
 rarity: Common
-rus_type_level: null
-skill: null
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
-trait: null
 type: Deity
 
 ---

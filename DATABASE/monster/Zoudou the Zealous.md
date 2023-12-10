@@ -1,10 +1,7 @@
 ﻿---
 ac: '19'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Identity Crisis
@@ -16,12 +13,8 @@ creature_ability:
 - Hearing
 - Silent Casting
 - Steal Face
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+10'
-hardness: null
 hp: '45'
 id: '2734'
 immunity:
@@ -39,9 +32,6 @@ name: Zoudou the Zealous
 perception: '+8'
 rarity: Unique
 reflex: '+11'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - no face
 size: Medium
@@ -71,12 +61,10 @@ strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
 weakness:

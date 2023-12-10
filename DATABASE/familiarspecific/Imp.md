@@ -1,9 +1,7 @@
 ﻿---
 id: '2'
 name: Imp
-rus_type_level: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-trait: null
 
 ---
 # Imp

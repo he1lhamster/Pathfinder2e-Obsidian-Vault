@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Lengthy Diversion|Lengthy Diversion]]'
 id: '361'
 name: Unremarkable
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Deception|Deception]]'
 - Acting [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Firebrands|Firebrands]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

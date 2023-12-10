@@ -1,20 +1,12 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Chemical Purification
 frequency: once per round
-heighten_level: null
 id: '3627'
 level: '4'
 name: Chemical Purification
-prerequisite: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Additive|Additive 2]]'
 - '[[DATABASE/trait/Alchemist|Alchemist]]'

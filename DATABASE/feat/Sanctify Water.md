@@ -1,24 +1,16 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Sanctify Water
-frequency: null
-heighten_level: null
 id: '1185'
 level: '7'
 name: Sanctify Water
 prerequisite: Master in [[DATABASE/skill/Religion|Religion]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
 subcategory: religion
 trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

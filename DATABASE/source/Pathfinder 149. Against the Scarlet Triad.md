@@ -2,9 +2,6 @@
 id: '14'
 name: Pathfinder 149. Against the Scarlet Triad
 rarity: Common
-rus_type_level: null
-source: null
-trait: null
 type: Source
 
 ---

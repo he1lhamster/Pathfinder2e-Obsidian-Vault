@@ -1,20 +1,11 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Irezoko Tattoo
-frequency: null
-heighten_level: null
 id: '3421'
 level: '4'
 name: Irezoko Tattoo
 prerequisite: Expert in [[DATABASE/skill/Arcana|Arcana]] or Expert in [[DATABASE/skill/Occultism|Occultism]]
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Absalom, City of Lost Omens|Absalom, City of Lost Omens]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Bard|Bard]]'
 - '[[DATABASE/trait/Champion|Champion]]'
@@ -30,7 +21,6 @@ trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 - '[[DATABASE/trait/Witch|Witch]]'
 - '[[DATABASE/trait/Wizard|Wizard]]'
-trigger: null
 type: Feat
 
 ---

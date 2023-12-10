@@ -1,22 +1,16 @@
 ﻿---
 ac: '46'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Attack of Opportunity
 - Tenacious Flames
 - Throw Rock
 - Volcanic Eruption
-creature_family: null
 dexterity: '+5'
 element: Earth, Fire
-fly_speed: null
 fortitude: '+38'
-hardness: null
 hp: '490'
 id: '715'
 immunity:
@@ -40,8 +34,6 @@ reflex: '+34'
 resistance:
 - piercing 20
 - slashing 20
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Gargantuan
@@ -65,7 +57,6 @@ strength: '+10'
 strength_req: '10'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Elemental|Elemental]]'

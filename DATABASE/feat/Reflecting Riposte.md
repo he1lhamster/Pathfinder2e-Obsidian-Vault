@@ -1,10 +1,6 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Reflecting Riposte
-frequency: null
-heighten_level: null
 id: '1247'
 level: '20'
 name: Reflecting Riposte
@@ -13,11 +9,8 @@ prerequisite: '[[DATABASE/feat/Dueling Riposte|Dueling Riposte]] , [[DATABASE/fe
 rarity: Uncommon
 requirement: You have a shield raised or are benefiting from [[DATABASE/feat/Dueling
   Parry (Fighter)|DuelingParry]] or [[DATABASE/feat/Twin Parry|Twin Parry]] .
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 156. The Apocalypse Prophet|Pathfinder #156:
   The Apocalypse Prophet]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fighter|Fighter]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

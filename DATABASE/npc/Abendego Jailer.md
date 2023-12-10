@@ -1,23 +1,16 @@
 ﻿---
 ac: '30'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Attack of Opportunity
 - Restrain
 - Subduing Attack
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+20'
 hp: '175'
 id: '1687'
-immunity: null
 intelligence: '+0'
 land_speed: '20'
 language:
@@ -28,9 +21,6 @@ name: Abendego Jailer
 perception: '+19'
 rarity: Common
 reflex: '+21'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +20'
@@ -41,20 +31,16 @@ source: '[[DATABASE/source/Pathfinder 171. Hurricane''s Howl|Pathfinder #171: Hu
   Howl]]'
 speed:
 - 20 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+17'
 wisdom: '+3'
 

@@ -1,26 +1,17 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Merciless Rend
-frequency: null
-heighten_level: null
 id: '2923'
 level: '10'
 name: Merciless Rend
-prerequisite: null
 rarity: Common
 requirement: Your eidolon hit the same enemy with two consecutive Strikes with its
   secondary attack this turn anddealt slashing damage with both.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Eidolon|Eidolon]]'
 - '[[DATABASE/trait/Evolution|Evolution]]'
 - '[[DATABASE/trait/Summoner|Summoner]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Breath Control
-frequency: null
-heighten_level: null
 id: '763'
 level: '1'
 name: Breath Control
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/General|General]]'
-trigger: null
 type: Feat
 
 ---

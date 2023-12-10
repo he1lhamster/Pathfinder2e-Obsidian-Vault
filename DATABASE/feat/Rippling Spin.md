@@ -1,20 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Rippling Spin
-frequency: null
-heighten_level: null
 id: '2983'
 level: '8'
 name: Rippling Spin
 prerequisite: '[[DATABASE/feat/Reflective Ripple Stance|Reflective Ripple Stance]]'
 rarity: Common
 requirement: You're in Reflective Ripple Stance.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Monk|Monk]]'
 trigger: You are hit by a physical melee attack by an attacker you can see that's

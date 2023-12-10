@@ -1,22 +1,15 @@
 ﻿---
 ac: '20'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
 climb_speed: '20'
 constitution: '+2'
 creature_ability:
 - Gripping Tentacle
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+7'
-hardness: null
 hp: '35'
 id: '2182'
-immunity: null
 intelligence: '-3'
 land_speed: '25'
 language:
@@ -29,8 +22,6 @@ rarity: Uncommon
 reflex: '+10'
 resistance:
 - physical 5 (except [[DATABASE/trait/Magical|magic]] )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -42,13 +33,11 @@ source: '[[DATABASE/source/Crown of the Kobold King|Crown of the Kobold King]]'
 speed:
 - 25 feet
 - climb 20 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
@@ -56,7 +45,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+10'
 wisdom: '+3'
 

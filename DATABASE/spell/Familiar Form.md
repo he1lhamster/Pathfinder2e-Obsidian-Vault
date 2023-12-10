@@ -1,37 +1,21 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 1 minute
-element: null
 heighten: 6th, 8th
 heighten_level: 4, 6, 8
 id: '832'
-lesson: null
 level: '4'
-mystery: null
 name: Familiar Form
-patron_theme: null
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
-target: null
-tradition: null
 trait:
 - '[[DATABASE/trait/Polymorph|Polymorph]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Focus
 
 ---

@@ -1,24 +1,18 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Snare Specialist
-frequency: null
-heighten_level: null
 id: '506'
+leads_to: '[[DATABASE/feat/Lightning Snares|Lightning Snares]] , [[DATABASE/feat/Powerful
+  Snares|Powerful Snares]] , [[DATABASE/feat/Quick Snares|Quick Snares]] , [[DATABASE/feat/Trapsmith
+  Dedication|Trapsmith Dedication]] , [[DATABASE/feat/Ubiquitous Snares|Ubiquitous
+  Snares]]'
 level: '4'
 name: Snare Specialist
 prerequisite: Expert in [[DATABASE/skill/Crafting|Crafting]] ; [[DATABASE/feat/Snare
   Crafting|Snare Crafting]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Ranger|Ranger]]'
-trigger: null
 type: Feat
 
 ---

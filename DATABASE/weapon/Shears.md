@@ -11,9 +11,7 @@ item_subcategory: Base Weapons
 level: '0'
 name: Shears
 price: 5 sp
-range: null
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 trait:
 - '[[DATABASE/trait/Deadly|Deadly d8]]'

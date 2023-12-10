@@ -1,10 +1,7 @@
 ﻿---
 ac: '41'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - A Kanabo to an Oni
@@ -15,14 +12,10 @@ creature_ability:
 - Stalwart Guardian
 - 'Toughest Teamwork: Catapult Ally'
 - Wall of Iron
-creature_family: null
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+32'
 hp: '320'
 id: '1521'
-immunity: null
 intelligence: '+5'
 land_speed: '35'
 language:
@@ -36,8 +29,6 @@ name: Tino (Oni Form)
 perception: '+30'
 rarity: Unique
 reflex: '+32'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -55,13 +46,11 @@ source: '[[DATABASE/source/Pathfinder 168. King of the Mountain|Pathfinder #168:
   of the Mountain]]'
 speed:
 - 35 feet
-spell: null
 strength: '+9'
 strength_req: '9'
 strongest_save:
 - Fortitude
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fiend|Fiend]]'
 - '[[DATABASE/trait/Giant|Giant]]'
@@ -72,7 +61,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+28'
 wisdom: '+5'
 

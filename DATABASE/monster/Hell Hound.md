@@ -1,19 +1,14 @@
 ﻿---
 ac: '19'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Breath Weapon
 creature_family: '[[DATABASE/monsterfamily/Hell Hound|Hell Hound]]'
 dexterity: '+3'
 element: Fire
-fly_speed: null
 fortitude: '+9'
-hardness: null
 hp: '40'
 id: '259'
 immunity:
@@ -28,9 +23,6 @@ name: Hell Hound
 perception: '+9'
 rarity: Common
 reflex: '+10'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - scent (imprecise) 60 feet
@@ -43,12 +35,10 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 40 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

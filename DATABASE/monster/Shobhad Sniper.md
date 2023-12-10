@@ -1,10 +1,7 @@
 ﻿---
 ac: '40'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Attack of Opportunity
@@ -13,13 +10,9 @@ creature_ability:
 - Sniping Shot
 creature_family: '[[DATABASE/monsterfamily/Shobhad|Shobhad]]'
 dexterity: '+9'
-element: null
-fly_speed: null
 fortitude: '+28'
-hardness: null
 hp: '320'
 id: '1679'
-immunity: null
 intelligence: '+2'
 land_speed: '30'
 language:
@@ -31,9 +24,6 @@ name: Shobhad Sniper
 perception: '+30'
 rarity: Uncommon
 reflex: '+32'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -46,12 +36,10 @@ source: '[[DATABASE/source/Pathfinder 173. Doorway to the Red Star|Pathfinder #1
   Doorway to the Red Star]]'
 speed:
 - 30 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
@@ -59,7 +47,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+26'
 wisdom: '+5'
 

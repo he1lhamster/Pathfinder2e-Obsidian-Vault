@@ -1,10 +1,7 @@
 ﻿---
 ac: '47'
 alignment: LG
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+10'
 creature_ability:
 - Archon's Door
@@ -17,13 +14,9 @@ creature_ability:
 - Sacrifice
 creature_family: '[[DATABASE/monsterfamily/Archon|Archon]]'
 dexterity: '+7'
-element: null
-fly_speed: null
 fortitude: '+38'
-hardness: null
 hp: 280 ( fast healing 30 )
 id: '554'
-immunity: null
 intelligence: '+6'
 land_speed: '70'
 language:
@@ -36,9 +29,6 @@ name: Bastion Archon
 perception: '+37'
 rarity: Rare
 reflex: '+31'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/spell/True Seeing|true seeing]]'
@@ -66,7 +56,6 @@ strength: '+10'
 strength_req: '10'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Archon|Archon]]'
 - '[[DATABASE/trait/Celestial|Celestial]]'

@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Vivacious Conduit
-frequency: null
-heighten_level: null
 id: '36'
 level: '9'
 name: Vivacious Conduit
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Gnome|Gnome]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,29 +1,17 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Zyphus|Zyphus]]'
-domain: null
-duration: null
-element: null
 heighten: '+1'
 heighten_level: 2, 3, 4, 5, 6, 7, 8, 9, 10
 id: '279'
-lesson: null
 level: '2'
-mystery: null
 name: Shatter
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: 1 unattended object
@@ -33,7 +21,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Sonic|Sonic]]'
-trigger: null
 type: Spell
 
 ---

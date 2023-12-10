@@ -1,7 +1,6 @@
 ﻿---
 id: '30'
 name: Petrified
-source: null
 
 ---
 # Petrified

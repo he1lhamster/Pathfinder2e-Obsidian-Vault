@@ -1,23 +1,15 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Superimpose Time Duplicates
 frequency: once per hour
-heighten_level: null
 id: '3851'
 level: '8'
 name: Superimpose Time Duplicates
 prerequisite: '[[DATABASE/feat/Chronoskimmer Dedication|Chronoskimmer Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

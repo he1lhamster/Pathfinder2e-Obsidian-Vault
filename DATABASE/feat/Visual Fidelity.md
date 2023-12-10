@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Visual Fidelity
-frequency: null
-heighten_level: null
 id: '3063'
 level: '6'
 name: Visual Fidelity
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Inventor|Inventor]]'
-trigger: null
 type: Feat
 
 ---

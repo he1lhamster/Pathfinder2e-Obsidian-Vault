@@ -1,10 +1,7 @@
 ﻿---
 ac: '23'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Crossbow Precision
@@ -13,13 +10,9 @@ creature_ability:
 - Running Reload
 creature_family: '[[DATABASE/monsterfamily/Hobgoblin|Hobgoblin]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+10'
-hardness: null
 hp: '50'
 id: '262'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -31,9 +24,6 @@ name: Hobgoblin Archer
 perception: '+10'
 rarity: Common
 reflex: '+12'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -44,12 +34,10 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 25 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Goblin|Goblin]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -57,7 +45,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+8'
 wisdom: '+2'
 

@@ -1,24 +1,14 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Metamagic Channel
-frequency: null
-heighten_level: null
 id: '310'
 level: '20'
 name: Metamagic Channel
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Cleric|Cleric]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
-trigger: null
 type: Feat
 
 ---

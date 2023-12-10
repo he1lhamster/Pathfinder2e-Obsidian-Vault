@@ -2,21 +2,16 @@
 ac: '27'
 alignment: N
 all_resistance: '5'
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Bond in Light
 - Overpowering Healing
 - Positive Nature
 - Radiant Mantle
-creature_family: null
 dexterity: '+6'
-element: null
 fly_speed: '60'
 fortitude: '+19'
-hardness: null
 hp: '160'
 id: '1172'
 immunity:
@@ -27,7 +22,6 @@ immunity:
 - precision
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '+2'
-land_speed: null
 language:
 - '[[DATABASE/language/Jyoti|Jyoti]] ; [[DATABASE/monsterability/Telepathy|telepathy]]
   60 feet'
@@ -42,8 +36,6 @@ resistance:
 - '[[DATABASE/equipment/Ghost Touch|ghost touch]]'
 - or [[DATABASE/trait/Negative|negative]] ;double resistance against non- [[DATABASE/trait/Magical|magical]]
   )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Lifesense|lifesense]] 60 feet'
@@ -66,7 +58,6 @@ strength: '-5'
 strength_req: '-5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Incorporeal|Incorporeal]]'
 - '[[DATABASE/trait/Positive|Positive]]'

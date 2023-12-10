@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Familiar Form
-frequency: null
-heighten_level: null
 id: '2241'
 level: '8'
 name: Familiar Form
 prerequisite: '[[DATABASE/feat/Spellmaster Dedication|Spellmaster Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

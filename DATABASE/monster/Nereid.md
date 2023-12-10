@@ -1,21 +1,15 @@
 ﻿---
 ac: '30'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+7'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Drowning Touch
 - Manifest Shawl
 - Watery Transparency
-creature_family: null
 dexterity: '+7'
 element: Water
-fly_speed: null
 fortitude: '+16'
-hardness: null
 hp: '175'
 id: '740'
 immunity:
@@ -32,9 +26,6 @@ name: Nereid
 perception: '+20'
 rarity: Common
 reflex: '+22'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium

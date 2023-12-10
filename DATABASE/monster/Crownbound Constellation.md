@@ -1,10 +1,7 @@
 ﻿---
 ac: '30'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Attack of Opportunity
@@ -15,12 +12,8 @@ creature_ability:
 - Starlight
 - ''
 - Swarm Shape
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+19'
-hardness: null
 hp: '98'
 id: '2499'
 immunity:
@@ -42,8 +35,6 @@ resistance:
 - bludgeoning 5
 - piercing 8
 - slashing 8
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Huge
@@ -57,12 +48,10 @@ source: '[[DATABASE/source/Pathfinder 189. Dreamers of the Nameless Spires|Pathf
   #189: Dreamers of the Nameless Spires]]'
 speed:
 - 40 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Astral|Astral]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

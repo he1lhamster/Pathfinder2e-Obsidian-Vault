@@ -1,10 +1,7 @@
 ﻿---
 ac: '42'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Attack of Opportunity
@@ -12,12 +9,8 @@ creature_ability:
 - Huntblade Brutality
 - Hunter's Leap
 - Whip Drain
-creature_family: null
 dexterity: '+8'
-element: null
-fly_speed: null
 fortitude: '+27'
-hardness: null
 hp: 330 ( negative healing )
 id: '1806'
 immunity:
@@ -35,9 +28,6 @@ name: Shianshi Waymaker
 perception: '+32'
 rarity: Unique
 reflex: '+35'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -80,7 +70,6 @@ strength: '+8'
 strength_req: '8'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Negative|Negative]]'
@@ -89,7 +78,6 @@ type: Creature
 vision: Greater darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+29'
 wisdom: '+5'
 

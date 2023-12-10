@@ -1,6 +1,4 @@
 ﻿---
-ability: null
-ability_boost: null
 alignment: NE
 deity:
 - '[[DATABASE/deity/Set|Set]]'
@@ -19,11 +17,9 @@ follower_alignment:
 id: '242'
 name: Set
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Intimidation|Intimidation]]'
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-trait: null
 type: Deity
 
 ---

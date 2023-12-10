@@ -1,31 +1,18 @@
 ﻿---
 actions: '[two-actions]'
-area: null
 bloodline: '[[DATABASE/sorcererbloodline/Elemental|Elemental]]'
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 1 minute
-element: null
 heighten: 6th, 7th
 heighten_level: 5, 6, 7
 id: '98'
-lesson: null
 level: '5'
-mystery: null
 name: Elemental Form
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Arcane
 - Primal
@@ -33,7 +20,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Polymorph|Polymorph]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Spell
 
 ---

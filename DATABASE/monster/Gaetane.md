@@ -1,10 +1,7 @@
 ﻿---
 ac: '36'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Change Shape
@@ -16,15 +13,10 @@ creature_ability:
 - Rat
 - Empathy
 - Targeting Shot
-creature_family: null
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+25'
-hardness: null
 hp: '315'
 id: '2324'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -35,9 +27,6 @@ name: Gaetane
 perception: '+27'
 rarity: Unique
 reflex: '+28'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -51,12 +40,10 @@ skill:
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 speed:
 - 25 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Human|Human]]'

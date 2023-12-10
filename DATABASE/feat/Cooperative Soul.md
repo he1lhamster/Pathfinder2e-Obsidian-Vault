@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Cooperative Soul
-frequency: null
-heighten_level: null
 id: '75'
 level: '9'
 name: Cooperative Soul
 prerequisite: '[[DATABASE/feat/Cooperative Nature|Cooperative Nature]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
-trigger: null
 type: Feat
 
 ---

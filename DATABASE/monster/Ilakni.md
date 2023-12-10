@@ -1,25 +1,18 @@
 ﻿---
 ac: '30'
 alignment: CE
-all_resistance: null
 burrow_speed: '25'
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Blackfrost Breath
 - Blackfrost Ice Shard
 - Constrict
 - Siphon Mind
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+18'
-hardness: null
 hp: '195'
 id: '2510'
-immunity: null
 intelligence: '+7'
 land_speed: '25'
 language:
@@ -35,8 +28,6 @@ rarity: Unique
 reflex: '+22'
 resistance:
 - slashing 10
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -49,13 +40,11 @@ source: '[[DATABASE/source/Pathfinder 189. Dreamers of the Nameless Spires|Pathf
 speed:
 - 25 feet
 - burrow 25 feet (through blackfrost ice only)
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Reflex
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'

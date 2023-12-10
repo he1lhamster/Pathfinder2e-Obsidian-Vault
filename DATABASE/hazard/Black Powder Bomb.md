@@ -1,8 +1,6 @@
 ﻿---
 ac: '26'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+17'
 hardness: 5 Hidden Keg Hardness
 hazard_type: Trap
@@ -16,9 +14,6 @@ level: '6'
 name: Black Powder Bomb
 rarity: Uncommon
 reflex: '+8'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 146. Cult of Cinders|Pathfinder #146: Cult of
   Cinders]]'
 trait:
@@ -28,7 +23,6 @@ trait:
 type: Hazard
 weakness:
 - '[[DATABASE/trait/Fire|fire]] automatically penetrates hardness'
-will: null
 
 ---
 # Black Powder Bomb<span class="item-type">Hazard 6</span>

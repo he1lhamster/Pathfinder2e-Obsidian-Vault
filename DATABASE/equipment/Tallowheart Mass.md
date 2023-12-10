@@ -1,45 +1,14 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
 bulk: L
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '1738'
 item_category: Held Items
-item_subcategory: null
-land_speed: null
 level: '8'
-max_speed: null
 name: Tallowheart Mass
-onset: null
 price: 425 gp
-range: null
 rarity: Rare
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Abjuration
-size: null
 source: '[[DATABASE/source/Crown of the Kobold King|Crown of the Kobold King]]'
-spell: null
-stage: null
 subcategory: helditem
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Divine|Divine]]'
@@ -47,12 +16,8 @@ trait:
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Item
 usage: held in 1 hand
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Tallowheart Mass<span class="item-type">Item 8</span>

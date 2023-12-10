@@ -1,10 +1,6 @@
 ﻿---
 actions: '[three-actions]'
-cost: null
-element: null
 feat: Unwind Death
-frequency: null
-heighten_level: null
 id: '3653'
 level: '16'
 name: Unwind Death
@@ -12,14 +8,10 @@ prerequisite: '[[DATABASE/feat/Clockwork Reanimator Dedication|Clockwork Reanima
   Dedication]]'
 rarity: Common
 requirement: The target's body must be mostly intact.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 180. The Smoking Gun|Pathfinder #180: The Smoking
   Gun]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

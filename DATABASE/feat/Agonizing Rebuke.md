@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Agonizing Rebuke
-frequency: null
-heighten_level: null
 id: '1030'
 level: '5'
 name: Agonizing Rebuke
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Hobgoblin|Hobgoblin]]'
-trigger: null
 type: Feat
 
 ---

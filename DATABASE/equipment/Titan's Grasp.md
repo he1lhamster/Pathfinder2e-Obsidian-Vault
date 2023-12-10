@@ -1,56 +1,22 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
 bulk: L
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '1082'
 item_category: Worn Items
 item_subcategory: Other Worn Items
-land_speed: null
 level: '18'
-max_speed: null
 name: Titan's Grasp
-onset: null
 price: 24,000 gp
-range: null
 rarity: Common
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
-size: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-spell: null
-stage: null
 subcategory: wornitem
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Apex|Apex]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Invested|Invested]]'
 - '[[DATABASE/trait/Magical|Magical]]'
-trigger: null
 type: Item
 usage: worn gloves
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Titan's Grasp<span class="item-type">Item 18</span>

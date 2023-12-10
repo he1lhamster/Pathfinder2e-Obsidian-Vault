@@ -1,8 +1,6 @@
 ﻿---
 ac: '25'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+23'
 hardness: 16 Portcullis Hardness
 hazard_type: Trap
@@ -16,9 +14,6 @@ level: '9'
 name: Flooding Room
 rarity: Unique
 reflex: '+15'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
 - '[[DATABASE/trait/Complex|Complex]]'
@@ -26,8 +21,6 @@ trait:
 - '[[DATABASE/trait/Trap|Trap]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Flooding Room<span class="item-type">Hazard 9</span>

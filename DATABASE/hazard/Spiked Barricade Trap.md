@@ -1,8 +1,6 @@
 ﻿---
 ac: '34'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+26'
 hardness: '22'
 hazard_type: Trap
@@ -16,9 +14,6 @@ level: '13'
 name: Spiked Barricade Trap
 rarity: Common
 reflex: '+18'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 154. Siege of the Dinosaurs|Pathfinder #154:
   Siege of the Dinosaurs]]'
 trait:
@@ -27,7 +22,6 @@ trait:
 type: Hazard
 weakness:
 - '[[DATABASE/trait/Fire|fire]] 10'
-will: null
 
 ---
 # Spiked Barricade Trap<span class="item-type">Hazard 13</span>

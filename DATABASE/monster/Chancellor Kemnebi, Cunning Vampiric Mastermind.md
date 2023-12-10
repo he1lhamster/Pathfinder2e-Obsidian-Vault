@@ -1,8 +1,6 @@
 ﻿---
 ac: '43'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+8'
 climb_speed: '40'
 constitution: '+7'
@@ -26,12 +24,8 @@ creature_ability:
 - Thoughtsense
 - Vetalarana Vulnerabilities
 - Vulnerable to Brain Destruction
-creature_family: null
 dexterity: '+8'
-element: null
-fly_speed: null
 fortitude: '+34'
-hardness: null
 hp: 350 ( fast healing 20 , mental rebirth, negative healing )
 id: '2441'
 immunity:
@@ -59,8 +53,6 @@ resistance:
 - '[[DATABASE/trait/Mental|mental]] 15'
 - physical 15 (except [[DATABASE/trait/Magical|magical]] [[DATABASE/equipment/Cold
   Iron Weapon|coldiron]] )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - thoughtsense 100 feet
@@ -155,7 +147,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Undead|Undead]]'
 - '[[DATABASE/trait/Unique|Unique]]'

@@ -1,10 +1,8 @@
 ﻿---
 ac: '41'
 alignment: NE
-all_resistance: null
 burrow_speed: '30'
 charisma: '+7'
-climb_speed: null
 constitution: '+9'
 creature_ability:
 - Breath Weapon
@@ -12,12 +10,8 @@ creature_ability:
 - Fast Swallow
 - Swallow Whole
 - Wasting Wound
-creature_family: null
 dexterity: '+7'
-element: null
-fly_speed: null
 fortitude: '+35'
-hardness: null
 hp: '350'
 id: '872'
 immunity:
@@ -37,8 +31,6 @@ reflex: '+27'
 resistance:
 - fire 20
 - poison 20
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent (imprecise) 30 feet]]'
@@ -63,7 +55,6 @@ strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fiend|Fiend]]'
 - '[[DATABASE/trait/Rare|Rare]]'

@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Magical Resistance
-frequency: null
-heighten_level: null
 id: '3098'
 level: '5'
 name: Magical Resistance
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Automaton|Automaton]]'
-trigger: null
 type: Feat
 
 ---

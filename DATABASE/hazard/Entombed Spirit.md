@@ -1,8 +1,6 @@
 ﻿---
 ac: '15'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+11'
 hardness: 9 (wall)
 hazard_type: Haunt
@@ -14,16 +12,11 @@ level: '2'
 name: Entombed Spirit
 rarity: Common
 reflex: '+5'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 trait:
 - '[[DATABASE/trait/Complex|Complex]]'
 - '[[DATABASE/trait/Haunt|Haunt]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Entombed Spirit<span class="item-type">Hazard 2</span>

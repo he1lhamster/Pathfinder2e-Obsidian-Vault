@@ -10,9 +10,6 @@ deity:
 - '[[DATABASE/deity/Esoteric Order of the Palatine Eye|Esoteric Order of the Palatine
   Eye]]'
 deity_category: Faiths & Philosophies
-divine_font: null
-domain: null
-favored_weapon: null
 follower_alignment:
 - LG
 - LN
@@ -21,11 +18,9 @@ follower_alignment:
 id: '199'
 name: Esoteric Order of the Palatine Eye
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Occultism|Occultism]]'
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
-trait: null
 type: Deity
 
 ---

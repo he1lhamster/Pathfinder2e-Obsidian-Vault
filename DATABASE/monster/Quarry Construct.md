@@ -1,17 +1,12 @@
 ﻿---
 ac: '18'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Construct Armor
-creature_family: null
 dexterity: '-2'
 element: Earth
-fly_speed: null
 fortitude: '+11'
 hardness: '4'
 hp: '23'
@@ -33,16 +28,12 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '20'
-language: null
 level: '2'
 max_speed: '20'
 name: Quarry Construct
 perception: '+8'
 rarity: Common
 reflex: '+4'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -52,12 +43,10 @@ source: '[[DATABASE/source/Pathfinder 187. The Seventh Arch|Pathfinder #187: The
   Arch]]'
 speed:
 - 20 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Earth|Earth]]'
@@ -67,7 +56,6 @@ vision: Darkvision
 weakest_save:
 - Reflex
 - Will
-weakness: null
 will: '+4'
 wisdom: '+0'
 

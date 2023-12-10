@@ -1,11 +1,7 @@
 ﻿---
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 dexterity: '+1'
-element: null
-fly_speed: null
 hp: '10'
 id: '57'
 intelligence: '-4'
@@ -13,7 +9,6 @@ land_speed: '25'
 max_speed: '25'
 name: Augdunar
 rarity: Common
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -25,8 +20,6 @@ speed:
 - 25 feet
 strength: '+3'
 strength_req: '3'
-swim_speed: null
-trait: null
 type: Animal Companion
 wisdom: '+1'
 

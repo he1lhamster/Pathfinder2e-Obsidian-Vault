@@ -1,25 +1,16 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Collapse Construct
-frequency: null
-heighten_level: null
 id: '3052'
 level: '2'
 name: Collapse Construct
 prerequisite: '[[DATABASE/inventorinnovation/Construct Innovation|construct innovation]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Inventor|Inventor]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Modification|Modification]]'
-trigger: null
 type: Feat
 
 ---

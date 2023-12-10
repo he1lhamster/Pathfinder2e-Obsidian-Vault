@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Divine Wall
-frequency: null
-heighten_level: null
 id: '246'
 level: '12'
 name: Divine Wall
-prerequisite: null
 rarity: Common
 requirement: You are wielding a shield.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Champion|Champion]]'
-trigger: null
 type: Feat
 
 ---

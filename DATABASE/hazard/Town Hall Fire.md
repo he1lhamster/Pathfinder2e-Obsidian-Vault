@@ -1,21 +1,11 @@
 ﻿---
-ac: null
-all_resistance: null
 complexity: Complex
 element: Fire
-fortitude: null
-hardness: null
 hazard_type: Environmental
-hp: null
 id: '63'
-immunity: null
 level: '1'
 name: Town Hall Fire
 rarity: Common
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 145. Hellknight Hill|Pathfinder #145: Hellknight
   Hill]]'
 trait:
@@ -23,8 +13,6 @@ trait:
 - '[[DATABASE/trait/Environmental|Environmental]]'
 - '[[DATABASE/trait/Fire|Fire]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Town Hall Fire<span class="item-type">Hazard 1</span>

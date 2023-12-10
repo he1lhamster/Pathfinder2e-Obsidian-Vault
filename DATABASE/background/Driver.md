@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Assurance|Assurance]]'
 id: '254'
 name: Driver
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]]'
 - Piloting [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

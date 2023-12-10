@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Mature Animal Companion (Ranger)
-frequency: null
-heighten_level: null
 id: '508'
+leads_to: '[[DATABASE/feat/Incredible Companion (Ranger)|Incredible Companion (Ranger)]]'
 level: '6'
 name: Mature Animal Companion (Ranger)
 prerequisite: '[[DATABASE/feat/Animal Companion|Animal Companion]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Ranger|Ranger]]'
-trigger: null
 type: Feat
 
 ---

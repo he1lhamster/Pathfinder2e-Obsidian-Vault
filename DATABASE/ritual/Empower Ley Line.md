@@ -1,10 +1,6 @@
 ﻿---
-area: null
 cost: "magical foci worth a total value of 50 gp \xD7 the spell level \xD7 the target's\
   \ level"
-duration: null
-element: null
-heighten: null
 heighten_level: '7'
 id: '65'
 level: '7'
@@ -14,8 +10,6 @@ primary_check: '[[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Natur
   , matching the ley line''s tradition (legendary)'
 range: 10 feet
 rarity: Rare
-requirement: null
-rus_type_level: null
 school: Evocation
 secondary_casters: '6'
 secondary_check: '[[DATABASE/skill/Lore|Ley Line Lore]] or Occultism'

@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Core Attunement
-frequency: null
-heighten_level: null
 id: '3102'
 level: '9'
 name: Core Attunement
 prerequisite: '[[DATABASE/heritage/Mage Automaton|Mage Automaton]] heritage'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Automaton|Automaton]]'
-trigger: null
 type: Feat
 
 ---

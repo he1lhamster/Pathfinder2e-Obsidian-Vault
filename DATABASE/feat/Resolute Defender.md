@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Resolute Defender
-frequency: null
-heighten_level: null
 id: '3609'
 level: '14'
 name: Resolute Defender
 prerequisite: '[[DATABASE/feat/Lastwall Sentry Dedication|Lastwall Sentry Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

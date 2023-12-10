@@ -1,23 +1,15 @@
 ﻿---
 ac: '33'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Change Shape
 - Disturbing Vision
-creature_family: null
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+22'
-hardness: null
 hp: '185'
 id: '1558'
-immunity: null
 intelligence: '+5'
 land_speed: '35'
 language:
@@ -32,8 +24,6 @@ rarity: Unique
 reflex: '+22'
 resistance:
 - physical 12 (except piercing)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -78,7 +68,6 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fiend|Fiend]]'
 - '[[DATABASE/trait/Rakshasa|Rakshasa]]'

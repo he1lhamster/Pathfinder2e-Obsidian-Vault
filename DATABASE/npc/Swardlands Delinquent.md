@@ -1,24 +1,17 @@
 ﻿---
 ac: '21'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Nimble Dodge
 - Quick Draw
 - Rattling Blow
 - Sneak Attack
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+9'
 hp: '65'
 id: '2100'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -29,9 +22,6 @@ name: Swardlands Delinquent
 perception: '+8'
 rarity: Rare
 reflex: '+14'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +10'
@@ -44,21 +34,17 @@ source: '[[DATABASE/source/Pathfinder 153. Life''s Long Shadows|Pathfinder #153:
   Long Shadows]]'
 speed:
 - 25 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+8'
 wisdom: '+0'
 

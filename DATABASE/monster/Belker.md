@@ -1,10 +1,7 @@
 ﻿---
 ac: '25'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Noxious Fumes
@@ -16,7 +13,6 @@ dexterity: '+5'
 element: Air
 fly_speed: '40'
 fortitude: '+13'
-hardness: null
 hp: '78'
 id: '648'
 immunity:
@@ -35,9 +31,6 @@ name: Belker
 perception: '+14'
 rarity: Common
 reflex: '+17'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - smoke vision
@@ -49,12 +42,10 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 25 feet
 - fly 40 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Elemental|Elemental]]'
@@ -62,7 +53,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+12'
 wisdom: '+4'
 

@@ -1,10 +1,7 @@
 ﻿---
 ac: '36'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Breath Weapon
@@ -21,7 +18,6 @@ dexterity: '+3'
 element: Air
 fly_speed: '160'
 fortitude: '+26'
-hardness: null
 hp: '254'
 id: '625'
 immunity:
@@ -41,9 +37,6 @@ name: Adult Cloud Dragon
 perception: '+28'
 rarity: Uncommon
 reflex: '+23'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - mist vision
@@ -71,7 +64,6 @@ strength_req: '7'
 strongest_save:
 - Fortitude
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Dragon|Dragon]]'
@@ -81,7 +73,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+26'
 wisdom: '+6'
 

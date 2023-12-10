@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Web Walker
-frequency: null
-heighten_level: null
 id: '2766'
 level: '1'
 name: Web Walker
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Anadi|Anadi]]'
-trigger: null
 type: Feat
 
 ---

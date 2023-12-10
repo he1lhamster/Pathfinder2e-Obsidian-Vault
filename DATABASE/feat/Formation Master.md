@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Formation Master
-frequency: null
-heighten_level: null
 id: '1035'
 level: '13'
 name: Formation Master
 prerequisite: '[[DATABASE/feat/Formation Training|Formation Training]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Hobgoblin|Hobgoblin]]'
-trigger: null
 type: Feat
 
 ---

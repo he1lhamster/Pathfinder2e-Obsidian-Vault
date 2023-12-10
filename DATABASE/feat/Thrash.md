@@ -1,24 +1,16 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Thrash
-frequency: null
-heighten_level: null
 id: '156'
+leads_to: '[[DATABASE/feat/Collateral Thrash|Collateral Thrash]]'
 level: '8'
 name: Thrash
-prerequisite: null
 rarity: Common
 requirement: You have a foe grabbed.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Barbarian|Barbarian]]'
 - '[[DATABASE/trait/Rage|Rage]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Extend Armament Alignment
-frequency: null
-heighten_level: null
 id: '299'
 level: '14'
 name: Extend Armament Alignment
 prerequisite: '[[DATABASE/feat/Align Armament|Align Armament]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Cleric|Cleric]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,26 +1,16 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Call and Response
-frequency: null
-heighten_level: null
 id: '1645'
 level: '8'
 name: Call and Response
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Auditory|Auditory]]'
 - '[[DATABASE/trait/Bard|Bard]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Metamagic|Metamagic]]'
-trigger: null
 type: Feat
 
 ---

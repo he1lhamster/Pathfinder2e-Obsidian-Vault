@@ -1,26 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Speech of the Mammoth Lords
-frequency: null
-heighten_level: null
 id: '3447'
 level: '7'
 name: Speech of the Mammoth Lords
 prerequisite: '[[DATABASE/feat/Mammoth Lord Dedication|Mammoth Lord Dedication]] ;
   Master in [[DATABASE/skill/Diplomacy|Diplomacy]] ; Master in [[DATABASE/skill/Intimidation|Intimidation]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 177. Burning Tundra|Pathfinder #177: Burning
   Tundra]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

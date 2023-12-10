@@ -1,24 +1,17 @@
 ﻿---
 ac: '23'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Corpse Puppet
 - Hasten Eidolon
 - Manifest Eidolon
 - Siphon Life
-creature_family: null
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+18'
 hp: '120'
 id: '1791'
-immunity: null
 intelligence: '+2'
 land_speed: '25'
 language:
@@ -34,9 +27,6 @@ name: Ashen Swale
 perception: '+13'
 rarity: Unique
 reflex: '+12'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +12'
@@ -70,16 +60,13 @@ strength: '+1'
 strength_req: '1'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+15'
 wisdom: '+2'
 

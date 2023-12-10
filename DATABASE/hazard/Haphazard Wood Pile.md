@@ -1,21 +1,10 @@
 ﻿---
-ac: null
-all_resistance: null
 complexity: Simple
-element: null
-fortitude: null
-hardness: null
 hazard_type: Trap
-hp: null
 id: '417'
-immunity: null
 level: '1'
 name: Haphazard Wood Pile
 rarity: Uncommon
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 196. The Summer That Never Was|Pathfinder #196:
   The Summer That Never Was]]'
 trait:
@@ -23,8 +12,6 @@ trait:
 - '[[DATABASE/trait/Trap|Trap]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Haphazard Wood Pile<span class="item-type">Hazard 1</span>

@@ -1,29 +1,17 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Black Butterfly|Black Butterfly]]'
-domain: null
 duration: 1 minute
-element: null
-heighten: null
 heighten_level: '2'
 id: '28'
-lesson: null
 level: '2'
-mystery: null
 name: Blur
-patron_theme: null
 range: touch
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Illusion
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: 1 creature
@@ -33,7 +21,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Illusion|Illusion]]'
 - '[[DATABASE/trait/Visual|Visual]]'
-trigger: null
 type: Spell
 
 ---

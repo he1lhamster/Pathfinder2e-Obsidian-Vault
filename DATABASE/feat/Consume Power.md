@@ -1,20 +1,12 @@
 ﻿---
 actions: '[reaction]'
-cost: null
 element: Metal
 feat: Consume Power
-frequency: null
-heighten_level: null
 id: '4257'
 level: '6'
 name: Consume Power
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Impulse|Impulse]]'
 - '[[DATABASE/trait/Kineticist|Kineticist]]'

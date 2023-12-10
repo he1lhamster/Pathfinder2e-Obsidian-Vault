@@ -1,27 +1,14 @@
 ﻿---
 actions: '[reaction]'
-area: null
-bloodline: null
 component:
 - Verbal
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
-heighten: null
 heighten_level: '5'
 id: '1112'
-lesson: null
 level: '5'
-mystery: null
 name: Desperate Repair
-patron_theme: null
 range: 60 feet
 rarity: Uncommon
 requirement: The triggering shield had more than 1 Hit Points before taking damage
-rus_type_level: null
-saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
 target: 1 shield

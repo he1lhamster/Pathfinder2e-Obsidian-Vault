@@ -1,24 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Additional Lore
-frequency: null
-heighten_level: null
 id: '750'
 level: '1'
 name: Additional Lore
 prerequisite: Trained in [[DATABASE/skill/Lore|Lore]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: lore
 trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

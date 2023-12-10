@@ -1,46 +1,18 @@
 ﻿---
-ac: null
 actions: '[one-action]'
-alignment: null
-base_item: null
 bulk: L
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
 element: Air
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '1608'
 item_category: Consumables
 item_subcategory: Potions
-land_speed: null
 level: '10'
-max_speed: null
 name: Effervescent Decoction
-onset: null
 price: 160 gp
-range: null
 rarity: Uncommon
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
-size: null
 source: '[[DATABASE/source/Pathfinder 180. The Smoking Gun|Pathfinder #180: The Smoking
   Gun]]'
-spell: null
-stage: null
 subcategory: consumable/potion
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Consumable|Consumable]]'
@@ -48,12 +20,8 @@ trait:
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Potion|Potion]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Item
 usage: held in 1 hand
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Effervescent Decoction<span class="item-type">Item 10</span>

@@ -1,8 +1,6 @@
 ﻿---
 ac: '21'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
 climb_speed: '10'
 constitution: '+3'
@@ -13,25 +11,17 @@ creature_ability:
 - Wolverine Rage
 creature_family: '[[DATABASE/monsterfamily/Wolverine|Wolverine]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+13'
-hardness: null
 hp: '65'
 id: '863'
-immunity: null
 intelligence: '-4'
 land_speed: '25'
-language: null
 level: '4'
 max_speed: '25'
 name: Giant Wolverine
 perception: '+9'
 rarity: Common
 reflex: '+11'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Scent|scent (imprecise) 30 feet]]'
@@ -43,19 +33,16 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 25 feet
 - climb 10 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+9'
 wisdom: '+3'
 

@@ -1,10 +1,7 @@
 ﻿---
 ac: '30'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Angled Entry
@@ -12,12 +9,9 @@ creature_ability:
 - Otherworldly Mind
 - Ripping Gaze
 - Vulnerable to Curved Space
-creature_family: null
 dexterity: '+7'
-element: null
 fly_speed: '30'
 fortitude: '+17'
-hardness: null
 hp: '150'
 id: '1973'
 immunity:
@@ -38,8 +32,6 @@ resistance:
 - '[[DATABASE/trait/Mental|mental]] 10'
 - physical 10
 - '[[DATABASE/trait/Poison|poison]] 10'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 - lamp vision 30 feet
@@ -66,7 +58,6 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Time|Time]]'
@@ -75,7 +66,6 @@ type: Creature
 vision: Greater darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+19'
 wisdom: '+5'
 

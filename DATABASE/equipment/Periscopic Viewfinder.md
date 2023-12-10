@@ -1,56 +1,22 @@
 ﻿---
-ac: null
 actions: '[one-action]'
-alignment: null
-base_item: null
 bulk: L
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '1268'
 item_category: Consumables
 item_subcategory: Gadgets
-land_speed: null
 level: '3'
-max_speed: null
 name: Periscopic Viewfinder
-onset: null
 price: 12 gp
-range: null
 rarity: Rare
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
-school: null
-size: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
-spell: null
-stage: null
 subcategory: consumable/gadget
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Clockwork|Clockwork]]'
 - '[[DATABASE/trait/Consumable|Consumable]]'
 - '[[DATABASE/trait/Gadget|Gadget]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Item
 usage: held in 1 hand
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Periscopic Viewfinder<span class="item-type">Item 3</span>

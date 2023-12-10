@@ -24,11 +24,9 @@ follower_alignment:
 id: '244'
 name: Arqueros
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]]'
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
-trait: null
 type: Deity
 
 ---

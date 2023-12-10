@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Dwarven Lore
-frequency: null
-heighten_level: null
 id: '1'
 level: '1'
 name: Dwarven Lore
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Dwarf|Dwarf]]'
-trigger: null
 type: Feat
 
 ---

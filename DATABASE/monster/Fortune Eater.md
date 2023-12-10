@@ -2,21 +2,16 @@
 ac: '25'
 alignment: CE
 all_resistance: '5'
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Luck Osmosis
 - Rejuvenation
 - Team Attack
 - Unluck Aura
-creature_family: null
 dexterity: '+6'
-element: null
 fly_speed: '30'
 fortitude: '+15'
-hardness: null
 hp: 100 ( negative healing , rejuvenation)
 id: '1157'
 immunity:
@@ -27,7 +22,6 @@ immunity:
 - precision
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '+2'
-land_speed: null
 language:
 - languages spoken by the adventurers (typically [[DATABASE/language/Common|Common]]
 - '[[DATABASE/language/Dwarven|Dwarven]]'
@@ -44,8 +38,6 @@ resistance:
 - '[[DATABASE/equipment/Ghost Touch|ghost touch]]'
 - or [[DATABASE/trait/Positive|positive]] ; double resistance against non- [[DATABASE/trait/Magical|magical]]
   )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -57,12 +49,10 @@ skill:
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - fly 30 feet
-spell: null
 strength: '-5'
 strength_req: '-5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Incorporeal|Incorporeal]]'
 - '[[DATABASE/trait/Rare|Rare]]'
@@ -72,7 +62,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+13'
 wisdom: '+2'
 

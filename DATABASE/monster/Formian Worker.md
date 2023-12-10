@@ -1,10 +1,8 @@
 ﻿---
 ac: '16'
 alignment: LN
-all_resistance: null
 burrow_speed: '5'
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Able Assistant
@@ -12,13 +10,9 @@ creature_ability:
 - Hive Mind
 creature_family: '[[DATABASE/monsterfamily/Formian|Formian]]'
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+8'
-hardness: null
 hp: '20'
 id: '1670'
-immunity: null
 intelligence: '+0'
 land_speed: '30'
 language:
@@ -33,8 +27,6 @@ rarity: Common
 reflex: '+4'
 resistance:
 - '[[DATABASE/trait/Sonic|sonic]] 2'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -47,19 +39,16 @@ source: '[[DATABASE/source/Pathfinder 173. Doorway to the Red Star|Pathfinder #1
 speed:
 - 30 feet
 - burrow 5 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Formian|Formian]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+6'
 wisdom: '+1'
 

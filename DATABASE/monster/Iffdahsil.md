@@ -1,7 +1,6 @@
 ﻿---
 ac: '43'
 alignment: CE
-all_resistance: null
 burrow_speed: '40'
 charisma: '+7'
 climb_speed: '25'
@@ -13,12 +12,8 @@ creature_ability:
 - Engulf
 - Tentacular Burst
 - Unkillable
-creature_family: null
 dexterity: '+9'
-element: null
-fly_speed: null
 fortitude: '+39'
-hardness: null
 hp: 380 ( fast healing 30 , negative healing )
 id: '876'
 immunity:
@@ -49,8 +44,6 @@ resistance:
 - cold 20
 - physical 15 (except magical silver)
 - sonic 20
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Lifesense|lifesense (imprecise) 60 feet]]'
@@ -75,7 +68,6 @@ strength: '+11'
 strength_req: '11'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Undead|Undead]]'

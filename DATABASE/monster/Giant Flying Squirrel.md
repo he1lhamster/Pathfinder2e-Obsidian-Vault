@@ -1,8 +1,6 @@
 ﻿---
 ac: '18'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
 climb_speed: '25'
 constitution: '+3'
@@ -10,25 +8,17 @@ creature_ability:
 - Glide
 creature_family: '[[DATABASE/monsterfamily/Squirrel|Squirrel]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+7'
-hardness: null
 hp: '30'
 id: '1326'
-immunity: null
 intelligence: '-4'
 land_speed: '25'
-language: null
 level: '2'
 max_speed: '25'
 name: Giant Flying Squirrel
 perception: '+8'
 rarity: Common
 reflex: '+10'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -41,19 +31,16 @@ source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 25 feet
 - climb 25 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+6'
 wisdom: '+2'
 

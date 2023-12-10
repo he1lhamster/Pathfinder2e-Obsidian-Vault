@@ -2,7 +2,6 @@
 area: "100 feet \xD7 100 feet, up to 20 feet high"
 cost: rare oils, salts, and herbs worth a total value of 15 gp
 duration: 1 year
-element: null
 heighten: 6th
 heighten_level: 3, 6
 id: '39'
@@ -10,16 +9,12 @@ level: '3'
 name: Unseen Custodians
 primary_check: '[[DATABASE/skill/Arcana|Arcana]] or [[DATABASE/skill/Occultism|Occultism]]
   (expert)'
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Conjuration
 secondary_casters: '2'
 secondary_check: Arcana or Occultism (whichever isn't used for the primary check),
   [[DATABASE/skill/Diplomacy|Diplomacy]]
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-target: null
 trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

@@ -6,11 +6,9 @@ ability_boost:
 id: '15'
 name: Stealth
 rarity: Common
-rus_type_level: null
 skill:
 - Stealth
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Skill
 
 ---

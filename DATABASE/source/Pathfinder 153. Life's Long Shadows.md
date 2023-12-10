@@ -2,9 +2,6 @@
 id: '29'
 name: Pathfinder 153. Life's Long Shadows
 rarity: Common
-rus_type_level: null
-source: null
-trait: null
 type: Source
 
 ---

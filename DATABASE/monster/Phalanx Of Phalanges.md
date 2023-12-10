@@ -1,20 +1,14 @@
 ﻿---
 ac: '15'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Countless Digits
 - Predetermined Path
 creature_family: '[[DATABASE/monsterfamily/Animated Bones|Animated Bones]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+9'
-hardness: null
 hp: '16'
 id: '2029'
 immunity:
@@ -32,10 +26,7 @@ immunity:
 - '[[DATABASE/condition/Sickened|sickened]]'
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
-land_speed: null
-language: null
 level: '1'
-max_speed: null
 name: Phalanx Of Phalanges
 perception: '+5'
 rarity: Uncommon
@@ -46,21 +37,16 @@ resistance:
 - '[[DATABASE/trait/Fire|fire]] 3'
 - piercing 3
 - slashing 3
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +8'
 source: '[[DATABASE/source/Pathfinder 181. Zombie Feast|Pathfinder #181: Zombie Feast]]'
-speed: null
-spell: null
 strength: '+1'
 strength_req: '1'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Mindless|Mindless]]'

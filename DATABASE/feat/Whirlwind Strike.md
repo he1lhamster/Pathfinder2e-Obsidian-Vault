@@ -1,26 +1,16 @@
 ﻿---
 actions: '[three-actions]'
-cost: null
-element: null
 feat: Whirlwind Strike
-frequency: null
-heighten_level: null
 id: '170'
 level: '14'
 name: Whirlwind Strike
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Barbarian|Barbarian]]'
 - '[[DATABASE/trait/Fighter|Fighter]]'
 - '[[DATABASE/trait/Flourish|Flourish]]'
 - '[[DATABASE/trait/Open|Open]]'
-trigger: null
 type: Feat
 
 ---

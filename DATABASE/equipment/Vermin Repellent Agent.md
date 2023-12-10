@@ -1,55 +1,21 @@
 ﻿---
-ac: null
 actions: '[three-actions]'
-alignment: null
-base_item: null
 bulk: L
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '860'
 item_category: Alchemical Items
 item_subcategory: Alchemical Tools
-land_speed: null
-level: '16'
-max_speed: null
+level: '8'
 name: Vermin Repellent Agent
-onset: null
-price: 1,350 gp
-range: null
+price: 75 gp
 rarity: Uncommon
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
-school: null
-size: null
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
-spell: null
-stage: null
 subcategory: alchemical/tool
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Alchemical|Alchemical]]'
 - '[[DATABASE/trait/Consumable|Consumable]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Item
 usage: held in 2 hands
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Vermin Repellent Agent<span class="item-type">Item 3+</span>

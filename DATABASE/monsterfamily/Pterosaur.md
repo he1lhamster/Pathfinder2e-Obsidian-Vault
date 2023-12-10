@@ -3,9 +3,7 @@ creature_family: Pterosaur
 id: '84'
 name: Pterosaur
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
-trait: null
 type: Creature Family
 
 ---

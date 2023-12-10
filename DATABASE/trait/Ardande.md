@@ -2,7 +2,6 @@
 id: '498'
 name: Ardande
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 trait:
 - Ardande

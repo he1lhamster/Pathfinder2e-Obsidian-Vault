@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Natural Illusionist
-frequency: null
-heighten_level: null
 id: '997'
 level: '5'
 name: Natural Illusionist
 prerequisite: '[[DATABASE/feat/Illusion Sense|Illusion Sense]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Gnome|Gnome]]'
-trigger: null
 type: Feat
 
 ---

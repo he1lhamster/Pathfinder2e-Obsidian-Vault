@@ -1,10 +1,7 @@
 ﻿---
 ac: '21'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Anticipate
@@ -13,12 +10,9 @@ creature_ability:
 - Redirect Attack
 - Shell
 - Synapse Glow
-creature_family: null
 dexterity: '+4'
-element: null
 fly_speed: '40'
 fortitude: '+9'
-hardness: null
 hp: '75'
 id: '2503'
 immunity:
@@ -29,7 +23,6 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 - '[[DATABASE/trait/Visual|visual]]'
 intelligence: '+5'
-land_speed: null
 language:
 - '[[DATABASE/language/Common|Common]] ; one other language; [[DATABASE/monsterability/Telepathy|telepathy]]
   100 feet'
@@ -41,8 +34,6 @@ rarity: Uncommon
 reflex: '+12'
 resistance:
 - slashing 5
-rus_type_level: null
-school: null
 sense:
 - mindsense (precise) 120 feet
 - no vision
@@ -72,12 +63,10 @@ strength: '+2'
 strength_req: '2'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Ooze|Ooze]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
 weakness:

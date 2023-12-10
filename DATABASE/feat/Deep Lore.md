@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Deep Lore
-frequency: null
-heighten_level: null
 id: '208'
 level: '18'
 name: Deep Lore
 prerequisite: '[[DATABASE/bardmuse/Enigma|enigma muse]] ; Legendary in [[DATABASE/skill/Occultism|Occultism]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Bard|Bard]]'
-trigger: null
 type: Feat
 
 ---

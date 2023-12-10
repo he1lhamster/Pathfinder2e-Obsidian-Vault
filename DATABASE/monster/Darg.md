@@ -1,25 +1,18 @@
 ﻿---
 ac: '33'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Catch Rock
 - Knockback
 - Throw Rock
 - Wide Swing
-creature_family: null
 dexterity: '+2'
 element: Earth
-fly_speed: null
 fortitude: '+24'
-hardness: null
 hp: '250'
 id: '2260'
-immunity: null
 intelligence: '-2'
 land_speed: '35'
 language:
@@ -31,9 +24,6 @@ name: Darg
 perception: '+20'
 rarity: Unique
 reflex: '+19'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Large
@@ -43,12 +33,10 @@ skill:
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 speed:
 - 35 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Giant|Giant]]'
@@ -58,7 +46,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Reflex
-weakness: null
 will: '+22'
 wisdom: '+4'
 

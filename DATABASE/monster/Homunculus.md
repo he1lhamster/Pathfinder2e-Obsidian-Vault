@@ -1,20 +1,14 @@
 ﻿---
 ac: '17'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Homunculus Poison
 - Master Link
-creature_family: null
 dexterity: '+3'
-element: null
 fly_speed: '40'
 fortitude: '+2'
-hardness: null
 hp: '17'
 id: '264'
 immunity:
@@ -41,9 +35,6 @@ name: Homunculus
 perception: '+3'
 rarity: Common
 reflex: '+7'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Tiny
@@ -54,19 +45,16 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 15 feet
 - fly 40 feet
-spell: null
 strength: '-1'
 strength_req: '-1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+3'
 wisdom: '+1'
 

@@ -1,10 +1,7 @@
 ﻿---
 ac: '41'
 alignment: CG
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Breath Weapon
@@ -24,7 +21,6 @@ dexterity: '+7'
 element: Water
 fly_speed: '140'
 fortitude: '+29'
-hardness: null
 hp: '350'
 id: '1127'
 immunity:
@@ -45,9 +41,6 @@ name: Ancient Sea Dragon
 perception: '+30'
 rarity: Rare
 reflex: '+32'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Wavesense|wavesense]] (imprecise) 60 feet'
@@ -86,7 +79,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+27'
 wisdom: '+5'
 

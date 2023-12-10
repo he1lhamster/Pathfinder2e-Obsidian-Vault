@@ -1,17 +1,8 @@
 ﻿---
-ability: null
-ability_boost: null
-feat: null
 id: '83'
 name: Mantis Scion
-prerequisite: null
-rarity: null
-rus_type_level: null
-skill: null
 source: '[[DATABASE/source/World Guide|World Guide]]'
 subcategory: regional
-trait: null
-type: null
 
 ---
 # Mantis Scion<span class="item-type">Background</span>

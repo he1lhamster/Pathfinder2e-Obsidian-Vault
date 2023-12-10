@@ -1,10 +1,7 @@
 ﻿---
 ac: '36'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+8'
 creature_ability:
 - Blinding Sickness
@@ -12,12 +9,9 @@ creature_ability:
 - Surge
 - Vortex
 - Water-Bound
-creature_family: null
 dexterity: '+8'
 element: Water
-fly_speed: null
 fortitude: '+26'
-hardness: null
 hp: '260'
 id: '2344'
 immunity:
@@ -37,8 +31,6 @@ rarity: Common
 reflex: '+28'
 resistance:
 - fire 10
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Huge
@@ -49,7 +41,6 @@ source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 speed:
 - 35 feet
 - swim 100 feet
-spell: null
 strength: '+8'
 strength_req: '8'
 strongest_save:
@@ -63,7 +54,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+23'
 wisdom: '+5'
 

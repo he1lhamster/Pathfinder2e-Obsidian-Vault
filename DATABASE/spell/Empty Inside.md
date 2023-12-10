@@ -1,36 +1,20 @@
 ﻿---
 actions: '[one-action]'
-area: null
-bloodline: null
 component:
 - Verbal
-cost: null
-deity: null
 domain:
 - '[[DATABASE/domain/Void Domain|Void]]'
-duration: null
-element: null
 heighten: 5th
 heighten_level: 1, 5
 id: '626'
-lesson: null
 level: '1'
-mystery: null
 name: Empty Inside
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
-target: null
-tradition: null
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Mental|Mental]]'
-trigger: null
 type: Focus
 
 ---

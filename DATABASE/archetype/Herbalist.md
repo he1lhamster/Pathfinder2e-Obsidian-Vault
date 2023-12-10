@@ -5,9 +5,7 @@ name: Herbalist
 prerequisite: Trained in [[DATABASE/skill/Nature|Nature]] ; [[DATABASE/feat/Natural
   Medicine|Natural Medicine]]
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-trait: null
 type: Archetype
 
 ---

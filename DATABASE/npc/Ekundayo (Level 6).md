@@ -1,10 +1,7 @@
 ﻿---
 ac: '23'
 alignment: LG
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Ancestry Feats
@@ -15,14 +12,10 @@ creature_ability:
 - Hunted Shot
 - Hunter's Edge
 - Skill Feats
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+13'
 hp: '92'
 id: '2391'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -34,8 +27,6 @@ name: Ekundayo (Level 6)
 perception: '+12'
 rarity: Unique
 reflex: '+14'
-resistance: null
-rus_type_level: null
 sense:
 - (expert)
 size: Medium
@@ -52,21 +43,17 @@ skill:
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
 speed:
 - 25 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+12'
 wisdom: '+2'
 

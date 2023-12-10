@@ -1,22 +1,16 @@
 ﻿---
 ac: '25'
 alignment: CG
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Free Expression
 creature_family: '[[DATABASE/monsterfamily/Azata|Azata]]'
 dexterity: '+3'
-element: null
 fly_speed: '45'
 fortitude: '+14'
-hardness: null
 hp: '145'
 id: '36'
-immunity: null
 intelligence: '+2'
 land_speed: '25'
 language:
@@ -32,9 +26,6 @@ name: Lillend
 perception: '+16'
 rarity: Common
 reflex: '+16'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Large
@@ -75,7 +66,6 @@ strength_req: '4'
 strongest_save:
 - Reflex
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Azata|Azata]]'
 - '[[DATABASE/trait/Celestial|Celestial]]'

@@ -1,10 +1,7 @@
 ﻿---
 ac: '42'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Breath Weapon
@@ -17,10 +14,7 @@ creature_ability:
 - Vulnerable to Rust
 creature_family: '[[DATABASE/monsterfamily/Golem|Golem]]'
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+33'
-hardness: null
 hp: '270'
 id: '1650'
 immunity:
@@ -43,7 +37,6 @@ immunity:
 - '[[DATABASE/condition/Fatigued|fatigued]]'
 intelligence: '-5'
 land_speed: '20'
-language: null
 level: '18'
 max_speed: '20'
 name: Guillotine Golem
@@ -52,8 +45,6 @@ rarity: Rare
 reflex: '+28'
 resistance:
 - physical 20 (except adamantine)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -62,19 +53,16 @@ skill:
 source: '[[DATABASE/source/Night of the Gray Death|Night of the Gray Death]]'
 speed:
 - 20 feet
-spell: null
 strength: '+9'
 strength_req: '9'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+29'
 wisdom: '+0'
 

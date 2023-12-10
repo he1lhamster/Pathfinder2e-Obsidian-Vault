@@ -8,9 +8,7 @@ ability_boost:
 feat: '[[DATABASE/feat/Lie to Me|Lie to Me]]'
 id: '282'
 name: Circuit Judge
-prerequisite: null
 rarity: Uncommon
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Deception|Deception]]'
 - Legal [[DATABASE/skill/Lore|Lore]]

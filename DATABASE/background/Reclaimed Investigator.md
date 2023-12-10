@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Oddity Identification|Oddity Identification]]'
 id: '314'
 name: Reclaimed Investigator
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Occultism|Occultism]]'
 - Crimson Reclaimers [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

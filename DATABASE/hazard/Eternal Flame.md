@@ -1,28 +1,15 @@
 ﻿---
-ac: null
-all_resistance: null
 complexity: Complex
-element: null
-fortitude: null
-hardness: null
 hazard_type: Haunt
-hp: null
 id: '44'
-immunity: null
 level: '7'
 name: Eternal Flame
 rarity: Common
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
 - '[[DATABASE/trait/Complex|Complex]]'
 - '[[DATABASE/trait/Haunt|Haunt]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Eternal Flame<span class="item-type">Hazard 7</span>

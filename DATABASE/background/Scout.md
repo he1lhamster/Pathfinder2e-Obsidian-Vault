@@ -8,16 +8,13 @@ ability_boost:
 feat: '[[DATABASE/feat/Forager|Forager]]'
 id: '32'
 name: Scout
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Survival|Survival]]'
 - '[[DATABASE/skill/Lore|Lore]] related to one terrain you scouted in (such as Forest
   Lore or Cavern Lore).'
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

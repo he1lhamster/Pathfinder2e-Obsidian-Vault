@@ -1,11 +1,8 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Barzahk|Barzahk]]'
 - '[[DATABASE/deity/Dranngvit|Dranngvit]]'
@@ -14,31 +11,20 @@ deity:
 - '[[DATABASE/deity/Marishi|Marishi]]'
 - '[[DATABASE/deity/The Deliberate Journey|The Deliberate Journey]]'
 - '[[DATABASE/deity/The Path of the Heavens|The Path of the Heavens]]'
-domain: null
 duration: 1 hour
-element: null
 heighten: 2nd
 heighten_level: 1, 2
 id: '175'
-lesson: null
 level: '1'
-mystery: null
 name: Longstrider
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Arcane
 - Primal
 trait:
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Spell
 
 ---

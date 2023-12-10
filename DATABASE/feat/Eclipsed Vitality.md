@@ -1,26 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Eclipsed Vitality
-frequency: null
-heighten_level: null
 id: '3613'
 level: '4'
 name: Eclipsed Vitality
 prerequisite: '[[DATABASE/feat/Assassin Dedication|Assassin Dedication]] or [[DATABASE/feat/Scout
   Dedication|Scout Dedication]] ; Master in [[DATABASE/skill/Stealth|Stealth]]'
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Skill|Skill]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

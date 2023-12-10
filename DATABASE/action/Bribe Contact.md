@@ -1,21 +1,15 @@
 ﻿---
-actions: null
 cost: "A bribe worth at least one-tenth of the Currency per Additional PC listed on\
   \ Table 10\u20139: PartyTreasure by Level. Doubling this amount grants a +2 circumstance\
   \ bonus to the check."
-element: null
-frequency: null
 id: '465'
 name: Bribe Contact
 rarity: Common
 requirement: "You\u2019ve successfully Gained a Contact (see below)."
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
 - '[[DATABASE/trait/Downtime|Downtime]]'
 - '[[DATABASE/trait/Secret|Secret]]'
-trigger: null
 type: Action
 
 ---

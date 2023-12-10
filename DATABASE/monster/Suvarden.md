@@ -1,8 +1,6 @@
 ﻿---
 ac: '24'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
 climb_speed: '20'
 constitution: '+4'
@@ -10,12 +8,9 @@ creature_ability:
 - Attack of Opportunity
 - Reweave Fate
 - Web of Fate
-creature_family: null
 dexterity: '+5'
-element: null
 fly_speed: '20'
 fortitude: '+15'
-hardness: null
 hp: 125 ( all-around vision )
 id: '2583'
 immunity:
@@ -35,9 +30,6 @@ name: Suvarden
 perception: '+17'
 rarity: Rare
 reflex: '+14'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -65,7 +57,6 @@ strength: '+3'
 strength_req: '3'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Rare|Rare]]'
@@ -73,7 +64,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+17'
 wisdom: '+4'
 

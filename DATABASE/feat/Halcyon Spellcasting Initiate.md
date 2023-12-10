@@ -1,23 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Halcyon Spellcasting Initiate
-frequency: null
-heighten_level: null
 id: '1118'
+leads_to: '[[DATABASE/feat/Flexible Halcyon Spellcasting|Flexible Halcyon Spellcasting]]
+  , [[DATABASE/feat/Halcyon Spellcasting Adept|Halcyon Spellcasting Adept]] , [[DATABASE/feat/Synergistic
+  Spell|Synergistic Spell]]'
 level: '10'
 name: Halcyon Spellcasting Initiate
 prerequisite: '[[DATABASE/feat/Halcyon Speaker Dedication|Halcyon Speaker Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

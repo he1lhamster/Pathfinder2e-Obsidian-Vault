@@ -1,8 +1,6 @@
 ﻿---
 ac: '18'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+11'
 hardness: '8'
 hazard_type: Trap
@@ -16,9 +14,6 @@ level: '2'
 name: Lodestone Trap
 rarity: Unique
 reflex: '+5'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Crown of the Kobold King|Crown of the Kobold King]]'
 trait:
 - '[[DATABASE/trait/Complex|Complex]]'
@@ -26,8 +21,6 @@ trait:
 - '[[DATABASE/trait/Trap|Trap]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Lodestone Trap<span class="item-type">Hazard 2</span>

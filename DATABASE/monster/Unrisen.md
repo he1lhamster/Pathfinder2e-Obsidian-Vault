@@ -1,10 +1,7 @@
 ﻿---
 ac: '28'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Agonized Howl
@@ -14,12 +11,8 @@ creature_ability:
 - Resurrection Vulnerability
 - Rise
 - Again
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+22'
-hardness: null
 hp: 220 (meant to live, negative healing )
 id: '1908'
 immunity:
@@ -38,9 +31,6 @@ name: Unrisen
 perception: '+21'
 rarity: Common
 reflex: '+17'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Lifesense|lifesense]] 30 feet'
@@ -51,12 +41,10 @@ skill:
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 speed:
 - 30 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Undead|Undead]]'
 type: Creature

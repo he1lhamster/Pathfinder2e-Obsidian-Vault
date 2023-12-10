@@ -24,11 +24,9 @@ follower_alignment:
 id: '88'
 name: Grundinnar
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Diplomacy|Diplomacy]]'
 source: '[[DATABASE/source/Highhelm|Highhelm]]'
-trait: null
 type: Deity
 
 ---

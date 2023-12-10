@@ -1,35 +1,25 @@
 ﻿---
 ac: '20'
 alignment: N
-all_resistance: null
 burrow_speed: '20'
 charisma: '-2'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Armor-Rending Bite
 - Spray Acid
 creature_family: '[[DATABASE/monsterfamily/Ankhrav|Ankhrav]]'
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+12'
-hardness: null
 hp: '40'
 id: '23'
-immunity: null
 intelligence: '-4'
 land_speed: '25'
-language: null
 level: '3'
 max_speed: '25'
 name: Ankhrav
 perception: '+7'
 rarity: Common
 reflex: '+8'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - tremorsense (imprecise) 60 feet
@@ -42,19 +32,16 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 25 feet
 - burrow 20 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+7'
 wisdom: '+0'
 

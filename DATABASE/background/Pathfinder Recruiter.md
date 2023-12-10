@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Group Impression|Group Impression]]'
 id: '203'
 name: Pathfinder Recruiter
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Diplomacy|Diplomacy]]'
 - '[[DATABASE/skill/Lore|Lore]] related to one city you''ve visited often.'
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

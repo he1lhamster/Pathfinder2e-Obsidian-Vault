@@ -1,7 +1,5 @@
 ﻿---
-advanced_apocryphal_spell: null
 advanced_domain_spell: '[[DATABASE/spell/Localized Quake|Localized Quake]]'
-apocryphal_spell: null
 deity:
 - '[[DATABASE/deity/Abadar|Abadar]]'
 - '[[DATABASE/deity/Ashukharma|Ashukharma]]'
@@ -32,9 +30,7 @@ domain_spell: '[[DATABASE/spell/Hurtling Stone|Hurtling Stone]]'
 id: '10'
 name: Earth Domain
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Domain
 
 ---

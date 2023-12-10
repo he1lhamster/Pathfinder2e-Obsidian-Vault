@@ -1,24 +1,16 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Enforce Oath
 frequency: once per hour
-heighten_level: null
 id: '1684'
 level: '12'
 name: Enforce Oath
 prerequisite: You've sworn to an [[DATABASE/trait/Oath|oath]] against a specific type
   ofcreature.
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Champion|Champion]]'
-trigger: null
 type: Feat
 
 ---

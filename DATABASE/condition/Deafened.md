@@ -1,7 +1,6 @@
 ﻿---
 id: '8'
 name: Deafened
-source: null
 
 ---
 # Deafened

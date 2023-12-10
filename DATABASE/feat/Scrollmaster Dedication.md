@@ -1,26 +1,23 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Scrollmaster Dedication
-frequency: null
-heighten_level: null
 id: '1130'
+leads_to: '[[DATABASE/feat/Bestiary Scholar|Bestiary Scholar]] , [[DATABASE/feat/Cautious
+  Delver|Cautious Delver]] , [[DATABASE/feat/Font of Knowledge|Font of Knowledge]]
+  , [[DATABASE/feat/Foolproof Instructions|Foolproof Instructions]] , [[DATABASE/feat/Innate
+  Magic Intuition|Innate Magic Intuition]] , [[DATABASE/feat/Lore Seeker|Lore Seeker]]
+  , [[DATABASE/feat/Magic Finder|Magic Finder]] , [[DATABASE/feat/Masterful Obfuscation|Masterful
+  Obfuscation]] , [[DATABASE/feat/Transcribe Moment|Transcribe Moment]] , [[DATABASE/feat/Unravel
+  Mysteries|Unravel Mysteries]] , [[DATABASE/feat/Ward Mind|Ward Mind]]'
 level: '6'
 name: Scrollmaster Dedication
 prerequisite: expert in any [[DATABASE/skill/Lore|Lore]] skill; member of the Pathfinder
   Societyaffiliated with the School of Scrolls
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,29 +1,14 @@
 ﻿---
 actions: '[reaction]'
-area: null
-bloodline: null
-component: null
-cost: null
-deity: null
-domain: null
 duration: 3 rounds
 element: Earth
 heighten: 4th
 heighten_level: 1, 4
 id: '1337'
-lesson: null
 level: '1'
-mystery: null
 name: Interposing Earth
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-target: null
 tradition:
 - Arcane
 - Primal

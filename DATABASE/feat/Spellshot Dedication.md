@@ -1,26 +1,19 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Spellshot Dedication
-frequency: null
-heighten_level: null
 id: '3267'
+leads_to: '[[DATABASE/feat/Black Powder Embodiment|Black Powder Embodiment]] , [[DATABASE/feat/Call
+  Gun|Call Gun]] , [[DATABASE/feat/Fulminating Shot|Fulminating Shot]] , [[DATABASE/feat/Phase
+  Bullet|Phase Bullet]]'
 level: '2'
 name: Spellshot Dedication
 prerequisite: way of the spellshot
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Class|Class]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

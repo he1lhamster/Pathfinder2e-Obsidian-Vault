@@ -1,10 +1,5 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Wandering Heart
-frequency: null
-heighten_level: null
 id: '986'
 level: '13'
 name: Wandering Heart
@@ -12,14 +7,9 @@ prerequisite: '[[DATABASE/heritage/Arctic Elf|Arctic Elf]] , [[DATABASE/heritage
   Elf|Cavern Elf]] , [[DATABASE/heritage/Desert Elf|Desert Elf]] , [[DATABASE/heritage/Woodland
   Elf|Woodland Elf]] , or any other elf heritage based onadapting to an environment'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Elf|Elf]]'
-trigger: null
 type: Feat
 
 ---

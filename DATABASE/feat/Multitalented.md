@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Multitalented
-frequency: null
-heighten_level: null
 id: '77'
 level: '9'
 name: Multitalented
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
-trigger: null
 type: Feat
 
 ---

@@ -18,15 +18,12 @@ domain:
 - '[[DATABASE/domain/Swarm Domain|Swarm]]'
 - '[[DATABASE/domain/Wood Domain|Wood]]'
 favored_weapon: '[[DATABASE/weapon/Club|Club]]'
-follower_alignment: null
 id: '275'
 name: Shumunue
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Deception|Deception]]'
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-trait: null
 type: Deity
 
 ---

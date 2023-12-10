@@ -1,8 +1,6 @@
 ﻿---
 bulk: '1'
 damage: 1d6 P
-deity: null
-favored_weapon: null
 hands: '2'
 id: '191'
 item_category: Weapons
@@ -12,7 +10,6 @@ name: Flintlock Musket
 price: 7 gp
 range: 70 ft.
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:
 - '[[DATABASE/trait/Concussive|Concussive]]'

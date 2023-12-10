@@ -1,18 +1,12 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
-frequency: null
 id: '30'
 name: Maneuver in Flight
 rarity: Common
 requirement: You have a fly Speed.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Move|Move]]'
-trigger: null
 type: Action
 
 ---

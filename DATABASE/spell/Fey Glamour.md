@@ -5,33 +5,20 @@ bloodline: '[[DATABASE/sorcererbloodline/Fey|Fey]]'
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 10 minutes
-element: null
-heighten: null
 heighten_level: '5'
 id: '510'
-lesson: null
 level: '5'
-mystery: null
 name: Fey Glamour
-patron_theme: null
 range: 30 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Illusion
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: up to 10 creatures
-tradition: null
 trait:
 - '[[DATABASE/trait/Illusion|Illusion]]'
 - '[[DATABASE/trait/Sorcerer|Sorcerer]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Focus
 
 ---

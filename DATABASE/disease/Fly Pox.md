@@ -4,13 +4,10 @@ level: '1'
 name: Fly Pox
 onset: 1 day
 rarity: Common
-rus_type_level: null
 saving_throw: DC 16 Fortitude
-school: null
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 stage: 'Stage 1: enfeebled 1 (1 day)Stage 2: as stage 1 (1 day)Stage 3: enfeebled
   2 (1 day)Stage 4: as stage 3Stage 5: enfeebled 2 and fatigued (1 day)'
-trait: null
 type: Disease
 
 ---

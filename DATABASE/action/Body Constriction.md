@@ -1,18 +1,11 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
-frequency: null
 id: '1268'
 name: Body Constriction
 rarity: Common
 requirement: The constrictor has a creature [[DATABASE/condition/Grabbed|grabbed]]
   .
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 181. Zombie Feast|Pathfinder #181: Zombie Feast]]'
-trait: null
-trigger: null
 type: Action
 
 ---

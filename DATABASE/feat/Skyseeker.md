@@ -1,26 +1,19 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Skyseeker
-frequency: null
-heighten_level: null
 id: '2201'
 level: '8'
 name: Skyseeker
 prerequisite: '[[DATABASE/feat/Sky and Heaven Stance|Sky and Heaven Stance]]'
 rarity: Common
 requirement: You are in Sky and Heaven Stance.
-rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Electricity|Electricity]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Sonic|Sonic]]'
-trigger: null
 type: Feat
 
 ---

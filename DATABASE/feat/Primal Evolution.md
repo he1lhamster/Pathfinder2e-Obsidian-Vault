@@ -1,24 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Primal Evolution
-frequency: null
-heighten_level: null
 id: '613'
+leads_to: '[[DATABASE/feat/Greater Physical Evolution|Greater Physical Evolution]]
+  , [[DATABASE/feat/Greater Vital Evolution|Greater Vital Evolution]]'
 level: '4'
 name: Primal Evolution
 prerequisite: bloodline that grants primal spells
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Primal|Primal]]'
 - '[[DATABASE/trait/Sorcerer|Sorcerer]]'
-trigger: null
 type: Feat
 
 ---

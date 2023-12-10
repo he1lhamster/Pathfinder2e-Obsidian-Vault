@@ -1,21 +1,7 @@
 ﻿---
-ability: null
-ability_boost: null
-ability_flaw: null
-hp: null
 id: '58'
-land_speed: null
-language: null
-max_speed: null
 name: Talos
-rarity: null
-rus_type_level: null
-size: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-speed: null
-trait: null
-type: null
-vision: null
 
 ---
 # Talos (Versatile Heritage)

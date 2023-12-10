@@ -3,9 +3,7 @@ alignment: LE
 id: '4'
 name: Tyrant
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-trait: null
 type: Champion Cause
 
 ---

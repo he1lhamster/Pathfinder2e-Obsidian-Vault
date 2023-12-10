@@ -1,23 +1,16 @@
 ﻿---
 ac: '27'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Dark Naga Venom
 - Guarded Thoughts
 creature_family: '[[DATABASE/monsterfamily/Naga|Naga]]'
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+15'
-hardness: null
 hp: '115'
 id: '306'
-immunity: null
 intelligence: '+3'
 land_speed: '30'
 language:
@@ -29,9 +22,6 @@ name: Dark Naga
 perception: '+15'
 rarity: Uncommon
 reflex: '+17'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/spell/Mind Reading|mind reading]] 30 feet'
 - darkvision
@@ -68,7 +58,6 @@ strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
@@ -77,7 +66,6 @@ vision: Darkvision
 weakest_save:
 - Fortitude
 - Will
-weakness: null
 will: '+15'
 wisdom: '+2'
 

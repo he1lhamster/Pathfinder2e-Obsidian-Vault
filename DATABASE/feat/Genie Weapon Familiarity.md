@@ -1,20 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Genie Weapon Familiarity
-frequency: null
-heighten_level: null
 id: '2547'
+leads_to: '[[DATABASE/feat/Genie Weapon Expertise|Genie Weapon Expertise]] , [[DATABASE/feat/Genie
+  Weapon Flourish|Genie Weapon Flourish]]'
 level: '1'
 name: Genie Weapon Familiarity
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Ardande|Ardande]]'
 - '[[DATABASE/trait/Ifrit|Ifrit]]'
@@ -23,7 +15,6 @@ trait:
 - '[[DATABASE/trait/Sylph|Sylph]]'
 - '[[DATABASE/trait/Talos|Talos]]'
 - '[[DATABASE/trait/Undine|Undine]]'
-trigger: null
 type: Feat
 
 ---

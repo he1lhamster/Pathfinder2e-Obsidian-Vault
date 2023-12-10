@@ -1,21 +1,14 @@
 ﻿---
 ac: '22'
 alignment: NG
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Warded Ground
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+14'
 hp: '120'
 id: '2090'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -26,9 +19,6 @@ name: Zuntishan Guard
 perception: '+15'
 rarity: Uncommon
 reflex: '+12'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +14'
@@ -39,21 +29,17 @@ source: '[[DATABASE/source/Pathfinder 183. Field of Maidens|Pathfinder #183: Fie
   of Maidens]]'
 speed:
 - 25 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+15'
 wisdom: '+3'
 

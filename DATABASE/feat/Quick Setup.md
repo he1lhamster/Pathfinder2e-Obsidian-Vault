@@ -1,25 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Quick Setup
-frequency: null
-heighten_level: null
 id: '4085'
 level: '7'
 name: Quick Setup
 prerequisite: Master in [[DATABASE/skill/Crafting|Crafting]]
 rarity: Rare
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 subcategory: crafting
 trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

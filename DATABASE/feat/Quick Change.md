@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Quick Change
-frequency: null
-heighten_level: null
 id: '2089'
 level: '7'
 name: Quick Change
 prerequisite: Master in [[DATABASE/skill/Deception|Deception]] ; [[DATABASE/feat/Vigilante
   Dedication|Vigilante Dedication]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

@@ -2,9 +2,7 @@
 id: '12'
 level: '8'
 name: Nightmare Fever
-onset: null
 rarity: Common
-rus_type_level: null
 saving_throw: DC 25 Will
 school: Necromancy
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'

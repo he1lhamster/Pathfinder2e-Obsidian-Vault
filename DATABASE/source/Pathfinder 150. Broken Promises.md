@@ -2,9 +2,6 @@
 id: '15'
 name: Pathfinder 150. Broken Promises
 rarity: Common
-rus_type_level: null
-source: null
-trait: null
 type: Source
 
 ---

@@ -1,29 +1,17 @@
 ﻿---
 actions: '[three-actions]'
 area: 20-foot burst
-bloodline: null
-component: null
-cost: null
-deity: null
-domain: null
 duration: sustained up to 10 minutes
 element: Water
 heighten: '+1'
 heighten_level: 5, 6, 7, 8, 9, 10
 id: '1388'
-lesson: null
 level: '5'
-mystery: null
 name: Freezing Rain
-patron_theme: null
 range: 120 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Reflex (see text)
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-target: null
 tradition:
 - Arcane
 - Primal
@@ -32,7 +20,6 @@ trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Water|Water]]'
-trigger: null
 type: Spell
 
 ---

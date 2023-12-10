@@ -1,8 +1,6 @@
 ﻿---
 bulk: '2'
 damage: 1d8 P
-deity: null
-favored_weapon: null
 hands: 1+
 id: '74'
 item_category: Weapons
@@ -12,7 +10,6 @@ name: Composite Longbow
 price: 20 gp
 range: 100 ft.
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Deadly|Deadly d10]]'

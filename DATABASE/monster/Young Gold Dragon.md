@@ -1,10 +1,7 @@
 ﻿---
 ac: '32'
 alignment: LG
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Attack of Opportunity
@@ -17,7 +14,6 @@ dexterity: '+2'
 element: Fire
 fly_speed: '140'
 fortitude: '+22'
-hardness: null
 hp: '230'
 id: '151'
 immunity:
@@ -37,9 +33,6 @@ name: Young Gold Dragon
 perception: '+21'
 rarity: Common
 reflex: '+20'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - scent (imprecise) 60 feet

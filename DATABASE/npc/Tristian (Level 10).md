@@ -1,10 +1,7 @@
 ﻿---
 ac: '25'
 alignment: NG
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Ancestry Feats
@@ -13,14 +10,10 @@ creature_ability:
 - Class Feats
 - General Feats
 - Skill Feats
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+18'
 hp: '128'
 id: '2400'
-immunity: null
 intelligence: '+1'
 land_speed: '30'
 language:
@@ -38,7 +31,6 @@ rarity: Unique
 reflex: '+15'
 resistance:
 - fire 5
-rus_type_level: null
 sense:
 - (expert) [[DATABASE/monsterability/Low-Light Vision|low-light vision]]
 size: Medium
@@ -83,7 +75,6 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aasimar|Aasimar]]'
 - '[[DATABASE/trait/Human|Human]]'
@@ -93,7 +84,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Reflex
-weakness: null
 will: '+22'
 wisdom: '+5'
 

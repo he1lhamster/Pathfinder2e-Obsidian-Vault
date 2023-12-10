@@ -1,22 +1,16 @@
 ﻿---
 ac: '29'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Eager Shadows
 - Induction Word
 - Shadow Breath
 - Twilight Aura
-creature_family: null
 dexterity: '+5'
-element: null
 fly_speed: '30'
 fortitude: '+19'
-hardness: null
 hp: '170'
 id: '2084'
 immunity:
@@ -35,7 +29,6 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '30'
-language: null
 level: '10'
 max_speed: '30'
 name: Shadowforged Guardian
@@ -45,8 +38,6 @@ reflex: '+21'
 resistance:
 - '[[DATABASE/trait/Cold|cold]] 10'
 - physical 10 (except [[DATABASE/equipment/Adamantine Weapon|adamantine]] )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 size: Medium
@@ -57,12 +48,10 @@ source: '[[DATABASE/source/Pathfinder 183. Field of Maidens|Pathfinder #183: Fie
 speed:
 - 30 feet
 - fly 30 feet in dim light
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Mindless|Mindless]]'

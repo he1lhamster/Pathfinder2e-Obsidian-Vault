@@ -5,9 +5,7 @@ name: Marshal
 prerequisite: trained in martial weapons; Trained in [[DATABASE/skill/Diplomacy|Diplomacy]]
   or Trainedin [[DATABASE/skill/Intimidation|Intimidation]]
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-trait: null
 type: Archetype
 
 ---

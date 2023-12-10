@@ -1,24 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Dream May
-frequency: null
-heighten_level: null
 id: '1326'
 level: '1'
 name: Dream May
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Changeling|Changeling]]'
 - '[[DATABASE/trait/Lineage|Lineage]]'
-trigger: null
 type: Feat
 
 ---

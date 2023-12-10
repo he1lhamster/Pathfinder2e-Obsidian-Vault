@@ -2,9 +2,7 @@
 id: '188'
 name: Ghost Poppet
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
-trait: null
 type: Heritage
 
 ---

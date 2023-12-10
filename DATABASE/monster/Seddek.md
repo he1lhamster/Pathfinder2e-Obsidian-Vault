@@ -1,23 +1,16 @@
 ﻿---
 ac: '23'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Change Size
 - Elemental Endurance
-creature_family: null
 dexterity: '+3'
-element: null
 fly_speed: '15'
 fortitude: '+17'
-hardness: null
 hp: '115'
 id: '2541'
-immunity: null
 intelligence: '+1'
 land_speed: '20'
 language:
@@ -33,8 +26,6 @@ rarity: Unique
 reflex: '+14'
 resistance:
 - '[[DATABASE/trait/Fire|fire]] 7'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -58,7 +49,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Elemental|Elemental]]'
 - '[[DATABASE/trait/Genie|Genie]]'
@@ -67,7 +57,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+11'
 wisdom: '+1'
 

@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Read the Stars
-frequency: null
-heighten_level: null
 id: '2411'
 level: '9'
 name: Read the Stars
 prerequisite: Trained in [[DATABASE/skill/Lore|Astrology Lore]] or Trained in [[DATABASE/skill/Occultism|Occultism]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Lizardfolk|Lizardfolk]]'
-trigger: null
 type: Feat
 
 ---

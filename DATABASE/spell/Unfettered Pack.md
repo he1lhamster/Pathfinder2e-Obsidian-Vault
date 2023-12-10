@@ -1,30 +1,20 @@
 ﻿---
 actions: '[two-actions]'
-area: null
 bloodline: '[[DATABASE/sorcererbloodline/Nymph|Nymph]]'
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/The Endless Road|The Endless Road]]'
 - '[[DATABASE/deity/Yuelral|Yuelral]]'
-domain: null
 duration: 1 hour
-element: null
 heighten: 9th
 heighten_level: 7, 9
 id: '350'
-lesson: null
 level: '7'
-mystery: null
 name: Unfettered Pack
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: up to 10 creatures
@@ -33,7 +23,6 @@ tradition:
 - Elemental
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
-trigger: null
 type: Spell
 
 ---

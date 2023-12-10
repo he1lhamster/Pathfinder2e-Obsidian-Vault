@@ -1,10 +1,5 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Return Fire
-frequency: null
-heighten_level: null
 id: '1743'
 level: '6'
 name: Return Fire
@@ -13,13 +8,9 @@ prerequisite: '[[DATABASE/feat/Deflect Arrow|Deflect Arrow]] ; [[DATABASE/feat/M
 rarity: Common
 requirement: You are in Monastic Archer Stance, are wielding a bow, and have a free
   hand.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Monk|Monk]]'
-trigger: null
 type: Feat
 
 ---

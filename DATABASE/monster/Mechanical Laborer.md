@@ -1,17 +1,12 @@
 ﻿---
 ac: '22'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Construct Armor
-creature_family: null
 dexterity: '+1'
 element: Earth
-fly_speed: null
 fortitude: '+15'
 hardness: '8'
 hp: '55'
@@ -32,16 +27,12 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '25'
-language: null
 level: '5'
 max_speed: '25'
 name: Mechanical Laborer
 perception: '+11'
 rarity: Uncommon
 reflex: '+10'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -50,12 +41,10 @@ skill:
 source: '[[DATABASE/source/Pathfinder 182. Graveclaw|Pathfinder #182: Graveclaw]]'
 speed:
 - 25 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Earth|Earth]]'
@@ -65,7 +54,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+8'
 wisdom: '+0'
 

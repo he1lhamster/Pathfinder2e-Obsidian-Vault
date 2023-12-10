@@ -1,23 +1,16 @@
 ﻿---
 ac: '28'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Identify an Opening
 - Sneak Attack
 - Timely Distraction
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+21'
 hp: '155'
 id: '1548'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -32,9 +25,6 @@ name: Heuberk Thropp
 perception: '+14'
 rarity: Unique
 reflex: '+15'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +16'
@@ -71,16 +61,13 @@ strength: '+3'
 strength_req: '3'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+18'
 wisdom: '+1'
 

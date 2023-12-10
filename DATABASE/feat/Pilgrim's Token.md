@@ -1,24 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Pilgrim's Token
-frequency: null
-heighten_level: null
 id: '2141'
 level: '1'
 name: Pilgrim's Token
 prerequisite: Trained in [[DATABASE/skill/Religion|Religion]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: religion
 trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

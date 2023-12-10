@@ -2,9 +2,6 @@
 id: '76'
 name: Azarketi Ancestry Web Supplement
 rarity: Common
-rus_type_level: null
-source: null
-trait: null
 type: Source
 
 ---

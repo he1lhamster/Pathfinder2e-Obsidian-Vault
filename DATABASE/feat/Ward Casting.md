@@ -1,21 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Ward Casting
-frequency: null
-heighten_level: null
 id: '1136'
 level: '10'
 name: Ward Casting
 prerequisite: '[[DATABASE/feat/Spellmaster Dedication|Spellmaster Dedication]] ; [[DATABASE/feat/Steady
   Spellcasting|Steady Spellcasting]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 trigger: "You attempt a flat check for Steady Spellcasting, but you haven\u2019t rolled\

@@ -1,29 +1,16 @@
 ﻿---
-ac: null
-all_resistance: null
 complexity: Simple
-element: null
-fortitude: null
-hardness: null
 hazard_type: Environmental
-hp: null
 id: '110'
-immunity: null
 level: '14'
 name: Quaking Slither
 rarity: Rare
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Monsters of Myth|Monsters of Myth]]'
 trait:
 - '[[DATABASE/trait/Environmental|Environmental]]'
 - '[[DATABASE/trait/Kaiju|Kaiju]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Quaking Slither<span class="item-type">Hazard 14</span>

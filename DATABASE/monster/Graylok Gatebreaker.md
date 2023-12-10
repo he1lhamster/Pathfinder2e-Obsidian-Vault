@@ -1,10 +1,7 @@
 ﻿---
 ac: '28'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Freeze Blade
@@ -12,12 +9,8 @@ creature_ability:
 - Shield Block
 - Shielded Stride
 - Trampling Ram
-creature_family: null
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+21'
-hardness: null
 hp: '130'
 id: '1823'
 immunity:
@@ -33,9 +26,6 @@ name: Graylok Gatebreaker
 perception: '+16'
 rarity: Uncommon
 reflex: '+14'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Large
@@ -46,12 +36,10 @@ source: '[[DATABASE/source/Pathfinder 177. Burning Tundra|Pathfinder #177: Burni
   Tundra]]'
 speed:
 - 25 feet; ice stride
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Cold|Cold]]'
 - '[[DATABASE/trait/Giant|Giant]]'

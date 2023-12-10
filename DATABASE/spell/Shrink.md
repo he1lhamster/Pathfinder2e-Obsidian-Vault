@@ -1,28 +1,16 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 5 minutes
-element: null
 heighten: 6th
 heighten_level: 2, 6
 id: '284'
-lesson: null
 level: '2'
-mystery: null
 name: Shrink
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: 1 willing creature
@@ -32,7 +20,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Polymorph|Polymorph]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Spell
 
 ---

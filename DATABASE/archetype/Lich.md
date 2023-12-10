@@ -4,7 +4,6 @@ level: '12'
 name: Lich
 prerequisite: Expert in [[DATABASE/skill/Crafting|Crafting]]
 rarity: Rare
-rus_type_level: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'

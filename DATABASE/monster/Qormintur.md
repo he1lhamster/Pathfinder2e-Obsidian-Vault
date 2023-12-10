@@ -1,10 +1,7 @@
 ﻿---
 ac: '39'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Bomber
@@ -16,15 +13,10 @@ creature_ability:
 - Sticky Poison
 - ''
 - Uncanny Bombs
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+28'
-hardness: null
 hp: '295'
 id: '2135'
-immunity: null
 intelligence: '+6'
 land_speed: '20'
 language:
@@ -40,8 +32,6 @@ rarity: Unique
 reflex: '+30'
 resistance:
 - '[[DATABASE/trait/Poison|poison]] 15'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -65,7 +55,6 @@ strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Duergar|Duergar]]'
 - '[[DATABASE/trait/Dwarf|Dwarf]]'
@@ -75,7 +64,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+26'
 wisdom: '+3'
 

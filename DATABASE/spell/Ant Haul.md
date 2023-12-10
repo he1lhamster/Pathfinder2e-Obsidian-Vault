@@ -1,11 +1,8 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Aakriti|Aakriti]]'
 - '[[DATABASE/deity/Balumbdar|Balumbdar]]'
@@ -14,22 +11,13 @@ deity:
 - '[[DATABASE/deity/Dwarven Pantheon|DwarvenPantheon]]'
 - '[[DATABASE/deity/Hearth and Harvest|Hearth and Harvest]]'
 - '[[DATABASE/deity/Kurgess|Kurgess]]'
-domain: null
 duration: 8 hours
-element: null
-heighten: null
 heighten_level: '1'
 id: '13'
-lesson: null
 level: '1'
-mystery: null
 name: Ant Haul
-patron_theme: null
 range: touch
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: 1 creature
@@ -38,7 +26,6 @@ tradition:
 - Primal
 trait:
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Spell
 
 ---

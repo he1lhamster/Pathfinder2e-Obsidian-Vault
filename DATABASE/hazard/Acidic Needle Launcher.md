@@ -1,8 +1,6 @@
 ﻿---
 ac: '39'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+30'
 hardness: '26'
 hazard_type: Trap
@@ -16,9 +14,6 @@ level: '16'
 name: Acidic Needle Launcher
 rarity: Common
 reflex: '+22'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 149. Against the Scarlet Triad|Pathfinder #149:
   Against the Scarlet Triad]]'
 trait:
@@ -26,8 +21,6 @@ trait:
 - '[[DATABASE/trait/Mechanical|Mechanical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Acidic Needle Launcher<span class="item-type">Hazard 16</span>

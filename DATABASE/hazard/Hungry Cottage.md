@@ -1,29 +1,16 @@
 ﻿---
-ac: null
-all_resistance: null
 complexity: Complex
-element: null
-fortitude: null
-hardness: null
 hazard_type: Environmental
-hp: null
 id: '205'
-immunity: null
 level: '6'
 name: Hungry Cottage
 rarity: Unique
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 182. Graveclaw|Pathfinder #182: Graveclaw]]'
 trait:
 - '[[DATABASE/trait/Complex|Complex]]'
 - '[[DATABASE/trait/Environmental|Environmental]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Hungry Cottage<span class="item-type">Hazard 6</span>

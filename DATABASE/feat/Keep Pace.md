@@ -1,21 +1,12 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Keep Pace
-frequency: null
-heighten_level: null
-id: '3427'
+id: '1917'
 level: '6'
 name: Keep Pace
-prerequisite: '[[DATABASE/feat/Game Hunter Dedication|Game Hunter Dedication]]'
+prerequisite: '[[DATABASE/feat/Bounty Hunter Dedication|Bounty Hunter Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
-source: '[[DATABASE/source/Pathfinder 175. Broken Tusk Moon|Pathfinder #175: Broken
-  Tusk Moon]]'
-subcategory: null
+source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 trigger: Your prey is within reach and attempts to move away from you.

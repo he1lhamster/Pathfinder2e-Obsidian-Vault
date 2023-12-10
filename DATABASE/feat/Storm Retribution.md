@@ -1,10 +1,6 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Storm Retribution
-frequency: null
-heighten_level: null
 id: '329'
 level: '6'
 name: Storm Retribution
@@ -12,10 +8,7 @@ prerequisite: '[[DATABASE/druidicorder/Storm|storm order]] ; [[DATABASE/spell/Te
   Surge|tempest surge]] order spell'
 rarity: Common
 requirement: You have at least 1 available Focus Point.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Druid|Druid]]'
 trigger: An opponent adjacent to you critically hits you with a melee weapon or melee

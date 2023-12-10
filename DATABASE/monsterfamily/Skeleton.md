@@ -3,9 +3,7 @@ creature_family: Skeleton
 id: '92'
 name: Skeleton
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
-trait: null
 type: Creature Family
 
 ---

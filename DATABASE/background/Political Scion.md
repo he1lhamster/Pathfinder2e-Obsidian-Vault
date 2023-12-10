@@ -1,18 +1,8 @@
 ﻿---
-ability: null
-ability_boost: null
-feat: null
 id: '195'
 name: Political Scion
-prerequisite: null
-rarity: null
-rus_type_level: null
-skill: null
 source: '[[DATABASE/source/Agents of Edgewatch Player''s Guide|Agents of Edgewatch
   Player''s Guide]]'
-subcategory: null
-trait: null
-type: null
 
 ---
 # Political Scion<span class="item-type">Background</span>

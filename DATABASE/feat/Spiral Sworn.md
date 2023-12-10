@@ -1,26 +1,20 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Spiral Sworn
 frequency: once per 10 minutes
-heighten_level: null
 id: '3470'
+leads_to: '[[DATABASE/feat/Expand Spiral|Expand Spiral]]'
 level: '6'
 name: Spiral Sworn
 prerequisite: '[[DATABASE/feat/Soul Warden Dedication|Soul Warden Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Divine|Divine]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
-trigger: null
 type: Feat
 
 ---

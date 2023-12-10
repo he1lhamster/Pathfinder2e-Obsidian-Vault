@@ -1,21 +1,14 @@
 ﻿---
 ac: '20'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Clockwork Wand
 - Dispelling Critical
 - Wind-Up
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+11'
-hardness: null
 hp: '45'
 id: '2745'
 immunity:
@@ -34,7 +27,6 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '25'
-language: null
 level: '4'
 max_speed: '25'
 name: Clockwork Belimarius
@@ -45,8 +37,6 @@ resistance:
 - physical 5 (except [[DATABASE/equipment/Adamantine Weapon|adamantine]]
 - bludgeoning
 - ororichalcum)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -68,7 +58,6 @@ strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Clockwork|Clockwork]]'
 - '[[DATABASE/trait/Construct|Construct]]'

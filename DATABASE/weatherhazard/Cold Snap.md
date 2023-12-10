@@ -5,7 +5,6 @@ level: '1'
 name: Cold Snap
 rarity: Common
 requirement: A cold snap can occur at any time except during the summer.
-rus_type_level: null
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
 trait:
 - '[[DATABASE/trait/Weather|Weather]]'

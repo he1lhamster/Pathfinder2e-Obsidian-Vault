@@ -1,27 +1,20 @@
 ﻿---
 actions: '[three-actions]'
-cost: null
-element: null
 feat: Timeline-Splitting Spell
 frequency: once per day
-heighten_level: null
 id: '3846'
 level: '18'
 name: Timeline-Splitting Spell
 prerequisite: '[[DATABASE/feat/Time Mage Dedication|Time Mage Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Divination
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Divination|Divination]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Metamagic|Metamagic]]'
-trigger: null
 type: Feat
 
 ---

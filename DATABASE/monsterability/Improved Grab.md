@@ -3,9 +3,7 @@ actions: '[free-action]'
 id: '27'
 name: Improved Grab
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
-trait: null
 type: Creature Ability
 
 ---

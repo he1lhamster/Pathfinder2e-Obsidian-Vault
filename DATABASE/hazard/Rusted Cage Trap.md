@@ -1,8 +1,6 @@
 ﻿---
 ac: '16'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+10'
 hardness: 5 Cage Hardness
 hazard_type: Trap
@@ -16,17 +14,12 @@ level: '1'
 name: Rusted Cage Trap
 rarity: Uncommon
 reflex: '+4'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rusthenge|Rusthenge]]'
 trait:
 - '[[DATABASE/trait/Mechanical|Mechanical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Rusted Cage Trap<span class="item-type">Hazard 1</span>

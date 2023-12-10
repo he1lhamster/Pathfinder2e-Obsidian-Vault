@@ -3,10 +3,8 @@ creature_family: Sahkil
 id: '208'
 name: Sahkil
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 162. Ruins of the Radiant Siege|Pathfinder #162:
   Ruins of the Radiant Siege]]'
-trait: null
 type: Creature Family
 
 ---

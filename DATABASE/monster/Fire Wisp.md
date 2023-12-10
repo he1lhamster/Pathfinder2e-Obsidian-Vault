@@ -1,10 +1,7 @@
 ﻿---
 ac: '16'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Accord Essence
@@ -16,7 +13,6 @@ dexterity: '+3'
 element: Fire
 fly_speed: '15'
 fortitude: '+6'
-hardness: null
 hp: '18'
 id: '1144'
 immunity:
@@ -35,9 +31,6 @@ name: Fire Wisp
 perception: '+6'
 rarity: Common
 reflex: '+7'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - smoke vision
@@ -50,12 +43,10 @@ source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 40 feet
 - fly 15 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Elemental|Elemental]]'
 - '[[DATABASE/trait/Fire|Fire]]'

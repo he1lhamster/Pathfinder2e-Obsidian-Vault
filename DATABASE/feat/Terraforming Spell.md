@@ -1,27 +1,19 @@
 ﻿---
 actions: '[one-action]'
-cost: null
 element: Earth
 feat: Terraforming Spell
-frequency: null
-heighten_level: null
 id: '1830'
 level: '16'
 name: Terraforming Spell
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Metamagic|Metamagic]]'
 - '[[DATABASE/trait/Sorcerer|Sorcerer]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Feat
 
 ---

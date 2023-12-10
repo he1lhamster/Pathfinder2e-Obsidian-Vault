@@ -1,25 +1,17 @@
 ﻿---
 actions: '[free-action]'
-cost: null
 element: Fire
 feat: Charred Remains
 frequency: once per day
-heighten_level: null
 id: '2559'
 level: '9'
 name: Charred Remains
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fire|Fire]]'
 - '[[DATABASE/trait/Ifrit|Ifrit]]'
 - '[[DATABASE/trait/Metamagic|Metamagic]]'
-trigger: null
 type: Feat
 
 ---

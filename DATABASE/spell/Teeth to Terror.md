@@ -1,27 +1,16 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 1 minute
-element: null
 heighten: '+2'
 heighten_level: 2, 4, 6, 8, 10
 id: '1210'
-lesson: null
 level: '2'
-mystery: null
 name: Teeth to Terror
-patron_theme: null
 range: 30 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 saving_throw: Will
 school: Illusion
 source: '[[DATABASE/source/Pathfinder 181. Zombie Feast|Pathfinder #181: Zombie Feast]]'
@@ -33,7 +22,6 @@ trait:
 - '[[DATABASE/trait/Illusion|Illusion]]'
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Spell
 
 ---

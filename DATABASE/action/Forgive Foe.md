@@ -1,21 +1,14 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
-frequency: null
 id: '1438'
 name: Forgive Foe
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
 - '[[DATABASE/trait/Auditory|Auditory]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Linguistic|Linguistic]]'
 - '[[DATABASE/trait/Mental|Mental]]'
-trigger: null
 type: Action
 
 ---

@@ -1,8 +1,6 @@
 ﻿---
 bulk: '2'
 damage: 1d10 B
-deity: null
-favored_weapon: null
 hands: '2'
 id: '280'
 item_category: Weapons
@@ -10,9 +8,7 @@ item_subcategory: Base Weapons
 level: '0'
 name: Dwarven Dorn-Dergar
 price: 8 gp
-range: null
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 trait:
 - '[[DATABASE/trait/Dwarf|Dwarf]]'

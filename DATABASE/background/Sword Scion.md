@@ -1,17 +1,7 @@
 ﻿---
-ability: null
-ability_boost: null
-feat: null
 id: '343'
 name: Sword Scion
-prerequisite: null
-rarity: null
-rus_type_level: null
-skill: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
-subcategory: null
-trait: null
-type: null
 
 ---
 # Sword Scion<span class="item-type">Background</span>

@@ -1,24 +1,17 @@
 ﻿---
 ac: '41'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Convergent Calm
 - Convergent Link
 - Convergent Tactics
 - Disrupted Link
-creature_family: null
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+33'
 hp: '440'
 id: '2141'
-immunity: null
 intelligence: '+3'
 land_speed: '25'
 language:
@@ -32,9 +25,6 @@ name: Convergent Kendley Nathrael
 perception: '+35'
 rarity: Unique
 reflex: '+29'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +32'
@@ -55,14 +45,12 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Elf|Elf]]'
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
 weakness:

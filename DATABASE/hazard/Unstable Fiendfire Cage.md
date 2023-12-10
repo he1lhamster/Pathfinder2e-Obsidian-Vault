@@ -1,21 +1,10 @@
 ﻿---
-ac: null
-all_resistance: null
 complexity: Complex
-element: null
-fortitude: null
-hardness: null
 hazard_type: Trap
-hp: null
 id: '321'
-immunity: null
 level: '20'
 name: Unstable Fiendfire Cage
 rarity: Unique
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 186. Ghost King''s Rage|Pathfinder #186: Ghost
   King''s Rage]]'
 trait:
@@ -25,8 +14,6 @@ trait:
 - '[[DATABASE/trait/Trap|Trap]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Unstable Fiendfire Cage<span class="item-type">Hazard 20</span>

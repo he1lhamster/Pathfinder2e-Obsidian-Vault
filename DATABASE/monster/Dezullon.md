@@ -1,8 +1,6 @@
 ﻿---
 ac: '30'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
 climb_speed: '30'
 constitution: '+3'
@@ -11,18 +9,12 @@ creature_ability:
 - Constrict
 - Root
 - Stench
-creature_family: null
 dexterity: '+7'
-element: null
-fly_speed: null
 fortitude: '+17'
-hardness: null
 hp: '130'
 id: '115'
-immunity: null
 intelligence: '-4'
 land_speed: '25'
-language: null
 level: '10'
 max_speed: '30'
 name: Dezullon
@@ -31,8 +23,6 @@ rarity: Common
 reflex: '+21'
 resistance:
 - '[[DATABASE/trait/Acid|acid]] 20'
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 size: Medium
@@ -43,19 +33,16 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 25 feet; climb 30 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Plant|Plant]]'
 type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+16'
 wisdom: '+2'
 

@@ -1,8 +1,6 @@
 ﻿---
 ac: '34'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
 climb_speed: '15'
 constitution: '+4'
@@ -16,12 +14,8 @@ creature_ability:
 - Nature's Edge
 - ''
 - Penetrating Shot
-creature_family: null
 dexterity: '+8'
-element: null
-fly_speed: null
 fortitude: '+23'
-hardness: null
 hp: '225'
 id: '1831'
 immunity:
@@ -38,9 +32,6 @@ name: Hegremon
 perception: '+27'
 rarity: Unique
 reflex: '+27'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Large
@@ -58,12 +49,10 @@ source: '[[DATABASE/source/Pathfinder 177. Burning Tundra|Pathfinder #177: Burni
 speed:
 - 30 feet
 - climb 15 feet; ice stride
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Cold|Cold]]'
 - '[[DATABASE/trait/Giant|Giant]]'

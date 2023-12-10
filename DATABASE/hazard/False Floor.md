@@ -1,20 +1,10 @@
 ﻿---
-ac: null
-all_resistance: null
 complexity: Simple
-element: null
-fortitude: null
-hardness: null
 hazard_type: Trap
-hp: null
 id: '184'
-immunity: null
 level: '3'
 name: False Floor
 rarity: Common
-reflex: null
-resistance: null
-rus_type_level: null
 school: Illusion
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 trait:
@@ -22,8 +12,6 @@ trait:
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # False Floor<span class="item-type">Hazard 3</span>

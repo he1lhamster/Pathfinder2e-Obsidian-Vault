@@ -1,18 +1,10 @@
 ﻿---
-actions: null
-cost: null
-element: null
-frequency: null
 id: '774'
 name: Cleanse Soul Path
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 trait:
 - '[[DATABASE/trait/Exploration|Exploration]]'
-trigger: null
 type: Action
 
 ---

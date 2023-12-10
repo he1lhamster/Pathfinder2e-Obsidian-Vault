@@ -1,11 +1,8 @@
 ﻿---
-element: null
 id: '53'
 item_category: Relics
 name: Psychic Scream
-prerequisite: null
 rarity: Common
-rus_type_level: null
 school: Divination
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:

@@ -1,10 +1,7 @@
 ﻿---
 ac: '38'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+8'
 creature_ability:
 - Aquatic Elusion
@@ -15,15 +12,10 @@ creature_ability:
 - Swallow
 - Whole
 - Thunderous Slam
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+30'
-hardness: null
 hp: '370'
 id: '1433'
-immunity: null
 intelligence: '+5'
 land_speed: '40'
 language:
@@ -36,9 +28,6 @@ name: Grootslang
 perception: '+28'
 rarity: Uncommon
 reflex: '+27'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 60 feet'
@@ -52,7 +41,6 @@ source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
 speed:
 - 40 feet
 - swim 30 feet
-spell: null
 strength: '+9'
 strength_req: '9'
 strongest_save:
@@ -65,7 +53,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+26'
 wisdom: '+6'
 

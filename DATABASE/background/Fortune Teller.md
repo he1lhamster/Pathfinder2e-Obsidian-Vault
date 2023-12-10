@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Oddity Identification|Oddity Identification]]'
 id: '16'
 name: Fortune Teller
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Occultism|Occultism]]'
 - Fortune-Telling [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

@@ -1,55 +1,21 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
 base_item: '[[DATABASE/armor/Wooden Breastplate|Wooden Breastplate]]'
 bulk: '2'
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
 element: Wood
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '2648'
 item_category: Armor
 item_subcategory: Specific Magic Armor
-land_speed: null
-level: '18'
-max_speed: null
+level: '10'
 name: Tales in Timber
-onset: null
-price: 22,000 gp
-range: null
+price: 1,000 gp
 rarity: Common
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
-school: null
-size: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-spell: null
-stage: null
-subcategory: null
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Invested|Invested]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Wood|Wood]]'
-trigger: null
 type: Item
 usage: worn armor
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Tales in Timber<span class="item-type">Item 10+</span>

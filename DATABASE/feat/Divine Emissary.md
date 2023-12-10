@@ -1,25 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Divine Emissary
-frequency: null
-heighten_level: null
 id: '3633'
 level: '6'
 name: Divine Emissary
 prerequisite: afamiliar, you follow a good-aligned deity or patron
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Sorcerer|Sorcerer]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 - '[[DATABASE/trait/Witch|Witch]]'
-trigger: null
 type: Feat
 
 ---

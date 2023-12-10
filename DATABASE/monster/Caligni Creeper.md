@@ -1,23 +1,16 @@
 ﻿---
 ac: '19'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Death Flash
 - Sneak Attack
 creature_family: '[[DATABASE/monsterfamily/Caligni|Caligni]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+9'
-hardness: null
 hp: 30 (death flash)
 id: '65'
-immunity: null
 intelligence: '-1'
 land_speed: '25'
 language:
@@ -28,9 +21,6 @@ name: Caligni Creeper
 perception: '+8'
 rarity: Common
 reflex: '+10'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - greater darkvision
 - light blindness
@@ -50,7 +40,6 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Caligni|Caligni]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -58,7 +47,6 @@ type: Creature
 vision: Greater darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+6'
 wisdom: '+2'
 

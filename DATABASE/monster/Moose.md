@@ -1,37 +1,25 @@
 ﻿---
 ac: '18'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Cold Adaptation
 - Kick Back
 - Thundering Charge
 - Trample
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+11'
-hardness: null
 hp: '50'
 id: '1233'
-immunity: null
 intelligence: '-4'
 land_speed: '30'
-language: null
 level: '3'
 max_speed: '30'
 name: Moose
 perception: '+9'
 rarity: Common
 reflex: '+10'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 60 feet'
@@ -42,19 +30,16 @@ skill:
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 30 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+5'
 wisdom: '+0'
 

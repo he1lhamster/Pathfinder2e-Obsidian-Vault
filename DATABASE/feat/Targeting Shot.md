@@ -1,25 +1,16 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Targeting Shot
-frequency: null
-heighten_level: null
 id: '533'
 level: '14'
 name: Targeting Shot
 prerequisite: '[[DATABASE/feat/Hunter''s Aim|Hunter''s Aim]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Press|Press]]'
 - '[[DATABASE/trait/Ranger|Ranger]]'
-trigger: null
 type: Feat
 
 ---

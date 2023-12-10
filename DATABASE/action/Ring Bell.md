@@ -1,14 +1,10 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
-frequency: null
 id: '1230'
 name: Ring Bell
 rarity: Common
 requirement: You are holding your bell implement, and the triggering creature is within
   30 feet of you.
-rus_type_level: null
 school: Enchantment
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 trait:

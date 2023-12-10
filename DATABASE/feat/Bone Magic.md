@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Bone Magic
-frequency: null
-heighten_level: null
 id: '2401'
 level: '1'
 name: Bone Magic
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Lizardfolk|Lizardfolk]]'
-trigger: null
 type: Feat
 
 ---

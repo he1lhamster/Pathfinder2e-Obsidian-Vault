@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Cornered Fury
-frequency: null
-heighten_level: null
 id: '2426'
 level: '5'
 name: Cornered Fury
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Ratfolk|Ratfolk]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,20 +1,14 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Swap Reflections
 frequency: once per 10 minutes
-heighten_level: null
 id: '3813'
 level: '8'
 name: Swap Reflections
 prerequisite: '[[DATABASE/feat/Alter Ego Dedication|Alter Ego Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Conjuration
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
@@ -22,7 +16,6 @@ trait:
 - '[[DATABASE/trait/Incapacitation|Incapacitation]]'
 - '[[DATABASE/trait/Occult|Occult]]'
 - '[[DATABASE/trait/Teleportation|Teleportation]]'
-trigger: null
 type: Feat
 
 ---

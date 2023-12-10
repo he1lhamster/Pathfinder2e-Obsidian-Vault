@@ -1,27 +1,14 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
-component: null
-cost: null
-deity: null
-domain: null
-duration: null
 element: Earth
 heighten: 9th
 heighten_level: 7, 9
 id: '1335'
-lesson: null
 level: '7'
-mystery: null
 name: Heaving Earth
-patron_theme: null
 range: 120 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Reflex
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 target: 1 creature or object on the ground
 tradition:
@@ -31,7 +18,6 @@ trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
-trigger: null
 type: Spell
 
 ---

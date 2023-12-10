@@ -1,24 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Defiance Unto Death
-frequency: null
-heighten_level: null
 id: '980'
 level: '5'
 name: Defiance Unto Death
-prerequisite: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Elf|Elf]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

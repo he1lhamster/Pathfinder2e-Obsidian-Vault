@@ -1,21 +1,10 @@
 ﻿---
-ac: null
-all_resistance: null
 complexity: Complex
-element: null
-fortitude: null
-hardness: null
 hazard_type: Haunt
-hp: null
 id: '75'
-immunity: null
 level: '6'
 name: Phantom Bells
 rarity: Rare
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 147. Tomorrow Must Burn|Pathfinder #147: Tomorrow
   Must Burn]]'
 trait:
@@ -25,8 +14,6 @@ trait:
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Sonic|Sonic]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Phantom Bells<span class="item-type">Hazard 6</span>

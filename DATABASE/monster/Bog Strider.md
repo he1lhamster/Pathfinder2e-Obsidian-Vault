@@ -1,25 +1,17 @@
 ﻿---
 ac: '18'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Deep Breath
 - Hurl Net
 - Water Sprint
 - Water Stride
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+8'
-hardness: null
 hp: '30'
 id: '574'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -30,9 +22,6 @@ name: Bog Strider
 perception: '+8'
 rarity: Uncommon
 reflex: '+10'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Wavesense|wavesense 120 feet]]'
@@ -45,7 +34,6 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 25 feet
 - swim 20 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
@@ -59,7 +47,6 @@ vision: Darkvision
 weakest_save:
 - Fortitude
 - Will
-weakness: null
 will: '+8'
 wisdom: '+2'
 

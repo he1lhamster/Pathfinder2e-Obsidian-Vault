@@ -1,22 +1,15 @@
 ﻿---
 ac: '31'
 alignment: LG
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Guardian Naga Venom
 creature_family: '[[DATABASE/monsterfamily/Naga|Naga]]'
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+20'
-hardness: null
 hp: '175'
 id: '307'
-immunity: null
 intelligence: '+3'
 land_speed: '25'
 language:
@@ -28,9 +21,6 @@ name: Guardian Naga
 perception: '+22'
 rarity: Uncommon
 reflex: '+21'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Large
@@ -73,7 +63,6 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
@@ -81,7 +70,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+22'
 wisdom: '+5'
 

@@ -1,10 +1,7 @@
 ﻿---
 ac: '17'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Cower
@@ -13,13 +10,9 @@ creature_ability:
 - Vicious Criticals
 creature_family: '[[DATABASE/monsterfamily/Demon|Demon]]'
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+10'
-hardness: null
 hp: '45'
 id: '1109'
-immunity: null
 intelligence: '-3'
 land_speed: '20'
 language:
@@ -31,9 +24,6 @@ name: Dretch
 perception: '+6'
 rarity: Common
 reflex: '+4'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -52,7 +42,6 @@ strength: '+3'
 strength_req: '3'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Demon|Demon]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

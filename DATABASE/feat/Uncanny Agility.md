@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Uncanny Agility
-frequency: null
-heighten_level: null
 id: '2435'
 level: '1'
 name: Uncanny Agility
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Tengu|Tengu]]'
-trigger: null
 type: Feat
 
 ---

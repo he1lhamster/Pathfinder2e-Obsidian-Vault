@@ -1,37 +1,20 @@
 ﻿---
 actions: '[one-action]'
-area: null
-bloodline: null
 component:
 - Verbal
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
-heighten: null
 heighten_level: '1'
 id: '1037'
-lesson: null
 level: '1'
-mystery: null
 name: Dimensional Assault
-patron_theme: null
 range: half your Speed
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-target: null
-tradition: null
 trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Magus|Magus]]'
 - '[[DATABASE/trait/Teleportation|Teleportation]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Focus
 
 ---

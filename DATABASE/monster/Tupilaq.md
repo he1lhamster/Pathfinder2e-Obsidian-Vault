@@ -1,18 +1,12 @@
 ﻿---
 ac: '26'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Carver's Curse
 - Construct Armor
-creature_family: null
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+17'
 hardness: '8'
 hp: '87'
@@ -33,16 +27,12 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '40'
-language: null
 level: '7'
 max_speed: '40'
 name: Tupilaq
 perception: '+16'
 rarity: Common
 reflex: '+15'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -65,7 +55,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+12'
 wisdom: '+3'
 

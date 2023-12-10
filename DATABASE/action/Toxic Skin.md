@@ -1,14 +1,9 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 frequency: once per hour
 id: '732'
 name: Toxic Skin
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
 trait:
 - '[[DATABASE/trait/Grippli|Grippli]]'

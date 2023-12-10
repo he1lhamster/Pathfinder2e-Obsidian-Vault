@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Advanced Muse's Whispers
-frequency: null
-heighten_level: null
 id: '680'
 level: '6'
 name: Advanced Muse's Whispers
 prerequisite: '[[DATABASE/feat/Basic Muse''s Whispers|Basic Muse''s Whispers]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

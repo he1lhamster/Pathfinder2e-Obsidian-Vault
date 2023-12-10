@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Unlimited Ghost Flight
-frequency: null
-heighten_level: null
 id: '3503'
 level: '14'
 name: Unlimited Ghost Flight
 prerequisite: '[[DATABASE/feat/Ghost Flight|Ghost Flight]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

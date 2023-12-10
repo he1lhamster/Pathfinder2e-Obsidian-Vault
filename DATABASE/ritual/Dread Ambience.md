@@ -2,7 +2,6 @@
 area: 1 square mile
 cost: candles, specialty salts, and rare herbs worth 80 gp total
 duration: 1 year
-element: null
 heighten: 7th, 9th
 heighten_level: 5, 7, 9
 id: '56'
@@ -10,15 +9,11 @@ level: '5'
 name: Dread Ambience
 primary_check: '[[DATABASE/skill/Arcana|Arcana]] or [[DATABASE/skill/Occultism|Occultism]]
   (expert)'
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Enchantment
 secondary_casters: '1'
 secondary_check: '[[DATABASE/skill/Deception|Deception]]'
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-target: null
 trait:
 - '[[DATABASE/trait/Consecration|Consecration]]'
 - '[[DATABASE/trait/Emotion|Emotion]]'

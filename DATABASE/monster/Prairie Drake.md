@@ -1,10 +1,8 @@
 ﻿---
 ac: '18'
 alignment: NE
-all_resistance: null
 burrow_speed: '20'
 charisma: '+1'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Dirt Breath
@@ -15,7 +13,6 @@ dexterity: '+2'
 element: Earth
 fly_speed: '10'
 fortitude: '+10'
-hardness: null
 hp: '36'
 id: '1928'
 immunity:
@@ -33,8 +30,6 @@ rarity: Uncommon
 reflex: '+6'
 resistance:
 - '[[DATABASE/trait/Electricity|electricity]] 4'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Tremorsense|tremorsense]] 30 feet (imprecise)'
 size: Small
@@ -49,22 +44,18 @@ speed:
 - 25 feet
 - burrow 20 feet
 - fly 10 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dragon|Dragon]]'
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
 - Will
-weakness: null
 will: '+6'
 wisdom: '+2'
 

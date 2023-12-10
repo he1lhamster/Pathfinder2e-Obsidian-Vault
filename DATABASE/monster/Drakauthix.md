@@ -1,10 +1,7 @@
 ﻿---
 ac: '25'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Obscuring Spores
@@ -12,27 +9,18 @@ creature_ability:
 - Spore Tendrils
 - Sporesight
 - Whirlwind of Hooks
-creature_family: null
 dexterity: '+2'
-element: null
 fly_speed: '20'
 fortitude: '+21'
-hardness: null
 hp: '190'
 id: '158'
-immunity: null
 intelligence: '-4'
-land_speed: null
-language: null
 level: '9'
 max_speed: '20'
 name: Drakauthix
 perception: '+17'
 rarity: Common
 reflex: '+13'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - sporesight (imprecise) 60 feet
@@ -44,12 +32,10 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - fly 20 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fungus|Fungus]]'
 type: Creature

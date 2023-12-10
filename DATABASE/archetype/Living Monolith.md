@@ -5,7 +5,6 @@ name: Living Monolith
 prerequisite: '[[DATABASE/language/Osiriani|Ancient Osiriani]] and [[DATABASE/language/Sphinx|Sphinx]]
   languages; Trained in [[DATABASE/skill/Crafting|Crafting]]'
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/World Guide|World Guide]]'
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

@@ -1,27 +1,14 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
-component: null
-cost: null
-deity: null
-domain: null
 duration: sustained up to 1 minute
 element: Water
-heighten: null
 heighten_level: '6'
 id: '1389'
-lesson: null
 level: '6'
-mystery: null
 name: Frost Pillar
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Reflex
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 target: 1 creature
 tradition:
@@ -32,7 +19,6 @@ trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Water|Water]]'
-trigger: null
 type: Spell
 
 ---

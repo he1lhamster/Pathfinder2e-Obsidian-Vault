@@ -1,8 +1,6 @@
 ﻿---
 bulk: '2'
 damage: 1d6 P
-deity: null
-favored_weapon: null
 hands: '1'
 id: '242'
 item_category: Weapons
@@ -10,9 +8,7 @@ item_subcategory: Base Weapons
 level: '1'
 name: Switchscythe
 price: 12 gp
-range: null
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
 trait:
 - '[[DATABASE/trait/Fatal|Fatal d10]]'

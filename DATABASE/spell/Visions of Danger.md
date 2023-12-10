@@ -6,34 +6,23 @@ component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 1 minute
-element: null
 heighten: '+1'
 heighten_level: 7, 8, 9, 10
 id: '358'
-lesson: null
 level: '7'
-mystery: null
 name: Visions of Danger
-patron_theme: null
 range: 500 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Will
 school: Illusion
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Occult
 trait:
 - '[[DATABASE/trait/Auditory|Auditory]]'
 - '[[DATABASE/trait/Illusion|Illusion]]'
 - '[[DATABASE/trait/Visual|Visual]]'
-trigger: null
 type: Spell
 
 ---

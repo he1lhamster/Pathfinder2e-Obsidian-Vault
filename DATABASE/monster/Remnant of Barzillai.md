@@ -2,19 +2,14 @@
 ac: '29'
 alignment: LE
 all_resistance: '8'
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Create Haunt
 - Haunted Form
-creature_family: null
 dexterity: '+3'
-element: null
 fly_speed: '25'
 fortitude: '+14'
-hardness: null
 hp: '135'
 id: '458'
 immunity:
@@ -25,7 +20,6 @@ immunity:
 - precision
 - unconscious
 intelligence: '+3'
-land_speed: null
 language:
 - '[[DATABASE/language/Aklo|Aklo]]'
 - '[[DATABASE/language/Azlanti|Azlanti]]'
@@ -50,8 +44,6 @@ resistance:
 - '[[DATABASE/equipment/Ghost Touch|ghost touch]]'
 - orpositive; double resistance vs. non-magical)
 - haunted form
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -65,12 +57,10 @@ source: '[[DATABASE/source/Pathfinder 147. Tomorrow Must Burn|Pathfinder #147: T
   Must Burn]]'
 speed:
 - fly 25 feet
-spell: null
 strength: '-5'
 strength_req: '-5'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Incorporeal|Incorporeal]]'
 - '[[DATABASE/trait/Rare|Rare]]'
@@ -79,7 +69,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+23'
 wisdom: '+7'
 

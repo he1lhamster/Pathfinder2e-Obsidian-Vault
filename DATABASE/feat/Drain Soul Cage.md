@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Drain Soul Cage
-frequency: null
-heighten_level: null
 id: '3514'
 level: '14'
 name: Drain Soul Cage
 prerequisite: '[[DATABASE/feat/Lich Dedication|Lich Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

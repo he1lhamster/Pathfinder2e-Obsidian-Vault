@@ -1,32 +1,21 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Ayrzul|Ayrzul]]'
 - '[[DATABASE/deity/Ayrzul|Ayrzul]]'
 - '[[DATABASE/deity/Dispater|Dispater]]'
 - '[[DATABASE/deity/Stag Mother of the Forest of Stones|Stag Mother of the Forest
   of Stones]]'
-domain: null
 duration: varies
-element: null
-heighten: null
 heighten_level: '6'
 id: '123'
-lesson: null
 level: '6'
-mystery: null
 name: Flesh to Stone
-patron_theme: null
 range: 120 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Fortitude
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -36,7 +25,6 @@ tradition:
 - Primal
 trait:
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Spell
 
 ---

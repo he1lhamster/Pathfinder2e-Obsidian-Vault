@@ -2,13 +2,11 @@
 id: '6'
 name: Rune
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Arcana|Arcana]]'
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 tradition:
 - Arcane
-trait: null
 type: Witch Patron Theme
 
 ---

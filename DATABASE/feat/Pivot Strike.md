@@ -1,27 +1,19 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Pivot Strike
-frequency: null
-heighten_level: null
 id: '1198'
 level: '14'
 name: Pivot Strike
 prerequisite: '[[DATABASE/feat/Staff Acrobat Dedication|Staff Acrobat Dedication]]'
 rarity: Uncommon
 requirement: You are wielding your staff.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 151. The Show Must Go On|Pathfinder #151: The
   Show Must Go On]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Attack|Attack]]'
 - '[[DATABASE/trait/Open|Open]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

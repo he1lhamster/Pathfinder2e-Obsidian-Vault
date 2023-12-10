@@ -1,20 +1,13 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
 element: Wood
 feat: Dash of Herbs
-frequency: null
 heighten_level: 6, 8, 10, 12, 14, 16, 18, 20
 id: '4287'
 level: '6'
 name: Dash of Herbs
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Healing|Healing]]'
 - '[[DATABASE/trait/Impulse|Impulse]]'
@@ -23,7 +16,6 @@ trait:
 - '[[DATABASE/trait/Primal|Primal]]'
 - '[[DATABASE/trait/Vitality|Vitality]]'
 - '[[DATABASE/trait/Wood|Wood]]'
-trigger: null
 type: Feat
 
 ---

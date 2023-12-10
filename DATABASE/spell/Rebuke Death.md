@@ -1,39 +1,25 @@
 ﻿---
 actions: '[one-action]'
 area: 20-foot emanation
-bloodline: null
 component:
 - Somatic
-cost: null
-deity: null
 domain:
 - '[[DATABASE/domain/Healing Domain|Healing]]'
-duration: null
-element: null
 heighten: '+1'
 heighten_level: 4, 5, 6, 7, 8, 9, 10
 id: '446'
-lesson: null
 level: '4'
-mystery: null
 name: Rebuke Death
-patron_theme: null
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: 1 living creature per action spent to cast this spell
-tradition: null
 trait:
 - '[[DATABASE/trait/Cleric|Cleric]]'
 - '[[DATABASE/trait/Healing|Healing]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Positive|Positive]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Focus
 
 ---

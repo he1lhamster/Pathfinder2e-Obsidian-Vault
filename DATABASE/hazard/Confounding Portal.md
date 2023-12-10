@@ -1,20 +1,10 @@
 ﻿---
-ac: null
-all_resistance: null
 complexity: Simple
-element: null
-fortitude: null
-hardness: null
 hazard_type: Trap
-hp: null
 id: '180'
-immunity: null
 level: '0'
 name: Confounding Portal
 rarity: Common
-reflex: null
-resistance: null
-rus_type_level: null
 school: Illusion
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 trait:
@@ -23,8 +13,6 @@ trait:
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Confounding Portal<span class="item-type">Hazard 0</span>

@@ -1,8 +1,6 @@
 ﻿---
 ac: '16'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
 climb_speed: '20'
 constitution: '+2'
@@ -13,13 +11,9 @@ creature_ability:
 - Raktavarna Venom
 creature_family: '[[DATABASE/monsterfamily/Rakshasa|Rakshasa]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+5'
-hardness: null
 hp: '14'
 id: '1271'
-immunity: null
 intelligence: '+1'
 land_speed: '20'
 language:
@@ -34,8 +28,6 @@ rarity: Uncommon
 reflex: '+9'
 resistance:
 - physical 3 (except piercing)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Tiny

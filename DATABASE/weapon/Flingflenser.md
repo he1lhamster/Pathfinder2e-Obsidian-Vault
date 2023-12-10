@@ -1,8 +1,6 @@
 ﻿---
 bulk: '1'
 damage: 1d6 S
-deity: null
-favored_weapon: null
 hands: '2'
 id: '208'
 item_category: Weapons
@@ -12,7 +10,6 @@ name: Flingflenser
 price: 6 gp
 range: 30 ft.
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:
 - '[[DATABASE/trait/Backstabber|Backstabber]]'

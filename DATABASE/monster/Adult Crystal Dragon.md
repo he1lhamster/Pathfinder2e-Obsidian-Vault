@@ -1,10 +1,8 @@
 ﻿---
 ac: '33'
 alignment: NG
-all_resistance: null
 burrow_speed: '35'
 charisma: '+5'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Breath Weapon
@@ -19,7 +17,6 @@ dexterity: '+2'
 element: Earth
 fly_speed: '120'
 fortitude: '+24'
-hardness: null
 hp: '185'
 id: '628'
 immunity:
@@ -38,9 +35,6 @@ name: Adult Crystal Dragon
 perception: '+20'
 rarity: Uncommon
 reflex: '+19'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent (imprecise) 60 feet]]'
@@ -68,7 +62,6 @@ strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dragon|Dragon]]'
 - '[[DATABASE/trait/Earth|Earth]]'

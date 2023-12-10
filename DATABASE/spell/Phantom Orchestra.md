@@ -1,29 +1,16 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
-component: null
-cost: null
-deity: null
-domain: null
 duration: sustained up to 1 minute
 element: Air
 heighten: '+1'
 heighten_level: 6, 7, 8, 9, 10
 id: '1317'
-lesson: null
 level: '6'
-mystery: null
 name: Phantom Orchestra
-patron_theme: null
 range: 120 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: basicFortitude
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-target: null
 tradition:
 - Arcane
 - Occult
@@ -33,7 +20,6 @@ trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Sonic|Sonic]]'
-trigger: null
 type: Spell
 
 ---

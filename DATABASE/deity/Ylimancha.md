@@ -25,11 +25,9 @@ follower_alignment:
 id: '132'
 name: Ylimancha
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]]'
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
-trait: null
 type: Deity
 
 ---

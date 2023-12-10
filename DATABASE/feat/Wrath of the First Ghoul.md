@@ -1,21 +1,15 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Wrath of the First Ghoul
 frequency: Once per day
-heighten_level: null
 id: '3895'
 level: '20'
 name: Wrath of the First Ghoul
 prerequisite: '[[DATABASE/feat/Secret Eater|Secret Eater]]'
 rarity: Rare
-requirement: null
-rus_type_level: null
 school: Enchantment
 source: '[[DATABASE/source/Pathfinder 184. The Ghouls Hunger|Pathfinder #184: The
   Ghouls Hunger]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Death|Death]]'
@@ -25,7 +19,6 @@ trait:
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Occult|Occult]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Feat
 
 ---

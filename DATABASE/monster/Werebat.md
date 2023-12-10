@@ -1,10 +1,7 @@
 ﻿---
 ac: '18'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Bat Empathy
@@ -15,13 +12,10 @@ creature_ability:
 - Wing Thrash
 creature_family: '[[DATABASE/monsterfamily/Werecreature|Werecreature]]'
 dexterity: '+4'
-element: null
 fly_speed: '25'
 fortitude: '+9'
-hardness: null
 hp: '35'
 id: '1366'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -32,9 +26,6 @@ name: Werebat
 perception: '+9'
 rarity: Common
 reflex: '+10'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - echolocation (precise) 40 feet
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
@@ -49,12 +40,10 @@ source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 25 feet
 - fly 25 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Human|Human]]'

@@ -1,23 +1,16 @@
 ﻿---
 ac: '17'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
 climb_speed: '5'
 constitution: '+1'
 creature_ability:
 - Abandon Puppet
 - Puppetmaster
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+7'
-hardness: null
 hp: '21'
 id: '1199'
-immunity: null
 intelligence: '+1'
 land_speed: '5'
 language:
@@ -30,9 +23,6 @@ name: Incutilis
 perception: '+7'
 rarity: Uncommon
 reflex: '+7'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Tiny
@@ -45,7 +35,6 @@ speed:
 - 5 feet
 - climb 5 feet
 - swim 40 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
@@ -60,7 +49,6 @@ vision: Darkvision
 weakest_save:
 - Fortitude
 - Reflex
-weakness: null
 will: '+9'
 wisdom: '+3'
 

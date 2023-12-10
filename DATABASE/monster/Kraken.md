@@ -1,10 +1,7 @@
 ﻿---
 ac: '42'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+9'
 creature_ability:
 - Altered Weather
@@ -13,12 +10,8 @@ creature_ability:
 - Ink Cloud
 - Jet
 - Kraken Ink
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+35'
-hardness: null
 hp: '360'
 id: '275'
 immunity:
@@ -38,8 +31,6 @@ reflex: '+28'
 resistance:
 - cold 10
 - poison 20
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Gargantuan
@@ -69,7 +60,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+32'
 wisdom: '+6'
 

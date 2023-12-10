@@ -1,36 +1,19 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Verbal
-cost: null
-deity: null
-domain: null
-duration: null
 element: Air
-heighten: null
 heighten_level: '5'
 id: '1251'
-lesson: null
 level: '5'
-mystery: null
 name: Unfolding Wind Buffet
-patron_theme: null
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-target: null
-tradition: null
 trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Focus
 
 ---

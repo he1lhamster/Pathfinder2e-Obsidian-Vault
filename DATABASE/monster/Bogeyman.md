@@ -1,10 +1,7 @@
 ﻿---
 ac: '30'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Deepest Fear
@@ -15,10 +12,7 @@ creature_ability:
 - Surprise Attack
 creature_family: '[[DATABASE/monsterfamily/Bogeyman|Bogeyman]]'
 dexterity: '+7'
-element: null
-fly_speed: null
 fortitude: '+16'
-hardness: null
 hp: 175 ( fast healing 10)
 id: '509'
 immunity:
@@ -35,9 +29,6 @@ name: Bogeyman
 perception: '+19'
 rarity: Uncommon
 reflex: '+23'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 size: Medium
@@ -68,7 +59,6 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

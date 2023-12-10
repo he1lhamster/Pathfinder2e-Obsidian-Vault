@@ -6,11 +6,9 @@ ability_boost:
 id: '11'
 name: Occultism
 rarity: Common
-rus_type_level: null
 skill:
 - Occultism
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Skill
 
 ---

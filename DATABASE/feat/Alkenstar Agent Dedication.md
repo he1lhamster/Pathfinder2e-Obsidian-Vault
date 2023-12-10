@@ -1,26 +1,18 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Alkenstar Agent Dedication
-frequency: null
-heighten_level: null
 id: '3568'
+leads_to: '[[DATABASE/feat/Flash your Badge|Flash your Badge]] , [[DATABASE/feat/Loose
+  Cannon|Loose Cannon]] , [[DATABASE/feat/Prepare Papers|Prepare Papers]]'
 level: '2'
 name: Alkenstar Agent Dedication
 prerequisite: Trained in [[DATABASE/skill/Deception|Deception]]
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 178. Punks in a Powderkeg|Pathfinder #178: Punks
   in a Powderkeg]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

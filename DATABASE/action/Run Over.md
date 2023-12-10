@@ -1,19 +1,13 @@
 ﻿---
 actions: '[three-actions]'
-cost: null
-element: null
-frequency: null
 id: '484'
 name: Run Over
 rarity: Common
 requirement: You are piloting a vehicle.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
 - '[[DATABASE/trait/Move|Move]]'
 - '[[DATABASE/trait/Reckless|Reckless]]'
-trigger: null
 type: Action
 
 ---

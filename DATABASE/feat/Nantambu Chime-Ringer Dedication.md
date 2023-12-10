@@ -1,26 +1,19 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Nantambu Chime-Ringer Dedication
-frequency: null
-heighten_level: null
 id: '3039'
+leads_to: '[[DATABASE/feat/Deny the Songs of War|Deny the Songs of War]] , [[DATABASE/feat/Fleet
+  Tempo|Fleet Tempo]] , [[DATABASE/feat/Sing to the Steel|Sing to the Steel]] , [[DATABASE/feat/Song
+  of Grace and Speed|Song of Grace and Speed]]'
 level: '2'
 name: Nantambu Chime-Ringer Dedication
 prerequisite: Trained in [[DATABASE/skill/Performance|Performance]] ; Trained in [[DATABASE/skill/Society|Society]]
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 170. Spoken on the Song Wind|Pathfinder #170:
   Spoken on the Song Wind]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

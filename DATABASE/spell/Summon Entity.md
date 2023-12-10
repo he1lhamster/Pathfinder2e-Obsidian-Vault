@@ -1,39 +1,26 @@
 ﻿---
 actions: '[three-actions]'
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Nyarlathotep|Nyarlathotep (Haunter in the Dark)]]'
 - '[[DATABASE/deity/Nyarlathotep|Nyarlathotep (The Crawling Chaos)]]'
-domain: null
 duration: sustained up to 1 minute
-element: null
 heighten: 6th, 7th, 8th, 9th, 10th
 heighten_level: 5, 6, 7, 8, 9, 10
 id: '321'
-lesson: null
 level: '5'
-mystery: null
 name: Summon Entity
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Occult
 trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
-trigger: null
 type: Spell
 
 ---

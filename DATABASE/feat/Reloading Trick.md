@@ -1,25 +1,18 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Reloading Trick
 frequency: once per round
-heighten_level: null
 id: '2685'
 level: '6'
 name: Reloading Trick
 prerequisite: '[[DATABASE/feat/Drow Shootist Dedication|Drow Shootist Dedication]]'
 rarity: Common
 requirement: You're holding an unloaded hand crossbow.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 165. Eyes of Empty Death|Pathfinder #165: Eyes
   of Empty Death]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
-trigger: null
 type: Feat
 
 ---

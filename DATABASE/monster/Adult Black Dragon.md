@@ -1,10 +1,7 @@
 ﻿---
 ac: '31'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Breath Weapon
@@ -15,10 +12,8 @@ creature_ability:
 - Tail Lash
 creature_family: '[[DATABASE/monsterfamily/Dragon, Black|Dragon, Black]]'
 dexterity: '+3'
-element: null
 fly_speed: '120'
 fortitude: '+23'
-hardness: null
 hp: '215'
 id: '128'
 immunity:
@@ -37,9 +32,6 @@ name: Adult Black Dragon
 perception: '+22'
 rarity: Common
 reflex: '+18'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - scent (imprecise) 60 feet
@@ -71,7 +63,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+21'
 wisdom: '+3'
 

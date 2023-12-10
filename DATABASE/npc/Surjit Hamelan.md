@@ -1,8 +1,6 @@
 ﻿---
 ac: '33'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
 climb_speed: '20'
 constitution: '+5'
@@ -13,14 +11,10 @@ creature_ability:
 - Rain-Scribe Arrow
 - Sense the Unseen
 - Sneak Attack
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+24'
 hp: '220'
 id: '1500'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -33,8 +27,6 @@ name: Surjit Hamelan
 perception: '+25'
 rarity: Unique
 reflex: '+26'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Small
@@ -48,7 +40,6 @@ speed:
 - 25 feet
 - climb 20 feet
 - swim 20 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
@@ -62,7 +53,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+23'
 wisdom: '+4'
 

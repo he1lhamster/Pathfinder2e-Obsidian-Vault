@@ -1,37 +1,25 @@
 ﻿---
 actions: '[two-actions]'
-area: null
 bloodline: '[[DATABASE/sorcererbloodline/Genie|Genie]]'
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: varies
-element: null
 heighten: '+1'
 heighten_level: 5, 6, 7, 8, 9, 10
 id: '790'
-lesson: null
 level: '5'
-mystery: null
 name: Wish-Twisted Form
-patron_theme: null
 range: 60 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 saving_throw: Will
 school: Transmutation
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 target: 1 creature
-tradition: null
 trait:
 - '[[DATABASE/trait/Sorcerer|Sorcerer]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Focus
 
 ---

@@ -7,9 +7,7 @@ prerequisite: Trained in [[DATABASE/skill/Nature|Nature]] ; ability to cast spel
   , [[DATABASE/trait/Earth|earth]] , [[DATABASE/trait/Fire|fire]] , [[DATABASE/trait/Plant|plant]]
   ,or [[DATABASE/trait/Water|water]] trait
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-trait: null
 type: Archetype
 
 ---

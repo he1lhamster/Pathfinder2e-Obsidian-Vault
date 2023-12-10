@@ -23,12 +23,10 @@ follower_alignment:
 id: '240'
 name: Rowdrosh
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Nature|Nature]]'
 source: '[[DATABASE/source/Pathfinder 176. Lost Mammoth Valley|Pathfinder #176: Lost
   Mammoth Valley]]'
-trait: null
 type: Deity
 
 ---

@@ -4,9 +4,7 @@ level: '2'
 name: Pirate
 prerequisite: Trained in [[DATABASE/skill/Intimidation|Intimidation]]
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-trait: null
 type: Archetype
 
 ---

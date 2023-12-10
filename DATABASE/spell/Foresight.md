@@ -1,28 +1,16 @@
 ﻿---
 actions: '[two-actions]'
-area: null
 bloodline: '[[DATABASE/sorcererbloodline/Angelic|Angelic]]'
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 1 hour
-element: null
-heighten: null
 heighten_level: '9'
 id: '127'
-lesson: null
 level: '9'
-mystery: null
 name: Foresight
-patron_theme: null
 range: touch
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: 1 creature
@@ -34,7 +22,6 @@ trait:
 - '[[DATABASE/trait/Divination|Divination]]'
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Prediction|Prediction]]'
-trigger: null
 type: Spell
 
 ---

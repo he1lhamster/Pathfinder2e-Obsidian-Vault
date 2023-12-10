@@ -1,24 +1,14 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Disruptive Stance
-frequency: null
-heighten_level: null
 id: '401'
 level: '10'
 name: Disruptive Stance
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fighter|Fighter]]'
 - '[[DATABASE/trait/Stance|Stance]]'
-trigger: null
 type: Feat
 
 ---

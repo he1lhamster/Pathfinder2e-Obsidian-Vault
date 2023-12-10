@@ -1,24 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Battle Cry
-frequency: null
-heighten_level: null
 id: '759'
 level: '7'
 name: Battle Cry
 prerequisite: Master in [[DATABASE/skill/Intimidation|Intimidation]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: intimidation
 trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

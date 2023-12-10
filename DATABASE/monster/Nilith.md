@@ -1,22 +1,15 @@
 ﻿---
 ac: '32'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
 climb_speed: '30'
 constitution: '+4'
 creature_ability:
 - Mind Crush
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+17'
-hardness: null
 hp: '150'
 id: '310'
-immunity: null
 intelligence: '+3'
 land_speed: '25'
 language:
@@ -31,8 +24,6 @@ reflex: '+20'
 resistance:
 - mental 10
 - physical 5 (except silver)
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -66,14 +57,12 @@ strength_req: '3'
 strongest_save:
 - Reflex
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+20'
 wisdom: '+3'
 

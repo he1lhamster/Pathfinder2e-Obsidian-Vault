@@ -1,38 +1,23 @@
 ﻿---
 actions: '[two-actions]'
 area: 30-foot line
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: sustained
-element: null
-heighten: null
 heighten_level: '2'
 id: '998'
-lesson: null
 level: '2'
-mystery: null
 name: Sonata Span
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-target: null
 tradition:
 - Occult
 trait:
 - '[[DATABASE/trait/Auditory|Auditory]]'
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Sonic|Sonic]]'
-trigger: null
 type: Spell
 
 ---

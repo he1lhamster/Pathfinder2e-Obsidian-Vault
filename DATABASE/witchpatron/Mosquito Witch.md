@@ -2,7 +2,6 @@
 id: '10'
 name: Mosquito Witch
 rarity: Rare
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Nature|Nature]]'
 source: '[[DATABASE/source/Monsters of Myth|Monsters of Myth]]'

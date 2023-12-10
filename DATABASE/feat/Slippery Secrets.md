@@ -1,24 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Slippery Secrets
-frequency: null
-heighten_level: null
 id: '842'
 level: '7'
 name: Slippery Secrets
 prerequisite: Master in [[DATABASE/skill/Deception|Deception]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: deception
 trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

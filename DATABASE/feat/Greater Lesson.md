@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Greater Lesson
-frequency: null
-heighten_level: null
 id: '1574'
 level: '6'
 name: Greater Lesson
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Witch|Witch]]'
-trigger: null
 type: Feat
 
 ---

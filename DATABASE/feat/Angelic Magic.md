@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Angelic Magic
-frequency: null
-heighten_level: null
 id: '1357'
 level: '9'
 name: Angelic Magic
 prerequisite: '[[DATABASE/feat/Angelkin|Angelkin]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Aasimar|Aasimar]]'
-trigger: null
 type: Feat
 
 ---

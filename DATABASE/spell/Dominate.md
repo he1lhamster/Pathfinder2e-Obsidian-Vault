@@ -1,32 +1,22 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Droskar|Droskar]]'
 - '[[DATABASE/deity/Droskar|Droskar]]'
 - '[[DATABASE/deity/Lissala|Lissala]]'
 - '[[DATABASE/deity/The Godclaw|The Godclaw]]'
 - '[[DATABASE/deity/Zura|Zura]]'
-domain: null
 duration: until the next time you make your daily preparations
-element: null
 heighten: 10th
 heighten_level: 6, 10
 id: '87'
-lesson: null
 level: '6'
-mystery: null
 name: Dominate
-patron_theme: null
 range: 30 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 saving_throw: Will
 school: Enchantment
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -39,7 +29,6 @@ trait:
 - '[[DATABASE/trait/Incapacitation|Incapacitation]]'
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Spell
 
 ---

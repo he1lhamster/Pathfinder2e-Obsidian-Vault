@@ -2,9 +2,7 @@
 ac: '49'
 alignment: CE
 all_resistance: '25'
-burrow_speed: null
 charisma: '+11'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Breath Weapon
@@ -20,10 +18,8 @@ creature_ability:
 - Sunlight Powerlessness
 creature_family: '[[DATABASE/monsterfamily/Wyrmwraith|Wyrmwraith]]'
 dexterity: '+11'
-element: null
 fly_speed: '100'
 fortitude: '+32'
-hardness: null
 hp: 450 ( negative healing )
 id: '1371'
 immunity:
@@ -50,8 +46,6 @@ resistance:
 - '[[DATABASE/equipment/Ghost Touch|ghost touch]]'
 - or [[DATABASE/trait/Positive|positive]] )double resistance vs. non- [[DATABASE/trait/Magical|magical]]
   )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Lifesense|lifesense]] 120 feet'
@@ -78,7 +72,6 @@ strength: '-5'
 strength_req: '-5'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dragon|Dragon]]'
 - '[[DATABASE/trait/Incorporeal|Incorporeal]]'
@@ -89,7 +82,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+42'
 wisdom: '+9'
 

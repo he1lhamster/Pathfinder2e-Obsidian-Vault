@@ -1,27 +1,16 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
 cost: 3 gp game piece focus
-deity: null
-domain: null
 duration: sustained up to 1 minute
-element: null
-heighten: null
 heighten_level: '2'
 id: '859'
-lesson: null
 level: '2'
-mystery: null
 name: Mind Games
-patron_theme: null
 range: 30 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 saving_throw: Will
 school: Enchantment
 source: '[[DATABASE/source/Pathfinder 169. Kindled Magic|Pathfinder #169: Kindled
@@ -34,7 +23,6 @@ trait:
 - '[[DATABASE/trait/Enchantment|Enchantment]]'
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Spell
 
 ---

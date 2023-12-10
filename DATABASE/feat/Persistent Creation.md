@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Persistent Creation
-frequency: null
-heighten_level: null
 id: '1117'
+leads_to: '[[DATABASE/feat/Charged Creation|Charged Creation]]'
 level: '8'
 name: Persistent Creation
 prerequisite: '[[DATABASE/feat/Halcyon Speaker Dedication|Halcyon Speaker Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

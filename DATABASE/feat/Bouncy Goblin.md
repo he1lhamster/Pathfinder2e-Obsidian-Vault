@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Bouncy Goblin
-frequency: null
-heighten_level: null
 id: '999'
+leads_to: '[[DATABASE/feat/Roll with It (Goblin)|Roll with It (Goblin)]]'
 level: '1'
 name: Bouncy Goblin
 prerequisite: '[[DATABASE/heritage/Unbreakable Goblin|Unbreakable Goblin]] heritage'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Goblin|Goblin]]'
-trigger: null
 type: Feat
 
 ---

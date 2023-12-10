@@ -1,10 +1,6 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Graveshift
 frequency: once per day
-heighten_level: null
 id: '3893'
 level: '14'
 name: Graveshift
@@ -12,18 +8,15 @@ prerequisite: '[[DATABASE/feat/Secret Eater|Secret Eater]]'
 rarity: Rare
 requirement: You are standing at the bottom of an open grave adjacent to up to four
   willing target creatures orobjects roughly the size of a creature.
-rus_type_level: null
 school: Conjuration
 source: '[[DATABASE/source/Pathfinder 184. The Ghouls Hunger|Pathfinder #184: The
   Ghouls Hunger]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Divine|Divine]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Teleportation|Teleportation]]'
-trigger: null
 type: Feat
 
 ---

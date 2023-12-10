@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Risky Surgery|Risky Surgery]]'
 id: '258'
 name: Medicinal Clocksmith
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Medicine|Medicine]]'
 - Engineering [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

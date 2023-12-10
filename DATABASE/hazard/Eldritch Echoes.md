@@ -1,29 +1,16 @@
 ﻿---
-ac: null
-all_resistance: null
 complexity: Complex
-element: null
-fortitude: null
-hardness: null
 hazard_type: Trap
-hp: null
 id: '297'
-immunity: null
 level: '20'
 name: Eldritch Echoes
 rarity: Common
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
 - '[[DATABASE/trait/Complex|Complex]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Eldritch Echoes<span class="item-type">Hazard 20</span>

@@ -1,21 +1,10 @@
 ﻿---
-ac: null
-all_resistance: null
 complexity: Complex
-element: null
-fortitude: null
-hardness: null
 hazard_type: Trap
-hp: null
 id: '308'
-immunity: null
 level: '18'
 name: The Cleansing Hall
 rarity: Rare
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 186. Ghost King''s Rage|Pathfinder #186: Ghost
   King''s Rage]]'
 trait:
@@ -25,8 +14,6 @@ trait:
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # The Cleansing Hall<span class="item-type">Hazard 18</span>

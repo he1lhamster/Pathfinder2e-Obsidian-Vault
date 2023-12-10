@@ -1,8 +1,6 @@
 ﻿---
 ac: '18'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
 climb_speed: '20'
 constitution: '+1'
@@ -10,18 +8,12 @@ creature_ability:
 - Bubble Venom
 - Fire Blast
 - Volatile Gasses
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+5'
-hardness: null
 hp: '34'
 id: '2444'
-immunity: null
 intelligence: '-4'
 land_speed: '40'
-language: null
 level: '2'
 max_speed: '40'
 name: Desa-Desa
@@ -30,8 +22,6 @@ rarity: Uncommon
 reflex: '+11'
 resistance:
 - fire 4
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Small
@@ -45,12 +35,10 @@ source: '[[DATABASE/source/Pathfinder 187. The Seventh Arch|Pathfinder #187: The
 speed:
 - 40 feet
 - climb 20 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

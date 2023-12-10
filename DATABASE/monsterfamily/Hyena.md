@@ -3,9 +3,7 @@ creature_family: Hyena
 id: '63'
 name: Hyena
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
-trait: null
 type: Creature Family
 
 ---

@@ -1,23 +1,15 @@
 ﻿---
 ac: '16'
-alignment: null
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Decompose
 - Plant Empathy
 creature_family: '[[DATABASE/monsterfamily/Geniekin|Geniekin]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+4'
-hardness: null
 hp: '17'
 id: '2686'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -29,9 +21,6 @@ name: Ardande Gardener
 perception: '+7'
 rarity: Common
 reflex: '+6'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
@@ -57,7 +46,6 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Ardande|Ardande]]'
 - '[[DATABASE/trait/Human|Human]]'
@@ -66,7 +54,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+9'
 wisdom: '+4'
 

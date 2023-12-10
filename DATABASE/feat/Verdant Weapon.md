@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Verdant Weapon
-frequency: null
-heighten_level: null
 id: '1711'
+leads_to: '[[DATABASE/feat/Pristine Weapon|Pristine Weapon]]'
 level: '1'
 name: Verdant Weapon
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Druid|Druid]]'
 - '[[DATABASE/trait/Exploration|Exploration]]'
-trigger: null
 type: Feat
 
 ---

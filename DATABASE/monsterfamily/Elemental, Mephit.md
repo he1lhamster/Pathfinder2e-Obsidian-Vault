@@ -3,9 +3,7 @@ creature_family: Elemental, Mephit
 id: '44'
 name: Elemental, Mephit
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
-trait: null
 type: Creature Family
 
 ---

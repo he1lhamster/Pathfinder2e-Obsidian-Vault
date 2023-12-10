@@ -1,23 +1,15 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Hot Foot
-frequency: null
-heighten_level: null
 id: '3254'
 level: '8'
 name: Hot Foot
 prerequisite: '[[DATABASE/feat/Pistol Phenom Dedication|Pistol Phenom Dedication]]'
 rarity: Common
 requirement: You're wielding a loaded firearm.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

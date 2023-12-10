@@ -1,28 +1,15 @@
 ﻿---
-ac: null
-all_resistance: null
 complexity: Complex
-element: null
-fortitude: null
-hardness: null
 hazard_type: Environmental
-hp: null
 id: '46'
-immunity: null
 level: '10'
 name: Perilous Flash Flood
 rarity: Common
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
 - '[[DATABASE/trait/Complex|Complex]]'
 - '[[DATABASE/trait/Environmental|Environmental]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Perilous Flash Flood<span class="item-type">Hazard 10</span>

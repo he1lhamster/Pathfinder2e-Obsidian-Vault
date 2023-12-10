@@ -1,23 +1,14 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Reset the Past
 frequency: once per day
-heighten_level: null
 id: '3857'
 level: '14'
 name: Reset the Past
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,10 +1,7 @@
 ﻿---
 ac: '42'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+9'
 creature_ability:
 - Attack of Opportunity
@@ -13,13 +10,9 @@ creature_ability:
 - Vine Splint
 creature_family: '[[DATABASE/monsterfamily/Arboreal|Arboreal]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+36'
-hardness: null
 hp: '445'
 id: '1410'
-immunity: null
 intelligence: '+6'
 land_speed: '40'
 language:
@@ -37,8 +30,6 @@ reflex: '+28'
 resistance:
 - bludgeoning 15
 - piercing 15
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) 120 feet'
@@ -62,7 +53,6 @@ strength: '+10'
 strength_req: '10'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Plant|Plant]]'
 - '[[DATABASE/trait/Rare|Rare]]'

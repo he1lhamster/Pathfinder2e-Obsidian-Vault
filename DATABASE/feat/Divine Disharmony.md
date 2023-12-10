@@ -1,27 +1,18 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Divine Disharmony
-frequency: null
-heighten_level: null
 id: '3700'
 level: '1'
 name: Divine Disharmony
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Enchantment
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Divine|Divine]]'
 - '[[DATABASE/trait/Enchantment|Enchantment]]'
 - '[[DATABASE/trait/Esoterica|Esoterica]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Thaumaturge|Thaumaturge]]'
-trigger: null
 type: Feat
 
 ---

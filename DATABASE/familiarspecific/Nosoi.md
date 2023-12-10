@@ -1,9 +1,7 @@
 ﻿---
 id: '11'
 name: Nosoi
-rus_type_level: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
-trait: null
 
 ---
 # Nosoi

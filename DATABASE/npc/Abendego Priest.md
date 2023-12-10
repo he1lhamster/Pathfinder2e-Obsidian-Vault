@@ -1,23 +1,16 @@
 ﻿---
 ac: '30'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Sneak Attack
 - Sodden Defense
 - Steady Spellcasting
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+20'
 hp: '175'
 id: '1689'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -28,9 +21,6 @@ name: Abendego Priest
 perception: '+22'
 rarity: Common
 reflex: '+21'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +21'
@@ -70,15 +60,12 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+17'
 wisdom: '+5'
 

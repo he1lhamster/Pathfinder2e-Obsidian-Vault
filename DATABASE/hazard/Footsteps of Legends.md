@@ -1,29 +1,16 @@
 ﻿---
-ac: null
-all_resistance: null
 complexity: Simple
-element: null
-fortitude: null
-hardness: null
 hazard_type: Haunt
-hp: null
 id: '123'
-immunity: null
 level: '5'
 name: Footsteps of Legends
 rarity: Unique
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 176. Lost Mammoth Valley|Pathfinder #176: Lost
   Mammoth Valley]]'
 trait:
 - '[[DATABASE/trait/Haunt|Haunt]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Footsteps of Legends<span class="item-type">Hazard 5</span>

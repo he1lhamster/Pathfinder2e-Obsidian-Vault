@@ -1,25 +1,16 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Bullet Split
-frequency: null
-heighten_level: null
 id: '3177'
 level: '8'
 name: Bullet Split
-prerequisite: null
 rarity: Common
 requirement: You're wielding a firearm or crossbow in one hand and a slashing (or
   [[DATABASE/trait/Versatile|versatile S]] ) melee weapon in the other.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Flourish|Flourish]]'
 - '[[DATABASE/trait/Gunslinger|Gunslinger]]'
-trigger: null
 type: Feat
 
 ---

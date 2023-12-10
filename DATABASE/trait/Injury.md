@@ -2,7 +2,6 @@
 id: '97'
 name: Injury
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - Injury

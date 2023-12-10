@@ -1,6 +1,5 @@
 ﻿---
 ac: '15'
-all_resistance: null
 complexity: Simple
 element: Fire
 fortitude: '+11'
@@ -15,17 +14,12 @@ level: '2'
 name: Explosive Barrels
 rarity: Common
 reflex: '+3'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 157. Devil at the Dreaming Palace|Pathfinder
   #157: Devil at the Dreaming Palace]]'
 trait:
 - '[[DATABASE/trait/Environmental|Environmental]]'
 - '[[DATABASE/trait/Fire|Fire]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Explosive Barrels<span class="item-type">Hazard 2</span>

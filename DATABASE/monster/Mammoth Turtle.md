@@ -1,10 +1,7 @@
 ﻿---
 ac: '36'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Capsize
@@ -12,27 +9,18 @@ creature_ability:
 - Fling
 - Shell Defense
 - Swallow Whole
-creature_family: null
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+26'
-hardness: null
 hp: '270'
 id: '1458'
-immunity: null
 intelligence: '-4'
 land_speed: '20'
-language: null
 level: '14'
 max_speed: '50'
 name: Mammoth Turtle
 perception: '+24'
 rarity: Rare
 reflex: '+22'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -44,7 +32,6 @@ source: '[[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #
 speed:
 - 20 feet
 - swim 50 feet
-spell: null
 strength: '+9'
 strength_req: '9'
 strongest_save:
@@ -58,7 +45,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Reflex
-weakness: null
 will: '+26'
 wisdom: '+5'
 

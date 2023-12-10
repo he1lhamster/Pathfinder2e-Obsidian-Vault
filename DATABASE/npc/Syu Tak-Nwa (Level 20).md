@@ -1,10 +1,7 @@
 ﻿---
 ac: '42'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Dragline Trip
@@ -12,10 +9,7 @@ creature_ability:
 - Familiar
 - Silkworm's Basket
 - Spiraling Web
-creature_family: null
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+31'
 hp: '360'
 id: '1525'
@@ -34,8 +28,6 @@ name: Syu Tak-Nwa (Level 20)
 perception: '+33'
 rarity: Unique
 reflex: '+32'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Tremorsense|tremorsense]] (precise) 60 feet'
 size: Medium
@@ -89,16 +81,13 @@ strength: '+3'
 strength_req: '3'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+36'
 wisdom: '+3'
 

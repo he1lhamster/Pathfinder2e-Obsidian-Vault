@@ -5,12 +5,9 @@ ability:
 ability_boost:
 - Strength
 - Intelligence
-feat: null
 id: '264'
 name: Saved by Clockwork
-prerequisite: null
 rarity: Rare
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Crafting|Crafting]]'
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'

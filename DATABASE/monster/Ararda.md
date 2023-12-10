@@ -1,10 +1,8 @@
 ﻿---
 ac: '43'
 alignment: LE
-all_resistance: null
 burrow_speed: '45'
 charisma: '+6'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Blightburn Radiation
@@ -16,7 +14,6 @@ dexterity: '+6'
 element: Earth
 fly_speed: '20'
 fortitude: '+33'
-hardness: null
 hp: '280'
 id: '874'
 immunity:
@@ -34,8 +31,6 @@ rarity: Rare
 reflex: '+30'
 resistance:
 - electricity 20
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/spell/Detect Magic|detect magic]]'
@@ -67,7 +62,6 @@ strength: '+9'
 strength_req: '9'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Elemental|Elemental]]'

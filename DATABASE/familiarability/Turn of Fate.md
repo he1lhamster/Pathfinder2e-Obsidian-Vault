@@ -5,10 +5,7 @@ frequency: once per day; <b>Range</b> 30 feet
 id: '89'
 name: Turn of Fate
 rarity: Common
-requirement: null
-rus_type_level: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-trait: null
 type: Familiar Ability
 
 ---

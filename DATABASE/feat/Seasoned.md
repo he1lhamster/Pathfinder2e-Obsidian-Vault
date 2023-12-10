@@ -1,25 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Seasoned
-frequency: null
-heighten_level: null
 id: '2149'
 level: '1'
 name: Seasoned
 prerequisite: Trained in [[DATABASE/skill/Lore|Alcohol Lore]] , Trained in [[DATABASE/skill/Lore|Cooking
   Lore]] , or Trained in [[DATABASE/skill/Crafting|Crafting]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: crafting
 trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,20 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: No! No! I Created You!
 frequency: once per minute
-heighten_level: null
 id: '3047'
 level: '1'
 name: No! No! I Created You!
 prerequisite: construct companion
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Auditory|Auditory]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'

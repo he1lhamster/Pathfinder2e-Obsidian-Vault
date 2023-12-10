@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Lengthy Diversion|Lengthy Diversion]]'
 id: '171'
 name: Insurgent
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Deception|Deception]]'
 - Warfare [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

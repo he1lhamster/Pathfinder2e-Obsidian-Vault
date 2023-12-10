@@ -1,24 +1,16 @@
 ﻿---
 ac: '18'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Inkstain
 - Mage Bond
 - Transcribe
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+6'
-hardness: null
 hp: '45'
 id: '1288'
-immunity: null
 intelligence: '+4'
 land_speed: '20'
 language:
@@ -31,9 +23,6 @@ name: Scalescribe
 perception: '+11'
 rarity: Common
 reflex: '+10'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Tiny
@@ -58,14 +47,12 @@ strength: '-2'
 strength_req: '-2'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+11'
 wisdom: '+4'
 

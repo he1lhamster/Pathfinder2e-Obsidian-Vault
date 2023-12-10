@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Bend Space
-frequency: null
-heighten_level: null
 id: '3980'
 level: '17'
 name: Bend Space
 prerequisite: '[[DATABASE/feat/Transcendent Realization|Transcendent Realization]]'
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Kashrishi|Kashrishi]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

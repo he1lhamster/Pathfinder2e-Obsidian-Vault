@@ -1,23 +1,16 @@
 ﻿---
 ac: '25'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Axe Vulnerability
 - Leech Moisture
 creature_family: '[[DATABASE/monsterfamily/Arboreal|Arboreal]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+17'
-hardness: null
 hp: '130'
 id: '1067'
-immunity: null
 intelligence: '+2'
 land_speed: '25'
 language:
@@ -33,8 +26,6 @@ reflex: '+13'
 resistance:
 - bludgeoning 5
 - piercing 5
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Large
@@ -53,7 +44,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Plant|Plant]]'
 type: Creature

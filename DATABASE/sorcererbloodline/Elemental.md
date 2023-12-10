@@ -3,7 +3,6 @@ bloodline: Elemental
 id: '6'
 name: Elemental
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 spell:
 - '[[DATABASE/spell/Burning Hands|Burning Hands]]'
@@ -19,7 +18,6 @@ spell:
 - '[[DATABASE/spell/Repulsion|Repulsion]]'
 - '[[DATABASE/spell/Resist Energy|Resist Energy]]'
 - '[[DATABASE/spell/Storm of Vengeance|Storm of Vengeance]]'
-trait: null
 type: Sorcerer Bloodline
 
 ---

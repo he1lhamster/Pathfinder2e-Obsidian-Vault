@@ -1,10 +1,6 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Reveal True Name
-frequency: null
-heighten_level: null
 id: '3028'
 level: '1'
 name: Reveal True Name
@@ -12,9 +8,6 @@ prerequisite: trained in [[DATABASE/skill/Intimidation|Intimidation]] and at lea
   one of [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]] , [[DATABASE/skill/Occultism|Occult]]
   , and [[DATABASE/skill/Religion|Religion]]
 rarity: Rare
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: arcana
 trait:
@@ -26,7 +19,6 @@ trait:
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Skill|Skill]]'
 - '[[DATABASE/trait/True Name|TrueName]]'
-trigger: null
 type: Feat
 
 ---

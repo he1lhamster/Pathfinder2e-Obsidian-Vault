@@ -1,27 +1,14 @@
 ﻿---
 actions: '[reaction]'
-area: null
-bloodline: null
 component:
 - Verbal
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
 heighten: 9th
 heighten_level: 6, 9
 id: '1232'
-lesson: null
 level: '6'
-mystery: null
 name: Word of Revision
-patron_theme: null
 range: 60 feet
 rarity: Rare
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
 target: 1 creature

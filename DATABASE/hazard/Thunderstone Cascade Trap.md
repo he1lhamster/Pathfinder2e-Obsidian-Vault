@@ -1,8 +1,6 @@
 ﻿---
 ac: '26'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+15'
 hardness: '0'
 hazard_type: Trap
@@ -16,9 +14,6 @@ level: '7'
 name: Thunderstone Cascade Trap
 rarity: Uncommon
 reflex: '+13'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 152. Legacy of the Lost God|Pathfinder #152:
   Legacy of the Lost God]]'
 trait:
@@ -26,8 +21,6 @@ trait:
 - '[[DATABASE/trait/Trap|Trap]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Thunderstone Cascade Trap<span class="item-type">Hazard 7</span>

@@ -1,24 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Scroll Esoterica
-frequency: null
-heighten_level: null
 id: '3713'
+leads_to: '[[DATABASE/feat/Elaborate Scroll Esoterica|Elaborate Scroll Esoterica]]'
 level: '6'
 name: Scroll Esoterica
 prerequisite: '[[DATABASE/feat/Scroll Thaumaturgy|Scroll Thaumaturgy]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Esoterica|Esoterica]]'
 - '[[DATABASE/trait/Thaumaturge|Thaumaturge]]'
-trigger: null
 type: Feat
 
 ---

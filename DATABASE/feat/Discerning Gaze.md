@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Discerning Gaze
-frequency: null
-heighten_level: null
 id: '3332'
 level: '6'
 name: Discerning Gaze
 prerequisite: '[[DATABASE/feat/Vigilante Dedication|Vigilante Dedication]] ; member
   of the Gray Gardeners'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Night of the Gray Death|Night of the Gray Death]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

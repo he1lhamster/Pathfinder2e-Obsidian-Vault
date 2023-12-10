@@ -1,10 +1,7 @@
 ﻿---
 ac: '32'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Attack of Opportunity
@@ -14,12 +11,8 @@ creature_ability:
 - ''
 - Reactive Tentacles
 - Twist Deviance
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+23'
-hardness: null
 hp: '215'
 id: '2514'
 immunity:
@@ -43,8 +36,6 @@ reflex: '+22'
 resistance:
 - '[[DATABASE/trait/Fire|fire]] 10'
 - '[[DATABASE/trait/Mental|mental]] 10'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -67,7 +58,6 @@ strength_req: '7'
 strongest_save:
 - Fortitude
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Cold|Cold]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -76,7 +66,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+23'
 wisdom: '+5'
 

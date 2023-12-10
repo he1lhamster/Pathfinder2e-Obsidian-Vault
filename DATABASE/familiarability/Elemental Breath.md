@@ -5,10 +5,7 @@ frequency: once per hour
 id: '103'
 name: Elemental Breath
 rarity: Common
-requirement: null
-rus_type_level: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-trait: null
 type: Familiar Ability
 
 ---

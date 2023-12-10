@@ -1,8 +1,6 @@
 ﻿---
 ac: '16'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
 climb_speed: '20'
 constitution: '+5'
@@ -12,12 +10,8 @@ creature_ability:
 - Constrict
 - Cooling Glob
 - Smoldering Haze
-creature_family: null
 dexterity: '-3'
-element: null
-fly_speed: null
 fortitude: '+18'
-hardness: null
 hp: '160'
 id: '984'
 immunity:
@@ -31,16 +25,12 @@ immunity:
 - '[[DATABASE/trait/Visual|visual]]'
 intelligence: '-5'
 land_speed: '20'
-language: null
 level: '7'
 max_speed: '20'
 name: Fuming Sludge
 perception: '+11'
 rarity: Uncommon
 reflex: '+8'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - chemical sense 60 feet
 - no vision
@@ -51,18 +41,15 @@ source: '[[DATABASE/source/The Slithering|The Slithering]]'
 speed:
 - 20 feet
 - climb 20 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Mindless|Mindless]]'
 - '[[DATABASE/trait/Ooze|Ooze]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
 weakness:

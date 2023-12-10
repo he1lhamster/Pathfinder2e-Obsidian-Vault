@@ -1,45 +1,16 @@
 ﻿---
-ac: null
 actions: '[reaction]'
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '238'
 item_category: Consumables
 item_subcategory: Talismans
-land_speed: null
 level: '14'
-max_speed: null
 name: Viper's Fang
-onset: null
 price: 850 gp
-range: null
 rarity: Common
-reflex: null
 requirement: You are a master with the affixed weapon
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
-size: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-spell: null
-stage: null
 subcategory: consumable/talisman
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Consumable|Consumable]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
@@ -49,9 +20,6 @@ trigger: A creature within your reach uses a manipulate or move action, makes a 
   attack, or leaves asquare during a moving action it's using
 type: Item
 usage: affixed to a weapon
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Viper's Fang<span class="item-type">Item 14</span>

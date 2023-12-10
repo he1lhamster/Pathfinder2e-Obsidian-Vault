@@ -8,9 +8,7 @@ ability_boost:
 feat: '[[DATABASE/feat/Natural Medicine|Natural Medicine]]'
 id: '399'
 name: Osprey Barnraiser
-prerequisite: null
 rarity: Rare
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Nature|Nature]]'
 - Architecture [[DATABASE/skill/Lore|Lore]]

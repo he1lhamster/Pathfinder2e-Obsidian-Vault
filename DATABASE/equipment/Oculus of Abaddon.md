@@ -1,45 +1,12 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '1747'
 item_category: Artifacts
-item_subcategory: null
-land_speed: null
 level: '15'
-max_speed: null
 name: Oculus of Abaddon
-onset: null
-price: null
-range: null
 rarity: Rare
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Conjuration
-size: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
-spell: null
-stage: null
 subcategory: artifact
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Artifact|Artifact]]'
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
@@ -48,12 +15,7 @@ trait:
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Item
-usage: null
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Oculus of Abaddon<span class="item-type">Item 15</span>

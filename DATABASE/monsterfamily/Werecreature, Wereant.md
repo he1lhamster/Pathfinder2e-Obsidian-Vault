@@ -3,10 +3,8 @@ creature_family: Werecreature, Wereant
 id: '302'
 name: Werecreature, Wereant
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 174. Shadows of the Ancients|Pathfinder #174:
   Shadows of the Ancients]]'
-trait: null
 type: Creature Family
 
 ---

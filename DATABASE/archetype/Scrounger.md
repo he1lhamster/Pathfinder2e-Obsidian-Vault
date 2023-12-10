@@ -4,7 +4,6 @@ level: '2'
 name: Scrounger
 prerequisite: Trained in [[DATABASE/skill/Crafting|Crafting]]
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

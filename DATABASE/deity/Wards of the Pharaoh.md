@@ -30,11 +30,9 @@ follower_alignment:
 id: '208'
 name: Wards of the Pharaoh
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Medicine|Medicine]]'
 source: '[[DATABASE/source/Friends in High Places|Friends in High Places]]'
-trait: null
 type: Deity
 
 ---

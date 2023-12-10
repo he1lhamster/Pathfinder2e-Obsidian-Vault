@@ -1,23 +1,17 @@
 ﻿---
 ac: '23'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
 climb_speed: '10'
 constitution: '+3'
 creature_ability:
 - Forge Jewelry
 - Philanthropic Bile
-creature_family: null
 dexterity: '+4'
 element: Earth
-fly_speed: null
 fortitude: '+15'
-hardness: null
 hp: '100'
 id: '1075'
-immunity: null
 intelligence: '+1'
 land_speed: '30'
 language:
@@ -31,9 +25,6 @@ name: Bauble Beast
 perception: '+13'
 rarity: Uncommon
 reflex: '+12'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -50,13 +41,11 @@ source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 30 feet
 - climb 10 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Earth|Earth]]'
@@ -65,7 +54,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+15'
 wisdom: '+3'
 

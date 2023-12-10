@@ -1,8 +1,6 @@
 ﻿---
 ac: '18'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+11'
 hardness: '7'
 hazard_type: Environmental
@@ -17,9 +15,6 @@ level: '2'
 name: Ostovite Nest
 rarity: Rare
 reflex: '+5'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 181. Zombie Feast|Pathfinder #181: Zombie Feast]]'
 trait:
 - '[[DATABASE/trait/Complex|Complex]]'
@@ -30,7 +25,6 @@ weakness:
 - area damage 5
 - bludgeoning 5
 - '[[DATABASE/trait/Splash|splash]] damage 5'
-will: null
 
 ---
 # Ostovite Nest<span class="item-type">Hazard 2</span>

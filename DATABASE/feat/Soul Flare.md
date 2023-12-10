@@ -1,20 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Soul Flare
-frequency: null
-heighten_level: null
 id: '3017'
 level: '4'
 name: Soul Flare
 prerequisite: '[[DATABASE/feat/Soulforger Dedication|Soulforger Dedication]]'
 rarity: Common
 requirement: Your soulforged armament is manifested.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'

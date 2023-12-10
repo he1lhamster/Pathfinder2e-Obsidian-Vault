@@ -2,7 +2,6 @@
 id: '407'
 name: Injection
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 trait:
 - Injection

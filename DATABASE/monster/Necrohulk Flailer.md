@@ -1,8 +1,6 @@
 ﻿---
 ac: '32'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
 climb_speed: '25'
 constitution: '+5'
@@ -13,10 +11,7 @@ creature_ability:
 - Tentacle Storm
 creature_family: '[[DATABASE/monsterfamily/Necrohulk|Necrohulk]]'
 dexterity: '+8'
-element: null
-fly_speed: null
 fortitude: '+23'
-hardness: null
 hp: 295 ( negative healing )
 id: '2364'
 immunity:
@@ -36,9 +31,6 @@ name: Necrohulk Flailer
 perception: '+23'
 rarity: Uncommon
 reflex: '+26'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -50,12 +42,10 @@ source: '[[DATABASE/source/Pathfinder 185. A Taste of Ashes|Pathfinder #185: A T
 speed:
 - 30 feet
 - climb 25 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Mutant|Mutant]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

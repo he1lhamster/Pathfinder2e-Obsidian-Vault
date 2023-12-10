@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Alchemical Scholar
-frequency: null
-heighten_level: null
 id: '1024'
 level: '1'
 name: Alchemical Scholar
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Hobgoblin|Hobgoblin]]'
-trigger: null
 type: Feat
 
 ---

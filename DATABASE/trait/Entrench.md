@@ -2,7 +2,6 @@
 id: '474'
 name: Entrench
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 trait:
 - Entrench

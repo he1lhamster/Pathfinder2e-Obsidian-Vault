@@ -1,19 +1,14 @@
 ﻿---
 ac: '14'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Gotcha!
 creature_family: '[[DATABASE/monsterfamily/Animated Bones|Animated Bones]]'
 dexterity: '+1'
-element: null
 fly_speed: '25'
 fortitude: '+4'
-hardness: null
 hp: '7'
 id: '2028'
 immunity:
@@ -31,8 +26,6 @@ immunity:
 - '[[DATABASE/condition/Sickened|sickened]]'
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
-land_speed: null
-language: null
 level: '-1'
 max_speed: '25'
 name: Floating Femur
@@ -45,8 +38,6 @@ resistance:
 - '[[DATABASE/trait/Fire|fire]] 2'
 - piercing 2
 - slashing 2
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Tiny
@@ -56,12 +47,10 @@ skill:
 source: '[[DATABASE/source/Pathfinder 181. Zombie Feast|Pathfinder #181: Zombie Feast]]'
 speed:
 - fly 25 feet
-spell: null
 strength: '+1'
 strength_req: '1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Mindless|Mindless]]'
@@ -70,7 +59,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+3'
 wisdom: '+0'
 

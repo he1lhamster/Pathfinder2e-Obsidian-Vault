@@ -1,10 +1,7 @@
 ﻿---
 ac: '26'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '-3'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Flammable
@@ -14,10 +11,7 @@ creature_ability:
 - Vomit Tar
 creature_family: '[[DATABASE/monsterfamily/Zombie, Tar|Zombie, Tar]]'
 dexterity: '-1'
-element: null
-fly_speed: null
 fortitude: '+22'
-hardness: null
 hp: 240 ( negative healing )
 id: '1819'
 immunity:
@@ -29,16 +23,12 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '30'
-language: null
 level: '9'
 max_speed: '30'
 name: Tar Zombie Mammoth
 perception: '+18'
 rarity: Uncommon
 reflex: '+14'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Huge
@@ -49,12 +39,10 @@ source: '[[DATABASE/source/Pathfinder 177. Burning Tundra|Pathfinder #177: Burni
   Tundra]]'
 speed:
 - 30 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Mindless|Mindless]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

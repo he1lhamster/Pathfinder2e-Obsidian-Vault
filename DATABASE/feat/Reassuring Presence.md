@@ -1,20 +1,11 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Reassuring Presence
-frequency: null
-heighten_level: null
 id: '2763'
 level: '1'
 name: Reassuring Presence
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Anadi|Anadi]]'
 - '[[DATABASE/trait/Auditory|Auditory]]'

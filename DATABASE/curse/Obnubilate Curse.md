@@ -1,10 +1,8 @@
 ﻿---
-element: null
 id: '49'
 level: '10'
 name: Obnubilate Curse
 rarity: Common
-rus_type_level: null
 saving_throw: DC 27 Fortitude
 school: Enchantment
 source: '[[DATABASE/source/Pathfinder 187. The Seventh Arch|Pathfinder #187: The Seventh
@@ -17,7 +15,6 @@ trait:
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Shadow|Shadow]]'
 type: Curse
-usage: null
 
 ---
 # Obnubilate Curse<span class="item-type">Curse 10</span>

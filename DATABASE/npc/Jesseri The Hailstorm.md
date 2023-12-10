@@ -1,22 +1,15 @@
 ﻿---
 ac: '29'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Child of Winter
 - Signature Spells
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+21'
 hp: '150'
 id: '1828'
-immunity: null
 intelligence: '+2'
 land_speed: '25'
 language:
@@ -30,8 +23,6 @@ rarity: Unique
 reflex: '+20'
 resistance:
 - '[[DATABASE/trait/Cold|cold]] 10'
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Lore|Mammoth Lord Lore]] +16'
@@ -69,16 +60,13 @@ strength_req: '0'
 strongest_save:
 - Fortitude
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+21'
 wisdom: '+5'
 

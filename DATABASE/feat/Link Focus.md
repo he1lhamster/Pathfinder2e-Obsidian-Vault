@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Link Focus
-frequency: null
-heighten_level: null
 id: '2930'
+leads_to: '[[DATABASE/feat/Link Wellspring|Link Wellspring]]'
 level: '12'
 name: Link Focus
 prerequisite: link spells
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Summoner|Summoner]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,8 +1,5 @@
 ﻿---
 ac: '36'
-burrow_speed: null
-climb_speed: null
-fly_speed: null
 fortitude: '+28'
 hardness: '20'
 hp: '250'
@@ -14,13 +11,8 @@ max_speed: '40'
 name: Clockwork Castle
 price: 30,000 gp
 rarity: Rare
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 size: Gargantuan
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Vehicle

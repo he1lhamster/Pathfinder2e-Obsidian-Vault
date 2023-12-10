@@ -1,40 +1,25 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Aakriti|Aakriti]]'
 - '[[DATABASE/deity/Isis|Isis]]'
-domain: null
 duration: 1 minute
-element: null
-heighten: null
 heighten_level: '9'
 id: '278'
-lesson: null
 level: '9'
-mystery: null
 name: Shapechange
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Arcane
 - Primal
 trait:
 - '[[DATABASE/trait/Polymorph|Polymorph]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Spell
 
 ---

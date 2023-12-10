@@ -1,24 +1,14 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Silent Step
-frequency: null
-heighten_level: null
 id: '2326'
 level: '9'
 name: Silent Step
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Catfolk|Catfolk]]'
 - '[[DATABASE/trait/Flourish|Flourish]]'
-trigger: null
 type: Feat
 
 ---

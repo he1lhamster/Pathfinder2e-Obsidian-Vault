@@ -1,26 +1,20 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Soaring Flight
 frequency: once per day
-heighten_level: null
 id: '1320'
+leads_to: '[[DATABASE/feat/Soaring Form|Soaring Form]]'
 level: '9'
 name: Soaring Flight
 prerequisite: '[[DATABASE/heritage/Skyborn Tengu|Skyborn Tengu]] heritage'
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Morph|Morph]]'
 - '[[DATABASE/trait/Primal|Primal]]'
 - '[[DATABASE/trait/Tengu|Tengu]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Feat
 
 ---

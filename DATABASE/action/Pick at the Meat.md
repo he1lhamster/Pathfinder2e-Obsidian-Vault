@@ -1,17 +1,10 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
-frequency: null
 id: '1270'
 name: Pick at the Meat
 rarity: Common
 requirement: The animal companion's last action was a successful jaws Strike.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 181. Zombie Feast|Pathfinder #181: Zombie Feast]]'
-trait: null
-trigger: null
 type: Action
 
 ---

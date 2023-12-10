@@ -1,45 +1,16 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
 base_item: '[[DATABASE/weapon/Lance|Lance]]'
 bulk: '2'
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
 element: Fire
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '517'
 item_category: Weapons
 item_subcategory: Specific Magic Weapons
-land_speed: null
 level: '15'
-max_speed: null
 name: Radiant Lance
-onset: null
 price: 5,750 gp
-range: null
 rarity: Uncommon
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
-size: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-spell: null
-stage: null
-subcategory: null
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Divine|Divine]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
@@ -47,12 +18,8 @@ trait:
 - '[[DATABASE/trait/Good|Good]]'
 - '[[DATABASE/trait/Light|Light]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Item
 usage: held in 2 hands
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Radiant Lance<span class="item-type">Item 15</span>

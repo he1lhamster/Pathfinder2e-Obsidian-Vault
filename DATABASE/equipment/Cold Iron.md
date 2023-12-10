@@ -1,53 +1,15 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '272'
 item_category: Materials
-item_subcategory: null
-land_speed: null
-level: '15'
-max_speed: null
+level: '7'
 name: Cold Iron
-onset: null
-price: 4,500 gp (per Bulk)
-range: null
+price: 250 gp (per Bulk)
 rarity: Common
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
-school: null
-size: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-spell: null
-stage: null
 subcategory: material
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Precious|Precious]]'
-trigger: null
 type: Item
-usage: null
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Cold Iron<span class="item-type">Item 0+</span>

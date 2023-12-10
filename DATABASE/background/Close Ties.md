@@ -8,9 +8,7 @@ ability_boost:
 feat: '[[DATABASE/feat/Specialty Crafting|Specialty Crafting]]'
 id: '393'
 name: Close Ties
-prerequisite: null
 rarity: Rare
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Diplomacy|Diplomacy]]'
 - Tea [[DATABASE/skill/Lore|Lore]]

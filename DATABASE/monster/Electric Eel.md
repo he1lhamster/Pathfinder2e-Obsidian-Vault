@@ -1,25 +1,17 @@
 ﻿---
 ac: '16'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Stunning Shock
 creature_family: '[[DATABASE/monsterfamily/Eel|Eel]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+7'
-hardness: null
 hp: '18'
 id: '174'
-immunity: null
 intelligence: '-5'
 land_speed: '5'
-language: null
 level: '1'
 max_speed: '30'
 name: Electric Eel
@@ -28,8 +20,6 @@ rarity: Common
 reflex: '+7'
 resistance:
 - electricity 7
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 size: Small
@@ -40,7 +30,6 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 5 feet
 - swim 30 feet
-spell: null
 strength: '+1'
 strength_req: '1'
 strongest_save:
@@ -54,7 +43,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+4'
 wisdom: '+1'
 

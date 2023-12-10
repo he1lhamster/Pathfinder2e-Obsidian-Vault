@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Control Tower
-frequency: null
-heighten_level: null
 id: '3125'
 level: '14'
 name: Control Tower
 prerequisite: '[[DATABASE/feat/Overwatch Dedication|Overwatch Dedication]] ; master
   in Perception'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

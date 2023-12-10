@@ -1,19 +1,14 @@
 ﻿---
 ac: '15'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Gnash
 creature_family: '[[DATABASE/monsterfamily/Beheaded|Beheaded]]'
 dexterity: '+2'
-element: null
 fly_speed: '25'
 fortitude: '+4'
-hardness: null
 hp: 7 ( negative healing )
 id: '1077'
 immunity:
@@ -25,16 +20,12 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '15'
-language: null
 level: '-1'
 max_speed: '25'
 name: Severed Head
 perception: '+6'
 rarity: Common
 reflex: '+6'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Tiny
@@ -44,12 +35,10 @@ source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 15 feet
 - fly 25 feet
-spell: null
 strength: '+1'
 strength_req: '1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Mindless|Mindless]]'
 - '[[DATABASE/trait/Undead|Undead]]'

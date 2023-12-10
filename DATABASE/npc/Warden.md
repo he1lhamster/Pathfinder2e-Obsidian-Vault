@@ -1,22 +1,16 @@
 ﻿---
 ac: '25'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Warden's Protection
 - Warding Strike Trigger
 creature_family: '[[DATABASE/monsterfamily/Magistrates|Magistrates]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+12'
 hp: '96'
 id: '920'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -27,9 +21,6 @@ name: Warden
 perception: '+12'
 rarity: Common
 reflex: '+12'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +14'
@@ -39,24 +30,20 @@ skill:
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 speed:
 - 25 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
 - Reflex
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
 - Reflex
 - Will
-weakness: null
 will: '+12'
 wisdom: '+2'
 

@@ -1,30 +1,18 @@
 ﻿---
 actions: '[one-action]'
-area: null
 bloodline: '[[DATABASE/sorcererbloodline/Draconic|Draconic]]'
 component:
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: until the start of your next turn
-element: null
 heighten: 3rd, 5th, 7th, 9th
 heighten_level: 1, 3, 5, 7, 9
 id: '280'
-lesson: null
 level: '1'
 mystery: '[[DATABASE/oraclemystery/Battle|Battle]]'
 name: Shield
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Arcane
 - Divine
@@ -34,7 +22,6 @@ trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Cantrip|Cantrip]]'
 - '[[DATABASE/trait/Force|Force]]'
-trigger: null
 type: Cantrip
 
 ---

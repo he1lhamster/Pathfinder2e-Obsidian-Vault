@@ -1,10 +1,7 @@
 ﻿---
 ac: '35'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Attack of Opportunity
@@ -12,14 +9,10 @@ creature_ability:
 - Leaping Catch
 - Titan Wrestler
 - Whirlwind Toss
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+28'
 hp: '330'
 id: '1476'
-immunity: null
 intelligence: '-1'
 land_speed: '20'
 language:
@@ -33,8 +26,6 @@ name: Ran-to
 perception: '+20'
 rarity: Unique
 reflex: '+24'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -48,12 +39,10 @@ source: '[[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #
   Despair on Danger Island]]'
 speed:
 - 20 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Goblin|Goblin]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -62,7 +51,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+21'
 wisdom: '+1'
 

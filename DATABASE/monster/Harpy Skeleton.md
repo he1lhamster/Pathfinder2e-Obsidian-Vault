@@ -1,19 +1,14 @@
 ﻿---
 ac: '22'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Shriek
 creature_family: '[[DATABASE/monsterfamily/Skeleton|Skeleton]]'
 dexterity: '+4'
-element: null
 fly_speed: '40'
 fortitude: '+11'
-hardness: null
 hp: 60 ( negative healing )
 id: '1298'
 immunity:
@@ -25,7 +20,6 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '20'
-language: null
 level: '5'
 max_speed: '40'
 name: Harpy Skeleton
@@ -38,8 +32,6 @@ resistance:
 - fire 5
 - piercing 5
 - slashing 5
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -50,12 +42,10 @@ source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 20 feet
 - fly 40 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Mindless|Mindless]]'
 - '[[DATABASE/trait/Skeleton|Skeleton]]'
@@ -64,7 +54,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+9'
 wisdom: '+0'
 

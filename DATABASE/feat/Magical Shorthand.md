@@ -1,25 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Magical Shorthand
-frequency: null
-heighten_level: null
 id: '813'
 level: '2'
 name: Magical Shorthand
 prerequisite: Expert in [[DATABASE/skill/Arcana|Arcana]] , Expert in [[DATABASE/skill/Nature|Nature]]
   , Expert in [[DATABASE/skill/Occultism|Occultism]] , or Expert in [[DATABASE/skill/Religion|Religion]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: arcana
 trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

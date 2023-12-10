@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Slayer's Blessing
-frequency: null
-heighten_level: null
 id: '3481'
 level: '8'
 name: Slayer's Blessing
 prerequisite: '[[DATABASE/feat/Slayer''s Strike|Slayer''s Strike]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
-trigger: null
 type: Feat
 
 ---

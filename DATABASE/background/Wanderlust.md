@@ -1,17 +1,7 @@
 ﻿---
-ability: null
-ability_boost: null
-feat: null
 id: '348'
 name: Wanderlust
-prerequisite: null
-rarity: null
-rus_type_level: null
-skill: null
 source: '[[DATABASE/source/Gatewalkers Player''s Guide|Gatewalkers Player''s Guide]]'
-subcategory: null
-trait: null
-type: null
 
 ---
 # Wanderlust<span class="item-type">Background</span>

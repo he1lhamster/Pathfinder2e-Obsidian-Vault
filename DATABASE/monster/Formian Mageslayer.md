@@ -1,10 +1,7 @@
 ﻿---
 ac: '38'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Disrupting Aura
@@ -14,10 +11,8 @@ creature_ability:
 - Stupefying Touch
 creature_family: '[[DATABASE/monsterfamily/Formian|Formian]]'
 dexterity: '+8'
-element: null
 fly_speed: '30'
 fortitude: '+25'
-hardness: null
 hp: '240'
 id: '1671'
 immunity:
@@ -36,8 +31,6 @@ reflex: '+28'
 resistance:
 - '[[DATABASE/trait/Sonic|sonic]] 15'
 - spell resistance
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -56,12 +49,10 @@ source: '[[DATABASE/source/Pathfinder 173. Doorway to the Red Star|Pathfinder #1
 speed:
 - 30 feet
 - fly 30 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Formian|Formian]]'
 - '[[DATABASE/trait/Mutant|Mutant]]'
@@ -70,7 +61,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+30'
 wisdom: '+7'
 

@@ -5,7 +5,6 @@ name: Hellknight Armiger
 prerequisite: member of a Hellknight Order; trained in heavy armor as well as your
   order's favored weapon
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/World Guide|World Guide]]'
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

@@ -1,26 +1,17 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Titan Swing
-frequency: null
-heighten_level: null
 id: '3785'
 level: '2'
 name: Titan Swing
-prerequisite: null
 rarity: Rare
-requirement: null
-rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Gatewalkers Player''s Guide|Gatewalkers Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Deviant|Deviant]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Feat
 
 ---

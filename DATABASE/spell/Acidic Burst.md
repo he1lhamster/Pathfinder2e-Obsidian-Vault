@@ -1,39 +1,26 @@
 ﻿---
 actions: '[two-actions]'
 area: 5-foot emanation
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Geryon|Geryon]]'
-domain: null
-duration: null
-element: null
 heighten: '+1'
 heighten_level: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
 id: '565'
-lesson: null
 level: '1'
-mystery: null
 name: Acidic Burst
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: basicReflex
 school: Evocation
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
-target: null
 tradition:
 - Arcane
 - Primal
 trait:
 - '[[DATABASE/trait/Acid|Acid]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
-trigger: null
 type: Spell
 
 ---

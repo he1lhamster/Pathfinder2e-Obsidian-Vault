@@ -1,10 +1,6 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Purifying Breeze
-frequency: null
-heighten_level: null
 id: '3643'
 level: '14'
 name: Purifying Breeze
@@ -12,16 +8,12 @@ prerequisite: divinespells
 rarity: Uncommon
 requirement: Your most recent action was to cast a non-cantrip spell with the [[DATABASE/trait/Healing|healing]]
   trait.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Cleric|Cleric]]'
 - '[[DATABASE/trait/Oracle|Oracle]]'
 - '[[DATABASE/trait/Sorcerer|Sorcerer]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Azarketi Purification
-frequency: null
-heighten_level: null
 id: '2305'
 level: '9'
 name: Azarketi Purification
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Azarketi|Azarketi]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,32 +1,19 @@
 ﻿---
 actions: '[three-actions]'
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: until the end of your next turn
-element: null
 heighten: '+2'
 heighten_level: 5, 7, 9
 id: '1257'
-lesson: null
 level: '5'
-mystery: null
 name: Summon Healing Servitor
-patron_theme: null
 range: 100 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-target: null
 tradition:
 - Divine
 - Primal
@@ -36,7 +23,6 @@ trait:
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Positive|Positive]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Spell
 
 ---

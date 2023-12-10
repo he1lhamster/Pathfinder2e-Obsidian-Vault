@@ -3,9 +3,7 @@ creature_family: Threshold of Knowledge Pregenerated Characters
 id: '298'
 name: Threshold of Knowledge Pregenerated Characters
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Threshold of Knowledge|Threshold of Knowledge]]'
-trait: null
 type: Creature Family
 
 ---

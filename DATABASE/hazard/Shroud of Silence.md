@@ -1,29 +1,16 @@
 ﻿---
-ac: null
-all_resistance: null
 complexity: Simple
-element: null
-fortitude: null
-hardness: null
 hazard_type: Environmental
-hp: null
 id: '360'
-immunity: null
 level: '4'
 name: Shroud of Silence
 rarity: Common
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 188. They Watched the Stars|Pathfinder #188:
   They Watched the Stars]]'
 trait:
 - '[[DATABASE/trait/Environmental|Environmental]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Shroud of Silence<span class="item-type">Hazard 4</span>

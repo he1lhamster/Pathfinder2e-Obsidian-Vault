@@ -1,10 +1,6 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Emergency Targe
-frequency: null
-heighten_level: null
 id: '2855'
 level: '4'
 name: Emergency Targe
@@ -13,10 +9,7 @@ prerequisite: '[[DATABASE/magushybridstudy/Sparkling Targe|sparkling targe hybri
 rarity: Common
 requirement: You are wielding a shield or have the [[DATABASE/spell/Shield|shield]]
   spell prepared.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Magus|Magus]]'
 trigger: An enemy hits you with a melee Strike or a melee spell attack roll, or you

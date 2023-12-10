@@ -1,9 +1,7 @@
 ﻿---
 id: '20'
 name: Talking Head
-rus_type_level: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-trait: null
 
 ---
 # Talking Head

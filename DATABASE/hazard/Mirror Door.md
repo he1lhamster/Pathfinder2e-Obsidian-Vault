@@ -1,29 +1,16 @@
 ﻿---
-ac: null
-all_resistance: null
 complexity: Simple
-element: null
-fortitude: null
-hardness: null
 hazard_type: Trap
-hp: null
 id: '178'
-immunity: null
 level: '-1'
 name: Mirror Door
 rarity: Common
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 trait:
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 - '[[DATABASE/trait/Visual|Visual]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Mirror Door<span class="item-type">Hazard -1</span>

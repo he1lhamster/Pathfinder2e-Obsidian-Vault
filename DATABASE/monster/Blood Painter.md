@@ -1,8 +1,6 @@
 ﻿---
 ac: '27'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
 climb_speed: '15'
 constitution: '+3'
@@ -11,15 +9,10 @@ creature_ability:
 - Dab
 - Easily Fascinated
 - Paint
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+16'
-hardness: null
 hp: '155'
 id: '1081'
-immunity: null
 intelligence: '+6'
 land_speed: '30'
 language:
@@ -31,9 +24,6 @@ name: Blood Painter
 perception: '+19'
 rarity: Common
 reflex: '+19'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - bloodsense (imprecise) 60 feet
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
@@ -48,19 +38,16 @@ source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 30 feet
 - climb 15 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+17'
 wisdom: '+4'
 

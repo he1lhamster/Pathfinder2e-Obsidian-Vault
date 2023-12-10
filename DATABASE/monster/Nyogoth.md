@@ -1,20 +1,15 @@
 ﻿---
 ac: '29'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Feeding Frenzy
 - Nauseating Display
 creature_family: '[[DATABASE/monsterfamily/Qlippoth|Qlippoth]]'
 dexterity: '+5'
-element: null
 fly_speed: '25'
 fortitude: '+20'
-hardness: null
 hp: '175'
 id: '774'
 immunity:
@@ -35,8 +30,6 @@ reflex: '+19'
 resistance:
 - mental 10; physical 10 (except [[DATABASE/equipment/Cold Iron Weapon|cold iron]]
   )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -59,7 +52,6 @@ strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fiend|Fiend]]'
 - '[[DATABASE/trait/Qlippoth|Qlippoth]]'

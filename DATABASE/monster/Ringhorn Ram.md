@@ -1,35 +1,24 @@
 ﻿---
 ac: '16'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Nimble Stride
 - Ram Charge
 creature_family: '[[DATABASE/monsterfamily/Ram|Ram]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+6'
-hardness: null
 hp: '15'
 id: '1273'
-immunity: null
 intelligence: '-5'
 land_speed: '30'
-language: null
 level: '0'
 max_speed: '30'
 name: Ringhorn Ram
 perception: '+6'
 rarity: Common
 reflex: '+6'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
@@ -41,20 +30,17 @@ skill:
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 30 feet; nimble stride
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Fortitude
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+4'
 wisdom: '+2'
 

@@ -1,6 +1,5 @@
 ﻿---
 ac: '22'
-bulk: null
 fortitude: '+16'
 hardness: '15'
 hp: '80'
@@ -13,7 +12,6 @@ name: Cannon
 price: 900 gp
 rarity: Uncommon
 reflex: '+9'
-rus_type_level: null
 size: Large
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:

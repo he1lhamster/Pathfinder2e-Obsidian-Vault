@@ -4,9 +4,7 @@ level: '8'
 name: Shadowdancer
 prerequisite: Master in [[DATABASE/skill/Stealth|Stealth]] ; Expert in [[DATABASE/skill/Performance|Performance]]
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-trait: null
 type: Archetype
 
 ---

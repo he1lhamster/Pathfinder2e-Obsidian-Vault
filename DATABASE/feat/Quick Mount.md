@@ -1,10 +1,6 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Quick Mount
-frequency: null
-heighten_level: null
 id: '1923'
 level: '4'
 name: Quick Mount
@@ -13,14 +9,10 @@ prerequisite: '[[DATABASE/feat/Cavalier Dedication|Cavalier Dedication]] ; Exper
 rarity: Common
 requirement: You are adjacent to a creature that is at least one size larger than
   you and is willing to be yourmount.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

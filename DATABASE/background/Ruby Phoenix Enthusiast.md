@@ -1,17 +1,7 @@
 ﻿---
-ability: null
-ability_boost: null
-feat: null
 id: '153'
 name: Ruby Phoenix Enthusiast
-prerequisite: null
-rarity: null
-rus_type_level: null
-skill: null
 source: '[[DATABASE/source/Organized Play Foundation|Organized Play Foundation]]'
-subcategory: null
-trait: null
-type: null
 
 ---
 # Ruby Phoenix Enthusiast<span class="item-type">Background</span>

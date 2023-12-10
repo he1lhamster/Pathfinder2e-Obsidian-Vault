@@ -1,25 +1,18 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Phase Arrow
 frequency: once per day
-heighten_level: null
 id: '1967'
 level: '16'
 name: Phase Arrow
 prerequisite: '[[DATABASE/feat/Eldritch Archer Dedication|Eldritch Archer Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Conjuration
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Magical|Magical]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,32 +1,19 @@
 ﻿---
 actions: '[three-actions]'
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 1 minute
-element: null
 heighten: '+2'
 heighten_level: 3, 5, 7, 9
 id: '1127'
-lesson: null
 level: '3'
-mystery: null
 name: Wall of Virtue
-patron_theme: null
 range: 120 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
-target: null
 tradition:
 - Arcane
 - Divine
@@ -34,7 +21,6 @@ trait:
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Light|Light]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Spell
 
 ---

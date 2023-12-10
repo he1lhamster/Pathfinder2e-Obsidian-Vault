@@ -1,20 +1,12 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Ragdya's Dance
 frequency: once per hour
-heighten_level: null
 id: '4014'
 level: '9'
 name: Ragdya's Dance
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Vanara|Vanara]]'
 trigger: An adjacent [[DATABASE/condition/Observed|observed]] creature succeeds at

@@ -1,28 +1,21 @@
 ﻿---
 ac: '42'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Mind-Numbing Grasp
 - Unrelativity Field
 - Writhing Arms
-creature_family: null
 dexterity: '+9'
-element: null
 fly_speed: '70'
 fortitude: '+32'
-hardness: null
 hp: '350'
 id: '1015'
 immunity:
 - acid
 - '[[DATABASE/condition/Paralyzed|paralyzed]]'
 intelligence: '+6'
-land_speed: null
 language:
 - '[[DATABASE/language/Abyssal|Abyssal]]'
 - '[[DATABASE/language/Celestial|Celestial]]'
@@ -36,8 +29,6 @@ rarity: Rare
 reflex: '+36'
 resistance:
 - precision 20
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/spell/True Seeing|true seeing]]'

@@ -5,12 +5,9 @@ ability:
 ability_boost:
 - Wisdom
 - Charisma
-feat: null
 id: '328'
 name: Astrological Augur
-prerequisite: null
 rarity: Rare
-rus_type_level: null
 skill:
 - Astrology [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Travel Guide|Travel Guide]]'

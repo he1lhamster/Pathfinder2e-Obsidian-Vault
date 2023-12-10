@@ -1,25 +1,16 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Heroic Presence
 frequency: once per day
-heighten_level: null
 id: '1443'
 level: '17'
 name: Heroic Presence
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Emotion|Emotion]]'
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Mental|Mental]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,56 +1,20 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
 bulk: L
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '1641'
 item_category: Cursed Items
-item_subcategory: null
-land_speed: null
 level: '11'
-max_speed: null
 name: Calamity Glass
-onset: null
-price: null
-range: null
 rarity: Common
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Divination
-size: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-spell: null
-stage: null
 subcategory: curseditem
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Cursed|Cursed]]'
 - '[[DATABASE/trait/Divination|Divination]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Scrying|Scrying]]'
-trigger: null
 type: Item
 usage: held in 1 hand
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Calamity Glass<span class="item-type">Item 11</span>

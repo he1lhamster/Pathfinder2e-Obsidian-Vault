@@ -1,10 +1,7 @@
 ﻿---
 ac: '27'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - '1'
@@ -22,10 +19,7 @@ creature_ability:
 - Vulnerable to Shatter
 creature_family: '[[DATABASE/monsterfamily/Golem|Golem]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+20'
-hardness: null
 hp: '150'
 id: '239'
 immunity:
@@ -47,7 +41,6 @@ immunity:
 - unconscious
 intelligence: '-5'
 land_speed: '25'
-language: null
 level: '9'
 max_speed: '25'
 name: Alchemical Golem
@@ -56,8 +49,6 @@ rarity: Uncommon
 reflex: '+19'
 resistance:
 - physical 12 (except adamantine or bludgeoning)
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Large
@@ -66,12 +57,10 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 25 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Alchemical|Alchemical]]'
 - '[[DATABASE/trait/Construct|Construct]]'
@@ -82,7 +71,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+15'
 wisdom: '+0'
 

@@ -1,27 +1,14 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
-component: null
-cost: null
-deity: null
-domain: null
 duration: 1 minute
 element: Air
 heighten: '+1'
 heighten_level: 7, 8, 9, 10
 id: '1320'
-lesson: null
 level: '7'
-mystery: null
 name: Shock to the System
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 target: 1 living creature or 1 corpse that died within the last round
 tradition:
@@ -35,7 +22,6 @@ trait:
 - '[[DATABASE/trait/Healing|Healing]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Vitality|Vitality]]'
-trigger: null
 type: Spell
 
 ---

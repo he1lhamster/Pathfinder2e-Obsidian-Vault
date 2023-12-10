@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Disruptive Blur
-frequency: null
-heighten_level: null
 id: '3200'
 level: '14'
 name: Disruptive Blur
 prerequisite: '[[DATABASE/gunslingerway/Way of the Drifter|way of the drifter]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Gunslinger|Gunslinger]]'
-trigger: null
 type: Feat
 
 ---

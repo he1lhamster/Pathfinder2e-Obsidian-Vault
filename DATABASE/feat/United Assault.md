@@ -1,26 +1,16 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: United Assault
-frequency: null
-heighten_level: null
 id: '3626'
 level: '2'
 name: United Assault
-prerequisite: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fighter|Fighter]]'
 - '[[DATABASE/trait/Flourish|Flourish]]'
 - '[[DATABASE/trait/Ranger|Ranger]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

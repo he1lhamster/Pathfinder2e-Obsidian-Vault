@@ -1,11 +1,8 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Ashukharma|Ashukharma]]'
 - '[[DATABASE/deity/Mammon|Mammon]]'
@@ -13,22 +10,15 @@ deity:
 - '[[DATABASE/deity/Sairazul|Sairazul]]'
 - '[[DATABASE/deity/The Resplendent Court|TheResplendent Court]]'
 - '[[DATABASE/deity/Yuelral|Yuelral]]'
-domain: null
 duration: 1 minute
 element: Earth
 heighten: '+1'
 heighten_level: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
 id: '585'
-lesson: null
 level: '1'
-mystery: null
 name: Shattering Gem
-patron_theme: null
 range: touch
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
 target: 1 creature
@@ -38,7 +28,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Earth|Earth]]'
-trigger: null
 type: Spell
 
 ---

@@ -1,8 +1,6 @@
 ﻿---
 ac: '43'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
 climb_speed: '25'
 constitution: '+6'
@@ -14,12 +12,8 @@ creature_ability:
 - Thorn Volley
 - ''
 - Trample
-creature_family: null
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+35'
-hardness: null
 hp: '400'
 id: '792'
 immunity:
@@ -40,8 +34,6 @@ reflex: '+31'
 resistance:
 - fire 15
 - physical 15 (except slashing)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Tremorsense|tremorsense 120 feet]]'
@@ -63,7 +55,6 @@ strength: '+10'
 strength_req: '10'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Electricity|Electricity]]'
 - '[[DATABASE/trait/Plant|Plant]]'

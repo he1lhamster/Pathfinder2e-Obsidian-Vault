@@ -1,24 +1,14 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Certain Strike
-frequency: null
-heighten_level: null
 id: '397'
 level: '10'
 name: Certain Strike
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fighter|Fighter]]'
 - '[[DATABASE/trait/Press|Press]]'
-trigger: null
 type: Feat
 
 ---

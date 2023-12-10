@@ -1,8 +1,6 @@
 ﻿---
 ac: '16'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
 climb_speed: '20'
 constitution: '+0'
@@ -11,15 +9,10 @@ creature_ability:
 - Self-Loathing
 - Vengeful Anger
 - Vermin Empathy
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+3'
-hardness: null
 hp: '25'
 id: '2267'
-immunity: null
 intelligence: '+1'
 land_speed: '20'
 language:
@@ -30,9 +23,6 @@ name: Dingetooth
 perception: '+5'
 rarity: Unique
 reflex: '+8'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -54,7 +44,6 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Gremlin|Gremlin]]'

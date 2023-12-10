@@ -1,37 +1,25 @@
 ﻿---
 ac: '16'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Flammable Grease
 - Greasy Slide
 - Hopping Charge
 - Incendiary Dollop
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+6'
-hardness: null
 hp: '16'
 id: '1756'
-immunity: null
 intelligence: '-4'
 land_speed: '25'
-language: null
 level: '0'
 max_speed: '25'
 name: Groplit
 perception: '+6'
 rarity: Uncommon
 reflex: '+7'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -44,7 +32,6 @@ source: '[[DATABASE/source/Pathfinder 175. Broken Tusk Moon|Pathfinder #175: Bro
 speed:
 - 25 feet
 - swim 20 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:

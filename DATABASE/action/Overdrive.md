@@ -1,19 +1,13 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 frequency: once per round
 id: '901'
 name: Overdrive
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:
 - '[[DATABASE/trait/Inventor|Inventor]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
-trigger: null
 type: Action
 
 ---

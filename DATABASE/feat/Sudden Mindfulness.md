@@ -1,20 +1,11 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Sudden Mindfulness
-frequency: null
-heighten_level: null
 id: '4002'
 level: '1'
 name: Sudden Mindfulness
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Vanara|Vanara]]'
 trigger: You roll a success on a saving throw against an effect that would make you

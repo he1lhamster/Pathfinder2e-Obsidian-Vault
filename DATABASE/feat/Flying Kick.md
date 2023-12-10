@@ -1,23 +1,13 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Flying Kick
-frequency: null
-heighten_level: null
 id: '445'
 level: '4'
 name: Flying Kick
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Monk|Monk]]'
-trigger: null
 type: Feat
 
 ---

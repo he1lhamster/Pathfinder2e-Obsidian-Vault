@@ -1,25 +1,18 @@
 ﻿---
 actions: '[three-actions]'
-cost: null
-element: null
 feat: Arrow of Death
 frequency: once per day
-heighten_level: null
 id: '1968'
 level: '18'
 name: Arrow of Death
 prerequisite: '[[DATABASE/feat/Eldritch Archer Dedication|Eldritch Archer Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
-trigger: null
 type: Feat
 
 ---

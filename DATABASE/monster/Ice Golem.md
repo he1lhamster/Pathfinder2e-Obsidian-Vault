@@ -1,10 +1,7 @@
 ﻿---
 ac: '21'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Breath Weapon
@@ -14,10 +11,7 @@ creature_ability:
 - Vulnerable to Endure Elements
 creature_family: '[[DATABASE/monsterfamily/Golem|Golem]]'
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+15'
-hardness: null
 hp: '80'
 id: '683'
 immunity:
@@ -40,7 +34,6 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '25'
-language: null
 level: '5'
 max_speed: '25'
 name: Ice Golem
@@ -49,8 +42,6 @@ rarity: Uncommon
 reflex: '+11'
 resistance:
 - physical 5 (except adamantine and bludgeoning)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -59,12 +50,10 @@ skill:
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 25 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Cold|Cold]]'
 - '[[DATABASE/trait/Construct|Construct]]'
@@ -75,7 +64,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+9'
 wisdom: '+0'
 

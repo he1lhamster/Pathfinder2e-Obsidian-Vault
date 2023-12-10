@@ -1,10 +1,7 @@
 ﻿---
 ac: '37'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Eternal Damnation
@@ -13,12 +10,9 @@ creature_ability:
 - Searing Heat
 - Soul Chain
 - Soul Siphon
-creature_family: null
 dexterity: '+4'
 element: Fire
-fly_speed: null
 fortitude: '+28'
-hardness: null
 hp: 285 (eternal damnation, negative healing )
 id: '1568'
 immunity:
@@ -39,23 +33,17 @@ name: Accursed Forge-Spurned
 perception: '+26'
 rarity: Unique
 reflex: '+24'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
-skill: null
 source: '[[DATABASE/source/Pathfinder 148. Fires of the Haunted City|Pathfinder #148:
   Fires of the Haunted City]]'
 speed:
 - 20 feet
-spell: null
 strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fire|Fire]]'
 - '[[DATABASE/trait/Undead|Undead]]'

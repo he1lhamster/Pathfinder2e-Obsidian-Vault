@@ -1,56 +1,22 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
 base_item: '[[DATABASE/weapon/Composite Longbow|Composite Longbow]]'
 bulk: '4'
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '1531'
 item_category: Weapons
 item_subcategory: Specific Magic Weapons
-land_speed: null
 level: '12'
-max_speed: null
 name: Mammoth Bow
-onset: null
 price: 2,000 gp
-range: null
 rarity: Unique
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
-size: null
 source: '[[DATABASE/source/Pathfinder 177. Burning Tundra|Pathfinder #177: Burning
   Tundra]]'
-spell: null
-stage: null
-subcategory: null
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Unique|Unique]]'
-trigger: null
 type: Item
 usage: held in 1 hand
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Mammoth Bow<span class="item-type">Item 12</span>

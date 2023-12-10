@@ -1,8 +1,6 @@
 ﻿---
 ac: '20'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+12'
 hardness: '12'
 hazard_type: Trap
@@ -14,9 +12,6 @@ level: '4'
 name: Steam Vents
 rarity: Uncommon
 reflex: '+12'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:
 - '[[DATABASE/trait/Mechanical|Mechanical]]'
@@ -24,8 +19,6 @@ trait:
 - '[[DATABASE/trait/Trap|Trap]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Steam Vents<span class="item-type">Hazard 4</span>

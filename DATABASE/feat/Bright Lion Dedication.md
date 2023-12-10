@@ -1,27 +1,21 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Bright Lion Dedication
-frequency: null
-heighten_level: null
 id: '2172'
+leads_to: '[[DATABASE/feat/Blessing of the Sun Gods|Blessing of the Sun Gods]] , [[DATABASE/feat/Elude
+  the Divine|Elude the Divine]] , [[DATABASE/feat/Lion''s Might|Lion''s Might]] ,
+  [[DATABASE/feat/Sun''s Fury|Sun''s Fury]] , [[DATABASE/feat/Warding Light|Warding
+  Light]]'
 level: '2'
 name: Bright Lion Dedication
 prerequisite: member of the Bright Lions; not a worshipper of [[DATABASE/deity/Walkena|Walkena]]
   ;Trained in [[DATABASE/skill/Stealth|Stealth]]
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 172. Secrets of the Temple City|Pathfinder #172:
   Secrets of the Temple City]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

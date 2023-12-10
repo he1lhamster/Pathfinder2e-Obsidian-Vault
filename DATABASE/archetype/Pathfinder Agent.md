@@ -4,7 +4,6 @@ level: '2'
 name: Pathfinder Agent
 prerequisite: member of the Pathfinder Society
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/World Guide|World Guide]]'
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

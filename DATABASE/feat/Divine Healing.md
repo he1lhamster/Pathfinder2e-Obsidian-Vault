@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Divine Healing
-frequency: null
-heighten_level: null
 id: '3577'
 level: '8'
 name: Divine Healing
 prerequisite: '[[DATABASE/feat/Knight Vigilant|Knight Vigilant]] ; Expert in [[DATABASE/skill/Religion|Religion]]
   ; worship a deity with a divine font that grants [[DATABASE/spell/Heal|heal]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

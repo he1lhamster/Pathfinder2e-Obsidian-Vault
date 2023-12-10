@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Halfling Weapon Familiarity
-frequency: null
-heighten_level: null
 id: '55'
+leads_to: '[[DATABASE/feat/Halfling Weapon Expertise|Halfling Weapon Expertise]] ,
+  [[DATABASE/feat/Halfling Weapon Trickster|Halfling Weapon Trickster]]'
 level: '1'
 name: Halfling Weapon Familiarity
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Halfling|Halfling]]'
-trigger: null
 type: Feat
 
 ---

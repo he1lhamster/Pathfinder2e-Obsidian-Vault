@@ -1,10 +1,7 @@
 ﻿---
 ac: '15'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Ancestry Feat
@@ -14,12 +11,9 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Threshold of Knowledge Pregenerated Characters|Threshold
   of Knowledge Pregenerated Characters]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+4'
 hp: '15'
 id: '1754'
-immunity: null
 intelligence: '+2'
 land_speed: '25'
 language:
@@ -32,8 +26,6 @@ name: Zane Ikundi
 perception: '+3'
 rarity: Unique
 reflex: '+5'
-resistance: null
-rus_type_level: null
 sense:
 - low-light vision
 size: Medium
@@ -63,7 +55,6 @@ strength_req: '0'
 strongest_save:
 - Reflex
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Half-Orc|Half-Orc]]'
 - '[[DATABASE/trait/Human|Human]]'
@@ -74,7 +65,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+5'
 wisdom: '+0'
 

@@ -1,10 +1,7 @@
 ﻿---
 ac: '18'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Attack of Opportunity
@@ -12,12 +9,9 @@ creature_ability:
 - Bravery
 creature_family: '[[DATABASE/monsterfamily/Seafarers|Seafarers]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+7'
 hp: '32'
 id: '952'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -28,9 +22,6 @@ name: Pirate
 perception: '+6'
 rarity: Common
 reflex: '+8'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +7'
@@ -41,20 +32,16 @@ skill:
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 speed:
 - 25 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+6'
 wisdom: '+2'
 

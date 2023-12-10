@@ -1,54 +1,23 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
-bulk: '3'
-burrow_speed: null
-climb_speed: null
-damage: 1d12 B
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: 1+
-hardness: null
-hp: null
+actions: '[one-action]'
+bulk: L
 id: '174'
-item_category: Weapons
-item_subcategory: Base Weapons
-land_speed: null
+item_category: Consumables
+item_subcategory: Oils
 level: '1'
-max_speed: null
 name: Nectar of Purification
-onset: null
-price: 20 gp
-range: 240 ft.
-rarity: Uncommon
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
-school: null
-size: null
+price: 3 gp
+rarity: Common
+school: Necromancy
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-spell: null
-stage: null
 subcategory: consumable/oil
-swim_speed: null
 trait:
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
-- '[[DATABASE/trait/Volley|Volley 50ft.]]'
-trigger: null
-type: Weapon
-usage: null
-weapon_category: Advanced
-weapon_group: '[[DATABASE/weapongroup/Sling|Sling]]'
-weapon_type: Ranged
+- '[[DATABASE/trait/Consumable|Consumable]]'
+- '[[DATABASE/trait/Magical|Magical]]'
+- '[[DATABASE/trait/Necromancy|Necromancy]]'
+- '[[DATABASE/trait/Oil|Oil]]'
+type: Item
+usage: held in 1 hand
 
 ---
 # Nectar of Purification<span class="item-type">Item 1</span>

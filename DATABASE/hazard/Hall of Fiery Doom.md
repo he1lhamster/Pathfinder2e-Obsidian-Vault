@@ -1,29 +1,16 @@
 ﻿---
-ac: null
-all_resistance: null
 complexity: Complex
-element: null
-fortitude: null
-hardness: null
 hazard_type: Haunt
-hp: null
 id: '131'
-immunity: null
 level: '10'
 name: Hall of Fiery Doom
 rarity: Common
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 177. Burning Tundra|Pathfinder #177: Burning
   Tundra]]'
 trait:
 - '[[DATABASE/trait/Complex|Complex]]'
 - '[[DATABASE/trait/Haunt|Haunt]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Hall of Fiery Doom<span class="item-type">Hazard 10</span>

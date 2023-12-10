@@ -1,20 +1,14 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Warp Likeness
 frequency: once per minute
-heighten_level: null
 id: '3800'
 level: '5'
 name: Warp Likeness
 prerequisite: '[[DATABASE/feat/Morph-Risen|Morph-Risen]]'
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Morph|Morph]]'
 - '[[DATABASE/trait/Occult|Occult]]'

@@ -1,19 +1,12 @@
 ﻿---
 ac: '21'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Slow
-creature_family: null
 dexterity: '-1'
-element: null
-fly_speed: null
 fortitude: '+16'
-hardness: null
 hp: 160 ( negative healing )
 id: '2304'
 immunity:
@@ -25,16 +18,12 @@ immunity:
 - unconscious
 intelligence: '-5'
 land_speed: '25'
-language: null
 level: '7'
 max_speed: '25'
 name: Cyclops Zombie
 perception: '+8'
 rarity: Common
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -43,12 +32,10 @@ skill:
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 speed:
 - 25 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Mindless|Mindless]]'
 - '[[DATABASE/trait/Undead|Undead]]'

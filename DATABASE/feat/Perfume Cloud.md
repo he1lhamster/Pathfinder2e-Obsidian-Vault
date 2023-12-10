@@ -1,24 +1,15 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Perfume Cloud
 frequency: once per hour
-heighten_level: null
 id: '3955'
 level: '9'
 name: Perfume Cloud
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Disease|Disease]]'
 - '[[DATABASE/trait/Ghoran|Ghoran]]'
-trigger: null
 type: Feat
 
 ---

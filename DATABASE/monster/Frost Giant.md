@@ -1,10 +1,7 @@
 ﻿---
 ac: '29'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Catch Rock
@@ -14,10 +11,7 @@ creature_ability:
 - Wide Swing
 creature_family: '[[DATABASE/monsterfamily/Giant|Giant]]'
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+23'
-hardness: null
 hp: '150'
 id: '222'
 immunity:
@@ -33,9 +27,6 @@ name: Frost Giant
 perception: '+17'
 rarity: Common
 reflex: '+16'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 size: Large
@@ -47,12 +38,10 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 30 feet; ice stride
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Cold|Cold]]'
 - '[[DATABASE/trait/Giant|Giant]]'

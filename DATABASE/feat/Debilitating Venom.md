@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Debilitating Venom
-frequency: null
-heighten_level: null
 id: '4026'
+leads_to: '[[DATABASE/feat/Stronger Debilitating Venom|Stronger Debilitating Venom]]'
 level: '5'
 name: Debilitating Venom
 prerequisite: '[[DATABASE/action/Envenom|Envenom]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Vishkanya|Vishkanya]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,25 +1,20 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Chronoskimmer Dedication
-frequency: null
-heighten_level: null
 id: '3847'
+leads_to: '[[DATABASE/feat/Borrow Time|Borrow Time]] , [[DATABASE/feat/Combat Premonition|Combat
+  Premonition]] , [[DATABASE/feat/Escape Timeline|Escape Timeline]] , [[DATABASE/feat/Guide
+  the Timeline|Guide the Timeline]] , [[DATABASE/feat/Reversing Charge|Reversing Charge]]
+  , [[DATABASE/feat/Space-Time Shift|Space-Time Shift]] , [[DATABASE/feat/Steal Time|Steal
+  Time]] , [[DATABASE/feat/Superimpose Time Duplicates|Superimpose Time Duplicates]]
+  , [[DATABASE/feat/Turn Back the Clock|Turn Back the Clock]]'
 level: '2'
 name: Chronoskimmer Dedication
-prerequisite: null
 rarity: Rare
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,20 +1,12 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Deflecting Shot
-frequency: null
-heighten_level: null
 id: '3183'
 level: '10'
 name: Deflecting Shot
-prerequisite: null
 rarity: Common
 requirement: You're wielding a loaded firearm or crossbow.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Gunslinger|Gunslinger]]'
 trigger: An ally within the first range increment of your firearm or crossbow is hit

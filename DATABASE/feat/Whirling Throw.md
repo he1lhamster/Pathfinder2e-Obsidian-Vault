@@ -1,23 +1,14 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Whirling Throw
-frequency: null
-heighten_level: null
 id: '456'
 level: '6'
 name: Whirling Throw
-prerequisite: null
 rarity: Common
 requirement: You have a creature grabbed or restrained.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Monk|Monk]]'
-trigger: null
 type: Feat
 
 ---

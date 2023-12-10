@@ -1,39 +1,26 @@
 ﻿---
 actions: '[one-action]'
-area: null
-bloodline: null
 component:
 - Verbal
-cost: null
-deity: null
 domain:
 - '[[DATABASE/domain/Family Domain|Family]]'
 duration: 1 round
-element: null
 heighten: 5th
 heighten_level: 1, 5
 id: '452'
-lesson: null
 level: '1'
-mystery: null
 name: Soothing Words
-patron_theme: null
 range: 30 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Enchantment
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: 1 ally
-tradition: null
 trait:
 - '[[DATABASE/trait/Cleric|Cleric]]'
 - '[[DATABASE/trait/Emotion|Emotion]]'
 - '[[DATABASE/trait/Enchantment|Enchantment]]'
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Focus
 
 ---

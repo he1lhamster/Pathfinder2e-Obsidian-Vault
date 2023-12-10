@@ -1,18 +1,11 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Too Angry to Die
-frequency: null
-heighten_level: null
 id: '3899'
 level: '12'
 name: Too Angry to Die
 prerequisite: Master in [[DATABASE/skill/Intimidation|Intimidation]]
 rarity: Rare
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
 subcategory: intimidation
 trait:

@@ -1,25 +1,18 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Monk Dedication
-frequency: null
-heighten_level: null
 id: '715'
+leads_to: '[[DATABASE/feat/Basic Kata|Basic Kata]] , [[DATABASE/feat/Monk Moves|Monk
+  Moves]] , [[DATABASE/feat/Monk Resiliency|Monk Resiliency]] , [[DATABASE/feat/Monk''s
+  Flurry|Monk''s Flurry]] , [[DATABASE/feat/Perfection''s Path|Perfection''s Path]]'
 level: '2'
 name: Monk Dedication
 prerequisite: Strength 14; Dexterity 14
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Multiclass|Multiclass]]'
-trigger: null
 type: Feat
 
 ---

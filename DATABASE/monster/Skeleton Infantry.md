@@ -1,10 +1,7 @@
 ﻿---
 ac: '31'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Form Up
@@ -17,16 +14,11 @@ creature_ability:
 - Movement
 creature_family: '[[DATABASE/monsterfamily/Skeleton|Skeleton]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+21'
-hardness: null
 hp: 180 (16 squares)
 id: '1300'
-immunity: null
 intelligence: '-5'
 land_speed: '25'
-language: null
 level: '11'
 max_speed: '25'
 name: Skeleton Infantry
@@ -39,8 +31,6 @@ resistance:
 - fire 5
 - piercing 10
 - slashing 10
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Gargantuan
@@ -49,12 +39,10 @@ skill:
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 25 feet; troop movement
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Mindless|Mindless]]'
 - '[[DATABASE/trait/Skeleton|Skeleton]]'

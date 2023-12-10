@@ -1,19 +1,12 @@
 ﻿---
 ac: '22'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Inspired Recitation
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+13'
-hardness: null
 hp: '42'
 id: '2538'
 immunity:
@@ -41,10 +34,6 @@ name: Mechanical Assistant
 perception: '+12'
 rarity: Unique
 reflex: '+14'
-resistance: null
-rus_type_level: null
-school: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +12'
@@ -53,21 +42,17 @@ skill:
 source: '[[DATABASE/source/The Enmity Cycle|The Enmity Cycle]]'
 speed:
 - '25'
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Minion|Minion]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+12'
 wisdom: '+3'
 

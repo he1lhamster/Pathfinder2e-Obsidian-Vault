@@ -4,7 +4,6 @@ id: '2'
 level: '3'
 name: Alchemy Laboratory
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
 - '[[DATABASE/trait/Building|Building]]'

@@ -1,24 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Incredible Companion (Druid)
-frequency: null
-heighten_level: null
 id: '332'
+leads_to: '[[DATABASE/feat/Specialized Companion (Druid)|Specialized Companion (Druid)]]'
 level: '8'
 name: Incredible Companion (Druid)
 prerequisite: '[[DATABASE/feat/Mature Animal Companion (Druid)|Mature Animal Companion
   (Druid)]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Druid|Druid]]'
-trigger: null
 type: Feat
 
 ---

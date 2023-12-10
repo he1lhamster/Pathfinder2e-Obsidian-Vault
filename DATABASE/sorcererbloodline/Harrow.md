@@ -3,7 +3,6 @@ bloodline: Harrow
 id: '18'
 name: Harrow
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Stolen Fate Player''s Guide|Stolen Fate Player''s Guide]]'
 spell:
 - '[[DATABASE/spell/Augury|Augury]]'
@@ -19,7 +18,6 @@ spell:
 - '[[DATABASE/spell/Unrelenting Observation|UnrelentingObservation]]'
 - '[[DATABASE/spell/Wanderer''s Guide|Wanderer''s Guide]]'
 - '[[DATABASE/spell/Weird|Weird]]'
-trait: null
 type: Sorcerer Bloodline
 
 ---

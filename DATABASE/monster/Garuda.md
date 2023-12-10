@@ -1,24 +1,17 @@
 ﻿---
 ac: '28'
 alignment: CG
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Electric Projectiles
 - Swooping Dive
 - Wind Blast
-creature_family: null
 dexterity: '+6'
-element: null
 fly_speed: '60'
 fortitude: '+17'
-hardness: null
 hp: '135'
 id: '1162'
-immunity: null
 intelligence: '+2'
 land_speed: '25'
 language:
@@ -31,9 +24,6 @@ name: Garuda
 perception: '+20'
 rarity: Common
 reflex: '+21'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -57,14 +47,12 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Celestial|Celestial]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+16'
 wisdom: '+3'
 

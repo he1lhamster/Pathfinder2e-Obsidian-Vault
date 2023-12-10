@@ -1,10 +1,7 @@
 ﻿---
 ac: '25'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Braincloud
@@ -12,10 +9,7 @@ creature_ability:
 - Fascinating Display
 creature_family: '[[DATABASE/monsterfamily/Qlippoth|Qlippoth]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+16'
-hardness: null
 hp: '105'
 id: '773'
 immunity:
@@ -35,8 +29,6 @@ reflex: '+12'
 resistance:
 - mental 5
 - physical 5 (except cold iron)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large

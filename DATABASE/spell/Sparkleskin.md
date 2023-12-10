@@ -1,28 +1,15 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 10 minutes
-element: null
-heighten: null
 heighten_level: '3'
 id: '1295'
-lesson: null
 level: '3'
-mystery: null
 name: Sparkleskin
-patron_theme: null
 range: touch
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Firebrands|Firebrands]]'
 target: 1 willing creature
@@ -33,7 +20,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Spell
 
 ---

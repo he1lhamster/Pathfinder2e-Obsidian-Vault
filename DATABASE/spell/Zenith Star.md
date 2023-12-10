@@ -1,37 +1,25 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
 domain:
 - '[[DATABASE/domain/Star Domain|Star]]'
 duration: 1 day
-element: null
 heighten: +1, 4th
 heighten_level: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 4
 id: '618'
-lesson: null
 level: '1'
-mystery: null
 name: Zenith Star
-patron_theme: null
 range: 60 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Fortitude
 school: Divination
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
 target: 1 creature
-tradition: null
 trait:
 - '[[DATABASE/trait/Divination|Divination]]'
 - '[[DATABASE/trait/Light|Light]]'
-trigger: null
 type: Focus
 
 ---

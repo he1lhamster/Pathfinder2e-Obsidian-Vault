@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Lastwall Warden
-frequency: null
-heighten_level: null
 id: '887'
 level: '10'
 name: Lastwall Warden
 prerequisite: '[[DATABASE/feat/Lastwall Sentry Dedication|Lastwall Sentry Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/World Guide|World Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

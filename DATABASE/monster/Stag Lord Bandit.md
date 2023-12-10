@@ -1,21 +1,12 @@
 ﻿---
 ac: '15'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+2'
-creature_ability: null
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+6'
-hardness: null
 hp: '16'
 id: '2281'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -26,10 +17,6 @@ name: Stag Lord Bandit
 perception: '+4'
 rarity: Uncommon
 reflex: '+7'
-resistance: null
-rus_type_level: null
-school: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +4'
@@ -40,21 +27,17 @@ skill:
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 speed:
 - 25 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+4'
 wisdom: '+0'
 

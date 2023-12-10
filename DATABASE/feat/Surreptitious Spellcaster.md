@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Surreptitious Spellcaster
-frequency: null
-heighten_level: null
 id: '1135'
 level: '8'
 name: Surreptitious Spellcaster
 prerequisite: '[[DATABASE/feat/Spellmaster Dedication|Spellmaster Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

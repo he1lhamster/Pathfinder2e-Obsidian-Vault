@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Immortal Bear
-frequency: null
-heighten_level: null
 id: '4095'
 level: '20'
 name: Immortal Bear
 prerequisite: '[[DATABASE/feat/Ursine Avenger Form|Ursine Avenger Form]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

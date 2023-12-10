@@ -1,10 +1,7 @@
 ﻿---
 ac: '31'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Poisonous Pustules
@@ -12,13 +9,9 @@ creature_ability:
 - Stench
 creature_family: '[[DATABASE/monsterfamily/Demon|Demon]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+23'
-hardness: null
 hp: '245'
 id: '601'
-immunity: null
 intelligence: '+4'
 land_speed: '30'
 language:
@@ -32,9 +25,6 @@ name: Hezrou
 perception: '+21'
 rarity: Common
 reflex: '+18'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large

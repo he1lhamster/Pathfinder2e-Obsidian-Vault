@@ -1,10 +1,7 @@
 ﻿---
 ac: '18'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Focused Assault
@@ -13,17 +10,13 @@ creature_ability:
 - Swallow Whole
 creature_family: '[[DATABASE/monsterfamily/Flytrap|Flytrap]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+12'
-hardness: null
 hp: '50'
 id: '208'
 immunity:
 - mental
 intelligence: '-5'
 land_speed: '15'
-language: null
 level: '3'
 max_speed: '15'
 name: Snapping Flytrap
@@ -32,8 +25,6 @@ rarity: Common
 reflex: '+8'
 resistance:
 - acid 5
-rus_type_level: null
-school: null
 sense:
 - tremorsense (imprecise) 30 feet
 size: Large
@@ -43,17 +34,14 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 15 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Mindless|Mindless]]'
 - '[[DATABASE/trait/Plant|Plant]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
 weakness:

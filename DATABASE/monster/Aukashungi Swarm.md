@@ -1,20 +1,14 @@
 ﻿---
 ac: '28'
 alignment: CE
-all_resistance: null
 burrow_speed: '35'
 charisma: '-2'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Burrowing Agony
 - Expeditious Evolution
-creature_family: null
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+17'
-hardness: null
 hp: '210'
 id: '2122'
 immunity:
@@ -22,7 +16,6 @@ immunity:
 - '[[DATABASE/monsterability/Swarm Mind|swarm mind]]'
 intelligence: '-4'
 land_speed: '35'
-language: null
 level: '10'
 max_speed: '35'
 name: Aukashungi Swarm
@@ -33,8 +26,6 @@ resistance:
 - bludgeoning 5
 - piercing 10
 - slashing 10
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 - '[[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) 30 feet'
@@ -46,12 +37,10 @@ source: '[[DATABASE/source/Pathfinder 154. Siege of the Dinosaurs|Pathfinder #15
 speed:
 - 35 feet
 - burrow 35 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Amphibious|Amphibious]]'

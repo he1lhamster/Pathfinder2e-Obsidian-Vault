@@ -1,39 +1,26 @@
 ﻿---
 actions: '[three-actions]'
 area: 20-foot burst
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 1 minute
 element: Water
-heighten: null
 heighten_level: '2'
 id: '210'
-lesson: null
 level: '2'
-mystery: null
 name: Obscuring Mist
-patron_theme: null
 range: 120 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Arcane
 - Primal
 trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Water|Water]]'
-trigger: null
 type: Spell
 
 ---

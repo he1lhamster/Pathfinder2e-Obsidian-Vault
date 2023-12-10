@@ -1,8 +1,6 @@
 ﻿---
 bulk: '1'
 damage: 1d6 P
-deity: null
-favored_weapon: null
 hands: '1'
 id: '132'
 item_category: Weapons
@@ -10,9 +8,7 @@ item_subcategory: Base Weapons
 level: '4'
 name: Exquisite Sword Cane
 price: 90 gp
-range: null
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 157. Devil at the Dreaming Palace|Pathfinder
   #157: Devil at the Dreaming Palace]]'
 trait:

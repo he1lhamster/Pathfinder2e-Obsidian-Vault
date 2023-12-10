@@ -1,37 +1,21 @@
 ﻿---
 actions: '[one-action]'
-area: null
-bloodline: null
 component:
 - Verbal
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
 heighten: '+1'
 heighten_level: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
 id: '1044'
-lesson: null
 level: '1'
-mystery: null
 name: Thunderous Strike
-patron_theme: null
-range: null
 rarity: Uncommon
 requirement: You're wielding a melee weapon in two hands.
-rus_type_level: null
-saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-target: null
-tradition: null
 trait:
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Magus|Magus]]'
 - '[[DATABASE/trait/Sonic|Sonic]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Focus
 
 ---

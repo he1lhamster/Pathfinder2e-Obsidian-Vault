@@ -1,24 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Occult Evolution
-frequency: null
-heighten_level: null
 id: '612'
+leads_to: '[[DATABASE/feat/Greater Mental Evolution|Greater Mental Evolution]] , [[DATABASE/feat/Greater
+  Spiritual Evolution|Greater Spiritual Evolution]]'
 level: '4'
 name: Occult Evolution
 prerequisite: bloodline that grants occult spells
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Occult|Occult]]'
 - '[[DATABASE/trait/Sorcerer|Sorcerer]]'
-trigger: null
 type: Feat
 
 ---

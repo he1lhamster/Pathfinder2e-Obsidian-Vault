@@ -3,9 +3,7 @@ creature_family: Archon
 id: '9'
 name: Archon
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
-trait: null
 type: Creature Family
 
 ---

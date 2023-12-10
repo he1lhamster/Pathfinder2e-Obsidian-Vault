@@ -2,7 +2,6 @@
 id: '405'
 name: Gadget
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:
 - Gadget

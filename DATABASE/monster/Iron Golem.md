@@ -1,10 +1,7 @@
 ﻿---
 ac: '34'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Breath Weapon
@@ -16,10 +13,7 @@ creature_ability:
 - Vulnerable to Rust
 creature_family: '[[DATABASE/monsterfamily/Golem|Golem]]'
 dexterity: '-1'
-element: null
-fly_speed: null
 fortitude: '+26'
-hardness: null
 hp: '190'
 id: '242'
 immunity:
@@ -41,7 +35,6 @@ immunity:
 - unconscious
 intelligence: '-5'
 land_speed: '20'
-language: null
 level: '13'
 max_speed: '20'
 name: Iron Golem
@@ -50,8 +43,6 @@ rarity: Uncommon
 reflex: '+21'
 resistance:
 - physical 15 (except adamantine)
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Large
@@ -60,12 +51,10 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 20 feet
-spell: null
 strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Golem|Golem]]'
@@ -75,7 +64,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+22'
 wisdom: '+0'
 

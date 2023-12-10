@@ -1,23 +1,15 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Tiger Slash
-frequency: null
-heighten_level: null
 id: '454'
 level: '6'
 name: Tiger Slash
 prerequisite: '[[DATABASE/feat/Tiger Stance|Tiger Stance]]'
 rarity: Common
 requirement: You are in Tiger Stance.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Monk|Monk]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,10 +1,7 @@
 ﻿---
 ac: '33'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Attack of Opportunity
@@ -12,14 +9,10 @@ creature_ability:
 - Shield Block
 - Spear Dance
 - Spellstrike
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+25'
 hp: '235'
 id: '1712'
-immunity: null
 intelligence: '+5'
 land_speed: '25'
 language:
@@ -31,8 +24,6 @@ name: Iobane Magi
 perception: '+23'
 rarity: Common
 reflex: '+23'
-resistance: null
-rus_type_level: null
 sense:
 - Iobane vision
 size: Medium
@@ -61,15 +52,12 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+24'
 wisdom: '+2'
 

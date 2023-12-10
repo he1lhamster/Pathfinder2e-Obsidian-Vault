@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Monster Hunter
-frequency: null
-heighten_level: null
 id: '493'
+leads_to: '[[DATABASE/feat/Master Monster Hunter|Master Monster Hunter]] , [[DATABASE/feat/Monster
+  Warden|Monster Warden]]'
 level: '1'
 name: Monster Hunter
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Ranger|Ranger]]'
-trigger: null
 type: Feat
 
 ---

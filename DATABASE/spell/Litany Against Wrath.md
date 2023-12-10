@@ -1,38 +1,25 @@
 ﻿---
 actions: '[one-action]'
-area: null
-bloodline: null
 component:
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 1 round
-element: null
 heighten: '+1'
 heighten_level: 3, 4, 5, 6, 7, 8, 9, 10
 id: '397'
-lesson: null
 level: '3'
-mystery: null
 name: Litany Against Wrath
-patron_theme: null
 range: 30 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 saving_throw: Will
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: 1 evil creature
-tradition: null
 trait:
 - '[[DATABASE/trait/Champion|Champion]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Good|Good]]'
 - '[[DATABASE/trait/Litany|Litany]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Focus
 
 ---

@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Specialty Crafting|Specialty Crafting]]'
 id: '34'
 name: Tinker
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Crafting|Crafting]]'
 - Engineering [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

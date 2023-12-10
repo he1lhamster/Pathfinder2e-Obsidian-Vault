@@ -1,23 +1,16 @@
 ﻿---
 ac: '23'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Righteous Certainty
 - Trident Twist
 - Triumphant Roar
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+15'
 hp: '115'
 id: '2272'
-immunity: null
 intelligence: '+2'
 land_speed: '25'
 language:
@@ -30,9 +23,6 @@ name: King Vesket
 perception: '+12'
 rarity: Unique
 reflex: '+15'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +15'
@@ -44,7 +34,6 @@ source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 speed:
 - 25 feet
 - swim 20 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
@@ -56,10 +45,8 @@ trait:
 - '[[DATABASE/trait/Lizardfolk|Lizardfolk]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+12'
 wisdom: '+2'
 

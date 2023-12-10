@@ -1,14 +1,9 @@
 ﻿---
 ability_type: Specific Familiar - House Drake
-actions: null
-frequency: null
 id: '87'
 name: Tenacious Mind
 rarity: Common
-requirement: null
-rus_type_level: null
 source: '[[DATABASE/source/Shadows at Sundown|Shadows at Sundown]]'
-trait: null
 type: Familiar Ability
 
 ---

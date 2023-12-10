@@ -1,10 +1,7 @@
 ﻿---
 ac: '21'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Assume Form
@@ -14,13 +11,9 @@ creature_ability:
 - Sneak Attack
 creature_family: '[[DATABASE/monsterfamily/Alghollthu|Alghollthu]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+9'
-hardness: null
 hp: '60'
 id: '4'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -35,8 +28,6 @@ rarity: Common
 reflex: '+9'
 resistance:
 - bludgeoning 5
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -55,7 +46,6 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 type: Creature
@@ -63,7 +53,6 @@ vision: Darkvision
 weakest_save:
 - Fortitude
 - Reflex
-weakness: null
 will: '+12'
 wisdom: '+2'
 

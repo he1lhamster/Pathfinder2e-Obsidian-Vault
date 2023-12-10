@@ -1,24 +1,15 @@
 ﻿---
 actions: '[three-actions]'
-cost: null
-element: null
 feat: Surprise Snare
-frequency: null
-heighten_level: null
 id: '2075'
 level: '4'
 name: Surprise Snare
 prerequisite: '[[DATABASE/feat/Snarecrafter Dedication|Snarecrafter Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
-trigger: null
 type: Feat
 
 ---

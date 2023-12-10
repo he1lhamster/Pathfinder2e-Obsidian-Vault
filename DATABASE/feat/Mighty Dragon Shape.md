@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Mighty Dragon Shape
-frequency: null
-heighten_level: null
 id: '1949'
 level: '18'
 name: Mighty Dragon Shape
 prerequisite: '[[DATABASE/feat/Shape of the Dragon|Shape of the Dragon]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,11 +1,9 @@
 ﻿---
 actions: '[two-actions]'
-area: null
 bloodline: '[[DATABASE/sorcererbloodline/Demonic|Demonic]]'
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Balumbdar|Balumbdar]]'
 - '[[DATABASE/deity/Baphomet|Baphomet]]'
@@ -17,22 +15,14 @@ deity:
 - '[[DATABASE/deity/Rovagug|Rovagug]]'
 - '[[DATABASE/deity/The Laborer''s Bastion|The Laborer''s Bastion]]'
 - '[[DATABASE/deity/Vineshvakhi|Vineshvakhi]]'
-domain: null
 duration: 5 minutes
-element: null
 heighten: 4th, 6th
 heighten_level: 2, 4, 6
 id: '102'
-lesson: null
 level: '2'
-mystery: null
 name: Enlarge
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: 1 willing creature
@@ -42,7 +32,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Polymorph|Polymorph]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Spell
 
 ---

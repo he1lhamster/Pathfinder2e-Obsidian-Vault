@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Vanara Weapon Trickery
-frequency: null
-heighten_level: null
 id: '4011'
 level: '5'
 name: Vanara Weapon Trickery
 prerequisite: '[[DATABASE/feat/Vanara Weapon Familiarity|Vanara Weapon Familiarity]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Vanara|Vanara]]'
-trigger: null
 type: Feat
 
 ---

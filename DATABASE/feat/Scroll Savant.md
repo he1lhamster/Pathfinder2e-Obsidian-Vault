@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Scroll Savant
-frequency: null
-heighten_level: null
 id: '652'
 level: '10'
 name: Scroll Savant
 prerequisite: Expert in [[DATABASE/skill/Crafting|Crafting]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Wizard|Wizard]]'
-trigger: null
 type: Feat
 
 ---

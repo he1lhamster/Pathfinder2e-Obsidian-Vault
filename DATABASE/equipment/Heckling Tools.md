@@ -1,57 +1,22 @@
 ﻿---
-ac: null
-actions: null
 alignment: No Alignment
-base_item: null
 bulk: as tools of the normal type
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '2382'
 item_category: Cursed Items
-item_subcategory: null
-land_speed: null
 level: '3'
-max_speed: null
 name: Heckling Tools
-onset: null
-price: null
-range: null
 rarity: Rare
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Enchantment
-size: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-spell: null
-stage: null
 subcategory: curseditem
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Cursed|Cursed]]'
 - '[[DATABASE/trait/Enchantment|Enchantment]]'
 - '[[DATABASE/trait/Intelligent|Intelligent]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Item
 usage: held in 2 hands
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Heckling Tools<span class="item-type">Item 3</span>

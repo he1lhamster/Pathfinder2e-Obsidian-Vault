@@ -7,7 +7,6 @@ language:
 max_speed: '25'
 name: Psychopomp Eidolon
 rarity: Common
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium

@@ -1,57 +1,24 @@
 ﻿---
-ac: null
 actions: '[one-action]'
-alignment: null
-base_item: null
 bulk: L
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '718'
 item_category: Consumables
 item_subcategory: Oils
-land_speed: null
-level: '18'
-max_speed: null
+level: '6'
 name: Oil of Unlife
-onset: null
-price: 5,000 gp
-range: null
+price: 50 gp
 rarity: Common
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Necromancy
-size: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-spell: null
-stage: null
 subcategory: consumable/oil
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Consumable|Consumable]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Negative|Negative]]'
 - '[[DATABASE/trait/Oil|Oil]]'
-trigger: null
 type: Item
 usage: held in 1 hand
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Oil of Unlife<span class="item-type">Item 1+</span>

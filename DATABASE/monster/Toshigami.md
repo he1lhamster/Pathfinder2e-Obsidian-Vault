@@ -1,10 +1,7 @@
 ﻿---
 ac: '35'
 alignment: NG
-all_resistance: null
-burrow_speed: null
 charisma: '+8'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Attack of Opportunity
@@ -14,13 +11,10 @@ creature_ability:
 - Ward
 creature_family: '[[DATABASE/monsterfamily/Kami|Kami]]'
 dexterity: '+7'
-element: null
 fly_speed: '50'
 fortitude: '+25'
-hardness: null
 hp: '370'
 id: '1204'
-immunity: null
 intelligence: '+2'
 land_speed: '50'
 language:
@@ -33,9 +27,6 @@ name: Toshigami
 perception: '+30'
 rarity: Rare
 reflex: '+28'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -66,7 +57,6 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Kami|Kami]]'
 - '[[DATABASE/trait/Rare|Rare]]'

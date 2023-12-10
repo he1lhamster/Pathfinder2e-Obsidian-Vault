@@ -1,25 +1,18 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Phase Bullet
 frequency: once per day
-heighten_level: null
 id: '3270'
 level: '14'
 name: Phase Bullet
 prerequisite: '[[DATABASE/feat/Spellshot Dedication|Spellshot Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Conjuration
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Magical|Magical]]'
-trigger: null
 type: Feat
 
 ---

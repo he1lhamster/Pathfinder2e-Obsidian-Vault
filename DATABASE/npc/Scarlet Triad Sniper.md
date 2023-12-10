@@ -1,24 +1,17 @@
 ﻿---
 ac: '32'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Backshot
 - Rain of Arrows
 - Sneak Attack
 - Swiftness
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+20'
 hp: '195'
 id: '1559'
-immunity: null
 intelligence: '+1'
 land_speed: '30'
 language:
@@ -30,8 +23,6 @@ name: Scarlet Triad Sniper
 perception: '+23'
 rarity: Rare
 reflex: '+22'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
@@ -44,12 +35,10 @@ source: '[[DATABASE/source/Pathfinder 147. Tomorrow Must Burn|Pathfinder #147: T
   Must Burn]]'
 speed:
 - 30 feet; swiftness
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Elf|Elf]]'
 - '[[DATABASE/trait/Human|Human]]'
@@ -59,7 +48,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+21'
 wisdom: '+4'
 

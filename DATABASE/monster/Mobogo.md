@@ -1,10 +1,7 @@
 ﻿---
 ac: '29'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+7'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Song of the Swamp
@@ -12,15 +9,11 @@ creature_ability:
 - Swamp Stride
 - Tongue Grab
 - Tongue Reposition
-creature_family: null
 dexterity: '+5'
-element: null
 fly_speed: '20'
 fortitude: '+22'
-hardness: null
 hp: '160'
 id: '1229'
-immunity: null
 intelligence: '-2'
 land_speed: '25'
 language:
@@ -32,9 +25,6 @@ name: Mobogo
 perception: '+21'
 rarity: Common
 reflex: '+17'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Huge
@@ -68,7 +58,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+19'
 wisdom: '+5'
 

@@ -1,21 +1,11 @@
 ﻿---
-ac: null
-all_resistance: null
 complexity: Simple
 element: Fire
-fortitude: null
-hardness: null
 hazard_type: Environmental
-hp: null
 id: '389'
-immunity: null
 level: '12'
 name: Stage Fire
 rarity: Uncommon
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 190. The Choosing|Pathfinder #190: The Choosing]]'
 trait:
 - '[[DATABASE/trait/Complex|Complex]]'
@@ -23,8 +13,6 @@ trait:
 - '[[DATABASE/trait/Fire|Fire]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Stage Fire<span class="item-type">Hazard 12</span>

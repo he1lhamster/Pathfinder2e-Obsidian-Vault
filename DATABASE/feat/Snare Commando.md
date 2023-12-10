@@ -1,21 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Snare Commando
-frequency: null
-heighten_level: null
 id: '2388'
 level: '9'
 name: Snare Commando
 prerequisite: '[[DATABASE/feat/Snare Crafting|Snare Crafting]] ; Expert in [[DATABASE/skill/Deception|Deception]]
   or Expert in [[DATABASE/skill/Intimidation|Intimidation]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Kobold|Kobold]]'
 trigger: A creature fails or critically fails a save against your [[DATABASE/trait/Snare|snare]]

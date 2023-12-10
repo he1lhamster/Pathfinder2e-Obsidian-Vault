@@ -1,25 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Flexible Spellcaster Dedication
-frequency: null
-heighten_level: null
 id: '2994'
 level: '2'
 name: Flexible Spellcaster Dedication
 prerequisite: flexible spell preparation
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Class|Class]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
-trigger: null
 type: Feat
 
 ---

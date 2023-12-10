@@ -1,10 +1,7 @@
 ﻿---
 ac: '18'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+11'
-hardness: null
 hazard_type: Environmental
 hp: 30 (BT 15)
 id: '35'
@@ -17,9 +14,6 @@ level: '2'
 name: Brown Mold
 rarity: Common
 reflex: '+5'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
 - '[[DATABASE/trait/Environmental|Environmental]]'
@@ -27,7 +21,6 @@ trait:
 type: Hazard
 weakness:
 - cold 10
-will: null
 
 ---
 # Brown Mold<span class="item-type">Hazard 2</span>

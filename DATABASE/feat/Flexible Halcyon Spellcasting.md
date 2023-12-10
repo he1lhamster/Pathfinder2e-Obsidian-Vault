@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Flexible Halcyon Spellcasting
-frequency: null
-heighten_level: null
 id: '1121'
 level: '12'
 name: Flexible Halcyon Spellcasting
 prerequisite: '[[DATABASE/feat/Halcyon Spellcasting Initiate|Halcyon Spellcasting
   Initiate]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,16 +1,9 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
-frequency: null
 id: '1'
 name: Call on Ancient Blood
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 trigger: You attempt a saving throw against a magical effect, but you haven't rolled
   yet.
 type: Action

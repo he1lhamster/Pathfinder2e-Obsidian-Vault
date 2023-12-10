@@ -1,24 +1,14 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Furious Sprint
-frequency: null
-heighten_level: null
 id: '158'
 level: '10'
 name: Furious Sprint
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Barbarian|Barbarian]]'
 - '[[DATABASE/trait/Rage|Rage]]'
-trigger: null
 type: Feat
 
 ---

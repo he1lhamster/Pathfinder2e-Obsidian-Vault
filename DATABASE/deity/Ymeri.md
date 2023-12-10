@@ -24,11 +24,9 @@ follower_alignment:
 id: '108'
 name: Ymeri
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Intimidation|Intimidation]]'
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-trait: null
 type: Deity
 
 ---

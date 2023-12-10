@@ -1,24 +1,17 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Aldori Parry
-frequency: null
-heighten_level: null
 id: '877'
+leads_to: '[[DATABASE/feat/Aldori Riposte|Aldori Riposte]]'
 level: '4'
 name: Aldori Parry
 prerequisite: '[[DATABASE/feat/Aldori Duelist Dedication|Aldori Duelist Dedication]]'
 rarity: Common
 requirement: You are wielding only an Aldori dueling sword and have your other hand
   or hands free.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/World Guide|World Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,20 +1,12 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Alter Resistance
 frequency: once per hour
-heighten_level: null
 id: '2542'
 level: '13'
 name: Alter Resistance
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Ganzi|Ganzi]]'
 trigger: You take acid, electricity, or sonic damage.

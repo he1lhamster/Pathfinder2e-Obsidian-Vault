@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Alabaster Eyes
-frequency: null
-heighten_level: null
 id: '4021'
 level: '1'
 name: Alabaster Eyes
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Vishkanya|Vishkanya]]'
-trigger: null
 type: Feat
 
 ---

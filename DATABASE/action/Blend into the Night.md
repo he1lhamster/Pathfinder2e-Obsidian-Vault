@@ -1,19 +1,11 @@
 ﻿---
-actions: null
-cost: null
-element: null
-frequency: null
 id: '1489'
 name: Blend into the Night
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
 trait:
 - '[[DATABASE/trait/Camping|Camping]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
-trigger: null
 type: Action
 
 ---

@@ -5,33 +5,20 @@ bloodline: '[[DATABASE/sorcererbloodline/Elemental|Elemental]]'
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
 heighten: '+1'
 heighten_level: 5, 6, 7, 8, 9, 10
 id: '503'
-lesson: null
 level: '5'
-mystery: null
 name: Elemental Blast
-patron_theme: null
 range: 30 feet (burst only)
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 saving_throw: basicReflex
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
-tradition: null
 trait:
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Sorcerer|Sorcerer]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Focus
 
 ---

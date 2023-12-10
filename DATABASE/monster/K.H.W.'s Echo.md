@@ -1,10 +1,7 @@
 ﻿---
 ac: '36'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+8'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Astral Spindle Implement
@@ -15,15 +12,10 @@ creature_ability:
 - Destabilized Form
 - Reconstitute from Thought
 - Spindle's Web
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+23'
-hardness: null
 hp: '280'
 id: '2039'
-immunity: null
 intelligence: '+5'
 land_speed: '25'
 language:
@@ -35,10 +27,6 @@ name: K.H.W.'s Echo
 perception: '+30'
 rarity: Unique
 reflex: '+24'
-resistance: null
-rus_type_level: null
-school: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +28'
@@ -51,21 +39,17 @@ skill:
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 speed:
 - 25 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+28'
 wisdom: '+5'
 

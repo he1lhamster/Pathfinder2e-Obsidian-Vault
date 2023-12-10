@@ -1,20 +1,13 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
-frequency: null
 id: '2126'
 name: Base Kinesis
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 trait:
 - '[[DATABASE/trait/Impulse|Impulse]]'
 - '[[DATABASE/trait/Kineticist|Kineticist]]'
 - '[[DATABASE/trait/Primal|Primal]]'
-trigger: null
 type: Action
 
 ---

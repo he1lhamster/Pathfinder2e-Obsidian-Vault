@@ -1,10 +1,6 @@
 ﻿---
 ac: '16'
-alignment: null
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Dissolve
@@ -14,7 +10,6 @@ dexterity: '+3'
 element: Water
 fly_speed: '20'
 fortitude: '+7'
-hardness: null
 hp: '20'
 id: '2659'
 immunity:
@@ -23,7 +18,6 @@ immunity:
 - '[[DATABASE/trait/Poison|poison]]'
 - '[[DATABASE/trait/Sleep|sleep]]'
 intelligence: '-4'
-land_speed: null
 language:
 - '[[DATABASE/language/Thalassic|Thalassic]]'
 level: '1'
@@ -34,8 +28,6 @@ rarity: Common
 reflex: '+10'
 resistance:
 - '[[DATABASE/trait/Fire|fire]] 5'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -46,7 +38,6 @@ source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 speed:
 - fly 20 feet
 - swim 50 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
@@ -60,7 +51,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+4'
 wisdom: '+1'
 

@@ -6,7 +6,6 @@ price: 5 sp
 rarity: Common
 requirement: ability to cast a [[DATABASE/trait/Cold|cold]] spell or create a cold
   effect viamagic
-rus_type_level: null
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
 trait:
 - '[[DATABASE/trait/Meal|Meal]]'

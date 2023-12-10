@@ -1,13 +1,7 @@
 ﻿---
-actions: null
-cost: null
-element: null
-frequency: null
 id: '2041'
 name: Enter the Harrow Court
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Conjuration
 source: '[[DATABASE/source/Pathfinder 190. The Choosing|Pathfinder #190: The Choosing]]'
 trait:
@@ -17,7 +11,6 @@ trait:
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Occult|Occult]]'
 - '[[DATABASE/trait/Teleportation|Teleportation]]'
-trigger: null
 type: Action
 
 ---

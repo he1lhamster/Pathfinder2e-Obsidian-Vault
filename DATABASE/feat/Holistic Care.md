@@ -1,25 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Holistic Care
-frequency: null
-heighten_level: null
 id: '2030'
 level: '6'
 name: Holistic Care
 prerequisite: Trained in [[DATABASE/skill/Diplomacy|Diplomacy]] ; [[DATABASE/feat/Treat
   Condition|Treat Condition]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,10 +1,7 @@
 ﻿---
 ac: '27'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+17'
-hardness: null
 hazard_type: Environmental
 hp: '70'
 id: '10'
@@ -16,16 +13,11 @@ level: '8'
 name: Yellow Mold
 rarity: Common
 reflex: '+13'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Environmental|Environmental]]'
 - '[[DATABASE/trait/Fungus|Fungus]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Yellow Mold<span class="item-type">Hazard 8</span>

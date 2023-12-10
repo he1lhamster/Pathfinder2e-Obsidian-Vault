@@ -1,22 +1,15 @@
 ﻿---
 ac: '18'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Scurry
 - Upward Stab
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+5'
 hp: '30'
 id: '2486'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -28,9 +21,6 @@ name: Kolo Harvan
 perception: '+8'
 rarity: Unique
 reflex: '+11'
-resistance: null
-rus_type_level: null
-sense: null
 size: Small
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +7'
@@ -42,21 +32,17 @@ source: '[[DATABASE/source/Pathfinder 145. Hellknight Hill|Pathfinder #145: Hell
   Hill]]'
 speed:
 - 25 feet
-spell: null
 strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Halfling|Halfling]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+8'
 wisdom: '+0'
 

@@ -1,20 +1,15 @@
 ﻿---
 ac: '39'
 alignment: NE
-all_resistance: null
 burrow_speed: '20'
 charisma: '+6'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Poisonous Floodwaters
 - Rattling Magic
 - 'Toughest Teamwork: Envenomed Strike'
 - White Serpent Venom
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+30'
 hp: '256'
 id: '1524'
@@ -33,8 +28,6 @@ name: Yabin The Just (White Serpent Form)
 perception: '+28'
 rarity: Unique
 reflex: '+28'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -88,7 +81,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+33'
 wisdom: '+2'
 

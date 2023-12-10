@@ -1,8 +1,6 @@
 ﻿---
 ac: '33'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
 climb_speed: '25'
 constitution: '+2'
@@ -14,10 +12,7 @@ creature_ability:
 - Wind Up
 creature_family: '[[DATABASE/monsterfamily/Clockworks|Clockworks]]'
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+22'
-hardness: null
 hp: '205'
 id: '1981'
 immunity:
@@ -36,7 +31,6 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '25'
-language: null
 level: '12'
 max_speed: '25'
 name: Clockwork Puppeteer
@@ -45,8 +39,6 @@ rarity: Uncommon
 reflex: '+25'
 resistance:
 - physical 10 (except [[DATABASE/equipment/Adamantine Weapon|adamantine]] or orichalcum)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -57,12 +49,10 @@ source: '[[DATABASE/source/Pathfinder 180. The Smoking Gun|Pathfinder #180: The 
 speed:
 - 25 feet
 - climb 25 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Clockwork|Clockwork]]'
 - '[[DATABASE/trait/Construct|Construct]]'

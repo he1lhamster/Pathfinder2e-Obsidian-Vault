@@ -2,11 +2,8 @@
 id: '14'
 level: '15'
 name: Crimson Ooze
-onset: null
 rarity: Common
-rus_type_level: null
 saving_throw: DC 34 Fortitude
-school: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 stage: 'Stage 1: clumsy 1 (1 day)Stage 2: clumsy 2, and using the infected hand deals
   3d6 persistent bleed damage (1 day)Stage 3: clumsy 2, stupefied 2, and the infected

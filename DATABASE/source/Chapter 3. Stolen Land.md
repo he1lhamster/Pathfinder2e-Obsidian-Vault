@@ -2,9 +2,6 @@
 id: '172'
 name: Chapter 3. Stolen Land
 rarity: Common
-rus_type_level: null
-source: null
-trait: null
 type: Source
 
 ---

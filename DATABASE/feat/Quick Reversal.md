@@ -1,25 +1,16 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Quick Reversal
-frequency: null
-heighten_level: null
 id: '374'
 level: '4'
 name: Quick Reversal
-prerequisite: null
 rarity: Common
 requirement: You are flanked by at least two enemies.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fighter|Fighter]]'
 - '[[DATABASE/trait/Flourish|Flourish]]'
 - '[[DATABASE/trait/Press|Press]]'
-trigger: null
 type: Feat
 
 ---

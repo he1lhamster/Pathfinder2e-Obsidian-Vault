@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Kitsune Spell Mysteries
-frequency: null
-heighten_level: null
 id: '2624'
+leads_to: '[[DATABASE/feat/Kitsune Spell Expertise|Kitsune Spell Expertise]]'
 level: '5'
 name: Kitsune Spell Mysteries
 prerequisite: at least one innate spell from a kitsune heritage or ancestry feat
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Kitsune|Kitsune]]'
-trigger: null
 type: Feat
 
 ---

@@ -6,27 +6,14 @@ bloodline: '[[DATABASE/sorcererbloodline/Imperial|Imperial]] , [[DATABASE/sorcer
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
 heighten: 3rd, 4th
 heighten_level: 1, 3, 4
 id: '66'
-lesson: null
 level: '1'
-mystery: null
 name: Detect Magic
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Arcane
 - Divine
@@ -37,7 +24,6 @@ trait:
 - '[[DATABASE/trait/Cantrip|Cantrip]]'
 - '[[DATABASE/trait/Detection|Detection]]'
 - '[[DATABASE/trait/Divination|Divination]]'
-trigger: null
 type: Cantrip
 
 ---

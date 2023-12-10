@@ -1,27 +1,7 @@
 ﻿---
-bulk: '1'
-damage: 1d6 S
-deity: null
-favored_weapon: null
-hands: '1'
-id: '299'
-item_category: Weapons
-item_subcategory: Base Weapons
-level: '0'
+id: '265'
 name: Panabas
-price: 1 gp
-range: null
-rarity: Common
-rus_type_level: null
-source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-trait:
-- '[[DATABASE/trait/Forceful|Forceful]]'
-- '[[DATABASE/trait/Sweep|Sweep]]'
-- '[[DATABASE/trait/Two-Hand|Two-Hand d10]]'
-type: Weapon
-weapon_category: Martial
-weapon_group: '[[DATABASE/weapongroup/Sword|Sword]]'
-weapon_type: Melee
+source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 
 ---
 # Panabas

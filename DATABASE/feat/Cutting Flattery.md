@@ -1,26 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Cutting Flattery
-frequency: null
-heighten_level: null
 id: '4138'
 level: '5'
 name: Cutting Flattery
 prerequisite: '[[DATABASE/feat/Dandy Dedication|Dandy Dedication]] or [[DATABASE/feat/Pirate
   Dedication|Pirate Dedication]] ; Trained in [[DATABASE/skill/Intimidation|Intimidation]]'
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Firebrands|Firebrands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Skill|Skill]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

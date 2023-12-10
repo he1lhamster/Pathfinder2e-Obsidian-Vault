@@ -1,8 +1,6 @@
 ﻿---
 bulk: '2'
 damage: 1d8 S
-deity: null
-favored_weapon: null
 hands: '2'
 id: '261'
 item_category: Weapons
@@ -10,9 +8,7 @@ item_subcategory: Base Weapons
 level: '0'
 name: Donchak
 price: 4 gp
-range: null
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 trait:
 - '[[DATABASE/trait/Hampering|Hampering]]'

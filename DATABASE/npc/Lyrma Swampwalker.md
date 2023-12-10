@@ -1,20 +1,12 @@
 ﻿---
 ac: '14'
 alignment: CG
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+1'
-creature_ability: null
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+7'
 hp: 38 (currently 30)
 id: '2480'
-immunity: null
 intelligence: '-1'
 land_speed: '25'
 language:
@@ -27,8 +19,6 @@ name: Lyrma Swampwalker
 perception: '+11'
 rarity: Common
 reflex: '+10'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Small
@@ -43,12 +33,10 @@ source: '[[DATABASE/source/Pathfinder 157. Devil at the Dreaming Palace|Pathfind
   #157: Devil at the Dreaming Palace]]'
 speed:
 - 25 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Gnome|Gnome]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -56,7 +44,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+9'
 wisdom: '+3'
 

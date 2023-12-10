@@ -1,37 +1,25 @@
 ﻿---
 ac: '21'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Form Up
 - Troop Defenses
 - Troop Movement
 - Wild Swing
-creature_family: null
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+15'
-hardness: null
 hp: 90 (16 squares)
 id: '2712'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
-language: null
 level: '5'
 max_speed: '25'
 name: Cultist Troop
 perception: '+15'
 rarity: Common
 reflex: '+12'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Gargantuan
@@ -41,12 +29,10 @@ source: '[[DATABASE/source/Pathfinder 194. Cult of the Cave Worm|Pathfinder #194
   Cult of the Cave Worm]]'
 speed:
 - 25 feet; troop movement
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Troop|Troop]]'
@@ -54,7 +40,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+11'
 wisdom: '+0'
 

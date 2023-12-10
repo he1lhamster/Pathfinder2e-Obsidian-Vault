@@ -2,9 +2,7 @@
 id: '25'
 level: '2'
 name: Rust Creep
-onset: null
 rarity: Rare
-rus_type_level: null
 saving_throw: DC 15 Fortitude
 school: Transmutation
 source: '[[DATABASE/source/Rusthenge|Rusthenge]]'

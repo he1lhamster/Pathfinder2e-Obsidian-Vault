@@ -1,29 +1,16 @@
 ﻿---
 actions: '[three-actions]'
 area: 20-foot radius, 60-foot-tall cylinder
-bloodline: null
-component: null
-cost: null
-deity: null
-domain: null
 duration: 1 minute
 element: Fire
-heighten: null
 heighten_level: '8'
 id: '1361'
-lesson: null
 level: '8'
-mystery: null
 name: Rainbow Fumarole
-patron_theme: null
 range: 500 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: basicReflex
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-target: null
 tradition:
 - Arcane
 - Primal
@@ -33,7 +20,6 @@ trait:
 - '[[DATABASE/trait/Incapacitation|Incapacitation]]'
 - '[[DATABASE/trait/Light|Light]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
-trigger: null
 type: Spell
 
 ---

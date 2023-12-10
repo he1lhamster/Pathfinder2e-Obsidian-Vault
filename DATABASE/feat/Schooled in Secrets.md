@@ -1,24 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Schooled in Secrets
-frequency: null
-heighten_level: null
 id: '2148'
 level: '1'
 name: Schooled in Secrets
 prerequisite: Trained in [[DATABASE/skill/Occultism|Occultism]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: occultism
 trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

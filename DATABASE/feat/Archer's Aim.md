@@ -1,24 +1,15 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Archer's Aim
-frequency: null
-heighten_level: null
 id: '1889'
 level: '8'
 name: Archer's Aim
 prerequisite: '[[DATABASE/feat/Archer Dedication|Archer Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
-trigger: null
 type: Feat
 
 ---

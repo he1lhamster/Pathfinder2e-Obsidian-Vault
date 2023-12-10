@@ -2,7 +2,6 @@
 id: '471'
 name: Brace
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 trait:
 - Brace

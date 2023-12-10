@@ -1,10 +1,7 @@
 ﻿---
 ac: '21'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Corpse Throwing
@@ -12,10 +9,7 @@ creature_ability:
 - Wide Swing
 creature_family: '[[DATABASE/monsterfamily/Zombie|Zombie]]'
 dexterity: '-1'
-element: null
-fly_speed: null
 fortitude: '+16'
-hardness: null
 hp: 160 ( negative healing )
 id: '426'
 immunity:
@@ -27,16 +21,12 @@ immunity:
 - unconscious
 intelligence: '-5'
 land_speed: '25'
-language: null
 level: '6'
 max_speed: '25'
 name: Zombie Hulk
 perception: '+8'
 rarity: Common
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Huge
@@ -45,12 +35,10 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 25 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Mindless|Mindless]]'
 - '[[DATABASE/trait/Undead|Undead]]'

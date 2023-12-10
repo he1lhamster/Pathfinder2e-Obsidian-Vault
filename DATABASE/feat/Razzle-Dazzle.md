@@ -1,20 +1,12 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Razzle-Dazzle
 frequency: once per hour
-heighten_level: null
 id: '1417'
 level: '1'
 name: Razzle-Dazzle
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Gnome|Gnome]]'
 trigger: You [[DATABASE/condition/Blinded|blind]] or [[DATABASE/condition/Dazzled|dazzle]]

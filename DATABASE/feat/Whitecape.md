@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Whitecape
-frequency: null
-heighten_level: null
 id: '4005'
 level: '1'
 name: Whitecape
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Vanara|Vanara]]'
-trigger: null
 type: Feat
 
 ---

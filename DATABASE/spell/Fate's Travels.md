@@ -1,28 +1,15 @@
 ﻿---
-actions: null
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
 heighten: 6th
 heighten_level: 3, 6
 id: '1427'
-lesson: null
 level: '3'
-mystery: null
 name: Fate's Travels
-patron_theme: null
 range: touch
 rarity: Rare
-requirement: null
-rus_type_level: null
 saving_throw: Will
 school: Necromancy
 source: '[[DATABASE/source/Pathfinder 194. Cult of the Cave Worm|Pathfinder #194:
@@ -34,7 +21,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Spell
 
 ---

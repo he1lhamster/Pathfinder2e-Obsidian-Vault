@@ -1,25 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Splendid Companion
-frequency: null
-heighten_level: null
 id: '1208'
+leads_to: '[[DATABASE/feat/Specialized Companion|Specialized Companion]]'
 level: '12'
 name: Splendid Companion
 prerequisite: '[[DATABASE/feat/Mature Trained Companion|Mature Trained Companion]]'
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 152. Legacy of the Lost God|Pathfinder #152:
   Legacy of the Lost God]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

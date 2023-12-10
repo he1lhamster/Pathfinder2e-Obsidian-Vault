@@ -1,26 +1,18 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Olethros's Decree
 frequency: once per day
-heighten_level: null
 id: '2365'
 level: '17'
 name: Olethros's Decree
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Death|Death]]'
 - '[[DATABASE/trait/Divine|Divine]]'
 - '[[DATABASE/trait/Duskwalker|Duskwalker]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
-trigger: null
 type: Feat
 
 ---

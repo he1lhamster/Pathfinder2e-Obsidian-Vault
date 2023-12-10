@@ -1,56 +1,22 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
 bulk: L
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '2326'
 item_category: Worn Items
 item_subcategory: Other Worn Items
-land_speed: null
 level: '11'
-max_speed: null
 name: Mask of Uncanny Breath
-onset: null
 price: 1,200 gp
-range: null
 rarity: Common
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Necromancy
-size: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-spell: null
-stage: null
 subcategory: wornitem
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Focused|Focused]]'
 - '[[DATABASE/trait/Invested|Invested]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Occult|Occult]]'
-trigger: null
 type: Item
 usage: worn mask
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Mask of Uncanny Breath<span class="item-type">Item 11</span>

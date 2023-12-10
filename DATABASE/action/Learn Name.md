@@ -1,20 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
-frequency: null
 id: '775'
 name: Learn Name
 rarity: Rare
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 trait:
 - '[[DATABASE/trait/Downtime|Downtime]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Secret|Secret]]'
-trigger: null
 type: Action
 
 ---

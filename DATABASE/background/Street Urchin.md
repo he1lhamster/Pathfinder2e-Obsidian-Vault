@@ -8,16 +8,13 @@ ability_boost:
 feat: '[[DATABASE/feat/Pickpocket|Pickpocket]]'
 id: '33'
 name: Street Urchin
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Thievery|Thievery]]'
 - '[[DATABASE/skill/Lore|Lore]] forthe city you lived in as a street urchin (such
   as Absalom Lore or Magnimar Lore).'
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

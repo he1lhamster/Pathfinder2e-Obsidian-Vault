@@ -1,24 +1,16 @@
 ﻿---
 actions: '[one-action]'
-cost: null
 element: Fire
 feat: Scorching Disarm
 frequency: once per day
-heighten_level: null
 id: '2561'
 level: '9'
 name: Scorching Disarm
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fire|Fire]]'
 - '[[DATABASE/trait/Ifrit|Ifrit]]'
-trigger: null
 type: Feat
 
 ---

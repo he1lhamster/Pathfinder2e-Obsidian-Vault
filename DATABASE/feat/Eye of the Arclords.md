@@ -1,26 +1,19 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Eye of the Arclords
 frequency: once per day;
-heighten_level: null
 id: '870'
 level: '2'
 name: Eye of the Arclords
 prerequisite: Expert in [[DATABASE/skill/Arcana|Arcana]] ; [[DATABASE/feat/Arcane
   Sense|Arcane Sense]]
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/World Guide|World Guide]]'
 subcategory: arcana
 trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Skill|Skill]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

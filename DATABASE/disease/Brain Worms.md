@@ -4,9 +4,7 @@ level: '11'
 name: Brain Worms
 onset: 1 day
 rarity: Common
-rus_type_level: null
 saving_throw: DC 28 Fortitude
-school: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 stage: "Stage 1: stupefied 2 (1 day)Stage 2: stupefied 2, and whenever you take damage,\
   \ you must succeed at a Will save against thedisease\u2019s DC or become confused\

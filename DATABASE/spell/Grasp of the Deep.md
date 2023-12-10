@@ -1,27 +1,15 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
-component: null
-cost: null
-deity: null
-domain: null
 duration: 1 minute
 element: Water
 heighten: 6th
 heighten_level: 4, 6
 id: '1390'
-lesson: null
 level: '4'
-mystery: null
 name: Grasp of the Deep
-patron_theme: null
 range: 60 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Will
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 target: 1 creature
 tradition:
@@ -32,7 +20,6 @@ trait:
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Water|Water]]'
-trigger: null
 type: Spell
 
 ---

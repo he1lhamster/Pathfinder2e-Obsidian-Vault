@@ -1,22 +1,15 @@
 ﻿---
 ac: '27'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Dreadsong
 - Jealous Musician
 - Performance Anxiety
 - Rend
-creature_family: null
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+13'
-hardness: null
 hp: '160'
 id: '991'
 immunity:
@@ -33,9 +26,6 @@ name: Dreadsong Dancer
 perception: '+13'
 rarity: Rare
 reflex: '+19'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -59,7 +49,6 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fiend|Fiend]]'
 - '[[DATABASE/trait/Rare|Rare]]'

@@ -1,23 +1,14 @@
 ﻿---
 actions: '[three-actions]'
-cost: null
-element: null
 feat: Final Shot
-frequency: null
-heighten_level: null
 id: '3208'
 level: '18'
 name: Final Shot
-prerequisite: null
 rarity: Common
 requirement: You're wielding an unloaded firearm.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Gunslinger|Gunslinger]]'
-trigger: null
 type: Feat
 
 ---

@@ -3,9 +3,7 @@ actions: '[three-actions]'
 id: '39'
 name: Trample
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
-trait: null
 type: Creature Ability
 
 ---

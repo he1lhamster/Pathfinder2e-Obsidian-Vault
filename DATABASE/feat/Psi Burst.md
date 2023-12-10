@@ -1,20 +1,13 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Psi Burst
 frequency: once per round
-heighten_level: null
 id: '3661'
 level: '2'
 name: Psi Burst
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
@@ -22,7 +15,6 @@ trait:
 - '[[DATABASE/trait/Occult|Occult]]'
 - '[[DATABASE/trait/Psyche|Psyche]]'
 - '[[DATABASE/trait/Psychic|Psychic]]'
-trigger: null
 type: Feat
 
 ---

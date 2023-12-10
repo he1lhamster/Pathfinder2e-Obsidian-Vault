@@ -1,24 +1,18 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Gladiator Dedication
-frequency: null
-heighten_level: null
 id: '1976'
+leads_to: '[[DATABASE/feat/Big Debut|Big Debut]] , [[DATABASE/feat/Fancy Moves|Fancy
+  Moves]] , [[DATABASE/feat/Living for the Applause|Living for the Applause]] , [[DATABASE/feat/Performative
+  Weapons Training|Performative Weapons Training]] , [[DATABASE/feat/Play to the Crowd|Play
+  to the Crowd]] , [[DATABASE/feat/Stage Fighting|Stage Fighting]]'
 level: '2'
 name: Gladiator Dedication
 prerequisite: '[[DATABASE/feat/Impressive Performance|Impressive Performance]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
-trigger: null
 type: Feat
 
 ---

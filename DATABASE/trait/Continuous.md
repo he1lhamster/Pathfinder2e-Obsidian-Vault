@@ -2,7 +2,6 @@
 id: '451'
 name: Continuous
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
 - Continuous

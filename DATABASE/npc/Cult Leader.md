@@ -1,22 +1,16 @@
 ﻿---
 ac: '23'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Gather Converts
 - Protect the Master!
 creature_family: '[[DATABASE/monsterfamily/Mystics|Mystics]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+12'
 hp: '95'
 id: '930'
-immunity: null
 intelligence: '+4'
 land_speed: '25'
 language:
@@ -27,9 +21,6 @@ name: Cult Leader
 perception: '+14'
 rarity: Common
 reflex: '+15'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Arcana|Arcana]] +13'
@@ -68,15 +59,12 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+18'
 wisdom: '+3'
 

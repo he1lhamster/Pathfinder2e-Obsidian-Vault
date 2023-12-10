@@ -1,56 +1,23 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
 base_item: '[[DATABASE/weapon/Flintlock Musket|Flintlock Musket]]'
 bulk: L
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
 element: Fire
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '1892'
 item_category: Weapons
 item_subcategory: Specific Magic Weapons
-land_speed: null
 level: '5'
-max_speed: null
 name: Solar Shellflower
-onset: null
 price: 160 gp
-range: null
 rarity: Uncommon
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
-size: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-spell: null
-stage: null
-subcategory: null
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Arcane|Arcane]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Fire|Fire]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Item
 usage: held in 2 hands
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Solar Shellflower<span class="item-type">Item 5</span>

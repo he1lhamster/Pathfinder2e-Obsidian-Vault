@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Contract Negotiator|Contract Negotiator]]'
 id: '374'
 name: Union Representative
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Diplomacy|Diplomacy]]'
 - Legal [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Highhelm|Highhelm]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

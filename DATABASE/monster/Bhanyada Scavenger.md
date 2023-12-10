@@ -1,8 +1,6 @@
 ﻿---
 ac: '26'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
 climb_speed: '25'
 constitution: '+3'
@@ -14,13 +12,9 @@ creature_ability:
 - Sudden Charge
 creature_family: '[[DATABASE/monsterfamily/Bhanyada|Bhanyada]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+15'
-hardness: null
 hp: '150'
 id: '2516'
-immunity: null
 intelligence: '-3'
 land_speed: '25'
 language:
@@ -33,8 +27,6 @@ rarity: Uncommon
 reflex: '+18'
 resistance:
 - bludgeoning 10
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -46,12 +38,10 @@ source: '[[DATABASE/source/Pathfinder 190. The Choosing|Pathfinder #190: The Cho
 speed:
 - 25 feet
 - climb 25 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

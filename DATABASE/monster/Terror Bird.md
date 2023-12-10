@@ -1,35 +1,24 @@
 ﻿---
 ac: '17'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Sprint
 - Tearing Clutch
 creature_family: '[[DATABASE/monsterfamily/Terror Bird|Terror Bird]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+11'
-hardness: null
 hp: '30'
 id: '1334'
-immunity: null
 intelligence: '-4'
 land_speed: '50'
-language: null
 level: '2'
 max_speed: '50'
 name: Terror Bird
 perception: '+6'
 rarity: Common
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Large
@@ -39,19 +28,16 @@ skill:
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 50 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+4'
 wisdom: '+0'
 

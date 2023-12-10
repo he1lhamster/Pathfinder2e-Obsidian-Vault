@@ -1,7 +1,6 @@
 ﻿---
 ac: '31'
 alignment: LE
-all_resistance: null
 burrow_speed: '20'
 charisma: '+6'
 climb_speed: '20'
@@ -14,14 +13,10 @@ creature_ability:
 - Steady Spellcasting
 - Worm Form
 - Worm's Feast
-creature_family: null
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+21'
 hp: '140'
 id: '2719'
-immunity: null
 intelligence: '+3'
 land_speed: '20'
 language:
@@ -37,8 +32,6 @@ name: Narseigus Wormcaller
 perception: '+20'
 rarity: Unique
 reflex: '+18'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) 10 feet'
@@ -95,7 +88,6 @@ strength: '+2'
 strength_req: '2'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Duergar|Duergar]]'
 - '[[DATABASE/trait/Dwarf|Dwarf]]'
@@ -105,7 +97,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+24'
 wisdom: '+3'
 

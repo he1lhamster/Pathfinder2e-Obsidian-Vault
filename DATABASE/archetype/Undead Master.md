@@ -4,7 +4,6 @@ level: '2'
 name: Undead Master
 prerequisite: evil alignment
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

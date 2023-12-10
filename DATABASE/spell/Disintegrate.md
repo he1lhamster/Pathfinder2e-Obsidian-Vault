@@ -1,32 +1,22 @@
 ﻿---
 actions: '[two-actions]'
-area: null
 bloodline: '[[DATABASE/sorcererbloodline/Demonic|Demonic]] , [[DATABASE/sorcererbloodline/Imperial|Imperial]]
   , [[DATABASE/sorcererbloodline/Phoenix|Phoenix]]'
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Kerkamoth|Kerkamoth]]'
 - '[[DATABASE/deity/Rovagug|Rovagug]]'
 - '[[DATABASE/deity/Set|Set]]'
 - '[[DATABASE/deity/Sorrow''s Sword|Sorrow''s Sword]]'
-domain: null
-duration: null
-element: null
 heighten: '+1'
 heighten_level: 6, 7, 8, 9, 10
 id: '76'
-lesson: null
 level: '6'
-mystery: null
 name: Disintegrate
-patron_theme: null
 range: 120 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Fortitude
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -36,7 +26,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Attack|Attack]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
-trigger: null
 type: Spell
 
 ---

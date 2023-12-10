@@ -1,19 +1,11 @@
 ﻿---
-ac: null
 bulk: '20'
-fortitude: null
-hardness: null
-hp: null
 id: '4'
 item_category: Siege Weapons
-land_speed: null
 level: '6'
-max_speed: null
 name: Covered Battering Ram
 price: 250 gp
 rarity: Uncommon
-reflex: null
-rus_type_level: null
 size: Large
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:

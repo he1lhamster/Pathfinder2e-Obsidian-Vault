@@ -1,8 +1,6 @@
 ﻿---
 ac: '32'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
 climb_speed: '35'
 constitution: '+5'
@@ -14,12 +12,9 @@ creature_ability:
 - Ice Climb
 - Snow
 - Vision
-creature_family: null
 dexterity: '+7'
-element: null
 fly_speed: '65'
 fortitude: '+23'
-hardness: null
 hp: '230'
 id: '1479'
 immunity:
@@ -37,9 +32,6 @@ name: Drake Courser
 perception: '+22'
 rarity: Uncommon
 reflex: '+25'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -55,7 +47,6 @@ speed:
 - fly 65 feet
 - swim 35 feet
 - ice climb 35 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:

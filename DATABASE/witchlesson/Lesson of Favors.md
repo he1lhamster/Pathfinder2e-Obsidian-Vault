@@ -2,9 +2,7 @@
 id: '13'
 name: Lesson of Favors
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-trait: null
 type: Witch Lesson
 
 ---

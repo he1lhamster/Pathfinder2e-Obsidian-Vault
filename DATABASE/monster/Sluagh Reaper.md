@@ -1,10 +1,7 @@
 ﻿---
 ac: '29'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Frightful Presence
@@ -14,10 +11,8 @@ creature_ability:
 - Steal Soul
 creature_family: '[[DATABASE/monsterfamily/Sluagh|Sluagh]]'
 dexterity: '+7'
-element: null
 fly_speed: '30'
 fortitude: '+17'
-hardness: null
 hp: 175 ( negative healing )
 id: '1905'
 immunity:
@@ -38,9 +33,6 @@ name: Sluagh Reaper
 perception: '+21'
 rarity: Uncommon
 reflex: '+21'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 - soulscent (imprecise) 100feet
@@ -61,7 +53,6 @@ strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Leap and Fire
-frequency: null
-heighten_level: null
 id: '3179'
 level: '8'
 name: Leap and Fire
 prerequisite: '[[DATABASE/feat/Hit the Dirt!|Hit the Dirt!]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Gunslinger|Gunslinger]]'
-trigger: null
 type: Feat
 
 ---

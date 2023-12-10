@@ -1,23 +1,16 @@
 ﻿---
 ac: '20'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Sneak Attack
 - Twin Feint
 creature_family: '[[DATABASE/monsterfamily/Bugbear|Bugbear]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+9'
-hardness: null
 hp: '44'
 id: '59'
-immunity: null
 intelligence: '-1'
 land_speed: '25'
 language:
@@ -29,9 +22,6 @@ name: Bugbear Tormentor
 perception: '+8'
 rarity: Common
 reflex: '+10'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - scent (imprecise) 30 feet
@@ -45,12 +35,10 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 25 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Goblin|Goblin]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -58,7 +46,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+6'
 wisdom: '+1'
 

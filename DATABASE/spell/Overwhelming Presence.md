@@ -6,23 +6,12 @@ bloodline: '[[DATABASE/sorcererbloodline/Draconic|Draconic]] , [[DATABASE/sorcer
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: until full tribute is paid
-element: null
-heighten: null
 heighten_level: '9'
 id: '212'
-lesson: null
 level: '9'
-mystery: null
 name: Overwhelming Presence
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Will
 school: Enchantment
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -36,7 +25,6 @@ trait:
 - '[[DATABASE/trait/Incapacitation|Incapacitation]]'
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Visual|Visual]]'
-trigger: null
 type: Spell
 
 ---

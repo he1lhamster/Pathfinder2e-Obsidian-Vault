@@ -1,26 +1,18 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Game Hunter Dedication
-frequency: null
-heighten_level: null
 id: '3425'
+leads_to: '[[DATABASE/feat/Big Game Trapper|Big Game Trapper]] , [[DATABASE/feat/Keep
+  Pace|Keep Pace]] , [[DATABASE/feat/Quick Positioning|Quick Positioning]]'
 level: '2'
 name: Game Hunter Dedication
 prerequisite: Trained in [[DATABASE/skill/Survival|Survival]]
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 175. Broken Tusk Moon|Pathfinder #175: Broken
   Tusk Moon]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

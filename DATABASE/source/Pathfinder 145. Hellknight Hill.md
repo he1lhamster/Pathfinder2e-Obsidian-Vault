@@ -2,9 +2,6 @@
 id: '4'
 name: Pathfinder 145. Hellknight Hill
 rarity: Common
-rus_type_level: null
-source: null
-trait: null
 type: Source
 
 ---

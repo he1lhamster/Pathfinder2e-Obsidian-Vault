@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Sense for Trouble
-frequency: null
-heighten_level: null
 id: '2325'
 level: '9'
 name: Sense for Trouble
 prerequisite: '[[DATABASE/feat/Cat''s Luck|Cat''s Luck]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Catfolk|Catfolk]]'
-trigger: null
 type: Feat
 
 ---

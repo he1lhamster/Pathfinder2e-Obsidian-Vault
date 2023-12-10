@@ -1,29 +1,15 @@
 ﻿---
 actions: '[two-actions]'
 area: 15-foot emanation
-bloodline: null
-component: null
-cost: null
-deity: null
-domain: null
 duration: sustained up to 1 minute
 element: Air
-heighten: null
 heighten_level: '7'
 id: '1324'
-lesson: null
 level: '7'
-mystery: null
 name: Vacuum
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Fortitude
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-target: null
 tradition:
 - Arcane
 - Primal
@@ -32,7 +18,6 @@ trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Incapacitation|Incapacitation]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
-trigger: null
 type: Spell
 
 ---

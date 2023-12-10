@@ -1,24 +1,15 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Determination
 frequency: once per day
-heighten_level: null
 id: '415'
 level: '14'
 name: Determination
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Fighter|Fighter]]'
-trigger: null
 type: Feat
 
 ---

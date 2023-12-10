@@ -1,10 +1,6 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Never Tire
-frequency: null
-heighten_level: null
 id: '1932'
 level: '4'
 name: Never Tire
@@ -12,10 +8,7 @@ prerequisite: '[[DATABASE/feat/Celebrity Dedication|Celebrity Dedication]]'
 rarity: Common
 requirement: You are [[DATABASE/condition/Observed|observed]] by at least three creatures
   who aren'tfoes.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 trigger: You would gain the [[DATABASE/condition/Fatigued|fatigued]] condition.

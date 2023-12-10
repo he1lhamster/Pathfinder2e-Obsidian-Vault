@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Snare Genius
-frequency: null
-heighten_level: null
 id: '1278'
 level: '5'
 name: Snare Genius
 prerequisite: Expert in [[DATABASE/skill/Crafting|Crafting]] ; [[DATABASE/feat/Snare
   Crafting|Snare Crafting]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Kobold|Kobold]]'
-trigger: null
 type: Feat
 
 ---

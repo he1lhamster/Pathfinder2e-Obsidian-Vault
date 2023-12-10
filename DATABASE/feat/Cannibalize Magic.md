@@ -1,24 +1,16 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Cannibalize Magic
 frequency: once per day
-heighten_level: null
 id: '4049'
 level: '13'
 name: Cannibalize Magic
 prerequisite: '[[DATABASE/feat/Fey Influence|Fey Influence]]'
 rarity: Rare
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/All Ancestries|All Ancestries]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Feat
 
 ---

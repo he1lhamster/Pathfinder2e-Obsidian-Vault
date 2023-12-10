@@ -1,10 +1,7 @@
 ﻿---
 ac: '27'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Big Swing
@@ -13,12 +10,9 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Giant|Giant]]'
 dexterity: '+2'
 element: Earth
-fly_speed: null
 fortitude: '+18'
-hardness: null
 hp: '150'
 id: '221'
-immunity: null
 intelligence: '+0'
 land_speed: '35'
 language:
@@ -30,9 +24,6 @@ name: Stone Giant
 perception: '+16'
 rarity: Common
 reflex: '+14'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Large
@@ -44,12 +35,10 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 35 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Giant|Giant]]'
@@ -59,7 +48,6 @@ vision: Darkvision
 weakest_save:
 - Reflex
 - Will
-weakness: null
 will: '+14'
 wisdom: '+1'
 

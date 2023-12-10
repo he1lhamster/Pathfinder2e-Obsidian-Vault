@@ -1,8 +1,6 @@
 ﻿---
 ac: '16'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
 climb_speed: '15'
 constitution: '+4'
@@ -12,25 +10,17 @@ creature_ability:
 - Tick Fever
 creature_family: '[[DATABASE/monsterfamily/Tick|Tick]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+9'
-hardness: null
 hp: '20'
 id: '826'
-immunity: null
 intelligence: '-5'
 land_speed: '15'
-language: null
 level: '1'
 max_speed: '15'
 name: Giant Tick
 perception: '+6'
 rarity: Common
 reflex: '+6'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -41,19 +31,16 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 15 feet
 - climb 15 feet
-spell: null
 strength: '+1'
 strength_req: '1'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+4'
 wisdom: '+1'
 

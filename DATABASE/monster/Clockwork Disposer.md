@@ -1,20 +1,14 @@
 ﻿---
 ac: '21'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Furnace Belch
 - Wind-Up
 creature_family: '[[DATABASE/monsterfamily/Clockworks|Clockworks]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+12'
-hardness: null
 hp: '70'
 id: '1947'
 immunity:
@@ -33,7 +27,6 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '25'
-language: null
 level: '5'
 max_speed: '25'
 name: Clockwork Disposer
@@ -43,8 +36,6 @@ reflex: '+15'
 resistance:
 - physical 5 (except [[DATABASE/equipment/Wand of Smoldering Fireballs|adamantine]]
   or orichalcum)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -55,12 +46,10 @@ source: '[[DATABASE/source/Pathfinder 179. Cradle of Quartz|Pathfinder #179: Cra
   of Quartz]]'
 speed:
 - 25 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Clockwork|Clockwork]]'
 - '[[DATABASE/trait/Construct|Construct]]'

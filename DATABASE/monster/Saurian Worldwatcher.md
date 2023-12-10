@@ -1,10 +1,7 @@
 ﻿---
 ac: '43'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Boneshaking Roar
@@ -12,13 +9,9 @@ creature_ability:
 - Stunning Blow
 creature_family: '[[DATABASE/monsterfamily/Saurian|Saurian]]'
 dexterity: '+9'
-element: null
-fly_speed: null
 fortitude: '+30'
-hardness: null
 hp: '330'
 id: '978'
-immunity: null
 intelligence: '+5'
 land_speed: '40'
 language:
@@ -34,8 +27,6 @@ rarity: Uncommon
 reflex: '+33'
 resistance:
 - fire 15
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Huge
@@ -63,7 +54,6 @@ strength: '+7'
 strength_req: '7'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dinosaur|Dinosaur]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -72,7 +62,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+32'
 wisdom: '+8'
 

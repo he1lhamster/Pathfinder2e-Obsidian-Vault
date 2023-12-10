@@ -1,39 +1,26 @@
 ﻿---
 actions: '[one-action]'
-area: null
-bloodline: null
 component:
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: sustained up to 1 minute
-element: null
-heighten: null
 heighten_level: '1'
 id: '809'
-lesson: null
 level: '1'
-mystery: null
 name: Wilding Word
 patron_theme: '[[DATABASE/witchpatron/Wild|Wild]]'
 range: 30 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 saving_throw: Will
 school: Enchantment
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 target: 1 [[DATABASE/trait/Animal|animal]] , [[DATABASE/trait/Fungus|fungus]] ,or
   [[DATABASE/trait/Plant|plant]]
-tradition: null
 trait:
 - '[[DATABASE/trait/Cantrip|Cantrip]]'
 - '[[DATABASE/trait/Enchantment|Enchantment]]'
 - '[[DATABASE/trait/Hex|Hex]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 - '[[DATABASE/trait/Witch|Witch]]'
-trigger: null
 type: Cantrip
 
 ---

@@ -1,14 +1,9 @@
 ﻿---
-ability_type: Specific Familiar - Clockwork Familiar
-actions: null
-frequency: null
-id: '57'
+ability_type: Specific Familiar - Aeon Wyrd
+id: '43'
 name: Constructed
 rarity: Common
-requirement: null
-rus_type_level: null
-source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
-trait: null
+source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
 type: Familiar Ability
 
 ---

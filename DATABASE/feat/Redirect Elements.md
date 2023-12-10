@@ -1,24 +1,16 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Redirect Elements
-frequency: null
-heighten_level: null
-id: '4350'
+id: '2992'
 level: '12'
 name: Redirect Elements
 prerequisite: '[[DATABASE/feat/Elementalist Dedication|Elementalist Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
-source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
+source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 trigger: The spell attack roll for a foe's spell with an elemental trait targeting
-  you fails or criticallyfails, and the elemental trait is in your elemental philosophy.
+  you fails or criticallyfails.
 type: Feat
 
 ---

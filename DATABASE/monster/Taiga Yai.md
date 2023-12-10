@@ -1,10 +1,7 @@
 ﻿---
 ac: '36'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+8'
 creature_ability:
 - Attack of Opportunity
@@ -13,13 +10,10 @@ creature_ability:
 - Return to Nature
 creature_family: '[[DATABASE/monsterfamily/Oni|Oni]]'
 dexterity: '+8'
-element: null
 fly_speed: '40'
 fortitude: '+27'
-hardness: null
 hp: '270'
 id: '1405'
-immunity: null
 intelligence: '+5'
 land_speed: '40'
 language:
@@ -32,9 +26,6 @@ name: Taiga Yai
 perception: '+30'
 rarity: Common
 reflex: '+29'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 size: Huge
@@ -63,7 +54,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fiend|Fiend]]'
 - '[[DATABASE/trait/Giant|Giant]]'
@@ -73,7 +63,6 @@ type: Creature
 vision: Greater darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+30'
 wisdom: '+7'
 

@@ -2,21 +2,16 @@
 ac: '28'
 alignment: NE
 all_resistance: '10'
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Accursed Shriek
 - Attack of Opportunity
 - Rejuvenation
 - Trample
-creature_family: null
 dexterity: '+7'
-element: null
 fly_speed: '50'
 fortitude: '+22'
-hardness: null
 hp: 140 ( negative healing )
 id: '1736'
 immunity:
@@ -27,7 +22,6 @@ immunity:
 - precision
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '+0'
-land_speed: null
 language:
 - '[[DATABASE/language/Abyssal|Abyssal]]'
 - '[[DATABASE/language/Varisian|Varisian]]'
@@ -43,8 +37,6 @@ resistance:
 - '[[DATABASE/equipment/Ghost Touch|ghost touch]]'
 - or [[DATABASE/trait/Positive|positive^]] double resistance vs. non- [[DATABASE/trait/Magical|magical]]
   )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -68,7 +60,6 @@ strength: '-5'
 strength_req: '-5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fiend|Fiend]]'
 - '[[DATABASE/trait/Incorporeal|Incorporeal]]'
@@ -79,7 +70,6 @@ type: Creature
 vision: Greater darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+16'
 wisdom: '+4'
 

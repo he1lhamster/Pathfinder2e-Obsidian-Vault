@@ -2,7 +2,6 @@
 id: '294'
 name: Village
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
 - Village

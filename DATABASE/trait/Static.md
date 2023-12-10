@@ -2,7 +2,6 @@
 id: '288'
 name: Static
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
 - Static

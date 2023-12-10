@@ -1,10 +1,7 @@
 ﻿---
 ac: '34'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Dazzling Brilliance
@@ -15,10 +12,7 @@ creature_ability:
 - targeted by a spell
 creature_family: '[[DATABASE/monsterfamily/Golem|Golem]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+24'
-hardness: null
 hp: '235'
 id: '2560'
 immunity:
@@ -39,7 +33,6 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '25'
-language: null
 level: '13'
 max_speed: '25'
 name: Crystal Sentinel
@@ -49,8 +42,6 @@ reflex: '+22'
 resistance:
 - physical 15 (except [[DATABASE/equipment/Wand of Smoldering Fireballs|adamantine]]
   or bludgeoning)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -62,12 +53,10 @@ source: '[[DATABASE/source/Pathfinder 191. The Destiny War|Pathfinder #191: The 
   War]]'
 speed:
 - 25 feet
-spell: null
 strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Golem|Golem]]'
@@ -77,7 +66,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+18'
 wisdom: '+0'
 

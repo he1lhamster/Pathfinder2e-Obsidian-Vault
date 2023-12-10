@@ -1,20 +1,11 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: No Escape
-frequency: null
-heighten_level: null
 id: '137'
 level: '2'
 name: No Escape
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Barbarian|Barbarian]]'
 - '[[DATABASE/trait/Rage|Rage]]'

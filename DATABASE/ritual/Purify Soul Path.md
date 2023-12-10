@@ -1,23 +1,14 @@
 ﻿---
-area: null
 cost: "rare incense and offering worth a total value of 10 gp \xD7 your level"
-duration: null
-element: null
 heighten: '+1'
 heighten_level: 2, 3, 4, 5, 6, 7, 8, 9, 10
 id: '67'
 level: '2'
 name: Purify Soul Path
 primary_check: '[[DATABASE/skill/Religion|Religion]] (trained)'
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Abjuration
-secondary_casters: null
-secondary_check: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-target: null
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

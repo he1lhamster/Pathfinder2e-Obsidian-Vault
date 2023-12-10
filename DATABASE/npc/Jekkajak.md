@@ -1,21 +1,14 @@
 ﻿---
 ac: '21'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Smoky Retreat
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+10'
 hp: '60'
 id: '2170'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -27,8 +20,6 @@ name: Jekkajak
 perception: '+9'
 rarity: Unique
 reflex: '+13'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -59,7 +50,6 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Kobold|Kobold]]'
@@ -68,7 +58,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+9'
 wisdom: '+1'
 

@@ -1,11 +1,7 @@
 ﻿---
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 dexterity: '+2'
-element: null
-fly_speed: null
 hp: '6'
 id: '55'
 intelligence: '-4'
@@ -13,7 +9,6 @@ land_speed: '20'
 max_speed: '20'
 name: Oozeform Chair
 rarity: Common
-rus_type_level: null
 sense:
 - Motion SenseYour oozeform chair can sense nearby creatures through vibration in
   theair. This is animprecise sensewith a range of 30 feet.
@@ -25,8 +20,6 @@ speed:
 - 20 feet
 strength: '+3'
 strength_req: '3'
-swim_speed: null
-trait: null
 type: Animal Companion
 wisdom: '+0'
 

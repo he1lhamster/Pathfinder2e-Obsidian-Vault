@@ -1,8 +1,6 @@
 ﻿---
 bulk: '1'
 damage: 1d8 P
-deity: null
-favored_weapon: null
 hands: '2'
 id: '118'
 item_category: Weapons
@@ -12,7 +10,6 @@ name: Alchemical Crossbow
 price: 25 gp
 range: 30 ft.
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/The Fall of Plaguestone|The Fall of Plaguestone]]'
 trait:
 - '[[DATABASE/trait/Alchemical|Alchemical]]'

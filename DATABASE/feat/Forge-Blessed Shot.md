@@ -1,20 +1,13 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Forge-Blessed Shot
 frequency: once per day
-heighten_level: null
 id: '3292'
 level: '17'
 name: Forge-Blessed Shot
 prerequisite: worshipper of [[DATABASE/deity/Torag|Torag]] or [[DATABASE/deity/Angradd|Angradd]]
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Divine|Divine]]'
 - '[[DATABASE/trait/Dwarf|Dwarf]]'

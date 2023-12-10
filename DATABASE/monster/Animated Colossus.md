@@ -1,10 +1,7 @@
 ﻿---
 ac: '39'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+8'
 creature_ability:
 - Colossus's Grasp
@@ -14,8 +11,6 @@ creature_ability:
 - Trample
 creature_family: '[[DATABASE/monsterfamily/Animated Object|Animated Object]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+31'
 hardness: '15'
 hp: '245'
@@ -36,16 +31,12 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '50'
-language: null
 level: '15'
 max_speed: '50'
 name: Animated Colossus
 perception: '+23'
 rarity: Common
 reflex: '+21'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Gargantuan
@@ -54,12 +45,10 @@ skill:
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 50 feet
-spell: null
 strength: '+9'
 strength_req: '9'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Mindless|Mindless]]'
@@ -67,7 +56,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+19'
 wisdom: '+0'
 

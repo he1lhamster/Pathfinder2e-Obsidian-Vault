@@ -1,8 +1,6 @@
 ﻿---
 ac: '25'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+20'
 hardness: '15'
 hazard_type: Trap
@@ -14,9 +12,6 @@ level: '8'
 name: Insistent Privacy Fence
 rarity: Rare
 reflex: '+14'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:
 - '[[DATABASE/trait/Electricity|Electricity]]'
@@ -24,8 +19,6 @@ trait:
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Insistent Privacy Fence<span class="item-type">Hazard 8</span>

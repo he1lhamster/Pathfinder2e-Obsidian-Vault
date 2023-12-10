@@ -1,27 +1,17 @@
 ﻿---
 actions: '[two-actions]'
-area: null
 bloodline: '[[DATABASE/sorcererbloodline/Demonic|Demonic]]'
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: sustained up to 1 minute
-element: null
 heighten: '+1'
 heighten_level: 9, 10
 id: '162'
-lesson: null
 level: '9'
-mystery: null
 name: Implosion
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: basicFortitude
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -31,7 +21,6 @@ tradition:
 - Primal
 trait:
 - '[[DATABASE/trait/Evocation|Evocation]]'
-trigger: null
 type: Spell
 
 ---

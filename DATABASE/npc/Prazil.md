@@ -1,23 +1,16 @@
 ﻿---
 ac: '21'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Hurried Retreat
 - Smash Kneecaps
 - Sneak Attack
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+11'
 hp: '85'
 id: '2288'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -29,8 +22,6 @@ name: Prazil
 perception: '+12'
 rarity: Unique
 reflex: '+14'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -43,12 +34,10 @@ skill:
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 speed:
 - 25 feet
-spell: null
 strength: '+1'
 strength_req: '1'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Kobold|Kobold]]'
@@ -57,7 +46,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+17'
 wisdom: '+3'
 

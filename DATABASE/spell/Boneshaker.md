@@ -1,25 +1,12 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
-component: null
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
 heighten: '+2'
 heighten_level: 2, 4, 6, 8, 10
 id: '1098'
-lesson: null
 level: '2'
-mystery: null
 name: Boneshaker
-patron_theme: null
 range: 100 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 saving_throw: Fortitude
 school: Necromancy
 source: '[[DATABASE/source/Pathfinder 176. Lost Mammoth Valley|Pathfinder #176: Lost
@@ -32,7 +19,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Spell
 
 ---

@@ -1,8 +1,6 @@
 ﻿---
 ac: '41'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+36'
 hardness: '30'
 hazard_type: Trap
@@ -16,9 +14,6 @@ level: '18'
 name: Stabbing Sentinels
 rarity: Common
 reflex: '+27'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 155. Lord of the Black Sands|Pathfinder #155:
   Lord of the Black Sands]]'
 trait:
@@ -26,8 +21,6 @@ trait:
 - '[[DATABASE/trait/Mechanical|Mechanical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Stabbing Sentinels<span class="item-type">Hazard 18</span>

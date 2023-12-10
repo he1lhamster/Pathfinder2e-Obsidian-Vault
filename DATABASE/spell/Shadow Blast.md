@@ -1,38 +1,25 @@
 ﻿---
 actions: '[two-actions]'
 area: varies
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
 heighten: '+1'
 heighten_level: 5, 6, 7, 8, 9, 10
 id: '273'
-lesson: null
 level: '5'
-mystery: null
 name: Shadow Blast
-patron_theme: null
 range: varies
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: basicReflex or Will (target's choice)
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Divine
 - Occult
 trait:
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Shadow|Shadow]]'
-trigger: null
 type: Spell
 
 ---

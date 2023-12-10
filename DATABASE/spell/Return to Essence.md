@@ -1,28 +1,15 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
 heighten: 8th, 9th, 10th
 heighten_level: 7, 8, 9, 10
 id: '1087'
-lesson: null
 level: '7'
-mystery: null
 name: Return to Essence
-patron_theme: null
 range: 120 feet
 rarity: Rare
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Pathfinder 173. Doorway to the Red Star|Pathfinder #173:
   Doorway to the Red Star]]'
@@ -34,7 +21,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Spell
 
 ---

@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Emblazon Antimagic
-frequency: null
-heighten_level: null
 id: '296'
 level: '12'
 name: Emblazon Antimagic
 prerequisite: '[[DATABASE/feat/Emblazon Armament|Emblazon Armament]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Cleric|Cleric]]'
-trigger: null
 type: Feat
 
 ---

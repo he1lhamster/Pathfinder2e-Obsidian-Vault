@@ -1,22 +1,15 @@
 ﻿---
 ac: '23'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Encase
 - Melt
 - Molten Wax
 - Slowed by Cold
-creature_family: null
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+15'
-hardness: null
 hp: '145'
 id: '2184'
 immunity:
@@ -36,7 +29,6 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '20'
-language: null
 level: '7'
 max_speed: '20'
 name: Tallow Guardian
@@ -46,8 +38,6 @@ reflex: '+11'
 resistance:
 - '[[DATABASE/trait/Fire|fire]] 5'
 - physical 5 (except bludgeoning)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -56,12 +46,10 @@ skill:
 source: '[[DATABASE/source/Crown of the Kobold King|Crown of the Kobold King]]'
 speed:
 - 20 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Mindless|Mindless]]'

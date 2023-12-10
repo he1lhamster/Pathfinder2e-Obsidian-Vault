@@ -1,23 +1,14 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Flicker
-frequency: null
-heighten_level: null
 id: '922'
 level: '12'
 name: Flicker
 prerequisite: '[[DATABASE/feat/Lion Blade Dedication|Lion Blade Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/World Guide|World Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

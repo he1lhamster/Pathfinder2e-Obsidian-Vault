@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Spew Tentacles
-frequency: null
-heighten_level: null
 id: '2531'
 level: '13'
 name: Spew Tentacles
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fleshwarp|Fleshwarp]]'
-trigger: null
 type: Feat
 
 ---

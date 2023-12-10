@@ -1,29 +1,14 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
-component: null
-cost: null
-deity: null
-domain: null
 duration: 1 hour
 element: Metal
 heighten: 9th
 heighten_level: 8, 9
 id: '1369'
-lesson: null
 level: '8'
-mystery: null
 name: Ferrous Form
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-target: null
 tradition:
 - Arcane
 - Primal
@@ -32,7 +17,6 @@ trait:
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Metal|Metal]]'
 - '[[DATABASE/trait/Polymorph|Polymorph]]'
-trigger: null
 type: Spell
 
 ---

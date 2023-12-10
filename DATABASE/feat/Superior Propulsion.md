@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Superior Propulsion
-frequency: null
-heighten_level: null
 id: '3150'
 level: '6'
 name: Superior Propulsion
 prerequisite: '[[DATABASE/feat/Vehicle Mechanic Dedication|Vehicle Mechanic Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

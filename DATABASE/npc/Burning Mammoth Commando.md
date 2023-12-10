@@ -1,24 +1,17 @@
 ﻿---
 ac: '25'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Cruel Cutter
 - Evasion
 - Hunt Prey
 - Spurred by Death
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+17'
 hp: '120'
 id: '1827'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -29,9 +22,6 @@ name: Burning Mammoth Commando
 perception: '+15'
 rarity: Rare
 reflex: '+15'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +15'
@@ -42,21 +32,17 @@ source: '[[DATABASE/source/Pathfinder 177. Burning Tundra|Pathfinder #177: Burni
   Tundra]]'
 speed:
 - 25 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+13'
 wisdom: '+2'
 

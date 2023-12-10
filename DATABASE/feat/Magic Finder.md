@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Magic Finder
-frequency: null
-heighten_level: null
 id: '2234'
 level: '8'
 name: Magic Finder
 prerequisite: '[[DATABASE/feat/Scrollmaster Dedication|Scrollmaster Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

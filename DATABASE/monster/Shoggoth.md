@@ -1,8 +1,6 @@
 ﻿---
 ac: '39'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
 climb_speed: '25'
 constitution: '+9'
@@ -11,12 +9,8 @@ creature_ability:
 - Eat Away
 - Engulf
 - Maddening Cacophony
-creature_family: null
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+33'
-hardness: null
 hp: 275 ( fast healing 20)
 id: '368'
 immunity:
@@ -40,8 +34,6 @@ resistance:
 - acid 20
 - cold 20
 - sonic 20
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - scent (imprecise) 60 feet
@@ -55,7 +47,6 @@ speed:
 - 40 feet
 - climb 25 feet
 - swim 50 feet
-spell: null
 strength: '+10'
 strength_req: '10'
 strongest_save:
@@ -70,7 +61,6 @@ vision: Darkvision
 weakest_save:
 - Reflex
 - Will
-weakness: null
 will: '+30'
 wisdom: '+6'
 

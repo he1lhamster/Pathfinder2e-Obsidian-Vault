@@ -1,10 +1,7 @@
 ﻿---
 ac: '35'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+7'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Etheric Fibers
@@ -13,13 +10,9 @@ creature_ability:
 - Swallow Whole
 creature_family: '[[DATABASE/monsterfamily/Brughadatch|Brughadatch]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+23'
-hardness: null
 hp: '250'
 id: '529'
-immunity: null
 intelligence: '+2'
 land_speed: '10'
 language:
@@ -31,9 +24,6 @@ name: Doblagub
 perception: '+26'
 rarity: Common
 reflex: '+18'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - '[[DATABASE/spell/True Seeing|true seeing]]'

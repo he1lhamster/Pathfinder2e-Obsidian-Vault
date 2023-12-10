@@ -1,10 +1,7 @@
 ﻿---
 ac: '18'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Eflect
@@ -13,25 +10,17 @@ creature_ability:
 - Monitor Lizard Venom
 creature_family: '[[DATABASE/monsterfamily/Lizard|Lizard]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+9'
-hardness: null
 hp: '30'
 id: '289'
-immunity: null
 intelligence: '-4'
 land_speed: '30'
-language: null
 level: '2'
 max_speed: '30'
 name: Giant Monitor Lizard
 perception: '+7'
 rarity: Common
 reflex: '+8'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 - scent (imprecise) 30 feet
@@ -44,7 +33,6 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 30 feet
 - swim 30 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
@@ -56,7 +44,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+5'
 wisdom: '+1'
 

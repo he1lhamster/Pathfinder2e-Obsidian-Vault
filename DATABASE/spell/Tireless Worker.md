@@ -1,37 +1,21 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
-component: null
-cost: null
-deity: null
 domain:
 - '[[DATABASE/domain/Toil Domain|Toil]]'
 duration: sustained up to 1 minute
-element: null
-heighten: null
 heighten_level: '4'
 id: '1347'
-lesson: null
 level: '4'
-mystery: null
 name: Tireless Worker
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 target: 1 creature
-tradition: null
 trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Focus|Focus]]'
 - '[[DATABASE/trait/Healing|Healing]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
-trigger: null
 type: Focus
 
 ---

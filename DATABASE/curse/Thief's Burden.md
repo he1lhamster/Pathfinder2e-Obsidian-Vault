@@ -1,10 +1,8 @@
 ﻿---
-element: null
 id: '32'
 level: '1'
 name: Thief's Burden
 rarity: Rare
-rus_type_level: null
 saving_throw: DC 15 Fortitude
 school: Transmutation
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
@@ -14,7 +12,6 @@ trait:
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
 type: Curse
-usage: null
 
 ---
 # Thief's Burden<span class="item-type">Curse 1</span>

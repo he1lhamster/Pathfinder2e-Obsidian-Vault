@@ -1,16 +1,10 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
-frequency: null
 id: '91'
 name: Arrest a Fall
 rarity: Common
 requirement: You have a fly Speed.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 trigger: You fall.
 type: Action
 

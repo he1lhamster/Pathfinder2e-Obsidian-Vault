@@ -1,26 +1,18 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
 element: Fire
 feat: Flying Flame
-frequency: null
 heighten_level: 1, 3, 5, 7, 9, 11, 13, 15, 17, 19
 id: '4238'
 level: '1'
 name: Flying Flame
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fire|Fire]]'
 - '[[DATABASE/trait/Impulse|Impulse]]'
 - '[[DATABASE/trait/Kineticist|Kineticist]]'
 - '[[DATABASE/trait/Primal|Primal]]'
-trigger: null
 type: Feat
 
 ---

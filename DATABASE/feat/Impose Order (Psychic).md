@@ -1,26 +1,17 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Impose Order (Psychic)
-frequency: null
-heighten_level: null
 id: '3680'
 level: '10'
 name: Impose Order (Psychic)
 prerequisite: '[[DATABASE/psychicsubconsciousmind/Precise Discipline|precise discipline]]
   subconscious mind'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fortune|Fortune]]'
 - '[[DATABASE/trait/Psyche|Psyche]]'
 - '[[DATABASE/trait/Psychic|Psychic]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,25 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Shaped Contaminant
-frequency: null
-heighten_level: null
 id: '1153'
 level: '12'
 name: Shaped Contaminant
-prerequisite: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 149. Against the Scarlet Triad|Pathfinder #149:
   Against the Scarlet Triad]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Alchemist|Alchemist]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

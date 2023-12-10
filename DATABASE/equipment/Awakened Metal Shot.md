@@ -1,56 +1,21 @@
 ﻿---
-ac: null
 actions: '[one-action]'
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '1189'
 item_category: Consumables
 item_subcategory: Magical Ammunition
-land_speed: null
-level: '18'
-max_speed: null
+level: '17'
 name: Awakened Metal Shot
-onset: null
-price: 3,500 gp
-range: null
+price: 2,300 gp
 rarity: Uncommon
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
-size: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-spell: null
-stage: null
 subcategory: consumable/magicalammunition
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Consumable|Consumable]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Item
-usage: null
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Awakened Metal Shot<span class="item-type">Item 17+</span>

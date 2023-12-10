@@ -4,9 +4,7 @@ level: '2'
 name: Gladiator
 prerequisite: '[[DATABASE/feat/Impressive Performance|Impressive Performance]]'
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-trait: null
 type: Archetype
 
 ---

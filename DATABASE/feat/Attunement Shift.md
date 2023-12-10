@@ -1,10 +1,7 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Attunement Shift
 frequency: once per 10 minutes
-heighten_level: null
 id: '2996'
 level: '4'
 name: Attunement Shift
@@ -13,13 +10,9 @@ rarity: Common
 requirement: Your previous action was to cast a spell with the [[DATABASE/trait/Air|air]]
   , [[DATABASE/trait/Cold|cold]] , [[DATABASE/trait/Earth|earth]] , [[DATABASE/trait/Fire|fire]]
   , [[DATABASE/trait/Plant|plant]] ,or [[DATABASE/trait/Water|water]] trait.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

@@ -2,7 +2,6 @@
 id: '101'
 name: Ancient Osiriani
 rarity: Rare
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 184. The Ghouls Hunger|Pathfinder #184: The
   Ghouls Hunger]]'
 trait:

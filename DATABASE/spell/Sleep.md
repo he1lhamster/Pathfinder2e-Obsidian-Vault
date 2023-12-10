@@ -1,11 +1,9 @@
 ﻿---
 actions: '[two-actions]'
 area: 5-foot burst
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Bes|Bes]]'
 - '[[DATABASE/deity/Desna|Desna]]'
@@ -13,25 +11,18 @@ deity:
 - '[[DATABASE/deity/Lady Jingxi|LadyJingxi]]'
 - '[[DATABASE/deity/Luhar|Luhar]]'
 - '[[DATABASE/deity/The Prismatic Ray|The Prismatic Ray]]'
-domain: null
-duration: null
-element: null
 heighten: 4th
 heighten_level: 1, 4
 id: '288'
 lesson: '[[DATABASE/witchlesson/Lesson of Dreams|Lesson of Dreams]]'
 level: '1'
-mystery: null
 name: Sleep
 patron_theme: '[[DATABASE/witchpatron/Night|Night]]'
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Will
 school: Enchantment
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Arcane
 - Occult
@@ -40,7 +31,6 @@ trait:
 - '[[DATABASE/trait/Incapacitation|Incapacitation]]'
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Sleep|Sleep]]'
-trigger: null
 type: Spell
 
 ---

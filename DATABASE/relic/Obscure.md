@@ -1,11 +1,8 @@
 ﻿---
-element: null
 id: '62'
 item_category: Relics
 name: Obscure
-prerequisite: null
 rarity: Common
-rus_type_level: null
 school: Illusion
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:

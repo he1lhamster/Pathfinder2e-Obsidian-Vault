@@ -1,20 +1,14 @@
 ﻿---
 ac: '25'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Broad Swipe
 - Massive Rush
 creature_family: '[[DATABASE/monsterfamily/Skeleton|Skeleton]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+15'
-hardness: null
 hp: 105 ( negative healing )
 id: '376'
 immunity:
@@ -26,7 +20,6 @@ immunity:
 - unconscious
 intelligence: '-5'
 land_speed: '30'
-language: null
 level: '7'
 max_speed: '30'
 name: Skeletal Hulk
@@ -39,8 +32,6 @@ resistance:
 - fire 5
 - piercing 5
 - slashing 5
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Huge
@@ -50,13 +41,11 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 30 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Mindless|Mindless]]'
 - '[[DATABASE/trait/Skeleton|Skeleton]]'
@@ -65,7 +54,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+13'
 wisdom: '+2'
 

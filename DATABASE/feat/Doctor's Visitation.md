@@ -1,24 +1,15 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Doctor's Visitation
-frequency: null
-heighten_level: null
 id: '2028'
 level: '4'
 name: Doctor's Visitation
 prerequisite: '[[DATABASE/feat/Medic Dedication|Medic Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Flourish|Flourish]]'
-trigger: null
 type: Feat
 
 ---

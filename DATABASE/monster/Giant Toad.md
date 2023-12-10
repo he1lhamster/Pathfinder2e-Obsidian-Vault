@@ -1,10 +1,7 @@
 ﻿---
 ac: '17'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Giant Toad Poison
@@ -13,25 +10,17 @@ creature_ability:
 - Tongue Grab
 creature_family: '[[DATABASE/monsterfamily/Toad|Toad]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+9'
-hardness: null
 hp: '36'
 id: '828'
-immunity: null
 intelligence: '-4'
 land_speed: '25'
-language: null
 level: '2'
 max_speed: '25'
 name: Giant Toad
 perception: '+8'
 rarity: Common
 reflex: '+8'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Scent|scent (imprecise) 30 feet]]'
@@ -42,19 +31,16 @@ skill:
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 25 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+6'
 wisdom: '+2'
 

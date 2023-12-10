@@ -1,26 +1,17 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Propulsive Leap
-frequency: null
-heighten_level: null
 id: '3783'
 level: '10'
 name: Propulsive Leap
-prerequisite: null
 rarity: Rare
-requirement: null
-rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Gatewalkers Player''s Guide|Gatewalkers Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Deviant|Deviant]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,22 +1,15 @@
 ﻿---
 ac: '30'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Change Shape
 - Discipline the Righteous
 - Stick Support
 - Walking Stick
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+21'
-hardness: null
 hp: 210 ( negative healing )
 id: '2052'
 immunity:
@@ -38,9 +31,6 @@ name: Creeping Crone
 perception: '+21'
 rarity: Rare
 reflex: '+18'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -86,7 +76,6 @@ strength: '+7'
 strength_req: '7'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Undead|Undead]]'
@@ -94,7 +83,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+24'
 wisdom: '+5'
 

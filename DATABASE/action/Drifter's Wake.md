@@ -1,18 +1,11 @@
 ﻿---
 actions: '[three-actions]'
-cost: null
-element: null
-frequency: null
 id: '909'
 name: Drifter's Wake
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:
 - '[[DATABASE/trait/Gunslinger|Gunslinger]]'
-trigger: null
 type: Action
 
 ---

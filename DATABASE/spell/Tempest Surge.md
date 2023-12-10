@@ -1,39 +1,26 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
-duration: null
 element: Air
 heighten: '+1'
 heighten_level: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
 id: '479'
-lesson: null
 level: '1'
-mystery: null
 name: Tempest Surge
-patron_theme: null
 range: 30 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 saving_throw: Reflex
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: 1 creature
-tradition: null
 trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Druid|Druid]]'
 - '[[DATABASE/trait/Electricity|Electricity]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Focus
 
 ---

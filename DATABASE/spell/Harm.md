@@ -1,26 +1,13 @@
 ﻿---
 actions: '[one-action]'
-area: null
 bloodline: '[[DATABASE/sorcererbloodline/Undead|Undead]]'
-component: null
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
 heighten: '+1'
 heighten_level: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
 id: '146'
-lesson: null
 level: '1'
-mystery: null
 name: Harm
-patron_theme: null
 range: varies
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: 1 living creature or 1 willing undead creature
@@ -29,7 +16,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Negative|Negative]]'
-trigger: null
 type: Spell
 
 ---

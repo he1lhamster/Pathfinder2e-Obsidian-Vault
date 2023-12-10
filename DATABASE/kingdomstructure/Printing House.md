@@ -4,7 +4,6 @@ id: '77'
 level: '10'
 name: Printing House
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
 trait:
 - '[[DATABASE/trait/Building|Building]]'

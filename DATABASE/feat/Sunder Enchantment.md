@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Sunder Enchantment
-frequency: null
-heighten_level: null
 id: '1627'
 level: '14'
 name: Sunder Enchantment
 prerequisite: '[[DATABASE/feat/Sunder Spell|Sunder Spell]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Barbarian|Barbarian]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,14 +1,9 @@
 ﻿---
 ability_type: Master
-actions: null
-frequency: null
 id: '40'
 name: Share Senses
 rarity: Common
-requirement: null
-rus_type_level: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-trait: null
 type: Familiar Ability
 
 ---

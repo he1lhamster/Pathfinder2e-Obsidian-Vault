@@ -1,25 +1,17 @@
 ﻿---
 ac: '33'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Hop-Dodge
 - Staccato Strike
 - Thoughtsense
 - Warbling Song
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+25'
-hardness: null
 hp: '215'
 id: '72'
-immunity: null
 intelligence: '-3'
 land_speed: '35'
 language:
@@ -32,8 +24,6 @@ rarity: Common
 reflex: '+20'
 resistance:
 - '[[DATABASE/trait/Sonic|sonic]] 15'
-rus_type_level: null
-school: null
 sense:
 - thoughtsense (imprecise) 60 feet
 size: Medium
@@ -43,19 +33,15 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 35 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+18'
 wisdom: '+2'
 

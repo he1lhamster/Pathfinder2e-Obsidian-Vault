@@ -1,11 +1,8 @@
 ﻿---
-burrow_speed: null
 charisma: '+0'
 climb_speed: '20'
 constitution: '+1'
 dexterity: '+3'
-element: null
-fly_speed: null
 hp: '6'
 id: '7'
 intelligence: '-4'
@@ -13,7 +10,6 @@ land_speed: '20'
 max_speed: '20'
 name: Snake
 rarity: Common
-rus_type_level: null
 sense:
 - low-light vision
 - scent(imprecise
@@ -29,7 +25,6 @@ speed:
 strength: '+3'
 strength_req: '3'
 swim_speed: '20'
-trait: null
 type: Animal Companion
 wisdom: '+1'
 

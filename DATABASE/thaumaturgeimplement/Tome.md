@@ -2,9 +2,7 @@
 id: '7'
 name: Tome
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-trait: null
 type: Thaumaturge Implement
 
 ---

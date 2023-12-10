@@ -1,29 +1,16 @@
 ﻿---
 actions: '[two-actions]'
 area: 30-foot burst
-bloodline: null
-component: null
-cost: null
-deity: null
-domain: null
-duration: null
 element: Wood
 heighten: '+1'
 heighten_level: 6, 7, 8, 9, 10
 id: '1399'
-lesson: null
 level: '6'
-mystery: null
 name: Arrow Salvo
-patron_theme: null
 range: 100 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: basicReflex
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-target: null
 tradition:
 - Arcane
 - Primal
@@ -31,7 +18,6 @@ trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Wood|Wood]]'
-trigger: null
 type: Spell
 
 ---

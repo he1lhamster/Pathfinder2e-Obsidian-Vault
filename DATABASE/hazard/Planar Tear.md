@@ -1,20 +1,10 @@
 ﻿---
-ac: null
-all_resistance: null
 complexity: Complex
-element: null
-fortitude: null
-hardness: null
 hazard_type: Environmental
-hp: null
 id: '109'
-immunity: null
 level: '22'
 name: Planar Tear
 rarity: Rare
-reflex: null
-resistance: null
-rus_type_level: null
 school: Conjuration
 source: '[[DATABASE/source/Monsters of Myth|Monsters of Myth]]'
 trait:
@@ -26,8 +16,6 @@ trait:
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Teleportation|Teleportation]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Planar Tear<span class="item-type">Hazard 22</span>

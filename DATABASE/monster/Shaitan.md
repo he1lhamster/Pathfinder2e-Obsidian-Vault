@@ -1,7 +1,6 @@
 ﻿---
 ac: '25'
 alignment: LN
-all_resistance: null
 burrow_speed: '45'
 charisma: '+3'
 climb_speed: '20'
@@ -12,12 +11,9 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Genie|Genie]]'
 dexterity: '+1'
 element: Earth
-fly_speed: null
 fortitude: '+18'
-hardness: null
 hp: '110'
 id: '213'
-immunity: null
 intelligence: '+3'
 land_speed: '20'
 language:
@@ -31,8 +27,6 @@ rarity: Uncommon
 reflex: '+12'
 resistance:
 - electricity 10
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - '[[DATABASE/spell/Detect Magic|detect magic]]'
@@ -60,7 +54,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Elemental|Elemental]]'
@@ -70,7 +63,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+15'
 wisdom: '+2'
 

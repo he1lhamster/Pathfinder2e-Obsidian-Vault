@@ -1,10 +1,7 @@
 ﻿---
 ac: '22'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Deceptive Reposition
@@ -13,13 +10,9 @@ creature_ability:
 - Sneak Attack
 creature_family: '[[DATABASE/monsterfamily/Serpentfolk|Serpentfolk]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+9'
-hardness: null
 hp: '48'
 id: '800'
-immunity: null
 intelligence: '+4'
 land_speed: '25'
 language:
@@ -37,8 +30,6 @@ rarity: Uncommon
 reflex: '+12'
 resistance:
 - poison 5
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent (imprecise) 30 feet]]'
@@ -64,7 +55,6 @@ strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Serpentfolk|Serpentfolk]]'
@@ -73,7 +63,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+10'
 wisdom: '+2'
 

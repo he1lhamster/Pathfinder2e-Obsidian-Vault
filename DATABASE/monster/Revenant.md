@@ -1,10 +1,7 @@
 ﻿---
 ac: '23'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Baleful Shriek
@@ -14,10 +11,7 @@ creature_ability:
 - Undying Vendetta
 creature_family: '[[DATABASE/monsterfamily/Revenant|Revenant]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+14'
-hardness: null
 hp: 115 ( negative healing )
 id: '787'
 immunity:
@@ -39,8 +33,6 @@ rarity: Common
 reflex: '+13'
 resistance:
 - physical 5 (except slashing)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - sense murderer
@@ -51,19 +43,16 @@ skill:
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 25 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Undead|Undead]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+17'
 wisdom: '+3'
 

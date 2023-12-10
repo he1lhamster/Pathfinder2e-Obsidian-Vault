@@ -3,7 +3,6 @@ id: '8'
 level: '0'
 name: Diplomatic Overture
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Statecraft|Statecraft]]'
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'

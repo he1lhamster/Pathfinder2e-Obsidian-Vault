@@ -10,10 +10,7 @@ level: '0'
 name: Heavy Rondache
 price: 4 gp
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-speed_penalty: null
-trait: null
 type: Shield
 
 ---

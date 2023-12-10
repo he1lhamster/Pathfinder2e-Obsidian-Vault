@@ -1,10 +1,7 @@
 ﻿---
 ac: '30'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+7'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Assault the Soul
@@ -16,13 +13,9 @@ creature_ability:
 - Prayer
 creature_family: '[[DATABASE/monsterfamily/Herecite|Herecite]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+19'
-hardness: null
 hp: 200 ( negative healing )
 id: '520'
-immunity: null
 intelligence: '+1'
 land_speed: '30'
 language:
@@ -35,9 +28,6 @@ name: Herecite of Zevgavizeb
 perception: '+20'
 rarity: Uncommon
 reflex: '+20'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - '[[DATABASE/spell/Detect Alignment|detect alignment]] (good only)'
@@ -67,7 +57,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 - '[[DATABASE/trait/Undead|Undead]]'

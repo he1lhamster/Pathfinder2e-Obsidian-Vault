@@ -1,25 +1,17 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Familiar's Eyes
-frequency: null
-heighten_level: null
 id: '1582'
 level: '12'
 name: Familiar's Eyes
 prerequisite: a familiar
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Divination
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Divination|Divination]]'
 - '[[DATABASE/trait/Witch|Witch]]'
-trigger: null
 type: Feat
 
 ---

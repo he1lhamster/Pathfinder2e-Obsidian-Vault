@@ -2,9 +2,6 @@
 id: '81'
 name: Pathfinder 165. Eyes of Empty Death
 rarity: Common
-rus_type_level: null
-source: null
-trait: null
 type: Source
 
 ---

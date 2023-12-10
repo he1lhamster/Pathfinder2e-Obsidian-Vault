@@ -1,22 +1,15 @@
 ﻿---
 ac: '37'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Predator's Leap
 - Ravenous Tracker
 - Selective Scent
 - Swallow Whole
-creature_family: null
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+25'
-hardness: null
 hp: '275'
 id: '981'
 immunity:
@@ -31,9 +24,6 @@ name: Viskithrel
 perception: '+27'
 rarity: Uncommon
 reflex: '+27'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent (precise) 100 feet]]'
@@ -47,7 +37,6 @@ source: '[[DATABASE/source/Pathfinder 156. The Apocalypse Prophet|Pathfinder #15
 speed:
 - 40 feet
 - swim 20 feet
-spell: null
 strength: '+8'
 strength_req: '8'
 strongest_save:
@@ -60,7 +49,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+23'
 wisdom: '+4'
 

@@ -1,21 +1,16 @@
 ﻿---
 ac: '28'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Breath Weapon
 - Infuse Weapons
 - Positive Energy Affinity
-creature_family: null
 dexterity: '+5'
 element: Fire
 fly_speed: '60'
 fortitude: '+15'
-hardness: null
 hp: '155'
 id: '708'
 immunity:
@@ -36,8 +31,6 @@ reflex: '+18'
 resistance:
 - fire 10
 - negative 10
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -63,7 +56,6 @@ strength: '+3'
 strength_req: '3'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fire|Fire]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -72,7 +64,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+21'
 wisdom: '+6'
 

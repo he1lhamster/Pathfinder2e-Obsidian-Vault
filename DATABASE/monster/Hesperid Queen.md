@@ -1,10 +1,7 @@
 ﻿---
 ac: '45'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+10'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Change Shape
@@ -15,13 +12,10 @@ creature_ability:
 - Tied to the Land
 creature_family: '[[DATABASE/monsterfamily/Nymph|Nymph]]'
 dexterity: '+9'
-element: null
 fly_speed: '90'
 fortitude: '+31'
-hardness: null
 hp: '306'
 id: '1252'
-immunity: null
 intelligence: '+7'
 land_speed: '30'
 language:
@@ -36,9 +30,6 @@ name: Hesperid Queen
 perception: '+34'
 rarity: Uncommon
 reflex: '+36'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
@@ -101,7 +92,6 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Light|Light]]'

@@ -1,25 +1,18 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Oracle Dedication
-frequency: null
-heighten_level: null
 id: '1851'
+leads_to: '[[DATABASE/feat/Basic Mysteries|Basic Mysteries]] , [[DATABASE/feat/Basic
+  Oracle Spellcasting|Basic Oracle Spellcasting]] , [[DATABASE/feat/First Revelation|First
+  Revelation]]'
 level: '2'
 name: Oracle Dedication
 prerequisite: Charisma 14
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Multiclass|Multiclass]]'
-trigger: null
 type: Feat
 
 ---

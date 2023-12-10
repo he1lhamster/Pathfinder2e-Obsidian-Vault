@@ -1,38 +1,22 @@
 ﻿---
 actions: '[one-action]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 1 minute
-element: null
 heighten: 6th, 10th
 heighten_level: 1, 6, 10
 id: '480'
-lesson: null
 level: '1'
-mystery: null
 name: Wild Morph
-patron_theme: null
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
-tradition: null
 trait:
 - '[[DATABASE/trait/Druid|Druid]]'
 - '[[DATABASE/trait/Morph|Morph]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Focus
 
 ---

@@ -3,7 +3,6 @@ id: '11'
 level: '2'
 name: Economic Surge
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Trade|Trade]]'
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'

@@ -1,8 +1,5 @@
 ﻿---
 ac: '16'
-alignment: null
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
 climb_speed: '40'
 constitution: '+2'
@@ -15,7 +12,6 @@ dexterity: '+1'
 element: Wood
 fly_speed: '20'
 fortitude: '+5'
-hardness: null
 hp: '20'
 id: '2668'
 immunity:
@@ -24,7 +20,6 @@ immunity:
 - '[[DATABASE/trait/Poison|poison]]'
 - '[[DATABASE/trait/Sleep|sleep]]'
 intelligence: '+0'
-land_speed: null
 language:
 - '[[DATABASE/language/Muan|Muan]]'
 level: '0'
@@ -33,9 +28,6 @@ name: Wood Wisp
 perception: '+6'
 rarity: Common
 reflex: '+2'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Tiny
@@ -47,12 +39,10 @@ source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 speed:
 - fly 20 feet
 - climb 40 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Elemental|Elemental]]'
 - '[[DATABASE/trait/Plant|Plant]]'

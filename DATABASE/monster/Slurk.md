@@ -1,23 +1,16 @@
 ﻿---
 ac: '17'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
 climb_speed: '30'
 constitution: '+4'
 creature_ability:
 - Belly Grease
 - Entangling Slime
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+10'
-hardness: null
 hp: '35'
 id: '378'
-immunity: null
 intelligence: '-4'
 land_speed: '30'
 language:
@@ -28,9 +21,6 @@ name: Slurk
 perception: '+6'
 rarity: Common
 reflex: '+6'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -42,19 +32,16 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 30 feet
 - climb 30 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+4'
 wisdom: '+0'
 

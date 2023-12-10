@@ -1,24 +1,15 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Bless Shield
-frequency: null
-heighten_level: null
 id: '3598'
 level: '4'
 name: Bless Shield
 prerequisite: '[[DATABASE/feat/Lastwall Sentry Dedication|Lastwall Sentry Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Divine|Divine]]'
-trigger: null
 type: Feat
 
 ---

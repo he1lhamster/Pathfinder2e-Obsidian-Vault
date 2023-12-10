@@ -1,26 +1,21 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Student of Perfection Dedication
-frequency: null
-heighten_level: null
 id: '900'
+leads_to: '[[DATABASE/feat/Jalmeri Heavenseeker Dedication|Jalmeri Heavenseeker Dedication]]
+  , [[DATABASE/feat/Perfect Ki Adept|Perfect Ki Adept]] , [[DATABASE/feat/Perfect
+  Ki Exemplar|Perfect Ki Exemplar]] , [[DATABASE/feat/Perfect Ki Expert|Perfect Ki
+  Expert]] , [[DATABASE/feat/Perfect Resistance|Perfect Resistance]] , [[DATABASE/feat/Perfect
+  Strike|Perfect Strike]] , [[DATABASE/feat/Perfect Weaponry|Perfect Weaponry]]'
 level: '2'
 name: Student of Perfection Dedication
 prerequisite: '[[DATABASE/class_/Monk|powerful fist]] or expert in unarmed attacks;
   member of aHouse of Perfection'
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/World Guide|World Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

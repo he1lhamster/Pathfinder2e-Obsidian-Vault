@@ -1,13 +1,10 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 frequency: once per round
 id: '1231'
 name: Drink from the Chalice
 rarity: Common
 requirement: You are holding your chalice implement.
-rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 trait:
@@ -15,7 +12,6 @@ trait:
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Thaumaturge|Thaumaturge]]'
-trigger: null
 type: Action
 
 ---

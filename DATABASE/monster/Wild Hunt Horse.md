@@ -1,10 +1,7 @@
 ﻿---
 ac: '37'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Bewildering Hoofbeats
@@ -21,13 +18,10 @@ creature_ability:
 - Wild Hunt Link
 creature_family: '[[DATABASE/monsterfamily/Wild Hunt|Wild Hunt]]'
 dexterity: '+4'
-element: null
 fly_speed: '80'
 fortitude: '+27'
-hardness: null
 hp: '320'
 id: '2213'
-immunity: null
 intelligence: '-1'
 land_speed: '80'
 language:
@@ -41,9 +35,6 @@ name: Wild Hunt Horse
 perception: '+29'
 rarity: Rare
 reflex: '+23'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 - greensight
@@ -69,7 +60,6 @@ strength: '+8'
 strength_req: '8'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Rare|Rare]]'

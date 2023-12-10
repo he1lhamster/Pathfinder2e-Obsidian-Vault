@@ -1,10 +1,7 @@
 ﻿---
 ac: '18'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Attack of Opportunity
@@ -13,10 +10,7 @@ creature_ability:
 - Skewer
 creature_family: '[[DATABASE/monsterfamily/Drow|Drow]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+7'
-hardness: null
 hp: '18'
 id: '165'
 immunity:
@@ -32,9 +26,6 @@ name: Drow Fighter
 perception: '+6'
 rarity: Common
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -54,7 +45,6 @@ strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Drow|Drow]]'
 - '[[DATABASE/trait/Elf|Elf]]'
@@ -63,7 +53,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+4'
 wisdom: '+1'
 

@@ -1,10 +1,7 @@
 ﻿---
 ac: '16'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Eat Book
@@ -12,13 +9,9 @@ creature_ability:
 - Smear Text
 creature_family: '[[DATABASE/monsterfamily/Gremlin|Gremlin]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+6'
-hardness: null
 hp: '18'
 id: '1612'
-immunity: null
 intelligence: '+2'
 land_speed: '25'
 language:
@@ -29,9 +22,6 @@ name: Scrit
 perception: '+6'
 rarity: Uncommon
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Tiny
@@ -52,7 +42,6 @@ strength: '+1'
 strength_req: '1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Gremlin|Gremlin]]'

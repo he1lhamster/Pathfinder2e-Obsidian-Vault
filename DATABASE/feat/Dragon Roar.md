@@ -1,27 +1,19 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Dragon Roar
-frequency: null
-heighten_level: null
 id: '451'
 level: '6'
 name: Dragon Roar
 prerequisite: '[[DATABASE/feat/Dragon Stance|Dragon Stance]]'
 rarity: Common
 requirement: You are in Dragon Stance.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Auditory|Auditory]]'
 - '[[DATABASE/trait/Emotion|Emotion]]'
 - '[[DATABASE/trait/Fear|Fear]]'
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Monk|Monk]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,20 +1,13 @@
 ﻿---
 ac: '13'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Flesh Tearer
 - Slow
-creature_family: null
 dexterity: '-1'
-element: null
-fly_speed: null
 fortitude: '+5'
-hardness: null
 hp: 18 ( negative healing )
 id: '2041'
 immunity:
@@ -26,16 +19,12 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '25'
-language: null
 level: '-1'
 max_speed: '25'
 name: Zombie Hound
 perception: '+1'
 rarity: Uncommon
 reflex: '+0'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -44,12 +33,10 @@ skill:
 source: '[[DATABASE/source/Pathfinder 181. Zombie Feast|Pathfinder #181: Zombie Feast]]'
 speed:
 - 25 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Mindless|Mindless]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

@@ -1,37 +1,20 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 5 minutes
-element: null
-heighten: null
 heighten_level: '2'
 id: '547'
-lesson: null
 level: '2'
-mystery: null
 name: Magic Warrior Aspect
-patron_theme: null
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/World Guide|World Guide]]'
-target: null
-tradition: null
 trait:
 - '[[DATABASE/trait/Morph|Morph]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Focus
 
 ---

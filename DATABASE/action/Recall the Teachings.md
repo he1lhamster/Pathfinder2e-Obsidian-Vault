@@ -1,13 +1,8 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
-frequency: null
 id: '1224'
 name: Recall the Teachings
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Divination
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 trait:
@@ -15,7 +10,6 @@ trait:
 - '[[DATABASE/trait/Occult|Occult]]'
 - '[[DATABASE/trait/Psyche|Psyche]]'
 - '[[DATABASE/trait/Psychic|Psychic]]'
-trigger: null
 type: Action
 
 ---

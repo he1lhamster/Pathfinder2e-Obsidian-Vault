@@ -1,8 +1,6 @@
 ﻿---
 ac: '20'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
 climb_speed: '10'
 constitution: '+5'
@@ -14,12 +12,9 @@ creature_ability:
 - Razor Sharp
 - Split
 - Subsonic Hum
-creature_family: null
 dexterity: '-5'
 element: Earth
-fly_speed: null
 fortitude: '+20'
-hardness: null
 hp: '300'
 id: '464'
 immunity:
@@ -31,7 +26,6 @@ immunity:
 - visual
 intelligence: '-5'
 land_speed: '10'
-language: null
 level: '11'
 max_speed: '10'
 name: Carnivorous Crystal
@@ -41,8 +35,6 @@ reflex: '+10'
 resistance:
 - piercing 10
 - slashing 10
-rus_type_level: null
-school: null
 sense:
 - motion sense 60 feet
 - no vision
@@ -54,18 +46,15 @@ source: '[[DATABASE/source/Pathfinder 148. Fires of the Haunted City|Pathfinder 
 speed:
 - 10 feet
 - climb 10 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Mindless|Mindless]]'
 - '[[DATABASE/trait/Ooze|Ooze]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
 weakness:

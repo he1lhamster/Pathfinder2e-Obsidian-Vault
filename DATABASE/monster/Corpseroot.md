@@ -1,22 +1,15 @@
 ﻿---
 ac: '30'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Axe Vulnerability
 - Blight
 - Plant
 - Take Root
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+24'
-hardness: null
 hp: 225 ( negative healing )
 id: '1847'
 immunity:
@@ -40,8 +33,6 @@ reflex: '+18'
 resistance:
 - bludgeoning 10
 - piercing 10
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Huge
@@ -51,12 +42,10 @@ skill:
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 speed:
 - 20 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Undead|Undead]]'
 type: Creature

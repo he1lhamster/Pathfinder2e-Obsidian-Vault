@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Avatar's Audience
-frequency: null
-heighten_level: null
 id: '308'
 level: '20'
 name: Avatar's Audience
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Cleric|Cleric]]'
-trigger: null
 type: Feat
 
 ---

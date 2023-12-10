@@ -1,37 +1,24 @@
 ﻿---
 actions: '[one-action]'
-area: null
-bloodline: null
 component:
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: sustained up to 1 minute
-element: null
 heighten: '+2'
 heighten_level: 1, 3, 5, 7, 9
 id: '797'
 lesson: '[[DATABASE/witchlesson/Lesson of the Elements|Lesson of the Elements]]'
 level: '1'
-mystery: null
 name: Elemental Betrayal
-patron_theme: null
 range: 30 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 target: 1 creature
-tradition: null
 trait:
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Hex|Hex]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 - '[[DATABASE/trait/Witch|Witch]]'
-trigger: null
 type: Focus
 
 ---

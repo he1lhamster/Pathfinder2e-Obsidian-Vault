@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Elemental Familiar
-frequency: null
-heighten_level: null
-id: '4342'
+id: '2988'
 level: '4'
 name: Elemental Familiar
 prerequisite: '[[DATABASE/feat/Elementalist Dedication|Elementalist Dedication]] ;
   [[DATABASE/feat/Familiar|Familiar]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
-source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
+source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

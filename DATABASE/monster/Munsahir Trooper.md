@@ -1,10 +1,6 @@
 ﻿---
 ac: '22'
-alignment: null
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Burning Touch
@@ -14,9 +10,7 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Munsahir|Munsahir]]'
 dexterity: '+1'
 element: Fire
-fly_speed: null
 fortitude: '+14'
-hardness: null
 hp: '85'
 id: '2638'
 immunity:
@@ -32,9 +26,6 @@ name: Munsahir Trooper
 perception: '+14'
 rarity: Common
 reflex: '+10'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -46,12 +37,10 @@ skill:
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 speed:
 - 20 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Elemental|Elemental]]'
 - '[[DATABASE/trait/Fire|Fire]]'

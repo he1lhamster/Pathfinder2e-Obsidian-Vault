@@ -1,10 +1,7 @@
 ﻿---
 ac: '31'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Attack of Opportunity
@@ -16,10 +13,7 @@ creature_ability:
 - Weapon Master
 creature_family: '[[DATABASE/monsterfamily/Graveknight|Graveknight]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+21'
-hardness: null
 hp: 175 ( negative healing , rejuvenation)
 id: '244'
 immunity:
@@ -40,9 +34,6 @@ name: Graveknight
 perception: '+19'
 rarity: Common
 reflex: '+19'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -54,19 +45,16 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 25 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Undead|Undead]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+18'
 wisdom: '+3'
 

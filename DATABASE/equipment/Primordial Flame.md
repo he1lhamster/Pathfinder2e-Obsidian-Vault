@@ -1,46 +1,15 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
 bulk: '1'
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
 element: Fire
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '1513'
 item_category: Artifacts
-item_subcategory: null
-land_speed: null
 level: '23'
-max_speed: null
 name: Primordial Flame
-onset: null
-price: null
-range: null
 rarity: Unique
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
-size: null
 source: '[[DATABASE/source/Pathfinder 176. Lost Mammoth Valley|Pathfinder #176: Lost
   Mammoth Valley]]'
-spell: null
-stage: null
 subcategory: artifact
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Artifact|Artifact]]'
 - '[[DATABASE/trait/Cursed|Cursed]]'
@@ -49,12 +18,8 @@ trait:
 - '[[DATABASE/trait/Light|Light]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Unique|Unique]]'
-trigger: null
 type: Item
 usage: held in 1 hand
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Primordial Flame<span class="item-type">Item 23</span>

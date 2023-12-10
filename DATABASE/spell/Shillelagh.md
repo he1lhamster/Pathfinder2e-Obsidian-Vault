@@ -1,32 +1,20 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Andoletta|Andoletta]]'
 - '[[DATABASE/deity/Arundhat|Arundhat]]'
 - '[[DATABASE/deity/Arundhat|Arundhat]]'
 - '[[DATABASE/deity/Elven Pantheon|Elven Pantheon]]'
-domain: null
 duration: 1 minute
-element: null
-heighten: null
 heighten_level: '1'
 id: '282'
-lesson: null
 level: '1'
-mystery: null
 name: Shillelagh
-patron_theme: null
 range: touch
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: 1 [[DATABASE/weapon/Club|club]] or [[DATABASE/weapon/Staff|staff]] you hold
@@ -35,7 +23,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Plant|Plant]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Spell
 
 ---

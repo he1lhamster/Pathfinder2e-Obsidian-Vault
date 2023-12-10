@@ -1,20 +1,12 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Defensive Roll
 frequency: once per 10 minutes
-heighten_level: null
 id: '587'
 level: '14'
 name: Defensive Roll
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Rogue|Rogue]]'
 trigger: A physical attack would reduce you to 0 Hit Points.

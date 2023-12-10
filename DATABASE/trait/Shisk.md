@@ -2,7 +2,6 @@
 id: '382'
 name: Shisk
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
 trait:
 - Shisk

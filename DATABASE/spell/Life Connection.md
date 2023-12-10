@@ -1,29 +1,15 @@
 ﻿---
-actions: null
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 24 hours
-element: null
-heighten: null
 heighten_level: '3'
 id: '939'
-lesson: null
 level: '3'
-mystery: null
 name: Life Connection
-patron_theme: null
 range: touch
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 target: 1 living creature
@@ -33,7 +19,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Contingency|Contingency]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
-trigger: null
 type: Spell
 
 ---

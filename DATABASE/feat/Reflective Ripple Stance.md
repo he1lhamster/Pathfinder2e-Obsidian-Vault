@@ -1,26 +1,21 @@
 ﻿---
 actions: '[one-action]'
-cost: null
 element: Water
 feat: Reflective Ripple Stance
-frequency: null
-heighten_level: null
 id: '2980'
+leads_to: '[[DATABASE/feat/Rippling Spin|Rippling Spin]] , [[DATABASE/feat/Wave Spiral|Wave
+  Spiral]]'
 level: '1'
 name: Reflective Ripple Stance
-prerequisite: null
 rarity: Common
 requirement: You're unarmored.
-rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Monk|Monk]]'
 - '[[DATABASE/trait/Stance|Stance]]'
 - '[[DATABASE/trait/Water|Water]]'
-trigger: null
 type: Feat
 
 ---

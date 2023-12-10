@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Eclectic Skill
-frequency: null
-heighten_level: null
 id: '195'
 level: '8'
 name: Eclectic Skill
 prerequisite: '[[DATABASE/bardmuse/Polymath|polymath muse]] ; Master in [[DATABASE/skill/Occultism|Occultism]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Bard|Bard]]'
-trigger: null
 type: Feat
 
 ---

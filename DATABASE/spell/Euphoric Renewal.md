@@ -1,37 +1,21 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 10 minutes
-element: null
 heighten: '+1'
 heighten_level: 4, 5, 6, 7, 8, 9, 10
 id: '1168'
-lesson: null
 level: '4'
-mystery: null
 name: Euphoric Renewal
-patron_theme: null
-range: null
 rarity: Rare
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-target: null
-tradition: null
 trait:
 - '[[DATABASE/trait/Cleric|Cleric]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Focus
 
 ---

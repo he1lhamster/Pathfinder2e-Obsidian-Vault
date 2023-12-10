@@ -1,20 +1,13 @@
 ﻿---
 ac: '28'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Mohrg Spawn
 - Paralysis
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+18'
-hardness: null
 hp: 120 ( negative healing )
 id: '729'
 immunity:
@@ -37,8 +30,6 @@ reflex: '+16'
 resistance:
 - piercing 10
 - slashing 5
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -51,19 +42,16 @@ skill:
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 25 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Undead|Undead]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+13'
 wisdom: '+3'
 

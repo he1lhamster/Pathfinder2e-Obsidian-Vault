@@ -1,26 +1,17 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Embed Aeon Stone
-frequency: null
-heighten_level: null
 id: '3021'
+leads_to: '[[DATABASE/feat/Aeon Resonance|Aeon Resonance]]'
 level: '2'
 name: Embed Aeon Stone
 prerequisite: '[[DATABASE/feat/Runelord Dedication|Runelord Dedication]] ; Trained
   in [[DATABASE/skill/Crafting|Crafting]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Downtime|Downtime]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

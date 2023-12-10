@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Abundant Step
-frequency: null
-heighten_level: null
 id: '449'
 level: '6'
 name: Abundant Step
 prerequisite: '[[DATABASE/class_/Monk|incredible movement]] ; ki spells'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Monk|Monk]]'
-trigger: null
 type: Feat
 
 ---

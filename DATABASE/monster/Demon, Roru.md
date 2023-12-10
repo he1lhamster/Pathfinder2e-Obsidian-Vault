@@ -1,10 +1,7 @@
 ﻿---
 ac: '25'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Disobedience Vulnerability
@@ -13,13 +10,9 @@ creature_ability:
 - Wear Pelt
 creature_family: '[[DATABASE/monsterfamily/Demon|Demon]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+15'
-hardness: null
 hp: '120'
 id: '1774'
-immunity: null
 intelligence: '+0'
 land_speed: '40'
 language:
@@ -34,9 +27,6 @@ name: Roru
 perception: '+16'
 rarity: Uncommon
 reflex: '+17'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 60 feet'
@@ -59,7 +49,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Demon|Demon]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

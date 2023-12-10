@@ -1,18 +1,8 @@
 ﻿---
-ability: null
-ability_boost: null
-feat: null
 id: '216'
 name: Witchlight Follower
-prerequisite: null
-rarity: null
-rus_type_level: null
-skill: null
 source: '[[DATABASE/source/Abomination Vaults Player''s Guide|Abomination Vaults Player''s
   Guide]]'
-subcategory: null
-trait: null
-type: null
 
 ---
 # Witchlight Follower<span class="item-type">Background</span>

@@ -1,28 +1,21 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Beastmaster's Call
 frequency: once per turn
-heighten_level: null
 id: '1907'
 level: '12'
 name: Beastmaster's Call
 prerequisite: '[[DATABASE/feat/Beastmaster Dedication|Beastmaster Dedication]] ; Call
   Companion'
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Conjuration
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Auditory|Auditory]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Primal|Primal]]'
-trigger: null
 type: Feat
 
 ---

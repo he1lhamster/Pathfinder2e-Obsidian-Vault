@@ -1,25 +1,17 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Stella's Stab and Snag
-frequency: null
-heighten_level: null
 id: '2268'
 level: '6'
 name: Stella's Stab and Snag
 prerequisite: Expert in [[DATABASE/skill/Thievery|Thievery]]
 rarity: Uncommon
 requirement: You are wielding a piercing or slashing melee weapon.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Rogue|Rogue]]'
 - '[[DATABASE/trait/Swashbuckler|Swashbuckler]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

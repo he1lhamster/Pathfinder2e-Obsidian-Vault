@@ -1,32 +1,20 @@
 ﻿---
 actions: '[three-actions]'
 area: one 5-foot square
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 1 minute
-element: null
 heighten: 7th
 heighten_level: 3, 7
 id: '1161'
-lesson: null
 level: '3'
-mystery: null
 name: Rally Point
-patron_theme: null
 range: touch
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-target: null
 tradition:
 - Arcane
 - Occult
@@ -34,7 +22,6 @@ trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Teleportation|Teleportation]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Spell
 
 ---

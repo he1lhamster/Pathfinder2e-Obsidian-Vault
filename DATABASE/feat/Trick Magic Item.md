@@ -1,26 +1,18 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Trick Magic Item
-frequency: null
-heighten_level: null
 id: '857'
 level: '1'
 name: Trick Magic Item
 prerequisite: Trained in [[DATABASE/skill/Arcana|Arcana]] , Trained in [[DATABASE/skill/Nature|Nature]]
   , Trained in [[DATABASE/skill/Occultism|Occultism]] , or Trainedin [[DATABASE/skill/Religion|Religion]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: arcana
 trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

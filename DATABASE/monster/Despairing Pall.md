@@ -1,10 +1,6 @@
 ﻿---
 ac: '17'
-alignment: null
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Downcast
@@ -14,7 +10,6 @@ dexterity: '+4'
 element: Air
 fly_speed: '50'
 fortitude: '+4'
-hardness: null
 hp: '15'
 id: '2617'
 immunity:
@@ -24,7 +19,6 @@ immunity:
 - '[[DATABASE/trait/Poison|poison]]'
 - '[[DATABASE/trait/Sleep|sleep]]'
 intelligence: '+0'
-land_speed: null
 language:
 - '[[DATABASE/language/Sussuran|Sussuran]]'
 level: '1'
@@ -33,9 +27,6 @@ name: Despairing Pall
 perception: '+5'
 rarity: Common
 reflex: '+10'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -46,12 +37,10 @@ skill:
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 speed:
 - fly 50 feet
-spell: null
 strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Elemental|Elemental]]'
@@ -59,7 +48,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+7'
 wisdom: '+0'
 

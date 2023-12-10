@@ -1,21 +1,15 @@
 ﻿---
 ac: '24'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Cinder Dispersal
 - Pack Attack
 - Pounce
-creature_family: null
 dexterity: '+4'
 element: Fire
-fly_speed: null
 fortitude: '+12'
-hardness: null
 hp: '95'
 id: '176'
 immunity:
@@ -30,9 +24,6 @@ name: Elananx
 perception: '+14'
 rarity: Common
 reflex: '+16'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -43,12 +34,10 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 30 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Fire|Fire]]'

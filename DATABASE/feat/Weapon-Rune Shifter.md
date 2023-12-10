@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Weapon-Rune Shifter
-frequency: null
-heighten_level: null
 id: '1150'
 level: '10'
 name: Weapon-Rune Shifter
 prerequisite: '[[DATABASE/feat/Crystal Keeper Dedication|Crystal Keeper Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 148. Fires of the Haunted City|Pathfinder #148:
   Fires of the Haunted City]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

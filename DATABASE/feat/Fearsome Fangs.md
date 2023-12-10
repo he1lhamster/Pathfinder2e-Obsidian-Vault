@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Fearsome Fangs
-frequency: null
-heighten_level: null
 id: '4093'
 level: '16'
 name: Fearsome Fangs
 prerequisite: '[[DATABASE/feat/Ursine Avenger Form|Ursine Avenger Form]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

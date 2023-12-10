@@ -1,36 +1,26 @@
 ﻿---
 ac: '13'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Gnaw Flesh
 - Regurgitation
 creature_family: '[[DATABASE/monsterfamily/Fly|Fly]]'
 dexterity: '-1'
-element: null
-fly_speed: null
 fortitude: '+9'
-hardness: null
 hp: '18'
 id: '672'
 immunity:
 - '[[DATABASE/trait/Visual|visual]]'
 intelligence: '-5'
 land_speed: '10'
-language: null
 level: '0'
 max_speed: '10'
 name: Giant Maggot
 perception: '+3'
 rarity: Common
 reflex: '+3'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - no vision
 - '[[DATABASE/monsterability/Tremorsense|tremorsense 30 feet]]'
@@ -40,20 +30,16 @@ skill:
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 10 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
 - Will
-weakness: null
 will: '+3'
 wisdom: '+1'
 

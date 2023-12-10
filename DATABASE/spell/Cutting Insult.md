@@ -1,27 +1,15 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
 heighten: '+2'
 heighten_level: 2, 4, 6, 8, 10
 id: '1282'
-lesson: null
 level: '2'
-mystery: null
 name: Cutting Insult
-patron_theme: null
 range: 30 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 saving_throw: Will
 school: Enchantment
 source: '[[DATABASE/source/Firebrands|Firebrands]]'
@@ -36,7 +24,6 @@ trait:
 - '[[DATABASE/trait/Linguistic|Linguistic]]'
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Spell
 
 ---

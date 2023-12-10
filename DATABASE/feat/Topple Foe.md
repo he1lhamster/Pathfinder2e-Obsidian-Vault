@@ -1,21 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Topple Foe
-frequency: null
-heighten_level: null
 id: '2014'
 level: '10'
 name: Topple Foe
 prerequisite: '[[DATABASE/feat/Marshal Dedication|Marshal Dedication]] ; Trained in
   [[DATABASE/skill/Athletics|Athletics]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 trigger: An ally succeeds at a melee Strike against an opponent you are both adjacent

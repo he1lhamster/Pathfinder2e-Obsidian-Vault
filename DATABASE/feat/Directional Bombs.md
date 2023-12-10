@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Directional Bombs
-frequency: null
-heighten_level: null
 id: '104'
+leads_to: '[[DATABASE/feat/Controlled Blast|Controlled Blast]]'
 level: '6'
 name: Directional Bombs
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Alchemist|Alchemist]]'
-trigger: null
 type: Feat
 
 ---

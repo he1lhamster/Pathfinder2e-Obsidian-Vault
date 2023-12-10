@@ -25,11 +25,9 @@ follower_alignment:
 id: '106'
 name: Ranginori
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]]'
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-trait: null
 type: Deity
 
 ---

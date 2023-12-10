@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Green Empathy
-frequency: null
-heighten_level: null
 id: '326'
+leads_to: '[[DATABASE/feat/Green Tongue|Green Tongue]]'
 level: '6'
 name: Green Empathy
 prerequisite: '[[DATABASE/druidicorder/Leaf|leaf order]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Druid|Druid]]'
-trigger: null
 type: Feat
 
 ---

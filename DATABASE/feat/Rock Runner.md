@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Rock Runner
-frequency: null
-heighten_level: null
 id: '3'
+leads_to: '[[DATABASE/feat/Boulder Roll|Boulder Roll]]'
 level: '1'
 name: Rock Runner
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Dwarf|Dwarf]]'
-trigger: null
 type: Feat
 
 ---

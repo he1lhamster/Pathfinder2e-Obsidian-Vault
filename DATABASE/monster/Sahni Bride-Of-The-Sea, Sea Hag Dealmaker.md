@@ -1,24 +1,16 @@
 ﻿---
 ac: '24'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Bride's Bargain
 - Coven
 - Curse of Futility
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+13'
-hardness: null
 hp: '120'
 id: '2070'
-immunity: null
 intelligence: '+6'
 land_speed: '25'
 language:
@@ -31,9 +23,6 @@ name: Sahni Bride-Of-The-Sea
 perception: '+15'
 rarity: Unique
 reflex: '+14'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium

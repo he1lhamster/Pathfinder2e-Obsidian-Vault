@@ -5,33 +5,19 @@ bloodline: '[[DATABASE/sorcererbloodline/Nymph|Nymph]]'
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 1 minute
-element: null
 heighten: '+2'
 heighten_level: 5, 7, 9
 id: '782'
-lesson: null
 level: '5'
-mystery: null
 name: Establish Ward
-patron_theme: null
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-target: null
-tradition: null
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Sorcerer|Sorcerer]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Focus
 
 ---

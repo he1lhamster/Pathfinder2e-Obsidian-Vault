@@ -1,26 +1,18 @@
 ﻿---
 ac: '23'
-burrow_speed: null
-climb_speed: null
 fly_speed: '30'
 fortitude: '+18'
 hardness: '5'
 hp: '120'
 id: '40'
 item_category: Vehicles
-land_speed: null
 level: '9'
 max_speed: '30'
 name: Clockwork Bumblebee
 price: 2,100 gp
 rarity: Rare
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 size: Large
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Clockwork|Clockwork]]'
 - '[[DATABASE/trait/Rare|Rare]]'

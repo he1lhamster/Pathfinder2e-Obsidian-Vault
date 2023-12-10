@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Mental Forge
-frequency: null
-heighten_level: null
 id: '3866'
+leads_to: '[[DATABASE/feat/Malleable Mental Forge|Malleable Mental Forge]]'
 level: '4'
 name: Mental Forge
 prerequisite: '[[DATABASE/feat/Mind Smith Dedication|Mind Smith Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

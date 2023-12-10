@@ -2,7 +2,6 @@
 id: '4'
 name: Infiltration Garb
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 trait:
 - '[[DATABASE/trait/Relic|Relic]]'

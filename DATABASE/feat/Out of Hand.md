@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Out of Hand
-frequency: null
-heighten_level: null
 id: '3563'
 level: '8'
 name: Out of Hand
 prerequisite: '[[DATABASE/feat/Zombie Dedication|Zombie Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

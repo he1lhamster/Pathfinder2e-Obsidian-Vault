@@ -1,45 +1,15 @@
 ﻿---
-ac: null
 actions: '[free-action]'
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
 element: Metal
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '2613'
 item_category: Consumables
 item_subcategory: Talismans
-land_speed: null
-level: '15'
-max_speed: null
+level: '11'
 name: Ferrofluid Urchin
-onset: null
-price: 925 gp
-range: null
+price: 225 gp
 rarity: Common
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
-school: null
-size: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-spell: null
-stage: null
 subcategory: consumable/talisman
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Consumable|Consumable]]'
 - '[[DATABASE/trait/Magical|Magical]]'
@@ -48,9 +18,6 @@ trait:
 trigger: You take physical damage
 type: Item
 usage: affixed to a medium metal armor or heavy metal armor
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Ferrofluid Urchin<span class="item-type">Item 7+</span>

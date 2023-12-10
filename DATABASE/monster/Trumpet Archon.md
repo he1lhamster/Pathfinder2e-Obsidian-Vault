@@ -1,10 +1,7 @@
 ﻿---
 ac: '36'
 alignment: LG
-all_resistance: null
-burrow_speed: null
 charisma: '+8'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Archon's Door
@@ -13,13 +10,10 @@ creature_ability:
 - Trumpet Blast
 creature_family: '[[DATABASE/monsterfamily/Archon|Archon]]'
 dexterity: '+5'
-element: null
 fly_speed: '60'
 fortitude: '+24'
-hardness: null
 hp: '285'
 id: '552'
-immunity: null
 intelligence: '+3'
 land_speed: '35'
 language:
@@ -34,8 +28,6 @@ rarity: Common
 reflex: '+24'
 resistance:
 - sonic 15
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -66,7 +58,6 @@ strength: '+7'
 strength_req: '7'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Archon|Archon]]'
 - '[[DATABASE/trait/Celestial|Celestial]]'

@@ -1,8 +1,6 @@
 ﻿---
 ac: '34'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+23'
 hardness: '25'
 hazard_type: Environmental
@@ -16,9 +14,6 @@ level: '15'
 name: Rogue Sphere
 rarity: Rare
 reflex: '+29'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 191. The Destiny War|Pathfinder #191: The Destiny
   War]]'
 trait:
@@ -29,7 +24,6 @@ trait:
 type: Hazard
 weakness:
 - '[[DATABASE/trait/Force|force]] 15'
-will: null
 
 ---
 # Rogue Sphere<span class="item-type">Hazard 15</span>

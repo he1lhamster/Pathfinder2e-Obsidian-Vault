@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Psychopomp Familiar
-frequency: null
-heighten_level: null
 id: '3468'
+leads_to: '[[DATABASE/feat/Enhanced Psychopomp Familiar|Enhanced Psychopomp Familiar]]'
 level: '4'
 name: Psychopomp Familiar
 prerequisite: '[[DATABASE/feat/Soul Warden Dedication|Soul Warden Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,10 +1,7 @@
 ﻿---
 ac: '34'
 alignment: LG
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Attack of Opportunity
@@ -20,7 +17,6 @@ dexterity: '+3'
 element: Water
 fly_speed: '140'
 fortitude: '+24'
-hardness: null
 hp: '260'
 id: '146'
 immunity:
@@ -43,9 +39,6 @@ name: Adult Bronze Dragon
 perception: '+23'
 rarity: Common
 reflex: '+23'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - scent (imprecise) 60 feet
@@ -79,7 +72,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+26'
 wisdom: '+4'
 

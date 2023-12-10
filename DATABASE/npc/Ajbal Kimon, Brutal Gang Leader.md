@@ -1,10 +1,7 @@
 ﻿---
 ac: '34'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Deny Advantage
@@ -14,14 +11,10 @@ creature_ability:
 - Sneak Attack
 - Tear the Wound
 - Trident Bully
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+21'
 hp: '225'
 id: '1692'
-immunity: null
 intelligence: '+1'
 land_speed: '20'
 language:
@@ -32,9 +25,6 @@ name: Ajbal Kimon
 perception: '+23'
 rarity: Unique
 reflex: '+24'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +25'
@@ -49,21 +39,17 @@ source: '[[DATABASE/source/Pathfinder 171. Hurricane''s Howl|Pathfinder #171: Hu
   Howl]]'
 speed:
 - 20 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+23'
 wisdom: '+4'
 

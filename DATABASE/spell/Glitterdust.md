@@ -1,40 +1,27 @@
 ﻿---
 actions: '[two-actions]'
 area: 10-foot burst
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Ashava|Ashava]]'
 - '[[DATABASE/deity/Cosmic Caravan|CosmicCaravan]]'
 - '[[DATABASE/deity/Cosmic Caravan|Cosmic Caravan]]'
-domain: null
-duration: null
-element: null
-heighten: null
 heighten_level: '2'
 id: '136'
-lesson: null
 level: '2'
-mystery: null
 name: Glitterdust
-patron_theme: null
 range: 120 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Reflex
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Arcane
 - Primal
 trait:
 - '[[DATABASE/trait/Evocation|Evocation]]'
-trigger: null
 type: Spell
 
 ---

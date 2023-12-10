@@ -1,55 +1,21 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
 base_item: '[[DATABASE/armor/Bastion Plate|Bastion Plate]]'
 bulk: '5'
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '1847'
 item_category: Armor
 item_subcategory: Specific Magic Armor
-land_speed: null
 level: '20'
-max_speed: null
 name: Immortal Bastion
-onset: null
 price: 70,000 gp
-range: null
 rarity: Common
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Abjuration
-size: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-spell: null
-stage: null
-subcategory: null
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Invested|Invested]]'
 - '[[DATABASE/trait/Magical|Magical]]'
-trigger: null
 type: Item
 usage: worn armor
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Immortal Bastion<span class="item-type">Item 20</span>

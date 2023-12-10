@@ -1,8 +1,6 @@
 ﻿---
 ac: '27'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
 climb_speed: '20'
 constitution: '+3'
@@ -14,10 +12,7 @@ creature_ability:
 - Web Trap
 creature_family: '[[DATABASE/monsterfamily/Shanrigol|Shanrigol]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+21'
-hardness: null
 hp: 140 ( negative healing )
 id: '1051'
 immunity:
@@ -28,7 +23,6 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-4'
 land_speed: '30'
-language: null
 level: '9'
 max_speed: '30'
 name: Shanrigol Behemoth
@@ -38,8 +32,6 @@ reflex: '+18'
 resistance:
 - slashing 10
 - piercing 10
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) 30 feet'
@@ -53,7 +45,6 @@ speed:
 - 30 feet
 - climb 20 feet
 - swim 20 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:

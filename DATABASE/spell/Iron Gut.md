@@ -1,37 +1,22 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
-cost: null
-deity: null
-domain: null
 duration: 1 hour
-element: null
 heighten: 3rd
 heighten_level: 2, 3
 id: '579'
-lesson: null
 level: '2'
-mystery: null
 name: Iron Gut
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
-target: null
 tradition:
 - Arcane
 - Primal
 trait:
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Spell
 
 ---

@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Perfect Resistance
-frequency: null
-heighten_level: null
 id: '4060'
 level: '8'
 name: Perfect Resistance
 prerequisite: '[[DATABASE/feat/Student of Perfection Dedication|Student of Perfection
   Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

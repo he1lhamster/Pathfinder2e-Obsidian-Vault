@@ -1,38 +1,23 @@
 ﻿---
 actions: '[one-action]'
-area: null
-bloodline: null
 component:
 - Somatic
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
 heighten: '+1'
 heighten_level: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
 id: '395'
-lesson: null
 level: '1'
-mystery: null
 name: Lay on Hands
-patron_theme: null
 range: touch
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: 1 willing living creature or 1 undead creature
-tradition: null
 trait:
 - '[[DATABASE/trait/Champion|Champion]]'
 - '[[DATABASE/trait/Healing|Healing]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Positive|Positive]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Focus
 
 ---

@@ -1,24 +1,17 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Cobra Envenom
 frequency: once per minute
-heighten_level: null
 id: '1747'
 level: '10'
 name: Cobra Envenom
 prerequisite: '[[DATABASE/feat/Cobra Stance|Cobra Stance]] ; expert in unarmed attacks'
 rarity: Common
 requirement: You are in Cobra Stance.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Monk|Monk]]'
 - '[[DATABASE/trait/Poison|Poison]]'
-trigger: null
 type: Feat
 
 ---

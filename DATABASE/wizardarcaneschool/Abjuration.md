@@ -2,9 +2,7 @@
 id: '1'
 name: Abjuration
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Wizard Arcane School
 
 ---

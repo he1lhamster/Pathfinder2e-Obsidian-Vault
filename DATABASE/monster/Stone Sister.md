@@ -1,10 +1,7 @@
 ﻿---
 ac: '24'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Attack of Opportunity
@@ -12,12 +9,8 @@ creature_ability:
 - Reconstitution
 - Statue
 - Stone Flesh
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+17'
-hardness: null
 hp: 75 ( negative healing , reconstitution, stone flesh)
 id: '2098'
 immunity:
@@ -39,8 +32,6 @@ rarity: Rare
 reflex: '+11'
 resistance:
 - physical 5 (except [[DATABASE/equipment/Adamantine Weapon|adamantine]] )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -52,12 +43,10 @@ skill:
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 speed:
 - 25 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Undead|Undead]]'
@@ -66,7 +55,6 @@ vision: Darkvision
 weakest_save:
 - Reflex
 - Will
-weakness: null
 will: '+11'
 wisdom: '+1'
 

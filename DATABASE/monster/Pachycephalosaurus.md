@@ -1,35 +1,24 @@
 ﻿---
 ac: '19'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Clobbering Charge
 - Sudden Shove
 creature_family: '[[DATABASE/monsterfamily/Dinosaur|Dinosaur]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+12'
-hardness: null
 hp: '65'
 id: '614'
-immunity: null
 intelligence: '-4'
 land_speed: '35'
-language: null
 level: '3'
 max_speed: '35'
 name: Pachycephalosaurus
 perception: '+10'
 rarity: Common
 reflex: '+11'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Scent|scent (imprecise) 30 feet]]'
@@ -40,12 +29,10 @@ skill:
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 35 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 - '[[DATABASE/trait/Dinosaur|Dinosaur]]'
@@ -53,7 +40,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+7'
 wisdom: '+3'
 

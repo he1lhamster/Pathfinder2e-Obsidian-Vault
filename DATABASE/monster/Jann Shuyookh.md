@@ -1,10 +1,6 @@
 ﻿---
 ac: '27'
-alignment: null
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - All Made One
@@ -17,10 +13,8 @@ dexterity: '+4'
 element: Air, Earth, Fire, Metal, Water, Wood
 fly_speed: '20'
 fortitude: '+19'
-hardness: null
 hp: '155'
 id: '2688'
-immunity: null
 intelligence: '+3'
 land_speed: '25'
 language:
@@ -39,8 +33,6 @@ rarity: Uncommon
 reflex: '+17'
 resistance:
 - elemental resistance 10
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -67,7 +59,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Earth|Earth]]'
@@ -82,7 +73,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+18'
 wisdom: '+5'
 

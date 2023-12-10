@@ -1,10 +1,6 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Scout's Pounce
-frequency: null
-heighten_level: null
 id: '2052'
 level: '10'
 name: Scout's Pounce
@@ -12,14 +8,10 @@ prerequisite: '[[DATABASE/feat/Scout Dedication|Scout Dedication]]'
 rarity: Common
 requirement: You are [[DATABASE/condition/Hidden|hidden]] from or [[DATABASE/condition/Undetected|undetected]]
   by all of your opponents, and you aren't within 10 feet of any enemy.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Flourish|Flourish]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,58 +1,24 @@
 ﻿---
-ac: null
 actions: '[free-action]'
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '1446'
 item_category: Consumables
 item_subcategory: Talismans
-land_speed: null
 level: '9'
-max_speed: null
 name: "Ixam\xE8's Eye"
-onset: null
 price: 150 gp
-range: null
 rarity: Rare
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Divination
-size: null
 source: '[[DATABASE/source/Pathfinder 171. Hurricane''s Howl|Pathfinder #171: Hurricane''s
   Howl]]'
-spell: null
-stage: null
 subcategory: consumable/talisman
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Consumable|Consumable]]'
 - '[[DATABASE/trait/Divination|Divination]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Talisman|Talisman]]'
-trigger: null
 type: Item
 usage: affixed to headgear
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Ixamè's Eye<span class="item-type">Item 9</span>

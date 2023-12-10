@@ -2,9 +2,6 @@
 id: '137'
 name: The Last Dream
 rarity: Common
-rus_type_level: null
-source: null
-trait: null
 type: Source
 
 ---

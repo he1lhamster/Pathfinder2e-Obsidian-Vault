@@ -1,24 +1,14 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Hamstringing Strike
-frequency: null
-heighten_level: null
 id: '3902'
 level: '8'
 name: Hamstringing Strike
-prerequisite: null
 rarity: Rare
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Ranger|Ranger]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Feat
 
 ---

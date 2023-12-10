@@ -1,19 +1,13 @@
 ﻿---
 actions: '[three-actions]'
-cost: null
-element: null
-frequency: null
 id: '1428'
 name: Battlefield Medicine
 rarity: Common
 requirement: '[[DATABASE/kingmakerwarfaretactic/Field Triage|Field Triage]]'
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
 - '[[DATABASE/trait/Infantry|Infantry]]'
 - '[[DATABASE/trait/Skirmisher|Skirmisher]]'
-trigger: null
 type: Action
 
 ---

@@ -1,19 +1,13 @@
 ﻿---
 actions: '[three-actions]'
-cost: null
-element: null
-frequency: null
 id: '1160'
 name: Collect Spirit Remnant
 rarity: Common
 requirement: You're holding yourspirit dwelling
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
-trigger: null
 type: Action
 
 ---

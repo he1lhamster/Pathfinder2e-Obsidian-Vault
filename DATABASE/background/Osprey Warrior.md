@@ -8,9 +8,7 @@ ability_boost:
 feat: '[[DATABASE/feat/Hefty Hauler|Hefty Hauler]]'
 id: '405'
 name: Osprey Warrior
-prerequisite: null
 rarity: Rare
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]]'
 - Gorum [[DATABASE/skill/Lore|Lore]]

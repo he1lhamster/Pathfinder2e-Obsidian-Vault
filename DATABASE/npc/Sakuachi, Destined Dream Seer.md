@@ -1,21 +1,14 @@
 ﻿---
 ac: '21'
 alignment: NG
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Search the Stars
-creature_family: null
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+11'
 hp: '60'
 id: '2467'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -29,9 +22,6 @@ name: Sakuachi
 perception: '+14'
 rarity: Unique
 reflex: '+10'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Lore|Astronomy Lore]] +15'
@@ -61,16 +51,13 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+14'
 wisdom: '+3'
 

@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Draconic Arrogance
-frequency: null
-heighten_level: null
 id: '1603'
 level: '1'
 name: Draconic Arrogance
 prerequisite: '[[DATABASE/barbarianinstinct/Dragon Instinct|dragon instinct]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Barbarian|Barbarian]]'
 - '[[DATABASE/trait/Rage|Rage]]'
-trigger: null
 type: Feat
 
 ---

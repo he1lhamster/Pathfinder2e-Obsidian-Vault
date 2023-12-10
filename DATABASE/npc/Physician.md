@@ -1,22 +1,16 @@
 ﻿---
 ac: '13'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Bedside Manner
 - Doctor's Hand
 creature_family: '[[DATABASE/monsterfamily/Healers|Healers]]'
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+9'
 hp: '9'
 id: '909'
-immunity: null
 intelligence: '+4'
 land_speed: '25'
 language:
@@ -27,8 +21,6 @@ name: Physician
 perception: '+6'
 rarity: Common
 reflex: '+3'
-resistance: null
-rus_type_level: null
 sense:
 - (8 to notice ailments)
 size: Medium
@@ -39,20 +31,16 @@ skill:
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 speed:
 - 25 feet
-spell: null
 strength: '-1'
 strength_req: '-1'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+8'
 wisdom: '+2'
 

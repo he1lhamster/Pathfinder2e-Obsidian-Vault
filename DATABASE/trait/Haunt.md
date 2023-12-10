@@ -2,7 +2,6 @@
 id: '88'
 name: Haunt
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - Haunt

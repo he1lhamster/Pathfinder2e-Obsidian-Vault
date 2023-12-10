@@ -1,8 +1,6 @@
 ﻿---
 ac: '33'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
 climb_speed: '30'
 constitution: '+4'
@@ -11,12 +9,9 @@ creature_ability:
 - Infrared Vision
 - Shadow Strike
 - Walk in Shadow
-creature_family: null
 dexterity: '+7'
-element: null
 fly_speed: '50'
 fortitude: '+21'
-hardness: null
 hp: '215'
 id: '466'
 immunity:
@@ -31,9 +26,6 @@ name: Deculi
 perception: '+23'
 rarity: Common
 reflex: '+26'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - infrared vision 60 feet
 - no vision
@@ -54,14 +46,11 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+18'
 wisdom: '+1'
 

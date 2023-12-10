@@ -1,24 +1,15 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Parting Shot
-frequency: null
-heighten_level: null
 id: '1724'
 level: '4'
 name: Parting Shot
-prerequisite: null
 rarity: Common
 requirement: You are wielding a loaded ranged weapon or a ranged weapon with [[DATABASE/trait/Reload|reload
   0]] .
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fighter|Fighter]]'
-trigger: null
 type: Feat
 
 ---

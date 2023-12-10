@@ -1,8 +1,6 @@
 ﻿---
 ac: '31'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '-3'
 climb_speed: '20'
 constitution: '+4'
@@ -12,12 +10,8 @@ creature_ability:
 - Pressurized Pustules
 - Propulsive Pestilence
 - Slow
-creature_family: null
 dexterity: '+7'
-element: null
-fly_speed: null
 fortitude: '+19'
-hardness: null
 hp: 250 ( negative healing )
 id: '2157'
 immunity:
@@ -28,16 +22,12 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-3'
 land_speed: '40'
-language: null
 level: '12'
 max_speed: '40'
 name: Rotbomber
 perception: '+25'
 rarity: Uncommon
 reflex: '+25'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -49,12 +39,10 @@ source: '[[DATABASE/source/Pathfinder 184. The Ghouls Hunger|Pathfinder #184: Th
 speed:
 - 40 feet
 - climb 20 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Mindless|Mindless]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

@@ -1,9 +1,5 @@
 ﻿---
-area: null
 cost: powdered mithral and rare grave dirt worth 10,000 gp
-duration: null
-element: null
-heighten: null
 heighten_level: '9'
 id: '69'
 level: '9'
@@ -12,8 +8,6 @@ primary_check: '[[DATABASE/skill/Occultism|Occultism]] or [[DATABASE/skill/Relig
   (legendary)'
 range: touch
 rarity: Rare
-requirement: null
-rus_type_level: null
 school: Necromancy
 secondary_casters: '3'
 secondary_check: '[[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]]

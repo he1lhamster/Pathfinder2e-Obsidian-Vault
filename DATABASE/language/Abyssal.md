@@ -2,7 +2,6 @@
 id: '12'
 name: Abyssal
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

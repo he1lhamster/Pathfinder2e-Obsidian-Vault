@@ -2,11 +2,8 @@
 id: '10'
 level: '7'
 name: Blinding Sickness
-onset: null
 rarity: Common
-rus_type_level: null
 saving_throw: DC 23 Fortitude
-school: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 stage: 'Stage 1: carrier with no effects (1 day)Stage 2: enfeebled 1 (1 day)Stage
   3: enfeebled 2 (1 day)Stage 4: enfeebled 2 and permanently blinded (1 day)Stage

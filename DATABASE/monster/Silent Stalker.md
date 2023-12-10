@@ -1,10 +1,7 @@
 ﻿---
 ac: '34'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Constrict
@@ -15,10 +12,7 @@ creature_ability:
 - Undying Vendetta
 creature_family: '[[DATABASE/monsterfamily/Revenant|Revenant]]'
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+22'
-hardness: null
 hp: 220 ( negative healing )
 id: '1894'
 immunity:
@@ -40,8 +34,6 @@ rarity: Common
 reflex: '+24'
 resistance:
 - physical 15 (except slashing)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - sense murderer
@@ -53,12 +45,10 @@ skill:
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 speed:
 - 25 feet
-spell: null
 strength: '+8'
 strength_req: '8'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Undead|Undead]]'
 type: Creature
@@ -66,7 +56,6 @@ vision: Darkvision
 weakest_save:
 - Fortitude
 - Will
-weakness: null
 will: '+22'
 wisdom: '+5'
 

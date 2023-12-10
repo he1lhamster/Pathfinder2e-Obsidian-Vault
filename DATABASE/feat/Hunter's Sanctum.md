@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Hunter's Sanctum
-frequency: null
-heighten_level: null
 id: '3476'
 level: '4'
 name: Hunter's Sanctum
 prerequisite: '[[DATABASE/feat/Undead Slayer Dedication|Undead Slayer Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,34 +1,23 @@
 ﻿---
 ac: '17'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Leaping Pounce
 creature_family: '[[DATABASE/monsterfamily/Fox|Fox]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+5'
-hardness: null
 hp: '5'
 id: '1158'
-immunity: null
 intelligence: '-4'
 land_speed: '35'
-language: null
 level: '-1'
 max_speed: '35'
 name: Red Fox
 perception: '+7'
 rarity: Common
 reflex: '+6'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -41,19 +30,16 @@ skill:
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 35 feet
-spell: null
 strength: '-2'
 strength_req: '-2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+3'
 wisdom: '+2'
 

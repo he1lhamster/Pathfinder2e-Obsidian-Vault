@@ -1,25 +1,18 @@
 ﻿---
 ac: '31'
-alignment: null
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Curtain of Calm
 - Iron Grief
 - Magnetic Traveler
 - Magnetic Vision
-creature_family: null
 dexterity: '+7'
 element: Metal
 fly_speed: '50'
 fortitude: '+15'
-hardness: null
 hp: '150'
 id: '2640'
-immunity: null
 intelligence: '+7'
 land_speed: '20'
 language:
@@ -34,8 +27,6 @@ rarity: Common
 reflex: '+21'
 resistance:
 - physical 10 (except [[DATABASE/equipment/Adamantine Weapon|adamantine]] )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - magnetic vision
@@ -61,7 +52,6 @@ strength_req: '4'
 strongest_save:
 - Reflex
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Elemental|Elemental]]'
@@ -70,7 +60,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+21'
 wisdom: '+5'
 

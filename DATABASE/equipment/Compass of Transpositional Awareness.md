@@ -1,57 +1,22 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
 bulk: L
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '1638'
 item_category: Held Items
-item_subcategory: null
-land_speed: null
 level: '10'
-max_speed: null
 name: Compass of Transpositional Awareness
-onset: null
 price: 950 gp
-range: null
 rarity: Rare
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Conjuration
-size: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-spell: null
-stage: null
 subcategory: helditem
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Invested|Invested]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Teleportation|Teleportation]]'
-trigger: null
 type: Item
 usage: held in 1 hand
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Compass of Transpositional Awareness<span class="item-type">Item 10</span>

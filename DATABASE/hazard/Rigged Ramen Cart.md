@@ -1,8 +1,6 @@
 ﻿---
 ac: '34'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+29'
 hardness: '25'
 hazard_type: Trap
@@ -16,9 +14,6 @@ level: '15'
 name: Rigged Ramen Cart
 rarity: Common
 reflex: '+23'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 173. Doorway to the Red Star|Pathfinder #173:
   Doorway to the Red Star]]'
 trait:
@@ -26,8 +21,6 @@ trait:
 - '[[DATABASE/trait/Mechanical|Mechanical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Rigged Ramen Cart<span class="item-type">Hazard 15</span>

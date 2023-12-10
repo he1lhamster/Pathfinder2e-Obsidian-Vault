@@ -2,7 +2,6 @@
 id: '219'
 name: Gnoll
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait:
 - Gnoll

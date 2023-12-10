@@ -1,29 +1,7 @@
 ﻿---
-bulk: L
-damage: 1d6 B
-deity:
-- '[[DATABASE/deity/Grandmother Spider|Grandmother Spider]]'
-- '[[DATABASE/deity/Mahathallah|Mahathallah]]'
-favored_weapon: '[[DATABASE/deity/Grandmother Spider|Grandmother Spider]] , [[DATABASE/deity/Mahathallah|Mahathallah]]'
-hands: '1'
-id: '331'
-item_category: Weapons
-item_subcategory: Base Weapons
-level: '0'
+id: '123'
 name: Bola
-price: 5 sp
-range: 20 ft.
-rarity: Common
-rus_type_level: null
-source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-trait:
-- '[[DATABASE/trait/Nonlethal|Nonlethal]]'
-- '[[DATABASE/trait/Ranged Trip|RangedTrip]]'
-- '[[DATABASE/trait/Thrown|Thrown]]'
-type: Weapon
-weapon_category: Martial
-weapon_group: '[[DATABASE/weapongroup/Sling|Sling]]'
-weapon_type: Ranged
+source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 
 ---
 # Bola

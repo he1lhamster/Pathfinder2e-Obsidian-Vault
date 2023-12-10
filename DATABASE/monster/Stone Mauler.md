@@ -1,10 +1,8 @@
 ﻿---
 ac: '27'
 alignment: N
-all_resistance: null
 burrow_speed: '35'
 charisma: '-1'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Crumble
@@ -14,9 +12,7 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Elemental, Earth|Elemental, Earth]]'
 dexterity: '-1'
 element: Earth
-fly_speed: null
 fortitude: '+23'
-hardness: null
 hp: '180'
 id: '185'
 immunity:
@@ -34,9 +30,6 @@ name: Stone Mauler
 perception: '+16'
 rarity: Common
 reflex: '+15'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - tremorsense (imprecise) 80 feet
@@ -48,12 +41,10 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 35 feet
 - burrow 35 feet; earth glide
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Elemental|Elemental]]'
@@ -61,7 +52,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+19'
 wisdom: '+3'
 

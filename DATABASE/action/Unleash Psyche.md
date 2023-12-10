@@ -1,15 +1,10 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
-frequency: null
 id: '1222'
 name: Unleash Psyche
 rarity: Common
 requirement: You're in an encounter, you Cast a Spell on your previous turn, and you
   aren't [[DATABASE/condition/Stupefied|stupefied]] .
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 trait:
 - '[[DATABASE/trait/Psychic|Psychic]]'

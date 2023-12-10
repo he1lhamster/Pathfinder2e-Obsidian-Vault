@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Ancestral Blood Magic
-frequency: null
-heighten_level: null
 id: '1810'
+leads_to: '[[DATABASE/feat/Ancestral Mage|Ancestral Mage]]'
 level: '1'
 name: Ancestral Blood Magic
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Sorcerer|Sorcerer]]'
-trigger: null
 type: Feat
 
 ---

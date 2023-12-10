@@ -1,25 +1,15 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Moment of Clarity
-frequency: null
-heighten_level: null
 id: '131'
 level: '1'
 name: Moment of Clarity
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Barbarian|Barbarian]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Rage|Rage]]'
-trigger: null
 type: Feat
 
 ---

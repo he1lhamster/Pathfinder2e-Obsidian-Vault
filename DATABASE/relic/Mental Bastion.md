@@ -1,12 +1,8 @@
 ﻿---
-element: null
 id: '54'
 item_category: Relics
 name: Mental Bastion
-prerequisite: null
 rarity: Common
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
 - '[[DATABASE/trait/Mental|Mental]]'

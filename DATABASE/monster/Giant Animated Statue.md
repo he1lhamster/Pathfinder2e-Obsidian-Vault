@@ -1,10 +1,7 @@
 ﻿---
 ac: '26'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Brazier
@@ -13,7 +10,6 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Animated Object|Animated Object]]'
 dexterity: '-1'
 element: Earth
-fly_speed: null
 fortitude: '+17'
 hardness: '10'
 hp: '100'
@@ -35,16 +31,12 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '30'
-language: null
 level: '7'
 max_speed: '30'
 name: Giant Animated Statue
 perception: '+13'
 rarity: Common
 reflex: '+10'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Huge
@@ -53,12 +45,10 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 30 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Earth|Earth]]'
@@ -67,7 +57,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+9'
 wisdom: '+0'
 

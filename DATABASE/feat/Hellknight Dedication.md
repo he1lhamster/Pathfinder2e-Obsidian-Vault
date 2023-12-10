@@ -1,26 +1,20 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Hellknight Dedication
-frequency: null
-heighten_level: null
 id: '1078'
+leads_to: '[[DATABASE/feat/Advanced Order Training|Advanced Order Training]] , [[DATABASE/feat/Blade
+  of Law|Blade of Law]] , [[DATABASE/feat/Hellknight Order Cross-Training|Hellknight
+  Order Cross-Training]] , [[DATABASE/feat/Hell''s Armaments|Hell''s Armaments]] ,
+  [[DATABASE/feat/Sense Chaos|Sense Chaos]]'
 level: '6'
 name: Hellknight Dedication
 prerequisite: '[[DATABASE/feat/Hellknight Armiger Dedication|Hellknight Armiger Dedication]]
   ; lawful alignment; member ofa Hellknight Order; passed the Hellknight Test'
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

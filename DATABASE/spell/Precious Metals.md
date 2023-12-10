@@ -1,38 +1,25 @@
 ﻿---
 actions: '[one-action]'
-area: null
-bloodline: null
 component:
 - Material
-cost: null
-deity: null
 domain:
 - '[[DATABASE/domain/Wealth Domain|Wealth]]'
 duration: 1 minute
-element: null
 heighten: 8th
 heighten_level: 4, 8
 id: '440'
-lesson: null
 level: '4'
-mystery: null
 name: Precious Metals
-patron_theme: null
 range: touch
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: 1 metal weapon, up to 10 pieces of metal or metal-tipped ammunition, 1 suit
   of metal armor, or up to1 bulk of metal material (such as coins)
-tradition: null
 trait:
 - '[[DATABASE/trait/Cleric|Cleric]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Focus
 
 ---

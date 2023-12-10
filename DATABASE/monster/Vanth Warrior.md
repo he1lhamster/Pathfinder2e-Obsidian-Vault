@@ -1,10 +1,7 @@
 ﻿---
 ac: '37'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Attack of Opportunity
@@ -16,10 +13,8 @@ creature_ability:
 - Curse
 creature_family: '[[DATABASE/monsterfamily/Psychopomp|Psychopomp]]'
 dexterity: '+5'
-element: null
 fly_speed: '40'
 fortitude: '+25'
-hardness: null
 hp: '255'
 id: '2427'
 immunity:
@@ -41,8 +36,6 @@ reflex: '+22'
 resistance:
 - '[[DATABASE/trait/Negative|negative]] 10'
 - '[[DATABASE/trait/Poison|poison]] 10'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Lifesense|lifesense]] 60 feet'
@@ -69,7 +62,6 @@ strength: '+8'
 strength_req: '8'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Monitor|Monitor]]'
 - '[[DATABASE/trait/Psychopomp|Psychopomp]]'
@@ -78,7 +70,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+28'
 wisdom: '+5'
 

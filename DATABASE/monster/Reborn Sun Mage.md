@@ -1,20 +1,14 @@
 ﻿---
 ac: '28'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Burning Sacrifice
 - Revitalizing Flame
-creature_family: null
 dexterity: '+3'
 element: Fire
-fly_speed: null
 fortitude: '+18'
-hardness: null
 hp: 195 ( negative healing )
 id: '1697'
 immunity:
@@ -37,8 +31,6 @@ reflex: '+21'
 resistance:
 - '[[DATABASE/trait/Fire|fire]] 10'
 - '[[DATABASE/trait/Mental|mental]] 10'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -89,7 +81,6 @@ strength: '+1'
 strength_req: '1'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fire|Fire]]'
 - '[[DATABASE/trait/Rare|Rare]]'
@@ -98,7 +89,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+24'
 wisdom: '+2'
 

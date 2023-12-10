@@ -1,32 +1,20 @@
 ﻿---
 actions: '[three-actions]'
 area: 10-foot-wide, 10-foot-tall, 60-foot-long section of terrain
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: sustained up to 1 minute
-element: null
 heighten: 5th, 8th
 heighten_level: 3, 5, 8
 id: '712'
-lesson: null
 level: '3'
-mystery: null
 name: Safe Passage
-patron_theme: null
 range: touch
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-target: null
 tradition:
 - Arcane
 - Divine
@@ -34,7 +22,6 @@ tradition:
 - Elemental
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
-trigger: null
 type: Spell
 
 ---

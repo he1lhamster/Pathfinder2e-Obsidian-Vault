@@ -1,24 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Swift Sneak
-frequency: null
-heighten_level: null
 id: '850'
+leads_to: '[[DATABASE/feat/Legendary Sneak|Legendary Sneak]]'
 level: '7'
 name: Swift Sneak
 prerequisite: Master in [[DATABASE/skill/Stealth|Stealth]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: stealth
 trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

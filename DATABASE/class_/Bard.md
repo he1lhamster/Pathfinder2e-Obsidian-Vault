@@ -20,7 +20,6 @@ id: '3'
 name: Bard
 perception_proficiency: Expert
 rarity: Common
-rus_type_level: null
 skill_proficiency:
 - Trained in Occultism
 - Trained in Performance
@@ -28,7 +27,6 @@ skill_proficiency:
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 tradition:
 - Occult
-trait: null
 type: Class
 
 ---

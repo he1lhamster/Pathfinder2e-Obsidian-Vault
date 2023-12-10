@@ -1,10 +1,6 @@
 ﻿---
 ac: '26'
-alignment: null
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Blinding Reflection
@@ -15,10 +11,8 @@ dexterity: '+5'
 element: Metal
 fly_speed: '30'
 fortitude: '+16'
-hardness: null
 hp: '125'
 id: '2655'
-immunity: null
 intelligence: '+4'
 land_speed: '25'
 language:
@@ -32,8 +26,6 @@ rarity: Uncommon
 reflex: '+17'
 resistance:
 - '[[DATABASE/trait/Electricity|electricity]] 10'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -63,7 +55,6 @@ strength_req: '3'
 strongest_save:
 - Reflex
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Elemental|Elemental]]'
 - '[[DATABASE/trait/Genie|Genie]]'
@@ -73,7 +64,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+17'
 wisdom: '+3'
 

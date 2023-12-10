@@ -1,22 +1,15 @@
 ﻿---
 ac: '16'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Sneak Attack
 creature_family: '[[DATABASE/monsterfamily/Kobold|Kobold]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+6'
-hardness: null
 hp: '16'
 id: '1032'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -27,9 +20,6 @@ name: Kobold Tunnelrunner
 perception: '+6'
 rarity: Uncommon
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -43,12 +33,10 @@ source: '[[DATABASE/source/Pathfinder Encounter. Heaving Kobolds|Pathfinder Enco
   Heaving Kobolds]]'
 speed:
 - 25 feet
-spell: null
 strength: '+1'
 strength_req: '1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Kobold|Kobold]]'
@@ -57,7 +45,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+4'
 wisdom: '+2'
 

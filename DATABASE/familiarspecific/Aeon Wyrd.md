@@ -1,9 +1,7 @@
 ﻿---
 id: '4'
 name: Aeon Wyrd
-rus_type_level: null
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
-trait: null
 
 ---
 # Aeon Wyrd

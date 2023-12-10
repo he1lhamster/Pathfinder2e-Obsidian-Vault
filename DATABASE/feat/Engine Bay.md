@@ -1,25 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Engine Bay
-frequency: null
-heighten_level: null
 id: '3148'
 level: '4'
 name: Engine Bay
 prerequisite: '[[DATABASE/feat/Vehicle Mechanic Dedication|Vehicle Mechanic Dedication]]
   ; Expert in [[DATABASE/skill/Crafting|Crafting]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

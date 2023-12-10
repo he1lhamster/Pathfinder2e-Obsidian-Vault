@@ -1,31 +1,14 @@
 ﻿---
 actions: '[free-action]'
-area: null
-bloodline: null
 component:
 - Verbal
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
-heighten: null
 heighten_level: '2'
 id: '772'
-lesson: null
 level: '2'
-mystery: null
 name: Hunter's Luck
-patron_theme: null
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-target: null
-tradition: null
 trait:
 - '[[DATABASE/trait/Divination|Divination]]'
 - '[[DATABASE/trait/Fortune|Fortune]]'

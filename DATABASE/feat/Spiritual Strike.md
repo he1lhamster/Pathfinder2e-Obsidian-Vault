@@ -1,26 +1,19 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Spiritual Strike
-frequency: null
-heighten_level: null
 id: '4107'
+leads_to: '[[DATABASE/feat/Spiritual Flurry|Spiritual Flurry]]'
 level: '6'
 name: Spiritual Strike
 prerequisite: '[[DATABASE/feat/Scion of Domora Dedication|Scion of Domora Dedication]]'
 rarity: Common
 requirement: You are wielding a weapon with at least onefundamentalruneand your familiar
   is adjacent to you or in your space.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 188. They Watched the Stars|Pathfinder #188:
   They Watched the Stars]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Flourish|Flourish]]'
-trigger: null
 type: Feat
 
 ---

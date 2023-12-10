@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Sneak Savant
-frequency: null
-heighten_level: null
 id: '579'
 level: '10'
 name: Sneak Savant
 prerequisite: Master in [[DATABASE/skill/Stealth|Stealth]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Rogue|Rogue]]'
-trigger: null
 type: Feat
 
 ---

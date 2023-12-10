@@ -1,11 +1,8 @@
 ﻿---
-element: null
 id: '78'
 item_category: Relics
 name: Draconic Ascendance
-prerequisite: null
 rarity: Common
-rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 trait:

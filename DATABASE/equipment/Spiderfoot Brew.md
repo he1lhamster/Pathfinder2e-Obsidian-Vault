@@ -1,56 +1,23 @@
 ﻿---
-ac: null
 actions: '[one-action]'
-alignment: null
-base_item: null
 bulk: L
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
-id: '1966'
+id: '1461'
 item_category: Alchemical Items
 item_subcategory: Alchemical Elixirs
-land_speed: null
 level: '17'
-max_speed: null
 name: Spiderfoot Brew
-onset: null
 price: 2,500 gp
-range: null
-rarity: Common
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
-school: null
-size: null
-source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-spell: null
-stage: null
+rarity: Uncommon
+source: '[[DATABASE/source/Pathfinder Special. Fumbus|Pathfinder Special: Fumbus]]'
 subcategory: alchemical/elixir
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Alchemical|Alchemical]]'
 - '[[DATABASE/trait/Consumable|Consumable]]'
 - '[[DATABASE/trait/Elixir|Elixir]]'
-- '[[DATABASE/trait/Morph|Morph]]'
-trigger: null
+- '[[DATABASE/trait/Polymorph|Polymorph]]'
+- '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Item
 usage: held in 1 hand
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Spiderfoot Brew<span class="item-type">Item 3+</span>

@@ -1,23 +1,15 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Grippli Glide
-frequency: null
-heighten_level: null
 id: '2822'
 level: '5'
 name: Grippli Glide
 prerequisite: '[[DATABASE/heritage/Windweb Grippli|Windweb Grippli]] heritage'
 rarity: Common
 requirement: You must have at least one hand free.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Grippli|Grippli]]'
-trigger: null
 type: Feat
 
 ---

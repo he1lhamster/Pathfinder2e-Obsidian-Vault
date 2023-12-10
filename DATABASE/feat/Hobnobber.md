@@ -1,24 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Hobnobber
-frequency: null
-heighten_level: null
 id: '791'
+leads_to: '[[DATABASE/feat/Entourage|Entourage]]'
 level: '1'
 name: Hobnobber
 prerequisite: Trained in [[DATABASE/skill/Diplomacy|Diplomacy]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: diplomacy
 trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

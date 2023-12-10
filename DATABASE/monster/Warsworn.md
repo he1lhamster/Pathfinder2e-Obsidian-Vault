@@ -1,10 +1,7 @@
 ﻿---
 ac: '37'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Absorb
@@ -15,12 +12,8 @@ creature_ability:
 - Plummet
 - ''
 - Trample
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+29'
-hardness: null
 hp: 350 ( negative healing )
 id: '404'
 immunity:
@@ -39,9 +32,6 @@ name: Warsworn
 perception: '+27'
 rarity: Uncommon
 reflex: '+25'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Gargantuan
@@ -50,12 +40,10 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 30 feet
-spell: null
 strength: '+9'
 strength_req: '9'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 - '[[DATABASE/trait/Undead|Undead]]'
@@ -63,7 +51,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+27'
 wisdom: '+5'
 

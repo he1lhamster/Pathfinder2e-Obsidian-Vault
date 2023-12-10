@@ -1,23 +1,16 @@
 ﻿---
-area: null
 cost: rare incense worth a total value of 60 gp
 duration: up to 10 minutes
-element: null
-heighten: null
 heighten_level: '6'
 id: '7'
 level: '6'
 name: Commune with Nature
 primary_check: '[[DATABASE/skill/Nature|Nature]] (master)'
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Divination
 secondary_casters: '1'
 secondary_check: Nature
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 trait:
 - '[[DATABASE/trait/Divination|Divination]]'
 - '[[DATABASE/trait/Prediction|Prediction]]'

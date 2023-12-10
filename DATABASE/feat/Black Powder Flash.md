@@ -1,25 +1,17 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Black Powder Flash
-frequency: null
-heighten_level: null
 id: '3572'
 level: '10'
 name: Black Powder Flash
 prerequisite: '[[DATABASE/feat/Powder Punch Stance|Powder Punch Stance]]'
 rarity: Common
 requirement: You're in Powder Punch Stance.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 178. Punks in a Powderkeg|Pathfinder #178: Punks
   in a Powderkeg]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Visual|Visual]]'
-trigger: null
 type: Feat
 
 ---

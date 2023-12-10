@@ -1,21 +1,10 @@
 ﻿---
-ac: null
-all_resistance: null
 complexity: Complex
-element: null
-fortitude: null
-hardness: null
 hazard_type: Trap
-hp: null
 id: '94'
-immunity: null
 level: '8'
 name: Electrified Water Ward
 rarity: Common
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 170. Spoken on the Song Wind|Pathfinder #170:
   Spoken on the Song Wind]]'
 trait:
@@ -23,8 +12,6 @@ trait:
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Electrified Water Ward<span class="item-type">Hazard 8</span>

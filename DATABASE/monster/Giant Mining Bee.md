@@ -1,34 +1,25 @@
 ﻿---
 ac: '18'
 alignment: N
-all_resistance: null
 burrow_speed: '10'
 charisma: '+0'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Smoke Susceptibility
 creature_family: '[[DATABASE/monsterfamily/Giant Bee|Giant Bee]]'
 dexterity: '+3'
-element: null
 fly_speed: '40'
 fortitude: '+9'
-hardness: null
 hp: '30'
 id: '1610'
-immunity: null
 intelligence: '-5'
 land_speed: '20'
-language: null
 level: '2'
 max_speed: '40'
 name: Giant Mining Bee
 perception: '+9'
 rarity: Common
 reflex: '+11'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) 30 feet'
@@ -42,12 +33,10 @@ speed:
 - 20 feet
 - burrow 10 feet
 - fly 40 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature

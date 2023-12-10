@@ -1,25 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Mature Trained Companion
-frequency: null
-heighten_level: null
 id: '1203'
+leads_to: '[[DATABASE/feat/Splendid Companion|Splendid Companion]]'
 level: '6'
 name: Mature Trained Companion
 prerequisite: '[[DATABASE/feat/Animal Trainer Dedication|Animal Trainer Dedication]]'
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 152. Legacy of the Lost God|Pathfinder #152:
   Legacy of the Lost God]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

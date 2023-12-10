@@ -1,20 +1,16 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Shield Block
-frequency: null
-heighten_level: null
 id: '839'
+leads_to: '[[DATABASE/feat/Aegis of Arnisant|Aegis of Arnisant]] , [[DATABASE/feat/Bastion
+  Dedication|Bastion Dedication]] , [[DATABASE/feat/Fortify Shield|Fortify Shield]]
+  , [[DATABASE/feat/Lastwall Sentry Dedication|Lastwall Sentry Dedication]] , [[DATABASE/feat/Quick
+  Shield Block|Quick Shield Block]] , [[DATABASE/feat/Shield Warden|Shield Warden]]
+  , [[DATABASE/feat/Tunnel Wall|Tunnel Wall]]'
 level: '1'
 name: Shield Block
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/General|General]]'
 trigger: While you have your shield raised, you would take damage from a physical

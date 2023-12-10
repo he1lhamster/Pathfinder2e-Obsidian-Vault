@@ -1,24 +1,16 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Double Shot
-frequency: null
-heighten_level: null
 id: '370'
+leads_to: '[[DATABASE/feat/Triple Shot|Triple Shot]]'
 level: '4'
 name: Double Shot
-prerequisite: null
 rarity: Common
 requirement: You are wielding a ranged weapon with reload 0.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fighter|Fighter]]'
 - '[[DATABASE/trait/Flourish|Flourish]]'
-trigger: null
 type: Feat
 
 ---

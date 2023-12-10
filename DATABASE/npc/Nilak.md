@@ -1,23 +1,16 @@
 ﻿---
 ac: '26'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Form Control
 - Reach Spell
 - Wild Shape
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+17'
 hp: '160'
 id: '2375'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -33,8 +26,6 @@ rarity: Unique
 reflex: '+15'
 resistance:
 - poison 4
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Intimidation|Intimidation]] +18'
@@ -69,16 +60,13 @@ strength: '+3'
 strength_req: '3'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+19'
 wisdom: '+4'
 

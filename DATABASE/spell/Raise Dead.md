@@ -1,29 +1,17 @@
 ﻿---
-actions: null
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
 cost: diamonds worth a total value of the target's level (minimum 1) x 200 gp
-deity: null
-domain: null
-duration: null
-element: null
 heighten: 7th, 8th, 9th, 10th
 heighten_level: 6, 7, 8, 9, 10
 id: '243'
 lesson: '[[DATABASE/witchlesson/Lesson of Death|Lesson of Death]]'
 level: '6'
-mystery: null
 name: Raise Dead
-patron_theme: null
 range: 10 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: 1 dead creature of 13th level or lower
@@ -33,7 +21,6 @@ trait:
 - '[[DATABASE/trait/Healing|Healing]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Spell
 
 ---

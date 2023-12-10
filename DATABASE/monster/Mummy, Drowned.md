@@ -1,10 +1,7 @@
 ﻿---
 ac: '38'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Aquatic Advantage
@@ -17,10 +14,7 @@ creature_ability:
 - Whirlpool
 creature_family: '[[DATABASE/monsterfamily/Mummy|Mummy]]'
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+29'
-hardness: null
 hp: 330 ( negative healing )
 id: '2420'
 immunity:
@@ -43,8 +37,6 @@ rarity: Rare
 reflex: '+28'
 resistance:
 - '[[DATABASE/trait/Fire|fire]] 15'
-rus_type_level: null
-school: null
 sense:
 - aquatic echolocation 120 feet
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
@@ -60,7 +52,6 @@ source: '[[DATABASE/source/Pathfinder 186. Ghost King''s Rage|Pathfinder #186: G
 speed:
 - 25 feet
 - swim 40 feet
-spell: null
 strength: '+9'
 strength_req: '9'
 strongest_save:
@@ -75,7 +66,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+32'
 wisdom: '+7'
 

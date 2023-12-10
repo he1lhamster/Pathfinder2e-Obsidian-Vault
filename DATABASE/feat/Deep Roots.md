@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Deep Roots
-frequency: null
-heighten_level: null
 id: '3686'
 level: '14'
 name: Deep Roots
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Psychic|Psychic]]'
-trigger: null
 type: Feat
 
 ---

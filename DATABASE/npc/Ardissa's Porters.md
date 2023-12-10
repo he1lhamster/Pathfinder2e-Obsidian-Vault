@@ -1,21 +1,14 @@
 ﻿---
 ac: '14'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Stumbling Snag
-creature_family: null
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+9'
 hp: '20'
 id: '1765'
-immunity: null
 intelligence: '-1'
 land_speed: '20'
 language:
@@ -27,8 +20,6 @@ name: Ardissa's Porters
 perception: '+6'
 rarity: Rare
 reflex: '+3'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -39,12 +30,10 @@ source: '[[DATABASE/source/Pathfinder 175. Broken Tusk Moon|Pathfinder #175: Bro
   Tusk Moon]]'
 speed:
 - 20 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dwarf|Dwarf]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -53,7 +42,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+6'
 wisdom: '+2'
 

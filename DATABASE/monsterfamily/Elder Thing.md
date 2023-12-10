@@ -3,10 +3,8 @@ creature_family: Elder Thing
 id: '334'
 name: Elder Thing
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 189. Dreamers of the Nameless Spires|Pathfinder
   #189: Dreamers of the Nameless Spires]]'
-trait: null
 type: Creature Family
 
 ---

@@ -1,38 +1,22 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 1 minute
-element: null
-heighten: null
 heighten_level: '3'
 id: '1150'
-lesson: null
 level: '3'
-mystery: null
 name: Bracing Tendrils
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-target: null
 tradition:
 - Arcane
 - Occult
 trait:
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Force|Force]]'
-trigger: null
 type: Spell
 
 ---

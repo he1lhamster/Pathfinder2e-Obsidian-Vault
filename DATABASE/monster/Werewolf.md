@@ -1,10 +1,7 @@
 ﻿---
 ac: '19'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Attack of Opportunity
@@ -16,13 +13,9 @@ creature_ability:
 - Empathy
 creature_family: '[[DATABASE/monsterfamily/Werecreature|Werecreature]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+11'
-hardness: null
 hp: '63'
 id: '411'
-immunity: null
 intelligence: '-1'
 land_speed: '25'
 language:
@@ -33,9 +26,6 @@ name: Werewolf
 perception: '+9'
 rarity: Common
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 - scent (imprecise) 30 feet
@@ -47,12 +37,10 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 25 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Human|Human]]'

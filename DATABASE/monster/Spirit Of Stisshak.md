@@ -1,10 +1,7 @@
 ﻿---
 ac: '28'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Feed on Fear
@@ -12,18 +9,15 @@ creature_ability:
 - Go Dark
 - Invoke Stisshak
 - Magic Immunity
-creature_family: null
 dexterity: '+6'
 element: Air
 fly_speed: '50'
 fortitude: '+12'
-hardness: null
 hp: '65'
 id: '2273'
 immunity:
 - magic
 intelligence: '+2'
-land_speed: null
 language:
 - '[[DATABASE/language/Aklo|Aklo]]'
 - '[[DATABASE/language/Common|Common]]'
@@ -35,9 +29,6 @@ name: Spirit Of Stisshak
 perception: '+18'
 rarity: Unique
 reflex: '+18'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -59,7 +50,6 @@ strength: '-5'
 strength_req: '-5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Air|Air]]'
@@ -68,7 +58,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+16'
 wisdom: '+5'
 

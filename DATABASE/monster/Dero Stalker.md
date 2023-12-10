@@ -1,10 +1,7 @@
 ﻿---
 ac: '19'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Nimble Dodge
@@ -12,13 +9,9 @@ creature_ability:
 - Vulnerable to Sunlight
 creature_family: '[[DATABASE/monsterfamily/Dero|Dero]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+7'
-hardness: null
 hp: '30'
 id: '105'
-immunity: null
 intelligence: '+0'
 land_speed: '20'
 language:
@@ -30,9 +23,6 @@ name: Dero Stalker
 perception: '+5'
 rarity: Common
 reflex: '+10'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Small
@@ -51,7 +41,6 @@ strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dero|Dero]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'

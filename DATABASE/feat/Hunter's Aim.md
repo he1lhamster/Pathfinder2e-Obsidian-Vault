@@ -1,24 +1,15 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Hunter's Aim
-frequency: null
-heighten_level: null
 id: '496'
+leads_to: '[[DATABASE/feat/Targeting Shot|Targeting Shot]]'
 level: '2'
 name: Hunter's Aim
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Ranger|Ranger]]'
-trigger: null
 type: Feat
 
 ---

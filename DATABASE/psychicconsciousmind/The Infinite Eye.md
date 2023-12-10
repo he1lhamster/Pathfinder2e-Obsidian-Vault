@@ -2,7 +2,6 @@
 id: '2'
 name: The Infinite Eye
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 spell:
 - '[[DATABASE/spell/Augury|Augury]]'
@@ -19,7 +18,6 @@ spell:
 - '[[DATABASE/spell/True Strike|True Strike]]'
 - '[[DATABASE/spell/True Target|True Target]]'
 - '[[DATABASE/spell/Unrelenting Observation|Unrelenting Observation]]'
-trait: null
 type: Psychic Conscious Mind
 
 ---

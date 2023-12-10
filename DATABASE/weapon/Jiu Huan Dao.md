@@ -11,9 +11,7 @@ item_subcategory: Base Weapons
 level: '0'
 name: Jiu Huan Dao
 price: 9 sp
-range: null
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 trait:
 - '[[DATABASE/trait/Sweep|Sweep]]'

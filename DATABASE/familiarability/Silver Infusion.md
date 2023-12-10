@@ -1,14 +1,10 @@
 ﻿---
 ability_type: Specific Familiar - House Drake
 actions: '[two-actions]'
-frequency: null
 id: '86'
 name: Silver Infusion
 rarity: Common
-requirement: null
-rus_type_level: null
 source: '[[DATABASE/source/Shadows at Sundown|Shadows at Sundown]]'
-trait: null
 type: Familiar Ability
 
 ---

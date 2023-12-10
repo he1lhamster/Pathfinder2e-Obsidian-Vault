@@ -1,10 +1,7 @@
 ﻿---
 ac: '25'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Deft Evasion
@@ -13,10 +10,7 @@ creature_ability:
 - Skirmish Strike
 creature_family: '[[DATABASE/monsterfamily/Drow|Drow]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+15'
-hardness: null
 hp: '115'
 id: '1386'
 immunity:
@@ -32,9 +26,6 @@ name: Drow Hunter
 perception: '+16'
 rarity: Uncommon
 reflex: '+15'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -56,7 +47,6 @@ strength_req: '3'
 strongest_save:
 - Fortitude
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Drow|Drow]]'
 - '[[DATABASE/trait/Elf|Elf]]'
@@ -66,7 +56,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+14'
 wisdom: '+3'
 

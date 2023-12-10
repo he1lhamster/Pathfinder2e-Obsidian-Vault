@@ -1,14 +1,8 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
-frequency: null
 id: '1455'
 name: Spring the Trap
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 trait:
 - '[[DATABASE/trait/Gunslinger|Gunslinger]]'

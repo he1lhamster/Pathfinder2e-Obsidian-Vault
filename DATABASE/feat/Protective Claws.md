@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Protective Claws
-frequency: null
-heighten_level: null
 id: '2811'
 level: '5'
 name: Protective Claws
 prerequisite: '[[DATABASE/heritage/Vicious Goloma|Vicious Goloma]] heritage'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Goloma|Goloma]]'
-trigger: null
 type: Feat
 
 ---

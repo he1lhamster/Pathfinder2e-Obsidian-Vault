@@ -1,18 +1,13 @@
 ﻿---
 bulk: L
 damage: 1d4 B
-deity: null
-favored_weapon: null
 hands: '1'
 id: '133'
 item_category: Weapons
 item_subcategory: Base Weapons
 level: '0'
 name: Exquisite Sword Cane Sheath
-price: null
-range: null
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 157. Devil at the Dreaming Palace|Pathfinder
   #157: Devil at the Dreaming Palace]]'
 trait:

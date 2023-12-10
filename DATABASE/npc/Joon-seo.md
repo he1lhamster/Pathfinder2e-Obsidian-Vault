@@ -1,20 +1,12 @@
 ﻿---
 ac: '35'
 alignment: NG
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+3'
-creature_ability: null
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+26'
 hp: '250'
 id: '1505'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -26,9 +18,6 @@ name: Joon-seo
 perception: '+28'
 rarity: Unique
 reflex: '+26'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +26'
@@ -75,17 +64,14 @@ strength: '+2'
 strength_req: '2'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Samsaran|Samsaran]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
 - Reflex
-weakness: null
 will: '+28'
 wisdom: '+5'
 

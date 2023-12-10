@@ -1,8 +1,6 @@
 ﻿---
 ac: '18'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
 climb_speed: '20'
 constitution: '+3'
@@ -11,15 +9,10 @@ creature_ability:
 - Self-Loathing
 - Vengeful Anger
 - Vermin Empathy
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+7'
-hardness: null
 hp: '35'
 id: '2268'
-immunity: null
 intelligence: '+0'
 land_speed: '20'
 language:
@@ -31,9 +24,6 @@ name: Grabbles
 perception: '+7'
 rarity: Unique
 reflex: '+10'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -55,7 +45,6 @@ strength: '+1'
 strength_req: '1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Gremlin|Gremlin]]'

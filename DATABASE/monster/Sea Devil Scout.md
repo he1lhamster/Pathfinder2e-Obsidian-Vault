@@ -1,10 +1,7 @@
 ﻿---
 ac: '18'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Blood Frenzy
@@ -12,13 +9,9 @@ creature_ability:
 - Shark Commune
 creature_family: '[[DATABASE/monsterfamily/Sea Devil|Sea Devil]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+7'
-hardness: null
 hp: '30'
 id: '358'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -29,9 +22,6 @@ name: Sea Devil Scout
 perception: '+9'
 rarity: Common
 reflex: '+10'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - wavesense 30 feet
@@ -45,7 +35,6 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 25 feet
 - swim 35 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
@@ -60,7 +49,6 @@ vision: Darkvision
 weakest_save:
 - Fortitude
 - Will
-weakness: null
 will: '+7'
 wisdom: '+3'
 

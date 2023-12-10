@@ -1,26 +1,20 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Mirror Refuge
 frequency: once per day
-heighten_level: null
 id: '3801'
 level: '9'
 name: Mirror Refuge
 prerequisite: '[[DATABASE/feat/Mirror-Risen|Mirror-Risen]]'
 rarity: Common
 requirement: You're within 5 feet of a mirrored surface.
-rus_type_level: null
 school: Conjuration
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Extradimensional|Extradimensional]]'
 - '[[DATABASE/trait/Occult|Occult]]'
 - '[[DATABASE/trait/Reflection|Reflection]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,36 +1,25 @@
 ﻿---
 ac: '36'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Adroit Disarm
 - Attack of Opportunity
 - Hampering Shot
 - Subduing Strikes
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+26'
 hp: '255'
 id: '1581'
-immunity: null
 intelligence: '+2'
 land_speed: '25'
-language: null
 level: '14'
 max_speed: '25'
 name: Zephyr Guard
 perception: '+24'
 rarity: Uncommon
 reflex: '+26'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +28'
@@ -42,22 +31,18 @@ source: '[[DATABASE/source/Pathfinder 149. Against the Scarlet Triad|Pathfinder 
   Against the Scarlet Triad]]'
 speed:
 - 25 feet
-spell: null
 strength: '+8'
 strength_req: '8'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
 - Reflex
-weakness: null
 will: '+29'
 wisdom: '+4'
 

@@ -1,27 +1,18 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Oneiric Influence
-frequency: null
-heighten_level: null
 id: '3878'
 level: '12'
 name: Oneiric Influence
 prerequisite: '[[DATABASE/feat/Infiltrate Dream|Infiltrate Dream]]'
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Enchantment
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Enchantment|Enchantment]]'
 - '[[DATABASE/trait/Incapacitation|Incapacitation]]'
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Occult|Occult]]'
-trigger: null
 type: Feat
 
 ---

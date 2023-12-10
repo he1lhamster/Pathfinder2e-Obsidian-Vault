@@ -3,9 +3,7 @@ creature_family: Tsukumogami
 id: '272'
 name: Tsukumogami
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
-trait: null
 type: Creature Family
 
 ---

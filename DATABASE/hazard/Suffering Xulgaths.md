@@ -2,9 +2,7 @@
 ac: '39'
 all_resistance: '20'
 complexity: Complex
-element: null
 fortitude: '+27'
-hardness: null
 hazard_type: Haunt
 hp: 24 per spirit
 id: '239'
@@ -24,8 +22,6 @@ resistance:
 - '[[DATABASE/trait/Force|force]]'
 - '[[DATABASE/equipment/Ghost Touch|ghost touch]]'
 - or [[DATABASE/trait/Positive|positive]] )
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 156. The Apocalypse Prophet|Pathfinder #156:
   The Apocalypse Prophet]]'
 trait:
@@ -33,7 +29,6 @@ trait:
 - '[[DATABASE/trait/Haunt|Haunt]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Hazard
-weakness: null
 will: '+27'
 
 ---

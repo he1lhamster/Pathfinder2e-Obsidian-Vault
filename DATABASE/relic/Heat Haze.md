@@ -3,9 +3,7 @@ element: Fire
 id: '38'
 item_category: Relics
 name: Heat Haze
-prerequisite: null
 rarity: Common
-rus_type_level: null
 school: Abjuration
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:

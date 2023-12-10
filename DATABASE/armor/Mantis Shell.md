@@ -12,9 +12,7 @@ level: '1'
 name: Mantis Shell
 price: 10 gp
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-speed_penalty: null
 strength: '+12'
 strength_req: '12'
 trait:

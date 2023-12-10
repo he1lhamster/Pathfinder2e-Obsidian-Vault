@@ -1,10 +1,7 @@
 ﻿---
 ac: '26'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-4'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Aquatic Ambush
@@ -12,25 +9,17 @@ creature_ability:
 - Swallow Whole
 creature_family: '[[DATABASE/monsterfamily/Crocodile|Crocodile]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+20'
-hardness: null
 hp: '175'
 id: '85'
-immunity: null
 intelligence: '-5'
 land_speed: '30'
-language: null
 level: '9'
 max_speed: '40'
 name: Deinosuchus
 perception: '+17'
 rarity: Common
 reflex: '+16'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 size: Huge
@@ -41,7 +30,6 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 30 feet
 - swim 40 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
@@ -53,7 +41,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+15'
 wisdom: '+2'
 

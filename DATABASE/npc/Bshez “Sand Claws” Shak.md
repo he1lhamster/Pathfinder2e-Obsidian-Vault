@@ -1,10 +1,7 @@
 ﻿---
 ac: '40'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Attack of Opportunity
@@ -14,26 +11,18 @@ creature_ability:
 - Rend
 - Shield Breaker
 - Weapon Master
-creature_family: null
 dexterity: '+8'
-element: null
-fly_speed: null
 fortitude: '+29'
 hp: '330'
 id: '1578'
-immunity: null
 intelligence: '+3'
 land_speed: '30'
-language: null
 level: '17'
 max_speed: '30'
 name: "Bshez \u201CSand Claws\u201D Shak"
 perception: '+26'
 rarity: Unique
 reflex: '+32'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +30'
@@ -46,21 +35,17 @@ source: '[[DATABASE/source/Pathfinder 149. Against the Scarlet Triad|Pathfinder 
   Against the Scarlet Triad]]'
 speed:
 - 30 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+27'
 wisdom: '+3'
 

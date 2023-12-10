@@ -1,23 +1,15 @@
 ﻿---
 ac: '18'
 alignment: NG
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Defender of the Seas
 - Summon Aquatic Ally
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+5'
-hardness: null
 hp: '30'
 id: '830'
-immunity: null
 intelligence: '+0'
 land_speed: '5'
 language:
@@ -29,9 +21,6 @@ name: Triton
 perception: '+8'
 rarity: Common
 reflex: '+11'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -45,7 +34,6 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 5 feet
 - swim 35 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
@@ -58,7 +46,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+8'
 wisdom: '+2'
 

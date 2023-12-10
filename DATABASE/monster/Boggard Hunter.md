@@ -1,25 +1,17 @@
 ﻿---
 ac: '24'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Sneak Attack
 - Swamp Stride
 - Terrifying Croak
 - Tongue Grab
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+18'
-hardness: null
 hp: '140'
 id: '1685'
-immunity: null
 intelligence: '-1'
 land_speed: '20'
 language:
@@ -30,9 +22,6 @@ name: Boggard Hunter
 perception: '+14'
 rarity: Common
 reflex: '+15'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -46,7 +35,6 @@ source: '[[DATABASE/source/Pathfinder 171. Hurricane''s Howl|Pathfinder #171: Hu
 speed:
 - 20 feet
 - swim 25 feet; swamp stride
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
@@ -60,7 +48,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+12'
 wisdom: '+3'
 

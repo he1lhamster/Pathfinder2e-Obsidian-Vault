@@ -1,14 +1,8 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
-frequency: null
 id: '549'
 name: Pointed Question
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 trait:
 - '[[DATABASE/trait/Auditory|Auditory]]'
@@ -16,7 +10,6 @@ trait:
 - '[[DATABASE/trait/Investigator|Investigator]]'
 - '[[DATABASE/trait/Linguistic|Linguistic]]'
 - '[[DATABASE/trait/Mental|Mental]]'
-trigger: null
 type: Action
 
 ---

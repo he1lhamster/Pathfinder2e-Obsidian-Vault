@@ -1,25 +1,17 @@
 ﻿---
 ac: '25'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Bonds of Iron
 - Change Shape
 - Coven
 - Rend
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+15'
-hardness: null
 hp: '92'
 id: '2380'
-immunity: null
 intelligence: '+2'
 land_speed: '40'
 language:
@@ -35,8 +27,6 @@ rarity: Unique
 reflex: '+15'
 resistance:
 - physical 5 (except bludgeoning)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -50,12 +40,10 @@ skill:
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
 speed:
 - 40 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Hag|Hag]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -65,7 +53,6 @@ vision: Darkvision
 weakest_save:
 - Fortitude
 - Reflex
-weakness: null
 will: '+17'
 wisdom: '+4'
 

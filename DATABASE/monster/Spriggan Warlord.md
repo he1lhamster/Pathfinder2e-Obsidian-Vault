@@ -1,10 +1,7 @@
 ﻿---
 ac: '25'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Bully's Bludgeon
@@ -13,13 +10,9 @@ creature_ability:
 - Warlord's Training
 creature_family: '[[DATABASE/monsterfamily/Spriggan|Spriggan]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+13'
-hardness: null
 hp: '120'
 id: '818'
-immunity: null
 intelligence: '+1'
 land_speed: '20'
 language:
@@ -31,9 +24,6 @@ name: Spriggan Warlord
 perception: '+14'
 rarity: Common
 reflex: '+17'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Small
@@ -59,7 +49,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Gnome|Gnome]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -68,7 +57,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+14'
 wisdom: '+3'
 

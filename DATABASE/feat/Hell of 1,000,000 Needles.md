@@ -1,27 +1,19 @@
 ﻿---
 actions: '[three-actions]'
-cost: null
 element: Metal
 feat: Hell of 1,000,000 Needles
-frequency: null
 heighten_level: 18, 20
 id: '4265'
 level: '18'
 name: Hell of 1,000,000 Needles
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Impulse|Impulse]]'
 - '[[DATABASE/trait/Kineticist|Kineticist]]'
 - '[[DATABASE/trait/Metal|Metal]]'
 - '[[DATABASE/trait/Overflow|Overflow]]'
 - '[[DATABASE/trait/Primal|Primal]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,11 +1,8 @@
 ﻿---
-element: null
 id: '112'
 item_category: Relics
 name: Work Harden
-prerequisite: null
 rarity: Common
-rus_type_level: null
 school: Abjuration
 source: '[[DATABASE/source/Highhelm|Highhelm]]'
 trait:

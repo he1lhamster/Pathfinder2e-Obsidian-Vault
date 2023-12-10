@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Trick Magic Item|Trick Magic Item]]'
 id: '233'
 name: Magical Misfit
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Arcana|Arcana]]'
 - Underworld [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

@@ -1,18 +1,11 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
-frequency: null
 id: '20'
 name: Constrict
 rarity: Common
 requirement: The snake has a smaller creature [[DATABASE/condition/Grabbed|grabbed]]
   .
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
-trigger: null
 type: Action
 
 ---

@@ -1,35 +1,25 @@
 ﻿---
 ac: '22'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
 climb_speed: '20'
 constitution: '+4'
 creature_ability:
 - Boomstrike
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+15'
-hardness: null
 hp: '95'
 id: '2448'
 immunity:
 - '[[DATABASE/trait/Sonic|sonic]]'
 intelligence: '-4'
 land_speed: '40'
-language: null
 level: '5'
 max_speed: '40'
 name: Kareq
 perception: '+15'
 rarity: Uncommon
 reflex: '+13'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Large
@@ -44,12 +34,10 @@ source: '[[DATABASE/source/Pathfinder 187. The Seventh Arch|Pathfinder #187: The
 speed:
 - 40 feet
 - climb 20 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
@@ -57,7 +45,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+10'
 wisdom: '+3'
 

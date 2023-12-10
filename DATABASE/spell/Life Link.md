@@ -1,31 +1,19 @@
 ﻿---
 actions: '[one-action]'
-area: null
-bloodline: null
 component:
 - Somatic
-cost: null
-deity: null
-domain: null
 duration: 1 minute
-element: null
 heighten: 3rd, 6th, 9th
 heighten_level: 1, 3, 6, 9
 id: '758'
-lesson: null
 level: '1'
 mystery: '[[DATABASE/oraclemystery/Life|Life]]'
 name: Life Link
-patron_theme: null
 range: 30 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 target: 1 creature other than you
-tradition: null
 trait:
 - '[[DATABASE/trait/Cursebound|Cursebound]]'
 - '[[DATABASE/trait/Healing|Healing]]'
@@ -33,7 +21,6 @@ trait:
 - '[[DATABASE/trait/Oracle|Oracle]]'
 - '[[DATABASE/trait/Positive|Positive]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Focus
 
 ---

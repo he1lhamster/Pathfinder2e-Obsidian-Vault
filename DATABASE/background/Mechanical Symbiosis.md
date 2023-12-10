@@ -5,12 +5,9 @@ ability:
 ability_boost:
 - Intelligence
 - Wisdom
-feat: null
 id: '263'
 name: Mechanical Symbiosis
-prerequisite: null
 rarity: Rare
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Arcana|Arcana]]'
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'

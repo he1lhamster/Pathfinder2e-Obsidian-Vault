@@ -1,20 +1,12 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Revivification Protocol
 frequency: once per day
-heighten_level: null
 id: '2475'
 level: '13'
 name: Revivification Protocol
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Android|Android]]'
 trigger: You have the [[DATABASE/condition/Dying|dying]] condition and are about to

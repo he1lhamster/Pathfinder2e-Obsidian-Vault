@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Rain-Scribe Sustenance
-frequency: null
-heighten_level: null
 id: '1107'
 level: '6'
 name: Rain-Scribe Sustenance
 prerequisite: '[[DATABASE/feat/Magaambyan Attendant Dedication|Magaambyan Attendant
   Dedication]] ; Rain-Scribes affiliation'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

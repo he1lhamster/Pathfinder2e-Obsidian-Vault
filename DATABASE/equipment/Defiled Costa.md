@@ -1,57 +1,24 @@
 ﻿---
-ac: null
 actions: '[one-action]'
-alignment: null
-base_item: null
 bulk: L
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '1793'
 item_category: Consumables
 item_subcategory: Spell Catalysts
-land_speed: null
-level: '17'
-max_speed: null
+level: '14'
 name: Defiled Costa
-onset: null
-price: 2,500 gp
-range: null
+price: 900 gp
 rarity: Rare
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
-school: null
-size: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 spell:
 - '[[DATABASE/spell/Mask of Terror|Mask of Terror]]'
-stage: null
 subcategory: consumable/spellcatalycyst
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Catalyst|Catalyst]]'
 - '[[DATABASE/trait/Consumable|Consumable]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Item
 usage: held in 1 hand
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Defiled Costa<span class="item-type">Item 14+</span>

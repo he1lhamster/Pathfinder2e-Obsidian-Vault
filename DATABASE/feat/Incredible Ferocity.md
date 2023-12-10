@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Incredible Ferocity
-frequency: null
-heighten_level: null
 id: '90'
 level: '13'
 name: Incredible Ferocity
 prerequisite: '[[DATABASE/feat/Orc Ferocity|Orc Ferocity]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Orc|Orc]]'
-trigger: null
 type: Feat
 
 ---

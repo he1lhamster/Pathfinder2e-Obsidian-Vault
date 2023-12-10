@@ -1,25 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Awesome Blow
-frequency: null
-heighten_level: null
 id: '167'
 level: '14'
 name: Awesome Blow
 prerequisite: '[[DATABASE/feat/Knockback|Knockback]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Barbarian|Barbarian]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Rage|Rage]]'
-trigger: null
 type: Feat
 
 ---

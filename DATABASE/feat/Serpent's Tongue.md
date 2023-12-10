@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Serpent's Tongue
-frequency: null
-heighten_level: null
 id: '3985'
 level: '1'
 name: Serpent's Tongue
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Nagaji|Nagaji]]'
-trigger: null
 type: Feat
 
 ---

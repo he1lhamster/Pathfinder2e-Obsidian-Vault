@@ -1,22 +1,15 @@
 ﻿---
 ac: '29'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Breath Weapon
 - Capsize
 - Draconic Frenzy
 - Shell Block
-creature_family: null
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+19'
-hardness: null
 hp: '140'
 id: '157'
 immunity:
@@ -35,9 +28,6 @@ name: Dragon Turtle
 perception: '+18'
 rarity: Common
 reflex: '+15'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Huge
@@ -51,7 +41,6 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 20 feet
 - swim 30 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
@@ -64,7 +53,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+16'
 wisdom: '+3'
 

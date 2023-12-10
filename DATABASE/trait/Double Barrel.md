@@ -2,7 +2,6 @@
 id: '403'
 name: Double Barrel
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:
 - Double Barrel

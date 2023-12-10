@@ -1,8 +1,6 @@
 ﻿---
 ac: '21'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+6'
 hardness: '5'
 hazard_type: Trap
@@ -16,17 +14,12 @@ level: '2'
 name: Exploding Statue
 rarity: Common
 reflex: '+12'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 157. Devil at the Dreaming Palace|Pathfinder
   #157: Devil at the Dreaming Palace]]'
 trait:
 - '[[DATABASE/trait/Mechanical|Mechanical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Exploding Statue<span class="item-type">Hazard 2</span>

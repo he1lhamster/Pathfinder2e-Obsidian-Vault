@@ -1,23 +1,16 @@
 ﻿---
 ac: '18'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Master of the Yard
 - Shy
 creature_family: '[[DATABASE/monsterfamily/House Spirit|House Spirit]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+10'
-hardness: null
 hp: '44'
 id: '1195'
-immunity: null
 intelligence: '-1'
 land_speed: '30'
 language:
@@ -29,9 +22,6 @@ name: Dvorovoi
 perception: '+12'
 rarity: Common
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) within their entire
   boundyard'
@@ -56,11 +46,9 @@ strength: '+3'
 strength_req: '3'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
 weakness:

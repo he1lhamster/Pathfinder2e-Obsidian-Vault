@@ -4,9 +4,7 @@ level: '2'
 name: Acrobat
 prerequisite: Trained in [[DATABASE/skill/Acrobatics|Acrobatics]]
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-trait: null
 type: Archetype
 
 ---

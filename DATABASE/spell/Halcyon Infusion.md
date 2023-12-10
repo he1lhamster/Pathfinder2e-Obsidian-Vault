@@ -1,29 +1,16 @@
 ﻿---
-actions: null
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: until your next daily preparations
-element: null
 heighten: 8th, 10th
 heighten_level: 6, 8, 10
 id: '816'
-lesson: null
 level: '6'
-mystery: null
 name: Halcyon Infusion
-patron_theme: null
 range: touch
 rarity: Rare
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Legends|Legends]]'
 target: one willing creature of lower level than you
@@ -34,7 +21,6 @@ trait:
 - '[[DATABASE/trait/Divination|Divination]]'
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Spell
 
 ---

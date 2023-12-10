@@ -1,45 +1,16 @@
 ﻿---
-ac: null
 actions: '[free-action]'
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '214'
 item_category: Consumables
 item_subcategory: Talismans
-land_speed: null
 level: '8'
-max_speed: null
 name: Gallows Tooth
-onset: null
 price: 100 gp
-range: null
 rarity: Common
-reflex: null
 requirement: You're a master in Intimidation
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Divination
-size: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-spell: null
-stage: null
 subcategory: consumable/talisman
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Consumable|Consumable]]'
 - '[[DATABASE/trait/Divination|Divination]]'
@@ -48,9 +19,6 @@ trait:
 trigger: You attack an adjacent creature and haven't rolled your attack roll
 type: Item
 usage: affixed to a weapon
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Gallows Tooth<span class="item-type">Item 8</span>

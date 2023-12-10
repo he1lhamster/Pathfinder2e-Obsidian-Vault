@@ -1,57 +1,24 @@
 ﻿---
-ac: null
 actions: '[one-action]'
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '1024'
 item_category: Consumables
 item_subcategory: Talismans
-land_speed: null
 level: '11'
-max_speed: null
 name: Lion Claw
-onset: null
 price: 300 gp
-range: null
 rarity: Common
-reflex: null
 requirement: You're [[DATABASE/condition/Undetected|undetected]] by a creature and
   are a master in [[DATABASE/skill/Stealth|Stealth]] .
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
-size: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-spell: null
-stage: null
 subcategory: consumable/talisman
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Consumable|Consumable]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Talisman|Talisman]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Item
 usage: affixed to a weapon
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Lion Claw<span class="item-type">Item 11</span>

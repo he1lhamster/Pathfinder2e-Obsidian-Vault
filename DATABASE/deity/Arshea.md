@@ -26,11 +26,9 @@ follower_alignment:
 id: '113'
 name: Arshea
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Diplomacy|Diplomacy]]'
 source: '[[DATABASE/source/Firebrands|Firebrands]]'
-trait: null
 type: Deity
 
 ---

@@ -1,35 +1,23 @@
 ﻿---
 ac: '21'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Punishing Tail
 - Trample
-creature_family: null
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+12'
-hardness: null
 hp: '70'
 id: '2010'
-immunity: null
 intelligence: '-4'
 land_speed: '25'
-language: null
 level: '4'
 max_speed: '25'
 name: Pinacosaurus
 perception: '+10'
 rarity: Common
 reflex: '+8'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Large
@@ -39,12 +27,10 @@ source: '[[DATABASE/source/Pathfinder 151. The Show Must Go On|Pathfinder #151: 
   Show Must Go On]]'
 speed:
 - 25 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 - '[[DATABASE/trait/Dinosaur|Dinosaur]]'
@@ -53,7 +39,6 @@ vision: Low-light vision
 weakest_save:
 - Reflex
 - Will
-weakness: null
 will: '+8'
 wisdom: '+2'
 

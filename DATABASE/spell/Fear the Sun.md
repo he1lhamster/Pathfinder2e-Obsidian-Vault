@@ -1,27 +1,15 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
 heighten: 6th
 heighten_level: 2, 6
 id: '1080'
-lesson: null
 level: '2'
-mystery: null
 name: Fear the Sun
-patron_theme: null
 range: 30 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 saving_throw: Fortitude
 school: Transmutation
 source: '[[DATABASE/source/Pathfinder 172. Secrets of the Temple City|Pathfinder #172:
@@ -35,7 +23,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Spell
 
 ---

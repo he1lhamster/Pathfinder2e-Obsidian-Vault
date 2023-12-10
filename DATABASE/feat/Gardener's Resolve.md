@@ -1,21 +1,14 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Gardener's Resolve
 frequency: once per day
-heighten_level: null
 id: '3335'
 level: '8'
 name: Gardener's Resolve
 prerequisite: '[[DATABASE/feat/Vigilante Dedication|Vigilante Dedication]] ; member
   of the Gray Gardeners'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Night of the Gray Death|Night of the Gray Death]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Vigilante|Vigilante]]'

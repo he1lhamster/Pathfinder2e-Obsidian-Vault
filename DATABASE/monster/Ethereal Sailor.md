@@ -2,18 +2,13 @@
 ac: '25'
 alignment: No Alignment
 all_resistance: '10'
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Force Body
-creature_family: null
 dexterity: '+4'
-element: null
 fly_speed: '30'
 fortitude: '+8'
-hardness: null
 hp: '60'
 id: '1652'
 immunity:
@@ -25,7 +20,6 @@ immunity:
 - precision
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
-land_speed: null
 language:
 - (understands commands)
 level: '6'
@@ -37,8 +31,6 @@ reflex: '+14'
 resistance:
 - all damage 10 (except [[DATABASE/trait/Force|force]] or [[DATABASE/equipment/Ghost
   Touch|ghost touch]] )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -48,12 +40,10 @@ skill:
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
 speed:
 - fly 30 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Mindless|Mindless]]'
 type: Creature
@@ -61,7 +51,6 @@ vision: Darkvision
 weakest_save:
 - Fortitude
 - Will
-weakness: null
 will: '+8'
 wisdom: '+0'
 

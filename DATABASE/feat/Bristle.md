@@ -1,23 +1,13 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Bristle
-frequency: null
-heighten_level: null
 id: '2835'
 level: '5'
 name: Bristle
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Shisk|Shisk]]'
-trigger: null
 type: Feat
 
 ---

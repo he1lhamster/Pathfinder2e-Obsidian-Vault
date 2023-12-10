@@ -1,25 +1,17 @@
 ﻿---
 actions: '[one-action]'
-cost: null
 element: Fire
 feat: Burning Spell
-frequency: null
-heighten_level: null
-id: '4343'
+id: '2989'
 level: '6'
 name: Burning Spell
 prerequisite: '[[DATABASE/feat/Elementalist Dedication|Elementalist Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
-source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
+source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Fire|Fire]]'
-- '[[DATABASE/trait/Spellshape|Spellshape]]'
-trigger: null
+- '[[DATABASE/trait/Metamagic|Metamagic]]'
 type: Feat
 
 ---

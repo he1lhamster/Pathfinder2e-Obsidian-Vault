@@ -1,23 +1,15 @@
 ﻿---
 ac: '23'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Counterspell
 - Stench
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+12'
-hardness: null
 hp: '115'
 id: '2019'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -30,9 +22,6 @@ name: Xulgath Mage
 perception: '+12'
 rarity: Common
 reflex: '+13'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -73,7 +62,6 @@ strength: '+1'
 strength_req: '1'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Xulgath|Xulgath]]'
@@ -81,7 +69,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+14'
 wisdom: '+1'
 

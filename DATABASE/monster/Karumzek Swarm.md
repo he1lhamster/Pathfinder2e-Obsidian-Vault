@@ -1,8 +1,6 @@
 ﻿---
 ac: '30'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
 climb_speed: '30'
 constitution: '+4'
@@ -12,10 +10,7 @@ creature_ability:
 - Swarming Bites
 creature_family: '[[DATABASE/monsterfamily/Karumzek|Karumzek]]'
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+21'
-hardness: null
 hp: '175'
 id: '1655'
 immunity:
@@ -24,7 +19,6 @@ immunity:
 - '[[DATABASE/monsterability/Swarm Mind|swarm mind]]'
 intelligence: '-1'
 land_speed: '40'
-language: null
 level: '11'
 max_speed: '40'
 name: Karumzek Swarm
@@ -35,8 +29,6 @@ resistance:
 - bludgeoning 5
 - piercing 10
 - slashing 10
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - poison sense (precise) 30 feet
@@ -60,7 +52,6 @@ strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Swarm|Swarm]]'

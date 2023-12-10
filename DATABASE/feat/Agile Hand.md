@@ -1,24 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Agile Hand
-frequency: null
-heighten_level: null
 id: '3369'
+leads_to: '[[DATABASE/feat/Larcenous Hand|Larcenous Hand]]'
 level: '4'
 name: Agile Hand
 prerequisite: '[[DATABASE/feat/Spell Trickster Dedication|Spell Trickster Dedication]]
   ; ability to cast [[DATABASE/spell/Mage Hand|mage hand]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

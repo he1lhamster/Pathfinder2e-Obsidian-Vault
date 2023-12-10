@@ -1,8 +1,6 @@
 ﻿---
 ac: '25'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
 climb_speed: '30'
 constitution: '+6'
@@ -14,25 +12,17 @@ creature_ability:
 - Wrap in Coils
 creature_family: '[[DATABASE/monsterfamily/Snake|Snake]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+20'
-hardness: null
 hp: '175'
 id: '382'
-immunity: null
 intelligence: '-4'
 land_speed: '30'
-language: null
 level: '8'
 max_speed: '30'
 name: Giant Anaconda
 perception: '+17'
 rarity: Common
 reflex: '+17'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 - scent (imprecise) 60 feet
@@ -47,7 +37,6 @@ speed:
 - 30 feet
 - climb 30 feet
 - swim 30 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
@@ -59,7 +48,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+15'
 wisdom: '+3'
 

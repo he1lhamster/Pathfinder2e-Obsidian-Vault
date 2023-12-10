@@ -1,20 +1,12 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Heatwave
 frequency: once per 10 minutes
-heighten_level: null
 id: '2558'
 level: '5'
 name: Heatwave
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Ifrit|Ifrit]]'
 trigger: An effect would deal fire damage to you, even if you resist all the damage.

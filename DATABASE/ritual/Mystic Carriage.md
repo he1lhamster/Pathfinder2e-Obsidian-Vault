@@ -1,8 +1,6 @@
 ﻿---
-area: null
 cost: toy carriage, horse statues, rare incense, and feathers worth 50 gp
 duration: 1 week or until the named destination is reached, whichever comes first
-element: null
 heighten: '+1'
 heighten_level: 3, 4, 5, 6, 7, 8, 9, 10
 id: '62'
@@ -10,15 +8,11 @@ level: '3'
 name: Mystic Carriage
 primary_check: '[[DATABASE/skill/Arcana|Arcana]] (Expert) or [[DATABASE/skill/Occultism|Occultism]]
   (Expert)'
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Conjuration
 secondary_casters: '1'
 secondary_check: '[[DATABASE/skill/Crafting|Crafting]] or [[DATABASE/skill/Lore|DrivingLore]]'
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-target: null
 trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

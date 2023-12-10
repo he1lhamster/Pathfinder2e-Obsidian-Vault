@@ -1,21 +1,14 @@
 ﻿---
 ac: '27'
 alignment: NG
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Nagaji Venom
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+19'
 hp: '130'
 id: '1448'
-immunity: null
 intelligence: '+2'
 land_speed: '25'
 language:
@@ -31,7 +24,6 @@ rarity: Unique
 reflex: '+16'
 resistance:
 - poison 5
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
@@ -76,7 +68,6 @@ strength: '+1'
 strength_req: '1'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Nagaji|Nagaji]]'
@@ -85,7 +76,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+15'
 wisdom: '+0'
 

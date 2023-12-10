@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Tenacious Toxins
-frequency: null
-heighten_level: null
 id: '1596'
 level: '4'
 name: Tenacious Toxins
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Alchemist|Alchemist]]'
-trigger: null
 type: Feat
 
 ---

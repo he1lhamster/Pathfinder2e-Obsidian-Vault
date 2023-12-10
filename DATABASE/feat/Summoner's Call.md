@@ -1,20 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Summoner's Call
-frequency: null
-heighten_level: null
 id: '2931'
 level: '12'
 name: Summoner's Call
-prerequisite: null
 rarity: Common
 requirement: Your eidolon is manifested more than 5 feet away.
-rus_type_level: null
 school: Conjuration
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Conjuration|Conjuration]]'

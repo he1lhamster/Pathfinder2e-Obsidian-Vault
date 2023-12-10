@@ -1,10 +1,7 @@
 ﻿---
 ac: '25'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Attack of Opportunity
@@ -13,10 +10,7 @@ creature_ability:
 - Dual Opportunity
 creature_family: '[[DATABASE/monsterfamily/Asura|Asura]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+15'
-hardness: null
 hp: '130'
 id: '1070'
 immunity:
@@ -33,9 +27,6 @@ name: Adhukait
 perception: '+15'
 rarity: Common
 reflex: '+17'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -48,12 +39,10 @@ skill:
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 40 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Asura|Asura]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

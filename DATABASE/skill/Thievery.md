@@ -6,11 +6,9 @@ ability_boost:
 id: '17'
 name: Thievery
 rarity: Common
-rus_type_level: null
 skill:
 - Thievery
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Skill
 
 ---

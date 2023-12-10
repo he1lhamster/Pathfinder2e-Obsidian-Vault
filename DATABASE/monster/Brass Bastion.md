@@ -1,21 +1,14 @@
 ﻿---
 ac: '36'
-alignment: null
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Breathe Smoke
 - Heat Weapon
 - Molten Demise
-creature_family: null
 dexterity: '+0'
 element: Fire
-fly_speed: null
 fortitude: '+27'
-hardness: null
 hp: '205'
 id: '2631'
 immunity:
@@ -37,7 +30,6 @@ immunity:
 - '[[DATABASE/trait/Void|void]]'
 intelligence: '-5'
 land_speed: '25'
-language: null
 level: '14'
 max_speed: '25'
 name: Brass Bastion
@@ -47,8 +39,6 @@ reflex: '+22'
 resistance:
 - physical 15 (except [[DATABASE/equipment/Adamantine Weapon|adamantine]] )
 - spells 15 (except [[DATABASE/trait/Water|water]] )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Huge
@@ -57,12 +47,10 @@ skill:
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 speed:
 - 25 feet
-spell: null
 strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Fire|Fire]]'
@@ -72,7 +60,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+20'
 wisdom: '+0'
 

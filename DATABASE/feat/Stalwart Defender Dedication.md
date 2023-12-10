@@ -1,25 +1,21 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Stalwart Defender Dedication
-frequency: null
-heighten_level: null
 id: '4172'
+leads_to: '[[DATABASE/feat/Cracked Mountain|Cracked Mountain]] , [[DATABASE/feat/Crushing
+  Step|Crushing Step]] , [[DATABASE/feat/Gathering Moss|Gathering Moss]] , [[DATABASE/feat/Gravel
+  Guts|Gravel Guts]] , [[DATABASE/feat/Mountain Skin|Mountain Skin]] , [[DATABASE/feat/Rupture
+  Stomp|Rupture Stomp]] , [[DATABASE/feat/Stone Body|Stone Body]] , [[DATABASE/feat/Tunnel
+  Wall|Tunnel Wall]] , [[DATABASE/feat/Unshaken in Iron|Unshaken in Iron]] , [[DATABASE/feat/Upset
+  Balance|Upset Balance]]'
 level: '2'
 name: Stalwart Defender Dedication
 prerequisite: trained in light armor
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Highhelm|Highhelm]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

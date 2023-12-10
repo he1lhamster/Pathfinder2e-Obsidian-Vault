@@ -25,11 +25,9 @@ follower_alignment:
 id: '194'
 name: Ragdya
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]]'
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-trait: null
 type: Deity
 
 ---

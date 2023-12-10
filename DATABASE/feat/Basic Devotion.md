@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Basic Devotion
-frequency: null
-heighten_level: null
 id: '687'
+leads_to: '[[DATABASE/feat/Advanced Devotion|Advanced Devotion]]'
 level: '4'
 name: Basic Devotion
 prerequisite: '[[DATABASE/feat/Champion Dedication|Champion Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

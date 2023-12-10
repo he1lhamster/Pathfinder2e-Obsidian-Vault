@@ -1,7 +1,6 @@
 ﻿---
 id: '32'
 name: Quickened
-source: null
 
 ---
 # Quickened

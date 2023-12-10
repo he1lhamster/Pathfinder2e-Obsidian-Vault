@@ -1,8 +1,6 @@
 ﻿---
 ac: '29'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
 climb_speed: '25'
 constitution: '+3'
@@ -12,15 +10,10 @@ creature_ability:
 - Quick Catch
 - Raking Claws
 - Rend
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+21'
-hardness: null
 hp: '190'
 id: '2108'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -32,9 +25,6 @@ name: Hooklimb Xulgath
 perception: '+18'
 rarity: Rare
 reflex: '+21'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -49,13 +39,11 @@ source: '[[DATABASE/source/Pathfinder 153. Life''s Long Shadows|Pathfinder #153:
 speed:
 - 25 feet
 - climb 25 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Rare|Rare]]'
@@ -64,7 +52,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+16'
 wisdom: '+2'
 

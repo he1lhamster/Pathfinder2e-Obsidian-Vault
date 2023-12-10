@@ -1,20 +1,12 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Distracting Flattery
-frequency: null
-heighten_level: null
 id: '1936'
 level: '4'
 name: Distracting Flattery
 prerequisite: '[[DATABASE/feat/Dandy Dedication|Dandy Dedication]] ; Expert in [[DATABASE/skill/Deception|Deception]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Skill|Skill]]'

@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Captivating Curiosity
-frequency: null
-heighten_level: null
 id: '2525'
 level: '9'
 name: Captivating Curiosity
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fleshwarp|Fleshwarp]]'
-trigger: null
 type: Feat
 
 ---

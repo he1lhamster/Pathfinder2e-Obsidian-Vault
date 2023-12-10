@@ -1,39 +1,27 @@
 ﻿---
 actions: '[two-actions]'
 area: 10-foot burst
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 1 minute
 element: Earth
 heighten: 3rd
 heighten_level: 1, 3
 id: '1075'
-lesson: null
 level: '1'
-mystery: null
 name: Swampcall
-patron_theme: null
 range: 30 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Pathfinder 171. Hurricane''s Howl|Pathfinder #171: Hurricane''s
   Howl]]'
-target: null
 tradition:
 - Primal
 trait:
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Spell
 
 ---

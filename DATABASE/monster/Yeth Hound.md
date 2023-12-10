@@ -1,23 +1,15 @@
 ﻿---
 ac: '18'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Bay
 - Sinister Bite
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+9'
-hardness: null
 hp: '55'
 id: '870'
-immunity: null
 intelligence: '-2'
 land_speed: '40'
 language:
@@ -28,9 +20,6 @@ name: Yeth Hound
 perception: '+9'
 rarity: Common
 reflex: '+12'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent (imprecise) 30 feet]]'
@@ -50,7 +39,6 @@ strength_req: '4'
 strongest_save:
 - Reflex
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

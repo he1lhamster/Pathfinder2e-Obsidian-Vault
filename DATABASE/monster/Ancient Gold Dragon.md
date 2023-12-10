@@ -1,10 +1,7 @@
 ﻿---
 ac: '46'
 alignment: LG
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+8'
 creature_ability:
 - Attack of Opportunity
@@ -20,7 +17,6 @@ dexterity: '+5'
 element: Fire
 fly_speed: '200'
 fortitude: '+37'
-hardness: null
 hp: '450'
 id: '153'
 immunity:
@@ -43,9 +39,6 @@ name: Ancient Gold Dragon
 perception: '+36'
 rarity: Uncommon
 reflex: '+34'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - scent (imprecise) 80 feet

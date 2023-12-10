@@ -1,10 +1,7 @@
 ﻿---
 ac: '38'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-4'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Black Scorpion Venom
@@ -12,25 +9,17 @@ creature_ability:
 - Rapid Stinging
 creature_family: '[[DATABASE/monsterfamily/Scorpion|Scorpion]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+29'
-hardness: null
 hp: '275'
 id: '796'
-immunity: null
 intelligence: '-5'
 land_speed: '50'
-language: null
 level: '15'
 max_speed: '50'
 name: Black Scorpion
 perception: '+27'
 rarity: Common
 reflex: '+25'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Tremorsense|tremorsense (imprecise) 90 feet]]'
@@ -40,12 +29,10 @@ skill:
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 50 feet
-spell: null
 strength: '+9'
 strength_req: '9'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
@@ -53,7 +40,6 @@ vision: Darkvision
 weakest_save:
 - Reflex
 - Will
-weakness: null
 will: '+25'
 wisdom: '+6'
 

@@ -1,24 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Expert Bard Spellcasting
-frequency: null
-heighten_level: null
 id: '684'
+leads_to: '[[DATABASE/feat/Master Bard Spellcasting|Master Bard Spellcasting]]'
 level: '12'
 name: Expert Bard Spellcasting
 prerequisite: '[[DATABASE/feat/Basic Bard Spellcasting|Basic Bard Spellcasting]] ;
   Master in [[DATABASE/skill/Occultism|Occultism]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

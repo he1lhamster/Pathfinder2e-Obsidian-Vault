@@ -1,27 +1,18 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Radiate Glory
-frequency: null
-heighten_level: null
 id: '2297'
 level: '17'
 name: Radiate Glory
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Aasimar|Aasimar]]'
 - '[[DATABASE/trait/Divine|Divine]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Light|Light]]'
 - '[[DATABASE/trait/Visual|Visual]]'
-trigger: null
 type: Feat
 
 ---

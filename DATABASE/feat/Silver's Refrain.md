@@ -1,25 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Silver's Refrain
-frequency: null
-heighten_level: null
 id: '926'
 level: '12'
 name: Silver's Refrain
-prerequisite: null
 rarity: Rare
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 147. Tomorrow Must Burn|Pathfinder #147: Tomorrow
   Must Burn]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Bard|Bard]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Feat
 
 ---

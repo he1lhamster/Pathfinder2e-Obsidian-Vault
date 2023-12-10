@@ -1,10 +1,7 @@
 ﻿---
 ac: '30'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Golem Antimagic
@@ -15,10 +12,7 @@ creature_ability:
 - Flesh
 creature_family: '[[DATABASE/monsterfamily/Golem|Golem]]'
 dexterity: '-1'
-element: null
-fly_speed: null
 fortitude: '+24'
-hardness: null
 hp: '175'
 id: '241'
 immunity:
@@ -40,7 +34,6 @@ immunity:
 - unconscious
 intelligence: '-5'
 land_speed: '20'
-language: null
 level: '11'
 max_speed: '20'
 name: Stone Golem
@@ -49,8 +42,6 @@ rarity: Uncommon
 reflex: '+18'
 resistance:
 - physical 10 (except adamantine)
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Large
@@ -59,12 +50,10 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 20 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Golem|Golem]]'
@@ -74,7 +63,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+19'
 wisdom: '+0'
 

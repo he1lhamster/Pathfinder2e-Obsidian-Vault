@@ -1,25 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Relentless Disarm
-frequency: null
-heighten_level: null
 id: '1157'
 level: '6'
 name: Relentless Disarm
 prerequisite: '[[DATABASE/feat/Zephyr Guard Dedication|Zephyr Guard Dedication]] ;
   Trained in [[DATABASE/skill/Athletics|Athletics]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 149. Against the Scarlet Triad|Pathfinder #149:
   Against the Scarlet Triad]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

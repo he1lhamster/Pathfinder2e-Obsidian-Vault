@@ -28,11 +28,9 @@ follower_alignment:
 id: '223'
 name: Adanye
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Society|Society]]'
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
-trait: null
 type: Deity
 
 ---

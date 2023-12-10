@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Deadly Simplicity
-frequency: null
-heighten_level: null
 id: '264'
 level: '1'
 name: Deadly Simplicity
 prerequisite: deity with a simple or unarmed attack favored weapon, trained with your
   deity's favored weapon
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Cleric|Cleric]]'
-trigger: null
 type: Feat
 
 ---

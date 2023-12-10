@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Virtuosic Performer|Virtuosic Performer]]'
 id: '234'
 name: Musical Prodigy
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Performance|Performance]]'
 - Music [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

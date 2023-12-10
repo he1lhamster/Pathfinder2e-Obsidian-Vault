@@ -1,20 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Crafter's Instinct
 frequency: once per day
-heighten_level: null
 id: '3289'
 level: '13'
 name: Crafter's Instinct
 prerequisite: Master in [[DATABASE/skill/Crafting|Crafting]]
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Dwarf|Dwarf]]'
 - '[[DATABASE/trait/Fortune|Fortune]]'

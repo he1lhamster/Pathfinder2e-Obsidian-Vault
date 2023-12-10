@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Miniaturize
-frequency: null
-heighten_level: null
 id: '2921'
 level: '8'
 name: Miniaturize
 prerequisite: '[[DATABASE/feat/Shrink Down|Shrink Down]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Evolution|Evolution]]'
 - '[[DATABASE/trait/Summoner|Summoner]]'
-trigger: null
 type: Feat
 
 ---

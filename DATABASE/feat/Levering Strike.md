@@ -1,26 +1,18 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Levering Strike
-frequency: null
-heighten_level: null
 id: '1196'
 level: '8'
 name: Levering Strike
 prerequisite: '[[DATABASE/feat/Staff Acrobat Dedication|Staff Acrobat Dedication]]'
 rarity: Uncommon
 requirement: You are wielding your staff.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 151. The Show Must Go On|Pathfinder #151: The
   Show Must Go On]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Press|Press]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

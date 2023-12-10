@@ -1,32 +1,19 @@
 ﻿---
-actions: null
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Count Ranalc|Count Ranalc]]'
 - '[[DATABASE/deity/Luhar|Luhar]]'
 - '[[DATABASE/deity/Zon-Kuthon|Zon-Kuthon]]'
-domain: null
 duration: 8 hours
-element: null
-heighten: null
 heighten_level: '5'
 id: '275'
-lesson: null
 level: '5'
-mystery: null
 name: Shadow Walk
-patron_theme: null
 range: touch
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: you and up to 9 willing creatures touched
@@ -38,7 +25,6 @@ trait:
 - '[[DATABASE/trait/Shadow|Shadow]]'
 - '[[DATABASE/trait/Teleportation|Teleportation]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Spell
 
 ---

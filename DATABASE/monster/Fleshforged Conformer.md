@@ -1,10 +1,7 @@
 ﻿---
 ac: '26'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Conformance
@@ -13,13 +10,9 @@ creature_ability:
 - Wear Flesh
 creature_family: '[[DATABASE/monsterfamily/Fleshforged|Fleshforged]]'
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+17'
-hardness: null
 hp: '145'
 id: '2406'
-immunity: null
 intelligence: '+3'
 land_speed: '25'
 language:
@@ -31,9 +24,6 @@ name: Fleshforged Conformer
 perception: '+19'
 rarity: Common
 reflex: '+18'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -57,7 +47,6 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 type: Creature

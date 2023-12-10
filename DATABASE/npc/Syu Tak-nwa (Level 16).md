@@ -1,23 +1,16 @@
 ﻿---
 ac: '37'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Choking Hair
 - Empowered Hair
 - Familiar
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+26'
 hp: '250'
 id: '1492'
-immunity: null
 intelligence: '+5'
 land_speed: '25'
 language:
@@ -31,9 +24,6 @@ name: Syu Tak-nwa (Level 16)
 perception: '+29'
 rarity: Unique
 reflex: '+29'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +28'
@@ -86,16 +76,13 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+28'
 wisdom: '+3'
 

@@ -27,11 +27,9 @@ follower_alignment:
 id: '267'
 name: Thisamet
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Society|Society]]'
 source: '[[DATABASE/source/Firebrands|Firebrands]]'
-trait: null
 type: Deity
 
 ---

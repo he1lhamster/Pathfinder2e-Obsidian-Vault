@@ -1,39 +1,24 @@
 ﻿---
-actions: null
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
 domain:
 - '[[DATABASE/domain/Secrecy Domain|Secrecy]]'
 duration: 1 hour
-element: null
-heighten: null
 heighten_level: '4'
 id: '448'
-lesson: null
 level: '4'
-mystery: null
 name: Safeguard Secret
-patron_theme: null
 range: 10 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: you and any number of willing allies
-tradition: null
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Cleric|Cleric]]'
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Focus
 
 ---

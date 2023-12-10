@@ -1,8 +1,6 @@
 ﻿---
 bulk: L
 damage: 1d4 P
-deity: null
-favored_weapon: null
 hands: 1 or 2
 id: '186'
 item_category: Weapons
@@ -10,9 +8,7 @@ item_subcategory: Base Weapons
 level: '0'
 name: Bayonet
 price: 2 sp
-range: null
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:
 - '[[DATABASE/trait/Agile|Agile]]'

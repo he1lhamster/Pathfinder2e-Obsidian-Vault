@@ -1,10 +1,7 @@
 ﻿---
 ac: '19'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Backdrop
@@ -12,10 +9,7 @@ creature_ability:
 - Surface-Bound
 creature_family: '[[DATABASE/monsterfamily/Living Symbol|Living Symbol]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+8'
-hardness: null
 hp: '50'
 id: '1221'
 immunity:
@@ -41,9 +35,6 @@ name: Oil Living Graffiti
 perception: '+9'
 rarity: Rare
 reflex: '+11'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -55,12 +46,10 @@ skill:
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 25 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Rare|Rare]]'
@@ -68,7 +57,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+7'
 wisdom: '+2'
 

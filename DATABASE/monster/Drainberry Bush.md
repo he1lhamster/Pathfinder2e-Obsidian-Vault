@@ -1,8 +1,6 @@
 ﻿---
 ac: '23'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
 climb_speed: '20'
 constitution: '+6'
@@ -12,15 +10,10 @@ creature_ability:
 - Drain Blood
 - Nature Empathy
 - Storm of Vines
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+17'
-hardness: null
 hp: '135'
 id: '639'
-immunity: null
 intelligence: '-2'
 land_speed: '25'
 language:
@@ -36,8 +29,6 @@ rarity: Uncommon
 reflex: '+13'
 resistance:
 - negative 10
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Lifesense|lifesense 120 feet]]'
 size: Large
@@ -51,17 +42,14 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 25 feet
 - climb 20 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Plant|Plant]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
 - Will

@@ -10,10 +10,7 @@ level: '0'
 name: Steel Shield
 price: 2 gp
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-speed_penalty: null
-trait: null
 type: Shield
 
 ---

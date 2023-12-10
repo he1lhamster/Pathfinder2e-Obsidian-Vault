@@ -8,9 +8,7 @@ ability_boost:
 feat: '[[DATABASE/feat/Hobnobber|Hobnobber]]'
 id: '397'
 name: Southbank Traditionalist
-prerequisite: null
 rarity: Rare
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Crafting|Crafting]]'
 - Farming [[DATABASE/skill/Lore|Lore]]

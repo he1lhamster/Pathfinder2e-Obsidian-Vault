@@ -2,7 +2,6 @@
 id: '363'
 name: Shabti
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 trait:
 - Shabti

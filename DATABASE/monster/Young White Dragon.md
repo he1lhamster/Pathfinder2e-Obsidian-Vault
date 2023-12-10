@@ -1,8 +1,6 @@
 ﻿---
 ac: '23'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
 climb_speed: '30'
 constitution: '+4'
@@ -19,10 +17,8 @@ creature_ability:
 - Snow Vision
 creature_family: '[[DATABASE/monsterfamily/Dragon, White|Dragon, White]]'
 dexterity: '+2'
-element: null
 fly_speed: '80'
 fortitude: '+16'
-hardness: null
 hp: '115'
 id: '139'
 immunity:
@@ -39,9 +35,6 @@ name: Young White Dragon
 perception: '+13'
 rarity: Common
 reflex: '+14'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - scent (imprecise) 60 feet
@@ -57,12 +50,10 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 30 feet
 - fly 80 feet; ice climb 30 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Cold|Cold]]'
 - '[[DATABASE/trait/Dragon|Dragon]]'

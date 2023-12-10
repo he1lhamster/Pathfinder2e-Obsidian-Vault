@@ -1,23 +1,15 @@
 ﻿---
 actions: '[three-actions]'
-cost: null
-element: null
 feat: Pass Through
 frequency: once per 10 minutes
-heighten_level: null
 id: '3501'
 level: '10'
 name: Pass Through
 prerequisite: '[[DATABASE/feat/Ghost Dedication|Ghost Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

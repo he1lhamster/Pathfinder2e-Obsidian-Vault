@@ -1,10 +1,7 @@
 ﻿---
 ac: '34'
 alignment: LG
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Absorb Force
@@ -14,15 +11,10 @@ creature_ability:
 - Meditative Therapy
 - Powerful
 - Fists
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+20'
-hardness: null
 hp: '238'
 id: '2575'
-immunity: null
 intelligence: '+3'
 land_speed: '25'
 language:
@@ -41,8 +33,6 @@ rarity: Unique
 reflex: '+24'
 resistance:
 - '[[DATABASE/trait/Force|force]] 10'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -81,7 +71,6 @@ strength_req: '3'
 strongest_save:
 - Reflex
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
@@ -89,7 +78,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+24'
 wisdom: '+5'
 

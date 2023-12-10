@@ -1,28 +1,15 @@
 ﻿---
-ac: null
-all_resistance: null
 complexity: Simple
-element: null
-fortitude: null
-hardness: null
 hazard_type: Environmental
-hp: null
 id: '127'
-immunity: null
 level: '8'
 name: Methane Flue
 rarity: Common
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 177. Burning Tundra|Pathfinder #177: Burning
   Tundra]]'
 trait:
 - '[[DATABASE/trait/Environmental|Environmental]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Methane Flue<span class="item-type">Hazard 8</span>

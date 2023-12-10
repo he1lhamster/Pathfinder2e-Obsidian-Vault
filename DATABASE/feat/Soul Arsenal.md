@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Soul Arsenal
-frequency: null
-heighten_level: null
 id: '3019'
 level: '6'
 name: Soul Arsenal
 prerequisite: '[[DATABASE/feat/Soulforger Dedication|Soulforger Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

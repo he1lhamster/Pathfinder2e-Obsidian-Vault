@@ -1,10 +1,7 @@
 ﻿---
 ac: '18'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Anguished Cry
@@ -12,13 +9,9 @@ creature_ability:
 - Delicious
 creature_family: '[[DATABASE/monsterfamily/Ghoran|Ghoran]]'
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+8'
-hardness: null
 hp: '45'
 id: '1164'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -30,9 +23,6 @@ name: Ghoran Manipulator
 perception: '+9'
 rarity: Rare
 reflex: '+8'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
@@ -64,7 +54,6 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Ghoran|Ghoran]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -75,7 +64,6 @@ vision: Low-light vision
 weakest_save:
 - Fortitude
 - Reflex
-weakness: null
 will: '+11'
 wisdom: '+2'
 

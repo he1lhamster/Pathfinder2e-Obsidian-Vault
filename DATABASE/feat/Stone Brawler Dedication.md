@@ -1,26 +1,19 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Stone Brawler Dedication
-frequency: null
-heighten_level: null
 id: '4371'
+leads_to: '[[DATABASE/feat/Ore Fists|Ore Fists]] , [[DATABASE/feat/Stonebane|Stonebane]]
+  , [[DATABASE/feat/Stoney Deflection|Stoney Deflection]] , [[DATABASE/feat/Stoney
+  Skin|Stoney Skin]]'
 level: '2'
 name: Stone Brawler Dedication
 prerequisite: Constitution 14
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 195. Heavy is the Crown|Pathfinder #195: Heavy
   is the Crown]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

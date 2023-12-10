@@ -1,20 +1,10 @@
 ﻿---
-ac: null
-all_resistance: null
 complexity: Simple
-element: null
-fortitude: null
-hardness: null
 hazard_type: Trap
-hp: null
 id: '346'
-immunity: null
 level: '2'
 name: Cordon Alarm
 rarity: Common
-reflex: null
-resistance: null
-rus_type_level: null
 school: Abjuration
 source: '[[DATABASE/source/Pathfinder 187. The Seventh Arch|Pathfinder #187: The Seventh
   Arch]]'
@@ -23,8 +13,6 @@ trait:
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Cordon Alarm<span class="item-type">Hazard 2</span>

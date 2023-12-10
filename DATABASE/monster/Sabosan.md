@@ -1,25 +1,18 @@
 ﻿---
 ac: '22'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Drain Blood
 - Echolocation
 - Fell Shriek
 - Powerful Charge
-creature_family: null
 dexterity: '+5'
-element: null
 fly_speed: '25'
 fortitude: '+11'
-hardness: null
 hp: '78'
 id: '1279'
-immunity: null
 intelligence: '-1'
 land_speed: '25'
 language:
@@ -31,9 +24,6 @@ name: Sabosan
 perception: '+10'
 rarity: Common
 reflex: '+14'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - echolocation 20 feet
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
@@ -47,19 +37,16 @@ source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 25 feet
 - fly 25 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+10'
 wisdom: '+1'
 

@@ -1,27 +1,14 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
-component: null
-cost: null
-deity: null
-domain: null
 duration: 5 minutes
 element: Fire
 heighten: 4th, 6th, 8th, 10th
 heighten_level: 2, 4, 6, 8, 10
 id: '1348'
-lesson: null
 level: '2'
-mystery: null
 name: Blazing Armory
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 target: 1 willing creature
 tradition:
@@ -32,7 +19,6 @@ trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Fire|Fire]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
-trigger: null
 type: Spell
 
 ---

@@ -1,10 +1,6 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Idol Threat
-frequency: null
-heighten_level: null
 id: '3942'
 level: '13'
 name: Idol Threat
@@ -12,13 +8,9 @@ prerequisite: '[[DATABASE/feat/Beastbrood|Beastbrood]]'
 rarity: Common
 requirement: You're holding something sacred or precious to a creature, such as a
   relic or personal depiction oftheir deity or a precious personal memento.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Tiefling|Tiefling]]'
-trigger: null
 type: Feat
 
 ---

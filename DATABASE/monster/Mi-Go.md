@@ -1,22 +1,16 @@
 ﻿---
 ac: '24'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Clever Disguises
 - Eviscerate
 - No Breath
 - Sneak Attack
-creature_family: null
 dexterity: '+5'
-element: null
 fly_speed: '40'
 fortitude: '+13'
-hardness: null
 hp: '120'
 id: '1227'
 immunity:
@@ -33,9 +27,6 @@ name: Mi-Go
 perception: '+14'
 rarity: Uncommon
 reflex: '+17'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Tremorsense|tremorsense]] (precise) 30 feet'
@@ -54,12 +45,10 @@ source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 25 feet
 - fly 40 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fungus|Fungus]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

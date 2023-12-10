@@ -1,24 +1,17 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Streetwise
-frequency: null
-heighten_level: null
 id: '846'
+leads_to: '[[DATABASE/feat/Criminal Connections|Criminal Connections]] , [[DATABASE/feat/Underground
+  Network|Underground Network]]'
 level: '1'
 name: Streetwise
 prerequisite: Trained in [[DATABASE/skill/Society|Society]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: society
 trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

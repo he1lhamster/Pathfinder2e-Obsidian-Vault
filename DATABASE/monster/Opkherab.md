@@ -1,10 +1,7 @@
 ﻿---
 ac: '19'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Death Grip
@@ -12,12 +9,8 @@ creature_ability:
 - Key Conditioning
 - Sunlight Vulnerability
 - Zombie Spawn
-creature_family: null
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+6'
-hardness: null
 hp: 50 ( negative healing )
 id: '2045'
 immunity:
@@ -37,9 +30,6 @@ name: Opkherab
 perception: '+10'
 rarity: Unique
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Lifesense|lifesense]] 30 feet'
@@ -52,12 +42,10 @@ skill:
 source: '[[DATABASE/source/Pathfinder 181. Zombie Feast|Pathfinder #181: Zombie Feast]]'
 speed:
 - 20 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Undead|Undead]]'
 - '[[DATABASE/trait/Unique|Unique]]'

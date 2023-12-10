@@ -1,32 +1,19 @@
 ﻿---
 actions: '[reaction]'
-area: null
-bloodline: null
 component:
 - Somatic
-cost: null
-deity: null
 domain:
 - '[[DATABASE/domain/Time Domain|Time]]'
 duration: 1 round
-element: null
-heighten: null
 heighten_level: '1'
 id: '622'
-lesson: null
 level: '1'
-mystery: null
 name: Delay Consequence
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
 target: the triggering creature
-tradition: null
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 trigger: A creature or object within range is hit by an attack.

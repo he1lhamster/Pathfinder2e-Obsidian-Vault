@@ -1,20 +1,13 @@
 ﻿---
 actions: '[three-actions]'
-cost: null
-element: null
 feat: Final Form
 frequency: once per day
-heighten_level: null
 id: '2458'
 level: '17'
 name: Final Form
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Divine|Divine]]'
@@ -22,7 +15,6 @@ trait:
 - '[[DATABASE/trait/Morph|Morph]]'
 - '[[DATABASE/trait/Tiefling|Tiefling]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Feat
 
 ---

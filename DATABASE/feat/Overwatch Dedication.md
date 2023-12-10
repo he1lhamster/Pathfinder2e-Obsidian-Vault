@@ -1,25 +1,20 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Overwatch Dedication
-frequency: null
-heighten_level: null
 id: '3118'
+leads_to: '[[DATABASE/feat/Control Tower|Control Tower]] , [[DATABASE/feat/Converge|Converge]]
+  , [[DATABASE/feat/Forewarn|Forewarn]] , [[DATABASE/feat/Master Spotter|Master Spotter]]
+  , [[DATABASE/feat/Spyglass Modification|Spyglass Modification]] , [[DATABASE/feat/Swift
+  Intervention|Swift Intervention]] , [[DATABASE/feat/Topple Giants|Topple Giants]]
+  , [[DATABASE/feat/Wide Overwatch|Wide Overwatch]]'
 level: '2'
 name: Overwatch Dedication
 prerequisite: expert in Perception
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Charming Liar|Charming Liar]]'
 id: '9'
 name: Charlatan
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Deception|Deception]]'
 - Underworld [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

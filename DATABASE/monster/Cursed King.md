@@ -1,10 +1,7 @@
 ﻿---
 ac: '29'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Berserk
@@ -12,12 +9,8 @@ creature_ability:
 - False Authority
 - Usurper's Curse
 - Usurper's Curse
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+20'
-hardness: null
 hp: 210 ( negative healing )
 id: '2405'
 immunity:
@@ -36,9 +29,6 @@ name: Cursed King
 perception: '+20'
 rarity: Common
 reflex: '+20'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -49,13 +39,11 @@ skill:
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 speed:
 - 25 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Mummy|Mummy]]'
 - '[[DATABASE/trait/Undead|Undead]]'

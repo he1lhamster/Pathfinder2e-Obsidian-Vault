@@ -1,24 +1,17 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Familiar Master Dedication
-frequency: null
-heighten_level: null
 id: '1970'
+leads_to: '[[DATABASE/feat/Familiar Conduit|Familiar Conduit]] , [[DATABASE/feat/Familiar
+  Mascot|Familiar Mascot]] , [[DATABASE/feat/Improved Familiar (Familiar Master)|Improved
+  Familiar (Familiar Master)]] , [[DATABASE/feat/Mutable Familiar|Mutable Familiar]]
+  , [[DATABASE/feat/Scion of Domora Dedication|Scion of Domora Dedication]]'
 level: '2'
 name: Familiar Master Dedication
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
-trigger: null
 type: Feat
 
 ---

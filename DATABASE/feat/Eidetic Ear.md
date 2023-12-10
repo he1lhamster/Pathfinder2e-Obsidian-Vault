@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Eidetic Ear
-frequency: null
-heighten_level: null
 id: '2831'
 level: '1'
 name: Eidetic Ear
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Shisk|Shisk]]'
-trigger: null
 type: Feat
 
 ---

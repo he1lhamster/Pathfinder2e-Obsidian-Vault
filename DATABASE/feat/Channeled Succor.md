@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Channeled Succor
-frequency: null
-heighten_level: null
 id: '287'
 level: '8'
 name: Channeled Succor
 prerequisite: '[[DATABASE/class_/Cleric|healing font]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Cleric|Cleric]]'
-trigger: null
 type: Feat
 
 ---

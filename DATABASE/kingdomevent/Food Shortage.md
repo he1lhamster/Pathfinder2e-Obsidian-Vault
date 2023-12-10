@@ -3,7 +3,6 @@ id: '15'
 level: '1'
 name: Food Shortage
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Agriculture|Agriculture]]'
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'

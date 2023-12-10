@@ -1,10 +1,7 @@
 ﻿---
 ac: '27'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Can't Catch Me
@@ -12,30 +9,20 @@ creature_ability:
 - Slow Susceptibility
 - Sneak Attack
 - Supernatural Speed
-creature_family: null
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+13'
-hardness: null
 hp: '70'
 id: '2274'
-immunity: null
 intelligence: '+4'
-land_speed: null
 language:
 - '[[DATABASE/language/Aklo|Aklo]]'
 - '[[DATABASE/language/Common|Common]]'
 - '[[DATABASE/language/Sylvan|Sylvan]]'
 level: '7'
-max_speed: null
 name: Rigg Gargadilly
 perception: '+15'
 rarity: Unique
 reflex: '+17'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Small
@@ -48,7 +35,6 @@ skill:
 - '[[DATABASE/skill/Survival|Survival]] +15'
 - '[[DATABASE/skill/Thievery|Thievery]] +15'
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
-speed: null
 spell:
 - '[[DATABASE/spell/Dancing Lights|Dancing Lights]]'
 - '[[DATABASE/spell/Prestidigitation|Prestidigitation]]'
@@ -58,7 +44,6 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Unique|Unique]]'

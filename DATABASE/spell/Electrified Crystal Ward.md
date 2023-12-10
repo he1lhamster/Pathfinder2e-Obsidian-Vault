@@ -1,37 +1,22 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
 heighten: '+2'
 heighten_level: 3, 5, 7, 9
 id: '561'
-lesson: null
 level: '3'
-mystery: null
 name: Electrified Crystal Ward
-patron_theme: null
 range: touch
 rarity: Rare
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Pathfinder 148. Fires of the Haunted City|Pathfinder #148:
   Fires of the Haunted City]]'
 target: 1 hinge or latch
-tradition: null
 trait:
 - '[[DATABASE/trait/Electricity|Electricity]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Focus
 
 ---

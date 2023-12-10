@@ -7,7 +7,6 @@ language:
 max_speed: '25'
 name: Angel Eidolon
 rarity: Common
-rus_type_level: null
 sense:
 - darkvision
 size: Medium, Small

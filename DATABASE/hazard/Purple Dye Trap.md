@@ -1,8 +1,6 @@
 ﻿---
 ac: '15'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+10'
 hardness: 7 Flagstone Hardness
 hazard_type: Trap
@@ -16,17 +14,12 @@ level: '3'
 name: Purple Dye Trap
 rarity: Common
 reflex: '+4'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 178. Punks in a Powderkeg|Pathfinder #178: Punks
   in a Powderkeg]]'
 trait:
 - '[[DATABASE/trait/Mechanical|Mechanical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Purple Dye Trap<span class="item-type">Hazard 3</span>

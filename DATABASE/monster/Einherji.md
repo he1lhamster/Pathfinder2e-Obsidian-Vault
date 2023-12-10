@@ -1,10 +1,7 @@
 ﻿---
 ac: '30'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Attack of Opportunity
@@ -12,15 +9,10 @@ creature_ability:
 - Instant Repair
 - Jotun Slayer
 - Shield Block
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+22'
-hardness: null
 hp: '175'
 id: '1141'
-immunity: null
 intelligence: '+0'
 land_speed: '40'
 language:
@@ -35,8 +27,6 @@ rarity: Common
 reflex: '+18'
 resistance:
 - piercing 10
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -54,7 +44,6 @@ strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aesir|Aesir]]'
 - '[[DATABASE/trait/Monitor|Monitor]]'
@@ -62,7 +51,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+17'
 wisdom: '+1'
 

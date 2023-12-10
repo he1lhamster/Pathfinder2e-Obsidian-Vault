@@ -1,27 +1,20 @@
 ﻿---
-actions: null
-cost: null
 element: Earth
 feat: Sheltering Cave
-frequency: null
-heighten_level: null
 id: '2975'
 level: '4'
 name: Sheltering Cave
 prerequisite: '[[DATABASE/druidicorder/Stone|stone order]]'
 rarity: Common
 requirement: You're standing on ground composed of earth, stone, or a similar material.
-rus_type_level: null
 school: Conjuration
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Druid|Druid]]'
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Exploration|Exploration]]'
 - '[[DATABASE/trait/Primal|Primal]]'
-trigger: null
 type: Feat
 
 ---

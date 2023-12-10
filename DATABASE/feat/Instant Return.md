@@ -1,20 +1,12 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Instant Return
-frequency: null
-heighten_level: null
 id: '3206'
 level: '16'
 name: Instant Return
-prerequisite: null
 rarity: Common
 requirement: You're wielding an unloaded firearm or crossbow.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Gunslinger|Gunslinger]]'
 trigger: An enemy misses you with a ranged attack using a type of ammunition appropriate

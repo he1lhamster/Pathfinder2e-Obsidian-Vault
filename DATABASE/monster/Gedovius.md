@@ -1,10 +1,7 @@
 ﻿---
 ac: '39'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Clawed Feet
@@ -13,15 +10,12 @@ creature_ability:
 - Rip and Rend
 - Sneak Attack
 - Statue
-creature_family: null
 dexterity: '+9'
 element: Earth
 fly_speed: '40'
 fortitude: '+27'
-hardness: null
 hp: '222'
 id: '2333'
-immunity: null
 intelligence: '+2'
 land_speed: '25'
 language:
@@ -36,8 +30,6 @@ rarity: Unique
 reflex: '+31'
 resistance:
 - physical 15 (except adamantine)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -51,12 +43,10 @@ source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 speed:
 - 25 feet
 - fly 40 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Earth|Earth]]'
@@ -65,7 +55,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+28'
 wisdom: '+6'
 

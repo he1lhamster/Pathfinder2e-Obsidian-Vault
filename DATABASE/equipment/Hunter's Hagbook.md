@@ -1,56 +1,19 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
 bulk: L
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '1709'
 item_category: Grimoires
-item_subcategory: null
-land_speed: null
 level: '9'
-max_speed: null
 name: Hunter's Hagbook
-onset: null
 price: 700 gp
-range: null
 rarity: Unique
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
-school: null
-size: null
 source: '[[DATABASE/source/Pathfinder 182. Graveclaw|Pathfinder #182: Graveclaw]]'
-spell: null
-stage: null
 subcategory: grimoire
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fortune|Fortune]]'
 - '[[DATABASE/trait/Grimoire|Grimoire]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Unique|Unique]]'
-trigger: null
 type: Item
-usage: null
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Hunter's Hagbook<span class="item-type">Item 9</span>

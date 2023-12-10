@@ -1,20 +1,12 @@
 ﻿---
 ac: '37'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+7'
-climb_speed: null
 constitution: '+4'
-creature_ability: null
-creature_family: null
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+23'
 hp: '270'
 id: '1583'
-immunity: null
 intelligence: '+5'
 land_speed: '25'
 language:
@@ -33,7 +25,6 @@ reflex: '+26'
 resistance:
 - '[[DATABASE/trait/Electricity|electricity]] 10'
 - '[[DATABASE/trait/Fire|fire]] 10'
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -67,7 +58,6 @@ strength: '+3'
 strength_req: '3'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -76,7 +66,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+29'
 wisdom: '+4'
 

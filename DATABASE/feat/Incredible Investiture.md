@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Incredible Investiture
-frequency: null
-heighten_level: null
 id: '795'
 level: '11'
 name: Incredible Investiture
 prerequisite: Charisma 16
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/General|General]]'
-trigger: null
 type: Feat
 
 ---

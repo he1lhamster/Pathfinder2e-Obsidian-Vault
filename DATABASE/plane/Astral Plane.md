@@ -1,11 +1,9 @@
 ﻿---
 alignment: N
-element: null
 id: '8'
 name: Astral Plane
 plane_category: Transitive Planes
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
 - '[[DATABASE/trait/Subjective Gravity|Subjective Gravity]]'

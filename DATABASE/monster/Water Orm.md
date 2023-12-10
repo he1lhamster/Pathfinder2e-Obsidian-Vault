@@ -1,25 +1,18 @@
 ﻿---
 ac: '30'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Slow Metabolism
 - Swallow Whole
 - Undetectable
 - Water Travel
-creature_family: null
 dexterity: '+5'
 element: Water
-fly_speed: null
 fortitude: '+21'
-hardness: null
 hp: '170'
 id: '856'
-immunity: null
 intelligence: '-3'
 land_speed: '20'
 language:
@@ -33,8 +26,6 @@ reflex: '+19'
 resistance:
 - cold 10
 - fire 10
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Huge
@@ -45,7 +36,6 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 20 feet
 - swim 50 feet
-spell: null
 strength: '+8'
 strength_req: '8'
 strongest_save:
@@ -60,7 +50,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+17'
 wisdom: '+5'
 

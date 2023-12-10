@@ -1,8 +1,6 @@
 ﻿---
 ac: '39'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+8'
 climb_speed: '20'
 constitution: '+9'
@@ -14,10 +12,8 @@ creature_ability:
 - Skip Between
 creature_family: '[[DATABASE/monsterfamily/Sahkil|Sahkil]]'
 dexterity: '+3'
-element: null
 fly_speed: '40'
 fortitude: '+32'
-hardness: null
 hp: '380'
 id: '1284'
 immunity:
@@ -36,9 +32,6 @@ name: Ximtal
 perception: '+30'
 rarity: Common
 reflex: '+26'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/spell/True Seeing|true seeing]]'
@@ -67,7 +60,6 @@ strength: '+9'
 strength_req: '9'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fiend|Fiend]]'
 - '[[DATABASE/trait/Sahkil|Sahkil]]'

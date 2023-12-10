@@ -1,8 +1,6 @@
 ﻿---
 ac: '18'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-3'
 climb_speed: '30'
 constitution: '+3'
@@ -12,10 +10,7 @@ creature_ability:
 - Viper Swarm Venom
 creature_family: '[[DATABASE/monsterfamily/Snake|Snake]]'
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+11'
-hardness: null
 hp: '50'
 id: '1316'
 immunity:
@@ -23,7 +18,6 @@ immunity:
 - '[[DATABASE/trait/Swarm|swarm]] mind'
 intelligence: '-4'
 land_speed: '30'
-language: null
 level: '4'
 max_speed: '30'
 name: Viper Swarm
@@ -34,8 +28,6 @@ resistance:
 - bludgeoning 5
 - piercing 5
 - slashing 3
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 60 feet'
@@ -48,7 +40,6 @@ speed:
 - 30 feet
 - climb 30 feet
 - swim 30 feet
-spell: null
 strength: '+1'
 strength_req: '1'
 strongest_save:

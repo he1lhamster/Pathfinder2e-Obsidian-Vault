@@ -1,11 +1,8 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Arqueros|Arqueros]]'
 - '[[DATABASE/deity/Dammerich|Dammerich]]'
@@ -18,22 +15,15 @@ deity:
 - '[[DATABASE/deity/Soralyon|Soralyon]]'
 - '[[DATABASE/deity/Trudd|Trudd]]'
 - '[[DATABASE/deity/Trudd|Trudd]]'
-domain: null
 duration: 20 minutes
 element: Earth
 heighten: 6th, 8th, 10th
 heighten_level: 4, 6, 8, 10
 id: '312'
-lesson: null
 level: '4'
-mystery: null
 name: Stoneskin
-patron_theme: null
 range: touch
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: 1 creature
@@ -43,7 +33,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Earth|Earth]]'
-trigger: null
 type: Spell
 
 ---

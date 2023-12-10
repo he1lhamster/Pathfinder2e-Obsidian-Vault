@@ -1,57 +1,23 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
 base_item: '[[DATABASE/weapon/Longsword|Longsword]]'
 bulk: '1'
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '389'
 item_category: Weapons
 item_subcategory: Specific Magic Weapons
-land_speed: null
 level: '14'
-max_speed: null
 name: Holy Avenger
-onset: null
 price: 4,500 gp
-range: null
 rarity: Uncommon
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
-size: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-spell: null
-stage: null
-subcategory: null
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Divine|Divine]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Good|Good]]'
 - '[[DATABASE/trait/Lawful|Lawful]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Item
 usage: held in 1 hand
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Holy Avenger<span class="item-type">Item 14</span>

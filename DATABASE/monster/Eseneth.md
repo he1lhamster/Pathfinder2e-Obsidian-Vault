@@ -1,10 +1,7 @@
 ﻿---
 ac: '39'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Mend Soul
@@ -15,10 +12,8 @@ creature_ability:
 - Sudden Stitch
 creature_family: '[[DATABASE/monsterfamily/Psychopomp|Psychopomp]]'
 dexterity: '+8'
-element: null
 fly_speed: '40'
 fortitude: '+28'
-hardness: null
 hp: '290'
 id: '2422'
 immunity:
@@ -40,8 +35,6 @@ reflex: '+32'
 resistance:
 - '[[DATABASE/trait/Negative|negative]] 15'
 - '[[DATABASE/trait/Poison|poison]] 15'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Lifesense|lifesense]] 120 feet'
@@ -67,7 +60,6 @@ strength: '+8'
 strength_req: '8'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Monitor|Monitor]]'
 - '[[DATABASE/trait/Psychopomp|Psychopomp]]'
@@ -76,7 +68,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+27'
 wisdom: '+4'
 

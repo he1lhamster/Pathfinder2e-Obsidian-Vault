@@ -1,40 +1,26 @@
 ﻿---
 actions: '[two-actions]'
-area: null
 bloodline: '[[DATABASE/sorcererbloodline/Phoenix|Phoenix]]'
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
-duration: null
 element: Fire
-heighten: null
 heighten_level: '5'
 id: '852'
-lesson: null
 level: '5'
-mystery: null
 name: Cleansing Flames
-patron_theme: null
 range: touch
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Pathfinder 168. King of the Mountain|Pathfinder #168: King
   of the Mountain]]'
 target: 1 creature
-tradition: null
 trait:
 - '[[DATABASE/trait/Fire|Fire]]'
 - '[[DATABASE/trait/Healing|Healing]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Sorcerer|Sorcerer]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Focus
 
 ---

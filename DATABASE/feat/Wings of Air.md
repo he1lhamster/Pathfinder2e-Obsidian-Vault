@@ -1,26 +1,19 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Wings of Air
 frequency: once per day
-heighten_level: null
 id: '2600'
+leads_to: '[[DATABASE/feat/Eternal Wings (Sylph)|Eternal Wings (Sylph)]]'
 level: '9'
 name: Wings of Air
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Morph|Morph]]'
 - '[[DATABASE/trait/Primal|Primal]]'
 - '[[DATABASE/trait/Sylph|Sylph]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Feat
 
 ---

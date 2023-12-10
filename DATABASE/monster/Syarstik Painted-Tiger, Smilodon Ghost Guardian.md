@@ -2,9 +2,7 @@
 ac: '21'
 alignment: N
 all_resistance: '5'
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Awaken Painting
@@ -12,12 +10,9 @@ creature_ability:
 - Rejuvenation
 - Site Bound
 - Sneak Attack
-creature_family: null
 dexterity: '+5'
-element: null
 fly_speed: '30'
 fortitude: '+9'
-hardness: null
 hp: 40 ( negative healing , rejuvenation)
 id: '1770'
 immunity:
@@ -28,7 +23,6 @@ immunity:
 - precision
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-1'
-land_speed: null
 language:
 - '[[DATABASE/language/Hallit|Hallit]]'
 level: '5'
@@ -42,8 +36,6 @@ resistance:
 - '[[DATABASE/equipment/Ghost Touch|ghost touch]]'
 - or [[DATABASE/trait/Positive|positive]] ; double vs non- [[DATABASE/trait/Magical|magical]]
   )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 60 feet'
@@ -57,12 +49,10 @@ source: '[[DATABASE/source/Pathfinder 175. Broken Tusk Moon|Pathfinder #175: Bro
   Tusk Moon]]'
 speed:
 - fly 30 feet
-spell: null
 strength: '-5'
 strength_req: '-5'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Ghost|Ghost]]'
 - '[[DATABASE/trait/Incorporeal|Incorporeal]]'
@@ -73,7 +63,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+16'
 wisdom: '+5'
 

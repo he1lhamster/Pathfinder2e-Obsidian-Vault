@@ -1,11 +1,9 @@
 ﻿---
 alignment: N
-element: null
 id: '23'
 name: The Harrow Court
 plane_category: Dimensions
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 190. The Choosing|Pathfinder #190: The Choosing]]'
 trait:
 - '[[DATABASE/trait/Finite|Finite]]'

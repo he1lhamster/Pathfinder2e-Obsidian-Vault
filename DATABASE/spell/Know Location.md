@@ -1,32 +1,18 @@
 ﻿---
-actions: null
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: until the next time you make your daily preparations
-element: null
 heighten: 3rd, 5th, 7th
 heighten_level: 1, 3, 5, 7
 id: '1429'
-lesson: null
 level: '1'
-mystery: null
 name: Know Location
-patron_theme: null
 range: 1 mile
 rarity: Rare
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Pathfinder 194. Cult of the Cave Worm|Pathfinder #194:
   Cult of the Cave Worm]]'
-target: null
 tradition:
 - Divine
 - Occult
@@ -35,7 +21,6 @@ trait:
 - '[[DATABASE/trait/Detection|Detection]]'
 - '[[DATABASE/trait/Divination|Divination]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Spell
 
 ---

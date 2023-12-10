@@ -1,8 +1,6 @@
 ﻿---
-area: null
 cost: "rare oils worth a total value of 10 gp \xD7 the target\u2019s level"
 duration: 1 year or until dismissed
-element: null
 heighten: 6th
 heighten_level: 2, 6
 id: '14'
@@ -12,11 +10,7 @@ primary_check: '[[DATABASE/skill/Arcana|Arcana]] (expert), [[DATABASE/skill/Occu
   (expert), or [[DATABASE/skill/Religion|Religion]] (expert)'
 range: 10 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Enchantment
-secondary_casters: null
-secondary_check: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: "1 creature of a level no greater than double theinveigleritual\u2019s level"
 trait:

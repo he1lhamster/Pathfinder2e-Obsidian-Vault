@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Advanced Red Mantis Magic
-frequency: null
-heighten_level: null
 id: '897'
+leads_to: '[[DATABASE/feat/Vernai Training|Vernai Training]]'
 level: '6'
 name: Advanced Red Mantis Magic
 prerequisite: '[[DATABASE/feat/Basic Red Mantis Magic|Basic Red Mantis Magic]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/World Guide|World Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

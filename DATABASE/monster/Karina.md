@@ -1,24 +1,17 @@
 ﻿---
 ac: '21'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Grave Blight
 - Mocking Cry
 - Sound Imitation
-creature_family: null
 dexterity: '+5'
-element: null
 fly_speed: '40'
 fortitude: '+12'
-hardness: null
 hp: '95'
 id: '1437'
-immunity: null
 intelligence: '-2'
 land_speed: '10'
 language:
@@ -29,9 +22,6 @@ name: Karina
 perception: '+12'
 rarity: Common
 reflex: '+15'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -44,12 +34,10 @@ source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
 speed:
 - 10 feet
 - fly 40 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

@@ -1,31 +1,14 @@
 ﻿---
 actions: '[free-action]'
-area: null
-bloodline: null
 component:
 - Verbal
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
-heighten: null
 heighten_level: '10'
 id: '394'
-lesson: null
 level: '10'
-mystery: null
 name: Hero's Defiance
-patron_theme: null
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
-tradition: null
 trait:
 - '[[DATABASE/trait/Champion|Champion]]'
 - '[[DATABASE/trait/Healing|Healing]]'

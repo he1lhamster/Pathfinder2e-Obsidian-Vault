@@ -1,21 +1,14 @@
 ﻿---
 ac: '18'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Dance with Death
 - Destructive Finale
 - Rhapsodic Flourish
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+6'
-hardness: null
 hp: 30 ( negative healing )
 id: '1857'
 immunity:
@@ -42,8 +35,6 @@ resistance:
 - piercing 5
 - slashing 5
 - '[[DATABASE/trait/Sonic|sonic]] 5'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -56,19 +47,16 @@ skill:
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 speed:
 - 25 feet
-spell: null
 strength: '+1'
 strength_req: '1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Undead|Undead]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+9'
 wisdom: '+2'
 

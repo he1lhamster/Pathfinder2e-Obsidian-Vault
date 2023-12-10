@@ -1,10 +1,7 @@
 ﻿---
 ac: '20'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Constrict
@@ -12,10 +9,8 @@ creature_ability:
 - Mundane Appearance
 creature_family: '[[DATABASE/monsterfamily/Tsukumogami|Tsukumogami]]'
 dexterity: '+4'
-element: null
 fly_speed: '30'
 fortitude: '+8'
-hardness: null
 hp: '20'
 id: '1349'
 immunity:
@@ -30,7 +25,6 @@ immunity:
 - '[[DATABASE/trait/Poison|poison]]'
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '+0'
-land_speed: null
 language:
 - '[[DATABASE/language/Common|Common]]'
 level: '2'
@@ -41,8 +35,6 @@ rarity: Common
 reflex: '+10'
 resistance:
 - bludgeoning 5
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) 30 feet'
@@ -54,12 +46,10 @@ skill:
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - fly 30 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Kami|Kami]]'
 type: Creature

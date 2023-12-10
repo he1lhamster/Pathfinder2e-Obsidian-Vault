@@ -1,8 +1,6 @@
 ﻿---
 bulk: '1'
 damage: 1d4 P
-deity: null
-favored_weapon: null
 hands: '1'
 id: '355'
 item_category: Weapons
@@ -12,7 +10,6 @@ name: Wrist Launcher
 price: 3 gp
 range: 30 ft.
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Firebrands|Firebrands]]'
 trait:
 - '[[DATABASE/trait/Agile|Agile]]'

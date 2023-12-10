@@ -1,8 +1,6 @@
 ﻿---
 ac: '23'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
 climb_speed: '25'
 constitution: '+2'
@@ -12,12 +10,9 @@ creature_ability:
 - Thrown Weapon Mastery
 - Twisting Tail
 - Volcanic Eruption
-creature_family: null
 dexterity: '+3'
 element: Fire
-fly_speed: null
 fortitude: '+14'
-hardness: null
 hp: '90'
 id: '1545'
 immunity:
@@ -36,9 +31,6 @@ name: Charau-ka Dragon Priest
 perception: '+15'
 rarity: Uncommon
 reflex: '+12'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -69,7 +61,6 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Charau-ka|Charau-ka]]'
 - '[[DATABASE/trait/Dragon|Dragon]]'
@@ -80,7 +71,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+15'
 wisdom: '+5'
 

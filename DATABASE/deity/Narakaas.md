@@ -24,12 +24,10 @@ follower_alignment:
 id: '143'
 name: Narakaas
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Diplomacy|Diplomacy]]'
 source: '[[DATABASE/source/Pathfinder 186. Ghost King''s Rage|Pathfinder #186: Ghost
   King''s Rage]]'
-trait: null
 type: Deity
 
 ---

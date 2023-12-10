@@ -1,10 +1,7 @@
 ﻿---
 ac: '42'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Anonymity
@@ -12,14 +9,10 @@ creature_ability:
 - Gardener's Resolve
 - Invaded
 - Steady Spellcasting
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+27'
 hp: '335'
 id: '1651'
-immunity: null
 intelligence: '+6'
 land_speed: '25'
 language:
@@ -33,9 +26,6 @@ name: Worm Prophet
 perception: '+28'
 rarity: Rare
 reflex: '+30'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Arcana|Arcana]] +32'
@@ -90,16 +80,13 @@ strength: '+1'
 strength_req: '1'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+33'
 wisdom: '+4'
 

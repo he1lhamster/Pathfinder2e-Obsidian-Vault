@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Foolproof Instructions
-frequency: null
-heighten_level: null
 id: '2232'
 level: '8'
 name: Foolproof Instructions
 prerequisite: '[[DATABASE/feat/Scrollmaster Dedication|Scrollmaster Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

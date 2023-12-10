@@ -2,7 +2,6 @@
 id: '428'
 name: Mindshift
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 trait:
 - Mindshift

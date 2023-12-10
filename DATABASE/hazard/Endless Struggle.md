@@ -2,9 +2,7 @@
 ac: '27'
 all_resistance: '10'
 complexity: Complex
-element: null
 fortitude: '+12'
-hardness: null
 hazard_type: Haunt
 hp: 66, negative healing
 id: '283'
@@ -19,8 +17,6 @@ resistance:
 - all 10 (except [[DATABASE/trait/Force|force]]
 - '[[DATABASE/equipment/Ghost Touch|ghost touch]]'
 - or [[DATABASE/trait/Positive|positive]] ; doubleresistance vs. non-magical)
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
 - '[[DATABASE/trait/Complex|Complex]]'

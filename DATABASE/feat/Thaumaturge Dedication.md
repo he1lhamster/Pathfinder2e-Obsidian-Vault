@@ -1,25 +1,18 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Thaumaturge Dedication
-frequency: null
-heighten_level: null
 id: '3743'
+leads_to: '[[DATABASE/feat/Basic Thaumaturgy|Basic Thaumaturgy]] , [[DATABASE/feat/Implement
+  Initiate|Implement Initiate]] , [[DATABASE/feat/Magical Knowledge|Magical Knowledge]]
+  , [[DATABASE/feat/Resolute|Resolute]]'
 level: '2'
 name: Thaumaturge Dedication
 prerequisite: Charisma 14
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Multiclass|Multiclass]]'
-trigger: null
 type: Feat
 
 ---

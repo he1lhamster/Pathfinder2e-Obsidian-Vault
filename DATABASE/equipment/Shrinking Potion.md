@@ -1,56 +1,24 @@
 ﻿---
-ac: null
 actions: '[one-action]'
-alignment: null
-base_item: null
 bulk: L
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '197'
 item_category: Consumables
 item_subcategory: Potions
-land_speed: null
-level: '8'
-max_speed: null
+level: '4'
 name: Shrinking Potion
 onset: 1 minute
-price: 90 gp
-range: null
+price: 15 gp
 rarity: Common
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
-size: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-spell: null
-stage: null
 subcategory: consumable/potion
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Consumable|Consumable]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Potion|Potion]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Item
 usage: held in 1 hand
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Shrinking Potion<span class="item-type">Item 4+</span>

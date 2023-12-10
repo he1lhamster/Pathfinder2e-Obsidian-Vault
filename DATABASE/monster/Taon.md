@@ -1,8 +1,6 @@
 ﻿---
 ac: '38'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
 climb_speed: '25'
 constitution: '+4'
@@ -13,12 +11,8 @@ creature_ability:
 - Paralysis
 - paralyzed
 - poison
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+28'
-hardness: null
 hp: 230 ( negative healing )
 id: '1715'
 immunity:
@@ -36,9 +30,6 @@ name: Taon
 perception: '+25'
 rarity: Unique
 reflex: '+26'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -53,12 +44,10 @@ source: '[[DATABASE/source/Pathfinder 173. Doorway to the Red Star|Pathfinder #1
 speed:
 - 50 feet
 - climb 25 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Undead|Undead]]'
 - '[[DATABASE/trait/Unique|Unique]]'
@@ -66,7 +55,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+23'
 wisdom: '+4'
 

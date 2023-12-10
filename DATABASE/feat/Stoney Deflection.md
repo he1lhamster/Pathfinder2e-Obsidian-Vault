@@ -1,24 +1,16 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Stoney Deflection
-frequency: null
-heighten_level: null
 id: '4373'
 level: '6'
 name: Stoney Deflection
 prerequisite: '[[DATABASE/feat/Stone Brawler Dedication|Stone Brawler Dedication]]'
 rarity: Common
 requirement: You are in Stonestrike Stance.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 195. Heavy is the Crown|Pathfinder #195: Heavy
   is the Crown]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

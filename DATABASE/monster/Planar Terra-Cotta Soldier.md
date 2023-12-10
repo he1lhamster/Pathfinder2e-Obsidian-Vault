@@ -1,21 +1,14 @@
 ﻿---
 ac: '30'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Attack of Opportunity
 - Planar Step
 - Shield Block
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+24'
-hardness: null
 hp: '250'
 id: '1469'
 immunity:
@@ -42,10 +35,6 @@ name: Planar Terra-Cotta Soldier
 perception: '+21'
 rarity: Rare
 reflex: '+21'
-resistance: null
-rus_type_level: null
-school: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +23'
@@ -54,17 +43,14 @@ source: '[[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #
   Despair on Danger Island]]'
 speed:
 - 25 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
 weakness:

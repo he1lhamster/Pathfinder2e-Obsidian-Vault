@@ -1,25 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Efficient Alchemy (Paragon)
-frequency: null
-heighten_level: null
 id: '1163'
 level: '20'
 name: Efficient Alchemy (Paragon)
-prerequisite: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 150. Broken Promises|Pathfinder #150: Broken
   Promises]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Alchemist|Alchemist]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

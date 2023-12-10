@@ -1,22 +1,15 @@
 ﻿---
 ac: '35'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Breath of Energy Technique
 - Flurry of Blows
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+27'
 hp: '300'
 id: '1487'
-immunity: null
 intelligence: '+0'
 land_speed: '45'
 language:
@@ -29,9 +22,6 @@ name: Arms Of Balance
 perception: '+27'
 rarity: Uncommon
 reflex: '+27'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +29'
@@ -49,18 +39,15 @@ strongest_save:
 - Fortitude
 - Reflex
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
 - Reflex
 - Will
-weakness: null
 will: '+27'
 wisdom: '+4'
 

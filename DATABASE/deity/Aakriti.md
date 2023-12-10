@@ -26,11 +26,9 @@ follower_alignment:
 id: '261'
 name: Aakriti
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]]'
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-trait: null
 type: Deity
 
 ---

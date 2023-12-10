@@ -1,39 +1,27 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: varies
-element: null
 heighten: 9th
 heighten_level: 5, 9
 id: '1182'
 lesson: '[[DATABASE/witchlesson/Lesson of Bargains|Lesson of Bargains]]'
 level: '5'
-mystery: null
 name: Over the Coals
-patron_theme: null
 range: 120 feet
 rarity: Rare
-requirement: null
-rus_type_level: null
 saving_throw: Will
 school: Necromancy
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 target: 1 creature
-tradition: null
 trait:
 - '[[DATABASE/trait/Hex|Hex]]'
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Witch|Witch]]'
-trigger: null
 type: Focus
 
 ---

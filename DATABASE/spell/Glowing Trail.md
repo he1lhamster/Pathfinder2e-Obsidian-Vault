@@ -1,32 +1,18 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 1 hour
-element: null
 heighten: 3rd, 5th, 7th, 9th
 heighten_level: 1, 3, 5, 7, 9
 id: '1428'
-lesson: null
 level: '1'
-mystery: null
 name: Glowing Trail
-patron_theme: null
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Pathfinder 194. Cult of the Cave Worm|Pathfinder #194:
   Cult of the Cave Worm]]'
-target: null
 tradition:
 - Arcane
 - Divine
@@ -35,7 +21,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Spell
 
 ---

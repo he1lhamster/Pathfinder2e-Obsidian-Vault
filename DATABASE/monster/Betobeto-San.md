@@ -2,9 +2,7 @@
 ac: '33'
 alignment: N
 all_resistance: '10'
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Fearsense
@@ -12,12 +10,8 @@ creature_ability:
 - Shadow Invisibility
 - Shadow Step
 - Stepping Decoy
-creature_family: null
 dexterity: '+7'
-element: null
-fly_speed: null
 fortitude: '+19'
-hardness: null
 hp: '170'
 id: '1079'
 immunity:
@@ -41,8 +35,6 @@ resistance:
 - '[[DATABASE/equipment/Ghost Touch|ghost touch]]'
 - or [[DATABASE/trait/Positive|positive]]
 - double resistance against non- [[DATABASE/trait/Magical|magical]] )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 - fearsense (precise) 60 feet
@@ -54,12 +46,10 @@ skill:
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 40 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Incorporeal|Incorporeal]]'
 - '[[DATABASE/trait/Shadow|Shadow]]'
@@ -69,7 +59,6 @@ type: Creature
 vision: Greater darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+22'
 wisdom: '+4'
 

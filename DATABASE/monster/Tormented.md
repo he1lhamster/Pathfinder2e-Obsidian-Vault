@@ -1,10 +1,7 @@
 ﻿---
 ac: '35'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+8'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Burning
@@ -17,12 +14,9 @@ creature_ability:
 - ''
 - Starvation
 - Tortured Gaze
-creature_family: null
 dexterity: '+4'
-element: null
 fly_speed: '25'
 fortitude: '+22'
-hardness: null
 hp: 250 ( negative healing )
 id: '1907'
 immunity:
@@ -43,9 +37,6 @@ name: Tormented
 perception: '+27'
 rarity: Common
 reflex: '+26'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Lifesense|lifesense]] 60 feet'
@@ -59,12 +50,10 @@ source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 speed:
 - 25 feet
 - fly 25 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Undead|Undead]]'
 type: Creature

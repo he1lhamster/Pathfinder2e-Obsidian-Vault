@@ -4,9 +4,7 @@ level: '2'
 name: Psychic
 prerequisite: Intelligence 14 or Charisma 14
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-trait: null
 type: Archetype
 
 ---

@@ -1,20 +1,12 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
 element: Metal
 feat: Conductive Sphere
-frequency: null
-heighten_level: null
 id: '4259'
 level: '8'
 name: Conductive Sphere
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Electricity|Electricity]]'
 - '[[DATABASE/trait/Impulse|Impulse]]'
@@ -22,7 +14,6 @@ trait:
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Metal|Metal]]'
 - '[[DATABASE/trait/Primal|Primal]]'
-trigger: null
 type: Feat
 
 ---

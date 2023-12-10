@@ -1,27 +1,15 @@
 ﻿---
 actions: '[two-actions]'
-area: null
 bloodline: '[[DATABASE/sorcererbloodline/Hag|Hag]]'
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
-heighten: null
 heighten_level: '3'
 id: '26'
-lesson: null
 level: '3'
-mystery: null
 name: Blindness
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Fortitude
 school: Necromancy
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -34,7 +22,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Incapacitation|Incapacitation]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
-trigger: null
 type: Spell
 
 ---

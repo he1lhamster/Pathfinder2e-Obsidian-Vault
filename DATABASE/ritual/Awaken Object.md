@@ -1,19 +1,13 @@
 ﻿---
-area: null
 cost: crushed gems and spices worth 250 gp
 duration: unlimited
-element: null
-heighten: null
 heighten_level: '6'
 id: '53'
 level: '6'
 name: Awaken Object
 primary_check: '[[DATABASE/skill/Arcana|Arcana]] (expert) or [[DATABASE/skill/Occultism|Occultism]]
   (expert)'
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Divination
 secondary_casters: '2'
 secondary_check: '[[DATABASE/skill/Crafting|Crafting]] , Arcana or Occultism (whichever

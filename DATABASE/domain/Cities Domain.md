@@ -1,7 +1,5 @@
 ﻿---
-advanced_apocryphal_spell: null
 advanced_domain_spell: '[[DATABASE/spell/Pulse of the City|Pulse of the City]]'
-apocryphal_spell: null
 deity:
 - '[[DATABASE/deity/Abadar|Abadar]]'
 - '[[DATABASE/deity/Ayrzul|Ayrzul]]'
@@ -27,9 +25,7 @@ domain_spell: '[[DATABASE/spell/Face in the Crowd|Face in the Crowd]]'
 id: '3'
 name: Cities Domain
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Domain
 
 ---

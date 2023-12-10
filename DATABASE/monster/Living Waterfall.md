@@ -1,10 +1,7 @@
 ﻿---
 ac: '20'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Drench
@@ -13,9 +10,7 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Elemental, Water|Elemental, Water]]'
 dexterity: '+3'
 element: Water
-fly_speed: null
 fortitude: '+14'
-hardness: null
 hp: '90'
 id: '197'
 immunity:
@@ -35,8 +30,6 @@ rarity: Common
 reflex: '+12'
 resistance:
 - fire 5
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Large
@@ -47,7 +40,6 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 20 feet
 - swim 60 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
@@ -61,7 +53,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+10'
 wisdom: '+1'
 

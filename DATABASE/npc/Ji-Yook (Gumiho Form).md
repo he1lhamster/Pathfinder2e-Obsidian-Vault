@@ -1,10 +1,7 @@
 ﻿---
 ac: '42'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Change Shape
@@ -14,10 +11,7 @@ creature_ability:
 - Sneak Attack
 - 'Toughest Teamwork: Unsettling Murmur'
 - Waylay
-creature_family: null
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+27'
 hp: '331'
 id: '1522'
@@ -36,8 +30,6 @@ name: Ji-Yook (Gumiho Form)
 perception: '+29'
 rarity: Unique
 reflex: '+34'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - emotionsense
@@ -51,12 +43,10 @@ source: '[[DATABASE/source/Pathfinder 168. King of the Mountain|Pathfinder #168:
   of the Mountain]]'
 speed:
 - 25 feet; waylay
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Kitsune|Kitsune]]'
@@ -66,7 +56,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+29'
 wisdom: '+3'
 

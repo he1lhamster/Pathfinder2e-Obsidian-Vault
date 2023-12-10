@@ -1,8 +1,6 @@
 ﻿---
 ac: '8'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
 climb_speed: '10'
 constitution: '+2'
@@ -13,10 +11,7 @@ creature_ability:
 - Weak Acid
 creature_family: '[[DATABASE/monsterfamily/Ooze|Ooze]]'
 dexterity: '-2'
-element: null
-fly_speed: null
 fortitude: '+7'
-hardness: null
 hp: '45'
 id: '751'
 immunity:
@@ -28,16 +23,12 @@ immunity:
 - '[[DATABASE/trait/Visual|visual]]'
 intelligence: '-5'
 land_speed: '10'
-language: null
 level: '1'
 max_speed: '10'
 name: Giant Amoeba
 perception: '+4'
 rarity: Common
 reflex: '+3'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - motion sense 60 feet
 - no vision
@@ -50,7 +41,6 @@ speed:
 - 10 feet
 - climb 10 feet
 - swim 10 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
@@ -61,7 +51,6 @@ trait:
 - '[[DATABASE/trait/Mindless|Mindless]]'
 - '[[DATABASE/trait/Ooze|Ooze]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
 weakness:

@@ -1,7 +1,6 @@
 ﻿---
 id: '56'
 name: Shaken
-source: null
 
 ---
 # Shaken

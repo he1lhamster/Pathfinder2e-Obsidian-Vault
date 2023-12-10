@@ -1,54 +1,16 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
-bulk: L
-burrow_speed: null
-climb_speed: null
-damage: Varies
-deity:
-- '[[DATABASE/deity/Laudinmio|Laudinmio]]'
-duration: null
-element: null
-favored_weapon: '[[DATABASE/deity/Laudinmio|Laudinmio]]'
-fly_speed: null
-fortitude: null
-frequency: null
-hands: '1'
-hardness: null
-hp: null
 id: '73'
-item_category: Weapons
-item_subcategory: Base Weapons
-land_speed: null
+item_category: Services
+item_subcategory: Spellcasting
 level: '0'
-max_speed: null
 name: Spellcasting
-onset: null
-price: (Varies)
-range: 20 ft.
-rarity: Common
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
-school: null
-size: null
+price: 1,800 gp (plus any cost required to cast the specific spell)
+rarity: Uncommon
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-spell: null
-stage: null
 subcategory: service
-swim_speed: null
 trait:
-- '[[DATABASE/trait/Varies|Varies]]'
-trigger: null
-type: Weapon
-usage: null
-weapon_category: Martial
-weapon_group: '[[DATABASE/weapongroup/Bomb|Bomb]]'
-weapon_type: Ranged
+- '[[DATABASE/trait/Uncommon|Uncommon]]'
+type: Item
 
 ---
 # Spellcasting<span class="item-type">Item 0+</span>

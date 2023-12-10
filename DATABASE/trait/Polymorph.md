@@ -2,7 +2,6 @@
 id: '127'
 name: Polymorph
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - Polymorph

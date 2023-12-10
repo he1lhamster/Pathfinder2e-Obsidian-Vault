@@ -1,25 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Decry Thief
-frequency: null
-heighten_level: null
 id: '1155'
 level: '4'
 name: Decry Thief
 prerequisite: '[[DATABASE/feat/Zephyr Guard Dedication|Zephyr Guard Dedication]] ;
   Trained in [[DATABASE/skill/Intimidation|Intimidation]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 149. Against the Scarlet Triad|Pathfinder #149:
   Against the Scarlet Triad]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

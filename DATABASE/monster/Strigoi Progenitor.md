@@ -1,10 +1,7 @@
 ﻿---
 ac: '34'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Create Spawn
@@ -17,10 +14,8 @@ creature_ability:
 - Shadow Form
 creature_family: '[[DATABASE/monsterfamily/Vampire, Strigoi|Vampire, Strigoi]]'
 dexterity: '+8'
-element: null
 fly_speed: '25'
 fortitude: '+24'
-hardness: null
 hp: 180 (coffin restoration, fast healing 10, negative healing )
 id: '1944'
 immunity:
@@ -45,8 +40,6 @@ reflex: '+26'
 resistance:
 - all physical 15 (except [[DATABASE/trait/Magical|magical]] [[DATABASE/equipment/Silver
   Weapon|silver]] weapons or magical weapons sheddingbright light)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 size: Medium
@@ -102,7 +95,6 @@ strength: '+8'
 strength_req: '8'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Shadow|Shadow]]'

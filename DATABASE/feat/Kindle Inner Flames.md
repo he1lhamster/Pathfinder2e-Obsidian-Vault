@@ -1,27 +1,19 @@
 ﻿---
 actions: '[one-action]'
-cost: null
 element: Fire
 feat: Kindle Inner Flames
-frequency: null
 heighten_level: 8, 12
 id: '4244'
 level: '8'
 name: Kindle Inner Flames
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fire|Fire]]'
 - '[[DATABASE/trait/Impulse|Impulse]]'
 - '[[DATABASE/trait/Kineticist|Kineticist]]'
 - '[[DATABASE/trait/Primal|Primal]]'
 - '[[DATABASE/trait/Stance|Stance]]'
-trigger: null
 type: Feat
 
 ---

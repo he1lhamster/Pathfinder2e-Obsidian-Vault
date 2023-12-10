@@ -1,8 +1,5 @@
 ﻿---
-area: null
 cost: 25 gp
-duration: null
-element: null
 heighten: '+1'
 heighten_level: 5, 6, 7, 8, 9, 10
 id: '34'
@@ -12,13 +9,10 @@ primary_check: '[[DATABASE/skill/Nature|Nature]] , [[DATABASE/skill/Religion|Rel
   ,or [[DATABASE/skill/Occultism|Occultism]] (expert)'
 range: 40 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Conjuration
 secondary_casters: '1'
 secondary_check: '[[DATABASE/skill/Diplomacy|Diplomacy]] or [[DATABASE/skill/Society|Society]]'
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-target: null
 trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

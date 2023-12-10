@@ -1,8 +1,6 @@
 ﻿---
 ac: '34'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
 climb_speed: '30'
 constitution: '+2'
@@ -18,10 +16,7 @@ creature_ability:
 - Swift Leap
 creature_family: '[[DATABASE/monsterfamily/Ghoul|Ghoul]]'
 dexterity: '+7'
-element: null
-fly_speed: null
 fortitude: '+20'
-hardness: null
 hp: 230 ( negative healing )
 id: '2155'
 immunity:
@@ -45,9 +40,6 @@ name: Ghoul Razorclaw
 perception: '+25'
 rarity: Uncommon
 reflex: '+26'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -67,12 +59,10 @@ source: '[[DATABASE/source/Pathfinder 184. The Ghouls Hunger|Pathfinder #184: Th
 speed:
 - 40 feet
 - climb 30 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Ghoul|Ghoul]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
@@ -81,7 +71,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+23'
 wisdom: '+4'
 

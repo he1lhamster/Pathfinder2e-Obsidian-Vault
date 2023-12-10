@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Acute Vision
-frequency: null
-heighten_level: null
 id: '130'
+leads_to: '[[DATABASE/feat/Acute Scent|Acute Scent]]'
 level: '1'
 name: Acute Vision
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Barbarian|Barbarian]]'
-trigger: null
 type: Feat
 
 ---

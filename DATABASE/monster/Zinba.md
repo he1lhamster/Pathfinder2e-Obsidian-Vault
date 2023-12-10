@@ -1,7 +1,6 @@
 ﻿---
 ac: '28'
 alignment: N
-all_resistance: null
 burrow_speed: '10'
 charisma: '+0'
 climb_speed: '30'
@@ -13,15 +12,10 @@ creature_ability:
 - Tighten Coils
 - Zinba Restoration
 - Zinba Venom
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+23'
-hardness: null
 hp: '220'
 id: '1443'
-immunity: null
 intelligence: '-3'
 land_speed: '30'
 language:
@@ -32,9 +26,6 @@ name: Zinba
 perception: '+20'
 rarity: Rare
 reflex: '+20'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 60 feet'
@@ -50,7 +41,6 @@ speed:
 - burrow 10 feet
 - climb 30 feet
 - swim 30 feet
-spell: null
 strength: '+8'
 strength_req: '8'
 strongest_save:
@@ -64,7 +54,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+18'
 wisdom: '+3'
 

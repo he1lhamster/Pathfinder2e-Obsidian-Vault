@@ -1,10 +1,7 @@
 ﻿---
 ac: '27'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '-3'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Greater Constrict
@@ -13,10 +10,7 @@ creature_ability:
 - Slow
 creature_family: '[[DATABASE/monsterfamily/Zombie|Zombie]]'
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+22'
-hardness: null
 hp: 290 ( negative healing )
 id: '1923'
 immunity:
@@ -28,16 +22,12 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '45'
-language: null
 level: '11'
 max_speed: '45'
 name: Zombie Mammoth
 perception: '+17'
 rarity: Common
 reflex: '+15'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Huge
@@ -46,12 +36,10 @@ skill:
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 speed:
 - 45 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Mindless|Mindless]]'
 - '[[DATABASE/trait/Undead|Undead]]'

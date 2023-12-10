@@ -10,9 +10,7 @@ level: '0'
 name: Meteor Shield
 price: 4 gp
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-speed_penalty: null
 trait:
 - '[[DATABASE/trait/Shield Throw|Shield Throw 30 ft.]]'
 type: Shield

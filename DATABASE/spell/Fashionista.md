@@ -1,28 +1,16 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 1 hour
-element: null
 heighten: '+2'
 heighten_level: 1, 3, 5, 7, 9
 id: '1283'
-lesson: null
 level: '1'
-mystery: null
 name: Fashionista
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Firebrands|Firebrands]]'
 target: 1 willing creature
@@ -31,7 +19,6 @@ tradition:
 - Occult
 trait:
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Spell
 
 ---

@@ -1,58 +1,27 @@
 ﻿---
-ac: null
 actions: '[one-action]'
-alignment: null
-base_item: null
 bulk: L
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
 duration: 4 hours
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '627'
 item_category: Alchemical Items
 item_subcategory: Drugs
-land_speed: null
 level: '3'
-max_speed: null
 name: Shiver
-onset: null
 price: 10 gp
-range: null
 rarity: Common
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
 saving_throw: DC 19 Fortitude
-school: null
-size: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
-spell: null
 stage: "Stage 1: whenever you become frightened, reduce thatcondition\u2019s value\
   \ by 1 (10 minutes)Stage 2: clumsy 2 (1 hour)Stage 3: asleep (1 hour)"
 subcategory: alchemical/drug
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Alchemical|Alchemical]]'
 - '[[DATABASE/trait/Consumable|Consumable]]'
 - '[[DATABASE/trait/Drug|Drug]]'
 - '[[DATABASE/trait/Ingested|Ingested]]'
 - '[[DATABASE/trait/Poison|Poison]]'
-trigger: null
 type: Item
 usage: held in 1 hand
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Shiver<span class="item-type">Item 3</span>

@@ -1,10 +1,7 @@
 ﻿---
 ac: '33'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Golem Antimagic
@@ -14,12 +11,8 @@ creature_ability:
 - Necrotic Pulse
 - ''
 - Vulnerable to Stone to Flesh
-creature_family: null
 dexterity: '-1'
-element: null
-fly_speed: null
 fortitude: '+25'
-hardness: null
 hp: '195'
 id: '1572'
 immunity:
@@ -41,17 +34,12 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '20'
-language: null
 level: '12'
 max_speed: '20'
 name: Lazurite-Infused Stone Golem
 perception: '+22'
 rarity: Rare
 reflex: '+19'
-resistance: null
-rus_type_level: null
-school: null
-sense: null
 size: Large
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +28'
@@ -59,22 +47,18 @@ source: '[[DATABASE/source/Pathfinder 148. Fires of the Haunted City|Pathfinder 
   Fires of the Haunted City]]'
 speed:
 - 20 feet
-spell: null
 strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Golem|Golem]]'
 - '[[DATABASE/trait/Mindless|Mindless]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+20'
 wisdom: '+0'
 

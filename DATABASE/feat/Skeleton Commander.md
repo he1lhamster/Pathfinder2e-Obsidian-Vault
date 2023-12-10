@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Skeleton Commander
-frequency: null
-heighten_level: null
 id: '3542'
 level: '13'
 name: Skeleton Commander
 prerequisite: Expert in [[DATABASE/skill/Religion|Religion]]
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Skeleton|Skeleton]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

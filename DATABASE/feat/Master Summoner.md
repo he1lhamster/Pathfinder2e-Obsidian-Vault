@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Master Summoner
-frequency: null
-heighten_level: null
 id: '2912'
+leads_to: '[[DATABASE/feat/Legendary Summoner|Legendary Summoner]]'
 level: '6'
 name: Master Summoner
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Summoner|Summoner]]'
-trigger: null
 type: Feat
 
 ---

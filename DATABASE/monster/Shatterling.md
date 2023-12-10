@@ -1,10 +1,7 @@
 ﻿---
 ac: '36'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Attack of Opportunity
@@ -16,28 +13,20 @@ creature_ability:
 - Senses
 - Vanish in Reflections
 - Wipe Away Cracks
-creature_family: null
 dexterity: '+8'
-element: null
-fly_speed: null
 fortitude: '+24'
-hardness: null
 hp: '305'
 id: '1006'
 immunity:
 - bleed
 intelligence: '+0'
 land_speed: '40'
-language: null
 level: '14'
 max_speed: '40'
 name: Shatterling
 perception: '+26'
 rarity: Uncommon
 reflex: '+30'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - mirror senses
@@ -53,12 +42,10 @@ source: '[[DATABASE/source/Pathfinder 160. Assault on Hunting Lodge Seven|Pathfi
   #160: Assault on Hunting Lodge Seven]]'
 speed:
 - 40 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

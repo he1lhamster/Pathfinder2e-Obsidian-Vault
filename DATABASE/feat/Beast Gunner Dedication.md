@@ -1,28 +1,21 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Beast Gunner Dedication
-frequency: null
-heighten_level: null
 id: '3229'
+leads_to: '[[DATABASE/feat/Basic Beast Gunner Spellcasting|Basic Beast Gunner Spellcasting]]
+  , [[DATABASE/feat/Controlled Bullet|Controlled Bullet]] , [[DATABASE/feat/Drain
+  Vitality|Drain Vitality]]'
 level: '6'
 name: Beast Gunner Dedication
 prerequisite: Trained in [[DATABASE/skill/Arcana|Arcana]] ; Trained in [[DATABASE/skill/Crafting|Crafting]]
   ; expert with at least one type of firearm, you own a beast gun and haveslain the
   type of creature associated with your beast gun in a fair hunt (see above)
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,26 +1,19 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Spirit Guide Form
 frequency: once per day
-heighten_level: null
 id: '4113'
 level: '14'
 name: Spirit Guide Form
 prerequisite: '[[DATABASE/feat/Scion of Domora Dedication|Scion of Domora Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Pathfinder 188. They Watched the Stars|Pathfinder #188:
   They Watched the Stars]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Polymorph|Polymorph]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Feat
 
 ---

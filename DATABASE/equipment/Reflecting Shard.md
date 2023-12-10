@@ -1,45 +1,15 @@
 ﻿---
-ac: null
 actions: '[reaction]'
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '2111'
 item_category: Consumables
 item_subcategory: Talismans
-land_speed: null
-level: '17'
-max_speed: null
+level: '13'
 name: Reflecting Shard
-onset: null
-price: 2,500 gp
-range: null
+price: 500 gp
 rarity: Uncommon
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Abjuration
-size: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-spell: null
-stage: null
 subcategory: consumable/talisman
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Consumable|Consumable]]'
@@ -49,9 +19,6 @@ trait:
 trigger: You are targeted by a spell of 5th level or lower
 type: Item
 usage: affixed to a shield
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Reflecting Shard<span class="item-type">Item 13+</span>

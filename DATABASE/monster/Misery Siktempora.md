@@ -1,10 +1,7 @@
 ﻿---
 ac: '32'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Inflict Misery
@@ -14,10 +11,7 @@ creature_ability:
 - Uncanny Pounce
 creature_family: '[[DATABASE/monsterfamily/Siktempora|Siktempora]]'
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+20'
-hardness: null
 hp: '160'
 id: '1294'
 immunity:
@@ -35,9 +29,6 @@ name: Misery Siktempora
 perception: '+25'
 rarity: Rare
 reflex: '+23'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -59,7 +50,6 @@ strength: '+7'
 strength_req: '7'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Siktempora|Siktempora]]'
@@ -68,7 +58,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+25'
 wisdom: '+7'
 

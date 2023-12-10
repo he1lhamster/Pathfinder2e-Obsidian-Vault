@@ -1,10 +1,7 @@
 ﻿---
 ac: '27'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Droskar's Grasp
@@ -14,12 +11,8 @@ creature_ability:
 - Swallow Whole
 - Vulnerability
 - to Exorcism
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+18'
-hardness: null
 hp: '130'
 id: '2710'
 immunity:
@@ -50,8 +43,6 @@ reflex: '+13'
 resistance:
 - physical 10 (except [[DATABASE/equipment/Adamantine Weapon|adamantine]] or [[DATABASE/equipment/Orichalcum
   Weapon|orichalcum]] )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - find the faithless (imprecise) 60 feet
@@ -64,12 +55,10 @@ source: '[[DATABASE/source/Pathfinder 195. Heavy is the Crown|Pathfinder #195: H
   is the Crown]]'
 speed:
 - 25 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Rare|Rare]]'

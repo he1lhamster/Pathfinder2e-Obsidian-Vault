@@ -1,22 +1,16 @@
 ﻿---
 ac: '22'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Attack of Opportunity
 - Weapon Mastery
 creature_family: '[[DATABASE/monsterfamily/Hellknights|Hellknights]]'
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+12'
 hp: '75'
 id: '967'
-immunity: null
 intelligence: '+0'
 land_speed: '5'
 language:
@@ -29,7 +23,6 @@ rarity: Common
 reflex: '+10'
 resistance:
 - mental 5
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -42,12 +35,10 @@ skill:
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 speed:
 - 20 feet; ignores 5 feet of reduction from being [[DATABASE/condition/Encumbered|encumbered]]
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dwarf|Dwarf]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -56,7 +47,6 @@ vision: Darkvision
 weakest_save:
 - Reflex
 - Will
-weakness: null
 will: '+10'
 wisdom: '+3'
 

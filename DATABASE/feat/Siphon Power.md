@@ -1,23 +1,15 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Siphon Power
 frequency: once per day
-heighten_level: null
 id: '1587'
 level: '16'
 name: Siphon Power
-prerequisite: null
 rarity: Common
 requirement: You haven't acted yet on your turn.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Witch|Witch]]'
-trigger: null
 type: Feat
 
 ---

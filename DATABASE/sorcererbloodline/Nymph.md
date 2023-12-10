@@ -3,7 +3,6 @@ bloodline: Nymph
 id: '12'
 name: Nymph
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 spell:
 - '[[DATABASE/spell/Animal Vision|Animal Vision]]'
@@ -19,7 +18,6 @@ spell:
 - '[[DATABASE/spell/Tanglefoot|Tanglefoot]]'
 - '[[DATABASE/spell/Unfettered Pack|Unfettered Pack]]'
 - '[[DATABASE/spell/Vital Beacon|Vital Beacon]]'
-trait: null
 type: Sorcerer Bloodline
 
 ---

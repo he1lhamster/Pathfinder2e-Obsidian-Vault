@@ -1,35 +1,24 @@
 ﻿---
 ac: '18'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Buck
 - Flying Strafe
-creature_family: null
 dexterity: '+3'
-element: null
 fly_speed: '65'
 fortitude: '+8'
-hardness: null
 hp: '32'
 id: '698'
-immunity: null
 intelligence: '-4'
 land_speed: '30'
-language: null
 level: '2'
 max_speed: '65'
 name: Hippogriff
 perception: '+8'
 rarity: Common
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent (imprecise) 30 feet]]'
@@ -42,19 +31,16 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 30 feet
 - fly 65 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+6'
 wisdom: '+2'
 

@@ -1,11 +1,9 @@
 ﻿---
 alignment: N
-element: null
 id: '21'
 name: Dimension of Time
 plane_category: Dimensions
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
 - '[[DATABASE/trait/Erratic|Erratic]]'

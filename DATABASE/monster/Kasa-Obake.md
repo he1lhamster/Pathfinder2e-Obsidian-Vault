@@ -1,20 +1,14 @@
 ﻿---
 ac: '20'
 alignment: NG
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Fade Away
 - Jump Scare
 creature_family: '[[DATABASE/monsterfamily/Tsukumogami|Tsukumogami]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+9'
-hardness: null
 hp: '65'
 id: '1350'
 immunity:
@@ -38,10 +32,6 @@ name: Kasa-Obake
 perception: '+13'
 rarity: Common
 reflex: '+12'
-resistance: null
-rus_type_level: null
-school: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Diplomacy|Diplomacy]] +11'
@@ -53,19 +43,15 @@ skill:
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 25 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Kami|Kami]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+13'
 wisdom: '+5'
 

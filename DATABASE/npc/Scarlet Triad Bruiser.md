@@ -1,10 +1,7 @@
 ﻿---
 ac: '30'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Attack of Opportunity
@@ -12,14 +9,10 @@ creature_ability:
 - Brutal Cleave
 - Efficient Capture
 - Pummeling Flurry
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+20'
 hp: '180'
 id: '1553'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -30,9 +23,6 @@ name: Scarlet Triad Bruiser
 perception: '+19'
 rarity: Unique
 reflex: '+17'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +19'
@@ -44,21 +34,17 @@ source: '[[DATABASE/source/Pathfinder 147. Tomorrow Must Burn|Pathfinder #147: T
   Must Burn]]'
 speed:
 - 25 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+19'
 wisdom: '+5'
 

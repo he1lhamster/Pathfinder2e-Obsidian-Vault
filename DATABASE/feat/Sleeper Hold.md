@@ -1,24 +1,15 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Sleeper Hold
-frequency: null
-heighten_level: null
 id: '465'
 level: '10'
 name: Sleeper Hold
-prerequisite: null
 rarity: Common
 requirement: You have a creature grabbed or restrained.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Incapacitation|Incapacitation]]'
 - '[[DATABASE/trait/Monk|Monk]]'
-trigger: null
 type: Feat
 
 ---

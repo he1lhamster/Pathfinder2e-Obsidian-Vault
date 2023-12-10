@@ -10,14 +10,12 @@ id: '207'
 name: Sewer Dragon
 prerequisite: '[[DATABASE/ancestry/Kobold|Kobold]] ancestry'
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Crafting|Crafting]]'
 - Kobold [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/PFS Quest 10. The Broken Scales|PFS Quest #10: The Broken
   Scales]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

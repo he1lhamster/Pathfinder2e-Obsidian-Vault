@@ -1,23 +1,14 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Twin Shot Knockdown
-frequency: null
-heighten_level: null
 id: '3189'
 level: '10'
 name: Twin Shot Knockdown
-prerequisite: null
 rarity: Common
 requirement: You're wielding a loaded crossbow or loaded firearm in each hand.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Gunslinger|Gunslinger]]'
-trigger: null
 type: Feat
 
 ---

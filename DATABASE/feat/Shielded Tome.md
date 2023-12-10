@@ -1,25 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Shielded Tome
-frequency: null
-heighten_level: null
 id: '2862'
 level: '6'
 name: Shielded Tome
 prerequisite: '[[DATABASE/feat/Raise a Tome|Raise a Tome]]'
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Arcane|Arcane]]'
 - '[[DATABASE/trait/Magus|Magus]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Feat
 
 ---

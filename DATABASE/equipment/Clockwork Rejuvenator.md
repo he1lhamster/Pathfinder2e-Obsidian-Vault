@@ -1,59 +1,27 @@
 ﻿---
-ac: null
 actions: '[one-action]'
-alignment: null
-base_item: null
 bulk: L
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '895'
 item_category: Consumables
 item_subcategory: Other Consumables
-land_speed: null
 level: '18'
-max_speed: null
 name: Clockwork Rejuvenator
-onset: null
 price: 4,500 gp
-range: null
 rarity: Rare
-reflex: null
 requirement: The round you activate the rejuvenator, you must first spend either 1
   Interact action or 2 Interactactions to wind the device.
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Necromancy
-size: null
 source: '[[DATABASE/source/Pathfinder 161. Belly of the Black Whale|Pathfinder #161:
   Belly of the Black Whale]]'
-spell: null
-stage: null
 subcategory: consumable/otherconsumable
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Clockwork|Clockwork]]'
 - '[[DATABASE/trait/Consumable|Consumable]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Item
 usage: held in 1 hand
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Clockwork Rejuvenator<span class="item-type">Item 18</span>

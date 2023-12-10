@@ -1,10 +1,7 @@
 ﻿---
 ac: '21'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+13'
-hardness: null
 hazard_type: Environmental
 hp: '52'
 id: '65'
@@ -16,9 +13,6 @@ level: '5'
 name: Gloomglow Mushrooms
 rarity: Common
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 145. Hellknight Hill|Pathfinder #145: Hellknight
   Hill]]'
 trait:
@@ -27,7 +21,6 @@ trait:
 type: Hazard
 weakness:
 - '[[DATABASE/trait/Cold|cold]] 10'
-will: null
 
 ---
 # Gloomglow Mushrooms<span class="item-type">Hazard 5</span>

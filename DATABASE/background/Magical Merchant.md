@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Crafter''s Appraisal|Crafter''s Appraisal]]'
 id: '232'
 name: Magical Merchant
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Crafting|Crafting]]'
 - Mercantile [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

@@ -1,26 +1,18 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Sever Magic
-frequency: null
-heighten_level: null
 id: '3729'
 level: '16'
 name: Sever Magic
-prerequisite: null
 rarity: Common
 requirement: You're holding animplement.
-rus_type_level: null
 school: Abjuration
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Arcane|Arcane]]'
 - '[[DATABASE/trait/Esoterica|Esoterica]]'
 - '[[DATABASE/trait/Thaumaturge|Thaumaturge]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,20 +1,14 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Inspirit Hazard
 frequency: once per day
-heighten_level: null
 id: '2327'
 level: '13'
 name: Inspirit Hazard
-prerequisite: null
 rarity: Common
 requirement: The hazard isn't broken.
-rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Catfolk|Catfolk]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'

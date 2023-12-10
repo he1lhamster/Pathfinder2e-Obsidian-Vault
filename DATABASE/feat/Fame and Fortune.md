@@ -1,24 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Fame and Fortune
-frequency: null
-heighten_level: null
 id: '3912'
 level: '11'
 name: Fame and Fortune
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Kingdom|Kingdom]]'
-trigger: null
 type: Feat
 
 ---

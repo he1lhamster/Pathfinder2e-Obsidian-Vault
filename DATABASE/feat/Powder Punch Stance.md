@@ -1,26 +1,18 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Powder Punch Stance
-frequency: null
-heighten_level: null
 id: '3575'
+leads_to: '[[DATABASE/feat/Black Powder Flash|Black Powder Flash]] , [[DATABASE/feat/Thunder
+  Clap|Thunder Clap]]'
 level: '2'
 name: Powder Punch Stance
 prerequisite: '[[DATABASE/feat/Martial Artist Dedication|Martial Artist Dedication]]'
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 178. Punks in a Powderkeg|Pathfinder #178: Punks
   in a Powderkeg]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Stance|Stance]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,25 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Reliable Squire
-frequency: null
-heighten_level: null
 id: '3624'
 level: '2'
 name: Reliable Squire
-prerequisite: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Bard|Bard]]'
 - '[[DATABASE/trait/Champion|Champion]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

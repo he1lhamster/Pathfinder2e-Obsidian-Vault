@@ -1,23 +1,16 @@
 ﻿---
 ac: '18'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Infused Items
 - Quick Bomber
 - Quick Smoke Bomb
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+10'
 hp: '30'
 id: '1477'
-immunity: null
 intelligence: '+4'
 land_speed: '25'
 language:
@@ -31,8 +24,6 @@ rarity: Unique
 reflex: '+8'
 resistance:
 - '[[DATABASE/trait/Fire|fire]] 1'
-rus_type_level: null
-sense: null
 size: Small
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +7'
@@ -44,21 +35,17 @@ skill:
 source: '[[DATABASE/source/No-Prep Character. Gristleburst|No-Prep Character: Gristleburst]]'
 speed:
 - 25 feet
-spell: null
 strength: '+1'
 strength_req: '1'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Goblin|Goblin]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+6'
 wisdom: '+1'
 

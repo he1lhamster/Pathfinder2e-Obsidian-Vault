@@ -2,7 +2,6 @@
 id: '4'
 name: Genie-Touched
 rarity: Rare
-rus_type_level: null
 source: '[[DATABASE/source/Legends|Legends]]'
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'

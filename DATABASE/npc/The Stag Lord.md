@@ -1,10 +1,7 @@
 ﻿---
 ac: '22'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Dread Striker
@@ -12,14 +9,10 @@ creature_ability:
 - Perpetual Hangover
 - Sneak Attack
 - Unfair Aim
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+14'
 hp: '110'
 id: '2198'
-immunity: null
 intelligence: '+0'
 land_speed: '20'
 language:
@@ -30,9 +23,6 @@ name: The Stag Lord
 perception: '+15'
 rarity: Unique
 reflex: '+15'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +13'
@@ -43,21 +33,17 @@ skill:
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 speed:
 - 20 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+8'
 wisdom: '-1'
 

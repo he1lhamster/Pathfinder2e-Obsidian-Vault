@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Quick Coercion|Quick Coercion]]'
 id: '179'
 name: Tax Collector
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Intimidation|Intimidation]]'
 - '[[DATABASE/skill/Lore|Lore]] for the settlement that employed you.'
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

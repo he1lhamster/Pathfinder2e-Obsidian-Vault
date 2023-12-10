@@ -2,9 +2,6 @@
 id: '113'
 name: Pathfinder 176. Lost Mammoth Valley
 rarity: Common
-rus_type_level: null
-source: null
-trait: null
 type: Source
 
 ---

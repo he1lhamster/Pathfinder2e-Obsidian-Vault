@@ -1,56 +1,22 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
 duration: 1 hour
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '973'
 item_category: Consumables
 item_subcategory: Fulu
-land_speed: null
 level: '6'
-max_speed: null
 name: Fulus of Concealment
-onset: null
 price: 40 gp
-range: null
 rarity: Common
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Illusion
-size: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-spell: null
-stage: null
 subcategory: consumable/fulu
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Consumable|Consumable]]'
 - '[[DATABASE/trait/Fulu|Fulu]]'
 - '[[DATABASE/trait/Illusion|Illusion]]'
 - '[[DATABASE/trait/Magical|Magical]]'
-trigger: null
 type: Item
 usage: affixed to the ground in four spaces along a 10-foot radius circle
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Fulus of Concealment<span class="item-type">Item 6</span>

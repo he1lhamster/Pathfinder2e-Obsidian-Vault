@@ -1,25 +1,16 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Harrow Casting
-frequency: null
-heighten_level: null
 id: '4155'
 level: '4'
 name: Harrow Casting
-prerequisite: null
 rarity: Uncommon
 requirement: You have an active harrow omen.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Stolen Fate Player''s Guide|Stolen Fate Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Metamagic|Metamagic]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

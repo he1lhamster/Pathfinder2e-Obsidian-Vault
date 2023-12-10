@@ -1,8 +1,6 @@
 ﻿---
 ac: '36'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
 climb_speed: '20'
 constitution: '+4'
@@ -11,14 +9,10 @@ creature_ability:
 - Chattering Blow
 - Flurry of Blows
 - Icicle Stance
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+26'
 hp: '250'
 id: '1509'
-immunity: null
 intelligence: '+1'
 land_speed: '30'
 language:
@@ -33,7 +27,6 @@ rarity: Unique
 reflex: '+27'
 resistance:
 - '[[DATABASE/trait/Cold|cold]] 10'
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -45,12 +38,10 @@ source: '[[DATABASE/source/Pathfinder 167. Ready Fight!|Pathfinder #167: Ready? 
 speed:
 - 30 feet
 - climb 20 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Goblin|Goblin]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -59,7 +50,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+25'
 wisdom: '+3'
 

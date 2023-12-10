@@ -1,27 +1,14 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
-component: null
-cost: null
-deity: null
-domain: null
 duration: varies
 element: Fire
-heighten: null
 heighten_level: '5'
 id: '1357'
-lesson: null
 level: '5'
-mystery: null
 name: Flames of Ego
-patron_theme: null
 range: 120 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Will
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 target: 1 creature
 tradition:
@@ -35,7 +22,6 @@ trait:
 - '[[DATABASE/trait/Light|Light]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Mental|Mental]]'
-trigger: null
 type: Spell
 
 ---

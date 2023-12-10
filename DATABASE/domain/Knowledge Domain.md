@@ -1,7 +1,6 @@
 ﻿---
 advanced_apocryphal_spell: '[[DATABASE/spell/Wordsmith|Wordsmith]]'
 advanced_domain_spell: '[[DATABASE/spell/Know the Enemy|Know the Enemy]]'
-apocryphal_spell: null
 deity:
 - '[[DATABASE/deity/Aakriti|Aakriti]]'
 - '[[DATABASE/deity/Abraxas|Abraxas]]'
@@ -58,9 +57,7 @@ domain_spell: '[[DATABASE/spell/Scholarly Recollection|Scholarly Recollection]]'
 id: '17'
 name: Knowledge Domain
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Domain
 
 ---

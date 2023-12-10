@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Armored Rest
-frequency: null
-heighten_level: null
 id: '2255'
 level: '10'
 name: Armored Rest
 prerequisite: '[[DATABASE/feat/Swordmaster Dedication|Swordmaster Dedication]] ; trained
   in light, medium, or heavyarmor'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

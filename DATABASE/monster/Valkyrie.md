@@ -1,10 +1,7 @@
 ﻿---
 ac: '33'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Attack of Opportunity
@@ -12,15 +9,11 @@ creature_ability:
 - Ravenspeaker
 - Recall the Fallen
 - Storm of Battle
-creature_family: null
 dexterity: '+5'
-element: null
 fly_speed: '60'
 fortitude: '+24'
-hardness: null
 hp: '215'
 id: '1355'
-immunity: null
 intelligence: '+3'
 land_speed: '25'
 language:
@@ -35,8 +28,6 @@ rarity: Common
 reflex: '+20'
 resistance:
 - electricity 15
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -64,7 +55,6 @@ strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aesir|Aesir]]'
 - '[[DATABASE/trait/Monitor|Monitor]]'
@@ -72,7 +62,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+23'
 wisdom: '+4'
 

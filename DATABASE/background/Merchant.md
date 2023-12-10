@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Bargain Hunter|Bargain Hunter]]'
 id: '25'
 name: Merchant
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Diplomacy|Diplomacy]]'
 - Mercantile [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

@@ -1,23 +1,16 @@
 ﻿---
 ac: '17'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Planar Workshop
 - Stone Step
 creature_family: '[[DATABASE/monsterfamily/Anugobu|Anugobu]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+8'
-hardness: null
 hp: '35'
 id: '1392'
-immunity: null
 intelligence: '+4'
 land_speed: '20'
 language:
@@ -31,9 +24,6 @@ name: Anugobu Apprentice
 perception: '+12'
 rarity: Uncommon
 reflex: '+12'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Tiny
@@ -61,7 +51,6 @@ strength: '-1'
 strength_req: '-1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Anugobu|Anugobu]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -70,7 +59,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+7'
 wisdom: '+0'
 

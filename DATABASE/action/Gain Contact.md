@@ -1,18 +1,10 @@
 ﻿---
-actions: null
-cost: null
-element: null
-frequency: null
 id: '467'
 name: Gain Contact
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
 - '[[DATABASE/trait/Downtime|Downtime]]'
-trigger: null
 type: Action
 
 ---

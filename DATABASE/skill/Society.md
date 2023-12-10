@@ -6,11 +6,9 @@ ability_boost:
 id: '14'
 name: Society
 rarity: Common
-rus_type_level: null
 skill:
 - Society
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Skill
 
 ---

@@ -25,11 +25,9 @@ follower_alignment:
 id: '3'
 name: Calistria
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Deception|Deception]]'
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Deity
 
 ---

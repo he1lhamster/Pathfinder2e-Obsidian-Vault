@@ -1,25 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Analyze Idiolect
-frequency: null
-heighten_level: null
 id: '1997'
 level: '6'
 name: Analyze Idiolect
 prerequisite: '[[DATABASE/feat/Linguist Dedication|Linguist Dedication]] ; Expert
   in [[DATABASE/skill/Deception|Deception]] ; Expert in [[DATABASE/skill/Society|Society]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

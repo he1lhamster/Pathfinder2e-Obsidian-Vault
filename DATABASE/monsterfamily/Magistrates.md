@@ -3,9 +3,7 @@ creature_family: Magistrates
 id: '189'
 name: Magistrates
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
-trait: null
 type: Creature Family
 
 ---

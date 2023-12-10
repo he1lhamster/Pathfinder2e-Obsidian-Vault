@@ -1,25 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Legendary Performer
-frequency: null
-heighten_level: null
 id: '805'
 level: '15'
 name: Legendary Performer
 prerequisite: Legendary in [[DATABASE/skill/Performance|Performance]] ; [[DATABASE/feat/Virtuosic
   Performer|Virtuosic Performer]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: performance
 trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

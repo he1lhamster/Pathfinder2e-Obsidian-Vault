@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Shory Aerialist
-frequency: null
-heighten_level: null
 id: '959'
 level: '13'
 name: Shory Aerialist
 prerequisite: Garundi ethnicity, Mauxi ethnicity, or Tian-Yae ethnicity; [[DATABASE/feat/Shory
   Aeromancer|Shory Aeromancer]] or ability to cast [[DATABASE/spell/Fly|fly]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
-trigger: null
 type: Feat
 
 ---

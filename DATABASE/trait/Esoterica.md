@@ -2,7 +2,6 @@
 id: '427'
 name: Esoterica
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 trait:
 - Esoterica

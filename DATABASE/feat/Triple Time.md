@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Triple Time
-frequency: null
-heighten_level: null
 id: '190'
 level: '4'
 name: Triple Time
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Bard|Bard]]'
-trigger: null
 type: Feat
 
 ---

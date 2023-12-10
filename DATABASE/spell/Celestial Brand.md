@@ -1,37 +1,24 @@
 ﻿---
 actions: '[one-action]'
-area: null
 bloodline: '[[DATABASE/sorcererbloodline/Angelic|Angelic]]'
 component:
 - Somatic
-cost: null
-deity: null
-domain: null
 duration: 1 round
-element: null
 heighten: '+2'
 heighten_level: 5, 7, 9
 id: '497'
-lesson: null
 level: '5'
-mystery: null
 name: Celestial Brand
-patron_theme: null
 range: 30 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: 1 evil creature
-tradition: null
 trait:
 - '[[DATABASE/trait/Curse|Curse]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Sorcerer|Sorcerer]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Focus
 
 ---

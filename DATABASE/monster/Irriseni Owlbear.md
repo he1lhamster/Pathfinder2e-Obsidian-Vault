@@ -1,10 +1,7 @@
 ﻿---
 ac: '23'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Bloodcurdling Screech
@@ -12,16 +9,11 @@ creature_ability:
 - Screeching Advance
 creature_family: '[[DATABASE/monsterfamily/Owlbear|Owlbear]]'
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+15'
-hardness: null
 hp: '85'
 id: '2075'
-immunity: null
 intelligence: '-4'
 land_speed: '25'
-language: null
 level: '5'
 max_speed: '25'
 name: Irriseni Owlbear
@@ -30,8 +22,6 @@ rarity: Common
 reflex: '+9'
 resistance:
 - '[[DATABASE/trait/Cold|cold]] 5'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -43,19 +33,16 @@ skill:
 source: '[[DATABASE/source/Travel Guide|Travel Guide]]'
 speed:
 - 25 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
 vision: Low-light vision
 weakest_save:
 - Reflex
-weakness: null
 will: '+13'
 wisdom: '+3'
 

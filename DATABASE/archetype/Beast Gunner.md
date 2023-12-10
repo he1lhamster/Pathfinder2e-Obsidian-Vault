@@ -6,7 +6,6 @@ prerequisite: Trained in [[DATABASE/skill/Arcana|Arcana]] ; Trained in [[DATABAS
   ; expert with at least one type of firearm, you own a beast gun and haveslain the
   type of creature associated with your beast gun in a fair hunt (see above)
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

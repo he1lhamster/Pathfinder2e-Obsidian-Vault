@@ -2,19 +2,14 @@
 ac: '39'
 alignment: NE
 all_resistance: '15'
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Terrible Foresight
 - Time Shift
-creature_family: null
 dexterity: '+9'
-element: null
 fly_speed: '40'
 fortitude: '+25'
-hardness: null
 hp: 250 ( negative healing )
 id: '1858'
 immunity:
@@ -25,7 +20,6 @@ immunity:
 - precision
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '+5'
-land_speed: null
 language:
 - '[[DATABASE/language/Common|Common]]'
 - '[[DATABASE/language/Necril|Necril]] ; plus any four languages (typically ancient
@@ -41,8 +35,6 @@ resistance:
 - '[[DATABASE/equipment/Ghost Touch|ghost touch]]'
 - or [[DATABASE/trait/Positive|positive]] ; double resistance vs. non- [[DATABASE/trait/Magical|magical]]
   )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]] 60 feet'
 - '[[DATABASE/monsterability/Lifesense|lifesense]] (imprecise) 60 feet'
@@ -69,7 +61,6 @@ strength: '-5'
 strength_req: '-5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Incorporeal|Incorporeal]]'
 - '[[DATABASE/trait/Rare|Rare]]'
@@ -79,7 +70,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+30'
 wisdom: '+7'
 

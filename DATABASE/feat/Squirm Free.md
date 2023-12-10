@@ -1,20 +1,11 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Squirm Free
-frequency: null
-heighten_level: null
 id: '3355'
 level: '13'
 name: Squirm Free
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Poppet|Poppet]]'
 trigger: A creature [[DATABASE/condition/Grabbed|grabs]] , [[DATABASE/condition/Immobilized|immobilizes]]

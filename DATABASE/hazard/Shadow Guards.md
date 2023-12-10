@@ -1,8 +1,6 @@
 ﻿---
 ac: '18'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+11'
 hardness: '8'
 hazard_type: Trap
@@ -16,8 +14,6 @@ level: '2'
 name: Shadow Guards
 rarity: Common
 reflex: '+11'
-resistance: null
-rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Pathfinder 187. The Seventh Arch|Pathfinder #187: The Seventh
   Arch]]'
@@ -28,8 +24,6 @@ trait:
 - '[[DATABASE/trait/Shadow|Shadow]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Shadow Guards<span class="item-type">Hazard 2</span>

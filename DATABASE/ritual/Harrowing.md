@@ -1,8 +1,6 @@
 ﻿---
-area: null
 cost: "rare pigments and inks worth a total value of 20 gp \xD7 the target's level"
 duration: 1 month or until fulfilled
-element: null
 heighten: '+1'
 heighten_level: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
 id: '100'
@@ -12,11 +10,7 @@ primary_check: '[[DATABASE/skill/Lore|Fortune-Telling Lore]] (trained) or [[DATA
   (expert)'
 range: touch
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Divination
-secondary_casters: null
-secondary_check: null
 source: '[[DATABASE/source/Stolen Fate Player''s Guide|Stolen Fate Player''s Guide]]'
 target: 1 willing creature
 trait:

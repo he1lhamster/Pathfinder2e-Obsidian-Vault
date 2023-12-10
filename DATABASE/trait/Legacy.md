@@ -2,7 +2,6 @@
 id: '270'
 name: Legacy
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 150. Broken Promises|Pathfinder #150: Broken
   Promises]]'
 trait:

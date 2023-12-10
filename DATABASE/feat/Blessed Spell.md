@@ -1,26 +1,18 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Blessed Spell
 frequency: once per 10 minutes
-heighten_level: null
 id: '1912'
 level: '8'
 name: Blessed Spell
 prerequisite: '[[DATABASE/feat/Blessed One Dedication|Blessed One Dedication]] ; ability
   to cast spells from spellslots; [[DATABASE/feat/Mercy|Mercy]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Metamagic|Metamagic]]'
-trigger: null
 type: Feat
 
 ---

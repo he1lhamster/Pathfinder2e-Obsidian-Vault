@@ -1,8 +1,6 @@
 ﻿---
 ac: '16'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-4'
 climb_speed: '25'
 constitution: '+1'
@@ -12,25 +10,17 @@ creature_ability:
 - Web Trap
 creature_family: '[[DATABASE/monsterfamily/Spider|Spider]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+5'
-hardness: null
 hp: '15'
 id: '813'
-immunity: null
 intelligence: '-5'
 land_speed: '25'
-language: null
 level: '0'
 max_speed: '25'
 name: Dream Spider
 perception: '+6'
 rarity: Common
 reflex: '+7'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - web sense
@@ -43,19 +33,16 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 25 feet
 - climb 25 feet
-spell: null
 strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+4'
 wisdom: '+0'
 

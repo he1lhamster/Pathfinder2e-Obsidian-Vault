@@ -1,46 +1,14 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '931'
 item_category: Contracts
 item_subcategory: Infernal Contracts
-land_speed: null
 level: '3'
-max_speed: null
 name: Devil's Luck
-onset: null
-price: null
-range: null
 rarity: Rare
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Enchantment
-size: null
 source: '[[DATABASE/source/Pathfinder 164. Hands of the Devil|Pathfinder #164: Hands
   of the Devil]]'
-spell: null
-stage: null
 subcategory: contract
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Contract|Contract]]'
 - '[[DATABASE/trait/Enchantment|Enchantment]]'
@@ -48,12 +16,7 @@ trait:
 - '[[DATABASE/trait/Invested|Invested]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Item
-usage: null
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Devil's Luck<span class="item-type">Item 3</span>

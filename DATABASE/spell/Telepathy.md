@@ -1,31 +1,17 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 10 minutes
-element: null
 heighten: 6th
 heighten_level: 4, 6
 id: '337'
-lesson: null
 level: '4'
-mystery: null
 name: Telepathy
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Arcane
 - Occult
@@ -33,7 +19,6 @@ trait:
 - '[[DATABASE/trait/Divination|Divination]]'
 - '[[DATABASE/trait/Linguistic|Linguistic]]'
 - '[[DATABASE/trait/Mental|Mental]]'
-trigger: null
 type: Spell
 
 ---

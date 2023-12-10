@@ -3,10 +3,8 @@ creature_family: Shanrigol
 id: '214'
 name: Shanrigol
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 164. Hands of the Devil|Pathfinder #164: Hands
   of the Devil]]'
-trait: null
 type: Creature Family
 
 ---

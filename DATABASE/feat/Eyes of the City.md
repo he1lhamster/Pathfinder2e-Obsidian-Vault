@@ -1,24 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Eyes of the City
-frequency: null
-heighten_level: null
 id: '4121'
 level: '2'
 name: Eyes of the City
 prerequisite: Trained in [[DATABASE/skill/Diplomacy|Diplomacy]] or Trained in [[DATABASE/skill/Society|Society]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Firebrands|Firebrands]]'
 subcategory: diplomacy
 trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

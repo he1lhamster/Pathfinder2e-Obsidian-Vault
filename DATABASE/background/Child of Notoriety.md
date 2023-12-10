@@ -1,18 +1,8 @@
 ﻿---
-ability: null
-ability_boost: null
-feat: null
 id: '387'
 name: Child of Notoriety
-prerequisite: null
-rarity: null
-rus_type_level: null
-skill: null
 source: '[[DATABASE/source/Sky King''s Tomb Player''s Guide|Sky King''s Tomb Player''s
   Guide]]'
-subcategory: null
-trait: null
-type: null
 
 ---
 # Child of Notoriety<span class="item-type">Background</span>

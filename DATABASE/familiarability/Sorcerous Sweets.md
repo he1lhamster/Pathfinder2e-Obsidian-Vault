@@ -1,14 +1,9 @@
 ﻿---
 ability_type: Specific Familiar - Sweet Beasts (Chocolate Mouse)
-actions: null
-frequency: null
 id: '107'
 name: Sorcerous Sweets
 rarity: Common
-requirement: null
-rus_type_level: null
 source: '[[DATABASE/source/Wake the Dead 3|Wake the Dead #3]]'
-trait: null
 type: Familiar Ability
 
 ---

@@ -1,24 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Derring-Do
-frequency: null
-heighten_level: null
 id: '1544'
 level: '10'
 name: Derring-Do
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fortune|Fortune]]'
 - '[[DATABASE/trait/Swashbuckler|Swashbuckler]]'
-trigger: null
 type: Feat
 
 ---

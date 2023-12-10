@@ -1,23 +1,17 @@
 ﻿---
 ac: '18'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Strix Camaraderie
 - Strix Vengeance
 creature_family: '[[DATABASE/monsterfamily/Strix|Strix]]'
 dexterity: '+4'
-element: null
 fly_speed: '25'
 fortitude: '+6'
-hardness: null
 hp: '24'
 id: '1328'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -29,9 +23,6 @@ name: Strix Kinmate
 perception: '+9'
 rarity: Uncommon
 reflex: '+10'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
@@ -43,12 +34,10 @@ source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 25 feet
 - fly 25 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Strix|Strix]]'
@@ -57,7 +46,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+7'
 wisdom: '+3'
 

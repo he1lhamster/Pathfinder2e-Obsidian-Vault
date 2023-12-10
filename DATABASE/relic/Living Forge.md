@@ -1,11 +1,8 @@
 ﻿---
-element: null
 id: '115'
 item_category: Relics
 name: Living Forge
-prerequisite: null
 rarity: Common
-rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Highhelm|Highhelm]]'
 trait:

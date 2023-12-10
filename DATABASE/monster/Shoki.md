@@ -1,10 +1,7 @@
 ﻿---
 ac: '27'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Infuse Staff
@@ -12,10 +9,7 @@ creature_ability:
 - Spirit Touch
 creature_family: '[[DATABASE/monsterfamily/Psychopomp|Psychopomp]]'
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+19'
-hardness: null
 hp: '130'
 id: '2421'
 immunity:
@@ -37,8 +31,6 @@ reflex: '+14'
 resistance:
 - '[[DATABASE/trait/Negative|negative]] 10'
 - '[[DATABASE/trait/Poison|poison]] 10'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Lifesense|lifesense]] 60 feet'
@@ -76,7 +68,6 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Monitor|Monitor]]'
 - '[[DATABASE/trait/Psychopomp|Psychopomp]]'
@@ -85,7 +76,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+21'
 wisdom: '+6'
 

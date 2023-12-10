@@ -1,25 +1,16 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Metallic Skin
 frequency: once per day
-heighten_level: null
 id: '4332'
 level: '17'
 name: Metallic Skin
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Primal|Primal]]'
 - '[[DATABASE/trait/Talos|Talos]]'
-trigger: null
 type: Feat
 
 ---

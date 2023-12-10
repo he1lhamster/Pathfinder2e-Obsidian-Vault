@@ -1,8 +1,6 @@
 ﻿---
 ac: '36'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
 climb_speed: '40'
 constitution: '+7'
@@ -21,10 +19,8 @@ creature_ability:
 - Snow Vision
 creature_family: '[[DATABASE/monsterfamily/Dragon, White|Dragon, White]]'
 dexterity: '+3'
-element: null
 fly_speed: '160'
 fortitude: '+30'
-hardness: null
 hp: '330'
 id: '141'
 immunity:
@@ -43,9 +39,6 @@ name: Ancient White Dragon
 perception: '+30'
 rarity: Uncommon
 reflex: '+26'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - scent (imprecise) 60 feet
@@ -69,7 +62,6 @@ strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Cold|Cold]]'
 - '[[DATABASE/trait/Dragon|Dragon]]'

@@ -1,10 +1,7 @@
 ﻿---
 ac: '24'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Attack of Opportunity
@@ -14,10 +11,7 @@ creature_ability:
 - Shadowed Blade
 creature_family: '[[DATABASE/monsterfamily/Caligni|Caligni]]'
 dexterity: '-1'
-element: null
-fly_speed: null
 fortitude: '+14'
-hardness: null
 hp: '50'
 id: '1087'
 immunity:
@@ -35,8 +29,6 @@ rarity: Rare
 reflex: '+8'
 resistance:
 - slashing 5
-rus_type_level: null
-school: null
 sense:
 - echolocation 60 feet
 - no vision
@@ -47,18 +39,15 @@ skill:
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 25 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Caligni|Caligni]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
 weakness:

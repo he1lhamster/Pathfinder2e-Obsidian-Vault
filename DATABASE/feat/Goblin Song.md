@@ -1,23 +1,14 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Goblin Song
-frequency: null
-heighten_level: null
 id: '42'
+leads_to: '[[DATABASE/feat/Loud Singer|Loud Singer]]'
 level: '1'
 name: Goblin Song
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Goblin|Goblin]]'
-trigger: null
 type: Feat
 
 ---

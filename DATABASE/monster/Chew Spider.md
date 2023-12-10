@@ -1,8 +1,6 @@
 ﻿---
 ac: '18'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-4'
 climb_speed: '20'
 constitution: '+0'
@@ -10,12 +8,8 @@ creature_ability:
 - Chew Spider Venom
 - Chewing Bites
 - Web Sense
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+6'
-hardness: null
 hp: '22'
 id: '2227'
 immunity:
@@ -23,7 +17,6 @@ immunity:
 - swarm mind
 intelligence: '-5'
 land_speed: '20'
-language: null
 level: '2'
 max_speed: '20'
 name: Chew Spider
@@ -34,8 +27,6 @@ resistance:
 - bludgeoning 2
 - piercing 5
 - slashing 5
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - web sense
@@ -48,12 +39,10 @@ source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 speed:
 - 20 feet
 - climb 20 feet
-spell: null
 strength: '-2'
 strength_req: '-2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 - '[[DATABASE/trait/Swarm|Swarm]]'

@@ -1,10 +1,7 @@
 ﻿---
 ac: '44'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+7'
-climb_speed: null
 constitution: '+8'
 creature_ability:
 - Attack of Opportunity
@@ -14,10 +11,8 @@ creature_ability:
 - Taiga Linnorm Venom
 creature_family: '[[DATABASE/monsterfamily/Linnorm|Linnorm]]'
 dexterity: '+6'
-element: null
 fly_speed: '100'
 fortitude: '+35'
-hardness: null
 hp: '385'
 id: '723'
 immunity:
@@ -37,9 +32,6 @@ name: Taiga Linnorm
 perception: '+33'
 rarity: Uncommon
 reflex: '+31'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent (imprecise) 60 feet]]'

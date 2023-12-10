@@ -1,26 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Connect the Dots
-frequency: null
-heighten_level: null
 id: '1462'
 level: '6'
 name: Connect the Dots
-prerequisite: null
 rarity: Uncommon
 requirement: You must be pursuing at least two leads.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Investigator|Investigator]]'
 - '[[DATABASE/trait/Secret|Secret]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

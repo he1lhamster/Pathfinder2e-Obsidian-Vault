@@ -1,10 +1,7 @@
 ﻿---
 ac: '22'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Flurry
@@ -12,14 +9,10 @@ creature_ability:
 - Hunter's Aim
 - Twin Parry
 - Twin Takedown
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+10'
 hp: '52'
 id: '1536'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -31,8 +24,6 @@ name: Dmiri Yoltosha
 perception: '+14'
 rarity: Unique
 reflex: '+12'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -48,12 +39,10 @@ source: '[[DATABASE/source/Pathfinder 145. Hellknight Hill|Pathfinder #145: Hell
   Hill]]'
 speed:
 - 25 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Hobgoblin|Hobgoblin]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -62,7 +51,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+9'
 wisdom: '+1'
 

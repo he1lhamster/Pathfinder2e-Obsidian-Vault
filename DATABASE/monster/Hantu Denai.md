@@ -2,9 +2,7 @@
 ac: '22'
 alignment: N
 all_resistance: '8'
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Sneak Attack
@@ -12,10 +10,8 @@ creature_ability:
 - Terrifying Cry
 creature_family: '[[DATABASE/monsterfamily/Hantu|Hantu]]'
 dexterity: '+5'
-element: null
 fly_speed: '25'
 fortitude: '+17'
-hardness: null
 hp: '125'
 id: '1396'
 immunity:
@@ -26,7 +22,6 @@ immunity:
 - precision
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '+0'
-land_speed: null
 language:
 - '[[DATABASE/language/Common|Common]] ; (can''t speak any language)'
 level: '9'
@@ -39,8 +34,6 @@ resistance:
 - all damage 8 (except [[DATABASE/trait/Force|force]] or [[DATABASE/equipment/Ghost
   Touch|ghost touch]] ; double resistance vs. non- [[DATABASE/trait/Magical|magical]]
   )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 60 feet'
@@ -55,12 +48,10 @@ source: '[[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #
   Despair on Danger Island]]'
 speed:
 - fly 25 feet
-spell: null
 strength: '-5'
 strength_req: '-5'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Hantu|Hantu]]'
@@ -71,7 +62,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+23'
 wisdom: '+6'
 

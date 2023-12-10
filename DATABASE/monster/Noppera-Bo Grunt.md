@@ -1,10 +1,7 @@
 ﻿---
 ac: '15'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Impersonate Shape
@@ -12,10 +9,7 @@ creature_ability:
 - Sensitive Hearing
 creature_family: '[[DATABASE/monsterfamily/Noppera-Bo|Noppera-Bo]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+6'
-hardness: null
 hp: '18'
 id: '2720'
 immunity:
@@ -33,9 +27,6 @@ name: Noppera-Bo Grunt
 perception: '+4'
 rarity: Uncommon
 reflex: '+5'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - no face
 size: Medium
@@ -48,17 +39,14 @@ source: '[[DATABASE/source/Pathfinder 196. The Summer That Never Was|Pathfinder 
   The Summer That Never Was]]'
 speed:
 - 25 feet
-spell: null
 strength: '+1'
 strength_req: '1'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
 weakness:

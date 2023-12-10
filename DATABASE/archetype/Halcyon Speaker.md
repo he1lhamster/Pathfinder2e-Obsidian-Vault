@@ -5,7 +5,6 @@ name: Halcyon Speaker
 prerequisite: '[[DATABASE/feat/Magaambyan Attendant Dedication|Magaambyan Attendant
   Dedication]] ; member of the Magaambyaof conversant rank'
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

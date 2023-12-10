@@ -1,24 +1,16 @@
 ﻿---
 ac: '28'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Captivating Dance
 - Change Shape
 - Drink Blood
-creature_family: null
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+12'
-hardness: null
 hp: '135'
 id: '2275'
-immunity: null
 intelligence: '+3'
 land_speed: '25'
 language:
@@ -31,9 +23,6 @@ name: The Dancing Lady
 perception: '+16'
 rarity: Unique
 reflex: '+17'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
@@ -54,7 +43,6 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Unique|Unique]]'

@@ -1,32 +1,22 @@
 ﻿---
 actions: '[three-actions]'
 area: 20-foot burst
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 1 minute
 element: Air, Fire
 heighten: '+1'
 heighten_level: 2, 3, 4, 5, 6, 7, 8, 9, 10
 id: '865'
-lesson: null
 level: '2'
-mystery: null
 name: Ash Cloud
-patron_theme: null
 range: 120 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Fortitude
 school: Conjuration
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-target: null
 tradition:
 - Arcane
 - Primal
@@ -34,7 +24,6 @@ trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Fire|Fire]]'
-trigger: null
 type: Spell
 
 ---

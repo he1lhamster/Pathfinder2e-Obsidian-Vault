@@ -1,10 +1,5 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Westyr's Wayfinder Repository
-frequency: null
-heighten_level: null
 id: '2273'
 level: '6'
 name: Westyr's Wayfinder Repository
@@ -13,13 +8,9 @@ prerequisite: '[[DATABASE/feat/Pathfinder Agent Dedication|Pathfinder Agent Dedi
 rarity: Common
 requirement: You have at least one 1st-level spell slot and a [[DATABASE/equipment/Wayfinder|wayfinder]]
   .
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

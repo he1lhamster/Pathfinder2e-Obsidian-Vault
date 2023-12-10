@@ -1,10 +1,7 @@
 ﻿---
 ac: '36'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+8'
 creature_ability:
 - Attack of Opportunity
@@ -12,10 +9,7 @@ creature_ability:
 - Construct Armor
 - Steal the Sun
 - Trample
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+29'
 hardness: '14'
 hp: '200'
@@ -37,16 +31,12 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '20'
-language: null
 level: '13'
 max_speed: '20'
 name: Living-Sun Spire
 perception: '+21'
 rarity: Common
 reflex: '+19'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Gargantuan
@@ -56,12 +46,10 @@ source: '[[DATABASE/source/Pathfinder 172. Secrets of the Temple City|Pathfinder
   Secrets of the Temple City]]'
 speed:
 - 20 feet
-spell: null
 strength: '+9'
 strength_req: '9'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Mindless|Mindless]]'
@@ -69,7 +57,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+17'
 wisdom: '+0'
 

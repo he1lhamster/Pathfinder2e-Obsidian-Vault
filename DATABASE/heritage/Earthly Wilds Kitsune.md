@@ -2,9 +2,7 @@
 id: '137'
 name: Earthly Wilds Kitsune
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-trait: null
 type: Heritage
 
 ---

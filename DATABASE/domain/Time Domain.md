@@ -1,7 +1,5 @@
 ﻿---
-advanced_apocryphal_spell: null
 advanced_domain_spell: '[[DATABASE/spell/Stasis|Stasis]]'
-apocryphal_spell: null
 deity:
 - '[[DATABASE/deity/Aakriti|Aakriti]]'
 - '[[DATABASE/deity/Alseta|Alseta]]'
@@ -19,9 +17,7 @@ domain_spell: '[[DATABASE/spell/Delay Consequence|Delay Consequence]]'
 id: '54'
 name: Time Domain
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
-trait: null
 type: Domain
 
 ---

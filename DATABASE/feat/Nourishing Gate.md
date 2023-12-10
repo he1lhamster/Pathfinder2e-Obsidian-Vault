@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Nourishing Gate
-frequency: null
-heighten_level: null
 id: '4200'
+leads_to: '[[DATABASE/feat/Elemental Apotheosis|Elemental Apotheosis]]'
 level: '14'
 name: Nourishing Gate
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Kineticist|Kineticist]]'
-trigger: null
 type: Feat
 
 ---

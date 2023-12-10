@@ -1,25 +1,17 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Loremaster Dedication
-frequency: null
-heighten_level: null
 id: '2000'
+leads_to: '[[DATABASE/feat/Magical Edification|Magical Edification]] , [[DATABASE/feat/Orthographic
+  Mastery|Orthographic Mastery]] , [[DATABASE/feat/Quick Study|Quick Study]]'
 level: '2'
 name: Loremaster Dedication
 prerequisite: trained in at least one skill to [[DATABASE/action/Decipher Writing|Decipher
   Writing]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
-trigger: null
 type: Feat
 
 ---

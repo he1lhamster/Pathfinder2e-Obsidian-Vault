@@ -1,10 +1,7 @@
 ﻿---
 ac: '35'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Disorienting Tumble
@@ -12,14 +9,10 @@ creature_ability:
 - Powerful Fists
 - Pressure Point Attack
 - Sneak Attack
-creature_family: null
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+24'
 hp: '250'
 id: '1475'
-immunity: null
 intelligence: '+1'
 land_speed: '35'
 language:
@@ -33,9 +26,6 @@ name: Shino Hakusa
 perception: '+22'
 rarity: Unique
 reflex: '+28'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +28'
@@ -49,21 +39,17 @@ source: '[[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #
   Despair on Danger Island]]'
 speed:
 - 35 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+22'
 wisdom: '+2'
 

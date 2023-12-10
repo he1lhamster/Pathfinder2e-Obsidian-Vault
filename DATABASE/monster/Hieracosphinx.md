@@ -1,10 +1,7 @@
 ﻿---
 ac: '22'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Buck
@@ -13,13 +10,10 @@ creature_ability:
 - Shriek
 creature_family: '[[DATABASE/monsterfamily/Sphinx|Sphinx]]'
 dexterity: '+4'
-element: null
 fly_speed: '60'
 fortitude: '+12'
-hardness: null
 hp: '70'
 id: '1317'
-immunity: null
 intelligence: '-2'
 land_speed: '30'
 language:
@@ -30,9 +24,6 @@ name: Hieracosphinx
 perception: '+14'
 rarity: Common
 reflex: '+15'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -45,19 +36,16 @@ source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 30 feet
 - fly 60 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+10'
 wisdom: '+3'
 

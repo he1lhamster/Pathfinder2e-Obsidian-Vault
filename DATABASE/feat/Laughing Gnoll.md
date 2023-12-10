@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Laughing Gnoll
-frequency: null
-heighten_level: null
 id: '2802'
 level: '9'
 name: Laughing Gnoll
 prerequisite: Master in [[DATABASE/skill/Intimidation|Intimidation]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Gnoll|Gnoll]]'
-trigger: null
 type: Feat
 
 ---

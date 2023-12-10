@@ -1,10 +1,7 @@
 ﻿---
 ac: '42'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+9'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Claustrophobic Nightmares
@@ -17,10 +14,8 @@ creature_ability:
 - Skip Between
 creature_family: '[[DATABASE/monsterfamily/Sahkil|Sahkil]]'
 dexterity: '+5'
-element: null
 fly_speed: '40'
 fortitude: '+33'
-hardness: null
 hp: '305'
 id: '1645'
 immunity:
@@ -29,7 +24,6 @@ immunity:
 - poison
 - precision
 intelligence: '+2'
-land_speed: null
 language:
 - '[[DATABASE/language/Abyssal|Abyssal]]'
 - '[[DATABASE/language/Celestial|Celestial]]'
@@ -43,8 +37,6 @@ rarity: Common
 reflex: '+28'
 resistance:
 - physical 15 (except force orghost touch; double resistance vs. non-magical)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/spell/True Seeing|true seeing]]'
@@ -71,7 +63,6 @@ strength: '+9'
 strength_req: '9'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fiend|Fiend]]'
 - '[[DATABASE/trait/Incorporeal|Incorporeal]]'

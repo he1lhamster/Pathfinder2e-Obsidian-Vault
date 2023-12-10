@@ -1,8 +1,6 @@
 ﻿---
 ac: '28'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+7'
 climb_speed: '25'
 constitution: '+4'
@@ -13,10 +11,7 @@ creature_ability:
 - Psychic Superiority
 creature_family: '[[DATABASE/monsterfamily/Vampire, Vetalarana|Vampire, Vetalarana]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+19'
-hardness: null
 hp: 140 ( fast healing 10 , mental rebirth, negative healing )
 id: '1912'
 immunity:
@@ -42,8 +37,6 @@ resistance:
 - '[[DATABASE/trait/Mental|mental]] 10'
 - physical 10 (except [[DATABASE/trait/Magical|magical]] [[DATABASE/equipment/Cold
   Iron Weapon|coldiron]] )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - thoughtsense (precise) 100 feet
@@ -89,7 +82,6 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 - '[[DATABASE/trait/Undead|Undead]]'

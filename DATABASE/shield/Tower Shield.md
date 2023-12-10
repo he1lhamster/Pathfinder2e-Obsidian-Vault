@@ -10,10 +10,8 @@ level: '0'
 name: Tower Shield
 price: 10 gp
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 speed_penalty: -5 ft.
-trait: null
 type: Shield
 
 ---

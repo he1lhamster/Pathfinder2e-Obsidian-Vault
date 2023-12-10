@@ -1,17 +1,10 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
-frequency: null
 id: '562'
 name: Shred
 rarity: Common
 requirement: The shark hit with a jaws Strike on its most recent action this turn.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-trait: null
-trigger: null
 type: Action
 
 ---

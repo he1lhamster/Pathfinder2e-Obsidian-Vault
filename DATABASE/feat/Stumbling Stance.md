@@ -1,24 +1,16 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Stumbling Stance
-frequency: null
-heighten_level: null
 id: '1735'
+leads_to: '[[DATABASE/feat/Stumbling Feint|Stumbling Feint]]'
 level: '1'
 name: Stumbling Stance
 prerequisite: Trained in [[DATABASE/skill/Deception|Deception]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Monk|Monk]]'
 - '[[DATABASE/trait/Stance|Stance]]'
-trigger: null
 type: Feat
 
 ---

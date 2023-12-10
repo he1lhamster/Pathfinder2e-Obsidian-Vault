@@ -1,8 +1,6 @@
 ﻿---
 ac: '22'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+15'
 hardness: 12 Face Hardness
 hazard_type: Trap
@@ -16,17 +14,12 @@ level: '5'
 name: Breath of Despair
 rarity: Common
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
 - '[[DATABASE/trait/Complex|Complex]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Breath of Despair<span class="item-type">Hazard 5</span>

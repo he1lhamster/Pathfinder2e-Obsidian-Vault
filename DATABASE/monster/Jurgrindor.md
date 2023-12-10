@@ -1,23 +1,15 @@
 ﻿---
 ac: '17'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Chill Breath
 - Wounded Arm
-creature_family: null
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+12'
-hardness: null
 hp: 50 (currently 25)
 id: '2219'
-immunity: null
 intelligence: '+0'
 land_speed: '30'
 language:
@@ -29,9 +21,6 @@ name: Jurgrindor
 perception: '+9'
 rarity: Unique
 reflex: '+6'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Large
@@ -43,12 +32,10 @@ skill:
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 speed:
 - 30 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Cold|Cold]]'
 - '[[DATABASE/trait/Giant|Giant]]'
@@ -58,7 +45,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Reflex
-weakness: null
 will: '+9'
 wisdom: '+2'
 

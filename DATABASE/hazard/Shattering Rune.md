@@ -1,20 +1,10 @@
 ﻿---
-ac: null
-all_resistance: null
 complexity: Simple
-element: null
-fortitude: null
-hardness: null
 hazard_type: Trap
-hp: null
 id: '129'
-immunity: null
 level: '9'
 name: Shattering Rune
 rarity: Common
-reflex: null
-resistance: null
-rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Pathfinder 177. Burning Tundra|Pathfinder #177: Burning
   Tundra]]'
@@ -24,8 +14,6 @@ trait:
 - '[[DATABASE/trait/Sonic|Sonic]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Shattering Rune<span class="item-type">Hazard 9</span>

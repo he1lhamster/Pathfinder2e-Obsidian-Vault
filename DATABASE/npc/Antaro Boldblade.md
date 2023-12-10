@@ -1,20 +1,12 @@
 ﻿---
 ac: '15'
 alignment: CG
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+1'
-creature_ability: null
-creature_family: null
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+5'
 hp: '9'
 id: '2470'
-immunity: null
 intelligence: '+0'
 land_speed: '15'
 language:
@@ -26,9 +18,6 @@ name: Antaro Boldblade
 perception: '+4'
 rarity: Common
 reflex: '+2'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +4'
@@ -46,15 +35,12 @@ strength: '+2'
 strength_req: '2'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+8'
 wisdom: '+2'
 

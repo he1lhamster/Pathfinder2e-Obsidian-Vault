@@ -1,8 +1,6 @@
 ﻿---
 ac: '20'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+12'
 hardness: '10'
 hazard_type: Haunt
@@ -16,9 +14,6 @@ level: '3'
 name: Kepgeda's Keening Cauldron
 rarity: Unique
 reflex: '+6'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 181. Zombie Feast|Pathfinder #181: Zombie Feast]]'
 trait:
 - '[[DATABASE/trait/Complex|Complex]]'

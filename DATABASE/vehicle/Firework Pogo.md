@@ -1,26 +1,16 @@
 ﻿---
 ac: '17'
-burrow_speed: null
-climb_speed: null
-fly_speed: null
 fortitude: '+11'
 hardness: '5'
 hp: '70'
 id: '42'
 item_category: Vehicles
-land_speed: null
 level: '4'
-max_speed: null
 name: Firework Pogo
 price: 300 gp
 rarity: Uncommon
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 size: Medium
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Vehicle

@@ -1,10 +1,7 @@
 ﻿---
 ac: '27'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Drown
@@ -13,10 +10,8 @@ creature_ability:
 - Stygian Guardian
 creature_family: '[[DATABASE/monsterfamily/Devil|Devil]]'
 dexterity: '+3'
-element: null
 fly_speed: '25'
 fortitude: '+18'
-hardness: null
 hp: '120'
 id: '607'
 immunity:
@@ -36,8 +31,6 @@ reflex: '+13'
 resistance:
 - physical 5 (except [[DATABASE/equipment/Silver|silver]] )
 - poison 10
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 - '[[DATABASE/spell/See Invisibility|see invisibility]]'

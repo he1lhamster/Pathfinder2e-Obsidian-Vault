@@ -1,56 +1,20 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '2218'
 item_category: Tattoos
-item_subcategory: null
-land_speed: null
 level: '10'
-max_speed: null
 name: Sun Sight
-onset: null
 price: 850 gp
-range: null
 rarity: Common
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
-size: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-spell: null
-stage: null
 subcategory: tattoo
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Invested|Invested]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Tattoo|Tattoo]]'
-trigger: null
 type: Item
 usage: tattooed on the body
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Sun Sight<span class="item-type">Item 10</span>

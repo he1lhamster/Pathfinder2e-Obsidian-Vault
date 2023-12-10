@@ -1,57 +1,21 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
 bulk: L
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '2384'
 item_category: Cursed Items
-item_subcategory: null
-land_speed: null
 level: '15'
-max_speed: null
 name: Mother Maw
-onset: null
-price: null
-range: null
 rarity: Rare
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Conjuration
-size: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-spell: null
-stage: null
 subcategory: curseditem
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Cursed|Cursed]]'
 - '[[DATABASE/trait/Extradimensional|Extradimensional]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Item
 usage: placed on a surface
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Mother Maw<span class="item-type">Item 15</span>

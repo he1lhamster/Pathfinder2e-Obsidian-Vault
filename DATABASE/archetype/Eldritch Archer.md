@@ -4,9 +4,7 @@ level: '6'
 name: Eldritch Archer
 prerequisite: expert in at least one type of [[DATABASE/weapongroup/Bow|bow]]
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-trait: null
 type: Archetype
 
 ---

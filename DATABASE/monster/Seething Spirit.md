@@ -2,21 +2,16 @@
 ac: '29'
 alignment: CE
 all_resistance: '10'
-burrow_speed: null
 charisma: '+7'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Furious Possession
 - Pulse of Rage
 - Taste Anger
 - Vulnerable to Calm Emotions
-creature_family: null
 dexterity: '+6'
-element: null
 fly_speed: '40'
 fortitude: '+17'
-hardness: null
 hp: 145 ( negative healing )
 id: '1290'
 immunity:
@@ -27,7 +22,6 @@ immunity:
 - precision
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '+2'
-land_speed: null
 language:
 - '[[DATABASE/language/Common|Common]]'
 - '[[DATABASE/language/Dwarven|Dwarven]]'
@@ -45,8 +39,6 @@ resistance:
 - '[[DATABASE/trait/Mental|mental]]'
 - or [[DATABASE/trait/Positive|positive]] ; double resistancevs. non- [[DATABASE/trait/Magical|magical]]
   )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - tastes anger (imprecise) 1 mile
@@ -72,7 +64,6 @@ strength: '-5'
 strength_req: '-5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Incorporeal|Incorporeal]]'
 - '[[DATABASE/trait/Spirit|Spirit]]'

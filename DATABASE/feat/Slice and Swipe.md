@@ -1,28 +1,19 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Slice and Swipe
-frequency: null
-heighten_level: null
 id: '2206'
 level: '6'
 name: Slice and Swipe
-prerequisite: null
 rarity: Uncommon
 requirement: You're wielding a melee weapon that deals slashing damage and you have
   a free hand.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 159. All or Nothing|Pathfinder #159: All or
   Nothing]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Flourish|Flourish]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Rogue|Rogue]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

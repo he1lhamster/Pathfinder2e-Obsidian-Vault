@@ -1,6 +1,5 @@
 ﻿---
 ac: '29'
-bulk: null
 fortitude: '+23'
 hardness: '15'
 hp: '200'
@@ -13,7 +12,6 @@ name: Alchemical Springald
 price: 6,000 gp
 rarity: Uncommon
 reflex: '+16'
-rus_type_level: null
 size: Huge
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:

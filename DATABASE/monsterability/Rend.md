@@ -3,9 +3,7 @@ actions: '[one-action]'
 id: '30'
 name: Rend
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
-trait: null
 type: Creature Ability
 
 ---

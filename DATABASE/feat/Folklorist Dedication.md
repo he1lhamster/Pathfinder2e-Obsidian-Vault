@@ -1,26 +1,19 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Folklorist Dedication
-frequency: null
-heighten_level: null
 id: '3034'
+leads_to: '[[DATABASE/feat/Communal Tale|Communal Tale]] , [[DATABASE/feat/Folktales
+  Lore|Folktales Lore]] , [[DATABASE/feat/Narrative Conduit|Narrative Conduit]] ,
+  [[DATABASE/feat/Rule of Three|Rule of Three]]'
 level: '2'
 name: Folklorist Dedication
 prerequisite: Trained in [[DATABASE/skill/Performance|Performance]]
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 170. Spoken on the Song Wind|Pathfinder #170:
   Spoken on the Song Wind]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

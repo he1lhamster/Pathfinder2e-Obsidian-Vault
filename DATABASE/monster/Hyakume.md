@@ -1,10 +1,7 @@
 ﻿---
 ac: '36'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Eye Probe
@@ -12,12 +9,8 @@ creature_ability:
 - Lore Master
 - Scatterbrain Palm
 - Steal Memories
-creature_family: null
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+23'
-hardness: null
 hp: '275'
 id: '1198'
 immunity:
@@ -36,8 +29,6 @@ rarity: Uncommon
 reflex: '+25'
 resistance:
 - mental 10
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -71,7 +62,6 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
@@ -79,7 +69,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+29'
 wisdom: '+6'
 

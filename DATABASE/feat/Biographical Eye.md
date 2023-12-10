@@ -1,25 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Biographical Eye
-frequency: null
-heighten_level: null
 id: '2113'
 level: '7'
 name: Biographical Eye
 prerequisite: Master in [[DATABASE/skill/Society|Society]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: society
 trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Secret|Secret]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

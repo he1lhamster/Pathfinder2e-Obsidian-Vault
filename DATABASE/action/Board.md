@@ -1,19 +1,13 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
-frequency: null
 id: '482'
 name: Board
 rarity: Common
 requirement: You are adjacent to a point of entry on the vehicle you are attempting
   to board.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
 - '[[DATABASE/trait/Move|Move]]'
-trigger: null
 type: Action
 
 ---

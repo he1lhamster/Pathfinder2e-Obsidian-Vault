@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Garuda's Squall
-frequency: null
-heighten_level: null
 id: '2286'
 level: '5'
 name: Garuda's Squall
 prerequisite: '[[DATABASE/feat/Plumekith|Plumekith]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Aasimar|Aasimar]]'
 - '[[DATABASE/trait/Lineage|Lineage]]'
-trigger: null
 type: Feat
 
 ---

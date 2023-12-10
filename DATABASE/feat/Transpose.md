@@ -1,27 +1,18 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Transpose
-frequency: null
-heighten_level: null
 id: '2926'
 level: '10'
 name: Transpose
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Conjuration
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Summoner|Summoner]]'
 - '[[DATABASE/trait/Teleportation|Teleportation]]'
-trigger: null
 type: Feat
 
 ---

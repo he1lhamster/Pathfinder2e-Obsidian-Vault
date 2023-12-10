@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Shared Luck (Catfolk)
-frequency: null
-heighten_level: null
 id: '1263'
 level: '9'
 name: Shared Luck (Catfolk)
 prerequisite: '[[DATABASE/feat/Cat''s Luck|Cat''s Luck]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Catfolk|Catfolk]]'
-trigger: null
 type: Feat
 
 ---

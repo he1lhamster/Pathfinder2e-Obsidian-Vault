@@ -1,19 +1,13 @@
 ﻿---
 ac: '18'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
 climb_speed: '15'
 constitution: '+3'
 creature_ability:
 - Spotlight
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+9'
-hardness: null
 hp: '27'
 id: '570'
 immunity:
@@ -21,16 +15,12 @@ immunity:
 - '[[DATABASE/trait/Light|light]]'
 intelligence: '-4'
 land_speed: '25'
-language: null
 level: '2'
 max_speed: '25'
 name: Blindheim
 perception: '+9'
 rarity: Common
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -43,7 +33,6 @@ speed:
 - 25 feet
 - climb 15 feet
 - swim 15 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
@@ -56,7 +45,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+5'
 wisdom: '+1'
 

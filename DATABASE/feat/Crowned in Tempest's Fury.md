@@ -1,20 +1,12 @@
 ﻿---
 actions: '[one-action]'
-cost: null
 element: Air
 feat: Crowned in Tempest's Fury
-frequency: null
-heighten_level: null
 id: '4219'
 level: '18'
 name: Crowned in Tempest's Fury
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Electricity|Electricity]]'
@@ -22,7 +14,6 @@ trait:
 - '[[DATABASE/trait/Kineticist|Kineticist]]'
 - '[[DATABASE/trait/Primal|Primal]]'
 - '[[DATABASE/trait/Stance|Stance]]'
-trigger: null
 type: Feat
 
 ---

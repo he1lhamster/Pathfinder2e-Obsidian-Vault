@@ -1,22 +1,15 @@
 ﻿---
 ac: '37'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+8'
 creature_ability:
 - Breath of Phantasms
 - Draw the Line
 - Nightmare Essence
 - Skull Charge
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+28'
-hardness: null
 hp: '255'
 id: '2159'
 immunity:
@@ -35,16 +28,12 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '25'
-language: null
 level: '14'
 max_speed: '25'
 name: Terrorguard
 perception: '+25'
 rarity: Rare
 reflex: '+25'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -54,12 +43,10 @@ source: '[[DATABASE/source/Pathfinder 184. The Ghouls Hunger|Pathfinder #184: Th
   Ghouls Hunger]]'
 speed:
 - 25 feet
-spell: null
 strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Dream|Dream]]'
@@ -69,7 +56,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+22'
 wisdom: '+2'
 

@@ -4,8 +4,6 @@ id: '11'
 level: '4'
 name: Wildfire
 rarity: Common
-requirement: null
-rus_type_level: null
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
 trait:
 - '[[DATABASE/trait/Weather|Weather]]'

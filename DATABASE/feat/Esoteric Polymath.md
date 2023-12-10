@@ -1,23 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Esoteric Polymath
-frequency: null
-heighten_level: null
 id: '184'
+leads_to: '[[DATABASE/feat/Eclectic Polymath|Eclectic Polymath]] , [[DATABASE/feat/Impossible
+  Polymath|Impossible Polymath]]'
 level: '2'
 name: Esoteric Polymath
 prerequisite: '[[DATABASE/bardmuse/Polymath|polymath muse]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Bard|Bard]]'
-trigger: null
 type: Feat
 
 ---

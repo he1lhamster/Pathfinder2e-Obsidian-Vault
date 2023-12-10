@@ -1,36 +1,23 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
 domain:
 - '[[DATABASE/domain/Duty Domain|Duty]]'
 duration: 1 minute
-element: null
 heighten: '+3'
 heighten_level: 4, 7, 10
 id: '605'
-lesson: null
 level: '4'
-mystery: null
 name: Dutiful Challenge
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
 target: 1 creature
-tradition: null
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
-trigger: null
 type: Focus
 
 ---

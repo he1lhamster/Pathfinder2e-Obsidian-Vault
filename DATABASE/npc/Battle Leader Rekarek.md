@@ -1,21 +1,14 @@
 ﻿---
 ac: '17'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Haphazard Hack
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+12'
 hp: '40'
 id: '2474'
-immunity: null
 intelligence: '-1'
 land_speed: '20'
 language:
@@ -26,8 +19,6 @@ name: Battle Leader Rekarek
 perception: '+10'
 rarity: Unique
 reflex: '+8'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -39,12 +30,10 @@ source: '[[DATABASE/source/Pathfinder 157. Devil at the Dreaming Palace|Pathfind
   #157: Devil at the Dreaming Palace]]'
 speed:
 - 20 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Kobold|Kobold]]'
@@ -53,7 +42,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+5'
 wisdom: '+1'
 

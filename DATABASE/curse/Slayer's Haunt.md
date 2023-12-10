@@ -1,10 +1,8 @@
 ﻿---
-element: null
 id: '17'
 level: '4'
 name: Slayer's Haunt
 rarity: Common
-rus_type_level: null
 saving_throw: DC 19 Will
 school: Illusion
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
@@ -14,7 +12,6 @@ trait:
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Visual|Visual]]'
 type: Curse
-usage: null
 
 ---
 # Slayer's Haunt<span class="item-type">Curse 4</span>

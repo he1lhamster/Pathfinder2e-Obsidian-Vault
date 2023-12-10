@@ -1,10 +1,7 @@
 ﻿---
 ac: '17'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Living Machine
@@ -12,10 +9,7 @@ creature_ability:
 - Sneak Attack
 creature_family: '[[DATABASE/monsterfamily/Wyrwood|Wyrwood]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+3'
-hardness: null
 hp: '16'
 id: '1372'
 immunity:
@@ -30,9 +24,6 @@ name: Wyrwood Sneak
 perception: '+6'
 rarity: Rare
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -45,12 +36,10 @@ skill:
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 20 feet
-spell: null
 strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Rare|Rare]]'
@@ -59,7 +48,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+8'
 wisdom: '+1'
 

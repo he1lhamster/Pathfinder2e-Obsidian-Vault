@@ -1,32 +1,20 @@
 ﻿---
-actions: null
 area: 20-foot burst
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 8 hours
-element: null
 heighten: 3rd
 heighten_level: 1, 3
 id: '7'
-lesson: null
 level: '1'
-mystery: null
 name: Alarm
-patron_theme: null
 range: touch
 rarity: Common
 requirement: 3 gp silver bell focus
-rus_type_level: null
-saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Arcane
 - Divine
@@ -34,7 +22,6 @@ tradition:
 - Primal
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
-trigger: null
 type: Spell
 
 ---

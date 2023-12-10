@@ -1,22 +1,15 @@
 ﻿---
 ac: '24'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Bloodline Magic
 - Reach Spell
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+14'
 hp: '97'
 id: '1787'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -30,9 +23,6 @@ name: Azi
 perception: '+19'
 rarity: Common
 reflex: '+15'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Arcana|Arcana]] +13'
@@ -71,15 +61,12 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+18'
 wisdom: '+4'
 

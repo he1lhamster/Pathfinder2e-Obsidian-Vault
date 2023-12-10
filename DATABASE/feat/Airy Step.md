@@ -1,20 +1,12 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Airy Step
 frequency: once per day
-heighten_level: null
 id: '2601'
 level: '13'
 name: Airy Step
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Sylph|Sylph]]'
 trigger: A creature targets you with an [[DATABASE/trait/Attack|attack]] or other

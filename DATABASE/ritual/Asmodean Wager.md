@@ -1,23 +1,16 @@
 ﻿---
-area: null
 cost: parchment, ink, and an item of value from each bettor worth at least 50 gp
 duration: Until the wager's completion
-element: null
-heighten: null
 heighten_level: '6'
 id: '52'
 level: '6'
 name: Asmodean Wager
 primary_check: '[[DATABASE/skill/Occultism|Occultism]] (expert)'
-range: null
 rarity: Rare
-requirement: null
-rus_type_level: null
 school: Divination
 secondary_casters: 1 to 9
 secondary_check: '[[DATABASE/skill/Society|Society]]'
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-target: null
 trait:
 - '[[DATABASE/trait/Divination|Divination]]'
 - '[[DATABASE/trait/Linguistic|Linguistic]]'

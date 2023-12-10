@@ -1,10 +1,6 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Sepulchral Sublimation
-frequency: null
-heighten_level: null
 id: '3485'
 level: '14'
 name: Sepulchral Sublimation
@@ -14,10 +10,8 @@ prerequisite: ability to create or control [[DATABASE/trait/Undead|undead]] ; [[
 rarity: Uncommon
 requirement: You have at least one undead [[DATABASE/trait/Minion|minion]] that you
   permanentlycontrol.
-rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Cleric|Cleric]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
@@ -26,7 +20,6 @@ trait:
 - '[[DATABASE/trait/Oracle|Oracle]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 - '[[DATABASE/trait/Wizard|Wizard]]'
-trigger: null
 type: Feat
 
 ---

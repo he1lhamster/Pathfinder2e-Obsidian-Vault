@@ -1,27 +1,15 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: varies
-element: null
-heighten: null
 heighten_level: '9'
 id: '1025'
-lesson: null
 level: '9'
-mystery: null
 name: Unspeakable Shadow
-patron_theme: null
 range: 120 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Will
 school: Illusion
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
@@ -37,7 +25,6 @@ trait:
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Shadow|Shadow]]'
 - '[[DATABASE/trait/Visual|Visual]]'
-trigger: null
 type: Spell
 
 ---

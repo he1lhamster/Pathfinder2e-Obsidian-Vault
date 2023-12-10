@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Great Tengu Form
-frequency: null
-heighten_level: null
 id: '1322'
 level: '17'
 name: Great Tengu Form
 prerequisite: '[[DATABASE/feat/Long-Nosed Form|Long-Nosed Form]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Tengu|Tengu]]'
-trigger: null
 type: Feat
 
 ---

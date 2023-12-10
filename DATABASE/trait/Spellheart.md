@@ -2,7 +2,6 @@
 id: '391'
 name: Spellheart
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 trait:
 - Spellheart

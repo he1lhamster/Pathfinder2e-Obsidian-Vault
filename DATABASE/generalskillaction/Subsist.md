@@ -2,9 +2,7 @@
 id: '6'
 name: Subsist
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: General Skill Action
 
 ---

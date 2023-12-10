@@ -1,10 +1,7 @@
 ﻿---
 ac: '42'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Airflow Blades
@@ -12,14 +9,11 @@ creature_ability:
 - Blade Barrage
 - Disarming Whirl
 - 'Toughest Teamwork: Wind Shell'
-creature_family: null
 dexterity: '+4'
-element: null
 fly_speed: '60'
 fortitude: '+33'
 hp: '331'
 id: '1523'
-immunity: null
 intelligence: '+4'
 land_speed: '25'
 language:
@@ -33,8 +27,6 @@ name: Takatorra (Daitengu Form)
 perception: '+32'
 rarity: Unique
 reflex: '+29'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
@@ -48,12 +40,10 @@ source: '[[DATABASE/source/Pathfinder 168. King of the Mountain|Pathfinder #168:
 speed:
 - 25 feet
 - fly 60 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Tengu|Tengu]]'
@@ -63,7 +53,6 @@ vision: Low-light vision
 weakest_save:
 - Reflex
 - Will
-weakness: null
 will: '+29'
 wisdom: '+5'
 

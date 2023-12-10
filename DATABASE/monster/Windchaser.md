@@ -1,24 +1,16 @@
 ﻿---
 ac: '27'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Attack of Opportunity
 - Buck
 - Gallop
-creature_family: null
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+18'
-hardness: null
 hp: '138'
 id: '2259'
-immunity: null
 intelligence: '+2'
 land_speed: '40'
 language:
@@ -30,9 +22,6 @@ name: Windchaser
 perception: '+16'
 rarity: Unique
 reflex: '+15'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -43,12 +32,10 @@ skill:
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 speed:
 - 40 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Unique|Unique]]'
@@ -56,7 +43,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Reflex
-weakness: null
 will: '+16'
 wisdom: '+3'
 

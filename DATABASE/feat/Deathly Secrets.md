@@ -1,23 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Deathly Secrets
-frequency: null
-heighten_level: null
 id: '3487'
+leads_to: '[[DATABASE/feat/Greater Deathly Secrets|Greater Deathly Secrets]] , [[DATABASE/feat/Master
+  of the Dead|Master of the Dead]]'
 level: '6'
 name: Deathly Secrets
 prerequisite: '[[DATABASE/feat/Reanimator Dedication|Reanimator Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

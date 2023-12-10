@@ -1,10 +1,7 @@
 ﻿---
 ac: '37'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Attack of Opportunity
@@ -20,7 +17,6 @@ dexterity: '+3'
 element: Fire
 fly_speed: '150'
 fortitude: '+28'
-hardness: null
 hp: '305'
 id: '137'
 immunity:
@@ -40,9 +36,6 @@ name: Adult Red Dragon
 perception: '+26'
 rarity: Common
 reflex: '+25'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - scent (imprecise) 60 feet
@@ -68,7 +61,6 @@ strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dragon|Dragon]]'
 - '[[DATABASE/trait/Fire|Fire]]'

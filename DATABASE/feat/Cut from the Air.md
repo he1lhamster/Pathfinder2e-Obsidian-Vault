@@ -1,21 +1,14 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Cut from the Air
-frequency: null
-heighten_level: null
 id: '1729'
+leads_to: '[[DATABASE/feat/Smash from the Air|Smash from the Air]]'
 level: '10'
 name: Cut from the Air
-prerequisite: null
 rarity: Common
 requirement: You're aware of the attack, not [[DATABASE/condition/Flat-Footed|flat-footed]]
   against it,and either have a hand free or are wielding a melee weapon.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fighter|Fighter]]'
 trigger: You are the target of a physical ranged Strike.

@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Larcenous Hand
-frequency: null
-heighten_level: null
 id: '3384'
 level: '8'
 name: Larcenous Hand
 prerequisite: '[[DATABASE/feat/Agile Hand|Agile Hand]] ; [[DATABASE/feat/Pickpocket|Pickpocket]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

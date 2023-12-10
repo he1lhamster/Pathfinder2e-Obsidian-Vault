@@ -1,24 +1,15 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Smoke Curtain
-frequency: null
-heighten_level: null
 id: '3180'
 level: '8'
 name: Smoke Curtain
-prerequisite: null
 rarity: Common
 requirement: You're wielding a loaded firearm and are wearing or holding a dose of
   black powder.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Gunslinger|Gunslinger]]'
-trigger: null
 type: Feat
 
 ---

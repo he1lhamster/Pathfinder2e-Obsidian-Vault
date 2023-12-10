@@ -1,20 +1,10 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Skillful Tail
-frequency: null
-heighten_level: null
 id: '1386'
 level: '5'
 name: Skillful Tail
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Ardande|Ardande]]'
 - '[[DATABASE/trait/Ifrit|Ifrit]]'
@@ -24,7 +14,6 @@ trait:
 - '[[DATABASE/trait/Talos|Talos]]'
 - '[[DATABASE/trait/Tiefling|Tiefling]]'
 - '[[DATABASE/trait/Undine|Undine]]'
-trigger: null
 type: Feat
 
 ---

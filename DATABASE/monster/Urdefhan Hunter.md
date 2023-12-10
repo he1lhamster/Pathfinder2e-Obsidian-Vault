@@ -1,10 +1,7 @@
 ﻿---
 ac: '34'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Deadly Aim
@@ -14,10 +11,7 @@ creature_ability:
 - Wicked Bite
 creature_family: '[[DATABASE/monsterfamily/Urdefhan|Urdefhan]]'
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+20'
-hardness: null
 hp: 190 ( negative healing )
 id: '878'
 immunity:
@@ -36,9 +30,6 @@ name: Urdefhan Hunter
 perception: '+26'
 rarity: Common
 reflex: '+26'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 size: Medium
@@ -60,7 +51,6 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Urdefhan|Urdefhan]]'

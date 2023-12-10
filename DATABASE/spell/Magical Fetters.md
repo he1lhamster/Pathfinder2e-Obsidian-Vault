@@ -1,27 +1,15 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: see below
-element: null
-heighten: null
 heighten_level: '3'
 id: '821'
-lesson: null
 level: '3'
-mystery: null
 name: Magical Fetters
-patron_theme: null
 range: 60 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 saving_throw: Reflex
 school: Conjuration
 source: '[[DATABASE/source/Pathfinder 158. Sixty Feet Under|Pathfinder #158: Sixty
@@ -34,7 +22,6 @@ trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Incapacitation|Incapacitation]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Spell
 
 ---

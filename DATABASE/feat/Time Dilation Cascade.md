@@ -1,26 +1,16 @@
 ﻿---
 actions: '[three-actions]'
-cost: null
-element: null
 feat: Time Dilation Cascade
-frequency: null
-heighten_level: null
 id: '2755'
 level: '20'
 name: Time Dilation Cascade
-prerequisite: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 168. King of the Mountain|Pathfinder #168: King
   of the Mountain]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Flourish|Flourish]]'
 - '[[DATABASE/trait/Ranger|Ranger]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

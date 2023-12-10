@@ -1,8 +1,6 @@
 ﻿---
 bulk: '2'
 damage: 1d8 S
-deity: null
-favored_weapon: null
 hands: '1'
 id: '62'
 item_category: Weapons
@@ -10,9 +8,7 @@ item_subcategory: Base Weapons
 level: '0'
 name: Dwarven War Axe
 price: 3 gp
-range: null
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Dwarf|Dwarf]]'

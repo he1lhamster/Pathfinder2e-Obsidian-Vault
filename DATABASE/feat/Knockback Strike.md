@@ -1,24 +1,14 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Knockback Strike
-frequency: null
-heighten_level: null
 id: '464'
 level: '10'
 name: Knockback Strike
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Monk|Monk]]'
-trigger: null
 type: Feat
 
 ---

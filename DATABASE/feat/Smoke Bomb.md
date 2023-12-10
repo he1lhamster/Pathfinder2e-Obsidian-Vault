@@ -1,20 +1,12 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Smoke Bomb
 frequency: once per round
-heighten_level: null
 id: '98'
 level: '2'
 name: Smoke Bomb
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Additive|Additive 1]]'
 - '[[DATABASE/trait/Alchemist|Alchemist]]'

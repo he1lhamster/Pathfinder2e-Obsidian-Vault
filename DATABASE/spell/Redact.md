@@ -1,36 +1,23 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
-cost: null
-deity: null
 domain:
 - '[[DATABASE/domain/Glyph Domain|Glyph]]'
 duration: 1 day
-element: null
 heighten: 3rd, 4th
 heighten_level: 1, 3, 4
 id: '606'
-lesson: null
 level: '1'
-mystery: null
 name: Redact
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
 target: unattended written materials of up to 1 Bulk or less
-tradition: null
 trait:
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Focus
 
 ---

@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Thaumaturge's Investiture
-frequency: null
-heighten_level: null
 id: '3718'
 level: '10'
 name: Thaumaturge's Investiture
 prerequisite: Charisma 16
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Thaumaturge|Thaumaturge]]'
-trigger: null
 type: Feat
 
 ---

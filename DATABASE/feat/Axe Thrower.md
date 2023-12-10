@@ -1,25 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Axe Thrower
-frequency: null
-heighten_level: null
 id: '1235'
 level: '6'
 name: Axe Thrower
 prerequisite: '[[DATABASE/feat/Turpin Rowe Lumberjack Dedication|Turpin Rowe Lumberjack
   Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 153. Life''s Long Shadows|Pathfinder #153: Life''s
   Long Shadows]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

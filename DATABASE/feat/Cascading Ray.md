@@ -1,10 +1,6 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Cascading Ray
-frequency: null
-heighten_level: null
 id: '2868'
 level: '10'
 name: Cascading Ray
@@ -13,14 +9,10 @@ rarity: Common
 requirement: Your last action was a successful Spellstrike, and the spell you cast
   dealt energy damage (acid,cold, electricity, fire, force, negative, positive, or
   sonic).
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Attack|Attack]]'
 - '[[DATABASE/trait/Magus|Magus]]'
-trigger: null
 type: Feat
 
 ---

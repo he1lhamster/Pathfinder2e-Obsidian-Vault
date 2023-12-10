@@ -12,12 +12,10 @@ level: '0'
 name: Breastplate
 price: 8 gp
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 speed_penalty: -5 ft.
 strength: '+16'
 strength_req: '16'
-trait: null
 type: Armor
 
 ---

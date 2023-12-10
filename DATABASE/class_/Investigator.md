@@ -14,14 +14,11 @@ id: '13'
 name: Investigator
 perception_proficiency: Expert
 rarity: Common
-rus_type_level: null
 skill_proficiency:
 - Trained in Society
 - Trained in one or more skills determined by your methodology
 - Trained in a number of additional skills equal to 4 plus your Intelligence modifier
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-tradition: null
-trait: null
 type: Class
 
 ---

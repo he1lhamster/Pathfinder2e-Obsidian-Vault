@@ -1,20 +1,13 @@
 ﻿---
 actions: '[one-action]'
-cost: null
 element: Fire
 feat: Eternal Torch
-frequency: null
 heighten_level: 1, 8
 id: '4237'
 level: '1'
 name: Eternal Torch
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fire|Fire]]'
 - '[[DATABASE/trait/Impulse|Impulse]]'
@@ -22,7 +15,6 @@ trait:
 - '[[DATABASE/trait/Light|Light]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Primal|Primal]]'
-trigger: null
 type: Feat
 
 ---

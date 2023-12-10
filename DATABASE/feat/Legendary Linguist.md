@@ -1,24 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Legendary Linguist
-frequency: null
-heighten_level: null
 id: '802'
 level: '15'
 name: Legendary Linguist
 prerequisite: Legendary in [[DATABASE/skill/Society|Society]] ; [[DATABASE/feat/Multilingual|Multilingual]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: society
 trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

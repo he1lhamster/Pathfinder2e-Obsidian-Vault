@@ -1,9 +1,4 @@
 ﻿---
-area: null
-cost: null
-duration: null
-element: null
-heighten: null
 heighten_level: '8'
 id: '71'
 level: '8'
@@ -13,8 +8,6 @@ primary_check: DC 40 [[DATABASE/skill/Arcana|Arcana]] or [[DATABASE/skill/Nature
 range: all casters must be physically located within the stone ring of the Doorway
   to the Red Star
 rarity: Rare
-requirement: null
-rus_type_level: null
 school: Conjuration
 secondary_casters: at least 1 (the maximum is limited only by the physical space within
   the ring of stones)

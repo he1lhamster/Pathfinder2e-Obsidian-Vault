@@ -1,37 +1,23 @@
 ﻿---
 actions: '[one-action]'
 area: one 5-foot square
-bloodline: null
 component:
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: sustained up to 1 minute
-element: null
 heighten: '+3'
 heighten_level: 1, 4, 7, 10
 id: '1145'
-lesson: null
 level: '1'
-mystery: null
 name: Distortion Lens
-patron_theme: null
 range: 30 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-target: null
-tradition: null
 trait:
 - '[[DATABASE/trait/Cantrip|Cantrip]]'
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Psychic|Psychic]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Cantrip
 
 ---

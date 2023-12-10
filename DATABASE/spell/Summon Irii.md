@@ -1,32 +1,18 @@
 ﻿---
 actions: '[three-actions]'
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: until the end of your next turn
-element: null
-heighten: null
 heighten_level: '8'
 id: '1189'
-lesson: null
 level: '8'
-mystery: null
 name: Summon Irii
-patron_theme: null
 range: 100 feet
 rarity: Rare
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-target: null
 tradition:
 - Arcane
 - Occult
@@ -34,7 +20,6 @@ trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Incarnate|Incarnate]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Spell
 
 ---

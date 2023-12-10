@@ -3,7 +3,6 @@ id: '31'
 level: '0'
 name: Public Scandal
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Intrigue|Intrigue]]'
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'

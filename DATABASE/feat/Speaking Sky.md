@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Speaking Sky
-frequency: null
-heighten_level: null
 id: '2204'
 level: '12'
 name: Speaking Sky
 prerequisite: '[[DATABASE/feat/Jalmeri Heavenseeker Dedication|Jalmeri Heavenseeker
   Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

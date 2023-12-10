@@ -1,10 +1,7 @@
 ﻿---
 ac: '44'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Contingency
@@ -17,12 +14,9 @@ creature_ability:
 - Telekinetic Whirlwind
 - Torpor
 - Trap Soul
-creature_family: null
 dexterity: '+6'
-element: null
 fly_speed: '30'
 fortitude: '+29'
-hardness: null
 hp: 300 ( negative healing )
 id: '1584'
 immunity:
@@ -32,7 +26,6 @@ immunity:
 - '[[DATABASE/trait/Polymorph|polymorph]]'
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '+8'
-land_speed: null
 language:
 - '[[DATABASE/language/Abyssal|Abyssal]]'
 - '[[DATABASE/language/Daemonic|Daemonic]]'
@@ -51,8 +44,6 @@ resistance:
 - '[[DATABASE/trait/Electricity|electricity]] 10'
 - '[[DATABASE/trait/Fire|fire]] 10'
 - physical 10(except bludgeoning)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/spell/True Seeing|true seeing]]'
@@ -81,7 +72,6 @@ strength: '-3'
 strength_req: '-3'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Undead|Undead]]'
 - '[[DATABASE/trait/Unique|Unique]]'
@@ -89,7 +79,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+35'
 wisdom: '-2'
 

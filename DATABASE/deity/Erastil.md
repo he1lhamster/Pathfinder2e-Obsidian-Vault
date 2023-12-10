@@ -25,11 +25,9 @@ follower_alignment:
 id: '6'
 name: Erastil
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Survival|Survival]]'
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Deity
 
 ---

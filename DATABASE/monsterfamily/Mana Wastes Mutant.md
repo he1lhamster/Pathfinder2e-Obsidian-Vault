@@ -3,9 +3,7 @@ creature_family: Mana Wastes Mutant
 id: '315'
 name: Mana Wastes Mutant
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-trait: null
 type: Creature Family
 
 ---

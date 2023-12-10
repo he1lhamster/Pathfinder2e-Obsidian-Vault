@@ -1,24 +1,16 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Poison Weapon
-frequency: null
-heighten_level: null
 id: '563'
+leads_to: '[[DATABASE/feat/Improved Poison Weapon|Improved Poison Weapon]]'
 level: '4'
 name: Poison Weapon
-prerequisite: null
 rarity: Common
 requirement: You are wielding a piercing or slashing weapon.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Rogue|Rogue]]'
-trigger: null
 type: Feat
 
 ---

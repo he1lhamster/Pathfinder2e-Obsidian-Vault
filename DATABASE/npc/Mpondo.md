@@ -1,23 +1,16 @@
 ﻿---
 ac: '37'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Attack of Opportunity
 - Iobane Vision
 - Spellstrike
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+25'
 hp: '285'
 id: '1711'
-immunity: null
 intelligence: '+6'
 land_speed: '25'
 language:
@@ -30,8 +23,6 @@ name: Mpondo
 perception: '+26'
 rarity: Unique
 reflex: '+23'
-resistance: null
-rus_type_level: null
 sense:
 - Iobane vision
 size: Medium
@@ -63,16 +54,13 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+27'
 wisdom: '+3'
 

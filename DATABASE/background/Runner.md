@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Quick Jump|Quick Jump]]'
 id: '359'
 name: Runner
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]]'
 - '[[DATABASE/skill/Lore|Lore]] forthe city in which you were a messenger.'
 source: '[[DATABASE/source/Firebrands|Firebrands]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

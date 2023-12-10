@@ -1,10 +1,7 @@
 ﻿---
 ac: '32'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Breath Weapon
@@ -16,7 +13,6 @@ dexterity: '+7'
 element: Air
 fly_speed: '100'
 fortitude: '+19'
-hardness: null
 hp: '140'
 id: '181'
 immunity:
@@ -25,7 +21,6 @@ immunity:
 - poison
 - sleep
 intelligence: '+0'
-land_speed: null
 language:
 - '[[DATABASE/language/Auran|Auran]]'
 level: '11'
@@ -34,9 +29,6 @@ name: Elemental Hurricane
 perception: '+20'
 rarity: Common
 reflex: '+24'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Huge
@@ -46,12 +38,10 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - fly 100 feet; swiftness
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Elemental|Elemental]]'
@@ -59,7 +49,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+18'
 wisdom: '+3'
 

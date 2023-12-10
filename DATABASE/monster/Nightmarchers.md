@@ -2,9 +2,7 @@
 ac: '30'
 alignment: LN
 all_resistance: '5'
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Blazing Admonition
@@ -16,12 +14,8 @@ creature_ability:
 - Troop
 - Defenses
 - Troop Movement
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+24'
-hardness: null
 hp: '240'
 id: '1248'
 immunity:
@@ -45,8 +39,6 @@ resistance:
 - all damage 5 (except [[DATABASE/trait/Force|force]]
 - '[[DATABASE/equipment/Ghost Touch|ghost touch]]'
 - or [[DATABASE/trait/Positive|positive]] ; double resistance vs. non-magical)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - kinsense
@@ -65,7 +57,6 @@ strength: '-5'
 strength_req: '-5'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Incorporeal|Incorporeal]]'
 - '[[DATABASE/trait/Spirit|Spirit]]'

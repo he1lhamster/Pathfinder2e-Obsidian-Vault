@@ -1,10 +1,8 @@
 ﻿---
-element: null
 id: '38'
 level: '11'
 name: Forbidding Knowledge
 rarity: Rare
-rus_type_level: null
 saving_throw: DC 28 Will
 school: Abjuration
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
@@ -14,7 +12,6 @@ trait:
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Curse
-usage: null
 
 ---
 # Forbidding Knowledge<span class="item-type">Curse 11</span>

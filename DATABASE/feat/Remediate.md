@@ -1,25 +1,17 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Remediate
 frequency: once per hour
-heighten_level: null
 id: '1708'
 level: '16'
 name: Remediate
 prerequisite: '[[DATABASE/class_/Cleric|harmful font or healing font]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Cleric|Cleric]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Metamagic|Metamagic]]'
-trigger: null
 type: Feat
 
 ---

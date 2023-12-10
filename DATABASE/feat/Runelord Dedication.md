@@ -1,26 +1,20 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Runelord Dedication
-frequency: null
-heighten_level: null
 id: '3020'
+leads_to: '[[DATABASE/feat/Embed Aeon Stone|Embed Aeon Stone]] , [[DATABASE/feat/Fused
+  Polearm|Fused Polearm]] , [[DATABASE/feat/Polearm Tricks|Polearm Tricks]] , [[DATABASE/feat/School
+  Counterspell|School Counterspell]] , [[DATABASE/feat/School Spell Redirection|School
+  Spell Redirection]] , [[DATABASE/feat/Sin Reservoir|Sin Reservoir]]'
 level: '2'
 name: Runelord Dedication
 prerequisite: runelord specialization
 rarity: Rare
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Class|Class]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Feat
 
 ---

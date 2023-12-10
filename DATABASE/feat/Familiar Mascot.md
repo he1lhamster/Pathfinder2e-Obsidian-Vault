@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Familiar Mascot
-frequency: null
-heighten_level: null
 id: '1971'
 level: '4'
 name: Familiar Mascot
 prerequisite: '[[DATABASE/feat/Familiar Master Dedication|Familiar Master Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

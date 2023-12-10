@@ -1,46 +1,19 @@
 ﻿---
-ac: null
 actions: '[one-action]'
-alignment: null
-base_item: null
 bulk: L
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
 duration: 8 hours
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '630'
 item_category: Alchemical Items
 item_subcategory: Drugs
-land_speed: null
 level: '5'
-max_speed: null
 name: Cytillesh
-onset: null
 price: 30 gp
-range: null
 rarity: Uncommon
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
 saving_throw: DC 15 Fortitude
-school: null
-size: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
-spell: null
 stage: 'Stage 1: stupefied 1 (1 minute)Stage 2: lose all memories made in the previous
   hour (1 hour)'
 subcategory: alchemical/drug
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Alchemical|Alchemical]]'
 - '[[DATABASE/trait/Consumable|Consumable]]'
@@ -48,12 +21,8 @@ trait:
 - '[[DATABASE/trait/Ingested|Ingested]]'
 - '[[DATABASE/trait/Poison|Poison]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Item
 usage: held in 1 hand
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Cytillesh<span class="item-type">Item 5</span>

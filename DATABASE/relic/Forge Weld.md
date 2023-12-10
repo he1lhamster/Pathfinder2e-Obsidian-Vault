@@ -1,11 +1,8 @@
 ﻿---
-element: null
 id: '111'
 item_category: Relics
 name: Forge Weld
-prerequisite: null
 rarity: Common
-rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Highhelm|Highhelm]]'
 trait:

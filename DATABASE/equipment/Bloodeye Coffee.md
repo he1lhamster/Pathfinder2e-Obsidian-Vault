@@ -1,59 +1,29 @@
 ﻿---
-ac: null
 actions: '[one-action]'
-alignment: null
-base_item: null
 bulk: L
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
 duration: 8 hours
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '623'
 item_category: Alchemical Items
 item_subcategory: Drugs
-land_speed: null
 level: '0'
-max_speed: null
 name: Bloodeye Coffee
 onset: 10 minutes
 price: 5 sp
-range: null
 rarity: Common
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
 saving_throw: DC 14 Fortitude
-school: null
-size: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
-spell: null
 stage: "Stage 1: +1 item bonus to AC and saves to which you are taking penalties caused\
   \ by the fatigued condition (10 minutes)Stage 2: stupefied 1 (1 hour)Stage 3: can\u2019\
   t recover from fatigued (1 day, after which the drug ends)"
 subcategory: alchemical/drug
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Alchemical|Alchemical]]'
 - '[[DATABASE/trait/Consumable|Consumable]]'
 - '[[DATABASE/trait/Drug|Drug]]'
 - '[[DATABASE/trait/Ingested|Ingested]]'
 - '[[DATABASE/trait/Poison|Poison]]'
-trigger: null
 type: Item
 usage: held in 1 hand
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Bloodeye Coffee<span class="item-type">Item 0</span>

@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Experienced Smuggler|Experienced Smuggler]]'
 id: '10'
 name: Criminal
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Stealth|Stealth]]'
 - Underworld [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

@@ -1,11 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Geomancer Dedication
-frequency: null
-heighten_level: null
 id: '2995'
+leads_to: '[[DATABASE/feat/Attuned Stride|Attuned Stride]] , [[DATABASE/feat/Attunement
+  Shift|Attunement Shift]] , [[DATABASE/feat/Draw from the Land|Draw from the Land]]
+  , [[DATABASE/feat/Quickened Attunement|Quickened Attunement]] , [[DATABASE/feat/Read
+  the Land|Read the Land]] , [[DATABASE/feat/Rough Terrain Stance|Rough Terrain Stance]]
+  , [[DATABASE/feat/Shared Attunement|Shared Attunement]] , [[DATABASE/feat/Terrain
+  Shield|Terrain Shield]]'
 level: '2'
 name: Geomancer Dedication
 prerequisite: Trained in [[DATABASE/skill/Nature|Nature]] ; ability to cast spells
@@ -13,15 +14,10 @@ prerequisite: Trained in [[DATABASE/skill/Nature|Nature]] ; ability to cast spel
   , [[DATABASE/trait/Earth|earth]] , [[DATABASE/trait/Fire|fire]] , [[DATABASE/trait/Plant|plant]]
   ,or [[DATABASE/trait/Water|water]] trait
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
-trigger: null
 type: Feat
 
 ---

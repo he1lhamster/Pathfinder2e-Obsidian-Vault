@@ -1,24 +1,19 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Pirate Dedication
-frequency: null
-heighten_level: null
 id: '2032'
+leads_to: '[[DATABASE/feat/Broadside Buckos|Broadside Buckos]] , [[DATABASE/feat/Cutting
+  Flattery|Cutting Flattery]] , [[DATABASE/feat/Hook ''Em|Hook ''Em]] , [[DATABASE/feat/Pirate
+  Weapon Training|Pirate Weapon Training]] , [[DATABASE/feat/Rope Runner|Rope Runner]]
+  , [[DATABASE/feat/Walk the Plank|Walk the Plank]] , [[DATABASE/feat/Watch This!|Watch
+  This!]]'
 level: '2'
 name: Pirate Dedication
 prerequisite: Trained in [[DATABASE/skill/Intimidation|Intimidation]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
-trigger: null
 type: Feat
 
 ---

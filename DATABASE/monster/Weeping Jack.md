@@ -1,8 +1,6 @@
 ﻿---
 ac: '33'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
 climb_speed: '25'
 constitution: '+4'
@@ -17,12 +15,8 @@ creature_ability:
 - Escape
 - Sneak Attack
 - Turn to Mist
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+21'
-hardness: null
 hp: '210'
 id: '2187'
 immunity:
@@ -43,9 +37,6 @@ name: Weeping Jack
 perception: '+23'
 rarity: Unique
 reflex: '+24'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -61,13 +52,11 @@ source: '[[DATABASE/source/Pathfinder 184. The Ghouls Hunger|Pathfinder #184: Th
 speed:
 - 25 feet
 - climb 25 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Reflex
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Undead|Undead]]'
 - '[[DATABASE/trait/Unique|Unique]]'

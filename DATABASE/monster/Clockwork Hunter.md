@@ -1,8 +1,6 @@
 ﻿---
 ac: '18'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
 climb_speed: '25'
 constitution: '+0'
@@ -13,10 +11,7 @@ creature_ability:
 - Wind-Up
 creature_family: '[[DATABASE/monsterfamily/Clockworks|Clockworks]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+2'
-hardness: null
 hp: '12'
 id: '1924'
 immunity:
@@ -35,16 +30,12 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '25'
-language: null
 level: '0'
 max_speed: '25'
 name: Clockwork Hunter
 perception: '+7'
 rarity: Uncommon
 reflex: '+8'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -56,12 +47,10 @@ source: '[[DATABASE/source/Pathfinder 178. Punks in a Powderkeg|Pathfinder #178:
 speed:
 - 25 feet
 - climb 25 feet
-spell: null
 strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Clockwork|Clockwork]]'
 - '[[DATABASE/trait/Construct|Construct]]'

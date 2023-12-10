@@ -1,24 +1,16 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Follow-Up Strike
-frequency: null
-heighten_level: null
 id: '2019'
 level: '6'
 name: Follow-Up Strike
 prerequisite: '[[DATABASE/feat/Martial Artist Dedication|Martial Artist Dedication]]'
 rarity: Common
 requirement: Your last action was a missed Strike with a melee unarmed attack.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Flourish|Flourish]]'
-trigger: null
 type: Feat
 
 ---

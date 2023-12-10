@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Tail Whip
-frequency: null
-heighten_level: null
 id: '1056'
+leads_to: '[[DATABASE/feat/Shed Tail|Shed Tail]]'
 level: '1'
 name: Tail Whip
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Lizardfolk|Lizardfolk]]'
-trigger: null
 type: Feat
 
 ---

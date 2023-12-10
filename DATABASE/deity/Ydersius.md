@@ -1,6 +1,4 @@
 ﻿---
-ability: null
-ability_boost: null
 alignment: CE
 deity:
 - '[[DATABASE/deity/Ydersius|Ydersius]]'
@@ -19,11 +17,9 @@ follower_alignment:
 id: '211'
 name: Ydersius
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Deception|Deception]]'
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
-trait: null
 type: Deity
 
 ---

@@ -1,27 +1,16 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 1 minute
-element: null
 heighten: 3rd, 6th
 heighten_level: 1, 3, 6
 id: '1014'
-lesson: null
 level: '1'
-mystery: null
 name: Tame
-patron_theme: null
 range: 10 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Will
 school: Enchantment
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
@@ -34,7 +23,6 @@ trait:
 - '[[DATABASE/trait/Cantrip|Cantrip]]'
 - '[[DATABASE/trait/Enchantment|Enchantment]]'
 - '[[DATABASE/trait/Mental|Mental]]'
-trigger: null
 type: Cantrip
 
 ---

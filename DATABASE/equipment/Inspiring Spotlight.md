@@ -1,57 +1,22 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
 bulk: '3'
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '585'
 item_category: Held Items
-item_subcategory: null
-land_speed: null
 level: '9'
-max_speed: null
 name: Inspiring Spotlight
-onset: null
 price: 650 gp
-range: null
 rarity: Uncommon
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Enchantment
-size: null
 source: '[[DATABASE/source/Pathfinder 152. Legacy of the Lost God|Pathfinder #152:
   Legacy of the Lost God]]'
-spell: null
-stage: null
 subcategory: helditem
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Enchantment|Enchantment]]'
 - '[[DATABASE/trait/Light|Light]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Item
 usage: held in 2 hands
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Inspiring Spotlight<span class="item-type">Item 9</span>

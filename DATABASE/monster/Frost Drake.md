@@ -1,7 +1,6 @@
 ﻿---
 ac: '25'
 alignment: CE
-all_resistance: null
 burrow_speed: '20'
 charisma: '+1'
 climb_speed: '20'
@@ -15,10 +14,8 @@ creature_ability:
 - Speed Surge
 creature_family: '[[DATABASE/monsterfamily/Drake|Drake]]'
 dexterity: '+2'
-element: null
 fly_speed: '50'
 fortitude: '+17'
-hardness: null
 hp: '115'
 id: '163'
 immunity:
@@ -35,9 +32,6 @@ name: Frost Drake
 perception: '+14'
 rarity: Common
 reflex: '+15'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - scent (imprecise) 30 feet
@@ -54,12 +48,10 @@ speed:
 - burrow 20 feet (snow only)
 - fly 50 feet
 - ice climb 20 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Cold|Cold]]'
 - '[[DATABASE/trait/Dragon|Dragon]]'

@@ -1,10 +1,7 @@
 ﻿---
 ac: '17'
 alignment: NG
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Ancestry Feat
@@ -16,12 +13,9 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Threshold of Knowledge Pregenerated Characters|Threshold
   of Knowledge Pregenerated Characters]]'
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+6'
 hp: '17'
 id: '1753'
-immunity: null
 intelligence: '+0'
 land_speed: '20'
 language:
@@ -33,9 +27,6 @@ name: Ufi
 perception: '+7'
 rarity: Unique
 reflex: '+3'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +6'
@@ -60,16 +51,13 @@ strength: '+3'
 strength_req: '3'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+9'
 wisdom: '+4'
 

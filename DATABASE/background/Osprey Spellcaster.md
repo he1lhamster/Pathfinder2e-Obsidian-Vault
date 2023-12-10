@@ -8,9 +8,7 @@ ability_boost:
 feat: '[[DATABASE/feat/Quick Identification|Quick Identification]]'
 id: '404'
 name: Osprey Spellcaster
-prerequisite: null
 rarity: Rare
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]]'
 source: '[[DATABASE/source/Rusthenge|Rusthenge]]'

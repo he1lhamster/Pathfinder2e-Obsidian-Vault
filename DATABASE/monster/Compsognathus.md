@@ -1,34 +1,23 @@
 ﻿---
 ac: '15'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Compsognathus Venom
 creature_family: '[[DATABASE/monsterfamily/Dinosaur|Dinosaur]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+4'
-hardness: null
 hp: '8'
 id: '613'
-immunity: null
 intelligence: '-4'
 land_speed: '30'
-language: null
 level: '-1'
 max_speed: '30'
 name: Compsognathus
 perception: '+5'
 rarity: Common
 reflex: '+7'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Scent|scent (imprecise) 30 feet]]'
@@ -40,7 +29,6 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 30 feet
 - swim 15 feet
-spell: null
 strength: '+0'
 strength_req: '0'
 strongest_save:
@@ -54,7 +42,6 @@ vision: Low-light vision
 weakest_save:
 - Fortitude
 - Will
-weakness: null
 will: '+4'
 wisdom: '+2'
 

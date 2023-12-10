@@ -1,18 +1,11 @@
 ﻿---
-bulk: null
-damage: null
-deity: null
-favored_weapon: null
-hands: null
 id: '210'
 item_category: Weapons
 item_subcategory: Base Weapons
 level: '0'
 name: Magazine (Long Air Repeater)
 price: 8 sp
-range: null
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

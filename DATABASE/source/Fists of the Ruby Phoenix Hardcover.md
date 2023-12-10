@@ -2,9 +2,6 @@
 id: '193'
 name: Fists of the Ruby Phoenix Hardcover
 rarity: Common
-rus_type_level: null
-source: null
-trait: null
 type: Source
 
 ---

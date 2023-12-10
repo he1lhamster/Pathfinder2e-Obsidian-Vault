@@ -1,24 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Suli Amir
-frequency: null
-heighten_level: null
 id: '2590'
 level: '13'
 name: Suli Amir
-prerequisite: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Suli|Suli]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,11 +1,8 @@
 ﻿---
-actions: null
 id: '23'
 name: Low-Light Vision
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
-trait: null
 type: Creature Ability
 
 ---

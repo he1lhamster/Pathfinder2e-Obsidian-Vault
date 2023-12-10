@@ -1,11 +1,8 @@
 ﻿---
-element: null
 id: '11'
 level: '3'
 name: Raucous
 rarity: Rare
-rus_type_level: null
-saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:

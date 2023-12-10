@@ -1,40 +1,27 @@
 ﻿---
 actions: '[two-actions]'
-area: null
 bloodline: '[[DATABASE/sorcererbloodline/Wyrmblessed|Wyrmblessed]]'
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Abraxas|Abraxas]]'
 - '[[DATABASE/deity/Nalinivati|Nalinivati]]'
 - '[[DATABASE/deity/Shizuru|Shizuru]]'
-domain: null
 duration: 1 minute
-element: null
 heighten: '+2'
 heighten_level: 4, 6, 8, 10
 id: '583'
-lesson: null
 level: '4'
-mystery: null
 name: Reflective Scales
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
-target: null
 tradition:
 - Arcane
 - Primal
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
-trigger: null
 type: Spell
 
 ---

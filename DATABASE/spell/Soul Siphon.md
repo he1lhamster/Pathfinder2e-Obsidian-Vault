@@ -1,38 +1,25 @@
 ﻿---
 actions: '[one-action]'
-area: null
-bloodline: null
 component:
 - Somatic
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
 heighten: '+1'
 heighten_level: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
 id: '760'
-lesson: null
 level: '1'
 mystery: '[[DATABASE/oraclemystery/Bones|Bones]]'
 name: Soul Siphon
-patron_theme: null
 range: 30 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 saving_throw: Fortitude
 school: Necromancy
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 target: 1 living creature
-tradition: null
 trait:
 - '[[DATABASE/trait/Cursebound|Cursebound]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Negative|Negative]]'
 - '[[DATABASE/trait/Oracle|Oracle]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Focus
 
 ---

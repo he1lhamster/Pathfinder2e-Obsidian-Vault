@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Expert Psychic Spellcasting
-frequency: null
-heighten_level: null
 id: '3741'
+leads_to: '[[DATABASE/feat/Master Psychic Spellcasting|Master Psychic Spellcasting]]'
 level: '12'
 name: Expert Psychic Spellcasting
 prerequisite: '[[DATABASE/feat/Basic Psychic Spellcasting|Basic Psychic Spellcasting]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

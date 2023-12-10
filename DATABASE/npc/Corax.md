@@ -1,21 +1,14 @@
 ﻿---
 ac: '16'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Felling Blow
-creature_family: null
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+10'
 hp: '55'
 id: '2228'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -26,9 +19,6 @@ name: Corax
 perception: '+8'
 rarity: Unique
 reflex: '+8'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +8'
@@ -39,22 +29,18 @@ skill:
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 speed:
 - 25 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
 - Will
-weakness: null
 will: '+8'
 wisdom: '+1'
 

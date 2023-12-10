@@ -1,37 +1,25 @@
 ﻿---
 ac: '23'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Clench Jaws
 - Deep Breath
 - Gnawing Bite
 - Shell Defense
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+15'
-hardness: null
 hp: '78'
 id: '2233'
-immunity: null
 intelligence: '-4'
 land_speed: '15'
-language: null
 level: '5'
 max_speed: '25'
 name: Old Crackjaw
 perception: '+11'
 rarity: Unique
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -43,7 +31,6 @@ source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 speed:
 - 15 feet
 - swim 25 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
@@ -56,7 +43,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Reflex
-weakness: null
 will: '+13'
 wisdom: '+4'
 

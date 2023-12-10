@@ -1,10 +1,7 @@
 ﻿---
 ac: '28'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Breath Weapon
@@ -14,10 +11,8 @@ creature_ability:
 - Savage Jaws
 creature_family: '[[DATABASE/monsterfamily/Basilisk|Basilisk]]'
 dexterity: '+2'
-element: null
 fly_speed: '40'
 fortitude: '+20'
-hardness: null
 hp: '155'
 id: '565'
 immunity:
@@ -26,7 +21,6 @@ immunity:
 - sleep
 intelligence: '-3'
 land_speed: '20'
-language: null
 level: '9'
 max_speed: '40'
 name: Dracolisk
@@ -35,8 +29,6 @@ rarity: Uncommon
 reflex: '+17'
 resistance:
 - draconic resistance 10
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Tremorsense|tremorsense (imprecise) 30 feet]]'
@@ -50,12 +42,10 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 20 feet
 - fly 40 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Dragon|Dragon]]'
@@ -64,7 +54,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+18'
 wisdom: '+5'
 

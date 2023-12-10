@@ -1,8 +1,6 @@
 ﻿---
 bulk: L
 damage: 1d6 P
-deity: null
-favored_weapon: null
 hands: '1'
 id: '69'
 item_category: Weapons
@@ -12,9 +10,7 @@ name: Hand Crossbow
 price: 3 gp
 range: 60 ft.
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Weapon
 weapon_category: Simple
 weapon_group: '[[DATABASE/weapongroup/Bow|Bow]]'

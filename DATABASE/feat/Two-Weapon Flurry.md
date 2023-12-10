@@ -1,25 +1,16 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Two-Weapon Flurry
-frequency: null
-heighten_level: null
 id: '420'
 level: '14'
 name: Two-Weapon Flurry
-prerequisite: null
 rarity: Common
 requirement: You are wielding two weapons, each in a different hand.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fighter|Fighter]]'
 - '[[DATABASE/trait/Flourish|Flourish]]'
 - '[[DATABASE/trait/Press|Press]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,46 +1,16 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
 base_item: '[[DATABASE/weapon/Arquebus|Arquebus]]'
 bulk: '2'
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '1597'
 item_category: Weapons
 item_subcategory: Specific Magic Weapons
-land_speed: null
 level: '11'
-max_speed: null
 name: Hex Blaster
-onset: null
 price: 1,400 gp
-range: null
 rarity: Unique
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Enchantment
-size: null
 source: '[[DATABASE/source/Pathfinder 180. The Smoking Gun|Pathfinder #180: The Smoking
   Gun]]'
-spell: null
-stage: null
-subcategory: null
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Curse|Curse]]'
 - '[[DATABASE/trait/Emotion|Emotion]]'
@@ -50,12 +20,8 @@ trait:
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Occult|Occult]]'
 - '[[DATABASE/trait/Unique|Unique]]'
-trigger: null
 type: Item
 usage: held in 2 hands
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Hex Blaster<span class="item-type">Item 11</span>

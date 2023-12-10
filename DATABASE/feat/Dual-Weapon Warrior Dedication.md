@@ -1,24 +1,17 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Dual-Weapon Warrior Dedication
-frequency: null
-heighten_level: null
 id: '1950'
+leads_to: '[[DATABASE/feat/Dual Onslaught|Dual Onslaught]] , [[DATABASE/feat/Dual
+  Thrower|Dual Thrower]] , [[DATABASE/feat/Dual-Weapon Blitz|Dual-Weapon Blitz]] ,
+  [[DATABASE/feat/Dual-Weapon Reload|Dual-Weapon Reload]] , [[DATABASE/feat/Flensing
+  Slice|Flensing Slice]]'
 level: '2'
 name: Dual-Weapon Warrior Dedication
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
-trigger: null
 type: Feat
 
 ---

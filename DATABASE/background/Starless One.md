@@ -5,12 +5,9 @@ ability:
 ability_boost:
 - Wisdom
 - Charisma
-feat: null
 id: '333'
 name: Starless One
-prerequisite: null
 rarity: Rare
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Occultism|Occultism]]'
 - Astrology [[DATABASE/skill/Lore|Lore]]

@@ -1,10 +1,6 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Blast Tackle
-frequency: null
-heighten_level: null
 id: '3197'
 level: '14'
 name: Blast Tackle
@@ -12,13 +8,9 @@ prerequisite: '[[DATABASE/gunslingerway/Way of the Vanguard|way of the vanguard]
 rarity: Common
 requirement: You're wielding a two-handed crossbow or a firearm that has the [[DATABASE/trait/Kickback|kickback]]
   or [[DATABASE/trait/Scatter|scatter]] trait.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Gunslinger|Gunslinger]]'
-trigger: null
 type: Feat
 
 ---

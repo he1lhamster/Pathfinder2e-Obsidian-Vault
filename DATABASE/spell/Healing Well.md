@@ -1,32 +1,19 @@
 ﻿---
 actions: '[three-actions]'
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 1 minute
-element: null
 heighten: '+1'
 heighten_level: 5, 6, 7, 8, 9, 10
 id: '926'
-lesson: null
 level: '5'
-mystery: null
 name: Healing Well
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-target: null
 tradition:
 - Divine
 - Primal
@@ -34,7 +21,6 @@ trait:
 - '[[DATABASE/trait/Healing|Healing]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Positive|Positive]]'
-trigger: null
 type: Spell
 
 ---

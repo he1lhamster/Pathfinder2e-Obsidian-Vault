@@ -1,10 +1,7 @@
 ﻿---
 ac: '40'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+8'
-climb_speed: null
 constitution: '+8'
 creature_ability:
 - Attack of Opportunity
@@ -16,12 +13,8 @@ creature_ability:
 - Radiate Glory
 - Smoke Vision
 - Sun's Touch
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+31'
-hardness: null
 hp: '380'
 id: '1707'
 immunity:
@@ -43,8 +36,6 @@ rarity: Rare
 reflex: '+25'
 resistance:
 - physical 10
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 - smoke vision
@@ -82,7 +73,6 @@ strength_req: '9'
 strongest_save:
 - Fortitude
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Divine|Divine]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'

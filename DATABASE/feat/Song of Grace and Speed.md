@@ -1,27 +1,20 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Song of Grace and Speed
 frequency: once per day
-heighten_level: null
 id: '3043'
 level: '16'
 name: Song of Grace and Speed
 prerequisite: '[[DATABASE/feat/Nantambu Chime-Ringer Dedication|Nantambu Chime-Ringer
   Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Pathfinder 170. Spoken on the Song Wind|Pathfinder #170:
   Spoken on the Song Wind]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Auditory|Auditory]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Feat
 
 ---

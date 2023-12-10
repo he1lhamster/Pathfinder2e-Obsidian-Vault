@@ -1,10 +1,8 @@
 ﻿---
-element: null
 id: '39'
 level: '13'
 name: Enforced Hospitality
 rarity: Rare
-rus_type_level: null
 saving_throw: DC 31 Will
 school: Enchantment
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
@@ -15,7 +13,6 @@ trait:
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Curse
-usage: null
 
 ---
 # Enforced Hospitality<span class="item-type">Curse 13</span>

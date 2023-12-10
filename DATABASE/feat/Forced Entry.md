@@ -1,25 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Forced Entry
-frequency: null
-heighten_level: null
 id: '1126'
 level: '6'
 name: Forced Entry
 prerequisite: Expert in [[DATABASE/skill/Athletics|Athletics]] ; [[DATABASE/feat/Pathfinder
   Agent Dedication|Pathfinder Agent Dedication]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

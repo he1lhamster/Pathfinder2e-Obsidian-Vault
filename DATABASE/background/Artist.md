@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Specialty Crafting|Specialty Crafting]]'
 id: '5'
 name: Artist
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Crafting|Crafting]]'
 - Art [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

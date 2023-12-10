@@ -18,7 +18,6 @@ language:
 max_speed: '25'
 name: Lizardfolk
 rarity: Uncommon
-rus_type_level: null
 size: Medium
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 speed:
@@ -28,7 +27,6 @@ trait:
 - '[[DATABASE/trait/Lizardfolk|Lizardfolk]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Ancestry
-vision: null
 
 ---
 # Lizardfolk

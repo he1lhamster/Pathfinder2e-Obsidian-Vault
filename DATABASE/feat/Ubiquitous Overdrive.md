@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Ubiquitous Overdrive
-frequency: null
-heighten_level: null
 id: '3089'
 level: '20'
 name: Ubiquitous Overdrive
 prerequisite: '[[DATABASE/feat/Shared Overdrive|Shared Overdrive]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Inventor|Inventor]]'
-trigger: null
 type: Feat
 
 ---

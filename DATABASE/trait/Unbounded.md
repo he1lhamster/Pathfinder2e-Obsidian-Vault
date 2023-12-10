@@ -2,7 +2,6 @@
 id: '293'
 name: Unbounded
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
 - Unbounded

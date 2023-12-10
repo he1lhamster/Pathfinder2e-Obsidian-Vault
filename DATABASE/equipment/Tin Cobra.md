@@ -1,45 +1,12 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '1134'
 item_category: Snares
-item_subcategory: null
-land_speed: null
 level: '5'
-max_speed: null
 name: Tin Cobra
-onset: null
 price: 23 gp
-range: null
 rarity: Uncommon
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
-school: null
-size: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-spell: null
-stage: null
 subcategory: snare
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Clockwork|Clockwork]]'
 - '[[DATABASE/trait/Consumable|Consumable]]'
@@ -48,12 +15,7 @@ trait:
 - '[[DATABASE/trait/Snare|Snare]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Item
-usage: null
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Tin Cobra<span class="item-type">Item 5</span>

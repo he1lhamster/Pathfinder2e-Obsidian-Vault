@@ -1,19 +1,14 @@
 ﻿---
 ac: '18'
 alignment: NG
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Cloak in Embers
 creature_family: '[[DATABASE/monsterfamily/Elemental, Fire|Elemental, Fire]]'
 dexterity: '+4'
 element: Fire
-fly_speed: null
 fortitude: '+6'
-hardness: null
 hp: '35'
 id: '655'
 immunity:
@@ -32,9 +27,6 @@ name: Ember Fox
 perception: '+8'
 rarity: Common
 reflex: '+10'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -45,12 +37,10 @@ skill:
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 30 feet
-spell: null
 strength: '+1'
 strength_req: '1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Elemental|Elemental]]'
 - '[[DATABASE/trait/Fire|Fire]]'

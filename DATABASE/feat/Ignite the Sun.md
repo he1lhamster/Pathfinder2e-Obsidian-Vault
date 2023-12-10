@@ -1,27 +1,18 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
 element: Fire
 feat: Ignite the Sun
-frequency: null
-heighten_level: null
 id: '4250'
 level: '18'
 name: Ignite the Sun
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fire|Fire]]'
 - '[[DATABASE/trait/Impulse|Impulse]]'
 - '[[DATABASE/trait/Kineticist|Kineticist]]'
 - '[[DATABASE/trait/Light|Light]]'
 - '[[DATABASE/trait/Primal|Primal]]'
-trigger: null
 type: Feat
 
 ---

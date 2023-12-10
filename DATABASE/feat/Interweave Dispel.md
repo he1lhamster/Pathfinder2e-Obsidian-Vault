@@ -1,24 +1,15 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Interweave Dispel
-frequency: null
-heighten_level: null
 id: '623'
 level: '14'
 name: Interweave Dispel
 prerequisite: '[[DATABASE/spell/Dispel Magic|dispel magic]] in your spell repertoire'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Metamagic|Metamagic]]'
 - '[[DATABASE/trait/Sorcerer|Sorcerer]]'
-trigger: null
 type: Feat
 
 ---

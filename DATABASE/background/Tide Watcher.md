@@ -5,12 +5,9 @@ ability:
 ability_boost:
 - Intelligence
 - Charisma
-feat: null
 id: '335'
 name: Tide Watcher
-prerequisite: null
 rarity: Rare
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Nature|Nature]]'
 - Ocean [[DATABASE/skill/Lore|Lore]]

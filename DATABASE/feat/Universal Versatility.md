@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Universal Versatility
-frequency: null
-heighten_level: null
 id: '649'
 level: '8'
 name: Universal Versatility
 prerequisite: '[[DATABASE/wizardarcaneschool/Universalist|universalist wizard]] ;
   [[DATABASE/feat/Hand of the Apprentice|Hand of the Apprentice]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Wizard|Wizard]]'
-trigger: null
 type: Feat
 
 ---

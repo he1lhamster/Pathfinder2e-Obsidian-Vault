@@ -1,42 +1,16 @@
 ﻿---
-ac: null
 actions: '[one-action]'
-alignment: null
-base_item: null
 bulk: L
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
 duration: 8 hours
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '1495'
 item_category: Alchemical Items
 item_subcategory: Drugs
-land_speed: null
 level: '6'
-max_speed: null
 name: Demon Dust
-onset: null
 price: 45 gp
-range: null
 rarity: Uncommon
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
 saving_throw: DC 20 Fortitude
-school: null
-size: null
 source: '[[DATABASE/source/Absalom, City of Lost Omens|Absalom, City of Lost Omens]]'
-spell: null
 stage: 'Stage 1: +2 item bonus to Athletics checks and treat up to 4Bulk as being
   negligible in weight (1 minute)Stage 2: +2 item bonus to Athletics checks, treat
   up to 4 Bulk as being negligible in weight, and stupefied 1 (1 hour)Stage 3: stupefied
@@ -45,7 +19,6 @@ stage: 'Stage 1: +2 item bonus to Athletics checks and treat up to 4Bulk as bein
   hour)Stage 6: stupefied 2 and all memories made in the previous 24 hours become
   hazy and vague (1 hour)'
 subcategory: alchemical/drug
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Alchemical|Alchemical]]'
 - '[[DATABASE/trait/Consumable|Consumable]]'
@@ -53,12 +26,8 @@ trait:
 - '[[DATABASE/trait/Inhaled|Inhaled]]'
 - '[[DATABASE/trait/Poison|Poison]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Item
 usage: held in 1 hand
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Demon Dust<span class="item-type">Item 6</span>

@@ -1,7 +1,5 @@
 ﻿---
-advanced_apocryphal_spell: null
 advanced_domain_spell: '[[DATABASE/spell/Protector''s Sphere|Protector''s Sphere]]'
-apocryphal_spell: null
 deity:
 - '[[DATABASE/deity/Adanye|Adanye]]'
 - '[[DATABASE/deity/Alseta|Alseta]]'
@@ -63,9 +61,7 @@ domain_spell: '[[DATABASE/spell/Protector''s Sacrifice|Protector''s Sacrifice]]'
 id: '27'
 name: Protection Domain
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Domain
 
 ---

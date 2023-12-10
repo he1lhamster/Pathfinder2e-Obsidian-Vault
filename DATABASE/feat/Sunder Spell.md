@@ -1,26 +1,18 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Sunder Spell
-frequency: null
-heighten_level: null
 id: '1624'
+leads_to: '[[DATABASE/feat/Sunder Enchantment|Sunder Enchantment]]'
 level: '12'
 name: Sunder Spell
 prerequisite: '[[DATABASE/barbarianinstinct/Superstition Instinct|superstition instinct]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Attack|Attack]]'
 - '[[DATABASE/trait/Barbarian|Barbarian]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Rage|Rage]]'
-trigger: null
 type: Feat
 
 ---

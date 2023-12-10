@@ -1,37 +1,25 @@
 ﻿---
 ac: '28'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Pack Ambush
 - Pack Attack
 - Rushing Attack
 - Trample
-creature_family: null
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+20'
-hardness: null
 hp: '150'
 id: '1395'
-immunity: null
 intelligence: '-4'
 land_speed: '30'
-language: null
 level: '10'
 max_speed: '30'
 name: Dromornis
 perception: '+19'
 rarity: Uncommon
 reflex: '+21'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -45,12 +33,10 @@ source: '[[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #
   Despair on Danger Island]]'
 speed:
 - 30 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
@@ -58,7 +44,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+17'
 wisdom: '+3'
 

@@ -1,22 +1,16 @@
 ﻿---
 ac: '39'
-alignment: null
-all_resistance: null
-burrow_speed: null
 charisma: '+9'
-climb_speed: null
 constitution: '+8'
 creature_ability:
 - Dual Beams
 - Plentiful Metals
 - Shift Mood
 - Whirling Hands
-creature_family: null
 dexterity: '+8'
 element: Metal
 fly_speed: '60'
 fortitude: '+31'
-hardness: null
 hp: '290'
 id: '2641'
 immunity:
@@ -25,7 +19,6 @@ immunity:
 - '[[DATABASE/trait/Poison|poison]]'
 - '[[DATABASE/trait/Sleep|sleep]]'
 intelligence: '+7'
-land_speed: null
 language:
 - '[[DATABASE/language/Talican|Talican]] ; plus one language for each of their mouths;
   [[DATABASE/monsterability/Telepathy|telepathy]] 100 feet'
@@ -38,8 +31,6 @@ reflex: '+29'
 resistance:
 - '[[DATABASE/trait/Electricity|electricity]] 10'
 - physical 10 (except [[DATABASE/equipment/Adamantine Weapon|adamantine]] )
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Huge
@@ -55,12 +46,10 @@ skill:
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 speed:
 - fly 60 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Elemental|Elemental]]'
 - '[[DATABASE/trait/Metal|Metal]]'
@@ -69,7 +58,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+30'
 wisdom: '+5'
 

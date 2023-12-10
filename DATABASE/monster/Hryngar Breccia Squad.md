@@ -1,10 +1,7 @@
 ﻿---
 ac: '28'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Attack of Opportunity
@@ -20,13 +17,9 @@ creature_ability:
 - Troop Movement
 creature_family: '[[DATABASE/monsterfamily/Duergar|Duergar]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+20'
-hardness: null
 hp: '150'
 id: '2708'
-immunity: null
 intelligence: '+2'
 land_speed: '20'
 language:
@@ -39,9 +32,6 @@ name: Hryngar Breccia Squad
 perception: '+18'
 rarity: Uncommon
 reflex: '+15'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Gargantuan
@@ -55,12 +45,10 @@ source: '[[DATABASE/source/Pathfinder 195. Heavy is the Crown|Pathfinder #195: H
   is the Crown]]'
 speed:
 - 20 feet; troop movement
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Duergar|Duergar]]'
 - '[[DATABASE/trait/Dwarf|Dwarf]]'

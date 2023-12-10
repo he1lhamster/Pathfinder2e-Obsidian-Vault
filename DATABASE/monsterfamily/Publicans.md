@@ -3,9 +3,7 @@ creature_family: Publicans
 id: '194'
 name: Publicans
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
-trait: null
 type: Creature Family
 
 ---

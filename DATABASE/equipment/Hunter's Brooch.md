@@ -1,58 +1,24 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
 bulk: L
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '923'
 item_category: Worn Items
 item_subcategory: Other Worn Items
-land_speed: null
 level: '4'
-max_speed: null
 name: Hunter's Brooch
-onset: null
 price: 80 gp
-range: null
 rarity: Unique
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
-size: null
 source: '[[DATABASE/source/Pathfinder 164. Hands of the Devil|Pathfinder #164: Hands
   of the Devil]]'
-spell: null
-stage: null
 subcategory: wornitem
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Divine|Divine]]'
 - '[[DATABASE/trait/Invested|Invested]]'
 - '[[DATABASE/trait/Positive|Positive]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
 - '[[DATABASE/trait/Unique|Unique]]'
-trigger: null
 type: Item
 usage: worn
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Hunter's Brooch<span class="item-type">Item 4</span>

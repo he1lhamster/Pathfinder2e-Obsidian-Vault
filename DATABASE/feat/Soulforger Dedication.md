@@ -1,25 +1,17 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Soulforger Dedication
-frequency: null
-heighten_level: null
 id: '3016'
+leads_to: '[[DATABASE/feat/Rapid Manifestation|Rapid Manifestation]] , [[DATABASE/feat/Soul
+  Arsenal|Soul Arsenal]] , [[DATABASE/feat/Soul Flare|Soul Flare]]'
 level: '2'
 name: Soulforger Dedication
 prerequisite: Wisdom 14 or ability to castdivinespells
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

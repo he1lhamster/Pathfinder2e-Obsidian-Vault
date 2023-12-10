@@ -1,25 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Garden Path
-frequency: null
-heighten_level: null
 id: '930'
 level: '8'
 name: Garden Path
 prerequisite: '[[DATABASE/feat/Bellflower Dedication|Bellflower Dedication]]'
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 147. Tomorrow Must Burn|Pathfinder #147: Tomorrow
   Must Burn]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,18 +1,12 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 frequency: until recharged (see below)
 id: '755'
 name: Spellstrike
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 trait:
 - '[[DATABASE/trait/Magus|Magus]]'
-trigger: null
 type: Action
 
 ---

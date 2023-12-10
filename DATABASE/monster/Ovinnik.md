@@ -1,8 +1,6 @@
 ﻿---
 ac: '20'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
 climb_speed: '20'
 constitution: '+0'
@@ -12,13 +10,9 @@ creature_ability:
 - Shy
 creature_family: '[[DATABASE/monsterfamily/House Spirit|House Spirit]]'
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+8'
-hardness: null
 hp: '59'
 id: '1196'
-immunity: null
 intelligence: '+2'
 land_speed: '30'
 language:
@@ -32,8 +26,6 @@ rarity: Common
 reflex: '+13'
 resistance:
 - fire 5
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) within their entire
   boundgranary or storeroom'
@@ -58,11 +50,9 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
 weakness:

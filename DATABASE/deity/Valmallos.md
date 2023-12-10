@@ -22,11 +22,9 @@ follower_alignment:
 id: '147'
 name: Valmallos
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Arcana|Arcana]]'
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
-trait: null
 type: Deity
 
 ---

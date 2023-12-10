@@ -1,10 +1,7 @@
 ﻿---
 ac: '28'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Baleful Gaze
@@ -12,10 +9,8 @@ creature_ability:
 - Swallow Whole
 creature_family: '[[DATABASE/monsterfamily/Beheaded|Beheaded]]'
 dexterity: '+4'
-element: null
 fly_speed: '30'
 fortitude: '+21'
-hardness: null
 hp: 170 ( negative healing )
 id: '1841'
 immunity:
@@ -36,9 +31,6 @@ name: Daqqanoenyent
 perception: '+17'
 rarity: Rare
 reflex: '+17'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -50,12 +42,10 @@ source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 speed:
 - 15 feet
 - fly 30 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Undead|Undead]]'

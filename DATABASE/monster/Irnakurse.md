@@ -1,10 +1,7 @@
 ﻿---
 ac: '28'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Attack of Opportunity
@@ -14,13 +11,9 @@ creature_ability:
 - Storm of Tentacles
 creature_family: '[[DATABASE/monsterfamily/Fleshwarp|Fleshwarp]]'
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+20'
-hardness: null
 hp: '152'
 id: '670'
-immunity: null
 intelligence: '-2'
 land_speed: '15'
 language:
@@ -33,9 +26,6 @@ name: Irnakurse
 perception: '+18'
 rarity: Common
 reflex: '+18'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -46,19 +36,16 @@ skill:
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 15 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+16'
 wisdom: '+3'
 

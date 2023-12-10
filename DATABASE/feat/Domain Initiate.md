@@ -1,23 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Domain Initiate
-frequency: null
-heighten_level: null
 id: '265'
+leads_to: '[[DATABASE/feat/Advanced Domain|Advanced Domain]] , [[DATABASE/feat/Expanded
+  Domain Initiate|Expanded Domain Initiate]] , [[DATABASE/feat/Shield of Faith|Shield
+  of Faith]]'
 level: '1'
 name: Domain Initiate
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Cleric|Cleric]]'
-trigger: null
 type: Feat
 
 ---

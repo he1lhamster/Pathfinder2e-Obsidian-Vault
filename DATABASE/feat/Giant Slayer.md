@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Giant Slayer
-frequency: null
-heighten_level: null
 id: '3904'
 level: '16'
 name: Giant Slayer
 prerequisite: '[[DATABASE/feat/Giant Hunter|Giant Hunter]]'
 rarity: Rare
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Ranger|Ranger]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Feat
 
 ---

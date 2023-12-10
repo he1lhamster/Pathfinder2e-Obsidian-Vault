@@ -1,45 +1,16 @@
 ﻿---
-ac: null
 actions: '[free-action]'
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '2109'
 item_category: Consumables
 item_subcategory: Talismans
-land_speed: null
 level: '17'
-max_speed: null
 name: Hungering Maw
-onset: null
 price: 2,200 gp
-range: null
 rarity: Uncommon
-reflex: null
 requirement: You are a master in Will saves.
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Abjuration
-size: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-spell: null
-stage: null
 subcategory: consumable/talisman
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Consumable|Consumable]]'
@@ -51,9 +22,6 @@ trigger: You attempt a saving throw against a [[DATABASE/trait/Possession|posses
   effect
 type: Item
 usage: affixed to armor
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Hungering Maw<span class="item-type">Item 17</span>

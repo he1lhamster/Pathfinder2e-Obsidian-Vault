@@ -1,25 +1,18 @@
 ﻿---
-area: null
 cost: rare candles and incense worth a total value of 50 gp
 duration: up to 10 minutes
-element: null
-heighten: null
 heighten_level: '5'
 id: '5'
 level: '5'
 name: Call Spirit
 primary_check: '[[DATABASE/skill/Occultism|Occultism]] (expert) or [[DATABASE/skill/Religion|Religion]]
   (expert)'
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Necromancy
 secondary_casters: '1'
 secondary_check: "Occultism or Religion (whichever isn\u2019t used for the primary\
   \ check)"
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 trait:
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

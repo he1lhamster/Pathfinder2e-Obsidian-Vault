@@ -1,10 +1,7 @@
 ﻿---
 actions: '[one-action]'
-area: null
-bloodline: null
 component:
 - Somatic
-cost: null
 deity:
 - '[[DATABASE/deity/Gogunta|Gogunta]]'
 - '[[DATABASE/deity/Irori|Irori]]'
@@ -13,32 +10,20 @@ deity:
 - '[[DATABASE/deity/Kabriri|Kabriri]]'
 - '[[DATABASE/deity/Sun Wukong|Sun Wukong]]'
 - '[[DATABASE/deity/The Divine Dare|TheDivine Dare]]'
-domain: null
-duration: null
-element: null
 heighten: 3rd
 heighten_level: 1, 3
 id: '167'
-lesson: null
 level: '1'
-mystery: null
 name: Jump
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Arcane
 - Primal
 trait:
 - '[[DATABASE/trait/Move|Move]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Spell
 
 ---

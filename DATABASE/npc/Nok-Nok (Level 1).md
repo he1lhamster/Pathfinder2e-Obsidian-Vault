@@ -1,10 +1,7 @@
 ﻿---
 ac: '18'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Ancestry Feats
@@ -12,14 +9,10 @@ creature_ability:
 - Class Feats
 - Skill Feats
 - Twin Feint
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+6'
 hp: '17'
 id: '2397'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -31,8 +24,6 @@ name: Nok-Nok (Level 1)
 perception: '+14'
 rarity: Unique
 reflex: '+9'
-resistance: null
-rus_type_level: null
 sense:
 - (expert) [[DATABASE/monsterability/Darkvision|darkvision]]
 size: Small
@@ -52,12 +43,10 @@ skill:
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
 speed:
 - 25 feet
-spell: null
 strength: '+1'
 strength_req: '1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Goblin|Goblin]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -66,7 +55,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+4'
 wisdom: '-1'
 

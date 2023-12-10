@@ -1,11 +1,7 @@
 ﻿---
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 dexterity: '+2'
-element: null
-fly_speed: null
 hp: '8'
 id: '56'
 intelligence: '-4'
@@ -13,7 +9,6 @@ land_speed: '30'
 max_speed: '30'
 name: Rootball Chair
 rarity: Common
-rus_type_level: null
 sense:
 - low-light vision
 size: Medium, Large
@@ -24,8 +19,6 @@ speed:
 - 30 feet
 strength: '+2'
 strength_req: '2'
-swim_speed: null
-trait: null
 type: Animal Companion
 wisdom: '+1'
 

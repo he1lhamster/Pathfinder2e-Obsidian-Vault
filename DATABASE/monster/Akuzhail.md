@@ -1,10 +1,7 @@
 ﻿---
 ac: '29'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Attack of Opportunity
@@ -18,15 +15,11 @@ creature_ability:
 - Three Headed
 - Three-Headed Strike
 - Triple Opportunity
-creature_family: null
 dexterity: '+3'
-element: null
 fly_speed: '40'
 fortitude: '+21'
-hardness: null
 hp: '195'
 id: '2298'
-immunity: null
 intelligence: '-3'
 land_speed: '25'
 language:
@@ -40,8 +33,6 @@ reflex: '+17'
 resistance:
 - acid 10
 - poison 10
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -54,12 +45,10 @@ speed:
 - 25 feet
 - fly 40 feet
 - bloom stride
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Mutant|Mutant]]'
@@ -68,7 +57,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+19'
 wisdom: '+5'
 

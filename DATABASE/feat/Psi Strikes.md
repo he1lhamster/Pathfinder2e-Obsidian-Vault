@@ -1,25 +1,17 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Psi Strikes
 frequency: once per turn
-heighten_level: null
 id: '3665'
 level: '4'
 name: Psi Strikes
-prerequisite: null
 rarity: Common
 requirement: Your most recent action was to Cast a Spell or to [[DATABASE/action/Unleash
   Psyche|Unleashyour Psyche]] .
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Mindshift|Mindshift]]'
 - '[[DATABASE/trait/Psychic|Psychic]]'
-trigger: null
 type: Feat
 
 ---

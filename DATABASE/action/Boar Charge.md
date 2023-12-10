@@ -1,17 +1,9 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
-frequency: null
 id: '558'
 name: Boar Charge
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-trait: null
-trigger: null
 type: Action
 
 ---

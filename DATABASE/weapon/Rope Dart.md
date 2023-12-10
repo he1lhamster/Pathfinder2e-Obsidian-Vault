@@ -1,8 +1,6 @@
 ﻿---
 bulk: '1'
 damage: 1d4 P
-deity: null
-favored_weapon: null
 hands: '2'
 id: '301'
 item_category: Weapons
@@ -10,9 +8,7 @@ item_subcategory: Base Weapons
 level: '0'
 name: Rope Dart
 price: 1 gp
-range: null
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 trait:
 - '[[DATABASE/trait/Disarm|Disarm]]'

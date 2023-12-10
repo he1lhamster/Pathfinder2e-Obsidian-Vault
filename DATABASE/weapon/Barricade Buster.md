@@ -1,8 +1,6 @@
 ﻿---
 bulk: '3'
 damage: 1d10 B
-deity: null
-favored_weapon: null
 hands: '2'
 id: '330'
 item_category: Weapons
@@ -12,7 +10,6 @@ name: Barricade Buster
 price: 9 gp
 range: 40 ft.
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 trait:
 - '[[DATABASE/trait/Kickback|Kickback]]'

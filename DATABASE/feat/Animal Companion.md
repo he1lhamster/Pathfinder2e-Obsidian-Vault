@@ -1,24 +1,19 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Animal Companion
-frequency: null
-heighten_level: null
 id: '311'
+leads_to: '[[DATABASE/feat/Apex Companion|Apex Companion]] , [[DATABASE/feat/Masterful
+  Companion|Masterful Companion]] , [[DATABASE/feat/Mature Animal Companion (Druid)|Mature
+  Animal Companion (Druid)]] , [[DATABASE/feat/Mature Animal Companion (Ranger)|Mature
+  Animal Companion (Ranger)]] , [[DATABASE/feat/Side by Side (Druid)|Side by Side
+  (Druid)]] , [[DATABASE/feat/Stealthy Companion|Stealthy Companion]]'
 level: '1'
 name: Animal Companion
 prerequisite: '[[DATABASE/class_/Druid|Druid]] [[DATABASE/druidicorder/Animal|animalorder]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Druid|Druid]]'
 - '[[DATABASE/trait/Ranger|Ranger]]'
-trigger: null
 type: Feat
 
 ---

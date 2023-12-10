@@ -1,22 +1,16 @@
 ﻿---
 ac: '34'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Rejuvenation
 - Resonant Wail
 - Site Bound
 - Telekinetic Crystalline Assault
-creature_family: null
 dexterity: '+4'
-element: null
 fly_speed: '30'
 fortitude: '+20'
-hardness: null
 hp: 185 ( negative healing , rejuvenation)
 id: '1563'
 immunity:
@@ -27,7 +21,6 @@ immunity:
 - precision
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '+6'
-land_speed: null
 language:
 - '[[DATABASE/language/Elven|Elven]]'
 level: '13'
@@ -36,9 +29,6 @@ name: Talamira
 perception: '+24'
 rarity: Unique
 reflex: '+23'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -80,7 +70,6 @@ strength: '-5'
 strength_req: '-5'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Ghost|Ghost]]'
 - '[[DATABASE/trait/Incorporeal|Incorporeal]]'
@@ -91,7 +80,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+26'
 wisdom: '+5'
 

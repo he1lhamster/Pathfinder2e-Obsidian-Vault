@@ -1,25 +1,18 @@
 ﻿---
 ac: '19'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Coven
 - Shadowy Pop
 - Skull Twist
 - Terminal Tug
-creature_family: null
 dexterity: '+4'
-element: null
 fly_speed: '30'
 fortitude: '+6'
-hardness: null
 hp: '45'
 id: '2034'
-immunity: null
 intelligence: '+0'
 land_speed: '15'
 language:
@@ -32,9 +25,6 @@ name: Skull Fairy
 perception: '+10'
 rarity: Uncommon
 reflex: '+11'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Tiny
@@ -55,7 +45,6 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Shadow|Shadow]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
@@ -63,7 +52,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+8'
 wisdom: '+3'
 

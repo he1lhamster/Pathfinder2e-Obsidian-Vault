@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Deity's Protection
-frequency: null
-heighten_level: null
 id: '298'
 level: '14'
 name: Deity's Protection
 prerequisite: '[[DATABASE/feat/Advanced Domain|Advanced Domain]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Cleric|Cleric]]'
-trigger: null
 type: Feat
 
 ---

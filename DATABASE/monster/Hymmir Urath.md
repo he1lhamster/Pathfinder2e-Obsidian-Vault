@@ -1,10 +1,8 @@
 ﻿---
 ac: '21'
 alignment: CE
-all_resistance: null
 burrow_speed: '5'
 charisma: '+2'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Consume Flesh
@@ -13,12 +11,8 @@ creature_ability:
 - Hungry Rage
 - Paralysis
 - Swift Leap
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+9'
-hardness: null
 hp: 80 ( negative healing )
 id: '2172'
 immunity:
@@ -39,9 +33,6 @@ name: Hymmir Urath
 perception: '+13'
 rarity: Unique
 reflex: '+15'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -55,12 +46,10 @@ source: '[[DATABASE/source/Crown of the Kobold King|Crown of the Kobold King]]'
 speed:
 - 30 feet
 - burrow 5 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Ghoul|Ghoul]]'
 - '[[DATABASE/trait/Undead|Undead]]'
@@ -69,7 +58,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+13'
 wisdom: '+4'
 

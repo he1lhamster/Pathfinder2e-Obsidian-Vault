@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Striking Retribution
-frequency: null
-heighten_level: null
 id: '2301'
 level: '1'
 name: Striking Retribution
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Azarketi|Azarketi]]'
-trigger: null
 type: Feat
 
 ---

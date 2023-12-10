@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Adapted Cantrip
-frequency: null
-heighten_level: null
 id: '66'
+leads_to: '[[DATABASE/feat/Adaptive Adept|Adaptive Adept]]'
 level: '1'
 name: Adapted Cantrip
 prerequisite: spellcasting class feature
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
-trigger: null
 type: Feat
 
 ---

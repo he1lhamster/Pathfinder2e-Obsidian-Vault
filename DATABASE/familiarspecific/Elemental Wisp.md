@@ -1,9 +1,7 @@
 ﻿---
-id: '26'
+id: '10'
 name: Elemental Wisp
-rus_type_level: null
-source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-trait: null
+source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
 
 ---
 # Elemental Wisp

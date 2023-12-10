@@ -1,24 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Legendary Thief
-frequency: null
-heighten_level: null
 id: '809'
+leads_to: '[[DATABASE/feat/Steal Spell|Steal Spell]]'
 level: '15'
 name: Legendary Thief
 prerequisite: Legendary in [[DATABASE/skill/Thievery|Thievery]] ; [[DATABASE/feat/Pickpocket|Pickpocket]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: thievery
 trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,10 +1,7 @@
 ﻿---
 ac: '40'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+9'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Boundless Reach
@@ -14,10 +11,8 @@ creature_ability:
 - Whispers of Discord
 creature_family: '[[DATABASE/monsterfamily/Devil|Devil]]'
 dexterity: '+8'
-element: null
 fly_speed: '40'
 fortitude: '+27'
-hardness: null
 hp: '285'
 id: '1116'
 immunity:
@@ -39,8 +34,6 @@ rarity: Common
 reflex: '+29'
 resistance:
 - physical 15 (except [[DATABASE/equipment/Silver Weapon|silver]] )
-rus_type_level: null
-school: null
 sense:
 - (+36 to Sense Motive) greater darkvision
 size: Medium
@@ -70,7 +63,6 @@ strength: '+7'
 strength_req: '7'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Devil|Devil]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

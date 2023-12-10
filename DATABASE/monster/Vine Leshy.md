@@ -1,8 +1,6 @@
 ﻿---
 ac: '15'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
 climb_speed: '20'
 constitution: '+1'
@@ -12,13 +10,9 @@ creature_ability:
 - Verdant Burst
 creature_family: '[[DATABASE/monsterfamily/Leshy|Leshy]]'
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+3'
-hardness: null
 hp: '13'
 id: '1218'
-immunity: null
 intelligence: '-1'
 land_speed: '20'
 language:
@@ -32,9 +26,6 @@ name: Vine Leshy
 perception: '+6'
 rarity: Common
 reflex: '+5'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Small
@@ -55,7 +46,6 @@ strength: '+2'
 strength_req: '2'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Leshy|Leshy]]'
 - '[[DATABASE/trait/Plant|Plant]]'
@@ -63,7 +53,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+8'
 wisdom: '+2'
 

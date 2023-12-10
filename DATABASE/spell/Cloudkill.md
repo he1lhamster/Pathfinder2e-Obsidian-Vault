@@ -6,31 +6,22 @@ component:
 - Material
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Apollyon|Apollyon]]'
 - '[[DATABASE/deity/Nhimbaloth|Nhimbaloth]]'
 - '[[DATABASE/deity/Nhimbaloth|Nhimbaloth]]'
 - '[[DATABASE/deity/Ydersius|Ydersius]]'
-domain: null
 duration: 1 minute
-element: null
 heighten: '+1'
 heighten_level: 5, 6, 7, 8, 9, 10
 id: '42'
-lesson: null
 level: '5'
-mystery: null
 name: Cloudkill
-patron_theme: null
 range: 120 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: basicFortitude
 school: Necromancy
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Arcane
 - Primal
@@ -38,7 +29,6 @@ trait:
 - '[[DATABASE/trait/Death|Death]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Poison|Poison]]'
-trigger: null
 type: Spell
 
 ---

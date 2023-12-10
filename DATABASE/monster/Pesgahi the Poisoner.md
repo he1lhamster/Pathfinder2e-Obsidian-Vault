@@ -1,10 +1,8 @@
 ﻿---
 ac: '21'
 alignment: NE
-all_resistance: null
 burrow_speed: '5'
 charisma: '+1'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Consume Flesh
@@ -13,12 +11,8 @@ creature_ability:
 - Paralysis
 - Quick Bomber
 - Swift Leap
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+10'
-hardness: null
 hp: 60 ( negative healing )
 id: '2048'
 immunity:
@@ -39,9 +33,6 @@ name: Pesgahi the Poisoner
 perception: '+11'
 rarity: Unique
 reflex: '+12'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -56,12 +47,10 @@ source: '[[DATABASE/source/Pathfinder 181. Zombie Feast|Pathfinder #181: Zombie 
 speed:
 - 30 feet
 - burrow 5 feet
-spell: null
 strength: '+1'
 strength_req: '1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Ghoul|Ghoul]]'
 - '[[DATABASE/trait/Undead|Undead]]'
@@ -70,7 +59,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+11'
 wisdom: '+1'
 

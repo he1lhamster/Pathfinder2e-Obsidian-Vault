@@ -1,10 +1,7 @@
 ﻿---
 ac: '21'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Attack of Opportunity
@@ -12,12 +9,8 @@ creature_ability:
 - Gallop
 - Shift Form
 - Smog Cloud
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+13'
-hardness: null
 hp: '76'
 id: '1949'
 immunity:
@@ -47,9 +40,6 @@ name: Daelum
 perception: '+11'
 rarity: Rare
 reflex: '+11'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -61,12 +51,10 @@ source: '[[DATABASE/source/Pathfinder 179. Cradle of Quartz|Pathfinder #179: Cra
   of Quartz]]'
 speed:
 - 25 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Rare|Rare]]'
@@ -74,7 +62,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+9'
 wisdom: '+3'
 

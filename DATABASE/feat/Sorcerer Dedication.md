@@ -1,25 +1,18 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Sorcerer Dedication
-frequency: null
-heighten_level: null
 id: '734'
+leads_to: '[[DATABASE/feat/Basic Blood Potency|Basic Blood Potency]] , [[DATABASE/feat/Basic
+  Bloodline Spell|Basic Bloodline Spell]] , [[DATABASE/feat/Basic Sorcerer Spellcasting|Basic
+  Sorcerer Spellcasting]]'
 level: '2'
 name: Sorcerer Dedication
 prerequisite: Charisma 14
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Multiclass|Multiclass]]'
-trigger: null
 type: Feat
 
 ---

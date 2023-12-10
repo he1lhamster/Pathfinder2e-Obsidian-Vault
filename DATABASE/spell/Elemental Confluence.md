@@ -1,32 +1,20 @@
 ﻿---
 actions: '[three-actions]'
 area: 10-foot burst
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: sustained up to 1 minute
 element: Air, Earth, Fire, Water
-heighten: null
 heighten_level: '6'
 id: '903'
-lesson: null
 level: '6'
-mystery: null
 name: Elemental Confluence
-patron_theme: null
 range: 60 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-target: null
 tradition:
 - Arcane
 - Primal
@@ -37,7 +25,6 @@ trait:
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Fire|Fire]]'
 - '[[DATABASE/trait/Water|Water]]'
-trigger: null
 type: Spell
 
 ---

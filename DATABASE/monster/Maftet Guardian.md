@@ -1,10 +1,7 @@
 ﻿---
 ac: '23'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Paired Strike
@@ -13,13 +10,10 @@ creature_ability:
 - Runic Resistance
 creature_family: '[[DATABASE/monsterfamily/Maftet|Maftet]]'
 dexterity: '+3'
-element: null
 fly_speed: '40'
 fortitude: '+14'
-hardness: null
 hp: '92'
 id: '1225'
-immunity: null
 intelligence: '+3'
 land_speed: '30'
 language:
@@ -31,9 +25,6 @@ name: Maftet Guardian
 perception: '+14'
 rarity: Common
 reflex: '+15'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -55,14 +46,12 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+12'
 wisdom: '+2'
 

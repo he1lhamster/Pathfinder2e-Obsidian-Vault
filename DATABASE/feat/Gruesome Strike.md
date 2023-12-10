@@ -1,10 +1,6 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Gruesome Strike
-frequency: null
-heighten_level: null
 id: '1685'
 level: '12'
 name: Gruesome Strike
@@ -12,14 +8,10 @@ prerequisite: '[[DATABASE/championtenet/Evil|tenets of evil]] ; champion''s reac
   that grants extra damagewith your Strikes'
 rarity: Uncommon
 requirement: Your Strikes currently deal extra damage from your champion's reaction.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Champion|Champion]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

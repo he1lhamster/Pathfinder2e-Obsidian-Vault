@@ -1,14 +1,11 @@
 ﻿---
-ability_type: Specific Familiar - House Drake
-actions: '[one-action]'
-frequency: null
-id: '85'
+ability_type: Specific Familiar - Faerie Dragon
+actions: '[two-actions]'
+frequency: once per hour
+id: '19'
 name: Breath Weapon
 rarity: Common
-requirement: null
-rus_type_level: null
-source: '[[DATABASE/source/Shadows at Sundown|Shadows at Sundown]]'
-trait: null
+source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 type: Familiar Ability
 
 ---

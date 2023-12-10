@@ -1,28 +1,21 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Cavalier's Banner
-frequency: null
-heighten_level: null
 id: '1920'
+leads_to: '[[DATABASE/feat/Stalwart Standard|Stalwart Standard]] , [[DATABASE/feat/Wave
+  the Flag|Wave the Flag]]'
 level: '4'
 name: Cavalier's Banner
 prerequisite: '[[DATABASE/feat/Cavalier Dedication|Cavalier Dedication]]'
 rarity: Uncommon
 requirement: You have pledged your service to a specific organization or ideal (see
   [[DATABASE/archetype/Cavalier|Cavalier Pledges]] sidebar).
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Emotion|Emotion]]'
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 - '[[DATABASE/trait/Visual|Visual]]'
-trigger: null
 type: Feat
 
 ---

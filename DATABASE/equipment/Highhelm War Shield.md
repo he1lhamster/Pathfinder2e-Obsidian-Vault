@@ -1,55 +1,21 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
 base_item: '[[DATABASE/shield/Razor Disc|Razor Disc]]'
 bulk: '1'
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '2568'
 item_category: Shields
 item_subcategory: Specific Shields
-land_speed: null
-level: '20'
-max_speed: null
+level: '14'
 name: Highhelm War Shield
-onset: null
-price: 55,000 gp
-range: null
+price: 4,000 gp
 rarity: Uncommon
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Abjuration
-size: null
 source: '[[DATABASE/source/Highhelm|Highhelm]]'
-spell: null
-stage: null
-subcategory: null
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Item
 usage: held in 1 hand
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Highhelm War Shield<span class="item-type">Item 9+</span>

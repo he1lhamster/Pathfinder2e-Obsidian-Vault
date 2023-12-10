@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Elemental Summons
-frequency: null
-heighten_level: null
 id: '1712'
 level: '4'
 name: Elemental Summons
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Druid|Druid]]'
-trigger: null
 type: Feat
 
 ---

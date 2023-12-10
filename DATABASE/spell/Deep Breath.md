@@ -1,29 +1,14 @@
 ﻿---
 actions: '[one-action]'
-area: null
-bloodline: null
-component: null
-cost: null
-deity: null
-domain: null
 duration: 10 minutes
 element: Air
 heighten: 2nd, 4th
 heighten_level: 1, 2, 4
 id: '1315'
-lesson: null
 level: '1'
-mystery: null
 name: Deep Breath
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-target: null
 tradition:
 - Arcane
 - Primal
@@ -31,7 +16,6 @@ trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Cantrip|Cantrip]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
-trigger: null
 type: Cantrip
 
 ---

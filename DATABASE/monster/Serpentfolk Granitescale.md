@@ -1,10 +1,7 @@
 ﻿---
 ac: '24'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Attack of Opportunity
@@ -13,13 +10,9 @@ creature_ability:
 - Serpentfolk Venom
 creature_family: '[[DATABASE/monsterfamily/Serpentfolk|Serpentfolk]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+17'
-hardness: null
 hp: '120'
 id: '1627'
-immunity: null
 intelligence: '-2'
 land_speed: '25'
 language:
@@ -35,8 +28,6 @@ rarity: Uncommon
 reflex: '+14'
 resistance:
 - '[[DATABASE/trait/Poison|poison]] 8'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -49,12 +40,10 @@ source: '[[DATABASE/source/Pathfinder 170. Spoken on the Song Wind|Pathfinder #1
   Spoken on the Song Wind]]'
 speed:
 - 25 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Mutant|Mutant]]'
@@ -64,7 +53,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+12'
 wisdom: '+1'
 

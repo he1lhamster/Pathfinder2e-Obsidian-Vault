@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Greater Crossblooded Evolution
-frequency: null
-heighten_level: null
 id: '629'
 level: '18'
 name: Greater Crossblooded Evolution
 prerequisite: '[[DATABASE/feat/Crossblooded Evolution|Crossblooded Evolution]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Sorcerer|Sorcerer]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,20 +1,11 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Divine Grace
-frequency: null
-heighten_level: null
 id: '218'
 level: '2'
 name: Divine Grace
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Champion|Champion]]'
 trigger: You attempt a save against a spell, before you roll.

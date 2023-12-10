@@ -1,56 +1,21 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
 base_item: '[[DATABASE/weapon/Glaive|Glaive]]'
 bulk: '2'
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '2367'
 item_category: Artifacts
-item_subcategory: null
-land_speed: null
 level: '28'
-max_speed: null
 name: Whisperer of Souls
-onset: null
-price: null
-range: null
 rarity: Unique
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Necromancy
-size: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-spell: null
-stage: null
 subcategory: artifact
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Artifact|Artifact]]'
 - '[[DATABASE/trait/Divine|Divine]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Unique|Unique]]'
-trigger: null
 type: Item
 usage: held in 2 hands
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Whisperer of Souls<span class="item-type">Item 28</span>

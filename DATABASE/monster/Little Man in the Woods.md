@@ -1,21 +1,14 @@
 ﻿---
 ac: '24'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Adopt Guise
 - Strangle
 - Voice Imitation
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+13'
-hardness: null
 hp: 95 ( negative healing )
 id: '1878'
 immunity:
@@ -35,9 +28,6 @@ name: Little Man in the Woods
 perception: '+12'
 rarity: Rare
 reflex: '+17'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -49,12 +39,10 @@ skill:
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 speed:
 - 25 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Undead|Undead]]'
@@ -62,7 +50,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+12'
 wisdom: '+2'
 

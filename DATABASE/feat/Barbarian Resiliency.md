@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Barbarian Resiliency
-frequency: null
-heighten_level: null
 id: '672'
 level: '4'
 name: Barbarian Resiliency
 prerequisite: '[[DATABASE/feat/Barbarian Dedication|Barbarian Dedication]] ; class
   granting no more Hit Points perlevel than 10 + your Constitution modifier'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

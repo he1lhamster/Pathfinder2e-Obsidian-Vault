@@ -1,10 +1,6 @@
 ﻿---
 ac: '39'
-alignment: null
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Change Shape
@@ -20,10 +16,8 @@ dexterity: '+7'
 element: Air
 fly_speed: '75'
 fortitude: '+17'
-hardness: null
 hp: '150'
 id: '2620'
-immunity: null
 intelligence: '+5'
 land_speed: '25'
 language:
@@ -36,9 +30,6 @@ name: Jaathoom Shuyookh
 perception: '+22'
 rarity: Rare
 reflex: '+21'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -69,7 +60,6 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Elemental|Elemental]]'
@@ -79,7 +69,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+19'
 wisdom: '+3'
 

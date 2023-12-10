@@ -1,24 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Blessing of the Sun Gods
-frequency: null
-heighten_level: null
 id: '3410'
+leads_to: '[[DATABASE/feat/Greater Sun Blessing|Greater Sun Blessing]]'
 level: '4'
 name: Blessing of the Sun Gods
 prerequisite: '[[DATABASE/feat/Bright Lion Dedication|Bright Lion Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 172. Secrets of the Temple City|Pathfinder #172:
   Secrets of the Temple City]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

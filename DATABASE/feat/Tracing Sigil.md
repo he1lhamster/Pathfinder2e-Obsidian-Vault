@@ -1,24 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Tracing Sigil
-frequency: null
-heighten_level: null
 id: '3374'
+leads_to: '[[DATABASE/feat/Beacon Mark|Beacon Mark]]'
 level: '4'
 name: Tracing Sigil
 prerequisite: '[[DATABASE/feat/Spell Trickster Dedication|Spell Trickster Dedication]]
   ; ability to cast [[DATABASE/spell/Sigil|sigil]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

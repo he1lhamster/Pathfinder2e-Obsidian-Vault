@@ -1,23 +1,15 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Wolf Drag
-frequency: null
-heighten_level: null
 id: '457'
 level: '6'
 name: Wolf Drag
 prerequisite: '[[DATABASE/feat/Wolf Stance|Wolf Stance]]'
 rarity: Common
 requirement: You are in Wolf Stance.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Monk|Monk]]'
-trigger: null
 type: Feat
 
 ---

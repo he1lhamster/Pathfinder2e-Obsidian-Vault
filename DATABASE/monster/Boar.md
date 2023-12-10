@@ -1,35 +1,24 @@
 ﻿---
 ac: '18'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-3'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Boar Charge
 - Ferocity
 creature_family: '[[DATABASE/monsterfamily/Boar|Boar]]'
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+10'
-hardness: null
 hp: '30'
 id: '52'
-immunity: null
 intelligence: '-4'
 land_speed: '40'
-language: null
 level: '2'
 max_speed: '40'
 name: Boar
 perception: '+8'
 rarity: Common
 reflex: '+5'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 - scent (imprecise) 30 feet
@@ -41,19 +30,16 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 40 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
 vision: Low-light vision
 weakest_save:
 - Reflex
-weakness: null
 will: '+8'
 wisdom: '+2'
 

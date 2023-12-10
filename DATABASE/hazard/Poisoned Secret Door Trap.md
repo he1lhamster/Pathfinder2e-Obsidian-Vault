@@ -1,8 +1,6 @@
 ﻿---
 ac: '36'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+28'
 hardness: '23'
 hazard_type: Trap
@@ -16,9 +14,6 @@ level: '14'
 name: Poisoned Secret Door Trap
 rarity: Common
 reflex: '+19'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 154. Siege of the Dinosaurs|Pathfinder #154:
   Siege of the Dinosaurs]]'
 trait:
@@ -26,8 +21,6 @@ trait:
 - '[[DATABASE/trait/Mechanical|Mechanical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Poisoned Secret Door Trap<span class="item-type">Hazard 14</span>

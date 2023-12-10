@@ -24,11 +24,9 @@ follower_alignment:
 id: '188'
 name: Chamidu
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Medicine|Medicine]]'
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-trait: null
 type: Deity
 
 ---

@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Ki Strike
-frequency: null
-heighten_level: null
 id: '433'
+leads_to: '[[DATABASE/feat/Elemental Fist|Elemental Fist]] , [[DATABASE/feat/Ki Cutting
+  Sight|Ki Cutting Sight]] , [[DATABASE/feat/Sacred Ki|Sacred Ki]]'
 level: '1'
 name: Ki Strike
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Monk|Monk]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,38 +1,23 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 1 minute
-element: null
 heighten: '+3'
 heighten_level: 3, 6, 9
 id: '1110'
-lesson: null
 level: '3'
-mystery: null
 name: Consecrate Flesh
-patron_theme: null
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
-target: null
 tradition:
 - Divine
 trait:
 - '[[DATABASE/trait/Good|Good]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Spell
 
 ---

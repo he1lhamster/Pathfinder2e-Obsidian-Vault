@@ -1,21 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Ringmaster's Introduction
-frequency: null
-heighten_level: null
 id: '1248'
 level: '20'
 name: Ringmaster's Introduction
-prerequisite: null
 rarity: Uncommon
 requirement: The ally hasn't acted in the current combat.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 156. The Apocalypse Prophet|Pathfinder #156:
   The Apocalypse Prophet]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Auditory|Auditory]]'
 - '[[DATABASE/trait/Bard|Bard]]'

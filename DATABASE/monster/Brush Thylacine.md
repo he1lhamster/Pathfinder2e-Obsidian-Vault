@@ -1,35 +1,24 @@
 ﻿---
 ac: '18'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Hunting Cry
 - Pounce
 creature_family: '[[DATABASE/monsterfamily/Thylacine|Thylacine]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+9'
-hardness: null
 hp: '30'
 id: '2204'
-immunity: null
 intelligence: '-4'
 land_speed: '25'
-language: null
 level: '2'
 max_speed: '25'
 name: Brush Thylacine
 perception: '+8'
 rarity: Uncommon
 reflex: '+10'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -42,12 +31,10 @@ skill:
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 speed:
 - 25 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
@@ -55,7 +42,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+6'
 wisdom: '+2'
 

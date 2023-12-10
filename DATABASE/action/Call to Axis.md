@@ -1,19 +1,14 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 frequency: once per day
 id: '731'
 name: Call to Axis
 rarity: Common
 requirement: You are about to attempt a check to [[DATABASE/action/Recall Knowledge|Recall
   Knowledge]] .
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
 trait:
 - '[[DATABASE/trait/Fortune|Fortune]]'
-trigger: null
 type: Action
 
 ---

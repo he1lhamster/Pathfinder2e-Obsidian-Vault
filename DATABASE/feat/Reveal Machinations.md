@@ -1,18 +1,11 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Reveal Machinations
-frequency: null
-heighten_level: null
 id: '924'
 level: '15'
 name: Reveal Machinations
 prerequisite: Legendary in [[DATABASE/skill/Deception|Deception]]
 rarity: Rare
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 147. Tomorrow Must Burn|Pathfinder #147: Tomorrow
   Must Burn]]'
 subcategory: deception
@@ -20,7 +13,6 @@ trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

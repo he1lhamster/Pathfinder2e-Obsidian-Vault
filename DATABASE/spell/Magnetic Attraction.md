@@ -1,28 +1,15 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
-duration: null
 element: Metal
-heighten: null
 heighten_level: '2'
 id: '944'
-lesson: null
 level: '2'
-mystery: null
 name: Magnetic Attraction
-patron_theme: null
 range: 60 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 target: up to 10 metal objects with a total Bulk or 1 or less
@@ -32,7 +19,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Metal|Metal]]'
-trigger: null
 type: Spell
 
 ---

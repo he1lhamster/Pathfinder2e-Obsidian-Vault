@@ -1,24 +1,17 @@
 ﻿---
 ac: '30'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Attack of Opportunity
 - Captivating Song
 - War Formation
-creature_family: null
 dexterity: '+5'
-element: null
 fly_speed: '60'
 fortitude: '+18'
-hardness: null
 hp: '200'
 id: '2552'
-immunity: null
 intelligence: '+0'
 land_speed: '20'
 language:
@@ -29,9 +22,6 @@ name: Harpy Warbird
 perception: '+20'
 rarity: Rare
 reflex: '+22'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -44,12 +34,10 @@ source: '[[DATABASE/source/Pathfinder 190. The Choosing|Pathfinder #190: The Cho
 speed:
 - 20 feet
 - fly 60 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Rare|Rare]]'
@@ -57,7 +45,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+20'
 wisdom: '+3'
 

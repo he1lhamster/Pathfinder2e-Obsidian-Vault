@@ -1,24 +1,19 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Cavalier Dedication
-frequency: null
-heighten_level: null
 id: '1919'
+leads_to: '[[DATABASE/feat/Cavalier''s Banner|Cavalier''s Banner]] , [[DATABASE/feat/Cavalier''s
+  Charge|Cavalier''s Charge]] , [[DATABASE/feat/Defend Mount|Defend Mount]] , [[DATABASE/feat/Impressive
+  Mount|Impressive Mount]] , [[DATABASE/feat/Legendary Rider|Legendary Rider]] , [[DATABASE/feat/Mounted
+  Shield|Mounted Shield]] , [[DATABASE/feat/Quick Mount|Quick Mount]] , [[DATABASE/feat/Trampling
+  Charge|Trampling Charge]] , [[DATABASE/feat/Unseat|Unseat]]'
 level: '2'
 name: Cavalier Dedication
 prerequisite: Trained in [[DATABASE/skill/Nature|Nature]] or Trained in [[DATABASE/skill/Society|Society]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
-trigger: null
 type: Feat
 
 ---

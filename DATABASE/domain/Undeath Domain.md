@@ -1,7 +1,5 @@
 ﻿---
-advanced_apocryphal_spell: null
 advanced_domain_spell: '[[DATABASE/spell/Malignant Sustenance|Malignant Sustenance]]'
-apocryphal_spell: null
 deity:
 - '[[DATABASE/deity/Ayrzul|Ayrzul]]'
 - '[[DATABASE/deity/Fumeiyoshi|Fumeiyoshi]]'
@@ -18,9 +16,7 @@ domain_spell: '[[DATABASE/spell/Touch of Undeath|Touch of Undeath]]'
 id: '34'
 name: Undeath Domain
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Domain
 
 ---

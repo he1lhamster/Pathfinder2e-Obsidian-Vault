@@ -1,30 +1,21 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Mephistopheles|Mephistopheles]]'
 - '[[DATABASE/deity/Nalinivati|Nalinivati]]'
 - '[[DATABASE/deity/Sifkesh|Sifkesh]]'
-domain: null
 duration: varies
-element: null
 heighten: 9th
 heighten_level: 5, 9
 id: '314'
 lesson: '[[DATABASE/witchlesson/Lesson of Bargains|Lesson of Bargains]]'
 level: '5'
-mystery: null
 name: Subconscious Suggestion
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Will
 school: Enchantment
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -37,7 +28,6 @@ trait:
 - '[[DATABASE/trait/Incapacitation|Incapacitation]]'
 - '[[DATABASE/trait/Linguistic|Linguistic]]'
 - '[[DATABASE/trait/Mental|Mental]]'
-trigger: null
 type: Spell
 
 ---

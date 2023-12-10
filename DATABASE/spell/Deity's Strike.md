@@ -1,28 +1,16 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
 heighten: 9th
 heighten_level: 7, 9
 id: '892'
-lesson: null
 level: '7'
-mystery: null
 name: Deity's Strike
-patron_theme: null
 range: 500 feet
 rarity: Common
 requirement: You have a deity.
-rus_type_level: null
-saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 target: 1 creature (see text)
@@ -31,7 +19,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Force|Force]]'
-trigger: null
 type: Spell
 
 ---

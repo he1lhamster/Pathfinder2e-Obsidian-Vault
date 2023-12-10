@@ -3,9 +3,7 @@ creature_family: Paaridar
 id: '254'
 name: Paaridar
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
-trait: null
 type: Creature Family
 
 ---

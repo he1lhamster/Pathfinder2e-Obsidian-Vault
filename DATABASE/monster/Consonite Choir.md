@@ -1,21 +1,16 @@
 ﻿---
 ac: '32'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+8'
 creature_ability:
 - Echolocation
 - Resonant Chimes
 - Swarming Chimes
-creature_family: null
 dexterity: '+5'
 element: Earth
 fly_speed: '40'
 fortitude: '+27'
-hardness: null
 hp: '200'
 id: '1101'
 immunity:
@@ -35,8 +30,6 @@ resistance:
 - bludgeoning 8
 - piercing 15
 - slashing 15
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - echolocation (precise) 120 feet
@@ -48,12 +41,10 @@ source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 10 feet
 - fly 40 feet
-spell: null
 strength: '+0'
 strength_req: '0'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Elemental|Elemental]]'

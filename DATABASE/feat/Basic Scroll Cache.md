@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Basic Scroll Cache
-frequency: null
-heighten_level: null
 id: '2054'
+leads_to: '[[DATABASE/feat/Expert Scroll Cache|Expert Scroll Cache]]'
 level: '6'
 name: Basic Scroll Cache
 prerequisite: '[[DATABASE/feat/Scroll Trickster Dedication|Scroll Trickster Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

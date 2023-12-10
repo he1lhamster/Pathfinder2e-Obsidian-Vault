@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Terrain Expertise|Terrain Expertise]]'
 id: '26'
 name: Miner
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Survival|Survival]]'
 - Mining [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

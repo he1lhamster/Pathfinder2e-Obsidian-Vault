@@ -1,10 +1,7 @@
 ﻿---
 ac: '31'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Absorb Spell
@@ -13,12 +10,8 @@ creature_ability:
 - Extend Limb
 - Polyglot
 - Viscous Trap
-creature_family: null
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+25'
-hardness: null
 hp: '260'
 id: '1226'
 immunity:
@@ -36,9 +29,6 @@ name: Mezlan
 perception: '+25'
 rarity: Rare
 reflex: '+28'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -50,12 +40,10 @@ skill:
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 30 feet
-spell: null
 strength: '+8'
 strength_req: '8'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Ooze|Ooze]]'
 - '[[DATABASE/trait/Rare|Rare]]'

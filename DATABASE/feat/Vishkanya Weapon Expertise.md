@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Vishkanya Weapon Expertise
-frequency: null
-heighten_level: null
 id: '4035'
 level: '13'
 name: Vishkanya Weapon Expertise
 prerequisite: '[[DATABASE/feat/Vishkanya Weapon Familiarity|Vishkanya Weapon Familiarity]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Vishkanya|Vishkanya]]'
-trigger: null
 type: Feat
 
 ---

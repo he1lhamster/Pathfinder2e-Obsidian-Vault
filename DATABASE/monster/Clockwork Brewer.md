@@ -1,10 +1,7 @@
 ﻿---
 ac: '18'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Bottoms Up
@@ -12,10 +9,7 @@ creature_ability:
 - Wind-Up
 creature_family: '[[DATABASE/monsterfamily/Clockworks|Clockworks]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+8'
-hardness: null
 hp: '40'
 id: '1926'
 immunity:
@@ -34,7 +28,6 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '25'
-language: null
 level: '3'
 max_speed: '25'
 name: Clockwork Brewer
@@ -43,8 +36,6 @@ rarity: Uncommon
 reflex: '+10'
 resistance:
 - physical 3 (except [[DATABASE/equipment/Adamantine Weapon|adamantine]] or orichalcum)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -55,12 +46,10 @@ source: '[[DATABASE/source/Pathfinder 178. Punks in a Powderkeg|Pathfinder #178:
   in a Powderkeg]]'
 speed:
 - 25 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Clockwork|Clockwork]]'
 - '[[DATABASE/trait/Construct|Construct]]'

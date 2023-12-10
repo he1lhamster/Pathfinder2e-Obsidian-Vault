@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Hefty Hauler|Hefty Hauler]]'
 id: '256'
 name: Junker
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]]'
 - '[[DATABASE/skill/Lore|Lore]] ofthe terrain in which you scavenge.'
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

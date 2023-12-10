@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Superior Bond
-frequency: null
-heighten_level: null
 id: '657'
 level: '14'
 name: Superior Bond
 prerequisite: '[[DATABASE/class_/Wizard|arcane bond]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Wizard|Wizard]]'
-trigger: null
 type: Feat
 
 ---

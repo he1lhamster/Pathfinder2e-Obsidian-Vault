@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Animal Accomplice
-frequency: null
-heighten_level: null
 id: '25'
 level: '1'
 name: Animal Accomplice
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Gnome|Gnome]]'
-trigger: null
 type: Feat
 
 ---

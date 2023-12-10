@@ -1,10 +1,7 @@
 ﻿---
 ac: '25'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Bonesense
@@ -12,25 +9,18 @@ creature_ability:
 - Marrow Rot
 creature_family: '[[DATABASE/monsterfamily/Bone Skipper|Bone Skipper]]'
 dexterity: '+6'
-element: null
 fly_speed: '40'
 fortitude: '+15'
-hardness: null
 hp: '115'
 id: '990'
-immunity: null
 intelligence: '-5'
 land_speed: '25'
-language: null
 level: '7'
 max_speed: '40'
 name: Giant Bone Skipper
 perception: '+17'
 rarity: Uncommon
 reflex: '+17'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - bonesense (imprecise) 30 feet
@@ -44,12 +34,10 @@ source: '[[DATABASE/source/Pathfinder 158. Sixty Feet Under|Pathfinder #158: Six
 speed:
 - 25 feet
 - fly 40 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
@@ -58,7 +46,6 @@ vision: Darkvision
 weakest_save:
 - Fortitude
 - Will
-weakness: null
 will: '+15'
 wisdom: '+2'
 

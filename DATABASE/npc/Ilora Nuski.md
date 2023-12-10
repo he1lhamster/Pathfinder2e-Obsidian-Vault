@@ -1,10 +1,7 @@
 ﻿---
 ac: '33'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Nature's Edge
@@ -12,14 +9,10 @@ creature_ability:
 - Twin Riposte
 - Twin Takedown
 - Wild Stride
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+21'
 hp: '220'
 id: '2263'
-immunity: null
 intelligence: '+2'
 land_speed: '30'
 language:
@@ -32,9 +25,6 @@ name: Ilora Nuski
 perception: '+22'
 rarity: Unique
 reflex: '+25'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +23'
@@ -61,16 +51,13 @@ strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+22'
 wisdom: '+4'
 

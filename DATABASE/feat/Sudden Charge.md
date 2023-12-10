@@ -1,26 +1,16 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Sudden Charge
-frequency: null
-heighten_level: null
 id: '134'
 level: '1'
 name: Sudden Charge
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Barbarian|Barbarian]]'
 - '[[DATABASE/trait/Fighter|Fighter]]'
 - '[[DATABASE/trait/Flourish|Flourish]]'
 - '[[DATABASE/trait/Open|Open]]'
-trigger: null
 type: Feat
 
 ---

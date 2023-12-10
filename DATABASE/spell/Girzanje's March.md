@@ -1,31 +1,18 @@
 ﻿---
 actions: '[two-actions]'
 area: 30-foot burst
-bloodline: null
 component:
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: sustained up to 1 minute
-element: null
 heighten: 7th, 10th
 heighten_level: 4, 7, 10
 id: '1068'
-lesson: null
 level: '4'
-mystery: null
 name: Girzanje's March
-patron_theme: null
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Enchantment
 source: '[[DATABASE/source/Pathfinder 171. Hurricane''s Howl|Pathfinder #171: Hurricane''s
   Howl]]'
-target: null
 tradition:
 - Divine
 - Occult
@@ -35,7 +22,6 @@ trait:
 - '[[DATABASE/trait/Linguistic|Linguistic]]'
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Spell
 
 ---

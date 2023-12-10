@@ -1,11 +1,8 @@
 ﻿---
-element: null
 id: '13'
 level: '1'
 name: Staining
 rarity: Rare
-rus_type_level: null
-saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:

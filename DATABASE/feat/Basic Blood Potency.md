@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Basic Blood Potency
-frequency: null
-heighten_level: null
 id: '736'
+leads_to: '[[DATABASE/feat/Advanced Blood Potency|Advanced Blood Potency]]'
 level: '4'
 name: Basic Blood Potency
 prerequisite: '[[DATABASE/feat/Sorcerer Dedication|Sorcerer Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,38 +1,22 @@
 ﻿---
 actions: '[two-actions]'
 area: ground within a 100-foot emanation
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: sustained up to 1 minute
-element: null
-heighten: null
 heighten_level: '8'
 id: '475'
-lesson: null
 level: '8'
-mystery: null
 name: Impaling Briars
-patron_theme: null
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
-tradition: null
 trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Druid|Druid]]'
 - '[[DATABASE/trait/Plant|Plant]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Focus
 
 ---

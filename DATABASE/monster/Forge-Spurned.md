@@ -1,10 +1,7 @@
 ﻿---
 ac: '22'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Eternal Damnation
@@ -12,12 +9,9 @@ creature_ability:
 - Inflate Bellows
 - Searing Heat
 - Soul Chain
-creature_family: null
 dexterity: '+2'
 element: Fire
-fly_speed: null
 fortitude: '+15'
-hardness: null
 hp: 75 (eternal damnation, negative healing )
 id: '2181'
 immunity:
@@ -39,9 +33,6 @@ name: Forge-Spurned
 perception: '+11'
 rarity: Uncommon
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -52,12 +43,10 @@ skill:
 source: '[[DATABASE/source/Crown of the Kobold King|Crown of the Kobold King]]'
 speed:
 - 20 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fire|Fire]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

@@ -1,25 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Big Game Trapper
-frequency: null
-heighten_level: null
 id: '3426'
 level: '4'
 name: Big Game Trapper
 prerequisite: '[[DATABASE/feat/Game Hunter Dedication|Game Hunter Dedication]] ; [[DATABASE/feat/Snare
   Crafting|Snare Crafting]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 175. Broken Tusk Moon|Pathfinder #175: Broken
   Tusk Moon]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

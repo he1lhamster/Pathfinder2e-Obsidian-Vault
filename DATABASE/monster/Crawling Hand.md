@@ -1,8 +1,6 @@
 ﻿---
 ac: '12'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
 climb_speed: '30'
 constitution: '+0'
@@ -11,10 +9,7 @@ creature_ability:
 - Mark Quarry
 creature_family: '[[DATABASE/monsterfamily/Crawling Hand|Crawling Hand]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+2'
-hardness: null
 hp: 8 ( negative healing )
 id: '589'
 immunity:
@@ -34,9 +29,6 @@ name: Crawling Hand
 perception: '+5'
 rarity: Common
 reflex: '+5'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Lifesense|lifesense 30 feet]]'
 - '[[DATABASE/monsterability/Tremorsense|tremorsense (imprecise) 30 feet]]'
@@ -49,20 +41,16 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 30 feet
 - climb 30 feet
-spell: null
 strength: '+1'
 strength_req: '1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Undead|Undead]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
 - Will
-weakness: null
 will: '+2'
 wisdom: '+0'
 

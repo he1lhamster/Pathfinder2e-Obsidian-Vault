@@ -1,54 +1,20 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
 bulk: L
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '1215'
 item_category: Customizations
 item_subcategory: Scopes
-land_speed: null
 level: '10'
-max_speed: null
 name: Scope of Limning
-onset: null
 price: 900 gp
-range: null
 rarity: Common
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
-size: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-spell: null
-stage: null
 subcategory: customization
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Item
 usage: attached to firearm (scope)
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Scope of Limning<span class="item-type">Item 10</span>

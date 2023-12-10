@@ -1,20 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Nimble Dodge
-frequency: null
-heighten_level: null
 id: '550'
+leads_to: '[[DATABASE/feat/Nimble Roll|Nimble Roll]]'
 level: '1'
 name: Nimble Dodge
-prerequisite: null
 rarity: Common
 requirement: You are not encumbered.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Rogue|Rogue]]'
 - '[[DATABASE/trait/Swashbuckler|Swashbuckler]]'

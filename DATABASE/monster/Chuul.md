@@ -1,10 +1,7 @@
 ﻿---
 ac: '28'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Attack of Opportunity
@@ -12,12 +9,8 @@ creature_ability:
 - Mandibles
 - Paralytic Venom
 - Tentacle Transfer
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+18'
-hardness: null
 hp: '100'
 id: '81'
 immunity:
@@ -34,9 +27,6 @@ name: Chuul
 perception: '+15'
 rarity: Common
 reflex: '+15'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - tremorsense (imprecise) 30 feet
@@ -49,7 +39,6 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 30 feet; swim 25 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
@@ -62,7 +51,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+12'
 wisdom: '+2'
 

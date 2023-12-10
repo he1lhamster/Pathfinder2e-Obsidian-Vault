@@ -1,25 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Masterful Obfuscation
-frequency: null
-heighten_level: null
 id: '2238'
 level: '10'
 name: Masterful Obfuscation
 prerequisite: master in a skill with the [[DATABASE/action/Recall Knowledge|Recall
   Knowledge]] action; [[DATABASE/feat/Scrollmaster Dedication|Scrollmaster Dedication]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

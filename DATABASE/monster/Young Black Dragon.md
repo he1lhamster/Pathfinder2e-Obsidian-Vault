@@ -1,10 +1,7 @@
 ﻿---
 ac: '25'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Breath Weapon
@@ -15,10 +12,8 @@ creature_ability:
 - Tail Lash
 creature_family: '[[DATABASE/monsterfamily/Dragon, Black|Dragon, Black]]'
 dexterity: '+3'
-element: null
 fly_speed: '100'
 fortitude: '+17'
-hardness: null
 hp: '125'
 id: '127'
 immunity:
@@ -35,9 +30,6 @@ name: Young Black Dragon
 perception: '+15'
 rarity: Common
 reflex: '+12'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - scent (imprecise) 60 feet
@@ -54,7 +46,6 @@ speed:
 - 40 feet
 - fly 100 feet
 - swim 40 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
@@ -68,7 +59,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+15'
 wisdom: '+2'
 

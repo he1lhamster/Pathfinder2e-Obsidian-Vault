@@ -2,19 +2,14 @@
 ac: '13'
 alignment: No Alignment
 all_resistance: '5'
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Force Body
 - Invisible
-creature_family: null
 dexterity: '+2'
-element: null
 fly_speed: '30'
 fortitude: '+0'
-hardness: null
 hp: '4'
 id: '1'
 immunity:
@@ -26,8 +21,6 @@ immunity:
 - precision
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
-land_speed: null
-language: null
 level: '-1'
 max_speed: '30'
 name: Unseen Servant
@@ -37,8 +30,6 @@ reflex: '+4'
 resistance:
 - all damage 5 (except [[DATABASE/trait/Force|force]] or [[DATABASE/equipment/Ghost
   Touch|ghost touch]] )
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -47,12 +38,10 @@ skill:
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 speed:
 - fly 30 feet
-spell: null
 strength: '-4'
 strength_req: '-4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Mindless|Mindless]]'
 type: Creature
@@ -60,7 +49,6 @@ vision: Darkvision
 weakest_save:
 - Fortitude
 - Will
-weakness: null
 will: '+0'
 wisdom: '+0'
 

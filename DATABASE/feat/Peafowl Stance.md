@@ -1,25 +1,18 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Peafowl Stance
-frequency: null
-heighten_level: null
 id: '1739'
+leads_to: '[[DATABASE/feat/Peafowl Strut|Peafowl Strut]]'
 level: '4'
 name: Peafowl Stance
 prerequisite: '[[DATABASE/feat/Monastic Weaponry|Monastic Weaponry]]'
 rarity: Common
 requirement: You are wielding a sword that has the [[DATABASE/trait/Monk|monk]] trait
   in onehand.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Monk|Monk]]'
 - '[[DATABASE/trait/Stance|Stance]]'
-trigger: null
 type: Feat
 
 ---

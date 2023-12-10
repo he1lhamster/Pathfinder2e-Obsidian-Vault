@@ -1,26 +1,21 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Assassin Dedication
-frequency: null
-heighten_level: null
 id: '1890'
+leads_to: '[[DATABASE/feat/Angel of Death|Angel of Death]] , [[DATABASE/feat/Angel
+  of Vindication|Angel of Vindication]] , [[DATABASE/feat/Assassinate|Assassinate]]
+  , [[DATABASE/feat/Eclipsed Vitality|Eclipsed Vitality]] , [[DATABASE/feat/Expert
+  Backstabber|Expert Backstabber]] , [[DATABASE/feat/Public Execution|Public Execution]]
+  , [[DATABASE/feat/Surprise Attack|Surprise Attack]]'
 level: '2'
 name: Assassin Dedication
 prerequisite: '[[DATABASE/feat/Alchemical Crafting|Alchemical Crafting]] ; Trained
   in [[DATABASE/skill/Crafting|Crafting]] ; Trained in [[DATABASE/skill/Deception|Deception]]
   ; Trained in [[DATABASE/skill/Stealth|Stealth]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
-trigger: null
 type: Feat
 
 ---

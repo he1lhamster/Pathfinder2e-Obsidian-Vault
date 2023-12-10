@@ -1,8 +1,6 @@
 ﻿---
 ac: '24'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+18'
 hardness: '15'
 hazard_type: Trap
@@ -16,9 +14,6 @@ level: '7'
 name: Clockwork Dancers
 rarity: Unique
 reflex: '+16'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/The Enmity Cycle|The Enmity Cycle]]'
 trait:
 - '[[DATABASE/trait/Complex|Complex]]'

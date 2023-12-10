@@ -3,9 +3,7 @@ creature_family: Rakshasa
 id: '85'
 name: Rakshasa
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
-trait: null
 type: Creature Family
 
 ---

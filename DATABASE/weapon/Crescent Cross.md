@@ -1,8 +1,6 @@
 ﻿---
 bulk: L
 damage: 1d6 P
-deity: null
-favored_weapon: null
 hands: '1'
 id: '345'
 item_category: Weapons
@@ -12,7 +10,6 @@ name: Crescent Cross
 price: 4 gp
 range: 30 ft.
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 trait:
 - '[[DATABASE/trait/Capacity|Capacity 3]]'

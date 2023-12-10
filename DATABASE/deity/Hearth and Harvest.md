@@ -29,11 +29,9 @@ follower_alignment:
 id: '252'
 name: Hearth and Harvest
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Crafting|Crafting]]'
 source: '[[DATABASE/source/Travel Guide|Travel Guide]]'
-trait: null
 type: Deity
 
 ---

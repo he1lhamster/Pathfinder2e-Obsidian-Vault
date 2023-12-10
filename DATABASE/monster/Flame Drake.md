@@ -1,10 +1,7 @@
 ﻿---
 ac: '22'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Attack of Opportunity
@@ -17,7 +14,6 @@ dexterity: '+1'
 element: Fire
 fly_speed: '50'
 fortitude: '+12'
-hardness: null
 hp: '75'
 id: '160'
 immunity:
@@ -34,9 +30,6 @@ name: Flame Drake
 perception: '+12'
 rarity: Common
 reflex: '+10'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - scent (imprecise) 30 feet
@@ -51,12 +44,10 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 20 feet
 - fly 50 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dragon|Dragon]]'
 - '[[DATABASE/trait/Fire|Fire]]'

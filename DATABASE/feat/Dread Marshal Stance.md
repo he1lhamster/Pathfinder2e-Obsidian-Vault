@@ -1,26 +1,17 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Dread Marshal Stance
-frequency: null
-heighten_level: null
 id: '2006'
 level: '4'
 name: Dread Marshal Stance
 prerequisite: '[[DATABASE/feat/Marshal Dedication|Marshal Dedication]] ; Trained in
   [[DATABASE/skill/Intimidation|Intimidation]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Open|Open]]'
 - '[[DATABASE/trait/Stance|Stance]]'
-trigger: null
 type: Feat
 
 ---

@@ -2,9 +2,7 @@
 id: '192'
 level: '2'
 name: Chronoskimmer
-prerequisite: null
 rarity: Rare
-rus_type_level: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'

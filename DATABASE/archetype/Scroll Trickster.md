@@ -5,9 +5,7 @@ name: Scroll Trickster
 prerequisite: Trained in [[DATABASE/skill/Arcana|Arcana]] , Trained in [[DATABASE/skill/Nature|Nature]]
   , Trained in [[DATABASE/skill/Occultism|Occultism]] , or Trainedin [[DATABASE/skill/Religion|Religion]]
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-trait: null
 type: Archetype
 
 ---

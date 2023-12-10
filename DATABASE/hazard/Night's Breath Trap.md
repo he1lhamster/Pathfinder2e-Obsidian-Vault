@@ -1,8 +1,6 @@
 ﻿---
 ac: '33'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+28'
 hardness: '22'
 hazard_type: Trap
@@ -16,9 +14,6 @@ level: '14'
 name: Night's Breath Trap
 rarity: Rare
 reflex: '+22'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 184. The Ghouls Hunger|Pathfinder #184: The
   Ghouls Hunger]]'
 trait:
@@ -26,8 +21,6 @@ trait:
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Night's Breath Trap<span class="item-type">Hazard 14</span>

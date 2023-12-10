@@ -1,21 +1,12 @@
 ﻿---
 ac: '14'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+1'
-creature_ability: null
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+5'
-hardness: null
 hp: '8'
 id: '2279'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -26,10 +17,6 @@ name: Thorn River Bandit
 perception: '+2'
 rarity: Uncommon
 reflex: '+6'
-resistance: null
-rus_type_level: null
-school: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +5'
@@ -38,22 +25,18 @@ skill:
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 speed:
 - 25 feet
-spell: null
 strength: '+1'
 strength_req: '1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Minion|Minion]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+2'
 wisdom: '+0'
 

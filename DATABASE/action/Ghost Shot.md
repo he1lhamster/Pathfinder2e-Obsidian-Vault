@@ -1,19 +1,12 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
-frequency: null
 id: '917'
 name: Ghost Shot
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:
 - '[[DATABASE/trait/Flourish|Flourish]]'
 - '[[DATABASE/trait/Gunslinger|Gunslinger]]'
-trigger: null
 type: Action
 
 ---

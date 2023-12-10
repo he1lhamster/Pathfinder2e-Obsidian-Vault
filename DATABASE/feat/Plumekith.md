@@ -1,24 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Plumekith
-frequency: null
-heighten_level: null
 id: '2285'
+leads_to: '[[DATABASE/feat/Garuda Magic|Garuda Magic]] , [[DATABASE/feat/Garuda''s
+  Squall|Garuda''s Squall]]'
 level: '1'
 name: Plumekith
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Aasimar|Aasimar]]'
 - '[[DATABASE/trait/Lineage|Lineage]]'
-trigger: null
 type: Feat
 
 ---

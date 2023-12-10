@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Shadow Illusion
-frequency: null
-heighten_level: null
 id: '2071'
 level: '12'
 name: Shadow Illusion
 prerequisite: '[[DATABASE/feat/Shadow Magic|Shadow Magic]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

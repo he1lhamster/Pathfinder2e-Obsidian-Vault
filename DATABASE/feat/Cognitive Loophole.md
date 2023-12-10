@@ -1,21 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Cognitive Loophole
-frequency: null
-heighten_level: null
 id: '593'
 level: '16'
 name: Cognitive Loophole
-prerequisite: null
 rarity: Common
 requirement: You are currently affected by a mental effect that you gained by failing,
   but not critically failing,a saving throw.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Rogue|Rogue]]'
 trigger: Your turn ends.

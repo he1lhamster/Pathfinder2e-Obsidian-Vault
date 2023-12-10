@@ -1,25 +1,16 @@
 ﻿---
 actions: '[three-actions]'
-cost: null
-element: null
 feat: Perfect Shot
-frequency: null
-heighten_level: null
 id: '544'
 level: '18'
 name: Perfect Shot
-prerequisite: null
 rarity: Common
 requirement: You are wielding a loaded ranged weapon with reload 1 or more, and you
   have not reloaded your weaponsince your last turn.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Flourish|Flourish]]'
 - '[[DATABASE/trait/Ranger|Ranger]]'
-trigger: null
 type: Feat
 
 ---

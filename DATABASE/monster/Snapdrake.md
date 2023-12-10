@@ -1,10 +1,6 @@
 ﻿---
 ac: '26'
-alignment: null
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Alluring Scent
@@ -19,7 +15,6 @@ dexterity: '+6'
 element: Wood
 fly_speed: '50'
 fortitude: '+16'
-hardness: null
 hp: '144'
 id: '2677'
 immunity:
@@ -39,10 +34,6 @@ name: Snapdrake
 perception: '+16'
 rarity: Common
 reflex: '+11'
-resistance: null
-rus_type_level: null
-school: null
-sense: null
 size: Large
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +15'
@@ -51,18 +42,15 @@ source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 speed:
 - 20 feet
 - fly 50 feet; greater forest passage
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Elemental|Elemental]]'
 - '[[DATABASE/trait/Plant|Plant]]'
 - '[[DATABASE/trait/Wood|Wood]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
 weakness:

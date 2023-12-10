@@ -1,22 +1,14 @@
 ﻿---
 ac: '33'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+7'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Spirit Naga Venom
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+19'
-hardness: null
 hp: '215'
 id: '2241'
-immunity: null
 intelligence: '+2'
 land_speed: '25'
 language:
@@ -28,9 +20,6 @@ name: Ngara
 perception: '+22'
 rarity: Unique
 reflex: '+24'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -87,7 +76,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+23'
 wisdom: '+4'
 

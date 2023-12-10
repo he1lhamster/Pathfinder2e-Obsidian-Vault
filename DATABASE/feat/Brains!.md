@@ -1,20 +1,12 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Brains!
-frequency: null
-heighten_level: null
 id: '3561'
 level: '6'
 name: Brains!
 prerequisite: '[[DATABASE/feat/Feast|Feast]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 trigger: You Feast upon a [[DATABASE/trait/Humanoid|humanoid's]] brain. The humanoid

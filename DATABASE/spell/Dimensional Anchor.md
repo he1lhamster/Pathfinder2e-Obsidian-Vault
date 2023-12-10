@@ -1,27 +1,16 @@
 ﻿---
 actions: '[two-actions]'
-area: null
 bloodline: '[[DATABASE/sorcererbloodline/Psychopomp|Psychopomp]]'
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: varies
-element: null
-heighten: null
 heighten_level: '4'
 id: '70'
-lesson: null
 level: '4'
-mystery: null
 name: Dimensional Anchor
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Will
 school: Abjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -32,7 +21,6 @@ tradition:
 - Occult
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
-trigger: null
 type: Spell
 
 ---

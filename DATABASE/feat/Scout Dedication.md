@@ -1,24 +1,18 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Scout Dedication
-frequency: null
-heighten_level: null
 id: '2047'
+leads_to: '[[DATABASE/feat/Eclipsed Vitality|Eclipsed Vitality]] , [[DATABASE/feat/Fleeting
+  Shadow|Fleeting Shadow]] , [[DATABASE/feat/Rebel''s Map|Rebel''s Map]] , [[DATABASE/feat/Scout''s
+  Charge|Scout''s Charge]] , [[DATABASE/feat/Scout''s Pounce|Scout''s Pounce]] , [[DATABASE/feat/Scout''s
+  Speed|Scout''s Speed]] , [[DATABASE/feat/Terrain Scout|Terrain Scout]]'
 level: '2'
 name: Scout Dedication
 prerequisite: Trained in [[DATABASE/skill/Stealth|Stealth]] ; Trained in [[DATABASE/skill/Survival|Survival]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,8 +1,6 @@
 ﻿---
 ac: '20'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
 climb_speed: '25'
 constitution: '+3'
@@ -12,25 +10,18 @@ creature_ability:
 - Sudden Strike
 creature_family: '[[DATABASE/monsterfamily/Mantis, Giant|Mantis, Giant]]'
 dexterity: '+3'
-element: null
 fly_speed: '20'
 fortitude: '+10'
-hardness: null
 hp: '40'
 id: '295'
-immunity: null
 intelligence: '-5'
 land_speed: '25'
-language: null
 level: '3'
 max_speed: '25'
 name: Giant Mantis
 perception: '+9'
 rarity: Common
 reflex: '+12'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Large
@@ -43,19 +34,16 @@ speed:
 - 25 feet
 - climb 25 feet
 - fly 20 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+7'
 wisdom: '+2'
 

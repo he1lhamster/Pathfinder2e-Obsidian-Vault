@@ -1,18 +1,12 @@
 ﻿---
 ac: '17'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Construct Armor
 - Swallow Whole
-creature_family: null
 dexterity: '-2'
-element: null
-fly_speed: null
 fortitude: '+8'
 hardness: '9'
 hp: '20'
@@ -34,16 +28,12 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '15'
-language: null
 level: '2'
 max_speed: '15'
 name: Ulizmila's Cauldron
 perception: '+4'
 rarity: Common
 reflex: '+4'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -52,12 +42,10 @@ skill:
 source: '[[DATABASE/source/Crown of the Kobold King|Crown of the Kobold King]]'
 speed:
 - 15 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Mindless|Mindless]]'
@@ -65,7 +53,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+6'
 wisdom: '+0'
 

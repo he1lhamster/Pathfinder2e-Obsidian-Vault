@@ -2,21 +2,16 @@
 ac: '22'
 alignment: CE
 all_resistance: '5'
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Anathematic Aversion
 - Elegy of the Faithless
 - Rend Faith
 - Sense Apostate
-creature_family: null
 dexterity: '+4'
-element: null
 fly_speed: '40'
 fortitude: '+10'
-hardness: null
 hp: 75 ( negative healing )
 id: '1033'
 immunity:
@@ -27,7 +22,6 @@ immunity:
 - precision
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '+2'
-land_speed: null
 language:
 - '[[DATABASE/language/Common|Common]]'
 - '[[DATABASE/language/Necril|Necril]]'
@@ -42,8 +36,6 @@ resistance:
 - '[[DATABASE/equipment/Ghost Touch|ghost touch]]'
 - or [[DATABASE/trait/Positive|positive]]
 - double resistance against non- [[DATABASE/trait/Magical|magical]] )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Lifesense|lifesense]] 60 feet'
@@ -65,7 +57,6 @@ strength: '-5'
 strength_req: '-5'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Incorporeal|Incorporeal]]'
 - '[[DATABASE/trait/Spirit|Spirit]]'
@@ -74,7 +65,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+16'
 wisdom: '+2'
 

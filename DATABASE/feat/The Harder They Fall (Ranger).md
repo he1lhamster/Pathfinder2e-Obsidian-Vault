@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: The Harder They Fall (Ranger)
-frequency: null
-heighten_level: null
 id: '3901'
 level: '8'
 name: The Harder They Fall (Ranger)
 prerequisite: '[[DATABASE/feat/Titan Wrestler|Titan Wrestler]]'
 rarity: Rare
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Ranger|Ranger]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Feat
 
 ---

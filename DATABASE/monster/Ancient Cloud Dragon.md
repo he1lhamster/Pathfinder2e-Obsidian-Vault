@@ -1,10 +1,7 @@
 ﻿---
 ac: '44'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+7'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Breath Weapon
@@ -22,7 +19,6 @@ dexterity: '+5'
 element: Air
 fly_speed: '160'
 fortitude: '+36'
-hardness: null
 hp: '355'
 id: '626'
 immunity:
@@ -43,9 +39,6 @@ name: Ancient Cloud Dragon
 perception: '+34'
 rarity: Rare
 reflex: '+32'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - mist vision
@@ -74,7 +67,6 @@ strength: '+9'
 strength_req: '9'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Dragon|Dragon]]'
@@ -84,7 +76,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+34'
 wisdom: '+7'
 

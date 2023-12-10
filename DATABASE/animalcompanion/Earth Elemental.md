@@ -1,11 +1,9 @@
 ﻿---
 burrow_speed: '10'
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 dexterity: '+0'
 element: Earth
-fly_speed: null
 hp: '10'
 id: '61'
 intelligence: '-4'
@@ -13,7 +11,6 @@ land_speed: '20'
 max_speed: '20'
 name: Earth Elemental
 rarity: Uncommon
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -25,7 +22,6 @@ speed:
 - burrow 10 feet
 strength: '+2'
 strength_req: '2'
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

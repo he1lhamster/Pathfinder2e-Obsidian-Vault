@@ -1,12 +1,8 @@
 ﻿---
 id: '200'
-level: null
 name: Ursine Avenger Hood
-prerequisite: null
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-trait: null
 type: Archetype
 
 ---

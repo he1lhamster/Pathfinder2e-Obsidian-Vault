@@ -1,21 +1,12 @@
 ﻿---
 ac: '24'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+1'
-creature_ability: null
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+14'
-hardness: null
 hp: '100'
 id: '2711'
-immunity: null
 intelligence: '+3'
 land_speed: '30'
 language:
@@ -30,8 +21,6 @@ rarity: Unique
 reflex: '+17'
 resistance:
 - '[[DATABASE/trait/Fire|fire]] 5'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -63,7 +52,6 @@ strength: '+1'
 strength_req: '1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Unique|Unique]]'
@@ -71,7 +59,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+11'
 wisdom: '-2'
 

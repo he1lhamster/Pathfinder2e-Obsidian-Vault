@@ -1,28 +1,15 @@
 ﻿---
-actions: null
-area: null
-bloodline: null
 component:
 - 1 Minute
-cost: null
-deity: null
-domain: null
 duration: sustained up to 10 minutes
 element: Water
 heighten: 5th
 heighten_level: 3, 5
 id: '1396'
-lesson: null
 level: '3'
-mystery: null
 name: Scrying Ripples
-patron_theme: null
 range: touch
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 target: 1 gallon of water or more
 tradition:
@@ -35,7 +22,6 @@ trait:
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Scrying|Scrying]]'
 - '[[DATABASE/trait/Water|Water]]'
-trigger: null
 type: Spell
 
 ---

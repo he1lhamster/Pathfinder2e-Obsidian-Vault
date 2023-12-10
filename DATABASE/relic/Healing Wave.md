@@ -1,11 +1,8 @@
 ﻿---
-element: null
 id: '44'
 item_category: Relics
 name: Healing Wave
-prerequisite: null
 rarity: Common
-rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:

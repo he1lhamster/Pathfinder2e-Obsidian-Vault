@@ -1,10 +1,7 @@
 ﻿---
 ac: '37'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Convergent Link
@@ -13,15 +10,11 @@ creature_ability:
 - Eagle Dive
 - Evasion
 - Snatch
-creature_family: null
 dexterity: '+8'
-element: null
 fly_speed: '60'
 fortitude: '+25'
-hardness: null
 hp: '290'
 id: '2136'
-immunity: null
 intelligence: '+2'
 land_speed: '10'
 language:
@@ -36,9 +29,6 @@ name: Convergent Giant Eagle
 perception: '+29'
 rarity: Rare
 reflex: '+27'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Large
@@ -51,12 +41,10 @@ source: '[[DATABASE/source/Pathfinder 156. The Apocalypse Prophet|Pathfinder #15
 speed:
 - 10 feet
 - fly 60 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Rare|Rare]]'

@@ -2,7 +2,6 @@
 id: '497'
 name: Lilu
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 190. The Choosing|Pathfinder #190: The Choosing]]'
 trait:
 - Lilu

@@ -1,27 +1,19 @@
 ﻿---
 actions: '[one-action]'
-cost: null
 element: Earth
 feat: Geologic Attunement
-frequency: null
 heighten_level: 1, 13
 id: '4222'
 level: '1'
 name: Geologic Attunement
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Impulse|Impulse]]'
 - '[[DATABASE/trait/Kineticist|Kineticist]]'
 - '[[DATABASE/trait/Primal|Primal]]'
 - '[[DATABASE/trait/Stance|Stance]]'
-trigger: null
 type: Feat
 
 ---

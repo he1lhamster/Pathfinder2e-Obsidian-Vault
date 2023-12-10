@@ -1,41 +1,27 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Black Butterfly|Black Butterfly]]'
 - '[[DATABASE/deity/Nethys|Nethys]]'
 - '[[DATABASE/deity/Ng|Ng]]'
-domain: null
 duration: 1 minute
-element: null
 heighten: '+2'
 heighten_level: 4, 6, 8, 10
 id: '27'
-lesson: null
 level: '4'
-mystery: null
 name: Blink
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Arcane
 - Occult
 trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Teleportation|Teleportation]]'
-trigger: null
 type: Spell
 
 ---

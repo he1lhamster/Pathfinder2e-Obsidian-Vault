@@ -1,27 +1,17 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Remove Presence
-frequency: null
-heighten_level: null
 id: '3675'
 level: '8'
 name: Remove Presence
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Illusion
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Amp|Amp]]'
 - '[[DATABASE/trait/Illusion|Illusion]]'
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Occult|Occult]]'
 - '[[DATABASE/trait/Psychic|Psychic]]'
-trigger: null
 type: Feat
 
 ---

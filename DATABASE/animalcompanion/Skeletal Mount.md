@@ -1,11 +1,7 @@
 ﻿---
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+2'
 dexterity: '+2'
-element: null
-fly_speed: null
 hp: '4'
 id: '43'
 intelligence: '-5'
@@ -13,17 +9,14 @@ land_speed: '35'
 max_speed: '35'
 name: Skeletal Mount
 rarity: Uncommon
-rus_type_level: null
 sense:
 - darkvision
 size: Large
-skill: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 speed:
 - 35 feet
 strength: '+2'
 strength_req: '2'
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Animal Companion

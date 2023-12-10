@@ -1,24 +1,17 @@
 ﻿---
 ac: '30'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+7'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Beguile the Addled
 - Black Cat Curse
 - Cat's Luck
 - Steady Spellcasting
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+17'
 hp: '195'
 id: '2025'
-immunity: null
 intelligence: '+3'
 land_speed: '30'
 language:
@@ -32,8 +25,6 @@ name: Mistress Dusklight
 perception: '+19'
 rarity: Unique
 reflex: '+23'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
@@ -83,7 +74,6 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Catfolk|Catfolk]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -92,7 +82,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+20'
 wisdom: '+2'
 

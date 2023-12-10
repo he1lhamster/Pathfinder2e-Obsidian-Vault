@@ -1,24 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Gildedsoul
-frequency: null
-heighten_level: null
 id: '4325'
 level: '1'
 name: Gildedsoul
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Lineage|Lineage]]'
 - '[[DATABASE/trait/Talos|Talos]]'
-trigger: null
 type: Feat
 
 ---

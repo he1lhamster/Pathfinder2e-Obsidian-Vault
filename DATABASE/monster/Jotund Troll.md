@@ -1,8 +1,6 @@
 ﻿---
 ac: '35'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
 climb_speed: '20'
 constitution: '+8'
@@ -20,13 +18,9 @@ creature_ability:
 - Throw Rock
 creature_family: '[[DATABASE/monsterfamily/Troll|Troll]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+31'
-hardness: null
 hp: '360'
 id: '834'
-immunity: null
 intelligence: '-1'
 land_speed: '30'
 language:
@@ -37,9 +31,6 @@ name: Jotund Troll
 perception: '+29'
 rarity: Rare
 reflex: '+23'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Huge
@@ -50,12 +41,10 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 30 feet
 - climb 20 feet
-spell: null
 strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Giant|Giant]]'
 - '[[DATABASE/trait/Mutant|Mutant]]'

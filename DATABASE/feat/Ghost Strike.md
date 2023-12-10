@@ -1,24 +1,15 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Ghost Strike
-frequency: null
-heighten_level: null
 id: '2281'
 level: '6'
 name: Ghost Strike
 prerequisite: '[[DATABASE/feat/Ghost Hunter Dedication|Ghost Hunter Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 163. Ruins of Gauntlight|Pathfinder #163: Ruins
   of Gauntlight]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,20 +1,11 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Genie Weapon Flourish
-frequency: null
-heighten_level: null
 id: '2548'
 level: '5'
 name: Genie Weapon Flourish
 prerequisite: '[[DATABASE/feat/Genie Weapon Familiarity|Genie Weapon Familiarity]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Ardande|Ardande]]'
 - '[[DATABASE/trait/Ifrit|Ifrit]]'
@@ -23,7 +14,6 @@ trait:
 - '[[DATABASE/trait/Sylph|Sylph]]'
 - '[[DATABASE/trait/Talos|Talos]]'
 - '[[DATABASE/trait/Undine|Undine]]'
-trigger: null
 type: Feat
 
 ---

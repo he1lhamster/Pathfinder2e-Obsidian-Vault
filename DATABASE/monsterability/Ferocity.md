@@ -3,9 +3,7 @@ actions: '[reaction]'
 id: '16'
 name: Ferocity
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
-trait: null
 type: Creature Ability
 
 ---

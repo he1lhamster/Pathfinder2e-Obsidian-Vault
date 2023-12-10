@@ -3,9 +3,7 @@ creature_family: Planar Scion
 id: '81'
 name: Planar Scion
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
-trait: null
 type: Creature Family
 
 ---

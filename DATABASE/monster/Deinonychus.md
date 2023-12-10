@@ -1,35 +1,24 @@
 ﻿---
 ac: '19'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Darting Attack
 - Predator's Advantage
 creature_family: '[[DATABASE/monsterfamily/Dinosaur|Dinosaur]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+10'
-hardness: null
 hp: '30'
 id: '118'
-immunity: null
 intelligence: '-4'
 land_speed: '30'
-language: null
 level: '2'
 max_speed: '30'
 name: Deinonychus
 perception: '+7'
 rarity: Common
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 - scent (imprecise) 30 feet
@@ -41,12 +30,10 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 30 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 - '[[DATABASE/trait/Dinosaur|Dinosaur]]'
@@ -54,7 +41,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+5'
 wisdom: '+1'
 

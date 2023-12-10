@@ -1,56 +1,21 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
 bulk: L
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
 element: Fire
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '2600'
 item_category: Censer
-item_subcategory: null
-land_speed: null
 level: '13'
-max_speed: null
 name: Bloodburn Censer
-onset: null
 price: 2,750 gp
-range: null
 rarity: Common
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
-school: null
-size: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-spell: null
-stage: null
 subcategory: censer
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Censer|Censer]]'
 - '[[DATABASE/trait/Fire|Fire]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Poison|Poison]]'
-trigger: null
 type: Item
 usage: held in 1 hand
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Bloodburn Censer<span class="item-type">Item 13</span>

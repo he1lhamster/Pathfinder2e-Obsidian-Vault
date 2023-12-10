@@ -1,35 +1,24 @@
 ﻿---
 ac: '28'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Tail Sweep
 - Trample
 creature_family: '[[DATABASE/monsterfamily/Dinosaur|Dinosaur]]'
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+21'
-hardness: null
 hp: '220'
 id: '122'
-immunity: null
 intelligence: '-4'
 land_speed: '35'
-language: null
 level: '10'
 max_speed: '35'
 name: Brontosaurus
 perception: '+16'
 rarity: Common
 reflex: '+14'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 - scent (imprecise) 30 feet
@@ -39,12 +28,10 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 35 feet
-spell: null
 strength: '+9'
 strength_req: '9'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 - '[[DATABASE/trait/Dinosaur|Dinosaur]]'
@@ -52,7 +39,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Reflex
-weakness: null
 will: '+16'
 wisdom: '+2'
 

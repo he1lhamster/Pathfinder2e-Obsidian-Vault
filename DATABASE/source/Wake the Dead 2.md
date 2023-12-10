@@ -2,9 +2,6 @@
 id: '207'
 name: Wake the Dead 2
 rarity: Common
-rus_type_level: null
-source: null
-trait: null
 type: Source
 
 ---

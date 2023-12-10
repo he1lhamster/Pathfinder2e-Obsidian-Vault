@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Elemental Fist
-frequency: null
-heighten_level: null
 id: '441'
 level: '2'
 name: Elemental Fist
 prerequisite: '[[DATABASE/feat/Ki Strike|Ki Strike]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Monk|Monk]]'
-trigger: null
 type: Feat
 
 ---

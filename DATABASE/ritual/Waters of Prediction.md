@@ -1,9 +1,5 @@
 ﻿---
-area: null
 cost: rare incense and herbs worth a total value of 300 gp
-duration: null
-element: null
-heighten: null
 heighten_level: '5'
 id: '43'
 level: '5'
@@ -12,8 +8,6 @@ primary_check: '[[DATABASE/skill/Nature|Nature]] or [[DATABASE/skill/Religion|Re
   (master, the check has the [[DATABASE/trait/Secret|secret]] trait)'
 range: 20 feet
 rarity: Rare
-requirement: null
-rus_type_level: null
 school: Divination
 secondary_casters: '3'
 secondary_check: Nature, [[DATABASE/skill/Occultism|Occultism]] , Religion, or [[DATABASE/skill/Survival|Survival]]

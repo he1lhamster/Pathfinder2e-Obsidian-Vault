@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Ceremony of the Strengthened Hand
-frequency: null
-heighten_level: null
 id: '2786'
 level: '9'
 name: Ceremony of the Strengthened Hand
 prerequisite: '[[DATABASE/feat/Ceremony of the Evened Hand|Ceremony of the Evened
   Hand]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Conrasu|Conrasu]]'
-trigger: null
 type: Feat
 
 ---

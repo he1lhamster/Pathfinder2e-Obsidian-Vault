@@ -1,6 +1,5 @@
 ﻿---
 ac: '17'
-bulk: null
 fortitude: '+12'
 hardness: '10'
 hp: '40'
@@ -13,7 +12,6 @@ name: Bombard
 price: 300 gp
 rarity: Uncommon
 reflex: '+5'
-rus_type_level: null
 size: Large
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:

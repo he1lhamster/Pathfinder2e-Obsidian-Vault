@@ -1,26 +1,17 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Glean Lore
-frequency: null
-heighten_level: null
 id: '1483'
 level: '1'
 name: Glean Lore
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Divination
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Divination|Divination]]'
 - '[[DATABASE/trait/Divine|Divine]]'
 - '[[DATABASE/trait/Oracle|Oracle]]'
 - '[[DATABASE/trait/Secret|Secret]]'
-trigger: null
 type: Feat
 
 ---

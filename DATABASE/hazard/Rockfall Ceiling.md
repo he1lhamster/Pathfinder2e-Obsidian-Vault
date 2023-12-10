@@ -1,8 +1,6 @@
 ﻿---
 ac: '22'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+15'
 hardness: '12'
 hazard_type: Trap
@@ -16,17 +14,12 @@ level: '5'
 name: Rockfall Ceiling
 rarity: Common
 reflex: '+15'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 176. Lost Mammoth Valley|Pathfinder #176: Lost
   Mammoth Valley]]'
 trait:
 - '[[DATABASE/trait/Mechanical|Mechanical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Rockfall Ceiling<span class="item-type">Hazard 5</span>

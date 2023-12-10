@@ -1,10 +1,7 @@
 ﻿---
 ac: '45'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+10'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Biting Snakes
@@ -15,15 +12,10 @@ creature_ability:
 - Quickened
 - Casting
 - Woodland Stride
-creature_family: null
 dexterity: '+8'
-element: null
-fly_speed: null
 fortitude: '+33'
-hardness: null
 hp: '300'
 id: '2372'
-immunity: null
 intelligence: '+5'
 land_speed: '25'
 language:
@@ -37,9 +29,6 @@ name: Phomandala
 perception: '+32'
 rarity: Unique
 reflex: '+35'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -110,7 +99,6 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dragon|Dragon]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -119,7 +107,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+32'
 wisdom: '+5'
 

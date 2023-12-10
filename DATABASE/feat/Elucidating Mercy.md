@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Elucidating Mercy
-frequency: null
-heighten_level: null
 id: '1680'
 level: '10'
 name: Elucidating Mercy
 prerequisite: '[[DATABASE/feat/Mercy|Mercy]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Champion|Champion]]'
-trigger: null
 type: Feat
 
 ---

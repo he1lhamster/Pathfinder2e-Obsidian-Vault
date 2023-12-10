@@ -1,8 +1,6 @@
 ﻿---
 bulk: '2'
 damage: 1d8 P
-deity: null
-favored_weapon: null
 hands: '2'
 id: '346'
 item_category: Weapons
@@ -12,7 +10,6 @@ name: Lancer
 price: 8 gp
 range: 60 ft.
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 trait:
 - '[[DATABASE/trait/Capacity|Capacity 2]]'

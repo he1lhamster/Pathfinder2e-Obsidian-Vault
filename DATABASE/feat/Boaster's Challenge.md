@@ -1,26 +1,18 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Boaster's Challenge
-frequency: null
-heighten_level: null
 id: '1068'
+leads_to: '[[DATABASE/feat/Demanding Challenge|Demanding Challenge]]'
 level: '6'
 name: Boaster's Challenge
 prerequisite: Expert in [[DATABASE/skill/Deception|Deception]] , Expert in [[DATABASE/skill/Diplomacy|Diplomacy]]
   , or Expert in [[DATABASE/skill/Intimidation|Intimidation]] ; [[DATABASE/feat/Firebrand
   Braggart Dedication|Firebrand Braggart Dedication]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Mental|Mental]]'
-trigger: null
 type: Feat
 
 ---

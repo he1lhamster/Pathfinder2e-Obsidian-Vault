@@ -1,23 +1,16 @@
 ﻿---
 ac: '18'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Infused Items
 - Quick Bomber
 creature_family: '[[DATABASE/monsterfamily/Geniekin|Geniekin]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+5'
-hardness: null
 hp: '18'
 id: '759'
-immunity: null
 intelligence: '+3'
 land_speed: '25'
 language:
@@ -31,9 +24,6 @@ rarity: Common
 reflex: '+6'
 resistance:
 - fire 1
-rus_type_level: null
-school: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +6'
@@ -51,16 +41,13 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Ifrit|Ifrit]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+3'
 wisdom: '+0'
 

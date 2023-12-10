@@ -1,10 +1,7 @@
 ﻿---
 ac: '28'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Breath Weapon
@@ -12,9 +9,7 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Hell Hound|Hell Hound]]'
 dexterity: '+5'
 element: Fire
-fly_speed: null
 fortitude: '+21'
-hardness: null
 hp: '150'
 id: '260'
 immunity:
@@ -29,9 +24,6 @@ name: Nessian Warhound
 perception: '+19'
 rarity: Common
 reflex: '+19'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - scent (imprecise) 120 feet
@@ -44,12 +36,10 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 40 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

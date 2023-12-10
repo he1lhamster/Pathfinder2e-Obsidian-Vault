@@ -1,8 +1,6 @@
 ﻿---
 ac: '22'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+12'
 hardness: 8 Door Hardness
 hazard_type: Trap
@@ -16,8 +14,6 @@ level: '4'
 name: Color Spray Trap
 rarity: Common
 reflex: '+10'
-resistance: null
-rus_type_level: null
 school: Illusion
 source: '[[DATABASE/source/Pathfinder 179. Cradle of Quartz|Pathfinder #179: Cradle
   of Quartz]]'
@@ -29,8 +25,6 @@ trait:
 - '[[DATABASE/trait/Trap|Trap]]'
 - '[[DATABASE/trait/Visual|Visual]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Color Spray Trap<span class="item-type">Hazard 4</span>

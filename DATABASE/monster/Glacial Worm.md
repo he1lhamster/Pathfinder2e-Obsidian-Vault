@@ -1,10 +1,8 @@
 ﻿---
 ac: '36'
 alignment: N
-all_resistance: null
 burrow_speed: '40'
 charisma: '-1'
-climb_speed: null
 constitution: '+8'
 creature_ability:
 - Cold Healing
@@ -16,26 +14,19 @@ creature_ability:
 - Thrash
 creature_family: '[[DATABASE/monsterfamily/Cave Worm|Cave Worm]]'
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+30'
-hardness: null
 hp: 370 (cold healing)
 id: '2703'
 immunity:
 - '[[DATABASE/trait/Cold|cold]]'
 intelligence: '-5'
 land_speed: '40'
-language: null
 level: '16'
 max_speed: '40'
 name: Glacial Worm
 perception: '+22'
 rarity: Uncommon
 reflex: '+22'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) 100 feet'
@@ -48,7 +39,6 @@ speed:
 - 40 feet
 - burrow 40 feet
 - swim 20 feet
-spell: null
 strength: '+10'
 strength_req: '10'
 strongest_save:

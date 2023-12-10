@@ -1,24 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Cindersoul
-frequency: null
-heighten_level: null
 id: '2552'
 level: '1'
 name: Cindersoul
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Ifrit|Ifrit]]'
 - '[[DATABASE/trait/Lineage|Lineage]]'
-trigger: null
 type: Feat
 
 ---

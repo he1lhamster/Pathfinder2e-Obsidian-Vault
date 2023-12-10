@@ -1,24 +1,17 @@
 ﻿---
-area: null
 cost: rare incense worth a total value of 150 gp
 duration: up to 10 minutes
-element: null
-heighten: null
 heighten_level: '6'
 id: '6'
 level: '6'
 name: Commune
 primary_check: '[[DATABASE/skill/Occultism|Occultism]] (master) or [[DATABASE/skill/Religion|Religion]]
   (master)'
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Divination
 secondary_casters: '1'
 secondary_check: Occultism or Religion (whichever is used for the primary check)
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 trait:
 - '[[DATABASE/trait/Divination|Divination]]'
 - '[[DATABASE/trait/Prediction|Prediction]]'

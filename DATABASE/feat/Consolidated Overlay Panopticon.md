@@ -1,23 +1,15 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Consolidated Overlay Panopticon
 frequency: once per hour
-heighten_level: null
 id: '4041'
 level: '4'
 name: Consolidated Overlay Panopticon
 prerequisite: '[[DATABASE/feat/Shieldmarshal Dedication|Shieldmarshal Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

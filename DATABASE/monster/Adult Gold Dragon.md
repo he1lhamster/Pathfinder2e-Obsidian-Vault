@@ -1,10 +1,7 @@
 ﻿---
 ac: '38'
 alignment: LG
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Attack of Opportunity
@@ -19,7 +16,6 @@ dexterity: '+3'
 element: Fire
 fly_speed: '180'
 fortitude: '+28'
-hardness: null
 hp: '330'
 id: '152'
 immunity:
@@ -40,9 +36,6 @@ name: Adult Gold Dragon
 perception: '+29'
 rarity: Common
 reflex: '+25'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - scent (imprecise) 60 feet

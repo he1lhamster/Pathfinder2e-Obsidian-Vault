@@ -1,25 +1,16 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Forceful Shot
-frequency: null
-heighten_level: null
 id: '2263'
 level: '14'
 name: Forceful Shot
 prerequisite: '[[DATABASE/feat/Swordmaster Dedication|Swordmaster Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Attack|Attack]]'
 - '[[DATABASE/trait/Press|Press]]'
-trigger: null
 type: Feat
 
 ---

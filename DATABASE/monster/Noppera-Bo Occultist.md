@@ -1,10 +1,7 @@
 ﻿---
 ac: '17'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Impersonate Shape
@@ -14,10 +11,7 @@ creature_ability:
 - Steal Face
 creature_family: '[[DATABASE/monsterfamily/Noppera-Bo|Noppera-Bo]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+6'
-hardness: null
 hp: '30'
 id: '2722'
 immunity:
@@ -35,9 +29,6 @@ name: Noppera-Bo Occultist
 perception: '+8'
 rarity: Uncommon
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - no face
 size: Medium
@@ -65,12 +56,10 @@ strength: '+1'
 strength_req: '1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
 weakness:

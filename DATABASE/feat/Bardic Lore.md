@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Bardic Lore
-frequency: null
-heighten_level: null
 id: '179'
 level: '1'
 name: Bardic Lore
 prerequisite: '[[DATABASE/bardmuse/Enigma|enigma muse]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Bard|Bard]]'
-trigger: null
 type: Feat
 
 ---

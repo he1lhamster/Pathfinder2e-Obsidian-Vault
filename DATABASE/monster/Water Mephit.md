@@ -1,10 +1,7 @@
 ﻿---
 ac: '16'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Breath Weapon
@@ -14,7 +11,6 @@ dexterity: '+3'
 element: Water
 fly_speed: '25'
 fortitude: '+7'
-hardness: null
 hp: 20 ( fast healing 2 (while underwater))
 id: '195'
 immunity:
@@ -35,8 +31,6 @@ reflex: '+11'
 resistance:
 - acid 3
 - fire 3
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Small
@@ -63,7 +57,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+4'
 wisdom: '+0'
 

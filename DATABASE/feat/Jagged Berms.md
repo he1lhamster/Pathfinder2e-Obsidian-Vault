@@ -1,20 +1,13 @@
 ﻿---
 actions: '[three-actions]'
-cost: null
 element: Earth, Wood
 feat: Jagged Berms
-frequency: null
 heighten_level: 6, 8, 10, 12, 14, 16, 18, 20
 id: '4304'
 level: '6'
 name: Jagged Berms
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Composite|Composite]]'
 - '[[DATABASE/trait/Earth|Earth]]'
@@ -23,7 +16,6 @@ trait:
 - '[[DATABASE/trait/Overflow|Overflow]]'
 - '[[DATABASE/trait/Primal|Primal]]'
 - '[[DATABASE/trait/Wood|Wood]]'
-trigger: null
 type: Feat
 
 ---

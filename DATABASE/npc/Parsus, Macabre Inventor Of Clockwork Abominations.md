@@ -1,24 +1,17 @@
 ﻿---
 ac: '29'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Clockwork Necromancy
 - Explode
 - Necromatic Winding
 - Necromechanical Innovation
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+18'
 hp: 160 ( negative healing )
 id: '1994'
-immunity: null
 intelligence: '+5'
 land_speed: '25'
 language:
@@ -30,9 +23,6 @@ name: Parsus
 perception: '+20'
 rarity: Unique
 reflex: '+18'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Arcana|Arcana]] +24'
@@ -67,18 +57,15 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dhampir|Dhampir]]'
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
 - Reflex
-weakness: null
 will: '+20'
 wisdom: '+0'
 

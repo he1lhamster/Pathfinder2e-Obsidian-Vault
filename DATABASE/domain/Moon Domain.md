@@ -1,7 +1,5 @@
 ﻿---
-advanced_apocryphal_spell: null
 advanced_domain_spell: '[[DATABASE/spell/Touch of the Moon|Touch of the Moon]]'
-apocryphal_spell: null
 deity:
 - '[[DATABASE/deity/Ashava|Ashava]]'
 - '[[DATABASE/deity/Cosmic Caravan|CosmicCaravan]]'
@@ -20,9 +18,7 @@ domain_spell: '[[DATABASE/spell/Moonbeam|Moonbeam]]'
 id: '21'
 name: Moon Domain
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Domain
 
 ---

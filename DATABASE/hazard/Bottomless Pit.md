@@ -1,8 +1,6 @@
 ﻿---
 ac: '28'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+12'
 hardness: 9 Trapdoor Hardness
 hazard_type: Trap
@@ -16,17 +14,12 @@ level: '9'
 name: Bottomless Pit
 rarity: Common
 reflex: '+12'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Mechanical|Mechanical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Bottomless Pit<span class="item-type">Hazard 9</span>

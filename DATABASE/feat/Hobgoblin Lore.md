@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Hobgoblin Lore
-frequency: null
-heighten_level: null
 id: '1025'
 level: '1'
 name: Hobgoblin Lore
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Hobgoblin|Hobgoblin]]'
-trigger: null
 type: Feat
 
 ---

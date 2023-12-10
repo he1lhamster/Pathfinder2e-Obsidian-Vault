@@ -1,19 +1,14 @@
 ﻿---
 ac: '19'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Deep Plunge
 creature_family: '[[DATABASE/monsterfamily/Elemental, Water|Elemental, Water]]'
 dexterity: '+2'
 element: Water
-fly_speed: null
 fortitude: '+9'
-hardness: null
 hp: '45'
 id: '196'
 immunity:
@@ -23,7 +18,6 @@ immunity:
 - sleep
 intelligence: '-4'
 land_speed: '15'
-language: null
 level: '3'
 max_speed: '50'
 name: Brine Shark
@@ -32,8 +26,6 @@ rarity: Common
 reflex: '+11'
 resistance:
 - fire 5
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -45,7 +37,6 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 15 feet
 - swim 50 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
@@ -59,7 +50,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+6'
 wisdom: '+1'
 

@@ -1,29 +1,20 @@
 ﻿---
 actions: '[three-actions]'
-area: null
 bloodline: '[[DATABASE/sorcererbloodline/Shadow|Shadow]]'
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Brigh|Brigh]]'
-domain: null
 duration: sustained up to 1 minute
-element: null
 heighten: '+1'
 heighten_level: 7, 8, 9, 10
 id: '93'
-lesson: null
 level: '7'
-mystery: null
 name: Duplicate Foe
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Fortitude
 school: Conjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -33,7 +24,6 @@ tradition:
 - Occult
 trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
-trigger: null
 type: Spell
 
 ---

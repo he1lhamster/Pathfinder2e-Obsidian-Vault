@@ -1,10 +1,7 @@
 ﻿---
 ac: '29'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Quick Draw
@@ -12,14 +9,10 @@ creature_ability:
 - Reaper's Protection
 - Sneak Attack
 - Surprise Attack
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+17'
 hp: '170'
 id: '1691'
-immunity: null
 intelligence: '+2'
 land_speed: '25'
 language:
@@ -30,9 +23,6 @@ name: Norgorberite Spy
 perception: '+18'
 rarity: Common
 reflex: '+22'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +19'
@@ -46,20 +36,16 @@ source: '[[DATABASE/source/Pathfinder 171. Hurricane''s Howl|Pathfinder #171: Hu
   Howl]]'
 speed:
 - 25 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+19'
 wisdom: '+2'
 

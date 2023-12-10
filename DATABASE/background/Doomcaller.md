@@ -5,12 +5,9 @@ ability:
 ability_boost:
 - Intelligence
 - Wisdom
-feat: null
 id: '329'
 name: Doomcaller
-prerequisite: null
 rarity: Rare
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Occultism|Occultism]]'
 - Star [[DATABASE/skill/Lore|Lore]]

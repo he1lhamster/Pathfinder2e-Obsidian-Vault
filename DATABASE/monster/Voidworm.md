@@ -1,10 +1,7 @@
 ﻿---
 ac: '17'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Change Shape
@@ -13,13 +10,10 @@ creature_ability:
 - Protean Anatomy
 creature_family: '[[DATABASE/monsterfamily/Protean|Protean]]'
 dexterity: '+4'
-element: null
 fly_speed: '40'
 fortitude: '+5'
-hardness: null
 hp: 16 ( fast healing 1)
 id: '336'
-immunity: null
 intelligence: '-1'
 land_speed: '20'
 language:
@@ -34,8 +28,6 @@ reflex: '+9'
 resistance:
 - precision 3
 - protean anatomy 5
-rus_type_level: null
-school: null
 sense:
 - entropy sense (imprecise) 30 feet
 - darkvision
@@ -62,7 +54,6 @@ strength: '-1'
 strength_req: '-1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Monitor|Monitor]]'
 - '[[DATABASE/trait/Protean|Protean]]'
@@ -70,7 +61,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+6'
 wisdom: '-1'
 

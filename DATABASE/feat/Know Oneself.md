@@ -1,20 +1,12 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Know Oneself
 frequency: once per day
-heighten_level: null
 id: '944'
 level: '1'
 name: Know Oneself
-prerequisite: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fortune|Fortune]]'
 - '[[DATABASE/trait/Human|Human]]'

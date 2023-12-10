@@ -1,10 +1,8 @@
 ﻿---
-element: null
 id: '24'
 level: '12'
 name: Reviling Earth
 rarity: Common
-rus_type_level: null
 saving_throw: DC 30 Fortitude
 school: Necromancy
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
@@ -14,7 +12,6 @@ trait:
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 type: Curse
-usage: null
 
 ---
 # Reviling Earth<span class="item-type">Curse 12</span>

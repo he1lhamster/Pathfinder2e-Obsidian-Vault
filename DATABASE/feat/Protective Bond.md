@@ -1,20 +1,12 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Protective Bond
-frequency: null
-heighten_level: null
 id: '2924'
 level: '10'
 name: Protective Bond
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Abjuration
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Summoner|Summoner]]'

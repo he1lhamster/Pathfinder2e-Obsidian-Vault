@@ -1,20 +1,12 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Everyone Duck!
-frequency: null
-heighten_level: null
 id: '1128'
 level: '10'
 name: Everyone Duck!
 prerequisite: '[[DATABASE/feat/Pathfinder Agent Dedication|Pathfinder Agent Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 trigger: "You fail, but don\u2019t critically fail, an attempt to [[DATABASE/action/Disable\

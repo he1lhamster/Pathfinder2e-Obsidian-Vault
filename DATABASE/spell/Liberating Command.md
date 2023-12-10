@@ -1,30 +1,17 @@
 ﻿---
 actions: '[one-action]'
-area: null
-bloodline: null
 component:
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Ranginori|Ranginori]]'
 - '[[DATABASE/deity/Ranginori|Ranginori]]'
 - '[[DATABASE/deity/Shei|Shei]]'
-domain: null
-duration: null
-element: null
-heighten: null
 heighten_level: '1'
 id: '580'
-lesson: null
 level: '1'
-mystery: null
 name: Liberating Command
-patron_theme: null
 range: 60 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Enchantment
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
 target: 1 creature
@@ -33,7 +20,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Enchantment|Enchantment]]'
 - '[[DATABASE/trait/Mental|Mental]]'
-trigger: null
 type: Spell
 
 ---

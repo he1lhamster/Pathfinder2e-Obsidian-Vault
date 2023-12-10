@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Gloomseer
-frequency: null
-heighten_level: null
 id: '942'
+leads_to: '[[DATABASE/feat/Darkseer|Darkseer]]'
 level: '1'
 name: Gloomseer
 prerequisite: Nidalese ethnicity
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
-trigger: null
 type: Feat
 
 ---

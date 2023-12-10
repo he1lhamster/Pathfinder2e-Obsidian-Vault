@@ -25,11 +25,9 @@ follower_alignment:
 id: '86'
 name: Dranngvit
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Intimidation|Intimidation]]'
 source: '[[DATABASE/source/Highhelm|Highhelm]]'
-trait: null
 type: Deity
 
 ---

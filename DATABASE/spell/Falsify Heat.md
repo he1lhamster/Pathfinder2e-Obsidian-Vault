@@ -1,26 +1,14 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
-component: null
-cost: null
-deity: null
-domain: null
 duration: 8 hours
 element: Fire
 heighten: 4th
 heighten_level: 2, 4
 id: '1353'
-lesson: null
 level: '2'
-mystery: null
 name: Falsify Heat
-patron_theme: null
 range: 60 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Illusion
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 target: 1 willing creature or object
@@ -32,7 +20,6 @@ trait:
 - '[[DATABASE/trait/Fire|Fire]]'
 - '[[DATABASE/trait/Illusion|Illusion]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
-trigger: null
 type: Spell
 
 ---

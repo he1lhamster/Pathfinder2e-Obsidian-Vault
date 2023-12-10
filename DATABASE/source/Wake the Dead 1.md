@@ -2,9 +2,6 @@
 id: '201'
 name: Wake the Dead 1
 rarity: Common
-rus_type_level: null
-source: null
-trait: null
 type: Source
 
 ---

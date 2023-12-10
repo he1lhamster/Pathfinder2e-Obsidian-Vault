@@ -1,10 +1,6 @@
 ﻿---
 ac: '33'
-alignment: null
-all_resistance: null
-burrow_speed: null
 charisma: '+7'
-climb_speed: null
 constitution: '+9'
 creature_ability:
 - Heavy
@@ -14,9 +10,7 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Elemental, Metal|Elemental, Metal]]'
 dexterity: '+4'
 element: Metal
-fly_speed: null
 fortitude: '+26'
-hardness: null
 hp: '292'
 id: '2654'
 immunity:
@@ -37,8 +31,6 @@ rarity: Common
 reflex: '+23'
 resistance:
 - '[[DATABASE/trait/Electricity|electricity]] 15'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Huge
@@ -50,12 +42,10 @@ skill:
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 speed:
 - 25 feet
-spell: null
 strength: '+9'
 strength_req: '9'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Elemental|Elemental]]'
 - '[[DATABASE/trait/Metal|Metal]]'
@@ -64,7 +54,6 @@ vision: Darkvision
 weakest_save:
 - Reflex
 - Will
-weakness: null
 will: '+23'
 wisdom: '+2'
 

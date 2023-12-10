@@ -1,10 +1,7 @@
 ﻿---
 ac: '26'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Accelerating Inquest
@@ -12,12 +9,8 @@ creature_ability:
 - Involuntary Reaction
 - Synaptic Overload
 - Thoughtsense
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+14'
-hardness: null
 hp: 150 ( negative healing )
 id: '1892'
 immunity:
@@ -40,9 +33,6 @@ name: Raw Nerve
 perception: '+17'
 rarity: Common
 reflex: '+16'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - thoughtsense 60 feet
@@ -57,12 +47,10 @@ source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 speed:
 - 30 feet
 - float
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Undead|Undead]]'
 type: Creature

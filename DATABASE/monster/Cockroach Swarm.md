@@ -1,8 +1,6 @@
 ﻿---
 ac: '18'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-4'
 climb_speed: '20'
 constitution: '+3'
@@ -10,10 +8,8 @@ creature_ability:
 - Swarming Bites
 creature_family: '[[DATABASE/monsterfamily/Cockroach|Cockroach]]'
 dexterity: '+4'
-element: null
 fly_speed: '15'
 fortitude: '+9'
-hardness: null
 hp: '20'
 id: '586'
 immunity:
@@ -21,7 +17,6 @@ immunity:
 - '[[DATABASE/monsterability/Swarm Mind|swarm mind]]'
 intelligence: '-5'
 land_speed: '20'
-language: null
 level: '2'
 max_speed: '20'
 name: Cockroach Swarm
@@ -32,8 +27,6 @@ resistance:
 - bludgeoning 2
 - piercing 5
 - slashing 5
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent (imprecise) 60 feet]]'
@@ -46,12 +39,10 @@ speed:
 - 20 feet
 - climb 20 feet
 - fly 15 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 - '[[DATABASE/trait/Swarm|Swarm]]'

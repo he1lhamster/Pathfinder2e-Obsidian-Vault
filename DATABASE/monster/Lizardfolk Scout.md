@@ -1,10 +1,7 @@
 ﻿---
 ac: '17'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Deep Breath
@@ -14,13 +11,9 @@ creature_ability:
 - Terrain Advantage
 creature_family: '[[DATABASE/monsterfamily/Lizardfolk|Lizardfolk]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+6'
-hardness: null
 hp: '17'
 id: '292'
-immunity: null
 intelligence: '-1'
 land_speed: '25'
 language:
@@ -33,10 +26,6 @@ name: Lizardfolk Scout
 perception: '+8'
 rarity: Common
 reflex: '+8'
-resistance: null
-rus_type_level: null
-school: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +6'
@@ -49,7 +38,6 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 25 feet
 - swim 20 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
@@ -59,11 +47,9 @@ trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Lizardfolk|Lizardfolk]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
 - Will
-weakness: null
 will: '+6'
 wisdom: '+3'
 

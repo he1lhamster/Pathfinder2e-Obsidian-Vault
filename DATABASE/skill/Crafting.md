@@ -6,11 +6,9 @@ ability_boost:
 id: '4'
 name: Crafting
 rarity: Common
-rus_type_level: null
 skill:
 - Crafting
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Skill
 
 ---

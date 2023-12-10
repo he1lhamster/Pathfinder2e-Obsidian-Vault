@@ -1,19 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
-frequency: null
 id: '42'
 name: Repair
 rarity: Common
 requirement: You have a [[DATABASE/equipment/Repair Kit|repair kit]] .
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Exploration|Exploration]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
-trigger: null
 type: Action
 
 ---

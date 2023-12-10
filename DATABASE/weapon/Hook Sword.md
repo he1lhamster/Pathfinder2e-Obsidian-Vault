@@ -1,30 +1,8 @@
 ﻿---
-bulk: '1'
-damage: 1d6 S
-deity: null
-favored_weapon: null
-hands: '1'
-id: '287'
-item_category: Weapons
-item_subcategory: Base Weapons
-level: '0'
+id: '163'
 name: Hook Sword
-price: 3 gp
-range: null
-rarity: Uncommon
-rus_type_level: null
-source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-trait:
-- '[[DATABASE/trait/Disarm|Disarm]]'
-- '[[DATABASE/trait/Monk|Monk]]'
-- '[[DATABASE/trait/Parry|Parry]]'
-- '[[DATABASE/trait/Trip|Trip]]'
-- '[[DATABASE/trait/Twin|Twin]]'
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
-type: Weapon
-weapon_category: Advanced
-weapon_group: '[[DATABASE/weapongroup/Sword|Sword]]'
-weapon_type: Melee
+source: '[[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #166:
+  Despair on Danger Island]]'
 
 ---
 # Hook Sword

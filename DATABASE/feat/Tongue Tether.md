@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Tongue Tether
-frequency: null
-heighten_level: null
 id: '2828'
 level: '9'
 name: Tongue Tether
 prerequisite: '[[DATABASE/heritage/Snaptongue Grippli|Snaptongue Grippli]] heritage'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Grippli|Grippli]]'
-trigger: null
 type: Feat
 
 ---

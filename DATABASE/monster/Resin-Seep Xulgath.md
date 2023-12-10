@@ -1,23 +1,15 @@
 ﻿---
 ac: '30'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Resin Crust
 - Resin Spray
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+19'
-hardness: null
 hp: '195'
 id: '2107'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -29,9 +21,6 @@ name: Resin-Seep Xulgath
 perception: '+19'
 rarity: Rare
 reflex: '+23'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -45,12 +34,10 @@ source: '[[DATABASE/source/Pathfinder 153. Life''s Long Shadows|Pathfinder #153:
   Long Shadows]]'
 speed:
 - 25 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Rare|Rare]]'

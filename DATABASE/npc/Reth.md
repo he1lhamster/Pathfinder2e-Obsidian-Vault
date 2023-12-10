@@ -1,24 +1,17 @@
 ﻿---
 ac: '25'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Deadly Bolts
 - Deep Breath
 - Running Reload
 - Skirmishing Shot
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+14'
 hp: '115'
 id: '1632'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -31,9 +24,6 @@ name: Reth
 perception: '+13'
 rarity: Unique
 reflex: '+17'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +15'
@@ -47,7 +37,6 @@ source: '[[DATABASE/source/Pathfinder 170. Spoken on the Song Wind|Pathfinder #1
 speed:
 - 25 feet
 - swim 15 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
@@ -58,10 +47,8 @@ trait:
 - '[[DATABASE/trait/Lizardfolk|Lizardfolk]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+11'
 wisdom: '+2'
 

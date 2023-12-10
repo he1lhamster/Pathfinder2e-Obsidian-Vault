@@ -1,8 +1,6 @@
 ﻿---
 ac: '14'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-3'
 climb_speed: '10'
 constitution: '+1'
@@ -11,10 +9,7 @@ creature_ability:
 - Swarming Bites
 creature_family: '[[DATABASE/monsterfamily/Rat|Rat]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+2'
-hardness: null
 hp: '14'
 id: '347'
 immunity:
@@ -22,7 +17,6 @@ immunity:
 - swarm mind
 intelligence: '-4'
 land_speed: '30'
-language: null
 level: '1'
 max_speed: '30'
 name: Rat Swarm
@@ -31,8 +25,6 @@ rarity: Common
 reflex: '+7'
 resistance:
 - physical 6 (except bludgeoning)
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 - scent (imprecise) 30 feet
@@ -45,12 +37,10 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 30 feet
 - climb 10 feet
-spell: null
 strength: '-2'
 strength_req: '-2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 - '[[DATABASE/trait/Swarm|Swarm]]'

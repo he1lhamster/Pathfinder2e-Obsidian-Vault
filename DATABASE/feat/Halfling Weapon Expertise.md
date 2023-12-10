@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Halfling Weapon Expertise
-frequency: null
-heighten_level: null
 id: '65'
 level: '13'
 name: Halfling Weapon Expertise
 prerequisite: '[[DATABASE/feat/Halfling Weapon Familiarity|Halfling Weapon Familiarity]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Halfling|Halfling]]'
-trigger: null
 type: Feat
 
 ---

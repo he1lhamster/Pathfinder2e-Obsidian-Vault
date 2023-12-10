@@ -1,10 +1,5 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Ancestral Weaponry
-frequency: null
-heighten_level: null
 id: '1736'
 level: '2'
 name: Ancestral Weaponry
@@ -12,14 +7,9 @@ prerequisite: '[[DATABASE/feat/Monastic Weaponry|Monastic Weaponry]] ; a feat gr
   access to all weaponswith an ancestry trait (such as [[DATABASE/trait/Elf|elf]]
   or [[DATABASE/trait/Orc|orc]] )'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Monk|Monk]]'
-trigger: null
 type: Feat
 
 ---

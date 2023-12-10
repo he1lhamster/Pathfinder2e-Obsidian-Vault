@@ -1,21 +1,10 @@
 ﻿---
-ac: null
-all_resistance: null
 complexity: Simple
-element: null
-fortitude: null
-hardness: null
 hazard_type: Haunt
-hp: null
 id: '411'
-immunity: null
 level: '9'
 name: Explosive Entrance
 rarity: Common
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 195. Heavy is the Crown|Pathfinder #195: Heavy
   is the Crown]]'
 trait:
@@ -23,8 +12,6 @@ trait:
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Explosive Entrance<span class="item-type">Hazard 9</span>

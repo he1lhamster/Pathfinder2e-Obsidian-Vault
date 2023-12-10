@@ -1,29 +1,15 @@
 ﻿---
 actions: '[three-actions]'
-area: null
-bloodline: null
-component: null
-cost: null
-deity: null
-domain: null
 duration: 1 minute
 element: Metal
 heighten: 7th, 8th, 9th, 10th
 heighten_level: 6, 7, 8, 9, 10
 id: '1379'
-lesson: null
 level: '6'
-mystery: null
 name: Wall of Metal
-patron_theme: null
 range: 120 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-target: null
 tradition:
 - Arcane
 - Primal
@@ -31,7 +17,6 @@ trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Metal|Metal]]'
-trigger: null
 type: Spell
 
 ---

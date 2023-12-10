@@ -1,12 +1,8 @@
 ﻿---
-element: null
 id: '109'
 item_category: Relics
 name: Intelligent Relic
-prerequisite: null
 rarity: Common
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 trait:
 - '[[DATABASE/trait/Intelligent|Intelligent]]'

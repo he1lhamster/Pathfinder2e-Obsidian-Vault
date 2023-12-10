@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Persistent Mutagen
-frequency: null
-heighten_level: null
 id: '122'
 level: '16'
 name: Persistent Mutagen
 prerequisite: '[[DATABASE/feat/Extend Elixir|Extend Elixir]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Alchemist|Alchemist]]'
-trigger: null
 type: Feat
 
 ---

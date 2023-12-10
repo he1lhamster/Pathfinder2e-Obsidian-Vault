@@ -1,27 +1,13 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
-component: null
-cost: null
-deity: null
-domain: null
 duration: 1 minute
 element: Fire
-heighten: null
 heighten_level: '2'
 id: '1349'
-lesson: null
 level: '2'
-mystery: null
 name: Cauterize Wounds
-patron_theme: null
 range: 60 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 target: up to 5 willing creatures
 tradition:
@@ -33,7 +19,6 @@ trait:
 - '[[DATABASE/trait/Fire|Fire]]'
 - '[[DATABASE/trait/Healing|Healing]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
-trigger: null
 type: Spell
 
 ---

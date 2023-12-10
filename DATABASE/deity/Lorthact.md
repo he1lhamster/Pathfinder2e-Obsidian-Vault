@@ -1,6 +1,4 @@
 ﻿---
-ability: null
-ability_boost: null
 alignment: LE
 deity:
 - '[[DATABASE/deity/Lorthact|Lorthact]]'
@@ -18,11 +16,9 @@ follower_alignment:
 id: '243'
 name: Lorthact
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Arcana|Arcana]]'
 source: '[[DATABASE/source/Shadows at Sundown|Shadows at Sundown]]'
-trait: null
 type: Deity
 
 ---

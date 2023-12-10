@@ -1,56 +1,20 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '2237'
 item_category: Spellhearts
-item_subcategory: null
-land_speed: null
-level: '12'
-max_speed: null
+level: '5'
 name: Resonating Fork
-onset: null
-price: 1,800 gp
-range: null
+price: 140 gp
 rarity: Common
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
-size: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-spell: null
-stage: null
 subcategory: spellheart
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Sonic|Sonic]]'
 - '[[DATABASE/trait/Spellheart|Spellheart]]'
-trigger: null
 type: Item
 usage: affixed to armor or a weapon
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Resonating Fork<span class="item-type">Item 5+</span>

@@ -1,26 +1,19 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Courageous Assault
-frequency: null
-heighten_level: null
 id: '1649'
+leads_to: '[[DATABASE/feat/Courageous Onslaught|Courageous Onslaught]] , [[DATABASE/feat/Shared
+  Assault|Shared Assault]]'
 level: '10'
 name: Courageous Assault
 prerequisite: '[[DATABASE/bardmuse/Warrior|warrior muse]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Auditory|Auditory]]'
 - '[[DATABASE/trait/Bard|Bard]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Metamagic|Metamagic]]'
-trigger: null
 type: Feat
 
 ---

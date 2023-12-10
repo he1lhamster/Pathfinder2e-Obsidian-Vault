@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Aeon Resonance
-frequency: null
-heighten_level: null
 id: '3022'
 level: '4'
 name: Aeon Resonance
 prerequisite: '[[DATABASE/feat/Embed Aeon Stone|Embed Aeon Stone]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

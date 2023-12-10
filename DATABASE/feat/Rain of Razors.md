@@ -1,27 +1,19 @@
 ﻿---
 actions: '[three-actions]'
-cost: null
 element: Metal
 feat: Rain of Razors
-frequency: null
 heighten_level: 12, 14, 16, 18, 20
 id: '4261'
 level: '12'
 name: Rain of Razors
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Impulse|Impulse]]'
 - '[[DATABASE/trait/Kineticist|Kineticist]]'
 - '[[DATABASE/trait/Metal|Metal]]'
 - '[[DATABASE/trait/Overflow|Overflow]]'
 - '[[DATABASE/trait/Primal|Primal]]'
-trigger: null
 type: Feat
 
 ---

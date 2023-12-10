@@ -1,25 +1,17 @@
 ﻿---
 actions: '[three-actions]'
-cost: null
-element: null
 feat: Impossible Flurry
-frequency: null
-heighten_level: null
 id: '540'
+leads_to: '[[DATABASE/feat/Accurate Flurry|Accurate Flurry]]'
 level: '18'
 name: Impossible Flurry
-prerequisite: null
 rarity: Common
 requirement: You are wielding two melee weapons, each in a different hand.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Flourish|Flourish]]'
 - '[[DATABASE/trait/Open|Open]]'
 - '[[DATABASE/trait/Ranger|Ranger]]'
-trigger: null
 type: Feat
 
 ---

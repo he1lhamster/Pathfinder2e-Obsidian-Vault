@@ -25,11 +25,9 @@ follower_alignment:
 id: '246'
 name: The Endless Road
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Society|Society]]'
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
-trait: null
 type: Deity
 
 ---

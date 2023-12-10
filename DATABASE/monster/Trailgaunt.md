@@ -1,10 +1,8 @@
 ﻿---
 ac: '19'
 alignment: NE
-all_resistance: null
 burrow_speed: '10'
 charisma: '-1'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Create Spawn
@@ -12,12 +10,8 @@ creature_ability:
 - Pained Muttering
 - Share Pain
 - Sure Stride
-creature_family: null
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+12'
-hardness: null
 hp: 45 ( negative healing )
 id: '1346'
 immunity:
@@ -36,9 +30,6 @@ name: Trailgaunt
 perception: '+10'
 rarity: Common
 reflex: '+6'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) 60 feet'
@@ -51,19 +42,16 @@ source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 10 feet
 - burrow 10 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Undead|Undead]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+8'
 wisdom: '+3'
 

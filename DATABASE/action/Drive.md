@@ -1,18 +1,11 @@
 ﻿---
-actions: null
-cost: null
-element: null
-frequency: null
 id: '483'
 name: Drive
 rarity: Common
 requirement: You are piloting a vehicle.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
 - '[[DATABASE/trait/Move|Move]]'
-trigger: null
 type: Action
 
 ---

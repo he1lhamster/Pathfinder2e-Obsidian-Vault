@@ -1,28 +1,13 @@
 ﻿---
-actions: null
-area: null
-bloodline: null
 component:
 - 1 Minute
-cost: null
-deity: null
-domain: null
 duration: sustained up to 10 minutes
 element: Water
-heighten: null
 heighten_level: '4'
 id: '1392'
-lesson: null
 level: '4'
-mystery: null
 name: Misty Memory
-patron_theme: null
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 target: 1 body of water of at least 5 square feet
 tradition:
@@ -34,7 +19,6 @@ trait:
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 - '[[DATABASE/trait/Water|Water]]'
-trigger: null
 type: Spell
 
 ---

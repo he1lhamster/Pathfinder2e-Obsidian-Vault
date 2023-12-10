@@ -1,21 +1,15 @@
 ﻿---
 ac: '35'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+8'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Drowning Touch
 - Manifest Shawl
 - Watery Transparency
-creature_family: null
 dexterity: '+8'
 element: Water
-fly_speed: null
 fortitude: '+22'
-hardness: null
 hp: '210'
 id: '2328'
 immunity:
@@ -32,9 +26,6 @@ name: Evindra
 perception: '+24'
 rarity: Unique
 reflex: '+27'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium

@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Gecko's Grip
-frequency: null
-heighten_level: null
 id: '1058'
 level: '5'
 name: Gecko's Grip
 prerequisite: '[[DATABASE/heritage/Cliffscale Lizardfolk|Cliffscale Lizardfolk]] heritage'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Lizardfolk|Lizardfolk]]'
-trigger: null
 type: Feat
 
 ---

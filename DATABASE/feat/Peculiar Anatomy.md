@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Peculiar Anatomy
-frequency: null
-heighten_level: null
 id: '2192'
 level: '14'
 name: Peculiar Anatomy
 prerequisite: '[[DATABASE/feat/Disturbing Defense|Disturbing Defense]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/The Slithering|The Slithering]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

@@ -28,11 +28,9 @@ follower_alignment:
 id: '102'
 name: Ayrzul
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Deception|Deception]]'
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-trait: null
 type: Deity
 
 ---

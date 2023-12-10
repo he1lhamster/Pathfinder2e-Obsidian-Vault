@@ -1,8 +1,6 @@
 ﻿---
 ac: '30'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+21'
 hardness: '16'
 hazard_type: Trap
@@ -16,9 +14,6 @@ level: '10'
 name: Hallowed Wheel
 rarity: Rare
 reflex: '+15'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 152. Legacy of the Lost God|Pathfinder #152:
   Legacy of the Lost God]]'
 trait:
@@ -28,8 +23,6 @@ trait:
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Hallowed Wheel<span class="item-type">Hazard 10</span>

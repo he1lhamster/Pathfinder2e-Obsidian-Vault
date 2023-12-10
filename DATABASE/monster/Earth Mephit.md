@@ -1,10 +1,8 @@
 ﻿---
 ac: '15'
 alignment: N
-all_resistance: null
 burrow_speed: '20'
 charisma: '-1'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Breath Weapon
@@ -13,7 +11,6 @@ dexterity: '-1'
 element: Earth
 fly_speed: '15'
 fortitude: '+8'
-hardness: null
 hp: 20 ( fast healing 2 (while underground))
 id: '193'
 immunity:
@@ -31,9 +28,6 @@ name: Earth Mephit
 perception: '+3'
 rarity: Common
 reflex: '+4'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - tremorsense (imprecise) 30 feet
@@ -53,7 +47,6 @@ strength: '+3'
 strength_req: '3'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Elemental|Elemental]]'
@@ -61,7 +54,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+3'
 wisdom: '+0'
 

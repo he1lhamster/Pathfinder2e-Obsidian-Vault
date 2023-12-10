@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Easily Dismissed
-frequency: null
-heighten_level: null
 id: '1016'
+leads_to: '[[DATABASE/feat/Fade Away|Fade Away]]'
 level: '5'
 name: Easily Dismissed
-prerequisite: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Halfling|Halfling]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

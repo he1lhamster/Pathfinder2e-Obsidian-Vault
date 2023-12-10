@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Hilt Hammer
-frequency: null
-heighten_level: null
 id: '3591'
 level: '10'
 name: Hilt Hammer
 prerequisite: '[[DATABASE/feat/Knight Reclaimant Dedication|Knight Reclaimant Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

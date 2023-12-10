@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Miraculous Flight
-frequency: null
-heighten_level: null
 id: '3153'
 level: '18'
 name: Miraculous Flight
 prerequisite: '[[DATABASE/feat/Vehicle Mechanic Dedication|Vehicle Mechanic Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Magical|Magical]]'
-trigger: null
 type: Feat
 
 ---

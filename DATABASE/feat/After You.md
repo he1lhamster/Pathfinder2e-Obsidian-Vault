@@ -1,20 +1,11 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: After You
-frequency: null
-heighten_level: null
 id: '1521'
 level: '2'
 name: After You
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Swashbuckler|Swashbuckler]]'
 trigger: You're about to roll initiative.

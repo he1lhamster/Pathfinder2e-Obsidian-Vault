@@ -1,27 +1,20 @@
 ﻿---
 ac: '16'
-burrow_speed: null
-climb_speed: null
 fly_speed: '35'
 fortitude: '+11'
 hardness: '5'
 hp: '48'
 id: '51'
 item_category: Vehicles
-land_speed: null
 level: '4'
 max_speed: '35'
 name: Hillcross Glider
 price: 200 gp
 rarity: Rare
 reflex: '+11'
-resistance: null
-rus_type_level: null
-school: null
 size: Large
 source: '[[DATABASE/source/Pathfinder 177. Burning Tundra|Pathfinder #177: Burning
   Tundra]]'
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Vehicle

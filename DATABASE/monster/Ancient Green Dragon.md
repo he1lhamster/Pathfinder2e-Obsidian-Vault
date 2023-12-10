@@ -1,10 +1,7 @@
 ﻿---
 ac: '41'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Breath Weapon
@@ -19,10 +16,8 @@ creature_ability:
 - Woodland Stride
 creature_family: '[[DATABASE/monsterfamily/Dragon, Green|Dragon, Green]]'
 dexterity: '+4'
-element: null
 fly_speed: '200'
 fortitude: '+30'
-hardness: null
 hp: '315'
 id: '135'
 immunity:
@@ -44,9 +39,6 @@ name: Ancient Green Dragon
 perception: '+30'
 rarity: Uncommon
 reflex: '+29'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - scent (imprecise) 60 feet
@@ -86,7 +78,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+32'
 wisdom: '+5'
 

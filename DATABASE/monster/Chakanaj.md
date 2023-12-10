@@ -1,10 +1,7 @@
 ﻿---
 ac: '36'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+7'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Bond with Host
@@ -16,10 +13,8 @@ creature_ability:
 - Skip Between
 creature_family: '[[DATABASE/monsterfamily/Sahkil|Sahkil]]'
 dexterity: '+8'
-element: null
 fly_speed: '40'
 fortitude: '+22'
-hardness: null
 hp: '300'
 id: '1644'
 immunity:
@@ -37,9 +32,6 @@ name: Chakanaj
 perception: '+25'
 rarity: Common
 reflex: '+28'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - (+29 to Sense Motive) [[DATABASE/monsterability/Darkvision|darkvision]]
 - '[[DATABASE/spell/True Seeing|true seeing]]'
@@ -67,7 +59,6 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fiend|Fiend]]'
 - '[[DATABASE/trait/Sahkil|Sahkil]]'

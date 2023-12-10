@@ -1,10 +1,8 @@
 ﻿---
 ac: '27'
-all_resistance: null
 complexity: Complex
 element: Fire
 fortitude: '+17'
-hardness: null
 hazard_type: Trap
 hp: '130'
 id: '66'
@@ -17,9 +15,6 @@ level: '8'
 name: Vision of Dahak
 rarity: Rare
 reflex: '+13'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 146. Cult of Cinders|Pathfinder #146: Cult of
   Cinders]]'
 trait:
@@ -31,7 +26,6 @@ trait:
 type: Hazard
 weakness:
 - '[[DATABASE/trait/Cold|cold]] 10'
-will: null
 
 ---
 # Vision of Dahak<span class="item-type">Hazard 8</span>

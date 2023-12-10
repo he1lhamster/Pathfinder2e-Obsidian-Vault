@@ -1,11 +1,9 @@
 ﻿---
 actions: '[two-actions]'
-area: null
 bloodline: '[[DATABASE/sorcererbloodline/Fey|Fey]] , [[DATABASE/sorcererbloodline/Wyrmblessed|Wyrmblessed]]'
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Chaldira|Chaldira]]'
 - '[[DATABASE/deity/Falayna|Falayna]]'
@@ -13,22 +11,13 @@ deity:
 - '[[DATABASE/deity/Sturovenen|Sturovenen]]'
 - '[[DATABASE/deity/The Resplendent Court|TheResplendent Court]]'
 - '[[DATABASE/deity/Thisamet|Thisamet]]'
-domain: null
 duration: 1 minute
-element: null
-heighten: null
 heighten_level: '5'
 id: '41'
-lesson: null
 level: '5'
-mystery: null
 name: Cloak of Colors
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Illusion
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: 1 creature
@@ -38,7 +27,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Illusion|Illusion]]'
 - '[[DATABASE/trait/Visual|Visual]]'
-trigger: null
 type: Spell
 
 ---

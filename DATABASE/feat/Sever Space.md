@@ -1,29 +1,21 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Sever Space
-frequency: null
-heighten_level: null
 id: '2754'
 level: '20'
 name: Sever Space
-prerequisite: null
 rarity: Uncommon
 requirement: You are wielding a weapon that deals slashing damage or have an unarmed
   Strike that deals slashingdamage.
-rus_type_level: null
 school: Conjuration
 source: '[[DATABASE/source/Pathfinder 168. King of the Mountain|Pathfinder #168: King
   of the Mountain]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Fighter|Fighter]]'
 - '[[DATABASE/trait/Flourish|Flourish]]'
 - '[[DATABASE/trait/Teleportation|Teleportation]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

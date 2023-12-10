@@ -1,10 +1,7 @@
 ﻿---
 ac: '43'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Efficient Winding
@@ -12,10 +9,7 @@ creature_ability:
 - Whirring Doom
 creature_family: '[[DATABASE/monsterfamily/Clockworks|Clockworks]]'
 dexterity: '+7'
-element: null
-fly_speed: null
 fortitude: '+34'
-hardness: null
 hp: '455'
 id: '1008'
 immunity:
@@ -35,7 +29,6 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '30'
-language: null
 level: '20'
 max_speed: '30'
 name: Clockwork Amalgam
@@ -44,9 +37,6 @@ rarity: Rare
 reflex: '+35'
 resistance:
 - physical 15 (except [[DATABASE/equipment/Adamantine Weapon|adamantine]] or orichalcum)
-rus_type_level: null
-school: null
-sense: null
 size: Large
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +38'
@@ -54,19 +44,16 @@ source: '[[DATABASE/source/Pathfinder 161. Belly of the Black Whale|Pathfinder #
   Belly of the Black Whale]]'
 speed:
 - 30 feet
-spell: null
 strength: '+10'
 strength_req: '10'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Clockwork|Clockwork]]'
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Mindless|Mindless]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
 weakness:

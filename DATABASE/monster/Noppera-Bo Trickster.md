@@ -1,10 +1,7 @@
 ﻿---
 ac: '16'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Impersonate Shape
@@ -14,10 +11,7 @@ creature_ability:
 - Sneak Attack
 creature_family: '[[DATABASE/monsterfamily/Noppera-Bo|Noppera-Bo]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+7'
-hardness: null
 hp: '20'
 id: '2721'
 immunity:
@@ -35,9 +29,6 @@ name: Noppera-Bo Trickster
 perception: '+5'
 rarity: Uncommon
 reflex: '+8'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - no face
 size: Medium
@@ -50,17 +41,14 @@ source: '[[DATABASE/source/Pathfinder 196. The Summer That Never Was|Pathfinder 
   The Summer That Never Was]]'
 speed:
 - 25 feet
-spell: null
 strength: '+1'
 strength_req: '1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
 weakness:

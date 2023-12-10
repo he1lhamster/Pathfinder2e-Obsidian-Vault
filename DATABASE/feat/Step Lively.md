@@ -1,20 +1,12 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Step Lively
-frequency: null
-heighten_level: null
 id: '1432'
+leads_to: '[[DATABASE/feat/Dance Underfoot|Dance Underfoot]]'
 level: '5'
 name: Step Lively
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Halfling|Halfling]]'
 trigger: A Large or larger enemy ends a [[DATABASE/trait/Move|move]] action adjacent

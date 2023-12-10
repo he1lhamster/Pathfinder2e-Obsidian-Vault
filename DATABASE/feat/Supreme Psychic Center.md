@@ -1,20 +1,12 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Supreme Psychic Center
-frequency: null
-heighten_level: null
 id: '3860'
 level: '8'
 name: Supreme Psychic Center
 prerequisite: '[[DATABASE/feat/Psychic Duelist Dedication|Psychic Duelist Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 trigger: Your turn in a psychic duel begins.

@@ -23,11 +23,9 @@ follower_alignment:
 id: '224'
 name: Balumbdar
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]]'
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
-trait: null
 type: Deity
 
 ---

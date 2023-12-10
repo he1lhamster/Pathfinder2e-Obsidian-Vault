@@ -1,25 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Eerie Environs
-frequency: null
-heighten_level: null
 id: '3764'
 level: '8'
 name: Eerie Environs
 prerequisite: Trained in [[DATABASE/skill/Intimidation|Intimidation]] ; Trained in
   [[DATABASE/skill/Stealth|Stealth]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Druid|Druid]]'
 - '[[DATABASE/trait/Ranger|Ranger]]'
-trigger: null
 type: Feat
 
 ---

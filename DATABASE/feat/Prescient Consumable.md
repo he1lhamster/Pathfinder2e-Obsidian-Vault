@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Prescient Consumable
-frequency: null
-heighten_level: null
 id: '2142'
 level: '7'
 name: Prescient Consumable
 prerequisite: '[[DATABASE/feat/Prescient Planner|Prescient Planner]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/General|General]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Knowledge is Power
-frequency: null
-heighten_level: null
 id: '2861'
 level: '6'
 name: Knowledge is Power
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Magus|Magus]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,27 +1,18 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Gift of the Hoard
-frequency: null
-heighten_level: null
 id: '3754'
 level: '10'
 name: Gift of the Hoard
 prerequisite: You have succeeded at an important task given by a [[DATABASE/trait/Dragon|dragon]]
   ,such as procuring a special treasure for their hoard.
 rarity: Rare
-requirement: null
-rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Aftermath|Aftermath]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Feat
 
 ---

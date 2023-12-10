@@ -1,10 +1,6 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Riptide
-frequency: null
-heighten_level: null
 id: '2679'
 level: '9'
 name: Riptide
@@ -12,10 +8,7 @@ prerequisite: '[[DATABASE/feat/Drag Down|Drag Down]] ; Expert in [[DATABASE/skil
 rarity: Common
 requirement: You are within 10 feet of water at least 10 feet deep, and your Speed
   is sufficient to reach thewater in one Stride.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Absalom, City of Lost Omens|Absalom, City of Lost Omens]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Azarketi|Azarketi]]'
 trigger: You successfully [[DATABASE/action/Grapple|Grapple]] a creature of the same

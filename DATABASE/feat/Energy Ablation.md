@@ -1,24 +1,14 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Energy Ablation
-frequency: null
-heighten_level: null
 id: '1834'
 level: '2'
 name: Energy Ablation
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Metamagic|Metamagic]]'
 - '[[DATABASE/trait/Wizard|Wizard]]'
-trigger: null
 type: Feat
 
 ---

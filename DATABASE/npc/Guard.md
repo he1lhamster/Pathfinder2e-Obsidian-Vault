@@ -1,21 +1,15 @@
 ﻿---
 ac: '18'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Attack of Opportunity
 creature_family: '[[DATABASE/monsterfamily/Officers|Officers]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+7'
 hp: '20'
 id: '933'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -26,8 +20,6 @@ name: Guard
 perception: '+7'
 rarity: Common
 reflex: '+5'
-resistance: null
-rus_type_level: null
 sense:
 - (8 to find concealed objects)
 size: Medium
@@ -38,21 +30,17 @@ skill:
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 speed:
 - 25 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
 - Will
-weakness: null
 will: '+5'
 wisdom: '+2'
 

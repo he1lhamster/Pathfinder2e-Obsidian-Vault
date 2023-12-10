@@ -1,10 +1,7 @@
 ﻿---
 ac: '18'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Emotionally Unaware
@@ -12,13 +9,9 @@ creature_ability:
 - Sneak Attack
 creature_family: '[[DATABASE/monsterfamily/Android|Android]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+8'
-hardness: null
 hp: '28'
 id: '1061'
-immunity: null
 intelligence: '+3'
 land_speed: '25'
 language:
@@ -30,9 +23,6 @@ name: Android Infiltrator
 perception: '+6'
 rarity: Rare
 reflex: '+10'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - (+5 to [[DATABASE/action/Sense Motive|Sense Motive]] ) [[DATABASE/monsterability/Low-Light
   Vision|low-light vision]]
@@ -49,12 +39,10 @@ skill:
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 25 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Android|Android]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -63,7 +51,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+4'
 wisdom: '+0'
 

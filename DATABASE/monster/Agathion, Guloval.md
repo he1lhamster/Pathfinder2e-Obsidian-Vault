@@ -1,10 +1,8 @@
 ﻿---
 ac: '32'
 alignment: NG
-all_resistance: null
 burrow_speed: '20'
 charisma: '+3'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Interposition
@@ -13,13 +11,9 @@ creature_ability:
 - Wolverine's Protection
 creature_family: '[[DATABASE/monsterfamily/Agathion|Agathion]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+22'
-hardness: null
 hp: '250'
 id: '2078'
-immunity: null
 intelligence: '+4'
 land_speed: '25'
 language:
@@ -34,9 +28,6 @@ name: Guloval
 perception: '+23'
 rarity: Uncommon
 reflex: '+21'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -66,7 +57,6 @@ strength: '+7'
 strength_req: '7'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Agathion|Agathion]]'
 - '[[DATABASE/trait/Celestial|Celestial]]'

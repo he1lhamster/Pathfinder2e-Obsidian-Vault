@@ -1,21 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Shield of Reckoning
-frequency: null
-heighten_level: null
 id: '241'
 level: '10'
 name: Shield of Reckoning
 prerequisite: '[[DATABASE/class_/Champion|champion''s reaction]] ; [[DATABASE/feat/Shield
   Warden|Shield Warden]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Champion|Champion]]'
 - '[[DATABASE/trait/Flourish|Flourish]]'

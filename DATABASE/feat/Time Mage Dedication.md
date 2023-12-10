@@ -1,25 +1,20 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Time Mage Dedication
-frequency: null
-heighten_level: null
 id: '3839'
+leads_to: '[[DATABASE/feat/Chronocognizance|Chronocognizance]] , [[DATABASE/feat/Chronomancer''s
+  Secrets|Chronomancer''s Secrets]] , [[DATABASE/feat/Future Spell Learning|Future
+  Spell Learning]] , [[DATABASE/feat/Into the Future|Into the Future]] , [[DATABASE/feat/Purge
+  of Moments|Purge of Moments]] , [[DATABASE/feat/Timeline-Splitting Spell|Timeline-Splitting
+  Spell]] , [[DATABASE/feat/What Could Have Been|What Could Have Been]]'
 level: '6'
 name: Time Mage Dedication
 prerequisite: You have a spellcasting class feature.
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

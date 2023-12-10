@@ -1,37 +1,23 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
 domain:
 - '[[DATABASE/domain/Plague Domain|Plague]]'
-duration: null
-element: null
 heighten: 5th
 heighten_level: 1, 5
 id: '610'
-lesson: null
 level: '1'
-mystery: null
 name: Divine Plagues
-patron_theme: null
 range: 15 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Fortitude
 school: Necromancy
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
-target: null
-tradition: null
 trait:
 - '[[DATABASE/trait/Disease|Disease]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
-trigger: null
 type: Focus
 
 ---

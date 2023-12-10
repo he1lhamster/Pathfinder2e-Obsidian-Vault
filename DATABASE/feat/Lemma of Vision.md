@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Lemma of Vision
-frequency: null
-heighten_level: null
 id: '2479'
 level: '1'
 name: Lemma of Vision
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Aphorite|Aphorite]]'
-trigger: null
 type: Feat
 
 ---

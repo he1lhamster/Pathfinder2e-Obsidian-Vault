@@ -1,23 +1,14 @@
 ﻿---
 actions: '[three-actions]'
-cost: null
-element: null
 feat: Inventive Offensive
-frequency: null
-heighten_level: null
 id: '989'
 level: '1'
 name: Inventive Offensive
 prerequisite: Trained in [[DATABASE/skill/Crafting|Crafting]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Gnome|Gnome]]'
-trigger: null
 type: Feat
 
 ---

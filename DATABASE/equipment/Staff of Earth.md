@@ -1,55 +1,20 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
 bulk: '1'
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '2261'
 item_category: Staves
-item_subcategory: null
-land_speed: null
-level: '12'
-max_speed: null
+level: '3'
 name: Staff of Earth
-onset: null
-price: 1,800 gp
-range: null
+price: 60 gp
 rarity: Common
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
-size: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-spell: null
-stage: null
 subcategory: stave
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Staff|Staff]]'
-trigger: null
 type: Item
 usage: held in 1 hand
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Staff of Earth<span class="item-type">Item 3+</span>

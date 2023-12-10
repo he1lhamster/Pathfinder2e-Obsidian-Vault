@@ -1,24 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Sentinel Dedication
-frequency: null
-heighten_level: null
 id: '2062'
+leads_to: '[[DATABASE/feat/Armor Specialist|Armor Specialist]] , [[DATABASE/feat/Armored
+  Rebuff|Armored Rebuff]] , [[DATABASE/feat/Mighty Bulwark|Mighty Bulwark]] , [[DATABASE/feat/Steel
+  Skin|Steel Skin]]'
 level: '2'
 name: Sentinel Dedication
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
-trigger: null
 type: Feat
 
 ---

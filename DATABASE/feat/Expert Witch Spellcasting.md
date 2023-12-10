@@ -1,24 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Expert Witch Spellcasting
-frequency: null
-heighten_level: null
 id: '1871'
+leads_to: '[[DATABASE/feat/Master Witch Spellcasting|Master Witch Spellcasting]]'
 level: '12'
 name: Expert Witch Spellcasting
 prerequisite: '[[DATABASE/feat/Basic Witch Spellcasting|Basic Witch Spellcasting]]
   ; master in the skill associatedwith your patron''s tradition'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

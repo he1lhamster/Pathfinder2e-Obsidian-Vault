@@ -1,8 +1,6 @@
 ﻿---
 ac: '37'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
 climb_speed: '25'
 constitution: '+4'
@@ -18,10 +16,7 @@ creature_ability:
 - Plague of Ancients
 creature_family: '[[DATABASE/monsterfamily/Vampire, Nosferatu|Vampire, Nosferatu]]'
 dexterity: '+8'
-element: null
-fly_speed: null
 fortitude: '+23'
-hardness: null
 hp: 216 ( fast healing 15, negative healing , plagued coffin restoration)
 id: '1358'
 immunity:
@@ -45,8 +40,6 @@ rarity: Rare
 reflex: '+27'
 resistance:
 - physical 15 (except [[DATABASE/trait/Magical|magical]] wood)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -68,7 +61,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Undead|Undead]]'
@@ -77,7 +69,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+29'
 wisdom: '+6'
 

@@ -1,57 +1,23 @@
 ﻿---
-ac: null
 actions: '[free-action]'
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '1032'
 item_category: Consumables
 item_subcategory: Talismans
-land_speed: null
-level: '10'
-max_speed: null
+level: '3'
 name: Retrieval Prism
-onset: null
-price: 200 gp
-range: null
+price: 12 gp
 rarity: Common
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Conjuration
-size: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-spell: null
-stage: null
 subcategory: consumable/talisman
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Consumable|Consumable]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Talisman|Talisman]]'
 - '[[DATABASE/trait/Teleportation|Teleportation]]'
-trigger: null
 type: Item
 usage: affixed to armor
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Retrieval Prism<span class="item-type">Item 3+</span>

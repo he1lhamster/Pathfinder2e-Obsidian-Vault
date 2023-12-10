@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Experienced Professional|Experienced Professional]]'
 id: '180'
 name: Teacher
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Performance|Performance]] or [[DATABASE/skill/Society|Society]]'
 - Academia [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

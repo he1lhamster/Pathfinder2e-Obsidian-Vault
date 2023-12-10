@@ -1,10 +1,7 @@
 ﻿---
 ac: '40'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Adhesive Body
@@ -12,15 +9,11 @@ creature_ability:
 - Paralytic Spittle
 - Psychic Howl
 - Rend
-creature_family: null
 dexterity: '+7'
-element: null
 fly_speed: '60'
 fortitude: '+29'
-hardness: null
 hp: '340'
 id: '532'
-immunity: null
 intelligence: '-1'
 land_speed: '20'
 language:
@@ -34,8 +27,6 @@ rarity: Rare
 reflex: '+30'
 resistance:
 - acid 15
-rus_type_level: null
-school: null
 sense:
 - greater darkvision
 - scent (imprecise) 60 feet
@@ -59,7 +50,6 @@ strength: '+9'
 strength_req: '9'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

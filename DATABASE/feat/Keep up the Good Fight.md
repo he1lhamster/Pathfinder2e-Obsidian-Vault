@@ -1,10 +1,7 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Keep up the Good Fight
 frequency: once per hour
-heighten_level: null
 id: '3586'
 level: '14'
 name: Keep up the Good Fight
@@ -12,10 +9,7 @@ prerequisite: '[[DATABASE/feat/Knight Vigilant|Knight Vigilant]]'
 rarity: Common
 requirement: You had more than 1 Hit Point before the triggering Strike, and the Strike
   wouldn't kill you.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 trigger: A foe's Strike reduces you to 0 Hit Points.

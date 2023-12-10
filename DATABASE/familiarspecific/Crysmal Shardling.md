@@ -1,9 +1,7 @@
 ﻿---
 id: '25'
 name: Crysmal Shardling
-rus_type_level: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-trait: null
 
 ---
 # Crysmal Shardling

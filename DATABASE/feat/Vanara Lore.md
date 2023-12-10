@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Vanara Lore
-frequency: null
-heighten_level: null
 id: '4003'
 level: '1'
 name: Vanara Lore
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Vanara|Vanara]]'
-trigger: null
 type: Feat
 
 ---

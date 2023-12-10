@@ -1,10 +1,6 @@
 ﻿---
 ac: '43'
-alignment: null
-all_resistance: null
-burrow_speed: null
 charisma: '+9'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Blessed by the Winds
@@ -17,12 +13,10 @@ creature_ability:
 - Swiftness
 - Truespeech
 - Wind Orchestra
-creature_family: null
 dexterity: '+9'
 element: Air
 fly_speed: '200'
 fortitude: '+29'
-hardness: null
 hp: '310'
 id: '2614'
 immunity:
@@ -45,8 +39,6 @@ rarity: Rare
 reflex: '+33'
 resistance:
 - '[[DATABASE/trait/Cold|cold]] 20'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -75,7 +67,6 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Elemental|Elemental]]'
@@ -84,7 +75,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+30'
 wisdom: '+6'
 

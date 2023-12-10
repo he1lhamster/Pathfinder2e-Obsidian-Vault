@@ -1,10 +1,7 @@
 ﻿---
 ac: '27'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-3'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Aquatic Ambush
@@ -12,27 +9,18 @@ creature_ability:
 - Partial Amphibian
 - Swallow Whole
 - Tug
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+20'
-hardness: null
 hp: '180'
 id: '999'
-immunity: null
 intelligence: '-4'
 land_speed: '20'
-language: null
 level: '9'
 max_speed: '40'
 name: Bregdi
 perception: '+18'
 rarity: Uncommon
 reflex: '+18'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -47,7 +35,6 @@ source: '[[DATABASE/source/Pathfinder 159. All or Nothing|Pathfinder #159: All o
 speed:
 - 20 feet
 - swim 40 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:

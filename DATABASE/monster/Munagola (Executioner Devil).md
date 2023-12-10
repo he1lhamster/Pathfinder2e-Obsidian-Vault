@@ -1,10 +1,7 @@
 ﻿---
 ac: '31'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Effects
@@ -15,10 +12,8 @@ creature_ability:
 - Sudden Dive
 creature_family: '[[DATABASE/monsterfamily/Devil|Devil]]'
 dexterity: '+6'
-element: null
 fly_speed: '40'
 fortitude: '+23'
-hardness: null
 hp: '165'
 id: '1115'
 immunity:
@@ -39,8 +34,6 @@ rarity: Common
 reflex: '+21'
 resistance:
 - physical 10 (except [[DATABASE/equipment/Silver Weapon|silver]] )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 size: Medium
@@ -60,7 +53,6 @@ strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Devil|Devil]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

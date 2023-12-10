@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Endless Memories
-frequency: null
-heighten_level: null
 id: '3953'
+leads_to: '[[DATABASE/feat/Eternal Memories|Eternal Memories]]'
 level: '9'
 name: Endless Memories
 prerequisite: '[[DATABASE/feat/Ancient Memories|Ancient Memories]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Ghoran|Ghoran]]'
-trigger: null
 type: Feat
 
 ---

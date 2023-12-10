@@ -1,24 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Oddity Identification
-frequency: null
-heighten_level: null
 id: '817'
 level: '1'
 name: Oddity Identification
 prerequisite: Trained in [[DATABASE/skill/Occultism|Occultism]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: occultism
 trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

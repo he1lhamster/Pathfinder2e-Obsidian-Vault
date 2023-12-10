@@ -1,20 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Reflective Defense
 frequency: once per 10 minutes
-heighten_level: null
 id: '4327'
 level: '1'
 name: Reflective Defense
-prerequisite: null
 rarity: Common
 requirement: You are indimorbright light.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Light|Light]]'
 - '[[DATABASE/trait/Talos|Talos]]'

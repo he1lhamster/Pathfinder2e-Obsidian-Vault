@@ -3,7 +3,6 @@ id: '3'
 level: '1'
 name: Bandit Activity
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Defense|Defense]]'
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'

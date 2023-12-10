@@ -1,10 +1,7 @@
 ﻿---
 ac: '45'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+10'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Books
@@ -20,12 +17,9 @@ creature_ability:
 - Shuffle the Deck
 - Stars
 - Twist Fate
-creature_family: null
 dexterity: '+7'
-element: null
 fly_speed: '40'
 fortitude: '+33'
-hardness: null
 hp: '360'
 id: '2593'
 immunity:
@@ -52,9 +46,6 @@ name: The Betrayal
 perception: '+33'
 rarity: Unique
 reflex: '+35'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -105,7 +96,6 @@ strength: '+7'
 strength_req: '7'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Unique|Unique]]'
@@ -113,7 +103,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+31'
 wisdom: '+3'
 

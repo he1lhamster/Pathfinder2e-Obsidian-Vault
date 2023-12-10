@@ -1,20 +1,13 @@
 ﻿---
 ac: '26'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Integrated Weapons
 - Wind-Up
-creature_family: null
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+14'
-hardness: null
 hp: '100'
 id: '1976'
 immunity:
@@ -33,7 +26,6 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '25'
-language: null
 level: '8'
 max_speed: '25'
 name: Clockwork Gunner
@@ -42,8 +34,6 @@ rarity: Unique
 reflex: '+18'
 resistance:
 - physical 10 (except [[DATABASE/equipment/Adamantine Weapon|adamantine]] or orichalcum)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -53,12 +43,10 @@ source: '[[DATABASE/source/Pathfinder 179. Cradle of Quartz|Pathfinder #179: Cra
   of Quartz]]'
 speed:
 - 25 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Clockwork|Clockwork]]'
 - '[[DATABASE/trait/Construct|Construct]]'

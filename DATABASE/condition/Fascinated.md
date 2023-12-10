@@ -1,7 +1,6 @@
 ﻿---
 id: '14'
 name: Fascinated
-source: null
 
 ---
 # Fascinated

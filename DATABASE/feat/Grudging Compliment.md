@@ -1,20 +1,12 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Grudging Compliment
-frequency: null
-heighten_level: null
 id: '4141'
 level: '7'
 name: Grudging Compliment
 prerequisite: '[[DATABASE/feat/Celebrity Dedication|Celebrity Dedication]]'
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Firebrands|Firebrands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Linguistic|Linguistic]]'

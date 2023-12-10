@@ -1,20 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Feed on Pain
 frequency: once per hour
-heighten_level: null
 id: '2347'
 level: '5'
 name: Feed on Pain
 prerequisite: '[[DATABASE/feat/Adhyabhau|Adhyabhau]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Dhampir|Dhampir]]'
 trigger: you deal mental damage

@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Primal Rampage
-frequency: null
-heighten_level: null
 id: '2846'
 level: '13'
 name: Primal Rampage
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Lizardfolk|Lizardfolk]]'
-trigger: null
 type: Feat
 
 ---

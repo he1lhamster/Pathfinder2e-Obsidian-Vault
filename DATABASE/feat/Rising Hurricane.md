@@ -1,20 +1,13 @@
 ﻿---
 actions: '[three-actions]'
-cost: null
 element: Air, Water
 feat: Rising Hurricane
-frequency: null
 heighten_level: 6, 9, 12, 15, 18
 id: '4307'
 level: '6'
 name: Rising Hurricane
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Composite|Composite]]'
@@ -23,7 +16,6 @@ trait:
 - '[[DATABASE/trait/Overflow|Overflow]]'
 - '[[DATABASE/trait/Primal|Primal]]'
 - '[[DATABASE/trait/Water|Water]]'
-trigger: null
 type: Feat
 
 ---

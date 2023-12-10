@@ -1,22 +1,15 @@
 ﻿---
 ac: '17'
 alignment: NG
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Healing Hands
 - Turn Undead
-creature_family: null
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+7'
 hp: '30'
 id: '1042'
-immunity: null
 intelligence: '+3'
 land_speed: '25'
 language:
@@ -27,9 +20,6 @@ name: Lisavet
 perception: '+10'
 rarity: Unique
 reflex: '+9'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Diplomacy|Diplomacy]] +7'
@@ -55,16 +45,13 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+11'
 wisdom: '+4'
 

@@ -1,8 +1,6 @@
 ﻿---
 ac: '21'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
 climb_speed: '20'
 constitution: '+1'
@@ -11,13 +9,9 @@ creature_ability:
 - Jungle Stride
 creature_family: '[[DATABASE/monsterfamily/Grippli|Grippli]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+10'
-hardness: null
 hp: '71'
 id: '449'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -29,9 +23,6 @@ name: Grippli Greenspeaker
 perception: '+13'
 rarity: Common
 reflex: '+13'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Small
@@ -68,7 +59,6 @@ strength_req: '2'
 strongest_save:
 - Reflex
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Grippli|Grippli]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -76,7 +66,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+13'
 wisdom: '+4'
 

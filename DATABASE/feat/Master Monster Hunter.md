@@ -1,24 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Master Monster Hunter
-frequency: null
-heighten_level: null
 id: '521'
+leads_to: '[[DATABASE/feat/Legendary Monster Hunter|Legendary Monster Hunter]]'
 level: '10'
 name: Master Monster Hunter
 prerequisite: Master in [[DATABASE/skill/Nature|Nature]] ; [[DATABASE/feat/Monster
   Hunter|Monster Hunter]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Ranger|Ranger]]'
-trigger: null
 type: Feat
 
 ---

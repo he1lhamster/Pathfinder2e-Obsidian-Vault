@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Hobnobber|Hobnobber]]'
 id: '6'
 name: Barkeep
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Diplomacy|Diplomacy]]'
 - Alcohol [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

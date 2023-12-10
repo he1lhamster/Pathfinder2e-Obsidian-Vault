@@ -1,56 +1,23 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
 bulk: L
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
 element: Air
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '2565'
 item_category: Worn Items
 item_subcategory: Other Worn Items
-land_speed: null
-level: '14'
-max_speed: null
+level: '6'
 name: Everair Mask
-onset: null
-price: 325 gp
-range: null
+price: 35 gp
 rarity: Common
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Abjuration
-size: null
 source: '[[DATABASE/source/Highhelm|Highhelm]]'
-spell: null
-stage: null
 subcategory: wornitem
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Invested|Invested]]'
 - '[[DATABASE/trait/Magical|Magical]]'
-trigger: null
 type: Item
 usage: worn mask
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Everair Mask<span class="item-type">Item 2+</span>

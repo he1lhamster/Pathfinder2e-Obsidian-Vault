@@ -2,7 +2,6 @@
 id: '217'
 name: Ghost
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait:
 - Ghost

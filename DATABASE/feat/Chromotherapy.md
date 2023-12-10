@@ -1,18 +1,11 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Chromotherapy
-frequency: null
-heighten_level: null
 id: '3772'
 level: '2'
 name: Chromotherapy
 prerequisite: Expert in [[DATABASE/skill/Medicine|Medicine]]
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: medicine
 trait:
@@ -21,7 +14,6 @@ trait:
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Skill|Skill]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

@@ -3,9 +3,7 @@ creature_family: Aeon
 id: '2'
 name: Aeon
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
-trait: null
 type: Creature Family
 
 ---

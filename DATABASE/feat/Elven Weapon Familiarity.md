@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Elven Weapon Familiarity
-frequency: null
-heighten_level: null
 id: '14'
+leads_to: '[[DATABASE/feat/Elven Weapon Elegance|Elven Weapon Elegance]] , [[DATABASE/feat/Elven
+  Weapon Expertise|Elven Weapon Expertise]]'
 level: '1'
 name: Elven Weapon Familiarity
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Elf|Elf]]'
-trigger: null
 type: Feat
 
 ---

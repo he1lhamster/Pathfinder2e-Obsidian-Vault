@@ -1,10 +1,6 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Mega Bomb
-frequency: null
-heighten_level: null
 id: '128'
 level: '20'
 name: Mega Bomb
@@ -12,14 +8,10 @@ prerequisite: '[[DATABASE/feat/Expanded Splash|Expanded Splash]]'
 rarity: Common
 requirement: You are holding an infused alchemical bomb you crafted, with a level
   at least 3 lower than youradvanced alchemy level.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Additive|Additive 3]]'
 - '[[DATABASE/trait/Alchemist|Alchemist]]'
-trigger: null
 type: Feat
 
 ---

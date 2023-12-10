@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Liquidate Resources
-frequency: null
-heighten_level: null
 id: '3918'
 level: '3'
 name: Liquidate Resources
 prerequisite: Economy 14
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Kingdom|Kingdom]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,10 +1,8 @@
 ﻿---
 ac: '25'
 alignment: N
-all_resistance: null
 burrow_speed: '20'
 charisma: '+0'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Claw Frenzy
@@ -12,9 +10,7 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Elemental, Earth|Elemental, Earth]]'
 dexterity: '+0'
 element: Earth
-fly_speed: null
 fortitude: '+18'
-hardness: null
 hp: '115'
 id: '184'
 immunity:
@@ -37,8 +33,6 @@ resistance:
 - cold 5
 - electricity 5
 - fire 5
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - tremorsense (imprecise) 60 feet
@@ -52,12 +46,10 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 20 feet
 - burrow 20 feet; earth glide
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Elemental|Elemental]]'

@@ -1,10 +1,7 @@
 ﻿---
 ac: '25'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Attack of Opportunity
@@ -12,10 +9,8 @@ creature_ability:
 - Young Linnorm Venom
 creature_family: '[[DATABASE/monsterfamily/Linnorm|Linnorm]]'
 dexterity: '+3'
-element: null
 fly_speed: '60'
 fortitude: '+18'
-hardness: null
 hp: '115'
 id: '1726'
 immunity:
@@ -34,9 +29,6 @@ name: Young Linnorm
 perception: '+15'
 rarity: Uncommon
 reflex: '+15'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
@@ -50,7 +42,6 @@ speed:
 - 30 feet
 - fly 60 feet
 - swim 45 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:

@@ -1,10 +1,7 @@
 ﻿---
 ac: '49'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+10'
 creature_ability:
 - Hadalic Presence
@@ -16,9 +13,7 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Titan|Titan]]'
 dexterity: '+8'
 element: Water
-fly_speed: null
 fortitude: '+41'
-hardness: null
 hp: '470'
 id: '1341'
 immunity:
@@ -37,9 +32,6 @@ name: Danava Titan
 perception: '+41'
 rarity: Rare
 reflex: '+37'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/spell/True Seeing|true seeing]]'
@@ -85,7 +77,6 @@ vision: Darkvision
 weakest_save:
 - Reflex
 - Will
-weakness: null
 will: '+37'
 wisdom: '+8'
 

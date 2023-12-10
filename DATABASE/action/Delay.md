@@ -1,16 +1,9 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
-frequency: null
 id: '77'
 name: Delay
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 trigger: Your turn begins.
 type: Action
 

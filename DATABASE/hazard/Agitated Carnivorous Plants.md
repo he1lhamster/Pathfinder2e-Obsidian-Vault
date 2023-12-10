@@ -1,10 +1,7 @@
 ﻿---
 ac: '20'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+17'
-hardness: null
 hazard_type: Environmental
 hp: 60 (BT 30)
 id: '92'
@@ -14,9 +11,6 @@ level: '5'
 name: Agitated Carnivorous Plants
 rarity: Uncommon
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 170. Spoken on the Song Wind|Pathfinder #170:
   Spoken on the Song Wind]]'
 trait:
@@ -27,7 +21,6 @@ weakness:
 - '[[DATABASE/trait/Acid|acid]] 10'
 - '[[DATABASE/trait/Fire|fire]] 10'
 - slashing 10
-will: null
 
 ---
 # Agitated Carnivorous Plants<span class="item-type">Hazard 5</span>

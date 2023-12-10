@@ -1,11 +1,8 @@
 ﻿---
-element: null
 id: '81'
 item_category: Relics
 name: Soul Puppet
-prerequisite: null
 rarity: Common
-rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 trait:

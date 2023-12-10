@@ -1,25 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Propeller Attachment
-frequency: null
-heighten_level: null
 id: '3136'
 level: '7'
 name: Propeller Attachment
 prerequisite: '[[DATABASE/feat/Trapsmith Dedication|Trapsmith Dedication]] ; Master
   in [[DATABASE/skill/Crafting|Crafting]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

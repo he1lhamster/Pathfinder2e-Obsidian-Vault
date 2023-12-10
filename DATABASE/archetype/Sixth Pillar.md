@@ -5,7 +5,6 @@ name: Sixth Pillar
 prerequisite: Dexterity 14; Expert in [[DATABASE/skill/Acrobatics|Acrobatics]] ; ability
   to cast spells
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 167. Ready Fight!|Pathfinder #167: Ready? Fight!]]'
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

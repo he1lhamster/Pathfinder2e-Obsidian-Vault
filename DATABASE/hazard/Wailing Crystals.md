@@ -1,8 +1,6 @@
 ﻿---
 ac: '34'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+26'
 hardness: '18'
 hazard_type: Environmental
@@ -16,9 +14,6 @@ level: '13'
 name: Wailing Crystals
 rarity: Common
 reflex: '+18'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 148. Fires of the Haunted City|Pathfinder #148:
   Fires of the Haunted City]]'
 trait:
@@ -26,8 +21,6 @@ trait:
 - '[[DATABASE/trait/Environmental|Environmental]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Wailing Crystals<span class="item-type">Hazard 13</span>

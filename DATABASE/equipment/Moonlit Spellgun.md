@@ -1,45 +1,17 @@
 ﻿---
-ac: null
 actions: '[two-actions]'
-alignment: null
-base_item: null
 bulk: L
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
 element: Fire
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '2121'
 item_category: Consumables
 item_subcategory: Other Consumables
-land_speed: null
-level: '17'
-max_speed: null
+level: '9'
 name: Moonlit Spellgun
-onset: null
-price: 3,000 gp
-range: null
+price: 150 gp
 rarity: Common
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
-size: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-spell: null
-stage: null
 subcategory: consumable/otherconsumable
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Attack|Attack]]'
 - '[[DATABASE/trait/Consumable|Consumable]]'
@@ -48,12 +20,8 @@ trait:
 - '[[DATABASE/trait/Light|Light]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Spellgun|Spellgun]]'
-trigger: null
 type: Item
 usage: held in 1 hand
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Moonlit Spellgun<span class="item-type">Item 2+</span>

@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Duel Spell Advantage
-frequency: null
-heighten_level: null
 id: '3859'
 level: '6'
 name: Duel Spell Advantage
 prerequisite: '[[DATABASE/feat/Psychic Duelist Dedication|Psychic Duelist Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

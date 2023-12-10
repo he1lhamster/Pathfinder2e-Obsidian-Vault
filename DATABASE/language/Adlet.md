@@ -2,7 +2,6 @@
 id: '63'
 name: Adlet
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

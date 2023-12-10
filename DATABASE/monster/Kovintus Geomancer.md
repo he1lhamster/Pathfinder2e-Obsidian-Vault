@@ -1,23 +1,16 @@
 ﻿---
 ac: '18'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Nature's Chosen
 - Nature's Rebirth
 creature_family: '[[DATABASE/monsterfamily/Kovintus|Kovintus]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+8'
-hardness: null
 hp: '40'
 id: '1212'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -35,8 +28,6 @@ resistance:
 - earth 5
 - plant 5
 - water 5
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
@@ -60,7 +51,6 @@ strength: '+3'
 strength_req: '3'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Kovintus|Kovintus]]'
@@ -69,7 +59,6 @@ vision: Low-light vision
 weakest_save:
 - Fortitude
 - Reflex
-weakness: null
 will: '+11'
 wisdom: '+4'
 

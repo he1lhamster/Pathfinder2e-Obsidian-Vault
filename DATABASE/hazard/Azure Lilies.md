@@ -1,10 +1,7 @@
 ﻿---
 ac: '30'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+27'
-hardness: null
 hazard_type: Environmental
 hp: 120 (BT 60)
 id: '276'
@@ -16,16 +13,11 @@ level: '12'
 name: Azure Lilies
 rarity: Rare
 reflex: '+25'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
 - '[[DATABASE/trait/Environmental|Environmental]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Azure Lilies<span class="item-type">Hazard 12</span>

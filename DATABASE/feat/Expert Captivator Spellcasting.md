@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Expert Captivator Spellcasting
-frequency: null
-heighten_level: null
 id: '3363'
+leads_to: '[[DATABASE/feat/Master Captivator Spellcasting|Master Captivator Spellcasting]]'
 level: '10'
 name: Expert Captivator Spellcasting
 prerequisite: '[[DATABASE/feat/Basic Captivator Spellcasting|Basic Captivator Spellcasting]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

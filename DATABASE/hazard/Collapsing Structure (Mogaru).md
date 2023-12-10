@@ -1,28 +1,15 @@
 ﻿---
-ac: null
-all_resistance: null
 complexity: Complex
-element: null
-fortitude: null
-hardness: null
 hazard_type: Environmental
-hp: null
 id: '59'
-immunity: null
 level: '15'
 name: Collapsing Structure (Mogaru)
 rarity: Common
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 167. Ready Fight!|Pathfinder #167: Ready? Fight!]]'
 trait:
 - '[[DATABASE/trait/Complex|Complex]]'
 - '[[DATABASE/trait/Environmental|Environmental]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Collapsing Structure (Mogaru)<span class="item-type">Hazard 15</span>

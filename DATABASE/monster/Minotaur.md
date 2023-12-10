@@ -1,25 +1,17 @@
 ﻿---
 ac: '20'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Axe Swipe
 - Hunted Fear
 - Natural Cunning
 - Powerful Charge
-creature_family: null
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+13'
-hardness: null
 hp: '70'
 id: '301'
-immunity: null
 intelligence: '-2'
 land_speed: '25'
 language:
@@ -30,9 +22,6 @@ name: Minotaur
 perception: '+12'
 rarity: Common
 reflex: '+8'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Large
@@ -43,19 +32,16 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 25 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+10'
 wisdom: '+2'
 

@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Morrigna's Spider Affinity
-frequency: null
-heighten_level: null
 id: '2362'
 level: '9'
 name: Morrigna's Spider Affinity
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Duskwalker|Duskwalker]]'
-trigger: null
 type: Feat
 
 ---

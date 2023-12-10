@@ -4,7 +4,6 @@ id: '1'
 level: '10'
 name: Academy
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
 - '[[DATABASE/trait/Building|Building]]'

@@ -2,7 +2,6 @@
 id: '381'
 name: Goloma
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
 trait:
 - Goloma

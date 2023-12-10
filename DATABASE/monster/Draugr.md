@@ -1,21 +1,15 @@
 ﻿---
 ac: '17'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Grotesque Gift
 - Swipe
 - The Sea's Revenge
-creature_family: null
 dexterity: '+2'
 element: Water
-fly_speed: null
 fortitude: '+11'
-hardness: null
 hp: 35 ( negative healing )
 id: '642'
 immunity:
@@ -36,8 +30,6 @@ rarity: Common
 reflex: '+6'
 resistance:
 - fire 3
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -48,7 +40,6 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 25 feet
 - swim 25 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:

@@ -1,10 +1,7 @@
 ﻿---
 ac: '19'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Change Shape
@@ -15,13 +12,10 @@ creature_ability:
 - Text Immersion
 creature_family: '[[DATABASE/monsterfamily/Protean|Protean]]'
 dexterity: '+4'
-element: null
 fly_speed: '25'
 fortitude: '+6'
-hardness: null
 hp: 42 ( fast healing 1)
 id: '764'
-immunity: null
 intelligence: '+4'
 land_speed: '25'
 language:
@@ -38,8 +32,6 @@ reflex: '+11'
 resistance:
 - precision 3
 - protean anatomy 6
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - entropy sense (imprecise) 30 feet

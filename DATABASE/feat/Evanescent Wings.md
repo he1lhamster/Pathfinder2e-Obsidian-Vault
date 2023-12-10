@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Evanescent Wings
-frequency: null
-heighten_level: null
 id: '2632'
+leads_to: '[[DATABASE/feat/Energize Wings|Energize Wings]]'
 level: '1'
 name: Evanescent Wings
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Sprite|Sprite]]'
-trigger: null
 type: Feat
 
 ---

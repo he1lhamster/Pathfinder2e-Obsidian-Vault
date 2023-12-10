@@ -1,32 +1,19 @@
 ﻿---
-actions: null
 area: 50-foot burst
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: until the next time you make your daily preparations
-element: null
 heighten: 5th
 heighten_level: 4, 5
 id: '145'
-lesson: null
 level: '4'
-mystery: null
 name: Hallucinatory Terrain
-patron_theme: null
 range: 500 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Illusion
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Arcane
 - Occult
@@ -34,7 +21,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Illusion|Illusion]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Spell
 
 ---

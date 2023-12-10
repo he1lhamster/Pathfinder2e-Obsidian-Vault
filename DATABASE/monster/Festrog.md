@@ -1,21 +1,14 @@
 ﻿---
 ac: '15'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Diseased Pustules
 - Feast
 - On All Fours
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+7'
-hardness: null
 hp: 24 ( negative healing )
 id: '1153'
 immunity:
@@ -34,9 +27,6 @@ name: Festrog
 perception: '+6'
 rarity: Common
 reflex: '+7'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -48,20 +38,17 @@ skill:
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 30 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Undead|Undead]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+6'
 wisdom: '+1'
 

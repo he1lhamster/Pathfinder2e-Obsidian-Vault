@@ -1,25 +1,17 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Blood Frenzy
-frequency: null
-heighten_level: null
 id: '2909'
 level: '6'
 name: Blood Frenzy
 prerequisite: '[[DATABASE/feat/Bloodletting Claws|Bloodletting Claws]]'
 rarity: Common
 requirement: Your eidolon's last action dealt bleed damage to a living creature.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Eidolon|Eidolon]]'
 - '[[DATABASE/trait/Evolution|Evolution]]'
 - '[[DATABASE/trait/Summoner|Summoner]]'
-trigger: null
 type: Feat
 
 ---

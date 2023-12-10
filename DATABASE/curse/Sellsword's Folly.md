@@ -1,10 +1,8 @@
 ﻿---
-element: null
 id: '22'
 level: '9'
 name: Sellsword's Folly
 rarity: Common
-rus_type_level: null
 saving_throw: DC 26 Will
 school: Enchantment
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
@@ -15,7 +13,6 @@ trait:
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Mental|Mental]]'
 type: Curse
-usage: null
 
 ---
 # Sellsword's Folly<span class="item-type">Curse 9</span>

@@ -1,7 +1,5 @@
 ﻿---
-advanced_apocryphal_spell: null
 advanced_domain_spell: '[[DATABASE/spell/Diamond Dust|Diamond Dust]]'
-apocryphal_spell: null
 deity:
 - '[[DATABASE/deity/Alglenweis|Alglenweis]]'
 - '[[DATABASE/deity/Gozreh|Gozreh]]'
@@ -16,9 +14,7 @@ domain_spell: '[[DATABASE/spell/Winter Bolt|Winter Bolt]]'
 id: '41'
 name: Cold Domain
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
-trait: null
 type: Domain
 
 ---

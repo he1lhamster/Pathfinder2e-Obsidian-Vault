@@ -1,10 +1,7 @@
 ﻿---
 ac: '31'
 alignment: LG
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Archon's Door
@@ -16,13 +13,10 @@ creature_ability:
 - Strike
 creature_family: '[[DATABASE/monsterfamily/Archon|Archon]]'
 dexterity: '+1'
-element: null
 fly_speed: '60'
 fortitude: '+23'
-hardness: null
 hp: '125'
 id: '33'
-immunity: null
 intelligence: '+2'
 land_speed: '30'
 language:
@@ -35,9 +29,6 @@ name: Shield Archon
 perception: '+19'
 rarity: Common
 reflex: '+15'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Large
@@ -61,7 +52,6 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Archon|Archon]]'
 - '[[DATABASE/trait/Celestial|Celestial]]'

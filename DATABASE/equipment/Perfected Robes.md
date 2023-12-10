@@ -1,57 +1,21 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
 bulk: L
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '2364'
 item_category: Artifacts
-item_subcategory: null
-land_speed: null
 level: '22'
-max_speed: null
 name: Perfected Robes
-onset: null
-price: null
-range: null
 rarity: Rare
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Divination
-size: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-spell: null
-stage: null
 subcategory: artifact
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Artifact|Artifact]]'
 - '[[DATABASE/trait/Divination|Divination]]'
 - '[[DATABASE/trait/Divine|Divine]]'
 - '[[DATABASE/trait/Invested|Invested]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Item
 usage: worn
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Perfected Robes<span class="item-type">Item 22</span>

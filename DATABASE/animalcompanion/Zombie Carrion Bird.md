@@ -1,10 +1,7 @@
 ﻿---
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 dexterity: '+1'
-element: null
 fly_speed: '30'
 hp: '6'
 id: '51'
@@ -13,18 +10,15 @@ land_speed: '10'
 max_speed: '30'
 name: Zombie Carrion Bird
 rarity: Uncommon
-rus_type_level: null
 sense:
 - darkvision
 size: Small
-skill: null
 source: '[[DATABASE/source/Pathfinder 181. Zombie Feast|Pathfinder #181: Zombie Feast]]'
 speed:
 - 10 feet
 - fly 30 feet
 strength: '+2'
 strength_req: '2'
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Animal Companion

@@ -1,21 +1,13 @@
 ﻿---
 ac: '19'
 alignment: NG
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+0'
-creature_ability: null
-creature_family: null
 dexterity: '+4'
-element: null
 fly_speed: '40'
 fortitude: '+7'
-hardness: null
 hp: '40'
 id: '1971'
-immunity: null
 intelligence: '+0'
 land_speed: '10'
 language:
@@ -27,9 +19,6 @@ name: Kreeth-Ni
 perception: '+11'
 rarity: Unique
 reflex: '+11'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - (13 to [[DATABASE/action/Seek|Seek]] creatures using hearing)
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
@@ -57,7 +46,6 @@ strength: '-3'
 strength_req: '-3'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Sprite|Sprite]]'

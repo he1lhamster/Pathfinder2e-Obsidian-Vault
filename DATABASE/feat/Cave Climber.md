@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Cave Climber
-frequency: null
-heighten_level: null
 id: '48'
 level: '9'
 name: Cave Climber
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Goblin|Goblin]]'
-trigger: null
 type: Feat
 
 ---

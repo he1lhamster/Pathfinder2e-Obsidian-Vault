@@ -1,21 +1,14 @@
 ﻿---
 ac: '18'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Smith's Fury
-creature_family: null
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+7'
 hp: '30'
 id: '2739'
-immunity: null
 intelligence: '+3'
 land_speed: '25'
 language:
@@ -28,9 +21,6 @@ name: Trygve
 perception: '+6'
 rarity: Unique
 reflex: '+4'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +8'
@@ -40,21 +30,17 @@ skill:
 source: '[[DATABASE/source/Rusthenge|Rusthenge]]'
 speed:
 - 25 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+6'
 wisdom: '+2'
 

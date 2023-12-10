@@ -2,9 +2,7 @@
 id: '3'
 name: Indomitable
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/World Guide|World Guide]]'
-trait: null
 type: Animal Companion Advanced Option
 
 ---

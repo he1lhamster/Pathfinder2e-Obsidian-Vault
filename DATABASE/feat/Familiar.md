@@ -1,26 +1,17 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Familiar
-frequency: null
-heighten_level: null
 id: '604'
+leads_to: '[[DATABASE/feat/Elemental Familiar|Elemental Familiar]] , [[DATABASE/feat/Elemental
+  Familiar|Elemental Familiar]]'
 level: '1'
 name: Familiar
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Magus|Magus]]'
 - '[[DATABASE/trait/Sorcerer|Sorcerer]]'
 - '[[DATABASE/trait/Thaumaturge|Thaumaturge]]'
 - '[[DATABASE/trait/Wizard|Wizard]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,34 +1,23 @@
 ﻿---
 ac: '15'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Pack Attack
 creature_family: '[[DATABASE/monsterfamily/Wolf|Wolf]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+6'
-hardness: null
 hp: '24'
 id: '415'
-immunity: null
 intelligence: '-4'
 land_speed: '35'
-language: null
 level: '1'
 max_speed: '35'
 name: Wolf
 perception: '+7'
 rarity: Common
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 - scent (imprecise) 30 feet
@@ -41,19 +30,16 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 35 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+5'
 wisdom: '+2'
 

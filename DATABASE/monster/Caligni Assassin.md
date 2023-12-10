@@ -1,10 +1,7 @@
 ﻿---
 ac: '27'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Countershadow
@@ -18,13 +15,9 @@ creature_ability:
 - Umbral Veil
 creature_family: '[[DATABASE/monsterfamily/Caligni|Caligni]]'
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+16'
-hardness: null
 hp: '135'
 id: '2696'
-immunity: null
 intelligence: '+3'
 land_speed: '40'
 language:
@@ -38,9 +31,6 @@ name: Caligni Assassin
 perception: '+14'
 rarity: Rare
 reflex: '+18'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 size: Medium
@@ -55,12 +45,10 @@ source: '[[DATABASE/source/Pathfinder 194. Cult of the Cave Worm|Pathfinder #194
   Cult of the Cave Worm]]'
 speed:
 - 40 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Caligni|Caligni]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -70,7 +58,6 @@ type: Creature
 vision: Greater darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+12'
 wisdom: '+2'
 

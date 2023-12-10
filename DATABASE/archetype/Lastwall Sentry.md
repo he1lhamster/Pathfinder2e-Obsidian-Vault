@@ -5,7 +5,6 @@ name: Lastwall Sentry
 prerequisite: member of the Knights of Lastwall; [[DATABASE/feat/Shield Block|Shield
   Block]]
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/World Guide|World Guide]]'
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

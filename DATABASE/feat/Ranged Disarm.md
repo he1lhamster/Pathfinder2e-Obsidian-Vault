@@ -1,10 +1,6 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Ranged Disarm
-frequency: null
-heighten_level: null
 id: '3239'
 level: '14'
 name: Ranged Disarm
@@ -12,13 +8,9 @@ prerequisite: '[[DATABASE/feat/Bullet Dancer Dedication|Bullet Dancer Dedication
   ; [[DATABASE/feat/Trick Shot|Trick Shot]]'
 rarity: Common
 requirement: You're wielding a simple firearm.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

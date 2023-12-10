@@ -3,9 +3,7 @@ creature_family: Mantis, Giant
 id: '72'
 name: Mantis, Giant
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
-trait: null
 type: Creature Family
 
 ---

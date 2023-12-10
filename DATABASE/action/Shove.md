@@ -1,19 +1,13 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
-frequency: null
 id: '38'
 name: Shove
 rarity: Common
 requirement: "You have at least one hand free. The target can\u2019t be more than\
   \ one size larger than you."
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Attack|Attack]]'
-trigger: null
 type: Action
 
 ---

@@ -1,21 +1,15 @@
 ﻿---
 ac: '17'
 alignment: CG
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Breath Weapon
 - Ferocious Will
 - Silver Strike
-creature_family: null
 dexterity: '+4'
-element: null
 fly_speed: '40'
 fortitude: '+6'
-hardness: null
 hp: '16'
 id: '1193'
 immunity:
@@ -33,9 +27,6 @@ name: House Drake
 perception: '+8'
 rarity: Common
 reflex: '+8'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -58,14 +49,12 @@ strength: '+1'
 strength_req: '1'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dragon|Dragon]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+11'
 wisdom: '+3'
 

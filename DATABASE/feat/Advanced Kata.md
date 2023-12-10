@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Advanced Kata
-frequency: null
-heighten_level: null
 id: '718'
 level: '6'
 name: Advanced Kata
 prerequisite: '[[DATABASE/feat/Basic Kata|Basic Kata]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

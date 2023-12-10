@@ -1,28 +1,16 @@
 ﻿---
 actions: '[one-action]'
-area: null
-bloodline: null
 component:
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Demon Bringers|Demon Bringers]]'
-domain: null
 duration: until the start of your next turn
-element: null
-heighten: null
 heighten_level: '7'
 id: '346'
-lesson: null
 level: '7'
-mystery: null
 name: True Target
-patron_theme: null
 range: 60 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: 4 creatures
@@ -33,7 +21,6 @@ trait:
 - '[[DATABASE/trait/Divination|Divination]]'
 - '[[DATABASE/trait/Fortune|Fortune]]'
 - '[[DATABASE/trait/Prediction|Prediction]]'
-trigger: null
 type: Spell
 
 ---

@@ -1,11 +1,9 @@
 ﻿---
 actions: '[two-actions]'
 area: 50 feet long by 50 feet wide
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Gozreh|Gozreh]]'
 - '[[DATABASE/deity/Isis|Isis]]'
@@ -13,32 +11,21 @@ deity:
 - '[[DATABASE/deity/Lysianassa|Lysianassa]]'
 - '[[DATABASE/deity/Lysianassa|Lysianassa]]'
 - '[[DATABASE/deity/Seafarer''s Hope|Seafarer''s Hope]]'
-domain: null
-duration: null
 element: Water
-heighten: null
 heighten_level: '5'
 id: '51'
-lesson: null
 level: '5'
-mystery: null
 name: Control Water
-patron_theme: null
 range: 500 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Arcane
 - Primal
 trait:
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Water|Water]]'
-trigger: null
 type: Spell
 
 ---

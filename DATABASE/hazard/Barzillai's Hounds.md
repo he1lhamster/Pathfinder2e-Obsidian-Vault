@@ -1,21 +1,10 @@
 ﻿---
-ac: null
-all_resistance: null
 complexity: Complex
-element: null
-fortitude: null
-hardness: null
 hazard_type: Haunt
-hp: null
 id: '74'
-immunity: null
 level: '6'
 name: Barzillai's Hounds
 rarity: Rare
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 147. Tomorrow Must Burn|Pathfinder #147: Tomorrow
   Must Burn]]'
 trait:
@@ -23,8 +12,6 @@ trait:
 - '[[DATABASE/trait/Haunt|Haunt]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Barzillai's Hounds<span class="item-type">Hazard 6</span>

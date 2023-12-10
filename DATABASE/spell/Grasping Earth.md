@@ -1,29 +1,17 @@
 ﻿---
 actions: '[two-actions]'
 area: 10-foot burst on the ground
-bloodline: null
-component: null
-cost: null
-deity: null
-domain: null
 duration: sustained up to 1 minute
 element: Earth
 heighten: '+2'
 heighten_level: 4, 6, 8, 10
 id: '1334'
-lesson: null
 level: '4'
-mystery: null
 name: Grasping Earth
-patron_theme: null
 range: 60 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Fortitude
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-target: null
 tradition:
 - Arcane
 - Primal
@@ -31,7 +19,6 @@ trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
-trigger: null
 type: Spell
 
 ---

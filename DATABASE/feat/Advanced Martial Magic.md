@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Advanced Martial Magic
-frequency: null
-heighten_level: null
 id: '2949'
 level: '6'
 name: Advanced Martial Magic
 prerequisite: '[[DATABASE/feat/Basic Martial Magic|Basic Martial Magic]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

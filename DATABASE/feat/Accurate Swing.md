@@ -1,25 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Accurate Swing
-frequency: null
-heighten_level: null
 id: '3334'
 level: '8'
 name: Accurate Swing
 prerequisite: '[[DATABASE/feat/Vigilante Dedication|Vigilante Dedication]] ; [[DATABASE/feat/Harsh
   Judgment|Harsh Judgment]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Night of the Gray Death|Night of the Gray Death]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Vigilante|Vigilante]]'
-trigger: null
 type: Feat
 
 ---

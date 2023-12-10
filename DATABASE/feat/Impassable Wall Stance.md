@@ -1,26 +1,17 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Impassable Wall Stance
-frequency: null
-heighten_level: null
 id: '1091'
 level: '8'
 name: Impassable Wall Stance
 prerequisite: '[[DATABASE/feat/Attack of Opportunity|Attack of Opportunity]]'
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Champion|Champion]]'
 - '[[DATABASE/trait/Fighter|Fighter]]'
 - '[[DATABASE/trait/Stance|Stance]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

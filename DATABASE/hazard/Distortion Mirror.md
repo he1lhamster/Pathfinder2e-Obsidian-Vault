@@ -1,8 +1,6 @@
 ﻿---
 ac: '33'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+28'
 hardness: '24'
 hazard_type: Trap
@@ -14,8 +12,6 @@ level: '14'
 name: Distortion Mirror
 rarity: Common
 reflex: '+22'
-resistance: null
-rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 trait:
@@ -23,8 +19,6 @@ trait:
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Distortion Mirror<span class="item-type">Hazard 14</span>

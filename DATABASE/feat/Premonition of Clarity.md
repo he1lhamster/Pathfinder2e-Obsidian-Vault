@@ -1,20 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Premonition of Clarity
 frequency: once per hour
-heighten_level: null
 id: '1707'
+leads_to: '[[DATABASE/feat/Shared Clarity|Shared Clarity]]'
 level: '14'
 name: Premonition of Clarity
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Cleric|Cleric]]'
 - '[[DATABASE/trait/Fortune|Fortune]]'

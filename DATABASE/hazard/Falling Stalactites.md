@@ -1,8 +1,6 @@
 ﻿---
 ac: '16'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+12'
 hardness: '12'
 hazard_type: Environmental
@@ -16,16 +14,11 @@ level: '3'
 name: Falling Stalactites
 rarity: Common
 reflex: '+12'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 176. Lost Mammoth Valley|Pathfinder #176: Lost
   Mammoth Valley]]'
 trait:
 - '[[DATABASE/trait/Environmental|Environmental]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Falling Stalactites<span class="item-type">Hazard 3</span>

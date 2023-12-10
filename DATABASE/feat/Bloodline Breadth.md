@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Bloodline Breadth
-frequency: null
-heighten_level: null
 id: '739'
 level: '8'
 name: Bloodline Breadth
 prerequisite: '[[DATABASE/feat/Basic Sorcerer Spellcasting|Basic Sorcerer Spellcasting]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

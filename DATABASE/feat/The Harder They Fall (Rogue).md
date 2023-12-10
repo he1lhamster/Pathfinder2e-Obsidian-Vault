@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: The Harder They Fall (Rogue)
-frequency: null
-heighten_level: null
 id: '1788'
 level: '4'
 name: The Harder They Fall (Rogue)
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Rogue|Rogue]]'
-trigger: null
 type: Feat
 
 ---

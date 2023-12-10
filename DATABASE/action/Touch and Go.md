@@ -1,18 +1,12 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
-frequency: null
 id: '1454'
 name: Touch and Go
 rarity: Common
 requirement: You're wielding a [[DATABASE/trait/Combination|combination]] weapon.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 trait:
 - '[[DATABASE/trait/Gunslinger|Gunslinger]]'
-trigger: null
 type: Action
 
 ---

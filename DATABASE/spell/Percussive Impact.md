@@ -1,28 +1,15 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
 heighten: '+2'
 heighten_level: 3, 5, 7, 9
 id: '1292'
-lesson: null
 level: '3'
-mystery: null
 name: Percussive Impact
-patron_theme: null
 range: 60 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Firebrands|Firebrands]]'
 target: 1 creature
@@ -34,7 +21,6 @@ trait:
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Sonic|Sonic]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Spell
 
 ---

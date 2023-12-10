@@ -1,10 +1,7 @@
 ﻿---
 ac: '33'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Derghodaemon's Stare
@@ -13,10 +10,7 @@ creature_ability:
 - Swarming Infestation
 creature_family: '[[DATABASE/monsterfamily/Daemon|Daemon]]'
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+21'
-hardness: null
 hp: '240'
 id: '594'
 immunity:
@@ -35,9 +29,6 @@ name: Derghodaemon
 perception: '+24'
 rarity: Common
 reflex: '+24'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent (imprecise) 60 feet]]'
@@ -59,7 +50,6 @@ strength: '+7'
 strength_req: '7'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Daemon|Daemon]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

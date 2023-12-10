@@ -2,9 +2,7 @@
 id: '2'
 name: Draconic
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Language
 
 ---

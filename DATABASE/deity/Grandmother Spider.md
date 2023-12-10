@@ -27,11 +27,9 @@ follower_alignment:
 id: '37'
 name: Grandmother Spider
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Crafting|Crafting]]'
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
-trait: null
 type: Deity
 
 ---

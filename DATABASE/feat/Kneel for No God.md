@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Kneel for No God
-frequency: null
-heighten_level: null
 id: '974'
 level: '9'
 name: Kneel for No God
 prerequisite: '[[DATABASE/heritage/Ancient-Blooded Dwarf|Ancient-Blooded Dwarf]] heritage'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Dwarf|Dwarf]]'
-trigger: null
 type: Feat
 
 ---

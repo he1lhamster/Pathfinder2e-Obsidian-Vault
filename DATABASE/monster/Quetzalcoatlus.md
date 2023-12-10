@@ -1,35 +1,25 @@
 ﻿---
 ac: '25'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Snatch
 - Swoop
 creature_family: '[[DATABASE/monsterfamily/Pterosaur|Pterosaur]]'
 dexterity: '+4'
-element: null
 fly_speed: '50'
 fortitude: '+16'
-hardness: null
 hp: '110'
 id: '342'
-immunity: null
 intelligence: '-4'
 land_speed: '15'
-language: null
 level: '7'
 max_speed: '50'
 name: Quetzalcoatlus
 perception: '+15'
 rarity: Common
 reflex: '+17'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 - scent (imprecise) 30 feet
@@ -41,19 +31,16 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 15 feet
 - fly 50 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+12'
 wisdom: '+2'
 

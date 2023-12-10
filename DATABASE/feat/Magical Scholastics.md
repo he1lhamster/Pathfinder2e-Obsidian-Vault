@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Magical Scholastics
-frequency: null
-heighten_level: null
 id: '1880'
+leads_to: '[[DATABASE/feat/Greater Magical Scholastics|Greater Magical Scholastics]]'
 level: '4'
 name: Magical Scholastics
 prerequisite: '[[DATABASE/feat/Archaeologist Dedication|Archaeologist Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

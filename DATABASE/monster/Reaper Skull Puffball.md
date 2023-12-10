@@ -1,10 +1,7 @@
 ﻿---
 ac: '25'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Motion Sense
@@ -14,10 +11,8 @@ creature_ability:
 - Spore Explosion
 creature_family: '[[DATABASE/monsterfamily/Deadly Puffball|Deadly Puffball]]'
 dexterity: '+6'
-element: null
 fly_speed: '20'
 fortitude: '+18'
-hardness: null
 hp: '195'
 id: '1381'
 immunity:
@@ -29,16 +24,12 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '10'
-language: null
 level: '9'
 max_speed: '20'
 name: Reaper Skull Puffball
 perception: '+15'
 rarity: Uncommon
 reflex: '+21'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - motion sense 60 feet
 - no vision
@@ -51,18 +42,15 @@ source: '[[DATABASE/source/Pathfinder 165. Eyes of Empty Death|Pathfinder #165: 
 speed:
 - 10 feet
 - fly 20 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fungus|Fungus]]'
 - '[[DATABASE/trait/Mindless|Mindless]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
 weakness:

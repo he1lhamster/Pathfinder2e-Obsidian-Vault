@@ -1,10 +1,7 @@
 ﻿---
 ac: '36'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+9'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Aura of Charm
@@ -12,12 +9,8 @@ creature_ability:
 - Demesne Confinement
 - Sense Visitors
 - Siphon Vitality
-creature_family: null
 dexterity: '+8'
-element: null
-fly_speed: null
 fortitude: '+26'
-hardness: null
 hp: 298 ( negative healing )
 id: '1890'
 immunity:
@@ -37,9 +30,6 @@ name: Pale Sovereign
 perception: '+28'
 rarity: Rare
 reflex: '+30'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - sense visitors
@@ -71,7 +61,6 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Undead|Undead]]'
@@ -79,7 +68,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+28'
 wisdom: '+6'
 

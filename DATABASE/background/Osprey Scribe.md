@@ -8,9 +8,7 @@ ability_boost:
 feat: '[[DATABASE/feat/Streetwise|Streetwise]]'
 id: '403'
 name: Osprey Scribe
-prerequisite: null
 rarity: Rare
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Society|Society]]'
 - Demon [[DATABASE/skill/Lore|Lore]]

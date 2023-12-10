@@ -1,26 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Extradimensional Stash
-frequency: null
-heighten_level: null
 id: '2748'
 level: '20'
 name: Extradimensional Stash
 prerequisite: Legendary in [[DATABASE/skill/Thievery|Thievery]]
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 168. King of the Mountain|Pathfinder #168: King
   of the Mountain]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Extradimensional|Extradimensional]]'
 - '[[DATABASE/trait/Rogue|Rogue]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,31 +1,18 @@
 ﻿---
 actions: '[three-actions]'
 area: 20-foot burst
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 1 minute
-element: null
-heighten: null
 heighten_level: '3'
 id: '961'
-lesson: null
 level: '3'
-mystery: null
 name: Oneiric Mire
-patron_theme: null
 range: 120 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Illusion
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-target: null
 tradition:
 - Arcane
 - Occult
@@ -34,7 +21,6 @@ trait:
 - '[[DATABASE/trait/Illusion|Illusion]]'
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Visual|Visual]]'
-trigger: null
 type: Spell
 
 ---

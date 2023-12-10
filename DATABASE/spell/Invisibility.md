@@ -1,11 +1,8 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
-cost: null
 deity:
 - '[[DATABASE/deity/Achaekek|Achaekek]]'
 - '[[DATABASE/deity/Ketephys|Ketephys]]'
@@ -16,22 +13,14 @@ deity:
 - '[[DATABASE/deity/Raumya|Raumya]]'
 - '[[DATABASE/deity/Shax|Shax]]'
 - '[[DATABASE/deity/Yaezhing|Yaezhing]]'
-domain: null
 duration: 10 minutes
-element: null
 heighten: 4th
 heighten_level: 2, 4
 id: '164'
-lesson: null
 level: '2'
-mystery: null
 name: Invisibility
-patron_theme: null
 range: touch
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Illusion
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: 1 creature
@@ -40,7 +29,6 @@ tradition:
 - Occult
 trait:
 - '[[DATABASE/trait/Illusion|Illusion]]'
-trigger: null
 type: Spell
 
 ---

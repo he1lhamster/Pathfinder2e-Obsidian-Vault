@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Armiger's Mobility
-frequency: null
-heighten_level: null
 id: '911'
 level: '8'
 name: Armiger's Mobility
 prerequisite: expert in heavy armor; [[DATABASE/feat/Hellknight Armiger Dedication|Hellknight
   Armiger Dedication]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/World Guide|World Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

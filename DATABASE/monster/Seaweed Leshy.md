@@ -1,10 +1,7 @@
 ﻿---
 ac: '19'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Change Shape
@@ -12,13 +9,9 @@ creature_ability:
 - Verdant Burst
 creature_family: '[[DATABASE/monsterfamily/Leshy|Leshy]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+8'
-hardness: null
 hp: '45'
 id: '1220'
-immunity: null
 intelligence: '+0'
 land_speed: '20'
 language:
@@ -33,9 +26,6 @@ name: Seaweed Leshy
 perception: '+10'
 rarity: Common
 reflex: '+11'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Small
@@ -65,7 +55,6 @@ vision: Low-light vision
 weakest_save:
 - Fortitude
 - Will
-weakness: null
 will: '+8'
 wisdom: '+3'
 

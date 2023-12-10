@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Slip into Shadow
-frequency: null
-heighten_level: null
 id: '2351'
 level: '9'
 name: Slip into Shadow
 prerequisite: ability to cast at least one spell with the [[DATABASE/trait/Darkness|darkness]]
   trait
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Dhampir|Dhampir]]'
-trigger: null
 type: Feat
 
 ---

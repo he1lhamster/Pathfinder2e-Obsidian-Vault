@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Perfection's Path
-frequency: null
-heighten_level: null
 id: '721'
 level: '12'
 name: Perfection's Path
 prerequisite: '[[DATABASE/feat/Monk Dedication|Monk Dedication]] ; expert in at least
   one saving throw'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

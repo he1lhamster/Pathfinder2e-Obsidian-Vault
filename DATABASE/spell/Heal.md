@@ -1,26 +1,13 @@
 ﻿---
 actions: '[one-action]'
-area: null
 bloodline: '[[DATABASE/sorcererbloodline/Angelic|Angelic]] , [[DATABASE/sorcererbloodline/Psychopomp|Psychopomp]]'
-component: null
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
 heighten: '+1'
 heighten_level: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
 id: '148'
-lesson: null
 level: '1'
-mystery: null
 name: Heal
-patron_theme: null
 range: varies
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: 1 willing living creature or 1 undead
@@ -31,7 +18,6 @@ trait:
 - '[[DATABASE/trait/Healing|Healing]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Positive|Positive]]'
-trigger: null
 type: Spell
 
 ---

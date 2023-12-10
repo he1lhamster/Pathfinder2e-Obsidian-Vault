@@ -1,19 +1,11 @@
 ﻿---
-actions: null
-cost: null
-element: null
-frequency: null
 id: '31'
 name: Squeeze
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Exploration|Exploration]]'
 - '[[DATABASE/trait/Move|Move]]'
-trigger: null
 type: Action
 
 ---

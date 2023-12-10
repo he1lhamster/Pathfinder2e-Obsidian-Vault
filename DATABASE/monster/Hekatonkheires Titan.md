@@ -1,10 +1,7 @@
 ﻿---
 ac: '52'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+9'
-climb_speed: null
 constitution: '+12'
 creature_ability:
 - Attack of Opportunity
@@ -17,10 +14,7 @@ creature_ability:
 - Shape Void
 creature_family: '[[DATABASE/monsterfamily/Titan|Titan]]'
 dexterity: '+10'
-element: null
-fly_speed: null
 fortitude: '+44'
-hardness: null
 hp: '500'
 id: '1342'
 immunity:
@@ -40,9 +34,6 @@ name: Hekatonkheires Titan
 perception: '+43'
 rarity: Rare
 reflex: '+40'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/spell/True Seeing|true seeing]]'
@@ -69,7 +60,6 @@ strength: '+12'
 strength_req: '12'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Rare|Rare]]'
@@ -78,7 +68,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+37'
 wisdom: '+7'
 

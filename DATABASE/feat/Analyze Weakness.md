@@ -1,10 +1,6 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Analyze Weakness
-frequency: null
-heighten_level: null
 id: '1790'
 level: '6'
 name: Analyze Weakness
@@ -12,13 +8,9 @@ prerequisite: '[[DATABASE/class_/Rogue|sneak attack 2d6]]'
 rarity: Common
 requirement: You must have identified a creature with [[DATABASE/action/Recall Knowledge|Recall
   Knowledge]] .
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Rogue|Rogue]]'
-trigger: null
 type: Feat
 
 ---

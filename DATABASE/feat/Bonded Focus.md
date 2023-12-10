@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Bonded Focus
-frequency: null
-heighten_level: null
 id: '655'
 level: '14'
 name: Bonded Focus
 prerequisite: '[[DATABASE/class_/Wizard|arcane bond]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Wizard|Wizard]]'
-trigger: null
 type: Feat
 
 ---

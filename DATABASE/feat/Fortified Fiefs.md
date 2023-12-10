@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Fortified Fiefs
-frequency: null
-heighten_level: null
 id: '3913'
 level: '1'
 name: Fortified Fiefs
 prerequisite: Trained in [[DATABASE/skill/Defense|Defense]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Kingdom|Kingdom]]'
-trigger: null
 type: Feat
 
 ---

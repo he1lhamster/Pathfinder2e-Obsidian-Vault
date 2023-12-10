@@ -1,20 +1,14 @@
 ﻿---
 ac: '16'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Stupefying Touch
 - Undead Master Link
-creature_family: null
 dexterity: '+2'
-element: null
 fly_speed: '40'
 fortitude: '+3'
-hardness: null
 hp: '20'
 id: '2033'
 immunity:
@@ -34,9 +28,6 @@ name: Necromunculus
 perception: '+5'
 rarity: Uncommon
 reflex: '+6'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Tiny
@@ -47,12 +38,10 @@ source: '[[DATABASE/source/Pathfinder 181. Zombie Feast|Pathfinder #181: Zombie 
 speed:
 - 15 feet
 - fly 40 feet
-spell: null
 strength: '-1'
 strength_req: '-1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 - '[[DATABASE/trait/Undead|Undead]]'
@@ -61,7 +50,6 @@ vision: Darkvision
 weakest_save:
 - Fortitude
 - Will
-weakness: null
 will: '+3'
 wisdom: '+1'
 

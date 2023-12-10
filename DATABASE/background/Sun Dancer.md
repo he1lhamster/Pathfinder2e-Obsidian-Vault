@@ -8,9 +8,7 @@ ability_boost:
 feat: '[[DATABASE/feat/Fascinating Performance|Fascinating Performance]]'
 id: '334'
 name: Sun Dancer
-prerequisite: null
 rarity: Rare
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Performance|Performance]]'
 source: '[[DATABASE/source/Travel Guide|Travel Guide]]'

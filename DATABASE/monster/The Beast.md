@@ -1,36 +1,24 @@
 ﻿---
 ac: '28'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Bloodcurdling Screech
 - Gnaw
 - Screeching Advance
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+21'
-hardness: null
 hp: '120'
 id: '2291'
-immunity: null
 intelligence: '-4'
 land_speed: '30'
-language: null
 level: '9'
 max_speed: '30'
 name: The Beast
 perception: '+19'
 rarity: Unique
 reflex: '+16'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -42,12 +30,10 @@ skill:
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 speed:
 - 30 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 - '[[DATABASE/trait/Unique|Unique]]'
@@ -55,7 +41,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Reflex
-weakness: null
 will: '+19'
 wisdom: '+4'
 

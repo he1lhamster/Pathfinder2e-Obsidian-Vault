@@ -1,25 +1,17 @@
 ﻿---
 ac: '23'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Hypnotic Stare
 - Inflict Pain
 - Knockdown
 - Remove Memory
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+14'
-hardness: null
 hp: '98'
 id: '1024'
-immunity: null
 intelligence: '+1'
 land_speed: '35'
 language:
@@ -31,9 +23,6 @@ name: Kurnugian Jackal
 perception: '+17'
 rarity: Uncommon
 reflex: '+17'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 60 feet'
@@ -58,7 +47,6 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

@@ -1,33 +1,22 @@
 ﻿---
 ac: '20'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Sneak Attack
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+10'
 hp: '65'
 id: '1975'
-immunity: null
 intelligence: '+3'
 land_speed: '25'
-language: null
 level: '5'
 max_speed: '25'
 name: Gilded Gunner Safecracker
 perception: '+12'
 rarity: Rare
 reflex: '+14'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +12'
@@ -38,21 +27,17 @@ source: '[[DATABASE/source/Pathfinder 179. Cradle of Quartz|Pathfinder #179: Cra
   of Quartz]]'
 speed:
 - 25 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
 - Will
-weakness: null
 will: '+10'
 wisdom: '+2'
 

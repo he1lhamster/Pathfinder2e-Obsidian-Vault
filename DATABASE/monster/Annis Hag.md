@@ -1,10 +1,7 @@
 ﻿---
 ac: '24'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Bonds of Iron
@@ -13,13 +10,9 @@ creature_ability:
 - Rend
 creature_family: '[[DATABASE/monsterfamily/Hag|Hag]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+16'
-hardness: null
 hp: '85'
 id: '256'
-immunity: null
 intelligence: '+1'
 land_speed: '40'
 language:
@@ -34,8 +27,6 @@ rarity: Common
 reflex: '+12'
 resistance:
 - physical 5 (except bludgeoning)
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Large
@@ -49,12 +40,10 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 40 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Hag|Hag]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -62,7 +51,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+14'
 wisdom: '+4'
 

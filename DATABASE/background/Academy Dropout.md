@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Dubious Knowledge|Dubious Knowledge]]'
 id: '228'
 name: Academy Dropout
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Arcana|Arcana]]'
 - Academia [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

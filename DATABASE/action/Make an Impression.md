@@ -1,14 +1,7 @@
 ﻿---
-actions: null
-cost: null
-element: null
-frequency: null
 id: '50'
 name: Make an Impression
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Auditory|Auditory]]'
@@ -16,7 +9,6 @@ trait:
 - '[[DATABASE/trait/Exploration|Exploration]]'
 - '[[DATABASE/trait/Linguistic|Linguistic]]'
 - '[[DATABASE/trait/Mental|Mental]]'
-trigger: null
 type: Action
 
 ---

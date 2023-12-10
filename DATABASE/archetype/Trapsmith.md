@@ -5,7 +5,6 @@ name: Trapsmith
 prerequisite: '[[DATABASE/feat/Snarecrafter Dedication|Snarecrafter Dedication]] or
   [[DATABASE/feat/Snare Specialist|Snare Specialist]]'
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

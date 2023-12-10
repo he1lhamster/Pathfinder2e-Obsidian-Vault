@@ -1,34 +1,21 @@
 ﻿---
-actions: null
-area: null
 bloodline: '[[DATABASE/sorcererbloodline/Imperial|Imperial]]'
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Followers of Fate|Followers of Fate]]'
 - '[[DATABASE/deity/Nethys|Nethys]]'
-domain: null
 duration: sustained
-element: null
-heighten: null
 heighten_level: '5'
 id: '239'
-lesson: null
 level: '5'
-mystery: null
 name: Prying Eye
-patron_theme: null
 range: see text
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Arcane
 - Divine
@@ -36,7 +23,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Divination|Divination]]'
 - '[[DATABASE/trait/Scrying|Scrying]]'
-trigger: null
 type: Spell
 
 ---

@@ -1,21 +1,11 @@
 ﻿---
-ac: null
-all_resistance: null
 complexity: Simple
 element: Fire, Water
-fortitude: null
-hardness: null
 hazard_type: Environmental
-hp: null
 id: '357'
-immunity: null
 level: '3'
 name: Sacred Geyser
 rarity: Common
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 187. The Seventh Arch|Pathfinder #187: The Seventh
   Arch]]'
 trait:
@@ -23,8 +13,6 @@ trait:
 - '[[DATABASE/trait/Fire|Fire]]'
 - '[[DATABASE/trait/Water|Water]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Sacred Geyser<span class="item-type">Hazard 3</span>

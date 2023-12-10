@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Studious Adept
-frequency: null
-heighten_level: null
 id: '2773'
 level: '9'
 name: Studious Adept
 prerequisite: '[[DATABASE/feat/Studious Magic|Studious Magic]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Anadi|Anadi]]'
-trigger: null
 type: Feat
 
 ---

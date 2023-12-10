@@ -1,22 +1,15 @@
 ﻿---
 ac: '31'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Change Shape
 - Drain Bonded Item
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+23'
 hp: '260'
 id: '1499'
-immunity: null
 intelligence: '+5'
 land_speed: '25'
 language:
@@ -30,8 +23,6 @@ name: Phuthi
 perception: '+27'
 rarity: Unique
 reflex: '+24'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -72,7 +63,6 @@ strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Gnoll|Gnoll]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -82,7 +72,6 @@ vision: Darkvision
 weakest_save:
 - Fortitude
 - Will
-weakness: null
 will: '+23'
 wisdom: '+2'
 

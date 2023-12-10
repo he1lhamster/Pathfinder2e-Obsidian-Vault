@@ -1,25 +1,18 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Magic Arrow
 frequency: once per round
-heighten_level: null
 id: '1963'
 level: '8'
 name: Magic Arrow
 prerequisite: '[[DATABASE/feat/Eldritch Archer Dedication|Eldritch Archer Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Feat
 
 ---

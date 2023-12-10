@@ -1,21 +1,14 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Enduring Debilitation
 frequency: once per minute
-heighten_level: null
 id: '1165'
 level: '20'
 name: Enduring Debilitation
 prerequisite: '[[DATABASE/class_/Rogue|Debilitating Strike]]'
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 150. Broken Promises|Pathfinder #150: Broken
   Promises]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Rogue|Rogue]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

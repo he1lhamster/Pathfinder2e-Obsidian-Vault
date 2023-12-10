@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Restoring Blood
-frequency: null
-heighten_level: null
 id: '4027'
 level: '5'
 name: Restoring Blood
 prerequisite: '[[DATABASE/action/Envenom|Envenom]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Vishkanya|Vishkanya]]'
-trigger: null
 type: Feat
 
 ---

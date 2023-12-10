@@ -2,9 +2,7 @@
 ac: '23'
 alignment: N
 all_resistance: '5'
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Feed on the Living
@@ -13,10 +11,8 @@ creature_ability:
 - Rejuvenation
 creature_family: '[[DATABASE/monsterfamily/Ghost|Ghost]]'
 dexterity: '+5'
-element: null
 fly_speed: '25'
 fortitude: '+12'
-hardness: null
 hp: 60 ( negative healing , rejuvenation)
 id: '1863'
 immunity:
@@ -27,7 +23,6 @@ immunity:
 - precision
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '+4'
-land_speed: null
 language:
 - '[[DATABASE/language/Common|Common]]'
 - '[[DATABASE/language/Necril|Necril]] ; one other language'
@@ -42,8 +37,6 @@ resistance:
 - '[[DATABASE/equipment/Ghost Touch|ghost touch]]'
 - or [[DATABASE/trait/Positive|positive]] ; double resistance vs. non- [[DATABASE/trait/Magical|magical]]
   )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -55,12 +48,10 @@ skill:
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 speed:
 - fly 25 feet
-spell: null
 strength: '-5'
 strength_req: '-5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Ghost|Ghost]]'
 - '[[DATABASE/trait/Incorporeal|Incorporeal]]'
@@ -70,7 +61,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+15'
 wisdom: '+5'
 

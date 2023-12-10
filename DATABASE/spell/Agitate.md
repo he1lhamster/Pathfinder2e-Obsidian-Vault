@@ -1,28 +1,18 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Alglenweis|Alglenweis]]'
-domain: null
 duration: varies
-element: null
 heighten: '+1'
 heighten_level: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
 id: '566'
-lesson: null
 level: '1'
-mystery: null
 name: Agitate
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Will
 school: Enchantment
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -34,7 +24,6 @@ trait:
 - '[[DATABASE/trait/Enchantment|Enchantment]]'
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Nonlethal|Nonlethal]]'
-trigger: null
 type: Spell
 
 ---

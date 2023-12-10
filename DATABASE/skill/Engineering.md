@@ -1,14 +1,10 @@
 ﻿---
-ability: null
-ability_boost: null
 id: '22'
 name: Engineering
 rarity: Common
-rus_type_level: null
 skill:
 - Engineering
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
-trait: null
 type: Skill
 
 ---

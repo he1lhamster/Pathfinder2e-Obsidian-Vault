@@ -1,38 +1,25 @@
 ﻿---
 actions: '[one-action]'
-area: null
-bloodline: null
 component:
 - Somatic
-cost: null
-deity: null
 domain:
 - '[[DATABASE/domain/Water Domain|Water]]'
-duration: null
 element: Water
-heighten: null
 heighten_level: '1'
 id: '458'
-lesson: null
 level: '1'
-mystery: null
 name: Tidal Surge
-patron_theme: null
 range: 60 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 saving_throw: Fortitude
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: 1 creature
-tradition: null
 trait:
 - '[[DATABASE/trait/Cleric|Cleric]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 - '[[DATABASE/trait/Water|Water]]'
-trigger: null
 type: Focus
 
 ---

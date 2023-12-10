@@ -1,8 +1,6 @@
 ﻿---
 ac: '37'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
 climb_speed: '20'
 constitution: '+9'
@@ -12,10 +10,7 @@ creature_ability:
 - Retch of Foulness
 creature_family: '[[DATABASE/monsterfamily/Daemon|Daemon]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+30'
-hardness: null
 hp: '300'
 id: '1017'
 immunity:
@@ -32,9 +27,6 @@ name: Sordesdaemon
 perception: '+26'
 rarity: Uncommon
 reflex: '+24'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -61,7 +53,6 @@ strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Daemon|Daemon]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

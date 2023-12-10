@@ -1,22 +1,14 @@
 ﻿---
 ac: '16'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Anchor the Unliving
-creature_family: null
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+7'
-hardness: null
 hp: '20'
 id: '2608'
-immunity: null
 intelligence: '+3'
 land_speed: '20'
 language:
@@ -29,9 +21,6 @@ name: Heldin Ulgincamp
 perception: '+7'
 rarity: Unique
 reflex: '+4'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -53,7 +42,6 @@ strength: '+1'
 strength_req: '1'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dwarf|Dwarf]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -62,7 +50,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+10'
 wisdom: '+4'
 

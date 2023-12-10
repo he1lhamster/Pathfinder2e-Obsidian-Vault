@@ -1,8 +1,6 @@
 ﻿---
 ac: '42'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+27'
 hardness: 30 Orb Hardness
 hazard_type: Trap
@@ -18,8 +16,6 @@ rarity: Unique
 reflex: '+33'
 resistance:
 - slashing 15
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
 - '[[DATABASE/trait/Complex|Complex]]'
@@ -27,8 +23,6 @@ trait:
 - '[[DATABASE/trait/Trap|Trap]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Orb Blast Trap<span class="item-type">Hazard 18</span>

@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Quick Repair|Quick Repair]]'
 id: '257'
 name: Mechanic
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Crafting|Crafting]]'
 - Engineering [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

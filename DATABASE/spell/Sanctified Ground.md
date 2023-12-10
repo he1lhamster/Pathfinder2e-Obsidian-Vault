@@ -1,38 +1,23 @@
 ﻿---
-actions: null
 area: 30-foot burst centered on you
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
 cost: 1 vial ofholy water
-deity: null
-domain: null
 duration: until the next time you make your daily preparations.
-element: null
-heighten: null
 heighten_level: '3'
 id: '265'
-lesson: null
 level: '3'
-mystery: null
 name: Sanctified Ground
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Divine
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Consecration|Consecration]]'
-trigger: null
 type: Spell
 
 ---

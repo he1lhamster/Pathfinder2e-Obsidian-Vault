@@ -1,55 +1,20 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '442'
 item_category: Worn Items
 item_subcategory: Other Worn Items
-land_speed: null
-level: '7'
-max_speed: null
+level: '2'
 name: Hat of Disguise
-onset: null
-price: 340 gp
-range: null
+price: 30 gp
 rarity: Common
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Illusion
-size: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-spell: null
-stage: null
 subcategory: wornitem
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Illusion|Illusion]]'
 - '[[DATABASE/trait/Invested|Invested]]'
 - '[[DATABASE/trait/Magical|Magical]]'
-trigger: null
 type: Item
 usage: worn headwear
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Hat of Disguise<span class="item-type">Item 2+</span>

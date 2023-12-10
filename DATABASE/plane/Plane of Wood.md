@@ -5,7 +5,6 @@ id: '25'
 name: Plane of Wood
 plane_category: Inner Sphere Planes
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 trait:
 - '[[DATABASE/trait/Wood|Wood]]'

@@ -1,45 +1,14 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
 bulk: L
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '2181'
 item_category: Grimoires
-item_subcategory: null
-land_speed: null
 level: '18'
-max_speed: null
 name: Maw of Hungry Shadows
-onset: null
 price: 21,000 gp
-range: null
 rarity: Common
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Conjuration
-size: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-spell: null
-stage: null
 subcategory: grimoire
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Grimoire|Grimoire]]'
@@ -47,12 +16,7 @@ trait:
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Shadow|Shadow]]'
 - '[[DATABASE/trait/Teleportation|Teleportation]]'
-trigger: null
 type: Item
-usage: null
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Maw of Hungry Shadows<span class="item-type">Item 18</span>

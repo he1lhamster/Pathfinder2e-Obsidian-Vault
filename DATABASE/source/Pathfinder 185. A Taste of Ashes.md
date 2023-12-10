@@ -2,9 +2,6 @@
 id: '188'
 name: Pathfinder 185. A Taste of Ashes
 rarity: Common
-rus_type_level: null
-source: null
-trait: null
 type: Source
 
 ---

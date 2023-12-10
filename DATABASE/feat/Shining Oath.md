@@ -1,24 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Shining Oath
-frequency: null
-heighten_level: null
 id: '221'
+leads_to: '[[DATABASE/feat/Aura of Life|Aura of Life]]'
 level: '2'
 name: Shining Oath
 prerequisite: '[[DATABASE/championtenet/Good|tenets of good]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Champion|Champion]]'
 - '[[DATABASE/trait/Oath|Oath]]'
-trigger: null
 type: Feat
 
 ---

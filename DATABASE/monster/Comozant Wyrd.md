@@ -1,22 +1,17 @@
 ﻿---
 ac: '21'
-alignment: null
 all_resistance: '5'
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Illuminating Flames
 - Leap the Gap
 - Plasmatic Form
 - Wyrd Wisdom
-creature_family: null
 dexterity: '+4'
 element: Air
 fly_speed: '25'
 fortitude: '+7'
-hardness: null
 hp: '60'
 id: '2616'
 immunity:
@@ -39,8 +34,6 @@ resistance:
 - all damage 5 (except [[DATABASE/trait/Force|force]] or [[DATABASE/equipment/Ghost
   Touch|ghost touch]] ; double resistance vs. non- [[DATABASE/trait/Magical|magical]]
   )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -51,12 +44,10 @@ source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 speed:
 - 15 feet
 - fly 25 feet
-spell: null
 strength: '-5'
 strength_req: '-5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Elemental|Elemental]]'
@@ -65,7 +56,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+12'
 wisdom: '+3'
 

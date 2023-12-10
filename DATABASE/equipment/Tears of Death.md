@@ -1,58 +1,28 @@
 ﻿---
-ac: null
 actions: '[one-action]'
-alignment: null
-base_item: null
 bulk: L
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
 duration: 10 minutes
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '130'
 item_category: Alchemical Items
 item_subcategory: Alchemical Poisons
-land_speed: null
 level: '20'
-max_speed: null
 name: Tears of Death
 onset: 1 minute
 price: 12,000 gp
-range: null
 rarity: Common
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
 saving_throw: DC 46 Fortitude
-school: null
-size: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-spell: null
 stage: 'Stage 1: 18d6 poison damage and paralyzed (1 round)Stage 2: 25d6 poison damage
   and paralyzed (1 minute)Stage 3: 30d6 poison damage and paralyzed (1 minute)'
 subcategory: alchemical/poison
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Alchemical|Alchemical]]'
 - '[[DATABASE/trait/Consumable|Consumable]]'
 - '[[DATABASE/trait/Contact|Contact]]'
 - '[[DATABASE/trait/Poison|Poison]]'
 - '[[DATABASE/trait/Virulent|Virulent]]'
-trigger: null
 type: Item
 usage: held in 2 hands
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Tears of Death<span class="item-type">Item 20</span>

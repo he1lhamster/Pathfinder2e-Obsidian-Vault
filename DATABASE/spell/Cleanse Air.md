@@ -1,29 +1,16 @@
 ﻿---
 actions: '[two-actions]'
 area: 30-foot burst
-bloodline: null
-component: null
-cost: null
-deity: null
-domain: null
 duration: 1 minute
 element: Air
 heighten: 3rd, 4th, 6th, 9th
 heighten_level: 2, 3, 4, 6, 9
 id: '1313'
-lesson: null
 level: '2'
-mystery: null
 name: Cleanse Air
-patron_theme: null
 range: 120 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-target: null
 tradition:
 - Arcane
 - Divine
@@ -32,7 +19,6 @@ trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
-trigger: null
 type: Spell
 
 ---

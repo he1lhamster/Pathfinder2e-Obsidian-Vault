@@ -3,7 +3,6 @@ bloodline: Imperial
 id: '9'
 name: Imperial
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 spell:
 - '[[DATABASE/spell/Ancestral Memories|Ancestral Memories]]'
@@ -19,7 +18,6 @@ spell:
 - '[[DATABASE/spell/Prismatic Sphere|PrismaticSphere]]'
 - '[[DATABASE/spell/Prismatic Spray|Prismatic Spray]]'
 - '[[DATABASE/spell/Prying Eye|Prying Eye]]'
-trait: null
 type: Sorcerer Bloodline
 
 ---

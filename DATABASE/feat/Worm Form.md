@@ -1,27 +1,19 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Worm Form
-frequency: null
-heighten_level: null
 id: '4368'
 level: '14'
 name: Worm Form
 prerequisite: '[[DATABASE/feat/Worm Caller Dedication|Worm Caller Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Pathfinder 194. Cult of the Cave Worm|Pathfinder #194:
   Cult of the Cave Worm]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Polymorph|Polymorph]]'
 - '[[DATABASE/trait/Primal|Primal]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Feat
 
 ---

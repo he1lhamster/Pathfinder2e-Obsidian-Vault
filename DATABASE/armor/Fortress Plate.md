@@ -12,7 +12,6 @@ level: '2'
 name: Fortress Plate
 price: 32 gp
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 speed_penalty: -10 ft.
 strength: '+18'

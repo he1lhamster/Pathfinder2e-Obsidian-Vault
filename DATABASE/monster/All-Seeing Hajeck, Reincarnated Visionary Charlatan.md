@@ -1,8 +1,6 @@
 ﻿---
 ac: '31'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+7'
 climb_speed: '30'
 constitution: '+5'
@@ -11,12 +9,8 @@ creature_ability:
 - Hajeck's Caress
 - Harrowbound
 - Harrowing Vision
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+21'
-hardness: null
 hp: '215'
 id: '2573'
 immunity:
@@ -34,8 +28,6 @@ rarity: Unique
 reflex: '+23'
 resistance:
 - '[[DATABASE/trait/Mental|mental]] 10'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -75,7 +67,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+22'
 wisdom: '+4'
 

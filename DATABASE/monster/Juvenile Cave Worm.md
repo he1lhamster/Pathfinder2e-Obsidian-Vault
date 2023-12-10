@@ -1,10 +1,8 @@
 ﻿---
 ac: '26'
 alignment: N
-all_resistance: null
 burrow_speed: '30'
 charisma: '-1'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Clumsy Leap
@@ -15,25 +13,17 @@ creature_ability:
 - Swallow Whole
 creature_family: '[[DATABASE/monsterfamily/Cave Worm|Cave Worm]]'
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+20'
-hardness: null
 hp: '170'
 id: '2705'
-immunity: null
 intelligence: '-5'
 land_speed: '30'
-language: null
 level: '8'
 max_speed: '30'
 name: Juvenile Cave Worm
 perception: '+12'
 rarity: Uncommon
 reflex: '+14'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) 100 feet'
@@ -47,7 +37,6 @@ speed:
 - 30 feet
 - burrow 30 feet
 - swim 20 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
@@ -60,7 +49,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+10'
 wisdom: '-2'
 

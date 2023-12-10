@@ -1,25 +1,16 @@
 ﻿---
 actions: '[three-actions]'
-cost: null
-element: null
 feat: Zombie Horde
-frequency: null
-heighten_level: null
 id: '3654'
 level: '20'
 name: Zombie Horde
 prerequisite: '[[DATABASE/feat/Clockwork Reanimator Dedication|Clockwork Reanimator
   Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 180. The Smoking Gun|Pathfinder #180: The Smoking
   Gun]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,23 +1,17 @@
 ﻿---
 ac: '15'
 alignment: NG
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Speak with Bats
 - Wrath of Spurned Hospitality
 creature_family: '[[DATABASE/monsterfamily/Sprite|Sprite]]'
 dexterity: '+3'
-element: null
 fly_speed: '40'
 fortitude: '+2'
-hardness: null
 hp: '10'
 id: '1321'
-immunity: null
 intelligence: '+0'
 land_speed: '10'
 language:
@@ -29,9 +23,6 @@ name: Nyktera
 perception: '+6'
 rarity: Common
 reflex: '+7'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - (8 to [[DATABASE/action/Seek|Seek]] creatures using hearing) [[DATABASE/monsterability/Low-Light
   Vision|low-light vision]]
@@ -52,7 +43,6 @@ strength: '-3'
 strength_req: '-3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Sprite|Sprite]]'

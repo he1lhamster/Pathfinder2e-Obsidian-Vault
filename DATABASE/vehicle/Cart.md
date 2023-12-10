@@ -1,8 +1,5 @@
 ﻿---
 ac: '10'
-burrow_speed: null
-climb_speed: null
-fly_speed: null
 fortitude: '+6'
 hardness: '4'
 hp: '14'
@@ -14,14 +11,8 @@ max_speed: '1'
 name: Cart
 price: 3 gp
 rarity: Common
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 size: Large
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
-swim_speed: null
-trait: null
 type: Vehicle
 
 ---

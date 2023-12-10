@@ -1,24 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Nimble Crawl
-frequency: null
-heighten_level: null
 id: '816'
 level: '2'
 name: Nimble Crawl
 prerequisite: Expert in [[DATABASE/skill/Acrobatics|Acrobatics]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: acrobatics
 trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

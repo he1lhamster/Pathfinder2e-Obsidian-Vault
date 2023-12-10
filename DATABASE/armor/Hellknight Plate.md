@@ -1,26 +1,7 @@
 ﻿---
-ac: '6'
-armor_category: Heavy
-armor_group: '[[DATABASE/armorgroup/Plate|Plate]]'
-bulk: '4'
-check_penalty: '-3'
-dex_cap: '+0'
-id: '25'
-item_category: Armor
-item_subcategory: Base Armor
-level: '2'
+id: '14'
 name: Hellknight Plate
-price: 35 gp
-rarity: Uncommon
-rus_type_level: null
-source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-speed_penalty: -10 ft.
-strength: '+18'
-strength_req: '18'
-trait:
-- '[[DATABASE/trait/Bulwark|Bulwark]]'
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
-type: Armor
+source: '[[DATABASE/source/Character Guide|Character Guide]]'
 
 ---
 # Hellknight Plate<span class="item-type">Item 2</span>

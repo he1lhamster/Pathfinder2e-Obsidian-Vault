@@ -1,10 +1,7 @@
 ﻿---
 ac: '35'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Abyssal Link
@@ -12,12 +9,9 @@ creature_ability:
 - Corrupted Radiant Blow
 - Gatewarper Aura
 - Link Collapse
-creature_family: null
 dexterity: '+5'
-element: null
 fly_speed: '30'
 fortitude: '+27'
-hardness: null
 hp: '240'
 id: '2558'
 immunity:
@@ -47,8 +41,6 @@ resistance:
 - '[[DATABASE/trait/Mental|mental]] 15'
 - physical 10 (except [[DATABASE/equipment/Wand of Smoldering Fireballs|adamantine]]
   )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Gargantuan
@@ -71,7 +63,6 @@ strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Unique|Unique]]'
@@ -79,7 +70,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+22'
 wisdom: '+4'
 

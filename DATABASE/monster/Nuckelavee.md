@@ -1,10 +1,7 @@
 ﻿---
 ac: '28'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Attack of Opportunity
@@ -14,12 +11,8 @@ creature_ability:
 - Purity Vulnerability
 - ''
 - Trample
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+19'
-hardness: null
 hp: '190'
 id: '743'
 immunity:
@@ -37,9 +30,6 @@ name: Nuckelavee
 perception: '+16'
 rarity: Common
 reflex: '+16'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Large

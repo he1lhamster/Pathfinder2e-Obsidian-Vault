@@ -1,40 +1,27 @@
 ﻿---
 actions: '[three-actions]'
-area: null
 bloodline: '[[DATABASE/sorcererbloodline/Draconic|Draconic]] , [[DATABASE/sorcererbloodline/Elemental|Elemental]]'
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Yuelral|Yuelral]]'
-domain: null
 duration: 1 hour
-element: null
-heighten: null
 heighten_level: '8'
 id: '234'
-lesson: null
 level: '8'
-mystery: null
 name: Prismatic Wall
-patron_theme: null
 range: 120 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Arcane
 - Occult
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Light|Light]]'
-trigger: null
 type: Spell
 
 ---

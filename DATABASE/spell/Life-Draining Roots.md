@@ -1,29 +1,15 @@
 ﻿---
 actions: '[two-actions]'
 area: 30-foot line
-bloodline: null
-component: null
-cost: null
-deity: null
-domain: null
-duration: null
 element: Wood
 heighten: '+1'
 heighten_level: 4, 5, 6, 7, 8, 9, 10
 id: '1403'
-lesson: null
 level: '4'
-mystery: null
 name: Life-Draining Roots
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: basicReflex
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-target: null
 tradition:
 - Arcane
 - Primal
@@ -32,7 +18,6 @@ trait:
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Plant|Plant]]'
 - '[[DATABASE/trait/Wood|Wood]]'
-trigger: null
 type: Spell
 
 ---

@@ -1,39 +1,27 @@
 ﻿---
 actions: '[two-actions]'
 area: 10-foot burst
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: sustained
 element: Fire
 heighten: 4th, 7th
 heighten_level: 2, 4, 7
 id: '630'
-lesson: null
 level: '2'
-mystery: null
 name: Breath of Drought
-patron_theme: null
 range: 30 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Pathfinder 151. The Show Must Go On|Pathfinder #151: The
   Show Must Go On]]'
-target: null
 tradition:
 - Primal
 trait:
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Fire|Fire]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Spell
 
 ---

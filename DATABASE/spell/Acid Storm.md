@@ -1,40 +1,28 @@
 ﻿---
 actions: '[two-actions]'
 area: 20-foot-radius burst
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Moloch|Moloch]]'
 - '[[DATABASE/deity/Trelmarixian|Trelmarixian]]'
-domain: null
 duration: 1 minute
-element: null
 heighten: '+2'
 heighten_level: 5, 7, 9
 id: '564'
-lesson: null
 level: '5'
-mystery: null
 name: Acid Storm
-patron_theme: null
 range: 120 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
-target: null
 tradition:
 - Arcane
 - Primal
 trait:
 - '[[DATABASE/trait/Acid|Acid]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
-trigger: null
 type: Spell
 
 ---

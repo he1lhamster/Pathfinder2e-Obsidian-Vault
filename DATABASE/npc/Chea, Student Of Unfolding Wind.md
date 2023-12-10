@@ -1,10 +1,7 @@
 ﻿---
 ac: '27'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Animalistic Resistance
@@ -14,14 +11,10 @@ creature_ability:
 - Pack Tactics
 - Powerful Fists
 - Quick Change
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+18'
 hp: '155'
 id: '1053'
-immunity: null
 intelligence: '+0'
 land_speed: '40'
 language:
@@ -33,9 +26,6 @@ name: Chea
 perception: '+18'
 rarity: Unique
 reflex: '+21'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +20'
@@ -56,17 +46,14 @@ strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Beastkin|Beastkin]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+15'
 wisdom: '+2'
 

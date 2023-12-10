@@ -1,20 +1,12 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Kashrishi Revivification
 frequency: once pre day
-heighten_level: null
 id: '3978'
 level: '13'
 name: Kashrishi Revivification
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Kashrishi|Kashrishi]]'
 trigger: You have the [[DATABASE/condition/Dying|dying]] condition and are about to

@@ -1,22 +1,16 @@
 ﻿---
 ac: '30'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Steady Spellcasting
 - Universal Obedience
 creature_family: '[[DATABASE/monsterfamily/Hellknights|Hellknights]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+19'
 hp: '145'
 id: '968'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -28,9 +22,6 @@ name: Hellknight Paravicar
 perception: '+20'
 rarity: Common
 reflex: '+19'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Arcana|Arcana]] +16'
@@ -78,16 +69,13 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
 - Reflex
-weakness: null
 will: '+24'
 wisdom: '+3'
 

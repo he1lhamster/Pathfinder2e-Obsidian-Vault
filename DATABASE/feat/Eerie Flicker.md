@@ -1,20 +1,12 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Eerie Flicker
-frequency: null
-heighten_level: null
 id: '3788'
 level: '2'
 name: Eerie Flicker
-prerequisite: null
 rarity: Rare
-requirement: null
-rus_type_level: null
 school: Conjuration
 source: '[[DATABASE/source/Gatewalkers Player''s Guide|Gatewalkers Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Deviant|Deviant]]'

@@ -1,24 +1,14 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Battle Assessment
-frequency: null
-heighten_level: null
 id: '560'
 level: '4'
 name: Battle Assessment
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Rogue|Rogue]]'
 - '[[DATABASE/trait/Secret|Secret]]'
-trigger: null
 type: Feat
 
 ---

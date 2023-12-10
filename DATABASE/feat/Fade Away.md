@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Fade Away
-frequency: null
-heighten_level: null
 id: '1020'
 level: '9'
 name: Fade Away
 prerequisite: '[[DATABASE/feat/Easily Dismissed|Easily Dismissed]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Halfling|Halfling]]'
-trigger: null
 type: Feat
 
 ---

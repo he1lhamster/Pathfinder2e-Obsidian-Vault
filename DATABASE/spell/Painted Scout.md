@@ -1,29 +1,17 @@
 ﻿---
 actions: '[three-actions]'
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: sustained
-element: null
 heighten: 6th
 heighten_level: 3, 6
 id: '1096'
-lesson: null
 level: '3'
-mystery: null
 name: Painted Scout
-patron_theme: null
 range: touch
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Pathfinder 175. Broken Tusk Moon|Pathfinder #175: Broken
   Tusk Moon]]'
@@ -35,7 +23,6 @@ trait:
 - '[[DATABASE/trait/Divination|Divination]]'
 - '[[DATABASE/trait/Scrying|Scrying]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Spell
 
 ---

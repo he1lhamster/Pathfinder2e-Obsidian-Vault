@@ -1,23 +1,16 @@
 ﻿---
 ac: '19'
 alignment: CG
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Double Slice
 - Sneak Attack
 - Woodland Stride
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+6'
 hp: '26'
 id: '1540'
-immunity: null
 intelligence: '+1'
 land_speed: '30'
 language:
@@ -29,8 +22,6 @@ name: Ekujae Guardians
 perception: '+8'
 rarity: Common
 reflex: '+9'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
@@ -53,7 +44,6 @@ strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Elf|Elf]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -62,7 +52,6 @@ vision: Low-light vision
 weakest_save:
 - Fortitude
 - Will
-weakness: null
 will: '+6'
 wisdom: '+2'
 

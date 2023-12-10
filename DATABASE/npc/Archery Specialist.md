@@ -1,23 +1,16 @@
 ﻿---
 ac: '35'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Pinning Shot
 - Point-Blank Shot
 - Rain of Arrows
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+22'
 hp: '190'
 id: '1452'
-immunity: null
 intelligence: '+3'
 land_speed: '25'
 language:
@@ -29,9 +22,6 @@ name: Archery Specialist
 perception: '+26'
 rarity: Uncommon
 reflex: '+26'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +26'
@@ -43,21 +33,17 @@ source: '[[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #
   Despair on Danger Island]]'
 speed:
 - 25 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+19'
 wisdom: '+2'
 

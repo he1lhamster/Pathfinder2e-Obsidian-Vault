@@ -1,7 +1,5 @@
 ﻿---
-advanced_apocryphal_spell: null
 advanced_domain_spell: '[[DATABASE/spell/Mystic Beacon|Mystic Beacon]]'
-apocryphal_spell: null
 deity:
 - '[[DATABASE/deity/Abraxas|Abraxas]]'
 - '[[DATABASE/deity/Alseta|Alseta]]'
@@ -36,9 +34,7 @@ domain_spell: '[[DATABASE/spell/Magic''s Vessel|Magic''s Vessel]]'
 id: '19'
 name: Magic Domain
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Domain
 
 ---

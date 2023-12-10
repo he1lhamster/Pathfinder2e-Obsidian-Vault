@@ -1,10 +1,7 @@
 ﻿---
 ac: '23'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Infused Items
@@ -13,12 +10,9 @@ creature_ability:
 - Unstable Compounds
 creature_family: '[[DATABASE/monsterfamily/Villains|Villains]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+17'
 hp: '92'
 id: '963'
-immunity: null
 intelligence: '+5'
 land_speed: '25'
 language:
@@ -31,8 +25,6 @@ rarity: Common
 reflex: '+14'
 resistance:
 - poison 5
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +12'
@@ -45,20 +37,16 @@ skill:
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 speed:
 - 25 feet
-spell: null
 strength: '+1'
 strength_req: '1'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+10'
 wisdom: '+2'
 

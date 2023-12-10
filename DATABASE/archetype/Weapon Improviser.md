@@ -4,9 +4,7 @@ level: '2'
 name: Weapon Improviser
 prerequisite: trained in all martial weapons
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-trait: null
 type: Archetype
 
 ---

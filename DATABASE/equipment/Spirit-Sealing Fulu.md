@@ -1,57 +1,23 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
 duration: 1 round (or 4 rounds)
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '983'
 item_category: Consumables
 item_subcategory: Fulu
-land_speed: null
-level: '10'
-max_speed: null
+level: '3'
 name: Spirit-Sealing Fulu
-onset: null
-price: 155 gp
-range: null
+price: 10 gp
 rarity: Common
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Necromancy
-size: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-spell: null
-stage: null
 subcategory: consumable/fulu
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Consumable|Consumable]]'
 - '[[DATABASE/trait/Fulu|Fulu]]'
 - '[[DATABASE/trait/Incapacitation|Incapacitation]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
-trigger: null
 type: Item
 usage: affixed to one [[DATABASE/trait/Undead|undead]] creature
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Spirit-Sealing Fulu<span class="item-type">Item 3+</span>

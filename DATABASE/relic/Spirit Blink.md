@@ -1,11 +1,8 @@
 ﻿---
-element: null
 id: '83'
 item_category: Relics
 name: Spirit Blink
-prerequisite: null
 rarity: Common
-rus_type_level: null
 school: Conjuration
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 trait:

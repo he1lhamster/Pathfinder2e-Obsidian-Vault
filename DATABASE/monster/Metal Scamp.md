@@ -1,10 +1,6 @@
 ﻿---
 ac: '15'
-alignment: null
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Breathe Shrapnel
@@ -13,7 +9,6 @@ dexterity: '+0'
 element: Metal
 fly_speed: '25'
 fortitude: '+7'
-hardness: null
 hp: 20 ( fast healing 2 (while touching metal))
 id: '2644'
 immunity:
@@ -33,8 +28,6 @@ rarity: Common
 reflex: '+5'
 resistance:
 - '[[DATABASE/trait/Electricity|electricity]] 3'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -51,7 +44,6 @@ strength: '+2'
 strength_req: '2'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Elemental|Elemental]]'
 - '[[DATABASE/trait/Metal|Metal]]'
@@ -60,7 +52,6 @@ vision: Darkvision
 weakest_save:
 - Reflex
 - Will
-weakness: null
 will: '+5'
 wisdom: '+0'
 

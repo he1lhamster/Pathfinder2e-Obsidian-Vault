@@ -1,23 +1,15 @@
 ﻿---
 ac: '24'
-alignment: null
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Listless Saliva
 - Shell Defense
-creature_family: null
 dexterity: '+3'
 element: Water
-fly_speed: null
 fortitude: '+18'
-hardness: null
 hp: '118'
 id: '2667'
-immunity: null
 intelligence: '+4'
 land_speed: '20'
 language:
@@ -30,8 +22,6 @@ rarity: Common
 reflex: '+15'
 resistance:
 - '[[DATABASE/trait/Fire|fire]] 8'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/All-Around Vision|all-around vision]]'
 size: Medium
@@ -58,10 +48,8 @@ trait:
 - '[[DATABASE/trait/Elemental|Elemental]]'
 - '[[DATABASE/trait/Water|Water]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+12'
 wisdom: '+1'
 

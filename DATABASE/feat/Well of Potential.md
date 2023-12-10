@@ -1,24 +1,16 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Well of Potential
 frequency: once per day
-heighten_level: null
 id: '3974'
 level: '5'
 name: Well of Potential
 prerequisite: focus pool, at least one innate spell from akashrishi heritage or ancestry
   feat that shares a tradition with atleast one of your focus spells
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Kashrishi|Kashrishi]]'
-trigger: null
 type: Feat
 
 ---

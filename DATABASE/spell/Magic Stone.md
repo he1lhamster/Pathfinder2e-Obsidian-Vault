@@ -1,28 +1,15 @@
 ﻿---
 actions: '[one-action]'
-area: null
-bloodline: null
 component:
 - Verbal
 - Somatic
-cost: null
-deity: null
-domain: null
 duration: 1 minute
-element: null
-heighten: null
 heighten_level: '1'
 id: '703'
-lesson: null
 level: '1'
-mystery: null
 name: Magic Stone
-patron_theme: null
 range: touch
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 target: 1 to 3 non-magical stones or sling bullets
@@ -32,7 +19,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Positive|Positive]]'
-trigger: null
 type: Spell
 
 ---

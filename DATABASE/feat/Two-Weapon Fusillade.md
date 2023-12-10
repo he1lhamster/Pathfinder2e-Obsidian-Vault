@@ -1,25 +1,16 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Two-Weapon Fusillade
-frequency: null
-heighten_level: null
 id: '3203'
 level: '14'
 name: Two-Weapon Fusillade
-prerequisite: null
 rarity: Common
 requirement: You're wielding two weapons, each in a different hand. At least one of
   these weapons must be a loadedfirearm or loaded crossbow.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Flourish|Flourish]]'
 - '[[DATABASE/trait/Gunslinger|Gunslinger]]'
-trigger: null
 type: Feat
 
 ---

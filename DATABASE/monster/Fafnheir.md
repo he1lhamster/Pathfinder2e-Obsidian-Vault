@@ -1,10 +1,8 @@
 ﻿---
 ac: '51'
 alignment: CE
-all_resistance: null
 burrow_speed: '25'
 charisma: '+9'
-climb_speed: null
 constitution: '+12'
 creature_ability:
 - Attack of Opportunity
@@ -17,12 +15,9 @@ creature_ability:
 - Frightful Presence
 - Furious Frenzy
 - Spit Boiling Blood
-creature_family: null
 dexterity: '+9'
-element: null
 fly_speed: '160'
 fortitude: '+42'
-hardness: null
 hp: '500'
 id: '1725'
 immunity:
@@ -45,9 +40,6 @@ name: Fafnheir
 perception: '+38'
 rarity: Unique
 reflex: '+36'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 120 feet'

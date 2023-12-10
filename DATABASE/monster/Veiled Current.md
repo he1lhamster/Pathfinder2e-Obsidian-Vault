@@ -1,10 +1,6 @@
 ﻿---
 ac: '28'
-alignment: null
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Envelop
@@ -14,7 +10,6 @@ dexterity: '+6'
 element: Air
 fly_speed: '50'
 fortitude: '+15'
-hardness: null
 hp: '100'
 id: '2618'
 immunity:
@@ -23,7 +18,6 @@ immunity:
 - '[[DATABASE/trait/Poison|poison]]'
 - '[[DATABASE/trait/Sleep|sleep]]'
 intelligence: '+2'
-land_speed: null
 language:
 - '[[DATABASE/language/Sussuran|Sussuran]]'
 level: '8'
@@ -32,9 +26,6 @@ name: Veiled Current
 perception: '+17'
 rarity: Common
 reflex: '+19'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -46,12 +37,10 @@ skill:
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 speed:
 - fly 50 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Elemental|Elemental]]'
@@ -59,7 +48,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+13'
 wisdom: '+1'
 

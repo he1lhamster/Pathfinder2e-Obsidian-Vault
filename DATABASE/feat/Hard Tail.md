@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Hard Tail
-frequency: null
-heighten_level: null
 id: '1001'
+leads_to: '[[DATABASE/feat/Tail Spin|Tail Spin]]'
 level: '1'
 name: Hard Tail
 prerequisite: '[[DATABASE/heritage/Tailed Goblin|Tailed Goblin]] heritage'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Goblin|Goblin]]'
-trigger: null
 type: Feat
 
 ---

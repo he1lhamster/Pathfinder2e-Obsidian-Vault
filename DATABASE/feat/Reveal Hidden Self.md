@@ -1,26 +1,20 @@
 ﻿---
 actions: '[three-actions]'
-cost: null
-element: null
 feat: Reveal Hidden Self
 frequency: once per day
-heighten_level: null
 id: '3938'
 level: '5'
 name: Reveal Hidden Self
 prerequisite: '[[DATABASE/feat/Beastbrood|Beastbrood]]'
 rarity: Common
 requirement: You're [[DATABASE/condition/Hidden|hidden]] to at least one enemy.
-rus_type_level: null
 school: Illusion
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Divine|Divine]]'
 - '[[DATABASE/trait/Illusion|Illusion]]'
 - '[[DATABASE/trait/Tiefling|Tiefling]]'
-trigger: null
 type: Feat
 
 ---

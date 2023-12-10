@@ -1,25 +1,15 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Shake it Off
-frequency: null
-heighten_level: null
 id: '139'
 level: '2'
 name: Shake it Off
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Barbarian|Barbarian]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Rage|Rage]]'
-trigger: null
 type: Feat
 
 ---

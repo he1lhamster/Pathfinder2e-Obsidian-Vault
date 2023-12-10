@@ -1,23 +1,16 @@
 ﻿---
 ac: '31'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Evasion
 - Sneak Attack
 - Susceptible to Mockery
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+19'
 hp: '190'
 id: '2148'
-immunity: null
 intelligence: '+3'
 land_speed: '25'
 language:
@@ -31,8 +24,6 @@ name: Rumin Purgo
 perception: '+17'
 rarity: Unique
 reflex: '+21'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Small
@@ -82,7 +73,6 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Gnome|Gnome]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -92,7 +82,6 @@ vision: Low-light vision
 weakest_save:
 - Fortitude
 - Will
-weakness: null
 will: '+19'
 wisdom: '+2'
 

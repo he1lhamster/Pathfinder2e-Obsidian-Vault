@@ -1,28 +1,20 @@
 ﻿---
 ac: '16'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Blood Scent
 - Feeding Frenzy
 creature_family: '[[DATABASE/monsterfamily/Fish|Fish]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+9'
-hardness: null
 hp: '40'
 id: '1155'
 immunity:
 - precision
 - '[[DATABASE/monsterability/Swarm Mind|swarm mind]]'
 intelligence: '-5'
-land_speed: null
-language: null
 level: '3'
 max_speed: '30'
 name: Piranha Swarm
@@ -33,8 +25,6 @@ resistance:
 - bludgeoning 5
 - piercing 2
 - slashing 5
-rus_type_level: null
-school: null
 sense:
 - blood scent
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
@@ -46,7 +36,6 @@ skill:
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - swim 30 feet
-spell: null
 strength: '+1'
 strength_req: '1'
 strongest_save:

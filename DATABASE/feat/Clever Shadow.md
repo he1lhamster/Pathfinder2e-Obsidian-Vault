@@ -1,26 +1,17 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Clever Shadow
-frequency: null
-heighten_level: null
 id: '2506'
+leads_to: '[[DATABASE/feat/Hefting Shadow|Hefting Shadow]]'
 level: '5'
 name: Clever Shadow
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Fetchling|Fetchling]]'
 - '[[DATABASE/trait/Occult|Occult]]'
 - '[[DATABASE/trait/Shadow|Shadow]]'
-trigger: null
 type: Feat
 
 ---

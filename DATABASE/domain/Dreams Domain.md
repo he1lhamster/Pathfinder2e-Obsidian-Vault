@@ -1,7 +1,5 @@
 ﻿---
-advanced_apocryphal_spell: null
 advanced_domain_spell: '[[DATABASE/spell/Dreamer''s Call|Dreamer''s Call]]'
-apocryphal_spell: null
 deity:
 - '[[DATABASE/deity/Desna|Desna]]'
 - '[[DATABASE/deity/Imbrex|Imbrex]]'
@@ -14,9 +12,7 @@ domain_spell: '[[DATABASE/spell/Sweet Dream|Sweet Dream]]'
 id: '9'
 name: Dreams Domain
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Domain
 
 ---

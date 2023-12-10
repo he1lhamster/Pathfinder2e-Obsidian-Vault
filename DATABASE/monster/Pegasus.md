@@ -1,24 +1,17 @@
 ﻿---
 ac: '19'
 alignment: NG
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Assisted Mount
 - Buck
 - Gallop
-creature_family: null
 dexterity: '+4'
-element: null
 fly_speed: '80'
 fortitude: '+9'
-hardness: null
 hp: '55'
 id: '329'
-immunity: null
 intelligence: '+0'
 land_speed: '40'
 language:
@@ -29,9 +22,6 @@ name: Pegasus
 perception: '+12'
 rarity: Common
 reflex: '+11'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - scent (imprecise) 30 feet
@@ -43,19 +33,16 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 40 feet
 - fly 80 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+7'
 wisdom: '+2'
 

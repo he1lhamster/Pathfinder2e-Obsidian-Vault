@@ -1,10 +1,7 @@
 ﻿---
 ac: '24'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Cecaelia Jet
@@ -12,13 +9,9 @@ creature_ability:
 - Ink Cloud
 creature_family: '[[DATABASE/monsterfamily/Cecaelila|Cecaelila]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+10'
-hardness: null
 hp: '53'
 id: '1092'
-immunity: null
 intelligence: '-1'
 land_speed: '20'
 language:
@@ -30,9 +23,6 @@ name: Cecaelia Trapper
 perception: '+11'
 rarity: Common
 reflex: '+15'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Wavesense|wavesense]] (imprecise) 10 feet'
@@ -46,7 +36,6 @@ source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 20 feet
 - swim 35 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
@@ -59,7 +48,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+11'
 wisdom: '+2'
 

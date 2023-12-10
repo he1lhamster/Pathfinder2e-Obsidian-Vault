@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Aura of Righteousness
-frequency: null
-heighten_level: null
 id: '251'
 level: '14'
 name: Aura of Righteousness
 prerequisite: '[[DATABASE/championtenet/Good|tenets of good]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Champion|Champion]]'
-trigger: null
 type: Feat
 
 ---

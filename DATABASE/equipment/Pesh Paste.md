@@ -1,59 +1,29 @@
 ﻿---
-ac: null
 actions: '[one-action]'
-alignment: null
-base_item: null
 bulk: L
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
 duration: 4 hours
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '2474'
 item_category: Alchemical Items
 item_subcategory: Drugs
-land_speed: null
 level: '1'
-max_speed: null
 name: Pesh Paste
 onset: 30 minutes
 price: 1 gp, 5 sp
-range: null
 rarity: Common
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
 saving_throw: DC 12 Fortitude
-school: null
-size: null
 source: '[[DATABASE/source/Firebrands|Firebrands]]'
-spell: null
 stage: 'Stage 1: clumsy 1 and a +1 item bonus to Diplomacy checks (1 hour)Stage 2:
   frightened 1 and 1 temporary hit point perlevel (first time you reach this stage
   only) (1 hour)Stage 3: dazzled and frightened 2 (30 minutes)'
 subcategory: alchemical/drug
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Alchemical|Alchemical]]'
 - '[[DATABASE/trait/Consumable|Consumable]]'
 - '[[DATABASE/trait/Drug|Drug]]'
 - '[[DATABASE/trait/Ingested|Ingested]]'
 - '[[DATABASE/trait/Poison|Poison]]'
-trigger: null
 type: Item
 usage: held in 1 hand
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Pesh Paste<span class="item-type">Item 1</span>

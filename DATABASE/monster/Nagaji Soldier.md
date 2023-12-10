@@ -1,23 +1,16 @@
 ﻿---
 ac: '18'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Attack of Opportunity
 - Slough Toxins
 creature_family: '[[DATABASE/monsterfamily/Nagaji|Nagaji]]'
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+9'
-hardness: null
 hp: '28'
 id: '1243'
-immunity: null
 intelligence: '-1'
 land_speed: '25'
 language:
@@ -31,8 +24,6 @@ rarity: Common
 reflex: '+7'
 resistance:
 - poison 2
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
@@ -43,12 +34,10 @@ skill:
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 25 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Nagaji|Nagaji]]'
@@ -56,7 +45,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+6'
 wisdom: '+2'
 

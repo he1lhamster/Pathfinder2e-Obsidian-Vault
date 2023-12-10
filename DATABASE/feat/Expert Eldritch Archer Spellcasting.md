@@ -1,24 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Expert Eldritch Archer Spellcasting
-frequency: null
-heighten_level: null
 id: '1965'
+leads_to: '[[DATABASE/feat/Master Eldritch Archer Spellcasting|Master Eldritch Archer
+  Spellcasting]]'
 level: '12'
 name: Expert Eldritch Archer Spellcasting
 prerequisite: '[[DATABASE/feat/Basic Eldritch Archer Spellcasting|Basic Eldritch Archer
   Spellcasting]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

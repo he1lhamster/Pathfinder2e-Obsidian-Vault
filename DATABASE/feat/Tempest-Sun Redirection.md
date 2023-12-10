@@ -1,25 +1,17 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Tempest-Sun Redirection
-frequency: null
-heighten_level: null
 id: '1108'
+leads_to: '[[DATABASE/feat/Tempest-Sun Shielding|Tempest-Sun Shielding]]'
 level: '6'
 name: Tempest-Sun Redirection
 prerequisite: '[[DATABASE/feat/Magaambyan Attendant Dedication|Magaambyan Attendant
   Dedication]] ; Tempest-Sun Magesaffiliation'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Metamagic|Metamagic]]'
-trigger: null
 type: Feat
 
 ---

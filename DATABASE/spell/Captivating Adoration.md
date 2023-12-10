@@ -1,33 +1,21 @@
 ﻿---
 actions: '[two-actions]'
 area: 15-foot emanation
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
 domain:
 - '[[DATABASE/domain/Passion Domain|Passion]]'
 duration: 1 minute
-element: null
 heighten: '+1'
 heighten_level: 4, 5, 6, 7, 8, 9, 10
 id: '405'
-lesson: null
 level: '4'
-mystery: null
 name: Captivating Adoration
-patron_theme: null
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 saving_throw: Will
 school: Enchantment
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
-tradition: null
 trait:
 - '[[DATABASE/trait/Cleric|Cleric]]'
 - '[[DATABASE/trait/Emotion|Emotion]]'
@@ -35,7 +23,6 @@ trait:
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 - '[[DATABASE/trait/Visual|Visual]]'
-trigger: null
 type: Focus
 
 ---

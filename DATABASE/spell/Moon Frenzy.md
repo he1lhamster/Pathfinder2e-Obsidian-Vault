@@ -1,33 +1,22 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Angazhan|Angazhan]]'
 - '[[DATABASE/deity/Angazhan|Angazhan]]'
 - '[[DATABASE/deity/Chamidu|Chamidu]]'
 - '[[DATABASE/deity/Chamidu|Chamidu]]'
 - '[[DATABASE/deity/Sekhmet|Sekhmet]]'
-domain: null
 duration: 1 minute
-element: null
 heighten: 6th, 10th
 heighten_level: 5, 6, 10
 id: '203'
-lesson: null
 level: '5'
-mystery: null
 name: Moon Frenzy
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: up to 5 willing creatures
@@ -36,7 +25,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Morph|Morph]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Spell
 
 ---

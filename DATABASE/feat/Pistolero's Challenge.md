@@ -1,27 +1,19 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Pistolero's Challenge
-frequency: null
-heighten_level: null
 id: '3174'
+leads_to: '[[DATABASE/feat/Come at Me!|Come at Me!]]'
 level: '6'
 name: Pistolero's Challenge
 prerequisite: '[[DATABASE/gunslingerway/Way of the Pistolero|way of the pistolero]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Auditory|Auditory]]'
 - '[[DATABASE/trait/Flourish|Flourish]]'
 - '[[DATABASE/trait/Gunslinger|Gunslinger]]'
 - '[[DATABASE/trait/Linguistic|Linguistic]]'
 - '[[DATABASE/trait/Mental|Mental]]'
-trigger: null
 type: Feat
 
 ---

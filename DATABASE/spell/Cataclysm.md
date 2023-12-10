@@ -1,31 +1,19 @@
 ﻿---
 actions: '[two-actions]'
 area: 60-foot burst
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
-duration: null
 element: Air, Earth, Fire, Water
-heighten: null
 heighten_level: '10'
 id: '32'
-lesson: null
 level: '10'
-mystery: null
 name: Cataclysm
-patron_theme: null
 range: 1,000 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: basicReflex
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Arcane
 - Primal
@@ -39,7 +27,6 @@ trait:
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Fire|Fire]]'
 - '[[DATABASE/trait/Water|Water]]'
-trigger: null
 type: Spell
 
 ---

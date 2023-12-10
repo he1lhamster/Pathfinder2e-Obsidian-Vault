@@ -1,8 +1,6 @@
 ﻿---
 ac: '14'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
 climb_speed: '20'
 constitution: '+0'
@@ -10,26 +8,17 @@ creature_ability:
 - Grab and Go
 creature_family: '[[DATABASE/monsterfamily/Monkey|Monkey]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+2'
-hardness: null
 hp: '9'
 id: '1231'
-immunity: null
 intelligence: '-4'
 land_speed: '25'
-language: null
 level: '-1'
 max_speed: '25'
 name: Monkey
 perception: '+6'
 rarity: Common
 reflex: '+7'
-resistance: null
-rus_type_level: null
-school: null
-sense: null
 size: Tiny
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +5'
@@ -38,19 +27,15 @@ source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 25 feet
 - climb 20 feet
-spell: null
 strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+4'
 wisdom: '+2'
 

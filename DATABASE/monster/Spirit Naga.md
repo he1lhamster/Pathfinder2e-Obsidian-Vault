@@ -1,23 +1,16 @@
 ﻿---
 ac: '28'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Coven
 - Spirit Naga Venom
 creature_family: '[[DATABASE/monsterfamily/Naga|Naga]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+15'
-hardness: null
 hp: '160'
 id: '737'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -29,9 +22,6 @@ name: Spirit Naga
 perception: '+18'
 rarity: Uncommon
 reflex: '+20'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -83,7 +73,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+18'
 wisdom: '+3'
 

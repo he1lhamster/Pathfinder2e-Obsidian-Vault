@@ -1,23 +1,16 @@
 ﻿---
 ac: '24'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Hypnosis
 - Lunar Naga Venom
 creature_family: '[[DATABASE/monsterfamily/Naga|Naga]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+15'
-hardness: null
 hp: '100'
 id: '736'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -30,9 +23,6 @@ name: Lunar Naga
 perception: '+16'
 rarity: Uncommon
 reflex: '+16'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -66,7 +56,6 @@ strength: '+2'
 strength_req: '2'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
@@ -74,7 +63,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+17'
 wisdom: '+4'
 

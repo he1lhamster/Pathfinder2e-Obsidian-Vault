@@ -2,7 +2,6 @@
 id: '237'
 name: Soulbound
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait:
 - Soulbound

@@ -1,10 +1,7 @@
 ﻿---
 ac: '18'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+8'
-hardness: null
 hazard_type: Haunt
 hp: '45'
 id: '403'
@@ -19,10 +16,6 @@ immunity:
 level: '4'
 name: Avernal Flashback
 rarity: Common
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 193. Mantle of Gold|Pathfinder #193: Mantle
   of Gold]]'
 trait:

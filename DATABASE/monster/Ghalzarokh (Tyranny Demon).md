@@ -1,10 +1,7 @@
 ﻿---
 ac: '36'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+7'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Abyssal Spew
@@ -13,13 +10,10 @@ creature_ability:
 - Rend
 creature_family: '[[DATABASE/monsterfamily/Demon|Demon]]'
 dexterity: '+3'
-element: null
 fly_speed: '40'
 fortitude: '+29'
-hardness: null
 hp: '330'
 id: '2523'
-immunity: null
 intelligence: '+4'
 land_speed: '25'
 language:
@@ -33,9 +27,6 @@ name: Ghalzarokh
 perception: '+28'
 rarity: Uncommon
 reflex: '+24'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 60 feet'
@@ -63,7 +54,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Demon|Demon]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

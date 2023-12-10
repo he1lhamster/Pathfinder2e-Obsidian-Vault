@@ -1,23 +1,16 @@
 ﻿---
 ac: '27'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Raise Serpent
 - Serpentfolk Venom
 creature_family: '[[DATABASE/monsterfamily/Serpentfolk|Serpentfolk]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+14'
-hardness: null
 hp: '115'
 id: '801'
-immunity: null
 intelligence: '+5'
 land_speed: '25'
 language:
@@ -34,8 +27,6 @@ rarity: Uncommon
 reflex: '+15'
 resistance:
 - poison 10
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent (imprecise) 30 feet]]'
@@ -82,7 +73,6 @@ strength: '+3'
 strength_req: '3'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Serpentfolk|Serpentfolk]]'
@@ -91,7 +81,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+19'
 wisdom: '+5'
 

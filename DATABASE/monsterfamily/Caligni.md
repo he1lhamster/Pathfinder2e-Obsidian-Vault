@@ -3,9 +3,7 @@ creature_family: Caligni
 id: '18'
 name: Caligni
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
-trait: null
 type: Creature Family
 
 ---

@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Everyone's a Suspect
-frequency: null
-heighten_level: null
 id: '1481'
 level: '20'
 name: Everyone's a Suspect
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Investigator|Investigator]]'
-trigger: null
 type: Feat
 
 ---

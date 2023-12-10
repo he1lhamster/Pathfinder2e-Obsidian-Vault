@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Accursed Claws
-frequency: null
-heighten_level: null
 id: '1332'
 level: '9'
 name: Accursed Claws
 prerequisite: claw unarmed attack
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Changeling|Changeling]]'
-trigger: null
 type: Feat
 
 ---

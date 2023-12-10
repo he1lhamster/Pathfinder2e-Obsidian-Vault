@@ -1,25 +1,19 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Ghost Dedication
-frequency: null
-heighten_level: null
 id: '3496'
+leads_to: '[[DATABASE/feat/Frightful Moan|Frightful Moan]] , [[DATABASE/feat/Ghost
+  Flight|Ghost Flight]] , [[DATABASE/feat/Ghostly Grasp (Ghost)|Ghostly Grasp (Ghost)]]
+  , [[DATABASE/feat/Ghostly Resistance|Ghostly Resistance]] , [[DATABASE/feat/Pass
+  Through|Pass Through]] , [[DATABASE/feat/Rejuvenation|Rejuvenation]]'
 level: '2'
 name: Ghost Dedication
 prerequisite: You died and returned as a ghost.
 rarity: Rare
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Feat
 
 ---

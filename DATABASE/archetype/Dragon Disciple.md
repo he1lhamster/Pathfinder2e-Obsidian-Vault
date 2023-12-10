@@ -2,9 +2,7 @@
 id: '56'
 level: '2'
 name: Dragon Disciple
-prerequisite: null
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

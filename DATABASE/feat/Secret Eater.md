@@ -1,28 +1,22 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Secret Eater
-frequency: null
-heighten_level: null
 id: '3890'
+leads_to: '[[DATABASE/feat/Bodysnatcher|Bodysnatcher]] , [[DATABASE/feat/Breath of
+  Hungry Death|Breath of Hungry Death]] , [[DATABASE/feat/Graveshift|Graveshift]]
+  , [[DATABASE/feat/Wrath of the First Ghoul|Wrath of the First Ghoul]]'
 level: '12'
 name: Secret Eater
 prerequisite: '[[DATABASE/feat/Ghoul Dedication|Ghoul Dedication]]'
 rarity: Rare
-requirement: null
-rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Pathfinder 184. The Ghouls Hunger|Pathfinder #184: The
   Ghouls Hunger]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Divine|Divine]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Occult|Occult]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Feat
 
 ---

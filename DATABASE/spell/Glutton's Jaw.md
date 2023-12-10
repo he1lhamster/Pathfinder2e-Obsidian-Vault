@@ -1,38 +1,23 @@
 ﻿---
 actions: '[one-action]'
-area: null
 bloodline: '[[DATABASE/sorcererbloodline/Demonic|Demonic]]'
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 1 minute
-element: null
 heighten: '+2'
 heighten_level: 1, 3, 5, 7, 9
 id: '511'
-lesson: null
 level: '1'
-mystery: null
 name: Glutton's Jaw
-patron_theme: null
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
-tradition: null
 trait:
 - '[[DATABASE/trait/Morph|Morph]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Sorcerer|Sorcerer]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Focus
 
 ---

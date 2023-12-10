@@ -1,10 +1,7 @@
 ﻿---
 ac: '43'
 alignment: LG
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Archon's Door
@@ -14,13 +11,10 @@ creature_ability:
 - Retributive Strike
 creature_family: '[[DATABASE/monsterfamily/Archon|Archon]]'
 dexterity: '+9'
-element: null
 fly_speed: '75'
 fortitude: '+31'
-hardness: null
 hp: '400'
 id: '553'
-immunity: null
 intelligence: '+9'
 land_speed: '35'
 language:
@@ -35,8 +29,6 @@ rarity: Common
 reflex: '+34'
 resistance:
 - fire 15
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/spell/True Seeing|true seeing]]'
@@ -70,7 +62,6 @@ strength_req: '8'
 strongest_save:
 - Reflex
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Archon|Archon]]'
 - '[[DATABASE/trait/Celestial|Celestial]]'

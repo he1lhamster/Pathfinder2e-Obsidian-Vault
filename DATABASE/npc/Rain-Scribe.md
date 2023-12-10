@@ -1,21 +1,15 @@
 ﻿---
 ac: '21'
 alignment: NG
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Chameleon Step
 creature_family: '[[DATABASE/monsterfamily/Magaambyan Adepts|Magaambyan Adepts]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+9'
 hp: '54'
 id: '971'
-immunity: null
 intelligence: '+1'
 land_speed: '40'
 language:
@@ -30,7 +24,6 @@ rarity: Common
 reflex: '+9'
 resistance:
 - poison 2
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
@@ -60,7 +53,6 @@ strength: '+2'
 strength_req: '2'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Elf|Elf]]'
 - '[[DATABASE/trait/Human|Human]]'
@@ -70,7 +62,6 @@ vision: Low-light vision
 weakest_save:
 - Fortitude
 - Reflex
-weakness: null
 will: '+12'
 wisdom: '+4'
 

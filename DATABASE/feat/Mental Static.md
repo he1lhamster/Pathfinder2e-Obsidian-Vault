@@ -1,20 +1,12 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Mental Static
-frequency: null
-heighten_level: null
 id: '3674'
 level: '8'
 name: Mental Static
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Enchantment
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Enchantment|Enchantment]]'
 - '[[DATABASE/trait/Mental|Mental]]'

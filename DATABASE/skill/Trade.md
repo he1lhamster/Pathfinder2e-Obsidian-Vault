@@ -1,14 +1,10 @@
 ﻿---
-ability: null
-ability_boost: null
 id: '31'
 name: Trade
 rarity: Common
-rus_type_level: null
 skill:
 - Trade
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
-trait: null
 type: Skill
 
 ---

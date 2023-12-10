@@ -1,38 +1,23 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
-heighten: null
 heighten_level: '5'
 id: '805'
 lesson: '[[DATABASE/witchlesson/Lesson of Renewal|Lesson of Renewal]]'
 level: '5'
-mystery: null
 name: Restorative Moment
-patron_theme: null
 range: 30 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 target: 1 creature
-tradition: null
 trait:
 - '[[DATABASE/trait/Hex|Hex]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 - '[[DATABASE/trait/Witch|Witch]]'
-trigger: null
 type: Focus
 
 ---

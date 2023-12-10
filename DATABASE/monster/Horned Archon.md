@@ -1,10 +1,7 @@
 ﻿---
 ac: '22'
 alignment: LG
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Archon's Door
@@ -13,13 +10,9 @@ creature_ability:
 - Touch of Charity
 creature_family: '[[DATABASE/monsterfamily/Archon|Archon]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+11'
-hardness: null
 hp: '65'
 id: '31'
-immunity: null
 intelligence: '+1'
 land_speed: '35'
 language:
@@ -32,9 +25,6 @@ name: Horned Archon
 perception: '+11'
 rarity: Common
 reflex: '+10'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -59,7 +49,6 @@ strength_req: '3'
 strongest_save:
 - Fortitude
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Archon|Archon]]'
 - '[[DATABASE/trait/Celestial|Celestial]]'

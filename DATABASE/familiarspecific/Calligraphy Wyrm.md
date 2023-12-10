@@ -1,9 +1,7 @@
 ﻿---
 id: '5'
 name: Calligraphy Wyrm
-rus_type_level: null
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
-trait: null
 
 ---
 # Calligraphy Wyrm

@@ -1,27 +1,17 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Catchy Tune
-frequency: null
-heighten_level: null
 id: '2637'
 level: '5'
 name: Catchy Tune
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Auditory|Auditory]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Emotion|Emotion]]'
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Sprite|Sprite]]'
-trigger: null
 type: Feat
 
 ---

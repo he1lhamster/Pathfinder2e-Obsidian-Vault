@@ -8,9 +8,7 @@ ability_boost:
 feat: '[[DATABASE/feat/Ravening''s Desperation|Ravening''s Desperation]]'
 id: '144'
 name: Dreamer of the Verdant Moon
-prerequisite: null
 rarity: Uncommon
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Survival|Survival]]'
 - Zevgavizeb [[DATABASE/skill/Lore|Lore]]

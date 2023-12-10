@@ -1,9 +1,7 @@
 ﻿---
-area: null
 cost: "precious clay, wood, or other modeling materials worth spell level \xD7 20\
   \ gp"
 duration: 1 day
-element: null
 heighten: 6th, 9th, 10th
 heighten_level: 5, 6, 9, 10
 id: '91'
@@ -11,15 +9,11 @@ level: '5'
 name: Construct Mindscape
 primary_check: '[[DATABASE/skill/Arcana|Arcana]] or [[DATABASE/skill/Occultism|Occultism]]
   (master)'
-range: null
 rarity: Rare
-requirement: null
-rus_type_level: null
 school: Illusion
 secondary_casters: '2'
 secondary_check: Arcana or Occultism, [[DATABASE/skill/Crafting|Crafting]]
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-target: null
 trait:
 - '[[DATABASE/trait/Illusion|Illusion]]'
 - '[[DATABASE/trait/Rare|Rare]]'

@@ -1,27 +1,18 @@
 ﻿---
 actions: '[three-actions]'
-cost: null
 element: Wood
 feat: Turn the Wheel of Seasons
-frequency: null
-heighten_level: null
 id: '4295'
 level: '18'
 name: Turn the Wheel of Seasons
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Impulse|Impulse]]'
 - '[[DATABASE/trait/Kineticist|Kineticist]]'
 - '[[DATABASE/trait/Overflow|Overflow]]'
 - '[[DATABASE/trait/Primal|Primal]]'
 - '[[DATABASE/trait/Wood|Wood]]'
-trigger: null
 type: Feat
 
 ---

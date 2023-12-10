@@ -1,10 +1,7 @@
 ﻿---
 ac: '21'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Calculated Reload
@@ -12,13 +9,9 @@ creature_ability:
 - Hurtful Critique
 creature_family: '[[DATABASE/monsterfamily/Planar Scion|Planar Scion]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+10'
-hardness: null
 hp: '60'
 id: '1265'
-immunity: null
 intelligence: '+1'
 land_speed: '20'
 language:
@@ -30,9 +23,6 @@ name: Aphorite Sharpshooter
 perception: '+8'
 rarity: Common
 reflex: '+12'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -52,7 +42,6 @@ strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aphorite|Aphorite]]'
 - '[[DATABASE/trait/Human|Human]]'
@@ -61,7 +50,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+8'
 wisdom: '+0'
 

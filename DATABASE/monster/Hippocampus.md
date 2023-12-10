@@ -1,35 +1,24 @@
 ﻿---
 ac: '16'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Buck
 - Sudden Retreat
 creature_family: '[[DATABASE/monsterfamily/Hippocampus|Hippocampus]]'
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+9'
-hardness: null
 hp: '24'
 id: '696'
-immunity: null
 intelligence: '-4'
 land_speed: '5'
-language: null
 level: '1'
 max_speed: '40'
 name: Hippocampus
 perception: '+6'
 rarity: Common
 reflex: '+4'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent (imprecise) 30 feet]]'
@@ -41,7 +30,6 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 5 feet
 - swim 40 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
@@ -54,7 +42,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+6'
 wisdom: '+3'
 

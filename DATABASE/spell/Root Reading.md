@@ -1,29 +1,13 @@
 ﻿---
 actions: '[two-actions]'
 area: 30-foot emanation
-bloodline: null
-component: null
-cost: null
-deity: null
-domain: null
-duration: null
 element: Wood
-heighten: null
 heighten_level: '1'
 id: '1409'
-lesson: null
 level: '1'
-mystery: null
 name: Root Reading
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-target: null
 tradition:
 - Arcane
 - Primal
@@ -32,7 +16,6 @@ trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Wood|Wood]]'
-trigger: null
 type: Cantrip
 
 ---

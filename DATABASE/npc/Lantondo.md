@@ -1,21 +1,14 @@
 ﻿---
 ac: '36'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Control Harrow Cards
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+24'
 hp: '275'
 id: '1491'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -27,9 +20,6 @@ name: Lantondo
 perception: '+27'
 rarity: Unique
 reflex: '+26'
-resistance: null
-rus_type_level: null
-sense: null
 size: Small
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +27'
@@ -71,16 +61,13 @@ strength: '+2'
 strength_req: '2'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 - '[[DATABASE/trait/Wyrwood|Wyrwood]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+27'
 wisdom: '+4'
 

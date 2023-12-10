@@ -1,10 +1,7 @@
 ﻿---
 ac: '39'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Boneshaking Roar
@@ -13,13 +10,9 @@ creature_ability:
 - Three-Limbed Lunge
 creature_family: '[[DATABASE/monsterfamily/Saurian|Saurian]]'
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+26'
-hardness: null
 hp: '340'
 id: '977'
-immunity: null
 intelligence: '+4'
 land_speed: '40'
 language:
@@ -35,8 +28,6 @@ rarity: Uncommon
 reflex: '+25'
 resistance:
 - fire 10
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Huge
@@ -58,7 +49,6 @@ strength: '+8'
 strength_req: '8'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dinosaur|Dinosaur]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -67,7 +57,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+28'
 wisdom: '+6'
 

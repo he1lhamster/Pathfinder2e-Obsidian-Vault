@@ -1,7 +1,6 @@
 ﻿---
 id: '52'
 name: Distant
-source: null
 
 ---
 # Distant

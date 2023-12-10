@@ -1,14 +1,7 @@
 ﻿---
-actions: null
-cost: null
-element: null
-frequency: null
 id: '1481'
 name: Tell Campfire Story
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
 trait:
 - '[[DATABASE/trait/Camping|Camping]]'
@@ -16,7 +9,6 @@ trait:
 - '[[DATABASE/trait/Emotion|Emotion]]'
 - '[[DATABASE/trait/Linguistic|Linguistic]]'
 - '[[DATABASE/trait/Mental|Mental]]'
-trigger: null
 type: Action
 
 ---

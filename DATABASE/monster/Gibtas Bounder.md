@@ -1,20 +1,14 @@
 ﻿---
 ac: '22'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Bouncing Slam
 - Pinning Chomp
 creature_family: '[[DATABASE/monsterfamily/Gibtas|Gibtas]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+13'
-hardness: null
 hp: '76'
 id: '1045'
 immunity:
@@ -31,8 +25,6 @@ rarity: Uncommon
 reflex: '+13'
 resistance:
 - bludgeoning 5
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -46,13 +38,11 @@ source: '[[DATABASE/source/Pathfinder 164. Hands of the Devil|Pathfinder #164: H
   of the Devil]]'
 speed:
 - 30 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
@@ -60,7 +50,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+11'
 wisdom: '+2'
 

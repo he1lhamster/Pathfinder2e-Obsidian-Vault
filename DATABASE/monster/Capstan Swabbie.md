@@ -1,22 +1,15 @@
 ﻿---
 ac: '25'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Attached Anchor
 - Jury-Rig
 - Loose the Pawls
 - Mate's Expertise
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+17'
-hardness: null
 hp: '115'
 id: '2456'
 immunity:
@@ -36,16 +29,12 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '20'
-language: null
 level: '7'
 max_speed: '20'
 name: Capstan Swabbie
 perception: '+12'
 rarity: Uncommon
 reflex: '+12'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -55,12 +44,10 @@ source: '[[DATABASE/source/Pathfinder 188. They Watched the Stars|Pathfinder #18
   They Watched the Stars]]'
 speed:
 - 20 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Mindless|Mindless]]'
@@ -69,7 +56,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+10'
 wisdom: '+0'
 

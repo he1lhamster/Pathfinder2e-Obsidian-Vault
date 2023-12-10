@@ -1,18 +1,8 @@
 ﻿---
-ability: null
-ability_boost: null
-feat: null
 id: '355'
 name: Sandswept Survivor
-prerequisite: null
-rarity: null
-rus_type_level: null
-skill: null
 source: '[[DATABASE/source/Pathfinder Society Year 4 Rule Updates|Pathfinder Society
   Year 4 Rule Updates]]'
-subcategory: null
-trait: null
-type: null
 
 ---
 # Sandswept Survivor<span class="item-type">Background</span>

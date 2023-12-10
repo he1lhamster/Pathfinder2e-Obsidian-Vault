@@ -1,10 +1,7 @@
 ﻿---
 ac: '28'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Bouncing Crush
@@ -12,10 +9,7 @@ creature_ability:
 - Powerful Stench
 creature_family: '[[DATABASE/monsterfamily/Gibtas|Gibtas]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+20'
-hardness: null
 hp: '140'
 id: '1047'
 immunity:
@@ -32,8 +26,6 @@ rarity: Uncommon
 reflex: '+15'
 resistance:
 - bludgeoning 10
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -46,12 +38,10 @@ source: '[[DATABASE/source/Pathfinder 164. Hands of the Devil|Pathfinder #164: H
   of the Devil]]'
 speed:
 - 30 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
@@ -59,7 +49,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+16'
 wisdom: '+2'
 

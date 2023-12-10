@@ -1,10 +1,7 @@
 ﻿---
 ac: '21'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Attack of Opportunity
@@ -12,15 +9,11 @@ creature_ability:
 - Faceless
 - Thoughtsense
 - Tickle
-creature_family: null
 dexterity: '+3'
-element: null
 fly_speed: '30'
 fortitude: '+10'
-hardness: null
 hp: '60'
 id: '1247'
-immunity: null
 intelligence: '-2'
 land_speed: '25'
 language:
@@ -33,8 +26,6 @@ rarity: Uncommon
 reflex: '+13'
 resistance:
 - cold 5
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - thoughtsense (precise) 60 feet
@@ -47,12 +38,10 @@ source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 25 feet
 - fly 30 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Dream|Dream]]'
@@ -62,7 +51,6 @@ vision: Darkvision
 weakest_save:
 - Fortitude
 - Will
-weakness: null
 will: '+10'
 wisdom: '+2'
 

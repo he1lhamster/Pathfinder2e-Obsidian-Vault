@@ -1,24 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Command Corpse
-frequency: null
-heighten_level: null
 id: '3884'
+leads_to: '[[DATABASE/feat/Imbue Mindlessness|Imbue Mindlessness]] , [[DATABASE/feat/Improved
+  Command Corpse|Improved Command Corpse]]'
 level: '4'
 name: Command Corpse
 prerequisite: '[[DATABASE/feat/Corpse Tender Dedication|Corpse Tender Dedication]]'
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 181. Zombie Feast|Pathfinder #181: Zombie Feast]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

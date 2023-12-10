@@ -1,24 +1,16 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Work Yourself Up
-frequency: null
-heighten_level: null
 id: '2966'
 level: '8'
 name: Work Yourself Up
 prerequisite: '[[DATABASE/feat/Cathartic Mage Dedication|Cathartic Mage Dedication]]'
 rarity: Common
 requirement: You have a reaction available and aren't prevented from using Catharsis.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
-trigger: null
 type: Feat
 
 ---

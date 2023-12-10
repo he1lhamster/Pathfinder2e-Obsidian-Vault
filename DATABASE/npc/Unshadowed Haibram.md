@@ -1,10 +1,7 @@
 ﻿---
 ac: '41'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Rupture Shadow
@@ -12,14 +9,10 @@ creature_ability:
 - Vesicated Shadow
 - Wind Step to [three-actions]
 - Wind Touch
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+33'
 hp: '330'
 id: '1808'
-immunity: null
 intelligence: '+4'
 land_speed: '20'
 language:
@@ -33,7 +26,6 @@ rarity: Unique
 reflex: '+30'
 resistance:
 - '[[DATABASE/trait/Acid|acid]] 20'
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -86,7 +78,6 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dwarf|Dwarf]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -95,7 +86,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+27'
 wisdom: '+2'
 

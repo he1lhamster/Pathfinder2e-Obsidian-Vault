@@ -1,25 +1,16 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Expand Aura
-frequency: null
-heighten_level: null
 id: '1690'
 level: '16'
 name: Expand Aura
 prerequisite: You have at least one [[DATABASE/trait/Aura|aura]] from a champion feat
   orfeature.
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Champion|Champion]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,21 +1,12 @@
 ﻿---
 ac: '22'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+3'
-creature_ability: null
-creature_family: null
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+13'
-hardness: null
 hp: '75'
 id: '2613'
-immunity: null
 intelligence: '+4'
 land_speed: '20'
 language:
@@ -31,8 +22,6 @@ rarity: Unique
 reflex: '+9'
 resistance:
 - fire 5
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -60,7 +49,6 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dwarf|Dwarf]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -69,7 +57,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+14'
 wisdom: '+2'
 

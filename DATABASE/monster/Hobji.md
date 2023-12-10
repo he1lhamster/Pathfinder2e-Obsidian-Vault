@@ -1,8 +1,6 @@
 ﻿---
 ac: '19'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
 climb_speed: '20'
 constitution: '+3'
@@ -11,15 +9,10 @@ creature_ability:
 - Sneak Attack
 - Strangling Grasp
 - Surprise Attack
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+8'
-hardness: null
 hp: '45'
 id: '1767'
-immunity: null
 intelligence: '+1'
 land_speed: '30'
 language:
@@ -30,9 +23,6 @@ name: Hobji
 perception: '+8'
 rarity: Unique
 reflex: '+11'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -46,12 +36,10 @@ source: '[[DATABASE/source/Pathfinder 175. Broken Tusk Moon|Pathfinder #175: Bro
 speed:
 - 30 feet
 - climb 20 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Morlock|Morlock]]'
@@ -60,7 +48,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+9'
 wisdom: '+3'
 

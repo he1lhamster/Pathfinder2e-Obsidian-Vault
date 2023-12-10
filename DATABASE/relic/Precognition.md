@@ -1,11 +1,8 @@
 ﻿---
-element: null
 id: '105'
 item_category: Relics
 name: Precognition
-prerequisite: null
 rarity: Common
-rus_type_level: null
 school: Divination
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 trait:

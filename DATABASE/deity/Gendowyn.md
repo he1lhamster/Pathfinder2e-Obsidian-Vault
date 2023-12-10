@@ -24,11 +24,9 @@ follower_alignment:
 id: '152'
 name: Gendowyn
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Stealth|Stealth]]'
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
-trait: null
 type: Deity
 
 ---

@@ -1,10 +1,8 @@
 ﻿---
 ac: '35'
 alignment: CE
-all_resistance: null
 burrow_speed: '10'
 charisma: '+1'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Alchemical Formulas
@@ -17,15 +15,10 @@ creature_ability:
 - Quick Alchemy
 - Quick Bomber
 - Stone Throes
-creature_family: null
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+26'
-hardness: null
 hp: '255'
 id: '2111'
-immunity: null
 intelligence: '+4'
 land_speed: '20'
 language:
@@ -41,8 +34,6 @@ rarity: Unique
 reflex: '+19'
 resistance:
 - physical 14
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) 30 feet'
@@ -66,7 +57,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
@@ -75,7 +65,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+22'
 wisdom: '+2'
 

@@ -1,10 +1,7 @@
 ﻿---
 ac: '28'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Aquatic Ambush
@@ -12,27 +9,18 @@ creature_ability:
 - Deep Breath
 - Powerful Jumper
 - Swallow Whole
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+20'
-hardness: null
 hp: '170'
 id: '1622'
-immunity: null
 intelligence: '-3'
 land_speed: '40'
-language: null
 level: '9'
 max_speed: '40'
 name: Gbahali
 perception: '+17'
 rarity: Uncommon
 reflex: '+17'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -46,7 +34,6 @@ source: '[[DATABASE/source/Pathfinder 170. Spoken on the Song Wind|Pathfinder #1
 speed:
 - 40 feet
 - swim 30 feet; powerful jumper
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
@@ -60,7 +47,6 @@ vision: Low-light vision
 weakest_save:
 - Reflex
 - Will
-weakness: null
 will: '+17'
 wisdom: '+4'
 

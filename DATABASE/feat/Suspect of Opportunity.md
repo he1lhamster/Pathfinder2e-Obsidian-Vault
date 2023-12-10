@@ -1,20 +1,12 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Suspect of Opportunity
 frequency: once per hour
-heighten_level: null
 id: '1470'
 level: '10'
 name: Suspect of Opportunity
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Investigator|Investigator]]'
 trigger: A foe takes a hostile action against you in combat.

@@ -1,55 +1,21 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
 bulk: '1'
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '411'
 item_category: Worn Items
 item_subcategory: Other Worn Items
-land_speed: null
-level: '19'
-max_speed: null
+level: '12'
 name: Berserker's Cloak
-onset: null
-price: 40,000 gp
-range: null
+price: 2,000 gp
 rarity: Common
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
-size: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-spell: null
-stage: null
 subcategory: wornitem
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Invested|Invested]]'
 - '[[DATABASE/trait/Primal|Primal]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Item
 usage: worn cloak
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Berserker's Cloak<span class="item-type">Item 12+</span>

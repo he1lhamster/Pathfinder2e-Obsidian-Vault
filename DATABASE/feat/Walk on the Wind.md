@@ -1,28 +1,20 @@
 ﻿---
-actions: null
-cost: null
 element: Air
 feat: Walk on the Wind
-frequency: null
-heighten_level: null
 id: '3760'
 level: '16'
 name: Walk on the Wind
 prerequisite: You've been brought to 0 Hit Points by an enemy that has the [[DATABASE/trait/Air|air]]
   trait or an enemy's ability that has the air trait.
 rarity: Rare
-requirement: null
-rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Aftermath|Aftermath]]'
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Feat
 
 ---

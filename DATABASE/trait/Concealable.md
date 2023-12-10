@@ -2,7 +2,6 @@
 id: '327'
 name: Concealable
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 trait:
 - Concealable

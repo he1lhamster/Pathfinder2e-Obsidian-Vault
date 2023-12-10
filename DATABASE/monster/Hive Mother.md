@@ -1,10 +1,8 @@
 ﻿---
 ac: '29'
 alignment: N
-all_resistance: null
 burrow_speed: '20'
 charisma: '-2'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Armor-Rending Bite
@@ -13,25 +11,17 @@ creature_ability:
 - Spray Acid
 creature_family: '[[DATABASE/monsterfamily/Ankhrav|Ankhrav]]'
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+18'
-hardness: null
 hp: '120'
 id: '24'
-immunity: null
 intelligence: '-4'
 land_speed: '25'
-language: null
 level: '8'
 max_speed: '25'
 name: Hive Mother
 perception: '+16'
 rarity: Uncommon
 reflex: '+15'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - tremorsense (imprecise) 90 feet
@@ -45,12 +35,10 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 25 feet
 - burrow 20 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
@@ -58,7 +46,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+14'
 wisdom: '+2'
 

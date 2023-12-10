@@ -1,20 +1,13 @@
 ﻿---
-area: null
 cost: a piece of hair, drop of blood, or other part of the creature to be duplicated,
   plus rare oils,minerals, and pigments with a total value of 300 gp
-duration: null
-element: null
-heighten: null
 heighten_level: '4'
 id: '37'
 level: '4'
 name: Simulacrum
 primary_check: '[[DATABASE/skill/Arcana|Arcana]] or [[DATABASE/skill/Occultism|Occultism]]
   (master, the check has the [[DATABASE/trait/Secret|secret]] trait)'
-range: null
 rarity: Rare
-requirement: null
-rus_type_level: null
 school: Illusion
 secondary_casters: '3'
 secondary_check: Arcana, [[DATABASE/skill/Nature|Nature]] , Occultism, [[DATABASE/skill/Religion|Religion]]

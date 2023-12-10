@@ -1,52 +1,15 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: '2'
-hardness: null
-hp: null
+hands: '1'
 id: '1342'
 item_category: Adventuring Gear
-item_subcategory: null
-land_speed: null
-level: '2'
-max_speed: null
+level: '0'
 name: Toy Carriage
-onset: null
-price: 5 gp
-range: null
+price: 5 sp
 rarity: Common
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
-school: null
-size: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
-spell: null
-stage: null
 subcategory: adventuringgear
-swim_speed: null
-trait: null
-trigger: null
 type: Item
-usage: held in 2 hands
-weapon_category: null
-weapon_group: null
-weapon_type: null
+usage: held in 1 hand
 
 ---
 # Toy Carriage<span class="item-type">Item 0+</span>

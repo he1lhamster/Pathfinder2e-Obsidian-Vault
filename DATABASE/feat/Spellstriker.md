@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Spellstriker
-frequency: null
-heighten_level: null
 id: '2948'
 level: '4'
 name: Spellstriker
 prerequisite: '[[DATABASE/feat/Magus Dedication|Magus Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

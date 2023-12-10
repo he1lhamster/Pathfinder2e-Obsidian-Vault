@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Impossible Striker
-frequency: null
-heighten_level: null
 id: '600'
 level: '20'
 name: Impossible Striker
 prerequisite: '[[DATABASE/feat/Sly Striker|Sly Striker]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Rogue|Rogue]]'
-trigger: null
 type: Feat
 
 ---

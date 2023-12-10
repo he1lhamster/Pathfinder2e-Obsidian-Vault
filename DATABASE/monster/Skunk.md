@@ -1,34 +1,23 @@
 ﻿---
 ac: '15'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Spray Musk
 creature_family: '[[DATABASE/monsterfamily/Skunk|Skunk]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+4'
-hardness: null
 hp: '7'
 id: '1310'
-immunity: null
 intelligence: '-4'
 land_speed: '20'
-language: null
 level: '-1'
 max_speed: '20'
 name: Skunk
 perception: '+5'
 rarity: Common
 reflex: '+7'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 40 feet'
@@ -40,19 +29,16 @@ skill:
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 20 feet
-spell: null
 strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+3'
 wisdom: '+1'
 

@@ -1,10 +1,7 @@
 ﻿---
 ac: '24'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Attack of Opportunity
@@ -12,15 +9,10 @@ creature_ability:
 - Forced Regeneration
 - Furious Wallop
 - Rend
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+29'
-hardness: null
 hp: '306'
 id: '1002'
-immunity: null
 intelligence: '-1'
 land_speed: '20'
 language:
@@ -33,10 +25,6 @@ name: Ravenile
 perception: '+25'
 rarity: Rare
 reflex: '+26'
-resistance: null
-rus_type_level: null
-school: null
-sense: null
 size: Large
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +25'
@@ -49,7 +37,6 @@ source: '[[DATABASE/source/Pathfinder 159. All or Nothing|Pathfinder #159: All o
 speed:
 - 20 feet
 - swim 10 feet
-spell: null
 strength: '+8'
 strength_req: '8'
 strongest_save:
@@ -60,7 +47,6 @@ trait:
 - '[[DATABASE/trait/Lizardfolk|Lizardfolk]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
 weakness:

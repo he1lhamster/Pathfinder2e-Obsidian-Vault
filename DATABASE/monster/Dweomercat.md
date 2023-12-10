@@ -1,10 +1,7 @@
 ﻿---
 ac: '25'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Abjuration
@@ -19,15 +16,10 @@ creature_ability:
 - Necromancy
 - Pounce
 - Transmutation
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+12'
-hardness: null
 hp: '100'
 id: '643'
-immunity: null
 intelligence: '+3'
 land_speed: '35'
 language:
@@ -39,9 +31,6 @@ name: Dweomercat
 perception: '+15'
 rarity: Uncommon
 reflex: '+17'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/spell/Detect Magic|detect magic]]'
@@ -66,7 +55,6 @@ strength_req: '4'
 strongest_save:
 - Reflex
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
@@ -74,7 +62,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+17'
 wisdom: '+4'
 

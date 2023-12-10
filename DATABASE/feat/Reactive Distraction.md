@@ -1,10 +1,6 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Reactive Distraction
-frequency: null
-heighten_level: null
 id: '601'
 level: '20'
 name: Reactive Distraction
@@ -12,10 +8,7 @@ prerequisite: Legendary in [[DATABASE/skill/Deception|Deception]] ; [[DATABASE/f
   Distraction|Perfect Distraction]]
 rarity: Common
 requirement: You have Perfect Distraction ready to use.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'

@@ -1,21 +1,18 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Counterspell
-frequency: null
-heighten_level: null
 id: '633'
+leads_to: '[[DATABASE/feat/Clever Counterspell|Clever Counterspell]] , [[DATABASE/feat/Consume
+  Spell|Consume Spell]] , [[DATABASE/feat/Reflect Spell|Reflect Spell]] , [[DATABASE/feat/School
+  Counterspell|School Counterspell]] , [[DATABASE/feat/School Spell Redirection|School
+  Spell Redirection]]'
 level: '1'
 name: Counterspell
-prerequisite: null
 rarity: Common
 requirement: '[Sorcerer] You have an unexpended spell slot you could use to cast the
   triggering spell.'
-rus_type_level: null
 school: Abjuration
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Arcane|Arcane]]'

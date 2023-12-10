@@ -1,19 +1,13 @@
 ﻿---
-area: null
 cost: 100 gp in special wine and symbolic herbs
 duration: 1 day
-element: null
-heighten: null
 heighten_level: '4'
 id: '88'
 level: '4'
 name: Recall Past Life
 primary_check: '[[DATABASE/skill/Occultism|Occultism]] (master) or [[DATABASE/skill/Religion|Religion]]
   (master)'
-range: null
 rarity: Rare
-requirement: null
-rus_type_level: null
 school: Necromancy
 secondary_casters: '2'
 secondary_check: '[[DATABASE/skill/Crafting|Crafting]]'

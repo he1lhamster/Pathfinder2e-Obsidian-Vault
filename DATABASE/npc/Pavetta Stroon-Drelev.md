@@ -1,24 +1,17 @@
 ﻿---
 ac: '25'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Baroness's Scream
 - Release Jewel
 - Stabbing Fit
 - Vengeful Rage
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+15'
 hp: '150'
 id: '2312'
-immunity: null
 intelligence: '+2'
 land_speed: '25'
 language:
@@ -30,9 +23,6 @@ name: Pavetta Stroon-Drelev
 perception: '+19'
 rarity: Unique
 reflex: '+15'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Deception|Deception]] +19'
@@ -45,22 +35,18 @@ skill:
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 speed:
 - 25 feet
-spell: null
 strength: '+0'
 strength_req: '0'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
 - Reflex
-weakness: null
 will: '+21'
 wisdom: '+4'
 

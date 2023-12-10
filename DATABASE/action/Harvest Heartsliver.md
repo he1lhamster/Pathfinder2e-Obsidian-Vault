@@ -1,20 +1,14 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
-frequency: null
 id: '1125'
 name: Harvest Heartsliver
 rarity: Rare
 requirement: You're inside [[DATABASE/monster/Kothogaz, Dance Of Disharmony|Kothogaz's]]
   body.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Monsters of Myth|Monsters of Myth]]'
 trait:
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Action
 
 ---

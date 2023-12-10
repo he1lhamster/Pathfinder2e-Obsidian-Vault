@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Inspire Defense
-frequency: null
-heighten_level: null
 id: '188'
+leads_to: '[[DATABASE/feat/Defensive Coordination|Defensive Coordination]]'
 level: '4'
 name: Inspire Defense
 prerequisite: '[[DATABASE/bardmuse/Maestro|maestro muse]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Bard|Bard]]'
-trigger: null
 type: Feat
 
 ---

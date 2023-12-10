@@ -1,26 +1,16 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Fane's Fourberie
-frequency: null
-heighten_level: null
 id: '2266'
 level: '2'
 name: Fane's Fourberie
-prerequisite: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Rogue|Rogue]]'
 - '[[DATABASE/trait/Stance|Stance]]'
 - '[[DATABASE/trait/Swashbuckler|Swashbuckler]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

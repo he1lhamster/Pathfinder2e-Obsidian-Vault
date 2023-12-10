@@ -1,20 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
 element: Air
 feat: Air Cushion
-frequency: null
 heighten_level: 1, 8
 id: '4207'
 level: '1'
 name: Air Cushion
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Impulse|Impulse]]'

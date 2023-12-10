@@ -1,10 +1,7 @@
 ﻿---
 ac: '16'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Blood Siphon
@@ -12,16 +9,11 @@ creature_ability:
 - Weeping Wounds
 creature_family: '[[DATABASE/monsterfamily/Deadly Flora|Deadly Flora]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+10'
-hardness: null
 hp: '35'
 id: '427'
-immunity: null
 intelligence: '-4'
 land_speed: '20'
-language: null
 level: '2'
 max_speed: '20'
 name: Bloodlash Bush
@@ -31,8 +23,6 @@ reflex: '+8'
 resistance:
 - bludgeoning 5
 - piercing 5
-rus_type_level: null
-school: null
 sense:
 - tremorsense (imprecise) 30 feet
 size: Small
@@ -42,16 +32,13 @@ skill:
 source: '[[DATABASE/source/The Fall of Plaguestone|The Fall of Plaguestone]]'
 speed:
 - 20 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Plant|Plant]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
 weakness:

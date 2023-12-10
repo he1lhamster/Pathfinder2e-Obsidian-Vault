@@ -1,10 +1,7 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Deflecting Cloud
 frequency: once every 10 minutes
-heighten_level: null
 id: '3408'
 level: '16'
 name: Deflecting Cloud
@@ -12,11 +9,8 @@ prerequisite: '[[DATABASE/feat/Dragon Disciple Dedication|Dragon Disciple Dedica
   ; [[DATABASE/spell/Dragon Wings|dragon wings]] sorcerer bloodline spell'
 rarity: Uncommon
 requirement: You are aware of the attack and currently havedragon wingsactive.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 171. Hurricane''s Howl|Pathfinder #171: Hurricane''s
   Howl]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

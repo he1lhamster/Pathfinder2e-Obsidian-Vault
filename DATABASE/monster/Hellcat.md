@@ -1,10 +1,7 @@
 ﻿---
 ac: '25'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Fade into the Light
@@ -12,15 +9,10 @@ creature_ability:
 - Infernal Mindlink
 - Menacing Growl
 - Pounce
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+15'
-hardness: null
 hp: '110'
 id: '695'
-immunity: null
 intelligence: '+0'
 land_speed: '35'
 language:
@@ -35,8 +27,6 @@ reflex: '+17'
 resistance:
 - fire 10
 - physical 5 (except silver)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent (imprecise) 30 feet]]'
@@ -50,12 +40,10 @@ skill:
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 35 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

@@ -1,40 +1,26 @@
 ﻿---
 actions: '[three-actions]'
 area: 1 cube 20 feet on each side
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 1 minute
-element: null
 heighten: 7th
 heighten_level: 5, 7
 id: '1144'
-lesson: null
 level: '5'
-mystery: null
 name: Hologram Cage
-patron_theme: null
 range: 60 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Illusion
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-target: null
-tradition: null
 trait:
 - '[[DATABASE/trait/Cantrip|Cantrip]]'
 - '[[DATABASE/trait/Illusion|Illusion]]'
 - '[[DATABASE/trait/Light|Light]]'
 - '[[DATABASE/trait/Psychic|Psychic]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Cantrip
 
 ---

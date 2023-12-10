@@ -1,32 +1,17 @@
 ﻿---
 actions: '[reaction]'
-area: null
-bloodline: null
 component:
 - Verbal
-cost: null
-deity: null
 domain:
 - '[[DATABASE/domain/Death Domain|Death]]'
 duration: 1 minute
-element: null
-heighten: null
 heighten_level: '1'
 id: '413'
-lesson: null
 level: '1'
-mystery: null
 name: Death's Call
-patron_theme: null
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
-tradition: null
 trait:
 - '[[DATABASE/trait/Cleric|Cleric]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'

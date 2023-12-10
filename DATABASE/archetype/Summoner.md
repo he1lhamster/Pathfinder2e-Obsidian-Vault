@@ -4,9 +4,7 @@ level: '2'
 name: Summoner
 prerequisite: Charisma 14
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-trait: null
 type: Archetype
 
 ---

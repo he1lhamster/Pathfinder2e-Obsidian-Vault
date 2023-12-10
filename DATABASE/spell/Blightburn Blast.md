@@ -1,32 +1,18 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
-heighten: null
 heighten_level: '7'
 id: '651'
-lesson: null
 level: '7'
-mystery: null
 name: Blightburn Blast
-patron_theme: null
 range: 15-foot cone
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 saving_throw: basicFortitude
 school: Evocation
 source: '[[DATABASE/source/Pathfinder 155. Lord of the Black Sands|Pathfinder #155:
   Lord of the Black Sands]]'
-target: null
 tradition:
 - Arcane
 - Occult
@@ -35,7 +21,6 @@ trait:
 - '[[DATABASE/trait/Disease|Disease]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Spell
 
 ---

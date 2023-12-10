@@ -3,7 +3,6 @@ id: '24'
 level: '0'
 name: Nature's Blessing
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Arts|Arts]]'
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'

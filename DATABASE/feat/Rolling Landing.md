@@ -1,24 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Rolling Landing
-frequency: null
-heighten_level: null
 id: '4124'
 level: '2'
 name: Rolling Landing
 prerequisite: '[[DATABASE/feat/Cat Fall|Cat Fall]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Firebrands|Firebrands]]'
 subcategory: acrobatics
 trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Confounding Image
-frequency: null
-heighten_level: null
 id: '3377'
 level: '6'
 name: Confounding Image
 prerequisite: '[[DATABASE/feat/Spell Trickster Dedication|Spell Trickster Dedication]]
   ; ability to cast [[DATABASE/spell/Mirror Image|mirror image]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

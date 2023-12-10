@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Gigaton Strike
-frequency: null
-heighten_level: null
 id: '3064'
 level: '8'
 name: Gigaton Strike
 prerequisite: '[[DATABASE/feat/Megaton Strike|Megaton Strike]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Inventor|Inventor]]'
-trigger: null
 type: Feat
 
 ---

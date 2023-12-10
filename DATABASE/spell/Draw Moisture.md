@@ -1,27 +1,12 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
-component: null
-cost: null
-deity: null
-domain: null
-duration: null
 element: Water
-heighten: null
 heighten_level: '1'
 id: '1387'
-lesson: null
 level: '1'
-mystery: null
 name: Draw Moisture
-patron_theme: null
 range: 10 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 target: 1 object up to 10 Bulk
 tradition:
@@ -33,7 +18,6 @@ trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Water|Water]]'
-trigger: null
 type: Cantrip
 
 ---

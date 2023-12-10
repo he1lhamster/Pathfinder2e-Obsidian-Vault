@@ -5,7 +5,6 @@ name: Jalmeri Heavenseeker
 prerequisite: '[[DATABASE/feat/Student of Perfection Dedication|Student of Perfection
   Dedication]] , or you''ve trained with achampion of the Challenge of Sky and Heaven'
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

@@ -1,25 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Implement's Flight
-frequency: null
-heighten_level: null
 id: '3727'
 level: '16'
 name: Implement's Flight
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Primal|Primal]]'
 - '[[DATABASE/trait/Thaumaturge|Thaumaturge]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Feat
 
 ---

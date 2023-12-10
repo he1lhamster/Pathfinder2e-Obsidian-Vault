@@ -2,9 +2,6 @@
 id: '87'
 name: Pathfinder 168. King of the Mountain
 rarity: Common
-rus_type_level: null
-source: null
-trait: null
 type: Source
 
 ---

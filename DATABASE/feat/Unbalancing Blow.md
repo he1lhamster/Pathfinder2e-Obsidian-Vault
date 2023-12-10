@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Unbalancing Blow
-frequency: null
-heighten_level: null
 id: '559'
 level: '2'
 name: Unbalancing Blow
 prerequisite: '[[DATABASE/rogueracket/Thief|thief racket]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Rogue|Rogue]]'
-trigger: null
 type: Feat
 
 ---

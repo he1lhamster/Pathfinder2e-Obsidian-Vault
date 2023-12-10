@@ -1,23 +1,15 @@
 ﻿---
 actions: '[three-actions]'
-cost: null
-element: null
 feat: Whirlwind Spell
-frequency: null
-heighten_level: null
 id: '2885'
 level: '20'
 name: Whirlwind Spell
 prerequisite: '[[DATABASE/action/Spellstrike|Spellstrike]]'
 rarity: Common
 requirement: Your Spellstrike is charged.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Magus|Magus]]'
-trigger: null
 type: Feat
 
 ---

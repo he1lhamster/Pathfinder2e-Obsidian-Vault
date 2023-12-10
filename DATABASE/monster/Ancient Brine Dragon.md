@@ -1,10 +1,7 @@
 ﻿---
 ac: '40'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Breath Weapon
@@ -21,7 +18,6 @@ dexterity: '+5'
 element: Water
 fly_speed: '140'
 fortitude: '+31'
-hardness: null
 hp: '330'
 id: '623'
 immunity:
@@ -42,9 +38,6 @@ name: Ancient Brine Dragon
 perception: '+32'
 rarity: Rare
 reflex: '+30'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent (imprecise) 60 feet]]'
@@ -84,7 +77,6 @@ vision: Darkvision
 weakest_save:
 - Reflex
 - Will
-weakness: null
 will: '+30'
 wisdom: '+5'
 

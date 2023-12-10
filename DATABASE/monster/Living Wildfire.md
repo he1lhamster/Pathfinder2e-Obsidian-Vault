@@ -1,10 +1,7 @@
 ﻿---
 ac: '22'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Explosion
@@ -12,9 +9,7 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Elemental, Fire|Elemental, Fire]]'
 dexterity: '+4'
 element: Fire
-fly_speed: null
 fortitude: '+11'
-hardness: null
 hp: 80 (explosion)
 id: '188'
 immunity:
@@ -33,9 +28,6 @@ name: Living Wildfire
 perception: '+10'
 rarity: Common
 reflex: '+15'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - smoke vision
@@ -45,12 +37,10 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 50 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Elemental|Elemental]]'
 - '[[DATABASE/trait/Fire|Fire]]'

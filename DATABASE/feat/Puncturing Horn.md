@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Puncturing Horn
-frequency: null
-heighten_level: null
 id: '3967'
+leads_to: '[[DATABASE/feat/Fighting Horn|Fighting Horn]]'
 level: '1'
 name: Puncturing Horn
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Kashrishi|Kashrishi]]'
-trigger: null
 type: Feat
 
 ---

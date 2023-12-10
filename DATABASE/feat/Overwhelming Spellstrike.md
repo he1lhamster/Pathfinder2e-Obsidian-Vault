@@ -1,23 +1,15 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Overwhelming Spellstrike
-frequency: null
-heighten_level: null
 id: '2876'
 level: '12'
 name: Overwhelming Spellstrike
 prerequisite: '[[DATABASE/action/Spellstrike|Spellstrike]]'
 rarity: Common
 requirement: Your Spellstrike is charged.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Magus|Magus]]'
-trigger: null
 type: Feat
 
 ---

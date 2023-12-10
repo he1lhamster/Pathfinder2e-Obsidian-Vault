@@ -1,24 +1,15 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Tandem Strike
-frequency: null
-heighten_level: null
 id: '2915'
 level: '6'
 name: Tandem Strike
-prerequisite: null
 rarity: Common
 requirement: A creature is in your and your eidolon's reach.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Summoner|Summoner]]'
 - '[[DATABASE/trait/Tandem|Tandem]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,19 +1,13 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
-frequency: null
 id: '1236'
 name: Recenter
 rarity: Common
 requirement: You're in a psychic duel and are trained in the skill matching the [[DATABASE/action/Psychic
   Defense|psychic center]] you are changing to.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
-trigger: null
 type: Action
 
 ---

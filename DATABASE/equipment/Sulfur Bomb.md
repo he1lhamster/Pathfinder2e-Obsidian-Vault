@@ -1,45 +1,15 @@
 ﻿---
-ac: null
 actions: '[one-action]'
-alignment: null
-base_item: null
 bulk: L
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '1257'
 item_category: Alchemical Items
 item_subcategory: Alchemical Bombs
-land_speed: null
-level: '17'
-max_speed: null
+level: '3'
 name: Sulfur Bomb
-onset: null
-price: 2,750 gp
-range: null
+price: 12 gp
 rarity: Uncommon
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
-school: null
-size: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
-spell: null
-stage: null
 subcategory: alchemical/bomb
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Acid|Acid]]'
 - '[[DATABASE/trait/Alchemical|Alchemical]]'
@@ -48,12 +18,8 @@ trait:
 - '[[DATABASE/trait/Olfactory|Olfactory]]'
 - '[[DATABASE/trait/Splash|Splash]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Item
 usage: held in 1 hand
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Sulfur Bomb<span class="item-type">Item 1+</span>

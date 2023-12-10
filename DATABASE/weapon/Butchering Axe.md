@@ -1,8 +1,6 @@
 ﻿---
 bulk: '2'
 damage: 1d12 S
-deity: null
-favored_weapon: null
 hands: '2'
 id: '234'
 item_category: Weapons
@@ -10,9 +8,7 @@ item_subcategory: Base Weapons
 level: '0'
 name: Butchering Axe
 price: 8 gp
-range: null
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
 trait:
 - '[[DATABASE/trait/Orc|Orc]]'

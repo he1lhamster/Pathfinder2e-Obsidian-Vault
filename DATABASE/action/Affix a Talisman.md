@@ -1,19 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
-frequency: null
 id: '520'
 name: Affix a Talisman
 rarity: Common
 requirement: You must use a [[DATABASE/equipment/Repair Kit|repair kit]] .
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Exploration|Exploration]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
-trigger: null
 type: Action
 
 ---

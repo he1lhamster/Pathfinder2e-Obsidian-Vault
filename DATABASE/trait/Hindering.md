@@ -2,7 +2,6 @@
 id: '479'
 name: Hindering
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 trait:
 - Hindering

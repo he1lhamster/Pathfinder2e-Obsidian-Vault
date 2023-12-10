@@ -1,25 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Lifesense
-frequency: null
-heighten_level: null
 id: '1370'
 level: '5'
 name: Lifesense
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Divination
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Divination|Divination]]'
 - '[[DATABASE/trait/Divine|Divine]]'
 - '[[DATABASE/trait/Duskwalker|Duskwalker]]'
-trigger: null
 type: Feat
 
 ---

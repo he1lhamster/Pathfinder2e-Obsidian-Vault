@@ -1,10 +1,7 @@
 ﻿---
 ac: '22'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Can't Catch Me
@@ -12,15 +9,10 @@ creature_ability:
 - Slow Susceptibility
 - Sneak Attack
 - Supernatural Speed
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+6'
-hardness: null
 hp: '25'
 id: '778'
-immunity: null
 intelligence: '+3'
 land_speed: '100'
 language:
@@ -33,9 +25,6 @@ name: Quickling
 perception: '+9'
 rarity: Uncommon
 reflex: '+13'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Small
@@ -59,7 +48,6 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Instinctual Interception
-frequency: null
-heighten_level: null
 id: '3585'
 level: '14'
 name: Instinctual Interception
 prerequisite: '[[DATABASE/feat/Knight Vigilant|Knight Vigilant]] ; [[DATABASE/feat/Interrupt
   Charge|Interrupt Charge]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

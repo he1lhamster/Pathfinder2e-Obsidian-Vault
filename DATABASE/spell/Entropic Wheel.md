@@ -1,31 +1,16 @@
 ﻿---
 actions: '[reaction]'
-area: null
-bloodline: null
 component:
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 1 minute
 element: Fire
-heighten: null
 heighten_level: '3'
 id: '1137'
-lesson: null
 level: '3'
-mystery: null
 name: Entropic Wheel
-patron_theme: null
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-target: null
-tradition: null
 trait:
 - '[[DATABASE/trait/Cantrip|Cantrip]]'
 - '[[DATABASE/trait/Cold|Cold]]'

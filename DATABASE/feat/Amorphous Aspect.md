@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Amorphous Aspect
-frequency: null
-heighten_level: null
 id: '2537'
 level: '5'
 name: Amorphous Aspect
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Ganzi|Ganzi]]'
-trigger: null
 type: Feat
 
 ---

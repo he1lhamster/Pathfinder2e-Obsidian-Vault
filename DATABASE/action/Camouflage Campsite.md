@@ -1,20 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
-frequency: null
 id: '1472'
 name: Camouflage Campsite
 rarity: Common
 requirement: trained in [[DATABASE/skill/Stealth|Stealth]]
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
 trait:
 - '[[DATABASE/trait/Camping|Camping]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Secret|Secret]]'
-trigger: null
 type: Action
 
 ---

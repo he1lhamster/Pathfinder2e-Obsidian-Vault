@@ -1,25 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Words of Unraveling
-frequency: null
-heighten_level: null
 id: '2666'
 level: '12'
 name: Words of Unraveling
 prerequisite: '[[DATABASE/feat/Eldritch Researcher Dedication|Eldritch Researcher
   Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 164. Hands of the Devil|Pathfinder #164: Hands
   of the Devil]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

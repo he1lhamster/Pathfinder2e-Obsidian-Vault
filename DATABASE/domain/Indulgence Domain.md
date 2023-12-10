@@ -1,5 +1,4 @@
 ﻿---
-advanced_apocryphal_spell: null
 advanced_domain_spell: '[[DATABASE/spell/Take its Course|Take its Course]]'
 apocryphal_spell: '[[DATABASE/spell/Frenzied Revelry|Frenzied Revelry]]'
 deity:
@@ -27,9 +26,7 @@ domain_spell: '[[DATABASE/spell/Overstuff|Overstuff]]'
 id: '16'
 name: Indulgence Domain
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Domain
 
 ---

@@ -1,7 +1,6 @@
 ﻿---
 id: '48'
 name: Engaged
-source: null
 
 ---
 # Engaged

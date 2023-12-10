@@ -5,28 +5,18 @@ bloodline: '[[DATABASE/sorcererbloodline/Harrow|Harrow]]'
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Abraxas|Abraxas]]'
 - '[[DATABASE/deity/Kols|Kols]]'
 - '[[DATABASE/deity/Kols|Kols]]'
 - '[[DATABASE/deity/Kols|Kols]]'
-domain: null
 duration: varies
-element: null
-heighten: null
 heighten_level: '8'
 id: '351'
-lesson: null
 level: '8'
-mystery: null
 name: Unrelenting Observation
-patron_theme: null
 range: 100 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: 1 creature or object tracked and up to 5 other willing creatures
@@ -36,7 +26,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Divination|Divination]]'
 - '[[DATABASE/trait/Scrying|Scrying]]'
-trigger: null
 type: Spell
 
 ---

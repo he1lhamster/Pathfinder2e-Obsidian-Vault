@@ -6,11 +6,9 @@ ability_boost:
 id: '12'
 name: Performance
 rarity: Common
-rus_type_level: null
 skill:
 - Performance
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Skill
 
 ---

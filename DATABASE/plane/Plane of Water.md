@@ -5,7 +5,6 @@ id: '7'
 name: Plane of Water
 plane_category: Inner Sphere Planes
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
 - '[[DATABASE/trait/Subjective Gravity|Subjective Gravity]]'

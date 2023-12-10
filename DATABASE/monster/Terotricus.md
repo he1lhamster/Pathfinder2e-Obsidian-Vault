@@ -1,7 +1,6 @@
 ﻿---
 ac: '42'
 alignment: CE
-all_resistance: null
 burrow_speed: '25'
 charisma: '+5'
 climb_speed: '25'
@@ -11,12 +10,8 @@ creature_ability:
 - Spore Blight
 - Spore Cloud
 - Sticky Spores
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+34'
-hardness: null
 hp: '370'
 id: '393'
 immunity:
@@ -38,8 +33,6 @@ rarity: Rare
 reflex: '+28'
 resistance:
 - fire 15
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - tremorsense (imprecise) 120 feet
@@ -55,7 +48,6 @@ speed:
 - 35 feet; burrow 25 feet
 - climb 25 feet
 - swim 35 feet
-spell: null
 strength: '+10'
 strength_req: '10'
 strongest_save:

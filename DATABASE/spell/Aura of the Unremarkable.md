@@ -1,32 +1,18 @@
 ﻿---
 actions: '[two-actions]'
 area: 30-foot emanation
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: sustained up to 1 minute
-element: null
-heighten: null
 heighten_level: '6'
 id: '847'
-lesson: null
 level: '6'
-mystery: null
 name: Aura of the Unremarkable
-patron_theme: null
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Illusion
 source: '[[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #166:
   Despair on Danger Island]]'
-target: null
 tradition:
 - Arcane
 - Occult
@@ -34,7 +20,6 @@ trait:
 - '[[DATABASE/trait/Illusion|Illusion]]'
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Spell
 
 ---

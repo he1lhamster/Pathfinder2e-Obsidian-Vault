@@ -1,23 +1,16 @@
 ﻿---
 ac: '44'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+8'
-climb_speed: null
 constitution: '+9'
 creature_ability:
 - Catch Rock
 - Throw Rock
 creature_family: '[[DATABASE/monsterfamily/Fetch|Fetch]]'
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+37'
-hardness: null
 hp: '460'
 id: '2208'
-immunity: null
 intelligence: '+2'
 land_speed: '35'
 language:
@@ -29,9 +22,6 @@ name: Fetch Behemoth
 perception: '+36'
 rarity: Rare
 reflex: '+32'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -58,7 +48,6 @@ strength: '+10'
 strength_req: '10'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Plant|Plant]]'

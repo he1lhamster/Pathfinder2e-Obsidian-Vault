@@ -1,26 +1,19 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Crystal Keeper Dedication
-frequency: null
-heighten_level: null
 id: '1146'
+leads_to: '[[DATABASE/feat/Armor Rune Shifter|Armor Rune Shifter]] , [[DATABASE/feat/Crystal
+  Ward Spells|Crystal Ward Spells]] , [[DATABASE/feat/Simple Crystal Magic|Simple
+  Crystal Magic]] , [[DATABASE/feat/Weapon-Rune Shifter|Weapon-Rune Shifter]]'
 level: '4'
 name: Crystal Keeper Dedication
 prerequisite: Trained in [[DATABASE/skill/Lore|Elven Lore]] or Trained in [[DATABASE/skill/Society|Society]]
 rarity: Rare
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 148. Fires of the Haunted City|Pathfinder #148:
   Fires of the Haunted City]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Feat
 
 ---

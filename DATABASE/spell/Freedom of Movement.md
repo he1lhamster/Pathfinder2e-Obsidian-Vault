@@ -1,28 +1,16 @@
 ﻿---
 actions: '[two-actions]'
-area: null
 bloodline: '[[DATABASE/sorcererbloodline/Elemental|Elemental]]'
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 10 minutes
-element: null
-heighten: null
 heighten_level: '4'
 id: '128'
-lesson: null
 level: '4'
-mystery: null
 name: Freedom of Movement
-patron_theme: null
 range: touch
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: 1 creature touched
@@ -32,7 +20,6 @@ tradition:
 - Primal
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
-trigger: null
 type: Spell
 
 ---

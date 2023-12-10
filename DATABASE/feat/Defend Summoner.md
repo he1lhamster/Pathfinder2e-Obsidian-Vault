@@ -1,25 +1,15 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Defend Summoner
-frequency: null
-heighten_level: null
 id: '2901'
 level: '4'
 name: Defend Summoner
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Eidolon|Eidolon]]'
 - '[[DATABASE/trait/Evolution|Evolution]]'
 - '[[DATABASE/trait/Summoner|Summoner]]'
-trigger: null
 type: Feat
 
 ---

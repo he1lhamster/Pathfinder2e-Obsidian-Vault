@@ -1,21 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Emphatic Emissary
-frequency: null
-heighten_level: null
 id: '4120'
 level: '10'
 name: Emphatic Emissary
 prerequisite: '[[DATABASE/feat/Disarming Smile|Disarming Smile]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 189. Dreamers of the Nameless Spires|Pathfinder
   #189: Dreamers of the Nameless Spires]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 trigger: You roll initiative.

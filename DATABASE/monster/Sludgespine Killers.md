@@ -1,24 +1,16 @@
 ﻿---
 ac: '14'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Pack Attack
 - Stealthy Abduction
 - Weeping Wounds
-creature_family: null
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+6'
-hardness: null
 hp: '8'
 id: '1934'
-immunity: null
 intelligence: '-1'
 land_speed: '25'
 language:
@@ -30,10 +22,6 @@ name: Sludgespine Killers
 perception: '+5'
 rarity: Uncommon
 reflex: '+5'
-resistance: null
-rus_type_level: null
-school: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +5'
@@ -44,22 +32,18 @@ source: '[[DATABASE/source/Pathfinder 178. Punks in a Powderkeg|Pathfinder #178:
   in a Powderkeg]]'
 speed:
 - 25 feet
-spell: null
 strength: '+0'
 strength_req: '0'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Gnoll|Gnoll]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
 - Will
-weakness: null
 will: '+5'
 wisdom: '+2'
 

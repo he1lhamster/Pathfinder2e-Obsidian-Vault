@@ -1,17 +1,8 @@
 ﻿---
-ability: null
-ability_boost: null
-feat: null
 id: '76'
 name: Merabite Prodigy
-prerequisite: null
-rarity: null
-rus_type_level: null
-skill: null
 source: '[[DATABASE/source/World Guide|World Guide]]'
 subcategory: regional
-trait: null
-type: null
 
 ---
 # Merabite Prodigy<span class="item-type">Background</span>

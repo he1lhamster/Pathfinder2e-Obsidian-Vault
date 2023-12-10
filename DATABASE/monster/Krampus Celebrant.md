@@ -1,10 +1,7 @@
 ﻿---
 ac: '27'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Frightful Parade
@@ -12,15 +9,10 @@ creature_ability:
 - Relentless Torment
 - Snowstride
 - Vandal
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+19'
-hardness: null
 hp: '125'
 id: '1732'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -34,8 +26,6 @@ reflex: '+16'
 resistance:
 - '[[DATABASE/trait/Cold|cold]] 10'
 - physical 5
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -55,7 +45,6 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Rare|Rare]]'

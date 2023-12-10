@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Advanced Devotion
-frequency: null
-heighten_level: null
 id: '690'
 level: '6'
 name: Advanced Devotion
 prerequisite: '[[DATABASE/feat/Basic Devotion|Basic Devotion]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

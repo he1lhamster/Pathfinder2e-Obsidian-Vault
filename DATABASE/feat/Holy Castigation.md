@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Holy Castigation
-frequency: null
-heighten_level: null
 id: '268'
+leads_to: '[[DATABASE/feat/Castigating Weapon|Castigating Weapon]]'
 level: '1'
 name: Holy Castigation
 prerequisite: good alignment
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Cleric|Cleric]]'
-trigger: null
 type: Feat
 
 ---

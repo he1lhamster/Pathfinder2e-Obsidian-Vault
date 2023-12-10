@@ -1,20 +1,12 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Life-Giving Magic
 frequency: once per minute
-heighten_level: null
 id: '990'
 level: '1'
 name: Life-Giving Magic
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Gnome|Gnome]]'
 trigger: You cast an innate spell from a gnome heritage or ancestry feat.

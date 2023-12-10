@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Anarchic Arcana
-frequency: null
-heighten_level: null
 id: '2539'
 level: '9'
 name: Anarchic Arcana
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Ganzi|Ganzi]]'
-trigger: null
 type: Feat
 
 ---

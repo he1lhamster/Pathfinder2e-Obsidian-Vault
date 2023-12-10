@@ -1,19 +1,12 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
-frequency: null
 id: '550'
 name: Confident Finisher
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 trait:
 - '[[DATABASE/trait/Finisher|Finisher]]'
 - '[[DATABASE/trait/Swashbuckler|Swashbuckler]]'
-trigger: null
 type: Action
 
 ---

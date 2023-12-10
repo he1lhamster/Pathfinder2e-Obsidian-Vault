@@ -1,10 +1,7 @@
 ﻿---
 ac: '27'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Attack of Opportunity
@@ -14,13 +11,9 @@ creature_ability:
 - Deep Breath
 creature_family: '[[DATABASE/monsterfamily/Lizardfolk|Lizardfolk]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+18'
-hardness: null
 hp: '140'
 id: '1658'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -32,10 +25,6 @@ name: Terwa Chosen
 perception: '+19'
 rarity: Uncommon
 reflex: '+16'
-resistance: null
-rus_type_level: null
-school: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +16'
@@ -48,21 +37,17 @@ source: '[[DATABASE/source/Pathfinder 171. Hurricane''s Howl|Pathfinder #171: Hu
   Howl]]'
 speed:
 - 25 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Lizardfolk|Lizardfolk]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+15'
 wisdom: '+4'
 

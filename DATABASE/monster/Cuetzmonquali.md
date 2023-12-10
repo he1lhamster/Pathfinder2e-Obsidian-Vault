@@ -1,8 +1,6 @@
 ﻿---
 ac: '40'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
 climb_speed: '30'
 constitution: '+8'
@@ -18,12 +16,10 @@ creature_ability:
 - Searing Skin
 - Smoke Vision
 - Trample
-creature_family: null
 dexterity: '+5'
 element: Fire
 fly_speed: '20'
 fortitude: '+32'
-hardness: null
 hp: '360'
 id: '1722'
 immunity:
@@ -43,9 +39,6 @@ name: Cuetzmonquali
 perception: '+32'
 rarity: Unique
 reflex: '+29'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 60 feet'
@@ -62,12 +55,10 @@ speed:
 - 40 feet
 - climb 30 feet
 - fly 20 feet
-spell: null
 strength: '+9'
 strength_req: '9'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Fire|Fire]]'

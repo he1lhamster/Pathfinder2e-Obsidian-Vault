@@ -1,29 +1,21 @@
 ﻿---
 ac: '24'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Charging Leap
 - Cloud Walk
 - Lightning Aura
 - Thunderous Fall
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+16'
-hardness: null
 hp: '110'
 id: '1626'
 immunity:
 - '[[DATABASE/trait/Electricity|electricity]]'
 intelligence: '-2'
 land_speed: '30'
-language: null
 level: '6'
 max_speed: '30'
 name: Mpeshi
@@ -32,8 +24,6 @@ rarity: Rare
 reflex: '+12'
 resistance:
 - '[[DATABASE/trait/Sonic|sonic]] 10'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -45,12 +35,10 @@ source: '[[DATABASE/source/Pathfinder 170. Spoken on the Song Wind|Pathfinder #1
   Spoken on the Song Wind]]'
 speed:
 - 30 feet; cloud walk
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Electricity|Electricity]]'
@@ -59,7 +47,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+14'
 wisdom: '+4'
 

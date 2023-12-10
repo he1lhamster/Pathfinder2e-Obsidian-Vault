@@ -1,48 +1,21 @@
 ﻿---
-ac: null
 actions: '[two-actions]'
-alignment: null
-base_item: null
 bulk: L
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
 duration: 6 rounds
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '831'
 item_category: Alchemical Items
 item_subcategory: Alchemical Poisons
-land_speed: null
 level: '15'
-max_speed: null
 name: Lifeblight Residue
-onset: null
 price: 1,100 gp
-range: null
 rarity: Uncommon
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
 saving_throw: DC 35 Fortitude
-school: null
-size: null
 source: '[[DATABASE/source/Pathfinder 160. Assault on Hunting Lodge Seven|Pathfinder
   #160: Assault on Hunting Lodge Seven]]'
-spell: null
 stage: 'Stage 1: 5d6 negative damage and 3d6 poison damage (1 round)Stage 2: 6d6 negative
   damage and 4d6 poison damage (1 round)Stage 3: 7d6 negative damage and 5d6 poison
   damage (1 round)'
 subcategory: alchemical/poison
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Consumable|Consumable]]'
 - '[[DATABASE/trait/Divine|Divine]]'
@@ -50,12 +23,8 @@ trait:
 - '[[DATABASE/trait/Poison|Poison]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 - '[[DATABASE/trait/Virulent|Virulent]]'
-trigger: null
 type: Item
 usage: held in 2 hands
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Lifeblight Residue<span class="item-type">Item 15</span>

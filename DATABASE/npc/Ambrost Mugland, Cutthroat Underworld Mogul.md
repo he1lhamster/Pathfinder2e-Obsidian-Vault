@@ -1,10 +1,7 @@
 ﻿---
 ac: '26'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Deny Advantage
@@ -13,14 +10,10 @@ creature_ability:
 - Quick Draw
 - Slippery Dodge
 - Sneak Attack
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+15'
 hp: '140'
 id: '1977'
-immunity: null
 intelligence: '+2'
 land_speed: '25'
 language:
@@ -33,9 +26,6 @@ name: Ambrost Mugland
 perception: '+14'
 rarity: Unique
 reflex: '+19'
-resistance: null
-rus_type_level: null
-sense: null
 size: Small
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +16'
@@ -51,21 +41,17 @@ source: '[[DATABASE/source/Pathfinder 179. Cradle of Quartz|Pathfinder #179: Cra
   of Quartz]]'
 speed:
 - 25 feet
-spell: null
 strength: '+1'
 strength_req: '1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Halfling|Halfling]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+17'
 wisdom: '+0'
 

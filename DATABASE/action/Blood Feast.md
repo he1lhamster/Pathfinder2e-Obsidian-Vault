@@ -1,17 +1,9 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
-frequency: null
 id: '1172'
 name: Blood Feast
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-trait: null
-trigger: null
 type: Action
 
 ---

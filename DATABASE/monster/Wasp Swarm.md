@@ -1,20 +1,15 @@
 ﻿---
 ac: '18'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Swarming Stings
 - Wasp Venom
 creature_family: '[[DATABASE/monsterfamily/Wasp|Wasp]]'
 dexterity: '+4'
-element: null
 fly_speed: '40'
 fortitude: '+10'
-hardness: null
 hp: '45'
 id: '406'
 immunity:
@@ -22,7 +17,6 @@ immunity:
 - swarm mind
 intelligence: '-5'
 land_speed: '20'
-language: null
 level: '4'
 max_speed: '40'
 name: Wasp Swarm
@@ -33,8 +27,6 @@ resistance:
 - bludgeoning 7
 - piercing 7
 - slashing 3
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Large
@@ -44,12 +36,10 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 20 feet
 - fly 40 feet
-spell: null
 strength: '-4'
 strength_req: '-4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 - '[[DATABASE/trait/Swarm|Swarm]]'

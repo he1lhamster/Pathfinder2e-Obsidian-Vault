@@ -1,10 +1,7 @@
 ﻿---
 ac: '18'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Attack of Opportunity
@@ -13,10 +10,7 @@ creature_ability:
 - Wicked Bite
 creature_family: '[[DATABASE/monsterfamily/Urdefhan|Urdefhan]]'
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+9'
-hardness: null
 hp: 55 ( negative healing )
 id: '840'
 immunity:
@@ -35,9 +29,6 @@ name: Urdefhan Warrior
 perception: '+9'
 rarity: Common
 reflex: '+8'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 size: Medium
@@ -58,7 +49,6 @@ strength_req: '3'
 strongest_save:
 - Fortitude
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Urdefhan|Urdefhan]]'

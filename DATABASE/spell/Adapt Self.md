@@ -1,37 +1,21 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
 domain:
 - '[[DATABASE/domain/Change Domain|Change]]'
 duration: 1 minute
-element: null
-heighten: null
 heighten_level: '1'
 id: '594'
-lesson: null
 level: '1'
-mystery: null
 name: Adapt Self
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
-target: null
-tradition: null
 trait:
 - '[[DATABASE/trait/Morph|Morph]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Focus
 
 ---

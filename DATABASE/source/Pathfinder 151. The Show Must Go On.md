@@ -2,9 +2,6 @@
 id: '21'
 name: Pathfinder 151. The Show Must Go On
 rarity: Common
-rus_type_level: null
-source: null
-trait: null
 type: Source
 
 ---

@@ -1,5 +1,4 @@
 ﻿---
-alignment: null
 id: '9'
 land_speed: '25'
 language:
@@ -7,7 +6,6 @@ language:
 max_speed: '25'
 name: Plant Eidolon
 rarity: Common
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium

@@ -1,25 +1,15 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Split Hex
-frequency: null
-heighten_level: null
 id: '1589'
 level: '18'
 name: Split Hex
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Metamagic|Metamagic]]'
 - '[[DATABASE/trait/Witch|Witch]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,27 +1,13 @@
 ﻿---
 actions: '[reaction]'
-area: null
-bloodline: null
-component: null
-cost: null
-deity: null
-domain: null
-duration: null
 element: Water
 heighten: '+2'
 heighten_level: 2, 4, 6, 8, 10
 id: '1382'
-lesson: null
 level: '2'
-mystery: null
 name: Brine Dragon Bile
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 target: the creature that took damage
 tradition:

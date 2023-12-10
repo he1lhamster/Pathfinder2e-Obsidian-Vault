@@ -1,28 +1,16 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 1 minute
-element: null
-heighten: null
 heighten_level: '1'
 id: '182'
-lesson: null
 level: '1'
-mystery: null
 name: Magic Weapon
 patron_theme: '[[DATABASE/witchpatron/Rune|Rune]]'
 range: touch
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: 1 weapon that is unattended or wielded by you or a willing ally
@@ -33,7 +21,6 @@ tradition:
 - Elemental
 trait:
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Spell
 
 ---

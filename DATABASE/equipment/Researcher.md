@@ -1,52 +1,14 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '880'
 item_category: Services
 item_subcategory: Researcher
-land_speed: null
 level: '0'
-max_speed: null
 name: Researcher
-onset: null
 price: 50 gp (per day)
-range: null
 rarity: Common
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
-school: null
-size: null
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
-spell: null
-stage: null
 subcategory: service
-swim_speed: null
-trait: null
-trigger: null
 type: Item
-usage: null
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Researcher<span class="item-type">Item 0+</span>

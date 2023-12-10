@@ -1,27 +1,21 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
 element: Fire
 feat: Crimson Breath
 frequency: once per day
-heighten_level: null
 id: '4366'
 level: '12'
 name: Crimson Breath
 prerequisite: '[[DATABASE/feat/Worm Caller Dedication|Worm Caller Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Pathfinder 194. Cult of the Cave Worm|Pathfinder #194:
   Cult of the Cave Worm]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Fire|Fire]]'
 - '[[DATABASE/trait/Primal|Primal]]'
-trigger: null
 type: Feat
 
 ---

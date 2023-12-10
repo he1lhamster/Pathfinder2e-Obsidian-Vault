@@ -1,20 +1,13 @@
 ﻿---
 ac: '28'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Attack of Opportunity
 - Rejuvenation
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+18'
-hardness: null
 hp: 99 ( negative healing , fast healing 10)
 id: '2320'
 immunity:
@@ -40,31 +33,24 @@ resistance:
 - fire 10
 - piercing 10
 - slashing 10
-rus_type_level: null
-school: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +18'
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 speed:
 - 25 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Skeleton|Skeleton]]'
 - '[[DATABASE/trait/Undead|Undead]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
 - Will
-weakness: null
 will: '+16'
 wisdom: '+4'
 

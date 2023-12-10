@@ -1,25 +1,18 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Ranger Dedication
-frequency: null
-heighten_level: null
 id: '722'
+leads_to: '[[DATABASE/feat/Basic Hunter''s Trick|Basic Hunter''s Trick]] , [[DATABASE/feat/Master
+  Spotter (Ranger)|Master Spotter (Ranger)]] , [[DATABASE/feat/Ranger Resiliency|Ranger
+  Resiliency]]'
 level: '2'
 name: Ranger Dedication
 prerequisite: Dexterity 14
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Multiclass|Multiclass]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,20 +1,11 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Reanimating Spark
 frequency: once per day
-heighten_level: null
 id: '3354'
 level: '13'
 name: Reanimating Spark
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Poppet|Poppet]]'
 trigger: You have the [[DATABASE/condition/Dying|dying]] condition and are about to

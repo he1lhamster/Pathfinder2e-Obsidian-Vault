@@ -1,24 +1,17 @@
 ﻿---
 ac: '28'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Drain Bonded Item
 - Efficient Capture
 - Fiend Summoner
 - Superlative Summoner
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+17'
 hp: '170'
 id: '1555'
-immunity: null
 intelligence: '+5'
 land_speed: '25'
 language:
@@ -35,9 +28,6 @@ name: Barushak Il-Varashma
 perception: '+17'
 rarity: Unique
 reflex: '+19'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Arcana|Arcana]] +22'
@@ -84,16 +74,13 @@ strength_req: '2'
 strongest_save:
 - Reflex
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+19'
 wisdom: '+2'
 

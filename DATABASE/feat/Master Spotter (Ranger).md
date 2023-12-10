@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Master Spotter (Ranger)
-frequency: null
-heighten_level: null
 id: '726'
 level: '12'
 name: Master Spotter (Ranger)
 prerequisite: '[[DATABASE/feat/Ranger Dedication|Ranger Dedication]] ; expert in Perception'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

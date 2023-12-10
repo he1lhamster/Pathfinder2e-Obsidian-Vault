@@ -1,26 +1,18 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Zephyr Guard Dedication
-frequency: null
-heighten_level: null
 id: '1154'
+leads_to: '[[DATABASE/feat/Decry Thief|Decry Thief]] , [[DATABASE/feat/Know the Beat|Know
+  the Beat]] , [[DATABASE/feat/Relentless Disarm|Relentless Disarm]] , [[DATABASE/feat/Unfazed
+  Assessment|Unfazed Assessment]]'
 level: '2'
 name: Zephyr Guard Dedication
-prerequisite: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 149. Against the Scarlet Triad|Pathfinder #149:
   Against the Scarlet Triad]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

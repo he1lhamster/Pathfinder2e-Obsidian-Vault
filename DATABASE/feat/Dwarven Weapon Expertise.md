@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Dwarven Weapon Expertise
-frequency: null
-heighten_level: null
 id: '11'
 level: '13'
 name: Dwarven Weapon Expertise
 prerequisite: '[[DATABASE/feat/Dwarven Weapon Familiarity|Dwarven Weapon Familiarity]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Dwarf|Dwarf]]'
-trigger: null
 type: Feat
 
 ---

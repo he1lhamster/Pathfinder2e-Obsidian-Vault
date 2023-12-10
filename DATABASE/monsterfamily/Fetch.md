@@ -3,9 +3,7 @@ creature_family: Fetch
 id: '322'
 name: Fetch
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
-trait: null
 type: Creature Family
 
 ---

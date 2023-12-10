@@ -1,11 +1,8 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Diomazul|Diomazul]]'
 - '[[DATABASE/deity/Diomazul|Diomazul]]'
@@ -17,21 +14,15 @@ deity:
 - '[[DATABASE/deity/The Godclaw|The Godclaw]]'
 - '[[DATABASE/deity/Vildeis|Vildeis]]'
 - '[[DATABASE/deity/Zon-Kuthon|Zon-Kuthon]]'
-domain: null
 duration: 1 minute
-element: null
 heighten: '+1'
 heighten_level: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
 id: '220'
 lesson: '[[DATABASE/witchlesson/Lesson of Vengeance|Lesson of Vengeance]]'
 level: '1'
-mystery: null
 name: Phantom Pain
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Will
 school: Illusion
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -42,7 +33,6 @@ trait:
 - '[[DATABASE/trait/Illusion|Illusion]]'
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Nonlethal|Nonlethal]]'
-trigger: null
 type: Spell
 
 ---

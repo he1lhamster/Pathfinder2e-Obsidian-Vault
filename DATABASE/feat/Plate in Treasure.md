@@ -1,26 +1,17 @@
 ﻿---
 actions: '[one-action]'
-cost: null
 element: Metal
 feat: Plate in Treasure
-frequency: null
-heighten_level: null
 id: '4256'
 level: '4'
 name: Plate in Treasure
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Impulse|Impulse]]'
 - '[[DATABASE/trait/Kineticist|Kineticist]]'
 - '[[DATABASE/trait/Metal|Metal]]'
 - '[[DATABASE/trait/Primal|Primal]]'
-trigger: null
 type: Feat
 
 ---

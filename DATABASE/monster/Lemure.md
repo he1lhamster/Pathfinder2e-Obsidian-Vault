@@ -1,19 +1,13 @@
 ﻿---
 ac: '13'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '-3'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Subservience
 creature_family: '[[DATABASE/monsterfamily/Devil|Devil]]'
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+10'
-hardness: null
 hp: '20'
 id: '108'
 immunity:
@@ -21,7 +15,6 @@ immunity:
 - '[[DATABASE/trait/Mental|mental]]'
 intelligence: '-5'
 land_speed: '20'
-language: null
 level: '0'
 max_speed: '20'
 name: Lemure
@@ -31,8 +24,6 @@ reflex: '+5'
 resistance:
 - physical 3 (except [[DATABASE/equipment/Silver Weapon|silver]] )
 - '[[DATABASE/trait/Poison|poison]] 5'
-rus_type_level: null
-school: null
 sense:
 - greater darkvision
 size: Medium
@@ -41,12 +32,10 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 20 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Devil|Devil]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Precise Debilitations
-frequency: null
-heighten_level: null
 id: '578'
 level: '10'
 name: Precise Debilitations
 prerequisite: '[[DATABASE/rogueracket/Thief|thief racket]] ; [[DATABASE/class_/Rogue|Debilitating
   Strike]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Rogue|Rogue]]'
-trigger: null
 type: Feat
 
 ---

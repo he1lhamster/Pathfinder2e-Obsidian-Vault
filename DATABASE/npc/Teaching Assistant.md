@@ -1,18 +1,12 @@
 ﻿---
 ac: '22'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Necromantic Revitalization
 - Sacrifice Minion
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+9'
 hp: '55'
 id: '2068'
@@ -31,8 +25,6 @@ rarity: Rare
 reflex: '+11'
 resistance:
 - '[[DATABASE/trait/Negative|negative]] 7'
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Arcana|Arcana]] +11'
@@ -61,16 +53,13 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+13'
 wisdom: '+2'
 

@@ -5,9 +5,7 @@ name: Sniping Duo
 prerequisite: trained in at least one type of weapon in the [[DATABASE/weapongroup/Bow|bow]]
   or [[DATABASE/weapongroup/Firearm|firearm]] groups; Trained in [[DATABASE/skill/Stealth|Stealth]]
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-trait: null
 type: Archetype
 
 ---

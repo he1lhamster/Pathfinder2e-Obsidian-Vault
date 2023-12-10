@@ -1,31 +1,7 @@
 ﻿---
-bulk: L
-damage: 1d4 S
-deity:
-- '[[DATABASE/deity/Sifkesh|Sifkesh]]'
-- '[[DATABASE/deity/The Perplexing Jest|ThePerplexing Jest]]'
-favored_weapon: '[[DATABASE/deity/Sifkesh|Sifkesh]] , [[DATABASE/deity/The Perplexing
-  Jest|ThePerplexing Jest]]'
-hands: '1'
-id: '307'
-item_category: Weapons
-item_subcategory: Base Weapons
-level: '0'
+id: '103'
 name: War Razor
-price: 3 sp
-range: null
-rarity: Common
-rus_type_level: null
-source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-trait:
-- '[[DATABASE/trait/Agile|Agile]]'
-- '[[DATABASE/trait/Backstabber|Backstabber]]'
-- '[[DATABASE/trait/Deadly|Deadly d8]]'
-- '[[DATABASE/trait/Finesse|Finesse]]'
-type: Weapon
-weapon_category: Martial
-weapon_group: '[[DATABASE/weapongroup/Knife|Knife]]'
-weapon_type: Melee
+source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
 
 ---
 # War Razor

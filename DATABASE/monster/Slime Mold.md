@@ -1,8 +1,6 @@
 ﻿---
 ac: '12'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
 climb_speed: '10'
 constitution: '+5'
@@ -11,10 +9,7 @@ creature_ability:
 - Slime Rot
 creature_family: '[[DATABASE/monsterfamily/Ooze|Ooze]]'
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+11'
-hardness: null
 hp: '60'
 id: '752'
 immunity:
@@ -25,16 +20,12 @@ immunity:
 - '[[DATABASE/trait/Visual|visual]]'
 intelligence: '-5'
 land_speed: '10'
-language: null
 level: '2'
 max_speed: '10'
 name: Slime Mold
 perception: '+6'
 rarity: Common
 reflex: '+3'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - motion sense 60 feet
 - no vision
@@ -46,21 +37,17 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 10 feet
 - climb 10 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fungus|Fungus]]'
 - '[[DATABASE/trait/Mindless|Mindless]]'
 - '[[DATABASE/trait/Ooze|Ooze]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+4'
 wisdom: '+0'
 

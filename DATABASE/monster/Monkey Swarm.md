@@ -1,8 +1,6 @@
 ﻿---
 ac: '16'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
 climb_speed: '20'
 constitution: '+0'
@@ -12,10 +10,7 @@ creature_ability:
 - Swarming Bites
 creature_family: '[[DATABASE/monsterfamily/Monkey|Monkey]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+6'
-hardness: null
 hp: '20'
 id: '1232'
 immunity:
@@ -23,7 +18,6 @@ immunity:
 - '[[DATABASE/monsterability/Swarm Mind|swarm mind]]'
 intelligence: '-4'
 land_speed: '25'
-language: null
 level: '2'
 max_speed: '25'
 name: Monkey Swarm
@@ -33,9 +27,6 @@ reflex: '+10'
 resistance:
 - piercing 3
 - slashing 3
-rus_type_level: null
-school: null
-sense: null
 size: Large
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +8'
@@ -44,17 +35,14 @@ source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 25 feet
 - climb 20 feet
-spell: null
 strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 - '[[DATABASE/trait/Swarm|Swarm]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
 - Will

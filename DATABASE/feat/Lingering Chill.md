@@ -1,26 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Lingering Chill
-frequency: null
-heighten_level: null
 id: '3751'
 level: '4'
 name: Lingering Chill
 prerequisite: You've been brought to 0 Hit Points by an enemy that has the [[DATABASE/trait/Cold|cold]]
   trait or an enemy's ability that has the cold trait.
 rarity: Rare
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Aftermath|Aftermath]]'
 - '[[DATABASE/trait/Cold|Cold]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Feat
 
 ---

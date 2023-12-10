@@ -3,9 +3,7 @@ creature_family: Zombie
 id: '103'
 name: Zombie
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
-trait: null
 type: Creature Family
 
 ---

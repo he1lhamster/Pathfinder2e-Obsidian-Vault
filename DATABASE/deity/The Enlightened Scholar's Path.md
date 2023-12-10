@@ -32,11 +32,9 @@ follower_alignment:
 id: '251'
 name: The Enlightened Scholar's Path
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Lore|Lore]]'
 source: '[[DATABASE/source/Travel Guide|Travel Guide]]'
-trait: null
 type: Deity
 
 ---

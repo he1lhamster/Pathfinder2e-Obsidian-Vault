@@ -3,10 +3,8 @@ creature_family: Morlock
 id: '211'
 name: Morlock
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 163. Ruins of Gauntlight|Pathfinder #163: Ruins
   of Gauntlight]]'
-trait: null
 type: Creature Family
 
 ---

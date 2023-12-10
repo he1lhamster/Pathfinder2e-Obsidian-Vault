@@ -1,10 +1,7 @@
 ﻿---
 ac: '35'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Atrophic Plague
@@ -15,10 +12,7 @@ creature_ability:
 - Throw Rock
 creature_family: '[[DATABASE/monsterfamily/Giant|Giant]]'
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+27'
-hardness: null
 hp: '285'
 id: '1169'
 immunity:
@@ -34,9 +28,6 @@ name: Plague Giant
 perception: '+25'
 rarity: Common
 reflex: '+24'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Huge
@@ -56,7 +47,6 @@ strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Giant|Giant]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -64,7 +54,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+23'
 wisdom: '+5'
 

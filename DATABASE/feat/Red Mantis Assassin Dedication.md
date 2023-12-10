@@ -1,27 +1,19 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Red Mantis Assassin Dedication
-frequency: null
-heighten_level: null
 id: '895'
+leads_to: '[[DATABASE/feat/Basic Red Mantis Magic|Basic Red Mantis Magic]] , [[DATABASE/feat/Crimson
+  Shroud|Crimson Shroud]] , [[DATABASE/feat/Prayer Attack|Prayer Attack]]'
 level: '2'
 name: Red Mantis Assassin Dedication
 prerequisite: trained in [[DATABASE/weapon/Sawtooth Saber|sawtooth sabers]] ; worshipper
   of [[DATABASE/deity/Achaekek|Achaekek]] ; lawful evil alignment; member of the RedMantis
   assassins
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/World Guide|World Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

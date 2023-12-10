@@ -1,26 +1,17 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Festering Wound
-frequency: null
-heighten_level: null
 id: '3566'
 level: '12'
 name: Festering Wound
 prerequisite: '[[DATABASE/feat/Zombie Dedication|Zombie Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Disease|Disease]]'
 - '[[DATABASE/trait/Divine|Divine]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
-trigger: null
 type: Feat
 
 ---

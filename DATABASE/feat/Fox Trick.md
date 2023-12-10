@@ -1,23 +1,14 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Fox Trick
 frequency: once per hour
-heighten_level: null
 id: '2627'
 level: '9'
 name: Fox Trick
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Kitsune|Kitsune]]'
-trigger: null
 type: Feat
 
 ---

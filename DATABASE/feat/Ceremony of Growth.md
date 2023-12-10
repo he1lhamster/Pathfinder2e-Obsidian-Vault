@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Ceremony of Growth
-frequency: null
-heighten_level: null
 id: '2788'
 level: '13'
 name: Ceremony of Growth
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Conrasu|Conrasu]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,23 +1,16 @@
 ﻿---
 ac: '25'
 alignment: CG
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Arctic Forager
 - Hunt Prey
 - Snow Walker
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+15'
 hp: '115'
 id: '2508'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -30,8 +23,6 @@ name: Ilverani Sentry
 perception: '+17'
 rarity: Rare
 reflex: '+17'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
@@ -45,12 +36,10 @@ source: '[[DATABASE/source/Pathfinder 189. Dreamers of the Nameless Spires|Pathf
   #189: Dreamers of the Nameless Spires]]'
 speed:
 - 25 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Elf|Elf]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -60,7 +49,6 @@ vision: Low-light vision
 weakest_save:
 - Fortitude
 - Will
-weakness: null
 will: '+15'
 wisdom: '+4'
 

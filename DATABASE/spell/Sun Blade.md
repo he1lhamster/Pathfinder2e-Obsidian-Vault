@@ -1,39 +1,25 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
-duration: null
 element: Fire
 heighten: '+1'
 heighten_level: 2, 3, 4, 5, 6, 7, 8, 9, 10
 id: '558'
-lesson: null
 level: '2'
-mystery: null
 name: Sun Blade
-patron_theme: null
 range: 60 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 target: 1 creature
-tradition: null
 trait:
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Fire|Fire]]'
 - '[[DATABASE/trait/Light|Light]]'
 - '[[DATABASE/trait/Positive|Positive]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Focus
 
 ---

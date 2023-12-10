@@ -1,10 +1,7 @@
 ﻿---
 ac: '20'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Divine Destruction
@@ -15,12 +12,8 @@ creature_ability:
 - Instrument of
 - Faith
 - Vulnerable to Gentle Repose
-creature_family: null
 dexterity: '-2'
-element: null
-fly_speed: null
 fortitude: '+14'
-hardness: null
 hp: '60'
 id: '2064'
 immunity:
@@ -42,7 +35,6 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '25'
-language: null
 level: '5'
 max_speed: '25'
 name: Meat Guardian
@@ -51,8 +43,6 @@ rarity: Uncommon
 reflex: '+9'
 resistance:
 - physical 5 (except [[DATABASE/equipment/Adamantine Weapon|adamantine]] or slashing)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -69,7 +59,6 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Divine|Divine]]'
@@ -80,7 +69,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+11'
 wisdom: '+0'
 

@@ -1,8 +1,6 @@
 ﻿---
 ac: '29'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
 climb_speed: '20'
 constitution: '+6'
@@ -12,12 +10,8 @@ creature_ability:
 - Engulf
 - Siphon Soul
 - Soul Facsimile
-creature_family: null
 dexterity: '-3'
-element: null
-fly_speed: null
 fortitude: '+33'
-hardness: null
 hp: '420'
 id: '2426'
 immunity:
@@ -33,16 +27,12 @@ immunity:
 - '[[DATABASE/trait/Visual|visual]]'
 intelligence: '-5'
 land_speed: '20'
-language: null
 level: '18'
 max_speed: '20'
 name: Soul Slime
 perception: '+27'
 rarity: Rare
 reflex: '+24'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Lifesense|lifesense]] 60 feet'
 - no vision
@@ -55,7 +45,6 @@ speed:
 - 20 feet
 - climb 20 feet
 - swim 20 feet
-spell: null
 strength: '+9'
 strength_req: '9'
 strongest_save:
@@ -66,10 +55,8 @@ trait:
 - '[[DATABASE/trait/Ooze|Ooze]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+27'
 wisdom: '+0'
 

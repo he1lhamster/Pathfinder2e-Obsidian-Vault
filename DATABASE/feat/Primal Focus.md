@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Primal Focus
-frequency: null
-heighten_level: null
 id: '342'
+leads_to: '[[DATABASE/feat/Primal Wellspring|Primal Wellspring]]'
 level: '12'
 name: Primal Focus
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Druid|Druid]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,20 +1,11 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Disruptive Stare
-frequency: null
-heighten_level: null
 id: '3995'
 level: '13'
 name: Disruptive Stare
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Nagaji|Nagaji]]'

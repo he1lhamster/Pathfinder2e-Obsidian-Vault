@@ -1,56 +1,22 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
 base_item: '[[DATABASE/weapon/Shield Boss|Shield Boss]]'
 bulk: L
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '671'
 item_category: Shields
 item_subcategory: Specific Shields
-land_speed: null
 level: '20'
-max_speed: null
 name: Shield of the Unified Legion
-onset: null
 price: 70,000 gp
-range: null
 rarity: Uncommon
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
-size: null
 source: '[[DATABASE/source/Pathfinder 156. The Apocalypse Prophet|Pathfinder #156:
   The Apocalypse Prophet]]'
-spell: null
-stage: null
-subcategory: null
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Item
 usage: strapped to 1 hand
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Shield of the Unified Legion<span class="item-type">Item 20</span>

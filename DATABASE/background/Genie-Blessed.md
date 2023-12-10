@@ -3,12 +3,9 @@ ability:
 - Charisma
 ability_boost:
 - Charisma
-feat: null
 id: '241'
 name: Genie-Blessed
-prerequisite: null
 rarity: Rare
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Diplomacy|Diplomacy]]'
 - Genie [[DATABASE/skill/Lore|Lore]]

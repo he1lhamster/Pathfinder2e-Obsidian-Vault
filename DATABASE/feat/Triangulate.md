@@ -1,25 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Triangulate
-frequency: null
-heighten_level: null
 id: '3259'
 level: '4'
 name: Triangulate
 prerequisite: '[[DATABASE/feat/Sniping Duo Dedication|Sniping Duo Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Auditory|Auditory]]'
 - '[[DATABASE/trait/Visual|Visual]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Coughing Dragon Display
-frequency: null
-heighten_level: null
 id: '3246'
 level: '4'
 name: Coughing Dragon Display
 prerequisite: '[[DATABASE/feat/Firework Technician Dedication|Firework Technician
   Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

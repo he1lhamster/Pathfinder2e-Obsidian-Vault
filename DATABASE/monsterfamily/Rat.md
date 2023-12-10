@@ -3,9 +3,7 @@ creature_family: Rat
 id: '86'
 name: Rat
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
-trait: null
 type: Creature Family
 
 ---

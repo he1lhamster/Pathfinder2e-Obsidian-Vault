@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: A Home in Every Port
-frequency: null
-heighten_level: null
 id: '2105'
 level: '11'
 name: A Home in Every Port
 prerequisite: Charisma 16
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Downtime|Downtime]]'
 - '[[DATABASE/trait/General|General]]'
-trigger: null
 type: Feat
 
 ---

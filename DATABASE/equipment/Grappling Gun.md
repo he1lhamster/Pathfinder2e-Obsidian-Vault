@@ -1,53 +1,17 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
 bulk: '2'
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
 hands: '1'
-hardness: null
-hp: null
 id: '1099'
 item_category: Adventuring Gear
-item_subcategory: null
-land_speed: null
-level: '3'
-max_speed: null
+level: '2'
 name: Grappling Gun
-onset: null
-price: 40 gp
-range: null
+price: 25 gp
 rarity: Uncommon
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
-school: null
-size: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-spell: null
-stage: null
 subcategory: adventuringgear
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Item
-usage: null
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Grappling Gun<span class="item-type">Item 0+</span>

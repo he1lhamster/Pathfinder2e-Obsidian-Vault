@@ -1,25 +1,18 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Living Vessel Dedication
-frequency: null
-heighten_level: null
 id: '3815'
+leads_to: '[[DATABASE/feat/Entity''s Strike|Entity''s Strike]] , [[DATABASE/feat/Exude
+  Abyssal Corruption|Exude Abyssal Corruption]] , [[DATABASE/feat/Fey''s Trickery|Fey''s
+  Trickery]] , [[DATABASE/feat/Tap Vitality|Tap Vitality]] , [[DATABASE/feat/Vessel''s
+  Form|Vessel''s Form]] , [[DATABASE/feat/Warped Constriction|Warped Constriction]]'
 level: '2'
 name: Living Vessel Dedication
-prerequisite: null
 rarity: Rare
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,13 +1,10 @@
 ﻿---
 alignment: LN
-element: null
 id: '14'
 name: Axis
 plane_category: Outer Sphere Planes
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
-trait: null
 type: Plane
 
 ---

@@ -5,13 +5,9 @@ ability:
 ability_boost:
 - Wisdom
 - Charisma
-feat: null
 id: '183'
 name: Blessed
-prerequisite: null
 rarity: Rare
-rus_type_level: null
-skill: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: general
 trait:

@@ -1,20 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
-frequency: null
 id: '1477'
 name: Learn from a Companion
 rarity: Common
 requirement: The companion to be learned from must be camping with you, and they must
   be at least [[DATABASE/condition/Friendly|Friendly]] .
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
 trait:
 - '[[DATABASE/trait/Camping|Camping]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
-trigger: null
 type: Action
 
 ---

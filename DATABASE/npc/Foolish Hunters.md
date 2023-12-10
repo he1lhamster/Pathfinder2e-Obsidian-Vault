@@ -1,21 +1,14 @@
 ﻿---
 ac: '16'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Slightly Drunk
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+5'
 hp: '10'
 id: '2161'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -26,9 +19,6 @@ name: Foolish Hunters
 perception: '+9'
 rarity: Common
 reflex: '+7'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +5'
@@ -38,20 +28,16 @@ skill:
 source: '[[DATABASE/source/Crown of the Kobold King|Crown of the Kobold King]]'
 speed:
 - 25 feet
-spell: null
 strength: '+1'
 strength_req: '1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+3'
 wisdom: '+1'
 

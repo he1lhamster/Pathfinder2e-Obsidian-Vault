@@ -1,20 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Shadow Self
 frequency: once per hour
-heighten_level: null
 id: '1436'
 level: '17'
 name: Shadow Self
 prerequisite: Legendary in [[DATABASE/skill/Stealth|Stealth]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Halfling|Halfling]]'
 trigger: You successfully use [[DATABASE/skill/Stealth|Stealth]] to [[DATABASE/action/Hide|Hide]]

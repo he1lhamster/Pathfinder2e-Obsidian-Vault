@@ -1,27 +1,13 @@
 ﻿---
 actions: '[one-action]'
-area: null
-bloodline: null
 component:
 - Verbal
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
-heighten: null
 heighten_level: '1'
 id: '1065'
-lesson: null
 level: '1'
-mystery: null
 name: Invoke True Name
-patron_theme: null
 range: 30 feet
 rarity: Rare
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Enchantment
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 target: 1 creature whose true name you know
@@ -35,7 +21,6 @@ trait:
 - '[[DATABASE/trait/Enchantment|Enchantment]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/True Name|True Name]]'
-trigger: null
 type: Cantrip
 
 ---

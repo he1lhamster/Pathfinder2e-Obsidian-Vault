@@ -1,36 +1,22 @@
 ﻿---
 actions: '[one-action]'
-area: null
-bloodline: null
 component:
 - Somatic
-cost: null
-deity: null
-domain: null
 duration: 1 minute
-element: null
 heighten: 8th
 heighten_level: 4, 8
 id: '1040'
-lesson: null
 level: '4'
-mystery: null
 name: Runic Impression
-patron_theme: null
 range: touch
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 target: you or one weapon you're wielding
-tradition: null
 trait:
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Magus|Magus]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Focus
 
 ---

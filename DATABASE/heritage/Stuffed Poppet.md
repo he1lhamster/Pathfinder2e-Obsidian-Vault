@@ -2,9 +2,7 @@
 id: '189'
 name: Stuffed Poppet
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
-trait: null
 type: Heritage
 
 ---

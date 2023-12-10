@@ -1,7 +1,6 @@
 ﻿---
 id: '42'
 name: Wounded
-source: null
 
 ---
 # Wounded

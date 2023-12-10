@@ -1,21 +1,10 @@
 ﻿---
-ac: null
-all_resistance: null
 complexity: Complex
-element: null
-fortitude: null
-hardness: null
 hazard_type: Trap
-hp: null
 id: '230'
-immunity: null
 level: '15'
 name: Mukradi Summoning Runes
 rarity: Uncommon
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 154. Siege of the Dinosaurs|Pathfinder #154:
   Siege of the Dinosaurs]]'
 trait:
@@ -24,8 +13,6 @@ trait:
 - '[[DATABASE/trait/Trap|Trap]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Mukradi Summoning Runes<span class="item-type">Hazard 15</span>

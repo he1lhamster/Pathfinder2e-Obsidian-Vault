@@ -1,32 +1,20 @@
 ﻿---
 actions: '[two-actions]'
 area: 80-foot burst
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 1 day
-element: null
 heighten: 10th
 heighten_level: 9, 10
 id: '655'
-lesson: null
 level: '9'
-mystery: null
 name: Astral Labyrinth
-patron_theme: null
 range: 120 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Pathfinder 156. The Apocalypse Prophet|Pathfinder #156:
   The Apocalypse Prophet]]'
-target: null
 tradition:
 - Arcane
 - Divine
@@ -35,7 +23,6 @@ trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Incapacitation|Incapacitation]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Spell
 
 ---

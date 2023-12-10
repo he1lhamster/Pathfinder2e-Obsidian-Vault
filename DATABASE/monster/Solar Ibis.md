@@ -1,25 +1,18 @@
 ﻿---
 ac: '25'
 alignment: NG
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Blinding Halo
 - Evasion
 - Ibis Dive
 - Light Shatter
-creature_family: null
 dexterity: '+6'
-element: null
 fly_speed: '60'
 fortitude: '+12'
-hardness: null
 hp: '45'
 id: '1442'
-immunity: null
 intelligence: '+0'
 land_speed: '10'
 language:
@@ -31,9 +24,6 @@ name: Solar Ibis
 perception: '+17'
 rarity: Common
 reflex: '+17'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
@@ -45,19 +35,16 @@ source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
 speed:
 - 10 feet
 - fly 60 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+15'
 wisdom: '+3'
 

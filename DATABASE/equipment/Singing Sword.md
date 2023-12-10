@@ -1,56 +1,22 @@
 ﻿---
-ac: null
-actions: null
 alignment: CG
 base_item: '[[DATABASE/weapon/Longsword|Longsword]]'
 bulk: '1'
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '597'
 item_category: Intelligent Items
-item_subcategory: null
-land_speed: null
 level: '5'
-max_speed: null
 name: Singing Sword
-onset: null
-price: null
-range: null
 rarity: Rare
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Enchantment
-size: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
-spell: null
-stage: null
 subcategory: intelligentitem
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Enchantment|Enchantment]]'
 - '[[DATABASE/trait/Intelligent|Intelligent]]'
 - '[[DATABASE/trait/Occult|Occult]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Item
 usage: held in 1 hand
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Singing Sword<span class="item-type">Item 5</span>

@@ -1,10 +1,7 @@
 ﻿---
 ac: '28'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Coven
@@ -15,10 +12,7 @@ creature_ability:
 - Undead Mien
 creature_family: '[[DATABASE/monsterfamily/Hag|Hag]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+19'
-hardness: null
 hp: '155'
 id: '2055'
 immunity:
@@ -36,9 +30,6 @@ name: Grave Hag
 perception: '+18'
 rarity: Uncommon
 reflex: '+16'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -65,7 +56,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Hag|Hag]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'

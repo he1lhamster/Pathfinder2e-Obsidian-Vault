@@ -1,23 +1,13 @@
 ﻿---
 actions: '[three-actions]'
-cost: null
-element: null
 feat: Overwhelming Blow
-frequency: null
-heighten_level: null
 id: '1730'
 level: '16'
 name: Overwhelming Blow
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fighter|Fighter]]'
-trigger: null
 type: Feat
 
 ---

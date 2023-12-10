@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Arcane Tattoos
-frequency: null
-heighten_level: null
 id: '938'
+leads_to: '[[DATABASE/feat/Ornate Tattoo|Ornate Tattoo]]'
 level: '1'
 name: Arcane Tattoos
-prerequisite: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

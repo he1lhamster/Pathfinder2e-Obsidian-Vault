@@ -2,9 +2,6 @@
 id: '92'
 name: Gods of the Expanse
 rarity: Common
-rus_type_level: null
-source: null
-trait: null
 type: Source
 
 ---

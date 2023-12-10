@@ -1,23 +1,16 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Black Powder Boost
-frequency: null
-heighten_level: null
 id: '3166'
+leads_to: '[[DATABASE/feat/Black Powder Blaze|Black Powder Blaze]] , [[DATABASE/feat/Reach
+  for the Stars|Reach for the Stars]]'
 level: '4'
 name: Black Powder Boost
-prerequisite: null
 rarity: Common
 requirement: You're wielding a loaded firearm.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Gunslinger|Gunslinger]]'
-trigger: null
 type: Feat
 
 ---

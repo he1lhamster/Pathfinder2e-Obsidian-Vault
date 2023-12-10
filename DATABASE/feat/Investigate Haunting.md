@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Investigate Haunting
-frequency: null
-heighten_level: null
 id: '2279'
 level: '4'
 name: Investigate Haunting
 prerequisite: '[[DATABASE/feat/Ghost Hunter Dedication|Ghost Hunter Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 163. Ruins of Gauntlight|Pathfinder #163: Ruins
   of Gauntlight]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

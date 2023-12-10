@@ -1,25 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Lethargy Poisoner
-frequency: null
-heighten_level: null
 id: '2686'
 level: '8'
 name: Lethargy Poisoner
 prerequisite: '[[DATABASE/feat/Drow Shootist Dedication|Drow Shootist Dedication]]
   ; Trained in [[DATABASE/skill/Crafting|Crafting]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 165. Eyes of Empty Death|Pathfinder #165: Eyes
   of Empty Death]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

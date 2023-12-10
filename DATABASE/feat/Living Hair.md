@@ -1,23 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Living Hair
-frequency: null
-heighten_level: null
 id: '1570'
+leads_to: '[[DATABASE/feat/Demon''s Hair|Demon''s Hair]] , [[DATABASE/feat/Syu Tak-Nwa''s
+  Deadly Hair|Syu Tak-Nwa''s Deadly Hair]] , [[DATABASE/feat/Syu Tak-Nwa''s Hexed
+  Locks|Syu Tak-Nwa''s Hexed Locks]] , [[DATABASE/feat/Syu Tak-Nwa''s Skillful Tresses|Syu
+  Tak-Nwa''s Skillful Tresses]]'
 level: '2'
 name: Living Hair
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Witch|Witch]]'
-trigger: null
 type: Feat
 
 ---

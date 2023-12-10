@@ -1,22 +1,15 @@
 ﻿---
 ac: '22'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Captivating Song
-creature_family: null
 dexterity: '+4'
-element: null
 fly_speed: '60'
 fortitude: '+9'
-hardness: null
 hp: '68'
 id: '258'
-immunity: null
 intelligence: '-1'
 land_speed: '20'
 language:
@@ -27,9 +20,6 @@ name: Harpy
 perception: '+12'
 rarity: Common
 reflex: '+15'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -42,19 +32,16 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 20 feet
 - fly 60 feet
-spell: null
 strength: '+1'
 strength_req: '1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+12'
 wisdom: '+1'
 

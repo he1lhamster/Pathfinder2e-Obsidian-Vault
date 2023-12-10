@@ -1,8 +1,6 @@
 ﻿---
 ac: '36'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
 climb_speed: '15'
 constitution: '+4'
@@ -10,14 +8,10 @@ creature_ability:
 - Lasting Debilitating Strike
 - Looming Threat
 - Sneak Attack
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+26'
 hp: '250'
 id: '1482'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -28,9 +22,6 @@ name: Master Xun
 perception: '+25'
 rarity: Rare
 reflex: '+24'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +26'
@@ -43,21 +34,17 @@ source: '[[DATABASE/source/Pathfinder 167. Ready Fight!|Pathfinder #167: Ready? 
 speed:
 - 25 feet
 - climb 15 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+23'
 wisdom: '+3'
 

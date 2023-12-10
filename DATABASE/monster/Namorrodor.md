@@ -1,22 +1,15 @@
 ﻿---
 ac: '22'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Bounding Sprint
 - Interplanar Lifesense
 - Material Leap
 - Whistling Bones
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+12'
-hardness: null
 hp: '85'
 id: '1244'
 immunity:
@@ -27,16 +20,12 @@ immunity:
 - '[[DATABASE/trait/Sleep|sleep]]'
 intelligence: '+3'
 land_speed: '40'
-language: null
 level: '5'
 max_speed: '40'
 name: Namorrodor
 perception: '+11'
 rarity: Common
 reflex: '+14'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Lifesense|lifesense]] 30 feet'
@@ -49,12 +38,10 @@ skill:
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 40 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Shadow|Shadow]]'
 - '[[DATABASE/trait/Undead|Undead]]'

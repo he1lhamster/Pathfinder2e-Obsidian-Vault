@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Spiritual Aid
-frequency: null
-heighten_level: null
 id: '4112'
 level: '12'
 name: Spiritual Aid
 prerequisite: '[[DATABASE/feat/Scion of Domora Dedication|Scion of Domora Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 188. They Watched the Stars|Pathfinder #188:
   They Watched the Stars]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

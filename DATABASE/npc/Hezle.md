@@ -1,20 +1,14 @@
 ﻿---
 ac: '27'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Kobold Explosives
 - Smoky Retreat
 - Sneak Attack
 - Staff Mastery
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+14'
 hp: '122'
 id: '1544'
@@ -32,8 +26,6 @@ name: Hezle
 perception: '+14'
 rarity: Unique
 reflex: '+18'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -48,12 +40,10 @@ source: '[[DATABASE/source/Pathfinder 146. Cult of Cinders|Pathfinder #146: Cult
   Cinders]]'
 speed:
 - 25 feet
-spell: null
 strength: '-1'
 strength_req: '-1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Kobold|Kobold]]'
@@ -62,7 +52,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+16'
 wisdom: '+2'
 

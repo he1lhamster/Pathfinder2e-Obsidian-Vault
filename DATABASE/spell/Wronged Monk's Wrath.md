@@ -1,40 +1,25 @@
 ﻿---
 actions: '[one-action]'
 area: 5-foot emanation or more
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
 heighten: '+2'
 heighten_level: 5, 7, 9
 id: '849'
-lesson: null
 level: '5'
-mystery: null
 name: Wronged Monk's Wrath
-patron_theme: null
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 saving_throw: Reflex
 school: Evocation
 source: '[[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #166:
   Despair on Danger Island]]'
-target: null
-tradition: null
 trait:
 - '[[DATABASE/trait/Electricity|Electricity]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Force|Force]]'
 - '[[DATABASE/trait/Monk|Monk]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Focus
 
 ---

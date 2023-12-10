@@ -1,22 +1,16 @@
 ﻿---
 ac: '22'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Sage's Analysis
 - Timely Advice
 creature_family: '[[DATABASE/monsterfamily/Scholars|Scholars]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+10'
 hp: '86'
 id: '950'
-immunity: null
 intelligence: '+4'
 land_speed: '25'
 language:
@@ -27,9 +21,6 @@ name: Sage
 perception: '+14'
 rarity: Common
 reflex: '+12'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Arcana|Arcana]] +12'
@@ -42,20 +33,16 @@ skill:
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 speed:
 - 25 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+16'
 wisdom: '+3'
 

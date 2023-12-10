@@ -1,18 +1,11 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Scare to Death
-frequency: null
-heighten_level: null
 id: '837'
 level: '15'
 name: Scare to Death
 prerequisite: Legendary in [[DATABASE/skill/Intimidation|Intimidation]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: intimidation
 trait:
@@ -21,7 +14,6 @@ trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Incapacitation|Incapacitation]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

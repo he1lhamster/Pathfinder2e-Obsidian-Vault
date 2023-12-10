@@ -1,20 +1,13 @@
 ﻿---
 ac: '21'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Cytillesh Glare
 - Vulnerable to Sunlight
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+8'
-hardness: null
 hp: '50'
 id: '2746'
 immunity:
@@ -30,9 +23,6 @@ name: Zaiox
 perception: '+7'
 rarity: Unique
 reflex: '+11'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -65,7 +55,6 @@ strength: '+1'
 strength_req: '1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dero|Dero]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'

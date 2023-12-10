@@ -1,21 +1,10 @@
 ﻿---
-ac: null
-all_resistance: null
 complexity: Complex
-element: null
-fortitude: null
-hardness: null
 hazard_type: Environmental
-hp: null
 id: '397'
-immunity: null
 level: '19'
 name: The Avalanche
 rarity: Unique
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 192. Worst of All Possible Worlds|Pathfinder
   #192: Worst of All Possible Worlds]]'
 trait:
@@ -23,8 +12,6 @@ trait:
 - '[[DATABASE/trait/Environmental|Environmental]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # The Avalanche<span class="item-type">Hazard 19</span>

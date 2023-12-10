@@ -1,20 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Turn Back the Clock
 frequency: once per day
-heighten_level: null
 id: '3848'
 level: '4'
 name: Turn Back the Clock
 prerequisite: '[[DATABASE/feat/Chronoskimmer Dedication|Chronoskimmer Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'

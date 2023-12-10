@@ -1,10 +1,7 @@
 ﻿---
 ac: '45'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+10'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Evisceration
@@ -18,10 +15,8 @@ creature_ability:
 - Shadow Traveler
 creature_family: '[[DATABASE/monsterfamily/Velstrac|Velstrac]]'
 dexterity: '+6'
-element: null
 fly_speed: '50'
 fortitude: '+37'
-hardness: null
 hp: '375'
 id: '852'
 immunity:
@@ -41,9 +36,6 @@ name: Eremite
 perception: '+34'
 rarity: Common
 reflex: '+32'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 - painsight
@@ -80,7 +72,6 @@ strength: '+9'
 strength_req: '9'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fiend|Fiend]]'
 - '[[DATABASE/trait/Velstrac|Velstrac]]'

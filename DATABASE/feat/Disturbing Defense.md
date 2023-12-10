@@ -1,23 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Disturbing Defense
-frequency: null
-heighten_level: null
 id: '2186'
+leads_to: '[[DATABASE/feat/Peculiar Anatomy|Peculiar Anatomy]] , [[DATABASE/feat/Rubbery
+  Skin|Rubbery Skin]]'
 level: '4'
 name: Disturbing Defense
 prerequisite: '[[DATABASE/feat/Oozemorph Dedication|Oozemorph Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/The Slithering|The Slithering]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

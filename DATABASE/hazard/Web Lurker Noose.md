@@ -1,28 +1,18 @@
 ﻿---
 ac: '18'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+11'
-hardness: null
 hazard_type: Trap
-hp: null
 id: '31'
-immunity: null
 level: '2'
 name: Web Lurker Noose
 rarity: Common
 reflex: '+5'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait:
 - '[[DATABASE/trait/Mechanical|Mechanical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Web Lurker Noose<span class="item-type">Hazard 2</span>

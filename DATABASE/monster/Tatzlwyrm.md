@@ -1,20 +1,14 @@
 ﻿---
 ac: '18'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
 climb_speed: '30'
 constitution: '+3'
 creature_ability:
 - Natural Camouflage
 - Poison Gasp
-creature_family: null
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+11'
-hardness: null
 hp: '30'
 id: '822'
 immunity:
@@ -30,9 +24,6 @@ name: Tatzlwyrm
 perception: '+8'
 rarity: Common
 reflex: '+5'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -46,19 +37,16 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 30 feet
 - climb 30 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dragon|Dragon]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+8'
 wisdom: '+2'
 

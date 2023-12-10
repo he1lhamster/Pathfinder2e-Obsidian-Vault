@@ -4,9 +4,7 @@ level: '2'
 name: Mauler
 prerequisite: Strength 14
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-trait: null
 type: Archetype
 
 ---

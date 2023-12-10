@@ -1,25 +1,16 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Positioning Assault
-frequency: null
-heighten_level: null
 id: '393'
 level: '8'
 name: Positioning Assault
-prerequisite: null
 rarity: Common
 requirement: You are wielding a two-handed melee weapon and your target is within
   your reach.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fighter|Fighter]]'
 - '[[DATABASE/trait/Flourish|Flourish]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,10 +1,7 @@
 ﻿---
 ac: '16'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Piping Dirge
@@ -13,10 +10,7 @@ creature_ability:
 - Slow
 creature_family: '[[DATABASE/monsterfamily/Zombie|Zombie]]'
 dexterity: '-3'
-element: null
-fly_speed: null
 fortitude: '+11'
-hardness: null
 hp: 95 ( negative healing )
 id: '2036'
 immunity:
@@ -36,9 +30,6 @@ name: Dirge Piper
 perception: '+8'
 rarity: Rare
 reflex: '+4'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -48,12 +39,10 @@ skill:
 source: '[[DATABASE/source/Pathfinder 181. Zombie Feast|Pathfinder #181: Zombie Feast]]'
 speed:
 - 25 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Undead|Undead]]'

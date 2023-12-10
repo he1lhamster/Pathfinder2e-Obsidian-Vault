@@ -18,15 +18,12 @@ domain:
 - '[[DATABASE/domain/Vigil Domain|Vigil]]'
 - '[[DATABASE/domain/Void Domain|Void]]'
 favored_weapon: '[[DATABASE/weapon/Pick|Pick]]'
-follower_alignment: null
 id: '273'
 name: Ferrumnestra
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]]'
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-trait: null
 type: Deity
 
 ---

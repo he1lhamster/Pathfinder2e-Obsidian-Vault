@@ -1,10 +1,6 @@
 ﻿---
 ac: '22'
-alignment: null
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Dig In
@@ -12,9 +8,7 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Elemental, Wood|Elemental, Wood]]'
 dexterity: '+4'
 element: Wood
-fly_speed: null
 fortitude: '+13'
-hardness: null
 hp: '92'
 id: '2675'
 immunity:
@@ -24,17 +18,12 @@ immunity:
 - '[[DATABASE/trait/Sleep|sleep]]'
 intelligence: '+0'
 land_speed: '25'
-language: null
 level: '6'
 max_speed: '25'
 name: Carved Beast
 perception: '+16'
 rarity: Common
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Nature|Nature]] +15'
@@ -42,18 +31,15 @@ skill:
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 speed:
 - 25 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Elemental|Elemental]]'
 - '[[DATABASE/trait/Plant|Plant]]'
 - '[[DATABASE/trait/Wood|Wood]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
 weakness:

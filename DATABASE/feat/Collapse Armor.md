@@ -1,10 +1,6 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Collapse Armor
-frequency: null
-heighten_level: null
 id: '3051'
 level: '2'
 name: Collapse Armor
@@ -12,15 +8,11 @@ prerequisite: '[[DATABASE/inventorinnovation/Armor Innovation|armor innovation]]
 rarity: Common
 requirement: You are wearing your armor innovation, or holding it in both hands in
   its compact form (see text).
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Inventor|Inventor]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Modification|Modification]]'
-trigger: null
 type: Feat
 
 ---

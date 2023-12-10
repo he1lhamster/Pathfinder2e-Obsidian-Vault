@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Gnoll Weapon Familiarity
-frequency: null
-heighten_level: null
 id: '2792'
+leads_to: '[[DATABASE/feat/Gnoll Weapon Practicality|Gnoll Weapon Practicality]]'
 level: '1'
 name: Gnoll Weapon Familiarity
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Gnoll|Gnoll]]'
-trigger: null
 type: Feat
 
 ---

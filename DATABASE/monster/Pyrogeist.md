@@ -2,21 +2,16 @@
 ac: '29'
 alignment: CE
 all_resistance: '5'
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Breath Weapon
 - Pyrokinetic Whirlwind
 - Rejuvenation
 - Soul Consumption
-creature_family: null
 dexterity: '+7'
-element: null
 fly_speed: '40'
 fortitude: '+16'
-hardness: null
 hp: 130 ( negative healing )
 id: '2156'
 immunity:
@@ -27,7 +22,6 @@ immunity:
 - '[[DATABASE/trait/Poison|poison]]'
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-1'
-land_speed: null
 language:
 - '[[DATABASE/language/Common|Common]]'
 - '[[DATABASE/language/Necril|Necril]]'
@@ -43,8 +37,6 @@ resistance:
 - or positive
 - double resistanceagainst non- [[DATABASE/trait/Magical|magical]] )
 - channeling resistance (see below)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -66,7 +58,6 @@ strength: '-5'
 strength_req: '-5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Incorporeal|Incorporeal]]'
 - '[[DATABASE/trait/Spirit|Spirit]]'
@@ -76,7 +67,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+18'
 wisdom: '+3'
 

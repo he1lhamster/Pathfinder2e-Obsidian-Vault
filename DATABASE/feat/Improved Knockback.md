@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Improved Knockback
-frequency: null
-heighten_level: null
 id: '470'
 level: '12'
 name: Improved Knockback
 prerequisite: Master in [[DATABASE/skill/Athletics|Athletics]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Monk|Monk]]'
-trigger: null
 type: Feat
 
 ---

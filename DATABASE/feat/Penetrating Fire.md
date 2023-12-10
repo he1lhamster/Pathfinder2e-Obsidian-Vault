@@ -1,23 +1,14 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Penetrating Fire
-frequency: null
-heighten_level: null
 id: '3184'
 level: '10'
 name: Penetrating Fire
-prerequisite: null
 rarity: Common
 requirement: You're wielding a loaded firearm or crossbow.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Gunslinger|Gunslinger]]'
-trigger: null
 type: Feat
 
 ---

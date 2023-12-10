@@ -1,7 +1,5 @@
 ﻿---
-advanced_apocryphal_spell: null
 advanced_domain_spell: '[[DATABASE/spell/Lucky Break|Lucky Break]]'
-apocryphal_spell: null
 deity:
 - '[[DATABASE/deity/Bes|Bes]]'
 - '[[DATABASE/deity/Chaldira|Chaldira]]'
@@ -20,9 +18,7 @@ domain_spell: '[[DATABASE/spell/Bit of Luck|Bit of Luck]]'
 id: '18'
 name: Luck Domain
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Domain
 
 ---

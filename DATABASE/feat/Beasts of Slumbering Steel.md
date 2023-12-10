@@ -1,26 +1,17 @@
 ﻿---
 actions: '[three-actions]'
-cost: null
 element: Metal
 feat: Beasts of Slumbering Steel
-frequency: null
-heighten_level: null
 id: '4264'
 level: '18'
 name: Beasts of Slumbering Steel
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Impulse|Impulse]]'
 - '[[DATABASE/trait/Kineticist|Kineticist]]'
 - '[[DATABASE/trait/Metal|Metal]]'
 - '[[DATABASE/trait/Primal|Primal]]'
-trigger: null
 type: Feat
 
 ---

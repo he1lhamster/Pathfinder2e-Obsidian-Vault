@@ -1,10 +1,7 @@
 ﻿---
 ac: '18'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Aquatic Ambush
@@ -14,10 +11,7 @@ creature_ability:
 - Paralyzing Spew
 creature_family: '[[DATABASE/monsterfamily/Ghoul|Ghoul]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+7'
-hardness: null
 hp: 32 ( negative healing )
 id: '1865'
 immunity:
@@ -38,9 +32,6 @@ name: Lacedon
 perception: '+7'
 rarity: Common
 reflex: '+10'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - corpse scent (imprecise)
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
@@ -54,7 +45,6 @@ source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 speed:
 - 25 feet
 - swim 30 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
@@ -69,7 +59,6 @@ vision: Darkvision
 weakest_save:
 - Fortitude
 - Will
-weakness: null
 will: '+7'
 wisdom: '+1'
 

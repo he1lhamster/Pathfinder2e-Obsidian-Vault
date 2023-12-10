@@ -1,24 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Collateral Thrash
-frequency: null
-heighten_level: null
 id: '171'
+leads_to: '[[DATABASE/feat/Whirlwind Toss|Whirlwind Toss]]'
 level: '16'
 name: Collateral Thrash
 prerequisite: '[[DATABASE/feat/Thrash|Thrash]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Barbarian|Barbarian]]'
 - '[[DATABASE/trait/Rage|Rage]]'
-trigger: null
 type: Feat
 
 ---

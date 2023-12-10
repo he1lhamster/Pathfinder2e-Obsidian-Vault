@@ -1,22 +1,15 @@
 ﻿---
 ac: '38'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Flaying Flurry
 - Muscular Leap
 - Tear Skin
 - Wear Skin
-creature_family: null
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+27'
-hardness: null
 hp: '275'
 id: '1855'
 immunity:
@@ -36,9 +29,6 @@ name: Ecorche
 perception: '+27'
 rarity: Common
 reflex: '+30'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -50,12 +40,10 @@ skill:
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 speed:
 - 25 feet
-spell: null
 strength: '+9'
 strength_req: '9'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Undead|Undead]]'
 type: Creature
@@ -63,7 +51,6 @@ vision: Darkvision
 weakest_save:
 - Fortitude
 - Will
-weakness: null
 will: '+27'
 wisdom: '+5'
 

@@ -1,24 +1,15 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Smite Evil
-frequency: null
-heighten_level: null
 id: '230'
 level: '6'
 name: Smite Evil
 prerequisite: '[[DATABASE/class_/Champion|divine ally (blade)]] ; [[DATABASE/championtenet/Good|tenets
   of good]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Champion|Champion]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,20 +1,12 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Furious Vengeance
-frequency: null
-heighten_level: null
 id: '1628'
 level: '16'
 name: Furious Vengeance
 prerequisite: '[[DATABASE/barbarianinstinct/Fury Instinct|fury instinct]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Barbarian|Barbarian]]'
 - '[[DATABASE/trait/Rage|Rage]]'

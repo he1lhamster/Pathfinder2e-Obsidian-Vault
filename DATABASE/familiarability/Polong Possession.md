@@ -1,14 +1,10 @@
 ﻿---
 ability_type: Specific Familiar - Polong
 actions: '[two-actions]'
-frequency: null
 id: '83'
 name: Polong Possession
 rarity: Common
-requirement: null
-rus_type_level: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-trait: null
 type: Familiar Ability
 
 ---

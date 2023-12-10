@@ -5,7 +5,6 @@ id: '1'
 level: '1'
 name: Infantry Army
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
 - '[[DATABASE/trait/Infantry|Infantry]]'

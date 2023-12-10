@@ -1,20 +1,13 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Escape Timeline
 frequency: once per day
-heighten_level: null
 id: '3855'
 level: '12'
 name: Escape Timeline
 prerequisite: '[[DATABASE/feat/Chronoskimmer Dedication|Chronoskimmer Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 trigger: Your turn begins.

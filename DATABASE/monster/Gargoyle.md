@@ -1,23 +1,17 @@
 ﻿---
 ac: '21'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Clawed Feet
 - Statue
-creature_family: null
 dexterity: '+2'
 element: Earth
 fly_speed: '40'
 fortitude: '+13'
-hardness: null
 hp: '40'
 id: '210'
-immunity: null
 intelligence: '-2'
 land_speed: '25'
 language:
@@ -31,8 +25,6 @@ rarity: Common
 reflex: '+10'
 resistance:
 - physical 5 (except adamantine)
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -44,12 +36,10 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 25 feet
 - fly 40 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Earth|Earth]]'
@@ -58,7 +48,6 @@ vision: Darkvision
 weakest_save:
 - Reflex
 - Will
-weakness: null
 will: '+10'
 wisdom: '+2'
 

@@ -1,10 +1,7 @@
 ﻿---
 ac: '17'
 alignment: CG
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Ancestry Feats
@@ -12,14 +9,10 @@ creature_ability:
 - Class Feats
 - Halfling Luck
 - Skill Feats
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+4'
 hp: '15'
 id: '2395'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -32,8 +25,6 @@ name: Linzi (Level 1)
 perception: '+6'
 rarity: Unique
 reflex: '+6'
-resistance: null
-rus_type_level: null
 sense:
 - (expert) keen eyes
 size: Small
@@ -67,16 +58,13 @@ strength_req: '-1'
 strongest_save:
 - Reflex
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Halfling|Halfling]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+6'
 wisdom: '+1'
 

@@ -1,8 +1,6 @@
 ﻿---
 ac: '28'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+20'
 hardness: 14 Magnet Hardness
 hazard_type: Trap
@@ -16,9 +14,6 @@ level: '7'
 name: Life Magnet
 rarity: Common
 reflex: '+18'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 158. Sixty Feet Under|Pathfinder #158: Sixty
   Feet Under]]'
 trait:
@@ -26,8 +21,6 @@ trait:
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Life Magnet<span class="item-type">Hazard 7</span>

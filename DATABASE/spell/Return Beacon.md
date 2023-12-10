@@ -1,33 +1,19 @@
 ﻿---
-actions: null
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 1 hour
-element: null
 heighten: 7th, 8th, 9th, 10th
 heighten_level: 5, 7, 8, 9, 10
 id: '848'
-lesson: null
 level: '5'
-mystery: null
 name: Return Beacon
-patron_theme: null
 range: 30 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #166:
   Despair on Danger Island]]'
-target: null
 tradition:
 - Arcane
 - Occult
@@ -35,7 +21,6 @@ trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Teleportation|Teleportation]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Spell
 
 ---

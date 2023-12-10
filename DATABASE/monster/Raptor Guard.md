@@ -1,10 +1,7 @@
 ﻿---
 ac: '34'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Attack of Opportunity
@@ -13,12 +10,8 @@ creature_ability:
 - Hungry Spear
 - Terror Master
 - Wight Spawn
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+26'
-hardness: null
 hp: 240 ( negative healing )
 id: '2128'
 immunity:
@@ -39,9 +32,6 @@ name: Raptor Guard
 perception: '+22'
 rarity: Rare
 reflex: '+23'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -55,12 +45,10 @@ source: '[[DATABASE/source/Pathfinder 155. Lord of the Black Sands|Pathfinder #1
   Lord of the Black Sands]]'
 speed:
 - 25 feet
-spell: null
 strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Undead|Undead]]'
@@ -68,7 +56,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+21'
 wisdom: '+3'
 

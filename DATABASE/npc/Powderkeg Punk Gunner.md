@@ -1,24 +1,17 @@
 ﻿---
 ac: '16'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Blaze of Glory
 - Gut Shot
 - Sneak Attack
 - Toss and Shoot
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+5'
 hp: '13'
 id: '1937'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -30,9 +23,6 @@ name: Powderkeg Punk Gunner
 perception: '+4'
 rarity: Uncommon
 reflex: '+6'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +5'
@@ -45,17 +35,14 @@ source: '[[DATABASE/source/Pathfinder 178. Punks in a Powderkeg|Pathfinder #178:
   in a Powderkeg]]'
 speed:
 - 25 feet
-spell: null
 strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
 weakness:

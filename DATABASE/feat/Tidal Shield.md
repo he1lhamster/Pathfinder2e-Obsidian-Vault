@@ -1,27 +1,20 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
 element: Water
 feat: Tidal Shield
 frequency: once per day
-heighten_level: null
 id: '2616'
 level: '17'
 name: Tidal Shield
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Abjuration
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Primal|Primal]]'
 - '[[DATABASE/trait/Undine|Undine]]'
 - '[[DATABASE/trait/Water|Water]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,24 +1,18 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Duelist Dedication
-frequency: null
-heighten_level: null
 id: '1956'
+leads_to: '[[DATABASE/feat/Duelist''s Challenge|Duelist''s Challenge]] , [[DATABASE/feat/Selfless
+  Parry|Selfless Parry]] , [[DATABASE/feat/Student of the Dueling Arts|Student of
+  the Dueling Arts]] , [[DATABASE/feat/Tut-Tut|Tut-Tut]] , [[DATABASE/feat/Watch This!|Watch
+  This!]]'
 level: '2'
 name: Duelist Dedication
 prerequisite: trained in light armor and simple weapons
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
-trigger: null
 type: Feat
 
 ---

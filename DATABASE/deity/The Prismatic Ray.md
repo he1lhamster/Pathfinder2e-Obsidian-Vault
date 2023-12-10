@@ -29,11 +29,9 @@ follower_alignment:
 id: '207'
 name: The Prismatic Ray
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Diplomacy|Diplomacy]]'
 source: '[[DATABASE/source/Friends in High Places|Friends in High Places]]'
-trait: null
 type: Deity
 
 ---

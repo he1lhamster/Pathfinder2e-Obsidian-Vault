@@ -1,10 +1,7 @@
 ﻿---
 ac: '44'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Absorb Worldly Influence
@@ -15,14 +12,10 @@ creature_ability:
 - Negate Projectiles
 - Release Worldly Passions
 - Stunning Flurry
-creature_family: null
 dexterity: '+8'
-element: null
-fly_speed: null
 fortitude: '+33'
 hp: '350'
 id: '1515'
-immunity: null
 intelligence: '+5'
 land_speed: '40'
 language:
@@ -35,8 +28,6 @@ name: Abbot Tsujon
 perception: '+33'
 rarity: Unique
 reflex: '+36'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
@@ -60,7 +51,6 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Samsaran|Samsaran]]'
@@ -69,7 +59,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+34'
 wisdom: '+6'
 

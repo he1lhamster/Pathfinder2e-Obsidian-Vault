@@ -1,20 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Spiritual Guides
 frequency: once per day
-heighten_level: null
 id: '1607'
 level: '4'
 name: Spiritual Guides
 prerequisite: '[[DATABASE/barbarianinstinct/Spirit Instinct|spirit instinct]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Barbarian|Barbarian]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'

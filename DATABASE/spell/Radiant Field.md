@@ -1,33 +1,21 @@
 ﻿---
 actions: '[three-actions]'
 area: 20-foot burst
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 1 minute
-element: null
 heighten: 4th
 heighten_level: 2, 4
 id: '1084'
-lesson: null
 level: '2'
-mystery: null
 name: Radiant Field
-patron_theme: null
 range: 120 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Pathfinder 172. Secrets of the Temple City|Pathfinder #172:
   Secrets of the Temple City]]'
-target: null
 tradition:
 - Arcane
 - Divine
@@ -37,7 +25,6 @@ trait:
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Light|Light]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Spell
 
 ---

@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Eye of Ozem
-frequency: null
-heighten_level: null
 id: '883'
 level: '4'
 name: Eye of Ozem
 prerequisite: '[[DATABASE/feat/Lastwall Sentry Dedication|Lastwall Sentry Dedication]]
   ; expert in Perception'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/World Guide|World Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

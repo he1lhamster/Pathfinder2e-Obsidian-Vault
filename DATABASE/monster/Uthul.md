@@ -1,22 +1,17 @@
 ﻿---
 ac: '36'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - High Winds
 - Lightning Crash
 - Swiftness
 - Whirlwind Form
-creature_family: null
 dexterity: '+7'
 element: Air
 fly_speed: '100'
 fortitude: '+28'
-hardness: null
 hp: '250'
 id: '398'
 immunity:
@@ -25,7 +20,6 @@ immunity:
 - poison
 - sleep
 intelligence: '-1'
-land_speed: null
 language:
 - '[[DATABASE/language/Auran|Auran]]'
 level: '14'
@@ -34,9 +28,6 @@ name: Uthul
 perception: '+20'
 rarity: Common
 reflex: '+29'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Huge
@@ -48,12 +39,10 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - fly 100 feet; swiftness
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Elemental|Elemental]]'
@@ -61,7 +50,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+22'
 wisdom: '-2'
 

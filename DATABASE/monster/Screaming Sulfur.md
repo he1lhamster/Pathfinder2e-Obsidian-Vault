@@ -2,21 +2,16 @@
 ac: '27'
 alignment: NE
 all_resistance: '10'
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Agonizing Cries
 - Choke
 - Rejuvenation
 - Site Bound
-creature_family: null
 dexterity: '+7'
-element: null
 fly_speed: '40'
 fortitude: '+16'
-hardness: null
 hp: 125 ( negative healing , rejuvenation)
 id: '1659'
 immunity:
@@ -27,7 +22,6 @@ immunity:
 - precision
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '+3'
-land_speed: null
 language:
 - '[[DATABASE/language/Common|Common]]'
 level: '10'
@@ -41,8 +35,6 @@ resistance:
 - '[[DATABASE/equipment/Ghost Touch|ghost touch]]'
 - or [[DATABASE/trait/Positive|positive]] ; double resistance vs. non- [[DATABASE/trait/Magical|magical]]
   )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Huge
@@ -52,13 +44,11 @@ source: '[[DATABASE/source/Pathfinder 171. Hurricane''s Howl|Pathfinder #171: Hu
   Howl]]'
 speed:
 - fly 40 feet
-spell: null
 strength: '-5'
 strength_req: '-5'
 strongest_save:
 - Reflex
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Incorporeal|Incorporeal]]'
 - '[[DATABASE/trait/Spirit|Spirit]]'
@@ -67,7 +57,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+20'
 wisdom: '+7'
 

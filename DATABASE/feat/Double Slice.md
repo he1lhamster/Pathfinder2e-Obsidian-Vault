@@ -1,23 +1,15 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Double Slice
-frequency: null
-heighten_level: null
 id: '356'
+leads_to: '[[DATABASE/feat/Graceful Poise|Graceful Poise]]'
 level: '1'
 name: Double Slice
-prerequisite: null
 rarity: Common
 requirement: You are wielding two melee weapons, each in a different hand.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fighter|Fighter]]'
-trigger: null
 type: Feat
 
 ---

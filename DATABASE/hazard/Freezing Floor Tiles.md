@@ -1,8 +1,6 @@
 ﻿---
 ac: '36'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+33'
 hardness: 20 Sensor Hardness
 hazard_type: Trap
@@ -14,9 +12,6 @@ level: '16'
 name: Freezing Floor Tiles
 rarity: Rare
 reflex: '+30'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 167. Ready Fight!|Pathfinder #167: Ready? Fight!]]'
 trait:
 - '[[DATABASE/trait/Cold|Cold]]'
@@ -27,7 +22,6 @@ trait:
 type: Hazard
 weakness:
 - '[[DATABASE/trait/Fire|fire]] 15'
-will: null
 
 ---
 # Freezing Floor Tiles<span class="item-type">Hazard 16</span>

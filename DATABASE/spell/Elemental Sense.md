@@ -1,29 +1,13 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
-component: null
-cost: null
-deity: null
-domain: null
 duration: 10 minutes
-element: null
 heighten: 6th
 heighten_level: 4, 6
 id: '1422'
-lesson: null
 level: '4'
-mystery: null
 name: Elemental Sense
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-target: null
 tradition:
 - Arcane
 - Primal
@@ -32,7 +16,6 @@ trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Revelation|Revelation]]'
-trigger: null
 type: Spell
 
 ---

@@ -1,27 +1,14 @@
 ﻿---
-ac: null
-all_resistance: null
 complexity: Simple
-element: null
-fortitude: null
-hardness: null
 hazard_type: Haunt
-hp: null
 id: '12'
-immunity: null
 level: '10'
 name: Bloodthirsty Urge
 rarity: Common
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Haunt|Haunt]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Bloodthirsty Urge<span class="item-type">Hazard 10</span>

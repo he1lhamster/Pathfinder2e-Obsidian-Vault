@@ -1,26 +1,20 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Twilight Speaker Dedication
-frequency: null
-heighten_level: null
 id: '4114'
+leads_to: '[[DATABASE/feat/Betraying Shank|Betraying Shank]] , [[DATABASE/feat/Disarming
+  Smile|Disarming Smile]] , [[DATABASE/feat/Empathetic Envoy|Empathetic Envoy]] ,
+  [[DATABASE/feat/Ilverani Purist|Ilverani Purist]] , [[DATABASE/feat/World-Wise Vigilance|World-Wise
+  Vigilance]]'
 level: '2'
 name: Twilight Speaker Dedication
 prerequisite: Trained in [[DATABASE/skill/Society|Society]]
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 189. Dreamers of the Nameless Spires|Pathfinder
   #189: Dreamers of the Nameless Spires]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

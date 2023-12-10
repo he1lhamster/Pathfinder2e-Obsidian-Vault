@@ -1,20 +1,12 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Desperate Prayer
 frequency: once per day
-heighten_level: null
 id: '1664'
 level: '1'
 name: Desperate Prayer
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Champion|Champion]]'
 trigger: You begin your turn and have no Focus Points in your pool.

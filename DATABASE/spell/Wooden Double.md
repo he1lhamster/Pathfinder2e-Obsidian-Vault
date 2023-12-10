@@ -1,29 +1,13 @@
 ﻿---
 actions: '[reaction]'
-area: null
-bloodline: null
-component: null
-cost: null
-deity: null
-domain: null
-duration: null
 element: Wood
 heighten: '+1'
 heighten_level: 3, 4, 5, 6, 7, 8, 9, 10
 id: '1416'
-lesson: null
 level: '3'
-mystery: null
 name: Wooden Double
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-target: null
 tradition:
 - Arcane
 - Occult

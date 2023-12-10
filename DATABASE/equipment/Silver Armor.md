@@ -1,52 +1,14 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '146'
 item_category: Armor
 item_subcategory: Precious Material Armor
-land_speed: null
-level: '18'
-max_speed: null
+level: '11'
 name: Silver Armor
-onset: null
-price: 20,000 gp (+2,000 gp per Bulk)
-range: null
+price: 1,200 gp (+120 gp per Bulk)
 rarity: Common
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
-school: null
-size: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-spell: null
-stage: null
-subcategory: null
-swim_speed: null
-trait: null
-trigger: null
 type: Item
 usage: worn armor
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Silver Armor<span class="item-type">Item 5+</span>

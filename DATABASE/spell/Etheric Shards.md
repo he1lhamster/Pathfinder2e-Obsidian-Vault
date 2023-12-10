@@ -1,38 +1,26 @@
 ﻿---
 actions: '[two-actions]'
 area: 20-foot burst
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 1 minute
-element: null
 heighten: '+2'
 heighten_level: 5, 7, 9
 id: '1152'
-lesson: null
 level: '5'
-mystery: null
 name: Etheric Shards
-patron_theme: null
 range: 60 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: basicReflex
 school: Evocation
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-target: null
 tradition:
 - Arcane
 - Occult
 trait:
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Force|Force]]'
-trigger: null
 type: Spell
 
 ---

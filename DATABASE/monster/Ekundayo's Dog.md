@@ -1,34 +1,22 @@
 ﻿---
 ac: '22'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Support Benefit
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+13'
-hardness: null
 hp: '60'
 id: '2392'
-immunity: null
 intelligence: '-4'
 land_speed: '40'
-language: null
 level: '6'
 max_speed: '40'
 name: Ekundayo's Dog
 perception: '+12'
 rarity: Unique
 reflex: '+14'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -42,12 +30,10 @@ skill:
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
 speed:
 - 40 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 - '[[DATABASE/trait/Minion|Minion]]'
@@ -56,7 +42,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+12'
 wisdom: '+2'
 

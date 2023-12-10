@@ -1,27 +1,17 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: until the end of the target's next turn
-element: null
 heighten: 5th
 heighten_level: 1, 5
 id: '45'
-lesson: null
 level: '1'
-mystery: null
 name: Command
 patron_theme: '[[DATABASE/witchpatron/Fervor|Fervor]] , [[DATABASE/witchpatron/Pacts|Pacts]]'
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Will
 school: Enchantment
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -35,7 +25,6 @@ trait:
 - '[[DATABASE/trait/Enchantment|Enchantment]]'
 - '[[DATABASE/trait/Linguistic|Linguistic]]'
 - '[[DATABASE/trait/Mental|Mental]]'
-trigger: null
 type: Spell
 
 ---

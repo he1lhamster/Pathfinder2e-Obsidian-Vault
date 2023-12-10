@@ -1,10 +1,7 @@
 ﻿---
 ac: '27'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Command Confusion
@@ -16,10 +13,7 @@ creature_ability:
 - Reality
 creature_family: '[[DATABASE/monsterfamily/Seugathi|Seugathi]]'
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+18'
-hardness: null
 hp: '120'
 id: '1049'
 immunity:
@@ -39,8 +33,6 @@ rarity: Uncommon
 reflex: '+21'
 resistance:
 - bludgeoning 10
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Tremorsense|tremorsense]] 30 feet'
@@ -77,7 +69,6 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Seugathi|Seugathi]]'
@@ -86,7 +77,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+15'
 wisdom: '+2'
 

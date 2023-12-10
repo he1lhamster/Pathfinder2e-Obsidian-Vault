@@ -1,23 +1,17 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Improvised Pummel
-frequency: null
-heighten_level: null
 id: '2100'
+leads_to: '[[DATABASE/feat/Shattering Strike (Weapon Improviser)|Shattering Strike
+  (Weapon Improviser)]]'
 level: '4'
 name: Improvised Pummel
 prerequisite: '[[DATABASE/feat/Weapon Improviser Dedication|Weapon Improviser Dedication]]'
 rarity: Common
 requirement: You are wielding an improvised weapon.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

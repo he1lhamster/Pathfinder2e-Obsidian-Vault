@@ -5,12 +5,9 @@ ability:
 ability_boost:
 - Constitution
 - Intelligence
-feat: null
 id: '265'
 name: Tech-Reliant
-prerequisite: null
 rarity: Rare
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Crafting|Crafting]] or [[DATABASE/skill/Medicine|Medicine]]'
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'

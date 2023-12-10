@@ -1,10 +1,7 @@
 ﻿---
 ac: '36'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Alchemical Amplification
@@ -16,10 +13,7 @@ creature_ability:
 - Throw Rock
 creature_family: '[[DATABASE/monsterfamily/Necrohulk|Necrohulk]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+29'
-hardness: null
 hp: 345 ( negative healing )
 id: '2365'
 immunity:
@@ -30,16 +24,12 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-4'
 land_speed: '30'
-language: null
 level: '15'
 max_speed: '30'
 name: Necrohulk Smasher
 perception: '+25'
 rarity: Uncommon
 reflex: '+23'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -50,12 +40,10 @@ source: '[[DATABASE/source/Pathfinder 185. A Taste of Ashes|Pathfinder #185: A T
   of Ashes]]'
 speed:
 - 30 feet
-spell: null
 strength: '+9'
 strength_req: '9'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Mutant|Mutant]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

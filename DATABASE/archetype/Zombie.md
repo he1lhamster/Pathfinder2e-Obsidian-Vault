@@ -5,7 +5,6 @@ name: Zombie
 prerequisite: You died and were animated as a [[DATABASE/monster/Husk Zombie|husk
   zombie]] .
 rarity: Rare
-rus_type_level: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'

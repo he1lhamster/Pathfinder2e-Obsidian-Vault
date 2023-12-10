@@ -1,10 +1,7 @@
 ﻿---
 ac: '19'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Bleeding Gash
@@ -13,10 +10,7 @@ creature_ability:
 - Wind Up
 creature_family: '[[DATABASE/monsterfamily/Clockworks|Clockworks]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+3'
-hardness: null
 hp: '15'
 id: '2744'
 immunity:
@@ -35,16 +29,12 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '25'
-language: null
 level: '1'
 max_speed: '25'
 name: Clockwork Serpent Spy
 perception: '+10'
 rarity: Rare
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/trait/Light|low-light vision]]'
 size: Tiny
@@ -53,12 +43,10 @@ skill:
 source: '[[DATABASE/source/Rusthenge|Rusthenge]]'
 speed:
 - 25 feet
-spell: null
 strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Clockwork|Clockwork]]'
 - '[[DATABASE/trait/Construct|Construct]]'

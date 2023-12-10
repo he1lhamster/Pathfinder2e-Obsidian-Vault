@@ -1,10 +1,7 @@
 ﻿---
 ac: '49'
 alignment: NG
-all_resistance: null
-burrow_speed: null
 charisma: '+10'
-climb_speed: null
 constitution: '+8'
 creature_ability:
 - Animate Weapon
@@ -14,13 +11,10 @@ creature_ability:
 - Holy Armaments
 creature_family: '[[DATABASE/monsterfamily/Angel|Angel]]'
 dexterity: '+6'
-element: null
 fly_speed: '100'
 fortitude: '+40'
-hardness: null
 hp: '500'
 id: '545'
-immunity: null
 intelligence: '+5'
 land_speed: '35'
 language:
@@ -33,9 +27,6 @@ name: Solar
 perception: '+40'
 rarity: Rare
 reflex: '+34'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/spell/True Seeing|true seeing]]'
@@ -77,7 +68,6 @@ strength: '+10'
 strength_req: '10'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Angel|Angel]]'
 - '[[DATABASE/trait/Celestial|Celestial]]'

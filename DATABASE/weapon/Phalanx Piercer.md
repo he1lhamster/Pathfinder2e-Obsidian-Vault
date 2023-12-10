@@ -1,8 +1,6 @@
 ﻿---
 bulk: '2'
 damage: 1d10 P
-deity: null
-favored_weapon: null
 hands: 1+
 id: '337'
 item_category: Weapons
@@ -12,7 +10,6 @@ name: Phalanx Piercer
 price: 10 gp
 range: 80 ft.
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 trait:
 - '[[DATABASE/trait/Concussive|Concussive]]'

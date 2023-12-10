@@ -1,10 +1,7 @@
 ﻿---
 ac: '38'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Disorienting Tumble
@@ -12,14 +9,10 @@ creature_ability:
 - Powerful Fists
 - Pressure Point Attack
 - Sneak Attack
-creature_family: null
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+27'
 hp: '300'
 id: '1494'
-immunity: null
 intelligence: '+1'
 land_speed: '40'
 language:
@@ -33,9 +26,6 @@ name: Shino Hakusa (Level 16)
 perception: '+30'
 rarity: Unique
 reflex: '+31'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +32'
@@ -48,21 +38,17 @@ skill:
 source: '[[DATABASE/source/Pathfinder 167. Ready Fight!|Pathfinder #167: Ready? Fight!]]'
 speed:
 - 40 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+25'
 wisdom: '+2'
 

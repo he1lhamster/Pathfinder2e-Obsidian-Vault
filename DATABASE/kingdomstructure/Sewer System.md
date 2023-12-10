@@ -4,7 +4,6 @@ id: '52'
 level: '7'
 name: Sewer System
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
 - '[[DATABASE/trait/Infrastructure|Infrastructure]]'

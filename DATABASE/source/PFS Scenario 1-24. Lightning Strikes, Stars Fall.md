@@ -2,9 +2,6 @@
 id: '46'
 name: PFS Scenario 1-24. Lightning Strikes, Stars Fall
 rarity: Common
-rus_type_level: null
-source: null
-trait: null
 type: Source
 
 ---

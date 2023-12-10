@@ -3,9 +3,7 @@ creature_family: Centipede
 id: '22'
 name: Centipede
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
-trait: null
 type: Creature Family
 
 ---

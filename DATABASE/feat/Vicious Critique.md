@@ -1,18 +1,11 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Vicious Critique
-frequency: null
-heighten_level: null
 id: '4165'
 level: '1'
 name: Vicious Critique
 prerequisite: Trained in [[DATABASE/skill/Crafting|Crafting]] ; Trained in [[DATABASE/skill/Intimidation|Intimidation]]
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Highhelm|Highhelm]]'
 subcategory: crafting
 trait:

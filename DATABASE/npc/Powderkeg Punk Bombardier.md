@@ -1,24 +1,17 @@
 ﻿---
 ac: '17'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Blaze of Glory
 - Bombing Run
 - Quick Bomber
 - Shake It Up
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+6'
 hp: '16'
 id: '1936'
-immunity: null
 intelligence: '+2'
 land_speed: '25'
 language:
@@ -30,9 +23,6 @@ name: Powderkeg Punk Bombardier
 perception: '+5'
 rarity: Uncommon
 reflex: '+7'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +7'
@@ -45,17 +35,14 @@ source: '[[DATABASE/source/Pathfinder 178. Punks in a Powderkeg|Pathfinder #178:
   in a Powderkeg]]'
 speed:
 - 25 feet
-spell: null
 strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
 weakness:

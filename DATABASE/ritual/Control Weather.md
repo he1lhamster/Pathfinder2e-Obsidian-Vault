@@ -1,23 +1,17 @@
 ﻿---
 area: 2-mile-radius circle centered on you
-cost: null
 duration: 4d12 hours
-element: null
 heighten: 9th
 heighten_level: 8, 9
 id: '9'
 level: '8'
 name: Control Weather
 primary_check: '[[DATABASE/skill/Nature|Nature]] (master)'
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Evocation
 secondary_casters: '1'
 secondary_check: '[[DATABASE/skill/Survival|Survival]]'
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 trait:
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

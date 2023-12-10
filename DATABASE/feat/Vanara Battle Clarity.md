@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Vanara Battle Clarity
-frequency: null
-heighten_level: null
 id: '4018'
 level: '13'
 name: Vanara Battle Clarity
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Vanara|Vanara]]'
-trigger: null
 type: Feat
 
 ---

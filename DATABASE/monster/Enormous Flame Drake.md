@@ -1,10 +1,7 @@
 ﻿---
 ac: '27'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Attack of Opportunity
@@ -12,12 +9,9 @@ creature_ability:
 - Fireball Breath
 - Smoke Vision
 - Speed Surge
-creature_family: null
 dexterity: '+2'
 element: Fire
-fly_speed: null
 fortitude: '+18'
-hardness: null
 hp: '140'
 id: '2234'
 immunity:
@@ -25,18 +19,13 @@ immunity:
 - '[[DATABASE/condition/Paralyzed|paralyzed]]'
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-1'
-land_speed: null
 language:
 - '[[DATABASE/language/Draconic|Draconic]]'
 level: '8'
-max_speed: null
 name: Enormous Flame Drake
 perception: '+16'
 rarity: Unique
 reflex: '+16'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -48,13 +37,10 @@ skill:
 - '[[DATABASE/skill/Stealth|Stealth]] +14'
 - '[[DATABASE/skill/Survival|Survival]] +16'
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
-speed: null
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dragon|Dragon]]'
 - '[[DATABASE/trait/Fire|Fire]]'

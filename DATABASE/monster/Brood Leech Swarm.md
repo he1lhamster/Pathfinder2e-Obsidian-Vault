@@ -1,20 +1,14 @@
 ﻿---
 ac: '19'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Blood Draining Bites
 - Brood Leech Swarm Venom
 creature_family: '[[DATABASE/monsterfamily/Leech|Leech]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+12'
-hardness: null
 hp: '40'
 id: '712'
 immunity:
@@ -22,7 +16,6 @@ immunity:
 - '[[DATABASE/monsterability/Swarm Mind|swarm mind]]'
 intelligence: '-5'
 land_speed: '5'
-language: null
 level: '4'
 max_speed: '20'
 name: Brood Leech Swarm
@@ -33,8 +26,6 @@ resistance:
 - bludgeoning 2
 - piercing 5
 - slashing 5
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Tremorsense|tremorsense 30 feet]]'
 size: Large
@@ -45,7 +36,6 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 5 feet
 - swim 20 feet
-spell: null
 strength: '+0'
 strength_req: '0'
 strongest_save:
@@ -56,7 +46,6 @@ trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 - '[[DATABASE/trait/Swarm|Swarm]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
 weakness:

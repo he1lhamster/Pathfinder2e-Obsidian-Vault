@@ -1,32 +1,17 @@
 ﻿---
-actions: null
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: until your next daily preparations
-element: null
-heighten: null
 heighten_level: '2'
 id: '1011'
-lesson: null
 level: '2'
-mystery: null
 name: Summoner's Precaution
-patron_theme: null
-range: null
 rarity: Common
 requirement: You have an eidolon.
-rus_type_level: null
-saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-target: null
 tradition:
 - Arcane
 - Divine
@@ -35,7 +20,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Contingency|Contingency]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
-trigger: null
 type: Spell
 
 ---

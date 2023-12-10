@@ -1,23 +1,13 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Returning Throw
-frequency: null
-heighten_level: null
 id: '1403'
 level: '9'
 name: Returning Throw
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Dwarf|Dwarf]]'
-trigger: null
 type: Feat
 
 ---

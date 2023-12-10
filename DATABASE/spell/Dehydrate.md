@@ -1,29 +1,17 @@
 ﻿---
 actions: '[two-actions]'
 area: 5-foot burst
-bloodline: null
-component: null
-cost: null
-deity: null
-domain: null
 duration: 1 minute
 element: Fire
 heighten: '+2'
 heighten_level: 1, 3, 5, 7, 9
 id: '1351'
-lesson: null
 level: '1'
-mystery: null
 name: Dehydrate
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Fortitude (see text)
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-target: null
 tradition:
 - Arcane
 - Primal
@@ -31,7 +19,6 @@ trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Fire|Fire]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
-trigger: null
 type: Spell
 
 ---

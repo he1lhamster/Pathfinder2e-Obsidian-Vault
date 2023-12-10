@@ -1,25 +1,18 @@
 ﻿---
 ac: '28'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Clearing Blink
 - Scrutinizing Presence
 creature_family: '[[DATABASE/monsterfamily/Somnalu|Somnalu]]'
 dexterity: '+5'
-element: null
 fly_speed: '40'
 fortitude: '+18'
-hardness: null
 hp: '240'
 id: '1738'
-immunity: null
 intelligence: '+7'
-land_speed: null
 language:
 - '[[DATABASE/language/Aklo|Aklo]] ; (can''t speak any language)'
 - '[[DATABASE/monsterability/Telepathy|telepathy]] 60 feet'
@@ -29,9 +22,6 @@ name: Somnalu Oculus
 perception: '+26'
 rarity: Unique
 reflex: '+21'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 - '[[DATABASE/spell/True Seeing|true seeing]]'
@@ -69,7 +59,6 @@ strength: '+3'
 strength_req: '3'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Dream|Dream]]'

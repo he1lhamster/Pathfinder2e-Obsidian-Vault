@@ -1,24 +1,17 @@
 ﻿---
 ac: '28'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Fighting Rod
 - Halfling Luck
 - Lethal Fighter
 - Slippery Halfling
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+15'
 hp: '150'
 id: '1694'
-immunity: null
 intelligence: '+4'
 land_speed: '25'
 language:
@@ -33,9 +26,6 @@ name: Thiarvo The Quick
 perception: '+20'
 rarity: Unique
 reflex: '+20'
-resistance: null
-rus_type_level: null
-sense: null
 size: Small
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +19'
@@ -49,21 +39,17 @@ source: '[[DATABASE/source/Pathfinder 171. Hurricane''s Howl|Pathfinder #171: Hu
   Howl]]'
 speed:
 - 25 feet
-spell: null
 strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Halfling|Halfling]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+18'
 wisdom: '+3'
 

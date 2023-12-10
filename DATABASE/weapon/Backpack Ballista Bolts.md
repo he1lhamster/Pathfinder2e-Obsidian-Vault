@@ -1,18 +1,12 @@
 ﻿---
 bulk: L
-damage: null
-deity: null
-favored_weapon: null
-hands: null
 id: '179'
 item_category: Weapons
 item_subcategory: Base Weapons
 level: '0'
 name: Backpack Ballista Bolts
 price: 1 sp (price for 10)
-range: null
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

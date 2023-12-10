@@ -2,9 +2,6 @@
 id: '199'
 name: Pathfinder 191. The Destiny War
 rarity: Common
-rus_type_level: null
-source: null
-trait: null
 type: Source
 
 ---

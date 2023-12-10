@@ -1,20 +1,12 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Shattering Strike (Weapon Improviser)
-frequency: null
-heighten_level: null
 id: '2104'
 level: '10'
 name: Shattering Strike (Weapon Improviser)
 prerequisite: '[[DATABASE/feat/Improvised Pummel|Improvised Pummel]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 trigger: An improvised weapon that you are wielding becomes broken as a result of

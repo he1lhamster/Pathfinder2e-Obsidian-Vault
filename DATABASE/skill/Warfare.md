@@ -1,14 +1,10 @@
 ﻿---
-ability: null
-ability_boost: null
 id: '32'
 name: Warfare
 rarity: Common
-rus_type_level: null
 skill:
 - Warfare
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
-trait: null
 type: Skill
 
 ---

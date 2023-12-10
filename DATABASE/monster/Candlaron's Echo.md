@@ -2,21 +2,16 @@
 ac: '46'
 alignment: N
 all_resistance: '15'
-burrow_speed: null
 charisma: '+8'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Frightful Moan
 - Rejuvenation
 - Site Bound
 - Telekinetic Assault
-creature_family: null
 dexterity: '+10'
-element: null
 fly_speed: '25'
 fortitude: '+30'
-hardness: null
 hp: 315 ( negative healing , rejuvenation)
 id: '1594'
 immunity:
@@ -27,7 +22,6 @@ immunity:
 - precision
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '+10'
-land_speed: null
 language:
 - '[[DATABASE/language/Draconic|Draconic]]'
 - '[[DATABASE/language/Elven|Elven]]'
@@ -43,8 +37,6 @@ resistance:
 - '[[DATABASE/equipment/Ghost Touch|ghost touch]]'
 - or [[DATABASE/trait/Positive|positive]] ; double resistance vs. non- [[DATABASE/trait/Magical|magical]]
   )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -89,7 +81,6 @@ strength: '-5'
 strength_req: '-5'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Ghost|Ghost]]'
 - '[[DATABASE/trait/Incorporeal|Incorporeal]]'
@@ -98,7 +89,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+36'
 wisdom: '+7'
 

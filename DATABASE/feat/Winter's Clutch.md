@@ -1,27 +1,19 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
 element: Water
 feat: Winter's Clutch
-frequency: null
 heighten_level: 1, 3, 5, 7, 9, 11, 13, 15, 17, 19
 id: '4269'
 level: '1'
 name: Winter's Clutch
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Cold|Cold]]'
 - '[[DATABASE/trait/Impulse|Impulse]]'
 - '[[DATABASE/trait/Kineticist|Kineticist]]'
 - '[[DATABASE/trait/Primal|Primal]]'
 - '[[DATABASE/trait/Water|Water]]'
-trigger: null
 type: Feat
 
 ---

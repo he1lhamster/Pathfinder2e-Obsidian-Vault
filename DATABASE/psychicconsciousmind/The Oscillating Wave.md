@@ -2,7 +2,6 @@
 id: '3'
 name: The Oscillating Wave
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 spell:
 - '[[DATABASE/spell/Burning Hands|Burning Hands]]'
@@ -19,7 +18,6 @@ spell:
 - '[[DATABASE/spell/Ray of Frost|Ray of Frost]]'
 - '[[DATABASE/spell/Redistribute Potential|Redistribute Potential]]'
 - '[[DATABASE/spell/Thermal Stasis|Thermal Stasis]]'
-trait: null
 type: Psychic Conscious Mind
 
 ---

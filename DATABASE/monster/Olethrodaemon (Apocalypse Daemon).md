@@ -1,10 +1,8 @@
 ﻿---
 ac: '44'
 alignment: NE
-all_resistance: null
 burrow_speed: '35'
 charisma: '+8'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Apocalypse Breath
@@ -13,10 +11,8 @@ creature_ability:
 - Swallow Whole
 creature_family: '[[DATABASE/monsterfamily/Daemon|Daemon]]'
 dexterity: '+6'
-element: null
 fly_speed: '40'
 fortitude: '+35'
-hardness: null
 hp: '450'
 id: '597'
 immunity:
@@ -33,9 +29,6 @@ name: Olethrodaemon
 perception: '+33'
 rarity: Common
 reflex: '+32'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Tremorsense|tremorsense (imprecise) 120 feet]]'
@@ -63,7 +56,6 @@ strength: '+10'
 strength_req: '10'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Daemon|Daemon]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

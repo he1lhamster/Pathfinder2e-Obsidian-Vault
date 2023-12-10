@@ -1,39 +1,26 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
 domain:
 - '[[DATABASE/domain/Sorrow Domain|Sorrow]]'
-duration: null
-element: null
 heighten: '+1'
 heighten_level: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
 id: '614'
-lesson: null
 level: '1'
-mystery: null
 name: Lament
-patron_theme: null
 range: 30-foot cone
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: basicWill
 school: Enchantment
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
 target: 1 or more creatures
-tradition: null
 trait:
 - '[[DATABASE/trait/Auditory|Auditory]]'
 - '[[DATABASE/trait/Emotion|Emotion]]'
 - '[[DATABASE/trait/Enchantment|Enchantment]]'
 - '[[DATABASE/trait/Mental|Mental]]'
-trigger: null
 type: Focus
 
 ---

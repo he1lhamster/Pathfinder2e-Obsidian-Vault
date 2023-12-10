@@ -1,10 +1,6 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Triangle Shot
-frequency: null
-heighten_level: null
 id: '1761'
 level: '18'
 name: Triangle Shot
@@ -13,15 +9,11 @@ prerequisite: '[[DATABASE/feat/Monastic Archer Stance|Monastic Archer Stance]] ;
 rarity: Common
 requirement: You are in Monastic Archer Stance and wielding a bow usable with that
   stance.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Flourish|Flourish]]'
 - '[[DATABASE/trait/Monk|Monk]]'
-trigger: null
 type: Feat
 
 ---

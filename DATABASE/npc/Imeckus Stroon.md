@@ -1,24 +1,17 @@
 ﻿---
 ac: '33'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Drain Lintwerth
 - Quickened Casting
 - Recall Lintwerth
 - Steady Spellcasting
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+21'
 hp: '210'
 id: '2311'
-immunity: null
 intelligence: '+5'
 land_speed: '25'
 language:
@@ -33,9 +26,6 @@ name: Imeckus Stroon
 perception: '+25'
 rarity: Unique
 reflex: '+23'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Lore|Academia Lore]] +25'
@@ -76,16 +66,13 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+22'
 wisdom: '+3'
 

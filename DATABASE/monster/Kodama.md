@@ -1,10 +1,7 @@
 ﻿---
 ac: '21'
 alignment: NG
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Distracting Gaze
@@ -12,13 +9,9 @@ creature_ability:
 - Ward
 creature_family: '[[DATABASE/monsterfamily/Kami|Kami]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+12'
-hardness: null
 hp: '95'
 id: '1202'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -33,8 +26,6 @@ rarity: Common
 reflex: '+11'
 resistance:
 - evil 5
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -56,7 +47,6 @@ strength: '+2'
 strength_req: '2'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Kami|Kami]]'
 - '[[DATABASE/trait/Spirit|Spirit]]'

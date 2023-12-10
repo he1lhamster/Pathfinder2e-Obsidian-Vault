@@ -1,57 +1,22 @@
 ﻿---
-ac: null
-actions: null
 alignment: No Alignment
-base_item: null
 bulk: L
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '2398'
 item_category: Intelligent Items
-item_subcategory: null
-land_speed: null
 level: '6'
-max_speed: null
 name: Majordomo Torc
-onset: null
-price: null
-range: null
 rarity: Rare
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Enchantment
-size: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-spell: null
-stage: null
 subcategory: intelligentitem
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Enchantment|Enchantment]]'
 - '[[DATABASE/trait/Intelligent|Intelligent]]'
 - '[[DATABASE/trait/Invested|Invested]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Item
 usage: worn
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Majordomo Torc<span class="item-type">Item 6</span>

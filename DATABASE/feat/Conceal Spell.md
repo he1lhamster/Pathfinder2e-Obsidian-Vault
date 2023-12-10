@@ -1,27 +1,18 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Conceal Spell
-frequency: null
-heighten_level: null
 id: '640'
+leads_to: '[[DATABASE/feat/Silent Spell|Silent Spell]]'
 level: '2'
 name: Conceal Spell
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Metamagic|Metamagic]]'
 - '[[DATABASE/trait/Witch|Witch]]'
 - '[[DATABASE/trait/Wizard|Wizard]]'
-trigger: null
 type: Feat
 
 ---

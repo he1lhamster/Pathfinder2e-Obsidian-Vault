@@ -1,20 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
-frequency: null
 id: '1490'
 name: Undead Guardians
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
 trait:
 - '[[DATABASE/trait/Camping|Camping]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Evil|Evil]]'
-trigger: null
 type: Action
 
 ---

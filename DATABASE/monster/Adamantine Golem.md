@@ -1,10 +1,7 @@
 ﻿---
 ac: '42'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+9'
 creature_ability:
 - Destructive Strike
@@ -17,10 +14,7 @@ creature_ability:
 - Vulnerable to Dispelling
 creature_family: '[[DATABASE/monsterfamily/Golem|Golem]]'
 dexterity: '-1'
-element: null
-fly_speed: null
 fortitude: '+33'
-hardness: null
 hp: 255 (repair mode)
 id: '243'
 immunity:
@@ -42,7 +36,6 @@ immunity:
 - unconscious
 intelligence: '-5'
 land_speed: '30'
-language: null
 level: '18'
 max_speed: '30'
 name: Adamantine Golem
@@ -51,8 +44,6 @@ rarity: Rare
 reflex: '+27'
 resistance:
 - physical 20 (except [[DATABASE/equipment/Vorpal|vorpal]] adamantine)
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Huge
@@ -61,12 +52,10 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 30 feet
-spell: null
 strength: '+9'
 strength_req: '9'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Golem|Golem]]'
@@ -76,7 +65,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+29'
 wisdom: '+0'
 

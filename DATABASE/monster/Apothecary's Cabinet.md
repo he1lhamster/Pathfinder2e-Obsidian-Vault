@@ -1,18 +1,12 @@
 ﻿---
 ac: '24'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Construct Armor
 - Poison Stock
-creature_family: null
 dexterity: '-3'
-element: null
-fly_speed: null
 fortitude: '+17'
 hardness: '10'
 hp: '80'
@@ -34,16 +28,12 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '15'
-language: null
 level: '6'
 max_speed: '15'
 name: Apothecary's Cabinet
 perception: '+11'
 rarity: Rare
 reflex: '+11'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -53,12 +43,10 @@ source: '[[DATABASE/source/Pathfinder 188. They Watched the Stars|Pathfinder #18
   They Watched the Stars]]'
 speed:
 - 15 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Mindless|Mindless]]'
@@ -68,7 +56,6 @@ vision: Darkvision
 weakest_save:
 - Reflex
 - Will
-weakness: null
 will: '+11'
 wisdom: '+0'
 

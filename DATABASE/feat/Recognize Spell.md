@@ -1,19 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Recognize Spell
-frequency: null
-heighten_level: null
 id: '834'
+leads_to: '[[DATABASE/feat/Quick Recognition|Quick Recognition]]'
 level: '1'
 name: Recognize Spell
 prerequisite: Trained in [[DATABASE/skill/Arcana|Arcana]] , Trained in [[DATABASE/skill/Nature|Nature]]
   , Trained in [[DATABASE/skill/Occultism|Occultism]] , or Trainedin [[DATABASE/skill/Religion|Religion]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: arcana
 trait:

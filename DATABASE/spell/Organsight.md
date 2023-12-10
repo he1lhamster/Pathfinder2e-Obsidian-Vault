@@ -1,28 +1,16 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 1 minute
-element: null
 heighten: '+1'
 heighten_level: 3, 4, 5, 6, 7, 8, 9, 10
 id: '963'
-lesson: null
 level: '3'
-mystery: null
 name: Organsight
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 target: 1 living or [[DATABASE/trait/Undead|undead]] creature that has organs
@@ -34,7 +22,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Divination|Divination]]'
 - '[[DATABASE/trait/Revelation|Revelation]]'
-trigger: null
 type: Spell
 
 ---

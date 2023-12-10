@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Vanara Weapon Expertise
-frequency: null
-heighten_level: null
 id: '4019'
 level: '13'
 name: Vanara Weapon Expertise
 prerequisite: '[[DATABASE/feat/Vanara Weapon Familiarity|Vanara Weapon Familiarity]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Vanara|Vanara]]'
-trigger: null
 type: Feat
 
 ---

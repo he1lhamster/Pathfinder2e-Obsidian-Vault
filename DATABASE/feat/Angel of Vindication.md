@@ -1,24 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Angel of Vindication
-frequency: null
-heighten_level: null
 id: '3612'
 level: '4'
 name: Angel of Vindication
 prerequisite: '[[DATABASE/feat/Assassin Dedication|Assassin Dedication]]'
 rarity: Uncommon
 requirement: Your mark is an [[DATABASE/trait/Undead|undead]] creature.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

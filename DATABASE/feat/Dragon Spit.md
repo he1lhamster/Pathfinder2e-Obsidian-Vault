@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Dragon Spit
-frequency: null
-heighten_level: null
 id: '941'
+leads_to: '[[DATABASE/feat/Dragon Prince|Dragon Prince]]'
 level: '1'
 name: Dragon Spit
 prerequisite: Tian-Dan ethnicity
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
-trigger: null
 type: Feat
 
 ---

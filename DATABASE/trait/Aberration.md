@@ -2,7 +2,6 @@
 id: '1'
 name: Aberration
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - Aberration

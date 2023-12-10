@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Pinch Time
-frequency: null
-heighten_level: null
 id: '1445'
 level: '9'
 name: Pinch Time
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Half-Elf|Half-Elf]]'
-trigger: null
 type: Feat
 
 ---

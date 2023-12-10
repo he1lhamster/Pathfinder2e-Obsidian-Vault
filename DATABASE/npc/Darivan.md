@@ -1,10 +1,7 @@
 ﻿---
 ac: '28'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Bleed for Lamashtu Requirement Darivan hasn't attempted a falchion strike yet. Effect
@@ -12,14 +9,10 @@ creature_ability:
 - he inflicts an additional 2d6 bleed damage.
 - Bloodline Magic
 - Bloom Regeneration
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+17'
 hp: '220'
 id: '2190'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -34,8 +27,6 @@ name: Darivan
 perception: '+19'
 rarity: Unique
 reflex: '+18'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -88,7 +79,6 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -98,7 +88,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+21'
 wisdom: '+3'
 

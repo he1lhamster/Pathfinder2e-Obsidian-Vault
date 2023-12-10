@@ -1,8 +1,6 @@
 ﻿---
 ac: '18'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
 climb_speed: '20'
 constitution: '+2'
@@ -14,13 +12,9 @@ creature_ability:
 - Uncanny Tinker
 creature_family: '[[DATABASE/monsterfamily/Morlock|Morlock]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+7'
-hardness: null
 hp: '46'
 id: '1038'
-immunity: null
 intelligence: '+1'
 land_speed: '30'
 language:
@@ -31,9 +25,6 @@ name: Morlock Engineer
 perception: '+8'
 rarity: Uncommon
 reflex: '+12'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -47,12 +38,10 @@ source: '[[DATABASE/source/Pathfinder 163. Ruins of Gauntlight|Pathfinder #163: 
 speed:
 - 30 feet
 - climb 20 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Morlock|Morlock]]'
@@ -61,7 +50,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+10'
 wisdom: '+3'
 

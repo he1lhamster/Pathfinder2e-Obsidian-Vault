@@ -1,20 +1,13 @@
 ﻿---
 actions: '[one-action]'
-cost: null
 element: Air, Earth
 feat: Desert Wind
-frequency: null
 heighten_level: 6, 8, 10, 12, 14, 16, 18, 20
 id: '4302'
 level: '6'
 name: Desert Wind
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Composite|Composite]]'
@@ -23,7 +16,6 @@ trait:
 - '[[DATABASE/trait/Kineticist|Kineticist]]'
 - '[[DATABASE/trait/Primal|Primal]]'
 - '[[DATABASE/trait/Stance|Stance]]'
-trigger: null
 type: Feat
 
 ---

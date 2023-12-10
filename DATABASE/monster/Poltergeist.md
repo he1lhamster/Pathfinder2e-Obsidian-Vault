@@ -2,9 +2,7 @@
 ac: '22'
 alignment: LE
 all_resistance: '5'
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Frighten
@@ -14,12 +12,9 @@ creature_ability:
 - Telekinetic Defense
 - Telekinetic
 - Storm
-creature_family: null
 dexterity: '+5'
-element: null
 fly_speed: '20'
 fortitude: '+9'
-hardness: null
 hp: 55 (rejuvenation)
 id: '334'
 immunity:
@@ -30,7 +25,6 @@ immunity:
 - precision
 - unconscious
 intelligence: '-1'
-land_speed: null
 language:
 - '[[DATABASE/language/Common|Common]]'
 level: '5'
@@ -43,8 +37,6 @@ resistance:
 - all damage 5 (except force
 - ghost touch
 - or positive; double resistance against non-magical)
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -62,7 +54,6 @@ strength: '-5'
 strength_req: '-5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Incorporeal|Incorporeal]]'
 - '[[DATABASE/trait/Spirit|Spirit]]'
@@ -71,7 +62,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+13'
 wisdom: '+2'
 

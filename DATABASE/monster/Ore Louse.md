@@ -1,10 +1,6 @@
 ﻿---
 ac: '22'
-alignment: null
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Consume Living Metal
@@ -12,27 +8,19 @@ creature_ability:
 - Metal Snack
 - Rust
 - Water Stride
-creature_family: null
 dexterity: '+4'
 element: Water
-fly_speed: null
 fortitude: '+13'
-hardness: null
 hp: '60'
 id: '2665'
-immunity: null
 intelligence: '-2'
 land_speed: '35'
-language: null
 level: '5'
 max_speed: '60'
 name: Ore Louse
 perception: '+14'
 rarity: Common
 reflex: '+15'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - metal scent 30 feet
@@ -44,7 +32,6 @@ source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 speed:
 - 35 feet
 - swim 60 feet; water stride
-spell: null
 strength: '+1'
 strength_req: '1'
 strongest_save:
@@ -58,7 +45,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+10'
 wisdom: '+3'
 

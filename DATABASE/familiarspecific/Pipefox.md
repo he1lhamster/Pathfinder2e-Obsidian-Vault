@@ -1,9 +1,7 @@
 ﻿---
 id: '12'
 name: Pipefox
-rus_type_level: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
-trait: null
 
 ---
 # Pipefox

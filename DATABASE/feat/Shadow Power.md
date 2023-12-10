@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Shadow Power
-frequency: null
-heighten_level: null
 id: '2072'
 level: '14'
 name: Shadow Power
 prerequisite: '[[DATABASE/feat/Shadow Magic|Shadow Magic]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

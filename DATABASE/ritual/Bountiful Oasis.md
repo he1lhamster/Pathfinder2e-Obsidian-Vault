@@ -4,21 +4,15 @@ cost: 3 drops of fresh water taken from a naturally occurring lake within 1,000 
   of the ritual site
 duration: 1 year
 element: Water
-heighten: null
 heighten_level: '5'
 id: '103'
 level: '5'
 name: Bountiful Oasis
 primary_check: '[[DATABASE/skill/Nature|Nature]] (expert)'
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 secondary_casters: '1'
 secondary_check: Nature or [[DATABASE/skill/Survival|Survival]]
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-target: null
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 - '[[DATABASE/trait/Water|Water]]'

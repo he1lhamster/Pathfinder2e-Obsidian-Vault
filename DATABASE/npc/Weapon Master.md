@@ -1,23 +1,16 @@
 ﻿---
 ac: '33'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Attack of Opportunity
 - Dueling Expertise
 - Swift Blow
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+26'
 hp: '250'
 id: '1449'
-immunity: null
 intelligence: '+2'
 land_speed: '25'
 language:
@@ -29,9 +22,6 @@ name: Weapon Master
 perception: '+23'
 rarity: Uncommon
 reflex: '+22'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +23'
@@ -43,21 +33,17 @@ source: '[[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #
   Despair on Danger Island]]'
 speed:
 - 25 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+24'
 wisdom: '+3'
 

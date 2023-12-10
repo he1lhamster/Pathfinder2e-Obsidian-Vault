@@ -1,12 +1,8 @@
 ﻿---
-actions: null
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Lissala|Lissala]]'
 - '[[DATABASE/deity/Mephistopheles|Mephistopheles]]'
@@ -14,22 +10,13 @@ deity:
 - '[[DATABASE/deity/Pillars of Knowledge|Pillars of Knowledge]]'
 - '[[DATABASE/deity/Thoth|Thoth]]'
 - '[[DATABASE/deity/Ydajisk|Ydajisk]]'
-domain: null
 duration: 1 day
-element: null
-heighten: null
 heighten_level: '1'
 id: '581'
-lesson: null
 level: '1'
-mystery: null
 name: Message Rune
-patron_theme: null
 range: touch
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
 target: 1 flat unattended surface
@@ -40,7 +27,6 @@ trait:
 - '[[DATABASE/trait/Divination|Divination]]'
 - '[[DATABASE/trait/Linguistic|Linguistic]]'
 - '[[DATABASE/trait/Mental|Mental]]'
-trigger: null
 type: Spell
 
 ---

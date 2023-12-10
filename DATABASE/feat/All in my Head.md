@@ -1,20 +1,12 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: All in my Head
-frequency: null
-heighten_level: null
 id: '1660'
 level: '18'
 name: All in my Head
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Illusion
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Bard|Bard]]'
 - '[[DATABASE/trait/Illusion|Illusion]]'

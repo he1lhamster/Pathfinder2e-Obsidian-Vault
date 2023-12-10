@@ -1,27 +1,18 @@
 ﻿---
 ac: '36'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Funnel
 - Heart of Darkness
 - Spite
 - Swallow Whole
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+29'
-hardness: null
 hp: '230'
 id: '1403'
-immunity: null
 intelligence: '+1'
-land_speed: null
 language:
 - '[[DATABASE/language/Aquan|Aquan]] ; (can''t speak any language)'
 level: '14'
@@ -32,8 +23,6 @@ rarity: Uncommon
 reflex: '+24'
 resistance:
 - cold 10
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Light Blindness|light blindness]]'

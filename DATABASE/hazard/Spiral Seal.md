@@ -1,11 +1,8 @@
 ﻿---
 ac: '39'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+30'
 hardness: '27'
-hazard_type: null
 hp: 106 (BT 53)
 id: '269'
 immunity:
@@ -16,16 +13,11 @@ level: '16'
 name: Spiral Seal
 rarity: Unique
 reflex: '+25'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Spiral Seal<span class="item-type">Hazard 16</span>

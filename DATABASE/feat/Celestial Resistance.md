@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Celestial Resistance
-frequency: null
-heighten_level: null
 id: '1355'
 level: '5'
 name: Celestial Resistance
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Aasimar|Aasimar]]'
-trigger: null
 type: Feat
 
 ---

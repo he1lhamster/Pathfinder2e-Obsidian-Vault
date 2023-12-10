@@ -1,10 +1,7 @@
 ﻿---
 ac: '27'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Clockwork Wand
@@ -12,10 +9,7 @@ creature_ability:
 - Wind-Up
 creature_family: '[[DATABASE/monsterfamily/Clockworks|Clockworks]]'
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+17'
-hardness: null
 hp: '115'
 id: '1097'
 immunity:
@@ -34,7 +28,6 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '25'
-language: null
 level: '9'
 max_speed: '25'
 name: Clockwork Mage
@@ -43,8 +36,6 @@ rarity: Uncommon
 reflex: '+19'
 resistance:
 - physical 5 (except [[DATABASE/equipment/Adamantine Weapon|adamantine]] or orichalcum)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -77,7 +68,6 @@ strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Clockwork|Clockwork]]'
 - '[[DATABASE/trait/Construct|Construct]]'

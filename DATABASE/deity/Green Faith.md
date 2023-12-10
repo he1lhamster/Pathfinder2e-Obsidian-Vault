@@ -9,9 +9,6 @@ alignment: N
 deity:
 - '[[DATABASE/deity/Green Faith|Green Faith]]'
 deity_category: Faiths & Philosophies
-divine_font: null
-domain: null
-favored_weapon: null
 follower_alignment:
 - CN
 - LN
@@ -21,11 +18,9 @@ follower_alignment:
 id: '22'
 name: Green Faith
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Nature|Nature]]'
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
-trait: null
 type: Deity
 
 ---

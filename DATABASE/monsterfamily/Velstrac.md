@@ -3,10 +3,8 @@ creature_family: Velstrac
 id: '111'
 name: Velstrac
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 147. Tomorrow Must Burn|Pathfinder #147: Tomorrow
   Must Burn]]'
-trait: null
 type: Creature Family
 
 ---

@@ -1,10 +1,7 @@
 ﻿---
 ac: '22'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-3'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Attack of Opportunity
@@ -12,25 +9,17 @@ creature_ability:
 - Spiny Eurypterid Venom
 creature_family: '[[DATABASE/monsterfamily/Eurypterid|Eurypterid]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+16'
-hardness: null
 hp: '70'
 id: '1152'
-immunity: null
 intelligence: '-5'
 land_speed: '40'
-language: null
 level: '5'
 max_speed: '40'
 name: Spiny Eurypterid
 perception: '+10'
 rarity: Common
 reflex: '+11'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Wavesense|wavesense]] (imprecise) 30 feet'
@@ -42,7 +31,6 @@ source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 40 feet
 - swim 40 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
@@ -55,7 +43,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+10'
 wisdom: '+1'
 

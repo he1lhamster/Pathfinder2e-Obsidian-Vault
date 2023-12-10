@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Lasting Doubt
-frequency: null
-heighten_level: null
 id: '247'
 level: '12'
 name: Lasting Doubt
 prerequisite: '[[DATABASE/championcause/Redeemer|redeemer cause]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Champion|Champion]]'
-trigger: null
 type: Feat
 
 ---

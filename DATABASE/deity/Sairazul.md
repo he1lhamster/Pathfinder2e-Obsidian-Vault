@@ -26,11 +26,9 @@ follower_alignment:
 id: '107'
 name: Sairazul
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Nature|Nature]]'
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-trait: null
 type: Deity
 
 ---

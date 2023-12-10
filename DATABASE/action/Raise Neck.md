@@ -1,17 +1,9 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
-frequency: null
 id: '1450'
 name: Raise Neck
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-trait: null
-trigger: null
 type: Action
 
 ---

@@ -1,21 +1,10 @@
 ﻿---
-ac: null
-all_resistance: null
 complexity: Simple
-element: null
-fortitude: null
-hardness: null
 hazard_type: Trap
-hp: null
 id: '69'
-immunity: null
 level: '12'
 name: Dahak's Shell
 rarity: Unique
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 146. Cult of Cinders|Pathfinder #146: Cult of
   Cinders]]'
 trait:
@@ -23,8 +12,6 @@ trait:
 - '[[DATABASE/trait/Trap|Trap]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Dahak's Shell<span class="item-type">Hazard 12</span>

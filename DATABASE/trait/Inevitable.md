@@ -2,7 +2,6 @@
 id: '223'
 name: Inevitable
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait:
 - Inevitable

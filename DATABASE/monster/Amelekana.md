@@ -1,36 +1,24 @@
 ﻿---
 ac: '21'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Lob Amoeba
 - Refective Shell
 - Symbiotic Amoeba
-creature_family: null
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+14'
-hardness: null
 hp: '72'
 id: '2443'
-immunity: null
 intelligence: '-3'
 land_speed: '20'
-language: null
 level: '4'
 max_speed: '20'
 name: Amelekana
 perception: '+14'
 rarity: Uncommon
 reflex: '+11'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Lifesense|lifesense]] 100 feet'
 size: Large
@@ -44,7 +32,6 @@ source: '[[DATABASE/source/Pathfinder 187. The Seventh Arch|Pathfinder #187: The
 speed:
 - 20 feet
 - swim 20 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
@@ -56,10 +43,8 @@ trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+14'
 wisdom: '+4'
 

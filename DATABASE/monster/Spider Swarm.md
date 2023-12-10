@@ -1,8 +1,6 @@
 ﻿---
 ac: '15'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-4'
 climb_speed: '20'
 constitution: '+0'
@@ -12,10 +10,7 @@ creature_ability:
 - Web Sense
 creature_family: '[[DATABASE/monsterfamily/Spider|Spider]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+4'
-hardness: null
 hp: '12'
 id: '385'
 immunity:
@@ -23,7 +18,6 @@ immunity:
 - swarm mind
 intelligence: '-5'
 land_speed: '20'
-language: null
 level: '0'
 max_speed: '20'
 name: Spider Swarm
@@ -34,8 +28,6 @@ resistance:
 - bludgeoning 2
 - piercing 5
 - slashing 5
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - web sense
@@ -48,12 +40,10 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 20 feet
 - climb 20 feet
-spell: null
 strength: '-2'
 strength_req: '-2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 - '[[DATABASE/trait/Swarm|Swarm]]'

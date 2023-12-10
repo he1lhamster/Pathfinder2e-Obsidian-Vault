@@ -1,20 +1,14 @@
 ﻿---
 ac: '17'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Broad Swipe
 - Terrifying Charge
 creature_family: '[[DATABASE/monsterfamily/Skeleton|Skeleton]]'
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+10'
-hardness: null
 hp: 50 ( negative healing )
 id: '375'
 immunity:
@@ -26,7 +20,6 @@ immunity:
 - unconscious
 intelligence: '-5'
 land_speed: '30'
-language: null
 level: '3'
 max_speed: '30'
 name: Skeletal Giant
@@ -39,8 +32,6 @@ resistance:
 - fire 5
 - piercing 5
 - slashing 5
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Large
@@ -50,12 +41,10 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 30 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Mindless|Mindless]]'
 - '[[DATABASE/trait/Skeleton|Skeleton]]'
@@ -64,7 +53,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+7'
 wisdom: '+0'
 

@@ -1,10 +1,7 @@
 ﻿---
 ac: '19'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Hatred of Mirrors
@@ -12,13 +9,9 @@ creature_ability:
 - Wreck
 creature_family: '[[DATABASE/monsterfamily/Demon|Demon]]'
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+15'
-hardness: null
 hp: '70'
 id: '1110'
-immunity: null
 intelligence: '-2'
 land_speed: '25'
 language:
@@ -32,9 +25,6 @@ name: Abrikandilu
 perception: '+10'
 rarity: Common
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -50,7 +40,6 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Demon|Demon]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

@@ -1,23 +1,14 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Revealing Stab
-frequency: null
-heighten_level: null
 id: '384'
 level: '6'
 name: Revealing Stab
-prerequisite: null
 rarity: Common
 requirement: You are wielding a melee weapon that deals piercing damage.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fighter|Fighter]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Clever Improviser
-frequency: null
-heighten_level: null
 id: '74'
+leads_to: '[[DATABASE/feat/Incredible Improvisation|Incredible Improvisation]]'
 level: '5'
 name: Clever Improviser
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
-trigger: null
 type: Feat
 
 ---

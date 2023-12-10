@@ -2,9 +2,7 @@
 ac: '22'
 alignment: CE
 all_resistance: '5'
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Exorcism Vulnerability
@@ -13,10 +11,8 @@ creature_ability:
 - Unbodied Possession
 creature_family: '[[DATABASE/monsterfamily/Demon|Demon]]'
 dexterity: '+4'
-element: null
 fly_speed: '30'
 fortitude: '+15'
-hardness: null
 hp: '90'
 id: '599'
 immunity:
@@ -24,7 +20,6 @@ immunity:
 - '[[DATABASE/trait/Poison|poison]]'
 - precision
 intelligence: '+2'
-land_speed: null
 language:
 - '[[DATABASE/language/Abyssal|Abyssal]]'
 - '[[DATABASE/language/Common|Common]] ; [[DATABASE/monsterability/Telepathy|telepathy
@@ -39,8 +34,6 @@ resistance:
 - all 5 (except [[DATABASE/trait/Force|force]]
 - '[[DATABASE/equipment/Ghost Touch|ghost touch]]'
 - or positive; double resistance vs. non-magical)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -64,7 +57,6 @@ strength: '-5'
 strength_req: '-5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Demon|Demon]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Parry and Riposte
-frequency: null
-heighten_level: null
 id: '1558'
 level: '18'
 name: Parry and Riposte
 prerequisite: '[[DATABASE/class_/Swashbuckler|Opportune Riposte]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Swashbuckler|Swashbuckler]]'
-trigger: null
 type: Feat
 
 ---

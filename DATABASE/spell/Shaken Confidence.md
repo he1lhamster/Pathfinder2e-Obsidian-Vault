@@ -1,31 +1,16 @@
 ﻿---
 actions: '[reaction]'
-area: null
-bloodline: null
 component:
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: varies
-element: null
-heighten: null
 heighten_level: '4'
 id: '1174'
-lesson: null
 level: '4'
-mystery: null
 name: Shaken Confidence
-patron_theme: null
-range: null
 rarity: Rare
-requirement: null
-rus_type_level: null
 saving_throw: Will
 school: Enchantment
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-target: null
-tradition: null
 trait:
 - '[[DATABASE/trait/Cleric|Cleric]]'
 - '[[DATABASE/trait/Emotion|Emotion]]'

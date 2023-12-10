@@ -1,7 +1,6 @@
 ﻿---
 id: '51'
 name: Mired
-source: null
 
 ---
 # Mired

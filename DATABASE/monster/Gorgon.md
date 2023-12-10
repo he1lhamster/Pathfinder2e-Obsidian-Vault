@@ -1,37 +1,26 @@
 ﻿---
 ac: '28'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Breath Weapon
 - Powerful Charge
 - Trample
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+18'
-hardness: null
 hp: '135'
 id: '686'
 immunity:
 - '[[DATABASE/condition/Petrified|petrification]]'
 intelligence: '-4'
 land_speed: '25'
-language: null
 level: '8'
 max_speed: '25'
 name: Gorgon
 perception: '+19'
 rarity: Uncommon
 reflex: '+13'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent (imprecise) 30 feet]]'
@@ -41,12 +30,10 @@ skill:
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 25 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
@@ -54,7 +41,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+17'
 wisdom: '+5'
 

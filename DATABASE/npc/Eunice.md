@@ -1,20 +1,12 @@
 ﻿---
 ac: '15'
 alignment: CG
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+0'
-creature_ability: null
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+4'
 hp: '20'
 id: '2472'
-immunity: null
 intelligence: '+4'
 land_speed: '25'
 language:
@@ -26,9 +18,6 @@ name: Eunice
 perception: '+7'
 rarity: Common
 reflex: '+8'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Arcana|Arcana]] +7'
@@ -48,15 +37,12 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+10'
 wisdom: '-1'
 

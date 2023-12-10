@@ -1,10 +1,7 @@
 ﻿---
 ac: '27'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Compression
@@ -15,16 +12,11 @@ creature_ability:
 - Writhing Arms
 creature_family: '[[DATABASE/monsterfamily/Octopus|Octopus]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+16'
-hardness: null
 hp: '135'
 id: '315'
-immunity: null
 intelligence: '-3'
 land_speed: '15'
-language: null
 level: '8'
 max_speed: '40'
 name: Giant Octopus
@@ -33,8 +25,6 @@ rarity: Common
 reflex: '+17'
 resistance:
 - cold 10
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 size: Huge
@@ -46,7 +36,6 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 15 feet
 - swim 40 feet; compression
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
@@ -59,7 +48,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+15'
 wisdom: '+3'
 

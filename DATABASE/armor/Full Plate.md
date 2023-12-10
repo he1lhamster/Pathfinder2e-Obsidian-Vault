@@ -12,7 +12,6 @@ level: '2'
 name: Full Plate
 price: 30 gp
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 speed_penalty: -10 ft.
 strength: '+18'

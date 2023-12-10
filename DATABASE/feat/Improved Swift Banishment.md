@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Improved Swift Banishment
-frequency: null
-heighten_level: null
 id: '307'
 level: '18'
 name: Improved Swift Banishment
 prerequisite: '[[DATABASE/feat/Swift Banishment|Swift Banishment]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Cleric|Cleric]]'
-trigger: null
 type: Feat
 
 ---

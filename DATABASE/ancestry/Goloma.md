@@ -5,7 +5,6 @@ ability:
 ability_boost:
 - Wisdom
 - Free
-ability_flaw: null
 hp: '8'
 id: '45'
 land_speed: '30'
@@ -15,7 +14,6 @@ language:
 max_speed: '30'
 name: Goloma
 rarity: Rare
-rus_type_level: null
 size: Medium
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
 speed:
@@ -25,7 +23,6 @@ trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Ancestry
-vision: null
 
 ---
 # Goloma

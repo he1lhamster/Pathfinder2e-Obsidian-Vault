@@ -3,7 +3,6 @@ id: '23'
 level: '2'
 name: Natural Disaster
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Wilderness|Wilderness]]'
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'

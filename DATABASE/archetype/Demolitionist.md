@@ -2,9 +2,7 @@
 id: '118'
 level: '2'
 name: Demolitionist
-prerequisite: null
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

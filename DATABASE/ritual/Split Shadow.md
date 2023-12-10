@@ -1,27 +1,19 @@
 ﻿---
-area: null
 cost: Cost a precious possession or drop of blood from the creature to be duplicated,
   plus an ornate silvermirror worth 7,000 gp
-duration: null
-element: null
-heighten: null
 heighten_level: '8'
 id: '98'
 level: '8'
 name: Split Shadow
 primary_check: '[[DATABASE/skill/Arcana|Arcana]] or [[DATABASE/skill/Occultism|Occultism]]
   (master, the check has the [[DATABASE/trait/Secret|secret]] trait)'
-range: null
 rarity: Rare
-requirement: null
-rus_type_level: null
 school: Illusion
 secondary_casters: '4'
 secondary_check: '[[DATABASE/skill/Crafting|Crafting]] , [[DATABASE/skill/Deception|Deception]]
   , [[DATABASE/skill/Performance|Performance]] , [[DATABASE/skill/Society|Society]]'
 source: '[[DATABASE/source/Pathfinder 185. A Taste of Ashes|Pathfinder #185: A Taste
   of Ashes]]'
-target: null
 trait:
 - '[[DATABASE/trait/Illusion|Illusion]]'
 - '[[DATABASE/trait/Rare|Rare]]'

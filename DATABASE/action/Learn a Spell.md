@@ -1,20 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
-frequency: null
 id: '25'
 name: Learn a Spell
 rarity: Common
 requirement: "You have a spellcasting class feature, and the spell you want to learn\
   \ is on your magical tradition\u2019sspell list."
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Exploration|Exploration]]'
-trigger: null
 type: Action
 
 ---

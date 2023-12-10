@@ -1,28 +1,19 @@
 ﻿---
 ac: '35'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-3'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Captivating Pollen
 - Cold Vulnerability
 - Constrict
 - Grasping Roots
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+28'
-hardness: null
 hp: '290'
 id: '2325'
-immunity: null
 intelligence: '-4'
 land_speed: '20'
-language: null
 level: '14'
 max_speed: '20'
 name: Overgrown Viper Vine
@@ -31,8 +22,6 @@ rarity: Rare
 reflex: '+26'
 resistance:
 - poison 15
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Tremorsense|tremorsense]] (precise in area A7'
@@ -44,12 +33,10 @@ skill:
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 speed:
 - 20 feet
-spell: null
 strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Plant|Plant]]'
 - '[[DATABASE/trait/Rare|Rare]]'
@@ -57,7 +44,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+24'
 wisdom: '+5'
 

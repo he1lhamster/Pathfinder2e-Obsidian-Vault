@@ -1,24 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Experienced Tracker
-frequency: null
-heighten_level: null
 id: '780'
+leads_to: '[[DATABASE/feat/Swift Tracker|Swift Tracker]]'
 level: '1'
 name: Experienced Tracker
 prerequisite: Trained in [[DATABASE/skill/Survival|Survival]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: survival
 trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,10 +1,7 @@
 ﻿---
 ac: '25'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Envisioning
@@ -12,13 +9,10 @@ creature_ability:
 - Wrath of Fate
 creature_family: '[[DATABASE/monsterfamily/Aeon|Aeon]]'
 dexterity: '+4'
-element: null
 fly_speed: '25'
 fortitude: '+16'
-hardness: null
 hp: '125'
 id: '536'
-immunity: null
 intelligence: '+3'
 land_speed: '25'
 language:
@@ -29,9 +23,6 @@ name: Theletos
 perception: '+18'
 rarity: Common
 reflex: '+13'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -57,7 +48,6 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aeon|Aeon]]'
 - '[[DATABASE/trait/Monitor|Monitor]]'

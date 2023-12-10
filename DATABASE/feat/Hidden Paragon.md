@@ -1,20 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Hidden Paragon
 frequency: once per hour
-heighten_level: null
 id: '599'
 level: '20'
 name: Hidden Paragon
 prerequisite: Legendary in [[DATABASE/skill/Stealth|Stealth]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Rogue|Rogue]]'
 trigger: You successfully use Stealth to Hide and become hidden from all of your current

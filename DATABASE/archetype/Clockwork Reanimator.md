@@ -4,7 +4,6 @@ level: '2'
 name: Clockwork Reanimator
 prerequisite: Trained in [[DATABASE/skill/Crafting|Crafting]]
 rarity: Rare
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 180. The Smoking Gun|Pathfinder #180: The Smoking
   Gun]]'
 trait:

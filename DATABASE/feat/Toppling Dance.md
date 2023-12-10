@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Toppling Dance
-frequency: null
-heighten_level: null
 id: '1435'
 level: '13'
 name: Toppling Dance
 prerequisite: '[[DATABASE/feat/Dance Underfoot|Dance Underfoot]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Halfling|Halfling]]'
-trigger: null
 type: Feat
 
 ---

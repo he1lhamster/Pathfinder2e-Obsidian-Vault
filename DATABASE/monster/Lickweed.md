@@ -1,23 +1,15 @@
 ﻿---
 ac: '20'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Goblin Scuttle
 - Reach Spell
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+9'
-hardness: null
 hp: '65'
 id: '2381'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -31,9 +23,6 @@ name: Lickweed
 perception: '+12'
 rarity: Unique
 reflex: '+12'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -62,7 +51,6 @@ strength: '+1'
 strength_req: '1'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Goblin|Goblin]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -71,7 +59,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+14'
 wisdom: '+4'
 

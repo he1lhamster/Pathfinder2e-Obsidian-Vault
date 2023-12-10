@@ -1,8 +1,6 @@
 ﻿---
 ac: '28'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
 climb_speed: '30'
 constitution: '+5'
@@ -11,10 +9,7 @@ creature_ability:
 - Raise Blackfrost
 creature_family: '[[DATABASE/monsterfamily/Blackfrost Dead|Blackfrost Dead]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+20'
-hardness: null
 hp: 180 ( negative healing )
 id: '2498'
 immunity:
@@ -37,9 +32,6 @@ name: Blackfrost Prophet
 perception: '+21'
 rarity: Rare
 reflex: '+18'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -52,12 +44,10 @@ source: '[[DATABASE/source/Pathfinder 189. Dreamers of the Nameless Spires|Pathf
   #189: Dreamers of the Nameless Spires]]'
 speed:
 - 30 feet; ice climb 30 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Cold|Cold]]'
 - '[[DATABASE/trait/Rare|Rare]]'

@@ -1,10 +1,7 @@
 ﻿---
 ac: '31'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+7'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Flail
@@ -13,12 +10,8 @@ creature_ability:
 - Haunting Wail
 - Horrid Visage
 - Mirror Vulnerability
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+22'
-hardness: null
 hp: '200'
 id: '516'
 immunity:
@@ -34,9 +27,6 @@ name: Bugul Noz
 perception: '+23'
 rarity: Rare
 reflex: '+25'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -59,7 +49,6 @@ strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Rare|Rare]]'

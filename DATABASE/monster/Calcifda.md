@@ -1,10 +1,8 @@
 ﻿---
 ac: '31'
 alignment: LE
-all_resistance: null
 burrow_speed: '25'
 charisma: '+3'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Coal Curse
@@ -13,12 +11,9 @@ creature_ability:
 - Gemsight
 - Lashing Stone
 - Steady Spellcasting
-creature_family: null
 dexterity: '+4'
 element: Earth
-fly_speed: null
 fortitude: '+19'
-hardness: null
 hp: '140'
 id: '1826'
 immunity:
@@ -42,8 +37,6 @@ rarity: Unique
 reflex: '+17'
 resistance:
 - physical 10 (except [[DATABASE/equipment/Adamantine Weapon|adamantine]] )
-rus_type_level: null
-school: null
 sense:
 - gemsight
 size: Medium
@@ -74,13 +67,11 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
 weakness:

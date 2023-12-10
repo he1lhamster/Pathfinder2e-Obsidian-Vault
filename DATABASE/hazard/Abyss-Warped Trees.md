@@ -1,8 +1,6 @@
 ﻿---
 ac: '18'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+14'
 hardness: '10'
 hazard_type: Environmental
@@ -16,9 +14,6 @@ level: '4'
 name: Abyss-Warped Trees
 rarity: Unique
 reflex: '+14'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 176. Lost Mammoth Valley|Pathfinder #176: Lost
   Mammoth Valley]]'
 trait:
@@ -28,7 +23,6 @@ trait:
 type: Hazard
 weakness:
 - '[[DATABASE/trait/Fire|fire]] 5'
-will: null
 
 ---
 # Abyss-Warped Trees<span class="item-type">Hazard 4</span>

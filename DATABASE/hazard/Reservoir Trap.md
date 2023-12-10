@@ -1,8 +1,6 @@
 ﻿---
 ac: '18'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+11'
 hardness: 7 Tank Hardness
 hazard_type: Trap
@@ -16,9 +14,6 @@ level: '2'
 name: Reservoir Trap
 rarity: Common
 reflex: '+3'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 187. The Seventh Arch|Pathfinder #187: The Seventh
   Arch]]'
 trait:
@@ -26,8 +21,6 @@ trait:
 - '[[DATABASE/trait/Mechanical|Mechanical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Reservoir Trap<span class="item-type">Hazard 2</span>

@@ -1,38 +1,23 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: sustained
-element: null
 heighten: 6th
 heighten_level: 3, 6
 id: '795'
 lesson: '[[DATABASE/witchlesson/Lesson of Mischief|Lesson of Mischief]]'
 level: '3'
-mystery: null
 name: Deceiver's Cloak
-patron_theme: null
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Illusion
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-target: null
-tradition: null
 trait:
 - '[[DATABASE/trait/Hex|Hex]]'
 - '[[DATABASE/trait/Illusion|Illusion]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 - '[[DATABASE/trait/Witch|Witch]]'
-trigger: null
 type: Focus
 
 ---

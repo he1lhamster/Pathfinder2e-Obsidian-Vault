@@ -1,8 +1,6 @@
 ﻿---
 ac: '10'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+2'
 hardness: '1'
 hazard_type: Trap
@@ -16,17 +14,12 @@ level: '4'
 name: Valmar's Pit Trap
 rarity: Common
 reflex: '+3'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 188. They Watched the Stars|Pathfinder #188:
   They Watched the Stars]]'
 trait:
 - '[[DATABASE/trait/Mechanical|Mechanical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Valmar's Pit Trap<span class="item-type">Hazard 4</span>

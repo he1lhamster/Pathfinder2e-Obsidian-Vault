@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Underwater Marauder|Underwater Marauder]]'
 id: '378'
 name: Deep-Sea Diver
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]]'
 - Plane of Water [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

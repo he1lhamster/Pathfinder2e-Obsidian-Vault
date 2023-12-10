@@ -1,23 +1,16 @@
 ﻿---
 ac: '18'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Pack Attack
 - Rugged Travel
 creature_family: '[[DATABASE/monsterfamily/Gnoll|Gnoll]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+8'
-hardness: null
 hp: '29'
 id: '229'
-immunity: null
 intelligence: '-1'
 land_speed: '25'
 language:
@@ -28,9 +21,6 @@ name: Gnoll Hunter
 perception: '+7'
 rarity: Common
 reflex: '+7'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -43,12 +33,10 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 25 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Gnoll|Gnoll]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -57,7 +45,6 @@ vision: Darkvision
 weakest_save:
 - Reflex
 - Will
-weakness: null
 will: '+7'
 wisdom: '+1'
 

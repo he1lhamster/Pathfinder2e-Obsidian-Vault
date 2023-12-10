@@ -1,8 +1,6 @@
 ﻿---
 ac: '30'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+20'
 hardness: 18 Statue Hardness
 hazard_type: Trap
@@ -16,9 +14,6 @@ level: '10'
 name: Masks of Aroden's Guises
 rarity: Rare
 reflex: '+16'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 152. Legacy of the Lost God|Pathfinder #152:
   Legacy of the Lost God]]'
 trait:
@@ -27,8 +22,6 @@ trait:
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Masks of Aroden's Guises<span class="item-type">Hazard 10</span>

@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Wild Lights
-frequency: null
-heighten_level: null
 id: '3375'
 level: '4'
 name: Wild Lights
 prerequisite: '[[DATABASE/feat/Spell Trickster Dedication|Spell Trickster Dedication]]
   ; ability to cast [[DATABASE/spell/Dancing Lights|dancing lights]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

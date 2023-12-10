@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Redirect Attention
-frequency: null
-heighten_level: null
 id: '3805'
 level: '13'
 name: Redirect Attention
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Reflection|Reflection]]'
-trigger: null
 type: Feat
 
 ---

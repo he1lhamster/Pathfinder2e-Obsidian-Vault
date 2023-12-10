@@ -1,25 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Entwined Energy Ki
-frequency: null
-heighten_level: null
 id: '2692'
 level: '10'
 name: Entwined Energy Ki
-prerequisite: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #166:
   Despair on Danger Island]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Monk|Monk]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

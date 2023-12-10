@@ -1,11 +1,8 @@
 ﻿---
-burrow_speed: null
 charisma: '+0'
 climb_speed: '25'
 constitution: '+2'
 dexterity: '+1'
-element: null
-fly_speed: null
 hp: '8'
 id: '16'
 intelligence: '-4'
@@ -13,7 +10,6 @@ land_speed: '25'
 max_speed: '25'
 name: Ape
 rarity: Common
-rus_type_level: null
 sense:
 - low-light vision
 size: Small
@@ -25,8 +21,6 @@ speed:
 - climb 25 feet
 strength: '+3'
 strength_req: '3'
-swim_speed: null
-trait: null
 type: Animal Companion
 wisdom: '+2'
 

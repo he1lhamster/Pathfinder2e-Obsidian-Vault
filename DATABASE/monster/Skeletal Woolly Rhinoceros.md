@@ -1,20 +1,13 @@
 ﻿---
 ac: '22'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Rhinoceros Charge
 - Trample
-creature_family: null
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+15'
-hardness: null
 hp: 75 ( negative healing )
 id: '1782'
 immunity:
@@ -26,7 +19,6 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '35'
-language: null
 level: '5'
 max_speed: '35'
 name: Skeletal Woolly Rhinoceros
@@ -39,8 +31,6 @@ resistance:
 - '[[DATABASE/trait/Fire|fire]] 5'
 - piercing 5
 - slashing 5
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -50,12 +40,10 @@ source: '[[DATABASE/source/Pathfinder 176. Lost Mammoth Valley|Pathfinder #176: 
   Mammoth Valley]]'
 speed:
 - 35 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Mindless|Mindless]]'
 - '[[DATABASE/trait/Skeleton|Skeleton]]'
@@ -65,7 +53,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+11'
 wisdom: '+2'
 

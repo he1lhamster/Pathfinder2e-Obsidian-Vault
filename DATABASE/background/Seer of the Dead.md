@@ -5,12 +5,9 @@ ability:
 ability_boost:
 - Constitution
 - Wisdom
-feat: null
 id: '243'
 name: Seer of the Dead
-prerequisite: null
 rarity: Rare
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Religion|Religion]]'
 - Undead [[DATABASE/skill/Lore|Lore]]

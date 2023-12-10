@@ -1,26 +1,17 @@
 ﻿---
 actions: '[three-actions]'
-cost: null
-element: null
 feat: Sense Alignment
-frequency: null
-heighten_level: null
 id: '2194'
 level: '4'
 name: Sense Alignment
 prerequisite: '[[DATABASE/feat/Edgewatch Detective Dedication|Edgewatch Detective
   Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 157. Devil at the Dreaming Palace|Pathfinder
   #157: Devil at the Dreaming Palace]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Secret|Secret]]'
-trigger: null
 type: Feat
 
 ---

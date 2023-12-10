@@ -1,39 +1,26 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 1 minute
 element: Water
 heighten: '+1'
 heighten_level: 4, 5, 6, 7, 8, 9, 10
 id: '1173'
-lesson: null
 level: '4'
-mystery: null
 name: Purifying Veil
-patron_theme: null
 range: 60 feet
 rarity: Rare
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 target: 1 Large or smaller creature
-tradition: null
 trait:
 - '[[DATABASE/trait/Cleric|Cleric]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Good|Good]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Water|Water]]'
-trigger: null
 type: Focus
 
 ---

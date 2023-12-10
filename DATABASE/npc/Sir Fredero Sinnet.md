@@ -1,24 +1,17 @@
 ﻿---
 ac: '28'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Attack of Opportunity
 - Quick Block
 - Shield Block
 - Stubborn Conviction
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+21'
 hp: '160'
 id: '2385'
-immunity: null
 intelligence: '+1'
 land_speed: '20'
 language:
@@ -29,9 +22,6 @@ name: Sir Fredero Sinnet
 perception: '+15'
 rarity: Unique
 reflex: '+17'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +19'
@@ -43,21 +33,17 @@ skill:
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
 speed:
 - 20 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+15'
 wisdom: '+0'
 

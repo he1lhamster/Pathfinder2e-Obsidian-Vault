@@ -1,10 +1,7 @@
 ﻿---
 ac: '34'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Boneshard Burst
@@ -13,10 +10,8 @@ creature_ability:
 - Swarming Gnaw
 creature_family: '[[DATABASE/monsterfamily/Skull Swarm|Skull Swarm]]'
 dexterity: '+6'
-element: null
 fly_speed: '40'
 fortitude: '+22'
-hardness: null
 hp: 190 ( negative healing )
 id: '1309'
 immunity:
@@ -28,8 +23,6 @@ immunity:
 - '[[DATABASE/monsterability/Swarm Mind|swarm mind]]'
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '+8'
-land_speed: null
-language: null
 level: '14'
 max_speed: '40'
 name: Sorcerous Skull Swarm
@@ -43,8 +36,6 @@ resistance:
 - fire 12
 - piercing 12
 - slashing 12
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/spell/True Seeing|true seeing]]'
@@ -68,7 +59,6 @@ strength_req: '-3'
 strongest_save:
 - Reflex
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Swarm|Swarm]]'

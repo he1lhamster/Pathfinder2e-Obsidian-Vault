@@ -1,23 +1,16 @@
 ﻿---
 ac: '17'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Sneak Attack
 - Tinker
 creature_family: '[[DATABASE/monsterfamily/Gremlin|Gremlin]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+6'
-hardness: null
 hp: '19'
 id: '247'
-immunity: null
 intelligence: '+2'
 land_speed: '30'
 language:
@@ -28,9 +21,6 @@ name: Jinkin
 perception: '+7'
 rarity: Common
 reflex: '+10'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Tiny
@@ -50,7 +40,6 @@ strength: '-2'
 strength_req: '-2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Gremlin|Gremlin]]'

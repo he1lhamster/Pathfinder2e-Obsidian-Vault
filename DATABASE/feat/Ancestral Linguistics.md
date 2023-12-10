@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Ancestral Linguistics
-frequency: null
-heighten_level: null
 id: '1407'
 level: '1'
 name: Ancestral Linguistics
 prerequisite: at least 100 years old
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Elf|Elf]]'
-trigger: null
 type: Feat
 
 ---

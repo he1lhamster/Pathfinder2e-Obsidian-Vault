@@ -1,10 +1,7 @@
 ﻿---
 ac: '19'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Caustic Mucus
@@ -16,7 +13,6 @@ dexterity: '+4'
 element: Water
 fly_speed: '50'
 fortitude: '+11'
-hardness: null
 hp: '45'
 id: '159'
 immunity:
@@ -34,8 +30,6 @@ rarity: Common
 reflex: '+9'
 resistance:
 - acid 10
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - scent (imprecise) 30 feet
@@ -51,7 +45,6 @@ speed:
 - 20 feet
 - fly 50 feet
 - swim 30 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
@@ -65,7 +58,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+7'
 wisdom: '+2'
 

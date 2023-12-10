@@ -1,9 +1,5 @@
 ﻿---
-area: null
 cost: pearls or other gems worth a total value of 50 gp
-duration: null
-element: null
-heighten: null
 heighten_level: '2'
 id: '99'
 level: '2'
@@ -11,8 +7,6 @@ name: Phantom Ship
 primary_check: '[[DATABASE/skill/Occultism|Occultism]] (expert)'
 range: 10 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Conjuration
 secondary_casters: '2'
 secondary_check: '[[DATABASE/skill/Lore|Sailing Lore]] or [[DATABASE/skill/Survival|Survival]]'

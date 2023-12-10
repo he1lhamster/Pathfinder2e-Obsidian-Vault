@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Wash Out
-frequency: null
-heighten_level: null
 id: '3344'
 level: '1'
 name: Wash Out
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Poppet|Poppet]]'
-trigger: null
 type: Feat
 
 ---

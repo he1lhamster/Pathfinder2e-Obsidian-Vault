@@ -1,10 +1,6 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Reactive Transformation
-frequency: null
-heighten_level: null
 id: '1718'
 level: '14'
 name: Reactive Transformation
@@ -12,11 +8,7 @@ prerequisite: '[[DATABASE/feat/Wild Shape|Wild Shape]] ; [[DATABASE/feat/Dragon 
   , [[DATABASE/feat/Elemental Shape|Elemental Shape]] , [[DATABASE/feat/Plant Shape|Plant
   Shape]] , or [[DATABASE/feat/Soaring Shape|Soaring Shape]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Druid|Druid]]'
 trigger: varies

@@ -1,23 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Basic Cleric Spellcasting
-frequency: null
-heighten_level: null
 id: '695'
+leads_to: '[[DATABASE/feat/Divine Breadth|Divine Breadth]] , [[DATABASE/feat/Expert
+  Cleric Spellcasting|Expert Cleric Spellcasting]]'
 level: '4'
 name: Basic Cleric Spellcasting
 prerequisite: '[[DATABASE/feat/Cleric Dedication|Cleric Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

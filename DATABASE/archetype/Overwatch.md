@@ -4,7 +4,6 @@ level: '2'
 name: Overwatch
 prerequisite: expert in Perception
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

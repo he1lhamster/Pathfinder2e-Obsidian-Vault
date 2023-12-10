@@ -1,29 +1,16 @@
 ﻿---
 actions: '[two-actions]'
 area: 5-foot burst
-bloodline: null
-component: null
-cost: null
-deity: null
-domain: null
-duration: null
 element: Wood
 heighten: '+1'
 heighten_level: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
 id: '1401'
-lesson: null
 level: '1'
-mystery: null
 name: Flourishing Flora
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: basicReflex
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-target: null
 tradition:
 - Arcane
 - Primal
@@ -32,7 +19,6 @@ trait:
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Plant|Plant]]'
 - '[[DATABASE/trait/Wood|Wood]]'
-trigger: null
 type: Spell
 
 ---

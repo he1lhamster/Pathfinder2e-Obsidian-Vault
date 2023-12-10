@@ -23,11 +23,9 @@ follower_alignment:
 id: '135'
 name: Charon
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Occultism|Occultism]]'
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
-trait: null
 type: Deity
 
 ---

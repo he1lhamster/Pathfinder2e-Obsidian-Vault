@@ -1,25 +1,17 @@
 ﻿---
 ac: '20'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Emit Spores
 - Purple Pox
 - Spore Domination
 - Spore Pop
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+14'
-hardness: null
 hp: '70'
 id: '1242'
-immunity: null
 intelligence: '-1'
 land_speed: '20'
 language:
@@ -31,9 +23,6 @@ name: Myceloid
 perception: '+10'
 rarity: Common
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -44,12 +33,10 @@ skill:
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 20 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fungus|Fungus]]'
 type: Creature

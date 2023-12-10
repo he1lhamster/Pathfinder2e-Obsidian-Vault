@@ -1,24 +1,17 @@
 ﻿---
 ac: '29'
 alignment: CG
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Change Shape
 - Foxfire Blast
 - Pinning Shot
 - Sneak Attack
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+15'
 hp: '130'
 id: '1446'
-immunity: null
 intelligence: '+3'
 land_speed: '25'
 language:
@@ -34,8 +27,6 @@ name: Ji-yook (Level 9)
 perception: '+19'
 rarity: Unique
 reflex: '+19'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
@@ -55,7 +46,6 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Kitsune|Kitsune]]'
@@ -64,7 +54,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+16'
 wisdom: '+1'
 

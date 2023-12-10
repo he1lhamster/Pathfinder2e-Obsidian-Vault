@@ -1,10 +1,7 @@
 ﻿---
 ac: '44'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+8'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Attack of Opportunity
@@ -14,10 +11,8 @@ creature_ability:
 - Souleater
 creature_family: '[[DATABASE/monsterfamily/Vilderavn|Vilderavn]]'
 dexterity: '+7'
-element: null
 fly_speed: '120'
 fortitude: '+31'
-hardness: null
 hp: '375'
 id: '2210'
 immunity:
@@ -38,9 +33,6 @@ name: Vilderavn Herald
 perception: '+35'
 rarity: Rare
 reflex: '+36'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 - '[[DATABASE/spell/True Seeing|true seeing]]'
@@ -70,7 +62,6 @@ strength: '+10'
 strength_req: '10'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Rare|Rare]]'

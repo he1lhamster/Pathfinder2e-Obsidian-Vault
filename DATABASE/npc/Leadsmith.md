@@ -1,23 +1,16 @@
 ﻿---
 ac: '22'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Bully Effect
 - Clear A Path
 - Private Detective
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+12'
 hp: '75'
 id: '1987'
-immunity: null
 intelligence: '+2'
 land_speed: '20'
 language:
@@ -29,8 +22,6 @@ name: Leadsmith
 perception: '+12'
 rarity: Uncommon
 reflex: '+15'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -44,12 +35,10 @@ source: '[[DATABASE/source/Pathfinder 180. The Smoking Gun|Pathfinder #180: The 
   Gun]]'
 speed:
 - 20 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dwarf|Dwarf]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -58,7 +47,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+10'
 wisdom: '+0'
 

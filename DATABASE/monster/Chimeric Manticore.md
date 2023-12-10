@@ -1,10 +1,7 @@
 ﻿---
 ac: '25'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Attack of Opportunity
@@ -14,15 +11,11 @@ creature_ability:
 - Three-Headed Strike
 - Triple
 - Opportunity
-creature_family: null
 dexterity: '+2'
-element: null
 fly_speed: '40'
 fortitude: '+18'
-hardness: null
 hp: '120'
 id: '1968'
-immunity: null
 intelligence: '-3'
 land_speed: '25'
 language:
@@ -34,9 +27,6 @@ name: Chimeric Manticore
 perception: '+15'
 rarity: Rare
 reflex: '+15'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -52,12 +42,10 @@ source: '[[DATABASE/source/Pathfinder 179. Cradle of Quartz|Pathfinder #179: Cra
 speed:
 - 25 feet
 - fly 40 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Rare|Rare]]'
@@ -66,7 +54,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+12'
 wisdom: '+2'
 

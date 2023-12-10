@@ -1,21 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Muscle Mimicry
-frequency: null
-heighten_level: null
 id: '3812'
 level: '7'
 name: Muscle Mimicry
 prerequisite: '[[DATABASE/feat/Alter Ego Dedication|Alter Ego Dedication]] ; Trained
   in [[DATABASE/skill/Athletics|Athletics]] ; Master in [[DATABASE/skill/Deception|Deception]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'

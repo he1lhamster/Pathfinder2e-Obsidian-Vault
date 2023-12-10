@@ -1,10 +1,5 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Hellknight Order Cross-Training
-frequency: null
-heighten_level: null
 id: '1077'
 level: '12'
 name: Hellknight Order Cross-Training
@@ -12,15 +7,10 @@ prerequisite: '[[DATABASE/feat/Hellknight Armiger Dedication|Hellknight Armiger 
   ; [[DATABASE/feat/Hellknight Dedication|Hellknight Dedication]] or [[DATABASE/feat/Hellknight
   Signifer Dedication|Hellknight Signifer Dedication]]'
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

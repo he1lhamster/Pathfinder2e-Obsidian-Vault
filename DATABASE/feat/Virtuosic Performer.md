@@ -1,24 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Virtuosic Performer
-frequency: null
-heighten_level: null
 id: '862'
+leads_to: '[[DATABASE/feat/Legendary Performer|Legendary Performer]]'
 level: '1'
 name: Virtuosic Performer
 prerequisite: Trained in [[DATABASE/skill/Performance|Performance]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: performance
 trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

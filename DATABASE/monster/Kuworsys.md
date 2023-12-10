@@ -1,8 +1,6 @@
 ﻿---
 ac: '34'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
 climb_speed: '35'
 constitution: '+5'
@@ -14,19 +12,14 @@ creature_ability:
 - Pinion
 - Rear Back
 - Yank
-creature_family: null
 dexterity: '+8'
-element: null
-fly_speed: null
 fortitude: '+22'
-hardness: null
 hp: '213'
 id: '1733'
 immunity:
 - bleed
 intelligence: '+7'
 land_speed: '35'
-language: null
 level: '12'
 max_speed: '35'
 name: Kuworsys
@@ -35,8 +28,6 @@ rarity: Unique
 reflex: '+22'
 resistance:
 - '[[DATABASE/trait/Poison|poison]] 15'
-rus_type_level: null
-school: null
 sense:
 - (26 vs traps) infect scent (imprecise) 60 feet
 size: Large
@@ -50,17 +41,14 @@ source: '[[DATABASE/source/Monsters of Myth|Monsters of Myth]]'
 speed:
 - 35 feet
 - climb 35 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
 - Reflex

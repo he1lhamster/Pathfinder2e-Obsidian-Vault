@@ -1,21 +1,13 @@
 ﻿---
 ac: '19'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+0'
-creature_ability: null
 creature_family: '[[DATABASE/monsterfamily/Changeling|Changeling]]'
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+7'
-hardness: null
 hp: '45'
 id: '79'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -27,9 +19,6 @@ name: Changeling Exile
 perception: '+11'
 rarity: Common
 reflex: '+8'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -58,7 +47,6 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Changeling|Changeling]]'
 - '[[DATABASE/trait/Human|Human]]'
@@ -67,7 +55,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+11'
 wisdom: '+4'
 

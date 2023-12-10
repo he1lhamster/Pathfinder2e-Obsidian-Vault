@@ -1,10 +1,7 @@
 ﻿---
 ac: '45'
 alignment: NG
-all_resistance: null
-burrow_speed: null
 charisma: '+9'
-climb_speed: null
 constitution: '+8'
 creature_ability:
 - Breath Weapon
@@ -12,13 +9,10 @@ creature_ability:
 - Dragon's Wisdom
 creature_family: '[[DATABASE/monsterfamily/Agathion|Agathion]]'
 dexterity: '+5'
-element: null
 fly_speed: '90'
 fortitude: '+34'
-hardness: null
 hp: '370'
 id: '1058'
-immunity: null
 intelligence: '+8'
 land_speed: '30'
 language:
@@ -35,8 +29,6 @@ rarity: Common
 reflex: '+31'
 resistance:
 - fire 15
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/spell/True Seeing|true seeing]]'
@@ -77,7 +69,6 @@ strength: '+10'
 strength_req: '10'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Agathion|Agathion]]'
 - '[[DATABASE/trait/Celestial|Celestial]]'

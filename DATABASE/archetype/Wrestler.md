@@ -4,9 +4,7 @@ level: '2'
 name: Wrestler
 prerequisite: Trained in [[DATABASE/skill/Athletics|Athletics]]
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
-trait: null
 type: Archetype
 
 ---

@@ -1,8 +1,6 @@
 ﻿---
 ac: '22'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
 climb_speed: '30'
 constitution: '+2'
@@ -15,12 +13,9 @@ creature_ability:
 - Ice
 - Climb
 - Snow Vision
-creature_family: null
 dexterity: '+4'
-element: null
 fly_speed: '60'
 fortitude: '+12'
-hardness: null
 hp: '90'
 id: '1790'
 immunity:
@@ -39,9 +34,6 @@ name: Venexus's Wyrmlings
 perception: '+12'
 rarity: Rare
 reflex: '+15'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 60 feet'
@@ -58,12 +50,10 @@ speed:
 - 30 feet
 - fly 60 feet
 - ice climb 30 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Cold|Cold]]'
 - '[[DATABASE/trait/Dragon|Dragon]]'

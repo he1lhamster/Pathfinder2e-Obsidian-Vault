@@ -1,10 +1,7 @@
 ﻿---
 ac: '48'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Attack of Opportunity
@@ -14,15 +11,10 @@ creature_ability:
 - Touch of Zevgavizeb
 - Writhe
 - Independently
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+37'
-hardness: null
 hp: '430'
 id: '2143'
-immunity: null
 intelligence: '+2'
 land_speed: '30'
 language:
@@ -36,9 +28,6 @@ name: Sarvel Ever-Hunger
 perception: '+39'
 rarity: Unique
 reflex: '+34'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -81,7 +70,6 @@ strength: '+9'
 strength_req: '9'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fiend|Fiend]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'

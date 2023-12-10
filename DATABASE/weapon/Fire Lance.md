@@ -1,8 +1,6 @@
 ﻿---
 bulk: '2'
 damage: 1d6 P
-deity: null
-favored_weapon: null
 hands: '2'
 id: '190'
 item_category: Weapons
@@ -12,7 +10,6 @@ name: Fire Lance
 price: 5 gp
 range: 10 ft.
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:
 - '[[DATABASE/trait/Fatal|Fatal d10]]'

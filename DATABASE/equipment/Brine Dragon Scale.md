@@ -1,45 +1,15 @@
 ﻿---
-ac: null
 actions: '[reaction]'
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
 element: Water
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '2625'
 item_category: Consumables
 item_subcategory: Talismans
-land_speed: null
 level: '8'
-max_speed: null
 name: Brine Dragon Scale
-onset: null
 price: 100 gp
-range: null
 rarity: Uncommon
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
-school: null
-size: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-spell: null
-stage: null
 subcategory: consumable/talisman
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Acid|Acid]]'
 - '[[DATABASE/trait/Consumable|Consumable]]'
@@ -50,9 +20,6 @@ trigger: A creature in reach of the weapon takes an action with the [[DATABASE/t
   trait.
 type: Item
 usage: affixed to a melee weapon
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Brine Dragon Scale<span class="item-type">Item 8</span>

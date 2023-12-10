@@ -1,7 +1,5 @@
 ﻿---
-advanced_apocryphal_spell: null
 advanced_domain_spell: '[[DATABASE/spell/Unity|Unity]]'
-apocryphal_spell: null
 deity:
 - '[[DATABASE/deity/Adanye|Adanye]]'
 - '[[DATABASE/deity/Andoletta|Andoletta]]'
@@ -53,9 +51,7 @@ domain_spell: '[[DATABASE/spell/Soothing Words|Soothing Words]]'
 id: '11'
 name: Family Domain
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Domain
 
 ---

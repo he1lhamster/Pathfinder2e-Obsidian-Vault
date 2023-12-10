@@ -29,11 +29,9 @@ follower_alignment:
 id: '217'
 name: Tlehar
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Crafting|Crafting]]'
 source: '[[DATABASE/source/Legends|Legends]]'
-trait: null
 type: Deity
 
 ---

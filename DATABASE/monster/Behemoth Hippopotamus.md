@@ -1,10 +1,7 @@
 ﻿---
 ac: '29'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Aquatic Ambush
@@ -15,25 +12,17 @@ creature_ability:
 - Trample
 creature_family: '[[DATABASE/monsterfamily/Hippopotamus|Hippopotamus]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+22'
-hardness: null
 hp: '190'
 id: '700'
-immunity: null
 intelligence: '-4'
 land_speed: '35'
-language: null
 level: '10'
 max_speed: '35'
 name: Behemoth Hippopotamus
 perception: '+19'
 rarity: Common
 reflex: '+17'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Scent|scent (imprecise) 30 feet]]'
@@ -46,7 +35,6 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 35 feet
 - swim 35 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
@@ -58,7 +46,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Reflex
-weakness: null
 will: '+19'
 wisdom: '+5'
 

@@ -1,10 +1,7 @@
 ﻿---
 ac: '21'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Coven
@@ -17,7 +14,6 @@ dexterity: '+2'
 element: Air
 fly_speed: '40'
 fortitude: '+15'
-hardness: null
 hp: '95'
 id: '1186'
 immunity:
@@ -35,9 +31,6 @@ name: Storm Hag
 perception: '+12'
 rarity: Common
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - stormsight
@@ -62,7 +55,6 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Electricity|Electricity]]'

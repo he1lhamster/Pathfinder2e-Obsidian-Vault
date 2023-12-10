@@ -1,19 +1,13 @@
 ﻿---
 ac: '18'
 alignment: CG
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Breath Weapon
-creature_family: null
 dexterity: '+4'
-element: null
 fly_speed: '40'
 fortitude: '+5'
-hardness: null
 hp: '30'
 id: '205'
 immunity:
@@ -31,9 +25,6 @@ name: Faerie Dragon
 perception: '+16'
 rarity: Uncommon
 reflex: '+12'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Tiny
@@ -70,7 +61,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+11'
 wisdom: '+0'
 

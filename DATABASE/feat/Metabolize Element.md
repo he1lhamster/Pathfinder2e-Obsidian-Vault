@@ -1,24 +1,17 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Metabolize Element
-frequency: null
-heighten_level: null
-id: '4346'
+id: '2990'
 level: '8'
 name: Metabolize Element
 prerequisite: '[[DATABASE/feat/Elementalist Dedication|Elementalist Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
-source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
+source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: You take damage from a foe's spell or magical ability with a trait of one
-  of the elements in yourelemental philosophy.
+trigger: You take damage from a foe's spell or magical ability with the [[DATABASE/trait/Air|air]]
+  , [[DATABASE/trait/Earth|earth]] , [[DATABASE/trait/Fire|fire]] , or [[DATABASE/trait/Water|water]]
+  trait.
 type: Feat
 
 ---

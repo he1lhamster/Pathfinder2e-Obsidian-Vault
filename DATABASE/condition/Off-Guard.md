@@ -1,7 +1,6 @@
 ﻿---
 id: '58'
 name: Off-Guard
-source: null
 
 ---
 # Off-Guard

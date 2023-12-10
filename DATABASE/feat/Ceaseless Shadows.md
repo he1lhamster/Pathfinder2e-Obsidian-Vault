@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Ceaseless Shadows
-frequency: null
-heighten_level: null
 id: '64'
 level: '13'
 name: Ceaseless Shadows
 prerequisite: '[[DATABASE/feat/Distracting Shadows|Distracting Shadows]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Halfling|Halfling]]'
-trigger: null
 type: Feat
 
 ---

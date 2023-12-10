@@ -4,9 +4,7 @@ level: '4'
 name: Scarlet Leprosy
 onset: 1 day
 rarity: Common
-rus_type_level: null
 saving_throw: DC 19 Fortitude
-school: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 stage: "Stage 1: 2d6 bludgeoning damage (1 day)Stage 2: 2d6 bludgeoning damage, and\
   \ whenever you gain the wounded condition, increase the condition value by 1 (1\

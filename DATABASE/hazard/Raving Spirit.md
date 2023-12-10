@@ -1,29 +1,16 @@
 ﻿---
-ac: null
-all_resistance: null
 complexity: Complex
-element: null
-fortitude: null
-hardness: null
 hazard_type: Haunt
-hp: null
 id: '226'
-immunity: null
 level: '11'
 name: Raving Spirit
 rarity: Common
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 153. Life''s Long Shadows|Pathfinder #153: Life''s
   Long Shadows]]'
 trait:
 - '[[DATABASE/trait/Complex|Complex]]'
 - '[[DATABASE/trait/Haunt|Haunt]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Raving Spirit<span class="item-type">Hazard 11</span>

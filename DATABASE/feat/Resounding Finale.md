@@ -1,20 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Resounding Finale
-frequency: null
-heighten_level: null
 id: '1659'
 level: '16'
 name: Resounding Finale
 prerequisite: '[[DATABASE/bardmuse/Maestro|maestro muse]]'
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Abjuration
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Bard|Bard]]'

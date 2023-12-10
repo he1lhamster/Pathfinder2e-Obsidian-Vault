@@ -1,8 +1,6 @@
 ﻿---
 ac: '22'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
 climb_speed: '25'
 constitution: '+2'
@@ -10,15 +8,10 @@ creature_ability:
 - Channel Smite
 - Shrieking Frenzy
 - Thrown Weapon Mastery
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+11'
-hardness: null
 hp: '63'
 id: '1537'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -31,9 +24,6 @@ name: Malarunk
 perception: '+13'
 rarity: Unique
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -67,7 +57,6 @@ strength: '+3'
 strength_req: '3'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Charau-ka|Charau-ka]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -76,7 +65,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+13'
 wisdom: '+4'
 

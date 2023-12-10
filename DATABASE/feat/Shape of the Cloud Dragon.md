@@ -1,25 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Shape of the Cloud Dragon
-frequency: null
-heighten_level: null
 id: '3407'
 level: '14'
 name: Shape of the Cloud Dragon
 prerequisite: '[[DATABASE/feat/Dragon Disciple Dedication|Dragon Disciple Dedication]]'
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 171. Hurricane''s Howl|Pathfinder #171: Hurricane''s
   Howl]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

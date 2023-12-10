@@ -1,10 +1,7 @@
 ﻿---
 ac: '40'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Counterspell
@@ -12,12 +9,9 @@ creature_ability:
 - Paralyzing Touch
 - Resist Arcane Magic
 - Unflinching Spellcasting
-creature_family: null
 dexterity: '+5'
-element: null
 fly_speed: '25'
 fortitude: '+31'
-hardness: null
 hp: 270 ( negative healing , rejuvenation)
 id: '1716'
 immunity:
@@ -42,8 +36,6 @@ resistance:
 - arcane spell damage 5
 - '[[DATABASE/trait/Cold|cold]] 20'
 - physical 15 (except magicbludgeoning)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -97,7 +89,6 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Undead|Undead]]'
 - '[[DATABASE/trait/Unique|Unique]]'
@@ -105,7 +96,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+30'
 wisdom: '+4'
 

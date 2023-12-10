@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Expanded Elemental Magic
-frequency: null
-heighten_level: null
 id: '4345'
 level: '6'
 name: Expanded Elemental Magic
 prerequisite: '[[DATABASE/feat/Elementalist Dedication|Elementalist Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

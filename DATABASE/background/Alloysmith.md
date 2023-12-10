@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Specialty Crafting|Specialty Crafting]]'
 id: '376'
 name: Alloysmith
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Crafting|Crafting]]'
 - Plane of Metal [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

@@ -4,9 +4,7 @@ level: '3'
 name: Bubonic Plague
 onset: 1 day
 rarity: Common
-rus_type_level: null
 saving_throw: DC 17 Fortitude
-school: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 stage: 'Stage 1: fatigued (1 day)Stage 2: enfeebled 2 and fatigued (1 day)Stage 3:
   enfeebled 3, fatigued, and take 1d6 persistentbleed damage every 1d20 minutes (1

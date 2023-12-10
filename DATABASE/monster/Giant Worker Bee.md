@@ -1,34 +1,24 @@
 ﻿---
 ac: '16'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Smoke Susceptibility
 creature_family: '[[DATABASE/monsterfamily/Giant Bee|Giant Bee]]'
 dexterity: '+3'
-element: null
 fly_speed: '40'
 fortitude: '+6'
-hardness: null
 hp: '16'
 id: '1609'
-immunity: null
 intelligence: '-5'
 land_speed: '20'
-language: null
 level: '0'
 max_speed: '40'
 name: Giant Worker Bee
 perception: '+5'
 rarity: Common
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -40,12 +30,10 @@ source: '[[DATABASE/source/Pathfinder 169. Kindled Magic|Pathfinder #169: Kindle
 speed:
 - 20 feet
 - fly 40 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature

@@ -1,21 +1,14 @@
 ﻿---
 ac: '21'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Spiteful Command
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+9'
 hp: '85'
 id: '2289'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -26,9 +19,6 @@ name: Malgorzata Niska
 perception: '+13'
 rarity: Unique
 reflex: '+13'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Deception|Deception]] +13'
@@ -57,16 +47,13 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+15'
 wisdom: '+4'
 

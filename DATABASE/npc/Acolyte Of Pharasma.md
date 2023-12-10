@@ -1,20 +1,12 @@
 ﻿---
 ac: '15'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '-1'
-creature_ability: null
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+2'
 hp: '16'
 id: '1960'
-immunity: null
 intelligence: '+2'
 land_speed: '25'
 language:
@@ -26,9 +18,6 @@ name: Acolyte Of Pharasma
 perception: '+7'
 rarity: Uncommon
 reflex: '+5'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Crafting|Crafting]] +5'
@@ -53,16 +42,13 @@ strength: '+1'
 strength_req: '1'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+9'
 wisdom: '+4'
 

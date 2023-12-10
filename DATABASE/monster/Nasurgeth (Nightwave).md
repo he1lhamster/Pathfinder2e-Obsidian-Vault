@@ -1,10 +1,7 @@
 ﻿---
 ac: '45'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+7'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Broken Barb
@@ -16,10 +13,8 @@ creature_ability:
 - Whole
 creature_family: '[[DATABASE/monsterfamily/Darvakka|Darvakka]]'
 dexterity: '+6'
-element: null
 fly_speed: '60'
 fortitude: '+35'
-hardness: null
 hp: 510 ( negative healing )
 id: '1851'
 immunity:
@@ -30,7 +25,6 @@ immunity:
 - '[[DATABASE/trait/Poison|poison]]'
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '+8'
-land_speed: null
 language:
 - '[[DATABASE/language/Abyssal|Abyssal]]'
 - '[[DATABASE/language/Common|Common]]'
@@ -43,9 +37,6 @@ name: Nasurgeth
 perception: '+36'
 rarity: Common
 reflex: '+32'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 - '[[DATABASE/monsterability/Lifesense|lifesense]] 60 feet'

@@ -1,37 +1,26 @@
 ﻿---
 ac: '33'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Flying Strafe
 - Snack
 - Snatch
 - Wing Rebuff
-creature_family: null
 dexterity: '+5'
-element: null
 fly_speed: '60'
 fortitude: '+25'
-hardness: null
 hp: '220'
 id: '2236'
-immunity: null
 intelligence: '-4'
 land_speed: '20'
-language: null
 level: '12'
 max_speed: '60'
 name: Talon Peak Roc
 perception: '+22'
 rarity: Unique
 reflex: '+23'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Gargantuan
@@ -42,12 +31,10 @@ source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 speed:
 - 20 feet
 - fly 60 feet
-spell: null
 strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 - '[[DATABASE/trait/Unique|Unique]]'
@@ -55,7 +42,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+20'
 wisdom: '+4'
 

@@ -1,10 +1,6 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Prayer Attack
-frequency: null
-heighten_level: null
 id: '2164'
 level: '14'
 name: Prayer Attack
@@ -13,14 +9,10 @@ prerequisite: '[[DATABASE/feat/Red Mantis Assassin Dedication|Red Mantis Assassi
 rarity: Common
 requirement: You are wielding a [[DATABASE/weapon/Sawtooth Saber|sawtooth saber]]
   in each hand.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Legends|Legends]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
-trigger: null
 type: Feat
 
 ---

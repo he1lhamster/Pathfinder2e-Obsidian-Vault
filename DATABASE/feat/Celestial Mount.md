@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Celestial Mount
-frequency: null
-heighten_level: null
 id: '261'
 level: '20'
 name: Celestial Mount
 prerequisite: '[[DATABASE/class_/Champion|divine ally (steed)]] ; [[DATABASE/championtenet/Good|tenets
   of good]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Champion|Champion]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Guiding Riposte
-frequency: null
-heighten_level: null
 id: '417'
 level: '14'
 name: Guiding Riposte
 prerequisite: '[[DATABASE/feat/Dueling Riposte|Dueling Riposte]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fighter|Fighter]]'
-trigger: null
 type: Feat
 
 ---

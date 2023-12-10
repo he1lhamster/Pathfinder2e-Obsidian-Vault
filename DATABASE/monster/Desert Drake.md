@@ -1,10 +1,8 @@
 ﻿---
 ac: '27'
 alignment: NE
-all_resistance: null
 burrow_speed: '20'
 charisma: '+1'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Draconic Frenzy
@@ -17,7 +15,6 @@ dexterity: '+3'
 element: Earth
 fly_speed: '50'
 fortitude: '+17'
-hardness: null
 hp: '135'
 id: '164'
 immunity:
@@ -35,8 +32,6 @@ rarity: Common
 reflex: '+15'
 resistance:
 - electricity 16
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - scent (imprecise) 30 feet
@@ -51,12 +46,10 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 20 feet; burrow 20 feet (sand only)
 - fly 50 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dragon|Dragon]]'
 - '[[DATABASE/trait/Earth|Earth]]'
@@ -64,7 +57,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+13'
 wisdom: '+3'
 

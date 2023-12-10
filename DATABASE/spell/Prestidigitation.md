@@ -1,28 +1,15 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: sustained
-element: null
-heighten: null
 heighten_level: '1'
 id: '229'
-lesson: null
 level: '1'
-mystery: null
 name: Prestidigitation
-patron_theme: null
 range: 10 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: 1 object (cook, lift, or tidy only)
@@ -35,7 +22,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Cantrip|Cantrip]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
-trigger: null
 type: Cantrip
 
 ---

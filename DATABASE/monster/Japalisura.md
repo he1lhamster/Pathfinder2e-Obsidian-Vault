@@ -1,10 +1,7 @@
 ﻿---
 ac: '33'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Disorienting Faces
@@ -13,10 +10,7 @@ creature_ability:
 - Veil of Lies
 creature_family: '[[DATABASE/monsterfamily/Asura|Asura]]'
 dexterity: '+7'
-element: null
-fly_speed: null
 fortitude: '+20'
-hardness: null
 hp: '235'
 id: '1071'
 immunity:
@@ -33,9 +27,6 @@ name: Japalisura
 perception: '+22'
 rarity: Common
 reflex: '+25'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/spell/See Invisibility|see invisibility]]'
@@ -60,7 +51,6 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Asura|Asura]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

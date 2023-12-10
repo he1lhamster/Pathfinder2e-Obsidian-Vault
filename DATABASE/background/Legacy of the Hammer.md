@@ -8,9 +8,7 @@ ability_boost:
 feat: '[[DATABASE/feat/Concealing Legerdemain|Concealing Legerdemain]]'
 id: '326'
 name: Legacy of the Hammer
-prerequisite: null
 rarity: Uncommon
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Thievery|Thievery]]'
 - Engineering [[DATABASE/skill/Lore|Lore]]

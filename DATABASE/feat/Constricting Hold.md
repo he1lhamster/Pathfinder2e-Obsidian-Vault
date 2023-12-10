@@ -1,26 +1,17 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Constricting Hold
-frequency: null
-heighten_level: null
 id: '2917'
 level: '8'
 name: Constricting Hold
-prerequisite: null
 rarity: Common
 requirement: Your eidolon has a creature [[DATABASE/condition/Grabbed|grabbed]] or
   [[DATABASE/condition/Restrained|restrained]] .
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Eidolon|Eidolon]]'
 - '[[DATABASE/trait/Evolution|Evolution]]'
 - '[[DATABASE/trait/Summoner|Summoner]]'
-trigger: null
 type: Feat
 
 ---

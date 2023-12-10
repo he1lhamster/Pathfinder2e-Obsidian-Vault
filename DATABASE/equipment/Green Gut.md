@@ -1,57 +1,23 @@
 ﻿---
-ac: null
 actions: '[one-action]'
-alignment: null
-base_item: null
 bulk: L
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '656'
 item_category: Alchemical Items
 item_subcategory: Alchemical Poisons
-land_speed: null
 level: '17'
-max_speed: null
 name: Green Gut
-onset: null
 price: 2,500 gp
-range: null
 rarity: Uncommon
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
-school: null
-size: null
 source: '[[DATABASE/source/Pathfinder 155. Lord of the Black Sands|Pathfinder #155:
   Lord of the Black Sands]]'
-spell: null
-stage: null
 subcategory: alchemical/poison
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Alchemical|Alchemical]]'
 - '[[DATABASE/trait/Consumable|Consumable]]'
 - '[[DATABASE/trait/Poison|Poison]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Item
 usage: held in 1 hand
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Green Gut<span class="item-type">Item 17</span>

@@ -1,10 +1,7 @@
 ﻿---
 ac: '17'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Draconic Frenzy
@@ -15,10 +12,8 @@ creature_ability:
 - Speed Surge
 creature_family: '[[DATABASE/monsterfamily/Drake|Drake]]'
 dexterity: '+4'
-element: null
 fly_speed: '60'
 fortitude: '+7'
-hardness: null
 hp: '28'
 id: '640'
 immunity:
@@ -34,9 +29,6 @@ name: Shadow Drake
 perception: '+6'
 rarity: Common
 reflex: '+10'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent (imprecise) 30 feet]]'
@@ -49,12 +41,10 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 15 feet
 - fly 60 feet
-spell: null
 strength: '+1'
 strength_req: '1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dragon|Dragon]]'
 - '[[DATABASE/trait/Shadow|Shadow]]'

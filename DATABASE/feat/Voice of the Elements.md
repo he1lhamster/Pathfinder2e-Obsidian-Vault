@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Voice of the Elements
-frequency: null
-heighten_level: null
 id: '4188'
 level: '2'
 name: Voice of the Elements
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Kineticist|Kineticist]]'
-trigger: null
 type: Feat
 
 ---

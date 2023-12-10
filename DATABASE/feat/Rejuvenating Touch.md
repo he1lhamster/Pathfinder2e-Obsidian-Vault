@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Rejuvenating Touch
-frequency: null
-heighten_level: null
 id: '1693'
 level: '18'
 name: Rejuvenating Touch
 prerequisite: devotion spell ( [[DATABASE/spell/Lay on Hands|lay on hands]] )
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Champion|Champion]]'
-trigger: null
 type: Feat
 
 ---

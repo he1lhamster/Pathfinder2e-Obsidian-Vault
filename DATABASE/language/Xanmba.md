@@ -2,7 +2,6 @@
 id: '81'
 name: Xanmba
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

@@ -1,28 +1,18 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Dispater|Dispater]]'
-domain: null
 duration: 1 minute or until dismissed; see text
-element: null
 heighten: '+1'
 heighten_level: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
 id: '591'
-lesson: null
 level: '1'
-mystery: null
 name: Tether
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Reflex
 school: Abjuration
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -32,7 +22,6 @@ tradition:
 - Primal
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
-trigger: null
 type: Spell
 
 ---

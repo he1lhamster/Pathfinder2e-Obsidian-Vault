@@ -9,9 +9,6 @@ alignment: LN
 deity:
 - '[[DATABASE/deity/Prophecies of Kalistrade|Prophecies of Kalistrade]]'
 deity_category: Faiths & Philosophies
-divine_font: null
-domain: null
-favored_weapon: null
 follower_alignment:
 - LG
 - LN
@@ -19,11 +16,9 @@ follower_alignment:
 id: '23'
 name: Prophecies of Kalistrade
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Diplomacy|Diplomacy]]'
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
-trait: null
 type: Deity
 
 ---

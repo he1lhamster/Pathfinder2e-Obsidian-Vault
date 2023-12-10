@@ -1,38 +1,23 @@
 ﻿---
-actions: null
 area: 60-foot burst
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: until your next daily preparations
-element: null
-heighten: null
 heighten_level: '2'
 id: '966'
-lesson: null
 level: '2'
-mystery: null
 name: Persistent Servant
-patron_theme: null
 range: 120 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-target: null
 tradition:
 - Arcane
 - Occult
 trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
-trigger: null
 type: Spell
 
 ---

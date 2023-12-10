@@ -1,23 +1,17 @@
 ﻿---
 ac: '16'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Covetous of Secrets
 - Doru Venom
 creature_family: '[[DATABASE/monsterfamily/Div|Div]]'
 dexterity: '+4'
-element: null
 fly_speed: '30'
 fortitude: '+4'
-hardness: null
 hp: '20'
 id: '1117'
-immunity: null
 intelligence: '+3'
 land_speed: '15'
 language:
@@ -30,9 +24,6 @@ name: Doru
 perception: '+7'
 rarity: Common
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 size: Tiny
@@ -57,7 +48,6 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Div|Div]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

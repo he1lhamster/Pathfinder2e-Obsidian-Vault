@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Monstrosity Shape
-frequency: null
-heighten_level: null
 id: '349'
+leads_to: '[[DATABASE/feat/Heart of the Kaiju|Heart of the Kaiju]]'
 level: '16'
 name: Monstrosity Shape
 prerequisite: '[[DATABASE/feat/Wild Shape|Wild Shape]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Druid|Druid]]'
-trigger: null
 type: Feat
 
 ---

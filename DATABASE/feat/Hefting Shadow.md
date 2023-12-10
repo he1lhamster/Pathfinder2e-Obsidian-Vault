@@ -1,26 +1,17 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Hefting Shadow
-frequency: null
-heighten_level: null
 id: '2510'
 level: '9'
 name: Hefting Shadow
 prerequisite: '[[DATABASE/feat/Clever Shadow|Clever Shadow]]'
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Conjuration
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Fetchling|Fetchling]]'
 - '[[DATABASE/trait/Occult|Occult]]'
 - '[[DATABASE/trait/Shadow|Shadow]]'
-trigger: null
 type: Feat
 
 ---

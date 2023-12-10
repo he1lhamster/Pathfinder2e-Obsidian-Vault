@@ -1,24 +1,17 @@
 ﻿---
 ac: '22'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Envelop
 - Infrasonic Moan
 - Shadow Shift
-creature_family: null
 dexterity: '+3'
-element: null
 fly_speed: '30'
 fortitude: '+13'
-hardness: null
 hp: '80'
 id: '82'
-immunity: null
 intelligence: '+2'
 land_speed: '10'
 language:
@@ -30,9 +23,6 @@ name: Cloaker
 perception: '+12'
 rarity: Common
 reflex: '+12'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Large
@@ -44,12 +34,10 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 10 feet
 - fly 30 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 type: Creature
@@ -57,7 +45,6 @@ vision: Darkvision
 weakest_save:
 - Reflex
 - Will
-weakness: null
 will: '+12'
 wisdom: '+3'
 

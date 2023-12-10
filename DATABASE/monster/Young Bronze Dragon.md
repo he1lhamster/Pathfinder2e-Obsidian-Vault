@@ -1,10 +1,7 @@
 ﻿---
 ac: '28'
 alignment: LG
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Attack of Opportunity
@@ -19,7 +16,6 @@ dexterity: '+1'
 element: Water
 fly_speed: '120'
 fortitude: '+19'
-hardness: null
 hp: '170'
 id: '145'
 immunity:
@@ -41,9 +37,6 @@ name: Young Bronze Dragon
 perception: '+18'
 rarity: Common
 reflex: '+17'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - scent (imprecise) 60 feet
@@ -78,7 +71,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+19'
 wisdom: '+3'
 

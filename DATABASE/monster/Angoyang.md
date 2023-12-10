@@ -1,25 +1,17 @@
 ﻿---
 ac: '35'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+7'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Dander Scent
 - I Am A Cat
 - Silent Yowl
 - Slow Blink
-creature_family: null
 dexterity: '+7'
-element: null
-fly_speed: null
 fortitude: '+24'
-hardness: null
 hp: '250'
 id: '1402'
-immunity: null
 intelligence: '+5'
 land_speed: '35'
 language:
@@ -30,9 +22,6 @@ name: Angoyang
 perception: '+25'
 rarity: Common
 reflex: '+29'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - dander scent (1 mile
 - imprecise)
@@ -46,19 +35,16 @@ skill:
 source: '[[DATABASE/source/Pathfinder 167. Ready Fight!|Pathfinder #167: Ready? Fight!]]'
 speed:
 - 35 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+25'
 wisdom: '+5'
 

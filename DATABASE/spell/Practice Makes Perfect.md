@@ -1,31 +1,15 @@
 ﻿---
 actions: '[reaction]'
-area: null
-bloodline: null
-component: null
-cost: null
-deity: null
 domain:
 - '[[DATABASE/domain/Toil Domain|Toil]]'
-duration: null
-element: null
-heighten: null
 heighten_level: '1'
 id: '1346'
-lesson: null
 level: '1'
-mystery: null
 name: Practice Makes Perfect
-patron_theme: null
 range: 30 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 target: the triggering creature
-tradition: null
 trait:
 - '[[DATABASE/trait/Focus|Focus]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'

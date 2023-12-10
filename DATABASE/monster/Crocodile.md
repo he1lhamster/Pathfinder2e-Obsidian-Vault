@@ -1,10 +1,7 @@
 ﻿---
 ac: '18'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-4'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Aquatic Ambush
@@ -12,25 +9,17 @@ creature_ability:
 - Deep Breath
 creature_family: '[[DATABASE/monsterfamily/Crocodile|Crocodile]]'
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+9'
-hardness: null
 hp: '30'
 id: '84'
-immunity: null
 intelligence: '-5'
 land_speed: '20'
-language: null
 level: '2'
 max_speed: '25'
 name: Crocodile
 perception: '+7'
 rarity: Common
 reflex: '+7'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 size: Large
@@ -41,7 +30,6 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 20 feet
 - swim 25 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
@@ -53,7 +41,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+5'
 wisdom: '+1'
 

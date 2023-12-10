@@ -1,24 +1,15 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Shattering Shot
-frequency: null
-heighten_level: null
 id: '3194'
 level: '12'
 name: Shattering Shot
-prerequisite: null
 rarity: Common
 requirement: You're wielding a loaded firearm or loaded crossbow and are wearing or
   holding an alchemicalbomb.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Gunslinger|Gunslinger]]'
-trigger: null
 type: Feat
 
 ---

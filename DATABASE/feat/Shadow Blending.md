@@ -1,20 +1,12 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Shadow Blending
-frequency: null
-heighten_level: null
 id: '2502'
 level: '1'
 name: Shadow Blending
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Illusion
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fetchling|Fetchling]]'
 - '[[DATABASE/trait/Illusion|Illusion]]'

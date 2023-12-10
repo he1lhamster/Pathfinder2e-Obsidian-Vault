@@ -1,10 +1,7 @@
 ﻿---
 ac: '27'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Clutch
@@ -12,25 +9,18 @@ creature_ability:
 - Swoop
 creature_family: '[[DATABASE/monsterfamily/Dragonfly|Dragonfly]]'
 dexterity: '+4'
-element: null
 fly_speed: '60'
 fortitude: '+17'
-hardness: null
 hp: '165'
 id: '2240'
-immunity: null
 intelligence: '-5'
 land_speed: '20'
-language: null
 level: '9'
 max_speed: '60'
 name: Enormous Dragonfly
 perception: '+16'
 rarity: Common
 reflex: '+21'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Wavesense|wavesense]] (imprecise) 30 feet'
@@ -43,19 +33,16 @@ source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 speed:
 - 20 feet
 - fly 60 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+14'
 wisdom: '+3'
 

@@ -1,10 +1,6 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Flensing Slice
-frequency: null
-heighten_level: null
 id: '1953'
 level: '8'
 name: Flensing Slice
@@ -13,13 +9,9 @@ prerequisite: '[[DATABASE/feat/Dual-Weapon Warrior Dedication|Dual-Weapon Warrio
 rarity: Common
 requirement: Your last action was a [[DATABASE/feat/Double Slice|Double Slice]] ,
   and both attacks hitthe target.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

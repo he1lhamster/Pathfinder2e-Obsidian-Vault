@@ -1,8 +1,6 @@
 ﻿---
 ac: '33'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
 climb_speed: '20'
 constitution: '+4'
@@ -15,12 +13,8 @@ creature_ability:
 - Rend
 - ''
 - Thoughtsense
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+25'
-hardness: null
 hp: 180 ( fast healing 10 , negative healing )
 id: '2097'
 immunity:
@@ -46,8 +40,6 @@ reflex: '+19'
 resistance:
 - '[[DATABASE/trait/Mental|mental]] 10'
 - physical 10 (except [[DATABASE/equipment/Cold Iron Weapon|cold iron]] bludgeoning)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - thoughtsense
@@ -76,7 +68,6 @@ strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Undead|Undead]]'
 - '[[DATABASE/trait/Unique|Unique]]'

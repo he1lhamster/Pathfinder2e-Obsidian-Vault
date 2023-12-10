@@ -1,10 +1,7 @@
 ﻿---
 ac: '38'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Daemonic Trap Making
@@ -13,10 +10,7 @@ creature_ability:
 - Trap Dodger
 creature_family: '[[DATABASE/monsterfamily/Daemon|Daemon]]'
 dexterity: '+7'
-element: null
-fly_speed: null
 fortitude: '+26'
-hardness: null
 hp: '225'
 id: '479'
 immunity:
@@ -35,8 +29,6 @@ rarity: Common
 reflex: '+30'
 resistance:
 - physical 10 (except adamantine)
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - '[[DATABASE/spell/Detect Alignment|detect alignment]] (good only)'
@@ -67,7 +59,6 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Daemon|Daemon]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

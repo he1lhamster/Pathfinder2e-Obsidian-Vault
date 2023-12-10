@@ -1,10 +1,7 @@
 ﻿---
 ac: '26'
 alignment: CG
-all_resistance: null
-burrow_speed: null
 charisma: '+7'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Change Shape
@@ -18,12 +15,9 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Nymph|Nymph]]'
 dexterity: '+5'
 element: Water
-fly_speed: null
 fortitude: '+15'
-hardness: null
 hp: '100'
 id: '313'
-immunity: null
 intelligence: '+3'
 land_speed: '25'
 language:
@@ -38,8 +32,6 @@ rarity: Uncommon
 reflex: '+18'
 resistance:
 - fire 10
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 - '[[DATABASE/spell/Speak with Animals|speak with animals]]'

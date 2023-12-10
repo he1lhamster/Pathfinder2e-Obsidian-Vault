@@ -2,9 +2,7 @@
 id: '106'
 name: Taldane
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/The Enmity Cycle|The Enmity Cycle]]'
-trait: null
 type: Language
 
 ---

@@ -1,21 +1,14 @@
 ﻿---
 ac: '33'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+7'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Little Favors
 - Rejuvenation
 - Zealous Restoration
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+18'
-hardness: null
 hp: 210 (rejuvenation)
 id: '1014'
 immunity:
@@ -38,8 +31,6 @@ rarity: Uncommon
 reflex: '+22'
 resistance:
 - chaotic 10
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -65,7 +56,6 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 - '[[DATABASE/trait/Undead|Undead]]'
@@ -73,7 +63,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+24'
 wisdom: '+5'
 

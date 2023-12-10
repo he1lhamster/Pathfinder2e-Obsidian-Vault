@@ -1,36 +1,24 @@
 ﻿---
 ac: '20'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Cold Adaptation
 - Pointed Charge
 - Rolling Thunder
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+13'
-hardness: null
 hp: '70'
 id: '1080'
-immunity: null
 intelligence: '-5'
 land_speed: '30'
-language: null
 level: '4'
 max_speed: '30'
 name: Bison
 perception: '+8'
 rarity: Common
 reflex: '+11'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 60 feet'
 size: Large
@@ -40,19 +28,15 @@ skill:
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 30 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+8'
 wisdom: '+2'
 

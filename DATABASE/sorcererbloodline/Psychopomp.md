@@ -3,7 +3,6 @@ bloodline: Psychopomp
 id: '13'
 name: Psychopomp
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 spell:
 - '[[DATABASE/spell/Calm Emotions|Calm Emotions]]'
@@ -19,7 +18,6 @@ spell:
 - '[[DATABASE/spell/Spirit Blast|Spirit Blast]]'
 - '[[DATABASE/spell/Spirit Song|Spirit Song]]'
 - '[[DATABASE/spell/Spirit Veil|Spirit Veil]]'
-trait: null
 type: Sorcerer Bloodline
 
 ---

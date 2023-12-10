@@ -1,10 +1,7 @@
 ﻿---
 ac: '28'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Caustic Fog
@@ -12,13 +9,9 @@ creature_ability:
 - Self-Detonate
 creature_family: '[[DATABASE/monsterfamily/Xulgath|Xulgath]]'
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+23'
-hardness: null
 hp: '190'
 id: '535'
-immunity: null
 intelligence: '-2'
 land_speed: '40'
 language:
@@ -32,8 +25,6 @@ rarity: Common
 reflex: '+22'
 resistance:
 - acid 10
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -45,12 +36,10 @@ source: '[[DATABASE/source/Pathfinder 154. Siege of the Dinosaurs|Pathfinder #15
   Siege of the Dinosaurs]]'
 speed:
 - 40 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Xulgath|Xulgath]]'
@@ -58,7 +47,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+17'
 wisdom: '+1'
 

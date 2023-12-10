@@ -1,10 +1,7 @@
 ﻿---
 ac: '21'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Bloodcurdling Screech
@@ -12,25 +9,17 @@ creature_ability:
 - Screeching Advance
 creature_family: '[[DATABASE/monsterfamily/Owlbear|Owlbear]]'
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+13'
-hardness: null
 hp: '70'
 id: '328'
-immunity: null
 intelligence: '-4'
 land_speed: '25'
-language: null
 level: '4'
 max_speed: '25'
 name: Owlbear
 perception: '+13'
 rarity: Common
 reflex: '+7'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 - scent (imprecise) 30 feet
@@ -42,19 +31,16 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 25 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
 vision: Low-light vision
 weakest_save:
 - Reflex
-weakness: null
 will: '+11'
 wisdom: '+3'
 

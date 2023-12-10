@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Quick Alchemy
-frequency: null
-heighten_level: null
 id: '667'
 level: '4'
 name: Quick Alchemy
 prerequisite: '[[DATABASE/feat/Alchemist Dedication|Alchemist Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

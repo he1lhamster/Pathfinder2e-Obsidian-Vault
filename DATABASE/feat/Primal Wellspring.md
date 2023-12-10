@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Primal Wellspring
-frequency: null
-heighten_level: null
 id: '352'
 level: '18'
 name: Primal Wellspring
 prerequisite: '[[DATABASE/feat/Primal Focus|Primal Focus]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Druid|Druid]]'
-trigger: null
 type: Feat
 
 ---

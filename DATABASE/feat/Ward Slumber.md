@@ -1,25 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Ward Slumber
-frequency: null
-heighten_level: null
 id: '3879'
 level: '12'
 name: Ward Slumber
 prerequisite: '[[DATABASE/feat/Sleepwalker Dedication|Sleepwalker Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Abjuration
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Occult|Occult]]'
-trigger: null
 type: Feat
 
 ---

@@ -2,7 +2,6 @@
 id: '146'
 name: Snare
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - Snare

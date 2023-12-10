@@ -2,9 +2,7 @@
 id: '19'
 name: Rest and Relax
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
-trait: null
 type: General Skill Action
 
 ---

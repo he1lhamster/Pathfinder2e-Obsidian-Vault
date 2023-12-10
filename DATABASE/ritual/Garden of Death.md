@@ -2,22 +2,16 @@
 area: 40-foot-radius burst
 cost: water infused with a dozen deadly toxins worth a total of 50 gp
 duration: 1 year
-element: null
-heighten: null
 heighten_level: '4'
 id: '58'
 level: '4'
 name: Garden of Death
 primary_check: '[[DATABASE/skill/Nature|Nature]] (expert)'
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Necromancy
 secondary_casters: '2'
 secondary_check: '[[DATABASE/skill/Crafting|Crafting]] , [[DATABASE/skill/Medicine|Medicine]]'
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-target: null
 trait:
 - '[[DATABASE/trait/Consecration|Consecration]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'

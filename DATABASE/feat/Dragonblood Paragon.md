@@ -1,10 +1,5 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Dragonblood Paragon
-frequency: null
-heighten_level: null
 id: '2387'
 level: '9'
 name: Dragonblood Paragon
@@ -12,14 +7,9 @@ prerequisite: '[[DATABASE/heritage/Strongjaw Kobold|Strongjaw Kobold]] heritage,
   Kobold|Venomtail Kobold]] heritage, [[DATABASE/feat/Dracomancer|Dracomancer]] ,
   or [[DATABASE/feat/Kobold Breath|Kobold Breath]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Kobold|Kobold]]'
-trigger: null
 type: Feat
 
 ---

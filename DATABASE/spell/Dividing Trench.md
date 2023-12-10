@@ -1,32 +1,20 @@
 ﻿---
 actions: '[three-actions]'
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 1 minute
 element: Earth
 heighten: '+2'
 heighten_level: 3, 5, 7, 9
 id: '1114'
-lesson: null
 level: '3'
-mystery: null
 name: Dividing Trench
-patron_theme: null
 range: 120 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
-target: null
 tradition:
 - Arcane
 - Primal
@@ -34,7 +22,6 @@ trait:
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Spell
 
 ---

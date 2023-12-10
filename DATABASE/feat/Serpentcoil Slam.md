@@ -1,23 +1,14 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Serpentcoil Slam
 frequency: once per minute
-heighten_level: null
 id: '3993'
 level: '9'
 name: Serpentcoil Slam
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Nagaji|Nagaji]]'
-trigger: null
 type: Feat
 
 ---

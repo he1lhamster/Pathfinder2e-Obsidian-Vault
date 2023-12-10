@@ -1,10 +1,7 @@
 ﻿---
 ac: '23'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Attack of Opportunity
@@ -12,12 +9,9 @@ creature_ability:
 - Sudden Charge
 creature_family: '[[DATABASE/monsterfamily/Mercenaries|Mercenaries]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+15'
 hp: '108'
 id: '924'
-immunity: null
 intelligence: '+1'
 land_speed: '20'
 language:
@@ -28,9 +22,6 @@ name: Monster Hunter
 perception: '+13'
 rarity: Common
 reflex: '+11'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +15'
@@ -40,20 +31,16 @@ skill:
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 speed:
 - 20 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+13'
 wisdom: '+1'
 

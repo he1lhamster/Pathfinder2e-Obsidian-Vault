@@ -2,7 +2,6 @@
 area: "100 feet \xD7 100 feet, up to 50 feet high"
 cost: rare incenses, oils, and powdered silver, worth 150 gp total
 duration: 1 week
-element: null
 heighten: '+1'
 heighten_level: 6, 7, 8, 9, 10
 id: '40'
@@ -10,16 +9,12 @@ level: '6'
 name: Ward Domain
 primary_check: '[[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
   , or [[DATABASE/skill/Occultism|Occultism]] (master)'
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Abjuration
 secondary_casters: '3'
 secondary_check: '[[DATABASE/skill/Lore|Lore]] (any), [[DATABASE/skill/Survival|Survival]]
   , [[DATABASE/skill/Thievery|Thievery]]'
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-target: null
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

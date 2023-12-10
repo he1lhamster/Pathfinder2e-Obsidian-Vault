@@ -1,10 +1,7 @@
 ﻿---
 ac: '39'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+9'
 creature_ability:
 - Attack of Opportunity
@@ -12,12 +9,8 @@ creature_ability:
 - Cloying Shadows
 - Tenebric Stride
 - Throw Rock
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+32'
-hardness: null
 hp: 360 ( negative healing )
 id: '2366'
 immunity:
@@ -40,9 +33,6 @@ name: Tenebric Giant
 perception: '+31'
 rarity: Rare
 reflex: '+27'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Lifesense|lifesense]] 80 feet'
@@ -56,12 +46,10 @@ source: '[[DATABASE/source/Pathfinder 185. A Taste of Ashes|Pathfinder #185: A T
   of Ashes]]'
 speed:
 - 25 feet
-spell: null
 strength: '+9'
 strength_req: '9'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Shadow|Shadow]]'

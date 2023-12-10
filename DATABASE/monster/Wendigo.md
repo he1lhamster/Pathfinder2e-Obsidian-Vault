@@ -1,10 +1,7 @@
 ﻿---
 ac: '40'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+9'
 creature_ability:
 - Dream Haunting
@@ -12,19 +9,15 @@ creature_ability:
 - Howl
 - Ride the Wind
 - Wendigo Torment
-creature_family: null
 dexterity: '+7'
-element: null
 fly_speed: '100'
 fortitude: '+32'
-hardness: null
 hp: '315'
 id: '409'
 immunity:
 - cold
 - fear
 intelligence: '+6'
-land_speed: null
 language:
 - '[[DATABASE/language/Aklo|Aklo]]'
 - '[[DATABASE/language/Common|Common]]'
@@ -35,9 +28,6 @@ name: Wendigo
 perception: '+32'
 rarity: Uncommon
 reflex: '+30'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - heatsight 60 feet
@@ -62,7 +52,6 @@ strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Cold|Cold]]'

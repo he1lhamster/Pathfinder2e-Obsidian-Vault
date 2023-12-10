@@ -1,10 +1,7 @@
 ﻿---
 ac: '38'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Contingency
@@ -19,10 +16,8 @@ creature_ability:
 - Trap Soul
 creature_family: '[[DATABASE/monsterfamily/Lich|Lich]]'
 dexterity: '+4'
-element: null
 fly_speed: '30'
 fortitude: '+23'
-hardness: null
 hp: 220 ( negative healing )
 id: '283'
 immunity:
@@ -32,7 +27,6 @@ immunity:
 - polymorph
 - unconscious
 intelligence: '+7'
-land_speed: null
 language:
 - '[[DATABASE/language/Abyssal|Abyssal]]'
 - '[[DATABASE/language/Aklo|Aklo]]'
@@ -53,8 +47,6 @@ resistance:
 - electricity 5
 - fire 5
 - physical 5 (except bludgeoning)
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - '[[DATABASE/spell/True Seeing|true seeing]]'
@@ -82,7 +74,6 @@ strength: '-3'
 strength_req: '-3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Undead|Undead]]'
@@ -91,7 +82,6 @@ vision: Darkvision
 weakest_save:
 - Fortitude
 - Will
-weakness: null
 will: '+23'
 wisdom: '-2'
 

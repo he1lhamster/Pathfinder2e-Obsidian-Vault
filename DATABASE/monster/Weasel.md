@@ -1,35 +1,24 @@
 ﻿---
 ac: '15'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Constrict
 - Lithe
 creature_family: '[[DATABASE/monsterfamily/Weasel|Weasel]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+4'
-hardness: null
 hp: '7'
 id: '1364'
-immunity: null
 intelligence: '-4'
 land_speed: '25'
-language: null
 level: '-1'
 max_speed: '25'
 name: Weasel
 perception: '+4'
 rarity: Common
 reflex: '+7'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 60 feet'
@@ -41,19 +30,16 @@ skill:
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 25 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+2'
 wisdom: '+0'
 

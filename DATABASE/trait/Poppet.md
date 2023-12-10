@@ -2,7 +2,6 @@
 id: '418'
 name: Poppet
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
 trait:
 - Poppet

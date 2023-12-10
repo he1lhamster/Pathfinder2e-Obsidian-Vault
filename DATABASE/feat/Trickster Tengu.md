@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Trickster Tengu
-frequency: null
-heighten_level: null
 id: '2448'
 level: '17'
 name: Trickster Tengu
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Tengu|Tengu]]'
-trigger: null
 type: Feat
 
 ---

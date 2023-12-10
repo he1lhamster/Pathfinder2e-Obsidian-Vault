@@ -1,23 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Soaring Shape
-frequency: null
-heighten_level: null
 id: '333'
+leads_to: '[[DATABASE/feat/Dragon Shape|Dragon Shape]] , [[DATABASE/feat/Reactive
+  Transformation|Reactive Transformation]]'
 level: '8'
 name: Soaring Shape
 prerequisite: '[[DATABASE/feat/Wild Shape|Wild Shape]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Druid|Druid]]'
-trigger: null
 type: Feat
 
 ---

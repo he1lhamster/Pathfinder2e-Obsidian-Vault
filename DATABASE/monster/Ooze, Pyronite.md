@@ -1,8 +1,6 @@
 ﻿---
 ac: '19'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
 climb_speed: '20'
 constitution: '+7'
@@ -13,10 +11,7 @@ creature_ability:
 - Split
 creature_family: '[[DATABASE/monsterfamily/Ooze|Ooze]]'
 dexterity: '-5'
-element: null
-fly_speed: null
 fortitude: '+24'
-hardness: null
 hp: '350'
 id: '1983'
 immunity:
@@ -29,16 +24,12 @@ immunity:
 - '[[DATABASE/trait/Visual|visual]]'
 intelligence: '-5'
 land_speed: '20'
-language: null
 level: '10'
 max_speed: '20'
 name: Pyronite Ooze
 perception: '+14'
 rarity: Rare
 reflex: '+14'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - no vision
 - '[[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) 60 feet'
@@ -50,18 +41,15 @@ source: '[[DATABASE/source/Pathfinder 180. The Smoking Gun|Pathfinder #180: The 
 speed:
 - 20 feet
 - climb 20 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Mindless|Mindless]]'
 - '[[DATABASE/trait/Ooze|Ooze]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
 weakness:

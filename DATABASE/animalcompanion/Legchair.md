@@ -1,11 +1,7 @@
 ﻿---
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+2'
 dexterity: '+2'
-element: null
-fly_speed: null
 hp: '8'
 id: '30'
 intelligence: '-4'
@@ -13,7 +9,6 @@ land_speed: '40'
 max_speed: '40'
 name: Legchair
 rarity: Common
-rus_type_level: null
 sense:
 - low-light vision
 - scent(imprecise
@@ -26,8 +21,6 @@ speed:
 - 40 feet
 strength: '+3'
 strength_req: '3'
-swim_speed: null
-trait: null
 type: Animal Companion
 wisdom: '+1'
 

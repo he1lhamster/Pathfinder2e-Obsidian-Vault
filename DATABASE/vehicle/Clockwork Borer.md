@@ -1,8 +1,6 @@
 ﻿---
 ac: '24'
 burrow_speed: '10'
-climb_speed: null
-fly_speed: null
 fortitude: '+18'
 hardness: '15'
 hp: '110'
@@ -14,13 +12,8 @@ max_speed: '20'
 name: Clockwork Borer
 price: 2,100 gp
 rarity: Rare
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 size: Huge
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Vehicle

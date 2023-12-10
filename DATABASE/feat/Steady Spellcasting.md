@@ -1,20 +1,11 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Steady Spellcasting
-frequency: null
-heighten_level: null
 id: '194'
+leads_to: '[[DATABASE/feat/Ward Casting|Ward Casting]]'
 level: '6'
 name: Steady Spellcasting
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Bard|Bard]]'
 - '[[DATABASE/trait/Cleric|Cleric]]'
@@ -24,7 +15,6 @@ trait:
 - '[[DATABASE/trait/Sorcerer|Sorcerer]]'
 - '[[DATABASE/trait/Witch|Witch]]'
 - '[[DATABASE/trait/Wizard|Wizard]]'
-trigger: null
 type: Feat
 
 ---

@@ -2,9 +2,7 @@
 id: '197'
 level: '2'
 name: Shieldmarshal
-prerequisite: null
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

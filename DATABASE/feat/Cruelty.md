@@ -1,27 +1,19 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Cruelty
-frequency: null
-heighten_level: null
 id: '1673'
+leads_to: '[[DATABASE/feat/Greater Cruelty|Greater Cruelty]]'
 level: '4'
 name: Cruelty
 prerequisite: devotion spell ( [[DATABASE/spell/Touch of Corruption|touch of corruption]]
   )
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Champion|Champion]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Metamagic|Metamagic]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,23 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Basic Sorcerer Spellcasting
-frequency: null
-heighten_level: null
 id: '735'
+leads_to: '[[DATABASE/feat/Bloodline Breadth|Bloodline Breadth]] , [[DATABASE/feat/Expert
+  Sorcerer Spellcasting|Expert Sorcerer Spellcasting]]'
 level: '4'
 name: Basic Sorcerer Spellcasting
 prerequisite: '[[DATABASE/feat/Sorcerer Dedication|Sorcerer Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

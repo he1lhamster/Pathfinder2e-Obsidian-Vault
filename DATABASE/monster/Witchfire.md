@@ -2,21 +2,16 @@
 ac: '28'
 alignment: CE
 all_resistance: '10'
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Coven
 - Opportune Witchflame
 - Witchflame
 - Witchflame Kindling
-creature_family: null
 dexterity: '+6'
-element: null
 fly_speed: '40'
 fortitude: '+15'
-hardness: null
 hp: 125 ( negative healing )
 id: '860'
 immunity:
@@ -28,7 +23,6 @@ immunity:
 - precision
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '+3'
-land_speed: null
 language:
 - '[[DATABASE/language/Aklo|Aklo]]'
 - '[[DATABASE/language/Common|Common]]'
@@ -43,8 +37,6 @@ resistance:
 - all 10 (except force
 - '[[DATABASE/equipment/Ghost Touch|ghost touch]]'
 - orpositive; double resistance vs. non-magical)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -70,7 +62,6 @@ strength: '-5'
 strength_req: '-5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Incorporeal|Incorporeal]]'
 - '[[DATABASE/trait/Spirit|Spirit]]'
@@ -80,7 +71,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+18'
 wisdom: '+3'
 

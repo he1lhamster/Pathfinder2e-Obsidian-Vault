@@ -1,23 +1,15 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Trick Shot
-frequency: null
-heighten_level: null
 id: '3188'
+leads_to: '[[DATABASE/feat/Ranged Disarm|Ranged Disarm]]'
 level: '10'
 name: Trick Shot
-prerequisite: null
 rarity: Common
 requirement: You're wielding a loaded crossbow or firearm.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Gunslinger|Gunslinger]]'
-trigger: null
 type: Feat
 
 ---

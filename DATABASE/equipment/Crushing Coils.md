@@ -1,57 +1,22 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
 base_item: '[[DATABASE/armor/Leather Armor|Leather Armor]]'
 bulk: '1'
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '2377'
 item_category: Cursed Items
-item_subcategory: null
-land_speed: null
 level: '5'
-max_speed: null
 name: Crushing Coils
-onset: null
-price: null
-range: null
 rarity: Rare
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
-size: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-spell: null
-stage: null
 subcategory: curseditem
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Cursed|Cursed]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Invested|Invested]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Item
 usage: worn armor
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Crushing Coils<span class="item-type">Item 5</span>

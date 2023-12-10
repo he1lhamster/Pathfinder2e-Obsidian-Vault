@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Emotional Partitions
-frequency: null
-heighten_level: null
 id: '3964'
 level: '1'
 name: Emotional Partitions
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Kashrishi|Kashrishi]]'
-trigger: null
 type: Feat
 
 ---

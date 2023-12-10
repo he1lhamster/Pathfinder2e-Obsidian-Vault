@@ -1,10 +1,7 @@
 ﻿---
 ac: '29'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Consume Flesh
@@ -15,10 +12,7 @@ creature_ability:
 - Swift Leap
 creature_family: '[[DATABASE/monsterfamily/Ghoul|Ghoul]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+21'
-hardness: null
 hp: 155 ( negative healing )
 id: '2154'
 immunity:
@@ -38,9 +32,6 @@ name: Ghoul Antipaladin
 perception: '+15'
 rarity: Uncommon
 reflex: '+15'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -61,7 +52,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Ghoul|Ghoul]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
@@ -70,7 +60,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+18'
 wisdom: '+4'
 

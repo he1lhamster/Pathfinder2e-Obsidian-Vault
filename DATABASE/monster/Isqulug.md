@@ -1,10 +1,7 @@
 ﻿---
 ac: '31'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Expel Infestation
@@ -12,12 +9,8 @@ creature_ability:
 - Isqulugia
 - Malleability
 - Swamp Stride
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+24'
-hardness: null
 hp: '230'
 id: '705'
 immunity:
@@ -34,8 +27,6 @@ rarity: Uncommon
 reflex: '+20'
 resistance:
 - fire 10
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 - host scent 30 feet

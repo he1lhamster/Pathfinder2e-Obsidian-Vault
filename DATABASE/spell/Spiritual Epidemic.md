@@ -1,27 +1,16 @@
 ﻿---
 actions: '[two-actions]'
-area: null
 bloodline: '[[DATABASE/sorcererbloodline/Hag|Hag]]'
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: varies
-element: null
-heighten: null
 heighten_level: '8'
 id: '304'
-lesson: null
 level: '8'
-mystery: null
 name: Spiritual Epidemic
-patron_theme: null
 range: 120 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Will
 school: Necromancy
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -32,7 +21,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Curse|Curse]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
-trigger: null
 type: Spell
 
 ---

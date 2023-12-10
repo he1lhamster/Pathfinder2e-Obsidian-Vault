@@ -1,10 +1,6 @@
 ﻿---
 ac: '14'
-alignment: null
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Breathe Pollen
@@ -14,7 +10,6 @@ dexterity: '+1'
 element: Wood
 fly_speed: '25'
 fortitude: '+6'
-hardness: null
 hp: '24'
 id: '2670'
 immunity:
@@ -32,9 +27,6 @@ name: Wood Scamp
 perception: '+3'
 rarity: Common
 reflex: '+4'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -53,7 +45,6 @@ strength: '+3'
 strength_req: '3'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Elemental|Elemental]]'
 - '[[DATABASE/trait/Plant|Plant]]'

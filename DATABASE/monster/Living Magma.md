@@ -1,10 +1,6 @@
 ﻿---
 ac: '35'
-alignment: null
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Engulf
@@ -16,9 +12,7 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Elemental, Fire|Elemental, Fire]]'
 dexterity: '+5'
 element: Fire
-fly_speed: null
 fortitude: '+26'
-hardness: null
 hp: '250'
 id: '2635'
 immunity:
@@ -37,9 +31,6 @@ name: Living Magma
 perception: '+22'
 rarity: Common
 reflex: '+20'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Huge
@@ -51,7 +42,6 @@ source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 speed:
 - 40 feet
 - swim 60 feet (in lava only)
-spell: null
 strength: '+8'
 strength_req: '8'
 strongest_save:

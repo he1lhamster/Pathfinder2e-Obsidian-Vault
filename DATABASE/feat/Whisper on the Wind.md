@@ -1,20 +1,14 @@
 ﻿---
 actions: '[one-action]'
-cost: null
 element: Air
 feat: Whisper on the Wind
-frequency: null
 heighten_level: 1, 4, 14
 id: '4209'
 level: '1'
 name: Whisper on the Wind
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Illusion
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Auditory|Auditory]]'
@@ -23,7 +17,6 @@ trait:
 - '[[DATABASE/trait/Kineticist|Kineticist]]'
 - '[[DATABASE/trait/Linguistic|Linguistic]]'
 - '[[DATABASE/trait/Primal|Primal]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,28 +1,16 @@
 ﻿---
 actions: '[two-actions]'
-area: null
 bloodline: '[[DATABASE/sorcererbloodline/Shadow|Shadow]]'
 component:
 - Material
 - Somatic
-cost: null
-deity: null
-domain: null
 duration: 10 minutes
-element: null
-heighten: null
 heighten_level: '8'
 id: '73'
-lesson: null
 level: '8'
-mystery: null
 name: Disappearance
-patron_theme: null
 range: touch
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Illusion
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: 1 creature
@@ -31,7 +19,6 @@ tradition:
 - Occult
 trait:
 - '[[DATABASE/trait/Illusion|Illusion]]'
-trigger: null
 type: Spell
 
 ---

@@ -3,9 +3,7 @@ alignment: LG
 id: '1'
 name: Paladin
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Champion Cause
 
 ---

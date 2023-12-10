@@ -5,7 +5,6 @@ name: Pistol Phenom
 prerequisite: trained in at least one type of one-handed firearm; Trained in [[DATABASE/skill/Deception|Deception]]
   ; Trained in [[DATABASE/skill/Performance|Performance]]
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

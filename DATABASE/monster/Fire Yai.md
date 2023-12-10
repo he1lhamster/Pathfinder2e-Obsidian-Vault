@@ -1,10 +1,7 @@
 ﻿---
 ac: '36'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+8'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Attack of Opportunity
@@ -16,7 +13,6 @@ dexterity: '+6'
 element: Fire
 fly_speed: '40'
 fortitude: '+28'
-hardness: null
 hp: '250'
 id: '748'
 immunity:
@@ -32,9 +28,6 @@ name: Fire Yai
 perception: '+26'
 rarity: Common
 reflex: '+26'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 size: Large
@@ -63,7 +56,6 @@ strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fiend|Fiend]]'
 - '[[DATABASE/trait/Fire|Fire]]'

@@ -1,10 +1,7 @@
 ﻿---
 ac: '33'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Breath of Sand
@@ -16,10 +13,7 @@ creature_ability:
 - Sandstorm
 creature_family: '[[DATABASE/monsterfamily/Mummy|Mummy]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+22'
-hardness: null
 hp: 250 ( negative healing )
 id: '1887'
 immunity:
@@ -38,9 +32,6 @@ name: Mummy Prophet of Set
 perception: '+23'
 rarity: Uncommon
 reflex: '+21'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - sand vision
@@ -84,7 +75,6 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Mummy|Mummy]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

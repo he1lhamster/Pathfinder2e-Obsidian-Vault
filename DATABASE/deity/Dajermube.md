@@ -27,12 +27,10 @@ follower_alignment:
 id: '235'
 name: Dajermube
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]]'
 source: '[[DATABASE/source/Pathfinder 172. Secrets of the Temple City|Pathfinder #172:
   Secrets of the Temple City]]'
-trait: null
 type: Deity
 
 ---

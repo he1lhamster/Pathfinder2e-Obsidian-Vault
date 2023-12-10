@@ -6,11 +6,9 @@ ability_boost:
 id: '6'
 name: Diplomacy
 rarity: Common
-rus_type_level: null
 skill:
 - Diplomacy
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Skill
 
 ---

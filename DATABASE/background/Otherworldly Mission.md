@@ -5,12 +5,9 @@ ability:
 ability_boost:
 - Wisdom
 - Charisma
-feat: null
 id: '286'
 name: Otherworldly Mission
-prerequisite: null
 rarity: Rare
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Religion|Religion]]'
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'

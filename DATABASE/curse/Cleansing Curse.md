@@ -1,16 +1,11 @@
 ﻿---
-element: null
 id: '42'
 level: '10'
 name: Cleansing Curse
 rarity: Common
-rus_type_level: null
 saving_throw: DC 27 Fortitude
-school: null
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
-trait: null
 type: Curse
-usage: null
 
 ---
 # Cleansing Curse<span class="item-type">Curse 10</span>

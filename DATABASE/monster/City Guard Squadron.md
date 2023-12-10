@@ -1,10 +1,7 @@
 ﻿---
 ac: '22'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Fire Crossbows!
@@ -15,15 +12,10 @@ creature_ability:
 - Troop Movement
 - Urban
 - Chasers
-creature_family: null
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+14'
-hardness: null
 hp: '75'
 id: '1094'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -34,10 +26,6 @@ name: City Guard Squadron
 perception: '+12'
 rarity: Common
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
-sense: null
 size: Gargantuan
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +14'
@@ -46,18 +34,15 @@ skill:
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 25 feet; troop movement
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Troop|Troop]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
 weakness:

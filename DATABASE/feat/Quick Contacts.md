@@ -1,25 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Quick Contacts
-frequency: null
-heighten_level: null
 id: '2144'
 level: '2'
 name: Quick Contacts
 prerequisite: Expert in [[DATABASE/skill/Society|Society]] ; [[DATABASE/feat/Connections|Connections]]
   or [[DATABASE/feat/Criminal Connections|Criminal Connections]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: society
 trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

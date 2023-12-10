@@ -1,10 +1,7 @@
 ﻿---
 ac: '26'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Blood Offering
@@ -12,10 +9,7 @@ creature_ability:
 - Wicked Bite
 creature_family: '[[DATABASE/monsterfamily/Urdefhan|Urdefhan]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+18'
-hardness: null
 hp: 140 ( negative healing )
 id: '1390'
 immunity:
@@ -34,9 +28,6 @@ name: Urdefhan Blood Mage
 perception: '+15'
 rarity: Common
 reflex: '+14'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 size: Medium
@@ -80,7 +71,6 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Urdefhan|Urdefhan]]'
@@ -88,7 +78,6 @@ type: Creature
 vision: Greater darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+17'
 wisdom: '+3'
 

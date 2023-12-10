@@ -1,24 +1,16 @@
 ﻿---
 ac: '26'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Closing Volley
 - No Escape
 - Vengeful Rage
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+16'
-hardness: null
 hp: '160'
 id: '2317'
-immunity: null
 intelligence: '+0'
 land_speed: '30'
 language:
@@ -30,10 +22,6 @@ name: Tiger Lord
 perception: '+18'
 rarity: Uncommon
 reflex: '+14'
-resistance: null
-rus_type_level: null
-school: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +16'
@@ -42,21 +30,17 @@ skill:
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 speed:
 - 30 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+18'
 wisdom: '+4'
 

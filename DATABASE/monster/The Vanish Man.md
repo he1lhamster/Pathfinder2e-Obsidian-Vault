@@ -1,10 +1,7 @@
 ﻿---
 ac: '39'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+7'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Attack of Opportunity
@@ -14,15 +11,10 @@ creature_ability:
 - Sudden Slices
 - Vanished
 - Alignment
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+29'
-hardness: null
 hp: '265'
 id: '2121'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -35,8 +27,6 @@ rarity: Unique
 reflex: '+28'
 resistance:
 - bludgeoning 10
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -57,7 +47,6 @@ strength: '+9'
 strength_req: '9'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
@@ -65,7 +54,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+27'
 wisdom: '+4'
 

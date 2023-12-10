@@ -1,19 +1,12 @@
 ﻿---
 ac: '30'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Paralysis
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+22'
-hardness: null
 hp: 175 ( negative healing )
 id: '1714'
 immunity:
@@ -36,8 +29,6 @@ reflex: '+22'
 resistance:
 - piercing 12
 - slashing 6
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -51,13 +42,11 @@ source: '[[DATABASE/source/Pathfinder 173. Doorway to the Red Star|Pathfinder #1
   Doorway to the Red Star]]'
 speed:
 - 25 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Undead|Undead]]'
@@ -65,7 +54,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+19'
 wisdom: '+4'
 

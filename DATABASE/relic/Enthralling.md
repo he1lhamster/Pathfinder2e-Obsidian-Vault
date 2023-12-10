@@ -1,11 +1,8 @@
 ﻿---
-element: null
 id: '89'
 item_category: Relics
 name: Enthralling
-prerequisite: null
 rarity: Common
-rus_type_level: null
 school: Enchantment
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 trait:

@@ -1,10 +1,8 @@
 ﻿---
 ac: '40'
 alignment: LG
-all_resistance: null
 burrow_speed: '35'
 charisma: '+3'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Ablative Adaptation
@@ -14,12 +12,8 @@ creature_ability:
 - Shield Block
 - ''
 - Vulnerable to Rust
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+29'
-hardness: null
 hp: 280 (special)
 id: '2599'
 immunity:
@@ -53,8 +47,6 @@ rarity: Unique
 reflex: '+23'
 resistance:
 - physical 15 (except [[DATABASE/equipment/Adamantine Weapon|adamantine]] )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/spell/True Seeing|true seeing]]'
@@ -76,7 +68,6 @@ strength_req: '8'
 strongest_save:
 - Fortitude
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Celestial|Celestial]]'
 - '[[DATABASE/trait/Construct|Construct]]'

@@ -1,8 +1,6 @@
 ﻿---
 bulk: '2'
 damage: 1d8 B
-deity: null
-favored_weapon: null
 hands: '2'
 id: '293'
 item_category: Weapons
@@ -10,9 +8,7 @@ item_subcategory: Base Weapons
 level: '0'
 name: Long Hammer
 price: 5 gp
-range: null
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 trait:
 - '[[DATABASE/trait/Brace|Brace]]'

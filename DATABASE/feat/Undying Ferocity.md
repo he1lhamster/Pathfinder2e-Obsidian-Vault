@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Undying Ferocity
-frequency: null
-heighten_level: null
 id: '1291'
 level: '9'
 name: Undying Ferocity
 prerequisite: '[[DATABASE/feat/Orc Ferocity|Orc Ferocity]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Orc|Orc]]'
-trigger: null
 type: Feat
 
 ---

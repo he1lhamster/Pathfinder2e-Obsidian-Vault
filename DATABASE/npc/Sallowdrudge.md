@@ -1,22 +1,15 @@
 ﻿---
 ac: '16'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Entangling Net
 - Spear Fisher
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+10'
 hp: '25'
 id: '2061'
-immunity: null
 intelligence: '+1'
 land_speed: '20'
 language:
@@ -27,9 +20,6 @@ name: Sallowdrudge
 perception: '+7'
 rarity: Rare
 reflex: '+7'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +6'
@@ -38,21 +28,17 @@ skill:
 source: '[[DATABASE/source/Pathfinder 182. Graveclaw|Pathfinder #182: Graveclaw]]'
 speed:
 - 20 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+4'
 wisdom: '+1'
 

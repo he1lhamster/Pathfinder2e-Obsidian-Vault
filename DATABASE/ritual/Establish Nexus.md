@@ -1,9 +1,5 @@
 ﻿---
-area: null
 cost: "magical foci worth 100 gp \xD7 the spell level \xD7 the node's level"
-duration: null
-element: null
-heighten: null
 heighten_level: '5'
 id: '66'
 level: '5'
@@ -13,8 +9,6 @@ primary_check: '[[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Natur
   based on the ley line (master)'
 range: 10 feet
 rarity: Rare
-requirement: null
-rus_type_level: null
 school: Transmutation
 secondary_casters: '2'
 secondary_check: '[[DATABASE/skill/Lore|Ley Line Lore]] or Occultism'

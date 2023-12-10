@@ -1,23 +1,16 @@
 ﻿---
 ac: '21'
 alignment: NG
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Guide's Warning
 - Guiding Words
 - Snare Crafting
-creature_family: null
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+12'
 hp: '60'
 id: '1785'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -28,9 +21,6 @@ name: "Varilyn \u201CVare\u201D Eridge"
 perception: '+14'
 rarity: Unique
 reflex: '+11'
-resistance: null
-rus_type_level: null
-sense: null
 size: Small
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +14'
@@ -43,21 +33,17 @@ source: '[[DATABASE/source/Pathfinder 176. Lost Mammoth Valley|Pathfinder #176: 
   Mammoth Valley]]'
 speed:
 - 25 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Halfling|Halfling]]'
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+14'
 wisdom: '+3'
 

@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Draconic Sycophant
-frequency: null
-heighten_level: null
 id: '2380'
 level: '1'
 name: Draconic Sycophant
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Kobold|Kobold]]'
-trigger: null
 type: Feat
 
 ---

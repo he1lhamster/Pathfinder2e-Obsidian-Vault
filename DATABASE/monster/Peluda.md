@@ -1,10 +1,7 @@
 ﻿---
 ac: '30'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Breath Weapon
@@ -12,12 +9,9 @@ creature_ability:
 - Quill Barrage
 - Quill Thrust
 - Vulnerable Tail
-creature_family: null
 dexterity: '+3'
 element: Fire
-fly_speed: null
 fortitude: '+21'
-hardness: null
 hp: '170'
 id: '756'
 immunity:
@@ -34,9 +28,6 @@ name: Peluda
 perception: '+21'
 rarity: Common
 reflex: '+17'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -47,7 +38,6 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 30 feet
 - swim 30 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
@@ -60,7 +50,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+19'
 wisdom: '+5'
 

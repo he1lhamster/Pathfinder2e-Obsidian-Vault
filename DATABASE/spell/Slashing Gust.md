@@ -1,27 +1,15 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
-component: null
-cost: null
-deity: null
-domain: null
-duration: null
 element: Air
 heighten: '+1'
 heighten_level: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
 id: '1321'
-lesson: null
 level: '1'
-mystery: null
 name: Slashing Gust
-patron_theme: null
 range: 60 feet
 rarity: Common
 requirement: You have at least one free hand.
-rus_type_level: null
 saving_throw: AC
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 target: 1 or 2 creatures
 tradition:
@@ -33,7 +21,6 @@ trait:
 - '[[DATABASE/trait/Cantrip|Cantrip]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
-trigger: null
 type: Cantrip
 
 ---

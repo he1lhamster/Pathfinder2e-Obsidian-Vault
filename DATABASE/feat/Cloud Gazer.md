@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Cloud Gazer
-frequency: null
-heighten_level: null
 id: '2596'
 level: '5'
 name: Cloud Gazer
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Sylph|Sylph]]'
-trigger: null
 type: Feat
 
 ---

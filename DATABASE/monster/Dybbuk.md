@@ -2,20 +2,15 @@
 ac: '35'
 alignment: NE
 all_resistance: '10'
-burrow_speed: null
 charisma: '+8'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Frightful Presence
 - Inhabit Object
 - Malevolent Possession
-creature_family: null
 dexterity: '+7'
-element: null
 fly_speed: '50'
 fortitude: '+21'
-hardness: null
 hp: 175 ( negative healing )
 id: '1140'
 immunity:
@@ -26,7 +21,6 @@ immunity:
 - precision
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '+1'
-land_speed: null
 language:
 - '[[DATABASE/language/Abyssal|Abyssal]]'
 - '[[DATABASE/language/Aklo|Aklo]]'
@@ -43,8 +37,6 @@ resistance:
 - '[[DATABASE/equipment/Ghost Touch|ghost touch]]'
 - or [[DATABASE/trait/Positive|positive]]
 - double resistance against non- [[DATABASE/trait/Magical|magical]] )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -69,7 +61,6 @@ strength: '-5'
 strength_req: '-5'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Incorporeal|Incorporeal]]'
 - '[[DATABASE/trait/Spirit|Spirit]]'
@@ -79,7 +70,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+29'
 wisdom: '+6'
 

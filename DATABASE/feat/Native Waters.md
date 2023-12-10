@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Native Waters
-frequency: null
-heighten_level: null
 id: '3931'
 level: '1'
 name: Native Waters
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Undine|Undine]]'
-trigger: null
 type: Feat
 
 ---

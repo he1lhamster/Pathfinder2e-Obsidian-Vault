@@ -3,9 +3,7 @@ creature_family: Elemental, Fire
 id: '43'
 name: Elemental, Fire
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
-trait: null
 type: Creature Family
 
 ---

@@ -1,17 +1,8 @@
 ﻿---
-ability: null
-ability_boost: null
-feat: null
 id: '92'
 name: Oenopion Ooze-Tender
-prerequisite: null
-rarity: null
-rus_type_level: null
-skill: null
 source: '[[DATABASE/source/World Guide|World Guide]]'
 subcategory: regional
-trait: null
-type: null
 
 ---
 # Oenopion Ooze-Tender<span class="item-type">Background</span>

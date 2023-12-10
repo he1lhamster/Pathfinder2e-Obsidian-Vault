@@ -1,11 +1,7 @@
 ﻿---
 id: '26'
 name: Half-Elf
-rarity: null
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
-type: null
 
 ---
 # Half-Elf

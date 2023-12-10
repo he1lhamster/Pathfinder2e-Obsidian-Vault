@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Greater Physical Evolution
-frequency: null
-heighten_level: null
 id: '1825'
 level: '12'
 name: Greater Physical Evolution
 prerequisite: '[[DATABASE/feat/Arcane Evolution|Arcane Evolution]] or [[DATABASE/feat/Primal
   Evolution|Primal Evolution]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Sorcerer|Sorcerer]]'
-trigger: null
 type: Feat
 
 ---

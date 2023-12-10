@@ -27,11 +27,9 @@ follower_alignment:
 id: '192'
 name: Likha
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Performance|Performance]]'
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-trait: null
 type: Deity
 
 ---

@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Beacon Mark
-frequency: null
-heighten_level: null
 id: '3383'
 level: '8'
 name: Beacon Mark
 prerequisite: '[[DATABASE/feat/Tracing Sigil|Tracing Sigil]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

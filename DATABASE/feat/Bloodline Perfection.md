@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Bloodline Perfection
-frequency: null
-heighten_level: null
 id: '631'
 level: '20'
 name: Bloodline Perfection
 prerequisite: '[[DATABASE/class_/Sorcerer|bloodline paragon]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Sorcerer|Sorcerer]]'
-trigger: null
 type: Feat
 
 ---

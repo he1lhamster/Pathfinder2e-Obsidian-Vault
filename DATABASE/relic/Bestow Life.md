@@ -1,11 +1,8 @@
 ﻿---
-element: null
 id: '43'
 item_category: Relics
 name: Bestow Life
-prerequisite: null
 rarity: Common
-rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:

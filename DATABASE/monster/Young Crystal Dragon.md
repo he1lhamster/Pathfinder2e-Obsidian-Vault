@@ -1,10 +1,8 @@
 ﻿---
 ac: '27'
 alignment: NG
-all_resistance: null
 burrow_speed: '30'
 charisma: '+4'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Breath Weapon
@@ -17,7 +15,6 @@ dexterity: '+1'
 element: Earth
 fly_speed: '100'
 fortitude: '+16'
-hardness: null
 hp: '105'
 id: '627'
 immunity:
@@ -35,9 +32,6 @@ name: Young Crystal Dragon
 perception: '+15'
 rarity: Uncommon
 reflex: '+14'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent (imprecise) 60 feet]]'
@@ -63,7 +57,6 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dragon|Dragon]]'
 - '[[DATABASE/trait/Earth|Earth]]'

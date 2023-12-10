@@ -1,45 +1,16 @@
 ﻿---
-ac: null
 actions: '[free-action]'
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '224'
 item_category: Consumables
 item_subcategory: Talismans
-land_speed: null
 level: '13'
-max_speed: null
 name: Mending Lattice
-onset: null
 price: 525 gp
-range: null
 rarity: Uncommon
-reflex: null
 requirement: You are a master in Crafting
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Abjuration
-size: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-spell: null
-stage: null
 subcategory: consumable/talisman
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Consumable|Consumable]]'
@@ -49,9 +20,6 @@ trait:
 trigger: The affixed item would take damage
 type: Item
 usage: affixed to a shield or weapon
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Mending Lattice<span class="item-type">Item 13</span>

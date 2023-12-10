@@ -5,12 +5,9 @@ ability:
 ability_boost:
 - Dexterity
 - Constitution
-feat: null
 id: '371'
 name: Awful Scab
-prerequisite: null
 rarity: Rare
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Medicine|Medicine]]'
 - Fleshforged [[DATABASE/skill/Lore|Lore]]

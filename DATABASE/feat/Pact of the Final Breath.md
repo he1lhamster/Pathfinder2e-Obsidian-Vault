@@ -1,26 +1,17 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Pact of the Final Breath
-frequency: null
-heighten_level: null
 id: '3827'
 level: '12'
 name: Pact of the Final Breath
 prerequisite: '[[DATABASE/feat/Pactbinder Dedication|Pactbinder Dedication]]'
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Divine|Divine]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

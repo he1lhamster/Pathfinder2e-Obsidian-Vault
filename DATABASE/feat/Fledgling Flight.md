@@ -1,23 +1,14 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Fledgling Flight
 frequency: once per round
-heighten_level: null
 id: '2649'
 level: '5'
 name: Fledgling Flight
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Strix|Strix]]'
-trigger: null
 type: Feat
 
 ---

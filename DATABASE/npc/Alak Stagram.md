@@ -1,23 +1,16 @@
 ﻿---
 ac: '20'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Attack of Opportunity
 - Intimidating Strike
 - Power Attack
-creature_family: null
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+9'
 hp: '34'
 id: '1531'
-immunity: null
 intelligence: '+0'
 land_speed: '20'
 language:
@@ -30,9 +23,6 @@ name: Alak Stagram
 perception: '+7'
 rarity: Unique
 reflex: '+7'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +8'
@@ -43,21 +33,17 @@ source: '[[DATABASE/source/Pathfinder 145. Hellknight Hill|Pathfinder #145: Hell
   Hill]]'
 speed:
 - 20 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+5'
 wisdom: '+1'
 

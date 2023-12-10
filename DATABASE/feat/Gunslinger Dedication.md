@@ -1,26 +1,19 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Gunslinger Dedication
-frequency: null
-heighten_level: null
 id: '3215'
+leads_to: '[[DATABASE/feat/Basic Shooting|Basic Shooting]] , [[DATABASE/feat/Eagle
+  Eye|Eagle Eye]] , [[DATABASE/feat/Firearm Expert|Firearm Expert]] , [[DATABASE/feat/Practiced
+  Reloads|Practiced Reloads]] , [[DATABASE/feat/Slinger''s Readiness|Slinger''s Readiness]]'
 level: '2'
 name: Gunslinger Dedication
 prerequisite: Dexterity 14
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Multiclass|Multiclass]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

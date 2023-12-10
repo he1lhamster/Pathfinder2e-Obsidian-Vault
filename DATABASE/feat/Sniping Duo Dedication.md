@@ -1,25 +1,20 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Sniping Duo Dedication
-frequency: null
-heighten_level: null
 id: '3258'
+leads_to: '[[DATABASE/feat/Concentrated Assault|Concentrated Assault]] , [[DATABASE/feat/Duo''s
+  Aim|Duo''s Aim]] , [[DATABASE/feat/Eagle Eyes|Eagle Eyes]] , [[DATABASE/feat/Exploit
+  Opening|Exploit Opening]] , [[DATABASE/feat/Tag Team|Tag Team]] , [[DATABASE/feat/Targeted
+  Redirection|Targeted Redirection]] , [[DATABASE/feat/Triangulate|Triangulate]] ,
+  [[DATABASE/feat/Vantage Shot|Vantage Shot]]'
 level: '2'
 name: Sniping Duo Dedication
 prerequisite: trained in at least one type of weapon in the [[DATABASE/weapongroup/Bow|bow]]
   or [[DATABASE/weapongroup/Firearm|firearm]] groups; Trained in [[DATABASE/skill/Stealth|Stealth]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
-trigger: null
 type: Feat
 
 ---

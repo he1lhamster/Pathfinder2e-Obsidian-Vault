@@ -1,10 +1,7 @@
 ﻿---
 ac: '28'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Attack of Opportunity
@@ -12,12 +9,8 @@ creature_ability:
 - Head Hunter
 - Reap
 - Summon Steed
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+13'
-hardness: null
 hp: 95 ( fast healing 5)
 id: '171'
 immunity:
@@ -38,9 +31,6 @@ name: Dullahan
 perception: '+14'
 rarity: Uncommon
 reflex: '+15'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - lifesense 60 feet
 size: Medium
@@ -52,17 +42,14 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 20 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 - '[[DATABASE/trait/Undead|Undead]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
 weakness:

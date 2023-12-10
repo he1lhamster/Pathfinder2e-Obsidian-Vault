@@ -1,10 +1,7 @@
 ﻿---
 ac: '16'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Construct Armor
@@ -12,8 +9,6 @@ creature_ability:
 - Stick a Fork in It
 creature_family: '[[DATABASE/monsterfamily/Animated Object|Animated Object]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+9'
 hardness: '3'
 hp: '14'
@@ -35,16 +30,12 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '20'
-language: null
 level: '1'
 max_speed: '20'
 name: Animated Silverware Swarm
 perception: '+5'
 rarity: Common
 reflex: '+8'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -53,12 +44,10 @@ skill:
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 20 feet
-spell: null
 strength: '+1'
 strength_req: '1'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Mindless|Mindless]]'

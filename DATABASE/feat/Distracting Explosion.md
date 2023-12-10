@@ -1,20 +1,12 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Distracting Explosion
-frequency: null
-heighten_level: null
 id: '3069'
 level: '10'
 name: Distracting Explosion
 prerequisite: '[[DATABASE/class_/Inventor|offensive boost]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Inventor|Inventor]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'

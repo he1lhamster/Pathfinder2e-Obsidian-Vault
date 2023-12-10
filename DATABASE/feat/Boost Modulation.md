@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Boost Modulation
-frequency: null
-heighten_level: null
 id: '3073'
 level: '12'
 name: Boost Modulation
 prerequisite: '[[DATABASE/class_/Inventor|offensive boost]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Inventor|Inventor]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
-trigger: null
 type: Feat
 
 ---

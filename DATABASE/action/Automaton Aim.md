@@ -1,17 +1,9 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
-frequency: null
 id: '903'
 name: Automaton Aim
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-trait: null
-trigger: null
 type: Action
 
 ---

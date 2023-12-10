@@ -1,27 +1,19 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Public Execution
-frequency: null
-heighten_level: null
 id: '4143'
 level: '8'
 name: Public Execution
 prerequisite: '[[DATABASE/feat/Assassin Dedication|Assassin Dedication]]'
 rarity: Uncommon
 requirement: You have designated a mark using Mark for Death.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Firebrands|Firebrands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Auditory|Auditory]]'
 - '[[DATABASE/trait/Flourish|Flourish]]'
 - '[[DATABASE/trait/Linguistic|Linguistic]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

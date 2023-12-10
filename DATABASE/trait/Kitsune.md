@@ -2,7 +2,6 @@
 id: '341'
 name: Kitsune
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 trait:
 - Kitsune

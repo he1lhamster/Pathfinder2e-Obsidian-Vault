@@ -1,17 +1,7 @@
 ﻿---
-ability: null
-ability_boost: null
-feat: null
 id: '320'
 name: Corpse Stitcher
-prerequisite: null
-rarity: null
-rus_type_level: null
-skill: null
 source: '[[DATABASE/source/Blood Lords Player''s Guide|Blood Lords Player''s Guide]]'
-subcategory: null
-trait: null
-type: null
 
 ---
 # Corpse Stitcher<span class="item-type">Background</span>

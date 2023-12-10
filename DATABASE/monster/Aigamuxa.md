@@ -1,10 +1,7 @@
 ﻿---
 ac: '27'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Burrowed Ambush
@@ -12,15 +9,10 @@ creature_ability:
 - Limited Vision
 - Swallow Whole
 - Weak Feet
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+19'
-hardness: null
 hp: '140'
 id: '1425'
-immunity: null
 intelligence: '-2'
 land_speed: '30'
 language:
@@ -31,9 +23,6 @@ name: Aigamuxa
 perception: '+19'
 rarity: Uncommon
 reflex: '+16'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
 size: Large
@@ -44,21 +33,17 @@ skill:
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
 speed:
 - 30 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Giant|Giant]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+13'
 wisdom: '+3'
 

@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Twin Distraction
-frequency: null
-heighten_level: null
 id: '1789'
 level: '4'
 name: Twin Distraction
 prerequisite: '[[DATABASE/feat/Twin Feint|Twin Feint]]'
 rarity: Common
 requirement: You are wielding two melee weapons, each in a different hand.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Rogue|Rogue]]'
-trigger: null
 type: Feat
 
 ---

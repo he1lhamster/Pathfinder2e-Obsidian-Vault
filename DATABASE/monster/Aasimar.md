@@ -1,10 +1,7 @@
 ﻿---
 ac: '23'
 alignment: NG
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Champion Devotion Spells
@@ -13,13 +10,9 @@ creature_ability:
 - Shield Block
 creature_family: '[[DATABASE/monsterfamily/Planar Scion|Planar Scion]]'
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+12'
-hardness: null
 hp: '73'
 id: '333'
-immunity: null
 intelligence: '+0'
 land_speed: '20'
 language:
@@ -31,9 +24,6 @@ name: Aasimar Redeemer
 perception: '+11'
 rarity: Common
 reflex: '+8'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -52,7 +42,6 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aasimar|Aasimar]]'
 - '[[DATABASE/trait/Human|Human]]'
@@ -61,7 +50,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+11'
 wisdom: '+2'
 

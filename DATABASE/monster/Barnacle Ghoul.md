@@ -1,8 +1,6 @@
 ﻿---
 ac: '28'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
 climb_speed: '10'
 constitution: '+3'
@@ -14,10 +12,7 @@ creature_ability:
 - Tear Flesh
 creature_family: '[[DATABASE/monsterfamily/Ghoul|Ghoul]]'
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+16'
-hardness: null
 hp: 155 ( negative healing )
 id: '1001'
 immunity:
@@ -38,9 +33,6 @@ name: Barnacle Ghoul
 perception: '+17'
 rarity: Uncommon
 reflex: '+21'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -55,7 +47,6 @@ speed:
 - 25 feet
 - climb 10 feet
 - swim 40 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
@@ -69,7 +60,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+17'
 wisdom: '+4'
 

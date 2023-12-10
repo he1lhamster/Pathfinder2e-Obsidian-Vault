@@ -1,53 +1,16 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '1543'
 item_category: Weapons
 item_subcategory: Precious Material Weapons
-land_speed: null
-level: '18'
-max_speed: null
+level: '12'
 name: Peachwood Weapon
-onset: null
-price: 19,000 gp (+1,900 gp per Bulk)
-range: null
+price: 2,000 gp (+200 gp per Bulk)
 rarity: Uncommon
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
-school: null
-size: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-spell: null
-stage: null
-subcategory: null
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Item
 usage: varies by weapon
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Peachwood Weapon<span class="item-type">Item 12+</span>

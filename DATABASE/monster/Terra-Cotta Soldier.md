@@ -1,20 +1,14 @@
 ﻿---
 ac: '24'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Attack of Opportunity
 - Shield Block
 creature_family: '[[DATABASE/monsterfamily/Terra-Cotta Warrior|Terra-Cotta Warrior]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+17'
-hardness: null
 hp: '120'
 id: '1332'
 immunity:
@@ -40,10 +34,6 @@ name: Terra-Cotta Soldier
 perception: '+14'
 rarity: Common
 reflex: '+14'
-resistance: null
-rus_type_level: null
-school: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +15'
@@ -51,16 +41,13 @@ skill:
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 25 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
 weakness:

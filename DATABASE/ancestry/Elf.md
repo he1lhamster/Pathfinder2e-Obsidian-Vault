@@ -18,7 +18,6 @@ language:
 max_speed: '30'
 name: Elf
 rarity: Common
-rus_type_level: null
 size: Medium
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 speed:

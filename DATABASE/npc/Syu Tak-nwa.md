@@ -1,22 +1,15 @@
 ﻿---
 ac: '34'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Empowered Hair
 - Familiar
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+21'
 hp: '220'
 id: '1473'
-immunity: null
 intelligence: '+5'
 land_speed: '25'
 language:
@@ -30,9 +23,6 @@ name: Syu Tak-nwa
 perception: '+26'
 rarity: Unique
 reflex: '+27'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +26'
@@ -83,16 +73,13 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+26'
 wisdom: '+3'
 

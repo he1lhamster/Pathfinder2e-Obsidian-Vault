@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Gnome Weapon Expertise
-frequency: null
-heighten_level: null
 id: '37'
 level: '13'
 name: Gnome Weapon Expertise
 prerequisite: '[[DATABASE/feat/Gnome Weapon Familiarity|Gnome Weapon Familiarity]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Gnome|Gnome]]'
-trigger: null
 type: Feat
 
 ---

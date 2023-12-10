@@ -1,32 +1,20 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
-cost: null
-deity: null
-domain: null
 duration: until the start of your next turn
-element: null
-heighten: null
 heighten_level: '6'
 id: '752'
-lesson: null
 level: '6'
 mystery: '[[DATABASE/oraclemystery/Lore|Lore]]'
 name: Dread Secret
-patron_theme: null
 range: 60 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 saving_throw: Will
 school: Divination
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 target: up to 6 creatures
-tradition: null
 trait:
 - '[[DATABASE/trait/Cursebound|Cursebound]]'
 - '[[DATABASE/trait/Divination|Divination]]'
@@ -35,7 +23,6 @@ trait:
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Oracle|Oracle]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Focus
 
 ---

@@ -1,20 +1,12 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Knight's Retaliation
-frequency: null
-heighten_level: null
 id: '3635'
 level: '8'
 name: Knight's Retaliation
 prerequisite: Trained in [[DATABASE/skill/Athletics|Athletics]]
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fighter|Fighter]]'
 - '[[DATABASE/trait/Swashbuckler|Swashbuckler]]'

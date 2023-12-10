@@ -30,11 +30,9 @@ follower_alignment:
 id: '5'
 name: Desna
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]]'
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Deity
 
 ---

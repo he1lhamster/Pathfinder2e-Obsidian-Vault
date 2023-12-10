@@ -22,11 +22,9 @@ follower_alignment:
 id: '52'
 name: Hathor
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Performance|Performance]]'
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
-trait: null
 type: Deity
 
 ---

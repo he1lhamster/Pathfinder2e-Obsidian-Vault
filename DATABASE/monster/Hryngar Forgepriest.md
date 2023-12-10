@@ -1,10 +1,7 @@
 ﻿---
 ac: '23'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Hammerfall
@@ -12,13 +9,9 @@ creature_ability:
 - Toil is Strength
 creature_family: '[[DATABASE/monsterfamily/Duergar|Duergar]]'
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+14'
-hardness: null
 hp: '99'
 id: '2699'
-immunity: null
 intelligence: '+1'
 land_speed: '20'
 language:
@@ -33,8 +26,6 @@ rarity: Common
 reflex: '+11'
 resistance:
 - fire 5
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -69,7 +60,6 @@ strength: '+3'
 strength_req: '3'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Duergar|Duergar]]'
 - '[[DATABASE/trait/Dwarf|Dwarf]]'
@@ -78,7 +68,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+15'
 wisdom: '+5'
 

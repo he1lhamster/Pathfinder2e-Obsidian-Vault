@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Group Coercion|Group Coercion]]'
 id: '249'
 name: Anti-Tech Activist
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Intimidation|Intimidation]]'
 - Guild [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

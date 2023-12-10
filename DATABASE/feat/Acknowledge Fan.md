@@ -1,28 +1,20 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Acknowledge Fan
-frequency: null
-heighten_level: null
 id: '4150'
 level: '12'
 name: Acknowledge Fan
 prerequisite: '[[DATABASE/feat/Celebrity Dedication|Celebrity Dedication]] ; [[DATABASE/feat/Mesmerizing
   Gaze|Mesmerizing Gaze]]'
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Enchantment
 source: '[[DATABASE/source/Firebrands|Firebrands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Enchantment|Enchantment]]'
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 - '[[DATABASE/trait/Visual|Visual]]'
-trigger: null
 type: Feat
 
 ---

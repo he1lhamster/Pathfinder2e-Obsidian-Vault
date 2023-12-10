@@ -1,21 +1,14 @@
 ﻿---
 ac: '17'
 alignment: CG
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Bardic Lore
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+8'
 hp: '32'
 id: '2165'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -28,9 +21,6 @@ name: Edgrin Galesong
 perception: '+7'
 rarity: Unique
 reflex: '+8'
-resistance: null
-rus_type_level: null
-sense: null
 size: Small
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +7'
@@ -60,16 +50,13 @@ strength_req: '-1'
 strongest_save:
 - Fortitude
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Halfling|Halfling]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+5'
 wisdom: '+1'
 

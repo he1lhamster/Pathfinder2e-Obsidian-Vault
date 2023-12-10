@@ -1,55 +1,21 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
 bulk: L
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '1367'
 item_category: Assistive Items
 item_subcategory: Prostheses
-land_speed: null
-level: '14'
-max_speed: null
+level: '8'
 name: Eye of the Unseen
-onset: null
-price: 4,000 gp
-range: null
+price: 450 gp
 rarity: Common
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Divination
-size: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
-spell: null
-stage: null
 subcategory: assistiveitem
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Divination|Divination]]'
 - '[[DATABASE/trait/Invested|Invested]]'
 - '[[DATABASE/trait/Magical|Magical]]'
-trigger: null
 type: Item
 usage: worn
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Eye of the Unseen<span class="item-type">Item 8+</span>

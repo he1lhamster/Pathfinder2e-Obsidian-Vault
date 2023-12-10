@@ -1,23 +1,16 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Crystalline Dust
 frequency: once per day
-heighten_level: null
 id: '2480'
+leads_to: '[[DATABASE/feat/Ancillary Motes|Ancillary Motes]] , [[DATABASE/feat/Crystalline
+  Cloud|Crystalline Cloud]]'
 level: '5'
 name: Crystalline Dust
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Aphorite|Aphorite]]'
-trigger: null
 type: Feat
 
 ---

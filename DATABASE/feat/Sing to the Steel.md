@@ -1,27 +1,20 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Sing to the Steel
 frequency: once per hour
-heighten_level: null
 id: '3042'
 level: '12'
 name: Sing to the Steel
 prerequisite: '[[DATABASE/feat/Nantambu Chime-Ringer Dedication|Nantambu Chime-Ringer
   Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Pathfinder 170. Spoken on the Song Wind|Pathfinder #170:
   Spoken on the Song Wind]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Auditory|Auditory]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
-trigger: null
 type: Feat
 
 ---

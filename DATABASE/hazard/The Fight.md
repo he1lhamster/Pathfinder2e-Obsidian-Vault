@@ -1,8 +1,6 @@
 ﻿---
 ac: '30'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+18'
 hardness: '15'
 hazard_type: Haunt
@@ -16,9 +14,6 @@ level: '9'
 name: The Fight
 rarity: Common
 reflex: '+21'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 183. Field of Maidens|Pathfinder #183: Field
   of Maidens]]'
 trait:

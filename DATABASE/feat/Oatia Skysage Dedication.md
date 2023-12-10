@@ -1,26 +1,22 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Oatia Skysage Dedication
-frequency: null
-heighten_level: null
 id: '4064'
+leads_to: '[[DATABASE/feat/Basic Skysage Divination|Basic Skysage Divination]] , [[DATABASE/feat/Minor
+  Omen|Minor Omen]] , [[DATABASE/feat/Night''s Glow|Night''s Glow]] , [[DATABASE/feat/Night''s
+  Shine|Night''s Shine]] , [[DATABASE/feat/Night''s Warning|Night''s Warning]] , [[DATABASE/feat/Scholar''s
+  Hunch|Scholar''s Hunch]] , [[DATABASE/feat/Stargazer''s Eyes|Stargazer''s Eyes]]
+  , [[DATABASE/feat/Starlight Armor|Starlight Armor]] , [[DATABASE/feat/Starlit Spells|Starlit
+  Spells]]'
 level: '2'
 name: Oatia Skysage Dedication
 prerequisite: Trained in [[DATABASE/skill/Occultism|Occultism]]
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 187. The Seventh Arch|Pathfinder #187: The Seventh
   Arch]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

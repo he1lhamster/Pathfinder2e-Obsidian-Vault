@@ -1,20 +1,14 @@
 ﻿---
 ac: '23'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Despair
 - Mummy Rot
 creature_family: '[[DATABASE/monsterfamily/Mummy|Mummy]]'
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+14'
-hardness: null
 hp: 110 ( negative healing )
 id: '304'
 immunity:
@@ -33,9 +27,6 @@ name: Mummy Guardian
 perception: '+16'
 rarity: Common
 reflex: '+10'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -45,12 +36,10 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 20 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Mummy|Mummy]]'
 - '[[DATABASE/trait/Undead|Undead]]'

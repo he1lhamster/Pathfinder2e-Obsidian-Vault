@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Seasoned|Seasoned]]'
 id: '168'
 name: Cook
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Survival|Survival]]'
 - Cooking [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

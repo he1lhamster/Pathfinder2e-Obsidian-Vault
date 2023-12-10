@@ -2,9 +2,6 @@
 id: '25'
 name: Extinction Curse Player's Guide
 rarity: Common
-rus_type_level: null
-source: null
-trait: null
 type: Source
 
 ---

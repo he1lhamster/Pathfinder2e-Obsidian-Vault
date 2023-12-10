@@ -1,24 +1,16 @@
 ﻿---
 ac: '20'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Adhesive
 - Mimic Object
 - Object Lesson
-creature_family: null
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+11'
-hardness: null
 hp: '75'
 id: '300'
-immunity: null
 intelligence: '+0'
 land_speed: '10'
 language:
@@ -29,9 +21,6 @@ name: Mimic
 perception: '+9'
 rarity: Common
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -42,12 +31,10 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 10 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 type: Creature
@@ -55,7 +42,6 @@ vision: Darkvision
 weakest_save:
 - Reflex
 - Will
-weakness: null
 will: '+9'
 wisdom: '+1'
 

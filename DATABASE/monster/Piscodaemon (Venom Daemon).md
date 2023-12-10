@@ -1,10 +1,7 @@
 ﻿---
 ac: '28'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Attack of Opportunity
@@ -14,10 +11,7 @@ creature_ability:
 - Piscovenom
 creature_family: '[[DATABASE/monsterfamily/Daemon|Daemon]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+22'
-hardness: null
 hp: '200'
 id: '592'
 immunity:
@@ -35,9 +29,6 @@ name: Piscodaemon
 perception: '+19'
 rarity: Common
 reflex: '+16'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/spell/See Invisibility|see invisibility]]'

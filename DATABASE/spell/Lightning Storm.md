@@ -1,38 +1,26 @@
 ﻿---
 actions: '[three-actions]'
 area: 20-foot burst
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: sustained up to 1 minute
-element: null
 heighten: '+2'
 heighten_level: 5, 7, 9
 id: '701'
-lesson: null
 level: '5'
-mystery: null
 name: Lightning Storm
-patron_theme: null
 range: 120 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: basicReflex
 school: Evocation
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-target: null
 tradition:
 - Primal
 trait:
 - '[[DATABASE/trait/Electricity|Electricity]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
-trigger: null
 type: Spell
 
 ---

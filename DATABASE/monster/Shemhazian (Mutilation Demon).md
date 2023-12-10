@@ -1,8 +1,6 @@
 ﻿---
 ac: '39'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
 climb_speed: '20'
 constitution: '+7'
@@ -15,13 +13,10 @@ creature_ability:
 - Tail Whip
 creature_family: '[[DATABASE/monsterfamily/Demon|Demon]]'
 dexterity: '+5'
-element: null
 fly_speed: '35'
 fortitude: '+32'
-hardness: null
 hp: '350'
 id: '102'
-immunity: null
 intelligence: '+0'
 land_speed: '35'
 language:
@@ -34,9 +29,6 @@ name: Shemhazian
 perception: '+30'
 rarity: Common
 reflex: '+26'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - scent (imprecise) 60 feet
@@ -65,7 +57,6 @@ strength: '+9'
 strength_req: '9'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Demon|Demon]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

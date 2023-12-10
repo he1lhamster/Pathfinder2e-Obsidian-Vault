@@ -1,24 +1,16 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Kip Up
-frequency: null
-heighten_level: null
 id: '799'
 level: '7'
 name: Kip Up
 prerequisite: Master in [[DATABASE/skill/Acrobatics|Acrobatics]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: acrobatics
 trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

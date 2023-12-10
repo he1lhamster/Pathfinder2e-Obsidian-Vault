@@ -1,10 +1,7 @@
 ﻿---
 ac: '27'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Attack of Opportunity
@@ -13,14 +10,10 @@ creature_ability:
 - Power Attack
 - Ready Armaments
 - Shield Block
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+19'
 hp: '165'
 id: '2551'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -31,9 +24,6 @@ name: Blade Mercenary
 perception: '+15'
 rarity: Uncommon
 reflex: '+15'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +17'
@@ -44,21 +34,17 @@ skill:
 source: '[[DATABASE/source/Pathfinder 190. The Choosing|Pathfinder #190: The Choosing]]'
 speed:
 - 25 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+17'
 wisdom: '+2'
 

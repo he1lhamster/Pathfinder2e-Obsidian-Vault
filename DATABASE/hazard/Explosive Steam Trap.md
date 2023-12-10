@@ -1,8 +1,6 @@
 ﻿---
 ac: '25'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+18'
 hardness: 8 Trapdoor Hardness
 hazard_type: Trap
@@ -16,9 +14,6 @@ level: '7'
 name: Explosive Steam Trap
 rarity: Common
 reflex: '+15'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 179. Cradle of Quartz|Pathfinder #179: Cradle
   of Quartz]]'
 trait:
@@ -26,8 +21,6 @@ trait:
 - '[[DATABASE/trait/Mechanical|Mechanical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Explosive Steam Trap<span class="item-type">Hazard 7</span>

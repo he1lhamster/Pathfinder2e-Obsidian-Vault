@@ -2,7 +2,6 @@
 id: '12'
 name: Lesson of Calamity
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 169. Kindled Magic|Pathfinder #169: Kindled
   Magic]]'
 trait:

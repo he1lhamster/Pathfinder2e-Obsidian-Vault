@@ -1,10 +1,7 @@
 ﻿---
 ac: '19'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Anchor The seahorse wraps its tail around either a stationary object or its rider.
@@ -18,27 +15,17 @@ creature_ability:
 - or either
 - it's forcibly moved away from the object or its rider is forcibly moved off it.
 - Camouflage
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+11'
-hardness: null
 hp: '58'
 id: '1289'
-immunity: null
 intelligence: '-4'
-land_speed: null
-language: null
 level: '3'
 max_speed: '30'
 name: Giant Seahorse
 perception: '+10'
 rarity: Common
 reflex: '+10'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Large
@@ -48,7 +35,6 @@ skill:
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - swim 30 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
@@ -60,7 +46,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+6'
 wisdom: '+1'
 

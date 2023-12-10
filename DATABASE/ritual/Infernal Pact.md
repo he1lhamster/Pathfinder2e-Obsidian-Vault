@@ -1,24 +1,13 @@
 ﻿---
-area: null
-cost: null
-duration: null
-element: null
-heighten: null
 heighten_level: '1'
 id: '23'
 level: '1'
 name: Infernal Pact
 primary_check: '[[DATABASE/skill/Religion|Religion]] (expert; you must be a [[DATABASE/monsterfamily/Devil|devil]]
   )'
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Conjuration
-secondary_casters: null
-secondary_check: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
-target: null
 trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

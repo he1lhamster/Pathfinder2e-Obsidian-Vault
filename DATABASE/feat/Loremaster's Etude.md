@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Loremaster's Etude
-frequency: null
-heighten_level: null
 id: '186'
 level: '2'
 name: Loremaster's Etude
 prerequisite: '[[DATABASE/bardmuse/Enigma|enigma muse]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Bard|Bard]]'
 - '[[DATABASE/trait/Fortune|Fortune]]'
-trigger: null
 type: Feat
 
 ---

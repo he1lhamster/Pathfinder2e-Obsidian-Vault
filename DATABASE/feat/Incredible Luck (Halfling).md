@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Incredible Luck (Halfling)
-frequency: null
-heighten_level: null
 id: '1023'
 level: '13'
 name: Incredible Luck (Halfling)
 prerequisite: '[[DATABASE/feat/Halfling Luck|Halfling Luck]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Halfling|Halfling]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,10 +1,7 @@
 ﻿---
 ac: '20'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+25'
-hardness: null
 hazard_type: Environmental
 hp: 200 (BT 100)
 id: '40'
@@ -16,9 +13,6 @@ level: '9'
 name: Green Slime
 rarity: Common
 reflex: '+15'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
 - '[[DATABASE/trait/Environmental|Environmental]]'
@@ -26,7 +20,6 @@ type: Hazard
 weakness:
 - cold 20
 - fire 20
-will: null
 
 ---
 # Green Slime<span class="item-type">Hazard 9</span>

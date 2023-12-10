@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: We March On
-frequency: null
-heighten_level: null
 id: '2377'
 level: '13'
 name: We March On
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Hobgoblin|Hobgoblin]]'
-trigger: null
 type: Feat
 
 ---

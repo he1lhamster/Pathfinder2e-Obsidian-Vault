@@ -1,20 +1,11 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: No!!!
-frequency: null
-heighten_level: null
 id: '3683'
 level: '12'
 name: No!!!
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Psychic|Psychic]]'
 trigger: A non- [[DATABASE/trait/Minion|minion]] ally within 60 feet is reduced to

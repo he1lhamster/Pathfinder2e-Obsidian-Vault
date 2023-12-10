@@ -1,22 +1,15 @@
 ﻿---
 ac: '27'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Debilitating Bite
 - Leng Ruby
 - No Breath
 - Planar Fast Healing
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+16'
-hardness: null
 hp: 100 (planar fast healing 5)
 id: '604'
 immunity:
@@ -34,8 +27,6 @@ reflex: '+19'
 resistance:
 - critical hits 10
 - precision 10
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -69,7 +60,6 @@ strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Dream|Dream]]'
@@ -78,7 +68,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+17'
 wisdom: '+3'
 

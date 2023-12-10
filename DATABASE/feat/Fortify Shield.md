@@ -1,23 +1,15 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Fortify Shield
 frequency: once per day
-heighten_level: null
 id: '2570'
 level: '5'
 name: Fortify Shield
 prerequisite: '[[DATABASE/feat/Shield Block|Shield Block]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Oread|Oread]]'
-trigger: null
 type: Feat
 
 ---

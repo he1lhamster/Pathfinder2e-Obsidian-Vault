@@ -1,38 +1,25 @@
 ﻿---
 actions: '[three-actions]'
 area: 30-foot radius, 100-foot-cylinder
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: sustained up to 1 minute
 element: Air
-heighten: null
 heighten_level: '8'
 id: '240'
-lesson: null
 level: '8'
-mystery: null
 name: Punishing Winds
-patron_theme: null
 range: 100 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Primal
 trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
-trigger: null
 type: Spell
 
 ---

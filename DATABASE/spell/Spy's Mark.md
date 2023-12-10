@@ -1,29 +1,17 @@
 ﻿---
 actions: '[three-actions]'
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 1 hour
-element: null
 heighten: 4th, 9th
 heighten_level: 2, 4, 9
 id: '1296'
-lesson: null
 level: '2'
-mystery: null
 name: Spy's Mark
-patron_theme: null
 range: touch
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Firebrands|Firebrands]]'
 target: a wall or other solid, immobile surface
@@ -33,7 +21,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Divination|Divination]]'
 - '[[DATABASE/trait/Scrying|Scrying]]'
-trigger: null
 type: Spell
 
 ---

@@ -1,27 +1,14 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
-heighten: null
 heighten_level: '2'
 id: '62'
-lesson: null
 level: '2'
-mystery: null
 name: Deafness
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Fortitude
 school: Necromancy
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -33,7 +20,6 @@ tradition:
 - Primal
 trait:
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
-trigger: null
 type: Spell
 
 ---

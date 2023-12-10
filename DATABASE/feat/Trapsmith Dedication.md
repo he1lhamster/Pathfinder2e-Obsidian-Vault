@@ -1,26 +1,20 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Trapsmith Dedication
-frequency: null
-heighten_level: null
 id: '3134'
+leads_to: '[[DATABASE/feat/Finessed Features|Finessed Features]] , [[DATABASE/feat/Gear
+  Gnash|Gear Gnash]] , [[DATABASE/feat/Propeller Attachment|Propeller Attachment]]
+  , [[DATABASE/feat/Recycled Cogwheel|Recycled Cogwheel]] , [[DATABASE/feat/Repurposed
+  Parts|Repurposed Parts]]'
 level: '4'
 name: Trapsmith Dedication
 prerequisite: '[[DATABASE/feat/Snarecrafter Dedication|Snarecrafter Dedication]] or
   [[DATABASE/feat/Snare Specialist|Snare Specialist]]'
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

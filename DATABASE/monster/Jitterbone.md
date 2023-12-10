@@ -1,10 +1,7 @@
 ﻿---
 ac: '20'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Compression
@@ -13,13 +10,9 @@ creature_ability:
 - Osseous Defense
 creature_family: '[[DATABASE/monsterfamily/Mortic|Mortic]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+10'
-hardness: null
 hp: 56 ( negative healing )
 id: '1881'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -34,8 +27,6 @@ rarity: Rare
 reflex: '+14'
 resistance:
 - see Osseous Defense
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -47,12 +38,10 @@ skill:
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 speed:
 - 25 feet; compression
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Halfling|Halfling]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -63,7 +52,6 @@ vision: Darkvision
 weakest_save:
 - Fortitude
 - Will
-weakness: null
 will: '+10'
 wisdom: '+1'
 

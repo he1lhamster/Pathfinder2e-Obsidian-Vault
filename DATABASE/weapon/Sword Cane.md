@@ -11,9 +11,7 @@ item_subcategory: Base Weapons
 level: '0'
 name: Sword Cane
 price: 5 gp
-range: null
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 trait:
 - '[[DATABASE/trait/Agile|Agile]]'

@@ -1,21 +1,14 @@
 ﻿---
 ac: '20'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Critical Vulnerability
 - Hammer Block
 - Ridden Construct
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+10'
-hardness: null
 hp: '45'
 id: '1604'
 immunity:
@@ -34,16 +27,12 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '20'
-language: null
 level: '3'
 max_speed: '20'
 name: Bramble Champion Construct
 perception: '+10'
 rarity: Rare
 reflex: '+10'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Large
@@ -53,13 +42,11 @@ source: '[[DATABASE/source/Pathfinder 169. Kindled Magic|Pathfinder #169: Kindle
   Magic]]'
 speed:
 - 20 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Mindless|Mindless]]'

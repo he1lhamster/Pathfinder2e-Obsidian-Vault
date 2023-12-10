@@ -1,56 +1,22 @@
 ﻿---
-ac: null
-actions: null
 alignment: LG
 base_item: '[[DATABASE/shield/Steel Shield|Steel Shield]]'
 bulk: '1'
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '596'
 item_category: Intelligent Items
-item_subcategory: null
-land_speed: null
 level: '7'
-max_speed: null
 name: Martyr's Shield
-onset: null
-price: null
-range: null
 rarity: Rare
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Abjuration
-size: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
-spell: null
-stage: null
 subcategory: intelligentitem
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Divine|Divine]]'
 - '[[DATABASE/trait/Intelligent|Intelligent]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Item
 usage: held in 1 hand
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Martyr's Shield<span class="item-type">Item 7</span>

@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Survey Wildlife|Survey Wildlife]]'
 id: '22'
 name: Hunter
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Survival|Survival]]'
 - Tanning [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

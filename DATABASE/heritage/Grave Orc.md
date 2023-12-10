@@ -2,9 +2,7 @@
 id: '107'
 name: Grave Orc
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-trait: null
 type: Heritage
 
 ---

@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Dragon Prince
-frequency: null
-heighten_level: null
 id: '953'
 level: '9'
 name: Dragon Prince
 prerequisite: '[[DATABASE/feat/Dragon Spit|Dragon Spit]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
-trigger: null
 type: Feat
 
 ---

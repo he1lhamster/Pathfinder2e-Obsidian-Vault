@@ -1,21 +1,14 @@
 ﻿---
 ac: '27'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Blinding Breath
 - Infectious Visions
 - Tumultuous Flash
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+21'
-hardness: null
 hp: 215 ( negative healing )
 id: '1862'
 immunity:
@@ -35,9 +28,6 @@ name: Gholdako
 perception: '+16'
 rarity: Rare
 reflex: '+17'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Huge
@@ -49,12 +39,10 @@ skill:
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 speed:
 - 30 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Undead|Undead]]'

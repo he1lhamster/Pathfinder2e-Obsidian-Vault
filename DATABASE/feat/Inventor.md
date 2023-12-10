@@ -1,25 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Inventor
-frequency: null
-heighten_level: null
 id: '798'
 level: '7'
 name: Inventor
 prerequisite: Master in [[DATABASE/skill/Crafting|Crafting]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: crafting
 trait:
 - '[[DATABASE/trait/Downtime|Downtime]]'
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Grippli Weapon Expertise
-frequency: null
-heighten_level: null
 id: '2830'
 level: '13'
 name: Grippli Weapon Expertise
 prerequisite: '[[DATABASE/feat/Grippli Weapon Familiarity|Grippli Weapon Familiarity]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Grippli|Grippli]]'
-trigger: null
 type: Feat
 
 ---

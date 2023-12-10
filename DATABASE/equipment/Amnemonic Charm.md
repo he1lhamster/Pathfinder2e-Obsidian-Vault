@@ -1,45 +1,16 @@
 ﻿---
-ac: null
 actions: '[free-action]'
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '2096'
 item_category: Consumables
 item_subcategory: Talismans
-land_speed: null
 level: '9'
-max_speed: null
 name: Amnemonic Charm
-onset: null
 price: 140 gp
-range: null
 rarity: Uncommon
-reflex: null
 requirement: You're a master in the skill you failed with.
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Divination
-size: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-spell: null
-stage: null
 subcategory: consumable/talisman
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Consumable|Consumable]]'
 - '[[DATABASE/trait/Divination|Divination]]'
@@ -52,9 +23,6 @@ trigger: You fail or critically fail a [[DATABASE/skill/Deception|Deception]] , 
   , or [[DATABASE/action/Request|Request]]
 type: Item
 usage: affixed to armor
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Amnemonic Charm<span class="item-type">Item 9</span>

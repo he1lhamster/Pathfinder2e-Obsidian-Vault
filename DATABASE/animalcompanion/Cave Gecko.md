@@ -1,11 +1,8 @@
 ﻿---
-burrow_speed: null
 charisma: '+0'
 climb_speed: '25'
 constitution: '+1'
 dexterity: '+3'
-element: null
-fly_speed: null
 hp: '6'
 id: '12'
 intelligence: '-4'
@@ -13,7 +10,6 @@ land_speed: '25'
 max_speed: '25'
 name: Cave Gecko
 rarity: Uncommon
-rus_type_level: null
 sense:
 - low-light vision
 - scent(imprecise) 30 feet
@@ -27,7 +23,6 @@ speed:
 - climb 25 feet
 strength: '+2'
 strength_req: '2'
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Animal Companion

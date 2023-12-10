@@ -1,17 +1,9 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
-frequency: null
 id: '317'
 name: Threatening Approach
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-trait: null
-trigger: null
 type: Action
 
 ---

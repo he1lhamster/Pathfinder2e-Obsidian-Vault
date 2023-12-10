@@ -1,26 +1,17 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Voice of Authority
-frequency: null
-heighten_level: null
 id: '3331'
+leads_to: '[[DATABASE/feat/Strident Command|Strident Command]]'
 level: '4'
 name: Voice of Authority
 prerequisite: Expert in [[DATABASE/skill/Intimidation|Intimidation]] ; [[DATABASE/feat/Vigilante
   Dedication|Vigilante Dedication]] ; member of the Gray Gardeners
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Night of the Gray Death|Night of the Gray Death]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Auditory|Auditory]]'
 - '[[DATABASE/trait/Vigilante|Vigilante]]'
-trigger: null
 type: Feat
 
 ---

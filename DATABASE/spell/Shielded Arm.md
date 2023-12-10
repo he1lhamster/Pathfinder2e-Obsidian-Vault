@@ -1,27 +1,14 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
-component: null
-cost: null
-deity: null
-domain: null
 duration: 1 minute or until expended
 element: Metal
 heighten: '+2'
 heighten_level: 1, 3, 5, 7, 9
 id: '1378'
-lesson: null
 level: '1'
-mystery: null
 name: Shielded Arm
-patron_theme: null
 range: touch
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 target: 1 willing creature
 tradition:
@@ -32,7 +19,6 @@ trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Metal|Metal]]'
-trigger: null
 type: Spell
 
 ---

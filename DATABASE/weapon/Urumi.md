@@ -1,28 +1,7 @@
 ﻿---
-bulk: '2'
-damage: 1d6 S
-deity:
-- '[[DATABASE/deity/Nalinivati|Nalinivati]]'
-favored_weapon: '[[DATABASE/deity/Nalinivati|Nalinivati]]'
-hands: '1'
-id: '306'
-item_category: Weapons
-item_subcategory: Base Weapons
-level: '0'
+id: '102'
 name: Urumi
-price: 2 gp
-range: null
-rarity: Uncommon
-rus_type_level: null
-source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-trait:
-- '[[DATABASE/trait/Deadly|Deadly d10]]'
-- '[[DATABASE/trait/Sweep|Sweep]]'
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
-type: Weapon
-weapon_category: Martial
-weapon_group: '[[DATABASE/weapongroup/Flail|Flail]]'
-weapon_type: Melee
+source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
 
 ---
 # Urumi

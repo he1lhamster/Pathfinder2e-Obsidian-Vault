@@ -1,10 +1,7 @@
 ﻿---
 ac: '40'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+9'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Disgorge Portal
@@ -13,17 +10,12 @@ creature_ability:
 - Project False Image
 - Swallow Whole
 - Thoughtsense
-creature_family: null
 dexterity: '+5'
-element: null
 fly_speed: '60'
 fortitude: '+31'
-hardness: null
 hp: '320'
 id: '1016'
-immunity: null
 intelligence: '+6'
-land_speed: null
 language:
 - '[[DATABASE/language/Abyssal|Abyssal]]'
 - '[[DATABASE/language/Celestial|Celestial]]'
@@ -38,8 +30,6 @@ rarity: Uncommon
 reflex: '+26'
 resistance:
 - physical 15 (except bludgeoning)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - thoughtsense (imprecise) 120 feet

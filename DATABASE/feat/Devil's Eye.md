@@ -1,25 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Devil's Eye
-frequency: null
-heighten_level: null
 id: '3749'
 level: '4'
 name: Devil's Eye
 prerequisite: You made a bargain with a [[DATABASE/monsterfamily/Devil|devil]] or
   won a legalcase or other similar duel of wits against a devil.
 rarity: Rare
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Aftermath|Aftermath]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Feat
 
 ---

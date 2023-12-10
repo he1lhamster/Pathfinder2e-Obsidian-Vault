@@ -1,9 +1,7 @@
 ﻿---
 id: '21'
 name: House Drake
-rus_type_level: null
 source: '[[DATABASE/source/Shadows at Sundown|Shadows at Sundown]]'
-trait: null
 
 ---
 # House Drake

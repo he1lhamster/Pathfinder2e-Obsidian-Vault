@@ -1,26 +1,19 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Animal Trainer Dedication
-frequency: null
-heighten_level: null
 id: '1201'
+leads_to: '[[DATABASE/feat/Beast Speaker|Beast Speaker]] , [[DATABASE/feat/Insistent
+  Command|Insistent Command]] , [[DATABASE/feat/Mature Trained Companion|Mature Trained
+  Companion]]'
 level: '2'
 name: Animal Trainer Dedication
 prerequisite: Trained in [[DATABASE/skill/Nature|Nature]]
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 152. Legacy of the Lost God|Pathfinder #152:
   Legacy of the Lost God]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

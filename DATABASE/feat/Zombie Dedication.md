@@ -1,26 +1,20 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Zombie Dedication
-frequency: null
-heighten_level: null
 id: '3557'
+leads_to: '[[DATABASE/feat/Ankle Biter|Ankle Biter]] , [[DATABASE/feat/Feast|Feast]]
+  , [[DATABASE/feat/Festering Wound|Festering Wound]] , [[DATABASE/feat/Numb|Numb]]
+  , [[DATABASE/feat/Out of Hand|Out of Hand]] , [[DATABASE/feat/Ravenous Charge|Ravenous
+  Charge]] , [[DATABASE/feat/Seize|Seize]] , [[DATABASE/feat/Shamble|Shamble]] , [[DATABASE/feat/Unkillable|Unkillable]]'
 level: '2'
 name: Zombie Dedication
 prerequisite: You died and were animated as a [[DATABASE/monster/Husk Zombie|husk
   zombie]] .
 rarity: Rare
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Feat
 
 ---

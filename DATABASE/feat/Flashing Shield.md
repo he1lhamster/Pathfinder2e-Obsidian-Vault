@@ -1,20 +1,12 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Flashing Shield
-frequency: null
-heighten_level: null
 id: '3605'
 level: '8'
 name: Flashing Shield
 prerequisite: '[[DATABASE/feat/Lastwall Sentry Dedication|Lastwall Sentry Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 trigger: You use theShield Blockreaction, and the opponent thattriggered the Shield

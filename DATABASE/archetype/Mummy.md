@@ -4,7 +4,6 @@ level: '2'
 name: Mummy
 prerequisite: you are dead and were mummified (by natural or ritualistic means)
 rarity: Rare
-rus_type_level: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'

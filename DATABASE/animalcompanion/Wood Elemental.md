@@ -1,11 +1,9 @@
 ﻿---
-burrow_speed: null
 charisma: '+0'
 climb_speed: '25'
 constitution: '+2'
 dexterity: '+1'
 element: Wood
-fly_speed: null
 hp: '8'
 id: '65'
 intelligence: '-4'
@@ -13,7 +11,6 @@ land_speed: '25'
 max_speed: '25'
 name: Wood Elemental
 rarity: Uncommon
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -25,7 +22,6 @@ speed:
 - climb 25 feet
 strength: '+2'
 strength_req: '2'
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Plant|Plant]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

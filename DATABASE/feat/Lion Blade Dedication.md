@@ -1,25 +1,18 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Lion Blade Dedication
-frequency: null
-heighten_level: null
 id: '917'
+leads_to: '[[DATABASE/feat/Expeditious Advance|Expeditious Advance]] , [[DATABASE/feat/Flicker|Flicker]]
+  , [[DATABASE/feat/Lost in the Crowd|Lost in the Crowd]] , [[DATABASE/feat/Spy''s
+  Countermeasures|Spy''s Countermeasures]]'
 level: '2'
 name: Lion Blade Dedication
 prerequisite: member of the Lion Blades; Trained in [[DATABASE/skill/Performance|Performance]]
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/World Guide|World Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

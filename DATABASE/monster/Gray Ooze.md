@@ -1,8 +1,6 @@
 ﻿---
 ac: '14'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
 climb_speed: '10'
 constitution: '+4'
@@ -13,10 +11,7 @@ creature_ability:
 - Puddled Ambush
 creature_family: '[[DATABASE/monsterfamily/Ooze|Ooze]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+12'
-hardness: null
 hp: '60'
 id: '753'
 immunity:
@@ -28,7 +23,6 @@ immunity:
 - '[[DATABASE/trait/Visual|visual]]'
 intelligence: '-5'
 land_speed: '10'
-language: null
 level: '4'
 max_speed: '10'
 name: Gray Ooze
@@ -38,8 +32,6 @@ reflex: '+10'
 resistance:
 - slashing 5
 - piercing 5
-rus_type_level: null
-school: null
 sense:
 - motion sense 60 feet
 - no vision
@@ -51,20 +43,16 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 10 feet
 - climb 10 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Mindless|Mindless]]'
 - '[[DATABASE/trait/Ooze|Ooze]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+8'
 wisdom: '+0'
 

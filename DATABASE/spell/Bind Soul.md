@@ -1,28 +1,16 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: unlimited
-element: null
-heighten: null
 heighten_level: '9'
 id: '21'
-lesson: null
 level: '9'
-mystery: null
 name: Bind Soul
-patron_theme: null
 range: 30 feet
 rarity: Uncommon
 requirement: "black sapphire with a gp value of at least the target's level \xD7 100"
-rus_type_level: null
-saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: 1 creature that died within the last minute
@@ -33,7 +21,6 @@ trait:
 - '[[DATABASE/trait/Evil|Evil]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Spell
 
 ---

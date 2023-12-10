@@ -1,57 +1,23 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
 bulk: L
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '889'
 item_category: Worn Items
 item_subcategory: Other Worn Items
-land_speed: null
 level: '16'
-max_speed: null
 name: Miogimo's Mask
-onset: null
 price: 9,500 gp
-range: null
 rarity: Unique
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Necromancy
-size: null
 source: '[[DATABASE/source/Pathfinder 161. Belly of the Black Whale|Pathfinder #161:
   Belly of the Black Whale]]'
-spell: null
-stage: null
 subcategory: wornitem
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Invested|Invested]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Unique|Unique]]'
-trigger: null
 type: Item
 usage: worn mask
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Miogimo's Mask<span class="item-type">Item 16</span>

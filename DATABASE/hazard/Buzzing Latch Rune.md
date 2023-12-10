@@ -1,8 +1,6 @@
 ﻿---
 ac: '33'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+25'
 hardness: '21'
 hazard_type: Trap
@@ -16,9 +14,6 @@ level: '13'
 name: Buzzing Latch Rune
 rarity: Common
 reflex: '+19'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 154. Siege of the Dinosaurs|Pathfinder #154:
   Siege of the Dinosaurs]]'
 trait:
@@ -27,8 +22,6 @@ trait:
 - '[[DATABASE/trait/Sonic|Sonic]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Buzzing Latch Rune<span class="item-type">Hazard 13</span>

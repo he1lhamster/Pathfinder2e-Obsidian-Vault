@@ -1,10 +1,7 @@
 ﻿---
 ac: '24'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Deny Advantage
@@ -12,14 +9,10 @@ creature_ability:
 - Quick Draw
 - Sneak Attack
 - Surprise Attack
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+11'
 hp: '90'
 id: '2015'
-immunity: null
 intelligence: '+2'
 land_speed: '30'
 language:
@@ -31,9 +24,6 @@ name: Delamar Gianvin
 perception: '+14'
 rarity: Unique
 reflex: '+17'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +15'
@@ -48,21 +38,17 @@ source: '[[DATABASE/source/Pathfinder 152. Legacy of the Lost God|Pathfinder #15
   Legacy of the Lost God]]'
 speed:
 - 30 feet
-spell: null
 strength: '+1'
 strength_req: '1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+14'
 wisdom: '+2'
 

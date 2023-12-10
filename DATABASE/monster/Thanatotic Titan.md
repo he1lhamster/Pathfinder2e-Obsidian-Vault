@@ -1,10 +1,7 @@
 ﻿---
 ac: '46'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+8'
-climb_speed: null
 constitution: '+9'
 creature_ability:
 - Attack of Opportunity
@@ -17,10 +14,7 @@ creature_ability:
 - Cleave
 creature_family: '[[DATABASE/monsterfamily/Titan|Titan]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+37'
-hardness: null
 hp: '540'
 id: '1340'
 immunity:
@@ -39,9 +33,6 @@ name: Thanatotic Titan
 perception: '+36'
 rarity: Rare
 reflex: '+34'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/spell/True Seeing|true seeing]]'
@@ -71,7 +62,6 @@ strength: '+10'
 strength_req: '10'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Rare|Rare]]'
@@ -80,7 +70,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+35'
 wisdom: '+6'
 

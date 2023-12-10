@@ -1,8 +1,6 @@
 ﻿---
 ac: '24'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
 climb_speed: '10'
 constitution: '+6'
@@ -11,12 +9,8 @@ creature_ability:
 - Feed
 - Pheromones
 - Swallow Whole
-creature_family: null
 dexterity: '-5'
-element: null
-fly_speed: null
 fortitude: '+19'
-hardness: null
 hp: '170'
 id: '2504'
 immunity:
@@ -34,8 +28,6 @@ rarity: Uncommon
 reflex: '+11'
 resistance:
 - '[[DATABASE/trait/Cold|cold]] 10'
-rus_type_level: null
-school: null
 sense:
 - pheromones (precise) 20 feet
 - '[[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) 120 feet'
@@ -49,18 +41,15 @@ source: '[[DATABASE/source/Pathfinder 189. Dreamers of the Nameless Spires|Pathf
 speed:
 - 10 feet
 - climb 10 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Mindless|Mindless]]'
 - '[[DATABASE/trait/Plant|Plant]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
 weakness:

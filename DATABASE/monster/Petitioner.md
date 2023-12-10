@@ -1,22 +1,14 @@
 ﻿---
 ac: '15'
 alignment: Any
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Planar Incarnation
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+7'
-hardness: null
 hp: '22'
 id: '758'
-immunity: null
 intelligence: '+2'
 land_speed: '25'
 language:
@@ -27,9 +19,6 @@ name: Petitioner
 perception: '+7'
 rarity: Common
 reflex: '+7'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -39,14 +28,12 @@ skill:
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 25 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Fortitude
 - Reflex
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Petitioner|Petitioner]]'
 type: Creature
@@ -55,7 +42,6 @@ weakest_save:
 - Fortitude
 - Reflex
 - Will
-weakness: null
 will: '+7'
 wisdom: '+2'
 

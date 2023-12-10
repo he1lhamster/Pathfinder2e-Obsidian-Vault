@@ -1,25 +1,17 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Six Pillars Stance
-frequency: null
-heighten_level: null
 id: '2740'
 level: '12'
 name: Six Pillars Stance
 prerequisite: '[[DATABASE/feat/Sixth Pillar Dedication|Sixth Pillar Dedication]]'
 rarity: Common
 requirement: You are unarmored.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Fists of the Ruby Phoenix Hardcover|Fists of the Ruby Phoenix
   Hardcover]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Stance|Stance]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,26 +1,17 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Thaumaturge's Demesne
-frequency: null
-heighten_level: null
 id: '3723'
+leads_to: '[[DATABASE/feat/Unlimited Demesne|Unlimited Demesne]]'
 level: '12'
 name: Thaumaturge's Demesne
-prerequisite: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Abjuration
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Arcane|Arcane]]'
 - '[[DATABASE/trait/Thaumaturge|Thaumaturge]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Star Orb
-frequency: null
-heighten_level: null
 id: '2622'
+leads_to: '[[DATABASE/feat/Killing Stone|Killing Stone]]'
 level: '1'
 name: Star Orb
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Kitsune|Kitsune]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,25 +1,18 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Sky and Heaven Stance
-frequency: null
-heighten_level: null
 id: '2200'
+leads_to: '[[DATABASE/feat/Cross the Final Horizon|Cross the Final Horizon]] , [[DATABASE/feat/Skyseeker|Skyseeker]]'
 level: '6'
 name: Sky and Heaven Stance
 prerequisite: '[[DATABASE/feat/Jalmeri Heavenseeker Dedication|Jalmeri Heavenseeker
   Dedication]]'
 rarity: Common
 requirement: You are unarmored.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Stance|Stance]]'
-trigger: null
 type: Feat
 
 ---

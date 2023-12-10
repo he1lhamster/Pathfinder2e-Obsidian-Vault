@@ -1,28 +1,14 @@
 ﻿---
-actions: null
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
 heighten: 2nd, 3rd
 heighten_level: 1, 2, 3
 id: '189'
-lesson: null
 level: '1'
-mystery: null
 name: Mending
-patron_theme: null
 range: touch
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: non-magical object of light Bulk or less
@@ -34,7 +20,6 @@ tradition:
 - Elemental
 trait:
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Spell
 
 ---

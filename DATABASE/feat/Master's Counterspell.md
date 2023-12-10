@@ -1,21 +1,14 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Master's Counterspell
-frequency: null
-heighten_level: null
 id: '2247'
 level: '16'
 name: Master's Counterspell
 prerequisite: '[[DATABASE/feat/Spellmaster Dedication|Spellmaster Dedication]] ; master
   in spell attack rolls andspell DCs'
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Abjuration
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Archetype|Archetype]]'

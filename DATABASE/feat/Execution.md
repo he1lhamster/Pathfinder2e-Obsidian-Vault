@@ -1,10 +1,6 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Execution
-frequency: null
-heighten_level: null
 id: '3338'
 level: '14'
 name: Execution
@@ -12,14 +8,10 @@ prerequisite: '[[DATABASE/feat/Harsh Judgment|Harsh Judgment]] ; [[DATABASE/feat
   Dedication|Vigilante Dedication]] ; member of the Gray Gardeners'
 rarity: Common
 requirement: You have condemned a foe with [[DATABASE/feat/Harsh Judgment|Harsh Judgment.]]
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Night of the Gray Death|Night of the Gray Death]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Vigilante|Vigilante]]'
-trigger: null
 type: Feat
 
 ---

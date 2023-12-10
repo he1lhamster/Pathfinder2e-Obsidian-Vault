@@ -5,35 +5,23 @@ bloodline: '[[DATABASE/sorcererbloodline/Diabolic|Diabolic]]'
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
-duration: null
 element: Fire
 heighten: '+1'
 heighten_level: 5, 6, 7, 8, 9, 10
 id: '513'
-lesson: null
 level: '5'
-mystery: null
 name: Hellfire Plume
-patron_theme: null
 range: 60 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 saving_throw: basicReflex
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
-tradition: null
 trait:
 - '[[DATABASE/trait/Evil|Evil]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Fire|Fire]]'
 - '[[DATABASE/trait/Sorcerer|Sorcerer]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Focus
 
 ---

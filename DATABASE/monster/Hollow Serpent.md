@@ -1,8 +1,6 @@
 ﻿---
 ac: '37'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
 climb_speed: '50'
 constitution: '+6'
@@ -12,12 +10,8 @@ creature_ability:
 - Divine Guardian
 - Slithering Strike
 - Swallow Whole
-creature_family: null
 dexterity: '+8'
-element: null
-fly_speed: null
 fortitude: '+26'
-hardness: null
 hp: 280 ( negative healing )
 id: '1872'
 immunity:
@@ -36,9 +30,6 @@ name: Hollow Serpent
 perception: '+27'
 rarity: Common
 reflex: '+30'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Lifesense|lifesense]] 60 feet'
@@ -59,14 +50,12 @@ strength: '+7'
 strength_req: '7'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Undead|Undead]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+24'
 wisdom: '+4'
 

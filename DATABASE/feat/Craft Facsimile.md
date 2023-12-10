@@ -1,25 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Craft Facsimile
-frequency: null
-heighten_level: null
 id: '2226'
 level: '6'
 name: Craft Facsimile
 prerequisite: Expert in [[DATABASE/skill/Crafting|Crafting]] ; [[DATABASE/feat/Pathfinder
   Agent Dedication|Pathfinder Agent Dedication]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,22 +1,16 @@
 ﻿---
 ac: '40'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Gatekeeper Aura
 - Orrery
 - Radiant Blast
 - Radiant Blow
-creature_family: null
 dexterity: '+6'
-element: null
 fly_speed: '30'
 fortitude: '+32'
-hardness: null
 hp: '300'
 id: '780'
 immunity:
@@ -45,8 +39,6 @@ reflex: '+29'
 resistance:
 - mental 15
 - physical 15 (except adamantine)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Gargantuan
@@ -70,7 +62,6 @@ strength: '+9'
 strength_req: '9'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
@@ -78,7 +69,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+28'
 wisdom: '+5'
 

@@ -1,8 +1,6 @@
 ﻿---
 ac: '33'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
 climb_speed: '30'
 constitution: '+5'
@@ -12,12 +10,8 @@ creature_ability:
 - Eerie Flexibility
 - No Breath
 - Paralysis
-creature_family: null
 dexterity: '+7'
-element: null
-fly_speed: null
 fortitude: '+21'
-hardness: null
 hp: '225'
 id: '1943'
 immunity:
@@ -36,8 +30,6 @@ rarity: Rare
 reflex: '+25'
 resistance:
 - '[[DATABASE/trait/Poison|poison]] 10'
-rus_type_level: null
-school: null
 sense:
 - bloodsense 60 feet
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
@@ -69,7 +61,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Dream|Dream]]'

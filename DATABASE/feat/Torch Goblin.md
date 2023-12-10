@@ -1,23 +1,15 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Torch Goblin
-frequency: null
-heighten_level: null
 id: '1005'
+leads_to: '[[DATABASE/feat/Scalding Spit|Scalding Spit]]'
 level: '5'
 name: Torch Goblin
 prerequisite: '[[DATABASE/heritage/Charhide Goblin|Charhide Goblin]] heritage'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Goblin|Goblin]]'
-trigger: null
 type: Feat
 
 ---

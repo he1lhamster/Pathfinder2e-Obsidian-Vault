@@ -1,10 +1,7 @@
 ﻿---
 ac: '30'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Attack of Opportunity
@@ -14,10 +11,7 @@ creature_ability:
 - Shield Block
 creature_family: '[[DATABASE/monsterfamily/Harrowkin|Harrowkin]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+21'
-hardness: null
 hp: '180'
 id: '2580'
 immunity:
@@ -44,9 +38,6 @@ name: Storied Harrowkin
 perception: '+17'
 rarity: Uncommon
 reflex: '+18'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -59,12 +50,10 @@ source: '[[DATABASE/source/Pathfinder 192. Worst of All Possible Worlds|Pathfind
   #192: Worst of All Possible Worlds]]'
 speed:
 - 25 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
@@ -72,7 +61,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+17'
 wisdom: '+1'
 

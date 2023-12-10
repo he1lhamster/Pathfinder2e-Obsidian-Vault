@@ -1,20 +1,14 @@
 ﻿---
 ac: '20'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Devour Soul
 - Surprise Attack
 creature_family: '[[DATABASE/monsterfamily/Bogeyman|Bogeyman]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+7'
-hardness: null
 hp: '35'
 id: '507'
 immunity:
@@ -30,9 +24,6 @@ name: Bogey
 perception: '+9'
 rarity: Uncommon
 reflex: '+12'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 size: Small
@@ -53,7 +44,6 @@ strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

@@ -1,24 +1,16 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Electrify Armor
-frequency: null
-heighten_level: null
 id: '3070'
 level: '10'
 name: Electrify Armor
 prerequisite: '[[DATABASE/inventorinnovation/Armor Innovation|armor innovation]]'
 rarity: Common
 requirement: You are wearing your armor innovation.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Inventor|Inventor]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
-trigger: null
 type: Feat
 
 ---

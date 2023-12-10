@@ -1,10 +1,7 @@
 ﻿---
 ac: '43'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+9'
-climb_speed: null
 constitution: '+8'
 creature_ability:
 - Breath Weapon
@@ -14,12 +11,9 @@ creature_ability:
 - Swallow Whole
 - ''
 - Thoughtsense
-creature_family: null
 dexterity: '+6'
-element: null
 fly_speed: '50'
 fortitude: '+35'
-hardness: null
 hp: '445'
 id: '2341'
 immunity:
@@ -38,8 +32,6 @@ rarity: Unique
 reflex: '+31'
 resistance:
 - mental 20
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 - thoughtsense 100 feet.
@@ -72,7 +64,6 @@ strength: '+10'
 strength_req: '10'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Unique|Unique]]'

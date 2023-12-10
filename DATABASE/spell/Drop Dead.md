@@ -1,28 +1,17 @@
 ﻿---
 actions: '[reaction]'
-area: null
-bloodline: null
 component:
 - Somatic
-cost: null
 deity:
 - '[[DATABASE/deity/Naderi|Naderi]]'
-domain: null
 duration: sustained up to 1 minute
-element: null
 heighten: 7th
 heighten_level: 5, 7
 id: '92'
-lesson: null
 level: '5'
-mystery: null
 name: Drop Dead
-patron_theme: null
 range: 120 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Illusion
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: 1 creature

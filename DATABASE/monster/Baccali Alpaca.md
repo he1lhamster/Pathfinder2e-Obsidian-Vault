@@ -1,35 +1,23 @@
 ﻿---
 ac: '14'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Buck
 - Gallop
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+7'
-hardness: null
 hp: '16'
 id: '2073'
-immunity: null
 intelligence: '-4'
 land_speed: '35'
-language: null
 level: '0'
 max_speed: '35'
 name: Baccali Alpaca
 perception: '+4'
 rarity: Common
 reflex: '+4'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -40,12 +28,10 @@ skill:
 source: '[[DATABASE/source/Travel Guide|Travel Guide]]'
 speed:
 - 35 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
@@ -53,7 +39,6 @@ vision: Low-light vision
 weakest_save:
 - Reflex
 - Will
-weakness: null
 will: '+4'
 wisdom: '+2'
 

@@ -1,20 +1,13 @@
 ﻿---
 actions: '[three-actions]'
-cost: null
 element: Water
 feat: Impenetrable Fog
-frequency: null
 heighten_level: 8, 11, 14, 17, 20
 id: '4275'
 level: '8'
 name: Impenetrable Fog
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Impulse|Impulse]]'
 - '[[DATABASE/trait/Kineticist|Kineticist]]'
@@ -22,7 +15,6 @@ trait:
 - '[[DATABASE/trait/Overflow|Overflow]]'
 - '[[DATABASE/trait/Primal|Primal]]'
 - '[[DATABASE/trait/Water|Water]]'
-trigger: null
 type: Feat
 
 ---

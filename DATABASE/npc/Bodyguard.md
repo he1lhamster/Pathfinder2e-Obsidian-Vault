@@ -1,21 +1,15 @@
 ﻿---
 ac: '16'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Bodyguard's Defense
 creature_family: '[[DATABASE/monsterfamily/Mercenaries|Mercenaries]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+8'
 hp: '25'
 id: '921'
-immunity: null
 intelligence: '-1'
 land_speed: '25'
 language:
@@ -26,9 +20,6 @@ name: Bodyguard
 perception: '+8'
 rarity: Common
 reflex: '+7'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +7'
@@ -37,20 +28,16 @@ skill:
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 speed:
 - 25 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+4'
 wisdom: '+1'
 

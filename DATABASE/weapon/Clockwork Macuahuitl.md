@@ -1,8 +1,6 @@
 ﻿---
 bulk: '1'
 damage: 1d10 S
-deity: null
-favored_weapon: null
 hands: '2'
 id: '227'
 item_category: Weapons
@@ -10,9 +8,7 @@ item_subcategory: Base Weapons
 level: '8'
 name: Clockwork Macuahuitl
 price: 550 gp
-range: null
 rarity: Rare
-rus_type_level: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
 trait:
 - '[[DATABASE/trait/Backswing|Backswing]]'

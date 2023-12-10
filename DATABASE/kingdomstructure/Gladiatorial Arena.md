@@ -4,7 +4,6 @@ id: '76'
 level: '15'
 name: Gladiatorial Arena
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
 trait:
 - '[[DATABASE/trait/Edifice|Edifice]]'

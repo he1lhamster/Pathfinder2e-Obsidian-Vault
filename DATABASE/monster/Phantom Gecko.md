@@ -2,9 +2,7 @@
 ac: '15'
 alignment: N
 all_resistance: '2'
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Susceptible to Death
@@ -12,10 +10,8 @@ creature_ability:
 - Walk the Ethereal Line
 creature_family: '[[DATABASE/monsterfamily/Phantom|Phantom]]'
 dexterity: '+4'
-element: null
 fly_speed: '25'
 fortitude: '+5'
-hardness: null
 hp: '15'
 id: '2732'
 immunity:
@@ -24,8 +20,6 @@ immunity:
 - '[[DATABASE/trait/Poison|poison]]'
 - precision
 intelligence: '-4'
-land_speed: null
-language: null
 level: '1'
 max_speed: '25'
 name: Phantom Gecko
@@ -36,8 +30,6 @@ resistance:
 - all damage 2 (except [[DATABASE/trait/Force|force]] or [[DATABASE/equipment/Ghost
   Touch|ghost touch]] ^ double resistance vs. non- [[DATABASE/trait/Magical|magical]]
   )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -48,12 +40,10 @@ source: '[[DATABASE/source/Pathfinder 196. The Summer That Never Was|Pathfinder 
   The Summer That Never Was]]'
 speed:
 - fly 25 feet
-spell: null
 strength: '-5'
 strength_req: '-5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Ethereal|Ethereal]]'
 - '[[DATABASE/trait/Incorporeal|Incorporeal]]'
@@ -65,7 +55,6 @@ vision: Darkvision
 weakest_save:
 - Fortitude
 - Will
-weakness: null
 will: '+5'
 wisdom: '+2'
 

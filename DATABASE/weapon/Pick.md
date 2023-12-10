@@ -15,9 +15,7 @@ item_subcategory: Base Weapons
 level: '0'
 name: Pick
 price: 7 sp
-range: null
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Fatal|Fatal 1d10]]'

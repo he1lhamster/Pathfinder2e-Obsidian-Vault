@@ -1,23 +1,16 @@
 ﻿---
 ac: '26'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Distracting Spells
 - Infused Items
 - Quick Bomber
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+17'
 hp: '140'
 id: '1638'
-immunity: null
 intelligence: '+4'
 land_speed: '25'
 language:
@@ -33,8 +26,6 @@ rarity: Unique
 reflex: '+19'
 resistance:
 - '[[DATABASE/trait/Fire|fire]] 10'
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Arcana|Arcana]] +16'
@@ -67,16 +58,13 @@ strength: '+1'
 strength_req: '1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+13'
 wisdom: '+1'
 

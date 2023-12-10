@@ -1,24 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Thorough Reports
-frequency: null
-heighten_level: null
 id: '874'
+leads_to: '[[DATABASE/feat/Discerning Strike|Discerning Strike]]'
 level: '4'
 name: Thorough Reports
 prerequisite: '[[DATABASE/feat/Pathfinder Agent Dedication|Pathfinder Agent Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/World Guide|World Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

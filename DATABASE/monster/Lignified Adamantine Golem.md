@@ -1,10 +1,7 @@
 ﻿---
 ac: '40'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+9'
 creature_ability:
 - Destructive Strike
@@ -15,12 +12,8 @@ creature_ability:
 - Vent
 - Splinters
 - Vulnerable to Dispelling and Shape Wood
-creature_family: null
 dexterity: '-1'
-element: null
-fly_speed: null
 fortitude: '+31'
-hardness: null
 hp: 255 (repair mode)
 id: '1802'
 immunity:
@@ -41,7 +34,6 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '30'
-language: null
 level: '17'
 max_speed: '30'
 name: Lignified Adamantine Golem
@@ -50,8 +42,6 @@ rarity: Rare
 reflex: '+25'
 resistance:
 - physical 15 (except [[DATABASE/equipment/Adamantine Weapon|adamantine]] )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -61,12 +51,10 @@ source: '[[DATABASE/source/Pathfinder 174. Shadows of the Ancients|Pathfinder #1
   Shadows of the Ancients]]'
 speed:
 - 30 feet
-spell: null
 strength: '+9'
 strength_req: '9'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Golem|Golem]]'
@@ -76,7 +64,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+27'
 wisdom: '+0'
 

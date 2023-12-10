@@ -1,20 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Charmed Life
-frequency: null
-heighten_level: null
 id: '1523'
+leads_to: '[[DATABASE/feat/Incredible Luck|Incredible Luck]]'
 level: '2'
 name: Charmed Life
 prerequisite: Charisma 14
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Swashbuckler|Swashbuckler]]'
 trigger: You attempt a saving throw, but you haven't rolled yet.

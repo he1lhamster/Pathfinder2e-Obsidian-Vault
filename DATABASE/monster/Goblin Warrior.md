@@ -1,22 +1,15 @@
 ﻿---
 ac: '16'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Goblin Scuttle
 creature_family: '[[DATABASE/monsterfamily/Goblin|Goblin]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+5'
-hardness: null
 hp: '6'
 id: '232'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -27,9 +20,6 @@ name: Goblin Warrior
 perception: '+2'
 rarity: Common
 reflex: '+7'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Small
@@ -41,12 +31,10 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 25 feet
-spell: null
 strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Goblin|Goblin]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -54,7 +42,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+3'
 wisdom: '-1'
 

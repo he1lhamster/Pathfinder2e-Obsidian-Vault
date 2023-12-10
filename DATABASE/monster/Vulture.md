@@ -1,36 +1,26 @@
 ﻿---
 ac: '18'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Carrion Fever
 - Projectile Vomit
-creature_family: null
 dexterity: '+2'
-element: null
 fly_speed: '35'
 fortitude: '+13'
-hardness: null
 hp: '50'
 id: '1362'
 immunity:
 - '[[DATABASE/condition/Sickened|sickened]]'
 intelligence: '-4'
 land_speed: '10'
-language: null
 level: '3'
 max_speed: '35'
 name: Giant Vulture
 perception: '+12'
 rarity: Common
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Large
@@ -41,19 +31,16 @@ source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 10 feet
 - fly 35 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+6'
 wisdom: '+1'
 

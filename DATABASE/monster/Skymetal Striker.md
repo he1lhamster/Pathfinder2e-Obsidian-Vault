@@ -1,10 +1,6 @@
 ﻿---
 ac: '26'
-alignment: null
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Phase Blade
@@ -13,9 +9,7 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Elemental, Metal|Elemental, Metal]]'
 dexterity: '+6'
 element: Metal
-fly_speed: null
 fortitude: '+15'
-hardness: null
 hp: '100'
 id: '2650'
 immunity:
@@ -35,8 +29,6 @@ rarity: Common
 reflex: '+17'
 resistance:
 - '[[DATABASE/trait/Electricity|electricity]] 5'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -46,12 +38,10 @@ skill:
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 speed:
 - 25 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Elemental|Elemental]]'
 - '[[DATABASE/trait/Metal|Metal]]'
@@ -59,7 +49,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+13'
 wisdom: '+2'
 

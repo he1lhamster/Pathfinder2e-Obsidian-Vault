@@ -1,10 +1,7 @@
 ﻿---
 ac: '17'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Breath Weapon
@@ -14,7 +11,6 @@ dexterity: '+4'
 element: Fire
 fly_speed: '25'
 fortitude: '+3'
-hardness: null
 hp: 16 ( fast healing 2 (while touching fire))
 id: '194'
 immunity:
@@ -33,9 +29,6 @@ name: Fire Mephit
 perception: '+3'
 rarity: Common
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - smoke vision
@@ -54,7 +47,6 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Elemental|Elemental]]'
 - '[[DATABASE/trait/Fire|Fire]]'

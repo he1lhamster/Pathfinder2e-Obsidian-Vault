@@ -1,23 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Expanded Splash
-frequency: null
-heighten_level: null
 id: '109'
+leads_to: '[[DATABASE/feat/Controlled Blast|Controlled Blast]] , [[DATABASE/feat/Mega
+  Bomb|Mega Bomb]]'
 level: '10'
 name: Expanded Splash
 prerequisite: '[[DATABASE/feat/Calculated Splash|Calculated Splash]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Alchemist|Alchemist]]'
-trigger: null
 type: Feat
 
 ---

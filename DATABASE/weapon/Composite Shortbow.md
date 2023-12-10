@@ -1,8 +1,6 @@
 ﻿---
 bulk: '1'
 damage: 1d6 P
-deity: null
-favored_weapon: null
 hands: 1+
 id: '75'
 item_category: Weapons
@@ -12,7 +10,6 @@ name: Composite Shortbow
 price: 14 gp
 range: 60 ft.
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Deadly|Deadly d10]]'

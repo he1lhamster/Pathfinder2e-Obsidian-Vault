@@ -1,20 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Shoulder Catastrophe
-frequency: null
-heighten_level: null
 id: '1141'
+leads_to: '[[DATABASE/feat/Stave Off Catastrophe|Stave Off Catastrophe]]'
 level: '12'
 name: Shoulder Catastrophe
 prerequisite: '[[DATABASE/feat/Swordmaster Dedication|Swordmaster Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 trigger: An enemy critically succeeds at a Strike against an adjacent ally.

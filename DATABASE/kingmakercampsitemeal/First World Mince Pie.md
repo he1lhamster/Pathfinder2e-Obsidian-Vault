@@ -6,7 +6,6 @@ price: 3,500 gp
 rarity: Rare
 requirement: must be cooked while camping in the [[DATABASE/plane/First World|First
   World]] (includingassociated demiplanes like Thousand Breaths or the Lantern Kingdom)
-rus_type_level: null
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
 trait:
 - '[[DATABASE/trait/Apex|Apex]]'

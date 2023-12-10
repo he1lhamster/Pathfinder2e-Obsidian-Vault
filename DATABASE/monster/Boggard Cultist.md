@@ -1,10 +1,7 @@
 ﻿---
 ac: '27'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Gogunta's Croak
@@ -12,13 +9,9 @@ creature_ability:
 - Tongue Grab
 creature_family: '[[DATABASE/monsterfamily/Boggard|Boggard]]'
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+14'
-hardness: null
 hp: '135'
 id: '2237'
-immunity: null
 intelligence: '+3'
 land_speed: '20'
 language:
@@ -31,9 +24,6 @@ name: Boggard Cultist
 perception: '+16'
 rarity: Rare
 reflex: '+17'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -79,7 +69,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+18'
 wisdom: '+6'
 

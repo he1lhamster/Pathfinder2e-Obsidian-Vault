@@ -2,9 +2,7 @@
 ac: '33'
 alignment: CE
 all_resistance: '5'
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Attack of Opportunity
@@ -14,9 +12,7 @@ creature_ability:
 - Shadow Blend
 - Soul Swipe
 - Terrifying Howl
-creature_family: null
 dexterity: '+6'
-element: null
 fly_speed: '25'
 fortitude: '+26'
 hp: 240 (dual soul; 120 each for Metuak and Xeleria)
@@ -45,7 +41,6 @@ resistance:
 - '[[DATABASE/equipment/Ghost Touch|ghost touch]]'
 - or [[DATABASE/trait/Positive|positive]] >;double resistance vs. non- [[DATABASE/trait/Magical|magical]]
   )
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -72,7 +67,6 @@ strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fiend|Fiend]]'
 - '[[DATABASE/trait/Human|Human]]'

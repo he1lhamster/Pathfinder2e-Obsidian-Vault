@@ -1,28 +1,18 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Eerie Traces
-frequency: null
-heighten_level: null
 id: '3765'
 level: '8'
 name: Eerie Traces
 prerequisite: Trained in [[DATABASE/skill/Intimidation|Intimidation]] ; Trained in
   [[DATABASE/skill/Survival|Survival]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Druid|Druid]]'
 - '[[DATABASE/trait/Exploration|Exploration]]'
 - '[[DATABASE/trait/Move|Move]]'
 - '[[DATABASE/trait/Ranger|Ranger]]'
-trigger: null
 type: Feat
 
 ---

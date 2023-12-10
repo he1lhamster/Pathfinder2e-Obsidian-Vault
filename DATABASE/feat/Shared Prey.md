@@ -1,24 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Shared Prey
-frequency: null
-heighten_level: null
 id: '531'
+leads_to: '[[DATABASE/feat/Triple Threat|Triple Threat]]'
 level: '14'
 name: Shared Prey
 prerequisite: '[[DATABASE/feat/Double Prey|Double Prey]] ; [[DATABASE/feat/Warden''s
   Boon|Warden''sBoon]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Ranger|Ranger]]'
-trigger: null
 type: Feat
 
 ---

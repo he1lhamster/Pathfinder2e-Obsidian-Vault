@@ -1,35 +1,24 @@
 ﻿---
 ac: '23'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Dorsal Deflection
 - Trample
 creature_family: '[[DATABASE/monsterfamily/Dinosaur|Dinosaur]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+17'
-hardness: null
 hp: '125'
 id: '120'
-immunity: null
 intelligence: '-4'
 land_speed: '25'
-language: null
 level: '7'
 max_speed: '25'
 name: Stegosaurus
 perception: '+15'
 rarity: Common
 reflex: '+13'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 - scent (imprecise) 30 feet
@@ -39,12 +28,10 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 25 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 - '[[DATABASE/trait/Dinosaur|Dinosaur]]'
@@ -53,7 +40,6 @@ vision: Low-light vision
 weakest_save:
 - Reflex
 - Will
-weakness: null
 will: '+13'
 wisdom: '+2'
 

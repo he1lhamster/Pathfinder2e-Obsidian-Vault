@@ -1,10 +1,7 @@
 ﻿---
 ac: '21'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Deny Advantage
@@ -15,12 +12,9 @@ creature_ability:
 - Trap Finder
 creature_family: '[[DATABASE/monsterfamily/Pathfinders|Pathfinders]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+10'
 hp: '60'
 id: '973'
-immunity: null
 intelligence: '+2'
 land_speed: '25'
 language:
@@ -31,8 +25,6 @@ name: Pathfinder Field Agent
 perception: '+11'
 rarity: Common
 reflex: '+13'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - trap finder
@@ -50,12 +42,10 @@ skill:
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 speed:
 - 25 feet
-spell: null
 strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Elf|Elf]]'
 - '[[DATABASE/trait/Human|Human]]'
@@ -64,7 +54,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+11'
 wisdom: '+2'
 

@@ -1,10 +1,7 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: I Meant to Do That
 frequency: once per hour
-heighten_level: null
 id: '3278'
 level: '10'
 name: I Meant to Do That
@@ -13,13 +10,9 @@ prerequisite: '[[DATABASE/feat/Unexpected Sharpshooter Dedication|Unexpected Sha
 rarity: Common
 requirement: Your previous action was a ranged weapon Strike that missed a foe within
   60 feet.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

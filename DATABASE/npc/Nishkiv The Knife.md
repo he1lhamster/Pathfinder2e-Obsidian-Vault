@@ -1,23 +1,16 @@
 ﻿---
 ac: '16'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Attack of Opportunity
 - Double Strike
 - Sneak Attack
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+6'
 hp: '20'
 id: '2220'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -29,9 +22,6 @@ name: Nishkiv The Knife
 perception: '+5'
 rarity: Unique
 reflex: '+9'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +7'
@@ -42,21 +32,17 @@ skill:
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 speed:
 - 25 feet
-spell: null
 strength: '+1'
 strength_req: '1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+5'
 wisdom: '+0'
 

@@ -1,24 +1,16 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Focused Shot
-frequency: null
-heighten_level: null
 id: '1751'
 level: '12'
 name: Focused Shot
 prerequisite: '[[DATABASE/feat/Monastic Archer Stance|Monastic Archer Stance]]'
 rarity: Common
 requirement: You are in Monastic Archer Stance.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Monk|Monk]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,8 +1,6 @@
 ﻿---
 ac: '40'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+32'
 hardness: 28 Console Hardness
 hazard_type: Trap
@@ -16,9 +14,6 @@ level: '17'
 name: Button Mash
 rarity: Rare
 reflex: '+26'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 186. Ghost King''s Rage|Pathfinder #186: Ghost
   King''s Rage]]'
 trait:
@@ -28,8 +23,6 @@ trait:
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Button Mash<span class="item-type">Hazard 17</span>

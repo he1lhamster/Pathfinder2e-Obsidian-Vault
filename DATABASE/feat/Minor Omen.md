@@ -1,21 +1,16 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Minor Omen
 frequency: once per day
-heighten_level: null
 id: '4068'
 level: '8'
 name: Minor Omen
 prerequisite: '[[DATABASE/feat/Oatia Skysage Dedication|Oatia Skysage Dedication]]'
 rarity: Common
 requirement: You can see the night sky.
-rus_type_level: null
 school: Divination
 source: '[[DATABASE/source/Pathfinder 187. The Seventh Arch|Pathfinder #187: The Seventh
   Arch]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Divination|Divination]]'

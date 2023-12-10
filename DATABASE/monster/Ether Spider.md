@@ -1,8 +1,6 @@
 ﻿---
 ac: '21'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+7'
 climb_speed: '20'
 constitution: '+3'
@@ -11,15 +9,10 @@ creature_ability:
 - Ethereal Step
 - Ethereal Web Trap
 - Web Burst
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+12'
-hardness: null
 hp: '75'
 id: '203'
-immunity: null
 intelligence: '-2'
 land_speed: '40'
 language:
@@ -30,9 +23,6 @@ name: Ether Spider
 perception: '+12'
 rarity: Common
 reflex: '+15'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Large
@@ -43,12 +33,10 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 40 feet
 - climb 20 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Ethereal|Ethereal]]'
@@ -56,7 +44,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+10'
 wisdom: '+1'
 

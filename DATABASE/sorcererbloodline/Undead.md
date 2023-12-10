@@ -3,7 +3,6 @@ bloodline: Undead
 id: '10'
 name: Undead
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 spell:
 - '[[DATABASE/spell/Bind Undead|Bind Undead]]'
@@ -19,7 +18,6 @@ spell:
 - '[[DATABASE/spell/Undeath''s Blessing|Undeath''s Blessing]]'
 - '[[DATABASE/spell/Vampiric Exsanguination|Vampiric Exsanguination]]'
 - '[[DATABASE/spell/Wail of the Banshee|Wail of the Banshee]]'
-trait: null
 type: Sorcerer Bloodline
 
 ---

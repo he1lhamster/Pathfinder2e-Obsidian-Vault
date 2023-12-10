@@ -2,9 +2,6 @@
 id: '1'
 name: Core Rulebook
 rarity: Common
-rus_type_level: null
-source: null
-trait: null
 type: Source
 
 ---

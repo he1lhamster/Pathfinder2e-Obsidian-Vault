@@ -1,36 +1,21 @@
 ﻿---
 actions: '[one-action]'
 area: varies
-bloodline: null
-component: null
-cost: null
-deity: null
-domain: null
 duration: 1 minute
-element: null
-heighten: null
 heighten_level: '2'
 id: '1281'
-lesson: null
 level: '2'
-mystery: null
 name: Confetti Cloud
-patron_theme: null
 range: 90 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Firebrands|Firebrands]]'
-target: null
 tradition:
 - Arcane
 - Occult
 trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Spell
 
 ---

@@ -1,8 +1,6 @@
 ﻿---
 ac: '25'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
 climb_speed: '10'
 constitution: '+1'
@@ -12,14 +10,10 @@ creature_ability:
 - Evasion
 - Nimble Dodge
 - Sneak Attack
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+14'
 hp: '110'
 id: '1820'
-immunity: null
 intelligence: '+3'
 land_speed: '25'
 language:
@@ -36,7 +30,6 @@ rarity: Unique
 reflex: '+19'
 resistance:
 - '[[DATABASE/trait/Cold|cold]] 3'
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
@@ -59,7 +52,6 @@ strength: '+1'
 strength_req: '1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Kitsune|Kitsune]]'
@@ -68,7 +60,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+11'
 wisdom: '+0'
 

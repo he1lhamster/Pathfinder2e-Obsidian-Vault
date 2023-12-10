@@ -1,10 +1,7 @@
 ﻿---
 ac: '33'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Attack of Opportunity
@@ -12,14 +9,10 @@ creature_ability:
 - Mastermind's Eye
 - Sneak Attack
 - Studied Strike
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+26'
 hp: '235'
 id: '1472'
-immunity: null
 intelligence: '+4'
 land_speed: '25'
 language:
@@ -34,9 +27,6 @@ name: Butterfly Blade Warrior
 perception: '+23'
 rarity: Uncommon
 reflex: '+23'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +27'
@@ -49,21 +39,17 @@ source: '[[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #
   Despair on Danger Island]]'
 speed:
 - 25 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+20'
 wisdom: '+0'
 

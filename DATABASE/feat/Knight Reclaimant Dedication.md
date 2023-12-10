@@ -1,26 +1,26 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Knight Reclaimant Dedication
-frequency: null
-heighten_level: null
 id: '1097'
+leads_to: '[[DATABASE/feat/Ashen Veil|Ashen Veil]] , [[DATABASE/feat/Blade of the
+  Crimson Oath|Blade of the Crimson Oath]] , [[DATABASE/feat/Crimson Oath Devotion|Crimson
+  Oath Devotion]] , [[DATABASE/feat/For Love, For Lightning|For Love, For Lightning]]
+  , [[DATABASE/feat/Hilt Hammer|Hilt Hammer]] , [[DATABASE/feat/Invoke the Crimson
+  Oath|Invoke the Crimson Oath]] , [[DATABASE/feat/Reaper of Repose|Reaper of Repose]]
+  , [[DATABASE/feat/Reclaimant Plea|Reclaimant Plea]] , [[DATABASE/feat/Shall Not
+  Falter, Shall Not Rout|Shall Not Falter, Shall Not Rout]] , [[DATABASE/feat/Shepherd
+  of Desolation|Shepherd of Desolation]] , [[DATABASE/feat/Survivor of Desolation|Survivor
+  of Desolation]] , [[DATABASE/feat/The Tyrant Falls!|The Tyrant Falls!]] , [[DATABASE/feat/Voice
+  Cold as Death|Voice Cold as Death]]'
 level: '6'
 name: Knight Reclaimant Dedication
 prerequisite: Trained in [[DATABASE/skill/Stealth|Stealth]] ; Trained in [[DATABASE/skill/Survival|Survival]]
   ; any non-evil alignment; member of the Knights of Lastwall of knight rank
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

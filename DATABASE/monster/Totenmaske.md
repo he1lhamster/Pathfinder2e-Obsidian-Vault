@@ -1,21 +1,14 @@
 ﻿---
 ac: '25'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Drink Flesh
 - Living Form
 - Shape Flesh
-creature_family: null
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+15'
-hardness: null
 hp: 128 ( negative healing )
 id: '829'
 immunity:
@@ -35,9 +28,6 @@ name: Totenmaske
 perception: '+15'
 rarity: Common
 reflex: '+17'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -49,19 +39,16 @@ skill:
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 40 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Undead|Undead]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+13'
 wisdom: '+2'
 

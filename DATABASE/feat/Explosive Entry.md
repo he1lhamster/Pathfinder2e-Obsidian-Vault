@@ -1,24 +1,15 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Explosive Entry
-frequency: null
-heighten_level: null
 id: '3242'
 level: '7'
 name: Explosive Entry
 prerequisite: '[[DATABASE/feat/Demolitionist Dedication|Demolitionist Dedication]]
   ; Master in [[DATABASE/skill/Lore|Engineering Lore]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

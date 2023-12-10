@@ -2,7 +2,6 @@
 id: '452'
 name: Hex-KM
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
 - Hex-KM

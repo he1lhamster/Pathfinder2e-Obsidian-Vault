@@ -1,22 +1,14 @@
 ﻿---
 ac: '18'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Resize Plant
-creature_family: null
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+9'
-hardness: null
 hp: '48'
 id: '1086'
-immunity: null
 intelligence: '+3'
 land_speed: '25'
 language:
@@ -28,9 +20,6 @@ name: Buso
 perception: '+8'
 rarity: Common
 reflex: '+6'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
@@ -43,19 +32,16 @@ skill:
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 25 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
 vision: Low-light vision
 weakest_save:
 - Reflex
-weakness: null
 will: '+8'
 wisdom: '+1'
 

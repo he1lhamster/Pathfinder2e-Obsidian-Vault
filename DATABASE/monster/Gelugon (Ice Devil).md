@@ -1,10 +1,7 @@
 ﻿---
 ac: '34'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Attack of Opportunity
@@ -13,10 +10,8 @@ creature_ability:
 - Tactician of Cocytus
 creature_family: '[[DATABASE/monsterfamily/Devil|Devil]]'
 dexterity: '+5'
-element: null
 fly_speed: '35'
 fortitude: '+24'
-hardness: null
 hp: '215'
 id: '113'
 immunity:
@@ -38,8 +33,6 @@ reflex: '+24'
 resistance:
 - physical 10 (except [[DATABASE/equipment/Silver Weapon|silver]] )
 - '[[DATABASE/trait/Poison|poison]] 10'
-rus_type_level: null
-school: null
 sense:
 - greater darkvision
 size: Large
@@ -68,7 +61,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Devil|Devil]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

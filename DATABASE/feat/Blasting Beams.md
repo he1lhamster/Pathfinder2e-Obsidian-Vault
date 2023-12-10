@@ -1,27 +1,19 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Blasting Beams
-frequency: null
-heighten_level: null
 id: '3780'
 level: '2'
 name: Blasting Beams
-prerequisite: null
 rarity: Rare
 requirement: You have a free hand.
-rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Gatewalkers Player''s Guide|Gatewalkers Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Attack|Attack]]'
 - '[[DATABASE/trait/Deviant|Deviant]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Feat
 
 ---

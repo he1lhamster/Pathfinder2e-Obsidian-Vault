@@ -1,26 +1,18 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Wellspring Mage Dedication
-frequency: null
-heighten_level: null
 id: '3029'
+leads_to: '[[DATABASE/feat/Interfering Surge|Interfering Surge]] , [[DATABASE/feat/Urgent
+  Upwelling|Urgent Upwelling]] , [[DATABASE/feat/Wellspring Control|Wellspring Control]]'
 level: '2'
 name: Wellspring Mage Dedication
 prerequisite: wellspring magic
 rarity: Rare
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Class|Class]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Feat
 
 ---

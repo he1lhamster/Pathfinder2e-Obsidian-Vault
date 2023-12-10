@@ -1,10 +1,7 @@
 ﻿---
 ac: '48'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+8'
 creature_ability:
 - All-Around Vision
@@ -16,15 +13,10 @@ creature_ability:
 - Shell Rake
 - Two Heads
 - Two-Headed Strike
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+36'
-hardness: null
 hp: '315'
 id: '40'
-immunity: null
 intelligence: '-3'
 land_speed: '50'
 language:
@@ -37,8 +29,6 @@ rarity: Common
 reflex: '+30'
 resistance:
 - physical 10
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - scent (imprecise) 80 feet
@@ -51,7 +41,6 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 50 feet
 - swim 80 feet
-spell: null
 strength: '+10'
 strength_req: '10'
 strongest_save:
@@ -64,7 +53,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+34'
 wisdom: '+6'
 

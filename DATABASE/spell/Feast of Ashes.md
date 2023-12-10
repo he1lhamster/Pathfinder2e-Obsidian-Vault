@@ -1,30 +1,20 @@
 ﻿---
 actions: '[three-actions]'
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Fumeiyoshi|Fumeiyoshi]]'
 - '[[DATABASE/deity/Trelmarixian|Trelmarixian]]'
-domain: null
 duration: 1 week
-element: null
 heighten: '+1'
 heighten_level: 2, 3, 4, 5, 6, 7, 8, 9, 10
 id: '575'
-lesson: null
 level: '2'
-mystery: null
 name: Feast of Ashes
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Fortitude
 school: Necromancy
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -36,7 +26,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Curse|Curse]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
-trigger: null
 type: Spell
 
 ---

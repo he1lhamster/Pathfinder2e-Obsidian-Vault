@@ -1,11 +1,7 @@
 ﻿---
 id: '84'
 name: Aasimar
-rarity: null
-rus_type_level: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-trait: null
-type: null
 
 ---
 # Aasimar

@@ -8,16 +8,13 @@ ability_boost:
 feat: '[[DATABASE/feat/Train Animal|Train Animal]]'
 id: '3'
 name: Animal Whisperer
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Nature|Nature]]'
 - '[[DATABASE/skill/Lore|Lore]] related to one terrain inhabited by animals you like
   (such as Plains Lore or Swamp Lore).'
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

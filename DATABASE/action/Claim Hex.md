@@ -1,8 +1,4 @@
 ﻿---
-actions: null
-cost: null
-element: null
-frequency: null
 id: '1373'
 name: Claim Hex
 rarity: Common
@@ -10,13 +6,10 @@ requirement: "You have Reconnoitered the hex to be claimed during hexploration. 
   \ hex must be adjacent to atleast one hex that's already part of your kingdom. If\
   \ the hex to be claimed contains dangeroushazards or monsters, they must first be\
   \ cleared out\u2014either via standard adventuring or the Clear Hexactivity."
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
 - '[[DATABASE/trait/Downtime|Downtime]]'
 - '[[DATABASE/trait/Region|Region]]'
-trigger: null
 type: Action
 
 ---

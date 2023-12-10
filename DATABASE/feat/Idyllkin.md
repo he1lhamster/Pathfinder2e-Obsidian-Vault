@@ -1,24 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Idyllkin
-frequency: null
-heighten_level: null
 id: '2284'
+leads_to: '[[DATABASE/feat/Agathion Magic|Agathion Magic]] , [[DATABASE/feat/Tranquil
+  Sanctuary|Tranquil Sanctuary]]'
 level: '1'
 name: Idyllkin
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Aasimar|Aasimar]]'
 - '[[DATABASE/trait/Lineage|Lineage]]'
-trigger: null
 type: Feat
 
 ---

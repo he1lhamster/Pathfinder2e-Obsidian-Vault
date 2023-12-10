@@ -1,39 +1,25 @@
 ﻿---
 actions: '[two-actions]'
 area: 10-foot burst
-bloodline: null
 component:
 - Verbal
 - Somatic
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
-heighten: null
 heighten_level: '1'
 id: '1242'
-lesson: null
 level: '1'
 mystery: '[[DATABASE/oraclemystery/Ash|Ash]]'
 name: Ashen Wind
-patron_theme: null
 range: 120 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 saving_throw: Fortitude
 school: Conjuration
 source: '[[DATABASE/source/Pathfinder 185. A Taste of Ashes|Pathfinder #185: A Taste
   of Ashes]]'
-target: null
-tradition: null
 trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Cursebound|Cursebound]]'
 - '[[DATABASE/trait/Oracle|Oracle]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Focus
 
 ---

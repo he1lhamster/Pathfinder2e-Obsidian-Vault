@@ -1,10 +1,7 @@
 ﻿---
 ac: '33'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Form Up
@@ -13,14 +10,10 @@ creature_ability:
 - Troop Movement
 - Troop Spellcasting
 - Walkena's Radiance
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+24'
 hp: '216'
 id: '1705'
-immunity: null
 intelligence: '+2'
 land_speed: '25'
 language:
@@ -32,9 +25,6 @@ name: Sun Warrior Brigade
 perception: '+22'
 rarity: Uncommon
 reflex: '+18'
-resistance: null
-rus_type_level: null
-sense: null
 size: Gargantuan
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +23'
@@ -58,13 +48,11 @@ strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Troop|Troop]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
 weakness:

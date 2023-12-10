@@ -1,5 +1,4 @@
 ﻿---
-advanced_apocryphal_spell: null
 advanced_domain_spell: '[[DATABASE/spell/Tempt Fate|Tempt Fate]]'
 apocryphal_spell: '[[DATABASE/spell/String of Fate|String of Fate]]'
 deity:
@@ -31,9 +30,7 @@ domain_spell: '[[DATABASE/spell/Read Fate|Read Fate]]'
 id: '12'
 name: Fate Domain
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Domain
 
 ---

@@ -2,9 +2,7 @@
 ac: '18'
 alignment: NE
 all_resistance: '2'
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Boar Charge
@@ -13,10 +11,8 @@ creature_ability:
 - Walk the Ethereal Line
 creature_family: '[[DATABASE/monsterfamily/Phantom|Phantom]]'
 dexterity: '+1'
-element: null
 fly_speed: '40'
 fortitude: '+10'
-hardness: null
 hp: '22'
 id: '2729'
 immunity:
@@ -25,7 +21,6 @@ immunity:
 - '[[DATABASE/trait/Poison|poison]]'
 - precision
 intelligence: '-3'
-land_speed: null
 language:
 - '[[DATABASE/language/Common|Common]]'
 level: '2'
@@ -38,8 +33,6 @@ resistance:
 - all damage 2 (except [[DATABASE/trait/Force|force]] or [[DATABASE/equipment/Ghost
   Touch|ghost touch]] ; double resistance vs. non- [[DATABASE/trait/Magical|magical]]
   )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -59,7 +52,6 @@ strength: '-5'
 strength_req: '-5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Ethereal|Ethereal]]'
 - '[[DATABASE/trait/Incorporeal|Incorporeal]]'
@@ -70,7 +62,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+8'
 wisdom: '+2'
 

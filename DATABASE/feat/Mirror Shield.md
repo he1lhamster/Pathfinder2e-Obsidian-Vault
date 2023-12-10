@@ -1,20 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Mirror Shield
-frequency: null
-heighten_level: null
 id: '404'
+leads_to: '[[DATABASE/feat/Reflecting Riposte|Reflecting Riposte]]'
 level: '10'
 name: Mirror Shield
-prerequisite: null
 rarity: Common
 requirement: You have a shield raised.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fighter|Fighter]]'
 trigger: An opponent casting a spell that targets you critically fails a spell attack

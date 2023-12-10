@@ -1,10 +1,7 @@
 ﻿---
 ac: '27'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Aquatic Ambush
@@ -19,15 +16,10 @@ creature_ability:
 - Loathsome Stench
 - Mount Steed
 - Skinned Steed
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+16'
-hardness: null
 hp: '180'
 id: '1729'
-immunity: null
 intelligence: '+6'
 land_speed: '30'
 language:
@@ -43,8 +35,6 @@ rarity: Unique
 reflex: '+19'
 resistance:
 - '[[DATABASE/trait/Fire|fire]] 5'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Lifesense|lifesense]] (imprecise) 30 feet'

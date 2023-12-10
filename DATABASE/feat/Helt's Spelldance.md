@@ -1,27 +1,18 @@
 ﻿---
 actions: '[three-actions]'
-cost: null
-element: null
 feat: Helt's Spelldance
-frequency: null
-heighten_level: null
 id: '4130'
 level: '8'
 name: Helt's Spelldance
 prerequisite: Expert in [[DATABASE/skill/Performance|Performance]]
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Firebrands|Firebrands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Bard|Bard]]'
 - '[[DATABASE/trait/Sorcerer|Sorcerer]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 - '[[DATABASE/trait/Witch|Witch]]'
 - '[[DATABASE/trait/Wizard|Wizard]]'
-trigger: null
 type: Feat
 
 ---

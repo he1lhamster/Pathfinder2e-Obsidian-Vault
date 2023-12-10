@@ -1,22 +1,17 @@
 ﻿---
 ac: '27'
 alignment: CE
-all_resistance: null
 burrow_speed: '15'
 charisma: '+3'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Break Ground
 - Earth Glide
 - Shove into Stone
 - Wrathful Misfortune
-creature_family: null
 dexterity: '+4'
 element: Earth
-fly_speed: null
 fortitude: '+17'
-hardness: null
 hp: 110 ( negative healing )
 id: '1184'
 immunity:
@@ -39,8 +34,6 @@ reflex: '+16'
 resistance:
 - electricity 10
 - physical 10 (except bludgeoning)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) 60 feet'
@@ -60,7 +53,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
@@ -69,7 +61,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+15'
 wisdom: '+3'
 

@@ -1,27 +1,15 @@
 ﻿---
 actions: '[two-actions]'
-area: null
 bloodline: '[[DATABASE/sorcererbloodline/Aberrant|Aberrant]]'
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
-heighten: null
 heighten_level: '1'
 id: '300'
-lesson: null
 level: '1'
-mystery: null
 name: Spider Sting
-patron_theme: null
 range: touch
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Fortitude
 school: Necromancy
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -32,7 +20,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Poison|Poison]]'
-trigger: null
 type: Spell
 
 ---

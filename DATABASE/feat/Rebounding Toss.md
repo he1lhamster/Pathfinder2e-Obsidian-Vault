@@ -1,24 +1,15 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Rebounding Toss
-frequency: null
-heighten_level: null
 id: '1723'
 level: '2'
 name: Rebounding Toss
-prerequisite: null
 rarity: Common
 requirement: You are wielding a thrown weapon.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fighter|Fighter]]'
 - '[[DATABASE/trait/Flourish|Flourish]]'
-trigger: null
 type: Feat
 
 ---

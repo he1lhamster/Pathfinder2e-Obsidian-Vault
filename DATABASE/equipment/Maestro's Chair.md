@@ -1,54 +1,19 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
 bulk: '6'
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '1357'
 item_category: Assistive Items
 item_subcategory: Mobility Devices
-land_speed: null
 level: '7'
-max_speed: null
 name: Maestro's Chair
-onset: null
 price: 350 gp
-range: null
 rarity: Common
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Enchantment
-size: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
-spell: null
-stage: null
 subcategory: assistiveitem
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Enchantment|Enchantment]]'
 - '[[DATABASE/trait/Magical|Magical]]'
-trigger: null
 type: Item
-usage: null
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Maestro's Chair<span class="item-type">Item 7</span>

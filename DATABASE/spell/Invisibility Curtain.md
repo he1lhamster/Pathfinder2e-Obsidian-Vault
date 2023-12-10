@@ -1,38 +1,24 @@
 ﻿---
 actions: '[three-actions]'
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: sustained
-element: null
 heighten: 7th
 heighten_level: 4, 7
 id: '936'
-lesson: null
 level: '4'
-mystery: null
 name: Invisibility Curtain
-patron_theme: null
 range: 120 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Illusion
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-target: null
 tradition:
 - Arcane
 - Occult
 trait:
 - '[[DATABASE/trait/Illusion|Illusion]]'
-trigger: null
 type: Spell
 
 ---

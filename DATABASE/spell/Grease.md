@@ -1,31 +1,20 @@
 ﻿---
 actions: '[two-actions]'
 area: 4 contiguous 5-foot squares or
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Picoperi|Picoperi]]'
 - '[[DATABASE/deity/The Perplexing Jest|ThePerplexing Jest]]'
 - '[[DATABASE/deity/Trelmarixian|Trelmarixian]]'
-domain: null
 duration: 1 minute
-element: null
-heighten: null
 heighten_level: '1'
 id: '140'
-lesson: null
 level: '1'
-mystery: null
 name: Grease
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: 1 object of Bulk 1 or less
@@ -34,7 +23,6 @@ tradition:
 - Primal
 trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
-trigger: null
 type: Spell
 
 ---

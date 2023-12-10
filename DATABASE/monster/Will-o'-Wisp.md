@@ -1,10 +1,7 @@
 ﻿---
 ac: '27'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Feed on Fear
@@ -16,13 +13,11 @@ dexterity: '+6'
 element: Air
 fly_speed: '50'
 fortitude: '+10'
-hardness: null
 hp: '50'
 id: '414'
 immunity:
 - magic
 intelligence: '+2'
-land_speed: null
 language:
 - '[[DATABASE/language/Aklo|Aklo]]'
 - '[[DATABASE/language/Common|Common]]'
@@ -32,9 +27,6 @@ name: Will-o'-Wisp
 perception: '+16'
 rarity: Common
 reflex: '+16'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Small
@@ -46,12 +38,10 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - fly 50 feet
-spell: null
 strength: '-5'
 strength_req: '-5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Air|Air]]'
@@ -59,7 +49,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+14'
 wisdom: '+4'
 

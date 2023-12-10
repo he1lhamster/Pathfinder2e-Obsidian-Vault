@@ -1,20 +1,12 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Saving Slash
-frequency: null
-heighten_level: null
 id: '881'
 level: '10'
 name: Saving Slash
 prerequisite: '[[DATABASE/feat/Aldori Duelist Dedication|Aldori Duelist Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/World Guide|World Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 trigger: An opponent critically hits you with a melee attack.

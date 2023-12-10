@@ -1,25 +1,17 @@
 ﻿---
 actions: '[three-actions]'
-cost: null
-element: null
 feat: Avalanche Strike
-frequency: null
-heighten_level: null
 id: '2026'
 level: '16'
 name: Avalanche Strike
 prerequisite: '[[DATABASE/feat/Mauler Dedication|Mauler Dedication]]'
 rarity: Common
 requirement: You're wielding a melee weapon in two hands.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Flourish|Flourish]]'
 - '[[DATABASE/trait/Open|Open]]'
-trigger: null
 type: Feat
 
 ---

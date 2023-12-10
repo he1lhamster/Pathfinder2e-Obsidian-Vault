@@ -1,11 +1,7 @@
 ﻿---
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+2'
 dexterity: '+1'
-element: null
-fly_speed: null
 hp: '8'
 id: '21'
 intelligence: '-4'
@@ -13,7 +9,6 @@ land_speed: '45'
 max_speed: '45'
 name: Riding Drake
 rarity: Uncommon
-rus_type_level: null
 sense:
 - darkvision
 size: Large
@@ -24,7 +19,6 @@ speed:
 - 45 feet
 strength: '+2'
 strength_req: '2'
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Animal Companion

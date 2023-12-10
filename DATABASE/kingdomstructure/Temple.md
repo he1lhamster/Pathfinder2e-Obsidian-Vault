@@ -4,7 +4,6 @@ id: '64'
 level: '7'
 name: Temple
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
 - '[[DATABASE/trait/Building|Building]]'

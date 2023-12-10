@@ -1,10 +1,7 @@
 ﻿---
 ac: '18'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-4'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Flea Fever
@@ -12,10 +9,7 @@ creature_ability:
 - Swarming Bites
 creature_family: '[[DATABASE/monsterfamily/Flea|Flea]]'
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+15'
-hardness: null
 hp: '55'
 id: '502'
 immunity:
@@ -24,7 +18,6 @@ immunity:
 - swarm mind
 intelligence: '-5'
 land_speed: '30'
-language: null
 level: '5'
 max_speed: '30'
 name: Flea Swarm
@@ -33,8 +26,6 @@ rarity: Common
 reflex: '+16'
 resistance:
 - physical 8 (except bludgeoning)
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 - scent (imprecise) 30 feet
@@ -46,12 +37,10 @@ source: '[[DATABASE/source/Pathfinder 151. The Show Must Go On|Pathfinder #151: 
   Show Must Go On]]'
 speed:
 - 30 feet
-spell: null
 strength: '-2'
 strength_req: '-2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 - '[[DATABASE/trait/Swarm|Swarm]]'

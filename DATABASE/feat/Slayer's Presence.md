@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Slayer's Presence
-frequency: null
-heighten_level: null
 id: '3482'
 level: '10'
 name: Slayer's Presence
 prerequisite: '[[DATABASE/feat/Frighten Undead|Frighten Undead]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

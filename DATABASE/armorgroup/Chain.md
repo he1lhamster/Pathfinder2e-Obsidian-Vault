@@ -3,9 +3,7 @@ armor_group: Chain
 id: '1'
 name: Chain
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Armor Specialization
 
 ---

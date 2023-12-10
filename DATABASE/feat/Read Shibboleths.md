@@ -1,26 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Read Shibboleths
-frequency: null
-heighten_level: null
 id: '1998'
 level: '7'
 name: Read Shibboleths
 prerequisite: '[[DATABASE/feat/Linguist Dedication|Linguist Dedication]] ; Master
   in [[DATABASE/skill/Society|Society]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Linguistic|Linguistic]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

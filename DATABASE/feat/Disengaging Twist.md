@@ -1,20 +1,12 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Disengaging Twist
-frequency: null
-heighten_level: null
 id: '3395'
 level: '4'
 name: Disengaging Twist
 prerequisite: '[[DATABASE/feat/Wrestler Dedication|Wrestler Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 trigger: A creature gives you the [[DATABASE/condition/Grabbed|grabbed]] or [[DATABASE/condition/Restrained|restrained]]

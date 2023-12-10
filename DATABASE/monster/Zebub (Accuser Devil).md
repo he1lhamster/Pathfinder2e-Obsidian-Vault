@@ -1,10 +1,7 @@
 ﻿---
 ac: '20'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Cocytan Filth
@@ -12,10 +9,8 @@ creature_ability:
 - Sneak Attack
 creature_family: '[[DATABASE/monsterfamily/Devil|Devil]]'
 dexterity: '+4'
-element: null
 fly_speed: '50'
 fortitude: '+8'
-hardness: null
 hp: '30'
 id: '606'
 immunity:
@@ -36,8 +31,6 @@ reflex: '+10'
 resistance:
 - physical 5 (except [[DATABASE/equipment/Silver|silver]] )
 - poison 5
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 size: Small
@@ -60,7 +53,6 @@ strength: '+1'
 strength_req: '1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Devil|Devil]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

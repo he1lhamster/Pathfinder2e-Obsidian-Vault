@@ -1,10 +1,7 @@
 ﻿---
 ac: '24'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Burning Rush
@@ -12,9 +9,7 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Elemental, Fire|Elemental, Fire]]'
 dexterity: '+5'
 element: Fire
-fly_speed: null
 fortitude: '+11'
-hardness: null
 hp: '115'
 id: '657'
 immunity:
@@ -33,9 +28,6 @@ name: Striding Fire
 perception: '+14'
 rarity: Common
 reflex: '+17'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - smoke vision
@@ -46,12 +38,10 @@ skill:
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 50 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Elemental|Elemental]]'
 - '[[DATABASE/trait/Fire|Fire]]'

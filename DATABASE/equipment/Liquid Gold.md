@@ -1,46 +1,16 @@
 ﻿---
-ac: null
 actions: '[free-action]'
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '1587'
 item_category: Consumables
 item_subcategory: Talismans
-land_speed: null
-level: '8'
-max_speed: null
+level: '6'
 name: Liquid Gold
-onset: null
-price: 80 gp
-range: null
+price: 40 gp
 rarity: Uncommon
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
-size: null
 source: '[[DATABASE/source/Pathfinder 179. Cradle of Quartz|Pathfinder #179: Cradle
   of Quartz]]'
-spell: null
-stage: null
 subcategory: consumable/talisman
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Consumable|Consumable]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
@@ -50,9 +20,6 @@ trait:
 trigger: You roll for initiative
 type: Item
 usage: affixed to a one-handed firearm or hand crossbow
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Liquid Gold<span class="item-type">Item 6+</span>

@@ -8,14 +8,11 @@ ability_boost:
 feat: '[[DATABASE/feat/Recognize Spell|Recognize Spell]]'
 id: '238'
 name: Student of Magic
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - Academia [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

@@ -1,57 +1,23 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
 bulk: L
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '1619'
 item_category: Consumables
 item_subcategory: Spell Catalysts
-land_speed: null
 level: '7'
-max_speed: null
 name: Swirling Sand
-onset: null
 price: 52 gp
-range: null
 rarity: Rare
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
-school: null
-size: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 spell:
 - '[[DATABASE/spell/Suggestion|Suggestion]]'
-stage: null
 subcategory: consumable/spellcatalycyst
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Catalyst|Catalyst]]'
 - '[[DATABASE/trait/Consumable|Consumable]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Item
 usage: held in 1 hand
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Swirling Sand<span class="item-type">Item 7</span>

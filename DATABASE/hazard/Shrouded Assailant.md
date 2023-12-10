@@ -2,13 +2,10 @@
 ac: '40'
 all_resistance: '20'
 complexity: Complex
-element: null
 fortitude: '+26'
-hardness: null
 hazard_type: Haunt
 hp: '230'
 id: '194'
-immunity: null
 level: '17'
 name: Shrouded Assailant
 rarity: Common
@@ -18,14 +15,11 @@ resistance:
 - '[[DATABASE/equipment/Ghost Touch|ghost touch]]'
 - or [[DATABASE/trait/Positive|positive]] ; double resistance to non- [[DATABASE/trait/Magical|magical]]
   )
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 trait:
 - '[[DATABASE/trait/Complex|Complex]]'
 - '[[DATABASE/trait/Haunt|Haunt]]'
 type: Hazard
-weakness: null
 will: '+35'
 
 ---

@@ -1,8 +1,6 @@
 ﻿---
 ac: '16'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+10'
 hardness: '5'
 hazard_type: Trap
@@ -16,16 +14,11 @@ level: '1'
 name: Slamming Door
 rarity: Common
 reflex: '+2'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Mechanical|Mechanical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Slamming Door<span class="item-type">Hazard 1</span>

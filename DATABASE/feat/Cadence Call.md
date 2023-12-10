@@ -1,25 +1,18 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Cadence Call
 frequency: once per minute
-heighten_level: null
 id: '2010'
+leads_to: '[[DATABASE/feat/Tactical Cadence|Tactical Cadence]]'
 level: '6'
 name: Cadence Call
 prerequisite: '[[DATABASE/feat/Marshal Dedication|Marshal Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Auditory|Auditory]]'
 - '[[DATABASE/trait/Flourish|Flourish]]'
-trigger: null
 type: Feat
 
 ---

@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Recognize Spell|Recognize Spell]]'
 id: '204'
 name: Spell Seeker
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Arcana|Arcana]] or [[DATABASE/skill/Occultism|Occultism]]'
 - Library [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

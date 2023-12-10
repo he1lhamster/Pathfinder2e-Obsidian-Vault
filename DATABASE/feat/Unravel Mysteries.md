@@ -1,25 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Unravel Mysteries
-frequency: null
-heighten_level: null
 id: '1132'
 level: '8'
 name: Unravel Mysteries
 prerequisite: master in a [[DATABASE/action/Decipher Writing|Decipher Writing]] skill;
   [[DATABASE/feat/Scrollmaster Dedication|Scrollmaster Dedication]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

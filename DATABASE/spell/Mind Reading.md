@@ -1,27 +1,15 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 1 round or sustained up to 1 minute
-element: null
-heighten: null
 heighten_level: '3'
 id: '194'
-lesson: null
 level: '3'
-mystery: null
 name: Mind Reading
-patron_theme: null
 range: 30 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 saving_throw: Will
 school: Divination
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -34,7 +22,6 @@ trait:
 - '[[DATABASE/trait/Divination|Divination]]'
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Spell
 
 ---

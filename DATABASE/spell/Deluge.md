@@ -1,32 +1,20 @@
 ﻿---
 actions: '[two-actions]'
 area: 40-foot burst
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
-duration: null
 element: Water
 heighten: '+1'
 heighten_level: 8, 9, 10
 id: '656'
-lesson: null
 level: '8'
-mystery: null
 name: Deluge
-patron_theme: null
 range: 500 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Pathfinder 156. The Apocalypse Prophet|Pathfinder #156:
   The Apocalypse Prophet]]'
-target: null
 tradition:
 - Arcane
 - Primal
@@ -34,7 +22,6 @@ trait:
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 - '[[DATABASE/trait/Water|Water]]'
-trigger: null
 type: Spell
 
 ---

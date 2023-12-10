@@ -3,9 +3,7 @@ creature_family: Dragon, Green
 id: '167'
 name: Dragon, Green
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
-trait: null
 type: Creature Family
 
 ---

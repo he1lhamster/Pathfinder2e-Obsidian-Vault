@@ -3,7 +3,6 @@ ac: '0'
 armor_category: Unarmored
 armor_group: '[[DATABASE/armorgroup/Cloth|Cloth]]'
 bulk: L
-check_penalty: null
 dex_cap: '+5'
 id: '22'
 item_category: Armor
@@ -12,11 +11,7 @@ level: '0'
 name: Gi
 price: 2 sp
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-speed_penalty: null
-strength: null
-strength_req: null
 trait:
 - '[[DATABASE/trait/Comfort|Comfort]]'
 type: Armor

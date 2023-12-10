@@ -1,24 +1,16 @@
 ﻿---
 ac: '19'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Swamp Stride
 - Terrifying Croak
 - Tongue Grab
-creature_family: null
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+9'
-hardness: null
 hp: '44'
 id: '2747'
-immunity: null
 intelligence: '+0'
 land_speed: '20'
 language:
@@ -32,9 +24,6 @@ name: Glutu
 perception: '+11'
 rarity: Unique
 reflex: '+7'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -72,7 +61,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+11'
 wisdom: '+4'
 

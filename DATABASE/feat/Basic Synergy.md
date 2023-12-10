@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Basic Synergy
-frequency: null
-heighten_level: null
 id: '2954'
+leads_to: '[[DATABASE/feat/Advanced Synergy|Advanced Synergy]]'
 level: '4'
 name: Basic Synergy
 prerequisite: '[[DATABASE/feat/Summoner Dedication|Summoner Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

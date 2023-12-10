@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Student of the Canon|Student of the Canon]]'
 id: '1'
 name: Acolyte
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Religion|Religion]]'
 - Scribing [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

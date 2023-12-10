@@ -22,11 +22,9 @@ follower_alignment:
 id: '229'
 name: Kitumu
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Nature|Nature]]'
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
-trait: null
 type: Deity
 
 ---

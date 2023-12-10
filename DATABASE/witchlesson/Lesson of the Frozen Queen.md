@@ -2,7 +2,6 @@
 id: '11'
 name: Lesson of the Frozen Queen
 rarity: Rare
-rus_type_level: null
 source: '[[DATABASE/source/Legends|Legends]]'
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'

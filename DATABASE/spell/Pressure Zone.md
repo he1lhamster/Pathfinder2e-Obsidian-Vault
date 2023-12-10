@@ -1,29 +1,16 @@
 ﻿---
 actions: '[three-actions]'
 area: 20-foot burst
-bloodline: null
-component: null
-cost: null
-deity: null
-domain: null
 duration: 1 minute
 element: Air
-heighten: null
 heighten_level: '5'
 id: '1318'
-lesson: null
 level: '5'
-mystery: null
 name: Pressure Zone
-patron_theme: null
 range: 500 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Fortitude
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-target: null
 tradition:
 - Arcane
 - Primal
@@ -31,7 +18,6 @@ trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
-trigger: null
 type: Spell
 
 ---

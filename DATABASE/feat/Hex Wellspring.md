@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Hex Wellspring
-frequency: null
-heighten_level: null
 id: '1588'
 level: '18'
 name: Hex Wellspring
 prerequisite: '[[DATABASE/feat/Hex Focus|Hex Focus]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Witch|Witch]]'
-trigger: null
 type: Feat
 
 ---

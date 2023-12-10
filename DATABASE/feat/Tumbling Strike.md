@@ -1,25 +1,17 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Tumbling Strike
-frequency: null
-heighten_level: null
 id: '1877'
 level: '8'
 name: Tumbling Strike
 prerequisite: '[[DATABASE/feat/Acrobat Dedication|Acrobat Dedication]]'
 rarity: Common
 requirement: You are adjacent to an enemy.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Flourish|Flourish]]'
 - '[[DATABASE/trait/Move|Move]]'
-trigger: null
 type: Feat
 
 ---

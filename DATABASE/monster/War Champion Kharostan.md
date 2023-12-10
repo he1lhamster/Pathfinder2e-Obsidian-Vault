@@ -1,8 +1,6 @@
 ﻿---
 ac: '38'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
 climb_speed: '30'
 constitution: '+4'
@@ -15,12 +13,8 @@ creature_ability:
 - Reckless
 - Abandon
 - Wicked Bite
-creature_family: null
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+28'
-hardness: null
 hp: 280 ( negative healing )
 id: '2134'
 immunity:
@@ -40,9 +34,6 @@ name: War Champion Kharostan
 perception: '+29'
 rarity: Unique
 reflex: '+30'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 - '[[DATABASE/spell/True Seeing|true seeing]]'
@@ -70,7 +61,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fiend|Fiend]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'

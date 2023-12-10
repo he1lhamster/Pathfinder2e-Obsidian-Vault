@@ -1,19 +1,13 @@
 ﻿---
 ac: '19'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Swarming Snips
 creature_family: '[[DATABASE/monsterfamily/Crab|Crab]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+13'
-hardness: null
 hp: '42'
 id: '1106'
 immunity:
@@ -21,7 +15,6 @@ immunity:
 - '[[DATABASE/monsterability/Swarm Mind|swarm mind]]'
 intelligence: '-4'
 land_speed: '30'
-language: null
 level: '4'
 max_speed: '30'
 name: Hermit Crab Swarm
@@ -31,8 +24,6 @@ reflex: '+10'
 resistance:
 - piercing 5
 - slashing 5
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) 15 feet'
@@ -43,7 +34,6 @@ source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 30 feet
 - swim 15 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:

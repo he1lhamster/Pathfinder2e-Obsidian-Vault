@@ -1,52 +1,22 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
-id: '2494'
-item_category: null
-item_subcategory: null
-land_speed: null
-level: null
-max_speed: null
+id: '2478'
+item_category: Artifacts
+item_subcategory: The Deck of Destiny
+level: '20'
 name: The Empty Throne
-onset: null
-price: null
-range: null
-rarity: null
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
-school: null
-size: null
-source: '[[DATABASE/source/Stolen Fate Player''s Guide|Stolen Fate Player''s Guide]]'
-spell: null
-stage: null
-subcategory: null
-swim_speed: null
-trait: null
-trigger: null
-type: null
-usage: null
-weapon_category: null
-weapon_group: null
-weapon_type: null
+rarity: Unique
+school: Divination
+source: '[[DATABASE/source/Pathfinder 190. The Choosing|Pathfinder #190: The Choosing]]'
+subcategory: artifact
+trait:
+- '[[DATABASE/trait/Artifact|Artifact]]'
+- '[[DATABASE/trait/Divination|Divination]]'
+- '[[DATABASE/trait/Harrow Court|Harrow Court]]'
+- '[[DATABASE/trait/Invested|Invested]]'
+- '[[DATABASE/trait/Magical|Magical]]'
+- '[[DATABASE/trait/Unique|Unique]]'
+type: Item
+usage: carried
 
 ---
 # The Empty Throne<span class="item-type">Item 20</span>

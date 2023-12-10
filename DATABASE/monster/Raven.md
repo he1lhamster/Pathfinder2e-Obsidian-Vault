@@ -1,34 +1,24 @@
 ﻿---
 ac: '15'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Cunning
 creature_family: '[[DATABASE/monsterfamily/Raven|Raven]]'
 dexterity: '+3'
-element: null
 fly_speed: '40'
 fortitude: '+2'
-hardness: null
 hp: '7'
 id: '781'
-immunity: null
 intelligence: '-4'
 land_speed: '10'
-language: null
 level: '-1'
 max_speed: '40'
 name: Raven
 perception: '+5'
 rarity: Common
 reflex: '+7'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Tiny
@@ -39,19 +29,16 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 10 feet
 - fly 40 feet
-spell: null
 strength: '-3'
 strength_req: '-3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
 vision: Low-light vision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+5'
 wisdom: '+3'
 

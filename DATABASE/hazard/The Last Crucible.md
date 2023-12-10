@@ -1,8 +1,6 @@
 ﻿---
 ac: '22'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+17'
 hardness: 15 Obsidian Wall Hardness
 hazard_type: Trap
@@ -18,17 +16,12 @@ level: '6'
 name: The Last Crucible
 rarity: Common
 reflex: '+11'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Crown of the Kobold King|Crown of the Kobold King]]'
 trait:
 - '[[DATABASE/trait/Complex|Complex]]'
 - '[[DATABASE/trait/Mechanical|Mechanical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # The Last Crucible<span class="item-type">Hazard 6</span>

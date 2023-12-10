@@ -1,23 +1,14 @@
 ﻿---
 actions: '[three-actions]'
-cost: null
-element: null
 feat: Webslinger
 frequency: once per 10 minutes
-heighten_level: null
 id: '2775'
 level: '13'
 name: Webslinger
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Anadi|Anadi]]'
-trigger: null
 type: Feat
 
 ---

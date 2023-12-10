@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Stonewalker
-frequency: null
-heighten_level: null
 id: '10'
+leads_to: '[[DATABASE/feat/Stonegate|Stonegate]]'
 level: '9'
 name: Stonewalker
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Dwarf|Dwarf]]'
-trigger: null
 type: Feat
 
 ---

@@ -3,7 +3,6 @@ id: '33'
 level: '2'
 name: Sacrifices
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Exploration|Exploration]]'
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'

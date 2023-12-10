@@ -1,10 +1,7 @@
 ﻿---
 ac: '18'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Far Lob
@@ -12,14 +9,10 @@ creature_ability:
 - Infused Items
 - Natural-Born Burner
 - Quick Bomber
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+6'
 hp: '44'
 id: '1941'
-immunity: null
 intelligence: '+4'
 land_speed: '25'
 language:
@@ -39,7 +32,6 @@ rarity: Unique
 reflex: '+10'
 resistance:
 - '[[DATABASE/trait/Fire|fire]] 3'
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
@@ -57,12 +49,10 @@ source: '[[DATABASE/source/Pathfinder 178. Punks in a Powderkeg|Pathfinder #178:
   in a Powderkeg]]'
 speed:
 - 25 feet
-spell: null
 strength: '+1'
 strength_req: '1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -72,7 +62,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+8'
 wisdom: '+1'
 

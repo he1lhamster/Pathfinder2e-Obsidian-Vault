@@ -1,10 +1,7 @@
 ﻿---
 ac: '39'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Bomber
@@ -13,15 +10,10 @@ creature_ability:
 - Juggernaut
 - Outside of Time
 - Quick Bomber
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+28'
-hardness: null
 hp: '290'
 id: '2338'
-immunity: null
 intelligence: '+5'
 land_speed: '25'
 language:
@@ -35,8 +27,6 @@ rarity: Rare
 reflex: '+30'
 resistance:
 - mental 15
-rus_type_level: null
-school: null
 sense:
 - unseen sight
 size: Medium
@@ -52,21 +42,17 @@ skill:
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 speed:
 - 25 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+26'
 wisdom: '+3'
 

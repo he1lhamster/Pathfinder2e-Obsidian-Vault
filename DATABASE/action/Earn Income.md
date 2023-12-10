@@ -1,18 +1,10 @@
 ﻿---
-actions: null
-cost: null
-element: null
-frequency: null
 id: '23'
 name: Earn Income
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Downtime|Downtime]]'
-trigger: null
 type: Action
 
 ---

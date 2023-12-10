@@ -1,24 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Divine Evolution
-frequency: null
-heighten_level: null
 id: '611'
+leads_to: '[[DATABASE/feat/Greater Spiritual Evolution|Greater Spiritual Evolution]]
+  , [[DATABASE/feat/Greater Vital Evolution|Greater Vital Evolution]]'
 level: '4'
 name: Divine Evolution
 prerequisite: bloodline that grants divine spells
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Divine|Divine]]'
 - '[[DATABASE/trait/Sorcerer|Sorcerer]]'
-trigger: null
 type: Feat
 
 ---

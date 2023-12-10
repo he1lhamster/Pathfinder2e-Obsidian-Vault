@@ -1,10 +1,7 @@
 ﻿---
 ac: '34'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+7'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Captive Rake
@@ -16,13 +13,9 @@ creature_ability:
 - Twisted Desires
 creature_family: '[[DATABASE/monsterfamily/Demon|Demon]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+26'
-hardness: null
 hp: '280'
 id: '101'
-immunity: null
 intelligence: '+3'
 land_speed: '35'
 language:
@@ -36,9 +29,6 @@ name: Glabrezu
 perception: '+24'
 rarity: Common
 reflex: '+19'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - '[[DATABASE/spell/True Seeing|true seeing]]'
@@ -67,7 +57,6 @@ strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Demon|Demon]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

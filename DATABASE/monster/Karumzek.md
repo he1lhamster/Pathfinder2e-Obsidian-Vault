@@ -1,8 +1,6 @@
 ﻿---
 ac: '21'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
 climb_speed: '30'
 constitution: '+3'
@@ -12,10 +10,7 @@ creature_ability:
 - Poison Sense
 creature_family: '[[DATABASE/monsterfamily/Karumzek|Karumzek]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+12'
-hardness: null
 hp: '60'
 id: '1654'
 immunity:
@@ -33,9 +28,6 @@ name: Karumzek
 perception: '+11'
 rarity: Uncommon
 reflex: '+12'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - poison sense (precise) 30 feet
@@ -61,7 +53,6 @@ strength_req: '3'
 strongest_save:
 - Fortitude
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

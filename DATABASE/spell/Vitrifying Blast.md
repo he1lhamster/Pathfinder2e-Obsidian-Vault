@@ -1,29 +1,17 @@
 ﻿---
 actions: '[two-actions]'
 area: 15-foot cone
-bloodline: null
-component: null
-cost: null
-deity: null
-domain: null
 duration: varies
 element: Earth
 heighten: '+1'
 heighten_level: 6, 7, 8, 9, 10
 id: '1344'
-lesson: null
 level: '6'
-mystery: null
 name: Vitrifying Blast
-patron_theme: null
 range: 60 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Reflex
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-target: null
 tradition:
 - Arcane
 - Primal
@@ -31,7 +19,6 @@ trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
-trigger: null
 type: Spell
 
 ---

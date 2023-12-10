@@ -1,10 +1,8 @@
 ﻿---
 ac: '30'
 alignment: NE
-all_resistance: null
 burrow_speed: '20'
 charisma: '+0'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Extraneous Flesh
@@ -12,10 +10,7 @@ creature_ability:
 - Swarming Bites
 creature_family: '[[DATABASE/monsterfamily/Bhanyada|Bhanyada]]'
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+21'
-hardness: null
 hp: '175'
 id: '2517'
 immunity:
@@ -33,8 +28,6 @@ rarity: Uncommon
 reflex: '+22'
 resistance:
 - physical 10
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -46,12 +39,10 @@ source: '[[DATABASE/source/Pathfinder 190. The Choosing|Pathfinder #190: The Cho
 speed:
 - 25 feet
 - burrow 20 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Swarm|Swarm]]'

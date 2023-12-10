@@ -8,9 +8,7 @@ ability_boost:
 feat: '[[DATABASE/feat/Canny Acumen|Canny Acumen]]'
 id: '316'
 name: Relentless Dedication
-prerequisite: null
 rarity: Rare
-rus_type_level: null
 skill:
 - Warfare [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'

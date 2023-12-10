@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Cascade Countermeasure
-frequency: null
-heighten_level: null
 id: '2860'
 level: '6'
 name: Cascade Countermeasure
 prerequisite: '[[DATABASE/action/Arcane Cascade|Arcane Cascade]] , focus pool'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Magus|Magus]]'
-trigger: null
 type: Feat
 
 ---

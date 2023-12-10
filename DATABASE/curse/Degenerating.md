@@ -1,11 +1,8 @@
 ﻿---
-element: null
 id: '5'
 level: '5'
 name: Degenerating
 rarity: Rare
-rus_type_level: null
-saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:

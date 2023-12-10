@@ -1,10 +1,7 @@
 ﻿---
 ac: '29'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Attack of Opportunity
@@ -14,12 +11,8 @@ creature_ability:
 - Project Echoblade
 - ''
 - Raise Guard
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+21'
-hardness: null
 hp: '285'
 id: '1330'
 immunity:
@@ -44,10 +37,6 @@ name: Swordkeeper
 perception: '+20'
 rarity: Common
 reflex: '+19'
-resistance: null
-rus_type_level: null
-school: null
-sense: null
 size: Large
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +21'
@@ -55,20 +44,16 @@ skill:
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 20 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Mindless|Mindless]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+14'
 wisdom: '+2'
 

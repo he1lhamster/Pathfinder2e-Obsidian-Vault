@@ -1,10 +1,7 @@
 ﻿---
 ac: '42'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+8'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Assemble Choir
@@ -12,12 +9,9 @@ creature_ability:
 - Focus Gaze
 - Spirit-Flensing Touch
 - Unnerving Gaze
-creature_family: null
 dexterity: '+8'
-element: null
 fly_speed: '30'
 fortitude: '+27'
-hardness: null
 hp: '335'
 id: '2571'
 immunity:
@@ -39,9 +33,6 @@ name: Sonnorae
 perception: '+31'
 rarity: Unique
 reflex: '+32'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/spell/Detect Magic|detect magic]]'
@@ -82,7 +73,6 @@ strength: '+7'
 strength_req: '7'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fiend|Fiend]]'
 - '[[DATABASE/trait/Unique|Unique]]'

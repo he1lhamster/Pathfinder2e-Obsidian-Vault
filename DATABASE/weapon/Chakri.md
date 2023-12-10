@@ -1,27 +1,7 @@
 ﻿---
-bulk: L
-damage: 1d6 S
-deity: null
-favored_weapon: null
-hands: '1'
-id: '333'
-item_category: Weapons
-item_subcategory: Base Weapons
-level: '0'
+id: '270'
 name: Chakri
-price: 2 sp
-range: 40 ft.
-rarity: Uncommon
-rus_type_level: null
-source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-trait:
-- '[[DATABASE/trait/Recovery|Recovery]]'
-- '[[DATABASE/trait/Thrown|Thrown]]'
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
-type: Weapon
-weapon_category: Martial
-weapon_group: '[[DATABASE/weapongroup/Dart|Dart]]'
-weapon_type: Ranged
+source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 
 ---
 # Chakri

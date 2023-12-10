@@ -1,39 +1,25 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 1 minute
 element: Fire
-heighten: null
 heighten_level: '3'
 id: '818'
-lesson: null
 level: '3'
-mystery: null
 name: Sun's Fury
-patron_theme: null
 range: touch
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Legends|Legends]]'
 target: 1 weapon without an [[DATABASE/equipment/Unholy|unholy]] rune that isunattended
   or wielded by you or a willing ally
-tradition: null
 trait:
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Fire|Fire]]'
 - '[[DATABASE/trait/Good|Good]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Focus
 
 ---

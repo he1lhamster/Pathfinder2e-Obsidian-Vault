@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Fey Ascension
-frequency: null
-heighten_level: null
 id: '4048'
 level: '9'
 name: Fey Ascension
 prerequisite: '[[DATABASE/feat/Fey Influence|Fey Influence]]'
 rarity: Rare
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/All Ancestries|All Ancestries]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Feat
 
 ---

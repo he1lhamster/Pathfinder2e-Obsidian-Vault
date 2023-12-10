@@ -2,7 +2,6 @@
 id: '181'
 name: Free-Hand
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - Free-Hand

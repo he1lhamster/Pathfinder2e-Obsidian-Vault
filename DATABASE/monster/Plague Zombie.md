@@ -1,10 +1,7 @@
 ﻿---
 ac: '13'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Jaws
@@ -12,10 +9,7 @@ creature_ability:
 - Zombie Rot
 creature_family: '[[DATABASE/monsterfamily/Zombie|Zombie]]'
 dexterity: '-2'
-element: null
-fly_speed: null
 fortitude: '+6'
-hardness: null
 hp: 50 ( negative healing )
 id: '424'
 immunity:
@@ -27,16 +21,12 @@ immunity:
 - unconscious
 intelligence: '-5'
 land_speed: '25'
-language: null
 level: '1'
 max_speed: '25'
 name: Plague Zombie
 perception: '+3'
 rarity: Common
 reflex: '+3'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -45,12 +35,10 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 25 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Mindless|Mindless]]'
 - '[[DATABASE/trait/Undead|Undead]]'

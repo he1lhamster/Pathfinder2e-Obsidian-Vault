@@ -6,36 +6,24 @@ component:
 - Material
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Abraxas|Abraxas]]'
 - '[[DATABASE/deity/Gogunta|Gogunta]]'
 - '[[DATABASE/deity/Yog-Sothoth|Yog-Sothoth]]'
-domain: null
 duration: 1 minute
-element: null
-heighten: null
 heighten_level: '5'
 id: '23'
-lesson: null
 level: '5'
-mystery: null
 name: Black Tentacles
-patron_theme: null
 range: 120 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Arcane
 - Occult
 trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
-trigger: null
 type: Spell
 
 ---

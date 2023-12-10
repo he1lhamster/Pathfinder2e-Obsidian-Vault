@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Basic Bloodline Spell
-frequency: null
-heighten_level: null
 id: '737'
 level: '4'
 name: Basic Bloodline Spell
 prerequisite: '[[DATABASE/feat/Sorcerer Dedication|Sorcerer Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

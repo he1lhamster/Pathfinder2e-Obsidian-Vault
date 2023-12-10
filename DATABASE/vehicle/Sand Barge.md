@@ -1,8 +1,5 @@
 ﻿---
 ac: '20'
-burrow_speed: null
-climb_speed: null
-fly_speed: null
 fortitude: '+14'
 hardness: '5'
 hp: '90'
@@ -14,13 +11,8 @@ max_speed: '40'
 name: Sand Barge
 price: 750 gp
 rarity: Uncommon
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 size: Huge
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Vehicle

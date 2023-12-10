@@ -1,10 +1,7 @@
 ﻿---
 ac: '31'
-alignment: null
-all_resistance: null
 burrow_speed: '25'
 charisma: '+0'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Earth Glide
@@ -16,12 +13,9 @@ creature_ability:
 - ''
 - Troop Defenses
 - Troop Movement
-creature_family: null
 dexterity: '+0'
 element: Earth
-fly_speed: null
 fortitude: '+24'
-hardness: null
 hp: 240 (16 squares)
 id: '2622'
 immunity:
@@ -39,9 +33,6 @@ name: Avalanche Legion
 perception: '+21'
 rarity: Common
 reflex: '+20'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) 60 feet'
@@ -53,12 +44,10 @@ speed:
 - 30 feet
 - burrow 25 feet; earth glide
 - troop movement
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Elemental|Elemental]]'

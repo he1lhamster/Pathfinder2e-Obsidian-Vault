@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Empathetic Envoy
-frequency: null
-heighten_level: null
 id: '4115'
 level: '4'
 name: Empathetic Envoy
 prerequisite: '[[DATABASE/feat/Twilight Speaker Dedication|Twilight Speaker Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 189. Dreamers of the Nameless Spires|Pathfinder
   #189: Dreamers of the Nameless Spires]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

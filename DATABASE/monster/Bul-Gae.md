@@ -1,10 +1,7 @@
 ﻿---
 ac: '33'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Eclipse Aura
@@ -12,15 +9,11 @@ creature_ability:
 - Shadow Leap
 - Solar Flare
 - Thermal Mastery
-creature_family: null
 dexterity: '+4'
 element: Fire
-fly_speed: null
 fortitude: '+28'
-hardness: null
 hp: '255'
 id: '1411'
-immunity: null
 intelligence: '+5'
 land_speed: '40'
 language:
@@ -34,8 +27,6 @@ reflex: '+22'
 resistance:
 - cold 15
 - fire 15
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 60 feet'
@@ -49,12 +40,10 @@ source: '[[DATABASE/source/Pathfinder 168. King of the Mountain|Pathfinder #168:
   of the Mountain]]'
 speed:
 - 40 feet
-spell: null
 strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Cold|Cold]]'
@@ -64,7 +53,6 @@ type: Creature
 vision: Greater darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+25'
 wisdom: '+6'
 

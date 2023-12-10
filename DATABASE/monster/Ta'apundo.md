@@ -1,10 +1,7 @@
 ﻿---
 ac: '45'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Branch Whip
@@ -12,15 +9,10 @@ creature_ability:
 - Lignification
 - Wood Resistance
 - Woodland Stride
-creature_family: null
 dexterity: '+10'
-element: null
-fly_speed: null
 fortitude: '+30'
-hardness: null
 hp: '440'
 id: '1799'
-immunity: null
 intelligence: '+0'
 land_speed: '20'
 language:
@@ -34,8 +26,6 @@ rarity: Rare
 reflex: '+35'
 resistance:
 - wood 20
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - greensight
@@ -49,12 +39,10 @@ source: '[[DATABASE/source/Pathfinder 174. Shadows of the Ancients|Pathfinder #1
   Shadows of the Ancients]]'
 speed:
 - 20 feet; woodland stride
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Plant|Plant]]'

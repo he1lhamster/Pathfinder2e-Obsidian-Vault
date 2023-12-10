@@ -1,21 +1,10 @@
 ﻿---
-ac: null
-all_resistance: null
 complexity: Complex
-element: null
-fortitude: null
-hardness: null
 hazard_type: Environmental
-hp: null
 id: '107'
-immunity: null
 level: '15'
 name: Collapsing Structure (Ebeshra)
 rarity: Rare
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Monsters of Myth|Monsters of Myth]]'
 trait:
 - '[[DATABASE/trait/Complex|Complex]]'
@@ -23,8 +12,6 @@ trait:
 - '[[DATABASE/trait/Kaiju|Kaiju]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Collapsing Structure (Ebeshra)<span class="item-type">Hazard 15</span>

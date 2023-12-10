@@ -1,22 +1,15 @@
 ﻿---
 ac: '15'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Distracting Shadows
 - Sneak Attack
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+3'
 hp: '7'
 id: '2471'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -28,9 +21,6 @@ name: Skebs
 perception: '+4'
 rarity: Common
 reflex: '+7'
-resistance: null
-rus_type_level: null
-sense: null
 size: Small
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +5'
@@ -41,20 +31,16 @@ source: '[[DATABASE/source/Pathfinder 157. Devil at the Dreaming Palace|Pathfind
   #157: Devil at the Dreaming Palace]]'
 speed:
 - 25 feet
-spell: null
 strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Halfling|Halfling]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+4'
 wisdom: '+2'
 

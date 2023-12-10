@@ -1,38 +1,27 @@
 ﻿---
 actions: '[three-actions]'
 area: 15-foot radius, 80-foot tall cylinder
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: sustained up to 1 minute
 element: Air
 heighten: '+1'
 heighten_level: 8, 9, 10
 id: '1033'
-lesson: null
 level: '8'
-mystery: null
 name: Whirlwind
-patron_theme: null
 range: 500 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Reflex
 school: Evocation
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-target: null
 tradition:
 - Primal
 trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
-trigger: null
 type: Spell
 
 ---

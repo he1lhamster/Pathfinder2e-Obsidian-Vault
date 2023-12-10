@@ -1,8 +1,6 @@
 ﻿---
 ac: '13'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+8'
 hardness: 10 Nozzle Hardness
 hazard_type: Trap
@@ -16,17 +14,12 @@ level: '3'
 name: Stink-Sap Trap
 rarity: Common
 reflex: '+5'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 178. Punks in a Powderkeg|Pathfinder #178: Punks
   in a Powderkeg]]'
 trait:
 - '[[DATABASE/trait/Mechanical|Mechanical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Stink-Sap Trap<span class="item-type">Hazard 3</span>

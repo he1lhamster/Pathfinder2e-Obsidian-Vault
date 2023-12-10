@@ -1,29 +1,16 @@
 ﻿---
 actions: '[two-actions]'
 area: four unoccupied 5-foot squares, each of which is at least 20 feet apart
-bloodline: null
-component: null
-cost: null
-deity: null
-domain: null
 duration: 12 hours
 element: Wood
 heighten: '+1'
 heighten_level: 7, 8, 9, 10
 id: '1407'
-lesson: null
 level: '7'
-mystery: null
 name: Pollen Pods
-patron_theme: null
 range: 100 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-target: null
 tradition:
 - Arcane
 - Primal
@@ -32,7 +19,6 @@ trait:
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Plant|Plant]]'
 - '[[DATABASE/trait/Wood|Wood]]'
-trigger: null
 type: Spell
 
 ---

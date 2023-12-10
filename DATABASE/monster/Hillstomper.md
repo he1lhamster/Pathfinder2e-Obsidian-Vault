@@ -1,25 +1,17 @@
 ﻿---
 ac: '31'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Cold Adaptation
 - Dual Tusks
 - Grabbing Trunk
 - Trample
-creature_family: null
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+22'
-hardness: null
 hp: '200'
 id: '2264'
-immunity: null
 intelligence: '+2'
 land_speed: '45'
 language:
@@ -30,9 +22,6 @@ name: Hillstomper
 perception: '+21'
 rarity: Unique
 reflex: '+16'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -45,12 +34,10 @@ skill:
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 speed:
 - 45 feetVariant [[DATABASE/monster/Mammoth|mammoth]]
-spell: null
 strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 - '[[DATABASE/trait/Unique|Unique]]'
@@ -58,7 +45,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Reflex
-weakness: null
 will: '+21'
 wisdom: '+2'
 

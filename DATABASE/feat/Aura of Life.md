@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Aura of Life
-frequency: null
-heighten_level: null
 id: '250'
 level: '14'
 name: Aura of Life
 prerequisite: '[[DATABASE/feat/Shining Oath|Shining Oath]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Champion|Champion]]'
-trigger: null
 type: Feat
 
 ---

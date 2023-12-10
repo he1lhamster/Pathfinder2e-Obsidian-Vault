@@ -1,24 +1,17 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Invigorating Breath
 frequency: once per hour
-heighten_level: null
 id: '4110'
 level: '10'
 name: Invigorating Breath
 prerequisite: '[[DATABASE/feat/Scion of Domora Dedication|Scion of Domora Dedication]]'
 rarity: Common
 requirement: You are adjacent to your spirit guide or it is sharing your space.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 188. They Watched the Stars|Pathfinder #188:
   They Watched the Stars]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

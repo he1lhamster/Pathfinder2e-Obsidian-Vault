@@ -1,25 +1,12 @@
 ﻿---
 actions: '[one-action]'
-area: null
-bloodline: null
-component: null
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
 heighten: '+1'
 heighten_level: 5, 6, 7, 8, 9, 10
 id: '986'
-lesson: null
 level: '5'
-mystery: null
 name: Rip the Spirit
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: basicFortitude
 school: Necromancy
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
@@ -31,7 +18,6 @@ trait:
 - '[[DATABASE/trait/Death|Death]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Negative|Negative]]'
-trigger: null
 type: Spell
 
 ---

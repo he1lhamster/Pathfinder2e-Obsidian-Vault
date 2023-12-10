@@ -1,11 +1,8 @@
 ﻿---
-element: null
 id: '61'
 item_category: Relics
 name: Encompassing Darkness
-prerequisite: null
 rarity: Common
-rus_type_level: null
 school: Conjuration
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:

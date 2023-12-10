@@ -1,24 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Fascinating Performance
-frequency: null
-heighten_level: null
 id: '781'
+leads_to: '[[DATABASE/feat/Focused Fascination|Focused Fascination]]'
 level: '1'
 name: Fascinating Performance
 prerequisite: Trained in [[DATABASE/skill/Performance|Performance]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: performance
 trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

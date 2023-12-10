@@ -3,7 +3,6 @@ id: '17'
 level: '5'
 name: Merciless
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
 - '[[DATABASE/trait/Cavalry|Cavalry]]'

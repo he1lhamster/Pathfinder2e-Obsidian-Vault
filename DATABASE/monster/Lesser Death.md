@@ -1,10 +1,7 @@
 ﻿---
 ac: '39'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Aura of Misfortune
@@ -15,10 +12,8 @@ creature_ability:
 - Status Sight
 creature_family: '[[DATABASE/monsterfamily/Grim Reaper|Grim Reaper]]'
 dexterity: '+9'
-element: null
 fly_speed: '40'
 fortitude: '+30'
-hardness: null
 hp: 255 ( negative healing )
 id: '251'
 immunity:
@@ -38,9 +33,6 @@ name: Lesser Death
 perception: '+32'
 rarity: Rare
 reflex: '+33'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - '[[DATABASE/spell/See Invisibility|see invisibility]]'
@@ -67,7 +59,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Undead|Undead]]'
@@ -75,7 +66,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+32'
 wisdom: '+6'
 

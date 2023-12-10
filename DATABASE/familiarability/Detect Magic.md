@@ -1,14 +1,9 @@
 ﻿---
 ability_type: Specific Familiar - Dweomercat Cub
-actions: null
-frequency: null
 id: '48'
 name: Detect Magic
 rarity: Common
-requirement: null
-rus_type_level: null
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
-trait: null
 type: Familiar Ability
 
 ---

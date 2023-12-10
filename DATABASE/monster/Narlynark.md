@@ -1,22 +1,14 @@
 ﻿---
 ac: '22'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Wild Retreat
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+14'
-hardness: null
 hp: '75'
 id: '2177'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -32,8 +24,6 @@ reflex: '+10'
 resistance:
 - '[[DATABASE/trait/Electricity|electricity]] 5'
 - '[[DATABASE/trait/Poison|poison]] 5'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -62,7 +52,6 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Kobold|Kobold]]'
@@ -71,7 +60,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+13'
 wisdom: '+4'
 

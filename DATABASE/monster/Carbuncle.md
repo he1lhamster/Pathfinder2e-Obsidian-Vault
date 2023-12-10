@@ -1,25 +1,17 @@
 ﻿---
 ac: '16'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Carbuncle Empathy
 - Easy to Influence
 - Fatal Faker
 - Specious Suggestion
-creature_family: null
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+8'
-hardness: null
 hp: '20'
 id: '578'
-immunity: null
 intelligence: '-2'
 land_speed: '15'
 language:
@@ -30,9 +22,6 @@ name: Carbuncle
 perception: '+7'
 rarity: Rare
 reflex: '+3'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Tiny
@@ -50,7 +39,6 @@ strength: '-3'
 strength_req: '-3'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Rare|Rare]]'
@@ -58,7 +46,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+6'
 wisdom: '+3'
 

@@ -1,10 +1,6 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Ward Mind
-frequency: null
-heighten_level: null
 id: '2240'
 level: '16'
 name: Ward Mind
@@ -12,10 +8,7 @@ prerequisite: '[[DATABASE/feat/Scrollmaster Dedication|Scrollmaster Dedication]]
 rarity: Common
 requirement: You're currently affected by a [[DATABASE/trait/Mental|mental]] effect
   that yougained by failing, but not critically failing, a saving throw.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 trigger: Your turn ends.

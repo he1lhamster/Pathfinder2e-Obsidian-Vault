@@ -1,10 +1,6 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Assassinate
-frequency: null
-heighten_level: null
 id: '1894'
 level: '12'
 name: Assassinate
@@ -13,13 +9,9 @@ rarity: Common
 requirement: You have designated a mark using [[DATABASE/feat/Assassin Dedication|Mark
   for Assassination]] and are completely [[DATABASE/condition/Unnoticed|unnoticed]]
   by your mark.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

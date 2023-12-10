@@ -1,27 +1,20 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Tap Vitality
 frequency: once per hour
-heighten_level: null
 id: '3817'
 level: '6'
 name: Tap Vitality
 prerequisite: '[[DATABASE/feat/Living Vessel Dedication|Living Vessel Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Healing|Healing]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Positive|Positive]]'
-trigger: null
 type: Feat
 
 ---

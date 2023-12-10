@@ -1,10 +1,7 @@
 ﻿---
 ac: '30'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Bonds of Iron
@@ -12,15 +9,10 @@ creature_ability:
 - Coven
 - Rend
 - Rust
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+22'
-hardness: null
 hp: '155'
 id: '1550'
-immunity: null
 intelligence: '+4'
 land_speed: '40'
 language:
@@ -36,8 +28,6 @@ rarity: Unique
 reflex: '+16'
 resistance:
 - physical 10 (except bludgeoning)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -53,12 +43,10 @@ source: '[[DATABASE/source/Pathfinder 147. Tomorrow Must Burn|Pathfinder #147: T
   Must Burn]]'
 speed:
 - 40 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Hag|Hag]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -67,7 +55,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+19'
 wisdom: '+6'
 

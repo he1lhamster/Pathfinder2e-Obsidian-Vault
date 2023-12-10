@@ -1,10 +1,7 @@
 ﻿---
 ac: '46'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+10'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Attack of Opportunity
@@ -22,13 +19,9 @@ creature_ability:
 - Reincarnation
 creature_family: '[[DATABASE/monsterfamily/Wild Hunt|Wild Hunt]]'
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+33'
-hardness: null
 hp: '450'
 id: '2216'
-immunity: null
 intelligence: '+6'
 land_speed: '40'
 language:
@@ -44,9 +37,6 @@ name: Wild Hunt Monarch
 perception: '+35'
 rarity: Rare
 reflex: '+32'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 - greensight
@@ -86,7 +76,6 @@ strength: '+10'
 strength_req: '10'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Rare|Rare]]'

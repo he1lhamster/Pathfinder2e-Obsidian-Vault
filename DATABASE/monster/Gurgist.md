@@ -1,10 +1,7 @@
 ﻿---
 ac: '23'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Calculated Blow
@@ -16,13 +13,9 @@ creature_ability:
 - Tackle
 creature_family: '[[DATABASE/monsterfamily/Mortic|Mortic]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+14'
-hardness: null
 hp: 120 ( negative healing )
 id: '1235'
-immunity: null
 intelligence: '+3'
 land_speed: '25'
 language:
@@ -34,9 +27,6 @@ name: Gurgist Mauler
 perception: '+14'
 rarity: Rare
 reflex: '+12'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -50,12 +40,10 @@ skill:
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 25 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'

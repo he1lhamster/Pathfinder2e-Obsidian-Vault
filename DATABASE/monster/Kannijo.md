@@ -1,10 +1,7 @@
 ﻿---
 ac: '34'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Bitter Epiphany
@@ -18,12 +15,8 @@ creature_ability:
 - Revulsion
 - Rigor Mortis
 - Spirit Naga Venom
-creature_family: null
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+20'
-hardness: null
 hp: 180 ( fast healing 10 , negative healing , one more breath)
 id: '2548'
 immunity:
@@ -48,8 +41,6 @@ rarity: Unique
 reflex: '+25'
 resistance:
 - physical 10 (except [[DATABASE/equipment/Darkwood Weapon|darkwood]] )
-rus_type_level: null
-school: null
 sense:
 - breathsense (precise) 60 feet
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
@@ -112,7 +103,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+23'
 wisdom: '+4'
 

@@ -1,8 +1,6 @@
 ﻿---
 ac: '18'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+9'
 hardness: '1'
 hazard_type: Environmental
@@ -16,9 +14,6 @@ level: '3'
 name: Dream Pollen
 rarity: Common
 reflex: '+3'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 151. The Show Must Go On|Pathfinder #151: The
   Show Must Go On]]'
 trait:
@@ -26,8 +21,6 @@ trait:
 - '[[DATABASE/trait/Environmental|Environmental]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Dream Pollen<span class="item-type">Hazard 3</span>

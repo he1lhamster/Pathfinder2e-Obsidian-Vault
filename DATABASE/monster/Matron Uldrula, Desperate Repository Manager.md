@@ -1,10 +1,7 @@
 ﻿---
 ac: '40'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+8'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Infuse Weapon
@@ -12,12 +9,9 @@ creature_ability:
 - Soul Lock
 - Soul Shards
 - Spirit Touch
-creature_family: null
 dexterity: '+5'
-element: null
 fly_speed: '40'
 fortitude: '+31'
-hardness: null
 hp: '275'
 id: '2442'
 immunity:
@@ -39,8 +33,6 @@ reflex: '+30'
 resistance:
 - '[[DATABASE/trait/Negative|negative]] 20'
 - '[[DATABASE/trait/Poison|poison]] 20'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Lifesense|lifesense]] 120 feet'
@@ -114,7 +106,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Monitor|Monitor]]'
 - '[[DATABASE/trait/Psychopomp|Psychopomp]]'
@@ -123,7 +114,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+35'
 wisdom: '+10'
 

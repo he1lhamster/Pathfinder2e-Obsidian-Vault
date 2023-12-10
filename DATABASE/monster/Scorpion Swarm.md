@@ -1,20 +1,14 @@
 ﻿---
 ac: '21'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-4'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Scorpion Venom
 - Swarming Stings
 creature_family: '[[DATABASE/monsterfamily/Scorpion|Scorpion]]'
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+10'
-hardness: null
 hp: '55'
 id: '357'
 immunity:
@@ -22,7 +16,6 @@ immunity:
 - swarm mind
 intelligence: '-5'
 land_speed: '25'
-language: null
 level: '4'
 max_speed: '25'
 name: Scorpion Swarm
@@ -33,8 +26,6 @@ resistance:
 - bludgeoning 3
 - piercing 7
 - slashing 7
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Large
@@ -45,12 +36,10 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 25 feet
-spell: null
 strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 - '[[DATABASE/trait/Swarm|Swarm]]'

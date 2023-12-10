@@ -1,10 +1,7 @@
 ﻿---
 ac: '16'
 alignment: CG
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Water Dependent
@@ -13,12 +10,9 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Nymph|Nymph]]'
 dexterity: '+3'
 element: Water
-fly_speed: null
 fortitude: '+3'
-hardness: null
 hp: '20'
 id: '311'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -34,8 +28,6 @@ rarity: Common
 reflex: '+6'
 resistance:
 - fire 3
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 size: Medium

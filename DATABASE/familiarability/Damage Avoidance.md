@@ -1,14 +1,9 @@
 ﻿---
 ability_type: Familiar
-actions: null
-frequency: null
 id: '4'
 name: Damage Avoidance
 rarity: Common
-requirement: null
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Familiar Ability
 
 ---

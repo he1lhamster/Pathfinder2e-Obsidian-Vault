@@ -1,25 +1,18 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Controlled Bullet
 frequency: once per day
-heighten_level: null
 id: '3233'
 level: '16'
 name: Controlled Bullet
 prerequisite: '[[DATABASE/feat/Beast Gunner Dedication|Beast Gunner Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Magical|Magical]]'
-trigger: null
 type: Feat
 
 ---

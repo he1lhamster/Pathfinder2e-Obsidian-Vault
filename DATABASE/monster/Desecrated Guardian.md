@@ -1,8 +1,6 @@
 ﻿---
 ac: '42'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
 climb_speed: '40'
 constitution: '+9'
@@ -16,12 +14,8 @@ creature_ability:
 - ''
 - Swallow Whole
 - Trample
-creature_family: null
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+36'
-hardness: null
 hp: '360'
 id: '1412'
 immunity:
@@ -42,7 +36,6 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '40'
-language: null
 level: '18'
 max_speed: '40'
 name: Desecrated Guardian
@@ -51,8 +44,6 @@ rarity: Rare
 reflex: '+31'
 resistance:
 - physical 15 (except [[DATABASE/equipment/Adamantine Weapon|adamantine]] )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Lifesense|lifesense]] 60 feet'
 size: Gargantuan
@@ -64,17 +55,14 @@ source: '[[DATABASE/source/Pathfinder 168. King of the Mountain|Pathfinder #168:
 speed:
 - 40 feet
 - climb 40 feet
-spell: null
 strength: '+10'
 strength_req: '10'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
 weakness:

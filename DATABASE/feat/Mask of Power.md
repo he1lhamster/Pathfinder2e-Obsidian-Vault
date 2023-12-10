@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Mask of Power
-frequency: null
-heighten_level: null
 id: '2417'
 level: '5'
 name: Mask of Power
 prerequisite: '[[DATABASE/feat/Orc Warmask|Orc Warmask]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Orc|Orc]]'
-trigger: null
 type: Feat
 
 ---

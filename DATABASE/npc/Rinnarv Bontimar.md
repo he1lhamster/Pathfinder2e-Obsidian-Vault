@@ -1,23 +1,16 @@
 ﻿---
 ac: '45'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+10'
-climb_speed: null
 constitution: '+8'
 creature_ability:
 - Attack of Opportunity
 - Blood Magic
 - Spell Strike
-creature_family: null
 dexterity: '+7'
-element: null
-fly_speed: null
 fortitude: '+36'
 hp: '400'
 id: '1589'
-immunity: null
 intelligence: '+3'
 land_speed: '30'
 language:
@@ -30,8 +23,6 @@ name: Rinnarv Bontimar
 perception: '+32'
 rarity: Unique
 reflex: '+33'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
@@ -101,7 +92,6 @@ strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Elf|Elf]]'
 - '[[DATABASE/trait/Human|Human]]'
@@ -111,7 +101,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+30'
 wisdom: '+4'
 

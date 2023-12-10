@@ -1,8 +1,6 @@
 ﻿---
 bulk: '1'
 damage: 1d6 S
-deity: null
-favored_weapon: null
 hands: '2'
 id: '159'
 item_category: Weapons
@@ -10,9 +8,7 @@ item_subcategory: Base Weapons
 level: '0'
 name: Shauth Lash
 price: 8 gp
-range: null
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 165. Eyes of Empty Death|Pathfinder #165: Eyes
   of Empty Death]]'
 trait:

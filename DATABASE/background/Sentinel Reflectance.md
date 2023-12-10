@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/No Cause for Alarm|No Cause for Alarm]]'
 id: '315'
 name: Sentinel Reflectance
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Diplomacy|Diplomacy]]'
 - Shining Sentinels [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

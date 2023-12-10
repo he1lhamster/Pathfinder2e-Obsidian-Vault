@@ -1,10 +1,7 @@
 ﻿---
 ac: '31'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Ancestry Feats
@@ -18,14 +15,10 @@ creature_ability:
 - Skill Feats
 - Sudden Charge
 - Swipe
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+22'
 hp: '195'
 id: '2389'
-immunity: null
 intelligence: '+0'
 land_speed: '35'
 language:
@@ -37,8 +30,6 @@ name: Amiri (Level 11)
 perception: '+16'
 rarity: Unique
 reflex: '+20'
-resistance: null
-rus_type_level: null
 sense:
 - (expert)
 size: Medium
@@ -52,21 +43,17 @@ skill:
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
 speed:
 - 35 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+17'
 wisdom: '+1'
 

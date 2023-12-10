@@ -1,14 +1,9 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
-frequency: null
 id: '1235'
 name: Psychic Defense
 rarity: Common
 requirement: You're in a psychic duel and are psychically centered.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'

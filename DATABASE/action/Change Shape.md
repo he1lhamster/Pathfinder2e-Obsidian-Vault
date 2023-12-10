@@ -1,22 +1,15 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
-frequency: null
-id: '730'
+id: '700'
 name: Change Shape
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Transmutation
-source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
+source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 trait:
-- '[[DATABASE/trait/Anadi|Anadi]]'
-- '[[DATABASE/trait/Arcane|Arcane]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Polymorph|Polymorph]]'
+- '[[DATABASE/trait/Primal|Primal]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Action
 
 ---

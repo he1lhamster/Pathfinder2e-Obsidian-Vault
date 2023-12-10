@@ -1,8 +1,6 @@
 ﻿---
 ac: '20'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+13'
 hardness: 20 Painting Hardness
 hazard_type: Haunt
@@ -16,9 +14,6 @@ level: '17'
 name: Endless Elven Aging
 rarity: Common
 reflex: '+5'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 149. Against the Scarlet Triad|Pathfinder #149:
   Against the Scarlet Triad]]'
 trait:
@@ -26,8 +21,6 @@ trait:
 - '[[DATABASE/trait/Haunt|Haunt]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Endless Elven Aging<span class="item-type">Hazard 17</span>

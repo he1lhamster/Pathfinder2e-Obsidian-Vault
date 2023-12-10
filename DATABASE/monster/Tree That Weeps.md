@@ -1,10 +1,7 @@
 ﻿---
 ac: '41'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Axe Vulnerability
@@ -12,12 +9,8 @@ creature_ability:
 - Ripping Disarm
 - Weeping Aura
 - Woodland Ambush
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+17'
-hardness: null
 hp: '400'
 id: '2265'
 immunity:
@@ -37,8 +30,6 @@ reflex: '+8'
 resistance:
 - bludgeoning 20
 - piercing 20
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Lifesense|lifesense]] 30 feet'
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
@@ -49,12 +40,10 @@ skill:
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 speed:
 - 15 feet
-spell: null
 strength: '+9'
 strength_req: '9'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Plant|Plant]]'
 - '[[DATABASE/trait/Rare|Rare]]'
@@ -62,7 +51,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Reflex
-weakness: null
 will: '+9'
 wisdom: '+6'
 

@@ -1,23 +1,16 @@
 ﻿---
 ac: '27'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
 climb_speed: '10'
 constitution: '+4'
 creature_ability:
 - Mind Swap
 - Thoughtsense
-creature_family: null
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+19'
-hardness: null
 hp: '112'
 id: '1373'
-immunity: null
 intelligence: '+6'
 land_speed: '20'
 language:
@@ -36,8 +29,6 @@ resistance:
 - cold 10
 - fire 10
 - physical 10
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - thoughtsense (imprecise) 60 feet
@@ -65,7 +56,6 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Rare|Rare]]'
@@ -73,7 +63,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+20'
 wisdom: '+5'
 

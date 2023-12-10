@@ -1,23 +1,14 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Warden's Boon
-frequency: null
-heighten_level: null
 id: '518'
+leads_to: '[[DATABASE/feat/Shared Prey|Shared Prey]]'
 level: '8'
 name: Warden's Boon
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Ranger|Ranger]]'
-trigger: null
 type: Feat
 
 ---

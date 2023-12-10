@@ -1,21 +1,13 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Tut-Tut
-frequency: null
-heighten_level: null
 id: '4136'
 level: '4'
 name: Tut-Tut
 prerequisite: '[[DATABASE/feat/Duelist Dedication|Duelist Dedication]] or [[DATABASE/feat/Dandy
   Dedication|Dandy Dedication]]'
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Firebrands|Firebrands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Emotion|Emotion]]'

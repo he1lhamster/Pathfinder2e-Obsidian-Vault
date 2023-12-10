@@ -1,24 +1,17 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Basic Red Mantis Magic
-frequency: null
-heighten_level: null
 id: '896'
+leads_to: '[[DATABASE/feat/Achaekek''s Grip|Achaekek''s Grip]] , [[DATABASE/feat/Advanced
+  Red Mantis Magic|Advanced Red Mantis Magic]] , [[DATABASE/feat/Mantis Form|Mantis
+  Form]]'
 level: '4'
 name: Basic Red Mantis Magic
 prerequisite: Trained in [[DATABASE/skill/Religion|Religion]] ; [[DATABASE/feat/Red
   Mantis Assassin Dedication|Red Mantis Assassin Dedication]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/World Guide|World Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

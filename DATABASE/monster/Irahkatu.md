@@ -1,24 +1,16 @@
 ﻿---
 ac: '34'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Disfigure
 - Tail Drag
 - Voice Imitation
-creature_family: null
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+25'
-hardness: null
 hp: '235'
 id: '2238'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -30,9 +22,6 @@ name: Irahkatu
 perception: '+22'
 rarity: Unique
 reflex: '+21'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -44,7 +33,6 @@ source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 speed:
 - 25 feet
 - swim 35 feet
-spell: null
 strength: '+8'
 strength_req: '8'
 strongest_save:
@@ -58,7 +46,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+20'
 wisdom: '+5'
 

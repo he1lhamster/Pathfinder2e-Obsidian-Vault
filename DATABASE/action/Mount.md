@@ -1,19 +1,13 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
-frequency: null
 id: '96'
 name: Mount
 rarity: Common
 requirement: You are adjacent to a creature that is at least one size larger than
   you and is willing to be yourmount.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Move|Move]]'
-trigger: null
 type: Action
 
 ---

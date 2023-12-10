@@ -15,7 +15,6 @@ id: '6'
 name: Druid
 perception_proficiency: Trained
 rarity: Common
-rus_type_level: null
 skill_proficiency:
 - Trained in Nature
 - Trained in one skill determined by your druidic order
@@ -23,7 +22,6 @@ skill_proficiency:
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 tradition:
 - Primal
-trait: null
 type: Class
 
 ---

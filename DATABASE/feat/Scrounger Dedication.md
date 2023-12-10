@@ -1,25 +1,18 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Scrounger Dedication
-frequency: null
-heighten_level: null
 id: '2058'
+leads_to: '[[DATABASE/feat/Expert Disassembler|Expert Disassembler]] , [[DATABASE/feat/High-Quality
+  Scrounger|High-Quality Scrounger]] , [[DATABASE/feat/Reverse Engineering|Reverse
+  Engineering]]'
 level: '2'
 name: Scrounger Dedication
 prerequisite: Trained in [[DATABASE/skill/Crafting|Crafting]]
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

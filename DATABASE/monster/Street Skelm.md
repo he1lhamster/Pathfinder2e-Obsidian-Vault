@@ -1,10 +1,7 @@
 ﻿---
 ac: '18'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Attack of Opportunity
@@ -13,13 +10,9 @@ creature_ability:
 - Punishing Strike
 creature_family: '[[DATABASE/monsterfamily/Skelm|Skelm]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+10'
-hardness: null
 hp: '55'
 id: '1301'
-immunity: null
 intelligence: '+3'
 land_speed: '25'
 language:
@@ -31,9 +24,6 @@ name: Street Skelm
 perception: '+8'
 rarity: Common
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
 size: Medium
@@ -46,17 +36,14 @@ skill:
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 25 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Skelm|Skelm]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
 weakness:

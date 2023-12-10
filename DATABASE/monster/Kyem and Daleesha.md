@@ -1,22 +1,14 @@
 ﻿---
 ac: '24'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Fox's Cunning
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+12'
-hardness: null
 hp: '105'
 id: '2539'
-immunity: null
 intelligence: '+5'
 land_speed: '30'
 language:
@@ -32,9 +24,6 @@ name: Kyem and Daleesha
 perception: '+15'
 rarity: Rare
 reflex: '+14'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -67,7 +56,6 @@ strength: '+2'
 strength_req: '2'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Creature

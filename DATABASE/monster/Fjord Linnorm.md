@@ -1,10 +1,7 @@
 ﻿---
 ac: '40'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+7'
-climb_speed: null
 constitution: '+8'
 creature_ability:
 - Attack of Opportunity
@@ -13,10 +10,8 @@ creature_ability:
 - Fjord Linnorm Venom
 creature_family: '[[DATABASE/monsterfamily/Linnorm|Linnorm]]'
 dexterity: '+5'
-element: null
 fly_speed: '75'
 fortitude: '+30'
-hardness: null
 hp: '315'
 id: '721'
 immunity:
@@ -36,9 +31,6 @@ name: Fjord Linnorm
 perception: '+28'
 rarity: Uncommon
 reflex: '+28'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent (imprecise) 60 feet]]'

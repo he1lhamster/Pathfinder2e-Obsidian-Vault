@@ -1,8 +1,6 @@
 ﻿---
 bulk: L
 damage: 1d6 P
-deity: null
-favored_weapon: null
 hands: 1+
 id: '334'
 item_category: Weapons
@@ -12,7 +10,6 @@ name: Gakgung
 price: 6 gp
 range: 100 ft.
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 trait:
 - '[[DATABASE/trait/Deadly|Deadly d8]]'

@@ -1,20 +1,10 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Elemental Lore
-frequency: null
-heighten_level: null
 id: '2546'
 level: '1'
 name: Elemental Lore
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Ardande|Ardande]]'
 - '[[DATABASE/trait/Ifrit|Ifrit]]'
@@ -23,7 +13,6 @@ trait:
 - '[[DATABASE/trait/Sylph|Sylph]]'
 - '[[DATABASE/trait/Talos|Talos]]'
 - '[[DATABASE/trait/Undine|Undine]]'
-trigger: null
 type: Feat
 
 ---

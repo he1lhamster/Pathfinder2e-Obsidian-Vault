@@ -2,9 +2,7 @@
 id: '188'
 level: '2'
 name: Living Vessel
-prerequisite: null
 rarity: Rare
-rus_type_level: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'

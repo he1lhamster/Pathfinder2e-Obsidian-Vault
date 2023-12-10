@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Dogfang Bite
-frequency: null
-heighten_level: null
 id: '2437'
 level: '5'
 name: Dogfang Bite
 prerequisite: '[[DATABASE/heritage/Dogtooth Tengu|Dogtooth Tengu]] heritage'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Tengu|Tengu]]'
-trigger: null
 type: Feat
 
 ---

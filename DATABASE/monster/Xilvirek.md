@@ -1,10 +1,7 @@
 ﻿---
 ac: '34'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Attack of Opportunity
@@ -12,15 +9,10 @@ creature_ability:
 - Feasting Tentacles
 - Hypnotic Stench
 - Psionic Scent
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+26'
-hardness: null
 hp: '215'
 id: '534'
-immunity: null
 intelligence: '+0'
 land_speed: '40'
 language:
@@ -31,9 +23,6 @@ name: Xilvirek
 perception: '+23'
 rarity: Uncommon
 reflex: '+21'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - psionic scent (imprecise) 120 feet

@@ -1,23 +1,16 @@
 ﻿---
 ac: '20'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Stench
 - Weakening Strike
 creature_family: '[[DATABASE/monsterfamily/Xulgath|Xulgath]]'
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+9'
-hardness: null
 hp: '44'
 id: '420'
-immunity: null
 intelligence: '-1'
 land_speed: '25'
 language:
@@ -29,9 +22,6 @@ name: Xulgath Leader
 perception: '+9'
 rarity: Common
 reflex: '+6'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -42,13 +32,11 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 25 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Xulgath|Xulgath]]'
@@ -56,7 +44,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+9'
 wisdom: '+2'
 

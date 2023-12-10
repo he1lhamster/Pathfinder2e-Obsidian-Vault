@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Blessed Blood
-frequency: null
-heighten_level: null
 id: '1177'
 level: '1'
 name: Blessed Blood
 prerequisite: bloodline that grants divine spells; you follow a deity
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Sorcerer|Sorcerer]]'
-trigger: null
 type: Feat
 
 ---

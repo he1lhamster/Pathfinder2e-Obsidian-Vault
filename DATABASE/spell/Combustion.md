@@ -1,38 +1,7 @@
 ﻿---
-actions: '[two-actions]'
-area: null
-bloodline: null
-component: null
-cost: null
-deity: null
-domain: null
-duration: null
-element: Fire
-heighten: '+1'
-heighten_level: 3, 4, 5, 6, 7, 8, 9, 10
-id: '1309'
-lesson: null
-level: '3'
-mystery: null
+id: '1052'
 name: Combustion
-patron_theme: null
-range: 120 feet
-rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: Fortitude
-school: null
-source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-target: 1 creature
-tradition: null
-trait:
-- '[[DATABASE/trait/Concentrate|Concentrate]]'
-- '[[DATABASE/trait/Fire|Fire]]'
-- '[[DATABASE/trait/Focus|Focus]]'
-- '[[DATABASE/trait/Manipulate|Manipulate]]'
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
-type: Focus
+source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 
 ---
 # Combustion<span class="item-type">Focus 3</span>

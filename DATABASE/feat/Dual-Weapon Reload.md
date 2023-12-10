@@ -1,10 +1,6 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Dual-Weapon Reload
-frequency: null
-heighten_level: null
 id: '1952'
 level: '4'
 name: Dual-Weapon Reload
@@ -13,13 +9,9 @@ prerequisite: '[[DATABASE/feat/Dual-Weapon Warrior Dedication|Dual-Weapon Warrio
 rarity: Common
 requirement: You are wielding two one-handed weapons, each in a different hand, one
   of which is a ranged weapon.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

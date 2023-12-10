@@ -1,21 +1,15 @@
 ﻿---
 ac: '31'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Absorb Necromancy
 - Engulf
 - Unstable Magic
-creature_family: null
 dexterity: '+5'
-element: null
 fly_speed: '40'
 fortitude: '+24'
-hardness: null
 hp: '190'
 id: '2513'
 immunity:
@@ -35,16 +29,12 @@ immunity:
 - '[[DATABASE/condition/Sickened|sickened]]'
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
-land_speed: null
-language: null
 level: '11'
 max_speed: '40'
 name: Protosoul
 perception: '+19'
 rarity: Unique
 reflex: '+22'
-resistance: null
-rus_type_level: null
 school: Necromancy
 sense:
 - '[[DATABASE/monsterability/Lifesense|lifesense]]'
@@ -64,17 +54,14 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Divine|Divine]]'
 - '[[DATABASE/trait/Mindless|Mindless]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+17'
 wisdom: '+0'
 

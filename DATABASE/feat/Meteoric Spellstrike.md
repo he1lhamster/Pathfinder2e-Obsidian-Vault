@@ -1,10 +1,6 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Meteoric Spellstrike
-frequency: null
-heighten_level: null
 id: '2872'
 level: '10'
 name: Meteoric Spellstrike
@@ -13,15 +9,12 @@ prerequisite: '[[DATABASE/class_/Magus|Spellstrike]] , [[DATABASE/magushybridstu
 rarity: Common
 requirement: You're wielding a ranged or [[DATABASE/trait/Thrown|thrown]] weapon,
   or have aranged [[DATABASE/trait/Unarmed|unarmed]] attack.
-rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Arcane|Arcane]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Magus|Magus]]'
-trigger: null
 type: Feat
 
 ---

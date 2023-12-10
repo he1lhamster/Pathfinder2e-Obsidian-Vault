@@ -1,24 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Warren Friend
-frequency: null
-heighten_level: null
 id: '2425'
 level: '1'
 name: Warren Friend
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Downtime|Downtime]]'
 - '[[DATABASE/trait/Ratfolk|Ratfolk]]'
-trigger: null
 type: Feat
 
 ---

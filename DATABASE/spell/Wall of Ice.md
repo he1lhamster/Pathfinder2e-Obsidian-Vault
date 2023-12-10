@@ -1,14 +1,9 @@
 ﻿---
 actions: '[three-actions]'
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 1 minute
 element: Water
 heighten: '+2'
@@ -16,17 +11,11 @@ heighten_level: 5, 7, 9
 id: '364'
 lesson: '[[DATABASE/witchlesson/Lesson of the Frozen Queen|Lesson of the Frozen Queen]]'
 level: '5'
-mystery: null
 name: Wall of Ice
-patron_theme: null
 range: 120 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Arcane
 - Primal
@@ -34,7 +23,6 @@ trait:
 - '[[DATABASE/trait/Cold|Cold]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Water|Water]]'
-trigger: null
 type: Spell
 
 ---

@@ -3,9 +3,7 @@ creature_family: Knights of Lastwall
 id: '201'
 name: Knights of Lastwall
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-trait: null
 type: Creature Family
 
 ---

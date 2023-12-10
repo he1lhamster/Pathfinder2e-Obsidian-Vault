@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Stonebound Magic
-frequency: null
-heighten_level: null
 id: '4381'
 level: '6'
 name: Stonebound Magic
 prerequisite: '[[DATABASE/feat/Stonebound Dedication|Stonebound Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 195. Heavy is the Crown|Pathfinder #195: Heavy
   is the Crown]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

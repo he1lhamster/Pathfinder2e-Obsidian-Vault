@@ -2,7 +2,6 @@
 id: '48'
 name: Grippli
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 146. Cult of Cinders|Pathfinder #146: Cult of
   Cinders]]'
 trait:

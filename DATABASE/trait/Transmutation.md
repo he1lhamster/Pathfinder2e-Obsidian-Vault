@@ -2,7 +2,6 @@
 id: '157'
 name: Transmutation
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - Transmutation

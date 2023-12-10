@@ -1,8 +1,6 @@
 ﻿---
 bulk: L
 damage: 1d4 modular
-deity: null
-favored_weapon: null
 hands: '1'
 id: '253'
 item_category: Weapons
@@ -10,9 +8,7 @@ item_subcategory: Base Weapons
 level: '0'
 name: Bladed Gauntlet
 price: 5 gp
-range: null
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
 trait:
 - '[[DATABASE/trait/Agile|Agile]]'

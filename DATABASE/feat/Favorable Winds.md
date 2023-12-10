@@ -1,26 +1,18 @@
 ﻿---
 actions: '[one-action]'
-cost: null
 element: Air
 feat: Favorable Winds
-frequency: null
-heighten_level: null
 id: '2336'
 level: '5'
 name: Favorable Winds
 prerequisite: '[[DATABASE/feat/Virga May|Virga May]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Changeling|Changeling]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Occult|Occult]]'
-trigger: null
 type: Feat
 
 ---

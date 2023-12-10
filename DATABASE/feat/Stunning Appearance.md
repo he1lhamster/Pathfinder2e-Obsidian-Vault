@@ -1,25 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Stunning Appearance
-frequency: null
-heighten_level: null
 id: '2093'
 level: '16'
 name: Stunning Appearance
 prerequisite: '[[DATABASE/feat/Startling Appearance (Vigilante)|Startling Appearance
   (Vigilante)]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Vigilante|Vigilante]]'
-trigger: null
 type: Feat
 
 ---

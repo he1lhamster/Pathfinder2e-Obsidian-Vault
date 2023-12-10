@@ -1,24 +1,15 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Rain-Scribe Mobility
-frequency: null
-heighten_level: null
 id: '1112'
 level: '10'
 name: Rain-Scribe Mobility
 prerequisite: '[[DATABASE/feat/Magaambyan Attendant Dedication|Magaambyan Attendant
   Dedication]] ; Rain-Scribes affiliation'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

@@ -2,9 +2,6 @@
 id: '56'
 name: Redpitch Alchemy
 rarity: Common
-rus_type_level: null
-source: null
-trait: null
 type: Source
 
 ---

@@ -3,7 +3,6 @@ id: '45'
 level: '-2'
 name: Goblin Backlash
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Politics|Politics]]'
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'

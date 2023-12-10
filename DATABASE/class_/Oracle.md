@@ -14,7 +14,6 @@ id: '14'
 name: Oracle
 perception_proficiency: Trained
 rarity: Common
-rus_type_level: null
 skill_proficiency:
 - Trained in Religion
 - Trained in one or more skills determined by your mystery
@@ -22,7 +21,6 @@ skill_proficiency:
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 tradition:
 - Divine
-trait: null
 type: Class
 
 ---

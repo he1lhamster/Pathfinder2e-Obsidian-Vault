@@ -1,25 +1,17 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Bespell Weapon
 frequency: once per turn
-heighten_level: null
 id: '610'
 level: '4'
 name: Bespell Weapon
-prerequisite: null
 rarity: Common
 requirement: Your most recent action was to cast a non-cantrip spell.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Oracle|Oracle]]'
 - '[[DATABASE/trait/Sorcerer|Sorcerer]]'
 - '[[DATABASE/trait/Wizard|Wizard]]'
-trigger: null
 type: Feat
 
 ---

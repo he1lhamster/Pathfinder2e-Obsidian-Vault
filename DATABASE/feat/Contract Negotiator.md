@@ -1,24 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Contract Negotiator
-frequency: null
-heighten_level: null
 id: '4164'
 level: '1'
 name: Contract Negotiator
 prerequisite: Trained in [[DATABASE/skill/Lore|Legal Lore]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Highhelm|Highhelm]]'
 subcategory: lore
 trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

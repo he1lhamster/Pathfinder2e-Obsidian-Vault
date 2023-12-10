@@ -1,25 +1,17 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Seeker Arrow
-frequency: null
-heighten_level: null
 id: '1966'
 level: '14'
 name: Seeker Arrow
 prerequisite: '[[DATABASE/feat/Eldritch Archer Dedication|Eldritch Archer Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Divination
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Divination|Divination]]'
 - '[[DATABASE/trait/Magical|Magical]]'
-trigger: null
 type: Feat
 
 ---

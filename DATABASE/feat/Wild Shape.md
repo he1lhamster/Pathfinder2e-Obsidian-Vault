@@ -1,23 +1,20 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Wild Shape
-frequency: null
-heighten_level: null
 id: '316'
+leads_to: '[[DATABASE/feat/Bizarre Transformation|Bizarre Transformation]] , [[DATABASE/feat/Elemental
+  Shape|Elemental Shape]] , [[DATABASE/feat/Ferocious Shape|Ferocious Shape]] , [[DATABASE/feat/Form
+  Control|Form Control]] , [[DATABASE/feat/Insect Shape|Insect Shape]] , [[DATABASE/feat/Monstrosity
+  Shape|Monstrosity Shape]] , [[DATABASE/feat/Plant Shape|Plant Shape]] , [[DATABASE/feat/Reactive
+  Transformation|Reactive Transformation]] , [[DATABASE/feat/Soaring Shape|Soaring
+  Shape]] , [[DATABASE/feat/Thousand Faces|Thousand Faces]] , [[DATABASE/feat/True
+  Shapeshifter|True Shapeshifter]]'
 level: '1'
 name: Wild Shape
 prerequisite: '[[DATABASE/druidicorder/Wild|wild order]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Druid|Druid]]'
-trigger: null
 type: Feat
 
 ---

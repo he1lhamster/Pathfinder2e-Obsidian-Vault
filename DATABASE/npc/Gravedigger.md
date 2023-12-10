@@ -1,21 +1,15 @@
 ﻿---
 ac: '15'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Light in the Dark
 creature_family: '[[DATABASE/monsterfamily/Laborers|Laborers]]'
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+8'
 hp: '22'
 id: '916'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -28,8 +22,6 @@ rarity: Common
 reflex: '+4'
 resistance:
 - negative 2
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +7'
@@ -39,20 +31,16 @@ skill:
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 speed:
 - 25 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+7'
 wisdom: '+2'
 

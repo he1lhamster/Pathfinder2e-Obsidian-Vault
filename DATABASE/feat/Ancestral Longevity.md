@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Ancestral Longevity
-frequency: null
-heighten_level: null
 id: '12'
+leads_to: '[[DATABASE/feat/Expert Longevity|Expert Longevity]]'
 level: '1'
 name: Ancestral Longevity
 prerequisite: at least 100 years old
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Elf|Elf]]'
-trigger: null
 type: Feat
 
 ---

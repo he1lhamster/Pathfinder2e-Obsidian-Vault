@@ -1,20 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Fading
 frequency: once per Crimson Shroud
-heighten_level: null
 id: '2163'
 level: '10'
 name: Fading
 prerequisite: '[[DATABASE/feat/Crimson Shroud|Crimson Shroud]]'
 rarity: Rare
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Legends|Legends]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Rare|Rare]]'

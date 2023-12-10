@@ -1,25 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Sacral Lord
-frequency: null
-heighten_level: null
 id: '3837'
+leads_to: '[[DATABASE/feat/Sacral Monarch|Sacral Monarch]]'
 level: '4'
 name: Sacral Lord
 prerequisite: Trained in [[DATABASE/skill/Occultism|Occultism]] or Trained in [[DATABASE/skill/Religion|Religion]]
 rarity: Rare
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Champion|Champion]]'
 - '[[DATABASE/trait/Oracle|Oracle]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Feat
 
 ---

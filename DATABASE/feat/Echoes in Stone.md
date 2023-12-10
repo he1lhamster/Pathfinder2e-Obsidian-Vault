@@ -1,24 +1,15 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Echoes in Stone
-frequency: null
-heighten_level: null
 id: '1402'
 level: '9'
 name: Echoes in Stone
-prerequisite: null
 rarity: Common
 requirement: You are standing on a stone or earthen surface.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Dwarf|Dwarf]]'
-trigger: null
 type: Feat
 
 ---

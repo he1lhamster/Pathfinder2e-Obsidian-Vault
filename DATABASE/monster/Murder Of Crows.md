@@ -1,20 +1,14 @@
 ﻿---
 ac: '27'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Enraged Cunning
 - Swarming Beaks
-creature_family: null
 dexterity: '+6'
-element: null
 fly_speed: '40'
 fortitude: '+7'
-hardness: null
 hp: '150'
 id: '2300'
 immunity:
@@ -22,7 +16,6 @@ immunity:
 - swarm mind
 intelligence: '-4'
 land_speed: '10'
-language: null
 level: '9'
 max_speed: '40'
 name: Murder Of Crows
@@ -33,8 +26,6 @@ resistance:
 - bludgeoning 5
 - piercing 10
 - slashing 10
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Large
@@ -45,12 +36,10 @@ source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 speed:
 - 10 feet
 - fly 40 feet
-spell: null
 strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 - '[[DATABASE/trait/Rare|Rare]]'

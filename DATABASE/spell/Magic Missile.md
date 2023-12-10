@@ -1,31 +1,20 @@
 ﻿---
 actions: '[one-action]'
-area: null
 bloodline: '[[DATABASE/sorcererbloodline/Imperial|Imperial]]'
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Gravelady''s Guard|Gravelady''s Guard]]'
 - '[[DATABASE/deity/Lorthact|Lorthact]]'
 - '[[DATABASE/deity/Nethys|Nethys]]'
-domain: null
-duration: null
-element: null
 heighten: '+2'
 heighten_level: 1, 3, 5, 7, 9
 id: '180'
-lesson: null
 level: '1'
-mystery: null
 name: Magic Missile
-patron_theme: null
 range: 120 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: 1 creature
@@ -35,7 +24,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Force|Force]]'
-trigger: null
 type: Spell
 
 ---

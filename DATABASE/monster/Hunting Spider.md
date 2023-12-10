@@ -1,8 +1,6 @@
 ﻿---
 ac: '17'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-4'
 climb_speed: '25'
 constitution: '+1'
@@ -15,25 +13,17 @@ creature_ability:
 - Web Trap
 creature_family: '[[DATABASE/monsterfamily/Spider|Spider]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+6'
-hardness: null
 hp: '16'
 id: '386'
-immunity: null
 intelligence: '-5'
 land_speed: '25'
-language: null
 level: '1'
 max_speed: '25'
 name: Hunting Spider
 perception: '+7'
 rarity: Common
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - web sense
@@ -46,19 +36,16 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 25 feet
 - climb 25 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+5'
 wisdom: '+2'
 

@@ -1,19 +1,11 @@
 ﻿---
-ac: null
 bulk: '14'
-fortitude: null
-hardness: null
-hp: null
 id: '11'
 item_category: Siege Weapons
-land_speed: null
 level: '7'
-max_speed: null
 name: Blasting Ram
 price: 360 gp
 rarity: Uncommon
-reflex: null
-rus_type_level: null
 size: Large
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:

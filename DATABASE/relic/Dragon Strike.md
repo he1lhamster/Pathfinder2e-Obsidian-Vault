@@ -1,11 +1,8 @@
 ﻿---
-element: null
 id: '75'
 item_category: Relics
 name: Dragon Strike
-prerequisite: null
 rarity: Common
-rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 trait:

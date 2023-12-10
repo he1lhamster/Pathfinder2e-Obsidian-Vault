@@ -1,20 +1,13 @@
 ﻿---
 ac: '22'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Change of Luck
 - Roll the Bones
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+9'
-hardness: null
 hp: 50 ( negative healing )
 id: '1843'
 immunity:
@@ -38,8 +31,6 @@ resistance:
 - '[[DATABASE/trait/Cold|cold]] 5'
 - piercing 5
 - slashing 5
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -63,7 +54,6 @@ strength_req: '2'
 strongest_save:
 - Reflex
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 - '[[DATABASE/trait/Undead|Undead]]'
@@ -71,7 +61,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+14'
 wisdom: '+2'
 

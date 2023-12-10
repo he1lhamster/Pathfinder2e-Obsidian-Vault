@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Living Rune
-frequency: null
-heighten_level: null
 id: '914'
 level: '6'
 name: Living Rune
 prerequisite: '[[DATABASE/feat/Runescarred Dedication|Runescarred Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/World Guide|World Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

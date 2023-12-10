@@ -1,15 +1,10 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
-frequency: null
 id: '913'
 name: Grim Swagger
 rarity: Common
 requirement: You have a one-handed firearm or one-handed crossbow visibly worn or
   wielded.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:
 - '[[DATABASE/trait/Auditory|Auditory]]'
@@ -18,7 +13,6 @@ trait:
 - '[[DATABASE/trait/Gunslinger|Gunslinger]]'
 - '[[DATABASE/trait/Linguistic|Linguistic]]'
 - '[[DATABASE/trait/Mental|Mental]]'
-trigger: null
 type: Action
 
 ---

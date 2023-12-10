@@ -8,9 +8,7 @@ ability_boost:
 feat: '[[DATABASE/feat/Oddity Identification|Oddity Identification]]'
 id: '394'
 name: Folklore Enthusiast
-prerequisite: null
 rarity: Rare
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Religion|Religion]]'
 - Art [[DATABASE/skill/Lore|Lore]]

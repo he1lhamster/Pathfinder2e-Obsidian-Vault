@@ -4,8 +4,6 @@ id: '8'
 level: '6'
 name: Supernatural Storm
 rarity: Common
-requirement: null
-rus_type_level: null
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
 trait:
 - '[[DATABASE/trait/Primal|Primal]]'

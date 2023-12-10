@@ -1,21 +1,15 @@
 ﻿---
 ac: '19'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Blazing Howl
 - Intense Heat
 - Water Vulnerability
-creature_family: null
 dexterity: '+3'
 element: Fire
-fly_speed: null
 fortitude: '+10'
-hardness: null
 hp: 65 ( negative healing )
 id: '1846'
 immunity:
@@ -36,9 +30,6 @@ name: Combusted
 perception: '+6'
 rarity: Common
 reflex: '+12'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -48,12 +39,10 @@ skill:
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 speed:
 - 25 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fire|Fire]]'
 - '[[DATABASE/trait/Undead|Undead]]'

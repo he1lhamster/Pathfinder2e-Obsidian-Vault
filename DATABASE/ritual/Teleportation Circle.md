@@ -1,8 +1,6 @@
 ﻿---
-area: null
 cost: rare incense, precious metals, and purified chalk worth 500 gp
 duration: 1 day
-element: null
 heighten: 9th, 10th
 heighten_level: 7, 9, 10
 id: '38'
@@ -12,13 +10,10 @@ primary_check: '[[DATABASE/skill/Arcana|Arcana]] or [[DATABASE/skill/Occultism|O
   (master)'
 range: 20 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Conjuration
 secondary_casters: '2'
 secondary_check: '[[DATABASE/skill/Crafting|Crafting]] , [[DATABASE/skill/Survival|Survival]]'
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-target: null
 trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Teleportation|Teleportation]]'

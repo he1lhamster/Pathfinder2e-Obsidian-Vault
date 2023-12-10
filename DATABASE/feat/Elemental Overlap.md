@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Elemental Overlap
-frequency: null
-heighten_level: null
 id: '4194'
 level: '8'
 name: Elemental Overlap
 prerequisite: exactly one kinetic element
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Kineticist|Kineticist]]'
-trigger: null
 type: Feat
 
 ---

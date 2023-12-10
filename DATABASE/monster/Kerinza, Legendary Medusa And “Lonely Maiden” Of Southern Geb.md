@@ -1,10 +1,7 @@
 ﻿---
 ac: '32'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Biting Snakes
@@ -12,15 +9,10 @@ creature_ability:
 - Petrifying Gaze
 - Quick Responses
 - Serpent Venom
-creature_family: null
 dexterity: '+7'
-element: null
-fly_speed: null
 fortitude: '+18'
-hardness: null
 hp: '235'
 id: '2083'
-immunity: null
 intelligence: '+2'
 land_speed: '30'
 language:
@@ -33,9 +25,6 @@ name: Kerinza
 perception: '+23'
 rarity: Unique
 reflex: '+23'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -69,7 +58,6 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
@@ -77,7 +65,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+21'
 wisdom: '+5'
 

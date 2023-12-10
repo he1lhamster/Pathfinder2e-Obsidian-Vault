@@ -1,25 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: It's Alive!
-frequency: null
-heighten_level: null
 id: '3648'
 level: '6'
 name: It's Alive!
 prerequisite: '[[DATABASE/feat/Clockwork Reanimator Dedication|Clockwork Reanimator
   Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 180. The Smoking Gun|Pathfinder #180: The Smoking
   Gun]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

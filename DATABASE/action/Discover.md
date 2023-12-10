@@ -1,19 +1,11 @@
 ﻿---
-actions: null
-cost: null
-element: null
-frequency: null
 id: '481'
 name: Discover
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Secret|Secret]]'
-trigger: null
 type: Action
 
 ---

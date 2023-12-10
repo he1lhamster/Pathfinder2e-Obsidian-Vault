@@ -1,10 +1,8 @@
 ﻿---
 ac: '24'
 alignment: N
-all_resistance: null
 burrow_speed: '50'
 charisma: '+1'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Blinding Sand
@@ -13,9 +11,7 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Elemental, Earth|Elemental, Earth]]'
 dexterity: '+2'
 element: Earth
-fly_speed: null
 fortitude: '+16'
-hardness: null
 hp: '94'
 id: '653'
 immunity:
@@ -33,9 +29,6 @@ name: Sand Sentry
 perception: '+14'
 rarity: Common
 reflex: '+12'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Tremorsense|tremorsense (imprecise) 60 feet]]'
@@ -47,12 +40,10 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 25 feet
 - burrow 50 feet; earth glide
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Elemental|Elemental]]'
@@ -60,7 +51,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+14'
 wisdom: '+2'
 

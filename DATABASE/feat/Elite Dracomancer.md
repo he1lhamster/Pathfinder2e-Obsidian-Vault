@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Elite Dracomancer
-frequency: null
-heighten_level: null
 id: '1282'
 level: '13'
 name: Elite Dracomancer
 prerequisite: '[[DATABASE/feat/Dracomancer|Dracomancer]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Kobold|Kobold]]'
-trigger: null
 type: Feat
 
 ---

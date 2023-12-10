@@ -1,25 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Ambush Tactics
-frequency: null
-heighten_level: null
 id: '3905'
 level: '4'
 name: Ambush Tactics
 prerequisite: trained in [[DATABASE/skill/Lore|Lore]] about a specific terrain
 rarity: Rare
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
 subcategory: lore
 trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

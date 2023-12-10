@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Manifold Modifications
-frequency: null
-heighten_level: null
 id: '3066'
 level: '8'
 name: Manifold Modifications
 prerequisite: '[[DATABASE/class_/Inventor|initial modification]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Inventor|Inventor]]'
 - '[[DATABASE/trait/Modification|Modification]]'
-trigger: null
 type: Feat
 
 ---

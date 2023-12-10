@@ -1,7 +1,6 @@
 ﻿---
 ac: '19'
 alignment: N
-all_resistance: null
 burrow_speed: '5'
 charisma: '-3'
 climb_speed: '20'
@@ -11,17 +10,13 @@ creature_ability:
 - Radiation Aura
 creature_family: '[[DATABASE/monsterfamily/Khefak|Khefak]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+12'
-hardness: null
 hp: '42'
 id: '1677'
 immunity:
 - radiation
 intelligence: '-5'
 land_speed: '20'
-language: null
 level: '3'
 max_speed: '20'
 name: Thasteron Khefak
@@ -30,8 +25,6 @@ rarity: Uncommon
 reflex: '+9'
 resistance:
 - 5 [[DATABASE/trait/Poison|poison]]
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) 60 feet'
@@ -46,12 +39,10 @@ speed:
 - 20 feet
 - burrow 5 feet
 - climb 20 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
@@ -59,7 +50,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+7'
 wisdom: '+2'
 

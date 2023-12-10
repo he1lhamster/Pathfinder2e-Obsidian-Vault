@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Wind God's Fan
-frequency: null
-heighten_level: null
 id: '2440'
+leads_to: '[[DATABASE/feat/Thunder God''s Fan|Thunder God''s Fan]]'
 level: '9'
 name: Wind God's Fan
 prerequisite: '[[DATABASE/feat/Tengu Feather Fan|Tengu Feather Fan]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Tengu|Tengu]]'
-trigger: null
 type: Feat
 
 ---

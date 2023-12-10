@@ -1,31 +1,17 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 10 minutes
-element: null
 heighten: 2nd
 heighten_level: 1, 2
 id: '356'
-lesson: null
 level: '1'
-mystery: null
 name: Ventriloquism
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Illusion
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Arcane
 - Divine
@@ -35,7 +21,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Auditory|Auditory]]'
 - '[[DATABASE/trait/Illusion|Illusion]]'
-trigger: null
 type: Spell
 
 ---

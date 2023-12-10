@@ -1,8 +1,6 @@
 ﻿---
 ac: '20'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
 climb_speed: '20'
 constitution: '+2'
@@ -14,9 +12,7 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Elemental, Water|Elemental, Water]]'
 dexterity: '+4'
 element: Water
-fly_speed: null
 fortitude: '+10'
-hardness: null
 hp: '58'
 id: '664'
 immunity:
@@ -34,9 +30,6 @@ name: Mist Stalker
 perception: '+13'
 rarity: Common
 reflex: '+12'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - mist vision
@@ -49,7 +42,6 @@ speed:
 - 20 feet
 - climb 20 feet
 - swim 30 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
@@ -63,7 +55,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+11'
 wisdom: '+5'
 

@@ -1,20 +1,12 @@
 ﻿---
 ac: '16'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+2'
-creature_ability: null
-creature_family: null
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+8'
 hp: '30'
 id: '2740'
-immunity: null
 intelligence: '+0'
 land_speed: '20'
 language:
@@ -26,9 +18,6 @@ name: Vanda
 perception: '+8'
 rarity: Unique
 reflex: '+4'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +4'
@@ -39,21 +28,17 @@ skill:
 source: '[[DATABASE/source/Rusthenge|Rusthenge]]'
 speed:
 - 20 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+10'
 wisdom: '+4'
 

@@ -3,9 +3,7 @@ element: Water
 id: '71'
 item_category: Relics
 name: Flowing Footsteps
-prerequisite: null
 rarity: Common
-rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:

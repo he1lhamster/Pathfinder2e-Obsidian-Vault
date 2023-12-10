@@ -2,9 +2,6 @@
 id: '23'
 name: Pathfinder 152. Legacy of the Lost God
 rarity: Common
-rus_type_level: null
-source: null
-trait: null
 type: Source
 
 ---

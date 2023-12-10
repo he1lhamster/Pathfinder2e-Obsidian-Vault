@@ -1,25 +1,17 @@
 ﻿---
 ac: '21'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Canine Vulnerability
 - Change Shape
 - Null Spirit
 - Persuasive Rebuttal
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+8'
-hardness: null
 hp: '40'
 id: '1216'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -33,8 +25,6 @@ rarity: Common
 reflex: '+13'
 resistance:
 - physical 5
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -68,7 +58,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+12'
 wisdom: '+4'
 

@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Reinforced Chassis
-frequency: null
-heighten_level: null
 id: '3095'
 level: '1'
 name: Reinforced Chassis
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Automaton|Automaton]]'
-trigger: null
 type: Feat
 
 ---

@@ -18,7 +18,6 @@ language:
 max_speed: '25'
 name: Leshy
 rarity: Uncommon
-rus_type_level: null
 size: Small
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 speed:

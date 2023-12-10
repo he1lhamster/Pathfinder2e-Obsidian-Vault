@@ -1,23 +1,15 @@
 ﻿---
 ac: '21'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Grant Desire
 - Wild Empathy
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+11'
-hardness: null
 hp: '78'
 id: '2230'
-immunity: null
 intelligence: '+0'
 land_speed: '20'
 language:
@@ -30,9 +22,6 @@ name: Melianse
 perception: '+11'
 rarity: Unique
 reflex: '+13'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Small

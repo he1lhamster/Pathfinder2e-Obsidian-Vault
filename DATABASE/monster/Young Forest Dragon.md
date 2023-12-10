@@ -1,10 +1,7 @@
 ﻿---
 ac: '30'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Breath Weapon
@@ -18,10 +15,8 @@ creature_ability:
 - Woodland Stride
 creature_family: '[[DATABASE/monsterfamily/Dragon, Forest|Dragon, Forest]]'
 dexterity: '+2'
-element: null
 fly_speed: '100'
 fortitude: '+21'
-hardness: null
 hp: '195'
 id: '1122'
 immunity:
@@ -40,9 +35,6 @@ name: Young Forest Dragon
 perception: '+18'
 rarity: Uncommon
 reflex: '+16'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 60 feet'
@@ -68,7 +60,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dragon|Dragon]]'
 - '[[DATABASE/trait/Plant|Plant]]'

@@ -1,10 +1,7 @@
 ﻿---
 ac: '16'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Feral Leap
@@ -12,10 +9,7 @@ creature_ability:
 - Stench
 creature_family: '[[DATABASE/monsterfamily/Risen Pet|Risen Pet]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+4'
-hardness: null
 hp: 6 ( negative healing )
 id: '1895'
 immunity:
@@ -26,16 +20,12 @@ immunity:
 - '[[DATABASE/spell/Sleep|sleep]]'
 intelligence: '-4'
 land_speed: '40'
-language: null
 level: '-1'
 max_speed: '40'
 name: Predatory Rabbit
 perception: '+5'
 rarity: Common
 reflex: '+8'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - sense companion
@@ -47,19 +37,16 @@ skill:
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 speed:
 - 40 feet
-spell: null
 strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Undead|Undead]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+3'
 wisdom: '+1'
 

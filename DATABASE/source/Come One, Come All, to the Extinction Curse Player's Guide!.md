@@ -2,9 +2,6 @@
 id: '83'
 name: Come One, Come All, to the Extinction Curse Player's Guide!
 rarity: Common
-rus_type_level: null
-source: null
-trait: null
 type: Source
 
 ---

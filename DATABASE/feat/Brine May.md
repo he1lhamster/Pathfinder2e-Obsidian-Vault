@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Brine May
-frequency: null
-heighten_level: null
 id: '1323'
+leads_to: '[[DATABASE/feat/Invoke the Elements|Invoke the Elements]]'
 level: '1'
 name: Brine May
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Changeling|Changeling]]'
 - '[[DATABASE/trait/Lineage|Lineage]]'
-trigger: null
 type: Feat
 
 ---

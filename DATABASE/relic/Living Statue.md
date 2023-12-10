@@ -3,9 +3,7 @@ element: Earth
 id: '30'
 item_category: Relics
 name: Living Statue
-prerequisite: null
 rarity: Common
-rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:

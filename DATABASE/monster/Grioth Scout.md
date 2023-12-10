@@ -1,10 +1,7 @@
 ﻿---
 ac: '17'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Echolocation
@@ -14,10 +11,8 @@ creature_ability:
 - Shock Mind
 creature_family: '[[DATABASE/monsterfamily/Grioth|Grioth]]'
 dexterity: '+4'
-element: null
 fly_speed: '30'
 fortitude: '+5'
-hardness: null
 hp: '16'
 id: '1180'
 immunity:
@@ -34,9 +29,6 @@ name: Grioth Scout
 perception: '+7'
 rarity: Uncommon
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 - echolocation (precise) 20feet
@@ -59,7 +51,6 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Grioth|Grioth]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'

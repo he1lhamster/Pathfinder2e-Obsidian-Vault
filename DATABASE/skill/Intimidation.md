@@ -6,11 +6,9 @@ ability_boost:
 id: '7'
 name: Intimidation
 rarity: Common
-rus_type_level: null
 skill:
 - Intimidation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Skill
 
 ---

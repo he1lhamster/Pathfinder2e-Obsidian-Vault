@@ -1,26 +1,12 @@
 ﻿---
 actions: '[one-action]'
-area: null
-bloodline: null
-component: null
-cost: null
-deity: null
-domain: null
 duration: 1 round
-element: null
-heighten: null
 heighten_level: '5'
 id: '871'
-lesson: null
 level: '5'
-mystery: null
 name: Blessing of Defiance
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 target: varies
@@ -29,7 +15,6 @@ tradition:
 - Primal
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
-trigger: null
 type: Spell
 
 ---

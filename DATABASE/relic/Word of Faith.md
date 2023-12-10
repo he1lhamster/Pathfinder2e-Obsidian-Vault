@@ -1,11 +1,8 @@
 ﻿---
-element: null
 id: '15'
 item_category: Relics
 name: Word of Faith
-prerequisite: null
 rarity: Common
-rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:

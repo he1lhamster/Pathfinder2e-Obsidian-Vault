@@ -1,10 +1,7 @@
 ﻿---
 ac: '34'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Infused Items
@@ -13,14 +10,10 @@ creature_ability:
 - Poisoned Coat
 - Potent Poisoner
 - Quick Application
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+27'
 hp: '260'
 id: '1474'
-immunity: null
 intelligence: '+5'
 land_speed: '25'
 language:
@@ -34,8 +27,6 @@ name: Blue Viper
 perception: '+28'
 rarity: Unique
 reflex: '+28'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Small
@@ -50,12 +41,10 @@ source: '[[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #
   Despair on Danger Island]]'
 speed:
 - 25 feet
-spell: null
 strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Ratfolk|Ratfolk]]'
@@ -64,7 +53,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+22'
 wisdom: '+2'
 

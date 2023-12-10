@@ -1,37 +1,25 @@
 ﻿---
 ac: '21'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Deep Breath
 - Echolocation
 - Fetch
 - Predatory Dive
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+11'
-hardness: null
 hp: '62'
 id: '1621'
-immunity: null
 intelligence: '-4'
 land_speed: '30'
-language: null
 level: '4'
 max_speed: '30'
 name: Damibwa
 perception: '+12'
 rarity: Common
 reflex: '+14'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - echolocation 60 feet
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
@@ -46,7 +34,6 @@ source: '[[DATABASE/source/Pathfinder 170. Spoken on the Song Wind|Pathfinder #1
 speed:
 - 30 feet
 - swim 30 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
@@ -58,7 +45,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+8'
 wisdom: '+2'
 

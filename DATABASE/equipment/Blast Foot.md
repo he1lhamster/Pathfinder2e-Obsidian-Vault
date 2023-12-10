@@ -1,55 +1,21 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
 bulk: '1'
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '1366'
 item_category: Assistive Items
 item_subcategory: Prostheses
-land_speed: null
-level: '10'
-max_speed: null
+level: '6'
 name: Blast Foot
-onset: null
-price: 1,000 gp
-range: null
+price: 250 gp
 rarity: Common
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
-size: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
-spell: null
-stage: null
 subcategory: assistiveitem
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Invested|Invested]]'
 - '[[DATABASE/trait/Magical|Magical]]'
-trigger: null
 type: Item
 usage: worn
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Blast Foot<span class="item-type">Item 6+</span>

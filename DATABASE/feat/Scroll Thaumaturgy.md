@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Scroll Thaumaturgy
-frequency: null
-heighten_level: null
 id: '3703'
+leads_to: '[[DATABASE/feat/Scroll Esoterica|Scroll Esoterica]]'
 level: '1'
 name: Scroll Thaumaturgy
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Thaumaturge|Thaumaturge]]'
-trigger: null
 type: Feat
 
 ---

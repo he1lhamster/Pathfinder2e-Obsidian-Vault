@@ -1,21 +1,7 @@
 ﻿---
-ability: null
-ability_boost: null
-ability_flaw: null
-hp: null
 id: '36'
-land_speed: null
-language: null
-max_speed: null
 name: Sylph
-rarity: null
-rus_type_level: null
-size: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-speed: null
-trait: null
-type: null
-vision: null
 
 ---
 # Sylph (Versatile Heritage)

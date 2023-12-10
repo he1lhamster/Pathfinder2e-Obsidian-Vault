@@ -1,25 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Assured Identification
-frequency: null
-heighten_level: null
 id: '2111'
 level: '2'
 name: Assured Identification
 prerequisite: Expert in [[DATABASE/skill/Arcana|Arcana]] , Expert in [[DATABASE/skill/Nature|Nature]]
   , Expert in [[DATABASE/skill/Occultism|Occultism]] , or Expert in [[DATABASE/skill/Religion|Religion]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: arcana
 trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

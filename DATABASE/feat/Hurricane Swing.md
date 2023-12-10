@@ -1,20 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Hurricane Swing
 frequency: once per day
-heighten_level: null
 id: '2446'
 level: '17'
 name: Hurricane Swing
 prerequisite: '[[DATABASE/feat/Storm''s Lash|Storm''s Lash]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Tengu|Tengu]]'
 trigger: You critically hit a foe with a Strike with a slashing weapon.

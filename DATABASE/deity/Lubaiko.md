@@ -27,11 +27,9 @@ follower_alignment:
 id: '226'
 name: Lubaiko
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Diplomacy|Diplomacy]]'
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
-trait: null
 type: Deity
 
 ---

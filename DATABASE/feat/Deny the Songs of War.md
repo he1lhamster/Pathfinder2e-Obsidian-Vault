@@ -1,25 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Deny the Songs of War
-frequency: null
-heighten_level: null
 id: '3041'
 level: '10'
 name: Deny the Songs of War
 prerequisite: '[[DATABASE/feat/Nantambu Chime-Ringer Dedication|Nantambu Chime-Ringer
   Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 170. Spoken on the Song Wind|Pathfinder #170:
   Spoken on the Song Wind]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

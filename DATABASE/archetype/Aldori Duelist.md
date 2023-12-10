@@ -4,7 +4,6 @@ level: '2'
 name: Aldori Duelist
 prerequisite: trained in [[DATABASE/weapon/Aldori Dueling Sword|Aldori dueling swords]]
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/World Guide|World Guide]]'
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

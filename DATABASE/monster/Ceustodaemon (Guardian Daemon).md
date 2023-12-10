@@ -1,10 +1,7 @@
 ﻿---
 ac: '23'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Breath Weapon
@@ -12,10 +9,7 @@ creature_ability:
 - Vicious Wounds
 creature_family: '[[DATABASE/monsterfamily/Daemon|Daemon]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+16'
-hardness: null
 hp: '130'
 id: '89'
 immunity:
@@ -31,9 +25,6 @@ name: Ceustodaemon
 perception: '+14'
 rarity: Common
 reflex: '+12'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - '[[DATABASE/spell/See Invisibility|see invisibility]]'
@@ -57,7 +48,6 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Daemon|Daemon]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

@@ -1,38 +1,7 @@
 ﻿---
-actions: '[two-actions]'
-area: null
-bloodline: null
-component: null
-cost: null
-deity: null
-domain: null
-duration: 1 round
-element: Earth
-heighten: '+1'
-heighten_level: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
-id: '1306'
-lesson: null
-level: '1'
-mystery: null
+id: '1053'
 name: Crushing Ground
-patron_theme: null
-range: 60 feet
-rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: Reflex
-school: null
-source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-target: 1 creature
-tradition: null
-trait:
-- '[[DATABASE/trait/Concentrate|Concentrate]]'
-- '[[DATABASE/trait/Earth|Earth]]'
-- '[[DATABASE/trait/Focus|Focus]]'
-- '[[DATABASE/trait/Manipulate|Manipulate]]'
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
-type: Focus
+source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 
 ---
 # Crushing Ground<span class="item-type">Focus 1</span>

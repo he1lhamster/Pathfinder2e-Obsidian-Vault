@@ -5,9 +5,7 @@ name: Reanimator
 prerequisite: able to cast [[DATABASE/spell/Animate Dead|animate dead]] with a spell
   slot
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-trait: null
 type: Archetype
 
 ---

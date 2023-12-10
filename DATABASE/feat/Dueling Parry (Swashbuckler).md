@@ -1,24 +1,16 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Dueling Parry (Swashbuckler)
-frequency: null
-heighten_level: null
 id: '1514'
+leads_to: '[[DATABASE/feat/Dueling Dance (Swashbuckler)|Dueling Dance (Swashbuckler)]]'
 level: '1'
 name: Dueling Parry (Swashbuckler)
-prerequisite: null
 rarity: Common
 requirement: You are wielding only a single one-handed melee weapon and have your
   other hand or hands free.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Swashbuckler|Swashbuckler]]'
-trigger: null
 type: Feat
 
 ---

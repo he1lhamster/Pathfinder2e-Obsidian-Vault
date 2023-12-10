@@ -1,20 +1,12 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Reactive Shield
-frequency: null
-heighten_level: null
 id: '360'
 level: '1'
 name: Reactive Shield
-prerequisite: null
 rarity: Common
 requirement: You are wielding a shield.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fighter|Fighter]]'
 trigger: An enemy hits you with a melee Strike.

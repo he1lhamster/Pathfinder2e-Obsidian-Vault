@@ -1,8 +1,6 @@
 ﻿---
 ac: '34'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+7'
 climb_speed: '25'
 constitution: '+4'
@@ -17,12 +15,8 @@ creature_ability:
 - Mist Escape
 - Signature Spells
 - Turn to Mist
-creature_family: null
 dexterity: '+7'
-element: null
-fly_speed: null
 fortitude: '+22'
-hardness: null
 hp: '200'
 id: '2150'
 immunity:
@@ -46,8 +40,6 @@ reflex: '+24'
 resistance:
 - physical 10 (except [[DATABASE/trait/Magical|magical]] [[DATABASE/equipment/Silver
   Weapon|silver]] )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -96,7 +88,6 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Undead|Undead]]'
 - '[[DATABASE/trait/Unique|Unique]]'

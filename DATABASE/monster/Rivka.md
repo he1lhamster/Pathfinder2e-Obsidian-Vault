@@ -1,10 +1,7 @@
 ﻿---
 ac: '32'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+8'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Cimurlian
@@ -15,15 +12,10 @@ creature_ability:
 - Kujiba
 - Mogaru
 - Yorak
-creature_family: null
 dexterity: '+7'
-element: null
-fly_speed: null
 fortitude: '+24'
-hardness: null
 hp: '220'
 id: '1407'
-immunity: null
 intelligence: '+0'
 land_speed: '30'
 language:
@@ -37,9 +29,6 @@ rarity: Rare
 reflex: '+26'
 resistance:
 - one type 10 (see above)
-rus_type_level: null
-school: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +26'
@@ -57,15 +46,12 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+17'
 wisdom: '+0'
 

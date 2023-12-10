@@ -1,28 +1,17 @@
 ﻿---
 actions: '[three-actions]'
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 1 minute
-element: null
 heighten: 8th
 heighten_level: 3, 8
 id: '969'
-lesson: null
 level: '3'
-mystery: null
 name: Phantom Prison
-patron_theme: null
 range: 50 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Will
 school: Illusion
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
@@ -35,7 +24,6 @@ trait:
 - '[[DATABASE/trait/Incapacitation|Incapacitation]]'
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Visual|Visual]]'
-trigger: null
 type: Spell
 
 ---

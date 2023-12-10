@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Advanced Thoughtform
-frequency: null
-heighten_level: null
 id: '3739'
 level: '6'
 name: Advanced Thoughtform
 prerequisite: '[[DATABASE/feat/Basic Thoughtform|Basic Thoughtform]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

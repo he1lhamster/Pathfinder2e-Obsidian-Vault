@@ -1,54 +1,19 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '1868'
 item_category: Runes
 item_subcategory: Weapon Property Runes
-land_speed: null
 level: '20'
-max_speed: null
 name: Impossible
-onset: null
 price: 70,000 gp
-range: null
 rarity: Common
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Conjuration
-size: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-spell: null
-stage: null
 subcategory: rune
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Magical|Magical]]'
-trigger: null
 type: Item
 usage: etched onto a weapon
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Impossible<span class="item-type">Item 20</span>

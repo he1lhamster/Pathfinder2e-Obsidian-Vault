@@ -1,47 +1,20 @@
 ﻿---
-ac: null
 actions: '[two-actions]'
-alignment: null
-base_item: null
 bulk: L
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
 duration: 4 hours
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '120'
 item_category: Alchemical Items
 item_subcategory: Alchemical Poisons
-land_speed: null
 level: '2'
-max_speed: null
 name: Lethargy Poison
-onset: null
 price: 7 gp
-range: null
 rarity: Uncommon
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
 saving_throw: DC 18 Fortitude
-school: null
-size: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-spell: null
 stage: 'Stage 1: slowed 1 (1 round)Stage 2: slowed 1 (1 minute)Stage 3: unconscious
   with no Perception check to wakeup (1 round)Stage 4: unconscious with no Perception
   check to wake up (1d4 hours).'
 subcategory: alchemical/poison
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Alchemical|Alchemical]]'
 - '[[DATABASE/trait/Consumable|Consumable]]'
@@ -50,12 +23,8 @@ trait:
 - '[[DATABASE/trait/Poison|Poison]]'
 - '[[DATABASE/trait/Sleep|Sleep]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Item
 usage: held in 2 hands
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Lethargy Poison<span class="item-type">Item 2</span>

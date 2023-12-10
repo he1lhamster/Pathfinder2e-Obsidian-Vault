@@ -1,10 +1,6 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Grand Dance
-frequency: null
-heighten_level: null
 id: '4046'
 level: '8'
 name: Grand Dance
@@ -12,16 +8,12 @@ prerequisite: '[[DATABASE/feat/Masquerade of Seasons Stance|Masquerade of Season
   Stance]]'
 rarity: Rare
 requirement: You're in Masquerade of Seasons Stance.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Bard|Bard]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Rogue|Rogue]]'
 - '[[DATABASE/trait/Swashbuckler|Swashbuckler]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,28 +1,20 @@
 ﻿---
 ac: '15'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Jellyfish Venom
 - Squeeze
 creature_family: '[[DATABASE/monsterfamily/Jellyfish|Jellyfish]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+17'
-hardness: null
 hp: '165'
 id: '707'
 immunity:
 - '[[DATABASE/trait/Mental|mental]]'
 - precision
 intelligence: '-5'
-land_speed: null
-language: null
 level: '7'
 max_speed: '20'
 name: Giant Jellyfish
@@ -32,8 +24,6 @@ reflex: '+15'
 resistance:
 - bludgeoning 10
 - poison 10
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -44,7 +34,6 @@ skill:
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - swim 20 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:

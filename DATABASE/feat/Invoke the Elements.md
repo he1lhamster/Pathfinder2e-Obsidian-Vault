@@ -1,26 +1,20 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Invoke the Elements
 frequency: once per day
-heighten_level: null
 id: '2337'
+leads_to: '[[DATABASE/feat/Stormy Heart|Stormy Heart]]'
 level: '9'
 name: Invoke the Elements
 prerequisite: '[[DATABASE/feat/Brine May|Brine May]] , [[DATABASE/feat/Snow May|SnowMay]]
   , [[DATABASE/feat/Veil May|Veil May]] , or [[DATABASE/feat/Virga May|Virga May]]'
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Changeling|Changeling]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Primal|Primal]]'
-trigger: null
 type: Feat
 
 ---

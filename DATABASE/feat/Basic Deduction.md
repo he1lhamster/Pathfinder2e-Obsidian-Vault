@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Basic Deduction
-frequency: null
-heighten_level: null
 id: '1845'
+leads_to: '[[DATABASE/feat/Advanced Deduction|Advanced Deduction]]'
 level: '4'
 name: Basic Deduction
 prerequisite: '[[DATABASE/feat/Investigator Dedication|Investigator Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

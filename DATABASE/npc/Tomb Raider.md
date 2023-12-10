@@ -1,8 +1,6 @@
 ﻿---
 ac: '21'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
 climb_speed: '15'
 constitution: '+1'
@@ -11,12 +9,9 @@ creature_ability:
 - Trick Attack
 creature_family: '[[DATABASE/monsterfamily/Explorers|Explorers]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+10'
 hp: '75'
 id: '904'
-immunity: null
 intelligence: '+2'
 land_speed: '25'
 language:
@@ -27,9 +22,6 @@ name: Tomb Raider
 perception: '+13'
 rarity: Common
 reflex: '+15'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +13'
@@ -44,20 +36,16 @@ source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 speed:
 - 25 feet
 - climb 15 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+11'
 wisdom: '+2'
 

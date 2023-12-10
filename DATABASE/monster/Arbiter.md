@@ -1,20 +1,15 @@
 ﻿---
 ac: '16'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Electrical Burst
 - Locate Inevitable
 creature_family: '[[DATABASE/monsterfamily/Aeon|Aeon]]'
 dexterity: '+4'
-element: null
 fly_speed: '40'
 fortitude: '+5'
-hardness: null
 hp: '22'
 id: '6'
 immunity:
@@ -38,8 +33,6 @@ rarity: Common
 reflex: '+7'
 resistance:
 - '[[DATABASE/trait/Electricity|electricity]] 3'
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - '[[DATABASE/spell/Detect Alignment|detect alignment]] (chaotic only)'
@@ -64,7 +57,6 @@ strength_req: '1'
 strongest_save:
 - Reflex
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aeon|Aeon]]'
 - '[[DATABASE/trait/Inevitable|Inevitable]]'

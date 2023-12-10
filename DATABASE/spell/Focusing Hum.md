@@ -1,38 +1,23 @@
 ﻿---
 actions: '[one-action]'
 area: 15-foot emanation centered on you
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: sustained up to 1 minute
-element: null
-heighten: null
 heighten_level: '3'
 id: '1154'
-lesson: null
 level: '3'
-mystery: null
 name: Focusing Hum
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-target: null
 tradition:
 - Divine
 - Occult
 trait:
 - '[[DATABASE/trait/Divination|Divination]]'
 - '[[DATABASE/trait/Enchantment|Enchantment]]'
-trigger: null
 type: Spell
 
 ---

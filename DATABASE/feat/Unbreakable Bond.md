@@ -1,26 +1,17 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Unbreakable Bond
-frequency: null
-heighten_level: null
 id: '3451'
 level: '10'
 name: Unbreakable Bond
 prerequisite: '[[DATABASE/feat/Mammoth Lord Dedication|Mammoth Lord Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Pathfinder 177. Burning Tundra|Pathfinder #177: Burning
   Tundra]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Primal|Primal]]'
-trigger: null
 type: Feat
 
 ---

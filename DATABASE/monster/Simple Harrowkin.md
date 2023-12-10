@@ -1,10 +1,7 @@
 ﻿---
 ac: '20'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Harrowkin Suit
@@ -12,10 +9,7 @@ creature_ability:
 - Sneak Attack
 creature_family: '[[DATABASE/monsterfamily/Harrowkin|Harrowkin]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+11'
-hardness: null
 hp: '60'
 id: '2579'
 immunity:
@@ -42,9 +36,6 @@ name: Simple Harrowkin
 perception: '+10'
 rarity: Uncommon
 reflex: '+14'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -57,12 +48,10 @@ source: '[[DATABASE/source/Pathfinder 192. Worst of All Possible Worlds|Pathfind
   #192: Worst of All Possible Worlds]]'
 speed:
 - 25 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
@@ -70,7 +59,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+8'
 wisdom: '+0'
 

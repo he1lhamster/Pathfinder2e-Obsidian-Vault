@@ -1,25 +1,17 @@
 ﻿---
 ac: '19'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Collateral Damage
 - Lucky Stabs
 - Natural Thief
 - Unluck Aura
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+8'
-hardness: null
 hp: '50'
 id: '1617'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -32,9 +24,6 @@ name: Kurshkin
 perception: '+10'
 rarity: Unique
 reflex: '+11'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - (+2 to hear things) [[DATABASE/monsterability/Darkvision|darkvision]]
 size: Tiny
@@ -58,7 +47,6 @@ strength: '-2'
 strength_req: '-2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Gremlin|Gremlin]]'

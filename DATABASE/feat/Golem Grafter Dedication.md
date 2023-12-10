@@ -1,27 +1,20 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Golem Grafter Dedication
-frequency: null
-heighten_level: null
 id: '1227'
+leads_to: '[[DATABASE/feat/Accursed Clay Fist|Accursed Clay Fist]] , [[DATABASE/feat/Iron
+  Lung|Iron Lung]] , [[DATABASE/feat/Legs of Stone|Legs of Stone]] , [[DATABASE/feat/Quicken
+  Heartbeat|Quicken Heartbeat]]'
 level: '8'
 name: Golem Grafter Dedication
 prerequisite: expert in [[DATABASE/skill/Arcana|Arcana]] and [[DATABASE/skill/Crafting|Crafting]]
   , or an ally with expert proficiency in those skills willing to augment you
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 153. Life''s Long Shadows|Pathfinder #153: Life''s
   Long Shadows]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

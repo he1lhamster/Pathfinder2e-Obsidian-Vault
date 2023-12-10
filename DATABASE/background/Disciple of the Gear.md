@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Quick Repair|Quick Repair]]'
 id: '253'
 name: Disciple of the Gear
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Crafting|Crafting]]'
 - '[[DATABASE/skill/Lore|Lore]] forthe deity you worship.'
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

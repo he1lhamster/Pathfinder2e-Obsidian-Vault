@@ -1,10 +1,7 @@
 ﻿---
 ac: '19'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Aquatic Drag
@@ -13,25 +10,17 @@ creature_ability:
 - Swallow Whole
 creature_family: '[[DATABASE/monsterfamily/Mosasaur|Mosasaur]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+10'
-hardness: null
 hp: '46'
 id: '1238'
-immunity: null
 intelligence: '-4'
 land_speed: '5'
-language: null
 level: '3'
 max_speed: '35'
 name: Platecarpus
 perception: '+9'
 rarity: Common
 reflex: '+11'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -43,7 +32,6 @@ source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 5 feet
 - swim 35 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
@@ -55,7 +43,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+7'
 wisdom: '+2'
 

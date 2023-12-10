@@ -1,28 +1,19 @@
 ﻿---
 ac: '24'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Fall Apart
 - Frozen Wind
 - Stunning Critical
 - Trigger Memory
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+17'
-hardness: null
 hp: '130'
 id: '2507'
-immunity: null
 intelligence: '-4'
 land_speed: '25'
-language: null
 level: '7'
 max_speed: '25'
 name: The Guest
@@ -32,8 +23,6 @@ reflex: '+14'
 resistance:
 - bludgeoning 10
 - '[[DATABASE/trait/Cold|cold]] 10'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -44,12 +33,10 @@ source: '[[DATABASE/source/Pathfinder 189. Dreamers of the Nameless Spires|Pathf
   #189: Dreamers of the Nameless Spires]]'
 speed:
 - 25 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'

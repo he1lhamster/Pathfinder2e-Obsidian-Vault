@@ -1,18 +1,10 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Ravening's Desperation
-frequency: null
-heighten_level: null
 id: '1213'
 level: '1'
 name: Ravening's Desperation
 prerequisite: trained in [[DATABASE/deity/Zevgavizeb|Zevgavizeb]] [[DATABASE/skill/Lore|Lore]]
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 153. Life''s Long Shadows|Pathfinder #153: Life''s
   Long Shadows]]'
 subcategory: lore
@@ -20,7 +12,6 @@ trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Skill|Skill]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

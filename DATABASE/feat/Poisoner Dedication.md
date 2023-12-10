@@ -1,24 +1,17 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Poisoner Dedication
-frequency: null
-heighten_level: null
 id: '2036'
+leads_to: '[[DATABASE/feat/Acquired Tolerance|Acquired Tolerance]] , [[DATABASE/feat/Expert
+  Poisoner|Expert Poisoner]] , [[DATABASE/feat/Poison Coat|Poison Coat]] , [[DATABASE/feat/Poisoner''s
+  Twist|Poisoner''s Twist]]'
 level: '2'
 name: Poisoner Dedication
 prerequisite: Trained in [[DATABASE/skill/Crafting|Crafting]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
-trigger: null
 type: Feat
 
 ---

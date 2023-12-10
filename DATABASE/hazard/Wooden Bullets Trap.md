@@ -1,8 +1,6 @@
 ﻿---
 ac: '10'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+15'
 hardness: 10 Wall Hardness
 hazard_type: Trap
@@ -16,9 +14,6 @@ level: '3'
 name: Wooden Bullets Trap
 rarity: Common
 reflex: '+5'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 178. Punks in a Powderkeg|Pathfinder #178: Punks
   in a Powderkeg]]'
 trait:
@@ -28,7 +23,6 @@ trait:
 type: Hazard
 weakness:
 - '[[DATABASE/trait/Fire|fire]] 5'
-will: null
 
 ---
 # Wooden Bullets Trap<span class="item-type">Hazard 3</span>

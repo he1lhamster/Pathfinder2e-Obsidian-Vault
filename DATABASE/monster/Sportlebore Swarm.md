@@ -1,20 +1,15 @@
 ﻿---
 ac: '25'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Pour Down Throat
 - Swarming Bites
 creature_family: '[[DATABASE/monsterfamily/Sportlebore|Sportlebore]]'
 dexterity: '+6'
-element: null
 fly_speed: '35'
 fortitude: '+15'
-hardness: null
 hp: '85'
 id: '816'
 immunity:
@@ -22,7 +17,6 @@ immunity:
 - '[[DATABASE/monsterability/Swarm Mind|swarm mind]]'
 intelligence: '-4'
 land_speed: '35'
-language: null
 level: '7'
 max_speed: '35'
 name: Sportlebore Swarm
@@ -33,8 +27,6 @@ resistance:
 - bludgeoning 3
 - piercing 7
 - slashing 7
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Large
@@ -45,12 +37,10 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 35 feet
 - fly 35 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 - '[[DATABASE/trait/Swarm|Swarm]]'

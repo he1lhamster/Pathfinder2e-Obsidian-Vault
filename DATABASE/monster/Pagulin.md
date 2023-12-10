@@ -1,8 +1,6 @@
 ﻿---
 ac: '24'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
 climb_speed: '15'
 constitution: '+4'
@@ -11,27 +9,18 @@ creature_ability:
 - Constrict
 - Spike Rend
 - Tail Impalement
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+18'
-hardness: null
 hp: '120'
 id: '2601'
-immunity: null
 intelligence: '-4'
 land_speed: '25'
-language: null
 level: '7'
 max_speed: '25'
 name: Pagulin
 perception: '+14'
 rarity: Uncommon
 reflex: '+15'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -44,12 +33,10 @@ source: '[[DATABASE/source/Highhelm|Highhelm]]'
 speed:
 - 25 feet
 - climb 15 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
@@ -57,7 +44,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+12'
 wisdom: '+3'
 

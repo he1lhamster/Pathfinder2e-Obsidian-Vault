@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Vanth's Weapon Familiarity
-frequency: null
-heighten_level: null
 id: '2357'
+leads_to: '[[DATABASE/feat/Vanth''s Weapon Execution|Vanth''s Weapon Execution]] ,
+  [[DATABASE/feat/Vanth''s Weapon Expertise|Vanth''s Weapon Expertise]]'
 level: '1'
 name: Vanth's Weapon Familiarity
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Duskwalker|Duskwalker]]'
-trigger: null
 type: Feat
 
 ---

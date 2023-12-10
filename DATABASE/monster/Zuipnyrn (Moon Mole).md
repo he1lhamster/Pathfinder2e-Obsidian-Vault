@@ -1,8 +1,6 @@
 ﻿---
 ac: '20'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
 climb_speed: '10'
 constitution: '+3'
@@ -10,15 +8,10 @@ creature_ability:
 - Alluring Aspect
 - Beguiling Gaze
 - Blinding Flare
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+10'
-hardness: null
 hp: '35'
 id: '515'
-immunity: null
 intelligence: '-2'
 land_speed: '20'
 language:
@@ -31,8 +24,6 @@ rarity: Rare
 reflex: '+10'
 resistance:
 - bludgeoning 3
-rus_type_level: null
-school: null
 sense:
 - greater darkvision
 size: Small
@@ -43,13 +34,11 @@ source: '[[DATABASE/source/Pathfinder 152. Legacy of the Lost God|Pathfinder #15
 speed:
 - 20 feet
 - climb 10 feet
-spell: null
 strength: '+1'
 strength_req: '1'
 strongest_save:
 - Fortitude
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Rare|Rare]]'
@@ -57,7 +46,6 @@ type: Creature
 vision: Greater darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+7'
 wisdom: '+2'
 

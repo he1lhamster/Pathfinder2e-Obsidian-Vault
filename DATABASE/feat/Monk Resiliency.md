@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Monk Resiliency
-frequency: null
-heighten_level: null
 id: '717'
 level: '4'
 name: Monk Resiliency
 prerequisite: '[[DATABASE/feat/Monk Dedication|Monk Dedication]] ; class granting
   no more Hit Points perlevel than 8 + your Constitution modifier'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

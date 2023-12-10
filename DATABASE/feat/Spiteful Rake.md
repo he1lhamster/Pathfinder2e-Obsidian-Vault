@@ -1,23 +1,15 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Spiteful Rake
-frequency: null
-heighten_level: null
 id: '2339'
 level: '13'
 name: Spiteful Rake
 prerequisite: claw unarmed attack
 rarity: Common
 requirement: You have both hands free.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Changeling|Changeling]]'
-trigger: null
 type: Feat
 
 ---

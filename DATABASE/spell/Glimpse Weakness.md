@@ -1,37 +1,22 @@
 ﻿---
 actions: '[one-action]'
-area: null
-bloodline: null
 component:
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 1 minute
-element: null
-heighten: null
 heighten_level: '1'
 id: '1133'
-lesson: null
 level: '1'
-mystery: null
 name: Glimpse Weakness
-patron_theme: null
 range: 60 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 target: 1 creature
-tradition: null
 trait:
 - '[[DATABASE/trait/Cantrip|Cantrip]]'
 - '[[DATABASE/trait/Divination|Divination]]'
 - '[[DATABASE/trait/Psychic|Psychic]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Cantrip
 
 ---

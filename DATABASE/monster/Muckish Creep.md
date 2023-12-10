@@ -1,10 +1,7 @@
 ﻿---
 ac: '27'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Blinding Mud
@@ -13,15 +10,10 @@ creature_ability:
 - Mud Trail
 - Overwhelm
 - Slippery Body
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+20'
-hardness: null
 hp: '160'
 id: '1400'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -34,8 +26,6 @@ rarity: Common
 reflex: '+15'
 resistance:
 - bludgeoning 8
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -47,12 +37,10 @@ source: '[[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #
   Despair on Danger Island]]'
 speed:
 - 25 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 type: Creature

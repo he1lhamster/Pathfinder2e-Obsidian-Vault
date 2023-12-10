@@ -1,58 +1,24 @@
 ﻿---
-ac: null
 actions: '[one-action]'
-alignment: null
-base_item: null
 bulk: L
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '938'
 item_category: Alchemical Items
 item_subcategory: Alchemical Bombs
-land_speed: null
-level: '17'
-max_speed: null
+level: '3'
 name: Necrotic Bomb
-onset: null
-price: 2,500 gp
-range: null
+price: 10 gp
 rarity: Common
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
-school: null
-size: null
 source: '[[DATABASE/source/Pathfinder 165. Eyes of Empty Death|Pathfinder #165: Eyes
   of Empty Death]]'
-spell: null
-stage: null
 subcategory: alchemical/bomb
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Alchemical|Alchemical]]'
 - '[[DATABASE/trait/Bomb|Bomb]]'
 - '[[DATABASE/trait/Consumable|Consumable]]'
 - '[[DATABASE/trait/Negative|Negative]]'
 - '[[DATABASE/trait/Splash|Splash]]'
-trigger: null
 type: Item
 usage: held in 1 hand
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Necrotic Bomb<span class="item-type">Item 1+</span>

@@ -1,24 +1,17 @@
 ﻿---
 ac: '36'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Attack of Opportunity
 - Battlefield Command
 - Change Shape
-creature_family: null
 dexterity: '+4'
-element: null
 fly_speed: '30'
 fortitude: '+28'
-hardness: null
 hp: '225'
 id: '2330'
-immunity: null
 intelligence: '+4'
 land_speed: '30'
 language:
@@ -30,9 +23,6 @@ name: General Avinash Jurrg
 perception: '+26'
 rarity: Unique
 reflex: '+24'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
@@ -61,7 +51,6 @@ strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Giant|Giant]]'
 - '[[DATABASE/trait/Oni|Oni]]'
@@ -72,7 +61,6 @@ vision: Darkvision
 weakest_save:
 - Reflex
 - Will
-weakness: null
 will: '+24'
 wisdom: '+4'
 

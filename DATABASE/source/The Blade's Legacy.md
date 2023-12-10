@@ -2,9 +2,6 @@
 id: '181'
 name: The Blade's Legacy
 rarity: Common
-rus_type_level: null
-source: null
-trait: null
 type: Source
 
 ---

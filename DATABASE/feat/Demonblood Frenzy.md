@@ -1,20 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Demonblood Frenzy
 frequency: once per minute
-heighten_level: null
 id: '2761'
 level: '5'
 name: Demonblood Frenzy
 prerequisite: tusks [[DATABASE/trait/Unarmed|unarmed]] attack
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Orc|Orc]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

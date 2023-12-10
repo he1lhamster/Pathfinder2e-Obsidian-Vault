@@ -1,20 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Upset Balance
-frequency: null
-heighten_level: null
 id: '4177'
 level: '6'
 name: Upset Balance
 prerequisite: '[[DATABASE/feat/Stalwart Defender Dedication|Stalwart Defender Dedication]]'
 rarity: Common
 requirement: You are in Tenacious Stance.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Highhelm|Highhelm]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 trigger: You are damaged by a melee Strike.

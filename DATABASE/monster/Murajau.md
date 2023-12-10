@@ -1,25 +1,16 @@
 ﻿---
 ac: '25'
-alignment: null
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Hefty Defense
 - Retract
 - Swinging Spear
 - Talisman Faithful
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+15'
-hardness: null
 hp: '60'
 id: '2663'
-immunity: null
 intelligence: '+2'
 land_speed: '25'
 language:
@@ -31,9 +22,6 @@ name: Murajau
 perception: '+13'
 rarity: Common
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -47,7 +35,6 @@ source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 speed:
 - 25 feet
 - swim 30 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
@@ -60,7 +47,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+11'
 wisdom: '+2'
 

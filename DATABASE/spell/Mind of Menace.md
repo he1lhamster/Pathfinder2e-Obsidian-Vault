@@ -1,32 +1,17 @@
 ﻿---
-actions: null
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 24 hours
-element: null
-heighten: null
 heighten_level: '3'
 id: '949'
 lesson: '[[DATABASE/witchlesson/Lesson of Favors|Lesson of Favors]]'
 level: '3'
-mystery: null
 name: Mind of Menace
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Enchantment
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-target: null
 tradition:
 - Arcane
 - Divine
@@ -38,7 +23,6 @@ trait:
 - '[[DATABASE/trait/Enchantment|Enchantment]]'
 - '[[DATABASE/trait/Fear|Fear]]'
 - '[[DATABASE/trait/Mental|Mental]]'
-trigger: null
 type: Spell
 
 ---

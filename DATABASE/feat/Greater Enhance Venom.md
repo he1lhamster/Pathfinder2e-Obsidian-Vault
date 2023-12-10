@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Greater Enhance Venom
-frequency: null
-heighten_level: null
 id: '4036'
 level: '17'
 name: Greater Enhance Venom
 prerequisite: '[[DATABASE/feat/Moderate Enhance Venom|Moderate Enhance Venom]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Vishkanya|Vishkanya]]'
-trigger: null
 type: Feat
 
 ---

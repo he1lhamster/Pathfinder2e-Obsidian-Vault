@@ -1,21 +1,14 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Dragon Transformation
-frequency: null
-heighten_level: null
 id: '172'
 level: '16'
 name: Dragon Transformation
 prerequisite: '[[DATABASE/barbarianinstinct/Dragon Instinct|dragon instinct]] ; [[DATABASE/feat/Dragon''s
   Rage Wings|Dragon''s Rage Wings]]'
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Barbarian|Barbarian]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
@@ -23,7 +16,6 @@ trait:
 - '[[DATABASE/trait/Primal|Primal]]'
 - '[[DATABASE/trait/Rage|Rage]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Feat
 
 ---

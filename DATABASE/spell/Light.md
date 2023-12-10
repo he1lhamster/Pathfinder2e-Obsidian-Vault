@@ -1,28 +1,17 @@
 ﻿---
 actions: '[two-actions]'
-area: null
 bloodline: '[[DATABASE/sorcererbloodline/Angelic|Angelic]]'
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: until the next time you make your daily preparations
-element: null
 heighten: 4th
 heighten_level: 1, 4
 id: '171'
-lesson: null
 level: '1'
-mystery: null
 name: Light
-patron_theme: null
 range: touch
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: 1 object of 1 Bulk or less, either unattended or possessed by you or a willing
@@ -37,7 +26,6 @@ trait:
 - '[[DATABASE/trait/Cantrip|Cantrip]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Light|Light]]'
-trigger: null
 type: Cantrip
 
 ---

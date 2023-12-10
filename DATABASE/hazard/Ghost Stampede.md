@@ -1,8 +1,6 @@
 ﻿---
 ac: '40'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+23'
 hardness: '25'
 hazard_type: Haunt
@@ -17,9 +15,6 @@ level: '15'
 name: Ghost Stampede
 rarity: Common
 reflex: '+29'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 trait:
 - '[[DATABASE/trait/Complex|Complex]]'
@@ -27,7 +22,6 @@ trait:
 type: Hazard
 weakness:
 - '[[DATABASE/trait/Positive|positive]] 5'
-will: null
 
 ---
 # Ghost Stampede<span class="item-type">Hazard 15</span>

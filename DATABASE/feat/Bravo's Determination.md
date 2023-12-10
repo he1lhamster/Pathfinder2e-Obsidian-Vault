@@ -1,21 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Bravo's Determination
-frequency: null
-heighten_level: null
 id: '1070'
 level: '8'
 name: Bravo's Determination
 prerequisite: Expert in [[DATABASE/skill/Deception|Deception]] ; [[DATABASE/feat/Firebrand
   Braggart Dedication|Firebrand Braggart Dedication]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 trigger: "A foe\u2019s Strike reduces you to 0 Hit Points; you were not at 1 Hit Point\

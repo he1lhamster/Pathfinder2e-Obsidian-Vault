@@ -1,23 +1,16 @@
 ﻿---
 ac: '16'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Arrogant Preen
 - Unflappable Self-Importance
-creature_family: null
 dexterity: '+4'
-element: null
 fly_speed: '30'
 fortitude: '+4'
-hardness: null
 hp: '25'
 id: '1758'
-immunity: null
 intelligence: '+0'
 land_speed: '20'
 language:
@@ -30,9 +23,6 @@ name: Loblobi
 perception: '+6'
 rarity: Uncommon
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Small
@@ -59,7 +49,6 @@ strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
@@ -67,7 +56,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+8'
 wisdom: '+1'
 

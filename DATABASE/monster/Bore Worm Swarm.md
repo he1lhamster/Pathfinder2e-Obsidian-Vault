@@ -1,19 +1,14 @@
 ﻿---
 ac: '20'
 alignment: N
-all_resistance: null
 burrow_speed: '30'
 charisma: '-4'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Swarming Bites
 creature_family: '[[DATABASE/monsterfamily/Bore Worm|Bore Worm]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+15'
-hardness: null
 hp: '60'
 id: '1083'
 immunity:
@@ -22,7 +17,6 @@ immunity:
 - '[[DATABASE/monsterability/Swarm Mind|swarm mind]]'
 intelligence: '-5'
 land_speed: '15'
-language: null
 level: '5'
 max_speed: '30'
 name: Bore Worm Swarm
@@ -33,8 +27,6 @@ resistance:
 - bludgeoning 4
 - piercing 8
 - slashing 8
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) 60 feet'
 size: Large
@@ -45,17 +37,14 @@ source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 15 feet
 - burrow 30 feet
-spell: null
 strength: '-1'
 strength_req: '-1'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 - '[[DATABASE/trait/Swarm|Swarm]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
 weakness:

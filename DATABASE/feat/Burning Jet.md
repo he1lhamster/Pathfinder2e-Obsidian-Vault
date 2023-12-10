@@ -1,26 +1,18 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
 element: Fire
 feat: Burning Jet
-frequency: null
 heighten_level: 1, 6, 10
 id: '4236'
 level: '1'
 name: Burning Jet
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fire|Fire]]'
 - '[[DATABASE/trait/Impulse|Impulse]]'
 - '[[DATABASE/trait/Kineticist|Kineticist]]'
 - '[[DATABASE/trait/Primal|Primal]]'
-trigger: null
 type: Feat
 
 ---

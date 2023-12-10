@@ -1,10 +1,7 @@
 ﻿---
 ac: '19'
 alignment: CG
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Nature Empathy
@@ -12,13 +9,9 @@ creature_ability:
 - Tree Meld
 creature_family: '[[DATABASE/monsterfamily/Nymph|Nymph]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+6'
-hardness: null
 hp: '55'
 id: '312'
-immunity: null
 intelligence: '+2'
 land_speed: '25'
 language:
@@ -32,9 +25,6 @@ name: Dryad
 perception: '+10'
 rarity: Common
 reflex: '+11'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 size: Medium
@@ -62,7 +52,6 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Nymph|Nymph]]'

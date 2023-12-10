@@ -1,29 +1,15 @@
 ﻿---
 actions: '[three-actions]'
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
-heighten: null
 heighten_level: '8'
 id: '815'
-lesson: null
 level: '8'
-mystery: null
 name: All is One, One is All
-patron_theme: null
 range: 60 feet
 rarity: Rare
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Legends|Legends]]'
 target: you and up to 10 willing living allies
@@ -33,7 +19,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Spell
 
 ---

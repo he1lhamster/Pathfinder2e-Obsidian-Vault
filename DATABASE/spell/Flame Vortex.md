@@ -1,32 +1,22 @@
 ﻿---
 actions: '[three-actions]'
 area: 5-foot radius, 40-foot tall cylinder
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: sustained up to 1 minute
 element: Air, Fire
 heighten: '+2'
 heighten_level: 6, 8, 10
 id: '911'
-lesson: null
 level: '6'
-mystery: null
 name: Flame Vortex
-patron_theme: null
 range: 120 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: basicReflex
 school: Evocation
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-target: null
 tradition:
 - Arcane
 - Primal
@@ -34,7 +24,6 @@ trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Fire|Fire]]'
-trigger: null
 type: Spell
 
 ---

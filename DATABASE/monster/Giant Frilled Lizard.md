@@ -1,8 +1,6 @@
 ﻿---
 ac: '22'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
 climb_speed: '30'
 constitution: '+4'
@@ -10,25 +8,17 @@ creature_ability:
 - Intimidating Display
 creature_family: '[[DATABASE/monsterfamily/Lizard|Lizard]]'
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+13'
-hardness: null
 hp: '75'
 id: '290'
-immunity: null
 intelligence: '-4'
 land_speed: '30'
-language: null
 level: '5'
 max_speed: '30'
 name: Giant Frilled Lizard
 perception: '+11'
 rarity: Common
 reflex: '+12'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 - scent (imprecise) 30 feet
@@ -41,19 +31,16 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 30 feet
 - climb 30 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+9'
 wisdom: '+2'
 

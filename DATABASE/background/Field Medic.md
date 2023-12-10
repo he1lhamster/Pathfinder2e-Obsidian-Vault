@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Battle Medicine|Battle Medicine]]'
 id: '15'
 name: Field Medic
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Medicine|Medicine]]'
 - Warfare [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

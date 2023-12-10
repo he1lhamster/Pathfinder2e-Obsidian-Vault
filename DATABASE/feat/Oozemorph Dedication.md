@@ -1,25 +1,17 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Oozemorph Dedication
-frequency: null
-heighten_level: null
 id: '2185'
+leads_to: '[[DATABASE/feat/Disturbing Defense|Disturbing Defense]] , [[DATABASE/feat/Hideous
+  Ululation|Hideous Ululation]] , [[DATABASE/feat/Ooze Empathy|Ooze Empathy]] , [[DATABASE/feat/Uncanny
+  Suction|Uncanny Suction]] , [[DATABASE/feat/Vacate Vision|Vacate Vision]]'
 level: '2'
 name: Oozemorph Dedication
-prerequisite: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/The Slithering|The Slithering]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

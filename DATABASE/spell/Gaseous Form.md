@@ -1,11 +1,8 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Hshurha|Hshurha]]'
 - '[[DATABASE/deity/Hshurha|Hshurha]]'
@@ -13,22 +10,13 @@ deity:
 - '[[DATABASE/deity/Ragdya|Ragdya]]'
 - '[[DATABASE/deity/Ragdya|Ragdya]]'
 - '[[DATABASE/deity/Zura|Zura]]'
-domain: null
 duration: 5 minutes
-element: null
-heighten: null
 heighten_level: '4'
 id: '129'
-lesson: null
 level: '4'
-mystery: null
 name: Gaseous Form
-patron_theme: null
 range: touch
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: 1 willing creature
@@ -39,7 +27,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Polymorph|Polymorph]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Spell
 
 ---

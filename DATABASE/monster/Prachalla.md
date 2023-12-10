@@ -1,21 +1,14 @@
 ﻿---
 ac: '30'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Personality Fragments
 - Sneak Attack
 - Surprise Attack
-creature_family: null
 dexterity: '+7'
-element: null
-fly_speed: null
 fortitude: '+19'
-hardness: null
 hp: '205'
 id: '2093'
 immunity:
@@ -43,9 +36,6 @@ name: Prachalla
 perception: '+19'
 rarity: Unique
 reflex: '+22'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -70,7 +60,6 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Soulbound|Soulbound]]'

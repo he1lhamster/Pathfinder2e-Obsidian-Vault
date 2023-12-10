@@ -1,23 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Wild Winds Initiate
-frequency: null
-heighten_level: null
 id: '463'
+leads_to: '[[DATABASE/feat/Electric Counter|Electric Counter]] , [[DATABASE/feat/Wild
+  Winds Gust|Wild Winds Gust]]'
 level: '8'
 name: Wild Winds Initiate
 prerequisite: ki spells
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Monk|Monk]]'
-trigger: null
 type: Feat
 
 ---

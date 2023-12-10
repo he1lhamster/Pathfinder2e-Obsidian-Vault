@@ -1,10 +1,7 @@
 ﻿---
 ac: '36'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+8'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Emotional Focus
@@ -12,15 +9,10 @@ creature_ability:
 - Feed on Emotion
 - Rapid Strikes
 - Spiral of Despair
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+27'
-hardness: null
 hp: '305'
 id: '343'
-immunity: null
 intelligence: '+5'
 land_speed: '40'
 language:
@@ -33,8 +25,6 @@ rarity: Common
 reflex: '+26'
 resistance:
 - mental 15
-rus_type_level: null
-school: null
 sense:
 - tremorsense (imprecise) 60 feet
 size: Large
@@ -54,14 +44,11 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+31'
 wisdom: '+6'
 

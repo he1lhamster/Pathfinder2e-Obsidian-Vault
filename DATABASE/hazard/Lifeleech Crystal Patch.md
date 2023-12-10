@@ -1,8 +1,6 @@
 ﻿---
 ac: '31'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+24'
 hardness: '20'
 hazard_type: Environmental
@@ -16,9 +14,6 @@ level: '11'
 name: Lifeleech Crystal Patch
 rarity: Common
 reflex: '+12'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 148. Fires of the Haunted City|Pathfinder #148:
   Fires of the Haunted City]]'
 trait:
@@ -27,7 +22,6 @@ trait:
 type: Hazard
 weakness:
 - sonic 10
-will: null
 
 ---
 # Lifeleech Crystal Patch<span class="item-type">Hazard 11</span>

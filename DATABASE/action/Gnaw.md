@@ -1,18 +1,11 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
-frequency: null
 id: '347'
 name: Gnaw
 rarity: Common
 requirement: "The animal companion\u2019s last action was a successful jaws Strike."
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 149. Against the Scarlet Triad|Pathfinder #149:
   Against the Scarlet Triad]]'
-trait: null
-trigger: null
 type: Action
 
 ---

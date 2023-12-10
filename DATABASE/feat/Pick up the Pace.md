@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Pick up the Pace
-frequency: null
-heighten_level: null
 id: '2140'
+leads_to: '[[DATABASE/feat/Caravan Leader|Caravan Leader]]'
 level: '3'
 name: Pick up the Pace
 prerequisite: Constitution 14
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/General|General]]'
-trigger: null
 type: Feat
 
 ---

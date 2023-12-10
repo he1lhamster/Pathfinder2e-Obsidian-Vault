@@ -1,39 +1,24 @@
 ﻿---
 actions: '[three-actions]'
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 24 hours
-element: null
 heighten: 3rd, 6th, 9th
 heighten_level: 1, 3, 6, 9
 id: '970'
-lesson: null
 level: '1'
-mystery: null
 name: Pocket Library
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-target: null
 tradition:
 - Arcane
 - Occult
 trait:
 - '[[DATABASE/trait/Divination|Divination]]'
 - '[[DATABASE/trait/Extradimensional|Extradimensional]]'
-trigger: null
 type: Spell
 
 ---

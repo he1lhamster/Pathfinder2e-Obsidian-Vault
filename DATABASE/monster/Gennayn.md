@@ -1,10 +1,6 @@
 ﻿---
 ac: '17'
-alignment: null
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Attuned Element
@@ -13,13 +9,10 @@ creature_ability:
 - Little Wish
 creature_family: '[[DATABASE/monsterfamily/Genie|Genie]]'
 dexterity: '+4'
-element: null
 fly_speed: '15'
 fortitude: '+4'
-hardness: null
 hp: '30'
 id: '2687'
-immunity: null
 intelligence: '+2'
 land_speed: '15'
 language:
@@ -38,8 +31,6 @@ rarity: Common
 reflex: '+10'
 resistance:
 - attuned element 5 (see below)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Tiny
@@ -68,7 +59,6 @@ strength: '-2'
 strength_req: '-2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Elemental|Elemental]]'
 - '[[DATABASE/trait/Genie|Genie]]'
@@ -76,7 +66,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+8'
 wisdom: '+2'
 

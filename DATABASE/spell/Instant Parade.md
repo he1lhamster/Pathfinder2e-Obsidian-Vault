@@ -1,31 +1,17 @@
 ﻿---
 actions: '[two-actions]'
 area: 10-foot emanation
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 10 minutes
-element: null
-heighten: null
 heighten_level: '2'
 id: '1288'
-lesson: null
 level: '2'
-mystery: null
 name: Instant Parade
-patron_theme: null
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Illusion
 source: '[[DATABASE/source/Firebrands|Firebrands]]'
-target: null
 tradition:
 - Arcane
 - Occult
@@ -35,7 +21,6 @@ trait:
 - '[[DATABASE/trait/Illusion|Illusion]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 - '[[DATABASE/trait/Visual|Visual]]'
-trigger: null
 type: Spell
 
 ---

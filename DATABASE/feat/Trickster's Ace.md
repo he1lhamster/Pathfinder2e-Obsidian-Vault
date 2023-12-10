@@ -1,14 +1,9 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Trickster's Ace
-frequency: null
-heighten_level: null
 id: '598'
 level: '18'
 name: Trickster's Ace
-prerequisite: null
 rarity: Common
 requirement: "When you make your daily preparations, you must specify a trigger for\
   \ this reaction using the samerestrictions as the triggers for the Ready action.\
@@ -16,10 +11,7 @@ requirement: "When you make your daily preparations, you must specify a trigger 
   \ of 4th level or lower. The spell can\u2019t have a cost, nor can itscasting time\
   \ be more than 10 minutes. The spell must be able to target a single creature, and\
   \ youmust be a valid target for it."
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Investigator|Investigator]]'

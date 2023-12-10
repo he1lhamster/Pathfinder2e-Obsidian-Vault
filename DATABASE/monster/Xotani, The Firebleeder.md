@@ -1,7 +1,6 @@
 ﻿---
 ac: '48'
 alignment: CE
-all_resistance: null
 burrow_speed: '40'
 charisma: '+6'
 climb_speed: '60'
@@ -20,9 +19,7 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Spawn of Rovagug|Spawn of Rovagug]]'
 dexterity: '+8'
 element: Fire
-fly_speed: null
 fortitude: '+36'
-hardness: null
 hp: '385'
 id: '491'
 immunity:
@@ -51,8 +48,6 @@ resistance:
 - electricity 22
 - physical 22
 - sonic 22
-rus_type_level: null
-school: null
 sense:
 - blindsight (precise) 120 feet
 - darkvision
@@ -65,12 +60,10 @@ speed:
 - 60 feet
 - burrow 40 feet
 - climb 60 feet
-spell: null
 strength: '+10'
 strength_req: '10'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Fire|Fire]]'

@@ -1,10 +1,7 @@
 ﻿---
 ac: '29'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Bullets of Vengeance
@@ -16,10 +13,7 @@ creature_ability:
 - Vendetta
 creature_family: '[[DATABASE/monsterfamily/Revenant|Revenant]]'
 dexterity: '+7'
-element: null
-fly_speed: null
 fortitude: '+19'
-hardness: null
 hp: 155 ( negative healing )
 id: '1893'
 immunity:
@@ -41,8 +35,6 @@ rarity: Rare
 reflex: '+21'
 resistance:
 - physical 10 (except slashing)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - sense murderer
@@ -54,12 +46,10 @@ skill:
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 speed:
 - 25 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Undead|Undead]]'
@@ -67,7 +57,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+15'
 wisdom: '+3'
 

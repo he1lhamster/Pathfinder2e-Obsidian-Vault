@@ -1,54 +1,16 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '2569'
 item_category: Materials
-item_subcategory: null
-land_speed: null
 level: '17'
-max_speed: null
 name: Keep Stone
-onset: null
 price: 9,000 gp (per Bulk)
-range: null
 rarity: Rare
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
-school: null
-size: null
 source: '[[DATABASE/source/Highhelm|Highhelm]]'
-spell: null
-stage: null
 subcategory: material
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Precious|Precious]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Item
-usage: null
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Keep Stone<span class="item-type">Item 0+</span>

@@ -1,10 +1,6 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Dodge Away
-frequency: null
-heighten_level: null
 id: '1875'
 level: '6'
 name: Dodge Away
@@ -12,10 +8,7 @@ prerequisite: '[[DATABASE/feat/Acrobat Dedication|Acrobat Dedication]]'
 rarity: Common
 requirement: You're aware of the attack and aren't [[DATABASE/condition/Flat-Footed|flat-footed]]
   .
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 trigger: You are the target of a melee attack.

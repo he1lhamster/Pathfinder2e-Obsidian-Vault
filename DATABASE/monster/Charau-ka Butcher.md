@@ -1,8 +1,6 @@
 ﻿---
 ac: '21'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
 climb_speed: '25'
 constitution: '+3'
@@ -15,13 +13,9 @@ creature_ability:
 - Thrown Weapon Mastery
 creature_family: '[[DATABASE/monsterfamily/Charau-ka|Charau-ka]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+16'
-hardness: null
 hp: '95'
 id: '1432'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -33,9 +27,6 @@ name: Charau-ka Butcher
 perception: '+13'
 rarity: Common
 reflex: '+12'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -50,12 +41,10 @@ source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
 speed:
 - 25 feet
 - climb 25 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Charau-ka|Charau-ka]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -63,7 +52,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+13'
 wisdom: '+1'
 

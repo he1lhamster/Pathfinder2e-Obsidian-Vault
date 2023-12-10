@@ -1,8 +1,6 @@
 ﻿---
 ac: '19'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+15'
 hardness: '13'
 hazard_type: Haunt
@@ -16,15 +14,10 @@ level: '5'
 name: Spectral Reflection
 rarity: Common
 reflex: '+10'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
 - '[[DATABASE/trait/Haunt|Haunt]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Spectral Reflection<span class="item-type">Hazard 5</span>

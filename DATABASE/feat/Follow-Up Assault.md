@@ -1,24 +1,15 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Follow-Up Assault
-frequency: null
-heighten_level: null
 id: '1614'
 level: '8'
 name: Follow-Up Assault
-prerequisite: null
 rarity: Common
 requirement: You used your previous action to make a melee Strike that missed.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Barbarian|Barbarian]]'
 - '[[DATABASE/trait/Rage|Rage]]'
-trigger: null
 type: Feat
 
 ---

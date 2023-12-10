@@ -1,11 +1,8 @@
 ﻿---
-element: null
 id: '102'
 item_category: Relics
 name: Against All Odds
-prerequisite: null
 rarity: Common
-rus_type_level: null
 school: Abjuration
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 trait:

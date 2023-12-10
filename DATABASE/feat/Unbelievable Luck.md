@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Unbelievable Luck
-frequency: null
-heighten_level: null
 id: '3276'
 level: '8'
 name: Unbelievable Luck
 prerequisite: '[[DATABASE/feat/Unexpected Sharpshooter Dedication|Unexpected Sharpshooter
   Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

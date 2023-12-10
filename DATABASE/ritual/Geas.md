@@ -1,8 +1,5 @@
 ﻿---
-area: null
-cost: null
 duration: see text
-element: null
 heighten: 5th, 7th, 9th
 heighten_level: 3, 5, 7, 9
 id: '12'
@@ -12,8 +9,6 @@ primary_check: '[[DATABASE/skill/Arcana|Arcana]] (expert), [[DATABASE/skill/Occu
   (expert), or [[DATABASE/skill/Religion|Religion]] (expert)'
 range: 10 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Enchantment
 secondary_casters: '1'
 secondary_check: '[[DATABASE/skill/Society|Society]] or [[DATABASE/skill/Lore|LegalLore]]'

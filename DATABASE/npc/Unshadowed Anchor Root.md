@@ -1,23 +1,16 @@
 ﻿---
 ac: '39'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Rupture Shadow
 - Shadow's Displeasure
 - Vesicated Shadow
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+30'
 hp: '270'
 id: '1807'
-immunity: null
 intelligence: '+5'
 land_speed: '25'
 language:
@@ -34,12 +27,10 @@ rarity: Unique
 reflex: '+27'
 resistance:
 - '[[DATABASE/trait/Acid|acid]] 20'
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
 size: Small
-skill: null
 source: '[[DATABASE/source/Pathfinder 174. Shadows of the Ancients|Pathfinder #174:
   Shadows of the Ancients]]'
 speed:
@@ -77,7 +68,6 @@ strength: '+2'
 strength_req: '2'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Gnoll|Gnoll]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -86,7 +76,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Reflex
-weakness: null
 will: '+33'
 wisdom: '+5'
 

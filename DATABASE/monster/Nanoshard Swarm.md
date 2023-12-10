@@ -1,10 +1,6 @@
 ﻿---
 ac: '28'
-alignment: null
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Barrier Form
@@ -14,9 +10,7 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Elemental, Metal|Elemental, Metal]]'
 dexterity: '+6'
 element: Metal
-fly_speed: null
 fortitude: '+17'
-hardness: null
 hp: '120'
 id: '2651'
 immunity:
@@ -41,8 +35,6 @@ resistance:
 - electricity 10
 - piercing 10
 - slashing 10
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Huge
@@ -55,12 +47,10 @@ speed:
 - none (barrier)
 - 15 feet (battle)
 - or 25 feet (swarm)
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Elemental|Elemental]]'
 - '[[DATABASE/trait/Metal|Metal]]'

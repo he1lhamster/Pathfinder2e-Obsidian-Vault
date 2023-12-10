@@ -1,10 +1,7 @@
 ﻿---
 ac: '16'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - A Taste for Skin
@@ -12,26 +9,19 @@ creature_ability:
 - Shuddering Skitter
 creature_family: '[[DATABASE/monsterfamily/Fleshforged|Fleshforged]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+6'
-hardness: null
 hp: '20'
 id: '2408'
 immunity:
 - '[[DATABASE/trait/Mental|mental]]'
 intelligence: '-5'
 land_speed: '20'
-language: null
 level: '1'
 max_speed: '20'
 name: Skinskitter
 perception: '+7'
 rarity: Common
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - a taste for skin (imprecise) 60 feet
 size: Small
@@ -43,7 +33,6 @@ source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 speed:
 - 20 feet
 - swim 20 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
@@ -54,7 +43,6 @@ trait:
 - '[[DATABASE/trait/Amphibious|Amphibious]]'
 - '[[DATABASE/trait/Mindless|Mindless]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
 weakness:

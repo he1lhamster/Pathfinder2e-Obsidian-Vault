@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Greater Spiritual Evolution
-frequency: null
-heighten_level: null
 id: '1826'
 level: '12'
 name: Greater Spiritual Evolution
 prerequisite: '[[DATABASE/feat/Divine Evolution|Divine Evolution]] or [[DATABASE/feat/Occult
   Evolution|Occult Evolution]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Sorcerer|Sorcerer]]'
-trigger: null
 type: Feat
 
 ---

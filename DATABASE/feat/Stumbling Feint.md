@@ -1,10 +1,5 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Stumbling Feint
-frequency: null
-heighten_level: null
 id: '1744'
 level: '6'
 name: Stumbling Feint
@@ -12,13 +7,9 @@ prerequisite: Expert in [[DATABASE/skill/Deception|Deception]] ; [[DATABASE/feat
   Stance|Stumbling Stance]]
 rarity: Common
 requirement: You are in Stumbling Stance.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Monk|Monk]]'
-trigger: null
 type: Feat
 
 ---

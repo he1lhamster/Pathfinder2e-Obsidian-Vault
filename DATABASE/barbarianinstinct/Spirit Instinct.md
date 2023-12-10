@@ -2,9 +2,7 @@
 id: '5'
 name: Spirit Instinct
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Barbarian Instinct
 
 ---

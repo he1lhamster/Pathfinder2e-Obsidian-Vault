@@ -1,28 +1,17 @@
 ﻿---
 actions: '[three-actions]'
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 10 minutes
-element: null
 heighten: 10th
 heighten_level: 6, 10
 id: '1088'
-lesson: null
 level: '6'
-mystery: null
 name: Temporal Ward
-patron_theme: null
 range: touch
 rarity: Rare
-requirement: null
-rus_type_level: null
 saving_throw: Will
 school: Abjuration
 source: '[[DATABASE/source/Pathfinder 173. Doorway to the Red Star|Pathfinder #173:
@@ -35,7 +24,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Spell
 
 ---

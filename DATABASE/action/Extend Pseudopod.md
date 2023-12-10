@@ -1,17 +1,9 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
-frequency: null
 id: '1652'
 name: Extend Pseudopod
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-trait: null
-trigger: null
 type: Action
 
 ---

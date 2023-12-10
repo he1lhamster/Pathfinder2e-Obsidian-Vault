@@ -1,10 +1,8 @@
 ﻿---
-element: null
 id: '33'
 level: '5'
 name: Unraveling Skin
 rarity: Rare
-rus_type_level: null
 saving_throw: DC 20 Fortitude
 school: Necromancy
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
@@ -14,7 +12,6 @@ trait:
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Curse
-usage: null
 
 ---
 # Unraveling Skin<span class="item-type">Curse 5</span>

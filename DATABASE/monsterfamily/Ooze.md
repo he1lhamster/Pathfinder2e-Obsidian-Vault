@@ -3,9 +3,7 @@ creature_family: Ooze
 id: '79'
 name: Ooze
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
-trait: null
 type: Creature Family
 
 ---

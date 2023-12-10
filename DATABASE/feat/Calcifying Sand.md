@@ -1,20 +1,12 @@
 ﻿---
 actions: '[reaction]'
-cost: null
 element: Earth
 feat: Calcifying Sand
-frequency: null
-heighten_level: null
 id: '4225'
 level: '4'
 name: Calcifying Sand
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Impulse|Impulse]]'

@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Intimidating Glare|Intimidating Glare]]'
 id: '35'
 name: Warrior
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Intimidation|Intimidation]]'
 - Warfare [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

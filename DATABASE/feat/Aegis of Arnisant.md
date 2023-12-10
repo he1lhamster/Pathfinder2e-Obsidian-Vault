@@ -1,10 +1,6 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Aegis of Arnisant
-frequency: null
-heighten_level: null
 id: '1095'
 level: '12'
 name: Aegis of Arnisant
@@ -12,13 +8,9 @@ prerequisite: '[[DATABASE/feat/Knight Vigilant|Knight Vigilant]] ; [[DATABASE/fe
   Block|Shield Block]] ; Master in [[DATABASE/skill/Religion|Religion]]'
 rarity: Common
 requirement: You are wielding a shield.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

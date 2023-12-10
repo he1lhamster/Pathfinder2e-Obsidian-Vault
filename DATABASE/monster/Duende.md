@@ -1,23 +1,16 @@
 ﻿---
 ac: '17'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Earthmound Dweller
 - Fool's Gold
-creature_family: null
 dexterity: '+3'
 element: Earth
-fly_speed: null
 fortitude: '+6'
-hardness: null
 hp: '35'
 id: '1139'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -30,9 +23,6 @@ name: Duende
 perception: '+7'
 rarity: Uncommon
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) 60 feet'
@@ -59,7 +49,6 @@ strength_req: '1'
 strongest_save:
 - Reflex
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Fey|Fey]]'
@@ -68,7 +57,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+9'
 wisdom: '+3'
 

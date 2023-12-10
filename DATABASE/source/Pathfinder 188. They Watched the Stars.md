@@ -2,9 +2,6 @@
 id: '194'
 name: Pathfinder 188. They Watched the Stars
 rarity: Common
-rus_type_level: null
-source: null
-trait: null
 type: Source
 
 ---

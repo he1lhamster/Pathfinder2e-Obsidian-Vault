@@ -1,9 +1,6 @@
 ﻿---
-area: null
 cost: fine surgical tools and rare preservative salts and fluids worth a total value
   of 100 gp
-duration: null
-element: null
 heighten: 8th, 9th
 heighten_level: 4, 8, 9
 id: '47'
@@ -12,10 +9,7 @@ name: Extract Brain
 primary_check: '[[DATABASE/skill/Occultism|Occultism]] (expert)'
 range: touch
 rarity: Rare
-requirement: null
-rus_type_level: null
 school: Necromancy
-secondary_casters: null
 secondary_check: '[[DATABASE/skill/Medicine|Medicine]]'
 source: '[[DATABASE/source/Malevolence|Malevolence]]'
 target: 1 Large or smaller creature or corpse

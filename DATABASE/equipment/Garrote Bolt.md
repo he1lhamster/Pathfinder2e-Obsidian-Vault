@@ -1,57 +1,22 @@
 ﻿---
-ac: null
 actions: '[one-action]'
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '888'
 item_category: Consumables
 item_subcategory: Magical Ammunition
-land_speed: null
 level: '15'
-max_speed: null
 name: Garrote Bolt
-onset: null
 price: 1,200 gp
-range: null
 rarity: Uncommon
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
-size: null
 source: '[[DATABASE/source/Pathfinder 161. Belly of the Black Whale|Pathfinder #161:
   Belly of the Black Whale]]'
-spell: null
-stage: null
 subcategory: consumable/magicalammunition
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Consumable|Consumable]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Item
-usage: null
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Garrote Bolt<span class="item-type">Item 15</span>

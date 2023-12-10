@@ -1,22 +1,15 @@
 ﻿---
 ac: '18'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Change Shape
 creature_family: '[[DATABASE/monsterfamily/Kitsune|Kitsune]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+6'
-hardness: null
 hp: '24'
 id: '1209'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -28,10 +21,6 @@ name: Kitsune Trickster
 perception: '+10'
 rarity: Common
 reflex: '+10'
-resistance: null
-rus_type_level: null
-school: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +8'
@@ -58,15 +47,12 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Kitsune|Kitsune]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+8'
 wisdom: '+2'
 

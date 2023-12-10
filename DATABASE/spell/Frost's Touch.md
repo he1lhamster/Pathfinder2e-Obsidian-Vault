@@ -1,37 +1,21 @@
 ﻿---
 actions: '[one-action]'
-area: null
-bloodline: null
-component: null
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
 heighten: 3rd, 5th, 7th, 9th
 heighten_level: 1, 3, 5, 7, 9
 id: '1274'
-lesson: null
 level: '1'
-mystery: null
 name: Frost's Touch
-patron_theme: null
 range: 30 feet
 rarity: Rare
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 target: 1 object
-tradition: null
 trait:
 - '[[DATABASE/trait/Arcane|Arcane]]'
 - '[[DATABASE/trait/Cantrip|Cantrip]]'
 - '[[DATABASE/trait/Cold|Cold]]'
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Cantrip
 
 ---

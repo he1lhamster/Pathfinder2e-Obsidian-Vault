@@ -1,25 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Assurance
-frequency: null
-heighten_level: null
 id: '756'
+leads_to: '[[DATABASE/feat/Automatic Knowledge|Automatic Knowledge]]'
 level: '1'
 name: Assurance
 prerequisite: trained in at least one skill
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fortune|Fortune]]'
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

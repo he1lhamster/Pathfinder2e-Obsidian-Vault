@@ -1,24 +1,15 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Whirling Blade Stance
-frequency: null
-heighten_level: null
 id: '1755'
 level: '14'
 name: Whirling Blade Stance
 prerequisite: '[[DATABASE/feat/Monastic Weaponry|Monastic Weaponry]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Monk|Monk]]'
 - '[[DATABASE/trait/Stance|Stance]]'
-trigger: null
 type: Feat
 
 ---

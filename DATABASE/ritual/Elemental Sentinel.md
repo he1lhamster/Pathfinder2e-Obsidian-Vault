@@ -1,9 +1,7 @@
 ﻿---
-area: null
 cost: precious metals, rare incense, and herbs worth a total value of 15 gp per spell
   level
 duration: unlimited
-element: null
 heighten: 4th, 6th
 heighten_level: 1, 4, 6
 id: '57'
@@ -11,13 +9,8 @@ level: '1'
 name: Elemental Sentinel
 primary_check: '[[DATABASE/skill/Arcana|Arcana]] (expert) or [[DATABASE/skill/Occultism|Occultism]]
   (expert)'
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Conjuration
-secondary_casters: null
-secondary_check: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 target: 1 object
 trait:

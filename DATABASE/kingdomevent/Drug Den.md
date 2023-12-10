@@ -3,7 +3,6 @@ id: '10'
 level: '1'
 name: Drug Den
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Intrigue|Intrigue]]'
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'

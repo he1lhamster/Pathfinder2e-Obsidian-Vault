@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Extend Elixir
-frequency: null
-heighten_level: null
 id: '113'
+leads_to: '[[DATABASE/feat/Eternal Elixir|Eternal Elixir]] , [[DATABASE/feat/Persistent
+  Mutagen|Persistent Mutagen]]'
 level: '12'
 name: Extend Elixir
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Alchemist|Alchemist]]'
-trigger: null
 type: Feat
 
 ---

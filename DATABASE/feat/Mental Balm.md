@@ -1,26 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Mental Balm
-frequency: null
-heighten_level: null
 id: '3660'
 level: '2'
 name: Mental Balm
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Amp|Amp]]'
 - '[[DATABASE/trait/Emotion|Emotion]]'
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Psychic|Psychic]]'
-trigger: null
 type: Feat
 
 ---

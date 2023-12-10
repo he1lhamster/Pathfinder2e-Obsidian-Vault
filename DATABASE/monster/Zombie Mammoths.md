@@ -1,22 +1,15 @@
 ﻿---
 ac: '18'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Dual Tusks
 - Grabbing Trunk
 - Impaling Tusks
 - Slow
-creature_family: null
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+18'
-hardness: null
 hp: 200 ( negative healing )
 id: '1789'
 immunity:
@@ -28,16 +21,12 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '45'
-language: null
 level: '8'
 max_speed: '45'
 name: Zombie Mammoths
 perception: '+13'
 rarity: Common
 reflex: '+10'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -48,12 +37,10 @@ source: '[[DATABASE/source/Pathfinder 176. Lost Mammoth Valley|Pathfinder #176: 
   Mammoth Valley]]'
 speed:
 - 45 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Mindless|Mindless]]'
 - '[[DATABASE/trait/Undead|Undead]]'

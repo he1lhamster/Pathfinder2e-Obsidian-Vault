@@ -1,8 +1,6 @@
 ﻿---
 bulk: '1'
 damage: 1d6 B
-deity: null
-favored_weapon: null
 hands: '1'
 id: '52'
 item_category: Weapons
@@ -10,9 +8,7 @@ item_subcategory: Base Weapons
 level: '0'
 name: Gnome Hooked Hammer
 price: 2 gp
-range: null
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Gnome|Gnome]]'

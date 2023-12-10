@@ -1,10 +1,7 @@
 ﻿---
 ac: '21'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Aquatic Ambush
@@ -13,25 +10,17 @@ creature_ability:
 - Trample
 creature_family: '[[DATABASE/monsterfamily/Hippopotamus|Hippopotamus]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+15'
-hardness: null
 hp: '85'
 id: '699'
-immunity: null
 intelligence: '-4'
 land_speed: '25'
-language: null
 level: '5'
 max_speed: '25'
 name: Hippopotamus
 perception: '+11'
 rarity: Common
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Scent|scent (imprecise) 30 feet]]'
@@ -44,7 +33,6 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 25 feet
 - swim 20 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
@@ -56,7 +44,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Reflex
-weakness: null
 will: '+11'
 wisdom: '+4'
 

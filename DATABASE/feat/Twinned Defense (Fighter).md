@@ -1,24 +1,16 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Twinned Defense (Fighter)
-frequency: null
-heighten_level: null
 id: '425'
 level: '16'
 name: Twinned Defense (Fighter)
 prerequisite: '[[DATABASE/feat/Twin Parry|Twin Parry]]'
 rarity: Common
 requirement: You are wielding two melee weapons, one in each hand.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fighter|Fighter]]'
 - '[[DATABASE/trait/Stance|Stance]]'
-trigger: null
 type: Feat
 
 ---

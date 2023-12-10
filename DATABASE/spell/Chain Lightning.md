@@ -1,32 +1,21 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Dagon|Dagon]]'
 - '[[DATABASE/deity/Hei Feng|HeiFeng]]'
 - '[[DATABASE/deity/Ranginori|Ranginori]]'
 - '[[DATABASE/deity/Ranginori|Ranginori]]'
 - '[[DATABASE/deity/Vineshvakhi|Vineshvakhi]]'
-domain: null
-duration: null
-element: null
 heighten: '+1'
 heighten_level: 6, 7, 8, 9, 10
 id: '33'
-lesson: null
 level: '6'
-mystery: null
 name: Chain Lightning
-patron_theme: null
 range: 500 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Reflex
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -37,7 +26,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Electricity|Electricity]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
-trigger: null
 type: Spell
 
 ---

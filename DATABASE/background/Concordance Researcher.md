@@ -5,13 +5,9 @@ ability:
 ability_boost:
 - Intelligence
 - Wisdom
-feat: null
 id: '382'
 name: Concordance Researcher
-prerequisite: null
 rarity: Uncommon
-rus_type_level: null
-skill: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: general
 trait:

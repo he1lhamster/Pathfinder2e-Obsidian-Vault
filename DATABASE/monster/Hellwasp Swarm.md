@@ -1,10 +1,7 @@
 ﻿---
 ac: '24'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Abandon Corpse
@@ -12,12 +9,9 @@ creature_ability:
 - Hellwasp Venom
 - Infest Corpse
 - Torturous Buzz
-creature_family: null
 dexterity: '+4'
-element: null
 fly_speed: '40'
 fortitude: '+18'
-hardness: null
 hp: '95'
 id: '1191'
 immunity:
@@ -38,8 +32,6 @@ resistance:
 - fire 10
 - piercing 10
 - slashing 5
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -49,12 +41,10 @@ skill:
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 20 feet; fly 40 feet
-spell: null
 strength: '+0'
 strength_req: '0'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fiend|Fiend]]'
 - '[[DATABASE/trait/Swarm|Swarm]]'

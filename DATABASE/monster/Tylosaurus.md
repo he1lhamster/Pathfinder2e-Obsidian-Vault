@@ -1,10 +1,7 @@
 ﻿---
 ac: '27'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Aquatic Drag
@@ -13,25 +10,17 @@ creature_ability:
 - Vicious Strafe
 creature_family: '[[DATABASE/monsterfamily/Mosasaur|Mosasaur]]'
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+17'
-hardness: null
 hp: '137'
 id: '1239'
-immunity: null
 intelligence: '-4'
 land_speed: '5'
-language: null
 level: '8'
 max_speed: '80'
 name: Tylosaurus
 perception: '+18'
 rarity: Common
 reflex: '+19'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -43,7 +32,6 @@ source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 5 feet
 - swim 80 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
@@ -55,7 +43,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+14'
 wisdom: '+4'
 

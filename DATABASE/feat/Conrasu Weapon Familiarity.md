@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Conrasu Weapon Familiarity
-frequency: null
-heighten_level: null
 id: '2778'
 level: '1'
 name: Conrasu Weapon Familiarity
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Conrasu|Conrasu]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,8 +1,6 @@
 ﻿---
 ac: '22'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
 climb_speed: '25'
 constitution: '+4'
@@ -12,12 +10,9 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Nymph|Nymph]]'
 dexterity: '+5'
 element: Earth
-fly_speed: null
 fortitude: '+11'
-hardness: null
 hp: '85'
 id: '1249'
-immunity: null
 intelligence: '+2'
 land_speed: '25'
 language:
@@ -31,9 +26,6 @@ name: Lampad
 perception: '+12'
 rarity: Common
 reflex: '+14'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -61,7 +53,6 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Fey|Fey]]'

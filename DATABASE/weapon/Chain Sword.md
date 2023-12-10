@@ -1,8 +1,6 @@
 ﻿---
 bulk: '1'
 damage: 1d6 S
-deity: null
-favored_weapon: null
 hands: '1'
 id: '276'
 item_category: Weapons
@@ -10,9 +8,7 @@ item_subcategory: Base Weapons
 level: '0'
 name: Chain Sword
 price: 6 gp
-range: null
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 trait:
 - '[[DATABASE/trait/Finesse|Finesse]]'

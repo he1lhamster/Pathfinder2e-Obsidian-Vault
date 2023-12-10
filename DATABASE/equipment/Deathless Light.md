@@ -1,57 +1,23 @@
 ﻿---
-ac: null
 actions: '[one-action]'
-alignment: null
-base_item: null
 bulk: L
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '1452'
 item_category: Consumables
 item_subcategory: Spell Catalysts
-land_speed: null
 level: '10'
-max_speed: null
 name: Deathless Light
-onset: null
 price: 165 gp
-range: null
 rarity: Uncommon
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
-school: null
-size: null
 source: '[[DATABASE/source/Pathfinder 172. Secrets of the Temple City|Pathfinder #172:
   Secrets of the Temple City]]'
-spell: null
-stage: null
 subcategory: consumable/spellcatalycyst
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Catalyst|Catalyst]]'
 - '[[DATABASE/trait/Consumable|Consumable]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Item
 usage: held in 1 hand
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Deathless Light<span class="item-type">Item 10</span>

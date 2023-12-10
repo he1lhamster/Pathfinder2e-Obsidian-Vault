@@ -12,9 +12,7 @@ level: '0'
 name: Quilted Armor
 price: 3 gp
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-speed_penalty: null
 strength: '+12'
 strength_req: '12'
 trait:

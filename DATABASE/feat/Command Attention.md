@@ -1,20 +1,13 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Command Attention
-frequency: null
-heighten_level: null
 id: '1934'
 level: '10'
 name: Command Attention
 prerequisite: '[[DATABASE/feat/Celebrity Dedication|Celebrity Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Enchantment
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Auditory|Auditory]]'
@@ -22,7 +15,6 @@ trait:
 - '[[DATABASE/trait/Enchantment|Enchantment]]'
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Visual|Visual]]'
-trigger: null
 type: Feat
 
 ---

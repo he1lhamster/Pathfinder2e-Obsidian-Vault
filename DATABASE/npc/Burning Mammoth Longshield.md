@@ -1,24 +1,17 @@
 ﻿---
 ac: '15'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Opportunistic Defense
 - Shield Block
 - Shield Shove
 - Spurred by Death
-creature_family: null
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+10'
 hp: '20'
 id: '1763'
-immunity: null
 intelligence: '+0'
 land_speed: '20'
 language:
@@ -29,9 +22,6 @@ name: Burning Mammoth Longshield
 perception: '+8'
 rarity: Uncommon
 reflex: '+4'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +6'
@@ -41,21 +31,17 @@ source: '[[DATABASE/source/Pathfinder 175. Broken Tusk Moon|Pathfinder #175: Bro
   Tusk Moon]]'
 speed:
 - 20 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+8'
 wisdom: '+1'
 

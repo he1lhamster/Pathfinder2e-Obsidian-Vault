@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Summon Fiendish Kin
-frequency: null
-heighten_level: null
 id: '1394'
 level: '13'
 name: Summon Fiendish Kin
 prerequisite: any tiefling [[DATABASE/trait/Lineage|lineage]] feat
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Tiefling|Tiefling]]'
-trigger: null
 type: Feat
 
 ---

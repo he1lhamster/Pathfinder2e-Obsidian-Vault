@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Hefty Hauler|Hefty Hauler]]'
 id: '23'
 name: Laborer
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]]'
 - Labor [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

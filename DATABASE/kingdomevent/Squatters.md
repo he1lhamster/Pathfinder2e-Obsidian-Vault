@@ -3,7 +3,6 @@ id: '35'
 level: '-1'
 name: Squatters
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Politics|Politics]]'
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'

@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Analyze Information
-frequency: null
-heighten_level: null
 id: '2483'
 level: '9'
 name: Analyze Information
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Aphorite|Aphorite]]'
-trigger: null
 type: Feat
 
 ---

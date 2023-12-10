@@ -1,8 +1,6 @@
 ﻿---
 ac: '24'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
 climb_speed: '25'
 constitution: '+4'
@@ -14,12 +12,8 @@ creature_ability:
 - Shifting Scuttle
 - Vulnerable to Positive
 - Energy
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+14'
-hardness: null
 hp: '100'
 id: '1953'
 immunity:
@@ -49,9 +43,6 @@ name: Scarecophagus
 perception: '+14'
 rarity: Rare
 reflex: '+10'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - magic sense (imprecise) 30 feet
@@ -80,7 +71,6 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Rare|Rare]]'
@@ -88,7 +78,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+16'
 wisdom: '+4'
 

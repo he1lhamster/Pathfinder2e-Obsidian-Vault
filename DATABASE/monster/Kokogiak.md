@@ -1,10 +1,7 @@
 ﻿---
 ac: '33'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Attack of Opportunity
@@ -14,15 +11,10 @@ creature_ability:
 - Trackless Step
 - Voice
 - Imitation
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+25'
-hardness: null
 hp: '215'
 id: '1210'
-immunity: null
 intelligence: '+1'
 land_speed: '40'
 language:
@@ -36,8 +28,6 @@ rarity: Common
 reflex: '+19'
 resistance:
 - cold 15
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 60 feet'
@@ -51,7 +41,6 @@ source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 40 feet
 - swim 20 feet; trackless step
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
@@ -63,7 +52,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+21'
 wisdom: '+5'
 

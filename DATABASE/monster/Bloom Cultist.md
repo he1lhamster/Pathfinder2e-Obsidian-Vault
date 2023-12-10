@@ -1,22 +1,14 @@
 ﻿---
 ac: '22'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Absorb the Bloom
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+11'
-hardness: null
 hp: '75'
 id: '2296'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -28,10 +20,6 @@ name: Bloom Cultist
 perception: '+13'
 rarity: Rare
 reflex: '+12'
-resistance: null
-rus_type_level: null
-school: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Deception|Deception]] +11'
@@ -59,16 +47,13 @@ strength: '+3'
 strength_req: '3'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+15'
 wisdom: '+4'
 

@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Constant Gaze
-frequency: null
-heighten_level: null
 id: '2812'
 level: '9'
 name: Constant Gaze
 prerequisite: '[[DATABASE/feat/Watchful Gaze|Watchful Gaze]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Goloma|Goloma]]'
-trigger: null
 type: Feat
 
 ---

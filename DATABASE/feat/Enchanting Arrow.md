@@ -1,27 +1,19 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Enchanting Arrow
-frequency: null
-heighten_level: null
 id: '1962'
 level: '8'
 name: Enchanting Arrow
 prerequisite: '[[DATABASE/feat/Eldritch Archer Dedication|Eldritch Archer Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Enchantment
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Emotion|Emotion]]'
 - '[[DATABASE/trait/Enchantment|Enchantment]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Mental|Mental]]'
-trigger: null
 type: Feat
 
 ---

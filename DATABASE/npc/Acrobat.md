@@ -1,10 +1,7 @@
 ﻿---
 ac: '18'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Cat Fall
@@ -14,12 +11,9 @@ creature_ability:
 - Swinging Strike
 creature_family: '[[DATABASE/monsterfamily/Performers|Performers]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+8'
 hp: '28'
 id: '940'
-immunity: null
 intelligence: '+1'
 land_speed: '30'
 language:
@@ -30,9 +24,6 @@ name: Acrobat
 perception: '+6'
 rarity: Common
 reflex: '+12'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +15'
@@ -44,20 +35,16 @@ skill:
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 speed:
 - 30 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+4'
 wisdom: '+0'
 

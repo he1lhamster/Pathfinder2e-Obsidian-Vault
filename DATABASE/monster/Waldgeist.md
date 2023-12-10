@@ -2,9 +2,7 @@
 ac: '26'
 alignment: NE
 all_resistance: '5'
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Forest Guardian
@@ -13,10 +11,8 @@ creature_ability:
 - Woodland Dependent
 creature_family: '[[DATABASE/monsterfamily/Verdorite|Verdorite]]'
 dexterity: '+6'
-element: null
 fly_speed: '30'
 fortitude: '+13'
-hardness: null
 hp: 100 ( negative healing )
 id: '1913'
 immunity:
@@ -27,7 +23,6 @@ immunity:
 - precision
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '+3'
-land_speed: null
 language:
 - '[[DATABASE/language/Arboreal|Arboreal]]'
 - '[[DATABASE/language/Common|Common]]'
@@ -44,8 +39,6 @@ resistance:
 - '[[DATABASE/equipment/Ghost Touch|ghost touch]]'
 - or [[DATABASE/trait/Positive|positive]] ; double resistance vs. non- [[DATABASE/trait/Magical|magical]]
   )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -68,7 +61,6 @@ strength: '-5'
 strength_req: '-5'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Incorporeal|Incorporeal]]'
 - '[[DATABASE/trait/Spirit|Spirit]]'
@@ -78,7 +70,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+18'
 wisdom: '+6'
 

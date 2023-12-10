@@ -1,54 +1,13 @@
 ﻿---
-ac: '16'
-actions: null
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: '+12'
-frequency: null
-hands: null
-hardness: '5'
-hp: '60'
+hands: '1'
 id: '26'
-item_category: Vehicles
-item_subcategory: null
-land_speed: '20'
-level: '5'
-max_speed: '20'
+item_category: Adventuring Gear
+level: '0'
 name: Holly and Mistletoe
-onset: null
-price: 450 gp
-range: null
-rarity: Uncommon
-reflex: null
-requirement: null
-resistance:
-- electricity 10
-rus_type_level: null
-saving_throw: null
-school: null
-size: Large
+rarity: Common
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-spell: null
-stage: null
 subcategory: adventuringgear
-swim_speed: null
-trait:
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
-type: Vehicle
-usage: null
-weapon_category: null
-weapon_group: null
-weapon_type: null
+type: Item
 
 ---
 # Holly and Mistletoe<span class="item-type">Item 0</span>

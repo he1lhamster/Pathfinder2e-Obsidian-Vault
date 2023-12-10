@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Shared Stratagem
-frequency: null
-heighten_level: null
 id: '1454'
+leads_to: '[[DATABASE/feat/Didactic Strike|Didactic Strike]]'
 level: '2'
 name: Shared Stratagem
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Investigator|Investigator]]'
-trigger: null
 type: Feat
 
 ---

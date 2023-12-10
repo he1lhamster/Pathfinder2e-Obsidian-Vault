@@ -2,13 +2,11 @@
 id: '4'
 name: Fervor
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Religion|Religion]]'
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 tradition:
 - Divine
-trait: null
 type: Witch Patron Theme
 
 ---

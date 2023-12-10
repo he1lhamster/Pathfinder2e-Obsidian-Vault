@@ -1,31 +1,17 @@
 ﻿---
 actions: '[reaction]'
-area: null
 bloodline: '[[DATABASE/sorcererbloodline/Imperial|Imperial]]'
 component:
 - Somatic
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
-heighten: null
 heighten_level: '5'
 id: '496'
-lesson: null
 level: '5'
-mystery: null
 name: Arcane Countermeasure
-patron_theme: null
 range: 120 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: the spell cast by the triggering creature
-tradition: null
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Sorcerer|Sorcerer]]'

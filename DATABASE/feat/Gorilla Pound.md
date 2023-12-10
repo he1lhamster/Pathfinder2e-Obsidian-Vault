@@ -1,10 +1,6 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Gorilla Pound
-frequency: null
-heighten_level: null
 id: '1741'
 level: '6'
 name: Gorilla Pound
@@ -12,16 +8,12 @@ prerequisite: Expert in [[DATABASE/skill/Intimidation|Intimidation]] ; [[DATABAS
   Stance|Gorilla Stance]]
 rarity: Common
 requirement: You are in Gorilla Stance.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Emotion|Emotion]]'
 - '[[DATABASE/trait/Flourish|Flourish]]'
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Monk|Monk]]'
-trigger: null
 type: Feat
 
 ---

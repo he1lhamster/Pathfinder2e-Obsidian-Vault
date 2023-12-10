@@ -5,7 +5,6 @@ name: Hearty Purple Soup
 price: 500 gp
 rarity: Rare
 requirement: legendary in [[DATABASE/skill/Nature|Nature]]
-rus_type_level: null
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
 trait:
 - '[[DATABASE/trait/Meal|Meal]]'

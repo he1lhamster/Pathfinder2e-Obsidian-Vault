@@ -1,8 +1,6 @@
 ﻿---
 ac: '20'
 alignment: CG
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
 climb_speed: '25'
 constitution: '+0'
@@ -12,13 +10,9 @@ creature_ability:
 - Spin Silk
 creature_family: '[[DATABASE/monsterfamily/Anadi|Anadi]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+8'
-hardness: null
 hp: '58'
 id: '1423'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -30,10 +24,6 @@ name: Anadi Sage
 perception: '+12'
 rarity: Uncommon
 reflex: '+11'
-resistance: null
-rus_type_level: null
-school: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +12'
@@ -60,16 +50,13 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Anadi|Anadi]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+14'
 wisdom: '+4'
 

@@ -1,20 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
-frequency: null
 id: '1393'
 name: Irrigation
 rarity: Common
 requirement: You control a hex adjacent to a river or lake that itself does not contain
   a river or lake.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
 - '[[DATABASE/trait/Downtime|Downtime]]'
 - '[[DATABASE/trait/Region|Region]]'
-trigger: null
 type: Action
 
 ---

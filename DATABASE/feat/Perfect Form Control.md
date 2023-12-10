@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Perfect Form Control
-frequency: null
-heighten_level: null
 id: '351'
 level: '18'
 name: Perfect Form Control
 prerequisite: '[[DATABASE/feat/Form Control|Form Control]] ; Strength 18'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Druid|Druid]]'
-trigger: null
 type: Feat
 
 ---

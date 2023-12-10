@@ -1,8 +1,6 @@
 ﻿---
 bulk: '1'
 damage: 1d6 B
-deity: null
-favored_weapon: null
 hands: '1'
 id: '168'
 item_category: Weapons
@@ -10,9 +8,7 @@ item_subcategory: Base Weapons
 level: '0'
 name: Fighting Stick
 price: 5 sp
-range: null
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
 trait:
 - '[[DATABASE/trait/Backswing|Backswing]]'

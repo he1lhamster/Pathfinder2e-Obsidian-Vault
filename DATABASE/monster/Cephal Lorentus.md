@@ -1,19 +1,12 @@
 ﻿---
 ac: '28'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Feasting Bite
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+15'
-hardness: null
 hp: 140 ( negative healing )
 id: '2306'
 immunity:
@@ -39,8 +32,6 @@ reflex: '+15'
 resistance:
 - bludgeoning 10
 - piercing 10
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -79,7 +70,6 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Undead|Undead]]'
 - '[[DATABASE/trait/Unique|Unique]]'
@@ -88,7 +78,6 @@ vision: Darkvision
 weakest_save:
 - Fortitude
 - Reflex
-weakness: null
 will: '+21'
 wisdom: '+2'
 

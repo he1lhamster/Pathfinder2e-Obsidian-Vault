@@ -1,25 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Armor Assist
-frequency: null
-heighten_level: null
 id: '2109'
 level: '1'
 name: Armor Assist
 prerequisite: Trained in [[DATABASE/skill/Athletics|Athletics]] or Trained in [[DATABASE/skill/Lore|Warfare
   Lore]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: athletics
 trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

@@ -25,12 +25,10 @@ follower_alignment:
 id: '109'
 name: Findeladlara
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Crafting|Crafting]]'
 source: '[[DATABASE/source/Pathfinder 189. Dreamers of the Nameless Spires|Pathfinder
   #189: Dreamers of the Nameless Spires]]'
-trait: null
 type: Deity
 
 ---

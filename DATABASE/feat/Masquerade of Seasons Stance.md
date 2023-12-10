@@ -1,27 +1,18 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Masquerade of Seasons Stance
-frequency: null
-heighten_level: null
 id: '4044'
+leads_to: '[[DATABASE/feat/Grand Dance|Grand Dance]] , [[DATABASE/feat/Pirouette|Pirouette]]'
 level: '4'
 name: Masquerade of Seasons Stance
-prerequisite: null
 rarity: Rare
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Bard|Bard]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Rogue|Rogue]]'
 - '[[DATABASE/trait/Stance|Stance]]'
 - '[[DATABASE/trait/Swashbuckler|Swashbuckler]]'
-trigger: null
 type: Feat
 
 ---

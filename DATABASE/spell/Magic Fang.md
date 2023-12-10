@@ -1,11 +1,8 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Angazhan|Angazhan]]'
 - '[[DATABASE/deity/Angazhan|Angazhan]]'
@@ -16,22 +13,13 @@ deity:
 - '[[DATABASE/deity/Rowdrosh|Rowdrosh]]'
 - '[[DATABASE/deity/Ydersius|Ydersius]]'
 - '[[DATABASE/deity/Zevgavizeb|Zevgavizeb]]'
-domain: null
 duration: 1 minute
-element: null
-heighten: null
 heighten_level: '1'
 id: '179'
-lesson: null
 level: '1'
-mystery: null
 name: Magic Fang
-patron_theme: null
 range: touch
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: 1 willing creature
@@ -39,7 +27,6 @@ tradition:
 - Primal
 trait:
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Spell
 
 ---

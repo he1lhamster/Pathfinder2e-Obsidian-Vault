@@ -1,23 +1,16 @@
 ﻿---
 ac: '32'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Damsel Act
 - Quickened Casting
 - Signature Spells
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+19'
 hp: '145'
 id: '2314'
-immunity: null
 intelligence: '+2'
 land_speed: '30'
 language:
@@ -29,9 +22,6 @@ name: Quintessa Maray
 perception: '+20'
 rarity: Unique
 reflex: '+23'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +19'
@@ -73,16 +63,13 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+20'
 wisdom: '+3'
 

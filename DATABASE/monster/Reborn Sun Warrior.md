@@ -1,22 +1,16 @@
 ﻿---
 ac: '31'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Burning Sacrifice
 - Constrict
 - Knocking Sweep
 - Pinning Thrust
-creature_family: null
 dexterity: '+4'
 element: Fire
-fly_speed: null
 fortitude: '+24'
-hardness: null
 hp: 245 ( negative healing )
 id: '1698'
 immunity:
@@ -39,8 +33,6 @@ reflex: '+21'
 resistance:
 - '[[DATABASE/trait/Fire|fire]] 10'
 - '[[DATABASE/trait/Mental|mental]] 10'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -64,7 +56,6 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fire|Fire]]'
 - '[[DATABASE/trait/Rare|Rare]]'
@@ -73,7 +64,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+18'
 wisdom: '+2'
 

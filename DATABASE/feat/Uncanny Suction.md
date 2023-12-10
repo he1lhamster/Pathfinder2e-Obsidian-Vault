@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Uncanny Suction
-frequency: null
-heighten_level: null
 id: '2191'
 level: '12'
 name: Uncanny Suction
 prerequisite: '[[DATABASE/feat/Oozemorph Dedication|Oozemorph Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/The Slithering|The Slithering]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

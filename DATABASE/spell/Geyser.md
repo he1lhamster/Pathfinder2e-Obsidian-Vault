@@ -1,31 +1,21 @@
 ﻿---
 actions: '[two-actions]'
 area: 10-foot radius, 50-foot-tall cylinder
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 1 round
 element: Fire, Water
 heighten: '+1'
 heighten_level: 5, 6, 7, 8, 9, 10
 id: '918'
-lesson: null
 level: '5'
-mystery: null
 name: Geyser
-patron_theme: null
 range: 500 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Reflex
 school: Evocation
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-target: null
 tradition:
 - Arcane
 - Primal
@@ -33,7 +23,6 @@ trait:
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Fire|Fire]]'
 - '[[DATABASE/trait/Water|Water]]'
-trigger: null
 type: Spell
 
 ---

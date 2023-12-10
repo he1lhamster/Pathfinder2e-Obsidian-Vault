@@ -6,7 +6,6 @@ prerequisite: spellcasting class feature; [[DATABASE/feat/Hellknight Armiger Ded
   Armiger Dedication]] ;lawful alignment; member of a Hellknight Order; passed the
   Hellknight Test
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

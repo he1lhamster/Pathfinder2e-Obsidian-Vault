@@ -1,23 +1,16 @@
 ﻿---
 ac: '16'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Snake Search
 - Speak With Snakes
 creature_family: '[[DATABASE/monsterfamily/Stheno|Stheno]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+8'
-hardness: null
 hp: '19'
 id: '1327'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -28,10 +21,6 @@ name: Stheno Harpist
 perception: '+4'
 rarity: Rare
 reflex: '+7'
-resistance: null
-rus_type_level: null
-school: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Crafting|Crafting]] +4'
@@ -54,16 +43,13 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Stheno|Stheno]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+4'
 wisdom: '-1'
 

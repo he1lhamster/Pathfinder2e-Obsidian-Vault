@@ -3,9 +3,7 @@ favored_weapon: '[[DATABASE/weapon/Glaive|Glaive]]'
 id: '5'
 name: Order of the Pyre
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-trait: null
 type: Hellknight Order
 
 ---

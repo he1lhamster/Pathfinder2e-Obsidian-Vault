@@ -1,10 +1,7 @@
 ﻿---
 ac: '33'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Athach Venom
@@ -12,15 +9,10 @@ creature_ability:
 - Catch Rock
 - Swift Claw
 - Throw Rock
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+25'
-hardness: null
 hp: '250'
 id: '556'
-immunity: null
 intelligence: '-1'
 land_speed: '40'
 language:
@@ -31,9 +23,6 @@ name: Athach
 perception: '+22'
 rarity: Common
 reflex: '+20'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Huge
@@ -43,12 +32,10 @@ skill:
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 40 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Giant|Giant]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'

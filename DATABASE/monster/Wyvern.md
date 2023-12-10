@@ -1,10 +1,7 @@
 ﻿---
 ac: '24'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Attack of Opportunity
@@ -14,10 +11,8 @@ creature_ability:
 - Wyvern Poison
 creature_family: '[[DATABASE/monsterfamily/Drake|Drake]]'
 dexterity: '+2'
-element: null
 fly_speed: '60'
 fortitude: '+16'
-hardness: null
 hp: '95'
 id: '162'
 immunity:
@@ -33,9 +28,6 @@ name: Wyvern
 perception: '+13'
 rarity: Common
 reflex: '+12'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - scent (imprecise) 30 feet
@@ -48,19 +40,16 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 20 feet
 - fly 60 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dragon|Dragon]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+13'
 wisdom: '+3'
 

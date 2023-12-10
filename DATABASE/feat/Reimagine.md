@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Reimagine
-frequency: null
-heighten_level: null
 id: '3979'
 level: '13'
 name: Reimagine
 prerequisite: '[[DATABASE/feat/Transcendent Realization|Transcendent Realization]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Kashrishi|Kashrishi]]'
-trigger: null
 type: Feat
 
 ---

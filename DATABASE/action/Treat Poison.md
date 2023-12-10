@@ -1,19 +1,13 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
-frequency: null
 id: '56'
 name: Treat Poison
 rarity: Common
 requirement: You are holding [[DATABASE/equipment/Healer's Tools|healer's tools]]
   , or you are wearing themand have a hand free
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
-trigger: null
 type: Action
 
 ---

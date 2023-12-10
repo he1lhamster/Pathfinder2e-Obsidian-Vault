@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Eternal Elixir
-frequency: null
-heighten_level: null
 id: '119'
 level: '16'
 name: Eternal Elixir
 prerequisite: '[[DATABASE/feat/Extend Elixir|Extend Elixir]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Alchemist|Alchemist]]'
-trigger: null
 type: Feat
 
 ---

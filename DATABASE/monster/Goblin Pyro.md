@@ -1,22 +1,15 @@
 ﻿---
 ac: '17'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Goblin Scuttle
 creature_family: '[[DATABASE/monsterfamily/Goblin|Goblin]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+5'
-hardness: null
 hp: '15'
 id: '234'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -28,9 +21,6 @@ name: Goblin Pyro
 perception: '+4'
 rarity: Common
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Small
@@ -52,7 +42,6 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Goblin|Goblin]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -60,7 +49,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+4'
 wisdom: '-1'
 

@@ -1,8 +1,6 @@
 ﻿---
 ac: '45'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
 climb_speed: '30'
 constitution: '+6'
@@ -11,12 +9,8 @@ creature_ability:
 - Dimensional Tether
 - Hostile Juxtaposition
 - Redirect Portal
-creature_family: null
 dexterity: '+7'
-element: null
-fly_speed: null
 fortitude: '+30'
-hardness: null
 hp: '380'
 id: '493'
 immunity:
@@ -43,8 +37,6 @@ reflex: '+33'
 resistance:
 - cold 15
 - physical 10 (except cold iron)
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Large
@@ -68,7 +60,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Astral|Astral]]'
@@ -77,7 +68,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+36'
 wisdom: '+8'
 

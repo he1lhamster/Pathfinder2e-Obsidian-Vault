@@ -1,28 +1,18 @@
 ﻿---
 ac: '19'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+9'
-hardness: null
 hazard_type: Trap
-hp: null
 id: '30'
-immunity: null
 level: '3'
 name: Web Lurker Deadfall
 rarity: Common
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait:
 - '[[DATABASE/trait/Mechanical|Mechanical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Web Lurker Deadfall<span class="item-type">Hazard 3</span>

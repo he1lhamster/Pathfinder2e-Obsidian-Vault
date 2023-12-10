@@ -1,20 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Shed Tail
-frequency: null
-heighten_level: null
 id: '1060'
 level: '5'
 name: Shed Tail
 prerequisite: '[[DATABASE/feat/Tail Whip|Tail Whip]]'
 rarity: Common
 requirement: You have a fully grown tail.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Lizardfolk|Lizardfolk]]'
 trigger: You become [[DATABASE/condition/Grabbed|grabbed]] .

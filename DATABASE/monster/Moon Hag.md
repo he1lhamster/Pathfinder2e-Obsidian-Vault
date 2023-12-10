@@ -1,10 +1,7 @@
 ﻿---
 ac: '29'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Coven
@@ -14,10 +11,7 @@ creature_ability:
 - Rend
 creature_family: '[[DATABASE/monsterfamily/Hag|Hag]]'
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+17'
-hardness: null
 hp: '190'
 id: '1189'
 immunity:
@@ -34,9 +28,6 @@ name: Moon Hag
 perception: '+22'
 rarity: Uncommon
 reflex: '+19'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -59,7 +50,6 @@ strength: '+7'
 strength_req: '7'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fiend|Fiend]]'
 - '[[DATABASE/trait/Hag|Hag]]'
@@ -69,7 +59,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+22'
 wisdom: '+6'
 

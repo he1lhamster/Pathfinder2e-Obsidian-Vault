@@ -1,10 +1,7 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Eerie Proclamation
 frequency: once per hour
-heighten_level: null
 id: '3767'
 level: '10'
 name: Eerie Proclamation
@@ -12,10 +9,8 @@ prerequisite: Expert in [[DATABASE/skill/Occultism|Occultism]] ; Expert in [[DAT
 rarity: Uncommon
 requirement: You must be in either natural terrain or in abandoned or relatively unused
   artificial terrain (suchas a darkened alley or haunted house).
-rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Auditory|Auditory]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
@@ -27,7 +22,6 @@ trait:
 - '[[DATABASE/trait/Primal|Primal]]'
 - '[[DATABASE/trait/Ranger|Ranger]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

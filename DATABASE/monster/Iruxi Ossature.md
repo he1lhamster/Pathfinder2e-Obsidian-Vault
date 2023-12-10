@@ -1,22 +1,15 @@
 ﻿---
 ac: '22'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Fossil Fury
 - Terrain Advantage
 - Totems of the Past
 - Twilight Spirit
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+15'
-hardness: null
 hp: 76 (twilight spirit)
 id: '1874'
 immunity:
@@ -37,9 +30,6 @@ name: Iruxi Ossature
 perception: '+13'
 rarity: Common
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Lifesense|lifesense]] 30 feet'
@@ -52,7 +42,6 @@ source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 speed:
 - 20 feet
 - swim 10 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
@@ -65,7 +54,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+13'
 wisdom: '+2'
 

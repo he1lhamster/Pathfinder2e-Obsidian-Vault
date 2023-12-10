@@ -1,10 +1,7 @@
 ﻿---
 ac: '19'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Aquatic Opportunity
@@ -12,27 +9,18 @@ creature_ability:
 - Blood Scent
 - Roar
 - Shift Form
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+9'
-hardness: null
 hp: '45'
 id: '62'
-immunity: null
 intelligence: '-4'
 land_speed: '10'
-language: null
 level: '3'
 max_speed: '40'
 name: Bunyip
 perception: '+10'
 rarity: Common
 reflex: '+12'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - blood scent
 - darkvision
@@ -46,7 +34,6 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 10 feet
 - swim 40 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
@@ -59,7 +46,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+6'
 wisdom: '+1'
 

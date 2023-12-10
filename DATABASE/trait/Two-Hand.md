@@ -2,7 +2,6 @@
 id: '198'
 name: Two-Hand
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - Two-Hand

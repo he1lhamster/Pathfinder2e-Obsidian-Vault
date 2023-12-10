@@ -8,16 +8,13 @@ ability_boost:
 feat: '[[DATABASE/feat/Forager|Forager]]'
 id: '279'
 name: Waste Walker
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Survival|Survival]]'
 - Mana Wastes [[DATABASE/skill/Lore|Lore]] (or another similar Lore skill associated
   with the wastes where you grew up).
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

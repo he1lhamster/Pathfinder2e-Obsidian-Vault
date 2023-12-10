@@ -1,10 +1,7 @@
 ﻿---
 ac: '36'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Attack of Opportunity
@@ -13,15 +10,10 @@ creature_ability:
 - Fear of Crabs
 - Greater Constrict
 - Spray Water
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+29'
-hardness: null
 hp: '310'
 id: '1394'
-immunity: null
 intelligence: '-1'
 land_speed: '15'
 language:
@@ -33,9 +25,6 @@ name: Berberoka
 perception: '+26'
 rarity: Uncommon
 reflex: '+23'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 60 feet'
@@ -52,7 +41,6 @@ source: '[[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #
 speed:
 - 30 feet
 - swim 30 feet; 15 feet while waterlogged
-spell: null
 strength: '+8'
 strength_req: '8'
 strongest_save:

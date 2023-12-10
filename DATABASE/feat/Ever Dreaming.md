@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Ever Dreaming
-frequency: null
-heighten_level: null
 id: '3882'
 level: '18'
 name: Ever Dreaming
 prerequisite: '[[DATABASE/feat/Sleepwalker Dedication|Sleepwalker Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

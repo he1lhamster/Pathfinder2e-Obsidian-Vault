@@ -1,26 +1,16 @@
 ﻿---
 actions: '[reaction]'
-area: null
-bloodline: null
 component:
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: varies
-element: null
 heighten: '+2'
 heighten_level: 2, 4, 6, 8, 10
 id: '675'
-lesson: null
 level: '2'
-mystery: null
 name: Blood Vendetta
-patron_theme: null
 range: 30 feet
 rarity: Common
 requirement: You can bleed.
-rus_type_level: null
 saving_throw: Will
 school: Necromancy
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'

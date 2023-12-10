@@ -2,9 +2,6 @@
 id: '43'
 name: Agents of Edgewatch Player's Guide
 rarity: Common
-rus_type_level: null
-source: null
-trait: null
 type: Source
 
 ---

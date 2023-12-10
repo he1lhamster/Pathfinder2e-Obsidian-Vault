@@ -1,11 +1,9 @@
 ﻿---
 actions: '[two-actions]'
 area: 30-foot cone or 10-foot emanation
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Diomazul|Diomazul]]'
 - '[[DATABASE/deity/Diomazul|Diomazul]]'
@@ -13,31 +11,20 @@ deity:
 - '[[DATABASE/deity/Raumya|Raumya]]'
 - '[[DATABASE/deity/Skode|Skode]]'
 - '[[DATABASE/deity/Szuriel|Szuriel]]'
-domain: null
-duration: null
-element: null
 heighten: '+1'
 heighten_level: 4, 5, 6, 7, 8, 9, 10
 id: '373'
-lesson: null
 level: '4'
-mystery: null
 name: Weapon Storm
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Reflex
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Arcane
 - Primal
 trait:
 - '[[DATABASE/trait/Evocation|Evocation]]'
-trigger: null
 type: Spell
 
 ---

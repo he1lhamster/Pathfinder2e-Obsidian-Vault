@@ -1,20 +1,13 @@
 ﻿---
 bulk: L
-damage: null
-deity: null
-favored_weapon: null
-hands: null
 id: '80'
 item_category: Weapons
 item_subcategory: Base Weapons
 level: '0'
 name: Blowgun Darts
 price: 5 cp (price for 10)
-range: null
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Weapon
 weapon_category: Ammunition
 weapon_group: '[[DATABASE/weapongroup/Dart|Dart]]'

@@ -26,7 +26,6 @@ name: Longbow
 price: 6 gp
 range: 100 ft.
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Deadly|Deadly d10]]'

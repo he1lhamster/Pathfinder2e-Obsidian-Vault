@@ -2,9 +2,7 @@
 ac: '28'
 alignment: NE
 all_resistance: '5'
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Cosmic Explosion
@@ -13,15 +11,10 @@ creature_ability:
 - Soul Grasp
 - Troop Defenses
 - Troop Movement
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+22'
-hardness: null
 hp: '234'
 id: '1702'
-immunity: null
 intelligence: '+2'
 land_speed: '30'
 language:
@@ -37,8 +30,6 @@ resistance:
 - '[[DATABASE/equipment/Ghost Touch|ghost touch]]'
 - or [[DATABASE/trait/Positive|positive]] ; double resistance vs. non- [[DATABASE/trait/Magical|magical]]
   )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Gargantuan
@@ -56,7 +47,6 @@ strength: '-5'
 strength_req: '-5'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Ghost|Ghost]]'
 - '[[DATABASE/trait/Incorporeal|Incorporeal]]'

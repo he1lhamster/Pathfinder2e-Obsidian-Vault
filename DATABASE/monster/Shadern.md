@@ -1,10 +1,7 @@
 ﻿---
 ac: '15'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Consecration Vulnerability
@@ -15,9 +12,7 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Mortic|Mortic]]'
 dexterity: '+4'
 element: Fire
-fly_speed: null
 fortitude: '+6'
-hardness: null
 hp: 21 ( negative healing )
 id: '1880'
 immunity:
@@ -34,9 +29,6 @@ name: Shadern Immolator
 perception: '+5'
 rarity: Rare
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - smoke vision
@@ -49,12 +41,10 @@ skill:
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 speed:
 - 25 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fire|Fire]]'
 - '[[DATABASE/trait/Goblin|Goblin]]'
@@ -65,7 +55,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+3'
 wisdom: '+0'
 

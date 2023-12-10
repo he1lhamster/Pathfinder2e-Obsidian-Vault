@@ -1,25 +1,18 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Kineticist Dedication
-frequency: null
-heighten_level: null
 id: '4333'
+leads_to: '[[DATABASE/feat/Base Kinesis|Base Kinesis]] , [[DATABASE/feat/Expert Kinetic
+  Control|Expert Kinetic Control]] , [[DATABASE/feat/Improved Elemental Blast|Improved
+  Elemental Blast]] , [[DATABASE/feat/Through the Gate|Through the Gate]]'
 level: '2'
 name: Kineticist Dedication
 prerequisite: Constitution 2
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Multiclass|Multiclass]]'
-trigger: null
 type: Feat
 
 ---

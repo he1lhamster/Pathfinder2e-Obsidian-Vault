@@ -1,28 +1,15 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 8 hours
-element: null
-heighten: null
 heighten_level: '9'
 id: '974'
-lesson: null
 level: '9'
-mystery: null
 name: Proliferating Eyes
-patron_theme: null
 range: touch
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 target: 1 creature (see text)
@@ -33,7 +20,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Divination|Divination]]'
 - '[[DATABASE/trait/Scrying|Scrying]]'
-trigger: null
 type: Spell
 
 ---

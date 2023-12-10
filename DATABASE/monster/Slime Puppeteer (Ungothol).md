@@ -1,10 +1,7 @@
 ﻿---
 ac: '24'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Envelop
@@ -13,13 +10,10 @@ creature_ability:
 - Telepathic Bond
 creature_family: '[[DATABASE/monsterfamily/Alghollthu|Alghollthu]]'
 dexterity: '+4'
-element: null
 fly_speed: '30'
 fortitude: '+14'
-hardness: null
 hp: '95'
 id: '2691'
-immunity: null
 intelligence: '+3'
 land_speed: '10'
 language:
@@ -33,9 +27,6 @@ name: Slime Puppeteer
 perception: '+14'
 rarity: Rare
 reflex: '+14'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -51,7 +42,6 @@ speed:
 - 10 feet
 - fly 30 feet
 - swim 30 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
@@ -65,7 +55,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+10'
 wisdom: '+2'
 

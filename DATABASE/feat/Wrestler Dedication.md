@@ -1,24 +1,20 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Wrestler Dedication
-frequency: null
-heighten_level: null
 id: '3394'
+leads_to: '[[DATABASE/feat/Aerial Piledriver|Aerial Piledriver]] , [[DATABASE/feat/Clinch
+  Strike|Clinch Strike]] , [[DATABASE/feat/Disengaging Twist|Disengaging Twist]] ,
+  [[DATABASE/feat/Elbow Breaker|Elbow Breaker]] , [[DATABASE/feat/Form Lock (Wrestler)|Form
+  Lock (Wrestler)]] , [[DATABASE/feat/Inescapable Grasp|Inescapable Grasp]] , [[DATABASE/feat/Running
+  Tackle|Running Tackle]] , [[DATABASE/feat/Spinebreaker|Spinebreaker]] , [[DATABASE/feat/Strangle|Strangle]]
+  , [[DATABASE/feat/Submission Hold|Submission Hold]] , [[DATABASE/feat/Suplex|Suplex]]'
 level: '2'
 name: Wrestler Dedication
 prerequisite: Trained in [[DATABASE/skill/Athletics|Athletics]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
-trigger: null
 type: Feat
 
 ---

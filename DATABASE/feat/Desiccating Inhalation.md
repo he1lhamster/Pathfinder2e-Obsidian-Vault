@@ -1,25 +1,18 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Desiccating Inhalation
 frequency: once per hour
-heighten_level: null
 id: '3530'
 level: '12'
 name: Desiccating Inhalation
 prerequisite: '[[DATABASE/feat/Mummy Dedication|Mummy Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Divine|Divine]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
-trigger: null
 type: Feat
 
 ---

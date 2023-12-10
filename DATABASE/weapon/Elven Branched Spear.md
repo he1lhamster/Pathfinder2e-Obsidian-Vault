@@ -1,8 +1,6 @@
 ﻿---
 bulk: '1'
 damage: 1d6 P
-deity: null
-favored_weapon: null
 hands: '2'
 id: '237'
 item_category: Weapons
@@ -10,9 +8,7 @@ item_subcategory: Base Weapons
 level: '0'
 name: Elven Branched Spear
 price: 3 gp
-range: null
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
 trait:
 - '[[DATABASE/trait/Deadly|Deadly d8]]'

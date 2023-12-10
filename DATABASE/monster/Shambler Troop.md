@@ -1,10 +1,7 @@
 ﻿---
 ac: '18'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Form Up
@@ -15,10 +12,7 @@ creature_ability:
 - Troop Movement
 creature_family: '[[DATABASE/monsterfamily/Zombie|Zombie]]'
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+11'
-hardness: null
 hp: 90 (16 squares)
 id: '1376'
 immunity:
@@ -30,29 +24,22 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '20'
-language: null
 level: '4'
 max_speed: '20'
 name: Shambler Troop
 perception: '+7'
 rarity: Common
 reflex: '+8'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Gargantuan
-skill: null
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 20 feet; troop movement
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Mindless|Mindless]]'
 - '[[DATABASE/trait/Troop|Troop]]'

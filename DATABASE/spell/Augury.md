@@ -1,39 +1,22 @@
 ﻿---
-actions: null
-area: null
 bloodline: '[[DATABASE/sorcererbloodline/Harrow|Harrow]]'
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
-heighten: null
 heighten_level: '2'
 id: '15'
-lesson: null
 level: '2'
-mystery: null
 name: Augury
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Divine
 - Occult
 trait:
 - '[[DATABASE/trait/Divination|Divination]]'
 - '[[DATABASE/trait/Prediction|Prediction]]'
-trigger: null
 type: Spell
 
 ---

@@ -1,11 +1,8 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Alseta|Alseta]]'
 - '[[DATABASE/deity/Erecura|Erecura]]'
@@ -16,22 +13,14 @@ deity:
 - '[[DATABASE/deity/Shyka|Shyka]]'
 - '[[DATABASE/deity/The Freeing Flame|TheFreeing Flame]]'
 - '[[DATABASE/deity/Urban Prosperity|Urban Prosperity]]'
-domain: null
 duration: 10 minutes
-element: null
 heighten: '+2'
 heighten_level: 1, 3, 5, 7, 9
 id: '568'
-lesson: null
 level: '1'
-mystery: null
 name: Anticipate Peril
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
 target: 1 creature
@@ -40,7 +29,6 @@ tradition:
 - Occult
 trait:
 - '[[DATABASE/trait/Divination|Divination]]'
-trigger: null
 type: Spell
 
 ---

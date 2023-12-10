@@ -1,10 +1,7 @@
 ﻿---
 ac: '48'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Doleful Tolling
@@ -15,10 +12,7 @@ creature_ability:
 - Wind-Up
 creature_family: '[[DATABASE/monsterfamily/Clockworks|Clockworks]]'
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+36'
-hardness: null
 hp: '325'
 id: '1795'
 immunity:
@@ -37,7 +31,6 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '40'
-language: null
 level: '20'
 max_speed: '40'
 name: Clockwork Clock Tower
@@ -46,8 +39,6 @@ rarity: Rare
 reflex: '+33'
 resistance:
 - physical 20 (except [[DATABASE/equipment/Adamantine Weapon|adamantine]] or orichalcum)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Gargantuan
@@ -57,12 +48,10 @@ source: '[[DATABASE/source/Pathfinder 174. Shadows of the Ancients|Pathfinder #1
   Shadows of the Ancients]]'
 speed:
 - 40 feet
-spell: null
 strength: '+10'
 strength_req: '10'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Clockwork|Clockwork]]'
 - '[[DATABASE/trait/Construct|Construct]]'

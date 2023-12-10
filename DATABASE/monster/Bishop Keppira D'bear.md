@@ -1,10 +1,7 @@
 ﻿---
 ac: '31'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Blasphemous Invocation
@@ -15,12 +12,8 @@ creature_ability:
 - Sunlight
 - ''
 - Water Revulsion
-creature_family: null
 dexterity: '+7'
-element: null
-fly_speed: null
 fortitude: '+20'
-hardness: null
 hp: 150 (coffin restoration, fast healing 10 , negative healing )
 id: '1957'
 immunity:
@@ -45,8 +38,6 @@ reflex: '+24'
 resistance:
 - all physical 10 (except [[DATABASE/equipment/Silver Weapon|silver]] or weapons sheddingbright
   light)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 size: Medium
@@ -64,7 +55,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Shadow|Shadow]]'
 - '[[DATABASE/trait/Undead|Undead]]'

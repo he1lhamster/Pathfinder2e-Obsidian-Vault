@@ -1,8 +1,6 @@
 ﻿---
 ac: '23'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
 climb_speed: '20'
 constitution: '+2'
@@ -13,13 +11,9 @@ creature_ability:
 - Jungle Stride
 creature_family: '[[DATABASE/monsterfamily/Grippli|Grippli]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+12'
-hardness: null
 hp: '95'
 id: '1624'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -31,9 +25,6 @@ name: Grippli Jinxer
 perception: '+16'
 rarity: Common
 reflex: '+14'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -68,7 +59,6 @@ strength: '+2'
 strength_req: '2'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Grippli|Grippli]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -76,7 +66,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+16'
 wisdom: '+4'
 

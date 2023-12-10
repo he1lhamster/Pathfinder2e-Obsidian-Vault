@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Hobgoblin Weapon Familiarity
-frequency: null
-heighten_level: null
 id: '1026'
+leads_to: '[[DATABASE/feat/Hobgoblin Weapon Discipline|Hobgoblin Weapon Discipline]]
+  , [[DATABASE/feat/Hobgoblin Weapon Expertise|Hobgoblin Weapon Expertise]]'
 level: '1'
 name: Hobgoblin Weapon Familiarity
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Hobgoblin|Hobgoblin]]'
-trigger: null
 type: Feat
 
 ---

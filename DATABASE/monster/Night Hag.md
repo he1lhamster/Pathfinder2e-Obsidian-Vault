@@ -1,10 +1,7 @@
 ﻿---
 ac: '28'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Abyssal Plague
@@ -15,10 +12,7 @@ creature_ability:
 - Spell Ambush
 creature_family: '[[DATABASE/monsterfamily/Hag|Hag]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+19'
-hardness: null
 hp: '170'
 id: '257'
 immunity:
@@ -39,8 +33,6 @@ rarity: Common
 reflex: '+17'
 resistance:
 - mental 10
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -71,7 +63,6 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fiend|Fiend]]'
 - '[[DATABASE/trait/Hag|Hag]]'

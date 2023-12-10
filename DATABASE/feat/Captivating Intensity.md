@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Captivating Intensity
-frequency: null
-heighten_level: null
 id: '3360'
 level: '6'
 name: Captivating Intensity
 prerequisite: '[[DATABASE/feat/Basic Captivator Spellcasting|Basic Captivator Spellcasting]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

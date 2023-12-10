@@ -3,9 +3,7 @@ creature_family: Orc
 id: '80'
 name: Orc
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
-trait: null
 type: Creature Family
 
 ---

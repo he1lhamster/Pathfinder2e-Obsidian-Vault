@@ -1,38 +1,24 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Cyth-V''sug|Cyth-V''sug]]'
-domain: null
 duration: 1 minute
-element: null
 heighten: 4th, 6th
 heighten_level: 2, 4, 6
 id: '576'
-lesson: null
 level: '2'
-mystery: null
 name: Fungal Hyphae
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
-target: null
 tradition:
 - Primal
 trait:
 - '[[DATABASE/trait/Fungus|Fungus]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
-trigger: null
 type: Spell
 
 ---

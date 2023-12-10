@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Debilitating Dichotomy
-frequency: null
-heighten_level: null
 id: '1495'
 level: '8'
 name: Debilitating Dichotomy
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Oracle|Oracle]]'
-trigger: null
 type: Feat
 
 ---

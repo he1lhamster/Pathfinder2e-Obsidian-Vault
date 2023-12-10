@@ -1,10 +1,7 @@
 ﻿---
 ac: '30'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Hostile Duet
@@ -16,7 +13,6 @@ dexterity: '+6'
 element: Air
 fly_speed: '100'
 fortitude: '+16'
-hardness: null
 hp: '170'
 id: '649'
 immunity:
@@ -25,7 +21,6 @@ immunity:
 - '[[DATABASE/trait/Poison|poison]]'
 - '[[DATABASE/trait/Sleep|sleep]]'
 intelligence: '+2'
-land_speed: null
 language:
 - '[[DATABASE/language/Auran|Auran]]'
 level: '10'
@@ -34,9 +29,6 @@ name: Melody On The Wind
 perception: '+21'
 rarity: Common
 reflex: '+22'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Huge
@@ -47,12 +39,10 @@ skill:
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - fly 100 feet; swiftness
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Elemental|Elemental]]'
@@ -60,7 +50,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+19'
 wisdom: '+5'
 

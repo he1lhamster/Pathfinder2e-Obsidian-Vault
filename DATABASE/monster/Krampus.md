@@ -1,10 +1,7 @@
 ﻿---
 ac: '46'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+10'
-climb_speed: null
 constitution: '+10'
 creature_ability:
 - Blizzard Sight
@@ -15,12 +12,8 @@ creature_ability:
 - ''
 - Regression
 - Snowstep
-creature_family: null
 dexterity: '+7'
-element: null
-fly_speed: null
 fortitude: '+39'
-hardness: null
 hp: '380'
 id: '1213'
 immunity:
@@ -38,8 +31,6 @@ rarity: Unique
 reflex: '+34'
 resistance:
 - physical 20
-rus_type_level: null
-school: null
 sense:
 - blizzard sight
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 60 feet'
@@ -72,12 +63,10 @@ strength: '+10'
 strength_req: '10'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
 weakness:

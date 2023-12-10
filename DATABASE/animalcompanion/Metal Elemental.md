@@ -1,11 +1,8 @@
 ﻿---
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+2'
 dexterity: '+1'
 element: Metal
-fly_speed: null
 hp: '8'
 id: '63'
 intelligence: '-4'
@@ -13,7 +10,6 @@ land_speed: '25'
 max_speed: '25'
 name: Metal Elemental
 rarity: Uncommon
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -24,7 +20,6 @@ speed:
 - 25 feet
 strength: '+2'
 strength_req: '2'
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Metal|Metal]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

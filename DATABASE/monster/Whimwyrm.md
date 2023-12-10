@@ -1,22 +1,17 @@
 ﻿---
 ac: '42'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+7'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Attack of Opportunity
 - Fog Vision
 - Meddling Tail
 - Mind-Numbing Breath
-creature_family: null
 dexterity: '+9'
 element: Air
 fly_speed: '60'
 fortitude: '+29'
-hardness: null
 hp: '280'
 id: '2211'
 immunity:
@@ -39,8 +34,6 @@ rarity: Rare
 reflex: '+34'
 resistance:
 - '[[DATABASE/trait/Mental|mental]] 15'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - fog vision
@@ -74,7 +67,6 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Dragon|Dragon]]'

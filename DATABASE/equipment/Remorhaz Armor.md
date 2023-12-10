@@ -1,57 +1,24 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
 base_item: "[[DATABASE/armor/Niyah\xE1at|Niyah\xE1at]]"
 bulk: '2'
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
 element: Fire
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '1852'
 item_category: Armor
 item_subcategory: Specific Magic Armor
-land_speed: null
 level: '10'
-max_speed: null
 name: Remorhaz Armor
-onset: null
 price: 975 gp
-range: null
 rarity: Uncommon
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
-size: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-spell: null
-stage: null
-subcategory: null
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Fire|Fire]]'
 - '[[DATABASE/trait/Invested|Invested]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Item
 usage: worn armor
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Remorhaz Armor<span class="item-type">Item 10</span>

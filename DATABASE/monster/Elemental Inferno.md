@@ -1,10 +1,7 @@
 ﻿---
 ac: '31'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Blue Flames
@@ -15,9 +12,7 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Elemental, Fire|Elemental, Fire]]'
 dexterity: '+6'
 element: Fire
-fly_speed: null
 fortitude: '+21'
-hardness: null
 hp: 210 (explosion)
 id: '191'
 immunity:
@@ -36,9 +31,6 @@ name: Elemental Inferno
 perception: '+20'
 rarity: Common
 reflex: '+23'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - smoke vision
@@ -48,12 +40,10 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 70 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Elemental|Elemental]]'
 - '[[DATABASE/trait/Fire|Fire]]'

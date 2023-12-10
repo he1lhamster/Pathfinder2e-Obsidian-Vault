@@ -1,7 +1,6 @@
 ﻿---
 ac: '42'
 alignment: CE
-all_resistance: null
 burrow_speed: '10'
 charisma: '+0'
 climb_speed: '30'
@@ -14,12 +13,8 @@ creature_ability:
 - Swarming Bites
 - ''
 - Vulnerability to Supernatural Darkness
-creature_family: null
 dexterity: '+8'
-element: null
-fly_speed: null
 fortitude: '+30'
-hardness: null
 hp: 230 ( fast healing 15)
 id: '2345'
 immunity:
@@ -41,8 +36,6 @@ resistance:
 - electricity 15
 - piercing 15
 - slashing 7
-rus_type_level: null
-school: null
 sense:
 - blood scent
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
@@ -56,12 +49,10 @@ speed:
 - 30 feet
 - burrow 10 feet
 - climb 30 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Plant|Plant]]'
 - '[[DATABASE/trait/Rare|Rare]]'

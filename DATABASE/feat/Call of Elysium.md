@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Call of Elysium
-frequency: null
-heighten_level: null
 id: '2290'
 level: '9'
 name: Call of Elysium
 prerequisite: '[[DATABASE/feat/Musetouched|Musetouched]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Aasimar|Aasimar]]'
-trigger: null
 type: Feat
 
 ---

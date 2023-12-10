@@ -1,8 +1,6 @@
 ﻿---
 ac: '40'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+32'
 hardness: '26'
 hazard_type: Trap
@@ -16,16 +14,11 @@ level: '16'
 name: Crushing Gate Trap
 rarity: Common
 reflex: '+25'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 155. Lord of the Black Sands|Pathfinder #155:
   Lord of the Black Sands]]'
 trait:
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Crushing Gate Trap<span class="item-type">Hazard 16</span>

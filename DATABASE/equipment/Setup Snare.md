@@ -1,46 +1,13 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '2664'
 item_category: Snares
-item_subcategory: null
-land_speed: null
 level: '3'
-max_speed: null
 name: Setup Snare
-onset: null
 price: 8 gp
-range: null
 rarity: Uncommon
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
-school: null
-size: null
 source: '[[DATABASE/source/Pathfinder 193. Mantle of Gold|Pathfinder #193: Mantle
   of Gold]]'
-spell: null
-stage: null
 subcategory: snare
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Consumable|Consumable]]'
 - '[[DATABASE/trait/Kobold|Kobold]]'
@@ -48,12 +15,7 @@ trait:
 - '[[DATABASE/trait/Snare|Snare]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Item
-usage: null
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Setup Snare<span class="item-type">Item 3</span>

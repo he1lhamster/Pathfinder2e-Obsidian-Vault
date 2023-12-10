@@ -1,22 +1,15 @@
 ﻿---
 ac: '23'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Deep Breath
 creature_family: '[[DATABASE/monsterfamily/Lizardfolk|Lizardfolk]]'
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+13'
-hardness: null
 hp: '100'
 id: '1656'
-immunity: null
 intelligence: '+3'
 land_speed: '25'
 language:
@@ -29,10 +22,6 @@ name: Terwa Prodigy
 perception: '+17'
 rarity: Uncommon
 reflex: '+15'
-resistance: null
-rus_type_level: null
-school: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +15'
@@ -61,16 +50,13 @@ strength_req: '2'
 strongest_save:
 - Reflex
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Lizardfolk|Lizardfolk]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+15'
 wisdom: '+5'
 

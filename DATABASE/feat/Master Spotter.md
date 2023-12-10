@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Master Spotter
-frequency: null
-heighten_level: null
 id: '3124'
 level: '12'
 name: Master Spotter
 prerequisite: '[[DATABASE/feat/Overwatch Dedication|Overwatch Dedication]] ; expert
   in Perception'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

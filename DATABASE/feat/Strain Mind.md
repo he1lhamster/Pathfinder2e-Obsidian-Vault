@@ -1,20 +1,13 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Strain Mind
 frequency: once per hour
-heighten_level: null
 id: '3671'
 level: '6'
 name: Strain Mind
-prerequisite: null
 rarity: Common
 requirement: You have 0 Focus Points.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Psychic|Psychic]]'
 trigger: You cast a psi cantrip.

@@ -25,11 +25,9 @@ follower_alignment:
 id: '84'
 name: Angradd
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]]'
 source: '[[DATABASE/source/Highhelm|Highhelm]]'
-trait: null
 type: Deity
 
 ---

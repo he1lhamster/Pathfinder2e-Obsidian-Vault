@@ -1,19 +1,13 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
-frequency: null
 id: '99'
 name: Sustain an Activation
 rarity: Common
 requirement: You have at least one magic item activation that you can sustain and
   you are not fatigued
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
-trigger: null
 type: Action
 
 ---

@@ -2,7 +2,6 @@
 id: '399'
 name: Capacity
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 trait:
 - Capacity

@@ -2,9 +2,6 @@
 id: '7'
 name: Pathfinder 146. Cult of Cinders
 rarity: Common
-rus_type_level: null
-source: null
-trait: null
 type: Source
 
 ---

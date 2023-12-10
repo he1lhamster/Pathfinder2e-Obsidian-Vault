@@ -1,20 +1,14 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Towering Presence
 frequency: once per hour
-heighten_level: null
 id: '3939'
 level: '5'
 name: Towering Presence
 prerequisite: '[[DATABASE/feat/Faultspawn|Faultspawn]]'
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Illusion
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Divine|Divine]]'
@@ -22,7 +16,6 @@ trait:
 - '[[DATABASE/trait/Polymorph|Polymorph]]'
 - '[[DATABASE/trait/Tiefling|Tiefling]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Feat
 
 ---

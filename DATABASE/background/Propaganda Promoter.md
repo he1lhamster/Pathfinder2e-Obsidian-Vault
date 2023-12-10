@@ -1,17 +1,7 @@
 ﻿---
-ability: null
-ability_boost: null
-feat: null
 id: '323'
 name: Propaganda Promoter
-prerequisite: null
-rarity: null
-rus_type_level: null
-skill: null
 source: '[[DATABASE/source/Blood Lords Player''s Guide|Blood Lords Player''s Guide]]'
-subcategory: null
-trait: null
-type: null
 
 ---
 # Propaganda Promoter<span class="item-type">Background</span>

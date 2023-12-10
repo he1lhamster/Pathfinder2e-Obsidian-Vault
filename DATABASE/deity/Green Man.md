@@ -1,6 +1,4 @@
 ﻿---
-ability: null
-ability_boost: null
 alignment: N
 deity:
 - '[[DATABASE/deity/Green Man|Green Man]]'
@@ -19,11 +17,9 @@ follower_alignment:
 id: '221'
 name: Green Man
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Nature|Nature]]'
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
-trait: null
 type: Deity
 
 ---

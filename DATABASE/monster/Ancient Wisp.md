@@ -1,28 +1,22 @@
 ﻿---
 ac: '33'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Feed on Fear
 - Glow
 - Go Dark
 - Magic Immunity
-creature_family: null
 dexterity: '+7'
 element: Air
 fly_speed: '50'
 fortitude: '+16'
-hardness: null
 hp: '130'
 id: '2327'
 immunity:
 - magic
 intelligence: '+4'
-land_speed: null
 language:
 - '[[DATABASE/language/Aklo|Aklo]]'
 - '[[DATABASE/language/Common|Common]]'
@@ -32,9 +26,6 @@ name: Ancient Wisp
 perception: '+22'
 rarity: Rare
 reflex: '+23'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -46,12 +37,10 @@ skill:
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 speed:
 - fly 50 feet
-spell: null
 strength: '-5'
 strength_req: '-5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Air|Air]]'
@@ -60,7 +49,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+20'
 wisdom: '+6'
 

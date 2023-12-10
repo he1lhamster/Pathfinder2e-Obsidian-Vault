@@ -1,10 +1,7 @@
 ﻿---
 ac: '31'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Attack of Opportunity
@@ -14,15 +11,10 @@ creature_ability:
 - Sudden Slices
 - Suppressed
 - Alignment
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+23'
-hardness: null
 hp: '175'
 id: '530'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -35,8 +27,6 @@ rarity: Uncommon
 reflex: '+22'
 resistance:
 - bludgeoning 8
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -50,12 +40,10 @@ source: '[[DATABASE/source/Pathfinder 154. Siege of the Dinosaurs|Pathfinder #15
   Siege of the Dinosaurs]]'
 speed:
 - 25 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
@@ -63,7 +51,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+20'
 wisdom: '+3'
 

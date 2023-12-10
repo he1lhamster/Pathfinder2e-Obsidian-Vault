@@ -1,25 +1,17 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Corpse Tender Dedication
-frequency: null
-heighten_level: null
 id: '3883'
+leads_to: '[[DATABASE/feat/Command Corpse|Command Corpse]] , [[DATABASE/feat/Corpse
+  Tender''s Font|Corpse Tender''s Font]]'
 level: '2'
 name: Corpse Tender Dedication
 prerequisite: Trained in [[DATABASE/skill/Religion|Religion]]
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 181. Zombie Feast|Pathfinder #181: Zombie Feast]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

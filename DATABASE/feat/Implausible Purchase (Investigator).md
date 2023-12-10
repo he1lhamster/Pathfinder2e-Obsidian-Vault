@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Implausible Purchase (Investigator)
-frequency: null
-heighten_level: null
 id: '1477'
 level: '16'
 name: Implausible Purchase (Investigator)
 prerequisite: '[[DATABASE/feat/Predictive Purchase (Investigator)|Predictive Purchase
   (Investigator)]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Investigator|Investigator]]'
-trigger: null
 type: Feat
 
 ---

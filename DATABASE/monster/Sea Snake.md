@@ -1,10 +1,7 @@
 ﻿---
 ac: '16'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Deep Breath
@@ -12,25 +9,17 @@ creature_ability:
 - Sea Snake Venom
 creature_family: '[[DATABASE/monsterfamily/Snake|Snake]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+5'
-hardness: null
 hp: '15'
 id: '807'
-immunity: null
 intelligence: '-4'
 land_speed: '15'
-language: null
 level: '0'
 max_speed: '25'
 name: Sea Snake
 perception: '+5'
 rarity: Common
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Scent|scent (imprecise) 30 feet]]'
@@ -43,7 +32,6 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 15 feet
 - swim 25 feet
-spell: null
 strength: '+0'
 strength_req: '0'
 strongest_save:
@@ -55,7 +43,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+3'
 wisdom: '+1'
 

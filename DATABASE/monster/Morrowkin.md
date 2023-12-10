@@ -1,10 +1,7 @@
 ﻿---
 ac: '34'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Disgusted by Food
@@ -12,28 +9,18 @@ creature_ability:
 - Endless
 - Swallow Future
 - Tomorrow's Fury
-creature_family: null
 dexterity: '+7'
-element: null
-fly_speed: null
 fortitude: '+28'
-hardness: null
 hp: '320'
 id: '2038'
-immunity: null
 intelligence: '+5'
 land_speed: '35'
-language: null
 level: '14'
 max_speed: '35'
 name: Morrowkin
 perception: '+24'
 rarity: Unique
 reflex: '+25'
-resistance: null
-rus_type_level: null
-school: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +26'
@@ -44,22 +31,18 @@ skill:
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 speed:
 - 35 feet
-spell: null
 strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Time|Time]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
 - Will
-weakness: null
 will: '+25'
 wisdom: '+4'
 

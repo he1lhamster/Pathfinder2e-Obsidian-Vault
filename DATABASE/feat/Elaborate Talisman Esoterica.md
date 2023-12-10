@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Elaborate Talisman Esoterica
-frequency: null
-heighten_level: null
 id: '3716'
 level: '8'
 name: Elaborate Talisman Esoterica
 prerequisite: '[[DATABASE/feat/Talisman Esoterica|Talisman Esoterica]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Thaumaturge|Thaumaturge]]'
-trigger: null
 type: Feat
 
 ---

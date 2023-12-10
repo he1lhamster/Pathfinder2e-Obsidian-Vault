@@ -1,21 +1,15 @@
 ﻿---
 ac: '17'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+10'
 hardness: 5 Hardness
 hazard_type: Trap
 hp: '30'
 id: '402'
-immunity: null
 level: '2'
 name: Spitter Pods
 rarity: Common
 reflex: '+5'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 193. Mantle of Gold|Pathfinder #193: Mantle
   of Gold]]'
 trait:
@@ -23,7 +17,6 @@ trait:
 - '[[DATABASE/trait/Fungus|Fungus]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
 will: '+7'
 
 ---

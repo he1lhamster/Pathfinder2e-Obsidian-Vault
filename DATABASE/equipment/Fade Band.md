@@ -1,45 +1,16 @@
 ﻿---
-ac: null
 actions: '[free-action]'
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '210'
 item_category: Consumables
 item_subcategory: Talismans
-land_speed: null
 level: '12'
-max_speed: null
 name: Fade Band
-onset: null
 price: 320 gp
-range: null
 rarity: Common
-reflex: null
 requirement: You are a master in Stealth
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Illusion
-size: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-spell: null
-stage: null
 subcategory: consumable/talisman
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Consumable|Consumable]]'
 - '[[DATABASE/trait/Illusion|Illusion]]'
@@ -48,9 +19,6 @@ trait:
 trigger: An attack misses you
 type: Item
 usage: affixed to armor
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Fade Band<span class="item-type">Item 12</span>

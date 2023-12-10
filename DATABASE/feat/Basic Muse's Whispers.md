@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Basic Muse's Whispers
-frequency: null
-heighten_level: null
 id: '679'
+leads_to: '[[DATABASE/feat/Advanced Muse''s Whispers|Advanced Muse''s Whispers]]'
 level: '4'
 name: Basic Muse's Whispers
 prerequisite: '[[DATABASE/feat/Bard Dedication|Bard Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

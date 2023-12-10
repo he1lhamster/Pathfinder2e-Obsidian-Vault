@@ -5,7 +5,6 @@ level: '7'
 name: Flash Flood
 rarity: Common
 requirement: The PCs are in a hex that contains hills, mountains, or a river.
-rus_type_level: null
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
 trait:
 - '[[DATABASE/trait/Weather|Weather]]'

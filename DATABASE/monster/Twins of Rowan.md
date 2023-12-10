@@ -1,8 +1,5 @@
 ﻿---
 ac: '34'
-alignment: null
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
 climb_speed: '25'
 constitution: '+8'
@@ -15,9 +12,7 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Elemental, Wood|Elemental, Wood]]'
 dexterity: '+4'
 element: Wood
-fly_speed: null
 fortitude: '+24'
-hardness: null
 hp: '273'
 id: '2680'
 immunity:
@@ -40,9 +35,6 @@ name: Twins of Rowan
 perception: '+26'
 rarity: Common
 reflex: '+17'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) 30 feet'
 size: Huge
@@ -54,18 +46,15 @@ source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 speed:
 - 35 feet
 - climb 25 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Elemental|Elemental]]'
 - '[[DATABASE/trait/Plant|Plant]]'
 - '[[DATABASE/trait/Wood|Wood]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
 weakness:

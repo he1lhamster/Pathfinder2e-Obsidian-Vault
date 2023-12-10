@@ -1,8 +1,6 @@
 ﻿---
 ac: '15'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
 climb_speed: '20'
 constitution: '+0'
@@ -12,13 +10,9 @@ creature_ability:
 - Vermin Empathy
 creature_family: '[[DATABASE/monsterfamily/Gremlin|Gremlin]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+2'
-hardness: null
 hp: '10'
 id: '245'
-immunity: null
 intelligence: '-1'
 land_speed: '20'
 language:
@@ -29,9 +23,6 @@ name: Mitflit
 perception: '+4'
 rarity: Common
 reflex: '+7'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - scent (imprecise) 30 feet
@@ -53,7 +44,6 @@ strength: '-1'
 strength_req: '-1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Gremlin|Gremlin]]'

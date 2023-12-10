@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Experienced Tracker|Experienced Tracker]]'
 id: '8'
 name: Bounty Hunter
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Survival|Survival]]'
 - Legal [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

@@ -1,20 +1,15 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Orc Ferocity
 frequency: once per day
-heighten_level: null
 id: '83'
+leads_to: '[[DATABASE/feat/Defy Death|Defy Death]] , [[DATABASE/feat/Ferocious Beasts|Ferocious
+  Beasts]] , [[DATABASE/feat/Incredible Ferocity|Incredible Ferocity]] , [[DATABASE/feat/Rampaging
+  Ferocity|Rampaging Ferocity]] , [[DATABASE/feat/Undying Ferocity|Undying Ferocity]]'
 level: '1'
 name: Orc Ferocity
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Orc|Orc]]'
 trigger: You would be reduced to 0 Hit Points but not immediately killed.

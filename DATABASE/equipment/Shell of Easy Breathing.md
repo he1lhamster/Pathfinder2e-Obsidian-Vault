@@ -1,54 +1,18 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
 bulk: '2'
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
 element: Water
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '2632'
 item_category: Other
-item_subcategory: null
-land_speed: null
-level: '9'
-max_speed: null
+level: '5'
 name: Shell of Easy Breathing
-onset: null
-price: 700 gp
-range: null
+price: 160 gp
 rarity: Common
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
-school: null
-size: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-spell: null
-stage: null
 subcategory: other
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Water|Water]]'
-trigger: null
 type: Item
-usage: null
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Shell of Easy Breathing<span class="item-type">Item 5+</span>

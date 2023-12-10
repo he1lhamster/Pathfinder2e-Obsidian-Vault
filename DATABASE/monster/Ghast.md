@@ -1,10 +1,8 @@
 ﻿---
 ac: '18'
 alignment: CE
-all_resistance: null
 burrow_speed: '5'
 charisma: '+3'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Consume Flesh
@@ -14,10 +12,7 @@ creature_ability:
 - Swift Leap
 creature_family: '[[DATABASE/monsterfamily/Ghoul|Ghoul]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+6'
-hardness: null
 hp: 30 ( negative healing )
 id: '219'
 immunity:
@@ -37,9 +32,6 @@ name: Ghast
 perception: '+8'
 rarity: Common
 reflex: '+10'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -52,12 +44,10 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 30 feet
 - burrow 5 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Ghoul|Ghoul]]'
 - '[[DATABASE/trait/Undead|Undead]]'
@@ -65,7 +55,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+8'
 wisdom: '+2'
 

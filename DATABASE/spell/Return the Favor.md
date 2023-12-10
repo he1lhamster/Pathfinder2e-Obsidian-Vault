@@ -1,31 +1,18 @@
 ﻿---
 actions: '[reaction]'
-area: null
-bloodline: null
 component:
 - Somatic
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
 heighten: '+1'
 heighten_level: 3, 4, 5, 6, 7, 8, 9, 10
 id: '1181'
 lesson: '[[DATABASE/witchlesson/Lesson of Favors|Lesson of Favors]]'
 level: '3'
-mystery: null
 name: Return the Favor
-patron_theme: null
 range: 30 feet
 rarity: Rare
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 target: 1 ally
-tradition: null
 trait:
 - '[[DATABASE/trait/Hex|Hex]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'

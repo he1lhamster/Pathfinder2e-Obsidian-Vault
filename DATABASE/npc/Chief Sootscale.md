@@ -1,23 +1,16 @@
 ﻿---
 ac: '18'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Bark Orders
 - Sneak Attack
 - Unbalancing Blow
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+5'
 hp: '33'
 id: '2269'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -29,8 +22,6 @@ name: Chief Sootscale
 perception: '+7'
 rarity: Unique
 reflex: '+10'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -42,12 +33,10 @@ skill:
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 speed:
 - 25 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Kobold|Kobold]]'
@@ -56,7 +45,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+9'
 wisdom: '+2'
 

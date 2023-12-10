@@ -1,36 +1,25 @@
 ﻿---
 ac: '24'
 alignment: NE
-all_resistance: null
 burrow_speed: '25'
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Fusing Spit
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+13'
-hardness: null
 hp: '70'
 id: '1731'
 immunity:
 - '[[DATABASE/trait/Acid|acid]]'
 intelligence: '-4'
 land_speed: '40'
-language: null
 level: '6'
 max_speed: '40'
 name: Spawn Of Kothogaz
 perception: '+14'
 rarity: Rare
 reflex: '+17'
-resistance: null
-rus_type_level: null
-school: null
-sense: null
 size: Large
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +15'
@@ -40,20 +29,16 @@ source: '[[DATABASE/source/Monsters of Myth|Monsters of Myth]]'
 speed:
 - 40 feet
 - burrow 25 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+10'
 wisdom: '+2'
 

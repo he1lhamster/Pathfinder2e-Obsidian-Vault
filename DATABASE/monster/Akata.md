@@ -1,8 +1,6 @@
 ﻿---
 ac: '16'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
 climb_speed: '15'
 constitution: '+4'
@@ -12,19 +10,14 @@ creature_ability:
 - No Hearing
 - Salt Water Vulnerability
 - Void Death
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+9'
-hardness: null
 hp: '15'
 id: '541'
 immunity:
 - disease
 intelligence: '-4'
 land_speed: '30'
-language: null
 level: '1'
 max_speed: '30'
 name: Akata
@@ -34,8 +27,6 @@ reflex: '+5'
 resistance:
 - fire 5
 - poison 5
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - no hearing
@@ -49,12 +40,10 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 30 feet
 - climb 15 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Rare|Rare]]'

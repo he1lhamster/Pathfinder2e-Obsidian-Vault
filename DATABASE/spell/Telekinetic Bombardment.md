@@ -1,37 +1,24 @@
 ﻿---
 actions: '[two-actions]'
 area: 10-foot burst or 30-foot line
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
 heighten: '+1'
 heighten_level: 7, 8, 9, 10
 id: '1165'
-lesson: null
 level: '7'
-mystery: null
 name: Telekinetic Bombardment
-patron_theme: null
 range: 500 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Reflex
 school: Evocation
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-target: null
 tradition:
 - Arcane
 - Occult
 trait:
 - '[[DATABASE/trait/Evocation|Evocation]]'
-trigger: null
 type: Spell
 
 ---

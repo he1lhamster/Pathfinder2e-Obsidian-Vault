@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Ferocious Shape
-frequency: null
-heighten_level: null
 id: '330'
 level: '8'
 name: Ferocious Shape
 prerequisite: '[[DATABASE/feat/Wild Shape|Wild Shape]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Druid|Druid]]'
-trigger: null
 type: Feat
 
 ---

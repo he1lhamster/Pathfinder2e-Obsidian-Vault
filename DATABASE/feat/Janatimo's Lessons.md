@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Janatimo's Lessons
-frequency: null
-heighten_level: null
 id: '2166'
 level: '12'
 name: Janatimo's Lessons
 prerequisite: '[[DATABASE/feat/Uzunjati Recollection|Uzunjati Recollection]]'
 rarity: Rare
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Legends|Legends]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Feat
 
 ---

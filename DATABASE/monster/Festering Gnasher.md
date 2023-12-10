@@ -1,19 +1,14 @@
 ﻿---
 ac: '16'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Brain Rot
 creature_family: '[[DATABASE/monsterfamily/Beheaded|Beheaded]]'
 dexterity: '+4'
-element: null
 fly_speed: '25'
 fortitude: '+4'
-hardness: null
 hp: 18 ( negative healing )
 id: '1839'
 immunity:
@@ -24,16 +19,12 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-3'
 land_speed: '15'
-language: null
 level: '1'
 max_speed: '25'
 name: Festering Gnasher
 perception: '+8'
 rarity: Common
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Tiny
@@ -43,12 +34,10 @@ source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 speed:
 - 15 feet
 - fly 25 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Undead|Undead]]'
 type: Creature

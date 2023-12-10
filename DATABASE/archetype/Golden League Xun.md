@@ -4,7 +4,6 @@ level: '8'
 name: Golden League Xun
 prerequisite: Master in [[DATABASE/skill/Lore|Underworld Lore]]
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 167. Ready Fight!|Pathfinder #167: Ready? Fight!]]'
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

@@ -1,24 +1,18 @@
 ﻿---
 ac: '32'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Oceanic Armor
 - Self-Resurrection
 - Typhoon Dive
-creature_family: null
 dexterity: '+7'
 element: Water
 fly_speed: '50'
 fortitude: '+21'
-hardness: null
 hp: 213 (self-resurrection)
 id: '1337'
-immunity: null
 intelligence: '+4'
 land_speed: '25'
 language:
@@ -33,8 +27,6 @@ rarity: Rare
 reflex: '+25'
 resistance:
 - cold 10
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Wavesense|wavesense]] (imprecise) 120 feet'

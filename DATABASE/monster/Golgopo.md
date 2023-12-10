@@ -1,8 +1,6 @@
 ﻿---
 ac: '26'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
 climb_speed: '15'
 constitution: '+5'
@@ -10,12 +8,8 @@ creature_ability:
 - Portents of Doom
 - Ritual Conduit
 - Warning Call
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+18'
-hardness: null
 hp: '130'
 id: '1653'
 immunity:
@@ -44,8 +38,6 @@ rarity: Uncommon
 reflex: '+16'
 resistance:
 - '[[DATABASE/trait/Fire|fire]] 6'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Small
@@ -70,7 +62,6 @@ strength: '+2'
 strength_req: '2'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

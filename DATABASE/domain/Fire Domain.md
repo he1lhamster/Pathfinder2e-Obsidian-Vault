@@ -1,5 +1,4 @@
 ﻿---
-advanced_apocryphal_spell: null
 advanced_domain_spell: '[[DATABASE/spell/Flame Barrier|Flame Barrier]]'
 apocryphal_spell: '[[DATABASE/spell/Cinder Gaze|Cinder Gaze]]'
 deity:
@@ -30,9 +29,7 @@ domain_spell: '[[DATABASE/spell/Fire Ray|Fire Ray]]'
 id: '13'
 name: Fire Domain
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Domain
 
 ---

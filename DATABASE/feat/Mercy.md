@@ -1,25 +1,19 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Mercy
-frequency: null
-heighten_level: null
 id: '225'
+leads_to: '[[DATABASE/feat/Affliction Mercy|Affliction Mercy]] , [[DATABASE/feat/Blessed
+  Spell|Blessed Spell]] , [[DATABASE/feat/Elucidating Mercy|Elucidating Mercy]] ,
+  [[DATABASE/feat/Greater Mercy|Greater Mercy]] , [[DATABASE/feat/Invigorating Mercy|Invigorating
+  Mercy]] , [[DATABASE/feat/Ultimate Mercy|Ultimate Mercy]]'
 level: '4'
 name: Mercy
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Champion|Champion]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Metamagic|Metamagic]]'
-trigger: null
 type: Feat
 
 ---

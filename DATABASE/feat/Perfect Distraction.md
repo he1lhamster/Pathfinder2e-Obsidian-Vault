@@ -1,23 +1,15 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Perfect Distraction
-frequency: null
-heighten_level: null
 id: '595'
+leads_to: '[[DATABASE/feat/Reactive Distraction|Reactive Distraction]]'
 level: '16'
 name: Perfect Distraction
 prerequisite: Legendary in [[DATABASE/skill/Deception|Deception]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Rogue|Rogue]]'
-trigger: null
 type: Feat
 
 ---

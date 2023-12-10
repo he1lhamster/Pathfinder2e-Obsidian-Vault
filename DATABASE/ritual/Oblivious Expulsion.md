@@ -1,9 +1,6 @@
 ﻿---
-area: null
 cost: incense worth a total value of 150 gp
 duration: unlimited
-element: null
-heighten: null
 heighten_level: '5'
 id: '87'
 level: '5'
@@ -12,8 +9,6 @@ primary_check: '[[DATABASE/skill/Occultism|Occultism]] (master) or [[DATABASE/sk
   (master)'
 range: 30 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Enchantment
 secondary_casters: '2'
 secondary_check: '[[DATABASE/skill/Deception|Deception]] , [[DATABASE/skill/Society|Society]]'

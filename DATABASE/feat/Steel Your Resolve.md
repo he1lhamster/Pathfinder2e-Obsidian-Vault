@@ -1,24 +1,15 @@
 ﻿---
 actions: '[one-action]'
 cost: 1 Resolve Point
-element: null
 feat: Steel Your Resolve
-frequency: null
-heighten_level: null
 id: '1211'
 level: '3'
 name: Steel Your Resolve
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Stamina|Stamina]]'
-trigger: null
 type: Feat
 
 ---

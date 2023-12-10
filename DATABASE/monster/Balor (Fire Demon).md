@@ -1,10 +1,7 @@
 ﻿---
 ac: '45'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+8'
-climb_speed: null
 constitution: '+9'
 creature_ability:
 - Attack of Opportunity
@@ -18,10 +15,8 @@ creature_ability:
 - Whip Reposition
 creature_family: '[[DATABASE/monsterfamily/Demon|Demon]]'
 dexterity: '+7'
-element: null
 fly_speed: '70'
 fortitude: '+39'
-hardness: null
 hp: '480'
 id: '104'
 immunity:
@@ -38,9 +33,6 @@ name: Balor
 perception: '+36'
 rarity: Common
 reflex: '+35'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - '[[DATABASE/spell/True Seeing|true seeing]]'
@@ -69,7 +61,6 @@ strength: '+9'
 strength_req: '9'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Demon|Demon]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

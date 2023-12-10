@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Catfolk Weapon Familiarity
-frequency: null
-heighten_level: null
 id: '1255'
+leads_to: '[[DATABASE/feat/Catfolk Weapon Expertise|Catfolk Weapon Expertise]] , [[DATABASE/feat/Catfolk
+  Weapon Rake|Catfolk Weapon Rake]]'
 level: '1'
 name: Catfolk Weapon Familiarity
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Catfolk|Catfolk]]'
-trigger: null
 type: Feat
 
 ---

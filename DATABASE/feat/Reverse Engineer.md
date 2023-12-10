@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Reverse Engineer
-frequency: null
-heighten_level: null
 id: '3053'
 level: '2'
 name: Reverse Engineer
 prerequisite: Expert in [[DATABASE/skill/Crafting|Crafting]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Inventor|Inventor]]'
-trigger: null
 type: Feat
 
 ---

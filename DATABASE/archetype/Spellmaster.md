@@ -5,7 +5,6 @@ name: Spellmaster
 prerequisite: Intelligence 14, Wisdom 14, or Charisma 14; ability to cast focus spells;
   member of the PathfinderSociety affiliated with the School of Spells
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

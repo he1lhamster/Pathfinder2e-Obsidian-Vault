@@ -1,20 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Armored Rebuff
-frequency: null
-heighten_level: null
 id: '2065'
 level: '8'
 name: Armored Rebuff
 prerequisite: '[[DATABASE/feat/Sentinel Dedication|Sentinel Dedication]]'
 rarity: Common
 requirement: You are wearing medium armor or heavier.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 trigger: An adjacent foe critically fails an attack roll to Strike you with a melee

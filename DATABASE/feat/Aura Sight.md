@@ -1,18 +1,11 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Aura Sight
 frequency: once per hour
-heighten_level: null
 id: '3770'
 level: '2'
 name: Aura Sight
 prerequisite: Expert in [[DATABASE/skill/Occultism|Occultism]]
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: occultism
 trait:
@@ -22,7 +15,6 @@ trait:
 - '[[DATABASE/trait/Secret|Secret]]'
 - '[[DATABASE/trait/Skill|Skill]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

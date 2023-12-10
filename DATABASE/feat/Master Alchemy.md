@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Master Alchemy
-frequency: null
-heighten_level: null
 id: '670'
 level: '12'
 name: Master Alchemy
 prerequisite: '[[DATABASE/feat/Expert Alchemy|Expert Alchemy]] ; Master in [[DATABASE/skill/Crafting|Crafting]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

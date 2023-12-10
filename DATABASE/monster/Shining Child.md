@@ -1,21 +1,15 @@
 ﻿---
 ac: '33'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+7'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Blinding Aura
 - Overwhelming Light
 - Radiance Dependence
-creature_family: null
 dexterity: '+5'
-element: null
 fly_speed: '50'
 fortitude: '+22'
-hardness: null
 hp: '215'
 id: '367'
 immunity:
@@ -32,9 +26,6 @@ name: Shining Child
 perception: '+23'
 rarity: Common
 reflex: '+19'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -63,7 +54,6 @@ strength: '+2'
 strength_req: '2'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Astral|Astral]]'
 type: Creature
@@ -71,7 +61,6 @@ vision: Darkvision
 weakest_save:
 - Reflex
 - Will
-weakness: null
 will: '+19'
 wisdom: '+5'
 

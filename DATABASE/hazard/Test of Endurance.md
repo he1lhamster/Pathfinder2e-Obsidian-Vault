@@ -1,20 +1,10 @@
 ﻿---
-ac: null
-all_resistance: null
 complexity: Simple
-element: null
-fortitude: null
-hardness: null
 hazard_type: Trap
-hp: null
 id: '287'
-immunity: null
 level: '13'
 name: Test of Endurance
 rarity: Common
-reflex: null
-resistance: null
-rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
@@ -23,8 +13,6 @@ trait:
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Test of Endurance<span class="item-type">Hazard 13</span>

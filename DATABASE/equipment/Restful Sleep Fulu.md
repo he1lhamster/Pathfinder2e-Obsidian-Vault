@@ -1,57 +1,23 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
 duration: 1 hour
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '982'
 item_category: Consumables
 item_subcategory: Fulu
-land_speed: null
 level: '6'
-max_speed: null
 name: Restful Sleep Fulu
-onset: null
 price: 32 gp
-range: null
 rarity: Common
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Enchantment
-size: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-spell: null
-stage: null
 subcategory: consumable/fulu
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Consumable|Consumable]]'
 - '[[DATABASE/trait/Enchantment|Enchantment]]'
 - '[[DATABASE/trait/Fulu|Fulu]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
-trigger: null
 type: Item
 usage: affixed to a creature
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Restful Sleep Fulu<span class="item-type">Item 6</span>

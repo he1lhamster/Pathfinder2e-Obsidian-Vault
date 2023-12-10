@@ -18,7 +18,6 @@ language:
 max_speed: '25'
 name: Catfolk
 rarity: Uncommon
-rus_type_level: null
 size: Medium
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 speed:

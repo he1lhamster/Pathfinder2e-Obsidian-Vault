@@ -1,25 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Soulsight
-frequency: null
-heighten_level: null
 id: '1647'
+leads_to: '[[DATABASE/feat/Shared Sight|Shared Sight]]'
 level: '8'
 name: Soulsight
 prerequisite: '[[DATABASE/class_/Sorcerer|Sorcerer]] bloodline that grants [[DATABASE/trait/Divine|divine]]
   or [[DATABASE/trait/Occult|occult]] spells'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Bard|Bard]]'
 - '[[DATABASE/trait/Sorcerer|Sorcerer]]'
-trigger: null
 type: Feat
 
 ---

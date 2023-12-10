@@ -1,37 +1,22 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Rowdrosh|Rowdrosh]]'
-domain: null
 duration: 10 minutes
-element: null
-heighten: null
 heighten_level: '2'
 id: '293'
-lesson: null
 level: '2'
-mystery: null
 name: Speak with Animals
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Primal
 trait:
 - '[[DATABASE/trait/Divination|Divination]]'
-trigger: null
 type: Spell
 
 ---

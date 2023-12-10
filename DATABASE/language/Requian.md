@@ -2,7 +2,6 @@
 id: '34'
 name: Requian
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

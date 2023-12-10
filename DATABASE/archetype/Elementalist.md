@@ -4,9 +4,7 @@ level: '2'
 name: Elementalist
 prerequisite: elemental magic
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-trait: null
 type: Archetype
 
 ---

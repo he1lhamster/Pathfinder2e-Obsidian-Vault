@@ -1,23 +1,15 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Frighten Undead
-frequency: null
-heighten_level: null
 id: '3479'
+leads_to: '[[DATABASE/feat/Slayer''s Presence|Slayer''s Presence]]'
 level: '6'
 name: Frighten Undead
 prerequisite: '[[DATABASE/feat/Undead Slayer Dedication|Undead Slayer Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

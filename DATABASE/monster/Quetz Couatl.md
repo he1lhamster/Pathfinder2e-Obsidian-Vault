@@ -1,10 +1,7 @@
 ﻿---
 ac: '30'
 alignment: LG
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Greater Constrict
@@ -13,13 +10,10 @@ creature_ability:
 - Wrap in Coils
 creature_family: '[[DATABASE/monsterfamily/Couatl|Couatl]]'
 dexterity: '+3'
-element: null
 fly_speed: '50'
 fortitude: '+19'
-hardness: null
 hp: '175'
 id: '587'
-immunity: null
 intelligence: '+6'
 land_speed: '15'
 language:
@@ -33,9 +27,6 @@ name: Quetz Couatl
 perception: '+21'
 rarity: Uncommon
 reflex: '+19'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/spell/Detect Alignment|detect alignment]]'
@@ -69,7 +60,6 @@ strength: '+7'
 strength_req: '7'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Couatl|Couatl]]'
@@ -79,7 +69,6 @@ vision: Darkvision
 weakest_save:
 - Fortitude
 - Reflex
-weakness: null
 will: '+21'
 wisdom: '+5'
 

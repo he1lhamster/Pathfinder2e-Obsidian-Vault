@@ -1,10 +1,6 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Arcane Slam
-frequency: null
-heighten_level: null
 id: '3101'
 level: '9'
 name: Arcane Slam
@@ -12,13 +8,9 @@ prerequisite: '[[DATABASE/heritage/Warrior Automaton|Warrior Automaton]] heritag
 rarity: Common
 requirement: You have a creature [[DATABASE/condition/Grabbed|grabbed]] or [[DATABASE/condition/Restrained|restrained]]
   .
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Automaton|Automaton]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,45 +1,16 @@
 ﻿---
-ac: null
 actions: '[one-action]'
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '1744'
 item_category: Consumables
 item_subcategory: Talismans
-land_speed: null
 level: '2'
-max_speed: null
 name: Lover's Knot
-onset: null
 price: 6 gp
-range: null
 rarity: Uncommon
-reflex: null
 requirement: You are trained in [[DATABASE/skill/Medicine|Medicine]] .
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Necromancy
-size: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
-spell: null
-stage: null
 subcategory: consumable/talisman
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Consumable|Consumable]]'
 - '[[DATABASE/trait/Healing|Healing]]'
@@ -47,12 +18,8 @@ trait:
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Talisman|Talisman]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Item
 usage: affixed to armor
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Lover's Knot<span class="item-type">Item 2</span>

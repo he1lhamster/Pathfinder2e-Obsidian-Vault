@@ -8,9 +8,7 @@ ability_boost:
 feat: '[[DATABASE/feat/Group Coercion|Group Coercion]]'
 id: '285'
 name: Sheriff
-prerequisite: null
 rarity: Uncommon
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Intimidation|Intimidation]]'
 - Hunting [[DATABASE/skill/Lore|Lore]]

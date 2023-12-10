@@ -1,10 +1,7 @@
 ﻿---
 ac: '39'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Change Shape
@@ -14,10 +11,8 @@ dexterity: '+9'
 element: Air
 fly_speed: '50'
 fortitude: '+25'
-hardness: null
 hp: '300'
 id: '873'
-immunity: null
 intelligence: '+5'
 land_speed: '35'
 language:
@@ -32,8 +27,6 @@ reflex: '+31'
 resistance:
 - fire 15
 - poison 15
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/spell/Detect Magic|detect magic]]'
@@ -61,7 +54,6 @@ strength: '+7'
 strength_req: '7'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Elemental|Elemental]]'

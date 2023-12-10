@@ -1,36 +1,24 @@
 ﻿---
 ac: '16'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Eat Anything
 - Protect
 - Ram
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+10'
-hardness: null
 hp: '24'
 id: '2000'
-immunity: null
 intelligence: '-4'
 land_speed: '30'
-language: null
 level: '1'
 max_speed: '30'
 name: Violet
 perception: '+6'
 rarity: Unique
 reflex: '+4'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -43,12 +31,10 @@ source: '[[DATABASE/source/Pathfinder 151. The Show Must Go On|Pathfinder #151: 
   Show Must Go On]]'
 speed:
 - 30 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 - '[[DATABASE/trait/Unique|Unique]]'
@@ -56,7 +42,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Reflex
-weakness: null
 will: '+7'
 wisdom: '+1'
 

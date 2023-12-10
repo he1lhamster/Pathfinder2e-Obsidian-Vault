@@ -1,10 +1,7 @@
 ﻿---
 ac: '11'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Corrode Weapon
@@ -13,10 +10,7 @@ creature_ability:
 - Rust
 creature_family: '[[DATABASE/monsterfamily/Ooze|Ooze]]'
 dexterity: '-4'
-element: null
-fly_speed: null
 fortitude: '+10'
-hardness: null
 hp: '80'
 id: '1930'
 immunity:
@@ -27,7 +21,6 @@ immunity:
 - '[[DATABASE/trait/Visual|visual]]'
 intelligence: '-5'
 land_speed: '15'
-language: null
 level: '3'
 max_speed: '30'
 name: Rust Ooze
@@ -36,8 +29,6 @@ rarity: Uncommon
 reflex: '+3'
 resistance:
 - metal 5
-rus_type_level: null
-school: null
 sense:
 - motion sense 60 feet
 - no vision
@@ -50,7 +41,6 @@ source: '[[DATABASE/source/Pathfinder 178. Punks in a Powderkeg|Pathfinder #178:
 speed:
 - 15 feet
 - swim 30 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
@@ -61,7 +51,6 @@ trait:
 - '[[DATABASE/trait/Ooze|Ooze]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
 weakness:

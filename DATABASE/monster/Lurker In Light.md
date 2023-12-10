@@ -1,22 +1,16 @@
 ﻿---
 ac: '22'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Blend with Light
 - Lurker's Glow
 - Ritual Gate
 - Sneak Attack
-creature_family: null
 dexterity: '+5'
-element: null
 fly_speed: '25'
 fortitude: '+9'
-hardness: null
 hp: '72'
 id: '726'
 immunity:
@@ -33,9 +27,6 @@ name: Lurker In Light
 perception: '+13'
 rarity: Common
 reflex: '+14'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Small
@@ -62,7 +53,6 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 type: Creature

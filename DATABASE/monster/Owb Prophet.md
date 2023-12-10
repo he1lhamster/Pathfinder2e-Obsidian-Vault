@@ -1,10 +1,7 @@
 ﻿---
 ac: '34'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+7'
-climb_speed: null
 constitution: '+8'
 creature_ability:
 - Burning Cold Fusillade
@@ -16,13 +13,10 @@ creature_ability:
 - Shadow's Swiftness
 creature_family: '[[DATABASE/monsterfamily/Owb|Owb]]'
 dexterity: '+6'
-element: null
 fly_speed: '40'
 fortitude: '+25'
-hardness: null
 hp: '225'
 id: '1258'
-immunity: null
 intelligence: '+4'
 land_speed: '5'
 language:
@@ -37,9 +31,6 @@ name: Owb Prophet
 perception: '+24'
 rarity: Rare
 reflex: '+23'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 size: Large
@@ -70,7 +61,6 @@ strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Shadow|Shadow]]'
@@ -78,7 +68,6 @@ type: Creature
 vision: Greater darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+24'
 wisdom: '+5'
 

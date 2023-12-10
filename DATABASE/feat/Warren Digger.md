@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Warren Digger
-frequency: null
-heighten_level: null
 id: '1309'
 level: '13'
 name: Warren Digger
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Ratfolk|Ratfolk]]'
-trigger: null
 type: Feat
 
 ---

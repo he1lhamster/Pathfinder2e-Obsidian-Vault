@@ -1,27 +1,20 @@
 ﻿---
 actions: '[three-actions]'
-cost: null
-element: null
 feat: Cross the Final Horizon
-frequency: null
-heighten_level: null
 id: '2205'
 level: '20'
 name: Cross the Final Horizon
 prerequisite: '[[DATABASE/feat/Sky and Heaven Stance|Sky and Heaven Stance]]'
 rarity: Common
 requirement: You are in Sky and Heaven Stance.
-rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Electricity|Electricity]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Force|Force]]'
 - '[[DATABASE/trait/Sonic|Sonic]]'
-trigger: null
 type: Feat
 
 ---

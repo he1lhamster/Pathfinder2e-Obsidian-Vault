@@ -1,8 +1,6 @@
 ﻿---
 ac: '40'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
 climb_speed: '40'
 constitution: '+9'
@@ -12,12 +10,9 @@ creature_ability:
 - Rider's Bond
 - Tangling Chains
 - Whirling Frenzy
-creature_family: null
 dexterity: '+5'
 element: Fire
-fly_speed: null
 fortitude: '+35'
-hardness: null
 hp: '350'
 id: '824'
 immunity:
@@ -35,8 +30,6 @@ rarity: Rare
 reflex: '+28'
 resistance:
 - physical 15 (except cold iron)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/spell/See Invisibility|see invisibility]]'
@@ -56,7 +49,6 @@ strength: '+9'
 strength_req: '9'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Fire|Fire]]'

@@ -1,25 +1,17 @@
 ﻿---
 ac: '36'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Hop-Dodge
 - Staccato Strike
 - Thoughtsense
 - Warbling Song
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+28'
-hardness: null
 hp: '255'
 id: '1467'
-immunity: null
 intelligence: '-3'
 land_speed: '40'
 language:
@@ -32,8 +24,6 @@ rarity: Rare
 reflex: '+23'
 resistance:
 - sonic 15
-rus_type_level: null
-school: null
 sense:
 - thoughtsense (imprecise) 60 feet
 size: Medium
@@ -44,20 +34,16 @@ source: '[[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #
   Despair on Danger Island]]'
 speed:
 - 40 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+21'
 wisdom: '+3'
 

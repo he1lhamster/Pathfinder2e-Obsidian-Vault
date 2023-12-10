@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Thorned Seedpod
-frequency: null
-heighten_level: null
 id: '2396'
 level: '9'
 name: Thorned Seedpod
 prerequisite: '[[DATABASE/feat/Seedpod|Seedpod]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Leshy|Leshy]]'
-trigger: null
 type: Feat
 
 ---

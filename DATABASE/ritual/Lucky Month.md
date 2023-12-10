@@ -1,10 +1,6 @@
 ﻿---
-area: null
 cost: Cost a favorite food or drink and a wearable token with personal or familial
   significance worth 10 gptotal
-duration: null
-element: null
-heighten: null
 heighten_level: '2'
 id: '93'
 level: '2'
@@ -12,8 +8,6 @@ name: Lucky Month
 primary_check: '[[DATABASE/skill/Religion|Religion]] (trained)'
 range: 30 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Divination
 secondary_casters: '3'
 secondary_check: '[[DATABASE/skill/Crafting|Crafting]] , [[DATABASE/skill/Performance|Performance]]

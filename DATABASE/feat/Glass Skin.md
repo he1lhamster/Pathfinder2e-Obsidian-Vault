@@ -1,27 +1,18 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Glass Skin
-frequency: null
-heighten_level: null
 id: '3644'
 level: '10'
 name: Glass Skin
 prerequisite: You were present at the death of the [[DATABASE/monster/Medusa|medusa]]
   Alethsia,whose vitrumantic powers were passed on to you in the wake of her destruction.
 rarity: Rare
-requirement: null
-rus_type_level: null
 school: Abjuration
 source: '[[DATABASE/source/Pathfinder 180. The Smoking Gun|Pathfinder #180: The Smoking
   Gun]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Aftermath|Aftermath]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Feat
 
 ---

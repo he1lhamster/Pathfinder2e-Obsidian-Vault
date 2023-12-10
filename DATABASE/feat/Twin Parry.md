@@ -1,25 +1,18 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Twin Parry
-frequency: null
-heighten_level: null
 id: '377'
+leads_to: '[[DATABASE/feat/Twinned Defense (Fighter)|Twinned Defense (Fighter)]] ,
+  [[DATABASE/feat/Twinned Defense (Swashbuckler)|Twinned Defense (Swashbuckler)]]'
 level: '4'
 name: Twin Parry
-prerequisite: null
 rarity: Common
 requirement: You are wielding two melee weapons, one in each hand.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fighter|Fighter]]'
 - '[[DATABASE/trait/Ranger|Ranger]]'
 - '[[DATABASE/trait/Swashbuckler|Swashbuckler]]'
-trigger: null
 type: Feat
 
 ---

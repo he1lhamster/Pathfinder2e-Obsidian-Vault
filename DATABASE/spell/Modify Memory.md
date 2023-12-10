@@ -1,31 +1,21 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Bergelmir|Bergelmir]]'
 - '[[DATABASE/deity/Narakaas|Narakaas]]'
 - '[[DATABASE/deity/Narakaas|Narakaas]]'
 - '[[DATABASE/deity/The Lost Prince|The Lost Prince]]'
-domain: null
 duration: unlimited
-element: null
 heighten: 6th
 heighten_level: 4, 6
 id: '200'
-lesson: null
 level: '4'
-mystery: null
 name: Modify Memory
-patron_theme: null
 range: 30 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 saving_throw: Will
 school: Divination
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -36,7 +26,6 @@ trait:
 - '[[DATABASE/trait/Divination|Divination]]'
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Spell
 
 ---

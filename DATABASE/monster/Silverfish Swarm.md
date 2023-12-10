@@ -1,8 +1,6 @@
 ﻿---
 ac: '13'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
 climb_speed: '20'
 constitution: '+0'
@@ -11,10 +9,7 @@ creature_ability:
 - Voracious Consumption
 creature_family: '[[DATABASE/monsterfamily/Silverfish|Silverfish]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+5'
-hardness: null
 hp: '9'
 id: '1614'
 immunity:
@@ -22,7 +17,6 @@ immunity:
 - '[[DATABASE/monsterability/Swarm Mind|swarm mind]]'
 intelligence: '-5'
 land_speed: '40'
-language: null
 level: '-1'
 max_speed: '40'
 name: Silverfish Swarm
@@ -31,8 +25,6 @@ rarity: Uncommon
 reflex: '+8'
 resistance:
 - physical 2
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -44,12 +36,10 @@ source: '[[DATABASE/source/Pathfinder 169. Kindled Magic|Pathfinder #169: Kindle
 speed:
 - 40 feet
 - climb 20 feet
-spell: null
 strength: '-2'
 strength_req: '-2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 - '[[DATABASE/trait/Swarm|Swarm]]'

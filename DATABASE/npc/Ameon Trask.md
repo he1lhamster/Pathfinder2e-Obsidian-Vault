@@ -1,24 +1,17 @@
 ﻿---
 ac: '30'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Attack of Opportunity
 - Sneak Attack
 - Twin Feint
 - Twin Parry
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+19'
 hp: '175'
 id: '2307'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -30,9 +23,6 @@ name: Ameon Trask
 perception: '+16'
 rarity: Unique
 reflex: '+21'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +21'
@@ -43,21 +33,17 @@ skill:
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 speed:
 - 25 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+16'
 wisdom: '+0'
 

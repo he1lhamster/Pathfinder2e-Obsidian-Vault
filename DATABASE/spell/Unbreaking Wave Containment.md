@@ -1,37 +1,23 @@
 ﻿---
 actions: '[three-actions]'
-area: null
-bloodline: null
 component:
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: sustained up to 1 minute
 element: Water
-heighten: null
 heighten_level: '9'
 id: '1248'
-lesson: null
 level: '9'
-mystery: null
 name: Unbreaking Wave Containment
-patron_theme: null
 range: 30 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 target: up to 4 creatures
-tradition: null
 trait:
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Incapacitation|Incapacitation]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 - '[[DATABASE/trait/Water|Water]]'
-trigger: null
 type: Focus
 
 ---

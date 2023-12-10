@@ -1,8 +1,6 @@
 ﻿---
 ac: '25'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+0'
 hardness: '0'
 hazard_type: Trap
@@ -16,17 +14,12 @@ level: '6'
 name: Rigged Cubby
 rarity: Common
 reflex: '+0'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 158. Sixty Feet Under|Pathfinder #158: Sixty
   Feet Under]]'
 trait:
 - '[[DATABASE/trait/Mechanical|Mechanical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Rigged Cubby<span class="item-type">Hazard 6</span>

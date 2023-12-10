@@ -1,8 +1,6 @@
 ﻿---
 ac: '36'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
 climb_speed: '40'
 constitution: '+8'
@@ -12,10 +10,8 @@ creature_ability:
 - Rotting Curse
 creature_family: '[[DATABASE/monsterfamily/Qlippoth|Qlippoth]]'
 dexterity: '+5'
-element: null
 fly_speed: '40'
 fortitude: '+28'
-hardness: null
 hp: '225'
 id: '776'
 immunity:
@@ -35,8 +31,6 @@ reflex: '+23'
 resistance:
 - mental 15
 - physical 15 (except cold iron)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent (imprecise) 30 feet]]'
@@ -58,7 +52,6 @@ strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fiend|Fiend]]'
 - '[[DATABASE/trait/Qlippoth|Qlippoth]]'

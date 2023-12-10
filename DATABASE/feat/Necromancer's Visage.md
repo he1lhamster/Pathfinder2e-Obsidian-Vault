@@ -1,10 +1,5 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Necromancer's Visage
-frequency: null
-heighten_level: null
 id: '3484'
 level: '12'
 name: Necromancer's Visage
@@ -12,18 +7,14 @@ prerequisite: ability to create or control [[DATABASE/trait/Undead|undead]] ; [[
   with a negative font, [[DATABASE/class_/Oracle|oracle]] of [[DATABASE/oraclemystery/Bones|bones]]
   , or [[DATABASE/wizardarcaneschool/Necromancy|necromancer]] [[DATABASE/class_/Wizard|wizard]]
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Cleric|Cleric]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Oracle|Oracle]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 - '[[DATABASE/trait/Wizard|Wizard]]'
-trigger: null
 type: Feat
 
 ---

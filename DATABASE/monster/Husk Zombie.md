@@ -1,10 +1,7 @@
 ﻿---
 ac: '17'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Slow
@@ -12,10 +9,7 @@ creature_ability:
 - Sudden Surge
 creature_family: '[[DATABASE/monsterfamily/Zombie|Zombie]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+7'
-hardness: null
 hp: 55 ( negative healing )
 id: '1919'
 immunity:
@@ -36,9 +30,6 @@ name: Husk Zombie
 perception: '+5'
 rarity: Common
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -50,12 +41,10 @@ skill:
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 speed:
 - 25 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Undead|Undead]]'
 - '[[DATABASE/trait/Zombie|Zombie]]'

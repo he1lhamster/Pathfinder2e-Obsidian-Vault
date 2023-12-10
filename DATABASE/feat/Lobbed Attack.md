@@ -1,10 +1,6 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Lobbed Attack
-frequency: null
-heighten_level: null
 id: '1191'
 level: '8'
 name: Lobbed Attack
@@ -12,15 +8,11 @@ prerequisite: Master in [[DATABASE/skill/Performance|Performance]] ; [[DATABASE/
   Dedication|Juggler Dedication]]
 rarity: Uncommon
 requirement: You are Juggling a [[DATABASE/trait/Thrown|thrown]] weapon.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 151. The Show Must Go On|Pathfinder #151: The
   Show Must Go On]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

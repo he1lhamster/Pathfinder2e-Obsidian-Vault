@@ -1,19 +1,13 @@
 ﻿---
 ac: '15'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Slow
 creature_family: '[[DATABASE/monsterfamily/Zombie|Zombie]]'
 dexterity: '-3'
-element: null
-fly_speed: null
 fortitude: '+10'
-hardness: null
 hp: 70 ( negative healing )
 id: '425'
 immunity:
@@ -25,16 +19,12 @@ immunity:
 - unconscious
 intelligence: '-5'
 land_speed: '25'
-language: null
 level: '2'
 max_speed: '25'
 name: Zombie Brute
 perception: '+4'
 rarity: Common
 reflex: '+3'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Large
@@ -43,12 +33,10 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 25 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Mindless|Mindless]]'
 - '[[DATABASE/trait/Undead|Undead]]'

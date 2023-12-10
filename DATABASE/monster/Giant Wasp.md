@@ -1,10 +1,7 @@
 ﻿---
 ac: '19'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Giant Wasp Venom
@@ -12,25 +9,18 @@ creature_ability:
 - Wasp Larva
 creature_family: '[[DATABASE/monsterfamily/Wasp|Wasp]]'
 dexterity: '+4'
-element: null
 fly_speed: '40'
 fortitude: '+9'
-hardness: null
 hp: '45'
 id: '405'
-immunity: null
 intelligence: '-5'
 land_speed: '20'
-language: null
 level: '3'
 max_speed: '40'
 name: Giant Wasp
 perception: '+8'
 rarity: Common
 reflex: '+11'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Large
@@ -41,19 +31,16 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 20 feet
 - fly 40 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+6'
 wisdom: '+1'
 

@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Wonder Worker
-frequency: null
-heighten_level: null
 id: '3735'
 level: '20'
 name: Wonder Worker
 prerequisite: Legendary in [[DATABASE/skill/Arcana|Arcana]] , Legendary in [[DATABASE/skill/Nature|Nature]]
   , Legendary in [[DATABASE/skill/Occultism|Occultism]] , or Legendary in [[DATABASE/skill/Religion|Religion]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Thaumaturge|Thaumaturge]]'
-trigger: null
 type: Feat
 
 ---

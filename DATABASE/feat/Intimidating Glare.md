@@ -1,24 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Intimidating Glare
-frequency: null
-heighten_level: null
 id: '796'
+leads_to: '[[DATABASE/feat/Terrifying Howl|Terrifying Howl]]'
 level: '1'
 name: Intimidating Glare
 prerequisite: Trained in [[DATABASE/skill/Intimidation|Intimidation]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: intimidation
 trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Shared Assault
-frequency: null
-heighten_level: null
 id: '1654'
 level: '12'
 name: Shared Assault
 prerequisite: '[[DATABASE/feat/Courageous Assault|Courageous Assault]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Bard|Bard]]'
-trigger: null
 type: Feat
 
 ---

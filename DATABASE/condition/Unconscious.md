@@ -1,7 +1,6 @@
 ﻿---
 id: '38'
 name: Unconscious
-source: null
 
 ---
 # Unconscious

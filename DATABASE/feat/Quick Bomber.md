@@ -1,23 +1,13 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Quick Bomber
-frequency: null
-heighten_level: null
 id: '95'
 level: '1'
 name: Quick Bomber
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Alchemist|Alchemist]]'
-trigger: null
 type: Feat
 
 ---

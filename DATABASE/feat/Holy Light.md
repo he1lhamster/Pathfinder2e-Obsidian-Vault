@@ -1,20 +1,13 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Holy Light
-frequency: null
-heighten_level: null
 id: '3639'
 level: '10'
 name: Holy Light
 prerequisite: you follow a good-aligned deity
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Champion|Champion]]'
 - '[[DATABASE/trait/Cleric|Cleric]]'
@@ -23,7 +16,6 @@ trait:
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Light|Light]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,10 +1,7 @@
 ﻿---
 ac: '36'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Capsize
@@ -13,15 +10,10 @@ creature_ability:
 - Pressurize Claw
 - Release Claw
 - Ship Armor
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+26'
-hardness: null
 hp: 200 (Hardness 10)
 id: '1741'
-immunity: null
 intelligence: '+4'
 land_speed: '30'
 language:
@@ -35,8 +27,6 @@ rarity: Unique
 reflex: '+20'
 resistance:
 - ship armor
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Wavesense|wavesense]] 60'
@@ -51,7 +41,6 @@ source: '[[DATABASE/source/Monsters of Myth|Monsters of Myth]]'
 speed:
 - 30 feet
 - swim 60 feet
-spell: null
 strength: '+8'
 strength_req: '8'
 strongest_save:
@@ -66,7 +55,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+23'
 wisdom: '+6'
 

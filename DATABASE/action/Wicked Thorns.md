@@ -1,16 +1,10 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 frequency: once per day
 id: '1449'
 name: Wicked Thorns
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-trait: null
 trigger: You're hit with an [[DATABASE/trait/Unarmed|unarmed]] Strike or a Strike
   with anon- [[DATABASE/trait/Reach|reach]] melee weapon.
 type: Action

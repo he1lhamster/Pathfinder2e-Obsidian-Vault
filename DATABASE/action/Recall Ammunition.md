@@ -1,13 +1,8 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
-frequency: null
 id: '924'
 name: Recall Ammunition
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Conjuration
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:

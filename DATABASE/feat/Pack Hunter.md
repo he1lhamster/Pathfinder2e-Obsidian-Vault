@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Pack Hunter
-frequency: null
-heighten_level: null
 id: '2794'
+leads_to: '[[DATABASE/feat/Pack Stalker|Pack Stalker]]'
 level: '1'
 name: Pack Hunter
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Gnoll|Gnoll]]'
-trigger: null
 type: Feat
 
 ---

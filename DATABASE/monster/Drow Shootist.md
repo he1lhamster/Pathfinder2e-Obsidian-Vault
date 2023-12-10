@@ -1,10 +1,7 @@
 ﻿---
 ac: '27'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Distracting Shot
@@ -16,10 +13,7 @@ creature_ability:
 - Attack
 creature_family: '[[DATABASE/monsterfamily/Drow|Drow]]'
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+15'
-hardness: null
 hp: '120'
 id: '1387'
 immunity:
@@ -35,9 +29,6 @@ name: Drow Shootist
 perception: '+16'
 rarity: Uncommon
 reflex: '+17'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -60,7 +51,6 @@ strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Drow|Drow]]'
 - '[[DATABASE/trait/Elf|Elf]]'
@@ -70,7 +60,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+16'
 wisdom: '+4'
 

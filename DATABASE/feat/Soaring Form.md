@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Soaring Form
-frequency: null
-heighten_level: null
 id: '2447'
 level: '17'
 name: Soaring Form
 prerequisite: '[[DATABASE/feat/Soaring Flight|Soaring Flight]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Tengu|Tengu]]'
-trigger: null
 type: Feat
 
 ---

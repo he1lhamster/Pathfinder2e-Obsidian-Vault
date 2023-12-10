@@ -1,22 +1,15 @@
 ﻿---
 ac: '23'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Empty Wail
 - Impassioned Strikes
 - Mortal Reflection
 - Unsubstantiated Consciousness
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+16'
-hardness: null
 hp: '85'
 id: '1746'
 immunity:
@@ -47,8 +40,6 @@ rarity: Rare
 reflex: '+11'
 resistance:
 - physical 5 (except [[DATABASE/equipment/Adamantine Weapon|adamantine]] )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -62,12 +53,10 @@ skill:
 source: '[[DATABASE/source/Monsters of Myth|Monsters of Myth]]'
 speed:
 - 25 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Automaton|Automaton]]'
 - '[[DATABASE/trait/Construct|Construct]]'
@@ -76,7 +65,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+14'
 wisdom: '+0'
 

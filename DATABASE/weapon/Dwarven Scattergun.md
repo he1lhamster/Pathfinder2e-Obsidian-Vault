@@ -1,8 +1,6 @@
 ﻿---
 bulk: '2'
 damage: 1d8 P
-deity: null
-favored_weapon: null
 hands: '2'
 id: '207'
 item_category: Weapons
@@ -12,7 +10,6 @@ name: Dwarven Scattergun
 price: 10 gp
 range: 50 ft.
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:
 - '[[DATABASE/trait/Concussive|Concussive]]'

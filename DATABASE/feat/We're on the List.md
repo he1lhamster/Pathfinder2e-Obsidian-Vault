@@ -1,21 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: We're on the List
-frequency: null
-heighten_level: null
 id: '4132'
 level: '3'
 name: We're on the List
 prerequisite: '[[DATABASE/feat/Alter Ego Dedication|Alter Ego Dedication]] or [[DATABASE/feat/Archaeologist
   Dedication|Archaeologist Dedication]] ; Trained in [[DATABASE/skill/Society|Society]]'
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Firebrands|Firebrands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Skill|Skill]]'

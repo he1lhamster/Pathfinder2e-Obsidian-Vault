@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Mutable Familiar
-frequency: null
-heighten_level: null
 id: '1974'
 level: '8'
 name: Mutable Familiar
 prerequisite: '[[DATABASE/feat/Familiar Master Dedication|Familiar Master Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

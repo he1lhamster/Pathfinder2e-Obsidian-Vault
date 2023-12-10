@@ -1,14 +1,10 @@
 ﻿---
-ability: null
-ability_boost: null
 id: '23'
 name: Exploration
 rarity: Common
-rus_type_level: null
 skill:
 - Exploration
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
-trait: null
 type: Skill
 
 ---

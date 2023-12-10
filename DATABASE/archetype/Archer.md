@@ -2,11 +2,8 @@
 id: '47'
 level: '2'
 name: Archer
-prerequisite: null
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-trait: null
 type: Archetype
 
 ---

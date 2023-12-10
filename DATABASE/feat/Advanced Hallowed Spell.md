@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Advanced Hallowed Spell
-frequency: null
-heighten_level: null
 id: '3463'
 level: '8'
 name: Advanced Hallowed Spell
 prerequisite: '[[DATABASE/feat/Hallowed Necromancer Dedication|Hallowed Necromancer
   Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,25 +1,16 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Lethal Finisher
-frequency: null
-heighten_level: null
 id: '1557'
 level: '18'
 name: Lethal Finisher
 prerequisite: '[[DATABASE/class_/Swashbuckler|precise strike 6d6]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Death|Death]]'
 - '[[DATABASE/trait/Finisher|Finisher]]'
 - '[[DATABASE/trait/Swashbuckler|Swashbuckler]]'
-trigger: null
 type: Feat
 
 ---

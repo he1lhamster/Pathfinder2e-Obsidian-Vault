@@ -1,23 +1,16 @@
 ﻿---
 ac: '17'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Bola Bolt
 - Light Blindness
 creature_family: '[[DATABASE/monsterfamily/Duergar|Duergar]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+7'
-hardness: null
 hp: '16'
 id: '168'
-immunity: null
 intelligence: '+0'
 land_speed: '20'
 language:
@@ -30,9 +23,6 @@ name: Duergar Sharpshooter
 perception: '+4'
 rarity: Common
 reflex: '+7'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -50,7 +40,6 @@ strength_req: '1'
 strongest_save:
 - Fortitude
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Duergar|Duergar]]'
 - '[[DATABASE/trait/Dwarf|Dwarf]]'
@@ -59,7 +48,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+4'
 wisdom: '+2'
 

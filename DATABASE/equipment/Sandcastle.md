@@ -1,56 +1,20 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
 bulk: L inactivated
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
 element: Earth
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '2595'
 item_category: Structures
-item_subcategory: null
-land_speed: null
 level: '11'
-max_speed: null
 name: Sandcastle
-onset: null
 price: 1,250 gp
-range: null
 rarity: Uncommon
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
-school: null
-size: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-spell: null
-stage: null
 subcategory: structure
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Structure|Structure]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Item
-usage: null
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Sandcastle<span class="item-type">Item 11</span>

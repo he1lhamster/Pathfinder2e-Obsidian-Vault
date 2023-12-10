@@ -1,56 +1,22 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
 bulk: '1'
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '569'
 item_category: Worn Items
 item_subcategory: Other Worn Items
-land_speed: null
 level: '3'
-max_speed: null
 name: Manacles of Persuasion
-onset: null
 price: 45 gp
-range: null
 rarity: Uncommon
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Necromancy
-size: null
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
-spell: null
-stage: null
 subcategory: wornitem
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Nonlethal|Nonlethal]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Item
 usage: worn on wrists
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Manacles of Persuasion<span class="item-type">Item 3</span>

@@ -1,10 +1,7 @@
 ﻿---
 ac: '36'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Attack of Opportunity
@@ -14,14 +11,10 @@ creature_ability:
 - Juggernaut
 - Show-Off
 - Sudden Charge
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+28'
 hp: '260'
 id: '2126'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -32,8 +25,6 @@ name: Ledorick Banyan
 perception: '+24'
 rarity: Unique
 reflex: '+26'
-resistance: null
-rus_type_level: null
 sense:
 - (26 when using for initiative)
 size: Medium
@@ -49,21 +40,17 @@ source: '[[DATABASE/source/Pathfinder 154. Siege of the Dinosaurs|Pathfinder #15
   Siege of the Dinosaurs]]'
 speed:
 - 25 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+22'
 wisdom: '+2'
 

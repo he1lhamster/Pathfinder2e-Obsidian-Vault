@@ -1,25 +1,17 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Cleric Dedication
-frequency: null
-heighten_level: null
 id: '694'
+leads_to: '[[DATABASE/feat/Basic Cleric Spellcasting|Basic Cleric Spellcasting]] ,
+  [[DATABASE/feat/Basic Dogma|Basic Dogma]]'
 level: '2'
 name: Cleric Dedication
 prerequisite: Wisdom 14
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Multiclass|Multiclass]]'
-trigger: null
 type: Feat
 
 ---

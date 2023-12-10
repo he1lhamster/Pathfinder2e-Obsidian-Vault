@@ -1,25 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Push it
-frequency: null
-heighten_level: null
 id: '3144'
 level: '7'
 name: Push it
 prerequisite: '[[DATABASE/feat/Trick Driver Dedication|Trick Driver Dedication]] ;
   Master in [[DATABASE/skill/Lore|Driving Lore]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

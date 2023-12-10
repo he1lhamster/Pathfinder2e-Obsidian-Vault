@@ -1,6 +1,5 @@
 ﻿---
 ac: '24'
-all_resistance: null
 complexity: Complex
 element: Fire
 fortitude: '+17'
@@ -17,9 +16,6 @@ level: '6'
 name: Dahak's Skull
 rarity: Unique
 reflex: '+8'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 146. Cult of Cinders|Pathfinder #146: Cult of
   Cinders]]'
 trait:
@@ -29,8 +25,6 @@ trait:
 - '[[DATABASE/trait/Trap|Trap]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Dahak's Skull<span class="item-type">Hazard 6</span>

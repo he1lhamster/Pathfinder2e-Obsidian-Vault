@@ -1,21 +1,13 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Scouring Rage
-frequency: null
-heighten_level: null
 id: '1612'
 level: '6'
 name: Scouring Rage
 prerequisite: an instinct that allows you to change your additional damage from [[DATABASE/action/Rage|Rage]]
   to a different damage type
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Barbarian|Barbarian]]'
 trigger: You Rage.

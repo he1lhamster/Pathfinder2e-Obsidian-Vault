@@ -1,21 +1,14 @@
 ﻿---
 ac: '15'
 alignment: NG
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '-2'
 creature_ability:
 - Eschew Materials
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+3'
 hp: 30 (currently 20)
 id: '2479'
-immunity: null
 intelligence: '+4'
 land_speed: '25'
 language:
@@ -30,9 +23,6 @@ name: Kemeneles
 perception: '+9'
 rarity: Common
 reflex: '+8'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Arcana|Arcana]] +8'
@@ -57,15 +47,12 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+11'
 wisdom: '+3'
 

@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Svetocher
-frequency: null
-heighten_level: null
 id: '1338'
+leads_to: '[[DATABASE/feat/Taste Blood|Taste Blood]]'
 level: '1'
 name: Svetocher
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Dhampir|Dhampir]]'
 - '[[DATABASE/trait/Lineage|Lineage]]'
-trigger: null
 type: Feat
 
 ---

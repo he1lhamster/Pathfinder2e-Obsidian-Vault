@@ -1,40 +1,27 @@
 ﻿---
 actions: '[three-actions]'
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Gendowyn|Gendowyn]]'
 - '[[DATABASE/deity/Gendowyn|Gendowyn]]'
-domain: null
 duration: sustained up to 1 minute
-element: null
 heighten: 2nd, 3rd, 4th, 5th, 6th, 7th, 8th, 9th, 10th
 heighten_level: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
 id: '322'
-lesson: null
 level: '1'
-mystery: null
 name: Summon Fey
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Occult
 - Primal
 trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
-trigger: null
 type: Spell
 
 ---

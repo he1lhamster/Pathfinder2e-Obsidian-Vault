@@ -1,10 +1,7 @@
 ﻿---
 ac: '45'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+8'
-climb_speed: null
 constitution: '+10'
 creature_ability:
 - Ashen Rise
@@ -13,10 +10,8 @@ creature_ability:
 - Sunlight Powerlessness
 creature_family: '[[DATABASE/monsterfamily/Darvakka|Darvakka]]'
 dexterity: '+7'
-element: null
 fly_speed: '70'
 fortitude: '+38'
-hardness: null
 hp: 450 (ashen rise, negative healing )
 id: '2361'
 immunity:
@@ -40,9 +35,6 @@ name: Umbraex
 perception: '+36'
 rarity: Rare
 reflex: '+32'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 - '[[DATABASE/monsterability/Lifesense|lifesense]] 100 feet'
@@ -70,7 +62,6 @@ strength: '+9'
 strength_req: '9'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Cold|Cold]]'
 - '[[DATABASE/trait/Darvakka|Darvakka]]'

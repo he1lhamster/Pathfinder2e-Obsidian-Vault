@@ -1,7 +1,6 @@
 ﻿---
 id: '9'
 name: Doomed
-source: null
 
 ---
 # Doomed

@@ -1,8 +1,6 @@
 ﻿---
 ac: '27'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
 climb_speed: '30'
 constitution: '+3'
@@ -12,10 +10,7 @@ creature_ability:
 - Matriarch's Caress
 creature_family: '[[DATABASE/monsterfamily/Lamia|Lamia]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+13'
-hardness: null
 hp: '135'
 id: '278'
 immunity:
@@ -34,8 +29,6 @@ rarity: Common
 reflex: '+18'
 resistance:
 - mental 10
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Large
@@ -89,7 +82,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+17'
 wisdom: '+3'
 

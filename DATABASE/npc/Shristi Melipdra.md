@@ -1,24 +1,17 @@
 ﻿---
 ac: '26'
 alignment: LG
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Attack of Opportunity
 - Flurry of Blows
 - Heaven's Thunder
 - Sky and Heaven Stance
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+13'
 hp: '100'
 id: '2495'
-immunity: null
 intelligence: '+0'
 land_speed: '35'
 language:
@@ -31,30 +24,22 @@ name: Shristi Melipdra
 perception: '+18'
 rarity: Unique
 reflex: '+18'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
-skill: null
 source: '[[DATABASE/source/Pathfinder 158. Sixty Feet Under|Pathfinder #158: Sixty
   Feet Under]]'
 speed:
 - 35 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+16'
 wisdom: '+3'
 

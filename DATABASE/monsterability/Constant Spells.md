@@ -1,11 +1,8 @@
 ﻿---
-actions: null
 id: '9'
 name: Constant Spells
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
-trait: null
 type: Creature Ability
 
 ---

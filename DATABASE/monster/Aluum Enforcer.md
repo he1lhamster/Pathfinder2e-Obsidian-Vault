@@ -1,10 +1,7 @@
 ﻿---
 ac: '30'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Aluum Antimagic
@@ -13,10 +10,7 @@ creature_ability:
 - Soul Shriek
 creature_family: '[[DATABASE/monsterfamily/Aluum|Aluum]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+21'
-hardness: null
 hp: '145'
 id: '476'
 immunity:
@@ -35,7 +29,6 @@ immunity:
 - unconscious
 intelligence: '-5'
 land_speed: '25'
-language: null
 level: '10'
 max_speed: '25'
 name: Aluum Enforcer
@@ -44,8 +37,6 @@ rarity: Uncommon
 reflex: '+18'
 resistance:
 - 10 physical (except adamantine)
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Large
@@ -55,12 +46,10 @@ source: '[[DATABASE/source/Pathfinder 149. Against the Scarlet Triad|Pathfinder 
   Against the Scarlet Triad]]'
 speed:
 - 25 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Mindless|Mindless]]'
@@ -69,7 +58,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+15'
 wisdom: '+1'
 

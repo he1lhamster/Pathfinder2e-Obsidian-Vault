@@ -2,7 +2,6 @@
 id: '63'
 name: Ethereal
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - Ethereal

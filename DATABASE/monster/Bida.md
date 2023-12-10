@@ -1,8 +1,6 @@
 ﻿---
 ac: '27'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
 climb_speed: '20'
 constitution: '+3'
@@ -10,12 +8,9 @@ creature_ability:
 - Constrict
 - Eight Coils
 - Mask Settlement
-creature_family: null
 dexterity: '+2'
-element: null
 fly_speed: '60'
 fortitude: '+18'
-hardness: null
 hp: '135'
 id: '440'
 immunity:
@@ -36,8 +31,6 @@ reflex: '+15'
 resistance:
 - acid 10
 - poison 10
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - scent (imprecise) 30 feet
@@ -62,7 +55,6 @@ strength_req: '6'
 strongest_save:
 - Fortitude
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dragon|Dragon]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
@@ -70,7 +62,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+18'
 wisdom: '+3'
 

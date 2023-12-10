@@ -2,22 +2,15 @@
 ac: '20'
 alignment: NE
 all_resistance: '5'
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Entombing Grasp
 - Stone Spirit
-creature_family: null
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+11'
-hardness: null
 hp: '40'
 id: '1618'
-immunity: null
 intelligence: '+3'
 land_speed: '25'
 language:
@@ -33,9 +26,6 @@ reflex: '+9'
 resistance:
 - all damage 5 (except [[DATABASE/trait/Force|force]] or [[DATABASE/equipment/Ghost
   Touch|ghost touch]]
-rus_type_level: null
-school: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Arcana|Arcana]] +12'
@@ -66,17 +56,14 @@ strength: '+3'
 strength_req: '3'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Oread|Oread]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+15'
 wisdom: '+4'
 

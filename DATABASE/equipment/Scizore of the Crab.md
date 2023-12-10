@@ -1,54 +1,20 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
 base_item: '[[DATABASE/weapon/Scizore|Scizore]]'
 bulk: '1'
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '1887'
 item_category: Weapons
 item_subcategory: Specific Magic Weapons
-land_speed: null
 level: '5'
-max_speed: null
 name: Scizore of the Crab
-onset: null
 price: 150 gp
-range: null
 rarity: Common
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
-size: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-spell: null
-stage: null
-subcategory: null
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Item
 usage: worn on 1 hand
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Scizore of the Crab<span class="item-type">Item 5</span>

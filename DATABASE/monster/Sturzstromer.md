@@ -1,10 +1,8 @@
 ﻿---
 ac: '41'
 alignment: N
-all_resistance: null
 burrow_speed: '20'
 charisma: '+2'
-climb_speed: null
 constitution: '+8'
 creature_ability:
 - Clutching Stones
@@ -15,9 +13,7 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Cobble Mite|Cobble Mite]]'
 dexterity: '+10'
 element: Earth
-fly_speed: null
 fortitude: '+33'
-hardness: null
 hp: '280'
 id: '1100'
 immunity:
@@ -37,8 +33,6 @@ reflex: '+35'
 resistance:
 - piercing 20
 - slashing 20
-rus_type_level: null
-school: null
 sense:
 - no vision
 - '[[DATABASE/monsterability/Tremorsense|tremorsense]] (precise) 120 feet'
@@ -58,14 +52,12 @@ strength: '+8'
 strength_req: '8'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Swarm|Swarm]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
 weakness:

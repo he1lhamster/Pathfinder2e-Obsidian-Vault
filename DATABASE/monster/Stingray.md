@@ -1,35 +1,23 @@
 ﻿---
 ac: '16'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-4'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Electrolocation
 - Stingray Venom
 creature_family: '[[DATABASE/monsterfamily/Ray|Ray]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+5'
-hardness: null
 hp: '15'
 id: '785'
-immunity: null
 intelligence: '-4'
-land_speed: null
-language: null
 level: '0'
 max_speed: '30'
 name: Stingray
 perception: '+6'
 rarity: Common
 reflex: '+7'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - electrolocation (imprecise) 30 feet
 - '[[DATABASE/monsterability/Low-Light Vision|low-lightvision]]'
@@ -40,7 +28,6 @@ skill:
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - swim 30 feet
-spell: null
 strength: '+1'
 strength_req: '1'
 strongest_save:
@@ -54,7 +41,6 @@ vision: Low-light vision
 weakest_save:
 - Fortitude
 - Will
-weakness: null
 will: '+5'
 wisdom: '+1'
 

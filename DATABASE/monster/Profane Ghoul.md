@@ -1,22 +1,16 @@
 ﻿---
 ac: '30'
 alignment: NE
-all_resistance: null
 burrow_speed: '10'
 charisma: '+5'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Ghoul Fever
 - Profane Paralysis
 - Profane Whispers
 - Scuttle
-creature_family: null
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+17'
-hardness: null
 hp: 180 ( negative healing )
 id: '1958'
 immunity:
@@ -36,9 +30,6 @@ name: Profane Ghoul
 perception: '+19'
 rarity: Rare
 reflex: '+22'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -51,12 +42,10 @@ source: '[[DATABASE/source/Shadows at Sundown|Shadows at Sundown]]'
 speed:
 - 30 feet
 - burrow 10 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Ghoul|Ghoul]]'
 - '[[DATABASE/trait/Rare|Rare]]'
@@ -65,7 +54,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+19'
 wisdom: '+5'
 

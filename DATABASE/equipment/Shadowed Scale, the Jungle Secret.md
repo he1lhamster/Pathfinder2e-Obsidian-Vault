@@ -1,46 +1,14 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
 bulk: L
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '1530'
 item_category: Artifacts
-item_subcategory: null
-land_speed: null
 level: '22'
-max_speed: null
 name: Shadowed Scale, the Jungle Secret
-onset: null
-price: null
-range: null
 rarity: Unique
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Conjuration
-size: null
 source: '[[DATABASE/source/Pathfinder 174. Shadows of the Ancients|Pathfinder #174:
   Shadows of the Ancients]]'
-spell: null
-stage: null
 subcategory: artifact
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Artifact|Artifact]]'
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
@@ -48,12 +16,8 @@ trait:
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Primal|Primal]]'
 - '[[DATABASE/trait/Unique|Unique]]'
-trigger: null
 type: Item
 usage: worn mask
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Shadowed Scale, the Jungle Secret<span class="item-type">Item 22</span>

@@ -1,10 +1,7 @@
 ﻿---
 ac: '36'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Alchemical Formulas
@@ -14,14 +11,10 @@ creature_ability:
 - Quick Bomber
 - True Debilitating Bomb
 - Uncanny Bombs
-creature_family: null
 dexterity: '+7'
-element: null
-fly_speed: null
 fortitude: '+24'
 hp: '265'
 id: '1569'
-immunity: null
 intelligence: '+8'
 land_speed: '25'
 language:
@@ -34,9 +27,6 @@ name: Zuferian
 perception: '+26'
 rarity: Unique
 reflex: '+29'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +26'
@@ -50,21 +40,17 @@ source: '[[DATABASE/source/Pathfinder 148. Fires of the Haunted City|Pathfinder 
   Fires of the Haunted City]]'
 speed:
 - 25 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+27'
 wisdom: '+7'
 

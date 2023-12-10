@@ -1,28 +1,15 @@
 ﻿---
-ac: null
-all_resistance: null
 complexity: Simple
-element: null
-fortitude: null
-hardness: null
 hazard_type: Haunt
-hp: null
 id: '168'
-immunity: null
 level: '13'
 name: Ileosa's Sixth Manifestation
 rarity: Rare
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Shadows at Sundown|Shadows at Sundown]]'
 trait:
 - '[[DATABASE/trait/Haunt|Haunt]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Ileosa's Sixth Manifestation<span class="item-type">Hazard 13</span>

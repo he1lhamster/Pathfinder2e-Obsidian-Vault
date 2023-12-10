@@ -1,8 +1,6 @@
 ﻿---
 ac: '24'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
 climb_speed: '20'
 constitution: '+3'
@@ -11,10 +9,7 @@ creature_ability:
 - Web Trap
 creature_family: '[[DATABASE/monsterfamily/Fleshwarp|Fleshwarp]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+13'
-hardness: null
 hp: '95'
 id: '207'
 immunity:
@@ -30,9 +25,6 @@ name: Drider
 perception: '+13'
 rarity: Common
 reflex: '+13'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Large
@@ -68,7 +60,6 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 type: Creature
@@ -76,7 +67,6 @@ vision: Darkvision
 weakest_save:
 - Fortitude
 - Reflex
-weakness: null
 will: '+15'
 wisdom: '+3'
 

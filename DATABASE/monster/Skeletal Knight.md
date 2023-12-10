@@ -1,21 +1,14 @@
 ﻿---
 ac: '28'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Attack of Opportunity
 - Lancer
 - Shield Block
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+17'
-hardness: null
 hp: 110 ( negative healing )
 id: '2096'
 immunity:
@@ -28,7 +21,6 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '20'
-language: null
 level: '8'
 max_speed: '20'
 name: Skeletal Knight
@@ -41,8 +33,6 @@ resistance:
 - '[[DATABASE/trait/Fire|fire]] 10'
 - piercing 10
 - slashing 10
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -53,12 +43,10 @@ source: '[[DATABASE/source/Pathfinder 183. Field of Maidens|Pathfinder #183: Fie
   of Maidens]]'
 speed:
 - 20 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Mindless|Mindless]]'
 - '[[DATABASE/trait/Skeleton|Skeleton]]'
@@ -68,7 +56,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+14'
 wisdom: '+0'
 

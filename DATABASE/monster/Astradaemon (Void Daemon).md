@@ -1,10 +1,7 @@
 ﻿---
 ac: '39'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+7'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Devour Soul
@@ -13,10 +10,8 @@ creature_ability:
 - Soul Siphon
 creature_family: '[[DATABASE/monsterfamily/Daemon|Daemon]]'
 dexterity: '+6'
-element: null
 fly_speed: '60'
 fortitude: '+27'
-hardness: null
 hp: '240'
 id: '91'
 immunity:
@@ -33,9 +28,6 @@ name: Astradaemon
 perception: '+28'
 rarity: Common
 reflex: '+30'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - lifesense 30 feet
@@ -62,7 +54,6 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Daemon|Daemon]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

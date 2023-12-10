@@ -1,29 +1,18 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Material
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/The Resplendent Court|The Resplendent Court]]'
-domain: null
 duration: 1 hour
-element: null
 heighten: 4th, 5th
 heighten_level: 2, 4, 5
 id: '867'
-lesson: null
 level: '2'
-mystery: null
 name: Befitting Attire
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Illusion
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 target: 5 willing creatures
@@ -33,7 +22,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Illusion|Illusion]]'
 - '[[DATABASE/trait/Visual|Visual]]'
-trigger: null
 type: Spell
 
 ---

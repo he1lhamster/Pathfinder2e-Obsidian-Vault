@@ -1,10 +1,7 @@
 ﻿---
 ac: '16'
 alignment: CG
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Hydration
@@ -13,12 +10,9 @@ creature_ability:
 - Swim Away
 creature_family: '[[DATABASE/monsterfamily/Azarketi|Azarketi]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+6'
 hp: '15'
 id: '1747'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -29,9 +23,6 @@ name: Azarketi Crab Catcher
 perception: '+6'
 rarity: Common
 reflex: '+9'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +4'
@@ -43,7 +34,6 @@ skill:
 source: '[[DATABASE/source/Absalom, City of Lost Omens|Absalom, City of Lost Omens]]'
 speed:
 - 25 feet; swim 25 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
@@ -54,10 +44,8 @@ trait:
 - '[[DATABASE/trait/Azarketi|Azarketi]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+3'
 wisdom: '+1'
 

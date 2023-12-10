@@ -2,7 +2,6 @@
 id: '502'
 name: Impulse
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 trait:
 - Impulse

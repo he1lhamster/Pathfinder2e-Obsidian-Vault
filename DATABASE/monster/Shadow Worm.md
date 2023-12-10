@@ -1,10 +1,8 @@
 ﻿---
 ac: '45'
 alignment: N
-all_resistance: null
 burrow_speed: '40'
 charisma: '+0'
-climb_speed: null
 constitution: '+9'
 creature_ability:
 - Breath Weapon
@@ -18,16 +16,11 @@ creature_ability:
 - Thrash
 creature_family: '[[DATABASE/monsterfamily/Cave Worm|Cave Worm]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+36'
-hardness: null
 hp: 450 (shadow healing)
 id: '2425'
-immunity: null
 intelligence: '-4'
 land_speed: '40'
-language: null
 level: '20'
 max_speed: '40'
 name: Shadow Worm
@@ -37,8 +30,6 @@ reflex: '+32'
 resistance:
 - '[[DATABASE/trait/Cold|cold]] 20'
 - '[[DATABASE/trait/Negative|negative]] 20'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) 100 feet'
@@ -51,12 +42,10 @@ source: '[[DATABASE/source/Pathfinder 186. Ghost King''s Rage|Pathfinder #186: G
 speed:
 - 40 feet
 - burrow 40 feet
-spell: null
 strength: '+10'
 strength_req: '10'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 - '[[DATABASE/trait/Rare|Rare]]'

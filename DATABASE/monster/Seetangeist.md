@@ -1,20 +1,14 @@
 ﻿---
 ac: '32'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Necrotic Runoff
 - Putrid Assault
 creature_family: '[[DATABASE/monsterfamily/Verdorite|Verdorite]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+25'
-hardness: null
 hp: 160 ( negative healing )
 id: '1914'
 immunity:
@@ -27,8 +21,6 @@ immunity:
 - '[[DATABASE/condition/Prone|prone]]'
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
-land_speed: null
-language: null
 level: '12'
 max_speed: '40'
 name: Seetangeist
@@ -41,8 +33,6 @@ resistance:
 - '[[DATABASE/trait/Fire|fire]] 10'
 - slashing 10
 - piercing 10
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Wavesense|wavesense]] (imprecise) 100 feet'
@@ -52,7 +42,6 @@ skill:
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 speed:
 - swim 40 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:

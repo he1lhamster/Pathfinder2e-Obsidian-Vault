@@ -1,10 +1,7 @@
 ﻿---
 ac: '45'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Attack of Opportunity
@@ -17,10 +14,8 @@ creature_ability:
 - Ghost Bane
 creature_family: '[[DATABASE/monsterfamily/Dragon, Umbral|Dragon, Umbral]]'
 dexterity: '+5'
-element: null
 fly_speed: '200'
 fortitude: '+35'
-hardness: null
 hp: '375'
 id: '636'
 immunity:
@@ -41,9 +36,6 @@ name: Ancient Umbral Dragon
 perception: '+36'
 rarity: Rare
 reflex: '+33'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent (imprecise) 60 feet]]'
@@ -71,7 +63,6 @@ strength: '+10'
 strength_req: '10'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dragon|Dragon]]'
 - '[[DATABASE/trait/Rare|Rare]]'
@@ -80,7 +71,6 @@ type: Creature
 vision: Greater darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+38'
 wisdom: '+8'
 

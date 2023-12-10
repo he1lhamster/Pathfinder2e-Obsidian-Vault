@@ -1,36 +1,22 @@
 ﻿---
 actions: '[one-action]'
 area: 5-foot emanation
-bloodline: null
 component:
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: sustained up to 1 minute
 element: Water
-heighten: null
 heighten_level: '7'
 id: '1247'
-lesson: null
 level: '7'
-mystery: null
 name: Unbreaking Wave Barrier
-patron_theme: null
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 saving_throw: Fortitude
 school: Abjuration
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-target: null
-tradition: null
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 - '[[DATABASE/trait/Water|Water]]'
-trigger: null
 type: Focus
 
 ---

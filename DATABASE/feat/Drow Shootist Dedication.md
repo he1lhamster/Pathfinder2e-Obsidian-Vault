@@ -1,26 +1,19 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Drow Shootist Dedication
-frequency: null
-heighten_level: null
 id: '2683'
+leads_to: '[[DATABASE/feat/Lethargy Poisoner|Lethargy Poisoner]] , [[DATABASE/feat/Reloading
+  Trick|Reloading Trick]] , [[DATABASE/feat/Repeating Hand Crossbow Training|Repeating
+  Hand Crossbow Training]]'
 level: '2'
 name: Drow Shootist Dedication
 prerequisite: trained in the [[DATABASE/weapon/Hand Crossbow|hand crossbow]]
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 165. Eyes of Empty Death|Pathfinder #165: Eyes
   of Empty Death]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

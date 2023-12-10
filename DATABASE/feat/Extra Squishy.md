@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Extra Squishy
-frequency: null
-heighten_level: null
 id: '1423'
 level: '1'
 name: Extra Squishy
 prerequisite: '[[DATABASE/heritage/Unbreakable Goblin|Unbreakable Goblin]] heritage'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Goblin|Goblin]]'
-trigger: null
 type: Feat
 
 ---

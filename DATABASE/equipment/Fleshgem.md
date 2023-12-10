@@ -1,56 +1,21 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '1436'
 item_category: Worn Items
 item_subcategory: Other Worn Items
-land_speed: null
 level: '8'
-max_speed: null
 name: Fleshgem
-onset: null
 price: 450 gp
-range: null
 rarity: Uncommon
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
-size: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
-spell: null
-stage: null
 subcategory: wornitem
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Invested|Invested]]'
 - '[[DATABASE/trait/Primal|Primal]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Item
 usage: envision
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Fleshgem<span class="item-type">Item 5+</span>

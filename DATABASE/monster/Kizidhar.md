@@ -1,8 +1,5 @@
 ﻿---
 ac: '22'
-alignment: null
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
 climb_speed: '15'
 constitution: '+5'
@@ -15,12 +12,9 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Genie|Genie]]'
 dexterity: '+3'
 element: Wood
-fly_speed: null
 fortitude: '+17'
-hardness: null
 hp: '110'
 id: '2681'
-immunity: null
 intelligence: '+3'
 land_speed: '25'
 language:
@@ -34,9 +28,6 @@ name: Kizidhar
 perception: '+14'
 rarity: Uncommon
 reflex: '+13'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -66,7 +57,6 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Elemental|Elemental]]'
 - '[[DATABASE/trait/Genie|Genie]]'

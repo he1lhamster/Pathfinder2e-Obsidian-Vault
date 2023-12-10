@@ -5,7 +5,6 @@ name: Knight Vigilant
 prerequisite: Trained in [[DATABASE/skill/Religion|Religion]] ; any good alignment;
   member of theKnights of Lastwall of knight rank
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

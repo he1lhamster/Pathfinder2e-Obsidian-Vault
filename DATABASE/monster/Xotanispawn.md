@@ -1,7 +1,6 @@
 ﻿---
 ac: '40'
 alignment: CE
-all_resistance: null
 burrow_speed: '40'
 charisma: '+5'
 climb_speed: '40'
@@ -13,12 +12,9 @@ creature_ability:
 - Heat Surge
 - Internal Furnace
 - Light Blindness
-creature_family: null
 dexterity: '+6'
 element: Fire
-fly_speed: null
 fortitude: '+31'
-hardness: null
 hp: '340'
 id: '487'
 immunity:
@@ -27,16 +23,12 @@ immunity:
 - fire
 intelligence: '-5'
 land_speed: '40'
-language: null
 level: '17'
 max_speed: '40'
 name: Xotanispawn
 perception: '+29'
 rarity: Rare
 reflex: '+29'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - tremorsense (imprecise) 60 feet
@@ -51,12 +43,10 @@ speed:
 - 40 feet
 - burrow 40 feet
 - climb 40 feet
-spell: null
 strength: '+9'
 strength_req: '9'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 - '[[DATABASE/trait/Fire|Fire]]'

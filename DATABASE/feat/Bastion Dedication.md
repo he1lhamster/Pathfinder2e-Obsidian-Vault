@@ -1,24 +1,17 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Bastion Dedication
-frequency: null
-heighten_level: null
 id: '1895'
+leads_to: '[[DATABASE/feat/Destructive Block|Destructive Block]] , [[DATABASE/feat/Disarming
+  Block|Disarming Block]] , [[DATABASE/feat/Drive Back|Drive Back]] , [[DATABASE/feat/Nimble
+  Shield Hand|Nimble Shield Hand]] , [[DATABASE/feat/Shield Salvation|Shield Salvation]]'
 level: '2'
 name: Bastion Dedication
 prerequisite: '[[DATABASE/feat/Shield Block|Shield Block]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
-trigger: null
 type: Feat
 
 ---

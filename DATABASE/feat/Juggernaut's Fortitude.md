@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Juggernaut's Fortitude
-frequency: null
-heighten_level: null
 id: '676'
 level: '12'
 name: Juggernaut's Fortitude
 prerequisite: '[[DATABASE/feat/Barbarian Dedication|Barbarian Dedication]] ; expert
   in Fortitude Saves'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

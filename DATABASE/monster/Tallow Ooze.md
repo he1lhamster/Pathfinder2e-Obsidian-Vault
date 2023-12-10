@@ -1,10 +1,7 @@
 ﻿---
 ac: '19'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Congealed
@@ -14,10 +11,7 @@ creature_ability:
 - Residual Grease
 creature_family: '[[DATABASE/monsterfamily/Ooze|Ooze]]'
 dexterity: '-5'
-element: null
-fly_speed: null
 fortitude: '+22'
-hardness: null
 hp: '270'
 id: '533'
 immunity:
@@ -31,7 +25,6 @@ immunity:
 - visual
 intelligence: '-5'
 land_speed: '20'
-language: null
 level: '11'
 max_speed: '20'
 name: Tallow Ooze
@@ -40,8 +33,6 @@ rarity: Common
 reflex: '+10'
 resistance:
 - cold 10
-rus_type_level: null
-school: null
 sense:
 - motion sense 60 feet
 - no vision
@@ -53,7 +44,6 @@ source: '[[DATABASE/source/Pathfinder 154. Siege of the Dinosaurs|Pathfinder #15
 speed:
 - 20 feet
 - swim 20 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
@@ -63,7 +53,6 @@ trait:
 - '[[DATABASE/trait/Mindless|Mindless]]'
 - '[[DATABASE/trait/Ooze|Ooze]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
 weakness:

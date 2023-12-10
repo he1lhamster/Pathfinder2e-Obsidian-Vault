@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Lingering Composition
-frequency: null
-heighten_level: null
 id: '180'
 level: '1'
 name: Lingering Composition
 prerequisite: '[[DATABASE/bardmuse/Maestro|maestro muse]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Bard|Bard]]'
-trigger: null
 type: Feat
 
 ---

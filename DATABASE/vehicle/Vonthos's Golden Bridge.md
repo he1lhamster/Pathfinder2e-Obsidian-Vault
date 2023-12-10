@@ -1,26 +1,18 @@
 ﻿---
 ac: '39'
-burrow_speed: null
-climb_speed: null
 fly_speed: '40'
 fortitude: '+29'
 hardness: '20'
 hp: '310'
 id: '36'
 item_category: Vehicles
-land_speed: null
 level: '17'
 max_speed: '40'
 name: Vonthos's Golden Bridge
 price: 50,000 gp
 rarity: Unique
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 size: Large
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Vehicle

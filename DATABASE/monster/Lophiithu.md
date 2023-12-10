@@ -1,25 +1,17 @@
 ﻿---
 ac: '43'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+7'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Beguiling Lure
 - Dimensional Swallow
 - Lure Whip
 - Swallow Whole
-creature_family: null
 dexterity: '+10'
-element: null
-fly_speed: null
 fortitude: '+30'
-hardness: null
 hp: '400'
 id: '1415'
-immunity: null
 intelligence: '+10'
 land_speed: '10'
 language:
@@ -38,8 +30,6 @@ reflex: '+36'
 resistance:
 - '[[DATABASE/trait/Mental|mental]] 20'
 - precision 15
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Gargantuan
@@ -77,7 +67,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+38'
 wisdom: '+6'
 

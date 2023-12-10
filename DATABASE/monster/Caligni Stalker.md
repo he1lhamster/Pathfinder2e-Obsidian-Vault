@@ -1,10 +1,7 @@
 ﻿---
 ac: '21'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Death Flame
@@ -13,13 +10,9 @@ creature_ability:
 - Sneak Attack
 creature_family: '[[DATABASE/monsterfamily/Caligni|Caligni]]'
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+10'
-hardness: null
 hp: 60 (death flame)
 id: '66'
-immunity: null
 intelligence: '-1'
 land_speed: '25'
 language:
@@ -31,9 +24,6 @@ name: Caligni Stalker
 perception: '+10'
 rarity: Common
 reflex: '+13'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - greater darkvision
 - light blindness
@@ -54,7 +44,6 @@ strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Caligni|Caligni]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -62,7 +51,6 @@ type: Creature
 vision: Greater darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+8'
 wisdom: '+2'
 

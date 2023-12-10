@@ -1,20 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Target of Opportunity
-frequency: null
-heighten_level: null
 id: '2017'
 level: '14'
 name: Target of Opportunity
 prerequisite: '[[DATABASE/feat/Marshal Dedication|Marshal Dedication]]'
 rarity: Common
 requirement: You have a ranged or [[DATABASE/trait/Thrown|thrown]] weapon in hand.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'

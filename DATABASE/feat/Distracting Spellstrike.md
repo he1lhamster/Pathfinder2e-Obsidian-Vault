@@ -1,10 +1,6 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Distracting Spellstrike
-frequency: null
-heighten_level: null
 id: '2854'
 level: '4'
 name: Distracting Spellstrike
@@ -13,13 +9,9 @@ prerequisite: '[[DATABASE/magushybridstudy/Laughing Shadow|laughing shadow hybri
 rarity: Common
 requirement: You're in [[DATABASE/action/Arcane Cascade|Arcane Cascade]] stance and
   have a hand free.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Magus|Magus]]'
-trigger: null
 type: Feat
 
 ---

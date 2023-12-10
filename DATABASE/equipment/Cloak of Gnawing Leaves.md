@@ -1,57 +1,23 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
 bulk: L
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '1820'
 item_category: Worn Items
 item_subcategory: Other Worn Items
-land_speed: null
-level: '12'
-max_speed: null
+level: '7'
 name: Cloak of Gnawing Leaves
-onset: null
-price: 2,000 gp
-range: null
+price: 330 gp
 rarity: Rare
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
-size: null
 source: '[[DATABASE/source/Pathfinder 187. The Seventh Arch|Pathfinder #187: The Seventh
   Arch]]'
-spell: null
-stage: null
 subcategory: wornitem
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Invested|Invested]]'
 - '[[DATABASE/trait/Primal|Primal]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Item
 usage: worn cloak
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Cloak of Gnawing Leaves<span class="item-type">Item 3+</span>

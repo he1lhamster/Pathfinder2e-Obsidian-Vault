@@ -1,25 +1,17 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Current Spell
-frequency: null
-heighten_level: null
-id: '4344'
+id: '1714'
 level: '6'
 name: Current Spell
-prerequisite: '[[DATABASE/feat/Elementalist Dedication|Elementalist Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
-source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
+school: Abjuration
+source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 trait:
-- '[[DATABASE/trait/Archetype|Archetype]]'
+- '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
-- '[[DATABASE/trait/Spellshape|Spellshape]]'
-trigger: null
+- '[[DATABASE/trait/Druid|Druid]]'
+- '[[DATABASE/trait/Metamagic|Metamagic]]'
 type: Feat
 
 ---

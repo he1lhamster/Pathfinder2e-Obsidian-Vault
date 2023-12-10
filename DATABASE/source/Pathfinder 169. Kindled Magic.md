@@ -2,9 +2,6 @@
 id: '94'
 name: Pathfinder 169. Kindled Magic
 rarity: Common
-rus_type_level: null
-source: null
-trait: null
 type: Source
 
 ---

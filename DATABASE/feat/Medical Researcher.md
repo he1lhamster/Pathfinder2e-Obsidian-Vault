@@ -1,25 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Medical Researcher
-frequency: null
-heighten_level: null
 id: '2170'
 level: '1'
 name: Medical Researcher
 prerequisite: Trained in [[DATABASE/skill/Medicine|Medicine]]
 rarity: Rare
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Legends|Legends]]'
 subcategory: medicine
 trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Diehard
-frequency: null
-heighten_level: null
 id: '774'
+leads_to: '[[DATABASE/feat/Numb to Death|Numb to Death]]'
 level: '1'
 name: Diehard
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/General|General]]'
-trigger: null
 type: Feat
 
 ---

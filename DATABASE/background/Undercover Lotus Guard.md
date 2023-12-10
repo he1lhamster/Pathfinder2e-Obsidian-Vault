@@ -1,18 +1,8 @@
 ﻿---
-ability: null
-ability_boost: null
-feat: null
 id: '199'
 name: Undercover Lotus Guard
-prerequisite: null
-rarity: null
-rus_type_level: null
-skill: null
 source: '[[DATABASE/source/Agents of Edgewatch Player''s Guide|Agents of Edgewatch
   Player''s Guide]]'
-subcategory: null
-trait: null
-type: null
 
 ---
 # Undercover Lotus Guard<span class="item-type">Background</span>

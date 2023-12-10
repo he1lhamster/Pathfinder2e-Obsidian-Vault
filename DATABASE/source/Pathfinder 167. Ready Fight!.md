@@ -2,9 +2,6 @@
 id: '86'
 name: Pathfinder 167. Ready Fight!
 rarity: Common
-rus_type_level: null
-source: null
-trait: null
 type: Source
 
 ---

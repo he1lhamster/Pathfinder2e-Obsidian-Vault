@@ -1,26 +1,19 @@
 ﻿---
 actions: '[one-action]'
-cost: null
 element: Fire
 feat: Rain of Embers Stance
-frequency: null
-heighten_level: null
 id: '2269'
+leads_to: '[[DATABASE/feat/Blazing Talon Surge|Blazing Talon Surge]]'
 level: '1'
 name: Rain of Embers Stance
-prerequisite: null
 rarity: Rare
 requirement: You are unarmored.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fire|Fire]]'
 - '[[DATABASE/trait/Monk|Monk]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Stance|Stance]]'
-trigger: null
 type: Feat
 
 ---

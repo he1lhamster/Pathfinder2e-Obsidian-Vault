@@ -1,10 +1,6 @@
 ﻿---
 ac: '30'
-alignment: null
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Ashen Smoke
@@ -15,12 +11,9 @@ creature_ability:
 - Troop Defenses
 - Troop
 - Movement
-creature_family: null
 dexterity: '+5'
 element: Fire
-fly_speed: null
 fortitude: '+20'
-hardness: null
 hp: 165 (16 squares)
 id: '2639'
 immunity:
@@ -39,9 +32,6 @@ name: Sootsoldiers
 perception: '+20'
 rarity: Common
 reflex: '+21'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - smoke vision
@@ -55,12 +45,10 @@ skill:
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 speed:
 - 40 feet; troop movement
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Elemental|Elemental]]'
 - '[[DATABASE/trait/Fire|Fire]]'

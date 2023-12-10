@@ -1,21 +1,15 @@
 ﻿---
 ac: '13'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Group Impression
 creature_family: '[[DATABASE/monsterfamily/Magistrates|Magistrates]]'
 dexterity: '-1'
-element: null
-fly_speed: null
 fortitude: '+5'
 hp: '9'
 id: '917'
-immunity: null
 intelligence: '+4'
 land_speed: '25'
 language:
@@ -26,8 +20,6 @@ name: Judge
 perception: '+8'
 rarity: Common
 reflex: '+1'
-resistance: null
-rus_type_level: null
 sense:
 - (15 to [[DATABASE/action/Sense Motive|Sense Motive]] )
 size: Medium
@@ -40,20 +32,16 @@ skill:
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 speed:
 - 25 feet
-spell: null
 strength: '+0'
 strength_req: '0'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+14'
 wisdom: '+4'
 

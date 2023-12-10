@@ -3,9 +3,7 @@ favored_weapon: '[[DATABASE/weapon/Halberd|Halberd]] , [[DATABASE/weapon/Lance|L
 id: '4'
 name: Order of the Nail
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-trait: null
 type: Hellknight Order
 
 ---

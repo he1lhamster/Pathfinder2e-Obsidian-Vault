@@ -1,10 +1,7 @@
 ﻿---
 ac: '26'
 alignment: NG
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Brand of the Impenitent
@@ -13,13 +10,10 @@ creature_ability:
 - Guiding Angel
 creature_family: '[[DATABASE/monsterfamily/Angel|Angel]]'
 dexterity: '+2'
-element: null
 fly_speed: '40'
 fortitude: '+16'
-hardness: null
 hp: '145'
 id: '15'
-immunity: null
 intelligence: '+1'
 land_speed: '30'
 language:
@@ -34,8 +28,6 @@ rarity: Common
 reflex: '+12'
 resistance:
 - '[[DATABASE/trait/Fire|fire]] 15'
-rus_type_level: null
-school: null
 sense:
 - (+20 to detect lies and illusions); darkvision
 size: Medium
@@ -60,7 +52,6 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Angel|Angel]]'
 - '[[DATABASE/trait/Celestial|Celestial]]'

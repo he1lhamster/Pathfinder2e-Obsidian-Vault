@@ -1,25 +1,17 @@
 ﻿---
 ac: '24'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Axe Vulnerability
 - Dead Tree
 - Ripping Disarm
 - Woodland Ambush
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+17'
-hardness: null
 hp: '105'
 id: '797'
-immunity: null
 intelligence: '+0'
 land_speed: '15'
 language:
@@ -35,8 +27,6 @@ reflex: '+8'
 resistance:
 - bludgeoning 5
 - piercing 5
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Lifesense|lifesense 30 feet]]'
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
@@ -47,19 +37,16 @@ skill:
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 15 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Plant|Plant]]'
 type: Creature
 vision: Low-light vision
 weakest_save:
 - Reflex
-weakness: null
 will: '+9'
 wisdom: '+2'
 

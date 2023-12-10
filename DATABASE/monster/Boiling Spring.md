@@ -1,10 +1,6 @@
 ﻿---
 ac: '34'
-alignment: null
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Evaporate
@@ -17,7 +13,6 @@ dexterity: '+7'
 element: Fire, Water
 fly_speed: '30'
 fortitude: '+23'
-hardness: null
 hp: '255'
 id: '2661'
 immunity:
@@ -27,7 +22,6 @@ immunity:
 - '[[DATABASE/trait/Poison|poison]]'
 - '[[DATABASE/trait/Sleep|sleep]]'
 intelligence: '+2'
-land_speed: null
 language:
 - '[[DATABASE/language/Thalassic|Thalassic]]'
 level: '13'
@@ -36,9 +30,6 @@ name: Boiling Spring
 perception: '+23'
 rarity: Common
 reflex: '+26'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - steam vision
@@ -50,7 +41,6 @@ source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 speed:
 - fly 30 feet
 - swim 80 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:

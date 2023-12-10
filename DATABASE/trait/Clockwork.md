@@ -2,7 +2,6 @@
 id: '331'
 name: Clockwork
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
 trait:
 - Clockwork

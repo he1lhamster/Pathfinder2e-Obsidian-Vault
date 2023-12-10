@@ -1,58 +1,25 @@
 ﻿---
-ac: null
 actions: '[one-action]'
-alignment: null
-base_item: null
 bulk: L
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '1585'
 item_category: Consumables
 item_subcategory: Talismans
-land_speed: null
-level: '10'
-max_speed: null
+level: '6'
 name: Golden Silencer
-onset: null
-price: 200 gp
-range: null
+price: 50 gp
 rarity: Uncommon
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Illusion
-size: null
 source: '[[DATABASE/source/Pathfinder 179. Cradle of Quartz|Pathfinder #179: Cradle
   of Quartz]]'
-spell: null
-stage: null
 subcategory: consumable/talisman
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Consumable|Consumable]]'
 - '[[DATABASE/trait/Illusion|Illusion]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Talisman|Talisman]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Item
 usage: affixed to a firearm
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Golden Silencer<span class="item-type">Item 6+</span>

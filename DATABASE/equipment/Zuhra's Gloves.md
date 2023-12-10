@@ -1,55 +1,20 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
 element: Metal
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '2622'
 item_category: Worn Items
 item_subcategory: Other Worn Items
-land_speed: null
 level: '13'
-max_speed: null
 name: Zuhra's Gloves
-onset: null
 price: 3,000 gp
-range: null
 rarity: Common
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
-school: null
-size: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-spell: null
-stage: null
 subcategory: wornitem
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Invested|Invested]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Metal|Metal]]'
-trigger: null
 type: Item
 usage: worn gloves
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Zuhra's Gloves<span class="item-type">Item 13</span>

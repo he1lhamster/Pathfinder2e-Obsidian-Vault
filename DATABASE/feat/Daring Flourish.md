@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Daring Flourish
-frequency: null
-heighten_level: null
 id: '1072'
 level: '10'
 name: Daring Flourish
 prerequisite: '[[DATABASE/feat/Daring Act|Daring Act]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

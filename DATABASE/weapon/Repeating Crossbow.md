@@ -1,8 +1,6 @@
 ﻿---
 bulk: '1'
 damage: 1d8 P
-deity: null
-favored_weapon: null
 hands: '2'
 id: '176'
 item_category: Weapons
@@ -12,7 +10,6 @@ name: Repeating Crossbow
 price: 15 gp
 range: 120 ft.
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:
 - '[[DATABASE/trait/Repeating|Repeating]]'

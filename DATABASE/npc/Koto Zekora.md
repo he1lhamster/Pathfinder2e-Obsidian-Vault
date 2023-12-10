@@ -1,23 +1,17 @@
 ﻿---
 ac: '39'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+9'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Attack of Opportunity
 - Bloodline Magic
 - Change Shape
-creature_family: null
 dexterity: '+3'
-element: null
 fly_speed: '30'
 fortitude: '+31'
 hp: '295'
 id: '1471'
-immunity: null
 intelligence: '+4'
 land_speed: '30'
 language:
@@ -31,8 +25,6 @@ name: Koto Zekora
 perception: '+30'
 rarity: Unique
 reflex: '+26'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -98,7 +90,6 @@ strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fiend|Fiend]]'
 - '[[DATABASE/trait/Giant|Giant]]'
@@ -109,7 +100,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+25'
 wisdom: '+2'
 

@@ -1,10 +1,8 @@
 ﻿---
-element: null
 id: '41'
 level: '7'
 name: Lamashtu's Bloom
 rarity: Common
-rus_type_level: null
 saving_throw: DC 23 Fort
 school: Conjuration
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
@@ -14,7 +12,6 @@ trait:
 - '[[DATABASE/trait/Disease|Disease]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 type: Curse
-usage: null
 
 ---
 # Lamashtu's Bloom<span class="item-type">Curse 7</span>

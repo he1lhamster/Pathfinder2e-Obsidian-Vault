@@ -1,28 +1,15 @@
 ﻿---
-actions: null
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: until the next time you make your daily preparations.
-element: null
 heighten: 4th
 heighten_level: 3, 4
 id: '90'
-lesson: null
 level: '3'
-mystery: null
 name: Dream Message
-patron_theme: null
 range: planetary
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Enchantment
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: 1 creature you know by name and have met in person
@@ -33,7 +20,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Enchantment|Enchantment]]'
 - '[[DATABASE/trait/Mental|Mental]]'
-trigger: null
 type: Spell
 
 ---

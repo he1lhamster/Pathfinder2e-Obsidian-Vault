@@ -1,26 +1,17 @@
 ﻿---
 actions: '[one-action]'
-cost: null
 element: Fire
 feat: Explosive Leap
-frequency: null
-heighten_level: null
 id: '3045'
 level: '1'
 name: Explosive Leap
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fire|Fire]]'
 - '[[DATABASE/trait/Inventor|Inventor]]'
 - '[[DATABASE/trait/Move|Move]]'
 - '[[DATABASE/trait/Unstable|Unstable]]'
-trigger: null
 type: Feat
 
 ---

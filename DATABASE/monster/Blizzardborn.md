@@ -1,10 +1,8 @@
 ﻿---
 ac: '24'
 alignment: N
-all_resistance: null
 burrow_speed: '20'
 charisma: '+0'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Ice Burrow
@@ -13,9 +11,7 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Elemental, Water|Elemental, Water]]'
 dexterity: '+2'
 element: Water
-fly_speed: null
 fortitude: '+16'
-hardness: null
 hp: '105'
 id: '665'
 immunity:
@@ -34,9 +30,6 @@ name: Blizzardborn
 perception: '+14'
 rarity: Common
 reflex: '+12'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - snow vision
@@ -48,12 +41,10 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 25 feet
 - ice burrow 20 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Cold|Cold]]'
 - '[[DATABASE/trait/Elemental|Elemental]]'

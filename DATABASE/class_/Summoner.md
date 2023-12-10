@@ -13,7 +13,6 @@ id: '18'
 name: Summoner
 perception_proficiency: Trained
 rarity: Common
-rus_type_level: null
 skill_proficiency:
 - Trained in one or more skills determined by your eidolon
 - Trained in a number of additional skills equal to 3 plus your Intelligence modifier
@@ -23,7 +22,6 @@ tradition:
 - Divine
 - Occult
 - Primal
-trait: null
 type: Class
 
 ---

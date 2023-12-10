@@ -1,27 +1,19 @@
 ﻿---
-actions: null
-cost: null
 element: Water
 feat: Aquatic Adaptation
 frequency: once per day
-heighten_level: null
 id: '2308'
 level: '13'
 name: Aquatic Adaptation
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Azarketi|Azarketi]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Primal|Primal]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
 - '[[DATABASE/trait/Water|Water]]'
-trigger: null
 type: Feat
 
 ---

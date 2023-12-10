@@ -7,9 +7,7 @@ name: Alter Dweomer
 rarity: Common
 requirement: The dweomercat cub was targeted by a spell or was within the area of
   a spell as it was cast since itslast turn
-rus_type_level: null
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
-trait: null
 type: Familiar Ability
 
 ---

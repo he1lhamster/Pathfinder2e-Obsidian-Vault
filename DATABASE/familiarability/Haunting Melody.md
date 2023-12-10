@@ -5,10 +5,7 @@ frequency: once per hour
 id: '75'
 name: Haunting Melody
 rarity: Common
-requirement: null
-rus_type_level: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
-trait: null
 type: Familiar Ability
 
 ---

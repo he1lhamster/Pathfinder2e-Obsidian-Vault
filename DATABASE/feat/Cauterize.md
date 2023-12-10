@@ -1,20 +1,11 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Cauterize
-frequency: null
-heighten_level: null
 id: '3170'
 level: '6'
 name: Cauterize
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Flourish|Flourish]]'
 - '[[DATABASE/trait/Gunslinger|Gunslinger]]'

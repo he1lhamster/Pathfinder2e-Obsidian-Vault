@@ -1,56 +1,8 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
-id: '2332'
-item_category: Worn Items
-item_subcategory: Other Worn Items
-land_speed: null
-level: '1'
-max_speed: null
+id: '1503'
 name: Candlecap
-onset: null
-price: 12 gp
-range: null
-rarity: Common
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
-school: Evocation
-size: null
-source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-spell: null
-stage: null
-subcategory: wornitem
-swim_speed: null
-trait:
-- '[[DATABASE/trait/Evocation|Evocation]]'
-- '[[DATABASE/trait/Invested|Invested]]'
-- '[[DATABASE/trait/Light|Light]]'
-- '[[DATABASE/trait/Magical|Magical]]'
-trigger: null
-type: Item
-usage: worn headwear
-weapon_category: null
-weapon_group: null
-weapon_type: null
+source: '[[DATABASE/source/Pathfinder 175. Broken Tusk Moon|Pathfinder #175: Broken
+  Tusk Moon]]'
 
 ---
 # Candlecap<span class="item-type">Item 1</span>

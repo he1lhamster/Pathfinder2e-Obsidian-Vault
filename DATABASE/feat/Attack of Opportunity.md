@@ -1,20 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Attack of Opportunity
-frequency: null
-heighten_level: null
 id: '145'
+leads_to: '[[DATABASE/feat/Disorienting Opening|Disorienting Opening]] , [[DATABASE/feat/Impassable
+  Wall Stance|Impassable Wall Stance]]'
 level: '6'
 name: Attack of Opportunity
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Barbarian|Barbarian]]'
 - '[[DATABASE/trait/Champion|Champion]]'

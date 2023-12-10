@@ -1,22 +1,15 @@
 ﻿---
 ac: '33'
 alignment: NG
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Nagaji Venom
 - Quickened Casting
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+24'
 hp: '175'
 id: '1486'
-immunity: null
 intelligence: '+2'
 land_speed: '25'
 language:
@@ -30,8 +23,6 @@ name: Yabin the Just (Level 13)
 perception: '+23'
 rarity: Unique
 reflex: '+22'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
@@ -83,7 +74,6 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Nagaji|Nagaji]]'
@@ -92,7 +82,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+19'
 wisdom: '+0'
 

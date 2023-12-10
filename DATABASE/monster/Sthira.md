@@ -1,10 +1,7 @@
 ﻿---
 ac: '45'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+10'
 creature_ability:
 - Attack of Opportunity
@@ -12,12 +9,8 @@ creature_ability:
 - Freezing Death
 - Frostbite
 - Frozen to the Touch
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+39'
-hardness: null
 hp: 475 ( negative healing )
 id: '1419'
 immunity:
@@ -38,9 +31,6 @@ name: Sthira
 perception: '+33'
 rarity: Uncommon
 reflex: '+27'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -60,7 +50,6 @@ strength: '+9'
 strength_req: '9'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Cold|Cold]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

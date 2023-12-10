@@ -1,24 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Quick Squeeze
-frequency: null
-heighten_level: null
 id: '828'
+leads_to: '[[DATABASE/feat/Implausible Infiltration|Implausible Infiltration]]'
 level: '1'
 name: Quick Squeeze
 prerequisite: Trained in [[DATABASE/skill/Acrobatics|Acrobatics]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: acrobatics
 trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

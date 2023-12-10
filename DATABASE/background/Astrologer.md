@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Oddity Identification|Oddity Identification]]'
 id: '229'
 name: Astrologer
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Occultism|Occultism]]'
 - Astrology [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

@@ -3,12 +3,9 @@ ability:
 - Constitution
 ability_boost:
 - Constitution
-feat: null
 id: '242'
 name: Magical Experiment
-prerequisite: null
 rarity: Rare
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Occultism|Occultism]]'
 - Academia [[DATABASE/skill/Lore|Lore]]

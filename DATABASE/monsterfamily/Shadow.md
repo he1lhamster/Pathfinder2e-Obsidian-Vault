@@ -3,9 +3,7 @@ creature_family: Shadow
 id: '89'
 name: Shadow
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
-trait: null
 type: Creature Family
 
 ---

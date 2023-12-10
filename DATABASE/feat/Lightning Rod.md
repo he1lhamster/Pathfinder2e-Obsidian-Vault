@@ -1,20 +1,13 @@
 ﻿---
 actions: '[three-actions]'
-cost: null
 element: Air, Metal
 feat: Lightning Rod
-frequency: null
 heighten_level: 6, 12, 18
 id: '4305'
 level: '6'
 name: Lightning Rod
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Composite|Composite]]'
@@ -22,7 +15,6 @@ trait:
 - '[[DATABASE/trait/Kineticist|Kineticist]]'
 - '[[DATABASE/trait/Metal|Metal]]'
 - '[[DATABASE/trait/Primal|Primal]]'
-trigger: null
 type: Feat
 
 ---

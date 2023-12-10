@@ -3,7 +3,6 @@ bloodline: Wyrmblessed
 id: '17'
 name: Wyrmblessed
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
 spell:
 - '[[DATABASE/spell/Cloak of Colors|Cloak of Colors]]'
@@ -19,7 +18,6 @@ spell:
 - '[[DATABASE/spell/Reflective Scales|Reflective Scales]]'
 - '[[DATABASE/spell/Repulsion|Repulsion]]'
 - '[[DATABASE/spell/Resist Energy|Resist Energy]]'
-trait: null
 type: Sorcerer Bloodline
 
 ---

@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Janni Magic
-frequency: null
-heighten_level: null
 id: '2586'
 level: '9'
 name: Janni Magic
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Suli|Suli]]'
-trigger: null
 type: Feat
 
 ---

@@ -16,12 +16,9 @@ id: '8'
 name: Monk
 perception_proficiency: Trained
 rarity: Common
-rus_type_level: null
 skill_proficiency:
 - Trained in a number of skills equal to 4 plus your Intelligence modifier
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-tradition: null
-trait: null
 type: Class
 
 ---

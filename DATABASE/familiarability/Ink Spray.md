@@ -5,10 +5,7 @@ frequency: once per 10 minutes
 id: '45'
 name: Ink Spray
 rarity: Common
-requirement: null
-rus_type_level: null
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
-trait: null
 type: Familiar Ability
 
 ---

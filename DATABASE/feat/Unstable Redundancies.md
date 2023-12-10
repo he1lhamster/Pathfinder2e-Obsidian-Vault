@@ -1,20 +1,11 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Unstable Redundancies
-frequency: null
-heighten_level: null
 id: '3081'
 level: '14'
 name: Unstable Redundancies
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Inventor|Inventor]]'
 trigger: You would attempt the flat check for an [[DATABASE/trait/Unstable|unstable]]

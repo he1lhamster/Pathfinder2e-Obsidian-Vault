@@ -1,7 +1,6 @@
 ﻿---
 id: '31'
 name: Prone
-source: null
 
 ---
 # Prone

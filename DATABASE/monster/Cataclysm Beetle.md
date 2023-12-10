@@ -1,20 +1,14 @@
 ﻿---
 ac: '44'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
 climb_speed: '20'
 constitution: '+9'
 creature_ability:
 - Bombardier's Spray
 - Burning Pool
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+35'
-hardness: null
 hp: '340'
 id: '1809'
 immunity:
@@ -29,9 +23,6 @@ name: Cataclysm Beetle
 perception: '+30'
 rarity: Rare
 reflex: '+26'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 60 feet'
@@ -45,12 +36,10 @@ source: '[[DATABASE/source/Pathfinder 174. Shadows of the Ancients|Pathfinder #1
 speed:
 - 30 feet
 - climb 20 feet
-spell: null
 strength: '+10'
 strength_req: '10'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Rare|Rare]]'
@@ -58,7 +47,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+30'
 wisdom: '+6'
 

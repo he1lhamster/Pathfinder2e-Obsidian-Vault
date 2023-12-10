@@ -1,10 +1,7 @@
 ﻿---
 ac: '35'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Eyes of the Enthralled
@@ -12,10 +9,7 @@ creature_ability:
 - Wicked Bite
 creature_family: '[[DATABASE/monsterfamily/Urdefhan|Urdefhan]]'
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+25'
-hardness: null
 hp: 250 ( negative healing )
 id: '879'
 immunity:
@@ -34,9 +28,6 @@ name: Urdefhan Dominator
 perception: '+26'
 rarity: Common
 reflex: '+25'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 size: Medium
@@ -78,7 +69,6 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Urdefhan|Urdefhan]]'

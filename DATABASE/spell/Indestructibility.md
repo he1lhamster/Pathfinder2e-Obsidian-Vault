@@ -1,31 +1,16 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: until the start of your next turn
-element: null
-heighten: null
 heighten_level: '10'
 id: '699'
-lesson: null
 level: '10'
-mystery: null
 name: Indestructibility
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-target: null
 tradition:
 - Arcane
 - Divine
@@ -34,7 +19,6 @@ tradition:
 - Elemental
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
-trigger: null
 type: Spell
 
 ---

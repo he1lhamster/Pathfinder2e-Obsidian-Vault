@@ -1,10 +1,7 @@
 ﻿---
 ac: '33'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Breath Weapon
@@ -19,7 +16,6 @@ dexterity: '+2'
 element: Water
 fly_speed: '120'
 fortitude: '+25'
-hardness: null
 hp: '222'
 id: '622'
 immunity:
@@ -39,9 +35,6 @@ name: Adult Brine Dragon
 perception: '+23'
 rarity: Uncommon
 reflex: '+20'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent (imprecise) 60 feet]]'
@@ -78,7 +71,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+21'
 wisdom: '+5'
 

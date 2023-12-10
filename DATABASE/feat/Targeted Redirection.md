@@ -1,23 +1,14 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Targeted Redirection
-frequency: null
-heighten_level: null
 id: '3261'
 level: '6'
 name: Targeted Redirection
 prerequisite: '[[DATABASE/feat/Sniping Duo Dedication|Sniping Duo Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

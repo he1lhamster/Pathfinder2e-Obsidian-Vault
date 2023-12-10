@@ -1,19 +1,12 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
-frequency: null
 id: '1271'
 name: Disgusting Gallop
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 181. Zombie Feast|Pathfinder #181: Zombie Feast]]'
 trait:
 - '[[DATABASE/trait/Disease|Disease]]'
 - '[[DATABASE/trait/Move|Move]]'
-trigger: null
 type: Action
 
 ---

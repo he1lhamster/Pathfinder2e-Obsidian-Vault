@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Specialized Companion (Ranger)
-frequency: null
-heighten_level: null
 id: '538'
 level: '16'
 name: Specialized Companion (Ranger)
 prerequisite: '[[DATABASE/feat/Incredible Companion (Ranger)|Incredible Companion
   (Ranger)]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Ranger|Ranger]]'
-trigger: null
 type: Feat
 
 ---

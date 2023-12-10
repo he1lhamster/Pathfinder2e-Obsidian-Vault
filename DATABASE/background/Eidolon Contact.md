@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Dubious Knowledge|Dubious Knowledge]]'
 id: '230'
 name: Eidolon Contact
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Lore|Lore]] for the creature associated with your contacted eidolon(such
   as Angel Lore or Dragon Lore).'
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

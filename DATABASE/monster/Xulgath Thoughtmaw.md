@@ -1,10 +1,7 @@
 ﻿---
 ac: '36'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Consume Knowledge
@@ -12,13 +9,10 @@ creature_ability:
 - Thoughtsense
 creature_family: '[[DATABASE/monsterfamily/Xulgath|Xulgath]]'
 dexterity: '+6'
-element: null
 fly_speed: '35'
 fortitude: '+23'
-hardness: null
 hp: '280'
 id: '982'
-immunity: null
 intelligence: '+8'
 land_speed: '25'
 language:
@@ -33,8 +27,6 @@ rarity: Rare
 reflex: '+26'
 resistance:
 - mental 15
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - thoughtsense (imprecise) 60 feet
@@ -79,7 +71,6 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Amphibious|Amphibious]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -89,7 +80,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+30'
 wisdom: '+5'
 

@@ -1,11 +1,7 @@
 ﻿---
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+1'
 dexterity: '+2'
-element: null
-fly_speed: null
 hp: '4'
 id: '41'
 intelligence: '-4'
@@ -13,7 +9,6 @@ land_speed: '30'
 max_speed: '30'
 name: Vampiric Animal
 rarity: Rare
-rus_type_level: null
 sense:
 - low-light vision
 - scent(imprecise
@@ -26,7 +21,6 @@ speed:
 - 30 feet
 strength: '+2'
 strength_req: '2'
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Animal Companion

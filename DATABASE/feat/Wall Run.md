@@ -1,23 +1,13 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Wall Run
-frequency: null
-heighten_level: null
 id: '462'
 level: '8'
 name: Wall Run
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Monk|Monk]]'
-trigger: null
 type: Feat
 
 ---

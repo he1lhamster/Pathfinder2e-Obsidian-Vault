@@ -1,23 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Camouflage
-frequency: null
-heighten_level: null
 id: '519'
+leads_to: '[[DATABASE/feat/Shadow Hunter|Shadow Hunter]] , [[DATABASE/feat/Stealthy
+  Companion|Stealthy Companion]]'
 level: '10'
 name: Camouflage
 prerequisite: Master in [[DATABASE/skill/Stealth|Stealth]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Ranger|Ranger]]'
-trigger: null
 type: Feat
 
 ---

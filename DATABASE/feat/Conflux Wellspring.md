@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Conflux Wellspring
-frequency: null
-heighten_level: null
 id: '2882'
 level: '18'
 name: Conflux Wellspring
 prerequisite: '[[DATABASE/feat/Conflux Focus|Conflux Focus]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Magus|Magus]]'
-trigger: null
 type: Feat
 
 ---

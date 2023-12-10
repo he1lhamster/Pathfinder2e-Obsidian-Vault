@@ -1,17 +1,10 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Spirit Speaker
-frequency: null
-heighten_level: null
 id: '3423'
 level: '2'
 name: Spirit Speaker
 prerequisite: Expert in [[DATABASE/skill/Nature|Nature]]
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Pathfinder 175. Broken Tusk Moon|Pathfinder #175: Broken
   Tusk Moon]]'
@@ -22,7 +15,6 @@ trait:
 - '[[DATABASE/trait/Secret|Secret]]'
 - '[[DATABASE/trait/Skill|Skill]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

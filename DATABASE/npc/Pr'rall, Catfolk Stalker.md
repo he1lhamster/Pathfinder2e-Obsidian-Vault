@@ -1,24 +1,17 @@
 ﻿---
 ac: '28'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Double Slice
 - Dual-Weapon Blitz
 - Flensing Slice
 - Light Paws
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+19'
 hp: '138'
 id: '1029'
-immunity: null
 intelligence: '+0'
 land_speed: '30'
 language:
@@ -30,8 +23,6 @@ name: Pr'rall
 perception: '+18'
 rarity: Unique
 reflex: '+20'
-resistance: null
-rus_type_level: null
 sense:
 - low-light vision
 size: Medium
@@ -48,12 +39,10 @@ source: "[[DATABASE/source/No-Prep Character. Pr'rall|No-Prep Character: Pr\u201
   rall]]"
 speed:
 - '30'
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Catfolk|Catfolk]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -62,7 +51,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+16'
 wisdom: '+2'
 

@@ -1,10 +1,6 @@
 ﻿---
 ac: '21'
-alignment: null
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - '1.'
@@ -14,12 +10,10 @@ creature_ability:
 - Exploding Guts
 - Predator's Stare
 - Suck Innards
-creature_family: null
 dexterity: '+2'
 element: Fire
 fly_speed: '45'
 fortitude: '+14'
-hardness: null
 hp: '90'
 id: '2690'
 immunity:
@@ -34,9 +28,6 @@ name: Rakkatak
 perception: '+9'
 rarity: Common
 reflex: '+11'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -46,12 +37,10 @@ source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 speed:
 - 5 feet
 - fly 45 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Elemental|Elemental]]'
 - '[[DATABASE/trait/Fire|Fire]]'

@@ -1,23 +1,14 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Snagging Strike
-frequency: null
-heighten_level: null
 id: '361'
 level: '1'
 name: Snagging Strike
-prerequisite: null
 rarity: Common
 requirement: You have one hand free, and your target is within reach of that hand.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fighter|Fighter]]'
-trigger: null
 type: Feat
 
 ---

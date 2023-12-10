@@ -1,10 +1,7 @@
 ﻿---
 ac: '40'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Daring Gambit
@@ -12,14 +9,10 @@ creature_ability:
 - Light Step
 - Mobile Combatant
 - Timely Boast
-creature_family: null
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+28'
 hp: '390'
 id: '2438'
-immunity: null
 intelligence: '+1'
 land_speed: '30'
 language:
@@ -31,9 +24,6 @@ name: Ruby
 perception: '+25'
 rarity: Unique
 reflex: '+32'
-resistance: null
-rus_type_level: null
-sense: null
 size: Small
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +33'
@@ -47,21 +37,17 @@ source: '[[DATABASE/source/Pathfinder 186. Ghost King''s Rage|Pathfinder #186: G
   King''s Rage]]'
 speed:
 - 30 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Halfling|Halfling]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+26'
 wisdom: '+2'
 

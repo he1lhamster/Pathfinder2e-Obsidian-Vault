@@ -1,8 +1,6 @@
 ﻿---
 ac: '27'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
 climb_speed: '25'
 constitution: '+1'
@@ -19,10 +17,7 @@ creature_ability:
 - Turn to Mist
 creature_family: '[[DATABASE/monsterfamily/Vampire|Vampire]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+15'
-hardness: null
 hp: 115 (coffin restoration, fast healing 10, negative healing )
 id: '401'
 immunity:
@@ -44,8 +39,6 @@ rarity: Uncommon
 reflex: '+18'
 resistance:
 - physical 10 (except magical silver)
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -87,7 +80,6 @@ strength: '+3'
 strength_req: '3'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 - '[[DATABASE/trait/Undead|Undead]]'

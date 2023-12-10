@@ -1,10 +1,7 @@
 ﻿---
 ac: '30'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Attack of Opportunity
@@ -19,7 +16,6 @@ dexterity: '+1'
 element: Fire
 fly_speed: '120'
 fortitude: '+21'
-hardness: null
 hp: '210'
 id: '136'
 immunity:
@@ -37,9 +33,6 @@ name: Young Red Dragon
 perception: '+20'
 rarity: Common
 reflex: '+18'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - scent (imprecise) 60 feet
@@ -64,7 +57,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dragon|Dragon]]'
 - '[[DATABASE/trait/Fire|Fire]]'

@@ -1,8 +1,6 @@
 ﻿---
 ac: '41'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
 climb_speed: '30'
 constitution: '+6'
@@ -12,15 +10,10 @@ creature_ability:
 - Odorless
 - Painful Light
 - Twisting Reach
-creature_family: null
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+32'
-hardness: null
 hp: '340'
 id: '1012'
-immunity: null
 intelligence: '+5'
 land_speed: '30'
 language:
@@ -35,8 +28,6 @@ rarity: Rare
 reflex: '+28'
 resistance:
 - cold 20
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) 60 feet'
@@ -66,7 +57,6 @@ strength: '+9'
 strength_req: '9'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Rare|Rare]]'
@@ -74,7 +64,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+30'
 wisdom: '+3'
 

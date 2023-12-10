@@ -1,45 +1,15 @@
 ﻿---
-ac: null
 actions: '[free-action]'
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '2106'
 item_category: Consumables
 item_subcategory: Talismans
-land_speed: null
-level: '16'
-max_speed: null
+level: '13'
 name: False Death Vial
-onset: null
-price: 2,000 gp
-range: null
+price: 600 gp
 rarity: Uncommon
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Conjuration
-size: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-spell: null
-stage: null
 subcategory: consumable/talisman
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Consumable|Consumable]]'
@@ -50,9 +20,6 @@ trigger: You would be reduced to 0 Hit Points by damage but not immediately kill
 type: Item
 usage: affixed to [[DATABASE/armor/Explorer's Clothing|explorer's clothing]] (or another
   item in theunarmored defense category)
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # False Death Vial<span class="item-type">Item 13+</span>

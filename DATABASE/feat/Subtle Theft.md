@@ -1,24 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Subtle Theft
-frequency: null
-heighten_level: null
 id: '848'
 level: '1'
 name: Subtle Theft
 prerequisite: Trained in [[DATABASE/skill/Thievery|Thievery]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: thievery
 trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

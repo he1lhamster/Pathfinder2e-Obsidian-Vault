@@ -8,16 +8,13 @@ ability_boost:
 feat: '[[DATABASE/feat/Dubious Knowledge|Dubious Knowledge]]'
 id: '21'
 name: Hermit
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Nature|Nature]] or [[DATABASE/skill/Occultism|Occultism]]'
 - '[[DATABASE/skill/Lore|Lore]] related to the terrain youlived in as a hermit (such
   as Cave Lore or Desert Lore).'
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

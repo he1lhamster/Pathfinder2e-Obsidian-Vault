@@ -1,25 +1,17 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Reach for the Sky
-frequency: null
-heighten_level: null
 id: '3256'
 level: '12'
 name: Reach for the Sky
 prerequisite: '[[DATABASE/feat/Pistol Phenom Dedication|Pistol Phenom Dedication]]'
 rarity: Common
 requirement: You're wielding a loaded firearm.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Auditory|Auditory]]'
 - '[[DATABASE/trait/Visual|Visual]]'
-trigger: null
 type: Feat
 
 ---

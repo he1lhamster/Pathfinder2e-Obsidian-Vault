@@ -1,18 +1,12 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
-frequency: null
 id: '70'
 name: Pick a Lock
 rarity: Common
 requirement: "You have [[DATABASE/equipment/Thieves' Tools|thieves\u2019 tools]] ."
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
-trigger: null
 type: Action
 
 ---

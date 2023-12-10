@@ -1,7 +1,5 @@
 ﻿---
-advanced_apocryphal_spell: null
 advanced_domain_spell: '[[DATABASE/spell/Destructive Aura|Destructive Aura]]'
-apocryphal_spell: null
 deity:
 - '[[DATABASE/deity/Abraxas|Abraxas]]'
 - '[[DATABASE/deity/Ahriman|Ahriman]]'
@@ -50,9 +48,7 @@ domain_spell: '[[DATABASE/spell/Cry of Destruction|Cry of Destruction]]'
 id: '8'
 name: Destruction Domain
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Domain
 
 ---

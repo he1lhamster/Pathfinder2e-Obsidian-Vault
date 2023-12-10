@@ -1,10 +1,8 @@
 ﻿---
-element: null
 id: '28'
 level: '19'
 name: Thief's Retribution
 rarity: Common
-rus_type_level: null
 saving_throw: DC 39 Fortitude
 school: Conjuration
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
@@ -13,7 +11,6 @@ trait:
 - '[[DATABASE/trait/Curse|Curse]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 type: Curse
-usage: null
 
 ---
 # Thief's Retribution<span class="item-type">Curse 19</span>

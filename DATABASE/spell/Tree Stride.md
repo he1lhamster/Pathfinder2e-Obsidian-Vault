@@ -1,37 +1,22 @@
 ﻿---
-actions: null
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Elven Pantheon|Elven Pantheon]]'
 - '[[DATABASE/deity/Erastil|Erastil]]'
 - '[[DATABASE/deity/Gendowyn|Gendowyn]]'
 - '[[DATABASE/deity/Gendowyn|Gendowyn]]'
 - '[[DATABASE/deity/Yuelral|Yuelral]]'
-domain: null
-duration: null
-element: null
 heighten: 6th, 8th, 9th
 heighten_level: 5, 6, 8, 9
 id: '343'
-lesson: null
 level: '5'
-mystery: null
 name: Tree Stride
-patron_theme: null
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Primal
 trait:
@@ -39,7 +24,6 @@ trait:
 - '[[DATABASE/trait/Plant|Plant]]'
 - '[[DATABASE/trait/Teleportation|Teleportation]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Spell
 
 ---

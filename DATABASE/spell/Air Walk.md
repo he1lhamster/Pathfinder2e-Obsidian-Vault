@@ -1,28 +1,16 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 5 minutes
 element: Air
-heighten: null
 heighten_level: '4'
 id: '6'
-lesson: null
 level: '4'
-mystery: null
 name: Air Walk
-patron_theme: null
 range: touch
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: 1 creature
@@ -32,7 +20,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Spell
 
 ---

@@ -1,7 +1,5 @@
 ﻿---
-advanced_apocryphal_spell: null
 advanced_domain_spell: '[[DATABASE/spell/Word of Freedom|Word of Freedom]]'
-apocryphal_spell: null
 deity:
 - '[[DATABASE/deity/Aakriti|Aakriti]]'
 - '[[DATABASE/deity/Arazni|Arazni]]'
@@ -35,9 +33,7 @@ domain_spell: '[[DATABASE/spell/Unimpeded Stride|Unimpeded Stride]]'
 id: '14'
 name: Freedom Domain
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Domain
 
 ---

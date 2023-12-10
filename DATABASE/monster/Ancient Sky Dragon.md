@@ -1,10 +1,7 @@
 ﻿---
 ac: '42'
 alignment: LG
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Breath Weapon
@@ -21,10 +18,8 @@ creature_ability:
 - Stunning Electricity
 creature_family: '[[DATABASE/monsterfamily/Dragon, Sky|Dragon, Sky]]'
 dexterity: '+4'
-element: null
 fly_speed: '160'
 fortitude: '+31'
-hardness: null
 hp: '335'
 id: '1130'
 immunity:
@@ -47,9 +42,6 @@ name: Ancient Sky Dragon
 perception: '+32'
 rarity: Rare
 reflex: '+28'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 60 feet'
@@ -76,7 +68,6 @@ strength: '+8'
 strength_req: '8'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dragon|Dragon]]'
 - '[[DATABASE/trait/Electricity|Electricity]]'
@@ -85,7 +76,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+32'
 wisdom: '+6'
 

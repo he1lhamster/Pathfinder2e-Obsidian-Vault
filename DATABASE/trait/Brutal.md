@@ -2,7 +2,6 @@
 id: '249'
 name: Brutal
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait:
 - Brutal

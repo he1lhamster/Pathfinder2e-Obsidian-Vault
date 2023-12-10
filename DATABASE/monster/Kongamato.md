@@ -1,22 +1,16 @@
 ﻿---
 ac: '30'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Attack of Opportunity
 - Boat Breaker
 - Flying Strafe
 - Wailing Dive
-creature_family: null
 dexterity: '+3'
-element: null
 fly_speed: '130'
 fortitude: '+22'
-hardness: null
 hp: '190'
 id: '1211'
 immunity:
@@ -32,9 +26,6 @@ name: Kongamato
 perception: '+19'
 rarity: Uncommon
 reflex: '+20'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -49,7 +40,6 @@ speed:
 - 30 feet
 - fly 130 feet
 - swim 30 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
@@ -62,7 +52,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+19'
 wisdom: '+2'
 

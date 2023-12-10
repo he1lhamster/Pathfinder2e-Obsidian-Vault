@@ -1,20 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Swift Intervention
-frequency: null
-heighten_level: null
 id: '3120'
 level: '6'
 name: Swift Intervention
 prerequisite: '[[DATABASE/feat/Overwatch Dedication|Overwatch Dedication]]'
 rarity: Common
 requirement: You are wielding a ranged weapon.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 trigger: An ally within your overwatch field fails in their attempt to [[DATABASE/action/Arrest

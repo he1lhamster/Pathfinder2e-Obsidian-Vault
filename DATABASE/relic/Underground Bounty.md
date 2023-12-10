@@ -3,9 +3,7 @@ element: Earth
 id: '29'
 item_category: Relics
 name: Underground Bounty
-prerequisite: null
 rarity: Common
-rus_type_level: null
 school: Conjuration
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:

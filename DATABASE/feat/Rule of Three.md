@@ -1,21 +1,14 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Rule of Three
-frequency: null
-heighten_level: null
 id: '3037'
 level: '8'
 name: Rule of Three
 prerequisite: '[[DATABASE/feat/Folklorist Dedication|Folklorist Dedication]]'
 rarity: Common
 requirement: You have Spun a Tale.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 170. Spoken on the Song Wind|Pathfinder #170:
   Spoken on the Song Wind]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Auditory|Auditory]]'

@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Terrain Expertise|Terrain Expertise]]'
 id: '205'
 name: Trailblazer
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Survival|Survival]]'
 - Cartography [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

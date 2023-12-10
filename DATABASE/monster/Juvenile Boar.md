@@ -1,35 +1,23 @@
 ﻿---
 ac: '15'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Boar Charge
 - Ferocity
-creature_family: null
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+9'
-hardness: null
 hp: '16'
 id: '1998'
-immunity: null
 intelligence: '-4'
 land_speed: '30'
-language: null
 level: '0'
 max_speed: '30'
 name: Juvenile Boar
 perception: '+5'
 rarity: Common
 reflex: '+3'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -42,19 +30,16 @@ source: '[[DATABASE/source/Pathfinder 151. The Show Must Go On|Pathfinder #151: 
   Show Must Go On]]'
 speed:
 - 30 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
 vision: Low-light vision
 weakest_save:
 - Reflex
-weakness: null
 will: '+5'
 wisdom: '+1'
 

@@ -1,21 +1,15 @@
 ﻿---
 ac: '19'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Bardic Lore
 creature_family: '[[DATABASE/monsterfamily/Performers|Performers]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+5'
 hp: '38'
 id: '941'
-immunity: null
 intelligence: '+2'
 land_speed: '25'
 language:
@@ -26,9 +20,6 @@ name: Troubadour
 perception: '+8'
 rarity: Common
 reflex: '+10'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +8'
@@ -61,15 +52,12 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+8'
 wisdom: '+1'
 

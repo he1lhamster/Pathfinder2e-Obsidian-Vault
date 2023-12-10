@@ -1,22 +1,16 @@
 ﻿---
 ac: '30'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Burning Sacrifice
 - Nimble Dodge
 - Sneak Attack
 - Study Foe
-creature_family: null
 dexterity: '+6'
 element: Fire
-fly_speed: null
 fortitude: '+18'
-hardness: null
 hp: 195 ( negative healing )
 id: '1696'
 immunity:
@@ -39,8 +33,6 @@ reflex: '+23'
 resistance:
 - '[[DATABASE/trait/Fire|fire]] 10'
 - '[[DATABASE/trait/Mental|mental]] 10'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -64,7 +56,6 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fire|Fire]]'
 - '[[DATABASE/trait/Rare|Rare]]'
@@ -73,7 +64,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+21'
 wisdom: '+2'
 

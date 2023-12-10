@@ -1,8 +1,6 @@
 ﻿---
 ac: '29'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
 climb_speed: '30'
 constitution: '+5'
@@ -20,10 +18,8 @@ creature_ability:
 - Snow Vision
 creature_family: '[[DATABASE/monsterfamily/Dragon, White|Dragon, White]]'
 dexterity: '+2'
-element: null
 fly_speed: '120'
 fortitude: '+22'
-hardness: null
 hp: '215'
 id: '140'
 immunity:
@@ -41,9 +37,6 @@ name: Adult White Dragon
 perception: '+20'
 rarity: Common
 reflex: '+19'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - scent (imprecise) 60 feet
@@ -66,7 +59,6 @@ strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Cold|Cold]]'
 - '[[DATABASE/trait/Dragon|Dragon]]'

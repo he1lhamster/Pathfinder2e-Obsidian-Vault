@@ -1,11 +1,8 @@
 ﻿---
 ac: '28'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+21'
 hardness: '15'
-hazard_type: null
 hp: 72 (BT 36)
 id: '212'
 immunity:
@@ -16,9 +13,6 @@ level: '9'
 name: Shadow Heart
 rarity: Rare
 reflex: '+15'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 183. Field of Maidens|Pathfinder #183: Field
   of Maidens]]'
 trait:

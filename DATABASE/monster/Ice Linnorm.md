@@ -1,10 +1,7 @@
 ﻿---
 ac: '41'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+7'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Attack of Opportunity
@@ -14,10 +11,8 @@ creature_ability:
 - Ice Linnorm Venom
 creature_family: '[[DATABASE/monsterfamily/Linnorm|Linnorm]]'
 dexterity: '+5'
-element: null
 fly_speed: '100'
 fortitude: '+32'
-hardness: null
 hp: '330'
 id: '285'
 immunity:
@@ -37,9 +32,6 @@ name: Ice Linnorm
 perception: '+29'
 rarity: Uncommon
 reflex: '+28'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - scent (imprecise) 60 feet

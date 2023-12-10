@@ -1,10 +1,7 @@
 ﻿---
 ac: '24'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Attack of Opportunity
@@ -12,12 +9,9 @@ creature_ability:
 - Ley Line Empowerment
 - Ley Line Rupture
 - Ley Line Sense
-creature_family: null
 dexterity: '+3'
-element: null
 fly_speed: '50'
 fortitude: '+16'
-hardness: null
 hp: '120'
 id: '2460'
 immunity:
@@ -36,8 +30,6 @@ rarity: Rare
 reflex: '+15'
 resistance:
 - physical 5 (while within 500 feet of a ley line)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - ley line sense (imprecise) 1 mile
@@ -59,7 +51,6 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dragon|Dragon]]'
 - '[[DATABASE/trait/Rare|Rare]]'
@@ -67,7 +58,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+14'
 wisdom: '+2'
 

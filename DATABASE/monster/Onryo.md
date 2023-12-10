@@ -2,7 +2,6 @@
 ac: '32'
 alignment: NE
 all_resistance: '8'
-burrow_speed: null
 charisma: '+6'
 climb_speed: '35'
 constitution: '+5'
@@ -10,12 +9,8 @@ creature_ability:
 - Flicker
 - Onryo's Rancor
 - Vengeful Suffocation
-creature_family: null
 dexterity: '+7'
-element: null
-fly_speed: null
 fortitude: '+21'
-hardness: null
 hp: 180 ( negative healing )
 id: '1889'
 immunity:
@@ -36,8 +31,6 @@ rarity: Uncommon
 reflex: '+23'
 resistance:
 - all damage 8 (except [[DATABASE/trait/Force|force]] )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -62,7 +55,6 @@ strength_req: '2'
 strongest_save:
 - Reflex
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 - '[[DATABASE/trait/Undead|Undead]]'
@@ -70,7 +62,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+23'
 wisdom: '+5'
 

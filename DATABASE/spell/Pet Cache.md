@@ -1,27 +1,14 @@
 ﻿---
 actions: '[one-action]'
-area: null
-bloodline: null
 component:
 - Somatic
-cost: null
-deity: null
-domain: null
 duration: 8 hours
-element: null
-heighten: null
 heighten_level: '1'
 id: '706'
-lesson: null
 level: '1'
-mystery: null
 name: Pet Cache
-patron_theme: null
 range: touch
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 target: 1 willing creature that is your animal companion or familiar
@@ -34,7 +21,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Extradimensional|Extradimensional]]'
-trigger: null
 type: Spell
 
 ---

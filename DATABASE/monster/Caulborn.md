@@ -1,10 +1,7 @@
 ﻿---
 ac: '24'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Collective Sense
@@ -13,10 +10,7 @@ creature_ability:
 - Thoughtsense
 creature_family: '[[DATABASE/monsterfamily/Ennosite|Ennosite]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+12'
-hardness: null
 hp: '105'
 id: '1148'
 immunity:
@@ -43,8 +37,6 @@ rarity: Uncommon
 reflex: '+15'
 resistance:
 - mental 10
-rus_type_level: null
-school: null
 sense:
 - thoughtsense (precise) 120 feet
 - no vision
@@ -75,15 +67,12 @@ strength: '+2'
 strength_req: '2'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Astral|Astral]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+18'
 wisdom: '+5'
 

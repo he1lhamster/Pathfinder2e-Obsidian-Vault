@@ -1,25 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Hideous Ululation
-frequency: null
-heighten_level: null
 id: '2187'
 level: '4'
 name: Hideous Ululation
 prerequisite: '[[DATABASE/feat/Oozemorph Dedication|Oozemorph Dedication]] ; Trained
   in [[DATABASE/skill/Performance|Performance]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/The Slithering|The Slithering]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

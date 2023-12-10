@@ -1,27 +1,18 @@
 ﻿---
 ac: '33'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-3'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Captivating Pollen
 - Cold Vulnerability
 - Constrict
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+26'
-hardness: null
 hp: '270'
 id: '854'
-immunity: null
 intelligence: '-4'
 land_speed: '20'
-language: null
 level: '13'
 max_speed: '20'
 name: Viper Vine
@@ -30,8 +21,6 @@ rarity: Common
 reflex: '+24'
 resistance:
 - poison 15
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Tremorsense|tremorsense (imprecise) 60 feet]]'
@@ -42,19 +31,16 @@ skill:
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 20 feet
-spell: null
 strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Plant|Plant]]'
 type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+22'
 wisdom: '+5'
 

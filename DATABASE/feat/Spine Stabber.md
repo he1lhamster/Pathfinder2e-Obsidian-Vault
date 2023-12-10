@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Spine Stabber
-frequency: null
-heighten_level: null
 id: '2834'
+leads_to: '[[DATABASE/feat/Piercing Quills|Piercing Quills]]'
 level: '1'
 name: Spine Stabber
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Shisk|Shisk]]'
-trigger: null
 type: Feat
 
 ---

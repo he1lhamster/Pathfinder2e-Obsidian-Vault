@@ -1,25 +1,17 @@
 ﻿---
 ac: '45'
 alignment: CG
-all_resistance: null
-burrow_speed: null
 charisma: '+7'
-climb_speed: null
 constitution: '+11'
 creature_ability:
 - Constrict
 - Environmental Balance
 - Pacifying Aura
 - Unbalancing Stomp
-creature_family: null
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+40'
-hardness: null
 hp: '320'
 id: '1418'
-immunity: null
 intelligence: '+6'
 land_speed: '30'
 language:
@@ -34,9 +26,6 @@ reflex: '+32'
 resistance:
 - '[[DATABASE/trait/Fire|fire]] 20'
 - physical 15
-rus_type_level: null
-school: null
-sense: null
 size: Gargantuan
 skill:
 - '[[DATABASE/skill/Diplomacy|Diplomacy]] +36'
@@ -71,7 +60,6 @@ trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
 weakness:

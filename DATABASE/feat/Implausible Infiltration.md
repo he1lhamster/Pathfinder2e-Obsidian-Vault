@@ -1,10 +1,6 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Implausible Infiltration
-frequency: null
-heighten_level: null
 id: '596'
 level: '18'
 name: Implausible Infiltration
@@ -12,15 +8,11 @@ prerequisite: Legendary in [[DATABASE/skill/Acrobatics|Acrobatics]] ; [[DATABASE
   Squeeze|Quick Squeeze]]
 rarity: Common
 requirement: You are adjacent to a floor or vertical wall.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Move|Move]]'
 - '[[DATABASE/trait/Rogue|Rogue]]'
-trigger: null
 type: Feat
 
 ---

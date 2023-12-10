@@ -1,22 +1,15 @@
 ﻿---
 ac: '24'
 alignment: NG
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Fox's Cunning
 creature_family: '[[DATABASE/monsterfamily/Agathion|Agathion]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+12'
-hardness: null
 hp: '105'
 id: '1056'
-immunity: null
 intelligence: '+5'
 land_speed: '30'
 language:
@@ -32,9 +25,6 @@ name: Vulpinal
 perception: '+15'
 rarity: Common
 reflex: '+14'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -65,7 +55,6 @@ strength: '+2'
 strength_req: '2'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Agathion|Agathion]]'
 - '[[DATABASE/trait/Celestial|Celestial]]'

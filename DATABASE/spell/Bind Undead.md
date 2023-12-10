@@ -1,28 +1,16 @@
 ﻿---
 actions: '[two-actions]'
-area: null
 bloodline: '[[DATABASE/sorcererbloodline/Undead|Undead]]'
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 1 day
-element: null
-heighten: null
 heighten_level: '3'
 id: '22'
-lesson: null
 level: '3'
-mystery: null
 name: Bind Undead
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: 1 mindless undead creature with a level no greater thanbind undead's spell
@@ -33,7 +21,6 @@ tradition:
 - Occult
 trait:
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
-trigger: null
 type: Spell
 
 ---

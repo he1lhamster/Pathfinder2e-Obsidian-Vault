@@ -1,8 +1,6 @@
 ﻿---
 ac: '31'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+24'
 hardness: '20'
 hazard_type: Trap
@@ -16,9 +14,6 @@ level: '11'
 name: Caustic Dart Trap
 rarity: Common
 reflex: '+15'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 153. Life''s Long Shadows|Pathfinder #153: Life''s
   Long Shadows]]'
 trait:
@@ -26,8 +21,6 @@ trait:
 - '[[DATABASE/trait/Mechanical|Mechanical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Caustic Dart Trap<span class="item-type">Hazard 11</span>

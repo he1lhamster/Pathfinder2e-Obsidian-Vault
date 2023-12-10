@@ -1,8 +1,6 @@
 ﻿---
 ac: '27'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+15'
 hardness: '10'
 hazard_type: Trap
@@ -16,9 +14,6 @@ level: '6'
 name: Second Kiss Engine
 rarity: Uncommon
 reflex: '+18'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 179. Cradle of Quartz|Pathfinder #179: Cradle
   of Quartz]]'
 trait:
@@ -26,8 +21,6 @@ trait:
 - '[[DATABASE/trait/Trap|Trap]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Second Kiss Engine<span class="item-type">Hazard 6</span>

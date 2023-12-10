@@ -3,9 +3,7 @@ creature_family: Psychopomp
 id: '83'
 name: Psychopomp
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
-trait: null
 type: Creature Family
 
 ---

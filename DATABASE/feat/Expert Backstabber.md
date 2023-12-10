@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Expert Backstabber
-frequency: null
-heighten_level: null
 id: '1891'
 level: '4'
 name: Expert Backstabber
 prerequisite: '[[DATABASE/feat/Assassin Dedication|Assassin Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

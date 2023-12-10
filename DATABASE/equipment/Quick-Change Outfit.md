@@ -1,53 +1,15 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
 bulk: varies
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '2449'
 item_category: Adventuring Gear
-item_subcategory: null
-land_speed: null
 level: '2'
-max_speed: null
 name: Quick-Change Outfit
-onset: null
-price: null
-range: null
 rarity: Uncommon
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
-school: null
-size: null
 source: '[[DATABASE/source/Firebrands|Firebrands]]'
-spell: null
-stage: null
 subcategory: adventuringgear
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Item
-usage: null
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Quick-Change Outfit<span class="item-type">Item 2</span>

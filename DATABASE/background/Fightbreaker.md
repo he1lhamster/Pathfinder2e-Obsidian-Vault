@@ -8,16 +8,13 @@ ability_boost:
 feat: '[[DATABASE/feat/Group Impression|Group Impression]]'
 id: '375'
 name: Fightbreaker
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Diplomacy|Diplomacy]]'
 - '[[DATABASE/skill/Lore|Lore]] forthe city or settlement you lined in when you became
   a Fightbreaker'
 source: '[[DATABASE/source/Highhelm|Highhelm]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

@@ -1,57 +1,23 @@
 ﻿---
-ac: null
 actions: '[one-action]'
-alignment: null
-base_item: null
 bulk: L
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '1904'
 item_category: Alchemical Items
 item_subcategory: Alchemical Bombs
-land_speed: null
-level: '18'
-max_speed: null
+level: '12'
 name: Lodestone Bomb
-onset: null
-price: 4,500 gp
-range: null
+price: 400 gp
 rarity: Common
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
-school: null
-size: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-spell: null
-stage: null
 subcategory: alchemical/bomb
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Alchemical|Alchemical]]'
 - '[[DATABASE/trait/Bomb|Bomb]]'
 - '[[DATABASE/trait/Consumable|Consumable]]'
 - '[[DATABASE/trait/Force|Force]]'
 - '[[DATABASE/trait/Splash|Splash]]'
-trigger: null
 type: Item
 usage: held in 1 hand
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Lodestone Bomb<span class="item-type">Item 12+</span>

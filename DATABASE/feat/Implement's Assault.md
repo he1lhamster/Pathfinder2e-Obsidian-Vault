@@ -1,25 +1,17 @@
 ﻿---
 actions: '[three-actions]'
-cost: null
-element: null
 feat: Implement's Assault
-frequency: null
-heighten_level: null
 id: '3731'
 level: '18'
 name: Implement's Assault
-prerequisite: null
 rarity: Common
 requirement: You're holding animplement.
-rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Thaumaturge|Thaumaturge]]'
-trigger: null
 type: Feat
 
 ---

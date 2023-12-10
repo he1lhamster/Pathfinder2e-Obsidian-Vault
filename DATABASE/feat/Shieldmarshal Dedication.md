@@ -1,25 +1,17 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Shieldmarshal Dedication
-frequency: null
-heighten_level: null
 id: '4040'
+leads_to: '[[DATABASE/feat/Consolidated Overlay Panopticon|Consolidated Overlay Panopticon]]
+  , [[DATABASE/feat/Counterclockwork Focus|Counterclockwork Focus]] , [[DATABASE/feat/Equitable
+  Defense|Equitable Defense]]'
 level: '2'
 name: Shieldmarshal Dedication
-prerequisite: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

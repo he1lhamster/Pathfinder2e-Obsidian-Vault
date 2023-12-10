@@ -1,10 +1,7 @@
 ﻿---
 ac: '34'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Caustic Monitor Venom
@@ -14,25 +11,17 @@ creature_ability:
 - Lurching Charge
 creature_family: '[[DATABASE/monsterfamily/Lizard|Lizard]]'
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+24'
-hardness: null
 hp: '235'
 id: '1398'
-immunity: null
 intelligence: '-4'
 land_speed: '40'
-language: null
 level: '13'
 max_speed: '40'
 name: Caustic Monitor
 perception: '+22'
 rarity: Rare
 reflex: '+23'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -45,12 +34,10 @@ source: '[[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #
   Despair on Danger Island]]'
 speed:
 - 40 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 - '[[DATABASE/trait/Rare|Rare]]'
@@ -58,7 +45,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+20'
 wisdom: '+4'
 

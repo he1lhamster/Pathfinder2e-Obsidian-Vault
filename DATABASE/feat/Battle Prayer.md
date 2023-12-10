@@ -1,25 +1,17 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Battle Prayer
-frequency: null
-heighten_level: null
 id: '1174'
 level: '7'
 name: Battle Prayer
 prerequisite: Master in [[DATABASE/skill/Religion|Religion]] ; you follow a deity
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
 subcategory: religion
 trait:
 - '[[DATABASE/trait/Divine|Divine]]'
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

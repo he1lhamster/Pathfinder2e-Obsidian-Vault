@@ -1,10 +1,7 @@
 ﻿---
 ac: '34'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Death Throes
@@ -15,12 +12,8 @@ creature_ability:
 - ''
 - Malleable Shape
 - Vulnerable to Telekinetic Haul
-creature_family: null
 dexterity: '-1'
-element: null
-fly_speed: null
 fortitude: '+26'
-hardness: null
 hp: '190'
 id: '1703'
 immunity:
@@ -42,7 +35,6 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '20'
-language: null
 level: '13'
 max_speed: '20'
 name: Gold Defender
@@ -51,8 +43,6 @@ rarity: Rare
 reflex: '+21'
 resistance:
 - physical 15 (except [[DATABASE/equipment/Adamantine Weapon|adamantine]] )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Huge
@@ -62,12 +52,10 @@ source: '[[DATABASE/source/Pathfinder 172. Secrets of the Temple City|Pathfinder
   Secrets of the Temple City]]'
 speed:
 - 20 feet
-spell: null
 strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Golem|Golem]]'
@@ -77,7 +65,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+22'
 wisdom: '+0'
 

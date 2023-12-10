@@ -1,11 +1,8 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Grundinnar|Grundinnar]]'
 - '[[DATABASE/deity/Grundinnar|Grundinnar]]'
@@ -16,22 +13,13 @@ deity:
 - '[[DATABASE/deity/The Last Breath|The Last Breath]]'
 - '[[DATABASE/deity/Urban Prosperity|Urban Prosperity]]'
 - '[[DATABASE/deity/Wards of the Pharaoh|Wards of the Pharaoh]]'
-domain: null
 duration: 1 minute
-element: null
-heighten: null
 heighten_level: '4'
 id: '255'
-lesson: null
 level: '4'
-mystery: null
 name: Resilient Sphere
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: 1 Large or smaller creature
@@ -41,7 +29,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Force|Force]]'
-trigger: null
 type: Spell
 
 ---

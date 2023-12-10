@@ -1,26 +1,21 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Worm Caller Dedication
-frequency: null
-heighten_level: null
 id: '4357'
+leads_to: '[[DATABASE/feat/Azure Fins|Azure Fins]] , [[DATABASE/feat/Call Worm Spirit|Call
+  Worm Spirit]] , [[DATABASE/feat/Crimson Breath|Crimson Breath]] , [[DATABASE/feat/Inexorable|Inexorable]]
+  , [[DATABASE/feat/Tunnel|Tunnel]] , [[DATABASE/feat/Venomous Touch|Venomous Touch]]
+  , [[DATABASE/feat/Worm Empathy|Worm Empathy]] , [[DATABASE/feat/Worm Form|Worm Form]]
+  , [[DATABASE/feat/Worm Sense|Worm Sense]] , [[DATABASE/feat/Worm''s Feast|Worm''s
+  Feast]] , [[DATABASE/feat/Wormskin|Wormskin]]'
 level: '2'
 name: Worm Caller Dedication
-prerequisite: null
 rarity: Rare
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 194. Cult of the Cave Worm|Pathfinder #194:
   Cult of the Cave Worm]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,8 +1,6 @@
 ﻿---
 ac: '30'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
 climb_speed: '20'
 constitution: '+6'
@@ -11,15 +9,10 @@ creature_ability:
 - Eerie Flexibility
 - Furious Claws
 - Rend
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+22'
-hardness: null
 hp: '175'
 id: '252'
-immunity: null
 intelligence: '+0'
 land_speed: '40'
 language:
@@ -30,9 +23,6 @@ name: Gug
 perception: '+19'
 rarity: Common
 reflex: '+17'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Large
@@ -45,19 +35,16 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 40 feet
 - climb 20 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+19'
 wisdom: '+3'
 

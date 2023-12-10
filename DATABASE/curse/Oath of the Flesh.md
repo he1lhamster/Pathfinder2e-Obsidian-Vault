@@ -1,10 +1,8 @@
 ﻿---
-element: null
 id: '21'
 level: '7'
 name: Oath of the Flesh
 rarity: Common
-rus_type_level: null
 saving_throw: DC 23 Fortitude
 school: Abjuration
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
@@ -13,7 +11,6 @@ trait:
 - '[[DATABASE/trait/Curse|Curse]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 type: Curse
-usage: null
 
 ---
 # Oath of the Flesh<span class="item-type">Curse 7</span>

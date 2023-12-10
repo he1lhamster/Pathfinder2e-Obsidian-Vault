@@ -2,7 +2,6 @@
 id: '5'
 name: The Tangible Dream
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 spell:
 - '[[DATABASE/spell/Astral Rain|Astral Rain]]'
@@ -19,7 +18,6 @@ spell:
 - '[[DATABASE/spell/Scintillating Pattern|Scintillating Pattern]]'
 - '[[DATABASE/spell/Sea of Thought|Sea of Thought]]'
 - '[[DATABASE/spell/Shield|Shield]]'
-trait: null
 type: Psychic Conscious Mind
 
 ---

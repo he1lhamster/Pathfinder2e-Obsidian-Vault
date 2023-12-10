@@ -1,11 +1,8 @@
 ﻿---
-element: null
 id: '100'
 item_category: Relics
 name: Clean Luck
-prerequisite: null
 rarity: Common
-rus_type_level: null
 school: Abjuration
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 trait:

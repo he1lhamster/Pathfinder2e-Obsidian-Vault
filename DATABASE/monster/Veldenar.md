@@ -1,22 +1,16 @@
 ﻿---
 ac: '32'
-alignment: null
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Natural Invisibility
 - Reactive Strike
 - Vacuum
 - Viscous Breath
-creature_family: null
 dexterity: '+5'
 element: Air
 fly_speed: '25'
 fortitude: '+24'
-hardness: null
 hp: '190'
 id: '2621'
 immunity:
@@ -33,8 +27,6 @@ rarity: Common
 reflex: '+21'
 resistance:
 - '[[DATABASE/trait/Electricity|electricity]] 10'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/All-Around Vision|all-around vision]]'
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
@@ -47,12 +39,10 @@ source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 speed:
 - 25 feet
 - fly 25 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Elemental|Elemental]]'

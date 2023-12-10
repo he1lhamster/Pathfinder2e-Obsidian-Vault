@@ -1,10 +1,7 @@
 ﻿---
 ac: '27'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Consume Death
@@ -13,13 +10,10 @@ creature_ability:
 - Stolen Death
 creature_family: '[[DATABASE/monsterfamily/Demon|Demon]]'
 dexterity: '+4'
-element: null
 fly_speed: '50'
 fortitude: '+19'
-hardness: null
 hp: '165'
 id: '600'
-immunity: null
 intelligence: '+2'
 land_speed: '25'
 language:
@@ -33,9 +27,6 @@ name: Nabasu
 perception: '+17'
 rarity: Common
 reflex: '+16'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -58,7 +49,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Demon|Demon]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

@@ -2,7 +2,6 @@
 id: '513'
 name: Spellshape
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 trait:
 - Spellshape

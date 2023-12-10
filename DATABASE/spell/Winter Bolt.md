@@ -1,38 +1,24 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
 domain:
 - '[[DATABASE/domain/Cold Domain|Cold]]'
-duration: null
-element: null
 heighten: '+1'
 heighten_level: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
 id: '596'
-lesson: null
 level: '1'
-mystery: null
 name: Winter Bolt
-patron_theme: null
 range: 60 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
 target: 1 creature
-tradition: null
 trait:
 - '[[DATABASE/trait/Attack|Attack]]'
 - '[[DATABASE/trait/Cold|Cold]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
-trigger: null
 type: Focus
 
 ---

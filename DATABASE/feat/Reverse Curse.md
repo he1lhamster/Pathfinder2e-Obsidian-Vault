@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Reverse Curse
-frequency: null
-heighten_level: null
 id: '3836'
 level: '12'
 name: Reverse Curse
 prerequisite: '[[DATABASE/feat/Counter Curse|Counter Curse]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

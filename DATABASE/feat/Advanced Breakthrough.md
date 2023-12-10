@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Advanced Breakthrough
-frequency: null
-heighten_level: null
 id: '3115'
 level: '6'
 name: Advanced Breakthrough
 prerequisite: '[[DATABASE/feat/Basic Breakthrough|Basic Breakthrough]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,22 +1,15 @@
 ﻿---
 ac: '22'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - AC 22
 - Cling
 - Snapping Jaws
 - Trip and Tangle
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+11'
-hardness: null
 hp: '58'
 id: '1954'
 immunity:
@@ -38,7 +31,6 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-4'
 land_speed: '25'
-language: null
 level: '5'
 max_speed: '25'
 name: Trapjaw Tangle
@@ -49,8 +41,6 @@ resistance:
 - bludgeoning 4
 - piercing 8
 - slashing 8
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -62,12 +52,10 @@ source: '[[DATABASE/source/Pathfinder 179. Cradle of Quartz|Pathfinder #179: Cra
   of Quartz]]'
 speed:
 - 25 feet
-spell: null
 strength: '-1'
 strength_req: '-1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Rare|Rare]]'

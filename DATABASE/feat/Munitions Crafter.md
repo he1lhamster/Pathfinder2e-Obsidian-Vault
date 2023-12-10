@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Munitions Crafter
-frequency: null
-heighten_level: null
 id: '3158'
+leads_to: '[[DATABASE/feat/Munitions Machinist|Munitions Machinist]]'
 level: '1'
 name: Munitions Crafter
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Gunslinger|Gunslinger]]'
-trigger: null
 type: Feat
 
 ---

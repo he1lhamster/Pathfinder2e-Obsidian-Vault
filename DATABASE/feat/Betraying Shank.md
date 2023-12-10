@@ -1,10 +1,6 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Betraying Shank
-frequency: null
-heighten_level: null
 id: '4117'
 level: '6'
 name: Betraying Shank
@@ -12,14 +8,10 @@ prerequisite: '[[DATABASE/feat/Twilight Speaker Dedication|Twilight Speaker Dedi
 rarity: Common
 requirement: You are within melee reach of a target, but it is not in combat with
   you.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 189. Dreamers of the Nameless Spires|Pathfinder
   #189: Dreamers of the Nameless Spires]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

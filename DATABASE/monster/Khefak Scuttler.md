@@ -1,7 +1,6 @@
 ﻿---
 ac: '15'
 alignment: N
-all_resistance: null
 burrow_speed: '5'
 charisma: '-3'
 climb_speed: '20'
@@ -10,25 +9,17 @@ creature_ability:
 - Consume Objects
 creature_family: '[[DATABASE/monsterfamily/Khefak|Khefak]]'
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+7'
-hardness: null
 hp: '7'
 id: '1676'
-immunity: null
 intelligence: '-5'
 land_speed: '20'
-language: null
 level: '-1'
 max_speed: '20'
 name: Khefak Scuttler
 perception: '+4'
 rarity: Uncommon
 reflex: '+5'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) 60 feet'
@@ -43,12 +34,10 @@ speed:
 - 20 feet
 - burrow 5 feet
 - climb 20 feet
-spell: null
 strength: '+0'
 strength_req: '0'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
@@ -56,7 +45,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+2'
 wisdom: '+0'
 

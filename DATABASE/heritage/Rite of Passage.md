@@ -2,9 +2,7 @@
 id: '163'
 name: Rite of Passage
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
-trait: null
 type: Heritage
 
 ---

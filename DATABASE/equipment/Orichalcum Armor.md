@@ -1,53 +1,17 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '145'
 item_category: Armor
 item_subcategory: Precious Material Armor
-land_speed: null
 level: '20'
-max_speed: null
 name: Orichalcum Armor
-onset: null
 price: 55,000 gp (+5,500 gp per Bulk)
-range: null
 rarity: Rare
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
-school: null
-size: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-spell: null
-stage: null
 subcategory: weapon
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Item
 usage: worn armor
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Orichalcum Armor<span class="item-type">Item 20+</span>

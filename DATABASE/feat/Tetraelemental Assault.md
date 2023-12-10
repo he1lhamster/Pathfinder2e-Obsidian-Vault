@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Tetraelemental Assault
-frequency: null
-heighten_level: null
 id: '2587'
 level: '9'
 name: Tetraelemental Assault
 prerequisite: '[[DATABASE/feat/Elemental Assault|Elemental Assault]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Suli|Suli]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,20 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Urgent Upwelling
 frequency: once per 10 minutes
-heighten_level: null
 id: '3031'
 level: '6'
 name: Urgent Upwelling
 prerequisite: '[[DATABASE/feat/Wellspring Mage Dedication|Wellspring Mage Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 trigger: An enemy reduces you to 0 HP, an enemy critically hits you, or you critically

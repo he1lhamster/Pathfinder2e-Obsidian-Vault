@@ -1,10 +1,6 @@
 ﻿---
-area: null
 cost: "rare laboratory supplies and reagents worth the target's level (minimum 1)\
   \ \xD7 100 gp"
-duration: null
-element: null
-heighten: null
 heighten_level: '9'
 id: '30'
 level: '9'
@@ -12,8 +8,6 @@ name: Clone
 primary_check: '[[DATABASE/skill/Crafting|Crafting]] (legendary)'
 range: 10 feet
 rarity: Rare
-requirement: null
-rus_type_level: null
 school: Necromancy
 secondary_casters: '3'
 secondary_check: '[[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Occultism|Occultism]]

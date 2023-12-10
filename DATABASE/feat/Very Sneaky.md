@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Very Sneaky
-frequency: null
-heighten_level: null
 id: '46'
+leads_to: '[[DATABASE/feat/Very, Very Sneaky|Very, Very Sneaky]]'
 level: '1'
 name: Very Sneaky
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Goblin|Goblin]]'
-trigger: null
 type: Feat
 
 ---

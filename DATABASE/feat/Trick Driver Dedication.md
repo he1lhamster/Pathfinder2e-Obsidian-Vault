@@ -1,25 +1,18 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Trick Driver Dedication
-frequency: null
-heighten_level: null
 id: '3140'
+leads_to: '[[DATABASE/feat/Drive-By Attack|Drive-By Attack]] , [[DATABASE/feat/Express
+  Driver|Express Driver]] , [[DATABASE/feat/Power Slide|Power Slide]] , [[DATABASE/feat/Push
+  it|Push it]] , [[DATABASE/feat/Roadkill|Roadkill]] , [[DATABASE/feat/Take the Wheel|Take
+  the Wheel]]'
 level: '2'
 name: Trick Driver Dedication
-prerequisite: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

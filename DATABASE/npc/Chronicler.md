@@ -1,22 +1,16 @@
 ﻿---
 ac: '18'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Live to Tell the Tale
 - Scroll Mastery
 creature_family: '[[DATABASE/monsterfamily/Explorers|Explorers]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+8'
 hp: '45'
 id: '902'
-immunity: null
 intelligence: '+4'
 land_speed: '25'
 language:
@@ -27,9 +21,6 @@ name: Chronicler
 perception: '+14'
 rarity: Common
 reflex: '+9'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Lore|Map Lore]] +17'
@@ -56,15 +47,12 @@ strength_req: '2'
 strongest_save:
 - Reflex
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+9'
 wisdom: '+4'
 

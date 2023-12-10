@@ -1,10 +1,6 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Frightful Condemnation
-frequency: null
-heighten_level: null
 id: '3333'
 level: '6'
 name: Frightful Condemnation
@@ -12,10 +8,7 @@ prerequisite: '[[DATABASE/feat/Harsh Judgment|Harsh Judgment]] ; [[DATABASE/feat
   Dedication|Vigilante Dedication]] ; member of the Gray Gardeners'
 rarity: Common
 requirement: You have condemned a foe to death withHarsh Judgment.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Night of the Gray Death|Night of the Gray Death]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Emotion|Emotion]]'

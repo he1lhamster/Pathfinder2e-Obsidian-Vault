@@ -1,10 +1,6 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Unseat
-frequency: null
-heighten_level: null
 id: '1928'
 level: '10'
 name: Unseat
@@ -12,13 +8,9 @@ prerequisite: '[[DATABASE/feat/Cavalier Dedication|Cavalier Dedication]]'
 rarity: Common
 requirement: You are riding your mount and wielding a [[DATABASE/trait/Jousting|jousting]]
   weapon.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

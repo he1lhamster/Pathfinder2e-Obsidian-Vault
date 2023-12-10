@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Cautious Delver
-frequency: null
-heighten_level: null
 id: '2237'
 level: '10'
 name: Cautious Delver
 prerequisite: '[[DATABASE/feat/Scrollmaster Dedication|Scrollmaster Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

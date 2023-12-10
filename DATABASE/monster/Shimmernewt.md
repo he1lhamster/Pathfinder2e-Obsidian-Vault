@@ -1,35 +1,23 @@
 ﻿---
 ac: '22'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Gaping Chomp
 - Shimmer Step
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+16'
-hardness: null
 hp: '120'
 id: '2081'
-immunity: null
 intelligence: '-4'
 land_speed: '25'
-language: null
 level: '6'
 max_speed: '35'
 name: Shimmernewt
 perception: '+14'
 rarity: Rare
 reflex: '+14'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -41,7 +29,6 @@ source: '[[DATABASE/source/Pathfinder 183. Field of Maidens|Pathfinder #183: Fie
 speed:
 - 25 feet
 - swim 35 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
@@ -55,7 +42,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+12'
 wisdom: '+0'
 

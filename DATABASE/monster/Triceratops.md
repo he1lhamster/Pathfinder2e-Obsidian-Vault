@@ -1,10 +1,7 @@
 ﻿---
 ac: '26'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Frill Defense
@@ -13,25 +10,17 @@ creature_ability:
 - Vicious Gore
 creature_family: '[[DATABASE/monsterfamily/Dinosaur|Dinosaur]]'
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+18'
-hardness: null
 hp: '140'
 id: '121'
-immunity: null
 intelligence: '-4'
 land_speed: '30'
-language: null
 level: '8'
 max_speed: '30'
 name: Triceratops
 perception: '+16'
 rarity: Common
 reflex: '+12'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 - scent (imprecise) 30 feet
@@ -41,12 +30,10 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 30 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 - '[[DATABASE/trait/Dinosaur|Dinosaur]]'
@@ -54,7 +41,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Reflex
-weakness: null
 will: '+14'
 wisdom: '+2'
 

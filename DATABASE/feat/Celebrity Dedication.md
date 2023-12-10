@@ -1,24 +1,18 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Celebrity Dedication
-frequency: null
-heighten_level: null
 id: '1931'
+leads_to: '[[DATABASE/feat/Acknowledge Fan|Acknowledge Fan]] , [[DATABASE/feat/Big
+  Debut|Big Debut]] , [[DATABASE/feat/Command Attention|Command Attention]] , [[DATABASE/feat/Feeling
+  Your Oats|Feeling Your Oats]] , [[DATABASE/feat/Grudging Compliment|Grudging Compliment]]
+  , [[DATABASE/feat/Mesmerizing Gaze|Mesmerizing Gaze]] , [[DATABASE/feat/Never Tire|Never
+  Tire]] , [[DATABASE/feat/Statement Strut|Statement Strut]]'
 level: '2'
 name: Celebrity Dedication
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
-trigger: null
 type: Feat
 
 ---

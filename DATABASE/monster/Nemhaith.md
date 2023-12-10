@@ -2,9 +2,7 @@
 ac: '36'
 alignment: NE
 all_resistance: '10'
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Bound Spirits
@@ -13,12 +11,9 @@ creature_ability:
 - Rejuvenation
 - Site Bound
 - Throw Spirits
-creature_family: null
 dexterity: '+6'
-element: null
 fly_speed: '40'
 fortitude: '+23'
-hardness: null
 hp: 255 ( negative healing , rejuvenation)
 id: '1246'
 immunity:
@@ -29,7 +24,6 @@ immunity:
 - precision
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '+4'
-land_speed: null
 language:
 - '[[DATABASE/language/Common|Common]] ; [[DATABASE/monsterability/Telepathy|telepathy]]
   100 feet'
@@ -44,8 +38,6 @@ resistance:
 - '[[DATABASE/equipment/Ghost Touch|ghost touch]]'
 - or [[DATABASE/trait/Positive|positive]] ; double resistance vs. non- [[DATABASE/trait/Magical|magical]]
   )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -67,7 +59,6 @@ strength: '-5'
 strength_req: '-5'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Incorporeal|Incorporeal]]'
 - '[[DATABASE/trait/Spirit|Spirit]]'
@@ -77,7 +68,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+29'
 wisdom: '+8'
 

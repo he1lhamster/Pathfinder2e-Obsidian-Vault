@@ -6,11 +6,9 @@ ability_boost:
 id: '5'
 name: Deception
 rarity: Common
-rus_type_level: null
 skill:
 - Deception
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Skill
 
 ---

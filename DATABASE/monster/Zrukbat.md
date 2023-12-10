@@ -1,20 +1,15 @@
 ﻿---
 ac: '18'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
 climb_speed: '20'
 constitution: '+3'
 creature_ability:
 - Dubious Shifting
 - Go for the Eyes
-creature_family: null
 dexterity: '+4'
-element: null
 fly_speed: '20'
 fortitude: '+9'
-hardness: null
 hp: '30'
 id: '988'
 immunity:
@@ -30,9 +25,6 @@ name: Zrukbat
 perception: '+7'
 rarity: Common
 reflex: '+10'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -47,19 +39,16 @@ speed:
 - 20 feet
 - climb 20 feet
 - fly 20 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+5'
 wisdom: '-1'
 

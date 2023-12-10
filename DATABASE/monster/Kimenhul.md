@@ -1,8 +1,6 @@
 ﻿---
 ac: '45'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+7'
 climb_speed: '25'
 constitution: '+9'
@@ -19,10 +17,7 @@ creature_ability:
 - Unsettled Mind
 creature_family: '[[DATABASE/monsterfamily/Sahkil|Sahkil]]'
 dexterity: '+8'
-element: null
-fly_speed: null
 fortitude: '+33'
-hardness: null
 hp: '425'
 id: '1285'
 immunity:
@@ -42,9 +37,6 @@ name: Kimenhul
 perception: '+35'
 rarity: Common
 reflex: '+32'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/spell/True Seeing|true seeing]]'
@@ -77,7 +69,6 @@ strength: '+10'
 strength_req: '10'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fiend|Fiend]]'
 - '[[DATABASE/trait/Sahkil|Sahkil]]'

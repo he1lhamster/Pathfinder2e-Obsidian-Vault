@@ -1,7 +1,6 @@
 ﻿---
 id: '23'
 name: Hostile
-source: null
 
 ---
 # Hostile

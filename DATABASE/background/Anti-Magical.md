@@ -5,12 +5,9 @@ ability:
 ability_boost:
 - Constitution
 - Wisdom
-feat: null
 id: '239'
 name: Anti-Magical
-prerequisite: null
 rarity: Rare
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Lore|Lore]] of your choice'
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'

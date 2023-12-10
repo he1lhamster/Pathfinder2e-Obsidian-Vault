@@ -2,9 +2,7 @@
 id: '215'
 name: Xyloshi
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-trait: null
 type: Heritage
 
 ---

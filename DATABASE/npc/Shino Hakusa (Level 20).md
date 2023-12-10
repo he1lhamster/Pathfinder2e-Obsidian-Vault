@@ -1,10 +1,7 @@
 ﻿---
 ac: '45'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Ki Absorption
@@ -12,14 +9,10 @@ creature_ability:
 - Pressure Point Attack
 - Sneak Attack
 - Swallows in Flight
-creature_family: null
 dexterity: '+7'
-element: null
-fly_speed: null
 fortitude: '+33'
 hp: '360'
 id: '1526'
-immunity: null
 intelligence: '+2'
 land_speed: '30'
 language:
@@ -33,8 +26,6 @@ name: Shino Hakusa (Level 20)
 perception: '+34'
 rarity: Unique
 reflex: '+36'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Lifesense|lifesense]]'
 size: Medium
@@ -49,21 +40,17 @@ source: '[[DATABASE/source/Pathfinder 168. King of the Mountain|Pathfinder #168:
   of the Mountain]]'
 speed:
 - 30 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+30'
 wisdom: '+3'
 

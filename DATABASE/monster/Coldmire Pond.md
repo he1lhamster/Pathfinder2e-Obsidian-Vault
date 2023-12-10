@@ -1,10 +1,6 @@
 ﻿---
 ac: '27'
-alignment: null
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Constrict
@@ -14,9 +10,7 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Elemental, Water|Elemental, Water]]'
 dexterity: '+3'
 element: Water
-fly_speed: null
 fortitude: '+16'
-hardness: null
 hp: '135'
 id: '2660'
 immunity:
@@ -36,8 +30,6 @@ rarity: Common
 reflex: '+19'
 resistance:
 - '[[DATABASE/trait/Fire|fire]] 10'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Huge
@@ -48,7 +40,6 @@ source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 speed:
 - 20 feet
 - swim 50 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
@@ -62,7 +53,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+13'
 wisdom: '+2'
 

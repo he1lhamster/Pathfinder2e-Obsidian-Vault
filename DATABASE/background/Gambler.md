@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Lie to Me|Lie to Me]]'
 id: '17'
 name: Gambler
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Deception|Deception]]'
 - Games [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

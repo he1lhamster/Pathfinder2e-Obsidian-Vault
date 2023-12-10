@@ -1,24 +1,17 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Viking Dedication
-frequency: null
-heighten_level: null
 id: '2094'
+leads_to: '[[DATABASE/feat/Hurling Charge|Hurling Charge]] , [[DATABASE/feat/Second
+  Shield|Second Shield]] , [[DATABASE/feat/Viking Vindicator|Viking Vindicator]] ,
+  [[DATABASE/feat/Viking Weapon Familiarity|Viking Weapon Familiarity]]'
 level: '2'
 name: Viking Dedication
 prerequisite: Trained in [[DATABASE/skill/Athletics|Athletics]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
-trigger: null
 type: Feat
 
 ---

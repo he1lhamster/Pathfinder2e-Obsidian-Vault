@@ -1,10 +1,7 @@
 ﻿---
 ac: '32'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Attack of Opportunity
@@ -17,10 +14,7 @@ creature_ability:
 - Tactical Direction
 creature_family: '[[DATABASE/monsterfamily/Wight|Wight]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+24'
-hardness: null
 hp: 220 ( negative healing )
 id: '1917'
 immunity:
@@ -40,9 +34,6 @@ name: Wight Commander
 perception: '+22'
 rarity: Rare
 reflex: '+19'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - (+26 when rolling initiative) [[DATABASE/monsterability/Darkvision|darkvision]]
 size: Medium
@@ -59,7 +50,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Undead|Undead]]'
@@ -68,7 +58,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+21'
 wisdom: '+3'
 

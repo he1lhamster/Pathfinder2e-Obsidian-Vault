@@ -1,23 +1,16 @@
 ﻿---
 ac: '20'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Cackling Coven
 - Called
 - Familiar
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+12'
 hp: '75'
 id: '2049'
-immunity: null
 intelligence: '+4'
 land_speed: '25'
 language:
@@ -31,8 +24,6 @@ name: Kepgeda the Hag-Nailed
 perception: '+12'
 rarity: Unique
 reflex: '+11'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -69,7 +60,6 @@ strength_req: '2'
 strongest_save:
 - Fortitude
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Changeling|Changeling]]'
 - '[[DATABASE/trait/Human|Human]]'
@@ -79,7 +69,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+12'
 wisdom: '+1'
 

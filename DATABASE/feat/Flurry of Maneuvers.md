@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Flurry of Maneuvers
-frequency: null
-heighten_level: null
 id: '444'
 level: '4'
 name: Flurry of Maneuvers
 prerequisite: Expert in [[DATABASE/skill/Athletics|Athletics]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Monk|Monk]]'
-trigger: null
 type: Feat
 
 ---

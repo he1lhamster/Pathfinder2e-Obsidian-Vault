@@ -2,9 +2,6 @@
 id: '145'
 name: Pathfinder 183. Field of Maidens
 rarity: Common
-rus_type_level: null
-source: null
-trait: null
 type: Source
 
 ---

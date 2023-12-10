@@ -1,12 +1,8 @@
 ﻿---
 ac: '13'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+10'
-hardness: null
 hazard_type: Environmental
-hp: null
 id: '274'
 immunity:
 - critical hits
@@ -16,16 +12,11 @@ level: '1'
 name: Stinging Nettles
 rarity: Common
 reflex: '+4'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
 - '[[DATABASE/trait/Environmental|Environmental]]'
 - '[[DATABASE/trait/Plant|Plant]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Stinging Nettles<span class="item-type">Hazard 1</span>

@@ -1,10 +1,7 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Arcane Shroud
 frequency: once per turn
-heighten_level: null
 id: '2877'
 level: '14'
 name: Arcane Shroud
@@ -12,13 +9,9 @@ prerequisite: '[[DATABASE/action/Arcane Cascade|Arcane Cascade]] , [[DATABASE/ac
 rarity: Common
 requirement: Your most recent action was to Cast a Spell from a spell slot or make
   a Spellstrike with a spell froma spell slot.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Magus|Magus]]'
-trigger: null
 type: Feat
 
 ---

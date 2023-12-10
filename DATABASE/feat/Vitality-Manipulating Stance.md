@@ -1,26 +1,16 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Vitality-Manipulating Stance
-frequency: null
-heighten_level: null
 id: '2756'
 level: '20'
 name: Vitality-Manipulating Stance
-prerequisite: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 168. King of the Mountain|Pathfinder #168: King
   of the Mountain]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Monk|Monk]]'
 - '[[DATABASE/trait/Stance|Stance]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

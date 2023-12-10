@@ -1,39 +1,25 @@
 ﻿---
-actions: null
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/General Susumu|General Susumu]]'
-domain: null
 duration: 8 hours
-element: null
 heighten: 4th, 5th, 6th
 heighten_level: 2, 4, 5, 6
 id: '221'
-lesson: null
 level: '2'
-mystery: null
 name: Phantom Steed
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Arcane
 - Occult
 - Primal
 trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
-trigger: null
 type: Spell
 
 ---

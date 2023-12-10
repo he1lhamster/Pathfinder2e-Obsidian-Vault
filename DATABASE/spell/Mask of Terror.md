@@ -1,30 +1,20 @@
 ﻿---
 actions: '[two-actions]'
-area: null
 bloodline: '[[DATABASE/sorcererbloodline/Draconic|Draconic]] , [[DATABASE/sorcererbloodline/Wyrmblessed|Wyrmblessed]]'
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Jaidz|Jaidz]]'
 - '[[DATABASE/deity/Urgathoa|Urgathoa]]'
-domain: null
 duration: 1 minute
-element: null
 heighten: 8th
 heighten_level: 7, 8
 id: '185'
-lesson: null
 level: '7'
-mystery: null
 name: Mask of Terror
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Illusion
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: 1 creature
@@ -38,7 +28,6 @@ trait:
 - '[[DATABASE/trait/Illusion|Illusion]]'
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Visual|Visual]]'
-trigger: null
 type: Spell
 
 ---

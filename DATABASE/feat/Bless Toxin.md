@@ -1,26 +1,17 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Bless Toxin
-frequency: null
-heighten_level: null
 id: '1176'
 level: '7'
 name: Bless Toxin
 prerequisite: Master in [[DATABASE/skill/Crafting|Crafting]] ; deity who grants [[DATABASE/spell/Harm|harm]]
   divine font
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
 subcategory: crafting
 trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Negative|Negative]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

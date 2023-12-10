@@ -1,29 +1,16 @@
 ﻿---
 actions: '[three-actions]'
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 1 minute
-element: null
-heighten: null
 heighten_level: '10'
 id: '908'
-lesson: null
 level: '10'
-mystery: null
 name: Fated Confrontation
-patron_theme: null
 range: 120 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 target: 1 willing ally and 1 enemy
@@ -34,7 +21,6 @@ tradition:
 - Primal
 trait:
 - '[[DATABASE/trait/Divination|Divination]]'
-trigger: null
 type: Spell
 
 ---

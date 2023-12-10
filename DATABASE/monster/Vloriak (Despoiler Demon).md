@@ -1,10 +1,7 @@
 ﻿---
 ac: '21'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Lick Rust
@@ -13,13 +10,9 @@ creature_ability:
 - Spew Rusted Shards
 creature_family: '[[DATABASE/monsterfamily/Demon|Demon]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+15'
-hardness: null
 hp: '90'
 id: '2727'
-immunity: null
 intelligence: '-1'
 land_speed: '25'
 language:
@@ -34,8 +27,6 @@ rarity: Uncommon
 reflex: '+11'
 resistance:
 - '[[DATABASE/trait/Acid|acid]] 5'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -54,7 +45,6 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Demon|Demon]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

@@ -1,13 +1,9 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
-frequency: null
 id: '766'
 name: Dutiful Retaliation
 rarity: Common
 requirement: Your eidolon is within 15 feet of you.
-rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 trait:

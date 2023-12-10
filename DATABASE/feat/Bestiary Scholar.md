@@ -1,10 +1,5 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Bestiary Scholar
-frequency: null
-heighten_level: null
 id: '2236'
 level: '10'
 name: Bestiary Scholar
@@ -13,14 +8,9 @@ prerequisite: Master in [[DATABASE/skill/Arcana|Arcana]] , Master in [[DATABASE/
   , or Master in [[DATABASE/skill/Religion|Religion]] ; [[DATABASE/feat/Scrollmaster
   Dedication|Scrollmaster Dedication]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

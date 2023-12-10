@@ -1,19 +1,12 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Evangelize
-frequency: null
-heighten_level: null
 id: '1180'
 level: '7'
 name: Evangelize
 prerequisite: Master in [[DATABASE/skill/Diplomacy|Diplomacy]] ; you follow a deity
   or philosophy
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
 subcategory: diplomacy
 trait:
@@ -22,7 +15,6 @@ trait:
 - '[[DATABASE/trait/Linguistic|Linguistic]]'
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

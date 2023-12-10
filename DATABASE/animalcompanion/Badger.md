@@ -4,8 +4,6 @@ charisma: '+0'
 climb_speed: '10'
 constitution: '+2'
 dexterity: '+2'
-element: null
-fly_speed: null
 hp: '8'
 id: '1'
 intelligence: '-4'
@@ -13,7 +11,6 @@ land_speed: '25'
 max_speed: '25'
 name: Badger
 rarity: Common
-rus_type_level: null
 sense:
 - low-light vision
 - scent(imprecise
@@ -28,8 +25,6 @@ speed:
 - climb 10 feet
 strength: '+2'
 strength_req: '2'
-swim_speed: null
-trait: null
 type: Animal Companion
 wisdom: '+2'
 

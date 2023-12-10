@@ -1,10 +1,7 @@
 ﻿---
 ac: '31'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Flaming Gallop
@@ -12,13 +9,10 @@ creature_ability:
 - Trample
 creature_family: '[[DATABASE/monsterfamily/Nightmare|Nightmare]]'
 dexterity: '+4'
-element: null
 fly_speed: '120'
 fortitude: '+25'
-hardness: null
 hp: '200'
 id: '309'
-immunity: null
 intelligence: '+2'
 land_speed: '60'
 language:
@@ -33,8 +27,6 @@ rarity: Common
 reflex: '+24'
 resistance:
 - fire 15
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Huge
@@ -54,7 +46,6 @@ strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'
@@ -62,7 +53,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+21'
 wisdom: '+5'
 

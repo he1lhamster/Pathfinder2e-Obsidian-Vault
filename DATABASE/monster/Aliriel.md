@@ -1,10 +1,7 @@
 ﻿---
 ac: '37'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Create Spawn
@@ -20,12 +17,9 @@ creature_ability:
 - Sunlight
 - Thassilonian Necromancer
 - Water Revulsion
-creature_family: null
 dexterity: '+8'
-element: null
 fly_speed: '25'
 fortitude: '+25'
-hardness: null
 hp: 210 (coffin restoration, fast healing 15 , negative healing )
 id: '1962'
 immunity:
@@ -54,8 +48,6 @@ reflex: '+29'
 resistance:
 - all physical 15 (except magical [[DATABASE/equipment/Silver Weapon|silver]] weapons
   ormagical weapons sheddingbright light)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -108,7 +100,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Shadow|Shadow]]'
 - '[[DATABASE/trait/Undead|Undead]]'

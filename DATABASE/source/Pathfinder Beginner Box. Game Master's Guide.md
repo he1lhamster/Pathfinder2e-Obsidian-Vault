@@ -2,9 +2,6 @@
 id: '63'
 name: Pathfinder Beginner Box. Game Master's Guide
 rarity: Common
-rus_type_level: null
-source: null
-trait: null
 type: Source
 
 ---

@@ -1,23 +1,16 @@
 ﻿---
 ac: '35'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Attack of Opportunity
 - Soul Arrow
 - Veering Miss
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+25'
 hp: '330'
 id: '1490'
-immunity: null
 intelligence: '+2'
 land_speed: '25'
 language:
@@ -30,9 +23,6 @@ name: Artus Rodrivan
 perception: '+27'
 rarity: Unique
 reflex: '+29'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +26'
@@ -41,22 +31,18 @@ skill:
 source: '[[DATABASE/source/Pathfinder 167. Ready Fight!|Pathfinder #167: Ready? Fight!]]'
 speed:
 - 25 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Elf|Elf]]'
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+26'
 wisdom: '+4'
 

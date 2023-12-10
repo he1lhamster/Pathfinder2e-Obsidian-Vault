@@ -1,10 +1,5 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Full Automation
-frequency: null
-heighten_level: null
 id: '3088'
 level: '20'
 name: Full Automation
@@ -12,14 +7,9 @@ prerequisite: '[[DATABASE/inventorinnovation/Armor Innovation|armor]] , [[DATABA
   Innovation|construct]] , or [[DATABASE/inventorinnovation/Weapon Innovation|weapon]]
   innovation'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Inventor|Inventor]]'
-trigger: null
 type: Feat
 
 ---

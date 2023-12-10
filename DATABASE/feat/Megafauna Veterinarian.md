@@ -1,26 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Megafauna Veterinarian
-frequency: null
-heighten_level: null
 id: '3446'
 level: '6'
 name: Megafauna Veterinarian
 prerequisite: '[[DATABASE/feat/Mammoth Lord Dedication|Mammoth Lord Dedication]] ;
   Expert in [[DATABASE/skill/Nature|Nature]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 177. Burning Tundra|Pathfinder #177: Burning
   Tundra]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

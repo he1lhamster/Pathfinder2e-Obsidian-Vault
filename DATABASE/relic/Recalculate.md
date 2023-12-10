@@ -1,11 +1,8 @@
 ﻿---
-element: null
 id: '50'
 item_category: Relics
 name: Recalculate
-prerequisite: null
 rarity: Common
-rus_type_level: null
 school: Divination
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:

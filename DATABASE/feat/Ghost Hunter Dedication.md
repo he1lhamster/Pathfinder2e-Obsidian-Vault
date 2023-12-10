@@ -1,26 +1,20 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Ghost Hunter Dedication
-frequency: null
-heighten_level: null
 id: '2277'
+leads_to: '[[DATABASE/feat/Ghost Strike|Ghost Strike]] , [[DATABASE/feat/Grave''s
+  Voice|Grave''s Voice]] , [[DATABASE/feat/Investigate Haunting|Investigate Haunting]]
+  , [[DATABASE/feat/Peer Beyond|Peer Beyond]] , [[DATABASE/feat/Spirit Spells|Spirit
+  Spells]]'
 level: '2'
 name: Ghost Hunter Dedication
 prerequisite: Trained in [[DATABASE/skill/Occultism|Occultism]] or Trained in [[DATABASE/skill/Religion|Religion]]
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 163. Ruins of Gauntlight|Pathfinder #163: Ruins
   of Gauntlight]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

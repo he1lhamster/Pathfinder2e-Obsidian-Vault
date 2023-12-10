@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Ride
-frequency: null
-heighten_level: null
 id: '835'
+leads_to: '[[DATABASE/feat/Mammoth Lord Dedication|Mammoth Lord Dedication]]'
 level: '1'
 name: Ride
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/General|General]]'
-trigger: null
 type: Feat
 
 ---

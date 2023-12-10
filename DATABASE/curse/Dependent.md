@@ -1,11 +1,8 @@
 ﻿---
-element: null
 id: '6'
 level: '9'
 name: Dependent
 rarity: Rare
-rus_type_level: null
-saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:

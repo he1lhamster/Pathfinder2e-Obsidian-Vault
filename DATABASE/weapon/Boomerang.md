@@ -1,8 +1,6 @@
 ﻿---
 bulk: L
 damage: 1d6 B
-deity: null
-favored_weapon: null
 hands: '1'
 id: '332'
 item_category: Weapons
@@ -12,7 +10,6 @@ name: Boomerang
 price: 2 sp
 range: 60 ft.
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 trait:
 - '[[DATABASE/trait/Recovery|Recovery]]'

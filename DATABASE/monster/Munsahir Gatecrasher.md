@@ -1,10 +1,6 @@
 ﻿---
 ac: '22'
-alignment: null
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Blazing Rush
@@ -14,9 +10,7 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Munsahir|Munsahir]]'
 dexterity: '+0'
 element: Fire
-fly_speed: null
 fortitude: '+14'
-hardness: null
 hp: '65'
 id: '2637'
 immunity:
@@ -32,9 +26,6 @@ name: Munsahir Gatecrasher
 perception: '+11'
 rarity: Common
 reflex: '+6'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -45,12 +36,10 @@ skill:
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 speed:
 - 20 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Elemental|Elemental]]'
 - '[[DATABASE/trait/Fire|Fire]]'

@@ -5,7 +5,6 @@ ability:
 ability_boost:
 - Intelligence
 - Free
-ability_flaw: null
 hp: '8'
 id: '47'
 land_speed: '25'
@@ -15,7 +14,6 @@ language:
 max_speed: '25'
 name: Shisk
 rarity: Rare
-rus_type_level: null
 size: Medium
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
 speed:

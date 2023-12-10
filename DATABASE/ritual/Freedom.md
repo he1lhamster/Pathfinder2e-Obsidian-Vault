@@ -1,10 +1,6 @@
 ﻿---
-area: null
 cost: "valuable oils and objects associated with the target worth a total value of\
   \ 100 gp \xD7 the spell level\xD7 the target\u2019s level"
-duration: null
-element: null
-heighten: null
 heighten_level: '8'
 id: '11'
 level: '8'
@@ -13,8 +9,6 @@ primary_check: '[[DATABASE/skill/Arcana|Arcana]] (legendary) or [[DATABASE/skill
   (legendary)'
 range: see text
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Abjuration
 secondary_casters: '2'
 secondary_check: '[[DATABASE/skill/Society|Society]]'

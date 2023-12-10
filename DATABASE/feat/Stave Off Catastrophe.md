@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Stave Off Catastrophe
-frequency: null
-heighten_level: null
 id: '2265'
 level: '18'
 name: Stave Off Catastrophe
 prerequisite: '[[DATABASE/feat/Shoulder Catastrophe|Shoulder Catastrophe]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

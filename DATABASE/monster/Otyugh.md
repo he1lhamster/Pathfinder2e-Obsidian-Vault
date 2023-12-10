@@ -1,22 +1,15 @@
 ﻿---
 ac: '20'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Constrict
 - Filth Fever
 - Reposition
 - Stench
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+12'
-hardness: null
 hp: '70'
 id: '327'
 immunity:
@@ -31,9 +24,6 @@ name: Otyugh
 perception: '+10'
 rarity: Common
 reflex: '+8'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - scent (imprecise) 30 feet
@@ -45,19 +35,16 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 20 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+10'
 wisdom: '+2'
 

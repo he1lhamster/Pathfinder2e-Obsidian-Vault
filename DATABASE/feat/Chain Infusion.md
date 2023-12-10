@@ -1,24 +1,14 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Chain Infusion
-frequency: null
-heighten_level: null
 id: '4197'
 level: '10'
 name: Chain Infusion
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Infusion|Infusion]]'
 - '[[DATABASE/trait/Kineticist|Kineticist]]'
-trigger: null
 type: Feat
 
 ---

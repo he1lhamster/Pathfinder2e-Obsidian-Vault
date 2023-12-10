@@ -1,10 +1,7 @@
 ﻿---
 ac: '27'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Catch Rock
@@ -13,13 +10,9 @@ creature_ability:
 - Twist the Hook
 creature_family: '[[DATABASE/monsterfamily/Giant|Giant]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+18'
-hardness: null
 hp: '150'
 id: '679'
-immunity: null
 intelligence: '+0'
 land_speed: '35'
 language:
@@ -32,9 +25,6 @@ name: Marsh Giant
 perception: '+16'
 rarity: Common
 reflex: '+13'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Large
@@ -63,7 +53,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Reflex
-weakness: null
 will: '+17'
 wisdom: '+3'
 

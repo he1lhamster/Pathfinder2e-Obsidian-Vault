@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Liberating Stride
-frequency: null
-heighten_level: null
 id: '248'
 level: '12'
 name: Liberating Stride
 prerequisite: '[[DATABASE/championcause/Liberator|liberator cause]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Champion|Champion]]'
-trigger: null
 type: Feat
 
 ---

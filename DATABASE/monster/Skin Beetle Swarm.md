@@ -1,19 +1,15 @@
 ﻿---
 ac: '26'
 alignment: N
-all_resistance: null
 burrow_speed: '15'
 charisma: '-2'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Swarming Bites
 creature_family: '[[DATABASE/monsterfamily/Skin Beetle|Skin Beetle]]'
 dexterity: '+6'
-element: null
 fly_speed: '15'
 fortitude: '+16'
-hardness: null
 hp: '125'
 id: '2462'
 immunity:
@@ -21,7 +17,6 @@ immunity:
 - '[[DATABASE/monsterability/Swarm Mind|swarm mind]]'
 intelligence: '-5'
 land_speed: '20'
-language: null
 level: '8'
 max_speed: '20'
 name: Skin Beetle Swarm
@@ -32,8 +27,6 @@ resistance:
 - bludgeoning 5
 - piercing 8
 - slashing 8
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Large
@@ -46,12 +39,10 @@ speed:
 - 20 feet
 - burrow 15 feet
 - fly 15 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 - '[[DATABASE/trait/Swarm|Swarm]]'

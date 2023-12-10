@@ -1,22 +1,15 @@
 ﻿---
 ac: '27'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Opportunistic Brawler
 - Terrifying Sneer
-creature_family: null
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+16'
 hp: '135'
 id: '2020'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -27,9 +20,6 @@ name: Celestial Menagerie Bruiser
 perception: '+14'
 rarity: Common
 reflex: '+15'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +17'
@@ -42,20 +32,16 @@ source: '[[DATABASE/source/Pathfinder 152. Legacy of the Lost God|Pathfinder #15
   Legacy of the Lost God]]'
 speed:
 - 25 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+13'
 wisdom: '+0'
 

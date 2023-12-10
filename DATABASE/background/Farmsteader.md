@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Forager|Forager]]'
 id: '273'
 name: Farmsteader
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Survival|Survival]]'
 - Farming [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

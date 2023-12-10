@@ -1,30 +1,18 @@
 ﻿---
 actions: '[two-actions]'
 area: 20-foot burst
-bloodline: null
-component: null
-cost: null
 deity:
 - '[[DATABASE/deity/Ferrumnestra|Ferrumnestra]]'
-domain: null
-duration: null
 element: Metal
 heighten: '+1'
 heighten_level: 3, 4, 5, 6, 7, 8, 9, 10
 id: '1376'
-lesson: null
 level: '3'
-mystery: null
 name: Noxious Metals
-patron_theme: null
 range: 60 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: basicFortitude
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-target: null
 tradition:
 - Arcane
 trait:
@@ -32,7 +20,6 @@ trait:
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Metal|Metal]]'
 - '[[DATABASE/trait/Poison|Poison]]'
-trigger: null
 type: Spell
 
 ---

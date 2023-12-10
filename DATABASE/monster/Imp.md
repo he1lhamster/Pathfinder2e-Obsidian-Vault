@@ -1,10 +1,7 @@
 ﻿---
 ac: '17'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Change Shape
@@ -13,10 +10,8 @@ creature_ability:
 - Infernal Temptation
 creature_family: '[[DATABASE/monsterfamily/Devil|Devil]]'
 dexterity: '+4'
-element: null
 fly_speed: '30'
 fortitude: '+5'
-hardness: null
 hp: '15'
 id: '109'
 immunity:
@@ -35,8 +30,6 @@ reflex: '+9'
 resistance:
 - physical 3 (except [[DATABASE/equipment/Silver Weapon|silver]] )
 - '[[DATABASE/trait/Poison|poison]] 5'
-rus_type_level: null
-school: null
 sense:
 - greater darkvision
 size: Tiny
@@ -59,7 +52,6 @@ strength: '-1'
 strength_req: '-1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Devil|Devil]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

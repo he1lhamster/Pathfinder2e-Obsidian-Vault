@@ -2,8 +2,6 @@
 area: 1-mile burst
 cost: 1,000 gp worth of precious stonesground to dust
 duration: 1 year
-element: null
-heighten: null
 heighten_level: '5'
 id: '76'
 level: '5'
@@ -11,8 +9,6 @@ name: Summerland Spell
 primary_check: '[[DATABASE/skill/Nature|Nature]] (master)'
 range: touch
 rarity: Unique
-requirement: null
-rus_type_level: null
 school: Abjuration
 secondary_casters: '5'
 secondary_check: '[[DATABASE/skill/Performance|Performance]] , [[DATABASE/skill/Religion|Religion]]
@@ -20,7 +16,6 @@ secondary_check: '[[DATABASE/skill/Performance|Performance]] , [[DATABASE/skill/
   or a similar Lore skill, [[DATABASE/skill/Survival|Survival]]'
 source: '[[DATABASE/source/Pathfinder 177. Burning Tundra|Pathfinder #177: Burning
   Tundra]]'
-target: null
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Unique|Unique]]'

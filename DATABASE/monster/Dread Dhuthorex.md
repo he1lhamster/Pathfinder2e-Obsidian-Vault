@@ -1,10 +1,7 @@
 ﻿---
 ac: '31'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Aquatic Ambush
@@ -14,10 +11,7 @@ creature_ability:
 - Swallow Whole
 creature_family: '[[DATABASE/monsterfamily/Dhuthorex|Dhuthorex]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+24'
-hardness: null
 hp: '195'
 id: '1383'
 immunity:
@@ -32,9 +26,6 @@ name: Dread Dhuthorex
 perception: '+22'
 rarity: Uncommon
 reflex: '+18'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Wavesense|wavesense (imprecise) 60 feet]]'
@@ -65,7 +56,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+21'
 wisdom: '+4'
 

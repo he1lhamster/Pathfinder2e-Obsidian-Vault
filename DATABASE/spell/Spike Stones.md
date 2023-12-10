@@ -1,38 +1,26 @@
 ﻿---
 actions: '[three-actions]'
 area: 20-foot burst
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 1 hour
 element: Earth
 heighten: '+1'
 heighten_level: 4, 5, 6, 7, 8, 9, 10
 id: '717'
-lesson: null
 level: '4'
-mystery: null
 name: Spike Stones
-patron_theme: null
 range: 60 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-target: null
 tradition:
 - Primal
 trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Earth|Earth]]'
-trigger: null
 type: Spell
 
 ---

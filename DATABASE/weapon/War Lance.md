@@ -1,8 +1,6 @@
 ﻿---
 bulk: '2'
 damage: 1d8 P
-deity: null
-favored_weapon: null
 hands: '2'
 id: '254'
 item_category: Weapons
@@ -10,9 +8,7 @@ item_subcategory: Base Weapons
 level: '0'
 name: War Lance
 price: 4 gp
-range: null
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
 trait:
 - '[[DATABASE/trait/Deadly|Deadly d8]]'

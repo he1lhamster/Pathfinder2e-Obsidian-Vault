@@ -1,22 +1,15 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Everdistant Defense
-frequency: null
-heighten_level: null
 id: '2747'
 level: '20'
 name: Everdistant Defense
-prerequisite: null
 rarity: Uncommon
 requirement: You have at least one [[DATABASE/trait/Aura|aura]] from a champion feat
   orfeature.
-rus_type_level: null
 school: Abjuration
 source: '[[DATABASE/source/Pathfinder 168. King of the Mountain|Pathfinder #168: King
   of the Mountain]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Champion|Champion]]'

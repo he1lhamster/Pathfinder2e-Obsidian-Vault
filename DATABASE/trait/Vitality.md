@@ -2,7 +2,6 @@
 id: '509'
 name: Vitality
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 trait:
 - Vitality

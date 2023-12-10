@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Aura of Vengeance
-frequency: null
-heighten_level: null
 id: '252'
 level: '14'
 name: Aura of Vengeance
 prerequisite: '[[DATABASE/class_/Champion|exalt]] ; [[DATABASE/feat/Vengeful Oath|VengefulOath]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Champion|Champion]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,10 +1,7 @@
 ﻿---
 ac: '12'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Constrict
@@ -17,10 +14,7 @@ creature_ability:
 - Acid
 creature_family: '[[DATABASE/monsterfamily/Ooze|Ooze]]'
 dexterity: '-4'
-element: null
-fly_speed: null
 fortitude: '+17'
-hardness: null
 hp: '157'
 id: '754'
 immunity:
@@ -34,16 +28,12 @@ immunity:
 - '[[DATABASE/trait/Visual|visual]]'
 intelligence: '-5'
 land_speed: '15'
-language: null
 level: '6'
 max_speed: '15'
 name: Verdurous Ooze
 perception: '+8'
 rarity: Common
 reflex: '+8'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - motion sense 60 feet
 - no vision
@@ -54,20 +44,16 @@ skill:
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 15 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Mindless|Mindless]]'
 - '[[DATABASE/trait/Ooze|Ooze]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+10'
 wisdom: '+0'
 

@@ -1,23 +1,16 @@
 ﻿---
 ac: '15'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Elemental Assault
 - Elemental Bulwark
 creature_family: '[[DATABASE/monsterfamily/Geniekin|Geniekin]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+3'
-hardness: null
 hp: '16'
 id: '761'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -32,10 +25,6 @@ name: Suli Dune Dancer
 perception: '+5'
 rarity: Common
 reflex: '+5'
-resistance: null
-rus_type_level: null
-school: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +5'
@@ -62,16 +51,13 @@ strength_req: '2'
 strongest_save:
 - Reflex
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Suli|Suli]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+5'
 wisdom: '+0'
 

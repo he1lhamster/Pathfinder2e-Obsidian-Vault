@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Improved Twin Riposte (Ranger)
-frequency: null
-heighten_level: null
 id: '536'
 level: '16'
 name: Improved Twin Riposte (Ranger)
 prerequisite: '[[DATABASE/feat/Twin Riposte|Twin Riposte]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Ranger|Ranger]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,10 +1,6 @@
 ﻿---
 ac: '20'
-alignment: null
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Biomagical Feedback
@@ -14,9 +10,7 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Elemental, Metal|Elemental, Metal]]'
 dexterity: '+2'
 element: Metal
-fly_speed: null
 fortitude: '+13'
-hardness: null
 hp: '65'
 id: '2647'
 immunity:
@@ -28,7 +22,6 @@ immunity:
 - '[[DATABASE/trait/Sleep|sleep]]'
 intelligence: '-4'
 land_speed: '15'
-language: null
 level: '4'
 max_speed: '15'
 name: Quickiron Plasm
@@ -37,8 +30,6 @@ rarity: Common
 reflex: '+8'
 resistance:
 - '[[DATABASE/trait/Electricity|electricity]] 5'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - magic scent
@@ -49,12 +40,10 @@ skill:
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 speed:
 - 15 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Elemental|Elemental]]'
 - '[[DATABASE/trait/Metal|Metal]]'
@@ -62,7 +51,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+10'
 wisdom: '+0'
 

@@ -1,24 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Expert Wizard Spellcasting
-frequency: null
-heighten_level: null
 id: '748'
+leads_to: '[[DATABASE/feat/Master Wizard Spellcasting|Master Wizard Spellcasting]]'
 level: '12'
 name: Expert Wizard Spellcasting
 prerequisite: '[[DATABASE/feat/Basic Wizard Spellcasting|Basic Wizard Spellcasting]]
   ; Master in [[DATABASE/skill/Arcana|Arcana]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

@@ -4,7 +4,6 @@ level: '2'
 name: Curse Maelstrom
 prerequisite: You are cursed or have previously been cursed.
 rarity: Rare
-rus_type_level: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'

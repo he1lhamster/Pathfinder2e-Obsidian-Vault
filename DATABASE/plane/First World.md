@@ -1,11 +1,9 @@
 ﻿---
 alignment: N
-element: null
 id: '10'
 name: First World
 plane_category: Transitive Planes
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
 - '[[DATABASE/trait/Erratic|Erratic]]'

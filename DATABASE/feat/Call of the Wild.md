@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Call of the Wild
-frequency: null
-heighten_level: null
 id: '317'
+leads_to: '[[DATABASE/feat/Primal Summons|Primal Summons]]'
 level: '2'
 name: Call of the Wild
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Druid|Druid]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,23 +1,16 @@
 ﻿---
 ac: '21'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Flurry of Kicks
 - Handspring Kick
 creature_family: '[[DATABASE/monsterfamily/Planar Scion|Planar Scion]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+7'
-hardness: null
 hp: '36'
 id: '1266'
-immunity: null
 intelligence: '-1'
 land_speed: '35'
 language:
@@ -33,8 +26,6 @@ resistance:
 - acid
 - electricity
 - or sonic 1 (chosen randomly each day)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
@@ -53,7 +44,6 @@ strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Ganzi|Ganzi]]'
 - '[[DATABASE/trait/Human|Human]]'
@@ -62,7 +52,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+9'
 wisdom: '+2'
 

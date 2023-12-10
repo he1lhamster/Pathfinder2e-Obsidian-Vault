@@ -1,57 +1,24 @@
 ﻿---
-ac: null
 actions: '[three-actions]'
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '2115'
 item_category: Consumables
 item_subcategory: Talismans
-land_speed: null
 level: '9'
-max_speed: null
 name: Wooden Nickle
-onset: null
 price: 130 gp
-range: null
 rarity: Common
-reflex: null
 requirement: You are a master in [[DATABASE/skill/Deception|Deception]] .
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Illusion
-size: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-spell: null
-stage: null
 subcategory: consumable/talisman
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Consumable|Consumable]]'
 - '[[DATABASE/trait/Illusion|Illusion]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Talisman|Talisman]]'
 - '[[DATABASE/trait/Visual|Visual]]'
-trigger: null
 type: Item
 usage: affixed to armor
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Wooden Nickle<span class="item-type">Item 9</span>

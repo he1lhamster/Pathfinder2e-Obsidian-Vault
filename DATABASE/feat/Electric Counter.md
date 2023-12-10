@@ -1,20 +1,14 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Electric Counter
-frequency: null
-heighten_level: null
 id: '2732'
 level: '16'
 name: Electric Counter
 prerequisite: '[[DATABASE/feat/Wild Winds Initiate|Wild Winds Initiate]]'
 rarity: Uncommon
 requirement: You are in [[DATABASE/spell/Wild Winds Stance|Wild Winds stance]] .
-rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Pathfinder 167. Ready Fight!|Pathfinder #167: Ready? Fight!]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Electricity|Electricity]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'

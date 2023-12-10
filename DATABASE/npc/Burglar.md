@@ -1,10 +1,7 @@
 ﻿---
 ac: '21'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Deny Advantage
@@ -14,12 +11,9 @@ creature_ability:
 - Surprise Attack
 creature_family: '[[DATABASE/monsterfamily/Criminals|Criminals]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+7'
 hp: '60'
 id: '890'
-immunity: null
 intelligence: '+1'
 land_speed: '30'
 language:
@@ -30,8 +24,6 @@ name: Burglar
 perception: '+10'
 rarity: Common
 reflex: '+12'
-resistance: null
-rus_type_level: null
 sense:
 - (11 to find traps)
 size: Medium
@@ -46,20 +38,16 @@ skill:
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 speed:
 - 30 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+10'
 wisdom: '+2'
 

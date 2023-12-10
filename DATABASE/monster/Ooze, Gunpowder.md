@@ -1,8 +1,6 @@
 ﻿---
 ac: '29'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
 climb_speed: '20'
 constitution: '+6'
@@ -13,10 +11,7 @@ creature_ability:
 - Split
 creature_family: '[[DATABASE/monsterfamily/Ooze|Ooze]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+28'
-hardness: null
 hp: '400'
 id: '2412'
 immunity:
@@ -29,16 +24,12 @@ immunity:
 - '[[DATABASE/trait/Visual|visual]]'
 intelligence: '-5'
 land_speed: '20'
-language: null
 level: '14'
 max_speed: '20'
 name: Gunpowder Ooze
 perception: '+22'
 rarity: Common
 reflex: '+21'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - motion sense 120 feet
 - no vision
@@ -49,17 +40,14 @@ source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 speed:
 - 20 feet
 - climb 20 feet
-spell: null
 strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Mindless|Mindless]]'
 - '[[DATABASE/trait/Ooze|Ooze]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
 weakness:

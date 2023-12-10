@@ -1,10 +1,7 @@
 ﻿---
 ac: '21'
 alignment: CG
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Advancing Flourish
@@ -12,12 +9,9 @@ creature_ability:
 - Sneak Attack
 creature_family: '[[DATABASE/monsterfamily/Firebrands|Firebrands]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+9'
 hp: '54'
 id: '965'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -29,8 +23,6 @@ name: Charming Scoundrel
 perception: '+8'
 rarity: Common
 reflex: '+13'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Small
@@ -49,12 +41,10 @@ skill:
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 speed:
 - 25 feet
-spell: null
 strength: '+1'
 strength_req: '1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Gnome|Gnome]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -63,7 +53,6 @@ vision: Low-light vision
 weakest_save:
 - Fortitude
 - Will
-weakness: null
 will: '+9'
 wisdom: '+0'
 

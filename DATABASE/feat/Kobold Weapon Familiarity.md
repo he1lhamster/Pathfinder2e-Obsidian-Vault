@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Kobold Weapon Familiarity
-frequency: null
-heighten_level: null
 id: '2381'
+leads_to: '[[DATABASE/feat/Kobold Weapon Expertise|Kobold Weapon Expertise]] , [[DATABASE/feat/Kobold
+  Weapon Innovator|Kobold Weapon Innovator]]'
 level: '1'
 name: Kobold Weapon Familiarity
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Kobold|Kobold]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,24 +1,16 @@
 ﻿---
 ac: '22'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Channel Smite
 - Profane Gift
 - Stench
-creature_family: null
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+13'
-hardness: null
 hp: '83'
 id: '2011'
-immunity: null
 intelligence: '+1'
 land_speed: '20'
 language:
@@ -31,9 +23,6 @@ name: Cavnakash
 perception: '+12'
 rarity: Unique
 reflex: '+10'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -64,7 +53,6 @@ strength: '+3'
 strength_req: '3'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
@@ -73,7 +61,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+15'
 wisdom: '+5'
 

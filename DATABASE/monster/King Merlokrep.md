@@ -1,10 +1,7 @@
 ﻿---
 ac: '26'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Imperious Retreat
@@ -13,15 +10,10 @@ creature_ability:
 - Signature Spells
 - Sneak
 - Attack
-creature_family: null
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+14'
-hardness: null
 hp: '140'
 id: '2179'
-immunity: null
 intelligence: '+2'
 land_speed: '25'
 language:
@@ -33,9 +25,6 @@ name: King Merlokrep
 perception: '+16'
 rarity: Unique
 reflex: '+18'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -72,7 +61,6 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Kobold|Kobold]]'
@@ -81,7 +69,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+16'
 wisdom: '+4'
 

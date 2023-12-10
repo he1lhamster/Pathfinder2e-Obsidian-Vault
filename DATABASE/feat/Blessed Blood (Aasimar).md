@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Blessed Blood (Aasimar)
-frequency: null
-heighten_level: null
 id: '1354'
 level: '5'
 name: Blessed Blood (Aasimar)
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Aasimar|Aasimar]]'
-trigger: null
 type: Feat
 
 ---

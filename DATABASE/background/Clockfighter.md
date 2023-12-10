@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Experienced Professional|Experienced Professional]]'
 id: '250'
 name: Clockfighter
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Crafting|Crafting]]'
 - Gladiatorial [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

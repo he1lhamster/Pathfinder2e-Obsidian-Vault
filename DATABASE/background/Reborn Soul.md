@@ -5,13 +5,9 @@ ability:
 ability_boost:
 - Constitution
 - Intelligence
-feat: null
 id: '327'
 name: Reborn Soul
-prerequisite: null
 rarity: Rare
-rus_type_level: null
-skill: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: general
 trait:

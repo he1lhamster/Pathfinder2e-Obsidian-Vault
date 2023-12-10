@@ -1,8 +1,6 @@
 ﻿---
 ac: '19'
 alignment: LG
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
 climb_speed: '15'
 constitution: '+0'
@@ -12,13 +10,9 @@ creature_ability:
 - Spring Up
 creature_family: '[[DATABASE/monsterfamily/Vanara|Vanara]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+5'
-hardness: null
 hp: '16'
 id: '1359'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -31,9 +25,6 @@ name: Vanara Disciple
 perception: '+6'
 rarity: Uncommon
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
@@ -51,7 +42,6 @@ strength: '+1'
 strength_req: '1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
@@ -60,7 +50,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+8'
 wisdom: '+3'
 

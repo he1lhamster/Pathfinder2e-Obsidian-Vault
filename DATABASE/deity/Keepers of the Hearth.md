@@ -24,11 +24,9 @@ follower_alignment:
 id: '248'
 name: Keepers of the Hearth
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Society|Society]]'
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
-trait: null
 type: Deity
 
 ---

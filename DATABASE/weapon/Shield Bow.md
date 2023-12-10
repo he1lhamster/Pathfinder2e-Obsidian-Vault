@@ -1,8 +1,6 @@
 ﻿---
 bulk: '1'
 damage: 1d6 P
-deity: null
-favored_weapon: null
 hands: 1+
 id: '339'
 item_category: Weapons
@@ -12,7 +10,6 @@ name: Shield Bow
 price: 5 gp
 range: 50 ft.
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 trait:
 - '[[DATABASE/trait/Deadly|Deadly d8]]'

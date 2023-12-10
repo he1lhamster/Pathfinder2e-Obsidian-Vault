@@ -1,7 +1,5 @@
 ﻿---
-advanced_apocryphal_spell: null
 advanced_domain_spell: '[[DATABASE/spell/Swarm Form|Swarm Form]]'
-apocryphal_spell: null
 deity:
 - '[[DATABASE/deity/Apollyon|Apollyon]]'
 - '[[DATABASE/deity/Ghlaunder|Ghlaunder]]'
@@ -20,9 +18,7 @@ domain_spell: '[[DATABASE/spell/Swarmsense|Swarmsense]]'
 id: '53'
 name: Swarm Domain
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
-trait: null
 type: Domain
 
 ---

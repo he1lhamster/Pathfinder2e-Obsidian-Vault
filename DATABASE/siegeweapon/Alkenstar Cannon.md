@@ -1,6 +1,5 @@
 ﻿---
 ac: '32'
-bulk: null
 fortitude: '+26'
 hardness: '15'
 hp: '200'
@@ -13,7 +12,6 @@ name: Alkenstar Cannon
 price: 12,000 gp
 rarity: Rare
 reflex: '+18'
-rus_type_level: null
 size: Huge
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:

@@ -1,8 +1,6 @@
 ﻿---
 ac: '38'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
 climb_speed: '35'
 constitution: '+0'
@@ -12,14 +10,10 @@ creature_ability:
 - Tangled Forest Rake
 - Tangled Forest Stance
 - Tangled Forest Trip
-creature_family: null
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+26'
 hp: '300'
 id: '1481'
-immunity: null
 intelligence: '+2'
 land_speed: '50'
 language:
@@ -32,9 +26,6 @@ name: Kas Xi Rai
 perception: '+26'
 rarity: Unique
 reflex: '+32'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +31'
@@ -56,16 +47,13 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+29'
 wisdom: '+3'
 

@@ -1,8 +1,6 @@
 ﻿---
 ac: '13'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+4'
 hardness: 1 Bottle Hardness
 hazard_type: Trap
@@ -16,17 +14,12 @@ level: '1'
 name: Lyzerium Bottle
 rarity: Common
 reflex: '+6'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 178. Punks in a Powderkeg|Pathfinder #178: Punks
   in a Powderkeg]]'
 trait:
 - '[[DATABASE/trait/Mechanical|Mechanical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Lyzerium Bottle<span class="item-type">Hazard 1</span>

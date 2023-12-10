@@ -13,9 +13,7 @@ name: Heavy Crossbow
 price: 4 gp
 range: 120 ft.
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Weapon
 weapon_category: Simple
 weapon_group: '[[DATABASE/weapongroup/Bow|Bow]]'

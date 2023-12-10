@@ -1,10 +1,7 @@
 ﻿---
 ac: '20'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - 20 feet
@@ -16,12 +13,8 @@ creature_ability:
 - Split
 - ''
 - Suction
-creature_family: null
 dexterity: '-5'
-element: null
-fly_speed: null
 fortitude: '+26'
-hardness: null
 hp: '300'
 id: '2316'
 immunity:
@@ -34,17 +27,11 @@ immunity:
 - unconscious
 - visual
 intelligence: '-5'
-land_speed: null
-language: null
 level: '12'
-max_speed: null
 name: Fen Pudding
 perception: '+15'
 rarity: Rare
 reflex: '+11'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - motion sense 60 feet
 - no vision
@@ -53,23 +40,18 @@ skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +26'
 - '[[DATABASE/skill/Stealth|Stealth]] +23'
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
-speed: null
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Amphibious|Amphibious]]'
 - '[[DATABASE/trait/Mindless|Mindless]]'
 - '[[DATABASE/trait/Ooze|Ooze]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+16'
 wisdom: '+0'
 

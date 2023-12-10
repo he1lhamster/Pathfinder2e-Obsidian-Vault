@@ -1,10 +1,7 @@
 ﻿---
 ac: '22'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Pack Attack
@@ -14,10 +11,7 @@ creature_ability:
 - Whip Vulnerability
 creature_family: '[[DATABASE/monsterfamily/Visitant|Visitant]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+9'
-hardness: null
 hp: 95 ( negative healing )
 id: '513'
 immunity:
@@ -28,16 +22,12 @@ immunity:
 - unconscious
 intelligence: '-4'
 land_speed: '30'
-language: null
 level: '5'
 max_speed: '30'
 name: Lion Visitant
 perception: '+13'
 rarity: Common
 reflex: '+11'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - lifesense (imprecise) 60 feet
@@ -50,12 +40,10 @@ source: '[[DATABASE/source/Pathfinder 152. Legacy of the Lost God|Pathfinder #15
   Legacy of the Lost God]]'
 speed:
 - 30 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 - '[[DATABASE/trait/Undead|Undead]]'

@@ -1,25 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Steal Spell
-frequency: null
-heighten_level: null
 id: '1808'
 level: '16'
 name: Steal Spell
 prerequisite: '[[DATABASE/feat/Legendary Thief|Legendary Thief]] ; [[DATABASE/feat/Loaner
   Spell|Loaner Spell]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Rogue|Rogue]]'
-trigger: null
 type: Feat
 
 ---

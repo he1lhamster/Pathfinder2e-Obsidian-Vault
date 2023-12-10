@@ -3,9 +3,7 @@ creature_family: Nightmare
 id: '76'
 name: Nightmare
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
-trait: null
 type: Creature Family
 
 ---

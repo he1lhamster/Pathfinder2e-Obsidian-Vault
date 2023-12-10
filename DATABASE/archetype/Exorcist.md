@@ -4,9 +4,7 @@ level: '4'
 name: Exorcist
 prerequisite: Trained in [[DATABASE/skill/Occultism|Occultism]] or Trained in [[DATABASE/skill/Religion|Religion]]
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-trait: null
 type: Archetype
 
 ---

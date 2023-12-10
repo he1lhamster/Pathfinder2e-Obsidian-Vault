@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Wyrmbane Aura
-frequency: null
-heighten_level: null
 id: '255'
 level: '14'
 name: Wyrmbane Aura
 prerequisite: '[[DATABASE/feat/Dragonslayer Oath|Dragonslayer Oath]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Champion|Champion]]'
-trigger: null
 type: Feat
 
 ---

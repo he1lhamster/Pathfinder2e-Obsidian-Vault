@@ -1,22 +1,15 @@
 ﻿---
 ac: '19'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Baleful Glow
 - Clawing Fear
 - Mundane Appearance
 - Scarecrow's Leer
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+13'
-hardness: null
 hp: '60'
 id: '793'
 immunity:
@@ -36,7 +29,6 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-4'
 land_speed: '20'
-language: null
 level: '4'
 max_speed: '20'
 name: Scarecrow
@@ -45,8 +37,6 @@ rarity: Common
 reflex: '+8'
 resistance:
 - physical 5 (except slashing)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -55,12 +45,10 @@ skill:
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 20 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 type: Creature

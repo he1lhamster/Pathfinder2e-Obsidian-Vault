@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Steady Balance|Steady Balance]]'
 id: '2'
 name: Acrobat
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]]'
 - Circus [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

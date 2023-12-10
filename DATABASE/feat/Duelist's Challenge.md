@@ -1,24 +1,15 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Duelist's Challenge
-frequency: null
-heighten_level: null
 id: '1957'
 level: '4'
 name: Duelist's Challenge
 prerequisite: '[[DATABASE/feat/Duelist Dedication|Duelist Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Open|Open]]'
-trigger: null
 type: Feat
 
 ---

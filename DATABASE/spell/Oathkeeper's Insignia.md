@@ -1,32 +1,18 @@
 ﻿---
 actions: '[free-action]'
-area: null
-bloodline: null
 component:
 - Verbal
-cost: null
-deity: null
 domain:
 - '[[DATABASE/domain/Duty Domain|Duty]]'
 duration: 1 hour
-element: null
 heighten: 3rd, 5th, 7th, 9th
 heighten_level: 1, 3, 5, 7, 9
 id: '604'
-lesson: null
 level: '1'
-mystery: null
 name: Oathkeeper's Insignia
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
-target: null
-tradition: null
 trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 trigger: You make a promise or deal.

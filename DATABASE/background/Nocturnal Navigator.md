@@ -5,12 +5,9 @@ ability:
 ability_boost:
 - Dexterity
 - Wisdom
-feat: null
 id: '331'
 name: Nocturnal Navigator
-prerequisite: null
 rarity: Rare
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Survival|Survival]]'
 source: '[[DATABASE/source/Travel Guide|Travel Guide]]'

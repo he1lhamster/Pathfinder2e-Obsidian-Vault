@@ -1,14 +1,9 @@
 ﻿---
-ability_type: Specific Familiar - Elemental Scamp
-actions: null
-frequency: null
-id: '106'
+ability_type: Specific Familiar - Gennayn
+id: '105'
 name: Elemental Mobility
 rarity: Common
-requirement: null
-rus_type_level: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-trait: null
 type: Familiar Ability
 
 ---

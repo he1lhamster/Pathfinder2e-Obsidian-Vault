@@ -1,21 +1,15 @@
 ﻿---
 ac: '34'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+25'
 hardness: '1'
 hazard_type: Trap
 hp: 4 (BT 2)
 id: '62'
-immunity: null
 level: '19'
 name: Dimensional Darkside Mirror
 rarity: Common
 reflex: '+20'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 168. King of the Mountain|Pathfinder #168: King
   of the Mountain]]'
 trait:
@@ -24,8 +18,6 @@ trait:
 - '[[DATABASE/trait/Mechanical|Mechanical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Dimensional Darkside Mirror<span class="item-type">Hazard 19</span>

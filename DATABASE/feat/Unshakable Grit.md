@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Unshakable Grit
-frequency: null
-heighten_level: null
 id: '3196'
 level: '12'
 name: Unshakable Grit
 prerequisite: '[[DATABASE/feat/Grit and Tenacity|Grit and Tenacity]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Gunslinger|Gunslinger]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Dragon Grip
-frequency: null
-heighten_level: null
 id: '2420'
 level: '9'
 name: Dragon Grip
 prerequisite: '[[DATABASE/feat/Beast Trainer|Beast Trainer]]'
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Orc|Orc]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

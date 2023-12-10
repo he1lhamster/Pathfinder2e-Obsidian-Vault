@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Clever Counterspell
-frequency: null
-heighten_level: null
 id: '653'
 level: '12'
 name: Clever Counterspell
 prerequisite: '[[DATABASE/feat/Counterspell|Counterspell]] ; [[DATABASE/feat/Quick
   Recognition|QuickRecognition]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Wizard|Wizard]]'
-trigger: null
 type: Feat
 
 ---

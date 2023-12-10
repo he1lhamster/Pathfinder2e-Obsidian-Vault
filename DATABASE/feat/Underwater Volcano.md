@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Underwater Volcano
-frequency: null
-heighten_level: null
 id: '2313'
 level: '17'
 name: Underwater Volcano
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Azarketi|Azarketi]]'
-trigger: null
 type: Feat
 
 ---

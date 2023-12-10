@@ -1,10 +1,7 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: It Was Me All Along!
 frequency: once per day
-heighten_level: null
 id: '4152'
 level: '14'
 name: It Was Me All Along!
@@ -12,16 +9,12 @@ prerequisite: '[[DATABASE/feat/Alter Ego Dedication|Alter Ego Dedication]] or [[
   Dedication|Vigilante Dedication]]'
 rarity: Uncommon
 requirement: Your identity is hidden, either by magic or a disguise.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Firebrands|Firebrands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Fortune|Fortune]]'
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

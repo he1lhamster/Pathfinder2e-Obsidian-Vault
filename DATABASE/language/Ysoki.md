@@ -2,7 +2,6 @@
 id: '61'
 name: Ysoki
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

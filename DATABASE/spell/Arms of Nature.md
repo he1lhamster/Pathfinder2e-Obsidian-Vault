@@ -1,10 +1,5 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
-component: null
-cost: null
-deity: null
 domain:
 - '[[DATABASE/domain/Wood Domain|Wood]]'
 duration: 1 minute
@@ -12,27 +7,18 @@ element: Wood
 heighten: 3rd, 5th, 7th
 heighten_level: 1, 3, 5, 7
 id: '1418'
-lesson: null
 level: '1'
-mystery: null
 name: Arms of Nature
-patron_theme: null
 range: touch
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 target: 1 wooden object or plant of at least 4 Bulk
-tradition: null
 trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Focus|Focus]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 - '[[DATABASE/trait/Wood|Wood]]'
-trigger: null
 type: Focus
 
 ---

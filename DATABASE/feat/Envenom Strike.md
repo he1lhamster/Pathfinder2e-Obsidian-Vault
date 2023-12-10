@@ -1,24 +1,16 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Envenom Strike
 frequency: once per 10 minutes
-heighten_level: null
 id: '3991'
 level: '9'
 name: Envenom Strike
 prerequisite: you possess a Strike from a nagaji heritage or ancestry feat that deals
   poison damage
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Nagaji|Nagaji]]'
-trigger: null
 type: Feat
 
 ---

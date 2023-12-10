@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Natural Medicine|Natural Medicine]]'
 id: '236'
 name: Plant Whisperer
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Nature|Nature]]'
 - Plant [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

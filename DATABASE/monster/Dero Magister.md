@@ -1,20 +1,14 @@
 ﻿---
 ac: '22'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Cytillesh Stare
 - Vulnerable to Sunlight
 creature_family: '[[DATABASE/monsterfamily/Dero|Dero]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+10'
-hardness: null
 hp: '65'
 id: '107'
 immunity:
@@ -30,9 +24,6 @@ name: Dero Magister
 perception: '+8'
 rarity: Uncommon
 reflex: '+13'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Small
@@ -69,7 +60,6 @@ strength: '+1'
 strength_req: '1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dero|Dero]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'

@@ -1,10 +1,7 @@
 ﻿---
 ac: '38'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Atrophied
@@ -14,13 +11,10 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Contemplative of Ashok|Contemplative of
   Ashok]]'
 dexterity: '+6'
-element: null
 fly_speed: '25'
 fortitude: '+21'
-hardness: null
 hp: '275'
 id: '1668'
-immunity: null
 intelligence: '+8'
 land_speed: '5'
 language:
@@ -35,8 +29,6 @@ rarity: Rare
 reflex: '+27'
 resistance:
 - '[[DATABASE/trait/Mental|mental]] 15'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - thoughtsense 60 feet
@@ -74,7 +66,6 @@ strength: '-2'
 strength_req: '-2'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Rare|Rare]]'

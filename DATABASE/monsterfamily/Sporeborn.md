@@ -3,10 +3,8 @@ creature_family: Sporeborn
 id: '340'
 name: Sporeborn
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 193. Mantle of Gold|Pathfinder #193: Mantle
   of Gold]]'
-trait: null
 type: Creature Family
 
 ---

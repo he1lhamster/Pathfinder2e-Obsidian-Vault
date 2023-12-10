@@ -1,20 +1,14 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
-frequency: null
 id: '2124'
 name: Channel Elements
 rarity: Common
 requirement: Your kinetic gate isn't active.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 trait:
 - '[[DATABASE/trait/Aura|Aura]]'
 - '[[DATABASE/trait/Kineticist|Kineticist]]'
 - '[[DATABASE/trait/Primal|Primal]]'
-trigger: null
 type: Action
 
 ---

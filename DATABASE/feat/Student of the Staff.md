@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Student of the Staff
-frequency: null
-heighten_level: null
 id: '2859'
 level: '4'
 name: Student of the Staff
 prerequisite: '[[DATABASE/action/Arcane Cascade|Arcane Cascade]] , [[DATABASE/magushybridstudy/Twisting
   Tree|twisting tree hybrid study]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Magus|Magus]]'
-trigger: null
 type: Feat
 
 ---

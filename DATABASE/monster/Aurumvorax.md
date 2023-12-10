@@ -1,10 +1,8 @@
 ﻿---
 ac: '28'
 alignment: N
-all_resistance: null
 burrow_speed: '10'
 charisma: '+0'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Bleeding Critical
@@ -12,27 +10,18 @@ creature_ability:
 - Gnaw Metal
 - Rapid Rake
 - Tenacious Stance
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+19'
-hardness: null
 hp: '170'
 id: '558'
-immunity: null
 intelligence: '-4'
 land_speed: '35'
-language: null
 level: '9'
 max_speed: '35'
 name: Aurumvorax
 perception: '+18'
 rarity: Common
 reflex: '+17'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent (imprecise) 30 feet]]'
@@ -44,19 +33,16 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 35 feet
 - burrow 10 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+16'
 wisdom: '+3'
 

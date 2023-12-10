@@ -1,23 +1,16 @@
 ﻿---
 ac: '28'
 alignment: NG
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Divine Providence
 - Glimpse of Redemption
 - Woodland Stride
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+16'
 hp: '135'
 id: '1541'
-immunity: null
 intelligence: '+1'
 land_speed: '30'
 language:
@@ -30,8 +23,6 @@ name: Jahsi
 perception: '+14'
 rarity: Unique
 reflex: '+17'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
@@ -56,7 +47,6 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Elf|Elf]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -65,7 +55,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+15'
 wisdom: '+2'
 

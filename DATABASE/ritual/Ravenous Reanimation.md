@@ -1,25 +1,16 @@
 ﻿---
-area: null
 cost: "valuable treasures from the target dragon\u2019s hoard worth a total value\
   \ of 50,000 gp"
-duration: null
-element: null
-heighten: null
 heighten_level: '7'
 id: '26'
 level: '7'
 name: Ravenous Reanimation
 primary_check: '[[DATABASE/skill/Arcana|Arcana]] (master), [[DATABASE/skill/Occultism|Occultism]]
   (master), or [[DATABASE/skill/Religion|Religion]] (master)'
-range: null
 rarity: Rare
 requirement: You must be an evil dragon.
-rus_type_level: null
 school: Necromancy
-secondary_casters: null
-secondary_check: null
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
-target: null
 trait:
 - '[[DATABASE/trait/Evil|Evil]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'

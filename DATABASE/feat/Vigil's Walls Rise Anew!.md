@@ -1,24 +1,15 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Vigil's Walls Rise Anew!
-frequency: null
-heighten_level: null
 id: '2169'
 level: '10'
 name: Vigil's Walls Rise Anew!
 prerequisite: '[[DATABASE/feat/Knight Vigilant|Knight Vigilant]]'
 rarity: Rare
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Legends|Legends]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Feat
 
 ---

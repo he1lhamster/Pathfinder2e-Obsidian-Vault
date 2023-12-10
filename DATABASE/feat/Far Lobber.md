@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Far Lobber
-frequency: null
-heighten_level: null
 id: '94'
+leads_to: '[[DATABASE/feat/Uncanny Bombs|Uncanny Bombs]]'
 level: '1'
 name: Far Lobber
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Alchemist|Alchemist]]'
-trigger: null
 type: Feat
 
 ---

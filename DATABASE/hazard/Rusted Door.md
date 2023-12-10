@@ -1,8 +1,6 @@
 ﻿---
 ac: '15'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+11'
 hardness: '8'
 hazard_type: Trap
@@ -16,17 +14,12 @@ level: '2'
 name: Rusted Door
 rarity: Uncommon
 reflex: '+5'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rusthenge|Rusthenge]]'
 trait:
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Rusted Door<span class="item-type">Hazard 2</span>

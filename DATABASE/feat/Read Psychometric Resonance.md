@@ -1,17 +1,10 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Read Psychometric Resonance
-frequency: null
-heighten_level: null
 id: '3776'
 level: '1'
 name: Read Psychometric Resonance
 prerequisite: Trained in [[DATABASE/skill/Occultism|Occultism]]
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Divination
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: occultism
@@ -25,7 +18,6 @@ trait:
 - '[[DATABASE/trait/Occult|Occult]]'
 - '[[DATABASE/trait/Skill|Skill]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

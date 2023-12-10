@@ -1,25 +1,19 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Investigator Dedication
-frequency: null
-heighten_level: null
 id: '1844'
+leads_to: '[[DATABASE/feat/Basic Deduction|Basic Deduction]] , [[DATABASE/feat/Investigator''s
+  Stratagem|Investigator''s Stratagem]] , [[DATABASE/feat/Keen Recollection|Keen Recollection]]
+  , [[DATABASE/feat/Master Spotter (Investigator)|Master Spotter (Investigator)]]
+  , [[DATABASE/feat/Skill Mastery (Investigator)|Skill Mastery (Investigator)]]'
 level: '2'
 name: Investigator Dedication
 prerequisite: Intelligence 14
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Multiclass|Multiclass]]'
-trigger: null
 type: Feat
 
 ---

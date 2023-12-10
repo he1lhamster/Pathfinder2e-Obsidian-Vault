@@ -4,7 +4,6 @@ id: '66'
 level: '9'
 name: Theater
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
 - '[[DATABASE/trait/Building|Building]]'

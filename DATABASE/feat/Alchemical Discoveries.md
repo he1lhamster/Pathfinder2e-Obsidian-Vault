@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Alchemical Discoveries
-frequency: null
-heighten_level: null
 id: '1456'
 level: '4'
 name: Alchemical Discoveries
 prerequisite: '[[DATABASE/investigatormethodology/Alchemical Sciences|alchemical sciences
   methodology]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Investigator|Investigator]]'
-trigger: null
 type: Feat
 
 ---

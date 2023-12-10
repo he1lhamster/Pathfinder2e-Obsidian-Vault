@@ -2,9 +2,7 @@
 ac: '28'
 alignment: LE
 all_resistance: '10'
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Absorb Wraith
@@ -16,10 +14,8 @@ creature_ability:
 - Wraith Spawn
 creature_family: '[[DATABASE/monsterfamily/Wraith|Wraith]]'
 dexterity: '+6'
-element: null
 fly_speed: '60'
 fortitude: '+16'
-hardness: null
 hp: 130 ( negative healing )
 id: '865'
 immunity:
@@ -30,7 +26,6 @@ immunity:
 - precision
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '+3'
-land_speed: null
 language:
 - '[[DATABASE/language/Common|Common]]'
 - '[[DATABASE/language/Necril|Necril]]'
@@ -44,8 +39,6 @@ resistance:
 - all 10 (except force
 - '[[DATABASE/equipment/Ghost Touch|ghost touch]]'
 - orpositive; double resistance vs. non-magical)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Lifesense|lifesense 60 feet]]'
@@ -57,12 +50,10 @@ skill:
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - fly 60 feet
-spell: null
 strength: '-5'
 strength_req: '-5'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Incorporeal|Incorporeal]]'
 - '[[DATABASE/trait/Undead|Undead]]'
@@ -71,7 +62,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+21'
 wisdom: '+4'
 

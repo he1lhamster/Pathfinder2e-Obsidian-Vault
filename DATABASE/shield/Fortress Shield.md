@@ -10,7 +10,6 @@ level: '1'
 name: Fortress Shield
 price: 20 gp
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 speed_penalty: -10 ft.
 trait:

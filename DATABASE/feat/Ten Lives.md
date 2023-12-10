@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Ten Lives
-frequency: null
-heighten_level: null
 id: '2329'
 level: '17'
 name: Ten Lives
 prerequisite: '[[DATABASE/feat/Evade Doom|Evade Doom]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Catfolk|Catfolk]]'
-trigger: null
 type: Feat
 
 ---

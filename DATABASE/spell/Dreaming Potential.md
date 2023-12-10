@@ -1,12 +1,8 @@
 ﻿---
-actions: null
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Arshea|Arshea]]'
 - '[[DATABASE/deity/Arshea|Arshea]]'
@@ -14,22 +10,13 @@ deity:
 - '[[DATABASE/deity/Saloc|Saloc]]'
 - '[[DATABASE/deity/Shei|Shei]]'
 - '[[DATABASE/deity/Tlehar|Tlehar]]'
-domain: null
 duration: 8 hours
-element: null
-heighten: null
 heighten_level: '5'
 id: '91'
-lesson: null
 level: '5'
-mystery: null
 name: Dreaming Potential
-patron_theme: null
 range: touch
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Enchantment
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: 1 willing sleeping creature
@@ -38,7 +25,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Enchantment|Enchantment]]'
 - '[[DATABASE/trait/Mental|Mental]]'
-trigger: null
 type: Spell
 
 ---

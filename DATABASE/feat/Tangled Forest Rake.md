@@ -1,23 +1,15 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Tangled Forest Rake
-frequency: null
-heighten_level: null
 id: '475'
 level: '14'
 name: Tangled Forest Rake
 prerequisite: '[[DATABASE/feat/Tangled Forest Stance|Tangled Forest Stance]]'
 rarity: Common
 requirement: You are in Tangled Forest Stance.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Monk|Monk]]'
-trigger: null
 type: Feat
 
 ---

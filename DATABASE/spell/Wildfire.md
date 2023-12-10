@@ -1,38 +1,7 @@
 ﻿---
-actions: '[two-actions]'
-area: 10-foot burst
-bloodline: null
-component: null
-cost: null
-deity: null
-domain: null
-duration: sustained up to 1 minute
-element: Fire
-heighten: '+2'
-heighten_level: 1, 3, 5, 7, 9
-id: '1308'
-lesson: null
-level: '1'
-mystery: null
+id: '1059'
 name: Wildfire
-patron_theme: null
-range: 30 feet
-rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: Reflex
-school: null
-source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-target: null
-tradition: null
-trait:
-- '[[DATABASE/trait/Concentrate|Concentrate]]'
-- '[[DATABASE/trait/Fire|Fire]]'
-- '[[DATABASE/trait/Focus|Focus]]'
-- '[[DATABASE/trait/Manipulate|Manipulate]]'
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
-type: Focus
+source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 
 ---
 # Wildfire<span class="item-type">Focus 1</span>

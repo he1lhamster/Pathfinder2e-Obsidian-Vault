@@ -1,10 +1,7 @@
 ﻿---
 ac: '32'
 alignment: NG
-all_resistance: null
-burrow_speed: null
 charisma: '+7'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Calm Weather Aura
@@ -12,15 +9,12 @@ creature_ability:
 - Flap Wings
 - Heaven's View
 - Windslice
-creature_family: null
 dexterity: '+6'
 element: Air
 fly_speed: '70'
 fortitude: '+23'
-hardness: null
 hp: '200'
 id: '1406'
-immunity: null
 intelligence: '+3'
 land_speed: '10'
 language:
@@ -34,9 +28,6 @@ rarity: Rare
 reflex: '+24'
 resistance:
 - cold 10
-rus_type_level: null
-school: null
-sense: null
 size: Gargantuan
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +23'
@@ -54,14 +45,12 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Cold|Cold]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
 - Will

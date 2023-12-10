@@ -1,21 +1,15 @@
 ﻿---
 ac: '14'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Medical Wisdom
 creature_family: '[[DATABASE/monsterfamily/Healers|Healers]]'
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+8'
 hp: '9'
 id: '908'
-immunity: null
 intelligence: '+3'
 land_speed: '25'
 language:
@@ -28,8 +22,6 @@ rarity: Common
 reflex: '+3'
 resistance:
 - poison 2
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Crafting|Crafting]] +5'
@@ -38,20 +30,16 @@ skill:
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 speed:
 - 25 feet
-spell: null
 strength: '+0'
 strength_req: '0'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+5'
 wisdom: '+3'
 

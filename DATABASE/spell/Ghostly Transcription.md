@@ -1,37 +1,23 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
-cost: null
-deity: null
 domain:
 - '[[DATABASE/domain/Glyph Domain|Glyph]]'
 duration: 1 minute
-element: null
-heighten: null
 heighten_level: '4'
 id: '607'
-lesson: null
 level: '4'
-mystery: null
 name: Ghostly Transcription
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Illusion
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
 target: 1 creature
-tradition: null
 trait:
 - '[[DATABASE/trait/Illusion|Illusion]]'
 - '[[DATABASE/trait/Visual|Visual]]'
-trigger: null
 type: Focus
 
 ---

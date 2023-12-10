@@ -24,11 +24,9 @@ follower_alignment:
 id: '20'
 name: Zon-Kuthon
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Intimidation|Intimidation]]'
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Deity
 
 ---

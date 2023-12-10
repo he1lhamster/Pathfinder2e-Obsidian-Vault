@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Tengu Weapon Expertise
-frequency: null
-heighten_level: null
 id: '1321'
 level: '13'
 name: Tengu Weapon Expertise
 prerequisite: '[[DATABASE/feat/Tengu Weapon Familiarity|Tengu Weapon Familiarity]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Tengu|Tengu]]'
-trigger: null
 type: Feat
 
 ---

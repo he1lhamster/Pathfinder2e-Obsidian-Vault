@@ -1,24 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Fiendsbane Oath
-frequency: null
-heighten_level: null
 id: '220'
+leads_to: '[[DATABASE/feat/Anchoring Aura|Anchoring Aura]] , [[DATABASE/feat/Banishing
+  Blow|Banishing Blow]]'
 level: '2'
 name: Fiendsbane Oath
 prerequisite: '[[DATABASE/championtenet/Good|tenets of good]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Champion|Champion]]'
 - '[[DATABASE/trait/Oath|Oath]]'
-trigger: null
 type: Feat
 
 ---

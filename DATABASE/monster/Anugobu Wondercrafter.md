@@ -1,23 +1,16 @@
 ﻿---
 ac: '23'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Planar Workshop
 - Stone Step
 creature_family: '[[DATABASE/monsterfamily/Anugobu|Anugobu]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+13'
-hardness: null
 hp: '90'
 id: '1393'
-immunity: null
 intelligence: '+6'
 land_speed: '20'
 language:
@@ -31,9 +24,6 @@ name: Anugobu Wondercrafter
 perception: '+18'
 rarity: Uncommon
 reflex: '+19'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Tiny
@@ -63,7 +53,6 @@ strength: '-1'
 strength_req: '-1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Anugobu|Anugobu]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -72,7 +61,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+14'
 wisdom: '+1'
 

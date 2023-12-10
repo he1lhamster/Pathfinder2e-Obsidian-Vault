@@ -1,25 +1,18 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Soul Warden Dedication
-frequency: null
-heighten_level: null
 id: '3466'
+leads_to: '[[DATABASE/feat/Cycle Spell|Cycle Spell]] , [[DATABASE/feat/Liberate Soul|Liberate
+  Soul]] , [[DATABASE/feat/Psychopomp Familiar|Psychopomp Familiar]] , [[DATABASE/feat/Safeguard
+  Soul|Safeguard Soul]] , [[DATABASE/feat/Spiral Sworn|Spiral Sworn]]'
 level: '2'
 name: Soul Warden Dedication
 prerequisite: Trained in [[DATABASE/skill/Occultism|Occultism]] or Trained in [[DATABASE/skill/Religion|Religion]]
   ; worships [[DATABASE/deity/Pharasma|Pharasma]] or a psychopomp usher
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,8 +1,6 @@
 ﻿---
 ac: '20'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
 climb_speed: '20'
 constitution: '+3'
@@ -12,10 +10,7 @@ creature_ability:
 - Undulating Step
 creature_family: '[[DATABASE/monsterfamily/Shanrigol|Shanrigol]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+14'
-hardness: null
 hp: 55 ( negative healing )
 id: '1050'
 immunity:
@@ -26,7 +21,6 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-4'
 land_speed: '20'
-language: null
 level: '4'
 max_speed: '20'
 name: Shanrigol Heap
@@ -36,8 +30,6 @@ reflex: '+11'
 resistance:
 - slashing 5
 - piercing 5
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) 30 feet'
@@ -51,7 +43,6 @@ speed:
 - 20 feet
 - climb 20 feet
 - swim 20 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:

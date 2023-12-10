@@ -1,10 +1,8 @@
 ﻿---
 ac: '21'
 alignment: LE
-all_resistance: null
 burrow_speed: '15'
 charisma: '+0'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Bog Rot
@@ -12,10 +10,7 @@ creature_ability:
 - Rise Up
 creature_family: '[[DATABASE/monsterfamily/Mummy|Mummy]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+13'
-hardness: null
 hp: 85 ( negative healing<br>                )
 id: '735'
 immunity:
@@ -37,8 +32,6 @@ rarity: Common
 reflex: '+9'
 resistance:
 - fire 5
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Tremorsense|tremorsense (imprecise) 30 feet]]'
@@ -49,12 +42,10 @@ skill:
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 20 feet; burrow 15 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Mummy|Mummy]]'
 - '[[DATABASE/trait/Undead|Undead]]'

@@ -1,23 +1,14 @@
 ﻿---
 actions: '[three-actions]'
-cost: null
-element: null
 feat: Eidetic Memorization
-frequency: null
-heighten_level: null
 id: '2230'
 level: '10'
 name: Eidetic Memorization
 prerequisite: '[[DATABASE/feat/Pathfinder Agent Dedication|Pathfinder Agent Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

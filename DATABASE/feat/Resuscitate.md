@@ -1,10 +1,6 @@
 ﻿---
 actions: '[three-actions]'
-cost: null
-element: null
 feat: Resuscitate
-frequency: null
-heighten_level: null
 id: '2031'
 level: '16'
 name: Resuscitate
@@ -13,15 +9,11 @@ prerequisite: '[[DATABASE/feat/Medic Dedication|Medic Dedication]] ; Legendary i
 rarity: Common
 requirement: You are holding [[DATABASE/equipment/Healer's Tools|healer's tools]]
   or are wearing them andhave a hand free. Also, the target's body is mostly intact.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Healing|Healing]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
-trigger: null
 type: Feat
 
 ---

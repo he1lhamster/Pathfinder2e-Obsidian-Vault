@@ -1,23 +1,13 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Tail Snatch
-frequency: null
-heighten_level: null
 id: '4010'
 level: '5'
 name: Tail Snatch
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Vanara|Vanara]]'
-trigger: null
 type: Feat
 
 ---

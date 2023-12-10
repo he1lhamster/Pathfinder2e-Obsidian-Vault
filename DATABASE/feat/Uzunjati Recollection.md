@@ -1,25 +1,17 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Uzunjati Recollection
-frequency: null
-heighten_level: null
 id: '1114'
+leads_to: '[[DATABASE/feat/Janatimo''s Lessons|Janatimo''s Lessons]]'
 level: '10'
 name: Uzunjati Recollection
 prerequisite: '[[DATABASE/feat/Uzunjati Storytelling|Uzunjati Storytelling]] ; master
   in a [[DATABASE/action/Recall Knowledge|Recall Knowledge]] skill'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

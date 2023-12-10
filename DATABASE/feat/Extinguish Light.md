@@ -1,26 +1,18 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Extinguish Light
 frequency: once every 10 minutes
-heighten_level: null
 id: '2507'
 level: '5'
 name: Extinguish Light
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Darkness|Darkness]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Fetchling|Fetchling]]'
 - '[[DATABASE/trait/Occult|Occult]]'
-trigger: null
 type: Feat
 
 ---

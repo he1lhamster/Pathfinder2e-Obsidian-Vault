@@ -1,7 +1,6 @@
 ﻿---
 id: '18'
 name: Friendly
-source: null
 
 ---
 # Friendly

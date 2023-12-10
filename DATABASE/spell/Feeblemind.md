@@ -1,11 +1,9 @@
 ﻿---
 actions: '[two-actions]'
-area: null
 bloodline: '[[DATABASE/sorcererbloodline/Aberrant|Aberrant]]'
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Abraxas|Abraxas]]'
 - '[[DATABASE/deity/Arazni|Arazni]]'
@@ -13,21 +11,13 @@ deity:
 - '[[DATABASE/deity/Gyronna|Gyronna]]'
 - '[[DATABASE/deity/Lorthact|Lorthact]]'
 - '[[DATABASE/deity/Valmallos|Valmallos]]'
-domain: null
 duration: varies
-element: null
-heighten: null
 heighten_level: '6'
 id: '112'
-lesson: null
 level: '6'
-mystery: null
 name: Feeblemind
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Will
 school: Enchantment
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -40,7 +30,6 @@ trait:
 - '[[DATABASE/trait/Enchantment|Enchantment]]'
 - '[[DATABASE/trait/Incapacitation|Incapacitation]]'
 - '[[DATABASE/trait/Mental|Mental]]'
-trigger: null
 type: Spell
 
 ---

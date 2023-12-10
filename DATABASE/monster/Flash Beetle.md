@@ -1,35 +1,25 @@
 ﻿---
 ac: '16'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Light Flash
 - Luminescent Aura
 creature_family: '[[DATABASE/monsterfamily/Beetle|Beetle]]'
 dexterity: '+3'
-element: null
 fly_speed: '15'
 fortitude: '+5'
-hardness: null
 hp: '6'
 id: '49'
-immunity: null
 intelligence: '-5'
 land_speed: '20'
-language: null
 level: '-1'
 max_speed: '20'
 name: Flash Beetle
 perception: '+6'
 rarity: Common
 reflex: '+8'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 size: Small
@@ -40,19 +30,16 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 20 feet
 - fly 15 feet
-spell: null
 strength: '+1'
 strength_req: '1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+4'
 wisdom: '+1'
 

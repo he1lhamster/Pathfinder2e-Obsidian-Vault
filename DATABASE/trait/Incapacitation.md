@@ -2,7 +2,6 @@
 id: '93'
 name: Incapacitation
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - Incapacitation

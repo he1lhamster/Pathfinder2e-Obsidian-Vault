@@ -1,7 +1,6 @@
 ﻿---
 id: '33'
 name: Restrained
-source: null
 
 ---
 # Restrained

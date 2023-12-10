@@ -2,9 +2,7 @@
 ac: '36'
 alignment: LE
 all_resistance: '15'
-burrow_speed: null
 charisma: '+9'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Corrupting Gaze
@@ -14,12 +12,9 @@ creature_ability:
 - Site Bound
 - Telekinetic
 - Assault
-creature_family: null
 dexterity: '+6'
-element: null
 fly_speed: '25'
 fortitude: '+27'
-hardness: null
 hp: 220 ( negative healing , rejuvenation)
 id: '2326'
 immunity:
@@ -30,7 +25,6 @@ immunity:
 - precision
 - unconscious
 intelligence: '+6'
-land_speed: null
 language:
 - '[[DATABASE/language/Common|Common]]'
 - '[[DATABASE/language/Halfling|Halfling]]'
@@ -45,8 +39,6 @@ resistance:
 - '[[DATABASE/equipment/Ghost Touch|ghost touch]]'
 - or [[DATABASE/trait/Positive|positive]] ; double resistance vs. non- [[DATABASE/trait/Magical|magical]]
   )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -77,7 +69,6 @@ strength: '-5'
 strength_req: '-5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Ghost|Ghost]]'
 - '[[DATABASE/trait/Incorporeal|Incorporeal]]'
@@ -88,7 +79,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+26'
 wisdom: '+2'
 

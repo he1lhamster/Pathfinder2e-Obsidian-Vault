@@ -2,7 +2,6 @@
 id: '275'
 name: Erratic
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
 - Erratic

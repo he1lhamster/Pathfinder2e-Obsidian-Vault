@@ -1,24 +1,15 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Ravenous Charge
-frequency: null
-heighten_level: null
 id: '3560'
 level: '4'
 name: Ravenous Charge
 prerequisite: '[[DATABASE/feat/Zombie Dedication|Zombie Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Open|Open]]'
-trigger: null
 type: Feat
 
 ---

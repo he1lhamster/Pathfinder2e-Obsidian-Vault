@@ -1,20 +1,12 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Orc Superstition
-frequency: null
-heighten_level: null
 id: '85'
+leads_to: '[[DATABASE/feat/Pervasive Superstition|Pervasive Superstition]]'
 level: '1'
 name: Orc Superstition
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Orc|Orc]]'

@@ -1,26 +1,17 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Pact of Fey Glamour
-frequency: null
-heighten_level: null
 id: '3824'
 level: '4'
 name: Pact of Fey Glamour
 prerequisite: '[[DATABASE/feat/Pactbinder Dedication|Pactbinder Dedication]]'
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Illusion
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Illusion|Illusion]]'
 - '[[DATABASE/trait/Primal|Primal]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

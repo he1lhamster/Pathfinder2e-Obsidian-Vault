@@ -2,7 +2,6 @@
 id: '248'
 name: Range
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait:
 - Range

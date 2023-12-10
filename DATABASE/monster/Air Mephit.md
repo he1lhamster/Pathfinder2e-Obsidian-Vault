@@ -1,10 +1,7 @@
 ﻿---
 ac: '16'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Breath Weapon
@@ -13,7 +10,6 @@ dexterity: '+4'
 element: Air
 fly_speed: '40'
 fortitude: '+3'
-hardness: null
 hp: 12 ( fast healing 2 (in open air))
 id: '192'
 immunity:
@@ -31,9 +27,6 @@ name: Air Mephit
 perception: '+3'
 rarity: Common
 reflex: '+19'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Small
@@ -51,7 +44,6 @@ strength: '+1'
 strength_req: '1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Elemental|Elemental]]'
@@ -59,7 +51,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+7'
 wisdom: '+0'
 

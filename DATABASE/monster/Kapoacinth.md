@@ -1,24 +1,17 @@
 ﻿---
 ac: '20'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Attack of Opportunity
 - Coral Reef
 - Wing Buffet
-creature_family: null
 dexterity: '+1'
 element: Earth
-fly_speed: null
 fortitude: '+13'
-hardness: null
 hp: '40'
 id: '2060'
-immunity: null
 intelligence: '-2'
 land_speed: '25'
 language:
@@ -33,8 +26,6 @@ rarity: Common
 reflex: '+9'
 resistance:
 - physical 5 (except [[DATABASE/equipment/Adamantine Weapon|adamantine]] )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -46,7 +37,6 @@ source: '[[DATABASE/source/Pathfinder 182. Graveclaw|Pathfinder #182: Graveclaw]
 speed:
 - 25 feet
 - swim 40 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
@@ -60,7 +50,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+10'
 wisdom: '+2'
 

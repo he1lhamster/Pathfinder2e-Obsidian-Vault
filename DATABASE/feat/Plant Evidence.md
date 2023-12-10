@@ -1,23 +1,14 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Plant Evidence
-frequency: null
-heighten_level: null
 id: '1781'
 level: '1'
 name: Plant Evidence
 prerequisite: '[[DATABASE/feat/Pickpocket|Pickpocket]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Rogue|Rogue]]'
-trigger: null
 type: Feat
 
 ---

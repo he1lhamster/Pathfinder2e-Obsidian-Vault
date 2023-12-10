@@ -1,39 +1,25 @@
 ﻿---
 actions: '[two-actions]'
 area: 100-foot emanation, which affects you
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: sustained up to 1 minute
 element: Air
-heighten: null
 heighten_level: '9'
 id: '477'
-lesson: null
 level: '9'
-mystery: null
 name: Storm Lord
-patron_theme: null
-range: null
 rarity: Uncommon
 requirement: You are outdoors and aboveground.
-rus_type_level: null
-saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
-tradition: null
 trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Druid|Druid]]'
 - '[[DATABASE/trait/Electricity|Electricity]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Focus
 
 ---

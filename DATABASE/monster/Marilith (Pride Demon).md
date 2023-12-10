@@ -1,10 +1,7 @@
 ﻿---
 ac: '40'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+7'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Attack of Opportunity
@@ -18,13 +15,10 @@ creature_ability:
 - Infuse Weapons
 creature_family: '[[DATABASE/monsterfamily/Demon|Demon]]'
 dexterity: '+6'
-element: null
 fly_speed: '40'
 fortitude: '+31'
-hardness: null
 hp: '380'
 id: '103'
-immunity: null
 intelligence: '+4'
 land_speed: '40'
 language:
@@ -37,9 +31,6 @@ name: Marilith
 perception: '+30'
 rarity: Common
 reflex: '+29'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - '[[DATABASE/spell/True Seeing|true seeing]]'
@@ -66,7 +57,6 @@ strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Demon|Demon]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

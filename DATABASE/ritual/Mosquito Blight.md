@@ -2,23 +2,15 @@
 area: 1-mile-radius circle centered on you
 cost: amber and rare incense worth 750 gp
 duration: 5 days
-element: null
-heighten: null
 heighten_level: '5'
 id: '73'
 level: '5'
 name: Mosquito Blight
 primary_check: '[[DATABASE/skill/Nature|Nature]] (expert; you must be the [[DATABASE/monster/Mosquito
   Witch|Mosquito Witch]] )'
-range: null
 rarity: Rare
-requirement: null
-rus_type_level: null
 school: Conjuration
-secondary_casters: null
-secondary_check: null
 source: '[[DATABASE/source/Monsters of Myth|Monsters of Myth]]'
-target: null
 trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Disease|Disease]]'

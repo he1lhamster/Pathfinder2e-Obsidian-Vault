@@ -1,7 +1,5 @@
 ﻿---
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+1'
 dexterity: '+2'
 element: Air
@@ -9,11 +7,9 @@ fly_speed: '50'
 hp: '4'
 id: '60'
 intelligence: '-4'
-land_speed: null
 max_speed: '50'
 name: Air Elemental
 rarity: Uncommon
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -24,7 +20,6 @@ speed:
 - fly 50 feet
 strength: '+1'
 strength_req: '1'
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

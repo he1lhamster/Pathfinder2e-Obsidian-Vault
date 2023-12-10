@@ -1,13 +1,9 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
-frequency: null
 id: '1233'
 name: Fling Magic
 rarity: Common
 requirement: You are holding your wand implement.
-rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 trait:
@@ -16,7 +12,6 @@ trait:
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Thaumaturge|Thaumaturge]]'
-trigger: null
 type: Action
 
 ---

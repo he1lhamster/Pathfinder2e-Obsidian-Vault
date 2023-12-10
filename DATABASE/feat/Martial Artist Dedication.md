@@ -1,24 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Martial Artist Dedication
-frequency: null
-heighten_level: null
 id: '2018'
+leads_to: '[[DATABASE/feat/Follow-Up Strike|Follow-Up Strike]] , [[DATABASE/feat/Grievous
+  Blow|Grievous Blow]] , [[DATABASE/feat/Path of Iron|Path of Iron]] , [[DATABASE/feat/Powder
+  Punch Stance|Powder Punch Stance]]'
 level: '2'
 name: Martial Artist Dedication
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
-trigger: null
 type: Feat
 
 ---

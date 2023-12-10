@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Stone Form
-frequency: null
-heighten_level: null
 id: '2578'
 level: '17'
 name: Stone Form
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Oread|Oread]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,21 +1,15 @@
 ﻿---
 ac: '33'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Bloodshift
 - Sanguine Shroud
 - Spellstrike
-creature_family: null
 dexterity: '+8'
-element: null
 fly_speed: '30'
 fortitude: '+20'
-hardness: null
 hp: 210 ( negative healing )
 id: '2152'
 immunity:
@@ -25,7 +19,6 @@ immunity:
 - '[[DATABASE/trait/Poison|poison]]'
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '+5'
-land_speed: null
 language:
 - '[[DATABASE/language/Abyssal|Abyssal]]'
 - '[[DATABASE/language/Celestial|Celestial]]'
@@ -44,8 +37,6 @@ resistance:
 - '[[DATABASE/trait/Fire|fire]] 10'
 - piercing 10
 - slashing 10
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Lifesense|lifesense]] 60 feet'
@@ -71,7 +62,6 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 - '[[DATABASE/trait/Undead|Undead]]'
@@ -79,7 +69,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+23'
 wisdom: '+5'
 

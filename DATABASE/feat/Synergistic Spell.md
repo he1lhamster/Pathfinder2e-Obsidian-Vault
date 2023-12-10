@@ -1,10 +1,6 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Synergistic Spell
-frequency: null
-heighten_level: null
 id: '1125'
 level: '20'
 name: Synergistic Spell
@@ -12,15 +8,10 @@ prerequisite: '[[DATABASE/feat/Halcyon Spellcasting Initiate|Halcyon Spellcastin
   Initiate]] ; [[DATABASE/feat/Fulminating Synergy|Fulminating Synergy]] ; Legendary
   in [[DATABASE/skill/Arcana|Arcana]] ; Legendary in [[DATABASE/skill/Nature|Nature]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Metamagic|Metamagic]]'
-trigger: null
 type: Feat
 
 ---

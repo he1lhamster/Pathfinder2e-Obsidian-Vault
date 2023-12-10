@@ -1,22 +1,14 @@
 ﻿---
 ac: '16'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Wild Shape
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+4'
-hardness: null
 hp: '15'
 id: '2451'
-immunity: null
 intelligence: '-2'
 land_speed: '25'
 language:
@@ -28,10 +20,6 @@ name: Oaksteward Enforcer
 perception: '+6'
 rarity: Rare
 reflex: '+6'
-resistance: null
-rus_type_level: null
-school: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Intimidation|Intimidation]] +5'
@@ -51,16 +39,13 @@ strength: '+2'
 strength_req: '2'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+8'
 wisdom: '+4'
 

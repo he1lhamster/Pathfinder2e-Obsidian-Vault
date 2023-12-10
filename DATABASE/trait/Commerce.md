@@ -2,7 +2,6 @@
 id: '437'
 name: Commerce
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
 - Commerce

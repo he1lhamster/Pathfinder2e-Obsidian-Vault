@@ -1,27 +1,15 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Verbal
 - Somatic
-cost: null
-deity: null
-domain: null
 duration: varies
-element: null
-heighten: null
 heighten_level: '7'
 id: '1239'
-lesson: null
 level: '7'
-mystery: null
 name: Curse of the Spirit Orchestra
-patron_theme: null
 range: 30 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 saving_throw: Will
 school: Conjuration
 source: '[[DATABASE/source/Pathfinder 185. A Taste of Ashes|Pathfinder #185: A Taste
@@ -34,7 +22,6 @@ trait:
 - '[[DATABASE/trait/Curse|Curse]]'
 - '[[DATABASE/trait/Misfortune|Misfortune]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Spell
 
 ---

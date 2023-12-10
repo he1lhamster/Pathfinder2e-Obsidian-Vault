@@ -1,21 +1,13 @@
 ﻿---
 ac: '17'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+4'
-creature_ability: null
 creature_family: '[[DATABASE/monsterfamily/Ogre|Ogre]]'
 dexterity: '-1'
-element: null
-fly_speed: null
 fortitude: '+11'
-hardness: null
 hp: '50'
 id: '317'
-immunity: null
 intelligence: '-2'
 land_speed: '25'
 language:
@@ -26,9 +18,6 @@ name: Ogre Warrior
 perception: '+5'
 rarity: Common
 reflex: '+6'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Large
@@ -38,12 +27,10 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 25 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Giant|Giant]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -51,7 +38,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+5'
 wisdom: '+0'
 

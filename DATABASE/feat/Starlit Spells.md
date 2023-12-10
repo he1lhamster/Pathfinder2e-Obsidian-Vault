@@ -1,26 +1,17 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Starlit Spells
-frequency: null
-heighten_level: null
 id: '4070'
 level: '10'
 name: Starlit Spells
 prerequisite: '[[DATABASE/feat/Oatia Skysage Dedication|Oatia Skysage Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Pathfinder 187. The Seventh Arch|Pathfinder #187: The Seventh
   Arch]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Occult|Occult]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Summon Wood Elemental
-frequency: null
-heighten_level: null
 id: '4321'
 level: '13'
 name: Summon Wood Elemental
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Ardande|Ardande]]'
-trigger: null
 type: Feat
 
 ---

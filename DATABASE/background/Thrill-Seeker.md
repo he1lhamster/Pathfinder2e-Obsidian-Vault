@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Combat Climber|Combat Climber]]'
 id: '360'
 name: Thrill-Seeker
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]]'
 - Engineering [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Firebrands|Firebrands]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

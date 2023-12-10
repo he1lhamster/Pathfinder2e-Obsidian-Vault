@@ -1,8 +1,6 @@
 ﻿---
 ac: '18'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
 climb_speed: '20'
 constitution: '+2'
@@ -12,25 +10,17 @@ creature_ability:
 - Sneak Attack
 creature_family: '[[DATABASE/monsterfamily/Cat|Cat]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+8'
-hardness: null
 hp: '30'
 id: '67'
-immunity: null
 intelligence: '-4'
 land_speed: '30'
-language: null
 level: '2'
 max_speed: '30'
 name: Leopard
 perception: '+7'
 rarity: Common
 reflex: '+10'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 - scent (imprecise) 30 feet
@@ -43,19 +33,16 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 30 feet
 - climb 20 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+5'
 wisdom: '+1'
 

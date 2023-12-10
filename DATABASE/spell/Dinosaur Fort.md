@@ -1,39 +1,23 @@
 ﻿---
-actions: null
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 24 hours (see text)
-element: null
-heighten: null
 heighten_level: '10'
 id: '1099'
-lesson: null
 level: '10'
-mystery: null
 name: Dinosaur Fort
-patron_theme: null
 range: 500 feet
 rarity: Rare
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Pathfinder 177. Burning Tundra|Pathfinder #177: Burning
   Tundra]]'
-target: null
 tradition:
 - Primal
 trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Spell
 
 ---

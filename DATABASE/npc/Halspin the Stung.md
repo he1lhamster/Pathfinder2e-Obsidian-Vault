@@ -1,21 +1,15 @@
 ﻿---
 ac: '35'
 alignment: NG
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
 climb_speed: '10'
 constitution: '+3'
 creature_ability:
 - Cat's Luck
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+26'
 hp: '250'
 id: '1504'
-immunity: null
 intelligence: '+2'
 land_speed: '25'
 language:
@@ -28,8 +22,6 @@ name: Halspin the Stung
 perception: '+24'
 rarity: Unique
 reflex: '+28'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
@@ -81,7 +73,6 @@ strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Catfolk|Catfolk]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -91,7 +82,6 @@ vision: Low-light vision
 weakest_save:
 - Fortitude
 - Will
-weakness: null
 will: '+26'
 wisdom: '+1'
 

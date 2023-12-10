@@ -1,10 +1,6 @@
 ﻿---
 ac: '15'
-alignment: null
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - A Thousand Cuts
@@ -14,7 +10,6 @@ dexterity: '+4'
 element: Metal
 fly_speed: '40'
 fortitude: '+6'
-hardness: null
 hp: '20'
 id: '2643'
 immunity:
@@ -24,7 +19,6 @@ immunity:
 - '[[DATABASE/trait/Sleep|sleep]]'
 intelligence: '-4'
 land_speed: '5'
-language: null
 level: '1'
 max_speed: '40'
 name: Ferrous Butterfly
@@ -33,8 +27,6 @@ rarity: Common
 reflex: '+9'
 resistance:
 - '[[DATABASE/trait/Electricity|electricity]] 3'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Tiny
@@ -44,12 +36,10 @@ source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 speed:
 - 5 feet
 - fly 40 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Elemental|Elemental]]'
 - '[[DATABASE/trait/Metal|Metal]]'
@@ -57,7 +47,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+5'
 wisdom: '+0'
 

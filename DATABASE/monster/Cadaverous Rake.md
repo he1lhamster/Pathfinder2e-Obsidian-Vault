@@ -1,22 +1,15 @@
 ﻿---
 ac: '27'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Parry Dance
 - Repartee Riposte
 - Shadow Rapier
 - The Upper Hand
-creature_family: null
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+16'
-hardness: null
 hp: 125 ( negative healing )
 id: '1844'
 immunity:
@@ -36,9 +29,6 @@ name: Cadaverous Rake
 perception: '+16'
 rarity: Uncommon
 reflex: '+20'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - (18 to initiative) [[DATABASE/monsterability/Darkvision|darkvision]]
 size: Medium
@@ -51,12 +41,10 @@ skill:
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 speed:
 - 30 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 - '[[DATABASE/trait/Undead|Undead]]'
@@ -64,7 +52,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+12'
 wisdom: '+2'
 

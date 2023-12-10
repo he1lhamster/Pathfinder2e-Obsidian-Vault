@@ -1,8 +1,6 @@
 ﻿---
 ac: '19'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
 climb_speed: '10'
 constitution: '+1'
@@ -11,27 +9,18 @@ creature_ability:
 - Metal Scent
 - Rust
 - Tail Trip
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+8'
-hardness: null
 hp: '40'
 id: '354'
-immunity: null
 intelligence: '-4'
 land_speed: '35'
-language: null
 level: '3'
 max_speed: '35'
 name: Rust Monster
 perception: '+8'
 rarity: Common
 reflex: '+10'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - metal scent 30 feet
@@ -42,19 +31,16 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 35 feet
 - climb 10 feet
-spell: null
 strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+6'
 wisdom: '+1'
 

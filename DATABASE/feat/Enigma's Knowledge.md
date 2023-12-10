@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Enigma's Knowledge
-frequency: null
-heighten_level: null
 id: '1652'
 level: '12'
 name: Enigma's Knowledge
 prerequisite: '[[DATABASE/feat/Assured Knowledge|Assured Knowledge]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Bard|Bard]]'
-trigger: null
 type: Feat
 
 ---

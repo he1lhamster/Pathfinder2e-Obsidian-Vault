@@ -1,24 +1,15 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Educated Assessment
-frequency: null
-heighten_level: null
 id: '1129'
 level: '12'
 name: Educated Assessment
 prerequisite: '[[DATABASE/feat/Pathfinder Agent Dedication|Pathfinder Agent Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Secret|Secret]]'
-trigger: null
 type: Feat
 
 ---

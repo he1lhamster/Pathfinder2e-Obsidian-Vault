@@ -1,8 +1,6 @@
 ﻿---
 ac: '26'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
 climb_speed: '25'
 constitution: '+4'
@@ -11,10 +9,7 @@ creature_ability:
 - Drain Thoughts
 creature_family: '[[DATABASE/monsterfamily/Vampire, Vetalarana|Vampire, Vetalarana]]'
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+14'
-hardness: null
 hp: 100 ( fast healing 10 , mental rebirth, negative healing )
 id: '1911'
 immunity:
@@ -37,8 +32,6 @@ reflex: '+17'
 resistance:
 - '[[DATABASE/trait/Mental|mental]] 10'
 - physical 10 (except [[DATABASE/equipment/Cold Iron Weapon|cold iron]] )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - thoughtsense (precise) 100 feet
@@ -53,12 +46,10 @@ source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 speed:
 - 25 feet
 - climb 25 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Undead|Undead]]'
 - '[[DATABASE/trait/Vampire|Vampire]]'

@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Blaze of Revelation
-frequency: null
-heighten_level: null
 id: '1507'
 level: '18'
 name: Blaze of Revelation
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Oracle|Oracle]]'
-trigger: null
 type: Feat
 
 ---

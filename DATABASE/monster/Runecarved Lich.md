@@ -1,10 +1,7 @@
 ﻿---
 ac: '42'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+10'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Arm Wands
@@ -20,10 +17,7 @@ creature_ability:
 - Summon Weapon
 creature_family: '[[DATABASE/monsterfamily/Lich|Lich]]'
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+27'
-hardness: null
 hp: 330 ( negative healing , rejuvenation)
 id: '1877'
 immunity:
@@ -49,9 +43,6 @@ name: Runecarved Lich
 perception: '+32'
 rarity: Rare
 reflex: '+33'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -104,7 +95,6 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Undead|Undead]]'
@@ -112,7 +102,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+36'
 wisdom: '+7'
 

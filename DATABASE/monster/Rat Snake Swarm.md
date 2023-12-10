@@ -1,8 +1,6 @@
 ﻿---
 ac: '16'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-3'
 climb_speed: '20'
 constitution: '+2'
@@ -11,10 +9,7 @@ creature_ability:
 - Swarming Strikes
 creature_family: '[[DATABASE/monsterfamily/Snake|Snake]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+8'
-hardness: null
 hp: '20'
 id: '1315'
 immunity:
@@ -22,7 +17,6 @@ immunity:
 - '[[DATABASE/trait/Swarm|swarm]] mind'
 intelligence: '-4'
 land_speed: '20'
-language: null
 level: '2'
 max_speed: '20'
 name: Rat Snake Swarm
@@ -33,8 +27,6 @@ resistance:
 - bludgeoning 3
 - piercing 5
 - slashing 5
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -47,7 +39,6 @@ speed:
 - 20 feet
 - climb 20 feet
 - swim 20 feet
-spell: null
 strength: '+0'
 strength_req: '0'
 strongest_save:

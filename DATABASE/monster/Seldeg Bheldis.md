@@ -1,10 +1,7 @@
 ﻿---
 ac: '41'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+9'
 creature_ability:
 - Attack of Opportunity
@@ -18,12 +15,8 @@ creature_ability:
 - Shield Block
 - Unyielding Block
 - Weapon Master
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+32'
-hardness: null
 hp: 390 ( negative healing , rejuvenation))
 id: '2431'
 immunity:
@@ -48,9 +41,6 @@ name: Seldeg Bheldis
 perception: '+26'
 rarity: Unique
 reflex: '+29'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -71,7 +61,6 @@ strength: '+9'
 strength_req: '9'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Undead|Undead]]'
 - '[[DATABASE/trait/Unique|Unique]]'
@@ -79,7 +68,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+26'
 wisdom: '+4'
 

@@ -1,8 +1,6 @@
 ﻿---
 ac: '40'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
 climb_speed: '40'
 constitution: '+5'
@@ -15,10 +13,7 @@ creature_ability:
 - Vulnerable to Slow
 creature_family: '[[DATABASE/monsterfamily/Golem|Golem]]'
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+27'
-hardness: null
 hp: '220'
 id: '1175'
 immunity:
@@ -38,7 +33,6 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '50'
-language: null
 level: '16'
 max_speed: '50'
 name: Mithral Golem
@@ -47,8 +41,6 @@ rarity: Rare
 reflex: '+30'
 resistance:
 - physical 15 (except [[DATABASE/equipment/Adamantine Weapon|adamantine]] )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Huge
@@ -59,12 +51,10 @@ source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 50 feet
 - climb 40 feet
-spell: null
 strength: '+9'
 strength_req: '9'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Golem|Golem]]'
@@ -74,7 +64,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+24'
 wisdom: '+0'
 

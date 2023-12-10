@@ -1,23 +1,15 @@
 ﻿---
 ac: '16'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Blinded
 - Itchy
-creature_family: null
 dexterity: '-1'
-element: null
-fly_speed: null
 fortitude: '+11'
-hardness: null
 hp: '28'
 id: '2218'
-immunity: null
 intelligence: '-2'
 land_speed: '25'
 language:
@@ -29,9 +21,6 @@ name: Gromog
 perception: '+1'
 rarity: Unique
 reflex: '+4'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/condition/Blinded|blinded]]'
 size: Large
@@ -41,21 +30,17 @@ skill:
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 speed:
 - 25 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Giant|Giant]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+5'
 wisdom: '+0'
 

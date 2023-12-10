@@ -1,10 +1,7 @@
 ﻿---
 ac: '36'
 alignment: NG
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Divine Armament
@@ -13,13 +10,10 @@ creature_ability:
 - "Traveler\u2019s Aura"
 creature_family: '[[DATABASE/monsterfamily/Angel|Angel]]'
 dexterity: '+4'
-element: null
 fly_speed: '75'
 fortitude: '+27'
-hardness: null
 hp: '285'
 id: '16'
-immunity: null
 intelligence: '+4'
 land_speed: '40'
 language:
@@ -32,9 +26,6 @@ name: Astral Deva
 perception: '+26'
 rarity: Common
 reflex: '+26'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -64,7 +55,6 @@ strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Angel|Angel]]'
 - '[[DATABASE/trait/Celestial|Celestial]]'

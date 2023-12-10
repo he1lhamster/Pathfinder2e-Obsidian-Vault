@@ -1,26 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Cunning Trickster Mask
-frequency: null
-heighten_level: null
 id: '3433'
 level: '20'
 name: Cunning Trickster Mask
 prerequisite: '[[DATABASE/feat/Druid Dedication|Druid Dedication]] or [[DATABASE/feat/Wizard
   Dedication|Wizard Dedication]]'
 rarity: Rare
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 174. Shadows of the Ancients|Pathfinder #174:
   Shadows of the Ancients]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Feat
 
 ---

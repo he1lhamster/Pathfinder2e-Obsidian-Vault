@@ -1,24 +1,16 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Ostentatious Reload
-frequency: null
-heighten_level: null
 id: '4127'
 level: '4'
 name: Ostentatious Reload
 prerequisite: Trained in [[DATABASE/skill/Performance|Performance]]
 rarity: Uncommon
 requirement: You're wielding two one-handed firearms.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Firebrands|Firebrands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Gunslinger|Gunslinger]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

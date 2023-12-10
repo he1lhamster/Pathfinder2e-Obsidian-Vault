@@ -1,31 +1,19 @@
 ﻿---
 actions: '[two-actions]'
 area: 10-foot burst
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 10 minutes
 element: Wood
-heighten: null
 heighten_level: '3'
 id: '999'
-lesson: null
 level: '3'
-mystery: null
 name: Soothing Blossoms
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-target: null
 tradition:
 - Divine
 - Primal
@@ -33,7 +21,6 @@ trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Plant|Plant]]'
 - '[[DATABASE/trait/Wood|Wood]]'
-trigger: null
 type: Spell
 
 ---

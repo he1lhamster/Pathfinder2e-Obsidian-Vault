@@ -6,11 +6,9 @@ ability_boost:
 id: '9'
 name: Medicine
 rarity: Common
-rus_type_level: null
 skill:
 - Medicine
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Skill
 
 ---

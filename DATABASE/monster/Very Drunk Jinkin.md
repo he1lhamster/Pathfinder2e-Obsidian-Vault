@@ -1,22 +1,15 @@
 ﻿---
 ac: '12'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Far Too Drunk
 creature_family: '[[DATABASE/monsterfamily/Gremlin|Gremlin]]'
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+2'
-hardness: null
 hp: '9'
 id: '2733'
-immunity: null
 intelligence: '-2'
 land_speed: '20'
 language:
@@ -27,9 +20,6 @@ name: Very Drunk Jinkin
 perception: '+0'
 rarity: Uncommon
 reflex: '+4'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Tiny
@@ -50,7 +40,6 @@ strength: '-2'
 strength_req: '-2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Gremlin|Gremlin]]'

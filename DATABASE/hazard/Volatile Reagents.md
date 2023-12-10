@@ -1,10 +1,7 @@
 ﻿---
 ac: '18'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+10'
-hardness: null
 hazard_type: Environmental
 hp: 10 (BT 5)
 id: '162'
@@ -16,9 +13,6 @@ level: '2'
 name: Volatile Reagents
 rarity: Common
 reflex: '+8'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 178. Punks in a Powderkeg|Pathfinder #178: Punks
   in a Powderkeg]]'
 trait:
@@ -26,8 +20,6 @@ trait:
 - '[[DATABASE/trait/Complex|Complex]]'
 - '[[DATABASE/trait/Environmental|Environmental]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Volatile Reagents<span class="item-type">Hazard 2</span>

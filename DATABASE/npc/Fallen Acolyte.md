@@ -1,20 +1,12 @@
 ﻿---
 ac: '15'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+2'
-creature_ability: null
-creature_family: null
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+6'
 hp: '15'
 id: '2738'
-immunity: null
 intelligence: '+0'
 land_speed: '20'
 language:
@@ -26,9 +18,6 @@ name: Fallen Acolyte
 perception: '+5'
 rarity: Uncommon
 reflex: '+2'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +2'
@@ -40,22 +29,18 @@ skill:
 source: '[[DATABASE/source/Rusthenge|Rusthenge]]'
 speed:
 - 20 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+6'
 wisdom: '+2'
 

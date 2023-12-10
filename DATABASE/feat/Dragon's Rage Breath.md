@@ -1,27 +1,20 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Dragon's Rage Breath
-frequency: null
-heighten_level: null
 id: '148'
 level: '6'
 name: Dragon's Rage Breath
 prerequisite: '[[DATABASE/barbarianinstinct/Dragon Instinct|dragon instinct]]'
 rarity: Common
 requirement: "You haven\u2019t used this ability since you last Raged."
-rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Arcane|Arcane]]'
 - '[[DATABASE/trait/Barbarian|Barbarian]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Rage|Rage]]'
-trigger: null
 type: Feat
 
 ---

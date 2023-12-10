@@ -1,27 +1,14 @@
 ﻿---
 actions: '[reaction]'
-area: null
 bloodline: '[[DATABASE/sorcererbloodline/Phoenix|Phoenix]]'
 component:
 - Verbal
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
-heighten: null
 heighten_level: '5'
 id: '29'
-lesson: null
 level: '5'
-mystery: null
 name: Breath of Life
-patron_theme: null
 range: 60 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: the triggering creature

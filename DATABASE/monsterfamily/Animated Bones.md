@@ -3,9 +3,7 @@ creature_family: Animated Bones
 id: '317'
 name: Animated Bones
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 181. Zombie Feast|Pathfinder #181: Zombie Feast]]'
-trait: null
 type: Creature Family
 
 ---

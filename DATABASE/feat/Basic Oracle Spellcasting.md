@@ -1,23 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Basic Oracle Spellcasting
-frequency: null
-heighten_level: null
 id: '1853'
+leads_to: '[[DATABASE/feat/Expert Oracle Spellcasting|Expert Oracle Spellcasting]]
+  , [[DATABASE/feat/Mysterious Breadth|Mysterious Breadth]]'
 level: '4'
 name: Basic Oracle Spellcasting
 prerequisite: '[[DATABASE/feat/Oracle Dedication|Oracle Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

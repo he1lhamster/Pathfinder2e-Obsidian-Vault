@@ -2,7 +2,6 @@
 id: '242'
 name: Vampire
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait:
 - Vampire

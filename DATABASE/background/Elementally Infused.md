@@ -5,13 +5,9 @@ ability:
 ability_boost:
 - Constitution
 - Charisma
-feat: null
 id: '384'
 name: Elementally Infused
-prerequisite: null
 rarity: Rare
-rus_type_level: null
-skill: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: general
 trait:

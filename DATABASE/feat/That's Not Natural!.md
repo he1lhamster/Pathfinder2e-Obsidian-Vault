@@ -1,25 +1,17 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: That's Not Natural!
-frequency: null
-heighten_level: null
 id: '3897'
 level: '4'
 name: That's Not Natural!
 prerequisite: Expert in [[DATABASE/skill/Survival|Survival]]
 rarity: Rare
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
 subcategory: survival
 trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

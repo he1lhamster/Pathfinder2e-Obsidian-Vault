@@ -1,10 +1,6 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Collapse Wall
-frequency: null
-heighten_level: null
 id: '3244'
 level: '12'
 name: Collapse Wall
@@ -12,10 +8,7 @@ prerequisite: '[[DATABASE/feat/Demolitionist Dedication|Demolitionist Dedication
 rarity: Common
 requirement: You're within 30 feet of an area where you rigged bombs on a wall, cliff
   face, or similar verticalsurface with Set Explosives or Demolition Charge.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 trigger: A creature moves into the bombs' splash area.

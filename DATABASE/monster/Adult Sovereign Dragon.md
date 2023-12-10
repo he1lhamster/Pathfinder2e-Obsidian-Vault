@@ -1,10 +1,7 @@
 ﻿---
 ac: '37'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+7'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Breath Weapon
@@ -21,7 +18,6 @@ dexterity: '+4'
 element: Earth
 fly_speed: '150'
 fortitude: '+27'
-hardness: null
 hp: '275'
 id: '1132'
 immunity:
@@ -45,8 +41,6 @@ rarity: Uncommon
 reflex: '+23'
 resistance:
 - mental 15
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 60 feet'
@@ -74,7 +68,6 @@ strength: '+8'
 strength_req: '8'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dragon|Dragon]]'
 - '[[DATABASE/trait/Earth|Earth]]'
@@ -83,7 +76,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+29'
 wisdom: '+6'
 

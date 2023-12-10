@@ -1,21 +1,14 @@
 ﻿---
 ac: '26'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Drink Blood
 - Paralysis
 - Spurred by Death
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+16'
-hardness: null
 hp: 135 ( negative healing )
 id: '1829'
 immunity:
@@ -35,9 +28,6 @@ name: Everburning Mammoths
 perception: '+16'
 rarity: Rare
 reflex: '+17'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -49,12 +39,10 @@ source: '[[DATABASE/source/Pathfinder 177. Burning Tundra|Pathfinder #177: Burni
   Tundra]]'
 speed:
 - 30 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Undead|Undead]]'
@@ -63,7 +51,6 @@ vision: Darkvision
 weakest_save:
 - Fortitude
 - Will
-weakness: null
 will: '+16'
 wisdom: '+4'
 

@@ -1,10 +1,7 @@
 ﻿---
 ac: '43'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Attack of Opportunity
@@ -13,12 +10,9 @@ creature_ability:
 - Punishing Momentum
 - Savage
 - Wyvern Venom
-creature_family: null
 dexterity: '+6'
-element: null
 fly_speed: '100'
 fortitude: '+33'
-hardness: null
 hp: '295'
 id: '2266'
 immunity:
@@ -37,8 +31,6 @@ rarity: Unique
 reflex: '+35'
 resistance:
 - poison 20
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -52,12 +44,10 @@ source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 speed:
 - 30 feet
 - fly 100 feet
-spell: null
 strength: '+10'
 strength_req: '10'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dragon|Dragon]]'
 - '[[DATABASE/trait/Unique|Unique]]'
@@ -65,7 +55,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+31'
 wisdom: '+6'
 

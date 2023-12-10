@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Eye for Numbers|Eye for Numbers]]'
 id: '251'
 name: Clockwork Researcher
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Society|Society]]'
 - Engineering [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

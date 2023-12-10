@@ -1,24 +1,17 @@
 ﻿---
 ac: '40'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Crying Bell Stance
 - Falling Sal Stance
 - Flurry of Blows
 - Nine Seals Spellcasting
-creature_family: null
 dexterity: '+9'
-element: null
-fly_speed: null
 fortitude: '+28'
 hp: '300'
 id: '1514'
-immunity: null
 intelligence: '+5'
 land_speed: '40'
 language:
@@ -30,9 +23,6 @@ name: Rai Sho Disciple
 perception: '+30'
 rarity: Rare
 reflex: '+30'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +32'
@@ -52,17 +42,14 @@ strength: '+8'
 strength_req: '8'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
 - Will
-weakness: null
 will: '+28'
 wisdom: '+6'
 

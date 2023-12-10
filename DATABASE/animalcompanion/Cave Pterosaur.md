@@ -1,10 +1,7 @@
 ﻿---
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+1'
 dexterity: '+3'
-element: null
 fly_speed: '60'
 hp: '4'
 id: '14'
@@ -13,7 +10,6 @@ land_speed: '10'
 max_speed: '60'
 name: Cave Pterosaur
 rarity: Uncommon
-rus_type_level: null
 sense:
 - darkvision
 size: Small
@@ -26,7 +22,6 @@ speed:
 - fly 60 feet
 strength: '+2'
 strength_req: '2'
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Animal Companion

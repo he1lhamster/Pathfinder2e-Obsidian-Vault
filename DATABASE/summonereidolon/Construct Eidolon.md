@@ -1,5 +1,4 @@
 ﻿---
-alignment: null
 id: '4'
 land_speed: '25'
 language:
@@ -7,7 +6,6 @@ language:
 max_speed: '25'
 name: Construct Eidolon
 rarity: Common
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium

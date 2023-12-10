@@ -1,28 +1,17 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Haagenti|Haagenti]]'
-domain: null
 duration: varies
-element: null
-heighten: null
 heighten_level: '4'
 id: '670'
-lesson: null
 level: '4'
-mystery: null
 name: Bestial Curse
-patron_theme: null
 range: touch
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Fortitude
 school: Transmutation
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
@@ -35,7 +24,6 @@ trait:
 - '[[DATABASE/trait/Curse|Curse]]'
 - '[[DATABASE/trait/Polymorph|Polymorph]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Spell
 
 ---

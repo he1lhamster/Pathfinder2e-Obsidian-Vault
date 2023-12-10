@@ -1,26 +1,19 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Storm Shroud
 frequency: once per hour
-heighten_level: null
 id: '3526'
 level: '8'
 name: Storm Shroud
 prerequisite: '[[DATABASE/feat/Mummy Dedication|Mummy Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Conjuration
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Divine|Divine]]'
-trigger: null
 type: Feat
 
 ---

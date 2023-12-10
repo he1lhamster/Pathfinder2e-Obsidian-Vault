@@ -1,32 +1,18 @@
 ﻿---
 actions: '[reaction]'
-area: null
-bloodline: null
 component:
 - Somatic
-cost: null
-deity: null
 domain:
 - '[[DATABASE/domain/Change Domain|Change]]'
 duration: 1 minute
-element: null
 heighten: '+2'
 heighten_level: 4, 6, 8, 10
 id: '595'
-lesson: null
 level: '4'
-mystery: null
 name: Adaptive Ablation
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
-target: null
-tradition: null
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 trigger: You take acid, cold, electricity, fire, or sonic damage.

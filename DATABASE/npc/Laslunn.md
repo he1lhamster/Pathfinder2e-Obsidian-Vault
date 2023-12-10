@@ -1,10 +1,7 @@
 ﻿---
 ac: '35'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Archery Expertise
@@ -14,14 +11,10 @@ creature_ability:
 - Rugged Travel
 - Superior Pack
 - Twin Shot
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+23'
 hp: '235'
 id: '1560'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -36,7 +29,6 @@ rarity: Unique
 reflex: '+25'
 resistance:
 - '[[DATABASE/trait/Fire|fire]] 5'
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -53,12 +45,10 @@ source: '[[DATABASE/source/Pathfinder 147. Tomorrow Must Burn|Pathfinder #147: T
   Must Burn]]'
 speed:
 - 25 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Gnoll|Gnoll]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -67,7 +57,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+22'
 wisdom: '+3'
 

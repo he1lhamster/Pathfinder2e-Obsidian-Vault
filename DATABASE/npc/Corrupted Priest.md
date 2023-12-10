@@ -1,23 +1,16 @@
 ﻿---
 ac: '17'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Demonic Strength
 - Roiling Mind
 - Wild Empathy
-creature_family: null
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+8'
 hp: '45'
 id: '2006'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -28,9 +21,6 @@ name: Corrupted Priest
 perception: '+11'
 rarity: Unique
 reflex: '+5'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Diplomacy|Diplomacy]] +7'
@@ -58,16 +48,13 @@ strength: '+1'
 strength_req: '1'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+11'
 wisdom: '+4'
 

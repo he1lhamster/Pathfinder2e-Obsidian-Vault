@@ -1,10 +1,5 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Familiar Foe
-frequency: null
-heighten_level: null
 id: '3599'
 level: '4'
 name: Familiar Foe
@@ -12,15 +7,10 @@ prerequisite: '[[DATABASE/feat/Lastwall Sentry Dedication|Lastwall Sentry Dedica
   ; Expert in [[DATABASE/skill/Religion|Religion]] or Expert in [[DATABASE/skill/Lore|Undead
   Lore]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

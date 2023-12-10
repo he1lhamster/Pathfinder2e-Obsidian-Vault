@@ -1,10 +1,8 @@
 ﻿---
 ac: '32'
 alignment: N
-all_resistance: null
 burrow_speed: '25'
 charisma: '-1'
-climb_speed: null
 constitution: '+8'
 creature_ability:
 - Crumble
@@ -15,9 +13,7 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Elemental, Earth|Elemental, Earth]]'
 dexterity: '-1'
 element: Earth
-fly_speed: null
 fortitude: '+26'
-hardness: null
 hp: '215'
 id: '186'
 immunity:
@@ -35,9 +31,6 @@ name: Elemental Avalanche
 perception: '+20'
 rarity: Common
 reflex: '+17'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - tremorsense (imprecise) 90 feet
@@ -49,12 +42,10 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 25 feet
 - burrow 25 feet; earth glide
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Elemental|Elemental]]'
@@ -62,7 +53,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+21'
 wisdom: '+3'
 

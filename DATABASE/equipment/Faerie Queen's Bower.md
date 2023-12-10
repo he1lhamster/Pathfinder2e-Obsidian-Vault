@@ -1,45 +1,15 @@
 ﻿---
-ac: null
-actions: null
 alignment: No Alignment
 base_item: '[[DATABASE/armor/Leaf Weave|Leaf Weave]]'
 bulk: '1'
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '2395'
 item_category: Intelligent Items
-item_subcategory: null
-land_speed: null
 level: '13'
-max_speed: null
 name: Faerie Queen's Bower
-onset: null
-price: null
-range: null
 rarity: Rare
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
-size: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-spell: null
-stage: null
 subcategory: intelligentitem
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Divine|Divine]]'
 - '[[DATABASE/trait/Good|Good]]'
@@ -47,12 +17,8 @@ trait:
 - '[[DATABASE/trait/Invested|Invested]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Item
 usage: worn armor
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Faerie Queen's Bower<span class="item-type">Item 13</span>

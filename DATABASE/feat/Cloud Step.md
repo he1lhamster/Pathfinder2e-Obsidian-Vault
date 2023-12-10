@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Cloud Step
-frequency: null
-heighten_level: null
 id: '592'
 level: '16'
 name: Cloud Step
 prerequisite: Legendary in [[DATABASE/skill/Acrobatics|Acrobatics]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Rogue|Rogue]]'
-trigger: null
 type: Feat
 
 ---

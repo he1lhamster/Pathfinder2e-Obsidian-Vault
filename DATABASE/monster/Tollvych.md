@@ -2,19 +2,14 @@
 ac: '33'
 alignment: LE
 all_resistance: '15'
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Bone-Shattering Cry
 - Frightful Moan
-creature_family: null
 dexterity: '+4'
-element: null
 fly_speed: '25'
 fortitude: '+21'
-hardness: null
 hp: 200 ( negative healing , rejuvenation)
 id: '1713'
 immunity:
@@ -25,7 +20,6 @@ immunity:
 - precision
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '+6'
-land_speed: null
 language:
 - '[[DATABASE/language/Common|Common]]'
 - '[[DATABASE/language/Infernal|Infernal]]'
@@ -40,8 +34,6 @@ resistance:
 - '[[DATABASE/equipment/Ghost Touch|ghost touch]]'
 - or [[DATABASE/trait/Positive|positive]] ; double resistance vs. non- [[DATABASE/trait/Magical|magical]]
   )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -76,7 +68,6 @@ strength: '-5'
 strength_req: '-5'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Ghost|Ghost]]'
 - '[[DATABASE/trait/Incorporeal|Incorporeal]]'
@@ -87,7 +78,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+28'
 wisdom: '+5'
 

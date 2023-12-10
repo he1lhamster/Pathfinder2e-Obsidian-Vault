@@ -5,13 +5,9 @@ ability:
 ability_boost:
 - Constitution
 - Wisdom
-feat: null
 id: '188'
 name: Returned
-prerequisite: null
 rarity: Rare
-rus_type_level: null
-skill: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: general
 trait:

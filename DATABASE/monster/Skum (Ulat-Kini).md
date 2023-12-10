@@ -1,21 +1,13 @@
 ﻿---
 ac: '16'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+3'
-creature_ability: null
 creature_family: '[[DATABASE/monsterfamily/Alghollthu|Alghollthu]]'
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+7'
-hardness: null
 hp: '40'
 id: '3'
-immunity: null
 intelligence: '+0'
 land_speed: '20'
 language:
@@ -29,8 +21,6 @@ rarity: Common
 reflex: '+7'
 resistance:
 - '[[DATABASE/trait/Cold|cold]] 5'
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -42,7 +32,6 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 20 feet
 - swim 40 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
@@ -56,7 +45,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+4'
 wisdom: '+0'
 

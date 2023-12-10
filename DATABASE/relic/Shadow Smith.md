@@ -1,11 +1,8 @@
 ﻿---
-element: null
 id: '63'
 item_category: Relics
 name: Shadow Smith
-prerequisite: null
 rarity: Common
-rus_type_level: null
 school: Conjuration
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:

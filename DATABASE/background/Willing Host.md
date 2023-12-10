@@ -5,12 +5,9 @@ ability:
 ability_boost:
 - Wisdom
 - Charisma
-feat: null
 id: '309'
 name: Willing Host
-prerequisite: null
 rarity: Rare
-rus_type_level: null
 skill:
 - Spirit [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'

@@ -1,8 +1,5 @@
 ﻿---
 ac: '29'
-alignment: null
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
 climb_speed: '45'
 constitution: '+5'
@@ -14,9 +11,7 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Elemental, Earth|Elemental, Earth]]'
 dexterity: '+3'
 element: Earth
-fly_speed: null
 fortitude: '+21'
-hardness: null
 hp: '230'
 id: '2625'
 immunity:
@@ -34,9 +29,6 @@ name: Crystal Strider
 perception: '+20'
 rarity: Common
 reflex: '+19'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) 60 feet'
@@ -49,12 +41,10 @@ source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 speed:
 - 45 feet
 - climb 45 feet; precise steps
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Elemental|Elemental]]'

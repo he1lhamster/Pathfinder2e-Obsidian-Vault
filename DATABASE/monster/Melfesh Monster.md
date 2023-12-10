@@ -1,10 +1,7 @@
 ﻿---
 ac: '23'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Envelop
@@ -13,15 +10,11 @@ creature_ability:
 - Spore Cloud
 - Sporesight
 - Terrorspores
-creature_family: null
 dexterity: '+3'
-element: null
 fly_speed: '30'
 fortitude: '+16'
-hardness: null
 hp: '78'
 id: '1734'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -37,8 +30,6 @@ reflex: '+14'
 resistance:
 - '[[DATABASE/trait/Fire|fire]] 5'
 - '[[DATABASE/trait/Poison|poison]] 5'
-rus_type_level: null
-school: null
 sense:
 - sporesight 100 feet
 size: Medium
@@ -51,20 +42,16 @@ source: '[[DATABASE/source/Monsters of Myth|Monsters of Myth]]'
 speed:
 - 25 feet
 - fly 30 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fungus|Fungus]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+12'
 wisdom: '+2'
 

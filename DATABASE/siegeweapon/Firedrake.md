@@ -1,6 +1,5 @@
 ﻿---
 ac: '22'
-bulk: null
 fortitude: '+16'
 hardness: '12'
 hp: '70'
@@ -13,7 +12,6 @@ name: Firedrake
 price: 1,000 gp
 rarity: Uncommon
 reflex: '+9'
-rus_type_level: null
 size: Huge
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:

@@ -2,7 +2,6 @@
 id: '426'
 name: Deviant
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 trait:
 - Deviant

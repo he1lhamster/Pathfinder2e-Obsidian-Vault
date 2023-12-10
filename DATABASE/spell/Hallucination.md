@@ -1,31 +1,20 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
-cost: null
 deity:
 - '[[DATABASE/deity/Cayden Cailean|Cayden Cailean]]'
 - '[[DATABASE/deity/Hastur|Hastur]]'
 - '[[DATABASE/deity/Tsukiyo|Tsukiyo]]'
-domain: null
 duration: 1 hour
-element: null
 heighten: 6th, 8th
 heighten_level: 5, 6, 8
 id: '144'
-lesson: null
 level: '5'
-mystery: null
 name: Hallucination
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Illusion
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: 1 creature
@@ -36,7 +25,6 @@ trait:
 - '[[DATABASE/trait/Illusion|Illusion]]'
 - '[[DATABASE/trait/Incapacitation|Incapacitation]]'
 - '[[DATABASE/trait/Mental|Mental]]'
-trigger: null
 type: Spell
 
 ---

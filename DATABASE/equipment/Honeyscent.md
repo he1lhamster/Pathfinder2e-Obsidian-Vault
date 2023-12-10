@@ -1,58 +1,27 @@
 ﻿---
-ac: null
 actions: '[one-action]'
-alignment: null
-base_item: null
 bulk: L
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
 duration: 6 rounds
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '784'
 item_category: Alchemical Items
 item_subcategory: Alchemical Poisons
-land_speed: null
 level: '10'
-max_speed: null
 name: Honeyscent
-onset: null
 price: 180 gp
-range: null
 rarity: Rare
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
 saving_throw: DC 30 Will
-school: null
-size: null
 source: '[[DATABASE/source/Legends|Legends]]'
-spell: null
 stage: 'Stage 1: 2d6 slashing damage (1 round)Stage 2: 2d6 slashing damage and stupefied
   1 (1 round)Stage 3: 2d6 slashing damage, drained 1, and stupefied1'
 subcategory: alchemical/poison
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Alchemical|Alchemical]]'
 - '[[DATABASE/trait/Consumable|Consumable]]'
 - '[[DATABASE/trait/Inhaled|Inhaled]]'
 - '[[DATABASE/trait/Poison|Poison]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Item
 usage: held in 1 hand
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Honeyscent<span class="item-type">Item 10</span>

@@ -1,8 +1,6 @@
 ﻿---
 bulk: '2'
 damage: 1d10 P
-deity: null
-favored_weapon: null
 hands: '2'
 id: '26'
 item_category: Weapons
@@ -10,9 +8,7 @@ item_subcategory: Base Weapons
 level: '0'
 name: Halberd
 price: 2 gp
-range: null
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Reach|Reach]]'

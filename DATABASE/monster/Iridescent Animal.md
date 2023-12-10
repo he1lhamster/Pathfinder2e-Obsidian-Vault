@@ -1,10 +1,7 @@
 ﻿---
 ac: '21'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Color Splash
@@ -12,27 +9,18 @@ creature_ability:
 - Grabbing Trunk
 - Trample
 - Trunk Beam
-creature_family: null
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+16'
-hardness: null
 hp: '110'
 id: '510'
-immunity: null
 intelligence: '-4'
 land_speed: '40'
-language: null
 level: '7'
 max_speed: '40'
 name: Iridescent Elephant
 perception: '+11'
 rarity: Uncommon
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - scent (imprecise) 30 feet
 size: Huge
@@ -43,20 +31,16 @@ source: '[[DATABASE/source/Pathfinder 152. Legacy of the Lost God|Pathfinder #15
   Legacy of the Lost God]]'
 speed:
 - 40 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+14'
 wisdom: '+2'
 

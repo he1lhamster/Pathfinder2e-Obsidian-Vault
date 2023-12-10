@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Advanced Targeting System
-frequency: null
-heighten_level: null
 id: '2467'
 level: '5'
 name: Advanced Targeting System
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Android|Android]]'
-trigger: null
 type: Feat
 
 ---

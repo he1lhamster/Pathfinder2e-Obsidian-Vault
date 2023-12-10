@@ -1,20 +1,13 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
-frequency: null
 id: '1225'
 name: Calculate Threats
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 trait:
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Psyche|Psyche]]'
 - '[[DATABASE/trait/Psychic|Psychic]]'
-trigger: null
 type: Action
 
 ---

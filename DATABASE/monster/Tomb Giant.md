@@ -1,10 +1,7 @@
 ﻿---
 ac: '32'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Catch Rock
@@ -13,10 +10,7 @@ creature_ability:
 - Throw Rock
 creature_family: '[[DATABASE/monsterfamily/Giant|Giant]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+22'
-hardness: null
 hp: 255 ( negative healing )
 id: '1168'
 immunity:
@@ -33,9 +27,6 @@ name: Tomb Giant
 perception: '+25'
 rarity: Common
 reflex: '+19'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Lifesense|lifesense]] (imprecise) 60 feet'
@@ -55,7 +46,6 @@ strength: '+7'
 strength_req: '7'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Giant|Giant]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -63,7 +53,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+25'
 wisdom: '+7'
 

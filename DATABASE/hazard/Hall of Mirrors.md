@@ -1,8 +1,6 @@
 ﻿---
 ac: '24'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+13'
 hardness: '15'
 hazard_type: Haunt
@@ -16,17 +14,12 @@ level: '8'
 name: Hall of Mirrors
 rarity: Unique
 reflex: '+19'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 182. Graveclaw|Pathfinder #182: Graveclaw]]'
 trait:
 - '[[DATABASE/trait/Complex|Complex]]'
 - '[[DATABASE/trait/Haunt|Haunt]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Hall of Mirrors<span class="item-type">Hazard 8</span>

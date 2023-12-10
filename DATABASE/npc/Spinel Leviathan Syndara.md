@@ -1,10 +1,7 @@
 ﻿---
 ac: '51'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+7'
-climb_speed: null
 constitution: '+10'
 creature_ability:
 - Attack of Opportunity
@@ -17,9 +14,7 @@ creature_ability:
 - Portal Redirection
 - Rend
 - Spatial Sense
-creature_family: null
 dexterity: '+9'
-element: null
 fly_speed: '60'
 fortitude: '+46'
 hp: '550'
@@ -47,7 +42,6 @@ reflex: '+38'
 resistance:
 - '[[DATABASE/trait/Electricity|electricity]] 25'
 - '[[DATABASE/trait/Mental|mental]] 25'
-rus_type_level: null
 sense:
 - spatial sense
 size: Gargantuan
@@ -61,18 +55,15 @@ source: '[[DATABASE/source/Pathfinder 168. King of the Mountain|Pathfinder #168:
 speed:
 - 60 feet
 - fly 60 feet
-spell: null
 strength: '+12'
 strength_req: '12'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aeon|Aeon]]'
 - '[[DATABASE/trait/Monitor|Monitor]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
 weakness:

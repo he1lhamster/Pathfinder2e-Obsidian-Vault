@@ -1,10 +1,7 @@
 ﻿---
 ac: '30'
 alignment: NG
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Aura of Vitality
@@ -12,10 +9,8 @@ creature_ability:
 - Flaming Armaments
 creature_family: '[[DATABASE/monsterfamily/Angel|Angel]]'
 dexterity: '+4'
-element: null
 fly_speed: '40'
 fortitude: '+21'
-hardness: null
 hp: '195'
 id: '542'
 immunity:
@@ -32,9 +27,6 @@ name: Movanic Deva
 perception: '+22'
 rarity: Common
 reflex: '+17'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -64,7 +56,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Angel|Angel]]'
 - '[[DATABASE/trait/Celestial|Celestial]]'

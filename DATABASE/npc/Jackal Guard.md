@@ -1,10 +1,7 @@
 ﻿---
 ac: '29'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Attack of Opportunity
@@ -12,14 +9,10 @@ creature_ability:
 - Knocking Sweep
 - Shield Block
 - Spear Vault
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+21'
 hp: '180'
 id: '1695'
-immunity: null
 intelligence: '+1'
 land_speed: '30'
 language:
@@ -31,9 +24,6 @@ name: Jackal Guard
 perception: '+19'
 rarity: Uncommon
 reflex: '+18'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +20'
@@ -45,22 +35,18 @@ source: '[[DATABASE/source/Pathfinder 172. Secrets of the Temple City|Pathfinder
   Secrets of the Temple City]]'
 speed:
 - 30 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
 - Will
-weakness: null
 will: '+18'
 wisdom: '+2'
 

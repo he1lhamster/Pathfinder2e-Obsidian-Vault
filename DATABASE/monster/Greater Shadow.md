@@ -2,9 +2,7 @@
 ac: '24'
 alignment: CE
 all_resistance: '10'
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Light Vulnerability
@@ -13,10 +11,8 @@ creature_ability:
 - Steal Shadow
 creature_family: '[[DATABASE/monsterfamily/Shadow|Shadow]]'
 dexterity: '+5'
-element: null
 fly_speed: '30'
 fortitude: '+11'
-hardness: null
 hp: '75'
 id: '363'
 immunity:
@@ -27,7 +23,6 @@ immunity:
 - precision
 - unconscious
 intelligence: '+0'
-land_speed: null
 language:
 - '[[DATABASE/language/Necril|Necril]]'
 level: '7'
@@ -40,8 +35,6 @@ resistance:
 - all 10 (except force
 - ghost touch
 - or positive; double resistance against non-magical)
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -57,7 +50,6 @@ strength: '-5'
 strength_req: '-5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Incorporeal|Incorporeal]]'
 - '[[DATABASE/trait/Undead|Undead]]'

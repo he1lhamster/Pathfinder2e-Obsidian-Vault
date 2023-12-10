@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Armor Assist|Armor Assist]]'
 id: '178'
 name: Squire
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]]'
 - Heraldry [[DATABASE/skill/Lore|Lore]] or Warfare Lore.
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

@@ -1,29 +1,18 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Doloras|Doloras]]'
 - '[[DATABASE/deity/Torag|Torag]]'
-domain: null
 duration: varies
-element: null
-heighten: null
 heighten_level: '3'
 id: '94'
-lesson: null
 level: '3'
-mystery: null
 name: Earthbind
-patron_theme: null
 range: 120 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Fortitude
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -33,7 +22,6 @@ tradition:
 - Primal
 trait:
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Spell
 
 ---

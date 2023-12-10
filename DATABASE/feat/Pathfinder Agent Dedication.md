@@ -1,25 +1,31 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Pathfinder Agent Dedication
-frequency: null
-heighten_level: null
 id: '871'
+leads_to: '[[DATABASE/feat/Archaeologist''s Warning|Archaeologist''s Warning]] , [[DATABASE/feat/Careful
+  Explorer|Careful Explorer]] , [[DATABASE/feat/Craft Facsimile|Craft Facsimile]]
+  , [[DATABASE/feat/Dead Reckoning|Dead Reckoning]] , [[DATABASE/feat/Deft Cooperation|Deft
+  Cooperation]] , [[DATABASE/feat/Discerning Strike|Discerning Strike]] , [[DATABASE/feat/Diverse
+  Recognition|Diverse Recognition]] , [[DATABASE/feat/Educated Assessment|Educated
+  Assessment]] , [[DATABASE/feat/Eidetic Memorization|Eidetic Memorization]] , [[DATABASE/feat/Environmental
+  Explorer|Environmental Explorer]] , [[DATABASE/feat/Everyone Duck!|Everyone Duck!]]
+  , [[DATABASE/feat/Forced Entry|Forced Entry]] , [[DATABASE/feat/Observant Explorer|Observant
+  Explorer]] , [[DATABASE/feat/Recognize Threat|Recognize Threat]] , [[DATABASE/feat/Remember
+  Your Training|Remember Your Training]] , [[DATABASE/feat/Snap Out of It! (Pathfinder
+  Agent)|Snap Out of It! (Pathfinder Agent)]] , [[DATABASE/feat/Spiritual Explorer|Spiritual
+  Explorer]] , [[DATABASE/feat/Swap Investment|Swap Investment]] , [[DATABASE/feat/Thorough
+  Reports|Thorough Reports]] , [[DATABASE/feat/Watch and Learn|Watch and Learn]] ,
+  [[DATABASE/feat/Wayfinder Resonance Infiltrator|Wayfinder Resonance Infiltrator]]
+  , [[DATABASE/feat/Wayfinder Resonance Tinkerer|Wayfinder Resonance Tinkerer]] ,
+  [[DATABASE/feat/Westyr''s Wayfinder Repository|Westyr''s Wayfinder Repository]]'
 level: '2'
 name: Pathfinder Agent Dedication
 prerequisite: member of the Pathfinder Society
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/World Guide|World Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

@@ -5,7 +5,6 @@ ability:
 ability_boost:
 - Dexterity
 - Free
-ability_flaw: null
 hp: '6'
 id: '55'
 land_speed: '25'
@@ -15,7 +14,6 @@ language:
 max_speed: '25'
 name: Vanara
 rarity: Uncommon
-rus_type_level: null
 size: Medium
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 speed:
@@ -25,7 +23,6 @@ trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 - '[[DATABASE/trait/Vanara|Vanara]]'
 type: Ancestry
-vision: null
 
 ---
 # Vanara

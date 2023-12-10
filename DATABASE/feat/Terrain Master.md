@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Terrain Master
-frequency: null
-heighten_level: null
 id: '517'
 level: '8'
 name: Terrain Master
 prerequisite: Master in [[DATABASE/skill/Survival|Survival]] ; [[DATABASE/feat/Favored
   Terrain|Favored Terrain]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Ranger|Ranger]]'
-trigger: null
 type: Feat
 
 ---

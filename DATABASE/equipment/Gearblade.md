@@ -1,59 +1,24 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
 base_item: '[[DATABASE/weapon/Bastard Sword|Bastard Sword]] , [[DATABASE/weapon/Greatsword|Greatsword]]
   , [[DATABASE/weapon/Longsword|Longsword]] , [[DATABASE/weapon/Shortsword|Shortsword]]
   , [[DATABASE/weapon/Greatclub|Greatclub]]'
 bulk: '2'
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '896'
 item_category: Weapons
 item_subcategory: Specific Magic Weapons
-land_speed: null
 level: '17'
-max_speed: null
 name: Gearblade
-onset: null
 price: 13,000 gp
-range: null
 rarity: Rare
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
-school: null
-size: null
 source: '[[DATABASE/source/Pathfinder 161. Belly of the Black Whale|Pathfinder #161:
   Belly of the Black Whale]]'
-spell: null
-stage: null
-subcategory: null
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Clockwork|Clockwork]]'
 - '[[DATABASE/trait/Invested|Invested]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Item
 usage: held in 1 or 2 hands
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Gearblade<span class="item-type">Item 17</span>

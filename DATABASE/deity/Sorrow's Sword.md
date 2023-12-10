@@ -25,11 +25,9 @@ follower_alignment:
 id: '249'
 name: Sorrow's Sword
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Intimidation|Intimidation]]'
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
-trait: null
 type: Deity
 
 ---

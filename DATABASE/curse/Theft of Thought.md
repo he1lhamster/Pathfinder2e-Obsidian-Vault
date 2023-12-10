@@ -1,10 +1,8 @@
 ﻿---
-element: null
 id: '16'
 level: '3'
 name: Theft of Thought
 rarity: Common
-rus_type_level: null
 saving_throw: DC 18 Will
 school: Enchantment
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
@@ -14,7 +12,6 @@ trait:
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Mental|Mental]]'
 type: Curse
-usage: null
 
 ---
 # Theft of Thought<span class="item-type">Curse 3</span>

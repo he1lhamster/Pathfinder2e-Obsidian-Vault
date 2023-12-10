@@ -1,20 +1,12 @@
 ﻿---
 ac: '12'
 alignment: CG
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+3'
-creature_ability: null
-creature_family: null
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+8'
 hp: '26'
 id: '2222'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -25,9 +17,6 @@ name: Oleg
 perception: '+6'
 rarity: Unique
 reflex: '+6'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +6'
@@ -38,22 +27,18 @@ skill:
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 speed:
 - 25 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
 - Will
-weakness: null
 will: '+6'
 wisdom: '+1'
 

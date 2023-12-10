@@ -2,9 +2,6 @@
 id: '103'
 name: Pathfinder 173. Doorway to the Red Star
 rarity: Common
-rus_type_level: null
-source: null
-trait: null
 type: Source
 
 ---

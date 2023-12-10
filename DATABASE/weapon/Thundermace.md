@@ -1,8 +1,6 @@
 ﻿---
 bulk: '2'
 damage: 1d8 B
-deity: null
-favored_weapon: null
 hands: '2'
 id: '244'
 item_category: Weapons
@@ -10,9 +8,7 @@ item_subcategory: Base Weapons
 level: '0'
 name: Thundermace
 price: 2 sp
-range: null
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
 trait:
 - '[[DATABASE/trait/Backswing|Backswing]]'

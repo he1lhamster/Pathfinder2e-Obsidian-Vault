@@ -1,35 +1,25 @@
 ﻿---
 ac: '18'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Echolocation
 - Wing Thrash
 creature_family: '[[DATABASE/monsterfamily/Bat|Bat]]'
 dexterity: '+2'
-element: null
 fly_speed: '30'
 fortitude: '+9'
-hardness: null
 hp: '30'
 id: '46'
-immunity: null
 intelligence: '-4'
 land_speed: '15'
-language: null
 level: '2'
 max_speed: '30'
 name: Giant Bat
 perception: '+11'
 rarity: Common
 reflex: '+8'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - echolocation (precise) 40 feet
 - low-light vision
@@ -42,19 +32,16 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 15 feet
 - fly 30 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+7'
 wisdom: '+3'
 

@@ -1,22 +1,15 @@
 ﻿---
 ac: '17'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Deep Breath
 creature_family: '[[DATABASE/monsterfamily/Lizardfolk|Lizardfolk]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+7'
-hardness: null
 hp: '30'
 id: '293'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -28,10 +21,6 @@ name: Lizardfolk Stargazer
 perception: '+8'
 rarity: Common
 reflex: '+6'
-resistance: null
-rus_type_level: null
-school: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Diplomacy|Diplomacy]] +4'
@@ -62,10 +51,8 @@ trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Lizardfolk|Lizardfolk]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+10'
 wisdom: '+4'
 

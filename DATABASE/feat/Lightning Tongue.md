@@ -1,23 +1,14 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Lightning Tongue
-frequency: null
-heighten_level: null
 id: '2403'
+leads_to: '[[DATABASE/feat/Tongue Disarm|Tongue Disarm]]'
 level: '1'
 name: Lightning Tongue
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Lizardfolk|Lizardfolk]]'
-trigger: null
 type: Feat
 
 ---

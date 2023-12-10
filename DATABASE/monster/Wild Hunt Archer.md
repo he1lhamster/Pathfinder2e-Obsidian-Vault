@@ -1,10 +1,7 @@
 ﻿---
 ac: '39'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Focus Gaze
@@ -19,13 +16,9 @@ creature_ability:
 - Wild Hunt Link
 creature_family: '[[DATABASE/monsterfamily/Wild Hunt|Wild Hunt]]'
 dexterity: '+8'
-element: null
-fly_speed: null
 fortitude: '+26'
-hardness: null
 hp: '340'
 id: '2214'
-immunity: null
 intelligence: '+3'
 land_speed: '25'
 language:
@@ -40,9 +33,6 @@ name: Wild Hunt Archer
 perception: '+30'
 rarity: Rare
 reflex: '+32'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 - greensight
@@ -75,7 +65,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Rare|Rare]]'

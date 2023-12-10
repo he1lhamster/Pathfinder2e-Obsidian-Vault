@@ -1,24 +1,17 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Cat Fall
-frequency: null
-heighten_level: null
 id: '765'
+leads_to: '[[DATABASE/feat/Leshy Glide|Leshy Glide]] , [[DATABASE/feat/Rolling Landing|Rolling
+  Landing]]'
 level: '1'
 name: Cat Fall
 prerequisite: Trained in [[DATABASE/skill/Acrobatics|Acrobatics]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: acrobatics
 trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

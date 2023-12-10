@@ -1,10 +1,7 @@
 ﻿---
 ac: '23'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Blood Quarry
@@ -12,27 +9,18 @@ creature_ability:
 - Chase Down
 - Ferocity
 - Terrifying Squeal
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+16'
-hardness: null
 hp: '98'
 id: '454'
-immunity: null
 intelligence: '-4'
 land_speed: '40'
-language: null
 level: '6'
 max_speed: '40'
 name: Blood Boar
 perception: '+15'
 rarity: Common
 reflex: '+14'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - bloodsense 60 feet
 - low-light vision
@@ -46,19 +34,16 @@ source: '[[DATABASE/source/Pathfinder 147. Tomorrow Must Burn|Pathfinder #147: T
   Must Burn]]'
 speed:
 - 40 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+10'
 wisdom: '+2'
 

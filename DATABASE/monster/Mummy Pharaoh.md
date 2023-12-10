@@ -1,10 +1,7 @@
 ﻿---
 ac: '27'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Attack of Opportunity
@@ -17,10 +14,7 @@ creature_ability:
 - Undead Mastery
 creature_family: '[[DATABASE/monsterfamily/Mummy|Mummy]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+19'
-hardness: null
 hp: 165 ( negative healing )
 id: '305'
 immunity:
@@ -39,9 +33,6 @@ name: Mummy Pharaoh
 perception: '+20'
 rarity: Rare
 reflex: '+15'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -54,12 +45,10 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 20 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Mummy|Mummy]]'
 - '[[DATABASE/trait/Rare|Rare]]'

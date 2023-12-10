@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Catrina's Presence
-frequency: null
-heighten_level: null
 id: '2361'
 level: '9'
 name: Catrina's Presence
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Duskwalker|Duskwalker]]'
-trigger: null
 type: Feat
 
 ---

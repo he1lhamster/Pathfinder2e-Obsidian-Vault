@@ -1,10 +1,7 @@
 ﻿---
 ac: '39'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Bind Destinies
@@ -12,14 +9,10 @@ creature_ability:
 - Shadow's Displeasure
 - Vesicated Shadow
 - Weird Astrology
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+30'
 hp: '270'
 id: '1805'
-immunity: null
 intelligence: '+5'
 land_speed: '25'
 language:
@@ -35,8 +28,6 @@ rarity: Unique
 reflex: '+27'
 resistance:
 - '[[DATABASE/trait/Acid|acid]] 20'
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Lore|Academia Lore]] +35'
@@ -91,16 +82,13 @@ strength: '+1'
 strength_req: '1'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+33'
 wisdom: '+4'
 

@@ -1,25 +1,18 @@
 ﻿---
 ac: '42'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+8'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Fast Swallow
 - Riptide
 - Swallow Whole
 - Watery Simulacra
-creature_family: null
 dexterity: '+0'
 element: Water
-fly_speed: null
 fortitude: '+30'
-hardness: null
 hp: '440'
 id: '1011'
-immunity: null
 intelligence: '+5'
 land_speed: '5'
 language:
@@ -34,8 +27,6 @@ rarity: Rare
 reflex: '+27'
 resistance:
 - fire 15
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - wavesense (imprecise) 100 feet

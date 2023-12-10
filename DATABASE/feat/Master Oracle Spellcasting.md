@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Master Oracle Spellcasting
-frequency: null
-heighten_level: null
 id: '1858'
 level: '18'
 name: Master Oracle Spellcasting
 prerequisite: '[[DATABASE/feat/Expert Oracle Spellcasting|Expert Oracle Spellcasting]]
   ; Legendary in [[DATABASE/skill/Religion|Religion]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

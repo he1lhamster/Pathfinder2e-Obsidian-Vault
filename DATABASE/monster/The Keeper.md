@@ -1,10 +1,7 @@
 ﻿---
 ac: '47'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+8'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Attack of Opportunity
@@ -13,12 +10,9 @@ creature_ability:
 - Change Shape
 - Maintain Fate
 - Souleater
-creature_family: null
 dexterity: '+6'
-element: null
 fly_speed: '120'
 fortitude: '+37'
-hardness: null
 hp: '385'
 id: '2588'
 immunity:
@@ -39,9 +33,6 @@ name: The Keeper
 perception: '+36'
 rarity: Unique
 reflex: '+35'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 - '[[DATABASE/spell/True Seeing|true seeing]]'
@@ -71,7 +62,6 @@ strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Unique|Unique]]'

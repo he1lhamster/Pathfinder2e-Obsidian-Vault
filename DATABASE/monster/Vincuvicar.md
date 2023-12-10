@@ -1,10 +1,7 @@
 ﻿---
 ac: '42'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Alone and Forgotten
@@ -14,10 +11,7 @@ creature_ability:
 - Shackle
 creature_family: '[[DATABASE/monsterfamily/Velstrac|Velstrac]]'
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+32'
-hardness: null
 hp: '333'
 id: '2530'
 immunity:
@@ -36,9 +30,6 @@ name: Vincuvicar
 perception: '+32'
 rarity: Common
 reflex: '+28'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 - painsight
@@ -75,7 +66,6 @@ strength: '+9'
 strength_req: '9'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fiend|Fiend]]'
 - '[[DATABASE/trait/Velstrac|Velstrac]]'

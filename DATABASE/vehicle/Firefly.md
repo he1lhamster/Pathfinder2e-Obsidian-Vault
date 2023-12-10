@@ -1,8 +1,5 @@
 ﻿---
 ac: '16'
-burrow_speed: null
-climb_speed: null
-fly_speed: null
 fortitude: '+12'
 hardness: '5'
 hp: '60'
@@ -14,14 +11,10 @@ max_speed: '20'
 name: Firefly
 price: 450 gp
 rarity: Uncommon
-reflex: null
 resistance:
 - electricity 10
-rus_type_level: null
-school: null
 size: Large
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Vehicle

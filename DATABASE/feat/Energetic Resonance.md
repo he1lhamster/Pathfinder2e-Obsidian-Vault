@@ -1,21 +1,14 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Energetic Resonance
-frequency: null
-heighten_level: null
 id: '1816'
 level: '6'
 name: Energetic Resonance
-prerequisite: null
 rarity: Common
 requirement: You have an unexpended spell slot of a level equal to or higher than
   the triggering spell.
-rus_type_level: null
 school: Abjuration
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Sorcerer|Sorcerer]]'

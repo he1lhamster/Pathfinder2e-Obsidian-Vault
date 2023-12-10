@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Brilliant Crafter
-frequency: null
-heighten_level: null
 id: '3114'
 level: '4'
 name: Brilliant Crafter
 prerequisite: '[[DATABASE/feat/Inventor Dedication|Inventor Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

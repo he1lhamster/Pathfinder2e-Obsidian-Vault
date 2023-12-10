@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Goblin Weapon Frenzy
-frequency: null
-heighten_level: null
 id: '47'
 level: '5'
 name: Goblin Weapon Frenzy
 prerequisite: '[[DATABASE/feat/Goblin Weapon Familiarity|Goblin Weapon Familiarity]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Goblin|Goblin]]'
-trigger: null
 type: Feat
 
 ---

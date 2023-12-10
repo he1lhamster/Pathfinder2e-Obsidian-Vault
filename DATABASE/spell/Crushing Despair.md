@@ -5,7 +5,6 @@ bloodline: '[[DATABASE/sorcererbloodline/Diabolic|Diabolic]] , [[DATABASE/sorcer
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Ahriman|Ahriman]]'
 - '[[DATABASE/deity/Charon|Charon]]'
@@ -13,25 +12,16 @@ deity:
 - '[[DATABASE/deity/Naderi|Naderi]]'
 - '[[DATABASE/deity/Sifkesh|Sifkesh]]'
 - '[[DATABASE/deity/The Lost Prince|The Lost Prince]]'
-domain: null
 duration: 1 or more rounds
-element: null
 heighten: 7th
 heighten_level: 5, 7
 id: '57'
-lesson: null
 level: '5'
-mystery: null
 name: Crushing Despair
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Will
 school: Enchantment
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Arcane
 - Occult
@@ -39,7 +29,6 @@ trait:
 - '[[DATABASE/trait/Emotion|Emotion]]'
 - '[[DATABASE/trait/Enchantment|Enchantment]]'
 - '[[DATABASE/trait/Mental|Mental]]'
-trigger: null
 type: Spell
 
 ---

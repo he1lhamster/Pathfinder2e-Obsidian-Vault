@@ -1,25 +1,18 @@
 ﻿---
 actions: '[two-actions]'
 cost: Expend a [[DATABASE/spell/Harm|harm]] or [[DATABASE/spell/Heal|heal]] spell.
-element: null
 feat: Channel Smite
-frequency: null
-heighten_level: null
 id: '276'
 level: '4'
 name: Channel Smite
 prerequisite: '[[DATABASE/class_/Cleric|harmful font or healing font]]'
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Cleric|Cleric]]'
 - '[[DATABASE/trait/Divine|Divine]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
-trigger: null
 type: Feat
 
 ---

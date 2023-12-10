@@ -1,20 +1,12 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Unnerving Prowess
-frequency: null
-heighten_level: null
 id: '880'
 level: '6'
 name: Unnerving Prowess
 prerequisite: '[[DATABASE/feat/Aldori Duelist Dedication|Aldori Duelist Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/World Guide|World Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 trigger: You critically succeed at a Strike or Disarm with your Aldori dueling sword.

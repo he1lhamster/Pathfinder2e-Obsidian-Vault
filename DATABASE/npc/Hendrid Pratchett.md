@@ -1,21 +1,14 @@
 ﻿---
 ac: '24'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Sword Cane Duelist
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+12'
 hp: '100'
 id: '2483'
-immunity: null
 intelligence: '+2'
 land_speed: '30'
 language:
@@ -28,8 +21,6 @@ name: Hendrid Pratchett
 perception: '+17'
 rarity: Unique
 reflex: '+16'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
@@ -61,7 +52,6 @@ strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Elf|Elf]]'
 - '[[DATABASE/trait/Human|Human]]'
@@ -71,7 +61,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+15'
 wisdom: '+1'
 

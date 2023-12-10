@@ -3,9 +3,7 @@ favored_weapon: '[[DATABASE/weapon/Flail|Flail]]'
 id: '1'
 name: Order of the Chain
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-trait: null
 type: Hellknight Order
 
 ---

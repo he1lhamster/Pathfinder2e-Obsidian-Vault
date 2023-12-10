@@ -2,7 +2,6 @@
 area: circle centered on you up to 1 mile in radius
 cost: mystical paint, elaborate veils, and powdered minerals worth 20,000 gp total
 duration: unlimited
-element: null
 heighten: 10th
 heighten_level: 9, 10
 id: '32'
@@ -10,10 +9,7 @@ level: '9'
 name: Fantastic Facade
 primary_check: '[[DATABASE/skill/Arcana|Arcana]] or [[DATABASE/skill/Occultism|Occultism]]
   (legendary)'
-range: null
 rarity: Rare
-requirement: null
-rus_type_level: null
 school: Illusion
 secondary_casters: '3'
 secondary_check: '[[DATABASE/skill/Society|Society]] or [[DATABASE/skill/Survival|Survival]]

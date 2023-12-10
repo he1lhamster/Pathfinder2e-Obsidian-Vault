@@ -1,19 +1,15 @@
 ﻿---
 ac: '23'
-bulk: null
 fortitude: '+18'
 hardness: '18'
 hp: '50'
 id: '17'
 item_category: Siege Weapons
-land_speed: null
 level: '9'
-max_speed: null
 name: Heavy Bombard
 price: 1,400 gp
 rarity: Uncommon
 reflex: '+10'
-rus_type_level: null
 size: Gargantuan
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:

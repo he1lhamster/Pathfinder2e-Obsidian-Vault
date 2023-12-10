@@ -1,10 +1,7 @@
 ﻿---
 ac: '30'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+7'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Breath Weapon
@@ -13,15 +10,11 @@ creature_ability:
 - Shadow Command
 - Smoke Vision
 - Sound Imitation
-creature_family: null
 dexterity: '+7'
-element: null
 fly_speed: '50'
 fortitude: '+21'
-hardness: null
 hp: '240'
 id: '1699'
-immunity: null
 intelligence: '-1'
 land_speed: '10'
 language:
@@ -33,9 +26,6 @@ name: Grave Karina
 perception: '+21'
 rarity: Rare
 reflex: '+24'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - smoke vision
@@ -50,12 +40,10 @@ source: '[[DATABASE/source/Pathfinder 172. Secrets of the Temple City|Pathfinder
 speed:
 - 10 feet
 - fly 50 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

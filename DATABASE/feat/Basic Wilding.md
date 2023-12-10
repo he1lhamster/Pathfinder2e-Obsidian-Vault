@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Basic Wilding
-frequency: null
-heighten_level: null
 id: '703'
+leads_to: '[[DATABASE/feat/Advanced Wilding|Advanced Wilding]]'
 level: '4'
 name: Basic Wilding
 prerequisite: '[[DATABASE/feat/Druid Dedication|Druid Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

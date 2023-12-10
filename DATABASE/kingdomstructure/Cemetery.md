@@ -4,7 +4,6 @@ id: '11'
 level: '1'
 name: Cemetery
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
 - '[[DATABASE/trait/Yard|Yard]]'

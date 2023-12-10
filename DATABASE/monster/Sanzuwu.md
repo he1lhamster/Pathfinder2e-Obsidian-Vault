@@ -1,10 +1,7 @@
 ﻿---
 ac: '36'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Fiery Transformation
@@ -14,12 +11,10 @@ creature_ability:
 - Scorching Gaze
 - Transfixing
 - Sunbeam
-creature_family: null
 dexterity: '+8'
 element: Fire
 fly_speed: '60'
 fortitude: '+26'
-hardness: null
 hp: '295'
 id: '1417'
 immunity:
@@ -36,9 +31,6 @@ name: Sanzuwu
 perception: '+26'
 rarity: Uncommon
 reflex: '+29'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 size: Tiny
@@ -51,12 +43,10 @@ source: '[[DATABASE/source/Pathfinder 168. King of the Mountain|Pathfinder #168:
 speed:
 - 25 feet
 - fly 60 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Fire|Fire]]'

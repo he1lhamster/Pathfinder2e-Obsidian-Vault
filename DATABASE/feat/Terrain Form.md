@@ -1,26 +1,19 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Terrain Form
 frequency: once per day
-heighten_level: null
 id: '3529'
 level: '10'
 name: Terrain Form
 prerequisite: '[[DATABASE/feat/Mummy Dedication|Mummy Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Divine|Divine]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Feat
 
 ---

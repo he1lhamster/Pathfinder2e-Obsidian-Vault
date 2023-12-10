@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Paragon Companion
-frequency: null
-heighten_level: null
 id: '3079'
 level: '14'
 name: Paragon Companion
 prerequisite: '[[DATABASE/feat/Incredible Construct Companion|Incredible Construct
   Companion]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Inventor|Inventor]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Modular Dynamo
-frequency: null
-heighten_level: null
 id: '3128'
 level: '4'
 name: Modular Dynamo
 prerequisite: '[[DATABASE/feat/Sterling Dynamo Dedication|Sterling Dynamo Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

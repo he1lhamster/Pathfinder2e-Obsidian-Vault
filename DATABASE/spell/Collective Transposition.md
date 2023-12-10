@@ -5,27 +5,16 @@ bloodline: '[[DATABASE/sorcererbloodline/Shadow|Shadow]]'
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Andoletta|Andoletta]]'
 - '[[DATABASE/deity/Bolka|Bolka]]'
 - '[[DATABASE/deity/Bolka|Bolka]]'
-domain: null
-duration: null
-element: null
 heighten: '+1'
 heighten_level: 6, 7, 8, 9, 10
 id: '43'
-lesson: null
 level: '6'
-mystery: null
 name: Collective Transposition
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: up to 2 creatures
@@ -35,7 +24,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Teleportation|Teleportation]]'
-trigger: null
 type: Spell
 
 ---

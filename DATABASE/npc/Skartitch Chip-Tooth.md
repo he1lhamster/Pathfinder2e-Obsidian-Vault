@@ -1,10 +1,8 @@
 ﻿---
 ac: '39'
 alignment: LE
-all_resistance: null
 burrow_speed: '15'
 charisma: '+5'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Cunning Discernment
@@ -12,14 +10,10 @@ creature_ability:
 - Nimble Dodge
 - Requirement
 - Sneak Attack
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+26'
 hp: '290'
 id: '1718'
-immunity: null
 intelligence: '+3'
 land_speed: '25'
 language:
@@ -31,8 +25,6 @@ name: Skartitch Chip-Tooth
 perception: '+28'
 rarity: Unique
 reflex: '+29'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Small
@@ -53,12 +45,10 @@ source: '[[DATABASE/source/Pathfinder 173. Doorway to the Red Star|Pathfinder #1
 speed:
 - 25 feet
 - burrow 15 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Ratfolk|Ratfolk]]'
@@ -68,7 +58,6 @@ vision: Low-light vision
 weakest_save:
 - Fortitude
 - Will
-weakness: null
 will: '+26'
 wisdom: '+2'
 

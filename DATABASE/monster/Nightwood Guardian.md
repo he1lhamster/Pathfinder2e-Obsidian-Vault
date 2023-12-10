@@ -1,10 +1,6 @@
 ﻿---
 ac: '26'
-alignment: null
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Fire-fueled Rage
@@ -15,15 +11,11 @@ creature_ability:
 - Shield
 - Block
 - Shield Eyes
-creature_family: null
 dexterity: '+3'
 element: Wood
-fly_speed: null
 fortitude: '+21'
-hardness: null
 hp: 200 (flesh of wood)
 id: '2685'
-immunity: null
 intelligence: '+0'
 land_speed: '30'
 language:
@@ -36,9 +28,6 @@ name: Nightwood Guardian
 perception: '+17'
 rarity: Uncommon
 reflex: '+16'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -49,12 +38,10 @@ skill:
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 speed:
 - 30 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Giant|Giant]]'
 - '[[DATABASE/trait/Troll|Troll]]'

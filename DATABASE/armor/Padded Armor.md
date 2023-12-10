@@ -3,7 +3,6 @@ ac: '1'
 armor_category: Light
 armor_group: '[[DATABASE/armorgroup/Cloth|Cloth]]'
 bulk: L
-check_penalty: null
 dex_cap: '+3'
 id: '3'
 item_category: Armor
@@ -12,9 +11,7 @@ level: '0'
 name: Padded Armor
 price: 2 sp
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-speed_penalty: null
 strength: '+10'
 strength_req: '10'
 trait:

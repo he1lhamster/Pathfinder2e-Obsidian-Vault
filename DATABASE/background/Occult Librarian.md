@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Schooled in Secrets|Schooled in Secrets]]'
 id: '235'
 name: Occult Librarian
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Occultism|Occultism]]'
 - Academia [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

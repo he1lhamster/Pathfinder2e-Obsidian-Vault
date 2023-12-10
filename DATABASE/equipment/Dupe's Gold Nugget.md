@@ -1,46 +1,17 @@
 ﻿---
-ac: null
 actions: '[free-action]'
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '1582'
 item_category: Consumables
 item_subcategory: Talismans
-land_speed: null
 level: '5'
-max_speed: null
 name: Dupe's Gold Nugget
-onset: null
 price: 30 gp
-range: null
 rarity: Uncommon
-reflex: null
 requirement: You're an expert with the affixed weapon.
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
-size: null
 source: '[[DATABASE/source/Pathfinder 179. Cradle of Quartz|Pathfinder #179: Cradle
   of Quartz]]'
-spell: null
-stage: null
 subcategory: consumable/talisman
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Consumable|Consumable]]'
 - '[[DATABASE/trait/Magical|Magical]]'
@@ -50,9 +21,6 @@ trait:
 trigger: You hit with a ranged Strike with the affixed weapon
 type: Item
 usage: affixed to a ranged weapon
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Dupe's Gold Nugget<span class="item-type">Item 5</span>

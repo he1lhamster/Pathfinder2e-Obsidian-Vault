@@ -1,10 +1,7 @@
 ﻿---
 ac: '19'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Filth Fever
@@ -13,10 +10,7 @@ creature_ability:
 - Vulnerable to Gentle Repose
 creature_family: '[[DATABASE/monsterfamily/Golem|Golem]]'
 dexterity: '-2'
-element: null
-fly_speed: null
 fortitude: '+13'
-hardness: null
 hp: '60'
 id: '682'
 immunity:
@@ -38,7 +32,6 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '25'
-language: null
 level: '4'
 max_speed: '25'
 name: Carrion Golem
@@ -47,8 +40,6 @@ rarity: Uncommon
 reflex: '+8'
 resistance:
 - physical 5 (except adamantine or slashing)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -57,12 +48,10 @@ skill:
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 25 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Golem|Golem]]'
@@ -72,7 +61,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+10'
 wisdom: '+0'
 

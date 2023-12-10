@@ -1,10 +1,6 @@
 ﻿---
 ac: '23'
-alignment: null
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Electromagnetic Disruption
@@ -18,9 +14,7 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Elemental, Metal|Elemental, Metal]]'
 dexterity: '+3'
 element: Metal
-fly_speed: null
 fortitude: '+14'
-hardness: null
 hp: '95'
 id: '2649'
 immunity:
@@ -30,7 +24,6 @@ immunity:
 - sleep
 intelligence: '+0'
 land_speed: '20'
-language: null
 level: '6'
 max_speed: '20'
 name: Living Lodestone
@@ -39,8 +32,6 @@ rarity: Common
 reflex: '+13'
 resistance:
 - electricity 5
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -49,12 +40,10 @@ skill:
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 speed:
 - 20 feet; hover
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Elemental|Elemental]]'
 - '[[DATABASE/trait/Metal|Metal]]'
@@ -62,7 +51,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+16'
 wisdom: '+4'
 

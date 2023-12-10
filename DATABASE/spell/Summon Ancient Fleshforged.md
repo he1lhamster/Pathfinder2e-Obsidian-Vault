@@ -1,32 +1,18 @@
 ﻿---
 actions: '[three-actions]'
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: until the end of your next turn
-element: null
-heighten: null
 heighten_level: '9'
 id: '1256'
-lesson: null
 level: '9'
-mystery: null
 name: Summon Ancient Fleshforged
-patron_theme: null
 range: 250 feet
 rarity: Rare
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-target: null
 tradition:
 - Arcane
 - Occult
@@ -34,7 +20,6 @@ trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Incarnate|Incarnate]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Spell
 
 ---

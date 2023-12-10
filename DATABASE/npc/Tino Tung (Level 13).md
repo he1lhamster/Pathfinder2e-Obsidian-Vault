@@ -1,10 +1,7 @@
 ﻿---
 ac: '33'
 alignment: LG
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Defiant Shove
@@ -12,14 +9,10 @@ creature_ability:
 - Flurry of Blows
 - Powerful Fists
 - Retributive Strike
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+23'
 hp: '240'
 id: '1483'
-immunity: null
 intelligence: '+0'
 land_speed: '45'
 language:
@@ -33,9 +26,6 @@ name: Tino Tung (Level 13)
 perception: '+23'
 rarity: Unique
 reflex: '+26'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +26'
@@ -54,16 +44,13 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+20'
 wisdom: '+1'
 

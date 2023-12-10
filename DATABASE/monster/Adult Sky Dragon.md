@@ -1,10 +1,7 @@
 ﻿---
 ac: '34'
 alignment: LG
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Breath Weapon
@@ -20,10 +17,8 @@ creature_ability:
 - Perfected Flight
 creature_family: '[[DATABASE/monsterfamily/Dragon, Sky|Dragon, Sky]]'
 dexterity: '+2'
-element: null
 fly_speed: '140'
 fortitude: '+23'
-hardness: null
 hp: '235'
 id: '1129'
 immunity:
@@ -45,9 +40,6 @@ name: Adult Sky Dragon
 perception: '+24'
 rarity: Uncommon
 reflex: '+21'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 60 feet'
@@ -74,7 +66,6 @@ strength: '+7'
 strength_req: '7'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dragon|Dragon]]'
 - '[[DATABASE/trait/Electricity|Electricity]]'
@@ -83,7 +74,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+26'
 wisdom: '+5'
 

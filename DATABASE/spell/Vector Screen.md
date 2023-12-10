@@ -1,38 +1,24 @@
 ﻿---
 actions: '[two-actions]'
 area: one 5-foot square
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: until the start of your next turn
-element: null
 heighten: 5th, 6th
 heighten_level: 3, 5, 6
 id: '1131'
-lesson: null
 level: '3'
-mystery: null
 name: Vector Screen
-patron_theme: null
 range: 60 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-target: null
-tradition: null
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Cantrip|Cantrip]]'
 - '[[DATABASE/trait/Psychic|Psychic]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Cantrip
 
 ---

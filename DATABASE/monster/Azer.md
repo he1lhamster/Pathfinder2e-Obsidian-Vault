@@ -1,21 +1,15 @@
 ﻿---
 ac: '17'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Burning Touch
 - Heat of the Forge
 - Scorch
-creature_family: null
 dexterity: '+1'
 element: Fire
-fly_speed: null
 fortitude: '+10'
-hardness: null
 hp: '45'
 id: '1074'
 immunity:
@@ -31,9 +25,6 @@ name: Azer
 perception: '+8'
 rarity: Common
 reflex: '+5'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -45,12 +36,10 @@ skill:
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 20 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Elemental|Elemental]]'
 - '[[DATABASE/trait/Fire|Fire]]'

@@ -1,8 +1,6 @@
 ﻿---
 ac: '43'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
 climb_speed: '25'
 constitution: '+10'
@@ -17,12 +15,9 @@ creature_ability:
 - Paralytic Secretion
 - Profane Feast
 - Putrid Evanescence
-creature_family: null
 dexterity: '+9'
-element: null
 fly_speed: '20'
 fortitude: '+38'
-hardness: null
 hp: '330'
 id: '1723'
 immunity:
@@ -43,8 +38,6 @@ rarity: Unique
 reflex: '+32'
 resistance:
 - '[[DATABASE/trait/Fire|fire]] 20'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 - fear scent 120 feet

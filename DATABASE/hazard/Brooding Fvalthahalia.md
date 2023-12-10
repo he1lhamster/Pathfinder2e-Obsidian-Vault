@@ -1,28 +1,14 @@
 ﻿---
-ac: null
-all_resistance: null
 complexity: Simple
-element: null
-fortitude: null
-hardness: null
-hazard_type: null
-hp: null
 id: '169'
-immunity: null
 level: '13'
 name: Brooding Fvalthahalia
 rarity: Unique
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Shadows at Sundown|Shadows at Sundown]]'
 trait:
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Brooding Fvalthahalia<span class="item-type">Hazard 13</span>

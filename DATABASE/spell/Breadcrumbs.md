@@ -1,29 +1,16 @@
 ﻿---
-actions: null
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 1 hour
-element: null
 heighten: 2nd, 3rd
 heighten_level: 1, 2, 3
 id: '876'
-lesson: null
 level: '1'
-mystery: null
 name: Breadcrumbs
-patron_theme: null
 range: touch
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 target: 1 willing creature
@@ -35,7 +22,6 @@ tradition:
 - Elemental
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
-trigger: null
 type: Spell
 
 ---

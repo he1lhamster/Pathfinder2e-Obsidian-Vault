@@ -1,20 +1,14 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 frequency: once per round
 id: '546'
 name: Devise a Stratagem
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Fortune|Fortune]]'
 - '[[DATABASE/trait/Investigator|Investigator]]'
-trigger: null
 type: Action
 
 ---

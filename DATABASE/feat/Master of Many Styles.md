@@ -1,20 +1,13 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Master of Many Styles
-frequency: null
-heighten_level: null
 id: '480'
+leads_to: '[[DATABASE/feat/Ki Center|Ki Center]]'
 level: '16'
 name: Master of Many Styles
 prerequisite: '[[DATABASE/feat/Stance Savant (Monk)|Stance Savant (Monk)]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Monk|Monk]]'
 trigger: Your turn begins

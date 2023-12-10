@@ -1,54 +1,15 @@
 ﻿---
-ac: '24'
-actions: null
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: '+21'
-frequency: null
-hands: null
-hardness: '17'
-hp: '68'
+bulk: L
+hands: '1'
 id: '9'
-item_category: Siege Weapons
-item_subcategory: null
-land_speed: null
-level: '10'
-max_speed: null
+item_category: Adventuring Gear
+level: '0'
 name: Caltrops
-onset: null
-price: 2,000 gp
-range: null
-rarity: Uncommon
-reflex: '+16'
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
-school: null
-size: Gargantuan
+price: 3 sp
+rarity: Common
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-spell: null
-stage: null
 subcategory: adventuringgear
-swim_speed: null
-trait:
-- '[[DATABASE/trait/Mounted|Mounted]]'
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
-type: Siege Weapon
-usage: mounted
-weapon_category: null
-weapon_group: null
-weapon_type: null
+type: Item
 
 ---
 # Caltrops<span class="item-type">Item 0</span>

@@ -8,9 +8,7 @@ ability_boost:
 feat: '[[DATABASE/feat/Experienced Tracker|Experienced Tracker]]'
 id: '402'
 name: Osprey Scout
-prerequisite: null
 rarity: Rare
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Survival|Survival]]'
 - Scouting [[DATABASE/skill/Lore|Lore]]

@@ -1,22 +1,15 @@
 ﻿---
 ac: '33'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Ceaseless Shadows
 - Familiar
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+22'
 hp: '240'
 id: '1508'
-immunity: null
 intelligence: '+5'
 land_speed: '25'
 language:
@@ -33,7 +26,6 @@ rarity: Unique
 reflex: '+27'
 resistance:
 - '[[DATABASE/trait/Cold|cold]] 10'
-rus_type_level: null
 sense:
 - '[[DATABASE/ancestry/Halfling|keen eyes]]'
 size: Small
@@ -84,16 +76,13 @@ strength_req: '-1'
 strongest_save:
 - Reflex
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Halfling|Halfling]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+27'
 wisdom: '+5'
 

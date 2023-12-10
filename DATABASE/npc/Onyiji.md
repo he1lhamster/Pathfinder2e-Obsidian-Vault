@@ -1,24 +1,17 @@
 ﻿---
 ac: '26'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Attack of Opportunity
 - Orc Superstition
 - Spellstrike
 - Twisting Tree
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+18'
 hp: '140'
 id: '1680'
-immunity: null
 intelligence: '+4'
 land_speed: '25'
 language:
@@ -29,8 +22,6 @@ name: Onyiji
 perception: '+15'
 rarity: Unique
 reflex: '+14'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -56,7 +47,6 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -66,7 +56,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+16'
 wisdom: '+2'
 

@@ -1,17 +1,8 @@
 ﻿---
-actions: null
-cost: null
-element: null
-frequency: null
 id: '478'
 name: Fortify Camp
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
-trait: null
-trigger: null
 type: Action
 
 ---

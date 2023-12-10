@@ -1,5 +1,4 @@
 ﻿---
-alignment: null
 id: '12'
 land_speed: '25'
 language:
@@ -12,7 +11,6 @@ language:
 max_speed: '25'
 name: Elemental Eidolon
 rarity: Common
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium

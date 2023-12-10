@@ -1,27 +1,14 @@
 ﻿---
 actions: '[reaction]'
-area: null
-bloodline: null
 component:
 - Verbal
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
-heighten: null
 heighten_level: '3'
 id: '1121'
-lesson: null
 level: '3'
-mystery: null
 name: Martyr's Intervention
-patron_theme: null
 range: 60 feet
 rarity: Uncommon
 requirement: You don't have the [[DATABASE/condition/Wounded|wounded]] condition
-rus_type_level: null
-saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
 target: 1 living creature

@@ -1,23 +1,15 @@
 ﻿---
-area: null
 cost: rare incense worth a total value of 300 gp
-duration: null
-element: null
-heighten: null
 heighten_level: '7'
 id: '15'
 level: '7'
 name: Legend Lore
 primary_check: '[[DATABASE/skill/Occultism|Occultism]] (master)'
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Divination
 secondary_casters: '2'
 secondary_check: '[[DATABASE/skill/Performance|Performance]] , [[DATABASE/skill/Society|Society]]'
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 trait:
 - '[[DATABASE/trait/Divination|Divination]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

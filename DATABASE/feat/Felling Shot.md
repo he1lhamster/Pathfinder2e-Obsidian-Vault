@@ -1,23 +1,13 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Felling Shot
-frequency: null
-heighten_level: null
 id: '584'
 level: '12'
 name: Felling Shot
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Rogue|Rogue]]'
-trigger: null
 type: Feat
 
 ---

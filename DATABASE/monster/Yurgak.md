@@ -1,10 +1,8 @@
 ﻿---
 ac: '36'
 alignment: CE
-all_resistance: null
 burrow_speed: '5'
 charisma: '+6'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Consume Flesh
@@ -12,12 +10,8 @@ creature_ability:
 - Paralysis
 - Recall Memory
 - Swift Leap
-creature_family: null
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+24'
-hardness: null
 hp: 240 ( negative healing )
 id: '2146'
 immunity:
@@ -39,9 +33,6 @@ name: Yurgak
 perception: '+29'
 rarity: Unique
 reflex: '+25'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -93,7 +84,6 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Ghoul|Ghoul]]'
 - '[[DATABASE/trait/Undead|Undead]]'
@@ -102,7 +92,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+28'
 wisdom: '+8'
 

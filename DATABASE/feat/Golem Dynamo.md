@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Golem Dynamo
-frequency: null
-heighten_level: null
 id: '3132'
 level: '12'
 name: Golem Dynamo
 prerequisite: '[[DATABASE/feat/Sterling Dynamo Dedication|Sterling Dynamo Dedication]]'
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

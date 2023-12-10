@@ -1,24 +1,15 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Shatter Defenses
-frequency: null
-heighten_level: null
 id: '385'
 level: '6'
 name: Shatter Defenses
-prerequisite: null
 rarity: Common
 requirement: A frightened creature is in your melee reach.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fighter|Fighter]]'
 - '[[DATABASE/trait/Press|Press]]'
-trigger: null
 type: Feat
 
 ---

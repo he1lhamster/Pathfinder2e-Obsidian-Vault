@@ -1,8 +1,6 @@
 ﻿---
 ac: '16'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
 climb_speed: '15'
 constitution: '+2'
@@ -11,10 +9,7 @@ creature_ability:
 - Scrabbling Swarm
 creature_family: '[[DATABASE/monsterfamily/Squirrel|Squirrel]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+5'
-hardness: null
 hp: '16'
 id: '1325'
 immunity:
@@ -22,7 +17,6 @@ immunity:
 - '[[DATABASE/monsterability/Swarm Mind|swarm mind]]'
 intelligence: '-4'
 land_speed: '25'
-language: null
 level: '1'
 max_speed: '25'
 name: Squirrel Swarm
@@ -32,8 +26,6 @@ reflex: '+8'
 resistance:
 - piercing 3
 - slashing 3
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -46,12 +38,10 @@ source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 25 feet
 - climb 15 feet
-spell: null
 strength: '-1'
 strength_req: '-1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 - '[[DATABASE/trait/Swarm|Swarm]]'

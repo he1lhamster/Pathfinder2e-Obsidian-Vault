@@ -3,9 +3,7 @@ creature_family: Biloko
 id: '108'
 name: Biloko
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
-trait: null
 type: Creature Family
 
 ---

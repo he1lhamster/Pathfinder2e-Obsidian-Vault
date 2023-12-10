@@ -1,10 +1,7 @@
 ﻿---
 ac: '34'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Ageless
@@ -13,14 +10,10 @@ creature_ability:
 - Guarded Movement
 - Sneak Attack
 - Thousand Ants Stance
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+21'
 hp: '235'
 id: '1719'
-immunity: null
 intelligence: '+3'
 land_speed: '30'
 language:
@@ -33,9 +26,6 @@ name: Crimson Acolyte
 perception: '+23'
 rarity: Rare
 reflex: '+25'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +24'
@@ -46,21 +36,17 @@ source: '[[DATABASE/source/Pathfinder 173. Doorway to the Red Star|Pathfinder #1
   Doorway to the Red Star]]'
 speed:
 - 30 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+23'
 wisdom: '+4'
 

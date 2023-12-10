@@ -1,10 +1,8 @@
 ﻿---
 ac: '42'
 alignment: LE
-all_resistance: null
 burrow_speed: '30'
 charisma: '+7'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Breath Weapon
@@ -19,10 +17,8 @@ creature_ability:
 - Wing Deflection
 creature_family: '[[DATABASE/monsterfamily/Dragon, Blue|Dragon, Blue]]'
 dexterity: '+4'
-element: null
 fly_speed: '200'
 fortitude: '+32'
-hardness: null
 hp: '370'
 id: '132'
 immunity:
@@ -44,9 +40,6 @@ name: Ancient Blue Dragon
 perception: '+31'
 rarity: Uncommon
 reflex: '+30'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - scent (imprecise) 60 feet
@@ -77,7 +70,6 @@ strength: '+7'
 strength_req: '7'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dragon|Dragon]]'
 - '[[DATABASE/trait/Electricity|Electricity]]'
@@ -86,7 +78,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+33'
 wisdom: '+5'
 

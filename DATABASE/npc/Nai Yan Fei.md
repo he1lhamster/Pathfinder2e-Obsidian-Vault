@@ -1,24 +1,17 @@
 ﻿---
 ac: '44'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Debilitating Strike
 - Master Strike
 - Quick Change
 - Sneak Attack
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+32'
 hp: '375'
 id: '1478'
-immunity: null
 intelligence: '+7'
 land_speed: '25'
 language:
@@ -34,9 +27,6 @@ name: Nai Yan Fei
 perception: '+36'
 rarity: Unique
 reflex: '+34'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +37'
@@ -57,21 +47,17 @@ source: '[[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #
   Despair on Danger Island]]'
 speed:
 - 25 feet
-spell: null
 strength: '+1'
 strength_req: '1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+33'
 wisdom: '+3'
 

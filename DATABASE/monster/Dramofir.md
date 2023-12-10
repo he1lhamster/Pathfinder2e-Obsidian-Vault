@@ -1,21 +1,15 @@
 ﻿---
 ac: '35'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+7'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Bittersweet Dreams
 - Pluck Dream
 - Surreal Anatomy
-creature_family: null
 dexterity: '+6'
-element: null
 fly_speed: '25'
 fortitude: '+22'
-hardness: null
 hp: '290'
 id: '1138'
 immunity:
@@ -32,8 +26,6 @@ rarity: Uncommon
 reflex: '+26'
 resistance:
 - surreal anatomy
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 size: Large
@@ -60,7 +52,6 @@ strength: '+3'
 strength_req: '3'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Dream|Dream]]'

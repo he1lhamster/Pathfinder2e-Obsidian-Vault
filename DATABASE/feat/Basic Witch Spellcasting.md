@@ -1,23 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Basic Witch Spellcasting
-frequency: null
-heighten_level: null
 id: '1867'
+leads_to: '[[DATABASE/feat/Expert Witch Spellcasting|Expert Witch Spellcasting]] ,
+  [[DATABASE/feat/Patron''s Breadth|Patron''s Breadth]]'
 level: '4'
 name: Basic Witch Spellcasting
 prerequisite: '[[DATABASE/feat/Witch Dedication|Witch Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

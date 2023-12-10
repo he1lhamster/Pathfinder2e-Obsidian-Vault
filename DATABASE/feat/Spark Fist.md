@@ -1,26 +1,19 @@
 ﻿---
 actions: '[one-action]'
-cost: null
 element: Fire
 feat: Spark Fist
 frequency: once per minute
-heighten_level: null
 id: '3286'
 level: '5'
 name: Spark Fist
 prerequisite: Expert in [[DATABASE/skill/Crafting|Crafting]]
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Dwarf|Dwarf]]'
 - '[[DATABASE/trait/Fire|Fire]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

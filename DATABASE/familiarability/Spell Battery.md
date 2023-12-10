@@ -1,14 +1,9 @@
 ﻿---
 ability_type: Master
-actions: null
-frequency: null
 id: '17'
 name: Spell Battery
 rarity: Common
-requirement: null
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Familiar Ability
 
 ---

@@ -1,22 +1,15 @@
 ﻿---
 ac: '17'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Body Slam
 - Deep Breath
 - Noxious Breath
 - Reactive Breath
-creature_family: null
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+12'
-hardness: null
 hp: '35'
 id: '435'
 immunity:
@@ -32,9 +25,6 @@ name: Grauladon
 perception: '+7'
 rarity: Uncommon
 reflex: '+6'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - scent (imprecise) 30 feet
@@ -48,7 +38,6 @@ source: '[[DATABASE/source/Pathfinder 145. Hellknight Hill|Pathfinder #145: Hell
 speed:
 - 20 feet
 - swim 30 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
@@ -61,7 +50,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+7'
 wisdom: '+1'
 

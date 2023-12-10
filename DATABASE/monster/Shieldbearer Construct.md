@@ -1,22 +1,15 @@
 ﻿---
 ac: '17'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Attack of Opportunity
 - Critical Vulnerability
 - Ridden Construct
 - Shield Block
-creature_family: null
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+11'
-hardness: null
 hp: '30'
 id: '1602'
 immunity:
@@ -35,16 +28,12 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '20'
-language: null
 level: '2'
 max_speed: '20'
 name: Shieldbearer Construct
 perception: '+6'
 rarity: Rare
 reflex: '+7'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Large
@@ -54,12 +43,10 @@ source: '[[DATABASE/source/Pathfinder 169. Kindled Magic|Pathfinder #169: Kindle
   Magic]]'
 speed:
 - 20 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Mindless|Mindless]]'

@@ -1,23 +1,16 @@
 ﻿---
 ac: '20'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Knife Jab
 - Sneak Attack
 - Surprise Attack
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+7'
 hp: '45'
 id: '1630'
-immunity: null
 intelligence: '+1'
 land_speed: '30'
 language:
@@ -29,8 +22,6 @@ name: Kiru
 perception: '+9'
 rarity: Unique
 reflex: '+11'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
@@ -44,12 +35,10 @@ source: '[[DATABASE/source/Pathfinder 170. Spoken on the Song Wind|Pathfinder #1
   Spoken on the Song Wind]]'
 speed:
 - 30 feet
-spell: null
 strength: '+1'
 strength_req: '1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -58,7 +47,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+9'
 wisdom: '+2'
 

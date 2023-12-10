@@ -1,10 +1,5 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Master Sorcerer Spellcasting
-frequency: null
-heighten_level: null
 id: '741'
 level: '18'
 name: Master Sorcerer Spellcasting
@@ -13,14 +8,9 @@ prerequisite: '[[DATABASE/feat/Expert Sorcerer Spellcasting|Expert Sorcerer Spel
   , [[DATABASE/skill/Occultism|Occultism]] , or [[DATABASE/skill/Religion|Religion]]
   , depending on bloodline'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

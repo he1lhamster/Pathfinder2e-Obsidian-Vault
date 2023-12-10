@@ -1,38 +1,22 @@
 ﻿---
-actions: null
-area: null
 bloodline: '[[DATABASE/sorcererbloodline/Harrow|Harrow]]'
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: until your next daily preparations
-element: null
-heighten: null
 heighten_level: '3'
 id: '368'
-lesson: null
 level: '3'
-mystery: null
 name: Wanderer's Guide
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Divine
 - Occult
 trait:
 - '[[DATABASE/trait/Divination|Divination]]'
-trigger: null
 type: Spell
 
 ---

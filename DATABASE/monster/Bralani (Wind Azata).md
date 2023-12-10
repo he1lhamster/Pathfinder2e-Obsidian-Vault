@@ -1,10 +1,7 @@
 ﻿---
 ac: '24'
 alignment: CG
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Fair Competition
@@ -12,13 +9,10 @@ creature_ability:
 - Wind Form
 creature_family: '[[DATABASE/monsterfamily/Azata|Azata]]'
 dexterity: '+5'
-element: null
 fly_speed: '80'
 fortitude: '+13'
-hardness: null
 hp: '120'
 id: '559'
-immunity: null
 intelligence: '+2'
 land_speed: '30'
 language:
@@ -33,8 +27,6 @@ rarity: Common
 reflex: '+17'
 resistance:
 - electricity 10
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -60,7 +52,6 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Azata|Azata]]'
 - '[[DATABASE/trait/Celestial|Celestial]]'

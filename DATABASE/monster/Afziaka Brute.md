@@ -1,10 +1,7 @@
 ﻿---
 ac: '23'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '-3'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Grave-Bound Guts
@@ -12,10 +9,7 @@ creature_ability:
 - Trample
 creature_family: '[[DATABASE/monsterfamily/Afziaka|Afziaka]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+16'
-hardness: null
 hp: '120'
 id: '2359'
 immunity:
@@ -23,16 +17,12 @@ immunity:
 - '[[DATABASE/trait/Mental|mental]]'
 intelligence: '-5'
 land_speed: '40'
-language: null
 level: '6'
 max_speed: '40'
 name: Afziaka Brute
 perception: '+12'
 rarity: Uncommon
 reflex: '+14'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -44,12 +34,10 @@ source: '[[DATABASE/source/Pathfinder 185. A Taste of Ashes|Pathfinder #185: A T
   of Ashes]]'
 speed:
 - 40 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 - '[[DATABASE/trait/Mindless|Mindless]]'
@@ -58,7 +46,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+12'
 wisdom: '+2'
 

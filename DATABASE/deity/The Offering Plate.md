@@ -30,11 +30,9 @@ follower_alignment:
 id: '254'
 name: The Offering Plate
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Society|Society]]'
 source: '[[DATABASE/source/Travel Guide|Travel Guide]]'
-trait: null
 type: Deity
 
 ---

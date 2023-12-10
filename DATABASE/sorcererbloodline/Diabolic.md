@@ -3,7 +3,6 @@ bloodline: Diabolic
 id: '4'
 name: Diabolic
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 spell:
 - '[[DATABASE/spell/Charm|Charm]]'
@@ -19,7 +18,6 @@ spell:
 - '[[DATABASE/spell/Produce Flame|Produce Flame]]'
 - '[[DATABASE/spell/Suggestion|Suggestion]]'
 - '[[DATABASE/spell/True Seeing|True Seeing]]'
-trait: null
 type: Sorcerer Bloodline
 
 ---

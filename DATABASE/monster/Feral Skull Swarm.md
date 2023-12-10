@@ -1,10 +1,7 @@
 ﻿---
 ac: '32'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Boneshard Burst
@@ -13,10 +10,7 @@ creature_ability:
 - Frightening Howl
 creature_family: '[[DATABASE/monsterfamily/Skull Swarm|Skull Swarm]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+25'
-hardness: null
 hp: 160 ( negative healing )
 id: '1308'
 immunity:
@@ -29,7 +23,6 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '40'
-language: null
 level: '12'
 max_speed: '40'
 name: Feral Skull Swarm
@@ -43,8 +36,6 @@ resistance:
 - fire 10
 - piercing 10
 - slashing 10
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -55,12 +46,10 @@ skill:
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 40 feet
-spell: null
 strength: '+0'
 strength_req: '0'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Mindless|Mindless]]'
 - '[[DATABASE/trait/Swarm|Swarm]]'

@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Determined Lore Seeker
-frequency: null
-heighten_level: null
 id: '2239'
 level: '12'
 name: Determined Lore Seeker
 prerequisite: '[[DATABASE/feat/Lore Seeker|Lore Seeker]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

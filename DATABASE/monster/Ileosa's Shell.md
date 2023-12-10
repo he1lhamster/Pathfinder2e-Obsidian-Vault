@@ -1,20 +1,13 @@
 ﻿---
 ac: '34'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Blood Feast
 - Escape From Hell
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+22'
-hardness: null
 hp: 235 ( negative healing )
 id: '1963'
 immunity:
@@ -42,8 +35,6 @@ rarity: Unique
 reflex: '+26'
 resistance:
 - physical 10 (except [[DATABASE/equipment/Silver Weapon|silver]] )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 size: Medium
@@ -53,12 +44,10 @@ skill:
 source: '[[DATABASE/source/Shadows at Sundown|Shadows at Sundown]]'
 speed:
 - 25 feet
-spell: null
 strength: '+8'
 strength_req: '8'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Undead|Undead]]'
 - '[[DATABASE/trait/Unique|Unique]]'

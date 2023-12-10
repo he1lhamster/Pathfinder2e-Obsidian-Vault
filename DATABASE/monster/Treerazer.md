@@ -1,10 +1,7 @@
 ﻿---
 ac: '54'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+8'
-climb_speed: null
 constitution: '+11'
 creature_ability:
 - Attack of Opportunity
@@ -12,12 +9,9 @@ creature_ability:
 - Defoliation
 - Dispelling Strike
 - Staggering Strike
-creature_family: null
 dexterity: '+9'
-element: null
 fly_speed: '60'
 fortitude: '+42'
-hardness: null
 hp: '550'
 id: '394'
 immunity:
@@ -43,8 +37,6 @@ resistance:
 - cold 15
 - fire 15
 - physical 20 (except cold iron)
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - '[[DATABASE/spell/True Seeing|true seeing]]'

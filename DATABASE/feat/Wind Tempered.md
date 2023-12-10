@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Wind Tempered
-frequency: null
-heighten_level: null
 id: '2595'
 level: '1'
 name: Wind Tempered
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Sylph|Sylph]]'
-trigger: null
 type: Feat
 
 ---

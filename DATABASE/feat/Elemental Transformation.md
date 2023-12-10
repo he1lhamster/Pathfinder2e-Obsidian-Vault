@@ -1,25 +1,18 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Elemental Transformation
 frequency: once per day
-heighten_level: null
 id: '4198'
 level: '10'
 name: Elemental Transformation
 prerequisite: exactly one kinetic element
 rarity: Common
 requirement: Your kinetic gate is deactivated.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Kineticist|Kineticist]]'
 - '[[DATABASE/trait/Polymorph|Polymorph]]'
 - '[[DATABASE/trait/Primal|Primal]]'
-trigger: null
 type: Feat
 
 ---

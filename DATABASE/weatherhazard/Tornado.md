@@ -5,7 +5,6 @@ level: '12'
 name: Tornado
 rarity: Common
 requirement: The PCs are in a hex that contains no significant hills or mountains.
-rus_type_level: null
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
 trait:
 - '[[DATABASE/trait/Weather|Weather]]'

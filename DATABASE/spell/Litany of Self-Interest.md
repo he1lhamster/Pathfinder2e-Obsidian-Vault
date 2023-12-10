@@ -1,31 +1,19 @@
 ﻿---
 actions: '[one-action]'
-area: null
-bloodline: null
 component:
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 1 round
-element: null
 heighten: 8th
 heighten_level: 5, 8
 id: '735'
-lesson: null
 level: '5'
-mystery: null
 name: Litany of Self-Interest
-patron_theme: null
 range: 30 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 saving_throw: Will
 school: Enchantment
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 target: 1 creature
-tradition: null
 trait:
 - '[[DATABASE/trait/Champion|Champion]]'
 - '[[DATABASE/trait/Enchantment|Enchantment]]'
@@ -33,7 +21,6 @@ trait:
 - '[[DATABASE/trait/Litany|Litany]]'
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Focus
 
 ---

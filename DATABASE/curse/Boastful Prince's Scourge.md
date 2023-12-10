@@ -1,10 +1,8 @@
 ﻿---
-element: null
 id: '34'
 level: '7'
 name: Boastful Prince's Scourge
 rarity: Rare
-rus_type_level: null
 saving_throw: DC 23 Will
 school: Transmutation
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
@@ -15,7 +13,6 @@ trait:
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
 type: Curse
-usage: null
 
 ---
 # Boastful Prince's Scourge<span class="item-type">Curse 7</span>

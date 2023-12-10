@@ -1,8 +1,6 @@
 ﻿---
 ac: '15'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
 climb_speed: '20'
 constitution: '+0'
@@ -11,25 +9,17 @@ creature_ability:
 - Viper Venom
 creature_family: '[[DATABASE/monsterfamily/Snake|Snake]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+2'
-hardness: null
 hp: '8'
 id: '379'
-immunity: null
 intelligence: '-4'
 land_speed: '20'
-language: null
 level: '-1'
 max_speed: '20'
 name: Viper
 perception: '+5'
 rarity: Common
 reflex: '+7'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 - scent (imprecise) 30 feet
@@ -44,7 +34,6 @@ speed:
 - 20 feet
 - climb 20 feet
 - swim 20 feet
-spell: null
 strength: '-3'
 strength_req: '-3'
 strongest_save:
@@ -56,7 +45,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+5'
 wisdom: '+1'
 

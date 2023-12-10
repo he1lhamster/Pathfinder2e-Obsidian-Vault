@@ -1,24 +1,17 @@
 ﻿---
 ac: '25'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Bully's Push
 - Efficient Capture
 - Pack Attack
 - Rock Dwarf
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+18'
 hp: '120'
 id: '1551'
-immunity: null
 intelligence: '+0'
 land_speed: '20'
 language:
@@ -30,8 +23,6 @@ name: Scarlet Triad Thug
 perception: '+13'
 rarity: Uncommon
 reflex: '+12'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -45,12 +36,10 @@ source: '[[DATABASE/source/Pathfinder 147. Tomorrow Must Burn|Pathfinder #147: T
   Must Burn]]'
 speed:
 - 20 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dwarf|Dwarf]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -59,7 +48,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+15'
 wisdom: '+2'
 

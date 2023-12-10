@@ -2,7 +2,6 @@
 id: '68'
 name: Fear
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - Fear

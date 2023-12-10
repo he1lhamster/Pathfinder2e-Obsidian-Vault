@@ -1,10 +1,7 @@
 ﻿---
 ac: '36'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Evasion
@@ -15,15 +12,10 @@ creature_ability:
 - Outside of Time
 - ''
 - Temporal Strikes
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+23'
-hardness: null
 hp: '255'
 id: '2340'
-immunity: null
 intelligence: '+0'
 land_speed: '40'
 language:
@@ -37,8 +29,6 @@ rarity: Rare
 reflex: '+28'
 resistance:
 - mental 10
-rus_type_level: null
-school: null
 sense:
 - unseen sight
 size: Medium
@@ -52,21 +42,17 @@ skill:
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 speed:
 - 40 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+25'
 wisdom: '+4'
 

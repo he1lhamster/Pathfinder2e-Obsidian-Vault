@@ -1,26 +1,20 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Liberate Soul
 frequency: once per hour
-heighten_level: null
 id: '3469'
 level: '6'
 name: Liberate Soul
 prerequisite: '[[DATABASE/feat/Soul Warden Dedication|Soul Warden Dedication]]'
 rarity: Common
 requirement: Your spiral is glowing.
-rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Divine|Divine]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
-trigger: null
 type: Feat
 
 ---

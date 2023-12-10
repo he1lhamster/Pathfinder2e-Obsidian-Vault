@@ -1,8 +1,6 @@
 ﻿---
 bulk: '1'
 damage: 1d6 P
-deity: null
-favored_weapon: null
 hands: '2'
 id: '198'
 item_category: Weapons
@@ -12,7 +10,6 @@ name: Double-barreled Musket
 price: 11 gp
 range: 60 ft.
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:
 - '[[DATABASE/trait/Concussive|Concussive]]'

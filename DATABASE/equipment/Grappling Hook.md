@@ -1,53 +1,15 @@
 ﻿---
-ac: '14'
-actions: null
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: '10'
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: '+9'
-frequency: null
-hands: null
-hardness: '5'
-hp: '42'
+bulk: L
+hands: '1'
 id: '23'
-item_category: Vehicles
-item_subcategory: null
-land_speed: '20'
-level: '3'
-max_speed: '20'
+item_category: Adventuring Gear
+level: '0'
 name: Grappling Hook
-onset: null
-price: 155 gp
-range: null
-rarity: Uncommon
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
-school: null
-size: Large
+price: 1 sp
+rarity: Common
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-spell: null
-stage: null
 subcategory: adventuringgear
-swim_speed: null
-trait:
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
-type: Vehicle
-usage: null
-weapon_category: null
-weapon_group: null
-weapon_type: null
+type: Item
 
 ---
 # Grappling Hook<span class="item-type">Item 0</span>

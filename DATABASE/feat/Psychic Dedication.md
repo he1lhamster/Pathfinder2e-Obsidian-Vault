@@ -1,25 +1,18 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Psychic Dedication
-frequency: null
-heighten_level: null
 id: '3736'
+leads_to: '[[DATABASE/feat/Basic Psychic Spellcasting|Basic Psychic Spellcasting]]
+  , [[DATABASE/feat/Basic Thoughtform|Basic Thoughtform]] , [[DATABASE/feat/Psi Development|Psi
+  Development]]'
 level: '2'
 name: Psychic Dedication
 prerequisite: Intelligence 14 or Charisma 14
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Multiclass|Multiclass]]'
-trigger: null
 type: Feat
 
 ---

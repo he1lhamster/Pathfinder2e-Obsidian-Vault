@@ -1,22 +1,14 @@
 ﻿---
 ac: '16'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Baffling Bluff
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+4'
-hardness: null
 hp: '25'
 id: '575'
-immunity: null
 intelligence: '+2'
 land_speed: '20'
 language:
@@ -30,9 +22,6 @@ name: Brownie
 perception: '+7'
 rarity: Common
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Tiny
@@ -55,7 +44,6 @@ strength_req: '-2'
 strongest_save:
 - Reflex
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 type: Creature

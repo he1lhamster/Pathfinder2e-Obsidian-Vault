@@ -1,10 +1,7 @@
 ﻿---
 ac: '33'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Atrophied Lich
@@ -17,12 +14,8 @@ creature_ability:
 - Frightful Presence
 - Paralyzing Touch
 - Steady Spellcasting
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+23'
-hardness: null
 hp: 200 ( negative healing )
 id: '2200'
 immunity:
@@ -47,8 +40,6 @@ reflex: '+20'
 resistance:
 - '[[DATABASE/trait/Cold|cold]] 10'
 - physical 10 (except [[DATABASE/trait/Magical|magical]] bludgeoning)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/spell/True Seeing|true seeing]]'
@@ -93,7 +84,6 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Undead|Undead]]'
 - '[[DATABASE/trait/Unique|Unique]]'
@@ -101,7 +91,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+25'
 wisdom: '+5'
 

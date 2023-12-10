@@ -1,27 +1,14 @@
 ﻿---
 actions: '[reaction]'
-area: null
-bloodline: null
 component:
 - Somatic
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
 heighten: '+1'
 heighten_level: 6, 7, 8, 9, 10
 id: '713'
-lesson: null
 level: '6'
-mystery: null
 name: Scintillating Safeguard
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 target: up to 5 willing creatures who would be harmed by the triggering effect

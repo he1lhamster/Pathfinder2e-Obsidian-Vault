@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Fast Channel
-frequency: null
-heighten_level: null
 id: '300'
 level: '14'
 name: Fast Channel
 prerequisite: '[[DATABASE/class_/Cleric|harmful font or healing font]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Cleric|Cleric]]'
-trigger: null
 type: Feat
 
 ---

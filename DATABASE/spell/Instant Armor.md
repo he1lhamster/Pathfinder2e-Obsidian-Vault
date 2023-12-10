@@ -1,32 +1,17 @@
 ﻿---
-actions: null
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 24 hours
 element: Metal
-heighten: null
 heighten_level: '2'
 id: '935'
-lesson: null
 level: '2'
-mystery: null
 name: Instant Armor
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-target: null
 tradition:
 - Arcane
 - Divine
@@ -37,7 +22,6 @@ trait:
 - '[[DATABASE/trait/Contingency|Contingency]]'
 - '[[DATABASE/trait/Extradimensional|Extradimensional]]'
 - '[[DATABASE/trait/Metal|Metal]]'
-trigger: null
 type: Spell
 
 ---

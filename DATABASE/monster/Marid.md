@@ -1,10 +1,7 @@
 ﻿---
 ac: '28'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Change Shape
@@ -14,12 +11,9 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Genie|Genie]]'
 dexterity: '+5'
 element: Water
-fly_speed: null
 fortitude: '+18'
-hardness: null
 hp: '145'
 id: '215'
-immunity: null
 intelligence: '+1'
 land_speed: '20'
 language:
@@ -33,8 +27,6 @@ rarity: Uncommon
 reflex: '+21'
 resistance:
 - fire 10
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - '[[DATABASE/spell/Detect Alignment|detect alignment]]'
@@ -78,7 +70,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+17'
 wisdom: '+3'
 

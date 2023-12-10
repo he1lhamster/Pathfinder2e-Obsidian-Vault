@@ -1,37 +1,8 @@
 ﻿---
-actions: '[two-actions]'
-area: null
-bloodline: null
-component:
-- Somatic
-- Verbal
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
-heighten: null
-heighten_level: '1'
-id: '698'
-lesson: null
-level: '1'
-mystery: null
+id: '551'
 name: Imprint Message
-patron_theme: null
-range: touch
-rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
-school: Divination
-source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-target: 1 object
-tradition:
-- Occult
-trait:
-- '[[DATABASE/trait/Divination|Divination]]'
-trigger: null
-type: Spell
+source: '[[DATABASE/source/Pathfinder 147. Tomorrow Must Burn|Pathfinder #147: Tomorrow
+  Must Burn]]'
 
 ---
 # Imprint Message<span class="item-type">Spell 1</span>

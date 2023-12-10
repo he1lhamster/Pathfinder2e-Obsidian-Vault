@@ -2,7 +2,6 @@
 id: '54'
 name: Dwarf
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - Dwarf

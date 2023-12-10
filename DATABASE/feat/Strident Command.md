@@ -1,10 +1,5 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Strident Command
-frequency: null
-heighten_level: null
 id: '3337'
 level: '10'
 name: Strident Command
@@ -12,14 +7,9 @@ prerequisite: Master in [[DATABASE/skill/Intimidation|Intimidation]] ; [[DATABAS
   Dedication|Vigilante Dedication]] ; [[DATABASE/feat/Voice of Authority|Voice ofAuthority]]
   ; member of the Gray Gardeners
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Night of the Gray Death|Night of the Gray Death]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

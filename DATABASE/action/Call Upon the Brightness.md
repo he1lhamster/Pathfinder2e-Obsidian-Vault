@@ -1,16 +1,9 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
-frequency: null
 id: '320'
 name: Call Upon the Brightness
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-trait: null
 trigger: "You attempt an attack roll, skill check, or saving throw while performing\
   \ the course of action fromyouraugury, but you haven\u2019t rolled yet"
 type: Action

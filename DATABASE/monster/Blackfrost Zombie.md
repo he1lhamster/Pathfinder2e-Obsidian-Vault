@@ -1,8 +1,6 @@
 ﻿---
 ac: '23'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
 climb_speed: '20'
 constitution: '+4'
@@ -11,10 +9,7 @@ creature_ability:
 - Opportune Bite
 creature_family: '[[DATABASE/monsterfamily/Blackfrost Dead|Blackfrost Dead]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+16'
-hardness: null
 hp: 120 ( negative healing )
 id: '2497'
 immunity:
@@ -27,16 +22,12 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '20'
-language: null
 level: '6'
 max_speed: '20'
 name: Blackfrost Zombie
 perception: '+10'
 rarity: Rare
 reflex: '+12'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -46,12 +37,10 @@ source: '[[DATABASE/source/Pathfinder 189. Dreamers of the Nameless Spires|Pathf
   #189: Dreamers of the Nameless Spires]]'
 speed:
 - 20 feet; ice climb 20 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Cold|Cold]]'
 - '[[DATABASE/trait/Mindless|Mindless]]'

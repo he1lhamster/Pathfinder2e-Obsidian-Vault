@@ -1,10 +1,7 @@
 ﻿---
 ac: '46'
 alignment: LG
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Boundless Reprisals
@@ -12,14 +9,10 @@ creature_ability:
 - Paragon's Guard Stance
 - Shield Block
 - Weapon Supremacy
-creature_family: null
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+36'
 hp: '375'
 id: '1598'
-immunity: null
 intelligence: '+3'
 land_speed: '30'
 language:
@@ -31,9 +24,6 @@ name: Inizra Arumelo
 perception: '+36'
 rarity: Unique
 reflex: '+33'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Arcana|Arcana]] +32'
@@ -46,21 +36,17 @@ source: '[[DATABASE/source/Pathfinder 150. Broken Promises|Pathfinder #150: Brok
   Promises]]'
 speed:
 - 30 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+31'
 wisdom: '+2'
 

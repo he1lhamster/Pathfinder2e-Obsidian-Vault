@@ -1,23 +1,16 @@
 ﻿---
 ac: '36'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Dual Abuse
 - Efficient Capture
 - Stunning Retort
-creature_family: null
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+30'
 hp: '275'
 id: '1579'
-immunity: null
 intelligence: '+3'
 land_speed: '25'
 language:
@@ -29,9 +22,6 @@ name: Scarlet Triad Enforcer
 perception: '+25'
 rarity: Rare
 reflex: '+26'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +30'
@@ -43,21 +33,17 @@ source: '[[DATABASE/source/Pathfinder 149. Against the Scarlet Triad|Pathfinder 
   Against the Scarlet Triad]]'
 speed:
 - 25 feet
-spell: null
 strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+24'
 wisdom: '+4'
 

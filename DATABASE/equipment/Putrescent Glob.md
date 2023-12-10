@@ -1,45 +1,16 @@
 ﻿---
-ac: null
 actions: '[free-action]'
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '790'
 item_category: Consumables
 item_subcategory: Talismans
-land_speed: null
 level: '7'
-max_speed: null
 name: Putrescent Glob
-onset: null
 price: 65 gp
-range: null
 rarity: Uncommon
-reflex: null
 requirement: You are an expert with the affixed weapon.
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Conjuration
-size: null
 source: '[[DATABASE/source/The Slithering|The Slithering]]'
-spell: null
-stage: null
 subcategory: consumable/talisman
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Consumable|Consumable]]'
@@ -50,9 +21,6 @@ trigger: You damage a creature that is [[DATABASE/condition/Sickened|sickened 1]
   with a Strikeusing the affixed weapon
 type: Item
 usage: affixed to a weapon
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Putrescent Glob<span class="item-type">Item 7</span>

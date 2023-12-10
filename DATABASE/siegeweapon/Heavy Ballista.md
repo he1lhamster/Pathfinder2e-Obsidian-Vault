@@ -1,6 +1,5 @@
 ﻿---
 ac: '22'
-bulk: null
 fortitude: '+18'
 hardness: '15'
 hp: '80'
@@ -13,7 +12,6 @@ name: Heavy Ballista
 price: 900 gp
 rarity: Uncommon
 reflex: '+12'
-rus_type_level: null
 size: Huge
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:

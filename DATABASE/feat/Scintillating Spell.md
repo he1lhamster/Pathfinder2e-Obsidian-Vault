@@ -1,26 +1,16 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Scintillating Spell
-frequency: null
-heighten_level: null
 id: '1829'
 level: '16'
 name: Scintillating Spell
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Light|Light]]'
 - '[[DATABASE/trait/Metamagic|Metamagic]]'
 - '[[DATABASE/trait/Sorcerer|Sorcerer]]'
-trigger: null
 type: Feat
 
 ---

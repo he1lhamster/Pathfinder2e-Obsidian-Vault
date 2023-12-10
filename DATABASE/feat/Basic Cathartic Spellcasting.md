@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Basic Cathartic Spellcasting
-frequency: null
-heighten_level: null
 id: '2964'
+leads_to: '[[DATABASE/feat/Expert Cathartic Spellcasting|Expert Cathartic Spellcasting]]'
 level: '4'
 name: Basic Cathartic Spellcasting
 prerequisite: '[[DATABASE/feat/Cathartic Mage Dedication|Cathartic Mage Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

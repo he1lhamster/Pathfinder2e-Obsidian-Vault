@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Virtue-Forged Tattoos
-frequency: null
-heighten_level: null
 id: '956'
 level: '9'
 name: Virtue-Forged Tattoos
 prerequisite: '[[DATABASE/feat/Ornate Tattoo|Ornate Tattoo]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,8 +1,6 @@
 ﻿---
 ac: '30'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+20'
 hardness: 12 Channel Hardness
 hazard_type: Trap
@@ -18,17 +16,12 @@ level: '10'
 name: Lava Flume Tubes
 rarity: Common
 reflex: '+16'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Complex|Complex]]'
 - '[[DATABASE/trait/Mechanical|Mechanical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Lava Flume Tubes<span class="item-type">Hazard 10</span>

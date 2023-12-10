@@ -1,20 +1,11 @@
 ﻿---
-ac: null
-all_resistance: null
 complexity: Simple
 element: Fire
-fortitude: null
-hardness: null
 hazard_type: Environmental
-hp: null
 id: '61'
-immunity: null
 level: '21'
 name: Mogaru's Breath
 rarity: Common
-reflex: null
-resistance: null
-rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Pathfinder 167. Ready Fight!|Pathfinder #167: Ready? Fight!]]'
 trait:
@@ -24,8 +15,6 @@ trait:
 - '[[DATABASE/trait/Kaiju|Kaiju]]'
 - '[[DATABASE/trait/Primal|Primal]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Mogaru's Breath<span class="item-type">Hazard 21</span>

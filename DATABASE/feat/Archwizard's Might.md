@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Archwizard's Might
-frequency: null
-heighten_level: null
 id: '662'
 level: '20'
 name: Archwizard's Might
 prerequisite: '[[DATABASE/class_/Wizard|archwizard''s spellcraft]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Wizard|Wizard]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,39 +1,24 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Focus
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: sustained up to 1 minute
-element: null
-heighten: null
 heighten_level: '10'
 id: '563'
-lesson: null
 level: '10'
-mystery: null
 name: Song of the Fallen
-patron_theme: null
 range: 30 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Pathfinder 150. Broken Promises|Pathfinder #150: Broken
   Promises]]'
 target: up to 4 dead creatures or up to 4 undead creatures
-tradition: null
 trait:
 - '[[DATABASE/trait/Bard|Bard]]'
 - '[[DATABASE/trait/Composition|Composition]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Focus
 
 ---

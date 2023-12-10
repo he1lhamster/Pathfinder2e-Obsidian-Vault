@@ -1,20 +1,14 @@
 ﻿---
 ac: '21'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
 climb_speed: '30'
 constitution: '+4'
 creature_ability:
 - Pummeling Grasp
 - Stifle
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+11'
-hardness: null
 hp: 60 ( negative healing )
 id: '1783'
 immunity:
@@ -41,8 +35,6 @@ resistance:
 - bludgeoning 2
 - piercing 5
 - slashing 5
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Lifesense|lifesense]] 30 feet'
 - '[[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) 30 feet'
@@ -55,17 +47,14 @@ source: '[[DATABASE/source/Pathfinder 176. Lost Mammoth Valley|Pathfinder #176: 
 speed:
 - 30 feet
 - climb 30 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Swarm|Swarm]]'
 - '[[DATABASE/trait/Undead|Undead]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
 weakness:

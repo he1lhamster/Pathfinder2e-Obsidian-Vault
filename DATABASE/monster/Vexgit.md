@@ -1,8 +1,6 @@
 ﻿---
 ac: '16'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
 climb_speed: '20'
 constitution: '+2'
@@ -14,13 +12,9 @@ creature_ability:
 - Speedy Sabotage
 creature_family: '[[DATABASE/monsterfamily/Gremlin|Gremlin]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+5'
-hardness: null
 hp: '24'
 id: '688'
-immunity: null
 intelligence: '+1'
 land_speed: '20'
 language:
@@ -31,9 +25,6 @@ name: Vexgit
 perception: '+6'
 rarity: Common
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Tiny
@@ -55,7 +46,6 @@ strength: '+1'
 strength_req: '1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Gremlin|Gremlin]]'

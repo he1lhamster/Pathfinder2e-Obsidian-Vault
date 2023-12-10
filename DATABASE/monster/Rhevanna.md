@@ -1,10 +1,7 @@
 ﻿---
 ac: '48'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+11'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Attack of Opportunity
@@ -12,12 +9,9 @@ creature_ability:
 - Lifedrinker
 - Malefic Binding
 - Plunder Life
-creature_family: null
 dexterity: '+8'
-element: null
 fly_speed: '80'
 fortitude: '+33'
-hardness: null
 hp: '400'
 id: '1021'
 immunity:
@@ -37,9 +31,6 @@ name: Rhevanna
 perception: '+42'
 rarity: Rare
 reflex: '+39'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 - '[[DATABASE/spell/True Seeing|true seeing]]'
@@ -74,7 +65,6 @@ strength: '+10'
 strength_req: '10'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fiend|Fiend]]'
 - '[[DATABASE/trait/Rare|Rare]]'

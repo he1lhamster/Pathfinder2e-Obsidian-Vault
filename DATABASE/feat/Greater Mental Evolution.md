@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Greater Mental Evolution
-frequency: null
-heighten_level: null
 id: '626'
 level: '16'
 name: Greater Mental Evolution
 prerequisite: '[[DATABASE/feat/Arcane Evolution|Arcane Evolution]] or [[DATABASE/feat/Occult
   Evolution|Occult Evolution]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Sorcerer|Sorcerer]]'
-trigger: null
 type: Feat
 
 ---

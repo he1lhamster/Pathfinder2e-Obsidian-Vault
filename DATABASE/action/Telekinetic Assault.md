@@ -1,19 +1,14 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 frequency: once per hour
 id: '1169'
 name: Telekinetic Assault
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 trait:
 - '[[DATABASE/trait/Divine|Divine]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
-trigger: null
 type: Action
 
 ---

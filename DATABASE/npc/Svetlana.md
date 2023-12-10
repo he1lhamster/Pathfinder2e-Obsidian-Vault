@@ -1,20 +1,12 @@
 ﻿---
 ac: '15'
 alignment: NG
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+3'
-creature_ability: null
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+6'
 hp: '20'
 id: '2223'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -25,9 +17,6 @@ name: Svetlana
 perception: '+5'
 rarity: Unique
 reflex: '+8'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Lore|Brevoy Lore]] +6'
@@ -38,21 +27,17 @@ skill:
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 speed:
 - 25 feet
-spell: null
 strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+5'
 wisdom: '+0'
 

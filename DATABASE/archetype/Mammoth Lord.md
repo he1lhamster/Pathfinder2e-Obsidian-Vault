@@ -4,7 +4,6 @@ level: '4'
 name: Mammoth Lord
 prerequisite: '[[DATABASE/feat/Ride|Ride]]'
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

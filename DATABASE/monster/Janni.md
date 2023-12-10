@@ -1,23 +1,17 @@
 ﻿---
 ac: '20'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Change Size
 - Elemental Endurance
 creature_family: '[[DATABASE/monsterfamily/Genie|Genie]]'
 dexterity: '+2'
-element: null
 fly_speed: '15'
 fortitude: '+12'
-hardness: null
 hp: '60'
 id: '211'
-immunity: null
 intelligence: '+2'
 land_speed: '20'
 language:
@@ -36,8 +30,6 @@ rarity: Common
 reflex: '+10'
 resistance:
 - fire 5
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -61,7 +53,6 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Elemental|Elemental]]'
 - '[[DATABASE/trait/Genie|Genie]]'
@@ -69,7 +60,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+11'
 wisdom: '+3'
 

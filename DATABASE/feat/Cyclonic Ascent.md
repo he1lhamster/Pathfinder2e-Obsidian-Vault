@@ -1,26 +1,18 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
 element: Air
 feat: Cyclonic Ascent
-frequency: null
 heighten_level: 8, 14
 id: '4214'
 level: '8'
 name: Cyclonic Ascent
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Impulse|Impulse]]'
 - '[[DATABASE/trait/Kineticist|Kineticist]]'
 - '[[DATABASE/trait/Primal|Primal]]'
-trigger: null
 type: Feat
 
 ---

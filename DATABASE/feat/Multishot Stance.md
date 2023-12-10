@@ -1,24 +1,16 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Multishot Stance
-frequency: null
-heighten_level: null
 id: '424'
 level: '16'
 name: Multishot Stance
 prerequisite: '[[DATABASE/feat/Triple Shot|Triple Shot]]'
 rarity: Common
 requirement: You are wielding a ranged weapon with reload 0.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fighter|Fighter]]'
 - '[[DATABASE/trait/Stance|Stance]]'
-trigger: null
 type: Feat
 
 ---

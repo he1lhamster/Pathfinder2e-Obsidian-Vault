@@ -1,8 +1,6 @@
 ﻿---
 ac: '18'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+7'
 hardness: 9 Trapdoor Hardness
 hazard_type: Trap
@@ -16,17 +14,12 @@ level: '2'
 name: Corpse Disposal
 rarity: Common
 reflex: '+7'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 187. The Seventh Arch|Pathfinder #187: The Seventh
   Arch]]'
 trait:
 - '[[DATABASE/trait/Mechanical|Mechanical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Corpse Disposal<span class="item-type">Hazard 2</span>

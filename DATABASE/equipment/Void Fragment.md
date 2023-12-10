@@ -1,59 +1,24 @@
 ﻿---
-ac: null
 actions: '[one-action]'
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '2373'
 item_category: Blighted Boons
-item_subcategory: null
-land_speed: null
 level: '13'
-max_speed: null
 name: Void Fragment
-onset: null
-price: null
-range: null
 rarity: Rare
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Conjuration
-size: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-spell: null
 stage: 'Stage 1: You die.Purging You must find and slay a chaotic evil aberration
   or a servant of suchcreatures the GM deems appropriate. The creature must be of
   your level or higher. Then, someone mustcast a rest eternal ritual on you and the
   deadbeing'
 subcategory: blightedboon
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Consumable|Consumable]]'
 - '[[DATABASE/trait/Occult|Occult]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Item
 usage: touched
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Void Fragment<span class="item-type">Item 13</span>

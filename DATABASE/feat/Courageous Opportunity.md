@@ -1,10 +1,6 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Courageous Opportunity
-frequency: null
-heighten_level: null
 id: '1646'
 level: '8'
 name: Courageous Opportunity
@@ -12,10 +8,7 @@ prerequisite: '[[DATABASE/bardmuse/Warrior|warrior muse]]'
 rarity: Common
 requirement: You are affected by [[DATABASE/spell/Inspire Courage|inspire courage]]
   .
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Auditory|Auditory]]'
 - '[[DATABASE/trait/Bard|Bard]]'

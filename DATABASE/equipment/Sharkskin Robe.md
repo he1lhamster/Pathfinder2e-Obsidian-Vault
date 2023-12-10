@@ -1,55 +1,21 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
 bulk: '1'
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
 element: Water
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '2631'
 item_category: Worn Items
 item_subcategory: Other Worn Items
-land_speed: null
 level: '12'
-max_speed: null
 name: Sharkskin Robe
-onset: null
 price: 1,900 gp
-range: null
 rarity: Common
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
-school: null
-size: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-spell: null
-stage: null
 subcategory: wornitem
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Invested|Invested]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Water|Water]]'
-trigger: null
 type: Item
 usage: worn clothing
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Sharkskin Robe<span class="item-type">Item 12</span>

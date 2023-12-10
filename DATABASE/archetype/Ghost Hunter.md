@@ -4,7 +4,6 @@ level: '2'
 name: Ghost Hunter
 prerequisite: Trained in [[DATABASE/skill/Occultism|Occultism]] or Trained in [[DATABASE/skill/Religion|Religion]]
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 163. Ruins of Gauntlight|Pathfinder #163: Ruins
   of Gauntlight]]'
 trait:

@@ -24,12 +24,10 @@ follower_alignment:
 id: '237'
 name: Bergelmir
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Society|Society]]'
 source: '[[DATABASE/source/Pathfinder 176. Lost Mammoth Valley|Pathfinder #176: Lost
   Mammoth Valley]]'
-trait: null
 type: Deity
 
 ---

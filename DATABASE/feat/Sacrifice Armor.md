@@ -1,20 +1,12 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Sacrifice Armor
-frequency: null
-heighten_level: null
 id: '1678'
+leads_to: '[[DATABASE/feat/Greater Interpose|Greater Interpose]]'
 level: '8'
 name: Sacrifice Armor
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Champion|Champion]]'
 trigger: You are hit by a Strike that deals physical damage.

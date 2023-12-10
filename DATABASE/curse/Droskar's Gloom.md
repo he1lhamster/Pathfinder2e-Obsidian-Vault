@@ -1,10 +1,8 @@
 ﻿---
-element: null
 id: '40'
 level: '6'
 name: Droskar's Gloom
 rarity: Common
-rus_type_level: null
 saving_throw: DC 22 Will
 school: Enchantment
 source: '[[DATABASE/source/Crown of the Kobold King|Crown of the Kobold King]]'
@@ -14,7 +12,6 @@ trait:
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Mental|Mental]]'
 type: Curse
-usage: null
 
 ---
 # Droskar's Gloom<span class="item-type">Curse 6</span>

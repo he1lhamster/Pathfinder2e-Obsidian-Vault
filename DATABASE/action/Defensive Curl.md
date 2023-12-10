@@ -1,17 +1,9 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
-frequency: null
 id: '1043'
 name: Defensive Curl
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
-trait: null
-trigger: null
 type: Action
 
 ---

@@ -3,9 +3,7 @@ creature_family: Protean
 id: '82'
 name: Protean
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
-trait: null
 type: Creature Family
 
 ---

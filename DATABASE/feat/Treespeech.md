@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Treespeech
-frequency: null
-heighten_level: null
 id: '4318'
 level: '5'
 name: Treespeech
 prerequisite: You speak [[DATABASE/language/Muan|Muan]] .
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Ardande|Ardande]]'
-trigger: null
 type: Feat
 
 ---

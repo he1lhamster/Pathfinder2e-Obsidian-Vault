@@ -1,8 +1,6 @@
 ﻿---
 ac: '21'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-4'
 climb_speed: '25'
 constitution: '+2'
@@ -10,28 +8,20 @@ creature_ability:
 - Amphisbaena Venom
 - Blinding Spittle
 - Twin Bites
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+10'
-hardness: null
 hp: '70'
 id: '1060'
 immunity:
 - '[[DATABASE/condition/Petrified|petrified]]'
 intelligence: '-4'
 land_speed: '25'
-language: null
 level: '4'
 max_speed: '25'
 name: Amphisbaena
 perception: '+10'
 rarity: Common
 reflex: '+14'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Tremorsense|tremorsense]] 60 feet'
 size: Medium
@@ -44,7 +34,6 @@ speed:
 - 25 feet
 - climb 25 feet
 - swim 25 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
@@ -53,10 +42,8 @@ swim_speed: '25'
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+8'
 wisdom: '+0'
 

@@ -3,9 +3,7 @@ element: Air
 id: '3'
 item_category: Relics
 name: Wind Barrier
-prerequisite: null
 rarity: Common
-rus_type_level: null
 school: Abjuration
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:

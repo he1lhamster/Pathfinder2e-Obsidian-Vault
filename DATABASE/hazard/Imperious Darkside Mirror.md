@@ -1,8 +1,6 @@
 ﻿---
 ac: '41'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+32'
 hardness: '1'
 hazard_type: Trap
@@ -16,9 +14,6 @@ level: '19'
 name: Imperious Darkside Mirror
 rarity: Common
 reflex: '+27'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 155. Lord of the Black Sands|Pathfinder #155:
   Lord of the Black Sands]]'
 trait:
@@ -27,8 +22,6 @@ trait:
 - '[[DATABASE/trait/Mechanical|Mechanical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Imperious Darkside Mirror<span class="item-type">Hazard 19</span>

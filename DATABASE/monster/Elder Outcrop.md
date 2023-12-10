@@ -1,10 +1,7 @@
 ﻿---
 ac: '33'
-alignment: null
-all_resistance: null
 burrow_speed: '30'
 charisma: '+4'
-climb_speed: null
 constitution: '+8'
 creature_ability:
 - Call of Earth
@@ -18,9 +15,7 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Elemental, Earth|Elemental, Earth]]'
 dexterity: '-2'
 element: Earth
-fly_speed: null
 fortitude: '+29'
-hardness: null
 hp: '295'
 id: '2626'
 immunity:
@@ -40,9 +35,6 @@ name: Elder Outcrop
 perception: '+26'
 rarity: Common
 reflex: '+19'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Tremorsense|tremorsense]] 120 feet'
@@ -56,12 +48,10 @@ source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 speed:
 - 30 feet
 - burrow 30 feet; earth glide
-spell: null
 strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Elemental|Elemental]]'
@@ -69,7 +59,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+26'
 wisdom: '+5'
 

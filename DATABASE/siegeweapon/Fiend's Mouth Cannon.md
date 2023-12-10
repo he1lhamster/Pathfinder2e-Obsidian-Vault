@@ -1,19 +1,15 @@
 ﻿---
 ac: '26'
-bulk: null
 fortitude: '+21'
 hardness: '18'
 hp: '90'
 id: '14'
 item_category: Siege Weapons
-land_speed: null
 level: '11'
-max_speed: null
 name: Fiend's Mouth Cannon
 price: 22,800 gp
 rarity: Uncommon
 reflex: '+13'
-rus_type_level: null
 size: Huge
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:

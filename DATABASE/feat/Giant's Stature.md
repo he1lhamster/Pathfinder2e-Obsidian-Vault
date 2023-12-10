@@ -1,27 +1,21 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Giant's Stature
-frequency: null
-heighten_level: null
 id: '149'
+leads_to: '[[DATABASE/feat/Titan''s Stature|Titan''s Stature]]'
 level: '6'
 name: Giant's Stature
 prerequisite: '[[DATABASE/barbarianinstinct/Giant Instinct|giant instinct]]'
 rarity: Common
 requirement: You are Medium or smaller.
-rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Barbarian|Barbarian]]'
 - '[[DATABASE/trait/Polymorph|Polymorph]]'
 - '[[DATABASE/trait/Primal|Primal]]'
 - '[[DATABASE/trait/Rage|Rage]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Feat
 
 ---

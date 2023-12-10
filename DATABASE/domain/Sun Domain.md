@@ -1,7 +1,5 @@
 ﻿---
-advanced_apocryphal_spell: null
 advanced_domain_spell: '[[DATABASE/spell/Positive Luminance|Positive Luminance]]'
-apocryphal_spell: null
 deity:
 - '[[DATABASE/deity/Atreia|Atreia]]'
 - '[[DATABASE/deity/Chohar|Chohar]]'
@@ -26,9 +24,7 @@ domain_spell: '[[DATABASE/spell/Dazzling Flash|Dazzling Flash]]'
 id: '29'
 name: Sun Domain
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Domain
 
 ---

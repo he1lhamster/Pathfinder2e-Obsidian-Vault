@@ -1,10 +1,7 @@
 ﻿---
 ac: '24'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Attack of Opportunity
@@ -15,12 +12,9 @@ creature_ability:
 - Shielded Advance
 creature_family: '[[DATABASE/monsterfamily/Officers|Officers]]'
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+14'
 hp: '95'
 id: '937'
-immunity: null
 intelligence: '+0'
 land_speed: '20'
 language:
@@ -31,9 +25,6 @@ name: Captain of the Guard
 perception: '+15'
 rarity: Common
 reflex: '+12'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +15'
@@ -45,20 +36,16 @@ skill:
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 speed:
 - 20 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+15'
 wisdom: '+3'
 

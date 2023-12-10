@@ -6,9 +6,7 @@ prerequisite: Able to cast spells; Trained in [[DATABASE/skill/Arcana|Arcana]] ,
   in [[DATABASE/skill/Nature|Nature]] , Trained in [[DATABASE/skill/Occultism|Occultism]]
   , or Trained in [[DATABASE/skill/Religion|Religion]]
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
-trait: null
 type: Archetype
 
 ---

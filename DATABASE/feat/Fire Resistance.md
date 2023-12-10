@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Fire Resistance
-frequency: null
-heighten_level: null
 id: '2973'
 level: '4'
 name: Fire Resistance
 prerequisite: '[[DATABASE/druidicorder/Flame|flame order]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Druid|Druid]]'
-trigger: null
 type: Feat
 
 ---

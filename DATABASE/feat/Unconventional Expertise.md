@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Unconventional Expertise
-frequency: null
-heighten_level: null
 id: '78'
 level: '13'
 name: Unconventional Expertise
 prerequisite: '[[DATABASE/feat/Unconventional Weaponry|Unconventional Weaponry]] ;
   trained in the weapon you chose forUnconventional Weaponry'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
-trigger: null
 type: Feat
 
 ---

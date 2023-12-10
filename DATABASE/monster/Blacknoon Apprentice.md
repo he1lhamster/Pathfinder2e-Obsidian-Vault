@@ -1,23 +1,15 @@
 ﻿---
 ac: '18'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Sneak Attack
 - Toxic Treachery
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+8'
-hardness: null
 hp: '32'
 id: '2612'
-immunity: null
 intelligence: '+0'
 land_speed: '20'
 language:
@@ -31,8 +23,6 @@ rarity: Common
 reflex: '+10'
 resistance:
 - poison 2
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -46,12 +36,10 @@ source: '[[DATABASE/source/Pathfinder 193. Mantle of Gold|Pathfinder #193: Mantl
   of Gold]]'
 speed:
 - 20 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dwarf|Dwarf]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -59,7 +47,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+7'
 wisdom: '+1'
 

@@ -1,23 +1,15 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Communal Sustain
 frequency: once per round
-heighten_level: null
 id: '2245'
 level: '12'
 name: Communal Sustain
 prerequisite: '[[DATABASE/feat/Spellmaster Dedication|Spellmaster Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

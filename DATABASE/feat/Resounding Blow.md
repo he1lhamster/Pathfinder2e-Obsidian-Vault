@@ -1,24 +1,15 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Resounding Blow
-frequency: null
-heighten_level: null
 id: '1620'
 level: '10'
 name: Resounding Blow
-prerequisite: null
 rarity: Common
 requirement: You are wielding a melee weapon that deals bludgeoning damage.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Barbarian|Barbarian]]'
 - '[[DATABASE/trait/Rage|Rage]]'
-trigger: null
 type: Feat
 
 ---

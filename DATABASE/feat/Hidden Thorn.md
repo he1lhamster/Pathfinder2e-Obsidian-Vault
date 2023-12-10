@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Hidden Thorn
-frequency: null
-heighten_level: null
 id: '3948'
+leads_to: '[[DATABASE/feat/Murderous Thorns|Murderous Thorns]]'
 level: '1'
 name: Hidden Thorn
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Ghoran|Ghoran]]'
-trigger: null
 type: Feat
 
 ---

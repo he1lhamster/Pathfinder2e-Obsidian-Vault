@@ -1,14 +1,9 @@
 ﻿---
 ability_type: Specific Familiar - Talking Head
-actions: null
-frequency: null
 id: '84'
 name: Heads Will Roll
 rarity: Common
-requirement: null
-rus_type_level: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-trait: null
 type: Familiar Ability
 
 ---

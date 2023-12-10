@@ -1,27 +1,19 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Flourishing Finish
-frequency: null
-heighten_level: null
 id: '2212'
 level: '12'
 name: Flourishing Finish
 prerequisite: '[[DATABASE/feat/Provocator Dedication|Provocator Dedication]]'
 rarity: Common
 requirement: Your last action was a Strike that dropped an opponent to 0 Hit Points.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 159. All or Nothing|Pathfinder #159: All or
   Nothing]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Emotion|Emotion]]'
 - '[[DATABASE/trait/Mental|Mental]]'
-trigger: null
 type: Feat
 
 ---

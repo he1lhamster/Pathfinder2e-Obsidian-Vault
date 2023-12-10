@@ -1,10 +1,6 @@
 ﻿---
-area: null
 cost: "rare oils to anoint the body worth a total value of the target's level (minimum\
   \ 1) \xD7 25 gp"
-duration: null
-element: null
-heighten: null
 heighten_level: '4'
 id: '36'
 level: '4'
@@ -12,8 +8,6 @@ name: Rest Eternal
 primary_check: '[[DATABASE/skill/Religion|Religion]] (expert)'
 range: 20 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Necromancy
 secondary_casters: '2'
 secondary_check: '[[DATABASE/skill/Occultism|Occultism]] , Religion'

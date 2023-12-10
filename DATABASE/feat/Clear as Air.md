@@ -1,20 +1,14 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
 element: Air
 feat: Clear as Air
-frequency: null
 heighten_level: 6, 10, 16
 id: '4212'
 level: '6'
 name: Clear as Air
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Illusion
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Illusion|Illusion]]'
@@ -22,7 +16,6 @@ trait:
 - '[[DATABASE/trait/Kineticist|Kineticist]]'
 - '[[DATABASE/trait/Overflow|Overflow]]'
 - '[[DATABASE/trait/Primal|Primal]]'
-trigger: null
 type: Feat
 
 ---

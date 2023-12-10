@@ -1,10 +1,7 @@
 ﻿---
 ac: '21'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Betraying Touch
@@ -15,13 +12,9 @@ creature_ability:
 - Sound Imitation
 creature_family: '[[DATABASE/monsterfamily/Hag|Hag]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+11'
-hardness: null
 hp: '70'
 id: '255'
-immunity: null
 intelligence: '+2'
 land_speed: '25'
 language:
@@ -34,9 +27,6 @@ name: Green Hag
 perception: '+10'
 rarity: Common
 reflex: '+11'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium

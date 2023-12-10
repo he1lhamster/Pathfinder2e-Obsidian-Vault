@@ -1,22 +1,16 @@
 ﻿---
 ac: '23'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Drain Life
 - Final Spite
 - Raise Bone Wall
 - Wight Spawn
-creature_family: null
 dexterity: '+4'
-element: null
 fly_speed: '25'
 fortitude: '+13'
-hardness: null
 hp: 115 ( negative healing )
 id: '2174'
 immunity:
@@ -26,7 +20,6 @@ immunity:
 - '[[DATABASE/trait/Poison|poison]]'
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '+6'
-land_speed: null
 language:
 - '[[DATABASE/language/Common|Common]]'
 - '[[DATABASE/language/Dwarven|Dwarven]]'
@@ -37,9 +30,6 @@ name: Drazmorg the Damned
 perception: '+16'
 rarity: Unique
 reflex: '+15'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -79,7 +69,6 @@ strength: '+2'
 strength_req: '2'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Undead|Undead]]'
 - '[[DATABASE/trait/Unique|Unique]]'
@@ -88,7 +77,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+17'
 wisdom: '+4'
 

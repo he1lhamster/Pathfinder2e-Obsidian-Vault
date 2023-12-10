@@ -1,20 +1,12 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Collapse
 frequency: once per 10 minutes
-heighten_level: null
 id: '3533'
 level: '1'
 name: Collapse
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Skeleton|Skeleton]]'
 trigger: An enemy's Strike against you is a critical hit.

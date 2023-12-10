@@ -1,24 +1,17 @@
 ﻿---
 ac: '26'
 alignment: CG
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Attack of Opportunity
 - Blade Barrage
 - Disarming Whirl
 - Soaring Flight
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+21'
 hp: '210'
 id: '1447'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -32,8 +25,6 @@ name: Takatorra (Level 9)
 perception: '+20'
 rarity: Unique
 reflex: '+17'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
@@ -46,12 +37,10 @@ source: '[[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #
   Despair on Danger Island]]'
 speed:
 - 25 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Tengu|Tengu]]'
@@ -60,7 +49,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Reflex
-weakness: null
 will: '+20'
 wisdom: '+3'
 

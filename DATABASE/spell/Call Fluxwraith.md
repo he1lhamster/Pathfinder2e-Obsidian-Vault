@@ -1,32 +1,18 @@
 ﻿---
 actions: '[three-actions]'
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: until the end of your next turn
-element: null
-heighten: null
 heighten_level: '9'
 id: '1434'
-lesson: null
 level: '9'
-mystery: null
 name: Call Fluxwraith
-patron_theme: null
 range: 100 feet
 rarity: Rare
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Wake the Dead 3|Wake the Dead #3]]'
-target: null
 tradition:
 - Arcane
 - Divine
@@ -35,7 +21,6 @@ trait:
 - '[[DATABASE/trait/Incarnate|Incarnate]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Spell
 
 ---

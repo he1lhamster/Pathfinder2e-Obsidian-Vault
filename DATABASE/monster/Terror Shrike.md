@@ -1,10 +1,7 @@
 ﻿---
 ac: '20'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Sprint
@@ -13,25 +10,17 @@ creature_ability:
 - Tearing Clutch
 creature_family: '[[DATABASE/monsterfamily/Terror Bird|Terror Bird]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+13'
-hardness: null
 hp: '60'
 id: '1335'
-immunity: null
 intelligence: '-4'
 land_speed: '60'
-language: null
 level: '4'
 max_speed: '60'
 name: Terror Shrike
 perception: '+11'
 rarity: Common
 reflex: '+12'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Large
@@ -41,19 +30,16 @@ skill:
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 60 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+7'
 wisdom: '+1'
 

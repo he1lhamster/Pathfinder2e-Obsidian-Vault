@@ -1,7 +1,6 @@
 ﻿---
 advanced_apocryphal_spell: '[[DATABASE/spell/Inevitable Destination|Inevitable Destination]]'
 advanced_domain_spell: '[[DATABASE/spell/Traveler''s Transit|Traveler''s Transit]]'
-apocryphal_spell: null
 deity:
 - '[[DATABASE/deity/Abadar|Abadar]]'
 - '[[DATABASE/deity/Apsu|Apsu]]'
@@ -40,9 +39,7 @@ domain_spell: '[[DATABASE/spell/Agile Feet|Agile Feet]]'
 id: '30'
 name: Travel Domain
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Domain
 
 ---

@@ -1,14 +1,9 @@
 ﻿---
 ability_type: Specific Familiar - Crysmal Shardling
-actions: null
-frequency: null
 id: '97'
 name: Crystal Scent
 rarity: Common
-requirement: null
-rus_type_level: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-trait: null
 type: Familiar Ability
 
 ---

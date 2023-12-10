@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Ceremony of the Evened Hand
-frequency: null
-heighten_level: null
 id: '2777'
+leads_to: '[[DATABASE/feat/Ceremony of the Strengthened Hand|Ceremony of the Strengthened
+  Hand]]'
 level: '1'
 name: Ceremony of the Evened Hand
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Conrasu|Conrasu]]'
-trigger: null
 type: Feat
 
 ---

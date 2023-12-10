@@ -1,18 +1,12 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 frequency: once per hour
 id: '703'
 name: Invigorating Fear
 rarity: Common
 requirement: A creature within 60 feet gains the [[DATABASE/condition/Frightened|frightened]]
   condition.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-trait: null
-trigger: null
 type: Action
 
 ---

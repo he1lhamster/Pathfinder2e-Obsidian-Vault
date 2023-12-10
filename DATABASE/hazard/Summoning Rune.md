@@ -1,30 +1,16 @@
 ﻿---
-ac: null
-all_resistance: null
 complexity: Complex
-element: null
-fortitude: null
-hardness: null
 hazard_type: Trap
-hp: null
-id: '373'
-immunity: null
-level: '5'
+id: '20'
+level: '1'
 name: Summoning Rune
 rarity: Common
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
-source: '[[DATABASE/source/Pathfinder 157. Devil at the Dreaming Palace|Pathfinder
-  #157: Devil at the Dreaming Palace]]'
+source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Complex|Complex]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Summoning Rune<span class="item-type">Hazard 5</span>

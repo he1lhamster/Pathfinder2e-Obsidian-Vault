@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Cel Rau
-frequency: null
-heighten_level: null
 id: '2343'
+leads_to: '[[DATABASE/feat/Taste Blood|Taste Blood]]'
 level: '1'
 name: Cel Rau
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Dhampir|Dhampir]]'
 - '[[DATABASE/trait/Lineage|Lineage]]'
-trigger: null
 type: Feat
 
 ---

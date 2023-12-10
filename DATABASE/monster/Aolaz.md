@@ -1,22 +1,15 @@
 ﻿---
 ac: '42'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+8'
 creature_ability:
 - Flawless Hearing
 - Roll
 - Trample
 - Ultrasonic Blast
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+35'
-hardness: null
 hp: '255'
 id: '550'
 immunity:
@@ -36,7 +29,6 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-4'
 land_speed: '50'
-language: null
 level: '18'
 max_speed: '50'
 name: Aolaz
@@ -45,8 +37,6 @@ rarity: Rare
 reflex: '+27'
 resistance:
 - physical 15 (except [[DATABASE/equipment/Adamantine|adamantine]] )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - flawless hearing
@@ -65,7 +55,6 @@ strength: '+9'
 strength_req: '9'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Rare|Rare]]'
@@ -73,7 +62,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Reflex
-weakness: null
 will: '+31'
 wisdom: '+6'
 

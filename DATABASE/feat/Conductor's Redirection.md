@@ -1,20 +1,11 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Conductor's Redirection
-frequency: null
-heighten_level: null
 id: '4328'
 level: '5'
 name: Conductor's Redirection
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Talos|Talos]]'
 trigger: You are hit by an attack, spell, or other effect that deals electricity damage.

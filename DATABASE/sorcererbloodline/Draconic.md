@@ -3,7 +3,6 @@ bloodline: Draconic
 id: '5'
 name: Draconic
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 spell:
 - '[[DATABASE/spell/Chromatic Wall|Chromatic Wall]]'
@@ -19,7 +18,6 @@ spell:
 - '[[DATABASE/spell/Shield|Shield]]'
 - '[[DATABASE/spell/Spell Immunity|Spell Immunity]]'
 - '[[DATABASE/spell/True Strike|True Strike]]'
-trait: null
 type: Sorcerer Bloodline
 
 ---

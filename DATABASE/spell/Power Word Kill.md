@@ -1,28 +1,17 @@
 ﻿---
 actions: '[one-action]'
-area: null
-bloodline: null
 component:
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Orcus|Orcus]]'
-domain: null
 duration: varies
-element: null
 heighten: 10th
 heighten_level: 9, 10
 id: '227'
-lesson: null
 level: '9'
-mystery: null
 name: Power Word Kill
-patron_theme: null
 range: 30 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Enchantment
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: 1 creature
@@ -34,7 +23,6 @@ trait:
 - '[[DATABASE/trait/Enchantment|Enchantment]]'
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Spell
 
 ---

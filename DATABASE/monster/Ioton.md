@@ -2,9 +2,7 @@
 ac: '14'
 alignment: N
 all_resistance: '2'
-burrow_speed: null
 charisma: '-3'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Absorbed Language
@@ -12,10 +10,8 @@ creature_ability:
 - Thoughtsense
 creature_family: '[[DATABASE/monsterfamily/Ennosite|Ennosite]]'
 dexterity: '+2'
-element: null
 fly_speed: '30'
 fortitude: '+7'
-hardness: null
 hp: '14'
 id: '1146'
 immunity:
@@ -23,7 +19,6 @@ immunity:
 - '[[DATABASE/trait/Poison|poison]]'
 - precision
 intelligence: '+0'
-land_speed: null
 language:
 - absorbed language
 level: '0'
@@ -37,8 +32,6 @@ resistance:
 - '[[DATABASE/equipment/Ghost Touch|ghost touch]]'
 - or [[DATABASE/trait/Mental|mental]] ; double resistance against non- [[DATABASE/trait/Magical|magical]]
   )
-rus_type_level: null
-school: null
 sense:
 - thoughtsense (imprecise) 60 feet
 size: Tiny
@@ -55,12 +48,10 @@ strength: '-5'
 strength_req: '-5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Astral|Astral]]'
 - '[[DATABASE/trait/Incorporeal|Incorporeal]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
 weakness:

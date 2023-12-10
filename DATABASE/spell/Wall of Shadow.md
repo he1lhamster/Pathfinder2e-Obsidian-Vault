@@ -1,33 +1,20 @@
 ﻿---
 actions: '[three-actions]'
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 1 minute
-element: null
 heighten: 5th, 7th
 heighten_level: 3, 5, 7
 id: '1086'
-lesson: null
 level: '3'
-mystery: null
 name: Wall of Shadow
-patron_theme: null
 range: 30 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Pathfinder 172. Secrets of the Temple City|Pathfinder #172:
   Secrets of the Temple City]]'
-target: null
 tradition:
 - Arcane
 - Occult
@@ -35,7 +22,6 @@ trait:
 - '[[DATABASE/trait/Darkness|Darkness]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Spell
 
 ---

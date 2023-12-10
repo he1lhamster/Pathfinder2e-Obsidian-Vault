@@ -1,11 +1,8 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Arundhat|Arundhat]]'
 - '[[DATABASE/deity/Arundhat|Arundhat]]'
@@ -13,31 +10,19 @@ deity:
 - '[[DATABASE/deity/Hearth and Harvest|Hearth and Harvest]]'
 - '[[DATABASE/deity/Matravash|Matravash]]'
 - '[[DATABASE/deity/Yuelral|Yuelral]]'
-domain: null
 duration: 10 minutes
-element: null
-heighten: null
 heighten_level: '4'
 id: '294'
-lesson: null
 level: '4'
-mystery: null
 name: Speak with Plants
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Primal
 trait:
 - '[[DATABASE/trait/Divination|Divination]]'
 - '[[DATABASE/trait/Plant|Plant]]'
-trigger: null
 type: Spell
 
 ---

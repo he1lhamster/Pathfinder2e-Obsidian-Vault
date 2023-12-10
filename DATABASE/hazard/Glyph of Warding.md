@@ -1,28 +1,16 @@
 ﻿---
-ac: null
-all_resistance: null
 complexity: Simple
-element: null
-fortitude: null
-hardness: null
 hazard_type: Trap
-hp: null
-id: '302'
-immunity: null
+id: '263'
 level: '13'
 name: Glyph of Warding
 rarity: Common
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
-source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
+source: '[[DATABASE/source/Pathfinder 184. The Ghouls Hunger|Pathfinder #184: The
+  Ghouls Hunger]]'
 trait:
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Glyph of Warding<span class="item-type">Hazard 13</span>

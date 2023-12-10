@@ -1,24 +1,17 @@
 ﻿---
 ac: '17'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Cheek Pouches
 - Katar Specialist
 - Quick Stow
 - Swarming
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+9'
 hp: '40'
 id: '2475'
-immunity: null
 intelligence: '-1'
 land_speed: '25'
 language:
@@ -30,8 +23,6 @@ name: Kekker
 perception: '+9'
 rarity: Unique
 reflex: '+12'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -44,12 +35,10 @@ source: '[[DATABASE/source/Pathfinder 157. Devil at the Dreaming Palace|Pathfind
   #157: Devil at the Dreaming Palace]]'
 speed:
 - 25 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Ratfolk|Ratfolk]]'
@@ -58,7 +47,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+4'
 wisdom: '+2'
 

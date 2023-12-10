@@ -3,9 +3,7 @@ creature_family: Grim Reaper
 id: '104'
 name: Grim Reaper
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
-trait: null
 type: Creature Family
 
 ---

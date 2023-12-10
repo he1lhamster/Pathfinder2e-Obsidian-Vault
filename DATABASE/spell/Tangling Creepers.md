@@ -1,42 +1,29 @@
 ﻿---
 actions: '[three-actions]'
 area: 40-foot burst
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Green Man|Green Man]]'
 - '[[DATABASE/deity/Osiris|Osiris]]'
 - '[[DATABASE/deity/Treerazer|Treerazer]]'
 - '[[DATABASE/deity/Yuelral|Yuelral]]'
-domain: null
 duration: 10 minutes
-element: null
-heighten: null
 heighten_level: '6'
 id: '331'
-lesson: null
 level: '6'
-mystery: null
 name: Tangling Creepers
-patron_theme: null
 range: 500 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Primal
 trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Plant|Plant]]'
-trigger: null
 type: Spell
 
 ---

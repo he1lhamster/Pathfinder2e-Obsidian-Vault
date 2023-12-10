@@ -12,7 +12,6 @@ level: '1'
 name: Hellknight Half Plate
 price: 20 gp
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 speed_penalty: -10 ft.
 strength: '+16'

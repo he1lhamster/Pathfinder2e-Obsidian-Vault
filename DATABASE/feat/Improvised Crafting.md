@@ -1,27 +1,17 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Improvised Crafting
-frequency: null
-heighten_level: null
 id: '2250'
 level: '8'
 name: Improvised Crafting
 prerequisite: '[[DATABASE/feat/Swordmaster Dedication|Swordmaster Dedication]] ; Expert
   in [[DATABASE/skill/Crafting|Crafting]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Exploration|Exploration]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

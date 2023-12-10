@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Ubiquitous Snares
-frequency: null
-heighten_level: null
 id: '539'
+leads_to: '[[DATABASE/feat/Impossible Snares|Impossible Snares]]'
 level: '16'
 name: Ubiquitous Snares
 prerequisite: '[[DATABASE/feat/Snare Specialist|Snare Specialist]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Ranger|Ranger]]'
-trigger: null
 type: Feat
 
 ---

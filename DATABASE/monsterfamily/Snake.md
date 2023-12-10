@@ -3,9 +3,7 @@ creature_family: Snake
 id: '93'
 name: Snake
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
-trait: null
 type: Creature Family
 
 ---

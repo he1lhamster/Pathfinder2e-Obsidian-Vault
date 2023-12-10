@@ -1,39 +1,27 @@
 ﻿---
 actions: '[three-actions]'
 area: 4 cubes, each 10 feet on a side
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Suyuddha|Suyuddha]]'
 - '[[DATABASE/deity/The Enlightened Scholar''s Path|TheEnlightened Scholar''s Path]]'
-domain: null
 duration: 1 minute
-element: null
-heighten: null
 heighten_level: '5'
 id: '719'
-lesson: null
 level: '5'
-mystery: null
 name: Strange Geometry
-patron_theme: null
 range: 60 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Will
 school: Illusion
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-target: null
 tradition:
 - Occult
 trait:
 - '[[DATABASE/trait/Illusion|Illusion]]'
-trigger: null
 type: Spell
 
 ---

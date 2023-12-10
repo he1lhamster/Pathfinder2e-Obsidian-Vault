@@ -1,24 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Shadow Reservoir
-frequency: null
-heighten_level: null
 id: '3013'
+leads_to: '[[DATABASE/feat/Secrets of Shadow|Secrets of Shadow]]'
 level: '10'
 name: Shadow Reservoir
 prerequisite: ability to cast spells from spell slots; [[DATABASE/feat/Shadowcaster
   Dedication|ShadowcasterDedication]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

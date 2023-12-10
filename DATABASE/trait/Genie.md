@@ -2,7 +2,6 @@
 id: '216'
 name: Genie
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait:
 - Genie

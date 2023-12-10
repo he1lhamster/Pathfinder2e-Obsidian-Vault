@@ -1,23 +1,16 @@
 ﻿---
 ac: '21'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Flurry of Claws
 - Kirtanang
 creature_family: '[[DATABASE/monsterfamily/Alghollthu|Alghollthu]]'
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+11'
-hardness: null
 hp: '60'
 id: '2692'
-immunity: null
 intelligence: '+0'
 land_speed: '20'
 language:
@@ -31,8 +24,6 @@ rarity: Uncommon
 reflex: '+13'
 resistance:
 - '[[DATABASE/trait/Cold|cold]] 5'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -45,7 +36,6 @@ source: '[[DATABASE/source/Pathfinder 194. Cult of the Cave Worm|Pathfinder #194
 speed:
 - 20 feet
 - swim 40 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
@@ -59,7 +49,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+8'
 wisdom: '+2'
 

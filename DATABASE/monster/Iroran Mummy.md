@@ -1,10 +1,7 @@
 ﻿---
 ac: '31'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Aura of Peace
@@ -12,10 +9,7 @@ creature_ability:
 - Stunning Flurry
 creature_family: '[[DATABASE/monsterfamily/Mummy|Mummy]]'
 dexterity: '+7'
-element: null
-fly_speed: null
 fortitude: '+18'
-hardness: null
 hp: 190 ( negative healing )
 id: '1886'
 immunity:
@@ -34,9 +28,6 @@ name: Iroran Mummy
 perception: '+21'
 rarity: Rare
 reflex: '+21'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -58,7 +49,6 @@ strength_req: '5'
 strongest_save:
 - Reflex
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Mummy|Mummy]]'
 - '[[DATABASE/trait/Rare|Rare]]'

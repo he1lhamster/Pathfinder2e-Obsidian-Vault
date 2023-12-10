@@ -2,7 +2,6 @@
 id: '280'
 name: Intelligent
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
 - Intelligent

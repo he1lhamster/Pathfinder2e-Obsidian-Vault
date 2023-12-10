@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Advanced Dogma
-frequency: null
-heighten_level: null
 id: '697'
 level: '6'
 name: Advanced Dogma
 prerequisite: '[[DATABASE/feat/Basic Dogma|Basic Dogma]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

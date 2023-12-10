@@ -1,7 +1,6 @@
 ﻿---
 id: '29'
 name: Persistent Damage
-source: null
 
 ---
 # Persistent Damage

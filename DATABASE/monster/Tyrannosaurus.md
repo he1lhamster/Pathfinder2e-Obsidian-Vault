@@ -1,10 +1,7 @@
 ﻿---
 ac: '29'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Fling
@@ -13,25 +10,17 @@ creature_ability:
 - Trample
 creature_family: '[[DATABASE/monsterfamily/Dinosaur|Dinosaur]]'
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+21'
-hardness: null
 hp: '180'
 id: '123'
-immunity: null
 intelligence: '-4'
 land_speed: '40'
-language: null
 level: '10'
 max_speed: '40'
 name: Tyrannosaurus
 perception: '+19'
 rarity: Common
 reflex: '+15'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 - scent (imprecise) 30 feet
@@ -42,12 +31,10 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 40 feet
-spell: null
 strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 - '[[DATABASE/trait/Dinosaur|Dinosaur]]'
@@ -55,7 +42,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Reflex
-weakness: null
 will: '+19'
 wisdom: '+3'
 

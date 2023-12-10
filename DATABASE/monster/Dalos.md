@@ -1,7 +1,6 @@
 ﻿---
 ac: '34'
 alignment: CE
-all_resistance: null
 burrow_speed: '20'
 charisma: '+2'
 climb_speed: '20'
@@ -13,12 +12,9 @@ creature_ability:
 - Magma Splash
 - Throw Rock
 - Volcanic Heat
-creature_family: null
 dexterity: '+4'
 element: Earth, Fire
-fly_speed: null
 fortitude: '+27'
-hardness: null
 hp: '240'
 id: '465'
 immunity:
@@ -37,8 +33,6 @@ rarity: Uncommon
 reflex: '+19'
 resistance:
 - physical 15 (except bludgeoning)
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 size: Huge
@@ -60,7 +54,6 @@ strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Fey|Fey]]'

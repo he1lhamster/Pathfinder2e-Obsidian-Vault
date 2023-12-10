@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Hell's Armaments
-frequency: null
-heighten_level: null
 id: '1081'
 level: '12'
 name: Hell's Armaments
 prerequisite: '[[DATABASE/feat/Hellknight Dedication|Hellknight Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

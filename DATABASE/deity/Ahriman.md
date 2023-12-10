@@ -1,6 +1,4 @@
 ﻿---
-ability: null
-ability_boost: null
 alignment: NE
 deity:
 - '[[DATABASE/deity/Ahriman|Ahriman]]'
@@ -19,11 +17,9 @@ follower_alignment:
 id: '220'
 name: Ahriman
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Deception|Deception]]'
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
-trait: null
 type: Deity
 
 ---

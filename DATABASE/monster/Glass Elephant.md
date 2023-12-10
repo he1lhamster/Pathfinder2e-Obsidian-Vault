@@ -1,10 +1,7 @@
 ﻿---
 ac: '32'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Dual Tusks
@@ -13,12 +10,8 @@ creature_ability:
 - Trample
 - Vulnerable to Shatter
 - Wind-Up
-creature_family: null
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+25'
-hardness: null
 hp: '245'
 id: '1991'
 immunity:
@@ -37,7 +30,6 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '45'
-language: null
 level: '12'
 max_speed: '45'
 name: Glass Elephant
@@ -46,8 +38,6 @@ rarity: Unique
 reflex: '+19'
 resistance:
 - physical 10 (except adamantine or bludgeoning)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Huge
@@ -57,12 +47,10 @@ source: '[[DATABASE/source/Pathfinder 180. The Smoking Gun|Pathfinder #180: The 
   Gun]]'
 speed:
 - 45 feet
-spell: null
 strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Clockwork|Clockwork]]'
 - '[[DATABASE/trait/Construct|Construct]]'

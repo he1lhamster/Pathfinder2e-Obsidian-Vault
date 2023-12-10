@@ -1,10 +1,7 @@
 ﻿---
 ac: '16'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Blue-Ringed Octopus Venom
@@ -13,16 +10,10 @@ creature_ability:
 - Toxic Bite
 creature_family: '[[DATABASE/monsterfamily/Octopus|Octopus]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+3'
-hardness: null
 hp: '15'
 id: '744'
-immunity: null
 intelligence: '-4'
-land_speed: null
-language: null
 level: '0'
 max_speed: '25'
 name: Blue-Ringed Octopus
@@ -31,8 +22,6 @@ rarity: Common
 reflex: '+9'
 resistance:
 - cold 2
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Tiny
@@ -42,7 +31,6 @@ skill:
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - swim 25 feet
-spell: null
 strength: '+0'
 strength_req: '0'
 strongest_save:
@@ -55,7 +43,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+6'
 wisdom: '+3'
 

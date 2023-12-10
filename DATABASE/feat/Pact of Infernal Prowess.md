@@ -1,26 +1,17 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Pact of Infernal Prowess
-frequency: null
-heighten_level: null
 id: '3826'
 level: '8'
 name: Pact of Infernal Prowess
 prerequisite: '[[DATABASE/feat/Pactbinder Dedication|Pactbinder Dedication]]'
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Divination
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Divination|Divination]]'
 - '[[DATABASE/trait/Divine|Divine]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

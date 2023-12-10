@@ -1,24 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Natural Medicine
-frequency: null
-heighten_level: null
 id: '815'
+leads_to: '[[DATABASE/feat/Herbalist Dedication|Herbalist Dedication]]'
 level: '1'
 name: Natural Medicine
 prerequisite: Trained in [[DATABASE/skill/Nature|Nature]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: nature
 trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

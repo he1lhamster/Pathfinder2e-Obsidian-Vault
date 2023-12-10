@@ -1,31 +1,17 @@
 ﻿---
 actions: '[two-actions]'
 area: 30-foot emanation
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
 heighten: 2nd
 heighten_level: 1, 2
 id: '65'
-lesson: null
 level: '1'
-mystery: null
 name: Detect Alignment
-patron_theme: null
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Divine
 - Occult
@@ -33,7 +19,6 @@ trait:
 - '[[DATABASE/trait/Detection|Detection]]'
 - '[[DATABASE/trait/Divination|Divination]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Spell
 
 ---

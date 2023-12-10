@@ -1,28 +1,16 @@
 ﻿---
 actions: '[two-actions]'
-area: null
 bloodline: '[[DATABASE/sorcererbloodline/Demonic|Demonic]]'
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
 heighten: 3rd, 5th, 7th, 9th
 heighten_level: 1, 3, 5, 7, 9
 id: '3'
-lesson: null
 level: '1'
-mystery: null
 name: Acid Splash
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: 1 creature
@@ -34,7 +22,6 @@ trait:
 - '[[DATABASE/trait/Attack|Attack]]'
 - '[[DATABASE/trait/Cantrip|Cantrip]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
-trigger: null
 type: Cantrip
 
 ---

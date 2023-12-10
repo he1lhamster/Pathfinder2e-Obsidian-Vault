@@ -1,8 +1,6 @@
 ﻿---
 ac: '21'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+14'
 hardness: '12'
 hazard_type: Trap
@@ -16,8 +14,6 @@ level: '4'
 name: Punishing Altar
 rarity: Unique
 reflex: '+14'
-resistance: null
-rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Pathfinder 176. Lost Mammoth Valley|Pathfinder #176: Lost
   Mammoth Valley]]'
@@ -28,8 +24,6 @@ trait:
 - '[[DATABASE/trait/Trap|Trap]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Punishing Altar<span class="item-type">Hazard 4</span>

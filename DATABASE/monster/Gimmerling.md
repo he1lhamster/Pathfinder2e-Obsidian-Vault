@@ -1,10 +1,7 @@
 ﻿---
 ac: '34'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Change Shape
@@ -14,15 +11,10 @@ creature_ability:
 - Treacherous Aura
 - Trickster's Step
 - Trip Up
-creature_family: null
 dexterity: '+7'
-element: null
-fly_speed: null
 fortitude: '+22'
-hardness: null
 hp: '235'
 id: '228'
-immunity: null
 intelligence: '+5'
 land_speed: '30'
 language:
@@ -35,9 +27,6 @@ name: Gimmerling
 perception: '+21'
 rarity: Uncommon
 reflex: '+25'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - hungersense (imprecise) 30 feet
 - low-light vision
@@ -51,12 +40,10 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - "30 feet; trickster\u2019s step"
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

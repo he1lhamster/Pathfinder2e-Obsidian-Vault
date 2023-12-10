@@ -1,10 +1,8 @@
 ﻿---
-element: null
 id: '52'
 level: '7'
 name: Malingerer's Malaise
 rarity: Common
-rus_type_level: null
 saving_throw: DC 26 Will
 school: Necromancy
 source: '[[DATABASE/source/Pathfinder 194. Cult of the Cave Worm|Pathfinder #194:
@@ -14,7 +12,6 @@ trait:
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 type: Curse
-usage: null
 
 ---
 # Malingerer's Malaise<span class="item-type">Curse 7</span>

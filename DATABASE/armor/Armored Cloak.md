@@ -1,7 +1,6 @@
 ﻿---
 ac: '1'
 armor_category: Light
-armor_group: null
 bulk: L
 check_penalty: '-1'
 dex_cap: '+3'
@@ -12,9 +11,7 @@ level: '0'
 name: Armored Cloak
 price: 2 gp
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Firebrands|Firebrands]]'
-speed_penalty: null
 strength: '+12'
 strength_req: '12'
 trait:

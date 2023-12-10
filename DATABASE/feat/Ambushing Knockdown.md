@@ -1,10 +1,6 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Ambushing Knockdown
-frequency: null
-heighten_level: null
 id: '2207'
 level: '8'
 name: Ambushing Knockdown
@@ -13,15 +9,11 @@ rarity: Uncommon
 requirement: You're wielding a melee weapon that deals bludgeoning damage and you're
   [[DATABASE/condition/Hidden|hidden]] from or [[DATABASE/condition/Undetected|undetected]]
   by an enemy.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 159. All or Nothing|Pathfinder #159: All or
   Nothing]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Rogue|Rogue]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,37 +1,25 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
 domain:
 - '[[DATABASE/domain/Dust Domain|Dust]]'
-duration: null
 element: Air
 heighten: 4th
 heighten_level: 1, 4
 id: '602'
-lesson: null
 level: '1'
-mystery: null
 name: Parch
-patron_theme: null
 range: 60 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Fortitude
 school: Evocation
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
 target: 1 creature
-tradition: null
 trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
-trigger: null
 type: Focus
 
 ---

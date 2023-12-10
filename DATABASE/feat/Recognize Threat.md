@@ -1,10 +1,6 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Recognize Threat
-frequency: null
-heighten_level: null
 id: '1127'
 level: '8'
 name: Recognize Threat
@@ -12,10 +8,7 @@ prerequisite: master in a [[DATABASE/action/Recall Knowledge|Recall Knowledge]] 
   [[DATABASE/feat/Pathfinder Agent Dedication|Pathfinder Agent Dedication]]
 rarity: Common
 requirement: You have master proficiency in a skill to identify the triggering creature.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Skill|Skill]]'

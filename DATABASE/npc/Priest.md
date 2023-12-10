@@ -1,22 +1,16 @@
 ﻿---
 ac: '21'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Healing Hands
 - Steady Spellcasting
 creature_family: '[[DATABASE/monsterfamily/Devotees|Devotees]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+11'
 hp: '80'
 id: '896'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -27,9 +21,6 @@ name: Priest of Pharasma
 perception: '+14'
 rarity: Common
 reflex: '+11'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Diplomacy|Diplomacy]] +12'
@@ -60,16 +51,13 @@ strength: '+3'
 strength_req: '3'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
 - Reflex
-weakness: null
 will: '+14'
 wisdom: '+4'
 

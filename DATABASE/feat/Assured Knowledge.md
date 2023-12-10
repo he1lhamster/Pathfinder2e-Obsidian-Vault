@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Assured Knowledge
-frequency: null
-heighten_level: null
 id: '1640'
+leads_to: '[[DATABASE/feat/Enigma''s Knowledge|Enigma''s Knowledge]]'
 level: '6'
 name: Assured Knowledge
 prerequisite: '[[DATABASE/bardmuse/Enigma|enigma muse]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Bard|Bard]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,10 +1,7 @@
 ﻿---
 ac: '39'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Change Shape
@@ -18,13 +15,10 @@ creature_ability:
 - Staggering Blow
 creature_family: '[[DATABASE/monsterfamily/Werecreature, Wereant|Werecreature, Wereant]]'
 dexterity: '+9'
-element: null
 fly_speed: '60'
 fortitude: '+28'
-hardness: null
 hp: '305'
 id: '1800'
-immunity: null
 intelligence: '+0'
 land_speed: '40'
 language:
@@ -36,9 +30,6 @@ name: Wereant Disciple
 perception: '+28'
 rarity: Rare
 reflex: '+30'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -53,12 +44,10 @@ source: '[[DATABASE/source/Pathfinder 174. Shadows of the Ancients|Pathfinder #1
 speed:
 - 40 feet
 - fly 60 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Human|Human]]'

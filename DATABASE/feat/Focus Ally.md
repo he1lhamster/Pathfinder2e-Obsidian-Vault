@@ -1,20 +1,12 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Focus Ally
-frequency: null
-heighten_level: null
 id: '2264'
 level: '16'
 name: Focus Ally
 prerequisite: '[[DATABASE/feat/Swordmaster Dedication|Swordmaster Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Fortune|Fortune]]'

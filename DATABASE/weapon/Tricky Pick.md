@@ -1,8 +1,6 @@
 ﻿---
 bulk: '1'
 damage: 1d6 modular
-deity: null
-favored_weapon: null
 hands: '1'
 id: '148'
 item_category: Weapons
@@ -10,9 +8,7 @@ item_subcategory: Base Weapons
 level: '0'
 name: Tricky Pick
 price: 10 gp
-range: null
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 trait:
 - '[[DATABASE/trait/Backstabber|Backstabber]]'

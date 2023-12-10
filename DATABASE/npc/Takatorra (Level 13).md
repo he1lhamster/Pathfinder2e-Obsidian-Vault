@@ -1,24 +1,17 @@
 ﻿---
 ac: '32'
 alignment: CG
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Attack of Opportunity
 - Blade Barrage
 - Disarming Whirl
 - Soaring Flight
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+26'
 hp: '300'
 id: '1485'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -32,8 +25,6 @@ name: Takatorra (Level 13)
 perception: '+25'
 rarity: Unique
 reflex: '+23'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
@@ -45,12 +36,10 @@ skill:
 source: '[[DATABASE/source/Pathfinder 167. Ready Fight!|Pathfinder #167: Ready? Fight!]]'
 speed:
 - 25 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Tengu|Tengu]]'
@@ -59,7 +48,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Reflex
-weakness: null
 will: '+25'
 wisdom: '+3'
 

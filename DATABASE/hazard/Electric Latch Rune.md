@@ -1,20 +1,10 @@
 ﻿---
-ac: null
-all_resistance: null
 complexity: Simple
-element: null
-fortitude: null
-hardness: null
 hazard_type: Trap
-hp: null
 id: '5'
-immunity: null
 level: '3'
 name: Electric Latch Rune
 rarity: Common
-reflex: null
-resistance: null
-rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
@@ -23,8 +13,6 @@ trait:
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Electric Latch Rune<span class="item-type">Hazard 3</span>

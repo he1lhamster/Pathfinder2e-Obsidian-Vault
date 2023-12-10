@@ -2,7 +2,6 @@
 id: '269'
 name: Saggorak
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 148. Fires of the Haunted City|Pathfinder #148:
   Fires of the Haunted City]]'
 trait:

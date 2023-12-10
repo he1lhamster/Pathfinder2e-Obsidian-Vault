@@ -1,19 +1,11 @@
 ﻿---
-actions: null
-cost: null
-element: null
-frequency: null
 id: '1374'
 name: Clear Hex
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
 - '[[DATABASE/trait/Downtime|Downtime]]'
 - '[[DATABASE/trait/Region|Region]]'
-trigger: null
 type: Action
 
 ---

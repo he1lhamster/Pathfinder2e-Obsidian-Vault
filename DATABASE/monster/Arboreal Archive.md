@@ -1,10 +1,7 @@
 ﻿---
 ac: '33'
 alignment: NG
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Abeyance Rift
@@ -12,13 +9,9 @@ creature_ability:
 - Memory Maelstrom
 creature_family: '[[DATABASE/monsterfamily/Arboreal|Arboreal]]'
 dexterity: '-1'
-element: null
-fly_speed: null
 fortitude: '+23'
-hardness: null
 hp: '230'
 id: '1068'
-immunity: null
 intelligence: '+4'
 land_speed: '25'
 language:
@@ -35,8 +28,6 @@ reflex: '+17'
 resistance:
 - bludgeoning 10
 - piercing 10
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) 60 feet'
@@ -59,7 +50,6 @@ strength: '+7'
 strength_req: '7'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Plant|Plant]]'
 type: Creature

@@ -1,22 +1,16 @@
 ﻿---
 ac: '19'
 alignment: CG
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Breath Weapon
 creature_family: '[[DATABASE/monsterfamily/Sprite|Sprite]]'
 dexterity: '+4'
-element: null
 fly_speed: '40'
 fortitude: '+6'
-hardness: null
 hp: '45'
 id: '1323'
-immunity: null
 intelligence: '+3'
 land_speed: '15'
 language:
@@ -29,9 +23,6 @@ name: Draxie
 perception: '+8'
 rarity: Common
 reflex: '+11'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Tiny
@@ -56,7 +47,6 @@ strength: '-1'
 strength_req: '-1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Sprite|Sprite]]'

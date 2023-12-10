@@ -1,22 +1,15 @@
 ﻿---
 ac: '22'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Electric Surge
 - Mound
 - Shamble
 - Vine Lash
-creature_family: null
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+17'
-hardness: null
 hp: '120'
 id: '364'
 immunity:
@@ -35,8 +28,6 @@ rarity: Common
 reflex: '+11'
 resistance:
 - fire 5
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Large
@@ -47,7 +38,6 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 20 feet
 - swim 20 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
@@ -59,7 +49,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+14'
 wisdom: '+2'
 

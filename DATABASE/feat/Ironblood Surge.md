@@ -1,23 +1,15 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Ironblood Surge
-frequency: null
-heighten_level: null
 id: '473'
 level: '14'
 name: Ironblood Surge
 prerequisite: '[[DATABASE/feat/Ironblood Stance|Ironblood Stance]]'
 rarity: Common
 requirement: You are in Ironblood Stance.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Monk|Monk]]'
-trigger: null
 type: Feat
 
 ---

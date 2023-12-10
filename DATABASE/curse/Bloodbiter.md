@@ -1,11 +1,8 @@
 ﻿---
-element: null
 id: '4'
 level: '6'
 name: Bloodbiter
 rarity: Rare
-rus_type_level: null
-saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:

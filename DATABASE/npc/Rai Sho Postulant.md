@@ -1,8 +1,6 @@
 ﻿---
 ac: '39'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
 climb_speed: '20'
 constitution: '+6'
@@ -13,10 +11,7 @@ creature_ability:
 - Nine Seals Spellcasting
 - Snowblind
 - Vanish
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+30'
 hp: '360'
 id: '1513'
@@ -34,8 +29,6 @@ name: Rai Sho Postulant
 perception: '+30'
 rarity: Rare
 reflex: '+27'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -55,7 +48,6 @@ strength: '+9'
 strength_req: '9'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Rare|Rare]]'

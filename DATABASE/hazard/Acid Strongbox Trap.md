@@ -1,20 +1,10 @@
 ﻿---
-ac: null
-all_resistance: null
 complexity: Simple
-element: null
-fortitude: null
-hardness: null
 hazard_type: Trap
-hp: null
 id: '115'
-immunity: null
 level: '4'
 name: Acid Strongbox Trap
 rarity: Common
-reflex: null
-resistance: null
-rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Pathfinder 175. Broken Tusk Moon|Pathfinder #175: Broken
   Tusk Moon]]'
@@ -24,8 +14,6 @@ trait:
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Acid Strongbox Trap<span class="item-type">Hazard 4</span>

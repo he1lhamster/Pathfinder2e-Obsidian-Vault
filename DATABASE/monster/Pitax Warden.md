@@ -1,24 +1,16 @@
 ﻿---
 ac: '33'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Attack of Opportunity
 - Power Attack
 - Sudden Charge
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+23'
-hardness: null
 hp: '215'
 id: '2322'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -30,10 +22,6 @@ name: Pitax Warden
 perception: '+22'
 rarity: Rare
 reflex: '+21'
-resistance: null
-rus_type_level: null
-school: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +22'
@@ -57,16 +45,13 @@ strength_req: '5'
 strongest_save:
 - Fortitude
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+23'
 wisdom: '+2'
 

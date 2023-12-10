@@ -2,9 +2,6 @@
 id: '206'
 name: Pathfinder 193. Mantle of Gold
 rarity: Common
-rus_type_level: null
-source: null
-trait: null
 type: Source
 
 ---

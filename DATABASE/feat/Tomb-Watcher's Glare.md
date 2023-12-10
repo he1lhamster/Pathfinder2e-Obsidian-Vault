@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Tomb-Watcher's Glare
-frequency: null
-heighten_level: null
 id: '970'
 level: '5'
 name: Tomb-Watcher's Glare
 prerequisite: '[[DATABASE/heritage/Death Warden Dwarf|Death Warden Dwarf]] heritage'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Divine|Divine]]'
 - '[[DATABASE/trait/Dwarf|Dwarf]]'
-trigger: null
 type: Feat
 
 ---

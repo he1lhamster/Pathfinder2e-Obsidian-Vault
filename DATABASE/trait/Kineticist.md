@@ -2,7 +2,6 @@
 id: '504'
 name: Kineticist
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 trait:
 - Kineticist

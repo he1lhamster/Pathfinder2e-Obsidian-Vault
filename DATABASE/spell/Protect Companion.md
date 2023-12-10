@@ -1,27 +1,15 @@
 ﻿---
 actions: '[one-action]'
-area: null
-bloodline: null
 component:
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: until the start of your next turn
-element: null
 heighten: '+2'
 heighten_level: 1, 3, 5, 7, 9
 id: '975'
-lesson: null
 level: '1'
-mystery: null
 name: Protect Companion
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 target: youreidolon, or a creature with the [[DATABASE/trait/Minion|minion]] trait
@@ -34,7 +22,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Cantrip|Cantrip]]'
-trigger: null
 type: Cantrip
 
 ---

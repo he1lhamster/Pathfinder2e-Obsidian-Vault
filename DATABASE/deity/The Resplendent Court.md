@@ -31,11 +31,9 @@ follower_alignment:
 id: '272'
 name: The Resplendent Court
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Crafting|Crafting]]'
 source: '[[DATABASE/source/Firebrands|Firebrands]]'
-trait: null
 type: Deity
 
 ---

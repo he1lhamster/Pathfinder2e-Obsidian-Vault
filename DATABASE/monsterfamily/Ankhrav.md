@@ -3,9 +3,7 @@ creature_family: Ankhrav
 id: '5'
 name: Ankhrav
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
-trait: null
 type: Creature Family
 
 ---

@@ -1,22 +1,15 @@
 ﻿---
 ac: '16'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Spiny Body
 - Verdant Burst
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+7'
 hp: '40'
 id: '1938'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -31,8 +24,6 @@ name: Dewey Daystar
 perception: '+10'
 rarity: Unique
 reflex: '+6'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Small
@@ -60,7 +51,6 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Leshy|Leshy]]'
 - '[[DATABASE/trait/Plant|Plant]]'
@@ -69,7 +59,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Reflex
-weakness: null
 will: '+10'
 wisdom: '+4'
 

@@ -1,21 +1,16 @@
 ﻿---
 ac: '37'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+8'
-climb_speed: null
 constitution: '+8'
 creature_ability:
 - Absorb Flame
 - Fascination of Flame
 - Igniting Assault
-creature_family: null
 dexterity: '+4'
 element: Fire
 fly_speed: '30'
 fortitude: '+29'
-hardness: null
 hp: '280'
 id: '728'
 immunity:
@@ -34,8 +29,6 @@ rarity: Common
 reflex: '+25'
 resistance:
 - physical 10 (except slashing)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
@@ -63,7 +56,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Fire|Fire]]'

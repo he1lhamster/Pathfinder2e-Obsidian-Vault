@@ -1,10 +1,7 @@
 ﻿---
 ac: '37'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Devour Soul
@@ -13,12 +10,9 @@ creature_ability:
 - Rush of Shadows
 - Soul Spells
 - Spell Deflection
-creature_family: null
 dexterity: '+4'
-element: null
 fly_speed: '30'
 fortitude: '+28'
-hardness: null
 hp: 250 ( negative healing )
 id: '2563'
 immunity:
@@ -44,8 +38,6 @@ rarity: Unique
 reflex: '+25'
 resistance:
 - '[[DATABASE/trait/Fire|fire]] 15'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/spell/Detect Alignment|detect alignment]]'
@@ -101,7 +93,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+27'
 wisdom: '+4'
 

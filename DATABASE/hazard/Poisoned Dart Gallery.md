@@ -1,8 +1,6 @@
 ﻿---
 ac: '27'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+13'
 hardness: '14'
 hazard_type: Trap
@@ -16,17 +14,12 @@ level: '8'
 name: Poisoned Dart Gallery
 rarity: Common
 reflex: '+17'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Complex|Complex]]'
 - '[[DATABASE/trait/Mechanical|Mechanical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Poisoned Dart Gallery<span class="item-type">Hazard 8</span>

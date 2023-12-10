@@ -1,10 +1,7 @@
 ﻿---
 ac: '25'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Concussive Fist
@@ -13,14 +10,10 @@ creature_ability:
 - Quickest Draw
 - Reload Trick
 - Sneak Attack
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+15'
 hp: '120'
 id: '1978'
-immunity: null
 intelligence: '+0'
 land_speed: '30'
 language:
@@ -34,8 +27,6 @@ name: Sabora Sharkosa
 perception: '+16'
 rarity: Unique
 reflex: '+17'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
@@ -52,12 +43,10 @@ source: '[[DATABASE/source/Pathfinder 179. Cradle of Quartz|Pathfinder #179: Cra
   of Quartz]]'
 speed:
 - 30 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Elf|Elf]]'
 - '[[DATABASE/trait/Half-Elf|Half-Elf]]'
@@ -68,7 +57,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+13'
 wisdom: '+1'
 

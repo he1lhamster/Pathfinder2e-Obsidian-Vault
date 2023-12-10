@@ -1,20 +1,14 @@
 ﻿---
 ac: '16'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Bleeding Nail
 - Terrifying Stare
-creature_family: null
 dexterity: '+4'
-element: null
 fly_speed: '25'
 fortitude: '+4'
-hardness: null
 hp: 20 ( negative healing )
 id: '437'
 immunity:
@@ -24,7 +18,6 @@ immunity:
 - poison
 - unconscious
 intelligence: '-1'
-land_speed: null
 language:
 - '[[DATABASE/language/Common|Common]]'
 level: '1'
@@ -33,9 +26,6 @@ name: Hellcrown
 perception: '+10'
 rarity: Uncommon
 reflex: '+6'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Tiny
@@ -46,12 +36,10 @@ source: '[[DATABASE/source/Pathfinder 145. Hellknight Hill|Pathfinder #145: Hell
   Hill]]'
 speed:
 - fly 25 feet
-spell: null
 strength: '-2'
 strength_req: '-2'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 - '[[DATABASE/trait/Undead|Undead]]'
@@ -59,7 +47,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+10'
 wisdom: '+1'
 

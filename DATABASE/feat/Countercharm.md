@@ -1,20 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Countercharm
-frequency: null
-heighten_level: null
 id: '3361'
 level: '8'
 name: Countercharm
 prerequisite: '[[DATABASE/feat/Basic Captivator Spellcasting|Basic Captivator Spellcasting]]'
 rarity: Common
 requirement: You have an innate non-cantrip captivator spell of the same school.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 trigger: A creature Casts a Spell from the [[DATABASE/trait/Enchantment|enchantment]]

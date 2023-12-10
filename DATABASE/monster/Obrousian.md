@@ -1,51 +1,8 @@
 ﻿---
-ac: null
-alignment: null
-all_resistance: null
-burrow_speed: null
-charisma: null
-climb_speed: null
-constitution: null
-creature_ability: null
-creature_family: null
-dexterity: null
-element: null
-fly_speed: null
-fortitude: null
-hardness: null
-hp: null
 id: '1013'
-immunity: null
-intelligence: null
-land_speed: null
-language: null
-level: null
-max_speed: null
 name: Obrousian
-perception: null
-rarity: null
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
-sense: null
-size: null
-skill: null
 source: '[[DATABASE/source/Pathfinder 161. Belly of the Black Whale|Pathfinder #161:
   Belly of the Black Whale]]'
-speed: null
-spell: null
-strength: null
-strength_req: null
-strongest_save: null
-swim_speed: null
-trait: null
-type: null
-vision: null
-weakest_save: null
-weakness: null
-will: null
-wisdom: null
 
 ---
 # Obrousian

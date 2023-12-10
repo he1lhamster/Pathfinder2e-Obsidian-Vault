@@ -1,17 +1,9 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
-frequency: null
 id: '2101'
 name: Weighted Kick
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Highhelm|Highhelm]]'
-trait: null
-trigger: null
 type: Action
 
 ---

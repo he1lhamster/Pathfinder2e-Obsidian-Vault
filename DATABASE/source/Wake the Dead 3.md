@@ -2,9 +2,6 @@
 id: '212'
 name: Wake the Dead 3
 rarity: Common
-rus_type_level: null
-source: null
-trait: null
 type: Source
 
 ---

@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Alghollthu Bound
-frequency: null
-heighten_level: null
 id: '2669'
 level: '1'
 name: Alghollthu Bound
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Absalom, City of Lost Omens|Absalom, City of Lost Omens]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Azarketi|Azarketi]]'
-trigger: null
 type: Feat
 
 ---

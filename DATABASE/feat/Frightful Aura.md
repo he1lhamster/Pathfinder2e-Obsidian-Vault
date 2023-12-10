@@ -1,27 +1,17 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Frightful Aura
-frequency: null
-heighten_level: null
 id: '3519'
 level: '18'
 name: Frightful Aura
 prerequisite: Master in [[DATABASE/skill/Intimidation|Intimidation]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Aura|Aura]]'
 - '[[DATABASE/trait/Emotion|Emotion]]'
 - '[[DATABASE/trait/Fear|Fear]]'
 - '[[DATABASE/trait/Mental|Mental]]'
-trigger: null
 type: Feat
 
 ---

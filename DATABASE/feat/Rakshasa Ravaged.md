@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Rakshasa Ravaged
-frequency: null
-heighten_level: null
 id: '4015'
 level: '9'
 name: Rakshasa Ravaged
 prerequisite: Expert in [[DATABASE/skill/Occultism|Occultism]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Vanara|Vanara]]'
-trigger: null
 type: Feat
 
 ---

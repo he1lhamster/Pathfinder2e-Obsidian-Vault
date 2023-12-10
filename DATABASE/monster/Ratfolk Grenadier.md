@@ -1,10 +1,7 @@
 ﻿---
 ac: '21'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Cheek Pouches
@@ -14,13 +11,9 @@ creature_ability:
 - Swarming
 creature_family: '[[DATABASE/monsterfamily/Ratfolk|Ratfolk]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+11'
-hardness: null
 hp: '60'
 id: '348'
-immunity: null
 intelligence: '+4'
 land_speed: '25'
 language:
@@ -31,9 +24,6 @@ name: Ratfolk Grenadier
 perception: '+10'
 rarity: Common
 reflex: '+13'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Small
@@ -47,12 +37,10 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 25 feet
-spell: null
 strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Ratfolk|Ratfolk]]'
@@ -60,7 +48,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+9'
 wisdom: '+2'
 

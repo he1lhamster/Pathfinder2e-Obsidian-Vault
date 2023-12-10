@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Advanced Runic Mind-Smithing
-frequency: null
-heighten_level: null
 id: '3872'
 level: '16'
 name: Advanced Runic Mind-Smithing
 prerequisite: '[[DATABASE/feat/Runic Mind Smithing|Runic Mind Smithing]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,28 +1,24 @@
 ﻿---
-ac: null
-all_resistance: null
+ac: '21'
 complexity: Simple
-element: null
-fortitude: null
-hardness: null
+fortitude: '+14'
+hardness: '13'
 hazard_type: Environmental
-hp: null
-id: '407'
-immunity: null
-level: '8'
+hp: 46 (BT 23)
+id: '117'
+immunity:
+- critical hits
+- object immunities
+- precision damage
+level: '4'
 name: Cave-In
 rarity: Common
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
-source: '[[DATABASE/source/Pathfinder 195. Heavy is the Crown|Pathfinder #195: Heavy
-  is the Crown]]'
+reflex: '+14'
+source: '[[DATABASE/source/Pathfinder 176. Lost Mammoth Valley|Pathfinder #176: Lost
+  Mammoth Valley]]'
 trait:
 - '[[DATABASE/trait/Environmental|Environmental]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Cave-In<span class="item-type">Hazard 8</span>

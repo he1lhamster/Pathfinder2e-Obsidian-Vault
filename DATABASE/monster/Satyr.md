@@ -1,24 +1,16 @@
 ﻿---
 ac: '19'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Fleet Performer
 - Play the Pipes
 - Sylvan Wine
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+9'
-hardness: null
 hp: '80'
 id: '355'
-immunity: null
 intelligence: '+1'
 land_speed: '35'
 language:
@@ -30,9 +22,6 @@ name: Satyr
 perception: '+10'
 rarity: Common
 reflex: '+11'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 size: Medium
@@ -62,7 +51,6 @@ strength: '+3'
 strength_req: '3'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 type: Creature

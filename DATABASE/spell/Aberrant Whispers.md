@@ -4,35 +4,23 @@ area: 5-foot emanation or more
 bloodline: '[[DATABASE/sorcererbloodline/Aberrant|Aberrant]]'
 component:
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 1 round
-element: null
 heighten: '+3'
 heighten_level: 3, 6, 9
 id: '491'
-lesson: null
 level: '3'
-mystery: null
 name: Aberrant Whispers
-patron_theme: null
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 saving_throw: Will
 school: Enchantment
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: each foe in the area
-tradition: null
 trait:
 - '[[DATABASE/trait/Auditory|Auditory]]'
 - '[[DATABASE/trait/Enchantment|Enchantment]]'
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Sorcerer|Sorcerer]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Focus
 
 ---

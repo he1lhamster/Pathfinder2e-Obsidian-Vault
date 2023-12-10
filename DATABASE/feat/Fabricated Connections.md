@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Fabricated Connections
-frequency: null
-heighten_level: null
 id: '1938'
 level: '7'
 name: Fabricated Connections
 prerequisite: '[[DATABASE/feat/Dandy Dedication|Dandy Dedication]] ; Master in [[DATABASE/skill/Deception|Deception]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

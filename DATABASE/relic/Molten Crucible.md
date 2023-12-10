@@ -3,9 +3,7 @@ element: Fire
 id: '114'
 item_category: Relics
 name: Molten Crucible
-prerequisite: null
 rarity: Common
-rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Highhelm|Highhelm]]'
 trait:

@@ -1,39 +1,25 @@
 ﻿---
 actions: '[three-actions]'
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: varies
-element: null
-heighten: null
 heighten_level: '3'
 id: '1106'
-lesson: null
 level: '3'
-mystery: null
 name: Subjugate Undead
-patron_theme: null
 range: 30 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 saving_throw: Will
 school: Necromancy
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 target: one [[DATABASE/trait/Undead|undead]] creature with a level of no more than
   yourlevel - 4
-tradition: null
 trait:
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Focus
 
 ---

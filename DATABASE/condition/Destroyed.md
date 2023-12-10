@@ -1,7 +1,6 @@
 ﻿---
 id: '46'
 name: Destroyed
-source: null
 
 ---
 # Destroyed

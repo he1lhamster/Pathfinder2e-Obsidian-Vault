@@ -4,7 +4,6 @@ level: '4'
 name: Crystal Keeper
 prerequisite: Trained in [[DATABASE/skill/Lore|Elven Lore]] or Trained in [[DATABASE/skill/Society|Society]]
 rarity: Rare
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 148. Fires of the Haunted City|Pathfinder #148:
   Fires of the Haunted City]]'
 trait:

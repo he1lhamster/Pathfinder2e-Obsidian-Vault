@@ -1,14 +1,9 @@
 ﻿---
-ability_type: Familiar
-actions: null
-frequency: null
-id: '93'
+ability_type: Specific Familiar - Elemental Wisp
+id: '73'
 name: Elemental
 rarity: Common
-requirement: null
-rus_type_level: null
-source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-trait: null
+source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
 type: Familiar Ability
 
 ---

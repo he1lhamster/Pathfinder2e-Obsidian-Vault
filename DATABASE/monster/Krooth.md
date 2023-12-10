@@ -1,37 +1,25 @@
 ﻿---
 ac: '26'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Aquatic Ambush
 - Attack of Opportunity
 - Pain Frenzy
 - Poison Tooth
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+20'
-hardness: null
 hp: '150'
 id: '276'
-immunity: null
 intelligence: '-4'
 land_speed: '40'
-language: null
 level: '8'
 max_speed: '40'
 name: Krooth
 perception: '+16'
 rarity: Common
 reflex: '+17'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 - scent (imprecise) 60 feet
@@ -44,7 +32,6 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 40 feet
 - swim 30 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
@@ -57,7 +44,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+14'
 wisdom: '+2'
 

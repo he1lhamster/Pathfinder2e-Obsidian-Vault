@@ -5,9 +5,7 @@ name: Loremaster
 prerequisite: trained in at least one skill to [[DATABASE/action/Decipher Writing|Decipher
   Writing]]
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-trait: null
 type: Archetype
 
 ---

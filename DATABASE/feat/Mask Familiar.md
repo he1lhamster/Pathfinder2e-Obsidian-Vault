@@ -1,24 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Mask Familiar
-frequency: null
-heighten_level: null
 id: '1103'
+leads_to: '[[DATABASE/feat/Adaptive Mask Familiar|Adaptive Mask Familiar]]'
 level: '4'
 name: Mask Familiar
 prerequisite: '[[DATABASE/feat/Magaambyan Attendant Dedication|Magaambyan Attendant
   Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

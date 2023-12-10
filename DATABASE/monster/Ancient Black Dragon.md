@@ -1,10 +1,7 @@
 ﻿---
 ac: '39'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Breath Weapon
@@ -15,10 +12,8 @@ creature_ability:
 - Tail Lash
 creature_family: '[[DATABASE/monsterfamily/Dragon, Black|Dragon, Black]]'
 dexterity: '+5'
-element: null
 fly_speed: '150'
 fortitude: '+30'
-hardness: null
 hp: '325'
 id: '129'
 immunity:
@@ -39,9 +34,6 @@ name: Ancient Black Dragon
 perception: '+30'
 rarity: Uncommon
 reflex: '+27'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - scent (imprecise) 60 feet
@@ -74,7 +66,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+29'
 wisdom: '+5'
 

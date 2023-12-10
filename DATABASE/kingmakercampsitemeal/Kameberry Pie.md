@@ -5,7 +5,6 @@ name: Kameberry Pie
 price: 50 gp
 rarity: Common
 requirement: master in [[DATABASE/skill/Religion|Religion]]
-rus_type_level: null
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
 trait:
 - '[[DATABASE/trait/Meal|Meal]]'

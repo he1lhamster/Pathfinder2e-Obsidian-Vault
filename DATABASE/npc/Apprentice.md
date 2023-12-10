@@ -1,21 +1,15 @@
 ﻿---
 ac: '15'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Apprentice's Ambition
 creature_family: '[[DATABASE/monsterfamily/Tradespeople|Tradespeople]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+5'
 hp: '8'
 id: '955'
-immunity: null
 intelligence: '+3'
 land_speed: '25'
 language:
@@ -26,9 +20,6 @@ name: Apprentice
 perception: '+2'
 rarity: Common
 reflex: '+6'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +3'
@@ -37,20 +28,16 @@ skill:
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 speed:
 - 25 feet
-spell: null
 strength: '+1'
 strength_req: '1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+2'
 wisdom: '+0'
 

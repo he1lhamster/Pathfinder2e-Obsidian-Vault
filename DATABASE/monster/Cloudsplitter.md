@@ -1,10 +1,7 @@
 ﻿---
 ac: '42'
 alignment: LG
-all_resistance: null
-burrow_speed: null
 charisma: '+9'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Breath Weapon
@@ -13,12 +10,9 @@ creature_ability:
 - Rearing Thrust
 - Susceptible to Death
 - Trample
-creature_family: null
 dexterity: '+9'
 element: Air, Fire
-fly_speed: null
 fortitude: '+28'
-hardness: null
 hp: '335'
 id: '1517'
 immunity:
@@ -41,9 +35,6 @@ name: Cloudsplitter
 perception: '+32'
 rarity: Unique
 reflex: '+32'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 60 feet'
@@ -71,7 +62,6 @@ strength: '+7'
 strength_req: '7'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Fire|Fire]]'
@@ -82,7 +72,6 @@ type: Creature
 vision: Greater darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+30'
 wisdom: '+6'
 

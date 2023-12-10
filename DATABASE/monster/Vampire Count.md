@@ -1,8 +1,6 @@
 ﻿---
 ac: '24'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
 climb_speed: '25'
 constitution: '+2'
@@ -17,10 +15,7 @@ creature_ability:
 - Mist
 creature_family: '[[DATABASE/monsterfamily/Vampire|Vampire]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+11'
-hardness: null
 hp: 65 (coffin restoration, fast healing 7, negative healing )
 id: '400'
 immunity:
@@ -42,8 +37,6 @@ rarity: Common
 reflex: '+14'
 resistance:
 - physical 7 (except magical silver)
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -59,12 +52,10 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 25 feet
 - climb 25 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Undead|Undead]]'
 - '[[DATABASE/trait/Vampire|Vampire]]'

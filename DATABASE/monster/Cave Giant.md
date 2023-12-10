@@ -1,10 +1,7 @@
 ﻿---
 ac: '23'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Catch Rock
@@ -12,13 +9,9 @@ creature_ability:
 - Throw Rock
 creature_family: '[[DATABASE/monsterfamily/Giant|Giant]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+17'
-hardness: null
 hp: '110'
 id: '1166'
-immunity: null
 intelligence: '-2'
 land_speed: '35'
 language:
@@ -29,9 +22,6 @@ name: Cave Giant
 perception: '+15'
 rarity: Common
 reflex: '+13'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -41,12 +31,10 @@ skill:
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 35 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Giant|Giant]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -54,7 +42,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+11'
 wisdom: '+3'
 

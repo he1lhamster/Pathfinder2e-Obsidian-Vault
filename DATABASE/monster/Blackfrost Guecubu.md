@@ -1,10 +1,8 @@
 ﻿---
 ac: '27'
 alignment: CE
-all_resistance: null
 burrow_speed: '15'
 charisma: '+3'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Break Ground
@@ -15,9 +13,7 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Blackfrost Dead|Blackfrost Dead]]'
 dexterity: '+4'
 element: Earth
-fly_speed: null
 fortitude: '+17'
-hardness: null
 hp: 110 ( negative healing )
 id: '2509'
 immunity:
@@ -39,8 +35,6 @@ reflex: '+16'
 resistance:
 - '[[DATABASE/trait/Electricity|electricity]] 10'
 - physical 10 (except bludgeoning)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) 60 feet'
@@ -61,7 +55,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Cold|Cold]]'
 - '[[DATABASE/trait/Earth|Earth]]'
@@ -71,7 +64,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+15'
 wisdom: '+3'
 

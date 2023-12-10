@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Student of the Dueling Arts
-frequency: null
-heighten_level: null
 id: '1959'
 level: '12'
 name: Student of the Dueling Arts
 prerequisite: '[[DATABASE/feat/Duelist Dedication|Duelist Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,22 +1,16 @@
 ﻿---
 ac: '17'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Freeze Shell
 - Hold Still
 - Recall Reflection
 - Shell Block
-creature_family: null
 dexterity: '+3'
 element: Water
-fly_speed: null
 fortitude: '+8'
-hardness: null
 hp: '40'
 id: '1217'
 immunity:
@@ -34,9 +28,6 @@ name: Ledalusca
 perception: '+8'
 rarity: Common
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -50,7 +41,6 @@ source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 25 feet
 - swim 30 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:

@@ -1,19 +1,14 @@
 ﻿---
-ability: null
-ability_boost: null
 feat: '[[DATABASE/feat/Assurance|Assurance]]'
 id: '132'
 name: Raised by Belief
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Lore|Lore]] skill with a subcategory associated with your deity(Abadar
   Lore'
 - for instance).
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

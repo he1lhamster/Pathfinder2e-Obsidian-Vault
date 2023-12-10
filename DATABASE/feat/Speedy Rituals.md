@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Speedy Rituals
-frequency: null
-heighten_level: null
 id: '2046'
 level: '14'
 name: Speedy Rituals
 prerequisite: '[[DATABASE/feat/Efficient Rituals|Efficient Rituals]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

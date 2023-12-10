@@ -12,9 +12,7 @@ item_subcategory: Base Weapons
 level: '0'
 name: Machete
 price: 7 sp
-range: null
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 trait:
 - '[[DATABASE/trait/Deadly|Deadly d8]]'

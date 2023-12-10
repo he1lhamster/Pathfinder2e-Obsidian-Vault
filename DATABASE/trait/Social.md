@@ -2,7 +2,6 @@
 id: '325'
 name: Social
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 trait:
 - Social

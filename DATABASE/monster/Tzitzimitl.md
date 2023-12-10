@@ -1,21 +1,15 @@
 ﻿---
 ac: '43'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+8'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Drain Life
 - Eclipse
 - Light to Dark
-creature_family: null
 dexterity: '+8'
-element: null
 fly_speed: '60'
 fortitude: '+29'
-hardness: null
 hp: 390 ( fast healing 15, negative healing )
 id: '1353'
 immunity:
@@ -43,8 +37,6 @@ reflex: '+32'
 resistance:
 - cold 15
 - physical 15 (except bludgeoning)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/spell/True Seeing|true seeing]]'
@@ -73,7 +65,6 @@ strength: '+10'
 strength_req: '10'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Electricity|Electricity]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

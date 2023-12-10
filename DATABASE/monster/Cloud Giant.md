@@ -1,10 +1,7 @@
 ﻿---
 ac: '30'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Attack of Opportunity
@@ -14,12 +11,9 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Giant|Giant]]'
 dexterity: '+0'
 element: Air
-fly_speed: null
 fortitude: '+25'
-hardness: null
 hp: '220'
 id: '224'
-immunity: null
 intelligence: '+1'
 land_speed: '30'
 language:
@@ -31,9 +25,6 @@ name: Cloud Giant
 perception: '+22'
 rarity: Common
 reflex: '+18'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 - scent (imprecise) 30 feet
@@ -55,7 +46,6 @@ strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Giant|Giant]]'
@@ -64,7 +54,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Reflex
-weakness: null
 will: '+21'
 wisdom: '+3'
 

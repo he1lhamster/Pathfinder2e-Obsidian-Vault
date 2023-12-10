@@ -1,56 +1,22 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
 bulk: L
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '2132'
 item_category: Worn Items
 item_subcategory: Other Worn Items
-land_speed: null
 level: '17'
-max_speed: null
 name: Amulet of the Third Eye
-onset: null
 price: 15,000 gp
-range: null
 rarity: Common
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Divination
-size: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-spell: null
-stage: null
 subcategory: wornitem
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Apex|Apex]]'
 - '[[DATABASE/trait/Divination|Divination]]'
 - '[[DATABASE/trait/Invested|Invested]]'
 - '[[DATABASE/trait/Magical|Magical]]'
-trigger: null
 type: Item
 usage: worn amulet
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Amulet of the Third Eye<span class="item-type">Item 17</span>

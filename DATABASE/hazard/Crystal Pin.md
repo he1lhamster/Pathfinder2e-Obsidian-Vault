@@ -1,20 +1,10 @@
 ﻿---
-ac: null
-all_resistance: null
 complexity: Simple
-element: null
-fortitude: null
-hardness: null
 hazard_type: Environmental
-hp: null
 id: '108'
-immunity: null
 level: '20'
 name: Crystal Pin
 rarity: Rare
-reflex: null
-resistance: null
-rus_type_level: null
 school: Abjuration
 source: '[[DATABASE/source/Monsters of Myth|Monsters of Myth]]'
 trait:
@@ -24,8 +14,6 @@ trait:
 - '[[DATABASE/trait/Kaiju|Kaiju]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Crystal Pin<span class="item-type">Hazard 20</span>

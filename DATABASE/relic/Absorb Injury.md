@@ -1,11 +1,8 @@
 ﻿---
-element: null
 id: '79'
 item_category: Relics
 name: Absorb Injury
-prerequisite: null
 rarity: Common
-rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 trait:

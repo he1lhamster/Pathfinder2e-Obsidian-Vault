@@ -1,8 +1,6 @@
 ﻿---
 ac: '22'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
 climb_speed: '30'
 constitution: '+1'
@@ -11,12 +9,8 @@ creature_ability:
 - Impaling Lunge
 - Skitter
 - Vile Innards
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+10'
-hardness: null
 hp: 75 ( negative healing )
 id: '1778'
 immunity:
@@ -38,9 +32,6 @@ name: Necrohusk
 perception: '+14'
 rarity: Rare
 reflex: '+15'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Lifesense|lifesense]] (imprecise) 30 feet'
@@ -54,12 +45,10 @@ source: '[[DATABASE/source/Pathfinder 176. Lost Mammoth Valley|Pathfinder #176: 
 speed:
 - 30 feet
 - climb 30 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Undead|Undead]]'
@@ -67,7 +56,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+12'
 wisdom: '+3'
 

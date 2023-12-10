@@ -3,7 +3,6 @@ id: '2'
 level: '5'
 name: Bloodied but Unbroken
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
 - '[[DATABASE/trait/Cavalry|Cavalry]]'

@@ -1,10 +1,7 @@
 ﻿---
 ac: '39'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Aging Strikes
@@ -17,15 +14,11 @@ creature_ability:
 - Temporal Strike
 creature_family: '[[DATABASE/monsterfamily/Aeon|Aeon]]'
 dexterity: '+4'
-element: null
 fly_speed: '35'
 fortitude: '+25'
-hardness: null
 hp: '245'
 id: '539'
-immunity: null
 intelligence: '+7'
-land_speed: null
 language:
 - envisioning
 level: '16'
@@ -34,9 +27,6 @@ name: Bythos
 perception: '+30'
 rarity: Uncommon
 reflex: '+26'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -64,7 +54,6 @@ strength: '+8'
 strength_req: '8'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aeon|Aeon]]'
 - '[[DATABASE/trait/Monitor|Monitor]]'

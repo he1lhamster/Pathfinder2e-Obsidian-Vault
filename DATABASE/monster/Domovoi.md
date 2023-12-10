@@ -1,10 +1,7 @@
 ﻿---
 ac: '17'
 alignment: CG
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Home Guardian
@@ -12,13 +9,9 @@ creature_ability:
 - Shy
 creature_family: '[[DATABASE/monsterfamily/House Spirit|House Spirit]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+5'
-hardness: null
 hp: '35'
 id: '1194'
-immunity: null
 intelligence: '+3'
 land_speed: '20'
 language:
@@ -30,9 +23,6 @@ name: Domovoi
 perception: '+11'
 rarity: Common
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) within their entire
   boundhome'
@@ -53,11 +43,9 @@ strength: '+1'
 strength_req: '1'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
 weakness:

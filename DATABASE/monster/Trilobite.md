@@ -1,35 +1,23 @@
 ﻿---
 ac: '15'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Curl Up
 - Quick Escape
 creature_family: '[[DATABASE/monsterfamily/Trilobite|Trilobite]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+4'
-hardness: null
 hp: '7'
 id: '1347'
-immunity: null
 intelligence: '-5'
-land_speed: null
-language: null
 level: '-1'
 max_speed: '25'
 name: Trilobite
 perception: '+8'
 rarity: Common
 reflex: '+7'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Wavesense|wavesense]] (imprecise) 30 feet'
@@ -41,7 +29,6 @@ skill:
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - swim 25 feet
-spell: null
 strength: '+1'
 strength_req: '1'
 strongest_save:
@@ -55,7 +42,6 @@ vision: Darkvision
 weakest_save:
 - Fortitude
 - Will
-weakness: null
 will: '+4'
 wisdom: '+2'
 

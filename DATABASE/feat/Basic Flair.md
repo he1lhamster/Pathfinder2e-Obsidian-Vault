@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Basic Flair
-frequency: null
-heighten_level: null
 id: '1860'
+leads_to: '[[DATABASE/feat/Advanced Flair|Advanced Flair]]'
 level: '4'
 name: Basic Flair
 prerequisite: '[[DATABASE/feat/Swashbuckler Dedication|Swashbuckler Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

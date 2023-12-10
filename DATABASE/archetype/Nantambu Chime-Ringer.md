@@ -4,7 +4,6 @@ level: '2'
 name: Nantambu Chime-Ringer
 prerequisite: Trained in [[DATABASE/skill/Performance|Performance]] ; Trained in [[DATABASE/skill/Society|Society]]
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 170. Spoken on the Song Wind|Pathfinder #170:
   Spoken on the Song Wind]]'
 trait:

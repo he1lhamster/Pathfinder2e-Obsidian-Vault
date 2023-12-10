@@ -1,18 +1,10 @@
 ﻿---
-actions: null
-cost: null
-element: null
-frequency: null
 id: '522'
 name: Retraining
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Downtime|Downtime]]'
-trigger: null
 type: Action
 
 ---

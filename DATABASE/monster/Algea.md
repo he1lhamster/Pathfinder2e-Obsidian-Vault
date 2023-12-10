@@ -1,10 +1,7 @@
 ﻿---
 ac: '30'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Drain Magic
@@ -14,10 +11,8 @@ creature_ability:
 - Soul Cage
 creature_family: '[[DATABASE/monsterfamily/Psychopomp|Psychopomp]]'
 dexterity: '+7'
-element: null
 fly_speed: '40'
 fortitude: '+18'
-hardness: null
 hp: '144'
 id: '1420'
 immunity:
@@ -45,8 +40,6 @@ resistance:
 - piercing 10
 - '[[DATABASE/trait/Poison|poison]] 10'
 - slashing 5
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Lifesense|lifesense]] 60 feet'
@@ -71,7 +64,6 @@ strength: '-1'
 strength_req: '-1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Monitor|Monitor]]'
 - '[[DATABASE/trait/Psychopomp|Psychopomp]]'

@@ -1,22 +1,16 @@
 ﻿---
 ac: '23'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Sprinkle Pixie Dust
 creature_family: '[[DATABASE/monsterfamily/Sprite|Sprite]]'
 dexterity: '+5'
-element: null
 fly_speed: '45'
 fortitude: '+8'
-hardness: null
 hp: '40'
 id: '391'
-immunity: null
 intelligence: '+3'
 land_speed: '15'
 language:
@@ -28,9 +22,6 @@ name: Pixie
 perception: '+12'
 rarity: Common
 reflex: '+14'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 size: Small
@@ -57,7 +48,6 @@ strength: '-1'
 strength_req: '-1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Sprite|Sprite]]'

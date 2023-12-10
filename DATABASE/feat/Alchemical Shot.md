@@ -1,24 +1,15 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Alchemical Shot
-frequency: null
-heighten_level: null
 id: '3165'
 level: '4'
 name: Alchemical Shot
-prerequisite: null
 rarity: Common
 requirement: You have an alchemicalbombwornor in one hand, and are wielding a firearm
   or crossbow in the other.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Gunslinger|Gunslinger]]'
-trigger: null
 type: Feat
 
 ---

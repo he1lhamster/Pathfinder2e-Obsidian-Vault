@@ -1,18 +1,11 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
-frequency: null
 id: '1453'
 name: Gulp Blood
 rarity: Common
 requirement: The water wraith's last action was a successful jaws attack against a
   foe.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-trait: null
-trigger: null
 type: Action
 
 ---

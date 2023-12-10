@@ -1,24 +1,17 @@
 ﻿---
-area: null
 cost: "rare incense and offerings worth a total value of 2 gp \xD7 the spell level\
   \ \xD7 the target\u2019s level"
 duration: see text
-element: null
-heighten: null
 heighten_level: '5'
 id: '16'
 level: '5'
 name: Planar Ally
 primary_check: '[[DATABASE/skill/Religion|Religion]] (expert)'
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Conjuration
 secondary_casters: 2, must share your religion
 secondary_check: '[[DATABASE/skill/Diplomacy|Diplomacy]]'
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

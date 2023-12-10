@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Evade Doom
-frequency: null
-heighten_level: null
 id: '2322'
+leads_to: '[[DATABASE/feat/Ten Lives|Ten Lives]]'
 level: '9'
 name: Evade Doom
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Catfolk|Catfolk]]'
-trigger: null
 type: Feat
 
 ---

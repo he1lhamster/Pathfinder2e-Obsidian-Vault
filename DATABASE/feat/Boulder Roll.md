@@ -1,23 +1,14 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Boulder Roll
-frequency: null
-heighten_level: null
 id: '7'
 level: '5'
 name: Boulder Roll
 prerequisite: '[[DATABASE/feat/Rock Runner|Rock Runner]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Dwarf|Dwarf]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,21 +1,14 @@
 ﻿---
 ac: '32'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Drain Life
 - Dreadful Spite
 - Wight Spawn
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+24'
-hardness: null
 hp: 235 ( negative healing )
 id: '2116'
 immunity:
@@ -34,9 +27,6 @@ name: Wight Cultist
 perception: '+22'
 rarity: Rare
 reflex: '+20'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -60,7 +50,6 @@ strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Undead|Undead]]'
@@ -68,7 +57,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+22'
 wisdom: '+6'
 

@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Chosen of Lamashtu
-frequency: null
-heighten_level: null
 id: '1003'
 level: '5'
 name: Chosen of Lamashtu
 prerequisite: worshipper of [[DATABASE/deity/Lamashtu|Lamashtu]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Goblin|Goblin]]'
-trigger: null
 type: Feat
 
 ---

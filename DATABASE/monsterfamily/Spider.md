@@ -3,9 +3,7 @@ creature_family: Spider
 id: '94'
 name: Spider
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
-trait: null
 type: Creature Family
 
 ---

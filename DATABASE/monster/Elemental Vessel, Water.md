@@ -1,10 +1,7 @@
 ﻿---
 ac: '40'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+8'
 creature_ability:
 - Dispel Vulnerability
@@ -15,9 +12,7 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Elemental, Water|Elemental, Water]]'
 dexterity: '+8'
 element: Water
-fly_speed: null
 fortitude: '+30'
-hardness: null
 hp: '225'
 id: '1009'
 immunity:
@@ -39,9 +34,6 @@ rarity: Uncommon
 reflex: '+28'
 resistance:
 - fire 15
-rus_type_level: null
-school: null
-sense: null
 size: Large
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +32'
@@ -81,10 +73,8 @@ trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 - '[[DATABASE/trait/Water|Water]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+22'
 wisdom: '+0'
 

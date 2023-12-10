@@ -2,9 +2,7 @@
 ac: '25'
 alignment: LN
 all_resistance: '10'
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Flurry of Blows
@@ -12,12 +10,9 @@ creature_ability:
 - Rejuvenation
 - Site Bound
 - Telekinetic Assault
-creature_family: null
 dexterity: '+4'
-element: null
 fly_speed: '40'
 fortitude: '+15'
-hardness: null
 hp: 115 ( negative healing , rejuvenation)
 id: '1454'
 immunity:
@@ -28,7 +23,6 @@ immunity:
 - precision
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '+2'
-land_speed: null
 language:
 - '[[DATABASE/language/Tien|Tien]]'
 level: '9'
@@ -42,8 +36,6 @@ resistance:
 - '[[DATABASE/equipment/Ghost Touch|ghost touch]]'
 - or [[DATABASE/trait/Positive|positive]] ; double resistance vs. non- [[DATABASE/trait/Magical|magical]]
   )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -55,12 +47,10 @@ source: '[[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #
   Despair on Danger Island]]'
 speed:
 - fly 40 feet
-spell: null
 strength: '-5'
 strength_req: '-5'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Ghost|Ghost]]'
 - '[[DATABASE/trait/Incorporeal|Incorporeal]]'
@@ -70,7 +60,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+21'
 wisdom: '+6'
 

@@ -1,26 +1,18 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Turpin Rowe Lumberjack Dedication
-frequency: null
-heighten_level: null
 id: '1232'
+leads_to: '[[DATABASE/feat/Axe Climber|Axe Climber]] , [[DATABASE/feat/Axe Thrower|Axe
+  Thrower]] , [[DATABASE/feat/Log Roll|Log Roll]]'
 level: '2'
 name: Turpin Rowe Lumberjack Dedication
 prerequisite: Trained in [[DATABASE/skill/Survival|Survival]]
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 153. Life''s Long Shadows|Pathfinder #153: Life''s
   Long Shadows]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

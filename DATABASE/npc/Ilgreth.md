@@ -1,18 +1,12 @@
 ﻿---
 ac: '28'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Drain Bonded Item
 - Overwhelming Energy
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+17'
 hp: '350'
 id: '1595'
@@ -34,9 +28,6 @@ name: Ilgreth
 perception: '+39'
 rarity: Unique
 reflex: '+19'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Arcana|Arcana]] +35'
@@ -92,16 +83,13 @@ strength_req: '3'
 strongest_save:
 - Reflex
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+19'
 wisdom: '+5'
 

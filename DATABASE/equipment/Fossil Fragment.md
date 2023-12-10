@@ -1,53 +1,19 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
 bulk: L
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
+element: Earth
 id: '2590'
 item_category: Held Items
-item_subcategory: null
-land_speed: null
-level: '18'
-max_speed: null
+level: '17'
 name: Fossil Fragment
-onset: null
-price: 21,000 gp
-range: null
-rarity: Uncommon
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
-school: null
-size: null
+price: 14,000 gp
+rarity: Common
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-spell: null
-stage: null
 subcategory: helditem
-swim_speed: null
 trait:
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
+- '[[DATABASE/trait/Earth|Earth]]'
+- '[[DATABASE/trait/Magical|Magical]]'
 type: Item
 usage: held in 1 hand
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Fossil Fragment<span class="item-type">Item 7+</span>

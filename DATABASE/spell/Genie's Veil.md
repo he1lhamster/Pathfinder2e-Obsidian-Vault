@@ -1,31 +1,17 @@
 ﻿---
 actions: '[reaction]'
-area: null
 bloodline: '[[DATABASE/sorcererbloodline/Genie|Genie]]'
 component:
 - Somatic
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
-heighten: null
 heighten_level: '1'
 id: '783'
-lesson: null
 level: '1'
-mystery: null
 name: Genie's Veil
-patron_theme: null
 range: 30 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 target: 1 willing creature
-tradition: null
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Sorcerer|Sorcerer]]'

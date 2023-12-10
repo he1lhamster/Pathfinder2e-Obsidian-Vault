@@ -1,8 +1,6 @@
 ﻿---
 ac: '38'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
 climb_speed: '30'
 constitution: '+4'
@@ -14,10 +12,7 @@ creature_ability:
 - Wrappings Lash
 creature_family: '[[DATABASE/monsterfamily/Psychopomp|Psychopomp]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+25'
-hardness: null
 hp: '240'
 id: '340'
 immunity:
@@ -42,8 +37,6 @@ reflex: '+27'
 resistance:
 - negative 15
 - poison 15
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - lifesense 60 feet
@@ -92,7 +85,6 @@ strength: '+8'
 strength_req: '8'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Monitor|Monitor]]'
 - '[[DATABASE/trait/Psychopomp|Psychopomp]]'
@@ -100,7 +92,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+29'
 wisdom: '+6'
 

@@ -1,20 +1,10 @@
 ﻿---
-ac: null
-all_resistance: null
 complexity: Simple
-element: null
-fortitude: null
-hardness: null
 hazard_type: Environmental
-hp: null
 id: '111'
-immunity: null
 level: '18'
 name: Storm Discharge
 rarity: Rare
-reflex: null
-resistance: null
-rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Monsters of Myth|Monsters of Myth]]'
 trait:
@@ -25,8 +15,6 @@ trait:
 - '[[DATABASE/trait/Kaiju|Kaiju]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Storm Discharge<span class="item-type">Hazard 18</span>

@@ -1,10 +1,7 @@
 ﻿---
 ac: '22'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Brutal Beating
@@ -15,13 +12,9 @@ creature_ability:
 - Tight Formation
 creature_family: '[[DATABASE/monsterfamily/Duergar|Duergar]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+14'
-hardness: null
 hp: '90'
 id: '2697'
-immunity: null
 intelligence: '+1'
 land_speed: '20'
 language:
@@ -34,9 +27,6 @@ name: Hagegraf Royal Guard
 perception: '+16'
 rarity: Uncommon
 reflex: '+11'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - iron mind
@@ -59,7 +49,6 @@ strength_req: '4'
 strongest_save:
 - Fortitude
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Duergar|Duergar]]'
 - '[[DATABASE/trait/Dwarf|Dwarf]]'
@@ -69,7 +58,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+14'
 wisdom: '+5'
 

@@ -1,20 +1,12 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Desperate Finisher
-frequency: null
-heighten_level: null
 id: '414'
 level: '14'
 name: Desperate Finisher
-prerequisite: null
 rarity: Common
 requirement: You meet the requirements to use an action with the press trait.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fighter|Fighter]]'
 trigger: You complete the last action on your turn, and your turn has not ended yet.

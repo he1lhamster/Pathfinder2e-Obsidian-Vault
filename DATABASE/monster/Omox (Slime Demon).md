@@ -1,8 +1,6 @@
 ﻿---
 ac: '25'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
 climb_speed: '20'
 constitution: '+7'
@@ -14,10 +12,7 @@ creature_ability:
 - Smother
 creature_family: '[[DATABASE/monsterfamily/Demon|Demon]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+25'
-hardness: null
 hp: '395'
 id: '1112'
 immunity:
@@ -39,9 +34,6 @@ name: Omox
 perception: '+22'
 rarity: Uncommon
 reflex: '+21'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 size: Medium

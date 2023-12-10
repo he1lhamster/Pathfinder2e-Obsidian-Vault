@@ -1,10 +1,8 @@
 ﻿---
 ac: '28'
 alignment: NE
-all_resistance: null
 burrow_speed: '40'
 charisma: '+1'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Draconic Frenzy
@@ -19,7 +17,6 @@ dexterity: '+3'
 element: Earth
 fly_speed: '50'
 fortitude: '+18'
-hardness: null
 hp: '150'
 id: '1952'
 immunity:
@@ -29,7 +26,6 @@ immunity:
 - unconscious
 intelligence: '-1'
 land_speed: '20'
-language: null
 level: '9'
 max_speed: '50'
 name: Mutant Desert Drake
@@ -38,8 +34,6 @@ rarity: Rare
 reflex: '+16'
 resistance:
 - electricity 18
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -56,12 +50,10 @@ speed:
 - 20 feet
 - burrow 40 feet (sand only)
 - fly 50 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dragon|Dragon]]'
 - '[[DATABASE/trait/Earth|Earth]]'
@@ -71,7 +63,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+15'
 wisdom: '+3'
 

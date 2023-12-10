@@ -1,45 +1,16 @@
 ﻿---
-ac: null
 actions: '[one-action]'
-alignment: null
-base_item: null
 bulk: L
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '2558'
 item_category: Consumables
 item_subcategory: Potions
-land_speed: null
-level: '8'
-max_speed: null
+level: '4'
 name: Bloodhammer Reserve
-onset: null
-price: 100 gp
-range: null
+price: 20 gp
 rarity: Uncommon
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
-size: null
 source: '[[DATABASE/source/Highhelm|Highhelm]]'
-spell: null
-stage: null
 subcategory: consumable/potion
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Consumable|Consumable]]'
 - '[[DATABASE/trait/Magical|Magical]]'
@@ -47,12 +18,8 @@ trait:
 - '[[DATABASE/trait/Potion|Potion]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Item
 usage: held in 1 hand
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Bloodhammer Reserve<span class="item-type">Item 4+</span>

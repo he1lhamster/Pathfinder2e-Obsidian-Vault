@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Beneath Notice
-frequency: null
-heighten_level: null
 id: '2735'
 level: '10'
 name: Beneath Notice
 prerequisite: '[[DATABASE/feat/Golden League Xun Dedication|Golden League Xun Dedication]]
   ; Expert in [[DATABASE/skill/Deception|Deception]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 167. Ready Fight!|Pathfinder #167: Ready? Fight!]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

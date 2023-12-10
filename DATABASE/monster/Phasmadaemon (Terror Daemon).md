@@ -1,10 +1,7 @@
 ﻿---
 ac: '39'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Constrict
@@ -15,10 +12,8 @@ creature_ability:
 - Unending Terror
 creature_family: '[[DATABASE/monsterfamily/Daemon|Daemon]]'
 dexterity: '+8'
-element: null
 fly_speed: '35'
 fortitude: '+31'
-hardness: null
 hp: '340'
 id: '2578'
 immunity:
@@ -36,9 +31,6 @@ name: Phasmadaemon
 perception: '+29'
 rarity: Uncommon
 reflex: '+26'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/spell/True Seeing|true seeing]]'
@@ -69,7 +61,6 @@ strength_req: '8'
 strongest_save:
 - Fortitude
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Daemon|Daemon]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

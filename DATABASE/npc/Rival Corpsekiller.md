@@ -1,23 +1,16 @@
 ﻿---
 ac: '39'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Attack of Opportunity
 - Circling Assault
 - Corpsekiller
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+30'
 hp: 370 ( negative healing )
 id: '2428'
-immunity: null
 intelligence: '+3'
 land_speed: '20'
 language:
@@ -29,9 +22,6 @@ name: Rival Corpsekiller
 perception: '+28'
 rarity: Uncommon
 reflex: '+28'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +28'
@@ -46,21 +36,17 @@ source: '[[DATABASE/source/Pathfinder 186. Ghost King''s Rage|Pathfinder #186: G
   King''s Rage]]'
 speed:
 - 25 feet (20 feet with armor)
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+25'
 wisdom: '+4'
 

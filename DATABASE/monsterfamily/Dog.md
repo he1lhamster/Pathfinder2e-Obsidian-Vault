@@ -3,9 +3,7 @@ creature_family: Dog
 id: '33'
 name: Dog
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
-trait: null
 type: Creature Family
 
 ---

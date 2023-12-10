@@ -1,24 +1,15 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Dazing Blow
-frequency: null
-heighten_level: null
 id: '1725'
 level: '6'
 name: Dazing Blow
-prerequisite: null
 rarity: Common
 requirement: You have a creature [[DATABASE/condition/Grabbed|grabbed]] .
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fighter|Fighter]]'
 - '[[DATABASE/trait/Press|Press]]'
-trigger: null
 type: Feat
 
 ---

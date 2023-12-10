@@ -1,20 +1,13 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
 element: Earth, Water
 feat: Roiling Mudslide
-frequency: null
 heighten_level: 6, 10, 14, 18
 id: '4308'
 level: '6'
 name: Roiling Mudslide
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Composite|Composite]]'
 - '[[DATABASE/trait/Earth|Earth]]'
@@ -22,7 +15,6 @@ trait:
 - '[[DATABASE/trait/Kineticist|Kineticist]]'
 - '[[DATABASE/trait/Primal|Primal]]'
 - '[[DATABASE/trait/Water|Water]]'
-trigger: null
 type: Feat
 
 ---

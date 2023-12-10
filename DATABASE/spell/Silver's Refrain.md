@@ -1,39 +1,23 @@
 ﻿---
 actions: '[one-action]'
 area: 60-foot emanation
-bloodline: null
 component:
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 1 round
-element: null
-heighten: null
 heighten_level: '1'
 id: '555'
-lesson: null
 level: '1'
-mystery: null
 name: Silver's Refrain
-patron_theme: null
-range: null
 rarity: Rare
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Pathfinder 147. Tomorrow Must Burn|Pathfinder #147: Tomorrow
   Must Burn]]'
-target: null
-tradition: null
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Bard|Bard]]'
 - '[[DATABASE/trait/Cantrip|Cantrip]]'
 - '[[DATABASE/trait/Composition|Composition]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Cantrip
 
 ---

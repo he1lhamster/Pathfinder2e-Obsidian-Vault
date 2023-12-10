@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Order Magic
-frequency: null
-heighten_level: null
 id: '323'
 level: '4'
 name: Order Magic
 prerequisite: '[[DATABASE/feat/Order Explorer|Order Explorer]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Druid|Druid]]'
-trigger: null
 type: Feat
 
 ---

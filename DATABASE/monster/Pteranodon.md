@@ -1,34 +1,24 @@
 ﻿---
 ac: '18'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Swoop
 creature_family: '[[DATABASE/monsterfamily/Pterosaur|Pterosaur]]'
 dexterity: '+4'
-element: null
 fly_speed: '40'
 fortitude: '+7'
-hardness: null
 hp: '35'
 id: '341'
-immunity: null
 intelligence: '-4'
 land_speed: '10'
-language: null
 level: '2'
 max_speed: '40'
 name: Pteranodon
 perception: '+8'
 rarity: Common
 reflex: '+10'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 - scent (imprecise) 30 feet
@@ -40,19 +30,16 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 10 feet
 - fly 40 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+6'
 wisdom: '+2'
 

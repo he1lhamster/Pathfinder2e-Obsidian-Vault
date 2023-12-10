@@ -1,10 +1,7 @@
 ﻿---
 ac: '39'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Anonymity
@@ -13,30 +10,21 @@ creature_ability:
 - Skewer the Fearful
 - Stern Glare
 - Whispers of Superiority
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+26'
 hp: '300'
 id: '1649'
-immunity: null
 intelligence: '+4'
-land_speed: null
 language:
 - '[[DATABASE/language/Common|Common]]'
 - '[[DATABASE/language/Elven|Elven]]'
 - '[[DATABASE/language/Infernal|Infernal]]'
 - '[[DATABASE/language/Requian|Requian]]'
 level: '16'
-max_speed: null
 name: Gray Gardener Director General
 perception: '+28'
 rarity: Rare
 reflex: '+27'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +27'
@@ -47,22 +35,17 @@ skill:
 - '[[DATABASE/skill/Society|Society]] +28'
 - '[[DATABASE/skill/Stealth|Stealth]] +27'
 source: '[[DATABASE/source/Night of the Gray Death|Night of the Gray Death]]'
-speed: null
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+30'
 wisdom: '+2'
 

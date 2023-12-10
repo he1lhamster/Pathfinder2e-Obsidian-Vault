@@ -1,24 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Imposing Destrier
-frequency: null
-heighten_level: null
 id: '238'
+leads_to: '[[DATABASE/feat/Auspicious Mount|Auspicious Mount]]'
 level: '10'
 name: Imposing Destrier
 prerequisite: '[[DATABASE/class_/Champion|divine ally (steed)]] ; [[DATABASE/feat/Loyal
   Warhorse|Loyal Warhorse]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Champion|Champion]]'
-trigger: null
 type: Feat
 
 ---

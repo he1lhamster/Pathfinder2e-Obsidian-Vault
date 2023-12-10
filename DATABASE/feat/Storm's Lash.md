@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Storm's Lash
-frequency: null
-heighten_level: null
 id: '1312'
+leads_to: '[[DATABASE/feat/Hurricane Swing|Hurricane Swing]]'
 level: '1'
 name: Storm's Lash
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Tengu|Tengu]]'
-trigger: null
 type: Feat
 
 ---

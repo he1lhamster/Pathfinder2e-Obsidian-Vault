@@ -1,14 +1,8 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
-frequency: null
 id: '911'
 name: Ten Paces
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:
 - '[[DATABASE/trait/Gunslinger|Gunslinger]]'

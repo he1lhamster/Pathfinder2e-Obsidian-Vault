@@ -1,24 +1,17 @@
 ﻿---
 ac: '27'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Bardic Lore
 - Cautionary Tale
 - Divine Aegis
 - Steady Spellcasting
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+16'
 hp: '127'
 id: '2099'
-immunity: null
 intelligence: '+4'
 land_speed: '30'
 language:
@@ -31,8 +24,6 @@ name: Lasheeli Aminda
 perception: '+19'
 rarity: Unique
 reflex: '+19'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -83,7 +74,6 @@ strength_req: '0'
 strongest_save:
 - Reflex
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aasimar|Aasimar]]'
 - '[[DATABASE/trait/Human|Human]]'
@@ -93,7 +83,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+19'
 wisdom: '+3'
 

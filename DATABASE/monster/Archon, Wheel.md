@@ -1,10 +1,7 @@
 ﻿---
 ac: '41'
 alignment: LG
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - All-Knowing Eyes
@@ -12,15 +9,11 @@ creature_ability:
 - Focus Gaze
 creature_family: '[[DATABASE/monsterfamily/Archon|Archon]]'
 dexterity: '+9'
-element: null
 fly_speed: '50'
 fortitude: '+26'
-hardness: null
 hp: '230'
 id: '2079'
-immunity: null
 intelligence: '+5'
-land_speed: null
 language:
 - '[[DATABASE/language/Celestial|Celestial]]'
 - '[[DATABASE/language/Draconic|Draconic]]'
@@ -31,9 +24,6 @@ name: Wheel Archon
 perception: '+28'
 rarity: Rare
 reflex: '+31'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/spell/Discern Lies|discern lies]]'
@@ -63,7 +53,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Archon|Archon]]'
 - '[[DATABASE/trait/Celestial|Celestial]]'

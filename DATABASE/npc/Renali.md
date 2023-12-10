@@ -1,8 +1,6 @@
 ﻿---
 ac: '18'
 alignment: CG
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
 climb_speed: '25'
 constitution: '+0'
@@ -10,14 +8,10 @@ creature_ability:
 - Anadi Venom
 - Change Shape
 - Spin Silk
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+8'
 hp: '60'
 id: '1600'
-immunity: null
 intelligence: '+2'
 land_speed: '25'
 language:
@@ -29,9 +23,6 @@ name: Renali
 perception: '+12'
 rarity: Unique
 reflex: '+10'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +6'
@@ -60,16 +51,13 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Anadi|Anadi]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+12'
 wisdom: '+4'
 

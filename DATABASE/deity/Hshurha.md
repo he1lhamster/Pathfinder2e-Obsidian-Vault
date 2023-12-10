@@ -24,11 +24,9 @@ follower_alignment:
 id: '103'
 name: Hshurha
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Stealth|Stealth]]'
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-trait: null
 type: Deity
 
 ---

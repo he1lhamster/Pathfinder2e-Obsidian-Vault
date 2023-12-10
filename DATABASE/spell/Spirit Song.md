@@ -5,33 +5,20 @@ bloodline: '[[DATABASE/sorcererbloodline/Psychopomp|Psychopomp]]'
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
 heighten: '+1'
 heighten_level: 8, 9, 10
 id: '303'
-lesson: null
 level: '8'
-mystery: null
 name: Spirit Song
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: basicFortitude
 school: Necromancy
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Occult
 trait:
 - '[[DATABASE/trait/Force|Force]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
-trigger: null
 type: Spell
 
 ---

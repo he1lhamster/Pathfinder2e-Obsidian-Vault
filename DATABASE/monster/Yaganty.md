@@ -1,25 +1,17 @@
 ﻿---
 ac: '29'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+7'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Attack of Opportunity
 - Fling Wax
 - Light in the Darkness
 - Vulnerability to Extinguishing
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+23'
-hardness: null
 hp: '200'
 id: '525'
-immunity: null
 intelligence: '+2'
 land_speed: '20'
 language:
@@ -34,8 +26,6 @@ rarity: Uncommon
 reflex: '+17'
 resistance:
 - fire 10
-rus_type_level: null
-school: null
 sense:
 - greater darkvision
 size: Large
@@ -57,7 +47,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

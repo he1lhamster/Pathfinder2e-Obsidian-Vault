@@ -1,42 +1,13 @@
 ﻿---
-ac: null
 actions: '[one-action]'
-alignment: null
-base_item: null
 bulk: L
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '2370'
 item_category: Blighted Boons
-item_subcategory: null
-land_speed: null
 level: '11'
-max_speed: null
 name: Elder Seed
-onset: null
-price: null
-range: null
 rarity: Rare
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
-size: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-spell: null
 stage: 'Stage 1: You die.Purging You must seek out an arboreal, druid, or nature-loving
   fey that is yourlevel or higher whom you have never met, and pledge your allegiance
   to that being. Doing so placesyou under a geas to accomplish at least onemeaningful
@@ -44,18 +15,13 @@ stage: 'Stage 1: You die.Purging You must seek out an arboreal, druid, or nature
   tostage 4. Once you complete your service, you regurgitate the elder seed, and its
   effects onyou end.'
 subcategory: blightedboon
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Consumable|Consumable]]'
 - '[[DATABASE/trait/Primal|Primal]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Item
 usage: held in 1 hand
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Elder Seed<span class="item-type">Item 11</span>

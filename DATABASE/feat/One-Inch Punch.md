@@ -1,23 +1,15 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: One-Inch Punch
-frequency: null
-heighten_level: null
 id: '1742'
+leads_to: '[[DATABASE/feat/One-Millimeter Punch|One-Millimeter Punch]]'
 level: '6'
 name: One-Inch Punch
 prerequisite: expert strikes
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Monk|Monk]]'
-trigger: null
 type: Feat
 
 ---

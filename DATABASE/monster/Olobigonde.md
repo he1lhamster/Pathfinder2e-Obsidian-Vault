@@ -1,37 +1,25 @@
 ﻿---
 ac: '17'
-alignment: null
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Ambush
 - Camouflage
 - Decomposing Toxin
 - Reactive Grab
-creature_family: null
 dexterity: '+1'
 element: Water
-fly_speed: null
 fortitude: '+10'
-hardness: null
 hp: '38'
 id: '2664'
-immunity: null
 intelligence: '-4'
 land_speed: '5'
-language: null
 level: '2'
 max_speed: '30'
 name: Olobigonde
 perception: '+7'
 rarity: Common
 reflex: '+7'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 60 feet'
 size: Large
@@ -43,7 +31,6 @@ source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 speed:
 - 5 feet
 - swim 30 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
@@ -55,10 +42,8 @@ trait:
 - '[[DATABASE/trait/Elemental|Elemental]]'
 - '[[DATABASE/trait/Water|Water]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+5'
 wisdom: '+1'
 

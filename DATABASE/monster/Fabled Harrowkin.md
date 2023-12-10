@@ -1,10 +1,7 @@
 ﻿---
 ac: '40'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+9'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Defensive Suit
@@ -14,10 +11,8 @@ creature_ability:
 - Twist Fate
 creature_family: '[[DATABASE/monsterfamily/Harrowkin|Harrowkin]]'
 dexterity: '+5'
-element: null
 fly_speed: '40'
 fortitude: '+32'
-hardness: null
 hp: '315'
 id: '2581'
 immunity:
@@ -44,9 +39,6 @@ name: Fabled Harrowkin
 perception: '+29'
 rarity: Uncommon
 reflex: '+30'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -75,7 +67,6 @@ strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
@@ -83,7 +74,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+27'
 wisdom: '+4'
 

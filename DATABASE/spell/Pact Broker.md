@@ -1,31 +1,19 @@
 ﻿---
 actions: '[one-action]'
-area: null
-bloodline: null
 component:
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: sustained up to 1 minute
-element: null
-heighten: null
 heighten_level: '1'
 id: '1180'
-lesson: null
 level: '1'
-mystery: null
 name: Pact Broker
 patron_theme: '[[DATABASE/witchpatron/Pacts|Pacts]]'
 range: 30 feet
 rarity: Rare
-requirement: null
-rus_type_level: null
 saving_throw: Will
 school: Enchantment
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 target: 1 creature
-tradition: null
 trait:
 - '[[DATABASE/trait/Cantrip|Cantrip]]'
 - '[[DATABASE/trait/Enchantment|Enchantment]]'
@@ -33,7 +21,6 @@ trait:
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Witch|Witch]]'
-trigger: null
 type: Cantrip
 
 ---

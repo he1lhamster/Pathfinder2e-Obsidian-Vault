@@ -1,45 +1,16 @@
 ﻿---
-ac: null
 actions: '[reaction]'
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '1036'
 item_category: Consumables
 item_subcategory: Talismans
-land_speed: null
 level: '14'
-max_speed: null
 name: Vapor Sphere
-onset: null
 price: 900 gp
-range: null
 rarity: Common
-reflex: null
 requirement: You're an expert in the affixed armor and an expert in Reflex saves.
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
-size: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-spell: null
-stage: null
 subcategory: consumable/talisman
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Consumable|Consumable]]'
 - '[[DATABASE/trait/Magical|Magical]]'
@@ -49,9 +20,6 @@ trigger: You trigger a trap's reaction or an enemy that was [[DATABASE/condition
   by you makes an attack against you
 type: Item
 usage: affixed to armor
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Vapor Sphere<span class="item-type">Item 14</span>

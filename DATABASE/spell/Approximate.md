@@ -1,31 +1,17 @@
 ﻿---
 actions: '[two-actions]'
 area: 1 cubic foot
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
-heighten: null
 heighten_level: '1'
 id: '864'
-lesson: null
 level: '1'
-mystery: null
 name: Approximate
-patron_theme: null
 range: 10 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-target: null
 tradition:
 - Arcane
 - Divine
@@ -35,7 +21,6 @@ trait:
 - '[[DATABASE/trait/Cantrip|Cantrip]]'
 - '[[DATABASE/trait/Detection|Detection]]'
 - '[[DATABASE/trait/Divination|Divination]]'
-trigger: null
 type: Cantrip
 
 ---

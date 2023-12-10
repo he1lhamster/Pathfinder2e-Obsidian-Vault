@@ -1,11 +1,8 @@
 ﻿---
-element: null
 id: '35'
 item_category: Relics
 name: Profane Fervor
-prerequisite: null
 rarity: Common
-rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:

@@ -1,21 +1,10 @@
 ﻿---
-ac: null
-all_resistance: null
 complexity: Complex
-element: null
-fortitude: null
-hardness: null
 hazard_type: Trap
-hp: null
 id: '388'
-immunity: null
 level: '6'
 name: The Enmity Cycle
 rarity: Rare
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/The Enmity Cycle|The Enmity Cycle]]'
 trait:
 - '[[DATABASE/trait/Complex|Complex]]'
@@ -24,8 +13,6 @@ trait:
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # The Enmity Cycle<span class="item-type">Hazard 6</span>

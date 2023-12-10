@@ -1,24 +1,15 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Dual-Weapon Reload (Gunslinger)
-frequency: null
-heighten_level: null
 id: '3294'
 level: '1'
 name: Dual-Weapon Reload (Gunslinger)
-prerequisite: null
 rarity: Common
 requirement: You are wielding two one-handed weapons, each in a different hand, one
   of which is a ranged weapon.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Gunslinger|Gunslinger]]'
-trigger: null
 type: Feat
 
 ---

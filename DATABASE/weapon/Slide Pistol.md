@@ -1,8 +1,6 @@
 ﻿---
 bulk: '2'
 damage: 1d6 P
-deity: null
-favored_weapon: null
 hands: '1'
 id: '206'
 item_category: Weapons
@@ -12,7 +10,6 @@ name: Slide Pistol
 price: 16 gp
 range: 30 ft.
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:
 - '[[DATABASE/trait/Capacity|Capacity 5]]'

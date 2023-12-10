@@ -3,9 +3,7 @@ creature_family: Healers
 id: '187'
 name: Healers
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
-trait: null
 type: Creature Family
 
 ---

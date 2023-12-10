@@ -18,7 +18,6 @@ language:
 max_speed: '25'
 name: Android
 rarity: Rare
-rus_type_level: null
 size: Medium
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 speed:

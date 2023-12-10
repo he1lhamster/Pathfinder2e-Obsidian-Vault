@@ -3,9 +3,7 @@ creature_family: Mystics
 id: '191'
 name: Mystics
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
-trait: null
 type: Creature Family
 
 ---

@@ -1,11 +1,8 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Feast
-frequency: null
-heighten_level: null
 id: '3559'
+leads_to: '[[DATABASE/feat/Brains!|Brains!]]'
 level: '4'
 name: Feast
 prerequisite: '[[DATABASE/feat/Zombie Dedication|Zombie Dedication]]'
@@ -13,14 +10,10 @@ rarity: Common
 requirement: You are adjacent to a [[DATABASE/condition/Restrained|restrained]] or
   [[DATABASE/condition/Unconscious|unconscious]] creature, or a deceased creature
   thatdied in the past hour.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
-trigger: null
 type: Feat
 
 ---

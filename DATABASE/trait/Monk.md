@@ -2,7 +2,6 @@
 id: '112'
 name: Monk
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - Monk

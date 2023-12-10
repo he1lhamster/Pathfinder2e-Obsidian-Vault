@@ -1,25 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Sacral Monarch
-frequency: null
-heighten_level: null
 id: '3838'
 level: '14'
 name: Sacral Monarch
 prerequisite: '[[DATABASE/feat/Sacral Lord|Sacral Lord]] ; Master in [[DATABASE/skill/Occultism|Occultism]]
   or Master in [[DATABASE/skill/Religion|Religion]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Champion|Champion]]'
 - '[[DATABASE/trait/Oracle|Oracle]]'
-trigger: null
 type: Feat
 
 ---

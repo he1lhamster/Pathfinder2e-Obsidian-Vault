@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Domain Focus
-frequency: null
-heighten_level: null
 id: '295'
+leads_to: '[[DATABASE/feat/Domain Wellspring|Domain Wellspring]]'
 level: '12'
 name: Domain Focus
 prerequisite: one or more domain spells
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Cleric|Cleric]]'
-trigger: null
 type: Feat
 
 ---

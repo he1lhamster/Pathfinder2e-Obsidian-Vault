@@ -1,20 +1,14 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
-frequency: null
 id: '925'
 name: Dispelling Bullet
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Abjuration
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Spellshot|Spellshot]]'
-trigger: null
 type: Action
 
 ---

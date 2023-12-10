@@ -4,7 +4,6 @@ level: '2'
 name: Animal Trainer
 prerequisite: Trained in [[DATABASE/skill/Nature|Nature]]
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 152. Legacy of the Lost God|Pathfinder #152:
   Legacy of the Lost God]]'
 trait:

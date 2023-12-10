@@ -1,27 +1,20 @@
 ﻿---
 actions: '[three-actions]'
-cost: null
-element: null
 feat: Instigate Psychic Duel
 frequency: once per day
-heighten_level: null
 id: '3861'
 level: '12'
 name: Instigate Psychic Duel
 prerequisite: '[[DATABASE/feat/Psychic Duelist Dedication|Psychic Duelist Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Illusion
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Illusion|Illusion]]'
 - '[[DATABASE/trait/Incapacitation|Incapacitation]]'
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Occult|Occult]]'
-trigger: null
 type: Feat
 
 ---

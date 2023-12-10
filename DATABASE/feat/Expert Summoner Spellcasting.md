@@ -1,24 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Expert Summoner Spellcasting
-frequency: null
-heighten_level: null
 id: '2959'
+leads_to: '[[DATABASE/feat/Master Summoner Spellcasting|Master Summoner Spellcasting]]'
 level: '12'
 name: Expert Summoner Spellcasting
 prerequisite: '[[DATABASE/feat/Basic Summoner Spellcasting|Basic Summoner Spellcasting]]
   ; master in the skillassociated with youreidolon''stradition'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

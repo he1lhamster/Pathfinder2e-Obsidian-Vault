@@ -1,20 +1,14 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Interrupt Charge
-frequency: null
-heighten_level: null
 id: '3578'
+leads_to: '[[DATABASE/feat/Instinctual Interception|Instinctual Interception]]'
 level: '8'
 name: Interrupt Charge
 prerequisite: '[[DATABASE/feat/Knight Vigilant|Knight Vigilant]]'
 rarity: Common
 requirement: You have a hand free.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 trigger: A foe within reach attempts to move away from you.

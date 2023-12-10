@@ -1,11 +1,7 @@
 ﻿---
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+4'
 dexterity: '+0'
-element: null
-fly_speed: null
 hp: '10'
 id: '45'
 intelligence: '-5'
@@ -13,17 +9,14 @@ land_speed: '20'
 max_speed: '20'
 name: Zombie
 rarity: Uncommon
-rus_type_level: null
 sense:
 - darkvision
 size: Small, Medium
-skill: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 speed:
 - 20 feet
 strength: '+2'
 strength_req: '2'
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Animal Companion

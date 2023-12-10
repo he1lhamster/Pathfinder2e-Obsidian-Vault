@@ -1,7 +1,6 @@
 ﻿---
 id: '1'
 name: Blinded
-source: null
 
 ---
 # Blinded

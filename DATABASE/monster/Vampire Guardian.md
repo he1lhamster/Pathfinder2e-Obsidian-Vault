@@ -1,8 +1,6 @@
 ﻿---
 ac: '29'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
 climb_speed: '25'
 constitution: '+2'
@@ -18,10 +16,7 @@ creature_ability:
 - Turn to Mist
 creature_family: '[[DATABASE/monsterfamily/Vampire|Vampire]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+17'
-hardness: null
 hp: 132 (coffin restoration, fast healing 10 , negative healing )
 id: '2149'
 immunity:
@@ -44,8 +39,6 @@ reflex: '+19'
 resistance:
 - physical 10 (except [[DATABASE/trait/Magical|magical]] [[DATABASE/equipment/Silver
   Weapon|silver]] )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -61,12 +54,10 @@ source: '[[DATABASE/source/Pathfinder 184. The Ghouls Hunger|Pathfinder #184: Th
 speed:
 - 25 feet
 - climb 25 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Undead|Undead]]'

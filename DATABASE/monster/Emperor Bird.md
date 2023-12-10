@@ -1,36 +1,24 @@
 ﻿---
 ac: '18'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Dazzling Display
 - Tail Lash
-creature_family: null
 dexterity: '+3'
-element: null
 fly_speed: '20'
 fortitude: '+6'
-hardness: null
 hp: '27'
 id: '434'
-immunity: null
 intelligence: '-4'
 land_speed: '15'
-language: null
 level: '2'
 max_speed: '20'
 name: Emperor Bird
 perception: '+8'
 rarity: Uncommon
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +9'
@@ -41,20 +29,16 @@ source: '[[DATABASE/source/Pathfinder 145. Hellknight Hill|Pathfinder #145: Hell
 speed:
 - 15 feet
 - fly 20 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+7'
 wisdom: '+1'
 

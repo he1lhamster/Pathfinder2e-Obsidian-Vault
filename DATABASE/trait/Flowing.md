@@ -2,7 +2,6 @@
 id: '277'
 name: Flowing
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
 - Flowing

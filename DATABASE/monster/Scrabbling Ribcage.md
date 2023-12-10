@@ -1,8 +1,6 @@
 ﻿---
 ac: '16'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
 climb_speed: '20'
 constitution: '+2'
@@ -12,10 +10,7 @@ creature_ability:
 - Skittering Rush
 creature_family: '[[DATABASE/monsterfamily/Animated Bones|Animated Bones]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+7'
-hardness: null
 hp: '20'
 id: '2030'
 immunity:
@@ -34,7 +29,6 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '20'
-language: null
 level: '1'
 max_speed: '20'
 name: Scrabbling Ribcage
@@ -47,8 +41,6 @@ resistance:
 - '[[DATABASE/trait/Fire|fire]] 3'
 - piercing 3
 - slashing 3
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -58,12 +50,10 @@ source: '[[DATABASE/source/Pathfinder 181. Zombie Feast|Pathfinder #181: Zombie 
 speed:
 - 20 feet
 - climb 20 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Mindless|Mindless]]'

@@ -1,10 +1,6 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Malleable Form
-frequency: null
-heighten_level: null
 id: '3804'
 level: '13'
 name: Malleable Form
@@ -12,14 +8,11 @@ prerequisite: ability to cast at least one [[DATABASE/trait/Polymorph|polymorph]
   spell
 rarity: Common
 requirement: You're polymorphed by a spell that has multiple choices of battle form.
-rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Reflection|Reflection]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Feat
 
 ---

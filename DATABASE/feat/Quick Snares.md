@@ -1,24 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Quick Snares
-frequency: null
-heighten_level: null
 id: '509'
+leads_to: '[[DATABASE/feat/Lightning Snares|Lightning Snares]]'
 level: '6'
 name: Quick Snares
 prerequisite: Expert in [[DATABASE/skill/Crafting|Crafting]] ; [[DATABASE/feat/Snare
   Specialist|Snare Specialist]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Ranger|Ranger]]'
-trigger: null
 type: Feat
 
 ---

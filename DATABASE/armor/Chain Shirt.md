@@ -12,9 +12,7 @@ level: '0'
 name: Chain Shirt
 price: 5 gp
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-speed_penalty: null
 strength: '+12'
 strength_req: '12'
 trait:

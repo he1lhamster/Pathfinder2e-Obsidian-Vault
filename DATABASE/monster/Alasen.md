@@ -1,10 +1,7 @@
 ﻿---
 ac: '36'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Change Shape
@@ -18,15 +15,10 @@ creature_ability:
 - Rend
 - Sneak Attack
 - Tiger Empathy
-creature_family: null
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+23'
-hardness: null
 hp: '245'
 id: '2332'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -40,8 +32,6 @@ reflex: '+28'
 resistance:
 - cold 5
 - fire 5
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -56,12 +46,10 @@ skill:
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 speed:
 - 25 feet
-spell: null
 strength: '+8'
 strength_req: '8'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Human|Human]]'

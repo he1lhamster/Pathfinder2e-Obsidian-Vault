@@ -1,40 +1,26 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Aakriti|Aakriti]]'
 - '[[DATABASE/deity/Ghlaunder|Ghlaunder]]'
 - '[[DATABASE/deity/Kitumu|Kitumu]]'
-domain: null
 duration: 1 minute
-element: null
 heighten: 4th, 5th
 heighten_level: 3, 4, 5
 id: '163'
-lesson: null
 level: '3'
-mystery: null
 name: Insect Form
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Primal
 trait:
 - '[[DATABASE/trait/Polymorph|Polymorph]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Spell
 
 ---

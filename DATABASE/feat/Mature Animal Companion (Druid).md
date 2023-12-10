@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Mature Animal Companion (Druid)
-frequency: null
-heighten_level: null
 id: '322'
+leads_to: '[[DATABASE/feat/Incredible Companion (Druid)|Incredible Companion (Druid)]]'
 level: '4'
 name: Mature Animal Companion (Druid)
 prerequisite: '[[DATABASE/feat/Animal Companion|Animal Companion]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Druid|Druid]]'
-trigger: null
 type: Feat
 
 ---

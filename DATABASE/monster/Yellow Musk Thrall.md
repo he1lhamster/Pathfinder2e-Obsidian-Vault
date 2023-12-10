@@ -1,10 +1,7 @@
 ﻿---
 ac: '14'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Entangling Tendrils
@@ -13,26 +10,19 @@ creature_ability:
 - Slow
 creature_family: '[[DATABASE/monsterfamily/Yellow Musk Creeper|Yellow Musk Creeper]]'
 dexterity: '-2'
-element: null
-fly_speed: null
 fortitude: '+6'
-hardness: null
 hp: '12'
 id: '868'
 immunity:
 - '[[DATABASE/trait/Mental|mental]]'
 intelligence: '-5'
 land_speed: '25'
-language: null
 level: '-1'
 max_speed: '25'
 name: Yellow Musk Thrall
 perception: '+0'
 rarity: Common
 reflex: '+0'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
@@ -41,12 +31,10 @@ skill:
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 25 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Mindless|Mindless]]'
 - '[[DATABASE/trait/Plant|Plant]]'

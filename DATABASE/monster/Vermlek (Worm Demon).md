@@ -1,10 +1,8 @@
 ﻿---
 ac: '16'
 alignment: CE
-all_resistance: null
 burrow_speed: '15'
 charisma: '+2'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Abandon Body
@@ -13,13 +11,9 @@ creature_ability:
 - Unsettling Movement
 creature_family: '[[DATABASE/monsterfamily/Demon|Demon]]'
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+11'
-hardness: null
 hp: '55'
 id: '500'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -32,9 +26,6 @@ name: Vermlek
 perception: '+8'
 rarity: Common
 reflex: '+8'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -55,7 +46,6 @@ strength: '+3'
 strength_req: '3'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Demon|Demon]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

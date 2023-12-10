@@ -1,23 +1,16 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Mountain Stronghold
-frequency: null
-heighten_level: null
 id: '453'
+leads_to: '[[DATABASE/feat/Mountain Quake|Mountain Quake]]'
 level: '6'
 name: Mountain Stronghold
 prerequisite: '[[DATABASE/feat/Mountain Stance|Mountain Stance]]'
 rarity: Common
 requirement: You are in Mountain Stance.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Monk|Monk]]'
-trigger: null
 type: Feat
 
 ---

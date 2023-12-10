@@ -2,9 +2,7 @@
 id: '230'
 name: Venom-Resistant Vishkanya
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-trait: null
 type: Heritage
 
 ---

@@ -1,12 +1,9 @@
 ﻿---
 actions: '[three-actions]'
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Sarenrae|Sarenrae]]'
 - '[[DATABASE/deity/Sekhmet|Sekhmet]]'
@@ -14,32 +11,23 @@ deity:
 - '[[DATABASE/deity/Walkena|Walkena]]'
 - '[[DATABASE/deity/Ymeri|Ymeri]]'
 - '[[DATABASE/deity/Ymeri|Ymeri]]'
-domain: null
 duration: 1 minute
 element: Fire
 heighten: '+1'
 heighten_level: 4, 5, 6, 7, 8, 9, 10
 id: '362'
-lesson: null
 level: '4'
-mystery: null
 name: Wall of Fire
-patron_theme: null
 range: 120 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Arcane
 - Primal
 trait:
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Fire|Fire]]'
-trigger: null
 type: Spell
 
 ---

@@ -1,17 +1,7 @@
 ﻿---
-ability: null
-ability_boost: null
-feat: null
 id: '322'
 name: Money Counter
-prerequisite: null
-rarity: null
-rus_type_level: null
-skill: null
 source: '[[DATABASE/source/Blood Lords Player''s Guide|Blood Lords Player''s Guide]]'
-subcategory: null
-trait: null
-type: null
 
 ---
 # Money Counter<span class="item-type">Background</span>

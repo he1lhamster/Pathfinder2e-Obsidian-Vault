@@ -1,25 +1,18 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Magus Dedication
-frequency: null
-heighten_level: null
 id: '2945'
+leads_to: '[[DATABASE/feat/Basic Magus Spellcasting|Basic Magus Spellcasting]] , [[DATABASE/feat/Basic
+  Martial Magic|Basic Martial Magic]] , [[DATABASE/feat/Hybrid Study Spell|Hybrid
+  Study Spell]] , [[DATABASE/feat/Spellstriker|Spellstriker]]'
 level: '2'
 name: Magus Dedication
 prerequisite: Strength 14 or Dexterity 14; Intelligence 14
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Multiclass|Multiclass]]'
-trigger: null
 type: Feat
 
 ---

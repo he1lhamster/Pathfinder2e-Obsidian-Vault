@@ -1,28 +1,16 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
-cost: null
-deity: null
-domain: null
 duration: 24 hours
-element: null
 heighten: '+2'
 heighten_level: 4, 6, 8, 10
 id: '650'
-lesson: null
 level: '4'
-mystery: null
 name: Necrotic Radiation
-patron_theme: null
 range: touch
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Pathfinder 154. Siege of the Dinosaurs|Pathfinder #154:
   Siege of the Dinosaurs]]'
@@ -35,7 +23,6 @@ trait:
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Negative|Negative]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Spell
 
 ---

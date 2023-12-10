@@ -1,56 +1,20 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
 bulk: L
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '1731'
 item_category: Grimoires
-item_subcategory: null
-land_speed: null
 level: '8'
-max_speed: null
 name: In the Shadows of Toil
-onset: null
 price: 500 gp
-range: null
 rarity: Unique
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Necromancy
-size: null
 source: '[[DATABASE/source/Crown of the Kobold King|Crown of the Kobold King]]'
-spell: null
-stage: null
 subcategory: grimoire
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Grimoire|Grimoire]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Unique|Unique]]'
-trigger: null
 type: Item
-usage: null
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # In the Shadows of Toil<span class="item-type">Item 8</span>

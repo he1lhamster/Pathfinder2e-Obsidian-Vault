@@ -1,10 +1,6 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Take the Wheel
-frequency: null
-heighten_level: null
 id: '3142'
 level: '4'
 name: Take the Wheel
@@ -12,14 +8,10 @@ prerequisite: '[[DATABASE/feat/Trick Driver Dedication|Trick Driver Dedication]]
   Expert in [[DATABASE/skill/Lore|Driving Lore]]'
 rarity: Common
 requirement: You are adjacent to avehicle'spoint of entry.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Flourish|Flourish]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,24 +1,16 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Hunted Shot
 frequency: once per round
-heighten_level: null
 id: '492'
 level: '1'
 name: Hunted Shot
-prerequisite: null
 rarity: Common
 requirement: You are wielding a ranged weapon with reload 0.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Flourish|Flourish]]'
 - '[[DATABASE/trait/Ranger|Ranger]]'
-trigger: null
 type: Feat
 
 ---

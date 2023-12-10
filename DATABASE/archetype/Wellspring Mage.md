@@ -4,7 +4,6 @@ level: '2'
 name: Wellspring Mage
 prerequisite: wellspring magic
 rarity: Rare
-rus_type_level: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'

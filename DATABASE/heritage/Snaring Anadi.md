@@ -2,9 +2,7 @@
 id: '158'
 name: Snaring Anadi
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
-trait: null
 type: Heritage
 
 ---

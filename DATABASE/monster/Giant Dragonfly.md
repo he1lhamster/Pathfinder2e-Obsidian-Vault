@@ -1,10 +1,7 @@
 ﻿---
 ac: '21'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Clutch
@@ -12,25 +9,18 @@ creature_ability:
 - Swoop
 creature_family: '[[DATABASE/monsterfamily/Dragonfly|Dragonfly]]'
 dexterity: '+4'
-element: null
 fly_speed: '60'
 fortitude: '+12'
-hardness: null
 hp: '60'
 id: '638'
-immunity: null
 intelligence: '-5'
 land_speed: '20'
-language: null
 level: '4'
 max_speed: '60'
 name: Giant Dragonfly
 perception: '+11'
 rarity: Common
 reflex: '+14'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Wavesense|wavesense (imprecise) 30 feet]]'
@@ -43,19 +33,16 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 20 feet
 - fly 60 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+9'
 wisdom: '+3'
 

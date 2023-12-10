@@ -1,14 +1,9 @@
 ﻿---
 ability_type: Specific Familiar - Aeon Wyrd
-actions: null
-frequency: null
 id: '44'
 name: Crystalline
 rarity: Common
-requirement: null
-rus_type_level: null
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
-trait: null
 type: Familiar Ability
 
 ---

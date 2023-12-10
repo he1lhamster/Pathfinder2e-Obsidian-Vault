@@ -1,10 +1,8 @@
 ﻿---
 ac: '36'
 alignment: NE
-all_resistance: null
 burrow_speed: '25'
 charisma: '+2'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Blight Mastery
@@ -13,10 +11,7 @@ creature_ability:
 - Stony Shards
 creature_family: '[[DATABASE/monsterfamily/Siabrae|Siabrae]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+28'
-hardness: null
 hp: 218 ( negative healing , rejuvenation)
 id: '1898'
 immunity:
@@ -43,8 +38,6 @@ reflex: '+24'
 resistance:
 - '[[DATABASE/trait/Fire|fire]] 20'
 - physical 15 (except [[DATABASE/trait/Magical|magic]] bludgeoning)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) 60 feet'
@@ -98,7 +91,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Undead|Undead]]'
@@ -106,7 +98,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+31'
 wisdom: '+9'
 

@@ -1,10 +1,7 @@
 ﻿---
 ac: '31'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Consumptive Aura
@@ -13,10 +10,8 @@ creature_ability:
 - Withering Touch
 creature_family: '[[DATABASE/monsterfamily/Daemon|Daemon]]'
 dexterity: '+5'
-element: null
 fly_speed: '50'
 fortitude: '+23'
-hardness: null
 hp: '225'
 id: '593'
 immunity:
@@ -33,9 +28,6 @@ name: Meladaemon
 perception: '+21'
 rarity: Common
 reflex: '+20'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Lifesense|lifesense (imprecise) 30 feet]]'
@@ -61,7 +53,6 @@ strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Daemon|Daemon]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

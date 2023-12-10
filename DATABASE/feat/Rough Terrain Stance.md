@@ -1,25 +1,18 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Rough Terrain Stance
-frequency: null
-heighten_level: null
 id: '2998'
+leads_to: '[[DATABASE/feat/Shifting Terrain|Shifting Terrain]]'
 level: '6'
 name: Rough Terrain Stance
 prerequisite: '[[DATABASE/feat/Geomancer Dedication|Geomancer Dedication]] ; Expert
   in [[DATABASE/skill/Nature|Nature]]'
 rarity: Common
 requirement: You gained a terrain attunement benefit this turn.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Stance|Stance]]'
-trigger: null
 type: Feat
 
 ---

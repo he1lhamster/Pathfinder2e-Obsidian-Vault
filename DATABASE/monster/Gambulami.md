@@ -1,25 +1,17 @@
 ﻿---
 ac: '31'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Attack of Opportunity
 - Inspired Feast
 - Size Alteration
 - Thrashing Chomp
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+24'
-hardness: null
 hp: '200'
 id: '1701'
-immunity: null
 intelligence: '+1'
 land_speed: '20'
 language:
@@ -32,9 +24,6 @@ name: Gambulami
 perception: '+21'
 rarity: Unique
 reflex: '+20'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -57,7 +46,6 @@ strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Unique|Unique]]'
@@ -65,7 +53,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Reflex
-weakness: null
 will: '+21'
 wisdom: '+4'
 

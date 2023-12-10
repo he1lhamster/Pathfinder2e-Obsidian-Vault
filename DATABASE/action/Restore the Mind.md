@@ -1,13 +1,8 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
-frequency: null
 id: '1223'
 name: Restore the Mind
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Enchantment
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 trait:
@@ -17,7 +12,6 @@ trait:
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Psyche|Psyche]]'
 - '[[DATABASE/trait/Psychic|Psychic]]'
-trigger: null
 type: Action
 
 ---

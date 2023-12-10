@@ -1,20 +1,12 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Cranial Detonation
 frequency: once per round
-heighten_level: null
 id: '3692'
 level: '18'
 name: Cranial Detonation
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Death|Death]]'
 - '[[DATABASE/trait/Mindshift|Mindshift]]'

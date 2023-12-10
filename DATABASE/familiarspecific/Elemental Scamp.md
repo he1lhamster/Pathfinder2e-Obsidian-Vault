@@ -1,9 +1,7 @@
 ﻿---
 id: '28'
 name: Elemental Scamp
-rus_type_level: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-trait: null
 
 ---
 # Elemental Scamp

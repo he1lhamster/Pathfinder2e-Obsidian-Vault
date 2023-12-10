@@ -1,7 +1,5 @@
 ﻿---
 ac: '47'
-alignment: null
-all_resistance: null
 burrow_speed: '25'
 charisma: '+8'
 climb_speed: '35'
@@ -17,9 +15,7 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Xiomorn|Xiomorn]]'
 dexterity: '+10'
 element: Earth
-fly_speed: null
 fortitude: '+36'
-hardness: null
 hp: '465'
 id: '2630'
 immunity:
@@ -42,8 +38,6 @@ rarity: Rare
 reflex: '+41'
 resistance:
 - physical 20 (except [[DATABASE/equipment/Adamantine Weapon|adamantine]] )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) 120 feet'
@@ -105,7 +99,6 @@ strength: '+8'
 strength_req: '8'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Elemental|Elemental]]'
@@ -114,7 +107,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+35'
 wisdom: '+6'
 

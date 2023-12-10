@@ -1,35 +1,20 @@
 ﻿---
 actions: '[one-action]'
-area: null
-bloodline: null
 component:
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 2 rounds
-element: null
-heighten: null
 heighten_level: '3'
 id: '543'
-lesson: null
 level: '3'
-mystery: null
 name: Unblinking Flame Revelation
-patron_theme: null
-range: null
 rarity: Uncommon
 requirement: Your previous action was a successful unarmed Strike.
-rus_type_level: null
-saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/World Guide|World Guide]]'
 target: the creature you hit
-tradition: null
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Focus
 
 ---

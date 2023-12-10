@@ -1,10 +1,8 @@
 ﻿---
 ac: '28'
 alignment: N
-all_resistance: null
 burrow_speed: '20'
 charisma: '+0'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Calcification
@@ -12,9 +10,7 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Elemental, Earth|Elemental, Earth]]'
 dexterity: '+1'
 element: Earth
-fly_speed: null
 fortitude: '+18'
-hardness: null
 hp: '145'
 id: '654'
 immunity:
@@ -24,16 +20,12 @@ immunity:
 - '[[DATABASE/trait/Sleep|sleep]]'
 intelligence: '+0'
 land_speed: '30'
-language: null
 level: '8'
 max_speed: '30'
 name: Granite Glyptodont
 perception: '+17'
 rarity: Common
 reflex: '+13'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Tremorsense|tremorsense (imprecise) 90 feet]]'
@@ -44,12 +36,10 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 30 feet
 - burrow 20 feet; earth glide
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Elemental|Elemental]]'
@@ -57,7 +47,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+17'
 wisdom: '+5'
 

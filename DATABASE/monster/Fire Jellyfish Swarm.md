@@ -1,10 +1,7 @@
 ﻿---
 ac: '13'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Agile Swimmer
@@ -12,10 +9,7 @@ creature_ability:
 - Fire Jelly Venom
 creature_family: '[[DATABASE/monsterfamily/Jellyfish|Jellyfish]]'
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+16'
-hardness: null
 hp: '155'
 id: '706'
 immunity:
@@ -23,8 +17,6 @@ immunity:
 - precision
 - '[[DATABASE/monsterability/Swarm Mind|swarm mind]]'
 intelligence: '-5'
-land_speed: null
-language: null
 level: '6'
 max_speed: '20'
 name: Fire Jellyfish Swarm
@@ -36,8 +28,6 @@ resistance:
 - piercing 9
 - poison 10
 - slashing 5
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Large
@@ -46,7 +36,6 @@ skill:
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - swim 20 feet
-spell: null
 strength: '-4'
 strength_req: '-4'
 strongest_save:

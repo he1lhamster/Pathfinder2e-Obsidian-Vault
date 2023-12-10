@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Enforced Order
-frequency: null
-heighten_level: null
 id: '2293'
 level: '13'
 name: Enforced Order
 prerequisite: '[[DATABASE/feat/Lawbringer|Lawbringer]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Aasimar|Aasimar]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,10 +1,6 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Seize
-frequency: null
-heighten_level: null
 id: '3567'
 level: '14'
 name: Seize
@@ -12,14 +8,10 @@ prerequisite: '[[DATABASE/feat/Zombie Dedication|Zombie Dedication]]'
 rarity: Common
 requirement: Your last action was a successful fist Strike against a creature no more
   than one size larger thanyou.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Flourish|Flourish]]'
-trigger: null
 type: Feat
 
 ---

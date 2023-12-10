@@ -1,54 +1,20 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
 base_item: '[[DATABASE/weapon/Trident|Trident]]'
 bulk: '1'
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '385'
 item_category: Weapons
 item_subcategory: Specific Magic Weapons
-land_speed: null
 level: '3'
-max_speed: null
 name: Fighter's Fork
-onset: null
 price: 50 gp
-range: null
 rarity: Common
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
-size: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-spell: null
-stage: null
-subcategory: null
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Item
 usage: held in 1 or 2 hands
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Fighter's Fork<span class="item-type">Item 3</span>

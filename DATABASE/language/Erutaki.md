@@ -2,7 +2,6 @@
 id: '54'
 name: Erutaki
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/PFS Character Options|PFS Character Options]]'
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

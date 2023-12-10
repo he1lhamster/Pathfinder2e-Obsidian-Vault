@@ -1,10 +1,7 @@
 ﻿---
 ac: '38'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Attack of Opportunity
@@ -14,12 +11,8 @@ creature_ability:
 - Stabbing Beast Venom
 - ''
 - True Appearance
-creature_family: null
 dexterity: '+8'
-element: null
-fly_speed: null
 fortitude: '+27'
-hardness: null
 hp: '275'
 id: '1007'
 immunity:
@@ -41,8 +34,6 @@ rarity: Unique
 reflex: '+29'
 resistance:
 - acid 15
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 - '[[DATABASE/spell/True Seeing|true seeing]]'
@@ -73,7 +64,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fiend|Fiend]]'
 - '[[DATABASE/trait/Herald|Herald]]'

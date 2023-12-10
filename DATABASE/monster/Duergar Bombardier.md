@@ -1,10 +1,7 @@
 ﻿---
 ac: '18'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Alchemical Formulas
@@ -15,13 +12,9 @@ creature_ability:
 - Quick Bomber
 creature_family: '[[DATABASE/monsterfamily/Duergar|Duergar]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+7'
-hardness: null
 hp: '20'
 id: '169'
-immunity: null
 intelligence: '+3'
 land_speed: '20'
 language:
@@ -34,9 +27,6 @@ name: Duergar Bombardier
 perception: '+4'
 rarity: Common
 reflex: '+8'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -56,7 +46,6 @@ strength: '+1'
 strength_req: '1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Duergar|Duergar]]'
 - '[[DATABASE/trait/Dwarf|Dwarf]]'
@@ -65,7 +54,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+4'
 wisdom: '+1'
 

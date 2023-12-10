@@ -1,10 +1,7 @@
 ﻿---
 ac: '30'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Drink Essence
@@ -15,12 +12,8 @@ creature_ability:
 - Sunlight
 - Water
 - Revulsion
-creature_family: null
 dexterity: '+7'
-element: null
-fly_speed: null
 fortitude: '+19'
-hardness: null
 hp: 130 (coffin restoration, fast healing 10 , negative healing )
 id: '1955'
 immunity:
@@ -45,8 +38,6 @@ reflex: '+21'
 resistance:
 - all physical 10 (except [[DATABASE/equipment/Silver Weapon|silver]] or weapons sheddingbright
   light)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 size: Medium
@@ -64,7 +55,6 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Shadow|Shadow]]'

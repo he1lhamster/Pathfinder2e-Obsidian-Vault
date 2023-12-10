@@ -1,20 +1,14 @@
 ﻿---
 ac: '23'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Chastise Heretic
 - Field of Undeath
 creature_family: '[[DATABASE/monsterfamily/Deathless Acolyte|Deathless Acolyte]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+13'
-hardness: null
 hp: 87 ( negative healing )
 id: '1854'
 immunity:
@@ -34,9 +28,6 @@ name: Deathless Hierophant of Urgathoa
 perception: '+15'
 rarity: Uncommon
 reflex: '+13'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -70,7 +61,6 @@ strength: '+2'
 strength_req: '2'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 - '[[DATABASE/trait/Undead|Undead]]'
@@ -79,7 +69,6 @@ vision: Darkvision
 weakest_save:
 - Fortitude
 - Reflex
-weakness: null
 will: '+17'
 wisdom: '+6'
 

@@ -6,11 +6,9 @@ ability_boost:
 id: '13'
 name: Religion
 rarity: Common
-rus_type_level: null
 skill:
 - Religion
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Skill
 
 ---

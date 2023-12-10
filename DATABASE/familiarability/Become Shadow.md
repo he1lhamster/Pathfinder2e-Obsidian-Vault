@@ -1,14 +1,10 @@
 ﻿---
 ability_type: Specific Familiar - Shadow Familiar
 actions: '[one-action]'
-frequency: null
 id: '53'
 name: Become Shadow
 rarity: Common
-requirement: null
-rus_type_level: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-trait: null
 type: Familiar Ability
 
 ---

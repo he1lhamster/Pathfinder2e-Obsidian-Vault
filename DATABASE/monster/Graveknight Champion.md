@@ -1,10 +1,7 @@
 ﻿---
 ac: '38'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Attack of Opportunity
@@ -16,10 +13,7 @@ creature_ability:
 - Weapon Master
 creature_family: '[[DATABASE/monsterfamily/Graveknight|Graveknight]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+28'
-hardness: null
 hp: 275 ( negative healing , rejuvenation)
 id: '1664'
 immunity:
@@ -40,9 +34,6 @@ name: Graveknight Champion
 perception: '+27'
 rarity: Uncommon
 reflex: '+26'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -70,7 +61,6 @@ strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 - '[[DATABASE/trait/Undead|Undead]]'
@@ -78,7 +68,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+25'
 wisdom: '+4'
 

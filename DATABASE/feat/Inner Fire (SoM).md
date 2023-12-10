@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Inner Fire (SoM)
-frequency: null
-heighten_level: null
 id: '2982'
 level: '6'
 name: Inner Fire (SoM)
 prerequisite: '[[DATABASE/feat/Stoked Flame Stance|Stoked Flame Stance]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Monk|Monk]]'
-trigger: null
 type: Feat
 
 ---

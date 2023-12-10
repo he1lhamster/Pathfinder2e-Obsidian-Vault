@@ -1,10 +1,7 @@
 ﻿---
 ac: '20'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Amalgam
@@ -14,13 +11,9 @@ creature_ability:
 - Verdant Burst
 creature_family: '[[DATABASE/monsterfamily/Leshy|Leshy]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+9'
-hardness: null
 hp: '72'
 id: '717'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -36,8 +29,6 @@ rarity: Common
 reflex: '+12'
 resistance:
 - acid 5
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -55,7 +46,6 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Leshy|Leshy]]'
 - '[[DATABASE/trait/Plant|Plant]]'
@@ -63,7 +53,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+13'
 wisdom: '+3'
 

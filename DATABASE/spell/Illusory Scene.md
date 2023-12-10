@@ -1,36 +1,24 @@
 ﻿---
-actions: null
 area: 30-foot burst
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Daikitsu|Daikitsu]]'
 - '[[DATABASE/deity/Likha|Likha]]'
 - '[[DATABASE/deity/Likha|Likha]]'
 - '[[DATABASE/deity/Mahathallah|Mahathallah]]'
 - '[[DATABASE/deity/Mahathallah|Mahathallah]]'
-domain: null
 duration: 1 hour
-element: null
 heighten: 6th, 8th
 heighten_level: 5, 6, 8
 id: '161'
-lesson: null
 level: '5'
-mystery: null
 name: Illusory Scene
-patron_theme: null
 range: 500 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Illusion
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Arcane
 - Occult
@@ -39,7 +27,6 @@ trait:
 - '[[DATABASE/trait/Illusion|Illusion]]'
 - '[[DATABASE/trait/Olfactory|Olfactory]]'
 - '[[DATABASE/trait/Visual|Visual]]'
-trigger: null
 type: Spell
 
 ---

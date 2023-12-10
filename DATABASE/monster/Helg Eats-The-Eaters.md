@@ -1,8 +1,6 @@
 ﻿---
 ac: '37'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
 climb_speed: '20'
 constitution: '+4'
@@ -12,15 +10,10 @@ creature_ability:
 - Enervating Tug
 - Furious Claws
 - Rend
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+29'
-hardness: null
 hp: '275'
 id: '2125'
-immunity: null
 intelligence: '+6'
 land_speed: '40'
 language:
@@ -34,9 +27,6 @@ name: Helg Eats-The-Eaters
 perception: '+26'
 rarity: Unique
 reflex: '+23'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -92,7 +82,6 @@ strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Unique|Unique]]'
@@ -100,7 +89,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+26'
 wisdom: '+3'
 

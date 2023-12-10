@@ -1,25 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Entourage
-frequency: null
-heighten_level: null
 id: '1066'
 level: '7'
 name: Entourage
 prerequisite: Master in [[DATABASE/skill/Diplomacy|Diplomacy]] ; [[DATABASE/feat/Hobnobber|Hobnobber]]
 rarity: Rare
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 subcategory: diplomacy
 trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

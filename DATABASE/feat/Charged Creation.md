@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Charged Creation
-frequency: null
-heighten_level: null
 id: '1120'
 level: '12'
 name: Charged Creation
 prerequisite: '[[DATABASE/feat/Persistent Creation|Persistent Creation]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

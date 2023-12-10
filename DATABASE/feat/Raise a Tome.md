@@ -1,23 +1,15 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Raise a Tome
-frequency: null
-heighten_level: null
 id: '2848'
+leads_to: '[[DATABASE/feat/Shielded Tome|Shielded Tome]]'
 level: '1'
 name: Raise a Tome
-prerequisite: null
 rarity: Common
 requirement: You're holding a book.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Magus|Magus]]'
-trigger: null
 type: Feat
 
 ---

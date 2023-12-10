@@ -1,20 +1,13 @@
 ﻿---
 actions: '[three-actions]'
-cost: null
-element: null
 feat: Miraculous Repair
 frequency: once per day
-heighten_level: null
 id: '3935'
 level: '9'
 name: Miraculous Repair
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Arcane|Arcane]]'
 - '[[DATABASE/trait/Ardande|Ardande]]'
@@ -26,7 +19,6 @@ trait:
 - '[[DATABASE/trait/Talos|Talos]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
 - '[[DATABASE/trait/Undine|Undine]]'
-trigger: null
 type: Feat
 
 ---

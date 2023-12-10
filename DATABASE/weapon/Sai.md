@@ -1,8 +1,6 @@
 ﻿---
 bulk: L
 damage: 1d4 P
-deity: null
-favored_weapon: null
 hands: '1'
 id: '59'
 item_category: Weapons
@@ -10,9 +8,7 @@ item_subcategory: Base Weapons
 level: '0'
 name: Sai
 price: 6 sp
-range: null
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Agile|Agile]]'

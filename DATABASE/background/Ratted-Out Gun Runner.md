@@ -1,18 +1,8 @@
 ﻿---
-ability: null
-ability_boost: null
-feat: null
 id: '298'
 name: Ratted-Out Gun Runner
-prerequisite: null
-rarity: null
-rus_type_level: null
-skill: null
 source: '[[DATABASE/source/Outlaws of Alkenstar Player''s Guide|Outlaws of Alkenstar
   Player''s Guide]]'
-subcategory: null
-trait: null
-type: null
 
 ---
 # Ratted-Out Gun Runner<span class="item-type">Background</span>

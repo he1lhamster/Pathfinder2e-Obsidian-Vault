@@ -1,25 +1,17 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Thunder Clap
-frequency: null
-heighten_level: null
 id: '3576'
 level: '6'
 name: Thunder Clap
 prerequisite: '[[DATABASE/feat/Powder Punch Stance|Powder Punch Stance]]'
 rarity: Common
 requirement: You're in Powder Punch Stance.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 178. Punks in a Powderkeg|Pathfinder #178: Punks
   in a Powderkeg]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Sonic|Sonic]]'
-trigger: null
 type: Feat
 
 ---

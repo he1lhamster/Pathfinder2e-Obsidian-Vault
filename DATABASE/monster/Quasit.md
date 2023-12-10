@@ -1,10 +1,7 @@
 ﻿---
 ac: '17'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Abyssal Healing
@@ -14,13 +11,10 @@ creature_ability:
 - Virtue Aversion
 creature_family: '[[DATABASE/monsterfamily/Demon|Demon]]'
 dexterity: '+4'
-element: null
 fly_speed: '35'
 fortitude: '+4'
-hardness: null
 hp: '25'
 id: '97'
-immunity: null
 intelligence: '+1'
 land_speed: '15'
 language:
@@ -32,9 +26,6 @@ name: Quasit
 perception: '+7'
 rarity: Common
 reflex: '+10'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Tiny
@@ -59,7 +50,6 @@ strength: '-1'
 strength_req: '-1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Demon|Demon]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

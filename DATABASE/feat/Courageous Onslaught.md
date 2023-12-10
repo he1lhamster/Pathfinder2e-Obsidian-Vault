@@ -1,27 +1,18 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Courageous Onslaught
-frequency: null
-heighten_level: null
 id: '1658'
 level: '16'
 name: Courageous Onslaught
 prerequisite: '[[DATABASE/feat/Courageous Advance|Courageous Advance]] ; [[DATABASE/feat/Courageous
   Assault|Courageous Assault]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Auditory|Auditory]]'
 - '[[DATABASE/trait/Bard|Bard]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Metamagic|Metamagic]]'
-trigger: null
 type: Feat
 
 ---

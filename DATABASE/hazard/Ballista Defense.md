@@ -1,11 +1,8 @@
 ﻿---
 ac: '31'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+24'
 hardness: '20'
-hazard_type: null
 hp: 80 (BT 40)
 id: '291'
 immunity:
@@ -16,16 +13,11 @@ level: '11'
 name: Ballista Defense
 rarity: Common
 reflex: '+18'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
 - '[[DATABASE/trait/Complex|Complex]]'
 - '[[DATABASE/trait/Mechanical|Mechanical]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Ballista Defense<span class="item-type">Hazard 11</span>

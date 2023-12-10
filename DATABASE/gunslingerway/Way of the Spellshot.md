@@ -2,9 +2,7 @@
 id: '5'
 name: Way of the Spellshot
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-trait: null
 type: Gunslinger Way
 
 ---

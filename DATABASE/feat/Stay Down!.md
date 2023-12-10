@@ -1,20 +1,12 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Stay Down!
-frequency: null
-heighten_level: null
 id: '1806'
 level: '14'
 name: Stay Down!
 prerequisite: Master in [[DATABASE/skill/Athletics|Athletics]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Rogue|Rogue]]'
 trigger: A [[DATABASE/condition/Prone|prone]] foe within your reach [[DATABASE/action/Stand|Stands]]

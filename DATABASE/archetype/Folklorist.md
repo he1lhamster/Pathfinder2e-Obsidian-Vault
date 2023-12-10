@@ -4,7 +4,6 @@ level: '2'
 name: Folklorist
 prerequisite: Trained in [[DATABASE/skill/Performance|Performance]]
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 170. Spoken on the Song Wind|Pathfinder #170:
   Spoken on the Song Wind]]'
 trait:

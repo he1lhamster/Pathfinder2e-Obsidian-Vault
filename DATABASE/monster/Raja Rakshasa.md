@@ -1,10 +1,7 @@
 ﻿---
 ac: '30'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Change Shape
@@ -12,13 +9,9 @@ creature_ability:
 - Scoff at the Divine
 creature_family: '[[DATABASE/monsterfamily/Rakshasa|Rakshasa]]'
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+19'
-hardness: null
 hp: '155'
 id: '345'
-immunity: null
 intelligence: '+2'
 land_speed: '35'
 language:
@@ -33,8 +26,6 @@ rarity: Common
 reflex: '+21'
 resistance:
 - physical 10 (except piercing)
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -74,7 +65,6 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fiend|Fiend]]'
 - '[[DATABASE/trait/Rakshasa|Rakshasa]]'

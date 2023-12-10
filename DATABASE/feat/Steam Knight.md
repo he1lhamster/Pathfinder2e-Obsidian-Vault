@@ -1,20 +1,13 @@
 ﻿---
 actions: '[one-action]'
-cost: null
 element: Fire, Water
 feat: Steam Knight
-frequency: null
 heighten_level: 6, 11, 16
 id: '4309'
 level: '6'
 name: Steam Knight
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Composite|Composite]]'
 - '[[DATABASE/trait/Fire|Fire]]'
@@ -23,7 +16,6 @@ trait:
 - '[[DATABASE/trait/Primal|Primal]]'
 - '[[DATABASE/trait/Stance|Stance]]'
 - '[[DATABASE/trait/Water|Water]]'
-trigger: null
 type: Feat
 
 ---

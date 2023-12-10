@@ -1,25 +1,20 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Archaeologist Dedication
-frequency: null
-heighten_level: null
 id: '1879'
+leads_to: '[[DATABASE/feat/Archaeologist''s Luck|Archaeologist''s Luck]] , [[DATABASE/feat/Greater
+  Magical Scholastics|Greater Magical Scholastics]] , [[DATABASE/feat/Magical Scholastics|Magical
+  Scholastics]] , [[DATABASE/feat/Scholastic Identification|Scholastic Identification]]
+  , [[DATABASE/feat/Settlement Scholastics|Settlement Scholastics]] , [[DATABASE/feat/We''re
+  on the List|We''re on the List]]'
 level: '2'
 name: Archaeologist Dedication
 prerequisite: trained in Perception; Trained in [[DATABASE/skill/Society|Society]]
   ; Trained in [[DATABASE/skill/Thievery|Thievery]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
-trigger: null
 type: Feat
 
 ---

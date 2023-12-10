@@ -32,11 +32,9 @@ follower_alignment:
 id: '271'
 name: The Perplexing Jest
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Thievery|Thievery]]'
 source: '[[DATABASE/source/Firebrands|Firebrands]]'
-trait: null
 type: Deity
 
 ---

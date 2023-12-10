@@ -1,38 +1,25 @@
 ﻿---
 actions: '[three-actions]'
-area: null
 bloodline: '[[DATABASE/sorcererbloodline/Angelic|Angelic]]'
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 1 minute
-element: null
 heighten: '+1'
 heighten_level: 6, 7, 8, 9, 10
 id: '24'
-lesson: null
 level: '6'
-mystery: null
 name: Blade Barrier
-patron_theme: null
 range: 120 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Divine
 trait:
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Force|Force]]'
-trigger: null
 type: Spell
 
 ---

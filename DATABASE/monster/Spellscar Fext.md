@@ -1,21 +1,14 @@
 ﻿---
 ac: '25'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Grasp Power
 - Magic Sense
 - Unstable Feedback
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+12'
-hardness: null
 hp: 100 ( negative healing )
 id: '2415'
 immunity:
@@ -35,9 +28,6 @@ name: Spellscar Fext
 perception: '+15'
 rarity: Uncommon
 reflex: '+15'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - magic sense (imprecise) 30 feet
@@ -50,12 +40,10 @@ skill:
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 speed:
 - 25 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 - '[[DATABASE/trait/Undead|Undead]]'

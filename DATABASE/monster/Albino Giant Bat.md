@@ -1,35 +1,25 @@
 ﻿---
 ac: '22'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Echolocation
 - Wing Thrash
 creature_family: '[[DATABASE/monsterfamily/Bat|Bat]]'
 dexterity: '+3'
-element: null
 fly_speed: '30'
 fortitude: '+15'
-hardness: null
 hp: '72'
 id: '2178'
-immunity: null
 intelligence: '-4'
 land_speed: '15'
-language: null
 level: '5'
 max_speed: '30'
 name: Albino Giant Bat
 perception: '+15'
 rarity: Common
 reflex: '+12'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - echolocation (precise) 40 feet
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
@@ -42,19 +32,16 @@ source: '[[DATABASE/source/Crown of the Kobold King|Crown of the Kobold King]]'
 speed:
 - 15 feet
 - fly 30 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+11'
 wisdom: '+4'
 

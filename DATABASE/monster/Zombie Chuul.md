@@ -1,10 +1,7 @@
 ﻿---
 ac: '22'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Constrict
@@ -12,12 +9,8 @@ creature_ability:
 - Paralytic Venom
 - Slow
 - Tentacle Transfer
-creature_family: null
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+18'
-hardness: null
 hp: 200 ( negative healing )
 id: '2063'
 immunity:
@@ -29,16 +22,12 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '30'
-language: null
 level: '7'
 max_speed: '30'
 name: Zombie Chuul
 perception: '+11'
 rarity: Unique
 reflex: '+10'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) 30 feet'
@@ -50,7 +39,6 @@ source: '[[DATABASE/source/Pathfinder 182. Graveclaw|Pathfinder #182: Graveclaw]
 speed:
 - 30 feet
 - swim 25 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:

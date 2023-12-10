@@ -1,30 +1,8 @@
 ﻿---
-bulk: '1'
-damage: 1d8 S
-deity: null
-favored_weapon: null
-hands: '2'
-id: '291'
-item_category: Weapons
-item_subcategory: Base Weapons
-level: '0'
+id: '165'
 name: Kusarigama
-price: 2 gp
-range: null
-rarity: Uncommon
-rus_type_level: null
-source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-trait:
-- '[[DATABASE/trait/Disarm|Disarm]]'
-- '[[DATABASE/trait/Monk|Monk]]'
-- '[[DATABASE/trait/Reach|Reach]]'
-- '[[DATABASE/trait/Trip|Trip]]'
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
-- '[[DATABASE/trait/Versatile|Versatile B]]'
-type: Weapon
-weapon_category: Martial
-weapon_group: '[[DATABASE/weapongroup/Knife|Knife]]'
-weapon_type: Melee
+source: '[[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #166:
+  Despair on Danger Island]]'
 
 ---
 # Kusarigama

@@ -1,10 +1,7 @@
 ﻿---
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+1'
 dexterity: '+3'
-element: null
 fly_speed: '50'
 hp: '4'
 id: '48'
@@ -13,18 +10,15 @@ land_speed: '10'
 max_speed: '50'
 name: Skeletal Bird of Prey
 rarity: Uncommon
-rus_type_level: null
 sense:
 - darkvision
 size: Small
-skill: null
 source: '[[DATABASE/source/Pathfinder 181. Zombie Feast|Pathfinder #181: Zombie Feast]]'
 speed:
 - 10 feet
 - fly 50 feet
 strength: '+2'
 strength_req: '2'
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Animal Companion

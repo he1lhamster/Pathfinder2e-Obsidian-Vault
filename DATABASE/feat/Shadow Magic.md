@@ -1,23 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Shadow Magic
-frequency: null
-heighten_level: null
 id: '2069'
+leads_to: '[[DATABASE/feat/Additional Shadow Magic|Additional Shadow Magic]] , [[DATABASE/feat/Shadow
+  Illusion|Shadow Illusion]] , [[DATABASE/feat/Shadow Power|Shadow Power]]'
 level: '10'
 name: Shadow Magic
 prerequisite: '[[DATABASE/feat/Shadowdancer Dedication|Shadowdancer Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

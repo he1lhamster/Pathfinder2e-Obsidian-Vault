@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Pickpocket|Pickpocket]]'
 id: '255'
 name: Hounded Thief
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Thievery|Thievery]]'
 - Underworld [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

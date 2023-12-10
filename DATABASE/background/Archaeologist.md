@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Additional Lore|Additional Lore]]'
 id: '202'
 name: Archaeologist
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Society|Society]]'
 - Architecture [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

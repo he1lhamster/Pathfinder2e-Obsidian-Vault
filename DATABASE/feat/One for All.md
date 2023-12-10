@@ -1,20 +1,12 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: One for All
-frequency: null
-heighten_level: null
 id: '1519'
 level: '1'
 name: One for All
 prerequisite: Trained in [[DATABASE/skill/Diplomacy|Diplomacy]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Auditory|Auditory]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
@@ -22,7 +14,6 @@ trait:
 - '[[DATABASE/trait/Linguistic|Linguistic]]'
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Swashbuckler|Swashbuckler]]'
-trigger: null
 type: Feat
 
 ---

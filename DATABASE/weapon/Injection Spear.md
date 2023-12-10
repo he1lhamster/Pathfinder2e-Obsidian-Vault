@@ -1,8 +1,6 @@
 ﻿---
 bulk: '1'
 damage: 1d8 P
-deity: null
-favored_weapon: null
 hands: '2'
 id: '170'
 item_category: Weapons
@@ -10,9 +8,7 @@ item_subcategory: Base Weapons
 level: '0'
 name: Injection Spear
 price: 3 gp
-range: null
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:
 - '[[DATABASE/trait/Injection|Injection]]'

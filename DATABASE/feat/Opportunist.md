@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Opportunist
-frequency: null
-heighten_level: null
 id: '712'
 level: '4'
 name: Opportunist
 prerequisite: '[[DATABASE/feat/Fighter Dedication|Fighter Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

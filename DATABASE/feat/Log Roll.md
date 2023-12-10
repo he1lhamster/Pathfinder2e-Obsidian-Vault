@@ -1,10 +1,6 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Log Roll
-frequency: null
-heighten_level: null
 id: '1234'
 level: '4'
 name: Log Roll
@@ -13,14 +9,10 @@ prerequisite: '[[DATABASE/feat/Turpin Rowe Lumberjack Dedication|Turpin Rowe Lum
 rarity: Common
 requirement: You and an adjacent creature are both on a narrow surface or uneven ground
   and the other creature isflat-footed.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 153. Life''s Long Shadows|Pathfinder #153: Life''s
   Long Shadows]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

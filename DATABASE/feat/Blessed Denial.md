@@ -1,20 +1,12 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Blessed Denial
-frequency: null
-heighten_level: null
 id: '1913'
 level: '12'
 name: Blessed Denial
 prerequisite: '[[DATABASE/feat/Blessed One Dedication|Blessed One Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 trigger: An ally within 30 feet would become [[DATABASE/condition/Frightened|frightened]]

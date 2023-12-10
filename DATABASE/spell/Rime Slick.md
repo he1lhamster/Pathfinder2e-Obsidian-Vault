@@ -1,32 +1,21 @@
 ﻿---
 actions: '[two-actions]'
 area: 15-foot burst
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 1 minute
-element: null
 heighten: 5th, 8th
 heighten_level: 2, 5, 8
 id: '632'
-lesson: null
 level: '2'
-mystery: null
 name: Rime Slick
-patron_theme: null
 range: 60 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 saving_throw: basicReflex
 school: Evocation
 source: '[[DATABASE/source/Pathfinder 151. The Show Must Go On|Pathfinder #151: The
   Show Must Go On]]'
-target: null
 tradition:
 - Arcane
 - Primal
@@ -34,7 +23,6 @@ trait:
 - '[[DATABASE/trait/Cold|Cold]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Spell
 
 ---

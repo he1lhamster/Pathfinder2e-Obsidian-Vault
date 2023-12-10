@@ -1,38 +1,23 @@
 ﻿---
 actions: '[three-actions]'
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: until the end of your next turn
-element: null
-heighten: null
 heighten_level: '9'
 id: '1008'
-lesson: null
 level: '9'
-mystery: null
 name: Summon Draconic Legion
-patron_theme: null
 range: 100 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-target: null
 tradition:
 - Arcane
 trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Incarnate|Incarnate]]'
-trigger: null
 type: Spell
 
 ---

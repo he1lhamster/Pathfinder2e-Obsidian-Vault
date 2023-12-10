@@ -1,22 +1,15 @@
 ﻿---
 ac: '18'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Reach Spell
 - Signature Spell
-creature_family: null
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+9'
 hp: '42'
 id: '2749'
-immunity: null
 intelligence: '+2'
 land_speed: '20'
 language:
@@ -31,9 +24,6 @@ name: Meitremar
 perception: '+7'
 rarity: Unique
 reflex: '+6'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Arcana|Arcana]] +7'
@@ -66,16 +56,13 @@ strength: '+2'
 strength_req: '2'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+12'
 wisdom: '+1'
 

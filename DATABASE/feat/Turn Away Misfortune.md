@@ -1,20 +1,12 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Turn Away Misfortune
-frequency: null
-heighten_level: null
 id: '3707'
 level: '2'
 name: Turn Away Misfortune
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Abjuration
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Esoterica|Esoterica]]'

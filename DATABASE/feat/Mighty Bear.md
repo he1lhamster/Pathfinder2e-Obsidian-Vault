@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Mighty Bear
-frequency: null
-heighten_level: null
 id: '4094'
 level: '18'
 name: Mighty Bear
 prerequisite: '[[DATABASE/feat/Great Bear|Great Bear]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

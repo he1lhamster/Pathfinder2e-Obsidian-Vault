@@ -1,24 +1,15 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Watchful Gaze
-frequency: null
-heighten_level: null
 id: '2809'
+leads_to: '[[DATABASE/feat/Constant Gaze|Constant Gaze]]'
 level: '1'
 name: Watchful Gaze
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Goloma|Goloma]]'
-trigger: null
 type: Feat
 
 ---

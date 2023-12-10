@@ -1,26 +1,19 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Ritualist Dedication
-frequency: null
-heighten_level: null
 id: '2041'
+leads_to: '[[DATABASE/feat/Efficient Rituals|Efficient Rituals]] , [[DATABASE/feat/Flexible
+  Ritualist|Flexible Ritualist]] , [[DATABASE/feat/Resourceful Ritualist|Resourceful
+  Ritualist]]'
 level: '4'
 name: Ritualist Dedication
 prerequisite: Expert in [[DATABASE/skill/Arcana|Arcana]] , Expert in [[DATABASE/skill/Nature|Nature]]
   , Expert in [[DATABASE/skill/Occultism|Occultism]] , or Expert in [[DATABASE/skill/Religion|Religion]]
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

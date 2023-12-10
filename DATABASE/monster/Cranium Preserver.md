@@ -1,21 +1,14 @@
 ﻿---
 ac: '28'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Jettison Cranium
 - Slosh
 - Undead Crafter
-creature_family: null
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+22'
-hardness: null
 hp: '220'
 id: '1982'
 immunity:
@@ -42,9 +35,6 @@ name: Cranium Preserver
 perception: '+19'
 rarity: Rare
 reflex: '+16'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -56,12 +46,10 @@ source: '[[DATABASE/source/Pathfinder 180. The Smoking Gun|Pathfinder #180: The 
   Gun]]'
 speed:
 - 25 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Rare|Rare]]'

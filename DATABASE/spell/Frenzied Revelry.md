@@ -1,39 +1,25 @@
 ﻿---
 actions: '[two-actions]'
 area: 5-foot emanation
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 1 minute
-element: null
 heighten: 4th, 7th
 heighten_level: 1, 4, 7
 id: '1169'
-lesson: null
 level: '1'
-mystery: null
 name: Frenzied Revelry
-patron_theme: null
-range: null
 rarity: Rare
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Enchantment
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 target: you and allies in the area
-tradition: null
 trait:
 - '[[DATABASE/trait/Cleric|Cleric]]'
 - '[[DATABASE/trait/Emotion|Emotion]]'
 - '[[DATABASE/trait/Enchantment|Enchantment]]'
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Focus
 
 ---

@@ -1,10 +1,7 @@
 ﻿---
 ac: '19'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Bonecrunching Bite
@@ -12,25 +9,17 @@ creature_ability:
 - Pack Attack
 creature_family: '[[DATABASE/monsterfamily/Hyena|Hyena]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+10'
-hardness: null
 hp: '45'
 id: '271'
-immunity: null
 intelligence: '-4'
 land_speed: '40'
-language: null
 level: '3'
 max_speed: '40'
 name: Hyaenodon
 perception: '+9'
 rarity: Common
 reflex: '+8'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 - scent (imprecise) 30 feet
@@ -42,19 +31,16 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 40 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+7'
 wisdom: '+2'
 

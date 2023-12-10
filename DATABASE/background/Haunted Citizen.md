@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/No Cause for Alarm|No Cause for Alarm]]'
 id: '303'
 name: Haunted Citizen
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Diplomacy|Diplomacy]]'
 - '[[DATABASE/skill/Lore|Lore]] foryour home settlement.'
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

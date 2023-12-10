@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Bloodline Focus
-frequency: null
-heighten_level: null
 id: '621'
+leads_to: '[[DATABASE/feat/Bloodline Wellspring|Bloodline Wellspring]]'
 level: '12'
 name: Bloodline Focus
 prerequisite: bloodline spell
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Sorcerer|Sorcerer]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,10 +1,7 @@
 ﻿---
 ac: '38'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+7'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Attack of Opportunity
@@ -13,10 +10,8 @@ creature_ability:
 - Shoal Linnorm Venom
 creature_family: '[[DATABASE/monsterfamily/Linnorm|Linnorm]]'
 dexterity: '+5'
-element: null
 fly_speed: '100'
 fortitude: '+29'
-hardness: null
 hp: '295'
 id: '720'
 immunity:
@@ -36,9 +31,6 @@ name: Shoal Linnorm
 perception: '+27'
 rarity: Uncommon
 reflex: '+25'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent (imprecise) 60 feet]]'

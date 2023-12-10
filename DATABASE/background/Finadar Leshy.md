@@ -1,18 +1,8 @@
 ﻿---
-ability: null
-ability_boost: null
-feat: null
 id: '143'
 name: Finadar Leshy
-prerequisite: null
-rarity: null
-rus_type_level: null
-skill: null
 source: '[[DATABASE/source/PFS Scenario 1-15. The Blooming Catastrophe|PFS Scenario
   #1-15: The Blooming Catastrophe]]'
-subcategory: null
-trait: null
-type: null
 
 ---
 # Finadar Leshy<span class="item-type">Background</span>

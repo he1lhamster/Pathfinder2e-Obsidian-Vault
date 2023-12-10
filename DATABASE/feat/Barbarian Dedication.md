@@ -1,25 +1,18 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Barbarian Dedication
-frequency: null
-heighten_level: null
 id: '671'
+leads_to: '[[DATABASE/feat/Barbarian Resiliency|Barbarian Resiliency]] , [[DATABASE/feat/Basic
+  Fury|Basic Fury]] , [[DATABASE/feat/Instinct Ability|Instinct Ability]] , [[DATABASE/feat/Juggernaut''s
+  Fortitude|Juggernaut''s Fortitude]]'
 level: '2'
 name: Barbarian Dedication
 prerequisite: Strength 14; Constitution 14
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Multiclass|Multiclass]]'
-trigger: null
 type: Feat
 
 ---

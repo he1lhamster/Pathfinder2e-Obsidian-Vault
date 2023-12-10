@@ -2,7 +2,6 @@
 id: '279'
 name: Immeasurable
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
 - Immeasurable

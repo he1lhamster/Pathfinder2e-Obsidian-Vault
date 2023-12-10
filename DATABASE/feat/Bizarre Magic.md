@@ -1,24 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Bizarre Magic
-frequency: null
-heighten_level: null
 id: '761'
 level: '7'
 name: Bizarre Magic
 prerequisite: Master in [[DATABASE/skill/Occultism|Occultism]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: occultism
 trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

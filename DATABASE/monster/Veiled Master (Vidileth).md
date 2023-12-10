@@ -1,10 +1,7 @@
 ﻿---
 ac: '34'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+8'
 creature_ability:
 - Change Shape
@@ -17,10 +14,7 @@ creature_ability:
 - Thoughtlance
 creature_family: '[[DATABASE/monsterfamily/Alghollthu|Alghollthu]]'
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+26'
-hardness: null
 hp: '270'
 id: '5'
 immunity:
@@ -43,8 +37,6 @@ rarity: Rare
 reflex: '+22'
 resistance:
 - '[[DATABASE/trait/Cold|cold]] 20'
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Large
@@ -88,7 +80,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+24'
 wisdom: '+5'
 

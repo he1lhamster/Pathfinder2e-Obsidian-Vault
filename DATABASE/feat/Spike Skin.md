@@ -1,26 +1,18 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
 element: Earth
 feat: Spike Skin
-frequency: null
 heighten_level: 8, 10, 12, 14, 16, 18, 20
 id: '4229'
 level: '8'
 name: Spike Skin
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Impulse|Impulse]]'
 - '[[DATABASE/trait/Kineticist|Kineticist]]'
 - '[[DATABASE/trait/Primal|Primal]]'
-trigger: null
 type: Feat
 
 ---

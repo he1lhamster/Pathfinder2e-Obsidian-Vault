@@ -1,10 +1,7 @@
 ﻿---
 ac: '46'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+7'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Deny Fate
@@ -12,12 +9,9 @@ creature_ability:
 - Shadow Corrosion
 - Shadow Snip
 - Shift Fate
-creature_family: null
 dexterity: '+6'
-element: null
 fly_speed: '35'
 fortitude: '+35'
-hardness: null
 hp: '400'
 id: '1834'
 immunity:
@@ -37,8 +31,6 @@ rarity: Unique
 reflex: '+30'
 resistance:
 - '[[DATABASE/trait/Acid|acid]] 20'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/spell/Detect Magic|detect magic]]'
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
@@ -77,7 +69,6 @@ strength: '+7'
 strength_req: '7'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Unique|Unique]]'

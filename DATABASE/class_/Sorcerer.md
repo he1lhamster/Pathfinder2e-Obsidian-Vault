@@ -14,7 +14,6 @@ id: '11'
 name: Sorcerer
 perception_proficiency: Trained
 rarity: Common
-rus_type_level: null
 skill_proficiency:
 - Trained in one or more skills determined by your bloodline
 - Trained in a number of additional skills equal to 2 plus your Intelligence modifier
@@ -24,7 +23,6 @@ tradition:
 - Divine
 - Occult
 - Primal
-trait: null
 type: Class
 
 ---

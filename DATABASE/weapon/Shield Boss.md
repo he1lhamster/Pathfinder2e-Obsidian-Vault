@@ -1,5 +1,4 @@
 ﻿---
-bulk: null
 damage: 1d6 B
 deity:
 - '[[DATABASE/deity/Imot|Imot]]'
@@ -12,9 +11,7 @@ item_subcategory: Base Weapons
 level: '0'
 name: Shield Boss
 price: 5 sp
-range: null
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Attached|Attached to Shield]]'

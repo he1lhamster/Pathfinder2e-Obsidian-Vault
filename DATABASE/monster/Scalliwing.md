@@ -1,22 +1,16 @@
 ﻿---
 ac: '19'
 alignment: CG
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Wing Flash
 creature_family: '[[DATABASE/monsterfamily/Couatl|Couatl]]'
 dexterity: '+4'
-element: null
 fly_speed: '40'
 fortitude: '+8'
-hardness: null
 hp: '45'
 id: '1025'
-immunity: null
 intelligence: '+0'
 land_speed: '10'
 language:
@@ -27,9 +21,6 @@ name: Scalliwing
 perception: '+12'
 rarity: Uncommon
 reflex: '+12'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Tiny
@@ -56,7 +47,6 @@ strength: '+1'
 strength_req: '1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Couatl|Couatl]]'
@@ -65,7 +55,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+11'
 wisdom: '+3'
 

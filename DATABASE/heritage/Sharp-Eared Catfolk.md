@@ -2,9 +2,7 @@
 id: '94'
 name: Sharp-Eared Catfolk
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-trait: null
 type: Heritage
 
 ---

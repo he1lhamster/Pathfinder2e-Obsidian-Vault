@@ -1,10 +1,8 @@
 ﻿---
-element: null
 id: '20'
 level: '6'
 name: Wizard's Ward
 rarity: Common
-rus_type_level: null
 saving_throw: DC 22 Will
 school: Abjuration
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
@@ -13,7 +11,6 @@ trait:
 - '[[DATABASE/trait/Curse|Curse]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 type: Curse
-usage: null
 
 ---
 # Wizard's Ward<span class="item-type">Curse 6</span>

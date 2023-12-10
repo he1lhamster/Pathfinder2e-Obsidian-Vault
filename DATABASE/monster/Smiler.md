@@ -1,10 +1,8 @@
 ﻿---
 ac: '19'
 alignment: CE
-all_resistance: null
 burrow_speed: '5'
 charisma: '+4'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Consume Flesh
@@ -12,15 +10,10 @@ creature_ability:
 - Paralysis
 - Stench
 - Swift Leap
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+9'
-hardness: null
 hp: 45 ( negative healing )
 id: '2005'
-immunity: null
 intelligence: '+1'
 land_speed: '30'
 language:
@@ -32,9 +25,6 @@ name: Smiler
 perception: '+12'
 rarity: Unique
 reflex: '+12'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -48,12 +38,10 @@ source: '[[DATABASE/source/Pathfinder 151. The Show Must Go On|Pathfinder #151: 
 speed:
 - 30 feet
 - burrow 5 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Ghoul|Ghoul]]'
 - '[[DATABASE/trait/Undead|Undead]]'
@@ -62,7 +50,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+8'
 wisdom: '+2'
 

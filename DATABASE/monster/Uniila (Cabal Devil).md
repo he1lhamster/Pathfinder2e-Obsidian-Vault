@@ -1,10 +1,7 @@
 ﻿---
 ac: '30'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Every Dagger
@@ -12,10 +9,8 @@ creature_ability:
 - Witch Token
 creature_family: '[[DATABASE/monsterfamily/Devil|Devil]]'
 dexterity: '+6'
-element: null
 fly_speed: '40'
 fortitude: '+17'
-hardness: null
 hp: '155'
 id: '2520'
 immunity:
@@ -37,8 +32,6 @@ rarity: Uncommon
 reflex: '+19'
 resistance:
 - physical 10 (except [[DATABASE/equipment/Silver Weapon|silver]] )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 size: Medium
@@ -86,7 +79,6 @@ strength: '+3'
 strength_req: '3'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Devil|Devil]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

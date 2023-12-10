@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Climbing Tail
-frequency: null
-heighten_level: null
 id: '4001'
+leads_to: '[[DATABASE/feat/Dangle (Vanara)|Dangle (Vanara)]]'
 level: '1'
 name: Climbing Tail
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Vanara|Vanara]]'
-trigger: null
 type: Feat
 
 ---

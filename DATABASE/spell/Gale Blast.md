@@ -1,31 +1,18 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
-duration: null
 element: Air
 heighten: '+2'
 heighten_level: 1, 3, 5, 7, 9
 id: '917'
-lesson: null
 level: '1'
-mystery: null
 name: Gale Blast
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Fortitude
 school: Evocation
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-target: null
 tradition:
 - Arcane
 - Primal
@@ -33,7 +20,6 @@ trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Cantrip|Cantrip]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
-trigger: null
 type: Cantrip
 
 ---

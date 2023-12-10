@@ -23,11 +23,9 @@ follower_alignment:
 id: '35'
 name: Chaldira
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Thievery|Thievery]]'
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
-trait: null
 type: Deity
 
 ---

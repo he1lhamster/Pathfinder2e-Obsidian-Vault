@@ -1,21 +1,15 @@
 ﻿---
 ac: '34'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+25'
 hardness: '1'
 hazard_type: Trap
 hp: "4 (BT 2), the mirror can\u2019t be damaged while any mirror duplicate is alive"
 id: '28'
-immunity: null
 level: '14'
 name: Darkside Mirror
 rarity: Common
 reflex: '+20'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Complex|Complex]]'
@@ -23,8 +17,6 @@ trait:
 - '[[DATABASE/trait/Mechanical|Mechanical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Darkside Mirror<span class="item-type">Hazard 14</span>

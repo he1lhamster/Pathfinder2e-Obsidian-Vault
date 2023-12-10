@@ -1,21 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Silent Sting
-frequency: null
-heighten_level: null
 id: '2738'
 level: '10'
 name: Silent Sting
 prerequisite: '[[DATABASE/feat/Golden League Xun Dedication|Golden League Xun Dedication]]
   ; Expert in [[DATABASE/skill/Stealth|Stealth]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 167. Ready Fight!|Pathfinder #167: Ready? Fight!]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 trigger: You make a Strike with a weapon of light bulk.

@@ -1,17 +1,11 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
-frequency: null
 id: '473'
 name: Sense Weakness
 rarity: Common
 requirement: "You\u2019re in a duel, you\u2019re trained in Perception, and you rolled\
   \ a Perception check for initiative thisround."
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
-trait: null
 trigger: "You attempt a melee Strike against your opponent, but haven\u2019t rolled\
   \ yet."
 type: Action

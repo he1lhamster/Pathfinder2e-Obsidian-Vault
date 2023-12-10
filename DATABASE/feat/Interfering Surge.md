@@ -1,10 +1,6 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Interfering Surge
-frequency: null
-heighten_level: null
 id: '3032'
 level: '12'
 name: Interfering Surge
@@ -12,10 +8,8 @@ prerequisite: '[[DATABASE/feat/Wellspring Mage Dedication|Wellspring Mage Dedica
 rarity: Common
 requirement: You have an unexpended spell slot and can see the triggering spell's
   manifestations.
-rus_type_level: null
 school: Abjuration
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Archetype|Archetype]]'

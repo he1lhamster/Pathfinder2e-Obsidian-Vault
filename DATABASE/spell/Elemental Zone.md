@@ -1,38 +1,25 @@
 ﻿---
 actions: '[two-actions]'
 area: 20-foot radius burst
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 1 minute
-element: null
 heighten: '+2'
 heighten_level: 2, 4, 6, 8, 10
 id: '905'
-lesson: null
 level: '2'
-mystery: null
 name: Elemental Zone
-patron_theme: null
 range: 120 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-target: null
 tradition:
 - Arcane
 - Primal
 - Elemental
 trait:
 - '[[DATABASE/trait/Evocation|Evocation]]'
-trigger: null
 type: Spell
 
 ---

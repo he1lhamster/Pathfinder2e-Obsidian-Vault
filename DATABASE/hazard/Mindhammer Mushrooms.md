@@ -1,12 +1,8 @@
 ﻿---
 ac: '16'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+10'
-hardness: null
 hazard_type: Environmental
-hp: null
 id: '355'
 immunity:
 - critical hits
@@ -16,9 +12,6 @@ level: '3'
 name: Mindhammer Mushrooms
 rarity: Common
 reflex: '+8'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 187. The Seventh Arch|Pathfinder #187: The Seventh
   Arch]]'
 trait:
@@ -27,7 +20,6 @@ trait:
 type: Hazard
 weakness:
 - fire 10
-will: null
 
 ---
 # Mindhammer Mushrooms<span class="item-type">Hazard 3</span>

@@ -1,23 +1,17 @@
 ﻿---
 ac: '27'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Attack of Opportunity
 - Change Shape
 creature_family: '[[DATABASE/monsterfamily/Oni|Oni]]'
 dexterity: '+3'
-element: null
 fly_speed: '30'
 fortitude: '+18'
-hardness: null
 hp: '125'
 id: '746'
-immunity: null
 intelligence: '+3'
 land_speed: '30'
 language:
@@ -29,9 +23,6 @@ name: Onidoshi
 perception: '+17'
 rarity: Common
 reflex: '+15'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -58,7 +49,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fiend|Fiend]]'
 - '[[DATABASE/trait/Giant|Giant]]'
@@ -69,7 +59,6 @@ vision: Darkvision
 weakest_save:
 - Reflex
 - Will
-weakness: null
 will: '+15'
 wisdom: '+3'
 

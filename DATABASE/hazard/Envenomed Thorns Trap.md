@@ -1,8 +1,6 @@
 ﻿---
 ac: '18'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+10'
 hardness: '5'
 hazard_type: Trap
@@ -16,17 +14,12 @@ level: '2'
 name: Envenomed Thorns Trap
 rarity: Common
 reflex: '+4'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 151. The Show Must Go On|Pathfinder #151: The
   Show Must Go On]]'
 trait:
 - '[[DATABASE/trait/Mechanical|Mechanical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Envenomed Thorns Trap<span class="item-type">Hazard 2</span>

@@ -1,10 +1,7 @@
 ﻿---
 ac: '46'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+7'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Fated
@@ -13,12 +10,9 @@ creature_ability:
 - Shift Fate
 - Snip Thread
 - Triumvirate
-creature_family: null
 dexterity: '+6'
-element: null
 fly_speed: '35'
 fortitude: '+34'
-hardness: null
 hp: '375'
 id: '742'
 immunity:
@@ -36,9 +30,6 @@ name: Norn
 perception: '+41'
 rarity: Rare
 reflex: '+30'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/spell/Detect Magic|detect magic]]'
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
@@ -76,7 +67,6 @@ strength: '+7'
 strength_req: '7'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Rare|Rare]]'

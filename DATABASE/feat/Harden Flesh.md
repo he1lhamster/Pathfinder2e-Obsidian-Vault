@@ -1,24 +1,17 @@
 ﻿---
 actions: '[one-action]'
-cost: null
 element: Earth
 feat: Harden Flesh
-frequency: null
-heighten_level: null
 id: '2978'
 level: '10'
 name: Harden Flesh
 prerequisite: '[[DATABASE/druidicorder/Stone|stone order]]'
 rarity: Common
 requirement: You're standing on earthen or stone ground.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Druid|Druid]]'
 - '[[DATABASE/trait/Earth|Earth]]'
-trigger: null
 type: Feat
 
 ---

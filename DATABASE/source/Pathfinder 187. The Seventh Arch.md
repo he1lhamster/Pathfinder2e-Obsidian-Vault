@@ -2,9 +2,6 @@
 id: '192'
 name: Pathfinder 187. The Seventh Arch
 rarity: Common
-rus_type_level: null
-source: null
-trait: null
 type: Source
 
 ---

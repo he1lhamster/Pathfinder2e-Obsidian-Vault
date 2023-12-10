@@ -1,22 +1,16 @@
 ﻿---
 ac: '18'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Snare Crafting
 - Sneak Attack
 creature_family: '[[DATABASE/monsterfamily/Villains|Villains]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+5'
 hp: '27'
 id: '959'
-immunity: null
 intelligence: '+2'
 land_speed: '25'
 language:
@@ -27,8 +21,6 @@ name: Saboteur
 perception: '+8'
 rarity: Common
 reflex: '+9'
-resistance: null
-rus_type_level: null
 sense:
 - (10 to find traps)
 size: Medium
@@ -48,20 +40,16 @@ skill:
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 speed:
 - 25 feet
-spell: null
 strength: '+1'
 strength_req: '1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+8'
 wisdom: '+2'
 

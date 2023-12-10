@@ -1,23 +1,16 @@
 ﻿---
 ac: '21'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Heart Ripper
 - Mimic Shadow
-creature_family: null
 dexterity: '+3'
-element: null
 fly_speed: '50'
 fortitude: '+8'
-hardness: null
 hp: '60'
 id: '757'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -28,9 +21,6 @@ name: Peryton
 perception: '+13'
 rarity: Common
 reflex: '+11'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -42,19 +32,16 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 25 feet
 - fly 50 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+13'
 wisdom: '+5'
 

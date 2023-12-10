@@ -1,25 +1,17 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Reanimator Dedication
-frequency: null
-heighten_level: null
 id: '3486'
+leads_to: '[[DATABASE/feat/Bonds of Death|Bonds of Death]] , [[DATABASE/feat/Deathly
+  Secrets|Deathly Secrets]] , [[DATABASE/feat/Macabre Virtuoso|Macabre Virtuoso]]'
 level: '2'
 name: Reanimator Dedication
 prerequisite: able to cast [[DATABASE/spell/Animate Dead|animate dead]] with a spell
   slot
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
-trigger: null
 type: Feat
 
 ---

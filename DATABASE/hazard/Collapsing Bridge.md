@@ -1,31 +1,16 @@
 ﻿---
-ac: '21'
-all_resistance: null
 complexity: Simple
-element: null
-fortitude: '+9'
-hardness: 10 Support Hardness
-hazard_type: Environmental
-hp: 58 (BT 29), currently at 10 each)
-id: '299'
-immunity:
-- critical hits
-- object immunities
-- precision damage
-level: '6'
+hazard_type: Trap
+id: '267'
+level: '15'
 name: Collapsing Bridge
-rarity: Unique
-reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
-source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
+rarity: Common
+source: '[[DATABASE/source/Pathfinder 184. The Ghouls Hunger|Pathfinder #184: The
+  Ghouls Hunger]]'
 trait:
-- '[[DATABASE/trait/Environmental|Environmental]]'
-- '[[DATABASE/trait/Unique|Unique]]'
+- '[[DATABASE/trait/Mechanical|Mechanical]]'
+- '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Collapsing Bridge<span class="item-type">Hazard 6</span>

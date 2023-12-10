@@ -1,10 +1,8 @@
 ﻿---
 ac: '42'
 alignment: NG
-all_resistance: null
 burrow_speed: '40'
 charisma: '+7'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Breath Weapon
@@ -22,7 +20,6 @@ dexterity: '+5'
 element: Earth
 fly_speed: '140'
 fortitude: '+30'
-hardness: null
 hp: '275'
 id: '629'
 immunity:
@@ -42,9 +39,6 @@ name: Ancient Crystal Dragon
 perception: '+28'
 rarity: Rare
 reflex: '+27'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent (imprecise) 60 feet]]'
@@ -73,7 +67,6 @@ strength: '+9'
 strength_req: '9'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dragon|Dragon]]'
 - '[[DATABASE/trait/Earth|Earth]]'

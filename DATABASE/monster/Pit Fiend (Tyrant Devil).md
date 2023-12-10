@@ -1,10 +1,7 @@
 ﻿---
 ac: '46'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+8'
-climb_speed: null
 constitution: '+9'
 creature_ability:
 - Attack of Opportunity
@@ -18,10 +15,8 @@ creature_ability:
 - Pit Fiend Venom
 creature_family: '[[DATABASE/monsterfamily/Devil|Devil]]'
 dexterity: '+8'
-element: null
 fly_speed: '50'
 fortitude: '+37'
-hardness: null
 hp: '335'
 id: '114'
 immunity:
@@ -42,8 +37,6 @@ reflex: '+32'
 resistance:
 - physical 15 (except [[DATABASE/equipment/Silver Weapon|silver]] )
 - '[[DATABASE/trait/Poison|poison]] 15'
-rus_type_level: null
-school: null
 sense:
 - greater darkvision
 - '[[DATABASE/spell/True Seeing|true seeing]]'
@@ -78,7 +71,6 @@ strength: '+9'
 strength_req: '9'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Devil|Devil]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

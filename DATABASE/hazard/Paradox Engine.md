@@ -1,8 +1,6 @@
 ﻿---
 ac: '36'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+28'
 hardness: '24'
 hazard_type: Trap
@@ -16,9 +14,6 @@ level: '14'
 name: Paradox Engine
 rarity: Unique
 reflex: '+22'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Shadows at Sundown|Shadows at Sundown]]'
 trait:
 - '[[DATABASE/trait/Complex|Complex]]'
@@ -26,8 +21,6 @@ trait:
 - '[[DATABASE/trait/Trap|Trap]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Paradox Engine<span class="item-type">Hazard 14</span>

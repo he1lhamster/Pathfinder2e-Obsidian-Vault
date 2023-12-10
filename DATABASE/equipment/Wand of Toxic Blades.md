@@ -1,57 +1,23 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
 bulk: L
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '2296'
 item_category: Wands
 item_subcategory: Specialty Wands
-land_speed: null
 level: '19'
-max_speed: null
 name: Wand of Toxic Blades
-onset: null
 price: 37,500 gp
-range: null
 rarity: Common
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
-size: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-spell: null
-stage: null
 subcategory: wand
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Force|Force]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Poison|Poison]]'
 - '[[DATABASE/trait/Wand|Wand]]'
-trigger: null
 type: Item
 usage: held in 1 hand
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Wand of Toxic Blades<span class="item-type">Item 15+</span>

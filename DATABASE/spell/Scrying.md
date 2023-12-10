@@ -1,29 +1,17 @@
 ﻿---
-actions: null
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Magdh|Magdh]]'
-domain: null
 duration: sustained up to 10 minutes
-element: null
-heighten: null
 heighten_level: '6'
 id: '268'
-lesson: null
 level: '6'
-mystery: null
 name: Scrying
-patron_theme: null
 range: planetary
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 saving_throw: Will
 school: Divination
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -35,7 +23,6 @@ trait:
 - '[[DATABASE/trait/Divination|Divination]]'
 - '[[DATABASE/trait/Scrying|Scrying]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Spell
 
 ---

@@ -4,7 +4,6 @@ level: '2'
 name: Stalwart Defender
 prerequisite: trained in light armor
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Highhelm|Highhelm]]'
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

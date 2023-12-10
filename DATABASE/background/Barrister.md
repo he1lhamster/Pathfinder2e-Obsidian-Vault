@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Group Impression|Group Impression]]'
 id: '7'
 name: Barrister
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Diplomacy|Diplomacy]]'
 - Legal [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

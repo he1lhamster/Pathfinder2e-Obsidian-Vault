@@ -1,10 +1,7 @@
 ﻿---
 ac: '33'
 alignment: NG
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Holy Armaments
@@ -13,10 +10,8 @@ creature_ability:
 - Spiritual Warden
 creature_family: '[[DATABASE/monsterfamily/Angel|Angel]]'
 dexterity: '+4'
-element: null
 fly_speed: '60'
 fortitude: '+24'
-hardness: null
 hp: '245'
 id: '543'
 immunity:
@@ -33,9 +28,6 @@ name: Monadic Deva
 perception: '+25'
 rarity: Common
 reflex: '+21'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -66,7 +58,6 @@ strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Angel|Angel]]'
 - '[[DATABASE/trait/Celestial|Celestial]]'

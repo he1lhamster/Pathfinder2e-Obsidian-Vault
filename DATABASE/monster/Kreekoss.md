@@ -1,24 +1,17 @@
 ﻿---
 ac: '24'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Eagle Dive
 - Evasion
 - Snatch
-creature_family: null
 dexterity: '+5'
-element: null
 fly_speed: '60'
 fortitude: '+11'
-hardness: null
 hp: '95'
 id: '1636'
-immunity: null
 intelligence: '+0'
 land_speed: '10'
 language:
@@ -33,8 +26,6 @@ rarity: Unique
 reflex: '+16'
 resistance:
 - '[[DATABASE/trait/Fire|fire]] 6'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Large
@@ -46,12 +37,10 @@ source: '[[DATABASE/source/Pathfinder 170. Spoken on the Song Wind|Pathfinder #1
 speed:
 - 10 feet
 - fly 60 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

@@ -2,7 +2,6 @@
 id: '233'
 name: Rakshasa
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait:
 - Rakshasa

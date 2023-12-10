@@ -2,19 +2,14 @@
 ac: '16'
 alignment: N
 all_resistance: '2'
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Bond with Mortal
 - Bonded Strike
 creature_family: '[[DATABASE/monsterfamily/Spirit Guide|Spirit Guide]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+5'
-hardness: null
 hp: '14'
 id: '1319'
 immunity:
@@ -38,8 +33,6 @@ resistance:
 - '[[DATABASE/equipment/Ghost Touch|ghost touch]]'
 - or [[DATABASE/trait/Positive|positive]] ; double resistance vs. non- [[DATABASE/trait/Magical|magical]]
   )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -63,7 +56,6 @@ strength: '+1'
 strength_req: '1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Incorporeal|Incorporeal]]'
@@ -72,7 +64,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+7'
 wisdom: '+2'
 

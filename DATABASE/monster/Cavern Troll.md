@@ -1,7 +1,6 @@
 ﻿---
 ac: '22'
 alignment: CE
-all_resistance: null
 burrow_speed: '20'
 charisma: '+2'
 climb_speed: '20'
@@ -16,9 +15,7 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Troll|Troll]]'
 dexterity: '+2'
 element: Earth
-fly_speed: null
 fortitude: '+18'
-hardness: null
 hp: '135'
 id: '832'
 immunity:
@@ -34,9 +31,6 @@ name: Cavern Troll
 perception: '+14'
 rarity: Uncommon
 reflex: '+13'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -48,12 +42,10 @@ speed:
 - 25 feet
 - burrow 20 feet
 - climb 20 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Giant|Giant]]'
@@ -63,7 +55,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+8'
 wisdom: '+2'
 

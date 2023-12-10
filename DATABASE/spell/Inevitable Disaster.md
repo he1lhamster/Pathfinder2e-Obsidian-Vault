@@ -1,27 +1,15 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
 heighten: '+1'
 heighten_level: 5, 6, 7, 8, 9, 10
 id: '930'
-lesson: null
 level: '5'
-mystery: null
 name: Inevitable Disaster
-patron_theme: null
 range: 60 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Fortitude
 school: Divination
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
@@ -33,7 +21,6 @@ trait:
 - '[[DATABASE/trait/Curse|Curse]]'
 - '[[DATABASE/trait/Divination|Divination]]'
 - '[[DATABASE/trait/Prediction|Prediction]]'
-trigger: null
 type: Spell
 
 ---

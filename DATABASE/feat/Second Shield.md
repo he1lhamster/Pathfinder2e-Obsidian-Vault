@@ -1,20 +1,12 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Second Shield
-frequency: null
-heighten_level: null
 id: '2098'
 level: '6'
 name: Second Shield
 prerequisite: '[[DATABASE/feat/Viking Dedication|Viking Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 trigger: Your [[DATABASE/feat/Shield Block|Shield Block]] causes your shield to break

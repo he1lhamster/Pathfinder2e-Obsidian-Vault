@@ -1,10 +1,7 @@
 ﻿---
 ac: '23'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Blood Soak
@@ -12,13 +9,9 @@ creature_ability:
 - Flyby Swing
 creature_family: '[[DATABASE/monsterfamily/Redcap|Redcap]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+12'
-hardness: null
 hp: 75 ( fast healing 10)
 id: '2700'
-immunity: null
 intelligence: '+1'
 land_speed: '50'
 language:
@@ -31,9 +24,6 @@ name: Redcap Cavalry
 perception: '+14'
 rarity: Uncommon
 reflex: '+14'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Small
@@ -47,12 +37,10 @@ source: '[[DATABASE/source/Pathfinder 194. Cult of the Cave Worm|Pathfinder #194
   Cult of the Cave Worm]]'
 speed:
 - 50 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

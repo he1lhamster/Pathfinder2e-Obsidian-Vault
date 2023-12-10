@@ -1,28 +1,22 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Crimson Shroud
 frequency: A number of times per day equal to your number of class feats from the
   Red Mantis assassin<br>                archetype
-heighten_level: null
 id: '898'
+leads_to: '[[DATABASE/feat/Fading|Fading]]'
 level: '6'
 name: Crimson Shroud
 prerequisite: '[[DATABASE/feat/Red Mantis Assassin Dedication|Red Mantis Assassin
   Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/World Guide|World Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Healing|Healing]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
-trigger: null
 type: Feat
 
 ---

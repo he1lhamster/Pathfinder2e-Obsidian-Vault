@@ -1,8 +1,6 @@
 ﻿---
 bulk: '1'
 damage: 1d8 P
-deity: null
-favored_weapon: null
 hands: '2'
 id: '251'
 item_category: Weapons
@@ -12,7 +10,6 @@ name: Shobhad Longrifle
 price: 20 gp
 range: 120 ft.
 rarity: Rare
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 173. Doorway to the Red Star|Pathfinder #173:
   Doorway to the Red Star]]'
 trait:

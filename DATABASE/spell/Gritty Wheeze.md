@@ -1,31 +1,20 @@
 ﻿---
 actions: '[two-actions]'
 area: 15-foot cone
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: see below
 element: Air, Earth
 heighten: '+1'
 heighten_level: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
 id: '1092'
-lesson: null
 level: '1'
-mystery: null
 name: Gritty Wheeze
-patron_theme: null
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 saving_throw: Fortitude
 school: Evocation
 source: '[[DATABASE/source/Threshold of Knowledge|Threshold of Knowledge]]'
-target: null
 tradition:
 - Arcane
 - Primal
@@ -34,7 +23,6 @@ trait:
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Spell
 
 ---

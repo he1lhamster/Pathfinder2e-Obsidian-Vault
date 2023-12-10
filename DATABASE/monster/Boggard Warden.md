@@ -1,10 +1,7 @@
 ﻿---
 ac: '28'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Nature's Edge
@@ -12,27 +9,18 @@ creature_ability:
 - Swamp Stride
 - Terrifying Croak
 - Tongue Grab
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+18'
-hardness: null
 hp: '160'
 id: '2276'
-immunity: null
 intelligence: '+0'
 land_speed: '20'
-language: null
 level: '9'
 max_speed: '25'
 name: Boggard Warden
 perception: '+19'
 rarity: Rare
 reflex: '+19'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -45,7 +33,6 @@ source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 speed:
 - 20 feet
 - swim 25 feet; swamp stride
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
@@ -60,7 +47,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+17'
 wisdom: '+4'
 

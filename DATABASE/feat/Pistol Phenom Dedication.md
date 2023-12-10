@@ -1,26 +1,20 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Pistol Phenom Dedication
-frequency: null
-heighten_level: null
 id: '3251'
+leads_to: '[[DATABASE/feat/Dazzling Bullet|Dazzling Bullet]] , [[DATABASE/feat/Gunpowder
+  Gauntlet|Gunpowder Gauntlet]] , [[DATABASE/feat/Hot Foot|Hot Foot]] , [[DATABASE/feat/Phenom''s
+  Verve|Phenom''s Verve]] , [[DATABASE/feat/Reach for the Sky|Reach for the Sky]]
+  , [[DATABASE/feat/Whirling Knockdown|Whirling Knockdown]]'
 level: '2'
 name: Pistol Phenom Dedication
 prerequisite: trained in at least one type of one-handed firearm; Trained in [[DATABASE/skill/Deception|Deception]]
   ; Trained in [[DATABASE/skill/Performance|Performance]]
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

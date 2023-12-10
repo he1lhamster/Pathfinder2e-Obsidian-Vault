@@ -1,10 +1,7 @@
 ﻿---
 ac: '20'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Darkvision Invisibility
@@ -13,17 +10,12 @@ creature_ability:
 - Seize
 - Sound Mimicry
 - Tentacle Grab
-creature_family: null
 dexterity: '+3'
-element: null
 fly_speed: '25'
 fortitude: '+11'
-hardness: null
 hp: '60'
 id: '2600'
-immunity: null
 intelligence: '+2'
-land_speed: null
 language:
 - '[[DATABASE/language/Aklo|Aklo]]'
 level: '4'
@@ -32,9 +24,6 @@ name: Graul
 perception: '+14'
 rarity: Uncommon
 reflex: '+8'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - blindsight (precise) 120 feet
 size: Large
@@ -53,15 +42,12 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+14'
 wisdom: '+3'
 

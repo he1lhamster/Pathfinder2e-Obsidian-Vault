@@ -1,57 +1,27 @@
 ﻿---
-ac: null
 actions: '[one-action]'
-alignment: null
-base_item: null
 bulk: L
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
 duration: 6 minutes
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '121'
 item_category: Alchemical Items
 item_subcategory: Alchemical Poisons
-land_speed: null
 level: '9'
-max_speed: null
 name: Lich Dust
 onset: 10 minutes
 price: 110 gp
-range: null
 rarity: Common
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
 saving_throw: DC 28 Fortitude
-school: null
-size: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-spell: null
 stage: 'Stage 1: fatigued (1 minute)Stage 2: 5d6 poison damage, fatigued, and paralyzed
   (1minute)'
 subcategory: alchemical/poison
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Alchemical|Alchemical]]'
 - '[[DATABASE/trait/Consumable|Consumable]]'
 - '[[DATABASE/trait/Ingested|Ingested]]'
 - '[[DATABASE/trait/Poison|Poison]]'
-trigger: null
 type: Item
 usage: held in 1 hand
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Lich Dust<span class="item-type">Item 9</span>

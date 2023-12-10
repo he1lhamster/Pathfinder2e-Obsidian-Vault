@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Mounted Shield
-frequency: null
-heighten_level: null
 id: '1925'
 level: '6'
 name: Mounted Shield
 prerequisite: '[[DATABASE/feat/Cavalier Dedication|Cavalier Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

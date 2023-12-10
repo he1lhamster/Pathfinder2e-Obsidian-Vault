@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Just the Facts
-frequency: null
-heighten_level: null
 id: '1482'
 level: '20'
 name: Just the Facts
 prerequisite: '[[DATABASE/feat/Thorough Research|Thorough Research]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Investigator|Investigator]]'
-trigger: null
 type: Feat
 
 ---

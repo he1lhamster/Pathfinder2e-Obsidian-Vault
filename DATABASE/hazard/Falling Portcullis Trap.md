@@ -1,8 +1,6 @@
 ﻿---
 ac: '25'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+15'
 hardness: '18'
 hazard_type: Trap
@@ -16,17 +14,12 @@ level: '7'
 name: Falling Portcullis Trap
 rarity: Common
 reflex: '+18'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 179. Cradle of Quartz|Pathfinder #179: Cradle
   of Quartz]]'
 trait:
 - '[[DATABASE/trait/Mechanical|Mechanical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Falling Portcullis Trap<span class="item-type">Hazard 7</span>

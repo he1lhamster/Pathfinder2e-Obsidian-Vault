@@ -1,8 +1,6 @@
 ﻿---
 ac: '22'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+15'
 hardness: 12 Carcass Hardness
 hazard_type: Trap
@@ -16,9 +14,6 @@ level: '5'
 name: Centipede Carcasses Trap
 rarity: Common
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 169. Kindled Magic|Pathfinder #169: Kindled
   Magic]]'
 trait:
@@ -26,8 +21,6 @@ trait:
 - '[[DATABASE/trait/Mechanical|Mechanical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Centipede Carcasses Trap<span class="item-type">Hazard 5</span>

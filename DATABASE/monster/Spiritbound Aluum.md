@@ -1,10 +1,7 @@
 ﻿---
 ac: '39'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Aluum Antimagic
@@ -16,10 +13,8 @@ creature_ability:
 - Shriek
 creature_family: '[[DATABASE/monsterfamily/Aluum|Aluum]]'
 dexterity: '+3'
-element: null
 fly_speed: '25'
 fortitude: '+30'
-hardness: null
 hp: '255'
 id: '477'
 immunity:
@@ -38,7 +33,6 @@ immunity:
 - unconscious
 intelligence: '-5'
 land_speed: '25'
-language: null
 level: '16'
 max_speed: '25'
 name: Spiritbound Aluum
@@ -47,8 +41,6 @@ rarity: Rare
 reflex: '+25'
 resistance:
 - 15 physical (except adamantine)
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Large
@@ -66,7 +58,6 @@ strength: '+9'
 strength_req: '9'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Mindless|Mindless]]'
@@ -76,7 +67,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+28'
 wisdom: '+4'
 

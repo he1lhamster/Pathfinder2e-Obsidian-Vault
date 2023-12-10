@@ -5,13 +5,9 @@ ability:
 ability_boost:
 - Constitution
 - Charisma
-feat: null
 id: '330'
 name: Eclipseborn
-prerequisite: null
 rarity: Rare
-rus_type_level: null
-skill: null
 source: '[[DATABASE/source/Travel Guide|Travel Guide]]'
 subcategory: general
 trait:

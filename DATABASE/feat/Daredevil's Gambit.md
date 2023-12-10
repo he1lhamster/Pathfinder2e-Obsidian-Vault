@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Daredevil's Gambit
-frequency: null
-heighten_level: null
 id: '1074'
 level: '12'
 name: Daredevil's Gambit
 prerequisite: '[[DATABASE/feat/Daring Act|Daring Act]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

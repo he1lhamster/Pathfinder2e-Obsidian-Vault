@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Gaze of Veracity
-frequency: null
-heighten_level: null
 id: '1084'
 level: '10'
 name: Gaze of Veracity
 prerequisite: '[[DATABASE/feat/Hellknight Signifer Dedication|Hellknight Signifer
   Dedication]] ; ability to cast focusspells'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

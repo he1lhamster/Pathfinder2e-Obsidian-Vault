@@ -1,10 +1,7 @@
 ﻿---
 ac: '43'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+9'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Attack of Opportunity
@@ -15,14 +12,10 @@ creature_ability:
 - Slash and Slam
 - Swift Capture
 - Swift Slash
-creature_family: null
 dexterity: '+7'
-element: null
-fly_speed: null
 fortitude: '+32'
 hp: '350'
 id: '1585'
-immunity: null
 intelligence: '+7'
 land_speed: '30'
 language:
@@ -37,9 +30,6 @@ name: Uri Zandivar
 perception: '+35'
 rarity: Unique
 reflex: '+29'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +37'
@@ -56,21 +46,17 @@ source: '[[DATABASE/source/Pathfinder 149. Against the Scarlet Triad|Pathfinder 
   Against the Scarlet Triad]]'
 speed:
 - 30 feet
-spell: null
 strength: '+9'
 strength_req: '9'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Hobgoblin|Hobgoblin]]'
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+35'
 wisdom: '+8'
 

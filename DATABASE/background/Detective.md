@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Streetwise|Streetwise]]'
 id: '11'
 name: Detective
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Society|Society]]'
 - Underworld [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

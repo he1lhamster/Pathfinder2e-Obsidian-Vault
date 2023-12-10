@@ -1,25 +1,17 @@
 ﻿---
 ac: '24'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Light Step
 - Powerful Arm
 - Powerful Stench
 - Skirmishing Movement
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+13'
-hardness: null
 hp: '95'
 id: '2104'
-immunity: null
 intelligence: '+0'
 land_speed: '30'
 language:
@@ -31,9 +23,6 @@ name: Xulgath Skirmisher
 perception: '+15'
 rarity: Uncommon
 reflex: '+16'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -47,12 +36,10 @@ source: '[[DATABASE/source/Pathfinder 153. Life''s Long Shadows|Pathfinder #153:
 speed:
 - 30 feet
 - light step
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
@@ -62,7 +49,6 @@ vision: Darkvision
 weakest_save:
 - Fortitude
 - Will
-weakness: null
 will: '+13'
 wisdom: '+3'
 

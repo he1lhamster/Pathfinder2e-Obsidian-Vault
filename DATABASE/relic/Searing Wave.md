@@ -3,9 +3,7 @@ element: Fire
 id: '41'
 item_category: Relics
 name: Searing Wave
-prerequisite: null
 rarity: Common
-rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:

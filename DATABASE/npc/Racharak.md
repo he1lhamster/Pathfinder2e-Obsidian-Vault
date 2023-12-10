@@ -1,8 +1,6 @@
 ﻿---
 ac: '27'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
 climb_speed: '30'
 constitution: '+5'
@@ -12,10 +10,8 @@ creature_ability:
 - Shrieking Frenzy
 - Tail Swipe
 - Thrown Weapon Mastery
-creature_family: null
 dexterity: '+3'
 element: Fire
-fly_speed: null
 fortitude: '+19'
 hp: '135'
 id: '1542'
@@ -34,8 +30,6 @@ name: Racharak
 perception: '+16'
 rarity: Unique
 reflex: '+13'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -53,12 +47,10 @@ source: '[[DATABASE/source/Pathfinder 146. Cult of Cinders|Pathfinder #146: Cult
 speed:
 - 30 feet
 - climb 30 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Charau-ka|Charau-ka]]'
 - '[[DATABASE/trait/Dragon|Dragon]]'
@@ -69,7 +61,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+16'
 wisdom: '+4'
 

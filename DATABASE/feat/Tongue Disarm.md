@@ -1,24 +1,15 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Tongue Disarm
-frequency: null
-heighten_level: null
 id: '2408'
 level: '5'
 name: Tongue Disarm
 prerequisite: Trained in [[DATABASE/skill/Athletics|Athletics]] ; [[DATABASE/feat/Lightning
   Tongue|Lightning Tongue]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Lizardfolk|Lizardfolk]]'
-trigger: null
 type: Feat
 
 ---

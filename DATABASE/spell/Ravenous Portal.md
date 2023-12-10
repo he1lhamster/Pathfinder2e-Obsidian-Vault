@@ -1,29 +1,16 @@
 ﻿---
 actions: '[three-actions]'
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 1 hour
-element: null
-heighten: null
 heighten_level: '4'
 id: '980'
-lesson: null
 level: '4'
-mystery: null
 name: Ravenous Portal
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 target: 1 door no more than 10 feet tall and 5 feet wide
@@ -32,7 +19,6 @@ tradition:
 - Occult
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
-trigger: null
 type: Spell
 
 ---

@@ -1,10 +1,7 @@
 ﻿---
 ac: '30'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Feed
@@ -12,10 +9,7 @@ creature_ability:
 - Stench
 creature_family: '[[DATABASE/monsterfamily/Fleshwarp|Fleshwarp]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+22'
-hardness: null
 hp: '175'
 id: '671'
 immunity:
@@ -32,8 +26,6 @@ rarity: Common
 reflex: '+17'
 resistance:
 - acid 10
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent (imprecise) 30 feet]]'
@@ -45,19 +37,16 @@ skill:
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 35 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+19'
 wisdom: '+5'
 

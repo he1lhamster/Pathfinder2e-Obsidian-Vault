@@ -1,8 +1,6 @@
 ﻿---
 ac: '34'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+8'
 climb_speed: '20'
 constitution: '+4'
@@ -25,10 +23,7 @@ creature_ability:
 - Vulnerable to Decapitation
 creature_family: '[[DATABASE/monsterfamily/Vampire, Vrykolakas|Vampire, Vrykolakas]]'
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+23'
-hardness: null
 hp: 250 ( negative healing )
 id: '844'
 immunity:
@@ -47,9 +42,6 @@ name: Vrykolakas Ancient
 perception: '+23'
 rarity: Uncommon
 reflex: '+24'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -72,7 +64,6 @@ strength: '+8'
 strength_req: '8'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 - '[[DATABASE/trait/Undead|Undead]]'
@@ -81,7 +72,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+21'
 wisdom: '+4'
 

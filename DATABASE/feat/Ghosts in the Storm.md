@@ -1,20 +1,12 @@
 ﻿---
 actions: '[one-action]'
-cost: null
 element: Air
 feat: Ghosts in the Storm
-frequency: null
-heighten_level: null
 id: '4216'
 level: '12'
 name: Ghosts in the Storm
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Electricity|Electricity]]'
@@ -22,7 +14,6 @@ trait:
 - '[[DATABASE/trait/Kineticist|Kineticist]]'
 - '[[DATABASE/trait/Primal|Primal]]'
 - '[[DATABASE/trait/Stance|Stance]]'
-trigger: null
 type: Feat
 
 ---

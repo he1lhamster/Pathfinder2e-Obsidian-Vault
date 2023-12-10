@@ -1,24 +1,17 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Fey Influence
-frequency: null
-heighten_level: null
 id: '1239'
+leads_to: '[[DATABASE/feat/Cannibalize Magic|Cannibalize Magic]] , [[DATABASE/feat/Drain
+  Emotion|Drain Emotion]] , [[DATABASE/feat/Eldritch Calm|Eldritch Calm]] , [[DATABASE/feat/Fey
+  Ascension|Fey Ascension]] , [[DATABASE/feat/Fey Transcendence|Fey Transcendence]]
+  , [[DATABASE/feat/Glamour|Glamour]]'
 level: '5'
 name: Fey Influence
-prerequisite: null
 rarity: Rare
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/All Ancestries|All Ancestries]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Feat
 
 ---

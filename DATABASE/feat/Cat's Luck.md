@@ -1,20 +1,16 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Cat's Luck
 frequency: once per day
-heighten_level: null
 id: '1253'
+leads_to: '[[DATABASE/feat/Expanded Luck|Expanded Luck]] , [[DATABASE/feat/Lucky Break|Lucky
+  Break]] , [[DATABASE/feat/Reliable Luck|Reliable Luck]] , [[DATABASE/feat/Sense
+  for Trouble|Sense for Trouble]] , [[DATABASE/feat/Shared Luck (Catfolk)|Shared Luck
+  (Catfolk)]]'
 level: '1'
 name: Cat's Luck
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Catfolk|Catfolk]]'
 - '[[DATABASE/trait/Fortune|Fortune]]'

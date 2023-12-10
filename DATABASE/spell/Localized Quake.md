@@ -1,39 +1,26 @@
 ﻿---
 actions: '[two-actions]'
 area: 15-foot emanation or 15-foot cone
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
 domain:
 - '[[DATABASE/domain/Earth Domain|Earth]]'
-duration: null
 element: Earth
 heighten: '+1'
 heighten_level: 4, 5, 6, 7, 8, 9, 10
 id: '429'
-lesson: null
 level: '4'
-mystery: null
 name: Localized Quake
-patron_theme: null
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 saving_throw: Reflex
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
-tradition: null
 trait:
 - '[[DATABASE/trait/Cleric|Cleric]]'
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Focus
 
 ---

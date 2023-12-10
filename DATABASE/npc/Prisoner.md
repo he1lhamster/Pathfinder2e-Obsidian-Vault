@@ -1,10 +1,7 @@
 ﻿---
 ac: '17'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Sneak Attack
@@ -12,12 +9,9 @@ creature_ability:
 - You're Next
 creature_family: '[[DATABASE/monsterfamily/Downtrodden|Downtrodden]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+4'
 hp: '17'
 id: '900'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -28,9 +22,6 @@ name: Prisoner
 perception: '+6'
 rarity: Common
 reflex: '+9'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +7'
@@ -41,20 +32,16 @@ skill:
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 speed:
 - 25 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+6'
 wisdom: '+1'
 

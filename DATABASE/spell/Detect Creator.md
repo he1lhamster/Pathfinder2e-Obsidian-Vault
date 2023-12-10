@@ -1,29 +1,15 @@
 ﻿---
-actions: null
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: sustained
-element: null
-heighten: null
 heighten_level: '4'
 id: '1113'
-lesson: null
 level: '4'
-mystery: null
 name: Detect Creator
-patron_theme: null
 range: 1 mile
 rarity: Rare
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
 target: 1 destroyed [[DATABASE/trait/Undead|undead]]
@@ -35,7 +21,6 @@ trait:
 - '[[DATABASE/trait/Detection|Detection]]'
 - '[[DATABASE/trait/Divination|Divination]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Spell
 
 ---

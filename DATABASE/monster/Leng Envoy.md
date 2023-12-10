@@ -1,10 +1,7 @@
 ﻿---
 ac: '42'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Debilitating Bite
@@ -12,12 +9,8 @@ creature_ability:
 - No Breath
 - Planar Fast Healing
 - Play the Pipes
-creature_family: null
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+27'
-hardness: null
 hp: 240 (planar fast healing 15)
 id: '2342'
 immunity:
@@ -35,8 +28,6 @@ reflex: '+30'
 resistance:
 - critical hits 20
 - precision 20
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -74,7 +65,6 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Dream|Dream]]'
@@ -83,7 +73,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+33'
 wisdom: '+5'
 

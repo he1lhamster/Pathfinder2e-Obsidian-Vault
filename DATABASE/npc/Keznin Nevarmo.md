@@ -1,22 +1,15 @@
 ﻿---
 ac: '26'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Expert Herbalist
 - Risky Treatment
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+15'
 hp: '150'
 id: '1646'
-immunity: null
 intelligence: '+4'
 land_speed: '25'
 language:
@@ -29,8 +22,6 @@ name: Keznin Nevarmo
 perception: '+18'
 rarity: Unique
 reflex: '+18'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
@@ -44,12 +35,10 @@ skill:
 source: '[[DATABASE/source/Night of the Gray Death|Night of the Gray Death]]'
 speed:
 - 25 feet
-spell: null
 strength: '+0'
 strength_req: '0'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Tengu|Tengu]]'
@@ -58,7 +47,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+21'
 wisdom: '+4'
 

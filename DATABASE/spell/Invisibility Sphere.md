@@ -1,30 +1,19 @@
 ﻿---
 actions: '[two-actions]'
 area: 10-foot emanation
-bloodline: null
 component:
 - Material
 - Somatic
-cost: null
 deity:
 - '[[DATABASE/deity/Luhar|Luhar]]'
 - '[[DATABASE/deity/Thamir|Thamir]]'
-domain: null
 duration: 10 minutes
-element: null
 heighten: 5th
 heighten_level: 3, 5
 id: '165'
-lesson: null
 level: '3'
-mystery: null
 name: Invisibility Sphere
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Illusion
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: you and any number of creatures in range
@@ -33,7 +22,6 @@ tradition:
 - Occult
 trait:
 - '[[DATABASE/trait/Illusion|Illusion]]'
-trigger: null
 type: Spell
 
 ---

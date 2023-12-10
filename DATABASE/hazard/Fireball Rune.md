@@ -1,20 +1,11 @@
 ﻿---
-ac: null
-all_resistance: null
 complexity: Simple
 element: Fire
-fortitude: null
-hardness: null
 hazard_type: Trap
-hp: null
 id: '7'
-immunity: null
 level: '5'
 name: Fireball Rune
 rarity: Common
-reflex: null
-resistance: null
-rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
@@ -23,8 +14,6 @@ trait:
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Fireball Rune<span class="item-type">Hazard 5</span>

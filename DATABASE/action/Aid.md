@@ -1,17 +1,11 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
-frequency: null
 id: '75'
 name: Aid
 rarity: Common
 requirement: The ally is willing to accept your aid, and you have prepared to help
   (see below).
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 trigger: An ally is about to use an action that requires a skill check or attack roll.
 type: Action
 

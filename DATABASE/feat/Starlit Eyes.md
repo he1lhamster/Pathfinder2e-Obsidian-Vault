@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Starlit Eyes
-frequency: null
-heighten_level: null
 id: '2856'
 level: '4'
 name: Starlit Eyes
 prerequisite: '[[DATABASE/action/Arcane Cascade|Arcane Cascade]] , [[DATABASE/magushybridstudy/Starlit
   Span|starlit span hybrid study]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Magus|Magus]]'
-trigger: null
 type: Feat
 
 ---

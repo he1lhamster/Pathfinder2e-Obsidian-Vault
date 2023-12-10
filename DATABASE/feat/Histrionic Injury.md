@@ -1,20 +1,12 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Histrionic Injury
 frequency: once per hour
-heighten_level: null
 id: '3346'
 level: '5'
 name: Histrionic Injury
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Poppet|Poppet]]'

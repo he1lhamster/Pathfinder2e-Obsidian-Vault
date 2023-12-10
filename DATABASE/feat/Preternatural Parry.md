@@ -1,20 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Preternatural Parry
-frequency: null
-heighten_level: null
 id: '2879'
 level: '14'
 name: Preternatural Parry
 prerequisite: '[[DATABASE/feat/Spell Parry|Spell Parry]]'
 rarity: Common
 requirement: You have one or more hands free.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Magus|Magus]]'
 trigger: You're targeted by a Strike or a spell attack roll, or you're about to roll

@@ -1,10 +1,6 @@
 ﻿---
 ac: '36'
-alignment: null
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Burning Grasp
@@ -18,7 +14,6 @@ dexterity: '+4'
 element: Fire
 fly_speed: '35'
 fortitude: '+26'
-hardness: null
 hp: '300'
 id: '2636'
 immunity:
@@ -34,9 +29,6 @@ name: Ifrit Shuyookh
 perception: '+25'
 rarity: Rare
 reflex: '+23'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -66,7 +58,6 @@ strength: '+8'
 strength_req: '8'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Elemental|Elemental]]'
 - '[[DATABASE/trait/Fire|Fire]]'

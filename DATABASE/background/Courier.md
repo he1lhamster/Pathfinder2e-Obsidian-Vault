@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Glean Contents|Glean Contents]]'
 id: '169'
 name: Courier
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Society|Society]]'
 - '[[DATABASE/skill/Lore|Lore]] forthe city in which you were raised.'
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

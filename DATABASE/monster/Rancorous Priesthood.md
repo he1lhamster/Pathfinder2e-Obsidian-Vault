@@ -1,10 +1,7 @@
 ﻿---
 ac: '31'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Form Up
@@ -12,15 +9,10 @@ creature_ability:
 - Troop Movement
 - Troop Spellcasting
 - Wild Swing
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+23'
-hardness: null
 hp: 195 (16 squares)
 id: '1275'
-immunity: null
 intelligence: '+2'
 land_speed: '25'
 language:
@@ -32,10 +24,6 @@ name: Rancorous Priesthood
 perception: '+21'
 rarity: Common
 reflex: '+17'
-resistance: null
-rus_type_level: null
-school: null
-sense: null
 size: Gargantuan
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +22'
@@ -57,12 +45,10 @@ strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Troop|Troop]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
 weakness:

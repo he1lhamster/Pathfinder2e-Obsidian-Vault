@@ -1,10 +1,6 @@
 ﻿---
 actions: '[three-actions]'
-cost: null
-element: null
 feat: Trampling Charge
-frequency: null
-heighten_level: null
 id: '1927'
 level: '10'
 name: Trampling Charge
@@ -12,14 +8,10 @@ prerequisite: '[[DATABASE/feat/Cavalier Dedication|Cavalier Dedication]]'
 rarity: Common
 requirement: You are riding a mount that has a melee Strike using its legs (claw,
   talons, hoof, etc.).
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Flourish|Flourish]]'
-trigger: null
 type: Feat
 
 ---

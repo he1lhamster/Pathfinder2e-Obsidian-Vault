@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Unbreakable-er Goblin
-frequency: null
-heighten_level: null
 id: '1011'
 level: '13'
 name: Unbreakable-er Goblin
 prerequisite: '[[DATABASE/heritage/Unbreakable Goblin|Unbreakable Goblin]] heritage'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Goblin|Goblin]]'
-trigger: null
 type: Feat
 
 ---

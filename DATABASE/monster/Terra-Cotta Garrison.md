@@ -1,10 +1,7 @@
 ﻿---
 ac: '27'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Aim as One
@@ -18,10 +15,7 @@ creature_ability:
 - Troop Movement
 creature_family: '[[DATABASE/monsterfamily/Terra-Cotta Warrior|Terra-Cotta Warrior]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+25'
-hardness: null
 hp: 240 (16 squares)
 id: '1333'
 immunity:
@@ -47,10 +41,6 @@ name: Terra-Cotta Garrison
 perception: '+22'
 rarity: Common
 reflex: '+19'
-resistance: null
-rus_type_level: null
-school: null
-sense: null
 size: Gargantuan
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +26'
@@ -58,17 +48,14 @@ skill:
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 25 feet; troop movement
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Troop|Troop]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
 weakness:

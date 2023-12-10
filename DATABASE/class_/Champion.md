@@ -17,14 +17,11 @@ id: '4'
 name: Champion
 perception_proficiency: Trained
 rarity: Common
-rus_type_level: null
 skill_proficiency:
 - Trained in Religion
 - Trained in one skill determined by your choice of deity
 - Trained in a number of additional skills equal to 2 plus your Intelligence modifier
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-tradition: null
-trait: null
 type: Class
 
 ---

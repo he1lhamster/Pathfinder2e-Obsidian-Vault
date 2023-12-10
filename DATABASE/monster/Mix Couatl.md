@@ -1,10 +1,7 @@
 ﻿---
 ac: '27'
 alignment: CG
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Constrict
@@ -14,13 +11,10 @@ creature_ability:
 - Wrap in Coils
 creature_family: '[[DATABASE/monsterfamily/Couatl|Couatl]]'
 dexterity: '+3'
-element: null
 fly_speed: '50'
 fortitude: '+14'
-hardness: null
 hp: '135'
 id: '1104'
-immunity: null
 intelligence: '+4'
 land_speed: '15'
 language:
@@ -34,9 +28,6 @@ name: Mix Couatl
 perception: '+19'
 rarity: Uncommon
 reflex: '+15'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -72,7 +63,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Couatl|Couatl]]'
@@ -81,7 +71,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+19'
 wisdom: '+5'
 

@@ -1,20 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
-frequency: null
 id: '1479'
 name: Provide Aid
 rarity: Common
 requirement: The ally is willing to accept your aid on a [[DATABASE/trait/Camping|Camping]]
   activity that requires a check for success.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
 trait:
 - '[[DATABASE/trait/Camping|Camping]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
-trigger: null
 type: Action
 
 ---

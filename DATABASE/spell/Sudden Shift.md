@@ -1,32 +1,17 @@
 ﻿---
 actions: '[reaction]'
-area: null
-bloodline: null
 component:
 - Somatic
-cost: null
-deity: null
 domain:
 - '[[DATABASE/domain/Trickery Domain|Trickery]]'
 duration: until the end of your next turn
-element: null
-heighten: null
 heighten_level: '1'
 id: '454'
-lesson: null
 level: '1'
-mystery: null
 name: Sudden Shift
-patron_theme: null
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
-tradition: null
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Cleric|Cleric]]'

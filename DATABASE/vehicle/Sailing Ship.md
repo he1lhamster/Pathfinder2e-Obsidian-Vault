@@ -1,27 +1,18 @@
 ﻿---
 ac: '23'
-burrow_speed: null
-climb_speed: null
-fly_speed: null
 fortitude: '+18'
 hardness: '15'
 hp: '150'
 id: '9'
 item_category: Vehicles
-land_speed: null
 level: '9'
 max_speed: '40'
 name: Sailing Ship
 price: 2,000 gp
 rarity: Common
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 size: Gargantuan
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 swim_speed: '40'
-trait: null
 type: Vehicle
 
 ---

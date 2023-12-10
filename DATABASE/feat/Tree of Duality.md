@@ -1,20 +1,13 @@
 ﻿---
 actions: '[three-actions]'
-cost: null
 element: Air, Wood
 feat: Tree of Duality
-frequency: null
 heighten_level: 6, 8, 10, 12, 14, 16, 18, 20
 id: '4310'
 level: '6'
 name: Tree of Duality
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Composite|Composite]]'
@@ -22,7 +15,6 @@ trait:
 - '[[DATABASE/trait/Kineticist|Kineticist]]'
 - '[[DATABASE/trait/Primal|Primal]]'
 - '[[DATABASE/trait/Wood|Wood]]'
-trigger: null
 type: Feat
 
 ---

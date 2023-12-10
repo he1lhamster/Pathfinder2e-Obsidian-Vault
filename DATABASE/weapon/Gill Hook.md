@@ -1,8 +1,6 @@
 ﻿---
 bulk: '2'
 damage: 1d10 P
-deity: null
-favored_weapon: null
 hands: '2'
 id: '156'
 item_category: Weapons
@@ -10,9 +8,7 @@ item_subcategory: Base Weapons
 level: '0'
 name: Gill Hook
 price: 2 gp
-range: null
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Azarketi Ancestry Web Supplement|Azarketi Ancestry Web
   Supplement]]'
 trait:

@@ -3,9 +3,7 @@ creature_family: Virulak
 id: '318'
 name: Virulak
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 182. Graveclaw|Pathfinder #182: Graveclaw]]'
-trait: null
 type: Creature Family
 
 ---

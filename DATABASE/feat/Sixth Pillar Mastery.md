@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Sixth Pillar Mastery
-frequency: null
-heighten_level: null
 id: '4078'
 level: '14'
 name: Sixth Pillar Mastery
 prerequisite: '[[DATABASE/feat/Sixth Pillar Dedication|Sixth Pillar Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Fists of the Ruby Phoenix Hardcover|Fists of the Ruby Phoenix
   Hardcover]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

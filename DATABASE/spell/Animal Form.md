@@ -1,11 +1,8 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Angazhan|Angazhan]]'
 - '[[DATABASE/deity/Angazhan|Angazhan]]'
@@ -19,31 +16,20 @@ deity:
 - '[[DATABASE/deity/Stag Mother of the Forest of Stones|Stag Mother of the Forest
   of Stones]]'
 - '[[DATABASE/deity/Wadjet|Wadjet]]'
-domain: null
 duration: 1 minute
-element: null
 heighten: 3rd, 4th, 5th
 heighten_level: 2, 3, 4, 5
 id: '10'
-lesson: null
 level: '2'
-mystery: null
 name: Animal Form
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Primal
 trait:
 - '[[DATABASE/trait/Polymorph|Polymorph]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Spell
 
 ---

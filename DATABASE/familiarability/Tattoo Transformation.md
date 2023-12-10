@@ -1,14 +1,9 @@
 ﻿---
 ability_type: Master
-actions: null
-frequency: null
 id: '72'
 name: Tattoo Transformation
 rarity: Common
-requirement: null
-rus_type_level: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
-trait: null
 type: Familiar Ability
 
 ---

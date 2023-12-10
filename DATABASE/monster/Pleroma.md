@@ -1,10 +1,7 @@
 ﻿---
 ac: '45'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Energy Touch
@@ -14,17 +11,14 @@ creature_ability:
 - Sphere of Oblivion
 creature_family: '[[DATABASE/monsterfamily/Aeon|Aeon]]'
 dexterity: '+7'
-element: null
 fly_speed: '40'
 fortitude: '+32'
-hardness: null
 hp: '335'
 id: '11'
 immunity:
 - '[[DATABASE/trait/Negative|negative]]'
 - '[[DATABASE/trait/Positive|positive]]'
 intelligence: '+8'
-land_speed: null
 language:
 - envisioning
 level: '20'
@@ -33,9 +27,6 @@ name: Pleroma
 perception: '+37'
 rarity: Common
 reflex: '+31'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - lifesense 120 feet
@@ -75,7 +66,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aeon|Aeon]]'
 - '[[DATABASE/trait/Monitor|Monitor]]'

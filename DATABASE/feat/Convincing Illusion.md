@@ -1,20 +1,14 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Convincing Illusion
-frequency: null
-heighten_level: null
 id: '1837'
 level: '6'
 name: Convincing Illusion
 prerequisite: Expert in [[DATABASE/skill/Deception|Deception]]
 rarity: Common
 requirement: You are within 30 feet of the observer and the illusion.
-rus_type_level: null
 school: Illusion
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Illusion|Illusion]]'
 - '[[DATABASE/trait/Wizard|Wizard]]'

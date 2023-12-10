@@ -3,9 +3,7 @@ creature_family: Hell Hound
 id: '60'
 name: Hell Hound
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
-trait: null
 type: Creature Family
 
 ---

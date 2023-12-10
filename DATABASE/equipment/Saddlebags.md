@@ -1,53 +1,15 @@
 ﻿---
-ac: '11'
-actions: null
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: '+6'
-frequency: null
-hands: null
-hardness: '5'
-hp: '15'
+bulk: L
+hands: '2'
 id: '46'
-item_category: Vehicles
-item_subcategory: null
-land_speed: null
-level: '1'
-max_speed: null
+item_category: Adventuring Gear
+level: '0'
 name: Saddlebags
-onset: null
-price: 60 gp
-range: null
-rarity: Uncommon
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
-school: null
-size: Medium
+price: 2 sp
+rarity: Common
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-spell: null
-stage: null
 subcategory: adventuringgear
-swim_speed: null
-trait:
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
-type: Vehicle
-usage: null
-weapon_category: null
-weapon_group: null
-weapon_type: null
+type: Item
 
 ---
 # Saddlebags<span class="item-type">Item 0</span>

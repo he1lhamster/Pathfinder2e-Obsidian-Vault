@@ -1,22 +1,15 @@
 ﻿---
 ac: '36'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+8'
 creature_ability:
 - Divine Destruction
 - Faith Bound
 - Faithful Weapon
 - Instrument of Faith
-creature_family: null
 dexterity: '-1'
-element: null
-fly_speed: null
 fortitude: '+28'
-hardness: null
 hp: '160'
 id: '1456'
 immunity:
@@ -46,8 +39,6 @@ rarity: Unique
 reflex: '+19'
 resistance:
 - physical 10 (except [[DATABASE/equipment/Adamantine Weapon|adamantine]] )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Huge
@@ -67,7 +58,6 @@ strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Divine|Divine]]'
@@ -77,7 +67,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+22'
 wisdom: '+0'
 

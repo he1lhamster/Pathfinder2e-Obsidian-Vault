@@ -1,7 +1,6 @@
 ﻿---
 ac: '21'
 alignment: CE
-all_resistance: null
 burrow_speed: '10'
 charisma: '+0'
 climb_speed: '30'
@@ -13,15 +12,10 @@ creature_ability:
 - Piercing Shriek
 - Vulnerability to Supernatural
 - Darkness
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+11'
-hardness: null
 hp: '60'
 id: '727'
-immunity: null
 intelligence: '-1'
 land_speed: '30'
 language:
@@ -36,8 +30,6 @@ reflex: '+13'
 resistance:
 - bludgeoning 5
 - electricity 5
-rus_type_level: null
-school: null
 sense:
 - blood scent
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
@@ -51,12 +43,10 @@ speed:
 - 30 feet
 - burrow 10 feet
 - climb 30 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Plant|Plant]]'
 type: Creature

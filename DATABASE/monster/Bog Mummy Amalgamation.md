@@ -1,22 +1,16 @@
 ﻿---
 ac: '27'
 alignment: LE
-all_resistance: null
 burrow_speed: '15'
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Bog Rot
 - Breath of Silt
 - Fist Flurry
 - Rise Up
-creature_family: null
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+19'
-hardness: null
 hp: 160 ( negative healing )
 id: '1681'
 immunity:
@@ -38,8 +32,6 @@ rarity: Unique
 reflex: '+15'
 resistance:
 - '[[DATABASE/trait/Fire|fire]] 10'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) 30 feet'
@@ -51,12 +43,10 @@ source: '[[DATABASE/source/Pathfinder 171. Hurricane''s Howl|Pathfinder #171: Hu
   Howl]]'
 speed:
 - 20 feet; burrow 15 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Mummy|Mummy]]'
 - '[[DATABASE/trait/Undead|Undead]]'

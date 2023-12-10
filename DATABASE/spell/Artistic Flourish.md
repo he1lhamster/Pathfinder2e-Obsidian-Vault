@@ -1,38 +1,25 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
-cost: null
-deity: null
 domain:
 - '[[DATABASE/domain/Creation Domain|Creation]]'
 duration: 10 minutes
-element: null
 heighten: 7th, 10th
 heighten_level: 4, 7, 10
 id: '401'
-lesson: null
 level: '4'
-mystery: null
 name: Artistic Flourish
-patron_theme: null
 range: 15 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: 1 item or work of art that fits entirely within the range
-tradition: null
 trait:
 - '[[DATABASE/trait/Cleric|Cleric]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Focus
 
 ---

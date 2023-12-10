@@ -1,20 +1,12 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Hit the Dirt!
-frequency: null
-heighten_level: null
 id: '3157'
+leads_to: '[[DATABASE/feat/Leap and Fire|Leap and Fire]]'
 level: '1'
 name: Hit the Dirt!
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Gunslinger|Gunslinger]]'
 trigger: A creature you can see attempts a ranged Strike against you.

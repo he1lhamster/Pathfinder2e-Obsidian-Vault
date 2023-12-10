@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Patron's Breadth
-frequency: null
-heighten_level: null
 id: '1870'
 level: '8'
 name: Patron's Breadth
 prerequisite: '[[DATABASE/feat/Basic Witch Spellcasting|Basic Witch Spellcasting]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

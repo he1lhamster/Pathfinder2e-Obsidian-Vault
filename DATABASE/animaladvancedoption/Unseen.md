@@ -2,7 +2,6 @@
 id: '5'
 name: Unseen
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

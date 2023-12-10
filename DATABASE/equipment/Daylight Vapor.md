@@ -1,59 +1,29 @@
 ﻿---
-ac: null
 actions: '[one-action]'
-alignment: null
-base_item: null
 bulk: L
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
 duration: 6 rounds
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '826'
 item_category: Alchemical Items
 item_subcategory: Alchemical Poisons
-land_speed: null
 level: '13'
-max_speed: null
 name: Daylight Vapor
 onset: 1 round
 price: 500 gp
-range: null
 rarity: Uncommon
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
 saving_throw: DC 31 Fortitude
-school: null
-size: null
 source: '[[DATABASE/source/Pathfinder 160. Assault on Hunting Lodge Seven|Pathfinder
   #160: Assault on Hunting Lodge Seven]]'
-spell: null
 stage: 'Stage 1: 4d6 poison damage and sickened 1 (1 round)Stage 2: 6d6 poison damage
   and sickened 2 (1 round)Stage 3: 10d6 damage and sickened 3 (1 round)'
 subcategory: alchemical/poison
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Consumable|Consumable]]'
 - '[[DATABASE/trait/Divine|Divine]]'
 - '[[DATABASE/trait/Inhaled|Inhaled]]'
 - '[[DATABASE/trait/Poison|Poison]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Item
 usage: held in 1 hand
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Daylight Vapor<span class="item-type">Item 13</span>

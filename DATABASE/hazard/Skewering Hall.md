@@ -1,8 +1,6 @@
 ﻿---
 ac: '43'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+35'
 hardness: '32'
 hazard_type: Trap
@@ -16,9 +14,6 @@ level: '19'
 name: Skewering Hall
 rarity: Uncommon
 reflex: '+29'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 186. Ghost King''s Rage|Pathfinder #186: Ghost
   King''s Rage]]'
 trait:
@@ -26,8 +21,6 @@ trait:
 - '[[DATABASE/trait/Trap|Trap]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Skewering Hall<span class="item-type">Hazard 19</span>

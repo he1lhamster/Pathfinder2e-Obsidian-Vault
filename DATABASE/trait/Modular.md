@@ -2,7 +2,6 @@
 id: '271'
 name: Modular
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
 trait:
 - Modular

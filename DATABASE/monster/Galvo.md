@@ -1,21 +1,14 @@
 ﻿---
 ac: '27'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Electrical Field
 - Squirming Embrace
 - Swarm Shape
-creature_family: null
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+18'
-hardness: null
 hp: '158'
 id: '1160'
 immunity:
@@ -36,8 +29,6 @@ resistance:
 - electricity 12
 - slashing 8
 - piercing 8
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -49,7 +40,6 @@ source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 20 feet
 - swim 30 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:

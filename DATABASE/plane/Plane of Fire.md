@@ -5,7 +5,6 @@ id: '6'
 name: Plane of Fire
 plane_category: Inner Sphere Planes
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
 - '[[DATABASE/trait/Fire|Fire]]'

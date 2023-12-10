@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Asura Magic
-frequency: null
-heighten_level: null
 id: '3940'
 level: '9'
 name: Asura Magic
 prerequisite: '[[DATABASE/feat/Faultspawn|Faultspawn]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Tiefling|Tiefling]]'
-trigger: null
 type: Feat
 
 ---

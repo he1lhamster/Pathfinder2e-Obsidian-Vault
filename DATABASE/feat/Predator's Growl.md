@@ -1,20 +1,12 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Predator's Growl
-frequency: null
-heighten_level: null
 id: '2324'
 level: '9'
 name: Predator's Growl
 prerequisite: Expert in [[DATABASE/skill/Intimidation|Intimidation]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Catfolk|Catfolk]]'
 trigger: You successfully [[DATABASE/action/Seek|Seek]] a [[DATABASE/condition/Hidden|hidden]]

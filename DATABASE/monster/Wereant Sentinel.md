@@ -1,10 +1,7 @@
 ﻿---
 ac: '43'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Change Shape
@@ -15,15 +12,10 @@ creature_ability:
 - Retributive
 - Strike
 - Sentinel's Focus
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+35'
-hardness: null
 hp: '400'
 id: '1812'
-immunity: null
 intelligence: '+0'
 land_speed: '40'
 language:
@@ -35,9 +27,6 @@ name: Wereant Sentinel
 perception: '+32'
 rarity: Rare
 reflex: '+29'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -50,12 +39,10 @@ source: '[[DATABASE/source/Pathfinder 174. Shadows of the Ancients|Pathfinder #1
   Shadows of the Ancients]]'
 speed:
 - 40 feet
-spell: null
 strength: '+10'
 strength_req: '10'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Human|Human]]'

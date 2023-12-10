@@ -2,7 +2,6 @@
 id: '483'
 name: Launching
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 trait:
 - Launching

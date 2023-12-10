@@ -3,7 +3,6 @@ id: '18'
 level: '8'
 name: Opening Salvo
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
 - '[[DATABASE/trait/Cavalry|Cavalry]]'

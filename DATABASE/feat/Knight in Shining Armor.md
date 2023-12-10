@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Knight in Shining Armor
-frequency: null
-heighten_level: null
 id: '1096'
 level: '12'
 name: Knight in Shining Armor
 prerequisite: '[[DATABASE/feat/Knight Vigilant|Knight Vigilant]] ; expert in light
   armor, medium armor, orunarmored defense; trained in heavy armor'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

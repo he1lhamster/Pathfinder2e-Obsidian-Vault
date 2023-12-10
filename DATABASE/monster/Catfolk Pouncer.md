@@ -1,23 +1,16 @@
 ﻿---
 ac: '17'
 alignment: CG
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - "Cat\u2019s Luck"
 - Sudden Charge
 creature_family: '[[DATABASE/monsterfamily/Catfolk|Catfolk]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+6'
-hardness: null
 hp: '19'
 id: '71'
-immunity: null
 intelligence: '-1'
 land_speed: '30'
 language:
@@ -29,9 +22,6 @@ name: Catfolk Pouncer
 perception: '+6'
 rarity: Common
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 size: Medium
@@ -44,12 +34,10 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 30 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Catfolk|Catfolk]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -57,7 +45,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+4'
 wisdom: '+1'
 

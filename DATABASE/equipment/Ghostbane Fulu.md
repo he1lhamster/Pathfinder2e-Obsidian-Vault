@@ -1,45 +1,15 @@
 ﻿---
-ac: null
 actions: '[free-action]'
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '978'
 item_category: Consumables
 item_subcategory: Fulu
-land_speed: null
 level: '6'
-max_speed: null
 name: Ghostbane Fulu
-onset: null
 price: 40 gp
-range: null
 rarity: Common
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Necromancy
-size: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-spell: null
-stage: null
 subcategory: consumable/talisman
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Consumable|Consumable]]'
 - '[[DATABASE/trait/Fulu|Fulu]]'
@@ -51,9 +21,6 @@ trigger: You successfully Strike an [[DATABASE/trait/Incorporeal|incorporeal]] c
   with theweapon to which the fulu is affixed, but you haven't rolled damage.
 type: Item
 usage: affixed to a weapon
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Ghostbane Fulu<span class="item-type">Item 6</span>

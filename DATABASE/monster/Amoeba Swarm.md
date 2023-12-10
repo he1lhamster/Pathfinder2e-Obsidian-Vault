@@ -1,8 +1,6 @@
 ﻿---
 ac: '9'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
 climb_speed: '5'
 constitution: '+3'
@@ -12,10 +10,7 @@ creature_ability:
 - Weak Acid
 creature_family: '[[DATABASE/monsterfamily/Ooze|Ooze]]'
 dexterity: '-2'
-element: null
-fly_speed: null
 fortitude: '+8'
-hardness: null
 hp: '35'
 id: '750'
 immunity:
@@ -27,7 +22,6 @@ immunity:
 - '[[DATABASE/trait/Visual|visual]]'
 intelligence: '-5'
 land_speed: '5'
-language: null
 level: '1'
 max_speed: '10'
 name: Amoeba Swarm
@@ -37,8 +31,6 @@ reflex: '+1'
 resistance:
 - slashing 4
 - piercing 4
-rus_type_level: null
-school: null
 sense:
 - motion sense 60 feet
 - no vision
@@ -50,7 +42,6 @@ speed:
 - 5 feet
 - climb 5 feet
 - swim 10 feet
-spell: null
 strength: '+0'
 strength_req: '0'
 strongest_save:
@@ -62,7 +53,6 @@ trait:
 - '[[DATABASE/trait/Ooze|Ooze]]'
 - '[[DATABASE/trait/Swarm|Swarm]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
 weakness:

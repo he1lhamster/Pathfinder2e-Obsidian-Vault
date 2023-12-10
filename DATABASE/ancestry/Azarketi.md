@@ -18,7 +18,6 @@ language:
 max_speed: '20'
 name: Azarketi
 rarity: Uncommon
-rus_type_level: null
 size: Medium
 source: '[[DATABASE/source/Absalom, City of Lost Omens|Absalom, City of Lost Omens]]'
 speed:

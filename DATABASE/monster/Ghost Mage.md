@@ -2,9 +2,7 @@
 ac: '27'
 alignment: CE
 all_resistance: '10'
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Frightful Moan
@@ -13,10 +11,8 @@ creature_ability:
 - Telekinetic Assault
 creature_family: '[[DATABASE/monsterfamily/Ghost|Ghost]]'
 dexterity: '+3'
-element: null
 fly_speed: '25'
 fortitude: '+16'
-hardness: null
 hp: 135 ( negative healing , rejuvenation)
 id: '217'
 immunity:
@@ -27,7 +23,6 @@ immunity:
 - precision
 - unconscious
 intelligence: '+6'
-land_speed: null
 language:
 - '[[DATABASE/language/Common|Common]]'
 - '[[DATABASE/language/Draconic|Draconic]]'
@@ -41,8 +36,6 @@ resistance:
 - all damage 10 (except force
 - ghost touch
 - or positive; double resistance vs. non-magical)
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -71,7 +64,6 @@ strength: '-5'
 strength_req: '-5'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Ghost|Ghost]]'
 - '[[DATABASE/trait/Incorporeal|Incorporeal]]'
@@ -81,7 +73,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+22'
 wisdom: '+3'
 

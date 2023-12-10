@@ -1,10 +1,7 @@
 ﻿---
 ac: '16'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Attack of Opportunity
@@ -13,13 +10,9 @@ creature_ability:
 - Umbral Leap
 creature_family: '[[DATABASE/monsterfamily/Gorga|Gorga]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+8'
-hardness: null
 hp: '25'
 id: '2445'
-immunity: null
 intelligence: '-2'
 land_speed: '40'
 language:
@@ -31,9 +24,6 @@ name: Temagyr
 perception: '+9'
 rarity: Uncommon
 reflex: '+10'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 size: Medium
@@ -45,12 +35,10 @@ source: '[[DATABASE/source/Pathfinder 187. The Seventh Arch|Pathfinder #187: The
   Arch]]'
 speed:
 - 40 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

@@ -1,10 +1,7 @@
 ﻿---
 ac: '18'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Lip Reader
@@ -12,12 +9,9 @@ creature_ability:
 - Sneak Attack
 creature_family: '[[DATABASE/monsterfamily/Courtiers|Courtiers]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+6'
 hp: '45'
 id: '882'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -28,9 +22,6 @@ name: Noble
 perception: '+11'
 rarity: Common
 reflex: '+10'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Deception|Deception]] +10'
@@ -40,20 +31,16 @@ skill:
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 speed:
 - 25 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+11'
 wisdom: '+2'
 

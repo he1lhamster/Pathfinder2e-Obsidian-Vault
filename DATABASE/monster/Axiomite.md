@@ -1,19 +1,13 @@
 ﻿---
 ac: '26'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Crystalline Dust Form
 creature_family: '[[DATABASE/monsterfamily/Aeon|Aeon]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+13'
-hardness: null
 hp: '155'
 id: '7'
 immunity:
@@ -38,8 +32,6 @@ reflex: '+16'
 resistance:
 - '[[DATABASE/trait/Electricity|electricity]] 10'
 - '[[DATABASE/trait/Mental|mental]] 10'
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -67,7 +59,6 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aeon|Aeon]]'
 - '[[DATABASE/trait/Monitor|Monitor]]'

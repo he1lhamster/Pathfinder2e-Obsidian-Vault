@@ -1,19 +1,12 @@
 ﻿---
 ac: '31'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Minion
-creature_family: null
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+25'
-hardness: null
 hp: '270'
 id: '2124'
 immunity:
@@ -33,9 +26,6 @@ name: Arskuva The Gnasher
 perception: '+22'
 rarity: Unique
 reflex: '+18'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -46,12 +36,10 @@ source: '[[DATABASE/source/Pathfinder 154. Siege of the Dinosaurs|Pathfinder #15
   Siege of the Dinosaurs]]'
 speed:
 - 25 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Minion|Minion]]'
 - '[[DATABASE/trait/Undead|Undead]]'

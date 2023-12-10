@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Basic Fury
-frequency: null
-heighten_level: null
 id: '673'
+leads_to: '[[DATABASE/feat/Advanced Fury|Advanced Fury]]'
 level: '4'
 name: Basic Fury
 prerequisite: '[[DATABASE/feat/Barbarian Dedication|Barbarian Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

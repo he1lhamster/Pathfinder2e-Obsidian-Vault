@@ -1,23 +1,14 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Hurling Charge
-frequency: null
-heighten_level: null
 id: '2095'
 level: '4'
 name: Hurling Charge
 prerequisite: '[[DATABASE/feat/Viking Dedication|Viking Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

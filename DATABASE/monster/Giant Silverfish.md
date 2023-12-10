@@ -1,8 +1,6 @@
 ﻿---
 ac: '15'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
 climb_speed: '20'
 constitution: '+1'
@@ -11,25 +9,17 @@ creature_ability:
 - Wriggle
 creature_family: '[[DATABASE/monsterfamily/Silverfish|Silverfish]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+7'
-hardness: null
 hp: '17'
 id: '1615'
-immunity: null
 intelligence: '-5'
 land_speed: '40'
-language: null
 level: '0'
 max_speed: '40'
 name: Giant Silverfish
 perception: '+8'
 rarity: Uncommon
 reflex: '+8'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -42,12 +32,10 @@ source: '[[DATABASE/source/Pathfinder 169. Kindled Magic|Pathfinder #169: Kindle
 speed:
 - 40 feet
 - climb 20 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
@@ -55,7 +43,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+5'
 wisdom: '+1'
 

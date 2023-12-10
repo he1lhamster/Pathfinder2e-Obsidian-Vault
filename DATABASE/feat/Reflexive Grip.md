@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Reflexive Grip
-frequency: null
-heighten_level: null
 id: '2254'
 level: '8'
 name: Reflexive Grip
 prerequisite: '[[DATABASE/feat/Swordmaster Dedication|Swordmaster Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

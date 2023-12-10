@@ -1,11 +1,7 @@
 ﻿---
 id: '118'
 name: Aphorite
-rarity: null
-rus_type_level: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-trait: null
-type: null
 
 ---
 # Aphorite

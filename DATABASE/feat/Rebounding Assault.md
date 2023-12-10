@@ -1,24 +1,15 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Rebounding Assault
-frequency: null
-heighten_level: null
 id: '3186'
 level: '10'
 name: Rebounding Assault
-prerequisite: null
 rarity: Common
 requirement: You're wielding a loaded firearm or loaded crossbow in one hand and a
   bludgeoning or slashing meleeweapon in the other.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Gunslinger|Gunslinger]]'
-trigger: null
 type: Feat
 
 ---

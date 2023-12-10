@@ -1,31 +1,21 @@
 ﻿---
 actions: '[two-actions]'
-area: null
 bloodline: '[[DATABASE/sorcererbloodline/Shadow|Shadow]]'
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Achaekek|Achaekek]]'
 - '[[DATABASE/deity/Kalekot|Kalekot]]'
 - '[[DATABASE/deity/Norgorber|Norgorber]]'
 - '[[DATABASE/deity/Pharasma|Pharasma]]'
-domain: null
-duration: null
-element: null
 heighten: '+1'
 heighten_level: 4, 5, 6, 7, 8, 9, 10
 id: '219'
-lesson: null
 level: '4'
-mystery: null
 name: Phantasmal Killer
-patron_theme: null
 range: 120 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Will
 school: Illusion
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -39,7 +29,6 @@ trait:
 - '[[DATABASE/trait/Fear|Fear]]'
 - '[[DATABASE/trait/Illusion|Illusion]]'
 - '[[DATABASE/trait/Mental|Mental]]'
-trigger: null
 type: Spell
 
 ---

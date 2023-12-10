@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Greater Sun Blessing
-frequency: null
-heighten_level: null
 id: '3413'
 level: '12'
 name: Greater Sun Blessing
 prerequisite: '[[DATABASE/feat/Blessing of the Sun Gods|Blessing of the Sun Gods]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 172. Secrets of the Temple City|Pathfinder #172:
   Secrets of the Temple City]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

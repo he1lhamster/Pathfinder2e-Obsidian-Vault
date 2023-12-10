@@ -1,12 +1,10 @@
 ﻿---
 actions: '[two-actions]'
-area: null
 bloodline: '[[DATABASE/sorcererbloodline/Diabolic|Diabolic]] , [[DATABASE/sorcererbloodline/Fey|Fey]]
   , [[DATABASE/sorcererbloodline/Genie|Genie]]'
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Ardad Lili|Ardad Lili]]'
 - '[[DATABASE/deity/Belial|Belial]]'
@@ -20,21 +18,13 @@ deity:
 - '[[DATABASE/deity/Shelyn|Shelyn]]'
 - '[[DATABASE/deity/Thisamet|Thisamet]]'
 - '[[DATABASE/deity/Tlehar|Tlehar]]'
-domain: null
 duration: sustained
-element: null
-heighten: null
 heighten_level: '3'
 id: '104'
-lesson: null
 level: '3'
-mystery: null
 name: Enthrall
-patron_theme: null
 range: 120 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Will
 school: Enchantment
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -46,7 +36,6 @@ trait:
 - '[[DATABASE/trait/Auditory|Auditory]]'
 - '[[DATABASE/trait/Emotion|Emotion]]'
 - '[[DATABASE/trait/Enchantment|Enchantment]]'
-trigger: null
 type: Spell
 
 ---

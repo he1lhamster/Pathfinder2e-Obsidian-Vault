@@ -1,20 +1,11 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Squawk!
-frequency: null
-heighten_level: null
 id: '1311'
 level: '1'
 name: Squawk!
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Tengu|Tengu]]'
 trigger: You critically fail a [[DATABASE/skill/Deception|Deception]] , [[DATABASE/skill/Diplomacy|Diplomacy]]

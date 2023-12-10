@@ -1,29 +1,19 @@
 ﻿---
 actions: '[two-actions]'
-area: null
 bloodline: '[[DATABASE/sorcererbloodline/Hag|Hag]]'
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Mother Vulture|Mother Vulture]]'
 - '[[DATABASE/deity/The Lantern King|The Lantern King]]'
-domain: null
 duration: varies
-element: null
-heighten: null
 heighten_level: '6'
 id: '17'
-lesson: null
 level: '6'
-mystery: null
 name: Baleful Polymorph
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Fortitude
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -35,7 +25,6 @@ trait:
 - '[[DATABASE/trait/Incapacitation|Incapacitation]]'
 - '[[DATABASE/trait/Polymorph|Polymorph]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Spell
 
 ---

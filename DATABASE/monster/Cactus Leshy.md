@@ -1,10 +1,7 @@
 ﻿---
 ac: '18'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Change Shape
@@ -14,13 +11,9 @@ creature_ability:
 - Verdant Burst
 creature_family: '[[DATABASE/monsterfamily/Leshy|Leshy]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+10'
-hardness: null
 hp: '30'
 id: '1219'
-immunity: null
 intelligence: '-1'
 land_speed: '25'
 language:
@@ -34,9 +27,6 @@ name: Cactus Leshy
 perception: '+9'
 rarity: Common
 reflex: '+6'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Small
@@ -53,7 +43,6 @@ strength: '+3'
 strength_req: '3'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Leshy|Leshy]]'
 - '[[DATABASE/trait/Plant|Plant]]'
@@ -61,7 +50,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Reflex
-weakness: null
 will: '+7'
 wisdom: '+3'
 

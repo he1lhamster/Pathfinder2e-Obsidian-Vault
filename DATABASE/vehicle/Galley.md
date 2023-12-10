@@ -1,27 +1,18 @@
 ﻿---
 ac: '25'
-burrow_speed: null
-climb_speed: null
-fly_speed: null
 fortitude: '+19'
 hardness: '15'
 hp: '170'
 id: '6'
 item_category: Vehicles
-land_speed: null
 level: '10'
 max_speed: '30'
 name: Galley
 price: 3,000 gp
 rarity: Common
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 size: Gargantuan
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 swim_speed: '30'
-trait: null
 type: Vehicle
 
 ---

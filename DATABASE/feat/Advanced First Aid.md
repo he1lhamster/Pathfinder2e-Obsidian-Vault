@@ -1,18 +1,10 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Advanced First Aid
-frequency: null
-heighten_level: null
 id: '2107'
 level: '7'
 name: Advanced First Aid
 prerequisite: Master in [[DATABASE/skill/Medicine|Medicine]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: medicine
 trait:
@@ -20,7 +12,6 @@ trait:
 - '[[DATABASE/trait/Healing|Healing]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

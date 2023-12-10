@@ -1,10 +1,7 @@
 ﻿---
 ac: '25'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Culdewen's Curse
@@ -12,15 +9,10 @@ creature_ability:
 - Land the Fish
 - Reel In
 - Swear
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+14'
-hardness: null
 hp: '105'
 id: '591'
-immunity: null
 intelligence: '-1'
 land_speed: '40'
 language:
@@ -33,9 +25,6 @@ name: Culdewen
 perception: '+15'
 rarity: Uncommon
 reflex: '+18'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Small
@@ -51,7 +40,6 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 40 feet
 - swim 40 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:

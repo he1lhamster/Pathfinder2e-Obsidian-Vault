@@ -1,23 +1,15 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Shove Down
-frequency: null
-heighten_level: null
 id: '1793'
 level: '6'
 name: Shove Down
 prerequisite: Trained in [[DATABASE/skill/Athletics|Athletics]]
 rarity: Common
 requirement: Your last action was a successful [[DATABASE/action/Shove|Shove]] .
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Rogue|Rogue]]'
-trigger: null
 type: Feat
 
 ---

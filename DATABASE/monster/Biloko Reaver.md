@@ -1,24 +1,16 @@
 ﻿---
 ac: '29'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Attack of Opportunity
 - Inspired Feast
 - Terrifying Roar
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+19'
-hardness: null
 hp: '175'
 id: '1700'
-immunity: null
 intelligence: '+0'
 land_speed: '20'
 language:
@@ -30,9 +22,6 @@ name: Biloko Reaver
 perception: '+19'
 rarity: Uncommon
 reflex: '+21'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -53,7 +42,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
@@ -62,7 +50,6 @@ vision: Low-light vision
 weakest_save:
 - Fortitude
 - Will
-weakness: null
 will: '+19'
 wisdom: '+3'
 

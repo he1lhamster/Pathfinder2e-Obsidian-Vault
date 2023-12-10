@@ -3,9 +3,7 @@ creature_family: Urdefhan
 id: '158'
 name: Urdefhan
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
-trait: null
 type: Creature Family
 
 ---

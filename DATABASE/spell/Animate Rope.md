@@ -1,29 +1,18 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Yelayne|Yelayne]]'
-domain: null
 duration: sustained up to 1 minute
-element: null
 heighten: '+2'
 heighten_level: 1, 3, 5, 7, 9
 id: '667'
-lesson: null
 level: '1'
-mystery: null
 name: Animate Rope
-patron_theme: null
 range: 100 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 target: up to 50 feet of rope or a nonliving rope-like object
@@ -32,7 +21,6 @@ tradition:
 - Occult
 trait:
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Spell
 
 ---

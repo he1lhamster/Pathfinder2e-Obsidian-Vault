@@ -1,21 +1,15 @@
 ﻿---
 ac: '17'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Infused Items
 creature_family: '[[DATABASE/monsterfamily/Criminals|Criminals]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+7'
 hp: '18'
 id: '886'
-immunity: null
 intelligence: '+3'
 land_speed: '25'
 language:
@@ -26,9 +20,6 @@ name: Grave Robber
 perception: '+5'
 rarity: Common
 reflex: '+7'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Crafting|Crafting]] +6'
@@ -40,21 +31,17 @@ skill:
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 speed:
 - 25 feet
-spell: null
 strength: '+1'
 strength_req: '1'
 strongest_save:
 - Fortitude
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+5'
 wisdom: '+2'
 

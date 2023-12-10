@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Accurate Flurry
-frequency: null
-heighten_level: null
 id: '1778'
 level: '20'
 name: Accurate Flurry
 prerequisite: '[[DATABASE/feat/Impossible Flurry|Impossible Flurry]]'
 rarity: Common
 requirement: You are wielding two melee weapons, each in a different hand.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Ranger|Ranger]]'
-trigger: null
 type: Feat
 
 ---

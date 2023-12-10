@@ -1,8 +1,5 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
-frequency: null
 id: '1234'
 name: Implement's Interruption
 rarity: Common
@@ -10,7 +7,6 @@ requirement: You're holding your weapon implement and are benefiting from [[DATA
   Vulnerability|Exploit Vulnerability]] against a creature. The creature must be within
   your reach ifyou're wielding a melee weapon, or within 10 feet if you're wielding
   a ranged weapon.
-rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 trait:

@@ -1,6 +1,5 @@
 ﻿---
 ac: '29'
-bulk: null
 fortitude: '+23'
 hardness: '18'
 hp: '150'
@@ -13,7 +12,6 @@ name: Steelheart 21
 price: 6,000 gp
 rarity: Rare
 reflex: '+16'
-rus_type_level: null
 size: Large
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:

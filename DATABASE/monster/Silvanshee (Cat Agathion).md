@@ -1,23 +1,17 @@
 ﻿---
 ac: '17'
 alignment: NG
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Cat's Curiosity
 - Cat's Grace
 creature_family: '[[DATABASE/monsterfamily/Agathion|Agathion]]'
 dexterity: '+4'
-element: null
 fly_speed: '40'
 fortitude: '+5'
-hardness: null
 hp: '20'
 id: '1055'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -32,9 +26,6 @@ name: Silvanshee
 perception: '+8'
 rarity: Common
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Tiny
@@ -61,7 +52,6 @@ strength: '-2'
 strength_req: '-2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Agathion|Agathion]]'
 - '[[DATABASE/trait/Celestial|Celestial]]'

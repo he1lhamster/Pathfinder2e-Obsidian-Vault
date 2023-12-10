@@ -1,27 +1,19 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Ghost Wrangler
-frequency: null
-heighten_level: null
 id: '3628'
 level: '4'
 name: Ghost Wrangler
 prerequisite: '[[DATABASE/barbarianinstinct/Spirit Instinct|spirit instinct]]'
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Barbarian|Barbarian]]'
 - '[[DATABASE/trait/Divine|Divine]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Rage|Rage]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

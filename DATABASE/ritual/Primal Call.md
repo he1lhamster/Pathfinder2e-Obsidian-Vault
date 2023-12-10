@@ -1,10 +1,7 @@
 ﻿---
-area: null
 cost: "faerie circle ingredients worth a total value of 1 gp \xD7 the spell level\
   \ \xD7 the target\u2019s level"
 duration: see text
-element: null
-heighten: null
 heighten_level: '6'
 id: '19'
 level: '6'
@@ -12,8 +9,6 @@ name: Primal Call
 primary_check: '[[DATABASE/skill/Nature|Nature]] (master)'
 range: 100 miles
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Abjuration
 secondary_casters: '4'
 secondary_check: '[[DATABASE/skill/Crafting|Crafting]] , [[DATABASE/skill/Diplomacy|Diplomacy]]

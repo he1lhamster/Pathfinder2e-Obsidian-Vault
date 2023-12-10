@@ -1,10 +1,6 @@
 ﻿---
-area: null
 cost: rare powdered pigments in at least three different colors, worth a total of
   50 gp
-duration: null
-element: null
-heighten: null
 heighten_level: '4'
 id: '68'
 level: '4'
@@ -12,8 +8,6 @@ name: Community Repair
 primary_check: '[[DATABASE/skill/Performance|Performance]] (expert)'
 range: 10 feet
 rarity: Rare
-requirement: null
-rus_type_level: null
 school: Transmutation
 secondary_casters: 4 or more
 secondary_check: '[[DATABASE/skill/Crafting|Crafting]] , Performance, [[DATABASE/skill/Society|Society]]'

@@ -1,14 +1,9 @@
 ﻿---
 ability_type: Specific Familiar - Pipefox
-actions: null
-frequency: null
 id: '77'
 name: Divinatory Linguist
 rarity: Common
-requirement: null
-rus_type_level: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
-trait: null
 type: Familiar Ability
 
 ---

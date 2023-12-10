@@ -1,18 +1,10 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Predict Weather
-frequency: null
-heighten_level: null
 id: '3907'
 level: '2'
 name: Predict Weather
 prerequisite: Trained in [[DATABASE/skill/Survival|Survival]]
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
 subcategory: survival
 trait:
@@ -20,7 +12,6 @@ trait:
 - '[[DATABASE/trait/Secret|Secret]]'
 - '[[DATABASE/trait/Skill|Skill]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

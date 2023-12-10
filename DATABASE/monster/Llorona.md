@@ -2,9 +2,7 @@
 ac: '32'
 alignment: NE
 all_resistance: '10'
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Constrict
@@ -12,12 +10,9 @@ creature_ability:
 - Ghostly Grasp
 - Rejuvenation
 - Wail
-creature_family: null
 dexterity: '+7'
-element: null
 fly_speed: '60'
 fortitude: '+19'
-hardness: null
 hp: 165 ( negative healing , rejuvenation)
 id: '1879'
 immunity:
@@ -28,7 +23,6 @@ immunity:
 - precision
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '+2'
-land_speed: null
 language:
 - '[[DATABASE/language/Common|Common]]'
 level: '12'
@@ -42,8 +36,6 @@ resistance:
 - '[[DATABASE/equipment/Ghost Touch|ghost touch]]'
 - or [[DATABASE/trait/Positive|positive]] ; double resistance vs. non- [[DATABASE/trait/Magical|magical]]
   )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -55,12 +47,10 @@ skill:
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 speed:
 - fly 60 feet
-spell: null
 strength: '-5'
 strength_req: '-5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Incorporeal|Incorporeal]]'
 - '[[DATABASE/trait/Spirit|Spirit]]'
@@ -69,7 +59,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+20'
 wisdom: '+2'
 

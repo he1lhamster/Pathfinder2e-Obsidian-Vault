@@ -1,10 +1,7 @@
 ﻿---
 ac: '18'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Glutton's Feast
@@ -12,13 +9,9 @@ creature_ability:
 - Swallow Whole
 creature_family: '[[DATABASE/monsterfamily/Ogre|Ogre]]'
 dexterity: '-1'
-element: null
-fly_speed: null
 fortitude: '+14'
-hardness: null
 hp: '70'
 id: '318'
-immunity: null
 intelligence: '-2'
 land_speed: '30'
 language:
@@ -29,9 +22,6 @@ name: Ogre Glutton
 perception: '+6'
 rarity: Common
 reflex: '+7'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Large
@@ -42,12 +32,10 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 30 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Giant|Giant]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -55,7 +43,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+6'
 wisdom: '+0'
 

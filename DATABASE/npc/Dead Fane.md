@@ -1,10 +1,7 @@
 ﻿---
 ac: '39'
 alignment: CG
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Adopt Persona
@@ -12,14 +9,10 @@ creature_ability:
 - Give Them the Slip
 - Sneak Attack
 - Traitorous Betrayal
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+26'
 hp: '315'
 id: '2437'
-immunity: null
 intelligence: '+4'
 land_speed: '25'
 language:
@@ -33,9 +26,6 @@ name: Dead Fane
 perception: '+32'
 rarity: Unique
 reflex: '+29'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Deception|Deception]] +36'
@@ -55,16 +45,13 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+32'
 wisdom: '+5'
 

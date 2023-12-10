@@ -1,56 +1,22 @@
 ﻿---
-ac: null
 actions: '[free-action]'
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '2113'
 item_category: Consumables
 item_subcategory: Talismans
-land_speed: null
-level: '18'
-max_speed: null
+level: '10'
 name: Ruby Capacitor
-onset: null
-price: 4,500 gp
-range: null
+price: 180 gp
 rarity: Common
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
-size: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-spell: null
-stage: null
 subcategory: consumable/talisman
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Consumable|Consumable]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Talisman|Talisman]]'
-trigger: null
 type: Item
 usage: affixed to a magical [[DATABASE/trait/Staff|staff]]
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Ruby Capacitor<span class="item-type">Item 10+</span>

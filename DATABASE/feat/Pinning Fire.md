@@ -1,20 +1,11 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Pinning Fire
-frequency: null
-heighten_level: null
 id: '1746'
 level: '8'
 name: Pinning Fire
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Monk|Monk]]'
 trigger: You use [[DATABASE/action/Flurry of Blows|Flurry of Blows]] to make two ranged

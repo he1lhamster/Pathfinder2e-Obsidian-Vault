@@ -1,7 +1,5 @@
 ﻿---
-advanced_apocryphal_spell: null
 advanced_domain_spell: '[[DATABASE/spell/Shared Nightmare|Shared Nightmare]]'
-apocryphal_spell: null
 deity:
 - '[[DATABASE/deity/Azathoth|Azathoth]]'
 - '[[DATABASE/deity/Chamidu|Chamidu]]'
@@ -24,9 +22,7 @@ domain_spell: '[[DATABASE/spell/Waking Nightmare|Waking Nightmare]]'
 id: '23'
 name: Nightmares Domain
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Domain
 
 ---

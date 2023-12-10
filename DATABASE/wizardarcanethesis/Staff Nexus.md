@@ -2,9 +2,7 @@
 id: '5'
 name: Staff Nexus
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-trait: null
 type: Wizard Arcane Thesis
 
 ---

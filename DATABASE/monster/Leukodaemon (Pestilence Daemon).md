@@ -1,10 +1,7 @@
 ﻿---
 ac: '28'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Breath Weapon
@@ -14,10 +11,8 @@ creature_ability:
 - Quicken Pestilence
 creature_family: '[[DATABASE/monsterfamily/Daemon|Daemon]]'
 dexterity: '+5'
-element: null
 fly_speed: '40'
 fortitude: '+15'
-hardness: null
 hp: '155'
 id: '90'
 immunity:
@@ -34,9 +29,6 @@ name: Leukodaemon
 perception: '+20'
 rarity: Common
 reflex: '+21'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - plaguesense 60 feet
@@ -60,7 +52,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Daemon|Daemon]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

@@ -1,29 +1,16 @@
 ﻿---
-actions: null
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: sustained
-element: null
 heighten: 5th
 heighten_level: 3, 5
 id: '173'
-lesson: null
 level: '3'
-mystery: null
 name: Locate
-patron_theme: null
 range: 500 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: 1 specific object or type of object
@@ -35,7 +22,6 @@ trait:
 - '[[DATABASE/trait/Detection|Detection]]'
 - '[[DATABASE/trait/Divination|Divination]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Spell
 
 ---

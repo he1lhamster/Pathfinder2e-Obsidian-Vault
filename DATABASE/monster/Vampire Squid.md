@@ -1,25 +1,16 @@
 ﻿---
 ac: '16'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Glowing Mucus
 creature_family: '[[DATABASE/monsterfamily/Squid|Squid]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+4'
-hardness: null
 hp: '15'
 id: '819'
-immunity: null
 intelligence: '-4'
-land_speed: null
-language: null
 level: '0'
 max_speed: '25'
 name: Vampire Squid
@@ -28,8 +19,6 @@ rarity: Common
 reflex: '+8'
 resistance:
 - cold 5
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -39,7 +28,6 @@ skill:
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - swim 25 feet
-spell: null
 strength: '+0'
 strength_req: '0'
 strongest_save:
@@ -52,7 +40,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+6'
 wisdom: '+3'
 

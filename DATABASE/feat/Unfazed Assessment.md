@@ -1,24 +1,15 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Unfazed Assessment
-frequency: null
-heighten_level: null
 id: '1158'
 level: '8'
 name: Unfazed Assessment
 prerequisite: '[[DATABASE/feat/Zephyr Guard Dedication|Zephyr Guard Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 149. Against the Scarlet Triad|Pathfinder #149:
   Against the Scarlet Triad]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

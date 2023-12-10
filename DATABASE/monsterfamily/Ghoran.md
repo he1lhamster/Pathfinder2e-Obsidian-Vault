@@ -3,9 +3,7 @@ creature_family: Ghoran
 id: '238'
 name: Ghoran
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
-trait: null
 type: Creature Family
 
 ---

@@ -8,9 +8,7 @@ ability_boost:
 feat: '[[DATABASE/feat/Hobnobber|Hobnobber]]'
 id: '401'
 name: Osprey Scion
-prerequisite: null
 rarity: Rare
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Diplomacy|Diplomacy]]'
 - Xin-Edasseril [[DATABASE/skill/Lore|Lore]]

@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Safety Measures
-frequency: null
-heighten_level: null
 id: '3241'
 level: '4'
 name: Safety Measures
 prerequisite: '[[DATABASE/feat/Demolitionist Dedication|Demolitionist Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

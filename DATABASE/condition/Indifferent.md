@@ -1,7 +1,6 @@
 ﻿---
 id: '25'
 name: Indifferent
-source: null
 
 ---
 # Indifferent

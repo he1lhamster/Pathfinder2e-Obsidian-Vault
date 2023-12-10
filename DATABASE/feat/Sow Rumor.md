@@ -1,18 +1,10 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Sow Rumor
-frequency: null
-heighten_level: null
 id: '1065'
 level: '2'
 name: Sow Rumor
 prerequisite: Expert in [[DATABASE/skill/Deception|Deception]]
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 subcategory: deception
 trait:
@@ -20,7 +12,6 @@ trait:
 - '[[DATABASE/trait/Secret|Secret]]'
 - '[[DATABASE/trait/Skill|Skill]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

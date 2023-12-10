@@ -1,10 +1,7 @@
 ﻿---
 ac: '22'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Constrict
@@ -15,13 +12,10 @@ creature_ability:
 - Spell Pilfer
 creature_family: '[[DATABASE/monsterfamily/Protean|Protean]]'
 dexterity: '+4'
-element: null
 fly_speed: '25'
 fortitude: '+11'
-hardness: null
 hp: 75 ( fast healing 2)
 id: '765'
-immunity: null
 intelligence: '+4'
 land_speed: '25'
 language:
@@ -37,8 +31,6 @@ reflex: '+15'
 resistance:
 - precision 5
 - protean anatomy 8
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - entropy sense (imprecise) 30 feet

@@ -1,21 +1,14 @@
 ﻿---
 ac: '15'
 alignment: NG
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Goblin Scuttle
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+5'
 hp: '20'
 id: '1539'
-immunity: null
 intelligence: '+2'
 land_speed: '25'
 language:
@@ -27,8 +20,6 @@ name: Warbal Bumblebrasher
 perception: '+3'
 rarity: Unique
 reflex: '+5'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -43,14 +34,12 @@ source: '[[DATABASE/source/Pathfinder 145. Hellknight Hill|Pathfinder #145: Hell
   Hill]]'
 speed:
 - 25 feet
-spell: null
 strength: '-1'
 strength_req: '-1'
 strongest_save:
 - Fortitude
 - Reflex
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Goblin|Goblin]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -61,7 +50,6 @@ weakest_save:
 - Fortitude
 - Reflex
 - Will
-weakness: null
 will: '+5'
 wisdom: '+0'
 

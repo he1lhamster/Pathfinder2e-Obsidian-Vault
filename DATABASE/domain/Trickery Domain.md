@@ -1,7 +1,5 @@
 ﻿---
-advanced_apocryphal_spell: null
 advanced_domain_spell: '[[DATABASE/spell/Trickster''s Twin|Trickster''s Twin]]'
-apocryphal_spell: null
 deity:
 - '[[DATABASE/deity/Achaekek|Achaekek]]'
 - '[[DATABASE/deity/Ahriman|Ahriman]]'
@@ -45,9 +43,7 @@ domain_spell: '[[DATABASE/spell/Sudden Shift|Sudden Shift]]'
 id: '31'
 name: Trickery Domain
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Domain
 
 ---

@@ -1,41 +1,26 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Dhalavei|Dhalavei]]'
 - '[[DATABASE/deity/Grandmother Spider|Grandmother Spider]]'
 - '[[DATABASE/deity/Ydajisk|Ydajisk]]'
-domain: null
 duration: 10 minutes
-element: null
-heighten: null
 heighten_level: '4'
 id: '135'
-lesson: null
 level: '4'
-mystery: null
 name: Glibness
-patron_theme: null
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Enchantment
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Occult
 trait:
 - '[[DATABASE/trait/Enchantment|Enchantment]]'
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Spell
 
 ---

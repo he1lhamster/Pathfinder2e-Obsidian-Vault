@@ -1,33 +1,20 @@
 ﻿---
-actions: null
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Adanye|Adanye]]'
 - '[[DATABASE/deity/Chaldira|Chaldira]]'
 - '[[DATABASE/deity/Erecura|Erecura]]'
 - '[[DATABASE/deity/Mahathallah|Mahathallah]]'
 - '[[DATABASE/deity/Mahathallah|Mahathallah]]'
-domain: null
 duration: until the next time you make your daily preparations
-element: null
-heighten: null
 heighten_level: '2'
 id: '198'
-lesson: null
 level: '2'
-mystery: null
 name: Misdirection
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Illusion
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: 2 creatures or objects
@@ -36,7 +23,6 @@ tradition:
 - Occult
 trait:
 - '[[DATABASE/trait/Illusion|Illusion]]'
-trigger: null
 type: Spell
 
 ---

@@ -1,25 +1,16 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Shift Spell
-frequency: null
-heighten_level: null
 id: '2731'
 level: '14'
 name: Shift Spell
-prerequisite: null
 rarity: Uncommon
 requirement: You have an active spell that affects an area and you are within the
   spell's range.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 167. Ready Fight!|Pathfinder #167: Ready? Fight!]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 - '[[DATABASE/trait/Wizard|Wizard]]'
-trigger: null
 type: Feat
 
 ---

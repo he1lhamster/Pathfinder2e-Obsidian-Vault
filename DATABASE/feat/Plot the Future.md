@@ -1,26 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Plot the Future
-frequency: null
-heighten_level: null
 id: '1473'
 level: '14'
 name: Plot the Future
-prerequisite: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Investigator|Investigator]]'
 - '[[DATABASE/trait/Prediction|Prediction]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

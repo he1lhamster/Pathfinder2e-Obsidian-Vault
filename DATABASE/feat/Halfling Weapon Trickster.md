@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Halfling Weapon Trickster
-frequency: null
-heighten_level: null
 id: '61'
 level: '5'
 name: Halfling Weapon Trickster
 prerequisite: '[[DATABASE/feat/Halfling Weapon Familiarity|Halfling Weapon Familiarity]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Halfling|Halfling]]'
-trigger: null
 type: Feat
 
 ---

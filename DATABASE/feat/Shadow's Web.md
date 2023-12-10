@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Shadow's Web
-frequency: null
-heighten_level: null
 id: '1754'
 level: '14'
 name: Shadow's Web
 prerequisite: ki spells
 rarity: Common
 requirement: You are in Clinging Shadows Initiate.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Monk|Monk]]'
-trigger: null
 type: Feat
 
 ---

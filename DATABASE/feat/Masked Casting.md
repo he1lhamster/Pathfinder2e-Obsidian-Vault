@@ -1,10 +1,6 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Masked Casting
-frequency: null
-heighten_level: null
 id: '1083'
 level: '8'
 name: Masked Casting
@@ -12,10 +8,7 @@ prerequisite: '[[DATABASE/feat/Hellknight Signifer Dedication|Hellknight Signife
   Dedication]]'
 rarity: Common
 requirement: "You are wearing your signifer\u2019s mask."
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 trigger: You begin Casting a Spell.

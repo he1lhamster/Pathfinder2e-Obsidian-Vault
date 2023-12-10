@@ -8,14 +8,11 @@ ability_boost:
 feat: '[[DATABASE/feat/Additional Lore|Additional Lore]]'
 id: '312'
 name: Pillar
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - Labor [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

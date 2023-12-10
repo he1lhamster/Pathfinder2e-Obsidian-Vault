@@ -1,10 +1,7 @@
 ﻿---
 ac: '35'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Ferocity
@@ -13,13 +10,9 @@ creature_ability:
 - Violent Instincts
 creature_family: '[[DATABASE/monsterfamily/Ikeshti|Ikeshti]]'
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+27'
-hardness: null
 hp: '280'
 id: '1675'
-immunity: null
 intelligence: '-3'
 land_speed: '30'
 language:
@@ -34,9 +27,6 @@ resistance:
 - '[[DATABASE/trait/Cold|cold]] 15'
 - '[[DATABASE/trait/Fire|fire]] 15'
 - '[[DATABASE/trait/Mental|mental]] 15'
-rus_type_level: null
-school: null
-sense: null
 size: Large
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +28'
@@ -47,20 +37,16 @@ source: '[[DATABASE/source/Pathfinder 173. Doorway to the Red Star|Pathfinder #1
   Doorway to the Red Star]]'
 speed:
 - 30 feet
-spell: null
 strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Ikeshti|Ikeshti]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+22'
 wisdom: '+4'
 

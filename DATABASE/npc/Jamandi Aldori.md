@@ -1,10 +1,7 @@
 ﻿---
 ac: '36'
 alignment: CG
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Aldori Parry
@@ -12,14 +9,10 @@ creature_ability:
 - Attack of Opportunity
 - Saving Slash
 - Unnerving Prowess
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+23'
 hp: '260'
 id: '2195'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -32,8 +25,6 @@ name: Jamandi Aldori
 perception: '+23'
 rarity: Unique
 reflex: '+27'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
@@ -47,12 +38,10 @@ skill:
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 speed:
 - 25 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Elf|Elf]]'
 - '[[DATABASE/trait/Human|Human]]'
@@ -62,7 +51,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+24'
 wisdom: '+3'
 

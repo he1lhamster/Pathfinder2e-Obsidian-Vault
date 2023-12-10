@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Advanced Blood Potency
-frequency: null
-heighten_level: null
 id: '738'
 level: '6'
 name: Advanced Blood Potency
 prerequisite: '[[DATABASE/feat/Basic Blood Potency|Basic Blood Potency]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,10 +1,7 @@
 ﻿---
 ac: '21'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Attack of Opportunity
@@ -13,10 +10,7 @@ creature_ability:
 - Sneak Attack
 creature_family: '[[DATABASE/monsterfamily/Drow|Drow]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+11'
-hardness: null
 hp: '60'
 id: '1385'
 immunity:
@@ -32,9 +26,6 @@ name: Drow Warden
 perception: '+11'
 rarity: Uncommon
 reflex: '+11'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -56,7 +47,6 @@ strength_req: '4'
 strongest_save:
 - Fortitude
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Drow|Drow]]'
 - '[[DATABASE/trait/Elf|Elf]]'
@@ -66,7 +56,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+9'
 wisdom: '+3'
 

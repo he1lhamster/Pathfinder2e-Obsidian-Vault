@@ -1,38 +1,24 @@
 ﻿---
 actions: '[three-actions]'
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: sustained up to 1 minute
-element: null
 heighten: 6th
 heighten_level: 3, 6
 id: '1104'
-lesson: null
 level: '3'
-mystery: null
 name: Eyes of the Dead
-patron_theme: null
 range: 1 mile
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 target: one [[DATABASE/trait/Undead|undead]] creature under your control
-tradition: null
 trait:
 - '[[DATABASE/trait/Divination|Divination]]'
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Focus
 
 ---

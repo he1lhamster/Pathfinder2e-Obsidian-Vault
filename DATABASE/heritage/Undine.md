@@ -1,11 +1,7 @@
 ﻿---
 id: '134'
 name: Undine
-rarity: null
-rus_type_level: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-trait: null
-type: null
 
 ---
 # Undine

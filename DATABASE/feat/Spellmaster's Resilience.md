@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Spellmaster's Resilience
-frequency: null
-heighten_level: null
 id: '1137'
+leads_to: '[[DATABASE/feat/Spellmaster''s Tenacity|Spellmaster''s Tenacity]]'
 level: '12'
 name: Spellmaster's Resilience
 prerequisite: '[[DATABASE/feat/Spellmaster Dedication|Spellmaster Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

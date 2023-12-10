@@ -1,11 +1,8 @@
 ﻿---
-element: null
 id: '106'
 item_category: Relics
 name: Temporal Pulse
-prerequisite: null
 rarity: Common
-rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 trait:

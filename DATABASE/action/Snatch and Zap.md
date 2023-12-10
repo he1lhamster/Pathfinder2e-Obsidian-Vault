@@ -1,17 +1,9 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
-frequency: null
 id: '1110'
 name: Snatch and Zap
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Monsters of Myth|Monsters of Myth]]'
-trait: null
-trigger: null
 type: Action
 
 ---

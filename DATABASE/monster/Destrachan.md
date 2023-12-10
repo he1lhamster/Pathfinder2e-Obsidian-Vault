@@ -1,22 +1,15 @@
 ﻿---
 ac: '27'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Destructive Harmonics
 - Echolocation
 - Painful Harmonics
 - Shattering Harmonics
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+16'
-hardness: null
 hp: '135'
 id: '605'
 immunity:
@@ -35,8 +28,6 @@ rarity: Common
 reflex: '+13'
 resistance:
 - sonic 15
-rus_type_level: null
-school: null
 sense:
 - echolocation 120 feet
 - no vision
@@ -48,19 +39,15 @@ skill:
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 25 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+18'
 wisdom: '+6'
 

@@ -20,14 +20,11 @@ id: '10'
 name: Rogue
 perception_proficiency: Expert
 rarity: Common
-rus_type_level: null
 skill_proficiency:
 - Trained in Stealth
 - Trained in one or more skills determined by your rogue's racket
 - Trained in a number of additional skills equal to 7 plus your Intelligence modifier
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-tradition: null
-trait: null
 type: Class
 
 ---

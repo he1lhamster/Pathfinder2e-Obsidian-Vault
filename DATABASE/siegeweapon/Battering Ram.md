@@ -1,19 +1,11 @@
 ﻿---
-ac: null
 bulk: '20'
-fortitude: null
-hardness: null
-hp: null
 id: '3'
 item_category: Siege Weapons
-land_speed: null
 level: '5'
-max_speed: null
 name: Battering Ram
 price: 160 gp
 rarity: Uncommon
-reflex: null
-rus_type_level: null
 size: Large
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:

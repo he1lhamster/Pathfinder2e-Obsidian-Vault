@@ -3,10 +3,8 @@ creature_family: Herecite
 id: '120'
 name: Herecite
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 153. Life''s Long Shadows|Pathfinder #153: Life''s
   Long Shadows]]'
-trait: null
 type: Creature Family
 
 ---

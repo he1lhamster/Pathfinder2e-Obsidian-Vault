@@ -1,20 +1,12 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Willing Death
 frequency: once per day
-heighten_level: null
 id: '2358'
 level: '1'
 name: Willing Death
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Duskwalker|Duskwalker]]'
 trigger: An ally within 30 feet takes damage that would otherwise reduce them to 0

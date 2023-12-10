@@ -1,23 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Moderate Enhance Venom
-frequency: null
-heighten_level: null
 id: '4030'
+leads_to: '[[DATABASE/feat/Greater Enhance Venom|Greater Enhance Venom]] , [[DATABASE/feat/Stronger
+  Debilitating Venom|Stronger Debilitating Venom]]'
 level: '9'
 name: Moderate Enhance Venom
 prerequisite: '[[DATABASE/feat/Lesser Enhance Venom|Lesser Enhance Venom]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Vishkanya|Vishkanya]]'
-trigger: null
 type: Feat
 
 ---

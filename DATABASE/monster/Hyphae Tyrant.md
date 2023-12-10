@@ -1,10 +1,7 @@
 ﻿---
 ac: '20'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Change Shape
@@ -12,15 +9,10 @@ creature_ability:
 - Spore Cloud
 - Spores
 - Sporesense
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+12'
-hardness: null
 hp: '60'
 id: '2602'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -36,8 +28,6 @@ rarity: Rare
 reflex: '+13'
 resistance:
 - negative 5
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - sporesense (imprecise) 60 feet
@@ -63,7 +53,6 @@ strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fungus|Fungus]]'
 - '[[DATABASE/trait/Leshy|Leshy]]'
@@ -72,7 +61,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+11'
 wisdom: '+3'
 

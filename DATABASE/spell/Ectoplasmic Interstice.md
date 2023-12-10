@@ -1,36 +1,22 @@
 ﻿---
 actions: '[two-actions]'
 area: 15-foot emanation
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
 domain:
 - '[[DATABASE/domain/Soul Domain|Soul]]'
 duration: sustained up to 1 minute
-element: null
-heighten: null
 heighten_level: '4'
 id: '617'
-lesson: null
 level: '4'
-mystery: null
 name: Ectoplasmic Interstice
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
-target: null
-tradition: null
 trait:
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
-trigger: null
 type: Focus
 
 ---

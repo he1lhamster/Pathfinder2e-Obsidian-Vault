@@ -1,29 +1,16 @@
 ﻿---
 actions: '[two-actions]'
 area: 30-foot cone
-bloodline: null
-component: null
-cost: null
-deity: null
-domain: null
-duration: null
 element: Air, Earth, Fire, Water
 heighten: '+2'
 heighten_level: 3, 5, 7, 9
 id: '902'
-lesson: null
 level: '3'
-mystery: null
 name: Elemental Annihilation Wave
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: basicReflex
 school: Evocation
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-target: null
 tradition:
 - Arcane
 - Primal
@@ -34,7 +21,6 @@ trait:
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Fire|Fire]]'
 - '[[DATABASE/trait/Water|Water]]'
-trigger: null
 type: Spell
 
 ---

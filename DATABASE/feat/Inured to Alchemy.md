@@ -1,27 +1,17 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Inured to Alchemy
-frequency: null
-heighten_level: null
 id: '3573'
 level: '4'
 name: Inured to Alchemy
 prerequisite: expert in Fortitude saves
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 178. Punks in a Powderkeg|Pathfinder #178: Punks
   in a Powderkeg]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Alchemist|Alchemist]]'
 - '[[DATABASE/trait/Barbarian|Barbarian]]'
 - '[[DATABASE/trait/Fighter|Fighter]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

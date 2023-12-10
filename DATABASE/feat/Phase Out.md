@@ -1,26 +1,18 @@
 ﻿---
 actions: '[three-actions]'
-cost: null
-element: null
 feat: Phase Out
-frequency: null
-heighten_level: null
 id: '2914'
 level: '6'
 name: Phase Out
 prerequisite: your eidolon is a [[DATABASE/trait/Phantom|phantom]]
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Evolution|Evolution]]'
 - '[[DATABASE/trait/Summoner|Summoner]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Feat
 
 ---

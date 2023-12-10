@@ -1,8 +1,5 @@
 ﻿---
 ac: '16'
-burrow_speed: null
-climb_speed: null
-fly_speed: null
 fortitude: '+11'
 hardness: '10'
 hp: '40'
@@ -14,13 +11,8 @@ max_speed: '10'
 name: Siege Tower
 price: 300 gp
 rarity: Uncommon
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 size: Gargantuan
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Vehicle

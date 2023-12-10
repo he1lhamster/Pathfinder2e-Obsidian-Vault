@@ -5,7 +5,6 @@ name: Rice-n-Nut Pudding
 price: 2 gp
 rarity: Common
 requirement: trained in [[DATABASE/skill/Arcana|Arcana]]
-rus_type_level: null
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
 trait:
 - '[[DATABASE/trait/Meal|Meal]]'

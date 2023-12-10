@@ -10,7 +10,6 @@ id: '208'
 name: Hookclaw Digger
 prerequisite: '[[DATABASE/ancestry/Kobold|Kobold]] ancestry'
 rarity: Rare
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Crafting|Crafting]]'
 - Mining [[DATABASE/skill/Lore|Lore]] and the Engineering Lore skill.

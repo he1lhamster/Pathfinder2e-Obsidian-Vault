@@ -1,9 +1,7 @@
 ﻿---
 id: '6'
 name: Dweomercat Cub
-rus_type_level: null
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
-trait: null
 
 ---
 # Dweomercat Cub

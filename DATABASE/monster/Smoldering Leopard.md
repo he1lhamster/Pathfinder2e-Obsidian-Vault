@@ -1,8 +1,6 @@
 ﻿---
 ac: '19'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
 climb_speed: '20'
 constitution: '+2'
@@ -11,18 +9,12 @@ creature_ability:
 - Pounce
 - Scorching Maul
 - Sneak Attack
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+9'
-hardness: null
 hp: '45'
 id: '2008'
-immunity: null
 intelligence: '-4'
 land_speed: '30'
-language: null
 level: '3'
 max_speed: '30'
 name: Smoldering Leopard
@@ -32,8 +24,6 @@ reflex: '+11'
 resistance:
 - '[[DATABASE/trait/Electricity|electricity]] 5'
 - '[[DATABASE/trait/Poison|poison]] 5'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -47,12 +37,10 @@ source: '[[DATABASE/source/Pathfinder 151. The Show Must Go On|Pathfinder #151: 
 speed:
 - 30 feet
 - climb 20 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

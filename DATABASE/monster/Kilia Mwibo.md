@@ -1,10 +1,7 @@
 ﻿---
 ac: '36'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Attack of Opportunity
@@ -12,12 +9,8 @@ creature_ability:
 - Consume Emotion
 - Despairing Presence
 - Emotion Sense
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+24'
-hardness: null
 hp: '345'
 id: '1665'
 immunity:
@@ -36,8 +29,6 @@ rarity: Uncommon
 reflex: '+29'
 resistance:
 - '[[DATABASE/trait/Sonic|sonic]] 15'
-rus_type_level: null
-school: null
 sense:
 - emotion sense 60 feet
 size: Huge
@@ -49,17 +40,14 @@ source: '[[DATABASE/source/Pathfinder 172. Secrets of the Temple City|Pathfinder
   Secrets of the Temple City]]'
 speed:
 - 25 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Plant|Plant]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
 weakness:

@@ -14,7 +14,6 @@ name: Shortbow
 price: 3 gp
 range: 60 ft.
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Deadly|Deadly d10]]'

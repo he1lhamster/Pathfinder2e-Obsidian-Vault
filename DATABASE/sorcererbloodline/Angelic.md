@@ -3,7 +3,6 @@ bloodline: Angelic
 id: '2'
 name: Angelic
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 spell:
 - '[[DATABASE/spell/Angelic Halo|Angelic Halo]]'
@@ -19,7 +18,6 @@ spell:
 - '[[DATABASE/spell/Light|Light]]'
 - '[[DATABASE/spell/Searing Light|Searing Light]]'
 - '[[DATABASE/spell/Spiritual Weapon|Spiritual Weapon]]'
-trait: null
 type: Sorcerer Bloodline
 
 ---

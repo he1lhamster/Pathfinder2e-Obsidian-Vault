@@ -1,24 +1,17 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Dueling Parry (Fighter)
-frequency: null
-heighten_level: null
 id: '367'
+leads_to: '[[DATABASE/feat/Dueling Dance (Fighter)|Dueling Dance (Fighter)]] , [[DATABASE/feat/Dueling
+  Riposte|Dueling Riposte]] , [[DATABASE/feat/Selfless Parry|Selfless Parry]]'
 level: '2'
 name: Dueling Parry (Fighter)
-prerequisite: null
 rarity: Common
 requirement: You are wielding only a single one-handed melee weapon and have your
   other hand or hands free.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fighter|Fighter]]'
-trigger: null
 type: Feat
 
 ---

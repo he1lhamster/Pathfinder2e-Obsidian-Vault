@@ -1,36 +1,24 @@
 ﻿---
 ac: '36'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Pierce Armor
 - Pounce
 - Sneak Attack
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+28'
-hardness: null
 hp: '255'
 id: '2258'
-immunity: null
 intelligence: '-4'
 land_speed: '30'
-language: null
 level: '14'
 max_speed: '30'
 name: Speartooth
 perception: '+25'
 rarity: Unique
 reflex: '+25'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 60 feet'
@@ -42,12 +30,10 @@ skill:
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 speed:
 - 30 feet
-spell: null
 strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 - '[[DATABASE/trait/Unique|Unique]]'
@@ -55,7 +41,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+23'
 wisdom: '+2'
 

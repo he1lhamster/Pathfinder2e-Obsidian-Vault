@@ -1,23 +1,14 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Defensive Instincts
-frequency: null
-heighten_level: null
 id: '2813'
 level: '9'
 name: Defensive Instincts
-prerequisite: null
 rarity: Common
 requirement: you are adjacent to at least two enemies
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Goloma|Goloma]]'
-trigger: null
 type: Feat
 
 ---

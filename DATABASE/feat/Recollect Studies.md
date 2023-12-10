@@ -1,10 +1,6 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Recollect Studies
-frequency: null
-heighten_level: null
 id: '2259'
 level: '12'
 name: Recollect Studies
@@ -14,14 +10,10 @@ rarity: Common
 requirement: You're fighting a creature of your level or lower that could be identified
   by [[DATABASE/action/Recall Knowledge|Recall Knowledge]] with a skill in which you're
   an expert.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

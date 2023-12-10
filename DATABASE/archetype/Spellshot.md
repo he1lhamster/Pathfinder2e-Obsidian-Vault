@@ -4,7 +4,6 @@ level: '2'
 name: Spellshot
 prerequisite: way of the spellshot
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

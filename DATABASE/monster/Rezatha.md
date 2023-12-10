@@ -1,22 +1,15 @@
 ﻿---
 ac: '39'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+9'
 creature_ability:
 - Breath Weapon
 - Heat
 - Swallow Whole
 - Thrash
-creature_family: null
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+32'
-hardness: null
 hp: '330'
 id: '2334'
 immunity:
@@ -32,9 +25,6 @@ name: Rezatha
 perception: '+28'
 rarity: Unique
 reflex: '+27'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]] darkvision'
 - '[[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) 60 feet'
@@ -45,12 +35,10 @@ skill:
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 speed:
 - 35 feet
-spell: null
 strength: '+9'
 strength_req: '9'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Unique|Unique]]'
@@ -58,7 +46,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+29'
 wisdom: '+6'
 

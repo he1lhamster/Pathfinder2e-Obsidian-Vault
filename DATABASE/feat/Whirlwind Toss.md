@@ -1,26 +1,17 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Whirlwind Toss
-frequency: null
-heighten_level: null
 id: '2758'
 level: '20'
 name: Whirlwind Toss
 prerequisite: '[[DATABASE/feat/Collateral Thrash|Collateral Thrash]]'
 rarity: Uncommon
 requirement: You have a foe [[DATABASE/condition/Grabbed|grabbed]] .
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 168. King of the Mountain|Pathfinder #168: King
   of the Mountain]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Barbarian|Barbarian]]'
 - '[[DATABASE/trait/Rage|Rage]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

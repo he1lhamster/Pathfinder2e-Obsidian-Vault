@@ -1,13 +1,7 @@
 ﻿---
-ability: null
-ability_boost: null
-feat: null
 id: '332'
 name: Sign Bound
-prerequisite: null
 rarity: Rare
-rus_type_level: null
-skill: null
 source: '[[DATABASE/source/Travel Guide|Travel Guide]]'
 subcategory: general
 trait:

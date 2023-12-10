@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Shared Attunement
-frequency: null
-heighten_level: null
 id: '2997'
 level: '4'
 name: Shared Attunement
 prerequisite: '[[DATABASE/feat/Geomancer Dedication|Geomancer Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

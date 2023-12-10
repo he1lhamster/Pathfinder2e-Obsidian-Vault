@@ -3,10 +3,8 @@ creature_family: Graveknight
 id: '291'
 name: Graveknight
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 172. Secrets of the Temple City|Pathfinder #172:
   Secrets of the Temple City]]'
-trait: null
 type: Creature Family
 
 ---

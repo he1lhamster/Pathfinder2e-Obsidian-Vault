@@ -1,22 +1,15 @@
 ﻿---
 ac: '27'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Brute Strength
 - No Escape
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+19'
 hp: '135'
 id: '1686'
-immunity: null
 intelligence: '-1'
 land_speed: '25'
 language:
@@ -27,9 +20,6 @@ name: Abendego Brute
 perception: '+15'
 rarity: Common
 reflex: '+15'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +18'
@@ -40,20 +30,16 @@ source: '[[DATABASE/source/Pathfinder 171. Hurricane''s Howl|Pathfinder #171: Hu
   Howl]]'
 speed:
 - 25 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+14'
 wisdom: '+3'
 

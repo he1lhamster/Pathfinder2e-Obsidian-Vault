@@ -1,26 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Quick Juggler
-frequency: null
-heighten_level: null
 id: '1189'
 level: '4'
 name: Quick Juggler
 prerequisite: Expert in [[DATABASE/skill/Performance|Performance]] ; [[DATABASE/feat/Juggler
   Dedication|Juggler Dedication]]
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 151. The Show Must Go On|Pathfinder #151: The
   Show Must Go On]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

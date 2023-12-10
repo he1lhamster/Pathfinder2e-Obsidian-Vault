@@ -1,25 +1,19 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Herbalist Dedication
-frequency: null
-heighten_level: null
 id: '1982'
+leads_to: '[[DATABASE/feat/Endemic Herbs|Endemic Herbs]] , [[DATABASE/feat/Expert
+  Herbalism|Expert Herbalism]] , [[DATABASE/feat/Fresh Ingredients|Fresh Ingredients]]
+  , [[DATABASE/feat/Gravelands Herbalist|Gravelands Herbalist]] , [[DATABASE/feat/Poultice
+  Preparation|Poultice Preparation]]'
 level: '2'
 name: Herbalist Dedication
 prerequisite: Trained in [[DATABASE/skill/Nature|Nature]] ; [[DATABASE/feat/Natural
   Medicine|Natural Medicine]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
-trigger: null
 type: Feat
 
 ---

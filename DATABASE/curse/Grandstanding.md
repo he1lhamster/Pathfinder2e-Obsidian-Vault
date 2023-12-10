@@ -1,11 +1,8 @@
 ﻿---
-element: null
 id: '9'
 level: '11'
 name: Grandstanding
 rarity: Rare
-rus_type_level: null
-saving_throw: null
 school: Enchantment
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:

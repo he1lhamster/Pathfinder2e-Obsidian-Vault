@@ -1,22 +1,15 @@
 ﻿---
 ac: '25'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Ascension is Near
 - Crystal Vitality Link
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+14'
 hp: '140'
 id: '2037'
-immunity: null
 intelligence: '+2'
 land_speed: '25'
 language:
@@ -27,9 +20,6 @@ name: Mother Mitera
 perception: '+18'
 rarity: Unique
 reflex: '+17'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Deception|Deception]] +20'
@@ -60,15 +50,12 @@ strength: '+1'
 strength_req: '1'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+18'
 wisdom: '+4'
 

@@ -13,7 +13,6 @@ name: Dart
 price: 1 cp
 range: 20 ft.
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Agile|Agile]]'

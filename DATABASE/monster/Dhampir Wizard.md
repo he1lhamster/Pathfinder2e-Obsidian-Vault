@@ -1,22 +1,15 @@
 ﻿---
 ac: '17'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Blood of the Night
 creature_family: '[[DATABASE/monsterfamily/Dhampir|Dhampir]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+4'
-hardness: null
 hp: 22 ( negative healing )
 id: '116'
-immunity: null
 intelligence: '+4'
 land_speed: '25'
 language:
@@ -28,9 +21,6 @@ name: Dhampir Wizard
 perception: '+4'
 rarity: Common
 reflex: '+7'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -58,7 +48,6 @@ strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dhampir|Dhampir]]'
 - '[[DATABASE/trait/Human|Human]]'
@@ -67,7 +56,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+6'
 wisdom: '+0'
 

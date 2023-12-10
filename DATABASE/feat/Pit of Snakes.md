@@ -1,27 +1,19 @@
 ﻿---
 actions: '[three-actions]'
-cost: null
-element: null
 feat: Pit of Snakes
 frequency: once per day
-heighten_level: null
 id: '3997'
 level: '13'
 name: Pit of Snakes
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Conjuration
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Nagaji|Nagaji]]'
 - '[[DATABASE/trait/Occult|Occult]]'
-trigger: null
 type: Feat
 
 ---

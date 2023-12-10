@@ -1,32 +1,19 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Elven Pantheon|Elven Pantheon]]'
 - '[[DATABASE/deity/Hearth and Harvest|Hearth and Harvest]]'
 - '[[DATABASE/deity/Jaidi|Jaidi]]'
 - '[[DATABASE/deity/Yuelral|Yuelral]]'
-domain: null
-duration: null
-element: null
-heighten: null
 heighten_level: '2'
 id: '277'
-lesson: null
 level: '2'
-mystery: null
 name: Shape Wood
-patron_theme: null
 range: touch
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: an unworked piece of wood up to 20 cubic feet in volume
@@ -35,7 +22,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Plant|Plant]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Spell
 
 ---

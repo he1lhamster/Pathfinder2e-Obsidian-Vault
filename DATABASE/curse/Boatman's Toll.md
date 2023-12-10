@@ -1,10 +1,8 @@
 ﻿---
-element: null
 id: '46'
 level: '20'
 name: Boatman's Toll
 rarity: Common
-rus_type_level: null
 saving_throw: DC 43 Will
 school: Necromancy
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
@@ -14,7 +12,6 @@ trait:
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 type: Curse
-usage: null
 
 ---
 # Boatman's Toll<span class="item-type">Curse 20</span>

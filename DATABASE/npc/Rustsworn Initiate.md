@@ -1,21 +1,14 @@
 ﻿---
 ac: '14'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Gang Up
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+4'
 hp: '8'
 id: '2742'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -27,9 +20,6 @@ name: Rustsworn Initiate
 perception: '+2'
 rarity: Rare
 reflex: '+7'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +5'
@@ -41,21 +31,17 @@ skill:
 source: '[[DATABASE/source/Rusthenge|Rusthenge]]'
 speed:
 - 25 feet
-spell: null
 strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+2'
 wisdom: '+0'
 

@@ -1,10 +1,7 @@
 ﻿---
 ac: '40'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+9'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Change Shape
@@ -12,12 +9,9 @@ creature_ability:
 - Pouch of Four Gems
 - Release Soul
 - Spirit Touch
-creature_family: null
 dexterity: '+6'
-element: null
 fly_speed: '30'
 fortitude: '+32'
-hardness: null
 hp: 260 ( fast healing 40)
 id: '2723'
 immunity:
@@ -44,8 +38,6 @@ resistance:
 - all physical 15 (except chaotic and silver)
 - '[[DATABASE/trait/Cold|cold]] 15'
 - '[[DATABASE/trait/Poison|poison]] 15'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/spell/Detect Alignment|detect alignment]] (chaotic and lawful only)'
@@ -79,7 +71,6 @@ strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Monitor|Monitor]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

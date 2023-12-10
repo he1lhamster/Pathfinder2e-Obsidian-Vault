@@ -5,7 +5,6 @@ id: '15'
 level: '8'
 name: Nomen Scouts
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
 - '[[DATABASE/trait/Cavalry|Cavalry]]'

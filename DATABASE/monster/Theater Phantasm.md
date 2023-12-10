@@ -2,9 +2,7 @@
 ac: '36'
 alignment: N
 all_resistance: '10'
-burrow_speed: null
 charisma: '+9'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Bonded Theater
@@ -12,12 +10,9 @@ creature_ability:
 - Dramatic Return
 - Emotional Consumption
 - Spotlight
-creature_family: null
 dexterity: '+4'
-element: null
 fly_speed: '40'
 fortitude: '+28'
-hardness: null
 hp: 260 (emotional consumption, dramatic return, negative healing )
 id: '2367'
 immunity:
@@ -28,7 +23,6 @@ immunity:
 - precision
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '+2'
-land_speed: null
 language:
 - '[[DATABASE/language/Common|Common]]'
 - '[[DATABASE/language/Necril|Necril]] ; up to four others'
@@ -43,8 +37,6 @@ resistance:
 - '[[DATABASE/equipment/Ghost Touch|ghost touch]]'
 - or [[DATABASE/trait/Positive|positive^]] double resistance vs. non- [[DATABASE/trait/Magical|magical]]
   )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/All-Around Vision|all-around vision]]'
 - '[[DATABASE/monsterability/Lifesense|lifesense]] 100 feet'
@@ -59,21 +51,17 @@ source: '[[DATABASE/source/Pathfinder 185. A Taste of Ashes|Pathfinder #185: A T
   of Ashes]]'
 speed:
 - fly 40 feet
-spell: null
 strength: '-5'
 strength_req: '-5'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Incorporeal|Incorporeal]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 - '[[DATABASE/trait/Undead|Undead]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+30'
 wisdom: '+5'
 

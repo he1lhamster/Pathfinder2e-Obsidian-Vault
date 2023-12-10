@@ -1,27 +1,18 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Consecrated Aura
-frequency: null
-heighten_level: null
 id: '3465'
 level: '14'
 name: Consecrated Aura
 prerequisite: '[[DATABASE/feat/Hallowed Necromancer Dedication|Hallowed Necromancer
   Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Abjuration
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Aura|Aura]]'
 - '[[DATABASE/trait/Positive|Positive]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,10 +1,7 @@
 ﻿---
 ac: '38'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Crystal Implant
@@ -16,15 +13,11 @@ creature_ability:
 - Soulfire Inhalation
 - Stunning Tail
 - Trample
-creature_family: null
 dexterity: '+3'
-element: null
 fly_speed: '40'
 fortitude: '+30'
-hardness: null
 hp: '325'
 id: '2572'
-immunity: null
 intelligence: '+3'
 land_speed: '40'
 language:
@@ -38,9 +31,6 @@ name: Morgaran
 perception: '+30'
 rarity: Unique
 reflex: '+26'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/spell/True Seeing|true seeing]]'
@@ -69,7 +59,6 @@ strength_req: '8'
 strongest_save:
 - Fortitude
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Demon|Demon]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

@@ -1,24 +1,16 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Tangled Forest Stance
-frequency: null
-heighten_level: null
 id: '461'
+leads_to: '[[DATABASE/feat/Tangled Forest Rake|Tangled Forest Rake]]'
 level: '8'
 name: Tangled Forest Stance
-prerequisite: null
 rarity: Common
 requirement: You are unarmored.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Monk|Monk]]'
 - '[[DATABASE/trait/Stance|Stance]]'
-trigger: null
 type: Feat
 
 ---

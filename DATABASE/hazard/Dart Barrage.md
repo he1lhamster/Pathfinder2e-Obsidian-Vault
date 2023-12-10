@@ -1,8 +1,6 @@
 ﻿---
 ac: '22'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+13'
 hardness: '10'
 hazard_type: Trap
@@ -16,9 +14,6 @@ level: '3'
 name: Dart Barrage
 rarity: Common
 reflex: '+7'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 157. Devil at the Dreaming Palace|Pathfinder
   #157: Devil at the Dreaming Palace]]'
 trait:
@@ -26,8 +21,6 @@ trait:
 - '[[DATABASE/trait/Mechanical|Mechanical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Dart Barrage<span class="item-type">Hazard 3</span>

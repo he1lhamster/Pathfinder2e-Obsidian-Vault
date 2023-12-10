@@ -1,6 +1,5 @@
 ﻿---
 ac: '42'
-all_resistance: null
 complexity: Complex
 element: Fire
 fortitude: '+30'
@@ -14,9 +13,6 @@ level: '16'
 name: Floating Flamethrower
 rarity: Rare
 reflex: '+33'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 167. Ready Fight!|Pathfinder #167: Ready? Fight!]]'
 trait:
 - '[[DATABASE/trait/Complex|Complex]]'
@@ -27,7 +23,6 @@ trait:
 type: Hazard
 weakness:
 - '[[DATABASE/trait/Cold|cold]] 15'
-will: null
 
 ---
 # Floating Flamethrower<span class="item-type">Hazard 16</span>

@@ -1,10 +1,7 @@
 ﻿---
 ac: '38'
 alignment: NG
-all_resistance: null
-burrow_speed: null
 charisma: '+9'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Deflect Aggression
@@ -17,10 +14,7 @@ creature_ability:
 - Uncanny Pounce
 creature_family: '[[DATABASE/monsterfamily/Siktempora|Siktempora]]'
 dexterity: '+9'
-element: null
-fly_speed: null
 fortitude: '+25'
-hardness: null
 hp: '210'
 id: '1296'
 immunity:
@@ -38,9 +32,6 @@ name: Love Siktempora
 perception: '+28'
 rarity: Rare
 reflex: '+31'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -65,7 +56,6 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Siktempora|Siktempora]]'
@@ -74,7 +64,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+28'
 wisdom: '+6'
 

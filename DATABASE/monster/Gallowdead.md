@@ -1,10 +1,7 @@
 ﻿---
 ac: '37'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Aura of Whispers
@@ -14,12 +11,8 @@ creature_ability:
 - Eyes of the Tyrant
 - Gallow
 - Curse
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+28'
-hardness: null
 hp: 280 ( negative healing )
 id: '1859'
 immunity:
@@ -30,16 +23,12 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '+2'
 land_speed: '25'
-language: null
 level: '15'
 max_speed: '25'
 name: Gallowdead
 perception: '+27'
 rarity: Common
 reflex: '+25'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -51,19 +40,16 @@ skill:
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 speed:
 - 25 feet
-spell: null
 strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Undead|Undead]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+27'
 wisdom: '+4'
 

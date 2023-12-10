@@ -1,21 +1,10 @@
 ﻿---
-ac: null
-all_resistance: null
 complexity: Complex
-element: null
-fortitude: null
-hardness: null
 hazard_type: Environmental
-hp: null
 id: '358'
-immunity: null
 level: '1'
 name: Poisonous Atmosphere
 rarity: Common
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 187. The Seventh Arch|Pathfinder #187: The Seventh
   Arch]]'
 trait:
@@ -25,8 +14,6 @@ trait:
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Poison|Poison]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Poisonous Atmosphere<span class="item-type">Hazard 1</span>

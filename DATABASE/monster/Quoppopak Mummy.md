@@ -1,10 +1,7 @@
 ﻿---
 ac: '32'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Attack of Opportunity
@@ -15,10 +12,7 @@ creature_ability:
 - Water Glide
 creature_family: '[[DATABASE/monsterfamily/Mummy|Mummy]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+26'
-hardness: null
 hp: 260 ( negative healing )
 id: '2562'
 immunity:
@@ -29,16 +23,12 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-2'
 land_speed: '25'
-language: null
 level: '13'
 max_speed: '35'
 name: Quoppopak Mummy
 perception: '+24'
 rarity: Rare
 reflex: '+21'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -50,7 +40,6 @@ speed:
 - 10 feet
 - swim 35 feet
 - water glide 25 feet
-spell: null
 strength: '+8'
 strength_req: '8'
 strongest_save:

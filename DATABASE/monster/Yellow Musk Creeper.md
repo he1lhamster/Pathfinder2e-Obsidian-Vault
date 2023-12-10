@@ -1,36 +1,26 @@
 ﻿---
 ac: '18'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Bore into Brain
 - Spray Pollen
 creature_family: '[[DATABASE/monsterfamily/Yellow Musk Creeper|Yellow Musk Creeper]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+10'
-hardness: null
 hp: '34'
 id: '867'
 immunity:
 - '[[DATABASE/trait/Mental|mental]]'
 intelligence: '-5'
 land_speed: '5'
-language: null
 level: '2'
 max_speed: '5'
 name: Yellow Musk Creeper
 perception: '+4'
 rarity: Common
 reflex: '+6'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Tremorsense|tremorsense (imprecise) 30 feet]]'
 size: Medium
@@ -39,17 +29,14 @@ skill:
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 5 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Mindless|Mindless]]'
 - '[[DATABASE/trait/Plant|Plant]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
 weakness:

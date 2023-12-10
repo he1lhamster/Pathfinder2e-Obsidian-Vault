@@ -3,10 +3,8 @@ creature_family: Deadly Puffball
 id: '282'
 name: Deadly Puffball
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 165. Eyes of Empty Death|Pathfinder #165: Eyes
   of Empty Death]]'
-trait: null
 type: Creature Family
 
 ---

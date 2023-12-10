@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Cat Fall|Cat Fall]]'
 id: '381'
 name: Sky Rider
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]]'
 - Plane of Air [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

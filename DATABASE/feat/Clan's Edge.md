@@ -1,23 +1,15 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Clan's Edge
-frequency: null
-heighten_level: null
 id: '965'
+leads_to: '[[DATABASE/feat/Protective Sheath|Protective Sheath]]'
 level: '1'
 name: Clan's Edge
 prerequisite: trained in [[DATABASE/weapon/Clan Dagger|clan daggers]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Dwarf|Dwarf]]'
-trigger: null
 type: Feat
 
 ---

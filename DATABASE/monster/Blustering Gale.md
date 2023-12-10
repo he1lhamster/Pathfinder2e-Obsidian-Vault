@@ -1,10 +1,6 @@
 ﻿---
 ac: '30'
-alignment: null
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Bullying Bluster
@@ -13,12 +9,10 @@ creature_ability:
 - Troop Defenses
 - Troop Movement
 - Windstorm
-creature_family: null
 dexterity: '+5'
 element: Air
 fly_speed: '60'
 fortitude: '+22'
-hardness: null
 hp: 150 (16 squares)
 id: '2615'
 immunity:
@@ -36,9 +30,6 @@ name: Blustering Gale
 perception: '+20'
 rarity: Common
 reflex: '+24'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Gargantuan
@@ -51,12 +42,10 @@ source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 speed:
 - 25 feet
 - fly 60 feet; troop movement
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Elemental|Elemental]]'

@@ -1,7 +1,6 @@
 ﻿---
 id: '6'
 name: Controlled
-source: null
 
 ---
 # Controlled

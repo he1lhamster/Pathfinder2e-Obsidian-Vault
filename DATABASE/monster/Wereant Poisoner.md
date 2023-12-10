@@ -1,10 +1,7 @@
 ﻿---
 ac: '40'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Change Shape
@@ -19,13 +16,9 @@ creature_ability:
 - Vitriolic Strikes
 creature_family: '[[DATABASE/monsterfamily/Werecreature, Wereant|Werecreature, Wereant]]'
 dexterity: '+9'
-element: null
-fly_speed: null
 fortitude: '+27'
-hardness: null
 hp: '350'
 id: '1801'
-immunity: null
 intelligence: '+0'
 land_speed: '40'
 language:
@@ -37,9 +30,6 @@ name: Wereant Poisoner
 perception: '+29'
 rarity: Rare
 reflex: '+32'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -56,12 +46,10 @@ source: '[[DATABASE/source/Pathfinder 174. Shadows of the Ancients|Pathfinder #1
   Shadows of the Ancients]]'
 speed:
 - 40 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Human|Human]]'

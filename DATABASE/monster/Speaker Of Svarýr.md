@@ -1,23 +1,15 @@
 ﻿---
 ac: '44'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+8'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Befuddling Lash
 - Manipulate Luck
-creature_family: null
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+31'
-hardness: null
 hp: '380'
 id: '2592'
-immunity: null
 intelligence: '+4'
 land_speed: '30'
 language:
@@ -31,9 +23,6 @@ name: "Speaker Of Svar\xFDr"
 perception: '+34'
 rarity: Unique
 reflex: '+36'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 60 feet'
@@ -67,7 +56,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Unique|Unique]]'

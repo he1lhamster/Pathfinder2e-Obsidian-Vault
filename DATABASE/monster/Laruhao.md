@@ -1,10 +1,7 @@
 ﻿---
 ac: '43'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+9'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Call Dancers
@@ -12,15 +9,10 @@ creature_ability:
 - Puppets
 - Dance!
 - Master of Barriers
-creature_family: null
 dexterity: '+8'
-element: null
-fly_speed: null
 fortitude: '+32'
-hardness: null
 hp: '360'
 id: '1520'
-immunity: null
 intelligence: '+7'
 land_speed: '25'
 language:
@@ -31,9 +23,6 @@ name: Laruhao
 perception: '+35'
 rarity: Unique
 reflex: '+29'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -57,7 +46,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
@@ -65,7 +53,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+35'
 wisdom: '+7'
 

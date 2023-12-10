@@ -1,10 +1,6 @@
 ﻿---
 ac: '34'
-alignment: null
-all_resistance: null
-burrow_speed: null
 charisma: '+7'
-climb_speed: null
 constitution: '+8'
 creature_ability:
 - Change Shape
@@ -19,10 +15,8 @@ dexterity: '+6'
 element: Metal
 fly_speed: '35'
 fortitude: '+29'
-hardness: null
 hp: '212'
 id: '2656'
-immunity: null
 intelligence: '+5'
 land_speed: '30'
 language:
@@ -36,8 +30,6 @@ rarity: Rare
 reflex: '+23'
 resistance:
 - '[[DATABASE/trait/Electricity|electricity]] 10'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -69,7 +61,6 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Elemental|Elemental]]'
 - '[[DATABASE/trait/Genie|Genie]]'
@@ -79,7 +70,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+21'
 wisdom: '+4'
 

@@ -5,12 +5,9 @@ ability:
 ability_boost:
 - Dexterity
 - Wisdom
-feat: null
 id: '362'
 name: Beast Blessed
-prerequisite: null
 rarity: Rare
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Survival|Survival]]'
 source: '[[DATABASE/source/Firebrands|Firebrands]]'

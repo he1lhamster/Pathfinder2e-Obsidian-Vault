@@ -1,10 +1,7 @@
 ﻿---
 actions: '[one-action]'
-area: null
-bloodline: null
 component:
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Abraxas|Abraxas]]'
 - '[[DATABASE/deity/Bergelmir|Bergelmir]]'
@@ -15,30 +12,17 @@ deity:
 - '[[DATABASE/deity/Saloc|Saloc]]'
 - '[[DATABASE/deity/Shei|Shei]]'
 - '[[DATABASE/deity/Zohls|Zohls]]'
-domain: null
-duration: null
-element: null
-heighten: null
 heighten_level: '3'
 id: '156'
-lesson: null
 level: '3'
-mystery: null
 name: Hypercognition
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Occult
 trait:
 - '[[DATABASE/trait/Divination|Divination]]'
-trigger: null
 type: Spell
 
 ---

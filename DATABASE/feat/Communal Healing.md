@@ -1,25 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Communal Healing
-frequency: null
-heighten_level: null
 id: '271'
+leads_to: '[[DATABASE/feat/Improved Communal Healing|Improved Communal Healing]]'
 level: '2'
 name: Communal Healing
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Cleric|Cleric]]'
 - '[[DATABASE/trait/Healing|Healing]]'
 - '[[DATABASE/trait/Positive|Positive]]'
-trigger: null
 type: Feat
 
 ---

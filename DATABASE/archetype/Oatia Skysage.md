@@ -4,7 +4,6 @@ level: '2'
 name: Oatia Skysage
 prerequisite: Trained in [[DATABASE/skill/Occultism|Occultism]]
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 187. The Seventh Arch|Pathfinder #187: The Seventh
   Arch]]'
 trait:

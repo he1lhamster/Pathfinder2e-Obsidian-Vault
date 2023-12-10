@@ -3,9 +3,7 @@ armor_group: Plate
 id: '4'
 name: Plate
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Armor Specialization
 
 ---

@@ -1,10 +1,7 @@
 ﻿---
 ac: '24'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Uncanny Necromancy
@@ -12,10 +9,7 @@ creature_ability:
 - Venomous Gaze
 creature_family: '[[DATABASE/monsterfamily/Virulak|Virulak]]'
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+15'
-hardness: null
 hp: 115 ( negative healing )
 id: '2057'
 immunity:
@@ -35,9 +29,6 @@ name: Virulak Necromancer
 perception: '+13'
 rarity: Rare
 reflex: '+12'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -71,7 +62,6 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Undead|Undead]]'
@@ -79,7 +69,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+18'
 wisdom: '+2'
 

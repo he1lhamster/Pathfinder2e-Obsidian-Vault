@@ -2,9 +2,6 @@
 id: '105'
 name: Pathfinder Special. Fumbus
 rarity: Common
-rus_type_level: null
-source: null
-trait: null
 type: Source
 
 ---

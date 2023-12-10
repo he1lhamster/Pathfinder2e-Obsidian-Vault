@@ -1,21 +1,14 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Cartwheel Dodge
-frequency: null
-heighten_level: null
 id: '2213'
 level: '12'
 name: Cartwheel Dodge
 prerequisite: '[[DATABASE/feat/Provocator Dedication|Provocator Dedication]]'
 rarity: Common
 requirement: You aren't [[DATABASE/condition/Encumbered|encumbered]] or overburdened.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 159. All or Nothing|Pathfinder #159: All or
   Nothing]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 trigger: You succeed or critically succeed at a Reflex saving throw.

@@ -1,20 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
-frequency: null
 id: '753'
 name: Cram
 rarity: Common
 requirement: You are an initiate, attendant, or conversant, and your branch level
   for either your primary orsecondary branch is 2 or more levels below the limit.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 169. Kindled Magic|Pathfinder #169: Kindled
   Magic]]'
 trait:
 - '[[DATABASE/trait/Downtime|Downtime]]'
-trigger: null
 type: Action
 
 ---

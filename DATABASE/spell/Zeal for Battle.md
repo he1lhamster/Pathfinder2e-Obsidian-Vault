@@ -1,32 +1,18 @@
 ﻿---
 actions: '[reaction]'
-area: null
-bloodline: null
 component:
 - Verbal
-cost: null
-deity: null
 domain:
 - '[[DATABASE/domain/Zeal Domain|Zeal]]'
-duration: null
-element: null
-heighten: null
 heighten_level: '4'
 id: '472'
-lesson: null
 level: '4'
-mystery: null
 name: Zeal for Battle
-patron_theme: null
 range: 10 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Enchantment
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: you and the triggering ally
-tradition: null
 trait:
 - '[[DATABASE/trait/Cleric|Cleric]]'
 - '[[DATABASE/trait/Emotion|Emotion]]'

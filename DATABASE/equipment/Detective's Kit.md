@@ -1,52 +1,15 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
 bulk: '1'
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
 hands: '2'
-hardness: null
-hp: null
 id: '679'
 item_category: Adventuring Gear
-item_subcategory: null
-land_speed: null
 level: '3'
-max_speed: null
 name: Detective's Kit
-onset: null
 price: 25 gp
-range: null
 rarity: Common
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
-school: null
-size: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-spell: null
-stage: null
 subcategory: adventuringgear
-swim_speed: null
-trait: null
-trigger: null
 type: Item
-usage: null
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Detective's Kit<span class="item-type">Item 3</span>

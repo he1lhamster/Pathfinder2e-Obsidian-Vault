@@ -1,8 +1,6 @@
 ﻿---
 bulk: L
 damage: 1d8 S
-deity: null
-favored_weapon: null
 hands: '1'
 id: '235'
 item_category: Weapons
@@ -12,7 +10,6 @@ name: Chakram
 price: 5 sp
 range: 20 ft.
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
 trait:
 - '[[DATABASE/trait/Thrown|Thrown]]'

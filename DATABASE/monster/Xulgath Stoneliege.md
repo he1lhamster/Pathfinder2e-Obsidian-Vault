@@ -1,10 +1,8 @@
 ﻿---
 ac: '26'
 alignment: CE
-all_resistance: null
 burrow_speed: '10'
 charisma: '+2'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Earthen Blow
@@ -13,13 +11,9 @@ creature_ability:
 - Stone Throes
 creature_family: '[[DATABASE/monsterfamily/Xulgath|Xulgath]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+20'
-hardness: null
 hp: '135'
 id: '524'
-immunity: null
 intelligence: '+1'
 land_speed: '20'
 language:
@@ -33,8 +27,6 @@ rarity: Uncommon
 reflex: '+12'
 resistance:
 - physical 8
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - tremorsense (imprecise) 30 feet
@@ -56,7 +48,6 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
@@ -65,7 +56,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+14'
 wisdom: '+2'
 

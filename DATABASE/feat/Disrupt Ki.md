@@ -1,24 +1,14 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Disrupt Ki
-frequency: null
-heighten_level: null
 id: '469'
 level: '12'
 name: Disrupt Ki
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Monk|Monk]]'
 - '[[DATABASE/trait/Negative|Negative]]'
-trigger: null
 type: Feat
 
 ---

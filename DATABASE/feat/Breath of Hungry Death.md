@@ -1,21 +1,15 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Breath of Hungry Death
 frequency: Once per hour
-heighten_level: null
 id: '3894'
 level: '16'
 name: Breath of Hungry Death
 prerequisite: '[[DATABASE/feat/Secret Eater|Secret Eater]]'
 rarity: Rare
-requirement: null
-rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Pathfinder 184. The Ghouls Hunger|Pathfinder #184: The
   Ghouls Hunger]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Acid|Acid]]'
 - '[[DATABASE/trait/Archetype|Archetype]]'
@@ -24,7 +18,6 @@ trait:
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Occult|Occult]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Feat
 
 ---

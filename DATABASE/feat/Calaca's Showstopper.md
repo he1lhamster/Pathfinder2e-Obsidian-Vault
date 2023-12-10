@@ -1,27 +1,20 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Calaca's Showstopper
 frequency: once per day
-heighten_level: null
 id: '2363'
 level: '13'
 name: Calaca's Showstopper
 prerequisite: Expert in [[DATABASE/skill/Performance|Performance]]
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Enchantment
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Auditory|Auditory]]'
 - '[[DATABASE/trait/Divine|Divine]]'
 - '[[DATABASE/trait/Duskwalker|Duskwalker]]'
 - '[[DATABASE/trait/Enchantment|Enchantment]]'
 - '[[DATABASE/trait/Incapacitation|Incapacitation]]'
-trigger: null
 type: Feat
 
 ---

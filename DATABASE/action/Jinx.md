@@ -1,20 +1,15 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 frequency: once per day
 id: '541'
 name: Jinx
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 trait:
 - '[[DATABASE/trait/Curse|Curse]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Occult|Occult]]'
-trigger: null
 type: Action
 
 ---

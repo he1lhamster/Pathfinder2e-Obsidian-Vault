@@ -1,10 +1,7 @@
 ﻿---
 ac: '22'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Bury in Offal
@@ -12,12 +9,8 @@ creature_ability:
 - Rotting Aura
 - Slow
 - Wretched Weeps
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+18'
-hardness: null
 hp: 190 ( negative healing )
 id: '2491'
 immunity:
@@ -29,16 +22,12 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '30'
-language: null
 level: '7'
 max_speed: '30'
 name: Ofalth Zombie
 perception: '+15'
 rarity: Rare
 reflex: '+11'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -48,12 +37,10 @@ source: '[[DATABASE/source/Pathfinder 158. Sixty Feet Under|Pathfinder #158: Six
   Feet Under]]'
 speed:
 - 30 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Mindless|Mindless]]'

@@ -1,24 +1,17 @@
 ﻿---
 ac: '21'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Change Shape
 - Silent Lightning
 - Wingbeat
-creature_family: null
 dexterity: '+5'
-element: null
 fly_speed: '50'
 fortitude: '+8'
-hardness: null
 hp: '60'
 id: '1757'
-immunity: null
 intelligence: '+2'
 land_speed: '25'
 language:
@@ -33,8 +26,6 @@ reflex: '+13'
 resistance:
 - '[[DATABASE/trait/Electricity|electricity]] 5'
 - '[[DATABASE/trait/Sonic|sonic]] 5'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
@@ -61,7 +52,6 @@ strength: '+3'
 strength_req: '3'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Rare|Rare]]'
@@ -69,7 +59,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+14'
 wisdom: '+4'
 

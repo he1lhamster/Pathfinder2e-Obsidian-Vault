@@ -4,7 +4,6 @@ level: '2'
 name: Vigilante
 prerequisite: Trained in [[DATABASE/skill/Deception|Deception]]
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

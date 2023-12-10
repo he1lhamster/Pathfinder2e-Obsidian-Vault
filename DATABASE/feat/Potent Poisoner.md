@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Potent Poisoner
-frequency: null
-heighten_level: null
 id: '112'
 level: '10'
 name: Potent Poisoner
 prerequisite: '[[DATABASE/class_/Alchemist|powerful alchemy]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Alchemist|Alchemist]]'
-trigger: null
 type: Feat
 
 ---

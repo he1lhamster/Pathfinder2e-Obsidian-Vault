@@ -1,56 +1,21 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
 element: Air
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '1013'
 item_category: Spellhearts
-item_subcategory: null
-land_speed: null
-level: '12'
-max_speed: null
+level: '4'
 name: Five-Feather Wreath
-onset: null
-price: 1,750 gp
-range: null
+price: 90 gp
 rarity: Common
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
-size: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-spell: null
-stage: null
 subcategory: spellheart
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Spellheart|Spellheart]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Item
 usage: affixed to armor or a weapon
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Five-Feather Wreath<span class="item-type">Item 4+</span>

@@ -1,10 +1,7 @@
 ﻿---
 ac: '39'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+9'
 creature_ability:
 - Blood Eruption
@@ -12,12 +9,8 @@ creature_ability:
 - Constrict
 - Forced Transfusion
 - Sanguine Rain
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+35'
-hardness: null
 hp: 425 ( fast healing 20 )
 id: '880'
 immunity:
@@ -28,16 +21,12 @@ immunity:
 - '[[DATABASE/trait/Visual|visual]]'
 intelligence: '-5'
 land_speed: '15'
-language: null
 level: '18'
 max_speed: '30'
 name: Vitalia
 perception: '+30'
 rarity: Rare
 reflex: '+25'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - bloodsense (precise) 30 feet
 - '[[DATABASE/monsterability/Tremorsense|tremorsense (imprecise)60 feet]]'
@@ -65,7 +54,6 @@ trait:
 - '[[DATABASE/trait/Mindless|Mindless]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
 weakness:

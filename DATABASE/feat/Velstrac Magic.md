@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Velstrac Magic
-frequency: null
-heighten_level: null
 id: '2456'
 level: '9'
 name: Velstrac Magic
 prerequisite: '[[DATABASE/feat/Shackleborn|Shackleborn]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Tiefling|Tiefling]]'
-trigger: null
 type: Feat
 
 ---

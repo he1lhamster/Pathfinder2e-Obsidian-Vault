@@ -1,10 +1,7 @@
 ﻿---
 ac: '25'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Formation
@@ -12,13 +9,9 @@ creature_ability:
 - Polearm Critical Specialization
 creature_family: '[[DATABASE/monsterfamily/Hobgoblin|Hobgoblin]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+12'
-hardness: null
 hp: '90'
 id: '263'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -30,9 +23,6 @@ name: Hobgoblin General
 perception: '+13'
 rarity: Common
 reflex: '+15'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -44,12 +34,10 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 25 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Goblin|Goblin]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -57,7 +45,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+13'
 wisdom: '+1'
 

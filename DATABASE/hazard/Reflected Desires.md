@@ -1,8 +1,6 @@
 ﻿---
 ac: '13'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+10'
 hardness: '6'
 hazard_type: Trap
@@ -14,8 +12,6 @@ level: '1'
 name: Reflected Desires
 rarity: Common
 reflex: '+4'
-resistance: null
-rus_type_level: null
 school: Enchantment
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 trait:
@@ -25,8 +21,6 @@ trait:
 - '[[DATABASE/trait/Trap|Trap]]'
 - '[[DATABASE/trait/Visual|Visual]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Reflected Desires<span class="item-type">Hazard 1</span>

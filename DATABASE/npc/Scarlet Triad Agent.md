@@ -1,24 +1,17 @@
 ﻿---
 ac: '32'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Efficient Capture
 - Precise Debilitations
 - Sneak Attack
 - Weapon Trick
-creature_family: null
 dexterity: '+7'
-element: null
-fly_speed: null
 fortitude: '+18'
 hp: '195'
 id: '1567'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -31,9 +24,6 @@ name: Scarlet Triad Agent
 perception: '+21'
 rarity: Unique
 reflex: '+24'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +22'
@@ -56,16 +46,13 @@ strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+21'
 wisdom: '+4'
 

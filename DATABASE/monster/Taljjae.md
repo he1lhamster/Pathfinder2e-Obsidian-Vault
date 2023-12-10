@@ -1,10 +1,7 @@
 ﻿---
 ac: '43'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+9'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Change Characters
@@ -12,15 +9,10 @@ creature_ability:
 - Jelly Gluttony
 - Prop Master
 - Second Act
-creature_family: null
 dexterity: '+9'
-element: null
-fly_speed: null
 fortitude: '+27'
-hardness: null
 hp: '400'
 id: '1740'
-immunity: null
 intelligence: '+6'
 land_speed: '50'
 language:
@@ -32,9 +24,6 @@ name: Taljjae
 perception: '+33'
 rarity: Unique
 reflex: '+33'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - jelly sense 120 feet
@@ -48,7 +37,6 @@ source: '[[DATABASE/source/Monsters of Myth|Monsters of Myth]]'
 speed:
 - 50 feet
 - swim 30 feet
-spell: null
 strength: '+8'
 strength_req: '8'
 strongest_save:

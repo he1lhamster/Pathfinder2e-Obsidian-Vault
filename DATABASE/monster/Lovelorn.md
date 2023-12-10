@@ -1,8 +1,6 @@
 ﻿---
 ac: '21'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
 climb_speed: '25'
 constitution: '+3'
@@ -10,12 +8,8 @@ creature_ability:
 - Cynic's Curse
 - Gloom Aura
 - Skitter Away
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+9'
-hardness: null
 hp: 60 ( negative healing )
 id: '1224'
 immunity:
@@ -35,9 +29,6 @@ name: Lovelorn
 perception: '+10'
 rarity: Uncommon
 reflex: '+13'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - (12 to [[DATABASE/action/Sense Motive|Sense Motive]] ) [[DATABASE/monsterability/Darkvision|darkvision]]
 - '[[DATABASE/monsterability/Lifesense|lifesense]] 30 feet'
@@ -61,7 +52,6 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 - '[[DATABASE/trait/Undead|Undead]]'
@@ -69,7 +59,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+12'
 wisdom: '+2'
 

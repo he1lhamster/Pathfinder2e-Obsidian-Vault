@@ -1,20 +1,14 @@
 ﻿---
 ac: '22'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Mark Quarry
 - Pus Burst
 creature_family: '[[DATABASE/monsterfamily/Crawling Hand|Crawling Hand]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+13'
-hardness: null
 hp: 75 ( negative healing )
 id: '590'
 immunity:
@@ -34,9 +28,6 @@ name: Giant Crawling Hand
 perception: '+12'
 rarity: Common
 reflex: '+11'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Lifesense|lifesense 30 feet]]'
 - '[[DATABASE/monsterability/Tremorsense|tremorsense (imprecise) 30 feet]]'
@@ -48,19 +39,15 @@ skill:
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 20 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Undead|Undead]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+10'
 wisdom: '+3'
 

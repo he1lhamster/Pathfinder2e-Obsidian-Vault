@@ -1,24 +1,16 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Quill Spray
 frequency: once per day
-heighten_level: null
 id: '2840'
 level: '9'
 name: Quill Spray
 prerequisite: '[[DATABASE/heritage/Quillcoat Shisk|Quillcoat Shisk]] heritage or quill
   [[DATABASE/trait/Unarmed|unarmed]] attack'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Shisk|Shisk]]'
-trigger: null
 type: Feat
 
 ---

@@ -2,9 +2,6 @@
 id: '128'
 name: Pathfinder Society Year 4 Rule Updates
 rarity: Common
-rus_type_level: null
-source: null
-trait: null
 type: Source
 
 ---

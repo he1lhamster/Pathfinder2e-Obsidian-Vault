@@ -3,10 +3,8 @@ creature_family: Gigantic Ant
 id: '304'
 name: Gigantic Ant
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 174. Shadows of the Ancients|Pathfinder #174:
   Shadows of the Ancients]]'
-trait: null
 type: Creature Family
 
 ---

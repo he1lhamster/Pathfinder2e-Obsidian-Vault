@@ -1,10 +1,7 @@
 ﻿---
 ac: '21'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Attack of Opportunity
@@ -12,13 +9,9 @@ creature_ability:
 - Feed
 creature_family: '[[DATABASE/monsterfamily/Barghest|Barghest]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+11'
-hardness: null
 hp: '50'
 id: '41'
-immunity: null
 intelligence: '+2'
 land_speed: '25'
 language:
@@ -34,8 +27,6 @@ reflex: '+12'
 resistance:
 - '[[DATABASE/trait/Fire|fire]] 5'
 - physical 5 (except [[DATABASE/trait/Magical|magical]] )
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - scent (imprecise) 30 feet
@@ -60,14 +51,12 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fiend|Fiend]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+8'
 wisdom: '+2'
 

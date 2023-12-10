@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Goblin Weapon Familiarity
-frequency: null
-heighten_level: null
 id: '43'
+leads_to: '[[DATABASE/feat/Goblin Weapon Expertise|Goblin Weapon Expertise]] , [[DATABASE/feat/Goblin
+  Weapon Frenzy|Goblin Weapon Frenzy]]'
 level: '1'
 name: Goblin Weapon Familiarity
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Goblin|Goblin]]'
-trigger: null
 type: Feat
 
 ---

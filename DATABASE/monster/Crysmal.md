@@ -1,21 +1,15 @@
 ﻿---
 ac: '18'
-alignment: null
-all_resistance: null
 burrow_speed: '25'
 charisma: '+1'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Crystal Scent
 - Rock Stride
 - Sink into Stone
-creature_family: null
 dexterity: '+2'
 element: Earth
-fly_speed: null
 fortitude: '+8'
-hardness: null
 hp: '45'
 id: '2623'
 immunity:
@@ -33,9 +27,6 @@ name: Crysmal
 perception: '+9'
 rarity: Common
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - crystal scent (imprecise) 60 feet
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
@@ -57,7 +48,6 @@ strength_req: '2'
 strongest_save:
 - Reflex
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Elemental|Elemental]]'
@@ -65,7 +55,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+9'
 wisdom: '+2'
 

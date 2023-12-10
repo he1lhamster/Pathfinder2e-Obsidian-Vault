@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Lore Seeker
-frequency: null
-heighten_level: null
 id: '1131'
+leads_to: '[[DATABASE/feat/Determined Lore Seeker|Determined Lore Seeker]]'
 level: '8'
 name: Lore Seeker
 prerequisite: '[[DATABASE/feat/Scrollmaster Dedication|Scrollmaster Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,26 +1,18 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Life Leap
-frequency: null
-heighten_level: null
 id: '1420'
 level: '9'
 name: Life Leap
-prerequisite: null
 rarity: Common
 requirement: You must be adjacent to a living creature.
-rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Gnome|Gnome]]'
 - '[[DATABASE/trait/Move|Move]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Teleportation|Teleportation]]'
-trigger: null
 type: Feat
 
 ---

@@ -2,21 +2,16 @@
 ac: '24'
 alignment: LN
 all_resistance: '5'
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Draining Touch
 - Existential Agony
 - Rejuvenation
 - Site Bound
-creature_family: null
 dexterity: '+3'
-element: null
 fly_speed: '25'
 fortitude: '+13'
-hardness: null
 hp: 95 ( negative healing , rejuvenation)
 id: '2026'
 immunity:
@@ -27,7 +22,6 @@ immunity:
 - precision
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '+4'
-land_speed: null
 language:
 - '[[DATABASE/language/Azlanti|Azlanti]]'
 - '[[DATABASE/language/Common|Common]]'
@@ -42,8 +36,6 @@ resistance:
 - '[[DATABASE/equipment/Ghost Touch|ghost touch]]'
 - or [[DATABASE/trait/Positive|positive]] ; double resistance vs. non- [[DATABASE/trait/Magical|magical]]
   )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -58,12 +50,10 @@ source: '[[DATABASE/source/Pathfinder 152. Legacy of the Lost God|Pathfinder #15
   Legacy of the Lost God]]'
 speed:
 - fly 25 feet
-spell: null
 strength: '-5'
 strength_req: '-5'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Incorporeal|Incorporeal]]'
 - '[[DATABASE/trait/Spirit|Spirit]]'
@@ -73,7 +63,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+19'
 wisdom: '+6'
 

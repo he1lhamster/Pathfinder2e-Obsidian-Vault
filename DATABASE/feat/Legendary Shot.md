@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Legendary Shot
-frequency: null
-heighten_level: null
 id: '546'
 level: '20'
 name: Legendary Shot
 prerequisite: '[[DATABASE/class_/Ranger|masterful hunter]] ; legendary in Perception;
   [[DATABASE/feat/Far Shot|Far Shot]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Ranger|Ranger]]'
-trigger: null
 type: Feat
 
 ---

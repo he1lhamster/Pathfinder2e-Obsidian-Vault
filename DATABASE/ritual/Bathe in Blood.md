@@ -1,10 +1,6 @@
 ﻿---
-area: null
 cost: "alchemical herbs and components worth a total of 1,000 gp \xD7 the target's\
   \ level"
-duration: null
-element: null
-heighten: null
 heighten_level: '8'
 id: '54'
 level: '8'
@@ -12,8 +8,6 @@ name: Bathe in Blood
 primary_check: '[[DATABASE/skill/Occultism|Occultism]] (expert)'
 range: 20 feet
 rarity: Rare
-requirement: null
-rus_type_level: null
 school: Necromancy
 secondary_casters: '2'
 secondary_check: '[[DATABASE/skill/Religion|Religion]] , [[DATABASE/skill/Society|Society]]'

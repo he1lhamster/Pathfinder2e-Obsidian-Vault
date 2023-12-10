@@ -1,26 +1,24 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Magaambyan Attendant Dedication
-frequency: null
-heighten_level: null
 id: '1102'
+leads_to: '[[DATABASE/feat/Cascade Bearer''s Flexibility|Cascade Bearer''s Flexibility]]
+  , [[DATABASE/feat/Cascade Bearer''s Spellcasting|Cascade Bearer''s Spellcasting]]
+  , [[DATABASE/feat/Emerald Boughs Accustomation|Emerald Boughs Accustomation]] ,
+  [[DATABASE/feat/Emerald Boughs Hideaway|Emerald Boughs Hideaway]] , [[DATABASE/feat/Halcyon
+  Speaker Dedication|Halcyon Speaker Dedication]] , [[DATABASE/feat/Mask Familiar|Mask
+  Familiar]] , [[DATABASE/feat/Rain-Scribe Mobility|Rain-Scribe Mobility]] , [[DATABASE/feat/Rain-Scribe
+  Sustenance|Rain-Scribe Sustenance]] , [[DATABASE/feat/Tempest-Sun Redirection|Tempest-Sun
+  Redirection]] , [[DATABASE/feat/Uzunjati Storytelling|Uzunjati Storytelling]]'
 level: '2'
 name: Magaambyan Attendant Dedication
 prerequisite: Trained in [[DATABASE/skill/Arcana|Arcana]] or Trained in [[DATABASE/skill/Nature|Nature]]
   ; member of the Magaambya of attendant rank
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

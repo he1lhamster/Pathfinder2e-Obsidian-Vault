@@ -1,7 +1,6 @@
 ﻿---
 id: '27'
 name: Observed
-source: null
 
 ---
 # Observed

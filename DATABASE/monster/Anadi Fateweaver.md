@@ -1,8 +1,6 @@
 ﻿---
 ac: '21'
 alignment: NG
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
 climb_speed: '25'
 constitution: '+0'
@@ -13,13 +11,9 @@ creature_ability:
 - Spin Silk
 creature_family: '[[DATABASE/monsterfamily/Anadi|Anadi]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+9'
-hardness: null
 hp: '75'
 id: '1608'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -31,10 +25,6 @@ name: Anadi Fateweaver
 perception: '+14'
 rarity: Uncommon
 reflex: '+12'
-resistance: null
-rus_type_level: null
-school: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +13'
@@ -74,16 +64,13 @@ strength: '+2'
 strength_req: '2'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Anadi|Anadi]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+15'
 wisdom: '+5'
 

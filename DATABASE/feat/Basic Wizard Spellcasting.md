@@ -1,23 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Basic Wizard Spellcasting
-frequency: null
-heighten_level: null
 id: '745'
+leads_to: '[[DATABASE/feat/Arcane Breadth|Arcane Breadth]] , [[DATABASE/feat/Expert
+  Wizard Spellcasting|Expert Wizard Spellcasting]]'
 level: '4'
 name: Basic Wizard Spellcasting
 prerequisite: '[[DATABASE/feat/Wizard Dedication|Wizard Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

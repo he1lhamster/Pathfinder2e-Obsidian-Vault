@@ -1,11 +1,9 @@
 ﻿---
 alignment: N
-element: null
 id: '2'
 name: Negative Energy Plane
 plane_category: Inner Sphere Planes
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
 - '[[DATABASE/trait/Negative|Negative]]'

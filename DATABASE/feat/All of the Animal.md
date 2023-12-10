@@ -1,18 +1,10 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: All of the Animal
-frequency: null
-heighten_level: null
 id: '3422'
 level: '1'
 name: All of the Animal
 prerequisite: Trained in [[DATABASE/skill/Survival|Survival]]
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 175. Broken Tusk Moon|Pathfinder #175: Broken
   Tusk Moon]]'
 subcategory: survival
@@ -20,7 +12,6 @@ trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Skill|Skill]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

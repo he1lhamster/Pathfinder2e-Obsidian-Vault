@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Fey Transcendence
-frequency: null
-heighten_level: null
 id: '4052'
 level: '17'
 name: Fey Transcendence
 prerequisite: '[[DATABASE/feat/Fey Influence|Fey Influence]]'
 rarity: Rare
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/All Ancestries|All Ancestries]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,8 +1,6 @@
 ﻿---
 ac: '19'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-4'
 climb_speed: '30'
 constitution: '+4'
@@ -12,25 +10,17 @@ creature_ability:
 - Whiptail Centipede Venom
 creature_family: '[[DATABASE/monsterfamily/Centipede|Centipede]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+11'
-hardness: null
 hp: '45'
 id: '581'
-immunity: null
 intelligence: '-5'
 land_speed: '30'
-language: null
 level: '3'
 max_speed: '30'
 name: Giant Whiptail Centipede
 perception: '+9'
 rarity: Common
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Huge
@@ -42,19 +32,16 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 30 feet
 - climb 30 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+7'
 wisdom: '+2'
 

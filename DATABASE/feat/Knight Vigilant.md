@@ -1,26 +1,28 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Knight Vigilant
-frequency: null
-heighten_level: null
 id: '1092'
+leads_to: '[[DATABASE/feat/Aegis of Arnisant|Aegis of Arnisant]] , [[DATABASE/feat/Divine
+  Healing|Divine Healing]] , [[DATABASE/feat/Emissary of Peace|Emissary of Peace]]
+  , [[DATABASE/feat/Empyreal Aura|Empyreal Aura]] , [[DATABASE/feat/Endure Death''s
+  Touch|Endure Death''s Touch]] , [[DATABASE/feat/Guarded Advance|Guarded Advance]]
+  , [[DATABASE/feat/Instant Armor|Instant Armor]] , [[DATABASE/feat/Instinctual Interception|Instinctual
+  Interception]] , [[DATABASE/feat/Interrupt Charge|Interrupt Charge]] , [[DATABASE/feat/Keep
+  up the Good Fight|Keep up the Good Fight]] , [[DATABASE/feat/Knight in Shining Armor|Knight
+  in Shining Armor]] , [[DATABASE/feat/Lead the Way|Lead the Way]] , [[DATABASE/feat/Phalanx
+  Formation|Phalanx Formation]] , [[DATABASE/feat/Stalwart Standard|Stalwart Standard]]
+  , [[DATABASE/feat/Tower Shield Mastery|Tower Shield Mastery]] , [[DATABASE/feat/Unshakable
+  Idealism|Unshakable Idealism]] , [[DATABASE/feat/Vigilant Benediction|Vigilant Benediction]]
+  , [[DATABASE/feat/Vigil''s Walls Rise Anew!|Vigil''s Walls Rise Anew!]]'
 level: '6'
 name: Knight Vigilant
 prerequisite: Trained in [[DATABASE/skill/Religion|Religion]] ; any good alignment;
   member of theKnights of Lastwall of knight rank
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

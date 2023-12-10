@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Meditative Focus
-frequency: null
-heighten_level: null
 id: '471'
+leads_to: '[[DATABASE/feat/Meditative Wellspring|Meditative Wellspring]]'
 level: '12'
 name: Meditative Focus
 prerequisite: ki spells
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Monk|Monk]]'
-trigger: null
 type: Feat
 
 ---

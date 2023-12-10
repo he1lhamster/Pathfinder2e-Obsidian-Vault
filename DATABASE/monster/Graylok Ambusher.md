@@ -1,10 +1,7 @@
 ﻿---
 ac: '26'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Brutal Beating
@@ -15,12 +12,8 @@ creature_ability:
 - Opportune Backstab
 - ''
 - Sneak Attack
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+16'
-hardness: null
 hp: '130'
 id: '1824'
 immunity:
@@ -36,9 +29,6 @@ name: Graylok Ambusher
 perception: '+19'
 rarity: Uncommon
 reflex: '+19'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Large
@@ -52,12 +42,10 @@ source: '[[DATABASE/source/Pathfinder 177. Burning Tundra|Pathfinder #177: Burni
   Tundra]]'
 speed:
 - 30 feet; ice stride
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Cold|Cold]]'
 - '[[DATABASE/trait/Giant|Giant]]'

@@ -1,10 +1,7 @@
 ﻿---
 ac: '47'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+8'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Contingency
@@ -14,12 +11,8 @@ creature_ability:
 - Squirming Embrace
 - ''
 - Swarm Shape
-creature_family: null
 dexterity: '+9'
-element: null
-fly_speed: null
 fortitude: '+34'
-hardness: null
 hp: 325 ( fast healing 20)
 id: '2369'
 immunity:
@@ -48,8 +41,6 @@ reflex: '+39'
 resistance:
 - fire 10
 - physical 20
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) 30 feet'
@@ -102,7 +93,6 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Swarm|Swarm]]'

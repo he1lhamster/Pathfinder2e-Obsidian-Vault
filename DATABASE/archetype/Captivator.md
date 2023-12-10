@@ -5,9 +5,7 @@ name: Captivator
 prerequisite: Charisma 14; Trained in [[DATABASE/skill/Deception|Deception]] or Trained
   in [[DATABASE/skill/Diplomacy|Diplomacy]]
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
-trait: null
 type: Archetype
 
 ---

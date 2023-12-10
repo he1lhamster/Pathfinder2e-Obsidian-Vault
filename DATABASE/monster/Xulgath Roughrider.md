@@ -1,10 +1,7 @@
 ﻿---
 ac: '31'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Feral Directive
@@ -12,15 +9,10 @@ creature_ability:
 - Mounted Superiority
 - Powerful Stench
 - Prerequisite
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+22'
-hardness: null
 hp: '195'
 id: '2114'
-immunity: null
 intelligence: '-1'
 land_speed: '30'
 language:
@@ -32,9 +24,6 @@ name: Xulgath Roughrider
 perception: '+21'
 rarity: Common
 reflex: '+23'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -49,12 +38,10 @@ source: '[[DATABASE/source/Pathfinder 154. Siege of the Dinosaurs|Pathfinder #15
   Siege of the Dinosaurs]]'
 speed:
 - 30 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Xulgath|Xulgath]]'
@@ -62,7 +49,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+19'
 wisdom: '+4'
 

@@ -6,7 +6,6 @@ prerequisite: trained in [[DATABASE/weapon/Sawtooth Saber|sawtooth sabers]] ; wo
   of [[DATABASE/deity/Achaekek|Achaekek]] ; lawful evil alignment; member of the RedMantis
   assassins
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/World Guide|World Guide]]'
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

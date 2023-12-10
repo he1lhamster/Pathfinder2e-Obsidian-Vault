@@ -1,17 +1,10 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
-frequency: null
 id: '1173'
 name: Take a Taste
 rarity: Common
 requirement: The zombie has a creature grabbed or restrained.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-trait: null
-trigger: null
 type: Action
 
 ---

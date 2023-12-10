@@ -1,23 +1,15 @@
 ﻿---
 ac: '20'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Empathic Sense
 - Evaluate Discordance
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+8'
-hardness: null
 hp: '50'
 id: '2410'
-immunity: null
 intelligence: '+2'
 land_speed: '25'
 language:
@@ -29,10 +21,6 @@ name: Kashrishi Evaluator
 perception: '+13'
 rarity: Rare
 reflex: '+10'
-resistance: null
-rus_type_level: null
-school: null
-sense: null
 size: Small
 skill:
 - '[[DATABASE/skill/Diplomacy|Diplomacy]] +12'
@@ -57,15 +45,12 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Kashrishi|Kashrishi]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+13'
 wisdom: '+3'
 

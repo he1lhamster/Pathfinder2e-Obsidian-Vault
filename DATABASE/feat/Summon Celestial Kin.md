@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Summon Celestial Kin
-frequency: null
-heighten_level: null
 id: '1364'
 level: '13'
 name: Summon Celestial Kin
 prerequisite: any aasimar [[DATABASE/trait/Lineage|lineage]] feat
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Aasimar|Aasimar]]'
-trigger: null
 type: Feat
 
 ---

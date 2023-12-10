@@ -1,20 +1,13 @@
 ﻿---
 actions: '[three-actions]'
-cost: null
 element: Metal, Wood
 feat: Elemental Artillery
-frequency: null
 heighten_level: 6, 9, 12, 15, 18
 id: '4303'
 level: '6'
 name: Elemental Artillery
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Composite|Composite]]'
 - '[[DATABASE/trait/Impulse|Impulse]]'
@@ -22,7 +15,6 @@ trait:
 - '[[DATABASE/trait/Metal|Metal]]'
 - '[[DATABASE/trait/Primal|Primal]]'
 - '[[DATABASE/trait/Wood|Wood]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,20 +1,13 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Hypnotic Lure
 frequency: once per hour
-heighten_level: null
 id: '3987'
 level: '5'
 name: Hypnotic Lure
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Enchantment
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Enchantment|Enchantment]]'
@@ -22,7 +15,6 @@ trait:
 - '[[DATABASE/trait/Nagaji|Nagaji]]'
 - '[[DATABASE/trait/Occult|Occult]]'
 - '[[DATABASE/trait/Visual|Visual]]'
-trigger: null
 type: Feat
 
 ---

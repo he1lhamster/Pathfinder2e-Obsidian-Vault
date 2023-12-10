@@ -1,21 +1,14 @@
 ﻿---
 ac: '23'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Slough Toxins
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+14'
 hp: '115'
 id: '2547'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -30,7 +23,6 @@ rarity: Rare
 reflex: '+13'
 resistance:
 - '[[DATABASE/trait/Poison|poison]] 5'
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
@@ -60,7 +52,6 @@ strength: '+1'
 strength_req: '1'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Nagaji|Nagaji]]'
@@ -69,7 +60,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Reflex
-weakness: null
 will: '+17'
 wisdom: '+4'
 

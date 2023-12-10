@@ -1,22 +1,15 @@
 ﻿---
 ac: '16'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Unluck Aura
 creature_family: '[[DATABASE/monsterfamily/Gremlin|Gremlin]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+5'
-hardness: null
 hp: '17'
 id: '246'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -28,9 +21,6 @@ name: Pugwampi
 perception: '+6'
 rarity: Common
 reflex: '+8'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - "(\u20132 to hear things); darkvision"
 size: Tiny
@@ -50,7 +40,6 @@ strength: '-3'
 strength_req: '-3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Gremlin|Gremlin]]'

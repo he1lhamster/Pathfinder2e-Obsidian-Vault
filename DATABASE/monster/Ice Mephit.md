@@ -1,10 +1,7 @@
 ﻿---
 ac: '17'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Breath Weapon
@@ -13,7 +10,6 @@ dexterity: '+4'
 element: Air, Water
 fly_speed: '25'
 fortitude: '+5'
-hardness: null
 hp: 18 ( fast healing 2 (when touching ice or snow))
 id: '660'
 immunity:
@@ -33,9 +29,6 @@ name: Ice Mephit
 perception: '+3'
 rarity: Uncommon
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -53,7 +46,6 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Elemental|Elemental]]'

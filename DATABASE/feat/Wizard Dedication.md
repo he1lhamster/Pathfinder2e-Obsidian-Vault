@@ -1,25 +1,24 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Wizard Dedication
-frequency: null
-heighten_level: null
 id: '742'
+leads_to: '[[DATABASE/feat/Arcane School Spell|Arcane School Spell]] , [[DATABASE/feat/Basic
+  Arcana|Basic Arcana]] , [[DATABASE/feat/Basic Wizard Spellcasting|Basic Wizard Spellcasting]]
+  , [[DATABASE/feat/Cunning Trickster Mask|Cunning Trickster Mask]] , [[DATABASE/feat/Emancipator''s
+  Mask|Emancipator''s Mask]] , [[DATABASE/feat/Grand Medic''s Mask|Grand Medic''s
+  Mask]] , [[DATABASE/feat/Protective Spirit Mask|Protective Spirit Mask]] , [[DATABASE/feat/Sky
+  Master Mask|Sky Master Mask]] , [[DATABASE/feat/Stalking Feline Mask|Stalking Feline
+  Mask]] , [[DATABASE/feat/Storyteller''s Mask|Storyteller''s Mask]] , [[DATABASE/feat/Thick
+  Hide Mask|Thick Hide Mask]] , [[DATABASE/feat/Tireless Guide''s Mask|Tireless Guide''s
+  Mask]] , [[DATABASE/feat/Vigilant Mask|Vigilant Mask]]'
 level: '2'
 name: Wizard Dedication
 prerequisite: Intelligence 14
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Multiclass|Multiclass]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,25 +1,18 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Curse of the Saumen Kar
 frequency: once per day
-heighten_level: null
 id: '3418'
 level: '14'
 name: Curse of the Saumen Kar
 prerequisite: '[[DATABASE/feat/Frostbite Runes|Frostbite Runes]]'
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Conjuration
 source: '[[DATABASE/source/Monsters of Myth|Monsters of Myth]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Primal|Primal]]'
-trigger: null
 type: Feat
 
 ---

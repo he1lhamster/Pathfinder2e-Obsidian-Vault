@@ -1,24 +1,16 @@
 ﻿---
-actions: null
 cost: the Price of the chosen item
-element: null
 feat: Prescient Planner
-frequency: null
-heighten_level: null
 id: '2143'
+leads_to: '[[DATABASE/feat/Prescient Consumable|Prescient Consumable]]'
 level: '3'
 name: Prescient Planner
-prerequisite: null
 rarity: Common
 requirement: You haven't used this ability since the last time you were able to purchase
   goods.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/General|General]]'
-trigger: null
 type: Feat
 
 ---

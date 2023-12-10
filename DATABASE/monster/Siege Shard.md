@@ -1,19 +1,14 @@
 ﻿---
 ac: '19'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-4'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Exorcism
 - Overwhelming Anguish
 - Rejuvenation
 - Surreptitious Siege
-creature_family: null
 dexterity: '+3'
-element: null
 fly_speed: '25'
 fortitude: '+12'
 hardness: '5'
@@ -34,17 +29,12 @@ immunity:
 - '[[DATABASE/condition/Sickened|sickened]]'
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-4'
-land_speed: null
-language: null
 level: '3'
 max_speed: '25'
 name: Siege Shard
 perception: '+9'
 rarity: Uncommon
 reflex: '+6'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Tiny
@@ -64,7 +54,6 @@ strength: '+2'
 strength_req: '2'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
@@ -72,7 +61,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+9'
 wisdom: '+2'
 

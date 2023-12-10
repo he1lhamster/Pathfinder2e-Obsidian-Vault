@@ -1,20 +1,12 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Mother's Mindfulness
 frequency: once per minute
-heighten_level: null
 id: '2338'
 level: '9'
 name: Mother's Mindfulness
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Changeling|Changeling]]'
 trigger: An adjacent ally is hit by an attack.

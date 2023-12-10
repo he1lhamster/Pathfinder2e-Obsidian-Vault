@@ -1,20 +1,14 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
-frequency: null
 id: '35'
 name: Grapple
 rarity: Common
 requirement: You have at least one free hand or have your target [[DATABASE/condition/Grabbed|grappled]]
   or [[DATABASE/condition/Restrained|restrained]] . Your targetisn't more than one
   size larger than you.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Attack|Attack]]'
-trigger: null
 type: Action
 
 ---

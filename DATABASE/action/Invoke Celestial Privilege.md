@@ -1,16 +1,9 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
-frequency: null
 id: '702'
 name: Invoke Celestial Privilege
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-trait: null
 trigger: You attempt a saving throw against a [[DATABASE/trait/Divine|divine]] effect,
   but youhaven't rolled yet.
 type: Action

@@ -1,21 +1,14 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Lucky Escape
 frequency: once per day
-heighten_level: null
 id: '3273'
 level: '4'
 name: Lucky Escape
 prerequisite: '[[DATABASE/feat/Unexpected Sharpshooter Dedication|Unexpected Sharpshooter
   Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Misfortune|Misfortune]]'

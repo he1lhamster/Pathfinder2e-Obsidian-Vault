@@ -1,12 +1,9 @@
 ﻿---
 actions: '[three-actions]'
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Casandalee|Casandalee]]'
 - '[[DATABASE/deity/Gravelady''s Guard|Gravelady''s Guard]]'
@@ -14,32 +11,22 @@ deity:
 - '[[DATABASE/deity/Grundinnar|Grundinnar]]'
 - '[[DATABASE/deity/Isis|Isis]]'
 - '[[DATABASE/deity/Nethys|Nethys]]'
-domain: null
 duration: 1 minute
-element: null
 heighten: '+2'
 heighten_level: 6, 8, 10
 id: '363'
-lesson: null
 level: '6'
-mystery: null
 name: Wall of Force
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Arcane
 - Occult
 trait:
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Force|Force]]'
-trigger: null
 type: Spell
 
 ---

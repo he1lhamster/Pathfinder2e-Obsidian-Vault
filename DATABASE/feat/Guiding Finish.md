@@ -1,25 +1,16 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Guiding Finish
-frequency: null
-heighten_level: null
 id: '416'
 level: '14'
 name: Guiding Finish
-prerequisite: null
 rarity: Common
 requirement: You are wielding only a single one-handed melee weapon and have your
   other hand or hands free.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fighter|Fighter]]'
 - '[[DATABASE/trait/Press|Press]]'
-trigger: null
 type: Feat
 
 ---

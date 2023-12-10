@@ -1,45 +1,16 @@
 ﻿---
-ac: null
 actions: '[free-action]'
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '208'
 item_category: Consumables
 item_subcategory: Talismans
-land_speed: null
 level: '5'
-max_speed: null
 name: Emerald Grasshopper
-onset: null
 price: 30 gp
-range: null
 rarity: Common
-reflex: null
 requirement: You're an expert in Athletics
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
-size: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-spell: null
-stage: null
 subcategory: consumable/talisman
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Consumable|Consumable]]'
 - '[[DATABASE/trait/Magical|Magical]]'
@@ -48,9 +19,6 @@ trait:
 trigger: You attempt a High Jump but haven't rolled yet
 type: Item
 usage: affixed to armor
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Emerald Grasshopper<span class="item-type">Item 5</span>

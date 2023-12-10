@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Azarketi Weapon Familiarity
-frequency: null
-heighten_level: null
 id: '2671'
+leads_to: '[[DATABASE/feat/Azarketi Weapon Aptitude|Azarketi Weapon Aptitude]] , [[DATABASE/feat/Azarketi
+  Weapon Expertise|Azarketi Weapon Expertise]]'
 level: '1'
 name: Azarketi Weapon Familiarity
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Absalom, City of Lost Omens|Absalom, City of Lost Omens]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Azarketi|Azarketi]]'
-trigger: null
 type: Feat
 
 ---

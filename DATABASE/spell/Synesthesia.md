@@ -1,28 +1,18 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Narriseminek|Narriseminek]]'
-domain: null
 duration: 1 minute
-element: null
 heighten: 9th
 heighten_level: 5, 9
 id: '328'
-lesson: null
 level: '5'
-mystery: null
 name: Synesthesia
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Will
 school: Divination
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -32,7 +22,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Divination|Divination]]'
 - '[[DATABASE/trait/Mental|Mental]]'
-trigger: null
 type: Spell
 
 ---

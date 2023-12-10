@@ -1,21 +1,14 @@
 ﻿---
 ac: '20'
 alignment: CG
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Ghost Touch
 - Powerful Charge
 - Wild Empathy
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+10'
-hardness: null
 hp: '45'
 id: '397'
 immunity:
@@ -31,9 +24,6 @@ name: Unicorn
 perception: '+13'
 rarity: Common
 reflex: '+8'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - scent (imprecise) 30 feet
@@ -56,7 +46,6 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Fey|Fey]]'
@@ -64,7 +53,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+11'
 wisdom: '+4'
 

@@ -6,9 +6,7 @@ prerequisite: '[[DATABASE/feat/Alchemical Crafting|Alchemical Crafting]] ; Train
   in [[DATABASE/skill/Crafting|Crafting]] ; Trained in [[DATABASE/skill/Deception|Deception]]
   ; Trained in [[DATABASE/skill/Stealth|Stealth]]'
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-trait: null
 type: Archetype
 
 ---

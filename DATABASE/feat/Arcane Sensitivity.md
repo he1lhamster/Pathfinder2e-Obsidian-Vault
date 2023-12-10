@@ -1,25 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Arcane Sensitivity
-frequency: null
-heighten_level: null
 id: '2195'
 level: '6'
 name: Arcane Sensitivity
 prerequisite: '[[DATABASE/feat/Edgewatch Detective Dedication|Edgewatch Detective
   Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 157. Devil at the Dreaming Palace|Pathfinder
   #157: Devil at the Dreaming Palace]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

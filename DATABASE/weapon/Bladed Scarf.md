@@ -14,9 +14,7 @@ item_subcategory: Base Weapons
 level: '0'
 name: Bladed Scarf
 price: 3 gp
-range: null
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 trait:
 - '[[DATABASE/trait/Disarm|Disarm]]'

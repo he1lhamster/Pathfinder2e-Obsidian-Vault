@@ -10,9 +10,7 @@ level: '0'
 name: Gauntlet Buckler
 price: 5 gp
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-speed_penalty: null
 trait:
 - '[[DATABASE/trait/Foldaway|Foldaway]]'
 type: Shield

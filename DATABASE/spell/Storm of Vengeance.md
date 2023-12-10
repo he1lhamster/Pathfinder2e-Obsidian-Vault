@@ -6,29 +6,20 @@ component:
 - Material
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Nalinivati|Nalinivati]]'
 - '[[DATABASE/deity/Sky Keepers|SkyKeepers]]'
-domain: null
 duration: sustained up to 1 minute
 element: Air
 heighten: 10th
 heighten_level: 9, 10
 id: '313'
-lesson: null
 level: '9'
-mystery: null
 name: Storm of Vengeance
-patron_theme: null
 range: 800 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Primal
 - Elemental
@@ -36,7 +27,6 @@ trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Electricity|Electricity]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
-trigger: null
 type: Spell
 
 ---

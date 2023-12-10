@@ -1,23 +1,14 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Two-Truths
-frequency: null
-heighten_level: null
 id: '3802'
 level: '9'
 name: Two-Truths
 prerequisite: Master in [[DATABASE/skill/Deception|Deception]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Reflection|Reflection]]'
-trigger: null
 type: Feat
 
 ---

@@ -3,10 +3,8 @@ creature_family: Giant Bee
 id: '288'
 name: Giant Bee
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 169. Kindled Magic|Pathfinder #169: Kindled
   Magic]]'
-trait: null
 type: Creature Family
 
 ---

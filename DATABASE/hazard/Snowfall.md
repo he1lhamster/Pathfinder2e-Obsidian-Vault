@@ -1,10 +1,7 @@
 ﻿---
 ac: '16'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+10'
-hardness: null
 hazard_type: Environmental
 hp: '8'
 id: '33'
@@ -16,15 +13,10 @@ level: '0'
 name: Snowfall
 rarity: Common
 reflex: '+8'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
 - '[[DATABASE/trait/Environmental|Environmental]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Snowfall<span class="item-type">Hazard 0</span>

@@ -1,24 +1,16 @@
 ﻿---
 ac: '21'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Shadow Drain
 - Stench
 - Unassuming Cloak
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+13'
-hardness: null
 hp: '75'
 id: '1401'
-immunity: null
 intelligence: '-1'
 land_speed: '25'
 language:
@@ -29,9 +21,6 @@ name: Sigbin
 perception: '+12'
 rarity: Common
 reflex: '+16'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - scent (imprecise) 30 feet
@@ -44,19 +33,16 @@ source: '[[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #
   Despair on Danger Island]]'
 speed:
 - 25 feet
-spell: null
 strength: '+1'
 strength_req: '1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+8'
 wisdom: '+1'
 

@@ -1,17 +1,7 @@
 ﻿---
-ability: null
-ability_boost: null
-feat: null
 id: '46'
 name: Local Scion
-prerequisite: null
-rarity: null
-rus_type_level: null
-skill: null
 source: '[[DATABASE/source/Age of Ashes Player''s Guide|Age of Ashes Player''s Guide]]'
-subcategory: null
-trait: null
-type: null
 
 ---
 # Local Scion<span class="item-type">Background</span>

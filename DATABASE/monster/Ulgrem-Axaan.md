@@ -1,10 +1,8 @@
 ﻿---
 ac: '24'
 alignment: CE
-all_resistance: null
 burrow_speed: '10'
 charisma: '+4'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Aquatic Ambush
@@ -16,12 +14,8 @@ creature_ability:
 - ''
 - Unnatural Vengeance
 - Voltaic Blow
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+18'
-hardness: null
 hp: 130 ( negative healing )
 id: '1743'
 immunity:
@@ -45,8 +39,6 @@ resistance:
 - '[[DATABASE/trait/Cold|cold]] 10'
 - '[[DATABASE/trait/Electricity|electricity]] 5'
 - piercing 5
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Wavesense|wavesense]] (imprecise) 60 feet'
@@ -61,7 +53,6 @@ speed:
 - 25 feet
 - burrow 10 feet
 - swim 30 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:

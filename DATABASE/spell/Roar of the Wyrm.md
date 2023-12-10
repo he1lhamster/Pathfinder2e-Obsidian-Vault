@@ -1,39 +1,25 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
 domain:
 - '[[DATABASE/domain/Wyrmkin Domain|Wyrmkin]]'
 duration: varies
-element: null
-heighten: null
 heighten_level: '4'
 id: '629'
-lesson: null
 level: '4'
-mystery: null
 name: Roar of the Wyrm
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Will
 school: Enchantment
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
 target: 30-foot emanation
-tradition: null
 trait:
 - '[[DATABASE/trait/Auditory|Auditory]]'
 - '[[DATABASE/trait/Emotion|Emotion]]'
 - '[[DATABASE/trait/Enchantment|Enchantment]]'
 - '[[DATABASE/trait/Mental|Mental]]'
-trigger: null
 type: Focus
 
 ---

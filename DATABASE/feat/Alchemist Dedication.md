@@ -1,25 +1,17 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Alchemist Dedication
-frequency: null
-heighten_level: null
 id: '665'
+leads_to: '[[DATABASE/feat/Basic Concoction|Basic Concoction]] , [[DATABASE/feat/Expert
+  Alchemy|Expert Alchemy]] , [[DATABASE/feat/Quick Alchemy|Quick Alchemy]]'
 level: '2'
 name: Alchemist Dedication
 prerequisite: Intelligence 14
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Multiclass|Multiclass]]'
-trigger: null
 type: Feat
 
 ---

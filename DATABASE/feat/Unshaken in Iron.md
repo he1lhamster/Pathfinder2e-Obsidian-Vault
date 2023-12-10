@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Unshaken in Iron
-frequency: null
-heighten_level: null
 id: '4179'
 level: '8'
 name: Unshaken in Iron
 prerequisite: '[[DATABASE/feat/Stalwart Defender Dedication|Stalwart Defender Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Highhelm|Highhelm]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

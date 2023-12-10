@@ -1,29 +1,18 @@
 ﻿---
 actions: '[two-actions]'
-area: null
 bloodline: '[[DATABASE/sorcererbloodline/Draconic|Draconic]] , [[DATABASE/sorcererbloodline/Elemental|Elemental]]
   , [[DATABASE/sorcererbloodline/Wyrmblessed|Wyrmblessed]]'
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 10 minutes
-element: null
 heighten: 4th, 7th
 heighten_level: 2, 4, 7
 id: '256'
-lesson: null
 level: '2'
-mystery: null
 name: Resist Energy
-patron_theme: null
 range: touch
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: 1 creature
@@ -35,7 +24,6 @@ tradition:
 - Elemental
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
-trigger: null
 type: Spell
 
 ---

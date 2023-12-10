@@ -1,32 +1,18 @@
 ﻿---
 actions: '[reaction]'
-area: null
-bloodline: null
 component:
 - Verbal
-cost: null
-deity: null
 domain:
 - '[[DATABASE/domain/Family Domain|Family]]'
-duration: null
-element: null
-heighten: null
 heighten_level: '4'
 id: '465'
-lesson: null
 level: '4'
-mystery: null
 name: Unity
-patron_theme: null
 range: 30 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: each ally targeted by the triggering spell
-tradition: null
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Cleric|Cleric]]'

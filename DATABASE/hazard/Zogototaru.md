@@ -1,21 +1,11 @@
 ﻿---
-ac: null
-all_resistance: null
 complexity: Complex
 element: Fire
-fortitude: null
-hardness: null
 hazard_type: Environmental
-hp: null
 id: '415'
-immunity: null
 level: '10'
 name: Zogototaru
 rarity: Unique
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 195. Heavy is the Crown|Pathfinder #195: Heavy
   is the Crown]]'
 trait:
@@ -28,8 +18,6 @@ trait:
 - '[[DATABASE/trait/Trap|Trap]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Zogototaru<span class="item-type">Hazard 10</span>

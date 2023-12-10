@@ -18,13 +18,10 @@ id: '7'
 name: Fighter
 perception_proficiency: Expert
 rarity: Common
-rus_type_level: null
 skill_proficiency:
 - Trained in your choice of Acrobatics or Athletics
 - Trained in a number of additional skills equal to 3 plus your Intelligence modifier
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-tradition: null
-trait: null
 type: Class
 
 ---

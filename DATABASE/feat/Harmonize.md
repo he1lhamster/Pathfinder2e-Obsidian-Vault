@@ -1,26 +1,18 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Harmonize
-frequency: null
-heighten_level: null
 id: '193'
+leads_to: '[[DATABASE/feat/Symphony of the Muses|Symphony of the Muses]]'
 level: '6'
 name: Harmonize
 prerequisite: '[[DATABASE/bardmuse/Maestro|maestro muse]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Bard|Bard]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Metamagic|Metamagic]]'
-trigger: null
 type: Feat
 
 ---

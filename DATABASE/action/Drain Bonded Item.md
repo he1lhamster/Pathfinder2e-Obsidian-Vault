@@ -1,19 +1,13 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 frequency: once per day
 id: '13'
 name: Drain Bonded Item
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Arcane|Arcane]]'
 - '[[DATABASE/trait/Wizard|Wizard]]'
-trigger: null
 type: Action
 
 ---

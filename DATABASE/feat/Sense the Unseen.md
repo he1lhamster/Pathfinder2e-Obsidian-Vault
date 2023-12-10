@@ -1,20 +1,11 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Sense the Unseen
-frequency: null
-heighten_level: null
 id: '530'
 level: '14'
 name: Sense the Unseen
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Investigator|Investigator]]'
 - '[[DATABASE/trait/Ranger|Ranger]]'

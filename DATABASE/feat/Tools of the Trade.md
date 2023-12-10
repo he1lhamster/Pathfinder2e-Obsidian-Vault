@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Tools of the Trade
-frequency: null
-heighten_level: null
 id: '1915'
 level: '4'
 name: Tools of the Trade
 prerequisite: '[[DATABASE/feat/Bounty Hunter Dedication|Bounty Hunter Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

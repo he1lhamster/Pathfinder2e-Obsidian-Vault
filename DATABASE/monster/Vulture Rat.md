@@ -1,8 +1,6 @@
 ﻿---
 ac: '15'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-3'
 climb_speed: '10'
 constitution: '+2'
@@ -10,25 +8,17 @@ creature_ability:
 - Filth Fever
 creature_family: '[[DATABASE/monsterfamily/Rat|Rat]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+6'
-hardness: null
 hp: '8'
 id: '2076'
-immunity: null
 intelligence: '-4'
 land_speed: '30'
-language: null
 level: '-1'
 max_speed: '30'
 name: Vulture Rat
 perception: '+5'
 rarity: Common
 reflex: '+7'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -41,19 +31,16 @@ source: '[[DATABASE/source/Travel Guide|Travel Guide]]'
 speed:
 - 30 feet
 - climb 10 feet
-spell: null
 strength: '+1'
 strength_req: '1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+3'
 wisdom: '+1'
 

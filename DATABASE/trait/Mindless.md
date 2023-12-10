@@ -2,7 +2,6 @@
 id: '108'
 name: Mindless
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - Mindless

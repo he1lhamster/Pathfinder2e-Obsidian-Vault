@@ -1,23 +1,14 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Lock On
-frequency: null
-heighten_level: null
 id: '3072'
 level: '10'
 name: Lock On
 prerequisite: '[[DATABASE/inventorinnovation/Construct Innovation|construct innovation]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Inventor|Inventor]]'
-trigger: null
 type: Feat
 
 ---

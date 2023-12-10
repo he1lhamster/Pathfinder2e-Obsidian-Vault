@@ -1,5 +1,4 @@
 ﻿---
-bulk: null
 damage: 1d4 B
 deity:
 - '[[DATABASE/deity/Adanye|Adanye]]'
@@ -29,10 +28,7 @@ item_category: Weapons
 item_subcategory: Base Weapons
 level: '0'
 name: Fist
-price: null
-range: null
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Agile|Agile]]'

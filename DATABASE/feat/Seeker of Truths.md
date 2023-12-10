@@ -1,25 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Seeker of Truths
-frequency: null
-heighten_level: null
 id: '2659'
+leads_to: '[[DATABASE/feat/Advanced Seeker of Truths|Advanced Seeker of Truths]]'
 level: '4'
 name: Seeker of Truths
 prerequisite: '[[DATABASE/feat/Eldritch Researcher Dedication|Eldritch Researcher
   Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 164. Hands of the Devil|Pathfinder #164: Hands
   of the Devil]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

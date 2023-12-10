@@ -3,10 +3,7 @@ element: Water
 id: '72'
 item_category: Relics
 name: Ripples and Waves
-prerequisite: null
 rarity: Common
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
 - '[[DATABASE/trait/Water|Water]]'

@@ -1,7 +1,5 @@
 ﻿---
-advanced_apocryphal_spell: null
 advanced_domain_spell: '[[DATABASE/spell/Font of Serenity|Font of Serenity]]'
-apocryphal_spell: null
 deity:
 - '[[DATABASE/deity/Adanye|Adanye]]'
 - '[[DATABASE/deity/Ashava|Ashava]]'
@@ -25,9 +23,7 @@ domain_spell: '[[DATABASE/spell/Share Burden|Share Burden]]'
 id: '49'
 name: Repose Domain
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
-trait: null
 type: Domain
 
 ---

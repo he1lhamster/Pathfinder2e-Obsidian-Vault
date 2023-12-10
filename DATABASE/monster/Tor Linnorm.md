@@ -1,8 +1,6 @@
 ﻿---
 ac: '47'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+9'
 climb_speed: '35'
 constitution: '+9'
@@ -20,7 +18,6 @@ dexterity: '+8'
 element: Fire
 fly_speed: '100'
 fortitude: '+38'
-hardness: null
 hp: '440'
 id: '287'
 immunity:
@@ -40,9 +37,6 @@ name: Tor Linnorm
 perception: '+37'
 rarity: Uncommon
 reflex: '+35'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - scent (imprecise) 60 feet

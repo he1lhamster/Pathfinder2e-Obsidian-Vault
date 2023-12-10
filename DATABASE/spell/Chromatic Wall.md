@@ -1,40 +1,28 @@
 ﻿---
 actions: '[three-actions]'
-area: null
 bloodline: '[[DATABASE/sorcererbloodline/Draconic|Draconic]]'
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Lady Jingxi|Lady Jingxi]]'
 - '[[DATABASE/deity/Pulura|Pulura]]'
-domain: null
 duration: 10 minutes
-element: null
 heighten: 7th
 heighten_level: 5, 7
 id: '37'
-lesson: null
 level: '5'
-mystery: null
 name: Chromatic Wall
-patron_theme: null
 range: 120 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Arcane
 - Occult
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
-trigger: null
 type: Spell
 
 ---

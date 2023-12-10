@@ -1,21 +1,14 @@
 ﻿---
 ac: '13'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Chomp at the Bone
 - Feast
 - Slow
-creature_family: null
 dexterity: '-1'
-element: null
-fly_speed: null
 fortitude: '+6'
-hardness: null
 hp: 50 ( negative healing )
 id: '2042'
 immunity:
@@ -27,16 +20,12 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '30'
-language: null
 level: '1'
 max_speed: '30'
 name: Zombie Horse
 perception: '+3'
 rarity: Uncommon
 reflex: '+3'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -45,12 +34,10 @@ skill:
 source: '[[DATABASE/source/Pathfinder 181. Zombie Feast|Pathfinder #181: Zombie Feast]]'
 speed:
 - 30 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Mindless|Mindless]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

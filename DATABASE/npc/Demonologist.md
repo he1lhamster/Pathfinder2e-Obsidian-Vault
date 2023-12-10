@@ -1,10 +1,7 @@
 ﻿---
 ac: '22'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Abyssal Temptation
@@ -12,12 +9,9 @@ creature_ability:
 - Demon Summoning
 creature_family: '[[DATABASE/monsterfamily/Mystics|Mystics]]'
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+13'
 hp: '100'
 id: '931'
-immunity: null
 intelligence: '+4'
 land_speed: '25'
 language:
@@ -29,9 +23,6 @@ name: Demonologist
 perception: '+15'
 rarity: Common
 reflex: '+12'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Lore|Academia Lore]] +14'
@@ -66,15 +57,12 @@ strength: '+3'
 strength_req: '3'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+15'
 wisdom: '+4'
 

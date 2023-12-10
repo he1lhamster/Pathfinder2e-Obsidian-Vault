@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Precious Alloys
-frequency: null
-heighten_level: null
 id: '4329'
 level: '5'
 name: Precious Alloys
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Talos|Talos]]'
-trigger: null
 type: Feat
 
 ---

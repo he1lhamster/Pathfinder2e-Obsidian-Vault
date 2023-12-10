@@ -1,7 +1,5 @@
 ﻿---
-advanced_apocryphal_spell: null
 advanced_domain_spell: '[[DATABASE/spell/Nature''s Bounty|Nature''s Bounty]]'
-apocryphal_spell: null
 deity:
 - '[[DATABASE/deity/Angazhan|Angazhan]]'
 - '[[DATABASE/deity/Arundhat|Arundhat]]'
@@ -52,9 +50,7 @@ domain_spell: '[[DATABASE/spell/Vibrant Thorns|Vibrant Thorns]]'
 id: '22'
 name: Nature Domain
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Domain
 
 ---

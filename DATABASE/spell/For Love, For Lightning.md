@@ -1,38 +1,23 @@
 ﻿---
 actions: '[three-actions]'
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: sustained for up to 1 minute
-element: null
 heighten: '+2'
 heighten_level: 6, 8, 10
 id: '1108'
-lesson: null
 level: '6'
-mystery: null
 name: For Love, For Lightning
-patron_theme: null
-range: null
 rarity: Uncommon
 requirement: You are wielding a sword or spear made partly or wholly of metal
-rus_type_level: null
-saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
-target: null
-tradition: null
 trait:
 - '[[DATABASE/trait/Electricity|Electricity]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Focus
 
 ---

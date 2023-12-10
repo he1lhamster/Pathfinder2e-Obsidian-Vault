@@ -1,20 +1,12 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Artokus's Fire
 frequency: once per round
-heighten_level: null
 id: '2158'
 level: '6'
 name: Artokus's Fire
-prerequisite: null
 rarity: Rare
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Legends|Legends]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Additive|Additive 2]]'
 - '[[DATABASE/trait/Alchemist|Alchemist]]'

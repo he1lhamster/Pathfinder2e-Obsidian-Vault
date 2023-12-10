@@ -1,10 +1,7 @@
 ﻿---
 ac: '34'
 alignment: CG
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Choose Weakness
@@ -14,13 +11,10 @@ creature_ability:
 - Light Form
 creature_family: '[[DATABASE/monsterfamily/Azata|Azata]]'
 dexterity: '+4'
-element: null
 fly_speed: '100'
 fortitude: '+26'
-hardness: null
 hp: '235'
 id: '37'
-immunity: null
 intelligence: '+3'
 land_speed: '35'
 language:
@@ -35,8 +29,6 @@ rarity: Common
 reflex: '+20'
 resistance:
 - energy 15 (see Choose Weakness)
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - '[[DATABASE/spell/See Invisibility|see invisibility]]'
@@ -76,7 +68,6 @@ strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Azata|Azata]]'
 - '[[DATABASE/trait/Celestial|Celestial]]'

@@ -1,8 +1,6 @@
 ﻿---
 bulk: L
 damage: 1d4 P
-deity: null
-favored_weapon: null
 hands: '1'
 id: '137'
 item_category: Weapons
@@ -10,9 +8,7 @@ item_subcategory: Base Weapons
 level: '1'
 name: Stiletto Pen
 price: 8 gp
-range: null
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
 trait:
 - '[[DATABASE/trait/Agile|Agile]]'

@@ -1,23 +1,16 @@
 ﻿---
 ac: '19'
 alignment: LG
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Attack of Opportunity
 - Lunge
 - Power Attack
-creature_family: null
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+11'
 hp: '32'
 id: '1034'
-immunity: null
 intelligence: '+0'
 land_speed: '20'
 language:
@@ -28,9 +21,6 @@ name: Eleukas
 perception: '+10'
 rarity: Unique
 reflex: '+9'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +8'
@@ -40,21 +30,17 @@ skill:
 source: '[[DATABASE/source/No-Prep Character. Eleukas|No-Prep Character: Eleukas]]'
 speed:
 - 20 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+6'
 wisdom: '+0'
 

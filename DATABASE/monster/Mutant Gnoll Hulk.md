@@ -1,10 +1,7 @@
 ﻿---
 ac: '26'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Pack Attack
@@ -12,13 +9,9 @@ creature_ability:
 - Vengeful Bite
 creature_family: '[[DATABASE/monsterfamily/Mana Wastes Mutant|Mana Wastes Mutant]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+21'
-hardness: null
 hp: '195'
 id: '2411'
-immunity: null
 intelligence: '+2'
 land_speed: '25'
 language:
@@ -30,9 +23,6 @@ name: Mutant Gnoll Hulk
 perception: '+17'
 rarity: Common
 reflex: '+18'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - magic hunger (imprecise) 30 feet
 size: Large
@@ -44,21 +34,17 @@ skill:
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 speed:
 - 25 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Gnoll|Gnoll]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Mutant|Mutant]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+15'
 wisdom: '+2'
 

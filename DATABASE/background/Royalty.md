@@ -5,13 +5,9 @@ ability:
 ability_boost:
 - Intelligence
 - Charisma
-feat: null
 id: '189'
 name: Royalty
-prerequisite: null
 rarity: Rare
-rus_type_level: null
-skill: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: general
 trait:

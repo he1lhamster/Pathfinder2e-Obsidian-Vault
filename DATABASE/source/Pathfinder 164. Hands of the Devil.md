@@ -2,9 +2,6 @@
 id: '75'
 name: Pathfinder 164. Hands of the Devil
 rarity: Common
-rus_type_level: null
-source: null
-trait: null
 type: Source
 
 ---

@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Incredible Familiar (Familiar Master)
-frequency: null
-heighten_level: null
 id: '1975'
 level: '10'
 name: Incredible Familiar (Familiar Master)
 prerequisite: '[[DATABASE/feat/Enhanced Familiar|Enhanced Familiar]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

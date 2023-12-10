@@ -3,9 +3,7 @@ creature_family: Elemental, Air
 id: '41'
 name: Elemental, Air
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
-trait: null
 type: Creature Family
 
 ---

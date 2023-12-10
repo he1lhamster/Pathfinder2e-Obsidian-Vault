@@ -12,9 +12,7 @@ level: '0'
 name: Armored Coat
 price: 20 gp
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
-speed_penalty: null
 strength: '+14'
 strength_req: '14'
 trait:

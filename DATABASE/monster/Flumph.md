@@ -1,23 +1,16 @@
 ﻿---
 ac: '17'
 alignment: LG
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Spray Perfume
 - Upside Down
-creature_family: null
 dexterity: '+4'
-element: null
 fly_speed: '25'
 fortitude: '+5'
-hardness: null
 hp: '17'
 id: '1156'
-immunity: null
 intelligence: '+1'
 land_speed: '5'
 language:
@@ -30,9 +23,6 @@ name: Flumph
 perception: '+8'
 rarity: Common
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -45,19 +35,16 @@ source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 5 feet
 - fly 25 feet
-spell: null
 strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+8'
 wisdom: '+3'
 

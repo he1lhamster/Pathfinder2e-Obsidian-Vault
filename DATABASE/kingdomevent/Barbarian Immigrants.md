@@ -3,7 +3,6 @@ id: '42'
 level: '2'
 name: Barbarian Immigrants
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Statecraft|Statecraft]]'
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'

@@ -1,21 +1,13 @@
 ﻿---
 ac: '22'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+3'
-creature_ability: null
 creature_family: '[[DATABASE/monsterfamily/Deep Gnome|Deep Gnome]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+12'
-hardness: null
 hp: '63'
 id: '96'
-immunity: null
 intelligence: '+0'
 land_speed: '15'
 language:
@@ -28,9 +20,6 @@ name: Deep Gnome Rockwarden
 perception: '+14'
 rarity: Common
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Small
@@ -61,7 +50,6 @@ strength: '+1'
 strength_req: '1'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Gnome|Gnome]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -69,7 +57,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+14'
 wisdom: '+5'
 

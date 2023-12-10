@@ -18,7 +18,6 @@ language:
 max_speed: '25'
 name: Shoony
 rarity: Rare
-rus_type_level: null
 size: Small
 source: '[[DATABASE/source/Pathfinder 153. Life''s Long Shadows|Pathfinder #153: Life''s
   Long Shadows]]'

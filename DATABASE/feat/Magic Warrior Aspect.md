@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Magic Warrior Aspect
-frequency: null
-heighten_level: null
 id: '904'
 level: '4'
 name: Magic Warrior Aspect
 prerequisite: '[[DATABASE/feat/Magic Warrior Dedication|Magic Warrior Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/World Guide|World Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

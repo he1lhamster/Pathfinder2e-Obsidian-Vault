@@ -1,20 +1,12 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Watch and Learn
-frequency: null
-heighten_level: null
 id: '2224'
 level: '4'
 name: Watch and Learn
 prerequisite: '[[DATABASE/feat/Pathfinder Agent Dedication|Pathfinder Agent Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 trigger: An ally you can see succeeds or critically succeeds at a Strength- or Dexterity-based

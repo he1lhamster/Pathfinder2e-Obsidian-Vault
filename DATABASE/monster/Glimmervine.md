@@ -1,36 +1,24 @@
 ﻿---
 ac: '21'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Camouflage
 - Constrict
 - Dazzling Blooms
-creature_family: null
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+14'
-hardness: null
 hp: '90'
 id: '2458'
-immunity: null
 intelligence: '-5'
 land_speed: '10'
-language: null
 level: '4'
 max_speed: '10'
 name: Glimmervine
 perception: '+11'
 rarity: Uncommon
 reflex: '+8'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Tremorsense|tremorsense]] (precise) 60 feet'
 size: Medium
@@ -41,18 +29,15 @@ source: '[[DATABASE/source/Pathfinder 188. They Watched the Stars|Pathfinder #18
   They Watched the Stars]]'
 speed:
 - 10 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Mindless|Mindless]]'
 - '[[DATABASE/trait/Plant|Plant]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
 weakness:

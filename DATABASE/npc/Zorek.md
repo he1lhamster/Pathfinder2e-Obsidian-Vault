@@ -1,19 +1,13 @@
 ﻿---
 ac: '32'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Blessed Life
 - Divine Font
 - Divine Recovery
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+23'
 hp: 220 ( fast healing 10)
 id: '2321'
@@ -33,8 +27,6 @@ reflex: '+20'
 resistance:
 - physical 10 (except lawful)
 - poison 15
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +24'
@@ -76,13 +68,11 @@ strength: '+7'
 strength_req: '7'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
 weakness:

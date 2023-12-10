@@ -1,11 +1,8 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Arshea|Arshea]]'
 - '[[DATABASE/deity/Arshea|Arshea]]'
@@ -14,25 +11,15 @@ deity:
 - '[[DATABASE/deity/Haagenti|Haagenti]]'
 - '[[DATABASE/deity/Isis|Isis]]'
 - '[[DATABASE/deity/Nyarlathotep|Nyarlathotep (The Crawling Chaos)]]'
-domain: null
 duration: 10 minutes
-element: null
 heighten: 3rd, 5th
 heighten_level: 2, 3, 5
 id: '153'
-lesson: null
 level: '2'
-mystery: null
 name: Humanoid Form
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Arcane
 - Occult
@@ -40,7 +27,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Polymorph|Polymorph]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Spell
 
 ---

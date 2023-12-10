@@ -1,8 +1,6 @@
 ﻿---
 ac: '16'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
 climb_speed: '20'
 constitution: '+1'
@@ -13,13 +11,9 @@ creature_ability:
 - Swarming Stance
 creature_family: '[[DATABASE/monsterfamily/Morlock|Morlock]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+4'
-hardness: null
 hp: '20'
 id: '1037'
-immunity: null
 intelligence: '-2'
 land_speed: '30'
 language:
@@ -30,9 +24,6 @@ name: Morlock Scavenger
 perception: '+6'
 rarity: Common
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -45,12 +36,10 @@ source: '[[DATABASE/source/Pathfinder 163. Ruins of Gauntlight|Pathfinder #163: 
 speed:
 - 30 feet
 - climb 20 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Morlock|Morlock]]'
@@ -58,7 +47,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+6'
 wisdom: '+3'
 

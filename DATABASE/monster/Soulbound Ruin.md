@@ -1,10 +1,7 @@
 ﻿---
 ac: '37'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Collapse Ceiling
@@ -12,12 +9,8 @@ creature_ability:
 - Pervasive Attacks
 - Self-Repair
 - Vulnerability to Exorcism
-creature_family: null
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+29'
-hardness: null
 hp: 310 ( negative healing )
 id: '475'
 immunity:
@@ -35,19 +28,15 @@ immunity:
 - sickened
 - unconscious
 intelligence: '+4'
-land_speed: null
 language:
 - '[[DATABASE/language/Common|Common]] ; and other languages typical to the region'
 level: '15'
-max_speed: null
 name: Soulbound Ruin
 perception: '+25'
 rarity: Common
 reflex: '+21'
 resistance:
 - physical 10 (except adamantine)
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Gargantuan
@@ -58,12 +47,10 @@ source: '[[DATABASE/source/Pathfinder 148. Fires of the Haunted City|Pathfinder 
   Fires of the Haunted City]]'
 speed:
 - can't move
-spell: null
 strength: '+10'
 strength_req: '10'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Undead|Undead]]'

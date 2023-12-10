@@ -1,24 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Dualborn
-frequency: null
-heighten_level: null
 id: '2579'
 level: '1'
 name: Dualborn
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Lineage|Lineage]]'
 - '[[DATABASE/trait/Suli|Suli]]'
-trigger: null
 type: Feat
 
 ---

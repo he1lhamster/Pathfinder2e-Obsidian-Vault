@@ -2,7 +2,6 @@
 id: '473'
 name: Deflecting
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 trait:
 - Deflecting

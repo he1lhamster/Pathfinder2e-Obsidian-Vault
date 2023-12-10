@@ -1,11 +1,8 @@
 ﻿---
-element: null
 id: '7'
 level: '3'
 name: Dreary
 rarity: Rare
-rus_type_level: null
-saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:

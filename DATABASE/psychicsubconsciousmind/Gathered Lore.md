@@ -6,9 +6,7 @@ ability_boost:
 id: '2'
 name: Gathered Lore
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-trait: null
 type: Psychic Subconscious Mind
 
 ---

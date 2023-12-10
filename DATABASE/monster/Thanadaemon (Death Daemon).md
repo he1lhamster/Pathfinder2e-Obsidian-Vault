@@ -1,10 +1,7 @@
 ﻿---
 ac: '34'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+7'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Draining Strike
@@ -13,10 +10,7 @@ creature_ability:
 - Terrifying Gaze
 creature_family: '[[DATABASE/monsterfamily/Daemon|Daemon]]'
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+21'
-hardness: null
 hp: '270'
 id: '595'
 immunity:
@@ -33,9 +27,6 @@ name: Thanadaemon
 perception: '+26'
 rarity: Common
 reflex: '+23'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/spell/True Seeing|true seeing]]'
@@ -63,7 +54,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Daemon|Daemon]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

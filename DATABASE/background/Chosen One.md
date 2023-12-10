@@ -5,12 +5,9 @@ ability:
 ability_boost:
 - Strength
 - Charisma
-feat: null
 id: '240'
 name: Chosen One
-prerequisite: null
 rarity: Rare
-rus_type_level: null
 skill:
 - Fortune-Teller [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'

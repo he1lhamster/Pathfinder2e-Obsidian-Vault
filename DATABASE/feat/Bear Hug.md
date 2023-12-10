@@ -1,23 +1,14 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Bear Hug
-frequency: null
-heighten_level: null
 id: '4088'
 level: '6'
 name: Bear Hug
-prerequisite: null
 rarity: Common
 requirement: Your last action was a successful claw Strike.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

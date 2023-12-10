@@ -1,28 +1,7 @@
 ﻿---
-bulk: '2'
-damage: 1d8 S
-deity: null
-favored_weapon: null
-hands: '1'
-id: '158'
-item_category: Weapons
-item_subcategory: Base Weapons
-level: '0'
+id: '120'
 name: Rhoka Sword
-price: 4 gp
-range: null
-rarity: Uncommon
-rus_type_level: null
-source: '[[DATABASE/source/Pathfinder 165. Eyes of Empty Death|Pathfinder #165: Eyes
-  of Empty Death]]'
-trait:
-- '[[DATABASE/trait/Deadly|Deadly d8]]'
-- '[[DATABASE/trait/Two-Hand|Two-Hand1d10]]'
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
-type: Weapon
-weapon_category: Advanced
-weapon_group: '[[DATABASE/weapongroup/Sword|Sword]]'
-weapon_type: Melee
+source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 
 ---
 # Rhoka Sword

@@ -1,20 +1,11 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Elemental Eyes
-frequency: null
-heighten_level: null
 id: '2545'
 level: '1'
 name: Elemental Eyes
 prerequisite: low-light vision
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Ardande|Ardande]]'
 - '[[DATABASE/trait/Ifrit|Ifrit]]'
@@ -23,7 +14,6 @@ trait:
 - '[[DATABASE/trait/Sylph|Sylph]]'
 - '[[DATABASE/trait/Talos|Talos]]'
 - '[[DATABASE/trait/Undine|Undine]]'
-trigger: null
 type: Feat
 
 ---

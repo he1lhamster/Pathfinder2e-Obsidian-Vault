@@ -2,7 +2,6 @@
 id: '396'
 name: Catalyst
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 trait:
 - Catalyst

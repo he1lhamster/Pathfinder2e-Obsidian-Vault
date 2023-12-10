@@ -1,25 +1,17 @@
 ﻿---
 ac: '25'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Biting Snakes
 - Focus Gaze
 - Petrifying Gaze
 - Serpent Venom
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+15'
-hardness: null
 hp: '105'
 id: '297'
-immunity: null
 intelligence: '+2'
 land_speed: '25'
 language:
@@ -30,9 +22,6 @@ name: Medusa
 perception: '+16'
 rarity: Common
 reflex: '+16'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -43,19 +32,16 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 25 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+14'
 wisdom: '+1'
 

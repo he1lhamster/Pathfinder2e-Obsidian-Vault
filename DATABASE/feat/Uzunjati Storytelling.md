@@ -1,27 +1,19 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Uzunjati Storytelling
-frequency: null
-heighten_level: null
 id: '1109'
+leads_to: '[[DATABASE/feat/Uzunjati Recollection|Uzunjati Recollection]]'
 level: '6'
 name: Uzunjati Storytelling
 prerequisite: '[[DATABASE/feat/Magaambyan Attendant Dedication|Magaambyan Attendant
   Dedication]] ; Uzunjati affiliation;master in a [[DATABASE/action/Recall Knowledge|Recall
   Knowledge]] skill'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

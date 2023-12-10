@@ -1,13 +1,10 @@
 ﻿---
 alignment: LE
-element: null
 id: '18'
 name: Hell
 plane_category: Outer Sphere Planes
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
-trait: null
 type: Plane
 
 ---

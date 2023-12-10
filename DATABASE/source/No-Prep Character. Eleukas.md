@@ -2,9 +2,6 @@
 id: '68'
 name: No-Prep Character. Eleukas
 rarity: Common
-rus_type_level: null
-source: null
-trait: null
 type: Source
 
 ---

@@ -1,27 +1,20 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Bat Form
 frequency: once per hour
-heighten_level: null
 id: '3552'
 level: '10'
 name: Bat Form
 prerequisite: '[[DATABASE/feat/Vampire Dedication|Vampire Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Divine|Divine]]'
 - '[[DATABASE/trait/Polymorph|Polymorph]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,10 +1,8 @@
 ﻿---
 ac: '43'
 alignment: N
-all_resistance: null
 burrow_speed: '50'
 charisma: '-1'
-climb_speed: null
 constitution: '+8'
 creature_ability:
 - Annihilation Beams
@@ -13,12 +11,8 @@ creature_ability:
 - Immunity to Magic
 - Powerful Blows
 - Trample
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+38'
-hardness: null
 hp: '325'
 id: '253'
 immunity:
@@ -38,7 +32,6 @@ immunity:
 - unconscious
 intelligence: '-4'
 land_speed: '40'
-language: null
 level: '19'
 max_speed: '50'
 name: Guthallath
@@ -47,8 +40,6 @@ rarity: Rare
 reflex: '+32'
 resistance:
 - physical 15 (except adamantine)
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - '[[DATABASE/spell/True Seeing|true seeing]]'
@@ -67,7 +58,6 @@ strength: '+10'
 strength_req: '10'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Rare|Rare]]'
@@ -75,7 +65,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+30'
 wisdom: '+0'
 

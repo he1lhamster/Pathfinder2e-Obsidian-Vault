@@ -3,9 +3,7 @@ creature_family: Dragon, Silver
 id: '174'
 name: Dragon, Silver
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
-trait: null
 type: Creature Family
 
 ---

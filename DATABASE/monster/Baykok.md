@@ -1,10 +1,7 @@
 ﻿---
 ac: '27'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Arrow of Despair
@@ -12,12 +9,9 @@ creature_ability:
 - Devour Life
 - Frightful Presence
 - Wasting Curse
-creature_family: null
 dexterity: '+4'
-element: null
 fly_speed: '40'
 fortitude: '+20'
-hardness: null
 hp: 200 ( negative healing )
 id: '1076'
 immunity:
@@ -36,9 +30,6 @@ name: Baykok
 perception: '+19'
 rarity: Common
 reflex: '+19'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -50,12 +41,10 @@ source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 30 feet
 - fly 40 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Undead|Undead]]'
 type: Creature

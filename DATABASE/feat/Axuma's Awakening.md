@@ -1,25 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Axuma's Awakening
-frequency: null
-heighten_level: null
 id: '4161'
 level: '11'
 name: Axuma's Awakening
 prerequisite: Exposure to the Well of Axuma
 rarity: Rare
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 191. The Destiny War|Pathfinder #191: The Destiny
   War]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Feat
 
 ---

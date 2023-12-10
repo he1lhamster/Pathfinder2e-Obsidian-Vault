@@ -1,29 +1,15 @@
 ﻿---
 actions: '[two-actions]'
 area: 10-foot emanation
-bloodline: null
-component: null
-cost: null
-deity: null
-domain: null
-duration: null
 element: Air
 heighten: 6th
 heighten_level: 4, 6
 id: '1303'
-lesson: null
 level: '4'
-mystery: null
 name: Airlift
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Reflex
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-target: null
 tradition:
 - Arcane
 - Primal
@@ -31,7 +17,6 @@ trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
-trigger: null
 type: Spell
 
 ---

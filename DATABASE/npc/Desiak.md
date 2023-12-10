@@ -1,22 +1,15 @@
 ﻿---
 ac: '27'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Dual Assault
 - Erupt Bone Spur
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+16'
 hp: '135'
 id: '1786'
-immunity: null
 intelligence: '+2'
 land_speed: '25'
 language:
@@ -31,7 +24,6 @@ rarity: Unique
 reflex: '+18'
 resistance:
 - '[[DATABASE/trait/Negative|negative]] 4'
-rus_type_level: null
 sense:
 - low-light vision
 size: Medium
@@ -44,12 +36,10 @@ source: '[[DATABASE/source/Pathfinder 176. Lost Mammoth Valley|Pathfinder #176: 
   Mammoth Valley]]'
 speed:
 - 25 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Human|Human]]'
@@ -58,7 +48,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+13'
 wisdom: '+1'
 

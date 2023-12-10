@@ -1,19 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
-frequency: null
 id: '1405'
 name: Request Foreign Aid
 rarity: Common
 requirement: You have diplomatic relations with the group you are requesting aid from.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
 - '[[DATABASE/trait/Downtime|Downtime]]'
 - '[[DATABASE/trait/Leadership|Leadership]]'
-trigger: null
 type: Action
 
 ---

@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Eclectic Polymath
-frequency: null
-heighten_level: null
 id: '201'
 level: '12'
 name: Eclectic Polymath
 prerequisite: '[[DATABASE/feat/Esoteric Polymath|Esoteric Polymath]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Bard|Bard]]'
-trigger: null
 type: Feat
 
 ---

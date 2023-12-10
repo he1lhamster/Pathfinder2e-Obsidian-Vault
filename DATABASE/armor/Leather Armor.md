@@ -12,12 +12,9 @@ level: '0'
 name: Leather Armor
 price: 2 gp
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-speed_penalty: null
 strength: '+10'
 strength_req: '10'
-trait: null
 type: Armor
 
 ---

@@ -1,10 +1,7 @@
 ﻿---
 ac: '26'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Change Shape
@@ -13,13 +10,9 @@ creature_ability:
 - Rusting Touch
 creature_family: '[[DATABASE/monsterfamily/Hag|Hag]]'
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+16'
-hardness: null
 hp: '135'
 id: '2054'
-immunity: null
 intelligence: '+3'
 land_speed: '25'
 language:
@@ -33,9 +26,6 @@ name: Rust Hag
 perception: '+16'
 rarity: Uncommon
 reflex: '+15'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -48,12 +38,10 @@ skill:
 source: '[[DATABASE/source/Pathfinder 182. Graveclaw|Pathfinder #182: Graveclaw]]'
 speed:
 - 25 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Hag|Hag]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'

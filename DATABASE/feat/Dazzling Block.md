@@ -1,10 +1,5 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Dazzling Block
-frequency: null
-heighten_level: null
 id: '2869'
 level: '10'
 name: Dazzling Block
@@ -12,16 +7,13 @@ prerequisite: '[[DATABASE/action/Arcane Cascade|Arcane Cascade]] , [[DATABASE/ma
   Targe|sparkling targe hybrid study]]'
 rarity: Common
 requirement: You are in Arcane Cascade stance.
-rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Light|Light]]'
 - '[[DATABASE/trait/Magus|Magus]]'
 - '[[DATABASE/trait/Visual|Visual]]'
-trigger: null
 type: Feat
 
 ---

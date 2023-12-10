@@ -1,27 +1,15 @@
 ﻿---
 actions: '[one-action]'
-area: null
-bloodline: null
 component:
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: until the start of your next turn
-element: null
-heighten: null
 heighten_level: '1'
 id: '142'
-lesson: null
 level: '1'
 mystery: '[[DATABASE/oraclemystery/Ancestors|Ancestors]]'
 name: Guidance
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: 1 creature
@@ -32,7 +20,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Cantrip|Cantrip]]'
 - '[[DATABASE/trait/Divination|Divination]]'
-trigger: null
 type: Cantrip
 
 ---

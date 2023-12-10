@@ -4,7 +4,6 @@ level: '2'
 name: Edgewatch Detective
 prerequisite: Intelligence 14 or Wisdom 14
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 157. Devil at the Dreaming Palace|Pathfinder
   #157: Devil at the Dreaming Palace]]'
 trait:

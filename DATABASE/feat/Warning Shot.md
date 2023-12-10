@@ -1,23 +1,15 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Warning Shot
-frequency: null
-heighten_level: null
 id: '3164'
 level: '2'
 name: Warning Shot
 prerequisite: Trained in [[DATABASE/skill/Intimidation|Intimidation]]
 rarity: Common
 requirement: You're wielding a loaded firearm.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Gunslinger|Gunslinger]]'
-trigger: null
 type: Feat
 
 ---

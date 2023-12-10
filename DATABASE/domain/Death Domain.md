@@ -1,7 +1,6 @@
 ﻿---
 advanced_apocryphal_spell: '[[DATABASE/spell/Euphoric Renewal|Euphoric Renewal]]'
 advanced_domain_spell: '[[DATABASE/spell/Eradicate Undeath|Eradicate Undeath]]'
-apocryphal_spell: null
 deity:
 - '[[DATABASE/deity/Achaekek|Achaekek]]'
 - '[[DATABASE/deity/Ahriman|Ahriman]]'
@@ -31,9 +30,7 @@ domain_spell: '[[DATABASE/spell/Death''s Call|Death''s Call]]'
 id: '7'
 name: Death Domain
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Domain
 
 ---

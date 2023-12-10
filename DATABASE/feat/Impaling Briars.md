@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Impaling Briars
-frequency: null
-heighten_level: null
 id: '348'
 level: '16'
 name: Impaling Briars
 prerequisite: '[[DATABASE/druidicorder/Leaf|leaf order]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Druid|Druid]]'
-trigger: null
 type: Feat
 
 ---

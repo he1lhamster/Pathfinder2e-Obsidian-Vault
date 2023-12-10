@@ -1,10 +1,7 @@
 ﻿---
 ac: '29'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Boneshard Burst
@@ -13,10 +10,7 @@ creature_ability:
 - Swarming Gnaw
 creature_family: '[[DATABASE/monsterfamily/Skull Swarm|Skull Swarm]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+20'
-hardness: null
 hp: 120 ( negative healing )
 id: '1307'
 immunity:
@@ -29,7 +23,6 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '25'
-language: null
 level: '10'
 max_speed: '25'
 name: Clacking Skull Swarm
@@ -43,8 +36,6 @@ resistance:
 - fire 10
 - piercing 10
 - slashing 10
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -53,12 +44,10 @@ skill:
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 25 feet
-spell: null
 strength: '-3'
 strength_req: '-3'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Mindless|Mindless]]'
 - '[[DATABASE/trait/Swarm|Swarm]]'

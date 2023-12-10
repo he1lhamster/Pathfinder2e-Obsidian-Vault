@@ -1,21 +1,13 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Banishing Blow
-frequency: null
-heighten_level: null
 id: '1242'
 level: '20'
 name: Banishing Blow
 prerequisite: '[[DATABASE/feat/Fiendsbane Oath|Fiendsbane Oath]]'
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 156. The Apocalypse Prophet|Pathfinder #156:
   The Apocalypse Prophet]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Champion|Champion]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

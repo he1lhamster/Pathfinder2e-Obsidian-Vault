@@ -1,10 +1,7 @@
 ﻿---
 ac: '22'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Attack of Opportunity
@@ -14,10 +11,7 @@ creature_ability:
 - Wriggling Beard
 creature_family: '[[DATABASE/monsterfamily/Devil|Devil]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+15'
-hardness: null
 hp: '60'
 id: '110'
 immunity:
@@ -38,8 +32,6 @@ reflex: '+11'
 resistance:
 - physical 5 (except [[DATABASE/equipment/Silver Weapon|silver]] )
 - '[[DATABASE/trait/Poison|poison]] 10'
-rus_type_level: null
-school: null
 sense:
 - greater darkvision
 size: Medium
@@ -58,7 +50,6 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Devil|Devil]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

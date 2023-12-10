@@ -1,8 +1,6 @@
 ﻿---
 ac: '25'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
 climb_speed: '10'
 constitution: '+4'
@@ -13,13 +11,9 @@ creature_ability:
 - Surprise Attack
 creature_family: '[[DATABASE/monsterfamily/Duergar|Duergar]]'
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+15'
-hardness: null
 hp: '115'
 id: '2707'
-immunity: null
 intelligence: '+4'
 land_speed: '25'
 language:
@@ -32,9 +26,6 @@ name: Hryngar Assassin
 perception: '+16'
 rarity: Uncommon
 reflex: '+17'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -57,7 +48,6 @@ strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Duergar|Duergar]]'
 - '[[DATABASE/trait/Dwarf|Dwarf]]'
@@ -67,7 +57,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+12'
 wisdom: '+3'
 

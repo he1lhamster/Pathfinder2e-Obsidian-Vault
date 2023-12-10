@@ -1,23 +1,16 @@
 ﻿---
 ac: '17'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Viscous Choke
 - Vulnerable to Sunlight
 creature_family: '[[DATABASE/monsterfamily/Gremlin|Gremlin]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+5'
-hardness: null
 hp: '18'
 id: '1179'
-immunity: null
 intelligence: '+1'
 land_speed: '20'
 language:
@@ -28,9 +21,6 @@ name: Fuath
 perception: '+8'
 rarity: Common
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Tiny

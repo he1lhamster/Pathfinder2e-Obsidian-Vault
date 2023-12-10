@@ -1,8 +1,6 @@
 ﻿---
 bulk: L
 damage: 1d8 P
-deity: null
-favored_weapon: null
 hands: 1+
 id: '248'
 item_category: Weapons
@@ -12,7 +10,6 @@ name: Sun Sling
 price: 3 gp
 range: 100 ft.
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 172. Secrets of the Temple City|Pathfinder #172:
   Secrets of the Temple City]]'
 trait:

@@ -2,9 +2,7 @@
 id: '204'
 level: '2'
 name: Harrower
-prerequisite: null
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Stolen Fate Player''s Guide|Stolen Fate Player''s Guide]]'
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

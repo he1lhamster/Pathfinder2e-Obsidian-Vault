@@ -2,7 +2,6 @@
 id: '57'
 name: Elemental
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - Elemental

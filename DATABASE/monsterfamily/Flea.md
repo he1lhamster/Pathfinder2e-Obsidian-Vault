@@ -3,10 +3,8 @@ creature_family: Flea
 id: '117'
 name: Flea
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 151. The Show Must Go On|Pathfinder #151: The
   Show Must Go On]]'
-trait: null
 type: Creature Family
 
 ---

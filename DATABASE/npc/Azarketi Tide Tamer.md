@@ -1,10 +1,7 @@
 ﻿---
 ac: '25'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Aquatic Predator
@@ -13,12 +10,9 @@ creature_ability:
 - Submerged Stealth
 creature_family: '[[DATABASE/monsterfamily/Azarketi|Azarketi]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+15'
 hp: '115'
 id: '1749'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -29,9 +23,6 @@ name: Azarketi Tide Tamer
 perception: '+15'
 rarity: Common
 reflex: '+18'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +15'
@@ -43,7 +34,6 @@ skill:
 source: '[[DATABASE/source/Absalom, City of Lost Omens|Absalom, City of Lost Omens]]'
 speed:
 - 25 feet; swim 25 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
@@ -54,10 +44,8 @@ trait:
 - '[[DATABASE/trait/Azarketi|Azarketi]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+12'
 wisdom: '+1'
 

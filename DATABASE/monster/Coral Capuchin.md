@@ -1,23 +1,17 @@
 ﻿---
 ac: '16'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
 climb_speed: '15'
 constitution: '+1'
 creature_ability:
 - Capuchin's Curse
 - Moisture Dependency
-creature_family: null
 dexterity: '+4'
-element: null
 fly_speed: '15'
 fortitude: '+4'
-hardness: null
 hp: '20'
 id: '1102'
-immunity: null
 intelligence: '-2'
 land_speed: '25'
 language:
@@ -28,9 +22,6 @@ name: Coral Capuchin
 perception: '+8'
 rarity: Common
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Tiny
@@ -45,7 +36,6 @@ speed:
 - climb 15 feet
 - fly 15 feet
 - swim 15 feet
-spell: null
 strength: '+0'
 strength_req: '0'
 strongest_save:
@@ -58,7 +48,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+8'
 wisdom: '+3'
 

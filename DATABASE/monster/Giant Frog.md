@@ -1,35 +1,24 @@
 ﻿---
 ac: '15'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Sticky Feet
 - Tongue Grab
 creature_family: '[[DATABASE/monsterfamily/Frog|Frog]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+8'
-hardness: null
 hp: '30'
 id: '675'
-immunity: null
 intelligence: '-4'
 land_speed: '25'
-language: null
 level: '1'
 max_speed: '25'
 name: Giant Frog
 perception: '+7'
 rarity: Common
 reflex: '+7'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
@@ -41,7 +30,6 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 25 feet
 - swim 25 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
@@ -53,7 +41,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+5'
 wisdom: '+2'
 

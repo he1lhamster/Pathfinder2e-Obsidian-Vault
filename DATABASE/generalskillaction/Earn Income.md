@@ -2,9 +2,7 @@
 id: '2'
 name: Earn Income
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: General Skill Action
 
 ---

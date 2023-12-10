@@ -1,21 +1,14 @@
 ﻿---
 ac: '39'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+9'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Change Shape
 - Guileful Charm
 - Sapping Critical
-creature_family: null
 dexterity: '+8'
-element: null
-fly_speed: null
 fortitude: '+26'
-hardness: null
 hp: '310'
 id: '1413'
 immunity:
@@ -31,9 +24,6 @@ name: Gumiho
 perception: '+29'
 rarity: Uncommon
 reflex: '+32'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 60 feet'
@@ -67,7 +57,6 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

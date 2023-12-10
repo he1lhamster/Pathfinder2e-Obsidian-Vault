@@ -1,10 +1,7 @@
 ﻿---
 ac: '19'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Change Shape
@@ -13,13 +10,9 @@ creature_ability:
 - Verdant Burst
 creature_family: '[[DATABASE/monsterfamily/Leshy|Leshy]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+8'
-hardness: null
 hp: '30'
 id: '281'
-immunity: null
 intelligence: '-1'
 land_speed: '25'
 language:
@@ -33,9 +26,6 @@ name: Fungus Leshy
 perception: '+6'
 rarity: Common
 reflex: '+10'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Small
@@ -52,7 +42,6 @@ strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fungus|Fungus]]'
 - '[[DATABASE/trait/Leshy|Leshy]]'
@@ -60,7 +49,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+6'
 wisdom: '+2'
 

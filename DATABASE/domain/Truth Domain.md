@@ -1,7 +1,5 @@
 ﻿---
-advanced_apocryphal_spell: null
 advanced_domain_spell: '[[DATABASE/spell/Glimpse the Truth|Glimpse the Truth]]'
-apocryphal_spell: null
 deity:
 - '[[DATABASE/deity/Dammerich|Dammerich]]'
 - '[[DATABASE/deity/Dranngvit|Dranngvit]]'
@@ -32,9 +30,7 @@ domain_spell: '[[DATABASE/spell/Word of Truth|Word of Truth]]'
 id: '32'
 name: Truth Domain
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Domain
 
 ---

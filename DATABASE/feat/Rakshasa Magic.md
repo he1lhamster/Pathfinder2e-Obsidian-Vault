@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Rakshasa Magic
-frequency: null
-heighten_level: null
 id: '2455'
 level: '9'
 name: Rakshasa Magic
 prerequisite: '[[DATABASE/feat/Beastbrood|Beastbrood]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Tiefling|Tiefling]]'
-trigger: null
 type: Feat
 
 ---

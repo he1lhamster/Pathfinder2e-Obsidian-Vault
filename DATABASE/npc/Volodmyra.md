@@ -1,10 +1,7 @@
 ﻿---
 ac: '18'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Attack of Opportunity
@@ -12,14 +9,10 @@ creature_ability:
 - Spinning Sweep Requirements Volodmyra successfully Strikes a second enemy when making
   a sweep attack with her axe and is within 10 feet of a third enemy she hasn't yet
   attacked
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+11'
 hp: '48'
 id: '2221'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -31,9 +24,6 @@ name: Volodmyra
 perception: '+7'
 rarity: Unique
 reflex: '+9'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +7'
@@ -44,21 +34,17 @@ skill:
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 speed:
 - 25 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+7'
 wisdom: '+0'
 

@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Natural Medicine|Natural Medicine]]'
 id: '20'
 name: Herbalist
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Nature|Nature]]'
 - Herbalism [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

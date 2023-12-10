@@ -1,10 +1,6 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Fane's Escape
-frequency: null
-heighten_level: null
 id: '2267'
 level: '4'
 name: Fane's Escape
@@ -12,15 +8,12 @@ prerequisite: Expert in [[DATABASE/skill/Stealth|Stealth]]
 rarity: Uncommon
 requirement: You have a deck of [[DATABASE/equipment/Playing Cards|playing cards]]
   in your possession.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
 subcategory: stealth
 trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Skill|Skill]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

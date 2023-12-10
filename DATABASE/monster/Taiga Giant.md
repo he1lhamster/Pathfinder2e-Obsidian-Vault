@@ -1,10 +1,7 @@
 ﻿---
 ac: '32'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Ancestral Guardian
@@ -16,10 +13,7 @@ creature_ability:
 - Throw Rock
 creature_family: '[[DATABASE/monsterfamily/Giant|Giant]]'
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+25'
-hardness: null
 hp: '230'
 id: '680'
 immunity:
@@ -35,9 +29,6 @@ name: Taiga Giant
 perception: '+23'
 rarity: Common
 reflex: '+20'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - see invisibility
@@ -51,12 +42,10 @@ skill:
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 30 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Giant|Giant]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -64,7 +53,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Reflex
-weakness: null
 will: '+22'
 wisdom: '+4'
 

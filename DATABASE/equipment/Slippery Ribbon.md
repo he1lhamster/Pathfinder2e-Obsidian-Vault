@@ -1,45 +1,16 @@
 ﻿---
-ac: null
 actions: '[free-action]'
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '793'
 item_category: Consumables
 item_subcategory: Talismans
-land_speed: null
 level: '1'
-max_speed: null
 name: Slippery Ribbon
-onset: null
 price: 12 gp
-range: null
 rarity: Uncommon
-reflex: null
 requirement: You are an expert in Acrobatics.
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
-size: null
 source: '[[DATABASE/source/The Slithering|The Slithering]]'
-spell: null
-stage: null
 subcategory: consumable/talisman
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Consumable|Consumable]]'
 - '[[DATABASE/trait/Magical|Magical]]'
@@ -51,9 +22,6 @@ trigger: You succeed at an [[DATABASE/skill/Acrobatics|Acrobatics]] check to [[D
   the enemy's space
 type: Item
 usage: affixed to armor
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Slippery Ribbon<span class="item-type">Item 1</span>

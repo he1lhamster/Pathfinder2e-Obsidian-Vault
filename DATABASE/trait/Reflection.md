@@ -2,7 +2,6 @@
 id: '431'
 name: Reflection
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 trait:
 - Reflection

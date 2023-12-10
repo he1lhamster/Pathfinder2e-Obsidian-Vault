@@ -1,20 +1,15 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Mummy's Despair
 frequency: once per hour
-heighten_level: null
 id: '3524'
+leads_to: '[[DATABASE/feat/Greater Despair|Greater Despair]]'
 level: '6'
 name: Mummy's Despair
 prerequisite: '[[DATABASE/feat/Mummy Dedication|Mummy Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Enchantment
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Aura|Aura]]'
@@ -23,7 +18,6 @@ trait:
 - '[[DATABASE/trait/Enchantment|Enchantment]]'
 - '[[DATABASE/trait/Fear|Fear]]'
 - '[[DATABASE/trait/Mental|Mental]]'
-trigger: null
 type: Feat
 
 ---

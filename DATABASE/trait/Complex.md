@@ -2,7 +2,6 @@
 id: '30'
 name: Complex
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - Complex

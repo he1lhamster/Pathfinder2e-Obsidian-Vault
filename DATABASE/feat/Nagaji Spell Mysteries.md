@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Nagaji Spell Mysteries
-frequency: null
-heighten_level: null
 id: '3988'
+leads_to: '[[DATABASE/feat/Nagaji Spell Expertise|Nagaji Spell Expertise]]'
 level: '5'
 name: Nagaji Spell Mysteries
 prerequisite: at least one innate spell from a nagaji heritage or ancestry feat
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Nagaji|Nagaji]]'
-trigger: null
 type: Feat
 
 ---

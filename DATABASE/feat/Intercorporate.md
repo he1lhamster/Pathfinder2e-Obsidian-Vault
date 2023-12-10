@@ -1,24 +1,16 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Intercorporate
 frequency: once per day
-heighten_level: null
 id: '2481'
 level: '5'
 name: Intercorporate
-prerequisite: null
 rarity: Common
 requirement: You're afflicted by a [[DATABASE/trait/Disease|disease]] or [[DATABASE/trait/Poison|poison]]
   , or are taking [[DATABASE/condition/Persistent Damage|persistent damage]] .
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Aphorite|Aphorite]]'
-trigger: null
 type: Feat
 
 ---

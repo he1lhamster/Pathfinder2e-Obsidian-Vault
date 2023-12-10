@@ -1,28 +1,19 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Corrupted Shield
-frequency: null
-heighten_level: null
 id: '1674'
 level: '6'
 name: Corrupted Shield
 prerequisite: '[[DATABASE/class_/Champion|divine ally (shield)]] ; [[DATABASE/championtenet/Evil|tenets
   of evil]]'
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Champion|Champion]]'
 - '[[DATABASE/trait/Divine|Divine]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Negative|Negative]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

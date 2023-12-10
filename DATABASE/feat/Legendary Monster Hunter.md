@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Legendary Monster Hunter
-frequency: null
-heighten_level: null
 id: '537'
 level: '16'
 name: Legendary Monster Hunter
 prerequisite: Legendary in [[DATABASE/skill/Nature|Nature]] ; [[DATABASE/feat/Master
   Monster Hunter|Master Monster Hunter]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Ranger|Ranger]]'
-trigger: null
 type: Feat
 
 ---

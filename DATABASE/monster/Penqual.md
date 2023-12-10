@@ -1,10 +1,7 @@
 ﻿---
 ac: '37'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+8'
-climb_speed: null
 constitution: '+8'
 creature_ability:
 - Crowded Mob
@@ -15,10 +12,7 @@ creature_ability:
 - Skip Between
 creature_family: '[[DATABASE/monsterfamily/Sahkil|Sahkil]]'
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+29'
-hardness: null
 hp: '205'
 id: '1022'
 immunity:
@@ -41,8 +35,6 @@ rarity: Uncommon
 reflex: '+24'
 resistance:
 - physical 10
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Huge
@@ -66,7 +58,6 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fiend|Fiend]]'
 - '[[DATABASE/trait/Sahkil|Sahkil]]'

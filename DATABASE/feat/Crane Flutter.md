@@ -1,20 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Crane Flutter
-frequency: null
-heighten_level: null
 id: '450'
 level: '6'
 name: Crane Flutter
 prerequisite: '[[DATABASE/feat/Crane Stance|Crane Stance]]'
 rarity: Common
 requirement: You are in Crane Stance
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Monk|Monk]]'
 trigger: You are targeted with a melee attack by an attacker you can see.

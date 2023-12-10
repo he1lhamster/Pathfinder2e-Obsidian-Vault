@@ -1,22 +1,15 @@
 ﻿---
 ac: '24'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Light Pulse
 - Pod Prison
 - Pod Spawn
 - Swallow Whole
-creature_family: null
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+18'
-hardness: null
 hp: 120 ( fast healing 10)
 id: '730'
 immunity:
@@ -33,8 +26,6 @@ rarity: Uncommon
 reflex: '+10'
 resistance:
 - physical 10 (except slashing)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Huge
@@ -44,12 +35,10 @@ skill:
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 20 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Plant|Plant]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

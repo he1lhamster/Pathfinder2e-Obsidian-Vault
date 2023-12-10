@@ -1,22 +1,15 @@
 ﻿---
 ac: '40'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Aquatic Assault
 - Bardic Lore
 - Harness Wellspring
 - Wellspring Guardian
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+31'
-hardness: null
 hp: 400 ( negative healing )
 id: '2432'
 immunity:
@@ -46,8 +39,6 @@ resistance:
 - '[[DATABASE/trait/Fire|fire]] 20'
 - piercing 20
 - slashing 20
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/spell/True Seeing|true seeing]]'
@@ -93,7 +84,6 @@ vision: Darkvision
 weakest_save:
 - Fortitude
 - Reflex
-weakness: null
 will: '+37'
 wisdom: '+6'
 

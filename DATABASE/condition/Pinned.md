@@ -1,7 +1,6 @@
 ﻿---
 id: '54'
 name: Pinned
-source: null
 
 ---
 # Pinned

@@ -1,10 +1,8 @@
 ﻿---
 ac: '40'
 alignment: N
-all_resistance: null
 burrow_speed: '40'
 charisma: '-1'
-climb_speed: null
 constitution: '+9'
 creature_ability:
 - Breath Weapon
@@ -20,25 +18,19 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Cave Worm|Cave Worm]]'
 dexterity: '-1'
 element: Fire
-fly_speed: null
 fortitude: '+36'
-hardness: null
 hp: 410 (fire healing)
 id: '75'
 immunity:
 - '[[DATABASE/trait/Fire|fire]]'
 intelligence: '-3'
 land_speed: '40'
-language: null
 level: '18'
 max_speed: '40'
 name: Crimson Worm
 perception: '+25'
 rarity: Rare
 reflex: '+25'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - tremorsense (imprecise) 100 feet
@@ -50,7 +42,6 @@ speed:
 - 40 feet
 - burrow 40 feet
 - swim 20 feet
-spell: null
 strength: '+10'
 strength_req: '10'
 strongest_save:

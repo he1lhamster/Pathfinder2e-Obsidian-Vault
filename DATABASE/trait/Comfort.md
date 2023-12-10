@@ -2,7 +2,6 @@
 id: '203'
 name: Comfort
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - Comfort

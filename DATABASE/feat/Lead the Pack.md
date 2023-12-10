@@ -1,25 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Lead the Pack
-frequency: null
-heighten_level: null
 id: '1909'
 level: '16'
 name: Lead the Pack
 prerequisite: '[[DATABASE/feat/Mature Beastmaster Companion|Mature Beastmaster Companion]]
   ; you have multiple animalcompanions'
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

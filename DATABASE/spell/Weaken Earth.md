@@ -1,27 +1,15 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
-component: null
-cost: null
-deity: null
-domain: null
 duration: 1 minute
 element: Earth
 heighten: '+2'
 heighten_level: 1, 3, 5, 7, 9
 id: '1345'
-lesson: null
 level: '1'
-mystery: null
 name: Weaken Earth
-patron_theme: null
 range: touch
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Fortitude
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 target: 1 creature, unattended object, or hazard or structure made of stone or earth
 tradition:
@@ -31,7 +19,6 @@ trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
-trigger: null
 type: Spell
 
 ---

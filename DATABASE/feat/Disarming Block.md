@@ -1,21 +1,13 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Disarming Block
-frequency: null
-heighten_level: null
 id: '1896'
 level: '4'
 name: Disarming Block
 prerequisite: '[[DATABASE/feat/Bastion Dedication|Bastion Dedication]] ; Trained in
   [[DATABASE/skill/Athletics|Athletics]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 trigger: You [[DATABASE/feat/Shield Block|Shield Block]] a melee Strike made with

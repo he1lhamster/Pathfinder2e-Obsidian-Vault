@@ -2,7 +2,6 @@
 id: '464'
 name: Weather
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
 trait:
 - Weather

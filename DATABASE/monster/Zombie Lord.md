@@ -1,10 +1,7 @@
 ﻿---
 ac: '20'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Command Zombie
@@ -12,10 +9,7 @@ creature_ability:
 - Shamble Forth!
 creature_family: '[[DATABASE/monsterfamily/Zombie|Zombie]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+11'
-hardness: null
 hp: 80 ( negative healing )
 id: '1921'
 immunity:
@@ -35,9 +29,6 @@ name: Zombie Lord
 perception: '+13'
 rarity: Uncommon
 reflex: '+10'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -61,7 +52,6 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 - '[[DATABASE/trait/Undead|Undead]]'

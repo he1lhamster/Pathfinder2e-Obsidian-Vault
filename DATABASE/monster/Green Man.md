@@ -1,8 +1,6 @@
 ﻿---
 ac: '51'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+8'
 climb_speed: '40'
 constitution: '+11'
@@ -19,15 +17,10 @@ creature_ability:
 - Plantsense
 - Root In Place
 - Vine Forest
-creature_family: null
 dexterity: '+9'
-element: null
-fly_speed: null
 fortitude: '+43'
-hardness: null
 hp: '525'
 id: '1176'
-immunity: null
 intelligence: '+7'
 land_speed: '40'
 language:
@@ -43,8 +36,6 @@ reflex: '+39'
 resistance:
 - bludgeoning 20
 - piercing 20
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - plantsense 60 feet
@@ -77,7 +68,6 @@ strength: '+12'
 strength_req: '12'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Leshy|Leshy]]'
 - '[[DATABASE/trait/Plant|Plant]]'

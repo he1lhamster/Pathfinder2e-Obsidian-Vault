@@ -1,25 +1,20 @@
 ﻿---
 ac: '21'
 alignment: N
-all_resistance: null
 burrow_speed: '20'
 charisma: '+3'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Choking Sands
 - Collapse Into Sand
 - Susurrating Song
 - Water Vulnerability
-creature_family: null
 dexterity: '+4'
 element: Air, Earth
 fly_speed: '20'
 fortitude: '+12'
-hardness: null
 hp: '92'
 id: '2531'
-immunity: null
 intelligence: '-2'
 land_speed: '30'
 language:
@@ -36,8 +31,6 @@ resistance:
 - '[[DATABASE/trait/Electricity|electricity]] 5'
 - piercing 5
 - slashing 5
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) 30 feet'
@@ -52,12 +45,10 @@ speed:
 - 30 feet
 - burrow 20 feet
 - fly 20 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Beast|Beast]]'
@@ -67,7 +58,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+9'
 wisdom: '+2'
 

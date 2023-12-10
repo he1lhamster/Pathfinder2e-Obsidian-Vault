@@ -1,20 +1,13 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Animal Rage
-frequency: null
-heighten_level: null
 id: '151'
 level: '8'
 name: Animal Rage
 prerequisite: '[[DATABASE/barbarianinstinct/Animal Instinct|animal instinct]]'
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Barbarian|Barbarian]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
@@ -22,7 +15,6 @@ trait:
 - '[[DATABASE/trait/Primal|Primal]]'
 - '[[DATABASE/trait/Rage|Rage]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Feat
 
 ---

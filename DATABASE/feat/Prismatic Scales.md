@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Prismatic Scales
-frequency: null
-heighten_level: null
 id: '3999'
 level: '17'
 name: Prismatic Scales
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Nagaji|Nagaji]]'
-trigger: null
 type: Feat
 
 ---

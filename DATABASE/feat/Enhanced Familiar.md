@@ -1,20 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Enhanced Familiar
-frequency: null
-heighten_level: null
 id: '318'
+leads_to: '[[DATABASE/feat/Incredible Familiar|Incredible Familiar]] , [[DATABASE/feat/Incredible
+  Familiar (Familiar Master)|Incredible Familiar (Familiar Master)]]'
 level: '2'
 name: Enhanced Familiar
 prerequisite: afamiliar
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Druid|Druid]]'
 - '[[DATABASE/trait/Magus|Magus]]'
@@ -22,7 +15,6 @@ trait:
 - '[[DATABASE/trait/Thaumaturge|Thaumaturge]]'
 - '[[DATABASE/trait/Witch|Witch]]'
 - '[[DATABASE/trait/Wizard|Wizard]]'
-trigger: null
 type: Feat
 
 ---

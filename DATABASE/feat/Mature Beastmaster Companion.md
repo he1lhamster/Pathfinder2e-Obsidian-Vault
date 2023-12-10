@@ -1,23 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Mature Beastmaster Companion
-frequency: null
-heighten_level: null
 id: '1903'
+leads_to: '[[DATABASE/feat/Incredible Beastmaster Companion|Incredible Beastmaster
+  Companion]] , [[DATABASE/feat/Lead the Pack|Lead the Pack]]'
 level: '4'
 name: Mature Beastmaster Companion
 prerequisite: '[[DATABASE/feat/Beastmaster Dedication|Beastmaster Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,45 +1,15 @@
 ﻿---
-ac: null
 actions: '[free-action]'
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '2107'
 item_category: Consumables
 item_subcategory: Talismans
-land_speed: null
 level: '14'
-max_speed: null
 name: Grinning Pugwampi
-onset: null
 price: 700 gp
-range: null
 rarity: Uncommon
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Enchantment
-size: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-spell: null
-stage: null
 subcategory: consumable/talisman
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Consumable|Consumable]]'
 - '[[DATABASE/trait/Enchantment|Enchantment]]'
@@ -51,9 +21,6 @@ trigger: You damage a [[DATABASE/condition/Flat-Footed|flat-footed]] creature wi
   the affixedweapon.
 type: Item
 usage: affixed to a weapon
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Grinning Pugwampi<span class="item-type">Item 14</span>

@@ -1,24 +1,17 @@
 ﻿---
 ac: '37'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Disrupting Strikes
 - Grit Teeth
 - Reach Beyond
 - Soul Dance Stance
-creature_family: null
 dexterity: '+8'
-element: null
-fly_speed: null
 fortitude: '+25'
 hp: '251'
 id: '1391'
-immunity: null
 intelligence: '+3'
 land_speed: '45'
 language:
@@ -32,8 +25,6 @@ name: Zhang Yong
 perception: '+23'
 rarity: Unique
 reflex: '+29'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
@@ -50,12 +41,10 @@ source: '[[DATABASE/source/No-Prep Character. Zhang Yong|No-Prep Character: Zhan
   Yong]]'
 speed:
 - '45'
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Half-Orc|Half-Orc]]'
 - '[[DATABASE/trait/Human|Human]]'
@@ -66,7 +55,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+22'
 wisdom: '+5'
 

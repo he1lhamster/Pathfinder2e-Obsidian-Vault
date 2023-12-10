@@ -1,23 +1,14 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Cling
-frequency: null
-heighten_level: null
 id: '1428'
 level: '9'
 name: Cling
-prerequisite: null
 rarity: Common
 requirement: Your last action was a successful Strike.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Goblin|Goblin]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,9 +1,5 @@
 ﻿---
-ac: null
-all_resistance: null
 complexity: Complex
-element: null
-fortitude: null
 hardness: '10'
 hazard_type: Haunt
 hp: 22 per instrument (BT 11)
@@ -15,17 +11,11 @@ immunity:
 level: '4'
 name: Sadistic Conductor
 rarity: Common
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 trait:
 - '[[DATABASE/trait/Complex|Complex]]'
 - '[[DATABASE/trait/Haunt|Haunt]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Sadistic Conductor<span class="item-type">Hazard 4</span>

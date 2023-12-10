@@ -1,37 +1,23 @@
 ﻿---
 actions: '[two-actions]'
 area: 30-foot-radius emanation centered on you
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
 domain:
 - '[[DATABASE/domain/Vigil Domain|Vigil]]'
-duration: null
-element: null
 heighten: '+1'
 heighten_level: 4, 5, 6, 7, 8, 9, 10
 id: '625'
-lesson: null
 level: '4'
-mystery: null
 name: Remember the Lost
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: basicWill
 school: Divination
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
-target: null
-tradition: null
 trait:
 - '[[DATABASE/trait/Divination|Divination]]'
 - '[[DATABASE/trait/Mental|Mental]]'
-trigger: null
 type: Focus
 
 ---

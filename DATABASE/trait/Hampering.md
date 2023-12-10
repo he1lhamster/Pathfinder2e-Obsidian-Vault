@@ -2,7 +2,6 @@
 id: '344'
 name: Hampering
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:
 - Hampering

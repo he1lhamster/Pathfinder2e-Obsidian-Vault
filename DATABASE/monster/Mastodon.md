@@ -1,10 +1,7 @@
 ﻿---
 ac: '26'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Dual Tusks
@@ -12,25 +9,17 @@ creature_ability:
 - Trample
 creature_family: '[[DATABASE/monsterfamily/Elephant|Elephant]]'
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+20'
-hardness: null
 hp: '175'
 id: '668'
-immunity: null
 intelligence: '-4'
 land_speed: '45'
-language: null
 level: '9'
 max_speed: '45'
 name: Mastodon
 perception: '+17'
 rarity: Common
 reflex: '+13'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Scent|scent (imprecise) 30 feet]]'
@@ -41,19 +30,16 @@ skill:
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 45 feet
-spell: null
 strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
 vision: Low-light vision
 weakest_save:
 - Reflex
-weakness: null
 will: '+17'
 wisdom: '+2'
 

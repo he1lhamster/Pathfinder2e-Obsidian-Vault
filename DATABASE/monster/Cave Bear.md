@@ -1,35 +1,24 @@
 ﻿---
 ac: '24'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Mauler
 - Rush
 creature_family: '[[DATABASE/monsterfamily/Bear|Bear]]'
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+16'
-hardness: null
 hp: '95'
 id: '48'
-immunity: null
 intelligence: '-4'
 land_speed: '35'
-language: null
 level: '6'
 max_speed: '35'
 name: Cave Bear
 perception: '+13'
 rarity: Common
 reflex: '+11'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 - scent (imprecise) 30 feet
@@ -40,19 +29,16 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 35 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
 vision: Low-light vision
 weakest_save:
 - Reflex
-weakness: null
 will: '+13'
 wisdom: '+1'
 

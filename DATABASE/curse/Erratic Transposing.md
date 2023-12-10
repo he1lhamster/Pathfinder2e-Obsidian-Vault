@@ -1,11 +1,8 @@
 ﻿---
-element: null
 id: '8'
 level: '11'
 name: Erratic Transposing
 rarity: Rare
-rus_type_level: null
-saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:

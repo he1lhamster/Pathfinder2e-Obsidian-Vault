@@ -1,8 +1,6 @@
 ﻿---
 ac: '24'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
 climb_speed: '25'
 constitution: '+3'
@@ -13,10 +11,7 @@ creature_ability:
 - Snow Vision
 creature_family: '[[DATABASE/monsterfamily/Hag|Hag]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+14'
-hardness: null
 hp: '145'
 id: '1187'
 immunity:
@@ -33,9 +28,6 @@ name: Winter Hag
 perception: '+16'
 rarity: Common
 reflex: '+13'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/spell/See Invisibility|see invisibility]]'
@@ -64,7 +56,6 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Cold|Cold]]'
 - '[[DATABASE/trait/Hag|Hag]]'

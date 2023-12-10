@@ -1,10 +1,8 @@
 ﻿---
 ac: '36'
 alignment: NE
-all_resistance: null
 burrow_speed: '20'
 charisma: '+5'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Barbed Maw
@@ -12,15 +10,11 @@ creature_ability:
 - Implant Core
 - Infestation Aura
 - Manifold Vision
-creature_family: null
 dexterity: '+4'
 element: Earth
-fly_speed: null
 fortitude: '+28'
-hardness: null
 hp: '200'
 id: '249'
-immunity: null
 intelligence: '+2'
 land_speed: '20'
 language:
@@ -33,8 +27,6 @@ rarity: Common
 reflex: '+23'
 resistance:
 - 10 (except adamantine)
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - manifold vision
@@ -47,12 +39,10 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 20 feet; burrow 20 feet
-spell: null
 strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Earth|Earth]]'
@@ -60,7 +50,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+24'
 wisdom: '+5'
 

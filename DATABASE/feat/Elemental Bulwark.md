@@ -1,20 +1,12 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Elemental Bulwark
-frequency: null
-heighten_level: null
 id: '2584'
+leads_to: '[[DATABASE/feat/Improved Elemental Bulwark|Improved Elemental Bulwark]]'
 level: '5'
 name: Elemental Bulwark
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Suli|Suli]]'
 trigger: An enemy is about to damage you with cold, electricity, or fire, or with

@@ -1,28 +1,18 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Fumeiyoshi|Fumeiyoshi]]'
-domain: null
 duration: 1 minute
-element: null
 heighten: 9th
 heighten_level: 7, 9
 id: '225'
-lesson: null
 level: '7'
-mystery: null
 name: Possession
-patron_theme: null
 range: 30 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 saving_throw: Will
 school: Necromancy
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -35,7 +25,6 @@ trait:
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Possession|Possession]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Spell
 
 ---

@@ -12,7 +12,6 @@ level: '0'
 name: Chain Mail
 price: 6 gp
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 speed_penalty: -5 ft.
 strength: '+16'

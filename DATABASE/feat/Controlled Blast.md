@@ -1,10 +1,5 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Controlled Blast
-frequency: null
-heighten_level: null
 id: '3243'
 level: '8'
 name: Controlled Blast
@@ -12,14 +7,9 @@ prerequisite: '[[DATABASE/feat/Demolitionist Dedication|Demolitionist Dedication
   ; [[DATABASE/feat/Calculated Splash|Calculated Splash]] , [[DATABASE/feat/Directional
   Bombs|Directional Bombs]] , or [[DATABASE/feat/Expanded Splash|Expanded Splash]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

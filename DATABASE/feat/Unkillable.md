@@ -1,20 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Unkillable
 frequency: once per hour
-heighten_level: null
 id: '3565'
 level: '8'
 name: Unkillable
 prerequisite: '[[DATABASE/feat/Zombie Dedication|Zombie Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 trigger: You would be reduced to 0 HP.

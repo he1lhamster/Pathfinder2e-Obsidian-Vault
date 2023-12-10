@@ -2,7 +2,6 @@
 id: '61'
 name: Enchantment
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - Enchantment

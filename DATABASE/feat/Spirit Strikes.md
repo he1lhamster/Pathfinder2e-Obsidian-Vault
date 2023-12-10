@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Spirit Strikes
-frequency: null
-heighten_level: null
 id: '1374'
 level: '9'
 name: Spirit Strikes
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Duskwalker|Duskwalker]]'
-trigger: null
 type: Feat
 
 ---

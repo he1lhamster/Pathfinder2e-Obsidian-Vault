@@ -1,20 +1,12 @@
 ﻿---
 actions: '[three-actions]'
-cost: null
 element: Water
 feat: Barrier of Boreal Frost
-frequency: null
-heighten_level: null
 id: '4278'
 level: '14'
 name: Barrier of Boreal Frost
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Cold|Cold]]'
 - '[[DATABASE/trait/Impulse|Impulse]]'
@@ -23,7 +15,6 @@ trait:
 - '[[DATABASE/trait/Overflow|Overflow]]'
 - '[[DATABASE/trait/Primal|Primal]]'
 - '[[DATABASE/trait/Water|Water]]'
-trigger: null
 type: Feat
 
 ---

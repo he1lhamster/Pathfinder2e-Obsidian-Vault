@@ -1,19 +1,11 @@
 ﻿---
-actions: null
-cost: null
-element: null
-frequency: null
 id: '518'
 name: Scout
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Exploration|Exploration]]'
-trigger: null
 type: Action
 
 ---

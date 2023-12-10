@@ -1,24 +1,17 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Mauler Dedication
-frequency: null
-heighten_level: null
 id: '2022'
+leads_to: '[[DATABASE/feat/Avalanche Strike|Avalanche Strike]] , [[DATABASE/feat/Clear
+  the Way|Clear the Way]] , [[DATABASE/feat/Hammer Quake|Hammer Quake]] , [[DATABASE/feat/Shoving
+  Sweep|Shoving Sweep]]'
 level: '2'
 name: Mauler Dedication
 prerequisite: Strength 14
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
-trigger: null
 type: Feat
 
 ---

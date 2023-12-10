@@ -2,7 +2,6 @@
 id: '361'
 name: Phantom
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 trait:
 - Phantom

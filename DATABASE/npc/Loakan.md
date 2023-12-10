@@ -1,22 +1,15 @@
 ﻿---
 ac: '23'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Battering Tail
 - Deep Breath
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+11'
 hp: '100'
 id: '1631'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -29,9 +22,6 @@ name: Loakan
 perception: '+13'
 rarity: Unique
 reflex: '+14'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +12'
@@ -43,7 +33,6 @@ source: '[[DATABASE/source/Pathfinder 170. Spoken on the Song Wind|Pathfinder #1
 speed:
 - 25 feet
 - swim 15 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
@@ -54,10 +43,8 @@ trait:
 - '[[DATABASE/trait/Lizardfolk|Lizardfolk]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+13'
 wisdom: '+3'
 

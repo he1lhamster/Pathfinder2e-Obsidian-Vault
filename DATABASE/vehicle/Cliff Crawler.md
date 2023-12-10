@@ -1,26 +1,18 @@
 ﻿---
 ac: '26'
-burrow_speed: null
 climb_speed: '40'
-fly_speed: null
 fortitude: '+19'
 hardness: '15'
 hp: '170'
 id: '39'
 item_category: Vehicles
-land_speed: null
 level: '10'
 max_speed: '40'
 name: Cliff Crawler
 price: 3,000 gp
 rarity: Uncommon
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 size: Huge
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Vehicle

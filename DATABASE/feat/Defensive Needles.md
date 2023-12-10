@@ -1,26 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Defensive Needles
-frequency: null
-heighten_level: null
 id: '3431'
 level: '5'
 name: Defensive Needles
 prerequisite: '[[DATABASE/heritage/Cactus Leshy|Cactus Leshy]] heritage or [[DATABASE/heritage/Pine
   Leshy|Pine Leshy]] heritage'
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 176. Lost Mammoth Valley|Pathfinder #176: Lost
   Mammoth Valley]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Leshy|Leshy]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

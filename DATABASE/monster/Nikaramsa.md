@@ -1,10 +1,7 @@
 ﻿---
 ac: '35'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+8'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Pervert Miracle
@@ -12,10 +9,7 @@ creature_ability:
 - Towering Stance
 creature_family: '[[DATABASE/monsterfamily/Asura|Asura]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+22'
-hardness: null
 hp: '315'
 id: '1072'
 immunity:
@@ -32,9 +26,6 @@ name: Nikaramsa
 perception: '+25'
 rarity: Common
 reflex: '+25'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/spell/Detect Alignment|detect alignment]]'
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
@@ -71,7 +62,6 @@ strength: '+8'
 strength_req: '8'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Asura|Asura]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

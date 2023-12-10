@@ -1,39 +1,25 @@
 ﻿---
 actions: '[three-actions]'
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: sustained up to 1 minute
-element: null
 heighten: 2nd, 3rd, 4th, 5th, 6th, 7th, 8th, 9th, 10th
 heighten_level: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
 id: '666'
-lesson: null
 level: '1'
-mystery: null
 name: Animate Dead
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-target: null
 tradition:
 - Arcane
 - Divine
 - Occult
 trait:
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
-trigger: null
 type: Spell
 
 ---

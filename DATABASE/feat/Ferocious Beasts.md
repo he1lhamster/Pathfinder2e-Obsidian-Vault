@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Ferocious Beasts
-frequency: null
-heighten_level: null
 id: '1292'
 level: '13'
 name: Ferocious Beasts
 prerequisite: '[[DATABASE/feat/Beast Trainer|Beast Trainer]] or animal companion;
   [[DATABASE/feat/Orc Ferocity|Orc Ferocity]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Orc|Orc]]'
-trigger: null
 type: Feat
 
 ---

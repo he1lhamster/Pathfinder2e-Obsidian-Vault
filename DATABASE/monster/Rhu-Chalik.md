@@ -1,25 +1,18 @@
 ﻿---
 ac: '23'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Excruciating Enzyme
 - No Breath
 - Project Terror
 - Void Transmission
-creature_family: null
 dexterity: '+3'
-element: null
 fly_speed: '35'
 fortitude: '+14'
-hardness: null
 hp: '95'
 id: '1276'
-immunity: null
 intelligence: '+2'
 land_speed: '5'
 language:
@@ -31,9 +24,6 @@ name: Rhu-Chalik
 perception: '+17'
 rarity: Uncommon
 reflex: '+11'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 size: Small
@@ -56,7 +46,6 @@ strength: '+3'
 strength_req: '3'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
@@ -64,7 +53,6 @@ type: Creature
 vision: Greater darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+17'
 wisdom: '+5'
 

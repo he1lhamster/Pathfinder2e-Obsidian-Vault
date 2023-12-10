@@ -1,22 +1,15 @@
 ﻿---
 ac: '15'
 alignment: NG
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Dig Quickly
 creature_family: '[[DATABASE/monsterfamily/Shoony|Shoony]]'
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+5'
-hardness: null
 hp: '16'
 id: '521'
-immunity: null
 intelligence: '-1'
 land_speed: '25'
 language:
@@ -28,9 +21,6 @@ name: Shoony Tiller
 perception: '+6'
 rarity: Rare
 reflex: '+3'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 size: Small
@@ -45,12 +35,10 @@ source: '[[DATABASE/source/Pathfinder 153. Life''s Long Shadows|Pathfinder #153:
   Long Shadows]]'
 speed:
 - 25 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Rare|Rare]]'
@@ -59,7 +47,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Reflex
-weakness: null
 will: '+6'
 wisdom: '+2'
 

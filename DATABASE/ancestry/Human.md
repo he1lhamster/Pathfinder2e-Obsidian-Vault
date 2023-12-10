@@ -5,7 +5,6 @@ ability:
 ability_boost:
 - Free
 - Free
-ability_flaw: null
 hp: '8'
 id: '6'
 land_speed: '25'
@@ -14,7 +13,6 @@ language:
 max_speed: '25'
 name: Human
 rarity: Common
-rus_type_level: null
 size: Medium
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 speed:
@@ -23,7 +21,6 @@ trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Ancestry
-vision: null
 
 ---
 # Human

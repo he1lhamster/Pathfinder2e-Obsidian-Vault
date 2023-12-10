@@ -1,45 +1,13 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '958'
 item_category: Contracts
 item_subcategory: Other Contracts
-land_speed: null
 level: '9'
-max_speed: null
 name: Oath of the Devoted
-onset: null
-price: null
-range: null
 rarity: Rare
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Necromancy
-size: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
-spell: null
-stage: null
 subcategory: contract
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Contract|Contract]]'
 - '[[DATABASE/trait/Divine|Divine]]'
@@ -47,12 +15,7 @@ trait:
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Item
-usage: null
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Oath of the Devoted<span class="item-type">Item 9</span>

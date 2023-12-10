@@ -1,16 +1,9 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
-frequency: null
 id: '8'
 name: Attack of Opportunity
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 trigger: "A creature within your reach uses a [[DATABASE/trait/Manipulate|manipulate]]\
   \ action or a [[DATABASE/trait/Move|move]] action, makes a ranged attack, or leaves\
   \ a squareduring a move action it\u2019s using."

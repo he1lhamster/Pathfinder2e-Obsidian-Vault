@@ -1,20 +1,15 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Twin Riposte
-frequency: null
-heighten_level: null
 id: '523'
+leads_to: '[[DATABASE/feat/Improved Twin Riposte (Fighter)|Improved Twin Riposte (Fighter)]]
+  , [[DATABASE/feat/Improved Twin Riposte (Ranger)|Improved Twin Riposte (Ranger)]]
+  , [[DATABASE/feat/Reflecting Riposte|Reflecting Riposte]]'
 level: '10'
 name: Twin Riposte
-prerequisite: null
 rarity: Common
 requirement: You are benefiting from [[DATABASE/feat/Twin Parry|Twin Parry]] .
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fighter|Fighter]]'
 - '[[DATABASE/trait/Ranger|Ranger]]'

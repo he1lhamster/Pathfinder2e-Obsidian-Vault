@@ -1,27 +1,13 @@
 ﻿---
 actions: '[reaction]'
-area: null
-bloodline: null
-component: null
-cost: null
-deity: null
-domain: null
 duration: 1 round
 element: Air
-heighten: null
 heighten_level: '3'
 id: '1314'
-lesson: null
 level: '3'
-mystery: null
 name: Cloud Dragon's Cloak
-patron_theme: null
 range: 60 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 target: the creature targeted by the attack
 tradition:

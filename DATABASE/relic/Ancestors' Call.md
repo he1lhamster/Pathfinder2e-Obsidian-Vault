@@ -1,11 +1,8 @@
 ﻿---
-element: null
 id: '123'
 item_category: Relics
 name: Ancestors' Call
-prerequisite: null
 rarity: Common
-rus_type_level: null
 school: Divination
 source: '[[DATABASE/source/Pathfinder 193. Mantle of Gold|Pathfinder #193: Mantle
   of Gold]]'

@@ -1,27 +1,18 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Night's Shine
-frequency: null
-heighten_level: null
 id: '4072'
 level: '12'
 name: Night's Shine
 prerequisite: '[[DATABASE/feat/Oatia Skysage Dedication|Oatia Skysage Dedication]]
   ; [[DATABASE/feat/Night''s Glow|Night''s Glow]]'
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Pathfinder 187. The Seventh Arch|Pathfinder #187: The Seventh
   Arch]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Occult|Occult]]'
-trigger: null
 type: Feat
 
 ---

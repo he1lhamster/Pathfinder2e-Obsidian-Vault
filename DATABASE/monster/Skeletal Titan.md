@@ -1,10 +1,7 @@
 ﻿---
 ac: '33'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Bone Debris
@@ -12,10 +9,7 @@ creature_ability:
 - Trample
 creature_family: '[[DATABASE/monsterfamily/Skeleton|Skeleton]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+23'
-hardness: null
 hp: 210 ( negative healing )
 id: '1904'
 immunity:
@@ -27,7 +21,6 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '40'
-language: null
 level: '13'
 max_speed: '40'
 name: Skeletal Titan
@@ -40,8 +33,6 @@ resistance:
 - '[[DATABASE/trait/Fire|fire]] 10'
 - piercing 15
 - slashing 15
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Gargantuan
@@ -56,7 +47,6 @@ strength: '+9'
 strength_req: '9'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Mindless|Mindless]]'
 - '[[DATABASE/trait/Skeleton|Skeleton]]'
@@ -65,7 +55,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+21'
 wisdom: '+2'
 

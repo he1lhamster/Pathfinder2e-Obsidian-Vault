@@ -1,10 +1,7 @@
 ﻿---
 ac: '41'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+9'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Counterattack
@@ -13,12 +10,9 @@ creature_ability:
 - Sneak Attack
 - Swift Steps
 - Tenebral Form
-creature_family: null
 dexterity: '+9'
-element: null
 fly_speed: '35'
 fortitude: '+27'
-hardness: null
 hp: '339'
 id: '2440'
 immunity:
@@ -42,8 +36,6 @@ reflex: '+33'
 resistance:
 - '[[DATABASE/trait/Cold|cold]] 15'
 - '[[DATABASE/trait/Negative|negative]] 15'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -71,14 +63,12 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Shadow|Shadow]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+30'
 wisdom: '+6'
 

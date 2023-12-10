@@ -1,20 +1,13 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Semblance of Life
-frequency: null
-heighten_level: null
 id: '3522'
 level: '4'
 name: Semblance of Life
 prerequisite: '[[DATABASE/feat/Mummy Dedication|Mummy Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Illusion
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Divine|Divine]]'

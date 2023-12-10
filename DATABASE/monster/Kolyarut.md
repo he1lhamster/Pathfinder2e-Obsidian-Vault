@@ -1,19 +1,13 @@
 ﻿---
 ac: '34'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Truespeech
 creature_family: '[[DATABASE/monsterfamily/Aeon|Aeon]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+23'
-hardness: null
 hp: '215'
 id: '10'
 immunity:
@@ -34,9 +28,6 @@ name: Kolyarut
 perception: '+23'
 rarity: Common
 reflex: '+24'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - (+27 to detect lies); darkvision
 size: Medium
@@ -61,7 +52,6 @@ strength: '+7'
 strength_req: '7'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aeon|Aeon]]'
 - '[[DATABASE/trait/Inevitable|Inevitable]]'

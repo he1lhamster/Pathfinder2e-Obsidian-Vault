@@ -1,31 +1,19 @@
 ﻿---
 actions: '[two-actions]'
 area: 10-foot radius, 60-foot-tall cylinder
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
 heighten: 8th
 heighten_level: 5, 8
 id: '1124'
-lesson: null
 level: '5'
-mystery: null
 name: Scouring Pulse
-patron_theme: null
 range: 120 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 saving_throw: Reflex
 school: Evocation
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
-target: null
 tradition:
 - Arcane
 - Divine
@@ -35,7 +23,6 @@ trait:
 - '[[DATABASE/trait/Light|Light]]'
 - '[[DATABASE/trait/Positive|Positive]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Spell
 
 ---

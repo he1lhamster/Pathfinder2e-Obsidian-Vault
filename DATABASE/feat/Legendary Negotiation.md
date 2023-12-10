@@ -1,24 +1,16 @@
 ﻿---
 actions: '[three-actions]'
-cost: null
-element: null
 feat: Legendary Negotiation
-frequency: null
-heighten_level: null
 id: '804'
 level: '15'
 name: Legendary Negotiation
 prerequisite: Legendary in [[DATABASE/skill/Diplomacy|Diplomacy]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: diplomacy
 trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

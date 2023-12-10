@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Healing Touch
-frequency: null
-heighten_level: null
 id: '689'
 level: '4'
 name: Healing Touch
 prerequisite: '[[DATABASE/feat/Champion Dedication|Champion Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

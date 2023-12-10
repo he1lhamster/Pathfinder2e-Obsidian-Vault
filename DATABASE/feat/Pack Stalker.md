@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Pack Stalker
-frequency: null
-heighten_level: null
 id: '2798'
 level: '5'
 name: Pack Stalker
 prerequisite: '[[DATABASE/feat/Pack Hunter|Pack Hunter]] ; Expert in [[DATABASE/skill/Stealth|Stealth]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Gnoll|Gnoll]]'
-trigger: null
 type: Feat
 
 ---

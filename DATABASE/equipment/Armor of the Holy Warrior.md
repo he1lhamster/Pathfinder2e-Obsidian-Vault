@@ -1,45 +1,15 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
 base_item: '[[DATABASE/armor/Half Plate|Half Plate]]'
 bulk: '3'
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '1562'
 item_category: Armor
 item_subcategory: Specific Magic Armor
-land_speed: null
 level: '16'
-max_speed: null
 name: Armor of the Holy Warrior
-onset: null
 price: 9,000 gp
-range: null
 rarity: Rare
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Necromancy
-size: null
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
-spell: null
-stage: null
-subcategory: null
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Divine|Divine]]'
 - '[[DATABASE/trait/Good|Good]]'
@@ -47,12 +17,8 @@ trait:
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Item
 usage: worn armor
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Armor of the Holy Warrior<span class="item-type">Item 16</span>

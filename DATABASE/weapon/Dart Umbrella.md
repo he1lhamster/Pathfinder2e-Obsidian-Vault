@@ -1,8 +1,6 @@
 ﻿---
 bulk: '1'
 damage: 1 P
-deity: null
-favored_weapon: null
 hands: '1'
 id: '175'
 item_category: Weapons
@@ -12,7 +10,6 @@ name: Dart Umbrella
 price: 1 gp
 range: 30 ft.
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:
 - '[[DATABASE/trait/Agile|Agile]]'

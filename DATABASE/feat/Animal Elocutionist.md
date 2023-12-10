@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Animal Elocutionist
-frequency: null
-heighten_level: null
 id: '32'
 level: '5'
 name: Animal Elocutionist
 prerequisite: '[[DATABASE/feat/Burrow Elocutionist|Burrow Elocutionist]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Gnome|Gnome]]'
-trigger: null
 type: Feat
 
 ---

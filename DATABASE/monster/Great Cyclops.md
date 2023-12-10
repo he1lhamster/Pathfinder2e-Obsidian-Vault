@@ -1,10 +1,7 @@
 ﻿---
 ac: '32'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Catch Rock
@@ -14,13 +11,9 @@ creature_ability:
 - Throw Rock
 creature_family: '[[DATABASE/monsterfamily/Cyclops|Cyclops]]'
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+25'
-hardness: null
 hp: '235'
 id: '87'
-immunity: null
 intelligence: '-2'
 land_speed: '40'
 language:
@@ -33,9 +26,6 @@ name: Great Cyclops
 perception: '+22'
 rarity: Uncommon
 reflex: '+19'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 size: Huge
@@ -46,12 +36,10 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 40 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Giant|Giant]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -61,7 +49,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Reflex
-weakness: null
 will: '+22'
 wisdom: '+4'
 

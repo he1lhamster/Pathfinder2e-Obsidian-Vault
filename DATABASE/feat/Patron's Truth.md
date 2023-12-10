@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Patron's Truth
-frequency: null
-heighten_level: null
 id: '1591'
 level: '20'
 name: Patron's Truth
 prerequisite: '[[DATABASE/class_/Witch|patron''s gift]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Witch|Witch]]'
-trigger: null
 type: Feat
 
 ---

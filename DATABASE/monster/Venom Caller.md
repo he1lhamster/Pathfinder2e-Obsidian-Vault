@@ -1,23 +1,16 @@
 ﻿---
 ac: '24'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Serpentfolk Venom
 - Venom Pool
 creature_family: '[[DATABASE/monsterfamily/Serpentfolk|Serpentfolk]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+13'
-hardness: null
 hp: '105'
 id: '1628'
-immunity: null
 intelligence: '+6'
 land_speed: '25'
 language:
@@ -34,8 +27,6 @@ rarity: Uncommon
 reflex: '+15'
 resistance:
 - '[[DATABASE/trait/Poison|poison]] 10'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -75,7 +66,6 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Serpentfolk|Serpentfolk]]'
@@ -84,7 +74,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+17'
 wisdom: '+4'
 

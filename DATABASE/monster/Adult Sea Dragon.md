@@ -1,10 +1,7 @@
 ﻿---
 ac: '33'
 alignment: CG
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Breath Weapon
@@ -23,7 +20,6 @@ dexterity: '+5'
 element: Water
 fly_speed: '100'
 fortitude: '+22'
-hardness: null
 hp: '225'
 id: '1126'
 immunity:
@@ -43,9 +39,6 @@ name: Adult Sea Dragon
 perception: '+21'
 rarity: Uncommon
 reflex: '+25'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Wavesense|wavesense]] (imprecise) 60 feet'
@@ -83,7 +76,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+20'
 wisdom: '+4'
 

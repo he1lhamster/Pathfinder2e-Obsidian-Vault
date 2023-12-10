@@ -1,27 +1,21 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Sixth Pillar Dedication
-frequency: null
-heighten_level: null
 id: '2739'
+leads_to: '[[DATABASE/feat/Maneuvering Spell|Maneuvering Spell]] , [[DATABASE/feat/Six
+  Pillars Stance|Six Pillars Stance]] ,Sixth Pillar Mastery, [[DATABASE/feat/Sixth
+  Pillar Mastery|Sixth Pillar Mastery]] ,Touch Focus, [[DATABASE/feat/Touch Focus|Touch
+  Focus]]'
 level: '10'
 name: Sixth Pillar Dedication
 prerequisite: Dexterity 14; Expert in [[DATABASE/skill/Acrobatics|Acrobatics]] ; ability
   to cast spells
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Fists of the Ruby Phoenix Hardcover|Fists of the Ruby Phoenix
   Hardcover]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,8 +1,6 @@
 ﻿---
 ac: '19'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+12'
 hardness: '11'
 hazard_type: Trap
@@ -16,17 +14,12 @@ level: '3'
 name: Sickle Blades
 rarity: Uncommon
 reflex: '+4'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 181. Zombie Feast|Pathfinder #181: Zombie Feast]]'
 trait:
 - '[[DATABASE/trait/Mechanical|Mechanical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Sickle Blades<span class="item-type">Hazard 3</span>

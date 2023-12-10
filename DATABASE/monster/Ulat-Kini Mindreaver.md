@@ -1,22 +1,15 @@
 ﻿---
 ac: '22'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Psychic Daze
 creature_family: '[[DATABASE/monsterfamily/Alghollthu|Alghollthu]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+12'
-hardness: null
 hp: '100'
 id: '2693'
-immunity: null
 intelligence: '+1'
 land_speed: '20'
 language:
@@ -31,8 +24,6 @@ rarity: Uncommon
 reflex: '+12'
 resistance:
 - '[[DATABASE/trait/Cold|cold]] 10'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -76,7 +67,6 @@ vision: Darkvision
 weakest_save:
 - Fortitude
 - Reflex
-weakness: null
 will: '+16'
 wisdom: '+3'
 

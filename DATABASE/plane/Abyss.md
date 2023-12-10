@@ -1,13 +1,10 @@
 ﻿---
 alignment: CE
-element: null
 id: '13'
 name: Abyss
 plane_category: Outer Sphere Planes
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
-trait: null
 type: Plane
 
 ---

@@ -1,57 +1,26 @@
 ﻿---
-ac: null
 actions: '[two-actions]'
-alignment: null
-base_item: null
 bulk: L
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
 duration: 10 rounds
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '1950'
 item_category: Alchemical Items
 item_subcategory: Bottled Monstrosities
-land_speed: null
 level: '18'
-max_speed: null
 name: Kraken Bottle
-onset: null
 price: 5,000 gp
-range: null
 rarity: Uncommon
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
 saving_throw: DC 39 Fortitude
-school: null
-size: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-spell: null
 stage: 'Stage 1: 3d6 poison damage and sickened 1 (1 round)Stage 2: 4d6 poison damage
   and sickened 2 (1 round).'
 subcategory: alchemical/bottledmonstrosity
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Alchemical|Alchemical]]'
 - '[[DATABASE/trait/Consumable|Consumable]]'
 - '[[DATABASE/trait/Expandable|Expandable]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Item
 usage: held in 1 hand
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Kraken Bottle<span class="item-type">Item 18</span>

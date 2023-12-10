@@ -1,30 +1,18 @@
 ﻿---
-actions: null
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Conqueror Worm|Conqueror Worm]]'
 - '[[DATABASE/deity/Ma''at|Ma''at]]'
-domain: null
 duration: sustained up to 1 minute
-element: null
-heighten: null
 heighten_level: '5'
 id: '193'
-lesson: null
 level: '5'
-mystery: null
 name: Mind Probe
-patron_theme: null
 range: 30 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 saving_throw: Will
 school: Divination
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -37,7 +25,6 @@ trait:
 - '[[DATABASE/trait/Linguistic|Linguistic]]'
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Spell
 
 ---

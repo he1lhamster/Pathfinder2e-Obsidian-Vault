@@ -4,9 +4,7 @@ level: '1'
 name: Scarlet Fever
 onset: 2 days
 rarity: Common
-rus_type_level: null
 saving_throw: DC 13 Fortitude
-school: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 stage: "Stage 1: sickened 1 (1 day)Stage 2: sickened 2 (1 day)Stage 3: sickened 3\
   \ and can\u2019t speak (1 day)Stage 4: death"

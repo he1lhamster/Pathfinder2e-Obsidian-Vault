@@ -4,9 +4,7 @@ level: '1'
 name: Tuberculosis
 onset: 1 week
 rarity: Common
-rus_type_level: null
 saving_throw: DC 15 Fortitude
-school: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 stage: "Stage 1: carrier with no effects (1 week)Stage 2: coughing requires you to\
   \ succeed at a DC 5 flat check to Cast a Spell with a verbalcomponent or Activate\

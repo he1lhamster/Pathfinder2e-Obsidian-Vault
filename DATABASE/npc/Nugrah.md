@@ -1,22 +1,15 @@
 ﻿---
 ac: '17'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Survival of the Fittest
 - Swift Summon
-creature_family: null
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+10'
 hp: '75'
 id: '2285'
-immunity: null
 intelligence: '+0'
 land_speed: '20'
 language:
@@ -28,9 +21,6 @@ name: Nugrah
 perception: '+14'
 rarity: Unique
 reflex: '+6'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Deception|Deception]] +11'
@@ -59,16 +49,13 @@ strength: '+1'
 strength_req: '1'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+15'
 wisdom: '+5'
 

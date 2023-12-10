@@ -1,23 +1,16 @@
 ﻿---
 ac: '20'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Abrogation of Consequences
 - Opening Statement
 creature_family: '[[DATABASE/monsterfamily/Devil|Devil]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+9'
-hardness: null
 hp: '60'
 id: '1113'
-immunity: null
 intelligence: '+4'
 land_speed: '20'
 language:
@@ -31,8 +24,6 @@ rarity: Uncommon
 reflex: '+12'
 resistance:
 - fire 4
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 size: Medium
@@ -52,7 +43,6 @@ strength: '+1'
 strength_req: '1'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Devil|Devil]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

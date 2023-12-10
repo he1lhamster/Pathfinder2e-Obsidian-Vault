@@ -1,20 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Educate Allies
-frequency: null
-heighten_level: null
 id: '1642'
 level: '6'
 name: Educate Allies
 prerequisite: '[[DATABASE/feat/Well-Versed|Well-Versed]]'
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Abjuration
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Bard|Bard]]'

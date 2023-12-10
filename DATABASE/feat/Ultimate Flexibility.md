@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Ultimate Flexibility
-frequency: null
-heighten_level: null
 id: '1732'
 level: '20'
 name: Ultimate Flexibility
 prerequisite: '[[DATABASE/class_/Fighter|improved flexibility]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fighter|Fighter]]'
-trigger: null
 type: Feat
 
 ---

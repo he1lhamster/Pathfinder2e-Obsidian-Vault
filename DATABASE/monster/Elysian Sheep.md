@@ -1,36 +1,24 @@
 ﻿---
 ac: '25'
 alignment: NG
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Cowardly
 - Nimble Grazer
 - Trample
-creature_family: null
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+15'
-hardness: null
 hp: '140'
 id: '2139'
-immunity: null
 intelligence: '-4'
 land_speed: '40'
-language: null
 level: '7'
 max_speed: '40'
 name: Elysian Sheep
 perception: '+18'
 rarity: Rare
 reflex: '+18'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Large
@@ -42,12 +30,10 @@ source: '[[DATABASE/source/Pathfinder 156. The Apocalypse Prophet|Pathfinder #15
   The Apocalypse Prophet]]'
 speed:
 - 40 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 - '[[DATABASE/trait/Rare|Rare]]'

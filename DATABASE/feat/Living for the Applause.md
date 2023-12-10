@@ -1,20 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Living for the Applause
 frequency: once per day
-heighten_level: null
 id: '4142'
 level: '8'
 name: Living for the Applause
 prerequisite: '[[DATABASE/feat/Gladiator Dedication|Gladiator Dedication]]'
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Firebrands|Firebrands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

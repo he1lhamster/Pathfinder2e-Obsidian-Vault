@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Protective Subroutine
-frequency: null
-heighten_level: null
 id: '2470'
 level: '5'
 name: Protective Subroutine
 prerequisite: '[[DATABASE/feat/Nanite Surge|Nanite Surge]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Android|Android]]'
-trigger: null
 type: Feat
 
 ---

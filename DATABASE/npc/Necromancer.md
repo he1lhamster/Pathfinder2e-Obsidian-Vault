@@ -1,22 +1,16 @@
 ﻿---
 ac: '20'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Drain Bonded Item
 - Stench of Decay
 creature_family: '[[DATABASE/monsterfamily/Mystics|Mystics]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+9'
 hp: '58'
 id: '929'
-immunity: null
 intelligence: '+4'
 land_speed: '25'
 language:
@@ -27,9 +21,6 @@ name: Necromancer
 perception: '+10'
 rarity: Common
 reflex: '+12'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Arcana|Arcana]] +13'
@@ -63,15 +54,12 @@ strength_req: '2'
 strongest_save:
 - Reflex
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+12'
 wisdom: '+3'
 

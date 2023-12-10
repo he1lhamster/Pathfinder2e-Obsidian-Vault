@@ -1,8 +1,6 @@
 ﻿---
 ac: '33'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+27'
 hardness: '20'
 hazard_type: Haunt
@@ -16,9 +14,6 @@ level: '12'
 name: Flensing Blades
 rarity: Common
 reflex: '+25'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
 - '[[DATABASE/trait/Complex|Complex]]'

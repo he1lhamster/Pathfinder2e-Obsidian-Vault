@@ -1,23 +1,16 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Bonds of Death
 frequency: once per day
-heighten_level: null
 id: '3489'
 level: '8'
 name: Bonds of Death
 prerequisite: '[[DATABASE/feat/Reanimator Dedication|Reanimator Dedication]]'
 rarity: Common
 requirement: You have cast [[DATABASE/spell/Animate Dead|animate dead]] this turn.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

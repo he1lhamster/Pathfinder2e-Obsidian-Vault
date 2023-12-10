@@ -3,9 +3,7 @@ creature_family: Courtiers
 id: '181'
 name: Courtiers
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
-trait: null
 type: Creature Family
 
 ---

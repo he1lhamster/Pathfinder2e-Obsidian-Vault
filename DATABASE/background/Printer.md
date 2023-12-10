@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Multilingual|Multilingual]]'
 id: '259'
 name: Printer
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Society|Society]]'
 - Scribing [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Focused Cat Nap
-frequency: null
-heighten_level: null
 id: '2318'
 level: '5'
 name: Focused Cat Nap
 prerequisite: '[[DATABASE/feat/Cat Nap|Cat Nap]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Catfolk|Catfolk]]'
-trigger: null
 type: Feat
 
 ---

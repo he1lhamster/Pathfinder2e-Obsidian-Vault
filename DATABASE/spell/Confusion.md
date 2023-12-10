@@ -1,30 +1,21 @@
 ﻿---
 actions: '[two-actions]'
-area: null
 bloodline: '[[DATABASE/sorcererbloodline/Aberrant|Aberrant]]'
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Hastur|Hastur]]'
 - '[[DATABASE/deity/Lahkgya|Lahkgya]]'
 - '[[DATABASE/deity/Narriseminek|Narriseminek]]'
-domain: null
 duration: 1 minute
-element: null
 heighten: 8th
 heighten_level: 4, 8
 id: '48'
-lesson: null
 level: '4'
-mystery: null
 name: Confusion
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Will
 school: Enchantment
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -36,7 +27,6 @@ trait:
 - '[[DATABASE/trait/Emotion|Emotion]]'
 - '[[DATABASE/trait/Enchantment|Enchantment]]'
 - '[[DATABASE/trait/Mental|Mental]]'
-trigger: null
 type: Spell
 
 ---

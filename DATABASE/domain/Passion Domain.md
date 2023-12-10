@@ -1,7 +1,5 @@
 ﻿---
-advanced_apocryphal_spell: null
 advanced_domain_spell: '[[DATABASE/spell/Captivating Adoration|Captivating Adoration]]'
-apocryphal_spell: null
 deity:
 - '[[DATABASE/deity/Ardad Lili|Ardad Lili]]'
 - '[[DATABASE/deity/Arshea|Arshea]]'
@@ -33,9 +31,7 @@ domain_spell: '[[DATABASE/spell/Charming Touch|Charming Touch]]'
 id: '25'
 name: Passion Domain
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Domain
 
 ---

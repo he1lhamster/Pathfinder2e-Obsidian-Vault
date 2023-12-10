@@ -1,25 +1,22 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Alter Ego Dedication
-frequency: null
-heighten_level: null
 id: '3807'
+leads_to: '[[DATABASE/feat/Borrow Memories|Borrow Memories]] , [[DATABASE/feat/Change
+  of Face|Change of Face]] , [[DATABASE/feat/Fake It Till You Make it|Fake It Till
+  You Make it]] , [[DATABASE/feat/Illusory Identity|Illusory Identity]] , [[DATABASE/feat/In
+  Plain Sight|In Plain Sight]] , [[DATABASE/feat/It Was Me All Along!|It Was Me All
+  Along!]] , [[DATABASE/feat/Muscle Mimicry|Muscle Mimicry]] , [[DATABASE/feat/Sound
+  Mirror|Sound Mirror]] , [[DATABASE/feat/Swap Reflections|Swap Reflections]] , [[DATABASE/feat/We''re
+  on the List|We''re on the List]]'
 level: '2'
 name: Alter Ego Dedication
 prerequisite: Trained in [[DATABASE/skill/Deception|Deception]] ; Trained in [[DATABASE/skill/Stealth|Stealth]]
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

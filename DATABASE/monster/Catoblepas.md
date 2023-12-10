@@ -1,22 +1,15 @@
 ﻿---
 ac: '33'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Breath Weapon
 - Ferocity
 - Stench
 - Trample
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+24'
-hardness: null
 hp: '215'
 id: '579'
 immunity:
@@ -33,9 +26,6 @@ name: Catoblepas
 perception: '+22'
 rarity: Common
 reflex: '+20'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -48,7 +38,6 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 35 feet
 - swim 20 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
@@ -60,7 +49,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+22'
 wisdom: '+4'
 

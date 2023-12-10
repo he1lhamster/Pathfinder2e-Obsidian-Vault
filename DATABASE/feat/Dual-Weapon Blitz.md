@@ -1,10 +1,6 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Dual-Weapon Blitz
-frequency: null
-heighten_level: null
 id: '1954'
 level: '10'
 name: Dual-Weapon Blitz
@@ -12,13 +8,9 @@ prerequisite: '[[DATABASE/feat/Dual-Weapon Warrior Dedication|Dual-Weapon Warrio
   Dedication]]'
 rarity: Common
 requirement: You are wielding two one-handed melee weapons, each in a different hand.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Impressive Performance|Impressive Performance]]'
 id: '18'
 name: Gladiator
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Performance|Performance]]'
 - Gladiatorial [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

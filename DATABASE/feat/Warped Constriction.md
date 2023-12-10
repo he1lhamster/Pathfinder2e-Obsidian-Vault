@@ -1,10 +1,6 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Warped Constriction
-frequency: null
-heighten_level: null
 id: '3820'
 level: '8'
 name: Warped Constriction
@@ -12,13 +8,9 @@ prerequisite: '[[DATABASE/feat/Living Vessel Dedication|Living Vessel Dedication
 rarity: Common
 requirement: You have a foe [[DATABASE/condition/Grabbed|grabbed]] or [[DATABASE/condition/Restrained|restrained]]
   .
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

@@ -18,14 +18,12 @@ id: '12'
 name: Wizard
 perception_proficiency: Trained
 rarity: Common
-rus_type_level: null
 skill_proficiency:
 - Trained in Arcana
 - Trained in a number of additional skills equal to 2 plus your Intelligence modifier
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 tradition:
 - Arcane
-trait: null
 type: Class
 
 ---

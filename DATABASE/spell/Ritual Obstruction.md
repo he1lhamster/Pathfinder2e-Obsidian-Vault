@@ -1,32 +1,17 @@
 ﻿---
-actions: null
 area: 60-foot burst
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 1 day
-element: null
-heighten: null
 heighten_level: '5'
 id: '1217'
-lesson: null
 level: '5'
-mystery: null
 name: Ritual Obstruction
-patron_theme: null
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Pathfinder 182. Graveclaw|Pathfinder #182: Graveclaw]]'
-target: null
 tradition:
 - Arcane
 - Divine
@@ -36,7 +21,6 @@ trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Curse|Curse]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Spell
 
 ---

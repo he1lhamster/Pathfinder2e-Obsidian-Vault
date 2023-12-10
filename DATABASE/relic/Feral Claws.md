@@ -1,11 +1,9 @@
 ﻿---
-element: null
 id: '9'
 item_category: Relics
 name: Feral Claws
 prerequisite: The relic is a worn item.
 rarity: Common
-rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:

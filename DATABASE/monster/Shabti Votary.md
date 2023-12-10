@@ -1,10 +1,7 @@
 ﻿---
 ac: '40'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Cremate Undead
@@ -14,10 +11,7 @@ creature_ability:
 - Immortal
 creature_family: '[[DATABASE/monsterfamily/Shabti|Shabti]]'
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+31'
-hardness: null
 hp: '260'
 id: '2424'
 immunity:
@@ -38,8 +32,6 @@ rarity: Uncommon
 reflex: '+25'
 resistance:
 - '[[DATABASE/trait/Negative|negative]] 15'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -86,7 +78,6 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Shabti|Shabti]]'
@@ -95,7 +86,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+34'
 wisdom: '+6'
 

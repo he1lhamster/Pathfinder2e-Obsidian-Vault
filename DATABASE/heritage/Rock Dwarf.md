@@ -2,9 +2,7 @@
 id: '4'
 name: Rock Dwarf
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Heritage
 
 ---

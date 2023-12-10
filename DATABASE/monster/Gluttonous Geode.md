@@ -1,10 +1,6 @@
 ﻿---
 ac: '15'
-alignment: null
-all_resistance: null
-burrow_speed: null
 charisma: '-3'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Attach
@@ -12,9 +8,7 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Elemental, Earth|Elemental, Earth]]'
 dexterity: '-1'
 element: Earth
-fly_speed: null
 fortitude: '+8'
-hardness: null
 hp: '25'
 id: '2624'
 immunity:
@@ -24,16 +18,12 @@ immunity:
 - '[[DATABASE/trait/Sleep|sleep]]'
 intelligence: '-4'
 land_speed: '20'
-language: null
 level: '1'
 max_speed: '20'
 name: Gluttonous Geode
 perception: '+6'
 rarity: Common
 reflex: '+4'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) 30 feet'
@@ -44,12 +34,10 @@ skill:
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 speed:
 - 20 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Elemental|Elemental]]'
@@ -57,7 +45,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+6'
 wisdom: '+1'
 

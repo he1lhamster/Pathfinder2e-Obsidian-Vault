@@ -1,10 +1,7 @@
 ﻿---
 ac: '41'
 alignment: CG
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Battering Blow
@@ -13,14 +10,10 @@ creature_ability:
 - Shield Block
 - Shield Warden
 - Shoving Block
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+32'
 hp: '390'
 id: '2439'
-immunity: null
 intelligence: '+2'
 land_speed: '20'
 language:
@@ -35,9 +28,6 @@ name: Firebrand Bastion
 perception: '+29'
 rarity: Common
 reflex: '+25'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +35'
@@ -51,20 +41,16 @@ source: '[[DATABASE/source/Pathfinder 186. Ghost King''s Rage|Pathfinder #186: G
   King''s Rage]]'
 speed:
 - 20 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+29'
 wisdom: '+4'
 

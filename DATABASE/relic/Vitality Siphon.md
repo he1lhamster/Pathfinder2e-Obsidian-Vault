@@ -1,11 +1,8 @@
 ﻿---
-element: null
 id: '47'
 item_category: Relics
 name: Vitality Siphon
-prerequisite: null
 rarity: Common
-rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:

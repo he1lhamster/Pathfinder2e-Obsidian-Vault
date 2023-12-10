@@ -1,10 +1,7 @@
 ﻿---
 ac: '16'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '-3'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Ground Slam
@@ -12,10 +9,7 @@ creature_ability:
 - Slow
 creature_family: '[[DATABASE/monsterfamily/Zombie|Zombie]]'
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+8'
-hardness: null
 hp: 85 ( negative healing )
 id: '1920'
 immunity:
@@ -27,16 +21,12 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '25'
-language: null
 level: '3'
 max_speed: '25'
 name: Zombie Owlbear
 perception: '+8'
 rarity: Common
 reflex: '+5'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -46,12 +36,10 @@ skill:
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 speed:
 - 25 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Mindless|Mindless]]'
 - '[[DATABASE/trait/Undead|Undead]]'

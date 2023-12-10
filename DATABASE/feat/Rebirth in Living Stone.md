@@ -1,20 +1,13 @@
 ﻿---
 actions: '[one-action]'
-cost: null
 element: Earth
 feat: Rebirth in Living Stone
-frequency: null
 heighten_level: 18, 20
 id: '4234'
 level: '18'
 name: Rebirth in Living Stone
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Impulse|Impulse]]'
@@ -22,7 +15,6 @@ trait:
 - '[[DATABASE/trait/Polymorph|Polymorph]]'
 - '[[DATABASE/trait/Primal|Primal]]'
 - '[[DATABASE/trait/Stance|Stance]]'
-trigger: null
 type: Feat
 
 ---

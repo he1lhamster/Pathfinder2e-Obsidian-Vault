@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Spell Devourer
-frequency: null
-heighten_level: null
 id: '1293'
 level: '13'
 name: Spell Devourer
 prerequisite: '[[DATABASE/feat/Pervasive Superstition|Pervasive Superstition]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Orc|Orc]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,8 +1,6 @@
 ﻿---
 ac: '22'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+14'
 hardness: 10 Trapdoor Hardness
 hazard_type: Trap
@@ -16,17 +14,12 @@ level: '3'
 name: Plunger Chute
 rarity: Common
 reflex: '+8'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 157. Devil at the Dreaming Palace|Pathfinder
   #157: Devil at the Dreaming Palace]]'
 trait:
 - '[[DATABASE/trait/Mechanical|Mechanical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Plunger Chute<span class="item-type">Hazard 3</span>

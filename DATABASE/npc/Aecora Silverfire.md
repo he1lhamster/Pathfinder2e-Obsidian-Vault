@@ -1,21 +1,14 @@
 ﻿---
 ac: '25'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Trample
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+15'
 hp: '120'
 id: '2303'
-immunity: null
 intelligence: '+2'
 land_speed: '40'
 language:
@@ -28,8 +21,6 @@ name: Aecora Silverfire
 perception: '+17'
 rarity: Unique
 reflex: '+13'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -62,7 +53,6 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Unique|Unique]]'
@@ -70,7 +60,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+17'
 wisdom: '+6'
 

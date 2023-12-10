@@ -1,22 +1,16 @@
 ﻿---
 ac: '27'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Accursed Breath
 - Attack of Opportunity
 - Devil's Howl
 - Trample
-creature_family: null
 dexterity: '+4'
-element: null
 fly_speed: '50'
 fortitude: '+19'
-hardness: null
 hp: '165'
 id: '791'
 immunity:
@@ -33,9 +27,6 @@ name: Sandpoint Devil
 perception: '+16'
 rarity: Unique
 reflex: '+14'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent (imprecise) 30 feet]]'
@@ -61,7 +52,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

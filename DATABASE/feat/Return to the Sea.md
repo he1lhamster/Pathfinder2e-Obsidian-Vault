@@ -1,27 +1,19 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
 element: Water
 feat: Return to the Sea
-frequency: null
 heighten_level: 4, 6
 id: '4270'
 level: '4'
 name: Return to the Sea
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Impulse|Impulse]]'
 - '[[DATABASE/trait/Kineticist|Kineticist]]'
 - '[[DATABASE/trait/Morph|Morph]]'
 - '[[DATABASE/trait/Primal|Primal]]'
 - '[[DATABASE/trait/Water|Water]]'
-trigger: null
 type: Feat
 
 ---

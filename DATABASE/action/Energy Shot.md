@@ -1,13 +1,8 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
-frequency: null
 id: '923'
 name: Energy Shot
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:

@@ -1,20 +1,13 @@
 ﻿---
 ac: '26'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Final Blasphemy
 - Heretic's Smite
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+18'
-hardness: null
 hp: 135 ( negative healing )
 id: '2176'
 immunity:
@@ -35,9 +28,6 @@ name: Kieragan Skross
 perception: '+16'
 rarity: Unique
 reflex: '+14'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -57,7 +47,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Undead|Undead]]'
 - '[[DATABASE/trait/Unique|Unique]]'
@@ -65,7 +54,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+16'
 wisdom: '+4'
 

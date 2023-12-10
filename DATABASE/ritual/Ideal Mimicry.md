@@ -1,11 +1,9 @@
 ﻿---
-area: null
 cost: "crafting materials worth at least 50 gp \xD7 the target's level; a lock of\
   \ hair from the target, nailclippings from the target, or a vial of blood from the\
   \ target"
 duration: until used 10 times or until the target's body parts are removed from the
   doll
-element: null
 heighten: '+2'
 heighten_level: 6, 8, 10
 id: '60'
@@ -14,8 +12,6 @@ name: Ideal Mimicry
 primary_check: '[[DATABASE/skill/Occultism|Occultism]] (expert)'
 range: see text
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Enchantment
 secondary_casters: '1'
 secondary_check: '[[DATABASE/skill/Crafting|Crafting]]'

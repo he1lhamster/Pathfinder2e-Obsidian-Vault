@@ -1,24 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Impressive Performance
-frequency: null
-heighten_level: null
 id: '793'
+leads_to: '[[DATABASE/feat/Gladiator Dedication|Gladiator Dedication]]'
 level: '1'
 name: Impressive Performance
 prerequisite: Trained in [[DATABASE/skill/Performance|Performance]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: performance
 trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

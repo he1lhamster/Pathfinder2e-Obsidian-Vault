@@ -1,25 +1,17 @@
 ﻿---
 ac: '31'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Attack of Opportunity
 - Flooding Thrust
 - Tentacle Stab
 - Water Glide
-creature_family: null
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+22'
-hardness: null
 hp: '195'
 id: '779'
-immunity: null
 intelligence: '-2'
 land_speed: '30'
 language:
@@ -30,9 +22,6 @@ name: Quoppopak
 perception: '+22'
 rarity: Common
 reflex: '+23'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Large
@@ -45,7 +34,6 @@ speed:
 - 15 feet
 - swim 40 feet
 - water glide 30 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
@@ -58,7 +46,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+18'
 wisdom: '+5'
 

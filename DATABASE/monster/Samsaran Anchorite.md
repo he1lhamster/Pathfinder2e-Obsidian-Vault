@@ -1,10 +1,7 @@
 ﻿---
 ac: '15'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - All This Has Happened Before
@@ -12,13 +9,9 @@ creature_ability:
 - Cryptomnesia
 creature_family: '[[DATABASE/monsterfamily/Samsaran|Samsaran]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+3'
-hardness: null
 hp: '16'
 id: '1286'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -31,9 +24,6 @@ name: Samsaran Anchorite
 perception: '+9'
 rarity: Common
 reflex: '+7'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
@@ -55,7 +45,6 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Samsaran|Samsaran]]'
@@ -63,7 +52,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+9'
 wisdom: '+4'
 

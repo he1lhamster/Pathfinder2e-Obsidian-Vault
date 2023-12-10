@@ -1,25 +1,15 @@
 ﻿---
 actions: '[three-actions]'
-cost: null
-element: null
 feat: Trample
-frequency: null
-heighten_level: null
 id: '2938'
 level: '16'
 name: Trample
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Eidolon|Eidolon]]'
 - '[[DATABASE/trait/Evolution|Evolution]]'
 - '[[DATABASE/trait/Summoner|Summoner]]'
-trigger: null
 type: Feat
 
 ---

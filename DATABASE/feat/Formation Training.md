@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Formation Training
-frequency: null
-heighten_level: null
 id: '1032'
+leads_to: '[[DATABASE/feat/Formation Master|Formation Master]]'
 level: '5'
 name: Formation Training
 prerequisite: trained in all martial weapons
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Hobgoblin|Hobgoblin]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Poultice Preparation
-frequency: null
-heighten_level: null
 id: '1984'
 level: '4'
 name: Poultice Preparation
 prerequisite: '[[DATABASE/feat/Herbalist Dedication|Herbalist Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

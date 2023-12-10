@@ -1,21 +1,15 @@
 ﻿---
 ac: '25'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Absorb Evocation
 - Engulf
 - Unstable Magic
-creature_family: null
 dexterity: '+4'
-element: null
 fly_speed: '40'
 fortitude: '+19'
-hardness: null
 hp: '155'
 id: '1277'
 immunity:
@@ -36,18 +30,13 @@ immunity:
 - '[[DATABASE/condition/Sickened|sickened]]'
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
-land_speed: null
-language: null
 level: '9'
 max_speed: '40'
 name: Roiling Incant
 perception: '+15'
 rarity: Uncommon
 reflex: '+17'
-resistance: null
-rus_type_level: null
 school: Evocation
-sense: null
 size: Large
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +19'
@@ -63,17 +52,14 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Arcane|Arcane]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Mindless|Mindless]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+15'
 wisdom: '+0'
 

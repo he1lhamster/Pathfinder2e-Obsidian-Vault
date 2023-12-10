@@ -1,31 +1,20 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Gendowyn|Gendowyn]]'
 - '[[DATABASE/deity/Gendowyn|Gendowyn]]'
 - '[[DATABASE/deity/Verilorn|Verilorn]]'
-domain: null
 duration: 10 minutes
-element: null
 heighten: '+2'
 heighten_level: 2, 4, 6, 8, 10
 id: '20'
-lesson: null
 level: '2'
-mystery: null
 name: Barkskin
-patron_theme: null
 range: touch
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: 1 willing creature
@@ -34,7 +23,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Plant|Plant]]'
-trigger: null
 type: Spell
 
 ---

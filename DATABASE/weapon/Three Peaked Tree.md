@@ -1,8 +1,6 @@
 ﻿---
 bulk: '2'
 damage: 1d4 P
-deity: null
-favored_weapon: null
 hands: '2'
 id: '223'
 item_category: Weapons
@@ -12,7 +10,6 @@ name: Three Peaked Tree
 price: 12 gp
 range: 60 ft.
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:
 - '[[DATABASE/trait/Combination|Combination]]'

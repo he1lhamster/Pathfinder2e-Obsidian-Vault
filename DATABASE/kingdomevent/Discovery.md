@@ -3,7 +3,6 @@ id: '9'
 level: '0'
 name: Discovery
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Scholarship|Scholarship]]'
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'

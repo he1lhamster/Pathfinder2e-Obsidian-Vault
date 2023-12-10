@@ -1,23 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Basic Druid Spellcasting
-frequency: null
-heighten_level: null
 id: '702'
+leads_to: '[[DATABASE/feat/Expert Druid Spellcasting|Expert Druid Spellcasting]] ,
+  [[DATABASE/feat/Primal Breadth|Primal Breadth]]'
 level: '4'
 name: Basic Druid Spellcasting
 prerequisite: '[[DATABASE/feat/Druid Dedication|Druid Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

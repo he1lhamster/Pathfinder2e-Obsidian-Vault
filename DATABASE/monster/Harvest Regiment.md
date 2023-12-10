@@ -1,10 +1,6 @@
 ﻿---
 ac: '26'
-alignment: null
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Form Up
@@ -14,15 +10,11 @@ creature_ability:
 - Shell Smash
 - Troop Defenses
 - Troop Movement
-creature_family: null
 dexterity: '+1'
 element: Wood
-fly_speed: null
 fortitude: '+16'
-hardness: null
 hp: 135 (16 squares)
 id: '2683'
-immunity: null
 intelligence: '-1'
 land_speed: '25'
 language:
@@ -34,9 +26,6 @@ name: Harvest Regiment
 perception: '+17'
 rarity: Common
 reflex: '+14'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Gargantuan
@@ -46,13 +35,11 @@ skill:
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 speed:
 - 25 feet; troop movement
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Elemental|Elemental]]'
 - '[[DATABASE/trait/Plant|Plant]]'

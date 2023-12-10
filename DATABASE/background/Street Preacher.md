@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Dubious Knowledge|Dubious Knowledge]]'
 id: '237'
 name: Street Preacher
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Religion|Religion]]'
 - '[[DATABASE/skill/Lore|Lore]] foryour patron deity.'
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

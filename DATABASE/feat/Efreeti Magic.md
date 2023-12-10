@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Efreeti Magic
-frequency: null
-heighten_level: null
 id: '2560'
 level: '9'
 name: Efreeti Magic
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Ifrit|Ifrit]]'
-trigger: null
 type: Feat
 
 ---

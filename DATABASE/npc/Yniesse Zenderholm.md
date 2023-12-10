@@ -1,21 +1,14 @@
 ﻿---
 ac: '25'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Erinyes Fury
-creature_family: null
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+17'
 hp: '120'
 id: '1959'
-immunity: null
 intelligence: '+1'
 land_speed: '20'
 language:
@@ -27,9 +20,6 @@ name: Yniesse Zenderholm
 perception: '+16'
 rarity: Unique
 reflex: '+11'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +17'
@@ -39,21 +29,17 @@ skill:
 source: '[[DATABASE/source/Shadows at Sundown|Shadows at Sundown]]'
 speed:
 - 20 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+14'
 wisdom: '+3'
 

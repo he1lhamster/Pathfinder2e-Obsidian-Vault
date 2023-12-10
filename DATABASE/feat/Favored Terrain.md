@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Favored Terrain
-frequency: null
-heighten_level: null
 id: '495'
+leads_to: '[[DATABASE/feat/Terrain Master|Terrain Master]]'
 level: '2'
 name: Favored Terrain
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Ranger|Ranger]]'
-trigger: null
 type: Feat
 
 ---

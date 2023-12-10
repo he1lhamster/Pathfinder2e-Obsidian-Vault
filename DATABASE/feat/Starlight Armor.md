@@ -1,26 +1,19 @@
 ﻿---
 actions: '[three-actions]'
-cost: null
-element: null
 feat: Starlight Armor
 frequency: once per day
-heighten_level: null
 id: '4074'
 level: '14'
 name: Starlight Armor
 prerequisite: '[[DATABASE/feat/Oatia Skysage Dedication|Oatia Skysage Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Conjuration
 source: '[[DATABASE/source/Pathfinder 187. The Seventh Arch|Pathfinder #187: The Seventh
   Arch]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Occult|Occult]]'
-trigger: null
 type: Feat
 
 ---

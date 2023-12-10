@@ -1,10 +1,6 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Steal Essence
-frequency: null
-heighten_level: null
 id: '1249'
 level: '20'
 name: Steal Essence
@@ -13,15 +9,11 @@ prerequisite: legendary in [[DATABASE/skill/Thievery|Thievery]] or master in [[D
   [[DATABASE/skill/Religion|Religion]]
 rarity: Uncommon
 requirement: A magic item is within your reach.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 156. The Apocalypse Prophet|Pathfinder #156:
   The Apocalypse Prophet]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Rogue|Rogue]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

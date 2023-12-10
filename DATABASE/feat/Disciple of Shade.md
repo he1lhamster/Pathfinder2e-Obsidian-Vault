@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Disciple of Shade
-frequency: null
-heighten_level: null
 id: '3011'
 level: '6'
 name: Disciple of Shade
 prerequisite: '[[DATABASE/feat/Shadowcaster Dedication|Shadowcaster Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

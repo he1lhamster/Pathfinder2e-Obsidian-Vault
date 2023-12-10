@@ -1,25 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Instrument of Slaughter
-frequency: null
-heighten_level: null
 id: '1691'
 level: '16'
 name: Instrument of Slaughter
 prerequisite: '[[DATABASE/class_/Champion|divine ally (blade)]] ; [[DATABASE/championtenet/Evil|tenets
   of evil]]'
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Champion|Champion]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

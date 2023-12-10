@@ -1,38 +1,27 @@
 ﻿---
 ac: '34'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Buck
 - Dogged Persistence
 - Punishing Tail
 - Trample
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+25'
-hardness: null
 hp: '220'
 id: '2120'
 immunity:
 - '[[DATABASE/trait/Olfactory|olfactory]] e'
 intelligence: '-4'
 land_speed: '25'
-language: null
 level: '12'
 max_speed: '25'
 name: War Sauropelta
 perception: '+23'
 rarity: Uncommon
 reflex: '+20'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Large
@@ -42,12 +31,10 @@ source: '[[DATABASE/source/Pathfinder 154. Siege of the Dinosaurs|Pathfinder #15
   Siege of the Dinosaurs]]'
 speed:
 - 25 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 - '[[DATABASE/trait/Dinosaur|Dinosaur]]'
@@ -56,7 +43,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Reflex
-weakness: null
 will: '+22'
 wisdom: '+4'
 

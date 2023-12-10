@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Side by Side (Druid)
-frequency: null
-heighten_level: null
 id: '339'
 level: '10'
 name: Side by Side (Druid)
 prerequisite: '[[DATABASE/feat/Animal Companion|Animal Companion]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Druid|Druid]]'
-trigger: null
 type: Feat
 
 ---

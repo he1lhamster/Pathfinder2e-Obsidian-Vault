@@ -1,10 +1,7 @@
 ﻿---
 ac: '31'
 alignment: LG
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Breath Weapon
@@ -17,10 +14,8 @@ creature_ability:
 - Wing Deflection
 creature_family: '[[DATABASE/monsterfamily/Dragon, Silver|Dragon, Silver]]'
 dexterity: '+2'
-element: null
 fly_speed: '100'
 fortitude: '+20'
-hardness: null
 hp: '200'
 id: '154'
 immunity:
@@ -39,9 +34,6 @@ name: Young Silver Dragon
 perception: '+20'
 rarity: Common
 reflex: '+17'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - fog vision
@@ -65,7 +57,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Cold|Cold]]'
 - '[[DATABASE/trait/Dragon|Dragon]]'

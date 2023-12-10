@@ -1,10 +1,7 @@
 ﻿---
 ac: '19'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Blood Drain
@@ -12,25 +9,18 @@ creature_ability:
 - Grab
 creature_family: '[[DATABASE/monsterfamily/Bloodseeker|Bloodseeker]]'
 dexterity: '+5'
-element: null
 fly_speed: '40'
 fortitude: '+6'
-hardness: null
 hp: '25'
 id: '2694'
-immunity: null
 intelligence: '-5'
 land_speed: '10'
-language: null
 level: '2'
 max_speed: '40'
 name: Giant Bloodseeker
 perception: '+10'
 rarity: Uncommon
 reflex: '+11'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 60 feet'
@@ -43,12 +33,10 @@ source: '[[DATABASE/source/Pathfinder 194. Cult of the Cave Worm|Pathfinder #194
 speed:
 - 10 feet
 - fly 40 feet
-spell: null
 strength: '+1'
 strength_req: '1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
@@ -57,7 +45,6 @@ vision: Darkvision
 weakest_save:
 - Fortitude
 - Will
-weakness: null
 will: '+6'
 wisdom: '+2'
 

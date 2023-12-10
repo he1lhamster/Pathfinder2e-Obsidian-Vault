@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Solar Rejuvenation (Leshy)
-frequency: null
-heighten_level: null
 id: '1049'
 level: '9'
 name: Solar Rejuvenation (Leshy)
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Leshy|Leshy]]'
-trigger: null
 type: Feat
 
 ---

@@ -8,14 +8,11 @@ ability_boost:
 feat: '[[DATABASE/feat/Assurance|Assurance]]'
 id: '36'
 name: Scholar
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - Academia [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

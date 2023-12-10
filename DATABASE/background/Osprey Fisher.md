@@ -8,9 +8,7 @@ ability_boost:
 feat: '[[DATABASE/feat/Quick Repair|Quick Repair]]'
 id: '400'
 name: Osprey Fisher
-prerequisite: null
 rarity: Rare
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Crafting|Crafting]]'
 - Sailing [[DATABASE/skill/Lore|Lore]]

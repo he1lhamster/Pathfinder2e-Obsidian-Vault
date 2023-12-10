@@ -1,21 +1,14 @@
 ﻿---
 ac: '48'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+9'
 creature_ability:
 - Breath Weapon
 - Frightful Presence
 - Reverberating Revenge
-creature_family: null
 dexterity: '+8'
-element: null
-fly_speed: null
 fortitude: '+39'
-hardness: null
 hp: '430'
 id: '489'
 immunity:
@@ -35,7 +28,6 @@ immunity:
 - unconscious
 intelligence: '-5'
 land_speed: '30'
-language: null
 level: '22'
 max_speed: '30'
 name: Dragonshard Guardian
@@ -45,8 +37,6 @@ reflex: '+36'
 resistance:
 - fire 24
 - physical 24 (except bludgeoning adamantine)
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - '[[DATABASE/spell/True Seeing|true seeing]]'
@@ -57,12 +47,10 @@ source: '[[DATABASE/source/Pathfinder 150. Broken Promises|Pathfinder #150: Brok
   Promises]]'
 speed:
 - 30 feet
-spell: null
 strength: '+10'
 strength_req: '10'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Unique|Unique]]'

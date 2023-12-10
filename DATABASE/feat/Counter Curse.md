@@ -1,20 +1,14 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Counter Curse
-frequency: null
-heighten_level: null
 id: '3834'
+leads_to: '[[DATABASE/feat/Reverse Curse|Reverse Curse]]'
 level: '8'
 name: Counter Curse
 prerequisite: '[[DATABASE/feat/Curse Maelstrom Dedication|Curse Maelstrom Dedication]]'
 rarity: Common
 requirement: You are in a curse maelstrom state.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 trigger: You or an ally within 30 feet is targeted by or in the emanation of a [[DATABASE/trait/Curse|curse]]

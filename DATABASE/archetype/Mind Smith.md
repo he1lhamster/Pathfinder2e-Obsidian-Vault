@@ -2,11 +2,8 @@
 id: '194'
 level: '2'
 name: Mind Smith
-prerequisite: null
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-trait: null
 type: Archetype
 
 ---

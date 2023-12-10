@@ -8,9 +8,7 @@ ability_boost:
 feat: '[[DATABASE/feat/Subtle Theft|Subtle Theft]]'
 id: '280'
 name: Alkenstar Outlaw
-prerequisite: null
 rarity: Uncommon
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Thievery|Thievery]]'
 - Underworld [[DATABASE/skill/Lore|Lore]]

@@ -1,25 +1,18 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Golden League Xun Dedication
-frequency: null
-heighten_level: null
 id: '2734'
+leads_to: '[[DATABASE/feat/Beneath Notice|Beneath Notice]] , [[DATABASE/feat/Menacing
+  Prowess|Menacing Prowess]] , [[DATABASE/feat/Rope Mastery|Rope Mastery]] , [[DATABASE/feat/Silent
+  Sting|Silent Sting]]'
 level: '8'
 name: Golden League Xun Dedication
 prerequisite: Master in [[DATABASE/skill/Lore|Underworld Lore]]
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 167. Ready Fight!|Pathfinder #167: Ready? Fight!]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

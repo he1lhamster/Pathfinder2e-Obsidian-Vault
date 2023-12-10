@@ -1,21 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Farabellus Flip
-frequency: null
-heighten_level: null
 id: '2275'
 level: '4'
 name: Farabellus Flip
 prerequisite: Trained in [[DATABASE/skill/Acrobatics|Acrobatics]] ; trained in medium
   armor
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Barbarian|Barbarian]]'
 - '[[DATABASE/trait/Fighter|Fighter]]'

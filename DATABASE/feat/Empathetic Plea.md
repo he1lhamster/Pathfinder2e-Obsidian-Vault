@@ -1,20 +1,12 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Empathetic Plea
-frequency: null
-heighten_level: null
 id: '1416'
 level: '1'
 name: Empathetic Plea
 prerequisite: Trained in [[DATABASE/skill/Diplomacy|Diplomacy]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Auditory|Auditory]]'
 - '[[DATABASE/trait/Emotion|Emotion]]'

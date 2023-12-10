@@ -1,26 +1,30 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Spell Trickster Dedication
-frequency: null
-heighten_level: null
 id: '3368'
+leads_to: '[[DATABASE/feat/Agile Hand|Agile Hand]] , [[DATABASE/feat/Animate Net|Animate
+  Net]] , [[DATABASE/feat/Barrier Shield|Barrier Shield]] , [[DATABASE/feat/Confounding
+  Image|Confounding Image]] , [[DATABASE/feat/Directed Poison|Directed Poison]] ,
+  [[DATABASE/feat/Disk Rider|Disk Rider]] , [[DATABASE/feat/Drenching Mist|Drenching
+  Mist]] , [[DATABASE/feat/Forceful Push|Forceful Push]] , [[DATABASE/feat/Lingering
+  Flames|Lingering Flames]] , [[DATABASE/feat/Obscured Terrain|Obscured Terrain]]
+  , [[DATABASE/feat/Scattered Fire|Scattered Fire]] , [[DATABASE/feat/Shining Arms|Shining
+  Arms]] , [[DATABASE/feat/Siphoning Touch|Siphoning Touch]] , [[DATABASE/feat/Smoldering
+  Explosion|Smoldering Explosion]] , [[DATABASE/feat/Steal Vitality|Steal Vitality]]
+  , [[DATABASE/feat/Summon Ensemble|Summon Ensemble]] , [[DATABASE/feat/Surrounding
+  Flames|Surrounding Flames]] , [[DATABASE/feat/Toppling Tentacles|Toppling Tentacles]]
+  , [[DATABASE/feat/Tracing Sigil|Tracing Sigil]] , [[DATABASE/feat/Uneasy Rest|Uneasy
+  Rest]] , [[DATABASE/feat/Volatile Grease|Volatile Grease]] , [[DATABASE/feat/Wild
+  Lights|Wild Lights]]'
 level: '2'
 name: Spell Trickster Dedication
 prerequisite: Able to cast spells; Trained in [[DATABASE/skill/Arcana|Arcana]] , Trained
   in [[DATABASE/skill/Nature|Nature]] , Trained in [[DATABASE/skill/Occultism|Occultism]]
   , or Trained in [[DATABASE/skill/Religion|Religion]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
-trigger: null
 type: Feat
 
 ---

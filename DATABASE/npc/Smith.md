@@ -1,21 +1,15 @@
 ﻿---
 ac: '17'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Smith's Fury
 creature_family: '[[DATABASE/monsterfamily/Tradespeople|Tradespeople]]'
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+9'
 hp: '50'
 id: '957'
-immunity: null
 intelligence: '+3'
 land_speed: '25'
 language:
@@ -26,9 +20,6 @@ name: Smith
 perception: '+5'
 rarity: Common
 reflex: '+8'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +8'
@@ -39,20 +30,16 @@ skill:
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 speed:
 - 25 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+5'
 wisdom: '+0'
 

@@ -1,8 +1,6 @@
 ﻿---
 ac: '30'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
 climb_speed: '15'
 constitution: '+6'
@@ -12,15 +10,10 @@ creature_ability:
 - Dimensional Tether
 - Penetrating Strike
 - Scent Demons
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+22'
-hardness: null
 hp: '200'
 id: '568'
-immunity: null
 intelligence: '+3'
 land_speed: '35'
 language:
@@ -32,9 +25,6 @@ name: Bebilith
 perception: '+21'
 rarity: Common
 reflex: '+19'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent demons 60 feet]]'
@@ -55,7 +45,6 @@ strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

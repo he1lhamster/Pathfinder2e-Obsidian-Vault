@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Courtly Graces|Courtly Graces]]'
 id: '311'
 name: Ozem Experience
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Society|Society]]'
 - Warfare [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

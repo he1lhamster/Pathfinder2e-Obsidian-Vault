@@ -1,22 +1,15 @@
 ﻿---
 ac: '18'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Drain Bonded Item
 - Mesmerizing Sigil
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+6'
 hp: '45'
 id: '1766'
-immunity: null
 intelligence: '+4'
 land_speed: '25'
 language:
@@ -27,9 +20,6 @@ name: Ardissa Prendergant
 perception: '+9'
 rarity: Unique
 reflex: '+9'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +7'
@@ -58,16 +48,13 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+11'
 wisdom: '+2'
 

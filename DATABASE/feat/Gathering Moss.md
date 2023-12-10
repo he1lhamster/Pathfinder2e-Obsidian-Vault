@@ -1,25 +1,19 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Gathering Moss
 frequency: once per day
-heighten_level: null
 id: '4180'
 level: '10'
 name: Gathering Moss
 prerequisite: '[[DATABASE/feat/Stalwart Defender Dedication|Stalwart Defender Dedication]]'
 rarity: Common
 requirement: You are in Tenacious Stance.
-rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Highhelm|Highhelm]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
-trigger: null
 type: Feat
 
 ---

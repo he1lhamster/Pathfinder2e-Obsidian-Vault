@@ -1,10 +1,7 @@
 ﻿---
 ac: '44'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+8'
-climb_speed: null
 constitution: '+9'
 creature_ability:
 - Black Flame Knives
@@ -16,10 +13,8 @@ creature_ability:
 - Death
 creature_family: '[[DATABASE/monsterfamily/Demon|Demon]]'
 dexterity: '+6'
-element: null
 fly_speed: '50'
 fortitude: '+34'
-hardness: null
 hp: '375'
 id: '603'
 immunity:
@@ -38,9 +33,6 @@ name: Vrolikai
 perception: '+33'
 rarity: Uncommon
 reflex: '+31'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/spell/True Seeing|true seeing]]'
@@ -69,7 +61,6 @@ strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Demon|Demon]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

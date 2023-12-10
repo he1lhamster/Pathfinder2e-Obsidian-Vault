@@ -1,31 +1,21 @@
 ﻿---
 actions: '[two-actions]'
-area: null
 bloodline: '[[DATABASE/sorcererbloodline/Fey|Fey]]'
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Bes|Bes]]'
 - '[[DATABASE/deity/Kofusachi|Kofusachi]]'
 - '[[DATABASE/deity/The Lantern King|The Lantern King]]'
 - '[[DATABASE/deity/The Perplexing Jest|The Perplexing Jest]]'
-domain: null
 duration: sustained
-element: null
-heighten: null
 heighten_level: '2'
 id: '150'
-lesson: null
 level: '2'
-mystery: null
 name: Hideous Laughter
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Will
 school: Enchantment
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -37,7 +27,6 @@ trait:
 - '[[DATABASE/trait/Emotion|Emotion]]'
 - '[[DATABASE/trait/Enchantment|Enchantment]]'
 - '[[DATABASE/trait/Mental|Mental]]'
-trigger: null
 type: Spell
 
 ---

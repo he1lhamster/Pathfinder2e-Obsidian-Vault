@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Tenacious Net
-frequency: null
-heighten_level: null
 id: '2825'
 level: '5'
 name: Tenacious Net
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Grippli|Grippli]]'
-trigger: null
 type: Feat
 
 ---

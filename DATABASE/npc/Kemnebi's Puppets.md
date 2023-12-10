@@ -1,18 +1,12 @@
 ﻿---
 ac: '36'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Controlled
 - Gang Up
-creature_family: null
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+30'
 hp: '365'
 id: '2436'
@@ -29,9 +23,6 @@ name: Kemnebi's Puppets
 perception: '+30'
 rarity: Uncommon
 reflex: '+30'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +28'
@@ -41,22 +32,18 @@ source: '[[DATABASE/source/Pathfinder 186. Ghost King''s Rage|Pathfinder #186: G
   King''s Rage]]'
 speed:
 - 25 feet
-spell: null
 strength: '+9'
 strength_req: '9'
 strongest_save:
 - Fortitude
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+22'
 wisdom: '+5'
 

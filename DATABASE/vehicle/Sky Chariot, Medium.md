@@ -1,8 +1,5 @@
 ﻿---
 ac: '25'
-burrow_speed: null
-climb_speed: null
-fly_speed: null
 fortitude: '+19'
 hardness: '15'
 hp: '160'
@@ -14,13 +11,8 @@ max_speed: '1'
 name: Sky Chariot, Medium
 price: 3,000 gp
 rarity: Uncommon
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 size: Huge
 source: '[[DATABASE/source/Pathfinder 167. Ready Fight!|Pathfinder #167: Ready? Fight!]]'
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Vehicle

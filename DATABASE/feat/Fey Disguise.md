@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Fey Disguise
-frequency: null
-heighten_level: null
 id: '2638'
 level: '5'
 name: Fey Disguise
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Sprite|Sprite]]'
-trigger: null
 type: Feat
 
 ---

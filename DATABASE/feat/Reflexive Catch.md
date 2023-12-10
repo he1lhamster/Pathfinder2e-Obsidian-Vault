@@ -1,10 +1,6 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Reflexive Catch
-frequency: null
-heighten_level: null
 id: '1190'
 level: '4'
 name: Reflexive Catch
@@ -15,11 +11,8 @@ requirement: "The item or thrown weapon is of a Bulk you can [[DATABASE/feat/Jug
   \ . Ifthe trigger was a thrown weapon attack targeting you, you can\u2019t be [[DATABASE/condition/Flat-Footed|flat-footed]]\
   \ to the attack. If you were already Juggling, you can\u2019t be Juggling yourmaximum\
   \ number of items."
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 151. The Show Must Go On|Pathfinder #151: The
   Show Must Go On]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'

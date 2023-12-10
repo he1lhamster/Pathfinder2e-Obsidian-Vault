@@ -1,26 +1,17 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Greenwatch Initiate
-frequency: null
-heighten_level: null
 id: '4053'
+leads_to: '[[DATABASE/feat/Defy Fey|Defy Fey]] , [[DATABASE/feat/Fey Tracker|Fey Tracker]]'
 level: '4'
 name: Greenwatch Initiate
 prerequisite: Trained in [[DATABASE/skill/Survival|Survival]]
 rarity: Rare
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Gunslinger|Gunslinger]]'
 - '[[DATABASE/trait/Investigator|Investigator]]'
 - '[[DATABASE/trait/Ranger|Ranger]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Feat
 
 ---

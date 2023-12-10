@@ -1,45 +1,16 @@
 ﻿---
-ac: null
 actions: '[free-action]'
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '1227'
 item_category: Consumables
 item_subcategory: Talismans
-land_speed: null
 level: '4'
-max_speed: null
 name: Energized Cartridge
-onset: null
 price: 20 gp
-range: null
 rarity: Common
-reflex: null
 requirement: You're trained in use of the affixed firearm or crossbow.
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
-size: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-spell: null
-stage: null
 subcategory: consumable/talisman
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Consumable|Consumable]]'
 - '[[DATABASE/trait/Magical|Magical]]'
@@ -48,9 +19,6 @@ trait:
 trigger: You attempt an attack roll with the affixed firearm or crossbow
 type: Item
 usage: affixed to a firearm or crossbow
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Energized Cartridge<span class="item-type">Item 4</span>

@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Crimson Oath Devotion
-frequency: null
-heighten_level: null
 id: '3595'
 level: '14'
 name: Crimson Oath Devotion
 prerequisite: '[[DATABASE/feat/Knight Reclaimant Dedication|Knight Reclaimant Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

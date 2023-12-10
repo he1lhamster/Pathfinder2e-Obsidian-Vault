@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Versatile Performance
-frequency: null
-heighten_level: null
 id: '182'
 level: '1'
 name: Versatile Performance
 prerequisite: '[[DATABASE/bardmuse/Polymath|polymath muse]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Bard|Bard]]'
-trigger: null
 type: Feat
 
 ---

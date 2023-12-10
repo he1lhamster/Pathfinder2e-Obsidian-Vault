@@ -1,24 +1,17 @@
 ﻿---
 ac: '35'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Hunt Prey
 - Hunter's Flurry
 - Improved Evasion
 - Light Blindness
-creature_family: null
 dexterity: '+8'
-element: null
-fly_speed: null
 fortitude: '+21'
 hp: '240'
 id: '1574'
-immunity: null
 intelligence: '+2'
 land_speed: '25'
 language:
@@ -31,8 +24,6 @@ name: Duergar Slave Lord
 perception: '+26'
 rarity: Rare
 reflex: '+28'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -54,7 +45,6 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Duergar|Duergar]]'
 - '[[DATABASE/trait/Dwarf|Dwarf]]'
@@ -64,7 +54,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+23'
 wisdom: '+5'
 

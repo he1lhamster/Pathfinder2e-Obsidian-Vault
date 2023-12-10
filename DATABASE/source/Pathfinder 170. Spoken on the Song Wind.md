@@ -2,9 +2,6 @@
 id: '97'
 name: Pathfinder 170. Spoken on the Song Wind
 rarity: Common
-rus_type_level: null
-source: null
-trait: null
 type: Source
 
 ---

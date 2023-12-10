@@ -1,8 +1,6 @@
 ﻿---
 ac: '24'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+17'
 hardness: '8'
 hazard_type: Trap
@@ -16,17 +14,12 @@ level: '6'
 name: False Door Trap
 rarity: Common
 reflex: '+11'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 179. Cradle of Quartz|Pathfinder #179: Cradle
   of Quartz]]'
 trait:
 - '[[DATABASE/trait/Mechanical|Mechanical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # False Door Trap<span class="item-type">Hazard 6</span>

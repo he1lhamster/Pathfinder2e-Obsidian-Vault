@@ -1,10 +1,8 @@
 ﻿---
 ac: '20'
 alignment: N
-all_resistance: null
 burrow_speed: '30'
 charisma: '+0'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Earth Glide
@@ -14,9 +12,7 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Elemental, Earth|Elemental, Earth]]'
 dexterity: '+1'
 element: Earth
-fly_speed: null
 fortitude: '+14'
-hardness: null
 hp: '72'
 id: '651'
 immunity:
@@ -34,9 +30,6 @@ name: Earthen Destrier
 perception: '+10'
 rarity: Common
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Tremorsense|tremorsense (imprecise) 60 feet]]'
@@ -47,12 +40,10 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 50 feet
 - burrow 30 feet; earth glide
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Elemental|Elemental]]'
@@ -60,7 +51,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+10'
 wisdom: '+3'
 

@@ -1,22 +1,15 @@
 ﻿---
 ac: '33'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Blizzard Evasion
 - Curse of the Saumen Kar
 - Frostbite Runes
 - Snowblind
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+25'
-hardness: null
 hp: '259'
 id: '1721'
 immunity:
@@ -34,8 +27,6 @@ rarity: Unique
 reflex: '+22'
 resistance:
 - '[[DATABASE/trait/Fire|fire]] 20'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -55,7 +46,6 @@ strength: '+8'
 strength_req: '8'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Cold|Cold]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -64,7 +54,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+27'
 wisdom: '+5'
 

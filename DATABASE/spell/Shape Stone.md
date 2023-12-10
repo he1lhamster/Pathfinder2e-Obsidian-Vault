@@ -1,31 +1,19 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Ashukharma|Ashukharma]]'
 - '[[DATABASE/deity/Findeladlara|Findeladlara]]'
 - '[[DATABASE/deity/Mazludeh|Mazludeh]]'
-domain: null
-duration: null
 element: Earth
-heighten: null
 heighten_level: '4'
 id: '276'
-lesson: null
 level: '4'
-mystery: null
 name: Shape Stone
-patron_theme: null
 range: touch
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: cube of stone 10 feet across or smaller
@@ -35,7 +23,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Spell
 
 ---

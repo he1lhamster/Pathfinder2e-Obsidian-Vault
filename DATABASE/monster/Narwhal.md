@@ -1,27 +1,17 @@
 ﻿---
 ac: '18'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Aquatic Echolocation
 - Deep Breath
 - Impaling Charge
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+9'
-hardness: null
 hp: '50'
 id: '1245'
-immunity: null
 intelligence: '-4'
-land_speed: null
-language: null
 level: '3'
 max_speed: '60'
 name: Narwhal
@@ -30,8 +20,6 @@ rarity: Common
 reflex: '+10'
 resistance:
 - cold 5
-rus_type_level: null
-school: null
 sense:
 - aquatic echolocation 120 feet
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
@@ -41,7 +29,6 @@ skill:
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - swim 60 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
@@ -54,7 +41,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+8'
 wisdom: '+3'
 

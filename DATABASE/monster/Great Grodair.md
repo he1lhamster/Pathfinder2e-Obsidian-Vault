@@ -1,24 +1,17 @@
 ﻿---
 ac: '23'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Death Flood
 - Muddy Field
 - Organ of Endless Water
-creature_family: null
 dexterity: '+1'
 element: Water
-fly_speed: null
 fortitude: '+18'
-hardness: null
 hp: '130'
 id: '1637'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -31,9 +24,6 @@ name: Great Grodair
 perception: '+16'
 rarity: Unique
 reflex: '+12'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -65,7 +55,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+14'
 wisdom: '+2'
 

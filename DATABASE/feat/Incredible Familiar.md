@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Incredible Familiar
-frequency: null
-heighten_level: null
 id: '1576'
 level: '8'
 name: Incredible Familiar
 prerequisite: '[[DATABASE/feat/Enhanced Familiar|Enhanced Familiar]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Thaumaturge|Thaumaturge]]'
 - '[[DATABASE/trait/Witch|Witch]]'
-trigger: null
 type: Feat
 
 ---

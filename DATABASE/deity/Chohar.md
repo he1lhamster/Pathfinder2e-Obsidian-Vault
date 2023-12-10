@@ -29,11 +29,9 @@ follower_alignment:
 id: '215'
 name: Chohar
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Intimidation|Intimidation]]'
 source: '[[DATABASE/source/Legends|Legends]]'
-trait: null
 type: Deity
 
 ---

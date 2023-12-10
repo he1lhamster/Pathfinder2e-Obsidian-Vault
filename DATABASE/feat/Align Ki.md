@@ -1,20 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Align Ki
 frequency: once per hour
-heighten_level: null
 id: '1740'
 level: '6'
 name: Align Ki
 prerequisite: ki spells
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Monk|Monk]]'
 trigger: You Cast a Spell that has the [[DATABASE/trait/Monk|monk]] trait.

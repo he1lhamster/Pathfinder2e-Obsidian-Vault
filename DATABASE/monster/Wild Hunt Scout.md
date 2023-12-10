@@ -1,10 +1,7 @@
 ﻿---
 ac: '42'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Befuddle
@@ -20,13 +17,9 @@ creature_ability:
 - Wild Hunt Link
 creature_family: '[[DATABASE/monsterfamily/Wild Hunt|Wild Hunt]]'
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+28'
-hardness: null
 hp: '380'
 id: '2215'
-immunity: null
 intelligence: '+5'
 land_speed: '40'
 language:
@@ -41,9 +34,6 @@ name: Wild Hunt Scout
 perception: '+34'
 rarity: Rare
 reflex: '+30'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 - greensight
@@ -77,7 +67,6 @@ strength: '+9'
 strength_req: '9'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Rare|Rare]]'

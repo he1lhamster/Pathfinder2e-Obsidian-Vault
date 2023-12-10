@@ -1,10 +1,7 @@
 ﻿---
 ac: '23'
 alignment: LG
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Bear Empathy
@@ -17,13 +14,9 @@ creature_ability:
 - Edge
 creature_family: '[[DATABASE/monsterfamily/Werecreature|Werecreature]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+12'
-hardness: null
 hp: '75'
 id: '412'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -34,9 +27,6 @@ name: Werebear
 perception: '+11'
 rarity: Uncommon
 reflex: '+10'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 - scent (imprecise) 30 feet
@@ -50,12 +40,10 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 25 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Human|Human]]'

@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Cross the Threshold
-frequency: null
-heighten_level: null
 id: '2713'
 level: '16'
 name: Cross the Threshold
 prerequisite: '[[DATABASE/feat/Ghost Eater Dedication|Ghost Eater Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #166:
   Despair on Danger Island]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,10 +1,7 @@
 ﻿---
 ac: '18'
 alignment: NG
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - A Drink for Good Luck
@@ -15,14 +12,10 @@ creature_ability:
 - Wood-Grain Speaker
 - You Know
 - They Say...
-creature_family: null
 dexterity: '-1'
-element: null
-fly_speed: null
 fortitude: '+10'
 hp: '70'
 id: '2736'
-immunity: null
 intelligence: '+4'
 land_speed: '25'
 language:
@@ -36,8 +29,6 @@ name: "Shou \u201COld\u201D Matsuki"
 perception: '+12'
 rarity: Unique
 reflex: '+8'
-resistance: null
-rus_type_level: null
 sense:
 - cataracts
 - wood-grain speaker
@@ -52,21 +43,17 @@ source: '[[DATABASE/source/Pathfinder 196. The Summer That Never Was|Pathfinder 
   The Summer That Never Was]]'
 speed:
 - 25 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+12'
 wisdom: '+3'
 

@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Survivor of Desolation
-frequency: null
-heighten_level: null
 id: '1099'
+leads_to: '[[DATABASE/feat/Shepherd of Desolation|Shepherd of Desolation]]'
 level: '8'
 name: Survivor of Desolation
 prerequisite: '[[DATABASE/feat/Knight Reclaimant Dedication|Knight Reclaimant Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

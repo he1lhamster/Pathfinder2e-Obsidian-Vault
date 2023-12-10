@@ -1,32 +1,19 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Abraxas|Abraxas]]'
 - '[[DATABASE/deity/Groetus|Groetus]]'
 - '[[DATABASE/deity/Nethys|Nethys]]'
 - '[[DATABASE/deity/Wards of the Pharaoh|Wards of the Pharaoh]]'
-domain: null
-duration: null
-element: null
-heighten: null
 heighten_level: '9'
 id: '77'
-lesson: null
 level: '9'
-mystery: null
 name: Disjunction
-patron_theme: null
 range: 120 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: 1 magic item
@@ -36,7 +23,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Spell
 
 ---

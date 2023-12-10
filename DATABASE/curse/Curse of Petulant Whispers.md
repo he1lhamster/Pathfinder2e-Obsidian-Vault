@@ -1,10 +1,8 @@
 ﻿---
-element: null
 id: '43'
 level: '2'
 name: Curse of Petulant Whispers
 rarity: Common
-rus_type_level: null
 saving_throw: DC 16 Will
 school: Illusion
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
@@ -14,7 +12,6 @@ trait:
 - '[[DATABASE/trait/Illusion|Illusion]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 type: Curse
-usage: null
 
 ---
 # Curse of Petulant Whispers<span class="item-type">Curse 2</span>

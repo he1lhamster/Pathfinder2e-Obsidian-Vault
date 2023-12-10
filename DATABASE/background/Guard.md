@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Quick Coercion|Quick Coercion]]'
 id: '19'
 name: Guard
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Intimidation|Intimidation]]'
 - Legal [[DATABASE/skill/Lore|Lore]] or Warfare Lore skill.
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

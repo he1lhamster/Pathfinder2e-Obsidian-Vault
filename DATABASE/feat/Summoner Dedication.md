@@ -1,25 +1,19 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Summoner Dedication
-frequency: null
-heighten_level: null
 id: '2953'
+leads_to: '[[DATABASE/feat/Basic Summoner Spellcasting|Basic Summoner Spellcasting]]
+  , [[DATABASE/feat/Basic Synergy|Basic Synergy]] , [[DATABASE/feat/Expert Combat
+  Eidolon|Expert Combat Eidolon]] , [[DATABASE/feat/Initial Eidolon Ability|Initial
+  Eidolon Ability]]'
 level: '2'
 name: Summoner Dedication
 prerequisite: Charisma 14
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Multiclass|Multiclass]]'
-trigger: null
 type: Feat
 
 ---

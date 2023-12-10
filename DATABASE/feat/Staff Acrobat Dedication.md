@@ -1,11 +1,9 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Staff Acrobat Dedication
-frequency: null
-heighten_level: null
 id: '1193'
+leads_to: '[[DATABASE/feat/Bullying Staff|Bullying Staff]] , [[DATABASE/feat/Levering
+  Strike|Levering Strike]] , [[DATABASE/feat/Pivot Strike|Pivot Strike]] , [[DATABASE/feat/Staff
+  Sweep|Staff Sweep]] , [[DATABASE/feat/Whirlwind Stance|Whirlwind Stance]]'
 level: '2'
 name: Staff Acrobat Dedication
 prerequisite: "Dexterity 16; Trained in [[DATABASE/skill/Acrobatics|Acrobatics]] ;\
@@ -15,17 +13,12 @@ prerequisite: "Dexterity 16; Trained in [[DATABASE/skill/Acrobatics|Acrobatics]]
   \ , or any weapon in the [[DATABASE/weapongroup/Spear|spear]] or [[DATABASE/weapongroup/Polearm|polearm]]\
   \ group (referred to in this archetype as \u201Cyour staff\u201D)"
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 151. The Show Must Go On|Pathfinder #151: The
   Show Must Go On]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

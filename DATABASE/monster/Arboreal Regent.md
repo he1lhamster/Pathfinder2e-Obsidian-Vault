@@ -1,10 +1,7 @@
 ﻿---
 ac: '26'
 alignment: NG
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Awaken Tree
@@ -13,13 +10,9 @@ creature_ability:
 - Throw Rock
 creature_family: '[[DATABASE/monsterfamily/Arboreal|Arboreal]]'
 dexterity: '-1'
-element: null
-fly_speed: null
 fortitude: '+20'
-hardness: null
 hp: '150'
 id: '29'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -36,8 +29,6 @@ reflex: '+11'
 resistance:
 - bludgeoning 5
 - piercing 5
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 size: Huge
@@ -56,7 +47,6 @@ strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Plant|Plant]]'
 type: Creature

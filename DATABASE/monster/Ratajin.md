@@ -1,22 +1,15 @@
 ﻿---
 ac: '18'
 alignment: CG
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Outsmart
 creature_family: '[[DATABASE/monsterfamily/Ratajin|Ratajin]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+6'
-hardness: null
 hp: '30'
 id: '2414'
-immunity: null
 intelligence: '+3'
 land_speed: '25'
 language:
@@ -29,9 +22,6 @@ name: Ratajin Mastermind
 perception: '+7'
 rarity: Rare
 reflex: '+11'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
@@ -47,12 +37,10 @@ skill:
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 speed:
 - 25 feet
-spell: null
 strength: '+1'
 strength_req: '1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Rare|Rare]]'
@@ -61,7 +49,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+7'
 wisdom: '+1'
 

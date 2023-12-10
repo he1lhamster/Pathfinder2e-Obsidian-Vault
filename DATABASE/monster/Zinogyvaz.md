@@ -1,8 +1,6 @@
 ﻿---
 ac: '39'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
 climb_speed: '30'
 constitution: '+4'
@@ -16,12 +14,8 @@ creature_ability:
 - ''
 - Vampire Drider Venom
 - Web Trap
-creature_family: null
 dexterity: '+7'
-element: null
-fly_speed: null
 fortitude: '+26'
-hardness: null
 hp: 240 (coffin restoration (as vampire), fast healing 20 , negative healing )
 id: '2129'
 immunity:
@@ -42,9 +36,6 @@ name: Zinogyvaz
 perception: '+28'
 rarity: Unique
 reflex: '+27'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -92,7 +83,6 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Undead|Undead]]'
 - '[[DATABASE/trait/Unique|Unique]]'

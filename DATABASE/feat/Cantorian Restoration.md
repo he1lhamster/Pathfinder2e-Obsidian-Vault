@@ -1,20 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Cantorian Restoration
 frequency: once per day
-heighten_level: null
 id: '2378'
 level: '17'
 name: Cantorian Restoration
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Healing|Healing]]'
 - '[[DATABASE/trait/Hobgoblin|Hobgoblin]]'

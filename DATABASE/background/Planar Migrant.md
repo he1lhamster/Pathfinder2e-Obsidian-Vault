@@ -5,12 +5,9 @@ ability:
 ability_boost:
 - Dexterity
 - Constitution
-feat: null
 id: '385'
 name: Planar Migrant
-prerequisite: null
 rarity: Rare
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]]'
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'

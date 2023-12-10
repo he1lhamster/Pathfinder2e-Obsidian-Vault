@@ -1,20 +1,14 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Guardian Ghosts
 frequency: once per 10 minutes
-heighten_level: null
 id: '3493'
 level: '8'
 name: Guardian Ghosts
 prerequisite: '[[DATABASE/feat/Undead Master Dedication|Undead Master Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Divine|Divine]]'

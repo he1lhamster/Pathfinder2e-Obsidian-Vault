@@ -1,24 +1,17 @@
 ﻿---
 ac: '26'
-burrow_speed: null
-climb_speed: null
-fly_speed: null
 fortitude: '+20'
 hardness: '15'
 hp: '120'
 id: '44'
 item_category: Vehicles
-land_speed: null
 level: '11'
 max_speed: '40'
 name: Shark Diver
 price: 4,200 gp
 rarity: Uncommon
-reflex: null
 resistance:
 - '[[DATABASE/trait/Electricity|electricity]] 10'
-rus_type_level: null
-school: null
 size: Huge
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
 swim_speed: '40'

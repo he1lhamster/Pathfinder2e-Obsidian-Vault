@@ -3,7 +3,6 @@ id: '28'
 level: '1'
 name: Pilgrimage
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Folklore|Folklore]]'
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'

@@ -1,22 +1,15 @@
 ﻿---
 ac: '23'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Spike Volley
-creature_family: null
 dexterity: '+2'
-element: null
 fly_speed: '40'
 fortitude: '+16'
-hardness: null
 hp: '90'
 id: '294'
-immunity: null
 intelligence: '-2'
 land_speed: '25'
 language:
@@ -27,9 +20,6 @@ name: Manticore
 perception: '+14'
 rarity: Common
 reflex: '+12'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - scent (imprecise) 30 feet
@@ -43,12 +33,10 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 25 feet
 - fly 40 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 type: Creature
@@ -56,7 +44,6 @@ vision: Darkvision
 weakest_save:
 - Reflex
 - Will
-weakness: null
 will: '+12'
 wisdom: '+2'
 

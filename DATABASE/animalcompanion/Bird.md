@@ -1,10 +1,7 @@
 ﻿---
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+1'
 dexterity: '+3'
-element: null
 fly_speed: '60'
 hp: '4'
 id: '3'
@@ -13,7 +10,6 @@ land_speed: '10'
 max_speed: '60'
 name: Bird
 rarity: Common
-rus_type_level: null
 sense:
 - low-light vision
 size: Small
@@ -25,8 +21,6 @@ speed:
 - fly 60 feet
 strength: '+2'
 strength_req: '2'
-swim_speed: null
-trait: null
 type: Animal Companion
 wisdom: '+2'
 

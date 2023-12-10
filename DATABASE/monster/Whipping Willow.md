@@ -1,8 +1,5 @@
 ﻿---
 ac: '20'
-alignment: null
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
 climb_speed: '40'
 constitution: '+2'
@@ -14,9 +11,7 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Elemental, Wood|Elemental, Wood]]'
 dexterity: '+5'
 element: Wood
-fly_speed: null
 fortitude: '+10'
-hardness: null
 hp: '75'
 id: '2673'
 immunity:
@@ -35,10 +30,6 @@ name: Whipping Willow
 perception: '+11'
 rarity: Common
 reflex: '+8'
-resistance: null
-rus_type_level: null
-school: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +12'
@@ -46,18 +37,15 @@ source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 speed:
 - 30 feet
 - climb 40 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Elemental|Elemental]]'
 - '[[DATABASE/trait/Plant|Plant]]'
 - '[[DATABASE/trait/Wood|Wood]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
 weakness:

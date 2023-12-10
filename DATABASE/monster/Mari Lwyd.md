@@ -1,22 +1,15 @@
 ﻿---
 ac: '30'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Festive Rampage
 - Mostly Harmless
 - Persistent Wassailing
 - Pwnco
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+24'
-hardness: null
 hp: '190'
 id: '1027'
 immunity:
@@ -32,9 +25,6 @@ name: Mari Lwyd
 perception: '+21'
 rarity: Uncommon
 reflex: '+21'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -49,7 +39,6 @@ source: '[[DATABASE/source/A Caroling Horse (Of Course. Of Course.)|A Caroling H
 speed:
 - 50 feet
 - swim 30 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
@@ -62,7 +51,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+18'
 wisdom: '+2'
 

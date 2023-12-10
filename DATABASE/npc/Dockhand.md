@@ -1,22 +1,16 @@
 ﻿---
 ac: '14'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Heft Crate
 - Swig
 creature_family: '[[DATABASE/monsterfamily/Laborers|Laborers]]'
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+7'
 hp: '20'
 id: '913'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -27,9 +21,6 @@ name: Dockhand
 perception: '+3'
 rarity: Common
 reflex: '+5'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +3'
@@ -39,20 +30,16 @@ skill:
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 speed:
 - 25 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+3'
 wisdom: '+1'
 

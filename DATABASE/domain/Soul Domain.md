@@ -1,7 +1,5 @@
 ﻿---
-advanced_apocryphal_spell: null
 advanced_domain_spell: '[[DATABASE/spell/Ectoplasmic Interstice|Ectoplasmic Interstice]]'
-apocryphal_spell: null
 deity:
 - '[[DATABASE/deity/Alglenweis|Alglenweis]]'
 - '[[DATABASE/deity/Anubis|Anubis]]'
@@ -20,9 +18,7 @@ domain_spell: '[[DATABASE/spell/Eject Soul|Eject Soul]]'
 id: '51'
 name: Soul Domain
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
-trait: null
 type: Domain
 
 ---

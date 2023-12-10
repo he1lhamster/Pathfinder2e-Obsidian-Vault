@@ -3,10 +3,8 @@ creature_family: Khefak
 id: '295'
 name: Khefak
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 173. Doorway to the Red Star|Pathfinder #173:
   Doorway to the Red Star]]'
-trait: null
 type: Creature Family
 
 ---

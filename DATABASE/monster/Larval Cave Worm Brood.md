@@ -1,10 +1,8 @@
 ﻿---
 ac: '27'
 alignment: N
-all_resistance: null
 burrow_speed: '30'
 charisma: '-2'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Ferocious Gnaw
@@ -13,10 +11,7 @@ creature_ability:
 - Shake It Off
 creature_family: '[[DATABASE/monsterfamily/Cave Worm|Cave Worm]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+21'
-hardness: null
 hp: '220'
 id: '2706'
 immunity:
@@ -24,7 +19,6 @@ immunity:
 - '[[DATABASE/monsterability/Swarm Mind|swarm mind]]'
 intelligence: '-5'
 land_speed: '30'
-language: null
 level: '10'
 max_speed: '30'
 name: Larval Cave Worm Brood
@@ -35,8 +29,6 @@ resistance:
 - bludgeoning 7
 - piercing 13
 - slashing 13
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) 100 feet'
@@ -49,7 +41,6 @@ speed:
 - 30 feet
 - burrow 30 feet
 - swim 20 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:

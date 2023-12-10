@@ -1,8 +1,6 @@
 ﻿---
 ac: '34'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
 climb_speed: '20'
 constitution: '+5'
@@ -11,15 +9,10 @@ creature_ability:
 - Eerie Flexibility
 - Furious Claws
 - Rend
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+26'
-hardness: null
 hp: '235'
 id: '1564'
-immunity: null
 intelligence: '+2'
 land_speed: '40'
 language:
@@ -32,9 +25,6 @@ name: Xevalorg
 perception: '+26'
 rarity: Unique
 reflex: '+20'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -64,7 +54,6 @@ strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Unique|Unique]]'
@@ -72,7 +61,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+23'
 wisdom: '+7'
 

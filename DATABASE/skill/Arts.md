@@ -1,14 +1,10 @@
 ﻿---
-ability: null
-ability_boost: null
 id: '19'
 name: Arts
 rarity: Common
-rus_type_level: null
 skill:
 - Arts
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
-trait: null
 type: Skill
 
 ---

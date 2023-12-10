@@ -1,21 +1,14 @@
 ﻿---
 ac: '19'
 alignment: Any
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Eager Rend
 - Personality Cage
 - Tethered Soul
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+14'
-hardness: null
 hp: '72'
 id: '2603'
 immunity:
@@ -43,9 +36,6 @@ name: Soulbound Mauler
 perception: '+10'
 rarity: Uncommon
 reflex: '+11'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -65,7 +55,6 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Soulbound|Soulbound]]'
@@ -74,7 +63,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+9'
 wisdom: '+1'
 

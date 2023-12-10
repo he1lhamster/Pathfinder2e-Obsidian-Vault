@@ -1,8 +1,6 @@
 ﻿---
 ac: '21'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
 climb_speed: '25'
 constitution: '+3'
@@ -10,15 +8,10 @@ creature_ability:
 - Oily Scales
 - Scalathrax Venom
 - Spray Toxic Oil
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+11'
-hardness: null
 hp: '60'
 id: '1040'
-immunity: null
 intelligence: '-2'
 land_speed: '25'
 language:
@@ -31,8 +24,6 @@ rarity: Uncommon
 reflex: '+13'
 resistance:
 - poison 5
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -45,12 +36,10 @@ source: '[[DATABASE/source/Pathfinder 163. Ruins of Gauntlight|Pathfinder #163: 
 speed:
 - 25 feet
 - climb 25 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

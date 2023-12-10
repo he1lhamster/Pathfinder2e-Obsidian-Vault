@@ -4,9 +4,7 @@ level: '0'
 name: Bog Rot
 onset: 1 day
 rarity: Common
-rus_type_level: null
 saving_throw: DC 13 Fortitude
-school: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 stage: "Stage 1: clumsy 1 (1 day)Stage 2: clumsy 1 and a \u20135-foot status penalty\
   \ to Speed (1 day)Stage 3: clumsy 2 and a \u201310-foot status penalty to Speed\

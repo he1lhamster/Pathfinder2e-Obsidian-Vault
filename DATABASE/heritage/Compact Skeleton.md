@@ -2,9 +2,7 @@
 id: '200'
 name: Compact Skeleton
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-trait: null
 type: Heritage
 
 ---

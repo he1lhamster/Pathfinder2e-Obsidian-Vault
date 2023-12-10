@@ -2,7 +2,6 @@
 id: '393'
 name: True Name
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 trait:
 - True Name

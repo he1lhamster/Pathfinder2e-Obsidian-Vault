@@ -1,35 +1,23 @@
 ﻿---
 ac: '23'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Carapace Block
 - Clobbering Tail
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+15'
-hardness: null
 hp: '65'
 id: '1755'
-immunity: null
 intelligence: '-4'
 land_speed: '25'
-language: null
 level: '5'
 max_speed: '25'
 name: Glyptodon
 perception: '+9'
 rarity: Common
 reflex: '+11'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
 size: Large
@@ -39,19 +27,15 @@ source: '[[DATABASE/source/Pathfinder 175. Broken Tusk Moon|Pathfinder #175: Bro
   Tusk Moon]]'
 speed:
 - 25 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+9'
 wisdom: '+2'
 

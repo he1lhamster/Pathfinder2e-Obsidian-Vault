@@ -1,24 +1,16 @@
 ﻿---
 ac: '20'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Constrict
 - Death Frenzy
 - Reefclaw Venom
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+7'
-hardness: null
 hp: '17'
 id: '350'
-immunity: null
 intelligence: '-3'
 land_speed: '5'
 language:
@@ -29,9 +21,6 @@ name: Reefclaw
 perception: '+8'
 rarity: Common
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Small
@@ -42,7 +31,6 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 5 feet
 - swim 30 feet
-spell: null
 strength: '+1'
 strength_req: '1'
 strongest_save:
@@ -55,7 +43,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+4'
 wisdom: '+1'
 

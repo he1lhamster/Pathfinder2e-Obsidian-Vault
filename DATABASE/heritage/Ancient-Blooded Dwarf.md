@@ -2,9 +2,7 @@
 id: '1'
 name: Ancient-Blooded Dwarf
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Heritage
 
 ---

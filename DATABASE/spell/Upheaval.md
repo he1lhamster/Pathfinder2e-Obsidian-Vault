@@ -1,32 +1,19 @@
 ﻿---
 actions: '[two-actions]'
 area: 150-foot burst
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
-duration: null
 element: Earth
-heighten: null
 heighten_level: '9'
 id: '660'
-lesson: null
 level: '9'
-mystery: null
 name: Upheaval
-patron_theme: null
 range: 500 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Pathfinder 156. The Apocalypse Prophet|Pathfinder #156:
   The Apocalypse Prophet]]'
-target: null
 tradition:
 - Arcane
 - Primal
@@ -34,7 +21,6 @@ trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Spell
 
 ---

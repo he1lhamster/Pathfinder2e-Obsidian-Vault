@@ -1,10 +1,6 @@
 ﻿---
-area: null
 cost: "a bodily sample from the target, and valuables belonging to the target worth\
   \ a total value of 100 gp\xD7 the spell level \xD7 the target's level"
-duration: null
-element: null
-heighten: null
 heighten_level: '6'
 id: '27'
 level: '6'
@@ -12,8 +8,6 @@ name: Terminate Bloodline
 primary_check: '[[DATABASE/skill/Occultism|Occultism]] (master)'
 range: 10 miles
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Necromancy
 secondary_casters: '3'
 secondary_check: '[[DATABASE/skill/Society|Society]]'

@@ -1,20 +1,15 @@
 ﻿---
 actions: '[reaction]'
-cost: null
 element: Fire
 feat: Fiery Retort
 frequency: once per minute
-heighten_level: null
 id: '2977'
 level: '8'
 name: Fiery Retort
 prerequisite: '[[DATABASE/druidicorder/Flame|flame order]]'
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Druid|Druid]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'

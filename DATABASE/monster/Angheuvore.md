@@ -1,10 +1,7 @@
 ﻿---
 ac: '18'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Consecration Vulnerability
@@ -13,13 +10,9 @@ creature_ability:
 - Paralysis
 creature_family: '[[DATABASE/monsterfamily/Mortic|Mortic]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+9'
-hardness: null
 hp: 30 ( negative healing )
 id: '1234'
-immunity: null
 intelligence: '+2'
 land_speed: '30'
 language:
@@ -32,9 +25,6 @@ name: Angheuvore Flesh-Gnawer
 perception: '+7'
 rarity: Rare
 reflex: '+10'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - carrion scent (imprecise) 30 feet
@@ -49,12 +39,10 @@ skill:
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 30 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Elf|Elf]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -64,7 +52,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+5'
 wisdom: '+1'
 

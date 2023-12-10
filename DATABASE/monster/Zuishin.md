@@ -1,10 +1,7 @@
 ﻿---
 ac: '30'
 alignment: LG
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Attack of Opportunity
@@ -13,15 +10,11 @@ creature_ability:
 - Ward
 creature_family: '[[DATABASE/monsterfamily/Kami|Kami]]'
 dexterity: '+7'
-element: null
 fly_speed: '25'
 fortitude: '+19'
-hardness: null
 hp: '200'
 id: '1203'
-immunity: null
 intelligence: '+1'
-land_speed: null
 language:
 - '[[DATABASE/language/Common|Common]] ; [[DATABASE/monsterability/Telepathy|telepathy]]
   100 feet'
@@ -31,9 +24,6 @@ name: Zuishin
 perception: '+21'
 rarity: Common
 reflex: '+23'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -60,7 +50,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Kami|Kami]]'
 - '[[DATABASE/trait/Spirit|Spirit]]'

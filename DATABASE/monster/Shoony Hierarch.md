@@ -1,22 +1,15 @@
 ﻿---
 ac: '19'
 alignment: NG
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '-1'
 creature_ability:
 - Signal Arrow
 creature_family: '[[DATABASE/monsterfamily/Shoony|Shoony]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+9'
-hardness: null
 hp: '60'
 id: '523'
-immunity: null
 intelligence: '+3'
 land_speed: '25'
 language:
@@ -28,9 +21,6 @@ name: Shoony Hierarch
 perception: '+12'
 rarity: Rare
 reflex: '+10'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 size: Small
@@ -45,12 +35,10 @@ source: '[[DATABASE/source/Pathfinder 153. Life''s Long Shadows|Pathfinder #153:
 speed:
 - 25 feet
 - '[[DATABASE/heritage/Paddler Shoony|paddler]]'
-spell: null
 strength: '+0'
 strength_req: '0'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Rare|Rare]]'
@@ -59,7 +47,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+13'
 wisdom: '+3'
 

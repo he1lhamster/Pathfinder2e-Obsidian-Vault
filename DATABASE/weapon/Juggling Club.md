@@ -1,8 +1,6 @@
 ﻿---
 bulk: L
 damage: 1d4 B
-deity: null
-favored_weapon: null
 hands: '1'
 id: '111'
 item_category: Weapons
@@ -10,9 +8,7 @@ item_subcategory: Base Weapons
 level: '0'
 name: Juggling Club
 price: 1 sp
-range: null
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 151. The Show Must Go On|Pathfinder #151: The
   Show Must Go On]]'
 trait:

@@ -1,24 +1,17 @@
 ﻿---
 ac: '35'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Arcane Cascade
 - Fated to Fail
 - Spellstrike
 - Twisting Tree
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+20'
 hp: '255'
 id: '2555'
-immunity: null
 intelligence: '+5'
 land_speed: '25'
 language:
@@ -31,9 +24,6 @@ name: Arodeth
 perception: '+22'
 rarity: Unique
 reflex: '+24'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +25'
@@ -64,16 +54,13 @@ strength: '+1'
 strength_req: '1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+23'
 wisdom: '+2'
 

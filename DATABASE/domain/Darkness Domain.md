@@ -1,7 +1,6 @@
 ﻿---
 advanced_apocryphal_spell: '[[DATABASE/spell/Isolation|Isolation]]'
 advanced_domain_spell: '[[DATABASE/spell/Darkened Eyes|Darkened Eyes]]'
-apocryphal_spell: null
 deity:
 - '[[DATABASE/deity/Ahriman|Ahriman]]'
 - '[[DATABASE/deity/Ardad Lili|ArdadLili]]'
@@ -27,9 +26,7 @@ domain_spell: '[[DATABASE/spell/Cloak of Shadow|Cloak of Shadow]]'
 id: '6'
 name: Darkness Domain
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Domain
 
 ---

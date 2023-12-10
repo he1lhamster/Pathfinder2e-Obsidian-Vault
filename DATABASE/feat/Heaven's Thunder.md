@@ -1,27 +1,19 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Heaven's Thunder
-frequency: null
-heighten_level: null
 id: '2199'
 level: '6'
 name: Heaven's Thunder
 prerequisite: '[[DATABASE/feat/Jalmeri Heavenseeker Dedication|Jalmeri Heavenseeker
   Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Electricity|Electricity]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Sonic|Sonic]]'
-trigger: null
 type: Feat
 
 ---

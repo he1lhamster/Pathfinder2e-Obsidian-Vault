@@ -1,8 +1,6 @@
 ﻿---
 ac: '21'
-burrow_speed: null
 climb_speed: '15'
-fly_speed: null
 fortitude: '+15'
 hardness: '10'
 hp: '100'
@@ -14,13 +12,8 @@ max_speed: '15'
 name: Snail Coach
 price: 1,000 gp
 rarity: Uncommon
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 size: Huge
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Vehicle

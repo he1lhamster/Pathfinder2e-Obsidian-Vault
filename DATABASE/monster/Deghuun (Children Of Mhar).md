@@ -1,8 +1,6 @@
 ﻿---
 ac: '42'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
 climb_speed: '40'
 constitution: '+8'
@@ -12,12 +10,8 @@ creature_ability:
 - Sulfurous Plume
 - Tentacle Assault
 - Unfathomable Aspect
-creature_family: null
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+34'
-hardness: null
 hp: '420'
 id: '975'
 immunity:
@@ -36,8 +30,6 @@ rarity: Uncommon
 reflex: '+30'
 resistance:
 - physical 10 (except [[DATABASE/equipment/Adamantine|adamantine]] )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 - smoke vision
@@ -57,7 +49,6 @@ strength: '+9'
 strength_req: '9'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

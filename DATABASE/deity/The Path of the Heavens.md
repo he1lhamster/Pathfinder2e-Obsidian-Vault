@@ -29,12 +29,10 @@ follower_alignment:
 id: '213'
 name: The Path of the Heavens
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Survival|Survival]]'
 source: '[[DATABASE/source/Battle of the Pantheons Winner Announcement|Battle of the
   Pantheons Winner Announcement]]'
-trait: null
 type: Deity
 
 ---

@@ -4,9 +4,7 @@ level: '2'
 name: Champion
 prerequisite: Strength 14; Charisma 14
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Archetype
 
 ---

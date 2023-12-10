@@ -1,22 +1,15 @@
 ﻿---
 ac: '20'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Change Shape
 - Invoke Old Sharptooth
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+9'
 hp: '65'
 id: '2199'
-immunity: null
 intelligence: '+2'
 land_speed: '25'
 language:
@@ -31,8 +24,6 @@ name: Tartuccio
 perception: '+9'
 rarity: Unique
 reflex: '+11'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Small
@@ -70,7 +61,6 @@ strength_req: '0'
 strongest_save:
 - Reflex
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Gnome|Gnome]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -79,7 +69,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+11'
 wisdom: '+1'
 

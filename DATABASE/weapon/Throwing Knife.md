@@ -1,27 +1,8 @@
 ﻿---
-bulk: L
-damage: 1d4 P
-deity: null
-favored_weapon: null
-hands: '1'
-id: '243'
-item_category: Weapons
-item_subcategory: Base Weapons
-level: '0'
+id: '113'
 name: Throwing Knife
-price: 3 sp
-range: null
-rarity: Common
-rus_type_level: null
-source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
-trait:
-- '[[DATABASE/trait/Agile|Agile]]'
-- '[[DATABASE/trait/Finesse|Finesse]]'
-- '[[DATABASE/trait/Thrown|Thrown 20 ft.]]'
-type: Weapon
-weapon_category: Simple
-weapon_group: '[[DATABASE/weapongroup/Knife|Knife]]'
-weapon_type: Melee
+source: '[[DATABASE/source/Pathfinder 151. The Show Must Go On|Pathfinder #151: The
+  Show Must Go On]]'
 
 ---
 # Throwing Knife

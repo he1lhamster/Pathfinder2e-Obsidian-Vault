@@ -1,10 +1,8 @@
 ﻿---
-element: null
 id: '29'
 level: '20'
 name: Sword of Anathema
 rarity: Common
-rus_type_level: null
 saving_throw: DC 40 Will
 school: Evocation
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
@@ -13,7 +11,6 @@ trait:
 - '[[DATABASE/trait/Divine|Divine]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
 type: Curse
-usage: null
 
 ---
 # Sword of Anathema<span class="item-type">Curse 20</span>

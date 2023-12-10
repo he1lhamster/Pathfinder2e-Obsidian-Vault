@@ -17,15 +17,12 @@ domain:
 - '[[DATABASE/domain/Sorrow Domain|Sorrow]]'
 - '[[DATABASE/domain/Wealth Domain|Wealth]]'
 favored_weapon: '[[DATABASE/weapon/Alchemical Bomb|Alchemical Bomb]]'
-follower_alignment: null
 id: '274'
 name: Laudinmio
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Crafting|Crafting]]'
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-trait: null
 type: Deity
 
 ---

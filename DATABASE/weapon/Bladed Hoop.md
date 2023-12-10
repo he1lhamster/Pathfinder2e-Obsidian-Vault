@@ -1,8 +1,6 @@
 ﻿---
 bulk: '1'
 damage: 1d6 S
-deity: null
-favored_weapon: null
 hands: 0+
 id: '116'
 item_category: Weapons
@@ -10,9 +8,7 @@ item_subcategory: Base Weapons
 level: '0'
 name: Bladed Hoop
 price: 2 gp, 5 sp
-range: null
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 151. The Show Must Go On|Pathfinder #151: The
   Show Must Go On]]'
 trait:

@@ -5,7 +5,6 @@ bloodline: '[[DATABASE/sorcererbloodline/Elemental|Elemental]] , [[DATABASE/sorc
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Angradd|Angradd]]'
 - '[[DATABASE/deity/Angradd|Angradd]]'
@@ -21,32 +20,22 @@ deity:
 - '[[DATABASE/deity/Walkena|Walkena]]'
 - '[[DATABASE/deity/Ymeri|Ymeri]]'
 - '[[DATABASE/deity/Ymeri|Ymeri]]'
-domain: null
-duration: null
 element: Fire
 heighten: '+1'
 heighten_level: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
 id: '30'
-lesson: null
 level: '1'
-mystery: null
 name: Burning Hands
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: basicReflex
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Arcane
 - Primal
 trait:
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Fire|Fire]]'
-trigger: null
 type: Spell
 
 ---

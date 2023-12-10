@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Healing Hands
-frequency: null
-heighten_level: null
 id: '267'
+leads_to: '[[DATABASE/feat/Magic Hands|Magic Hands]]'
 level: '1'
 name: Healing Hands
 prerequisite: '[[DATABASE/class_/Cleric|healing font]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Cleric|Cleric]]'
-trigger: null
 type: Feat
 
 ---

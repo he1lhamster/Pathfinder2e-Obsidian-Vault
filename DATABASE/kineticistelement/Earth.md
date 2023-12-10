@@ -3,9 +3,7 @@ element: Earth
 id: '2'
 name: Earth
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-trait: null
 type: Kineticist Element
 
 ---

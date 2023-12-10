@@ -1,21 +1,14 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Diverse Recognition
 frequency: once per round
-heighten_level: null
 id: '2227'
 level: '8'
 name: Diverse Recognition
 prerequisite: '[[DATABASE/feat/Pathfinder Agent Dedication|Pathfinder Agent Dedication]]
   ; master in a skill used to [[DATABASE/action/Recall Knowledge|Recall Knowledge]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Skill|Skill]]'

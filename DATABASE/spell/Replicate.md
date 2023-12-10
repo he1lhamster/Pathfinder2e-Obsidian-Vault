@@ -1,29 +1,17 @@
 ﻿---
 actions: '[three-actions]'
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: sustained
-element: null
 heighten: '+1'
 heighten_level: 4, 5, 6, 7, 8, 9, 10
 id: '983'
-lesson: null
 level: '4'
-mystery: null
 name: Replicate
-patron_theme: null
 range: 60 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Illusion
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 target: 1 willing or [[DATABASE/condition/Unconscious|unconscious]] creature of 8th
@@ -34,7 +22,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Illusion|Illusion]]'
 - '[[DATABASE/trait/Shadow|Shadow]]'
-trigger: null
 type: Spell
 
 ---

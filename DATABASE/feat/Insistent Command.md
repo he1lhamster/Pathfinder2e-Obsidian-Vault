@@ -1,27 +1,17 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Insistent Command
-frequency: null
-heighten_level: null
 id: '1207'
 level: '8'
 name: Insistent Command
 prerequisite: Master in [[DATABASE/skill/Nature|Nature]] ; [[DATABASE/feat/Animal
   Trainer Dedication|Animal Trainer Dedication]]
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 152. Legacy of the Lost God|Pathfinder #152:
   Legacy of the Lost God]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Skill|Skill]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,10 +1,7 @@
 ﻿---
 ac: '25'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Consecration Vulnerability
@@ -16,13 +13,9 @@ creature_ability:
 - Feast
 creature_family: '[[DATABASE/monsterfamily/Mortic|Mortic]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+20'
-hardness: null
 hp: 165 ( negative healing )
 id: '1236'
-immunity: null
 intelligence: '+3'
 land_speed: '25'
 language:
@@ -34,9 +27,6 @@ name: Lifeleecher Brawler
 perception: '+15'
 rarity: Rare
 reflex: '+16'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -47,12 +37,10 @@ skill:
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 25 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Mortic|Mortic]]'
@@ -62,7 +50,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+13'
 wisdom: '+3'
 

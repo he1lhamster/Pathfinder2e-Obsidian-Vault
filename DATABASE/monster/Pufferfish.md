@@ -1,10 +1,7 @@
 ﻿---
 ac: '12'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Inflating Rush
@@ -12,25 +9,16 @@ creature_ability:
 - Toxic Body
 creature_family: '[[DATABASE/monsterfamily/Fish|Fish]]'
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+5'
-hardness: null
 hp: '12'
 id: '1154'
-immunity: null
 intelligence: '-5'
-land_speed: null
-language: null
 level: '-1'
 max_speed: '15'
 name: Pufferfish
 perception: '+4'
 rarity: Common
 reflex: '+3'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Tiny
@@ -40,7 +28,6 @@ skill:
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - swim 15 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
@@ -53,7 +40,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+2'
 wisdom: '+1'
 

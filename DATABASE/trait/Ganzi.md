@@ -2,7 +2,6 @@
 id: '339'
 name: Ganzi
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 trait:
 - Ganzi

@@ -1,10 +1,5 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Impossible Polymath
-frequency: null
-heighten_level: null
 id: '210'
 level: '18'
 name: Impossible Polymath
@@ -12,14 +7,9 @@ prerequisite: Trained in [[DATABASE/skill/Arcana|Arcana]] , Trained in [[DATABAS
   , or Trained in [[DATABASE/skill/Religion|Religion]] ; [[DATABASE/feat/Esoteric
   Polymath|Esoteric Polymath]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Bard|Bard]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,21 +1,14 @@
 ﻿---
 ac: '34'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Bludgeoning Energy
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+24'
 hp: '220'
 id: '1480'
-immunity: null
 intelligence: '+3'
 land_speed: '30'
 language:
@@ -28,8 +21,6 @@ name: Sixth Pillar Students
 perception: '+23'
 rarity: Rare
 reflex: '+25'
-resistance: null
-rus_type_level: null
 sense:
 - darkvision
 size: Medium
@@ -80,7 +71,6 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -90,7 +80,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+23'
 wisdom: '+1'
 

@@ -1,24 +1,19 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Dandy Dedication
-frequency: null
-heighten_level: null
 id: '1935'
+leads_to: '[[DATABASE/feat/Cutting Flattery|Cutting Flattery]] , [[DATABASE/feat/Distracting
+  Flattery|Distracting Flattery]] , [[DATABASE/feat/Fabricated Connections|Fabricated
+  Connections]] , [[DATABASE/feat/Feeling Your Oats|Feeling Your Oats]] , [[DATABASE/feat/Gossip
+  Lore|Gossip Lore]] , [[DATABASE/feat/Party Crasher|Party Crasher]] , [[DATABASE/feat/Statement
+  Strut|Statement Strut]] , [[DATABASE/feat/Tut-Tut|Tut-Tut]]'
 level: '2'
 name: Dandy Dedication
 prerequisite: Trained in [[DATABASE/skill/Diplomacy|Diplomacy]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
-trigger: null
 type: Feat
 
 ---

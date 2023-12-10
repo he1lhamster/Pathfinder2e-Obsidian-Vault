@@ -2,7 +2,6 @@
 id: '394'
 name: Evolution
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 trait:
 - Evolution

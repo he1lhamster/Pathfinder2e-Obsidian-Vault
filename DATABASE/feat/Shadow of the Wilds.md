@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Shadow of the Wilds
-frequency: null
-heighten_level: null
 id: '1042'
 level: '1'
 name: Shadow of the Wilds
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Leshy|Leshy]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,10 +1,6 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Devastating Spellstrike
-frequency: null
-heighten_level: null
 id: '2853'
 level: '4'
 name: Devastating Spellstrike
@@ -12,13 +8,9 @@ prerequisite: '[[DATABASE/action/Arcane Cascade|Arcane Cascade]] , [[DATABASE/ma
   Iron|inexorable iron hybrid study]] , [[DATABASE/action/Spellstrike|Spellstrike]]'
 rarity: Common
 requirement: You are in Arcane Cascade stance and your Spellstrike is charged.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Magus|Magus]]'
-trigger: null
 type: Feat
 
 ---

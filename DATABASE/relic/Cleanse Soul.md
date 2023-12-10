@@ -1,11 +1,8 @@
 ﻿---
-element: null
 id: '82'
 item_category: Relics
 name: Cleanse Soul
-prerequisite: null
 rarity: Common
-rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 trait:

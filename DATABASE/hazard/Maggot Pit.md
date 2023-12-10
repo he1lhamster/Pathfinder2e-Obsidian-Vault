@@ -1,10 +1,7 @@
 ﻿---
 ac: '39'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+27'
-hardness: null
 hazard_type: Environmental
 hp: 120 (BT 60)
 id: '396'
@@ -18,8 +15,6 @@ resistance:
 - bludgeoning 10
 - piercing 20
 - slashing 20
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 191. The Destiny War|Pathfinder #191: The Destiny
   War]]'
 trait:
@@ -31,7 +26,6 @@ weakness:
 - area damage 15
 - good damage 15
 - '[[DATABASE/trait/Splash|splash]] damage 15'
-will: null
 
 ---
 # Maggot Pit<span class="item-type">Hazard 18</span>

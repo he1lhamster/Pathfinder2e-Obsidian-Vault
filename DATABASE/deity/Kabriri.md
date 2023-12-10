@@ -24,12 +24,10 @@ follower_alignment:
 id: '76'
 name: Kabriri
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Stealth|Stealth]]'
 source: '[[DATABASE/source/Pathfinder 184. The Ghouls Hunger|Pathfinder #184: The
   Ghouls Hunger]]'
-trait: null
 type: Deity
 
 ---

@@ -1,10 +1,7 @@
 ﻿---
 ac: '46'
 alignment: CG
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+8'
 creature_ability:
 - Impossible Stature
@@ -13,10 +10,7 @@ creature_ability:
 - Wide Cleave
 creature_family: '[[DATABASE/monsterfamily/Titan|Titan]]'
 dexterity: '+7'
-element: null
-fly_speed: null
 fortitude: '+37'
-hardness: null
 hp: '400'
 id: '1339'
 immunity:
@@ -35,9 +29,6 @@ name: Elysian Titan
 perception: '+36'
 rarity: Rare
 reflex: '+34'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/spell/True Seeing|true seeing]]'
@@ -67,7 +58,6 @@ strength: '+10'
 strength_req: '10'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Rare|Rare]]'
@@ -76,7 +66,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+35'
 wisdom: '+8'
 

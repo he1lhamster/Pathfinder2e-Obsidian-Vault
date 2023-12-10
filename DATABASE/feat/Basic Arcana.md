@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Basic Arcana
-frequency: null
-heighten_level: null
 id: '744'
+leads_to: '[[DATABASE/feat/Advanced Arcana|Advanced Arcana]]'
 level: '4'
 name: Basic Arcana
 prerequisite: '[[DATABASE/feat/Wizard Dedication|Wizard Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

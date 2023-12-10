@@ -1,24 +1,15 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Combat Grab
-frequency: null
-heighten_level: null
 id: '366'
 level: '2'
 name: Combat Grab
-prerequisite: null
 rarity: Common
 requirement: You have one hand free, and your target is within reach of that hand.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fighter|Fighter]]'
 - '[[DATABASE/trait/Press|Press]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,22 +1,17 @@
 ﻿---
 ac: '19'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Hatred for Secret Doors
 - Jutting Bones
 - Phantasmal Pummeling
 - Settlement Bound
-creature_family: null
 dexterity: '+4'
 element: Earth
 fly_speed: '5'
 fortitude: '+9'
-hardness: null
 hp: 30 ( negative healing )
 id: '2032'
 immunity:
@@ -29,7 +24,6 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-4'
 land_speed: '20'
-language: null
 level: '3'
 max_speed: '20'
 name: Cobblebone Swarm
@@ -39,8 +33,6 @@ reflex: '+11'
 resistance:
 - piercing 5
 - slashing 5
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Lifesense|lifesense]] 40 feet'
 size: Large
@@ -58,14 +50,12 @@ strength: '+1'
 strength_req: '1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Swarm|Swarm]]'
 - '[[DATABASE/trait/Undead|Undead]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
 weakness:

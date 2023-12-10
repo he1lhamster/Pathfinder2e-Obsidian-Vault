@@ -2,7 +2,6 @@
 id: '244'
 name: Xulgath
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait:
 - Xulgath

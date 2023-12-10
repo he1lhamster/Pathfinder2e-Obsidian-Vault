@@ -1,18 +1,11 @@
 ﻿---
 ac: '16'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+0'
-creature_ability: null
 creature_family: '[[DATABASE/monsterfamily/Skeleton|Skeleton]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+2'
-hardness: null
 hp: 4 ( negative healing )
 id: '372'
 immunity:
@@ -24,7 +17,6 @@ immunity:
 - unconscious
 intelligence: '-5'
 land_speed: '25'
-language: null
 level: '-1'
 max_speed: '25'
 name: Skeleton Guard
@@ -37,8 +29,6 @@ resistance:
 - fire 5
 - piercing 5
 - slashing 5
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -48,12 +38,10 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 25 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Mindless|Mindless]]'
 - '[[DATABASE/trait/Skeleton|Skeleton]]'
@@ -63,7 +51,6 @@ vision: Darkvision
 weakest_save:
 - Fortitude
 - Will
-weakness: null
 will: '+2'
 wisdom: '+0'
 

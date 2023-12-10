@@ -11,9 +11,7 @@ item_subcategory: Base Weapons
 level: '0'
 name: Katana
 price: 2 gp
-range: null
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Deadly|Deadly d8]]'

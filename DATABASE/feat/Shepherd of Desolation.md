@@ -1,25 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Shepherd of Desolation
-frequency: null
-heighten_level: null
 id: '3594'
 level: '12'
 name: Shepherd of Desolation
 prerequisite: '[[DATABASE/feat/Knight Reclaimant Dedication|Knight Reclaimant Dedication]]
   ; [[DATABASE/feat/Survivor of Desolation|Survivor of Desolation]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Aura|Aura]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,22 +1,15 @@
 ﻿---
 ac: '24'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Lamia's Caress
 creature_family: '[[DATABASE/monsterfamily/Lamia|Lamia]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+12'
-hardness: null
 hp: '95'
 id: '277'
-immunity: null
 intelligence: '+1'
 land_speed: '40'
 language:
@@ -28,9 +21,6 @@ name: Lamia
 perception: '+13'
 rarity: Common
 reflex: '+15'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Large
@@ -58,14 +48,12 @@ strength_req: '5'
 strongest_save:
 - Reflex
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+15'
 wisdom: '+3'
 

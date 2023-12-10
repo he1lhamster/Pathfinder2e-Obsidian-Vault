@@ -1,25 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Advanced Reanimated Companion
-frequency: null
-heighten_level: null
 id: '3646'
+leads_to: '[[DATABASE/feat/Incredible Reanimated Companion|Incredible Reanimated Companion]]'
 level: '4'
 name: Advanced Reanimated Companion
 prerequisite: '[[DATABASE/feat/Clockwork Reanimator Dedication|Clockwork Reanimator
   Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 180. The Smoking Gun|Pathfinder #180: The Smoking
   Gun]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

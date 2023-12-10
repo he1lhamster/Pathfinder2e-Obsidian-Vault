@@ -1,8 +1,6 @@
 ﻿---
 ac: '28'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
 climb_speed: '30'
 constitution: '+5'
@@ -12,9 +10,7 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Elemental, Fire|Elemental, Fire]]'
 dexterity: '+3'
 element: Fire
-fly_speed: null
 fortitude: '+19'
-hardness: null
 hp: '155'
 id: '658'
 immunity:
@@ -25,16 +21,12 @@ immunity:
 - '[[DATABASE/trait/Sleep|sleep]]'
 intelligence: '-4'
 land_speed: '40'
-language: null
 level: '8'
 max_speed: '40'
 name: Magma Scorpion
 perception: '+18'
 rarity: Common
 reflex: '+14'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - smoke vision
@@ -45,12 +37,10 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 40 feet
 - climb 30 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Elemental|Elemental]]'
 - '[[DATABASE/trait/Fire|Fire]]'

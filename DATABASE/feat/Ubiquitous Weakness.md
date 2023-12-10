@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Ubiquitous Weakness
-frequency: null
-heighten_level: null
 id: '3733'
 level: '20'
 name: Ubiquitous Weakness
 prerequisite: '[[DATABASE/feat/Share Weakness|Share Weakness]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Thaumaturge|Thaumaturge]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,8 +1,5 @@
 ﻿---
 ac: '27'
-alignment: null
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
 climb_speed: '60'
 constitution: '+5'
@@ -12,9 +9,7 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Elemental, Wood|Elemental, Wood]]'
 dexterity: '+3'
 element: Wood
-fly_speed: null
 fortitude: '+18'
-hardness: null
 hp: '175'
 id: '2678'
 immunity:
@@ -24,17 +19,12 @@ immunity:
 - '[[DATABASE/trait/Sleep|sleep]]'
 intelligence: '+2'
 land_speed: '45'
-language: null
 level: '9'
 max_speed: '60'
 name: Painted Stag
 perception: '+21'
 rarity: Common
 reflex: '+12'
-resistance: null
-rus_type_level: null
-school: null
-sense: null
 size: Huge
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +18'
@@ -44,18 +34,15 @@ source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 speed:
 - 45 feet
 - climb 60 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Elemental|Elemental]]'
 - '[[DATABASE/trait/Plant|Plant]]'
 - '[[DATABASE/trait/Wood|Wood]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
 weakness:

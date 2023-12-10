@@ -1,9 +1,5 @@
 ﻿---
-area: null
 cost: "rare oils, see Table 7\u20131"
-duration: null
-element: null
-heighten: null
 heighten_level: '2'
 id: '1'
 level: '2'
@@ -11,8 +7,6 @@ name: Animate Object
 primary_check: '[[DATABASE/skill/Arcana|Arcana]] (expert)'
 range: 10 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Transmutation
 secondary_casters: '1'
 secondary_check: '[[DATABASE/skill/Crafting|Crafting]]'

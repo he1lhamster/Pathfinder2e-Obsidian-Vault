@@ -1,10 +1,7 @@
 ﻿---
 ac: '21'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Bide
@@ -13,12 +10,9 @@ creature_ability:
 - Slip
 - Swift Steps
 - Tenebral Form
-creature_family: null
 dexterity: '+5'
-element: null
 fly_speed: '35'
 fortitude: '+9'
-hardness: null
 hp: '45'
 id: '1292'
 immunity:
@@ -40,8 +34,6 @@ reflex: '+11'
 resistance:
 - cold 5
 - negative 5
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -65,14 +57,12 @@ strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Shadow|Shadow]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+10'
 wisdom: '+2'
 

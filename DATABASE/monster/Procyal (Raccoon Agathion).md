@@ -1,23 +1,16 @@
 ﻿---
 ac: '26'
 alignment: NG
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Change Shape
 - Raccoon's Whimsy
 creature_family: '[[DATABASE/monsterfamily/Agathion|Agathion]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+16'
-hardness: null
 hp: '170'
 id: '1057'
-immunity: null
 intelligence: '+5'
 land_speed: '25'
 language:
@@ -34,9 +27,6 @@ name: Procyal
 perception: '+18'
 rarity: Common
 reflex: '+14'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -72,7 +62,6 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Agathion|Agathion]]'
 - '[[DATABASE/trait/Celestial|Celestial]]'

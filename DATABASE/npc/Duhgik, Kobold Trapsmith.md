@@ -1,24 +1,17 @@
 ﻿---
 ac: '24'
 alignment: NG
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Cringe
 - Remote Trigger
 - Sneak Attack
 - Surprise Snare
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+11'
 hp: '66'
 id: '1028'
-immunity: null
 intelligence: '+5'
 land_speed: '30'
 language:
@@ -33,8 +26,6 @@ name: Duhgik
 perception: '+14'
 rarity: Unique
 reflex: '+17'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -49,12 +40,10 @@ skill:
 source: '[[DATABASE/source/No-Prep Character. Duhgik|No-Prep Character: Duhgik]]'
 speed:
 - '30'
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Kobold|Kobold]]'
@@ -63,7 +52,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+14'
 wisdom: '+4'
 

@@ -1,18 +1,11 @@
 ﻿---
-area: null
 cost: at least 1 gallon of clean river water
-duration: null
-element: null
-heighten: null
 heighten_level: '5'
 id: '75'
 level: '5'
 name: Mother's Blessing
 primary_check: '[[DATABASE/skill/Nature|Nature]] (expert)'
-range: null
 rarity: Rare
-requirement: null
-rus_type_level: null
 school: Necromancy
 secondary_casters: '3'
 secondary_check: '[[DATABASE/skill/Crafting|Crafting]] , [[DATABASE/skill/Medicine|Medicine]]

@@ -2,7 +2,6 @@
 id: '465'
 name: Camping
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
 trait:
 - Camping

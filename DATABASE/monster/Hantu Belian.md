@@ -2,19 +2,15 @@
 ac: '27'
 alignment: N
 all_resistance: '10'
-burrow_speed: null
 charisma: '+7'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Greater Possession
 - Unrest Aura
 creature_family: '[[DATABASE/monsterfamily/Hantu|Hantu]]'
 dexterity: '+6'
-element: null
 fly_speed: '35'
 fortitude: '+19'
-hardness: null
 hp: '150'
 id: '1397'
 immunity:
@@ -25,7 +21,6 @@ immunity:
 - precision
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '+0'
-land_speed: null
 language:
 - '[[DATABASE/language/Common|Common]]'
 level: '11'
@@ -38,8 +33,6 @@ resistance:
 - all damage 10 (except [[DATABASE/trait/Force|force]] or [[DATABASE/equipment/Ghost
   Touch|ghost touch]] ; double resistance vs. non- [[DATABASE/trait/Magical|magical]]
   )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -66,7 +59,6 @@ strength: '-5'
 strength_req: '-5'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Hantu|Hantu]]'
@@ -77,7 +69,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+24'
 wisdom: '+5'
 

@@ -1,20 +1,13 @@
 ﻿---
 ac: '20'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Memory Drain
 - Slow
-creature_family: null
 dexterity: '-1'
-element: null
-fly_speed: null
 fortitude: '+15'
-hardness: null
 hp: 130 ( negative healing )
 id: '2087'
 immunity:
@@ -26,16 +19,12 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '25'
-language: null
 level: '5'
 max_speed: '25'
 name: Hollow Husks
 perception: '+9'
 rarity: Rare
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -45,12 +34,10 @@ source: '[[DATABASE/source/Pathfinder 183. Field of Maidens|Pathfinder #183: Fie
   of Maidens]]'
 speed:
 - 25 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Mindless|Mindless]]'
 - '[[DATABASE/trait/Rare|Rare]]'

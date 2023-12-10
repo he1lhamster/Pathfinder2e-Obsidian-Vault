@@ -1,8 +1,5 @@
 ﻿---
-area: null
 cost: fine wine and a set of matching rings or other tokens worth 40 gp total
-duration: null
-element: null
 heighten: 6th
 heighten_level: 2, 6
 id: '33'
@@ -12,13 +9,10 @@ primary_check: '[[DATABASE/skill/Nature|Nature]] or [[DATABASE/skill/Religion|Re
   (expert)'
 range: 20 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Abjuration
 secondary_casters: '2'
 secondary_check: '[[DATABASE/skill/Diplomacy|Diplomacy]] , [[DATABASE/skill/Society|Society]]'
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-target: null
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

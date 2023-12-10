@@ -3,9 +3,7 @@ creature_family: Dragon, Metallic
 id: '35'
 name: Dragon, Metallic
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
-trait: null
 type: Creature Family
 
 ---

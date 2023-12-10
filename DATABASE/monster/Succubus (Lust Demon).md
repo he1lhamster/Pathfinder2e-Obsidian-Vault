@@ -1,10 +1,7 @@
 ﻿---
 ac: '23'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+7'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Change Shape
@@ -16,13 +13,10 @@ creature_ability:
 - Presence
 creature_family: '[[DATABASE/monsterfamily/Demon|Demon]]'
 dexterity: '+3'
-element: null
 fly_speed: '35'
 fortitude: '+15'
-hardness: null
 hp: '100'
 id: '98'
-immunity: null
 intelligence: '+4'
 land_speed: '25'
 language:
@@ -38,9 +32,6 @@ name: Succubus
 perception: '+15'
 rarity: Common
 reflex: '+14'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -68,7 +59,6 @@ strength: '+2'
 strength_req: '2'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Demon|Demon]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

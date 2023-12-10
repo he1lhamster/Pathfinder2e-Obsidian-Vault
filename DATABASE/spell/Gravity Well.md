@@ -1,39 +1,26 @@
 ﻿---
 actions: '[two-actions]'
 area: 30-foot-radius burst
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Otolmens|Otolmens]]'
 - '[[DATABASE/deity/The Path of the Heavens|ThePath of the Heavens]]'
-domain: null
-duration: null
-element: null
-heighten: null
 heighten_level: '3'
 id: '577'
-lesson: null
 level: '3'
-mystery: null
 name: Gravity Well
-patron_theme: null
 range: 120 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Reflex
 school: Evocation
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-target: null
 tradition:
 - Arcane
 - Occult
 trait:
 - '[[DATABASE/trait/Evocation|Evocation]]'
-trigger: null
 type: Spell
 
 ---

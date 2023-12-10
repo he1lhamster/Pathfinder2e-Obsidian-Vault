@@ -1,10 +1,8 @@
 ﻿---
-element: null
 id: '44'
 level: '5'
 name: Curse of Biting Swarms
 rarity: Common
-rus_type_level: null
 saving_throw: DC 20 Fort
 school: Transmutation
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
@@ -13,7 +11,6 @@ trait:
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
 type: Curse
-usage: null
 
 ---
 # Curse of Biting Swarms<span class="item-type">Curse 5</span>

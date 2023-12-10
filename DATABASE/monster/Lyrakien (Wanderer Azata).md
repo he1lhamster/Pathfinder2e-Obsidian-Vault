@@ -1,22 +1,16 @@
 ﻿---
 ac: '17'
 alignment: CG
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Starlight Blast
 creature_family: '[[DATABASE/monsterfamily/Azata|Azata]]'
 dexterity: '+4'
-element: null
 fly_speed: '50'
 fortitude: '+4'
-hardness: null
 hp: '25'
 id: '34'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -30,9 +24,6 @@ name: Lyrakien
 perception: '+8'
 rarity: Common
 reflex: '+7'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Tiny
@@ -59,7 +50,6 @@ strength: '-2'
 strength_req: '-2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Azata|Azata]]'
 - '[[DATABASE/trait/Celestial|Celestial]]'

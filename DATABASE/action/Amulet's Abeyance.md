@@ -1,14 +1,10 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
-frequency: null
 id: '1229'
 name: Amulet's Abeyance
 rarity: Common
 requirement: You're holding your amulet implement and are benefiting from Exploit
   Vulnerability.
-rus_type_level: null
 school: Abjuration
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 trait:

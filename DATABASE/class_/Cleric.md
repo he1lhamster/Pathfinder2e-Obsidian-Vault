@@ -18,7 +18,6 @@ id: '5'
 name: Cleric
 perception_proficiency: Trained
 rarity: Common
-rus_type_level: null
 skill_proficiency:
 - Trained in Religion
 - Trained in one skill determined by your choice of deity
@@ -26,7 +25,6 @@ skill_proficiency:
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 tradition:
 - Divine
-trait: null
 type: Class
 
 ---

@@ -1,10 +1,7 @@
 ﻿---
 ac: '21'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Aquatic Ambush
@@ -13,25 +10,16 @@ creature_ability:
 - Deep Breath
 creature_family: '[[DATABASE/monsterfamily/Dolphin|Dolphin]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+14'
-hardness: null
 hp: '75'
 id: '619'
-immunity: null
 intelligence: '-4'
-land_speed: null
-language: null
 level: '5'
 max_speed: '60'
 name: Orca
 perception: '+12'
 rarity: Common
 reflex: '+11'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - aquatic echolocation 120 feet
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
@@ -42,7 +30,6 @@ skill:
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - swim 60 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
@@ -54,7 +41,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Reflex
-weakness: null
 will: '+12'
 wisdom: '+3'
 

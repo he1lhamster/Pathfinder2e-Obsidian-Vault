@@ -1,24 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Expert Druid Spellcasting
-frequency: null
-heighten_level: null
 id: '707'
+leads_to: '[[DATABASE/feat/Master Druid Spellcasting|Master Druid Spellcasting]]'
 level: '12'
 name: Expert Druid Spellcasting
 prerequisite: '[[DATABASE/feat/Basic Druid Spellcasting|Basic Druid Spellcasting]]
   ; Master in [[DATABASE/skill/Nature|Nature]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

@@ -2,9 +2,7 @@
 id: '61'
 name: Nine Lives Catfolk
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-trait: null
 type: Heritage
 
 ---

@@ -1,27 +1,18 @@
 ﻿---
 ac: '10'
-burrow_speed: null
-climb_speed: null
-fly_speed: null
 fortitude: '+6'
 hardness: '5'
 hp: '16'
 id: '8'
 item_category: Vehicles
-land_speed: null
 level: '0'
 max_speed: '20'
 name: Rowboat
 price: 15 gp
 rarity: Common
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 size: Medium
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 swim_speed: '20'
-trait: null
 type: Vehicle
 
 ---

@@ -1,34 +1,23 @@
 ﻿---
 ac: '17'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Blood Drain
 creature_family: '[[DATABASE/monsterfamily/Leech|Leech]]'
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+9'
-hardness: null
 hp: '32'
 id: '711'
-immunity: null
 intelligence: '-5'
 land_speed: '5'
-language: null
 level: '2'
 max_speed: '20'
 name: Giant Leech
 perception: '+5'
 rarity: Common
 reflex: '+7'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Tremorsense|tremorsense 30 feet]]'
 size: Medium
@@ -39,7 +28,6 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 5 feet
 - swim 20 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
@@ -49,7 +37,6 @@ trait:
 - '[[DATABASE/trait/Amphibious|Amphibious]]'
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
 weakness:

@@ -5,7 +5,6 @@ item_category: Relics
 name: Elements of Creation
 prerequisite: creative spark gift
 rarity: Common
-rus_type_level: null
 school: Conjuration
 source: '[[DATABASE/source/Highhelm|Highhelm]]'
 trait:

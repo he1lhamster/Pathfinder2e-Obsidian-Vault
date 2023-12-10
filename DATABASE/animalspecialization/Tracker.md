@@ -2,9 +2,7 @@
 id: '5'
 name: Tracker
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Animal Companion Specialization
 
 ---

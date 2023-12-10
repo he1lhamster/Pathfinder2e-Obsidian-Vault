@@ -2,9 +2,7 @@
 ac: '22'
 alignment: N
 all_resistance: '5'
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Bond with Mortal
@@ -13,10 +11,8 @@ creature_ability:
 - Warning Hoot
 creature_family: '[[DATABASE/monsterfamily/Spirit Guide|Spirit Guide]]'
 dexterity: '+3'
-element: null
 fly_speed: '40'
 fortitude: '+9'
-hardness: null
 hp: '75'
 id: '2464'
 immunity:
@@ -40,8 +36,6 @@ resistance:
 - '[[DATABASE/equipment/Ghost Touch|ghost touch]]'
 - or [[DATABASE/trait/Positive|positive]] ; double resistance vs. non- [[DATABASE/trait/Magical|magical]]
   )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -70,7 +64,6 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Incorporeal|Incorporeal]]'
@@ -80,7 +73,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+15'
 wisdom: '+5'
 

@@ -1,41 +1,28 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Hanspur|Hanspur]]'
 - '[[DATABASE/deity/Lysianassa|Lysianassa]]'
 - '[[DATABASE/deity/Lysianassa|Lysianassa]]'
-domain: null
 duration: sustained up to 1 minute
 element: Water
-heighten: null
 heighten_level: '3'
 id: '669'
-lesson: null
 level: '3'
-mystery: null
 name: Aqueous Orb
-patron_theme: null
 range: 60 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-target: null
 tradition:
 - Arcane
 - Primal
 trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Water|Water]]'
-trigger: null
 type: Spell
 
 ---

@@ -1,25 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Mortal Healing
-frequency: null
-heighten_level: null
 id: '1181'
 level: '2'
 name: Mortal Healing
 prerequisite: '[[DATABASE/feat/Godless Healing|Godless Healing]] , you follow the
   [[DATABASE/deity/Laws of Mortality|Laws of Mortality]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
 subcategory: medicine
 trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

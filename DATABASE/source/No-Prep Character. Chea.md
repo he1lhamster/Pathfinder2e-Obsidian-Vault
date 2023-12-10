@@ -2,9 +2,6 @@
 id: '77'
 name: No-Prep Character. Chea
 rarity: Common
-rus_type_level: null
-source: null
-trait: null
 type: Source
 
 ---

@@ -1,8 +1,6 @@
 ﻿---
 bulk: L
 damage: 1d4 B
-deity: null
-favored_weapon: null
 hands: '1'
 id: '185'
 item_category: Weapons
@@ -10,9 +8,7 @@ item_subcategory: Base Weapons
 level: '0'
 name: Knuckle Duster
 price: 3 sp
-range: null
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:
 - '[[DATABASE/trait/Agile|Agile]]'

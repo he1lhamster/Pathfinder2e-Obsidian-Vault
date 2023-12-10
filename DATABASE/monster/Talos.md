@@ -1,23 +1,15 @@
 ﻿---
 ac: '17'
-alignment: null
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Gadgets
 - Reflective Defense
 creature_family: '[[DATABASE/monsterfamily/Geniekin|Geniekin]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+6'
-hardness: null
 hp: 17 (plus 5 temporary HP (from ablative armor plating))
 id: '2658'
-immunity: null
 intelligence: '+3'
 land_speed: '25'
 language:
@@ -31,9 +23,6 @@ rarity: Common
 reflex: '+6'
 resistance:
 - '[[DATABASE/trait/Electricity|electricity]] 1'
-rus_type_level: null
-school: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +6'
@@ -50,16 +39,13 @@ strength_req: '1'
 strongest_save:
 - Fortitude
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Talos|Talos]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+5'
 wisdom: '+0'
 

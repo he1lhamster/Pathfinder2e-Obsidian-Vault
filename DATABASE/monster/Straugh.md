@@ -1,10 +1,8 @@
 ﻿---
 ac: '29'
 alignment: CE
-all_resistance: null
 burrow_speed: '20'
 charisma: '+0'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Consume Flesh
@@ -13,12 +11,8 @@ creature_ability:
 - Paralysis
 - Rock Tunneler
 - Tunneling Strike
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+22'
-hardness: null
 hp: 220 ( negative healing )
 id: '2158'
 immunity:
@@ -29,16 +23,12 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-4'
 land_speed: '30'
-language: null
 level: '10'
 max_speed: '30'
 name: Straugh
 perception: '+17'
 rarity: Uncommon
 reflex: '+16'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -54,12 +44,10 @@ source: '[[DATABASE/source/Pathfinder 184. The Ghouls Hunger|Pathfinder #184: Th
 speed:
 - 30 feet
 - burrow 20 feet
-spell: null
 strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Ghoul|Ghoul]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
@@ -69,7 +57,6 @@ vision: Darkvision
 weakest_save:
 - Reflex
 - Will
-weakness: null
 will: '+16'
 wisdom: '+3'
 

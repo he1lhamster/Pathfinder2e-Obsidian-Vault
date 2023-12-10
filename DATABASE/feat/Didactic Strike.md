@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Didactic Strike
-frequency: null
-heighten_level: null
 id: '1476'
 level: '16'
 name: Didactic Strike
 prerequisite: '[[DATABASE/feat/Shared Stratagem|Shared Stratagem]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Investigator|Investigator]]'
-trigger: null
 type: Feat
 
 ---

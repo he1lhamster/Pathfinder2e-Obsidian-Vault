@@ -1,8 +1,6 @@
 ﻿---
 ac: '27'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
 climb_speed: '20'
 constitution: '+0'
@@ -11,14 +9,10 @@ creature_ability:
 - Knife Fighter
 - Roll and Snatch
 - Twin Slash
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+14'
 hp: '135'
 id: '1639'
-immunity: null
 intelligence: '+1'
 land_speed: '30'
 language:
@@ -32,8 +26,6 @@ name: Froglegs
 perception: '+16'
 rarity: Unique
 reflex: '+18'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -50,12 +42,10 @@ source: '[[DATABASE/source/Pathfinder 170. Spoken on the Song Wind|Pathfinder #1
 speed:
 - 30 feet
 - climb 20 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Grippli|Grippli]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -64,7 +54,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+16'
 wisdom: '+2'
 

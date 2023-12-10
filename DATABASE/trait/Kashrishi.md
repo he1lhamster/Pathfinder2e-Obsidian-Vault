@@ -2,7 +2,6 @@
 id: '462'
 name: Kashrishi
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 trait:
 - Kashrishi

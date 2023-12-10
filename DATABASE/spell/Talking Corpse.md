@@ -1,28 +1,16 @@
 ﻿---
-actions: null
-area: null
 bloodline: '[[DATABASE/sorcererbloodline/Undead|Undead]]'
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 10 minutes
-element: null
-heighten: null
 heighten_level: '4'
 id: '329'
-lesson: null
 level: '4'
-mystery: null
 name: Talking Corpse
-patron_theme: null
 range: touch
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 saving_throw: Will
 school: Necromancy
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -33,7 +21,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Spell
 
 ---

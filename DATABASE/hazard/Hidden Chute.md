@@ -1,8 +1,6 @@
 ﻿---
 ac: '12'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+10'
 hardness: 5 Trapdoor Hardness
 hazard_type: Trap
@@ -16,17 +14,12 @@ level: '3'
 name: Hidden Chute
 rarity: Common
 reflex: '+6'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 157. Devil at the Dreaming Palace|Pathfinder
   #157: Devil at the Dreaming Palace]]'
 trait:
 - '[[DATABASE/trait/Mechanical|Mechanical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Hidden Chute<span class="item-type">Hazard 3</span>

@@ -1,10 +1,8 @@
 ﻿---
 ac: '21'
 alignment: LN
-all_resistance: null
 burrow_speed: '30'
 charisma: '+5'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Earth Glide
@@ -12,12 +10,9 @@ creature_ability:
 - Imposing Mien
 - Interposing Earth
 - Toolbreaker
-creature_family: null
 dexterity: '+0'
 element: Earth
-fly_speed: null
 fortitude: '+15'
-hardness: null
 hp: '80'
 id: '1742'
 immunity:
@@ -36,9 +31,6 @@ name: Temteki
 perception: '+13'
 rarity: Unique
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) 60 feet'
@@ -63,7 +55,6 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Elemental|Elemental]]'
@@ -72,7 +63,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+13'
 wisdom: '+2'
 

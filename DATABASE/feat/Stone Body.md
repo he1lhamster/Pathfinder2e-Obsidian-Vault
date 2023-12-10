@@ -1,23 +1,16 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Stone Body
 frequency: once per hour
-heighten_level: null
 id: '4182'
 level: '16'
 name: Stone Body
 prerequisite: '[[DATABASE/feat/Stalwart Defender Dedication|Stalwart Defender Dedication]]'
 rarity: Common
 requirement: You are in Tenacious Stance.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Highhelm|Highhelm]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

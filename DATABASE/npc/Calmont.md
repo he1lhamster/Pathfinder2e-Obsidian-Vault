@@ -1,10 +1,7 @@
 ﻿---
 ac: '20'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Deny Advantage
@@ -12,14 +9,10 @@ creature_ability:
 - Quick Draw
 - Sneak Attack
 - Surprise Attack
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+6'
 hp: '35'
 id: '1532'
-immunity: null
 intelligence: '-1'
 land_speed: '25'
 language:
@@ -32,8 +25,6 @@ name: Calmont
 perception: '+6'
 rarity: Unique
 reflex: '+11'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/ancestry/Halfling|keen eyes]]'
 size: Small
@@ -51,22 +42,18 @@ source: '[[DATABASE/source/Pathfinder 145. Hellknight Hill|Pathfinder #145: Hell
   Hill]]'
 speed:
 - 25 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Halfling|Halfling]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
 - Will
-weakness: null
 will: '+6'
 wisdom: '-1'
 

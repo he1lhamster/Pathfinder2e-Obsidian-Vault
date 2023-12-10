@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Virtuosic Performer|Virtuosic Performer]]'
 id: '275'
 name: Saloon Entertainer
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Performance|Performance]]'
 - '[[DATABASE/skill/Lore|Lore]] of your choice.'
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

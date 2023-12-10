@@ -1,20 +1,11 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Blessed Medicine
-frequency: null
-heighten_level: null
 id: '3475'
 level: '4'
 name: Blessed Medicine
 prerequisite: '[[DATABASE/feat/Undead Slayer Dedication|Undead Slayer Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Fortune|Fortune]]'

@@ -1,11 +1,8 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Ashava|Ashava]]'
 - '[[DATABASE/deity/Atreia|Atreia]]'
@@ -27,22 +24,14 @@ deity:
 - '[[DATABASE/deity/Touch of the Sun|Touchof the Sun]]'
 - '[[DATABASE/deity/Tsukiyo|Tsukiyo]]'
 - '[[DATABASE/deity/Wards of the Pharaoh|Wards of the Pharaoh]]'
-domain: null
 duration: 1 minute
-element: null
 heighten: '+1'
 heighten_level: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
 id: '291'
-lesson: null
 level: '1'
-mystery: null
 name: Soothe
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Enchantment
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: 1 willing creature
@@ -53,7 +42,6 @@ trait:
 - '[[DATABASE/trait/Enchantment|Enchantment]]'
 - '[[DATABASE/trait/Healing|Healing]]'
 - '[[DATABASE/trait/Mental|Mental]]'
-trigger: null
 type: Spell
 
 ---

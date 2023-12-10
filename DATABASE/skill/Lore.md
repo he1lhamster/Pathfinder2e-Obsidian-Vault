@@ -6,11 +6,9 @@ ability_boost:
 id: '8'
 name: Lore
 rarity: Common
-rus_type_level: null
 skill:
 - Lore
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Skill
 
 ---

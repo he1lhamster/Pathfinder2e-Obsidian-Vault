@@ -2,9 +2,7 @@
 id: '208'
 name: Enchanting Lily
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-trait: null
 type: Heritage
 
 ---

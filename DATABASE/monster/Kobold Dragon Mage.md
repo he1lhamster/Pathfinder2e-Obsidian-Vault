@@ -1,10 +1,7 @@
 ﻿---
 ac: '17'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Black
@@ -17,13 +14,9 @@ creature_ability:
 - White
 creature_family: '[[DATABASE/monsterfamily/Kobold|Kobold]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+4'
-hardness: null
 hp: '25'
 id: '274'
-immunity: null
 intelligence: '+2'
 land_speed: '25'
 language:
@@ -37,8 +30,6 @@ rarity: Common
 reflex: '+7'
 resistance:
 - poison 5 (see dragonscaled)
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Small
@@ -66,7 +57,6 @@ strength_req: '-1'
 strongest_save:
 - Reflex
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Kobold|Kobold]]'
@@ -74,7 +64,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+7'
 wisdom: '+1'
 

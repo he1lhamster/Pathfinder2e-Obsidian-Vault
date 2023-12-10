@@ -1,22 +1,15 @@
 ﻿---
 ac: '12'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Constrict
 - Nauseating Slap
 - Saturated
 - Stench
-creature_family: null
 dexterity: '-5'
-element: null
-fly_speed: null
 fortitude: '+16'
-hardness: null
 hp: '170'
 id: '1173'
 immunity:
@@ -25,17 +18,12 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '15'
-language: null
 level: '5'
 max_speed: '30'
 name: Globster
 perception: '+9'
 rarity: Common
 reflex: '+6'
-resistance: null
-rus_type_level: null
-school: null
-sense: null
 size: Large
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +15'
@@ -43,7 +31,6 @@ source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 15 feet
 - swim 30 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
@@ -53,7 +40,6 @@ trait:
 - '[[DATABASE/trait/Aquatic|Aquatic]]'
 - '[[DATABASE/trait/Ooze|Ooze]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
 weakness:

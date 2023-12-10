@@ -1,24 +1,17 @@
 ﻿---
 ac: '22'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Attack of Opportunity
 - Hunt Prey
 - Incredible Reload
 - Mobile Shot Stance
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+15'
 hp: '155'
 id: '2101'
-immunity: null
 intelligence: '+0'
 land_speed: '30'
 language:
@@ -29,9 +22,6 @@ name: Tanesse Fleer
 perception: '+19'
 rarity: Unique
 reflex: '+16'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +19'
@@ -44,21 +34,17 @@ source: '[[DATABASE/source/Pathfinder 153. Life''s Long Shadows|Pathfinder #153:
   Long Shadows]]'
 speed:
 - 30 feet; mobility
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+10'
 wisdom: '+4'
 

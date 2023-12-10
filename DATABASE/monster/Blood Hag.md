@@ -1,10 +1,7 @@
 ﻿---
 ac: '26'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Assume Fiery Form
@@ -14,10 +11,7 @@ creature_ability:
 - Drain Blood
 creature_family: '[[DATABASE/monsterfamily/Hag|Hag]]'
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+14'
-hardness: null
 hp: '170'
 id: '1188'
 immunity:
@@ -38,8 +32,6 @@ rarity: Common
 reflex: '+17'
 resistance:
 - fire 10
-rus_type_level: null
-school: null
 sense:
 - bloodsense (imprecise) 90 feet
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
@@ -62,7 +54,6 @@ strength_req: '4'
 strongest_save:
 - Reflex
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Hag|Hag]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'

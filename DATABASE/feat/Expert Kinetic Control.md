@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Expert Kinetic Control
-frequency: null
-heighten_level: null
 id: '4339'
 level: '12'
 name: Expert Kinetic Control
 prerequisite: '[[DATABASE/feat/Kineticist Dedication|Kineticist Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

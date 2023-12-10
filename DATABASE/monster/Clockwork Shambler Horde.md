@@ -1,10 +1,7 @@
 ﻿---
 ac: '25'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Form Up
@@ -13,12 +10,8 @@ creature_ability:
 - Slow
 - Troop Defenses
 - Troop Movement
-creature_family: null
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+21'
-hardness: null
 hp: '240'
 id: '1990'
 immunity:
@@ -30,30 +23,23 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '20'
-language: null
 level: '9'
 max_speed: '20'
 name: Clockwork Shambler Horde
 perception: '+14'
 rarity: Uncommon
 reflex: '+16'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Gargantuan
-skill: null
 source: '[[DATABASE/source/Pathfinder 180. The Smoking Gun|Pathfinder #180: The Smoking
   Gun]]'
 speed:
 - 20 feet; troop movement
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Mindless|Mindless]]'

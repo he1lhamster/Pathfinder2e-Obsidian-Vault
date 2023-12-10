@@ -1,27 +1,18 @@
 ﻿---
 ac: '19'
-burrow_speed: null
-climb_speed: null
-fly_speed: null
 fortitude: '+14'
 hardness: '10'
 hp: '100'
 id: '41'
 item_category: Vehicles
-land_speed: null
 level: '6'
 max_speed: '30'
 name: Cutter
 price: 750 gp
 rarity: Common
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 size: Huge
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
 swim_speed: '30'
-trait: null
 type: Vehicle
 
 ---

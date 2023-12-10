@@ -1,8 +1,6 @@
 ﻿---
 ac: '49'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+11'
 climb_speed: '20'
 constitution: '+8'
@@ -19,12 +17,9 @@ creature_ability:
 - Shame
 - Switch Fables
 - Wild Empathy
-creature_family: null
 dexterity: '+8'
-element: null
 fly_speed: '30'
 fortitude: '+39'
-hardness: null
 hp: '495'
 id: '2197'
 immunity:
@@ -44,9 +39,6 @@ name: Nyrissa
 perception: '+41'
 rarity: Unique
 reflex: '+43'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -128,7 +120,6 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Nymph|Nymph]]'

@@ -1,10 +1,8 @@
 ﻿---
 ac: '25'
 alignment: N
-all_resistance: null
 burrow_speed: '30'
 charisma: '-2'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Breath Weapon
@@ -12,12 +10,8 @@ creature_ability:
 - Ice Tunneler
 - Swallow Whole
 - Thrash
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+18'
-hardness: null
 hp: '120'
 id: '351'
 immunity:
@@ -33,9 +27,6 @@ name: Remorhaz
 perception: '+14'
 rarity: Uncommon
 reflex: '+15'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - tremorsense (imprecise) 60 feet
@@ -47,12 +38,10 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 35 feet
 - burrow 30 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
@@ -60,7 +49,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+10'
 wisdom: '+1'
 

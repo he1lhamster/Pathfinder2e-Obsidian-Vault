@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Peri Magic
-frequency: null
-heighten_level: null
 id: '2292'
 level: '9'
 name: Peri Magic
 prerequisite: '[[DATABASE/feat/Emberkin|Emberkin]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Aasimar|Aasimar]]'
-trigger: null
 type: Feat
 
 ---

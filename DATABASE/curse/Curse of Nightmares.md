@@ -1,10 +1,8 @@
 ﻿---
-element: null
 id: '15'
 level: '2'
 name: Curse of Nightmares
 rarity: Common
-rus_type_level: null
 saving_throw: DC 16 Will
 school: Illusion
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
@@ -14,7 +12,6 @@ trait:
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Mental|Mental]]'
 type: Curse
-usage: null
 
 ---
 # Curse of Nightmares<span class="item-type">Curse 2</span>

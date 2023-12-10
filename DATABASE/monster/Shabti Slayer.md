@@ -1,10 +1,7 @@
 ﻿---
 ac: '39'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Attack of Opportunity
@@ -16,10 +13,7 @@ creature_ability:
 - Flurry
 creature_family: '[[DATABASE/monsterfamily/Shabti|Shabti]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+30'
-hardness: null
 hp: '255'
 id: '2423'
 immunity:
@@ -39,8 +33,6 @@ rarity: Uncommon
 reflex: '+28'
 resistance:
 - '[[DATABASE/trait/Negative|negative]] 15'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -54,12 +46,10 @@ source: '[[DATABASE/source/Pathfinder 186. Ghost King''s Rage|Pathfinder #186: G
   King''s Rage]]'
 speed:
 - 25 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Shabti|Shabti]]'
@@ -68,7 +58,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+25'
 wisdom: '+3'
 

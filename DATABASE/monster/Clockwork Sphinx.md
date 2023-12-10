@@ -1,10 +1,7 @@
 ﻿---
 ac: '26'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Pounce
@@ -12,10 +9,8 @@ creature_ability:
 - Wind-Up
 creature_family: '[[DATABASE/monsterfamily/Clockworks|Clockworks]]'
 dexterity: '+4'
-element: null
 fly_speed: '25'
 fortitude: '+18'
-hardness: null
 hp: '130'
 id: '1948'
 immunity:
@@ -34,7 +29,6 @@ immunity:
 - unconscious
 intelligence: '-5'
 land_speed: '25'
-language: null
 level: '8'
 max_speed: '25'
 name: Clockwork Sphinx
@@ -43,8 +37,6 @@ rarity: Rare
 reflex: '+16'
 resistance:
 - physical 10 (except adamantine or orichalcum)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -56,12 +48,10 @@ source: '[[DATABASE/source/Pathfinder 179. Cradle of Quartz|Pathfinder #179: Cra
 speed:
 - 25 feet
 - fly 25 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Clockwork|Clockwork]]'
 - '[[DATABASE/trait/Construct|Construct]]'

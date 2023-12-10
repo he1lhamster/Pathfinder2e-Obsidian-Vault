@@ -1,10 +1,7 @@
 ﻿---
 ac: '25'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Calming Bioluminescence
@@ -12,9 +9,7 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Elemental, Water|Elemental, Water]]'
 dexterity: '+2'
 element: Water
-fly_speed: null
 fortitude: '+13'
-hardness: null
 hp: '120'
 id: '198'
 immunity:
@@ -36,8 +31,6 @@ reflex: '+15'
 resistance:
 - bludgeoning 5
 - fire 5
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Small
@@ -67,7 +60,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+18'
 wisdom: '+3'
 

@@ -3,9 +3,7 @@ creature_family: Sinsludge
 id: '352'
 name: Sinsludge
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Rusthenge|Rusthenge]]'
-trait: null
 type: Creature Family
 
 ---

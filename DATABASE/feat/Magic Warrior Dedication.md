@@ -1,25 +1,18 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Magic Warrior Dedication
-frequency: null
-heighten_level: null
 id: '903'
+leads_to: '[[DATABASE/feat/Magic Warrior Aspect|Magic Warrior Aspect]] , [[DATABASE/feat/Magic
+  Warrior Transformation|Magic Warrior Transformation]] , [[DATABASE/feat/Nameless
+  Anonymity|Nameless Anonymity]]'
 level: '2'
 name: Magic Warrior Dedication
 prerequisite: ability to cast focus spells
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/World Guide|World Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

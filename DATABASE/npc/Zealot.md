@@ -1,10 +1,7 @@
 ﻿---
 ac: '22'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Channel Smite
@@ -13,12 +10,9 @@ creature_ability:
 - Swear Vengeance
 creature_family: '[[DATABASE/monsterfamily/Devotees|Devotees]]'
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+9'
 hp: '58'
 id: '895'
-immunity: null
 intelligence: '+0'
 land_speed: '20'
 language:
@@ -29,9 +23,6 @@ name: Zealot of Asmodeus
 perception: '+9'
 rarity: Common
 reflex: '+7'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +9'
@@ -59,15 +50,12 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+11'
 wisdom: '+3'
 

@@ -4,7 +4,6 @@ level: '2'
 name: Lion Blade
 prerequisite: member of the Lion Blades; Trained in [[DATABASE/skill/Performance|Performance]]
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/World Guide|World Guide]]'
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

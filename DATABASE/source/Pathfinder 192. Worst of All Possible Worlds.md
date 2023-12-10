@@ -2,9 +2,6 @@
 id: '203'
 name: Pathfinder 192. Worst of All Possible Worlds
 rarity: Common
-rus_type_level: null
-source: null
-trait: null
 type: Source
 
 ---

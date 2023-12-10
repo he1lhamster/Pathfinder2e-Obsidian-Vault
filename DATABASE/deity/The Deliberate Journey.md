@@ -29,11 +29,9 @@ follower_alignment:
 id: '250'
 name: The Deliberate Journey
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Survival|Survival]]'
 source: '[[DATABASE/source/Travel Guide|Travel Guide]]'
-trait: null
 type: Deity
 
 ---

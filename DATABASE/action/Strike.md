@@ -1,17 +1,11 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 frequency: once per day
 id: '1167'
 name: Strike
 rarity: Common
 requirement: TheLady's chaliceis full of a vial's worth ofholy water
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-trait: null
-trigger: null
 type: Action
 
 ---

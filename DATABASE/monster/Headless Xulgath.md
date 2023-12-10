@@ -1,10 +1,7 @@
 ﻿---
 ac: '29'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Attack of Opportunity
@@ -13,15 +10,10 @@ creature_ability:
 - Motion Sense
 - ''
 - Powerful Stench
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+24'
-hardness: null
 hp: '195'
 id: '2106'
-immunity: null
 intelligence: '+0'
 land_speed: '20'
 language:
@@ -33,9 +25,6 @@ name: Headless Xulgath
 perception: '+20'
 rarity: Unique
 reflex: '+20'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - motion sense
 - no vision
@@ -48,21 +37,17 @@ source: '[[DATABASE/source/Pathfinder 153. Life''s Long Shadows|Pathfinder #153:
   Long Shadows]]'
 speed:
 - 20 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 - '[[DATABASE/trait/Xulgath|Xulgath]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+22'
 wisdom: '+3'
 

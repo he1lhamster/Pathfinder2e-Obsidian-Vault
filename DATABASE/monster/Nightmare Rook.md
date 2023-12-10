@@ -1,10 +1,7 @@
 ﻿---
 ac: '46'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Buck
@@ -13,15 +10,11 @@ creature_ability:
 - Snack
 - Snatch
 - Wing Rebuff
-creature_family: null
 dexterity: '+6'
-element: null
 fly_speed: '80'
 fortitude: '+34'
-hardness: null
 hp: '380'
 id: '2353'
-immunity: null
 intelligence: '+5'
 land_speed: '20'
 language:
@@ -36,8 +29,6 @@ rarity: Unique
 reflex: '+34'
 resistance:
 - physical 20 (except cold iron or lawful)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Gargantuan
@@ -59,7 +50,6 @@ strength: '+10'
 strength_req: '10'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Unique|Unique]]'
@@ -68,7 +58,6 @@ vision: Low-light vision
 weakest_save:
 - Fortitude
 - Reflex
-weakness: null
 will: '+38'
 wisdom: '+8'
 

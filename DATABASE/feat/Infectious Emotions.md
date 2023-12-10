@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Infectious Emotions
-frequency: null
-heighten_level: null
 id: '2968'
 level: '12'
 name: Infectious Emotions
 prerequisite: '[[DATABASE/feat/Cathartic Mage Dedication|Cathartic Mage Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

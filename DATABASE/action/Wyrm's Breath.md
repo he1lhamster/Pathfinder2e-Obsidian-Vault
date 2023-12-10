@@ -1,19 +1,13 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 frequency: once per minute
 id: '769'
 name: Wyrm's Breath
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Eidolon|Eidolon]]'
-trigger: null
 type: Action
 
 ---

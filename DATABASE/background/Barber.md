@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Risky Surgery|Risky Surgery]]'
 id: '166'
 name: Barber
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Medicine|Medicine]]'
 - Surgery [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

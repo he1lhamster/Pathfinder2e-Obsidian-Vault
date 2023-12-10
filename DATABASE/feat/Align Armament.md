@@ -1,25 +1,19 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Align Armament
 frequency: once per round
-heighten_level: null
 id: '286'
+leads_to: '[[DATABASE/feat/Extend Armament Alignment|Extend Armament Alignment]]'
 level: '8'
 name: Align Armament
 prerequisite: chaotic, evil, good, or lawful deity
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Cleric|Cleric]]'
 - '[[DATABASE/trait/Divine|Divine]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
-trigger: null
 type: Feat
 
 ---

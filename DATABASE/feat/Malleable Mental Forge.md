@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Malleable Mental Forge
-frequency: null
-heighten_level: null
 id: '3868'
 level: '8'
 name: Malleable Mental Forge
 prerequisite: '[[DATABASE/feat/Mental Forge|Mental Forge]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

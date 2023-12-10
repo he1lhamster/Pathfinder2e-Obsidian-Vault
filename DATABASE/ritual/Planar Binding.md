@@ -1,10 +1,7 @@
 ﻿---
-area: null
 cost: "warding diagram ingredients worth a total value of 2 gp \xD7 the spell level\
   \ \xD7 the target\u2019s level"
 duration: varies
-element: null
-heighten: null
 heighten_level: '6'
 id: '17'
 level: '6'
@@ -13,8 +10,6 @@ primary_check: '[[DATABASE/skill/Arcana|Arcana]] (master) or [[DATABASE/skill/Oc
   (master)'
 range: interplanar
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Abjuration
 secondary_casters: '4'
 secondary_check: '[[DATABASE/skill/Crafting|Crafting]] ; [[DATABASE/skill/Diplomacy|Diplomacy]]

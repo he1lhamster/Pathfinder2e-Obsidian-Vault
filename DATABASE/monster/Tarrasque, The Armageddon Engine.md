@@ -1,10 +1,7 @@
 ﻿---
 ac: '54'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+7'
-climb_speed: null
 constitution: '+12'
 creature_ability:
 - Attack of Opportunity
@@ -21,10 +18,7 @@ creature_ability:
 - Trample
 creature_family: '[[DATABASE/monsterfamily/Spawn of Rovagug|Spawn of Rovagug]]'
 dexterity: '+9'
-element: null
-fly_speed: null
 fortitude: '+47'
-hardness: null
 hp: '540'
 id: '490'
 immunity:
@@ -53,8 +47,6 @@ reflex: '+37'
 resistance:
 - fire 25
 - physical 25
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - scent (imprecise) 120 feet
@@ -67,7 +59,6 @@ source: '[[DATABASE/source/Pathfinder 150. Broken Promises|Pathfinder #150: Brok
 speed:
 - 50 feet
 - swim 50 feet
-spell: null
 strength: '+12'
 strength_req: '12'
 strongest_save:
@@ -80,7 +71,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+39'
 wisdom: '+9'
 

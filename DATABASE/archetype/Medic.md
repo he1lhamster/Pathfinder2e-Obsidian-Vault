@@ -5,9 +5,7 @@ name: Medic
 prerequisite: Trained in [[DATABASE/skill/Medicine|Medicine]] ; [[DATABASE/feat/Battle
   Medicine|Battle Medicine]]
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-trait: null
 type: Archetype
 
 ---

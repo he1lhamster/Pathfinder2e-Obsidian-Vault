@@ -1,39 +1,27 @@
 ﻿---
 actions: '[three-actions]'
 area: 10-foot burst
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Grandmother Spider|Grandmother Spider]]'
-domain: null
 duration: 1 minute
-element: null
 heighten: 4th
 heighten_level: 2, 4
 id: '374'
-lesson: null
 level: '2'
-mystery: null
 name: Web
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Arcane
 - Primal
 trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
-trigger: null
 type: Spell
 
 ---

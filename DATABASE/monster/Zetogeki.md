@@ -1,26 +1,19 @@
 ﻿---
 ac: '22'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
 climb_speed: '35'
 constitution: '+5'
 creature_ability:
 - Mangle
 - Tilt Scales
-creature_family: null
 dexterity: '+1'
 element: Earth
-fly_speed: null
 fortitude: '+18'
-hardness: null
 hp: '90'
 id: '1375'
-immunity: null
 intelligence: '-4'
 land_speed: '35'
-language: null
 level: '7'
 max_speed: '35'
 name: Zetogeki
@@ -29,8 +22,6 @@ rarity: Common
 reflex: '+14'
 resistance:
 - fire 10
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Large
@@ -42,12 +33,10 @@ source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 35 feet
 - climb 35 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 - '[[DATABASE/trait/Earth|Earth]]'
@@ -55,7 +44,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+13'
 wisdom: '+2'
 

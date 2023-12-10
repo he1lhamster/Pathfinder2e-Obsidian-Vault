@@ -1,34 +1,23 @@
 ﻿---
 ac: '20'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Counter-Charge
 - Dig In
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+12'
 hp: '70'
 id: '1821'
-immunity: null
 intelligence: '-1'
 land_speed: '25'
-language: null
 level: '4'
 max_speed: '25'
 name: Rhino Warrior
 perception: '+11'
 rarity: Rare
 reflex: '+14'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +12'
@@ -37,21 +26,17 @@ source: '[[DATABASE/source/Pathfinder 177. Burning Tundra|Pathfinder #177: Burni
   Tundra]]'
 speed:
 - 25 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+10'
 wisdom: '+1'
 

@@ -1,28 +1,20 @@
 ﻿---
 ac: '43'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+26'
-hardness: null
 hazard_type: Haunt
 hp: 128 (BT 64) dagger
 id: '89'
-immunity: null
 level: '19'
 name: Damurdiel's Vengeance
 rarity: Common
 reflex: '+26'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 150. Broken Promises|Pathfinder #150: Broken
   Promises]]'
 trait:
 - '[[DATABASE/trait/Complex|Complex]]'
 - '[[DATABASE/trait/Haunt|Haunt]]'
 type: Hazard
-weakness: null
 will: '+35'
 
 ---

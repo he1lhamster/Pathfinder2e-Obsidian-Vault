@@ -1,8 +1,6 @@
 ﻿---
 ac: '22'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
 climb_speed: '20'
 constitution: '+2'
@@ -10,15 +8,10 @@ creature_ability:
 - Camouflage
 - Grimstalker Sap
 - Woodland Stride
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+9'
-hardness: null
 hp: '60'
 id: '691'
-immunity: null
 intelligence: '+2'
 land_speed: '40'
 language:
@@ -30,9 +23,6 @@ name: Grimstalker
 perception: '+12'
 rarity: Common
 reflex: '+15'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
@@ -57,7 +47,6 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 type: Creature

@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Orc Weapon Familiarity
-frequency: null
-heighten_level: null
 id: '86'
+leads_to: '[[DATABASE/feat/Orc Weapon Carnage|Orc Weapon Carnage]] , [[DATABASE/feat/Orc
+  Weapon Expertise|Orc Weapon Expertise]]'
 level: '1'
 name: Orc Weapon Familiarity
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Orc|Orc]]'
-trigger: null
 type: Feat
 
 ---

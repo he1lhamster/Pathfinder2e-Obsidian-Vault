@@ -1,37 +1,25 @@
 ﻿---
 ac: '26'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Death Roll
 - Deep Breath
 - Into the Deep
 - Thunderous Tail
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+18'
-hardness: null
 hp: '140'
 id: '1634'
-immunity: null
 intelligence: '-5'
 land_speed: '20'
-language: null
 level: '8'
 max_speed: '25'
 name: Old Thrasher
 perception: '+16'
 rarity: Unique
 reflex: '+16'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Large
@@ -43,7 +31,6 @@ source: '[[DATABASE/source/Pathfinder 170. Spoken on the Song Wind|Pathfinder #1
 speed:
 - 20 feet
 - swim 25 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
@@ -56,7 +43,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+15'
 wisdom: '+3'
 

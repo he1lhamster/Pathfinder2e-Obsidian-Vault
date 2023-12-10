@@ -1,8 +1,5 @@
 ﻿---
 ac: '17'
-alignment: null
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
 climb_speed: '20'
 constitution: '+3'
@@ -10,15 +7,11 @@ creature_ability:
 - Greater Forest Passage
 - Scurry
 - Take Root
-creature_family: null
 dexterity: '+4'
 element: Wood
-fly_speed: null
 fortitude: '+6'
-hardness: null
 hp: '50'
 id: '2684'
-immunity: null
 intelligence: '+0'
 land_speed: '30'
 language:
@@ -31,9 +24,6 @@ name: Lomori Sprout
 perception: '+9'
 rarity: Rare
 reflex: '+11'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Tiny
@@ -48,12 +38,10 @@ source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 speed:
 - 30 feet
 - climb 20 feet
-spell: null
 strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aeon|Aeon]]'
 - '[[DATABASE/trait/Plant|Plant]]'

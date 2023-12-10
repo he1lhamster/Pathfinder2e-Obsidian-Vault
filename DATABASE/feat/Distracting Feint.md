@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Distracting Feint
-frequency: null
-heighten_level: null
 id: '555'
 level: '2'
 name: Distracting Feint
 prerequisite: '[[DATABASE/rogueracket/Scoundrel|scoundrel racket]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Rogue|Rogue]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,20 +1,14 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
-frequency: null
 id: '908'
 name: Finish the Job
 rarity: Common
 requirement: On your last action, you failed (but didn't critically fail) a Strike
   with a firearm or crossbowyou're holding in one hand, and your other hand is either
   wielding a melee weapon or empty.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:
 - '[[DATABASE/trait/Gunslinger|Gunslinger]]'
-trigger: null
 type: Action
 
 ---

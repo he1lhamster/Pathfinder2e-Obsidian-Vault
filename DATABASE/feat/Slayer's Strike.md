@@ -1,27 +1,20 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Slayer's Strike
-frequency: null
-heighten_level: null
 id: '3478'
+leads_to: '[[DATABASE/feat/Slayer''s Blessing|Slayer''s Blessing]]'
 level: '4'
 name: Slayer's Strike
 prerequisite: '[[DATABASE/feat/Undead Slayer Dedication|Undead Slayer Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Flourish|Flourish]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Occult|Occult]]'
 - '[[DATABASE/trait/Positive|Positive]]'
-trigger: null
 type: Feat
 
 ---

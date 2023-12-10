@@ -1,14 +1,10 @@
 ﻿---
-ability: null
-ability_boost: null
 id: '30'
 name: Statecraft
 rarity: Common
-rus_type_level: null
 skill:
 - Statecraft
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
-trait: null
 type: Skill
 
 ---

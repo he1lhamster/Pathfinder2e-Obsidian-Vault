@@ -1,10 +1,7 @@
 ﻿---
 ac: '31'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Catch Rock
@@ -14,13 +11,9 @@ creature_ability:
 - Throw Rock
 creature_family: '[[DATABASE/monsterfamily/Bhanyada|Bhanyada]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+25'
-hardness: null
 hp: '250'
 id: '2518'
-immunity: null
 intelligence: '-3'
 land_speed: '40'
 language:
@@ -33,8 +26,6 @@ rarity: Uncommon
 reflex: '+20'
 resistance:
 - bludgeoning 10
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Huge
@@ -44,12 +35,10 @@ skill:
 source: '[[DATABASE/source/Pathfinder 190. The Choosing|Pathfinder #190: The Choosing]]'
 speed:
 - 40 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

@@ -1,8 +1,5 @@
 ﻿---
 ac: '14'
-burrow_speed: null
-climb_speed: null
-fly_speed: null
 fortitude: '+9'
 hardness: '5'
 hp: '48'
@@ -14,13 +11,8 @@ max_speed: '20'
 name: Clockwork Wagon
 price: 160 gp
 rarity: Uncommon
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 size: Large
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Vehicle

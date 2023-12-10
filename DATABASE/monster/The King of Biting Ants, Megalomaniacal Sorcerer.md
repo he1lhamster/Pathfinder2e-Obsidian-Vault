@@ -1,8 +1,6 @@
 ﻿---
 ac: '44'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+9'
 climb_speed: '20'
 constitution: '+6'
@@ -12,12 +10,8 @@ creature_ability:
 - Squirming Embrace
 - Swarm Shape
 - Swarming Bites
-creature_family: null
 dexterity: '+9'
-element: null
-fly_speed: null
 fortitude: '+31'
-hardness: null
 hp: '300'
 id: '1720'
 immunity:
@@ -43,8 +37,6 @@ rarity: Unique
 reflex: '+36'
 resistance:
 - physical 15
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) 30 feet'
@@ -108,7 +100,6 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Swarm|Swarm]]'

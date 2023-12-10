@@ -1,26 +1,18 @@
 ﻿---
 ac: '28'
-burrow_speed: null
-climb_speed: null
 fly_speed: '50'
 fortitude: '+22'
 hardness: '20'
 hp: '210'
 id: '1'
 item_category: Vehicles
-land_speed: null
 level: '12'
 max_speed: '50'
 name: Airship
 price: 6,000 gp
 rarity: Rare
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 size: Gargantuan
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Vehicle

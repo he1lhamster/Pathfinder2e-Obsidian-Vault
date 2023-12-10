@@ -3,9 +3,7 @@ creature_family: Werecreature
 id: '100'
 name: Werecreature
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
-trait: null
 type: Creature Family
 
 ---

@@ -1,10 +1,7 @@
 ﻿---
 ac: '33'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Fossilization
@@ -13,10 +10,7 @@ creature_ability:
 - Vulnerable to Stone to Flesh
 creature_family: '[[DATABASE/monsterfamily/Golem|Golem]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+26'
-hardness: null
 hp: '195'
 id: '1174'
 immunity:
@@ -37,7 +31,6 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '25'
-language: null
 level: '12'
 max_speed: '25'
 name: Fossil Golem
@@ -46,8 +39,6 @@ rarity: Rare
 reflex: '+20'
 resistance:
 - physical 10 (except [[DATABASE/equipment/Adamantine Weapon|adamantine]] or bludgeoning)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Huge
@@ -56,12 +47,10 @@ skill:
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 25 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Golem|Golem]]'
@@ -71,7 +60,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+18'
 wisdom: '+0'
 

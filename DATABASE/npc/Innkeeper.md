@@ -1,22 +1,16 @@
 ﻿---
 ac: '14'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Font of Gossip
 - Home Turf
 creature_family: '[[DATABASE/monsterfamily/Publicans|Publicans]]'
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+6'
 hp: '20'
 id: '945'
-immunity: null
 intelligence: '+2'
 land_speed: '25'
 language:
@@ -27,9 +21,6 @@ name: Innkeeper
 perception: '+7'
 rarity: Common
 reflex: '+3'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Lore|Accounting Lore]] +5'
@@ -40,20 +31,16 @@ skill:
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 speed:
 - 25 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+9'
 wisdom: '+2'
 

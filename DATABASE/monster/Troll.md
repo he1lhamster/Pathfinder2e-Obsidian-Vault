@@ -1,23 +1,16 @@
 ﻿---
 ac: '20'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Attack of Opportunity
 - Rend
 creature_family: '[[DATABASE/monsterfamily/Troll|Troll]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+17'
-hardness: null
 hp: '115'
 id: '395'
-immunity: null
 intelligence: '-2'
 land_speed: '30'
 language:
@@ -28,9 +21,6 @@ name: Troll
 perception: '+11'
 rarity: Common
 reflex: '+11'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Large
@@ -40,12 +30,10 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 30 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Giant|Giant]]'
 - '[[DATABASE/trait/Troll|Troll]]'

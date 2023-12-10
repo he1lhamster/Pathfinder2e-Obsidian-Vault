@@ -1,26 +1,7 @@
 ﻿---
-bulk: '1'
-damage: 1d6 B
-deity: null
-favored_weapon: null
-hands: '1'
-id: '169'
-item_category: Weapons
-item_subcategory: Base Weapons
-level: '0'
+id: '121'
 name: Gaff
-price: 1 gp
-range: null
-rarity: Common
-rus_type_level: null
-source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
-trait:
-- '[[DATABASE/trait/Trip|Trip]]'
-- '[[DATABASE/trait/Versatile|VersatileP]]'
-type: Weapon
-weapon_category: Martial
-weapon_group: '[[DATABASE/weapongroup/Club|Club]]'
-weapon_type: Melee
+source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 
 ---
 # Gaff

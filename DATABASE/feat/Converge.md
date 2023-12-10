@@ -1,21 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Converge
-frequency: null
-heighten_level: null
 id: '3126'
 level: '16'
 name: Converge
 prerequisite: '[[DATABASE/feat/Overwatch Dedication|Overwatch Dedication]] ; master
   in Perception'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 trigger: You make a successful ranged attack against an opponent who is within your

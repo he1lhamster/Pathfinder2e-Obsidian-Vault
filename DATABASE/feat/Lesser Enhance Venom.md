@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Lesser Enhance Venom
-frequency: null
-heighten_level: null
 id: '4022'
+leads_to: '[[DATABASE/feat/Moderate Enhance Venom|Moderate Enhance Venom]]'
 level: '1'
 name: Lesser Enhance Venom
 prerequisite: '[[DATABASE/action/Envenom|Envenom]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Vishkanya|Vishkanya]]'
-trigger: null
 type: Feat
 
 ---

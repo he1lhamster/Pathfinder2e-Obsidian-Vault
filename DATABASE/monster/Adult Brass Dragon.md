@@ -1,10 +1,8 @@
 ﻿---
 ac: '31'
 alignment: CG
-all_resistance: null
 burrow_speed: '30'
 charisma: '+3'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Breath Weapon
@@ -19,7 +17,6 @@ dexterity: '+3'
 element: Fire
 fly_speed: '120'
 fortitude: '+22'
-hardness: null
 hp: '215'
 id: '143'
 immunity:
@@ -42,9 +39,6 @@ name: Adult Brass Dragon
 perception: '+21'
 rarity: Common
 reflex: '+20'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - scent (imprecise) 60 feet
@@ -67,7 +61,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dragon|Dragon]]'
 - '[[DATABASE/trait/Fire|Fire]]'
@@ -75,7 +68,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+21'
 wisdom: '+4'
 

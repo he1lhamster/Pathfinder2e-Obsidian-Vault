@@ -1,20 +1,13 @@
 ﻿---
 actions: '[one-action]'
-cost: null
 element: Wood
 feat: Fresh Produce
-frequency: null
 heighten_level: 1, 3, 5, 7, 9, 11, 13, 15, 17, 19
 id: '4281'
 level: '1'
 name: Fresh Produce
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Healing|Healing]]'
 - '[[DATABASE/trait/Impulse|Impulse]]'
@@ -23,7 +16,6 @@ trait:
 - '[[DATABASE/trait/Primal|Primal]]'
 - '[[DATABASE/trait/Vitality|Vitality]]'
 - '[[DATABASE/trait/Wood|Wood]]'
-trigger: null
 type: Feat
 
 ---

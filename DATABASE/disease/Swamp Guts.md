@@ -4,9 +4,7 @@ level: '6'
 name: Swamp Guts
 onset: 1 hour
 rarity: Uncommon
-rus_type_level: null
 saving_throw: DC 22 Fortitude
-school: null
 source: '[[DATABASE/source/Pathfinder 170. Spoken on the Song Wind|Pathfinder #170:
   Spoken on the Song Wind]]'
 stage: 'Stage 1: sickened 1 (1 day)Stage 2: enfeebled 1 and fatigued (1 day)Stage

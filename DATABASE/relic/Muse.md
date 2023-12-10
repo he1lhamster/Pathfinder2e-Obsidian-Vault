@@ -1,11 +1,9 @@
 ﻿---
-element: null
 id: '87'
 item_category: Relics
 name: Muse
 prerequisite: The relic is 3rd level or higher.
 rarity: Common
-rus_type_level: null
 school: Divination
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 trait:

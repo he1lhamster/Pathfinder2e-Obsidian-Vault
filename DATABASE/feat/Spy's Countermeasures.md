@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Spy's Countermeasures
-frequency: null
-heighten_level: null
 id: '921'
 level: '10'
 name: Spy's Countermeasures
 prerequisite: '[[DATABASE/feat/Lion Blade Dedication|Lion Blade Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/World Guide|World Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

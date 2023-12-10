@@ -1,29 +1,17 @@
 ﻿---
 actions: '[three-actions]'
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: up to 1 minute
-element: null
 heighten: 3rd, 5th
 heighten_level: 1, 3, 5
 id: '978'
-lesson: null
 level: '1'
-mystery: null
 name: Quick Sort
-patron_theme: null
 range: 10 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 target: up to 200 unattended objects in range, each of light Bulk or less
@@ -34,7 +22,6 @@ tradition:
 - Primal
 trait:
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Spell
 
 ---

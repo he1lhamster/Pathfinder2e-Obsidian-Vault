@@ -1,10 +1,7 @@
 ﻿---
 ac: '19'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Coven
@@ -12,13 +9,9 @@ creature_ability:
 - "Sea Hag\u2019s Bargain"
 creature_family: '[[DATABASE/monsterfamily/Hag|Hag]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+11'
-hardness: null
 hp: '45'
 id: '254'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -31,9 +24,6 @@ name: Sea Hag
 perception: '+10'
 rarity: Common
 reflex: '+8'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -47,7 +37,6 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 25 feet
 - swim 35 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:

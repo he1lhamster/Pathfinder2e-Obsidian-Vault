@@ -1,22 +1,16 @@
 ﻿---
 ac: '25'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Destructive Vengeance
 - Intimidating Strike
 creature_family: '[[DATABASE/monsterfamily/Villains|Villains]]'
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+14'
 hp: '75'
 id: '961'
-immunity: null
 intelligence: '+0'
 land_speed: '20'
 language:
@@ -27,9 +21,6 @@ name: Antipaladin
 perception: '+10'
 rarity: Common
 reflex: '+10'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +13'
@@ -46,15 +37,12 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+12'
 wisdom: '+1'
 

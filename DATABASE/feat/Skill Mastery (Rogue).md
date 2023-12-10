@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Skill Mastery (Rogue)
-frequency: null
-heighten_level: null
 id: '731'
 level: '8'
 name: Skill Mastery (Rogue)
 prerequisite: '[[DATABASE/feat/Rogue Dedication|Rogue Dedication]] ; trained in at
   least one skill and expertin at least one skill'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

@@ -3,9 +3,7 @@ creature_family: Dragon, Brass
 id: '170'
 name: Dragon, Brass
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
-trait: null
 type: Creature Family
 
 ---

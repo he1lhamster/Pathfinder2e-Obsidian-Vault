@@ -1,10 +1,8 @@
 ﻿---
-element: null
 id: '26'
 level: '15'
 name: Unending Thirst
 rarity: Common
-rus_type_level: null
 saving_throw: DC 32 Fortitude
 school: Transmutation
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
@@ -13,7 +11,6 @@ trait:
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
 type: Curse
-usage: null
 
 ---
 # Unending Thirst<span class="item-type">Curse 15</span>

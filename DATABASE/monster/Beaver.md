@@ -1,10 +1,7 @@
 ﻿---
 ac: '15'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Construct Shelter
@@ -13,25 +10,17 @@ creature_ability:
 - Prop
 creature_family: '[[DATABASE/monsterfamily/Beaver|Beaver]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+7'
-hardness: null
 hp: '8'
 id: '1771'
-immunity: null
 intelligence: '-4'
 land_speed: '15'
-language: null
 level: '-1'
 max_speed: '25'
 name: Beaver
 perception: '+6'
 rarity: Common
 reflex: '+4'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -45,7 +34,6 @@ source: '[[DATABASE/source/Pathfinder 176. Lost Mammoth Valley|Pathfinder #176: 
 speed:
 - 15 feet
 - swim 25 feet
-spell: null
 strength: '+1'
 strength_req: '1'
 strongest_save:
@@ -58,7 +46,6 @@ vision: Low-light vision
 weakest_save:
 - Reflex
 - Will
-weakness: null
 will: '+4'
 wisdom: '+2'
 

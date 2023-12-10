@@ -1,10 +1,7 @@
 ﻿---
 ac: '18'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Pinch
@@ -12,10 +9,8 @@ creature_ability:
 - Pry
 creature_family: '[[DATABASE/monsterfamily/Tooth Fairy|Tooth Fairy]]'
 dexterity: '+3'
-element: null
 fly_speed: '40'
 fortitude: '+5'
-hardness: null
 hp: '28'
 id: '1345'
 immunity:
@@ -23,7 +18,6 @@ immunity:
 - '[[DATABASE/monsterability/Swarm Mind|swarm mind]]'
 intelligence: '-1'
 land_speed: '10'
-language: null
 level: '3'
 max_speed: '40'
 name: Tooth Fairy Swarm
@@ -34,8 +28,6 @@ resistance:
 - bludgeoning 2
 - piercing 5
 - slashing 5
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -47,12 +39,10 @@ source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 10 feet
 - fly 40 feet
-spell: null
 strength: '-2'
 strength_req: '-2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Swarm|Swarm]]'

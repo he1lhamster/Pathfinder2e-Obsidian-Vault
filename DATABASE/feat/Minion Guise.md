@@ -1,26 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Minion Guise
-frequency: null
-heighten_level: null
 id: '2085'
 level: '4'
 name: Minion Guise
 prerequisite: animal companion or familiar; Expert in [[DATABASE/skill/Deception|Deception]]
   ; [[DATABASE/feat/Vigilante Dedication|Vigilante Dedication]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Skill|Skill]]'
 - '[[DATABASE/trait/Social|Social]]'
-trigger: null
 type: Feat
 
 ---

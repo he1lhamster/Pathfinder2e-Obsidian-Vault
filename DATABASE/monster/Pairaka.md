@@ -1,10 +1,7 @@
 ﻿---
 ac: '24'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+7'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Bubonic Plague
@@ -13,10 +10,8 @@ creature_ability:
 - Tormenting Dreams
 creature_family: '[[DATABASE/monsterfamily/Div|Div]]'
 dexterity: '+5'
-element: null
 fly_speed: '35'
 fortitude: '+12'
-hardness: null
 hp: '105'
 id: '1119'
 immunity:
@@ -33,9 +28,6 @@ name: Pairaka
 perception: '+15'
 rarity: Common
 reflex: '+16'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 size: Medium
@@ -63,7 +55,6 @@ strength: '+3'
 strength_req: '3'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Div|Div]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

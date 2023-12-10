@@ -1,10 +1,7 @@
 ﻿---
 ac: '27'
 alignment: CG
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Breath Weapon
@@ -22,7 +19,6 @@ dexterity: '+4'
 element: Water
 fly_speed: '100'
 fortitude: '+17'
-hardness: null
 hp: '140'
 id: '1125'
 immunity:
@@ -40,9 +36,6 @@ name: Young Sea Dragon
 perception: '+15'
 rarity: Uncommon
 reflex: '+18'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Wavesense|wavesense]] (imprecise) 60 feet'
@@ -80,7 +73,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+15'
 wisdom: '+3'
 

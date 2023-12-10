@@ -1,12 +1,9 @@
 ﻿---
 ac: '21'
-all_resistance: null
 complexity: Simple
 element: Fire
 fortitude: '+14'
-hardness: null
 hazard_type: Environmental
-hp: null
 id: '118'
 immunity:
 - critical hits
@@ -16,17 +13,12 @@ level: '4'
 name: Oil Explosion
 rarity: Common
 reflex: '+14'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 176. Lost Mammoth Valley|Pathfinder #176: Lost
   Mammoth Valley]]'
 trait:
 - '[[DATABASE/trait/Environmental|Environmental]]'
 - '[[DATABASE/trait/Fire|Fire]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Oil Explosion<span class="item-type">Hazard 4</span>

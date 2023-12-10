@@ -1,21 +1,15 @@
 ﻿---
 ac: '15'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Beat a Retreat
 creature_family: '[[DATABASE/monsterfamily/Downtrodden|Downtrodden]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+4'
 hp: '10'
 id: '897'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -26,9 +20,6 @@ name: Beggar
 perception: '+3'
 rarity: Common
 reflex: '+7'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +3'
@@ -39,20 +30,16 @@ skill:
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 speed:
 - 25 feet
-spell: null
 strength: '+1'
 strength_req: '1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+3'
 wisdom: '+1'
 

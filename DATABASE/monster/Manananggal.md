@@ -1,24 +1,17 @@
 ﻿---
 ac: '26'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Blood Drain
 - Light Blindness
 - Separated Body
-creature_family: null
 dexterity: '+5'
-element: null
 fly_speed: '80'
 fortitude: '+14'
-hardness: null
 hp: '180'
 id: '1399'
-immunity: null
 intelligence: '+1'
 land_speed: '30'
 language:
@@ -30,9 +23,6 @@ name: Manananggal
 perception: '+16'
 rarity: Common
 reflex: '+17'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -54,7 +44,6 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Tanggal|Tanggal]]'

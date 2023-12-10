@@ -1,7 +1,6 @@
 ﻿---
 id: '50'
 name: Lost
-source: null
 
 ---
 # Lost

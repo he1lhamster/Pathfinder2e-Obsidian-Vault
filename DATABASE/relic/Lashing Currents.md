@@ -5,7 +5,6 @@ item_category: Relics
 name: Lashing Currents
 prerequisite: The relic is a weapon.
 rarity: Common
-rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:

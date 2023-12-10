@@ -1,21 +1,13 @@
 ﻿---
 ac: '16'
 alignment: CG
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+1'
-creature_ability: null
 creature_family: '[[DATABASE/monsterfamily/Geniekin|Geniekin]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+4'
-hardness: null
 hp: '15'
 id: '763'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -27,10 +19,6 @@ name: Undine Hydromancer
 perception: '+5'
 rarity: Common
 reflex: '+5'
-resistance: null
-rus_type_level: null
-school: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Arcana|Arcana]] +3'
@@ -64,10 +52,8 @@ trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Undine|Undine]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+7'
 wisdom: '+2'
 

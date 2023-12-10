@@ -1,10 +1,7 @@
 ﻿---
 ac: '34'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Backdrop
@@ -12,10 +9,7 @@ creature_ability:
 - Truescript
 creature_family: '[[DATABASE/monsterfamily/Living Symbol|Living Symbol]]'
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+20'
-hardness: null
 hp: '245'
 id: '1222'
 immunity:
@@ -41,9 +35,6 @@ name: Arcane Living Rune
 perception: '+25'
 rarity: Rare
 reflex: '+23'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/spell/True Seeing|true seeing]]'
@@ -69,7 +60,6 @@ strength: '+1'
 strength_req: '1'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Rare|Rare]]'
@@ -77,7 +67,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+27'
 wisdom: '+8'
 

@@ -1,24 +1,16 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Twin Takedown
 frequency: once per round
-heighten_level: null
 id: '494'
 level: '1'
 name: Twin Takedown
-prerequisite: null
 rarity: Common
 requirement: You are wielding two melee weapons, each in a different hand.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Flourish|Flourish]]'
 - '[[DATABASE/trait/Ranger|Ranger]]'
-trigger: null
 type: Feat
 
 ---

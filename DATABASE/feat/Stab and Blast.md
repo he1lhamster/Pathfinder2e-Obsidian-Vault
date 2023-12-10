@@ -1,26 +1,17 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Stab and Blast
-frequency: null
-heighten_level: null
 id: '3181'
 level: '8'
 name: Stab and Blast
-prerequisite: null
 rarity: Common
 requirement: You're wielding a firearm with an attached [[DATABASE/weapon/Bayonet|bayonet]]
   or [[DATABASE/weapon/Reinforced Stock|reinforced stock]] , a [[DATABASE/weapon/Fire
   Lance|fire lance]] , or a [[DATABASE/trait/Combination|combination]] weapon.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Flourish|Flourish]]'
 - '[[DATABASE/trait/Gunslinger|Gunslinger]]'
-trigger: null
 type: Feat
 
 ---

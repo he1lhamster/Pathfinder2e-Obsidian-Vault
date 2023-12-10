@@ -1,11 +1,9 @@
 ﻿---
 actions: '[one-action]'
-id: '45'
+id: '18'
 name: Grab
 rarity: Common
-rus_type_level: null
-source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-trait: null
+source: '[[DATABASE/source/Bestiary|Bestiary]]'
 type: Creature Ability
 
 ---

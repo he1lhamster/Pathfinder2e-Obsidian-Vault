@@ -3,9 +3,7 @@ creature_family: Ram
 id: '256'
 name: Ram
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
-trait: null
 type: Creature Family
 
 ---

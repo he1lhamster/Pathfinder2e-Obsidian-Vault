@@ -1,27 +1,19 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
 element: Wood
 feat: Hail of Splinters
-frequency: null
 heighten_level: 1, 3, 5, 7, 9, 11, 13, 15, 17, 19
 id: '4282'
 level: '1'
 name: Hail of Splinters
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Impulse|Impulse]]'
 - '[[DATABASE/trait/Kineticist|Kineticist]]'
 - '[[DATABASE/trait/Overflow|Overflow]]'
 - '[[DATABASE/trait/Primal|Primal]]'
 - '[[DATABASE/trait/Wood|Wood]]'
-trigger: null
 type: Feat
 
 ---

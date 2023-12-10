@@ -1,55 +1,20 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
 element: Wood
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '2644'
 item_category: Runes
 item_subcategory: Weapon Property Runes
-land_speed: null
-level: '19'
-max_speed: null
+level: '7'
 name: Rooting
-onset: null
-price: 40,000 gp
-range: null
+price: 360 gp
 rarity: Common
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
-school: null
-size: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-spell: null
-stage: null
 subcategory: rune
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Plant|Plant]]'
 - '[[DATABASE/trait/Wood|Wood]]'
-trigger: null
 type: Item
 usage: etched onto a melee weapon
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Rooting<span class="item-type">Item 7+</span>

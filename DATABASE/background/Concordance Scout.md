@@ -8,9 +8,7 @@ ability_boost:
 feat: '[[DATABASE/feat/Hobnobber|Hobnobber]]'
 id: '383'
 name: Concordance Scout
-prerequisite: null
 rarity: Uncommon
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Diplomacy|Diplomacy]]'
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'

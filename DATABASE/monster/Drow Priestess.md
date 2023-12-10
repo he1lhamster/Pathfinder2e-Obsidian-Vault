@@ -1,20 +1,14 @@
 ﻿---
 ac: '20'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Light Blindness
 - Shield Block
 creature_family: '[[DATABASE/monsterfamily/Drow|Drow]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+8'
-hardness: null
 hp: '39'
 id: '167'
 immunity:
@@ -31,9 +25,6 @@ name: Drow Priestess
 perception: '+9'
 rarity: Common
 reflex: '+7'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -67,7 +58,6 @@ strength: '+1'
 strength_req: '1'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Drow|Drow]]'
 - '[[DATABASE/trait/Elf|Elf]]'
@@ -76,7 +66,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+11'
 wisdom: '+4'
 

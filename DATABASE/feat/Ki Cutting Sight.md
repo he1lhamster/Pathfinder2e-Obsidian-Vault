@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Ki Cutting Sight
-frequency: null
-heighten_level: null
 id: '4355'
 level: '6'
 name: Ki Cutting Sight
 prerequisite: '[[DATABASE/feat/Ki Strike|Ki Strike]]'
 rarity: Rare
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Wake the Dead 2|Wake the Dead #2]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Monk|Monk]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Feat
 
 ---

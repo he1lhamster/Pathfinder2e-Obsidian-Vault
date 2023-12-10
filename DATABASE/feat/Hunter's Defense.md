@@ -1,20 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Hunter's Defense
 frequency: once per hour
-heighten_level: null
 id: '2819'
 level: '1'
 name: Hunter's Defense
 prerequisite: Trained in [[DATABASE/skill/Nature|Nature]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Grippli|Grippli]]'
 trigger: A creature with the [[DATABASE/trait/Animal|animal]] , [[DATABASE/trait/Beast|beast]]

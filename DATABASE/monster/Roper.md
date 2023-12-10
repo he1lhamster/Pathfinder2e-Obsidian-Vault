@@ -1,8 +1,6 @@
 ﻿---
 ac: '29'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
 climb_speed: '10'
 constitution: '+6'
@@ -12,15 +10,10 @@ creature_ability:
 - Pull the Strands
 - Reactive Lash
 - Sticky Strand
-creature_family: null
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+20'
-hardness: null
 hp: '215'
 id: '353'
-immunity: null
 intelligence: '+1'
 land_speed: '10'
 language:
@@ -34,8 +27,6 @@ rarity: Uncommon
 reflex: '+15'
 resistance:
 - electricity 10
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Large
@@ -48,12 +39,10 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 10 feet
 - climb 10 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

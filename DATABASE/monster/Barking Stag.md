@@ -1,37 +1,25 @@
 ﻿---
 ac: '34'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Antler Toss
 - Arrow Vulnerability
 - Foil the Hunt
 - Trample
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+21'
-hardness: null
 hp: '245'
 id: '2140'
-immunity: null
 intelligence: '-4'
 land_speed: '45'
-language: null
 level: '13'
 max_speed: '45'
 name: Barking Stag
 perception: '+28'
 rarity: Rare
 reflex: '+26'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Large
@@ -43,12 +31,10 @@ source: '[[DATABASE/source/Pathfinder 156. The Apocalypse Prophet|Pathfinder #15
   The Apocalypse Prophet]]'
 speed:
 - 45 feet
-spell: null
 strength: '+8'
 strength_req: '8'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 - '[[DATABASE/trait/Rare|Rare]]'

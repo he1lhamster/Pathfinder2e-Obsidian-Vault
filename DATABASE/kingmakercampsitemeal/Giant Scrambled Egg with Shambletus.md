@@ -4,8 +4,6 @@ level: '13'
 name: Giant Scrambled Egg with Shambletus
 price: 150 gp
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
 trait:
 - '[[DATABASE/trait/Meal|Meal]]'

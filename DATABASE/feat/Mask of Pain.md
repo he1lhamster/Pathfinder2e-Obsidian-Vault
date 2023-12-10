@@ -1,10 +1,6 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Mask of Pain
-frequency: null
-heighten_level: null
 id: '2421'
 level: '9'
 name: Mask of Pain
@@ -12,10 +8,7 @@ prerequisite: Expert in [[DATABASE/skill/Intimidation|Intimidation]] ; [[DATABAS
   Warmask|Orc Warmask]]
 rarity: Common
 requirement: You're wearing yourwarmask.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Orc|Orc]]'
 trigger: You succeed at a [[DATABASE/action/Demoralize|Demoralize]] check.

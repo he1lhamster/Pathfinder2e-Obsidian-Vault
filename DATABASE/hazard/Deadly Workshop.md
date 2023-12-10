@@ -1,8 +1,6 @@
 ﻿---
 ac: '21'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+12'
 hardness: '14'
 hazard_type: Trap
@@ -16,9 +14,6 @@ level: '5'
 name: Deadly Workshop
 rarity: Uncommon
 reflex: '+14'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/The Enmity Cycle|The Enmity Cycle]]'
 trait:
 - '[[DATABASE/trait/Complex|Complex]]'
@@ -26,8 +21,6 @@ trait:
 - '[[DATABASE/trait/Trap|Trap]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Deadly Workshop<span class="item-type">Hazard 5</span>

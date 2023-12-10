@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Supernatural Senses
-frequency: null
-heighten_level: null
 id: '1608'
 level: '4'
 name: Supernatural Senses
 prerequisite: '[[DATABASE/feat/Acute Scent|Acute Scent]] or precise or imprecisescent'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Barbarian|Barbarian]]'
 - '[[DATABASE/trait/Rage|Rage]]'
-trigger: null
 type: Feat
 
 ---

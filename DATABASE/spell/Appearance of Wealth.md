@@ -1,38 +1,25 @@
 ﻿---
 actions: '[two-actions]'
 area: 5-foot burst
-bloodline: null
 component:
 - Material
 - Verbal
-cost: null
-deity: null
 domain:
 - '[[DATABASE/domain/Wealth Domain|Wealth]]'
 duration: sustained up to 1 minute
-element: null
-heighten: null
 heighten_level: '1'
 id: '400'
-lesson: null
 level: '1'
-mystery: null
 name: Appearance of Wealth
-patron_theme: null
 range: 30 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 saving_throw: Will
 school: Illusion
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
-tradition: null
 trait:
 - '[[DATABASE/trait/Cleric|Cleric]]'
 - '[[DATABASE/trait/Illusion|Illusion]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Focus
 
 ---

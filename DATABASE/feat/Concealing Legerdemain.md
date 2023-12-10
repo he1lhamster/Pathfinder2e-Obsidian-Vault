@@ -1,24 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Concealing Legerdemain
-frequency: null
-heighten_level: null
 id: '2116'
 level: '1'
 name: Concealing Legerdemain
 prerequisite: Trained in [[DATABASE/skill/Thievery|Thievery]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: thievery
 trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

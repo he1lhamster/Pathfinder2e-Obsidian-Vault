@@ -2,7 +2,6 @@
 ac: '19'
 alignment: N
 all_resistance: '4'
-burrow_speed: null
 charisma: '+2'
 climb_speed: '30'
 constitution: '+0'
@@ -13,10 +12,7 @@ creature_ability:
 - Nimble Dodge
 creature_family: '[[DATABASE/monsterfamily/Spirit Guide|Spirit Guide]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+6'
-hardness: null
 hp: '50'
 id: '2463'
 immunity:
@@ -40,8 +36,6 @@ resistance:
 - '[[DATABASE/equipment/Ghost Touch|ghost touch]]'
 - or [[DATABASE/trait/Positive|positive]] ; double resistance vs. non- [[DATABASE/trait/Magical|magical]]
   )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Tiny
@@ -63,7 +57,6 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Incorporeal|Incorporeal]]'
@@ -73,7 +66,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+9'
 wisdom: '+2'
 

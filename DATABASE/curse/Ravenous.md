@@ -1,11 +1,8 @@
 ﻿---
-element: null
 id: '12'
 level: '1'
 name: Ravenous
 rarity: Rare
-rus_type_level: null
-saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:

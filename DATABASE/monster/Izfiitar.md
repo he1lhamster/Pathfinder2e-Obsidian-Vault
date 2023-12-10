@@ -1,10 +1,7 @@
 ﻿---
 ac: '44'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+9'
-climb_speed: null
 constitution: '+9'
 creature_ability:
 - Change Shape
@@ -19,13 +16,10 @@ creature_ability:
 - Storm of Claws
 creature_family: '[[DATABASE/monsterfamily/Protean|Protean]]'
 dexterity: '+10'
-element: null
 fly_speed: '50'
 fortitude: '+33'
-hardness: null
 hp: 360 ( fast healing 20)
 id: '1020'
-immunity: null
 intelligence: '+7'
 land_speed: '40'
 language:
@@ -44,8 +38,6 @@ resistance:
 - acid 20
 - precision 20
 - protean anatomy 25
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - entropy sense (imprecise) 120 feet

@@ -1,33 +1,20 @@
 ﻿---
-actions: null
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Irez|Irez]]'
 - '[[DATABASE/deity/Lissala|Lissala]]'
 - '[[DATABASE/deity/The Enlightened Scholar''s Path|The Enlightened Scholar''sPath]]'
 - '[[DATABASE/deity/Thoth|Thoth]]'
-domain: null
 duration: unlimited
-element: null
-heighten: null
 heighten_level: '3'
 id: '270'
-lesson: null
 level: '3'
-mystery: null
 name: Secret Page
-patron_theme: null
 range: touch
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Illusion
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: 1 page up to 3 square feet in size
@@ -37,7 +24,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Illusion|Illusion]]'
 - '[[DATABASE/trait/Visual|Visual]]'
-trigger: null
 type: Spell
 
 ---

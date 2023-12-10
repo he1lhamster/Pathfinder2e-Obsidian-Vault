@@ -1,10 +1,7 @@
 ﻿---
 ac: '18'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Iron Mind
@@ -12,13 +9,9 @@ creature_ability:
 - Take Them Down!
 creature_family: '[[DATABASE/monsterfamily/Duergar|Duergar]]'
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+8'
-hardness: null
 hp: '30'
 id: '170'
-immunity: null
 intelligence: '+0'
 land_speed: '20'
 language:
@@ -31,9 +24,6 @@ name: Duergar Taskmaster
 perception: '+8'
 rarity: Common
 reflex: '+4'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -60,7 +50,6 @@ strength_req: '2'
 strongest_save:
 - Fortitude
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Duergar|Duergar]]'
 - '[[DATABASE/trait/Dwarf|Dwarf]]'
@@ -69,7 +58,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+8'
 wisdom: '+2'
 

@@ -1,21 +1,15 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Instinctive Obfuscation
 frequency: once per day
-heighten_level: null
 id: '1421'
 level: '13'
 name: Instinctive Obfuscation
 prerequisite: at least one arcane or occult innate spell gained from a gnome heritage
   or gnome ancestry feat
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Illusion
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Gnome|Gnome]]'
 - '[[DATABASE/trait/Illusion|Illusion]]'

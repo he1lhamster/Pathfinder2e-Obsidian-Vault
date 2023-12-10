@@ -1,55 +1,19 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '1083'
 item_category: Worn Items
 item_subcategory: Other Worn Items
-land_speed: null
-level: '20'
-max_speed: null
+level: '10'
 name: True Name Amulet
-onset: null
-price: 55,000 gp
-range: null
+price: 850 gp
 rarity: Rare
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
-school: null
-size: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-spell: null
-stage: null
 subcategory: wornitem
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Invested|Invested]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Item
 usage: worn amulet
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # True Name Amulet<span class="item-type">Item 5+</span>

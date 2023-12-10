@@ -1,8 +1,6 @@
 ﻿---
 ac: '28'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
 climb_speed: '30'
 constitution: '+4'
@@ -18,12 +16,9 @@ creature_ability:
 - Shape Ice
 - Snuff
 - Storm Vision
-creature_family: null
 dexterity: '+2'
-element: null
 fly_speed: '120'
 fortitude: '+21'
-hardness: null
 hp: '170'
 id: '1793'
 immunity:
@@ -42,9 +37,6 @@ name: Venexus
 perception: '+20'
 rarity: Unique
 reflex: '+15'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 60 feet'
@@ -70,7 +62,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Cold|Cold]]'
 - '[[DATABASE/trait/Dragon|Dragon]]'
@@ -79,7 +70,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+17'
 wisdom: '+3'
 

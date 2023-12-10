@@ -1,20 +1,12 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Roll with It (Ranger)
-frequency: null
-heighten_level: null
 id: '3903'
 level: '12'
 name: Roll with It (Ranger)
 prerequisite: '[[DATABASE/feat/Giant Hunter|Giant Hunter]]'
 rarity: Rare
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Ranger|Ranger]]'
 - '[[DATABASE/trait/Rare|Rare]]'

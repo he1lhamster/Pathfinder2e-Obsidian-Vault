@@ -1,25 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Impeccable Crafting
-frequency: null
-heighten_level: null
 id: '792'
 level: '7'
 name: Impeccable Crafting
 prerequisite: Master in [[DATABASE/skill/Crafting|Crafting]] ; [[DATABASE/feat/Specialty
   Crafting|Specialty Crafting]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: crafting
 trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

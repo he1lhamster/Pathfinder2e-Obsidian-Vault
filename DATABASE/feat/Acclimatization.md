@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Acclimatization
-frequency: null
-heighten_level: null
 id: '1988'
 level: '4'
 name: Acclimatization
 prerequisite: '[[DATABASE/feat/Horizon Walker Dedication|Horizon Walker Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

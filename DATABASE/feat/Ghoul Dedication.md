@@ -1,25 +1,21 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Ghoul Dedication
-frequency: null
-heighten_level: null
 id: '3504'
+leads_to: '[[DATABASE/feat/Corpse Stench|Corpse Stench]] , [[DATABASE/feat/Feverish
+  Enzymes|Feverish Enzymes]] , [[DATABASE/feat/Flailtongue|Flailtongue]] , [[DATABASE/feat/Glutton
+  for Flesh|Glutton for Flesh]] , [[DATABASE/feat/Grave Strength|Grave Strength]]
+  , [[DATABASE/feat/Replenishing Consumption|Replenishing Consumption]] , [[DATABASE/feat/Secret
+  Eater|Secret Eater]] , [[DATABASE/feat/Sickening Bite|Sickening Bite]] , [[DATABASE/feat/Swift
+  Leap|Swift Leap]] , [[DATABASE/feat/Tunneling Claws|Tunneling Claws]]'
 level: '2'
 name: Ghoul Dedication
 prerequisite: You were killed by ghoul fever.
 rarity: Rare
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Feat
 
 ---

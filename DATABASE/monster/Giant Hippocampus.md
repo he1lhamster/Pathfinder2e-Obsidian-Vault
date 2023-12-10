@@ -1,35 +1,24 @@
 ﻿---
 ac: '27'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Buck
 - Sudden Retreat
 creature_family: '[[DATABASE/monsterfamily/Hippocampus|Hippocampus]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+18'
-hardness: null
 hp: '170'
 id: '697'
-immunity: null
 intelligence: '-4'
 land_speed: '10'
-language: null
 level: '8'
 max_speed: '80'
 name: Giant Hippocampus
 perception: '+16'
 rarity: Uncommon
 reflex: '+16'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent (imprecise) 30 feet]]'
@@ -41,7 +30,6 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 10 feet
 - swim 80 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
@@ -55,7 +43,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+14'
 wisdom: '+4'
 

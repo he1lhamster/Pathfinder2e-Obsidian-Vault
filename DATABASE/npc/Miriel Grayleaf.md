@@ -1,20 +1,12 @@
 ﻿---
 ac: '13'
 alignment: CG
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '-1'
-creature_ability: null
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+1'
 hp: '5'
 id: '2468'
-immunity: null
 intelligence: '+3'
 land_speed: '30'
 language:
@@ -26,8 +18,6 @@ name: Miriel Grayleaf
 perception: '+2'
 rarity: Common
 reflex: '+7'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
@@ -47,7 +37,6 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Elf|Elf]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -55,7 +44,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+4'
 wisdom: '+0'
 

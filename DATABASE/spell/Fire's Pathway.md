@@ -1,30 +1,14 @@
 ﻿---
-actions: null
-area: null
-bloodline: null
 component:
 - 1 Minute
-cost: null
-deity: null
-domain: null
-duration: null
 element: Fire
 heighten: 6th, 8th, 9th
 heighten_level: 5, 6, 8, 9
 id: '1354'
-lesson: null
 level: '5'
-mystery: null
 name: Fire's Pathway
-patron_theme: null
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-target: null
 tradition:
 - Arcane
 - Primal
@@ -34,7 +18,6 @@ trait:
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Teleportation|Teleportation]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Spell
 
 ---

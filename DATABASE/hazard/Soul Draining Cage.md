@@ -1,20 +1,10 @@
 ﻿---
-ac: null
-all_resistance: null
 complexity: Simple
-element: null
-fortitude: null
-hardness: null
 hazard_type: Trap
-hp: null
 id: '125'
-immunity: null
 level: '6'
 name: Soul Draining Cage
 rarity: Common
-reflex: null
-resistance: null
-rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Pathfinder 176. Lost Mammoth Valley|Pathfinder #176: Lost
   Mammoth Valley]]'
@@ -24,8 +14,6 @@ trait:
 - '[[DATABASE/trait/Negative|Negative]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Soul Draining Cage<span class="item-type">Hazard 6</span>

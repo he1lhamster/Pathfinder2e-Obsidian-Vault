@@ -1,24 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Posse
-frequency: null
-heighten_level: null
 id: '1916'
 level: '4'
 name: Posse
 prerequisite: '[[DATABASE/feat/Bounty Hunter Dedication|Bounty Hunter Dedication]]'
 rarity: Common
 requirement: You have designated prey with Hunt Prey.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Exploration|Exploration]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,25 +1,16 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Point-Blank Shot
-frequency: null
-heighten_level: null
 id: '358'
 level: '1'
 name: Point-Blank Shot
-prerequisite: null
 rarity: Common
 requirement: You are wielding a ranged weapon.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fighter|Fighter]]'
 - '[[DATABASE/trait/Open|Open]]'
 - '[[DATABASE/trait/Stance|Stance]]'
-trigger: null
 type: Feat
 
 ---

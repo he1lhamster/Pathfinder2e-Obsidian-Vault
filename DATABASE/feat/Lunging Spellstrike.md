@@ -1,10 +1,6 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Lunging Spellstrike
-frequency: null
-heighten_level: null
 id: '2871'
 level: '10'
 name: Lunging Spellstrike
@@ -12,15 +8,12 @@ prerequisite: '[[DATABASE/class_/Magus|Spellstrike]] , [[DATABASE/magushybridstu
   Tree|twisting tree hybrid study]]'
 rarity: Common
 requirement: You're wielding a [[DATABASE/weapon/Staff|staff]] .
-rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Arcane|Arcane]]'
 - '[[DATABASE/trait/Magus|Magus]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Feat
 
 ---

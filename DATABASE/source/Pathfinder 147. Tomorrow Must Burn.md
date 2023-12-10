@@ -2,9 +2,6 @@
 id: '8'
 name: Pathfinder 147. Tomorrow Must Burn
 rarity: Common
-rus_type_level: null
-source: null
-trait: null
 type: Source
 
 ---

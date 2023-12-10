@@ -1,14 +1,10 @@
 ﻿---
 ability_type: Specific Familiar - Clockwork Familiar
 actions: '[two-actions]'
-frequency: null
 id: '60'
 name: Toggle Standby Mode
 rarity: Common
-requirement: null
-rus_type_level: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
-trait: null
 type: Familiar Ability
 
 ---

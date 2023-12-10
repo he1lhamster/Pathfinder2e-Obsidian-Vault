@@ -5,12 +5,9 @@ ability:
 ability_boost:
 - Constitution
 - Charisma
-feat: null
 id: '324'
 name: Child of the Twin Village
-prerequisite: null
 rarity: Rare
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Diplomacy|Diplomacy]]'
 - Dreamlands [[DATABASE/skill/Lore|Lore]]

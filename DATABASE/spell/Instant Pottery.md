@@ -1,30 +1,16 @@
 ﻿---
-actions: null
-area: null
-bloodline: null
 component:
 - 1 Minute
-cost: null
-deity: null
-domain: null
 duration: 1 hour
 element: Earth
 heighten: 2nd, 3rd
 heighten_level: 1, 2, 3
 id: '1336'
-lesson: null
 level: '1'
-mystery: null
 name: Instant Pottery
-patron_theme: null
 range: 10 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-target: null
 tradition:
 - Arcane
 - Primal
@@ -32,7 +18,6 @@ trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
-trigger: null
 type: Spell
 
 ---

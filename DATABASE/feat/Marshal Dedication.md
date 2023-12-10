@@ -1,25 +1,24 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Marshal Dedication
-frequency: null
-heighten_level: null
 id: '2005'
+leads_to: '[[DATABASE/feat/Back to Back|Back to Back]] , [[DATABASE/feat/Cadence Call|Cadence
+  Call]] , [[DATABASE/feat/Coordinated Charge|Coordinated Charge]] , [[DATABASE/feat/Devrin''s
+  Cunning Stance|Devrin''s Cunning Stance]] , [[DATABASE/feat/Dread Marshal Stance|Dread
+  Marshal Stance]] , [[DATABASE/feat/Inspiring Marshal Stance|Inspiring Marshal Stance]]
+  , [[DATABASE/feat/Push Back the Dead!|Push Back the Dead!]] , [[DATABASE/feat/Rallying
+  Charge|Rallying Charge]] , [[DATABASE/feat/Snap Out of It! (Marshal)|Snap Out of
+  It! (Marshal)]] , [[DATABASE/feat/Steel Yourself!|Steel Yourself!]] , [[DATABASE/feat/Target
+  of Opportunity|Target of Opportunity]] , [[DATABASE/feat/To Battle!|To Battle!]]
+  , [[DATABASE/feat/Topple Foe|Topple Foe]]'
 level: '2'
 name: Marshal Dedication
 prerequisite: trained in martial weapons; Trained in [[DATABASE/skill/Diplomacy|Diplomacy]]
   or Trainedin [[DATABASE/skill/Intimidation|Intimidation]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
-trigger: null
 type: Feat
 
 ---

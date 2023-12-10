@@ -1,10 +1,7 @@
 ﻿---
 ac: '45'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Bonds of Iron
@@ -13,15 +10,10 @@ creature_ability:
 - Rend
 - Resolve
 - Word of Recall
-creature_family: null
 dexterity: '+7'
-element: null
-fly_speed: null
 fortitude: '+32'
-hardness: null
 hp: '324'
 id: '2356'
-immunity: null
 intelligence: '+2'
 land_speed: '40'
 language:
@@ -37,8 +29,6 @@ rarity: Unique
 reflex: '+35'
 resistance:
 - physical 20 (except bludgeoning)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -92,7 +82,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Hag|Hag]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -101,7 +90,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+38'
 wisdom: '+10'
 

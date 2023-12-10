@@ -1,10 +1,7 @@
 ﻿---
 ac: '25'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+17'
-hardness: null
 hazard_type: Environmental
 hp: 52 (BT 26)
 id: '339'
@@ -16,9 +13,6 @@ level: '5'
 name: Blooming Jijioa
 rarity: Common
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 187. The Seventh Arch|Pathfinder #187: The Seventh
   Arch]]'
 trait:
@@ -26,7 +20,6 @@ trait:
 type: Hazard
 weakness:
 - fire 10
-will: null
 
 ---
 # Blooming Jijioa<span class="item-type">Hazard 5</span>

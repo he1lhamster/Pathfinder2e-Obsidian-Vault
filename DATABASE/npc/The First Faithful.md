@@ -1,19 +1,13 @@
 ﻿---
 ac: '34'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Attack of Opportunity
 - Refocus Curse
 - Release the Inmost Worms
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+24'
 hp: '240'
 id: '2384'
@@ -33,7 +27,6 @@ reflex: '+20'
 resistance:
 - acid 15
 - all physical 15 (except cold iron)
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]] darkvision'
 size: Medium
@@ -75,7 +68,6 @@ strength: '+3'
 strength_req: '3'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fiend|Fiend]]'
 - '[[DATABASE/trait/Human|Human]]'

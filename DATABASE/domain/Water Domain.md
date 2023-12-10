@@ -1,7 +1,6 @@
 ﻿---
 advanced_apocryphal_spell: '[[DATABASE/spell/Purifying Veil|Purifying Veil]]'
 advanced_domain_spell: '[[DATABASE/spell/Downpour|Downpour]]'
-apocryphal_spell: null
 deity:
 - '[[DATABASE/deity/Besmara|Besmara]]'
 - '[[DATABASE/deity/Charon|Charon]]'
@@ -29,9 +28,7 @@ domain_spell: '[[DATABASE/spell/Tidal Surge|Tidal Surge]]'
 id: '35'
 name: Water Domain
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Domain
 
 ---

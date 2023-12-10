@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Courtly Graces|Courtly Graces]]'
 id: '27'
 name: Noble
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Society|Society]]'
 - Genealogy [[DATABASE/skill/Lore|Lore]] or Heraldry Lore skill.
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

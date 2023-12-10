@@ -1,23 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Wayfinder Resonance Tinkerer
-frequency: null
-heighten_level: null
 id: '875'
+leads_to: '[[DATABASE/feat/Wayfinder Resonance Infiltrator|Wayfinder Resonance Infiltrator]]
+  , [[DATABASE/feat/Westyr''s Wayfinder Repository|Westyr''s Wayfinder Repository]]'
 level: '4'
 name: Wayfinder Resonance Tinkerer
 prerequisite: '[[DATABASE/feat/Pathfinder Agent Dedication|Pathfinder Agent Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/World Guide|World Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

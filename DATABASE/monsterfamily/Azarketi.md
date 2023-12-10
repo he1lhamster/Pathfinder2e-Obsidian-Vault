@@ -1,11 +1,9 @@
 ﻿---
 creature_family: Azarketi
-id: '297'
+id: '219'
 name: Azarketi
 rarity: Common
-rus_type_level: null
-source: '[[DATABASE/source/Absalom, City of Lost Omens|Absalom, City of Lost Omens]]'
-trait: null
+source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 type: Creature Family
 
 ---

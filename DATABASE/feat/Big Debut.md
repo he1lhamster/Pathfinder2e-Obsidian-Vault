@@ -1,21 +1,14 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Big Debut
 frequency: once per day
-heighten_level: null
 id: '4146'
 level: '10'
 name: Big Debut
 prerequisite: '[[DATABASE/feat/Celebrity Dedication|Celebrity Dedication]] ; [[DATABASE/feat/Gladiator
   Dedication|Gladiator Dedication]]'
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Firebrands|Firebrands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Mental|Mental]]'

@@ -3,7 +3,6 @@ id: '14'
 level: '0'
 name: Feud
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Politics|Politics]]'
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'

@@ -1,7 +1,6 @@
 ﻿---
 id: '24'
 name: Immobilized
-source: null
 
 ---
 # Immobilized

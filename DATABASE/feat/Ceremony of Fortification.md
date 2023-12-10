@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Ceremony of Fortification
-frequency: null
-heighten_level: null
 id: '2785'
 level: '9'
 name: Ceremony of Fortification
 prerequisite: '[[DATABASE/feat/Ceremony of Protection|Ceremony of Protection]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Conrasu|Conrasu]]'
-trigger: null
 type: Feat
 
 ---

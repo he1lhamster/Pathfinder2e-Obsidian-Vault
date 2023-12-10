@@ -1,23 +1,16 @@
 ﻿---
 ac: '28'
 alignment: LG
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Flurry of Blows
 - Powerful Fists
 - Retributive Strike
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+18'
 hp: '150'
 id: '1445'
-immunity: null
 intelligence: '+0'
 land_speed: '40'
 language:
@@ -31,9 +24,6 @@ name: Tino (Level 9)
 perception: '+18'
 rarity: Unique
 reflex: '+19'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +21'
@@ -53,16 +43,13 @@ strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+16'
 wisdom: '+1'
 

@@ -1,21 +1,13 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Courteous Comeback
-frequency: null
-heighten_level: null
 id: '939'
 level: '1'
 name: Courteous Comeback
-prerequisite: null
 rarity: Uncommon
 requirement: "You\u2019re in a settlement or community, and you haven\u2019t used\
   \ Courteous Comeback in this settlement orcommunity within the past month."
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fortune|Fortune]]'
 - '[[DATABASE/trait/Human|Human]]'

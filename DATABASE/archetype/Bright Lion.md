@@ -5,7 +5,6 @@ name: Bright Lion
 prerequisite: member of the Bright Lions; not a worshipper of [[DATABASE/deity/Walkena|Walkena]]
   ;Trained in [[DATABASE/skill/Stealth|Stealth]]
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 172. Secrets of the Temple City|Pathfinder #172:
   Secrets of the Temple City]]'
 trait:

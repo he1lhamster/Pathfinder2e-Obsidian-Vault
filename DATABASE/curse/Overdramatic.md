@@ -1,11 +1,8 @@
 ﻿---
-element: null
 id: '10'
 level: '5'
 name: Overdramatic
 rarity: Rare
-rus_type_level: null
-saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:

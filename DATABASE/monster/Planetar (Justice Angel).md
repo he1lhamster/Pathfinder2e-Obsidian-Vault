@@ -1,10 +1,7 @@
 ﻿---
 ac: '39'
 alignment: NG
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Aura of Righteousness
@@ -13,13 +10,10 @@ creature_ability:
 - Holy Armaments
 creature_family: '[[DATABASE/monsterfamily/Angel|Angel]]'
 dexterity: '+3'
-element: null
 fly_speed: '60'
 fortitude: '+28'
-hardness: null
 hp: '300'
 id: '544'
-immunity: null
 intelligence: '+5'
 land_speed: '25'
 language:
@@ -32,9 +26,6 @@ name: Planetar
 perception: '+28'
 rarity: Uncommon
 reflex: '+25'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - (32 to detect illusions) [[DATABASE/monsterability/Darkvision|darkvision]]
 - '[[DATABASE/spell/True Seeing|true seeing]]'
@@ -73,7 +64,6 @@ strength_req: '8'
 strongest_save:
 - Fortitude
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Angel|Angel]]'
 - '[[DATABASE/trait/Celestial|Celestial]]'

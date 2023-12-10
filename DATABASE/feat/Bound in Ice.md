@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Bound in Ice
-frequency: null
-heighten_level: null
 id: '3419'
 level: '16'
 name: Bound in Ice
 prerequisite: '[[DATABASE/feat/Frostbite Runes|Frostbite Runes]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Monsters of Myth|Monsters of Myth]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

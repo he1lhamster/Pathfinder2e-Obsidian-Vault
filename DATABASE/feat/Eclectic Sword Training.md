@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Eclectic Sword Training
-frequency: null
-heighten_level: null
 id: '1319'
+leads_to: '[[DATABASE/feat/Eclectic Sword Mastery|Eclectic Sword Mastery]]'
 level: '9'
 name: Eclectic Sword Training
 prerequisite: '[[DATABASE/feat/Tengu Weapon Familiarity|Tengu Weapon Familiarity]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Tengu|Tengu]]'
-trigger: null
 type: Feat
 
 ---

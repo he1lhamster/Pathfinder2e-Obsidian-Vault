@@ -1,25 +1,17 @@
 ﻿---
 actions: '[three-actions]'
-cost: null
-element: null
 feat: Dance of Thunder
 frequency: once per minute
-heighten_level: null
 id: '3199'
 level: '14'
 name: Dance of Thunder
-prerequisite: null
 rarity: Common
 requirement: You're wielding a loaded firearm or crossbow and are not [[DATABASE/condition/Fatigued|fatigued]]
   .
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Gunslinger|Gunslinger]]'
-trigger: null
 type: Feat
 
 ---

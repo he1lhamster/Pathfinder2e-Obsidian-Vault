@@ -1,10 +1,7 @@
 ﻿---
 ac: '28'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Burning Grasp
@@ -15,7 +12,6 @@ dexterity: '+3'
 element: Fire
 fly_speed: '35'
 fortitude: '+18'
-hardness: null
 hp: '175'
 id: '214'
 immunity:
@@ -31,9 +27,6 @@ name: Efreeti
 perception: '+17'
 rarity: Uncommon
 reflex: '+17'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - '[[DATABASE/spell/Detect Magic|detect magic]]'
@@ -61,7 +54,6 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Elemental|Elemental]]'
 - '[[DATABASE/trait/Fire|Fire]]'

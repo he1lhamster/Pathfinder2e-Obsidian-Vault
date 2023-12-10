@@ -9,9 +9,6 @@ alignment: N
 deity:
 - '[[DATABASE/deity/Sangpotshi|Sangpotshi]]'
 deity_category: Faiths & Philosophies
-divine_font: null
-domain: null
-favored_weapon: null
 follower_alignment:
 - LG
 - LN
@@ -21,11 +18,9 @@ follower_alignment:
 id: '202'
 name: Sangpotshi
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Religion|Religion]]'
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
-trait: null
 type: Deity
 
 ---

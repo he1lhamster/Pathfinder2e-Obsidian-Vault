@@ -1,10 +1,7 @@
 ﻿---
 ac: '31'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Dread Flickering
@@ -15,16 +12,13 @@ creature_ability:
 - Wearying Touch
 creature_family: '[[DATABASE/monsterfamily/Wisp|Wisp]]'
 dexterity: '+6'
-element: null
 fly_speed: '50'
 fortitude: '+14'
-hardness: null
 hp: 90 ( negative healing )
 id: '1384'
 immunity:
 - magic
 intelligence: '+2'
-land_speed: null
 language:
 - '[[DATABASE/language/Aklo|Aklo]]'
 - '[[DATABASE/language/Common|Common]]'
@@ -34,9 +28,6 @@ name: Dread Wisp
 perception: '+20'
 rarity: Uncommon
 reflex: '+21'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -49,12 +40,10 @@ source: '[[DATABASE/source/Pathfinder 165. Eyes of Empty Death|Pathfinder #165: 
   of Empty Death]]'
 speed:
 - fly 50 feet
-spell: null
 strength: '-5'
 strength_req: '-5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

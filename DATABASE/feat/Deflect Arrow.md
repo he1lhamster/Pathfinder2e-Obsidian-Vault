@@ -1,21 +1,14 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Deflect Arrow
-frequency: null
-heighten_level: null
 id: '443'
+leads_to: '[[feat/458|Arrow Snatching ]], [[DATABASE/feat/Return Fire|Return Fire]]'
 level: '4'
 name: Deflect Arrow
-prerequisite: null
 rarity: Common
 requirement: "You\u2019re aware of the attack, are not flat-footed against it, and\
   \ have a hand free."
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Monk|Monk]]'
 trigger: You are the target of a physical ranged attack.

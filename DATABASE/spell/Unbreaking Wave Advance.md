@@ -1,36 +1,22 @@
 ﻿---
 actions: '[one-action]'
 area: 15-foot cone
-bloodline: null
 component:
 - Verbal
-cost: null
-deity: null
-domain: null
-duration: null
 element: Water
 heighten: '+1'
 heighten_level: 3, 4, 5, 6, 7, 8, 9, 10
 id: '544'
-lesson: null
 level: '3'
-mystery: null
 name: Unbreaking Wave Advance
-patron_theme: null
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 saving_throw: Fortitude
 school: Evocation
 source: '[[DATABASE/source/World Guide|World Guide]]'
-target: null
-tradition: null
 trait:
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 - '[[DATABASE/trait/Water|Water]]'
-trigger: null
 type: Focus
 
 ---

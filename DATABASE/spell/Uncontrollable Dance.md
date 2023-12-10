@@ -1,31 +1,21 @@
 ﻿---
 actions: '[two-actions]'
-area: null
 bloodline: '[[DATABASE/sorcererbloodline/Aberrant|Aberrant]] , [[DATABASE/sorcererbloodline/Fey|Fey]]'
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Ashava|Ashava]]'
 - '[[DATABASE/deity/Hathor|Hathor]]'
 - '[[DATABASE/deity/Kofusachi|Kofusachi]]'
 - '[[DATABASE/deity/The Perplexing Jest|The Perplexing Jest]]'
-domain: null
 duration: varies
-element: null
-heighten: null
 heighten_level: '8'
 id: '347'
-lesson: null
 level: '8'
-mystery: null
 name: Uncontrollable Dance
-patron_theme: null
 range: touch
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Will
 school: Enchantment
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -37,7 +27,6 @@ trait:
 - '[[DATABASE/trait/Enchantment|Enchantment]]'
 - '[[DATABASE/trait/Incapacitation|Incapacitation]]'
 - '[[DATABASE/trait/Mental|Mental]]'
-trigger: null
 type: Spell
 
 ---

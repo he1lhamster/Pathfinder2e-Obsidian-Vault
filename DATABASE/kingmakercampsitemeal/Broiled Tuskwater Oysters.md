@@ -4,8 +4,6 @@ level: '3'
 name: Broiled Tuskwater Oysters
 price: 3 gp
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
 trait:
 - '[[DATABASE/trait/Meal|Meal]]'

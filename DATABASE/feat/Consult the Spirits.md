@@ -1,26 +1,18 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Consult the Spirits
 frequency: once per day
-heighten_level: null
 id: '2117'
 level: '7'
 name: Consult the Spirits
 prerequisite: Master in [[DATABASE/skill/Nature|Nature]] , Master in [[DATABASE/skill/Occultism|Occultism]]
   , or Master in [[DATABASE/skill/Religion|Religion]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: nature
 trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Secret|Secret]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

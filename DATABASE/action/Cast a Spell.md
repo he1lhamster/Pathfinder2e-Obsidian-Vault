@@ -1,17 +1,8 @@
 ﻿---
-actions: null
-cost: null
-element: null
-frequency: null
 id: '72'
 name: Cast a Spell
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
-trigger: null
 type: Action
 
 ---

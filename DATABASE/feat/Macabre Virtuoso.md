@@ -1,10 +1,5 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Macabre Virtuoso
-frequency: null
-heighten_level: null
 id: '3488'
 level: '6'
 name: Macabre Virtuoso
@@ -12,15 +7,10 @@ prerequisite: '[[DATABASE/feat/Reanimator Dedication|Reanimator Dedication]] ; E
   in [[DATABASE/skill/Arcana|Arcana]] , Expert in [[DATABASE/skill/Occultism|Occultism]]
   , or Expert in [[DATABASE/skill/Religion|Religion]]'
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

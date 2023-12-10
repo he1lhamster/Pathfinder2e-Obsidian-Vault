@@ -1,21 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Guardian's Deflection (Swashbuckler)
-frequency: null
-heighten_level: null
 id: '1528'
 level: '4'
 name: Guardian's Deflection (Swashbuckler)
-prerequisite: null
 rarity: Common
 requirement: You are wielding a single one-handed melee weapon and have your other
   hand or hands free.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Swashbuckler|Swashbuckler]]'
 trigger: An ally within your melee reach is hit by an attack, you can see the attacker,

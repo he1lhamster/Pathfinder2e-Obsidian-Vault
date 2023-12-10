@@ -1,26 +1,17 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Jellyfish Stance
-frequency: null
-heighten_level: null
 id: '4077'
 level: '8'
 name: Jellyfish Stance
-prerequisite: null
 rarity: Uncommon
 requirement: You are unarmored.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Fists of the Ruby Phoenix Hardcover|Fists of the Ruby Phoenix
   Hardcover]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Monk|Monk]]'
 - '[[DATABASE/trait/Stance|Stance]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

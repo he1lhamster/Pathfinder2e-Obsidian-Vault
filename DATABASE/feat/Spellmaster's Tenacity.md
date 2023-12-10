@@ -1,20 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Spellmaster's Tenacity
 frequency: once per day
-heighten_level: null
 id: '2246'
 level: '14'
 name: Spellmaster's Tenacity
 prerequisite: '[[DATABASE/feat/Spellmaster''s Resilience|Spellmaster''s Resilience]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 trigger: You critically fail at a saving throw against a foe's spell, and that spell

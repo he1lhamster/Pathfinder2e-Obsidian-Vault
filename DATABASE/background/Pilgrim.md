@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Pilgrim''s Token|Pilgrim''s Token]]'
 id: '173'
 name: Pilgrim
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Religion|Religion]]'
 - '[[DATABASE/skill/Lore|Lore]] foryour patron deity.'
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

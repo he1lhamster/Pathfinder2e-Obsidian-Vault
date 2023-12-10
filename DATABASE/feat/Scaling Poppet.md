@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Scaling Poppet
-frequency: null
-heighten_level: null
 id: '3351'
 level: '9'
 name: Scaling Poppet
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Poppet|Poppet]]'
-trigger: null
 type: Feat
 
 ---

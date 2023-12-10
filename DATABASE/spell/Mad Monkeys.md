@@ -1,40 +1,28 @@
 ﻿---
 actions: '[two-actions]'
 area: 5-foot burst
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Lahkgya|Lahkgya]]'
 - '[[DATABASE/deity/Ragdya|Ragdya]]'
 - '[[DATABASE/deity/Ragdya|Ragdya]]'
 - '[[DATABASE/deity/Sun Wukong|Sun Wukong]]'
-domain: null
 duration: sustained up to 1 minute
-element: null
-heighten: null
 heighten_level: '3'
 id: '702'
 lesson: '[[DATABASE/witchlesson/Lesson of Mischief|Lesson of Mischief]]'
 level: '3'
-mystery: null
 name: Mad Monkeys
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-target: null
 tradition:
 - Primal
 trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
-trigger: null
 type: Spell
 
 ---

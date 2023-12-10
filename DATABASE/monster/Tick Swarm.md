@@ -1,8 +1,6 @@
 ﻿---
 ac: '28'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
 climb_speed: '25'
 constitution: '+4'
@@ -12,10 +10,7 @@ creature_ability:
 - Tick Fever
 creature_family: '[[DATABASE/monsterfamily/Tick|Tick]]'
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+19'
-hardness: null
 hp: '130'
 id: '827'
 immunity:
@@ -23,7 +18,6 @@ immunity:
 - '[[DATABASE/monsterability/Swarm Mind|swarm mind]]'
 intelligence: '-5'
 land_speed: '25'
-language: null
 level: '9'
 max_speed: '25'
 name: Tick Swarm
@@ -34,8 +28,6 @@ resistance:
 - bludgeoning 5
 - piercing 10
 - slashing 10
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -46,13 +38,11 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 25 feet
 - climb 25 feet
-spell: null
 strength: '+1'
 strength_req: '1'
 strongest_save:
 - Fortitude
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 - '[[DATABASE/trait/Swarm|Swarm]]'

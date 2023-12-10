@@ -1,26 +1,18 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Power Slide
-frequency: null
-heighten_level: null
 id: '3143'
 level: '4'
 name: Power Slide
 prerequisite: '[[DATABASE/feat/Trick Driver Dedication|Trick Driver Dedication]]'
 rarity: Common
 requirement: You are piloting avehicle.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Move|Move]]'
 - '[[DATABASE/trait/Reckless|Reckless]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

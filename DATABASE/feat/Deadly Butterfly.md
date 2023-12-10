@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Deadly Butterfly
-frequency: null
-heighten_level: null
 id: '2708'
 level: '8'
 name: Deadly Butterfly
 prerequisite: '[[DATABASE/feat/Butterfly Blade Dedication|Butterfly Blade Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #166:
   Despair on Danger Island]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

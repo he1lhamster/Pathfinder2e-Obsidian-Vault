@@ -1,10 +1,7 @@
 ﻿---
 ac: '24'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Grievous Strike
@@ -13,13 +10,9 @@ creature_ability:
 - Sneak Attack
 creature_family: '[[DATABASE/monsterfamily/Demon|Demon]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+14'
-hardness: null
 hp: '130'
 id: '598'
-immunity: null
 intelligence: '+2'
 land_speed: '25'
 language:
@@ -35,8 +28,6 @@ rarity: Common
 reflex: '+16'
 resistance:
 - acid 10
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/spell/See Invisibility|see invisibility]]'
@@ -59,7 +50,6 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Demon|Demon]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

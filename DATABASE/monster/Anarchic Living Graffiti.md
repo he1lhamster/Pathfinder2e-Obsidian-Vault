@@ -1,21 +1,14 @@
 ﻿---
 ac: '15'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Backdrop
 - Splatter
 - Surface-Bound
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+6'
-hardness: null
 hp: '16'
 id: '2610'
 immunity:
@@ -42,9 +35,6 @@ name: Anarchic Living Graffiti
 perception: '+6'
 rarity: Rare
 reflex: '+8'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -57,12 +47,10 @@ source: '[[DATABASE/source/Pathfinder 193. Mantle of Gold|Pathfinder #193: Mantl
   of Gold]]'
 speed:
 - 25 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Rare|Rare]]'
@@ -71,7 +59,6 @@ vision: Darkvision
 weakest_save:
 - Fortitude
 - Will
-weakness: null
 will: '+6'
 wisdom: '+0'
 

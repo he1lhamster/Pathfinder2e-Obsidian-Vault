@@ -1,10 +1,7 @@
 ﻿---
 ac: '30'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Change Shape
@@ -17,13 +14,10 @@ creature_ability:
 - Warpwave Strike
 creature_family: '[[DATABASE/monsterfamily/Protean|Protean]]'
 dexterity: '+5'
-element: null
 fly_speed: '25'
 fortitude: '+21'
-hardness: null
 hp: 175 ( fast healing 5)
 id: '766'
-immunity: null
 intelligence: '+7'
 land_speed: '25'
 language:
@@ -39,8 +33,6 @@ reflex: '+19'
 resistance:
 - precision 10
 - protean anatomy 15
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - entropy sense (imprecise) 60 feet

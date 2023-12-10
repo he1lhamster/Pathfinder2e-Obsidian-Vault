@@ -1,21 +1,14 @@
 ﻿---
 ac: '23'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Cat Sith's Mark
 - Ill Omen
 - Steal Soul
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+14'
-hardness: null
 hp: '110'
 id: '517'
 immunity:
@@ -31,9 +24,6 @@ name: Cat Sith
 perception: '+14'
 rarity: Uncommon
 reflex: '+17'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 size: Tiny
@@ -52,7 +42,6 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

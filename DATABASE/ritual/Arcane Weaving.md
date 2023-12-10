@@ -1,25 +1,17 @@
 ﻿---
-area: null
 cost: "rare silks worth a total value of 20 gp \xD7 the spell level"
-duration: null
-element: null
-heighten: null
 heighten_level: '3'
 id: '49'
 level: '3'
 name: Arcane Weaving
 primary_check: '[[DATABASE/skill/Arcana|Arcana]] or [[DATABASE/skill/Occultism|Occultism]]
   (expert)'
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Divination
 secondary_casters: '1'
 secondary_check: Arcana, [[DATABASE/skill/Crafting|Crafting]] , or Occultism
 source: '[[DATABASE/source/Pathfinder 169. Kindled Magic|Pathfinder #169: Kindled
   Magic]]'
-target: null
 trait:
 - '[[DATABASE/trait/Divination|Divination]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Skittering Scuttle
-frequency: null
-heighten_level: null
 id: '49'
 level: '9'
 name: Skittering Scuttle
 prerequisite: '[[DATABASE/feat/Goblin Scuttle|Goblin Scuttle]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Goblin|Goblin]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,10 +1,7 @@
 ﻿---
 ac: '24'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Catch Rock
@@ -13,12 +10,9 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Giant|Giant]]'
 dexterity: '+0'
 element: Earth
-fly_speed: null
 fortitude: '+17'
-hardness: null
 hp: '140'
 id: '220'
-immunity: null
 intelligence: '-2'
 land_speed: '35'
 language:
@@ -30,9 +24,6 @@ name: Hill Giant
 perception: '+13'
 rarity: Common
 reflex: '+12'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 size: Large
@@ -42,12 +33,10 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 35 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Giant|Giant]]'
@@ -56,7 +45,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Reflex
-weakness: null
 will: '+13'
 wisdom: '+2'
 

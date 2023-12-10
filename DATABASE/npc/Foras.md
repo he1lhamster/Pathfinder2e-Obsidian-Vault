@@ -1,10 +1,7 @@
 ﻿---
 ac: '43'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Accelerated Existence
@@ -13,14 +10,10 @@ creature_ability:
 - Steady Spellcasting
 - Time Siphon
 - Unseen Sight
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+31'
 hp: '355'
 id: '2191'
-immunity: null
 intelligence: '+5'
 land_speed: '25'
 language:
@@ -34,7 +27,6 @@ rarity: Unique
 reflex: '+31'
 resistance:
 - '[[DATABASE/trait/Mental|mental]] 20'
-rus_type_level: null
 sense:
 - unseen sight
 size: Medium
@@ -96,17 +88,14 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
 - Reflex
-weakness: null
 will: '+35'
 wisdom: '+4'
 

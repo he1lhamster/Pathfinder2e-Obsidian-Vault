@@ -1,28 +1,16 @@
 ﻿---
-actions: null
-area: null
 bloodline: '[[DATABASE/sorcererbloodline/Wyrmblessed|Wyrmblessed]]'
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
 heighten: 3rd, 6th
 heighten_level: 1, 3, 6
 id: '246'
-lesson: null
 level: '1'
 mystery: '[[DATABASE/oraclemystery/Lore|Lore]]'
 name: Read Aura
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: 1 object
@@ -36,7 +24,6 @@ trait:
 - '[[DATABASE/trait/Cantrip|Cantrip]]'
 - '[[DATABASE/trait/Detection|Detection]]'
 - '[[DATABASE/trait/Divination|Divination]]'
-trigger: null
 type: Cantrip
 
 ---

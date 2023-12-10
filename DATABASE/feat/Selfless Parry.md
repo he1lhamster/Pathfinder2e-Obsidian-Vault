@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Selfless Parry
-frequency: null
-heighten_level: null
 id: '1958'
 level: '8'
 name: Selfless Parry
 prerequisite: '[[DATABASE/feat/Dueling Parry (Fighter)|Dueling Parry (Fighter)]] ;
   [[DATABASE/feat/Duelist Dedication|Duelist Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

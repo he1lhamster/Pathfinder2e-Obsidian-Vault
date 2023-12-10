@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Nocturnal Charm
-frequency: null
-heighten_level: null
 id: '2344'
 level: '1'
 name: Nocturnal Charm
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Dhampir|Dhampir]]'
-trigger: null
 type: Feat
 
 ---

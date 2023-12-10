@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Deceptive Worship|Deceptive Worship]]'
 id: '231'
 name: False Medium
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Occultism|Occultism]]'
 - Fortune-Telling [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

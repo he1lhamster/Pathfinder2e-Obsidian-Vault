@@ -1,7 +1,6 @@
 ﻿---
 id: '49'
 name: Fortified
-source: null
 
 ---
 # Fortified

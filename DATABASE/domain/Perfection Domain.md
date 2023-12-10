@@ -1,7 +1,5 @@
 ﻿---
-advanced_apocryphal_spell: null
 advanced_domain_spell: '[[DATABASE/spell/Perfected Form|Perfected Form]]'
-apocryphal_spell: null
 deity:
 - '[[DATABASE/deity/Arshea|Arshea]]'
 - '[[DATABASE/deity/Balumbdar|Balumbdar]]'
@@ -26,9 +24,7 @@ domain_spell: '[[DATABASE/spell/Perfected Mind|Perfected Mind]]'
 id: '26'
 name: Perfection Domain
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Domain
 
 ---

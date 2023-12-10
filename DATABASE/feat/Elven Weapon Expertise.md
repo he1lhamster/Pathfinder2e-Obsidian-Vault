@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Elven Weapon Expertise
-frequency: null
-heighten_level: null
 id: '24'
 level: '13'
 name: Elven Weapon Expertise
 prerequisite: '[[DATABASE/feat/Elven Weapon Familiarity|Elven Weapon Familiarity]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Elf|Elf]]'
-trigger: null
 type: Feat
 
 ---

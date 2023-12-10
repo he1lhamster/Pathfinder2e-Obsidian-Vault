@@ -1,31 +1,24 @@
 ﻿---
 ac: '34'
-burrow_speed: null
-climb_speed: null
 fly_speed: '50'
 fortitude: '+26'
 hardness: '20'
 hp: '230'
 id: '56'
 item_category: Vehicles
-land_speed: null
 level: '15'
 max_speed: '50'
 name: Planar Skiff
 price: 19,500 gp
 rarity: Rare
-reflex: null
 resistance:
 - acid 15
 - cold 15
 - electricity 15
 - fire 15
 - sonic 15
-rus_type_level: null
-school: null
 size: Huge
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Rare|Rare]]'

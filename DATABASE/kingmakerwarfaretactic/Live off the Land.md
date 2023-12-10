@@ -3,7 +3,6 @@ id: '15'
 level: '1'
 name: Live off the Land
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
 - '[[DATABASE/trait/Cavalry|Cavalry]]'

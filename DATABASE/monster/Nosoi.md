@@ -1,10 +1,7 @@
 ﻿---
 ac: '16'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Change Shape
@@ -13,10 +10,8 @@ creature_ability:
 - Spirit Touch
 creature_family: '[[DATABASE/monsterfamily/Psychopomp|Psychopomp]]'
 dexterity: '+3'
-element: null
 fly_speed: '40'
 fortitude: '+4'
-hardness: null
 hp: '18'
 id: '339'
 immunity:
@@ -38,8 +33,6 @@ reflex: '+8'
 resistance:
 - negative 3
 - poison 3
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - lifesense 60 feet
@@ -65,7 +58,6 @@ strength: '-1'
 strength_req: '-1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Monitor|Monitor]]'
 - '[[DATABASE/trait/Psychopomp|Psychopomp]]'
@@ -73,7 +65,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+6'
 wisdom: '+1'
 

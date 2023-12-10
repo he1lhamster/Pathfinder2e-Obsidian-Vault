@@ -1,8 +1,6 @@
 ﻿---
 ac: '43'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+32'
 hardness: '30'
 hazard_type: Trap
@@ -16,16 +14,11 @@ level: '19'
 name: Vorpal Executioner
 rarity: Common
 reflex: '+32'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Mechanical|Mechanical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Vorpal Executioner<span class="item-type">Hazard 19</span>

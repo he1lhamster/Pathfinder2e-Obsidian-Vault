@@ -3,9 +3,7 @@ creature_family: Dragon, Bronze
 id: '171'
 name: Dragon, Bronze
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
-trait: null
 type: Creature Family
 
 ---

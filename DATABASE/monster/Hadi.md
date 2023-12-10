@@ -1,8 +1,6 @@
 ﻿---
 ac: '37'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
 climb_speed: '10'
 constitution: '+6'
@@ -13,15 +11,10 @@ creature_ability:
 - Ratspeak
 - Troop Defenses
 - Troop Movement
-creature_family: null
 dexterity: '+8'
-element: null
-fly_speed: null
 fortitude: '+27'
-hardness: null
 hp: 270 (16 squares)
 id: '2528'
-immunity: null
 intelligence: '+4'
 land_speed: '25'
 language:
@@ -33,9 +26,6 @@ name: Hadi Mob
 perception: '+25'
 rarity: Rare
 reflex: '+29'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Gargantuan
@@ -47,12 +37,10 @@ source: '[[DATABASE/source/Pathfinder 191. The Destiny War|Pathfinder #191: The 
 speed:
 - 25 feet
 - climb 10 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Rare|Rare]]'

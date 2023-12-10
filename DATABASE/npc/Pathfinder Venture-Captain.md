@@ -1,10 +1,7 @@
 ﻿---
 ac: '32'
 alignment: NG
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Attack of Opportunity
@@ -15,12 +12,9 @@ creature_ability:
 - Weapon Mastery
 creature_family: '[[DATABASE/monsterfamily/Pathfinders|Pathfinders]]'
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+22'
 hp: '195'
 id: '974'
-immunity: null
 intelligence: '+1'
 land_speed: '20'
 language:
@@ -31,9 +25,6 @@ name: Pathfinder Venture-Captain
 perception: '+20'
 rarity: Common
 reflex: '+18'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Lore|Alcohol Lore]] +20'
@@ -53,15 +44,12 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+19'
 wisdom: '+2'
 

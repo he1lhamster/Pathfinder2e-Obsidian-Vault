@@ -1,34 +1,23 @@
 ﻿---
 ac: '19'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-3'
 climb_speed: '15'
 constitution: '+3'
 creature_ability:
 - Barbed Filament
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+10'
-hardness: null
 hp: '45'
 id: '2454'
-immunity: null
 intelligence: '-5'
 land_speed: '15'
-language: null
 level: '3'
 max_speed: '15'
 name: Tree Fisher
 perception: '+9'
 rarity: Uncommon
 reflex: '+10'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monster/I|low-light vision]]'
 size: Medium
@@ -40,13 +29,11 @@ source: '[[DATABASE/source/Pathfinder 187. The Seventh Arch|Pathfinder #187: The
 speed:
 - 15 feet
 - climb 15 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
@@ -54,7 +41,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+8'
 wisdom: '+1'
 

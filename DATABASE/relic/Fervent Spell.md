@@ -1,11 +1,9 @@
 ﻿---
-element: null
 id: '95'
 item_category: Relics
 name: Fervent Spell
 prerequisite: fervor gift
 rarity: Common
-rus_type_level: null
 school: Enchantment
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 trait:

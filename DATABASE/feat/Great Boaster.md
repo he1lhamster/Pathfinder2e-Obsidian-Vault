@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Great Boaster
-frequency: null
-heighten_level: null
 id: '1071'
 level: '8'
 name: Great Boaster
 prerequisite: Charisma 16; [[DATABASE/feat/Firebrand Braggart Dedication|Firebrand
   Braggart Dedication]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Read Lips|Read Lips]]'
 id: '177'
 name: Servant
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Society|Society]]'
 - Labor [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

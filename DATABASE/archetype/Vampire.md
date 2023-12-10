@@ -4,7 +4,6 @@ level: '2'
 name: Vampire
 prerequisite: You were a killed by a vampire drinking your blood.
 rarity: Rare
-rus_type_level: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'

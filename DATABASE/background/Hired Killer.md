@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Terrain Stalker|Terrain Stalker]]'
 id: '272'
 name: Hired Killer
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Stealth|Stealth]]'
 - Underworld [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

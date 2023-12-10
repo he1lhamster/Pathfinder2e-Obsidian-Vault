@@ -1,8 +1,6 @@
 ﻿---
 ac: '21'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
 climb_speed: '20'
 constitution: '+3'
@@ -10,15 +8,10 @@ creature_ability:
 - Bully
 - Kneecapper
 - Pound Down
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+13'
-hardness: null
 hp: '68'
 id: '1605'
-immunity: null
 intelligence: '-1'
 land_speed: '30'
 language:
@@ -29,9 +22,6 @@ name: Urbel
 perception: '+8'
 rarity: Unique
 reflex: '+12'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -55,7 +45,6 @@ strength: '+3'
 strength_req: '3'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Gremlin|Gremlin]]'

@@ -1,10 +1,7 @@
 ﻿---
 ac: '52'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+9'
-climb_speed: null
 constitution: '+10'
 creature_ability:
 - Attack of Opportunity
@@ -19,12 +16,10 @@ creature_ability:
 - Imprisoned
 - Redirect Energy
 - Smoke Vision
-creature_family: null
 dexterity: '+8'
 element: Fire
 fly_speed: '200'
 fortitude: '+42'
-hardness: null
 hp: '600'
 id: '1596'
 immunity:
@@ -55,8 +50,6 @@ resistance:
 - '[[DATABASE/trait/Cold|cold]] 26'
 - '[[DATABASE/trait/Electricity|electricity]] 26'
 - '[[DATABASE/trait/Poison|poison]] 26'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (precise) 120 feet'
@@ -107,7 +100,6 @@ strength: '+12'
 strength_req: '12'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Acid|Acid]]'
 - '[[DATABASE/trait/Cold|Cold]]'

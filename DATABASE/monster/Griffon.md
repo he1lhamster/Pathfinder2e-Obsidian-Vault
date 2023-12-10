@@ -1,35 +1,24 @@
 ﻿---
 ac: '21'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Flying Strafe
 - Pounce
-creature_family: null
 dexterity: '+3'
-element: null
 fly_speed: '60'
 fortitude: '+13'
-hardness: null
 hp: '60'
 id: '248'
-immunity: null
 intelligence: '-4'
 land_speed: '25'
-language: null
 level: '4'
 max_speed: '60'
 name: Griffon
 perception: '+11'
 rarity: Common
 reflex: '+13'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - scent (imprecise) 60 feet
@@ -41,20 +30,17 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 25 feet; fly 60 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+7'
 wisdom: '+1'
 

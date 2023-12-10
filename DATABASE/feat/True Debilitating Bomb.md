@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: True Debilitating Bomb
-frequency: null
-heighten_level: null
 id: '118'
 level: '14'
 name: True Debilitating Bomb
 prerequisite: '[[DATABASE/feat/Greater Debilitating Bomb|Greater Debilitating Bomb]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Alchemist|Alchemist]]'
-trigger: null
 type: Feat
 
 ---

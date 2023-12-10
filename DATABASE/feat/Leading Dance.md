@@ -1,24 +1,16 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Leading Dance
-frequency: null
-heighten_level: null
 id: '1530'
 level: '4'
 name: Leading Dance
 prerequisite: Trained in [[DATABASE/skill/Performance|Performance]]
 rarity: Common
 requirement: You are adjacent to an enemy.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Move|Move]]'
 - '[[DATABASE/trait/Swashbuckler|Swashbuckler]]'
-trigger: null
 type: Feat
 
 ---

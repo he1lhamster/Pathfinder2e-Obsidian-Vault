@@ -1,10 +1,7 @@
 ﻿---
 ac: '18'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Mauler
@@ -13,10 +10,7 @@ creature_ability:
 - Whip Vulnerability
 creature_family: '[[DATABASE/monsterfamily/Visitant|Visitant]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+8'
-hardness: null
 hp: 55 ( negative healing )
 id: '512'
 immunity:
@@ -27,16 +21,12 @@ immunity:
 - unconscious
 intelligence: '-4'
 land_speed: '25'
-language: null
 level: '3'
 max_speed: '25'
 name: Chimpanzee Visitant
 perception: '+9'
 rarity: Common
 reflex: '+11'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - lifesense (imprecise) 60 feet
@@ -48,12 +38,10 @@ source: '[[DATABASE/source/Pathfinder 152. Legacy of the Lost God|Pathfinder #15
   Legacy of the Lost God]]'
 speed:
 - 25 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 - '[[DATABASE/trait/Undead|Undead]]'

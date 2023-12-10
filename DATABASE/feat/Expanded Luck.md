@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Expanded Luck
-frequency: null
-heighten_level: null
 id: '1259'
 level: '5'
 name: Expanded Luck
 prerequisite: '[[DATABASE/feat/Cat''s Luck|Cat''s Luck]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Catfolk|Catfolk]]'
-trigger: null
 type: Feat
 
 ---

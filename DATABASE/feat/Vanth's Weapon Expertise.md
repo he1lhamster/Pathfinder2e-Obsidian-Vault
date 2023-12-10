@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Vanth's Weapon Expertise
-frequency: null
-heighten_level: null
 id: '2364'
 level: '13'
 name: Vanth's Weapon Expertise
 prerequisite: '[[DATABASE/feat/Vanth''s Weapon Familiarity|Vanth''s Weapon Familiarity]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Duskwalker|Duskwalker]]'
-trigger: null
 type: Feat
 
 ---

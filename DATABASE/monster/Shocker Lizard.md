@@ -1,8 +1,6 @@
 ﻿---
 ac: '18'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
 climb_speed: '15'
 constitution: '+3'
@@ -11,28 +9,20 @@ creature_ability:
 - Discharge
 - Greater Electrolocation
 - Shocking Burst
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+7'
-hardness: null
 hp: '32'
 id: '802'
 immunity:
 - electricity
 intelligence: '-4'
 land_speed: '35'
-language: null
 level: '2'
 max_speed: '35'
 name: Shocker Lizard
 perception: '+7'
 rarity: Common
 reflex: '+10'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - greater electrolocation 20 feet
@@ -46,7 +36,6 @@ speed:
 - 35 feet
 - climb 15 feet
 - swim 15 feet
-spell: null
 strength: '+1'
 strength_req: '1'
 strongest_save:
@@ -59,7 +48,6 @@ vision: Low-light vision
 weakest_save:
 - Fortitude
 - Will
-weakness: null
 will: '+7'
 wisdom: '+3'
 

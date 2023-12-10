@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Spellmaster's Ward
-frequency: null
-heighten_level: null
 id: '2244'
 level: '10'
 name: Spellmaster's Ward
 prerequisite: '[[DATABASE/feat/Spellmaster Dedication|Spellmaster Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

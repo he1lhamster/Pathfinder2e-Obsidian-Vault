@@ -1,26 +1,19 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Share Weakness
-frequency: null
-heighten_level: null
 id: '3717'
+leads_to: '[[DATABASE/feat/Ubiquitous Weakness|Ubiquitous Weakness]]'
 level: '10'
 name: Share Weakness
 prerequisite: '[[DATABASE/action/Exploit Vulnerability|Exploit Vulnerability]] , mortal
   weakness'
 rarity: Common
 requirement: You are Exploiting a creature's Vulnerability using mortal weakness.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Esoterica|Esoterica]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Thaumaturge|Thaumaturge]]'
-trigger: null
 type: Feat
 
 ---

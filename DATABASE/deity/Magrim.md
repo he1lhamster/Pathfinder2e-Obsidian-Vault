@@ -26,11 +26,9 @@ follower_alignment:
 id: '90'
 name: Magrim
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Crafting|Crafting]]'
 source: '[[DATABASE/source/Highhelm|Highhelm]]'
-trait: null
 type: Deity
 
 ---

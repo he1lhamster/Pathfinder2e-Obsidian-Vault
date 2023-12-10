@@ -3,9 +3,7 @@ creature_family: Sprite
 id: '95'
 name: Sprite
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
-trait: null
 type: Creature Family
 
 ---

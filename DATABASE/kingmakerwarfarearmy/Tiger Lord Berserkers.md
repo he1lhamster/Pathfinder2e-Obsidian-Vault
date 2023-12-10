@@ -5,7 +5,6 @@ id: '17'
 level: '12'
 name: Tiger Lord Berserkers
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
 - '[[DATABASE/trait/Infantry|Infantry]]'

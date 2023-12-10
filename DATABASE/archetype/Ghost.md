@@ -4,7 +4,6 @@ level: '2'
 name: Ghost
 prerequisite: You died and returned as a ghost.
 rarity: Rare
-rus_type_level: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'

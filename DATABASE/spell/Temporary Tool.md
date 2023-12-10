@@ -1,40 +1,24 @@
 ﻿---
-actions: null
-area: null
-bloodline: null
 component:
 - 1 Minute
-cost: null
 deity:
 - '[[DATABASE/deity/Brigh|Brigh]]'
 - '[[DATABASE/deity/Findeladlara|Findeladlara]]'
 - '[[DATABASE/deity/Jaidi|Jaidi]]'
 - '[[DATABASE/deity/Magrim|Magrim]]'
 - '[[DATABASE/deity/Magrim|Magrim]]'
-domain: null
 duration: until used or 1 minute; see text
-element: null
-heighten: null
 heighten_level: '1'
 id: '590'
-lesson: null
 level: '1'
-mystery: null
 name: Temporary Tool
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
-target: null
 tradition:
 - Arcane
 trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
-trigger: null
 type: Spell
 
 ---

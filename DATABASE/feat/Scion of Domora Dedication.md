@@ -1,26 +1,21 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Scion of Domora Dedication
-frequency: null
-heighten_level: null
 id: '4106'
+leads_to: '[[DATABASE/feat/Guardian''s Embrace|Guardian''s Embrace]] , [[DATABASE/feat/Guided
+  Skill|Guided Skill]] , [[DATABASE/feat/Invigorating Breath|Invigorating Breath]]
+  , [[DATABASE/feat/Spirit Guide Form|Spirit Guide Form]] , [[DATABASE/feat/Spiritual
+  Aid|Spiritual Aid]] , [[DATABASE/feat/Spiritual Flurry|Spiritual Flurry]] , [[DATABASE/feat/Spiritual
+  Strike|Spiritual Strike]]'
 level: '4'
 name: Scion of Domora Dedication
 prerequisite: '[[DATABASE/feat/Familiar Master Dedication|Familiar Master Dedication]]'
 rarity: Rare
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 188. They Watched the Stars|Pathfinder #188:
   They Watched the Stars]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Feat
 
 ---

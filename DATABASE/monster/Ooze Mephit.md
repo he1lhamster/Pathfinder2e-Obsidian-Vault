@@ -1,10 +1,7 @@
 ﻿---
 ac: '14'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Breath Weapon
@@ -13,7 +10,6 @@ dexterity: '+1'
 element: Earth, Water
 fly_speed: '20'
 fortitude: '+7'
-hardness: null
 hp: 24 ( fast healing 2 (when touching mud or slime))
 id: '661'
 immunity:
@@ -32,9 +28,6 @@ name: Ooze Mephit
 perception: '+3'
 rarity: Uncommon
 reflex: '+4'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -51,7 +44,6 @@ strength: '+3'
 strength_req: '3'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Elemental|Elemental]]'
@@ -61,7 +53,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+3'
 wisdom: '+0'
 

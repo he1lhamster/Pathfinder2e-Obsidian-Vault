@@ -1,7 +1,6 @@
 ﻿---
 ac: '21'
 alignment: N
-all_resistance: null
 burrow_speed: '20'
 charisma: '+0'
 climb_speed: '20'
@@ -10,27 +9,18 @@ creature_ability:
 - Devourer of Swarms
 - Emit Musk
 - Roll Up
-creature_family: null
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+11'
-hardness: null
 hp: '63'
 id: '1260'
-immunity: null
 intelligence: '-4'
 land_speed: '30'
-language: null
 level: '4'
 max_speed: '30'
 name: Giant Pangolin
 perception: '+12'
 rarity: Common
 reflex: '+8'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
 size: Large
@@ -43,19 +33,15 @@ speed:
 - 30 feet
 - burrow 20 feet
 - climb 20 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+10'
 wisdom: '+2'
 

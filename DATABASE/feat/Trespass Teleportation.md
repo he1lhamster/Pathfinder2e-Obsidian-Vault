@@ -1,20 +1,14 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Trespass Teleportation
-frequency: null
-heighten_level: null
 id: '3726'
 level: '14'
 name: Trespass Teleportation
 prerequisite: '[[DATABASE/action/Exploit Vulnerability|Exploit Vulnerability]]'
 rarity: Common
 requirement: You are benefiting from Exploit Vulnerability.
-rus_type_level: null
 school: Conjuration
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Occult|Occult]]'

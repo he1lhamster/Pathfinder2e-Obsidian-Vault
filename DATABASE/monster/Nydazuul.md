@@ -1,8 +1,6 @@
 ﻿---
 ac: '31'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
 climb_speed: '40'
 constitution: '+6'
@@ -10,12 +8,9 @@ creature_ability:
 - Confusing Display
 - Inhale Vitality
 - Rotting Curse
-creature_family: null
 dexterity: '+4'
-element: null
 fly_speed: '40'
 fortitude: '+23'
-hardness: null
 hp: '180'
 id: '2145'
 immunity:
@@ -35,8 +30,6 @@ reflex: '+21'
 resistance:
 - '[[DATABASE/trait/Mental|mental]] 10'
 - physical 10 (except [[DATABASE/equipment/Cold Iron Weapon|cold iron]] )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -59,7 +52,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fiend|Fiend]]'
 - '[[DATABASE/trait/Qlippoth|Qlippoth]]'

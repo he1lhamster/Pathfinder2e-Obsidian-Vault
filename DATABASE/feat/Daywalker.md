@@ -1,25 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Daywalker
-frequency: null
-heighten_level: null
-id: '3549'
-level: '6'
+id: '2352'
+level: '13'
 name: Daywalker
-prerequisite: '[[DATABASE/feat/Vampire Dedication|Vampire Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: Abjuration
-source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-subcategory: null
+source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 trait:
-- '[[DATABASE/trait/Abjuration|Abjuration]]'
-- '[[DATABASE/trait/Archetype|Archetype]]'
-- '[[DATABASE/trait/Divine|Divine]]'
-trigger: null
+- '[[DATABASE/trait/Dhampir|Dhampir]]'
 type: Feat
 
 ---

@@ -1,10 +1,7 @@
 ﻿---
 ac: '45'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+7'
-climb_speed: null
 constitution: '+8'
 creature_ability:
 - Attack of Opportunity
@@ -22,7 +19,6 @@ dexterity: '+5'
 element: Fire
 fly_speed: '180'
 fortitude: '+35'
-hardness: null
 hp: '425'
 id: '138'
 immunity:
@@ -44,9 +40,6 @@ name: Ancient Red Dragon
 perception: '+35'
 rarity: Uncommon
 reflex: '+32'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - scent (imprecise) 60 feet
@@ -74,7 +67,6 @@ strength_req: '9'
 strongest_save:
 - Fortitude
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dragon|Dragon]]'
 - '[[DATABASE/trait/Fire|Fire]]'

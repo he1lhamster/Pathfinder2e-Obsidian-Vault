@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Witch's Communion
-frequency: null
-heighten_level: null
 id: '1581'
 level: '10'
 name: Witch's Communion
 prerequisite: '[[DATABASE/feat/Witch''s Charge|Witch''s Charge]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Witch|Witch]]'
-trigger: null
 type: Feat
 
 ---

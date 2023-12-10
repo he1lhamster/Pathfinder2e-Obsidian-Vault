@@ -1,21 +1,14 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Counter Thought
-frequency: null
-heighten_level: null
 id: '3657'
 level: '1'
 name: Counter Thought
-prerequisite: null
 rarity: Common
 requirement: You have an unexpended spell slot you could use to Cast a Spell with
   the mental trait.
-rus_type_level: null
 school: Abjuration
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Occult|Occult]]'

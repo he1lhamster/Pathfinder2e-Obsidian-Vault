@@ -1,25 +1,19 @@
 ﻿---
 actions: '[two-actions]'
 cost: 1 spirit wisp or spirit remnant from yourspirit dwelling
-element: null
 feat: Spirit's Anguish
-frequency: null
-heighten_level: null
 id: '3457'
 level: '8'
 name: Spirit's Anguish
 prerequisite: '[[DATABASE/feat/Exorcist Dedication|Exorcist Dedication]]'
 rarity: Common
 requirement: You are holding yourspirit dwelling.
-rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Sonic|Sonic]]'
-trigger: null
 type: Feat
 
 ---

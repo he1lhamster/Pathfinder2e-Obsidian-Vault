@@ -1,24 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Tattoo Artist
-frequency: null
-heighten_level: null
 id: '2962'
+leads_to: '[[DATABASE/feat/Legendary Tattoo Artist|Legendary Tattoo Artist]]'
 level: '2'
 name: Tattoo Artist
 prerequisite: Trained in [[DATABASE/skill/Crafting|Crafting]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 subcategory: crafting
 trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

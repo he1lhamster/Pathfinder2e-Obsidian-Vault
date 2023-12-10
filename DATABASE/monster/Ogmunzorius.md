@@ -2,18 +2,13 @@
 ac: '28'
 alignment: NE
 all_resistance: '10'
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Frozen Nightmare
-creature_family: null
 dexterity: '+5'
-element: null
 fly_speed: '40'
 fortitude: '+19'
-hardness: null
 hp: '145'
 id: '2506'
 immunity:
@@ -24,7 +19,6 @@ immunity:
 - precision
 - '[[DATABASE/trait/Sleep|sleep]]'
 intelligence: '+4'
-land_speed: null
 language:
 - '[[DATABASE/language/Aklo|Aklo]]'
 - '[[DATABASE/language/Common|Common]]'
@@ -42,8 +36,6 @@ resistance:
 - '[[DATABASE/equipment/Ghost Touch|ghost touch]]'
 - or [[DATABASE/trait/Negative|negative]] ; double resistance vs. non- [[DATABASE/trait/Magical|magical]]
   )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -69,7 +61,6 @@ strength: '-5'
 strength_req: '-5'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dream|Dream]]'
 - '[[DATABASE/trait/Incorporeal|Incorporeal]]'
@@ -78,7 +69,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+22'
 wisdom: '+4'
 

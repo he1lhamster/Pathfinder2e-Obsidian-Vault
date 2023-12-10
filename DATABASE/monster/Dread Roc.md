@@ -1,10 +1,7 @@
 ﻿---
 ac: '36'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Dreadful Screech
@@ -12,27 +9,19 @@ creature_ability:
 - Snack
 - Snatch
 - Wing Rebuff
-creature_family: null
 dexterity: '+3'
-element: null
 fly_speed: '60'
 fortitude: '+28'
-hardness: null
 hp: '290'
 id: '1457'
-immunity: null
 intelligence: '-4'
 land_speed: '20'
-language: null
 level: '15'
 max_speed: '60'
 name: Dread Roc
 perception: '+26'
 rarity: Rare
 reflex: '+25'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Gargantuan
@@ -44,12 +33,10 @@ source: '[[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #
 speed:
 - 20 feet
 - fly 60 feet
-spell: null
 strength: '+9'
 strength_req: '9'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 - '[[DATABASE/trait/Rare|Rare]]'
@@ -57,7 +44,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+24'
 wisdom: '+2'
 

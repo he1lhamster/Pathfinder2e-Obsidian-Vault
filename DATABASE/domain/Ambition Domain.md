@@ -1,5 +1,4 @@
 ﻿---
-advanced_apocryphal_spell: null
 advanced_domain_spell: '[[DATABASE/spell/Competitive Edge|Competitive Edge]]'
 apocryphal_spell: '[[DATABASE/spell/Hollow Heart|Hollow Heart]]'
 deity:
@@ -34,9 +33,7 @@ domain_spell: '[[DATABASE/spell/Blind Ambition|Blind Ambition]]'
 id: '1'
 name: Ambition Domain
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Domain
 
 ---

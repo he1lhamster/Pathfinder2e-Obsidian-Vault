@@ -1,10 +1,6 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Suplex
-frequency: null
-heighten_level: null
 id: '3397'
 level: '4'
 name: Suplex
@@ -12,13 +8,9 @@ prerequisite: '[[DATABASE/feat/Wrestler Dedication|Wrestler Dedication]]'
 rarity: Common
 requirement: You have a creature [[DATABASE/condition/Grabbed|grabbed]] or [[DATABASE/condition/Restrained|restrained]]
   .
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

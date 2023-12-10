@@ -1,10 +1,7 @@
 ﻿---
 ac: '16'
 alignment: LG
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Gestalt
@@ -12,15 +9,11 @@ creature_ability:
 - Retributive Strike
 creature_family: '[[DATABASE/monsterfamily/Archon|Archon]]'
 dexterity: '+3'
-element: null
 fly_speed: '40'
 fortitude: '+6'
-hardness: null
 hp: '20'
 id: '30'
-immunity: null
 intelligence: '-1'
-land_speed: null
 language:
 - '[[DATABASE/language/Celestial|Celestial]]'
 - '[[DATABASE/language/Draconic|Draconic]]'
@@ -33,8 +26,6 @@ rarity: Common
 reflex: '+10'
 resistance:
 - '[[DATABASE/trait/Fire|fire]] 3'
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Small
@@ -54,7 +45,6 @@ strength: '-5'
 strength_req: '-5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Archon|Archon]]'
 - '[[DATABASE/trait/Celestial|Celestial]]'

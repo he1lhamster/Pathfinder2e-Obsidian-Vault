@@ -1,27 +1,19 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
 element: Earth
 feat: Rattle The Earth
-frequency: null
 heighten_level: 12, 16, 20
 id: '4231'
 level: '12'
 name: Rattle The Earth
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Impulse|Impulse]]'
 - '[[DATABASE/trait/Kineticist|Kineticist]]'
 - '[[DATABASE/trait/Overflow|Overflow]]'
 - '[[DATABASE/trait/Primal|Primal]]'
-trigger: null
 type: Feat
 
 ---

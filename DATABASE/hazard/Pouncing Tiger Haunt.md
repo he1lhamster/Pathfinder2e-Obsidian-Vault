@@ -1,8 +1,6 @@
 ﻿---
 ac: '18'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+11'
 hardness: '8'
 hazard_type: Haunt
@@ -16,9 +14,6 @@ level: '2'
 name: Pouncing Tiger Haunt
 rarity: Common
 reflex: '+5'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 175. Broken Tusk Moon|Pathfinder #175: Broken
   Tusk Moon]]'
 trait:
@@ -26,7 +21,6 @@ trait:
 type: Hazard
 weakness:
 - '[[DATABASE/trait/Acid|acid]] 5'
-will: null
 
 ---
 # Pouncing Tiger Haunt<span class="item-type">Hazard 2</span>

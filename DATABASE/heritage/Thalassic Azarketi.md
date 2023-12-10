@@ -1,11 +1,8 @@
 ﻿---
-id: '197'
+id: '155'
 name: Thalassic Azarketi
-rarity: Common
-rus_type_level: null
-source: '[[DATABASE/source/Absalom, City of Lost Omens|Absalom, City of Lost Omens]]'
-trait: null
-type: Heritage
+source: '[[DATABASE/source/Azarketi Ancestry Web Supplement|Azarketi Ancestry Web
+  Supplement]]'
 
 ---
 # Thalassic Azarketi

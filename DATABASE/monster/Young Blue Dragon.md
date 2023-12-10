@@ -1,10 +1,8 @@
 ﻿---
 ac: '28'
 alignment: LE
-all_resistance: null
 burrow_speed: '15'
 charisma: '+3'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Breath Weapon
@@ -17,10 +15,8 @@ creature_ability:
 - Wing Deflection
 creature_family: '[[DATABASE/monsterfamily/Dragon, Blue|Dragon, Blue]]'
 dexterity: '+2'
-element: null
 fly_speed: '100'
 fortitude: '+19'
-hardness: null
 hp: '170'
 id: '130'
 immunity:
@@ -38,9 +34,6 @@ name: Young Blue Dragon
 perception: '+18'
 rarity: Common
 reflex: '+18'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - scent (imprecise) 60 feet
@@ -67,7 +60,6 @@ strength_req: '5'
 strongest_save:
 - Fortitude
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dragon|Dragon]]'
 - '[[DATABASE/trait/Electricity|Electricity]]'
@@ -75,7 +67,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+19'
 wisdom: '+3'
 

@@ -1,27 +1,20 @@
 ﻿---
 ac: '18'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Blood Siphon
 - Misty Form
 - Sense Blood
-creature_family: null
 dexterity: '+5'
-element: null
 fly_speed: '40'
 fortitude: '+8'
-hardness: null
 hp: '35'
 id: '845'
 immunity:
 - precision
 intelligence: '-1'
-land_speed: null
 language:
 - '[[DATABASE/language/Aklo|Aklo]]'
 level: '3'
@@ -32,8 +25,6 @@ rarity: Common
 reflex: '+12'
 resistance:
 - physical 5
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - sense blood (imprecise) 60 feet
@@ -44,12 +35,10 @@ skill:
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - fly 40 feet
-spell: null
 strength: '-5'
 strength_req: '-5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 type: Creature

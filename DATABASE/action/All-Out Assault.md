@@ -1,20 +1,14 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
-frequency: null
 id: '1427'
 name: All-Out Assault
 rarity: Common
 requirement: '[[DATABASE/kingmakerwarfaretactic/Merciless|Merciless]]'
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
 - '[[DATABASE/trait/Attack|Attack]]'
 - '[[DATABASE/trait/Cavalry|Cavalry]]'
 - '[[DATABASE/trait/Infantry|Infantry]]'
-trigger: null
 type: Action
 
 ---

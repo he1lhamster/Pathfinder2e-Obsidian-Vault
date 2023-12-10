@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Group Coercion|Group Coercion]]'
 id: '313'
 name: Reclaimed
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Intimidation|Intimidation]]'
 - Crimson Reclaimers [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

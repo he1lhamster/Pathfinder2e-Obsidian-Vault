@@ -1,24 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Vengeful Oath
-frequency: null
-heighten_level: null
 id: '222'
+leads_to: '[[DATABASE/feat/Aura of Vengeance|Aura of Vengeance]]'
 level: '2'
 name: Vengeful Oath
 prerequisite: '[[DATABASE/championcause/Paladin|paladin cause]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Champion|Champion]]'
 - '[[DATABASE/trait/Oath|Oath]]'
-trigger: null
 type: Feat
 
 ---

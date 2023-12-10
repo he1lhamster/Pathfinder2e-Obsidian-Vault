@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Occult Resistance
-frequency: null
-heighten_level: null
 id: '1333'
 level: '9'
 name: Occult Resistance
 prerequisite: Expert in [[DATABASE/skill/Occultism|Occultism]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Changeling|Changeling]]'
-trigger: null
 type: Feat
 
 ---

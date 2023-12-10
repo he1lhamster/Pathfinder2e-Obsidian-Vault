@@ -1,9 +1,7 @@
 ﻿---
 id: '22'
 name: Ceru
-rus_type_level: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-trait: null
 
 ---
 # Ceru

@@ -1,58 +1,23 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
 bulk: '1'
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '838'
 item_category: Staves
-item_subcategory: null
-land_speed: null
-level: '14'
-max_speed: null
+level: '4'
 name: Poisoner's Staff
-onset: null
-price: 4,000 gp
-range: null
+price: 90 gp
 rarity: Uncommon
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Conjuration
-size: null
 source: '[[DATABASE/source/Pathfinder 160. Assault on Hunting Lodge Seven|Pathfinder
   #160: Assault on Hunting Lodge Seven]]'
-spell: null
-stage: null
 subcategory: stave
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Staff|Staff]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Item
 usage: held in 1 hand
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Poisoner's Staff<span class="item-type">Item 4+</span>

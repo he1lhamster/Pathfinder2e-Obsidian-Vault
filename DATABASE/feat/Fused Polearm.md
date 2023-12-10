@@ -1,10 +1,5 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Fused Polearm
-frequency: null
-heighten_level: null
 id: '3025'
 level: '10'
 name: Fused Polearm
@@ -12,13 +7,9 @@ prerequisite: '[[DATABASE/feat/Runelord Dedication|Runelord Dedication]]'
 rarity: Common
 requirement: Your arcane bonded item is a [[DATABASE/weapongroup/Polearm|polearm]]
   .
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

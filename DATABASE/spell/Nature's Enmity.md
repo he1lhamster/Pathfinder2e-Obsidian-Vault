@@ -5,25 +5,15 @@ bloodline: '[[DATABASE/sorcererbloodline/Hag|Hag]]'
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Yuelral|Yuelral]]'
-domain: null
 duration: 10 minutes
-element: null
-heighten: null
 heighten_level: '9'
 id: '205'
-lesson: null
 level: '9'
-mystery: null
 name: Nature's Enmity
-patron_theme: null
 range: 120 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Enchantment
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: up to 5 creatures
@@ -31,7 +21,6 @@ tradition:
 - Primal
 trait:
 - '[[DATABASE/trait/Enchantment|Enchantment]]'
-trigger: null
 type: Spell
 
 ---

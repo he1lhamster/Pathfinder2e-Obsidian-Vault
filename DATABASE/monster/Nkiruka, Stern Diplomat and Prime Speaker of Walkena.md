@@ -1,25 +1,17 @@
 ﻿---
 ac: '36'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Ear for Lies
 - Eye for an Opening
 - Group Impression
 - Size Up
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+24'
-hardness: null
 hp: '260'
 id: '1709'
-immunity: null
 intelligence: '+3'
 land_speed: '25'
 language:
@@ -33,9 +25,6 @@ name: Nkiruka
 perception: '+25'
 rarity: Unique
 reflex: '+26'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - (29 to notice lies and [[DATABASE/action/Sense Motive|Sense Motive]] )
 size: Medium
@@ -84,16 +73,13 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+25'
 wisdom: '+1'
 

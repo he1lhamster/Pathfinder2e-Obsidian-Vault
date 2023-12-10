@@ -1,23 +1,16 @@
 ﻿---
 ac: '27'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Go for the Eyes
 - Quick Spiker
 - Snap Shot
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+17'
 hp: '140'
 id: '2546'
-immunity: null
 intelligence: '-1'
 land_speed: '25'
 language:
@@ -30,8 +23,6 @@ name: Mivanian Soldier
 perception: '+17'
 rarity: Uncommon
 reflex: '+15'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
@@ -44,12 +35,10 @@ skill:
 source: '[[DATABASE/source/Pathfinder 190. The Choosing|Pathfinder #190: The Choosing]]'
 speed:
 - 25 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Tengu|Tengu]]'
@@ -58,7 +47,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+13'
 wisdom: '+3'
 

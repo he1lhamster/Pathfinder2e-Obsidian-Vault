@@ -1,56 +1,22 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
 bulk: L
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '1005'
 item_category: Consumables
 item_subcategory: Spell Catalysts
-land_speed: null
-level: '15'
-max_speed: null
+level: '5'
 name: Firestarter Pellets
-onset: null
-price: 1,200 gp
-range: null
+price: 25 gp
 rarity: Common
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
-school: null
-size: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 spell:
 - '[[DATABASE/spell/Fireball|Fireball]]'
-stage: null
 subcategory: consumable/spellcatalycyst
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Catalyst|Catalyst]]'
 - '[[DATABASE/trait/Consumable|Consumable]]'
 - '[[DATABASE/trait/Magical|Magical]]'
-trigger: null
 type: Item
 usage: held in 1 hand
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Firestarter Pellets<span class="item-type">Item 5+</span>

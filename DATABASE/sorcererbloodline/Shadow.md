@@ -3,7 +3,6 @@ bloodline: Shadow
 id: '14'
 name: Shadow
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 spell:
 - '[[DATABASE/spell/Chill Touch|Chill Touch]]'
@@ -19,7 +18,6 @@ spell:
 - '[[DATABASE/spell/Shadow Siphon|Shadow Siphon]]'
 - '[[DATABASE/spell/Steal Shadow|Steal Shadow]]'
 - '[[DATABASE/spell/Weird|Weird]]'
-trait: null
 type: Sorcerer Bloodline
 
 ---

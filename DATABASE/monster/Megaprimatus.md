@@ -1,8 +1,6 @@
 ﻿---
 ac: '26'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
 climb_speed: '30'
 constitution: '+5'
@@ -11,25 +9,17 @@ creature_ability:
 - Terrifying Display
 creature_family: '[[DATABASE/monsterfamily/Ape|Ape]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+19'
-hardness: null
 hp: '150'
 id: '26'
-immunity: null
 intelligence: '-4'
 land_speed: '30'
-language: null
 level: '8'
 max_speed: '30'
 name: Megaprimatus
 perception: '+15'
 rarity: Common
 reflex: '+16'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 - scent (imprecise) 30 feet
@@ -41,19 +31,16 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 30 feet
 - climb 30 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+13'
 wisdom: '+1'
 

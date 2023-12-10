@@ -2,7 +2,6 @@
 id: '58'
 name: Elf
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - Elf

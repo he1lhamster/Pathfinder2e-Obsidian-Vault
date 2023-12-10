@@ -3,9 +3,7 @@ creature_family: Horse
 id: '62'
 name: Horse
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
-trait: null
 type: Creature Family
 
 ---

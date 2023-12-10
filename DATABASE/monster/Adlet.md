@@ -1,10 +1,7 @@
 ﻿---
 ac: '30'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Avenging Bite
@@ -12,12 +9,8 @@ creature_ability:
 - Pack Attack
 - Wolfrime
 - Wolfstorm
-creature_family: null
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+20'
-hardness: null
 hp: '180'
 id: '1054'
 immunity:
@@ -33,9 +26,6 @@ name: Adlet
 perception: '+18'
 rarity: Common
 reflex: '+22'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -48,12 +38,10 @@ skill:
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 40 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Cold|Cold]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'

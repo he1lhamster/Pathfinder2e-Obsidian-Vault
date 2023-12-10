@@ -1,8 +1,6 @@
 ﻿---
 ac: '19'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
 climb_speed: '25'
 constitution: '+0'
@@ -13,13 +11,9 @@ creature_ability:
 - Spin Silk
 creature_family: '[[DATABASE/monsterfamily/Anadi|Anadi]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+7'
-hardness: null
 hp: '45'
 id: '1607'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -31,10 +25,6 @@ name: Anadi Lurker
 perception: '+11'
 rarity: Uncommon
 reflex: '+11'
-resistance: null
-rus_type_level: null
-school: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +9'
@@ -62,16 +52,13 @@ strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Anadi|Anadi]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+9'
 wisdom: '+2'
 

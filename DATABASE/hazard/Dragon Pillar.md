@@ -1,8 +1,6 @@
 ﻿---
 ac: '24'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+17'
 hardness: '14'
 hazard_type: Trap
@@ -17,9 +15,6 @@ level: '6'
 name: Dragon Pillar
 rarity: Rare
 reflex: '+8'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 146. Cult of Cinders|Pathfinder #146: Cult of
   Cinders]]'
 trait:
@@ -28,8 +23,6 @@ trait:
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Dragon Pillar<span class="item-type">Hazard 6</span>

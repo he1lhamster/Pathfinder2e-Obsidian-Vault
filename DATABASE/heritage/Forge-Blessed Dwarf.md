@@ -2,9 +2,7 @@
 id: '231'
 name: Forge-Blessed Dwarf
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Highhelm|Highhelm]]'
-trait: null
 type: Heritage
 
 ---

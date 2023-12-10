@@ -5,10 +5,7 @@ frequency: once per 10 minutes
 id: '55'
 name: Steal Shadow
 rarity: Common
-requirement: null
-rus_type_level: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-trait: null
 type: Familiar Ability
 
 ---

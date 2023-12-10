@@ -1,20 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 frequency: once per 10 minutes
 id: '544'
 name: Pursue a Lead
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Exploration|Exploration]]'
 - '[[DATABASE/trait/Investigator|Investigator]]'
-trigger: null
 type: Action
 
 ---

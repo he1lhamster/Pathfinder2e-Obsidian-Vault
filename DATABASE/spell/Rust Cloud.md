@@ -1,30 +1,19 @@
 ﻿---
 actions: '[three-actions]'
 area: 20-foot burst
-bloodline: null
-component: null
-cost: null
 deity:
 - '[[DATABASE/deity/Ferrumnestra|Ferrumnestra]]'
-domain: null
 duration: 1 minute
 element: Metal
 heighten: '+2'
 heighten_level: 4, 6, 8, 10
 id: '1377'
-lesson: null
 level: '4'
-mystery: null
 name: Rust Cloud
-patron_theme: null
 range: 120 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: basicFortitude
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-target: null
 tradition:
 - Arcane
 - Primal
@@ -32,7 +21,6 @@ trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Metal|Metal]]'
-trigger: null
 type: Spell
 
 ---

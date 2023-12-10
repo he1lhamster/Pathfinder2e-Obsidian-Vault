@@ -1,8 +1,6 @@
 ﻿---
 ac: '46'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+32'
 hardness: '32'
 hazard_type: Environmental
@@ -16,9 +14,6 @@ level: '19'
 name: The Eclipse
 rarity: Unique
 reflex: '+38'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 192. Worst of All Possible Worlds|Pathfinder
   #192: Worst of All Possible Worlds]]'
 trait:
@@ -26,8 +21,6 @@ trait:
 - '[[DATABASE/trait/Environmental|Environmental]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # The Eclipse<span class="item-type">Hazard 19</span>

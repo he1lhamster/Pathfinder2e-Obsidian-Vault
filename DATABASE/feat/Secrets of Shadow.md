@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Secrets of Shadow
-frequency: null
-heighten_level: null
 id: '3014'
 level: '12'
 name: Secrets of Shadow
 prerequisite: '[[DATABASE/feat/Shadow Reservoir|Shadow Reservoir]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

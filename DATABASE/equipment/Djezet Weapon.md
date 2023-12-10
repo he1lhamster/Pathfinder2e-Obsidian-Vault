@@ -1,53 +1,16 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '1414'
 item_category: Weapons
 item_subcategory: Precious Material Weapons
-land_speed: null
-level: '18'
-max_speed: null
+level: '12'
 name: Djezet Weapon
-onset: null
-price: 22,000 gp (+2,200 gp per Bulk)
-range: null
+price: 1,800 gp (+180 gp per Bulk)
 rarity: Rare
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
-school: null
-size: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
-spell: null
-stage: null
-subcategory: null
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Item
 usage: varies by weapon
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Djezet Weapon<span class="item-type">Item 12+</span>

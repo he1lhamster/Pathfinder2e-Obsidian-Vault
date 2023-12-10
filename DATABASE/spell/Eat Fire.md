@@ -1,29 +1,14 @@
 ﻿---
 actions: '[reaction]'
-area: null
-bloodline: null
-component: null
-cost: null
-deity: null
-domain: null
 duration: until the end of your next turn
 element: Fire
 heighten: '+3'
 heighten_level: 1, 4, 7, 10
 id: '1352'
-lesson: null
 level: '1'
-mystery: null
 name: Eat Fire
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-target: null
 tradition:
 - Arcane
 - Occult

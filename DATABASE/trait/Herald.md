@@ -2,7 +2,6 @@
 id: '330'
 name: Herald
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 160. Assault on Hunting Lodge Seven|Pathfinder
   #160: Assault on Hunting Lodge Seven]]'
 trait:

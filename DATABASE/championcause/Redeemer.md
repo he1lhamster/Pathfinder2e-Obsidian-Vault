@@ -3,9 +3,7 @@ alignment: NG
 id: '2'
 name: Redeemer
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Champion Cause
 
 ---

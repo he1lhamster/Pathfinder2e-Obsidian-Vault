@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Expert Longevity
-frequency: null
-heighten_level: null
 id: '22'
+leads_to: '[[DATABASE/feat/Universal Longevity|Universal Longevity]]'
 level: '9'
 name: Expert Longevity
 prerequisite: '[[DATABASE/feat/Ancestral Longevity|Ancestral Longevity]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Elf|Elf]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,10 +1,7 @@
 ﻿---
 ac: '26'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Deny Advantage
@@ -16,12 +13,9 @@ creature_ability:
 - Swift Sneak
 creature_family: '[[DATABASE/monsterfamily/Criminals|Criminals]]'
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+12'
 hp: '130'
 id: '892'
-immunity: null
 intelligence: '+2'
 land_speed: '25'
 language:
@@ -32,9 +26,6 @@ name: Assassin
 perception: '+16'
 rarity: Common
 reflex: '+19'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +17'
@@ -51,20 +42,16 @@ skill:
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 speed:
 - 25 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+14'
 wisdom: '+2'
 

@@ -1,10 +1,7 @@
 ﻿---
 ac: '38'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Attack of Opportunity
@@ -18,10 +15,7 @@ creature_ability:
 - Wide Swing
 creature_family: '[[DATABASE/monsterfamily/Giant|Giant]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+33'
-hardness: null
 hp: '330'
 id: '226'
 immunity:
@@ -38,9 +32,6 @@ name: Rune Giant
 perception: '+28'
 rarity: Uncommon
 reflex: '+26'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 size: Gargantuan
@@ -64,7 +55,6 @@ strength: '+9'
 strength_req: '9'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Evil|Evil]]'
 - '[[DATABASE/trait/Giant|Giant]]'
@@ -74,7 +64,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Reflex
-weakness: null
 will: '+28'
 wisdom: '+6'
 

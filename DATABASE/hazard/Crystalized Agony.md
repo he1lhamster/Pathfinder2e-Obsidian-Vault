@@ -1,8 +1,6 @@
 ﻿---
 ac: '31'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+18'
 hardness: '20'
 hazard_type: Environmental
@@ -16,16 +14,11 @@ level: '11'
 name: Crystalized Agony
 rarity: Common
 reflex: '+23'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 184. The Ghouls Hunger|Pathfinder #184: The
   Ghouls Hunger]]'
 trait:
 - '[[DATABASE/trait/Environmental|Environmental]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Crystalized Agony<span class="item-type">Hazard 11</span>

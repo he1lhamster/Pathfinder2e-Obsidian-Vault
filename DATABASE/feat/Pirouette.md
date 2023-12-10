@@ -1,10 +1,6 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Pirouette
-frequency: null
-heighten_level: null
 id: '4045'
 level: '6'
 name: Pirouette
@@ -12,10 +8,7 @@ prerequisite: '[[DATABASE/feat/Masquerade of Seasons Stance|Masquerade of Season
   Stance]]'
 rarity: Rare
 requirement: You're in Masquerade of Seasons Stance.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Bard|Bard]]'
 - '[[DATABASE/trait/Rare|Rare]]'

@@ -1,8 +1,6 @@
 ﻿---
 ac: '21'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+12'
 hardness: '11'
 hazard_type: Trap
@@ -16,16 +14,11 @@ level: '4'
 name: Scythe Blades
 rarity: Common
 reflex: '+8'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Mechanical|Mechanical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Scythe Blades<span class="item-type">Hazard 4</span>

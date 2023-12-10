@@ -1,10 +1,7 @@
 ﻿---
 ac: '16'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Attack of Opportunity
@@ -13,13 +10,9 @@ creature_ability:
 - Terrain Advantage
 creature_family: '[[DATABASE/monsterfamily/Lizardfolk|Lizardfolk]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+8'
-hardness: null
 hp: '21'
 id: '291'
-immunity: null
 intelligence: '-1'
 land_speed: '25'
 language:
@@ -31,10 +24,6 @@ name: Lizardfolk Defender
 perception: '+7'
 rarity: Common
 reflex: '+7'
-resistance: null
-rus_type_level: null
-school: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +5'
@@ -44,7 +33,6 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 25 feet
 - swim 15 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
@@ -54,10 +42,8 @@ trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Lizardfolk|Lizardfolk]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+5'
 wisdom: '+2'
 

@@ -1,26 +1,18 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Courageous Advance
-frequency: null
-heighten_level: null
 id: '1638'
+leads_to: '[[DATABASE/feat/Courageous Onslaught|Courageous Onslaught]]'
 level: '4'
 name: Courageous Advance
 prerequisite: '[[DATABASE/bardmuse/Warrior|warrior muse]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Auditory|Auditory]]'
 - '[[DATABASE/trait/Bard|Bard]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Metamagic|Metamagic]]'
-trigger: null
 type: Feat
 
 ---

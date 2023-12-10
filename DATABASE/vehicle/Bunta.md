@@ -1,22 +1,15 @@
 ﻿---
 ac: '50'
-burrow_speed: null
-climb_speed: null
 fly_speed: '40'
 fortitude: '+46'
 hardness: '25'
 hp: '500'
 id: '50'
 item_category: Vehicles
-land_speed: null
 level: '24'
 max_speed: '40'
 name: Bunta
-price: null
 rarity: Unique
-reflex: null
-resistance: null
-rus_type_level: null
 school: Conjuration
 size: Medium
 source: '[[DATABASE/source/Pathfinder 174. Shadows of the Ancients|Pathfinder #174:

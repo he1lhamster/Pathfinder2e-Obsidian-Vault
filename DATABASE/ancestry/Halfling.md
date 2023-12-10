@@ -18,7 +18,6 @@ language:
 max_speed: '25'
 name: Halfling
 rarity: Common
-rus_type_level: null
 size: Small
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 speed:
@@ -27,7 +26,6 @@ trait:
 - '[[DATABASE/trait/Halfling|Halfling]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Ancestry
-vision: null
 
 ---
 # Halfling

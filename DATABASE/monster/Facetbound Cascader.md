@@ -1,10 +1,7 @@
 ﻿---
 ac: '38'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Energy Charge
@@ -13,10 +10,7 @@ creature_ability:
 - Implanted Stone
 creature_family: '[[DATABASE/monsterfamily/Facetbound|Facetbound]]'
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+25'
-hardness: null
 hp: 280 ( negative healing )
 id: '2363'
 immunity:
@@ -40,8 +34,6 @@ rarity: Rare
 reflex: '+26'
 resistance:
 - '[[DATABASE/trait/Cold|cold]] 15 (see Energy Ward)'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -90,7 +82,6 @@ strength: '+2'
 strength_req: '2'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Undead|Undead]]'
@@ -98,7 +89,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+28'
 wisdom: '+6'
 

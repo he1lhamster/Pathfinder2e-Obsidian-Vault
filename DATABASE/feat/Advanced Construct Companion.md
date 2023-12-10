@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Advanced Construct Companion
-frequency: null
-heighten_level: null
 id: '3055'
+leads_to: '[[DATABASE/feat/Incredible Construct Companion|Incredible Construct Companion]]'
 level: '4'
 name: Advanced Construct Companion
 prerequisite: construct companion
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Inventor|Inventor]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,25 +1,17 @@
 ﻿---
 ac: '28'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+7'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Fleet Performer
 - Nimble Dodge
 - Play the Pipes
 - Sylvan Wine
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+18'
-hardness: null
 hp: '210'
 id: '2021'
-immunity: null
 intelligence: '+1'
 land_speed: '35'
 language:
@@ -31,9 +23,6 @@ name: Adrivallo
 perception: '+16'
 rarity: Unique
 reflex: '+17'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
@@ -66,7 +55,6 @@ strength: '+3'
 strength_req: '3'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Unique|Unique]]'

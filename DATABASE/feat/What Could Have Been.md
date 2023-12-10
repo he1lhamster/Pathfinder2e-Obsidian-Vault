@@ -1,25 +1,16 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: What Could Have Been
-frequency: null
-heighten_level: null
 id: '3843'
 level: '8'
 name: What Could Have Been
 prerequisite: '[[DATABASE/feat/Time Mage Dedication|Time Mage Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Metamagic|Metamagic]]'
-trigger: null
 type: Feat
 
 ---

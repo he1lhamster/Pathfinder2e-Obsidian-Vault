@@ -1,21 +1,15 @@
 ﻿---
 ac: '30'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Arrogant Taunts
 - Incendiary Spit
 - Trail of Flame
-creature_family: null
 dexterity: '+4'
 element: Fire
-fly_speed: null
 fortitude: '+22'
-hardness: null
 hp: '275'
 id: '1000'
 immunity:
@@ -31,9 +25,6 @@ name: Eberark
 perception: '+19'
 rarity: Common
 reflex: '+19'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -48,12 +39,10 @@ source: '[[DATABASE/source/Pathfinder 159. All or Nothing|Pathfinder #159: All o
   Nothing]]'
 speed:
 - 40 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Fire|Fire]]'
@@ -61,7 +50,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+16'
 wisdom: '+3'
 

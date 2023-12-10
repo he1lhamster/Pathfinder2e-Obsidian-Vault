@@ -9,7 +9,6 @@ prerequisite: "Dexterity 16; Trained in [[DATABASE/skill/Acrobatics|Acrobatics]]
   \ , or any weapon in the [[DATABASE/weapongroup/Spear|spear]] or [[DATABASE/weapongroup/Polearm|polearm]]\
   \ group (referred to in this archetype as \u201Cyour staff\u201D)"
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 151. The Show Must Go On|Pathfinder #151: The
   Show Must Go On]]'
 trait:

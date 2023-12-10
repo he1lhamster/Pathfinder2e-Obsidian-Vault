@@ -1,10 +1,7 @@
 ﻿---
 ac: '22'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Divine Destruction
@@ -13,10 +10,7 @@ creature_ability:
 - Instrument of Faith
 creature_family: '[[DATABASE/monsterfamily/Divine Warden|Divine Warden]]'
 dexterity: '-2'
-element: null
-fly_speed: null
 fortitude: '+15'
-hardness: null
 hp: '60'
 id: '1121'
 immunity:
@@ -35,16 +29,12 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '30'
-language: null
 level: '5'
 max_speed: '30'
 name: Divine Warden Of Nethys
 perception: '+11'
 rarity: Uncommon
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -61,7 +51,6 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Mindless|Mindless]]'
@@ -70,7 +59,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+11'
 wisdom: '+0'
 

@@ -2,9 +2,7 @@
 ac: '35'
 alignment: CE
 all_resistance: '15'
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Ectoplasmic Maneuver
@@ -13,12 +11,9 @@ creature_ability:
 - Shame
 - Site Bound
 - Sneak Attack
-creature_family: null
 dexterity: '+4'
-element: null
 fly_speed: '30'
 fortitude: '+23'
-hardness: null
 hp: 210 ( negative healing , rejuvenation)
 id: '2358'
 immunity:
@@ -29,7 +24,6 @@ immunity:
 - precision
 - unconscious
 intelligence: '+4'
-land_speed: null
 language:
 - '[[DATABASE/language/Elven|Elven]]'
 - '[[DATABASE/language/Sylvan|Sylvan]]'
@@ -43,8 +37,6 @@ resistance:
 - all damage 15 (except [[DATABASE/trait/Force|force]]
 - '[[DATABASE/equipment/Ghost Touch|ghost touch]]'
 - or [[DATABASE/trait/Positive|positive]]
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -56,12 +48,10 @@ skill:
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 speed:
 - fly 30 feet
-spell: null
 strength: '-5'
 strength_req: '-5'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Ghost|Ghost]]'
 - '[[DATABASE/trait/Incorporeal|Incorporeal]]'
@@ -72,7 +62,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+29'
 wisdom: '+6'
 

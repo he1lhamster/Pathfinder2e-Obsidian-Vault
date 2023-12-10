@@ -1,24 +1,17 @@
 ﻿---
 ac: '18'
 alignment: NG
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Occult Catharsis
 - Righthand Man
 - Spirits Drawn to Suffering
 - Unwitting Rivethun
-creature_family: null
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+9'
 hp: '52'
 id: '2607'
-immunity: null
 intelligence: '+1'
 land_speed: '20'
 language:
@@ -33,7 +26,6 @@ rarity: Unique
 reflex: '+7'
 resistance:
 - poison 2
-rus_type_level: null
 sense:
 - darkvision
 size: Medium
@@ -61,7 +53,6 @@ strength: '+2'
 strength_req: '2'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dwarf|Dwarf]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -70,7 +61,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+10'
 wisdom: '+3'
 

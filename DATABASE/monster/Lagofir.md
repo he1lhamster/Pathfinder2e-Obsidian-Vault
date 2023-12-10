@@ -1,10 +1,7 @@
 ﻿---
 ac: '18'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Cold Adaptation
@@ -13,27 +10,18 @@ creature_ability:
 - Flammable
 - Gnaw
 - Nimble Rush
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+9'
-hardness: null
 hp: '55'
 id: '1777'
-immunity: null
 intelligence: '-4'
 land_speed: '30'
-language: null
 level: '3'
 max_speed: '30'
 name: Lagofir
 perception: '+11'
 rarity: Uncommon
 reflex: '+12'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -48,7 +36,6 @@ source: '[[DATABASE/source/Pathfinder 176. Lost Mammoth Valley|Pathfinder #176: 
 speed:
 - 30 feet
 - swim 30 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
@@ -61,7 +48,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+6'
 wisdom: '+2'
 

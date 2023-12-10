@@ -1,6 +1,4 @@
 ﻿---
-ability: null
-ability_boost: null
 alignment: LE
 deity:
 - '[[DATABASE/deity/Asmodeus|Asmodeus]]'
@@ -20,11 +18,9 @@ follower_alignment:
 id: '2'
 name: Asmodeus
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Deception|Deception]]'
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Deity
 
 ---

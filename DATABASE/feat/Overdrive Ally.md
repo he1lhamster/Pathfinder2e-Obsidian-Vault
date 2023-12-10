@@ -1,24 +1,17 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Overdrive Ally
-frequency: null
-heighten_level: null
 id: '3067'
+leads_to: '[[DATABASE/feat/Shared Overdrive|Shared Overdrive]]'
 level: '8'
 name: Overdrive Ally
 prerequisite: '[[DATABASE/action/Overdrive|Overdrive]]'
 rarity: Common
 requirement: You are currently in overdrive.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Inventor|Inventor]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
-trigger: null
 type: Feat
 
 ---

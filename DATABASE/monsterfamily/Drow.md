@@ -3,9 +3,7 @@ creature_family: Drow
 id: '37'
 name: Drow
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
-trait: null
 type: Creature Family
 
 ---

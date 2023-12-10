@@ -1,14 +1,9 @@
 ﻿---
 ability_type: Specific Familiar - Clockwork Familiar
-actions: null
-frequency: null
 id: '56'
 name: Clockwork
 rarity: Common
-requirement: null
-rus_type_level: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
-trait: null
 type: Familiar Ability
 
 ---

@@ -1,12 +1,8 @@
 ﻿---
-actions: null
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Abadar|Abadar]]'
 - '[[DATABASE/deity/Adanye|Adanye]]'
@@ -14,25 +10,15 @@ deity:
 - '[[DATABASE/deity/Findeladlara|Findeladlara]]'
 - '[[DATABASE/deity/Isis|Isis]]'
 - '[[DATABASE/deity/Mammon|Mammon]]'
-domain: null
 duration: until the next time you make your daily preparations.
-element: null
-heighten: null
 heighten_level: '7'
 id: '183'
-lesson: null
 level: '7'
-mystery: null
 name: Magnificent Mansion
-patron_theme: null
 range: 30 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Arcane
 - Occult
@@ -40,7 +26,6 @@ trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Extradimensional|Extradimensional]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Spell
 
 ---

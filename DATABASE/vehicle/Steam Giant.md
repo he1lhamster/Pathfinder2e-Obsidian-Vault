@@ -1,8 +1,5 @@
 ﻿---
 ac: '33'
-burrow_speed: null
-climb_speed: null
-fly_speed: null
 fortitude: '+28'
 hardness: '20'
 hp: '200'
@@ -14,13 +11,8 @@ max_speed: '20'
 name: Steam Giant
 price: 12,500 gp
 rarity: Rare
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 size: Huge
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Vehicle

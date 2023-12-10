@@ -1,10 +1,7 @@
 ﻿---
 ac: '41'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+9'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Cloying Pull
@@ -12,12 +9,8 @@ creature_ability:
 - One with Shadows
 - Shifting Shadows
 - Weighty Shadow
-creature_family: null
 dexterity: '+9'
-element: null
-fly_speed: null
 fortitude: '+26'
-hardness: null
 hp: '310'
 id: '1794'
 immunity:
@@ -35,9 +28,6 @@ name: Alapolo
 perception: '+28'
 rarity: Rare
 reflex: '+34'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
@@ -52,12 +42,10 @@ source: '[[DATABASE/source/Pathfinder 174. Shadows of the Ancients|Pathfinder #1
   Shadows of the Ancients]]'
 speed:
 - 40 feet
-spell: null
 strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Rare|Rare]]'
@@ -66,7 +54,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+29'
 wisdom: '+6'
 

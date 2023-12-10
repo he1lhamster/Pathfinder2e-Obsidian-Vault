@@ -1,20 +1,12 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Bounce Back
 frequency: once per day
-heighten_level: null
 id: '1441'
 level: '13'
 name: Bounce Back
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 trigger: You lose the [[DATABASE/condition/Dying|dying]] condition.

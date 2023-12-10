@@ -1,10 +1,8 @@
 ﻿---
 ac: '32'
 alignment: N
-all_resistance: null
 burrow_speed: '40'
 charisma: '-1'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Fast Swallow
@@ -18,25 +16,17 @@ creature_ability:
 - Thrash
 creature_family: '[[DATABASE/monsterfamily/Cave Worm|Cave Worm]]'
 dexterity: '-1'
-element: null
-fly_speed: null
 fortitude: '+28'
-hardness: null
 hp: '270'
 id: '73'
-immunity: null
 intelligence: '-5'
 land_speed: '40'
-language: null
 level: '13'
 max_speed: '40'
 name: Purple Worm
 perception: '+20'
 rarity: Common
 reflex: '+21'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - tremorsense (imprecise) 100 feet
@@ -48,7 +38,6 @@ speed:
 - 40 feet
 - burrow 40 feet
 - swim 20 feet
-spell: null
 strength: '+9'
 strength_req: '9'
 strongest_save:
@@ -61,7 +50,6 @@ vision: Darkvision
 weakest_save:
 - Reflex
 - Will
-weakness: null
 will: '+21'
 wisdom: '-1'
 

@@ -1,21 +1,15 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Absorb Spell
 frequency: once per 10 minutes
-heighten_level: null
 id: '1138'
+leads_to: '[[DATABASE/feat/Retain Absorbed Spell|Retain Absorbed Spell]]'
 level: '14'
 name: Absorb Spell
 prerequisite: '[[DATABASE/feat/Spellmaster Dedication|Spellmaster Dedication]] ; spell
   repertoire or ability toprepare spells'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 trigger: "You critically succeed at a saving throw against a foe\u2019s spell, and\

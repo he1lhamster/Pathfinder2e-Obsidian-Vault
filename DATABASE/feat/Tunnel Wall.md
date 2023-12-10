@@ -1,10 +1,6 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Tunnel Wall
-frequency: null
-heighten_level: null
 id: '4174'
 level: '4'
 name: Tunnel Wall
@@ -12,13 +8,9 @@ prerequisite: '[[DATABASE/feat/Stalwart Defender Dedication|Stalwart Defender De
   ; [[DATABASE/feat/Shield Block|Shield Block]]'
 rarity: Common
 requirement: You are in Tenacious Stance.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Highhelm|Highhelm]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

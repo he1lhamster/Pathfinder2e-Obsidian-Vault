@@ -1,23 +1,16 @@
 ﻿---
 ac: '23'
 alignment: NG
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Attack of Opportunity
 - Hunt Prey
 - Hunter's Aim
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+15'
 hp: '112'
 id: '2549'
-immunity: null
 intelligence: '+1'
 land_speed: '20'
 language:
@@ -30,9 +23,6 @@ name: Shaldar Falls-Far
 perception: '+13'
 rarity: Unique
 reflex: '+11'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +15'
@@ -42,21 +32,17 @@ skill:
 source: '[[DATABASE/source/Pathfinder 190. The Choosing|Pathfinder #190: The Choosing]]'
 speed:
 - 20 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+13'
 wisdom: '+1'
 

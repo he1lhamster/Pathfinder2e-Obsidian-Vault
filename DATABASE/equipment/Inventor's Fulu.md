@@ -1,45 +1,15 @@
 ﻿---
-ac: null
 actions: '[free-action]'
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '2037'
 item_category: Consumables
 item_subcategory: Fulu
-land_speed: null
 level: '6'
-max_speed: null
 name: Inventor's Fulu
-onset: null
 price: 50 gp
-range: null
 rarity: Common
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
-size: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-spell: null
-stage: null
 subcategory: consumable/talisman
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Consumable|Consumable]]'
 - '[[DATABASE/trait/Fulu|Fulu]]'
@@ -50,9 +20,6 @@ trigger: You critically fail an action with the [[DATABASE/trait/Unstable|unstab
   trait.
 type: Item
 usage: affixed to aninnovation
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Inventor's Fulu<span class="item-type">Item 6</span>

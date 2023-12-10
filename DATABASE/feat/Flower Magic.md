@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Flower Magic
-frequency: null
-heighten_level: null
 id: '3954'
 level: '9'
 name: Flower Magic
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Ghoran|Ghoran]]'
-trigger: null
 type: Feat
 
 ---

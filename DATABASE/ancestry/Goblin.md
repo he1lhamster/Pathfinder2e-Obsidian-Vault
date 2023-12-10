@@ -18,7 +18,6 @@ language:
 max_speed: '25'
 name: Goblin
 rarity: Common
-rus_type_level: null
 size: Small
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 speed:

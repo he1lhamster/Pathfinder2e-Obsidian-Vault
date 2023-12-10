@@ -1,27 +1,18 @@
 ﻿---
 actions: '[one-action]'
-cost: null
 element: Fire
 feat: Searing Restoration
-frequency: null
-heighten_level: null
 id: '3054'
 level: '2'
 name: Searing Restoration
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fire|Fire]]'
 - '[[DATABASE/trait/Healing|Healing]]'
 - '[[DATABASE/trait/Inventor|Inventor]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Unstable|Unstable]]'
-trigger: null
 type: Feat
 
 ---

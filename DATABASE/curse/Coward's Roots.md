@@ -1,10 +1,8 @@
 ﻿---
-element: null
 id: '18'
 level: '5'
 name: Coward's Roots
 rarity: Common
-rus_type_level: null
 saving_throw: DC 20 Will
 school: Enchantment
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
@@ -15,7 +13,6 @@ trait:
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Mental|Mental]]'
 type: Curse
-usage: null
 
 ---
 # Coward's Roots<span class="item-type">Curse 5</span>

@@ -1,10 +1,7 @@
 ﻿---
 ac: '44'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+7'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Attack of Opportunity
@@ -13,15 +10,11 @@ creature_ability:
 - Recall the Fallen
 - Storm of
 - Battle
-creature_family: null
 dexterity: '+7'
-element: null
 fly_speed: '60'
 fortitude: '+34'
-hardness: null
 hp: '330'
 id: '2590'
-immunity: null
 intelligence: '+3'
 land_speed: '25'
 language:
@@ -36,8 +29,6 @@ rarity: Rare
 reflex: '+32'
 resistance:
 - '[[DATABASE/trait/Electricity|electricity]] 20'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -67,7 +58,6 @@ strength: '+10'
 strength_req: '10'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aesir|Aesir]]'
 - '[[DATABASE/trait/Monitor|Monitor]]'
@@ -76,7 +66,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+31'
 wisdom: '+6'
 

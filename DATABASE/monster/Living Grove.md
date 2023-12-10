@@ -1,10 +1,6 @@
 ﻿---
 ac: '24'
-alignment: null
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Defensive Camouflage
@@ -12,9 +8,7 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Elemental, Wood|Elemental, Wood]]'
 dexterity: '+0'
 element: Wood
-fly_speed: null
 fortitude: '+12'
-hardness: null
 hp: '90'
 id: '2674'
 immunity:
@@ -33,9 +27,6 @@ name: Living Grove
 perception: '+15'
 rarity: Common
 reflex: '+7'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Tremorsense|tremorsense]] 30 feet'
 size: Large
@@ -46,18 +37,15 @@ skill:
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 speed:
 - 20 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Elemental|Elemental]]'
 - '[[DATABASE/trait/Plant|Plant]]'
 - '[[DATABASE/trait/Wood|Wood]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
 weakness:

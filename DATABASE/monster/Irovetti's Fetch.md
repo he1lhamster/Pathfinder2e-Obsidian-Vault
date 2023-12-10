@@ -1,22 +1,14 @@
 ﻿---
 ac: '44'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+9'
 creature_ability:
 - Manifest Fetch Weapon
-creature_family: null
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+37'
-hardness: null
 hp: '440'
 id: '2374'
-immunity: null
 intelligence: '+2'
 land_speed: '35'
 language:
@@ -28,9 +20,6 @@ name: Irovetti's Fetch
 perception: '+36'
 rarity: Unique
 reflex: '+32'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -55,7 +44,6 @@ strength: '+10'
 strength_req: '10'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Unique|Unique]]'

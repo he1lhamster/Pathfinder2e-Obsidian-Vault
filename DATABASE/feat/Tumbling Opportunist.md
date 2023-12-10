@@ -1,10 +1,7 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Tumbling Opportunist
 frequency: once per minute
-heighten_level: null
 id: '1878'
 level: '10'
 name: Tumbling Opportunist
@@ -12,14 +9,10 @@ prerequisite: '[[DATABASE/feat/Acrobat Dedication|Acrobat Dedication]]'
 rarity: Common
 requirement: Your most recent action was to [[DATABASE/action/Tumble Through|Tumble
   Through]] or TumblingStrike, and you successfully moved through an enemy's space.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Attack|Attack]]'
-trigger: null
 type: Feat
 
 ---

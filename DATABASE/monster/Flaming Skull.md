@@ -1,20 +1,15 @@
 ﻿---
 ac: '18'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Fiery Explosion
 - Flaming Shroud
 creature_family: '[[DATABASE/monsterfamily/Beheaded|Beheaded]]'
 dexterity: '+4'
-element: null
 fly_speed: '30'
 fortitude: '+5'
-hardness: null
 hp: 30 ( negative healing )
 id: '1078'
 immunity:
@@ -36,9 +31,6 @@ name: Flaming Skull
 perception: '+9'
 rarity: Common
 reflex: '+10'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Tiny
@@ -48,12 +40,10 @@ source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 15 feet
 - fly 30 feet
-spell: null
 strength: '+1'
 strength_req: '1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Mindless|Mindless]]'
 - '[[DATABASE/trait/Undead|Undead]]'

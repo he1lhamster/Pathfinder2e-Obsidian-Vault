@@ -1,20 +1,12 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Goblin Scuttle
-frequency: null
-heighten_level: null
 id: '41'
+leads_to: '[[DATABASE/feat/Skittering Scuttle|Skittering Scuttle]]'
 level: '1'
 name: Goblin Scuttle
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Goblin|Goblin]]'
 trigger: An ally ends a move action adjacent to you.

@@ -1,10 +1,7 @@
 ﻿---
 ac: '27'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+17'
-hardness: null
 hazard_type: Environmental
 hp: '70'
 id: '220'
@@ -16,17 +13,12 @@ level: '8'
 name: Ghost Crystal Cloud
 rarity: Uncommon
 reflex: '+13'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 152. Legacy of the Lost God|Pathfinder #152:
   Legacy of the Lost God]]'
 trait:
 - '[[DATABASE/trait/Environmental|Environmental]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Ghost Crystal Cloud<span class="item-type">Hazard 8</span>

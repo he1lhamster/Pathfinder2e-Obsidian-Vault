@@ -1,21 +1,14 @@
 ﻿---
 ac: '13'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Opening Threat
-creature_family: null
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+5'
 hp: '8'
 id: '1995'
-immunity: null
 intelligence: '-1'
 land_speed: '25'
 language:
@@ -26,9 +19,6 @@ name: Abberton Ruffian
 perception: '+4'
 rarity: Common
 reflex: '+5'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +5'
@@ -40,21 +30,17 @@ source: '[[DATABASE/source/Pathfinder 151. The Show Must Go On|Pathfinder #151: 
   Show Must Go On]]'
 speed:
 - 25 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Fortitude
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+2'
 wisdom: '+2'
 

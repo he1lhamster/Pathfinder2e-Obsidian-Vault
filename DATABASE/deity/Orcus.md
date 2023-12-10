@@ -1,6 +1,4 @@
 ﻿---
-ability: null
-ability_boost: null
 alignment: CE
 deity:
 - '[[DATABASE/deity/Orcus|Orcus]]'
@@ -18,11 +16,9 @@ follower_alignment:
 id: '241'
 name: Orcus
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Arcana|Arcana]]'
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-trait: null
 type: Deity
 
 ---

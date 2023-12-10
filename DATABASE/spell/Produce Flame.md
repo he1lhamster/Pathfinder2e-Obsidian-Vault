@@ -1,28 +1,18 @@
 ﻿---
 actions: '[two-actions]'
-area: null
 bloodline: '[[DATABASE/sorcererbloodline/Diabolic|Diabolic]] , [[DATABASE/sorcererbloodline/Elemental|Elemental]]'
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
-duration: null
 element: Fire
 heighten: '+1'
 heighten_level: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
 id: '236'
-lesson: null
 level: '1'
 mystery: '[[DATABASE/oraclemystery/Ash|Ash]] , [[DATABASE/oraclemystery/Flames|Flames]]'
 name: Produce Flame
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: 1 creature
@@ -34,7 +24,6 @@ trait:
 - '[[DATABASE/trait/Cantrip|Cantrip]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Fire|Fire]]'
-trigger: null
 type: Cantrip
 
 ---

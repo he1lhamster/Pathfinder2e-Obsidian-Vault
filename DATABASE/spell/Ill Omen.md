@@ -1,46 +1,7 @@
 ﻿---
-actions: '[two-actions]'
-area: null
-bloodline: '[[DATABASE/sorcererbloodline/Harrow|Harrow]]'
-component:
-- Somatic
-- Verbal
-cost: null
-deity:
-- '[[DATABASE/deity/Ahriman|Ahriman]]'
-- '[[DATABASE/deity/Azathoth|Azathoth]]'
-- '[[DATABASE/deity/Gyronna|Gyronna]]'
-- '[[DATABASE/deity/Imot|Imot]]'
-- '[[DATABASE/deity/Lubaiko|Lubaiko]]'
-- '[[DATABASE/deity/Sifkesh|Sifkesh]]'
-- '[[DATABASE/deity/Zyphus|Zyphus]]'
-domain: null
-duration: 1 round
-element: null
-heighten: null
-heighten_level: '1'
-id: '696'
-lesson: '[[DATABASE/witchlesson/Lesson of Calamity|Lesson of Calamity]]'
-level: '1'
-mystery: null
+id: '578'
 name: Ill Omen
-patron_theme: null
-range: 30 feet
-rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
-school: Divination
-source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-target: 1 creature
-tradition:
-- Occult
-trait:
-- '[[DATABASE/trait/Curse|Curse]]'
-- '[[DATABASE/trait/Divination|Divination]]'
-- '[[DATABASE/trait/Misfortune|Misfortune]]'
-trigger: null
-type: Spell
+source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
 
 ---
 # Ill Omen<span class="item-type">Spell 1</span>

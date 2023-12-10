@@ -1,10 +1,7 @@
 ﻿---
 ac: '40'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+8'
-climb_speed: null
 constitution: '+9'
 creature_ability:
 - Captive Rake
@@ -14,15 +11,10 @@ creature_ability:
 - Truth Vulnerability
 - ''
 - Twisted Desires
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+32'
-hardness: null
 hp: '380'
 id: '2138'
-immunity: null
 intelligence: '+4'
 land_speed: '35'
 language:
@@ -38,9 +30,6 @@ name: Kimilekki
 perception: '+30'
 rarity: Unique
 reflex: '+25'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/spell/True Seeing|true seeing]]'
@@ -72,7 +61,6 @@ strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Demon|Demon]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

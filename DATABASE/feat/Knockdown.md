@@ -1,24 +1,16 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Knockdown
-frequency: null
-heighten_level: null
 id: '372'
+leads_to: '[[DATABASE/feat/Improved Knockdown|Improved Knockdown]]'
 level: '4'
 name: Knockdown
 prerequisite: Trained in [[DATABASE/skill/Athletics|Athletics]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fighter|Fighter]]'
 - '[[DATABASE/trait/Flourish|Flourish]]'
-trigger: null
 type: Feat
 
 ---

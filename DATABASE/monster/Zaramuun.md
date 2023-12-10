@@ -1,10 +1,8 @@
 ﻿---
 ac: '39'
 alignment: CE
-all_resistance: null
 burrow_speed: '35'
 charisma: '-1'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Attack of Opportunity
@@ -13,12 +11,9 @@ creature_ability:
 - Raking Sand
 - Sand Glide
 - Sandblast
-creature_family: null
 dexterity: '+5'
 element: Earth
-fly_speed: null
 fortitude: '+34'
-hardness: null
 hp: '291'
 id: '422'
 immunity:
@@ -36,9 +31,6 @@ name: Zaramuun
 perception: '+30'
 rarity: Common
 reflex: '+30'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - tremorsense 60 feet
@@ -60,7 +52,6 @@ strength: '+9'
 strength_req: '9'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Elemental|Elemental]]'
@@ -68,7 +59,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+25'
 wisdom: '+5'
 

@@ -1,23 +1,15 @@
 ﻿---
 ac: '18'
-burrow_speed: null
-climb_speed: null
-fly_speed: null
 fortitude: '+12'
 hardness: '10'
 hp: '80'
 id: '38'
 item_category: Vehicles
-land_speed: null
 level: '5'
 max_speed: '20'
 name: Bathysphere
 price: 480 gp
 rarity: Uncommon
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 size: Large
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
 swim_speed: '20'

@@ -1,10 +1,7 @@
 ﻿---
 ac: '33'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Deluge Vision
@@ -14,15 +11,10 @@ creature_ability:
 - Soaking Strike
 - Standing
 - Water
-creature_family: null
 dexterity: '+7'
-element: null
-fly_speed: null
 fortitude: '+20'
-hardness: null
 hp: '201'
 id: '1660'
-immunity: null
 intelligence: '+3'
 land_speed: '40'
 language:
@@ -37,8 +29,6 @@ rarity: Uncommon
 reflex: '+25'
 resistance:
 - '[[DATABASE/trait/Fire|fire]] 10'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
@@ -66,7 +56,6 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

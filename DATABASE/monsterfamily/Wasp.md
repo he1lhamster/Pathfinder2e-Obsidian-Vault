@@ -3,9 +3,7 @@ creature_family: Wasp
 id: '99'
 name: Wasp
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
-trait: null
 type: Creature Family
 
 ---

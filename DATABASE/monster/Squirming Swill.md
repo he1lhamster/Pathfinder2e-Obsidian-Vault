@@ -1,22 +1,15 @@
 ﻿---
 ac: '17'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '-4'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Magical Broth
 - Malodorous Smoke
 - Motion Sense
 - Slippery Grease
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+11'
-hardness: null
 hp: 28 ( negative healing )
 id: '1324'
 immunity:
@@ -28,7 +21,6 @@ immunity:
 - '[[DATABASE/trait/Visual|visual]]'
 intelligence: '-5'
 land_speed: '20'
-language: null
 level: '2'
 max_speed: '20'
 name: Squirming Swill
@@ -37,8 +29,6 @@ rarity: Common
 reflex: '+9'
 resistance:
 - fire 2
-rus_type_level: null
-school: null
 sense:
 - motion sense 60 feet
 - no vision
@@ -50,7 +40,6 @@ source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 20 feet
 - swim 15 feet
-spell: null
 strength: '-1'
 strength_req: '-1'
 strongest_save:
@@ -59,10 +48,8 @@ swim_speed: '15'
 trait:
 - '[[DATABASE/trait/Undead|Undead]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+6'
 wisdom: '+0'
 

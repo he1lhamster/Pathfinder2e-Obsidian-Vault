@@ -1,10 +1,7 @@
 ﻿---
 ac: '14'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Breach Vulnerability
@@ -12,12 +9,8 @@ creature_ability:
 - Flurry of Pods
 - Out You Go
 - Transparent
-creature_family: null
 dexterity: '-5'
-element: null
-fly_speed: null
 fortitude: '+18'
-hardness: null
 hp: '220'
 id: '1312'
 immunity:
@@ -29,16 +22,12 @@ immunity:
 - '[[DATABASE/trait/Visual|visual]]'
 intelligence: '-5'
 land_speed: '10'
-language: null
 level: '7'
 max_speed: '10'
 name: Slithering Pit
 perception: '+9'
 rarity: Rare
 reflex: '+6'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - no vision
 - '[[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) 60 feet'
@@ -49,21 +38,17 @@ skill:
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 10 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Mindless|Mindless]]'
 - '[[DATABASE/trait/Ooze|Ooze]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+11'
 wisdom: '+0'
 

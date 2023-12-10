@@ -1,8 +1,5 @@
 ﻿---
 ac: '23'
-burrow_speed: null
-climb_speed: null
-fly_speed: null
 fortitude: '+19'
 hardness: '15'
 hp: '130'
@@ -14,13 +11,8 @@ max_speed: '50'
 name: Speedster
 price: 2,900 gp
 rarity: Rare
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 size: Large
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Vehicle

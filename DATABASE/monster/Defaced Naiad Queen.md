@@ -1,10 +1,7 @@
 ﻿---
 ac: '38'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+8'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Agonized Wail
@@ -12,15 +9,11 @@ creature_ability:
 - Nymph's Tragedy
 - Shame
 - Tortuous Touch
-creature_family: null
 dexterity: '+7'
 element: Water
-fly_speed: null
 fortitude: '+27'
-hardness: null
 hp: '230'
 id: '2371'
-immunity: null
 intelligence: '+4'
 land_speed: '30'
 language:
@@ -33,9 +26,6 @@ name: Defaced Naiad Queen
 perception: '+28'
 rarity: Rare
 reflex: '+30'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 size: Medium
@@ -82,7 +72,6 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Amphibious|Amphibious]]'
 - '[[DATABASE/trait/Fey|Fey]]'

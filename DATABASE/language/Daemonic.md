@@ -2,7 +2,6 @@
 id: '31'
 name: Daemonic
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

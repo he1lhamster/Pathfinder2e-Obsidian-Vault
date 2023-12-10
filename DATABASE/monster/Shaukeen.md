@@ -1,20 +1,14 @@
 ﻿---
 ac: '16'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Change Shape
 - Fire Jackal Saliva
 creature_family: '[[DATABASE/monsterfamily/Asura|Asura]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+4'
-hardness: null
 hp: '22'
 id: '1069'
 immunity:
@@ -31,9 +25,6 @@ name: Shaukeen
 perception: '+8'
 rarity: Common
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Tiny
@@ -57,7 +48,6 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Asura|Asura]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

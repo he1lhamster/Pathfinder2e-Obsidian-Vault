@@ -1,24 +1,15 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Cloak of Poison
 frequency: once per day
-heighten_level: null
 id: '2398'
 level: '13'
 name: Cloak of Poison
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Leshy|Leshy]]'
 - '[[DATABASE/trait/Poison|Poison]]'
-trigger: null
 type: Feat
 
 ---

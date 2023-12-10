@@ -1,24 +1,17 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Exorcist Dedication
-frequency: null
-heighten_level: null
 id: '3454'
+leads_to: '[[DATABASE/feat/Cast Out|Cast Out]] , [[DATABASE/feat/Enticing Dwelling|Enticing
+  Dwelling]] , [[DATABASE/feat/Spirit''s Absolution|Spirit''s Absolution]] , [[DATABASE/feat/Spirit''s
+  Anguish|Spirit''s Anguish]]'
 level: '4'
 name: Exorcist Dedication
 prerequisite: Trained in [[DATABASE/skill/Occultism|Occultism]] or Trained in [[DATABASE/skill/Religion|Religion]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
-trigger: null
 type: Feat
 
 ---

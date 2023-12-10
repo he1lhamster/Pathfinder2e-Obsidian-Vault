@@ -1,21 +1,14 @@
 ﻿---
 ac: '37'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Axe Vulnerability
 - Electric Healing
 - Sunder Objects
-creature_family: null
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+28'
-hardness: null
 hp: '370'
 id: '2351'
 immunity:
@@ -35,8 +28,6 @@ resistance:
 - bludgeoning 15
 - fire 15
 - piercing 15
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Huge
@@ -55,7 +46,6 @@ strength: '+9'
 strength_req: '9'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Plant|Plant]]'
 - '[[DATABASE/trait/Rare|Rare]]'

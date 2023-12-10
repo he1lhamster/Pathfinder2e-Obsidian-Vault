@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Breath Control|Breath Control]]'
 id: '380'
 name: Fire Warden
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]]'
 - Plane of Fire [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

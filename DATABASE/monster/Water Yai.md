@@ -1,10 +1,7 @@
 ﻿---
 ac: '40'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Attack of Opportunity
@@ -16,7 +13,6 @@ dexterity: '+6'
 element: Water
 fly_speed: '40'
 fortitude: '+27'
-hardness: null
 hp: '295'
 id: '749'
 immunity:
@@ -32,9 +28,6 @@ name: Water Yai
 perception: '+32'
 rarity: Common
 reflex: '+29'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 size: Huge
@@ -75,7 +68,6 @@ type: Creature
 vision: Greater darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+34'
 wisdom: '+9'
 

@@ -1,23 +1,16 @@
 ﻿---
 ac: '27'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Morphic Weapon
 - Peerless Duplicate
 - Serpentfolk Venom
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+14'
 hp: '150'
 id: '1640'
-immunity: null
 intelligence: '+5'
 land_speed: '25'
 language:
@@ -34,7 +27,6 @@ rarity: Unique
 reflex: '+17'
 resistance:
 - '[[DATABASE/trait/Poison|poison]] 10'
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -81,7 +73,6 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Mutant|Mutant]]'
@@ -91,7 +82,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+20'
 wisdom: '+4'
 

@@ -1,10 +1,8 @@
 ﻿---
 ac: '39'
 alignment: CG
-all_resistance: null
 burrow_speed: '40'
 charisma: '+5'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Breath Weapon
@@ -19,7 +17,6 @@ dexterity: '+5'
 element: Fire
 fly_speed: '150'
 fortitude: '+30'
-hardness: null
 hp: '325'
 id: '144'
 immunity:
@@ -43,9 +40,6 @@ name: Ancient Brass Dragon
 perception: '+30'
 rarity: Uncommon
 reflex: '+29'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - scent (imprecise) 60 feet
@@ -69,7 +63,6 @@ strength_req: '7'
 strongest_save:
 - Fortitude
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dragon|Dragon]]'
 - '[[DATABASE/trait/Fire|Fire]]'
@@ -78,7 +71,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+30'
 wisdom: '+4'
 

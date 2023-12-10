@@ -1,10 +1,7 @@
 ﻿---
 ac: '14'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Accord Essence
@@ -15,9 +12,7 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Elemental, Wisp|Elemental, Wisp]]'
 dexterity: '+2'
 element: Water
-fly_speed: null
 fortitude: '+8'
-hardness: null
 hp: '20'
 id: '1145'
 immunity:
@@ -37,8 +32,6 @@ rarity: Common
 reflex: '+4'
 resistance:
 - fire 2
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - mist vision
@@ -51,7 +44,6 @@ source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 25 feet
 - swim 25 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
@@ -65,7 +57,6 @@ vision: Darkvision
 weakest_save:
 - Reflex
 - Will
-weakness: null
 will: '+4'
 wisdom: '+2'
 

@@ -5,10 +5,7 @@ frequency: once per minute
 id: '59'
 name: Steam Screen
 rarity: Common
-requirement: null
-rus_type_level: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
-trait: null
 type: Familiar Ability
 
 ---

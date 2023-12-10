@@ -1,10 +1,9 @@
-﻿---
+---
 id: '124'
 level: '2'
 name: Gray Gardener
 prerequisite: Trained in [[DATABASE/skill/Deception|Deception]]
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Night of the Gray Death|Night of the Gray Death]]'
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
@@ -18,10 +17,6 @@ type: Archetype
  The Gray Gardeners are the remorseless executioners of Galt. Prior to the events of the adventure, the Gray Gardeners are at best sinister (when not actively pursuing evil) as a malevolent monster controls their organization. After the events of Night of the Gray Death, the organization is broken—leadership is in disarray while the rank-and-file members labor to enforce laws and recapture escaped criminals. The Gray Gardeners still command the respect of Galt's people, however, as their brutal reputation is indelibly etched in the public consciousness over the last fifty years. 
  The following is suitable for heroes to take after the events of _Night of the Gray Death_. You might be a member of the old organization who tried to uphold order despite vindictive directives from above, or you might be someone who recently donned a mask to enforce the law in Galt's new age. Either way, as a Gray Gardener you draw power and authority from being masked and have a reputation for dispassionate justice. 
  Your vigilante identity is that of a Gray Gardener, and you must be wearing a mask to use any of your vigilante feats or you risk exposing your social identity, as described in the [[DATABASE/archetype/Vigilante|vigilante archetype]].
-
-### Vigilante Archetype
-
-The Gray Gardener is accessed using the [[DATABASE/feat/Vigilante Dedication|Vigilante Dedication]] feat, along with membership in the Gray Gardeners. Due to this unique membership, the Archives of Nethys is displaying the Gray Gardener specific feats on its own page.
 
 # Additional Feats
 

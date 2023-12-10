@@ -3,9 +3,7 @@ creature_family: Elephant
 id: '46'
 name: Elephant
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
-trait: null
 type: Creature Family
 
 ---

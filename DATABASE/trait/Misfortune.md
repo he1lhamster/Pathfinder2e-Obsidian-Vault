@@ -2,7 +2,6 @@
 id: '110'
 name: Misfortune
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - Misfortune

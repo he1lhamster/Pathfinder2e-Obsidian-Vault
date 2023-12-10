@@ -1,7 +1,5 @@
 ﻿---
-advanced_apocryphal_spell: null
 advanced_domain_spell: '[[DATABASE/spell/Ordained Purpose|Ordained Purpose]]'
-apocryphal_spell: null
 deity:
 - '[[DATABASE/deity/Ravithra|Ravithra]]'
 domain:
@@ -10,10 +8,8 @@ domain_spell: '[[DATABASE/spell/Split the Tongue|Split the Tongue]]'
 id: '58'
 name: Naga Domain
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 161. Belly of the Black Whale|Pathfinder #161:
   Belly of the Black Whale]]'
-trait: null
 type: Domain
 
 ---

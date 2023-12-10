@@ -1,22 +1,15 @@
 ﻿---
 ac: '42'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+9'
 creature_ability:
 - Channel Dragonstorm
 - Destructive Strikes
 - Dragonstorm Strike
 - Vulnerable to Dispelling
-creature_family: null
 dexterity: '+7'
-element: null
-fly_speed: null
 fortitude: '+33'
-hardness: null
 hp: '255'
 id: '1586'
 immunity:
@@ -36,7 +29,6 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '30'
-language: null
 level: '18'
 max_speed: '30'
 name: Animated Dragonstorms
@@ -49,8 +41,6 @@ resistance:
 - '[[DATABASE/trait/Electricity|electricity]] 15'
 - '[[DATABASE/trait/Fire|fire]] 15'
 - physical 15
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Huge
@@ -60,12 +50,10 @@ source: '[[DATABASE/source/Pathfinder 150. Broken Promises|Pathfinder #150: Brok
   Promises]]'
 speed:
 - 30 feet
-spell: null
 strength: '+9'
 strength_req: '9'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Mindless|Mindless]]'

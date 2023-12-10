@@ -1,24 +1,17 @@
 ﻿---
 ac: '28'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Attack of Opportunity
 - Power Attack
 - Sharp Eyes
 - Swipe
-creature_family: null
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+14'
 hp: '122'
 id: '2023'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -29,8 +22,6 @@ name: Darricus Stallit
 perception: '+17'
 rarity: Unique
 reflex: '+15'
-resistance: null
-rus_type_level: null
 sense:
 - sharp eyes
 size: Medium
@@ -45,22 +36,18 @@ source: '[[DATABASE/source/Pathfinder 152. Legacy of the Lost God|Pathfinder #15
   Legacy of the Lost God]]'
 speed:
 - 25 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Reflex
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+15'
 wisdom: '+3'
 

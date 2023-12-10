@@ -1,22 +1,16 @@
 ﻿---
 ac: '13'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Cite Precedent
 - Sway the Judge and Jury
 creature_family: '[[DATABASE/monsterfamily/Officers|Officers]]'
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+3'
 hp: '8'
 id: '932'
-immunity: null
 intelligence: '+3'
 land_speed: '25'
 language:
@@ -27,9 +21,6 @@ name: Barrister
 perception: '+6'
 rarity: Common
 reflex: '+3'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Deception|Deception]] +10'
@@ -40,21 +31,17 @@ skill:
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 speed:
 - 25 feet
-spell: null
 strength: '+0'
 strength_req: '0'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
 - Reflex
-weakness: null
 will: '+12'
 wisdom: '+2'
 

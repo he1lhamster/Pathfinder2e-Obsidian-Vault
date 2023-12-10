@@ -1,23 +1,16 @@
 ﻿---
 ac: '21'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Focus Hatred
 - Sneak Attack
 - Trackless Step
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+15'
 hp: '80'
 id: '2231'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -30,8 +23,6 @@ rarity: Unique
 reflex: '+11'
 resistance:
 - '[[DATABASE/trait/Mental|mental]] 5'
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +13'
@@ -40,21 +31,17 @@ skill:
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 speed:
 - 25 feet; trackless step
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+9'
 wisdom: '+0'
 

@@ -1,22 +1,15 @@
 ﻿---
 ac: '16'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Bark Command
 - False Retreat
-creature_family: null
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+10'
 hp: '56'
 id: '2167'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -28,8 +21,6 @@ name: Lekmek
 perception: '+8'
 rarity: Unique
 reflex: '+7'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -42,12 +33,10 @@ skill:
 source: '[[DATABASE/source/Crown of the Kobold King|Crown of the Kobold King]]'
 speed:
 - 25 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Kobold|Kobold]]'
@@ -56,7 +45,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+8'
 wisdom: '+1'
 

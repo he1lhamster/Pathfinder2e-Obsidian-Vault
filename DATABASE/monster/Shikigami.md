@@ -1,19 +1,13 @@
 ﻿---
 ac: '15'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Ward
 creature_family: '[[DATABASE/monsterfamily/Kami|Kami]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+7'
-hardness: null
 hp: '25'
 id: '1201'
 immunity:
@@ -28,9 +22,6 @@ name: Shikigami
 perception: '+10'
 rarity: Common
 reflex: '+5'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Tiny
@@ -52,7 +43,6 @@ strength: '+2'
 strength_req: '2'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Kami|Kami]]'
 - '[[DATABASE/trait/Spirit|Spirit]]'

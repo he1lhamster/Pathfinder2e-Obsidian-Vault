@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Deeper Dabbler
-frequency: null
-heighten_level: null
 id: '2081'
 level: '8'
 name: Deeper Dabbler
 prerequisite: '[[DATABASE/feat/Talisman Dabbler Dedication|Talisman Dabbler Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

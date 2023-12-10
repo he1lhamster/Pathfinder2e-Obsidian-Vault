@@ -1,22 +1,15 @@
 ﻿---
 ac: '27'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Demon Touched
 - Fiendish Infusion
 - Intuit Object
 - Light Blindness
-creature_family: null
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+17'
-hardness: null
 hp: '155'
 id: '2716'
 immunity:
@@ -42,8 +35,6 @@ resistance:
 - '[[DATABASE/trait/Fire|fire]] 5'
 - '[[DATABASE/trait/Mental|mental]] 9'
 - '[[DATABASE/trait/Poison|poison]] 5'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -58,12 +49,10 @@ source: '[[DATABASE/source/Pathfinder 195. Heavy is the Crown|Pathfinder #195: H
   is the Crown]]'
 speed:
 - 25 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Munavri|Munavri]]'

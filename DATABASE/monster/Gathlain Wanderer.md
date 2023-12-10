@@ -1,10 +1,7 @@
 ﻿---
 ac: '17'
 alignment: CG
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Final Jape
@@ -12,13 +9,10 @@ creature_ability:
 - Rootbound
 creature_family: '[[DATABASE/monsterfamily/Gathlain|Gathlain]]'
 dexterity: '+4'
-element: null
 fly_speed: '30'
 fortitude: '+5'
-hardness: null
 hp: '14'
 id: '1163'
-immunity: null
 intelligence: '+0'
 land_speed: '20'
 language:
@@ -30,9 +24,6 @@ name: Gathlain Wanderer
 perception: '+6'
 rarity: Uncommon
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Small
@@ -49,12 +40,10 @@ source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 20 feet
 - fly 30 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Plant|Plant]]'

@@ -1,23 +1,14 @@
 ﻿---
 actions: '[three-actions]'
-cost: null
-element: null
 feat: Gnaw
-frequency: null
-heighten_level: null
 id: '2427'
 level: '5'
 name: Gnaw
 prerequisite: '[[DATABASE/feat/Vicious Incisors|Vicious Incisors]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Ratfolk|Ratfolk]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,21 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Reminder of the Greater Fear
-frequency: null
-heighten_level: null
 id: '3336'
 level: '8'
 name: Reminder of the Greater Fear
 prerequisite: Master in [[DATABASE/skill/Intimidation|Intimidation]] ; [[DATABASE/feat/Vigilante
   Dedication|Vigilante Dedication]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Night of the Gray Death|Night of the Gray Death]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Vigilante|Vigilante]]'

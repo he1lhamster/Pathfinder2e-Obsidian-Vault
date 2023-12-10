@@ -1,20 +1,12 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Healer's Halo
-frequency: null
-heighten_level: null
 id: '2287'
 level: '5'
 name: Healer's Halo
 prerequisite: '[[DATABASE/feat/Halo|Halo]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Aasimar|Aasimar]]'
 trigger: You or allies within 30 feet recover Hit Points while your halo is active.

@@ -1,8 +1,6 @@
 ﻿---
 ac: '24'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
 climb_speed: '15'
 constitution: '+3'
@@ -10,27 +8,19 @@ creature_ability:
 - Anticoagulant
 - Perfect Camouflage
 - Snatch Skull
-creature_family: null
 dexterity: '+4'
-element: null
 fly_speed: '10'
 fortitude: '+13'
-hardness: null
 hp: '75'
 id: '1306'
-immunity: null
 intelligence: '-3'
 land_speed: '20'
-language: null
 level: '6'
 max_speed: '20'
 name: Skull Peeler
 perception: '+17'
 rarity: Common
 reflex: '+16'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Small
@@ -43,19 +33,16 @@ speed:
 - 20 feet
 - climb 15 feet
 - fly 10 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+11'
 wisdom: '+3'
 

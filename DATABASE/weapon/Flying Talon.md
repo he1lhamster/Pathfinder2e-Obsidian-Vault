@@ -1,8 +1,6 @@
 ﻿---
 bulk: '1'
 damage: 1d4 P
-deity: null
-favored_weapon: null
 hands: '1'
 id: '255'
 item_category: Weapons
@@ -10,9 +8,7 @@ item_subcategory: Base Weapons
 level: '1'
 name: Flying Talon
 price: 6 gp
-range: null
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Crown of the Kobold King|Crown of the Kobold King]]'
 trait:
 - '[[DATABASE/trait/Agile|Agile]]'

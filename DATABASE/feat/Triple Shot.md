@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Triple Shot
-frequency: null
-heighten_level: null
 id: '387'
+leads_to: '[[DATABASE/feat/Multishot Stance|Multishot Stance]]'
 level: '6'
 name: Triple Shot
 prerequisite: '[[DATABASE/feat/Double Shot|Double Shot]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fighter|Fighter]]'
-trigger: null
 type: Feat
 
 ---

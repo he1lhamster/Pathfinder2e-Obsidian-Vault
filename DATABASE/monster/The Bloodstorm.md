@@ -1,8 +1,6 @@
 ﻿---
 ac: '35'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
 climb_speed: '40'
 constitution: '+4'
@@ -12,12 +10,9 @@ creature_ability:
 - Bloodsense
 - Demon Shape
 - Feeding Frenzy
-creature_family: null
 dexterity: '+6'
-element: null
 fly_speed: '15'
 fortitude: '+22'
-hardness: null
 hp: '250'
 id: '2598'
 immunity:
@@ -35,8 +30,6 @@ rarity: Unique
 reflex: '+28'
 resistance:
 - physical 15
-rus_type_level: null
-school: null
 sense:
 - bloodsense (precise) 120 feet
 - '[[DATABASE/monsterability/Tremorsense|tremorsense]] (precise) 60 feet'
@@ -49,18 +42,15 @@ speed:
 - 40 feet
 - climb 40 feet
 - fly 15 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Demon|Demon]]'
 - '[[DATABASE/trait/Swarm|Swarm]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
 weakness:

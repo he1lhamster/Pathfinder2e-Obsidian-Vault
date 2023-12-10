@@ -1,8 +1,6 @@
 ﻿---
 bulk: '1'
 damage: 1d8 B
-deity: null
-favored_weapon: null
 hands: '1'
 id: '262'
 item_category: Weapons
@@ -10,9 +8,7 @@ item_subcategory: Base Weapons
 level: '0'
 name: Gada
 price: 1 gp
-range: null
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 trait:
 - '[[DATABASE/trait/Backswing|Backswing]]'

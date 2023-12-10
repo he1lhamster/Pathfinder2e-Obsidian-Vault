@@ -1,55 +1,21 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
 base_item: '[[DATABASE/weapon/Spiked Gauntlet|Spiked Gauntlet]]'
 bulk: L
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
 element: Fire
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '2608'
 item_category: Weapons
 item_subcategory: Specific Magic Weapons
-land_speed: null
-level: '18'
-max_speed: null
+level: '11'
 name: Scalding Gauntlets
-onset: null
-price: 20,000 gp
-range: null
+price: 1,300 gp
 rarity: Common
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
-school: null
-size: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-spell: null
-stage: null
-subcategory: null
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fire|Fire]]'
 - '[[DATABASE/trait/Invested|Invested]]'
 - '[[DATABASE/trait/Magical|Magical]]'
-trigger: null
 type: Item
 usage: worn gloves
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Scalding Gauntlets<span class="item-type">Item 11+</span>

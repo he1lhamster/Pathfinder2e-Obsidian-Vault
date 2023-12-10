@@ -1,22 +1,15 @@
 ﻿---
 ac: '36'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Bolster Dead
 - Drain Bonded Item
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+25'
 hp: 215 ( negative healing )
 id: '2429'
-immunity: null
 intelligence: '+5'
 land_speed: '25'
 language:
@@ -28,9 +21,6 @@ name: Rival Necromancer
 perception: '+28'
 rarity: Uncommon
 reflex: '+25'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Arcana|Arcana]] +32'
@@ -78,17 +68,14 @@ strength: '+1'
 strength_req: '1'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
 - Reflex
-weakness: null
 will: '+30'
 wisdom: '+4'
 

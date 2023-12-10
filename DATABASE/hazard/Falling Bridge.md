@@ -1,10 +1,7 @@
 ﻿---
 ac: '10'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+1'
-hardness: null
 hazard_type: Trap
 hp: 6 (BT 3)
 id: '352'
@@ -16,17 +13,12 @@ level: '3'
 name: Falling Bridge
 rarity: Common
 reflex: '+1'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 187. The Seventh Arch|Pathfinder #187: The Seventh
   Arch]]'
 trait:
 - '[[DATABASE/trait/Mechanical|Mechanical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Falling Bridge<span class="item-type">Hazard 3</span>

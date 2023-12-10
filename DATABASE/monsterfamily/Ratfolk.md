@@ -3,9 +3,7 @@ creature_family: Ratfolk
 id: '105'
 name: Ratfolk
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
-trait: null
 type: Creature Family
 
 ---

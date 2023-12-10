@@ -4,7 +4,6 @@ level: '2'
 name: Cathartic Mage
 prerequisite: Charisma 14 or ability to cast spells from spell slots
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

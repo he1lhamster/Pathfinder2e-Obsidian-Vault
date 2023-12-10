@@ -1,36 +1,24 @@
 ﻿---
 ac: '36'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+8'
 creature_ability:
 - Quaking Stomp
 - Trample
 - Whip Tail
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+29'
-hardness: null
 hp: '170'
 id: '1465'
-immunity: null
 intelligence: '-4'
 land_speed: '30'
-language: null
 level: '15'
 max_speed: '30'
 name: Jaiban
 perception: '+23'
 rarity: Unique
 reflex: '+23'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -44,7 +32,6 @@ source: '[[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #
 speed:
 - 30 feet
 - swim 30 feet
-spell: null
 strength: '+9'
 strength_req: '9'
 strongest_save:
@@ -57,7 +44,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+25'
 wisdom: '+3'
 

@@ -1,20 +1,12 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Gaping Flesh
 frequency: once per day
-heighten_level: null
 id: '2521'
 level: '5'
 name: Gaping Flesh
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fleshwarp|Fleshwarp]]'
 trigger: A creature you are aware of damages you with a melee Strike.

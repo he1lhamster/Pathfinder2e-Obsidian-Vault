@@ -1,10 +1,7 @@
 ﻿---
 ac: '17'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Dancer's Curse
@@ -13,13 +10,9 @@ creature_ability:
 - Sneak Attack
 creature_family: '[[DATABASE/monsterfamily/Caligni|Caligni]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+7'
-hardness: null
 hp: 18 (death flare)
 id: '64'
-immunity: null
 intelligence: '-1'
 land_speed: '25'
 language:
@@ -30,9 +23,6 @@ name: Caligni Dancer
 perception: '+6'
 rarity: Common
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - greater darkvision
 - light blindness
@@ -52,7 +42,6 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Caligni|Caligni]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -60,7 +49,6 @@ type: Creature
 vision: Greater darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+4'
 wisdom: '+1'
 

@@ -1,24 +1,17 @@
 ﻿---
 ac: '26'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Agent of Fate
 - Focus Gaze
 - Portentous Gaze
-creature_family: null
 dexterity: '+5'
-element: null
 fly_speed: '50'
 fortitude: '+13'
-hardness: null
 hp: '90'
 id: '1240'
-immunity: null
 intelligence: '+2'
 land_speed: '25'
 language:
@@ -33,9 +26,6 @@ name: Mothman
 perception: '+15'
 rarity: Rare
 reflex: '+18'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -66,7 +56,6 @@ strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Rare|Rare]]'
@@ -74,7 +63,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+15'
 wisdom: '+4'
 

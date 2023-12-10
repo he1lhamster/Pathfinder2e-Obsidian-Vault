@@ -1,23 +1,16 @@
 ﻿---
 ac: '24'
 alignment: NG
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Attack of Opportunity
 - Formation Fighter
 - Intimidating Strike
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+20'
 hp: 155 (currently 50)
 id: '2315'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -28,9 +21,6 @@ name: Terrion Numesti
 perception: '+18'
 rarity: Unique
 reflex: '+16'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +20'
@@ -38,21 +28,17 @@ skill:
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 speed:
 - 25 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+18'
 wisdom: '+2'
 

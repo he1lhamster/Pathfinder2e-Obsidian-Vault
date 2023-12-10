@@ -1,23 +1,15 @@
 ﻿---
 ac: '13'
-burrow_speed: null
-climb_speed: null
-fly_speed: null
 fortitude: '+8'
 hardness: '5'
 hp: '30'
 id: '19'
 item_category: Vehicles
-land_speed: null
 level: '2'
 max_speed: '15'
 name: Adaptable Paddleboat
 price: 110 gp
 rarity: Uncommon
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 size: Medium
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 swim_speed: '15'

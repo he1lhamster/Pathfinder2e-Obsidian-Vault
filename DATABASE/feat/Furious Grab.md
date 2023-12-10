@@ -1,25 +1,16 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Furious Grab
-frequency: null
-heighten_level: null
 id: '163'
 level: '12'
 name: Furious Grab
-prerequisite: null
 rarity: Common
 requirement: Your last action was a successful Strike, and either you have a hand
   free or your Strike used agrapple weapon.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Barbarian|Barbarian]]'
 - '[[DATABASE/trait/Rage|Rage]]'
-trigger: null
 type: Feat
 
 ---

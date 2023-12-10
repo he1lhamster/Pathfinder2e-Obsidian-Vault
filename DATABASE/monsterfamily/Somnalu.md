@@ -3,9 +3,7 @@ creature_family: Somnalu
 id: '299'
 name: Somnalu
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Monsters of Myth|Monsters of Myth]]'
-trait: null
 type: Creature Family
 
 ---

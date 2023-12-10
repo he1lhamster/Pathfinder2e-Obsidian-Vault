@@ -1,12 +1,8 @@
 ﻿---
-element: null
 id: '57'
 item_category: Relics
 name: Sprout Ally
-prerequisite: null
 rarity: Common
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
 - '[[DATABASE/trait/Plant|Plant]]'

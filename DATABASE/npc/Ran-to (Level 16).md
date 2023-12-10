@@ -1,10 +1,7 @@
 ﻿---
 ac: '38'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Attack of Opportunity
@@ -12,14 +9,10 @@ creature_ability:
 - Greater Leaping Catch
 - Titan Wrestler
 - Whirlwind Toss
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+30'
 hp: '380'
 id: '1495'
-immunity: null
 intelligence: '-1'
 land_speed: '25'
 language:
@@ -33,8 +26,6 @@ name: Ran-to (Level 16)
 perception: '+23'
 rarity: Unique
 reflex: '+26'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -47,12 +38,10 @@ skill:
 source: '[[DATABASE/source/Pathfinder 167. Ready Fight!|Pathfinder #167: Ready? Fight!]]'
 speed:
 - 25 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Goblin|Goblin]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -61,7 +50,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+23'
 wisdom: '+1'
 

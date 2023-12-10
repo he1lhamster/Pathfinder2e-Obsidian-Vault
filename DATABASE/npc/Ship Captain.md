@@ -1,10 +1,7 @@
 ﻿---
 ac: '23'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Bravery
@@ -12,12 +9,9 @@ creature_ability:
 - No Quarter!
 creature_family: '[[DATABASE/monsterfamily/Seafarers|Seafarers]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+12'
 hp: '90'
 id: '954'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -28,9 +22,6 @@ name: Ship Captain
 perception: '+12'
 rarity: Common
 reflex: '+12'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +10'
@@ -42,21 +33,17 @@ skill:
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 speed:
 - 25 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
 - Reflex
-weakness: null
 will: '+14'
 wisdom: '+2'
 

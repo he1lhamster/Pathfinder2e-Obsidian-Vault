@@ -1,8 +1,6 @@
 ﻿---
 ac: '31'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+24'
 hardness: '22'
 hazard_type: Environmental
@@ -16,16 +14,11 @@ level: '12'
 name: Pain Milker
 rarity: Common
 reflex: '+18'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 184. The Ghouls Hunger|Pathfinder #184: The
   Ghouls Hunger]]'
 trait:
 - '[[DATABASE/trait/Environmental|Environmental]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Pain Milker<span class="item-type">Hazard 12</span>

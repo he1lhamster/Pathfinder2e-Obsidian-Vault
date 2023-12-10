@@ -1,7 +1,6 @@
 ﻿---
 ac: '43'
 alignment: CE
-all_resistance: null
 burrow_speed: '10'
 charisma: '+6'
 climb_speed: '40'
@@ -13,18 +12,12 @@ creature_ability:
 - Immense Mandragora Venom
 - Vulnerable to
 - Supernatural Darkness
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+34'
-hardness: null
 hp: '400'
 id: '2354'
-immunity: null
 intelligence: '+0'
 land_speed: '40'
-language: null
 level: '20'
 max_speed: '40'
 name: Immense Mandragora
@@ -34,8 +27,6 @@ reflex: '+31'
 resistance:
 - bludgeoning 20
 - electricity 20
-rus_type_level: null
-school: null
 sense:
 - blood scent
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]] Languages Abyssal'
@@ -52,12 +43,10 @@ speed:
 - 40 feet
 - burrow 10 feet
 - climb 40 feet
-spell: null
 strength: '+10'
 strength_req: '10'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Plant|Plant]]'
 - '[[DATABASE/trait/Unique|Unique]]'

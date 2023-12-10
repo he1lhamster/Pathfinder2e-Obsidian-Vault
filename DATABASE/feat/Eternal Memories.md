@@ -1,23 +1,15 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Eternal Memories
 frequency: once per day
-heighten_level: null
 id: '3957'
 level: '13'
 name: Eternal Memories
 prerequisite: '[[DATABASE/feat/Endless Memories|Endless Memories]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Ghoran|Ghoran]]'
-trigger: null
 type: Feat
 
 ---

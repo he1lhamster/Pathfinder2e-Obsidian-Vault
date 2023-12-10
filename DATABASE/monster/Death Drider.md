@@ -1,8 +1,6 @@
 ﻿---
 ac: '34'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
 climb_speed: '30'
 constitution: '+4'
@@ -10,12 +8,8 @@ creature_ability:
 - Death Drider Venom
 - Hungering Web
 - Sack of Spiders
-creature_family: null
 dexterity: '+8'
-element: null
-fly_speed: null
 fortitude: '+24'
-hardness: null
 hp: 235 ( negative healing )
 id: '2130'
 immunity:
@@ -36,9 +30,6 @@ name: Death Drider
 perception: '+24'
 rarity: Uncommon
 reflex: '+26'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -52,12 +43,10 @@ source: '[[DATABASE/source/Pathfinder 155. Lord of the Black Sands|Pathfinder #1
 speed:
 - 30 feet
 - climb 30 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 - '[[DATABASE/trait/Undead|Undead]]'
@@ -65,7 +54,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+23'
 wisdom: '+5'
 

@@ -1,53 +1,14 @@
 ﻿---
-ac: '23'
-actions: null
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: '+19'
-frequency: null
-hands: null
-hardness: '15'
-hp: '130'
+hands: '1'
 id: '31'
-item_category: Vehicles
-item_subcategory: null
-land_speed: '50'
-level: '10'
-max_speed: '50'
+item_category: Adventuring Gear
+level: '3'
 name: Magnifying Glass
-onset: null
-price: 2,900 gp
-range: null
-rarity: Rare
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
-school: null
-size: Large
+price: 40 gp
+rarity: Common
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-spell: null
-stage: null
 subcategory: adventuringgear
-swim_speed: null
-trait:
-- '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
-type: Vehicle
-usage: null
-weapon_category: null
-weapon_group: null
-weapon_type: null
+type: Item
 
 ---
 # Magnifying Glass<span class="item-type">Item 3</span>

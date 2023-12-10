@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Reliable Luck
-frequency: null
-heighten_level: null
 id: '1269'
 level: '17'
 name: Reliable Luck
 prerequisite: '[[DATABASE/feat/Cat''s Luck|Cat''s Luck]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Catfolk|Catfolk]]'
-trigger: null
 type: Feat
 
 ---

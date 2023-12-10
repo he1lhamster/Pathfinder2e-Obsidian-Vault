@@ -5,7 +5,6 @@ ability:
 ability_boost:
 - Constitution
 - Free
-ability_flaw: null
 hp: '10'
 id: '31'
 land_speed: '25'
@@ -14,7 +13,6 @@ language:
 max_speed: '25'
 name: Fleshwarp
 rarity: Rare
-rus_type_level: null
 size: Medium, Small
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 speed:

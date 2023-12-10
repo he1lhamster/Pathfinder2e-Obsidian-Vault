@@ -1,25 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Syu Tak-Nwa's Hexed Locks
-frequency: null
-heighten_level: null
 id: '2691'
 level: '8'
 name: Syu Tak-Nwa's Hexed Locks
 prerequisite: '[[DATABASE/feat/Living Hair|Living Hair]]'
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #166:
   Despair on Danger Island]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 - '[[DATABASE/trait/Witch|Witch]]'
-trigger: null
 type: Feat
 
 ---

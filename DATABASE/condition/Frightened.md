@@ -1,7 +1,6 @@
 ﻿---
 id: '19'
 name: Frightened
-source: null
 
 ---
 # Frightened

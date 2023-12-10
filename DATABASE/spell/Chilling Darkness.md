@@ -1,28 +1,17 @@
 ﻿---
 actions: '[two-actions]'
-area: null
 bloodline: '[[DATABASE/sorcererbloodline/Shadow|Shadow]]'
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
 heighten: '+1'
 heighten_level: 3, 4, 5, 6, 7, 8, 9, 10
 id: '36'
 lesson: '[[DATABASE/witchlesson/Lesson of Shadow|Lesson of Shadow]]'
 level: '3'
-mystery: null
 name: Chilling Darkness
-patron_theme: null
 range: 120 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: 1 creature
@@ -34,7 +23,6 @@ trait:
 - '[[DATABASE/trait/Darkness|Darkness]]'
 - '[[DATABASE/trait/Evil|Evil]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
-trigger: null
 type: Spell
 
 ---

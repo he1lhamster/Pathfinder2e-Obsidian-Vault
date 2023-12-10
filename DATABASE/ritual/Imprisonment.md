@@ -1,9 +1,6 @@
 ﻿---
-area: null
 cost: "reagents to construct the magical prison worth a total value of 800 gp \xD7\
   \ the target\u2019s level"
-duration: null
-element: null
 heighten: 9th, 10th
 heighten_level: 8, 9, 10
 id: '13'
@@ -13,8 +10,6 @@ primary_check: '[[DATABASE/skill/Arcana|Arcana]] (legendary) or [[DATABASE/skill
   (legendary)'
 range: 10 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Evocation
 secondary_casters: '6'
 secondary_check: '[[DATABASE/skill/Crafting|Crafting]] , [[DATABASE/skill/Society|Society]]'

@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Bloodletting Fangs
-frequency: null
-heighten_level: null
 id: '1344'
 level: '9'
 name: Bloodletting Fangs
 prerequisite: fangs unarmed attack
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Dhampir|Dhampir]]'
-trigger: null
 type: Feat
 
 ---

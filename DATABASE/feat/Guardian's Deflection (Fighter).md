@@ -1,21 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Guardian's Deflection (Fighter)
-frequency: null
-heighten_level: null
 id: '382'
 level: '6'
 name: Guardian's Deflection (Fighter)
-prerequisite: null
 rarity: Common
 requirement: You are wielding a single one-handed melee weapon and have your other
   hand or hands free.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fighter|Fighter]]'
 trigger: An ally within your melee reach is hit by an attack, you can see the attacker,

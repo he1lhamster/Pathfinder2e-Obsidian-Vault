@@ -1,33 +1,22 @@
 ﻿---
 actions: '[three-actions]'
 area: 20-foot burst
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 1 minute
 element: Fire
-heighten: null
 heighten_level: '5'
 id: '1102'
-lesson: null
 level: '5'
-mystery: null
 name: Incendiary Fog
-patron_theme: null
 range: 120 feet
 rarity: Rare
-requirement: null
-rus_type_level: null
 saving_throw: see below
 school: Conjuration
 source: '[[DATABASE/source/Pathfinder 177. Burning Tundra|Pathfinder #177: Burning
   Tundra]]'
-target: null
 tradition:
 - Arcane
 - Primal
@@ -35,7 +24,6 @@ trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Fire|Fire]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Spell
 
 ---

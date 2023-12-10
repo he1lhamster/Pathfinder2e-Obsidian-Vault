@@ -1,26 +1,20 @@
 ﻿---
 actions: '[one-action]'
 cost: 1 spirit wisp or spirit remnant from yourspirit dwelling
-element: null
 feat: Spirit's Absolution
-frequency: null
-heighten_level: null
 id: '3456'
 level: '6'
 name: Spirit's Absolution
 prerequisite: '[[DATABASE/feat/Exorcist Dedication|Exorcist Dedication]]'
 rarity: Common
 requirement: You are holding yourspirit dwelling.
-rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Healing|Healing]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Positive|Positive]]'
-trigger: null
 type: Feat
 
 ---

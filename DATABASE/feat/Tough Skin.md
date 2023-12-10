@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Tough Skin
-frequency: null
-heighten_level: null
 id: '3969'
 level: '1'
 name: Tough Skin
 prerequisite: '[[DATABASE/heritage/Lethoci|Lethoci]] heritage or [[DATABASE/heritage/Xyloshi|Xyloshi]]
   heritage'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Kashrishi|Kashrishi]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,10 +1,7 @@
 ﻿---
 ac: '45'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+10'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Beckoning Dance
@@ -12,15 +9,11 @@ creature_ability:
 - Entangling Hair
 - Sinuous Initiative
 - Waving Hair
-creature_family: null
 dexterity: '+10'
 element: Water
-fly_speed: null
 fortitude: '+28'
-hardness: null
 hp: '410'
 id: '1643'
-immunity: null
 intelligence: '+3'
 land_speed: '25'
 language:
@@ -35,8 +28,6 @@ rarity: Rare
 reflex: '+37'
 resistance:
 - fire 20
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/spell/True Seeing|true seeing]]'

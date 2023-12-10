@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Elemental Shape
-frequency: null
-heighten_level: null
 id: '335'
+leads_to: '[[DATABASE/feat/Reactive Transformation|Reactive Transformation]]'
 level: '10'
 name: Elemental Shape
 prerequisite: '[[DATABASE/feat/Wild Shape|Wild Shape]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Druid|Druid]]'
-trigger: null
 type: Feat
 
 ---

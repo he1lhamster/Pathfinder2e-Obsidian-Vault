@@ -1,25 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Stalwart Standard
-frequency: null
-heighten_level: null
 id: '3620'
 level: '10'
 name: Stalwart Standard
 prerequisite: '[[DATABASE/feat/Cavalier''s Banner|Cavalier''s Banner]] ; [[DATABASE/feat/Knight
   Vigilant|Knight Vigilant]]'
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

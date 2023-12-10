@@ -1,22 +1,14 @@
 ﻿---
 ac: '21'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Sudden Stormburst
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+13'
-hardness: null
 hp: '95'
 id: '2290'
-immunity: null
 intelligence: '+0'
 land_speed: '30'
 language:
@@ -31,8 +23,6 @@ rarity: Unique
 reflex: '+13'
 resistance:
 - electricity 5
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -63,7 +53,6 @@ strength_req: '3'
 strongest_save:
 - Fortitude
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Giant|Giant]]'
 - '[[DATABASE/trait/Troll|Troll]]'

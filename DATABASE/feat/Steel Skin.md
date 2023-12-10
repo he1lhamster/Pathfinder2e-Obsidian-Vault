@@ -1,25 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Steel Skin
-frequency: null
-heighten_level: null
 id: '2063'
 level: '4'
 name: Steel Skin
 prerequisite: Trained in [[DATABASE/skill/Survival|Survival]] ; [[DATABASE/feat/Sentinel
   Dedication|Sentinel Dedication]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

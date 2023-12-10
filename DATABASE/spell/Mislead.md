@@ -1,11 +1,9 @@
 ﻿---
 actions: '[two-actions]'
-area: null
 bloodline: '[[DATABASE/sorcererbloodline/Fey|Fey]]'
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Asmodeus|Asmodeus]]'
 - '[[DATABASE/deity/Baalzebul|Baalzebul]]'
@@ -17,31 +15,19 @@ deity:
 - '[[DATABASE/deity/Thamir|Thamir]]'
 - '[[DATABASE/deity/The Freeing Flame|The Freeing Flame]]'
 - '[[DATABASE/deity/Yaezhing|Yaezhing]]'
-domain: null
 duration: sustained up to 1 minute
-element: null
-heighten: null
 heighten_level: '6'
 id: '199'
-lesson: null
 level: '6'
-mystery: null
 name: Mislead
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Illusion
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Arcane
 - Occult
 trait:
 - '[[DATABASE/trait/Illusion|Illusion]]'
-trigger: null
 type: Spell
 
 ---

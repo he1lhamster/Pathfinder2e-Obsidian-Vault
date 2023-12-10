@@ -1,10 +1,7 @@
 ﻿---
 ac: '16'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Aquatic Ambush
@@ -17,13 +14,9 @@ creature_ability:
 - Twisting Thrash
 creature_family: '[[DATABASE/monsterfamily/Werecreature|Werecreature]]'
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+9'
-hardness: null
 hp: '55'
 id: '1367'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -34,9 +27,6 @@ name: Werecrocodile
 perception: '+7'
 rarity: Common
 reflex: '+5'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Large
@@ -48,7 +38,6 @@ source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 25 feet
 - swim 25 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:

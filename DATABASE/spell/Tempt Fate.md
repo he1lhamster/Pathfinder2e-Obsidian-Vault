@@ -1,32 +1,19 @@
 ﻿---
 actions: '[reaction]'
-area: null
-bloodline: null
 component:
 - Somatic
-cost: null
-deity: null
 domain:
 - '[[DATABASE/domain/Fate Domain|Fate]]'
-duration: null
-element: null
 heighten: 8th
 heighten_level: 4, 8
 id: '457'
-lesson: null
 level: '4'
-mystery: null
 name: Tempt Fate
-patron_theme: null
 range: 120 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: the triggering creature
-tradition: null
 trait:
 - '[[DATABASE/trait/Cleric|Cleric]]'
 - '[[DATABASE/trait/Divination|Divination]]'

@@ -1,24 +1,16 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Knockback
-frequency: null
-heighten_level: null
 id: '160'
+leads_to: '[[DATABASE/feat/Awesome Blow|Awesome Blow]]'
 level: '10'
 name: Knockback
-prerequisite: null
 rarity: Common
 requirement: Your last action was a successful Strike.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Barbarian|Barbarian]]'
 - '[[DATABASE/trait/Rage|Rage]]'
-trigger: null
 type: Feat
 
 ---

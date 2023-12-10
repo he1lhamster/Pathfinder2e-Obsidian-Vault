@@ -1,26 +1,17 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Blood in the Air
-frequency: null
-heighten_level: null
 id: '3190'
 level: '12'
 name: Blood in the Air
-prerequisite: null
 rarity: Common
 requirement: An enemy you've damaged with a ranged weapon during the last minute is
   [[DATABASE/condition/Concealed|concealed]] or [[DATABASE/condition/Hidden|hidden]]
   from you.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Gunslinger|Gunslinger]]'
-trigger: null
 type: Feat
 
 ---

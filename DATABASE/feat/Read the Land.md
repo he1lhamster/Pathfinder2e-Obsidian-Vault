@@ -1,25 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Read the Land
-frequency: null
-heighten_level: null
 id: '3001'
 level: '12'
 name: Read the Land
 prerequisite: '[[DATABASE/feat/Geomancer Dedication|Geomancer Dedication]] ; Master
   in [[DATABASE/skill/Nature|Nature]]'
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

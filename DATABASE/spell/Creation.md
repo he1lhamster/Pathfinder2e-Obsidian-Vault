@@ -1,12 +1,9 @@
 ﻿---
-actions: null
-area: null
 bloodline: '[[DATABASE/sorcererbloodline/Genie|Genie]]'
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Abadar|Abadar]]'
 - '[[DATABASE/deity/Alglenweis|Alglenweis]]'
@@ -26,31 +23,21 @@ deity:
 - '[[DATABASE/deity/The Laborer''s Bastion|The Laborer''s Bastion]]'
 - '[[DATABASE/deity/The Prismatic Ray|The PrismaticRay]]'
 - '[[DATABASE/deity/Torag|Torag]]'
-domain: null
 duration: 1 hour
-element: null
 heighten: 5th
 heighten_level: 4, 5
 id: '54'
-lesson: null
 level: '4'
-mystery: null
 name: Creation
-patron_theme: null
 range: 0 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Arcane
 - Primal
 trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
-trigger: null
 type: Spell
 
 ---

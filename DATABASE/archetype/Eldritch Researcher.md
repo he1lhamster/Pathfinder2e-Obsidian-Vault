@@ -4,7 +4,6 @@ level: '2'
 name: Eldritch Researcher
 prerequisite: Trained in [[DATABASE/skill/Arcana|Arcana]] ; Trained in [[DATABASE/skill/Occultism|Occultism]]
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 164. Hands of the Devil|Pathfinder #164: Hands
   of the Devil]]'
 trait:

@@ -1,22 +1,16 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Disarming Smile
-frequency: null
-heighten_level: null
 id: '4116'
+leads_to: '[[DATABASE/feat/Emphatic Emissary|Emphatic Emissary]]'
 level: '6'
 name: Disarming Smile
 prerequisite: '[[DATABASE/feat/Twilight Speaker Dedication|Twilight Speaker Dedication]]'
 rarity: Common
 requirement: You are aware of the attacker, the attacker is an intelligent [[DATABASE/trait/Humanoid|humanoid]]
   creature, and you have not attempted to harm the attacker.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 189. Dreamers of the Nameless Spires|Pathfinder
   #189: Dreamers of the Nameless Spires]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'

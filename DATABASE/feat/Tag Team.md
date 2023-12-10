@@ -1,20 +1,12 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Tag Team
-frequency: null
-heighten_level: null
 id: '3264'
 level: '10'
 name: Tag Team
 prerequisite: '[[DATABASE/feat/Sniping Duo Dedication|Sniping Duo Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 trigger: You or your spotter misses with a Strike against a creature, and the creature

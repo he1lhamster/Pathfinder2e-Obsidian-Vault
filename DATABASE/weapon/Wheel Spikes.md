@@ -1,8 +1,5 @@
 ﻿---
-bulk: null
 damage: 1d4 P
-deity: null
-favored_weapon: null
 hands: '1'
 id: '232'
 item_category: Weapons
@@ -10,9 +7,7 @@ item_subcategory: Base Weapons
 level: '0'
 name: Wheel Spikes
 price: 5 sp
-range: null
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
 trait:
 - '[[DATABASE/trait/Agile|Agile]]'

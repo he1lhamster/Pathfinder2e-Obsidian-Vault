@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Hungry Goblin
-frequency: null
-heighten_level: null
 id: '1008'
 level: '9'
 name: Hungry Goblin
 prerequisite: '[[DATABASE/feat/Fang Sharpener|Fang Sharpener]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Goblin|Goblin]]'
-trigger: null
 type: Feat
 
 ---

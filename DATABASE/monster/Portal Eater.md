@@ -2,9 +2,7 @@
 ac: '37'
 alignment: CE
 all_resistance: '10'
-burrow_speed: null
 charisma: '+9'
-climb_speed: null
 constitution: '+8'
 creature_ability:
 - Eat Portal
@@ -12,15 +10,11 @@ creature_ability:
 - Reflect Spell
 - Swallow Whole
 - Unfurl Realities
-creature_family: null
 dexterity: '+5'
-element: null
 fly_speed: '35'
 fortitude: '+34'
-hardness: null
 hp: '420'
 id: '1510'
-immunity: null
 intelligence: '+0'
 land_speed: '35'
 language:
@@ -34,8 +28,6 @@ rarity: Rare
 reflex: '+29'
 resistance:
 - all damage 10 (except [[DATABASE/trait/Force|force]] and physical)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 size: Gargantuan
@@ -46,12 +38,10 @@ source: '[[DATABASE/source/Pathfinder 167. Ready Fight!|Pathfinder #167: Ready? 
 speed:
 - 35 feet
 - fly 35 feet
-spell: null
 strength: '+10'
 strength_req: '10'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Astral|Astral]]'
 - '[[DATABASE/trait/Rare|Rare]]'

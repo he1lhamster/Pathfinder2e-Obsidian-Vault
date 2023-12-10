@@ -1,26 +1,17 @@
 ﻿---
 actions: '[three-actions]'
-cost: null
-element: null
 feat: Plum Deluge
-frequency: null
-heighten_level: null
 id: '2751'
 level: '20'
 name: Plum Deluge
-prerequisite: null
 rarity: Uncommon
 requirement: You have at least three of the same [[DATABASE/trait/Contact|contact]]
   [[DATABASE/trait/Poison|poison]] .
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 168. King of the Mountain|Pathfinder #168: King
   of the Mountain]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Alchemist|Alchemist]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

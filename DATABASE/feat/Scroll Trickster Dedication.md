@@ -1,25 +1,17 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Scroll Trickster Dedication
-frequency: null
-heighten_level: null
 id: '2053'
+leads_to: '[[DATABASE/feat/Basic Scroll Cache|Basic Scroll Cache]] , [[DATABASE/feat/Skim
+  Scroll|Skim Scroll]]'
 level: '2'
 name: Scroll Trickster Dedication
 prerequisite: Trained in [[DATABASE/skill/Arcana|Arcana]] , Trained in [[DATABASE/skill/Nature|Nature]]
   , Trained in [[DATABASE/skill/Occultism|Occultism]] , or Trainedin [[DATABASE/skill/Religion|Religion]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
-trigger: null
 type: Feat
 
 ---

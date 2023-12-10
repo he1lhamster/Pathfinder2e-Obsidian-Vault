@@ -3,9 +3,7 @@ creature_family: Performers
 id: '193'
 name: Performers
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
-trait: null
 type: Creature Family
 
 ---

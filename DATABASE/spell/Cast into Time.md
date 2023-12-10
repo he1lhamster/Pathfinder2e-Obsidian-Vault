@@ -1,37 +1,23 @@
 ﻿---
 actions: '[two-actions]'
 area: 15-foot cone
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
 heighten: '+1'
 heighten_level: 6, 7, 8, 9, 10
 id: '880'
-lesson: null
 level: '6'
-mystery: null
 name: Cast into Time
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Fortitude
 school: Divination
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-target: null
 tradition:
 - Arcane
 - Occult
 trait:
 - '[[DATABASE/trait/Divination|Divination]]'
-trigger: null
 type: Spell
 
 ---

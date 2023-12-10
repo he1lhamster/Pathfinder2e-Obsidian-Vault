@@ -1,23 +1,13 @@
 ﻿---
 actions: '[three-actions]'
-cost: null
-element: null
 feat: Meld into Eidolon
-frequency: null
-heighten_level: null
 id: '2892'
 level: '1'
 name: Meld into Eidolon
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Summoner|Summoner]]'
-trigger: null
 type: Feat
 
 ---

@@ -2,7 +2,6 @@
 id: '71'
 name: Fighter
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - Fighter

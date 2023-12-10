@@ -1,20 +1,11 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Reach Spell
-frequency: null
-heighten_level: null
 id: '181'
 level: '1'
 name: Reach Spell
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Bard|Bard]]'
 - '[[DATABASE/trait/Cleric|Cleric]]'
@@ -25,7 +16,6 @@ trait:
 - '[[DATABASE/trait/Sorcerer|Sorcerer]]'
 - '[[DATABASE/trait/Witch|Witch]]'
 - '[[DATABASE/trait/Wizard|Wizard]]'
-trigger: null
 type: Feat
 
 ---

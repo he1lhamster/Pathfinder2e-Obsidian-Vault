@@ -1,11 +1,7 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Expert Sorcerer Spellcasting
-frequency: null
-heighten_level: null
 id: '740'
+leads_to: '[[DATABASE/feat/Master Sorcerer Spellcasting|Master Sorcerer Spellcasting]]'
 level: '12'
 name: Expert Sorcerer Spellcasting
 prerequisite: '[[DATABASE/feat/Basic Sorcerer Spellcasting|Basic Sorcerer Spellcasting]]
@@ -13,14 +9,9 @@ prerequisite: '[[DATABASE/feat/Basic Sorcerer Spellcasting|Basic Sorcerer Spellc
   , [[DATABASE/skill/Occultism|Occultism]] , or [[DATABASE/skill/Religion|Religion]]
   , depending on bloodline'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

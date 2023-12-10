@@ -1,8 +1,6 @@
 ﻿---
 ac: '14'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
 climb_speed: '20'
 constitution: '+7'
@@ -15,10 +13,7 @@ creature_ability:
 - Suction
 creature_family: '[[DATABASE/monsterfamily/Ooze|Ooze]]'
 dexterity: '-5'
-element: null
-fly_speed: null
 fortitude: '+18'
-hardness: null
 hp: '165'
 id: '323'
 immunity:
@@ -32,16 +27,12 @@ immunity:
 - visual
 intelligence: '-5'
 land_speed: '20'
-language: null
 level: '7'
 max_speed: '20'
 name: Black Pudding
 perception: '+9'
 rarity: Common
 reflex: '+6'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - motion sense 60 feet
 - no vision
@@ -52,20 +43,16 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 20 feet
 - climb 20 feet; suction
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Mindless|Mindless]]'
 - '[[DATABASE/trait/Ooze|Ooze]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+11'
 wisdom: '+0'
 

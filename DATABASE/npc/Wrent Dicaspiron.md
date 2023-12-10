@@ -1,10 +1,7 @@
 ﻿---
 ac: '30'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Attack of Opportunity
@@ -13,14 +10,10 @@ creature_ability:
 - Chain Up
 - Flay
 - Hook and Flay
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+22'
 hp: '180'
 id: '2494'
-immunity: null
 intelligence: '-2'
 land_speed: '25'
 language:
@@ -32,9 +25,6 @@ name: Wrent Dicaspiron
 perception: '+22'
 rarity: Unique
 reflex: '+20'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +20'
@@ -46,21 +36,17 @@ source: '[[DATABASE/source/Pathfinder 157. Devil at the Dreaming Palace|Pathfind
   #157: Devil at the Dreaming Palace]]'
 speed:
 - 25 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+17'
 wisdom: '+1'
 

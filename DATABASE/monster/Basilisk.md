@@ -1,35 +1,24 @@
 ﻿---
 ac: '22'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Petrifying Gaze
 - Petrifying Glance
 creature_family: '[[DATABASE/monsterfamily/Basilisk|Basilisk]]'
 dexterity: '-1'
-element: null
-fly_speed: null
 fortitude: '+14'
-hardness: null
 hp: '75'
 id: '44'
-immunity: null
 intelligence: '-3'
 land_speed: '20'
-language: null
 level: '5'
 max_speed: '20'
 name: Basilisk
 perception: '+11'
 rarity: Common
 reflex: '+8'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -39,19 +28,16 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 20 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+11'
 wisdom: '+2'
 

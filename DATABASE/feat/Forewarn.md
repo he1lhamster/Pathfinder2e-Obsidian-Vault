@@ -1,21 +1,14 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Forewarn
 frequency: once per minute
-heighten_level: null
 id: '3123'
 level: '12'
 name: Forewarn
 prerequisite: '[[DATABASE/feat/Overwatch Dedication|Overwatch Dedication]] ; master
   in Perception'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 trigger: An enemy within your overwatch field attempts an attack against an ally who

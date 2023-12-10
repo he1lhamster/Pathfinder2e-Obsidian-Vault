@@ -1,22 +1,16 @@
 ﻿---
 ac: '23'
 alignment: N
-all_resistance: null
 burrow_speed: '15'
 charisma: '-5'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Fastening Leap
 - Infiltration Tools
 - Mechanical Vulnerability
 - Sneak Attack
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+10'
-hardness: null
 hp: '65'
 id: '771'
 immunity:
@@ -36,16 +30,12 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '30'
-language: null
 level: '5'
 max_speed: '30'
 name: Dig-Widget
 perception: '+9'
 rarity: Common
 reflex: '+14'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Tremorsense|tremorsense (imprecise) 30 feet]]'
@@ -59,12 +49,10 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 30 feet
 - burrow 15 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Mindless|Mindless]]'
@@ -72,7 +60,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+7'
 wisdom: '+0'
 

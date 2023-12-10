@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Express Rider|Express Rider]]'
 id: '172'
 name: Outrider
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Nature|Nature]]'
 - Plains [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

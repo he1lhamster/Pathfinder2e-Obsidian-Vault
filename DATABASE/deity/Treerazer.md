@@ -1,6 +1,4 @@
 ﻿---
-ability: null
-ability_boost: null
 alignment: CE
 deity:
 - '[[DATABASE/deity/Treerazer|Treerazer]]'
@@ -18,11 +16,9 @@ follower_alignment:
 id: '26'
 name: Treerazer
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Nature|Nature]]'
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
-trait: null
 type: Deity
 
 ---

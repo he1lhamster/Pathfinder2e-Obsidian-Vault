@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Warden's Wellspring
-frequency: null
-heighten_level: null
 id: '1777'
 level: '18'
 name: Warden's Wellspring
 prerequisite: '[[DATABASE/feat/Warden''s Focus|Warden''s Focus]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Ranger|Ranger]]'
-trigger: null
 type: Feat
 
 ---

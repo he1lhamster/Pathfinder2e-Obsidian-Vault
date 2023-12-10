@@ -1,29 +1,15 @@
 ﻿---
 actions: '[two-actions]'
 area: line 60 feet or longer
-bloodline: null
-component: null
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
 heighten: '+1'
 heighten_level: 2, 3, 4, 5, 6, 7, 8, 9, 10
 id: '934'
-lesson: null
 level: '2'
-mystery: null
 name: Inner Radiance Torrent
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: basicReflex
 school: Necromancy
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-target: null
 tradition:
 - Divine
 - Occult
@@ -31,7 +17,6 @@ trait:
 - '[[DATABASE/trait/Force|Force]]'
 - '[[DATABASE/trait/Light|Light]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
-trigger: null
 type: Spell
 
 ---

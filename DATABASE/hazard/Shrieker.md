@@ -1,10 +1,7 @@
 ﻿---
 ac: '12'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+8'
-hardness: null
 hazard_type: Environmental
 hp: '9'
 id: '32'
@@ -16,16 +13,11 @@ level: '-1'
 name: Shrieker
 rarity: Common
 reflex: '+2'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
 - '[[DATABASE/trait/Environmental|Environmental]]'
 - '[[DATABASE/trait/Fungus|Fungus]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Shrieker<span class="item-type">Hazard -1</span>

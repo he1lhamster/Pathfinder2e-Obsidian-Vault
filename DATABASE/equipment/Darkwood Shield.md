@@ -1,53 +1,17 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
 bulk: '3'
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '312'
 item_category: Shields
 item_subcategory: Precious Material Shields
-land_speed: null
-level: '16'
-max_speed: null
+level: '8'
 name: Darkwood Shield
-onset: null
-price: 11,200 gp
-range: null
+price: 560 gp
 rarity: Uncommon
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
-school: null
-size: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-spell: null
-stage: null
-subcategory: null
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Item
 usage: varies by shield
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Darkwood Shield<span class="item-type">Item 8+</span>

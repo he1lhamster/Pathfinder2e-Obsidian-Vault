@@ -1,25 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Exhort the Faithful
-frequency: null
-heighten_level: null
 id: '2125'
 level: '2'
 name: Exhort the Faithful
 prerequisite: Expert in [[DATABASE/skill/Religion|Religion]] ; follower of a specific
   religion
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: religion
 trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

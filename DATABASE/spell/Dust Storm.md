@@ -1,12 +1,9 @@
 ﻿---
 actions: '[two-actions]'
 area: 20-foot-radius burst
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
 domain:
 - '[[DATABASE/domain/Dust Domain|Dust]]'
 duration: 1 minute
@@ -14,25 +11,16 @@ element: Air
 heighten: '+2'
 heighten_level: 4, 6, 8, 10
 id: '603'
-lesson: null
 level: '4'
-mystery: null
 name: Dust Storm
-patron_theme: null
 range: 120 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
-target: null
-tradition: null
 trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Nonlethal|Nonlethal]]'
-trigger: null
 type: Focus
 
 ---

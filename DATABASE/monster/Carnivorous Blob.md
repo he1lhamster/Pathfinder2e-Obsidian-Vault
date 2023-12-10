@@ -1,8 +1,6 @@
 ﻿---
 ac: '20'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
 climb_speed: '20'
 constitution: '+6'
@@ -15,10 +13,7 @@ creature_ability:
 - Split
 creature_family: '[[DATABASE/monsterfamily/Ooze|Ooze]]'
 dexterity: '-3'
-element: null
-fly_speed: null
 fortitude: '+25'
-hardness: null
 hp: '300'
 id: '755'
 immunity:
@@ -33,16 +28,12 @@ immunity:
 - '[[DATABASE/trait/Visual|visual]]'
 intelligence: '-5'
 land_speed: '20'
-language: null
 level: '13'
 max_speed: '20'
 name: Carnivorous Blob
 perception: '+23'
 rarity: Common
 reflex: '+14'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - motion sense 240 feet
 - no vision
@@ -54,7 +45,6 @@ speed:
 - 20 feet
 - climb 20 feet
 - swim 20 feet
-spell: null
 strength: '+8'
 strength_req: '8'
 strongest_save:
@@ -64,10 +54,8 @@ trait:
 - '[[DATABASE/trait/Mindless|Mindless]]'
 - '[[DATABASE/trait/Ooze|Ooze]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+19'
 wisdom: '+0'
 

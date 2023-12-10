@@ -1,46 +1,17 @@
 ﻿---
-ac: null
 actions: '[two-actions]'
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '839'
 item_category: Consumables
 item_subcategory: Talismans
-land_speed: null
 level: '7'
-max_speed: null
 name: Whisper Briolette
-onset: null
 price: 55 gp
-range: null
 rarity: Uncommon
-reflex: null
 requirement: You are an expert in [[DATABASE/skill/Stealth|Stealth]] .
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Divination
-size: null
 source: '[[DATABASE/source/Pathfinder 160. Assault on Hunting Lodge Seven|Pathfinder
   #160: Assault on Hunting Lodge Seven]]'
-spell: null
-stage: null
 subcategory: consumable/talisman
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Consumable|Consumable]]'
 - '[[DATABASE/trait/Divination|Divination]]'
@@ -48,12 +19,8 @@ trait:
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Talisman|Talisman]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Item
 usage: affixed to armor or to an outfit if a character has no armor
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Whisper Briolette<span class="item-type">Item 7</span>

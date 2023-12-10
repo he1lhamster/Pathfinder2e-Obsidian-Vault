@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Assurance|Assurance]]'
 id: '357'
 name: Firebrand Follower
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] or [[DATABASE/skill/Performance|Performance]]'
 - Firebrand [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Firebrands|Firebrands]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

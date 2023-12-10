@@ -1,25 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Halcyon Spellcasting Adept
-frequency: null
-heighten_level: null
 id: '1122'
+leads_to: '[[DATABASE/feat/Halcyon Spellcasting Sage|Halcyon Spellcasting Sage]]'
 level: '14'
 name: Halcyon Spellcasting Adept
 prerequisite: '[[DATABASE/feat/Halcyon Spellcasting Initiate|Halcyon Spellcasting
   Initiate]] ; master in either [[DATABASE/skill/Arcana|Arcana]] or [[DATABASE/skill/Nature|Nature]]
   , expert in the other'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,8 +1,6 @@
 ﻿---
 ac: '45'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+9'
 climb_speed: '20'
 constitution: '+6'
@@ -10,12 +8,9 @@ creature_ability:
 - Attack of Opportunity
 - Reweave Fate
 - Web of Fate
-creature_family: null
 dexterity: '+7'
-element: null
 fly_speed: '30'
 fortitude: '+35'
-hardness: null
 hp: 375 ( all-around vision )
 id: '2586'
 immunity:
@@ -35,9 +30,6 @@ name: Ildamir
 perception: '+36'
 rarity: Unique
 reflex: '+33'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -68,7 +60,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Unique|Unique]]'
@@ -76,7 +67,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+36'
 wisdom: '+6'
 

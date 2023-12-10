@@ -1,8 +1,6 @@
 ﻿---
 ac: '44'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
 climb_speed: '40'
 constitution: '+10'
@@ -19,15 +17,10 @@ creature_ability:
 - Ravenous Jaws
 - Rend
 - Swallow Whole
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+38'
-hardness: null
 hp: '470'
 id: '2591'
-immunity: null
 intelligence: '+2'
 land_speed: '30'
 language:
@@ -39,9 +32,6 @@ name: Gegnir
 perception: '+35'
 rarity: Unique
 reflex: '+30'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Huge
@@ -71,7 +61,6 @@ strength: '+10'
 strength_req: '10'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Giant|Giant]]'
 - '[[DATABASE/trait/Mutant|Mutant]]'

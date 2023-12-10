@@ -1,24 +1,15 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Dangle (Vanara)
-frequency: null
-heighten_level: null
 id: '4012'
 level: '9'
 name: Dangle (Vanara)
 prerequisite: '[[DATABASE/feat/Climbing Tail|Climbing Tail]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Move|Move]]'
 - '[[DATABASE/trait/Vanara|Vanara]]'
-trigger: null
 type: Feat
 
 ---

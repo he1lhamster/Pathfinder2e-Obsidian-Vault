@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Undead Companion
-frequency: null
-heighten_level: null
 id: '2350'
 level: '5'
 name: Undead Companion
 prerequisite: an animal companion or a familiar
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Dhampir|Dhampir]]'
-trigger: null
 type: Feat
 
 ---

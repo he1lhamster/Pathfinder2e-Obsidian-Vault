@@ -1,10 +1,7 @@
 ﻿---
 ac: '22'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Attack of Opportunity
@@ -12,12 +9,8 @@ creature_ability:
 - Reactive Shield
 - Shield Block
 - Slam Doors
-creature_family: null
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+12'
-hardness: null
 hp: '60'
 id: '433'
 immunity:
@@ -46,8 +39,6 @@ rarity: Uncommon
 reflex: '+7'
 resistance:
 - physical 5 (except bludgeoning)
-rus_type_level: null
-school: null
 sense:
 - low-light vision; _ [[DATABASE/spell/See Invisibility|see invisibility_]]
 size: Large
@@ -64,7 +55,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
@@ -72,7 +62,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Reflex
-weakness: null
 will: '+10'
 wisdom: '+1'
 

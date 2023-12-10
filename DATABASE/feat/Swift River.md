@@ -1,20 +1,11 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Swift River
-frequency: null
-heighten_level: null
 id: '486'
 level: '18'
 name: Swift River
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Monk|Monk]]'
 trigger: Your turn ends and you have a status penalty to your Speed or are immobilized

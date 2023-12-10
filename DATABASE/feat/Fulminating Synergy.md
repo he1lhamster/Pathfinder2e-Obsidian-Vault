@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Fulminating Synergy
-frequency: null
-heighten_level: null
 id: '1123'
+leads_to: '[[DATABASE/feat/Synergistic Spell|Synergistic Spell]]'
 level: '16'
 name: Fulminating Synergy
 prerequisite: '[[DATABASE/feat/Dualistic Synergy|Dualistic Synergy]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

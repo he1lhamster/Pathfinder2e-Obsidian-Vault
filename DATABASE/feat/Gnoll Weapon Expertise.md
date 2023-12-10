@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Gnoll Weapon Expertise
-frequency: null
-heighten_level: null
 id: '2804'
 level: '13'
 name: Gnoll Weapon Expertise
 prerequisite: '[[DATABASE/feat/Gnoll Weapon Practicality|Gnoll Weapon Practicality]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Gnoll|Gnoll]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,8 +1,6 @@
 ﻿---
 ac: '12'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
 climb_speed: '10'
 constitution: '+6'
@@ -13,10 +11,7 @@ creature_ability:
 - Split
 creature_family: '[[DATABASE/monsterfamily/Ooze|Ooze]]'
 dexterity: '-5'
-element: null
-fly_speed: null
 fortitude: '+15'
-hardness: null
 hp: '150'
 id: '322'
 immunity:
@@ -31,16 +26,12 @@ immunity:
 - visual
 intelligence: '-5'
 land_speed: '15'
-language: null
 level: '5'
 max_speed: '15'
 name: Ochre Jelly
 perception: '+7'
 rarity: Common
 reflex: '+4'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - motion sense 60 feet
 - no vision
@@ -51,20 +42,16 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 15 feet
 - climb 10 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Mindless|Mindless]]'
 - '[[DATABASE/trait/Ooze|Ooze]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+7'
 wisdom: '+0'
 

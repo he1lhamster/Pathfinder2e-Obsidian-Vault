@@ -1,24 +1,15 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Look but Don't Touch
 frequency: once per day
-heighten_level: null
 id: '3959'
 level: '13'
 name: Look but Don't Touch
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Ghoran|Ghoran]]'
 - '[[DATABASE/trait/Poison|Poison]]'
-trigger: null
 type: Feat
 
 ---

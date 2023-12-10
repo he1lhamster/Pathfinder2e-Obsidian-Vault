@@ -1,20 +1,14 @@
 ﻿---
 ac: '17'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Denounce Heretic
 - Field of Undeath
 creature_family: '[[DATABASE/monsterfamily/Deathless Acolyte|Deathless Acolyte]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+7'
-hardness: null
 hp: 36 ( negative healing )
 id: '1853'
 immunity:
@@ -34,9 +28,6 @@ name: Deathless Acolyte of Urgathoa
 perception: '+9'
 rarity: Common
 reflex: '+7'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -64,7 +55,6 @@ strength: '+1'
 strength_req: '1'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Undead|Undead]]'
 type: Creature
@@ -72,7 +62,6 @@ vision: Darkvision
 weakest_save:
 - Fortitude
 - Reflex
-weakness: null
 will: '+11'
 wisdom: '+4'
 

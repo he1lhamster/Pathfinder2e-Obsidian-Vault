@@ -1,20 +1,12 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Capture Magic
-frequency: null
-heighten_level: null
 id: '2863'
 level: '8'
 name: Capture Magic
 prerequisite: '[[DATABASE/action/Arcane Cascade|Arcane Cascade]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Magus|Magus]]'
 trigger: You succeed at your save against a foe's harmful spell, or a foe fails a

@@ -1,9 +1,4 @@
 ﻿---
-area: null
-cost: null
-duration: null
-element: null
-heighten: null
 heighten_level: '4'
 id: '101'
 level: '4'
@@ -11,8 +6,6 @@ name: Amity Cycle
 primary_check: '[[DATABASE/skill/Performance|Performance]] (expert)'
 range: 100 feet
 rarity: Rare
-requirement: null
-rus_type_level: null
 school: Transmutation
 secondary_casters: 3 or more
 secondary_check: '[[DATABASE/skill/Crafting|Crafting]] , Performance, [[DATABASE/skill/Society|Society]]'

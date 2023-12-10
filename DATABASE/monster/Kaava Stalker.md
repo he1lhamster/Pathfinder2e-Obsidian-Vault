@@ -1,23 +1,16 @@
 ﻿---
 ac: '16'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Skulking Attack
 - Trackless
 creature_family: '[[DATABASE/monsterfamily/Kaava|Kaava]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+5'
-hardness: null
 hp: '20'
 id: '1436'
-immunity: null
 intelligence: '+0'
 land_speed: '30'
 language:
@@ -30,8 +23,6 @@ rarity: Common
 reflex: '+9'
 resistance:
 - '[[DATABASE/trait/Poison|poison]] 3'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Small
@@ -44,19 +35,16 @@ skill:
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
 speed:
 - 30 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
 vision: Low-light vision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+7'
 wisdom: '+2'
 

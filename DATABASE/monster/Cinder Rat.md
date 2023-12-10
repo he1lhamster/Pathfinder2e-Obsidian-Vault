@@ -1,10 +1,7 @@
 ﻿---
 ac: '18'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Fetid Fumes
@@ -12,9 +9,7 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Elemental, Fire|Elemental, Fire]]'
 dexterity: '+3'
 element: Fire
-fly_speed: null
 fortitude: '+9'
-hardness: null
 hp: '45'
 id: '187'
 immunity:
@@ -25,16 +20,12 @@ immunity:
 - sleep
 intelligence: '-4'
 land_speed: '40'
-language: null
 level: '3'
 max_speed: '40'
 name: Cinder Rat
 perception: '+9'
 rarity: Common
 reflex: '+12'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - smoke vision
@@ -46,12 +37,10 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 40 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Elemental|Elemental]]'
 - '[[DATABASE/trait/Fire|Fire]]'

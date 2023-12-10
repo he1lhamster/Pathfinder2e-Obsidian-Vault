@@ -2,7 +2,6 @@
 id: '402'
 name: Critical Fusion
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 trait:
 - Critical Fusion

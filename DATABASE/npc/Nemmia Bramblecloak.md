@@ -1,23 +1,16 @@
 ﻿---
 ac: '19'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Keen Eyes
 - Reach Spell
 - Wildwood Halfling
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+8'
 hp: '45'
 id: '2012'
-immunity: null
 intelligence: '+1'
 land_speed: '20'
 language:
@@ -32,8 +25,6 @@ name: Nemmia Bramblecloak
 perception: '+9'
 rarity: Unique
 reflex: '+8'
-resistance: null
-rus_type_level: null
 sense:
 - keen eyes
 size: Small
@@ -66,17 +57,14 @@ strength: '-1'
 strength_req: '-1'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Halfling|Halfling]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
 - Reflex
-weakness: null
 will: '+11'
 wisdom: '+4'
 

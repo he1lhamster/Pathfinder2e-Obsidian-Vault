@@ -1,18 +1,10 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Express Rider
-frequency: null
-heighten_level: null
 id: '2126'
 level: '1'
 name: Express Rider
 prerequisite: Trained in [[DATABASE/skill/Nature|Nature]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: nature
 trait:
@@ -20,7 +12,6 @@ trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Move|Move]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

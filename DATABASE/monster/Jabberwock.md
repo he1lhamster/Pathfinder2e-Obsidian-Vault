@@ -1,10 +1,7 @@
 ﻿---
 ac: '49'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+8'
-climb_speed: null
 constitution: '+10'
 creature_ability:
 - Burble
@@ -15,12 +12,9 @@ creature_ability:
 - Vorpal Fear
 - ''
 - Whiffling
-creature_family: null
 dexterity: '+7'
-element: null
 fly_speed: '60'
 fortitude: '+39'
-hardness: null
 hp: '500'
 id: '652'
 immunity:
@@ -42,8 +36,6 @@ rarity: Rare
 reflex: '+37'
 resistance:
 - fire 20
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent 120 feet]]'
@@ -65,7 +57,6 @@ strength: '+11'
 strength_req: '11'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dragon|Dragon]]'
 - '[[DATABASE/trait/Rare|Rare]]'

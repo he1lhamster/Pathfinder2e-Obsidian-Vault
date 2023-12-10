@@ -1,10 +1,7 @@
 ﻿---
 ac: '24'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Attack of Opportunity
@@ -13,13 +10,9 @@ creature_ability:
 - Reactive Chomp
 creature_family: '[[DATABASE/monsterfamily/Troll|Troll]]'
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+20'
-hardness: null
 hp: '190'
 id: '833'
-immunity: null
 intelligence: '-2'
 land_speed: '30'
 language:
@@ -30,9 +23,6 @@ name: Two-Headed Troll
 perception: '+18'
 rarity: Uncommon
 reflex: '+15'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -42,12 +32,10 @@ skill:
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 30 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Giant|Giant]]'
 - '[[DATABASE/trait/Troll|Troll]]'

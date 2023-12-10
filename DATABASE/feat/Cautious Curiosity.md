@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Cautious Curiosity
-frequency: null
-heighten_level: null
 id: '1419'
 level: '9'
 name: Cautious Curiosity
 prerequisite: at least one arcane or occult innate spell gained from a gnome heritage
   or gnome ancestry feat
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Gnome|Gnome]]'
-trigger: null
 type: Feat
 
 ---

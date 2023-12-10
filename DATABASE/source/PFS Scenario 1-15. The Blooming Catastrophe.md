@@ -2,9 +2,6 @@
 id: '28'
 name: PFS Scenario 1-15. The Blooming Catastrophe
 rarity: Common
-rus_type_level: null
-source: null
-trait: null
 type: Source
 
 ---

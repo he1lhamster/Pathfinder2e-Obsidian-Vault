@@ -1,8 +1,6 @@
 ﻿---
 ac: '30'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
 climb_speed: '30'
 constitution: '+3'
@@ -12,12 +10,9 @@ creature_ability:
 - Swarmsense
 - Terror From Within
 - Wild Empathy
-creature_family: null
 dexterity: '+6'
-element: null
 fly_speed: '25'
 fortitude: '+17'
-hardness: null
 hp: '180'
 id: '1735'
 immunity:
@@ -36,9 +31,6 @@ name: Mosquito Witch
 perception: '+22'
 rarity: Unique
 reflex: '+20'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - swarmsense (imprecise) 30 feet
@@ -69,7 +61,6 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Unique|Unique]]'
@@ -77,7 +68,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+23'
 wisdom: '+7'
 

@@ -1,25 +1,17 @@
 ﻿---
 ac: '40'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Shadow Doubles
 - Sneak Attack
-creature_family: null
 dexterity: '+9'
-element: null
 fly_speed: '75'
 fortitude: '+28'
-hardness: null
 hp: '333'
 id: '2368'
-immunity: null
 intelligence: '+3'
-land_speed: null
 language:
 - '[[DATABASE/language/Aklo|Aklo]]'
 - '[[DATABASE/language/Common|Common]]'
@@ -30,9 +22,6 @@ name: Ankou Assassin
 perception: '+30'
 rarity: Rare
 reflex: '+32'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Lifesense|lifesense]] 120 feet'
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
@@ -60,7 +49,6 @@ strength: '+8'
 strength_req: '8'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Rare|Rare]]'

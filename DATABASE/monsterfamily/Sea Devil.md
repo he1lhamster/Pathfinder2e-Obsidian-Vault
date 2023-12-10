@@ -3,9 +3,7 @@ creature_family: Sea Devil
 id: '88'
 name: Sea Devil
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
-trait: null
 type: Creature Family
 
 ---

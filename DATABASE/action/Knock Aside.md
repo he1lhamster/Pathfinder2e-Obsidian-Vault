@@ -1,17 +1,10 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
-frequency: null
 id: '2103'
 name: Knock Aside
 rarity: Common
 requirement: The animal companion's last action was a successful headbutt Strike.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Highhelm|Highhelm]]'
-trait: null
-trigger: null
 type: Action
 
 ---

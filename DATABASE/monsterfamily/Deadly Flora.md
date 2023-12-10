@@ -3,9 +3,7 @@ creature_family: Deadly Flora
 id: '106'
 name: Deadly Flora
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/The Fall of Plaguestone|The Fall of Plaguestone]]'
-trait: null
 type: Creature Family
 
 ---

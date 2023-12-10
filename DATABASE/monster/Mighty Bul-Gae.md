@@ -1,10 +1,7 @@
 ﻿---
 ac: '40'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+8'
 creature_ability:
 - Eclipse Aura
@@ -12,15 +9,12 @@ creature_ability:
 - Shadow Leap
 - Solar Flare
 - Thermal Mastery
-creature_family: null
 dexterity: '+5'
 element: Fire
 fly_speed: '30'
 fortitude: '+33'
-hardness: null
 hp: '310'
 id: '2585'
-immunity: null
 intelligence: '+5'
 land_speed: '40'
 language:
@@ -34,8 +28,6 @@ reflex: '+26'
 resistance:
 - '[[DATABASE/trait/Cold|cold]] 15'
 - '[[DATABASE/trait/Fire|fire]] 15'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 60 feet'
@@ -50,12 +42,10 @@ source: '[[DATABASE/source/Pathfinder 192. Worst of All Possible Worlds|Pathfind
 speed:
 - 40 feet
 - fly 30 feet
-spell: null
 strength: '+9'
 strength_req: '9'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Cold|Cold]]'
@@ -65,7 +55,6 @@ type: Creature
 vision: Greater darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+30'
 wisdom: '+7'
 

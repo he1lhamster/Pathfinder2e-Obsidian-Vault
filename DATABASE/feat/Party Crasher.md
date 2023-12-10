@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Party Crasher
-frequency: null
-heighten_level: null
 id: '1939'
 level: '7'
 name: Party Crasher
 prerequisite: '[[DATABASE/feat/Dandy Dedication|Dandy Dedication]] ; Master in [[DATABASE/skill/Society|Society]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

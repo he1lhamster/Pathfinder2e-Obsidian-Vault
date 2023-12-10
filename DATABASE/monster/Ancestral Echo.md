@@ -2,20 +2,15 @@
 ac: '16'
 alignment: No Alignment
 all_resistance: '5'
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Rejuvenation
 - Riled by Disrespect
 - Site Bound
-creature_family: null
 dexterity: '+1'
-element: null
 fly_speed: '20'
 fortitude: '+7'
-hardness: null
 hp: 15 (negative healing, rejuvenation)
 id: '2609'
 immunity:
@@ -26,8 +21,6 @@ immunity:
 - precision
 - unconscious
 intelligence: '+1'
-land_speed: null
-language: null
 level: '1'
 max_speed: '20'
 name: Ancestral Echo
@@ -39,8 +32,6 @@ resistance:
 - '[[trait/217| <%TREASURE%297%%> ghosttouch]]<%END>'
 - '[[DATABASE/trait/Positive|or <%TRAITS%128%%>positive]] <%END>; double resistance
   vs. non- [[DATABASE/trait/Magical|magical]] )'
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -52,12 +43,10 @@ source: '[[DATABASE/source/Pathfinder 193. Mantle of Gold|Pathfinder #193: Mantl
   of Gold]]'
 speed:
 - fly 20 feet
-spell: null
 strength: '-5'
 strength_req: '-5'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dwarf|Dwarf]]'
 - '[[DATABASE/trait/Ghost|Ghost]]'
@@ -69,7 +58,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+9'
 wisdom: '+4'
 

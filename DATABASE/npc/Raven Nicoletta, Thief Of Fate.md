@@ -1,23 +1,16 @@
 ﻿---
 ac: '44'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+9'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Bloodline Magic
 - Harrow Burst
 - Reclaimed Fate
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+30'
 hp: '370'
 id: '2594'
-immunity: null
 intelligence: '+3'
 land_speed: '25'
 language:
@@ -31,9 +24,6 @@ name: Raven Nicoletta
 perception: '+33'
 rarity: Unique
 reflex: '+33'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Arcana|Arcana]] +31'
@@ -96,16 +86,13 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+35'
 wisdom: '+5'
 

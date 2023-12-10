@@ -1,10 +1,6 @@
 ﻿---
 ac: '30'
-alignment: null
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Blinding Heat
@@ -18,7 +14,6 @@ dexterity: '+6'
 element: Fire
 fly_speed: '50'
 fortitude: '+18'
-hardness: null
 hp: '170'
 id: '2634'
 immunity:
@@ -37,9 +32,6 @@ name: Solar Crow
 perception: '+19'
 rarity: Common
 reflex: '+22'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - smoke vision
@@ -53,12 +45,10 @@ source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 speed:
 - 20 feet
 - fly 50 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Elemental|Elemental]]'
 - '[[DATABASE/trait/Fire|Fire]]'
@@ -66,7 +56,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+17'
 wisdom: '+3'
 

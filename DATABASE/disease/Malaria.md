@@ -4,9 +4,7 @@ level: '2'
 name: Malaria
 onset: 10 days
 rarity: Common
-rus_type_level: null
 saving_throw: DC 16 Fortitude
-school: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 stage: 'Stage 1: sickened 1 (1 day)Stage 2: sickened 2 (1 day)Stage 3: sickened 2,
   and disease recurs every 1d4 months even if cured (1 day)Stage 4: unconscious (1

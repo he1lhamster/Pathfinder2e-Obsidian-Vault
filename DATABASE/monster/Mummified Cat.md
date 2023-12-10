@@ -1,8 +1,6 @@
 ﻿---
 ac: '15'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
 climb_speed: '15'
 constitution: '+2'
@@ -12,10 +10,7 @@ creature_ability:
 - Sneak Attack
 creature_family: '[[DATABASE/monsterfamily/Mummy|Mummy]]'
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+8'
-hardness: null
 hp: 17 ( negative healing )
 id: '1883'
 immunity:
@@ -26,16 +21,12 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-4'
 land_speed: '25'
-language: null
 level: '0'
 max_speed: '25'
 name: Mummified Cat
 perception: '+7'
 rarity: Common
 reflex: '+4'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -54,7 +45,6 @@ strength: '+1'
 strength_req: '1'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Mummy|Mummy]]'
 - '[[DATABASE/trait/Undead|Undead]]'

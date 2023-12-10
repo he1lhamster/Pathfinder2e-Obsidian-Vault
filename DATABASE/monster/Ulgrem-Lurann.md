@@ -1,10 +1,7 @@
 ﻿---
 ac: '18'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Attack of Opportunity
@@ -12,15 +9,10 @@ creature_ability:
 - Nurtured Loathing
 - Sparking Bite
 - Swallow Whole
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+12'
-hardness: null
 hp: '55'
 id: '1744'
-immunity: null
 intelligence: '+1'
 land_speed: '20'
 language:
@@ -34,8 +26,6 @@ reflex: '+10'
 resistance:
 - '[[DATABASE/trait/Electricity|electricity]] 5'
 - piercing 5
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -48,7 +38,6 @@ source: '[[DATABASE/source/Monsters of Myth|Monsters of Myth]]'
 speed:
 - 20 feet
 - swim 25 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
@@ -62,7 +51,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+5'
 wisdom: '-2'
 

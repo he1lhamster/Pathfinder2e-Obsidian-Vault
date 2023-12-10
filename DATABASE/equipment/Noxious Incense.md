@@ -1,56 +1,23 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
 bulk: L
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: '2'
-hardness: null
-hp: null
+hands: '1'
 id: '1008'
 item_category: Consumables
 item_subcategory: Spell Catalysts
-land_speed: null
-level: '14'
-max_speed: null
+level: '9'
 name: Noxious Incense
-onset: null
-price: 750 gp
-range: null
+price: 125 gp
 rarity: Common
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
-school: null
-size: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 spell:
 - '[[DATABASE/spell/Wall of Fire|Wall of Fire]]'
-stage: null
 subcategory: consumable/spellcatalycyst
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Catalyst|Catalyst]]'
 - '[[DATABASE/trait/Consumable|Consumable]]'
 - '[[DATABASE/trait/Magical|Magical]]'
-trigger: null
 type: Item
 usage: held in 1 hand
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Noxious Incense<span class="item-type">Item 9+</span>

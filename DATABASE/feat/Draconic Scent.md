@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Draconic Scent
-frequency: null
-heighten_level: null
 id: '1942'
 level: '4'
 name: Draconic Scent
 prerequisite: '[[DATABASE/feat/Dragon Disciple Dedication|Dragon Disciple Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

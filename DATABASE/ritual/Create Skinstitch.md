@@ -1,9 +1,5 @@
 ﻿---
-area: null
 cost: rare oils worth 480 gp
-duration: null
-element: null
-heighten: null
 heighten_level: '6'
 id: '42'
 level: '6'
@@ -11,8 +7,6 @@ name: Create Skinstitch
 primary_check: '[[DATABASE/skill/Religion|Religion]] (expert)'
 range: touch
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Transmutation
 secondary_casters: '1'
 secondary_check: '[[DATABASE/skill/Crafting|Crafting]]'

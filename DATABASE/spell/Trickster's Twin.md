@@ -1,39 +1,26 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Material
 - Verbal
-cost: null
-deity: null
 domain:
 - '[[DATABASE/domain/Trickery Domain|Trickery]]'
 duration: 1 minute
-element: null
-heighten: null
 heighten_level: '4'
 id: '463'
-lesson: null
 level: '4'
-mystery: null
 name: Trickster's Twin
-patron_theme: null
 range: 30 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 saving_throw: Will
 school: Illusion
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: 1 creature
-tradition: null
 trait:
 - '[[DATABASE/trait/Cleric|Cleric]]'
 - '[[DATABASE/trait/Illusion|Illusion]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 - '[[DATABASE/trait/Visual|Visual]]'
-trigger: null
 type: Focus
 
 ---

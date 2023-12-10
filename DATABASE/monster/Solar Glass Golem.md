@@ -1,10 +1,7 @@
 ﻿---
 ac: '31'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Golem Antimagic
@@ -13,10 +10,7 @@ creature_ability:
 - Vulnerable to Shatter
 creature_family: '[[DATABASE/monsterfamily/Golem|Golem]]'
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+20'
-hardness: null
 hp: '195'
 id: '2147'
 immunity:
@@ -37,7 +31,6 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '25'
-language: null
 level: '11'
 max_speed: '25'
 name: Solar Glass Golem
@@ -46,8 +39,6 @@ rarity: Rare
 reflex: '+20'
 resistance:
 - physical 10 (except [[DATABASE/equipment/Adamantine|adamantine]] or bludgeoning)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -59,13 +50,11 @@ source: '[[DATABASE/source/Pathfinder 184. The Ghouls Hunger|Pathfinder #184: Th
   Ghouls Hunger]]'
 speed:
 - 25 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Golem|Golem]]'
@@ -75,7 +64,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+17'
 wisdom: '+0'
 

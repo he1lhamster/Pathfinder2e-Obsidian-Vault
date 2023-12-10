@@ -1,24 +1,17 @@
 ﻿---
 ac: '33'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Flurry of Blows
 - Knocking Sweep
 - Powerful Fists
 - Punch Down
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+23'
 hp: '230'
 id: '1451'
-immunity: null
 intelligence: '+2'
 land_speed: '30'
 language:
@@ -30,9 +23,6 @@ name: Ki Adept
 perception: '+23'
 rarity: Uncommon
 reflex: '+23'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +26'
@@ -55,18 +45,15 @@ strongest_save:
 - Fortitude
 - Reflex
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
 - Reflex
 - Will
-weakness: null
 will: '+23'
 wisdom: '+3'
 

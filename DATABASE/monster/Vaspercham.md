@@ -1,25 +1,17 @@
 ﻿---
 ac: '41'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Hallucinatory Brine
 - Magic-Warping Aura
 - Mindwarping Tide
 - Whipping Tentacles
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+31'
-hardness: null
 hp: '335'
 id: '846'
-immunity: null
 intelligence: '+8'
 land_speed: '20'
 language:
@@ -33,8 +25,6 @@ reflex: '+25'
 resistance:
 - cold 10
 - electricity 10
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/spell/See Invisibility|see invisibility]]'

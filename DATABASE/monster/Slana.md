@@ -1,8 +1,6 @@
 ﻿---
 ac: '45'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
 climb_speed: '30'
 constitution: '+7'
@@ -10,12 +8,8 @@ creature_ability:
 - Great Roar
 - Pounce
 - Thunder Trap
-creature_family: null
 dexterity: '+7'
-element: null
-fly_speed: null
 fortitude: '+35'
-hardness: null
 hp: 380 ( fast healing 20)
 id: '1798'
 immunity:
@@ -33,8 +27,6 @@ rarity: Rare
 reflex: '+33'
 resistance:
 - '[[DATABASE/trait/Sonic|sonic]] 30'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 120 feet'
@@ -71,7 +63,6 @@ vision: Low-light vision
 weakest_save:
 - Reflex
 - Will
-weakness: null
 will: '+33'
 wisdom: '+7'
 

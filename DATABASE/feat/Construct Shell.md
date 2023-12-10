@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Construct Shell
-frequency: null
-heighten_level: null
 id: '3061'
 level: '6'
 name: Construct Shell
 prerequisite: '[[DATABASE/inventorinnovation/Construct Innovation|construct innovation]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Inventor|Inventor]]'
-trigger: null
 type: Feat
 
 ---

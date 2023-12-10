@@ -1,53 +1,14 @@
 ﻿---
-ac: '18'
-actions: null
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: '+12'
-frequency: null
-hands: null
-hardness: '10'
-hp: '80'
+hands: '2'
 id: '38'
-item_category: Vehicles
-item_subcategory: null
-land_speed: null
-level: '5'
-max_speed: '20'
+item_category: Adventuring Gear
+level: '0'
 name: Oil
-onset: null
-price: 480 gp
-range: null
-rarity: Uncommon
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
-school: null
-size: Large
+price: 1 cp
+rarity: Common
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-spell: null
-stage: null
 subcategory: adventuringgear
-swim_speed: '20'
-trait:
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
-type: Vehicle
-usage: null
-weapon_category: null
-weapon_group: null
-weapon_type: null
+type: Item
 
 ---
 # Oil<span class="item-type">Item 0</span>

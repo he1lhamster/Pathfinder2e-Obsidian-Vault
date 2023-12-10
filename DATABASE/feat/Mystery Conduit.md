@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Mystery Conduit
-frequency: null
-heighten_level: null
 id: '1509'
 level: '20'
 name: Mystery Conduit
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Oracle|Oracle]]'
-trigger: null
 type: Feat
 
 ---

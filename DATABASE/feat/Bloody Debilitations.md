@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Bloody Debilitations
-frequency: null
-heighten_level: null
 id: '1803'
 level: '12'
 name: Bloody Debilitations
 prerequisite: Trained in [[DATABASE/skill/Medicine|Medicine]] ; [[DATABASE/class_/Rogue|Debilitating
   Strike]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Rogue|Rogue]]'
-trigger: null
 type: Feat
 
 ---

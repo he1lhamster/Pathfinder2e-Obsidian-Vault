@@ -16,14 +16,12 @@ id: '21'
 name: Psychic
 perception_proficiency: Trained
 rarity: Common
-rus_type_level: null
 skill_proficiency:
 - Trained in Occultism
 - Trained in a number of additional skills equal to 3 plus your Intelligence modifier
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 tradition:
 - Occult
-trait: null
 type: Class
 
 ---

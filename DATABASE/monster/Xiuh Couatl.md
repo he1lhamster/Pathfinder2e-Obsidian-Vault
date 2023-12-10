@@ -1,10 +1,7 @@
 ﻿---
 ac: '33'
 alignment: NG
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Breath Weapon
@@ -16,10 +13,8 @@ creature_ability:
 - Couatl Venom
 creature_family: '[[DATABASE/monsterfamily/Couatl|Couatl]]'
 dexterity: '+3'
-element: null
 fly_speed: '60'
 fortitude: '+20'
-hardness: null
 hp: '220'
 id: '1105'
 immunity:
@@ -38,9 +33,6 @@ name: Xiuh Couatl
 perception: '+23'
 rarity: Rare
 reflex: '+19'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - thoughtsense (imprecise) 60 feet
@@ -85,7 +77,6 @@ strength: '+7'
 strength_req: '7'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Couatl|Couatl]]'

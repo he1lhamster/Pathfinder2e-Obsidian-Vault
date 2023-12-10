@@ -1,20 +1,14 @@
 ﻿---
-area: null
 cost: "splendid art supplies worth at least 100 gp \xD7 the target's level, at least\
   \ one pint of blood from thetarget"
 duration: 1 year
-element: null
-heighten: null
 heighten_level: '5'
 id: '63'
 level: '5'
 name: Portrait of Spite
 primary_check: '[[DATABASE/skill/Occultism|Occultism]] or [[DATABASE/skill/Religion|Religion]]
   (master)'
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Necromancy
 secondary_casters: '3'
 secondary_check: '[[DATABASE/skill/Crafting|Crafting]] , Occultism or Religion (whichever

@@ -1,26 +1,18 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Ghost Eater Dedication
-frequency: null
-heighten_level: null
 id: '2710'
+leads_to: '[[DATABASE/feat/Cross the Threshold|Cross the Threshold]] , [[DATABASE/feat/Disrupting
+  Strikes|Disrupting Strikes]] , [[DATABASE/feat/Reach Beyond|Reach Beyond]]'
 level: '2'
 name: Ghost Eater Dedication
 prerequisite: Trained in [[DATABASE/skill/Occultism|Occultism]] or Trained in [[DATABASE/skill/Religion|Religion]]
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #166:
   Despair on Danger Island]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

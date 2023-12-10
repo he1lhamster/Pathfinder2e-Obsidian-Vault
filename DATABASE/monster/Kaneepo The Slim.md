@@ -1,10 +1,7 @@
 ﻿---
 ac: '20'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Create Breach
@@ -12,12 +9,8 @@ creature_ability:
 - Shadow Pull
 - Shadowfeed
 - Slimstep
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+9'
-hardness: null
 hp: '80'
 id: '2450'
 immunity:
@@ -34,10 +27,6 @@ name: Kaneepo The Slim
 perception: '+14'
 rarity: Unique
 reflex: '+14'
-resistance: null
-rus_type_level: null
-school: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Arcana|Arcana]] +10'
@@ -58,12 +47,10 @@ strength_req: '3'
 strongest_save:
 - Reflex
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
 weakness:

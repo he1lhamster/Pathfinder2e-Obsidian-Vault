@@ -1,23 +1,17 @@
 ﻿---
 ac: '28'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Create Golden Apple
 - Sunset Dependent
 creature_family: '[[DATABASE/monsterfamily/Nymph|Nymph]]'
 dexterity: '+6'
-element: null
 fly_speed: '60'
 fortitude: '+15'
-hardness: null
 hp: '175'
 id: '1250'
-immunity: null
 intelligence: '+4'
 land_speed: '30'
 language:
@@ -30,9 +24,6 @@ name: Hesperid
 perception: '+19'
 rarity: Common
 reflex: '+21'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
@@ -61,7 +52,6 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Light|Light]]'

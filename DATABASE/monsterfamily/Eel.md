@@ -3,9 +3,7 @@ creature_family: Eel
 id: '40'
 name: Eel
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
-trait: null
 type: Creature Family
 
 ---

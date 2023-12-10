@@ -5,7 +5,6 @@ name: Golem Grafter
 prerequisite: expert in [[DATABASE/skill/Arcana|Arcana]] and [[DATABASE/skill/Crafting|Crafting]]
   , or an ally with expert proficiency in those skills willing to augment you
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 153. Life''s Long Shadows|Pathfinder #153: Life''s
   Long Shadows]]'
 trait:

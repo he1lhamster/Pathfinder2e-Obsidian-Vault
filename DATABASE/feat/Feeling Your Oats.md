@@ -1,27 +1,19 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Feeling Your Oats
 frequency: once per hour
-heighten_level: null
 id: '4139'
 level: '6'
 name: Feeling Your Oats
 prerequisite: '[[DATABASE/feat/Celebrity Dedication|Celebrity Dedication]] or [[DATABASE/feat/Dandy
   Dedication|Dandy Dedication]] ; Trained in [[DATABASE/skill/Deception|Deception]]'
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Firebrands|Firebrands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Open|Open]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

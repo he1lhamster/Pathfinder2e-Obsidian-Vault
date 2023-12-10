@@ -1,9 +1,5 @@
 ﻿---
-area: null
 cost: "black onyx, see Table 7\u20131"
-duration: null
-element: null
-heighten: null
 heighten_level: '2'
 id: '10'
 level: '2'
@@ -12,8 +8,6 @@ primary_check: '[[DATABASE/skill/Arcana|Arcana]] (expert), [[DATABASE/skill/Occu
   (expert), or [[DATABASE/skill/Religion|Religion]] (expert)'
 range: 10 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Necromancy
 secondary_casters: '1'
 secondary_check: Religion

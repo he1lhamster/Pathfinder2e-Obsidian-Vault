@@ -1,24 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Expert Skysage Divination
-frequency: null
-heighten_level: null
 id: '4071'
+leads_to: '[[DATABASE/feat/Master Skysage Divination|Master Skysage Divination]]'
 level: '10'
 name: Expert Skysage Divination
 prerequisite: '[[DATABASE/feat/Basic Skysage Divination|Basic Skysage Divination]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 187. The Seventh Arch|Pathfinder #187: The Seventh
   Arch]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

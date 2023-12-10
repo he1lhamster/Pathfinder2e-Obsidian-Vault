@@ -31,11 +31,9 @@ follower_alignment:
 id: '209'
 name: Pillars of Knowledge
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Crafting|Crafting]]'
 source: '[[DATABASE/source/Friends in High Places|Friends in High Places]]'
-trait: null
 type: Deity
 
 ---

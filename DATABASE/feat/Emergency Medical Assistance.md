@@ -1,10 +1,6 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Emergency Medical Assistance
-frequency: null
-heighten_level: null
 id: '2258'
 level: '12'
 name: Emergency Medical Assistance
@@ -13,15 +9,11 @@ prerequisite: '[[DATABASE/feat/Swordmaster Dedication|Swordmaster Dedication]] ;
 rarity: Common
 requirement: An adjacent ally is suffering [[DATABASE/condition/Persistent Damage|persistent
   damage]] .
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

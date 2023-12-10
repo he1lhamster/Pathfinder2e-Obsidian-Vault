@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Triple Threat
-frequency: null
-heighten_level: null
 id: '548'
 level: '20'
 name: Triple Threat
 prerequisite: '[[DATABASE/feat/Shared Prey|Shared Prey]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Ranger|Ranger]]'
-trigger: null
 type: Feat
 
 ---

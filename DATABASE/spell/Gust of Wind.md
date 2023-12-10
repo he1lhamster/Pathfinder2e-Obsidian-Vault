@@ -1,11 +1,9 @@
 ﻿---
 actions: '[two-actions]'
 area: 60-foot line
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Gozreh|Gozreh]]'
 - '[[DATABASE/deity/Hei Feng|HeiFeng]]'
@@ -14,32 +12,23 @@ deity:
 - '[[DATABASE/deity/Pazuzu|Pazuzu]]'
 - '[[DATABASE/deity/Seafarer''s Hope|Seafarer''s Hope]]'
 - '[[DATABASE/deity/Sky Keepers|Sky Keepers]]'
-domain: null
 duration: until the start of your next turn
 element: Air
-heighten: null
 heighten_level: '1'
 id: '143'
-lesson: null
 level: '1'
-mystery: null
 name: Gust of Wind
 patron_theme: '[[DATABASE/witchpatron/Winter|Winter]]'
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Fortitude
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Arcane
 - Primal
 trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
-trigger: null
 type: Spell
 
 ---

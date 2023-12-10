@@ -1,10 +1,7 @@
 ﻿---
 ac: '18'
 alignment: NG
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Change Shape
@@ -13,13 +10,9 @@ creature_ability:
 - Transfer Protection
 creature_family: '[[DATABASE/monsterfamily/Angel|Angel]]'
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+7'
-hardness: null
 hp: '20'
 id: '13'
-immunity: null
 intelligence: '-1'
 land_speed: '40'
 language:
@@ -36,8 +29,6 @@ reflex: '+6'
 resistance:
 - '[[DATABASE/trait/Cold|cold]] 3'
 - '[[DATABASE/trait/Fire|fire]] 3'
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Tiny
@@ -59,7 +50,6 @@ strength: '-1'
 strength_req: '-1'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Angel|Angel]]'
 - '[[DATABASE/trait/Celestial|Celestial]]'

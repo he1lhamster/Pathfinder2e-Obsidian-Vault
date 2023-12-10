@@ -3,10 +3,8 @@ creature_family: Aluum
 id: '113'
 name: Aluum
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 149. Against the Scarlet Triad|Pathfinder #149:
   Against the Scarlet Triad]]'
-trait: null
 type: Creature Family
 
 ---

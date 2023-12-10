@@ -1,25 +1,17 @@
 ﻿---
 ac: '17'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Corpse Disguise
 - Deep Breath
 - Shell Block
 - Shell Game
-creature_family: null
 dexterity: '-1'
-element: null
-fly_speed: null
 fortitude: '+8'
-hardness: null
 hp: '20'
 id: '436'
-immunity: null
 intelligence: '-3'
 land_speed: '20'
 language:
@@ -31,9 +23,6 @@ name: Graveshell
 perception: '+4'
 rarity: Uncommon
 reflex: '+2'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - wavesense (imprecise) 30 feet
@@ -46,7 +35,6 @@ source: '[[DATABASE/source/Pathfinder 145. Hellknight Hill|Pathfinder #145: Hell
 speed:
 - 20 feet
 - swim 20 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
@@ -59,7 +47,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+4'
 wisdom: '+1'
 

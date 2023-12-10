@@ -1,27 +1,19 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Wandering Thoughts
 frequency: once per round
-heighten_level: null
 id: '3690'
 level: '16'
 name: Wandering Thoughts
-prerequisite: null
 rarity: Common
 requirement: You used your most recent action to Cast a Spell.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Occult|Occult]]'
 - '[[DATABASE/trait/Psyche|Psyche]]'
 - '[[DATABASE/trait/Psychic|Psychic]]'
 - '[[DATABASE/trait/Teleportation|Teleportation]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,27 +1,20 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Mesmerizing Gaze
-frequency: null
-heighten_level: null
 id: '1933'
+leads_to: '[[DATABASE/feat/Acknowledge Fan|Acknowledge Fan]]'
 level: '6'
 name: Mesmerizing Gaze
 prerequisite: '[[DATABASE/feat/Celebrity Dedication|Celebrity Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Enchantment
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Emotion|Emotion]]'
 - '[[DATABASE/trait/Enchantment|Enchantment]]'
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Visual|Visual]]'
-trigger: null
 type: Feat
 
 ---

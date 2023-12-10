@@ -1,27 +1,13 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
-component: null
-cost: null
-deity: null
-domain: null
-duration: null
 element: Air
 heighten: 4th
 heighten_level: 2, 4
 id: '1325'
-lesson: null
 level: '2'
-mystery: null
 name: Voice on the Breeze
-patron_theme: null
 range: 10 miles
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 target: 10-foot burst
 tradition:
@@ -32,7 +18,6 @@ trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
-trigger: null
 type: Spell
 
 ---

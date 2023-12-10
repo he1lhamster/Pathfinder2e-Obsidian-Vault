@@ -2,9 +2,7 @@
 ac: '39'
 alignment: CE
 all_resistance: '12'
-burrow_speed: null
 charisma: '+7'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Hears Heartbeats
@@ -14,12 +12,9 @@ creature_ability:
 - Vengeful Spite
 - ''
 - Wail
-creature_family: null
 dexterity: '+6'
-element: null
 fly_speed: '60'
 fortitude: '+25'
-hardness: null
 hp: 250 ( negative healing )
 id: '39'
 immunity:
@@ -29,7 +24,6 @@ immunity:
 - precision
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '+0'
-land_speed: null
 language:
 - '[[DATABASE/language/Common|Common]]'
 - '[[DATABASE/language/Elven|Elven]]'
@@ -44,8 +38,6 @@ resistance:
 - '[[DATABASE/equipment/Ghost Touch|ghost touch]]'
 - or [[DATABASE/trait/Positive|positive]] ; double resistance vs. non- [[DATABASE/trait/Magical|magical]]
   )
-rus_type_level: null
-school: null
 sense:
 - hears heartbeats (imprecise) 60 feet
 - darkvision
@@ -57,12 +49,10 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - fly 60 feet
-spell: null
 strength: '-5'
 strength_req: '-5'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Incorporeal|Incorporeal]]'
 - '[[DATABASE/trait/Spirit|Spirit]]'
@@ -72,7 +62,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+32'
 wisdom: '+7'
 

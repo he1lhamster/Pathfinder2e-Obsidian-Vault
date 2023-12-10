@@ -1,8 +1,6 @@
 ﻿---
 ac: '39'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+8'
 climb_speed: '30'
 constitution: '+7'
@@ -18,12 +16,9 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Nymph|Nymph]]'
 dexterity: '+8'
 element: Earth
-fly_speed: null
 fortitude: '+26'
-hardness: null
 hp: '234'
 id: '1251'
-immunity: null
 intelligence: '+4'
 land_speed: '30'
 language:
@@ -39,9 +34,6 @@ name: Lampad Queen
 perception: '+27'
 rarity: Uncommon
 reflex: '+29'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -98,7 +90,6 @@ strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Fey|Fey]]'

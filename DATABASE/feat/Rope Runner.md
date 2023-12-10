@@ -1,25 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Rope Runner
-frequency: null
-heighten_level: null
 id: '2034'
 level: '4'
 name: Rope Runner
 prerequisite: Trained in [[DATABASE/skill/Acrobatics|Acrobatics]] ; Trained in [[DATABASE/skill/Athletics|Athletics]]
   ; [[DATABASE/feat/Pirate Dedication|PirateDedication]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

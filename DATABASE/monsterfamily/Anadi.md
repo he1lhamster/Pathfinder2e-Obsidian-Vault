@@ -3,9 +3,7 @@ creature_family: Anadi
 id: '107'
 name: Anadi
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
-trait: null
 type: Creature Family
 
 ---

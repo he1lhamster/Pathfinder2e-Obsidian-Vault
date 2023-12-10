@@ -3,7 +3,6 @@ id: '6'
 level: '0'
 name: Crop Failure
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Agriculture|Agriculture]]'
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'

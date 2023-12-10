@@ -2,9 +2,6 @@
 id: '185'
 name: Heroes or Gods
 rarity: Common
-rus_type_level: null
-source: null
-trait: null
 type: Source
 
 ---

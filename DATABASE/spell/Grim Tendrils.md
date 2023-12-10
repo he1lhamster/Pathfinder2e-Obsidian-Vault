@@ -5,7 +5,6 @@ bloodline: '[[DATABASE/sorcererbloodline/Shadow|Shadow]]'
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Charon|Charon]]'
 - '[[DATABASE/deity/Dajermube|Dajermube]]'
@@ -15,32 +14,21 @@ deity:
 - '[[DATABASE/deity/Nyarlathotep|Nyarlathotep (Haunter in theDark)]]'
 - '[[DATABASE/deity/Orcus|Orcus]]'
 - '[[DATABASE/deity/Treerazer|Treerazer]]'
-domain: null
-duration: null
-element: null
 heighten: '+1'
 heighten_level: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
 id: '141'
-lesson: null
 level: '1'
-mystery: null
 name: Grim Tendrils
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Fortitude
 school: Necromancy
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Arcane
 - Occult
 trait:
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Negative|Negative]]'
-trigger: null
 type: Spell
 
 ---

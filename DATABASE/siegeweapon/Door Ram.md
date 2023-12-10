@@ -1,19 +1,11 @@
 ﻿---
-ac: null
 bulk: '3'
-fortitude: null
-hardness: null
-hp: null
 id: '6'
 item_category: Siege Weapons
-land_speed: null
 level: '2'
-max_speed: null
 name: Door Ram
 price: 30 gp
 rarity: Uncommon
-reflex: null
-rus_type_level: null
 size: Small
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:

@@ -1,24 +1,17 @@
 ﻿---
 ac: '19'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Demonic Strength
 - No Escape
 - Shield Block
 - Tainted Rage
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+9'
 hp: '30'
 id: '2004'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -29,9 +22,6 @@ name: Corrupted Retainer
 perception: '+6'
 rarity: Common
 reflex: '+6'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +6'
@@ -41,20 +31,16 @@ source: '[[DATABASE/source/Pathfinder 151. The Show Must Go On|Pathfinder #151: 
   Show Must Go On]]'
 speed:
 - 25 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+7'
 wisdom: '+2'
 

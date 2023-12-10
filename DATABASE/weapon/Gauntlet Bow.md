@@ -1,8 +1,6 @@
 ﻿---
 bulk: '1'
 damage: 1d4 P
-deity: null
-favored_weapon: null
 hands: '1'
 id: '335'
 item_category: Weapons
@@ -12,7 +10,6 @@ name: Gauntlet Bow
 price: 9 gp
 range: 60 ft.
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 trait:
 - '[[DATABASE/trait/Capacity|Capacity 4]]'

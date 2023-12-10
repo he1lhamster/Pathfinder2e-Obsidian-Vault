@@ -1,26 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Accursed Clay Fist
-frequency: null
-heighten_level: null
 id: '1228'
 level: '10'
 name: Accursed Clay Fist
 prerequisite: '[[DATABASE/feat/Golem Grafter Dedication|Golem Grafter Dedication]]
   ; expert in unarmed attacks'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 153. Life''s Long Shadows|Pathfinder #153: Life''s
   Long Shadows]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Curse|Curse]]'
-trigger: null
 type: Feat
 
 ---

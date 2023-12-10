@@ -1,10 +1,6 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Self-Destruct
-frequency: null
-heighten_level: null
 id: '3650'
 level: '12'
 name: Self-Destruct
@@ -12,11 +8,8 @@ prerequisite: '[[DATABASE/feat/Clockwork Reanimator Dedication|Clockwork Reanima
   Dedication]]'
 rarity: Common
 requirement: You're within 60 feet of your reanimated clockwork companion.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 180. The Smoking Gun|Pathfinder #180: The Smoking
   Gun]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 trigger: Your reanimated clockwork companion is reduced to 0 Hit Points.

@@ -1,21 +1,14 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Scholar's Hunch
 frequency: once per hour
-heighten_level: null
 id: '4069'
 level: '8'
 name: Scholar's Hunch
 prerequisite: '[[DATABASE/feat/Oatia Skysage Dedication|Oatia Skysage Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 187. The Seventh Arch|Pathfinder #187: The Seventh
   Arch]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Fortune|Fortune]]'

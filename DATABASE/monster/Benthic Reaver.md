@@ -1,10 +1,7 @@
 ﻿---
 ac: '46'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Comfort of the Deep
@@ -13,12 +10,8 @@ creature_ability:
 - Song of the Lost
 - Tail Sweep
 - Tail Sweep
-creature_family: null
 dexterity: '+8'
-element: null
-fly_speed: null
 fortitude: '+38'
-hardness: null
 hp: 500 ( negative healing )
 id: '2403'
 immunity:
@@ -44,8 +37,6 @@ rarity: Unique
 reflex: '+35'
 resistance:
 - physical 10 (except [[DATABASE/equipment/Adamantine Weapon|adamantine]] )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/spell/True Seeing|true seeing]]'

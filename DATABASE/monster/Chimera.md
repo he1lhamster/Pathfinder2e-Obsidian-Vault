@@ -1,10 +1,7 @@
 ﻿---
 ac: '27'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Attack of Opportunity
@@ -14,15 +11,11 @@ creature_ability:
 - Three-Headed Strike
 - Triple
 - Opportunity
-creature_family: null
 dexterity: '+2'
-element: null
 fly_speed: '40'
 fortitude: '+18'
-hardness: null
 hp: '135'
 id: '80'
-immunity: null
 intelligence: '-3'
 land_speed: '25'
 language:
@@ -33,9 +26,6 @@ name: Chimera
 perception: '+16'
 rarity: Uncommon
 reflex: '+16'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - scent (imprecise) 30 feet
@@ -48,12 +38,10 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 25 feet
 - fly 40 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
@@ -61,7 +49,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+14'
 wisdom: '+2'
 

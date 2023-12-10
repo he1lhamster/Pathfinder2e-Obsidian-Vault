@@ -3,9 +3,7 @@ creature_family: Scholars
 id: '195'
 name: Scholars
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
-trait: null
 type: Creature Family
 
 ---

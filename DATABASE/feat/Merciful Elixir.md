@@ -1,20 +1,13 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Merciful Elixir
 frequency: once per round
-heighten_level: null
 id: '111'
+leads_to: '[[DATABASE/feat/Greater Merciful Elixir|Greater Merciful Elixir]]'
 level: '10'
 name: Merciful Elixir
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Additive|Additive 2]]'
 - '[[DATABASE/trait/Alchemist|Alchemist]]'

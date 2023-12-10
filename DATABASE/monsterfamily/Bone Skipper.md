@@ -3,10 +3,8 @@ creature_family: Bone Skipper
 id: '207'
 name: Bone Skipper
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 158. Sixty Feet Under|Pathfinder #158: Sixty
   Feet Under]]'
-trait: null
 type: Creature Family
 
 ---

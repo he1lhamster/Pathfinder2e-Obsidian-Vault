@@ -1,22 +1,15 @@
 ﻿---
 ac: '32'
-alignment: null
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+8'
 creature_ability:
 - Marinade
 - Roast
 - Serve
 - Skewer Master
-creature_family: null
 dexterity: '+4'
 element: Fire
-fly_speed: null
 fortitude: '+28'
-hardness: null
 hp: '259'
 id: '2632'
 immunity:
@@ -36,9 +29,6 @@ name: Brochmaw
 perception: '+24'
 rarity: Common
 reflex: '+20'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Huge
@@ -50,12 +40,10 @@ skill:
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 speed:
 - 25 feet
-spell: null
 strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Elemental|Elemental]]'
 - '[[DATABASE/trait/Fire|Fire]]'

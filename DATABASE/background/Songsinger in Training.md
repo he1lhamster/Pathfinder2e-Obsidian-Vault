@@ -1,18 +1,8 @@
 ﻿---
-ability: null
-ability_boost: null
-feat: null
 id: '294'
 name: Songsinger in Training
-prerequisite: null
-rarity: null
-rus_type_level: null
-skill: null
 source: '[[DATABASE/source/Quest for the Frozen Flame Player''s Guide|Quest for the
   Frozen Flame Player''s Guide]]'
-subcategory: null
-trait: null
-type: null
 
 ---
 # Songsinger in Training<span class="item-type">Background</span>

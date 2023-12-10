@@ -1,28 +1,21 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Vivacious Afterimage
-frequency: null
-heighten_level: null
 id: '2757'
 level: '20'
 name: Vivacious Afterimage
 prerequisite: '[[DATABASE/class_/Swashbuckler|vivacious speed]]'
 rarity: Uncommon
 requirement: You have panache.
-rus_type_level: null
 school: Illusion
 source: '[[DATABASE/source/Pathfinder 168. King of the Mountain|Pathfinder #168: King
   of the Mountain]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Illusion|Illusion]]'
 - '[[DATABASE/trait/Occult|Occult]]'
 - '[[DATABASE/trait/Swashbuckler|Swashbuckler]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 - '[[DATABASE/trait/Visual|Visual]]'
-trigger: null
 type: Feat
 
 ---

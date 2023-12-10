@@ -1,8 +1,6 @@
 ﻿---
 ac: '14'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
 climb_speed: '20'
 constitution: '+1'
@@ -12,25 +10,17 @@ creature_ability:
 - Toxic Skin
 creature_family: '[[DATABASE/monsterfamily/Frog|Frog]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+5'
-hardness: null
 hp: '12'
 id: '674'
-immunity: null
 intelligence: '-4'
 land_speed: '20'
-language: null
 level: '0'
 max_speed: '20'
 name: Spear Frog
 perception: '+6'
 rarity: Common
 reflex: '+7'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Tiny
@@ -42,7 +32,6 @@ speed:
 - 20 feet
 - climb 20 feet
 - swim 20 feet
-spell: null
 strength: '-2'
 strength_req: '-2'
 strongest_save:
@@ -54,7 +43,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+6'
 wisdom: '+2'
 

@@ -1,25 +1,17 @@
 ﻿---
 ac: '19'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Far-Reaching Fear
 - Predator's Decree
 - Sacrificial Takedown
 - Stench
-creature_family: null
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+9'
-hardness: null
 hp: '50'
 id: '2611'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -31,9 +23,6 @@ name: Hhruklaz
 perception: '+8'
 rarity: Unique
 reflex: '+7'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -46,12 +35,10 @@ source: '[[DATABASE/source/Pathfinder 193. Mantle of Gold|Pathfinder #193: Mantl
   of Gold]]'
 speed:
 - 25 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
@@ -60,7 +47,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+10'
 wisdom: '+3'
 

@@ -1,25 +1,19 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Vehicle Mechanic Dedication
-frequency: null
-heighten_level: null
 id: '3147'
+leads_to: '[[DATABASE/feat/Efficient Controls|Efficient Controls]] , [[DATABASE/feat/Engine
+  Bay|Engine Bay]] , [[DATABASE/feat/Impervious Vehicle|Impervious Vehicle]] , [[DATABASE/feat/Miraculous
+  Flight|Miraculous Flight]] , [[DATABASE/feat/Patch Job|Patch Job]] , [[DATABASE/feat/Superior
+  Propulsion|Superior Propulsion]]'
 level: '2'
 name: Vehicle Mechanic Dedication
 prerequisite: Intelligence 14; Trained in [[DATABASE/skill/Crafting|Crafting]]
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

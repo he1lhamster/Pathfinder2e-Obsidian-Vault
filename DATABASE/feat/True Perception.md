@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: True Perception
-frequency: null
-heighten_level: null
 id: '2155'
 level: '19'
 name: True Perception
 prerequisite: legendary in Perception
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Revelation|Revelation]]'
-trigger: null
 type: Feat
 
 ---

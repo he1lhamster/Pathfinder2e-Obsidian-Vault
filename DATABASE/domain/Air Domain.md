@@ -1,7 +1,6 @@
 ﻿---
 advanced_apocryphal_spell: '[[DATABASE/spell/Wind Whispers|Wind Whispers]]'
 advanced_domain_spell: '[[DATABASE/spell/Disperse into Air|Disperse into Air]]'
-apocryphal_spell: null
 deity:
 - '[[DATABASE/deity/Apollyon|Apollyon]]'
 - '[[DATABASE/deity/Baalzebul|Baalzebul]]'
@@ -25,9 +24,7 @@ domain_spell: '[[DATABASE/spell/Pushing Gust|Pushing Gust]]'
 id: '2'
 name: Air Domain
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Domain
 
 ---

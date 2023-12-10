@@ -10,9 +10,7 @@ level: '0'
 name: Klar
 price: 3 gp
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-speed_penalty: null
 trait:
 - '[[DATABASE/trait/Integrated|Integrated 1d6 S (Versatile P)]]'
 type: Shield

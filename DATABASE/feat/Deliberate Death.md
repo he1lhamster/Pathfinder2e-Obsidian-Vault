@@ -1,20 +1,12 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Deliberate Death
 frequency: once per day
-heighten_level: null
 id: '2355'
 level: '1'
 name: Deliberate Death
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Duskwalker|Duskwalker]]'
 trigger: You are about to gain the [[DATABASE/condition/Dying|dying]] condition as

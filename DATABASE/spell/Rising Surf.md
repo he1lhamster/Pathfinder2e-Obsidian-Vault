@@ -1,38 +1,7 @@
 ﻿---
-actions: '[one-action]'
-area: null
-bloodline: null
-component: null
-cost: null
-deity: null
-domain: null
-duration: null
-element: Water
-heighten: '+2'
-heighten_level: 1, 3, 5, 7, 9
-id: '1310'
-lesson: null
-level: '1'
-mystery: null
+id: '1056'
 name: Rising Surf
-patron_theme: null
-range: 30 feet
-rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
-school: null
-source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-target: null
-tradition: null
-trait:
-- '[[DATABASE/trait/Focus|Focus]]'
-- '[[DATABASE/trait/Manipulate|Manipulate]]'
-- '[[DATABASE/trait/Move|Move]]'
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
-- '[[DATABASE/trait/Water|Water]]'
-trigger: null
-type: Focus
+source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 
 ---
 # Rising Surf<span class="item-type">Focus 1</span>

@@ -8,9 +8,7 @@ ability_boost:
 feat: '[[DATABASE/feat/Terrain Expertise|Terrain Expertise]]'
 id: '396'
 name: Outskirt Dweller
-prerequisite: null
 rarity: Rare
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Nature|Nature]]'
 - Hunting [[DATABASE/skill/Lore|Lore]]

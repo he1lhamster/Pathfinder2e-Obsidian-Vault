@@ -1,8 +1,6 @@
 ﻿---
 ac: '40'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+32'
 hardness: 29 Pillar Hardness
 hazard_type: Trap
@@ -16,9 +14,6 @@ level: '17'
 name: Soul Stasis
 rarity: Uncommon
 reflex: '+26'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 186. Ghost King''s Rage|Pathfinder #186: Ghost
   King''s Rage]]'
 trait:
@@ -27,8 +22,6 @@ trait:
 - '[[DATABASE/trait/Trap|Trap]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Soul Stasis<span class="item-type">Hazard 17</span>

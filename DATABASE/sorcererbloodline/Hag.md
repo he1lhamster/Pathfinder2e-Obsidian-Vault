@@ -3,7 +3,6 @@ bloodline: Hag
 id: '8'
 name: Hag
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 spell:
 - '[[DATABASE/spell/Baleful Polymorph|Baleful Polymorph]]'
@@ -19,7 +18,6 @@ spell:
 - '[[DATABASE/spell/Touch of Idiocy|Touch of Idiocy]]'
 - '[[DATABASE/spell/Warp Mind|Warp Mind]]'
 - '[[DATABASE/spell/You''re Mine|You''re Mine]]'
-trait: null
 type: Sorcerer Bloodline
 
 ---

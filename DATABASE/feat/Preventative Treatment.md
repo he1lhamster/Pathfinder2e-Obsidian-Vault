@@ -1,26 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Preventative Treatment
-frequency: null
-heighten_level: null
 id: '3618'
 level: '8'
 name: Preventative Treatment
 prerequisite: '[[DATABASE/feat/Medic Dedication|Medic Dedication]] ; [[DATABASE/feat/Treat
   Condition|Treat Condition]]'
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Secret|Secret]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

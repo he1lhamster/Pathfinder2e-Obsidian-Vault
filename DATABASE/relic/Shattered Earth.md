@@ -3,9 +3,7 @@ element: Earth
 id: '27'
 item_category: Relics
 name: Shattered Earth
-prerequisite: null
 rarity: Common
-rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:

@@ -1,24 +1,17 @@
 ﻿---
 ac: '41'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Bloodcurdling Screech
 - Gnaw
 - Screeching Advance
-creature_family: null
 dexterity: '+5'
-element: null
 fly_speed: '50'
 fortitude: '+32'
-hardness: null
 hp: '380'
 id: '2355'
-immunity: null
 intelligence: '-2'
 land_speed: '30'
 language:
@@ -29,9 +22,6 @@ name: Winged Owlbear
 perception: '+32'
 rarity: Common
 reflex: '+30'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monster/I|low-light vision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -44,20 +34,16 @@ source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 speed:
 - 30 feet
 - fly 50 feet
-spell: null
 strength: '+9'
 strength_req: '9'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
 - Will
-weakness: null
 will: '+30'
 wisdom: '+5'
 

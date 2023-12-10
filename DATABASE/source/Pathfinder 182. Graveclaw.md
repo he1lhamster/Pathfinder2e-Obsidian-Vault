@@ -2,9 +2,6 @@
 id: '143'
 name: Pathfinder 182. Graveclaw
 rarity: Common
-rus_type_level: null
-source: null
-trait: null
 type: Source
 
 ---

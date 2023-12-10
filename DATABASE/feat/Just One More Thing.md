@@ -1,26 +1,17 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Just One More Thing
-frequency: null
-heighten_level: null
 id: '1468'
 level: '10'
 name: Just One More Thing
-prerequisite: null
 rarity: Common
 requirement: Your most recent action was to [[DATABASE/action/Feint|Feint]] , [[DATABASE/action/Request|Request]]
   , or [[DATABASE/action/Demoralize|Demoralize]] , and you failed but didn't critically
   fail.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fortune|Fortune]]'
 - '[[DATABASE/trait/Investigator|Investigator]]'
-trigger: null
 type: Feat
 
 ---

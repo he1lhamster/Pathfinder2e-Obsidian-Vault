@@ -1,29 +1,17 @@
 ﻿---
 actions: '[three-actions]'
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 10 minutes
-element: null
 heighten: 6th, 8th
 heighten_level: 5, 6, 8
 id: '676'
-lesson: null
 level: '5'
-mystery: null
 name: Chameleon Coat
-patron_theme: null
 range: 15 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Illusion
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 target: up to 8 creatures
@@ -31,7 +19,6 @@ tradition:
 - Primal
 trait:
 - '[[DATABASE/trait/Illusion|Illusion]]'
-trigger: null
 type: Spell
 
 ---

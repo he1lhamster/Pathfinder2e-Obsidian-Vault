@@ -1,22 +1,16 @@
 ﻿---
 ac: '27'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Flying Strafe
 - No Breath
 - Share Defenses
 - Slippery
-creature_family: null
 dexterity: '+3'
-element: null
 fly_speed: '60'
 fortitude: '+18'
-hardness: null
 hp: '115'
 id: '1293'
 immunity:
@@ -33,8 +27,6 @@ rarity: Uncommon
 reflex: '+13'
 resistance:
 - cold 10
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Huge
@@ -45,12 +37,10 @@ source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 20 feet
 - fly 60 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
@@ -58,7 +48,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+16'
 wisdom: '+4'
 

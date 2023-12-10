@@ -1,10 +1,7 @@
 ﻿---
 ac: '41'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Divine Font
@@ -12,15 +9,10 @@ creature_ability:
 - Reminder of Doom
 - Resolve
 - Steady Spellcasting
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+27'
-hardness: null
 hp: '315'
 id: '2339'
-immunity: null
 intelligence: '+2'
 land_speed: '25'
 language:
@@ -34,8 +26,6 @@ rarity: Rare
 reflex: '+29'
 resistance:
 - mental 15
-rus_type_level: null
-school: null
 sense:
 - unseen sight
 size: Medium
@@ -86,16 +76,13 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+33'
 wisdom: '+6'
 

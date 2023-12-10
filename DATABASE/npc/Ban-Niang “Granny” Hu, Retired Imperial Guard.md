@@ -1,24 +1,17 @@
 ﻿---
 ac: '20'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Are You Sure About That?
 - Nerves of Steel
 - So Have You Heard?
 - Want to Try Me?
-creature_family: null
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+10'
 hp: '75'
 id: '2735'
-immunity: null
 intelligence: '+2'
 land_speed: '25'
 language:
@@ -30,9 +23,6 @@ name: "Ban-Niang \u201CGranny\u201D Hu"
 perception: '+11'
 rarity: Unique
 reflex: '+10'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +11'
@@ -46,22 +36,18 @@ source: '[[DATABASE/source/Pathfinder 196. The Summer That Never Was|Pathfinder 
   The Summer That Never Was]]'
 speed:
 - 25 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
 - Reflex
-weakness: null
 will: '+13'
 wisdom: '+2'
 

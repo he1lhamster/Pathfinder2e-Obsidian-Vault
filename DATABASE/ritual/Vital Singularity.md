@@ -1,24 +1,17 @@
 ﻿---
-area: null
 cost: crushed rubies worth 2,000 gp
 duration: 3 hours
-element: null
-heighten: null
 heighten_level: '9'
 id: '90'
 level: '9'
 name: Vital Singularity
 primary_check: '[[DATABASE/skill/Occultism|Occultism]] or [[DATABASE/skill/Religion|Religion]]
   (legendary)'
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Abjuration
 secondary_casters: '3'
 secondary_check: Fortitude, [[DATABASE/skill/Society|Society]] , Will
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-target: null
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

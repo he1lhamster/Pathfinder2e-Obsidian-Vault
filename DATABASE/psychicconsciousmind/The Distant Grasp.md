@@ -2,7 +2,6 @@
 id: '1'
 name: The Distant Grasp
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 spell:
 - '[[DATABASE/spell/Dancing Blade|Dancing Blade]]'
@@ -19,7 +18,6 @@ spell:
 - '[[DATABASE/spell/Telekinetic Projectile|Telekinetic Projectile]]'
 - '[[DATABASE/spell/Telekinetic Rend|TelekineticRend]]'
 - '[[DATABASE/spell/Vector Screen|Vector Screen]]'
-trait: null
 type: Psychic Conscious Mind
 
 ---

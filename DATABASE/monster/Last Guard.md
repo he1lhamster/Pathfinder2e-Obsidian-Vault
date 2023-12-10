@@ -2,9 +2,7 @@
 ac: '45'
 alignment: LN
 all_resistance: '10'
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+10'
 creature_ability:
 - Battlefield Bound
@@ -16,12 +14,9 @@ creature_ability:
 - Charge
 - Troop Defenses
 - Troop Movement
-creature_family: null
 dexterity: '+10'
-element: null
 fly_speed: '40'
 fortitude: '+34'
-hardness: null
 hp: 330 ( negative healing , rejuvenation)
 id: '1875'
 immunity:
@@ -32,7 +27,6 @@ immunity:
 - precision
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '+7'
-land_speed: null
 language:
 - '[[DATABASE/language/Common|Common]]'
 - '[[DATABASE/language/Elven|Elven]]'
@@ -48,8 +42,6 @@ resistance:
 - '[[DATABASE/equipment/Ghost Touch|ghost touch]]'
 - or [[DATABASE/trait/Positive|positive]] ; double resistance vs. non- [[DATABASE/trait/Magical|magical]]
   )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Lifesense|lifesense]] 60 feet'
@@ -61,12 +53,10 @@ skill:
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 speed:
 - fly 40 feet; troop movement
-spell: null
 strength: '-5'
 strength_req: '-5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Incorporeal|Incorporeal]]'
 - '[[DATABASE/trait/Spirit|Spirit]]'

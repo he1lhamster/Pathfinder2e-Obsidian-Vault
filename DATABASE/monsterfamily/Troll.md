@@ -3,9 +3,7 @@ creature_family: Troll
 id: '96'
 name: Troll
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
-trait: null
 type: Creature Family
 
 ---

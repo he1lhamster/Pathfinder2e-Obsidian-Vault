@@ -1,7 +1,6 @@
 ﻿---
 id: '44'
 name: Concealed (Army)
-source: null
 
 ---
 # Concealed (Army)

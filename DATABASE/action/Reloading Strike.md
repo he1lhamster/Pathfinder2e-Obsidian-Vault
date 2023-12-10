@@ -1,19 +1,13 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
-frequency: null
 id: '906'
 name: Reloading Strike
 rarity: Common
 requirement: You're wielding a firearm or crossbow in one hand, and your other hand
   either wields a one-handedmelee weapon or is empty.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:
 - '[[DATABASE/trait/Gunslinger|Gunslinger]]'
-trigger: null
 type: Action
 
 ---

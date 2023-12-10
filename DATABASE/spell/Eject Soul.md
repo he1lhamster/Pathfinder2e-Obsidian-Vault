@@ -1,37 +1,23 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
 domain:
 - '[[DATABASE/domain/Soul Domain|Soul]]'
-duration: null
-element: null
 heighten: '+3'
 heighten_level: 1, 4, 7, 10
 id: '616'
-lesson: null
 level: '1'
-mystery: null
 name: Eject Soul
-patron_theme: null
 range: touch
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
 target: 1 living creature that has a soul
-tradition: null
 trait:
 - '[[DATABASE/trait/Incapacitation|Incapacitation]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
-trigger: null
 type: Focus
 
 ---

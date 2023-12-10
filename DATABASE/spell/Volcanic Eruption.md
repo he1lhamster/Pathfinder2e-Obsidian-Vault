@@ -1,38 +1,27 @@
 ﻿---
 actions: '[two-actions]'
 area: 5-foot radius, 80-foot tall cylinder
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Yamatsumi|Yamatsumi]]'
-domain: null
-duration: null
 element: Fire
 heighten: '+1'
 heighten_level: 7, 8, 9, 10
 id: '360'
-lesson: null
 level: '7'
-mystery: null
 name: Volcanic Eruption
-patron_theme: null
 range: 120 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Reflex
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Primal
 trait:
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Fire|Fire]]'
-trigger: null
 type: Spell
 
 ---

@@ -1,10 +1,7 @@
 ﻿---
 ac: '36'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Focus Gaze
@@ -17,13 +14,9 @@ creature_ability:
 - Wild Hunt Link
 creature_family: '[[DATABASE/monsterfamily/Wild Hunt|Wild Hunt]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+27'
-hardness: null
 hp: '300'
 id: '2212'
-immunity: null
 intelligence: '+1'
 land_speed: '50'
 language:
@@ -37,9 +30,6 @@ name: Wild Hunt Hound
 perception: '+29'
 rarity: Rare
 reflex: '+24'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 - greensight
@@ -67,7 +57,6 @@ strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Rare|Rare]]'

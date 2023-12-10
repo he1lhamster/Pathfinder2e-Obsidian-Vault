@@ -1,24 +1,15 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Eclectic Sword Mastery
-frequency: null
-heighten_level: null
 id: '2441'
 level: '13'
 name: Eclectic Sword Mastery
 prerequisite: '[[DATABASE/feat/Eclectic Sword Training|Eclectic Sword Training]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Tengu|Tengu]]'
-trigger: null
 type: Feat
 
 ---

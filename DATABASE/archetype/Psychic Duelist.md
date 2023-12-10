@@ -4,7 +4,6 @@ level: '4'
 name: Psychic Duelist
 prerequisite: Trained in [[DATABASE/skill/Occultism|Occultism]]
 rarity: Rare
-rus_type_level: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'

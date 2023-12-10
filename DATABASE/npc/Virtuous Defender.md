@@ -1,10 +1,7 @@
 ﻿---
 ac: '22'
 alignment: LG
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Retributive Strike
@@ -12,12 +9,9 @@ creature_ability:
 - Shield Block
 creature_family: '[[DATABASE/monsterfamily/Knights of Lastwall|Knights of Lastwall]]'
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+12'
 hp: '70'
 id: '969'
-immunity: null
 intelligence: '+0'
 land_speed: '20'
 language:
@@ -29,9 +23,6 @@ name: Virtuous Defender
 perception: '+10'
 rarity: Common
 reflex: '+6'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Diplomacy|Diplomacy]] +12'
@@ -50,15 +41,12 @@ strength_req: '4'
 strongest_save:
 - Fortitude
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+12'
 wisdom: '+1'
 

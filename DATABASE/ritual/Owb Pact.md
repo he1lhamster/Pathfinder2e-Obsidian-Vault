@@ -1,23 +1,13 @@
 ﻿---
-area: null
-cost: null
-duration: null
-element: null
-heighten: null
 heighten_level: '3'
 id: '45'
 level: '3'
 name: Owb Pact
 primary_check: '[[DATABASE/skill/Occultism|Occultism]] (expert)'
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Conjuration
 secondary_casters: '2'
-secondary_check: null
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
-target: null
 trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

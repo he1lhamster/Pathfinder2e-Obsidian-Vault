@@ -1,32 +1,19 @@
 ﻿---
 actions: '[reaction]'
-area: null
-bloodline: null
 component:
 - Somatic
-cost: null
-deity: null
 domain:
 - '[[DATABASE/domain/Pain Domain|Pain]]'
-duration: null
-element: null
-heighten: null
 heighten_level: '4'
 id: '447'
-lesson: null
 level: '4'
-mystery: null
 name: Retributive Pain
-patron_theme: null
 range: 30 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 saving_throw: basicFortitude
 school: Abjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: the triggering creature
-tradition: null
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Cleric|Cleric]]'

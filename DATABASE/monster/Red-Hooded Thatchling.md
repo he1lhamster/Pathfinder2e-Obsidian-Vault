@@ -1,10 +1,7 @@
 ﻿---
 ac: '17'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Create Thatchling Spawn
@@ -16,10 +13,7 @@ creature_ability:
 - Thicket Walker
 creature_family: '[[DATABASE/monsterfamily/Thatchling|Thatchling]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+6'
-hardness: null
 hp: 32 ( negative healing )
 id: '2726'
 immunity:
@@ -42,8 +36,6 @@ reflex: '+9'
 resistance:
 - bludgeoning 3
 - piercing 3
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -63,7 +55,6 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Undead|Undead]]'

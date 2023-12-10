@@ -1,27 +1,19 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Coffin Bound
-frequency: null
-heighten_level: null
 id: '3554'
+leads_to: '[[DATABASE/feat/Mist Escape|Mist Escape]]'
 level: '12'
 name: Coffin Bound
 prerequisite: '[[DATABASE/feat/Vampire Dedication|Vampire Dedication]]'
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Divine|Divine]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Negative|Negative]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

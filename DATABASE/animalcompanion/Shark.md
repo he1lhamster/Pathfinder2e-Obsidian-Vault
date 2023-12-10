@@ -1,19 +1,13 @@
 ﻿---
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+2'
 dexterity: '+2'
-element: null
-fly_speed: null
 hp: '6'
 id: '23'
 intelligence: '-4'
-land_speed: null
 max_speed: '40'
 name: Shark
 rarity: Common
-rus_type_level: null
 sense:
 - blood scent
 - scent(imprecise
@@ -27,7 +21,6 @@ speed:
 strength: '+3'
 strength_req: '3'
 swim_speed: '40'
-trait: null
 type: Animal Companion
 wisdom: '+1'
 

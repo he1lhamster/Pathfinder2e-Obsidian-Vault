@@ -1,24 +1,17 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Brutish Shove
-frequency: null
-heighten_level: null
 id: '365'
+leads_to: '[[DATABASE/feat/Flinging Shove|Flinging Shove]] , [[DATABASE/feat/Powerful
+  Shove|Powerful Shove]]'
 level: '2'
 name: Brutish Shove
-prerequisite: null
 rarity: Common
 requirement: You are wielding a two-handed melee weapon.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fighter|Fighter]]'
 - '[[DATABASE/trait/Press|Press]]'
-trigger: null
 type: Feat
 
 ---

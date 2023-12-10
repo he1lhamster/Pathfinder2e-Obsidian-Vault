@@ -3,9 +3,7 @@ creature_family: Vampire, Strigoi
 id: '314'
 name: Vampire, Strigoi
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Shadows at Sundown|Shadows at Sundown]]'
-trait: null
 type: Creature Family
 
 ---

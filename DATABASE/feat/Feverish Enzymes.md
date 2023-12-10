@@ -1,23 +1,15 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Feverish Enzymes
-frequency: null
-heighten_level: null
 id: '3507'
+leads_to: '[[DATABASE/feat/Paralyzing Slash|Paralyzing Slash]]'
 level: '6'
 name: Feverish Enzymes
 prerequisite: '[[DATABASE/feat/Ghoul Dedication|Ghoul Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,10 +1,7 @@
 ﻿---
 ac: '41'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+9'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Emotional Focus
@@ -12,15 +9,10 @@ creature_ability:
 - Feed on Emotion
 - Rapid Strikes
 - Spiral of Despair
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+31'
-hardness: null
 hp: '355'
 id: '2131'
-immunity: null
 intelligence: '+5'
 land_speed: '40'
 language:
@@ -34,8 +26,6 @@ rarity: Unique
 reflex: '+30'
 resistance:
 - '[[DATABASE/trait/Mental|mental]] 20'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) 60 feet'
 size: Large
@@ -62,15 +52,12 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+35'
 wisdom: '+7'
 

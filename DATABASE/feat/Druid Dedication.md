@@ -1,25 +1,24 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Druid Dedication
-frequency: null
-heighten_level: null
 id: '701'
+leads_to: '[[DATABASE/feat/Basic Druid Spellcasting|Basic Druid Spellcasting]] , [[DATABASE/feat/Basic
+  Wilding|Basic Wilding]] , [[DATABASE/feat/Cunning Trickster Mask|Cunning Trickster
+  Mask]] , [[DATABASE/feat/Emancipator''s Mask|Emancipator''s Mask]] , [[DATABASE/feat/Grand
+  Medic''s Mask|Grand Medic''s Mask]] , [[DATABASE/feat/Order Spell|Order Spell]]
+  , [[DATABASE/feat/Protective Spirit Mask|Protective Spirit Mask]] , [[DATABASE/feat/Sky
+  Master Mask|Sky Master Mask]] , [[DATABASE/feat/Stalking Feline Mask|Stalking Feline
+  Mask]] , [[DATABASE/feat/Storyteller''s Mask|Storyteller''s Mask]] , [[DATABASE/feat/Thick
+  Hide Mask|Thick Hide Mask]] , [[DATABASE/feat/Tireless Guide''s Mask|Tireless Guide''s
+  Mask]] , [[DATABASE/feat/Vigilant Mask|Vigilant Mask]]'
 level: '2'
 name: Druid Dedication
 prerequisite: Wisdom 14
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Multiclass|Multiclass]]'
-trigger: null
 type: Feat
 
 ---

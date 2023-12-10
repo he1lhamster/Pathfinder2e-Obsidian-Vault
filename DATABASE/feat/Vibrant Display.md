@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Vibrant Display
 frequency: once every 10 minutes
-heighten_level: null
 id: '994'
 level: '1'
 name: Vibrant Display
 prerequisite: '[[DATABASE/heritage/Chameleon Gnome|Chameleon Gnome]] heritage'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Gnome|Gnome]]'
-trigger: null
 type: Feat
 
 ---

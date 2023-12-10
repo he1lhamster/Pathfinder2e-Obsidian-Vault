@@ -1,20 +1,14 @@
 ﻿---
 ac: '19'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Strangle
 - Vulnerable to Sunlight
 creature_family: '[[DATABASE/monsterfamily/Dero|Dero]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+10'
-hardness: null
 hp: '45'
 id: '106'
 immunity:
@@ -30,9 +24,6 @@ name: Dero Strangler
 perception: '+6'
 rarity: Common
 reflex: '+8'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Small
@@ -53,7 +44,6 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dero|Dero]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'

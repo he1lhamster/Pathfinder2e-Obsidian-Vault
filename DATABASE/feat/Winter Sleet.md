@@ -1,20 +1,12 @@
 ﻿---
 actions: '[one-action]'
-cost: null
 element: Water
 feat: Winter Sleet
-frequency: null
-heighten_level: null
 id: '4271'
 level: '4'
 name: Winter Sleet
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Cold|Cold]]'
 - '[[DATABASE/trait/Impulse|Impulse]]'
@@ -22,7 +14,6 @@ trait:
 - '[[DATABASE/trait/Primal|Primal]]'
 - '[[DATABASE/trait/Stance|Stance]]'
 - '[[DATABASE/trait/Water|Water]]'
-trigger: null
 type: Feat
 
 ---

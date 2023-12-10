@@ -1,35 +1,24 @@
 ﻿---
 ac: '25'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Trample
 - Tusk Sweep
 creature_family: '[[DATABASE/monsterfamily/Elephant|Elephant]]'
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+19'
-hardness: null
 hp: '170'
 id: '667'
-immunity: null
 intelligence: '-4'
 land_speed: '40'
-language: null
 level: '8'
 max_speed: '40'
 name: Anancus
 perception: '+16'
 rarity: Common
 reflex: '+14'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Scent|scent (imprecise) 30 feet]]'
@@ -40,19 +29,16 @@ skill:
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 40 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
 vision: Low-light vision
 weakest_save:
 - Reflex
-weakness: null
 will: '+16'
 wisdom: '+2'
 

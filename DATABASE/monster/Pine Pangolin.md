@@ -1,10 +1,6 @@
 ﻿---
 ac: '25'
-alignment: null
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Roll Up
@@ -12,9 +8,7 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Elemental, Wood|Elemental, Wood]]'
 dexterity: '+0'
 element: Wood
-fly_speed: null
 fortitude: '+15'
-hardness: null
 hp: '140'
 id: '2676'
 immunity:
@@ -24,17 +18,12 @@ immunity:
 - '[[DATABASE/trait/Sleep|sleep]]'
 intelligence: '+1'
 land_speed: '25'
-language: null
 level: '7'
 max_speed: '25'
 name: Pine Pangolin
 perception: '+15'
 rarity: Common
 reflex: '+10'
-resistance: null
-rus_type_level: null
-school: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Nature|Nature]] +15'
@@ -42,18 +31,15 @@ skill:
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 speed:
 - 25 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Elemental|Elemental]]'
 - '[[DATABASE/trait/Plant|Plant]]'
 - '[[DATABASE/trait/Wood|Wood]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
 weakness:

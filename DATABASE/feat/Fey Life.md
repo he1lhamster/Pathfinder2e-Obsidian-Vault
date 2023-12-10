@@ -1,28 +1,19 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Fey Life
-frequency: null
-heighten_level: null
 id: '3759'
 level: '16'
 name: Fey Life
 prerequisite: You helped to save a [[DATABASE/trait/Fey|fey]] from a terrible fate,
   and you'renot a fey.
 rarity: Rare
-requirement: null
-rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Aftermath|Aftermath]]'
 - '[[DATABASE/trait/Healing|Healing]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Primal|Primal]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Feat
 
 ---

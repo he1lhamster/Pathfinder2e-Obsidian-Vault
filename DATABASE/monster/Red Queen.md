@@ -1,8 +1,6 @@
 ﻿---
 ac: '42'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+9'
 climb_speed: '20'
 constitution: '+5'
@@ -11,15 +9,10 @@ creature_ability:
 - Lead by Example
 - Practiced Subterfuge
 - Red Ant Venom
-creature_family: null
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+31'
-hardness: null
 hp: '335'
 id: '1810'
-immunity: null
 intelligence: '+2'
 land_speed: '40'
 language:
@@ -30,9 +23,6 @@ name: Red Queen
 perception: '+30'
 rarity: Unique
 reflex: '+33'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 60 feet'
@@ -49,12 +39,10 @@ source: '[[DATABASE/source/Pathfinder 174. Shadows of the Ancients|Pathfinder #1
 speed:
 - 40 feet
 - climb 20 feet
-spell: null
 strength: '+9'
 strength_req: '9'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Unique|Unique]]'
@@ -62,7 +50,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+29'
 wisdom: '+6'
 

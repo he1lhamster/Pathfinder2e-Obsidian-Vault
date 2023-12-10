@@ -1,25 +1,17 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Bullet Dancer Dedication
-frequency: null
-heighten_level: null
 id: '3235'
+leads_to: '[[DATABASE/feat/Bullet Dancer Burn|Bullet Dancer Burn]] , [[DATABASE/feat/Ranged
+  Disarm|Ranged Disarm]]'
 level: '2'
 name: Bullet Dancer Dedication
 prerequisite: expert in unarmored defense and trained in unarmed attack
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,23 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Bullet Dancer Burn
-frequency: null
-heighten_level: null
 id: '3236'
+leads_to: '[[DATABASE/feat/Bullet Dancer Reload|Bullet Dancer Reload]]'
 level: '6'
 name: Bullet Dancer Burn
 prerequisite: '[[DATABASE/feat/Bullet Dancer Dedication|Bullet Dancer Dedication]]'
 rarity: Common
 requirement: You're wielding a firearm with an attached bayonet or reinforced stock.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

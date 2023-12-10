@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Dimensional Disappearance
-frequency: null
-heighten_level: null
 id: '2870'
 level: '10'
 name: Dimensional Disappearance
 prerequisite: '[[DATABASE/spell/Dimensional Assault|dimensional assault]] focus spell,
   [[DATABASE/magushybridstudy/Laughing Shadow|laughing shadow hybrid study]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Magus|Magus]]'
-trigger: null
 type: Feat
 
 ---

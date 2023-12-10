@@ -1,10 +1,7 @@
 ﻿---
 ac: '49'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+9'
 creature_ability:
 - Attack of Opportunity
@@ -21,10 +18,8 @@ creature_ability:
 - Tympanic Heartbeat
 creature_family: '[[DATABASE/monsterfamily/Spawn of Rovagug|Spawn of Rovagug]]'
 dexterity: '+10'
-element: null
 fly_speed: '60'
 fortitude: '+32'
-hardness: null
 hp: '400'
 id: '1730'
 immunity:
@@ -51,8 +46,6 @@ rarity: Unique
 reflex: '+39'
 resistance:
 - '[[DATABASE/trait/Sonic|sonic]] 20'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 120 feet'
@@ -66,7 +59,6 @@ speed:
 - 80 feet
 - fly 60 feet
 - swim 60 feet
-spell: null
 strength: '+10'
 strength_req: '10'
 strongest_save:
@@ -79,7 +71,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+35'
 wisdom: '+8'
 

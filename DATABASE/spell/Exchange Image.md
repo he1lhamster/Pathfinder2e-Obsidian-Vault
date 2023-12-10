@@ -1,27 +1,16 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: varies
-element: null
-heighten: null
 heighten_level: '1'
 id: '549'
-lesson: null
 level: '1'
-mystery: null
 name: Exchange Image
-patron_theme: null
 range: touch
 rarity: Uncommon
 requirement: You have the [[DATABASE/trait/Humanoid|humanoid]] trait.
-rus_type_level: null
 saving_throw: Will
 school: Illusion
 source: '[[DATABASE/source/Pathfinder 147. Tomorrow Must Burn|Pathfinder #147: Tomorrow
@@ -34,7 +23,6 @@ trait:
 - '[[DATABASE/trait/Illusion|Illusion]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 - '[[DATABASE/trait/Visual|Visual]]'
-trigger: null
 type: Spell
 
 ---

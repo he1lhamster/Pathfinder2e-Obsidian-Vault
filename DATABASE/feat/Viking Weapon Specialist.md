@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Viking Weapon Specialist
-frequency: null
-heighten_level: null
 id: '2097'
 level: '6'
 name: Viking Weapon Specialist
 prerequisite: '[[DATABASE/feat/Viking Weapon Familiarity|Viking Weapon Familiarity]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,10 +1,7 @@
 ﻿---
 ac: '30'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Deny Advantage
@@ -14,14 +11,10 @@ creature_ability:
 - Steady Spellcasting
 - Surprise Attack
 - Unbalancing Blow
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+17'
 hp: '160'
 id: '1561'
-immunity: null
 intelligence: '+4'
 land_speed: '30'
 language:
@@ -37,8 +30,6 @@ name: Mialari Docur
 perception: '+20'
 rarity: Unique
 reflex: '+21'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
@@ -75,7 +66,6 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Elf|Elf]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -84,7 +74,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+19'
 wisdom: '+3'
 

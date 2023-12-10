@@ -3,7 +3,6 @@ bloodline: Demonic
 id: '3'
 name: Demonic
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 spell:
 - '[[DATABASE/spell/Abyssal Plague|Abyssal Plague]]'
@@ -19,7 +18,6 @@ spell:
 - '[[DATABASE/spell/Implosion|Implosion]]'
 - '[[DATABASE/spell/Slow|Slow]]'
 - '[[DATABASE/spell/Swamp of Sloth|Swamp of Sloth]]'
-trait: null
 type: Sorcerer Bloodline
 
 ---

@@ -1,54 +1,20 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
 bulk: L
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '1213'
 item_category: Customizations
 item_subcategory: Scopes
-land_speed: null
-level: '17'
-max_speed: null
+level: '9'
 name: Magnetite Scope
-onset: null
-price: 16,000 gp
-range: null
+price: 800 gp
 rarity: Common
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
-size: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-spell: null
-stage: null
 subcategory: customization
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Item
 usage: attached to firearm (scope)
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Magnetite Scope<span class="item-type">Item 9+</span>

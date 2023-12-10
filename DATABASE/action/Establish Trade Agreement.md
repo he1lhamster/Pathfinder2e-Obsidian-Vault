@@ -1,20 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
-frequency: null
 id: '1376'
 name: Establish Trade Agreement
 rarity: Common
 requirement: You have diplomatic relations (page 534) with the group you wish to establish
   an agreement with.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
 - '[[DATABASE/trait/Downtime|Downtime]]'
 - '[[DATABASE/trait/Leadership|Leadership]]'
-trigger: null
 type: Action
 
 ---

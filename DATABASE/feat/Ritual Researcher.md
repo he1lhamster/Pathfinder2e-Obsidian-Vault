@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Ritual Researcher
-frequency: null
-heighten_level: null
 id: '1639'
 level: '4'
 name: Ritual Researcher
 prerequisite: '[[DATABASE/bardmuse/Enigma|enigma muse]] ; Expert in [[DATABASE/skill/Occultism|Occultism]]'
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Bard|Bard]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

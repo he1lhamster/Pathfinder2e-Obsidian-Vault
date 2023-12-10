@@ -1,25 +1,16 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Scour the Library
-frequency: null
-heighten_level: null
 id: '3681'
 level: '10'
 name: Scour the Library
 prerequisite: '[[DATABASE/psychicsubconsciousmind/Gathered Lore|gathered lore]] subconscious
   mind'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Psyche|Psyche]]'
 - '[[DATABASE/trait/Psychic|Psychic]]'
-trigger: null
 type: Feat
 
 ---

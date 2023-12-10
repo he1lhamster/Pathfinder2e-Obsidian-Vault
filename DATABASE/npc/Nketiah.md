@@ -1,8 +1,6 @@
 ﻿---
 ac: '23'
 alignment: CG
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
 climb_speed: '20'
 constitution: '+0'
@@ -10,10 +8,7 @@ creature_ability:
 - Arborean Arm
 - Woodland Elf
 - Woodland Stride
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+8'
 hp: '74'
 id: '1547'
@@ -34,8 +29,6 @@ name: Nketiah
 perception: '+12'
 rarity: Unique
 reflex: '+13'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
@@ -82,7 +75,6 @@ strength: '+1'
 strength_req: '1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Elf|Elf]]'
 - '[[DATABASE/trait/Human|Human]]'
@@ -92,7 +84,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+12'
 wisdom: '+2'
 

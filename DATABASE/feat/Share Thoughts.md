@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Share Thoughts
-frequency: null
-heighten_level: null
 id: '977'
+leads_to: '[[DATABASE/feat/Sense Thoughts|Sense Thoughts]]'
 level: '1'
 name: Share Thoughts
 prerequisite: Mualijae ethnicity, Ilverani ethnicity, or Vourinoi ethnicity
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Elf|Elf]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,24 +1,17 @@
 ﻿---
 ac: '33'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Gorum's Hand
 - Juggernaut
 - Replenishment of War
 - Resolute Stance
-creature_family: null
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+22'
 hp: '215'
 id: '2550'
-immunity: null
 intelligence: '+0'
 land_speed: '20'
 language:
@@ -33,7 +26,6 @@ rarity: Unique
 reflex: '+18'
 resistance:
 - slashing 3
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -73,7 +65,6 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dwarf|Dwarf]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -82,7 +73,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+23'
 wisdom: '+4'
 

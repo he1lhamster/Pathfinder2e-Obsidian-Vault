@@ -1,22 +1,16 @@
 ﻿---
 ac: '19'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - No Retreat
 - Sneak Attack
 creature_family: '[[DATABASE/monsterfamily/Kobold|Kobold]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+9'
 hp: '26'
 id: '2168'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -28,8 +22,6 @@ name: Dark Talon Kobold
 perception: '+8'
 rarity: Rare
 reflex: '+10'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -42,12 +34,10 @@ skill:
 source: '[[DATABASE/source/Crown of the Kobold King|Crown of the Kobold King]]'
 speed:
 - 25 feet
-spell: null
 strength: '+1'
 strength_req: '1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Kobold|Kobold]]'
@@ -56,7 +46,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+6'
 wisdom: '+2'
 

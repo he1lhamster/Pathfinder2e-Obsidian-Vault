@@ -3,9 +3,7 @@ creature_family: Elemental, Wood
 id: '345'
 name: Elemental, Wood
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-trait: null
 type: Creature Family
 
 ---

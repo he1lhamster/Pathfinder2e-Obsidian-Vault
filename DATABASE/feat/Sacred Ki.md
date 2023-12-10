@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Sacred Ki
-frequency: null
-heighten_level: null
 id: '1184'
 level: '4'
 name: Sacred Ki
 prerequisite: '[[DATABASE/feat/Ki Strike|Ki Strike]] ; you follow a deity'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Monk|Monk]]'
-trigger: null
 type: Feat
 
 ---

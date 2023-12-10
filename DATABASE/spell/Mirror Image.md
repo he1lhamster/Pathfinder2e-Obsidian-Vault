@@ -1,43 +1,28 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Imbrex|Imbrex]]'
 - '[[DATABASE/deity/Irez|Irez]]'
 - '[[DATABASE/deity/Lady Jingxi|Lady Jingxi]]'
 - '[[DATABASE/deity/Suyuddha|Suyuddha]]'
 - '[[DATABASE/deity/Tsukiyo|Tsukiyo]]'
-domain: null
 duration: 1 minute
-element: null
-heighten: null
 heighten_level: '2'
 id: '197'
-lesson: null
 level: '2'
-mystery: null
 name: Mirror Image
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Illusion
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Arcane
 - Occult
 trait:
 - '[[DATABASE/trait/Illusion|Illusion]]'
 - '[[DATABASE/trait/Visual|Visual]]'
-trigger: null
 type: Spell
 
 ---

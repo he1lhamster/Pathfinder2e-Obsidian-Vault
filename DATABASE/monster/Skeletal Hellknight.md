@@ -1,8 +1,6 @@
 ﻿---
 ac: '20'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
 climb_speed: '25'
 constitution: '+3'
@@ -10,12 +8,8 @@ creature_ability:
 - Attack of Opportunity
 - Command Skeletons
 - Invoke Reckoning
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+9'
-hardness: null
 hp: 25 ( negative healing )
 id: '1534'
 immunity:
@@ -35,9 +29,6 @@ name: Skeletal Hellknight
 perception: '+7'
 rarity: Unique
 reflex: '+8'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -49,12 +40,10 @@ source: '[[DATABASE/source/Pathfinder 145. Hellknight Hill|Pathfinder #145: Hell
 speed:
 - 25 feet
 - climb 25 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Undead|Undead]]'
@@ -63,7 +52,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+4'
 wisdom: '+0'
 

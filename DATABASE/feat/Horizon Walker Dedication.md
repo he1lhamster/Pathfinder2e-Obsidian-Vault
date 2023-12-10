@@ -1,24 +1,18 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Horizon Walker Dedication
-frequency: null
-heighten_level: null
 id: '1987'
+leads_to: '[[DATABASE/feat/Acclimatization|Acclimatization]] , [[DATABASE/feat/Magical
+  Adaptation|Magical Adaptation]] , [[DATABASE/feat/Perpetual Scout|Perpetual Scout]]
+  , [[DATABASE/feat/Rebel''s Map|Rebel''s Map]] , [[DATABASE/feat/Sure Foot|Sure Foot]]
+  , [[DATABASE/feat/Wild Strider|Wild Strider]]'
 level: '2'
 name: Horizon Walker Dedication
 prerequisite: Trained in [[DATABASE/skill/Survival|Survival]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
-trigger: null
 type: Feat
 
 ---

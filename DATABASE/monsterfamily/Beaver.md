@@ -3,10 +3,8 @@ creature_family: Beaver
 id: '300'
 name: Beaver
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 176. Lost Mammoth Valley|Pathfinder #176: Lost
   Mammoth Valley]]'
-trait: null
 type: Creature Family
 
 ---

@@ -1,20 +1,12 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Warped Reflection
 frequency: once per minute
-heighten_level: null
 id: '3796'
 level: '1'
 name: Warped Reflection
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Emotion|Emotion]]'
@@ -22,7 +14,6 @@ trait:
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Reflection|Reflection]]'
 - '[[DATABASE/trait/Visual|Visual]]'
-trigger: null
 type: Feat
 
 ---

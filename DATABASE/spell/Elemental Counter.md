@@ -1,30 +1,13 @@
 ﻿---
 actions: '[reaction]'
-area: null
-bloodline: null
-component: null
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
-heighten: null
 heighten_level: '1'
 id: '1421'
-lesson: null
 level: '1'
-mystery: null
 name: Elemental Counter
-patron_theme: null
-range: null
 rarity: Uncommon
 requirement: You have a spell slot from which you could Cast a Spell of the triggering
   spell's countering element;see text.
-rus_type_level: null
-saving_throw: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-target: null
 tradition:
 - Arcane
 - Primal

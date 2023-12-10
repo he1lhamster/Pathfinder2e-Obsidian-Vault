@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Streetwise|Streetwise]]'
 id: '174'
 name: Refugee
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Society|Society]]'
 - '[[DATABASE/skill/Lore|Lore]] related to the settlement you came from.'
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

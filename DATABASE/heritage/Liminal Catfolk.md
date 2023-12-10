@@ -2,9 +2,7 @@
 id: '93'
 name: Liminal Catfolk
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-trait: null
 type: Heritage
 
 ---

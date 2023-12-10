@@ -1,10 +1,7 @@
 ﻿---
 ac: '26'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Flurry of Blows
@@ -13,13 +10,10 @@ creature_ability:
 - Sharp Riposte
 creature_family: '[[DATABASE/monsterfamily/Paaridar|Paaridar]]'
 dexterity: '+5'
-element: null
 fly_speed: '20'
 fortitude: '+14'
-hardness: null
 hp: '110'
 id: '1259'
-immunity: null
 intelligence: '-1'
 land_speed: '40'
 language:
@@ -30,9 +24,6 @@ name: Manticore Paaridar
 perception: '+18'
 rarity: Uncommon
 reflex: '+18'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -47,12 +38,10 @@ source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 40 feet
 - fly 20 feet (limited flight)
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -62,7 +51,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+16'
 wisdom: '+5'
 

@@ -1,31 +1,19 @@
 ﻿---
 actions: '[one-action]'
-area: null
-bloodline: null
 component:
 - Somatic
-cost: null
-deity: null
-domain: null
 duration: sustained up to 1 minute
-element: null
-heighten: null
 heighten_level: '1'
 id: '806'
-lesson: null
 level: '1'
-mystery: null
 name: Shroud of Night
 patron_theme: '[[DATABASE/witchpatron/Night|Night]]'
 range: 30 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 saving_throw: Will
 school: Evocation
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 target: 1 creature
-tradition: null
 trait:
 - '[[DATABASE/trait/Cantrip|Cantrip]]'
 - '[[DATABASE/trait/Darkness|Darkness]]'
@@ -33,7 +21,6 @@ trait:
 - '[[DATABASE/trait/Hex|Hex]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 - '[[DATABASE/trait/Witch|Witch]]'
-trigger: null
 type: Cantrip
 
 ---

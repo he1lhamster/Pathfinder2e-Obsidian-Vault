@@ -1,10 +1,7 @@
 ﻿---
 ac: '43'
 alignment: LG
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Attack of Opportunity
@@ -22,7 +19,6 @@ dexterity: '+4'
 element: Water
 fly_speed: '200'
 fortitude: '+32'
-hardness: null
 hp: '360'
 id: '147'
 immunity:
@@ -45,9 +41,6 @@ name: Ancient Bronze Dragon
 perception: '+32'
 rarity: Uncommon
 reflex: '+30'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - scent (imprecise) 100 feet
@@ -84,7 +77,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+34'
 wisdom: '+6'
 

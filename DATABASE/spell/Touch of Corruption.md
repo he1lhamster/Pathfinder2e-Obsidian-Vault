@@ -1,38 +1,7 @@
 ﻿---
-actions: '[one-action]'
-area: null
-bloodline: null
-component:
-- Somatic
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
-heighten: '+1'
-heighten_level: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
-id: '819'
-lesson: null
-level: '1'
-mystery: null
+id: '654'
 name: Touch of Corruption
-patron_theme: null
-range: touch
-rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
-school: Necromancy
-source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-target: 1 willing undead creature or 1 living creature
-tradition: null
-trait:
-- '[[DATABASE/trait/Champion|Champion]]'
-- '[[DATABASE/trait/Necromancy|Necromancy]]'
-- '[[DATABASE/trait/Negative|Negative]]'
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
-type: Focus
+source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 
 ---
 # Touch of Corruption<span class="item-type">Focus 1</span>

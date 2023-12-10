@@ -1,11 +1,9 @@
 ﻿---
 alignment: N
-element: null
 id: '11'
 name: Shadow Plane
 plane_category: Transitive Planes
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
 - '[[DATABASE/trait/Shadow|Shadow]]'

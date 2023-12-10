@@ -1,21 +1,15 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
 element: Fire
-frequency: null
 id: '902'
 name: Explode
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:
 - '[[DATABASE/trait/Fire|Fire]]'
 - '[[DATABASE/trait/Inventor|Inventor]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Unstable|Unstable]]'
-trigger: null
 type: Action
 
 ---

@@ -1,11 +1,8 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Atreia|Atreia]]'
 - '[[DATABASE/deity/Atreia|Atreia]]'
@@ -18,32 +15,22 @@ deity:
 - '[[DATABASE/deity/Ragathiel|Ragathiel]]'
 - '[[DATABASE/deity/Sorrow''s Sword|Sorrow''s Sword]]'
 - '[[DATABASE/deity/The Godclaw|The Godclaw]]'
-domain: null
 duration: 1 minute
 element: Fire
 heighten: '+2'
 heighten_level: 4, 6, 8, 10
 id: '118'
-lesson: null
 level: '4'
-mystery: null
 name: Fire Shield
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Arcane
 - Primal
 trait:
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Fire|Fire]]'
-trigger: null
 type: Spell
 
 ---

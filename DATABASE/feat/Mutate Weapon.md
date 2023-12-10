@@ -1,23 +1,14 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Mutate Weapon
-frequency: null
-heighten_level: null
 id: '2522'
 level: '5'
 name: Mutate Weapon
 prerequisite: '[[DATABASE/feat/Living Weapon|Living Weapon]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fleshwarp|Fleshwarp]]'
-trigger: null
 type: Feat
 
 ---

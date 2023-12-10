@@ -1,7 +1,6 @@
 ﻿---
 id: '47'
 name: Efficient
-source: null
 
 ---
 # Efficient

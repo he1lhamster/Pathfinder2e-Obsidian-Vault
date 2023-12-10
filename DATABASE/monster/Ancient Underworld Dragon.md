@@ -1,10 +1,8 @@
 ﻿---
 ac: '39'
 alignment: LE
-all_resistance: null
 burrow_speed: '60'
 charisma: '+5'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Adamantine Claws
@@ -24,7 +22,6 @@ dexterity: '+3'
 element: Fire
 fly_speed: '80'
 fortitude: '+30'
-hardness: null
 hp: '295'
 id: '1136'
 immunity:
@@ -45,9 +42,6 @@ name: Ancient Underworld Dragon
 perception: '+28'
 rarity: Rare
 reflex: '+25'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 60 feet'
@@ -76,7 +70,6 @@ strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dragon|Dragon]]'
 - '[[DATABASE/trait/Fire|Fire]]'
@@ -85,7 +78,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+28'
 wisdom: '+4'
 

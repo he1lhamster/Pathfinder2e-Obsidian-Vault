@@ -3,9 +3,7 @@ actions: '[reaction]'
 id: '32'
 name: Shield Block
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
-trait: null
 type: Creature Ability
 
 ---

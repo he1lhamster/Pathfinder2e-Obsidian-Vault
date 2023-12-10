@@ -1,23 +1,16 @@
 ﻿---
 ac: '21'
 alignment: CE
-all_resistance: null
 burrow_speed: '10'
 charisma: '+0'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Breath Weapon
 - Frantic Scrabble
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+12'
-hardness: null
 hp: '60'
 id: '1972'
-immunity: null
 intelligence: '+0'
 land_speed: '20'
 language:
@@ -31,8 +24,6 @@ rarity: Unique
 reflex: '+11'
 resistance:
 - '[[DATABASE/trait/Acid|acid]] 5'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -52,7 +43,6 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 - '[[DATABASE/trait/Mutant|Mutant]]'
@@ -62,7 +52,6 @@ vision: Darkvision
 weakest_save:
 - Reflex
 - Will
-weakness: null
 will: '+11'
 wisdom: '+3'
 

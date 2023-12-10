@@ -1,17 +1,7 @@
 ﻿---
-ability: null
-ability_boost: null
-feat: null
 id: '163'
 name: Faction Opportunist
-prerequisite: null
-rarity: null
-rus_type_level: null
-skill: null
 source: '[[DATABASE/source/Organized Play Foundation|Organized Play Foundation]]'
-subcategory: null
-trait: null
-type: null
 
 ---
 # Faction Opportunist<span class="item-type">Background</span>

@@ -1,22 +1,15 @@
 ﻿---
 ac: '18'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Aquatic Dash
 creature_family: '[[DATABASE/monsterfamily/Merfolk|Merfolk]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+6'
-hardness: null
 hp: '19'
 id: '298'
-immunity: null
 intelligence: '+0'
 land_speed: '5'
 language:
@@ -28,9 +21,6 @@ name: Merfolk Warrior
 perception: '+6'
 rarity: Common
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 size: Medium
@@ -41,7 +31,6 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 5 feet
 - swim 30 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
@@ -55,7 +44,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+4'
 wisdom: '+1'
 

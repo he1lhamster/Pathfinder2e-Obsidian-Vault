@@ -1,20 +1,9 @@
 ﻿---
-ac: null
-all_resistance: null
 complexity: Complex
-element: null
-fortitude: null
-hardness: null
-hazard_type: null
-hp: null
 id: '347'
-immunity: null
 level: '1'
 name: Shadowshift Field
 rarity: Common
-reflex: null
-resistance: null
-rus_type_level: null
 school: Conjuration
 source: '[[DATABASE/source/Pathfinder 187. The Seventh Arch|Pathfinder #187: The Seventh
   Arch]]'
@@ -23,8 +12,6 @@ trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Shadowshift Field<span class="item-type">Hazard 1</span>

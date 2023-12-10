@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: School Counterspell
-frequency: null
-heighten_level: null
 id: '3026'
 level: '12'
 name: School Counterspell
 prerequisite: '[[DATABASE/feat/Counterspell|Counterspell]] ; [[DATABASE/feat/Runelord
   Dedication|Runelord Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

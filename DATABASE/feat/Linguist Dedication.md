@@ -1,24 +1,18 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Linguist Dedication
-frequency: null
-heighten_level: null
 id: '1993'
+leads_to: '[[DATABASE/feat/Analyze Idiolect|Analyze Idiolect]] , [[DATABASE/feat/Crude
+  Communication|Crude Communication]] , [[DATABASE/feat/Multilingual Cipher|Multilingual
+  Cipher]] , [[DATABASE/feat/Phonetic Training|Phonetic Training]] , [[DATABASE/feat/Read
+  Shibboleths|Read Shibboleths]] , [[DATABASE/feat/Spot Translate|Spot Translate]]'
 level: '2'
 name: Linguist Dedication
 prerequisite: you speak at least three languages
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
-trigger: null
 type: Feat
 
 ---

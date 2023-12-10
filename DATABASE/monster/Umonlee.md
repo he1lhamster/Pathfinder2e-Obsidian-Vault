@@ -1,20 +1,14 @@
 ﻿---
 ac: '39'
 alignment: N
-all_resistance: null
 burrow_speed: '25'
 charisma: '+3'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Freezing Breath
 - Greater Constrict
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+28'
-hardness: null
 hp: '320'
 id: '839'
 immunity:
@@ -31,8 +25,6 @@ rarity: Uncommon
 reflex: '+26'
 resistance:
 - mental 10
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Tremorsense|tremorsense (imprecise) 80 feet]]'
@@ -45,7 +37,6 @@ speed:
 - 50 feet
 - burrow 25 feet
 - swim 40 feet
-spell: null
 strength: '+8'
 strength_req: '8'
 strongest_save:

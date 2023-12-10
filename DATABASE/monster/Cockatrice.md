@@ -1,35 +1,25 @@
 ﻿---
 ac: '19'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Calcification
-creature_family: null
 dexterity: '+4'
-element: null
 fly_speed: '40'
 fortitude: '+8'
-hardness: null
 hp: '45'
 id: '83'
 immunity:
 - calcification
 intelligence: '-3'
 land_speed: '20'
-language: null
 level: '3'
 max_speed: '40'
 name: Cockatrice
 perception: '+8'
 rarity: Common
 reflex: '+11'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Small
@@ -39,19 +29,16 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 20 feet
 - fly 40 feet
-spell: null
 strength: '-2'
 strength_req: '-2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+6'
 wisdom: '+1'
 

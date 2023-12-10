@@ -1,25 +1,15 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Crystal Luminescence
-frequency: null
-heighten_level: null
 id: '3963'
 level: '1'
 name: Crystal Luminescence
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Kashrishi|Kashrishi]]'
 - '[[DATABASE/trait/Light|Light]]'
-trigger: null
 type: Feat
 
 ---

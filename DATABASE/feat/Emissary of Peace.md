@@ -1,24 +1,15 @@
 ﻿---
 actions: '[three-actions]'
-cost: null
-element: null
 feat: Emissary of Peace
-frequency: null
-heighten_level: null
 id: '3580'
 level: '10'
 name: Emissary of Peace
 prerequisite: '[[DATABASE/feat/Knight Vigilant|Knight Vigilant]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

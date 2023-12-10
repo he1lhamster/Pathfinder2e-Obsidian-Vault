@@ -1,26 +1,18 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Quick Recognition
-frequency: null
-heighten_level: null
 id: '826'
+leads_to: '[[DATABASE/feat/Clever Counterspell|Clever Counterspell]]'
 level: '7'
 name: Quick Recognition
 prerequisite: Master in [[DATABASE/skill/Arcana|Arcana]] , Master in [[DATABASE/skill/Nature|Nature]]
   , Master in [[DATABASE/skill/Occultism|Occultism]] , or Master in [[DATABASE/skill/Religion|Religion]]
   ; [[DATABASE/feat/Recognize Spell|RecognizeSpell]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: arcana
 trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

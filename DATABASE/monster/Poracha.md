@@ -1,23 +1,15 @@
 ﻿---
 ac: '23'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Jaunt
 - Object Meld
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+9'
-hardness: null
 hp: '50'
 id: '335'
-immunity: null
 intelligence: '+0'
 land_speed: '40'
 language:
@@ -29,9 +21,6 @@ name: Poracha
 perception: '+10'
 rarity: Uncommon
 reflex: '+13'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - tremorsense (imprecise) 10 feet
 - darkvision
@@ -46,12 +35,10 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 40 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

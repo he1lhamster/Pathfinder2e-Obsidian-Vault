@@ -3,9 +3,7 @@ armor_group: Wood
 id: '7'
 name: Wood
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-trait: null
 type: Armor Specialization
 
 ---

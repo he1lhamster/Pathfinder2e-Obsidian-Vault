@@ -18,7 +18,6 @@ language:
 max_speed: '25'
 name: Skeleton
 rarity: Rare
-rus_type_level: null
 size: Medium
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 speed:
@@ -28,7 +27,6 @@ trait:
 - '[[DATABASE/trait/Skeleton|Skeleton]]'
 - '[[DATABASE/trait/Undead|Undead]]'
 type: Ancestry
-vision: null
 
 ---
 # Skeleton

@@ -1,25 +1,21 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Vampire Dedication
-frequency: null
-heighten_level: null
 id: '3545'
+leads_to: '[[DATABASE/feat/Bat Form|Bat Form]] , [[DATABASE/feat/Clinging Climber|Clinging
+  Climber]] , [[DATABASE/feat/Coffin Bound|Coffin Bound]] , [[DATABASE/feat/Daywalker|Daywalker]]
+  , [[DATABASE/feat/Manipulative Charm|Manipulative Charm]] , [[DATABASE/feat/Nocturnal
+  Kindred|Nocturnal Kindred]] , [[DATABASE/feat/Predatory Claws|Predatory Claws]]
+  , [[DATABASE/feat/Turn to Mist|Turn to Mist]] , [[DATABASE/feat/Vicious Fangs|Vicious
+  Fangs]]'
 level: '2'
 name: Vampire Dedication
 prerequisite: You were a killed by a vampire drinking your blood.
 rarity: Rare
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Feat
 
 ---

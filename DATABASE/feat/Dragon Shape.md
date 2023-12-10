@@ -1,23 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Dragon Shape
-frequency: null
-heighten_level: null
 id: '340'
+leads_to: '[[DATABASE/feat/Reactive Transformation|Reactive Transformation]] , [[DATABASE/feat/True
+  Shapeshifter|True Shapeshifter]]'
 level: '12'
 name: Dragon Shape
 prerequisite: '[[DATABASE/feat/Soaring Shape|Soaring Shape]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Druid|Druid]]'
-trigger: null
 type: Feat
 
 ---

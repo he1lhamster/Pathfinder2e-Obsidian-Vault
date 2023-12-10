@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Multilingual|Multilingual]]'
 id: '12'
 name: Emissary
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Society|Society]]'
 - '[[DATABASE/skill/Lore|Lore]] related to one city you''ve visited often.'
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

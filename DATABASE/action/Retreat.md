@@ -1,17 +1,9 @@
 ﻿---
 actions: '[three-actions]'
-cost: null
-element: null
-frequency: null
 id: '1426'
 name: Retreat
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
-trait: null
-trigger: null
 type: Action
 
 ---

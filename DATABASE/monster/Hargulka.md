@@ -1,10 +1,7 @@
 ﻿---
 ac: '26'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Attack of Opportunity
@@ -12,15 +9,10 @@ creature_ability:
 - Rend
 - Royal Command
 - Shield Rip and Chew
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+20'
-hardness: null
 hp: '190'
 id: '2194'
-immunity: null
 intelligence: '+0'
 land_speed: '30'
 language:
@@ -32,9 +24,6 @@ name: Hargulka
 perception: '+16'
 rarity: Unique
 reflex: '+14'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -45,12 +34,10 @@ skill:
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 speed:
 - 30 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Giant|Giant]]'
 - '[[DATABASE/trait/Troll|Troll]]'

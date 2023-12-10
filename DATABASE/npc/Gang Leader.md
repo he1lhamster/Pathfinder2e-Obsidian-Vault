@@ -1,10 +1,7 @@
 ﻿---
 ac: '26'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Brutal Rally
@@ -17,12 +14,9 @@ creature_ability:
 - Surprise Attack
 creature_family: '[[DATABASE/monsterfamily/Villains|Villains]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+13'
 hp: '104'
 id: '964'
-immunity: null
 intelligence: '+2'
 land_speed: '30'
 language:
@@ -33,9 +27,6 @@ name: Gang Leader
 perception: '+14'
 rarity: Common
 reflex: '+17'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +13'
@@ -49,20 +40,16 @@ skill:
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 speed:
 - 30 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+10'
 wisdom: '-1'
 

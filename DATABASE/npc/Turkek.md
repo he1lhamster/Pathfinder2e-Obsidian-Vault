@@ -1,24 +1,17 @@
 ﻿---
 ac: '23'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Blood Let
 - Clot
 - Sanguine Aura
 - Siphon Blood
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+16'
 hp: 100 ( negative healing )
 id: '1784'
-immunity: null
 intelligence: '+4'
 land_speed: '25'
 language:
@@ -32,8 +25,6 @@ name: Turkek
 perception: '+12'
 rarity: Unique
 reflex: '+16'
-resistance: null
-rus_type_level: null
 sense:
 - bloodsense (imprecise) 30 feet
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
@@ -68,7 +59,6 @@ strength_req: '3'
 strongest_save:
 - Fortitude
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dhampir|Dhampir]]'
 - '[[DATABASE/trait/Human|Human]]'
@@ -78,7 +68,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+14'
 wisdom: '+1'
 

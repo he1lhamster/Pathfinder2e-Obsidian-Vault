@@ -1,20 +1,14 @@
 ﻿---
 ac: '24'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Bellow Soot
 - Construct Armor
 - Fan the Flames
 - Swallow Whole
-creature_family: null
 dexterity: '-2'
-element: null
-fly_speed: null
 fortitude: '+15'
 hardness: '7'
 hp: '65'
@@ -35,16 +29,12 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '15'
-language: null
 level: '5'
 max_speed: '15'
 name: Animated Fireplace
 perception: '+9'
 rarity: Unique
 reflex: '+6'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -53,12 +43,10 @@ skill:
 source: '[[DATABASE/source/Pathfinder 182. Graveclaw|Pathfinder #182: Graveclaw]]'
 speed:
 - 15 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Mindless|Mindless]]'
@@ -67,7 +55,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+8'
 wisdom: '+0'
 

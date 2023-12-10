@@ -1,24 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Musetouched
-frequency: null
-heighten_level: null
 id: '1353'
+leads_to: '[[DATABASE/feat/Azata Magic|Azata Magic]] , [[DATABASE/feat/Call of Elysium|Call
+  of Elysium]]'
 level: '1'
 name: Musetouched
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Aasimar|Aasimar]]'
 - '[[DATABASE/trait/Lineage|Lineage]]'
-trigger: null
 type: Feat
 
 ---

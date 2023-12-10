@@ -1,8 +1,6 @@
 ﻿---
 ac: '21'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
 climb_speed: '20'
 constitution: '+2'
@@ -10,12 +8,8 @@ creature_ability:
 - Cold Healing
 - Mold Mulch
 - Seed Spray
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+10'
-hardness: null
 hp: '75'
 id: '576'
 immunity:
@@ -30,9 +24,6 @@ name: Calathgar
 perception: '+10'
 rarity: Common
 reflex: '+13'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent 30 feet]]'
@@ -44,12 +35,10 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 20 feet
 - climb 20 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Cold|Cold]]'
 - '[[DATABASE/trait/Plant|Plant]]'

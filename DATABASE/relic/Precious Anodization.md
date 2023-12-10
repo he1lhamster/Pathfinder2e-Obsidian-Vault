@@ -3,10 +3,7 @@ element: Metal
 id: '118'
 item_category: Relics
 name: Precious Anodization
-prerequisite: null
 rarity: Common
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 trait:
 - '[[DATABASE/trait/Metal|Metal]]'

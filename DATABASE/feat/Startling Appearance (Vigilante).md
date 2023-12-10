@@ -1,28 +1,22 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Startling Appearance (Vigilante)
-frequency: null
-heighten_level: null
 id: '2088'
+leads_to: '[[DATABASE/feat/Frightening Appearance|Frightening Appearance]] , [[DATABASE/feat/Stunning
+  Appearance|Stunning Appearance]]'
 level: '6'
 name: Startling Appearance (Vigilante)
 prerequisite: '[[DATABASE/feat/Vigilante Dedication|Vigilante Dedication]]'
 rarity: Common
 requirement: You are completely [[DATABASE/condition/Unnoticed|unnoticed]] by the
   target creature.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Emotion|Emotion]]'
 - '[[DATABASE/trait/Fear|Fear]]'
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Vigilante|Vigilante]]'
-trigger: null
 type: Feat
 
 ---

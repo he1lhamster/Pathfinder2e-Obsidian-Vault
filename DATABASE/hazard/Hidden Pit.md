@@ -1,8 +1,6 @@
 ﻿---
 ac: '10'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+1'
 hardness: 3 Trapdoor Hardness
 hazard_type: Trap
@@ -16,16 +14,11 @@ level: '0'
 name: Hidden Pit
 rarity: Common
 reflex: '+1'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Mechanical|Mechanical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Hidden Pit<span class="item-type">Hazard 0</span>

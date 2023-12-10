@@ -1,10 +1,7 @@
 ﻿---
 ac: '37'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+7'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Change Posture
@@ -16,10 +13,7 @@ creature_ability:
 - Powerlessness
 creature_family: '[[DATABASE/monsterfamily/Darvakka|Darvakka]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+25'
-hardness: null
 hp: 335 ( negative healing )
 id: '1849'
 immunity:
@@ -44,8 +38,6 @@ rarity: Common
 reflex: '+25'
 resistance:
 - '[[DATABASE/trait/Cold|cold]] 10'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 - '[[DATABASE/monsterability/Lifesense|lifesense]] 60 feet'
@@ -76,7 +68,6 @@ strength: '+8'
 strength_req: '8'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Darvakka|Darvakka]]'
 - '[[DATABASE/trait/Shadow|Shadow]]'

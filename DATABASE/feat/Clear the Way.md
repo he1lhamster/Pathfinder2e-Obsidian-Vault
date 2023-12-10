@@ -1,23 +1,15 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Clear the Way
-frequency: null
-heighten_level: null
 id: '2023'
 level: '6'
 name: Clear the Way
 prerequisite: '[[DATABASE/feat/Mauler Dedication|Mauler Dedication]]'
 rarity: Common
 requirement: You're wielding a melee weapon in two hands.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

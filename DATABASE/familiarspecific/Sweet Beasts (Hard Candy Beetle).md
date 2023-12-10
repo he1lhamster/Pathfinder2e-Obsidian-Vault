@@ -1,9 +1,7 @@
 ﻿---
 id: '32'
 name: Sweet Beasts (Hard Candy Beetle)
-rus_type_level: null
 source: '[[DATABASE/source/Wake the Dead 3|Wake the Dead #3]]'
-trait: null
 
 ---
 # Sweet Beasts (Hard Candy Beetle)

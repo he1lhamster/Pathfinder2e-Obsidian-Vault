@@ -1,28 +1,15 @@
 ﻿---
-actions: null
 area: 20-foot burst
-bloodline: null
 component:
 - 1 Minute
-cost: null
-deity: null
-domain: null
 duration: 10 minutes
 element: Wood
 heighten: 7th, 9th
 heighten_level: 5, 7, 9
 id: '1400'
-lesson: null
 level: '5'
-mystery: null
 name: Entwined Roots
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 target: up to 5 willing living creatures
 tradition:
@@ -32,7 +19,6 @@ trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Wood|Wood]]'
-trigger: null
 type: Spell
 
 ---

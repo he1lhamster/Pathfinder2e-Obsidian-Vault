@@ -1,23 +1,15 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Counterclockwork Focus
 frequency: once per round
-heighten_level: null
 id: '4043'
 level: '10'
 name: Counterclockwork Focus
 prerequisite: '[[DATABASE/feat/Shieldmarshal Dedication|Shieldmarshal Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

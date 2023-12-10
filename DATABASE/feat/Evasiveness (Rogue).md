@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Evasiveness (Rogue)
-frequency: null
-heighten_level: null
 id: '733'
 level: '12'
 name: Evasiveness (Rogue)
 prerequisite: '[[DATABASE/feat/Rogue Dedication|Rogue Dedication]] ; expert in Reflex
   saves'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

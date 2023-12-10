@@ -1,54 +1,19 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '278'
 item_category: Runes
 item_subcategory: Fundamental Armor Runes
-land_speed: null
 level: '18'
-max_speed: null
 name: Armor Potency
-onset: null
 price: 20,560 gp
-range: null
 rarity: Common
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Abjuration
-size: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-spell: null
-stage: null
 subcategory: rune
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Magical|Magical]]'
-trigger: null
 type: Item
 usage: etched onto armor
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Armor Potency<span class="item-type">Item 5+</span>

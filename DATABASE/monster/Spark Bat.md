@@ -1,10 +1,7 @@
 ﻿---
 ac: '19'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Arc Lightning
@@ -13,7 +10,6 @@ dexterity: '+3'
 element: Air
 fly_speed: '50'
 fortitude: '+5'
-hardness: null
 hp: '18'
 id: '646'
 immunity:
@@ -24,16 +20,12 @@ immunity:
 - '[[DATABASE/trait/Sleep|sleep]]'
 intelligence: '-4'
 land_speed: '5'
-language: null
 level: '2'
 max_speed: '50'
 name: Spark Bat
 perception: '+7'
 rarity: Common
 reflex: '+11'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Tiny
@@ -44,12 +36,10 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 5 feet
 - fly 50 feet
-spell: null
 strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Elemental|Elemental]]'
@@ -57,7 +47,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+7'
 wisdom: '+1'
 

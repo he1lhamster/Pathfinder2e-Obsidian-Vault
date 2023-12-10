@@ -1,8 +1,6 @@
 ﻿---
 ac: '15'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-4'
 climb_speed: '30'
 constitution: '+1'
@@ -10,25 +8,17 @@ creature_ability:
 - Giant Centipede Venom
 creature_family: '[[DATABASE/monsterfamily/Centipede|Centipede]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+7'
-hardness: null
 hp: '8'
 id: '77'
-immunity: null
 intelligence: '-5'
 land_speed: '30'
-language: null
 level: '-1'
 max_speed: '30'
 name: Giant Centipede
 perception: '+6'
 rarity: Common
 reflex: '+6'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -40,19 +30,16 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 30 feet
 - climb 30 feet
-spell: null
 strength: '-1'
 strength_req: '-1'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+2'
 wisdom: '+1'
 

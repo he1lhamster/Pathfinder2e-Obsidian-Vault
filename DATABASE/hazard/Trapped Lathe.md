@@ -1,8 +1,6 @@
 ﻿---
 ac: '30'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+22'
 hardness: '18'
 hazard_type: Trap
@@ -16,9 +14,6 @@ level: '10'
 name: Trapped Lathe
 rarity: Common
 reflex: '+14'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 147. Tomorrow Must Burn|Pathfinder #147: Tomorrow
   Must Burn]]'
 trait:
@@ -26,8 +21,6 @@ trait:
 - '[[DATABASE/trait/Mechanical|Mechanical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Trapped Lathe<span class="item-type">Hazard 10</span>

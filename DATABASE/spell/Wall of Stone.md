@@ -1,43 +1,30 @@
 ﻿---
 actions: '[three-actions]'
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Anubis|Anubis]]'
 - '[[DATABASE/deity/Arqueros|Arqueros]]'
 - '[[DATABASE/deity/Ashukharma|Ashukharma]]'
 - '[[DATABASE/deity/Mazludeh|Mazludeh]]'
-domain: null
-duration: null
 element: Earth
 heighten: '+2'
 heighten_level: 5, 7, 9
 id: '365'
-lesson: null
 level: '5'
-mystery: null
 name: Wall of Stone
-patron_theme: null
 range: 120 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Arcane
 - Primal
 trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Earth|Earth]]'
-trigger: null
 type: Spell
 
 ---

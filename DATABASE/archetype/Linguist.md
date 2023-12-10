@@ -4,9 +4,7 @@ level: '2'
 name: Linguist
 prerequisite: you speak at least three languages
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-trait: null
 type: Archetype
 
 ---

@@ -1,10 +1,7 @@
 ﻿---
 ac: '36'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Breath Weapon
@@ -20,10 +17,8 @@ creature_ability:
 - Woodland Stride
 creature_family: '[[DATABASE/monsterfamily/Dragon, Forest|Dragon, Forest]]'
 dexterity: '+3'
-element: null
 fly_speed: '120'
 fortitude: '+25'
-hardness: null
 hp: '290'
 id: '1123'
 immunity:
@@ -42,9 +37,6 @@ name: Adult Forest Dragon
 perception: '+25'
 rarity: Uncommon
 reflex: '+22'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 60 feet'
@@ -70,7 +62,6 @@ strength: '+7'
 strength_req: '7'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dragon|Dragon]]'
 - '[[DATABASE/trait/Plant|Plant]]'

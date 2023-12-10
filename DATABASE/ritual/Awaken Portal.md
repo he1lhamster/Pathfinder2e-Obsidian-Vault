@@ -1,9 +1,4 @@
 ﻿---
-area: null
-cost: null
-duration: null
-element: null
-heighten: null
 heighten_level: '3'
 id: '44'
 level: '3'
@@ -12,8 +7,6 @@ primary_check: '[[DATABASE/skill/Arcana|Arcana]] or [[DATABASE/skill/Occultism|O
   (trained)'
 range: 10 ft.
 rarity: Rare
-requirement: null
-rus_type_level: null
 school: Conjuration
 secondary_casters: up to 5
 secondary_check: Arcana or Occultism (whichever is used for the primary check)

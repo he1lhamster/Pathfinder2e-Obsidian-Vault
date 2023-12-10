@@ -1,40 +1,27 @@
 ﻿---
 actions: '[two-actions]'
-area: null
 bloodline: '[[DATABASE/sorcererbloodline/Imperial|Imperial]]'
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Alseta|Alseta]]'
 - '[[DATABASE/deity/Eiseth|Eiseth]]'
-domain: null
-duration: null
-element: null
 heighten: 5th
 heighten_level: 4, 5
 id: '69'
-lesson: null
 level: '4'
-mystery: null
 name: Dimension Door
-patron_theme: null
 range: 120 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Arcane
 - Occult
 trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Teleportation|Teleportation]]'
-trigger: null
 type: Spell
 
 ---

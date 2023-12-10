@@ -1,25 +1,17 @@
 ﻿---
 ac: '36'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Shadow Doubles
 - Sneak Attack
-creature_family: null
 dexterity: '+8'
-element: null
 fly_speed: '75'
 fortitude: '+23'
-hardness: null
 hp: '280'
 id: '547'
-immunity: null
 intelligence: '+2'
-land_speed: null
 language:
 - '[[DATABASE/language/Aklo|Aklo]]'
 - '[[DATABASE/language/Common|Common]]'
@@ -31,9 +23,6 @@ name: Ankou
 perception: '+25'
 rarity: Common
 reflex: '+28'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Lifesense|lifesense 120 feet]]'
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
@@ -60,7 +49,6 @@ strength: '+7'
 strength_req: '7'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 type: Creature

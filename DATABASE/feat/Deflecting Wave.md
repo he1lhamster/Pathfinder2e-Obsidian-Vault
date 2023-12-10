@@ -1,21 +1,14 @@
 ﻿---
 actions: '[reaction]'
-cost: null
 element: Water
 feat: Deflecting Wave
-frequency: null
-heighten_level: null
 id: '4266'
 level: '1'
 name: Deflecting Wave
-prerequisite: null
 rarity: Common
 requirement: You're aware of the hostile effect, and you aren't [[DATABASE/condition/Off-Guard|off-guard]]
   against it.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Impulse|Impulse]]'
 - '[[DATABASE/trait/Kineticist|Kineticist]]'

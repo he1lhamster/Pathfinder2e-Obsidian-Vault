@@ -2,7 +2,6 @@
 id: '171'
 name: Attached
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - Attached

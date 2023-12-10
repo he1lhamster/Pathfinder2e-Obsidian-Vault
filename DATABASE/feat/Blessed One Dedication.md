@@ -1,24 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Blessed One Dedication
-frequency: null
-heighten_level: null
 id: '1910'
+leads_to: '[[DATABASE/feat/Blessed Denial|Blessed Denial]] , [[DATABASE/feat/Blessed
+  Sacrifice|Blessed Sacrifice]] , [[DATABASE/feat/Blessed Spell|Blessed Spell]]'
 level: '2'
 name: Blessed One Dedication
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
-trigger: null
 type: Feat
 
 ---

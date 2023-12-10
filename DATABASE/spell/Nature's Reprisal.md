@@ -1,33 +1,23 @@
 ﻿---
 actions: '[three-actions]'
 area: all squares on the ground that contain plants in an 80-foot burst
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Verilorn|Verilorn]]'
-domain: null
 duration: 1 minute
 element: Wood
 heighten: '+1'
 heighten_level: 6, 7, 8, 9, 10
 id: '954'
-lesson: null
 level: '6'
-mystery: null
 name: Nature's Reprisal
-patron_theme: null
 range: 120 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-target: null
 tradition:
 - Primal
 trait:
@@ -35,7 +25,6 @@ trait:
 - '[[DATABASE/trait/Poison|Poison]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
 - '[[DATABASE/trait/Wood|Wood]]'
-trigger: null
 type: Spell
 
 ---

@@ -1,10 +1,7 @@
 ﻿---
 ac: '39'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+8'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Hostile Duet
@@ -12,12 +9,10 @@ creature_ability:
 - Retune
 - Subsonic Burst
 - Swiftness
-creature_family: null
 dexterity: '+8'
 element: Air
 fly_speed: '100'
 fortitude: '+24'
-hardness: null
 hp: '280'
 id: '1511'
 immunity:
@@ -26,7 +21,6 @@ immunity:
 - '[[DATABASE/trait/Poison|poison]]'
 - '[[DATABASE/trait/Sleep|sleep]]'
 intelligence: '+2'
-land_speed: null
 language:
 - '[[DATABASE/language/Auran|Auran]]'
 - '[[DATABASE/language/Tengu|Tengu]]'
@@ -37,9 +31,6 @@ name: Melodic Squalls
 perception: '+30'
 rarity: Rare
 reflex: '+32'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Huge
@@ -50,12 +41,10 @@ skill:
 source: '[[DATABASE/source/Pathfinder 167. Ready Fight!|Pathfinder #167: Ready? Fight!]]'
 speed:
 - fly 100 feet; swiftness
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Elemental|Elemental]]'
@@ -64,7 +53,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+28'
 wisdom: '+6'
 

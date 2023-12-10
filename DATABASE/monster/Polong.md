@@ -2,9 +2,7 @@
 ac: '24'
 alignment: NE
 all_resistance: '5'
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Bottle Bound
@@ -12,12 +10,9 @@ creature_ability:
 - Polong Possession
 - Regenerating Bond
 - Rend
-creature_family: null
 dexterity: '+6'
-element: null
 fly_speed: '35'
 fortitude: '+12'
-hardness: null
 hp: 100 ( negative healing )
 id: '1891'
 immunity:
@@ -28,7 +23,6 @@ immunity:
 - precision
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '+1'
-land_speed: null
 language:
 - any one language known by the polong's creator
 level: '8'
@@ -42,8 +36,6 @@ resistance:
 - '[[DATABASE/equipment/Ghost Touch|ghost touch]]'
 - or [[DATABASE/trait/Positive|positive]] ;double resistance vs. non- [[DATABASE/trait/Magical|magical]]
   )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Lifesense|lifesense]] 30 feet'
@@ -56,12 +48,10 @@ skill:
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 speed:
 - fly 35 feet
-spell: null
 strength: '-5'
 strength_req: '-5'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Incorporeal|Incorporeal]]'
 - '[[DATABASE/trait/Spirit|Spirit]]'

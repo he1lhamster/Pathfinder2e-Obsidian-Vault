@@ -1,7 +1,6 @@
 ﻿---
 id: '16'
 name: Flat-Footed
-source: null
 
 ---
 # Flat-Footed

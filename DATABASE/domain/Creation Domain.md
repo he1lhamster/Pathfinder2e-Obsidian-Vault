@@ -1,7 +1,5 @@
 ﻿---
-advanced_apocryphal_spell: null
 advanced_domain_spell: '[[DATABASE/spell/Artistic Flourish|Artistic Flourish]]'
-apocryphal_spell: null
 deity:
 - '[[DATABASE/deity/Aakriti|Aakriti]]'
 - '[[DATABASE/deity/Alglenweis|Alglenweis]]'
@@ -47,9 +45,7 @@ domain_spell: '[[DATABASE/spell/Splash of Art|Splash of Art]]'
 id: '5'
 name: Creation Domain
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Domain
 
 ---

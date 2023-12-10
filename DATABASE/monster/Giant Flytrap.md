@@ -1,10 +1,7 @@
 ﻿---
 ac: '29'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Focused Assault
@@ -13,17 +10,13 @@ creature_ability:
 - Swallow Whole
 creature_family: '[[DATABASE/monsterfamily/Flytrap|Flytrap]]'
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+21'
-hardness: null
 hp: '185'
 id: '209'
 immunity:
 - mental
 intelligence: '-5'
 land_speed: '25'
-language: null
 level: '10'
 max_speed: '25'
 name: Giant Flytrap
@@ -32,8 +25,6 @@ rarity: Common
 reflex: '+17'
 resistance:
 - acid 10
-rus_type_level: null
-school: null
 sense:
 - tremorsense (imprecise) 60 feet
 size: Huge
@@ -43,17 +34,14 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 25 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Mindless|Mindless]]'
 - '[[DATABASE/trait/Plant|Plant]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
 weakness:

@@ -1,10 +1,8 @@
 ﻿---
-element: null
 id: '19'
 level: '5'
 name: Curse of the Ravenous
 rarity: Common
-rus_type_level: null
 saving_throw: DC 20 Fortitude
 school: Transmutation
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
@@ -13,7 +11,6 @@ trait:
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
 type: Curse
-usage: null
 
 ---
 # Curse of the Ravenous<span class="item-type">Curse 5</span>

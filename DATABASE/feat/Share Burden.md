@@ -1,20 +1,12 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Share Burden
-frequency: null
-heighten_level: null
 id: '3832'
 level: '6'
 name: Share Burden
 prerequisite: '[[DATABASE/feat/Curse Maelstrom Dedication|Curse Maelstrom Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 trigger: An ally within 60 feet would be affected by a [[DATABASE/trait/Curse|curse]]

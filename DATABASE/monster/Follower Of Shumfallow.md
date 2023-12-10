@@ -1,25 +1,17 @@
 ﻿---
 ac: '15'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Change Shape
 - Pack Attack
 - Spores
 - Verdant Burst
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+5'
-hardness: null
 hp: '8'
 id: '1935'
-immunity: null
 intelligence: '-1'
 land_speed: '25'
 language:
@@ -33,9 +25,6 @@ name: Follower Of Shumfallow
 perception: '+6'
 rarity: Rare
 reflex: '+7'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -53,7 +42,6 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fungus|Fungus]]'
 - '[[DATABASE/trait/Leshy|Leshy]]'
@@ -62,7 +50,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+2'
 wisdom: '+0'
 

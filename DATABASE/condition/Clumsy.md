@@ -1,7 +1,6 @@
 ﻿---
 id: '3'
 name: Clumsy
-source: null
 
 ---
 # Clumsy

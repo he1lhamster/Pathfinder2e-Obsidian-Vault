@@ -1,21 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Inspired Stratagem
-frequency: null
-heighten_level: null
 id: '1796'
 level: '8'
 name: Inspired Stratagem
-prerequisite: null
 rarity: Common
 requirement: You spent 10 minutes during your daily preparations reviewing stratagems
   for the day's adventureswith up to four allies.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fortune|Fortune]]'
 - '[[DATABASE/trait/Linguistic|Linguistic]]'

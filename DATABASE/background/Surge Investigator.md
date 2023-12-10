@@ -5,12 +5,9 @@ ability:
 ability_boost:
 - Constitution
 - Wisdom
-feat: null
 id: '248'
 name: Surge Investigator
-prerequisite: null
 rarity: Rare
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Nature|Nature]] or [[DATABASE/skill/Occultism|Occultism]]'
 - Magical Terrain [[DATABASE/skill/Lore|Lore]]

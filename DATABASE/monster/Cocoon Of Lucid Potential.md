@@ -1,25 +1,17 @@
 ﻿---
 ac: '33'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+8'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Anchored in Silk
 - Give of Oneself
 - In There Somewhere
 - Of Same Essence
-creature_family: null
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+26'
-hardness: null
 hp: '290'
 id: '2072'
-immunity: null
 intelligence: '+1'
 land_speed: '0'
 language:
@@ -31,10 +23,6 @@ name: Cocoon Of Lucid Potential
 perception: '+26'
 rarity: Unique
 reflex: '+20'
-resistance: null
-rus_type_level: null
-school: null
-sense: null
 size: Gargantuan
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +30'
@@ -63,12 +51,10 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
 weakness:

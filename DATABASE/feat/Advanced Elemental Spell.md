@@ -1,10 +1,5 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Advanced Elemental Spell
-frequency: null
-heighten_level: null
 id: '2976'
 level: '6'
 name: Advanced Elemental Spell
@@ -12,14 +7,9 @@ prerequisite: '[[DATABASE/druidicorder/Flame|flame order]] , [[DATABASE/druidico
   order]] , [[DATABASE/druidicorder/Storm|storm order]] , or [[DATABASE/druidicorder/Wave|wave
   order]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Druid|Druid]]'
-trigger: null
 type: Feat
 
 ---

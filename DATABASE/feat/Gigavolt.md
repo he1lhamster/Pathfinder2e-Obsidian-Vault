@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Gigavolt
-frequency: null
-heighten_level: null
 id: '3076'
 level: '12'
 name: Gigavolt
 prerequisite: '[[DATABASE/feat/Megavolt|Megavolt]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Inventor|Inventor]]'
-trigger: null
 type: Feat
 
 ---

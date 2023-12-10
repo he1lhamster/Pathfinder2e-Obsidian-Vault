@@ -1,21 +1,14 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Stalwart Mind
 frequency: once per day
-heighten_level: null
 id: '3449'
 level: '8'
 name: Stalwart Mind
 prerequisite: '[[DATABASE/feat/Mammoth Lord Dedication|Mammoth Lord Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 177. Burning Tundra|Pathfinder #177: Burning
   Tundra]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 trigger: You fail a Will save.

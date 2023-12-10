@@ -1,10 +1,7 @@
 ﻿---
 ac: '39'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Attack of Opportunity
@@ -12,12 +9,8 @@ creature_ability:
 - Huntblade Brutality
 - Hunter's Triumph
 - Whip Drain
-creature_family: null
 dexterity: '+9'
-element: null
-fly_speed: null
 fortitude: '+25'
-hardness: null
 hp: 290 ( negative healing )
 id: '1329'
 immunity:
@@ -34,9 +27,6 @@ name: Sumbreiva
 perception: '+29'
 rarity: Common
 reflex: '+33'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -56,7 +46,6 @@ strength: '+8'
 strength_req: '8'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Negative|Negative]]'
@@ -64,7 +53,6 @@ type: Creature
 vision: Greater darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+27'
 wisdom: '+5'
 

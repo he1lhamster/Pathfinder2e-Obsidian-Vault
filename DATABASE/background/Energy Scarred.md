@@ -3,12 +3,9 @@ ability:
 - Constitution
 ability_boost:
 - Constitution
-feat: null
 id: '246'
 name: Energy Scarred
-prerequisite: null
 rarity: Rare
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Lore|Lore]] associated with the chosen energy (such as Fire Lore)'
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'

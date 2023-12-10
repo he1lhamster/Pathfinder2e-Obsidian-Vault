@@ -1,24 +1,15 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Iruxi Glide
-frequency: null
-heighten_level: null
 id: '2407'
 level: '5'
 name: Iruxi Glide
 prerequisite: '[[DATABASE/heritage/Cloudleaper Lizardfolk|Cloudleaper Lizardfolk]]
   heritage'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Lizardfolk|Lizardfolk]]'
-trigger: null
 type: Feat
 
 ---

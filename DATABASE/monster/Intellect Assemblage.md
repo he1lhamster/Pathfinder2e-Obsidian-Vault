@@ -1,10 +1,7 @@
 ﻿---
 ac: '43'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-3'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Bardic Lore
@@ -12,12 +9,8 @@ creature_ability:
 - Invasive Thoughts
 - Meticulous
 - Thoughtsense
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+35'
-hardness: null
 hp: '355'
 id: '2419'
 immunity:
@@ -46,9 +39,6 @@ name: Intellect Assemblage
 perception: '+29'
 rarity: Rare
 reflex: '+32'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - thoughtsense 100 feet
 - no vision
@@ -72,12 +62,10 @@ strength: '+10'
 strength_req: '10'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
 weakness:

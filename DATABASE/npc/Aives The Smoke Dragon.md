@@ -1,20 +1,14 @@
 ﻿---
 ac: '21'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Quick Draw
 - Smoke Exhalation
 - Sneak Attack
 - Surprise Attack
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+9'
 hp: '56'
 id: '2014'
@@ -31,8 +25,6 @@ name: Aives The Smoke Dragon
 perception: '+8'
 rarity: Unique
 reflex: '+14'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -53,7 +45,6 @@ strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Tiefling|Tiefling]]'
@@ -63,7 +54,6 @@ vision: Darkvision
 weakest_save:
 - Fortitude
 - Will
-weakness: null
 will: '+9'
 wisdom: '+0'
 

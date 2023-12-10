@@ -1,24 +1,17 @@
 ﻿---
 ac: '17'
 alignment: CG
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Mobility
 - Nimble Dodge
 - Sneak Attack
 - Surprise Attack
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+7'
 hp: '30'
 id: '1444'
-immunity: null
 intelligence: '+1'
 land_speed: '30'
 language:
@@ -30,8 +23,6 @@ name: Wendlyn
 perception: '+10'
 rarity: Unique
 reflex: '+9'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
@@ -45,12 +36,10 @@ skill:
 source: '[[DATABASE/source/No-Prep Character. Wendlyn|No-Prep Character: Wendlyn]]'
 speed:
 - 30 feet; mobility
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Elf|Elf]]'
 - '[[DATABASE/trait/Half-Elf|Half-Elf]]'
@@ -61,7 +50,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+11'
 wisdom: '+3'
 

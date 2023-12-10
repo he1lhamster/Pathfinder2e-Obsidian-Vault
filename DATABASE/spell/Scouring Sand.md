@@ -1,32 +1,21 @@
 ﻿---
 actions: '[two-actions]'
 area: 10-foot burst
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: sustained for up to 1 minute
 element: Earth
 heighten: 3rd, 6th
 heighten_level: 1, 3, 6
 id: '633'
-lesson: null
 level: '1'
-mystery: null
 name: Scouring Sand
-patron_theme: null
 range: 60 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Pathfinder 151. The Show Must Go On|Pathfinder #151: The
   Show Must Go On]]'
-target: null
 tradition:
 - Arcane
 - Primal
@@ -34,7 +23,6 @@ trait:
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Spell
 
 ---

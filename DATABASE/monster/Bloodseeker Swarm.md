@@ -1,19 +1,14 @@
 ﻿---
 ac: '20'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Blood Draining Bites
 creature_family: '[[DATABASE/monsterfamily/Bloodseeker|Bloodseeker]]'
 dexterity: '+5'
-element: null
 fly_speed: '30'
 fortitude: '+6'
-hardness: null
 hp: '36'
 id: '2695'
 immunity:
@@ -21,7 +16,6 @@ immunity:
 - swarm mind
 intelligence: '-5'
 land_speed: '10'
-language: null
 level: '3'
 max_speed: '30'
 name: Bloodseeker Swarm
@@ -32,8 +26,6 @@ resistance:
 - bludgeoning 3
 - piercing 5
 - slashing 5
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 60 feet'
@@ -46,12 +38,10 @@ source: '[[DATABASE/source/Pathfinder 194. Cult of the Cave Worm|Pathfinder #194
 speed:
 - 10 feet
 - fly 30 feet
-spell: null
 strength: '-3'
 strength_req: '-3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 - '[[DATABASE/trait/Swarm|Swarm]]'

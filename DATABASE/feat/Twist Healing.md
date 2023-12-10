@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Twist Healing
-frequency: null
-heighten_level: null
 id: '2353'
 level: '17'
 name: Twist Healing
 prerequisite: ability to cast [[DATABASE/spell/Heal|heal]] and [[DATABASE/spell/Harm|harm]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Dhampir|Dhampir]]'
-trigger: null
 type: Feat
 
 ---

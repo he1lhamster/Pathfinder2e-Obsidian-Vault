@@ -1,20 +1,15 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Nanite Surge
 frequency: once per hour
-heighten_level: null
 id: '2463'
+leads_to: '[[DATABASE/feat/Consistent Surge|Consistent Surge]] , [[DATABASE/feat/Offensive
+  Subroutine|Offensive Subroutine]] , [[DATABASE/feat/Protective Subroutine|Protective
+  Subroutine]]'
 level: '1'
 name: Nanite Surge
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Android|Android]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'

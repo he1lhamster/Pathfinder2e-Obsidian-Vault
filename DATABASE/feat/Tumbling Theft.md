@@ -1,24 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Tumbling Theft
-frequency: null
-heighten_level: null
 id: '4129'
 level: '7'
 name: Tumbling Theft
 prerequisite: Expert in [[DATABASE/skill/Acrobatics|Acrobatics]] ; Expert in [[DATABASE/skill/Thievery|Thievery]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Firebrands|Firebrands]]'
 subcategory: thievery
 trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,23 +1,16 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Hatchling Flight
 frequency: once per round
-heighten_level: null
 id: '2389'
+leads_to: '[[DATABASE/feat/Wyrmling Flight|Wyrmling Flight]]'
 level: '13'
 name: Hatchling Flight
 prerequisite: '[[DATABASE/feat/Winglets|Winglets]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Kobold|Kobold]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,10 +1,8 @@
 ﻿---
 ac: '30'
 alignment: N
-all_resistance: null
 burrow_speed: '20'
 charisma: '+0'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Claw Frenzy
@@ -14,9 +12,7 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Elemental, Earth|Elemental, Earth]]'
 dexterity: '+3'
 element: Earth
-fly_speed: null
 fortitude: '+22'
-hardness: null
 hp: '195'
 id: '2565'
 immunity:
@@ -40,8 +36,6 @@ resistance:
 - '[[DATABASE/trait/Cold|cold]] 10'
 - '[[DATABASE/trait/Electricity|electricity]] 10'
 - '[[DATABASE/trait/Fire|fire]] 10'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) 60 feet'
@@ -56,13 +50,11 @@ source: '[[DATABASE/source/Pathfinder 191. The Destiny War|Pathfinder #191: The 
 speed:
 - 20 feet
 - burrow 20 feet; earth glide
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Elemental|Elemental]]'

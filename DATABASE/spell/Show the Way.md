@@ -1,29 +1,16 @@
 ﻿---
-actions: null
 area: 5-foot emanation
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 8 hours
-element: null
 heighten: 6th
 heighten_level: 3, 6
 id: '588'
-lesson: null
 level: '3'
-mystery: null
 name: Show the Way
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
 target: you and allies in the area
@@ -33,7 +20,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Detection|Detection]]'
 - '[[DATABASE/trait/Divination|Divination]]'
-trigger: null
 type: Spell
 
 ---

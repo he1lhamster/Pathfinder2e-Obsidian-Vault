@@ -1,27 +1,16 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: varies
-element: null
 heighten: '+2'
 heighten_level: 2, 4, 6, 8, 10
 id: '1120'
-lesson: null
 level: '2'
-mystery: null
 name: Lock Item
-patron_theme: null
 range: 30 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 saving_throw: Reflex
 school: Abjuration
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
@@ -32,7 +21,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Spell
 
 ---

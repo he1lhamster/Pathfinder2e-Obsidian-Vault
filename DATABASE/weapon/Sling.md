@@ -10,10 +10,8 @@ item_category: Weapons
 item_subcategory: Base Weapons
 level: '0'
 name: Sling
-price: null
 range: 50 ft.
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Propulsive|Propulsive]]'

@@ -1,20 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Drive Back
-frequency: null
-heighten_level: null
 id: '3617'
 level: '8'
 name: Drive Back
 prerequisite: '[[DATABASE/feat/Bastion Dedication|Bastion Dedication]]'
 rarity: Uncommon
 requirement: You have your shield raised.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

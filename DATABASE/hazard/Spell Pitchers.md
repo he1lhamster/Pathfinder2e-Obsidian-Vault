@@ -1,10 +1,7 @@
 ﻿---
 ac: '16'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+11'
-hardness: null
 hazard_type: Environmental
 hp: 40 (BT 20)
 id: '306'
@@ -14,16 +11,12 @@ level: '1'
 name: Spell Pitchers
 rarity: Common
 reflex: '+5'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 trait:
 - '[[DATABASE/trait/Environmental|Environmental]]'
 type: Hazard
 weakness:
 - slashing 10
-will: null
 
 ---
 # Spell Pitchers<span class="item-type">Hazard 1</span>

@@ -1,24 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Fang Sharpener
-frequency: null
-heighten_level: null
 id: '1000'
+leads_to: '[[DATABASE/feat/Ankle Bite|Ankle Bite]] , [[DATABASE/feat/Hungry Goblin|Hungry
+  Goblin]]'
 level: '1'
 name: Fang Sharpener
 prerequisite: '[[DATABASE/heritage/Irongut Goblin|Irongut Goblin]] heritage or [[DATABASE/heritage/Razortooth
   Goblin|Razortooth Goblin]] heritage'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Goblin|Goblin]]'
-trigger: null
 type: Feat
 
 ---

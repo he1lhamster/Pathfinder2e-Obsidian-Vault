@@ -1,11 +1,8 @@
 ﻿---
-element: null
 id: '74'
 item_category: Relics
 name: Draconic Resistance
-prerequisite: null
 rarity: Common
-rus_type_level: null
 school: Abjuration
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 trait:

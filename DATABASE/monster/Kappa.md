@@ -1,23 +1,15 @@
 ﻿---
 ac: '18'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Head Bowl
 - Pull Arm
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+7'
-hardness: null
 hp: '35'
 id: '1206'
-immunity: null
 intelligence: '+1'
 land_speed: '15'
 language:
@@ -29,9 +21,6 @@ name: Kappa
 perception: '+9'
 rarity: Common
 reflex: '+10'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -44,7 +33,6 @@ source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 15 feet
 - swim 40 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
@@ -58,7 +46,6 @@ vision: Darkvision
 weakest_save:
 - Fortitude
 - Will
-weakness: null
 will: '+7'
 wisdom: '+3'
 

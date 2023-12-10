@@ -2,9 +2,6 @@
 id: '115'
 name: Pathfinder 174. Shadows of the Ancients
 rarity: Common
-rus_type_level: null
-source: null
-trait: null
 type: Source
 
 ---

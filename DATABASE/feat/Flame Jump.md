@@ -1,20 +1,13 @@
 ﻿---
-actions: null
-cost: null
 element: Fire
 feat: Flame Jump
 frequency: once per day
-heighten_level: null
 id: '2294'
 level: '13'
 name: Flame Jump
 prerequisite: '[[DATABASE/feat/Emberkin|Emberkin]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Aasimar|Aasimar]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
@@ -23,7 +16,6 @@ trait:
 - '[[DATABASE/trait/Fire|Fire]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Teleportation|Teleportation]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,20 +1,10 @@
 ﻿---
-ac: null
-all_resistance: null
 complexity: Simple
-element: null
-fortitude: null
-hardness: null
 hazard_type: Trap
-hp: null
 id: '186'
-immunity: null
 level: '6'
 name: False Step Floor
 rarity: Common
-reflex: null
-resistance: null
-rus_type_level: null
 school: Conjuration
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 trait:
@@ -23,8 +13,6 @@ trait:
 - '[[DATABASE/trait/Teleportation|Teleportation]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # False Step Floor<span class="item-type">Hazard 6</span>

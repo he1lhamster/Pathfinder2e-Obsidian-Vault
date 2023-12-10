@@ -1,20 +1,15 @@
 ﻿---
 ac: '27'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Breath Weapon
 - Slow
 creature_family: '[[DATABASE/monsterfamily/Zombie|Zombie]]'
 dexterity: '+3'
-element: null
 fly_speed: '50'
 fortitude: '+19'
-hardness: null
 hp: 210 ( negative healing )
 id: '1378'
 immunity:
@@ -27,16 +22,12 @@ immunity:
 - slashing 10
 intelligence: '-5'
 land_speed: '30'
-language: null
 level: '9'
 max_speed: '50'
 name: Zombie Dragon
 perception: '+16'
 rarity: Common
 reflex: '+18'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Huge
@@ -47,12 +38,10 @@ source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 30 feet
 - fly 50 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dragon|Dragon]]'
 - '[[DATABASE/trait/Mindless|Mindless]]'
@@ -62,7 +51,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+16'
 wisdom: '+3'
 

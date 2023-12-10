@@ -1,10 +1,7 @@
 ﻿---
 ac: '16'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Alchemy
@@ -16,14 +13,10 @@ creature_ability:
 - Quick Alchemy
 - Research Field
 - Skill Feats
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+7'
 hp: '18'
 id: '2393'
-immunity: null
 intelligence: '+4'
 land_speed: '25'
 language:
@@ -38,8 +31,6 @@ name: Jubilost Narthropple (Level 1)
 perception: '+4'
 rarity: Unique
 reflex: '+7'
-resistance: null
-rus_type_level: null
 sense:
 - (expert) [[DATABASE/monsterability/Low-Light Vision|low-light vision]]
 size: Small
@@ -63,7 +54,6 @@ strength_req: '-1'
 strongest_save:
 - Fortitude
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Gnome|Gnome]]'
@@ -73,7 +63,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+4'
 wisdom: '+1'
 

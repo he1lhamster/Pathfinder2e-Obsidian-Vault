@@ -1,41 +1,30 @@
 ﻿---
 actions: '[two-actions]'
 area: 60-foot burst
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Magrim|Magrim]]'
 - '[[DATABASE/deity/Magrim|Magrim]]'
 - '[[DATABASE/deity/Zevgavizeb|Zevgavizeb]]'
-domain: null
 duration: 1 round
 element: Earth
 heighten: 10th
 heighten_level: 8, 10
 id: '95'
-lesson: null
 level: '8'
-mystery: null
 name: Earthquake
-patron_theme: null
 range: 500 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Arcane
 - Primal
 trait:
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
-trigger: null
 type: Spell
 
 ---

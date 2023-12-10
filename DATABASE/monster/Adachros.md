@@ -1,10 +1,7 @@
 ﻿---
 ac: '34'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+8'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Fatal Fantasia
@@ -13,13 +10,10 @@ creature_ability:
 - Thoughtsense
 creature_family: '[[DATABASE/monsterfamily/Ennosite|Ennosite]]'
 dexterity: '+2'
-element: null
 fly_speed: '40'
 fortitude: '+24'
-hardness: null
 hp: '225'
 id: '1149'
-immunity: null
 intelligence: '+5'
 land_speed: '40'
 language:
@@ -40,8 +34,6 @@ rarity: Uncommon
 reflex: '+21'
 resistance:
 - mental 15
-rus_type_level: null
-school: null
 sense:
 - thoughtsense (imprecise) 120 feet
 size: Large
@@ -68,15 +60,12 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Astral|Astral]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+26'
 wisdom: '+5'
 

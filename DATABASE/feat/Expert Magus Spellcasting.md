@@ -1,24 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Expert Magus Spellcasting
-frequency: null
-heighten_level: null
 id: '2951'
+leads_to: '[[DATABASE/feat/Master Magus Spellcasting|Master Magus Spellcasting]]'
 level: '12'
 name: Expert Magus Spellcasting
 prerequisite: '[[DATABASE/feat/Basic Magus Spellcasting|Basic Magus Spellcasting]]
   ; Master in [[DATABASE/skill/Arcana|Arcana]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

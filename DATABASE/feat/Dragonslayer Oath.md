@@ -1,24 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Dragonslayer Oath
-frequency: null
-heighten_level: null
 id: '219'
+leads_to: '[[DATABASE/feat/Wyrmbane Aura|Wyrmbane Aura]]'
 level: '2'
 name: Dragonslayer Oath
 prerequisite: '[[DATABASE/championtenet/Good|tenets of good]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Champion|Champion]]'
 - '[[DATABASE/trait/Oath|Oath]]'
-trigger: null
 type: Feat
 
 ---

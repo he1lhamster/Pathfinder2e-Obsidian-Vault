@@ -1,7 +1,6 @@
 ﻿---
 id: '36'
 name: Stunned
-source: null
 
 ---
 # Stunned

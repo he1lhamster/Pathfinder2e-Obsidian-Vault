@@ -2,9 +2,7 @@
 ac: '36'
 alignment: CG
 all_resistance: '15'
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Boundless Spirit
@@ -14,9 +12,7 @@ creature_ability:
 - Rejuvenation
 - Stack the Deck
 - Unbound Fate
-creature_family: null
 dexterity: '+6'
-element: null
 fly_speed: '25'
 fortitude: '+22'
 hp: 195 ( negative healing , rejuvenation)
@@ -29,7 +25,6 @@ immunity:
 - precision
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '+4'
-land_speed: null
 language:
 - '[[DATABASE/language/Common|Common]]'
 - '[[DATABASE/language/Shoanti|Shoanti]]'
@@ -45,7 +40,6 @@ resistance:
 - '[[DATABASE/equipment/Ghost Touch|ghost touch]]'
 - or [[DATABASE/trait/Positive|positive]] ; double resistance vs. non- [[DATABASE/trait/Magical|magical]]
   )
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - harrow sense
@@ -84,7 +78,6 @@ strength: '-5'
 strength_req: '-5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Ghost|Ghost]]'
 - '[[DATABASE/trait/Incorporeal|Incorporeal]]'
@@ -95,7 +88,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+25'
 wisdom: '+5'
 

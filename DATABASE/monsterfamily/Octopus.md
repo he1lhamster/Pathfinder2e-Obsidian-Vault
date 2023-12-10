@@ -3,9 +3,7 @@ creature_family: Octopus
 id: '143'
 name: Octopus
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
-trait: null
 type: Creature Family
 
 ---

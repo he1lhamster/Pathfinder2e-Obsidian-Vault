@@ -1,8 +1,6 @@
 ﻿---
-area: null
 cost: "rare spices and seasonings worth a total value of 50 gp \xD7 the spell level"
 duration: 24 hours
-element: null
 heighten: 4th, 8th, 10th
 heighten_level: 2, 4, 8, 10
 id: '94'
@@ -10,16 +8,10 @@ level: '2'
 name: Corpse Communion
 primary_check: '[[DATABASE/skill/Crafting|Crafting]] (master), [[DATABASE/skill/Occultism|Occultism]]
   (expert), [[DATABASE/skill/Religion|Religion]] (expert)'
-range: null
 rarity: Rare
-requirement: null
-rus_type_level: null
 school: Necromancy
-secondary_casters: null
-secondary_check: null
 source: '[[DATABASE/source/Pathfinder 184. The Ghouls Hunger|Pathfinder #184: The
   Ghouls Hunger]]'
-target: null
 trait:
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Rare|Rare]]'

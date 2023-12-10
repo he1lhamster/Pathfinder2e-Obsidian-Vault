@@ -1,25 +1,19 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Cathartic Mage Dedication
-frequency: null
-heighten_level: null
 id: '2963'
+leads_to: '[[DATABASE/feat/Basic Cathartic Spellcasting|Basic Cathartic Spellcasting]]
+  , [[DATABASE/feat/Cathartic Focus Spell|Cathartic Focus Spell]] , [[DATABASE/feat/Infectious
+  Emotions|Infectious Emotions]] , [[DATABASE/feat/Work Yourself Up|Work Yourself
+  Up]]'
 level: '2'
 name: Cathartic Mage Dedication
 prerequisite: Charisma 14 or ability to cast spells from spell slots
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

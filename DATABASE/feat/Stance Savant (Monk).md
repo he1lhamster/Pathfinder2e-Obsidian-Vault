@@ -1,20 +1,12 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Stance Savant (Monk)
-frequency: null
-heighten_level: null
 id: '472'
+leads_to: '[[DATABASE/feat/Master of Many Styles|Master of Many Styles]]'
 level: '12'
 name: Stance Savant (Monk)
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Monk|Monk]]'
 trigger: You roll initiative.

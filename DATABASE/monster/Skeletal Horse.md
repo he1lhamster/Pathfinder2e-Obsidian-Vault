@@ -1,20 +1,14 @@
 ﻿---
 ac: '16'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Gallop
 - Undead Steed
 creature_family: '[[DATABASE/monsterfamily/Skeleton|Skeleton]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+6'
-hardness: null
 hp: 33 ( negative healing )
 id: '374'
 immunity:
@@ -26,7 +20,6 @@ immunity:
 - unconscious
 intelligence: '-5'
 land_speed: '40'
-language: null
 level: '2'
 max_speed: '40'
 name: Skeletal Horse
@@ -39,8 +32,6 @@ resistance:
 - fire 5
 - piercing 5
 - slashing 5
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Large
@@ -50,12 +41,10 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 40 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Mindless|Mindless]]'
 - '[[DATABASE/trait/Skeleton|Skeleton]]'
@@ -64,7 +53,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+8'
 wisdom: '+2'
 

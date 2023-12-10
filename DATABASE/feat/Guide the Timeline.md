@@ -1,24 +1,16 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Guide the Timeline
 frequency: once per day
-heighten_level: null
 id: '3849'
 level: '6'
 name: Guide the Timeline
 prerequisite: '[[DATABASE/feat/Chronoskimmer Dedication|Chronoskimmer Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
-trigger: null
 type: Feat
 
 ---

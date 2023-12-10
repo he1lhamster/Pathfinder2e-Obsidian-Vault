@@ -1,10 +1,7 @@
 ﻿---
 ac: '22'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Acidic Pustules
@@ -13,12 +10,9 @@ creature_ability:
 - Powerful Scimitars
 - Raptor Dive
 - Runic Resistance
-creature_family: null
 dexterity: '+4'
-element: null
 fly_speed: '40'
 fortitude: '+12'
-hardness: null
 hp: '85'
 id: '1967'
 immunity:
@@ -36,8 +30,6 @@ rarity: Uncommon
 reflex: '+13'
 resistance:
 - '[[DATABASE/trait/Acid|acid]] 5'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -61,7 +53,6 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Mutant|Mutant]]'
@@ -70,7 +61,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+10'
 wisdom: '+3'
 

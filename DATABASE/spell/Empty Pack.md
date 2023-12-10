@@ -1,28 +1,16 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
-cost: null
-deity: null
-domain: null
 duration: 1 hour
-element: null
 heighten: 4th
 heighten_level: 2, 4
 id: '1151'
-lesson: null
 level: '2'
-mystery: null
 name: Empty Pack
-patron_theme: null
 range: touch
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Illusion
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 target: 1 container of 2 Bulk or less
@@ -31,7 +19,6 @@ tradition:
 - Occult
 trait:
 - '[[DATABASE/trait/Illusion|Illusion]]'
-trigger: null
 type: Spell
 
 ---

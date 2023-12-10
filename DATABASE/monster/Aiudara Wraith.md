@@ -2,9 +2,7 @@
 ac: '45'
 alignment: NE
 all_resistance: '15'
-burrow_speed: null
 charisma: '+8'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Dimensional Shunt
@@ -13,10 +11,8 @@ creature_ability:
 - Teleportation Attachment
 creature_family: '[[DATABASE/monsterfamily/Wraith|Wraith]]'
 dexterity: '+9'
-element: null
 fly_speed: '60'
 fortitude: '+33'
-hardness: null
 hp: 300 ( negative healing )
 id: '488'
 immunity:
@@ -27,7 +23,6 @@ immunity:
 - precision
 - unconscious
 intelligence: '+0'
-land_speed: null
 language:
 - '[[DATABASE/language/Common|Common]]'
 - '[[DATABASE/language/Elven|Elven]]'
@@ -42,8 +37,6 @@ resistance:
 - all damage 15 (except force
 - ghost touch
 - or positive; double resistance vs. non-magical)
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - lifesense 60 feet
@@ -56,12 +49,10 @@ source: '[[DATABASE/source/Pathfinder 150. Broken Promises|Pathfinder #150: Brok
   Promises]]'
 speed:
 - fly 60 feet; instantaneous movement
-spell: null
 strength: '-5'
 strength_req: '-5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Astral|Astral]]'
 - '[[DATABASE/trait/Incorporeal|Incorporeal]]'
@@ -73,7 +64,6 @@ vision: Darkvision
 weakest_save:
 - Fortitude
 - Will
-weakness: null
 will: '+33'
 wisdom: '+7'
 

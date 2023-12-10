@@ -1,57 +1,22 @@
 ﻿---
-ac: null
-actions: null
 alignment: No Alignment
-base_item: null
 bulk: '16'
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '2400'
 item_category: Intelligent Items
-item_subcategory: null
-land_speed: null
 level: '12'
-max_speed: null
 name: Phantom Piano
-onset: null
-price: null
-range: null
 rarity: Rare
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Enchantment
-size: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-spell: null
-stage: null
 subcategory: intelligentitem
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Enchantment|Enchantment]]'
 - '[[DATABASE/trait/Focused|Focused]]'
 - '[[DATABASE/trait/Intelligent|Intelligent]]'
 - '[[DATABASE/trait/Occult|Occult]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Item
 usage: 2 hands
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Phantom Piano<span class="item-type">Item 12</span>

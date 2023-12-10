@@ -1,10 +1,7 @@
 ﻿---
 ac: '35'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Axe Specialization
@@ -14,14 +11,10 @@ creature_ability:
 - Knockback
 - Rage
 - Raging Resistance
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+27'
 hp: '350'
 id: '2331'
-immunity: null
 intelligence: '+0'
 land_speed: '35'
 language:
@@ -33,9 +26,6 @@ name: Villamor Koth
 perception: '+27'
 rarity: Unique
 reflex: '+23'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +30'
@@ -46,22 +36,18 @@ skill:
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 speed:
 - 35 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+27'
 wisdom: '+4'
 

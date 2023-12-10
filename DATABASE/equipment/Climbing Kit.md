@@ -1,54 +1,15 @@
 ﻿---
-ac: '26'
-actions: null
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: '+21'
-frequency: null
-hands: null
-hardness: '18'
-hp: '90'
+bulk: '1'
+hands: '2'
 id: '14'
-item_category: Siege Weapons
-item_subcategory: null
-land_speed: null
-level: '11'
-max_speed: null
+item_category: Adventuring Gear
+level: '0'
 name: Climbing Kit
-onset: null
-price: 22,800 gp
-range: null
-rarity: Uncommon
-reflex: '+13'
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
-school: null
-size: Huge
+price: 5 sp
+rarity: Common
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-spell: null
-stage: null
 subcategory: adventuringgear
-swim_speed: null
-trait:
-- '[[DATABASE/trait/Mounted|Mounted]]'
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
-type: Siege Weapon
-usage: mounted (black powder)
-weapon_category: null
-weapon_group: null
-weapon_type: null
+type: Item
 
 ---
 # Climbing Kit<span class="item-type">Item 0+</span>

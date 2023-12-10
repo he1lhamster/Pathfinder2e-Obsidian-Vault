@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Competitive Eater
-frequency: null
-heighten_level: null
 id: '3889'
 level: '12'
 name: Competitive Eater
 prerequisite: '[[DATABASE/feat/Glutton for Flesh|Glutton for Flesh]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 184. The Ghouls Hunger|Pathfinder #184: The
   Ghouls Hunger]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

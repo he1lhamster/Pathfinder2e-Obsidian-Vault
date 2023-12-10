@@ -1,21 +1,14 @@
 ﻿---
 ac: '16'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+10'
-hardness: null
 hazard_type: Environmental
 hp: '30'
 id: '400'
-immunity: null
 level: '1'
 name: Ornery Augdunars
 rarity: Common
 reflex: '+8'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 193. Mantle of Gold|Pathfinder #193: Mantle
   of Gold]]'
 trait:
@@ -23,8 +16,6 @@ trait:
 - '[[DATABASE/trait/Complex|Complex]]'
 - '[[DATABASE/trait/Environmental|Environmental]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Ornery Augdunars<span class="item-type">Hazard 1</span>

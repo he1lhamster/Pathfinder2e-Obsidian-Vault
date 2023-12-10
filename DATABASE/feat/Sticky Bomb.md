@@ -1,20 +1,12 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Sticky Bomb
 frequency: once per round
-heighten_level: null
 id: '107'
 level: '8'
 name: Sticky Bomb
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Additive|Additive 2]]'
 - '[[DATABASE/trait/Alchemist|Alchemist]]'

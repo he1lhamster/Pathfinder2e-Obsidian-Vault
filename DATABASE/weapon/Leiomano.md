@@ -1,27 +1,8 @@
 ﻿---
-bulk: '1'
-damage: 1d6 B
-deity: null
-favored_weapon: null
-hands: '1'
-id: '292'
-item_category: Weapons
-item_subcategory: Base Weapons
-level: '0'
+id: '166'
 name: Leiomano
-price: 2 gp
-range: null
-rarity: Uncommon
-rus_type_level: null
-source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-trait:
-- '[[DATABASE/trait/Fatal|Fatal d10]]'
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
-- '[[DATABASE/trait/Versatile|Versatile S]]'
-type: Weapon
-weapon_category: Martial
-weapon_group: '[[DATABASE/weapongroup/Club|Club]]'
-weapon_type: Melee
+source: '[[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #166:
+  Despair on Danger Island]]'
 
 ---
 # Leiomano

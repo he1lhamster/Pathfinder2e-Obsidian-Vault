@@ -1,31 +1,25 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
-frequency: null
 id: '1434'
 name: Feint
 rarity: Common
 requirement: '[[DATABASE/kingmakerwarfaretactic/Flexible Tactics|Flexible Tactics]]'
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
 - '[[DATABASE/trait/Attack|Attack]]'
 - '[[DATABASE/trait/Infantry|Infantry]]'
 - '[[DATABASE/trait/Skirmisher|Skirmisher]]'
-trigger: null
 type: Action
 
 ---
 # Feint <span class="action-icon">1</span>
 
-<span class="item-trait">Attack</span><span class="item-trait">Infantry</span><span class="item-trait">Skirmisher</span>
-**Source** [[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]
-**Requirements** [[DATABASE/kingmakerwarfaretactic/Flexible Tactics|Flexible Tactics]]
+<span class="item-trait">Mental</span>
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
+**Requirements** You are within melee reach of the opponent you attempt to Feint.
 
 ---
-Your army launches a probing attack meant to trick the enemy into thinking you are attacking from one quarter while your real thrust comes elsewhere.
-**Critical Success** The target army's defenses are thrown off; it is [[DATABASE/condition/Outflanked|outflanked]] until the end of your turn.
-**Success** The target army is fooled, but only momentarily. It is outflanked against the next melee Strike your army attempts against it before the end of your current turn.
-**Critical Failure** The enemy anticipates your feint and presses the advantage. You are outflanked by the target army until the end of your next turn.
+With a misleading flourish, you leave an opponent unprepared for your real attack. Attempt a Deception check against that opponent’s Perception DC.
+**Critical Success** You throw your enemy’s defenses against you entirely off. The target is flat-footed against melee attacks that you attempt against it until the end of your next turn.
+**Success** Your foe is fooled, but only momentarily. The target is flat-footed against the next melee attack that you attempt against it before the end of your current turn.
+**Critical Failure** Your feint backfires. You are flat-footed against melee attacks the target attempts against you until the end of your next turn.

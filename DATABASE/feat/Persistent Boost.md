@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Persistent Boost
-frequency: null
-heighten_level: null
 id: '3083'
 level: '16'
 name: Persistent Boost
 prerequisite: '[[DATABASE/class_/Inventor|offensive boost]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Inventor|Inventor]]'
-trigger: null
 type: Feat
 
 ---

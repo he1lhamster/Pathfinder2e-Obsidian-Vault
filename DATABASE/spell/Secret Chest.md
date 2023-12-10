@@ -1,30 +1,17 @@
 ﻿---
-actions: null
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/The Offering Plate|The Offering Plate]]'
-domain: null
 duration: until the next time you make your daily preparations
-element: null
-heighten: null
 heighten_level: '5'
 id: '716'
-lesson: null
 level: '5'
-mystery: null
 name: Secret Chest
-patron_theme: null
 range: touch
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 target: 1 container and its contents, totaling 10 Bulk or less
@@ -33,7 +20,6 @@ tradition:
 - Occult
 trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
-trigger: null
 type: Spell
 
 ---

@@ -1,30 +1,7 @@
 ﻿---
-bulk: L
-damage: 1d6 modular
-deity:
-- '[[DATABASE/deity/Casandalee|Casandalee]]'
-favored_weapon: '[[DATABASE/deity/Casandalee|Casandalee]]'
-hands: '1'
-id: '300'
-item_category: Weapons
-item_subcategory: Base Weapons
-level: '1'
+id: '100'
 name: Polytool
-price: 10 gp
-range: null
-rarity: Uncommon
-rus_type_level: null
-source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-trait:
-- '[[DATABASE/trait/Agile|Agile]]'
-- '[[DATABASE/trait/Modular|Modular (B'
-- P
-- or S)]]
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
-type: Weapon
-weapon_category: Martial
-weapon_group: '[[DATABASE/weapongroup/Sword|Sword]]'
-weapon_type: Melee
+source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
 
 ---
 # Polytool<span class="item-type">Item 1</span>

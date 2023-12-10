@@ -1,60 +1,29 @@
 ﻿---
-ac: null
 actions: '[two-actions]'
-alignment: null
-base_item: null
 bulk: L
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
 duration: 10 rounds
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '2014'
 item_category: Alchemical Items
 item_subcategory: Alchemical Poisons
-land_speed: null
 level: '7'
-max_speed: null
 name: Smother Shroud
-onset: null
 price: 60 gp
-range: null
 rarity: Common
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
 saving_throw: DC 22 Fortitude
-school: null
-size: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-spell: null
 stage: "Stage 1: 2d4 poison damage and dazzled (1 round)Stage 2: 3d4 poison damage,\
   \ dazzled, a \u20134 status penalty to Perception checks to hear and smell, andmust\
   \ succeed at a DC 10 flat check to take actions with the auditory trait or the action\
   \ is lost (1round)Stage 3: 4d4 poison damage, blinded, deafened, unable to smell,\
   \ unable to take actions withthe auditory trait, and unable to breathe"
 subcategory: alchemical/poison
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Alchemical|Alchemical]]'
 - '[[DATABASE/trait/Consumable|Consumable]]'
 - '[[DATABASE/trait/Injury|Injury]]'
 - '[[DATABASE/trait/Poison|Poison]]'
-trigger: null
 type: Item
 usage: held in 2 hands
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Smother Shroud<span class="item-type">Item 7</span>

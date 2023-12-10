@@ -1,20 +1,12 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Core Rejuvenation
 frequency: once per day
-heighten_level: null
 id: '3107'
 level: '13'
 name: Core Rejuvenation
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Automaton|Automaton]]'
 trigger: You have the [[DATABASE/condition/Dying|dying]] condition and are about to

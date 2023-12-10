@@ -5,7 +5,6 @@ name: Ritualist
 prerequisite: Expert in [[DATABASE/skill/Arcana|Arcana]] , Expert in [[DATABASE/skill/Nature|Nature]]
   , Expert in [[DATABASE/skill/Occultism|Occultism]] , or Expert in [[DATABASE/skill/Religion|Religion]]
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

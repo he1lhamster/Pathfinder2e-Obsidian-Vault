@@ -1,14 +1,9 @@
 ﻿---
 ability_type: Familiar
-actions: null
-frequency: null
 id: '51'
 name: Darkeater
 rarity: Common
-requirement: null
-rus_type_level: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-trait: null
 type: Familiar Ability
 
 ---

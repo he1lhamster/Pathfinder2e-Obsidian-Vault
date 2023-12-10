@@ -1,12 +1,9 @@
 ﻿---
-element: null
 id: '31'
 level: '5'
 name: Curse of Potent Poison
 rarity: Uncommon
-rus_type_level: null
 saving_throw: DC 20 Will
-school: null
 source: '[[DATABASE/source/Pathfinder 170. Spoken on the Song Wind|Pathfinder #170:
   Spoken on the Song Wind]]'
 trait:
@@ -14,7 +11,6 @@ trait:
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Curse
-usage: null
 
 ---
 # Curse of Potent Poison<span class="item-type">Curse 5</span>

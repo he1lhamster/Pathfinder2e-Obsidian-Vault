@@ -1,18 +1,10 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Kreighton's Cognitive Crossover
-frequency: null
-heighten_level: null
 id: '2272'
 level: '4'
 name: Kreighton's Cognitive Crossover
-prerequisite: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
 subcategory: arcana
 trait:

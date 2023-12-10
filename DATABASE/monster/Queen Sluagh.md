@@ -1,10 +1,7 @@
 ﻿---
 ac: '41'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+9'
 creature_ability:
 - Call of the Damned
@@ -21,10 +18,8 @@ creature_ability:
 - Voice of the Soul
 creature_family: '[[DATABASE/monsterfamily/Sluagh|Sluagh]]'
 dexterity: '+5'
-element: null
 fly_speed: '80'
 fortitude: '+35'
-hardness: null
 hp: 417 ( negative healing )
 id: '1906'
 immunity:
@@ -46,9 +41,6 @@ name: Queen Sluagh
 perception: '+31'
 rarity: Rare
 reflex: '+27'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 - soulscent (imprecise) 200feet
@@ -73,7 +65,6 @@ strength: '+9'
 strength_req: '9'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Rare|Rare]]'

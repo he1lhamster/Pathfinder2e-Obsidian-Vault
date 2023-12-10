@@ -18,7 +18,6 @@ language:
 max_speed: '25'
 name: Kobold
 rarity: Uncommon
-rus_type_level: null
 size: Small
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 speed:

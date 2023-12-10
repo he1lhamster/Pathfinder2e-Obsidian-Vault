@@ -1,17 +1,7 @@
 ﻿---
-ability: null
-ability_boost: null
-feat: null
 id: '336'
 name: Friendly Darkmoon Kobold
-prerequisite: null
-rarity: null
-rus_type_level: null
-skill: null
 source: '[[DATABASE/source/Crown of the Kobold King|Crown of the Kobold King]]'
-subcategory: null
-trait: null
-type: null
 
 ---
 # Friendly Darkmoon Kobold<span class="item-type">Background</span>

@@ -8,9 +8,7 @@ ability_boost:
 feat: '[[DATABASE/feat/Impressive Performance|Impressive Performance]]'
 id: '288'
 name: Tall-Tale
-prerequisite: null
 rarity: Rare
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Performance|Performance]]'
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'

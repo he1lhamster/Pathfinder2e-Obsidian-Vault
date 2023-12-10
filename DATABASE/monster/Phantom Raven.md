@@ -2,9 +2,7 @@
 ac: '15'
 alignment: NE
 all_resistance: '1'
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Susceptible to Death
@@ -12,10 +10,8 @@ creature_ability:
 - Walk the Ethereal Line
 creature_family: '[[DATABASE/monsterfamily/Phantom|Phantom]]'
 dexterity: '+3'
-element: null
 fly_speed: '40'
 fortitude: '+2'
-hardness: null
 hp: '6'
 id: '2730'
 immunity:
@@ -24,7 +20,6 @@ immunity:
 - '[[DATABASE/trait/Poison|poison]]'
 - precision
 intelligence: '-3'
-land_speed: null
 language:
 - '[[DATABASE/language/Common|Common]]'
 level: '-1'
@@ -37,8 +32,6 @@ resistance:
 - all damage 1 (except [[DATABASE/trait/Force|force]] or [[DATABASE/equipment/Ghost
   Touch|ghost touch]] ; double resistance vs. non- [[DATABASE/trait/Magical|magical]]
   )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Tiny
@@ -56,7 +49,6 @@ strength: '-5'
 strength_req: '-5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Ethereal|Ethereal]]'
 - '[[DATABASE/trait/Incorporeal|Incorporeal]]'
@@ -67,7 +59,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+5'
 wisdom: '+3'
 

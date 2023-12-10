@@ -2,9 +2,6 @@
 id: '65'
 name: Pathfinder Encounter. Heaving Kobolds
 rarity: Common
-rus_type_level: null
-source: null
-trait: null
 type: Source
 
 ---

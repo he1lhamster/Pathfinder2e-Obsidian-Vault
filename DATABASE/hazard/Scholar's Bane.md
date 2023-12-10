@@ -1,20 +1,15 @@
 ﻿---
 ac: '20'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+12'
 hardness: 6 Eye Hardness
 hazard_type: Trap
 hp: '20'
 id: '356'
-immunity: null
 level: '4'
 name: Scholar's Bane
 rarity: Common
 reflex: '+8'
-resistance: null
-rus_type_level: null
 school: Illusion
 source: '[[DATABASE/source/Pathfinder 187. The Seventh Arch|Pathfinder #187: The Seventh
   Arch]]'
@@ -24,8 +19,6 @@ trait:
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Scholar's Bane<span class="item-type">Hazard 4</span>

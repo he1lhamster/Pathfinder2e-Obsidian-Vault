@@ -1,10 +1,7 @@
 ﻿---
 ac: '21'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Scoundrel's Feint
@@ -12,12 +9,9 @@ creature_ability:
 - Versatile Performance
 creature_family: '[[DATABASE/monsterfamily/Villains|Villains]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+6'
 hp: '54'
 id: '960'
-immunity: null
 intelligence: '+4'
 land_speed: '25'
 language:
@@ -28,9 +22,6 @@ name: Mastermind
 perception: '+10'
 rarity: Common
 reflex: '+11'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Arcana|Arcana]] +13'
@@ -65,15 +56,12 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+16'
 wisdom: '+2'
 

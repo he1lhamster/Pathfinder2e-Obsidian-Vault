@@ -1,10 +1,7 @@
 ﻿---
 ac: '25'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Alchemy
@@ -24,14 +21,10 @@ creature_ability:
 - Research Field
 - Skill Feats
 - Sticky Bomb
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+15'
 hp: '104'
 id: '2394'
-immunity: null
 intelligence: '+4'
 land_speed: '25'
 language:
@@ -53,7 +46,6 @@ rarity: Unique
 reflex: '+15'
 resistance:
 - fire 5
-rus_type_level: null
 sense:
 - (expert) [[DATABASE/monsterability/Low-Light Vision|low-light vision]]
 size: Small
@@ -78,7 +70,6 @@ strength_req: '-1'
 strongest_save:
 - Fortitude
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Gnome|Gnome]]'
@@ -88,7 +79,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+14'
 wisdom: '+2'
 

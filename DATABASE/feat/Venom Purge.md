@@ -1,23 +1,15 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Venom Purge
 frequency: once per day
-heighten_level: null
 id: '4034'
 level: '13'
 name: Venom Purge
 prerequisite: Trained in [[DATABASE/skill/Medicine|Medicine]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Vishkanya|Vishkanya]]'
-trigger: null
 type: Feat
 
 ---

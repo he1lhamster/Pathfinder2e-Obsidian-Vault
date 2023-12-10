@@ -1,24 +1,17 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Dualistic Synergy
-frequency: null
-heighten_level: null
 id: '1116'
+leads_to: '[[DATABASE/feat/Fulminating Synergy|Fulminating Synergy]] , [[DATABASE/feat/Shared
+  Synergy|Shared Synergy]]'
 level: '8'
 name: Dualistic Synergy
 prerequisite: '[[DATABASE/feat/Halcyon Speaker Dedication|Halcyon Speaker Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Metamagic|Metamagic]]'
-trigger: null
 type: Feat
 
 ---

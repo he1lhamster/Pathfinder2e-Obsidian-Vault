@@ -1,24 +1,15 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Buckler Dance
-frequency: null
-heighten_level: null
 id: '1543'
 level: '10'
 name: Buckler Dance
-prerequisite: null
 rarity: Common
 requirement: You are wielding a [[DATABASE/shield/Buckler|buckler]] .
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Stance|Stance]]'
 - '[[DATABASE/trait/Swashbuckler|Swashbuckler]]'
-trigger: null
 type: Feat
 
 ---

@@ -2,9 +2,7 @@
 ac: '32'
 alignment: CE
 all_resistance: '10'
-burrow_speed: null
 charisma: '+8'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Bound to the Mortal Night
@@ -12,12 +10,9 @@ creature_ability:
 - Exile's Curse
 - Fearsome Blizzard
 - Rejuvenation
-creature_family: null
 dexterity: '+5'
-element: null
 fly_speed: '30'
 fortitude: '+19'
-hardness: null
 hp: 175 ( negative healing , rejuvenation)
 id: '2376'
 immunity:
@@ -29,7 +24,6 @@ immunity:
 - precision
 - unconscious
 intelligence: '+4'
-land_speed: null
 language:
 - '[[DATABASE/language/Common|Common]]'
 - '[[DATABASE/language/Jotun|Jotun]]'
@@ -45,8 +39,6 @@ resistance:
 - '[[DATABASE/equipment/Ghost Touch|ghost touch]]'
 - '[[DATABASE/trait/Positive|positive]]'
 - or Amiri's Large bastard sword
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -73,7 +65,6 @@ strength: '-5'
 strength_req: '-5'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Cold|Cold]]'
 - '[[DATABASE/trait/Incorporeal|Incorporeal]]'
@@ -83,7 +74,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+24'
 wisdom: '+5'
 

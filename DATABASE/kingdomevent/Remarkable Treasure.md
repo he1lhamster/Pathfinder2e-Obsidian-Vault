@@ -3,7 +3,6 @@ id: '32'
 level: '2'
 name: Remarkable Treasure
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Exploration|Exploration]]'
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'

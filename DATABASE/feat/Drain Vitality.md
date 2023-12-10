@@ -1,25 +1,19 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Drain Vitality
 frequency: once per minute
-heighten_level: null
 id: '3231'
 level: '10'
 name: Drain Vitality
 prerequisite: '[[DATABASE/feat/Beast Gunner Dedication|Beast Gunner Dedication]]'
 rarity: Common
 requirement: You're wielding your bondedbeastgun.
-rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
-trigger: null
 type: Feat
 
 ---

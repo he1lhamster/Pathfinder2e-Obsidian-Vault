@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Advanced Deity's Domain
-frequency: null
-heighten_level: null
 id: '231'
 level: '8'
 name: Advanced Deity's Domain
 prerequisite: '[[DATABASE/feat/Deity''s Domain|Deity''s Domain]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Champion|Champion]]'
-trigger: null
 type: Feat
 
 ---

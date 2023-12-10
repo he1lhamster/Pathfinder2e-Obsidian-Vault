@@ -1,8 +1,6 @@
 ﻿---
 ac: '26'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
 climb_speed: '20'
 constitution: '+4'
@@ -10,15 +8,10 @@ creature_ability:
 - Prickly Defense
 - Rolling Assault
 - Sneak Attack
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+16'
-hardness: null
 hp: '150'
 id: '998'
-immunity: null
 intelligence: '+3'
 land_speed: '20'
 language:
@@ -32,9 +25,6 @@ name: Avarek
 perception: '+16'
 rarity: Uncommon
 reflex: '+19'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small

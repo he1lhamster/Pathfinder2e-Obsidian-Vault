@@ -2,7 +2,6 @@
 id: '489'
 name: Recovery
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 trait:
 - Recovery

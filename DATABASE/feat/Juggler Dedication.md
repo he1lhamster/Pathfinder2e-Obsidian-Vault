@@ -1,26 +1,19 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Juggler Dedication
-frequency: null
-heighten_level: null
 id: '1187'
+leads_to: '[[DATABASE/feat/Focused Juggler|Focused Juggler]] , [[DATABASE/feat/Lobbed
+  Attack|Lobbed Attack]] , [[DATABASE/feat/Opportune Throw|Opportune Throw]] , [[DATABASE/feat/Quick
+  Juggler|Quick Juggler]] , [[DATABASE/feat/Reflexive Catch|Reflexive Catch]]'
 level: '2'
 name: Juggler Dedication
 prerequisite: Dexterity 14
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 151. The Show Must Go On|Pathfinder #151: The
   Show Must Go On]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,21 +1,15 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
-frequency: null
 id: '756'
 name: Arcane Cascade
 rarity: Common
 requirement: You used your most recent action to Cast a Spell or make a [[DATABASE/action/Spellstrike|Spellstrike]]
   .
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Magus|Magus]]'
 - '[[DATABASE/trait/Stance|Stance]]'
-trigger: null
 type: Action
 
 ---

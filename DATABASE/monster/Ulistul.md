@@ -1,10 +1,7 @@
 ﻿---
 ac: '31'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Artificer's Command
@@ -12,12 +9,8 @@ creature_ability:
 - Dismantler
 - Ivory Dictum
 - Statuesense
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+22'
-hardness: null
 hp: '165'
 id: '1745'
 immunity:
@@ -52,8 +45,6 @@ rarity: Unique
 reflex: '+18'
 resistance:
 - physical 10 (except [[DATABASE/equipment/Adamantine Weapon|adamantine]] )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - statuesense (imprecise) 60 feet
@@ -85,7 +76,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Automaton|Automaton]]'
 - '[[DATABASE/trait/Construct|Construct]]'
@@ -94,7 +84,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+24'
 wisdom: '+5'
 

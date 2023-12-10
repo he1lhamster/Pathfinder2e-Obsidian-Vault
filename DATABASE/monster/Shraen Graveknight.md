@@ -1,10 +1,7 @@
 ﻿---
 ac: '37'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Attack of Opportunity
@@ -15,12 +12,8 @@ creature_ability:
 - Draw
 - Ruinous Weapons
 - Weapon Master
-creature_family: null
 dexterity: '+8'
-element: null
-fly_speed: null
 fortitude: '+25'
-hardness: null
 hp: 295 ( negative healing , rejuvenation)
 id: '2132'
 immunity:
@@ -45,8 +38,6 @@ rarity: Common
 reflex: '+27'
 resistance:
 - '[[DATABASE/trait/Positive|positive]] 30'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -67,14 +58,12 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Undead|Undead]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+26'
 wisdom: '+3'
 

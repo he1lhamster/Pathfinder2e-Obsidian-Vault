@@ -1,24 +1,17 @@
 ﻿---
 ac: '37'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Attack of Opportunity
 - Battering Defense
 - Coordinated Assault
 - Shield Block
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+29'
 hp: '345'
 id: '2433'
-immunity: null
 intelligence: '+4'
 land_speed: '20'
 language:
@@ -32,9 +25,6 @@ name: Bellator Mortus Soldier
 perception: '+26'
 rarity: Uncommon
 reflex: '+23'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +25'
@@ -48,21 +38,17 @@ source: '[[DATABASE/source/Pathfinder 186. Ghost King''s Rage|Pathfinder #186: G
   King''s Rage]]'
 speed:
 - 20 feet
-spell: null
 strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+25'
 wisdom: '+6'
 

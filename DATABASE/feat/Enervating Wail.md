@@ -1,27 +1,18 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Enervating Wail
-frequency: null
-heighten_level: null
 id: '3790'
 level: '6'
 name: Enervating Wail
-prerequisite: null
 rarity: Rare
-requirement: null
-rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Gatewalkers Player''s Guide|Gatewalkers Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Auditory|Auditory]]'
 - '[[DATABASE/trait/Deviant|Deviant]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Catfolk Weapon Rake
-frequency: null
-heighten_level: null
 id: '1257'
 level: '5'
 name: Catfolk Weapon Rake
 prerequisite: '[[DATABASE/feat/Catfolk Weapon Familiarity|Catfolk Weapon Familiarity]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Catfolk|Catfolk]]'
-trigger: null
 type: Feat
 
 ---

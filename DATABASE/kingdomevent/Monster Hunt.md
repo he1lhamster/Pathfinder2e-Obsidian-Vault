@@ -3,7 +3,6 @@ id: '41'
 level: '0'
 name: Monster Hunt
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Wilderness|Wilderness]]'
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'

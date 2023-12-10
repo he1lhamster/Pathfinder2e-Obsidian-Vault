@@ -8,9 +8,7 @@ ability_boost:
 feat: '[[DATABASE/feat/Additional Lore|Additional Lore]]'
 id: '395'
 name: Northridge Scholar
-prerequisite: null
 rarity: Rare
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Society|Society]]'
 - Academia [[DATABASE/skill/Lore|Lore]]

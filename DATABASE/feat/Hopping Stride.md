@@ -1,23 +1,14 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Hopping Stride
-frequency: null
-heighten_level: null
 id: '2348'
 level: '5'
 name: Hopping Stride
 prerequisite: '[[DATABASE/feat/Ru-Shi|Ru-Shi]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Dhampir|Dhampir]]'
-trigger: null
 type: Feat
 
 ---

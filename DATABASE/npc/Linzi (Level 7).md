@@ -1,10 +1,7 @@
 ﻿---
 ac: '25'
 alignment: CG
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Ancestry Feats
@@ -14,14 +11,10 @@ creature_ability:
 - Halfling Luck
 - Melodious Spell
 - Skill Feats
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+12'
 hp: '76'
 id: '2396'
-immunity: null
 intelligence: '+2'
 land_speed: '30'
 language:
@@ -37,8 +30,6 @@ name: Linzi (Level 7)
 perception: '+13'
 rarity: Unique
 reflex: '+16'
-resistance: null
-rus_type_level: null
 sense:
 - (expert) keen eyes
 size: Small
@@ -82,16 +73,13 @@ strength: '-1'
 strength_req: '-1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Halfling|Halfling]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+13'
 wisdom: '+1'
 

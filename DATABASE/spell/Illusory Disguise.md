@@ -1,11 +1,9 @@
 ﻿---
 actions: '[two-actions]'
-area: null
 bloodline: '[[DATABASE/sorcererbloodline/Hag|Hag]] , [[DATABASE/sorcererbloodline/Genie|Genie]]'
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Hastur|Hastur]]'
 - '[[DATABASE/deity/Likha|Likha]]'
@@ -16,32 +14,21 @@ deity:
 - '[[DATABASE/deity/Norgorber|Norgorber]]'
 - '[[DATABASE/deity/Sivanah|Sivanah]]'
 - '[[DATABASE/deity/The Lantern King|The Lantern King]]'
-domain: null
 duration: 1 hour
-element: null
 heighten: 2nd, 3rd
 heighten_level: 1, 2, 3
 id: '159'
-lesson: null
 level: '1'
-mystery: null
 name: Illusory Disguise
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Illusion
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Arcane
 - Occult
 trait:
 - '[[DATABASE/trait/Illusion|Illusion]]'
 - '[[DATABASE/trait/Visual|Visual]]'
-trigger: null
 type: Spell
 
 ---

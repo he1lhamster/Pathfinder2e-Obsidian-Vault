@@ -1,28 +1,15 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
 heighten: 6th
 heighten_level: 4, 6
 id: '883'
-lesson: null
 level: '4'
-mystery: null
 name: Chromatic Ray
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 target: 1 creature
@@ -33,7 +20,6 @@ trait:
 - '[[DATABASE/trait/Attack|Attack]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Light|Light]]'
-trigger: null
 type: Spell
 
 ---

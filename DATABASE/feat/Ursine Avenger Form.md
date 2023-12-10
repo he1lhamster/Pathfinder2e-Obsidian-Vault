@@ -1,27 +1,21 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Ursine Avenger Form
-frequency: null
-heighten_level: null
 id: '4086'
+leads_to: '[[DATABASE/feat/Fearsome Fangs|Fearsome Fangs]] , [[DATABASE/feat/Great
+  Bear|Great Bear]] , [[DATABASE/feat/Immortal Bear|Immortal Bear]] , [[DATABASE/feat/Terrible
+  Transformation|Terrible Transformation]]'
 level: '2'
 name: Ursine Avenger Form
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Artifact|Artifact]]'
 - '[[DATABASE/trait/Morph|Morph]]'
 - '[[DATABASE/trait/Primal|Primal]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Feat
 
 ---

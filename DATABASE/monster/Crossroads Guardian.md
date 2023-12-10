@@ -1,24 +1,16 @@
 ﻿---
 ac: '25'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+7'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Bound
 - Primal Purpose
 - Recognize Hero
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+14'
-hardness: null
 hp: 115 (primal purpose)
 id: '1108'
-immunity: null
 intelligence: '+5'
 land_speed: '25'
 language:
@@ -29,9 +21,6 @@ name: Crossroads Guardian
 perception: '+19'
 rarity: Rare
 reflex: '+13'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - recognize hero
 size: Medium
@@ -64,10 +53,8 @@ trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+19'
 wisdom: '+6'
 

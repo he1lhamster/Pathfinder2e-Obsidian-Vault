@@ -1,10 +1,7 @@
 ﻿---
 ac: '28'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Capsize
@@ -13,25 +10,17 @@ creature_ability:
 - Swallow Whole
 creature_family: '[[DATABASE/monsterfamily/Turtle|Turtle]]'
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+19'
-hardness: null
 hp: '170'
 id: '837'
-immunity: null
 intelligence: '-4'
 land_speed: '20'
-language: null
 level: '9'
 max_speed: '40'
 name: Giant Snapping Turtle
 perception: '+17'
 rarity: Common
 reflex: '+15'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Scent|scent (imprecise) 30 feet]]'
@@ -42,7 +31,6 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 20 feet
 - swim 40 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
@@ -55,7 +43,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Reflex
-weakness: null
 will: '+19'
 wisdom: '+4'
 

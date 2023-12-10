@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Riftmarked
-frequency: null
-heighten_level: null
 id: '2450'
+leads_to: '[[DATABASE/feat/Qlippoth Magic|Qlippoth Magic]]'
 level: '1'
 name: Riftmarked
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Lineage|Lineage]]'
 - '[[DATABASE/trait/Tiefling|Tiefling]]'
-trigger: null
 type: Feat
 
 ---

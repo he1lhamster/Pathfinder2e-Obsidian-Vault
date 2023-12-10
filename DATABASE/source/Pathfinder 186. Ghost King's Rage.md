@@ -2,9 +2,6 @@
 id: '189'
 name: Pathfinder 186. Ghost King's Rage
 rarity: Common
-rus_type_level: null
-source: null
-trait: null
 type: Source
 
 ---

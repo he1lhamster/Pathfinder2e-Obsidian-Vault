@@ -1,14 +1,9 @@
 ﻿---
 ability_type: Familiar
-actions: null
-frequency: null
 id: '67'
 name: Threat Display
 rarity: Common
-requirement: null
-rus_type_level: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
-trait: null
 type: Familiar Ability
 
 ---

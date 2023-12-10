@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Ongoing Strategy
-frequency: null
-heighten_level: null
 id: '1469'
 level: '10'
 name: Ongoing Strategy
 prerequisite: '[[DATABASE/class_/Investigator|strategic strike]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Investigator|Investigator]]'
-trigger: null
 type: Feat
 
 ---

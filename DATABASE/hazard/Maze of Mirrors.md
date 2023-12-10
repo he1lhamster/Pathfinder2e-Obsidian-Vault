@@ -1,8 +1,6 @@
 ﻿---
 ac: '28'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+29'
 hardness: '18'
 hazard_type: Trap
@@ -16,9 +14,6 @@ level: '9'
 name: Maze of Mirrors
 rarity: Rare
 reflex: '+14'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 152. Legacy of the Lost God|Pathfinder #152:
   Legacy of the Lost God]]'
 trait:
@@ -28,8 +23,6 @@ trait:
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Maze of Mirrors<span class="item-type">Hazard 9</span>

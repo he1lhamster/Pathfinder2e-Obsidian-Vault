@@ -1,23 +1,15 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Phalanx Breaker
-frequency: null
-heighten_level: null
 id: '3173'
 level: '6'
 name: Phalanx Breaker
 prerequisite: '[[DATABASE/gunslingerway/Way of the Vanguard|way of the vanguard]]'
 rarity: Common
 requirement: You're wielding a two-handed firearm or a two-handed crossbow.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Gunslinger|Gunslinger]]'
-trigger: null
 type: Feat
 
 ---

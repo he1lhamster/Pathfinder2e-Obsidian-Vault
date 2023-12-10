@@ -1,20 +1,13 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Incredible Improvisation
 frequency: once per day
-heighten_level: null
 id: '76'
 level: '9'
 name: Incredible Improvisation
 prerequisite: '[[DATABASE/feat/Clever Improviser|Clever Improviser]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 trigger: "You attempt a check using a skill you\u2019re untrained in."

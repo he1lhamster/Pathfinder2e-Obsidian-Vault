@@ -5,13 +5,9 @@ ability:
 ability_boost:
 - Dexterity
 - Intelligence
-feat: null
 id: '245'
 name: Time Traveler
-prerequisite: null
 rarity: Rare
-rus_type_level: null
-skill: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 subcategory: general
 trait:

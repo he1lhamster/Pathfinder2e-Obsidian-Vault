@@ -1,24 +1,17 @@
 ﻿---
-area: null
 cost: rare perfume worth 250 gp
 duration: up to 10 minutes
-element: null
-heighten: null
 heighten_level: '7'
 id: '89'
 level: '7'
 name: Supreme Connection
 primary_check: '[[DATABASE/skill/Occultism|Occultism]] (master) or [[DATABASE/skill/Religion|Religion]]
   (master)'
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Divination
 secondary_casters: '2'
 secondary_check: '[[DATABASE/skill/Performance|Performance]]'
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-target: null
 trait:
 - '[[DATABASE/trait/Divination|Divination]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

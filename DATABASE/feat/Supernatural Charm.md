@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Supernatural Charm
-frequency: null
-heighten_level: null
 id: '81'
 level: '5'
 name: Supernatural Charm
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Half-Elf|Half-Elf]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,8 +1,6 @@
 ﻿---
 ac: '18'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+5'
 hardness: '8'
 hazard_type: Trap
@@ -16,9 +14,6 @@ level: '2'
 name: Ancient Apparatus
 rarity: Unique
 reflex: '+11'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rusthenge|Rusthenge]]'
 trait:
 - '[[DATABASE/trait/Complex|Complex]]'
@@ -26,8 +21,6 @@ trait:
 - '[[DATABASE/trait/Trap|Trap]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Ancient Apparatus<span class="item-type">Hazard 2</span>

@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Stronger Debilitating Venom
-frequency: null
-heighten_level: null
 id: '4033'
 level: '13'
 name: Stronger Debilitating Venom
 prerequisite: '[[DATABASE/feat/Debilitating Venom|Debilitating Venom]] ; [[DATABASE/feat/Moderate
   Enhance Venom|Moderate Enhance Venom]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Vishkanya|Vishkanya]]'
-trigger: null
 type: Feat
 
 ---

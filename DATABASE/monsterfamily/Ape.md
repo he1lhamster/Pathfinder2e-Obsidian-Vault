@@ -3,9 +3,7 @@ creature_family: Ape
 id: '6'
 name: Ape
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
-trait: null
 type: Creature Family
 
 ---

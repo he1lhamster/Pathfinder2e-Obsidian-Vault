@@ -1,7 +1,5 @@
 ﻿---
-advanced_apocryphal_spell: null
 advanced_domain_spell: '[[DATABASE/spell/Precious Metals|Precious Metals]]'
-apocryphal_spell: null
 deity:
 - '[[DATABASE/deity/Abadar|Abadar]]'
 - '[[DATABASE/deity/Besmara|Besmara]]'
@@ -31,9 +29,7 @@ domain_spell: '[[DATABASE/spell/Appearance of Wealth|Appearance of Wealth]]'
 id: '36'
 name: Wealth Domain
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Domain
 
 ---

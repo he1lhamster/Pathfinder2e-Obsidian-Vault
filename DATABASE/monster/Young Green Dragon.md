@@ -1,10 +1,7 @@
 ﻿---
 ac: '28'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Breath Weapon
@@ -16,10 +13,8 @@ creature_ability:
 - Stride
 creature_family: '[[DATABASE/monsterfamily/Dragon, Green|Dragon, Green]]'
 dexterity: '+1'
-element: null
 fly_speed: '120'
 fortitude: '+16'
-hardness: null
 hp: '135'
 id: '133'
 immunity:
@@ -37,9 +32,6 @@ name: Young Green Dragon
 perception: '+16'
 rarity: Common
 reflex: '+16'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - scent (imprecise) 60 feet
@@ -76,7 +68,6 @@ vision: Darkvision
 weakest_save:
 - Fortitude
 - Reflex
-weakness: null
 will: '+17'
 wisdom: '+2'
 

@@ -3,10 +3,8 @@ creature_family: Blightburn Genies
 id: '180'
 name: Blightburn Genies
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 155. Lord of the Black Sands|Pathfinder #155:
   Lord of the Black Sands]]'
-trait: null
 type: Creature Family
 
 ---

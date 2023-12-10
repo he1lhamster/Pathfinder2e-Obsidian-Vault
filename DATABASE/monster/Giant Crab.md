@@ -1,10 +1,7 @@
 ﻿---
 ac: '19'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-3'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Constrict
@@ -12,16 +9,11 @@ creature_ability:
 - Vulnerable to Prone
 creature_family: '[[DATABASE/monsterfamily/Crab|Crab]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+7'
-hardness: null
 hp: '24'
 id: '588'
-immunity: null
 intelligence: '-4'
 land_speed: '25'
-language: null
 level: '2'
 max_speed: '25'
 name: Giant Crab
@@ -30,8 +22,6 @@ rarity: Common
 reflex: '+9'
 resistance:
 - physical 3 (except bludgeoning)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -43,7 +33,6 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 25 feet
 - swim 15 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
@@ -56,7 +45,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+8'
 wisdom: '+2'
 

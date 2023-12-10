@@ -17,7 +17,6 @@ language:
 max_speed: '25'
 name: Poppet
 rarity: Rare
-rus_type_level: null
 size: Small
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
 speed:

@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Concealing Legerdemain|Concealing Legerdemain]]'
 id: '260'
 name: Saboteur
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Thievery|Thievery]]'
 - Engineering [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

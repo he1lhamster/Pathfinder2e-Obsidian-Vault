@@ -5,7 +5,6 @@ name: Hellknight
 prerequisite: '[[DATABASE/feat/Hellknight Armiger Dedication|Hellknight Armiger Dedication]]
   ; lawful alignment; member ofa Hellknight Order; passed the Hellknight Test'
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

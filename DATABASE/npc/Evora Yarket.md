@@ -1,10 +1,7 @@
 ﻿---
 ac: '22'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Flurry of Blows
@@ -12,14 +9,10 @@ creature_ability:
 - Mountain Stronghold
 - Orc Ferocity
 - Stand Still
-creature_family: null
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+16'
 hp: '115'
 id: '2022'
-immunity: null
 intelligence: '+1'
 land_speed: '35'
 language:
@@ -31,8 +24,6 @@ name: Evora Yarket
 perception: '+14'
 rarity: Unique
 reflex: '+11'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
@@ -47,12 +38,10 @@ source: '[[DATABASE/source/Pathfinder 152. Legacy of the Lost God|Pathfinder #15
   Legacy of the Lost God]]'
 speed:
 - 35 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -62,7 +51,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Reflex
-weakness: null
 will: '+13'
 wisdom: '+2'
 

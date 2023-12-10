@@ -1,40 +1,27 @@
 ﻿---
 actions: '[three-actions]'
 area: 20-foot radius, 40-foot-tall cylinder
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Otolmens|Otolmens]]'
-domain: null
 duration: 1 minute
-element: null
-heighten: null
 heighten_level: '7'
 id: '261'
-lesson: null
 level: '7'
-mystery: null
 name: Reverse Gravity
-patron_theme: null
 range: 120 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Arcane
 - Occult
 trait:
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Spell
 
 ---

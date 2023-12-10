@@ -30,11 +30,9 @@ follower_alignment:
 id: '230'
 name: Demon Bringers
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Survival|Survival]]'
 source: '[[DATABASE/source/Gods of the Expanse|Gods of the Expanse]]'
-trait: null
 type: Deity
 
 ---

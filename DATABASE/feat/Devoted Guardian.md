@@ -1,26 +1,17 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Devoted Guardian
-frequency: null
-heighten_level: null
 id: '3623'
 level: '2'
 name: Devoted Guardian
-prerequisite: null
 rarity: Uncommon
 requirement: Your last action was to [[DATABASE/action/Raise a Shield|Raise a Shield]]
   .
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Champion|Champion]]'
 - '[[DATABASE/trait/Fighter|Fighter]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Litany of Self-Interest
-frequency: null
-heighten_level: null
 id: '1681'
 level: '10'
 name: Litany of Self-Interest
 prerequisite: devotion spells; [[DATABASE/championtenet/Evil|tenets of evil]]
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Champion|Champion]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

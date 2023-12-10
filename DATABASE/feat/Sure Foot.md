@@ -1,25 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Sure Foot
-frequency: null
-heighten_level: null
 id: '1989'
 level: '4'
 name: Sure Foot
 prerequisite: '[[DATABASE/feat/Horizon Walker Dedication|Horizon Walker Dedication]]
   ; Expert in [[DATABASE/skill/Acrobatics|Acrobatics]] ; Expert in [[DATABASE/skill/Athletics|Athletics]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

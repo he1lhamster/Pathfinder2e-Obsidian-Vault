@@ -1,10 +1,7 @@
 ﻿---
 actions: '[one-action]'
-cost: null
 element: Fire
 feat: Explosive Death Drop
-frequency: null
-heighten_level: null
 id: '2271'
 level: '14'
 name: Explosive Death Drop
@@ -13,14 +10,10 @@ rarity: Common
 requirement: You are in [[DATABASE/feat/Rain of Embers Stance|Rain of Embers Stance]]
   and have a target [[DATABASE/condition/Grabbed|grabbed]] or [[DATABASE/condition/Restrained|restrained]]
   .
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fire|Fire]]'
 - '[[DATABASE/trait/Monk|Monk]]'
-trigger: null
 type: Feat
 
 ---

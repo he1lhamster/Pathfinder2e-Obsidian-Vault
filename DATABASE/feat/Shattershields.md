@@ -1,27 +1,19 @@
 ﻿---
 actions: '[one-action]'
-cost: null
 element: Metal
 feat: Shattershields
-frequency: null
 heighten_level: 12, 14, 16, 18, 20
 id: '4262'
 level: '12'
 name: Shattershields
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Impulse|Impulse]]'
 - '[[DATABASE/trait/Kineticist|Kineticist]]'
 - '[[DATABASE/trait/Metal|Metal]]'
 - '[[DATABASE/trait/Primal|Primal]]'
 - '[[DATABASE/trait/Stance|Stance]]'
-trigger: null
 type: Feat
 
 ---

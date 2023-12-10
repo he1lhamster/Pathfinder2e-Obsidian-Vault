@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Kitsune Spell Expertise
-frequency: null
-heighten_level: null
 id: '2629'
 level: '13'
 name: Kitsune Spell Expertise
 prerequisite: '[[DATABASE/feat/Kitsune Spell Mysteries|Kitsune Spell Mysteries]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Kitsune|Kitsune]]'
-trigger: null
 type: Feat
 
 ---

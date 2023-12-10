@@ -1,10 +1,8 @@
 ﻿---
 ac: '34'
 alignment: LE
-all_resistance: null
 burrow_speed: '20'
 charisma: '+5'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Breath Weapon
@@ -17,10 +15,8 @@ creature_ability:
 - Wing Deflection
 creature_family: '[[DATABASE/monsterfamily/Dragon, Blue|Dragon, Blue]]'
 dexterity: '+3'
-element: null
 fly_speed: '150'
 fortitude: '+24'
-hardness: null
 hp: '260'
 id: '131'
 immunity:
@@ -40,9 +36,6 @@ name: Adult Blue Dragon
 perception: '+24'
 rarity: Common
 reflex: '+23'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - scent (imprecise) 60 feet
@@ -71,7 +64,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dragon|Dragon]]'
 - '[[DATABASE/trait/Electricity|Electricity]]'
@@ -80,7 +72,6 @@ vision: Darkvision
 weakest_save:
 - Reflex
 - Will
-weakness: null
 will: '+23'
 wisdom: '+3'
 

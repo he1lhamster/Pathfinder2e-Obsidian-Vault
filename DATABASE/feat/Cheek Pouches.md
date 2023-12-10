@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Cheek Pouches
-frequency: null
-heighten_level: null
 id: '1295'
+leads_to: '[[DATABASE/feat/Big Mouth|Big Mouth]] , [[DATABASE/feat/Quick Stow (Ratfolk)|Quick
+  Stow (Ratfolk)]]'
 level: '1'
 name: Cheek Pouches
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Ratfolk|Ratfolk]]'
-trigger: null
 type: Feat
 
 ---

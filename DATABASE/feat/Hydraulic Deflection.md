@@ -1,27 +1,19 @@
 ﻿---
 actions: '[one-action]'
-cost: null
 element: Water
 feat: Hydraulic Deflection
-frequency: null
-heighten_level: null
 id: '2299'
 level: '1'
 name: Hydraulic Deflection
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Abjuration
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Azarketi|Azarketi]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Primal|Primal]]'
 - '[[DATABASE/trait/Water|Water]]'
-trigger: null
 type: Feat
 
 ---

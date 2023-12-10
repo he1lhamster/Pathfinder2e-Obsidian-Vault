@@ -5,12 +5,9 @@ ability:
 ability_boost:
 - Dexterity
 - Wisdom
-feat: null
 id: '317'
 name: Tyrant Witness
-prerequisite: null
 rarity: Rare
-rus_type_level: null
 skill:
 - Undead [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'

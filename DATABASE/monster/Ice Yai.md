@@ -1,10 +1,7 @@
 ﻿---
 ac: '34'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+8'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Attack of Opportunity
@@ -14,10 +11,8 @@ creature_ability:
 - Icy Deflection
 creature_family: '[[DATABASE/monsterfamily/Oni|Oni]]'
 dexterity: '+5'
-element: null
 fly_speed: '40'
 fortitude: '+21'
-hardness: null
 hp: '230'
 id: '747'
 immunity:
@@ -33,9 +28,6 @@ name: Ice Yai
 perception: '+26'
 rarity: Common
 reflex: '+25'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 size: Large
@@ -63,7 +55,6 @@ strength: '+8'
 strength_req: '8'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Cold|Cold]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

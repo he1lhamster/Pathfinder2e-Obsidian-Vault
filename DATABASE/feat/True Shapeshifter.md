@@ -1,25 +1,16 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: True Shapeshifter
-frequency: null
-heighten_level: null
 id: '355'
 level: '20'
 name: True Shapeshifter
 prerequisite: '[[DATABASE/feat/Dragon Shape|Dragon Shape]] ; [[DATABASE/feat/Wild
   Shape|WildShape]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Druid|Druid]]'
-trigger: null
 type: Feat
 
 ---

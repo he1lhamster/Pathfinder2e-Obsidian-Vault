@@ -2,9 +2,7 @@
 id: '84'
 level: '2'
 name: Oozemorph
-prerequisite: null
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/The Slithering|The Slithering]]'
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

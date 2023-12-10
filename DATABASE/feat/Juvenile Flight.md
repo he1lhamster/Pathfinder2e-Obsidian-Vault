@@ -1,23 +1,15 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Juvenile Flight
 frequency: once per day
-heighten_level: null
 id: '2653'
+leads_to: '[[DATABASE/feat/Fully Flighted|Fully Flighted]]'
 level: '9'
 name: Juvenile Flight
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Strix|Strix]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,10 +1,7 @@
 ﻿---
 ac: '21'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Ghost Hunter
@@ -12,10 +9,7 @@ creature_ability:
 - Hunted Shot
 creature_family: '[[DATABASE/monsterfamily/Planar Scion|Planar Scion]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+9'
-hardness: null
 hp: '56'
 id: '332'
 immunity:
@@ -33,8 +27,6 @@ rarity: Common
 reflex: '+12'
 resistance:
 - negative energy 2
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -49,12 +41,10 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 25 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Duskwalker|Duskwalker]]'
 - '[[DATABASE/trait/Human|Human]]'
@@ -63,7 +53,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+10'
 wisdom: '+2'
 

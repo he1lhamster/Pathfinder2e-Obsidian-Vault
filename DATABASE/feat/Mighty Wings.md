@@ -1,26 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Mighty Wings
-frequency: null
-heighten_level: null
 id: '3409'
 level: '18'
 name: Mighty Wings
 prerequisite: '[[DATABASE/feat/Dragon Disciple Dedication|Dragon Disciple Dedication]]
   ; [[DATABASE/spell/Dragon Wings|dragon wings]] sorcerer bloodline spell'
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 171. Hurricane''s Howl|Pathfinder #171: Hurricane''s
   Howl]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,6 +1,4 @@
 ﻿---
-ability: null
-ability_boost: null
 alignment: LN
 deity:
 - '[[DATABASE/deity/Followers of Fate|Followers of Fate]]'
@@ -19,11 +17,9 @@ follower_alignment:
 id: '210'
 name: Followers of Fate
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Occultism|Occultism]]'
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
-trait: null
 type: Deity
 
 ---

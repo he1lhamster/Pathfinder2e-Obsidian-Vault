@@ -5,7 +5,6 @@ name: Student of Perfection
 prerequisite: '[[DATABASE/class_/Monk|powerful fist]] or expert in unarmed attacks;
   member of aHouse of Perfection'
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/World Guide|World Guide]]'
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

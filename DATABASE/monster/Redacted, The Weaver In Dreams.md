@@ -1,10 +1,7 @@
 ﻿---
 ac: '39'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+8'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Dreams Unraveling
@@ -15,12 +12,9 @@ creature_ability:
 - Dreams
 - Stitch into the Web
 - String Astral Body
-creature_family: null
 dexterity: '+7'
-element: null
 fly_speed: '25'
 fortitude: '+28'
-hardness: null
 hp: '310'
 id: '2071'
 immunity:
@@ -36,10 +30,6 @@ name: Redacted, The Weaver In Dreams
 perception: '+33'
 rarity: Unique
 reflex: '+29'
-resistance: null
-rus_type_level: null
-school: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +30'
@@ -51,22 +41,18 @@ source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 speed:
 - 25 feet
 - fly 25 feet; Stalker in Dreams
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+32'
 wisdom: '+5'
 

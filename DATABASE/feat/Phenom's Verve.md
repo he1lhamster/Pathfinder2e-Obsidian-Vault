@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Phenom's Verve
-frequency: null
-heighten_level: null
 id: '3255'
 level: '10'
 name: Phenom's Verve
 prerequisite: '[[DATABASE/feat/Pistol Phenom Dedication|Pistol Phenom Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

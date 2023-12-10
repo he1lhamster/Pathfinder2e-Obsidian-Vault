@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Energy Blessed
-frequency: null
-heighten_level: null
 id: '972'
 level: '9'
 name: Energy Blessed
 prerequisite: '[[DATABASE/heritage/Elemental Heart Dwarf|Elemental Heart Dwarf]] heritage'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Dwarf|Dwarf]]'
-trigger: null
 type: Feat
 
 ---

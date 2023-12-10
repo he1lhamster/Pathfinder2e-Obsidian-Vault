@@ -1,48 +1,22 @@
 ﻿---
-ac: null
 actions: '[one-action]'
-alignment: null
-base_item: null
 bulk: L
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
 duration: 8 hours
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '1496'
 item_category: Alchemical Items
 item_subcategory: Drugs
-land_speed: null
 level: '7'
-max_speed: null
 name: Succubus Kiss
 onset: 1 minute
 price: 70 gp
-range: null
 rarity: Rare
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
 saving_throw: DC 24 Fortitude
-school: null
-size: null
 source: '[[DATABASE/source/Absalom, City of Lost Omens|Absalom, City of Lost Omens]]'
-spell: null
 stage: 'Stage 1: +2 item bonus to initiative checks (10 minutes) and to all saving
   throws against emotion and mental effectsStage 2: as stage 1 plus drained 1 (1 hour)Stage
   3: as stage 2 plus blinded or deafness (1 hour)Stage 4: blindness and deafness (1
   hour)Stage 5: unconscious'
 subcategory: alchemical/drug
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Alchemical|Alchemical]]'
 - '[[DATABASE/trait/Consumable|Consumable]]'
@@ -50,12 +24,8 @@ trait:
 - '[[DATABASE/trait/Ingested|Ingested]]'
 - '[[DATABASE/trait/Poison|Poison]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Item
 usage: held in 1 hand
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Succubus Kiss<span class="item-type">Item 7</span>

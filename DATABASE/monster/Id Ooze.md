@@ -1,8 +1,6 @@
 ﻿---
 ac: '21'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
 climb_speed: '10'
 constitution: '+4'
@@ -14,10 +12,7 @@ creature_ability:
 - Puddled Ambush
 creature_family: '[[DATABASE/monsterfamily/Ooze|Ooze]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+15'
-hardness: null
 hp: '105'
 id: '2183'
 immunity:
@@ -41,8 +36,6 @@ reflex: '+13'
 resistance:
 - slashing 5
 - piercing 5
-rus_type_level: null
-school: null
 sense:
 - motion sense 60 feet
 - no vision
@@ -73,10 +66,8 @@ trait:
 - '[[DATABASE/trait/Ooze|Ooze]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+17'
 wisdom: '+4'
 

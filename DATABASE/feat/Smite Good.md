@@ -1,25 +1,16 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Smite Good
-frequency: null
-heighten_level: null
 id: '1676'
 level: '6'
 name: Smite Good
 prerequisite: '[[DATABASE/class_/Champion|divine ally (blade)]] ; [[DATABASE/championtenet/Evil|tenets
   of evil]]'
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Champion|Champion]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

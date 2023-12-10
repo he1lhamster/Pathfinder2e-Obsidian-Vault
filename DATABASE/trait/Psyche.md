@@ -2,7 +2,6 @@
 id: '429'
 name: Psyche
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 trait:
 - Psyche

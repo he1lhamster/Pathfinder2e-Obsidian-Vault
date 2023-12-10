@@ -1,57 +1,21 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '2564'
 item_category: Tattoos
-item_subcategory: null
-land_speed: null
-level: '18'
-max_speed: null
+level: '11'
 name: Words of Wisdom
-onset: null
-price: 22,000 gp
-range: null
+price: 1,400 gp
 rarity: Uncommon
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Enchantment
-size: null
 source: '[[DATABASE/source/Highhelm|Highhelm]]'
-spell: null
-stage: null
 subcategory: tattoo
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Enchantment|Enchantment]]'
 - '[[DATABASE/trait/Invested|Invested]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Tattoo|Tattoo]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Item
 usage: tattoo
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Words of Wisdom<span class="item-type">Item 4+</span>

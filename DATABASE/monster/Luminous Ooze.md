@@ -1,8 +1,6 @@
 ﻿---
 ac: '11'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
 climb_speed: '15'
 constitution: '+3'
@@ -11,12 +9,8 @@ creature_ability:
 - Light Up
 - Lightning Catcher
 - Motion Sense
-creature_family: null
 dexterity: '-5'
-element: null
-fly_speed: null
 fortitude: '+11'
-hardness: null
 hp: '80'
 id: '504'
 immunity:
@@ -28,16 +22,12 @@ immunity:
 - visual
 intelligence: '-5'
 land_speed: '25'
-language: null
 level: '4'
 max_speed: '25'
 name: Luminous Ooze
 perception: '+6'
 rarity: Common
 reflex: '+3'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - motion sense 60 feet
 - no vision
@@ -49,20 +39,16 @@ source: '[[DATABASE/source/Pathfinder 151. The Show Must Go On|Pathfinder #151: 
 speed:
 - 25 feet
 - climb 15 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Mindless|Mindless]]'
 - '[[DATABASE/trait/Ooze|Ooze]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+6'
 wisdom: '+0'
 

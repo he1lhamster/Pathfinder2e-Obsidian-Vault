@@ -1,21 +1,14 @@
 ﻿---
 ac: '24'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Master Smith
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+19'
 hp: '135'
 id: '1575'
-immunity: null
 intelligence: '+5'
 land_speed: '20'
 language:
@@ -28,8 +21,6 @@ name: Kelda Halrig
 perception: '+22'
 rarity: Unique
 reflex: '+13'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -43,12 +34,10 @@ source: '[[DATABASE/source/Pathfinder 148. Fires of the Haunted City|Pathfinder 
   Fires of the Haunted City]]'
 speed:
 - 20 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dwarf|Dwarf]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -57,7 +46,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+16'
 wisdom: '+4'
 

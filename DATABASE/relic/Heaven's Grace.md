@@ -1,11 +1,9 @@
 ﻿---
-element: null
 id: '14'
 item_category: Relics
 name: Heaven's Grace
 prerequisite: The relic is a worn item.
 rarity: Common
-rus_type_level: null
 school: Abjuration
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:

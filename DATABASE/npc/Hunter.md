@@ -1,10 +1,7 @@
 ﻿---
 ac: '25'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Forager
@@ -12,12 +9,9 @@ creature_ability:
 - Hunt Prey
 creature_family: '[[DATABASE/monsterfamily/Foresters|Foresters]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+15'
 hp: '115'
 id: '907'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -28,9 +22,6 @@ name: Hunter
 perception: '+17'
 rarity: Common
 reflex: '+17'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Lore|Forest Lore]] +13'
@@ -41,21 +32,17 @@ skill:
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 speed:
 - 25 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
 - Will
-weakness: null
 will: '+15'
 wisdom: '+4'
 

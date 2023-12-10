@@ -1,37 +1,25 @@
 ﻿---
 ac: '28'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Aquatic Ambush
 - Attack of Opportunity
 - Face Eater
 - Luminous Lure
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+19'
-hardness: null
 hp: '155'
 id: '1439'
-immunity: null
 intelligence: '-3'
 land_speed: '10'
-language: null
 level: '9'
 max_speed: '40'
 name: Mamlambo
 perception: '+19'
 rarity: Uncommon
 reflex: '+20'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Huge
@@ -43,7 +31,6 @@ source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
 speed:
 - 10 feet
 - swim 40 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
@@ -57,7 +44,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+15'
 wisdom: '+4'
 

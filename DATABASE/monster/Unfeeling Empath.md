@@ -1,10 +1,7 @@
 ﻿---
 ac: '18'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Cathartic Howl
@@ -12,12 +9,8 @@ creature_ability:
 - Emotional Extremes
 - Empathic Sense
 - Goad
-creature_family: null
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+8'
-hardness: null
 hp: 36 (negative healing)
 id: '2605'
 immunity:
@@ -40,8 +33,6 @@ rarity: Uncommon
 reflex: '+5'
 resistance:
 - negative 5
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - empathic sense (precise) 60 feet
@@ -55,12 +46,10 @@ source: '[[DATABASE/source/Pathfinder 193. Mantle of Gold|Pathfinder #193: Mantl
   of Gold]]'
 speed:
 - 20 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 - '[[DATABASE/trait/Undead|Undead]]'

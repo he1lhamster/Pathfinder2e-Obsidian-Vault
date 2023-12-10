@@ -1,10 +1,7 @@
 ﻿---
 ac: '47'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Breath Weapon
@@ -12,12 +9,9 @@ creature_ability:
 - Efiect
 - Frightful Presence
 - Tail Lash
-creature_family: null
 dexterity: '+6'
-element: null
 fly_speed: '180'
 fortitude: '+38'
-hardness: null
 hp: '450'
 id: '2357'
 immunity:
@@ -40,9 +34,6 @@ name: Ilthuliak
 perception: '+37'
 rarity: Unique
 reflex: '+35'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 60 feet'
@@ -110,7 +101,6 @@ vision: Darkvision
 weakest_save:
 - Reflex
 - Will
-weakness: null
 will: '+35'
 wisdom: '+6'
 

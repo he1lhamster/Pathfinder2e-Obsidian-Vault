@@ -1,20 +1,11 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Disrupt Prey
-frequency: null
-heighten_level: null
 id: '501'
 level: '4'
 name: Disrupt Prey
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Ranger|Ranger]]'
 trigger: "Your hunted prey is within your reach, and it uses a manipulate action,\

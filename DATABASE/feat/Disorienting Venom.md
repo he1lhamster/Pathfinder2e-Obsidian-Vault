@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Disorienting Venom
-frequency: null
-heighten_level: null
 id: '2771'
 level: '9'
 name: Disorienting Venom
 prerequisite: '[[DATABASE/heritage/Venomous Anadi|Venomous Anadi]] heritage'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Anadi|Anadi]]'
-trigger: null
 type: Feat
 
 ---

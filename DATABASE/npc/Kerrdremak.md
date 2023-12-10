@@ -1,21 +1,14 @@
 ﻿---
 ac: '15'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Whispering Retreat
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+6'
 hp: '20'
 id: '2166'
-immunity: null
 intelligence: '+4'
 land_speed: '25'
 language:
@@ -27,8 +20,6 @@ name: Kerrdremak
 perception: '+5'
 rarity: Unique
 reflex: '+7'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -55,7 +46,6 @@ strength: '-1'
 strength_req: '-1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Kobold|Kobold]]'
@@ -64,7 +54,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+5'
 wisdom: '+0'
 

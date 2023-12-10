@@ -4,7 +4,6 @@ level: '2'
 name: Alkenstar Agent
 prerequisite: Trained in [[DATABASE/skill/Deception|Deception]]
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 178. Punks in a Powderkeg|Pathfinder #178: Punks
   in a Powderkeg]]'
 trait:

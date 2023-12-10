@@ -1,29 +1,15 @@
 ﻿---
 actions: '[reaction]'
 area: 20-foot emanation
-bloodline: null
-component: null
-cost: null
-deity: null
-domain: null
-duration: null
 element: Air
 heighten: '+2'
 heighten_level: 3, 5, 7, 9
 id: '1312'
-lesson: null
 level: '3'
-mystery: null
 name: Blastback
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: basicReflex
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-target: null
 tradition:
 - Arcane
 - Primal

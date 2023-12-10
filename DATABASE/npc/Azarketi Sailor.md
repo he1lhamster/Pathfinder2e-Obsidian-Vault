@@ -1,10 +1,7 @@
 ﻿---
 ac: '18'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Hydration
@@ -13,12 +10,9 @@ creature_ability:
 - Swinging Strike
 creature_family: '[[DATABASE/monsterfamily/Azarketi|Azarketi]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+8'
 hp: '30'
 id: '1748'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -29,9 +23,6 @@ name: Azarketi Sailor
 perception: '+8'
 rarity: Common
 reflex: '+11'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +8'
@@ -42,7 +33,6 @@ skill:
 source: '[[DATABASE/source/Absalom, City of Lost Omens|Absalom, City of Lost Omens]]'
 speed:
 - 25 feet; swim 25 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
@@ -53,10 +43,8 @@ trait:
 - '[[DATABASE/trait/Azarketi|Azarketi]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+5'
 wisdom: '+1'
 

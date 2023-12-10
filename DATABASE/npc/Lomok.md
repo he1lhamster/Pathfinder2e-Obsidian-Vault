@@ -1,10 +1,7 @@
 ﻿---
 ac: '30'
 alignment: LG
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Aura of Courage
@@ -13,14 +10,10 @@ creature_ability:
 - Retributive Strike
 - Shield Block
 - Spurred by Death
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+20'
 hp: '210'
 id: '1830'
-immunity: null
 intelligence: '+0'
 land_speed: '20'
 language:
@@ -31,8 +24,6 @@ name: Lomok
 perception: '+21'
 rarity: Unique
 reflex: '+18'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
@@ -54,7 +45,6 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aasimar|Aasimar]]'
 - '[[DATABASE/trait/Human|Human]]'
@@ -64,7 +54,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Reflex
-weakness: null
 will: '+23'
 wisdom: '+4'
 

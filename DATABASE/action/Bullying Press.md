@@ -1,15 +1,10 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
-frequency: null
 id: '471'
 name: Bullying Press
 rarity: Common
 requirement: "You\u2019re in a duel, you\u2019re trained in Intimidation, and you\
   \ rolled an Intimidation check for initiativethis round."
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
 - '[[DATABASE/trait/Flourish|Flourish]]'

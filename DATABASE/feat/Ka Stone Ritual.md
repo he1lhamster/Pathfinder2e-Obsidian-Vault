@@ -1,26 +1,20 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Ka Stone Ritual
-frequency: null
-heighten_level: null
 id: '889'
+leads_to: '[[DATABASE/feat/Attunement to Stone|Attunement to Stone]] , [[DATABASE/feat/Fortified
+  Flesh|Fortified Flesh]] , [[DATABASE/feat/Judgment of the Monolith|Judgment of the
+  Monolith]] , [[DATABASE/feat/Stone Blood|Stone Blood]] , [[DATABASE/feat/Stone Communion|Stone
+  Communion]]'
 level: '4'
 name: Ka Stone Ritual
 prerequisite: '[[DATABASE/feat/Living Monolith Dedication|Living Monolith Dedication]]
   ; a [[DATABASE/monsterfamily/Sphinx|sphinx]] or living monolith with this featperforms
   a ritual with you'
 rarity: Rare
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/World Guide|World Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Feat
 
 ---

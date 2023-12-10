@@ -1,10 +1,7 @@
 ﻿---
 ac: '37'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Form Up
@@ -13,14 +10,10 @@ creature_ability:
 - Troop Defenses
 - Troop Movement
 - Whirlwind of Blades
-creature_family: null
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+29'
 hp: '270'
 id: '1468'
-immunity: null
 intelligence: '+1'
 land_speed: '30'
 language:
@@ -32,9 +25,6 @@ name: Hana's Hundreds
 perception: '+23'
 rarity: Unique
 reflex: '+23'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +27'
@@ -44,19 +34,16 @@ source: '[[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #
   Despair on Danger Island]]'
 speed:
 - 30 feet
-spell: null
 strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Troop|Troop]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
 - Will

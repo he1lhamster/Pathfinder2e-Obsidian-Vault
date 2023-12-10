@@ -1,22 +1,16 @@
 ﻿---
 ac: '24'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Dream Step
 - Frightful Presence
 - Stolen Dreams
 - Tireless
-creature_family: null
 dexterity: '+6'
-element: null
 fly_speed: '40'
 fortitude: '+12'
-hardness: null
 hp: '115'
 id: '2500'
 immunity:
@@ -34,9 +28,6 @@ name: Dreamscraper
 perception: '+15'
 rarity: Uncommon
 reflex: '+18'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -59,7 +50,6 @@ strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Dream|Dream]]'

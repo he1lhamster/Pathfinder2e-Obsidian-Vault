@@ -1,10 +1,7 @@
 ﻿---
 ac: '21'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Constrict
@@ -13,10 +10,8 @@ creature_ability:
 - Unnatural Flight
 creature_family: '[[DATABASE/monsterfamily/Elder Thing|Elder Thing]]'
 dexterity: '+2'
-element: null
 fly_speed: '20'
 fortitude: '+15'
-hardness: null
 hp: '90'
 id: '2501'
 immunity:
@@ -37,8 +32,6 @@ rarity: Rare
 reflex: '+9'
 resistance:
 - '[[DATABASE/trait/Fire|fire]] 5'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -58,7 +51,6 @@ speed:
 - 25 feet
 - fly 20 feet
 - swim 30 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
@@ -72,7 +64,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+12'
 wisdom: '+3'
 

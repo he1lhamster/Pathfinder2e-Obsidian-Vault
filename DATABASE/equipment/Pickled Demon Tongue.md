@@ -1,58 +1,22 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '2414'
 item_category: Spellhearts
-item_subcategory: null
-land_speed: null
-level: '12'
-max_speed: null
+level: '3'
 name: Pickled Demon Tongue
-onset: null
-price: 1,750 gp
-range: null
+price: 60 gp
 rarity: Uncommon
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
-size: null
 source: '[[DATABASE/source/Pathfinder 188. They Watched the Stars|Pathfinder #188:
   They Watched the Stars]]'
-spell: null
-stage: null
 subcategory: spellheart
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Acid|Acid]]'
 - '[[DATABASE/trait/Divine|Divine]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Spellheart|Spellheart]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Item
 usage: affixed to armor or a weapon
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Pickled Demon Tongue<span class="item-type">Item 3+</span>

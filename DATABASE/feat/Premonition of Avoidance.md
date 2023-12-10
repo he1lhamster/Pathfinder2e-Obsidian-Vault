@@ -1,20 +1,12 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Premonition of Avoidance
-frequency: null
-heighten_level: null
 id: '1696'
+leads_to: '[[DATABASE/feat/Shared Avoidance|Shared Avoidance]]'
 level: '1'
 name: Premonition of Avoidance
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Cleric|Cleric]]'
 trigger: You attempt a saving throw against a hazard, but you haven't rolled yet.

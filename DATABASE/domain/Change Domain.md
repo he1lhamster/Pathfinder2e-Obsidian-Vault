@@ -1,7 +1,5 @@
 ﻿---
-advanced_apocryphal_spell: null
 advanced_domain_spell: '[[DATABASE/spell/Adaptive Ablation|Adaptive Ablation]]'
-apocryphal_spell: null
 deity:
 - '[[DATABASE/deity/Aakriti|Aakriti]]'
 - '[[DATABASE/deity/Alseta|Alseta]]'
@@ -47,9 +45,7 @@ domain_spell: '[[DATABASE/spell/Adapt Self|Adapt Self]]'
 id: '40'
 name: Change Domain
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
-trait: null
 type: Domain
 
 ---

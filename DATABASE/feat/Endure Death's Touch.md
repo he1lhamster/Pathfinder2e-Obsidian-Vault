@@ -1,10 +1,6 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Endure Death's Touch
-frequency: null
-heighten_level: null
 id: '1094'
 level: '10'
 name: Endure Death's Touch
@@ -12,10 +8,7 @@ prerequisite: '[[DATABASE/feat/Knight Vigilant|Knight Vigilant]] ; expert in med
   or heavy armor'
 rarity: Common
 requirement: You are wearing medium or heavy armor in which you have expert proficiency.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 trigger: An undead hits you with an unarmed attack.

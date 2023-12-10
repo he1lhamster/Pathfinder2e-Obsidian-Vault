@@ -1,10 +1,7 @@
 ﻿---
 ac: '16'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Constrict
@@ -13,12 +10,9 @@ creature_ability:
 - Muddy Field
 - Spew Mud
 - Susceptible to Desiccation
-creature_family: null
 dexterity: '+0'
 element: Earth, Water
-fly_speed: null
 fortitude: '+11'
-hardness: null
 hp: '40'
 id: '734'
 immunity:
@@ -40,8 +34,6 @@ reflex: '+4'
 resistance:
 - acid 3
 - physical 3 (except bludgeoning)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -52,7 +44,6 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 20 feet
 - swim 20 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:

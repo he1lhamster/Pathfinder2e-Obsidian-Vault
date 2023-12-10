@@ -1,23 +1,16 @@
 ﻿---
 ac: '40'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Attack of Opportunity
 - Efficient Capture
 - Hammer the Chained
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+27'
 hp: '270'
 id: '1576'
-immunity: null
 intelligence: '+4'
 land_speed: '25'
 language:
@@ -30,8 +23,6 @@ name: Ilssrah Embermead
 perception: '+29'
 rarity: Unique
 reflex: '+24'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -79,7 +70,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dwarf|Dwarf]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -88,7 +78,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+30'
 wisdom: '+8'
 

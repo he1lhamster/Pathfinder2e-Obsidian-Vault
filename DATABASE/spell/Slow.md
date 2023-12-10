@@ -1,30 +1,21 @@
 ﻿---
 actions: '[two-actions]'
-area: null
 bloodline: '[[DATABASE/sorcererbloodline/Demonic|Demonic]]'
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Korada|Korada]]'
 - '[[DATABASE/deity/Lorthact|Lorthact]]'
 - '[[DATABASE/deity/Matravash|Matravash]]'
-domain: null
 duration: 1 minute
-element: null
 heighten: 6th
 heighten_level: 3, 6
 id: '289'
-lesson: null
 level: '3'
-mystery: null
 name: Slow
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Fortitude
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -35,7 +26,6 @@ tradition:
 - Primal
 trait:
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Spell
 
 ---

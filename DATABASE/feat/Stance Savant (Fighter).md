@@ -1,20 +1,11 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Stance Savant (Fighter)
-frequency: null
-heighten_level: null
 id: '419'
 level: '14'
 name: Stance Savant (Fighter)
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fighter|Fighter]]'
 trigger: You roll initiative.

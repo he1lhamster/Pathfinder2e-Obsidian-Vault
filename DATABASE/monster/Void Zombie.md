@@ -1,20 +1,13 @@
 ﻿---
 ac: '13'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Feed on Blood
 - Salt Water Vulnerability
-creature_family: null
 dexterity: '-2'
-element: null
-fly_speed: null
 fortitude: '+7'
-hardness: null
 hp: 26 ( negative healing )
 id: '855'
 immunity:
@@ -24,16 +17,12 @@ immunity:
 - '[[DATABASE/trait/Poison|poison]]'
 intelligence: '-5'
 land_speed: '25'
-language: null
 level: '1'
 max_speed: '25'
 name: Void Zombie
 perception: '+3'
 rarity: Rare
 reflex: '+3'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -42,12 +31,10 @@ skill:
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 25 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Undead|Undead]]'

@@ -1,10 +1,8 @@
 ﻿---
 ac: '18'
 alignment: N
-all_resistance: null
 burrow_speed: '15'
 charisma: '-2'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Anesthetic Saliva
@@ -12,25 +10,18 @@ creature_ability:
 - Surgical Mandibles
 creature_family: '[[DATABASE/monsterfamily/Skin Beetle|Skin Beetle]]'
 dexterity: '+4'
-element: null
 fly_speed: '15'
 fortitude: '+9'
-hardness: null
 hp: '55'
 id: '2461'
-immunity: null
 intelligence: '-5'
 land_speed: '20'
-language: null
 level: '3'
 max_speed: '20'
 name: Skin Beetle
 perception: '+9'
 rarity: Uncommon
 reflex: '+13'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Tiny
@@ -44,12 +35,10 @@ speed:
 - 20 feet
 - burrow 15 feet
 - fly 15 feet
-spell: null
 strength: '+1'
 strength_req: '1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
@@ -57,7 +46,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+7'
 wisdom: '+2'
 

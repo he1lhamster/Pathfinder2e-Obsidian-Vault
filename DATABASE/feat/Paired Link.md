@@ -1,27 +1,18 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Paired Link
-frequency: null
-heighten_level: null
 id: '3710'
+leads_to: '[[DATABASE/feat/Seven-Part Link|Seven-Part Link]]'
 level: '4'
 name: Paired Link
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Divination
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Divination|Divination]]'
 - '[[DATABASE/trait/Esoterica|Esoterica]]'
 - '[[DATABASE/trait/Fortune|Fortune]]'
 - '[[DATABASE/trait/Occult|Occult]]'
 - '[[DATABASE/trait/Thaumaturge|Thaumaturge]]'
-trigger: null
 type: Feat
 
 ---

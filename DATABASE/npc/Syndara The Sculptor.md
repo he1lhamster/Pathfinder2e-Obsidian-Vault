@@ -1,10 +1,7 @@
 ﻿---
 ac: '48'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+7'
-climb_speed: null
 constitution: '+8'
 creature_ability:
 - Attack of Opportunity
@@ -18,10 +15,7 @@ creature_ability:
 - Temporal Flurry
 - Vicious Impact
 - Walk the Spiral
-creature_family: null
 dexterity: '+11'
-element: null
-fly_speed: null
 fortitude: '+39'
 hp: 380 ( fast healing 20 )
 id: '1530'
@@ -41,8 +35,6 @@ name: Syndara The Sculptor
 perception: '+39'
 rarity: Unique
 reflex: '+39'
-resistance: null
-rus_type_level: null
 sense:
 - spatial sense
 size: Medium
@@ -59,22 +51,18 @@ source: '[[DATABASE/source/Pathfinder 168. King of the Mountain|Pathfinder #168:
 speed:
 - 40 feet
 - '[[DATABASE/spell/Air Walk|air walk]]'
-spell: null
 strength: '+10'
 strength_req: '10'
 strongest_save:
 - Fortitude
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aeon|Aeon]]'
 - '[[DATABASE/trait/Monitor|Monitor]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+36'
 wisdom: '+11'
 

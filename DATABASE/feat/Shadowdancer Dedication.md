@@ -1,24 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Shadowdancer Dedication
-frequency: null
-heighten_level: null
 id: '2067'
+leads_to: '[[DATABASE/feat/Shadow Magic|Shadow Magic]] , [[DATABASE/feat/Shadow Master|Shadow
+  Master]] , [[DATABASE/feat/Shadow Sneak Attack|Shadow Sneak Attack]]'
 level: '8'
 name: Shadowdancer Dedication
 prerequisite: Master in [[DATABASE/skill/Stealth|Stealth]] ; Expert in [[DATABASE/skill/Performance|Performance]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
-trigger: null
 type: Feat
 
 ---

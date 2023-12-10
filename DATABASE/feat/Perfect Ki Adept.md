@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Perfect Ki Adept
-frequency: null
-heighten_level: null
 id: '902'
 level: '6'
 name: Perfect Ki Adept
 prerequisite: '[[DATABASE/feat/Student of Perfection Dedication|Student of Perfection
   Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/World Guide|World Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

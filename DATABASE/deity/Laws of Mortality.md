@@ -9,9 +9,6 @@ alignment: LN
 deity:
 - '[[DATABASE/deity/Laws of Mortality|Laws of Mortality]]'
 deity_category: Faiths & Philosophies
-divine_font: null
-domain: null
-favored_weapon: null
 follower_alignment:
 - LG
 - LN
@@ -22,11 +19,9 @@ follower_alignment:
 id: '201'
 name: Laws of Mortality
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Medicine|Medicine]]'
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
-trait: null
 type: Deity
 
 ---

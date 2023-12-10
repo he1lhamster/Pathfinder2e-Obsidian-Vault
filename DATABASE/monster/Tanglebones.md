@@ -1,10 +1,7 @@
 ﻿---
 ac: '24'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Ectoplasmic Filament
@@ -12,12 +9,8 @@ creature_ability:
 - Gnaw
 - Skeletal Storm
 - Sprawled Bones
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+15'
-hardness: null
 hp: 145 ( negative healing )
 id: '1421'
 immunity:
@@ -36,9 +29,6 @@ name: Tanglebones
 perception: '+17'
 rarity: Rare
 reflex: '+12'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -49,12 +39,10 @@ skill:
 source: '[[DATABASE/source/Malevolence|Malevolence]]'
 speed:
 - 25 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Undead|Undead]]'

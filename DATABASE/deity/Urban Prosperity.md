@@ -30,11 +30,9 @@ follower_alignment:
 id: '256'
 name: Urban Prosperity
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Diplomacy|Diplomacy]]'
 source: '[[DATABASE/source/Travel Guide|Travel Guide]]'
-trait: null
 type: Deity
 
 ---

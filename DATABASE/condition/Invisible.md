@@ -1,7 +1,6 @@
 ﻿---
 id: '26'
 name: Invisible
-source: null
 
 ---
 # Invisible

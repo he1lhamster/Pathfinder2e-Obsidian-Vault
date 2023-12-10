@@ -1,33 +1,7 @@
 ﻿---
-bulk: L
-damage: 1d4 S
-deity:
-- '[[DATABASE/deity/Bastet|Bastet]]'
-- '[[DATABASE/deity/Suyuddha|Suyuddha]]'
-favored_weapon: '[[DATABASE/deity/Bastet|Bastet]] , [[DATABASE/deity/Suyuddha|Suyuddha]]'
-hands: '1'
-id: '304'
-item_category: Weapons
-item_subcategory: Base Weapons
-level: '0'
-name: Tekko-Kagi
-price: 2 sp
-range: null
-rarity: Uncommon
-rus_type_level: null
-source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-trait:
-- '[[DATABASE/trait/Agile|Agile]]'
-- '[[DATABASE/trait/Disarm|Disarm]]'
-- '[[DATABASE/trait/Finesse|Finesse]]'
-- '[[DATABASE/trait/Free-Hand|Free-Hand]]'
-- '[[DATABASE/trait/Monk|Monk]]'
-- '[[DATABASE/trait/Parry|Parry]]'
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
-type: Weapon
-weapon_category: Martial
-weapon_group: '[[DATABASE/weapongroup/Brawling|Brawling]]'
-weapon_type: Melee
+id: '101'
+name: Tekko-kagi
+source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
 
 ---
 # Tekko-Kagi

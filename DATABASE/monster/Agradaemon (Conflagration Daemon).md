@@ -1,8 +1,6 @@
 ﻿---
 ac: '45'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+10'
 climb_speed: '40'
 constitution: '+5'
@@ -15,9 +13,7 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Daemon|Daemon]]'
 dexterity: '+10'
 element: Fire
-fly_speed: null
 fortitude: '+31'
-hardness: null
 hp: '400'
 id: '1018'
 immunity:
@@ -36,9 +32,6 @@ name: Agradaemon
 perception: '+31'
 rarity: Rare
 reflex: '+36'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - smoke vision
@@ -62,7 +55,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Daemon|Daemon]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

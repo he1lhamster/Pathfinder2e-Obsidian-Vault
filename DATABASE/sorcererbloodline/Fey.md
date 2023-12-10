@@ -3,7 +3,6 @@ bloodline: Fey
 id: '7'
 name: Fey
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 spell:
 - '[[DATABASE/spell/Charm|Charm]]'
@@ -19,7 +18,6 @@ spell:
 - '[[DATABASE/spell/Suggestion|Suggestion]]'
 - '[[DATABASE/spell/Uncontrollable Dance|Uncontrollable Dance]]'
 - '[[DATABASE/spell/Visions of Danger|Visions of Danger]]'
-trait: null
 type: Sorcerer Bloodline
 
 ---

@@ -3,10 +3,8 @@ creature_family: Visitant
 id: '119'
 name: Visitant
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 152. Legacy of the Lost God|Pathfinder #152:
   Legacy of the Lost God]]'
-trait: null
 type: Creature Family
 
 ---

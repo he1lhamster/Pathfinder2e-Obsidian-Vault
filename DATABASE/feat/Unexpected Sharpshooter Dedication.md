@@ -1,25 +1,20 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Unexpected Sharpshooter Dedication
 frequency: once per day
-heighten_level: null
 id: '3272'
+leads_to: '[[DATABASE/feat/Chain Reaction|Chain Reaction]] , [[DATABASE/feat/I Meant
+  to Do That|I Meant to Do That]] , [[DATABASE/feat/Lucky Escape|Lucky Escape]] ,
+  [[DATABASE/feat/No Hard Feelings|No Hard Feelings]] , [[DATABASE/feat/That was a
+  Close One, Huh|That was a Close One, Huh?]] , [[DATABASE/feat/Unbelievable Escape|Unbelievable
+  Escape]] , [[DATABASE/feat/Unbelievable Luck|Unbelievable Luck]]'
 level: '2'
 name: Unexpected Sharpshooter Dedication
-prerequisite: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

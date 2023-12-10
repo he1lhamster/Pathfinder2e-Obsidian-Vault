@@ -2,9 +2,7 @@
 id: '208'
 level: '2'
 name: Worm Caller
-prerequisite: null
 rarity: Rare
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 194. Cult of the Cave Worm|Pathfinder #194:
   Cult of the Cave Worm]]'
 trait:

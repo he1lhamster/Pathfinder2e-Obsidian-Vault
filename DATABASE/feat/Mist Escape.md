@@ -1,21 +1,13 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Mist Escape
-frequency: null
-heighten_level: null
 id: '3555'
 level: '14'
 name: Mist Escape
 prerequisite: '[[DATABASE/feat/Turn to Mist|Turn to Mist]] ; [[DATABASE/feat/Coffin
   Bound|Coffin Bound]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 trigger: You are reduced to 0 HP.

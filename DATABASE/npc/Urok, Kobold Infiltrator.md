@@ -1,10 +1,7 @@
 ﻿---
 ac: '27'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Crystalline Dust
@@ -14,14 +11,10 @@ creature_ability:
 - Preemptive Reconfiguration
 - Skirmish Strike
 - Sneak Attack
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+15'
 hp: '140'
 id: '1052'
-immunity: null
 intelligence: '+4'
 land_speed: '25'
 language:
@@ -37,8 +30,6 @@ name: Urok
 perception: '+18'
 rarity: Unique
 reflex: '+21'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
@@ -62,12 +53,10 @@ skill:
 source: '[[DATABASE/source/No-Prep Character. Urok|No-Prep Character: Urok]]'
 speed:
 - 25 feet
-spell: null
 strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aphorite|Aphorite]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -77,7 +66,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+18'
 wisdom: '+2'
 

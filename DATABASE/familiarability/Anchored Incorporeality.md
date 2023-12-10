@@ -1,14 +1,9 @@
 ﻿---
-ability_type: Specific Familiar - Polong
-actions: null
-frequency: null
-id: '82'
+ability_type: Specific Familiar - Old Friend
+id: '81'
 name: Anchored Incorporeality
 rarity: Common
-requirement: null
-rus_type_level: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-trait: null
 type: Familiar Ability
 
 ---

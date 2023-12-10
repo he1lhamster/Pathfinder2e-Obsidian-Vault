@@ -2,7 +2,6 @@
 id: '329'
 name: Contract
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Legends|Legends]]'
 trait:
 - Contract

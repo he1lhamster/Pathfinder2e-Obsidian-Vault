@@ -1,10 +1,8 @@
 ﻿---
 ac: '30'
 alignment: N
-all_resistance: null
 burrow_speed: '20'
 charisma: '+3'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Breath Weapon
@@ -13,9 +11,7 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Elemental, Water|Elemental, Water]]'
 dexterity: '+7'
 element: Water
-fly_speed: null
 fortitude: '+20'
-hardness: null
 hp: '185'
 id: '666'
 immunity:
@@ -34,9 +30,6 @@ name: Icewyrm
 perception: '+19'
 rarity: Common
 reflex: '+21'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Huge
@@ -47,7 +40,6 @@ speed:
 - 25 feet
 - ice burrow 20 feet
 - swim 60 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:

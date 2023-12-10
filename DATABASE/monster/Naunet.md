@@ -1,10 +1,7 @@
 ﻿---
 ac: '24'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Adaptive Strike
@@ -15,13 +12,10 @@ creature_ability:
 - Protean Anatomy
 creature_family: '[[DATABASE/monsterfamily/Protean|Protean]]'
 dexterity: '+3'
-element: null
 fly_speed: '30'
 fortitude: '+18'
-hardness: null
 hp: 120 ( fast healing 2)
 id: '337'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -37,8 +31,6 @@ reflex: '+14'
 resistance:
 - precision 5
 - protean anatomy 10
-rus_type_level: null
-school: null
 sense:
 - entropy sense (imprecise) 30 feet
 - darkvision

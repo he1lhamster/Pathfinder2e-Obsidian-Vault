@@ -1,24 +1,17 @@
 ﻿---
-area: null
 cost: "rare oils worth 10 gp \xD7 the primary caster's level"
 duration: 1 week
-element: null
-heighten: null
 heighten_level: '3'
 id: '59'
 level: '3'
 name: Guardian's Aegis
 primary_check: '[[DATABASE/skill/Occultism|Occultism]] or [[DATABASE/skill/Religion|Religion]]'
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Abjuration
 secondary_casters: '1'
 secondary_check: '[[DATABASE/skill/Athletics|Athletics]] , [[DATABASE/skill/Diplomacy|Diplomacy]]
   , or [[DATABASE/skill/Society|Society]]'
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-target: null
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Divination|Divination]]'

@@ -2,9 +2,6 @@
 id: '13'
 name: Pathfinder 148. Fires of the Haunted City
 rarity: Common
-rus_type_level: null
-source: null
-trait: null
 type: Source
 
 ---

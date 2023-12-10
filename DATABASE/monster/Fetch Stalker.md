@@ -1,22 +1,15 @@
 ﻿---
 ac: '42'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+8'
-climb_speed: null
 constitution: '+9'
 creature_ability:
 - Manifest Fetch Weapon
 creature_family: '[[DATABASE/monsterfamily/Fetch|Fetch]]'
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+35'
-hardness: null
 hp: '350'
 id: '2207'
-immunity: null
 intelligence: '+4'
 land_speed: '35'
 language:
@@ -28,9 +21,6 @@ name: Fetch Stalker
 perception: '+30'
 rarity: Rare
 reflex: '+30'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -60,7 +50,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Plant|Plant]]'

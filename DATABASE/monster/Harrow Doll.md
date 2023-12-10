@@ -1,21 +1,14 @@
 ﻿---
 ac: '26'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - "Fortune\u2019s Favor"
 - Harrowing Misfortune
 - Uncanny Divination
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+16'
-hardness: null
 hp: '120'
 id: '531'
 immunity:
@@ -45,8 +38,6 @@ rarity: Uncommon
 reflex: '+16'
 resistance:
 - physical 5 (except adamantine)
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Large
@@ -64,7 +55,6 @@ strength: '+3'
 strength_req: '3'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
@@ -73,7 +63,6 @@ vision: Darkvision
 weakest_save:
 - Fortitude
 - Reflex
-weakness: null
 will: '+17'
 wisdom: '+5'
 

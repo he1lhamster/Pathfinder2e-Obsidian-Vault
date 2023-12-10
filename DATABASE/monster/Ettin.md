@@ -1,23 +1,15 @@
 ﻿---
 ac: '21'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Attack of Opportunity
 - Independent Brains
-creature_family: null
 dexterity: '-1'
-element: null
-fly_speed: null
 fortitude: '+16'
-hardness: null
 hp: '110'
 id: '204'
-immunity: null
 intelligence: '-2'
 land_speed: '35'
 language:
@@ -30,9 +22,6 @@ name: Ettin
 perception: '+16'
 rarity: Common
 reflex: '+11'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 size: Large
@@ -42,12 +31,10 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 35 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Giant|Giant]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -55,7 +42,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Reflex
-weakness: null
 will: '+12'
 wisdom: '+2'
 

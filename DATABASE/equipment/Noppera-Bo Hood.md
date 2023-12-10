@@ -1,57 +1,24 @@
 ﻿---
-ac: null
 actions: '[one-action]'
-alignment: null
-base_item: null
 bulk: L
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '2686'
 item_category: Worn Items
 item_subcategory: Other Worn Items
-land_speed: null
 level: '4'
-max_speed: null
 name: Noppera-Bo Hood
-onset: null
 price: 85 gp
-range: null
 rarity: Rare
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Illusion
-size: null
 source: '[[DATABASE/source/Pathfinder 196. The Summer That Never Was|Pathfinder #196:
   The Summer That Never Was]]'
-spell: null
-stage: null
 subcategory: wornitem
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Illusion|Illusion]]'
 - '[[DATABASE/trait/Invested|Invested]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Item
 usage: worn helmet
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Noppera-Bo Hood<span class="item-type">Item 4</span>

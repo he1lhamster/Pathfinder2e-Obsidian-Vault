@@ -1,7 +1,5 @@
 ﻿---
-advanced_apocryphal_spell: null
 advanced_domain_spell: '[[DATABASE/spell/Repel Metal|Repel Metal]]'
-apocryphal_spell: null
 deity:
 - '[[DATABASE/deity/Ayrzul|Ayrzul]]'
 - '[[DATABASE/deity/Ferrumnestra|Ferrumnestra]]'
@@ -12,9 +10,7 @@ domain_spell: '[[DATABASE/spell/Serrate|Serrate]]'
 id: '62'
 name: Metal Domain
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-trait: null
 type: Domain
 
 ---

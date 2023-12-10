@@ -1,41 +1,30 @@
 ﻿---
 actions: '[three-actions]'
 area: a horizontal earthen or sandy surface within a 20-foot burst
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Anubis|Anubis]]'
 - '[[DATABASE/deity/Yamatsumi|Yamatsumi]]'
-domain: null
 duration: sustained up to 1 minute
 element: Earth
 heighten: 5th, 7th, 9th
 heighten_level: 3, 5, 7, 9
 id: '586'
-lesson: null
 level: '3'
-mystery: null
 name: Shifting Sand
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
-target: null
 tradition:
 - Arcane
 - Primal
 trait:
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Spell
 
 ---

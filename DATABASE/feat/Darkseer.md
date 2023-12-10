@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Darkseer
-frequency: null
-heighten_level: null
 id: '950'
 level: '5'
 name: Darkseer
 prerequisite: '[[DATABASE/feat/Gloomseer|Gloomseer]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
-trigger: null
 type: Feat
 
 ---

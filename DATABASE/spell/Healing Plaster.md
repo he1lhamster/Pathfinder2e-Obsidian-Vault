@@ -1,27 +1,16 @@
 ﻿---
 actions: '[one-action]'
-area: null
-bloodline: null
 component:
 - Somatic
-cost: null
-deity: null
-domain: null
 duration: 10 minutes
 element: Earth
 heighten: 3rd
 heighten_level: 1, 3
 id: '925'
-lesson: null
 level: '1'
-mystery: null
 name: Healing Plaster
-patron_theme: null
 range: 5 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 target: a handful of dirt or mud
@@ -31,7 +20,6 @@ trait:
 - '[[DATABASE/trait/Cantrip|Cantrip]]'
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Cantrip
 
 ---

@@ -1,22 +1,15 @@
 ﻿---
 ac: '12'
 alignment: CG
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Divine Font
 - Healing Hands
-creature_family: null
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+6'
 hp: '30'
 id: '2737'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -29,9 +22,6 @@ name: Ordwi
 perception: '+8'
 rarity: Unique
 reflex: '+4'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +4'
@@ -56,16 +46,13 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+10'
 wisdom: '+4'
 

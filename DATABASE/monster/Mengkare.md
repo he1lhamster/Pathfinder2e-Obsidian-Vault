@@ -1,10 +1,7 @@
 ﻿---
 ac: '50'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+7'
-climb_speed: null
 constitution: '+9'
 creature_ability:
 - Attack of Opportunity
@@ -18,12 +15,10 @@ creature_ability:
 - Extra Reaction
 - Frightful Presence
 - Golden Luck
-creature_family: null
 dexterity: '+5'
 element: Fire
 fly_speed: '200'
 fortitude: '+37'
-hardness: null
 hp: '575'
 id: '1599'
 immunity:
@@ -47,9 +42,6 @@ name: Mengkare
 perception: '+40'
 rarity: Unique
 reflex: '+34'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 120 feet'
@@ -118,7 +110,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+42'
 wisdom: '+7'
 

@@ -1,7 +1,5 @@
 ﻿---
-advanced_apocryphal_spell: null
 advanced_domain_spell: '[[DATABASE/spell/Zeal for Battle|Zeal for Battle]]'
-apocryphal_spell: null
 deity:
 - '[[DATABASE/deity/Achaekek|Achaekek]]'
 - '[[DATABASE/deity/Angazhan|Angazhan]]'
@@ -53,9 +51,7 @@ domain_spell: '[[DATABASE/spell/Weapon Surge|Weapon Surge]]'
 id: '37'
 name: Zeal Domain
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Domain
 
 ---

@@ -3,9 +3,7 @@ element: Air, Water
 id: '68'
 item_category: Relics
 name: Monsoon Curtain
-prerequisite: null
 rarity: Common
-rus_type_level: null
 school: Conjuration
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:

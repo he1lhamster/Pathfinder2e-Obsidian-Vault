@@ -1,10 +1,7 @@
 ﻿---
 ac: '31'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Lightning Blast
@@ -13,12 +10,10 @@ creature_ability:
 - Stormflight
 - Stormsight
 - Thunderstrike
-creature_family: null
 dexterity: '+3'
 element: Air
 fly_speed: '80'
 fortitude: '+24'
-hardness: null
 hp: '200'
 id: '825'
 immunity:
@@ -36,8 +31,6 @@ rarity: Uncommon
 reflex: '+20'
 resistance:
 - sonic 10
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - stormsight
@@ -51,12 +44,10 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 25 feet
 - fly 80 feet
-spell: null
 strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Beast|Beast]]'
@@ -66,7 +57,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+22'
 wisdom: '+5'
 

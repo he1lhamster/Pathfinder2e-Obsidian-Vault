@@ -1,8 +1,5 @@
 ﻿---
-area: null
 cost: "rare herbs worth a total value of the target's level (minimum 1) \xD7 25 gp"
-duration: null
-element: null
 heighten: 4th, 5th, 6th, 7th, 8th, 9th
 heighten_level: 3, 4, 5, 6, 7, 8, 9
 id: '35'
@@ -11,8 +8,6 @@ name: Reincarnate
 primary_check: '[[DATABASE/skill/Nature|Nature]] (expert)'
 range: 10 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Necromancy
 secondary_casters: '2'
 secondary_check: '[[DATABASE/skill/Occultism|Occultism]] , [[DATABASE/skill/Religion|Religion]]'

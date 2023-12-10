@@ -1,11 +1,9 @@
 ﻿---
-element: null
 id: '31'
 item_category: Relics
 name: Curse Wound
 prerequisite: The relic is a weapon.
 rarity: Common
-rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:

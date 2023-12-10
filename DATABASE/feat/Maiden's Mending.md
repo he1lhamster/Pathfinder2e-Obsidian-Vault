@@ -1,20 +1,12 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Maiden's Mending
 frequency: once per minute
-heighten_level: null
 id: '2330'
 level: '1'
 name: Maiden's Mending
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Changeling|Changeling]]'
 trigger: You cast a non-cantrip occult spell or an innate spell from a changeling

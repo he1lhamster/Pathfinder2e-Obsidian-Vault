@@ -1,31 +1,18 @@
 ﻿---
 actions: '[reaction]'
 area: 20-foot emanation
-bloodline: null
 component:
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 1 minute
-element: null
 heighten: 6th, 9th
 heighten_level: 1, 6, 9
 id: '748'
-lesson: null
 level: '1'
 mystery: '[[DATABASE/oraclemystery/Battle|Battle]]'
 name: Call to Arms
-patron_theme: null
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Enchantment
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-target: null
-tradition: null
 trait:
 - '[[DATABASE/trait/Auditory|Auditory]]'
 - '[[DATABASE/trait/Cursebound|Cursebound]]'

@@ -5,7 +5,6 @@ name: Knight Reclaimant
 prerequisite: Trained in [[DATABASE/skill/Stealth|Stealth]] ; Trained in [[DATABASE/skill/Survival|Survival]]
   ; any non-evil alignment; member of the Knights of Lastwall of knight rank
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Verdant Metamorphosis
-frequency: null
-heighten_level: null
 id: '346'
 level: '14'
 name: Verdant Metamorphosis
 prerequisite: '[[DATABASE/druidicorder/Leaf|leaf order]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Druid|Druid]]'
-trigger: null
 type: Feat
 
 ---

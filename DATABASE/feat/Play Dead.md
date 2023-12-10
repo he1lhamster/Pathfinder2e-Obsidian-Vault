@@ -1,23 +1,13 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Play Dead
-frequency: null
-heighten_level: null
 id: '3534'
 level: '1'
 name: Play Dead
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Skeleton|Skeleton]]'
-trigger: null
 type: Feat
 
 ---

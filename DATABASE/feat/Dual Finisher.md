@@ -1,24 +1,15 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Dual Finisher
-frequency: null
-heighten_level: null
 id: '1539'
 level: '8'
 name: Dual Finisher
-prerequisite: null
 rarity: Common
 requirement: You wield two melee weapons, one in each hand.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Finisher|Finisher]]'
 - '[[DATABASE/trait/Swashbuckler|Swashbuckler]]'
-trigger: null
 type: Feat
 
 ---

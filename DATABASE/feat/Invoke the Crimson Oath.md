@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Invoke the Crimson Oath
-frequency: null
-heighten_level: null
 id: '1098'
+leads_to: '[[DATABASE/feat/The Tyrant Falls!|The Tyrant Falls!]]'
 level: '8'
 name: Invoke the Crimson Oath
 prerequisite: '[[DATABASE/feat/Knight Reclaimant Dedication|Knight Reclaimant Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

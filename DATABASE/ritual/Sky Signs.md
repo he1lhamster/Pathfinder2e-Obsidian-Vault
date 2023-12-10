@@ -1,5 +1,4 @@
 ﻿---
-area: null
 cost: lenses and fine mineral dusts worth 300 gp total
 duration: 8 hours
 element: Air
@@ -9,15 +8,11 @@ id: '102'
 level: '6'
 name: Sky Signs
 primary_check: '[[DATABASE/skill/Nature|Nature]] (master)'
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Illusion
 secondary_casters: '2'
 secondary_check: '[[DATABASE/skill/Crafting|Crafting]] , [[DATABASE/skill/Diplomacy|Diplomacy]]'
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-target: null
 trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Illusion|Illusion]]'

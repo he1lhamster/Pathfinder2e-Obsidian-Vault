@@ -1,19 +1,13 @@
 ﻿---
 ac: '43'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+9'
 creature_ability:
 - Infused Items
 - Inject Unstable Mutagen
 - Mutagenic Adaptation
-creature_family: null
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+35'
 hp: '350'
 id: '1591'
@@ -30,9 +24,6 @@ name: Ingnovim
 perception: '+33'
 rarity: Unique
 reflex: '+29'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +36'
@@ -45,21 +36,17 @@ source: '[[DATABASE/source/Pathfinder 150. Broken Promises|Pathfinder #150: Brok
   Promises]]'
 speed:
 - 25 feet
-spell: null
 strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+32'
 wisdom: '+5'
 

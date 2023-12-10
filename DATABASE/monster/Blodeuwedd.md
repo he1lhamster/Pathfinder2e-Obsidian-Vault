@@ -1,10 +1,7 @@
 ﻿---
 ac: '24'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Allergen Aura
@@ -12,15 +9,10 @@ creature_ability:
 - Living Footsteps
 - Nature's Infusion
 - Wild Empathy
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+12'
-hardness: null
 hp: '105'
 id: '572'
-immunity: null
 intelligence: '+3'
 land_speed: '25'
 language:
@@ -34,9 +26,6 @@ name: Blodeuwedd
 perception: '+14'
 rarity: Uncommon
 reflex: '+17'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
@@ -63,7 +52,6 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Plant|Plant]]'

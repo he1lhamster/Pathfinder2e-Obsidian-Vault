@@ -1,10 +1,7 @@
 ﻿---
 ac: '30'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Attack of Opportunity
@@ -13,13 +10,9 @@ creature_ability:
 - Liberation Vulnerability
 creature_family: '[[DATABASE/monsterfamily/Demon|Demon]]'
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+21'
-hardness: null
 hp: '200'
 id: '455'
-immunity: null
 intelligence: '+2'
 land_speed: '25'
 language:
@@ -32,9 +25,6 @@ name: Kalavakus
 perception: '+19'
 rarity: Common
 reflex: '+17'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -57,7 +47,6 @@ strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Demon|Demon]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

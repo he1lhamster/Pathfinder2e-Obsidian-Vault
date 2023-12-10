@@ -1,26 +1,23 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Hellknight Armiger Dedication
-frequency: null
-heighten_level: null
 id: '907'
+leads_to: '[[DATABASE/feat/Advanced Order Training|Advanced Order Training]] , [[DATABASE/feat/Ardent
+  Armiger|Ardent Armiger]] , [[DATABASE/feat/Armiger''s Mobility|Armiger''s Mobility]]
+  , [[DATABASE/feat/Diabolic Certitude|Diabolic Certitude]] , [[DATABASE/feat/Hellknight
+  Dedication|Hellknight Dedication]] , [[DATABASE/feat/Hellknight Order Cross-Training|Hellknight
+  Order Cross-Training]] , [[DATABASE/feat/Hellknight Signifer Dedication|Hellknight
+  Signifer Dedication]] , [[DATABASE/feat/Mortification|Mortification]] , [[DATABASE/feat/Order
+  Training|Order Training]]'
 level: '2'
 name: Hellknight Armiger Dedication
 prerequisite: member of a Hellknight Order; trained in heavy armor as well as your
   order's favored weapon
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/World Guide|World Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

@@ -2,7 +2,6 @@
 id: '4'
 name: The Silent Whisper
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 spell:
 - '[[DATABASE/spell/Contagious Idea|Contagious Idea]]'
@@ -19,7 +18,6 @@ spell:
 - '[[DATABASE/spell/Touch of Idiocy|Touch of Idiocy]]'
 - '[[DATABASE/spell/Uncontrollable Dance|Uncontrollable Dance]]'
 - '[[DATABASE/spell/Visions of Danger|Visions of Danger]]'
-trait: null
 type: Psychic Conscious Mind
 
 ---

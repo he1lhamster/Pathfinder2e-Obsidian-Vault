@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Forager|Forager]]'
 id: '176'
 name: Scavenger
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Survival|Survival]]'
 - '[[DATABASE/skill/Lore|Lore]] forthe settlement you grew up scavenging in.'
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

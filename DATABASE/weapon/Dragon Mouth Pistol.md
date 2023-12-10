@@ -1,8 +1,6 @@
 ﻿---
 bulk: '1'
 damage: 1d6 P
-deity: null
-favored_weapon: null
 hands: '1'
 id: '200'
 item_category: Weapons
@@ -12,7 +10,6 @@ name: Dragon Mouth Pistol
 price: 9 gp
 range: 20 ft.
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:
 - '[[DATABASE/trait/Concussive|Concussive]]'

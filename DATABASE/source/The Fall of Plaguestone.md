@@ -2,9 +2,6 @@
 id: '3'
 name: The Fall of Plaguestone
 rarity: Common
-rus_type_level: null
-source: null
-trait: null
 type: Source
 
 ---

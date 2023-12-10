@@ -1,31 +1,19 @@
 ﻿---
 actions: '[one-action]'
-area: null
-bloodline: null
 component:
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: sustained up to 1 minute
-element: null
 heighten: '+2'
 heighten_level: 1, 3, 5, 7, 9
 id: '807'
-lesson: null
 level: '1'
-mystery: null
 name: Stoke the Heart
 patron_theme: '[[DATABASE/witchpatron/Fervor|Fervor]]'
 range: 30 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Enchantment
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 target: 1 creature
-tradition: null
 trait:
 - '[[DATABASE/trait/Cantrip|Cantrip]]'
 - '[[DATABASE/trait/Emotion|Emotion]]'
@@ -33,7 +21,6 @@ trait:
 - '[[DATABASE/trait/Hex|Hex]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 - '[[DATABASE/trait/Witch|Witch]]'
-trigger: null
 type: Cantrip
 
 ---

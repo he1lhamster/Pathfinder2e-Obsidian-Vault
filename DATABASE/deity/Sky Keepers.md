@@ -28,11 +28,9 @@ follower_alignment:
 id: '232'
 name: Sky Keepers
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]]'
 source: '[[DATABASE/source/Gods of the Expanse|Gods of the Expanse]]'
-trait: null
 type: Deity
 
 ---

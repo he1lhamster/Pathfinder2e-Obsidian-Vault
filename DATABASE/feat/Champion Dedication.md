@@ -1,25 +1,19 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Champion Dedication
-frequency: null
-heighten_level: null
 id: '686'
+leads_to: '[[DATABASE/feat/Basic Devotion|Basic Devotion]] , [[DATABASE/feat/Champion
+  Resiliency|Champion Resiliency]] , [[DATABASE/feat/Champion''s Reaction|Champion''s
+  Reaction]] , [[DATABASE/feat/Diverse Armor Expert|Diverse Armor Expert]] , [[DATABASE/feat/Divine
+  Ally|Divine Ally]] , [[DATABASE/feat/Healing Touch|Healing Touch]]'
 level: '2'
 name: Champion Dedication
 prerequisite: Strength 14; Charisma 14
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Multiclass|Multiclass]]'
-trigger: null
 type: Feat
 
 ---

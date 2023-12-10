@@ -1,8 +1,6 @@
 ﻿---
 ac: '17'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
 climb_speed: '20'
 constitution: '+3'
@@ -12,16 +10,11 @@ creature_ability:
 - Revived Retaliation
 creature_family: '[[DATABASE/monsterfamily/Opossum|Opossum]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+11'
-hardness: null
 hp: '35'
 id: '1253'
-immunity: null
 intelligence: '-4'
 land_speed: '30'
-language: null
 level: '2'
 max_speed: '30'
 name: Giant Opossum
@@ -30,8 +23,6 @@ rarity: Common
 reflex: '+8'
 resistance:
 - '[[DATABASE/trait/Poison|poison]] 3'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -44,19 +35,16 @@ source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 30 feet
 - climb 20 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+5'
 wisdom: '+2'
 

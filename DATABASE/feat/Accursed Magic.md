@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Accursed Magic
-frequency: null
-heighten_level: null
 id: '3833'
 level: '8'
 name: Accursed Magic
 prerequisite: '[[DATABASE/feat/Curse Maelstrom Dedication|Curse Maelstrom Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

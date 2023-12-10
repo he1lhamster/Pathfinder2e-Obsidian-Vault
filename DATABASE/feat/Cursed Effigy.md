@@ -1,10 +1,6 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Cursed Effigy
-frequency: null
-heighten_level: null
 id: '3715'
 level: '8'
 name: Cursed Effigy
@@ -12,15 +8,11 @@ prerequisite: '[[DATABASE/action/Exploit Vulnerability|Exploit Vulnerability]]'
 rarity: Common
 requirement: Your last action was a successful Strike against the target of your Exploit
   Vulnerability, and theStrike dealt physical damage.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Curse|Curse]]'
 - '[[DATABASE/trait/Esoterica|Esoterica]]'
 - '[[DATABASE/trait/Thaumaturge|Thaumaturge]]'
-trigger: null
 type: Feat
 
 ---

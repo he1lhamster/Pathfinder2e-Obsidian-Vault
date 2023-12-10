@@ -1,23 +1,17 @@
 ﻿---
 ac: '45'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Contingency
 - Drain Bonded Item
 - Warded Casting
-creature_family: null
 dexterity: '+8'
-element: null
 fly_speed: '30'
 fortitude: '+30'
 hp: '375'
 id: '1597'
-immunity: null
 intelligence: '+10'
 land_speed: '25'
 language:
@@ -36,9 +30,6 @@ name: Emaliza Zandivar
 perception: '+36'
 rarity: Unique
 reflex: '+33'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +32'
@@ -103,16 +94,13 @@ strength: '+2'
 strength_req: '2'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+36'
 wisdom: '+5'
 

@@ -1,23 +1,14 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Treacherous Earth
 frequency: once every 10 minutes
-heighten_level: null
 id: '2571'
 level: '5'
 name: Treacherous Earth
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Oread|Oread]]'
-trigger: null
 type: Feat
 
 ---

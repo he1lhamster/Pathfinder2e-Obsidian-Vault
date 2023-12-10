@@ -2,7 +2,6 @@
 id: '309'
 name: Spriggan
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 trait:
 - Spriggan

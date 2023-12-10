@@ -1,22 +1,16 @@
 ﻿---
 ac: '25'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Frightful Moan
 - Rejuvenation
 - Site Bound
 - Telekinetic Assault
-creature_family: null
 dexterity: '+4'
-element: null
 fly_speed: '25'
 fortitude: '+15'
-hardness: null
 hp: 120 ( negative healing , rejuvenation)
 id: '2297'
 immunity:
@@ -27,7 +21,6 @@ immunity:
 - precision
 - unconscious
 intelligence: '+2'
-land_speed: null
 language:
 - '[[DATABASE/language/Common|Common]]'
 - '[[DATABASE/language/Gnomish|Gnomish]]'
@@ -38,9 +31,6 @@ name: Jin Durwhimmer
 perception: '+19'
 rarity: Unique
 reflex: '+19'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -51,13 +41,11 @@ skill:
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 speed:
 - fly 25 feet
-spell: null
 strength: '-5'
 strength_req: '-5'
 strongest_save:
 - Reflex
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Ghost|Ghost]]'
 - '[[DATABASE/trait/Incorporeal|Incorporeal]]'
@@ -68,7 +56,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+19'
 wisdom: '+4'
 

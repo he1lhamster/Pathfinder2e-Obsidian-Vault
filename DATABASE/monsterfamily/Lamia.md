@@ -3,9 +3,7 @@ creature_family: Lamia
 id: '66'
 name: Lamia
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
-trait: null
 type: Creature Family
 
 ---

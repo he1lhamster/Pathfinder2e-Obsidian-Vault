@@ -1,23 +1,16 @@
 ﻿---
 ac: '36'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Fearsome Brute
 - Intimidating Attack of Opportunity
 - Light Blindness
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+28'
 hp: '255'
 id: '1566'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -30,8 +23,6 @@ name: Kralgurn
 perception: '+24'
 rarity: Unique
 reflex: '+22'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -50,7 +41,6 @@ strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Duergar|Duergar]]'
 - '[[DATABASE/trait/Dwarf|Dwarf]]'
@@ -60,7 +50,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+25'
 wisdom: '+4'
 

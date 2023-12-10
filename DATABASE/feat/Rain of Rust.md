@@ -1,20 +1,13 @@
 ﻿---
 actions: '[three-actions]'
-cost: null
 element: Metal, Water
 feat: Rain of Rust
-frequency: null
 heighten_level: 4, 6, 8, 10, 12, 14, 16, 18, 20
 id: '4299'
 level: '4'
 name: Rain of Rust
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Composite|Composite]]'
 - '[[DATABASE/trait/Impulse|Impulse]]'
@@ -22,7 +15,6 @@ trait:
 - '[[DATABASE/trait/Metal|Metal]]'
 - '[[DATABASE/trait/Primal|Primal]]'
 - '[[DATABASE/trait/Water|Water]]'
-trigger: null
 type: Feat
 
 ---

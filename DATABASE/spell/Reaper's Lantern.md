@@ -1,31 +1,18 @@
 ﻿---
 actions: '[two-actions]'
 area: 5-foot emanation
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 1 minute
-element: null
-heighten: null
 heighten_level: '2'
 id: '710'
-lesson: null
 level: '2'
-mystery: null
 name: Reaper's Lantern
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Fortitude
 school: Necromancy
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-target: null
 tradition:
 - Divine
 - Occult
@@ -34,7 +21,6 @@ trait:
 - '[[DATABASE/trait/Death|Death]]'
 - '[[DATABASE/trait/Light|Light]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
-trigger: null
 type: Spell
 
 ---

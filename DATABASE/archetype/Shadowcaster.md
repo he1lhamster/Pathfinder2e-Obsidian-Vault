@@ -4,7 +4,6 @@ level: '2'
 name: Shadowcaster
 prerequisite: ability to cast spells
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

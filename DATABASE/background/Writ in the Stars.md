@@ -1,17 +1,7 @@
 ﻿---
-ability: null
-ability_boost: null
-feat: null
 id: '369'
 name: Writ in the Stars
-prerequisite: null
-rarity: null
-rus_type_level: null
-skill: null
 source: '[[DATABASE/source/Stolen Fate Player''s Guide|Stolen Fate Player''s Guide]]'
-subcategory: null
-trait: null
-type: null
 
 ---
 # Writ in the Stars<span class="item-type">Background</span>

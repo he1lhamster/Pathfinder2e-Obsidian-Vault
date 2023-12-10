@@ -1,20 +1,12 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Tempest-Sun Shielding
-frequency: null
-heighten_level: null
 id: '1113'
 level: '10'
 name: Tempest-Sun Shielding
 prerequisite: '[[DATABASE/feat/Tempest-Sun Redirection|Tempest-Sun Redirection]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 trigger: You or an ally within 30 feet takes damage.

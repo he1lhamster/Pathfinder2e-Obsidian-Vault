@@ -1,8 +1,6 @@
 ﻿---
 bulk: '1'
 damage: 1d6 P
-deity: null
-favored_weapon: null
 hands: '2'
 id: '139'
 item_category: Weapons
@@ -10,9 +8,7 @@ item_subcategory: Base Weapons
 level: '1'
 name: Combat Grapnel
 price: 9 sp
-range: null
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
 trait:
 - '[[DATABASE/trait/Finesse|Finesse]]'

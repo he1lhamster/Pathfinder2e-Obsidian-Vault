@@ -1,20 +1,14 @@
 ﻿---
 ac: '19'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-3'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Disgusting Demise
 - Piteous Moan
 creature_family: '[[DATABASE/monsterfamily/Fleshwarp|Fleshwarp]]'
 dexterity: '-2'
-element: null
-fly_speed: null
 fortitude: '+11'
-hardness: null
 hp: '50'
 id: '206'
 immunity:
@@ -22,16 +16,12 @@ immunity:
 - mental
 intelligence: '-5'
 land_speed: '20'
-language: null
 level: '3'
 max_speed: '20'
 name: Grothlut
 perception: '+5'
 rarity: Common
 reflex: '+5'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -40,12 +30,10 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 20 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Mindless|Mindless]]'
@@ -53,7 +41,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+7'
 wisdom: '+0'
 

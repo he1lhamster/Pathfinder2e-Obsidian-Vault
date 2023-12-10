@@ -3,9 +3,7 @@ creature_family: Demon
 id: '28'
 name: Demon
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
-trait: null
 type: Creature Family
 
 ---

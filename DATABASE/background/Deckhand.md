@@ -8,16 +8,13 @@ ability_boost:
 feat: '[[DATABASE/feat/Cat Fall|Cat Fall]]'
 id: '209'
 name: Deckhand
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]]'
 - Sailing [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Pathfinder Beginner Box. Hero''s Handbook|Pathfinder Beginner
   Box: Hero''s Handbook]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

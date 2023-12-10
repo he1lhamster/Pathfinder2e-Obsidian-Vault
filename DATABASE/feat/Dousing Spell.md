@@ -1,25 +1,17 @@
 ﻿---
 actions: '[one-action]'
-cost: null
 element: Water
 feat: Dousing Spell
-frequency: null
-heighten_level: null
-id: '4341'
+id: '2987'
 level: '4'
 name: Dousing Spell
 prerequisite: '[[DATABASE/feat/Elementalist Dedication|Elementalist Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
-source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
+source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-- '[[DATABASE/trait/Spellshape|Spellshape]]'
+- '[[DATABASE/trait/Metamagic|Metamagic]]'
 - '[[DATABASE/trait/Water|Water]]'
-trigger: null
 type: Feat
 
 ---

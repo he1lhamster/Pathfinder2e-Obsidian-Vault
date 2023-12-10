@@ -1,8 +1,6 @@
 ﻿---
 ac: '37'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+29'
 hardness: '24'
 hazard_type: Trap
@@ -16,9 +14,6 @@ level: '15'
 name: Auto-Turret
 rarity: Uncommon
 reflex: '+27'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 173. Doorway to the Red Star|Pathfinder #173:
   Doorway to the Red Star]]'
 trait:
@@ -27,8 +22,6 @@ trait:
 - '[[DATABASE/trait/Trap|Trap]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Auto-Turret<span class="item-type">Hazard 15</span>

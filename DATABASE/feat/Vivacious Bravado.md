@@ -1,23 +1,14 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Vivacious Bravado
-frequency: null
-heighten_level: null
 id: '1542'
 level: '8'
 name: Vivacious Bravado
-prerequisite: null
 rarity: Common
 requirement: You gained panache this turn.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Swashbuckler|Swashbuckler]]'
-trigger: null
 type: Feat
 
 ---

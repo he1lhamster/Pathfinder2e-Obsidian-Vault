@@ -1,8 +1,6 @@
 ﻿---
 ac: '45'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+33'
 hardness: '30'
 hazard_type: Trap
@@ -14,9 +12,6 @@ level: '20'
 name: Convergence Lattice
 rarity: Unique
 reflex: '+28'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 156. The Apocalypse Prophet|Pathfinder #156:
   The Apocalypse Prophet]]'
 trait:

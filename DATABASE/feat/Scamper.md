@@ -1,23 +1,14 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Scamper
-frequency: null
-heighten_level: null
 id: '1274'
 level: '1'
 name: Scamper
-prerequisite: null
 rarity: Common
 requirement: You are adjacent to at least one enemy.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Kobold|Kobold]]'
-trigger: null
 type: Feat
 
 ---

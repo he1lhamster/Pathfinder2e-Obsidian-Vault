@@ -1,20 +1,12 @@
 ﻿---
 ac: '17'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+3'
-creature_ability: null
-creature_family: null
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+11'
 hp: '35'
 id: '2533'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -25,9 +17,6 @@ name: Scorching Sun Cultist
 perception: '+9'
 rarity: Uncommon
 reflex: '+8'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +7'
@@ -37,21 +26,17 @@ skill:
 source: '[[DATABASE/source/The Enmity Cycle|The Enmity Cycle]]'
 speed:
 - 25 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+5'
 wisdom: '+1'
 

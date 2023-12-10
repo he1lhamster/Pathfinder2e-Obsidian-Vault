@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Phalanx Formation
-frequency: null
-heighten_level: null
 id: '3579'
 level: '8'
 name: Phalanx Formation
 prerequisite: '[[DATABASE/feat/Knight Vigilant|Knight Vigilant]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

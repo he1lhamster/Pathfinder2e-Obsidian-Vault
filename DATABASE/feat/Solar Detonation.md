@@ -1,20 +1,13 @@
 ﻿---
 actions: '[three-actions]'
-cost: null
 element: Fire
 feat: Solar Detonation
-frequency: null
 heighten_level: 8, 10, 12, 14, 16, 18, 20
 id: '4245'
 level: '8'
 name: Solar Detonation
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fire|Fire]]'
 - '[[DATABASE/trait/Impulse|Impulse]]'
@@ -23,7 +16,6 @@ trait:
 - '[[DATABASE/trait/Overflow|Overflow]]'
 - '[[DATABASE/trait/Primal|Primal]]'
 - '[[DATABASE/trait/Vitality|Vitality]]'
-trigger: null
 type: Feat
 
 ---

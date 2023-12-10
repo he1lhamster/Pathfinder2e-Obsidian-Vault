@@ -3,9 +3,7 @@ armor_group: Composite
 id: '2'
 name: Composite
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Armor Specialization
 
 ---

@@ -1,23 +1,16 @@
 ﻿---
 area: 1/2-mile-radius circle centered on you
-cost: null
 duration: 1 year
-element: null
-heighten: null
 heighten_level: '4'
 id: '18'
 level: '4'
 name: Plant Growth
 primary_check: '[[DATABASE/skill/Nature|Nature]] (expert)'
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Necromancy
 secondary_casters: '1'
 secondary_check: '[[DATABASE/skill/Lore|Farming Lore]] or [[DATABASE/skill/Survival|Survival]]'
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 trait:
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Plant|Plant]]'

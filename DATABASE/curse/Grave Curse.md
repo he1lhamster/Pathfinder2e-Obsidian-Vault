@@ -1,11 +1,7 @@
 ﻿---
-element: null
 id: '30'
-level: null
 name: Grave Curse
 rarity: Common
-rus_type_level: null
-saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
@@ -13,7 +9,6 @@ trait:
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 type: Curse
-usage: null
 
 ---
 # Grave Curse<span class="item-type">Curse Level Varies</span>

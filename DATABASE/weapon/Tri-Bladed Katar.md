@@ -1,8 +1,6 @@
 ﻿---
 bulk: L
 damage: 1d4 P
-deity: null
-favored_weapon: null
 hands: '1'
 id: '246'
 item_category: Weapons
@@ -10,9 +8,7 @@ item_subcategory: Base Weapons
 level: '0'
 name: Tri-Bladed Katar
 price: 8 sp
-range: null
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
 trait:
 - '[[DATABASE/trait/Disarm|Disarm]]'

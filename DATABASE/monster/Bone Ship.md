@@ -1,10 +1,7 @@
 ﻿---
 ac: '42'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+9'
 creature_ability:
 - Blood Wake
@@ -16,12 +13,8 @@ creature_ability:
 - Skeleton Crew
 - Trawl
 - for Bones
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+33'
-hardness: null
 hp: '415'
 id: '1082'
 immunity:
@@ -32,7 +25,6 @@ immunity:
 - skeleton crew
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '+1'
-land_speed: null
 language:
 - '[[DATABASE/language/Common|Common]]'
 - '[[DATABASE/language/Necril|Necril]] ; (can''t speak any language)'
@@ -48,8 +40,6 @@ resistance:
 - fire 10
 - piercing 10
 - slashing 10
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Gargantuan
@@ -60,7 +50,6 @@ skill:
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - swim 40 feet
-spell: null
 strength: '+9'
 strength_req: '9'
 strongest_save:
@@ -73,7 +62,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+30'
 wisdom: '+6'
 

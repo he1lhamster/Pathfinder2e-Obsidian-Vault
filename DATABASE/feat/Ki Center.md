@@ -1,23 +1,15 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Ki Center
 frequency: once per minute
-heighten_level: null
 id: '1759'
 level: '18'
 name: Ki Center
 prerequisite: ki spells; [[DATABASE/feat/Master of Many Styles|Master of Many Styles]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Monk|Monk]]'
-trigger: null
 type: Feat
 
 ---

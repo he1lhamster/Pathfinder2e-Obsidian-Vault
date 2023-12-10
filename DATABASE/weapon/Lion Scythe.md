@@ -1,8 +1,6 @@
 ﻿---
 bulk: L
 damage: 1d6 S
-deity: null
-favored_weapon: null
 hands: '1'
 id: '247'
 item_category: Weapons
@@ -10,9 +8,7 @@ item_subcategory: Base Weapons
 level: '0'
 name: Lion Scythe
 price: 1 gp
-range: null
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 172. Secrets of the Temple City|Pathfinder #172:
   Secrets of the Temple City]]'
 trait:

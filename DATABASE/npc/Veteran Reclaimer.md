@@ -1,10 +1,7 @@
 ﻿---
 ac: '29'
 alignment: CG
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Crimson Vengeance
@@ -13,12 +10,9 @@ creature_ability:
 - Weapon Mastery
 creature_family: '[[DATABASE/monsterfamily/Knights of Lastwall|Knights of Lastwall]]'
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+20'
 hp: '195'
 id: '970'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -30,8 +24,6 @@ name: Veteran Reclaimer
 perception: '+24'
 rarity: Common
 reflex: '+23'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
@@ -47,12 +39,10 @@ skill:
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 speed:
 - 25 feet; ignores the effects of non-magical difficult terrain
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -61,7 +51,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+19'
 wisdom: '+3'
 

@@ -1,10 +1,7 @@
 ﻿---
 ac: '24'
 alignment: NG
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Deafening Aria
@@ -12,13 +9,10 @@ creature_ability:
 - Harmonizing Aura
 creature_family: '[[DATABASE/monsterfamily/Angel|Angel]]'
 dexterity: '+4'
-element: null
 fly_speed: '40'
 fortitude: '+10'
-hardness: null
 hp: '100'
 id: '14'
-immunity: null
 intelligence: '+3'
 land_speed: '30'
 language:
@@ -33,8 +27,6 @@ rarity: Common
 reflex: '+14'
 resistance:
 - '[[DATABASE/trait/Sonic|sonic]] 5'
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Small
@@ -63,7 +55,6 @@ strength: '+1'
 strength_req: '1'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Angel|Angel]]'
 - '[[DATABASE/trait/Celestial|Celestial]]'

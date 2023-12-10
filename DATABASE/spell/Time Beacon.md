@@ -1,38 +1,23 @@
 ﻿---
 actions: '[one-action]'
-area: null
-bloodline: null
 component:
 - Material
-cost: null
 deity:
 - '[[DATABASE/deity/Shyka|Shyka]]'
 - '[[DATABASE/deity/Yog-Sothoth|Yog-Sothoth]]'
-domain: null
 duration: until the end of your turn
-element: null
-heighten: null
 heighten_level: '7'
 id: '592'
-lesson: null
 level: '7'
-mystery: null
 name: Time Beacon
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
-target: null
 tradition:
 - Arcane
 - Occult
 trait:
 - '[[DATABASE/trait/Divination|Divination]]'
-trigger: null
 type: Spell
 
 ---

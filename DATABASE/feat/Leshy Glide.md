@@ -1,24 +1,15 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Leshy Glide
-frequency: null
-heighten_level: null
 id: '1044'
 level: '5'
 name: Leshy Glide
 prerequisite: '[[DATABASE/heritage/Leaf Leshy|Leaf Leshy]] heritage or [[DATABASE/feat/Cat
   Fall|Cat Fall]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Leshy|Leshy]]'
-trigger: null
 type: Feat
 
 ---

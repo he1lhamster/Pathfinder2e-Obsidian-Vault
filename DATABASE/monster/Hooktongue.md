@@ -1,10 +1,7 @@
 ﻿---
 ac: '35'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Capsize
@@ -15,15 +12,10 @@ creature_ability:
 - Undetectable
 - Water
 - Travel
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+27'
-hardness: null
 hp: '275'
 id: '2239'
-immunity: null
 intelligence: '-3'
 land_speed: '20'
 language:
@@ -37,8 +29,6 @@ reflex: '+25'
 resistance:
 - '[[DATABASE/trait/Cold|cold]] 15'
 - '[[DATABASE/trait/Fire|fire]] 15'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Huge
@@ -49,7 +39,6 @@ source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 speed:
 - 20 feet
 - swim 50 feet
-spell: null
 strength: '+8'
 strength_req: '8'
 strongest_save:
@@ -63,7 +52,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+23'
 wisdom: '+5'
 

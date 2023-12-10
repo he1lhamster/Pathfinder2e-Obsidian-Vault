@@ -1,10 +1,7 @@
 ﻿---
 ac: '20'
 alignment: NG
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Attack of Opportunity
@@ -13,13 +10,9 @@ creature_ability:
 - Shield Push
 creature_family: '[[DATABASE/monsterfamily/Arboreal|Arboreal]]'
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+13'
-hardness: null
 hp: '75'
 id: '27'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -35,8 +28,6 @@ reflex: '+9'
 resistance:
 - bludgeoning 5
 - piercing 5
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 size: Large
@@ -46,12 +37,10 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 25 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Plant|Plant]]'
 type: Creature

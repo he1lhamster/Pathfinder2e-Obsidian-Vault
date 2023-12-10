@@ -3,9 +3,7 @@ creature_family: Vampire, Jiang-Shi
 id: '286'
 name: Vampire, Jiang-Shi
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-trait: null
 type: Creature Family
 
 ---

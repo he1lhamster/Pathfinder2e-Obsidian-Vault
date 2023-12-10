@@ -1,8 +1,6 @@
 ﻿---
 ac: '25'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-4'
 climb_speed: '15'
 constitution: '+7'
@@ -11,18 +9,12 @@ creature_ability:
 - Mucus
 - Mucus Trail
 - Trample
-creature_family: null
 dexterity: '-1'
-element: null
-fly_speed: null
 fortitude: '+21'
-hardness: null
 hp: '165'
 id: '806'
-immunity: null
 intelligence: '-5'
 land_speed: '20'
-language: null
 level: '8'
 max_speed: '20'
 name: Slug
@@ -31,8 +23,6 @@ rarity: Common
 reflex: '+11'
 resistance:
 - acid 10
-rus_type_level: null
-school: null
 sense:
 - no hearing
 - '[[DATABASE/monsterability/Scent|scent (imprecise) 60 feet]]'
@@ -43,16 +33,13 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 20 feet
 - climb 15 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
 weakness:

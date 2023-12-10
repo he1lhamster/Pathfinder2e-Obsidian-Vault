@@ -1,20 +1,15 @@
 ﻿---
 ac: '19'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Pyrexic Malaria
 - Swarming Bites
 creature_family: '[[DATABASE/monsterfamily/Mosquito|Mosquito]]'
 dexterity: '+4'
-element: null
 fly_speed: '25'
 fortitude: '+8'
-hardness: null
 hp: '25'
 id: '732'
 immunity:
@@ -22,7 +17,6 @@ immunity:
 - '[[DATABASE/monsterability/Swarm Mind|swarm mind]]'
 intelligence: '-5'
 land_speed: '5'
-language: null
 level: '3'
 max_speed: '25'
 name: Fen Mosquito Swarm
@@ -33,8 +27,6 @@ resistance:
 - bludgeoning 2
 - piercing 5
 - slashing 5
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -45,12 +37,10 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 5 feet
 - fly 25 feet
-spell: null
 strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 - '[[DATABASE/trait/Swarm|Swarm]]'

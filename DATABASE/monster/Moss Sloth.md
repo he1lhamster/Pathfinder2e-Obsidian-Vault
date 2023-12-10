@@ -1,8 +1,5 @@
 ﻿---
 ac: '18'
-alignment: null
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
 climb_speed: '15'
 constitution: '+4'
@@ -12,9 +9,7 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Elemental, Wood|Elemental, Wood]]'
 dexterity: '+0'
 element: Wood
-fly_speed: null
 fortitude: '+9'
-hardness: null
 hp: '40'
 id: '2671'
 immunity:
@@ -24,7 +19,6 @@ immunity:
 - '[[DATABASE/trait/Sleep|sleep]]'
 intelligence: '-4'
 land_speed: '10'
-language: null
 level: '2'
 max_speed: '15'
 name: Moss Sloth
@@ -33,9 +27,6 @@ rarity: Common
 reflex: '+3'
 resistance:
 - bludgeoning 5
-rus_type_level: null
-school: null
-sense: null
 size: Small
 skill:
 - '[[DATABASE/skill/Nature|Nature]] +7'
@@ -44,18 +35,15 @@ source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 speed:
 - 10 feet
 - climb 15 feet; hold fast
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Elemental|Elemental]]'
 - '[[DATABASE/trait/Plant|Plant]]'
 - '[[DATABASE/trait/Wood|Wood]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
 weakness:

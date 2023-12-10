@@ -1,24 +1,18 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Mind Smith Dedication
-frequency: null
-heighten_level: null
 id: '3862'
+leads_to: '[[DATABASE/feat/Ghost Blade|Ghost Blade]] , [[DATABASE/feat/Just the Tool|Just
+  the Tool]] , [[DATABASE/feat/Malleable Movement|Malleable Movement]] , [[DATABASE/feat/Mental
+  Forge|Mental Forge]] , [[DATABASE/feat/Metallic Envisionment|Metallic Envisionment]]
+  , [[DATABASE/feat/Mind Projectiles|Mind Projectiles]] , [[DATABASE/feat/Mind Shards|Mind
+  Shards]] , [[DATABASE/feat/Runic Mind Smithing|Runic Mind Smithing]]'
 level: '2'
 name: Mind Smith Dedication
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
-trigger: null
 type: Feat
 
 ---

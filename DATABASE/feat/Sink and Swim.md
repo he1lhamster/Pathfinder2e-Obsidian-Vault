@@ -1,26 +1,17 @@
 ﻿---
-actions: null
-cost: null
 element: Water
 feat: Sink and Swim
-frequency: null
-heighten_level: null
 id: '3758'
 level: '14'
 name: Sink and Swim
 prerequisite: You've been brought to 0 Hit Points by an enemy that has the [[DATABASE/trait/Water|water]]
   trait or an enemy's ability that has the water trait.
 rarity: Rare
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Aftermath|Aftermath]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Water|Water]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,10 +1,7 @@
 ﻿---
 ac: '18'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Giant Toad Poison
@@ -14,16 +11,11 @@ creature_ability:
 - Tongue Grab
 creature_family: '[[DATABASE/monsterfamily/Mana Wastes Mutant|Mana Wastes Mutant]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+10'
-hardness: null
 hp: '44'
 id: '1951'
-immunity: null
 intelligence: '-4'
 land_speed: '25'
-language: null
 level: '3'
 max_speed: '25'
 name: Mutant Giant Toad
@@ -32,8 +24,6 @@ rarity: Rare
 reflex: '+9'
 resistance:
 - acid 5
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -45,12 +35,10 @@ source: '[[DATABASE/source/Pathfinder 179. Cradle of Quartz|Pathfinder #179: Cra
   of Quartz]]'
 speed:
 - 25 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 - '[[DATABASE/trait/Mutant|Mutant]]'
@@ -59,7 +47,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+7'
 wisdom: '+3'
 

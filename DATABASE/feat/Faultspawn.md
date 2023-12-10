@@ -1,24 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Faultspawn
-frequency: null
-heighten_level: null
 id: '3937'
+leads_to: '[[DATABASE/feat/Asura Magic|Asura Magic]] , [[DATABASE/feat/Dominion Aura|Dominion
+  Aura]] , [[DATABASE/feat/Towering Presence|Towering Presence]]'
 level: '1'
 name: Faultspawn
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Lineage|Lineage]]'
 - '[[DATABASE/trait/Tiefling|Tiefling]]'
-trigger: null
 type: Feat
 
 ---

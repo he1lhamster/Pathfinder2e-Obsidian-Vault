@@ -1,20 +1,12 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Mage Hunter
-frequency: null
-heighten_level: null
 id: '1610'
 level: '6'
 name: Mage Hunter
 prerequisite: '[[DATABASE/barbarianinstinct/Superstition Instinct|superstition instinct]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Barbarian|Barbarian]]'
 - '[[DATABASE/trait/Rage|Rage]]'

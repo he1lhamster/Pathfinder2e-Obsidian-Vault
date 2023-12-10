@@ -1,10 +1,7 @@
 ﻿---
 ac: '23'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Blinding Sulfur
@@ -13,9 +10,7 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Zombie|Zombie]]'
 dexterity: '+2'
 element: Fire
-fly_speed: null
 fortitude: '+16'
-hardness: null
 hp: 125 ( negative healing )
 id: '1377'
 immunity:
@@ -28,16 +23,12 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '30'
-language: null
 level: '6'
 max_speed: '30'
 name: Sulfur Zombie
 perception: '+12'
 rarity: Common
 reflex: '+12'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -47,12 +38,10 @@ skill:
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 30 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fire|Fire]]'
 - '[[DATABASE/trait/Mindless|Mindless]]'

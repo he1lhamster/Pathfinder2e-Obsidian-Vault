@@ -1,11 +1,8 @@
 ﻿---
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+1'
 dexterity: '+2'
 element: Fire
-fly_speed: null
 hp: '4'
 id: '62'
 intelligence: '-4'
@@ -13,7 +10,6 @@ land_speed: '25'
 max_speed: '25'
 name: Fire Elemental
 rarity: Uncommon
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -24,7 +20,6 @@ speed:
 - 25 feet
 strength: '+2'
 strength_req: '2'
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fire|Fire]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

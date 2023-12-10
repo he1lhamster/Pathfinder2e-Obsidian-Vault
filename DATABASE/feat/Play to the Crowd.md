@@ -1,20 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Play to the Crowd
-frequency: null
-heighten_level: null
 id: '1978'
+leads_to: '[[DATABASE/feat/Call Your Shot|Call Your Shot]]'
 level: '4'
 name: Play to the Crowd
 prerequisite: '[[DATABASE/feat/Gladiator Dedication|Gladiator Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'

@@ -1,23 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Orc Warmask
-frequency: null
-heighten_level: null
 id: '2415'
+leads_to: '[[DATABASE/feat/Mask of Fear|Mask of Fear]] , [[DATABASE/feat/Mask of Pain|Mask
+  of Pain]] , [[DATABASE/feat/Mask of Power|Mask of Power]] , [[DATABASE/feat/Mask
+  of Rejection|Mask of Rejection]]'
 level: '1'
 name: Orc Warmask
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Orc|Orc]]'
-trigger: null
 type: Feat
 
 ---

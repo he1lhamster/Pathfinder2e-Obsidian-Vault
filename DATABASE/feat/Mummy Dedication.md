@@ -1,25 +1,21 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Mummy Dedication
-frequency: null
-heighten_level: null
 id: '3520'
+leads_to: '[[DATABASE/feat/Accursed Touch|Accursed Touch]] , [[DATABASE/feat/Desiccating
+  Inhalation|Desiccating Inhalation]] , [[DATABASE/feat/Ensnaring Wrappings|Ensnaring
+  Wrappings]] , [[DATABASE/feat/Grave Mummification|Grave Mummification]] , [[DATABASE/feat/Mummy''s
+  Despair|Mummy''s Despair]] , [[DATABASE/feat/One with the Land|One with the Land]]
+  , [[DATABASE/feat/Semblance of Life|Semblance of Life]] , [[DATABASE/feat/Storm
+  Shroud|Storm Shroud]] , [[DATABASE/feat/Terrain Form|Terrain Form]]'
 level: '2'
 name: Mummy Dedication
 prerequisite: you are dead and were mummified (by natural or ritualistic means)
 rarity: Rare
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,25 +1,17 @@
 ﻿---
 ac: '27'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Believe the Lie
 - Change Shape
 - Flailing Thrash
 - Unnatural Leap
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+19'
-hardness: null
 hp: '197'
 id: '1338'
-immunity: null
 intelligence: '-1'
 land_speed: '30'
 language:
@@ -31,9 +23,6 @@ name: Tikbalang
 perception: '+16'
 rarity: Uncommon
 reflex: '+17'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Large
@@ -54,7 +43,6 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Amphibious|Amphibious]]'
 - '[[DATABASE/trait/Beast|Beast]]'

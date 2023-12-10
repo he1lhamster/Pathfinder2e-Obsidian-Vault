@@ -1,10 +1,7 @@
 ﻿---
 ac: '21'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Ferocity
@@ -12,13 +9,9 @@ creature_ability:
 - Swipe
 creature_family: '[[DATABASE/monsterfamily/Cyclops|Cyclops]]'
 dexterity: '-1'
-element: null
-fly_speed: null
 fortitude: '+13'
-hardness: null
 hp: '80'
 id: '86'
-immunity: null
 intelligence: '+0'
 land_speed: '30'
 language:
@@ -31,9 +24,6 @@ name: Cyclops
 perception: '+12'
 rarity: Uncommon
 reflex: '+8'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 size: Large
@@ -45,12 +35,10 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 30 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Giant|Giant]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -59,7 +47,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Reflex
-weakness: null
 will: '+12'
 wisdom: '+3'
 

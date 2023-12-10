@@ -1,8 +1,6 @@
 ﻿---
 ac: '21'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+12'
 hardness: '11'
 hazard_type: Environmental
@@ -16,9 +14,6 @@ level: '4'
 name: Catacomb Cave
 rarity: Common
 reflex: '+8'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 151. The Show Must Go On|Pathfinder #151: The
   Show Must Go On]]'
 trait:
@@ -27,7 +22,6 @@ trait:
 type: Hazard
 weakness:
 - '[[DATABASE/trait/Sonic|sonic]] 10'
-will: null
 
 ---
 # Catacomb Cave<span class="item-type">Hazard 4</span>

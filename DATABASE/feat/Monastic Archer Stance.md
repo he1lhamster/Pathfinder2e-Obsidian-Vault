@@ -1,26 +1,19 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Monastic Archer Stance
-frequency: null
-heighten_level: null
 id: '1734'
+leads_to: '[[DATABASE/feat/Focused Shot|Focused Shot]] , [[DATABASE/feat/Return Fire|Return
+  Fire]] , [[DATABASE/feat/Triangle Shot|Triangle Shot]]'
 level: '1'
 name: Monastic Archer Stance
-prerequisite: null
 rarity: Common
 requirement: You are unarmored and wielding a [[DATABASE/weapon/Longbow|longbow]]
   , [[DATABASE/weapon/Shortbow|shortbow]] , or a bow with the [[DATABASE/trait/Monk|monk]]
   trait.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Monk|Monk]]'
 - '[[DATABASE/trait/Stance|Stance]]'
-trigger: null
 type: Feat
 
 ---

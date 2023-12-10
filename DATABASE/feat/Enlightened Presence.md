@@ -1,26 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Enlightened Presence
-frequency: null
-heighten_level: null
 id: '479'
 level: '16'
 name: Enlightened Presence
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Aura|Aura]]'
 - '[[DATABASE/trait/Emotion|Emotion]]'
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Monk|Monk]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,22 +1,15 @@
 ﻿---
 ac: '35'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+7'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Counterspell
 - Frightful Presence
 - Rejuvenation
 - Steady Spellcasting
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+22'
-hardness: null
 hp: 195 ( negative healing , rejuvenation)
 id: '1570'
 immunity:
@@ -43,8 +36,6 @@ reflex: '+24'
 resistance:
 - '[[DATABASE/trait/Cold|cold]] 10'
 - physical 10 (except magic bludgeoning)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -92,7 +83,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Undead|Undead]]'
 - '[[DATABASE/trait/Unique|Unique]]'
@@ -100,7 +90,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+28'
 wisdom: '+5'
 

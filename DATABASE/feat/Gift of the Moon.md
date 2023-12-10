@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Gift of the Moon
-frequency: null
-heighten_level: null
 id: '2497'
 level: '13'
 name: Gift of the Moon
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Beastkin|Beastkin]]'
-trigger: null
 type: Feat
 
 ---

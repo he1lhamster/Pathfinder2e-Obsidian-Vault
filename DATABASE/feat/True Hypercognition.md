@@ -1,23 +1,14 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: True Hypercognition
-frequency: null
-heighten_level: null
 id: '205'
 level: '14'
 name: True Hypercognition
 prerequisite: '[[DATABASE/bardmuse/Enigma|enigma muse]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Bard|Bard]]'
-trigger: null
 type: Feat
 
 ---

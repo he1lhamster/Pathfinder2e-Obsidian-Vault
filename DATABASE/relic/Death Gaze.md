@@ -1,11 +1,8 @@
 ﻿---
-element: null
 id: '19'
 item_category: Relics
 name: Death Gaze
-prerequisite: null
 rarity: Common
-rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:

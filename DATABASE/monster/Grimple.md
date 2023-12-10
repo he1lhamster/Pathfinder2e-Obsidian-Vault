@@ -1,8 +1,6 @@
 ﻿---
 ac: '15'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
 climb_speed: '20'
 constitution: '+3'
@@ -11,13 +9,10 @@ creature_ability:
 - Putrid Vomit
 creature_family: '[[DATABASE/monsterfamily/Gremlin|Gremlin]]'
 dexterity: '+3'
-element: null
 fly_speed: '20'
 fortitude: '+5'
-hardness: null
 hp: '9'
 id: '1177'
-immunity: null
 intelligence: '+1'
 land_speed: '10'
 language:
@@ -28,9 +23,6 @@ name: Grimple
 perception: '+6'
 rarity: Common
 reflex: '+7'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Tiny
@@ -53,7 +45,6 @@ strength: '+1'
 strength_req: '1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Gremlin|Gremlin]]'

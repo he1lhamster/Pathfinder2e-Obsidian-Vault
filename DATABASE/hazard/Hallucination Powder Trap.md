@@ -1,8 +1,6 @@
 ﻿---
 ac: '24'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+0'
 hardness: '0'
 hazard_type: Trap
@@ -16,16 +14,11 @@ level: '6'
 name: Hallucination Powder Trap
 rarity: Common
 reflex: '+0'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Mechanical|Mechanical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Hallucination Powder Trap<span class="item-type">Hazard 6</span>

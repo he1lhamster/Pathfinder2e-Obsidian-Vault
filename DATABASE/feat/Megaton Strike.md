@@ -1,25 +1,17 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Megaton Strike
-frequency: null
-heighten_level: null
 id: '3059'
+leads_to: '[[DATABASE/feat/Gigaton Strike|Gigaton Strike]]'
 level: '4'
 name: Megaton Strike
 prerequisite: '[[DATABASE/inventorinnovation/Armor Innovation|armor]] , [[DATABASE/inventorinnovation/Construct
   Innovation|construct]] , or [[DATABASE/inventorinnovation/Weapon Innovation|weapon]]
   innovation'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Inventor|Inventor]]'
-trigger: null
 type: Feat
 
 ---

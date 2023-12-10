@@ -1,11 +1,9 @@
 ﻿---
 actions: '[two-actions]'
-area: null
 bloodline: '[[DATABASE/sorcererbloodline/Wyrmblessed|Wyrmblessed]]'
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Arshea|Arshea]]'
 - '[[DATABASE/deity/Arshea|Arshea]]'
@@ -17,32 +15,22 @@ deity:
 - '[[DATABASE/deity/Valmallos|Valmallos]]'
 - '[[DATABASE/deity/Vineshvakhi|Vineshvakhi]]'
 - '[[DATABASE/deity/Wadjet|Wadjet]]'
-domain: null
 duration: until the next time you make your daily preparations
-element: null
 heighten: 4th, 6th, 8th, 10th
 heighten_level: 1, 4, 6, 8, 10
 id: '176'
 lesson: '[[DATABASE/witchlesson/Lesson of Protection|Lesson of Protection]]'
 level: '1'
-mystery: null
 name: Mage Armor
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Arcane
 - Occult
 - Elemental
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
-trigger: null
 type: Spell
 
 ---

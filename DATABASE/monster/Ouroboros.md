@@ -1,10 +1,7 @@
 ﻿---
 ac: '45'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+8'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Attack of Opportunity
@@ -16,12 +13,9 @@ creature_ability:
 - Spray
 - Swallow Whole
 - Unfathomable Infinity
-creature_family: null
 dexterity: '+5'
-element: null
 fly_speed: '100'
 fortitude: '+38'
-hardness: null
 hp: '500'
 id: '1256'
 immunity:
@@ -41,9 +35,6 @@ name: Ouroboros
 perception: '+33'
 rarity: Rare
 reflex: '+34'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Gargantuan
@@ -54,12 +45,10 @@ source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 100 feet
 - fly 100 feet
-spell: null
 strength: '+10'
 strength_req: '10'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Astral|Astral]]'
 - '[[DATABASE/trait/Beast|Beast]]'

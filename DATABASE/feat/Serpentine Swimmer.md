@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Serpentine Swimmer
-frequency: null
-heighten_level: null
 id: '3994'
 level: '9'
 name: Serpentine Swimmer
 prerequisite: '[[DATABASE/feat/Water Nagaji|Water Nagaji]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Nagaji|Nagaji]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,20 +1,15 @@
 ﻿---
 ac: '16'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Sickening Display
 - Tangle Spores
 creature_family: '[[DATABASE/monsterfamily/Qlippoth|Qlippoth]]'
 dexterity: '+3'
-element: null
 fly_speed: '40'
 fortitude: '+9'
-hardness: null
 hp: '14'
 id: '772'
 immunity:
@@ -34,8 +29,6 @@ reflex: '+6'
 resistance:
 - mental 3
 - physical 3 (except cold iron)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Tiny
@@ -58,7 +51,6 @@ strength: '+1'
 strength_req: '1'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fiend|Fiend]]'
 - '[[DATABASE/trait/Qlippoth|Qlippoth]]'

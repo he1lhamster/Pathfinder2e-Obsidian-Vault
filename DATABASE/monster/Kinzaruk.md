@@ -1,10 +1,6 @@
 ﻿---
 ac: '19'
-alignment: null
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Fold Form
@@ -13,7 +9,6 @@ dexterity: '+4'
 element: Metal
 fly_speed: '10'
 fortitude: '+8'
-hardness: null
 hp: '45'
 id: '2646'
 immunity:
@@ -34,8 +29,6 @@ rarity: Common
 reflex: '+11'
 resistance:
 - '[[DATABASE/trait/Electricity|electricity]] 5'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -46,12 +39,10 @@ skill:
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 speed:
 - fly 10 feet (can't ascend more than 5 feet off the ground)
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Elemental|Elemental]]'
 - '[[DATABASE/trait/Metal|Metal]]'
@@ -59,7 +50,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+7'
 wisdom: '+0'
 

@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Soaring Dynamo
-frequency: null
-heighten_level: null
 id: '3133'
 level: '18'
 name: Soaring Dynamo
 prerequisite: '[[DATABASE/feat/Sterling Dynamo Dedication|Sterling Dynamo Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

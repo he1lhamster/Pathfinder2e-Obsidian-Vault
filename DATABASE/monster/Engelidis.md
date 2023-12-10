@@ -1,23 +1,15 @@
 ﻿---
 ac: '40'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+9'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Coven
 - Spirit Naga Venom
-creature_family: null
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+25'
-hardness: null
 hp: '290'
 id: '2335'
-immunity: null
 intelligence: '+5'
 land_speed: '25'
 language:
@@ -29,9 +21,6 @@ name: Engelidis
 perception: '+28'
 rarity: Unique
 reflex: '+30'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Large
@@ -85,7 +74,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+28'
 wisdom: '+6'
 

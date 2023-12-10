@@ -1,8 +1,6 @@
 ﻿---
 ac: '22'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
 climb_speed: '25'
 constitution: '+1'
@@ -11,10 +9,7 @@ creature_ability:
 - Sneak Attack
 creature_family: '[[DATABASE/monsterfamily/Vampire|Vampire]]'
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+9'
-hardness: null
 hp: 40 (coffin restoration, fast healing 5, negative healing )
 id: '399'
 immunity:
@@ -35,8 +30,6 @@ rarity: Common
 reflex: '+13'
 resistance:
 - physical 5 (except silver)
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -50,12 +43,10 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 25 feet
 - climb 25 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Undead|Undead]]'
 - '[[DATABASE/trait/Vampire|Vampire]]'

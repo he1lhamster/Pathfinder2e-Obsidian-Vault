@@ -1,10 +1,7 @@
 ﻿---
 ac: '44'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Breath Weapon
@@ -21,10 +18,8 @@ creature_ability:
 - Woodland Stride
 creature_family: '[[DATABASE/monsterfamily/Dragon, Forest|Dragon, Forest]]'
 dexterity: '+4'
-element: null
 fly_speed: '160'
 fortitude: '+32'
-hardness: null
 hp: '410'
 id: '1124'
 immunity:
@@ -45,9 +40,6 @@ name: Ancient Forest Dragon
 perception: '+33'
 rarity: Rare
 reflex: '+29'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 60 feet'
@@ -75,7 +67,6 @@ strength: '+9'
 strength_req: '9'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dragon|Dragon]]'
 - '[[DATABASE/trait/Plant|Plant]]'

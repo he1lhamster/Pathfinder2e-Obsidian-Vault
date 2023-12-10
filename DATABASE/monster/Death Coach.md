@@ -2,21 +2,16 @@
 ac: '35'
 alignment: NE
 all_resistance: '10'
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Aura of Doom
 - Collect Soul
 - Soulbound Gallop
 - Trample
-creature_family: null
 dexterity: '+8'
-element: null
 fly_speed: '60'
 fortitude: '+22'
-hardness: null
 hp: 228 ( negative healing )
 id: '1852'
 immunity:
@@ -44,8 +39,6 @@ resistance:
 - '[[DATABASE/equipment/Ghost Touch|ghost touch]]'
 - or [[DATABASE/trait/Positive|positive]] ; double resistance vs. non- [[DATABASE/trait/Magical|magical]]
   )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Lifesense|lifesense]] 60 feet'
@@ -69,7 +62,6 @@ strength: '-5'
 strength_req: '-5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Incorporeal|Incorporeal]]'
 - '[[DATABASE/trait/Spirit|Spirit]]'
@@ -79,7 +71,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+24'
 wisdom: '+4'
 

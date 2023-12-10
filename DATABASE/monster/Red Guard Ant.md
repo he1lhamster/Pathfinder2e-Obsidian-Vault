@@ -1,8 +1,6 @@
 ﻿---
 ac: '37'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
 climb_speed: '20'
 constitution: '+6'
@@ -15,13 +13,9 @@ creature_ability:
 - Swarming Flank
 creature_family: '[[DATABASE/monsterfamily/Gigantic Ant|Gigantic Ant]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+29'
-hardness: null
 hp: '275'
 id: '1836'
-immunity: null
 intelligence: '-2'
 land_speed: '40'
 language:
@@ -32,9 +26,6 @@ name: Red Guard Ant
 perception: '+27'
 rarity: Rare
 reflex: '+23'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 60 feet'
@@ -48,12 +39,10 @@ source: '[[DATABASE/source/Pathfinder 174. Shadows of the Ancients|Pathfinder #1
 speed:
 - 40 feet
 - climb 20 feet
-spell: null
 strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Rare|Rare]]'
@@ -61,7 +50,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+26'
 wisdom: '+6'
 

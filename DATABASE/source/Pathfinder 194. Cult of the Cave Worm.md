@@ -2,9 +2,6 @@
 id: '209'
 name: Pathfinder 194. Cult of the Cave Worm
 rarity: Common
-rus_type_level: null
-source: null
-trait: null
 type: Source
 
 ---

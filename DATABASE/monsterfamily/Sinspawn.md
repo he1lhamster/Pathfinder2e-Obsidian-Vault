@@ -3,9 +3,7 @@ creature_family: Sinspawn
 id: '91'
 name: Sinspawn
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
-trait: null
 type: Creature Family
 
 ---

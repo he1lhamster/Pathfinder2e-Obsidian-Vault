@@ -1,35 +1,24 @@
 ﻿---
 ac: '22'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Mauler
 - Sneak Attack
 creature_family: '[[DATABASE/monsterfamily/Bear|Bear]]'
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+14'
-hardness: null
 hp: '73'
 id: '567'
-immunity: null
 intelligence: '-4'
 land_speed: '35'
-language: null
 level: '5'
 max_speed: '35'
 name: Polar Bear
 perception: '+12'
 rarity: Common
 reflex: '+10'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Scent|scent (imprecise) 60 feet]]'
@@ -42,7 +31,6 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 35 feet
 - swim 15 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
@@ -55,7 +43,6 @@ vision: Low-light vision
 weakest_save:
 - Reflex
 - Will
-weakness: null
 will: '+10'
 wisdom: '+1'
 

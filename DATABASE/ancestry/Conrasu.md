@@ -18,7 +18,6 @@ language:
 max_speed: '25'
 name: Conrasu
 rarity: Rare
-rus_type_level: null
 size: Medium
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
 speed:
@@ -29,7 +28,6 @@ trait:
 - '[[DATABASE/trait/Plant|Plant]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Ancestry
-vision: null
 
 ---
 # Conrasu

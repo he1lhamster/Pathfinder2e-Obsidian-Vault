@@ -1,21 +1,10 @@
 ﻿---
-ac: null
-all_resistance: null
 complexity: Complex
-element: null
-fortitude: null
-hardness: null
 hazard_type: Haunt
-hp: null
 id: '416'
-immunity: null
 level: '3'
 name: Grasping Currents
 rarity: Unique
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 196. The Summer That Never Was|Pathfinder #196:
   The Summer That Never Was]]'
 trait:
@@ -23,8 +12,6 @@ trait:
 - '[[DATABASE/trait/Haunt|Haunt]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Grasping Currents<span class="item-type">Hazard 3</span>

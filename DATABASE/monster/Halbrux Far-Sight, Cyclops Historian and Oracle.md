@@ -1,10 +1,7 @@
 ﻿---
 ac: '30'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Curse of Torrential Knowledge
@@ -14,15 +11,10 @@ creature_ability:
 - Resolve
 - ''
 - Steady Spellcasting
-creature_family: null
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+23'
-hardness: null
 hp: '195'
 id: '1693'
-immunity: null
 intelligence: '+7'
 land_speed: '30'
 language:
@@ -35,9 +27,6 @@ name: Halbrux Far-Sight
 perception: '+21'
 rarity: Unique
 reflex: '+17'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Large
@@ -90,7 +79,6 @@ strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Giant|Giant]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -99,7 +87,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Reflex
-weakness: null
 will: '+21'
 wisdom: '+2'
 

@@ -1,24 +1,15 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Reckless Abandon (Goblin)
 frequency: once per day
-heighten_level: null
 id: '1429'
 level: '17'
 name: Reckless Abandon (Goblin)
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fortune|Fortune]]'
 - '[[DATABASE/trait/Goblin|Goblin]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,14 +1,9 @@
 ﻿---
 ability_type: Specific Familiar - Crawling Hand
-actions: null
-frequency: null
 id: '79'
 name: Undead
 rarity: Common
-requirement: null
-rus_type_level: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-trait: null
 type: Familiar Ability
 
 ---

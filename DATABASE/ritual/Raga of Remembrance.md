@@ -1,19 +1,13 @@
 ﻿---
-area: null
 cost: ceramics, incense, and pigments worth 100,000 gp
 duration: 7 hours
-element: null
-heighten: null
 heighten_level: '10'
 id: '72'
 level: '10'
 name: Raga of Remembrance
 primary_check: '[[DATABASE/skill/Occultism|Occultism]] or [[DATABASE/skill/Religion|Religion]]
   (legendary)'
-range: null
 rarity: Unique
-requirement: null
-rus_type_level: null
 school: Necromancy
 secondary_casters: '3'
 secondary_check: '[[DATABASE/skill/Diplomacy|Diplomacy]] or [[DATABASE/skill/Performance|Performance]]

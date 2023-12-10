@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Improved Reflexive Shield
-frequency: null
-heighten_level: null
 id: '423'
 level: '16'
 name: Improved Reflexive Shield
 prerequisite: '[[DATABASE/feat/Reflexive Shield|Reflexive Shield]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fighter|Fighter]]'
-trigger: null
 type: Feat
 
 ---

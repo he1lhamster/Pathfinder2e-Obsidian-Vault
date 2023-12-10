@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Fully Flighted
-frequency: null
-heighten_level: null
 id: '2657'
 level: '13'
 name: Fully Flighted
 prerequisite: '[[DATABASE/feat/Juvenile Flight|Juvenile Flight]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Strix|Strix]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Come at Me!
-frequency: null
-heighten_level: null
 id: '3198'
 level: '14'
 name: Come at Me!
 prerequisite: '[[DATABASE/feat/Pistolero''s Challenge|Pistolero''s Challenge]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Gunslinger|Gunslinger]]'
-trigger: null
 type: Feat
 
 ---

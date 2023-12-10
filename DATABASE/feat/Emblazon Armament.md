@@ -1,24 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Emblazon Armament
-frequency: null
-heighten_level: null
 id: '272'
+leads_to: '[[DATABASE/feat/Emblazon Antimagic|Emblazon Antimagic]] , [[DATABASE/feat/Emblazon
+  Divinity|Emblazon Divinity]] , [[DATABASE/feat/Emblazon Energy|Emblazon Energy]]'
 level: '2'
 name: Emblazon Armament
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Cleric|Cleric]]'
 - '[[DATABASE/trait/Exploration|Exploration]]'
-trigger: null
 type: Feat
 
 ---

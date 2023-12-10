@@ -1,23 +1,15 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Universal Longevity
 frequency: once per day
-heighten_level: null
 id: '23'
 level: '13'
 name: Universal Longevity
 prerequisite: '[[DATABASE/feat/Expert Longevity|Expert Longevity]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Elf|Elf]]'
-trigger: null
 type: Feat
 
 ---

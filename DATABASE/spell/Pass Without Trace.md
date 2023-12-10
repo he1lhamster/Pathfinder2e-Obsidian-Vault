@@ -1,40 +1,26 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Kalekot|Kalekot]]'
 - '[[DATABASE/deity/Ketephys|Ketephys]]'
 - '[[DATABASE/deity/Ng|Ng]]'
 - '[[DATABASE/deity/Tanagaar|Tanagaar]]'
-domain: null
 duration: 1 hour
-element: null
 heighten: 2nd, 4th
 heighten_level: 1, 2, 4
 id: '215'
-lesson: null
 level: '1'
-mystery: null
 name: Pass Without Trace
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Primal
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
-trigger: null
 type: Spell
 
 ---

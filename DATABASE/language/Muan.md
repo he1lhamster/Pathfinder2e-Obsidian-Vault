@@ -2,7 +2,6 @@
 id: '108'
 name: Muan
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

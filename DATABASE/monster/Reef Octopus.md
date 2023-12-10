@@ -1,10 +1,7 @@
 ﻿---
 ac: '17'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Camouflage
@@ -14,16 +11,11 @@ creature_ability:
 - Writhing Arms
 creature_family: '[[DATABASE/monsterfamily/Octopus|Octopus]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+6'
-hardness: null
 hp: '20'
 id: '745'
-immunity: null
 intelligence: '-4'
 land_speed: '10'
-language: null
 level: '1'
 max_speed: '30'
 name: Reef Octopus
@@ -32,8 +24,6 @@ rarity: Common
 reflex: '+9'
 resistance:
 - cold 3
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Small
@@ -44,7 +34,6 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 10 feet
 - swim 30 feet
-spell: null
 strength: '+1'
 strength_req: '1'
 strongest_save:
@@ -57,7 +46,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+7'
 wisdom: '+1'
 

@@ -1,24 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Incredible Reanimated Companion
-frequency: null
-heighten_level: null
 id: '3649'
+leads_to: '[[DATABASE/feat/Paragon Reanimated Companion|Paragon Reanimated Companion]]'
 level: '8'
 name: Incredible Reanimated Companion
 prerequisite: '[[DATABASE/feat/Advanced Reanimated Companion|Advanced Reanimated Companion]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 180. The Smoking Gun|Pathfinder #180: The Smoking
   Gun]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,39 +1,24 @@
 ﻿---
 actions: '[three-actions]'
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: until the next time you Refocus
-element: null
-heighten: null
 heighten_level: '4'
 id: '1179'
-lesson: null
 level: '4'
-mystery: null
 name: Wordsmith
-patron_theme: null
 range: touch
 rarity: Rare
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 target: 1 document written by a single author and comprised of written text in a single
   language
-tradition: null
 trait:
 - '[[DATABASE/trait/Cleric|Cleric]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Focus
 
 ---

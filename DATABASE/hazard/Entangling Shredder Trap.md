@@ -1,8 +1,6 @@
 ﻿---
 ac: '22'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+11'
 hardness: '13'
 hazard_type: Trap
@@ -16,16 +14,11 @@ level: '6'
 name: Entangling Shredder Trap
 rarity: Common
 reflex: '+16'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/The Enmity Cycle|The Enmity Cycle]]'
 trait:
 - '[[DATABASE/trait/Mechanical|Mechanical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Entangling Shredder Trap<span class="item-type">Hazard 6</span>

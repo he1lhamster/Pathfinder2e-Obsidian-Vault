@@ -5,38 +5,29 @@ bloodline: '[[DATABASE/sorcererbloodline/Diabolic|Diabolic]]'
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Lubaiko|Lubaiko]]'
 - '[[DATABASE/deity/Nurgal|Nurgal]]'
 - '[[DATABASE/deity/Ra|Ra]]'
 - '[[DATABASE/deity/The Path of the Heavens|The Path of the Heavens]]'
-domain: null
 duration: sustained up to 1 minute
 element: Fire
 heighten: '+1'
 heighten_level: 2, 3, 4, 5, 6, 7, 8, 9, 10
 id: '121'
-lesson: null
 level: '2'
-mystery: null
 name: Flaming Sphere
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Reflex
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Arcane
 - Primal
 trait:
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Fire|Fire]]'
-trigger: null
 type: Spell
 
 ---

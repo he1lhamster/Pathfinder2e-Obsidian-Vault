@@ -2,7 +2,6 @@
 id: '268'
 name: Hobgoblin
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 trait:
 - Hobgoblin

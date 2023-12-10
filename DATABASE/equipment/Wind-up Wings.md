@@ -1,54 +1,17 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '1101'
 item_category: Adventuring Gear
-item_subcategory: null
-land_speed: null
 level: '12'
-max_speed: null
 name: Wind-up Wings
-onset: null
 price: 1,800 gp
-range: null
 rarity: Rare
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
-school: null
-size: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-spell: null
-stage: null
 subcategory: adventuringgear
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Clockwork|Clockwork]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Item
 usage: attached to a [[DATABASE/trait/Thrown|thrown]] weapon
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Wind-up Wings<span class="item-type">Item 3+</span>

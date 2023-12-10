@@ -1,42 +1,28 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Andoletta|Andoletta]]'
 - '[[DATABASE/deity/Horus|Horus]]'
 - '[[DATABASE/deity/Mother Vulture|Mother Vulture]]'
 - '[[DATABASE/deity/Tanagaar|Tanagaar]]'
-domain: null
 duration: 1 minute
-element: null
 heighten: 5th, 6th
 heighten_level: 4, 5, 6
 id: '4'
-lesson: null
 level: '4'
-mystery: null
 name: Aerial Form
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Arcane
 - Primal
 trait:
 - '[[DATABASE/trait/Polymorph|Polymorph]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Spell
 
 ---

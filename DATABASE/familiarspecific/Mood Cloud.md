@@ -1,9 +1,7 @@
 ﻿---
 id: '24'
 name: Mood Cloud
-rus_type_level: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-trait: null
 
 ---
 # Mood Cloud

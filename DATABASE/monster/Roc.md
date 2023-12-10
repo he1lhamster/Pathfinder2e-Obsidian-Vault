@@ -1,37 +1,26 @@
 ﻿---
 ac: '27'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Flying Strafe
 - Snack
 - Snatch
 - Wing Rebuff
-creature_family: null
 dexterity: '+2'
-element: null
 fly_speed: '60'
 fortitude: '+20'
-hardness: null
 hp: '180'
 id: '352'
-immunity: null
 intelligence: '-4'
 land_speed: '20'
-language: null
 level: '9'
 max_speed: '60'
 name: Roc
 perception: '+18'
 rarity: Common
 reflex: '+17'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 size: Gargantuan
@@ -42,19 +31,16 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 20 feet
 - fly 60 feet
-spell: null
 strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+16'
 wisdom: '+1'
 

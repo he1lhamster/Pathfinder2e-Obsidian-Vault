@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Warding Light
-frequency: null
-heighten_level: null
 id: '2173'
 level: '4'
 name: Warding Light
 prerequisite: '[[DATABASE/feat/Bright Lion Dedication|Bright Lion Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Legends|Legends]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

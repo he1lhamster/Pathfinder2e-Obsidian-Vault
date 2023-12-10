@@ -1,20 +1,15 @@
 ﻿---
 ac: '22'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Bite Back
 - Incessant Goading
 creature_family: '[[DATABASE/monsterfamily/Beheaded|Beheaded]]'
 dexterity: '+5'
-element: null
 fly_speed: '40'
 fortitude: '+10'
-hardness: null
 hp: 80 ( negative healing )
 id: '1840'
 immunity:
@@ -34,9 +29,6 @@ name: Taunting Skull
 perception: '+13'
 rarity: Common
 reflex: '+14'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Tiny
@@ -47,12 +39,10 @@ source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 speed:
 - 15 feet
 - fly 40 feet
-spell: null
 strength: '+1'
 strength_req: '1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Undead|Undead]]'
 type: Creature

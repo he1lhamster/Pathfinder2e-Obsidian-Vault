@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Mischievous Tail
-frequency: null
-heighten_level: null
 id: '2544'
 level: '13'
 name: Mischievous Tail
 prerequisite: '[[DATABASE/feat/Skillful Tail (Ganzi)|Skillful Tail (Ganzi)]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Ganzi|Ganzi]]'
-trigger: null
 type: Feat
 
 ---

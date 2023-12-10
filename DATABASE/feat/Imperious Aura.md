@@ -1,21 +1,13 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Imperious Aura
-frequency: null
-heighten_level: null
 id: '4202'
 level: '16'
 name: Imperious Aura
 prerequisite: one or more [[DATABASE/trait/Stance|stance]] [[DATABASE/trait/Impulse|impulses]]
   that affect your kinetic aura
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Impulse|Impulse]]'
 - '[[DATABASE/trait/Kineticist|Kineticist]]'

@@ -1,17 +1,10 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
-frequency: null
 id: '21'
 name: Knockdown
 rarity: Common
 requirement: "The animal companion\u2019s last action was a successful jaws Strike."
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
-trigger: null
 type: Action
 
 ---

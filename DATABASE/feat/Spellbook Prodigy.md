@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Spellbook Prodigy
-frequency: null
-heighten_level: null
 id: '1833'
 level: '1'
 name: Spellbook Prodigy
 prerequisite: Trained in [[DATABASE/skill/Arcana|Arcana]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Wizard|Wizard]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Protective Sheath
-frequency: null
-heighten_level: null
 id: '969'
 level: '5'
 name: Protective Sheath
 prerequisite: '[[DATABASE/feat/Clan''s Edge|Clan''s Edge]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Dwarf|Dwarf]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,21 +1,15 @@
 ﻿---
 ac: '44'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Great Swipe
 - Grotesque Gift
 - The Sea's Revenge
-creature_family: null
 dexterity: '+4'
 element: Water
-fly_speed: null
 fortitude: '+35'
-hardness: null
 hp: 399 ( negative healing )
 id: '2587'
 immunity:
@@ -37,8 +31,6 @@ rarity: Unique
 reflex: '+30'
 resistance:
 - '[[DATABASE/trait/Fire|fire]] 20'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -50,7 +42,6 @@ source: '[[DATABASE/source/Pathfinder 192. Worst of All Possible Worlds|Pathfind
 speed:
 - 25 feet
 - swim 25 feet
-spell: null
 strength: '+8'
 strength_req: '8'
 strongest_save:

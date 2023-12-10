@@ -1,10 +1,7 @@
 ﻿---
 ac: '20'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+15'
-hardness: null
 hazard_type: Trap
 hp: 60 (BT 30)
 id: '50'
@@ -15,9 +12,6 @@ level: '4'
 name: Gravehall Trap
 rarity: Common
 reflex: '+8'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/GM''s Toolbox. Gravehall|GM''s Toolbox: Gravehall]]'
 trait:
 - '[[DATABASE/trait/Complex|Complex]]'

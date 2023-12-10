@@ -1,29 +1,17 @@
 ﻿---
 actions: '[three-actions]'
 area: 25-foot radius, 20-foot tall cylinder
-bloodline: null
-component: null
-cost: null
-deity: null
-domain: null
 duration: sustained up to 1 minute
 element: Water
 heighten: '+1'
 heighten_level: 8, 9, 10
 id: '1398'
-lesson: null
 level: '8'
-mystery: null
 name: Whirlpool
-patron_theme: null
 range: 500 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Reflex
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-target: null
 tradition:
 - Arcane
 - Primal
@@ -31,7 +19,6 @@ trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Water|Water]]'
-trigger: null
 type: Spell
 
 ---

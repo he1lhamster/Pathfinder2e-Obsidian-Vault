@@ -1,24 +1,16 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Bullet Dancer Reload
-frequency: null
-heighten_level: null
 id: '3238'
 level: '12'
 name: Bullet Dancer Reload
 prerequisite: '[[DATABASE/feat/Bullet Dancer Burn|Bullet Dancer Burn]]'
 rarity: Common
 requirement: You're in Bullet Dancer Stance.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Flourish|Flourish]]'
-trigger: null
 type: Feat
 
 ---

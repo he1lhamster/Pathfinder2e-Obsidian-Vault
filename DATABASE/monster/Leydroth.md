@@ -2,9 +2,7 @@
 ac: '40'
 alignment: NE
 all_resistance: '15'
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+9'
 creature_ability:
 - Dispelling Roar
@@ -12,15 +10,10 @@ creature_ability:
 - Magic Sense
 - Menace to Magic
 - Spell Feedback
-creature_family: null
 dexterity: '+7'
-element: null
-fly_speed: null
 fortitude: '+32'
-hardness: null
 hp: '315'
 id: '719'
-immunity: null
 intelligence: '-3'
 land_speed: '50'
 language:
@@ -33,8 +26,6 @@ rarity: Uncommon
 reflex: '+30'
 resistance:
 - all 15 (except non-magical)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - magic sense (imprecise) 60 feet
@@ -56,7 +47,6 @@ strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
@@ -64,7 +54,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+28'
 wisdom: '+5'
 

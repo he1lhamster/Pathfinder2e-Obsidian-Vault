@@ -12,12 +12,10 @@ level: '0'
 name: Wooden Breastplate
 price: 6 gp
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 speed_penalty: -5 ft.
 strength: '+14'
 strength_req: '14'
-trait: null
 type: Armor
 
 ---

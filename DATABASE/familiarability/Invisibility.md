@@ -1,14 +1,9 @@
 ﻿---
 ability_type: Specific Familiar - Old Friend
-actions: null
-frequency: null
 id: '80'
 name: Invisibility
 rarity: Common
-requirement: null
-rus_type_level: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-trait: null
 type: Familiar Ability
 
 ---

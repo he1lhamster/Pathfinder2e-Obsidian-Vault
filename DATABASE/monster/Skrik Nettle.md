@@ -1,37 +1,26 @@
 ﻿---
 ac: '22'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Motionsense
 - Negate Levitation
 - Skrik Nettle Venom
 - Spill Venom
-creature_family: null
 dexterity: '+5'
-element: null
 fly_speed: '25'
 fortitude: '+10'
-hardness: null
 hp: 130 ( fast healing 5 )
 id: '804'
-immunity: null
 intelligence: '-4'
 land_speed: '10'
-language: null
 level: '6'
 max_speed: '25'
 name: Skrik Nettle
 perception: '+16'
 rarity: Common
 reflex: '+17'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - motionsense 30 feet
 size: Large
@@ -41,16 +30,13 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 10 feet
 - fly 25 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
 weakness:

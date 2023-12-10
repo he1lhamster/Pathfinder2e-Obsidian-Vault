@@ -1,7 +1,6 @@
 ﻿---
 id: '4'
 name: Concealed
-source: null
 
 ---
 # Concealed

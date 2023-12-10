@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Enhanced Psychopomp Familiar
-frequency: null
-heighten_level: null
 id: '3471'
 level: '8'
 name: Enhanced Psychopomp Familiar
 prerequisite: '[[DATABASE/feat/Psychopomp Familiar|Psychopomp Familiar]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,30 +1,18 @@
 ﻿---
-actions: null
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Isis|Isis]]'
-domain: null
 duration: 8 hours
 element: Air
-heighten: null
 heighten_level: '8'
 id: '376'
-lesson: null
 level: '8'
-mystery: null
 name: Wind Walk
-patron_theme: null
 range: touch
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: you and up to five creatures touched
@@ -33,7 +21,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Spell
 
 ---

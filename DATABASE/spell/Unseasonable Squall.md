@@ -1,32 +1,20 @@
 ﻿---
 actions: '[two-actions]'
 area: 20-foot burst
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: until the start of your next turn
 element: Air
-heighten: null
 heighten_level: '3'
 id: '640'
-lesson: null
 level: '3'
-mystery: null
 name: Unseasonable Squall
-patron_theme: null
 range: 60 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Pathfinder 151. The Show Must Go On|Pathfinder #151: The
   Show Must Go On]]'
-target: null
 tradition:
 - Arcane
 - Primal
@@ -34,7 +22,6 @@ trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Spell
 
 ---

@@ -1,17 +1,7 @@
 ﻿---
-ability: null
-ability_boost: null
-feat: null
 id: '45'
 name: Hellknight Historian
-prerequisite: null
-rarity: null
-rus_type_level: null
-skill: null
 source: '[[DATABASE/source/Age of Ashes Player''s Guide|Age of Ashes Player''s Guide]]'
-subcategory: null
-trait: null
-type: null
 
 ---
 # Hellknight Historian<span class="item-type">Background</span>

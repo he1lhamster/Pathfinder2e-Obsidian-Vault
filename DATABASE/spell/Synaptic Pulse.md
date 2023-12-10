@@ -1,41 +1,28 @@
 ﻿---
 actions: '[two-actions]'
 area: 30-foot emanation
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Azathoth|Azathoth]]'
 - '[[DATABASE/deity/Doloras|Doloras]]'
 - '[[DATABASE/deity/Vildeis|Vildeis]]'
-domain: null
 duration: 1 round
-element: null
-heighten: null
 heighten_level: '5'
 id: '327'
-lesson: null
 level: '5'
-mystery: null
 name: Synaptic Pulse
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Will
 school: Enchantment
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Occult
 trait:
 - '[[DATABASE/trait/Enchantment|Enchantment]]'
 - '[[DATABASE/trait/Incapacitation|Incapacitation]]'
 - '[[DATABASE/trait/Mental|Mental]]'
-trigger: null
 type: Spell
 
 ---

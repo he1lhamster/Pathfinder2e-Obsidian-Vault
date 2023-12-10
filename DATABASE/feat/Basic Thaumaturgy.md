@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Basic Thaumaturgy
-frequency: null
-heighten_level: null
 id: '3744'
+leads_to: '[[DATABASE/feat/Advanced Thaumaturgy|Advanced Thaumaturgy]]'
 level: '4'
 name: Basic Thaumaturgy
 prerequisite: '[[DATABASE/feat/Thaumaturge Dedication|Thaumaturge Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Wholeness of Body
-frequency: null
-heighten_level: null
 id: '448'
+leads_to: '[[DATABASE/feat/Endurance of the Rooted Tree|Endurance of the Rooted Tree]]'
 level: '4'
 name: Wholeness of Body
 prerequisite: ki spells
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Monk|Monk]]'
-trigger: null
 type: Feat
 
 ---

@@ -6,11 +6,8 @@ frequency: once per day; <b>Trigger</b> An attack would reduce your familiar to 
 id: '91'
 name: Spiritual Recall
 rarity: Common
-requirement: null
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 188. They Watched the Stars|Pathfinder #188:
   They Watched the Stars]]'
-trait: null
 type: Familiar Ability
 
 ---

@@ -1,10 +1,7 @@
 ﻿---
 ac: '40'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+7'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Attack of Opportunity
@@ -18,13 +15,10 @@ creature_ability:
 - Warpwave Strike
 creature_family: '[[DATABASE/monsterfamily/Protean|Protean]]'
 dexterity: '+5'
-element: null
 fly_speed: '50'
 fortitude: '+30'
-hardness: null
 hp: 290 ( fast healing 10)
 id: '338'
-immunity: null
 intelligence: '+5'
 land_speed: '40'
 language:
@@ -41,8 +35,6 @@ reflex: '+28'
 resistance:
 - precision 10
 - protean anatomy 25
-rus_type_level: null
-school: null
 sense:
 - entropy sense (imprecise) 60 feet
 - darkvision

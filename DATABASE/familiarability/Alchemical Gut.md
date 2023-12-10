@@ -1,14 +1,9 @@
 ﻿---
 ability_type: Familiar
-actions: null
-frequency: null
 id: '90'
 name: Alchemical Gut
 rarity: Common
-requirement: null
-rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-trait: null
 type: Familiar Ability
 
 ---

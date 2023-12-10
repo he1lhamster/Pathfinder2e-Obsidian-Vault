@@ -1,10 +1,7 @@
 ﻿---
 ac: '31'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Attack of Opportunity
@@ -12,27 +9,18 @@ creature_ability:
 - Drag Below
 - Long Neck
 - Thrashing Retreat
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+23'
-hardness: null
 hp: '195'
 id: '2305'
-immunity: null
 intelligence: '-4'
 land_speed: '5'
-language: null
 level: '11'
 max_speed: '35'
 name: River Elasmosaurus
 perception: '+21'
 rarity: Rare
 reflex: '+18'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -43,7 +31,6 @@ source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 speed:
 - 5 feet
 - swim 35 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
@@ -56,7 +43,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Reflex
-weakness: null
 will: '+21'
 wisdom: '+6'
 

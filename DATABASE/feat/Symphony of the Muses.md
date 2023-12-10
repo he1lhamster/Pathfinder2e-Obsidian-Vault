@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Symphony of the Muses
-frequency: null
-heighten_level: null
 id: '213'
 level: '20'
 name: Symphony of the Muses
 prerequisite: '[[DATABASE/feat/Harmonize|Harmonize]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Bard|Bard]]'
-trigger: null
 type: Feat
 
 ---

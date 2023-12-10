@@ -2,7 +2,6 @@
 id: '62'
 name: Androffan
 rarity: Rare
-rus_type_level: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'

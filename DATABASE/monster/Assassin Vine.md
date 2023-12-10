@@ -1,36 +1,24 @@
 ﻿---
 ac: '18'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Camouflage
 - Constrict
 - Grasping Foliage
-creature_family: null
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+10'
-hardness: null
 hp: '68'
 id: '555'
-immunity: null
 intelligence: '-5'
 land_speed: '5'
-language: null
 level: '3'
 max_speed: '5'
 name: Assassin Vine
 perception: '+10'
 rarity: Common
 reflex: '+7'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Tremorsense|tremorsense 30 feet]]'
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
@@ -41,12 +29,10 @@ skill:
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 5 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Mindless|Mindless]]'
 - '[[DATABASE/trait/Plant|Plant]]'

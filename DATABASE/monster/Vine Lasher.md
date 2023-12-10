@@ -1,34 +1,23 @@
 ﻿---
 ac: '16'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Light Hold
 creature_family: '[[DATABASE/monsterfamily/Deadly Flora|Deadly Flora]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+6'
-hardness: null
 hp: '15'
 id: '428'
-immunity: null
 intelligence: '-4'
 land_speed: '25'
-language: null
 level: '0'
 max_speed: '25'
 name: Vine Lasher
 perception: '+4'
 rarity: Common
 reflex: '+7'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - tremorsense (imprecise) 30 feet
 size: Small
@@ -38,19 +27,15 @@ skill:
 source: '[[DATABASE/source/The Fall of Plaguestone|The Fall of Plaguestone]]'
 speed:
 - 25 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Plant|Plant]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+4'
 wisdom: '+0'
 

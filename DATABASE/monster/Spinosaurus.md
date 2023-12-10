@@ -1,10 +1,7 @@
 ﻿---
 ac: '30'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Deep Breath
@@ -13,25 +10,17 @@ creature_ability:
 - Swallow Whole
 creature_family: '[[DATABASE/monsterfamily/Dinosaur|Dinosaur]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+23'
-hardness: null
 hp: '200'
 id: '617'
-immunity: null
 intelligence: '-4'
 land_speed: '40'
-language: null
 level: '11'
 max_speed: '40'
 name: Spinosaurus
 perception: '+21'
 rarity: Common
 reflex: '+21'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Scent|scent (imprecise) 30 feet]]'
@@ -43,7 +32,6 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 40 feet
 - swim 30 feet
-spell: null
 strength: '+8'
 strength_req: '8'
 strongest_save:
@@ -56,7 +44,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+19'
 wisdom: '+2'
 

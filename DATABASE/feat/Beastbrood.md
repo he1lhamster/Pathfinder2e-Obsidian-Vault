@@ -1,24 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Beastbrood
-frequency: null
-heighten_level: null
 id: '2449'
+leads_to: '[[DATABASE/feat/Idol Threat|Idol Threat]] , [[DATABASE/feat/Jalmeri Rakshasa
+  Magic|Jalmeri Rakshasa Magic]] , [[DATABASE/feat/Rakshasa Magic|Rakshasa Magic]]
+  , [[DATABASE/feat/Reveal Hidden Self|Reveal Hidden Self]]'
 level: '1'
 name: Beastbrood
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Lineage|Lineage]]'
 - '[[DATABASE/trait/Tiefling|Tiefling]]'
-trigger: null
 type: Feat
 
 ---

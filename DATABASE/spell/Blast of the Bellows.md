@@ -1,32 +1,21 @@
 ﻿---
 actions: '[two-actions]'
 area: 20-foot burst
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 1 minute
 element: Air
 heighten: 4th
 heighten_level: 2, 4
 id: '1433'
-lesson: null
 level: '2'
-mystery: null
 name: Blast of the Bellows
-patron_theme: null
 range: 100 feet
 rarity: Rare
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Pathfinder 195. Heavy is the Crown|Pathfinder #195: Heavy
   is the Crown]]'
-target: null
 tradition:
 - Arcane
 - Divine
@@ -35,7 +24,6 @@ trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Spell
 
 ---

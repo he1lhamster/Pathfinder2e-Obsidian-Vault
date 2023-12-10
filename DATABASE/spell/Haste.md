@@ -1,12 +1,10 @@
 ﻿---
 actions: '[two-actions]'
-area: null
 bloodline: '[[DATABASE/sorcererbloodline/Draconic|Draconic]] , [[DATABASE/sorcererbloodline/Imperial|Imperial]]
   , [[DATABASE/sorcererbloodline/Wyrmblessed|Wyrmblessed]]'
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Droskar|Droskar]]'
 - '[[DATABASE/deity/Droskar|Droskar]]'
@@ -23,22 +21,14 @@ deity:
 - '[[DATABASE/deity/Trudd|Trudd]]'
 - '[[DATABASE/deity/Trudd|Trudd]]'
 - '[[DATABASE/deity/Uvuko|Uvuko]]'
-domain: null
 duration: 1 minute
-element: null
 heighten: 7th
 heighten_level: 3, 7
 id: '147'
-lesson: null
 level: '3'
-mystery: null
 name: Haste
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: 1 creature
@@ -48,7 +38,6 @@ tradition:
 - Primal
 trait:
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Spell
 
 ---

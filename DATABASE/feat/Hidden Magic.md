@@ -1,10 +1,5 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Hidden Magic
-frequency: null
-heighten_level: null
 id: '2084'
 level: '4'
 name: Hidden Magic
@@ -12,15 +7,10 @@ prerequisite: Expert in [[DATABASE/skill/Arcana|Arcana]] , Expert in [[DATABASE/
   , Expert in [[DATABASE/skill/Occultism|Occultism]] , or Expert in [[DATABASE/skill/Religion|Religion]]
   ; [[DATABASE/feat/Vigilante Dedication|VigilanteDedication]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

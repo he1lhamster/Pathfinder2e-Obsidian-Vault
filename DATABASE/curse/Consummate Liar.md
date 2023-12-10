@@ -1,10 +1,8 @@
 ﻿---
-element: null
 id: '48'
 level: '14'
 name: Consummate Liar
 rarity: Common
-rus_type_level: null
 saving_throw: DC 31 Will
 school: Enchantment
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
@@ -14,7 +12,6 @@ trait:
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Mental|Mental]]'
 type: Curse
-usage: null
 
 ---
 # Consummate Liar<span class="item-type">Curse 14</span>

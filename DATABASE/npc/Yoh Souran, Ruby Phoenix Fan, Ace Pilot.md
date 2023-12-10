@@ -1,10 +1,7 @@
 ﻿---
 ac: '38'
 alignment: CG
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Ancestral Airship Link
@@ -12,14 +9,10 @@ creature_ability:
 - I'll Get You into Position!
 - Punch It
 - "Shake \u2018Em!"
-creature_family: null
 dexterity: '+7'
-element: null
-fly_speed: null
 fortitude: '+26'
 hp: '265'
 id: '1620'
-immunity: null
 intelligence: '+5'
 land_speed: '25'
 language:
@@ -30,9 +23,6 @@ name: Yoh Souran
 perception: '+25'
 rarity: Unique
 reflex: '+28'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +28'
@@ -44,21 +34,17 @@ source: '[[DATABASE/source/Pathfinder 168. King of the Mountain|Pathfinder #168:
   of the Mountain]]'
 speed:
 - 25 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+23'
 wisdom: '+0'
 

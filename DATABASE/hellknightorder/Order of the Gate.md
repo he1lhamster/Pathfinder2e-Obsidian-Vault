@@ -3,9 +3,7 @@ favored_weapon: '[[DATABASE/weapon/Dagger|Dagger]]'
 id: '2'
 name: Order of the Gate
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-trait: null
 type: Hellknight Order
 
 ---

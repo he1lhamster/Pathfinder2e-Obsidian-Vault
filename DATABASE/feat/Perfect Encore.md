@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Perfect Encore
-frequency: null
-heighten_level: null
 id: '212'
 level: '20'
 name: Perfect Encore
 prerequisite: '[[DATABASE/class_/Bard|magnum opus]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Bard|Bard]]'
-trigger: null
 type: Feat
 
 ---

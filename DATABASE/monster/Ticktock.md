@@ -1,8 +1,6 @@
 ﻿---
 ac: '40'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
 climb_speed: '25'
 constitution: '+6'
@@ -12,12 +10,8 @@ creature_ability:
 - Painsense
 - Shadow Scream
 - Tick Tock Tick Tock
-creature_family: null
 dexterity: '+8'
-element: null
-fly_speed: null
 fortitude: '+28'
-hardness: null
 hp: '275'
 id: '2569'
 immunity:
@@ -35,9 +29,6 @@ name: Ticktock
 perception: '+27'
 rarity: Unique
 reflex: '+30'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - echolocation 120 feet
 - no vision
@@ -61,13 +52,11 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fiend|Fiend]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 - '[[DATABASE/trait/Velstrac|Velstrac]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
 weakness:

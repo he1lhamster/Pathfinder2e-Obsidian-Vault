@@ -1,20 +1,12 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Redirecting Shot
-frequency: null
-heighten_level: null
 id: '3187'
 level: '10'
 name: Redirecting Shot
-prerequisite: null
 rarity: Common
 requirement: You're wielding a loaded firearm or crossbow.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fortune|Fortune]]'
 - '[[DATABASE/trait/Gunslinger|Gunslinger]]'

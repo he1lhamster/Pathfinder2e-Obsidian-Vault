@@ -2,13 +2,11 @@
 id: '5'
 name: Night
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Occultism|Occultism]]'
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 tradition:
 - Occult
-trait: null
 type: Witch Patron Theme
 
 ---

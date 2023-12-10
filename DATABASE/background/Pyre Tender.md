@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Alchemical Crafting|Alchemical Crafting]]'
 id: '306'
 name: Pyre Tender
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Crafting|Crafting]]'
 - Funeral [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

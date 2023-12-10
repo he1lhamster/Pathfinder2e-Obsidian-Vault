@@ -1,8 +1,6 @@
 ﻿---
 ac: '34'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
 climb_speed: '20'
 constitution: '+5'
@@ -11,15 +9,10 @@ creature_ability:
 - Instinctual Tinker
 - Sneak Attack
 - Swarming Stance
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+24'
-hardness: null
 hp: '235'
 id: '2564'
-immunity: null
 intelligence: '+2'
 land_speed: '30'
 language:
@@ -33,8 +26,6 @@ rarity: Unique
 reflex: '+22'
 resistance:
 - '[[DATABASE/trait/Mental|mental]] 13'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -81,7 +72,6 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
@@ -89,7 +79,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+25'
 wisdom: '+6'
 

@@ -1,25 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Safeguard Soul
-frequency: null
-heighten_level: null
 id: '3472'
 level: '8'
 name: Safeguard Soul
 prerequisite: '[[DATABASE/feat/Soul Warden Dedication|Soul Warden Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Abjuration
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Divine|Divine]]'
-trigger: null
 type: Feat
 
 ---

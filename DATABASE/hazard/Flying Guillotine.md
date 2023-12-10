@@ -1,8 +1,6 @@
 ﻿---
 ac: '23'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+9'
 hardness: 13 Blade Hardness
 hazard_type: Trap
@@ -16,9 +14,6 @@ level: '5'
 name: Flying Guillotine
 rarity: Common
 reflex: '+17'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 157. Devil at the Dreaming Palace|Pathfinder
   #157: Devil at the Dreaming Palace]]'
 trait:
@@ -26,8 +21,6 @@ trait:
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Flying Guillotine<span class="item-type">Hazard 5</span>

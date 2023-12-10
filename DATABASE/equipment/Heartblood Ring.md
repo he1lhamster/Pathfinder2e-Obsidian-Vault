@@ -1,58 +1,24 @@
 ﻿---
-ac: null
 actions: '[one-action]'
-alignment: null
-base_item: null
 bulk: L
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '2371'
 item_category: Blighted Boons
-item_subcategory: null
-land_speed: null
 level: '15'
-max_speed: null
 name: Heartblood Ring
-onset: null
-price: null
-range: null
 rarity: Rare
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Necromancy
-size: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-spell: null
 stage: "Stage 1: You die.Purging Heartblood loses its potency if the vampire who created\
   \ it isdestroyed. However, a dose of heartblood imposes a \u20132 status penalty\
   \ to your saving throwsagainst the powers of the vampire who created it."
 subcategory: blightedboon
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Consumable|Consumable]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Item
 usage: worn ring
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Heartblood Ring<span class="item-type">Item 15</span>

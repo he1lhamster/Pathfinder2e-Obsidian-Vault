@@ -1,29 +1,19 @@
 ﻿---
 actions: '[two-actions]'
-area: null
 bloodline: '[[DATABASE/sorcererbloodline/Aberrant|Aberrant]] , [[DATABASE/sorcererbloodline/Hag|Hag]]'
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Cayden Cailean|Cayden Cailean]]'
 - '[[DATABASE/deity/Halcamora|Halcamora]]'
-domain: null
 duration: 1 minute
-element: null
-heighten: null
 heighten_level: '2'
 id: '341'
-lesson: null
 level: '2'
-mystery: null
 name: Touch of Idiocy
-patron_theme: null
 range: touch
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Will
 school: Enchantment
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -34,7 +24,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Enchantment|Enchantment]]'
 - '[[DATABASE/trait/Mental|Mental]]'
-trigger: null
 type: Spell
 
 ---

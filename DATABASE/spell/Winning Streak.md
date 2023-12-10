@@ -1,29 +1,17 @@
 ﻿---
 actions: '[one-action]'
-area: null
-bloodline: null
 component:
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Marishi|Marishi]]'
 - '[[DATABASE/deity/The Divine Dare|TheDivine Dare]]'
-domain: null
 duration: 1 round (see text)
-element: null
-heighten: null
 heighten_level: '4'
 id: '1034'
-lesson: null
 level: '4'
-mystery: null
 name: Winning Streak
-patron_theme: null
 range: 20 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 target: 1 creature
@@ -32,7 +20,6 @@ tradition:
 - Occult
 trait:
 - '[[DATABASE/trait/Divination|Divination]]'
-trigger: null
 type: Spell
 
 ---

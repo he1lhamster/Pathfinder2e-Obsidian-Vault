@@ -1,8 +1,6 @@
 ﻿---
 ac: '25'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+0'
 hardness: 6 Pressure Plate Hardness
 hazard_type: Trap
@@ -17,17 +15,12 @@ level: '8'
 name: Iron Maiden Trap
 rarity: Common
 reflex: '+0'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 158. Sixty Feet Under|Pathfinder #158: Sixty
   Feet Under]]'
 trait:
 - '[[DATABASE/trait/Mechanical|Mechanical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Iron Maiden Trap<span class="item-type">Hazard 8</span>

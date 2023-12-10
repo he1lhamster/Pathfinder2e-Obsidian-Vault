@@ -1,52 +1,15 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
 bulk: '1'
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '1261'
 item_category: Adventuring Gear
-item_subcategory: null
-land_speed: null
 level: '3'
-max_speed: null
 name: Diving Suit
-onset: null
 price: 100 gp
-range: null
 rarity: Common
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
-school: null
-size: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
-spell: null
-stage: null
 subcategory: adventuringgear
-swim_speed: null
-trait: null
-trigger: null
 type: Item
 usage: worn clothing
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Diving Suit<span class="item-type">Item 3</span>

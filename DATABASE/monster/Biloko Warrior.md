@@ -1,23 +1,16 @@
 ﻿---
 ac: '16'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '-1'
 creature_ability:
 - Inspired Feast
 - Shield Block
 creature_family: '[[DATABASE/monsterfamily/Biloko|Biloko]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+4'
-hardness: null
 hp: '19'
 id: '1427'
-immunity: null
 intelligence: '+0'
 land_speed: '20'
 language:
@@ -29,9 +22,6 @@ name: Biloko Warrior
 perception: '+7'
 rarity: Common
 reflex: '+7'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -52,14 +42,12 @@ strength_req: '3'
 strongest_save:
 - Reflex
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 type: Creature
 vision: Low-light vision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+7'
 wisdom: '+2'
 

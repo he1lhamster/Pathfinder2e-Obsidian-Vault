@@ -1,13 +1,8 @@
 ﻿---
 actions: '[three-actions]'
-cost: null
-element: null
-frequency: null
 id: '757'
 name: Manifest Eidolon
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Conjuration
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 trait:
@@ -16,7 +11,6 @@ trait:
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Summoner|Summoner]]'
 - '[[DATABASE/trait/Teleportation|Teleportation]]'
-trigger: null
 type: Action
 
 ---

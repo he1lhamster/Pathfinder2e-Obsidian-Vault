@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Basic Shooting
-frequency: null
-heighten_level: null
 id: '3216'
+leads_to: '[[DATABASE/feat/Advanced Shooting|Advanced Shooting]]'
 level: '4'
 name: Basic Shooting
 prerequisite: '[[DATABASE/feat/Gunslinger Dedication|Gunslinger Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

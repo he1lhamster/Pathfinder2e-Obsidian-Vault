@@ -17,9 +17,7 @@ item_subcategory: Base Weapons
 level: '0'
 name: Kukri
 price: 6 sp
-range: null
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Agile|Agile]]'

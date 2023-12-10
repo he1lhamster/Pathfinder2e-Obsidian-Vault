@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Specialized Companion (Druid)
-frequency: null
-heighten_level: null
 id: '344'
 level: '14'
 name: Specialized Companion (Druid)
 prerequisite: '[[DATABASE/feat/Incredible Companion (Druid)|Incredible Companion (Druid)]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Druid|Druid]]'
-trigger: null
 type: Feat
 
 ---

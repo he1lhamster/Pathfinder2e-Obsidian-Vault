@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Ornate Tattoo
-frequency: null
-heighten_level: null
 id: '951'
+leads_to: '[[DATABASE/feat/Virtue-Forged Tattoos|Virtue-Forged Tattoos]]'
 level: '5'
 name: Ornate Tattoo
 prerequisite: '[[DATABASE/feat/Arcane Tattoos|Arcane Tattoos]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
-trigger: null
 type: Feat
 
 ---

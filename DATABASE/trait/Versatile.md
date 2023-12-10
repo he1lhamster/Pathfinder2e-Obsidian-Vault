@@ -2,7 +2,6 @@
 id: '200'
 name: Versatile
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - Versatile

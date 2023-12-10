@@ -2,9 +2,7 @@
 id: '1'
 name: Battledancer
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-trait: null
 type: Swashbuckler Style
 
 ---

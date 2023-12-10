@@ -29,11 +29,9 @@ follower_alignment:
 id: '253'
 name: The Laborer's Bastion
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]]'
 source: '[[DATABASE/source/Travel Guide|Travel Guide]]'
-trait: null
 type: Deity
 
 ---

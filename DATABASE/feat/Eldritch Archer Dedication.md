@@ -1,25 +1,20 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Eldritch Archer Dedication
-frequency: null
-heighten_level: null
 id: '1960'
+leads_to: '[[DATABASE/feat/Arrow of Death|Arrow of Death]] , [[DATABASE/feat/Basic
+  Eldritch Archer Spellcasting|Basic Eldritch Archer Spellcasting]] , [[DATABASE/feat/Enchanting
+  Arrow|Enchanting Arrow]] , [[DATABASE/feat/Magic Arrow|Magic Arrow]] , [[DATABASE/feat/Phase
+  Arrow|Phase Arrow]] , [[DATABASE/feat/Precious Arrow|Precious Arrow]] , [[DATABASE/feat/Seeker
+  Arrow|Seeker Arrow]]'
 level: '6'
 name: Eldritch Archer Dedication
 prerequisite: expert in at least one type of [[DATABASE/weapongroup/Bow|bow]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Magical|Magical]]'
-trigger: null
 type: Feat
 
 ---

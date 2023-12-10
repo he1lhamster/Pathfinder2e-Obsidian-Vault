@@ -1,23 +1,16 @@
 ﻿---
 ac: '28'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Cunning
 - Death Throes
-creature_family: null
 dexterity: '+6'
-element: null
 fly_speed: '40'
 fortitude: '+13'
-hardness: null
 hp: '100'
 id: '2299'
-immunity: null
 intelligence: '+0'
 land_speed: '10'
 language:
@@ -31,9 +24,6 @@ name: Horagnamon
 perception: '+18'
 rarity: Unique
 reflex: '+20'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Tiny
@@ -45,12 +35,10 @@ source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 speed:
 - 10 feet
 - fly 40 feet
-spell: null
 strength: '-3'
 strength_req: '-3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 - '[[DATABASE/trait/Minion|Minion]]'
@@ -59,7 +47,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+16'
 wisdom: '+6'
 

@@ -1,38 +1,27 @@
 ﻿---
 ac: '29'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Black Seed Cloud
 - Frost Susceptibility
 - Furious Swing
 - Tighten Bracts
-creature_family: null
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+22'
-hardness: null
 hp: '220'
 id: '518'
 immunity:
 - '[[DATABASE/trait/Poison|poison]]'
 intelligence: '-4'
 land_speed: '25'
-language: null
 level: '10'
 max_speed: '25'
 name: Counteflora
 perception: '+18'
 rarity: Common
 reflex: '+20'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - tremorsense (imprecise) 60 feet
 size: Large
@@ -43,16 +32,13 @@ source: '[[DATABASE/source/Pathfinder 153. Life''s Long Shadows|Pathfinder #153:
   Long Shadows]]'
 speed:
 - 25 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Plant|Plant]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
 weakness:

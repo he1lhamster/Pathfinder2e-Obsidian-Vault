@@ -2,9 +2,6 @@
 id: '88'
 name: Malevolence
 rarity: Common
-rus_type_level: null
-source: null
-trait: null
 type: Source
 
 ---

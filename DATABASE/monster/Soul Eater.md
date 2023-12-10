@@ -1,22 +1,16 @@
 ﻿---
 ac: '26'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Caster Link
 - Drain Soul
 - Find Target
 - Mind-Numbing Touch
-creature_family: null
 dexterity: '+6'
-element: null
 fly_speed: '60'
 fortitude: '+13'
-hardness: null
 hp: '80'
 id: '811'
 immunity:
@@ -38,8 +32,6 @@ rarity: Uncommon
 reflex: '+19'
 resistance:
 - physical 10
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 size: Medium
@@ -52,12 +44,10 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 25 feet
 - fly 60 feet
-spell: null
 strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fiend|Fiend]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

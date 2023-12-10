@@ -1,10 +1,7 @@
 ﻿---
 ac: '36'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Catch Rock
@@ -13,15 +10,11 @@ creature_ability:
 - Throw Rock
 - Twin Butchery
 - Wide Swing
-creature_family: null
 dexterity: '+4'
 element: Earth
-fly_speed: null
 fortitude: '+28'
-hardness: null
 hp: '260'
 id: '2262'
-immunity: null
 intelligence: '-2'
 land_speed: '35'
 language:
@@ -33,9 +26,6 @@ name: Hill Giant Butcher
 perception: '+25'
 rarity: Rare
 reflex: '+23'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Large
@@ -54,7 +44,6 @@ strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Giant|Giant]]'
@@ -64,7 +53,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Reflex
-weakness: null
 will: '+26'
 wisdom: '+5'
 

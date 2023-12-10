@@ -1,10 +1,8 @@
 ﻿---
 ac: '28'
 alignment: N
-all_resistance: null
 burrow_speed: '40'
 charisma: '-1'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Blood Scent
@@ -14,25 +12,17 @@ creature_ability:
 - Thrash
 creature_family: '[[DATABASE/monsterfamily/Cave Worm|Cave Worm]]'
 dexterity: '-1'
-element: null
-fly_speed: null
 fortitude: '+24'
-hardness: null
 hp: 248 ( negative healing )
 id: '2704'
-immunity: null
 intelligence: '-3'
 land_speed: '20'
-language: null
 level: '11'
 max_speed: '40'
 name: Gray Worm
 perception: '+19'
 rarity: Rare
 reflex: '+16'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - blood scent
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
@@ -46,12 +36,10 @@ source: '[[DATABASE/source/Pathfinder 194. Cult of the Cave Worm|Pathfinder #194
 speed:
 - 20 feet
 - burrow 40 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Rare|Rare]]'

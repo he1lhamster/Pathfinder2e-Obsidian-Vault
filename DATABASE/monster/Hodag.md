@@ -1,25 +1,18 @@
 ﻿---
 ac: '24'
 alignment: N
-all_resistance: null
 burrow_speed: '15'
 charisma: '+0'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Ferocity
 - Rip and Tear
 - Toss
 - Trackless
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+17'
-hardness: null
 hp: '90'
 id: '701'
-immunity: null
 intelligence: '-2'
 land_speed: '25'
 language:
@@ -30,9 +23,6 @@ name: Hodag
 perception: '+14'
 rarity: Uncommon
 reflex: '+14'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent (imprecise) 30 feet]]'
@@ -45,12 +35,10 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 25 feet
 - burrow 15 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
@@ -58,7 +46,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+12'
 wisdom: '+4'
 

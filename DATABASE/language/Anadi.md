@@ -2,7 +2,6 @@
 id: '46'
 name: Anadi
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 145. Hellknight Hill|Pathfinder #145: Hellknight
   Hill]]'
 trait:

@@ -8,16 +8,13 @@ ability_boost:
 feat: '[[DATABASE/feat/Forager|Forager]]'
 id: '358'
 name: Free Spirit
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Survival|Survival]]'
 - '[[DATABASE/skill/Lore|Lore]] fora specific settlement or terrain you have traveled
   through.'
 source: '[[DATABASE/source/Firebrands|Firebrands]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

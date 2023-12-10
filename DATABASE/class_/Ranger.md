@@ -18,14 +18,11 @@ id: '9'
 name: Ranger
 perception_proficiency: Expert
 rarity: Common
-rus_type_level: null
 skill_proficiency:
 - Trained in Nature
 - Trained in Survival
 - Trained in a number of additional skills equal to 4 plus your Intelligence modifier
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-tradition: null
-trait: null
 type: Class
 
 ---

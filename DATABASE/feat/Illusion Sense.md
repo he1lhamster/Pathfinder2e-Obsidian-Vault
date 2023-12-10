@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Illusion Sense
-frequency: null
-heighten_level: null
 id: '31'
+leads_to: '[[DATABASE/feat/Intuitive Illusions|Intuitive Illusions]] , [[DATABASE/feat/Natural
+  Illusionist|Natural Illusionist]]'
 level: '1'
 name: Illusion Sense
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Gnome|Gnome]]'
-trigger: null
 type: Feat
 
 ---

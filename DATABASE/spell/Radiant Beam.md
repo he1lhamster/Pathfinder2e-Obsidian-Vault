@@ -1,31 +1,18 @@
 ﻿---
 actions: '[two-actions]'
 area: 120-foot line
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
 heighten: '+1'
 heighten_level: 4, 5, 6, 7, 8, 9, 10
 id: '1123'
-lesson: null
 level: '4'
-mystery: null
 name: Radiant Beam
-patron_theme: null
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 saving_throw: basicReflex
 school: Evocation
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
-target: null
 tradition:
 - Divine
 - Primal
@@ -34,7 +21,6 @@ trait:
 - '[[DATABASE/trait/Good|Good]]'
 - '[[DATABASE/trait/Light|Light]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Spell
 
 ---

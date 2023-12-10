@@ -1,25 +1,12 @@
 ﻿---
 actions: '[one-action]'
-area: null
-bloodline: null
-component: null
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
 heighten: '+1'
 heighten_level: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
 id: '886'
-lesson: null
 level: '1'
-mystery: null
 name: Concordant Choir
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: basicFortitude
 school: Evocation
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
@@ -30,7 +17,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Sonic|Sonic]]'
-trigger: null
 type: Spell
 
 ---

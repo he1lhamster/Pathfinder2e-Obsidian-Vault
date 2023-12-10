@@ -1,10 +1,6 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Sustaining Steel
-frequency: null
-heighten_level: null
 id: '2874'
 level: '10'
 name: Sustaining Steel
@@ -12,10 +8,8 @@ prerequisite: '[[DATABASE/action/Arcane Cascade|Arcane Cascade]] , [[DATABASE/ma
   Iron|inexorable iron hybrid study]]'
 rarity: Common
 requirement: You're in Arcane Cascade stance.
-rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Arcane|Arcane]]'
 - '[[DATABASE/trait/Healing|Healing]]'

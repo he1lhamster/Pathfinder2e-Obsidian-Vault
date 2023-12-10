@@ -1,23 +1,16 @@
 ﻿---
-area: null
 cost: a lavish meal with expensive alcohol for every caster (225 gp)
 duration: until midnight (see text)
-element: null
-heighten: null
 heighten_level: '6'
 id: '85'
 level: '6'
 name: Bacchanalia
 primary_check: '[[DATABASE/skill/Occultism|Occultism]] or [[DATABASE/skill/Religion|Religion]]'
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Enchantment
 secondary_casters: '8'
 secondary_check: '[[DATABASE/skill/Performance|Performance]]'
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-target: null
 trait:
 - '[[DATABASE/trait/Enchantment|Enchantment]]'
 - '[[DATABASE/trait/Mental|Mental]]'

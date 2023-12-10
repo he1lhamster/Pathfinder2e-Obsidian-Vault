@@ -1,36 +1,25 @@
 ﻿---
 ac: '30'
 alignment: N
-all_resistance: null
 burrow_speed: '30'
 charisma: '-2'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Favored Prey
 - Leaping Charge
 - Powerful Jumper
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+20'
-hardness: null
 hp: '120'
 id: '61'
-immunity: null
 intelligence: '-4'
 land_speed: '40'
-language: null
 level: '8'
 max_speed: '40'
 name: Bulette
 perception: '+16'
 rarity: Common
 reflex: '+16'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - scent (imprecise) 30 feet
@@ -42,19 +31,16 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 40 feet
 - burrow 30 feet; powerful jumper
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+14'
 wisdom: '+2'
 

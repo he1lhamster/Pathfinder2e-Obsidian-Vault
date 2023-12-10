@@ -1,10 +1,7 @@
 ﻿---
 ac: '38'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Attack of Opportunity
@@ -12,12 +9,9 @@ creature_ability:
 - Flying Strafe
 - Sonic Screech
 - Wailing Dive
-creature_family: null
 dexterity: '+5'
-element: null
 fly_speed: '130'
 fortitude: '+29'
-hardness: null
 hp: '295'
 id: '1464'
 immunity:
@@ -33,9 +27,6 @@ name: Tamikan
 perception: '+23'
 rarity: Unique
 reflex: '+27'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -51,7 +42,6 @@ speed:
 - 30 feet
 - fly 130 feet
 - swim 30 feet
-spell: null
 strength: '+9'
 strength_req: '9'
 strongest_save:
@@ -64,7 +54,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+26'
 wisdom: '+4'
 

@@ -1,39 +1,26 @@
 ﻿---
 actions: '[three-actions]'
 area: 2 adjacent 10-foot cubes
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
-duration: null
 element: Earth
 heighten: '+2'
 heighten_level: 5, 7, 9
 id: '724'
-lesson: null
 level: '5'
-mystery: null
 name: Transmute Rock and Mud
-patron_theme: null
 range: 60 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-target: null
 tradition:
 - Arcane
 - Primal
 trait:
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Spell
 
 ---

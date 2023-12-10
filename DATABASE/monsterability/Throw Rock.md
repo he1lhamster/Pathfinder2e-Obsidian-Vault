@@ -3,9 +3,7 @@ actions: '[one-action]'
 id: '38'
 name: Throw Rock
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
-trait: null
 type: Creature Ability
 
 ---

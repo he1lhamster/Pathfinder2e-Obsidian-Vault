@@ -1,10 +1,7 @@
 ﻿---
 ac: '27'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Bardic Lore
@@ -13,13 +10,10 @@ creature_ability:
 - Warding Glyph
 creature_family: '[[DATABASE/monsterfamily/Sphinx|Sphinx]]'
 dexterity: '+1'
-element: null
 fly_speed: '40'
 fortitude: '+16'
-hardness: null
 hp: '135'
 id: '384'
-immunity: null
 intelligence: '+5'
 land_speed: '35'
 language:
@@ -33,9 +27,6 @@ name: Sphinx
 perception: '+18'
 rarity: Common
 reflex: '+14'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision; [[DATABASE/spell/Detect Magic|detect magic]]
 - '[[DATABASE/spell/See Invisibility|see invisibility]]'
@@ -66,14 +57,12 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+19'
 wisdom: '+4'
 

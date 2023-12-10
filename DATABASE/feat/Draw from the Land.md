@@ -1,10 +1,6 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Draw from the Land
-frequency: null
-heighten_level: null
 id: '3000'
 level: '10'
 name: Draw from the Land
@@ -13,13 +9,9 @@ prerequisite: '[[DATABASE/feat/Geomancer Dedication|Geomancer Dedication]] ; Exp
 rarity: Common
 requirement: You gained a terrain attunement benefit this turn, and it matched the
   terrain you're in.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

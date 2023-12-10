@@ -1,20 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
-frequency: null
 id: '1375'
 name: Establish Settlement
 rarity: Common
 requirement: The hex in which you're establishing the settlement has been Cleared
   and doesn't currently have asettlement (including a Freehold) in it.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
 - '[[DATABASE/trait/Downtime|Downtime]]'
 - '[[DATABASE/trait/Region|Region]]'
-trigger: null
 type: Action
 
 ---

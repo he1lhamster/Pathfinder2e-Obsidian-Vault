@@ -1,10 +1,7 @@
 ﻿---
 ac: '24'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Explosive Decay
@@ -13,10 +10,7 @@ creature_ability:
 - Stay in the Fight
 creature_family: '[[DATABASE/monsterfamily/Fleshwarp|Fleshwarp]]'
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+15'
-hardness: null
 hp: 115 ( negative healing )
 id: '1044'
 immunity:
@@ -35,9 +29,6 @@ name: Mulventok
 perception: '+15'
 rarity: Uncommon
 reflex: '+11'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -50,12 +41,10 @@ source: '[[DATABASE/source/Pathfinder 164. Hands of the Devil|Pathfinder #164: H
   of the Devil]]'
 speed:
 - 25 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

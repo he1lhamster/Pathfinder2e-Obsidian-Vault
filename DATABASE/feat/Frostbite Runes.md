@@ -1,25 +1,18 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Frostbite Runes
-frequency: null
-heighten_level: null
 id: '3417'
+leads_to: '[[DATABASE/feat/Bound in Ice|Bound in Ice]] , [[DATABASE/feat/Curse of
+  the Saumen Kar|Curse of the Saumen Kar]]'
 level: '12'
 name: Frostbite Runes
 prerequisite: '[[DATABASE/feat/Pactbound Dedication|Pactbound Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Monsters of Myth|Monsters of Myth]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Primal|Primal]]'
-trigger: null
 type: Feat
 
 ---

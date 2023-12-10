@@ -5,12 +5,9 @@ ability:
 ability_boost:
 - Strength
 - Intelligence
-feat: null
 id: '307'
 name: Scion of Slayers
-prerequisite: null
 rarity: Rare
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]]'
 - Undead [[DATABASE/skill/Lore|Lore]]

@@ -2,9 +2,7 @@
 ac: '27'
 alignment: NE
 all_resistance: '10'
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Floating Corpses
@@ -13,10 +11,8 @@ creature_ability:
 - Sunlight Powerlessness
 creature_family: '[[DATABASE/monsterfamily/Wraith|Wraith]]'
 dexterity: '+4'
-element: null
 fly_speed: '60'
 fortitude: '+17'
-hardness: null
 hp: 110 ( negative healing )
 id: '1984'
 immunity:
@@ -27,7 +23,6 @@ immunity:
 - precision
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '+3'
-land_speed: null
 language:
 - '[[DATABASE/language/Common|Common]]'
 - '[[DATABASE/language/Necril|Necril]]'
@@ -42,8 +37,6 @@ resistance:
 - '[[DATABASE/equipment/Ghost Touch|ghost touch]]'
 - or [[DATABASE/trait/Positive|positive]] ;double resistance vs. non- [[DATABASE/trait/Magical|magical]]
   )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Lifesense|lifesense]] 60 feet'
@@ -56,12 +49,10 @@ source: '[[DATABASE/source/Pathfinder 180. The Smoking Gun|Pathfinder #180: The 
   Gun]]'
 speed:
 - fly 60 feet
-spell: null
 strength: '-5'
 strength_req: '-5'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Incorporeal|Incorporeal]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
@@ -72,7 +63,6 @@ vision: Darkvision
 weakest_save:
 - Fortitude
 - Reflex
-weakness: null
 will: '+21'
 wisdom: '+6'
 

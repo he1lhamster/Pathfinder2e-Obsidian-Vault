@@ -1,8 +1,6 @@
 ﻿---
 ac: '18'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
 climb_speed: '15'
 constitution: '+1'
@@ -11,15 +9,10 @@ creature_ability:
 - Hidden Movement
 - Strangling Fingers
 - Yank
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+7'
-hardness: null
 hp: '28'
 id: '583'
-immunity: null
 intelligence: '-3'
 land_speed: '20'
 language:
@@ -31,9 +24,6 @@ name: Choker
 perception: '+7'
 rarity: Common
 reflex: '+10'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -44,12 +34,10 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 20 feet
 - climb 15 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 type: Creature
@@ -57,7 +45,6 @@ vision: Darkvision
 weakest_save:
 - Fortitude
 - Will
-weakness: null
 will: '+7'
 wisdom: '+1'
 

@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Skitter
-frequency: null
-heighten_level: null
 id: '2151'
 level: '3'
 name: Skitter
 prerequisite: Dexterity 16; [[DATABASE/feat/Fleet|Fleet]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/General|General]]'
-trigger: null
 type: Feat
 
 ---

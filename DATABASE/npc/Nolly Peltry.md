@@ -1,10 +1,7 @@
 ﻿---
 ac: '31'
 alignment: CG
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Designate Bellflower Crop
@@ -13,14 +10,10 @@ creature_ability:
 - Liberating Trick
 - Quick Movements
 - Sneak Attack
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+18'
 hp: '185'
 id: '1562'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -34,9 +27,6 @@ name: Nolly Peltry
 perception: '+21'
 rarity: Unique
 reflex: '+24'
-resistance: null
-rus_type_level: null
-sense: null
 size: Small
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +22'
@@ -50,21 +40,17 @@ source: '[[DATABASE/source/Pathfinder 147. Tomorrow Must Burn|Pathfinder #147: T
   Must Burn]]'
 speed:
 - 25 feet; quick movements
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Halfling|Halfling]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+21'
 wisdom: '+4'
 

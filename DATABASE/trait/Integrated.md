@@ -2,7 +2,6 @@
 id: '481'
 name: Integrated
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 trait:
 - Integrated

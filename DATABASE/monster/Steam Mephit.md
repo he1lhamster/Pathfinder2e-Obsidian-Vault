@@ -1,10 +1,7 @@
 ﻿---
 ac: '16'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Boiling Rain
@@ -15,7 +12,6 @@ dexterity: '+2'
 element: Fire, Water
 fly_speed: '25'
 fortitude: '+9'
-hardness: null
 hp: 19 ( fast healing 2 (in boiling water or steam))
 id: '662'
 immunity:
@@ -35,9 +31,6 @@ name: Steam Mephit
 perception: '+3'
 rarity: Uncommon
 reflex: '+7'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - steam vision

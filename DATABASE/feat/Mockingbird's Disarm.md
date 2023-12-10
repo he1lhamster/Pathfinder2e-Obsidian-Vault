@@ -1,20 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Mockingbird's Disarm
 frequency: once per minute
-heighten_level: null
 id: '4148'
 level: '10'
 name: Mockingbird's Disarm
 prerequisite: '[[DATABASE/feat/Acrobat Dedication|Acrobat Dedication]]'
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Firebrands|Firebrands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

@@ -1,10 +1,7 @@
 ﻿---
 ac: '35'
 alignment: CG
-all_resistance: null
-burrow_speed: null
 charisma: '+8'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Change Shape
@@ -17,13 +14,9 @@ creature_ability:
 - Meld
 creature_family: '[[DATABASE/monsterfamily/Nymph|Nymph]]'
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+24'
-hardness: null
 hp: '220'
 id: '314'
-immunity: null
 intelligence: '+4'
 land_speed: '30'
 language:
@@ -37,9 +30,6 @@ name: Dryad Queen
 perception: '+25'
 rarity: Uncommon
 reflex: '+26'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 size: Medium
@@ -97,7 +87,6 @@ strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Nymph|Nymph]]'

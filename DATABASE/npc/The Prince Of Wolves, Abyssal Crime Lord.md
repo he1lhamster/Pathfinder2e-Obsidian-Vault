@@ -1,10 +1,7 @@
 ﻿---
 ac: '42'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Change Shape
@@ -16,14 +13,10 @@ creature_ability:
 - Tear Fate
 - Twin Parry
 - Twin Takedown
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+35'
 hp: '400'
 id: '2574'
-immunity: null
 intelligence: '+3'
 land_speed: '25'
 language:
@@ -39,8 +32,6 @@ name: The Prince Of Wolves
 perception: '+32'
 rarity: Unique
 reflex: '+30'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -72,7 +63,6 @@ strength: '+9'
 strength_req: '9'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Beastkin|Beastkin]]'
@@ -83,7 +73,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Reflex
-weakness: null
 will: '+32'
 wisdom: '+5'
 

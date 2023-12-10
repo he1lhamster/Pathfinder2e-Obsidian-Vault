@@ -1,8 +1,6 @@
 ﻿---
 bulk: '1'
 damage: 1d8 P
-deity: null
-favored_weapon: null
 hands: '2'
 id: '336'
 item_category: Weapons
@@ -12,7 +10,6 @@ name: Harpoon
 price: 1 gp
 range: 30 ft.
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 trait:
 - '[[DATABASE/trait/Tethered|Tethered]]'

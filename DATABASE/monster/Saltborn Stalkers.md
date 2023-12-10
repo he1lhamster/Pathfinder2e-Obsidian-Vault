@@ -1,10 +1,6 @@
 ﻿---
 ac: '34'
-alignment: null
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Form Up
@@ -14,12 +10,9 @@ creature_ability:
 - Scour the Bones
 - Troop Defenses
 - Troop Movement
-creature_family: null
 dexterity: '+7'
 element: Water
-fly_speed: null
 fortitude: '+22'
-hardness: null
 hp: 240 (16 squares)
 id: '2666'
 immunity:
@@ -37,9 +30,6 @@ name: Saltborn Stalkers
 perception: '+24'
 rarity: Common
 reflex: '+26'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Gargantuan
@@ -54,7 +44,6 @@ source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 speed:
 - 10 feet
 - swim 60 feet; troop movement
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:

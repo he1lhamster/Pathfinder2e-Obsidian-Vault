@@ -1,24 +1,15 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Disciple's Breath
-frequency: null
-heighten_level: null
 id: '1948'
 level: '16'
 name: Disciple's Breath
 prerequisite: '[[DATABASE/feat/Dragon Disciple Dedication|Dragon Disciple Dedication]]
   ; [[DATABASE/spell/Dragon Breath|dragon breath]] sorcerer bloodline spell'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

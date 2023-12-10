@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Monster Warden
-frequency: null
-heighten_level: null
 id: '497'
 level: '2'
 name: Monster Warden
 prerequisite: '[[DATABASE/feat/Monster Hunter|Monster Hunter]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Ranger|Ranger]]'
-trigger: null
 type: Feat
 
 ---

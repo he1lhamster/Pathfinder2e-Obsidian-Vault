@@ -1,24 +1,15 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Brutal Finish
-frequency: null
-heighten_level: null
 id: '406'
 level: '12'
 name: Brutal Finish
-prerequisite: null
 rarity: Common
 requirement: You are wielding a melee weapon in two hands.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fighter|Fighter]]'
 - '[[DATABASE/trait/Press|Press]]'
-trigger: null
 type: Feat
 
 ---

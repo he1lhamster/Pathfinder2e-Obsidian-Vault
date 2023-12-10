@@ -1,24 +1,18 @@
 ﻿---
 ac: '29'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Go for the Eyes
 - Opportunistic Attack
 - Quick Spiker
 - Snap Shot
-creature_family: null
 dexterity: '+5'
-element: null
 fly_speed: '25'
 fortitude: '+16'
 hp: '175'
 id: '2545'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -31,8 +25,6 @@ name: Raskus
 perception: '+18'
 rarity: Unique
 reflex: '+21'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
@@ -53,7 +45,6 @@ strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Tengu|Tengu]]'
@@ -62,7 +53,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+18'
 wisdom: '+2'
 

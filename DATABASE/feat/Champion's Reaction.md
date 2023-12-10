@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Champion's Reaction
-frequency: null
-heighten_level: null
 id: '691'
 level: '6'
 name: Champion's Reaction
 prerequisite: '[[DATABASE/feat/Champion Dedication|Champion Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,20 +1,13 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
 element: Air
 feat: Wiles on the Wind
-frequency: null
-heighten_level: null
 id: '4217'
 level: '12'
 name: Wiles on the Wind
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Illusion
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Auditory|Auditory]]'
@@ -22,7 +15,6 @@ trait:
 - '[[DATABASE/trait/Impulse|Impulse]]'
 - '[[DATABASE/trait/Kineticist|Kineticist]]'
 - '[[DATABASE/trait/Primal|Primal]]'
-trigger: null
 type: Feat
 
 ---

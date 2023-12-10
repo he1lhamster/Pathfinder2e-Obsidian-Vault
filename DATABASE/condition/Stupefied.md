@@ -1,7 +1,6 @@
 ﻿---
 id: '37'
 name: Stupefied
-source: null
 
 ---
 # Stupefied

@@ -1,54 +1,19 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
 bulk: L
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '767'
 item_category: Alchemical Items
 item_subcategory: Alchemical Other
-land_speed: null
 level: '3'
-max_speed: null
 name: Vestige Lenses
-onset: null
 price: 40 gp
-range: null
 rarity: Rare
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
-school: null
-size: null
 source: '[[DATABASE/source/Legends|Legends]]'
-spell: null
-stage: null
 subcategory: alchemical/other
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Alchemical|Alchemical]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Item
 usage: worn eyepiece
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Vestige Lenses<span class="item-type">Item 3</span>

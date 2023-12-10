@@ -1,20 +1,13 @@
 ﻿---
 ac: '24'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Constrict
 - Part of the Attic
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+19'
-hardness: null
 hp: '145'
 id: '2086'
 immunity:
@@ -26,16 +19,12 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-4'
 land_speed: '15'
-language: null
 level: '7'
 max_speed: '15'
 name: Hungering Growths
 perception: '+15'
 rarity: Uncommon
 reflex: '+15'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -47,12 +36,10 @@ source: '[[DATABASE/source/Pathfinder 183. Field of Maidens|Pathfinder #183: Fie
   of Maidens]]'
 speed:
 - 15 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

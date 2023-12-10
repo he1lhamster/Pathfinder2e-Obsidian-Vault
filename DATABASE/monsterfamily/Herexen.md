@@ -3,9 +3,7 @@ creature_family: Herexen
 id: '307'
 name: Herexen
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-trait: null
 type: Creature Family
 
 ---

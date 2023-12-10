@@ -1,10 +1,8 @@
 ﻿---
 ac: '41'
 alignment: CE
-all_resistance: null
 burrow_speed: '15'
 charisma: '+5'
-climb_speed: null
 constitution: '+9'
 creature_ability:
 - Breach Planar Wards
@@ -14,10 +12,8 @@ creature_ability:
 - Warp Sense
 creature_family: '[[DATABASE/monsterfamily/Demon|Demon]]'
 dexterity: '+5'
-element: null
 fly_speed: '35'
 fortitude: '+35'
-hardness: null
 hp: '415'
 id: '2524'
 immunity:
@@ -37,9 +33,6 @@ name: Katpaskir
 perception: '+31'
 rarity: Uncommon
 reflex: '+29'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/spell/See Invisibility|see invisibility]]'
@@ -74,7 +67,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Demon|Demon]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

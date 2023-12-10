@@ -1,8 +1,6 @@
 ﻿---
 ac: '23'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
 climb_speed: '30'
 constitution: '+2'
@@ -11,12 +9,9 @@ creature_ability:
 - Cunning Capsize
 - Draconic Grandeur
 - Tackle
-creature_family: null
 dexterity: '+5'
-element: null
 fly_speed: '60'
 fortitude: '+14'
-hardness: null
 hp: '110'
 id: '1625'
 immunity:
@@ -33,9 +28,6 @@ name: I'iko Dragon
 perception: '+12'
 rarity: Uncommon
 reflex: '+17'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -53,7 +45,6 @@ speed:
 - climb 30 feet
 - fly 60 feet
 - swim 30 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
@@ -67,7 +58,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+10'
 wisdom: '+2'
 

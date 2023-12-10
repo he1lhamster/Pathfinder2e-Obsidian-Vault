@@ -1,35 +1,24 @@
 ﻿---
 ac: '15'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-3'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Attack of Opportunity
 - Eurypterid Venom
 creature_family: '[[DATABASE/monsterfamily/Eurypterid|Eurypterid]]'
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+7'
-hardness: null
 hp: '9'
 id: '1151'
-immunity: null
 intelligence: '-5'
 land_speed: '30'
-language: null
 level: '-1'
 max_speed: '30'
 name: Common Eurypterid
 perception: '+2'
 rarity: Common
 reflex: '+4'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Wavesense|wavesense]] (imprecise) 30 feet'
@@ -41,7 +30,6 @@ source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 30 feet
 - swim 30 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
@@ -54,7 +42,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+2'
 wisdom: '+0'
 

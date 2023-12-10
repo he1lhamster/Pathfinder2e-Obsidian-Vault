@@ -1,25 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Dubious Knowledge
-frequency: null
-heighten_level: null
 id: '776'
 level: '1'
 name: Dubious Knowledge
 prerequisite: trained in a skill with the [[DATABASE/action/Recall Knowledge|Recall
   Knowledge]] action
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

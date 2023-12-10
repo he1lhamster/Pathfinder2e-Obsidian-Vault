@@ -2,9 +2,7 @@
 id: '49'
 name: Cliffscale Lizardfolk
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-trait: null
 type: Heritage
 
 ---

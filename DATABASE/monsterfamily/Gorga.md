@@ -3,10 +3,8 @@ creature_family: Gorga
 id: '331'
 name: Gorga
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 187. The Seventh Arch|Pathfinder #187: The Seventh
   Arch]]'
-trait: null
 type: Creature Family
 
 ---

@@ -2,7 +2,6 @@
 id: '80'
 name: Gnome
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - Gnome

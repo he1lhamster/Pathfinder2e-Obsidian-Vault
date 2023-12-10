@@ -1,10 +1,7 @@
 ﻿---
 ac: '34'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Breath Weapon
@@ -17,10 +14,8 @@ creature_ability:
 - Woodland Stride
 creature_family: '[[DATABASE/monsterfamily/Dragon, Green|Dragon, Green]]'
 dexterity: '+3'
-element: null
 fly_speed: '160'
 fortitude: '+20'
-hardness: null
 hp: '215'
 id: '134'
 immunity:
@@ -40,9 +35,6 @@ name: Adult Green Dragon
 perception: '+22'
 rarity: Common
 reflex: '+22'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - scent (imprecise) 60 feet
@@ -80,7 +72,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+23'
 wisdom: '+4'
 

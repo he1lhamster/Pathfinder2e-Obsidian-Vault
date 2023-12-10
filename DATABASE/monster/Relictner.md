@@ -1,10 +1,7 @@
 ﻿---
 ac: '32'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Consecration Vulnerability
@@ -15,13 +12,9 @@ creature_ability:
 - Weathering Aura
 creature_family: '[[DATABASE/monsterfamily/Mortic|Mortic]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+25'
-hardness: null
 hp: 265 ( negative healing )
 id: '1882'
-immunity: null
 intelligence: '+4'
 land_speed: '20'
 language:
@@ -34,9 +27,6 @@ name: Relictner Eroder
 perception: '+23'
 rarity: Rare
 reflex: '+18'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - lair sense
@@ -50,12 +40,10 @@ skill:
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 speed:
 - 20 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dwarf|Dwarf]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -65,7 +53,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+21'
 wisdom: '+5'
 

@@ -1,10 +1,7 @@
 ﻿---
 ac: '38'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+9'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Arcane Absorption
@@ -14,12 +11,9 @@ creature_ability:
 - Staff of
 - Power
 - Thought Theft
-creature_family: null
 dexterity: '+6'
-element: null
 fly_speed: '20'
 fortitude: '+28'
-hardness: null
 hp: '300'
 id: '1945'
 immunity:
@@ -53,8 +47,6 @@ reflex: '+30'
 resistance:
 - '[[DATABASE/trait/Mental|mental]] 15'
 - physical 15 (except [[DATABASE/equipment/Silver Weapon|silver]] )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 size: Medium
@@ -103,7 +95,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Devil|Devil]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

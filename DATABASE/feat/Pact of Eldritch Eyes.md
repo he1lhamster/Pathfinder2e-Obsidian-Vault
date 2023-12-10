@@ -1,26 +1,17 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Pact of Eldritch Eyes
-frequency: null
-heighten_level: null
 id: '3828'
 level: '14'
 name: Pact of Eldritch Eyes
 prerequisite: '[[DATABASE/feat/Pactbinder Dedication|Pactbinder Dedication]]'
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Divination
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Divination|Divination]]'
 - '[[DATABASE/trait/Occult|Occult]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

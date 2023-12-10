@@ -1,10 +1,5 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Environmental Grace
-frequency: null
-heighten_level: null
 id: '1179'
 level: '7'
 name: Environmental Grace
@@ -12,15 +7,11 @@ prerequisite: Master in [[DATABASE/skill/Survival|Survival]] ; deity who grants 
   [[DATABASE/domain/Cold Domain|cold]] , [[DATABASE/domain/Fire Domain|fire]] , [[DATABASE/domain/Nature
   Domain|nature]] , or [[DATABASE/domain/Travel Domain|travel]] domain
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
 subcategory: survival
 trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

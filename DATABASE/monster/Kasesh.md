@@ -1,20 +1,15 @@
 ﻿---
 ac: '19'
 alignment: LN
-all_resistance: null
 burrow_speed: '20'
 charisma: '+2'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Earth Block Trigger
 - Gestalt
-creature_family: null
 dexterity: '+2'
 element: Earth
-fly_speed: null
 fortitude: '+8'
-hardness: null
 hp: '35'
 id: '2409'
 immunity:
@@ -33,9 +28,6 @@ name: Kasesh
 perception: '+10'
 rarity: Uncommon
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) 60 feet'
@@ -61,7 +53,6 @@ strength: '-1'
 strength_req: '-1'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Elemental|Elemental]]'
@@ -70,7 +61,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+10'
 wisdom: '+3'
 

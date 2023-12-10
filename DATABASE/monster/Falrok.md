@@ -1,10 +1,8 @@
 ﻿---
 ac: '37'
 alignment: CE
-all_resistance: null
 burrow_speed: '20'
 charisma: '+6'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Consume Flesh
@@ -17,12 +15,8 @@ creature_ability:
 - Sneak Attack
 - Stench
 - Swift Leap
-creature_family: null
 dexterity: '+8'
-element: null
-fly_speed: null
 fortitude: '+26'
-hardness: null
 hp: 250 ( negative healing )
 id: '1573'
 immunity:
@@ -46,8 +40,6 @@ rarity: Unique
 reflex: '+29'
 resistance:
 - '[[DATABASE/trait/Positive|positive]] 15'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -64,12 +56,10 @@ source: '[[DATABASE/source/Pathfinder 148. Fires of the Haunted City|Pathfinder 
 speed:
 - 30 feet
 - burrow 20 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Ghoul|Ghoul]]'
 - '[[DATABASE/trait/Undead|Undead]]'
@@ -78,7 +68,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+23'
 wisdom: '+2'
 

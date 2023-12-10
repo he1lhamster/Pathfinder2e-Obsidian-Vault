@@ -1,10 +1,7 @@
 ﻿---
 ac: '23'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Pierce Armor
@@ -12,25 +9,17 @@ creature_ability:
 - Sneak Attack
 creature_family: '[[DATABASE/monsterfamily/Cat|Cat]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+15'
-hardness: null
 hp: '110'
 id: '70'
-immunity: null
 intelligence: '-4'
 land_speed: '30'
-language: null
 level: '6'
 max_speed: '30'
 name: Smilodon
 perception: '+14'
 rarity: Common
 reflex: '+12'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 - scent (imprecise) 60 feet
@@ -42,19 +31,16 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 30 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+10'
 wisdom: '+2'
 

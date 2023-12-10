@@ -1,10 +1,7 @@
 ﻿---
 ac: '21'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - All-Around Vision
@@ -13,15 +10,10 @@ creature_ability:
 - Gibbering
 - Ground Manipulation
 - Reactive Gnaw
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+15'
-hardness: null
 hp: '120'
 id: '227'
-immunity: null
 intelligence: '-3'
 land_speed: '10'
 language:
@@ -32,9 +24,6 @@ name: Gibbering Mouther
 perception: '+15'
 rarity: Common
 reflex: '+12'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -45,7 +34,6 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 10 feet
 - swim 20 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:

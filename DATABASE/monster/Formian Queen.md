@@ -1,10 +1,7 @@
 ﻿---
 ac: '40'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+8'
-climb_speed: null
 constitution: '+9'
 creature_ability:
 - Hive Frenzy
@@ -13,13 +10,9 @@ creature_ability:
 - Telepathic Feedback
 creature_family: '[[DATABASE/monsterfamily/Formian|Formian]]'
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+34'
-hardness: null
 hp: '255'
 id: '1672'
-immunity: null
 intelligence: '+5'
 land_speed: '10'
 language:
@@ -35,8 +28,6 @@ reflex: '+26'
 resistance:
 - all physical 15
 - '[[DATABASE/trait/Sonic|sonic]] 15'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 60 feet'
@@ -66,7 +57,6 @@ strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Formian|Formian]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
@@ -74,7 +64,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+31'
 wisdom: '+6'
 

@@ -2,7 +2,6 @@
 id: '90'
 name: Minatan
 rarity: Rare
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 167. Ready Fight!|Pathfinder #167: Ready? Fight!]]'
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'

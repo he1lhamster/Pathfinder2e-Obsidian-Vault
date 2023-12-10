@@ -1,26 +1,18 @@
 ﻿---
 ac: '10'
-burrow_speed: null
-climb_speed: null
 fly_speed: '25'
 fortitude: '+6'
 hardness: '0'
 hp: '16'
 id: '7'
 item_category: Vehicles
-land_speed: null
 level: '0'
 max_speed: '25'
 name: Glider
 price: 15 gp
 rarity: Uncommon
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 size: Large
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Vehicle

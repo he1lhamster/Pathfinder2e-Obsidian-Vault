@@ -2,9 +2,7 @@
 ac: '45'
 alignment: CN
 all_resistance: '10'
-burrow_speed: null
 charisma: '+9'
-climb_speed: null
 constitution: '+9'
 creature_ability:
 - Cough Spores
@@ -18,15 +16,11 @@ creature_ability:
 - Spores
 - Swallow Whole
 - Windsense
-creature_family: null
 dexterity: '+3'
-element: null
 fly_speed: '50'
 fortitude: '+38'
-hardness: null
 hp: '350'
 id: '302'
-immunity: null
 intelligence: '+4'
 land_speed: '40'
 language:
@@ -43,8 +37,6 @@ reflex: '+32'
 resistance:
 - acid 20
 - all (except sonic) 10
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 - windsense 240 feet
@@ -58,20 +50,17 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 40 feet
 - fly 50 feet
-spell: null
 strength: '+10'
 strength_req: '10'
 strongest_save:
 - Fortitude
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fungus|Fungus]]'
 type: Creature
 vision: Low-light vision
 weakest_save:
 - Reflex
-weakness: null
 will: '+38'
 wisdom: '+9'
 

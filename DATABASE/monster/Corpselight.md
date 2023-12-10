@@ -1,10 +1,7 @@
 ﻿---
 ac: '17'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Claim Corpse
@@ -14,10 +11,8 @@ creature_ability:
 - Wisp Form
 creature_family: '[[DATABASE/monsterfamily/Wisp|Wisp]]'
 dexterity: '+4'
-element: null
 fly_speed: '25'
 fortitude: '+5'
-hardness: null
 hp: 40 ( negative healing )
 id: '1035'
 immunity:
@@ -39,9 +34,6 @@ name: Corpselight
 perception: '+7'
 rarity: Rare
 reflex: '+10'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - corpse sense (precise) 30 feet
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
@@ -55,12 +47,10 @@ source: '[[DATABASE/source/Pathfinder 163. Ruins of Gauntlight|Pathfinder #163: 
 speed:
 - 25 feet
 - fly 25 feet (wisp form only)
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Undead|Undead]]'

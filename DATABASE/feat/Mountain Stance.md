@@ -1,24 +1,16 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Mountain Stance
-frequency: null
-heighten_level: null
 id: '435'
+leads_to: '[[DATABASE/feat/Mountain Stronghold|Mountain Stronghold]]'
 level: '1'
 name: Mountain Stance
-prerequisite: null
 rarity: Common
 requirement: You are unarmored and touching the ground.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Monk|Monk]]'
 - '[[DATABASE/trait/Stance|Stance]]'
-trigger: null
 type: Feat
 
 ---

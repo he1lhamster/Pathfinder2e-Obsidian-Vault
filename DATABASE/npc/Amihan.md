@@ -1,10 +1,7 @@
 ﻿---
 ac: '37'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Attack of Opportunity
@@ -12,14 +9,10 @@ creature_ability:
 - Shield Block
 - Shield Drum
 - Threatening Dance
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+25'
 hp: '275'
 id: '1502'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -32,9 +25,6 @@ name: Amihan
 perception: '+21'
 rarity: Rare
 reflex: '+28'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +30'
@@ -44,21 +34,17 @@ skill:
 source: '[[DATABASE/source/Pathfinder 167. Ready Fight!|Pathfinder #167: Ready? Fight!]]'
 speed:
 - 25 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+21'
 wisdom: '+0'
 

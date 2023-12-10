@@ -3,9 +3,7 @@ creature_family: Crocodile
 id: '24'
 name: Crocodile
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
-trait: null
 type: Creature Family
 
 ---

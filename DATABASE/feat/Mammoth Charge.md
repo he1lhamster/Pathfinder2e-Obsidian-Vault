@@ -1,25 +1,17 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Mammoth Charge
-frequency: null
-heighten_level: null
 id: '3444'
 level: '6'
 name: Mammoth Charge
 prerequisite: '[[DATABASE/feat/Mammoth Lord Dedication|Mammoth Lord Dedication]]'
 rarity: Common
 requirement: You are riding your megafauna companion.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 177. Burning Tundra|Pathfinder #177: Burning
   Tundra]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Flourish|Flourish]]'
-trigger: null
 type: Feat
 
 ---

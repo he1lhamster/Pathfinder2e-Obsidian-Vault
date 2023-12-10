@@ -1,35 +1,23 @@
 ﻿---
 ac: '17'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Bloodfire Fever
 - Pack Attack
-creature_family: null
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+14'
-hardness: null
 hp: '65'
 id: '835'
-immunity: null
 intelligence: '-4'
 land_speed: '35'
-language: null
 level: '3'
 max_speed: '35'
 name: Trollhound
 perception: '+6'
 rarity: Common
 reflex: '+8'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent (imprecise) 30 feet]]'
@@ -42,12 +30,10 @@ skill:
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 35 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Troll|Troll]]'

@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Eye for Numbers|Eye for Numbers]]'
 id: '167'
 name: Bookkeeper
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Society|Society]]'
 - Accounting [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

@@ -1,25 +1,16 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Slip the Grasp
-frequency: null
-heighten_level: null
 id: '2529'
 level: '9'
 name: Slip the Grasp
-prerequisite: null
 rarity: Common
 requirement: You are [[DATABASE/condition/Grabbed|grabbed]] , [[DATABASE/condition/Immobilized|immobilized]]
   , or [[DATABASE/condition/Restrained|restrained]] .
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fleshwarp|Fleshwarp]]'
 - '[[DATABASE/trait/Flourish|Flourish]]'
-trigger: null
 type: Feat
 
 ---

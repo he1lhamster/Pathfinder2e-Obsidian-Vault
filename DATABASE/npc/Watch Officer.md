@@ -1,10 +1,7 @@
 ﻿---
 ac: '20'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Air of Authority
@@ -14,12 +11,9 @@ creature_ability:
 - Sudden Charge
 creature_family: '[[DATABASE/monsterfamily/Officers|Officers]]'
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+10'
 hp: '45'
 id: '936'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -30,8 +24,6 @@ name: Watch Officer
 perception: '+8'
 rarity: Common
 reflex: '+6'
-resistance: null
-rus_type_level: null
 sense:
 - (9 to [[DATABASE/action/Sense Motive|Sense Motive]] )
 size: Medium
@@ -44,20 +36,16 @@ skill:
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 speed:
 - 25 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+8'
 wisdom: '+1'
 

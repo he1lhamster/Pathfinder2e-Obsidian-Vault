@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Cauldron
-frequency: null
-heighten_level: null
 id: '1562'
+leads_to: '[[DATABASE/feat/Temporary Potions|Temporary Potions]] , [[DATABASE/feat/Witch''s
+  Bottle|Witch''s Bottle]]'
 level: '1'
 name: Cauldron
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Witch|Witch]]'
-trigger: null
 type: Feat
 
 ---

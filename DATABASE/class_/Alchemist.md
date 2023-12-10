@@ -16,13 +16,10 @@ id: '1'
 name: Alchemist
 perception_proficiency: Trained
 rarity: Common
-rus_type_level: null
 skill_proficiency:
 - Trained in Crafting
 - Trained in a number of additional skills equal to 3 plus your Intelligence modifier
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-tradition: null
-trait: null
 type: Class
 
 ---

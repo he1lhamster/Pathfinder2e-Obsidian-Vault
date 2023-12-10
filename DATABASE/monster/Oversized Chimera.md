@@ -1,10 +1,7 @@
 ﻿---
 ac: '33'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Attack of Opportunity
@@ -14,15 +11,11 @@ creature_ability:
 - Three-Headed Strike
 - Triple
 - Opportunity
-creature_family: null
 dexterity: '+2'
-element: null
 fly_speed: '40'
 fortitude: '+25'
-hardness: null
 hp: '220'
 id: '2261'
-immunity: null
 intelligence: '-3'
 land_speed: '25'
 language:
@@ -33,9 +26,6 @@ name: Oversized Chimera
 perception: '+23'
 rarity: Rare
 reflex: '+22'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - scent (imprecise) 30 feet
@@ -48,12 +38,10 @@ source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 speed:
 - 25 feet
 - fly 40 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Rare|Rare]]'
@@ -61,7 +49,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+19'
 wisdom: '+5'
 

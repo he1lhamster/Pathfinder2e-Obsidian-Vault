@@ -1,22 +1,15 @@
 ﻿---
 ac: '33'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Destabilizing Field
 - Displace
 - Reposition
 - Transpose
-creature_family: null
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+22'
-hardness: null
 hp: '220'
 id: '1059'
 immunity:
@@ -37,8 +30,6 @@ reflex: '+22'
 resistance:
 - bludgeoning 10
 - slashing 10
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
@@ -58,7 +49,6 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Rare|Rare]]'

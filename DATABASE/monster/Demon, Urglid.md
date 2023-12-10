@@ -1,7 +1,6 @@
 ﻿---
 ac: '31'
 alignment: CE
-all_resistance: null
 burrow_speed: '40'
 charisma: '+4'
 climb_speed: '20'
@@ -13,13 +12,9 @@ creature_ability:
 - Ravenous Earth
 creature_family: '[[DATABASE/monsterfamily/Demon|Demon]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+26'
-hardness: null
 hp: '290'
 id: '2153'
-immunity: null
 intelligence: '+4'
 land_speed: '30'
 language:
@@ -35,9 +30,6 @@ name: Urglid (Grave Demon)
 perception: '+20'
 rarity: Uncommon
 reflex: '+20'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) 60 feet'
@@ -68,7 +60,6 @@ strength: '+9'
 strength_req: '9'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Demon|Demon]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

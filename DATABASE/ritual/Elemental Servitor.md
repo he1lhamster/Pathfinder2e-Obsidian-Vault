@@ -1,25 +1,17 @@
 ﻿---
-area: null
 cost: "rare items and offerings worth a total value of 2 gp \xD7 the spell rank \xD7\
   \ the target's level, see textfor more details"
 duration: see text
-element: null
-heighten: null
 heighten_level: '5'
 id: '104'
 level: '5'
 name: Elemental Servitor
 primary_check: '[[DATABASE/skill/Arcana|Arcana]] or [[DATABASE/skill/Nature|Nature]]
   (expert)'
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 secondary_casters: '2'
 secondary_check: '[[DATABASE/skill/Diplomacy|Diplomacy]]'
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-target: null
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Ritual

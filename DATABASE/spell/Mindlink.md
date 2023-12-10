@@ -1,11 +1,8 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Eritrice|Eritrice]]'
 - '[[DATABASE/deity/Followers of Fate|Followers of Fate]]'
@@ -14,22 +11,12 @@ deity:
 - '[[DATABASE/deity/Pharasma|Pharasma]]'
 - '[[DATABASE/deity/Suyuddha|Suyuddha]]'
 - '[[DATABASE/deity/Torag|Torag]]'
-domain: null
-duration: null
-element: null
-heighten: null
 heighten_level: '1'
 id: '195'
-lesson: null
 level: '1'
-mystery: null
 name: Mindlink
-patron_theme: null
 range: touch
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: 1 willing creature
@@ -38,7 +25,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Divination|Divination]]'
 - '[[DATABASE/trait/Mental|Mental]]'
-trigger: null
 type: Spell
 
 ---

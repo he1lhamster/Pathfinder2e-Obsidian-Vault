@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Advanced Element Control
-frequency: null
-heighten_level: null
 id: '4336'
+leads_to: '[[DATABASE/feat/Add Element|Add Element]]'
 level: '6'
 name: Advanced Element Control
 prerequisite: '[[DATABASE/feat/Through the Gate|Through the Gate]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

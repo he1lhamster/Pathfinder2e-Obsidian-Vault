@@ -1,10 +1,8 @@
 ﻿---
 ac: '35'
 alignment: N
-all_resistance: null
 burrow_speed: '40'
 charisma: '-1'
-climb_speed: null
 constitution: '+8'
 creature_ability:
 - Azure Worm Venom
@@ -16,25 +14,17 @@ creature_ability:
 - Thrash
 creature_family: '[[DATABASE/monsterfamily/Cave Worm|Cave Worm]]'
 dexterity: '-1'
-element: null
-fly_speed: null
 fortitude: '+32'
-hardness: null
 hp: '320'
 id: '74'
-immunity: null
 intelligence: '-5'
 land_speed: '40'
-language: null
 level: '15'
 max_speed: '60'
 name: Azure Worm
 perception: '+22'
 rarity: Uncommon
 reflex: '+20'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - tremorsense (imprecise) 100 feet
@@ -47,7 +37,6 @@ speed:
 - 40 feet
 - burrow 40 feet
 - swim 60 feet
-spell: null
 strength: '+10'
 strength_req: '10'
 strongest_save:
@@ -61,7 +50,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+23'
 wisdom: '-1'
 

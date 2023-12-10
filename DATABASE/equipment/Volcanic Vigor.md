@@ -1,46 +1,15 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
 element: Fire
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '2677'
 item_category: Tattoos
-item_subcategory: null
-land_speed: null
-level: '15'
-max_speed: null
+level: '10'
 name: Volcanic Vigor
-onset: null
-price: 6,000 gp
-range: null
+price: 900 gp
 rarity: Uncommon
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
-size: null
 source: '[[DATABASE/source/Pathfinder 195. Heavy is the Crown|Pathfinder #195: Heavy
   is the Crown]]'
-spell: null
-stage: null
 subcategory: tattoo
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Fire|Fire]]'
@@ -48,12 +17,8 @@ trait:
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Tattoo|Tattoo]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Item
 usage: tattoo
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Volcanic Vigor<span class="item-type">Item 10+</span>

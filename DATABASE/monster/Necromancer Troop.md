@@ -1,10 +1,7 @@
 ﻿---
 ac: '29'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Form Up
@@ -12,15 +9,10 @@ creature_ability:
 - Troop Defenses
 - Troop Movement
 - Troop Spellcasting
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+30'
-hardness: null
 hp: 270 (16 squares)
 id: '2434'
-immunity: null
 intelligence: '+8'
 land_speed: '25'
 language:
@@ -34,10 +26,6 @@ name: Necromancer Troop
 perception: '+35'
 rarity: Uncommon
 reflex: '+30'
-resistance: null
-rus_type_level: null
-school: null
-sense: null
 size: Gargantuan
 skill:
 - '[[DATABASE/skill/Arcana|Arcana]] +35'
@@ -62,13 +50,11 @@ strength: '+10'
 strength_req: '10'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Troop|Troop]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
 - Reflex

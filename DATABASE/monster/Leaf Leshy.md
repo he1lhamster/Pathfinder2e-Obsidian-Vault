@@ -1,10 +1,7 @@
 ﻿---
 ac: '18'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Change Shape
@@ -13,13 +10,9 @@ creature_ability:
 - Verdant Burst
 creature_family: '[[DATABASE/monsterfamily/Leshy|Leshy]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+6'
-hardness: null
 hp: '15'
 id: '279'
-immunity: null
 intelligence: '-2'
 land_speed: '25'
 language:
@@ -33,9 +26,6 @@ name: Leaf Leshy
 perception: '+4'
 rarity: Common
 reflex: '+6'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 size: Small
@@ -53,7 +43,6 @@ strength_req: '-1'
 strongest_save:
 - Fortitude
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Leshy|Leshy]]'
 - '[[DATABASE/trait/Plant|Plant]]'

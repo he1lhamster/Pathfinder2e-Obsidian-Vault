@@ -1,24 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Manipulative Charm
-frequency: null
-heighten_level: null
 id: '3547'
+leads_to: '[[DATABASE/feat/Dominating Gaze|Dominating Gaze]]'
 level: '4'
 name: Manipulative Charm
 prerequisite: '[[DATABASE/feat/Vampire Dedication|Vampire Dedication]] ; Trained in
   [[DATABASE/skill/Deception|Deception]] or Trained in [[DATABASE/skill/Diplomacy|Diplomacy]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

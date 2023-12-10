@@ -1,10 +1,7 @@
 ﻿---
 ac: '28'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Deadeye
@@ -14,15 +11,10 @@ creature_ability:
 - Pistolero's Retort
 - ''
 - Ricochet
-creature_family: null
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+21'
-hardness: null
 hp: '161'
 id: '1988'
-immunity: null
 intelligence: '+0'
 land_speed: '30'
 language:
@@ -35,9 +27,6 @@ name: Viewslog
 perception: '+18'
 rarity: Unique
 reflex: '+18'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Large
@@ -50,12 +39,10 @@ source: '[[DATABASE/source/Pathfinder 180. The Smoking Gun|Pathfinder #180: The 
   Gun]]'
 speed:
 - 30 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Giant|Giant]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -64,7 +51,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+15'
 wisdom: '+3'
 

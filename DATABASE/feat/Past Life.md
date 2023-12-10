@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Past Life
-frequency: null
-heighten_level: null
 id: '3536'
 level: '5'
 name: Past Life
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Skeleton|Skeleton]]'
-trigger: null
 type: Feat
 
 ---

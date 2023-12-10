@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Aggravating Scratch
-frequency: null
-heighten_level: null
 id: '1262'
 level: '9'
 name: Aggravating Scratch
 prerequisite: claw unarmed attack
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Catfolk|Catfolk]]'
 - '[[DATABASE/trait/Disease|Disease]]'
-trigger: null
 type: Feat
 
 ---

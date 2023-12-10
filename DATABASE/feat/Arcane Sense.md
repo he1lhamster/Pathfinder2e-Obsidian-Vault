@@ -1,24 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Arcane Sense
-frequency: null
-heighten_level: null
 id: '754'
+leads_to: '[[DATABASE/feat/Eye of the Arclords|Eye of the Arclords]]'
 level: '1'
 name: Arcane Sense
 prerequisite: Trained in [[DATABASE/skill/Arcana|Arcana]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: arcana
 trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

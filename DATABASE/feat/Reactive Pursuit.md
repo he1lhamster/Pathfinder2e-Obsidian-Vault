@@ -1,20 +1,11 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Reactive Pursuit
-frequency: null
-heighten_level: null
 id: '564'
 level: '4'
 name: Reactive Pursuit
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Rogue|Rogue]]'
 trigger: An adjacent foe moves away from you, and you can reach at least one space

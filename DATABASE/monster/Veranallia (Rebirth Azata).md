@@ -1,23 +1,17 @@
 ﻿---
 ac: '45'
 alignment: CG
-all_resistance: null
-burrow_speed: null
 charisma: '+8'
-climb_speed: null
 constitution: '+8'
 creature_ability:
 - Alter Weather
 - Rebirth
 creature_family: '[[DATABASE/monsterfamily/Azata|Azata]]'
 dexterity: '+6'
-element: null
 fly_speed: '40'
 fortitude: '+36'
-hardness: null
 hp: '475'
 id: '560'
-immunity: null
 intelligence: '+6'
 land_speed: '40'
 language:
@@ -36,8 +30,6 @@ reflex: '+34'
 resistance:
 - fire 20
 - cold 20
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Tremorsense|tremorsense (imprecise) 120 feet]]'
@@ -75,7 +67,6 @@ strength: '+8'
 strength_req: '8'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Azata|Azata]]'
 - '[[DATABASE/trait/Celestial|Celestial]]'

@@ -1,8 +1,6 @@
 ﻿---
 ac: '24'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
 climb_speed: '30'
 constitution: '+4'
@@ -13,14 +11,10 @@ creature_ability:
 - Knuckle Knock
 - Leap Away
 - Really Big Gun
-creature_family: null
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+10'
 hp: '60'
 id: '1940'
-immunity: null
 intelligence: '+3'
 land_speed: '20'
 language:
@@ -35,7 +29,6 @@ reflex: '+14'
 resistance:
 - physical 5 (except [[DATABASE/equipment/Adamantine Weapon|adamantine]] or [[DATABASE/equipment/Orichalcum
   Weapon|orichalcum]] )
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Small
@@ -51,12 +44,10 @@ source: '[[DATABASE/source/Pathfinder 178. Punks in a Powderkeg|Pathfinder #178:
 speed:
 - 20 feet
 - climb 30 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'

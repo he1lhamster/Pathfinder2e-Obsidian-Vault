@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Jinx Glutton
-frequency: null
-heighten_level: null
 id: '2443'
 level: '13'
 name: Jinx Glutton
 prerequisite: '[[DATABASE/feat/Eat Fortune|Eat Fortune]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Tengu|Tengu]]'
-trigger: null
 type: Feat
 
 ---

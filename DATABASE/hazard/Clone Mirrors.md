@@ -1,8 +1,6 @@
 ﻿---
 ac: '21'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+17'
 hardness: 13 per mirror
 hazard_type: Trap
@@ -14,17 +12,12 @@ level: '6'
 name: Clone Mirrors
 rarity: Common
 reflex: '+11'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 trait:
 - '[[DATABASE/trait/Complex|Complex]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Clone Mirrors<span class="item-type">Hazard 6</span>

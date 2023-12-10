@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Talismanic Sage
-frequency: null
-heighten_level: null
 id: '2082'
 level: '14'
 name: Talismanic Sage
 prerequisite: '[[DATABASE/feat/Talisman Dabbler Dedication|Talisman Dabbler Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

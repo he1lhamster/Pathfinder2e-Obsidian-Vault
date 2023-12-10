@@ -1,8 +1,6 @@
 ﻿---
 ac: '45'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+36'
 hardness: 35 (window)
 hazard_type: Haunt
@@ -14,15 +12,10 @@ level: '20'
 name: Spirit Window
 rarity: Common
 reflex: '+30'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 trait:
 - '[[DATABASE/trait/Haunt|Haunt]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Spirit Window<span class="item-type">Hazard 20</span>

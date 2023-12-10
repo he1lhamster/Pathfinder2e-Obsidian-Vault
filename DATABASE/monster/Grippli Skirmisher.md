@@ -1,8 +1,6 @@
 ﻿---
 ac: '22'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
 climb_speed: '20'
 constitution: '+3'
@@ -14,13 +12,9 @@ creature_ability:
 - Wily Attack
 creature_family: '[[DATABASE/monsterfamily/Grippli|Grippli]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+11'
-hardness: null
 hp: '60'
 id: '1623'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -32,9 +26,6 @@ name: Grippli Skirmisher
 perception: '+12'
 rarity: Common
 reflex: '+14'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -49,12 +40,10 @@ source: '[[DATABASE/source/Pathfinder 170. Spoken on the Song Wind|Pathfinder #1
 speed:
 - 25 feet
 - climb 20 feet; jungle stride
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Grippli|Grippli]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -62,7 +51,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+9'
 wisdom: '+3'
 

@@ -1,28 +1,19 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Bodysnatcher
-frequency: null
-heighten_level: null
 id: '3892'
 level: '14'
 name: Bodysnatcher
 prerequisite: '[[DATABASE/feat/Secret Eater|Secret Eater]]'
 rarity: Rare
-requirement: null
-rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Pathfinder 184. The Ghouls Hunger|Pathfinder #184: The
   Ghouls Hunger]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Divine|Divine]]'
 - '[[DATABASE/trait/Polymorph|Polymorph]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Feat
 
 ---

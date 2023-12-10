@@ -1,10 +1,7 @@
 ﻿---
 ac: '42'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+7'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Bonetaker
@@ -12,12 +9,9 @@ creature_ability:
 - Shard Storm
 - Skeletal Lore
 - Splintered Ground
-creature_family: null
 dexterity: '+6'
-element: null
 fly_speed: '60'
 fortitude: '+31'
-hardness: null
 hp: '300'
 id: '377'
 immunity:
@@ -40,8 +34,6 @@ reflex: '+33'
 resistance:
 - piercing 15
 - slashing 15
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - '[[DATABASE/spell/True Seeing|true seeing]]'
@@ -65,7 +57,6 @@ strength: '+8'
 strength_req: '8'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 - '[[DATABASE/trait/Undead|Undead]]'
@@ -73,7 +64,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+35'
 wisdom: '+8'
 

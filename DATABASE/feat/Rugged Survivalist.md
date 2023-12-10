@@ -1,25 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Rugged Survivalist
-frequency: null
-heighten_level: null
 id: '2260'
 level: '12'
 name: Rugged Survivalist
 prerequisite: '[[DATABASE/feat/Swordmaster Dedication|Swordmaster Dedication]] ; Master
   in [[DATABASE/skill/Survival|Survival]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

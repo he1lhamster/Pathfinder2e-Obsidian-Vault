@@ -1,20 +1,14 @@
 ﻿---
 ac: '24'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Motion Sense
 - Spore Explosion
 creature_family: '[[DATABASE/monsterfamily/Deadly Puffball|Deadly Puffball]]'
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+20'
-hardness: null
 hp: '170'
 id: '1380'
 immunity:
@@ -26,16 +20,12 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '10'
-language: null
 level: '8'
 max_speed: '10'
 name: Dragon's Blood Puffball
 perception: '+12'
 rarity: Uncommon
 reflex: '+15'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - motion sense 60 feet
 - no vision
@@ -46,18 +36,15 @@ source: '[[DATABASE/source/Pathfinder 165. Eyes of Empty Death|Pathfinder #165: 
   of Empty Death]]'
 speed:
 - 10 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fungus|Fungus]]'
 - '[[DATABASE/trait/Mindless|Mindless]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
 weakness:

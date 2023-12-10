@@ -5,34 +5,19 @@ bloodline: '[[DATABASE/sorcererbloodline/Imperial|Imperial]]'
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
-heighten: null
 heighten_level: '7'
 id: '233'
-lesson: null
 level: '7'
-mystery: null
 name: Prismatic Spray
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Arcane
 - Occult
 trait:
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Light|Light]]'
-trigger: null
 type: Spell
 
 ---

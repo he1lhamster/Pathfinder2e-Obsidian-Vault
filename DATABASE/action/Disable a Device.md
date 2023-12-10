@@ -1,19 +1,13 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
-frequency: null
 id: '69'
 name: Disable a Device
 rarity: Common
 requirement: "Some devices require you to use [[DATABASE/equipment/Thieves' Tools|thieves\u2019\
   \ tools]] whendisabling them."
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
-trigger: null
 type: Action
 
 ---

@@ -3,9 +3,7 @@ element: Air
 id: '4'
 item_category: Relics
 name: Lightning Storm
-prerequisite: null
 rarity: Common
-rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:

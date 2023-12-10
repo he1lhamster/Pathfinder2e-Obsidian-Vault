@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Ooze Empathy
-frequency: null
-heighten_level: null
 id: '2189'
 level: '8'
 name: Ooze Empathy
 prerequisite: '[[DATABASE/feat/Oozemorph Dedication|Oozemorph Dedication]] ; at least
   two other class feats fromthe oozemorph archetype'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/The Slithering|The Slithering]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

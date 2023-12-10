@@ -1,27 +1,19 @@
 ﻿---
 ac: '33'
 alignment: N
-all_resistance: null
 burrow_speed: '20'
 charisma: '+1'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Armor-Rending
 - Shuln Saliva
 - Unstoppable Burrow
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+25'
-hardness: null
 hp: '195'
 id: '369'
-immunity: null
 intelligence: '-3'
 land_speed: '40'
-language: null
 level: '12'
 max_speed: '40'
 name: Shuln
@@ -31,8 +23,6 @@ reflex: '+19'
 resistance:
 - physical 10 (except adamantine or bludgeoning)
 - poison 15
-rus_type_level: null
-school: null
 sense:
 - scent 30 feet
 - tremorsense (imprecise) 60 feet
@@ -44,20 +34,16 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 40 feet
 - burrow 20 feet; unstoppable burrow
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+21'
 wisdom: '+4'
 

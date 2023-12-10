@@ -1,10 +1,7 @@
 ﻿---
 ac: '24'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Deep Breath
@@ -12,13 +9,9 @@ creature_ability:
 - Move the Stars
 creature_family: '[[DATABASE/monsterfamily/Lizardfolk|Lizardfolk]]'
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+12'
-hardness: null
 hp: '115'
 id: '1657'
-immunity: null
 intelligence: '+4'
 land_speed: '25'
 language:
@@ -31,10 +24,6 @@ name: Terwa Star Reader
 perception: '+18'
 rarity: Uncommon
 reflex: '+15'
-resistance: null
-rus_type_level: null
-school: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +19'
@@ -64,16 +53,13 @@ strength: '+1'
 strength_req: '1'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Lizardfolk|Lizardfolk]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+18'
 wisdom: '+6'
 

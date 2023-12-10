@@ -3,7 +3,6 @@ id: '21'
 level: '0'
 name: Local Disaster
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Industry|Industry]]'
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'

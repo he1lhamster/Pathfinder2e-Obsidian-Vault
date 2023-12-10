@@ -1,24 +1,16 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Energized Font
 frequency: once per day
-heighten_level: null
 id: '33'
 level: '5'
 name: Energized Font
 prerequisite: focus pool, at least one innate spell from a gnome heritage or ancestry
   feat that shares a traditionwith at least one of your focus spells
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Gnome|Gnome]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,10 +1,7 @@
 ﻿---
 ac: '42'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Frightful Presence
@@ -17,13 +14,10 @@ creature_ability:
 - Trample
 creature_family: '[[DATABASE/monsterfamily/Demon|Demon]]'
 dexterity: '+4'
-element: null
 fly_speed: '40'
 fortitude: '+32'
-hardness: null
 hp: '350'
 id: '976'
-immunity: null
 intelligence: '+4'
 land_speed: '40'
 language:
@@ -37,9 +31,6 @@ name: Vavakia
 perception: '+32'
 rarity: Uncommon
 reflex: '+28'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/spell/True Seeing|true seeing]]'
@@ -67,7 +58,6 @@ strength: '+9'
 strength_req: '9'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Demon|Demon]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

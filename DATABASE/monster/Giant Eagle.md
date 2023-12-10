@@ -1,10 +1,7 @@
 ﻿---
 ac: '19'
 alignment: NG
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Eagle Dive
@@ -12,13 +9,10 @@ creature_ability:
 - Snatch
 creature_family: '[[DATABASE/monsterfamily/Eagle|Eagle]]'
 dexterity: '+4'
-element: null
 fly_speed: '60'
 fortitude: '+6'
-hardness: null
 hp: '45'
 id: '173'
-immunity: null
 intelligence: '+0'
 land_speed: '10'
 language:
@@ -30,9 +24,6 @@ name: Giant Eagle
 perception: '+11'
 rarity: Common
 reflex: '+11'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 size: Large
@@ -43,19 +34,16 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 10 feet
 - fly 60 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 type: Creature
 vision: Low-light vision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+9'
 wisdom: '+2'
 

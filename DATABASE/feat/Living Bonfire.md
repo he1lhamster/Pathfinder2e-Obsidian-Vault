@@ -1,20 +1,13 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
 element: Fire, Wood
 feat: Living Bonfire
-frequency: null
 heighten_level: 4, 9, 14, 19
 id: '4298'
 level: '4'
 name: Living Bonfire
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Composite|Composite]]'
 - '[[DATABASE/trait/Fire|Fire]]'
@@ -22,7 +15,6 @@ trait:
 - '[[DATABASE/trait/Kineticist|Kineticist]]'
 - '[[DATABASE/trait/Primal|Primal]]'
 - '[[DATABASE/trait/Wood|Wood]]'
-trigger: null
 type: Feat
 
 ---

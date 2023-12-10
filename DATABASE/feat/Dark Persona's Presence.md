@@ -1,20 +1,12 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Dark Persona's Presence
-frequency: null
-heighten_level: null
 id: '3673'
 level: '8'
 name: Dark Persona's Presence
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Enchantment
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Aura|Aura]]'
 - '[[DATABASE/trait/Emotion|Emotion]]'

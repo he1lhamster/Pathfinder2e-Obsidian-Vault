@@ -1,27 +1,18 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Jelly Body
-frequency: null
-heighten_level: null
 id: '3753'
 level: '6'
 name: Jelly Body
 prerequisite: You've been reduced to 0 Hit Points while engulfed by an [[DATABASE/trait/Ooze|ooze]]
   .
 rarity: Rare
-requirement: null
-rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Aftermath|Aftermath]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Feat
 
 ---

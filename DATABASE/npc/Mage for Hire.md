@@ -1,20 +1,13 @@
 ﻿---
 ac: '17'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+1'
-creature_ability: null
 creature_family: '[[DATABASE/monsterfamily/Mercenaries|Mercenaries]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+8'
 hp: '31'
 id: '922'
-immunity: null
 intelligence: '+4'
 land_speed: '25'
 language:
@@ -25,9 +18,6 @@ name: Mage for Hire
 perception: '+7'
 rarity: Common
 reflex: '+9'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Arcana|Arcana]] +11'
@@ -57,15 +47,12 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+10'
 wisdom: '+1'
 

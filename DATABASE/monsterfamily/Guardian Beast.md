@@ -3,9 +3,7 @@ creature_family: Guardian Beast
 id: '241'
 name: Guardian Beast
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
-trait: null
 type: Creature Family
 
 ---

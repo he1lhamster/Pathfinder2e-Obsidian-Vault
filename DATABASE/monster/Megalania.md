@@ -1,35 +1,24 @@
 ﻿---
 ac: '25'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Megalania Venom
 - Swallow Whole
 creature_family: '[[DATABASE/monsterfamily/Lizard|Lizard]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+17'
-hardness: null
 hp: '125'
 id: '725'
-immunity: null
 intelligence: '-4'
 land_speed: '25'
-language: null
 level: '7'
 max_speed: '25'
 name: Megalania
 perception: '+15'
 rarity: Common
 reflex: '+15'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Scent|scent (imprecise) 60 feet]]'
@@ -41,7 +30,6 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 25 feet
 - swim 25 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
@@ -53,7 +41,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+13'
 wisdom: '+2'
 

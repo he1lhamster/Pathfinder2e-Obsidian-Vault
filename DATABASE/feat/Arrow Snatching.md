@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Arrow Snatching
-frequency: null
-heighten_level: null
 id: '458'
 level: '8'
 name: Arrow Snatching
 prerequisite: '[[DATABASE/feat/Deflect Arrow|Deflect Arrow]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Monk|Monk]]'
-trigger: null
 type: Feat
 
 ---

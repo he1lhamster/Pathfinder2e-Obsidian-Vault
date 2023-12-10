@@ -1,10 +1,6 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Mobile Magical Combat
-frequency: null
-heighten_level: null
 id: '2248'
 level: '16'
 name: Mobile Magical Combat
@@ -12,14 +8,10 @@ prerequisite: '[[DATABASE/feat/Spellmaster Dedication|Spellmaster Dedication]]'
 rarity: Common
 requirement: You're wielding a melee weapon and have Cast a Spell requiring at least
   1 action this turn.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Flourish|Flourish]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,10 +1,7 @@
 ﻿---
 ac: '19'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - '3'
@@ -17,10 +14,8 @@ creature_ability:
 - Needles
 creature_family: '[[DATABASE/monsterfamily/Sprite|Sprite]]'
 dexterity: '+4'
-element: null
 fly_speed: '40'
 fortitude: '+5'
-hardness: null
 hp: '32'
 id: '2702'
 immunity:
@@ -28,16 +23,12 @@ immunity:
 - swarm mind
 intelligence: '+0'
 land_speed: '10'
-language: null
 level: '3'
 max_speed: '40'
 name: Ether Sprite Swarm
 perception: '+9'
 rarity: Common
 reflex: '+11'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Large
@@ -52,12 +43,10 @@ source: '[[DATABASE/source/Pathfinder 194. Cult of the Cave Worm|Pathfinder #194
 speed:
 - 10 feet
 - fly 40 feet
-spell: null
 strength: '-2'
 strength_req: '-2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Swarm|Swarm]]'

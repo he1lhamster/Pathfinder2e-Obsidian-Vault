@@ -1,10 +1,7 @@
 ﻿---
 ac: '24'
 alignment: CG
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Solstice Dependent
@@ -12,13 +9,9 @@ creature_ability:
 - Summer's Salvation
 creature_family: '[[DATABASE/monsterfamily/Nymph|Nymph]]'
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+11'
-hardness: null
 hp: '90'
 id: '1813'
-immunity: null
 intelligence: '+3'
 land_speed: '25'
 language:
@@ -35,8 +28,6 @@ rarity: Rare
 reflex: '+14'
 resistance:
 - '[[DATABASE/trait/Fire|fire]] 5'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
@@ -67,7 +58,6 @@ strength: '+1'
 strength_req: '1'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Nymph|Nymph]]'

@@ -3,9 +3,7 @@ creature_family: Boar
 id: '15'
 name: Boar
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
-trait: null
 type: Creature Family
 
 ---

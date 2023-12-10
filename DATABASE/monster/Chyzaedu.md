@@ -1,7 +1,6 @@
 ﻿---
 ac: '30'
 alignment: CE
-all_resistance: null
 burrow_speed: '20'
 charisma: '+3'
 climb_speed: '20'
@@ -10,15 +9,10 @@ creature_ability:
 - Alien Vestment
 - Ecstatic Hunger
 - Swallow Whole
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+18'
-hardness: null
 hp: '135'
 id: '1093'
-immunity: null
 intelligence: '+2'
 land_speed: '25'
 language:
@@ -39,8 +33,6 @@ resistance:
 - acid 10
 - mental 10
 - physical 10
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) 60 feet'
@@ -80,7 +72,6 @@ strength: '+7'
 strength_req: '7'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Rare|Rare]]'
@@ -88,7 +79,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+23'
 wisdom: '+7'
 

@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Gnome Obsession
-frequency: null
-heighten_level: null
 id: '29'
+leads_to: '[[DATABASE/feat/Eclectic Obsession|Eclectic Obsession]]'
 level: '1'
 name: Gnome Obsession
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Gnome|Gnome]]'
-trigger: null
 type: Feat
 
 ---

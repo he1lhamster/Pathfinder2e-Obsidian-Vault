@@ -1,31 +1,20 @@
 ﻿---
 actions: '[two-actions]'
 area: 10-foot burst
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
-duration: null
 element: Fire
 heighten: '+2'
 heighten_level: 2, 4, 6, 8, 10
 id: '928'
-lesson: null
 level: '2'
-mystery: null
 name: Ignite Fireworks
-patron_theme: null
 range: 60 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Reflex
 school: Evocation
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-target: null
 tradition:
 - Arcane
 - Primal
@@ -33,7 +22,6 @@ trait:
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Fire|Fire]]'
 - '[[DATABASE/trait/Sonic|Sonic]]'
-trigger: null
 type: Spell
 
 ---

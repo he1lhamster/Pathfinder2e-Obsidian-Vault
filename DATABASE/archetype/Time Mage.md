@@ -4,7 +4,6 @@ level: '6'
 name: Time Mage
 prerequisite: You have a spellcasting class feature.
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

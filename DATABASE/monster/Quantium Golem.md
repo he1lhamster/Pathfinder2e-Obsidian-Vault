@@ -1,10 +1,7 @@
 ﻿---
 ac: '47'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Defender's Link
@@ -16,10 +13,7 @@ creature_ability:
 - Vulnerable to Banishment
 creature_family: '[[DATABASE/monsterfamily/Golem|Golem]]'
 dexterity: '+8'
-element: null
-fly_speed: null
 fortitude: '+35'
-hardness: null
 hp: '325'
 id: '2413'
 immunity:
@@ -41,7 +35,6 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '50'
-language: null
 level: '20'
 max_speed: '50'
 name: Quantium Golem
@@ -50,8 +43,6 @@ rarity: Rare
 reflex: '+32'
 resistance:
 - physical 20 (except [[DATABASE/equipment/Adamantine Weapon|adamantine]] )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - defender's link
@@ -62,12 +53,10 @@ skill:
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 speed:
 - 50 feet
-spell: null
 strength: '+10'
 strength_req: '10'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Golem|Golem]]'
@@ -78,7 +67,6 @@ vision: Darkvision
 weakest_save:
 - Reflex
 - Will
-weakness: null
 will: '+32'
 wisdom: '+8'
 

@@ -1,20 +1,14 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Mask of Rejection
 frequency: once per day
-heighten_level: null
 id: '2418'
 level: '5'
 name: Mask of Rejection
 prerequisite: '[[DATABASE/feat/Orc Warmask|Orc Warmask]]'
 rarity: Common
 requirement: You're wearing yourwarmask.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fortune|Fortune]]'
 - '[[DATABASE/trait/Orc|Orc]]'

@@ -4,7 +4,6 @@ level: '4'
 name: Firebrand Braggart
 prerequisite: Charisma 14; second mark member of the Firebrands
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

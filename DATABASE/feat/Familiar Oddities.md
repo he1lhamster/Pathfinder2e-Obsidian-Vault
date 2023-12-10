@@ -1,10 +1,5 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Familiar Oddities
-frequency: null
-heighten_level: null
 id: '3830'
 level: '2'
 name: Familiar Oddities
@@ -12,15 +7,10 @@ prerequisite: '[[DATABASE/feat/Curse Maelstrom Dedication|Curse Maelstrom Dedica
   ; Trained in [[DATABASE/skill/Occultism|Occultism]] or Trained in [[DATABASE/skill/Lore|Curse
   Lore]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

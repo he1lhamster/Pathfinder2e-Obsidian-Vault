@@ -1,23 +1,17 @@
 ﻿---
 ac: '29'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Evasion
 - Nimble Dodge
 - Sprinkle Pixie Dust
-creature_family: null
 dexterity: '+6'
-element: null
 fly_speed: '45'
 fortitude: '+15'
 hp: '95'
 id: '2103'
-immunity: null
 intelligence: '+2'
 land_speed: '15'
 language:
@@ -28,8 +22,6 @@ name: Pug Tingwheely
 perception: '+19'
 rarity: Unique
 reflex: '+20'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Small
@@ -58,7 +50,6 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Sprite|Sprite]]'

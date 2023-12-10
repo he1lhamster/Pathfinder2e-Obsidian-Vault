@@ -1,26 +1,18 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
 element: Air
 feat: Four Winds
-frequency: null
 heighten_level: 1, 10
 id: '4208'
 level: '1'
 name: Four Winds
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Impulse|Impulse]]'
 - '[[DATABASE/trait/Kineticist|Kineticist]]'
 - '[[DATABASE/trait/Primal|Primal]]'
-trigger: null
 type: Feat
 
 ---

@@ -5,7 +5,6 @@ ability:
 ability_boost:
 - Dexterity
 - Free
-ability_flaw: null
 hp: '8'
 id: '30'
 land_speed: '25'
@@ -15,7 +14,6 @@ language:
 max_speed: '25'
 name: Fetchling
 rarity: Uncommon
-rus_type_level: null
 size: Medium
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 speed:

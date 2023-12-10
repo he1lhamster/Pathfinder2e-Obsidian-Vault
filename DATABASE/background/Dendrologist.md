@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Terrain Expertise|Terrain Expertise]]'
 id: '379'
 name: Dendrologist
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Survival|Survival]]'
 - Plane of Wood [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

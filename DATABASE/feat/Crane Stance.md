@@ -1,24 +1,16 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Crane Stance
-frequency: null
-heighten_level: null
 id: '430'
+leads_to: '[[DATABASE/feat/Crane Flutter|Crane Flutter]]'
 level: '1'
 name: Crane Stance
-prerequisite: null
 rarity: Common
 requirement: You are unarmored.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Monk|Monk]]'
 - '[[DATABASE/trait/Stance|Stance]]'
-trigger: null
 type: Feat
 
 ---

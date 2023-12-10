@@ -2,9 +2,6 @@
 id: '20'
 name: PFS Character Options
 rarity: Common
-rus_type_level: null
-source: null
-trait: null
 type: Source
 
 ---

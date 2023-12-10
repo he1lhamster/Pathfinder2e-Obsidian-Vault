@@ -19,12 +19,10 @@ id: '20'
 name: Gunslinger
 perception_proficiency: Expert
 rarity: Uncommon
-rus_type_level: null
 skill_proficiency:
 - Trained in one or more skills determined by your gunslinger's way
 - Trained in a number of additional skills equal to 3 plus your Intelligence modifier
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-tradition: null
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Class

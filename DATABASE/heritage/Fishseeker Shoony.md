@@ -2,10 +2,8 @@
 id: '55'
 name: Fishseeker Shoony
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 153. Life''s Long Shadows|Pathfinder #153: Life''s
   Long Shadows]]'
-trait: null
 type: Heritage
 
 ---

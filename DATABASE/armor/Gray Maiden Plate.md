@@ -12,7 +12,6 @@ level: '2'
 name: Gray Maiden Plate
 price: 35 gp
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Shadows at Sundown|Shadows at Sundown]]'
 speed_penalty: -10 ft.
 strength: '+16'

@@ -1,8 +1,5 @@
 ﻿---
 ac: '25'
-burrow_speed: null
-climb_speed: null
-fly_speed: null
 fortitude: '+20'
 hardness: '15'
 hp: '150'
@@ -14,10 +11,6 @@ max_speed: '40'
 name: Apparatus of the Octopus
 price: 4,000 gp
 rarity: Uncommon
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 size: Large
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 swim_speed: '40'

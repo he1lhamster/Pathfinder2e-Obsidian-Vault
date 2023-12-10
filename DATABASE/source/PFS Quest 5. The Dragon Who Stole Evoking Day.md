@@ -2,9 +2,6 @@
 id: '27'
 name: PFS Quest 5. The Dragon Who Stole Evoking Day
 rarity: Common
-rus_type_level: null
-source: null
-trait: null
 type: Source
 
 ---

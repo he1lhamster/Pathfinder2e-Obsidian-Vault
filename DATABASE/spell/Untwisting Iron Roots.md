@@ -1,36 +1,21 @@
 ﻿---
 actions: '[one-action]'
 area: 10-foot emanation
-bloodline: null
 component:
 - Verbal
-cost: null
-deity: null
-domain: null
-duration: null
 element: Earth
 heighten: '+1'
 heighten_level: 5, 6, 7, 8, 9, 10
 id: '1255'
-lesson: null
 level: '5'
-mystery: null
 name: Untwisting Iron Roots
-patron_theme: null
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-target: null
-tradition: null
 trait:
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Focus
 
 ---

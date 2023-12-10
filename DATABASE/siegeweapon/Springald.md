@@ -1,6 +1,5 @@
 ﻿---
 ac: '20'
-bulk: null
 fortitude: '+16'
 hardness: '10'
 hp: '40'
@@ -13,7 +12,6 @@ name: Springald
 price: 700 gp
 rarity: Uncommon
 reflex: '+13'
-rus_type_level: null
 size: Huge
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:

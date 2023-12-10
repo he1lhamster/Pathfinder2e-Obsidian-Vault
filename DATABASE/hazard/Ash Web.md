@@ -1,10 +1,7 @@
 ﻿---
 ac: '28'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+22'
-hardness: null
 hazard_type: Environmental
 hp: '100'
 id: '79'
@@ -19,17 +16,12 @@ level: '10'
 name: Ash Web
 rarity: Common
 reflex: '+14'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 148. Fires of the Haunted City|Pathfinder #148:
   Fires of the Haunted City]]'
 trait:
 - '[[DATABASE/trait/Environmental|Environmental]]'
 - '[[DATABASE/trait/Fungus|Fungus]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Ash Web<span class="item-type">Hazard 10</span>

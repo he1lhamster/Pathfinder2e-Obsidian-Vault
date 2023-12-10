@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Halfling Ingenuity
-frequency: null
-heighten_level: null
 id: '1017'
 level: '5'
 name: Halfling Ingenuity
 prerequisite: '[[DATABASE/feat/Halfling Luck|Halfling Luck]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Halfling|Halfling]]'
-trigger: null
 type: Feat
 
 ---

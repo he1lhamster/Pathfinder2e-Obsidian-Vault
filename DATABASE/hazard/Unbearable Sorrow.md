@@ -1,29 +1,15 @@
 ﻿---
-ac: null
-all_resistance: null
 complexity: Simple
-element: null
-fortitude: null
-hardness: null
-hazard_type: null
-hp: null
 id: '410'
-immunity: null
 level: '9'
 name: Unbearable Sorrow
 rarity: Common
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 195. Heavy is the Crown|Pathfinder #195: Heavy
   is the Crown]]'
 trait:
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Mental|Mental]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Unbearable Sorrow<span class="item-type">Hazard 9</span>

@@ -2,9 +2,7 @@
 ac: '47'
 alignment: NE
 all_resistance: '15'
-burrow_speed: null
 charisma: '+8'
-climb_speed: null
 constitution: '+8'
 creature_ability:
 - Aura of Misfortune
@@ -19,10 +17,8 @@ creature_ability:
 - Status Sight
 creature_family: '[[DATABASE/monsterfamily/Grim Reaper|Grim Reaper]]'
 dexterity: '+10'
-element: null
 fly_speed: '75'
 fortitude: '+37'
-hardness: null
 hp: 320 ( negative healing )
 id: '250'
 immunity:
@@ -44,8 +40,6 @@ rarity: Unique
 reflex: '+41'
 resistance:
 - all damage 15
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - '[[DATABASE/spell/See Invisibility|see invisibility]]'
@@ -74,7 +68,6 @@ strength: '+8'
 strength_req: '8'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Undead|Undead]]'
 - '[[DATABASE/trait/Unique|Unique]]'
@@ -82,7 +75,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+38'
 wisdom: '+7'
 

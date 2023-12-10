@@ -1,10 +1,8 @@
 ﻿---
-element: null
 id: '27'
 level: '18'
 name: Reviled of Nature
 rarity: Common
-rus_type_level: null
 saving_throw: DC 38 Will
 school: Enchantment
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
@@ -15,7 +13,6 @@ trait:
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Mental|Mental]]'
 type: Curse
-usage: null
 
 ---
 # Reviled of Nature<span class="item-type">Curse 18</span>

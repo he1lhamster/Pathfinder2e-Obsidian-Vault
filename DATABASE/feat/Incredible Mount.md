@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Incredible Mount
-frequency: null
-heighten_level: null
 id: '1926'
+leads_to: '[[DATABASE/feat/Specialized Mount|Specialized Mount]]'
 level: '8'
 name: Incredible Mount
 prerequisite: '[[DATABASE/feat/Impressive Mount|Impressive Mount]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

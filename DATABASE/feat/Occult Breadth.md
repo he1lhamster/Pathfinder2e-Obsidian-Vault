@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Occult Breadth
-frequency: null
-heighten_level: null
 id: '683'
 level: '8'
 name: Occult Breadth
 prerequisite: '[[DATABASE/feat/Basic Bard Spellcasting|Basic Bard Spellcasting]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,10 +1,7 @@
 ﻿---
 ac: '17'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Swamp Stride
@@ -12,13 +9,9 @@ creature_ability:
 - Tongue Grab
 creature_family: '[[DATABASE/monsterfamily/Boggard|Boggard]]'
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+10'
-hardness: null
 hp: '38'
 id: '55'
-immunity: null
 intelligence: '-1'
 land_speed: '20'
 language:
@@ -29,9 +22,6 @@ name: Boggard Warrior
 perception: '+8'
 rarity: Common
 reflex: '+5'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -43,7 +33,6 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 20 feet
 - swim 25 feet; swamp stride
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
@@ -57,7 +46,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+8'
 wisdom: '+2'
 

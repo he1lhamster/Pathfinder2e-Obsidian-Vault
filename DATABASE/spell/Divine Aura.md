@@ -6,24 +6,12 @@ bloodline: '[[DATABASE/sorcererbloodline/Angelic|Angelic]] , [[DATABASE/sorcerer
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: sustained up to 1 minute
-element: null
-heighten: null
 heighten_level: '8'
 id: '81'
-lesson: null
 level: '8'
-mystery: null
 name: Divine Aura
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: allies in the area
@@ -32,7 +20,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Aura|Aura]]'
-trigger: null
 type: Spell
 
 ---

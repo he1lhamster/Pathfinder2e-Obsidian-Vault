@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Advanced Synergy
-frequency: null
-heighten_level: null
 id: '2956'
+leads_to: '[[DATABASE/feat/Signature Synergy|Signature Synergy]]'
 level: '6'
 name: Advanced Synergy
 prerequisite: '[[DATABASE/feat/Basic Synergy|Basic Synergy]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

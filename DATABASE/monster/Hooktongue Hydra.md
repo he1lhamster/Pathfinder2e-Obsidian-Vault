@@ -1,10 +1,7 @@
 ﻿---
 ac: '34'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Attack of Opportunity
@@ -14,28 +11,20 @@ creature_ability:
 - Multiple
 - Opportunities
 - Storm of Jaws
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+25'
-hardness: null
 hp: 240 ((body), hydra regeneration 15 HP 45 (head), head regrowth)
 id: '2243'
 immunity:
 - area damage
 intelligence: '-3'
 land_speed: '25'
-language: null
 level: '13'
 max_speed: '25'
 name: Hooktongue Hydra
 perception: '+26'
 rarity: Unique
 reflex: '+24'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -47,7 +36,6 @@ source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 speed:
 - 25 feet
 - swim 25 feet
-spell: null
 strength: '+8'
 strength_req: '8'
 strongest_save:

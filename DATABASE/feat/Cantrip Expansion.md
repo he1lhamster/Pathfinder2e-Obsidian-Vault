@@ -1,20 +1,10 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Cantrip Expansion
-frequency: null
-heighten_level: null
 id: '183'
 level: '2'
 name: Cantrip Expansion
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Bard|Bard]]'
 - '[[DATABASE/trait/Cleric|Cleric]]'
@@ -24,7 +14,6 @@ trait:
 - '[[DATABASE/trait/Sorcerer|Sorcerer]]'
 - '[[DATABASE/trait/Witch|Witch]]'
 - '[[DATABASE/trait/Wizard|Wizard]]'
-trigger: null
 type: Feat
 
 ---

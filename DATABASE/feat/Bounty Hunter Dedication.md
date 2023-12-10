@@ -1,24 +1,17 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Bounty Hunter Dedication
-frequency: null
-heighten_level: null
 id: '1914'
+leads_to: '[[DATABASE/feat/Keep Pace|Keep Pace]] , [[DATABASE/feat/Opportunistic Grapple|Opportunistic
+  Grapple]] , [[DATABASE/feat/Posse|Posse]] , [[DATABASE/feat/Tools of the Trade|Tools
+  of the Trade]]'
 level: '2'
 name: Bounty Hunter Dedication
 prerequisite: Trained in [[DATABASE/skill/Survival|Survival]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
-trigger: null
 type: Feat
 
 ---

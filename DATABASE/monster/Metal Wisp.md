@@ -1,10 +1,6 @@
 ﻿---
 ac: '16'
-alignment: null
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Accord Essence
@@ -17,7 +13,6 @@ dexterity: '+1'
 element: Metal
 fly_speed: '25'
 fortitude: '+7'
-hardness: null
 hp: '15'
 id: '2642'
 immunity:
@@ -27,7 +22,6 @@ immunity:
 - '[[DATABASE/trait/Poison|poison]]'
 - '[[DATABASE/trait/Sleep|sleep]]'
 intelligence: '+0'
-land_speed: null
 language:
 - '[[DATABASE/language/Talican|Talican]]'
 level: '0'
@@ -38,8 +32,6 @@ rarity: Common
 reflex: '+3'
 resistance:
 - electricity 2
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - rust vision
@@ -51,12 +43,10 @@ skill:
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 speed:
 - fly 25 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Elemental|Elemental]]'
 - '[[DATABASE/trait/Metal|Metal]]'
@@ -64,7 +54,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+6'
 wisdom: '+2'
 

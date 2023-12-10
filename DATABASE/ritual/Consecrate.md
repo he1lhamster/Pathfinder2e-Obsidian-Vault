@@ -2,7 +2,6 @@
 area: 40-foot-radius burst around an immobile altar, shrine, or fixture of your deity
 cost: "rare incense and offerings worth a total value of 20 gp \xD7 the spell level"
 duration: 1 year
-element: null
 heighten: 7th
 heighten_level: 2, 7
 id: '8'
@@ -11,13 +10,10 @@ name: Consecrate
 primary_check: '[[DATABASE/skill/Religion|Religion]]'
 range: 40 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Evocation
 secondary_casters: 2, must be worshippers of your religion
 secondary_check: '[[DATABASE/skill/Crafting|Crafting]] , [[DATABASE/skill/Performance|Performance]]'
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 trait:
 - '[[DATABASE/trait/Consecration|Consecration]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'

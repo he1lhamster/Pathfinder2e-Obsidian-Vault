@@ -1,24 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Talisman Dabbler Dedication
-frequency: null
-heighten_level: null
 id: '2079'
+leads_to: '[[DATABASE/feat/Deeper Dabbler|Deeper Dabbler]] , [[DATABASE/feat/Quick
+  Fix|Quick Fix]] , [[DATABASE/feat/Talismanic Sage|Talismanic Sage]]'
 level: '2'
 name: Talisman Dabbler Dedication
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Winglets
-frequency: null
-heighten_level: null
 id: '2384'
+leads_to: '[[DATABASE/feat/Hatchling Flight|Hatchling Flight]]'
 level: '5'
 name: Winglets
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Kobold|Kobold]]'
-trigger: null
 type: Feat
 
 ---

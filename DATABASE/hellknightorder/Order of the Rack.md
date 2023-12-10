@@ -3,9 +3,7 @@ favored_weapon: '[[DATABASE/weapon/Longsword|Longsword]] , [[DATABASE/weapon/Whi
 id: '6'
 name: Order of the Rack
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-trait: null
 type: Hellknight Order
 
 ---

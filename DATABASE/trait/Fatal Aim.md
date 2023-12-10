@@ -2,7 +2,6 @@
 id: '404'
 name: Fatal Aim
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:
 - Fatal Aim

@@ -1,20 +1,13 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
 element: Wood
 feat: Witchwood Seed
-frequency: null
 heighten_level: 12, 16, 20
 id: '4292'
 level: '12'
 name: Witchwood Seed
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Impulse|Impulse]]'
 - '[[DATABASE/trait/Kineticist|Kineticist]]'
@@ -23,7 +16,6 @@ trait:
 - '[[DATABASE/trait/Polymorph|Polymorph]]'
 - '[[DATABASE/trait/Primal|Primal]]'
 - '[[DATABASE/trait/Wood|Wood]]'
-trigger: null
 type: Feat
 
 ---

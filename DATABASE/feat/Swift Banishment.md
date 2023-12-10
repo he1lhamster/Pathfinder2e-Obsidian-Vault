@@ -1,20 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Swift Banishment
-frequency: null
-heighten_level: null
 id: '301'
+leads_to: '[[DATABASE/feat/Improved Swift Banishment|Improved Swift Banishment]]'
 level: '14'
 name: Swift Banishment
-prerequisite: null
 rarity: Common
 requirement: You have a [[DATABASE/spell/Banishment|banishment]] spell prepared.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Cleric|Cleric]]'
 trigger: You critically hit a creature that is not on its home plane.

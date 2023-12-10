@@ -1,7 +1,6 @@
 ﻿---
 id: '11'
 name: Dying
-source: null
 
 ---
 # Dying

@@ -1,10 +1,7 @@
 ﻿---
 ac: '27'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Flames of Fury
@@ -12,10 +9,8 @@ creature_ability:
 - Rope Snare
 creature_family: '[[DATABASE/monsterfamily/Devil|Devil]]'
 dexterity: '+5'
-element: null
 fly_speed: '40'
 fortitude: '+17'
-hardness: null
 hp: '120'
 id: '111'
 immunity:
@@ -36,8 +31,6 @@ reflex: '+19'
 resistance:
 - physical 5 (except [[DATABASE/equipment/Silver Weapon|silver]] )
 - '[[DATABASE/trait/Poison|poison]] 10'
-rus_type_level: null
-school: null
 sense:
 - greater darkvision
 - '[[DATABASE/spell/True Seeing|true seeing]]'
@@ -66,7 +59,6 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Devil|Devil]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

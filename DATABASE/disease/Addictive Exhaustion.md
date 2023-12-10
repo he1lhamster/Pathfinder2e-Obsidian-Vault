@@ -2,12 +2,9 @@
 id: '23'
 level: '15'
 name: Addictive Exhaustion
-onset: null
 rarity: Unique
-rus_type_level: null
 saving_throw: Fortitude; creatures with addictive exhaustion can't reduce their [[DATABASE/condition/Sickened|sickened]]
   condition from addictive exhaustion while they have the disease
-school: null
 source: '[[DATABASE/source/Monsters of Myth|Monsters of Myth]]'
 stage: 'Stage 1: The creature is sickened 1. One skill of the creature''s choice doesn''t
   suffer the statuspenalty from this sickened condition to its skill checks (1 day)Stage

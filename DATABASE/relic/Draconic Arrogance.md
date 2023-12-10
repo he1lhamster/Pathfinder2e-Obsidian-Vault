@@ -1,12 +1,8 @@
 ﻿---
-element: null
 id: '76'
 item_category: Relics
 name: Draconic Arrogance
-prerequisite: null
 rarity: Common
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 trait:
 - '[[DATABASE/trait/Fortune|Fortune]]'

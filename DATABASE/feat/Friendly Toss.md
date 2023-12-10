@@ -1,25 +1,16 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Friendly Toss
-frequency: null
-heighten_level: null
 id: '1615'
 level: '8'
 name: Friendly Toss
-prerequisite: null
 rarity: Common
 requirement: You are adjacent to an ally and have one or more hands free.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Barbarian|Barbarian]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Rage|Rage]]'
-trigger: null
 type: Feat
 
 ---

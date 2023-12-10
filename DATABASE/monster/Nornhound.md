@@ -1,10 +1,7 @@
 ﻿---
 ac: '40'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+8'
 creature_ability:
 - Beyond Fate
@@ -13,12 +10,9 @@ creature_ability:
 - Pack Attack
 - Sense Fate
 - Time Bound
-creature_family: null
 dexterity: '+4'
-element: null
 fly_speed: '40'
 fortitude: '+34'
-hardness: null
 hp: '421'
 id: '2582'
 immunity:
@@ -35,9 +29,6 @@ name: Nornhound
 perception: '+32'
 rarity: Rare
 reflex: '+28'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/spell/Detect Magic|detect magic]]'
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
@@ -68,7 +59,6 @@ strength: '+9'
 strength_req: '9'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Rare|Rare]]'

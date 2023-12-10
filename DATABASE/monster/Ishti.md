@@ -1,8 +1,6 @@
 ﻿---
 ac: '41'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
 climb_speed: '40'
 constitution: '+3'
@@ -11,12 +9,9 @@ creature_ability:
 - Matriarch's Caress
 - Poison Weapon
 - Quick Dervish Strike
-creature_family: null
 dexterity: '+7'
-element: null
 fly_speed: '40'
 fortitude: '+27'
-hardness: null
 hp: '340'
 id: '1580'
 immunity:
@@ -24,7 +19,6 @@ immunity:
 - '[[DATABASE/trait/Poison|poison]]'
 intelligence: '+3'
 land_speed: '40'
-language: null
 level: '18'
 max_speed: '40'
 name: Ishti
@@ -33,8 +27,6 @@ rarity: Unique
 reflex: '+33'
 resistance:
 - '[[DATABASE/trait/Mental|mental]] 15'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -74,7 +66,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+29'
 wisdom: '+3'
 

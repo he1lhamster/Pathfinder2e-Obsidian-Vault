@@ -1,21 +1,14 @@
 ﻿---
 ac: '37'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Drain Soul Cage
 - Siphon Life
 - Steady Spellcasting
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+25'
-hardness: null
 hp: 290 ( negative healing , rejuvenation)
 id: '2561'
 immunity:
@@ -44,8 +37,6 @@ reflex: '+28'
 resistance:
 - '[[DATABASE/trait/Cold|cold]] 15'
 - physical 15 (except [[DATABASE/trait/Magical|magic]] bludgeoning)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -93,7 +84,6 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Undead|Undead]]'
 - '[[DATABASE/trait/Unique|Unique]]'
@@ -101,7 +91,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+30'
 wisdom: '+5'
 

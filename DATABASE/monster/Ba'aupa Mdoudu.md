@@ -1,10 +1,8 @@
 ﻿---
 ac: '33'
 alignment: N
-all_resistance: null
 burrow_speed: '20'
 charisma: '-2'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Caustic Acid
@@ -14,19 +12,14 @@ creature_ability:
 - Skeleton Sense
 - Slime Squirt
 - Stone Tunneler
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+26'
-hardness: null
 hp: '245'
 id: '1661'
 immunity:
 - '[[DATABASE/trait/Acid|acid]]'
 intelligence: '-4'
 land_speed: '30'
-language: null
 level: '13'
 max_speed: '30'
 name: Ba'aupa Mdoudu
@@ -35,8 +28,6 @@ rarity: Common
 reflex: '+21'
 resistance:
 - bludgeoning 15
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - skeleton sense 60 feet
@@ -50,19 +41,16 @@ source: '[[DATABASE/source/Pathfinder 172. Secrets of the Temple City|Pathfinder
 speed:
 - 30 feet
 - burrow 20 feet
-spell: null
 strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+23'
 wisdom: '+4'
 

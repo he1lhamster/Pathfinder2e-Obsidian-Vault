@@ -1,26 +1,28 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Swordmaster Dedication
-frequency: null
-heighten_level: null
 id: '1139'
+leads_to: '[[DATABASE/feat/Armored Exercise|Armored Exercise]] , [[DATABASE/feat/Armored
+  Rest|Armored Rest]] , [[DATABASE/feat/Death''s Door|Death''s Door]] , [[DATABASE/feat/Emergency
+  Medical Assistance|Emergency Medical Assistance]] , [[DATABASE/feat/Focus Ally|Focus
+  Ally]] , [[DATABASE/feat/Forceful Shot|Forceful Shot]] , [[DATABASE/feat/Harrying
+  Strike|Harrying Strike]] , [[DATABASE/feat/Improvised Crafting|Improvised Crafting]]
+  , [[DATABASE/feat/Martial Exercise|Martial Exercise]] , [[DATABASE/feat/Physical
+  Training|Physical Training]] , [[DATABASE/feat/Practiced Defender|Practiced Defender]]
+  , [[DATABASE/feat/Protect Ally|Protect Ally]] , [[DATABASE/feat/Quick Stow (Swordmaster)|Quick
+  Stow (Swordmaster)]] , [[DATABASE/feat/Recollect Studies|Recollect Studies]] , [[DATABASE/feat/Reflexive
+  Grip|Reflexive Grip]] , [[DATABASE/feat/Rugged Survivalist|Rugged Survivalist]]
+  , [[DATABASE/feat/Shoulder Catastrophe|Shoulder Catastrophe]] , [[DATABASE/feat/Tense
+  Negotiator|Tense Negotiator]]'
 level: '6'
 name: Swordmaster Dedication
 prerequisite: Strength 14, Dexterity 14, or Constitution 14; member of the Pathfinder
   Society affiliated with theSchool of Swords
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

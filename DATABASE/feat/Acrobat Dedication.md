@@ -1,24 +1,19 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Acrobat Dedication
-frequency: null
-heighten_level: null
 id: '1873'
+leads_to: '[[DATABASE/feat/Contortionist|Contortionist]] , [[DATABASE/feat/Dodge Away|Dodge
+  Away]] , [[DATABASE/feat/Graceful Leaper|Graceful Leaper]] , [[DATABASE/feat/Mockingbird''s
+  Disarm|Mockingbird''s Disarm]] , [[DATABASE/feat/Quick Spring|Quick Spring]] , [[DATABASE/feat/Show-Off|Show-Off]]
+  , [[DATABASE/feat/Tumbling Opportunist|Tumbling Opportunist]] , [[DATABASE/feat/Tumbling
+  Strike|Tumbling Strike]]'
 level: '2'
 name: Acrobat Dedication
 prerequisite: Trained in [[DATABASE/skill/Acrobatics|Acrobatics]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
-trigger: null
 type: Feat
 
 ---

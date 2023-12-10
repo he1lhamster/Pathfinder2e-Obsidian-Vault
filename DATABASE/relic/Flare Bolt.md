@@ -3,9 +3,7 @@ element: Fire
 id: '37'
 item_category: Relics
 name: Flare Bolt
-prerequisite: null
 rarity: Common
-rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:

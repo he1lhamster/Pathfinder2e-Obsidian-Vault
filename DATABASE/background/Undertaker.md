@@ -8,16 +8,13 @@ ability_boost:
 feat: '[[DATABASE/feat/Forensic Acumen|Forensic Acumen]]'
 id: '277'
 name: Undertaker
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Medicine|Medicine]]'
 - '[[DATABASE/skill/Lore|Lore]] specializing in one local type of [[DATABASE/trait/Undead|undead]]
   .'
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

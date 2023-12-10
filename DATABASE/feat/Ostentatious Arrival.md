@@ -1,26 +1,16 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Ostentatious Arrival
-frequency: null
-heighten_level: null
 id: '2913'
 level: '6'
 name: Ostentatious Arrival
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Metamagic|Metamagic]]'
 - '[[DATABASE/trait/Summoner|Summoner]]'
-trigger: null
 type: Feat
 
 ---

@@ -2,7 +2,6 @@
 id: '77'
 name: Fungus
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - Fungus

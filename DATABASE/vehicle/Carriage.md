@@ -1,8 +1,5 @@
 ﻿---
 ac: '13'
-burrow_speed: null
-climb_speed: null
-fly_speed: null
 fortitude: '+8'
 hardness: '5'
 hp: '40'
@@ -14,14 +11,8 @@ max_speed: '2'
 name: Carriage
 price: 100 gp
 rarity: Common
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 size: Large
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
-swim_speed: null
-trait: null
 type: Vehicle
 
 ---

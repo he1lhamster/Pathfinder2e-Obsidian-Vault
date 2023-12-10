@@ -1,10 +1,6 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Taste Blood
-frequency: null
-heighten_level: null
 id: '2349'
 level: '5'
 name: Taste Blood
@@ -12,16 +8,12 @@ prerequisite: '[[DATABASE/feat/Cel Rau|Cel Rau]] , [[DATABASE/feat/Straveika|Str
   , [[DATABASE/feat/Svetocher|Svetocher]] , or another lineagefrom a vampire with
   the Drink Blood ability'
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Dhampir|Dhampir]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Negative|Negative]]'
-trigger: null
 type: Feat
 
 ---

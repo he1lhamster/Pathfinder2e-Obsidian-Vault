@@ -1,20 +1,14 @@
 ﻿---
 ac: '19'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Rust Creep
 - Sickening Display
 creature_family: '[[DATABASE/monsterfamily/Qlippoth|Qlippoth]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+11'
-hardness: null
 hp: '45'
 id: '2741'
 immunity:
@@ -34,8 +28,6 @@ reflex: '+7'
 resistance:
 - '[[DATABASE/trait/Mental|mental]] 3'
 - physical 3 (except [[DATABASE/equipment/Cold Iron Weapon|cold iron]] )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -58,7 +50,6 @@ strength: '+2'
 strength_req: '2'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fiend|Fiend]]'
 - '[[DATABASE/trait/Qlippoth|Qlippoth]]'

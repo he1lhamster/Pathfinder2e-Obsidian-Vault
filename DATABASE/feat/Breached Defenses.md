@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Breached Defenses
-frequency: null
-heighten_level: null
 id: '3708'
 level: '4'
 name: Breached Defenses
 prerequisite: '[[DATABASE/action/Exploit Vulnerability|Exploit Vulnerability]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Thaumaturge|Thaumaturge]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Spell Runes
-frequency: null
-heighten_level: null
 id: '913'
+leads_to: '[[DATABASE/feat/Greater Spell Runes|Greater Spell Runes]]'
 level: '4'
 name: Spell Runes
 prerequisite: '[[DATABASE/feat/Runescarred Dedication|Runescarred Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/World Guide|World Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

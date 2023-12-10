@@ -2,9 +2,6 @@
 id: '55'
 name: Troubles in Otari
 rarity: Common
-rus_type_level: null
-source: null
-trait: null
 type: Source
 
 ---

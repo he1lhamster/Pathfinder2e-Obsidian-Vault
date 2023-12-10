@@ -4,9 +4,7 @@ favored_weapon: '[[DATABASE/weapon/Mace|Mace]] , [[DATABASE/weapon/Scourge|Scour
 id: '7'
 name: Order of the Scourge
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-trait: null
 type: Hellknight Order
 
 ---

@@ -1,12 +1,8 @@
 ﻿---
 id: '201'
-level: null
 name: Gelid Shard
-prerequisite: null
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-trait: null
 type: Archetype
 
 ---

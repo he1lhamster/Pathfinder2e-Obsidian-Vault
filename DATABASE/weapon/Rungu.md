@@ -1,8 +1,6 @@
 ﻿---
 bulk: L
 damage: 1d6 B
-deity: null
-favored_weapon: null
 hands: '1'
 id: '145'
 item_category: Weapons
@@ -10,9 +8,7 @@ item_subcategory: Base Weapons
 level: '0'
 name: Rungu
 price: 4 sp
-range: null
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 trait:
 - '[[DATABASE/trait/Grippli|Grippli]]'

@@ -2,9 +2,7 @@
 id: '39'
 name: Observant Halfling
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-trait: null
 type: Heritage
 
 ---

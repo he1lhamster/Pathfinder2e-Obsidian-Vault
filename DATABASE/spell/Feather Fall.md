@@ -1,30 +1,18 @@
 ﻿---
 actions: '[reaction]'
-area: null
-bloodline: null
 component:
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Adanye|Adanye]]'
 - '[[DATABASE/deity/Ma''at|Ma''at]]'
 - '[[DATABASE/deity/Ylimancha|Ylimancha]]'
-domain: null
 duration: 1 minute
-element: null
-heighten: null
 heighten_level: '1'
 id: '111'
-lesson: null
 level: '1'
-mystery: null
 name: Feather Fall
-patron_theme: null
 range: 60 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: 1 falling creature

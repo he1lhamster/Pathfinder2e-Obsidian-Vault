@@ -1,10 +1,7 @@
 ﻿---
 ac: '31'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+7'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Blackfrost Rot
@@ -12,12 +9,8 @@ creature_ability:
 - Great Despair
 - Hissing Command
 - Invasive Blackfrost
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+22'
-hardness: null
 hp: 175 ( negative healing )
 id: '2511'
 immunity:
@@ -42,9 +35,6 @@ name: Equendia
 perception: '+21'
 rarity: Unique
 reflex: '+21'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -71,7 +61,6 @@ strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Cold|Cold]]'
 - '[[DATABASE/trait/Mummy|Mummy]]'

@@ -1,10 +1,7 @@
 ﻿---
 ac: '30'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Firearms Critical Specialization
@@ -14,14 +11,10 @@ creature_ability:
 - Plant Pyronite Charge
 - Stubborn Resolve
 - Tormenting Shot
-creature_family: null
 dexterity: '+7'
-element: null
-fly_speed: null
 fortitude: '+24'
 hp: '200'
 id: '1992'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -34,8 +27,6 @@ name: Anjelique Loveless
 perception: '+24'
 rarity: Unique
 reflex: '+26'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
@@ -49,12 +40,10 @@ source: '[[DATABASE/source/Pathfinder 180. The Smoking Gun|Pathfinder #180: The 
   Gun]]'
 speed:
 - 25 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Changeling|Changeling]]'
 - '[[DATABASE/trait/Elf|Elf]]'
@@ -64,7 +53,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+21'
 wisdom: '+0'
 

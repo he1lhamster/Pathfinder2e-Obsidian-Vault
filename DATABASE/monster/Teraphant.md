@@ -1,10 +1,7 @@
 ﻿---
 ac: '27'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Emotion Sense
@@ -13,15 +10,10 @@ creature_ability:
 - Impale
 - Psychokinetic Trumpet
 - Trample
-creature_family: null
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+20'
-hardness: null
 hp: '175'
 id: '996'
-immunity: null
 intelligence: '-2'
 land_speed: '45'
 language:
@@ -32,9 +24,6 @@ name: Teraphant
 perception: '+18'
 rarity: Uncommon
 reflex: '+14'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - emotion sense 120 feet
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
@@ -47,12 +36,10 @@ source: '[[DATABASE/source/Pathfinder 158. Sixty Feet Under|Pathfinder #158: Six
   Feet Under]]'
 speed:
 - 45 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
@@ -60,7 +47,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Reflex
-weakness: null
 will: '+18'
 wisdom: '+3'
 

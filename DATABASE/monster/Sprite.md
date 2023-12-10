@@ -1,22 +1,16 @@
 ﻿---
 ac: '15'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Luminous Fire
 creature_family: '[[DATABASE/monsterfamily/Sprite|Sprite]]'
 dexterity: '+4'
-element: null
 fly_speed: '40'
 fortitude: '+2'
-hardness: null
 hp: '11'
 id: '389'
-immunity: null
 intelligence: '-2'
 land_speed: '10'
 language:
@@ -28,9 +22,6 @@ name: Sprite
 perception: '+4'
 rarity: Common
 reflex: '+8'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 size: Tiny
@@ -50,7 +41,6 @@ strength: '-3'
 strength_req: '-3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Sprite|Sprite]]'

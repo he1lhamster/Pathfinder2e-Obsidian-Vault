@@ -1,32 +1,21 @@
 ﻿---
 actions: '[two-actions]'
 area: 10-foot burst
-bloodline: null
 component:
 - Material
 - Somatic
-cost: null
 deity:
 - '[[DATABASE/deity/Yelayne|Yelayne]]'
-domain: null
 duration: sustained up to 1 minute
-element: null
-heighten: null
 heighten_level: '6'
 id: '357'
-lesson: null
 level: '6'
-mystery: null
 name: Vibrant Pattern
-patron_theme: null
 range: 120 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Will
 school: Illusion
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Arcane
 - Occult
@@ -34,7 +23,6 @@ trait:
 - '[[DATABASE/trait/Illusion|Illusion]]'
 - '[[DATABASE/trait/Incapacitation|Incapacitation]]'
 - '[[DATABASE/trait/Visual|Visual]]'
-trigger: null
 type: Spell
 
 ---

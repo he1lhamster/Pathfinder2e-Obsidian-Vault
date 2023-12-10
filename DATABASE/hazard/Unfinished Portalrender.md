@@ -1,21 +1,15 @@
 ﻿---
 ac: '34'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+26'
 hardness: '22'
 hazard_type: Trap
 hp: 88 (BT 44)
 id: '262'
-immunity: null
 level: '13'
 name: Unfinished Portalrender
 rarity: Common
 reflex: '+20'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 184. The Ghouls Hunger|Pathfinder #184: The
   Ghouls Hunger]]'
 trait:
@@ -23,8 +17,6 @@ trait:
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Unfinished Portalrender<span class="item-type">Hazard 13</span>

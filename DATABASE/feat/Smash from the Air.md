@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Smash from the Air
-frequency: null
-heighten_level: null
 id: '1731'
 level: '18'
 name: Smash from the Air
 prerequisite: '[[DATABASE/feat/Cut from the Air|Cut from the Air]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fighter|Fighter]]'
-trigger: null
 type: Feat
 
 ---

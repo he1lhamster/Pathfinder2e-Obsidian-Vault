@@ -1,26 +1,18 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Predator's Pounce
-frequency: null
-heighten_level: null
 id: '164'
 level: '12'
 name: Predator's Pounce
 prerequisite: '[[DATABASE/barbarianinstinct/Animal Instinct|animal instinct]]'
 rarity: Common
 requirement: You are unarmored or wearing light armor.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Barbarian|Barbarian]]'
 - '[[DATABASE/trait/Flourish|Flourish]]'
 - '[[DATABASE/trait/Open|Open]]'
 - '[[DATABASE/trait/Rage|Rage]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,11 +1,8 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Shield Warden
-frequency: null
-heighten_level: null
 id: '229'
+leads_to: '[[DATABASE/feat/Shield of Grace|Shield of Grace]] , [[DATABASE/feat/Shield
+  of Reckoning|Shield of Reckoning]]'
 level: '6'
 name: Shield Warden
 prerequisite: '[[DATABASE/class_/Champion|Champion]] [[DATABASE/class_/Champion|divineally
@@ -13,15 +10,10 @@ prerequisite: '[[DATABASE/class_/Champion|Champion]] [[DATABASE/class_/Champion|
   of good]] ; [[DATABASE/class_/Fighter|Fighter]] [[DATABASE/feat/Shield Block|Shield
   Block]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Champion|Champion]]'
 - '[[DATABASE/trait/Fighter|Fighter]]'
-trigger: null
 type: Feat
 
 ---

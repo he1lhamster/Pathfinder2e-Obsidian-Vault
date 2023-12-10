@@ -1,25 +1,16 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Snap Out of It! (Pathfinder Agent)
-frequency: null
-heighten_level: null
 id: '2228'
 level: '8'
 name: Snap Out of It! (Pathfinder Agent)
 prerequisite: Master in [[DATABASE/skill/Medicine|Medicine]] ; [[DATABASE/feat/Pathfinder
   Agent Dedication|Pathfinder Agent Dedication]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

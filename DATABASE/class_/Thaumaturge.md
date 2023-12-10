@@ -16,7 +16,6 @@ id: '22'
 name: Thaumaturge
 perception_proficiency: Expert
 rarity: Common
-rus_type_level: null
 skill_proficiency:
 - Trained in Arcana
 - Nature
@@ -24,8 +23,6 @@ skill_proficiency:
 - and Religion
 - Trained in a number of additional skills equal to 3 plus your Intelligence modifier
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-tradition: null
-trait: null
 type: Class
 
 ---

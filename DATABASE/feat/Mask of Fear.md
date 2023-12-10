@@ -1,20 +1,13 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Mask of Fear
-frequency: null
-heighten_level: null
 id: '2423'
 level: '13'
 name: Mask of Fear
 prerequisite: '[[DATABASE/feat/Orc Warmask|Orc Warmask]]'
 rarity: Common
 requirement: You're wearing yourwarmask.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Orc|Orc]]'
 trigger: You start your turn with the [[DATABASE/condition/Frightened|frightened]]

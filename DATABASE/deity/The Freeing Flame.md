@@ -30,11 +30,9 @@ follower_alignment:
 id: '231'
 name: The Freeing Flame
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Stealth|Stealth]]'
 source: '[[DATABASE/source/Gods of the Expanse|Gods of the Expanse]]'
-trait: null
 type: Deity
 
 ---

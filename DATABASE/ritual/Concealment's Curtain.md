@@ -1,10 +1,8 @@
 ﻿---
-area: null
 cost: an ornate mirror worth at least 100 gp, naturally occurring round fruit the
   size and number of thetarget's eyes, and the same amount of flawless [[DATABASE/equipment/Silver|silver]]
   needles worth at least 1 gp each
 duration: 1 week
-element: null
 heighten: 8th
 heighten_level: 4, 8
 id: '55'
@@ -13,8 +11,6 @@ name: Concealment's Curtain
 primary_check: '[[DATABASE/skill/Occultism|Occultism]]'
 range: planetary
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Divination
 secondary_casters: '3'
 secondary_check: '[[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Deception|Deception]]

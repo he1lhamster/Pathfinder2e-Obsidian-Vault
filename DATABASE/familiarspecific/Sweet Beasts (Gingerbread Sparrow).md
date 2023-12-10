@@ -1,9 +1,7 @@
 ﻿---
 id: '31'
 name: Sweet Beasts (Gingerbread Sparrow)
-rus_type_level: null
 source: '[[DATABASE/source/Wake the Dead 3|Wake the Dead #3]]'
-trait: null
 
 ---
 # Sweet Beasts (Gingerbread Sparrow)

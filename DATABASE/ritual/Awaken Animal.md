@@ -1,9 +1,5 @@
 ﻿---
-area: null
 cost: "herbs, 1/5 the value on Table 7\u20131"
-duration: null
-element: null
-heighten: null
 heighten_level: '6'
 id: '3'
 level: '6'
@@ -11,8 +7,6 @@ name: Awaken Animal
 primary_check: '[[DATABASE/skill/Nature|Nature]] (master)'
 range: 10 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Divination
 secondary_casters: '3'
 secondary_check: '[[DATABASE/skill/Lore|Lore]] (any), [[DATABASE/skill/Society|Society]]

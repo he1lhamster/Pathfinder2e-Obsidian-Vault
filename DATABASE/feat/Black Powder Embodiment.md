@@ -1,10 +1,6 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Black Powder Embodiment
-frequency: null
-heighten_level: null
 id: '3271'
 level: '18'
 name: Black Powder Embodiment
@@ -12,15 +8,12 @@ prerequisite: '[[DATABASE/feat/Spellshot Dedication|Spellshot Dedication]] ; Mas
   in [[DATABASE/skill/Arcana|Arcana]]'
 rarity: Common
 requirement: You're wielding a loaded magical firearm or crossbow.
-rus_type_level: null
 school: Conjuration
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Teleportation|Teleportation]]'
-trigger: null
 type: Feat
 
 ---

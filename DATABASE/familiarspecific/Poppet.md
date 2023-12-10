@@ -1,9 +1,7 @@
 ﻿---
 id: '7'
 name: Poppet
-rus_type_level: null
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
-trait: null
 
 ---
 # Poppet

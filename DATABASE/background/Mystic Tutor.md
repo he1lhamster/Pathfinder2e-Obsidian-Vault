@@ -5,12 +5,9 @@ ability:
 ability_boost:
 - Intelligence
 - Wisdom
-feat: null
 id: '247'
 name: Mystic Tutor
-prerequisite: null
 rarity: Rare
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Arcana|Arcana]] or [[DATABASE/skill/Occultism|Occultism]]'
 - Academia [[DATABASE/skill/Lore|Lore]]

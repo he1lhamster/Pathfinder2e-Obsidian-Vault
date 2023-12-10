@@ -1,26 +1,23 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Mammoth Lord Dedication
-frequency: null
-heighten_level: null
 id: '3443'
+leads_to: '[[DATABASE/feat/Gigantic Megafauna Companion|Gigantic Megafauna Companion]]
+  , [[DATABASE/feat/Mammoth Charge|Mammoth Charge]] , [[DATABASE/feat/Mature Megafauna
+  Companion|Mature Megafauna Companion]] , [[DATABASE/feat/Megafauna Veterinarian|Megafauna
+  Veterinarian]] , [[DATABASE/feat/Specialized Megafauna Companion|Specialized Megafauna
+  Companion]] , [[DATABASE/feat/Speech of the Mammoth Lords|Speech of the Mammoth
+  Lords]] , [[DATABASE/feat/Staggering Blow|Staggering Blow]] , [[DATABASE/feat/Stalwart
+  Mind|Stalwart Mind]] , [[DATABASE/feat/Unbreakable Bond|Unbreakable Bond]]'
 level: '4'
 name: Mammoth Lord Dedication
 prerequisite: '[[DATABASE/feat/Ride|Ride]]'
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 177. Burning Tundra|Pathfinder #177: Burning
   Tundra]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

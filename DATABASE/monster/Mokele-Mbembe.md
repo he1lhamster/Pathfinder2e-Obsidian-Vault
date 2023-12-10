@@ -1,35 +1,23 @@
 ﻿---
 ac: '27'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Trample
 - Whip Tail
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+21'
-hardness: null
 hp: '172'
 id: '1230'
-immunity: null
 intelligence: '-4'
 land_speed: '30'
-language: null
 level: '9'
 max_speed: '30'
 name: Mokele-Mbembe
 perception: '+15'
 rarity: Uncommon
 reflex: '+15'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -42,7 +30,6 @@ source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 30 feet
 - swim 30 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
@@ -55,7 +42,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+17'
 wisdom: '+2'
 

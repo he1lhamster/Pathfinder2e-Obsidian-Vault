@@ -1,25 +1,18 @@
 ﻿---
 ac: '18'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Corner of the Eye
 - Lost in the Dark
 creature_family: '[[DATABASE/monsterfamily/Gorga|Gorga]]'
 dexterity: '+4'
-element: null
 fly_speed: '25'
 fortitude: '+6'
-hardness: null
 hp: '55'
 id: '2446'
-immunity: null
 intelligence: '+2'
-land_speed: null
 language:
 - '[[DATABASE/language/Aklo|Aklo]]'
 - '[[DATABASE/language/Common|Common]]'
@@ -32,9 +25,6 @@ name: Ocluai
 perception: '+12'
 rarity: Uncommon
 reflex: '+12'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 size: Medium
@@ -48,13 +38,11 @@ source: '[[DATABASE/source/Pathfinder 187. The Seventh Arch|Pathfinder #187: The
   Arch]]'
 speed:
 - fly 25 feet
-spell: null
 strength: '+1'
 strength_req: '1'
 strongest_save:
 - Reflex
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

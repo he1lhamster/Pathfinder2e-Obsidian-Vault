@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Crystalline Cloud
-frequency: null
-heighten_level: null
 id: '2485'
 level: '9'
 name: Crystalline Cloud
 prerequisite: '[[DATABASE/feat/Crystalline Dust|Crystalline Dust]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Aphorite|Aphorite]]'
-trigger: null
 type: Feat
 
 ---

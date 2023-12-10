@@ -1,8 +1,6 @@
 ﻿---
 ac: '39'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+30'
 hardness: '26'
 hazard_type: Trap
@@ -16,9 +14,6 @@ level: '16'
 name: Nightmare Portal
 rarity: Common
 reflex: '+25'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 184. The Ghouls Hunger|Pathfinder #184: The
   Ghouls Hunger]]'
 trait:
@@ -26,8 +21,6 @@ trait:
 - '[[DATABASE/trait/Mechanical|Mechanical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Nightmare Portal<span class="item-type">Hazard 16</span>

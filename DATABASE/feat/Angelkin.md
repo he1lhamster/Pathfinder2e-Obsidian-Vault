@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Angelkin
-frequency: null
-heighten_level: null
 id: '1348'
+leads_to: '[[DATABASE/feat/Angelic Magic|Angelic Magic]] , [[DATABASE/feat/Truespeech|Truespeech]]'
 level: '1'
 name: Angelkin
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Aasimar|Aasimar]]'
 - '[[DATABASE/trait/Lineage|Lineage]]'
-trigger: null
 type: Feat
 
 ---

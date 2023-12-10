@@ -1,23 +1,16 @@
 ﻿---
-area: null
 cost: costumes and a stage large enough to fit all casters
 duration: 1 month
-element: null
-heighten: null
 heighten_level: '5'
 id: '64'
 level: '5'
 name: The World's a Stage
 primary_check: '[[DATABASE/skill/Occultism|Occultism]] (expert)'
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Divination
 secondary_casters: 2 to 12
 secondary_check: '[[DATABASE/skill/Crafting|Crafting]] , [[DATABASE/skill/Performance|Performance]]'
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-target: null
 trait:
 - '[[DATABASE/trait/Divination|Divination]]'
 - '[[DATABASE/trait/Fortune|Fortune]]'

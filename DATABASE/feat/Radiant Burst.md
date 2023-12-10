@@ -1,27 +1,19 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
 element: Fire
 feat: Radiant Burst
 frequency: once per day
-heighten_level: null
 id: '2562'
 level: '13'
 name: Radiant Burst
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fire|Fire]]'
 - '[[DATABASE/trait/Ifrit|Ifrit]]'
 - '[[DATABASE/trait/Incapacitation|Incapacitation]]'
 - '[[DATABASE/trait/Light|Light]]'
 - '[[DATABASE/trait/Visual|Visual]]'
-trigger: null
 type: Feat
 
 ---

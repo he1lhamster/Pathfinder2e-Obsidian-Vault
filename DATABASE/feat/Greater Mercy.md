@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Greater Mercy
-frequency: null
-heighten_level: null
 id: '232'
 level: '8'
 name: Greater Mercy
 prerequisite: '[[DATABASE/feat/Mercy|Mercy]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Champion|Champion]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,25 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Whats That up Your Sleeve?
-frequency: null
-heighten_level: null
 id: '4168'
 level: '2'
 name: Whats That up Your Sleeve
 prerequisite: Expert in [[DATABASE/skill/Lore|Gambling Lore]]
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Highhelm|Highhelm]]'
 subcategory: lore
 trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Skill|Skill]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

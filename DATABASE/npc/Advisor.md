@@ -1,21 +1,15 @@
 ﻿---
 ac: '21'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Placate
 creature_family: '[[DATABASE/monsterfamily/Courtiers|Courtiers]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+9'
 hp: '56'
 id: '884'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -26,9 +20,6 @@ name: Advisor
 perception: '+14'
 rarity: Common
 reflex: '+11'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Deception|Deception]] +15'
@@ -63,15 +54,12 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+15'
 wisdom: '+4'
 

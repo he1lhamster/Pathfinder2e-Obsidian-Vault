@@ -1,27 +1,12 @@
 ﻿---
 actions: '[reaction]'
-area: null
-bloodline: null
-component: null
-cost: null
-deity: null
-domain: null
-duration: null
 element: Air
-heighten: null
 heighten_level: '2'
 id: '1319'
-lesson: null
 level: '2'
-mystery: null
 name: Propulsive Breeze
-patron_theme: null
 range: 60 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 target: the triggering creature
 tradition:

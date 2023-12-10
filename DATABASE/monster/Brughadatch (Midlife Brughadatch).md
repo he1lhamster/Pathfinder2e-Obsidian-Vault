@@ -1,23 +1,16 @@
 ﻿---
 ac: '30'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Deceitful Feast
 - Psychic Sip
 creature_family: '[[DATABASE/monsterfamily/Brughadatch|Brughadatch]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+22'
-hardness: null
 hp: '210'
 id: '528'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -29,9 +22,6 @@ name: Brughadatch
 perception: '+19'
 rarity: Common
 reflex: '+16'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium

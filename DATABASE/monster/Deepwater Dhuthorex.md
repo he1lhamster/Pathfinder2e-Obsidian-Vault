@@ -1,10 +1,7 @@
 ﻿---
 ac: '28'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Aquatic Ambush
@@ -13,26 +10,19 @@ creature_ability:
 - Swallow Whole
 creature_family: '[[DATABASE/monsterfamily/Dhuthorex|Dhuthorex]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+19'
-hardness: null
 hp: '155'
 id: '1382'
 immunity:
 - acid
 intelligence: '-4'
 land_speed: '10'
-language: null
 level: '9'
 max_speed: '40'
 name: Deepwater Dhuthorex
 perception: '+18'
 rarity: Uncommon
 reflex: '+18'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Wavesense|wavesense (imprecise) 60 feet]]'
@@ -45,7 +35,6 @@ source: '[[DATABASE/source/Pathfinder 165. Eyes of Empty Death|Pathfinder #165: 
   of Empty Death]]'
 speed:
 - 10 feet; swim 40 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
@@ -59,7 +48,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+17'
 wisdom: '+4'
 

@@ -2,7 +2,6 @@
 id: '385'
 name: Contingency
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 trait:
 - Contingency

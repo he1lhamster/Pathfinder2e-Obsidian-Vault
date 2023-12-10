@@ -1,10 +1,7 @@
 ﻿---
 ac: '35'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Capsize
@@ -13,27 +10,18 @@ creature_ability:
 - Spine Rake
 - Swallow Whole
 - Undetectable
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+25'
-hardness: null
 hp: '210'
 id: '361'
-immunity: null
 intelligence: '-4'
 land_speed: '20'
-language: null
 level: '12'
 max_speed: '60'
 name: Sea Serpent
 perception: '+22'
 rarity: Uncommon
 reflex: '+21'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Gargantuan
@@ -45,7 +33,6 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 20 feet
 - swim 60 feet
-spell: null
 strength: '+8'
 strength_req: '8'
 strongest_save:
@@ -59,7 +46,6 @@ vision: Darkvision
 weakest_save:
 - Reflex
 - Will
-weakness: null
 will: '+21'
 wisdom: '+2'
 

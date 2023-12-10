@@ -1,26 +1,19 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Drain Emotion
 frequency: once per day
-heighten_level: null
 id: '4047'
 level: '9'
 name: Drain Emotion
 prerequisite: '[[DATABASE/feat/Fey Influence|Fey Influence]]'
 rarity: Rare
-requirement: null
-rus_type_level: null
 school: Enchantment
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/All Ancestries|All Ancestries]]'
 - '[[DATABASE/trait/Enchantment|Enchantment]]'
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Feat
 
 ---

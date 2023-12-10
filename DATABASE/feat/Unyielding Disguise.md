@@ -1,25 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Unyielding Disguise
-frequency: null
-heighten_level: null
 id: '3803'
 level: '9'
 name: Unyielding Disguise
 prerequisite: ability to cast [[DATABASE/spell/Humanoid Form|humanoid form]] or [[DATABASE/spell/Illusory
   Disguise|illusory disguise]]
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Reflection|Reflection]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Feat
 
 ---

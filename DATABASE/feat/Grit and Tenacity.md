@@ -1,20 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Grit and Tenacity
 frequency: once per hour
-heighten_level: null
 id: '3178'
+leads_to: '[[DATABASE/feat/Unshakable Grit|Unshakable Grit]]'
 level: '8'
 name: Grit and Tenacity
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fortune|Fortune]]'
 - '[[DATABASE/trait/Gunslinger|Gunslinger]]'

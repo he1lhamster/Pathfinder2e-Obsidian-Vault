@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Living Weapon
-frequency: null
-heighten_level: null
 id: '2518'
+leads_to: '[[DATABASE/feat/Mutate Weapon|Mutate Weapon]]'
 level: '1'
 name: Living Weapon
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fleshwarp|Fleshwarp]]'
-trigger: null
 type: Feat
 
 ---

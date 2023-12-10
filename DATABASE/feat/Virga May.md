@@ -1,24 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Virga May
-frequency: null
-heighten_level: null
 id: '2334'
+leads_to: '[[DATABASE/feat/Favorable Winds|Favorable Winds]] , [[DATABASE/feat/Invoke
+  the Elements|Invoke the Elements]]'
 level: '1'
 name: Virga May
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Changeling|Changeling]]'
 - '[[DATABASE/trait/Lineage|Lineage]]'
-trigger: null
 type: Feat
 
 ---

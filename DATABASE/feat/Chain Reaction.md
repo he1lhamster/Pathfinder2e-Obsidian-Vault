@@ -1,24 +1,16 @@
 ﻿---
 actions: '[three-actions]'
-cost: null
-element: null
 feat: Chain Reaction
 frequency: once per 10 minutes
-heighten_level: null
 id: '3279'
 level: '12'
 name: Chain Reaction
 prerequisite: '[[DATABASE/feat/Unexpected Sharpshooter Dedication|Unexpected Sharpshooter
   Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

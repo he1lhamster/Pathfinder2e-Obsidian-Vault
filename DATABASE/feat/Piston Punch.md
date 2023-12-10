@@ -1,23 +1,14 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Piston Punch
-frequency: null
-heighten_level: null
 id: '3129'
 level: '6'
 name: Piston Punch
 prerequisite: '[[DATABASE/feat/Sterling Dynamo Dedication|Sterling Dynamo Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

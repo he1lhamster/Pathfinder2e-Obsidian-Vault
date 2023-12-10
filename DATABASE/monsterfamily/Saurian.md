@@ -3,10 +3,8 @@ creature_family: Saurian
 id: '204'
 name: Saurian
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 156. The Apocalypse Prophet|Pathfinder #156:
   The Apocalypse Prophet]]'
-trait: null
 type: Creature Family
 
 ---

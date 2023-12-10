@@ -1,13 +1,8 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
-frequency: null
 id: '552'
 name: Iron Command
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Enchantment
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 trait:

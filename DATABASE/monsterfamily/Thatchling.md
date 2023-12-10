@@ -3,10 +3,8 @@ creature_family: Thatchling
 id: '351'
 name: Thatchling
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 196. The Summer That Never Was|Pathfinder #196:
   The Summer That Never Was]]'
-trait: null
 type: Creature Family
 
 ---

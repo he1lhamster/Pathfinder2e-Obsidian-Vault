@@ -1,16 +1,9 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
-frequency: null
 id: '904'
 name: Chassis Deflection
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-trait: null
 trigger: A critical hit deals physical damage to you
 type: Action
 

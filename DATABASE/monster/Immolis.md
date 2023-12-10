@@ -1,23 +1,16 @@
 ﻿---
 ac: '19'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
 climb_speed: '40'
 constitution: '+0'
 creature_ability:
 - Heat Beam
 - Heatsense
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+6'
-hardness: null
 hp: '50'
 id: '2447'
-immunity: null
 intelligence: '-3'
 land_speed: '40'
 language:
@@ -28,9 +21,6 @@ name: Immolis
 perception: '+12'
 rarity: Uncommon
 reflex: '+12'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - heatsense 120 feet
 size: Medium
@@ -45,20 +35,16 @@ source: '[[DATABASE/source/Pathfinder 187. The Seventh Arch|Pathfinder #187: The
 speed:
 - 40 feet
 - climb 40 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+9'
 wisdom: '+3'
 

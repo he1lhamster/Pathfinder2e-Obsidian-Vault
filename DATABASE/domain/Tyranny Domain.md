@@ -1,7 +1,5 @@
 ﻿---
-advanced_apocryphal_spell: null
 advanced_domain_spell: '[[DATABASE/spell/Commanding Lash|Commanding Lash]]'
-apocryphal_spell: null
 deity:
 - '[[DATABASE/deity/Angazhan|Angazhan]]'
 - '[[DATABASE/deity/Asmodeus|Asmodeus]]'
@@ -23,9 +21,7 @@ domain_spell: '[[DATABASE/spell/Touch of Obedience|Touch of Obedience]]'
 id: '33'
 name: Tyranny Domain
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Domain
 
 ---

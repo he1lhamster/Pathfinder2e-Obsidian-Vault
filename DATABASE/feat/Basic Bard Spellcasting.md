@@ -1,23 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Basic Bard Spellcasting
-frequency: null
-heighten_level: null
 id: '678'
+leads_to: '[[DATABASE/feat/Expert Bard Spellcasting|Expert Bard Spellcasting]] , [[DATABASE/feat/Occult
+  Breadth|Occult Breadth]]'
 level: '4'
 name: Basic Bard Spellcasting
 prerequisite: '[[DATABASE/feat/Bard Dedication|Bard Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

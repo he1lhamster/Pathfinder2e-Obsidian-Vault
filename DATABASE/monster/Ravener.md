@@ -1,10 +1,7 @@
 ﻿---
 ac: '47'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+8'
-climb_speed: null
 constitution: '+9'
 creature_ability:
 - Attack of Opportunity
@@ -24,7 +21,6 @@ dexterity: '+5'
 element: Fire
 fly_speed: '180'
 fortitude: '+38'
-hardness: null
 hp: '500'
 id: '783'
 immunity:
@@ -50,9 +46,6 @@ name: Ravener
 perception: '+37'
 rarity: Rare
 reflex: '+34'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent (imprecise) 60 feet]]'
@@ -80,7 +73,6 @@ strength: '+9'
 strength_req: '9'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dragon|Dragon]]'
 - '[[DATABASE/trait/Fire|Fire]]'

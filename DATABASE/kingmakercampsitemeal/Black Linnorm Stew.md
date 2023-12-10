@@ -5,7 +5,6 @@ name: Black Linnorm Stew
 price: 1,200 gp
 rarity: Rare
 requirement: legendary in [[DATABASE/skill/Arcana|Arcana]] or [[DATABASE/skill/Nature|Nature]]
-rus_type_level: null
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
 trait:
 - '[[DATABASE/trait/Meal|Meal]]'

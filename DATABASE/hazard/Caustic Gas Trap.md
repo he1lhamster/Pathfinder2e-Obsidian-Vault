@@ -1,21 +1,11 @@
 ﻿---
-ac: null
-all_resistance: null
 complexity: Simple
 element: Fire
-fortitude: null
-hardness: null
 hazard_type: Trap
-hp: null
 id: '412'
-immunity: null
 level: '9'
 name: Caustic Gas Trap
 rarity: Common
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 195. Heavy is the Crown|Pathfinder #195: Heavy
   is the Crown]]'
 trait:
@@ -23,8 +13,6 @@ trait:
 - '[[DATABASE/trait/Mechanical|Mechanical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Caustic Gas Trap<span class="item-type">Hazard 9</span>

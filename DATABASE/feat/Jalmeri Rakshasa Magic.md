@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Jalmeri Rakshasa Magic
-frequency: null
-heighten_level: null
 id: '3941'
 level: '9'
 name: Jalmeri Rakshasa Magic
 prerequisite: '[[DATABASE/feat/Beastbrood|Beastbrood]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Tiefling|Tiefling]]'
-trigger: null
 type: Feat
 
 ---

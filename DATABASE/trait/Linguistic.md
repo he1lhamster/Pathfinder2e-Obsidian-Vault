@@ -2,7 +2,6 @@
 id: '101'
 name: Linguistic
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - Linguistic

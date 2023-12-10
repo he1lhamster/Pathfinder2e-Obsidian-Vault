@@ -2,7 +2,6 @@
 id: '225'
 name: Leshy
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 trait:
 - Leshy

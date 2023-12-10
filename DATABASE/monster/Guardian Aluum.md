@@ -1,10 +1,7 @@
 ﻿---
 ac: '34'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Aluum Antimagic
@@ -13,10 +10,7 @@ creature_ability:
 - Soul Shriek
 creature_family: '[[DATABASE/monsterfamily/Aluum|Aluum]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+25'
-hardness: null
 hp: '210'
 id: '2576'
 immunity:
@@ -35,7 +29,6 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '25'
-language: null
 level: '13'
 max_speed: '25'
 name: Guardian Aluum
@@ -45,8 +38,6 @@ reflex: '+24'
 resistance:
 - 10 physical (except [[DATABASE/equipment/Wand of Smoldering Fireballs|adamantine]]
   )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -56,12 +47,10 @@ source: '[[DATABASE/source/Pathfinder 191. The Destiny War|Pathfinder #191: The 
   War]]'
 speed:
 - 25 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Mindless|Mindless]]'
@@ -70,7 +59,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+21'
 wisdom: '+3'
 

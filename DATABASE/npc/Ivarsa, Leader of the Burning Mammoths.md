@@ -1,10 +1,7 @@
 ﻿---
 ac: '33'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Arcane Cascade
@@ -12,14 +9,10 @@ creature_ability:
 - Capture Magic
 - Companion Bond
 - Spellstrike
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+24'
 hp: '212'
 id: '1832'
-immunity: null
 intelligence: '+5'
 land_speed: '25'
 language:
@@ -34,8 +27,6 @@ rarity: Unique
 reflex: '+22'
 resistance:
 - '[[DATABASE/trait/Fire|fire]] 10'
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Arcana|Arcana]] +25'
@@ -68,16 +59,13 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+19'
 wisdom: '+1'
 

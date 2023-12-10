@@ -1,10 +1,6 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Discerning Strike
-frequency: null
-heighten_level: null
 id: '2274'
 level: '6'
 name: Discerning Strike
@@ -13,13 +9,9 @@ prerequisite: '[[DATABASE/feat/Pathfinder Agent Dedication|Pathfinder Agent Dedi
 rarity: Common
 requirement: You have successfully identified the target with [[DATABASE/action/Recall
   Knowledge|RecallKnowledge]] during this combat.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

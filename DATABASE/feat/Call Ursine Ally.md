@@ -1,26 +1,17 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Call Ursine Ally
 frequency: once per hour
-heighten_level: null
 id: '4089'
 level: '8'
 name: Call Ursine Ally
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Conjuration
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Primal|Primal]]'
 - '[[DATABASE/trait/Summoned|Summoning]]'
-trigger: null
 type: Feat
 
 ---

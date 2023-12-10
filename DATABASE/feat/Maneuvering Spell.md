@@ -1,21 +1,13 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Maneuvering Spell
-frequency: null
-heighten_level: null
 id: '2741'
 level: '12'
 name: Maneuvering Spell
 prerequisite: '[[DATABASE/feat/Sixth Pillar Dedication|Sixth Pillar Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Fists of the Ruby Phoenix Hardcover|Fists of the Ruby Phoenix
   Hardcover]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 trigger: You begin to Cast a Spell that requires at least 2 actions to cast.

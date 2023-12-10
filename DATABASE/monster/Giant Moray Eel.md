@@ -1,10 +1,7 @@
 ﻿---
 ac: '21'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Ambush
@@ -12,16 +9,11 @@ creature_ability:
 - Swallow Whole
 creature_family: '[[DATABASE/monsterfamily/Eel|Eel]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+14'
-hardness: null
 hp: '65'
 id: '175'
-immunity: null
 intelligence: '-4'
 land_speed: '10'
-language: null
 level: '5'
 max_speed: '40'
 name: Giant Moray Eel
@@ -31,8 +23,6 @@ reflex: '+13'
 resistance:
 - bludgeoning 5
 - piercing 5
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 - scent (imprecise) 30 feet
@@ -45,7 +35,6 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 10 feet
 - swim 40 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
@@ -58,7 +47,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+9'
 wisdom: '+2'
 

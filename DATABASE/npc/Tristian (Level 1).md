@@ -1,10 +1,7 @@
 ﻿---
 ac: '14'
 alignment: NG
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Ancestry Feats
@@ -12,14 +9,10 @@ creature_ability:
 - Class Feats
 - Divine Font
 - Skill Feats
-creature_family: null
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+4'
 hp: '18'
 id: '2399'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -34,8 +27,6 @@ name: Tristian (Level 1)
 perception: '+7'
 rarity: Unique
 reflex: '+4'
-resistance: null
-rus_type_level: null
 sense:
 - (trained) [[DATABASE/monsterability/Low-Light Vision|low-light vision]]
 size: Medium
@@ -65,7 +56,6 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aasimar|Aasimar]]'
 - '[[DATABASE/trait/Human|Human]]'
@@ -76,7 +66,6 @@ vision: Low-light vision
 weakest_save:
 - Fortitude
 - Reflex
-weakness: null
 will: '+9'
 wisdom: '+4'
 

@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Elaborate Scroll Esoterica
-frequency: null
-heighten_level: null
 id: '3720'
+leads_to: '[[DATABASE/feat/Grand Scroll Esoterica|Grand Scroll Esoterica]]'
 level: '12'
 name: Elaborate Scroll Esoterica
 prerequisite: '[[DATABASE/feat/Scroll Esoterica|Scroll Esoterica]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Thaumaturge|Thaumaturge]]'
-trigger: null
 type: Feat
 
 ---

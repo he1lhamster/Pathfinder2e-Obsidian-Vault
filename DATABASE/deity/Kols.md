@@ -26,11 +26,9 @@ follower_alignment:
 id: '89'
 name: Kols
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Society|Society]]'
 source: '[[DATABASE/source/Highhelm|Highhelm]]'
-trait: null
 type: Deity
 
 ---

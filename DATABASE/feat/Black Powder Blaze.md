@@ -1,23 +1,15 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Black Powder Blaze
-frequency: null
-heighten_level: null
 id: '3237'
 level: '8'
 name: Black Powder Blaze
 prerequisite: '[[DATABASE/feat/Black Powder Boost|Black Powder Boost]]'
 rarity: Common
 requirement: You're wielding a loaded firearm.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

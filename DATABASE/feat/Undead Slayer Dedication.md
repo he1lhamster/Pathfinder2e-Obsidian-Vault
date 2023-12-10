@@ -1,24 +1,18 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Undead Slayer Dedication
-frequency: null
-heighten_level: null
 id: '3474'
+leads_to: '[[DATABASE/feat/Blessed Medicine|Blessed Medicine]] , [[DATABASE/feat/Frighten
+  Undead|Frighten Undead]] , [[DATABASE/feat/Gear Up|Gear Up]] , [[DATABASE/feat/Hunter''s
+  Sanctum|Hunter''s Sanctum]] , [[DATABASE/feat/Necromantic Resistance|Necromantic
+  Resistance]] , [[DATABASE/feat/Slayer''s Strike|Slayer''s Strike]]'
 level: '2'
 name: Undead Slayer Dedication
 prerequisite: Trained in [[DATABASE/skill/Religion|Religion]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
-trigger: null
 type: Feat
 
 ---

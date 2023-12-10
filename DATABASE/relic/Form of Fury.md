@@ -1,11 +1,9 @@
 ﻿---
-element: null
 id: '10'
 item_category: Relics
 name: Form of Fury
 prerequisite: The relic is a worn item.
 rarity: Common
-rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:

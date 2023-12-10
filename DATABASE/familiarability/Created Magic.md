@@ -1,14 +1,9 @@
 ﻿---
 ability_type: Specific Familiar - Ceru
-actions: null
-frequency: null
 id: '88'
 name: Created Magic
 rarity: Common
-requirement: null
-rus_type_level: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-trait: null
 type: Familiar Ability
 
 ---

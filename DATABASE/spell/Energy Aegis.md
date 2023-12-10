@@ -1,29 +1,17 @@
 ﻿---
-actions: null
-area: null
 bloodline: '[[DATABASE/sorcererbloodline/Elemental|Elemental]] , [[DATABASE/sorcererbloodline/Genie|Genie]]'
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: until the next time you make your daily preparations.
-element: null
 heighten: 9th
 heighten_level: 7, 9
 id: '100'
-lesson: null
 level: '7'
-mystery: null
 name: Energy Aegis
-patron_theme: null
 range: touch
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: 1 creature
@@ -35,7 +23,6 @@ tradition:
 - Elemental
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
-trigger: null
 type: Spell
 
 ---

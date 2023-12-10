@@ -1,57 +1,22 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '539'
 item_category: Runes
 item_subcategory: Weapon Property Runes
-land_speed: null
-level: '13'
-max_speed: null
+level: '8'
 name: Bloodbane
-onset: null
-price: 2,800 gp
-range: null
+price: 475 gp
 rarity: Uncommon
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
-size: null
 source: '[[DATABASE/source/Pathfinder 148. Fires of the Haunted City|Pathfinder #148:
   Fires of the Haunted City]]'
-spell: null
-stage: null
 subcategory: rune
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dwarf|Dwarf]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Item
 usage: etched onto a [[DATABASE/weapon/Clan Dagger|clan dagger]]
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Bloodbane<span class="item-type">Item 8+</span>

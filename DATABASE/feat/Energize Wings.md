@@ -1,27 +1,21 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Energize Wings
 frequency: once per hour
-heighten_level: null
 id: '2639'
+leads_to: '[[DATABASE/feat/Hero''s Wings|Hero''s Wings]]'
 level: '9'
 name: Energize Wings
 prerequisite: '[[DATABASE/feat/Evanescent Wings|Evanescent Wings]]'
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Morph|Morph]]'
 - '[[DATABASE/trait/Primal|Primal]]'
 - '[[DATABASE/trait/Sprite|Sprite]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Feat
 
 ---

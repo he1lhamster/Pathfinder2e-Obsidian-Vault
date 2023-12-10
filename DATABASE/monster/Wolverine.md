@@ -1,7 +1,6 @@
 ﻿---
 ac: '18'
 alignment: N
-all_resistance: null
 burrow_speed: '10'
 charisma: '-2'
 climb_speed: '10'
@@ -12,25 +11,17 @@ creature_ability:
 - Wolverine Rage
 creature_family: '[[DATABASE/monsterfamily/Wolverine|Wolverine]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+9'
-hardness: null
 hp: '34'
 id: '862'
-immunity: null
 intelligence: '-4'
 land_speed: '25'
-language: null
 level: '2'
 max_speed: '25'
 name: Wolverine
 perception: '+8'
 rarity: Common
 reflex: '+7'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Scent|scent (imprecise) 30 feet]]'
@@ -43,19 +34,16 @@ speed:
 - 25 feet
 - burrow 10 feet
 - climb 10 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+6'
 wisdom: '+0'
 

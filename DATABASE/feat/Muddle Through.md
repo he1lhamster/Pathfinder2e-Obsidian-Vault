@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Muddle Through
-frequency: null
-heighten_level: null
 id: '3919'
 level: '1'
 name: Muddle Through
 prerequisite: Trained in [[DATABASE/skill/Wilderness|Wilderness]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Kingdom|Kingdom]]'
-trigger: null
 type: Feat
 
 ---

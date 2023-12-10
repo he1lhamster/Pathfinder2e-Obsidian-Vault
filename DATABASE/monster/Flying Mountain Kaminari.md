@@ -1,10 +1,7 @@
 ﻿---
 ac: '42'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+8'
 creature_ability:
 - Hurricane Bag
@@ -12,12 +9,9 @@ creature_ability:
 - Stormsight
 - Tempest Tether
 - Thunder Drums
-creature_family: null
 dexterity: '+6'
-element: null
 fly_speed: '60'
 fortitude: '+30'
-hardness: null
 hp: '320'
 id: '1518'
 immunity:
@@ -34,10 +28,6 @@ name: Flying Mountain Kaminari
 perception: '+33'
 rarity: Rare
 reflex: '+33'
-resistance: null
-rus_type_level: null
-school: null
-sense: null
 size: Huge
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +31'
@@ -50,21 +40,17 @@ source: '[[DATABASE/source/Pathfinder 168. King of the Mountain|Pathfinder #168:
 speed:
 - 25 feet
 - fly 60 feet; stormflight
-spell: null
 strength: '+9'
 strength_req: '9'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Kami|Kami]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+27'
 wisdom: '+5'
 

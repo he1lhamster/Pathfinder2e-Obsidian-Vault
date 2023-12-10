@@ -1,8 +1,6 @@
 ﻿---
 ac: '23'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-4'
 climb_speed: '30'
 constitution: '+4'
@@ -13,25 +11,17 @@ creature_ability:
 - Web Trap
 creature_family: '[[DATABASE/monsterfamily/Spider|Spider]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+15'
-hardness: null
 hp: '70'
 id: '814'
-immunity: null
 intelligence: '-5'
 land_speed: '30'
-language: null
 level: '5'
 max_speed: '30'
 name: Ogre Spider
 perception: '+13'
 rarity: Common
 reflex: '+13'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - web sense
@@ -43,19 +33,16 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 30 feet
 - climb 30 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+9'
 wisdom: '+2'
 

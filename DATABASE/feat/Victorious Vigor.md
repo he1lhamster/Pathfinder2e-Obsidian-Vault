@@ -1,20 +1,11 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Victorious Vigor
-frequency: null
-heighten_level: null
 id: '88'
 level: '5'
 name: Victorious Vigor
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Orc|Orc]]'
 trigger: You bring a foe to 0 Hit Points.

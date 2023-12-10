@@ -1,21 +1,16 @@
 ﻿---
 actions: '[one-action]'
 cost: 1 versatile vial
-element: null
-frequency: null
 id: '547'
 name: Quick Tincture
 rarity: Common
 requirement: You know the formula for the alchemical item you're creating, you are
   holding or wearing [[DATABASE/equipment/Alchemist's Tools|alchemist's tools]] ,
   and you have a free hand.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 trait:
 - '[[DATABASE/trait/Investigator|Investigator]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
-trigger: null
 type: Action
 
 ---

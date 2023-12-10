@@ -1,8 +1,6 @@
 ﻿---
 ac: '44'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
 climb_speed: '20'
 constitution: '+6'
@@ -19,26 +17,19 @@ creature_ability:
 - Relentless Tracker
 creature_family: '[[DATABASE/monsterfamily/Bandersnatch|Bandersnatch]]'
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+35'
-hardness: null
 hp: 395 ( fast healing 15 )
 id: '2205'
 immunity:
 - '[[DATABASE/condition/Confused|confused]]'
 intelligence: '-4'
 land_speed: '50'
-language: null
 level: '19'
 max_speed: '50'
 name: Primal Bandersnatch
 perception: '+33'
 rarity: Common
 reflex: '+33'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (precise) 120 feet'
@@ -53,12 +44,10 @@ source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 speed:
 - 50 feet
 - climb 20 feet
-spell: null
 strength: '+10'
 strength_req: '10'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Tane|Tane]]'
@@ -66,7 +55,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+31'
 wisdom: '+6'
 

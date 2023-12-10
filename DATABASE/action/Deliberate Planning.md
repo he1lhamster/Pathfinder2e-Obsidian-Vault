@@ -1,20 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
-frequency: null
 id: '1504'
 name: Deliberate Planning
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
 trait:
 - '[[DATABASE/trait/Downtime|Downtime]]'
 - '[[DATABASE/trait/Fortune|Fortune]]'
 - '[[DATABASE/trait/Leadership|Leadership]]'
-trigger: null
 type: Action
 
 ---

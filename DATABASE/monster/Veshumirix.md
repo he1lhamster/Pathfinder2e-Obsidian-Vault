@@ -1,10 +1,7 @@
 ﻿---
 ac: '39'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Breath Weapon
@@ -15,12 +12,10 @@ creature_ability:
 - Volcanic
 - Purge
 - Wing Deflection
-creature_family: null
 dexterity: '+4'
 element: Fire
 fly_speed: '160'
 fortitude: '+29'
-hardness: null
 hp: '300'
 id: '1577'
 immunity:
@@ -42,9 +37,6 @@ name: Veshumirix
 perception: '+28'
 rarity: Unique
 reflex: '+28'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 60 feet'

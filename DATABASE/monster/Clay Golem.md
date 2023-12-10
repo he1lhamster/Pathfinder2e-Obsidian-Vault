@@ -1,10 +1,7 @@
 ﻿---
 ac: '29'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Berserk
@@ -15,10 +12,7 @@ creature_ability:
 - Vulnerable to Disintegrate
 creature_family: '[[DATABASE/monsterfamily/Golem|Golem]]'
 dexterity: '-1'
-element: null
-fly_speed: null
 fortitude: '+23'
-hardness: null
 hp: '175'
 id: '240'
 immunity:
@@ -40,7 +34,6 @@ immunity:
 - unconscious
 intelligence: '-5'
 land_speed: '20'
-language: null
 level: '10'
 max_speed: '20'
 name: Clay Golem
@@ -49,8 +42,6 @@ rarity: Uncommon
 reflex: '+16'
 resistance:
 - physical 10 (except adamantine)
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Large
@@ -59,12 +50,10 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 20 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Golem|Golem]]'
@@ -74,7 +63,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+17'
 wisdom: '+0'
 

@@ -1,20 +1,14 @@
 ﻿---
 ac: '17'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '-2'
 creature_ability:
 - Crumbling Form
 - Lesser Mummy Rot
 creature_family: '[[DATABASE/monsterfamily/Mummy|Mummy]]'
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+6'
-hardness: null
 hp: 40 ( negative healing )
 id: '1884'
 immunity:
@@ -33,9 +27,6 @@ name: Decrepit Mummy
 perception: '+10'
 rarity: Common
 reflex: '+7'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -45,12 +36,10 @@ skill:
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 speed:
 - 20 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Mummy|Mummy]]'
 - '[[DATABASE/trait/Undead|Undead]]'

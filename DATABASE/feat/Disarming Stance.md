@@ -1,10 +1,6 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Disarming Stance
-frequency: null
-heighten_level: null
 id: '380'
 level: '6'
 name: Disarming Stance
@@ -12,14 +8,10 @@ prerequisite: Trained in [[DATABASE/skill/Athletics|Athletics]]
 rarity: Common
 requirement: You are wielding only a single one-handed melee weapon and have your
   other hand or hands free.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fighter|Fighter]]'
 - '[[DATABASE/trait/Stance|Stance]]'
-trigger: null
 type: Feat
 
 ---

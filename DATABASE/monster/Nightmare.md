@@ -1,23 +1,17 @@
 ﻿---
 ac: '24'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Flaming Gallop
 - Smoke
 creature_family: '[[DATABASE/monsterfamily/Nightmare|Nightmare]]'
 dexterity: '+3'
-element: null
 fly_speed: '90'
 fortitude: '+15'
-hardness: null
 hp: '100'
 id: '308'
-immunity: null
 intelligence: '+1'
 land_speed: '40'
 language:
@@ -32,8 +26,6 @@ rarity: Common
 reflex: '+15'
 resistance:
 - fire 10
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Large
@@ -53,7 +45,6 @@ strength_req: '6'
 strongest_save:
 - Fortitude
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'
@@ -61,7 +52,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+12'
 wisdom: '+4'
 

@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Replicate
-frequency: null
-heighten_level: null
 id: '3799'
 level: '5'
 name: Replicate
 prerequisite: '[[DATABASE/feat/Clone-Risen|Clone-Risen]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Reflection|Reflection]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,18 +1,11 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Disturbing Knowledge
-frequency: null
-heighten_level: null
 id: '2123'
 level: '7'
 name: Disturbing Knowledge
 prerequisite: Master in [[DATABASE/skill/Occultism|Occultism]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: occultism
 trait:
@@ -21,7 +14,6 @@ trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

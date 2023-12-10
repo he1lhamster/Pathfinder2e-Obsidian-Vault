@@ -1,10 +1,7 @@
 ﻿---
 ac: '20'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Consume Confusion
@@ -17,13 +14,11 @@ dexterity: '+4'
 element: Air
 fly_speed: '25'
 fortitude: '+6'
-hardness: null
 hp: '18'
 id: '1036'
 immunity:
 - magic
 intelligence: '+0'
-land_speed: null
 language:
 - '[[DATABASE/language/Aklo|Aklo]]'
 - '[[DATABASE/language/Common|Common]]'
@@ -33,9 +28,6 @@ name: Flickerwisp
 perception: '+9'
 rarity: Uncommon
 reflex: '+10'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -48,12 +40,10 @@ source: '[[DATABASE/source/Pathfinder 163. Ruins of Gauntlight|Pathfinder #163: 
   of Gauntlight]]'
 speed:
 - fly 25 feet
-spell: null
 strength: '-5'
 strength_req: '-5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Air|Air]]'
@@ -62,7 +52,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+7'
 wisdom: '+3'
 

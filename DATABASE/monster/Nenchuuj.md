@@ -1,10 +1,7 @@
 ﻿---
 ac: '43'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+8'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Distort Magic
@@ -13,10 +10,7 @@ creature_ability:
 - Tainted Backlash
 creature_family: '[[DATABASE/monsterfamily/Sahkil|Sahkil]]'
 dexterity: '+8'
-element: null
-fly_speed: null
 fortitude: '+31'
-hardness: null
 hp: '355'
 id: '1023'
 immunity:
@@ -36,9 +30,6 @@ name: Nenchuuj
 perception: '+33'
 rarity: Uncommon
 reflex: '+29'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/spell/Detect Magic|detect magic]]'
@@ -69,7 +60,6 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fiend|Fiend]]'
 - '[[DATABASE/trait/Sahkil|Sahkil]]'

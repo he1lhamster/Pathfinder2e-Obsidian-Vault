@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Lightless Litheness
-frequency: null
-heighten_level: null
 id: '2508'
 level: '5'
 name: Lightless Litheness
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fetchling|Fetchling]]'
-trigger: null
 type: Feat
 
 ---

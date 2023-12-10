@@ -2,7 +2,6 @@
 id: '208'
 name: Aeon
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 trait:
 - Aeon

@@ -1,8 +1,6 @@
 ﻿---
 ac: '21'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+18'
 hardness: '14'
 hazard_type: Trap
@@ -16,9 +14,6 @@ level: '6'
 name: Rolling Stone Cylinder Trap
 rarity: Uncommon
 reflex: '+11'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 194. Cult of the Cave Worm|Pathfinder #194:
   Cult of the Cave Worm]]'
 trait:
@@ -27,8 +22,6 @@ trait:
 - '[[DATABASE/trait/Trap|Trap]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Rolling Stone Cylinder Trap<span class="item-type">Hazard 6</span>

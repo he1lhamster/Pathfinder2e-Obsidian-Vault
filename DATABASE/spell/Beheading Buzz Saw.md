@@ -1,36 +1,21 @@
 ﻿---
 actions: '[two-actions]'
 area: 60-foot line
-bloodline: null
-component: null
-cost: null
-deity: null
-domain: null
-duration: null
 element: Metal
 heighten: '+1'
 heighten_level: 7, 8, 9, 10
 id: '1365'
-lesson: null
 level: '7'
-mystery: null
 name: Beheading Buzz Saw
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Reflex
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-target: null
 tradition:
 - Arcane
 trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Metal|Metal]]'
-trigger: null
 type: Spell
 
 ---

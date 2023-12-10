@@ -1,30 +1,15 @@
 ﻿---
 actions: '[reaction]'
-area: null
-bloodline: null
 component:
 - Verbal
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
 heighten: '+1'
 heighten_level: 4, 5, 6, 7, 8, 9, 10
 id: '813'
-lesson: null
 level: '4'
-mystery: null
 name: Rebounding Barrier
-patron_theme: null
-range: null
 rarity: Rare
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Legends|Legends]]'
-target: null
 tradition:
 - Arcane
 - Occult

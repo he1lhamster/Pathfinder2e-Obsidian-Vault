@@ -1,10 +1,7 @@
 ﻿---
 ac: '20'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '-4'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Aquatic Ambush
@@ -13,12 +10,8 @@ creature_ability:
 - Death Roll
 - Ghoul Fever
 - Paralysis
-creature_family: null
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+14'
-hardness: null
 hp: 60 ( negative healing )
 id: '2062'
 immunity:
@@ -29,16 +22,12 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '20'
-language: null
 level: '4'
 max_speed: '25'
 name: Ghoul Crocodile
 perception: '+11'
 rarity: Uncommon
 reflex: '+11'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - corpse scent (imprecise)
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
@@ -50,7 +39,6 @@ source: '[[DATABASE/source/Pathfinder 182. Graveclaw|Pathfinder #182: Graveclaw]
 speed:
 - 20 feet
 - swim 25 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
@@ -65,7 +53,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+8'
 wisdom: '+1'
 

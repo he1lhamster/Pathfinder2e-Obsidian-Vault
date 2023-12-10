@@ -3,9 +3,7 @@ creature_family: Bat
 id: '12'
 name: Bat
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
-trait: null
 type: Creature Family
 
 ---

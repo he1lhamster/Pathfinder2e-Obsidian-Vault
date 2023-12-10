@@ -1,23 +1,15 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Quick Stow (Ratfolk)
 frequency: once per round
-heighten_level: null
 id: '1304'
 level: '5'
 name: Quick Stow (Ratfolk)
 prerequisite: '[[DATABASE/feat/Cheek Pouches|Cheek Pouches]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Ratfolk|Ratfolk]]'
-trigger: null
 type: Feat
 
 ---

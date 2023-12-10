@@ -8,9 +8,7 @@ ability_boost:
 feat: '[[DATABASE/feat/Armor Assist|Armor Assist]]'
 id: '284'
 name: Press-Ganged (G&G)
-prerequisite: null
 rarity: Uncommon
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]]'
 - Labor [[DATABASE/skill/Lore|Lore]]

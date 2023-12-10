@@ -1,10 +1,7 @@
 ﻿---
 ac: '18'
 alignment: CG
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Ancestry Feat
@@ -17,12 +14,9 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Threshold of Knowledge Pregenerated Characters|Threshold
   of Knowledge Pregenerated Characters]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+4'
 hp: '15'
 id: '1752'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -36,8 +30,6 @@ name: Muruwa
 perception: '+6'
 rarity: Unique
 reflex: '+8'
-resistance: null
-rus_type_level: null
 sense:
 - low-light vision
 size: Medium
@@ -57,12 +49,10 @@ skill:
 source: '[[DATABASE/source/Threshold of Knowledge|Threshold of Knowledge]]'
 speed:
 - 25 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Grippli|Grippli]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -71,7 +61,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+6'
 wisdom: '+1'
 

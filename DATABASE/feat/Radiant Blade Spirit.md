@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Radiant Blade Spirit
-frequency: null
-heighten_level: null
 id: '240'
+leads_to: '[[DATABASE/feat/Radiant Blade Master|Radiant Blade Master]]'
 level: '10'
 name: Radiant Blade Spirit
 prerequisite: '[[DATABASE/class_/Champion|divine ally (blade)]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Champion|Champion]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,6 +1,5 @@
 ﻿---
 ac: '25'
-all_resistance: null
 complexity: Simple
 element: Water
 fortitude: '+17'
@@ -16,9 +15,6 @@ level: '7'
 name: Mist Projector
 rarity: Common
 reflex: '+10'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 194. Cult of the Cave Worm|Pathfinder #194:
   Cult of the Cave Worm]]'
 trait:
@@ -26,8 +22,6 @@ trait:
 - '[[DATABASE/trait/Trap|Trap]]'
 - '[[DATABASE/trait/Water|Water]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Mist Projector<span class="item-type">Hazard 7</span>

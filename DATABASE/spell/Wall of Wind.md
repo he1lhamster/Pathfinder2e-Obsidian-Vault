@@ -1,41 +1,29 @@
 ﻿---
 actions: '[three-actions]'
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/General Susumu|General Susumu]]'
 - '[[DATABASE/deity/Horus|Horus]]'
-domain: null
 duration: 1 minute
 element: Air
-heighten: null
 heighten_level: '3'
 id: '367'
 lesson: '[[DATABASE/witchlesson/Lesson of Snow|Lesson of Snow]]'
 level: '3'
-mystery: null
 name: Wall of Wind
-patron_theme: null
 range: 120 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Arcane
 - Primal
 trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
-trigger: null
 type: Spell
 
 ---

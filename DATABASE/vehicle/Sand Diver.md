@@ -1,8 +1,6 @@
 ﻿---
 ac: '14'
 burrow_speed: '10'
-climb_speed: null
-fly_speed: null
 fortitude: '+9'
 hardness: '5'
 hp: '42'
@@ -14,13 +12,8 @@ max_speed: '20'
 name: Sand Diver
 price: 155 gp
 rarity: Uncommon
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 size: Large
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Vehicle

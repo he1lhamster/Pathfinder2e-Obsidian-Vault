@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Simple Crystal Magic
-frequency: null
-heighten_level: null
 id: '1148'
 level: '6'
 name: Simple Crystal Magic
 prerequisite: '[[DATABASE/feat/Crystal Keeper Dedication|Crystal Keeper Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 148. Fires of the Haunted City|Pathfinder #148:
   Fires of the Haunted City]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

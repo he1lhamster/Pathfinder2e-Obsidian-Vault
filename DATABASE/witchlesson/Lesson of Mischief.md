@@ -2,9 +2,7 @@
 id: '6'
 name: Lesson of Mischief
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-trait: null
 type: Witch Lesson
 
 ---

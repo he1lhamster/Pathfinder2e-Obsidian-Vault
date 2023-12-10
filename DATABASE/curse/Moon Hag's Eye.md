@@ -1,10 +1,8 @@
 ﻿---
-element: null
 id: '50'
 level: '10'
 name: Moon Hag's Eye
 rarity: Uncommon
-rus_type_level: null
 saving_throw: DC 29 Will
 school: Enchantment
 source: '[[DATABASE/source/Pathfinder 188. They Watched the Stars|Pathfinder #188:
@@ -16,7 +14,6 @@ trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 - '[[DATABASE/trait/Visual|Visual]]'
 type: Curse
-usage: null
 
 ---
 # Moon Hag's Eye<span class="item-type">Curse 10</span>

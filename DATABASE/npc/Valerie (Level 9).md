@@ -1,10 +1,7 @@
 ﻿---
 ac: '28'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Aggressive Block
@@ -17,14 +14,10 @@ creature_ability:
 - Reactive Shield
 - Shield Block
 - Skill Feats
-creature_family: null
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+19'
 hp: '134'
 id: '2402'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -37,7 +30,6 @@ rarity: Unique
 reflex: '+15'
 resistance:
 - fire 5
-rus_type_level: null
 sense:
 - (master)
 size: Medium
@@ -53,22 +45,18 @@ skill:
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
 speed:
 - 25 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
 - Will
-weakness: null
 will: '+15'
 wisdom: '+1'
 

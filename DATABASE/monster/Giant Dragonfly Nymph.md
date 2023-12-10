@@ -1,34 +1,23 @@
 ﻿---
 ac: '19'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Extend Mandibles
 creature_family: '[[DATABASE/monsterfamily/Dragonfly|Dragonfly]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+11'
-hardness: null
 hp: '46'
 id: '637'
-immunity: null
 intelligence: '-5'
 land_speed: '10'
-language: null
 level: '3'
 max_speed: '30'
 name: Giant Dragonfly Nymph
 perception: '+8'
 rarity: Common
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Wavesense|wavesense (imprecise) 30 feet]]'
@@ -40,7 +29,6 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 10 feet
 - swim 30 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
@@ -53,7 +41,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+6'
 wisdom: '+1'
 

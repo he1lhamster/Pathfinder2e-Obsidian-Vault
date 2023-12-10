@@ -1,19 +1,12 @@
 ﻿---
-actions: null
 cost: 1 Resolve Point
-element: null
-frequency: null
 id: '463'
 name: Take a Breather
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
 - '[[DATABASE/trait/Exploration|Exploration]]'
 - '[[DATABASE/trait/Stamina|Stamina]]'
-trigger: null
 type: Action
 
 ---

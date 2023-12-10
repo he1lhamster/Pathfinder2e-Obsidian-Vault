@@ -1,8 +1,6 @@
 ﻿---
-area: null
 cost: rare oils and powdered minerals worth 5,000 gp
 duration: 1 year
-element: null
 heighten: '+1'
 heighten_level: 7, 8, 9, 10
 id: '41'
@@ -12,8 +10,6 @@ primary_check: '[[DATABASE/skill/Arcana|Arcana]] or [[DATABASE/skill/Occultism|O
   (expert, the check has the [[DATABASE/trait/Secret|secret]] trait)'
 range: 20 feet
 rarity: Rare
-requirement: null
-rus_type_level: null
 school: Conjuration
 secondary_casters: '2'
 secondary_check: Arcana or Occultism (whichever isn't used for the primary check),

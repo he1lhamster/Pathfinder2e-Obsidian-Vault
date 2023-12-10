@@ -1,54 +1,15 @@
 ﻿---
-ac: '21'
-actions: null
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: '30'
-fortitude: '+14'
-frequency: null
-hands: null
-hardness: '9'
-hp: '79'
+bulk: L
+hands: '1'
 id: '53'
-item_category: Vehicles
-item_subcategory: null
-land_speed: null
-level: '6'
-max_speed: '30'
+item_category: Adventuring Gear
+level: '0'
 name: Spellbook (Blank)
-onset: null
-price: 1,100 gp
-range: null
-rarity: Rare
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
-school: null
-size: Medium
+price: 1 gp
+rarity: Common
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-spell: null
-stage: null
 subcategory: adventuringgear
-swim_speed: null
-trait:
-- '[[DATABASE/trait/Magical|Magical]]'
-- '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
-type: Vehicle
-usage: null
-weapon_category: null
-weapon_group: null
-weapon_type: null
+type: Item
 
 ---
 # Spellbook (Blank)<span class="item-type">Item 0</span>

@@ -1,10 +1,7 @@
 ﻿---
 ac: '21'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+15'
-hardness: null
 hazard_type: Environmental
 hp: 56 (BT 28)
 id: '37'
@@ -14,9 +11,6 @@ level: '4'
 name: Titanic Flytrap
 rarity: Common
 reflex: '+8'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
 - '[[DATABASE/trait/Environmental|Environmental]]'
@@ -24,7 +18,6 @@ type: Hazard
 weakness:
 - acid 20
 - fire 10
-will: null
 
 ---
 # Titanic Flytrap<span class="item-type">Hazard 4</span>

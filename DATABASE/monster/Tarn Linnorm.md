@@ -1,10 +1,7 @@
 ﻿---
 ac: '46'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+8'
-climb_speed: null
 constitution: '+8'
 creature_ability:
 - Attack of Opportunity
@@ -17,10 +14,8 @@ creature_ability:
 - Tarn Linnorm Venom
 creature_family: '[[DATABASE/monsterfamily/Linnorm|Linnorm]]'
 dexterity: '+6'
-element: null
 fly_speed: '100'
 fortitude: '+36'
-hardness: null
 hp: '400'
 id: '286'
 immunity:
@@ -40,9 +35,6 @@ name: Tarn Linnorm
 perception: '+35'
 rarity: Uncommon
 reflex: '+32'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - scent (imprecise) 60 feet

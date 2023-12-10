@@ -1,19 +1,14 @@
 ﻿---
 ac: '32'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Breath Weapon
-creature_family: null
 dexterity: '+7'
 element: Air, Earth
 fly_speed: '35'
 fortitude: '+18'
-hardness: null
 hp: 180 ( fast healing 10 (in dust or sand))
 id: '2310'
 immunity:
@@ -33,9 +28,6 @@ name: Lintwerth
 perception: '+22'
 rarity: Unique
 reflex: '+24'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -54,7 +46,6 @@ strength: '+1'
 strength_req: '1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Earth|Earth]]'
@@ -64,7 +55,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+22'
 wisdom: '+5'
 

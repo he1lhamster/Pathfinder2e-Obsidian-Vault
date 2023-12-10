@@ -1,8 +1,5 @@
 ﻿---
 ac: '33'
-burrow_speed: null
-climb_speed: null
-fly_speed: null
 fortitude: '+25'
 hardness: '20'
 hp: '190'
@@ -14,13 +11,8 @@ max_speed: '15'
 name: Ambling Surveyor
 price: 13,000 gp
 rarity: Rare
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 size: Huge
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Vehicle

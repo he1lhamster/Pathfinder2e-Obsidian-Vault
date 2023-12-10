@@ -1,11 +1,8 @@
 ﻿---
-burrow_speed: null
 charisma: '+0'
 climb_speed: '20'
 constitution: '+1'
 dexterity: '+2'
-element: null
-fly_speed: null
 hp: '4'
 id: '49'
 intelligence: '-5'
@@ -13,11 +10,9 @@ land_speed: '20'
 max_speed: '20'
 name: Skeletal Constrictor
 rarity: Uncommon
-rus_type_level: null
 sense:
 - darkvision
 size: Small
-skill: null
 source: '[[DATABASE/source/Pathfinder 181. Zombie Feast|Pathfinder #181: Zombie Feast]]'
 speed:
 - 20 feet

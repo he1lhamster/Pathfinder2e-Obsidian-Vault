@@ -3,9 +3,7 @@ creature_family: Serpentfolk
 id: '151'
 name: Serpentfolk
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
-trait: null
 type: Creature Family
 
 ---

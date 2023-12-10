@@ -1,10 +1,7 @@
 ﻿---
 ac: '29'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Death Throes
@@ -16,12 +13,8 @@ creature_ability:
 - ''
 - Troop Defenses
 - Troop Movement
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+26'
-hardness: null
 hp: '240'
 id: '1704'
 immunity:
@@ -43,7 +36,6 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '20'
-language: null
 level: '13'
 max_speed: '20'
 name: Gold Defender Garrison
@@ -52,8 +44,6 @@ rarity: Rare
 reflex: '+22'
 resistance:
 - physical 15 (except [[DATABASE/equipment/Adamantine|adamantine]] and bludgeoning)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Gargantuan
@@ -63,12 +53,10 @@ source: '[[DATABASE/source/Pathfinder 172. Secrets of the Temple City|Pathfinder
   Secrets of the Temple City]]'
 speed:
 - 20 feet; troop movement
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Mindless|Mindless]]'

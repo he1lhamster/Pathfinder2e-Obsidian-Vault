@@ -1,23 +1,16 @@
 ﻿---
 ac: '15'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Trackless
 - Woodland Stride
 creature_family: '[[DATABASE/monsterfamily/Kaava|Kaava]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+5'
-hardness: null
 hp: '15'
 id: '1435'
-immunity: null
 intelligence: '+1'
 land_speed: '30'
 language:
@@ -30,8 +23,6 @@ rarity: Common
 reflex: '+7'
 resistance:
 - '[[DATABASE/trait/Poison|poison]] 2'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Small
@@ -43,19 +34,16 @@ skill:
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
 speed:
 - 30 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
 vision: Low-light vision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+6'
 wisdom: '+2'
 

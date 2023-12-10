@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Pervasive Superstition
-frequency: null
-heighten_level: null
 id: '89'
+leads_to: '[[DATABASE/feat/Spell Devourer|Spell Devourer]]'
 level: '9'
 name: Pervasive Superstition
 prerequisite: '[[DATABASE/feat/Orc Superstition|Orc Superstition]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Orc|Orc]]'
-trigger: null
 type: Feat
 
 ---

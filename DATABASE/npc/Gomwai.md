@@ -1,24 +1,17 @@
 ﻿---
 ac: '33'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Flurry of Blows
 - Flurry of Maneuvers
 - Powerful Fists
 - Stunning Fist
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+26'
 hp: '235'
 id: '1466'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -31,8 +24,6 @@ name: Gomwai
 perception: '+21'
 rarity: Unique
 reflex: '+23'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -46,12 +37,10 @@ source: '[[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #
   Despair on Danger Island]]'
 speed:
 - 25 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Goblin|Goblin]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -60,7 +49,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+20'
 wisdom: '+3'
 

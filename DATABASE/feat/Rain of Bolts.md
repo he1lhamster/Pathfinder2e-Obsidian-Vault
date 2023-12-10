@@ -1,24 +1,16 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Rain of Bolts
 frequency: once per day
-heighten_level: null
 id: '3104'
 level: '9'
 name: Rain of Bolts
 prerequisite: '[[DATABASE/heritage/Sharpshooter Automaton|Sharpshooter Automaton]]
   heritage'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Automaton|Automaton]]'
-trigger: null
 type: Feat
 
 ---

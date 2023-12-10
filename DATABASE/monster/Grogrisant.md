@@ -1,8 +1,6 @@
 ﻿---
 ac: '38'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
 climb_speed: '20'
 constitution: '+9'
@@ -11,12 +9,8 @@ creature_ability:
 - Dual Pounce
 - Rend
 - Vicious Rend
-creature_family: null
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+30'
-hardness: null
 hp: '295'
 id: '1727'
 immunity:
@@ -36,8 +30,6 @@ resistance:
 - '[[DATABASE/trait/Fire|fire]] 15'
 - physical 15 (except bludgeoning)
 - '[[DATABASE/trait/Poison|poison]] 20'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
@@ -63,7 +55,6 @@ strength: '+9'
 strength_req: '9'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Primal|Primal]]'
@@ -72,7 +63,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+25'
 wisdom: '+5'
 

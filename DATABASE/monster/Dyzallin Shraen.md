@@ -1,10 +1,7 @@
 ﻿---
 ac: '42'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+9'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Attack of Opportunity
@@ -14,12 +11,8 @@ creature_ability:
 - Mirror Rejuvenation
 - Utter
 - Despair
-creature_family: null
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+30'
-hardness: null
 hp: 380 ( negative healing )
 id: '2133'
 immunity:
@@ -45,8 +38,6 @@ rarity: Unique
 reflex: '+32'
 resistance:
 - '[[DATABASE/trait/Electricity|electricity]] 20'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -114,7 +105,6 @@ strength: '+2'
 strength_req: '2'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Mummy|Mummy]]'
 - '[[DATABASE/trait/Undead|Undead]]'

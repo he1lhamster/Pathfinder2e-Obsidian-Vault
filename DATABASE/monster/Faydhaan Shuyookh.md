@@ -1,10 +1,6 @@
 ﻿---
 ac: '36'
-alignment: null
-all_resistance: null
-burrow_speed: null
 charisma: '+8'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Aura of Hospitality
@@ -15,12 +11,9 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Genie|Genie]]'
 dexterity: '+7'
 element: Water
-fly_speed: null
 fortitude: '+23'
-hardness: null
 hp: '240'
 id: '2662'
-immunity: null
 intelligence: '+4'
 land_speed: '25'
 language:
@@ -41,8 +34,6 @@ rarity: Rare
 reflex: '+27'
 resistance:
 - '[[DATABASE/trait/Fire|fire]] 15'
-rus_type_level: null
-school: null
 sense:
 - (25 to [[DATABASE/action/Sense Motive|Sense Motive]] )
 size: Large
@@ -87,10 +78,8 @@ trait:
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Water|Water]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+25'
 wisdom: '+5'
 

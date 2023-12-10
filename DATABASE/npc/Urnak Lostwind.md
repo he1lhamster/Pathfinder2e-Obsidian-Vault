@@ -1,10 +1,7 @@
 ﻿---
 ac: '34'
 alignment: NG
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Attack of Opportunity
@@ -12,14 +9,10 @@ creature_ability:
 - Felling Throw
 - Ricochet Throw
 - Sweep Aside
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+27'
 hp: '310'
 id: '1506'
-immunity: null
 intelligence: '+1'
 land_speed: '20'
 language:
@@ -34,8 +27,6 @@ rarity: Unique
 reflex: '+23'
 resistance:
 - '[[DATABASE/trait/Cold|cold]] 10'
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +27'
@@ -45,22 +36,18 @@ skill:
 source: '[[DATABASE/source/Pathfinder 167. Ready Fight!|Pathfinder #167: Ready? Fight!]]'
 speed:
 - 20 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Orc|Orc]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+25'
 wisdom: '+3'
 

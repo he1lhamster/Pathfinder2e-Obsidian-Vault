@@ -1,23 +1,16 @@
 ﻿---
 ac: '36'
 alignment: NG
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
 climb_speed: '35'
 constitution: '+3'
 creature_ability:
 - Mantis Ambush
 - Pounce
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+26'
-hardness: null
 hp: '300'
 id: '1489'
-immunity: null
 intelligence: '+2'
 land_speed: '35'
 language:
@@ -29,10 +22,6 @@ name: Grandfather Mantis
 perception: '+27'
 rarity: Unique
 reflex: '+30'
-resistance: null
-rus_type_level: null
-school: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +28'
@@ -49,14 +38,12 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Minion|Minion]]'
 - '[[DATABASE/trait/Monitor|Monitor]]'
 - '[[DATABASE/trait/Spirit|Spirit]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
 weakness:

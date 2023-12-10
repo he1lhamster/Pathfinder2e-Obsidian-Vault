@@ -1,7 +1,5 @@
 ﻿---
-advanced_apocryphal_spell: null
 advanced_domain_spell: '[[DATABASE/spell/Rebuke Death|Rebuke Death]]'
-apocryphal_spell: null
 deity:
 - '[[DATABASE/deity/Arundhat|Arundhat]]'
 - '[[DATABASE/deity/Atreia|Atreia]]'
@@ -34,9 +32,7 @@ domain_spell: '[[DATABASE/spell/Healer''s Blessing|Healer''s Blessing]]'
 id: '15'
 name: Healing Domain
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Domain
 
 ---

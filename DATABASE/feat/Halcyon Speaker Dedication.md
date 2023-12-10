@@ -1,26 +1,19 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Halcyon Speaker Dedication
-frequency: null
-heighten_level: null
 id: '1115'
+leads_to: '[[DATABASE/feat/Dualistic Synergy|Dualistic Synergy]] , [[DATABASE/feat/Halcyon
+  Spellcasting Initiate|Halcyon Spellcasting Initiate]] , [[DATABASE/feat/Persistent
+  Creation|Persistent Creation]]'
 level: '6'
 name: Halcyon Speaker Dedication
 prerequisite: '[[DATABASE/feat/Magaambyan Attendant Dedication|Magaambyan Attendant
   Dedication]] ; member of the Magaambyaof conversant rank'
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

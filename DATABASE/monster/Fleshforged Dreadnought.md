@@ -1,10 +1,7 @@
 ﻿---
 ac: '42'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+9'
 creature_ability:
 - Caustic Leak
@@ -15,10 +12,7 @@ creature_ability:
 - Trample
 creature_family: '[[DATABASE/monsterfamily/Fleshforged|Fleshforged]]'
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+35'
-hardness: null
 hp: '300'
 id: '2407'
 immunity:
@@ -38,7 +32,6 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '30'
-language: null
 level: '18'
 max_speed: '30'
 name: Fleshforged Dreadnought
@@ -47,8 +40,6 @@ rarity: Rare
 reflex: '+28'
 resistance:
 - '[[DATABASE/trait/Acid|acid]] 20'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Gargantuan
@@ -57,12 +48,10 @@ skill:
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 speed:
 - 30 feet
-spell: null
 strength: '+10'
 strength_req: '10'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Mindless|Mindless]]'
@@ -71,7 +60,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+27'
 wisdom: '+5'
 

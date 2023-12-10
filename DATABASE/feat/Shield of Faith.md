@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Shield of Faith
-frequency: null
-heighten_level: null
 id: '1704'
 level: '10'
 name: Shield of Faith
 prerequisite: '[[DATABASE/feat/Domain Initiate|Domain Initiate]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Cleric|Cleric]]'
-trigger: null
 type: Feat
 
 ---

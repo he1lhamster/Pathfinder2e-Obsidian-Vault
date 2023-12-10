@@ -1,10 +1,8 @@
 ﻿---
-element: null
 id: '51'
 level: '10'
 name: Blackfrost
 rarity: Uncommon
-rus_type_level: null
 saving_throw: DC 27 Fortitude
 school: Necromancy
 source: '[[DATABASE/source/Pathfinder 189. Dreamers of the Nameless Spires|Pathfinder
@@ -17,7 +15,6 @@ trait:
 - '[[DATABASE/trait/Occult|Occult]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Curse
-usage: null
 
 ---
 # Blackfrost<span class="item-type">Curse 10</span>

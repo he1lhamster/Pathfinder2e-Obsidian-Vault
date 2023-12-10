@@ -4,7 +4,6 @@ level: '4'
 name: Scions of Domora
 prerequisite: '[[DATABASE/feat/Familiar Master Dedication|Familiar Master Dedication]]'
 rarity: Rare
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 188. They Watched the Stars|Pathfinder #188:
   They Watched the Stars]]'
 trait:

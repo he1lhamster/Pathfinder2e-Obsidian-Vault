@@ -1,39 +1,27 @@
 ﻿---
 actions: '[one-action]'
-area: null
-bloodline: null
 component:
 - Verbal
-cost: null
-deity: null
 domain:
 - '[[DATABASE/domain/Tyranny Domain|Tyranny]]'
 duration: until the end of your target's next turn
-element: null
-heighten: null
 heighten_level: '4'
 id: '408'
-lesson: null
 level: '4'
-mystery: null
 name: Commanding Lash
-patron_theme: null
 range: 100 feet
 rarity: Uncommon
 requirement: Your most recent action dealt damage to a target
-rus_type_level: null
 saving_throw: Will
 school: Enchantment
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: A creature you dealt damage to on your most recent action.
-tradition: null
 trait:
 - '[[DATABASE/trait/Cleric|Cleric]]'
 - '[[DATABASE/trait/Enchantment|Enchantment]]'
 - '[[DATABASE/trait/Incapacitation|Incapacitation]]'
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Focus
 
 ---

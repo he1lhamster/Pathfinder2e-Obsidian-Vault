@@ -1,25 +1,17 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Bond Conservation
-frequency: null
-heighten_level: null
 id: '648'
 level: '8'
 name: Bond Conservation
 prerequisite: '[[DATABASE/class_/Wizard|arcane bond]]'
 rarity: Common
 requirement: The last action you used was Drain Bonded Item.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Metamagic|Metamagic]]'
 - '[[DATABASE/trait/Wizard|Wizard]]'
-trigger: null
 type: Feat
 
 ---

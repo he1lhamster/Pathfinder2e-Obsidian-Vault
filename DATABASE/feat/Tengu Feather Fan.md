@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Tengu Feather Fan
-frequency: null
-heighten_level: null
 id: '2439'
+leads_to: '[[DATABASE/feat/Wind God''s Fan|Wind God''s Fan]]'
 level: '5'
 name: Tengu Feather Fan
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Tengu|Tengu]]'
-trigger: null
 type: Feat
 
 ---

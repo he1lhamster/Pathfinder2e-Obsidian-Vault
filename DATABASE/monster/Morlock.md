@@ -1,8 +1,6 @@
 ﻿---
 ac: '17'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
 climb_speed: '20'
 constitution: '+1'
@@ -14,13 +12,9 @@ creature_ability:
 - Swarming Stance
 creature_family: '[[DATABASE/monsterfamily/Morlock|Morlock]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+7'
-hardness: null
 hp: '38'
 id: '731'
-immunity: null
 intelligence: '-2'
 land_speed: '30'
 language:
@@ -31,9 +25,6 @@ name: Morlock
 perception: '+7'
 rarity: Common
 reflex: '+11'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -46,19 +37,16 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 30 feet
 - climb 20 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+9'
 wisdom: '+3'
 

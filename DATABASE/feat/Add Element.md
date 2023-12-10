@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Add Element
-frequency: null
-heighten_level: null
 id: '4338'
 level: '10'
 name: Add Element
 prerequisite: '[[DATABASE/feat/Advanced Element Control|Advanced Element Control]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

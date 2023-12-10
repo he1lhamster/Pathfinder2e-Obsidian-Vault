@@ -1,10 +1,7 @@
 ﻿---
 ac: '21'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-4'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Blood Scent
@@ -13,25 +10,16 @@ creature_ability:
 - Strafing Chomp
 creature_family: '[[DATABASE/monsterfamily/Shark|Shark]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+12'
-hardness: null
 hp: '60'
 id: '365'
-immunity: null
 intelligence: '-4'
-land_speed: null
-language: null
 level: '4'
 max_speed: '40'
 name: Great White Shark
 perception: '+11'
 rarity: Common
 reflex: '+10'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - blood scent
 - scent (imprecise) 100 feet
@@ -43,7 +31,6 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - swim 40 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
@@ -53,10 +40,8 @@ trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 - '[[DATABASE/trait/Aquatic|Aquatic]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+9'
 wisdom: '+1'
 

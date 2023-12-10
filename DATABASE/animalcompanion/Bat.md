@@ -1,10 +1,7 @@
 ﻿---
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+2'
 dexterity: '+3'
-element: null
 fly_speed: '30'
 hp: '6'
 id: '18'
@@ -13,7 +10,6 @@ land_speed: '15'
 max_speed: '30'
 name: Bat
 rarity: Common
-rus_type_level: null
 sense:
 - echolocation 20 feet (the bat can use hearing as a precise sense within this range)
 - low-light vision
@@ -26,8 +22,6 @@ speed:
 - fly 30 feet
 strength: '+2'
 strength_req: '2'
-swim_speed: null
-trait: null
 type: Animal Companion
 wisdom: '+1'
 

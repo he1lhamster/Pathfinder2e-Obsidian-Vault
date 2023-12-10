@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Fascinating Performance|Fascinating Performance]]'
 id: '13'
 name: Entertainer
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Performance|Performance]]'
 - Theater [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

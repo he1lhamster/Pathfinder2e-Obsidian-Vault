@@ -1,8 +1,6 @@
 ﻿---
 ac: '34'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
 climb_speed: '40'
 constitution: '+5'
@@ -14,12 +12,8 @@ creature_ability:
 - Leng Spider Venom
 - ''
 - Ranged Trip
-creature_family: null
 dexterity: '+7'
-element: null
-fly_speed: null
 fortitude: '+22'
-hardness: null
 hp: 235 ( fast healing 10)
 id: '713'
 immunity:
@@ -38,8 +32,6 @@ reflex: '+26'
 resistance:
 - poison 15
 - sonic 15
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/spell/Detect Magic|detect magic]]'
@@ -72,7 +64,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Dream|Dream]]'
@@ -81,7 +72,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+24'
 wisdom: '+5'
 

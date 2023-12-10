@@ -1,10 +1,7 @@
 ﻿---
 ac: '30'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Breath Weapon
@@ -20,7 +17,6 @@ dexterity: '+2'
 element: Air
 fly_speed: '140'
 fortitude: '+21'
-hardness: null
 hp: '175'
 id: '624'
 immunity:
@@ -39,9 +35,6 @@ name: Young Cloud Dragon
 perception: '+22'
 rarity: Uncommon
 reflex: '+18'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - mist vision
@@ -67,7 +60,6 @@ strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Dragon|Dragon]]'
@@ -77,7 +69,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+20'
 wisdom: '+4'
 

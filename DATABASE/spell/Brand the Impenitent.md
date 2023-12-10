@@ -1,27 +1,15 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: varies
-element: null
-heighten: null
 heighten_level: '2'
 id: '570'
-lesson: null
 level: '2'
-mystery: null
 name: Brand the Impenitent
-patron_theme: null
 range: touch
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Fortitude
 school: Abjuration
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -31,7 +19,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Curse|Curse]]'
-trigger: null
 type: Spell
 
 ---

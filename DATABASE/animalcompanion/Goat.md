@@ -1,11 +1,8 @@
 ﻿---
-burrow_speed: null
 charisma: '+0'
 climb_speed: '15'
 constitution: '+2'
 dexterity: '+2'
-element: null
-fly_speed: null
 hp: '8'
 id: '59'
 intelligence: '-4'
@@ -13,7 +10,6 @@ land_speed: '35'
 max_speed: '35'
 name: Goat
 rarity: Common
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
 size: Medium
@@ -25,8 +21,6 @@ speed:
 - climb 15 feet
 strength: '+3'
 strength_req: '3'
-swim_speed: null
-trait: null
 type: Animal Companion
 wisdom: '+1'
 

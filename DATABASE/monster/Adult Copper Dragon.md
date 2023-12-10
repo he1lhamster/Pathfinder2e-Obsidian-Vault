@@ -1,10 +1,7 @@
 ﻿---
 ac: '33'
 alignment: CG
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Breath Weapon
@@ -19,7 +16,6 @@ dexterity: '+3'
 element: Earth
 fly_speed: '140'
 fortitude: '+23'
-hardness: null
 hp: '235'
 id: '149'
 immunity:
@@ -39,9 +35,6 @@ name: Adult Copper Dragon
 perception: '+23'
 rarity: Common
 reflex: '+22'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - scent (imprecise) 60 feet
@@ -66,7 +59,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dragon|Dragon]]'
 - '[[DATABASE/trait/Earth|Earth]]'
@@ -75,7 +67,6 @@ vision: Darkvision
 weakest_save:
 - Reflex
 - Will
-weakness: null
 will: '+22'
 wisdom: '+3'
 

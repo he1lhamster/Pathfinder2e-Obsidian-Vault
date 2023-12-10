@@ -1,23 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Basic Eldritch Archer Spellcasting
-frequency: null
-heighten_level: null
 id: '1961'
+leads_to: '[[DATABASE/feat/Expert Eldritch Archer Spellcasting|Expert Eldritch Archer
+  Spellcasting]]'
 level: '8'
 name: Basic Eldritch Archer Spellcasting
 prerequisite: '[[DATABASE/feat/Eldritch Archer Dedication|Eldritch Archer Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

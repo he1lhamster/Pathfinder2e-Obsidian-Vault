@@ -1,11 +1,7 @@
 ﻿---
 id: '86'
 name: Tiefling
-rarity: null
-rus_type_level: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-trait: null
-type: null
 
 ---
 # Tiefling

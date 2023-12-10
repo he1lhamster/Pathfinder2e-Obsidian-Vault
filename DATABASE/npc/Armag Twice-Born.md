@@ -1,10 +1,7 @@
 ﻿---
 ac: '35'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Armag's Rage
@@ -14,14 +11,10 @@ creature_ability:
 - No Time to Die
 - Second Wind
 - Shoulder Slam
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+28'
 hp: '300'
 id: '2188'
-immunity: null
 intelligence: '+0'
 land_speed: '30'
 language:
@@ -34,8 +27,6 @@ rarity: Unique
 reflex: '+23'
 resistance:
 - physical 10 (weapons only)
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +27'
@@ -44,21 +35,17 @@ skill:
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 speed:
 - 30 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+25'
 wisdom: '+2'
 

@@ -1,19 +1,12 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
-frequency: null
 id: '704'
 name: Conduct Energy
 rarity: Common
 requirement: Your last action or spell this turn had the [[DATABASE/trait/Acid|acid]]
   , [[DATABASE/trait/Cold|cold]] , [[DATABASE/trait/Electricity|electricity]] , [[DATABASE/trait/Fire|fire]]
   , or [[DATABASE/trait/Sonic|sonic]] trait.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-trait: null
-trigger: null
 type: Action
 
 ---

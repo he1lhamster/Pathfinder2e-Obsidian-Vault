@@ -1,22 +1,16 @@
 ﻿---
 ac: '16'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Compression
 - Constrict
 - Control Body
 - Enshroud
-creature_family: null
 dexterity: '+4'
-element: null
 fly_speed: '30'
 fortitude: '+6'
-hardness: null
 hp: 30 ( negative healing )
 id: '1897'
 immunity:
@@ -28,7 +22,6 @@ immunity:
 - '[[DATABASE/trait/Poison|poison]]'
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-1'
-land_speed: null
 language:
 - '[[DATABASE/language/Common|Common]] ; (can''t speak any language)'
 level: '2'
@@ -37,9 +30,6 @@ name: Shredskin
 perception: '+6'
 rarity: Common
 reflex: '+10'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -51,19 +41,16 @@ skill:
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 speed:
 - fly 30 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Undead|Undead]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+8'
 wisdom: '+0'
 

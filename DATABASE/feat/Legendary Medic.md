@@ -1,24 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Legendary Medic
-frequency: null
-heighten_level: null
 id: '803'
 level: '15'
 name: Legendary Medic
 prerequisite: Legendary in [[DATABASE/skill/Medicine|Medicine]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: medicine
 trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

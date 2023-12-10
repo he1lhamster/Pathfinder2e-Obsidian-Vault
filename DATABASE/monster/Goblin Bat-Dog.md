@@ -1,35 +1,24 @@
 ﻿---
 ac: '18'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Goblin Pox
 - Irritating Dander
-creature_family: null
 dexterity: '+3'
-element: null
 fly_speed: '40'
 fortitude: '+10'
-hardness: null
 hp: '53'
 id: '2382'
-immunity: null
 intelligence: '-4'
 land_speed: '40'
-language: null
 level: '3'
 max_speed: '40'
 name: Goblin Bat-Dog
 perception: '+9'
 rarity: Rare
 reflex: '+12'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -41,12 +30,10 @@ source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]
 speed:
 - 40 feet
 - fly 40 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 - '[[DATABASE/trait/Mutant|Mutant]]'
@@ -55,7 +42,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+7'
 wisdom: '+2'
 

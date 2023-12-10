@@ -2,20 +2,15 @@
 ac: '21'
 alignment: CE
 all_resistance: '5'
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Grand Finale
 - Muse Possession
 - Thespian Aura
-creature_family: null
 dexterity: '+4'
-element: null
 fly_speed: '25'
 fortitude: '+9'
-hardness: null
 hp: 50 ( negative healing )
 id: '511'
 immunity:
@@ -26,7 +21,6 @@ immunity:
 - precision
 - unconscious
 intelligence: '+0'
-land_speed: null
 language:
 - '[[DATABASE/language/Common|Common]]'
 - '[[DATABASE/language/Necril|Necril]]'
@@ -40,8 +34,6 @@ resistance:
 - all damage 5 (except force
 - ghost touch
 - or positive; double resistance vs. non-magical)
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -67,7 +59,6 @@ strength: '-5'
 strength_req: '-5'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Incorporeal|Incorporeal]]'
 - '[[DATABASE/trait/Spirit|Spirit]]'
@@ -77,7 +68,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+14'
 wisdom: '+3'
 

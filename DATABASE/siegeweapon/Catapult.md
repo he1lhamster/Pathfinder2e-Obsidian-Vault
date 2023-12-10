@@ -1,6 +1,5 @@
 ﻿---
 ac: '20'
-bulk: null
 fortitude: '+15'
 hardness: '10'
 hp: '60'
@@ -13,7 +12,6 @@ name: Catapult
 price: 650 gp
 rarity: Uncommon
 reflex: '+8'
-rus_type_level: null
 size: Large
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:

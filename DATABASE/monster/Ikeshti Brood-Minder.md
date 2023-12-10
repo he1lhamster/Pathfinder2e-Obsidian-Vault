@@ -1,22 +1,15 @@
 ﻿---
 ac: '18'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Squirt Blood
 creature_family: '[[DATABASE/monsterfamily/Ikeshti|Ikeshti]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+9'
-hardness: null
 hp: '30'
 id: '1674'
-immunity: null
 intelligence: '+1'
 land_speed: '30'
 language:
@@ -31,9 +24,6 @@ reflex: '+10'
 resistance:
 - '[[DATABASE/trait/Cold|cold]] 2'
 - '[[DATABASE/trait/Fire|fire]] 2'
-rus_type_level: null
-school: null
-sense: null
 size: Small
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +7'
@@ -44,20 +34,16 @@ source: '[[DATABASE/source/Pathfinder 173. Doorway to the Red Star|Pathfinder #1
   Doorway to the Red Star]]'
 speed:
 - 30 feet
-spell: null
 strength: '+1'
 strength_req: '1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Ikeshti|Ikeshti]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+5'
 wisdom: '+1'
 

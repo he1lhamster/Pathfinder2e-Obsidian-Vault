@@ -1,7 +1,6 @@
 ﻿---
 ac: '18'
 alignment: NE
-all_resistance: null
 burrow_speed: '10'
 charisma: '+2'
 climb_speed: '10'
@@ -15,13 +14,9 @@ creature_ability:
 - Wrecker
 creature_family: '[[DATABASE/monsterfamily/Gremlin|Gremlin]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+9'
-hardness: null
 hp: '35'
 id: '1613'
-immunity: null
 intelligence: '-1'
 land_speed: '20'
 language:
@@ -32,9 +27,6 @@ name: Gnagrif
 perception: '+7'
 rarity: Uncommon
 reflex: '+10'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Tiny
@@ -60,7 +52,6 @@ strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Gremlin|Gremlin]]'

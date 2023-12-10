@@ -1,23 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Basic Captivator Spellcasting
-frequency: null
-heighten_level: null
 id: '3359'
+leads_to: '[[DATABASE/feat/Captivating Intensity|Captivating Intensity]] , [[DATABASE/feat/Countercharm|Countercharm]]
+  , [[DATABASE/feat/Expert Captivator Spellcasting|Expert Captivator Spellcasting]]'
 level: '4'
 name: Basic Captivator Spellcasting
 prerequisite: '[[DATABASE/feat/Captivator Dedication|Captivator Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,24 +1,16 @@
 ﻿---
 ac: '28'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Brutal Recovery
 - Ferocity
 - Terrorizing Swing
-creature_family: null
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+21'
-hardness: null
 hp: '155'
 id: '1690'
-immunity: null
 intelligence: '-1'
 land_speed: '30'
 language:
@@ -31,9 +23,6 @@ name: Cyclops Bully
 perception: '+17'
 rarity: Uncommon
 reflex: '+15'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Large
@@ -45,12 +34,10 @@ source: '[[DATABASE/source/Pathfinder 171. Hurricane''s Howl|Pathfinder #171: Hu
   Howl]]'
 speed:
 - 30 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Giant|Giant]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -59,7 +46,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Reflex
-weakness: null
 will: '+17'
 wisdom: '+4'
 

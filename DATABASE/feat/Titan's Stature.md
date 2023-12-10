@@ -1,26 +1,17 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Titan's Stature
-frequency: null
-heighten_level: null
 id: '166'
 level: '12'
 name: Titan's Stature
 prerequisite: '[[DATABASE/barbarianinstinct/Giant Instinct|giant instinct]] ; [[DATABASE/feat/Giant''s
   Stature|Giant''s Stature]]'
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Barbarian|Barbarian]]'
 - '[[DATABASE/trait/Polymorph|Polymorph]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Feat
 
 ---

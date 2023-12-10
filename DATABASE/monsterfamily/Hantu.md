@@ -3,10 +3,8 @@ creature_family: Hantu
 id: '285'
 name: Hantu
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #166:
   Despair on Danger Island]]'
-trait: null
 type: Creature Family
 
 ---

@@ -1,24 +1,20 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Snare Crafting
-frequency: null
-heighten_level: null
 id: '843'
+leads_to: '[[DATABASE/feat/Big Game Trapper|Big Game Trapper]] , [[DATABASE/feat/Snare
+  Commando|Snare Commando]] , [[DATABASE/feat/Snare Genius|Snare Genius]] , [[DATABASE/feat/Snare
+  Hopping|Snare Hopping]] , [[DATABASE/feat/Snare Specialist|Snare Specialist]] ,
+  [[DATABASE/feat/Snarecrafter Dedication|Snarecrafter Dedication]] , [[DATABASE/feat/Vicious
+  Snares|Vicious Snares]]'
 level: '1'
 name: Snare Crafting
 prerequisite: Trained in [[DATABASE/skill/Crafting|Crafting]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: crafting
 trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

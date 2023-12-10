@@ -1,40 +1,26 @@
 ﻿---
-actions: null
-area: null
 bloodline: '[[DATABASE/sorcererbloodline/Harrow|Harrow]]'
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Dwarven Pantheon|Dwarven Pantheon]]'
 - '[[DATABASE/deity/Pillars of Knowledge|Pillars of Knowledge]]'
 - '[[DATABASE/deity/Zohls|Zohls]]'
-domain: null
 duration: sustained
-element: null
 heighten: 8th, 9th
 heighten_level: 7, 8, 9
 id: '260'
-lesson: null
 level: '7'
-mystery: null
 name: Retrocognition
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Occult
 trait:
 - '[[DATABASE/trait/Divination|Divination]]'
-trigger: null
 type: Spell
 
 ---

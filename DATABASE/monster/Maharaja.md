@@ -1,10 +1,7 @@
 ﻿---
 ac: '45'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+10'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Autonomous Spell
@@ -13,13 +10,10 @@ creature_ability:
 - Reflect Spell
 creature_family: '[[DATABASE/monsterfamily/Rakshasa|Rakshasa]]'
 dexterity: '+9'
-element: null
 fly_speed: '30'
 fortitude: '+31'
-hardness: null
 hp: '320'
 id: '1272'
-immunity: null
 intelligence: '+7'
 land_speed: '40'
 language:
@@ -35,8 +29,6 @@ rarity: Rare
 reflex: '+33'
 resistance:
 - physical 20 (except piercing)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -105,7 +97,6 @@ strength: '+8'
 strength_req: '8'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fiend|Fiend]]'
 - '[[DATABASE/trait/Rakshasa|Rakshasa]]'

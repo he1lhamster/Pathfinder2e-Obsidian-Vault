@@ -2,7 +2,6 @@
 id: '55'
 name: Earth
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - Earth

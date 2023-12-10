@@ -1,7 +1,6 @@
 ﻿---
 ac: '37'
 alignment: NE
-all_resistance: null
 burrow_speed: '25'
 charisma: '+4'
 climb_speed: '25'
@@ -19,10 +18,7 @@ creature_ability:
 - Vent Fumes
 creature_family: '[[DATABASE/monsterfamily/Somnalu|Somnalu]]'
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+25'
-hardness: null
 hp: '290'
 id: '1737'
 immunity:
@@ -41,8 +37,6 @@ reflex: '+25'
 resistance:
 - '[[DATABASE/trait/Mental|mental]] 10'
 - '[[DATABASE/trait/Poison|poison]] 15'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 - sleep scent (imprecise) 60feet
@@ -70,7 +64,6 @@ strength: '+9'
 strength_req: '9'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Dream|Dream]]'

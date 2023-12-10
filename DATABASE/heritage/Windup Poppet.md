@@ -2,9 +2,7 @@
 id: '191'
 name: Windup Poppet
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
-trait: null
 type: Heritage
 
 ---

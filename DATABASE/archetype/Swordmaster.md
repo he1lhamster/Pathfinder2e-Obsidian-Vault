@@ -5,7 +5,6 @@ name: Swordmaster
 prerequisite: Strength 14, Dexterity 14, or Constitution 14; member of the Pathfinder
   Society affiliated with theSchool of Swords
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

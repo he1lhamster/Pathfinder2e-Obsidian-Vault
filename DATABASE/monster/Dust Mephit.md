@@ -1,10 +1,7 @@
 ﻿---
 ac: '17'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Breath Weapon
@@ -13,7 +10,6 @@ dexterity: '+4'
 element: Air, Earth
 fly_speed: '35'
 fortitude: '+6'
-hardness: null
 hp: 16 ( fast healing 2 (in dust or sand))
 id: '659'
 immunity:
@@ -32,9 +28,6 @@ name: Dust Mephit
 perception: '+3'
 rarity: Uncommon
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -51,7 +44,6 @@ strength: '+1'
 strength_req: '1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Earth|Earth]]'
@@ -61,7 +53,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+5'
 wisdom: '+0'
 

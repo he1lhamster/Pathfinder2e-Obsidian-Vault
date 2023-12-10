@@ -1,23 +1,15 @@
 ﻿---
 ac: '23'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Tail Drag
 - Voice Imitation
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+17'
-hardness: null
 hp: '105'
 id: '540'
-immunity: null
 intelligence: '-1'
 land_speed: '25'
 language:
@@ -29,9 +21,6 @@ name: Ahuizotl
 perception: '+13'
 rarity: Uncommon
 reflex: '+13'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -43,7 +32,6 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 25 feet
 - swim 35 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
@@ -58,7 +46,6 @@ vision: Darkvision
 weakest_save:
 - Reflex
 - Will
-weakness: null
 will: '+13'
 wisdom: '+3'
 

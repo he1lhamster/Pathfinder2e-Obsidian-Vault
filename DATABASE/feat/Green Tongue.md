@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Green Tongue
-frequency: null
-heighten_level: null
 id: '341'
 level: '12'
 name: Green Tongue
 prerequisite: '[[DATABASE/feat/Green Empathy|Green Empathy]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Druid|Druid]]'
-trigger: null
 type: Feat
 
 ---

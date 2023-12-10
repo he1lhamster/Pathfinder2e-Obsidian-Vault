@@ -1,23 +1,15 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Cover Fire
 frequency: once per round
-heighten_level: null
 id: '3155'
 level: '1'
 name: Cover Fire
-prerequisite: null
 rarity: Common
 requirement: You're wielding a loaded firearm or crossbow.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Gunslinger|Gunslinger]]'
-trigger: null
 type: Feat
 
 ---

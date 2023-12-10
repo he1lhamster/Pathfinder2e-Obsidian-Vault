@@ -1,10 +1,7 @@
 ﻿---
-area: null
 cost: "one jacinth worth a total value of the target's level (minimum 1) \xD7 5 gp,\
   \ for each target"
 duration: see text
-element: null
-heighten: null
 heighten_level: '5'
 id: '29'
 level: '5'
@@ -13,8 +10,6 @@ primary_check: '[[DATABASE/skill/Arcana|Arcana]] or [[DATABASE/skill/Occultism|O
   (master)'
 range: touch
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Divination
 secondary_casters: '2'
 secondary_check: Arcana or Occultism (whichever isn't used for the primary check),

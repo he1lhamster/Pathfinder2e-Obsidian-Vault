@@ -1,40 +1,27 @@
 ﻿---
 actions: '[two-actions]'
 area: all squares in a 20-foot-radius burst that contain plants or fungi
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Green Man|Green Man]]'
 - '[[DATABASE/deity/Nhimbaloth|Nhimbaloth]]'
 - '[[DATABASE/deity/Nhimbaloth|Nhimbaloth]]'
-domain: null
 duration: 1 minute
-element: null
-heighten: null
 heighten_level: '2'
 id: '103'
-lesson: null
 level: '2'
-mystery: null
 name: Entangle
-patron_theme: null
 range: 120 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Primal
 trait:
 - '[[DATABASE/trait/Plant|Plant]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Spell
 
 ---

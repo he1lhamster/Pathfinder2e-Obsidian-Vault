@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Magical Edification
-frequency: null
-heighten_level: null
 id: '2001'
+leads_to: '[[DATABASE/feat/Greater Magical Edification|Greater Magical Edification]]'
 level: '4'
 name: Magical Edification
 prerequisite: '[[DATABASE/feat/Loremaster Dedication|Loremaster Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

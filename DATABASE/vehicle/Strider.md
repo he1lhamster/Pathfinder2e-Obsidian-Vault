@@ -1,8 +1,5 @@
 ﻿---
 ac: '24'
-burrow_speed: null
-climb_speed: null
-fly_speed: null
 fortitude: '+13'
 hardness: '10'
 hp: '120'
@@ -14,13 +11,8 @@ max_speed: '30'
 name: Strider
 price: 1,200 gp
 rarity: Uncommon
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 size: Large
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Vehicle

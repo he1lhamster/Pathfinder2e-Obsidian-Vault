@@ -1,9 +1,6 @@
 ﻿---
-area: null
 cost: "incense and focusing diagrams worth a total value of the target's level (minimum\
   \ 1) \xD7 1 gp, for eachtarget"
-duration: null
-element: null
 heighten: 8th
 heighten_level: 3, 8
 id: '92'
@@ -13,8 +10,6 @@ primary_check: '[[DATABASE/skill/Arcana|Arcana]] or [[DATABASE/skill/Occultism|O
   (expert)'
 range: touch
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Illusion
 secondary_casters: '3'
 secondary_check: Arcana or Occultism, [[DATABASE/skill/Deception|Deception]] or [[DATABASE/skill/Diplomacy|Diplomacy]]

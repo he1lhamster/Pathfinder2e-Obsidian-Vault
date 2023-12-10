@@ -1,20 +1,12 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: High-Speed Regeneration
-frequency: null
-heighten_level: null
 id: '3786'
 level: '6'
 name: High-Speed Regeneration
-prerequisite: null
 rarity: Rare
-requirement: null
-rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Gatewalkers Player''s Guide|Gatewalkers Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Deviant|Deviant]]'
 - '[[DATABASE/trait/Healing|Healing]]'

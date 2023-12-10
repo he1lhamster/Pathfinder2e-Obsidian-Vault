@@ -1,21 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
-frequency: null
 id: '514'
 name: Follow the Expert
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Auditory|Auditory]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Exploration|Exploration]]'
 - '[[DATABASE/trait/Visual|Visual]]'
-trigger: null
 type: Action
 
 ---

@@ -1,8 +1,5 @@
 ﻿---
 ac: '34'
-burrow_speed: null
-climb_speed: null
-fly_speed: null
 fortitude: '+26'
 hardness: '20'
 hp: '230'
@@ -14,14 +11,10 @@ max_speed: '40'
 name: Titanic Stomper
 price: 19,000 gp
 rarity: Rare
-reflex: null
 resistance:
 - electricity 20
-rus_type_level: null
-school: null
 size: Gargantuan
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Vehicle

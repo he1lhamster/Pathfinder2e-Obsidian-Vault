@@ -1,41 +1,27 @@
 ﻿---
-actions: null
-area: null
 bloodline: '[[DATABASE/sorcererbloodline/Fey|Fey]] , [[DATABASE/sorcererbloodline/Genie|Genie]]'
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Folgrit|Folgrit]]'
 - '[[DATABASE/deity/Folgrit|Folgrit]]'
 - '[[DATABASE/deity/The Deliberate Journey|The Deliberate Journey]]'
-domain: null
 duration: until the next time you make your daily preparations
-element: null
-heighten: null
 heighten_level: '9'
 id: '257'
-lesson: null
 level: '9'
-mystery: null
 name: Resplendent Mansion
-patron_theme: null
 range: 500 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Arcane
 - Occult
 trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
-trigger: null
 type: Spell
 
 ---

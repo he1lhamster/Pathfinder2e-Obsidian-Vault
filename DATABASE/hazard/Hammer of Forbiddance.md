@@ -1,8 +1,6 @@
 ﻿---
 ac: '32'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+24'
 hardness: 22 Hammer Hardness
 hazard_type: Trap
@@ -16,17 +14,12 @@ level: '11'
 name: Hammer of Forbiddance
 rarity: Common
 reflex: '+15'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Mechanical|Mechanical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Hammer of Forbiddance<span class="item-type">Hazard 11</span>

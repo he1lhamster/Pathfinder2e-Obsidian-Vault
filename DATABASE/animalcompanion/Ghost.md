@@ -1,19 +1,14 @@
 ﻿---
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+0'
 dexterity: '+3'
-element: null
 fly_speed: '20'
 hp: '4'
 id: '38'
 intelligence: '-4'
-land_speed: null
 max_speed: '20'
 name: Ghost
 rarity: Uncommon
-rus_type_level: null
 sense:
 - darkvision
 size: Small, Medium
@@ -24,7 +19,6 @@ speed:
 - fly 20 feet
 strength: '-5'
 strength_req: '-5'
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Animal Companion

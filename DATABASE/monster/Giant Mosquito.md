@@ -1,35 +1,25 @@
 ﻿---
 ac: '24'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Blood Drain
 - Septic Malaria
 creature_family: '[[DATABASE/monsterfamily/Mosquito|Mosquito]]'
 dexterity: '+5'
-element: null
 fly_speed: '50'
 fortitude: '+14'
-hardness: null
 hp: '80'
 id: '733'
-immunity: null
 intelligence: '-5'
 land_speed: '20'
-language: null
 level: '6'
 max_speed: '50'
 name: Giant Mosquito
 perception: '+17'
 rarity: Common
 reflex: '+17'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent (imprecise) 60 feet]]'
@@ -41,19 +31,16 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 20 feet
 - fly 50 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+12'
 wisdom: '+2'
 

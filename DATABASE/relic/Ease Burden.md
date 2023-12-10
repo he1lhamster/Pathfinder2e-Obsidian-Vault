@@ -3,9 +3,7 @@ element: Earth
 id: '25'
 item_category: Relics
 name: Ease Burden
-prerequisite: null
 rarity: Common
-rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:

@@ -6,7 +6,6 @@ prerequisite: trained in [[DATABASE/skill/Diplomacy|Diplomacy]] as well as eithe
   [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]] , [[DATABASE/skill/Occultism|Occultism]]
   , or [[DATABASE/skill/Religion|Religion]]
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

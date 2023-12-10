@@ -1,10 +1,7 @@
 ﻿---
 ac: '15'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Aquatic Echolocation
@@ -12,25 +9,16 @@ creature_ability:
 - Ramming Speed
 creature_family: '[[DATABASE/monsterfamily/Dolphin|Dolphin]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+6'
-hardness: null
 hp: '16'
 id: '2077'
-immunity: null
 intelligence: '-4'
-land_speed: null
-language: null
 level: '0'
 max_speed: '60'
 name: Whalesteed
 perception: '+7'
 rarity: Common
 reflex: '+7'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - aquatic echolocation 120 feet
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
@@ -40,7 +28,6 @@ skill:
 source: '[[DATABASE/source/Travel Guide|Travel Guide]]'
 speed:
 - swim 60 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
@@ -52,7 +39,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+5'
 wisdom: '+3'
 

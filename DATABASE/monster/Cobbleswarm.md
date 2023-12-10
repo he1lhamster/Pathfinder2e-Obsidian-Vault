@@ -1,10 +1,8 @@
 ﻿---
 ac: '16'
 alignment: N
-all_resistance: null
 burrow_speed: '10'
 charisma: '+0'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Clutching Cobbles
@@ -14,9 +12,7 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Cobble Mite|Cobble Mite]]'
 dexterity: '+4'
 element: Earth
-fly_speed: null
 fortitude: '+8'
-hardness: null
 hp: '20'
 id: '1099'
 immunity:
@@ -25,7 +21,6 @@ immunity:
 - '[[DATABASE/trait/Visual|visual]]'
 intelligence: '-3'
 land_speed: '20'
-language: null
 level: '2'
 max_speed: '20'
 name: Cobbleswarm
@@ -35,8 +30,6 @@ reflex: '+10'
 resistance:
 - piercing 5
 - slashing 5
-rus_type_level: null
-school: null
 sense:
 - no vision
 - '[[DATABASE/monsterability/Tremorsense|tremorsense]] (precise) 40 feet'
@@ -48,18 +41,15 @@ source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 20 feet
 - burrow 10 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Swarm|Swarm]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
 weakness:

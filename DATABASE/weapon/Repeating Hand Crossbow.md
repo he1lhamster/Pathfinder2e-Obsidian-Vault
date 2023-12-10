@@ -1,26 +1,8 @@
 ﻿---
-bulk: L
-damage: 1d6 P
-deity: null
-favored_weapon: null
-hands: '1'
-id: '177'
-item_category: Weapons
-item_subcategory: Base Weapons
-level: '1'
+id: '160'
 name: Repeating Hand Crossbow
-price: 10 gp
-range: 60 ft.
-rarity: Uncommon
-rus_type_level: null
-source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-trait:
-- '[[DATABASE/trait/Repeating|Repeating]]'
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
-type: Weapon
-weapon_category: Advanced
-weapon_group: '[[DATABASE/weapongroup/Bow|Bow]]'
-weapon_type: Ranged
+source: '[[DATABASE/source/Pathfinder 165. Eyes of Empty Death|Pathfinder #165: Eyes
+  of Empty Death]]'
 
 ---
 # Repeating Hand Crossbow<span class="item-type">Item 1</span>

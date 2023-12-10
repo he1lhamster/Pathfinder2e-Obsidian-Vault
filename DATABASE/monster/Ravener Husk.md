@@ -1,10 +1,7 @@
 ﻿---
 ac: '35'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Boneshatter
@@ -13,10 +10,8 @@ creature_ability:
 - Ravenous Repast
 creature_family: '[[DATABASE/monsterfamily/Ravener|Ravener]]'
 dexterity: '+0'
-element: null
 fly_speed: '180'
 fortitude: '+28'
-hardness: null
 hp: '325'
 id: '784'
 immunity:
@@ -27,16 +22,12 @@ immunity:
 - '[[DATABASE/trait/Sleep|sleep]]'
 intelligence: '-5'
 land_speed: '60'
-language: null
 level: '14'
 max_speed: '180'
 name: Ravener Husk
 perception: '+26'
 rarity: Rare
 reflex: '+22'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - soulsense 60 feet
@@ -48,12 +39,10 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 60 feet
 - fly 180 feet
-spell: null
 strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dragon|Dragon]]'
 - '[[DATABASE/trait/Rare|Rare]]'

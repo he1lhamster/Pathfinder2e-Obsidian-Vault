@@ -1,10 +1,8 @@
 ﻿---
 ac: '42'
 alignment: LE
-all_resistance: null
 burrow_speed: '40'
 charisma: '+8'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Breath Weapon
@@ -17,12 +15,10 @@ creature_ability:
 - Reflect Spell Trigger
 - Twisting Tail Trigger
 - visual)
-creature_family: null
 dexterity: '+6'
 element: Earth
 fly_speed: '140'
 fortitude: '+33'
-hardness: null
 hp: '335'
 id: '2567'
 immunity:
@@ -44,9 +40,6 @@ name: Vehanezhad
 perception: '+32'
 rarity: Unique
 reflex: '+30'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 60 feet'
@@ -79,7 +72,6 @@ strength: '+9'
 strength_req: '9'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dragon|Dragon]]'
 - '[[DATABASE/trait/Earth|Earth]]'

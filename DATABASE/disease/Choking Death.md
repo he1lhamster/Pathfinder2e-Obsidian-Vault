@@ -4,9 +4,7 @@ level: '6'
 name: Choking Death
 onset: 1 day
 rarity: Common
-rus_type_level: null
 saving_throw: DC 22 Fortitude
-school: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 stage: "Stage 1: hoarse voice but no other symptoms (1 day)Stage 2: drained 1 (1 day)Stage\
   \ 3: drained 2 and can\u2019t speak (1 day)Stage 4: death"

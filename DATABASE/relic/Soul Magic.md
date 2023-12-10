@@ -1,11 +1,8 @@
 ﻿---
-element: null
 id: '84'
 item_category: Relics
 name: Soul Magic
-prerequisite: null
 rarity: Common
-rus_type_level: null
 school: Enchantment
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 trait:

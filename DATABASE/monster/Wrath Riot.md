@@ -1,10 +1,7 @@
 ﻿---
 ac: '39'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Beaks
@@ -21,13 +18,10 @@ creature_ability:
 - Troop Movement
 creature_family: '[[DATABASE/monsterfamily/Demon Throng|Demon Throng]]'
 dexterity: '+5'
-element: null
 fly_speed: '35'
 fortitude: '+30'
-hardness: null
 hp: 300 (16 squares)
 id: '2526'
-immunity: null
 intelligence: '+5'
 land_speed: '25'
 language:
@@ -43,8 +37,6 @@ rarity: Rare
 reflex: '+27'
 resistance:
 - '[[DATABASE/trait/Electricity|electricity]] 15'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Gargantuan
@@ -56,12 +48,10 @@ source: '[[DATABASE/source/Pathfinder 191. The Destiny War|Pathfinder #191: The 
 speed:
 - 25 feet
 - fly 35 feet
-spell: null
 strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Demon|Demon]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

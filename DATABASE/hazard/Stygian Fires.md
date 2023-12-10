@@ -1,20 +1,10 @@
 ﻿---
-ac: null
-all_resistance: null
 complexity: Simple
-element: null
-fortitude: null
-hardness: null
 hazard_type: Trap
-hp: null
 id: '285'
-immunity: null
 level: '12'
 name: Stygian Fires
 rarity: Unique
-reflex: null
-resistance: null
-rus_type_level: null
 school: Conjuration
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
@@ -24,8 +14,6 @@ trait:
 - '[[DATABASE/trait/Trap|Trap]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Stygian Fires<span class="item-type">Hazard 12</span>

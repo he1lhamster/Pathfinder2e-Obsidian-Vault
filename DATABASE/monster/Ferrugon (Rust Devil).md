@@ -1,10 +1,7 @@
 ﻿---
 ac: '33'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Ferrugon Tetanus
@@ -13,10 +10,8 @@ creature_ability:
 - Vainglorious Whispers
 creature_family: '[[DATABASE/monsterfamily/Devil|Devil]]'
 dexterity: '+5'
-element: null
 fly_speed: '40'
 fortitude: '+24'
-hardness: null
 hp: '190'
 id: '2519'
 immunity:
@@ -38,8 +33,6 @@ rarity: Uncommon
 reflex: '+20'
 resistance:
 - physical 10 (except [[DATABASE/equipment/Silver Weapon|silver]] )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 size: Medium
@@ -67,7 +60,6 @@ strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Devil|Devil]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Gnome Weapon Familiarity
-frequency: null
-heighten_level: null
 id: '30'
+leads_to: '[[DATABASE/feat/Gnome Weapon Expertise|Gnome Weapon Expertise]] , [[DATABASE/feat/Gnome
+  Weapon Innovator|Gnome Weapon Innovator]]'
 level: '1'
 name: Gnome Weapon Familiarity
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Gnome|Gnome]]'
-trigger: null
 type: Feat
 
 ---

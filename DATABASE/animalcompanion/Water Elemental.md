@@ -1,11 +1,8 @@
 ﻿---
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+1'
 dexterity: '+2'
 element: Water
-fly_speed: null
 hp: '6'
 id: '64'
 intelligence: '-4'
@@ -13,7 +10,6 @@ land_speed: '15'
 max_speed: '35'
 name: Water Elemental
 rarity: Uncommon
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small

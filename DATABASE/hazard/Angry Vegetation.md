@@ -1,10 +1,7 @@
 ﻿---
 ac: '37'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+33'
-hardness: null
 hazard_type: Environmental
 hp: 120 per flower
 id: '242'
@@ -14,9 +11,6 @@ level: '20'
 name: Angry Vegetation
 rarity: Unique
 reflex: '+30'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 156. The Apocalypse Prophet|Pathfinder #156:
   The Apocalypse Prophet]]'
 trait:

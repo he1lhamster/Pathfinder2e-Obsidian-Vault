@@ -2,7 +2,6 @@
 id: '99'
 name: Okaiyan
 rarity: Rare
-rus_type_level: null
 source: '[[DATABASE/source/Monsters of Myth|Monsters of Myth]]'
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'

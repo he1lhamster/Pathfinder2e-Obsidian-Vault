@@ -1,10 +1,8 @@
 ﻿---
 ac: '23'
 alignment: N
-all_resistance: null
 burrow_speed: '40'
 charisma: '-4'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Borer
@@ -13,26 +11,19 @@ creature_ability:
 - Viviparous Birth
 creature_family: '[[DATABASE/monsterfamily/Bore Worm|Bore Worm]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+18'
-hardness: null
 hp: '140'
 id: '1084'
 immunity:
 - acid
 intelligence: '-5'
 land_speed: '25'
-language: null
 level: '7'
 max_speed: '40'
 name: Empress Bore Worm
 perception: '+13'
 rarity: Common
 reflex: '+14'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) 60 feet'
 size: Huge
@@ -43,16 +34,13 @@ source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 25 feet
 - burrow 40 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
 weakness:

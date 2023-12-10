@@ -2,7 +2,6 @@
 id: '336'
 name: Azarketi
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 trait:
 - Azarketi

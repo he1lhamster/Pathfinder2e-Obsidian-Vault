@@ -1,10 +1,7 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Cascade Bearer's Flexibility
 frequency: once per day
-heighten_level: null
 id: '1105'
 level: '6'
 name: Cascade Bearer's Flexibility
@@ -12,14 +9,10 @@ prerequisite: '[[DATABASE/feat/Magaambyan Attendant Dedication|Magaambyan Attend
   Dedication]] ; Cascade Bearersaffiliation'
 rarity: Common
 requirement: "You haven\u2019t yet acted on your turn."
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Metamagic|Metamagic]]'
-trigger: null
 type: Feat
 
 ---

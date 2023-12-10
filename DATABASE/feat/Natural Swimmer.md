@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Natural Swimmer
-frequency: null
-heighten_level: null
 id: '2974'
 level: '4'
 name: Natural Swimmer
 prerequisite: '[[DATABASE/druidicorder/Wave|wave order]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Druid|Druid]]'
-trigger: null
 type: Feat
 
 ---

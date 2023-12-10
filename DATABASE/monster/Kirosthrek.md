@@ -1,25 +1,18 @@
 ﻿---
 ac: '45'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+7'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Consume Knowledge
 - Divert Thoughts
 - Psychogenic Secretions
 - Thoughtsense
-creature_family: null
 dexterity: '+3'
-element: null
 fly_speed: '35'
 fortitude: '+31'
-hardness: null
 hp: '375'
 id: '2142'
-immunity: null
 intelligence: '+4'
 land_speed: '25'
 language:
@@ -37,8 +30,6 @@ rarity: Unique
 reflex: '+33'
 resistance:
 - '[[DATABASE/trait/Mental|mental]] 20'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - thoughtsense (imprecise) 60
@@ -99,7 +90,6 @@ strength: '+3'
 strength_req: '3'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
@@ -108,7 +98,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+36'
 wisdom: '+4'
 

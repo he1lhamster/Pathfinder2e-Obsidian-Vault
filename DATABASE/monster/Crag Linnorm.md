@@ -1,10 +1,7 @@
 ﻿---
 ac: '37'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Attack of Opportunity
@@ -17,7 +14,6 @@ dexterity: '+4'
 element: Fire
 fly_speed: '100'
 fortitude: '+28'
-hardness: null
 hp: '270'
 id: '284'
 immunity:
@@ -37,9 +33,6 @@ name: Crag Linnorm
 perception: '+26'
 rarity: Uncommon
 reflex: '+24'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - scent (imprecise) 60 feet

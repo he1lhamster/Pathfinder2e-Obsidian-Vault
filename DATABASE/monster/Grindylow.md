@@ -1,24 +1,16 @@
 ﻿---
 ac: '15'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Attack of Opportunity
 - Clinging Suckers
 - Jet
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+6'
-hardness: null
 hp: '14'
 id: '692'
-immunity: null
 intelligence: '-1'
 land_speed: '10'
 language:
@@ -29,9 +21,6 @@ name: Grindylow
 perception: '+5'
 rarity: Common
 reflex: '+7'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -43,7 +32,6 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 10 feet
 - swim 25 feet
-spell: null
 strength: '+1'
 strength_req: '1'
 strongest_save:
@@ -56,7 +44,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+5'
 wisdom: '+3'
 

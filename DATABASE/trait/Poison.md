@@ -2,7 +2,6 @@
 id: '126'
 name: Poison
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - Poison

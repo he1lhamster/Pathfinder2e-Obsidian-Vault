@@ -1,17 +1,10 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 frequency: a number of times per day equal to your level
 id: '729'
 name: Anadi Venom
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
-trait: null
-trigger: null
 type: Action
 
 ---

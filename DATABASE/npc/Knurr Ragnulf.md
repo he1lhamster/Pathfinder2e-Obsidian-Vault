@@ -1,21 +1,14 @@
 ﻿---
 ac: '17'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Intimidating Strike
-creature_family: null
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+8'
 hp: '35'
 id: '2743'
-immunity: null
 intelligence: '+0'
 land_speed: '20'
 language:
@@ -28,8 +21,6 @@ name: Knurr Ragnulf
 perception: '+8'
 rarity: Unique
 reflex: '+4'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -42,13 +33,11 @@ skill:
 source: '[[DATABASE/source/Rusthenge|Rusthenge]]'
 speed:
 - 20 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Fortitude
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dwarf|Dwarf]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -57,7 +46,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+8'
 wisdom: '+2'
 

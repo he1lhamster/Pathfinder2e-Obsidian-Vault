@@ -1,10 +1,7 @@
 ﻿---
 ac: '39'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+9'
 creature_ability:
 - Attack of Opportunity
@@ -12,14 +9,10 @@ creature_ability:
 - Convergent Tactics
 - Disrupted Link
 - Force Communication
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+30'
 hp: '315'
 id: '2137'
-immunity: null
 intelligence: '+2'
 land_speed: '25'
 language:
@@ -32,9 +25,6 @@ name: Convergent Soldier
 perception: '+28'
 rarity: Rare
 reflex: '+28'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +29'
@@ -44,18 +34,15 @@ source: '[[DATABASE/source/Pathfinder 156. The Apocalypse Prophet|Pathfinder #15
   The Apocalypse Prophet]]'
 speed:
 - 25 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
 weakness:

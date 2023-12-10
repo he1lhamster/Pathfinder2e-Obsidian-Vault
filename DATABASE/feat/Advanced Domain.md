@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Advanced Domain
-frequency: null
-heighten_level: null
 id: '285'
+leads_to: '[[DATABASE/feat/Deity''s Protection|Deity''s Protection]]'
 level: '8'
 name: Advanced Domain
 prerequisite: '[[DATABASE/feat/Domain Initiate|Domain Initiate]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Cleric|Cleric]]'
-trigger: null
 type: Feat
 
 ---

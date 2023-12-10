@@ -1,10 +1,7 @@
 ﻿---
 ac: '35'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Fling
@@ -12,27 +9,18 @@ creature_ability:
 - Swallow Whole
 - Tail Swipe
 - Trample
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+27'
-hardness: null
 hp: '260'
 id: '1459'
-immunity: null
 intelligence: '-4'
 land_speed: '40'
-language: null
 level: '14'
 max_speed: '40'
 name: Tyrannosaurus Imperator
 perception: '+25'
 rarity: Rare
 reflex: '+20'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 60 feet'
@@ -44,12 +32,10 @@ source: '[[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #
   Despair on Danger Island]]'
 speed:
 - 40 feet
-spell: null
 strength: '+9'
 strength_req: '9'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 - '[[DATABASE/trait/Dinosaur|Dinosaur]]'
@@ -58,7 +44,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Reflex
-weakness: null
 will: '+25'
 wisdom: '+3'
 

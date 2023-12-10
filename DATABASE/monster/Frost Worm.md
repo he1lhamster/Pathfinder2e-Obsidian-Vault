@@ -1,10 +1,8 @@
 ﻿---
 ac: '33'
 alignment: N
-all_resistance: null
 burrow_speed: '10'
 charisma: '+0'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Breath Weapon
@@ -12,28 +10,20 @@ creature_ability:
 - Freezing Blood
 - Worm Chill
 - Worm Trill
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+24'
-hardness: null
 hp: '225'
 id: '677'
 immunity:
 - cold
 intelligence: '-4'
 land_speed: '25'
-language: null
 level: '12'
 max_speed: '25'
 name: Frost Worm
 perception: '+22'
 rarity: Common
 reflex: '+22'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Huge
@@ -44,12 +34,10 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 25 feet
 - burrow 10 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 - '[[DATABASE/trait/Cold|Cold]]'

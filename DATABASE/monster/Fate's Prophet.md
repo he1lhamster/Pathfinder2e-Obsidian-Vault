@@ -1,25 +1,18 @@
 ﻿---
 ac: '35'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+8'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Change Shape
 - Grab Attention
 - Passionate Kiss
 - Rejection Vulnerability
-creature_family: null
 dexterity: '+5'
-element: null
 fly_speed: '35'
 fortitude: '+24'
-hardness: null
 hp: '255'
 id: '2557'
-immunity: null
 intelligence: '+5'
 land_speed: '25'
 language:
@@ -38,9 +31,6 @@ name: Fate's Prophet
 perception: '+25'
 rarity: Unique
 reflex: '+25'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/spell/True Seeing|true seeing]]'
@@ -73,7 +63,6 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Demon|Demon]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

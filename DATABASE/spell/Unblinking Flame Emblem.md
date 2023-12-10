@@ -1,31 +1,17 @@
 ﻿---
 actions: '[one-action]'
-area: null
-bloodline: null
 component:
 - None Printed
-cost: null
-deity: null
-domain: null
 duration: 3 rounds
 element: Fire
 heighten: 9th
 heighten_level: 7, 9
 id: '1245'
-lesson: null
 level: '7'
-mystery: null
 name: Unblinking Flame Emblem
-patron_theme: null
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-target: null
-tradition: null
 trait:
 - '[[DATABASE/trait/Divination|Divination]]'
 - '[[DATABASE/trait/Fire|Fire]]'

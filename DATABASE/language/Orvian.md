@@ -2,7 +2,6 @@
 id: '120'
 name: Orvian
 rarity: Rare
-rus_type_level: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'

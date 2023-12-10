@@ -1,45 +1,15 @@
 ﻿---
-ac: null
 actions: '[free-action]'
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '235'
 item_category: Consumables
 item_subcategory: Talismans
-land_speed: null
 level: '7'
-max_speed: null
 name: Swift Block Cabochon
-onset: null
 price: 70 gp
-range: null
 rarity: Uncommon
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Abjuration
-size: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-spell: null
-stage: null
 subcategory: consumable/talisman
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Consumable|Consumable]]'
@@ -50,9 +20,6 @@ trigger: You take damage from a physical attack while you don't have the affixed
   raised
 type: Item
 usage: affixed to a shield
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Swift Block Cabochon<span class="item-type">Item 7</span>

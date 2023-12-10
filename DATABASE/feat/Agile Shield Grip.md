@@ -1,26 +1,17 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Agile Shield Grip
-frequency: null
-heighten_level: null
 id: '3622'
 level: '1'
 name: Agile Shield Grip
-prerequisite: null
 rarity: Uncommon
 requirement: You are wielding a shield with a [[DATABASE/weapon/Shield Boss|shield
   boss]] or [[DATABASE/weapon/Shield Spikes|shield spikes]] in one hand.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Champion|Champion]]'
 - '[[DATABASE/trait/Fighter|Fighter]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

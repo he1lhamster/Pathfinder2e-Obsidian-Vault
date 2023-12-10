@@ -1,10 +1,6 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Shifting Terrain
-frequency: null
-heighten_level: null
 id: '3003'
 level: '14'
 name: Shifting Terrain
@@ -13,13 +9,9 @@ prerequisite: '[[DATABASE/feat/Rough Terrain Stance|Rough Terrain Stance]] ; Mas
 rarity: Common
 requirement: Your terrain attunement matches the terrain you're in and you're in Rough
   Terrain Stance.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

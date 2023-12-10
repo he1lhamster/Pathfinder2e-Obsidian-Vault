@@ -1,22 +1,15 @@
 ﻿---
 ac: '22'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Axe Critical Specialization
 - Into the Fray
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+12'
 hp: '80'
 id: '2466'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -28,8 +21,6 @@ name: Ghodrak The Quick
 perception: '+15'
 rarity: Unique
 reflex: '+15'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -44,12 +35,10 @@ source: '[[DATABASE/source/Pathfinder 188. They Watched the Stars|Pathfinder #18
   They Watched the Stars]]'
 speed:
 - 25 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Goblin|Goblin]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -58,7 +47,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+9'
 wisdom: '+1'
 

@@ -2,7 +2,6 @@
 id: '147'
 name: Sonic
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - Sonic

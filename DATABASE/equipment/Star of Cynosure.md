@@ -1,46 +1,17 @@
 ﻿---
-ac: null
 actions: '[free-action]'
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '2423'
 item_category: Consumables
 item_subcategory: Talismans
-land_speed: null
 level: '10'
-max_speed: null
 name: Star of Cynosure
-onset: null
 price: 175 gp
-range: null
 rarity: Uncommon
-reflex: null
 requirement: You have master proficiency in Will saves.
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Abjuration
-size: null
 source: '[[DATABASE/source/Pathfinder 189. Dreamers of the Nameless Spires|Pathfinder
   #189: Dreamers of the Nameless Spires]]'
-spell: null
-stage: null
 subcategory: consumable/talisman
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Consumable|Consumable]]'
@@ -51,9 +22,6 @@ trigger: You attempt a Will save against a [[DATABASE/trait/Mental|mental]] [[DA
   spell, but you haven't rolled yet
 type: Item
 usage: affixed to armor
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Star of Cynosure<span class="item-type">Item 10</span>

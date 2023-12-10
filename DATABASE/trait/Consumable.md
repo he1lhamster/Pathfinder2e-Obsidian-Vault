@@ -2,7 +2,6 @@
 id: '36'
 name: Consumable
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - Consumable

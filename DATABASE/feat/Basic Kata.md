@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Basic Kata
-frequency: null
-heighten_level: null
 id: '716'
+leads_to: '[[DATABASE/feat/Advanced Kata|Advanced Kata]]'
 level: '4'
 name: Basic Kata
 prerequisite: '[[DATABASE/feat/Monk Dedication|Monk Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

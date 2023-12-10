@@ -1,23 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Monastic Weaponry
-frequency: null
-heighten_level: null
 id: '434'
+leads_to: '[[DATABASE/feat/Ancestral Weaponry|Ancestral Weaponry]] , [[DATABASE/feat/Peafowl
+  Stance|Peafowl Stance]] , [[DATABASE/feat/Shooting Stars Stance|Shooting Stars Stance]]
+  , [[DATABASE/feat/Whirling Blade Stance|Whirling Blade Stance]]'
 level: '1'
 name: Monastic Weaponry
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Monk|Monk]]'
-trigger: null
 type: Feat
 
 ---

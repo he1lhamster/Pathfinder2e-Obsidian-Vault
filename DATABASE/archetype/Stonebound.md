@@ -4,7 +4,6 @@ level: '2'
 name: Stonebound
 prerequisite: Constitution 14
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 195. Heavy is the Crown|Pathfinder #195: Heavy
   is the Crown]]'
 trait:

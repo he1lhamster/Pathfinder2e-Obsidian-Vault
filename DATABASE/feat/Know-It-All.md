@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Know-It-All
-frequency: null
-heighten_level: null
 id: '197'
 level: '8'
 name: Know-It-All
 prerequisite: '[[DATABASE/class_/Bard|Bard]] [[DATABASE/bardmuse/Enigma|enigma muse]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Bard|Bard]]'
 - '[[DATABASE/trait/Thaumaturge|Thaumaturge]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,8 +1,6 @@
 ﻿---
 ac: '20'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
 climb_speed: '30'
 constitution: '+2'
@@ -14,10 +12,7 @@ creature_ability:
 - Swarming Stance
 creature_family: '[[DATABASE/monsterfamily/Fleshwarp|Fleshwarp]]'
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+10'
-hardness: null
 hp: '72'
 id: '1043'
 immunity:
@@ -32,9 +27,6 @@ name: Dreshkan
 perception: '+11'
 rarity: Uncommon
 reflex: '+13'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -48,12 +40,10 @@ source: '[[DATABASE/source/Pathfinder 164. Hands of the Devil|Pathfinder #164: H
 speed:
 - 30 feet
 - climb 30 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Construct|Construct]]'
@@ -62,7 +52,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+11'
 wisdom: '+3'
 

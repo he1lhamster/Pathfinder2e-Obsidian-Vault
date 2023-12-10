@@ -2,7 +2,6 @@
 id: '285'
 name: Reckless
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
 - Reckless

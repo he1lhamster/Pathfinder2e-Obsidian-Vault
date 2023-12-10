@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Tense Negotiator
-frequency: null
-heighten_level: null
 id: '2261'
 level: '12'
 name: Tense Negotiator
 prerequisite: '[[DATABASE/feat/Swordmaster Dedication|Swordmaster Dedication]] ; Master
   in [[DATABASE/skill/Diplomacy|Diplomacy]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,22 +1,16 @@
 ﻿---
 ac: '26'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Brain Blisters
 - Brain Collector Venom
 - Brain Loss
 - Collect Brain
-creature_family: null
 dexterity: '+3'
-element: null
 fly_speed: '30'
 fortitude: '+15'
-hardness: null
 hp: '140'
 id: '57'
 immunity:
@@ -36,9 +30,6 @@ name: Brain Collector
 perception: '+18'
 rarity: Uncommon
 reflex: '+13'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Large
@@ -75,7 +66,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

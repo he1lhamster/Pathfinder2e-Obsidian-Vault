@@ -1,24 +1,19 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Sleepwalker Dedication
-frequency: null
-heighten_level: null
 id: '3873'
+leads_to: '[[DATABASE/feat/Dream Logic|Dream Logic]] , [[DATABASE/feat/Dream Magic|Dream
+  Magic]] , [[DATABASE/feat/Ever Dreaming|Ever Dreaming]] , [[DATABASE/feat/Infiltrate
+  Dream|Infiltrate Dream]] , [[DATABASE/feat/Shared Dream|Shared Dream]] , [[DATABASE/feat/Vision
+  of Foresight|Vision of Foresight]] , [[DATABASE/feat/Waking Dream|Waking Dream]]
+  , [[DATABASE/feat/Ward Slumber|Ward Slumber]]'
 level: '4'
 name: Sleepwalker Dedication
 prerequisite: Expert in [[DATABASE/skill/Occultism|Occultism]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
-trigger: null
 type: Feat
 
 ---

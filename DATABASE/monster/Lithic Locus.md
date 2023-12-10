@@ -1,21 +1,14 @@
 ﻿---
 ac: '35'
-alignment: null
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Antiques
 - Bury
 - Echo the Past
-creature_family: null
 dexterity: '+0'
 element: Earth
-fly_speed: null
 fortitude: '+27'
-hardness: null
 hp: '260'
 id: '2628'
 immunity:
@@ -43,9 +36,6 @@ name: Lithic Locus
 perception: '+25'
 rarity: Rare
 reflex: '+21'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) 60 feet'
@@ -65,7 +55,6 @@ strength_req: '6'
 strongest_save:
 - Fortitude
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Earth|Earth]]'
@@ -76,7 +65,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+27'
 wisdom: '+6'
 

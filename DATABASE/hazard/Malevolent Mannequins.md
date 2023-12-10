@@ -1,8 +1,6 @@
 ﻿---
 ac: '35'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+26'
 hardness: '10'
 hazard_type: Haunt
@@ -16,9 +14,6 @@ level: '14'
 name: Malevolent Mannequins
 rarity: Uncommon
 reflex: '+28'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:
 - '[[DATABASE/trait/Clockwork|Clockwork]]'
@@ -29,7 +24,6 @@ trait:
 type: Hazard
 weakness:
 - '[[DATABASE/trait/Electricity|electricity]] 20'
-will: null
 
 ---
 # Malevolent Mannequins<span class="item-type">Hazard 14</span>

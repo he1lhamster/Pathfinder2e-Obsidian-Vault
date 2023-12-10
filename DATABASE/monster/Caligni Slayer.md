@@ -1,10 +1,7 @@
 ﻿---
 ac: '19'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Black Smear Poison
@@ -14,13 +11,9 @@ creature_ability:
 - Soul Harvest
 creature_family: '[[DATABASE/monsterfamily/Caligni|Caligni]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+9'
-hardness: null
 hp: 45 (death implosion)
 id: '577'
-immunity: null
 intelligence: '+2'
 land_speed: '25'
 language:
@@ -32,9 +25,6 @@ name: Caligni Slayer
 perception: '+8'
 rarity: Uncommon
 reflex: '+12'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 size: Small
@@ -60,7 +50,6 @@ strength: '+1'
 strength_req: '1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Caligni|Caligni]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -69,7 +58,6 @@ type: Creature
 vision: Greater darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+6'
 wisdom: '+0'
 

@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Invisible Trickster
-frequency: null
-heighten_level: null
 id: '2642'
 level: '13'
 name: Invisible Trickster
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Sprite|Sprite]]'
-trigger: null
 type: Feat
 
 ---

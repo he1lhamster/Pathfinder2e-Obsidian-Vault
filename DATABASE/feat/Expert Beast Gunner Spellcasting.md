@@ -1,24 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Expert Beast Gunner Spellcasting
-frequency: null
-heighten_level: null
 id: '3232'
+leads_to: '[[DATABASE/feat/Master Beast Gunner Spellcasting|Master Beast Gunner Spellcasting]]'
 level: '12'
 name: Expert Beast Gunner Spellcasting
 prerequisite: '[[DATABASE/feat/Basic Beast Gunner Spellcasting|Basic Beast Gunner
   Spellcasting]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

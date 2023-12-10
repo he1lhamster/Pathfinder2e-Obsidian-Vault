@@ -1,7 +1,5 @@
 ﻿---
 ac: '33'
-alignment: null
-all_resistance: null
 burrow_speed: '45'
 charisma: '+4'
 climb_speed: '20'
@@ -16,12 +14,9 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Genie|Genie]]'
 dexterity: '+1'
 element: Earth
-fly_speed: null
 fortitude: '+24'
-hardness: null
 hp: '210'
 id: '2627'
-immunity: null
 intelligence: '+5'
 land_speed: '20'
 language:
@@ -33,9 +28,6 @@ name: Jabali Shuyookh
 perception: '+21'
 rarity: Rare
 reflex: '+20'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) 60 feet'
@@ -65,7 +57,6 @@ strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Elemental|Elemental]]'
@@ -75,7 +66,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+22'
 wisdom: '+3'
 

@@ -1,7 +1,6 @@
 ﻿---
 ac: '37'
 alignment: N
-all_resistance: null
 burrow_speed: '60'
 charisma: '+0'
 climb_speed: '60'
@@ -13,18 +12,12 @@ creature_ability:
 - Spitting Rage
 - Thrash
 - Trample
-creature_family: null
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+32'
-hardness: null
 hp: '300'
 id: '303'
-immunity: null
 intelligence: '-3'
 land_speed: '60'
-language: null
 level: '15'
 max_speed: '60'
 name: Mukradi
@@ -35,8 +28,6 @@ resistance:
 - acid 20
 - electricity 20
 - fire 20
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - tremorsense (imprecise) 60 feet
@@ -48,19 +39,16 @@ speed:
 - 60 feet
 - burrow 60 feet
 - climb 60 feet
-spell: null
 strength: '+9'
 strength_req: '9'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+26'
 wisdom: '+3'
 

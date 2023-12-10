@@ -1,10 +1,7 @@
 ﻿---
 ac: '19'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Forager
@@ -12,12 +9,9 @@ creature_ability:
 - Snare Crafting
 creature_family: '[[DATABASE/monsterfamily/Foresters|Foresters]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+7'
 hp: '30'
 id: '905'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -28,9 +22,6 @@ name: Poacher
 perception: '+9'
 rarity: Common
 reflex: '+10'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Crafting|Crafting]] +4'
@@ -41,21 +32,17 @@ skill:
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 speed:
 - 25 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
 - Will
-weakness: null
 will: '+7'
 wisdom: '+3'
 

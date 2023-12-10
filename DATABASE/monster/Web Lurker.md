@@ -1,8 +1,6 @@
 ﻿---
 ac: '19'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
 climb_speed: '25'
 constitution: '+3'
@@ -12,15 +10,10 @@ creature_ability:
 - Spring upon Prey
 - Web Lurker Venom
 - Web Trap
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+10'
-hardness: null
 hp: '45'
 id: '407'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -31,9 +24,6 @@ name: Web Lurker
 perception: '+10'
 rarity: Common
 reflex: '+11'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - tremorsense (imprecise) 30 feet (creatures touching its web)
@@ -47,19 +37,16 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 25 feet
 - climb 25 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+8'
 wisdom: '+3'
 

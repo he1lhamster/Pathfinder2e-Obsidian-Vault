@@ -1,27 +1,21 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Bellflower Dedication
-frequency: null
-heighten_level: null
 id: '928'
+leads_to: '[[DATABASE/feat/Cut the Bonds|Cut the Bonds]] , [[DATABASE/feat/Garden
+  Path|Garden Path]] , [[DATABASE/feat/Practiced Guidance|Practiced Guidance]] , [[DATABASE/feat/Scarecrow|Scarecrow]]
+  , [[DATABASE/feat/Tiller''s Aid|Tiller''s Aid]] , [[DATABASE/feat/Tiller''s Drive|Tiller''s
+  Drive]]'
 level: '6'
 name: Bellflower Dedication
 prerequisite: Charisma 14; Expert in [[DATABASE/skill/Stealth|Stealth]] ; Expert in
   [[DATABASE/skill/Survival|Survival]] ; member of the Bellflower Network
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 147. Tomorrow Must Burn|Pathfinder #147: Tomorrow
   Must Burn]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

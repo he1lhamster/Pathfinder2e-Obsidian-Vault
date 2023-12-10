@@ -1,29 +1,21 @@
 ﻿---
 ac: '16'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+10'
 hardness: '7'
 hazard_type: Trap
 hp: '25'
 id: '350'
-immunity: null
 level: '2'
 name: Violet Mister
 rarity: Common
 reflex: '+10'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 187. The Seventh Arch|Pathfinder #187: The Seventh
   Arch]]'
 trait:
 - '[[DATABASE/trait/Mechanical|Mechanical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Violet Mister<span class="item-type">Hazard 2</span>

@@ -1,10 +1,7 @@
 ﻿---
 ac: '26'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+9'
 creature_ability:
 - Corrupt Ally
@@ -12,12 +9,9 @@ creature_ability:
 - Immortality
 - Mental Erosion
 - Resanguinate
-creature_family: null
 dexterity: '+3'
-element: null
 fly_speed: '20'
 fortitude: '+30'
-hardness: null
 hp: '350'
 id: '483'
 immunity:
@@ -42,8 +36,6 @@ rarity: Rare
 reflex: '+20'
 resistance:
 - physical 15
-rus_type_level: null
-school: null
 sense:
 - motion sense 60 feet
 - no vision
@@ -74,15 +66,12 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Ooze|Ooze]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+29'
 wisdom: '+6'
 

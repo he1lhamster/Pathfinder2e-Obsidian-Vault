@@ -1,24 +1,17 @@
 ﻿---
 ac: '29'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Attack of Opportunity
 - Defensive Charm
 - Sudden Charge
 - Uniila Witch Token
-creature_family: null
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+20'
 hp: '180'
 id: '2544'
-immunity: null
 intelligence: '+3'
 land_speed: '25'
 language:
@@ -30,8 +23,6 @@ name: Vharnev The Butcher
 perception: '+14'
 rarity: Unique
 reflex: '+18'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -62,7 +53,6 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -73,7 +63,6 @@ vision: Darkvision
 weakest_save:
 - Reflex
 - Will
-weakness: null
 will: '+18'
 wisdom: '+0'
 

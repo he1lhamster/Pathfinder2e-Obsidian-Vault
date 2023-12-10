@@ -1,24 +1,17 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Daring Act
-frequency: null
-heighten_level: null
 id: '1069'
+leads_to: '[[DATABASE/feat/Daredevil''s Gambit|Daredevil''s Gambit]] , [[DATABASE/feat/Daring
+  Flourish|Daring Flourish]]'
 level: '6'
 name: Daring Act
 prerequisite: Trained in [[DATABASE/skill/Acrobatics|Acrobatics]] or Trained in [[DATABASE/skill/Athletics|Athletics]]
   ; [[DATABASE/feat/Firebrand Braggart Dedication|Firebrand Braggart Dedication]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

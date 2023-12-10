@@ -8,16 +8,13 @@ ability_boost:
 feat: '[[DATABASE/feat/Group Coercion|Group Coercion]]'
 id: '165'
 name: Bandit
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Intimidation|Intimidation]]'
 - '[[DATABASE/skill/Lore|Lore]] related to the terrain you worked in (such as Desert
   Lore or Plains Lore).'
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

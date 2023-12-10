@@ -1,25 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Echo of the Fallen
-frequency: null
-heighten_level: null
 id: '3750'
 level: '4'
 name: Echo of the Fallen
 prerequisite: You helped to lay a [[DATABASE/trait/Haunt|haunt]] , [[DATABASE/monsterfamily/Ghost|ghost]]
   , or [[DATABASE/trait/Spirit|spirit]] to rest.
 rarity: Rare
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Aftermath|Aftermath]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Feat
 
 ---

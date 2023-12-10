@@ -1,31 +1,17 @@
 ﻿---
 actions: '[reaction]'
-area: null
-bloodline: null
 component:
 - Focus
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: until your next daily preparations
-element: null
-heighten: null
 heighten_level: '1'
 id: '993'
-lesson: null
 level: '1'
-mystery: null
 name: Seashell of Stolen Sound
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-target: null
 tradition:
 - Arcane
 - Occult

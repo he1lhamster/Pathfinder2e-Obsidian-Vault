@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Incredible Megafauna Companion
-frequency: null
-heighten_level: null
 id: '3448'
 level: '8'
 name: Incredible Megafauna Companion
 prerequisite: '[[DATABASE/feat/Mature Megafauna Companion|Mature Megafauna Companion]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 177. Burning Tundra|Pathfinder #177: Burning
   Tundra]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

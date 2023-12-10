@@ -1,10 +1,7 @@
 ﻿---
 ac: '49'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+10'
 creature_ability:
 - Carapace Deflection
@@ -13,27 +10,19 @@ creature_ability:
 - Oviposit
 - Sunder Objects
 - Trample
-creature_family: null
 dexterity: '+6'
-element: null
 fly_speed: '30'
 fortitude: '+38'
-hardness: null
 hp: '400'
 id: '1811'
-immunity: null
 intelligence: '-5'
 land_speed: '30'
-language: null
 level: '21'
 max_speed: '30'
 name: Ironclad Annihilator Beetle
 perception: '+36'
 rarity: Rare
 reflex: '+32'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Gargantuan
@@ -45,12 +34,10 @@ source: '[[DATABASE/source/Pathfinder 174. Shadows of the Ancients|Pathfinder #1
 speed:
 - 30 feet
 - fly 30 feet
-spell: null
 strength: '+10'
 strength_req: '10'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Rare|Rare]]'
@@ -58,7 +45,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+35'
 wisdom: '+5'
 

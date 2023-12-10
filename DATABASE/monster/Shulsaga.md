@@ -1,10 +1,7 @@
 ﻿---
 ac: '19'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Astral Recoil
@@ -15,13 +12,10 @@ creature_ability:
 - Shield Block
 creature_family: '[[DATABASE/monsterfamily/Ennosite|Ennosite]]'
 dexterity: '+4'
-element: null
 fly_speed: '30'
 fortitude: '+7'
-hardness: null
 hp: '35'
 id: '1147'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -33,9 +27,6 @@ name: Shulsaga
 perception: '+10'
 rarity: Uncommon
 reflex: '+11'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - rift sense
@@ -58,7 +49,6 @@ strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Astral|Astral]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
@@ -66,7 +56,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+10'
 wisdom: '+3'
 

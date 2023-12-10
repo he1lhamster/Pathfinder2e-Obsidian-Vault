@@ -1,10 +1,7 @@
 ﻿---
 ac: '34'
 alignment: CG
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Catch Rock
@@ -13,10 +10,7 @@ creature_ability:
 - Wide Swing
 creature_family: '[[DATABASE/monsterfamily/Giant|Giant]]'
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+28'
-hardness: null
 hp: '235'
 id: '225'
 immunity:
@@ -34,9 +28,6 @@ name: Storm Giant
 perception: '+24'
 rarity: Common
 reflex: '+21'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 size: Huge
@@ -67,7 +58,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Reflex
-weakness: null
 will: '+23'
 wisdom: '+5'
 

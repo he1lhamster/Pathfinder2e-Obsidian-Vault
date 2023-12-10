@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Remote Trigger
-frequency: null
-heighten_level: null
 id: '2076'
 level: '6'
 name: Remote Trigger
 prerequisite: '[[DATABASE/feat/Snarecrafter Dedication|Snarecrafter Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

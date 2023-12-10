@@ -3,9 +3,7 @@ favored_weapon: '[[DATABASE/weapon/Morningstar|Morningstar]]'
 id: '3'
 name: Order of the Godclaw
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-trait: null
 type: Hellknight Order
 
 ---

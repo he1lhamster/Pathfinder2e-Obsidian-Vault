@@ -1,34 +1,22 @@
 ﻿---
 actions: '[two-actions]'
 area: 15-foot cone
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Pulura|Pulura]]'
 - '[[DATABASE/deity/Shelyn|Shelyn]]'
 - '[[DATABASE/deity/Thisamet|Thisamet]]'
-domain: null
 duration: 1 or more rounds (see below)
-element: null
-heighten: null
 heighten_level: '1'
 id: '44'
-lesson: null
 level: '1'
-mystery: null
 name: Color Spray
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Will
 school: Illusion
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Arcane
 - Occult
@@ -36,7 +24,6 @@ trait:
 - '[[DATABASE/trait/Illusion|Illusion]]'
 - '[[DATABASE/trait/Incapacitation|Incapacitation]]'
 - '[[DATABASE/trait/Visual|Visual]]'
-trigger: null
 type: Spell
 
 ---

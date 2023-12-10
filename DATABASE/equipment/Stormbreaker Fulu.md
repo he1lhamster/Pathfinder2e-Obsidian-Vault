@@ -1,60 +1,7 @@
 ﻿---
-ac: null
-actions: '[free-action]'
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
-id: '984'
-item_category: Consumables
-item_subcategory: Fulu
-land_speed: null
-level: '16'
-max_speed: null
+id: '951'
 name: Stormbreaker Fulu
-onset: null
-price: 1,900 gp
-range: null
-rarity: Uncommon
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
-school: Abjuration
-size: null
-source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-spell: null
-stage: null
-subcategory: consumable/talisman
-swim_speed: null
-trait:
-- '[[DATABASE/trait/Abjuration|Abjuration]]'
-- '[[DATABASE/trait/Consumable|Consumable]]'
-- '[[DATABASE/trait/Fulu|Fulu]]'
-- '[[DATABASE/trait/Magical|Magical]]'
-- '[[DATABASE/trait/Talisman|Talisman]]'
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: You would be forced to move, you would be teleported, or you would take [[DATABASE/trait/Cold|cold]]
-  , [[DATABASE/trait/Electricity|electricity]] , or [[DATABASE/trait/Sonic|sonic]]
-  damage.
-type: Item
-usage: affixed to armor
-weapon_category: null
-weapon_group: null
-weapon_type: null
+source: '[[DATABASE/source/Pathfinder 167. Ready Fight!|Pathfinder #167: Ready? Fight!]]'
 
 ---
 # Stormbreaker Fulu<span class="item-type">Item 16</span>

@@ -1,10 +1,7 @@
 ﻿---
 ac: '34'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Bones of Stone
@@ -12,12 +9,8 @@ creature_ability:
 - Drain Soul Cage
 - Paralyzing Touch
 - Steady Spellcasting
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+21'
-hardness: null
 hp: 200 ( negative healing , rejuvenation)
 id: '1557'
 immunity:
@@ -41,8 +34,6 @@ reflex: '+21'
 resistance:
 - '[[DATABASE/trait/Cold|cold]] 20'
 - physical 15 (except magic bludgeoning)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -86,7 +77,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 - '[[DATABASE/trait/Undead|Undead]]'
@@ -95,7 +85,6 @@ vision: Darkvision
 weakest_save:
 - Fortitude
 - Reflex
-weakness: null
 will: '+22'
 wisdom: '+3'
 

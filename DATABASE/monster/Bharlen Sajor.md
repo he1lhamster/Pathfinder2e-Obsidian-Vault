@@ -1,10 +1,7 @@
 ﻿---
 ac: '32'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Brute Strength
@@ -17,12 +14,8 @@ creature_ability:
 - Sacrilegious Aura
 - Sodden Strike
 - Weapon Master
-creature_family: null
 dexterity: '+7'
-element: null
-fly_speed: null
 fortitude: '+22'
-hardness: null
 hp: 190 ( negative healing , rejuvenation)
 id: '1683'
 immunity:
@@ -43,9 +36,6 @@ name: Bharlen Sajor
 perception: '+21'
 rarity: Unique
 reflex: '+24'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -58,12 +48,10 @@ source: '[[DATABASE/source/Pathfinder 171. Hurricane''s Howl|Pathfinder #171: Hu
   Howl]]'
 speed:
 - 25 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Undead|Undead]]'
 - '[[DATABASE/trait/Unique|Unique]]'
@@ -71,7 +59,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+18'
 wisdom: '+3'
 

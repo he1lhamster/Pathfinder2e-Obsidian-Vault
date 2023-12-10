@@ -1,20 +1,12 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Leshy Superstition
-frequency: null
-heighten_level: null
 id: '1040'
+leads_to: '[[DATABASE/feat/Lucky Keepsake|Lucky Keepsake]]'
 level: '1'
 name: Leshy Superstition
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Leshy|Leshy]]'
 trigger: "You attempt a saving throw against a spell or magical effect, but haven\u2019\

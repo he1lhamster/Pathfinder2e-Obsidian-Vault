@@ -1,25 +1,8 @@
 ﻿---
-bulk: L
-damage: null
-deity: null
-favored_weapon: null
-hands: null
-id: '182'
-item_category: Weapons
-item_subcategory: Base Weapons
-level: '0'
+id: '161'
 name: Repeating Hand Crossbow Magazine
-price: 9 sp (price for 5 bolts)
-range: null
-rarity: Uncommon
-rus_type_level: null
-source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-trait:
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
-type: Weapon
-weapon_category: Ammunition
-weapon_group: '[[DATABASE/weapongroup/Bow|Bow]]'
-weapon_type: Ranged
+source: '[[DATABASE/source/Pathfinder 165. Eyes of Empty Death|Pathfinder #165: Eyes
+  of Empty Death]]'
 
 ---
 # Repeating Hand Crossbow Magazine

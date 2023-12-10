@@ -1,24 +1,14 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Haphazard Repair
-frequency: null
-heighten_level: null
 id: '3046'
 level: '1'
 name: Haphazard Repair
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Inventor|Inventor]]'
 - '[[DATABASE/trait/Unstable|Unstable]]'
-trigger: null
 type: Feat
 
 ---

@@ -4,9 +4,7 @@ level: '4'
 name: Sleepwalker
 prerequisite: Expert in [[DATABASE/skill/Occultism|Occultism]]
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-trait: null
 type: Archetype
 
 ---

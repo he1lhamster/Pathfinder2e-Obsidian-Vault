@@ -1,56 +1,22 @@
 ﻿---
-ac: null
 actions: '[three-actions]'
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '2042'
 item_category: Consumables
 item_subcategory: Fulu
-land_speed: null
 level: '4'
-max_speed: null
 name: Sentry Fulu
-onset: null
 price: 15 gp
-range: null
 rarity: Common
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Abjuration
-size: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-spell: null
-stage: null
 subcategory: consumable/fulu
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Consumable|Consumable]]'
 - '[[DATABASE/trait/Fulu|Fulu]]'
 - '[[DATABASE/trait/Magical|Magical]]'
-trigger: null
 type: Item
 usage: affixed to the ground
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Sentry Fulu<span class="item-type">Item 4</span>

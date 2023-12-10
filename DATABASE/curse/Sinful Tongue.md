@@ -1,10 +1,8 @@
 ﻿---
-element: null
 id: '35'
 level: '7'
 name: Sinful Tongue
 rarity: Rare
-rus_type_level: null
 saving_throw: DC 23 Will
 school: Enchantment
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
@@ -15,7 +13,6 @@ trait:
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Curse
-usage: null
 
 ---
 # Sinful Tongue<span class="item-type">Curse 7</span>

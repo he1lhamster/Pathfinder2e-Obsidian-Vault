@@ -1,22 +1,16 @@
 ﻿---
 ac: '27'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Pallid Plague
 - Reap
 - Share Blessings
 - Wake the Dead
-creature_family: null
 dexterity: '+3'
-element: null
 fly_speed: '40'
 fortitude: '+14'
-hardness: null
 hp: 165 ( negative healing )
 id: '1845'
 immunity:
@@ -26,7 +20,6 @@ immunity:
 - '[[DATABASE/trait/Poison|poison]]'
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '+2'
-land_speed: null
 language:
 - '[[DATABASE/language/Common|Common]]'
 - '[[DATABASE/language/Necril|Necril]]'
@@ -36,9 +29,6 @@ name: Child of Urgathoa
 perception: '+18'
 rarity: Rare
 reflex: '+15'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -59,7 +49,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Undead|Undead]]'

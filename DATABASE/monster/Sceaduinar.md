@@ -1,22 +1,16 @@
 ﻿---
 ac: '25'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Drain Life
 - Entropic Touch
 - Void Child
 - Wing Flash
-creature_family: null
 dexterity: '+6'
-element: null
 fly_speed: '60'
 fortitude: '+16'
-hardness: null
 hp: 100 ( negative healing )
 id: '794'
 immunity:
@@ -34,8 +28,6 @@ rarity: Rare
 reflex: '+18'
 resistance:
 - physical 5 (except adamantine)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 - lifesense 120 feet
@@ -62,7 +54,6 @@ strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Negative|Negative]]'

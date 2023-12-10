@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Shared Overdrive
-frequency: null
-heighten_level: null
 id: '3077'
+leads_to: '[[DATABASE/feat/Ubiquitous Overdrive|Ubiquitous Overdrive]]'
 level: '12'
 name: Shared Overdrive
 prerequisite: '[[DATABASE/feat/Overdrive Ally|Overdrive Ally]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Inventor|Inventor]]'
-trigger: null
 type: Feat
 
 ---

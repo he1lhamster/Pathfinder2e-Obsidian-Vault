@@ -1,22 +1,16 @@
 ﻿---
 ac: '30'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Concussive Blow
 - Flit Back
 - Subsonic Pulse
 - Ultrasonic Thrust
-creature_family: null
 dexterity: '+6'
-element: null
 fly_speed: '60'
 fortitude: '+18'
-hardness: null
 hp: '190'
 id: '1190'
 immunity:
@@ -31,9 +25,6 @@ name: Harmona
 perception: '+24'
 rarity: Uncommon
 reflex: '+21'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Tiny
@@ -54,7 +45,6 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

@@ -2,9 +2,7 @@
 id: '7'
 name: Flail
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Weapon Critical Specialization
 
 ---

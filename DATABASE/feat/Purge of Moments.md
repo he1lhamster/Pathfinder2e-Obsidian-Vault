@@ -1,25 +1,18 @@
 ﻿---
 actions: '[three-actions]'
-cost: null
-element: null
 feat: Purge of Moments
 frequency: once per hour
-heighten_level: null
 id: '3845'
 level: '16'
 name: Purge of Moments
 prerequisite: '[[DATABASE/feat/Time Mage Dedication|Time Mage Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Feat
 
 ---

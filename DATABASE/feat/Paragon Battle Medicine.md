@@ -1,25 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Paragon Battle Medicine
-frequency: null
-heighten_level: null
 id: '2171'
 level: '7'
 name: Paragon Battle Medicine
 prerequisite: '[[DATABASE/feat/Battle Medicine|Battle Medicine]] ; Master in [[DATABASE/skill/Medicine|Medicine]]'
 rarity: Rare
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Legends|Legends]]'
 subcategory: medicine
 trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

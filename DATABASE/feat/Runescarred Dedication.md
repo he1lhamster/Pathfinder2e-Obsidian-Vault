@@ -1,25 +1,17 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Runescarred Dedication
-frequency: null
-heighten_level: null
 id: '912'
+leads_to: '[[DATABASE/feat/Living Rune|Living Rune]] , [[DATABASE/feat/Spell Runes|Spell
+  Runes]] , [[DATABASE/feat/Warding Rune|Warding Rune]]'
 level: '2'
 name: Runescarred Dedication
 prerequisite: Trained in [[DATABASE/skill/Arcana|Arcana]]
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/World Guide|World Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

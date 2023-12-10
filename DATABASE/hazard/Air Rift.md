@@ -1,21 +1,14 @@
 ﻿---
 ac: '35'
-all_resistance: null
 complexity: Complex
 element: Air
 fortitude: '+30'
-hardness: null
 hazard_type: Environmental
 hp: '220'
 id: '55'
-immunity: null
 level: '14'
 name: Air Rift
 rarity: Unique
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 167. Ready Fight!|Pathfinder #167: Ready? Fight!]]'
 trait:
 - '[[DATABASE/trait/Air|Air]]'
@@ -26,7 +19,6 @@ trait:
 type: Hazard
 weakness:
 - earth vulnerabilty
-will: null
 
 ---
 # Air Rift<span class="item-type">Hazard 14</span>

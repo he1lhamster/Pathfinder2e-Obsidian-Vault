@@ -1,22 +1,16 @@
 ﻿---
 ac: '17'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Fiddle
 creature_family: '[[DATABASE/monsterfamily/Sprite|Sprite]]'
 dexterity: '+4'
-element: null
 fly_speed: '30'
 fortitude: '+6'
-hardness: null
 hp: '20'
 id: '390'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -28,9 +22,6 @@ name: Grig
 perception: '+7'
 rarity: Common
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 size: Tiny
@@ -53,7 +44,6 @@ strength_req: '-2'
 strongest_save:
 - Reflex
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Sprite|Sprite]]'

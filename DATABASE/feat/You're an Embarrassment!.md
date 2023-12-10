@@ -1,20 +1,12 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: You're an Embarrassment!
-frequency: null
-heighten_level: null
 id: '4137'
 level: '4'
 name: You're an Embarrassment!
 prerequisite: Celebrity Archetype
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Firebrands|Firebrands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Fortune|Fortune]]'

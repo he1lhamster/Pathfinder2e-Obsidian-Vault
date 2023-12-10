@@ -3,10 +3,8 @@ creature_family: Noppera-Bo
 id: '350'
 name: Noppera-Bo
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 196. The Summer That Never Was|Pathfinder #196:
   The Summer That Never Was]]'
-trait: null
 type: Creature Family
 
 ---

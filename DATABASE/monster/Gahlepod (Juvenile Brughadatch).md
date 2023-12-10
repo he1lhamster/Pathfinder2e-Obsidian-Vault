@@ -1,22 +1,15 @@
 ﻿---
 ac: '24'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Churning Frenzy
 creature_family: '[[DATABASE/monsterfamily/Brughadatch|Brughadatch]]'
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+17'
-hardness: null
 hp: '140'
 id: '527'
-immunity: null
 intelligence: '-4'
 land_speed: '10'
 language:
@@ -27,9 +20,6 @@ name: Gahlepod
 perception: '+13'
 rarity: Common
 reflex: '+19'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - scent (imprecise) 30 feet
@@ -42,7 +32,6 @@ source: '[[DATABASE/source/Pathfinder 154. Siege of the Dinosaurs|Pathfinder #15
 speed:
 - 10 feet
 - swim 35 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:

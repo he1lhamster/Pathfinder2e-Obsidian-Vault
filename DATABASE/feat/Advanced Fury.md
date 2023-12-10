@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Advanced Fury
-frequency: null
-heighten_level: null
 id: '674'
 level: '6'
 name: Advanced Fury
 prerequisite: '[[DATABASE/feat/Basic Fury|Basic Fury]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

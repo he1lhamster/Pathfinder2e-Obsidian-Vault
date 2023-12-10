@@ -1,23 +1,15 @@
 ﻿---
 ac: '22'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Rebuild Armor
 - Sacrifice Armor
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+14'
-hardness: null
 hp: '81'
 id: '2532'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -31,8 +23,6 @@ rarity: Uncommon
 reflex: '+11'
 resistance:
 - '[[DATABASE/trait/Acid|acid]] 5'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
@@ -44,7 +34,6 @@ source: '[[DATABASE/source/The Enmity Cycle|The Enmity Cycle]]'
 speed:
 - 25 feet
 - swim 30 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
@@ -58,7 +47,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+9'
 wisdom: '+1'
 

@@ -3,9 +3,7 @@ creature_family: Vishkanya
 id: '275'
 name: Vishkanya
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
-trait: null
 type: Creature Family
 
 ---

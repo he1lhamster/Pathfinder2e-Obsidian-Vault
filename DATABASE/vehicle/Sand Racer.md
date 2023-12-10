@@ -1,8 +1,5 @@
 ﻿---
 ac: '34'
-burrow_speed: null
-climb_speed: null
-fly_speed: null
 fortitude: '+24'
 hardness: '20'
 hp: '170'
@@ -14,14 +11,9 @@ max_speed: '90'
 name: Sand Racer
 price: 18,500 gp
 rarity: Uncommon
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 size: Large
 source: '[[DATABASE/source/Pathfinder 173. Doorway to the Red Star|Pathfinder #173:
   Doorway to the Red Star]]'
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

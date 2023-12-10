@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Repeating Hand Crossbow Training
-frequency: null
-heighten_level: null
 id: '2684'
 level: '4'
 name: Repeating Hand Crossbow Training
 prerequisite: '[[DATABASE/feat/Drow Shootist Dedication|Drow Shootist Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 165. Eyes of Empty Death|Pathfinder #165: Eyes
   of Empty Death]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

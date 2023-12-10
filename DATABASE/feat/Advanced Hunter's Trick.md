@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Advanced Hunter's Trick
-frequency: null
-heighten_level: null
 id: '725'
 level: '6'
 name: Advanced Hunter's Trick
 prerequisite: '[[DATABASE/feat/Basic Hunter''s Trick|Basic Hunter''s Trick]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

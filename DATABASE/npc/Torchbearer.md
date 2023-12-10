@@ -1,21 +1,15 @@
 ﻿---
 ac: '15'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Torch Combatant
 creature_family: '[[DATABASE/monsterfamily/Explorers|Explorers]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+5'
 hp: '15'
 id: '901'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -26,9 +20,6 @@ name: Torchbearer
 perception: '+5'
 rarity: Common
 reflex: '+7'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +5'
@@ -39,21 +30,17 @@ skill:
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 speed:
 - 25 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
 - Will
-weakness: null
 will: '+5'
 wisdom: '+1'
 

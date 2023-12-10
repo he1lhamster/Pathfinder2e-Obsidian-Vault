@@ -1,16 +1,9 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
-frequency: null
 id: '321'
 name: Absorb into the Aegis
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-trait: null
 trigger: An enemy casts a spell that targets you or an ally within 15 feet of you
 type: Action
 

@@ -5,12 +5,9 @@ ability:
 ability_boost:
 - Dexterity
 - Constitution
-feat: null
 id: '308'
 name: Tomb Born
-prerequisite: null
 rarity: Rare
-rus_type_level: null
 skill:
 - Undead [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'

@@ -2,7 +2,6 @@
 id: '276'
 name: Finite
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
 - Finite

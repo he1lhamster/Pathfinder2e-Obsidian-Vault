@@ -1,17 +1,7 @@
 ﻿---
-ability: null
-ability_boost: null
-feat: null
 id: '37'
 name: Lesser Scion
-prerequisite: null
-rarity: null
-rus_type_level: null
-skill: null
 source: '[[DATABASE/source/The Fall of Plaguestone|The Fall of Plaguestone]]'
-subcategory: null
-trait: null
-type: null
 
 ---
 # Lesser Scion<span class="item-type">Background</span>

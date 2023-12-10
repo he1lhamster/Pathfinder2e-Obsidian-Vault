@@ -1,27 +1,19 @@
 ﻿---
 actions: '[three-actions]'
-cost: null
 element: Earth
 feat: The Shattered Mountain Weeps
-frequency: null
 heighten_level: 18, 20
 id: '4235'
 level: '18'
 name: The Shattered Mountain Weeps
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Impulse|Impulse]]'
 - '[[DATABASE/trait/Kineticist|Kineticist]]'
 - '[[DATABASE/trait/Overflow|Overflow]]'
 - '[[DATABASE/trait/Primal|Primal]]'
-trigger: null
 type: Feat
 
 ---

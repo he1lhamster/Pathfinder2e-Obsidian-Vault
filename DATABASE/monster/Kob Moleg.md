@@ -1,10 +1,7 @@
 ﻿---
 ac: '39'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Attack of Opportunity
@@ -12,15 +9,11 @@ creature_ability:
 - Kob's Ruinous Strike
 - Throw Rock
 - Wide Swing
-creature_family: null
 dexterity: '+5'
 element: Earth
-fly_speed: null
 fortitude: '+30'
-hardness: null
 hp: '295'
 id: '2323'
-immunity: null
 intelligence: '+1'
 land_speed: '35'
 language:
@@ -32,9 +25,6 @@ name: Kob Moleg
 perception: '+27'
 rarity: Unique
 reflex: '+27'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Large
@@ -46,12 +36,10 @@ skill:
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 speed:
 - 35 feet
-spell: null
 strength: '+9'
 strength_req: '9'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Giant|Giant]]'
@@ -62,7 +50,6 @@ vision: Low-light vision
 weakest_save:
 - Reflex
 - Will
-weakness: null
 will: '+27'
 wisdom: '+5'
 

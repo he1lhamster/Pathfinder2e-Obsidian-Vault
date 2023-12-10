@@ -1,10 +1,7 @@
 ﻿---
 ac: '37'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+8'
 creature_ability:
 - Aim as One
@@ -14,12 +11,8 @@ creature_ability:
 - Strike as One
 - Troop Defenses
 - Troop Movement
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+26'
-hardness: null
 hp: '300'
 id: '1470'
 immunity:
@@ -46,10 +39,6 @@ name: Planar Terra-Cotta Squadron
 perception: '+24'
 rarity: Rare
 reflex: '+23'
-resistance: null
-rus_type_level: null
-school: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +18'
@@ -58,18 +47,15 @@ source: '[[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #
   Despair on Danger Island]]'
 speed:
 - 25 feet
-spell: null
 strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Troop|Troop]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
 weakness:

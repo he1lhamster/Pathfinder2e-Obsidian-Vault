@@ -3,7 +3,6 @@ id: '1'
 level: '0'
 name: Archaeological Find
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Exploration|Exploration]]'
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'

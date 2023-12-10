@@ -1,26 +1,19 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Saoc Astrology
 frequency: 3 times per day
-heighten_level: null
 id: '946'
+leads_to: '[[DATABASE/feat/Heir of the Saoc|Heir of the Saoc]]'
 level: '1'
 name: Saoc Astrology
-prerequisite: null
 rarity: Uncommon
 requirement: "You must spend 10 minutes just after your daily preparations examining\
   \ the sky or consulting a starchart or you can\u2019t use this action that day."
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

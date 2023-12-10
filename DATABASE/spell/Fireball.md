@@ -5,7 +5,6 @@ bloodline: '[[DATABASE/sorcererbloodline/Elemental|Elemental]] , [[DATABASE/sorc
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Angradd|Angradd]]'
 - '[[DATABASE/deity/Angradd|Angradd]]'
@@ -17,32 +16,23 @@ deity:
 - '[[DATABASE/deity/The Prismatic Ray|The Prismatic Ray]]'
 - '[[DATABASE/deity/Walkena|Walkena]]'
 - '[[DATABASE/deity/Walkena|Walkena]]'
-domain: null
-duration: null
 element: Fire
 heighten: '+1'
 heighten_level: 3, 4, 5, 6, 7, 8, 9, 10
 id: '119'
-lesson: null
 level: '3'
-mystery: null
 name: Fireball
-patron_theme: null
 range: 500 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: basicReflex
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Arcane
 - Primal
 trait:
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Fire|Fire]]'
-trigger: null
 type: Spell
 
 ---

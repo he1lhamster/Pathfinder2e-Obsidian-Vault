@@ -2,18 +2,13 @@
 ac: '24'
 alignment: NE
 all_resistance: '5'
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Endless Nightmare
-creature_family: null
 dexterity: '+4'
-element: null
 fly_speed: '40'
 fortitude: '+15'
-hardness: null
 hp: '110'
 id: '546'
 immunity:
@@ -23,7 +18,6 @@ immunity:
 - precision
 - sleep
 intelligence: '+0'
-land_speed: null
 language:
 - '[[DATABASE/monsterability/Telepathy|telepathy 100 feet]]'
 level: '8'
@@ -36,8 +30,6 @@ resistance:
 - all 5 (except force
 - '[[DATABASE/equipment/Ghost Touch|ghost touch]]'
 - or negative; doubleresistance vs. non-magical)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -61,7 +53,6 @@ strength: '-5'
 strength_req: '-5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dream|Dream]]'
 - '[[DATABASE/trait/Incorporeal|Incorporeal]]'
@@ -70,7 +61,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+14'
 wisdom: '+2'
 

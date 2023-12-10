@@ -4,7 +4,6 @@ level: '2'
 name: Corpse Tender
 prerequisite: Trained in [[DATABASE/skill/Religion|Religion]]
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 181. Zombie Feast|Pathfinder #181: Zombie Feast]]'
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

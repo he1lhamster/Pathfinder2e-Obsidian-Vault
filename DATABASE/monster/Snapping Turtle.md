@@ -1,10 +1,7 @@
 ﻿---
 ac: '16'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Clench Jaws
@@ -12,25 +9,17 @@ creature_ability:
 - Shell Defense
 creature_family: '[[DATABASE/monsterfamily/Turtle|Turtle]]'
 dexterity: '-1'
-element: null
-fly_speed: null
 fortitude: '+8'
-hardness: null
 hp: '9'
 id: '836'
-immunity: null
 intelligence: '-4'
 land_speed: '10'
-language: null
 level: '-1'
 max_speed: '20'
 name: Snapping Turtle
 perception: '+3'
 rarity: Common
 reflex: '+1'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Scent|scent (imprecise) 30 feet]]'
@@ -42,7 +31,6 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 10 feet
 - swim 20 feet
-spell: null
 strength: '+1'
 strength_req: '1'
 strongest_save:
@@ -54,7 +42,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Reflex
-weakness: null
 will: '+3'
 wisdom: '+1'
 

@@ -1,10 +1,8 @@
 ﻿---
-element: null
 id: '47'
 level: '7'
 name: Lord's Arrogance
 rarity: Common
-rus_type_level: null
 saving_throw: DC 23 Will
 school: Enchantment
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
@@ -14,7 +12,6 @@ trait:
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Mental|Mental]]'
 type: Curse
-usage: null
 
 ---
 # Lord's Arrogance<span class="item-type">Curse 7</span>

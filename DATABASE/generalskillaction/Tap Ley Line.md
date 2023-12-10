@@ -2,9 +2,7 @@
 id: '7'
 name: Tap Ley Line
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-trait: null
 type: General Skill Action
 
 ---

@@ -1,7 +1,6 @@
 ﻿---
 id: '28'
 name: Paralyzed
-source: null
 
 ---
 # Paralyzed

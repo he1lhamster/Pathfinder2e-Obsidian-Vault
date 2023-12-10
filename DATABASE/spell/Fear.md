@@ -1,30 +1,21 @@
 ﻿---
 actions: '[two-actions]'
-area: null
 bloodline: '[[DATABASE/sorcererbloodline/Demonic|Demonic]]'
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Dhalavei|Dhalavei]]'
 - '[[DATABASE/deity/Kelizandri|Kelizandri]]'
 - '[[DATABASE/deity/Kelizandri|Kelizandri]]'
-domain: null
 duration: varies
-element: null
 heighten: 3rd
 heighten_level: 1, 3
 id: '110'
-lesson: null
 level: '1'
-mystery: null
 name: Fear
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Will
 school: Enchantment
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -39,7 +30,6 @@ trait:
 - '[[DATABASE/trait/Enchantment|Enchantment]]'
 - '[[DATABASE/trait/Fear|Fear]]'
 - '[[DATABASE/trait/Mental|Mental]]'
-trigger: null
 type: Spell
 
 ---

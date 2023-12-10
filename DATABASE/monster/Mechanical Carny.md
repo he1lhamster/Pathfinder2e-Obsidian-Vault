@@ -1,19 +1,12 @@
 ﻿---
 ac: '17'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Haywire
-creature_family: null
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+8'
-hardness: null
 hp: '33'
 id: '505'
 immunity:
@@ -43,8 +36,6 @@ rarity: Common
 reflex: '+11'
 resistance:
 - physical 3 (except adamantine)
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 size: Medium
@@ -56,12 +47,10 @@ source: '[[DATABASE/source/Pathfinder 151. The Show Must Go On|Pathfinder #151: 
   Show Must Go On]]'
 speed:
 - 25 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Mindless|Mindless]]'

@@ -1,10 +1,7 @@
 ﻿---
 ac: '33'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Aura of Order's Ruin
@@ -14,10 +11,7 @@ creature_ability:
 - Rupturing Venom
 creature_family: '[[DATABASE/monsterfamily/Qlippoth|Qlippoth]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+23'
-hardness: null
 hp: '220'
 id: '775'
 immunity:
@@ -37,8 +31,6 @@ reflex: '+18'
 resistance:
 - mental 10
 - physical 10 (except cold iron)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent (imprecise) 30 feet]]'
@@ -64,7 +56,6 @@ strength: '+7'
 strength_req: '7'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fiend|Fiend]]'
 - '[[DATABASE/trait/Qlippoth|Qlippoth]]'

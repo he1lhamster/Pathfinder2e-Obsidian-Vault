@@ -1,43 +1,29 @@
 ﻿---
 actions: '[three-actions]'
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Anubis|Anubis]]'
 - '[[DATABASE/deity/Kols|Kols]]'
 - '[[DATABASE/deity/Kols|Kols]]'
 - '[[DATABASE/deity/Kols|Kols]]'
 - '[[DATABASE/deity/Monad|Monad]]'
-domain: null
 duration: sustained
-element: null
-heighten: null
 heighten_level: '1'
 id: '352'
-lesson: null
 level: '1'
-mystery: null
 name: Unseen Servant
-patron_theme: null
 range: 60 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Arcane
 - Occult
 trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
-trigger: null
 type: Spell
 
 ---

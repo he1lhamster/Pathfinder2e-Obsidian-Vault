@@ -2,7 +2,6 @@
 id: '100'
 name: Drooni
 rarity: Rare
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 183. Field of Maidens|Pathfinder #183: Field
   of Maidens]]'
 trait:

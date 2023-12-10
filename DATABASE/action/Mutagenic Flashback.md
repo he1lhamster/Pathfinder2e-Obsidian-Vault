@@ -1,18 +1,12 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 frequency: once per day
 id: '340'
 name: Mutagenic Flashback
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Alchemist|Alchemist]]'
-trigger: null
 type: Action
 
 ---

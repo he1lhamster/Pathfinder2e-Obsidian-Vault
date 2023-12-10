@@ -2,7 +2,6 @@
 id: '144'
 name: Skill
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - Skill

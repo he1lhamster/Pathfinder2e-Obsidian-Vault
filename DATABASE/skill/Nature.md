@@ -6,11 +6,9 @@ ability_boost:
 id: '10'
 name: Nature
 rarity: Common
-rus_type_level: null
 skill:
 - Nature
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Skill
 
 ---

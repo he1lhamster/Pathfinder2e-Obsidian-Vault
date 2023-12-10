@@ -1,30 +1,20 @@
 ﻿---
 actions: '[three-actions]'
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Nurgal|Nurgal]]'
 - '[[DATABASE/deity/Set|Set]]'
-domain: null
 duration: 1 day
-element: null
 heighten: '+3'
 heighten_level: 3, 6, 9
 id: '572'
-lesson: null
 level: '3'
-mystery: null
 name: Cup of Dust
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Fortitude
 school: Necromancy
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
@@ -36,7 +26,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Curse|Curse]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
-trigger: null
 type: Spell
 
 ---

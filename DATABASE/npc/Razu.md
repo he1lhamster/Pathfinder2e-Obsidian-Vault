@@ -1,22 +1,16 @@
 ﻿---
 ac: '40'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Bow Basher
 - Incredible Volume
-creature_family: null
 dexterity: '+6'
-element: null
 fly_speed: '80'
 fortitude: '+27'
 hp: '250'
 id: '1512'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -29,8 +23,6 @@ name: Razu
 perception: '+30'
 rarity: Unique
 reflex: '+32'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
@@ -88,7 +80,6 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Tengu|Tengu]]'
@@ -97,7 +88,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+30'
 wisdom: '+4'
 

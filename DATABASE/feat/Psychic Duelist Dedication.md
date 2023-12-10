@@ -1,25 +1,18 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Psychic Duelist Dedication
-frequency: null
-heighten_level: null
 id: '3858'
+leads_to: '[[DATABASE/feat/Duel Spell Advantage|Duel Spell Advantage]] , [[DATABASE/feat/Instigate
+  Psychic Duel|Instigate Psychic Duel]] , [[DATABASE/feat/Supreme Psychic Center|Supreme
+  Psychic Center]]'
 level: '4'
 name: Psychic Duelist Dedication
 prerequisite: Trained in [[DATABASE/skill/Occultism|Occultism]]
 rarity: Rare
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,10 +1,7 @@
 ﻿---
 ac: '18'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Blood Draw
@@ -12,10 +9,8 @@ creature_ability:
 - Sleeping Sickness
 creature_family: '[[DATABASE/monsterfamily/Fly|Fly]]'
 dexterity: '+3'
-element: null
 fly_speed: '40'
 fortitude: '+7'
-hardness: null
 hp: '30'
 id: '1611'
 immunity:
@@ -23,16 +18,12 @@ immunity:
 - '[[DATABASE/trait/Sleep|sleep]]'
 intelligence: '-5'
 land_speed: '10'
-language: null
 level: '2'
 max_speed: '40'
 name: Giant Tsetse Fly
 perception: '+9'
 rarity: Common
 reflex: '+11'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - blood scent
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 60 feet'
@@ -45,19 +36,15 @@ source: '[[DATABASE/source/Pathfinder 169. Kindled Magic|Pathfinder #169: Kindle
 speed:
 - 10 feet
 - fly 40 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+5'
 wisdom: '+1'
 

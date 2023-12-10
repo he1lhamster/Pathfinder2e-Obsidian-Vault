@@ -1,21 +1,15 @@
 ﻿---
 ac: '30'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+7'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Frightful Presence
 - Universal Language
 - Urban Legend
-creature_family: null
 dexterity: '+5'
-element: null
 fly_speed: '30'
 fortitude: '+21'
-hardness: null
 hp: '200'
 id: '2559'
 immunity:
@@ -37,8 +31,6 @@ name: The Shadow Prince
 perception: '+18'
 rarity: Rare
 reflex: '+22'
-resistance: null
-rus_type_level: null
 school: Illusion
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
@@ -63,7 +55,6 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Illusion|Illusion]]'
 - '[[DATABASE/trait/Mental|Mental]]'

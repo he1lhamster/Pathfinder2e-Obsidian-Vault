@@ -1,9 +1,7 @@
 ﻿---
 id: '30'
 name: Sweet Beasts (Chocolate Mouse)
-rus_type_level: null
 source: '[[DATABASE/source/Wake the Dead 3|Wake the Dead #3]]'
-trait: null
 
 ---
 # Sweet Beasts (Chocolate Mouse)

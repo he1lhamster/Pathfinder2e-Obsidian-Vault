@@ -1,20 +1,12 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Wave the Flag
-frequency: null
-heighten_level: null
 id: '3621'
 level: '16'
 name: Wave the Flag
 prerequisite: '[[DATABASE/feat/Cavalier''s Banner|Cavalier''s Banner]]'
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Emotion|Emotion]]'
@@ -22,7 +14,6 @@ trait:
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 - '[[DATABASE/trait/Visual|Visual]]'
-trigger: null
 type: Feat
 
 ---

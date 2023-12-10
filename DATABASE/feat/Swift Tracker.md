@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Swift Tracker
-frequency: null
-heighten_level: null
 id: '512'
 level: '6'
 name: Swift Tracker
 prerequisite: Expert in [[DATABASE/skill/Survival|Survival]] ; [[DATABASE/feat/Experienced
   Tracker|Experienced Tracker]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Ranger|Ranger]]'
-trigger: null
 type: Feat
 
 ---

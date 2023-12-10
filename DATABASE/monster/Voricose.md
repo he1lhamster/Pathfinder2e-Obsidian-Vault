@@ -1,22 +1,15 @@
 ﻿---
 ac: '37'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Attack of Opportunity
 - Focus Gaze
 - Painsight
 - Surgical Rend
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+27'
-hardness: null
 hp: '275'
 id: '2568'
 immunity:
@@ -34,9 +27,6 @@ name: Voricose
 perception: '+28'
 rarity: Unique
 reflex: '+25'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 - painsight
@@ -63,7 +53,6 @@ strength: '+7'
 strength_req: '7'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fiend|Fiend]]'
 - '[[DATABASE/trait/Unique|Unique]]'

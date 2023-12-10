@@ -1,11 +1,9 @@
 ﻿---
-element: null
 id: '22'
 item_category: Relics
 name: Pierce the Veil
 prerequisite: living death gift
 rarity: Common
-rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:

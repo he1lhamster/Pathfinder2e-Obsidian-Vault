@@ -1,25 +1,18 @@
 ﻿---
 ac: '34'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+7'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Attack of Opportunity
 - Captivating Song
 - Dread Cry
 - War Formation
-creature_family: null
 dexterity: '+5'
-element: null
 fly_speed: '60'
 fortitude: '+21'
-hardness: null
 hp: '240'
 id: '2553'
-immunity: null
 intelligence: '+0'
 land_speed: '20'
 language:
@@ -30,9 +23,6 @@ name: Queen Kawlinawk
 perception: '+23'
 rarity: Unique
 reflex: '+25'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -46,12 +36,10 @@ source: '[[DATABASE/source/Pathfinder 190. The Choosing|Pathfinder #190: The Cho
 speed:
 - 20 feet
 - fly 60 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
@@ -59,7 +47,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+23'
 wisdom: '+4'
 

@@ -13,7 +13,6 @@ name: Javelin
 price: 1 sp
 range: 30 ft.
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Thrown|Thrown]]'

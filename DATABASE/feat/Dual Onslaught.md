@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Dual Onslaught
-frequency: null
-heighten_level: null
 id: '1955'
 level: '14'
 name: Dual Onslaught
 prerequisite: '[[DATABASE/feat/Dual-Weapon Warrior Dedication|Dual-Weapon Warrior
   Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

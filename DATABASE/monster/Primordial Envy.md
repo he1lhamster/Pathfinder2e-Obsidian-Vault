@@ -1,10 +1,7 @@
 ﻿---
 ac: '12'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Confiscate Spell
@@ -12,10 +9,7 @@ creature_ability:
 - Spell Drain
 creature_family: '[[DATABASE/monsterfamily/Sinsludge|Sinsludge]]'
 dexterity: '-4'
-element: null
-fly_speed: null
 fortitude: '+13'
-hardness: null
 hp: '60'
 id: '2728'
 immunity:
@@ -26,7 +20,6 @@ immunity:
 - '[[DATABASE/trait/Visual|visual]]'
 intelligence: '-5'
 land_speed: '15'
-language: null
 level: '3'
 max_speed: '15'
 name: Primordial Envy
@@ -36,8 +29,6 @@ reflex: '+4'
 resistance:
 - piercing 5
 - slashing 5
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - magic sense (precise) 30 feet
@@ -47,12 +38,10 @@ skill:
 source: '[[DATABASE/source/Rusthenge|Rusthenge]]'
 speed:
 - 15 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Ooze|Ooze]]'
 - '[[DATABASE/trait/Rare|Rare]]'
@@ -60,7 +49,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+8'
 wisdom: '+0'
 

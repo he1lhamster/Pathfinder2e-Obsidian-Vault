@@ -2,9 +2,7 @@
 ac: '26'
 alignment: CN
 all_resistance: '8'
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Grab Item
@@ -12,10 +10,8 @@ creature_ability:
 - Walk the Ethereal Line
 creature_family: '[[DATABASE/monsterfamily/Phantom|Phantom]]'
 dexterity: '+6'
-element: null
 fly_speed: '35'
 fortitude: '+13'
-hardness: null
 hp: '120'
 id: '1264'
 immunity:
@@ -24,7 +20,6 @@ immunity:
 - '[[DATABASE/trait/Poison|poison]]'
 - precision
 intelligence: '+0'
-land_speed: null
 language:
 - '[[DATABASE/monsterability/Telepathy|telepathy]] 100 feet'
 level: '8'
@@ -37,8 +32,6 @@ resistance:
 - all damage 8 (except [[DATABASE/trait/Force|force]] or [[DATABASE/equipment/Ghost
   Touch|ghost touch]] ; double resistance vs. non- [[DATABASE/trait/Magical|magical]]
   )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -60,7 +53,6 @@ strength: '-5'
 strength_req: '-5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Ethereal|Ethereal]]'
 - '[[DATABASE/trait/Incorporeal|Incorporeal]]'
@@ -71,7 +63,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+16'
 wisdom: '+4'
 

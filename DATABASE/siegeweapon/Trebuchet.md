@@ -1,19 +1,15 @@
 ﻿---
 ac: '24'
-bulk: null
 fortitude: '+21'
 hardness: '17'
 hp: '68'
 id: '9'
 item_category: Siege Weapons
-land_speed: null
 level: '10'
-max_speed: null
 name: Trebuchet
 price: 2,000 gp
 rarity: Uncommon
 reflex: '+16'
-rus_type_level: null
 size: Gargantuan
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:

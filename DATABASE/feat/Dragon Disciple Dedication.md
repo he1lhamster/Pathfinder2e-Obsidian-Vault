@@ -1,25 +1,22 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Dragon Disciple Dedication
-frequency: null
-heighten_level: null
 id: '1940'
+leads_to: '[[DATABASE/feat/Breath of the Dragon|Breath of the Dragon]] , [[DATABASE/feat/Claws
+  of the Dragon|Claws of the Dragon]] , [[DATABASE/feat/Cloud Walk|Cloud Walk]] ,
+  [[DATABASE/feat/Deflecting Cloud|Deflecting Cloud]] , [[DATABASE/feat/Disciple''s
+  Breath|Disciple''s Breath]] , [[DATABASE/feat/Draconic Scent|Draconic Scent]] ,
+  [[DATABASE/feat/Dragon Arcana|Dragon Arcana]] , [[DATABASE/feat/Mighty Wings|Mighty
+  Wings]] , [[DATABASE/feat/Scales of the Dragon|Scales of the Dragon]] , [[DATABASE/feat/Shape
+  of the Cloud Dragon|Shape of the Cloud Dragon]] , [[DATABASE/feat/Shape of the Dragon|Shape
+  of the Dragon]] , [[DATABASE/feat/Wings of the Dragon|Wings of the Dragon]]'
 level: '2'
 name: Dragon Disciple Dedication
-prerequisite: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

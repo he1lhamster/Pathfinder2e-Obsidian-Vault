@@ -1,11 +1,7 @@
 ﻿---
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+1'
 dexterity: '+3'
-element: null
-fly_speed: null
 hp: '4'
 id: '24'
 intelligence: '-4'
@@ -13,7 +9,6 @@ land_speed: '30'
 max_speed: '30'
 name: Shadow Hound
 rarity: Uncommon
-rus_type_level: null
 sense:
 - darkvision
 - scent(imprecise) 30 feet
@@ -25,7 +20,6 @@ speed:
 - 30 feet
 strength: '+2'
 strength_req: '2'
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Animal Companion

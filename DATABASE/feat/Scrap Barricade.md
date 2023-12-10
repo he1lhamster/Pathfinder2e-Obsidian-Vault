@@ -1,20 +1,13 @@
 ﻿---
 actions: '[three-actions]'
-cost: null
 element: Metal
 feat: Scrap Barricade
-frequency: null
 heighten_level: 6, 8, 10, 12, 14, 16, 18, 20
 id: '4258'
 level: '6'
 name: Scrap Barricade
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Impulse|Impulse]]'
 - '[[DATABASE/trait/Kineticist|Kineticist]]'
@@ -22,7 +15,6 @@ trait:
 - '[[DATABASE/trait/Metal|Metal]]'
 - '[[DATABASE/trait/Overflow|Overflow]]'
 - '[[DATABASE/trait/Primal|Primal]]'
-trigger: null
 type: Feat
 
 ---

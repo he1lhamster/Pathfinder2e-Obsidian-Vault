@@ -3,9 +3,7 @@ creature_family: Criminals
 id: '182'
 name: Criminals
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
-trait: null
 type: Creature Family
 
 ---

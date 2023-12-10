@@ -1,24 +1,16 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Peafowl Strut
-frequency: null
-heighten_level: null
 id: '1748'
 level: '10'
 name: Peafowl Strut
 prerequisite: '[[DATABASE/feat/Peafowl Stance|Peafowl Stance]]'
 rarity: Common
 requirement: You are in Peafowl Stance.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Flourish|Flourish]]'
 - '[[DATABASE/trait/Monk|Monk]]'
-trigger: null
 type: Feat
 
 ---

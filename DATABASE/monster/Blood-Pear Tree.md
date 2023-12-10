@@ -1,21 +1,14 @@
 ﻿---
 ac: '38'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Axe Vulnerability
 - Plant
 - Take Root
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+31'
-hardness: null
 hp: 350 ( negative healing )
 id: '2570'
 immunity:
@@ -39,8 +32,6 @@ reflex: '+26'
 resistance:
 - bludgeoning 15
 - piercing 15
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Huge
@@ -51,12 +42,10 @@ source: '[[DATABASE/source/Pathfinder 191. The Destiny War|Pathfinder #191: The 
   War]]'
 speed:
 - 20 feet
-spell: null
 strength: '+9'
 strength_req: '9'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Undead|Undead]]'
 - '[[DATABASE/trait/Unique|Unique]]'

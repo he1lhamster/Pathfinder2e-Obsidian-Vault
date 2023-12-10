@@ -1,10 +1,7 @@
 ﻿---
 ac: '43'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+7'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Hurl Weapon
@@ -13,10 +10,8 @@ creature_ability:
 - Twist the Blade
 creature_family: '[[DATABASE/monsterfamily/Daemon|Daemon]]'
 dexterity: '+6'
-element: null
 fly_speed: '50'
 fortitude: '+33'
-hardness: null
 hp: '335'
 id: '596'
 immunity:
@@ -36,8 +31,6 @@ rarity: Common
 reflex: '+30'
 resistance:
 - piercing 15
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/spell/True Seeing|true seeing]]'
@@ -66,7 +59,6 @@ strength: '+9'
 strength_req: '9'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Daemon|Daemon]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

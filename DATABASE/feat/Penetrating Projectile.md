@@ -1,25 +1,16 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Penetrating Projectile
-frequency: null
-heighten_level: null
 id: '1629'
 level: '16'
 name: Penetrating Projectile
-prerequisite: null
 rarity: Common
 requirement: You are wielding a ranged or thrown weapon that deals piercing damage.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Barbarian|Barbarian]]'
 - '[[DATABASE/trait/Flourish|Flourish]]'
 - '[[DATABASE/trait/Rage|Rage]]'
-trigger: null
 type: Feat
 
 ---

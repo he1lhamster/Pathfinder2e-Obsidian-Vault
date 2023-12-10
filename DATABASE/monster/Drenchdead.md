@@ -1,22 +1,16 @@
 ﻿---
 ac: '32'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Aquatic Camouflage
 - Drag Down
 - Drowning Touch
 - Surface Skimmer
-creature_family: null
 dexterity: '+3'
 element: Water
-fly_speed: null
 fortitude: '+24'
-hardness: null
 hp: '230'
 id: '1662'
 immunity:
@@ -37,8 +31,6 @@ rarity: Uncommon
 reflex: '+21'
 resistance:
 - '[[DATABASE/trait/Cold|cold]] 10'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Wavesense|wavesense]] (precise) 60 feet'
@@ -53,7 +45,6 @@ source: '[[DATABASE/source/Pathfinder 172. Secrets of the Temple City|Pathfinder
 speed:
 - 20 feet
 - swim 35 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
@@ -67,7 +58,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+19'
 wisdom: '+1'
 

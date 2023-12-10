@@ -31,11 +31,9 @@ follower_alignment:
 id: '233'
 name: Touch of the Sun
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Diplomacy|Diplomacy]]'
 source: '[[DATABASE/source/Gods of the Expanse|Gods of the Expanse]]'
-trait: null
 type: Deity
 
 ---

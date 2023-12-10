@@ -1,52 +1,14 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '72'
 item_category: Services
 item_subcategory: Transportation
-land_speed: null
 level: '0'
-max_speed: null
 name: Transportation
-onset: null
-price: 2 sp (per 5 miles)
-range: null
+price: 6 cp (per 5 miles)
 rarity: Common
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
-school: null
-size: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-spell: null
-stage: null
 subcategory: service
-swim_speed: null
-trait: null
-trigger: null
 type: Item
-usage: null
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Transportation<span class="item-type">Item 0+</span>

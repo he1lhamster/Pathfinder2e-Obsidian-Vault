@@ -1,10 +1,8 @@
 ﻿---
 actions: '[one-action]'
-area: null
 bloodline: '[[DATABASE/sorcererbloodline/Draconic|Draconic]]'
 component:
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Achaekek|Achaekek]]'
 - '[[DATABASE/deity/Cernunnos|Cernunnos]]'
@@ -24,32 +22,21 @@ deity:
 - '[[DATABASE/deity/Shizuru|Shizuru]]'
 - '[[DATABASE/deity/Sorrow''s Sword|Sorrow''s Sword]]'
 - '[[DATABASE/deity/Yaezhing|Yaezhing]]'
-domain: null
 duration: until the end of your turn
-element: null
-heighten: null
 heighten_level: '1'
 id: '345'
-lesson: null
 level: '1'
-mystery: null
 name: True Strike
 patron_theme: '[[DATABASE/witchpatron/Fate|Fate]]'
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Arcane
 - Occult
 trait:
 - '[[DATABASE/trait/Divination|Divination]]'
 - '[[DATABASE/trait/Fortune|Fortune]]'
-trigger: null
 type: Spell
 
 ---

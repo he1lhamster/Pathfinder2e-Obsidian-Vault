@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Eerie Compression
-frequency: null
-heighten_level: null
 id: '2527'
 level: '9'
 name: Eerie Compression
 prerequisite: Medium size
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fleshwarp|Fleshwarp]]'
-trigger: null
 type: Feat
 
 ---

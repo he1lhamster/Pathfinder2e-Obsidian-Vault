@@ -1,21 +1,12 @@
 ﻿---
-ability: null
-ability_boost: null
 alignment: Any
 deity:
 - '[[DATABASE/deity/God Calling|God Calling]]'
 deity_category: Faiths & Philosophies
-divine_font: null
-domain: null
-favored_weapon: null
-follower_alignment: null
 id: '200'
 name: God Calling
 rarity: Common
-rus_type_level: null
-skill: null
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
-trait: null
 type: Deity
 
 ---

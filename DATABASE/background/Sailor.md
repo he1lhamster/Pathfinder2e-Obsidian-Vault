@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Underwater Marauder|Underwater Marauder]]'
 id: '30'
 name: Sailor
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]]'
 - Sailing [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

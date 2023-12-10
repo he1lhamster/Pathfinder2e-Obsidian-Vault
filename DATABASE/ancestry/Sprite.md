@@ -18,7 +18,6 @@ language:
 max_speed: '20'
 name: Sprite
 rarity: Rare
-rus_type_level: null
 size: Tiny
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 speed:

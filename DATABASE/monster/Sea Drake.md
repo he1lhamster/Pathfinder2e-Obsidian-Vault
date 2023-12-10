@@ -1,10 +1,7 @@
 ﻿---
 ac: '24'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Ball Lightning Breath
@@ -18,7 +15,6 @@ dexterity: '+2'
 element: Water
 fly_speed: '40'
 fortitude: '+16'
-hardness: null
 hp: '95'
 id: '641'
 immunity:
@@ -35,9 +31,6 @@ name: Sea Drake
 perception: '+14'
 rarity: Common
 reflex: '+14'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent (imprecise) 30 feet]]'
@@ -51,7 +44,6 @@ speed:
 - 15 feet
 - fly 40 feet
 - swim 50 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
@@ -65,7 +57,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+12'
 wisdom: '+2'
 

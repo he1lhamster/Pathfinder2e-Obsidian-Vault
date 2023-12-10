@@ -1,40 +1,26 @@
 ﻿---
 actions: '[two-actions]'
 area: 15-foot cone
-bloodline: null
 component:
 - Material
 - Verbal
-cost: null
-deity: null
 domain:
 - '[[DATABASE/domain/Sun Domain|Sun]]'
-duration: null
-element: null
 heighten: 3rd
 heighten_level: 1, 3
 id: '412'
-lesson: null
 level: '1'
-mystery: null
 name: Dazzling Flash
-patron_theme: null
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 saving_throw: Fortitude
 school: Evocation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
-tradition: null
 trait:
 - '[[DATABASE/trait/Cleric|Cleric]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Light|Light]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 - '[[DATABASE/trait/Visual|Visual]]'
-trigger: null
 type: Focus
 
 ---

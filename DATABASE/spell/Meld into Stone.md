@@ -1,41 +1,27 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Soralyon|Soralyon]]'
 - '[[DATABASE/deity/Yuelral|Yuelral]]'
 - '[[DATABASE/deity/Zevgavizeb|Zevgavizeb]]'
-domain: null
 duration: 10 minutes
 element: Earth
-heighten: null
 heighten_level: '3'
 id: '188'
-lesson: null
 level: '3'
-mystery: null
 name: Meld into Stone
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Arcane
 - Primal
 trait:
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Spell
 
 ---

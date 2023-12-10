@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Clone-Risen
-frequency: null
-heighten_level: null
 id: '3792'
+leads_to: '[[DATABASE/feat/Replicate|Replicate]]'
 level: '1'
 name: Clone-Risen
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Lineage|Lineage]]'
 - '[[DATABASE/trait/Reflection|Reflection]]'
-trigger: null
 type: Feat
 
 ---

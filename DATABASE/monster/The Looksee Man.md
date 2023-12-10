@@ -1,24 +1,16 @@
 ﻿---
 ac: '21'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Shadow Blending
 - Shadow Stride
 - Stalk Goggles
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+11'
-hardness: null
 hp: '70'
 id: '2453'
-immunity: null
 intelligence: '+4'
 land_speed: '25'
 language:
@@ -34,9 +26,6 @@ name: The Looksee Man
 perception: '+14'
 rarity: Unique
 reflex: '+14'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]] darkvision'
 size: Medium
@@ -68,7 +57,6 @@ strength_req: '0'
 strongest_save:
 - Reflex
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fetchling|Fetchling]]'
 - '[[DATABASE/trait/Human|Human]]'
@@ -78,7 +66,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+14'
 wisdom: '+3'
 

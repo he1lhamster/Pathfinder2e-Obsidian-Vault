@@ -1,8 +1,4 @@
 ﻿---
-actions: null
-cost: null
-element: null
-frequency: null
 id: '100'
 name: Activate an Item
 rarity: Common
@@ -10,11 +6,7 @@ requirement: "You can Activate an Item with the invested trait only if it\u2019s
   \ by you. If the item requiresyou to Interact with it, you must be wielding it (if\
   \ it\u2019s a held item) or touching it with a freehand (if it\u2019s another type\
   \ of item)."
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
-trigger: null
 type: Action
 
 ---

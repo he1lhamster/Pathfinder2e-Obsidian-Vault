@@ -1,23 +1,14 @@
 ﻿---
 actions: '[three-actions]'
-cost: null
-element: null
 feat: Engine of Destruction
-frequency: null
-heighten_level: null
 id: '3086'
 level: '18'
 name: Engine of Destruction
 prerequisite: '[[DATABASE/inventorinnovation/Construct Innovation|construct innovation]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Inventor|Inventor]]'
-trigger: null
 type: Feat
 
 ---

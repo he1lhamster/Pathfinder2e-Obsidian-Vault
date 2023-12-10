@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Wildborn Adept
-frequency: null
-heighten_level: null
 id: '983'
 level: '5'
 name: Wildborn Adept
 prerequisite: '[[DATABASE/feat/Wildborn Magic|Wildborn Magic]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Elf|Elf]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,25 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Elysium's Cadence
-frequency: null
-heighten_level: null
 id: '3752'
 level: '6'
 name: Elysium's Cadence
 prerequisite: You've partied extensively with an [[DATABASE/monsterfamily/Azata|azata]]
   orentered a romantic relationship with an azata.
 rarity: Rare
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Aftermath|Aftermath]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Feat
 
 ---

@@ -2,9 +2,7 @@
 id: '9'
 name: Lesson of Death
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-trait: null
 type: Witch Lesson
 
 ---

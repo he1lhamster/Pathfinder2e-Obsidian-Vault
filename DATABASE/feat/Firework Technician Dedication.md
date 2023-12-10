@@ -1,25 +1,19 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Firework Technician Dedication
-frequency: null
-heighten_level: null
 id: '3245'
+leads_to: '[[DATABASE/feat/Banshee Cry Display|Banshee Cry Display]] , [[DATABASE/feat/Coughing
+  Dragon Display|Coughing Dragon Display]] , [[DATABASE/feat/Expert Fireworks Crafter|Expert
+  Fireworks Crafter]] , [[DATABASE/feat/Goblin Jubilee Display|Goblin Jubilee Display]]
+  , [[DATABASE/feat/Jumping Jenny Display|Jumping Jenny Display]]'
 level: '2'
 name: Firework Technician Dedication
 prerequisite: Trained in [[DATABASE/skill/Crafting|Crafting]]
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,24 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Built-In Tools
-frequency: null
-heighten_level: null
 id: '3044'
 level: '1'
 name: Built-In Tools
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Inventor|Inventor]]'
 - '[[DATABASE/trait/Modification|Modification]]'
-trigger: null
 type: Feat
 
 ---

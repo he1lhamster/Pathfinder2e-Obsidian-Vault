@@ -1,25 +1,18 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Harsh Judgment
-frequency: null
-heighten_level: null
 id: '3330'
+leads_to: '[[DATABASE/feat/Accurate Swing|Accurate Swing]] , [[DATABASE/feat/Execution|Execution]]
+  , [[DATABASE/feat/Frightful Condemnation|Frightful Condemnation]]'
 level: '4'
 name: Harsh Judgment
 prerequisite: '[[DATABASE/feat/Vigilante Dedication|Vigilante Dedication]] ; member
   of the Gray Gardeners'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Night of the Gray Death|Night of the Gray Death]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Vigilante|Vigilante]]'
-trigger: null
 type: Feat
 
 ---

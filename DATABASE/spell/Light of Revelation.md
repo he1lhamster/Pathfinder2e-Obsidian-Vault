@@ -1,38 +1,22 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 5 minutes
-element: null
-heighten: null
 heighten_level: '2'
 id: '557'
-lesson: null
 level: '2'
-mystery: null
 name: Light of Revelation
-patron_theme: null
 range: 30-foot emanation
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-target: null
-tradition: null
 trait:
 - '[[DATABASE/trait/Divination|Divination]]'
 - '[[DATABASE/trait/Light|Light]]'
 - '[[DATABASE/trait/Revelation|Revelation]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Focus
 
 ---

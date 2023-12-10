@@ -1,21 +1,11 @@
 ﻿---
-ac: null
-all_resistance: null
 complexity: Complex
 element: Fire
-fortitude: null
-hardness: null
 hazard_type: Environmental
-hp: null
 id: '124'
-immunity: null
 level: '4'
 name: Forest Fire
 rarity: Common
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 176. Lost Mammoth Valley|Pathfinder #176: Lost
   Mammoth Valley]]'
 trait:
@@ -23,8 +13,6 @@ trait:
 - '[[DATABASE/trait/Environmental|Environmental]]'
 - '[[DATABASE/trait/Fire|Fire]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Forest Fire<span class="item-type">Hazard 4</span>

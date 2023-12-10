@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Djinni Magic
-frequency: null
-heighten_level: null
 id: '2598'
 level: '9'
 name: Djinni Magic
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Sylph|Sylph]]'
-trigger: null
 type: Feat
 
 ---

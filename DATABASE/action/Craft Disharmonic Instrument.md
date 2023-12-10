@@ -1,20 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
-frequency: null
 id: '1126'
 name: Craft Disharmonic Instrument
 rarity: Rare
 requirement: Legendary in [[DATABASE/skill/Crafting|Crafting]]
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Monsters of Myth|Monsters of Myth]]'
 trait:
 - '[[DATABASE/trait/Downtime|Downtime]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Action
 
 ---

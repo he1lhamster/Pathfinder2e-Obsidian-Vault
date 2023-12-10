@@ -1,20 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Shoving Sweep
-frequency: null
-heighten_level: null
 id: '2024'
 level: '8'
 name: Shoving Sweep
 prerequisite: '[[DATABASE/feat/Mauler Dedication|Mauler Dedication]] ; Expert in [[DATABASE/skill/Athletics|Athletics]]'
 rarity: Common
 requirement: You're wielding a melee weapon in two hands.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 trigger: A creature within your reach leaves a square during a move action it's using.

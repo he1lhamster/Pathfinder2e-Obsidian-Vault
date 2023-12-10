@@ -1,34 +1,22 @@
 ﻿---
 ac: '14'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '-2'
 creature_ability:
 - Get Underfoot
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+3'
-hardness: null
 hp: '6'
 id: '1964'
-immunity: null
 intelligence: '-4'
 land_speed: '20'
-language: null
 level: '-1'
 max_speed: '20'
 name: Masu
 perception: '+8'
 rarity: Unique
 reflex: '+8'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/trait/Light|low-light vision]]'
 size: Tiny
@@ -39,12 +27,10 @@ source: '[[DATABASE/source/Pathfinder 179. Cradle of Quartz|Pathfinder #179: Cra
   of Quartz]]'
 speed:
 - 20 feet
-spell: null
 strength: '-4'
 strength_req: '-4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 - '[[DATABASE/trait/Unique|Unique]]'
@@ -52,7 +38,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+6'
 wisdom: '+1'
 

@@ -1,23 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Dig Up Secrets
-frequency: null
-heighten_level: null
 id: '2838'
 level: '9'
 name: Dig Up Secrets
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Shisk|Shisk]]'
-trigger: null
 type: Feat
 
 ---

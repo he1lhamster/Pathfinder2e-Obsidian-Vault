@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Firearm Expert
-frequency: null
-heighten_level: null
 id: '3221'
 level: '12'
 name: Firearm Expert
 prerequisite: '[[DATABASE/feat/Gunslinger Dedication|Gunslinger Dedication]] ; expert
   in any kind of weapon orunarmed attack'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

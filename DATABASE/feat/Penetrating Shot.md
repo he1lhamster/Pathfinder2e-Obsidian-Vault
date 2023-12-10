@@ -1,24 +1,15 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Penetrating Shot
-frequency: null
-heighten_level: null
 id: '522'
 level: '10'
 name: Penetrating Shot
-prerequisite: null
 rarity: Common
 requirement: You are wielding a ranged weapon.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Open|Open]]'
 - '[[DATABASE/trait/Ranger|Ranger]]'
-trigger: null
 type: Feat
 
 ---

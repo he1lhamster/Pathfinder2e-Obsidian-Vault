@@ -1,20 +1,13 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Aggressive Block
-frequency: null
-heighten_level: null
 id: '363'
+leads_to: '[[DATABASE/feat/Flinging Shove|Flinging Shove]] , [[DATABASE/feat/Powerful
+  Shove|Powerful Shove]]'
 level: '2'
 name: Aggressive Block
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fighter|Fighter]]'
 trigger: You use the [[DATABASE/feat/Shield Block|Shield Block]] reaction, and the

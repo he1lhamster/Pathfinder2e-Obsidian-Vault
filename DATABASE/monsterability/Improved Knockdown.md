@@ -3,9 +3,7 @@ actions: '[free-action]'
 id: '28'
 name: Improved Knockdown
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
-trait: null
 type: Creature Ability
 
 ---

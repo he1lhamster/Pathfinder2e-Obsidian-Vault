@@ -1,10 +1,7 @@
 ﻿---
 ac: '42'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+10'
 creature_ability:
 - Attack of Opportunity
@@ -14,12 +11,8 @@ creature_ability:
 - Orochi
 - Flurry
 - Swallow Whole
-creature_family: null
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+33'
-hardness: null
 hp: 400 ((body) ; Resistances poison 15 HP (head) 60, multiple heads<br>                )
 id: '1416'
 immunity:
@@ -38,8 +31,6 @@ rarity: Rare
 reflex: '+30'
 resistance:
 - poison 15
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
@@ -54,7 +45,6 @@ source: '[[DATABASE/source/Pathfinder 168. King of the Mountain|Pathfinder #168:
 speed:
 - 30 feet
 - swim 60 feet
-spell: null
 strength: '+10'
 strength_req: '10'
 strongest_save:

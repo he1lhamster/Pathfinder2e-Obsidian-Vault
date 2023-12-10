@@ -1,19 +1,12 @@
 ﻿---
 ac: '17'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Violet Rot
-creature_family: null
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+10'
-hardness: null
 hp: '60'
 id: '853'
 immunity:
@@ -25,16 +18,12 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '10'
-language: null
 level: '3'
 max_speed: '10'
 name: Violet Fungus
 perception: '+8'
 rarity: Common
 reflex: '+7'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - no vision
 - '[[DATABASE/monsterability/Tremorsense|tremorsense 60 feet]]'
@@ -44,17 +33,14 @@ skill:
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 10 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fungus|Fungus]]'
 - '[[DATABASE/trait/Mindless|Mindless]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
 weakness:

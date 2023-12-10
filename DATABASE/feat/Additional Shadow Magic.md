@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Additional Shadow Magic
-frequency: null
-heighten_level: null
 id: '2070'
 level: '12'
 name: Additional Shadow Magic
 prerequisite: '[[DATABASE/feat/Shadow Magic|Shadow Magic]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,20 +1,12 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Impossible Technique
-frequency: null
-heighten_level: null
 id: '489'
 level: '20'
 name: Impossible Technique
-prerequisite: null
 rarity: Common
 requirement: You are not armored or fatigued.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fortune|Fortune]]'
 - '[[DATABASE/trait/Monk|Monk]]'

@@ -1,20 +1,12 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Rampaging Ferocity
-frequency: null
-heighten_level: null
 id: '1294'
 level: '17'
 name: Rampaging Ferocity
 prerequisite: '[[DATABASE/feat/Orc Ferocity|Orc Ferocity]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Orc|Orc]]'
 trigger: You use [[DATABASE/feat/Orc Ferocity|Orc Ferocity]]

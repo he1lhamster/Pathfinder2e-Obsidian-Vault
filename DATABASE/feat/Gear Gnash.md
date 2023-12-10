@@ -1,25 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Gear Gnash
-frequency: null
-heighten_level: null
 id: '3135'
 level: '4'
 name: Gear Gnash
 prerequisite: '[[DATABASE/feat/Trapsmith Dedication|Trapsmith Dedication]] ; Expert
   in [[DATABASE/skill/Crafting|Crafting]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,24 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Expert Alchemy
-frequency: null
-heighten_level: null
 id: '669'
+leads_to: '[[DATABASE/feat/Master Alchemy|Master Alchemy]]'
 level: '6'
 name: Expert Alchemy
 prerequisite: '[[DATABASE/feat/Alchemist Dedication|Alchemist Dedication]] ; Expert
   in [[DATABASE/skill/Crafting|Crafting]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

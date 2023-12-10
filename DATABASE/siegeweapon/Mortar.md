@@ -1,6 +1,5 @@
 ﻿---
 ac: '20'
-bulk: null
 fortitude: '+15'
 hardness: '12'
 hp: '40'
@@ -13,7 +12,6 @@ name: Mortar
 price: 720 gp
 rarity: Uncommon
 reflex: '+8'
-rus_type_level: null
 size: Medium
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:

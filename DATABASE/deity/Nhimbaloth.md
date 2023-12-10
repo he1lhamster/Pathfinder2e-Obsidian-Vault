@@ -23,12 +23,10 @@ follower_alignment:
 id: '163'
 name: Nhimbaloth
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Nature|Nature]]'
 source: '[[DATABASE/source/Pathfinder 165. Eyes of Empty Death|Pathfinder #165: Eyes
   of Empty Death]]'
-trait: null
 type: Deity
 
 ---

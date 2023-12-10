@@ -1,19 +1,13 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 frequency: once per round
 id: '758'
 name: Act Together
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 trait:
 - '[[DATABASE/trait/Summoner|Summoner]]'
 - '[[DATABASE/trait/Tandem|Tandem]]'
-trigger: null
 type: Action
 
 ---

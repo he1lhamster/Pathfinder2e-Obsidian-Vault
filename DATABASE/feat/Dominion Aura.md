@@ -1,27 +1,20 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Dominion Aura
 frequency: once per day
-heighten_level: null
 id: '3943'
 level: '17'
 name: Dominion Aura
 prerequisite: '[[DATABASE/feat/Faultspawn|Faultspawn]]'
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Aura|Aura]]'
 - '[[DATABASE/trait/Divine|Divine]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Force|Force]]'
 - '[[DATABASE/trait/Tiefling|Tiefling]]'
-trigger: null
 type: Feat
 
 ---

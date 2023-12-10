@@ -1,22 +1,15 @@
 ﻿---
 ac: '15'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Ferocity
 creature_family: '[[DATABASE/monsterfamily/Orc|Orc]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+6'
-hardness: null
 hp: '15'
 id: '324'
-immunity: null
 intelligence: '-1'
 land_speed: '25'
 language:
@@ -27,9 +20,6 @@ name: Orc Brute
 perception: '+5'
 rarity: Common
 reflex: '+4'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -39,12 +29,10 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 25 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Orc|Orc]]'
@@ -52,7 +40,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+2'
 wisdom: '+1'
 

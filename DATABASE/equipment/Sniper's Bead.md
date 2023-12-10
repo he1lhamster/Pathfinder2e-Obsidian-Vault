@@ -1,45 +1,15 @@
 ﻿---
-ac: null
 actions: '[free-action]'
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '1234'
 item_category: Consumables
 item_subcategory: Talismans
-land_speed: null
-level: '16'
-max_speed: null
+level: '4'
 name: Sniper's Bead
-onset: null
-price: 1,600 gp
-range: null
+price: 16 gp
 rarity: Common
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
-size: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-spell: null
-stage: null
 subcategory: consumable/talisman
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Consumable|Consumable]]'
 - '[[DATABASE/trait/Magical|Magical]]'
@@ -48,9 +18,6 @@ trait:
 trigger: You attempt a ranged Strike with the affixed weapon before rolling
 type: Item
 usage: affixed to a two-handed firearm or crossbow
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Sniper's Bead<span class="item-type">Item 4+</span>

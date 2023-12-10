@@ -1,25 +1,18 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Shadowcaster Dedication
-frequency: null
-heighten_level: null
 id: '3009'
+leads_to: '[[DATABASE/feat/Disciple of Shade|Disciple of Shade]] , [[DATABASE/feat/Shadow
+  Reservoir|Shadow Reservoir]] , [[DATABASE/feat/Shadow Spell|Shadow Spell]] , [[DATABASE/feat/Shadow
+  Spells|Shadow Spells]] , [[DATABASE/feat/Unending Emptiness|Unending Emptiness]]'
 level: '2'
 name: Shadowcaster Dedication
 prerequisite: ability to cast spells
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

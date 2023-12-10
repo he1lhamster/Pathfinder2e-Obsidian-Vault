@@ -1,25 +1,18 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Medic Dedication
-frequency: null
-heighten_level: null
 id: '2027'
+leads_to: '[[DATABASE/feat/Doctor''s Visitation|Doctor''s Visitation]] , [[DATABASE/feat/Preventative
+  Treatment|Preventative Treatment]] , [[DATABASE/feat/Resuscitate|Resuscitate]] ,
+  [[DATABASE/feat/Treat Condition|Treat Condition]]'
 level: '2'
 name: Medic Dedication
 prerequisite: Trained in [[DATABASE/skill/Medicine|Medicine]] ; [[DATABASE/feat/Battle
   Medicine|Battle Medicine]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,7 +1,6 @@
 ﻿---
 ac: '37'
 alignment: NE
-all_resistance: null
 burrow_speed: '25'
 charisma: '+2'
 climb_speed: '25'
@@ -11,15 +10,10 @@ creature_ability:
 - Constrict
 - Engulf
 - Thorny Mass
-creature_family: null
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+27'
-hardness: null
 hp: 335 (blood leech)
 id: '408'
-immunity: null
 intelligence: '-2'
 land_speed: '25'
 language:
@@ -31,9 +25,6 @@ name: Wemmuth
 perception: '+25'
 rarity: Common
 reflex: '+27'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - tremorsense (imprecise) 60 feet
@@ -48,13 +39,11 @@ speed:
 - 25 feet
 - burrow 25 feet
 - climb 25 feet
-spell: null
 strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Plant|Plant]]'
 type: Creature

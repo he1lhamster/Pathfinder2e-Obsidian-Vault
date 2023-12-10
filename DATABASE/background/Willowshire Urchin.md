@@ -8,9 +8,7 @@ ability_boost:
 feat: '[[DATABASE/feat/Charming Liar|Charming Liar]]'
 id: '398'
 name: Willowshire Urchin
-prerequisite: null
 rarity: Rare
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]]'
 - Engineering [[DATABASE/skill/Lore|Lore]]

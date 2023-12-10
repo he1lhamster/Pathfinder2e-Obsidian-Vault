@@ -1,23 +1,16 @@
 ﻿---
 ac: '21'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Sneak Attack
 - Tinker
 - Trap Tinker
-creature_family: null
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+9'
 hp: '58'
 id: '2535'
-immunity: null
 intelligence: '+3'
 land_speed: '30'
 language:
@@ -28,8 +21,6 @@ name: Noolik
 perception: '+11'
 rarity: Unique
 reflex: '+14'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Tiny
@@ -49,7 +40,6 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Gremlin|Gremlin]]'

@@ -4,7 +4,6 @@ level: '10'
 name: Provocator
 prerequisite: Strength 14; Charisma 14
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 159. All or Nothing|Pathfinder #159: All or
   Nothing]]'
 trait:

@@ -1,10 +1,7 @@
 ﻿---
 ac: '22'
 alignment: NG
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Anchored Soul
@@ -13,12 +10,9 @@ creature_ability:
 - Reconstitution
 - Spirit Body
 - Spirit Web Trap
-creature_family: null
 dexterity: '+5'
-element: null
 fly_speed: '40'
 fortitude: '+10'
-hardness: null
 hp: '62'
 id: '2724'
 immunity:
@@ -27,7 +21,6 @@ immunity:
 - '[[DATABASE/condition/Petrified|petrified]]'
 - '[[DATABASE/trait/Poison|poison]]'
 intelligence: '+1'
-land_speed: null
 language:
 - '[[DATABASE/language/Celestial|Celestial]]'
 - '[[DATABASE/language/Common|Common]] ; [[DATABASE/monsterability/Telepathy|telepathy]]
@@ -38,9 +31,6 @@ name: Stone Spider
 perception: '+14'
 rarity: Rare
 reflex: '+12'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -62,7 +52,6 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Celestial|Celestial]]'
 - '[[DATABASE/trait/Rare|Rare]]'
@@ -70,7 +59,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+14'
 wisdom: '+5'
 

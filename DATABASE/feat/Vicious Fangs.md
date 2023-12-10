@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Vicious Fangs
-frequency: null
-heighten_level: null
 id: '3551'
 level: '8'
 name: Vicious Fangs
 prerequisite: '[[DATABASE/feat/Vampire Dedication|Vampire Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

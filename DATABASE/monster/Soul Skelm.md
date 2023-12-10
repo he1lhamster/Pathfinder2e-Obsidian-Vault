@@ -1,10 +1,7 @@
 ﻿---
 ac: '29'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+7'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Bully the Departed
@@ -12,10 +9,7 @@ creature_ability:
 - Isolating Lash
 creature_family: '[[DATABASE/monsterfamily/Skelm|Skelm]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+19'
-hardness: null
 hp: '170'
 id: '1304'
 immunity:
@@ -31,9 +25,6 @@ name: Soul Skelm
 perception: '+19'
 rarity: Common
 reflex: '+17'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -60,7 +51,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fiend|Fiend]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'

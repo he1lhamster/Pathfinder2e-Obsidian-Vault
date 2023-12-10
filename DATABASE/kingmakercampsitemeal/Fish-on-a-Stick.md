@@ -4,8 +4,6 @@ level: '1'
 name: Fish-on-a-Stick
 price: 1 gp
 rarity: Common
-requirement: null
-rus_type_level: null
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
 trait:
 - '[[DATABASE/trait/Meal|Meal]]'

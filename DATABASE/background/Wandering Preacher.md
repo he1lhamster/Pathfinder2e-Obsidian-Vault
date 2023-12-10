@@ -8,16 +8,13 @@ ability_boost:
 feat: '[[DATABASE/feat/Pilgrim''s Token|Pilgrim''s Token]]'
 id: '278'
 name: Wandering Preacher
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Religion|Religion]]'
 - '[[DATABASE/skill/Lore|Lore]] associated with the deity you preach for (such as
   [[DATABASE/deity/Pharasma|Pharasmin]] Lore).'
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

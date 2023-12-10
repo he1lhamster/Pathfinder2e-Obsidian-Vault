@@ -1,10 +1,7 @@
 ﻿---
 ac: '39'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+9'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Attack of Opportunity
@@ -13,13 +10,10 @@ creature_ability:
 - Shadow Touch
 creature_family: '[[DATABASE/monsterfamily/Oni|Oni]]'
 dexterity: '+6'
-element: null
 fly_speed: '40'
 fortitude: '+25'
-hardness: null
 hp: '290'
 id: '1404'
-immunity: null
 intelligence: '+6'
 land_speed: '40'
 language:
@@ -31,9 +25,6 @@ name: Shadow Yai
 perception: '+28'
 rarity: Common
 reflex: '+28'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 size: Large
@@ -61,7 +52,6 @@ strength: '+8'
 strength_req: '8'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fiend|Fiend]]'
 - '[[DATABASE/trait/Giant|Giant]]'
@@ -72,7 +62,6 @@ type: Creature
 vision: Greater darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+26'
 wisdom: '+6'
 

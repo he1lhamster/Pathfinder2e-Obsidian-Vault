@@ -1,19 +1,14 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 frequency: once per day
 id: '540'
 name: Tail Toxin
 rarity: Common
 requirement: You are wielding a piercing or slashing weapon.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 trait:
 - '[[DATABASE/trait/Kobold|Kobold]]'
 - '[[DATABASE/trait/Poison|Poison]]'
-trigger: null
 type: Action
 
 ---

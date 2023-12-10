@@ -3,7 +3,6 @@ bloodline: Genie
 id: '11'
 name: Genie
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 spell:
 - '[[DATABASE/spell/Abyssal Plague|Abyssal Plague]]'
@@ -19,7 +18,6 @@ spell:
 - '[[DATABASE/spell/Resplendent Mansion|Resplendent Mansion]]'
 - '[[DATABASE/spell/True Seeing|True Seeing]]'
 - '[[DATABASE/spell/Wish-Twisted Form|Wish-Twisted Form]]'
-trait: null
 type: Sorcerer Bloodline
 
 ---

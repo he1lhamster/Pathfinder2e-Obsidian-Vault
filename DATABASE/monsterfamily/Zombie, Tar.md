@@ -3,10 +3,8 @@ creature_family: Zombie, Tar
 id: '303'
 name: Zombie, Tar
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 177. Burning Tundra|Pathfinder #177: Burning
   Tundra]]'
-trait: null
 type: Creature Family
 
 ---

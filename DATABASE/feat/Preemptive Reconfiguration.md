@@ -1,20 +1,12 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Preemptive Reconfiguration
 frequency: once per day
-heighten_level: null
 id: '2486'
 level: '9'
 name: Preemptive Reconfiguration
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Aphorite|Aphorite]]'
 trigger: You would take bludgeoning, piercing, or slashing damage.

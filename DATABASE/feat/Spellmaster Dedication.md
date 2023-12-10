@@ -1,26 +1,23 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Spellmaster Dedication
-frequency: null
-heighten_level: null
 id: '1134'
+leads_to: '[[DATABASE/feat/Absorb Spell|Absorb Spell]] , [[DATABASE/feat/Communal
+  Sustain|Communal Sustain]] , [[DATABASE/feat/Familiar Form|Familiar Form]] , [[DATABASE/feat/Glyph
+  Expert|Glyph Expert]] , [[DATABASE/feat/Master''s Counterspell|Master''s Counterspell]]
+  , [[DATABASE/feat/Mobile Magical Combat|Mobile Magical Combat]] , [[DATABASE/feat/Recover
+  Spell|Recover Spell]] , [[DATABASE/feat/Spellmaster''s Resilience|Spellmaster''s
+  Resilience]] , [[DATABASE/feat/Spellmaster''s Ward|Spellmaster''s Ward]] , [[DATABASE/feat/Surreptitious
+  Spellcaster|Surreptitious Spellcaster]] , [[DATABASE/feat/Ward Casting|Ward Casting]]'
 level: '6'
 name: Spellmaster Dedication
 prerequisite: Intelligence 14, Wisdom 14, or Charisma 14; ability to cast focus spells;
   member of the PathfinderSociety affiliated with the School of Spells
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

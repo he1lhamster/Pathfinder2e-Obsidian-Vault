@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Water Nagaji
-frequency: null
-heighten_level: null
 id: '3986'
+leads_to: '[[DATABASE/feat/Serpentine Swimmer|Serpentine Swimmer]]'
 level: '1'
 name: Water Nagaji
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Nagaji|Nagaji]]'
-trigger: null
 type: Feat
 
 ---

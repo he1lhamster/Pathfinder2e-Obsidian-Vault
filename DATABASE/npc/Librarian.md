@@ -1,21 +1,15 @@
 ﻿---
 ac: '13'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Methodical Research
 creature_family: '[[DATABASE/monsterfamily/Scholars|Scholars]]'
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+2'
 hp: '6'
 id: '947'
-immunity: null
 intelligence: '+4'
 land_speed: '25'
 language:
@@ -26,9 +20,6 @@ name: Librarian
 perception: '+7'
 rarity: Common
 reflex: '+3'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Lore|Academia Lore]] +11'
@@ -39,20 +30,16 @@ skill:
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 speed:
 - 25 feet
-spell: null
 strength: '+0'
 strength_req: '0'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+7'
 wisdom: '+3'
 

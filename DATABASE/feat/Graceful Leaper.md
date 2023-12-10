@@ -1,25 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Graceful Leaper
-frequency: null
-heighten_level: null
 id: '1876'
 level: '7'
 name: Graceful Leaper
 prerequisite: '[[DATABASE/feat/Acrobat Dedication|Acrobat Dedication]] ; Master in
   [[DATABASE/skill/Acrobatics|Acrobatics]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

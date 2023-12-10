@@ -1,26 +1,18 @@
 ﻿---
 ac: '21'
-burrow_speed: null
-climb_speed: null
 fly_speed: '30'
 fortitude: '+14'
 hardness: '9'
 hp: '79'
 id: '53'
 item_category: Vehicles
-land_speed: null
 level: '6'
 max_speed: '30'
 name: Cauldron of Flying
 price: 1,100 gp
 rarity: Rare
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 size: Medium
 source: '[[DATABASE/source/Pathfinder 182. Graveclaw|Pathfinder #182: Graveclaw]]'
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Rare|Rare]]'

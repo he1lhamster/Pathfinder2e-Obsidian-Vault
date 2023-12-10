@@ -1,26 +1,18 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Everstand Stance
-frequency: null
-heighten_level: null
 id: '1087'
+leads_to: '[[DATABASE/feat/Everstand Strike|Everstand Strike]]'
 level: '1'
 name: Everstand Stance
-prerequisite: null
 rarity: Uncommon
 requirement: You are wielding a shield.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Champion|Champion]]'
 - '[[DATABASE/trait/Fighter|Fighter]]'
 - '[[DATABASE/trait/Stance|Stance]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

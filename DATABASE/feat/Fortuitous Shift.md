@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Fortuitous Shift
-frequency: null
-heighten_level: null
 id: '998'
 level: '9'
 name: Fortuitous Shift
 prerequisite: '[[DATABASE/feat/Unexpected Shift|Unexpected Shift]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Gnome|Gnome]]'
-trigger: null
 type: Feat
 
 ---

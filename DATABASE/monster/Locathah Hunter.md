@@ -1,10 +1,7 @@
 ﻿---
 ac: '20'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Cooperative Hunting
@@ -14,13 +11,9 @@ creature_ability:
 - Smooth Swimmer
 creature_family: '[[DATABASE/monsterfamily/Locathah|Locathah]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+7'
-hardness: null
 hp: '38'
 id: '1223'
-immunity: null
 intelligence: '+1'
 land_speed: '10'
 language:
@@ -32,9 +25,6 @@ name: Locathah Hunter
 perception: '+9'
 rarity: Common
 reflex: '+10'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
@@ -48,7 +38,6 @@ source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 10 feet
 - swim 40 feet; smooth swimmer
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
@@ -62,7 +51,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+9'
 wisdom: '+2'
 

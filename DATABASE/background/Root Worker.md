@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Root Magic|Root Magic]]'
 id: '175'
 name: Root Worker
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Occultism|Occultism]]'
 - Herbalism [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

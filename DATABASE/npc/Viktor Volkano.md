@@ -1,26 +1,18 @@
 ﻿---
 ac: '16'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Breathe Fire
 - Ignite Baton
 - Set on Fire
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+11'
 hp: '40'
 id: '2013'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
-language: null
 level: '2'
 max_speed: '25'
 name: Viktor Volkano
@@ -29,8 +21,6 @@ rarity: Unique
 reflex: '+8'
 resistance:
 - '[[DATABASE/trait/Fire|fire]] 5'
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Arcana|Arcana]] +6'
@@ -41,22 +31,18 @@ source: '[[DATABASE/source/Pathfinder 151. The Show Must Go On|Pathfinder #151: 
   Show Must Go On]]'
 speed:
 - 25 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
 - Will
-weakness: null
 will: '+8'
 wisdom: '+0'
 

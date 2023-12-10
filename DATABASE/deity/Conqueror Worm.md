@@ -1,6 +1,4 @@
 ﻿---
-ability: null
-ability_boost: null
 alignment: No Alignment
 deity:
 - '[[DATABASE/deity/Conqueror Worm|Conqueror Worm]]'
@@ -19,11 +17,9 @@ follower_alignment:
 id: '234'
 name: Conqueror Worm
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Deception|Deception]]'
 source: '[[DATABASE/source/Night of the Gray Death|Night of the Gray Death]]'
-trait: null
 type: Deity
 
 ---

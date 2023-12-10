@@ -1,23 +1,15 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Torrential Backlash
-frequency: null
-heighten_level: null
 id: '3835'
 level: '10'
 name: Torrential Backlash
 prerequisite: '[[DATABASE/feat/Curse Maelstrom Dedication|Curse Maelstrom Dedication]]'
 rarity: Common
 requirement: You are in a curse maelstrom state.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,20 +1,14 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Eat Fortune
 frequency: once per day
-heighten_level: null
 id: '1315'
+leads_to: '[[DATABASE/feat/Jinx Glutton|Jinx Glutton]]'
 level: '5'
 name: Eat Fortune
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Divination
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Divination|Divination]]'

@@ -1,26 +1,20 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Provocator Dedication
-frequency: null
-heighten_level: null
 id: '2211'
+leads_to: '[[DATABASE/feat/Cartwheel Dodge|Cartwheel Dodge]] , [[DATABASE/feat/Flourishing
+  Finish|Flourishing Finish]] , [[DATABASE/feat/Murderer''s Circle|Murderer''s Circle]]
+  , [[DATABASE/feat/Performance Weapon Expert|Performance Weapon Expert]] , [[DATABASE/feat/Pin
+  to the Spot|Pin to the Spot]]'
 level: '10'
 name: Provocator Dedication
 prerequisite: Strength 14; Charisma 14
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 159. All or Nothing|Pathfinder #159: All or
   Nothing]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

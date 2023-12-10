@@ -1,7 +1,5 @@
 ﻿---
-advanced_apocryphal_spell: null
 advanced_domain_spell: '[[DATABASE/spell/Ephemeral Hazards|Ephemeral Hazards]]'
-apocryphal_spell: null
 deity:
 - '[[DATABASE/deity/Narriseminek|Narriseminek]]'
 - '[[DATABASE/deity/Nhimbaloth|Nhimbaloth]]'
@@ -19,9 +17,7 @@ domain_spell: '[[DATABASE/spell/Hyperfocus|Hyperfocus]]'
 id: '43'
 name: Delirium Domain
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
-trait: null
 type: Domain
 
 ---

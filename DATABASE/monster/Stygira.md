@@ -1,22 +1,16 @@
 ﻿---
 ac: '26'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Gem Gaze
 - Gemsight
 - Light Sickness
 - Stone Curse
-creature_family: null
 dexterity: '+4'
 element: Earth
-fly_speed: null
 fortitude: '+15'
-hardness: null
 hp: '80'
 id: '821'
 immunity:
@@ -38,8 +32,6 @@ rarity: Uncommon
 reflex: '+13'
 resistance:
 - physical 10 (except adamantine)
-rus_type_level: null
-school: null
 sense:
 - gemsight
 size: Medium
@@ -66,13 +58,11 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
 weakness:

@@ -1,36 +1,21 @@
 ﻿---
 actions: '[one-action]'
-area: null
-bloodline: null
 component:
 - Somatic
-cost: null
-deity: null
-domain: null
 duration: until the Arcane Cascade stance ends
-element: null
 heighten: '+3'
 heighten_level: 3, 6, 9
 id: '1036'
-lesson: null
 level: '3'
-mystery: null
 name: Cascade Countermeasure
-patron_theme: null
-range: null
 rarity: Uncommon
 requirement: You're benefiting from Arcane Cascade.
-rus_type_level: null
-saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-target: null
-tradition: null
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Magus|Magus]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Focus
 
 ---

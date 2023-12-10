@@ -1,39 +1,27 @@
 ﻿---
 actions: '[three-actions]'
 area: 30-foot burst
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 1 minute
-element: null
 heighten: 9th
 heighten_level: 7, 9
 id: '996'
-lesson: null
 level: '7'
-mystery: null
 name: Shadow Raid
-patron_theme: null
 range: 120 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: basicReflex or Will (target's choice)
 school: Illusion
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-target: null
 tradition:
 - Arcane
 - Occult
 trait:
 - '[[DATABASE/trait/Illusion|Illusion]]'
 - '[[DATABASE/trait/Shadow|Shadow]]'
-trigger: null
 type: Spell
 
 ---

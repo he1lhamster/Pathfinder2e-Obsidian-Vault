@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Mantis Form
-frequency: null
-heighten_level: null
 id: '899'
 level: '8'
 name: Mantis Form
 prerequisite: '[[DATABASE/feat/Basic Red Mantis Magic|Basic Red Mantis Magic]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/World Guide|World Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,22 +1,15 @@
 ﻿---
 ac: '19'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Toss Kobold
 creature_family: '[[DATABASE/monsterfamily/Ogre|Ogre]]'
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+14'
-hardness: null
 hp: '65'
 id: '1031'
-immunity: null
 intelligence: '-2'
 land_speed: '25'
 language:
@@ -28,9 +21,6 @@ name: Ogre Hurler
 perception: '+10'
 rarity: Uncommon
 reflex: '+11'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -41,12 +31,10 @@ source: '[[DATABASE/source/Pathfinder Encounter. Heaving Kobolds|Pathfinder Enco
   Heaving Kobolds]]'
 speed:
 - 25 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Giant|Giant]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -55,7 +43,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+8'
 wisdom: '+0'
 

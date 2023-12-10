@@ -1,42 +1,28 @@
 ﻿---
-actions: null
 area: 100-foot burst
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Bastet|Bastet]]'
 - '[[DATABASE/deity/Count Ranalc|CountRanalc]]'
 - '[[DATABASE/deity/Nivi Rhombodazzle|Nivi Rhombodazzle]]'
-domain: null
 duration: until the next time you make your daily preparations.
-element: null
-heighten: null
 heighten_level: '4'
 id: '235'
-lesson: null
 level: '4'
-mystery: null
 name: Private Sanctum
-patron_theme: null
 range: touch
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Arcane
 - Occult
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Spell
 
 ---

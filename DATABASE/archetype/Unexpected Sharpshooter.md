@@ -2,9 +2,7 @@
 id: '123'
 level: '2'
 name: Unexpected Sharpshooter
-prerequisite: null
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

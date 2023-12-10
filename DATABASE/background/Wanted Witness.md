@@ -1,18 +1,8 @@
 ﻿---
-ability: null
-ability_boost: null
-feat: null
 id: '300'
 name: Wanted Witness
-prerequisite: null
-rarity: null
-rus_type_level: null
-skill: null
 source: '[[DATABASE/source/Outlaws of Alkenstar Player''s Guide|Outlaws of Alkenstar
   Player''s Guide]]'
-subcategory: null
-trait: null
-type: null
 
 ---
 # Wanted Witness<span class="item-type">Background</span>

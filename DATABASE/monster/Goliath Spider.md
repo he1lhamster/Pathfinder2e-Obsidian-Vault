@@ -1,8 +1,6 @@
 ﻿---
 ac: '30'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-4'
 climb_speed: '30'
 constitution: '+7'
@@ -15,25 +13,17 @@ creature_ability:
 - Web Tether
 creature_family: '[[DATABASE/monsterfamily/Spider|Spider]]'
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+25'
-hardness: null
 hp: '220'
 id: '388'
-immunity: null
 intelligence: '-5'
 land_speed: '45'
-language: null
 level: '11'
 max_speed: '45'
 name: Goliath Spider
 perception: '+22'
 rarity: Common
 reflex: '+21'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - web sense
@@ -46,19 +36,16 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 45 feet
 - climb 30 feet
-spell: null
 strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+17'
 wisdom: '+3'
 

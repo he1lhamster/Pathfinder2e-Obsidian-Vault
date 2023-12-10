@@ -1,8 +1,6 @@
 ﻿---
 ac: '19'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
 climb_speed: '25'
 constitution: '+1'
@@ -11,13 +9,9 @@ creature_ability:
 - Thrown Weapon Mastery
 creature_family: '[[DATABASE/monsterfamily/Charau-ka|Charau-ka]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+8'
-hardness: null
 hp: '45'
 id: '1431'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -30,9 +24,6 @@ name: Charau-ka Acolyte of Angazhan
 perception: '+8'
 rarity: Common
 reflex: '+7'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -62,7 +53,6 @@ strength: '+2'
 strength_req: '2'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Charau-ka|Charau-ka]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -70,7 +60,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+11'
 wisdom: '+4'
 

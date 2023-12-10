@@ -1,11 +1,8 @@
 ﻿---
-element: null
 id: '24'
 item_category: Relics
 name: Grim Specter
-prerequisite: null
 rarity: Common
-rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:

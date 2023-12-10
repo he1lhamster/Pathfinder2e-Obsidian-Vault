@@ -1,22 +1,16 @@
 ﻿---
 ac: '41'
 alignment: NG
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Attack of Opportunity
 - Aura of Peace
 - Banishing Swipe
 - Radiant Feathers
-creature_family: null
 dexterity: '+3'
-element: null
 fly_speed: '90'
 fortitude: '+30'
-hardness: null
 hp: '350'
 id: '370'
 immunity:
@@ -36,9 +30,6 @@ name: Simurgh
 perception: '+32'
 rarity: Rare
 reflex: '+29'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Gargantuan
@@ -68,7 +59,6 @@ strength: '+8'
 strength_req: '8'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Rare|Rare]]'
@@ -76,7 +66,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+32'
 wisdom: '+6'
 

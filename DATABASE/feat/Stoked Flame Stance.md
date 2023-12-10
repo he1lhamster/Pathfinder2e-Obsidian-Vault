@@ -1,26 +1,21 @@
 ﻿---
 actions: '[one-action]'
-cost: null
 element: Fire
 feat: Stoked Flame Stance
-frequency: null
-heighten_level: null
 id: '2981'
+leads_to: '[[DATABASE/feat/Blazing Streak|Blazing Streak]] , [[DATABASE/feat/Inner
+  Fire (SoM)|Inner Fire (SoM)]]'
 level: '1'
 name: Stoked Flame Stance
-prerequisite: null
 rarity: Common
 requirement: You're unarmored.
-rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Fire|Fire]]'
 - '[[DATABASE/trait/Monk|Monk]]'
 - '[[DATABASE/trait/Stance|Stance]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,10 +1,8 @@
 ﻿---
-element: null
 id: '25'
 level: '13'
 name: Spirit Anchor
 rarity: Common
-rus_type_level: null
 saving_throw: DC 31 Fortitude
 school: Necromancy
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
@@ -14,7 +12,6 @@ trait:
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Negative|Negative]]'
 type: Curse
-usage: null
 
 ---
 # Spirit Anchor<span class="item-type">Curse 13</span>

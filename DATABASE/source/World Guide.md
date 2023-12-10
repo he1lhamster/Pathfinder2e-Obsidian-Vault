@@ -2,9 +2,6 @@
 id: '6'
 name: World Guide
 rarity: Common
-rus_type_level: null
-source: null
-trait: null
 type: Source
 
 ---

@@ -4,7 +4,6 @@ id: '30'
 level: '6'
 name: Luxury Store
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
 - '[[DATABASE/trait/Building|Building]]'

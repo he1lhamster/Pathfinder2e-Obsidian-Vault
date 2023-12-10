@@ -1,42 +1,27 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Diomazul|Diomazul]]'
 - '[[DATABASE/deity/Diomazul|Diomazul]]'
 - '[[DATABASE/deity/Narakaas|Narakaas]]'
 - '[[DATABASE/deity/Narakaas|Narakaas]]'
 - '[[DATABASE/deity/Vildeis|Vildeis]]'
-domain: null
 duration: 1 hour
-element: null
-heighten: null
 heighten_level: '2'
 id: '589'
-lesson: null
 level: '2'
-mystery: null
 name: Slough Skin
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Necromancy
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
-target: null
 tradition:
 - Arcane
 - Primal
 trait:
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
-trigger: null
 type: Spell
 
 ---

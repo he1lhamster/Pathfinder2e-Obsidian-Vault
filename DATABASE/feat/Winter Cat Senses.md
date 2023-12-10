@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Winter Cat Senses
-frequency: null
-heighten_level: null
 id: '2317'
 level: '1'
 name: Winter Cat Senses
 prerequisite: '[[DATABASE/heritage/Winter Catfolk|Winter Catfolk]] heritage'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Catfolk|Catfolk]]'
-trigger: null
 type: Feat
 
 ---

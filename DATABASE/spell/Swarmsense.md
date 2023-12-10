@@ -1,36 +1,20 @@
 ﻿---
-actions: null
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
 domain:
 - '[[DATABASE/domain/Swarm Domain|Swarm]]'
 duration: sustained
-element: null
 heighten: 3rd, 5th, 7th
 heighten_level: 1, 3, 5, 7
 id: '620'
-lesson: null
 level: '1'
-mystery: null
 name: Swarmsense
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
-target: null
-tradition: null
 trait:
 - '[[DATABASE/trait/Divination|Divination]]'
-trigger: null
 type: Focus
 
 ---

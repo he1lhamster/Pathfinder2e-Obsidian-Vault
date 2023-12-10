@@ -2,7 +2,6 @@
 id: '38'
 name: Curse
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - Curse

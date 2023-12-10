@@ -1,7 +1,5 @@
 ﻿---
-advanced_apocryphal_spell: null
 advanced_domain_spell: '[[DATABASE/spell/Roar of the Wyrm|Roar of the Wyrm]]'
-apocryphal_spell: null
 deity:
 - '[[DATABASE/deity/Abraxas|Abraxas]]'
 - '[[DATABASE/deity/Apsu|Apsu]]'
@@ -22,9 +20,7 @@ domain_spell: '[[DATABASE/spell/Draconic Barrage|Draconic Barrage]]'
 id: '57'
 name: Wyrmkin Domain
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
-trait: null
 type: Domain
 
 ---

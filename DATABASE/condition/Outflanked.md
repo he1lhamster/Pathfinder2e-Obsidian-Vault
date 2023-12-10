@@ -1,7 +1,6 @@
 ﻿---
 id: '53'
 name: Outflanked
-source: null
 
 ---
 # Outflanked

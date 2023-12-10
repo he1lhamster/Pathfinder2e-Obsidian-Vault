@@ -1,11 +1,9 @@
 ﻿---
-element: null
 id: '23'
 item_category: Relics
 name: Tide of Death
 prerequisite: death gaze gift
 rarity: Common
-rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:

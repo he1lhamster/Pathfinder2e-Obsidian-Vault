@@ -1,8 +1,6 @@
 ﻿---
 ac: '34'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
 climb_speed: '20'
 constitution: '+4'
@@ -18,10 +16,7 @@ creature_ability:
 - Wind-Up
 creature_family: '[[DATABASE/monsterfamily/Clockworks|Clockworks]]'
 dexterity: '+8'
-element: null
-fly_speed: null
 fortitude: '+23'
-hardness: null
 hp: '230'
 id: '1004'
 immunity:
@@ -41,7 +36,6 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '30'
-language: null
 level: '13'
 max_speed: '30'
 name: Clockwork Assassin
@@ -50,8 +44,6 @@ rarity: Uncommon
 reflex: '+29'
 resistance:
 - physical 10 (except [[DATABASE/equipment/Adamantine Weapon|adamantine]] or orichalcum)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - smoke vision
@@ -65,12 +57,10 @@ source: '[[DATABASE/source/Pathfinder 160. Assault on Hunting Lodge Seven|Pathfi
 speed:
 - 30 feet
 - climb 20 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Clockwork|Clockwork]]'
 - '[[DATABASE/trait/Construct|Construct]]'

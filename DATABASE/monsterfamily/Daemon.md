@@ -3,9 +3,7 @@ creature_family: Daemon
 id: '26'
 name: Daemon
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
-trait: null
 type: Creature Family
 
 ---

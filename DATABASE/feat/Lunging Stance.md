@@ -1,24 +1,16 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Lunging Stance
-frequency: null
-heighten_level: null
 id: '411'
 level: '12'
 name: Lunging Stance
 prerequisite: '[[DATABASE/action/Attack of Opportunity|attack of opportunity]] ; [[DATABASE/feat/Lunge|Lunge]]'
 rarity: Common
 requirement: You are wielding a melee weapon.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fighter|Fighter]]'
 - '[[DATABASE/trait/Stance|Stance]]'
-trigger: null
 type: Feat
 
 ---

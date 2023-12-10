@@ -1,8 +1,5 @@
 ﻿---
 ac: '30'
-alignment: null
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
 climb_speed: '25'
 constitution: '+7'
@@ -19,12 +16,9 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Genie|Genie]]'
 dexterity: '+5'
 element: Wood
-fly_speed: null
 fortitude: '+24'
-hardness: null
 hp: '220'
 id: '2682'
-immunity: null
 intelligence: '+4'
 land_speed: '25'
 language:
@@ -38,9 +32,6 @@ name: Kizidhar Shuyookh
 perception: '+22'
 rarity: Rare
 reflex: '+20'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -72,7 +63,6 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Elemental|Elemental]]'
 - '[[DATABASE/trait/Genie|Genie]]'

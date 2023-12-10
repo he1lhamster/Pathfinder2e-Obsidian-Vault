@@ -1,24 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Emberkin
-frequency: null
-heighten_level: null
 id: '2283'
+leads_to: '[[DATABASE/feat/Flame Jump|Flame Jump]] , [[DATABASE/feat/Peri Magic|Peri
+  Magic]]'
 level: '1'
 name: Emberkin
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Aasimar|Aasimar]]'
 - '[[DATABASE/trait/Lineage|Lineage]]'
-trigger: null
 type: Feat
 
 ---

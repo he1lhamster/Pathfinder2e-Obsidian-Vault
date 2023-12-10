@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Aura of Preservation
-frequency: null
-heighten_level: null
 id: '1687'
 level: '14'
 name: Aura of Preservation
 prerequisite: '[[DATABASE/feat/Esoteric Oath|Esoteric Oath]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Champion|Champion]]'
-trigger: null
 type: Feat
 
 ---

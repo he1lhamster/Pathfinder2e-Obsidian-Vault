@@ -1,31 +1,15 @@
 ﻿---
 actions: '[reaction]'
 area: 60-foot emanation
-bloodline: null
 component:
 - Somatic or Verbal
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
-heighten: null
 heighten_level: '1'
 id: '381'
-lesson: null
 level: '1'
-mystery: null
 name: Counter Performance
-patron_theme: null
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Enchantment
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
-tradition: null
 trait:
 - '[[DATABASE/trait/Bard|Bard]]'
 - '[[DATABASE/trait/Composition|Composition]]'

@@ -1,8 +1,6 @@
 ﻿---
 ac: '43'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+7'
 climb_speed: '40'
 constitution: '+8'
@@ -13,10 +11,8 @@ creature_ability:
 - Curse of the Crooked Cane
 creature_family: '[[DATABASE/monsterfamily/Linnorm|Linnorm]]'
 dexterity: '+6'
-element: null
 fly_speed: '100'
 fortitude: '+34'
-hardness: null
 hp: '360'
 id: '722'
 immunity:
@@ -36,9 +32,6 @@ name: Cairn Linnorm
 perception: '+30'
 rarity: Uncommon
 reflex: '+30'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent (imprecise) 60 feet]]'

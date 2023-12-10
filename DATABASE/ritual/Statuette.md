@@ -1,9 +1,4 @@
 ﻿---
-area: null
-cost: null
-duration: null
-element: null
-heighten: null
 heighten_level: '6'
 id: '24'
 level: '6'
@@ -11,9 +6,6 @@ name: Statuette
 primary_check: '[[DATABASE/skill/Arcana|Arcana]] (expert)'
 range: 10 feet
 rarity: Rare
-requirement: null
-rus_type_level: null
-school: null
 secondary_casters: '2'
 secondary_check: '[[DATABASE/skill/Crafting|Crafting]] , [[DATABASE/skill/Occultism|Occultism]]'
 source: '[[DATABASE/source/Pathfinder 154. Siege of the Dinosaurs|Pathfinder #154:

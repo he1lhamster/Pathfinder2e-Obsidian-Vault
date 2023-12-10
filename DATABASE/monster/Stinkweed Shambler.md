@@ -1,8 +1,6 @@
 ﻿---
 ac: '18'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
 climb_speed: '10'
 constitution: '+3'
@@ -11,15 +9,10 @@ creature_ability:
 - Stinky Leaves
 - Waving Weed
 - Woodland Stride
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+7'
-hardness: null
 hp: '30'
 id: '1026'
-immunity: null
 intelligence: '-2'
 land_speed: '20'
 language:
@@ -30,9 +23,6 @@ name: Stinkweed Shambler
 perception: '+8'
 rarity: Common
 reflex: '+10'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Small
@@ -45,12 +35,10 @@ source: '[[DATABASE/source/Troubles in Otari|Troubles in Otari]]'
 speed:
 - 20 feet
 - climb 10 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Plant|Plant]]'
 type: Creature

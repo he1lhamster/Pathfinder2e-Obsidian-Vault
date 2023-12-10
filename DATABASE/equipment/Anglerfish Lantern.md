@@ -1,53 +1,19 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
 bulk: '1'
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
+element: Water
 id: '2624'
 item_category: Held Items
-item_subcategory: null
-land_speed: null
-level: '8'
-max_speed: null
+level: '5'
 name: Anglerfish Lantern
-onset: null
-price: 500 gp
-range: null
-rarity: Uncommon
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
-school: null
-size: null
+price: 150 gp
+rarity: Common
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-spell: null
-stage: null
 subcategory: helditem
-swim_speed: null
 trait:
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
+- '[[DATABASE/trait/Magical|Magical]]'
+- '[[DATABASE/trait/Water|Water]]'
 type: Item
 usage: held in 1 hand
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Anglerfish Lantern<span class="item-type">Item 5+</span>

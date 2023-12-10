@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Specialty Crafting|Specialty Crafting]]'
 id: '261'
 name: Toymaker
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Crafting|Crafting]]'
 - Mercantile [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

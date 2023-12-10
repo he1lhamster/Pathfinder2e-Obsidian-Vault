@@ -1,11 +1,7 @@
 ﻿---
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+2'
 dexterity: '+2'
-element: null
-fly_speed: null
 hp: '6'
 id: '26'
 intelligence: '-4'
@@ -13,7 +9,6 @@ land_speed: '30'
 max_speed: '30'
 name: Capybara
 rarity: Common
-rus_type_level: null
 sense:
 - low-light vision
 - scent(imprecise
@@ -28,7 +23,6 @@ speed:
 strength: '+2'
 strength_req: '2'
 swim_speed: '15'
-trait: null
 type: Animal Companion
 wisdom: '+2'
 

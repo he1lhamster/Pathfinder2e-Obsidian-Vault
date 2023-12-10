@@ -1,7 +1,5 @@
 ﻿---
-advanced_apocryphal_spell: null
 advanced_domain_spell: '[[DATABASE/spell/Ghostly Transcription|Ghostly Transcription]]'
-apocryphal_spell: null
 deity:
 - '[[DATABASE/deity/Asmodeus|Asmodeus]]'
 - '[[DATABASE/deity/Dwarven Pantheon|DwarvenPantheon]]'
@@ -33,9 +31,7 @@ domain_spell: '[[DATABASE/spell/Redact|Redact]]'
 id: '46'
 name: Glyph Domain
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
-trait: null
 type: Domain
 
 ---

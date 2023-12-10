@@ -1,18 +1,8 @@
 ﻿---
-ability: null
-ability_boost: null
-feat: null
 id: '146'
 name: Iolite Trainee Hobgoblin
-prerequisite: null
-rarity: null
-rus_type_level: null
-skill: null
 source: '[[DATABASE/source/PFS Scenario 1-19. Iolite Squad Alpha|PFS Scenario #1-19:
   Iolite Squad Alpha]]'
-subcategory: null
-trait: null
-type: null
 
 ---
 # Iolite Trainee Hobgoblin<span class="item-type">Background</span>

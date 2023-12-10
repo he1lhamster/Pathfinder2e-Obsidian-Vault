@@ -1,31 +1,16 @@
 ﻿---
 actions: '[reaction]'
-area: null
-bloodline: null
-component: null
-cost: null
-deity: null
 domain:
 - '[[DATABASE/domain/Metal Domain|Metal]]'
-duration: null
 element: Metal
-heighten: null
 heighten_level: '4'
 id: '1381'
-lesson: null
 level: '4'
-mystery: null
 name: Repel Metal
-patron_theme: null
 range: 60 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 target: the creature targeted by the triggering Strike
-tradition: null
 trait:
 - '[[DATABASE/trait/Focus|Focus]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'

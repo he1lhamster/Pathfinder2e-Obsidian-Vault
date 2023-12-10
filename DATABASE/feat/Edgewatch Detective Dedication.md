@@ -1,26 +1,19 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Edgewatch Detective Dedication
-frequency: null
-heighten_level: null
 id: '2193'
+leads_to: '[[DATABASE/feat/Arcane Sensitivity|Arcane Sensitivity]] , [[DATABASE/feat/Bolera''s
+  Interrogation|Bolera''s Interrogation]] , [[DATABASE/feat/Sense Alignment|Sense
+  Alignment]]'
 level: '2'
 name: Edgewatch Detective Dedication
 prerequisite: Intelligence 14 or Wisdom 14
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 157. Devil at the Dreaming Palace|Pathfinder
   #157: Devil at the Dreaming Palace]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

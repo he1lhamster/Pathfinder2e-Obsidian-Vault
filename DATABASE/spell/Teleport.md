@@ -1,31 +1,18 @@
 ﻿---
-actions: null
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Barzahk|Barzahk]]'
 - '[[DATABASE/deity/Pulura|Pulura]]'
-domain: null
-duration: null
-element: null
 heighten: 7th, 8th, 9th, 10th
 heighten_level: 6, 7, 8, 9, 10
 id: '338'
-lesson: null
 level: '6'
-mystery: null
 name: Teleport
-patron_theme: null
 range: 100 miles
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: you and up to 4 targets touched, either willing creatures or objects roughly
@@ -38,7 +25,6 @@ trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Teleportation|Teleportation]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Spell
 
 ---

@@ -1,10 +1,8 @@
 ﻿---
 ac: '28'
 alignment: CE
-all_resistance: null
 burrow_speed: '5'
 charisma: '+1'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Attack of Opportunity
@@ -14,12 +12,8 @@ creature_ability:
 - Sneak Attack
 - Stench
 - Swift Leap
-creature_family: null
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+18'
-hardness: null
 hp: 155 ( negative healing )
 id: '2091'
 immunity:
@@ -39,9 +33,6 @@ name: Ghast Outlaw
 perception: '+15'
 rarity: Uncommon
 reflex: '+20'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -57,12 +48,10 @@ source: '[[DATABASE/source/Pathfinder 183. Field of Maidens|Pathfinder #183: Fie
 speed:
 - 30 feet
 - burrow 5 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Ghoul|Ghoul]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
@@ -71,7 +60,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+16'
 wisdom: '+3'
 

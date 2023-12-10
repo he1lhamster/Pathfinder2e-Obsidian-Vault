@@ -1,13 +1,9 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
-frequency: null
 id: '759'
 name: Share Senses
 rarity: Common
 requirement: Your eidolon is manifested.
-rus_type_level: null
 school: Divination
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
 trait:
@@ -15,7 +11,6 @@ trait:
 - '[[DATABASE/trait/Divination|Divination]]'
 - '[[DATABASE/trait/Scrying|Scrying]]'
 - '[[DATABASE/trait/Summoner|Summoner]]'
-trigger: null
 type: Action
 
 ---

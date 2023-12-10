@@ -2,7 +2,6 @@
 id: '69'
 name: Fey
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - Fey

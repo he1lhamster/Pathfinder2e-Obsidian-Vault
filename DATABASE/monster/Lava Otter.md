@@ -1,10 +1,6 @@
 ﻿---
 ac: '15'
-alignment: null
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Below the Crust
@@ -14,9 +10,7 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Elemental, Fire|Elemental, Fire]]'
 dexterity: '+4'
 element: Fire
-fly_speed: null
 fortitude: '+6'
-hardness: null
 hp: '22'
 id: '2633'
 immunity:
@@ -27,16 +21,12 @@ immunity:
 - sleep
 intelligence: '-4'
 land_speed: '25'
-language: null
 level: '1'
 max_speed: '40'
 name: Lava Otter
 perception: '+7'
 rarity: Common
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -47,7 +37,6 @@ source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 speed:
 - 25 feet
 - swim 40 feet (in lava only)
-spell: null
 strength: '+1'
 strength_req: '1'
 strongest_save:

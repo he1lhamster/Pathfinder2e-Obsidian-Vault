@@ -1,24 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Giant Hunter
-frequency: null
-heighten_level: null
 id: '3900'
+leads_to: '[[DATABASE/feat/Giant Slayer|Giant Slayer]] , [[DATABASE/feat/Roll with
+  It (Ranger)|Roll with It (Ranger)]]'
 level: '4'
 name: Giant Hunter
-prerequisite: null
 rarity: Rare
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Ranger|Ranger]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Feat
 
 ---

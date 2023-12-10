@@ -1,27 +1,15 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
 heighten: 9th
 heighten_level: 5, 9
 id: '19'
-lesson: null
 level: '5'
-mystery: null
 name: Banishment
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Will
 school: Abjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -35,7 +23,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Incapacitation|Incapacitation]]'
-trigger: null
 type: Spell
 
 ---

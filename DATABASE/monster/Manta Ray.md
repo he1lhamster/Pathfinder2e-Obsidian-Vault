@@ -1,10 +1,7 @@
 ﻿---
 ac: '16'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Electrolocation
@@ -12,25 +9,16 @@ creature_ability:
 - Swift Swimmer
 creature_family: '[[DATABASE/monsterfamily/Ray|Ray]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+6'
-hardness: null
 hp: '24'
 id: '786'
-immunity: null
 intelligence: '-4'
-land_speed: null
-language: null
 level: '1'
 max_speed: '40'
 name: Manta Ray
 perception: '+6'
 rarity: Common
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - electrolocation (imprecise) 30 feet
 - '[[DATABASE/monsterability/Low-Light Vision|low-lightvision]]'
@@ -40,7 +28,6 @@ skill:
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - swim 40 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
@@ -54,7 +41,6 @@ vision: Low-light vision
 weakest_save:
 - Fortitude
 - Will
-weakness: null
 will: '+6'
 wisdom: '+1'
 

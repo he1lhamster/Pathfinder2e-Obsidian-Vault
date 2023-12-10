@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Versatile Signature
-frequency: null
-heighten_level: null
 id: '191'
 level: '4'
 name: Versatile Signature
 prerequisite: '[[DATABASE/bardmuse/Polymath|polymath muse]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Bard|Bard]]'
-trigger: null
 type: Feat
 
 ---

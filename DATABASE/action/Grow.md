@@ -1,20 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
-frequency: null
 id: '1905'
 name: Grow
 rarity: Rare
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 trait:
 - '[[DATABASE/trait/Downtime|Downtime]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Action
 
 ---

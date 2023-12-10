@@ -1,8 +1,6 @@
 ﻿---
 ac: '20'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+14'
 hardness: '11'
 hazard_type: Haunt
@@ -16,9 +14,6 @@ level: '3'
 name: Lonely Machine Spirit
 rarity: Common
 reflex: '+8'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 178. Punks in a Powderkeg|Pathfinder #178: Punks
   in a Powderkeg]]'
 trait:
@@ -29,7 +24,6 @@ weakness:
 - '[[DATABASE/trait/Electricity|electricity]] 5'
 - '[[DATABASE/equipment/Orichalcum Weapon|orichalcum]] 5'
 - '[[DATABASE/trait/Positive|positive]] 5'
-will: null
 
 ---
 # Lonely Machine Spirit<span class="item-type">Hazard 3</span>

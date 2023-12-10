@@ -3,10 +3,8 @@ creature_family: Karumzek
 id: '290'
 name: Karumzek
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 171. Hurricane''s Howl|Pathfinder #171: Hurricane''s
   Howl]]'
-trait: null
 type: Creature Family
 
 ---

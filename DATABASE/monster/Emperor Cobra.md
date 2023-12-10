@@ -1,8 +1,6 @@
 ﻿---
 ac: '22'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
 climb_speed: '25'
 constitution: '+4'
@@ -11,25 +9,17 @@ creature_ability:
 - Flare Hood
 creature_family: '[[DATABASE/monsterfamily/Snake|Snake]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+15'
-hardness: null
 hp: '80'
 id: '808'
-immunity: null
 intelligence: '-4'
 land_speed: '25'
-language: null
 level: '5'
 max_speed: '25'
 name: Emperor Cobra
 perception: '+13'
 rarity: Common
 reflex: '+11'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Scent|scent (imprecise) 30 feet]]'
@@ -43,7 +33,6 @@ speed:
 - 25 feet
 - climb 25 feet
 - swim 25 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
@@ -55,7 +44,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+9'
 wisdom: '+2'
 

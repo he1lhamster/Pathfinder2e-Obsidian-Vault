@@ -1,10 +1,7 @@
 ﻿---
 ac: '40'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Assimilate Lava
@@ -14,10 +11,8 @@ creature_ability:
 - Vulnerable to Shatter
 creature_family: '[[DATABASE/monsterfamily/Golem|Golem]]'
 dexterity: '+6'
-element: null
 fly_speed: '25'
 fortitude: '+29'
-hardness: null
 hp: '230'
 id: '875'
 immunity:
@@ -39,7 +34,6 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '25'
-language: null
 level: '16'
 max_speed: '25'
 name: Obsidian Golem
@@ -48,8 +42,6 @@ rarity: Uncommon
 reflex: '+24'
 resistance:
 - physical 15 (except adamantine or bludgeoning)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -60,12 +52,10 @@ source: '[[DATABASE/source/Pathfinder 155. Lord of the Black Sands|Pathfinder #1
 speed:
 - 25 feet
 - fly 25 feet
-spell: null
 strength: '+9'
 strength_req: '9'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Golem|Golem]]'
@@ -75,7 +65,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+26'
 wisdom: '+0'
 

@@ -1,38 +1,24 @@
 ﻿---
 actions: '[two-actions]'
 area: 20-foot tall, 60-foot radius cylinder with the ground at the bottom
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 1 minute
-element: null
-heighten: null
 heighten_level: '4'
 id: '1164'
-lesson: null
 level: '4'
-mystery: null
 name: Soft Landing
-patron_theme: null
 range: 1 mile
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-target: null
 tradition:
 - Arcane
 - Occult
 - Primal
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
-trigger: null
 type: Spell
 
 ---

@@ -1,32 +1,18 @@
 ﻿---
 actions: '[reaction]'
-area: null
-bloodline: null
 component:
 - Somatic
-cost: null
-deity: null
 domain:
 - '[[DATABASE/domain/Lightning Domain|Lightning]]'
 duration: 1 minute
-element: null
 heighten: 7th, 10th
 heighten_level: 4, 7, 10
 id: '609'
-lesson: null
 level: '4'
-mystery: null
 name: Bottle the Storm
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
-target: null
-tradition: null
 trait:
 - '[[DATABASE/trait/Electricity|Electricity]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'

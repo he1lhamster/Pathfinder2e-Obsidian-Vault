@@ -1,10 +1,7 @@
 ﻿---
 ac: '25'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Attack of Opportunity
@@ -12,27 +9,18 @@ creature_ability:
 - Drag Below
 - Long Neck
 - Thrashing Retreat
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+17'
-hardness: null
 hp: '125'
 id: '645'
-immunity: null
 intelligence: '-4'
 land_speed: '5'
-language: null
 level: '7'
 max_speed: '35'
 name: Elasmosaurus
 perception: '+16'
 rarity: Common
 reflex: '+13'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Scent|scent (imprecise) 30 feet]]'
@@ -43,7 +31,6 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 5 feet
 - swim 35 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
@@ -55,7 +42,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Reflex
-weakness: null
 will: '+16'
 wisdom: '+5'
 

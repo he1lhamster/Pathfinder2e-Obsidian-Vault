@@ -1,10 +1,7 @@
 ﻿---
 ac: '27'
 alignment: CG
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Breath Weapon
@@ -19,7 +16,6 @@ dexterity: '+3'
 element: Earth
 fly_speed: '120'
 fortitude: '+16'
-hardness: null
 hp: '150'
 id: '148'
 immunity:
@@ -38,9 +34,6 @@ name: Young Copper Dragon
 perception: '+16'
 rarity: Common
 reflex: '+17'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - scent (imprecise) 60 feet
@@ -63,7 +56,6 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dragon|Dragon]]'
 - '[[DATABASE/trait/Earth|Earth]]'
@@ -72,7 +64,6 @@ vision: Darkvision
 weakest_save:
 - Fortitude
 - Will
-weakness: null
 will: '+16'
 wisdom: '+2'
 

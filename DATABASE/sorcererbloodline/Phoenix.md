@@ -3,7 +3,6 @@ bloodline: Phoenix
 id: '15'
 name: Phoenix
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 168. King of the Mountain|Pathfinder #168: King
   of the Mountain]]'
 spell:

@@ -1,10 +1,7 @@
 ﻿---
 ac: '29'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+7'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Consecration Vulnerability
@@ -15,13 +12,9 @@ creature_ability:
 - Aura
 creature_family: '[[DATABASE/monsterfamily/Mortic|Mortic]]'
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+19'
-hardness: null
 hp: 150 ( negative healing )
 id: '1237'
-immunity: null
 intelligence: '+3'
 land_speed: '25'
 language:
@@ -34,9 +27,6 @@ name: Etioling Blightmage
 perception: '+19'
 rarity: Rare
 reflex: '+21'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -78,7 +68,6 @@ strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Gnome|Gnome]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -88,7 +77,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+17'
 wisdom: '+5'
 

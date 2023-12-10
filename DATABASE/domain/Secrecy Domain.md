@@ -1,7 +1,6 @@
 ﻿---
 advanced_apocryphal_spell: '[[DATABASE/spell/Weaponize Secret|Weaponize Secret]]'
 advanced_domain_spell: '[[DATABASE/spell/Safeguard Secret|Safeguard Secret]]'
-apocryphal_spell: null
 deity:
 - '[[DATABASE/deity/Ayrzul|Ayrzul]]'
 - '[[DATABASE/deity/Baphomet|Baphomet]]'
@@ -27,9 +26,7 @@ domain_spell: '[[DATABASE/spell/Forced Quiet|Forced Quiet]]'
 id: '28'
 name: Secrecy Domain
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Domain
 
 ---

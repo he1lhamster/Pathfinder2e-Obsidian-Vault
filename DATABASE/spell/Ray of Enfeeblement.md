@@ -1,28 +1,18 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Zevgavizeb|Zevgavizeb]]'
-domain: null
 duration: 1 minute
-element: null
-heighten: null
 heighten_level: '1'
 id: '244'
-lesson: null
 level: '1'
-mystery: null
 name: Ray of Enfeeblement
 patron_theme: '[[DATABASE/witchpatron/Curse|Curse]]'
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Fortitude
 school: Necromancy
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -34,7 +24,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Attack|Attack]]'
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
-trigger: null
 type: Spell
 
 ---

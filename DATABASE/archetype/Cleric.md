@@ -4,9 +4,7 @@ level: '2'
 name: Cleric
 prerequisite: Wisdom 14
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Archetype
 
 ---

@@ -1,21 +1,16 @@
 ﻿---
 ac: '36'
 alignment: NG
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Flaming Strafe
 - Self-Resurrection
 - Shroud of Flame
-creature_family: null
 dexterity: '+7'
 element: Fire
 fly_speed: '70'
 fortitude: '+27'
-hardness: null
 hp: 300 (self-resurrection)
 id: '330'
 immunity:
@@ -33,9 +28,6 @@ name: Phoenix
 perception: '+27'
 rarity: Rare
 reflex: '+31'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - '[[DATABASE/spell/Detect Magic|detect magic]]'
@@ -66,7 +58,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Fire|Fire]]'

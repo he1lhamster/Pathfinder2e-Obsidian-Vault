@@ -1,11 +1,7 @@
 ﻿---
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+1'
 dexterity: '+3'
-element: null
-fly_speed: null
 hp: '6'
 id: '22'
 intelligence: '-4'
@@ -13,7 +9,6 @@ land_speed: '30'
 max_speed: '30'
 name: Scorpion
 rarity: Common
-rus_type_level: null
 sense:
 - darkvision
 size: Small
@@ -24,8 +19,6 @@ speed:
 - 30 feet
 strength: '+3'
 strength_req: '3'
-swim_speed: null
-trait: null
 type: Animal Companion
 wisdom: '+1'
 

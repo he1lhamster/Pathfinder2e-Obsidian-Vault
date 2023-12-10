@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Assurance|Assurance]]'
 id: '14'
 name: Farmhand
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]]'
 - Farming [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

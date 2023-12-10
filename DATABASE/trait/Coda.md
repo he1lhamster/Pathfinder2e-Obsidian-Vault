@@ -2,7 +2,6 @@
 id: '472'
 name: Coda
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 trait:
 - Coda

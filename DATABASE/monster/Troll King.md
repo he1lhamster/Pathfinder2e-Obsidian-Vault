@@ -1,10 +1,7 @@
 ﻿---
 ac: '28'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Attack of Opportunity
@@ -16,13 +13,9 @@ creature_ability:
 - Shake
 creature_family: '[[DATABASE/monsterfamily/Troll|Troll]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+23'
-hardness: null
 hp: '220'
 id: '396'
-immunity: null
 intelligence: '-1'
 land_speed: '30'
 language:
@@ -33,9 +26,6 @@ name: Troll King
 perception: '+19'
 rarity: Common
 reflex: '+17'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Large
@@ -46,12 +36,10 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 30 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Giant|Giant]]'
 - '[[DATABASE/trait/Troll|Troll]]'

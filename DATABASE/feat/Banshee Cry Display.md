@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Banshee Cry Display
-frequency: null
-heighten_level: null
 id: '3250'
 level: '12'
 name: Banshee Cry Display
 prerequisite: '[[DATABASE/feat/Firework Technician Dedication|Firework Technician
   Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

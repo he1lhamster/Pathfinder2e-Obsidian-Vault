@@ -1,25 +1,18 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Bard Dedication
-frequency: null
-heighten_level: null
 id: '677'
+leads_to: '[[DATABASE/feat/Basic Bard Spellcasting|Basic Bard Spellcasting]] , [[DATABASE/feat/Basic
+  Muse''s Whispers|Basic Muse''s Whispers]] , [[DATABASE/feat/Counter Perform|Counter
+  Perform]] , [[DATABASE/feat/Inspirational Performance|Inspirational Performance]]'
 level: '2'
 name: Bard Dedication
 prerequisite: Charisma 14
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Multiclass|Multiclass]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,21 +1,15 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
-frequency: null
 id: '1435'
 name: Outflank
 rarity: Common
 requirement: '[[DATABASE/kingmakerwarfaretactic/Reckless Flankers|Reckless Flankers]]
   , you aren''t engaged'
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
 - '[[DATABASE/trait/Cavalry|Cavalry]]'
 - '[[DATABASE/trait/Maneuver|Maneuver]]'
 - '[[DATABASE/trait/Skirmisher|Skirmisher]]'
-trigger: null
 type: Action
 
 ---

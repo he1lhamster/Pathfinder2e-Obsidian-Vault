@@ -1,11 +1,9 @@
 ﻿---
-element: null
 id: '7'
 item_category: Relics
 name: Beast Senses
 prerequisite: The relic is a worn item.
 rarity: Common
-rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:

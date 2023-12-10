@@ -1,36 +1,25 @@
 ﻿---
 ac: '14'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Hilarious Insult
 - Natural Glow
 creature_family: '[[DATABASE/monsterfamily/Sprite|Sprite]]'
 dexterity: '+3'
-element: null
 fly_speed: '40'
 fortitude: '+1'
-hardness: null
 hp: '8'
 id: '2701'
-immunity: null
 intelligence: '+0'
 land_speed: '10'
-language: null
 level: '-1'
 max_speed: '40'
 name: Ether Sprite
 perception: '+5'
 rarity: Common
 reflex: '+6'
-resistance: null
-rus_type_level: null
-school: null
-sense: null
 size: Tiny
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +4'
@@ -43,16 +32,13 @@ source: '[[DATABASE/source/Pathfinder 194. Cult of the Cave Worm|Pathfinder #194
 speed:
 - 10 feet
 - fly 40 feet
-spell: null
 strength: '-2'
 strength_req: '-2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
 weakness:

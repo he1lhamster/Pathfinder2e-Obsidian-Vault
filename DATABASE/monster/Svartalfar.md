@@ -1,24 +1,16 @@
 ﻿---
 ac: '27'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Shadow Step
 - Sneak Attack
 - Spell-Imbued Blade
-creature_family: null
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+11'
-hardness: null
 hp: '135'
 id: '1003'
-immunity: null
 intelligence: '+4'
 land_speed: '25'
 language:
@@ -32,9 +24,6 @@ name: Svartalfar Killer
 perception: '+16'
 rarity: Uncommon
 reflex: '+19'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -63,7 +52,6 @@ strength: '+1'
 strength_req: '1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

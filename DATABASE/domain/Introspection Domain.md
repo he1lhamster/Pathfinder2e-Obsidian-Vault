@@ -1,7 +1,5 @@
 ﻿---
-advanced_apocryphal_spell: null
 advanced_domain_spell: '[[DATABASE/spell/Confront Selves|Confront Selves]]'
-apocryphal_spell: null
 deity:
 - '[[DATABASE/deity/Narakaas|Narakaas]]'
 domain:
@@ -10,10 +8,8 @@ domain_spell: '[[DATABASE/spell/Guided Introspection|Guided Introspection]]'
 id: '60'
 name: Introspection Domain
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 186. Ghost King''s Rage|Pathfinder #186: Ghost
   King''s Rage]]'
-trait: null
 type: Domain
 
 ---

@@ -3,10 +3,8 @@ creature_family: Solifugid
 id: '114'
 name: Solifugid
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 149. Against the Scarlet Triad|Pathfinder #149:
   Against the Scarlet Triad]]'
-trait: null
 type: Creature Family
 
 ---

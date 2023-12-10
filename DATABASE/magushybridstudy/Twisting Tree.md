@@ -2,9 +2,7 @@
 id: '5'
 name: Twisting Tree
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-trait: null
 type: Magus Hybrid Study
 
 ---

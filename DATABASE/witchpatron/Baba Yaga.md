@@ -2,7 +2,6 @@
 id: '9'
 name: Baba Yaga
 rarity: Rare
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Occultism|Occultism]]'
 source: '[[DATABASE/source/Legends|Legends]]'

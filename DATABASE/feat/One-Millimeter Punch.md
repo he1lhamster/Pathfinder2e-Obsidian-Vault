@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: One-Millimeter Punch
-frequency: null
-heighten_level: null
 id: '1758'
 level: '16'
 name: One-Millimeter Punch
 prerequisite: '[[DATABASE/feat/One-Inch Punch|One-Inch Punch]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Monk|Monk]]'
-trigger: null
 type: Feat
 
 ---

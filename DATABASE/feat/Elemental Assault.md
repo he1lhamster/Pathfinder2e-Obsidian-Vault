@@ -1,26 +1,20 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Elemental Assault
 frequency: once per day
-heighten_level: null
 id: '2580'
+leads_to: '[[DATABASE/feat/Continuous Assault|Continuous Assault]] , [[DATABASE/feat/Tetraelemental
+  Assault|Tetraelemental Assault]]'
 level: '1'
 name: Elemental Assault
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Arcane|Arcane]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Suli|Suli]]'
-trigger: null
 type: Feat
 
 ---

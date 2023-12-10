@@ -12,12 +12,10 @@ level: '1'
 name: Half Plate
 price: 18 gp
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 speed_penalty: -10 ft.
 strength: '+16'
 strength_req: '16'
-trait: null
 type: Armor
 
 ---

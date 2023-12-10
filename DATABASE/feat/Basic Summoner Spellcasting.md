@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Basic Summoner Spellcasting
-frequency: null
-heighten_level: null
 id: '2957'
+leads_to: '[[DATABASE/feat/Expert Summoner Spellcasting|Expert Summoner Spellcasting]]'
 level: '6'
 name: Basic Summoner Spellcasting
 prerequisite: '[[DATABASE/feat/Summoner Dedication|Summoner Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,10 +1,7 @@
 ﻿---
 ac: '28'
 alignment: LG
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Breath Weapon
@@ -19,10 +16,8 @@ creature_ability:
 - Perfected Flight
 creature_family: '[[DATABASE/monsterfamily/Dragon, Sky|Dragon, Sky]]'
 dexterity: '+1'
-element: null
 fly_speed: '120'
 fortitude: '+18'
-hardness: null
 hp: '155'
 id: '1128'
 immunity:
@@ -41,9 +36,6 @@ name: Young Sky Dragon
 perception: '+19'
 rarity: Uncommon
 reflex: '+16'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 60 feet'
@@ -69,7 +61,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dragon|Dragon]]'
 - '[[DATABASE/trait/Electricity|Electricity]]'
@@ -78,7 +69,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+21'
 wisdom: '+4'
 

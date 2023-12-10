@@ -1,56 +1,20 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '2238'
 item_category: Spellhearts
-item_subcategory: null
-land_speed: null
-level: '13'
-max_speed: null
+level: '3'
 name: Rime Crystal
-onset: null
-price: 2,800 gp
-range: null
+price: 55 gp
 rarity: Common
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
-size: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-spell: null
-stage: null
 subcategory: spellheart
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Cold|Cold]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Spellheart|Spellheart]]'
-trigger: null
 type: Item
 usage: affixed to armor or a weapon
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Rime Crystal<span class="item-type">Item 3+</span>

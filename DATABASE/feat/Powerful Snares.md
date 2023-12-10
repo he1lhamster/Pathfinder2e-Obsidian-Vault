@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Powerful Snares
-frequency: null
-heighten_level: null
 id: '516'
 level: '8'
 name: Powerful Snares
 prerequisite: Master in [[DATABASE/skill/Crafting|Crafting]] ; [[DATABASE/feat/Snare
   Specialist|Snare Specialist]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Ranger|Ranger]]'
-trigger: null
 type: Feat
 
 ---

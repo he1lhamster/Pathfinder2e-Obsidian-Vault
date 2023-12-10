@@ -1,15 +1,10 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
-frequency: null
 id: '472'
 name: Deceptive Sidestep
 rarity: Common
 requirement: "You\u2019re in a duel, you\u2019re trained in Deception, and you rolled\
   \ a Deception check for initiative thisround."
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
 - '[[DATABASE/trait/Misfortune|Misfortune]]'

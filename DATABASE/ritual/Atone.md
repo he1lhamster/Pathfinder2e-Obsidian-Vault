@@ -1,9 +1,6 @@
 ﻿---
-area: null
 cost: "rare incense and offerings worth a total value of 20 gp \xD7 the target\u2019\
   s level"
-duration: null
-element: null
 heighten: '+1'
 heighten_level: 4, 5, 6, 7, 8, 9, 10
 id: '2'
@@ -13,8 +10,6 @@ primary_check: '[[DATABASE/skill/Nature|Nature]] or [[DATABASE/skill/Religion|Re
   (expert)'
 range: 10 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Abjuration
 secondary_casters: "1, must be the ritual\u2019s target"
 secondary_check: Nature or Religion (whichever is used for the primary check)

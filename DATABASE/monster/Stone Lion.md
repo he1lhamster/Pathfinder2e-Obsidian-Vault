@@ -1,10 +1,7 @@
 ﻿---
 ac: '21'
 alignment: NG
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Anchored Soul
@@ -15,10 +12,8 @@ creature_ability:
 - Spirit Body
 creature_family: '[[DATABASE/monsterfamily/Guardian Beast|Guardian Beast]]'
 dexterity: '+3'
-element: null
 fly_speed: '40'
 fortitude: '+11'
-hardness: null
 hp: '50'
 id: '1183'
 immunity:
@@ -27,7 +22,6 @@ immunity:
 - '[[DATABASE/condition/Petrified|petrified]]'
 - '[[DATABASE/trait/Poison|poison]]'
 intelligence: '+1'
-land_speed: null
 language:
 - '[[DATABASE/language/Celestial|Celestial]]'
 - '[[DATABASE/language/Common|Common]] ; [[DATABASE/monsterability/Telepathy|telepathy]]
@@ -38,9 +32,6 @@ name: Stone Lion
 perception: '+13'
 rarity: Uncommon
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -59,7 +50,6 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Celestial|Celestial]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
@@ -67,7 +57,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+13'
 wisdom: '+5'
 

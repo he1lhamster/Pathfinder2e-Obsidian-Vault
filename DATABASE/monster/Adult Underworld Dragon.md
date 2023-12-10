@@ -1,10 +1,8 @@
 ﻿---
 ac: '31'
 alignment: LE
-all_resistance: null
 burrow_speed: '40'
 charisma: '+2'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Adamantine Claws
@@ -23,7 +21,6 @@ dexterity: '+3'
 element: Fire
 fly_speed: '80'
 fortitude: '+23'
-hardness: null
 hp: '195'
 id: '1135'
 immunity:
@@ -42,9 +39,6 @@ name: Adult Underworld Dragon
 perception: '+20'
 rarity: Uncommon
 reflex: '+18'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 60 feet'
@@ -73,7 +67,6 @@ strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dragon|Dragon]]'
 - '[[DATABASE/trait/Fire|Fire]]'
@@ -82,7 +75,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+22'
 wisdom: '+3'
 

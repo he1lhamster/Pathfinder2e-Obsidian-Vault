@@ -1,21 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Watch This!
-frequency: null
-heighten_level: null
 id: '4140'
 level: '6'
 name: Watch This!
 prerequisite: '[[DATABASE/feat/Duelist Dedication|Duelist Dedication]] ; [[DATABASE/feat/Pirate
   Dedication|Pirate Dedication]]'
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Firebrands|Firebrands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Auditory|Auditory]]'

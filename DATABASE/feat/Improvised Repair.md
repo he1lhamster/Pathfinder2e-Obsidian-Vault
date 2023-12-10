@@ -1,23 +1,13 @@
 ﻿---
 actions: '[three-actions]'
-cost: null
-element: null
 feat: Improvised Repair
-frequency: null
-heighten_level: null
 id: '2132'
 level: '3'
 name: Improvised Repair
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/General|General]]'
-trigger: null
 type: Feat
 
 ---

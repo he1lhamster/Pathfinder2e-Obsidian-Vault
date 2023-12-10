@@ -3,9 +3,7 @@ creature_family: Fleshforged
 id: '329'
 name: Fleshforged
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-trait: null
 type: Creature Family
 
 ---

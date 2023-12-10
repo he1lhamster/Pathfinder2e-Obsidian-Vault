@@ -1,41 +1,28 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Bastet|Bastet]]'
 - '[[DATABASE/deity/Daikitsu|Daikitsu]]'
 - '[[DATABASE/deity/Grandmother Spider|Grandmother Spider]]'
-domain: null
 duration: 10 minutes
-element: null
 heighten: 4th
 heighten_level: 1, 4
 id: '217'
-lesson: null
 level: '1'
-mystery: null
 name: Pest Form
 patron_theme: '[[DATABASE/witchpatron/Mosquito Witch|Mosquito Witch]]'
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Arcane
 - Primal
 trait:
 - '[[DATABASE/trait/Polymorph|Polymorph]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Spell
 
 ---

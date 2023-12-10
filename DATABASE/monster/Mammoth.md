@@ -1,10 +1,7 @@
 ﻿---
 ac: '29'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Cold Adaptation
@@ -13,25 +10,17 @@ creature_ability:
 - Trample
 creature_family: '[[DATABASE/monsterfamily/Elephant|Elephant]]'
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+21'
-hardness: null
 hp: '190'
 id: '202'
-immunity: null
 intelligence: '-4'
 land_speed: '45'
-language: null
 level: '10'
 max_speed: '45'
 name: Mammoth
 perception: '+18'
 rarity: Common
 reflex: '+15'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 - scent (imprecise) 30 feet
@@ -42,19 +31,16 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 45 feet
-spell: null
 strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
 vision: Low-light vision
 weakest_save:
 - Reflex
-weakness: null
 will: '+18'
 wisdom: '+1'
 

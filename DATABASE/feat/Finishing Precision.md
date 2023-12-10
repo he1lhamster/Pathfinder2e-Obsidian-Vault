@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Finishing Precision
-frequency: null
-heighten_level: null
 id: '1861'
 level: '4'
 name: Finishing Precision
 prerequisite: '[[DATABASE/feat/Swashbuckler Dedication|Swashbuckler Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

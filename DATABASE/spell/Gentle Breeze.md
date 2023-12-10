@@ -1,29 +1,16 @@
 ﻿---
 actions: '[two-actions]'
 area: 40-foot burst
-bloodline: null
-component: null
-cost: null
-deity: null
-domain: null
 duration: 10 minutes
 element: Air
 heighten: '+2'
 heighten_level: 2, 4, 6, 8, 10
 id: '1316'
-lesson: null
 level: '2'
-mystery: null
 name: Gentle Breeze
-patron_theme: null
 range: 60 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-target: null
 tradition:
 - Divine
 - Occult
@@ -34,7 +21,6 @@ trait:
 - '[[DATABASE/trait/Healing|Healing]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Vitality|Vitality]]'
-trigger: null
 type: Spell
 
 ---

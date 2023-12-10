@@ -1,56 +1,18 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '1653'
 item_category: Contracts
 item_subcategory: Bargained Contracts
-land_speed: null
 level: '10'
-max_speed: null
 name: Lost Ember
-onset: null
-price: null
-range: null
 rarity: Rare
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
-school: null
-size: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-spell: null
-stage: null
 subcategory: contract
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Contract|Contract]]'
 - '[[DATABASE/trait/Invested|Invested]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Item
-usage: null
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Lost Ember<span class="item-type">Item 10</span>

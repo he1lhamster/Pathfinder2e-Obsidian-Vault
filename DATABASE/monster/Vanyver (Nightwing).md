@@ -1,10 +1,7 @@
 ﻿---
 ac: '34'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Catching Bite
@@ -15,10 +12,8 @@ creature_ability:
 - Sunlight Powerlessness
 creature_family: '[[DATABASE/monsterfamily/Darvakka|Darvakka]]'
 dexterity: '+4'
-element: null
 fly_speed: '60'
 fortitude: '+29'
-hardness: null
 hp: 295 ( negative healing )
 id: '1848'
 immunity:
@@ -43,8 +38,6 @@ rarity: Common
 reflex: '+23'
 resistance:
 - '[[DATABASE/trait/Cold|cold]] 10'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 - '[[DATABASE/monsterability/Lifesense|lifesense]] 60 feet'
@@ -72,7 +65,6 @@ strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Darvakka|Darvakka]]'
 - '[[DATABASE/trait/Shadow|Shadow]]'

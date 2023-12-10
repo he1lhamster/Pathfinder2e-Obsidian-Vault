@@ -1,18 +1,8 @@
 ﻿---
-ability: null
-ability_boost: null
-feat: null
 id: '225'
 name: Sponsored by a Stranger
-prerequisite: null
-rarity: null
-rus_type_level: null
-skill: null
 source: '[[DATABASE/source/Strength of Thousands Player''s Guide|Strength of Thousands
   Player''s Guide]]'
-subcategory: null
-trait: null
-type: null
 
 ---
 # Sponsored by a Stranger<span class="item-type">Background</span>

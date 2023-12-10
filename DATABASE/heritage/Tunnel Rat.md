@@ -2,9 +2,7 @@
 id: '110'
 name: Tunnel Rat
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-trait: null
 type: Heritage
 
 ---

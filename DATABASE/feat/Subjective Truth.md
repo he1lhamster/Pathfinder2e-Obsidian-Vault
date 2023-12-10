@@ -1,25 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Subjective Truth
-frequency: null
-heighten_level: null
 id: '2090'
 level: '7'
 name: Subjective Truth
 prerequisite: Master in [[DATABASE/skill/Deception|Deception]] ; [[DATABASE/feat/Vigilante
   Dedication|Vigilante Dedication]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

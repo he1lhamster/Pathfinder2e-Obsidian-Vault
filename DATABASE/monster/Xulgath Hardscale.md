@@ -1,10 +1,7 @@
 ﻿---
 ac: '32'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Aggressive Block
@@ -15,15 +12,10 @@ creature_ability:
 - Stench
 - Shield Block
 - Shield Warden
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+25'
-hardness: null
 hp: '215'
 id: '2123'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -35,9 +27,6 @@ name: Xulgath Hardscale
 perception: '+21'
 rarity: Common
 reflex: '+22'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - (23 when using for initiative)
 size: Medium
@@ -53,20 +42,16 @@ source: '[[DATABASE/source/Pathfinder 154. Siege of the Dinosaurs|Pathfinder #15
   Siege of the Dinosaurs]]'
 speed:
 - 25 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Xulgath|Xulgath]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+19'
 wisdom: '+3'
 

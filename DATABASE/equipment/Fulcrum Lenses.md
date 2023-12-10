@@ -1,57 +1,21 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
-bulk: L
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
+bulk: '2'
 id: '942'
 item_category: Other
-item_subcategory: null
-land_speed: null
-level: '12'
-max_speed: null
+level: '11'
 name: Fulcrum Lenses
-onset: null
-price: 2,000 gp
-range: null
+price: 1,400 gp
 rarity: Unique
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
-school: Necromancy
-size: null
+school: Enchantment
 source: '[[DATABASE/source/Pathfinder 165. Eyes of Empty Death|Pathfinder #165: Eyes
   of Empty Death]]'
-spell: null
-stage: null
 subcategory: other
-swim_speed: null
 trait:
+- '[[DATABASE/trait/Enchantment|Enchantment]]'
 - '[[DATABASE/trait/Invested|Invested]]'
-- '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Occult|Occult]]'
 - '[[DATABASE/trait/Unique|Unique]]'
-trigger: null
 type: Item
-usage: null
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Fulcrum Lenses<span class="item-type">Item 9+</span>

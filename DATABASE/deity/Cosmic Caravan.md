@@ -33,11 +33,9 @@ follower_alignment:
 id: '219'
 name: Cosmic Caravan
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Occultism|Occultism]]'
 source: '[[DATABASE/source/Travel Guide|Travel Guide]]'
-trait: null
 type: Deity
 
 ---

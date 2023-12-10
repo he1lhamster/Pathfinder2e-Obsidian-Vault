@@ -1,33 +1,21 @@
 ﻿---
-actions: null
-area: null
 bloodline: '[[DATABASE/sorcererbloodline/Nymph|Nymph]]'
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Bastet|Bastet]]'
 - '[[DATABASE/deity/Isis|Isis]]'
 - '[[DATABASE/deity/Ketephys|Ketephys]]'
 - '[[DATABASE/deity/Tanagaar|Tanagaar]]'
-domain: null
 duration: 1 hour
-element: null
-heighten: null
 heighten_level: '3'
 id: '12'
-lesson: null
 level: '3'
-mystery: null
 name: Animal Vision
-patron_theme: null
 range: 120 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: 1 animal
@@ -36,7 +24,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Divination|Divination]]'
 - '[[DATABASE/trait/Mental|Mental]]'
-trigger: null
 type: Spell
 
 ---

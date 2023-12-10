@@ -1,8 +1,6 @@
 ﻿---
 ac: '42'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+9'
 climb_speed: '30'
 constitution: '+6'
@@ -14,10 +12,8 @@ creature_ability:
 - Thulgant Venom
 creature_family: '[[DATABASE/monsterfamily/Qlippoth|Qlippoth]]'
 dexterity: '+6'
-element: null
 fly_speed: '50'
 fortitude: '+30'
-hardness: null
 hp: 305 ( fast healing 10)
 id: '777'
 immunity:
@@ -37,8 +33,6 @@ reflex: '+28'
 resistance:
 - mental 15
 - physical 15 (except cold iron)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 - '[[DATABASE/spell/True Seeing|true seeing]]'
@@ -69,7 +63,6 @@ strength: '+9'
 strength_req: '9'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fiend|Fiend]]'
 - '[[DATABASE/trait/Qlippoth|Qlippoth]]'

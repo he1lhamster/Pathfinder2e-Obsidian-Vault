@@ -1,5 +1,4 @@
 ﻿---
-bulk: null
 damage: 1d4 P
 deity:
 - '[[DATABASE/deity/Yaezhing|Yaezhing]]'
@@ -13,7 +12,6 @@ name: Shuriken
 price: 1 cp
 range: 20 ft.
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Agile|Agile]]'

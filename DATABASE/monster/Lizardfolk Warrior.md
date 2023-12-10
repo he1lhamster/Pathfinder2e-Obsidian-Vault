@@ -1,25 +1,17 @@
 ﻿---
 ac: '17'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Attack of Opportunity
 - Deep Breath
 - Sudden Charge
 - Terrain Advantage
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+9'
-hardness: null
 hp: '36'
 id: '2271'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -31,10 +23,6 @@ name: Lizardfolk Warrior
 perception: '+7'
 rarity: Uncommon
 reflex: '+8'
-resistance: null
-rus_type_level: null
-school: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +6'
@@ -45,7 +33,6 @@ source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 speed:
 - 25 feet
 - swim 15 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
@@ -56,10 +43,8 @@ trait:
 - '[[DATABASE/trait/Lizardfolk|Lizardfolk]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+7'
 wisdom: '+1'
 

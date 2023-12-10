@@ -20,9 +20,7 @@ item_subcategory: Base Weapons
 level: '0'
 name: Light Hammer
 price: 3 sp
-range: null
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Agile|Agile]]'

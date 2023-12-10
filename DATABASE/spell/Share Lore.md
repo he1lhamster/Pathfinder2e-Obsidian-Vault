@@ -1,10 +1,6 @@
 ﻿---
-actions: null
-area: null
-bloodline: null
 component:
 - 1 Minute
-cost: null
 deity:
 - '[[DATABASE/deity/Abraxas|Abraxas]]'
 - '[[DATABASE/deity/Gruhastha|Gruhastha]]'
@@ -15,22 +11,14 @@ deity:
 - '[[DATABASE/deity/The Enlightened Scholar''s Path|The Enlightened Scholar''s Path]]'
 - '[[DATABASE/deity/Winlas|Winlas]]'
 - '[[DATABASE/deity/Zohls|Zohls]]'
-domain: null
 duration: 10 minutes
-element: null
 heighten: 3rd, 5th
 heighten_level: 1, 3, 5
 id: '584'
-lesson: null
 level: '1'
-mystery: null
 name: Share Lore
-patron_theme: null
 range: touch
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
 target: up to 3 creatures
@@ -40,7 +28,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Divination|Divination]]'
 - '[[DATABASE/trait/Mental|Mental]]'
-trigger: null
 type: Spell
 
 ---

@@ -8,16 +8,13 @@ ability_boost:
 feat: '[[DATABASE/feat/Assurance|Assurance]]'
 id: '28'
 name: Nomad
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Survival|Survival]]'
 - '[[DATABASE/skill/Lore|Lore]] related to one terrain you traveled in (such as Desert
   Lore or Swamp Lore).'
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

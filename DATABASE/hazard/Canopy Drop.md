@@ -1,8 +1,6 @@
 ﻿---
 ac: '20'
-all_resistance: null
 complexity: Simple
-element: null
 fortitude: '+13'
 hardness: 10 Trapdoor Hardness
 hazard_type: Trap
@@ -16,17 +14,12 @@ level: '4'
 name: Canopy Drop
 rarity: Common
 reflex: '+8'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 157. Devil at the Dreaming Palace|Pathfinder
   #157: Devil at the Dreaming Palace]]'
 trait:
 - '[[DATABASE/trait/Mechanical|Mechanical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Canopy Drop<span class="item-type">Hazard 4</span>

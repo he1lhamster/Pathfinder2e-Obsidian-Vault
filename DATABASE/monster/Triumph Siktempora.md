@@ -1,10 +1,7 @@
 ﻿---
 ac: '35'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Cheaters Never Prosper
@@ -16,10 +13,7 @@ creature_ability:
 - Winning Smile
 creature_family: '[[DATABASE/monsterfamily/Siktempora|Siktempora]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+25'
-hardness: null
 hp: '190'
 id: '1295'
 immunity:
@@ -37,9 +31,6 @@ name: Triumph Siktempora
 perception: '+24'
 rarity: Rare
 reflex: '+24'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -62,7 +53,6 @@ strength: '+8'
 strength_req: '8'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Siktempora|Siktempora]]'
@@ -71,7 +61,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+26'
 wisdom: '+4'
 

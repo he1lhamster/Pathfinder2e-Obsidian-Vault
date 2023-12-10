@@ -1,23 +1,15 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Whirling Knockdown
-frequency: null
-heighten_level: null
 id: '3257'
 level: '14'
 name: Whirling Knockdown
 prerequisite: '[[DATABASE/feat/Pistol Phenom Dedication|Pistol Phenom Dedication]]'
 rarity: Common
 requirement: You're wielding a loaded one-handed firearm and a one-handed melee weapon.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

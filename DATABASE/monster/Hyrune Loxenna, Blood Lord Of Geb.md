@@ -1,8 +1,6 @@
 ﻿---
 ac: '37'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
 climb_speed: '25'
 constitution: '+5'
@@ -19,12 +17,8 @@ creature_ability:
 - Mist Escape
 - Turn to Mist
 - Witch Patron
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+27'
-hardness: null
 hp: 240 (coffin restoration, fast healing 15 , negative healing )
 id: '2160'
 immunity:
@@ -50,8 +44,6 @@ reflex: '+25'
 resistance:
 - physical 15 (except [[DATABASE/trait/Magical|magical]] [[DATABASE/equipment/Silver|silver]]
   )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -104,7 +96,6 @@ strength: '+8'
 strength_req: '8'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Undead|Undead]]'
 - '[[DATABASE/trait/Unique|Unique]]'

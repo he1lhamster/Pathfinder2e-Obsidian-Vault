@@ -1,27 +1,22 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Hellknight Signifer Dedication
-frequency: null
-heighten_level: null
 id: '1082'
+leads_to: '[[DATABASE/feat/Advanced Order Training|Advanced Order Training]] , [[DATABASE/feat/Gaze
+  of Veracity|Gaze of Veracity]] , [[DATABASE/feat/Hellknight Order Cross-Training|Hellknight
+  Order Cross-Training]] , [[DATABASE/feat/Masked Casting|Masked Casting]] , [[DATABASE/feat/Signifer
+  Armor Expertise|Signifer Armor Expertise]] , [[DATABASE/feat/Signifer''s Sight|Signifer''s
+  Sight]]'
 level: '6'
 name: Hellknight Signifer Dedication
 prerequisite: spellcasting class feature; [[DATABASE/feat/Hellknight Armiger Dedication|Hellknight
   Armiger Dedication]] ;lawful alignment; member of a Hellknight Order; passed the
   Hellknight Test
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

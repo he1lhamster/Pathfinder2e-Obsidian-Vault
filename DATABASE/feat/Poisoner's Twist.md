@@ -1,10 +1,6 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Poisoner's Twist
-frequency: null
-heighten_level: null
 id: '2037'
 level: '4'
 name: Poisoner's Twist
@@ -13,13 +9,9 @@ prerequisite: '[[DATABASE/feat/Poisoner Dedication|Poisoner Dedication]] ; Train
 rarity: Common
 requirement: Your last action was a successful melee Strike that dealt damage against
   a target that is afflictedby a poison, and you know which poison.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

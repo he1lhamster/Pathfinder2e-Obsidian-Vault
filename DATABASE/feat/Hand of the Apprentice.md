@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Hand of the Apprentice
-frequency: null
-heighten_level: null
 id: '636'
+leads_to: '[[DATABASE/feat/Universal Versatility|Universal Versatility]]'
 level: '1'
 name: Hand of the Apprentice
 prerequisite: '[[DATABASE/wizardarcaneschool/Universalist|universalist wizard]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Wizard|Wizard]]'
-trigger: null
 type: Feat
 
 ---

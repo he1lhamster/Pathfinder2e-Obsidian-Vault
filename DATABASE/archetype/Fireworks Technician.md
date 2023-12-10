@@ -4,7 +4,6 @@ level: '2'
 name: Fireworks Technician
 prerequisite: Trained in [[DATABASE/skill/Crafting|Crafting]]
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

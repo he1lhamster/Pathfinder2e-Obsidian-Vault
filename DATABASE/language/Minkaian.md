@@ -2,7 +2,6 @@
 id: '121'
 name: Minkaian
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 196. The Summer That Never Was|Pathfinder #196:
   The Summer That Never Was]]'
 trait:

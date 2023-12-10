@@ -1,13 +1,7 @@
 ﻿---
-ability: null
-ability_boost: null
-feat: null
 id: '372'
 name: Harrow-Chosen
-prerequisite: null
 rarity: Rare
-rus_type_level: null
-skill: null
 source: '[[DATABASE/source/Pathfinder 192. Worst of All Possible Worlds|Pathfinder
   #192: Worst of All Possible Worlds]]'
 subcategory: general

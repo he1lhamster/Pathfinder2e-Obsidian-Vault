@@ -1,10 +1,7 @@
 ﻿---
 ac: '43'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Attack of Opportunity
@@ -14,10 +11,7 @@ creature_ability:
 - Susceptible to Death
 - Wind-Fire Charge
 - Wind-Fire Chariot
-creature_family: null
 dexterity: '+9'
-element: null
-fly_speed: null
 fortitude: '+33'
 hp: '340'
 id: '1516'
@@ -37,9 +31,6 @@ name: Jin-Hae
 perception: '+33'
 rarity: Unique
 reflex: '+30'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +35'
@@ -57,17 +48,14 @@ strength: '+9'
 strength_req: '9'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Ethereal|Ethereal]]'
 - '[[DATABASE/trait/Phantom|Phantom]]'
 - '[[DATABASE/trait/Spirit|Spirit]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+27'
 wisdom: '+6'
 

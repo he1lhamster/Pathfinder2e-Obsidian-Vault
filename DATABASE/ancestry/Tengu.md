@@ -5,7 +5,6 @@ ability:
 ability_boost:
 - Dexterity
 - Free
-ability_flaw: null
 hp: '6'
 id: '21'
 land_speed: '25'
@@ -15,7 +14,6 @@ language:
 max_speed: '25'
 name: Tengu
 rarity: Uncommon
-rus_type_level: null
 size: Medium
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 speed:

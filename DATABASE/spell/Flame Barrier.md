@@ -1,32 +1,19 @@
 ﻿---
 actions: '[reaction]'
-area: null
-bloodline: null
 component:
 - Verbal
-cost: null
-deity: null
 domain:
 - '[[DATABASE/domain/Fire Domain|Fire]]'
-duration: null
-element: null
 heighten: '+2'
 heighten_level: 4, 6, 8, 10
 id: '423'
-lesson: null
 level: '4'
-mystery: null
 name: Flame Barrier
-patron_theme: null
 range: 60 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: the creature that would take fire damage
-tradition: null
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Cleric|Cleric]]'

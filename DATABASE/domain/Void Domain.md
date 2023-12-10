@@ -1,7 +1,5 @@
 ﻿---
-advanced_apocryphal_spell: null
 advanced_domain_spell: '[[DATABASE/spell/Door to Beyond|Door to Beyond]]'
-apocryphal_spell: null
 deity:
 - '[[DATABASE/deity/Azathoth|Azathoth]]'
 - '[[DATABASE/deity/Black Butterfly|BlackButterfly]]'
@@ -23,9 +21,7 @@ domain_spell: '[[DATABASE/spell/Empty Inside|Empty Inside]]'
 id: '56'
 name: Void Domain
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
-trait: null
 type: Domain
 
 ---

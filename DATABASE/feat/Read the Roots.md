@@ -1,27 +1,19 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
 element: Wood
 feat: Read the Roots
-frequency: null
-heighten_level: null
 id: '4317'
 level: '5'
 name: Read the Roots
-prerequisite: null
 rarity: Common
 requirement: You are standing on the ground, and there are plants rooted in the ground
   within 100 feet of you.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Ardande|Ardande]]'
 - '[[DATABASE/trait/Primal|Primal]]'
 - '[[DATABASE/trait/Scrying|Scrying]]'
 - '[[DATABASE/trait/Wood|Wood]]'
-trigger: null
 type: Feat
 
 ---

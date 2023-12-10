@@ -1,25 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Illusory Identity
-frequency: null
-heighten_level: null
 id: '4149'
 level: '12'
 name: Illusory Identity
 prerequisite: '[[DATABASE/feat/Alter Ego Dedication|Alter Ego Dedication]]'
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Illusion
 source: '[[DATABASE/source/Firebrands|Firebrands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Illusion|Illusion]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

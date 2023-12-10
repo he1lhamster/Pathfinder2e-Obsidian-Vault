@@ -1,10 +1,7 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Quickened Attunement
 frequency: once per day
-heighten_level: null
 id: '3004'
 level: '16'
 name: Quickened Attunement
@@ -12,15 +9,11 @@ prerequisite: '[[DATABASE/feat/Geomancer Dedication|Geomancer Dedication]] ; Leg
   in [[DATABASE/skill/Nature|Nature]]'
 rarity: Common
 requirement: Your previous action was Attunement Shift.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Metamagic|Metamagic]]'
-trigger: null
 type: Feat
 
 ---

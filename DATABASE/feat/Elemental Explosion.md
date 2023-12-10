@@ -1,10 +1,6 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Elemental Explosion
-frequency: null
-heighten_level: null
 id: '4354'
 level: '6'
 name: Elemental Explosion
@@ -12,16 +8,12 @@ prerequisite: '[[DATABASE/barbarianinstinct/Elemental Instinct|elemental instinc
 rarity: Common
 requirement: You're [[DATABASE/action/Rage|raging]] , and you haven't used this ability
   since youlast Raged.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Barbarian|Barbarian]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Primal|Primal]]'
 - '[[DATABASE/trait/Rage|Rage]]'
-trigger: null
 type: Feat
 
 ---

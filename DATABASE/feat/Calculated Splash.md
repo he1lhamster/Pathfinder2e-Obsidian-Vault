@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Calculated Splash
-frequency: null
-heighten_level: null
 id: '99'
+leads_to: '[[DATABASE/feat/Controlled Blast|Controlled Blast]] , [[DATABASE/feat/Expanded
+  Splash|Expanded Splash]]'
 level: '4'
 name: Calculated Splash
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Alchemist|Alchemist]]'
-trigger: null
 type: Feat
 
 ---

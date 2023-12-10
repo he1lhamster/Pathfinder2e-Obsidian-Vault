@@ -1,10 +1,6 @@
 ﻿---
 ac: '31'
-alignment: null
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Entrancing Shapes
@@ -15,17 +11,13 @@ creature_ability:
 - Troop Defenses
 - Troop
 - Movement
-creature_family: null
 dexterity: '+7'
 element: Metal
 fly_speed: '25'
 fortitude: '+21'
-hardness: null
 hp: 210 (16 squares)
 id: '2657'
-immunity: null
 intelligence: '+5'
-land_speed: null
 language:
 - '[[DATABASE/language/Talican|Talican]] ; [[DATABASE/monsterability/Telepathy|telepathy]]
   30 feet'
@@ -37,8 +29,6 @@ rarity: Uncommon
 reflex: '+24'
 resistance:
 - '[[DATABASE/trait/Electricity|electricity]] 10'
-rus_type_level: null
-school: null
 sense:
 - metalsense (imprecise) 60 feet
 size: Gargantuan
@@ -50,19 +40,16 @@ skill:
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 speed:
 - fly 25 feet; troop movement
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Elemental|Elemental]]'
 - '[[DATABASE/trait/Metal|Metal]]'
 - '[[DATABASE/trait/Troop|Troop]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
 weakness:

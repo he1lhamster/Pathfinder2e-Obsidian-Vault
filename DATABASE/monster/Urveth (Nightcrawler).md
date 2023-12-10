@@ -1,10 +1,8 @@
 ﻿---
 ac: '40'
 alignment: CE
-all_resistance: null
 burrow_speed: '60'
 charisma: '+6'
-climb_speed: null
 constitution: '+8'
 creature_ability:
 - Attack of Opportunity
@@ -16,10 +14,7 @@ creature_ability:
 - Venom
 creature_family: '[[DATABASE/monsterfamily/Darvakka|Darvakka]]'
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+32'
-hardness: null
 hp: 460 ( negative healing )
 id: '1850'
 immunity:
@@ -44,8 +39,6 @@ rarity: Common
 reflex: '+29'
 resistance:
 - '[[DATABASE/trait/Cold|cold]] 15'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 - '[[DATABASE/monsterability/Lifesense|lifesense]] 60 feet'
@@ -74,7 +67,6 @@ strength: '+10'
 strength_req: '10'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Darvakka|Darvakka]]'
 - '[[DATABASE/trait/Shadow|Shadow]]'

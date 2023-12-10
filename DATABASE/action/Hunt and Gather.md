@@ -1,19 +1,12 @@
 ﻿---
-actions: null
-cost: null
-element: null
-frequency: null
 id: '1476'
 name: Hunt and Gather
 rarity: Common
 requirement: trained in [[DATABASE/skill/Survival|Survival]]
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
 trait:
 - '[[DATABASE/trait/Camping|Camping]]'
 - '[[DATABASE/trait/Move|Move]]'
-trigger: null
 type: Action
 
 ---

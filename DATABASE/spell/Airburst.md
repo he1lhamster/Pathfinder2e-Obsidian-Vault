@@ -1,27 +1,15 @@
 ﻿---
 actions: '[one-action]'
 area: 5-foot emanation
-bloodline: null
 component:
 - Verbal
-cost: null
-deity: null
-domain: null
-duration: null
 element: Air
 heighten: 4th
 heighten_level: 1, 4
 id: '857'
-lesson: null
 level: '1'
-mystery: null
 name: Airburst
-patron_theme: null
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Pathfinder 169. Kindled Magic|Pathfinder #169: Kindled
   Magic]]'
@@ -33,7 +21,6 @@ trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Spell
 
 ---

@@ -18,15 +18,12 @@ domain:
 - '[[DATABASE/domain/Protection Domain|Protection]]'
 - '[[DATABASE/domain/Wood Domain|Wood]]'
 favored_weapon: '[[DATABASE/weapon/Sickle|Sickle]]'
-follower_alignment: null
 id: '276'
 name: Verilorn
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Nature|Nature]]'
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-trait: null
 type: Deity
 
 ---

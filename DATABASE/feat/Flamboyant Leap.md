@@ -1,10 +1,6 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Flamboyant Leap
-frequency: null
-heighten_level: null
 id: '1550'
 level: '14'
 name: Flamboyant Leap
@@ -12,13 +8,9 @@ prerequisite: Master in [[DATABASE/skill/Athletics|Athletics]] ; [[DATABASE/feat
   Athlete|Flamboyant Athlete]]
 rarity: Common
 requirement: You are capable of using a finisher.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Swashbuckler|Swashbuckler]]'
-trigger: null
 type: Feat
 
 ---

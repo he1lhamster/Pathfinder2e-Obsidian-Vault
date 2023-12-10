@@ -18,7 +18,6 @@ language:
 max_speed: '25'
 name: Hobgoblin
 rarity: Uncommon
-rus_type_level: null
 size: Medium
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 speed:

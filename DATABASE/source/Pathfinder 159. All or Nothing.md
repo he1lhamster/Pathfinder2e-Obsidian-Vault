@@ -2,9 +2,6 @@
 id: '48'
 name: Pathfinder 159. All or Nothing
 rarity: Common
-rus_type_level: null
-source: null
-trait: null
 type: Source
 
 ---

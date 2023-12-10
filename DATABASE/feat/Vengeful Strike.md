@@ -1,20 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Vengeful Strike
-frequency: null
-heighten_level: null
 id: '169'
 level: '14'
 name: Vengeful Strike
 prerequisite: '[[DATABASE/feat/Come and Get Me|Come and Get Me]]'
 rarity: Common
 requirement: "You\u2019re under the effect of Come and Get Me."
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Barbarian|Barbarian]]'
 - '[[DATABASE/trait/Rage|Rage]]'

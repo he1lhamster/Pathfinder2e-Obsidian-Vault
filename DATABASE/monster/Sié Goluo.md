@@ -2,9 +2,7 @@
 ac: '36'
 alignment: NG
 all_resistance: '10'
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+8'
 creature_ability:
 - Ancestral Response
@@ -12,12 +10,8 @@ creature_ability:
 - Rejuvenation
 - Spirit Charge
 - Spirit Steps
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+28'
-hardness: null
 hp: 320 (rejuvenation)
 id: '1441'
 immunity:
@@ -42,8 +36,6 @@ resistance:
 - '[[DATABASE/equipment/Ghost Touch|ghost touch]]'
 - or [[DATABASE/trait/Negative|negative]] ; double resistane against non- [[DATABASE/trait/Magical|magical]]
   )
-rus_type_level: null
-school: null
 sense:
 - imprecise [[DATABASE/monsterability/Scent|scent]] 60 feet
 size: Huge
@@ -64,17 +56,14 @@ strength_req: '9'
 strongest_save:
 - Fortitude
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Incorporeal|Incorporeal]]'
 - '[[DATABASE/trait/Spirit|Spirit]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+28'
 wisdom: '+8'
 

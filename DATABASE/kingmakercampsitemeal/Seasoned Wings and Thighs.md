@@ -6,7 +6,6 @@ price: 100 gp
 rarity: Common
 requirement: ability to cast a [[DATABASE/trait/Fire|fire]] spell or create a fire
   effect
-rus_type_level: null
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
 trait:
 - '[[DATABASE/trait/Meal|Meal]]'

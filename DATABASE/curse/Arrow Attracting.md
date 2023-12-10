@@ -1,11 +1,8 @@
 ﻿---
-element: null
 id: '1'
 level: '8'
 name: Arrow Attracting
 rarity: Rare
-rus_type_level: null
-saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:

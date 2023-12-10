@@ -2,7 +2,6 @@
 id: '58'
 name: D'ziriak
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

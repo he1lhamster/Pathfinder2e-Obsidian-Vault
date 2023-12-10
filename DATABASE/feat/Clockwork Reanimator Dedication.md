@@ -1,26 +1,21 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Clockwork Reanimator Dedication
-frequency: null
-heighten_level: null
 id: '3645'
+leads_to: '[[DATABASE/feat/Advanced Reanimated Companion|Advanced Reanimated Companion]]
+  , [[DATABASE/feat/Hijack Undead|Hijack Undead]] , [[DATABASE/feat/Improved Hijack
+  Undead|Improved Hijack Undead]] , [[DATABASE/feat/It''s Alive!|It''s Alive!]] ,
+  [[DATABASE/feat/Self-Destruct|Self-Destruct]] , [[DATABASE/feat/Unwind Death|Unwind
+  Death]] , [[DATABASE/feat/Zombie Horde|Zombie Horde]]'
 level: '2'
 name: Clockwork Reanimator Dedication
 prerequisite: Trained in [[DATABASE/skill/Crafting|Crafting]]
 rarity: Rare
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 180. The Smoking Gun|Pathfinder #180: The Smoking
   Gun]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,22 +1,16 @@
 ﻿---
 ac: '20'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Healing Hands
 - Improved Communal Healing
 creature_family: '[[DATABASE/monsterfamily/Healers|Healers]]'
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+13'
 hp: '73'
 id: '911'
-immunity: null
 intelligence: '+2'
 land_speed: '25'
 language:
@@ -27,9 +21,6 @@ name: Plague Doctor
 perception: '+13'
 rarity: Common
 reflex: '+8'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Intimidation|Intimidation]] +9'
@@ -59,15 +50,12 @@ strength_req: '0'
 strongest_save:
 - Fortitude
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+13'
 wisdom: '+4'
 

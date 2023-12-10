@@ -1,19 +1,13 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
-frequency: null
 id: '1431'
 name: Defensive Stance
 rarity: Common
 requirement: '[[DATABASE/kingmakerwarfaretactic/Defensive Tactics|Defensive Tactics]]'
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 trait:
 - '[[DATABASE/trait/Infantry|Infantry]]'
 - '[[DATABASE/trait/Maneuver|Maneuver]]'
-trigger: null
 type: Action
 
 ---

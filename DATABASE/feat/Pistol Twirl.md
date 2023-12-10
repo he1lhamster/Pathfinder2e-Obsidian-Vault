@@ -1,23 +1,16 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Pistol Twirl
-frequency: null
-heighten_level: null
 id: '3162'
+leads_to: '[[DATABASE/feat/Showstopper|Showstopper]]'
 level: '2'
 name: Pistol Twirl
 prerequisite: Trained in [[DATABASE/skill/Deception|Deception]]
 rarity: Common
 requirement: You're wielding a loaded one-handed ranged weapon.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Gunslinger|Gunslinger]]'
-trigger: null
 type: Feat
 
 ---

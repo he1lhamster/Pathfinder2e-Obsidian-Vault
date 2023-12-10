@@ -1,8 +1,6 @@
 ﻿---
 ac: '22'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '-3'
 climb_speed: '10'
 constitution: '+4'
@@ -12,10 +10,7 @@ creature_ability:
 - Vomit Tar
 creature_family: '[[DATABASE/monsterfamily/Zombie, Tar|Zombie, Tar]]'
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+18'
-hardness: null
 hp: 130 ( negative healing )
 id: '1817'
 immunity:
@@ -27,16 +22,12 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '25'
-language: null
 level: '6'
 max_speed: '25'
 name: Tar Zombie Snatcher
 perception: '+12'
 rarity: Uncommon
 reflex: '+10'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -48,12 +39,10 @@ source: '[[DATABASE/source/Pathfinder 177. Burning Tundra|Pathfinder #177: Burni
 speed:
 - 25 feet
 - climb 10 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Mindless|Mindless]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Quick Coercion|Quick Coercion]]'
 id: '305'
 name: Night Watch
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Intimidation|Intimidation]]'
 - Legal [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

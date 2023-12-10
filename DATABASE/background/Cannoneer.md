@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Hefty Hauler|Hefty Hauler]]'
 id: '268'
 name: Cannoneer
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]]'
 - Warfare [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Powerful Shove
-frequency: null
-heighten_level: null
 id: '373'
 level: '4'
 name: Powerful Shove
 prerequisite: '[[DATABASE/feat/Aggressive Block|Aggressive Block]] or [[DATABASE/feat/Brutish
   Shove|Brutish Shove]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fighter|Fighter]]'
-trigger: null
 type: Feat
 
 ---

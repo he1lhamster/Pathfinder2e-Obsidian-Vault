@@ -1,10 +1,7 @@
 ﻿---
 ac: '23'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Change Shape
@@ -12,14 +9,10 @@ creature_ability:
 - Ice Walk
 - Powerful Fists
 - Tail Lash
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+14'
 hp: '115'
 id: '1788'
-immunity: null
 intelligence: '+1'
 land_speed: '35'
 language:
@@ -34,7 +27,6 @@ rarity: Rare
 reflex: '+16'
 resistance:
 - '[[DATABASE/trait/Cold|cold]] 5'
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -54,7 +46,6 @@ strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Beastkin|Beastkin]]'

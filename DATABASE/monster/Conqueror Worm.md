@@ -1,10 +1,8 @@
 ﻿---
 ac: '46'
 alignment: NE
-all_resistance: null
 burrow_speed: '30'
 charisma: '+10'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Breath Weapon
@@ -15,12 +13,8 @@ creature_ability:
 - Swallow
 - Whole
 - Telepathic Escape
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+35'
-hardness: null
 hp: '460'
 id: '1642'
 immunity:
@@ -48,8 +42,6 @@ rarity: Rare
 reflex: '+32'
 resistance:
 - acid 20
-rus_type_level: null
-school: null
 sense:
 - greater darkvision
 - '[[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) 100 feet'
@@ -119,7 +111,6 @@ strength: '+10'
 strength_req: '10'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Rare|Rare]]'

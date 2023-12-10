@@ -1,10 +1,7 @@
 ﻿---
 ac: '27'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Breath Weapon
@@ -17,7 +14,6 @@ dexterity: '+2'
 element: Water
 fly_speed: '100'
 fortitude: '+18'
-hardness: null
 hp: '142'
 id: '621'
 immunity:
@@ -36,9 +32,6 @@ name: Young Brine Dragon
 perception: '+16'
 rarity: Uncommon
 reflex: '+16'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent (imprecise) 60 feet]]'
@@ -75,7 +68,6 @@ vision: Darkvision
 weakest_save:
 - Reflex
 - Will
-weakness: null
 will: '+16'
 wisdom: '+2'
 

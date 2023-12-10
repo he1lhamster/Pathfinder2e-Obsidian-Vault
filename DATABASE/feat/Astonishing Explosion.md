@@ -1,21 +1,13 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Astonishing Explosion
 frequency: once per minute
-heighten_level: null
 id: '1241'
 level: '20'
 name: Astonishing Explosion
-prerequisite: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 156. The Apocalypse Prophet|Pathfinder #156:
   The Apocalypse Prophet]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Additive|Additive 2]]'
 - '[[DATABASE/trait/Alchemist|Alchemist]]'

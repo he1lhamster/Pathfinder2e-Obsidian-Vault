@@ -1,10 +1,6 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Opportune Throw
-frequency: null
-heighten_level: null
 id: '1192'
 level: '16'
 name: Opportune Throw
@@ -12,11 +8,8 @@ prerequisite: Legendary in [[DATABASE/skill/Performance|Performance]] ; [[DATABA
   Dedication|Juggler Dedication]]
 rarity: Uncommon
 requirement: You are Juggling a [[DATABASE/trait/Thrown|thrown]] weapon.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 151. The Show Must Go On|Pathfinder #151: The
   Show Must Go On]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

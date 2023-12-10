@@ -3,7 +3,6 @@ id: '27'
 level: '0'
 name: Outstanding Success
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Arts|Arts]]'
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'

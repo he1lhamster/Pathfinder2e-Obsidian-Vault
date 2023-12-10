@@ -1,22 +1,15 @@
 ﻿---
 ac: '22'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Axe Vulnerability
 creature_family: '[[DATABASE/monsterfamily/Arboreal|Arboreal]]'
 dexterity: '-1'
-element: null
-fly_speed: null
 fortitude: '+16'
-hardness: null
 hp: '100'
 id: '28'
-immunity: null
 intelligence: '-5'
 land_speed: '20'
 language:
@@ -30,8 +23,6 @@ reflex: '+9'
 resistance:
 - bludgeoning 5
 - piercing 5
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 size: Huge
@@ -41,12 +32,10 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 20 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Plant|Plant]]'
 type: Creature

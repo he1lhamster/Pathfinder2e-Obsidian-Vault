@@ -1,39 +1,25 @@
 ﻿---
-actions: null
-area: null
 bloodline: '[[DATABASE/sorcererbloodline/Phoenix|Phoenix]]'
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Nalinivati|Nalinivati]]'
 - '[[DATABASE/deity/Valmallos|Valmallos]]'
-domain: null
 duration: until the next time you make your daily preparations.
-element: null
 heighten: 8th, 9th, 10th
 heighten_level: 7, 8, 9, 10
 id: '49'
-lesson: null
 level: '7'
-mystery: null
 name: Contingency
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Arcane
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
-trigger: null
 type: Spell
 
 ---

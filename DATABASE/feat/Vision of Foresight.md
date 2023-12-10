@@ -1,26 +1,19 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Vision of Foresight
-frequency: null
-heighten_level: null
 id: '3875'
 level: '6'
 name: Vision of Foresight
 prerequisite: '[[DATABASE/feat/Sleepwalker Dedication|Sleepwalker Dedication]]'
 rarity: Common
 requirement: You're in a Daydream Trance
-rus_type_level: null
 school: Divination
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Divination|Divination]]'
 - '[[DATABASE/trait/Fortune|Fortune]]'
 - '[[DATABASE/trait/Occult|Occult]]'
-trigger: null
 type: Feat
 
 ---

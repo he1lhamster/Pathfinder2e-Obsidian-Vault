@@ -1,9 +1,5 @@
 ﻿---
-area: null
 cost: blood sacrifice (see below)
-duration: null
-element: null
-heighten: null
 heighten_level: '3'
 id: '95'
 level: '3'
@@ -11,8 +7,6 @@ name: Rite of the Blood Crown
 primary_check: '[[DATABASE/skill/Arcana|Arcana]]'
 range: 40 feet
 rarity: Rare
-requirement: null
-rus_type_level: null
 school: Evocation
 secondary_casters: 2, must regard you as their king
 secondary_check: '[[DATABASE/skill/Crafting|Crafting]]'

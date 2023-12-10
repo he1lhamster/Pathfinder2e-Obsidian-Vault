@@ -1,10 +1,8 @@
 ﻿---
 ac: '25'
 alignment: CG
-all_resistance: null
 burrow_speed: '30'
 charisma: '+2'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Breath Weapon
@@ -17,7 +15,6 @@ dexterity: '+2'
 element: Fire
 fly_speed: '120'
 fortitude: '+16'
-hardness: null
 hp: '125'
 id: '142'
 immunity:
@@ -39,9 +36,6 @@ name: Young Brass Dragon
 perception: '+15'
 rarity: Common
 reflex: '+15'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - scent (imprecise) 60 feet
@@ -64,7 +58,6 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dragon|Dragon]]'
 - '[[DATABASE/trait/Fire|Fire]]'
@@ -72,7 +65,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+14'
 wisdom: '+1'
 

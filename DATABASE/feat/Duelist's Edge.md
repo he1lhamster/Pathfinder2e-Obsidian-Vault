@@ -1,20 +1,12 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Duelist's Edge
-frequency: null
-heighten_level: null
 id: '878'
 level: '4'
 name: Duelist's Edge
 prerequisite: '[[DATABASE/feat/Aldori Duelist Dedication|Aldori Duelist Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/World Guide|World Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 trigger: You roll initiative, and you can observe at least one opponent.

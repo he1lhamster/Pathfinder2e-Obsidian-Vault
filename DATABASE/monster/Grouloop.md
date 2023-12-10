@@ -1,24 +1,16 @@
 ﻿---
 ac: '27'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Soul-Shaking Croak
 - Swamp Stride
 - Tongue Grab
-creature_family: null
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+18'
-hardness: null
 hp: '185'
 id: '1684'
-immunity: null
 intelligence: '+0'
 land_speed: '20'
 language:
@@ -29,9 +21,6 @@ name: Grouloop
 perception: '+18'
 rarity: Unique
 reflex: '+15'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -80,7 +69,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+21'
 wisdom: '+5'
 

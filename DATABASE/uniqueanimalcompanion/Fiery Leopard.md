@@ -2,7 +2,6 @@
 id: '1'
 name: Fiery Leopard
 rarity: Unique
-rus_type_level: null
 source: '[[DATABASE/source/The Fall of Plaguestone|The Fall of Plaguestone]]'
 trait:
 - '[[DATABASE/trait/Unique|Unique]]'

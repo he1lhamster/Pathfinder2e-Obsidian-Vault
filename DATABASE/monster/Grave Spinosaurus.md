@@ -1,10 +1,7 @@
 ﻿---
 ac: '30'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Deep Breath
@@ -12,27 +9,18 @@ creature_ability:
 - Rip and Tear
 - Staggering Sail
 - Swallow Whole
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+23'
-hardness: null
 hp: '280'
 id: '1460'
-immunity: null
 intelligence: '-4'
 land_speed: '40'
-language: null
 level: '15'
 max_speed: '40'
 name: Grave Spinosaurus
 perception: '+26'
 rarity: Unique
 reflex: '+21'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -45,7 +33,6 @@ source: '[[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #
 speed:
 - 40 feet
 - swim 30 feet
-spell: null
 strength: '+9'
 strength_req: '9'
 strongest_save:
@@ -59,7 +46,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+19'
 wisdom: '+3'
 

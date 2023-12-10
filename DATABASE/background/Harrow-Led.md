@@ -1,18 +1,13 @@
 ﻿---
-ability: null
-ability_boost: null
 feat: '[[DATABASE/feat/Dubious Knowledge|Dubious Knowledge]]'
 id: '200'
 name: Harrow-Led
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - Harrow [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Pathfinder 160. Assault on Hunting Lodge Seven|Pathfinder
   #160: Assault on Hunting Lodge Seven]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

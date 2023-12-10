@@ -2,7 +2,6 @@
 id: '226'
 name: Lizardfolk
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 trait:
 - Lizardfolk

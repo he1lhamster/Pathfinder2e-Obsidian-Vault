@@ -1,58 +1,25 @@
 ﻿---
-ac: null
 actions: '[one-action]'
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '1233'
 item_category: Consumables
 item_subcategory: Talismans
-land_speed: null
 level: '12'
-max_speed: null
 name: Shrieking Skull
-onset: null
 price: 400 gp
-range: null
 rarity: Common
-reflex: null
 requirement: You're an expert in [[DATABASE/skill/Intimidation|Intimidation]] and
   the affixed weapon isloaded.
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Enchantment
-size: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-spell: null
-stage: null
 subcategory: consumable/talisman
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Auditory|Auditory]]'
 - '[[DATABASE/trait/Consumable|Consumable]]'
 - '[[DATABASE/trait/Enchantment|Enchantment]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Talisman|Talisman]]'
-trigger: null
 type: Item
 usage: affixed to a firearm or crossbow
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Shrieking Skull<span class="item-type">Item 12</span>

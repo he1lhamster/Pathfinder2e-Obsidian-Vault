@@ -1,26 +1,19 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Jalmeri Heavenseeker Dedication
-frequency: null
-heighten_level: null
 id: '2198'
+leads_to: '[[DATABASE/feat/Heaven''s Thunder|Heaven''s Thunder]] , [[DATABASE/feat/Sky
+  and Heaven Stance|Sky and Heaven Stance]] , [[DATABASE/feat/Speaking Sky|Speaking
+  Sky]] , [[DATABASE/feat/Steal the Sky|Steal the Sky]]'
 level: '4'
 name: Jalmeri Heavenseeker Dedication
 prerequisite: '[[DATABASE/feat/Student of Perfection Dedication|Student of Perfection
   Dedication]] , or you''ve trained with achampion of the Challenge of Sky and Heaven'
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

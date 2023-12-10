@@ -1,10 +1,7 @@
 ﻿---
 ac: '50'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+7'
-climb_speed: null
 constitution: '+9'
 creature_ability:
 - Attack of Opportunity
@@ -17,12 +14,10 @@ creature_ability:
 - Manipulate Energy
 - Redirect Energy
 - Smoke Vision
-creature_family: null
 dexterity: '+5'
 element: Fire
 fly_speed: '240'
 fortitude: '+36'
-hardness: null
 hp: '500'
 id: '1588'
 immunity:
@@ -47,8 +42,6 @@ resistance:
 - '[[DATABASE/trait/Cold|cold]] 24'
 - '[[DATABASE/trait/Electricity|electricity]] 24'
 - '[[DATABASE/trait/Poison|poison]] 24'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 60 feet'
@@ -76,7 +69,6 @@ strength: '+10'
 strength_req: '10'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dragon|Dragon]]'
 - '[[DATABASE/trait/Fire|Fire]]'

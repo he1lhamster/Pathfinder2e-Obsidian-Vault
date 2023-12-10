@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Eternal Wings (Sylph)
-frequency: null
-heighten_level: null
 id: '2603'
 level: '17'
 name: Eternal Wings (Sylph)
 prerequisite: '[[DATABASE/feat/Wings of Air|Wings of Air]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Sylph|Sylph]]'
-trigger: null
 type: Feat
 
 ---

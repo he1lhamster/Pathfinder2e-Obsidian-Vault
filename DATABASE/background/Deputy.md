@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Experienced Tracker|Experienced Tracker]]'
 id: '269'
 name: Deputy
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Survival|Survival]]'
 - Hunting [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

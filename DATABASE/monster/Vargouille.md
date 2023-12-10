@@ -1,26 +1,18 @@
 ﻿---
 ac: '18'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Tenacious Wounds
 - Vargouille's Kiss
 - Vargouille's Shriek
-creature_family: null
 dexterity: '+4'
-element: null
 fly_speed: '25'
 fortitude: '+6'
-hardness: null
 hp: '28'
 id: '2186'
-immunity: null
 intelligence: '-3'
-land_speed: null
 language:
 - '[[DATABASE/language/Daemonic|Daemonic]]'
 level: '2'
@@ -29,9 +21,6 @@ name: Vargouille
 perception: '+8'
 rarity: Rare
 reflex: '+10'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -43,12 +32,10 @@ skill:
 source: '[[DATABASE/source/Crown of the Kobold King|Crown of the Kobold King]]'
 speed:
 - fly 25 feet
-spell: null
 strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'
@@ -57,7 +44,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+8'
 wisdom: '+2'
 

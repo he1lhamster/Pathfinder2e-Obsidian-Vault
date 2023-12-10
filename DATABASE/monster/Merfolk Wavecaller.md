@@ -1,22 +1,15 @@
 ﻿---
 ac: '17'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Hydraulic Asphyxiation
 creature_family: '[[DATABASE/monsterfamily/Merfolk|Merfolk]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+7'
-hardness: null
 hp: '30'
 id: '299'
-immunity: null
 intelligence: '+0'
 land_speed: '5'
 language:
@@ -28,9 +21,6 @@ name: Merfolk Wavecaller
 perception: '+8'
 rarity: Common
 reflex: '+6'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 size: Medium
@@ -65,7 +55,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Reflex
-weakness: null
 will: '+10'
 wisdom: '+4'
 

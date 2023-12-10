@@ -1,22 +1,15 @@
 ﻿---
 ac: '31'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+7'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Change Shape
 - Mind Bolt
 - Thoughtsense
 - Unsettled Aura
-creature_family: null
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+18'
-hardness: null
 hp: '195'
 id: '687'
 immunity:
@@ -36,8 +29,6 @@ rarity: Uncommon
 reflex: '+23'
 resistance:
 - mental 10
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - thoughtsense 60 feet
@@ -67,7 +58,6 @@ strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
@@ -75,7 +65,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+22'
 wisdom: '+5'
 

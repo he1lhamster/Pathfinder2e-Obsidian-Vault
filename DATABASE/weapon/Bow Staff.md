@@ -1,8 +1,6 @@
 ﻿---
 bulk: '1'
 damage: 1d6 P
-deity: null
-favored_weapon: null
 hands: 1+
 id: '344'
 item_category: Weapons
@@ -12,7 +10,6 @@ name: Bow Staff
 price: 8 gp
 range: 80 ft.
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 trait:
 - '[[DATABASE/trait/Combination|Combination]]'

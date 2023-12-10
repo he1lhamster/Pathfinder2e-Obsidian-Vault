@@ -1,23 +1,14 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Freeze It!
-frequency: null
-heighten_level: null
 id: '1007'
 level: '9'
 name: Freeze It!
 prerequisite: '[[DATABASE/heritage/Snow Goblin|Snow Goblin]] heritage'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Goblin|Goblin]]'
-trigger: null
 type: Feat
 
 ---

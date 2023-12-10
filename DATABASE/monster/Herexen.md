@@ -1,20 +1,14 @@
 ﻿---
 ac: '17'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Final Blasphemy
 - Heretic's Smite
 creature_family: '[[DATABASE/monsterfamily/Herexen|Herexen]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+5'
-hardness: null
 hp: 30 ( negative healing )
 id: '1192'
 immunity:
@@ -34,9 +28,6 @@ name: Herexen
 perception: '+8'
 rarity: Uncommon
 reflex: '+8'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -55,7 +46,6 @@ strength: '+2'
 strength_req: '2'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 - '[[DATABASE/trait/Undead|Undead]]'
@@ -63,7 +53,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+10'
 wisdom: '+4'
 

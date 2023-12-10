@@ -1,17 +1,13 @@
 ﻿---
 id: '15'
-level: null
 name: Addiction
 onset: 1 day
 rarity: Common
-rus_type_level: null
 saving_throw: Fortitude (DC equals that of the drug)
-school: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 stage: 'Stage 1: fatigued (1 week)Stage 2: fatigued and sickened 1 (1 week)Stage 3:
   fatigued, drained 1, and sickened 1 (1 week)Stage 4: fatigued, drained 2, sickened
   2, and stupefied2 (1 week)'
-trait: null
 type: Disease
 
 ---

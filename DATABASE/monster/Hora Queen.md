@@ -1,10 +1,7 @@
 ﻿---
 ac: '35'
 alignment: CG
-all_resistance: null
-burrow_speed: null
 charisma: '+8'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Change Shape
@@ -17,13 +14,9 @@ creature_ability:
 - to the Land
 creature_family: '[[DATABASE/monsterfamily/Nymph|Nymph]]'
 dexterity: '+8'
-element: null
-fly_speed: null
 fortitude: '+21'
-hardness: null
 hp: '190'
 id: '1814'
-immunity: null
 intelligence: '+4'
 land_speed: '25'
 language:
@@ -40,8 +33,6 @@ rarity: Rare
 reflex: '+25'
 resistance:
 - '[[DATABASE/trait/Fire|fire]] 10'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
@@ -99,7 +90,6 @@ strength: '+2'
 strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Nymph|Nymph]]'

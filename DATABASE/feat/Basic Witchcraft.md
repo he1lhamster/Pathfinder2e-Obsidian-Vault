@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Basic Witchcraft
-frequency: null
-heighten_level: null
 id: '1868'
+leads_to: '[[DATABASE/feat/Advanced Witchcraft|Advanced Witchcraft]]'
 level: '4'
 name: Basic Witchcraft
 prerequisite: '[[DATABASE/feat/Witch Dedication|Witch Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

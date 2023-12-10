@@ -1,10 +1,7 @@
 ﻿---
 ac: '48'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+10'
-climb_speed: null
 constitution: '+10'
 creature_ability:
 - Duplicate Victim
@@ -12,13 +9,9 @@ creature_ability:
 - Steady Spellcasting
 creature_family: '[[DATABASE/monsterfamily/Fetch|Fetch]]'
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+38'
-hardness: null
 hp: '470'
 id: '2209'
-immunity: null
 intelligence: '+8'
 land_speed: '35'
 language:
@@ -30,9 +23,6 @@ name: Risen Fetch
 perception: '+38'
 rarity: Rare
 reflex: '+34'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/spell/True Seeing|true seeing]]'
@@ -69,7 +59,6 @@ strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Plant|Plant]]'

@@ -1,24 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Archer Dedication
-frequency: null
-heighten_level: null
 id: '1885'
+leads_to: '[[DATABASE/feat/Advanced Bow Training|Advanced Bow Training]] , [[DATABASE/feat/Archer''s
+  Aim|Archer''s Aim]] , [[DATABASE/feat/Crossbow Terror|Crossbow Terror]] , [[DATABASE/feat/Quick
+  Shot|Quick Shot]] , [[DATABASE/feat/Staggering Fire|Staggering Fire]]'
 level: '2'
 name: Archer Dedication
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,21 +1,16 @@
 ﻿---
 actions: '[one-action]'
 cost: 1 batch of infused reagents
-element: null
-frequency: null
 id: '2'
 name: Quick Alchemy
 rarity: Common
 requirement: You have the formula for the alchemical item you're creating, and you're
   either holding or wearing [[DATABASE/equipment/Alchemist's Tools|alchemist's tools]]
   .
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Alchemist|Alchemist]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
-trigger: null
 type: Action
 
 ---

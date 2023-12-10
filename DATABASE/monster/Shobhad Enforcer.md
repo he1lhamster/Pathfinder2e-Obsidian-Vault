@@ -1,10 +1,7 @@
 ﻿---
 ac: '38'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Attack of Opportunity
@@ -12,13 +9,9 @@ creature_ability:
 - Ferocity
 creature_family: '[[DATABASE/monsterfamily/Shobhad|Shobhad]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+31'
-hardness: null
 hp: '320'
 id: '1678'
-immunity: null
 intelligence: '+2'
 land_speed: '30'
 language:
@@ -30,9 +23,6 @@ name: Shobhad Enforcer
 perception: '+29'
 rarity: Uncommon
 reflex: '+26'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -45,12 +35,10 @@ source: '[[DATABASE/source/Pathfinder 173. Doorway to the Red Star|Pathfinder #1
   Doorway to the Red Star]]'
 speed:
 - 30 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
@@ -58,7 +46,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+27'
 wisdom: '+5'
 

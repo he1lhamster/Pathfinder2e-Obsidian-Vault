@@ -1,25 +1,17 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Pactbound Dedication
-frequency: null
-heighten_level: null
 id: '3414'
+leads_to: '[[DATABASE/feat/Crown of the Saumen Kar|Crown of the Saumen Kar]] , [[DATABASE/feat/Frostbite
+  Runes|Frostbite Runes]] , [[DATABASE/feat/Ice Crafter|Ice Crafter]]'
 level: '2'
 name: Pactbound Dedication
 prerequisite: Trained in [[DATABASE/skill/Nature|Nature]]
 rarity: Rare
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Monsters of Myth|Monsters of Myth]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Feat
 
 ---

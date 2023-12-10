@@ -1,29 +1,15 @@
 ﻿---
-actions: null
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: until the next time you make your daily preparations
-element: null
-heighten: null
 heighten_level: '3'
 id: '1192'
-lesson: null
 level: '3'
-mystery: null
 name: Time Pocket
-patron_theme: null
 range: touch
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 target: one item of 1 Bulk or less that a willing creature is holding
@@ -32,7 +18,6 @@ tradition:
 - Occult
 trait:
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Spell
 
 ---

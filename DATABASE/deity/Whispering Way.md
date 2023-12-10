@@ -1,13 +1,8 @@
 ﻿---
-ability: null
-ability_boost: null
 alignment: No Alignment
 deity:
 - '[[DATABASE/deity/Whispering Way|Whispering Way]]'
 deity_category: Faiths & Philosophies
-divine_font: null
-domain: null
-favored_weapon: null
 follower_alignment:
 - LE
 - NE
@@ -15,10 +10,7 @@ follower_alignment:
 id: '24'
 name: Whispering Way
 rarity: Common
-rus_type_level: null
-skill: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Deity
 
 ---

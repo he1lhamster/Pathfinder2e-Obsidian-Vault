@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Greater Revelation
-frequency: null
-heighten_level: null
 id: '1501'
+leads_to: '[[DATABASE/feat/Paradoxical Mystery|Paradoxical Mystery]]'
 level: '12'
 name: Greater Revelation
 prerequisite: initial revelation spell
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Oracle|Oracle]]'
-trigger: null
 type: Feat
 
 ---

@@ -28,11 +28,9 @@ follower_alignment:
 id: '216'
 name: Luhar
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Stealth|Stealth]]'
 source: '[[DATABASE/source/Legends|Legends]]'
-trait: null
 type: Deity
 
 ---

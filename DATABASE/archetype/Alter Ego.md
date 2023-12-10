@@ -4,7 +4,6 @@ level: '2'
 name: Alter Ego
 prerequisite: Trained in [[DATABASE/skill/Deception|Deception]] ; Trained in [[DATABASE/skill/Stealth|Stealth]]
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

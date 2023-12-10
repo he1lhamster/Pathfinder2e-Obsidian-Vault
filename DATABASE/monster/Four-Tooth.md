@@ -1,25 +1,17 @@
 ﻿---
 ac: '25'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Attack of Opportunity
 - Jaws
 - Slashing Snare
 - Snagging Chain
-creature_family: null
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+18'
-hardness: null
 hp: '120'
 id: '2713'
-immunity: null
 intelligence: '+1'
 land_speed: '20'
 language:
@@ -34,8 +26,6 @@ rarity: Unique
 reflex: '+13'
 resistance:
 - '[[DATABASE/trait/Poison|poison]] 5'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/spell/Darkvision|darkvision]]'
 size: Medium
@@ -57,7 +47,6 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Duergar|Duergar]]'
 - '[[DATABASE/trait/Dwarf|Dwarf]]'
@@ -67,7 +56,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+15'
 wisdom: '+3'
 

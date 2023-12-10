@@ -1,10 +1,7 @@
 ﻿---
 ac: '39'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Anonymity
@@ -15,14 +12,10 @@ creature_ability:
 - Greater Constrict
 - Nourishing Feast
 - Rotting Flesh
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+26'
 hp: 350 ( negative healing )
 id: '1647'
-immunity: null
 intelligence: '+3'
 land_speed: '25'
 language:
@@ -34,8 +27,6 @@ name: Gray Gardener Enforcer
 perception: '+28'
 rarity: Rare
 reflex: '+27'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -48,12 +39,10 @@ skill:
 source: '[[DATABASE/source/Night of the Gray Death|Night of the Gray Death]]'
 speed:
 - 25 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'

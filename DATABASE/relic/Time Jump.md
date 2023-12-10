@@ -1,11 +1,8 @@
 ﻿---
-element: null
 id: '107'
 item_category: Relics
 name: Time Jump
-prerequisite: null
 rarity: Common
-rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 trait:

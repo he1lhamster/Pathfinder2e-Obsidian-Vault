@@ -1,9 +1,4 @@
 ﻿---
-area: null
-cost: null
-duration: null
-element: null
-heighten: null
 heighten_level: '5'
 id: '97'
 level: '5'
@@ -11,8 +6,6 @@ name: Incarnate Ancestry
 primary_check: '[[DATABASE/skill/Nature|Nature]] (expert)'
 range: 30 feet
 rarity: Rare
-requirement: null
-rus_type_level: null
 school: Transmutation
 secondary_casters: '3'
 secondary_check: '[[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Medicine|Medicine]]

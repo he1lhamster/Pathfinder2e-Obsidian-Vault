@@ -1,10 +1,7 @@
 ﻿---
 ac: '35'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+7'
-climb_speed: null
 constitution: '+8'
 creature_ability:
 - Blinding Aura
@@ -13,12 +10,8 @@ creature_ability:
 - Light Camouflage
 - Nova Burst
 - Residual Light
-creature_family: null
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+28'
-hardness: null
 hp: '255'
 id: '1666'
 immunity:
@@ -35,9 +28,6 @@ name: Sunburst Corpse
 perception: '+25'
 rarity: Uncommon
 reflex: '+21'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -49,12 +39,10 @@ source: '[[DATABASE/source/Pathfinder 172. Secrets of the Temple City|Pathfinder
   Secrets of the Temple City]]'
 speed:
 - 35 feet
-spell: null
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 - '[[DATABASE/trait/Undead|Undead]]'

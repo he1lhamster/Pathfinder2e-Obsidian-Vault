@@ -1,20 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Poison Coat
-frequency: null
-heighten_level: null
 id: '2039'
 level: '6'
 name: Poison Coat
 prerequisite: '[[DATABASE/feat/Poisoner Dedication|Poisoner Dedication]]'
 rarity: Common
 requirement: You have prepared your clothing to poison attackers (see below).
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 trigger: A creature adjacent to you hits you with a melee unarmed Strike.

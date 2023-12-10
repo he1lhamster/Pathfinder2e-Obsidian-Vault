@@ -1,9 +1,5 @@
 ﻿---
-ac: null
-all_resistance: null
 complexity: Complex
-element: null
-fortitude: null
 hardness: 13 Door Hardness
 hazard_type: Trap
 hp: 52 (BT 26)
@@ -15,10 +11,6 @@ immunity:
 level: '5'
 name: Gas Trap
 rarity: Common
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 157. Devil at the Dreaming Palace|Pathfinder
   #157: Devil at the Dreaming Palace]]'
 trait:
@@ -26,8 +18,6 @@ trait:
 - '[[DATABASE/trait/Mechanical|Mechanical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Gas Trap<span class="item-type">Hazard 5</span>

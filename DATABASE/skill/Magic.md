@@ -1,14 +1,10 @@
 ﻿---
-ability: null
-ability_boost: null
 id: '27'
 name: Magic
 rarity: Common
-rus_type_level: null
 skill:
 - Magic
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
-trait: null
 type: Skill
 
 ---

@@ -1,19 +1,14 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 frequency: once per day
 id: '315'
 name: Energy Emanation
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 trait:
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Primal|Primal]]'
-trigger: null
 type: Action
 
 ---

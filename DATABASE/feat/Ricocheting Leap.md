@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Ricocheting Leap
-frequency: null
-heighten_level: null
 id: '2827'
 level: '9'
 name: Ricocheting Leap
 prerequisite: '[[DATABASE/feat/Wall Jump|Wall Jump]] ; Master in [[DATABASE/skill/Athletics|Athletics]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Grippli|Grippli]]'
-trigger: null
 type: Feat
 
 ---

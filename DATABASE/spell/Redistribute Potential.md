@@ -1,32 +1,20 @@
 ﻿---
 actions: '[two-actions]'
 area: 2 adjacent 5-foot squares
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
-duration: null
 element: Fire
 heighten: '+1'
 heighten_level: 5, 6, 7, 8, 9, 10
 id: '1138'
-lesson: null
 level: '5'
-mystery: null
 name: Redistribute Potential
-patron_theme: null
 range: 60 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 saving_throw: basicFortitude
 school: Evocation
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-target: null
-tradition: null
 trait:
 - '[[DATABASE/trait/Cantrip|Cantrip]]'
 - '[[DATABASE/trait/Cold|Cold]]'
@@ -34,7 +22,6 @@ trait:
 - '[[DATABASE/trait/Fire|Fire]]'
 - '[[DATABASE/trait/Psychic|Psychic]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Cantrip
 
 ---

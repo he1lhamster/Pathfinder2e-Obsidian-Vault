@@ -1,20 +1,12 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Unexpected Shift
-frequency: null
-heighten_level: null
 id: '993'
+leads_to: '[[DATABASE/feat/Fortuitous Shift|Fortuitous Shift]]'
 level: '1'
 name: Unexpected Shift
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Gnome|Gnome]]'
 trigger: You would take damage from an attack, spell, or other effect.

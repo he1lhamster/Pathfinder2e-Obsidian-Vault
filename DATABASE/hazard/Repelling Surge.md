@@ -1,28 +1,15 @@
 ﻿---
-ac: null
-all_resistance: null
 complexity: Simple
-element: null
-fortitude: null
-hardness: null
-hazard_type: null
-hp: null
 id: '409'
-immunity: null
 level: '9'
 name: Repelling Surge
 rarity: Common
-reflex: null
-resistance: null
-rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Pathfinder 195. Heavy is the Crown|Pathfinder #195: Heavy
   is the Crown]]'
 trait:
 - '[[DATABASE/trait/Evocation|Evocation]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Repelling Surge<span class="item-type">Hazard 9</span>

@@ -2,7 +2,6 @@
 id: '6'
 name: The Unbound Step
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 spell:
 - '[[DATABASE/spell/Bilocation|Bilocation]]'
@@ -19,7 +18,6 @@ spell:
 - '[[DATABASE/spell/Tesseract Tunnel|Tesseract Tunnel]]'
 - '[[DATABASE/spell/Thoughtful Gift|Thoughtful Gift]]'
 - '[[DATABASE/spell/Warp Step|Warp Step]]'
-trait: null
 type: Psychic Conscious Mind
 
 ---

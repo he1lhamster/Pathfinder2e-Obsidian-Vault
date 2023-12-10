@@ -1,10 +1,7 @@
 ﻿---
 ac: '40'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Attack of Opportunity
@@ -15,15 +12,10 @@ creature_ability:
 - Troop Movement
 - ''
 - Wasshoi! Wasshoi!
-creature_family: null
 dexterity: '+7'
-element: null
-fly_speed: null
 fortitude: '+32'
-hardness: null
 hp: '450'
 id: '1519'
-immunity: null
 intelligence: '+5'
 land_speed: '25'
 language:
@@ -34,9 +26,6 @@ name: Dancing Night Parade
 perception: '+28'
 rarity: Unique
 reflex: '+26'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Gargantuan
@@ -51,12 +40,10 @@ source: '[[DATABASE/source/Pathfinder 168. King of the Mountain|Pathfinder #168:
   of the Mountain]]'
 speed:
 - 25 feet; troop movement
-spell: null
 strength: '+8'
 strength_req: '8'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Spirit|Spirit]]'
 - '[[DATABASE/trait/Troop|Troop]]'

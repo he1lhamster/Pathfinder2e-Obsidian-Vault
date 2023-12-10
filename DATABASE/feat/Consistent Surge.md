@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Consistent Surge
-frequency: null
-heighten_level: null
 id: '2474'
 level: '13'
 name: Consistent Surge
 prerequisite: '[[DATABASE/feat/Nanite Surge|Nanite Surge]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Android|Android]]'
-trigger: null
 type: Feat
 
 ---

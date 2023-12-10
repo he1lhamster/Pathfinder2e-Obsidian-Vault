@@ -1,24 +1,19 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Beastmaster Dedication
-frequency: null
-heighten_level: null
 id: '1900'
+leads_to: '[[DATABASE/feat/Additional Companion|Additional Companion]] , [[DATABASE/feat/Beastmaster
+  Bond|Beastmaster Bond]] , [[DATABASE/feat/Beastmaster''s Call|Beastmaster''s Call]]
+  , [[DATABASE/feat/Beastmaster''s Trance|Beastmaster''s Trance]] , [[DATABASE/feat/Heal
+  Animal|Heal Animal]] , [[DATABASE/feat/Mature Beastmaster Companion|Mature Beastmaster
+  Companion]]'
 level: '2'
 name: Beastmaster Dedication
 prerequisite: Trained in [[DATABASE/skill/Nature|Nature]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
-trigger: null
 type: Feat
 
 ---

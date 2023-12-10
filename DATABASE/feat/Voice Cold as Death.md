@@ -1,20 +1,13 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Voice Cold as Death
-frequency: null
-heighten_level: null
 id: '3590'
 level: '7'
 name: Voice Cold as Death
 prerequisite: '[[DATABASE/feat/Knight Reclaimant Dedication|Knight Reclaimant Dedication]]'
 rarity: Common
 requirement: You are not [[DATABASE/condition/Fatigued|fatigued]] .
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Knights of Lastwall|Knights of Lastwall]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Auditory|Auditory]]'
@@ -23,7 +16,6 @@ trait:
 - '[[DATABASE/trait/Fear|Fear]]'
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

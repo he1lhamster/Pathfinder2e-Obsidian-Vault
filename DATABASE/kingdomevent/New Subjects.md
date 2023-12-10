@@ -3,7 +3,6 @@ id: '25'
 level: '0'
 name: New Subjects
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Statecraft|Statecraft]]'
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'

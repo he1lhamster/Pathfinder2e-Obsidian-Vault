@@ -1,24 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Stormsoul
-frequency: null
-heighten_level: null
 id: '2593'
 level: '1'
 name: Stormsoul
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Lineage|Lineage]]'
 - '[[DATABASE/trait/Sylph|Sylph]]'
-trigger: null
 type: Feat
 
 ---

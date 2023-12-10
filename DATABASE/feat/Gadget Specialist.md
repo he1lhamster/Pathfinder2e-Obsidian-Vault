@@ -1,23 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Gadget Specialist
-frequency: null
-heighten_level: null
 id: '3058'
+leads_to: '[[DATABASE/feat/Contingency Gadgets|Contingency Gadgets]] , [[DATABASE/feat/Ubiquitous
+  Gadgets|Ubiquitous Gadgets]]'
 level: '4'
 name: Gadget Specialist
 prerequisite: Expert in [[DATABASE/skill/Crafting|Crafting]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Inventor|Inventor]]'
-trigger: null
 type: Feat
 
 ---

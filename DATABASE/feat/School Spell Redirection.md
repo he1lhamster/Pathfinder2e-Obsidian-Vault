@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: School Spell Redirection
-frequency: null
-heighten_level: null
 id: '3027'
 level: '18'
 name: School Spell Redirection
 prerequisite: '[[DATABASE/feat/Counterspell|Counterspell]] ; [[DATABASE/feat/Runelord
   Dedication|Runelord Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

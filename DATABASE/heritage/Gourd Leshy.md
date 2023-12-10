@@ -2,9 +2,7 @@
 id: '46'
 name: Gourd Leshy
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-trait: null
 type: Heritage
 
 ---

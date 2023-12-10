@@ -2,9 +2,7 @@
 ac: '44'
 alignment: NE
 all_resistance: '15'
-burrow_speed: null
 charisma: '+10'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Flailing Touch
@@ -13,12 +11,9 @@ creature_ability:
 - Resentful Possession
 - Soul Bleed
 - Spectral Lurker
-creature_family: null
 dexterity: '+7'
-element: null
 fly_speed: '60'
 fortitude: '+31'
-hardness: null
 hp: '330'
 id: '1641'
 immunity:
@@ -29,7 +24,6 @@ immunity:
 - precision
 - unconcious
 intelligence: '+6'
-land_speed: null
 language:
 - '[[DATABASE/language/Common|Common]] ; telepathy 100 feet'
 level: '20'
@@ -42,8 +36,6 @@ resistance:
 - all damage 15 (except force
 - ghost touch
 - or positive; double resistance vs. non-magical)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Lifesense|lifesense]] 1'
@@ -57,12 +49,10 @@ skill:
 source: '[[DATABASE/source/Night of the Gray Death|Night of the Gray Death]]'
 speed:
 - fly 60 feet
-spell: null
 strength: '-5'
 strength_req: '-5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Incorporeal|Incorporeal]]'
 - '[[DATABASE/trait/Rare|Rare]]'

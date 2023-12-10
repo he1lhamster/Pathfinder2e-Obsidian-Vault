@@ -1,10 +1,6 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Hook 'Em
-frequency: null
-heighten_level: null
 id: '4147'
 level: '10'
 name: Hook 'Em
@@ -12,15 +8,11 @@ prerequisite: '[[DATABASE/feat/Pirate Dedication|Pirate Dedication]]'
 rarity: Uncommon
 requirement: A rope is within your reach, or you have a [[DATABASE/equipment/Rope|rope]]
   or [[DATABASE/trait/Grapple|grappling]] weapon in your hand.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Firebrands|Firebrands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Flourish|Flourish]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

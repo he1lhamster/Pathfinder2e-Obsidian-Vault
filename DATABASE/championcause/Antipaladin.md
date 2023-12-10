@@ -3,9 +3,7 @@ alignment: CE
 id: '6'
 name: Antipaladin
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-trait: null
 type: Champion Cause
 
 ---

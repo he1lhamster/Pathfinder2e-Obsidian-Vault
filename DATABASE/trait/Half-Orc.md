@@ -2,7 +2,6 @@
 id: '86'
 name: Half-Orc
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - Half-Orc

@@ -1,55 +1,19 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
 element: Water
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '2623'
 item_category: Figurehead
-item_subcategory: null
-land_speed: null
 level: '10'
-max_speed: null
 name: Aboutface Figurehead
-onset: null
 price: 980 gp
-range: null
 rarity: Common
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
-school: null
-size: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-spell: null
-stage: null
 subcategory: figurehead
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Figurehead|Figurehead]]'
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Water|Water]]'
-trigger: null
 type: Item
 usage: attached to a ship's bow
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Aboutface Figurehead<span class="item-type">Item 10</span>

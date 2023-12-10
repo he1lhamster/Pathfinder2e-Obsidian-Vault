@@ -3,10 +3,8 @@ creature_family: Harrowkin
 id: '339'
 name: Harrowkin
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 192. Worst of All Possible Worlds|Pathfinder
   #192: Worst of All Possible Worlds]]'
-trait: null
 type: Creature Family
 
 ---

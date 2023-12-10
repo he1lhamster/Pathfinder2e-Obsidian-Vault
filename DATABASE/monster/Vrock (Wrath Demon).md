@@ -1,10 +1,7 @@
 ﻿---
 ac: '28'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Attack of Opportunity
@@ -14,13 +11,10 @@ creature_ability:
 - Stunning Screech
 creature_family: '[[DATABASE/monsterfamily/Demon|Demon]]'
 dexterity: '+3'
-element: null
 fly_speed: '35'
 fortitude: '+20'
-hardness: null
 hp: '185'
 id: '100'
-immunity: null
 intelligence: '+2'
 land_speed: '25'
 language:
@@ -35,8 +29,6 @@ rarity: Common
 reflex: '+18'
 resistance:
 - '[[DATABASE/trait/Electricity|electricity]] 10'
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Large
@@ -58,7 +50,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Demon|Demon]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

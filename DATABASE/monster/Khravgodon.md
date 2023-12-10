@@ -1,7 +1,6 @@
 ﻿---
 ac: '27'
 alignment: N
-all_resistance: null
 burrow_speed: '15'
 charisma: '+0'
 climb_speed: '15'
@@ -13,16 +12,11 @@ creature_ability:
 - Revived Retaliation
 creature_family: '[[DATABASE/monsterfamily/Opossum|Opossum]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+20'
-hardness: null
 hp: '160'
 id: '1254'
-immunity: null
 intelligence: '-4'
 land_speed: '30'
-language: null
 level: '9'
 max_speed: '30'
 name: Khravgodon
@@ -32,8 +26,6 @@ reflex: '+18'
 resistance:
 - acid 10
 - '[[DATABASE/trait/Poison|poison]] 10'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -47,19 +39,16 @@ speed:
 - 30 feet
 - burrow 15 feet
 - climb 15 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+16'
 wisdom: '+3'
 

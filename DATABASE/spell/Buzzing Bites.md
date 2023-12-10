@@ -1,38 +1,26 @@
 ﻿---
 actions: '[one-action]'
-area: null
-bloodline: null
 component:
 - Somatic
-cost: null
-deity: null
-domain: null
 duration: sustained up to 1 minute
-element: null
 heighten: '+1'
 heighten_level: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
 id: '1089'
-lesson: null
 level: '1'
-mystery: null
 name: Buzzing Bites
 patron_theme: '[[DATABASE/witchpatron/Mosquito Witch|Mosquito Witch]]'
 range: 30 feet
 rarity: Rare
-requirement: null
-rus_type_level: null
 saving_throw: Fortitude
 school: Evocation
 source: '[[DATABASE/source/Monsters of Myth|Monsters of Myth]]'
 target: 1 creature
-tradition: null
 trait:
 - '[[DATABASE/trait/Cantrip|Cantrip]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Hex|Hex]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Witch|Witch]]'
-trigger: null
 type: Cantrip
 
 ---

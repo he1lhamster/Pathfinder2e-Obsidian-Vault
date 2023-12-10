@@ -1,10 +1,7 @@
 ﻿---
 ac: '30'
-alignment: null
-all_resistance: null
 burrow_speed: '20'
 charisma: '+3'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Caustic Rust
@@ -16,7 +13,6 @@ dexterity: '+2'
 element: Metal
 fly_speed: '20'
 fortitude: '+24'
-hardness: null
 hp: '245'
 id: '2653'
 immunity:
@@ -37,8 +33,6 @@ reflex: '+17'
 resistance:
 - '[[DATABASE/trait/Acid|acid]] 10'
 - '[[DATABASE/trait/Electricity|electricity]] 10'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - rust vision
@@ -51,12 +45,10 @@ speed:
 - 30 feet
 - burrow 20 feet
 - fly 20 feet
-spell: null
 strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Elemental|Elemental]]'
 - '[[DATABASE/trait/Metal|Metal]]'
@@ -64,7 +56,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+20'
 wisdom: '+3'
 

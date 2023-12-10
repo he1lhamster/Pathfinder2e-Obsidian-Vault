@@ -1,26 +1,18 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Share Rage
-frequency: null
-heighten_level: null
 id: '154'
+leads_to: '[[DATABASE/feat/Contagious Rage|Contagious Rage]]'
 level: '8'
 name: Share Rage
-prerequisite: null
 rarity: Common
 requirement: "You haven\u2019t used this ability since you last Raged."
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Auditory|Auditory]]'
 - '[[DATABASE/trait/Barbarian|Barbarian]]'
 - '[[DATABASE/trait/Rage|Rage]]'
 - '[[DATABASE/trait/Visual|Visual]]'
-trigger: null
 type: Feat
 
 ---

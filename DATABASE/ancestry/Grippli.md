@@ -18,7 +18,6 @@ language:
 max_speed: '25'
 name: Grippli
 rarity: Uncommon
-rus_type_level: null
 size: Small
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
 speed:

@@ -1,26 +1,20 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
 element: Fire
 feat: Blazing Talon Surge
-frequency: null
-heighten_level: null
 id: '2270'
+leads_to: '[[DATABASE/feat/Explosive Death Drop|Explosive Death Drop]]'
 level: '6'
 name: Blazing Talon Surge
 prerequisite: '[[DATABASE/feat/Rain of Embers Stance|Rain of Embers Stance]]'
 rarity: Common
 requirement: You are in [[DATABASE/feat/Rain of Embers Stance|Rain of Embers Stance]]
   .
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fire|Fire]]'
 - '[[DATABASE/trait/Flourish|Flourish]]'
 - '[[DATABASE/trait/Monk|Monk]]'
-trigger: null
 type: Feat
 
 ---

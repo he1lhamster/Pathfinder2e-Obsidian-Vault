@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Meditative Wellspring
-frequency: null
-heighten_level: null
 id: '485'
 level: '18'
 name: Meditative Wellspring
 prerequisite: '[[DATABASE/feat/Meditative Focus|Meditative Focus]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Monk|Monk]]'
-trigger: null
 type: Feat
 
 ---

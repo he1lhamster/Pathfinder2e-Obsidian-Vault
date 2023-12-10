@@ -1,20 +1,14 @@
 ﻿---
 actions: '[reaction]'
-cost: null
 element: Fire
 feat: Blazing Aura
 frequency: once per day
-heighten_level: null
 id: '2564'
 level: '17'
 name: Blazing Aura
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'

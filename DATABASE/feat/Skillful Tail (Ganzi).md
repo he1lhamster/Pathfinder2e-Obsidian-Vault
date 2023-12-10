@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Skillful Tail (Ganzi)
-frequency: null
-heighten_level: null
 id: '2538'
+leads_to: '[[DATABASE/feat/Larcenous Tail|Larcenous Tail]] , [[DATABASE/feat/Mischievous
+  Tail|Mischievous Tail]]'
 level: '5'
 name: Skillful Tail (Ganzi)
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Ganzi|Ganzi]]'
-trigger: null
 type: Feat
 
 ---

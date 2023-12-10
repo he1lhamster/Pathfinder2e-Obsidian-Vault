@@ -1,8 +1,6 @@
 ﻿---
 ac: '21'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
 climb_speed: '10'
 constitution: '+4'
@@ -12,25 +10,17 @@ creature_ability:
 - Retract
 creature_family: '[[DATABASE/monsterfamily/Crab|Crab]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+15'
-hardness: null
 hp: '114'
 id: '1107'
-immunity: null
 intelligence: '-4'
 land_speed: '20'
-language: null
 level: '5'
 max_speed: '20'
 name: Giant Hermit Crab
 perception: '+13'
 rarity: Common
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) 15 feet'
@@ -44,7 +34,6 @@ speed:
 - 20 feet
 - climb 10 feet
 - swim 15 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:

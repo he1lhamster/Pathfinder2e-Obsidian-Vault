@@ -2,9 +2,7 @@
 ac: '39'
 alignment: LE
 all_resistance: '15'
-burrow_speed: null
 charisma: '+9'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Attack of Opportunity
@@ -15,12 +13,9 @@ creature_ability:
 - Sunlight Powerlessness
 - ''
 - Wraith Spawn
-creature_family: null
 dexterity: '+6'
-element: null
 fly_speed: '40'
 fortitude: '+22'
-hardness: null
 hp: 285 ( negative healing )
 id: '1463'
 immunity:
@@ -31,7 +26,6 @@ immunity:
 - precision
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '+2'
-land_speed: null
 language:
 - '[[DATABASE/language/Necril|Necril]]'
 - '[[DATABASE/language/Tien|Tien]]'
@@ -46,8 +40,6 @@ resistance:
 - '[[DATABASE/equipment/Ghost Touch|ghost touch]]'
 - or [[DATABASE/trait/Positive|positive]] ;double resistance vs. non- [[DATABASE/trait/Magical|magical]]
   )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - lifesense 60 feet
@@ -60,13 +52,11 @@ source: '[[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #
   Despair on Danger Island]]'
 speed:
 - fly 40 feet
-spell: null
 strength: '-5'
 strength_req: '-5'
 strongest_save:
 - Reflex
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Incorporeal|Incorporeal]]'
 - '[[DATABASE/trait/Undead|Undead]]'
@@ -76,7 +66,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+28'
 wisdom: '+5'
 

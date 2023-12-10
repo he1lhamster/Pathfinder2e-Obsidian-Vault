@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Skilled Climber
-frequency: null
-heighten_level: null
 id: '3972'
 level: '5'
 name: Skilled Climber
 prerequisite: '[[DATABASE/heritage/Athamasi|Athamasi]] heritage or [[DATABASE/heritage/Xyloshi|Xyloshi]]
   heritage'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Kashrishi|Kashrishi]]'
-trigger: null
 type: Feat
 
 ---

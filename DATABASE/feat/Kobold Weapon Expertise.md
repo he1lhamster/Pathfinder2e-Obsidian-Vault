@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Kobold Weapon Expertise
-frequency: null
-heighten_level: null
 id: '2390'
 level: '13'
 name: Kobold Weapon Expertise
 prerequisite: '[[DATABASE/feat/Kobold Weapon Familiarity|Kobold Weapon Familiarity]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Kobold|Kobold]]'
-trigger: null
 type: Feat
 
 ---

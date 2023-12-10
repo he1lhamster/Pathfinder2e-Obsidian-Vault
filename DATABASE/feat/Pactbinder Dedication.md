@@ -1,27 +1,22 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Pactbinder Dedication
-frequency: null
-heighten_level: null
 id: '3822'
+leads_to: '[[DATABASE/feat/Pact of Draconic Fury|Pact of Draconic Fury]] , [[DATABASE/feat/Pact
+  of Eldritch Eyes|Pact of Eldritch Eyes]] , [[DATABASE/feat/Pact of Fey Glamour|Pact
+  of Fey Glamour]] , [[DATABASE/feat/Pact of Infernal Prowess|Pact of Infernal Prowess]]
+  , [[DATABASE/feat/Pact of the Final Breath|Pact of the Final Breath]] , [[DATABASE/feat/Sociable
+  Vow|Sociable Vow]]'
 level: '2'
 name: Pactbinder Dedication
 prerequisite: trained in [[DATABASE/skill/Diplomacy|Diplomacy]] as well as either
   [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]] , [[DATABASE/skill/Occultism|Occultism]]
   , or [[DATABASE/skill/Religion|Religion]]
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

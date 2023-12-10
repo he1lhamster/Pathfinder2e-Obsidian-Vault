@@ -1,22 +1,15 @@
 ﻿---
 ac: '21'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Aura of Sobs
 - Steal Breath
 - Steal Voice
 - Whispered Despair
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+8'
-hardness: null
 hp: 60 ( negative healing )
 id: '557'
 immunity:
@@ -36,9 +29,6 @@ name: Attic Whisperer
 perception: '+10'
 rarity: Common
 reflex: '+13'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -49,19 +39,16 @@ skill:
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 20 feet
-spell: null
 strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Undead|Undead]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+12'
 wisdom: '+4'
 

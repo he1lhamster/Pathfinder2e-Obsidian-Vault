@@ -1,22 +1,16 @@
 ﻿---
 ac: '15'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Rearrange Possessions
 creature_family: '[[DATABASE/monsterfamily/Gremlin|Gremlin]]'
 dexterity: '+3'
-element: null
 fly_speed: '20'
 fortitude: '+4'
-hardness: null
 hp: '9'
 id: '1178'
-immunity: null
 intelligence: '-1'
 land_speed: '10'
 language:
@@ -29,9 +23,6 @@ name: Haniver
 perception: '+5'
 rarity: Common
 reflex: '+7'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Tiny

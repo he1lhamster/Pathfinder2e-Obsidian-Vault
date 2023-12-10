@@ -1,18 +1,8 @@
 ﻿---
-ability: null
-ability_boost: null
-feat: null
 id: '223'
 name: Sponsored by Family
-prerequisite: null
-rarity: null
-rus_type_level: null
-skill: null
 source: '[[DATABASE/source/Strength of Thousands Player''s Guide|Strength of Thousands
   Player''s Guide]]'
-subcategory: null
-trait: null
-type: null
 
 ---
 # Sponsored by Family<span class="item-type">Background</span>

@@ -1,10 +1,7 @@
 ﻿---
 ac: '44'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Attack of Opportunity
@@ -14,14 +11,11 @@ creature_ability:
 - Plummeting Fall
 - Titan Wrestler
 - Whirlwind Toss
-creature_family: null
 dexterity: '+4'
-element: null
 fly_speed: '60'
 fortitude: '+36'
 hp: '460'
 id: '1527'
-immunity: null
 intelligence: '+2'
 land_speed: '25'
 language:
@@ -35,8 +29,6 @@ name: Ran-To (Level 20)
 perception: '+33'
 rarity: Unique
 reflex: '+33'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -51,12 +43,10 @@ source: '[[DATABASE/source/Pathfinder 168. King of the Mountain|Pathfinder #168:
 speed:
 - 25 feet
 - fly 60 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Goblin|Goblin]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -65,7 +55,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+30'
 wisdom: '+3'
 

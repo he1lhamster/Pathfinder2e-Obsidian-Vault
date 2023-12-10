@@ -1,26 +1,28 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Lastwall Sentry Dedication
-frequency: null
-heighten_level: null
 id: '882'
+leads_to: '[[DATABASE/feat/Always Ready|Always Ready]] , [[DATABASE/feat/Bless Shield|Bless
+  Shield]] , [[DATABASE/feat/Eye of Ozem|Eye of Ozem]] , [[DATABASE/feat/Familiar
+  Foe|Familiar Foe]] , [[DATABASE/feat/Final Rest|Final Rest]] , [[DATABASE/feat/Flashing
+  Shield|Flashing Shield]] , [[DATABASE/feat/Grave Sense|Grave Sense]] , [[DATABASE/feat/Grave
+  Sight|Grave Sight]] , [[DATABASE/feat/Lastwall Warden|Lastwall Warden]] , [[DATABASE/feat/Necromantic
+  Bulwark|Necromantic Bulwark]] , [[DATABASE/feat/Necromantic Resistance|Necromantic
+  Resistance]] , [[DATABASE/feat/No Stranger to Death|No Stranger to Death]] , [[DATABASE/feat/Nonlethal
+  Takedown|Nonlethal Takedown]] , [[DATABASE/feat/Practiced Opposition|Practiced Opposition]]
+  , [[DATABASE/feat/Repulse the Wicken|Repulse the Wicken]] , [[DATABASE/feat/Rescuer''s
+  Press|Rescuer''s Press]] , [[DATABASE/feat/Resolute Defender|Resolute Defender]]
+  , [[DATABASE/feat/Sacred Armaments|Sacred Armaments]] , [[DATABASE/feat/Thwart Evil|Thwart
+  Evil]] , [[DATABASE/feat/Withstand Death|Withstand Death]]'
 level: '2'
 name: Lastwall Sentry Dedication
 prerequisite: member of the Knights of Lastwall; [[DATABASE/feat/Shield Block|Shield
   Block]]
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/World Guide|World Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

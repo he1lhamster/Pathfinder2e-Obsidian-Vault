@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Unshakable Idealism
-frequency: null
-heighten_level: null
 id: '1093'
 level: '8'
 name: Unshakable Idealism
 prerequisite: '[[DATABASE/feat/Knight Vigilant|Knight Vigilant]] ; expert in Will
   saves'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

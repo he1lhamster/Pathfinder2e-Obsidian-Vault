@@ -2,7 +2,6 @@
 id: '424'
 name: Aftermath
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 trait:
 - Aftermath

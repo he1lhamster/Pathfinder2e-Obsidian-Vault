@@ -1,53 +1,15 @@
 ﻿---
-ac: '20'
-actions: null
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: '+14'
-frequency: null
-hands: null
-hardness: '5'
-hp: '90'
+bulk: '1'
+hands: '2'
 id: '43'
-item_category: Vehicles
-item_subcategory: null
-land_speed: '40'
-level: '6'
-max_speed: '40'
+item_category: Adventuring Gear
+level: '0'
 name: Repair Kit
-onset: null
-price: 750 gp
-range: null
-rarity: Uncommon
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
-school: null
-size: Huge
+price: 2 gp
+rarity: Common
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-spell: null
-stage: null
 subcategory: adventuringgear
-swim_speed: null
-trait:
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
-type: Vehicle
-usage: null
-weapon_category: null
-weapon_group: null
-weapon_type: null
+type: Item
 
 ---
 # Repair Kit<span class="item-type">Item 0+</span>

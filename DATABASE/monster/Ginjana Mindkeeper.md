@@ -1,10 +1,7 @@
 ﻿---
 ac: '31'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Deny Advantage
@@ -18,15 +15,10 @@ creature_ability:
 - Attack
 - Surprise Attack
 - Vulnerable to Sunlight
-creature_family: null
 dexterity: '+7'
-element: null
-fly_speed: null
 fortitude: '+14'
-hardness: null
 hp: '195'
 id: '2109'
-immunity: null
 intelligence: '+5'
 land_speed: '20'
 language:
@@ -39,9 +31,6 @@ name: Ginjana Mindkeeper
 perception: '+22'
 rarity: Unique
 reflex: '+18'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -64,7 +53,6 @@ strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dero|Dero]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'

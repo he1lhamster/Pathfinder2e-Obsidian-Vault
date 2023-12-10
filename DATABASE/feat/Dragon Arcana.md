@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Dragon Arcana
-frequency: null
-heighten_level: null
 id: '1943'
 level: '4'
 name: Dragon Arcana
 prerequisite: ability to cast spells from spell slots; [[DATABASE/feat/Dragon Disciple
   Dedication|Dragon DiscipleDedication]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,13 +1,8 @@
 ﻿---
-ability: null
-ability_boost: null
 alignment: No Alignment
 deity:
 - '[[DATABASE/deity/Atheism|Atheism]]'
 deity_category: Faiths & Philosophies
-divine_font: null
-domain: null
-favored_weapon: null
 follower_alignment:
 - LG
 - NG
@@ -21,10 +16,7 @@ follower_alignment:
 id: '21'
 name: Atheism
 rarity: Common
-rus_type_level: null
-skill: null
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
-trait: null
 type: Deity
 
 ---

@@ -1,11 +1,9 @@
 ﻿---
 alignment: N
-element: null
 id: '3'
 name: Positive Energy Plane
 plane_category: Inner Sphere Planes
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
 - '[[DATABASE/trait/Positive|Positive]]'

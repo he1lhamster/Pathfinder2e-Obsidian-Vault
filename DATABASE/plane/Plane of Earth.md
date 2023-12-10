@@ -5,7 +5,6 @@ id: '5'
 name: Plane of Earth
 plane_category: Inner Sphere Planes
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:
 - '[[DATABASE/trait/Earth|Earth]]'

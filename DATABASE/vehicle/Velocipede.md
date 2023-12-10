@@ -1,26 +1,16 @@
 ﻿---
 ac: '11'
-burrow_speed: null
-climb_speed: null
-fly_speed: null
 fortitude: '+6'
 hardness: '5'
 hp: '15'
 id: '46'
 item_category: Vehicles
-land_speed: null
 level: '1'
-max_speed: null
 name: Velocipede
 price: 60 gp
 rarity: Uncommon
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 size: Medium
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Vehicle

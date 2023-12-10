@@ -3,9 +3,7 @@ creature_family: Naga
 id: '75'
 name: Naga
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
-trait: null
 type: Creature Family
 
 ---

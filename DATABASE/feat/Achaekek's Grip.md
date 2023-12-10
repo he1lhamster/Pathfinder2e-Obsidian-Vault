@@ -1,24 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Achaekek's Grip
-frequency: null
-heighten_level: null
 id: '2162'
+leads_to: '[[DATABASE/feat/Vernai Training|Vernai Training]]'
 level: '8'
 name: Achaekek's Grip
 prerequisite: '[[DATABASE/feat/Basic Red Mantis Magic|Basic Red Mantis Magic]]'
 rarity: Rare
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Legends|Legends]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Feat
 
 ---

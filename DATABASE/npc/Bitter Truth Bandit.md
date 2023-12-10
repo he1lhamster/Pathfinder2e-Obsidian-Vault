@@ -1,24 +1,17 @@
 ﻿---
 ac: '22'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Experienced Ambusher
 - Muscle Striker A target damaged by the bandit's shortbow Strike must succeed at
   a DC 22 Fortitude save or be slowed 1 until the end of the bandit's next turn.
 - Sneak Attack
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+15'
 hp: '95'
 id: '2102'
-immunity: null
 intelligence: '+0'
 land_speed: '30'
 language:
@@ -29,9 +22,6 @@ name: Bitter Truth Bandit
 perception: '+12'
 rarity: Rare
 reflex: '+16'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +14'
@@ -45,21 +35,17 @@ source: '[[DATABASE/source/Pathfinder 153. Life''s Long Shadows|Pathfinder #153:
 speed:
 - 30 feet
 - mobility
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+10'
 wisdom: '+0'
 

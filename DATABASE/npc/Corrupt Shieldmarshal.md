@@ -1,23 +1,16 @@
 ﻿---
 ac: '25'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Firearms Critical Specialization
 - Lawbringer
 - Reloading Strike
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+15'
 hp: '120'
 id: '1986'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -30,8 +23,6 @@ name: Corrupt Shieldmarshal
 perception: '+18'
 rarity: Uncommon
 reflex: '+18'
-resistance: null
-rus_type_level: null
 sense:
 - (20 to [[DATABASE/action/Sense Motive|Sense Motive]] or vs. [[DATABASE/action/Conceal
   an Object|Conceal An Object]] )
@@ -45,20 +36,16 @@ source: '[[DATABASE/source/Pathfinder 180. The Smoking Gun|Pathfinder #180: The 
   Gun]]'
 speed:
 - 25 feet
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
-weakness: null
 will: '+12'
 wisdom: '+0'
 

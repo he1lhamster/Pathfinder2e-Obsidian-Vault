@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Advanced Wilding
-frequency: null
-heighten_level: null
 id: '705'
 level: '6'
 name: Advanced Wilding
 prerequisite: '[[DATABASE/feat/Basic Wilding|Basic Wilding]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

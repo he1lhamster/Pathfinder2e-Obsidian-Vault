@@ -1,18 +1,12 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Encouraging Words
-frequency: null
-heighten_level: null
 id: '1210'
 level: '2'
 name: Encouraging Words
 prerequisite: Trained in [[DATABASE/skill/Diplomacy|Diplomacy]]
 rarity: Common
 requirement: The target ally lost Stamina Points within the last round.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 subcategory: diplomacy
 trait:
@@ -22,7 +16,6 @@ trait:
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Skill|Skill]]'
 - '[[DATABASE/trait/Stamina|Stamina]]'
-trigger: null
 type: Feat
 
 ---

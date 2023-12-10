@@ -1,18 +1,12 @@
 ﻿---
 bulk: L
-damage: null
-deity: null
-favored_weapon: null
-hands: null
 id: '250'
 item_category: Weapons
 item_subcategory: Base Weapons
 level: '0'
 name: Sun Shot
 price: 1 sp (for 10)
-range: null
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 172. Secrets of the Temple City|Pathfinder #172:
   Secrets of the Temple City]]'
 trait:

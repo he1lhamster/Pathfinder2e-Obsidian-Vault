@@ -2,9 +2,6 @@
 id: '17'
 name: Gods & Magic
 rarity: Common
-rus_type_level: null
-source: null
-trait: null
 type: Source
 
 ---

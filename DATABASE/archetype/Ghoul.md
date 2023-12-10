@@ -4,7 +4,6 @@ level: '2'
 name: Ghoul
 prerequisite: You were killed by ghoul fever.
 rarity: Rare
-rus_type_level: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'

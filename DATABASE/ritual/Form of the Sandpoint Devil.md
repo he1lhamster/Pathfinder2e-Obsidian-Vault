@@ -1,25 +1,18 @@
 ﻿---
-area: null
 cost: igneous stones and gems worth 1,500 gp, bat wings, horse hooves, and at least
   one lizard
 duration: 3 days
-element: null
-heighten: null
 heighten_level: '6'
 id: '74'
 level: '6'
 name: Form of the Sandpoint Devil
 primary_check: '[[DATABASE/skill/Religion|Religion]] (master)'
-range: null
 rarity: Rare
-requirement: null
-rus_type_level: null
 school: Transmutation
 secondary_casters: '4'
 secondary_check: '[[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Occultism|Occultism]]
   ,Religion'
 source: '[[DATABASE/source/Monsters of Myth|Monsters of Myth]]'
-target: null
 trait:
 - '[[DATABASE/trait/Evil|Evil]]'
 - '[[DATABASE/trait/Polymorph|Polymorph]]'

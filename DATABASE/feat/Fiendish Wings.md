@@ -1,26 +1,19 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Fiendish Wings
 frequency: once per day
-heighten_level: null
 id: '1390'
+leads_to: '[[DATABASE/feat/Relentless Wings|Relentless Wings]]'
 level: '9'
 name: Fiendish Wings
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Divine|Divine]]'
 - '[[DATABASE/trait/Morph|Morph]]'
 - '[[DATABASE/trait/Tiefling|Tiefling]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Feat
 
 ---

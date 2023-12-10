@@ -4,8 +4,6 @@ level: '9'
 name: Whiterose Oysters
 price: 35 gp
 rarity: Common
-requirement: null
-rus_type_level: null
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
 trait:
 - '[[DATABASE/trait/Meal|Meal]]'

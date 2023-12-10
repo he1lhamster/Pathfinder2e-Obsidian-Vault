@@ -1,11 +1,8 @@
 ﻿---
 actions: '[two-actions]'
-area: null
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Barbatos|Barbatos]]'
 - '[[DATABASE/deity/Dammerich|Dammerich]]'
@@ -13,21 +10,14 @@ deity:
 - '[[DATABASE/deity/Kabriri|Kabriri]]'
 - '[[DATABASE/deity/Kalekot|Kalekot]]'
 - '[[DATABASE/deity/Selket|Selket]]'
-domain: null
 duration: varies
-element: null
 heighten: 7th
 heighten_level: 3, 7
 id: '213'
-lesson: null
 level: '3'
-mystery: null
 name: Paralyze
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Will
 school: Enchantment
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -39,7 +29,6 @@ trait:
 - '[[DATABASE/trait/Enchantment|Enchantment]]'
 - '[[DATABASE/trait/Incapacitation|Incapacitation]]'
 - '[[DATABASE/trait/Mental|Mental]]'
-trigger: null
 type: Spell
 
 ---

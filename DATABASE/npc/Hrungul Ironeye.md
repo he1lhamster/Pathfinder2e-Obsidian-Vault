@@ -1,10 +1,7 @@
 ﻿---
 ac: '26'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Attack of Opportunity
@@ -13,25 +10,18 @@ creature_ability:
 - Grim Efficiency
 - Quick Block
 - Shield Block
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+18'
 hp: '140'
 id: '2718'
-immunity: null
 intelligence: '+1'
 land_speed: '20'
-language: null
 level: '8'
 max_speed: '20'
 name: Hrungul Ironeye
 perception: '+16'
 rarity: Unique
 reflex: '+14'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -44,12 +34,10 @@ source: '[[DATABASE/source/Pathfinder 195. Heavy is the Crown|Pathfinder #195: H
   is the Crown]]'
 speed:
 - 20 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dwarf|Dwarf]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -58,7 +46,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+16'
 wisdom: '+2'
 

@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Implausible Purchase (Rogue)
-frequency: null
-heighten_level: null
 id: '1809'
 level: '18'
 name: Implausible Purchase (Rogue)
 prerequisite: '[[DATABASE/feat/Predictive Purchase (Rogue)|Predictive Purchase (Rogue)]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Rogue|Rogue]]'
-trigger: null
 type: Feat
 
 ---

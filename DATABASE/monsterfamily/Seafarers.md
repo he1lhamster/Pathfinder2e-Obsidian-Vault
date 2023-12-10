@@ -3,9 +3,7 @@ creature_family: Seafarers
 id: '196'
 name: Seafarers
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
-trait: null
 type: Creature Family
 
 ---

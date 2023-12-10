@@ -1,10 +1,6 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Denier of Destruction
-frequency: null
-heighten_level: null
 id: '1243'
 level: '20'
 name: Denier of Destruction
@@ -12,11 +8,8 @@ prerequisite: '[[DATABASE/class_/Cleric|healing font]]'
 rarity: Uncommon
 requirement: You have a [[DATABASE/spell/Heal|heal]] spell prepared and you aren't
   [[DATABASE/condition/Flat-Footed|flat-footed]] to the source of the damage.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 156. The Apocalypse Prophet|Pathfinder #156:
   The Apocalypse Prophet]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Cleric|Cleric]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

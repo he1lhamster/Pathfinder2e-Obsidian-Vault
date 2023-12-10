@@ -1,8 +1,6 @@
 ﻿---
 bulk: L
 damage: 1d6 B
-deity: null
-favored_weapon: null
 hands: '1'
 id: '228'
 item_category: Weapons
@@ -10,9 +8,7 @@ item_subcategory: Base Weapons
 level: '0'
 name: Griffon Cane
 price: 1 gp
-range: null
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
 trait:
 - '[[DATABASE/trait/Backswing|Backswing]]'

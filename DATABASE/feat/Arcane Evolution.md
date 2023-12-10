@@ -1,24 +1,16 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Arcane Evolution
-frequency: null
-heighten_level: null
 id: '609'
+leads_to: '[[DATABASE/feat/Greater Mental Evolution|Greater Mental Evolution]] , [[DATABASE/feat/Greater
+  Physical Evolution|Greater Physical Evolution]]'
 level: '4'
 name: Arcane Evolution
 prerequisite: bloodline that grants arcane spells
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Arcane|Arcane]]'
 - '[[DATABASE/trait/Sorcerer|Sorcerer]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Call Your Shot
-frequency: null
-heighten_level: null
 id: '1981'
 level: '8'
 name: Call Your Shot
 prerequisite: '[[DATABASE/feat/Play to the Crowd|Play to the Crowd]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

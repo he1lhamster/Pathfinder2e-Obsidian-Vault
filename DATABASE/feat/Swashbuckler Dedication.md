@@ -1,25 +1,19 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Swashbuckler Dedication
-frequency: null
-heighten_level: null
 id: '1859'
+leads_to: '[[DATABASE/feat/Basic Flair|Basic Flair]] , [[DATABASE/feat/Evasiveness
+  (Swashbuckler)|Evasiveness (Swashbuckler)]] , [[DATABASE/feat/Finishing Precision|Finishing
+  Precision]] , [[DATABASE/feat/Swashbuckler''s Riposte|Swashbuckler''s Riposte]]
+  , [[DATABASE/feat/Swashbuckler''s Speed|Swashbuckler''s Speed]]'
 level: '2'
 name: Swashbuckler Dedication
 prerequisite: Charisma 14; Dexterity 14
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Multiclass|Multiclass]]'
-trigger: null
 type: Feat
 
 ---

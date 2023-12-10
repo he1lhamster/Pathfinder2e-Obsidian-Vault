@@ -1,10 +1,8 @@
 ﻿---
 ac: '25'
 alignment: LE
-all_resistance: null
 burrow_speed: '30'
 charisma: '+1'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Adamantine Claws
@@ -22,7 +20,6 @@ dexterity: '+2'
 element: Fire
 fly_speed: '80'
 fortitude: '+18'
-hardness: null
 hp: '115'
 id: '1134'
 immunity:
@@ -41,9 +38,6 @@ name: Young Underworld Dragon
 perception: '+13'
 rarity: Uncommon
 reflex: '+13'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 60 feet'
@@ -71,7 +65,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dragon|Dragon]]'
 - '[[DATABASE/trait/Fire|Fire]]'
@@ -80,7 +73,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+15'
 wisdom: '+2'
 

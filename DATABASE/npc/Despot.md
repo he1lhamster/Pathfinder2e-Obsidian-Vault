@@ -1,10 +1,7 @@
 ﻿---
 ac: '19'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Bloodline Magic
@@ -12,12 +9,9 @@ creature_ability:
 - Persistent Lies
 creature_family: '[[DATABASE/monsterfamily/Villains|Villains]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+9'
 hp: '56'
 id: '962'
-immunity: null
 intelligence: '+4'
 land_speed: '25'
 language:
@@ -29,9 +23,6 @@ name: Despot
 perception: '+11'
 rarity: Common
 reflex: '+9'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +10'
@@ -66,16 +57,13 @@ strength: '+2'
 strength_req: '2'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
 - Reflex
-weakness: null
 will: '+13'
 wisdom: '+2'
 

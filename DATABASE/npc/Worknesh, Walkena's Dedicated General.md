@@ -1,10 +1,7 @@
 ﻿---
 ac: '37'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Attack of Opportunity
@@ -14,14 +11,10 @@ creature_ability:
 - Walkena's Fury
 - Walkena's Judgment
 - Warmaster's Instinct
-creature_family: null
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+29'
 hp: '310'
 id: '1710'
-immunity: null
 intelligence: '+2'
 land_speed: '25'
 language:
@@ -35,8 +28,6 @@ rarity: Unique
 reflex: '+25'
 resistance:
 - piercing 4
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +32'
@@ -71,16 +62,13 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+28'
 wisdom: '+4'
 

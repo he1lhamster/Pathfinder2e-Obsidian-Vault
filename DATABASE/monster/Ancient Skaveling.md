@@ -1,25 +1,18 @@
 ﻿---
 ac: '37'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Bone-Shattering Screech
 - Echolocation
 - Ghoul Fever
 - Paralysis
-creature_family: null
 dexterity: '+6'
-element: null
 fly_speed: '30'
 fortitude: '+25'
-hardness: null
 hp: '270'
 id: '2151'
-immunity: null
 intelligence: '+3'
 land_speed: '15'
 language:
@@ -32,9 +25,6 @@ name: Ancient Skaveling
 perception: '+29'
 rarity: Unique
 reflex: '+27'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - echolocation 60 feet
@@ -48,12 +38,10 @@ source: '[[DATABASE/source/Pathfinder 184. The Ghouls Hunger|Pathfinder #184: Th
 speed:
 - 15 feet
 - fly 30 feet
-spell: null
 strength: '+8'
 strength_req: '8'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Undead|Undead]]'
 - '[[DATABASE/trait/Unique|Unique]]'
@@ -61,7 +49,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+29'
 wisdom: '+8'
 

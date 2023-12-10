@@ -2,7 +2,6 @@
 id: '7'
 name: Seer's Array
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 trait:
 - '[[DATABASE/trait/Relic|Relic]]'

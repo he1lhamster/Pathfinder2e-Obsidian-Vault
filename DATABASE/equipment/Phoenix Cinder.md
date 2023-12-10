@@ -1,42 +1,13 @@
 ﻿---
-ac: null
 actions: '[one-action]'
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
 element: Fire
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '2372'
 item_category: Blighted Boons
-item_subcategory: null
-land_speed: null
 level: '16'
-max_speed: null
 name: Phoenix Cinder
-onset: null
-price: null
-range: null
 rarity: Rare
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
-size: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-spell: null
 stage: "Stage 1: You die.Purging You must collect the remains of a phoenix of your\
   \ level or higher who hasbeen unable to self-resurrect, compressing the remains\
   \ with powdered diamonds, opals, and rubiesworth 75 gp \xD7 your level into an egg.\
@@ -44,19 +15,14 @@ stage: "Stage 1: You die.Purging You must collect the remains of a phoenix of yo
   \ stage 3. If you do so, the phoenix whose remains you collected isreborn as if\
   \ it used its Self-Resurrection, and the phoenix cinder's effects end on you."
 subcategory: blightedboon
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Consumable|Consumable]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Fire|Fire]]'
 - '[[DATABASE/trait/Primal|Primal]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Item
 usage: touched
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Phoenix Cinder<span class="item-type">Item 16</span>

@@ -1,32 +1,18 @@
 ﻿---
 actions: '[two-actions]'
-area: null
 bloodline: '[[DATABASE/sorcererbloodline/Diabolic|Diabolic]] , [[DATABASE/sorcererbloodline/Genie|Genie]]
   , [[DATABASE/sorcererbloodline/Harrow|Harrow]]'
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
 duration: 10 minutes
-element: null
-heighten: null
 heighten_level: '6'
 id: '344'
-lesson: null
 level: '6'
-mystery: null
 name: True Seeing
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Divination
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Arcane
 - Divine
@@ -36,7 +22,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Divination|Divination]]'
 - '[[DATABASE/trait/Revelation|Revelation]]'
-trigger: null
 type: Spell
 
 ---

@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Multilingual|Multilingual]]'
 id: '206'
 name: Translator
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Society|Society]]'
 - Scribing [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/PFS Guide|PFS Guide]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

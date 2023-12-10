@@ -1,22 +1,16 @@
 ﻿---
 ac: '14'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Bar Brawler
 - Barkeep's Advice
 creature_family: '[[DATABASE/monsterfamily/Publicans|Publicans]]'
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+7'
 hp: '25'
 id: '944'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -27,9 +21,6 @@ name: Barkeep
 perception: '+6'
 rarity: Common
 reflex: '+3'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Lore|Alcohol Lore]] +9'
@@ -42,20 +33,16 @@ skill:
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 speed:
 - 25 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+6'
 wisdom: '+1'
 

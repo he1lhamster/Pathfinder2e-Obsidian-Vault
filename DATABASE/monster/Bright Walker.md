@@ -2,9 +2,7 @@
 ac: '26'
 alignment: NE
 all_resistance: '10'
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Bright Release
@@ -13,12 +11,9 @@ creature_ability:
 - Light Flare
 - Shadow Jump
 - Suppress Aura
-creature_family: null
 dexterity: '+6'
-element: null
 fly_speed: '25'
 fortitude: '+15'
-hardness: null
 hp: 115 ( negative healing )
 id: '1379'
 immunity:
@@ -29,7 +24,6 @@ immunity:
 - precision
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '+0'
-land_speed: null
 language:
 - '[[DATABASE/language/Caligni|Caligni]]'
 level: '9'
@@ -43,8 +37,6 @@ resistance:
 - '[[DATABASE/equipment/Ghost Touch|ghost touch]]'
 - or [[DATABASE/trait/Positive|positive]] ; double resistance vs. non- [[DATABASE/trait/Magical|magical]]
   ).
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 size: Medium
@@ -56,12 +48,10 @@ source: '[[DATABASE/source/Pathfinder 165. Eyes of Empty Death|Pathfinder #165: 
   of Empty Death]]'
 speed:
 - fly 25 feet; landbound
-spell: null
 strength: '-5'
 strength_req: '-5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Incorporeal|Incorporeal]]'
 - '[[DATABASE/trait/Rare|Rare]]'
@@ -71,7 +61,6 @@ type: Creature
 vision: Greater darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+19'
 wisdom: '+4'
 

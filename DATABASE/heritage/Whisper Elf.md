@@ -2,9 +2,7 @@
 id: '9'
 name: Whisper Elf
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-trait: null
 type: Heritage
 
 ---

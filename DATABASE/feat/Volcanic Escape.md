@@ -1,20 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
 element: Fire
 feat: Volcanic Escape
-frequency: null
 heighten_level: 6, 10, 14, 18
 id: '4243'
 level: '6'
 name: Volcanic Escape
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fire|Fire]]'
 - '[[DATABASE/trait/Impulse|Impulse]]'

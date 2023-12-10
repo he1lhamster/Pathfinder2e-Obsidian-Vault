@@ -2,9 +2,7 @@
 id: '7'
 name: Deep Diver
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Legends|Legends]]'
-trait: null
 type: Animal Companion Specialization
 
 ---

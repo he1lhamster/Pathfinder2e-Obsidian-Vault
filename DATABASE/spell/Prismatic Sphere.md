@@ -1,39 +1,26 @@
 ﻿---
 actions: '[two-actions]'
-area: null
 bloodline: '[[DATABASE/sorcererbloodline/Imperial|Imperial]]'
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/The Last Breath|The Last Breath]]'
-domain: null
 duration: 1 hour
-element: null
-heighten: null
 heighten_level: '9'
 id: '232'
-lesson: null
 level: '9'
-mystery: null
 name: Prismatic Sphere
-patron_theme: null
 range: 10 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Abjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Arcane
 - Occult
 trait:
 - '[[DATABASE/trait/Abjuration|Abjuration]]'
 - '[[DATABASE/trait/Light|Light]]'
-trigger: null
 type: Spell
 
 ---

@@ -1,8 +1,6 @@
 ﻿---
 bulk: '2'
 damage: 1d6 B
-deity: null
-favored_weapon: null
 hands: '2'
 id: '348'
 item_category: Weapons
@@ -12,7 +10,6 @@ name: Wrecker
 price: 8 gp
 range: 20 ft.
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
 trait:
 - '[[DATABASE/trait/Combination|Combination]]'

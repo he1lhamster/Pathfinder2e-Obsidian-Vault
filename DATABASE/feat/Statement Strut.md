@@ -1,27 +1,19 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Statement Strut
 frequency: once per 10 minutes
-heighten_level: null
 id: '4145'
 level: '8'
 name: Statement Strut
 prerequisite: '[[DATABASE/feat/Celebrity Dedication|Celebrity Dedication]] or [[DATABASE/feat/Dandy
   Dedication|Dandy Dedication]]'
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Firebrands|Firebrands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 - '[[DATABASE/trait/Visual|Visual]]'
-trigger: null
 type: Feat
 
 ---

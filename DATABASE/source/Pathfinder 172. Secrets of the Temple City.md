@@ -2,9 +2,6 @@
 id: '102'
 name: Pathfinder 172. Secrets of the Temple City
 rarity: Common
-rus_type_level: null
-source: null
-trait: null
 type: Source
 
 ---

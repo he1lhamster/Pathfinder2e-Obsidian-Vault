@@ -1,10 +1,7 @@
 ﻿---
 ac: '22'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Swiftness
@@ -14,7 +11,6 @@ dexterity: '+4'
 element: Air
 fly_speed: '50'
 fortitude: '+10'
-hardness: null
 hp: '50'
 id: '647'
 immunity:
@@ -24,7 +20,6 @@ immunity:
 - '[[DATABASE/trait/Sleep|sleep]]'
 - sonic
 intelligence: '-3'
-land_speed: null
 language:
 - '[[DATABASE/language/Auran|Auran]]'
 level: '4'
@@ -33,9 +28,6 @@ name: Living Thunderclap
 perception: '+9'
 rarity: Common
 reflex: '+12'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -45,12 +37,10 @@ skill:
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - fly 50 feet; swiftness
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Elemental|Elemental]]'
@@ -58,7 +48,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+9'
 wisdom: '+1'
 

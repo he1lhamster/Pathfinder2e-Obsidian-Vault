@@ -1,10 +1,7 @@
 ﻿---
 ac: '42'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Contorted Clutch
@@ -16,10 +13,7 @@ creature_ability:
 - Crush
 creature_family: '[[DATABASE/monsterfamily/Siktempora|Siktempora]]'
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+28'
-hardness: null
 hp: '240'
 id: '1297'
 immunity:
@@ -37,9 +31,6 @@ name: Hatred Siktempora
 perception: '+33'
 rarity: Rare
 reflex: '+30'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -60,7 +51,6 @@ strength: '+9'
 strength_req: '9'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Siktempora|Siktempora]]'
@@ -69,7 +59,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+33'
 wisdom: '+7'
 

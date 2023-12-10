@@ -4,7 +4,6 @@ level: '5'
 name: Bonechill
 onset: 1 day
 rarity: Common
-rus_type_level: null
 saving_throw: DC 20 Fortitude
 school: Necromancy
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'

@@ -1,10 +1,8 @@
 ﻿---
 ac: '19'
 alignment: N
-all_resistance: null
 burrow_speed: '20'
 charisma: '-1'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Crystal Sense
@@ -12,9 +10,7 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Elemental, Earth|Elemental, Earth]]'
 dexterity: '-1'
 element: Earth
-fly_speed: null
 fortitude: '+12'
-hardness: null
 hp: '44'
 id: '182'
 immunity:
@@ -24,16 +20,12 @@ immunity:
 - sleep
 intelligence: '-4'
 land_speed: '30'
-language: null
 level: '3'
 max_speed: '30'
 name: Sod Hound
 perception: '+9'
 rarity: Common
 reflex: '+6'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - crystal sense (imprecise) 60 feet
 - darkvision
@@ -45,12 +37,10 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 30 feet
 - burrow 20 feet; earth glide
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Elemental|Elemental]]'
@@ -58,7 +48,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+7'
 wisdom: '+2'
 

@@ -2,9 +2,7 @@
 id: '2'
 name: Construct Innovation
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-trait: null
 type: Inventor Innovation
 
 ---

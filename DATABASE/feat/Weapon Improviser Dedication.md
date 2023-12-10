@@ -1,24 +1,17 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Weapon Improviser Dedication
-frequency: null
-heighten_level: null
 id: '2099'
+leads_to: '[[DATABASE/feat/Improvised Critical|Improvised Critical]] , [[DATABASE/feat/Improvised
+  Pummel|Improvised Pummel]] , [[DATABASE/feat/Makeshift Strike|Makeshift Strike]]
+  , [[DATABASE/feat/Surprise Strike|Surprise Strike]]'
 level: '2'
 name: Weapon Improviser Dedication
 prerequisite: trained in all martial weapons
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
-trigger: null
 type: Feat
 
 ---

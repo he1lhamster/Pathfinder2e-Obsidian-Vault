@@ -1,10 +1,8 @@
 ﻿---
-element: null
 id: '36'
 level: '9'
 name: Swarming Words
 rarity: Rare
-rus_type_level: null
 saving_throw: DC 26 Fortitude
 school: Conjuration
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
@@ -14,7 +12,6 @@ trait:
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Curse
-usage: null
 
 ---
 # Swarming Words<span class="item-type">Curse 9</span>

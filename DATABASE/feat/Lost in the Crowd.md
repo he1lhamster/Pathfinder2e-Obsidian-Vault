@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Lost in the Crowd
-frequency: null
-heighten_level: null
 id: '918'
+leads_to: '[[DATABASE/feat/Crowd Mastery|Crowd Mastery]]'
 level: '4'
 name: Lost in the Crowd
 prerequisite: '[[DATABASE/feat/Lion Blade Dedication|Lion Blade Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/World Guide|World Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

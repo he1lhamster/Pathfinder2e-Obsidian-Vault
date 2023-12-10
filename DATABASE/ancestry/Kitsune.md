@@ -5,7 +5,6 @@ ability:
 ability_boost:
 - Charisma
 - Free
-ability_flaw: null
 hp: '8'
 id: '38'
 land_speed: '25'
@@ -14,7 +13,6 @@ language:
 max_speed: '25'
 name: Kitsune
 rarity: Uncommon
-rus_type_level: null
 size: Medium
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 speed:

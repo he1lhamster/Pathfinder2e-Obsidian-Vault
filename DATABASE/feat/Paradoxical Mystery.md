@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Paradoxical Mystery
-frequency: null
-heighten_level: null
 id: '1511'
 level: '20'
 name: Paradoxical Mystery
 prerequisite: '[[DATABASE/feat/Greater Revelation|Greater Revelation]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Oracle|Oracle]]'
-trigger: null
 type: Feat
 
 ---

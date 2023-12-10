@@ -1,23 +1,16 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Rupture Stomp
 frequency: once per day
-heighten_level: null
 id: '4178'
 level: '8'
 name: Rupture Stomp
 prerequisite: '[[DATABASE/feat/Stalwart Defender Dedication|Stalwart Defender Dedication]]'
 rarity: Common
 requirement: You are in Tenacious Stance.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Highhelm|Highhelm]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

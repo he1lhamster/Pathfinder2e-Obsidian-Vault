@@ -1,30 +1,18 @@
 ﻿---
 actions: '[reaction]'
-area: null
 bloodline: '[[DATABASE/sorcererbloodline/Shadow|Shadow]] , [[DATABASE/sorcererbloodline/Harrow|Harrow]]'
 component:
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Dajermube|Dajermube]]'
 - '[[DATABASE/deity/Kerkamoth|Kerkamoth]]'
 - '[[DATABASE/deity/Sivanah|Sivanah]]'
-domain: null
-duration: null
-element: null
-heighten: null
 heighten_level: '5'
 id: '274'
-lesson: null
 level: '5'
-mystery: null
 name: Shadow Siphon
-patron_theme: null
 range: 60 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Illusion
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 target: the triggering spell

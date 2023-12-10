@@ -1,10 +1,7 @@
 ﻿---
 ac: '15'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Distracting Giggle
@@ -13,10 +10,7 @@ creature_ability:
 - Thicket Walker
 creature_family: '[[DATABASE/monsterfamily/Thatchling|Thatchling]]'
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+4'
-hardness: null
 hp: 16 ( negative healing )
 id: '2725'
 immunity:
@@ -39,8 +33,6 @@ reflex: '+7'
 resistance:
 - bludgeoning 2
 - piercing 2
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]] q'
 size: Small
@@ -51,12 +43,10 @@ source: '[[DATABASE/source/Pathfinder 196. The Summer That Never Was|Pathfinder 
   The Summer That Never Was]]'
 speed:
 - 30 feet; thicket walker
-spell: null
 strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 - '[[DATABASE/trait/Undead|Undead]]'

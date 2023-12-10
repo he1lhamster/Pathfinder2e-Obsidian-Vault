@@ -1,23 +1,15 @@
 ﻿---
 ac: '31'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Divine Font
 - Infectious Wrath
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+22'
-hardness: null
 hp: '250'
 id: '2318'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -30,10 +22,6 @@ name: Sister Of The Bloodshot Eye
 perception: '+23'
 rarity: Unique
 reflex: '+20'
-resistance: null
-rus_type_level: null
-school: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Deception|Deception]] +22'
@@ -73,16 +61,13 @@ strength: '+2'
 strength_req: '2'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+25'
 wisdom: '+5'
 

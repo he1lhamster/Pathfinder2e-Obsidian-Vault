@@ -1,10 +1,8 @@
 ﻿---
 ac: '36'
 alignment: CE
-all_resistance: null
 burrow_speed: '25'
 charisma: '-2'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Acidic Effluence
@@ -13,16 +11,11 @@ creature_ability:
 - Swallow Whole
 creature_family: '[[DATABASE/monsterfamily/Aukashungi|Aukashungi]]'
 dexterity: '+7'
-element: null
-fly_speed: null
 fortitude: '+28'
-hardness: null
 hp: '300'
 id: '526'
-immunity: null
 intelligence: '-4'
 land_speed: '25'
-language: null
 level: '14'
 max_speed: '25'
 name: Giant Aukashungi
@@ -33,8 +26,6 @@ resistance:
 - bludgeoning 10
 - piercing 15
 - slashing 15
-rus_type_level: null
-school: null
 sense:
 - greater darkvision
 size: Huge
@@ -45,12 +36,10 @@ source: '[[DATABASE/source/Pathfinder 154. Siege of the Dinosaurs|Pathfinder #15
 speed:
 - 25 feet
 - burrow 25 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Amphibious|Amphibious]]'
@@ -59,7 +48,6 @@ type: Creature
 vision: Greater darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+21'
 wisdom: '+3'
 

@@ -2,7 +2,6 @@
 id: '414'
 name: Spellshot
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:
 - Spellshot

@@ -1,25 +1,17 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Godless Healing
-frequency: null
-heighten_level: null
 id: '869'
+leads_to: '[[DATABASE/feat/Mortal Healing|Mortal Healing]]'
 level: '2'
 name: Godless Healing
 prerequisite: '[[DATABASE/feat/Battle Medicine|Battle Medicine]] ; can''t have a patron
   deity'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/World Guide|World Guide]]'
 subcategory: medicine
 trait:
 - '[[DATABASE/trait/General|General]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

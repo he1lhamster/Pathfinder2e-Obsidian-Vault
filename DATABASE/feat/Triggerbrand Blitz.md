@@ -1,23 +1,16 @@
 ﻿---
 actions: '[three-actions]'
-cost: null
-element: null
 feat: Triggerbrand Blitz
 frequency: once per minute
-heighten_level: null
 id: '4039'
 level: '14'
 name: Triggerbrand Blitz
 prerequisite: '[[DATABASE/gunslingerway/Way of the Triggerbrand|way of the triggerbrand]]'
 rarity: Common
 requirement: You're wielding a [[DATABASE/trait/Combination|combination]] weapon.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Gunslinger|Gunslinger]]'
-trigger: null
 type: Feat
 
 ---

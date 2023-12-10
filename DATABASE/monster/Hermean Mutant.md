@@ -1,35 +1,23 @@
 ﻿---
 ac: '43'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '-4'
-climb_speed: null
 constitution: '+9'
 creature_ability:
 - Constrict
 - Grasping Hands
-creature_family: null
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+36'
-hardness: null
 hp: '380'
 id: '1593'
-immunity: null
 intelligence: '-3'
 land_speed: '30'
-language: null
 level: '19'
 max_speed: '30'
 name: Hermean Mutant
 perception: '+35'
 rarity: Rare
 reflex: '+28'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -39,12 +27,10 @@ source: '[[DATABASE/source/Pathfinder 150. Broken Promises|Pathfinder #150: Brok
   Promises]]'
 speed:
 - 30 feet
-spell: null
 strength: '+10'
 strength_req: '10'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Mutant|Mutant]]'
@@ -53,7 +39,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+27'
 wisdom: '+3'
 

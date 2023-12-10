@@ -1,38 +1,23 @@
 ﻿---
 actions: '[two-actions]'
 area: 60-foot tall, 30-foot radius cylinder
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
-heighten: null
 heighten_level: '8'
 id: '1153'
-lesson: null
 level: '8'
-mystery: null
 name: Falling Sky
-patron_theme: null
 range: 120 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-target: null
 tradition:
 - Arcane
 - Occult
 trait:
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Incapacitation|Incapacitation]]'
-trigger: null
 type: Spell
 
 ---

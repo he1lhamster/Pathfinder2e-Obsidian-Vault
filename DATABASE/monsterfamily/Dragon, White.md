@@ -3,9 +3,7 @@ creature_family: Dragon, White
 id: '169'
 name: Dragon, White
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
-trait: null
 type: Creature Family
 
 ---

@@ -1,10 +1,6 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Explosive Maneuver
-frequency: null
-heighten_level: null
 id: '3078'
 level: '14'
 name: Explosive Maneuver
@@ -12,13 +8,9 @@ prerequisite: '[[DATABASE/inventorinnovation/Weapon Innovation|weapon innovation
 rarity: Common
 requirement: Your last action was a successful Strike against a foe using your weapon
   innovation.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Inventor|Inventor]]'
-trigger: null
 type: Feat
 
 ---

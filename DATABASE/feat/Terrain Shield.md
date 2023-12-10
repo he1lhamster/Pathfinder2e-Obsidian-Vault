@@ -1,10 +1,6 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Terrain Shield
 frequency: once per 10 minutes
-heighten_level: null
 id: '3002'
 level: '14'
 name: Terrain Shield
@@ -13,10 +9,7 @@ prerequisite: '[[DATABASE/feat/Geomancer Dedication|Geomancer Dedication]] ; Mas
 rarity: Common
 requirement: You gained a terrain attunement benefit since the start of your most
   recent turn and that attunementmatches the terrain you're in.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 trigger: A Strike would damage you.

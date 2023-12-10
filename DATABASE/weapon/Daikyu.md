@@ -1,8 +1,6 @@
 ﻿---
 bulk: '2'
 damage: 1d8 P
-deity: null
-favored_weapon: null
 hands: 1+
 id: '125'
 item_category: Weapons
@@ -12,7 +10,6 @@ name: Daikyu
 price: 8 gp
 range: 80 ft.
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 trait:
 - '[[DATABASE/trait/Propulsive|Propulsive]]'

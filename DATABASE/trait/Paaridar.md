@@ -2,7 +2,6 @@
 id: '360'
 name: Paaridar
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 trait:
 - Paaridar

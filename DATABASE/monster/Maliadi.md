@@ -1,10 +1,7 @@
 ﻿---
 ac: '40'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+9'
 creature_ability:
 - Capsize
@@ -16,12 +13,8 @@ creature_ability:
 - Swallow
 - Whole
 - Trample
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+34'
-hardness: null
 hp: '285'
 id: '1438'
 immunity:
@@ -40,9 +33,6 @@ name: Maliadi
 perception: '+29'
 rarity: Uncommon
 reflex: '+25'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 60 feet'
@@ -81,7 +71,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+28'
 wisdom: '+6'
 

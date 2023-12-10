@@ -1,24 +1,15 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Mirror-Risen
-frequency: null
-heighten_level: null
 id: '3793'
+leads_to: '[[DATABASE/feat/Mirror Refuge|Mirror Refuge]] , [[DATABASE/feat/Reflective
+  Pocket|Reflective Pocket]]'
 level: '1'
 name: Mirror-Risen
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Lineage|Lineage]]'
 - '[[DATABASE/trait/Reflection|Reflection]]'
-trigger: null
 type: Feat
 
 ---

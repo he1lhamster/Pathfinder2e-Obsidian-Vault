@@ -1,8 +1,6 @@
 ﻿---
 ac: '42'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+35'
 hardness: 20 (10 in theguthallath's erosion aura)
 hazard_type: Environmental
@@ -16,17 +14,12 @@ level: '19'
 name: Guthallath Rockslide
 rarity: Common
 reflex: '+29'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 156. The Apocalypse Prophet|Pathfinder #156:
   The Apocalypse Prophet]]'
 trait:
 - '[[DATABASE/trait/Complex|Complex]]'
 - '[[DATABASE/trait/Environmental|Environmental]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Guthallath Rockslide<span class="item-type">Hazard 19</span>

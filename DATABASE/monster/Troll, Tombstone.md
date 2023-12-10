@@ -1,10 +1,8 @@
 ﻿---
 ac: '13'
 alignment: CE
-all_resistance: null
 burrow_speed: '5'
 charisma: '-2'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Attack of Opportunity
@@ -14,13 +12,9 @@ creature_ability:
 - Rend
 creature_family: '[[DATABASE/monsterfamily/Troll|Troll]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+6'
-hardness: null
 hp: '25'
 id: '2035'
-immunity: null
 intelligence: '-3'
 land_speed: '25'
 language:
@@ -31,9 +25,6 @@ name: Tombstone Troll
 perception: '+7'
 rarity: Uncommon
 reflex: '+9'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -44,12 +35,10 @@ source: '[[DATABASE/source/Pathfinder 181. Zombie Feast|Pathfinder #181: Zombie 
 speed:
 - 25 feet
 - burrow 5 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Giant|Giant]]'
 - '[[DATABASE/trait/Troll|Troll]]'
@@ -58,7 +47,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+5'
 wisdom: '+0'
 

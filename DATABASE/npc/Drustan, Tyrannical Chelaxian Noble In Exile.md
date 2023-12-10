@@ -1,23 +1,16 @@
 ﻿---
 ac: '36'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Divine Ally
 - Iron Command
 - Smite Good
-creature_family: null
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+26'
 hp: '255'
 id: '2556'
-immunity: null
 intelligence: '+1'
 land_speed: '20'
 language:
@@ -30,9 +23,6 @@ name: Drustan
 perception: '+25'
 rarity: Unique
 reflex: '+22'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +27'
@@ -51,16 +41,13 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+24'
 wisdom: '+3'
 

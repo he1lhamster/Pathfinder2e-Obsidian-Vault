@@ -1,10 +1,8 @@
 ﻿---
-element: null
 id: '23'
 level: '11'
 name: Curse of Slumber
 rarity: Common
-rus_type_level: null
 saving_throw: DC 28 Fortitude
 school: Necromancy
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
@@ -15,7 +13,6 @@ trait:
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Sleep|Sleep]]'
 type: Curse
-usage: null
 
 ---
 # Curse of Slumber<span class="item-type">Curse 11</span>

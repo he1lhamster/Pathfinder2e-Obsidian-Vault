@@ -1,24 +1,17 @@
 ﻿---
 ac: '25'
 alignment: CN
-all_resistance: null
 burrow_speed: '25'
 charisma: '+1'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Constrict
 - I Venom
 - Writhing Arms
-creature_family: null
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+14'
-hardness: null
 hp: '110'
 id: '1969'
-immunity: null
 intelligence: '+4'
 land_speed: '25'
 language:
@@ -34,8 +27,6 @@ rarity: Unique
 reflex: '+12'
 resistance:
 - bludgeoning 10
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) 30 feet'
@@ -60,7 +51,6 @@ strength_req: '4'
 strongest_save:
 - Fortitude
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Aberration|Aberration]]'
 - '[[DATABASE/trait/Unique|Unique]]'
@@ -68,7 +58,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+14'
 wisdom: '+2'
 

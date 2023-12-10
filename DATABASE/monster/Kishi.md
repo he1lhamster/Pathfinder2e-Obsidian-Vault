@@ -1,25 +1,17 @@
 ﻿---
 ac: '25'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Constrict
 - Head Spin
 - Sudden Charge
 - Vicelike Jaws
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+13'
-hardness: null
 hp: '138'
 id: '1208'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -33,8 +25,6 @@ rarity: Common
 reflex: '+18'
 resistance:
 - piercing 10
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
@@ -53,7 +43,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 type: Creature

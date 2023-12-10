@@ -1,23 +1,14 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Skim Scroll
-frequency: null
-heighten_level: null
 id: '2055'
 level: '8'
 name: Skim Scroll
 prerequisite: '[[DATABASE/feat/Scroll Trickster Dedication|Scroll Trickster Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

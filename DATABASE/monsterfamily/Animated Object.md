@@ -3,9 +3,7 @@ creature_family: Animated Object
 id: '4'
 name: Animated Object
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
-trait: null
 type: Creature Family
 
 ---

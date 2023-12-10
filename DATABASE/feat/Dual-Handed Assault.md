@@ -1,24 +1,15 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Dual-Handed Assault
-frequency: null
-heighten_level: null
 id: '371'
 level: '4'
 name: Dual-Handed Assault
-prerequisite: null
 rarity: Common
 requirement: You are wielding a one-handed melee weapon and have a free hand.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fighter|Fighter]]'
 - '[[DATABASE/trait/Flourish|Flourish]]'
-trigger: null
 type: Feat
 
 ---

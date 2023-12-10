@@ -2,7 +2,6 @@
 id: '401'
 name: Concussive
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
 trait:
 - Concussive

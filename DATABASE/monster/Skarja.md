@@ -1,10 +1,7 @@
 ﻿---
 ac: '34'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Abyssal Plague
@@ -13,12 +10,8 @@ creature_ability:
 - Dream Haunting
 - Nightmare Rider
 - Spell Ambush
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+23'
-hardness: null
 hp: '260'
 id: '2110'
 immunity:
@@ -39,8 +32,6 @@ rarity: Unique
 reflex: '+22'
 resistance:
 - '[[DATABASE/trait/Mental|mental]] 15'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -74,7 +65,6 @@ strength_req: '7'
 strongest_save:
 - Fortitude
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fiend|Fiend]]'
 - '[[DATABASE/trait/Hag|Hag]]'

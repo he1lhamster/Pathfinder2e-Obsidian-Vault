@@ -1,22 +1,16 @@
 ﻿---
 ac: '25'
 alignment: LG
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Breath Weapon
 - Deflecting Gale
 - Peaceful Aura
 - Rearing Thrust
-creature_family: null
 dexterity: '+6'
 element: Air, Fire
-fly_speed: null
 fortitude: '+13'
-hardness: null
 hp: '115'
 id: '1207'
 immunity:
@@ -35,9 +29,6 @@ name: Kirin
 perception: '+17'
 rarity: Rare
 reflex: '+17'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 60 feet'
@@ -62,7 +53,6 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Beast|Beast]]'
@@ -72,7 +62,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+15'
 wisdom: '+4'
 

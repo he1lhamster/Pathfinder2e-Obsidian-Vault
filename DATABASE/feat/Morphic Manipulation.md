@@ -1,17 +1,10 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Morphic Manipulation
-frequency: null
-heighten_level: null
 id: '3775'
 level: '7'
 name: Morphic Manipulation
 prerequisite: Master in [[DATABASE/skill/Nature|Nature]]
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
 subcategory: nature
@@ -23,7 +16,6 @@ trait:
 - '[[DATABASE/trait/Primal|Primal]]'
 - '[[DATABASE/trait/Skill|Skill]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

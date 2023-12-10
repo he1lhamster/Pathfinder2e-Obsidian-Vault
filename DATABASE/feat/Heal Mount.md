@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Heal Mount
-frequency: null
-heighten_level: null
 id: '233'
 level: '8'
 name: Heal Mount
 prerequisite: '[[DATABASE/class_/Champion|divine ally (steed)]] ; devotion spell (
   [[DATABASE/spell/Lay on Hands|lay on hands]] )'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Champion|Champion]]'
-trigger: null
 type: Feat
 
 ---

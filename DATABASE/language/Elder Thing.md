@@ -2,7 +2,6 @@
 id: '105'
 name: Elder Thing
 rarity: Rare
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 189. Dreamers of the Nameless Spires|Pathfinder
   #189: Dreamers of the Nameless Spires]]'
 trait:

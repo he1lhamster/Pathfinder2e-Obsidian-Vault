@@ -1,13 +1,7 @@
 ﻿---
-ability: null
-ability_boost: null
-feat: null
 id: '182'
 name: Amnesiac
-prerequisite: null
 rarity: Rare
-rus_type_level: null
-skill: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
 subcategory: general
 trait:

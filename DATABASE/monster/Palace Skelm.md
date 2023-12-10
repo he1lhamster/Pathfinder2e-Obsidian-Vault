@@ -1,10 +1,7 @@
 ﻿---
 ac: '27'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Change Shape
@@ -12,13 +9,9 @@ creature_ability:
 - Incite Violence
 creature_family: '[[DATABASE/monsterfamily/Skelm|Skelm]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+17'
-hardness: null
 hp: '155'
 id: '1303'
-immunity: null
 intelligence: '+4'
 land_speed: '25'
 language:
@@ -30,9 +23,6 @@ name: Palace Skelm
 perception: '+15'
 rarity: Common
 reflex: '+16'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
 size: Medium
@@ -63,12 +53,10 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Skelm|Skelm]]'
 type: Creature
-vision: null
 weakest_save:
 - Will
 weakness:

@@ -1,6 +1,4 @@
 ﻿---
-ability: null
-ability_boost: null
 alignment: CE
 deity:
 - '[[DATABASE/deity/Gogunta|Gogunta]]'
@@ -17,11 +15,9 @@ follower_alignment:
 id: '25'
 name: Gogunta
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Intimidation|Intimidation]]'
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
-trait: null
 type: Deity
 
 ---

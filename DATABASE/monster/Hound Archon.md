@@ -1,10 +1,7 @@
 ﻿---
 ac: '22'
 alignment: LG
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Archon's Door
@@ -13,13 +10,9 @@ creature_ability:
 - Retributive Strike
 creature_family: '[[DATABASE/monsterfamily/Archon|Archon]]'
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+14'
-hardness: null
 hp: '70'
 id: '551'
-immunity: null
 intelligence: '+0'
 land_speed: '35'
 language:
@@ -32,9 +25,6 @@ name: Hound Archon
 perception: '+13'
 rarity: Common
 reflex: '+8'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -54,7 +44,6 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Archon|Archon]]'
 - '[[DATABASE/trait/Celestial|Celestial]]'

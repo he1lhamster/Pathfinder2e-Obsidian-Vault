@@ -3,9 +3,7 @@ creature_family: Ogre
 id: '78'
 name: Ogre
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
-trait: null
 type: Creature Family
 
 ---

@@ -5,12 +5,9 @@ ability:
 ability_boost:
 - Constitution
 - Charisma
-feat: null
 id: '287'
 name: Revenant
-prerequisite: null
 rarity: Rare
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Religion|Religion]]'
 - Boneyard [[DATABASE/skill/Lore|Lore]]

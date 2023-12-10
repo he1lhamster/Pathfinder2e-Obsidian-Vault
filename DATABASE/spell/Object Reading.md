@@ -1,39 +1,8 @@
 ﻿---
-actions: '[two-actions]'
-area: null
-bloodline: null
-component:
-- Somatic
-- Verbal
-cost: null
-deity:
-- '[[DATABASE/deity/Cosmic Caravan|Cosmic Caravan]]'
-- '[[DATABASE/deity/Cosmic Caravan|Cosmic Caravan]]'
-domain: null
-duration: null
-element: null
-heighten: 2nd, 4th, 6th, 8th, 9th
-heighten_level: 1, 2, 4, 6, 8, 9
-id: '705'
-lesson: null
-level: '1'
-mystery: null
+id: '553'
 name: Object Reading
-patron_theme: null
-range: touch
-rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
-school: Divination
-source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-target: 1 object
-tradition:
-- Occult
-trait:
-- '[[DATABASE/trait/Divination|Divination]]'
-trigger: null
-type: Spell
+source: '[[DATABASE/source/Pathfinder 147. Tomorrow Must Burn|Pathfinder #147: Tomorrow
+  Must Burn]]'
 
 ---
 # Object Reading<span class="item-type">Spell 1</span>

@@ -15,14 +15,11 @@ id: '15'
 name: Swashbuckler
 perception_proficiency: Expert
 rarity: Common
-rus_type_level: null
 skill_proficiency:
 - Trained in Acrobatics
 - Trained in one skill determined by your swashbuckler's style
 - Trained in a number of additional skills equal to 4 plus your Intelligence modifier
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-tradition: null
-trait: null
 type: Class
 
 ---

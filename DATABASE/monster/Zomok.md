@@ -1,22 +1,16 @@
 ﻿---
 ac: '39'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+9'
 creature_ability:
 - Entombing Breath
 - Forest Step
 - Swallow Whole
 - Trample
-creature_family: null
 dexterity: '+5'
-element: null
 fly_speed: '80'
 fortitude: '+31'
-hardness: null
 hp: '310'
 id: '871'
 immunity:
@@ -38,9 +32,6 @@ name: Zomok
 perception: '+28'
 rarity: Common
 reflex: '+25'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Tremorsense|tremorsense (imprecise) 60 feet]]'
@@ -65,7 +56,6 @@ strength: '+9'
 strength_req: '9'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dragon|Dragon]]'
 - '[[DATABASE/trait/Plant|Plant]]'

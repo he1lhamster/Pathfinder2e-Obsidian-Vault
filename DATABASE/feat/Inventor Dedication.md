@@ -1,26 +1,19 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Inventor Dedication
-frequency: null
-heighten_level: null
 id: '3112'
+leads_to: '[[DATABASE/feat/Basic Breakthrough|Basic Breakthrough]] , [[DATABASE/feat/Basic
+  Modification|Basic Modification]] , [[DATABASE/feat/Brilliant Crafter|Brilliant
+  Crafter]] , [[DATABASE/feat/Explosion|Explosion]]'
 level: '2'
 name: Inventor Dedication
 prerequisite: Intelligence 14
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Multiclass|Multiclass]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

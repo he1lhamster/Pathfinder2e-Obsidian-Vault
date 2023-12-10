@@ -2,33 +2,23 @@
 actions: '[two-actions]'
 area: 5-foot-wide, 10-foot-tall, 10-foot deep section of wooden, plaster, or stone
   wall
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Dranngvit|Dranngvit]]'
 - '[[DATABASE/deity/Dranngvit|Dranngvit]]'
-domain: null
 duration: 1 hour
 element: Earth
 heighten: 7th
 heighten_level: 5, 7
 id: '216'
-lesson: null
 level: '5'
-mystery: null
 name: Passwall
-patron_theme: null
 range: touch
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-target: null
 tradition:
 - Arcane
 - Primal
@@ -36,7 +26,6 @@ trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Earth|Earth]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Spell
 
 ---

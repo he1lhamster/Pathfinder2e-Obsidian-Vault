@@ -1,23 +1,15 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Lunge
-frequency: null
-heighten_level: null
 id: '369'
+leads_to: '[[DATABASE/feat/Lunging Stance|Lunging Stance]]'
 level: '2'
 name: Lunge
-prerequisite: null
 rarity: Common
 requirement: You are wielding a melee weapon.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fighter|Fighter]]'
-trigger: null
 type: Feat
 
 ---

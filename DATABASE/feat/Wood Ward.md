@@ -1,20 +1,13 @@
 ﻿---
 actions: '[reaction]'
-cost: null
 element: Wood
 feat: Wood Ward
 frequency: once per hour
-heighten_level: null
 id: '4323'
 level: '17'
 name: Wood Ward
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Ardande|Ardande]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'

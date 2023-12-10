@@ -1,23 +1,14 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Magus's Analysis
-frequency: null
-heighten_level: null
 id: '2847'
 level: '1'
 name: Magus's Analysis
 prerequisite: '[[DATABASE/action/Spellstrike|Spellstrike]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Magus|Magus]]'
-trigger: null
 type: Feat
 
 ---

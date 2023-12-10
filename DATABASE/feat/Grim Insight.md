@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Grim Insight
-frequency: null
-heighten_level: null
 id: '988'
 level: '1'
 name: Grim Insight
 prerequisite: '[[DATABASE/heritage/Umbral Gnome|Umbral Gnome]] heritage'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Gnome|Gnome]]'
-trigger: null
 type: Feat
 
 ---

@@ -1,8 +1,6 @@
 ﻿---
 ac: '28'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
 climb_speed: '20'
 constitution: '+10'
@@ -16,10 +14,7 @@ creature_ability:
 - Eruption
 creature_family: '[[DATABASE/monsterfamily/Ooze|Ooze]]'
 dexterity: '-5'
-element: null
-fly_speed: null
 fortitude: '+33'
-hardness: null
 hp: '550'
 id: '1797'
 immunity:
@@ -30,16 +25,12 @@ immunity:
 - '[[DATABASE/trait/Visual|visual]]'
 intelligence: '-5'
 land_speed: '20'
-language: null
 level: '18'
 max_speed: '20'
 name: Chromatic Ooze
 perception: '+30'
 rarity: Rare
 reflex: '+16'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - motion sense 240 feet
 - no vision
@@ -52,7 +43,6 @@ speed:
 - 20 feet
 - climb 20 feet
 - swim 20 feet
-spell: null
 strength: '+9'
 strength_req: '9'
 strongest_save:
@@ -63,10 +53,8 @@ trait:
 - '[[DATABASE/trait/Ooze|Ooze]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+20'
 wisdom: '+0'
 

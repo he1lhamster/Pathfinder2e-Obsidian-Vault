@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Defy Death
-frequency: null
-heighten_level: null
 id: '2416'
 level: '5'
 name: Defy Death
 prerequisite: '[[DATABASE/feat/Orc Ferocity|Orc Ferocity]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Orc|Orc]]'
-trigger: null
 type: Feat
 
 ---

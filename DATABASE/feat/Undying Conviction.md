@@ -1,10 +1,5 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Undying Conviction
-frequency: null
-heighten_level: null
 id: '3483'
 level: '4'
 name: Undying Conviction
@@ -12,11 +7,8 @@ prerequisite: able to create or control [[DATABASE/trait/Undead|undead]] ; [[DAT
   with a negative font, [[DATABASE/class_/Oracle|oracle]] of [[DATABASE/oraclemystery/Bones|bones]]
   , or [[DATABASE/wizardarcaneschool/Necromancy|necromancer]] [[DATABASE/class_/Wizard|wizard]]
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Aura|Aura]]'
 - '[[DATABASE/trait/Cleric|Cleric]]'
@@ -24,7 +16,6 @@ trait:
 - '[[DATABASE/trait/Oracle|Oracle]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 - '[[DATABASE/trait/Wizard|Wizard]]'
-trigger: null
 type: Feat
 
 ---

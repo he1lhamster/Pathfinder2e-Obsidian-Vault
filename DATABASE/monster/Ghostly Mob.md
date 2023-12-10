@@ -2,9 +2,7 @@
 ac: '25'
 alignment: CE
 all_resistance: '10'
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Clutching Hands
@@ -15,12 +13,9 @@ creature_ability:
 - Troop Defenses
 - Troop
 - Movement
-creature_family: null
 dexterity: '+4'
-element: null
 fly_speed: '25'
 fortitude: '+15'
-hardness: null
 hp: 105 ( negative healing , rejuvenation)
 id: '2053'
 immunity:
@@ -31,7 +26,6 @@ immunity:
 - precision
 - '[[DATABASE/trait/Sleep|sleep]]'
 intelligence: '+0'
-land_speed: null
 language:
 - '[[DATABASE/language/Common|Common]]'
 - '[[DATABASE/language/Necril|Necril]]'
@@ -46,8 +40,6 @@ resistance:
 - '[[DATABASE/equipment/Ghost Touch|ghost touch]]'
 - or [[DATABASE/trait/Positive|positive]] ; double resistance vs. non- [[DATABASE/trait/Magical|magical]]
   )
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Gargantuan
@@ -59,12 +51,10 @@ source: '[[DATABASE/source/Pathfinder 182. Graveclaw|Pathfinder #182: Graveclaw]
 speed:
 - fly 25 feet
 - troop movement
-spell: null
 strength: '-5'
 strength_req: '-5'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Ghost|Ghost]]'
 - '[[DATABASE/trait/Incorporeal|Incorporeal]]'

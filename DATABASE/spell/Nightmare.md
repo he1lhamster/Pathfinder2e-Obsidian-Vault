@@ -1,30 +1,18 @@
 ﻿---
-actions: null
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Lamashtu|Lamashtu]]'
 - '[[DATABASE/deity/Nyarlathotep|Nyarlathotep (Haunter in the Dark)]]'
-domain: null
 duration: 1 day
-element: null
-heighten: null
 heighten_level: '4'
 id: '208'
-lesson: null
 level: '4'
-mystery: null
 name: Nightmare
-patron_theme: null
 range: planetary
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Will
 school: Illusion
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -35,7 +23,6 @@ tradition:
 trait:
 - '[[DATABASE/trait/Illusion|Illusion]]'
 - '[[DATABASE/trait/Mental|Mental]]'
-trigger: null
 type: Spell
 
 ---

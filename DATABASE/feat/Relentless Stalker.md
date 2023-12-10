@@ -1,20 +1,11 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Relentless Stalker
-frequency: null
-heighten_level: null
 id: '867'
 level: '2'
 name: Relentless Stalker
-prerequisite: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/The Fall of Plaguestone|The Fall of Plaguestone]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Move|Move]]'
 - '[[DATABASE/trait/Ranger|Ranger]]'

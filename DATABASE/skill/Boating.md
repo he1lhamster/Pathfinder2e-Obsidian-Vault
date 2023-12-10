@@ -1,14 +1,10 @@
 ﻿---
-ability: null
-ability_boost: null
 id: '20'
 name: Boating
 rarity: Common
-rus_type_level: null
 skill:
 - Boating
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
-trait: null
 type: Skill
 
 ---

@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Otherworldly Acumen
-frequency: null
-heighten_level: null
 id: '1412'
 level: '9'
 name: Otherworldly Acumen
 prerequisite: at least one innate spell gained from an elf ancestry feat
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Elf|Elf]]'
-trigger: null
 type: Feat
 
 ---

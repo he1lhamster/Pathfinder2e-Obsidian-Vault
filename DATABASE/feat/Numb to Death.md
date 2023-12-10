@@ -1,23 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Numb to Death
 frequency: once per day
-heighten_level: null
 id: '1182'
 level: '7'
 name: Numb to Death
 prerequisite: '[[DATABASE/feat/Diehard|Diehard]] ; you have died at least once'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/General|General]]'
-trigger: null
 type: Feat
 
 ---

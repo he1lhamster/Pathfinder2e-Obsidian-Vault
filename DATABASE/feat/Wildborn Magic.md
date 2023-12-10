@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Wildborn Magic
-frequency: null
-heighten_level: null
 id: '978'
+leads_to: '[[DATABASE/feat/Wildborn Adept|Wildborn Adept]]'
 level: '1'
 name: Wildborn Magic
-prerequisite: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Elf|Elf]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Feat
 
 ---

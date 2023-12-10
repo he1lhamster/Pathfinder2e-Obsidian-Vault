@@ -1,8 +1,6 @@
 ﻿---
 ac: '19'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
 climb_speed: '20'
 constitution: '+3'
@@ -12,25 +10,17 @@ creature_ability:
 - Giant Viper Venom
 creature_family: '[[DATABASE/monsterfamily/Snake|Snake]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+8'
-hardness: null
 hp: '26'
 id: '381'
-immunity: null
 intelligence: '-4'
 land_speed: '20'
-language: null
 level: '2'
 max_speed: '20'
 name: Giant Viper
 perception: '+7'
 rarity: Common
 reflex: '+11'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 - scent (imprecise) 30 feet
@@ -45,7 +35,6 @@ speed:
 - 20 feet
 - climb 20 feet
 - swim 20 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
@@ -57,7 +46,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+6'
 wisdom: '+1'
 

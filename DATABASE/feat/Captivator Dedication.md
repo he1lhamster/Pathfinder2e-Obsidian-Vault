@@ -1,25 +1,19 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Captivator Dedication
-frequency: null
-heighten_level: null
 id: '3358'
+leads_to: '[[DATABASE/feat/Basic Captivator Spellcasting|Basic Captivator Spellcasting]]
+  , [[DATABASE/feat/Effortless Captivation|Effortless Captivation]] , [[DATABASE/feat/Heightened
+  Captivation|Heightened Captivation]] , [[DATABASE/feat/Look Again|Look Again]] ,
+  [[DATABASE/feat/Reactive Charm|Reactive Charm]]'
 level: '4'
 name: Captivator Dedication
 prerequisite: Charisma 14; Trained in [[DATABASE/skill/Deception|Deception]] or Trained
   in [[DATABASE/skill/Diplomacy|Diplomacy]]
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
-trigger: null
 type: Feat
 
 ---

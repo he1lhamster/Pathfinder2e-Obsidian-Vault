@@ -1,10 +1,7 @@
 ﻿---
 ac: '23'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Attack of Opportunity
@@ -14,28 +11,20 @@ creature_ability:
 - Multiple
 - Opportunities
 - Storm of Jaws
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+15'
-hardness: null
 hp: 90 ((body), hydra regeneration) HP 15 ((head), head regrowth)
 id: '269'
 immunity:
 - area damage
 intelligence: '-3'
 land_speed: '25'
-language: null
 level: '6'
 max_speed: '25'
 name: Hydra
 perception: '+17'
 rarity: Common
 reflex: '+12'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 - scent (imprecise) 30 feet
@@ -47,7 +36,6 @@ source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 25 feet
 - swim 25 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:

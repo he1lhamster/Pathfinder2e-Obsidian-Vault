@@ -1,23 +1,15 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Spell Parry
-frequency: null
-heighten_level: null
 id: '2851'
+leads_to: '[[DATABASE/feat/Preternatural Parry|Preternatural Parry]]'
 level: '2'
 name: Spell Parry
-prerequisite: null
 rarity: Common
 requirement: You have one or more hands free.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Secrets of Magic|Secrets of Magic]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Magus|Magus]]'
-trigger: null
 type: Feat
 
 ---

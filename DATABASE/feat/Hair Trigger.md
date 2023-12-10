@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Hair Trigger
-frequency: null
-heighten_level: null
 id: '3205'
 level: '16'
 name: Hair Trigger
 prerequisite: '[[DATABASE/class_/Gunslinger|initial deed]] that allows you to Interact
   to draw a weapon'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Gunslinger|Gunslinger]]'
-trigger: null
 type: Feat
 
 ---

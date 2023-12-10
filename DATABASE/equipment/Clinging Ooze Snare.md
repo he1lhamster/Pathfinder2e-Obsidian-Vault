@@ -1,45 +1,12 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
-bulk: null
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '1470'
 item_category: Snares
-item_subcategory: null
-land_speed: null
 level: '4'
-max_speed: null
 name: Clinging Ooze Snare
-onset: null
 price: 25 gp
-range: null
 rarity: Rare
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
-school: null
-size: null
 source: '[[DATABASE/source/Pathfinder Special. Fumbus|Pathfinder Special: Fumbus]]'
-spell: null
-stage: null
 subcategory: snare
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Acid|Acid]]'
 - '[[DATABASE/trait/Consumable|Consumable]]'
@@ -47,12 +14,7 @@ trait:
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Snare|Snare]]'
 - '[[DATABASE/trait/Trap|Trap]]'
-trigger: null
 type: Item
-usage: null
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Clinging Ooze Snare<span class="item-type">Item 4</span>

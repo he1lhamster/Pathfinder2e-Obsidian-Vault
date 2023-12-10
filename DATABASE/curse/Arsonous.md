@@ -4,8 +4,6 @@ id: '2'
 level: '7'
 name: Arsonous
 rarity: Rare
-rus_type_level: null
-saving_throw: null
 school: Evocation
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:

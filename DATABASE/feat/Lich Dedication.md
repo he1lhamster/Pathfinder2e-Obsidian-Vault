@@ -1,25 +1,19 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Lich Dedication
-frequency: null
-heighten_level: null
 id: '3513'
+leads_to: '[[DATABASE/feat/Bolster Soul Cage|Bolster Soul Cage]] , [[DATABASE/feat/Drain
+  Soul Cage|Drain Soul Cage]] , [[DATABASE/feat/Enshroud Soul Cage|Enshroud Soul Cage]]
+  , [[DATABASE/feat/Hand of the Lich|Hand of the Lich]] , [[DATABASE/feat/Spell Gem|Spell
+  Gem]]'
 level: '12'
 name: Lich Dedication
 prerequisite: Expert in [[DATABASE/skill/Crafting|Crafting]]
 rarity: Rare
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Dedication|Dedication]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Feat
 
 ---

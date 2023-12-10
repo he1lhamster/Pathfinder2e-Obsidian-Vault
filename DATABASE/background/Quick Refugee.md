@@ -5,12 +5,9 @@ ability:
 ability_boost:
 - Dexterity
 - Wisdom
-feat: null
 id: '386'
 name: Quick Refugee
-prerequisite: null
 rarity: Rare
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Stealth|Stealth]]'
 - Undead [[DATABASE/skill/Lore|Lore]]

@@ -1,24 +1,16 @@
 ﻿---
 ac: '25'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Change Shape
 - Defensive Quills
 - Pukwudgie Poison
-creature_family: null
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+12'
-hardness: null
 hp: '100'
 id: '1269'
-immunity: null
 intelligence: '+4'
 land_speed: '25'
 language:
@@ -34,8 +26,6 @@ rarity: Uncommon
 reflex: '+15'
 resistance:
 - poison 5
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Small
@@ -58,7 +48,6 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

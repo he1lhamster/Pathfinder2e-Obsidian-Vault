@@ -1,7 +1,6 @@
 ﻿---
 id: '21'
 name: Helpful
-source: null
 
 ---
 # Helpful

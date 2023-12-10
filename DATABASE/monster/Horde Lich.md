@@ -1,10 +1,7 @@
 ﻿---
 ac: '35'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+0'
 creature_ability:
 - Rejuvenation
@@ -17,10 +14,7 @@ creature_ability:
 - Steady Spellcasting
 creature_family: '[[DATABASE/monsterfamily/Lich|Lich]]'
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+21'
-hardness: null
 hp: 250 ( negative healing , rejuvenation)
 id: '1876'
 immunity:
@@ -50,8 +44,6 @@ reflex: '+27'
 resistance:
 - '[[DATABASE/trait/Cold|cold]] 10'
 - physical 10 (except [[DATABASE/trait/Magical|magical]] bludgeoning)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -107,7 +99,6 @@ strength_req: '2'
 strongest_save:
 - Reflex
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'
 - '[[DATABASE/trait/Undead|Undead]]'
@@ -115,7 +106,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+27'
 wisdom: '+4'
 

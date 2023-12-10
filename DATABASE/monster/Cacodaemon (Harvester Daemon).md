@@ -1,10 +1,7 @@
 ﻿---
 ac: '16'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Cacodaemonia
@@ -12,10 +9,8 @@ creature_ability:
 - Soul Lock
 creature_family: '[[DATABASE/monsterfamily/Daemon|Daemon]]'
 dexterity: '+3'
-element: null
 fly_speed: '40'
 fortitude: '+7'
-hardness: null
 hp: '22'
 id: '88'
 immunity:
@@ -31,9 +26,6 @@ name: Cacodaemon
 perception: '+6'
 rarity: Common
 reflex: '+8'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Tiny
@@ -56,7 +48,6 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Daemon|Daemon]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

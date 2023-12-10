@@ -1,11 +1,7 @@
 ﻿---
-burrow_speed: null
 charisma: '+1'
-climb_speed: null
 constitution: '+1'
 dexterity: '+2'
-element: null
-fly_speed: null
 hp: '4'
 id: '44'
 intelligence: '-5'
@@ -13,17 +9,14 @@ land_speed: '20'
 max_speed: '20'
 name: Skeletal Servant
 rarity: Uncommon
-rus_type_level: null
 sense:
 - darkvision
 size: Small, Medium
-skill: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 speed:
 - 20 feet
 strength: '+2'
 strength_req: '2'
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Animal Companion

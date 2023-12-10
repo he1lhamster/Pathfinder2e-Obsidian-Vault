@@ -1,22 +1,16 @@
 ﻿---
 ac: '35'
 alignment: CE
-all_resistance: null
 burrow_speed: '10'
 charisma: '+5'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Cytillesh Stare
 - Ghoul Fever
 - Profane Paralysis
 - Vulnerable to Sunlight
-creature_family: null
 dexterity: '+8'
-element: null
-fly_speed: null
 fortitude: '+25'
-hardness: null
 hp: '200'
 id: '1961'
 immunity:
@@ -38,9 +32,6 @@ name: Ibrique
 perception: '+18'
 rarity: Unique
 reflex: '+28'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Small
@@ -70,7 +61,6 @@ strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Ghoul|Ghoul]]'
 - '[[DATABASE/trait/Undead|Undead]]'

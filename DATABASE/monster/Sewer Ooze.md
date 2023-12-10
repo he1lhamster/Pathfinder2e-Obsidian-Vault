@@ -1,20 +1,14 @@
 ﻿---
 ac: '8'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Filth Wave
 - Motion Sense
 creature_family: '[[DATABASE/monsterfamily/Ooze|Ooze]]'
 dexterity: '-5'
-element: null
-fly_speed: null
 fortitude: '+9'
-hardness: null
 hp: '40'
 id: '320'
 immunity:
@@ -26,16 +20,12 @@ immunity:
 - visual
 intelligence: '-5'
 land_speed: '10'
-language: null
 level: '1'
 max_speed: '10'
 name: Sewer Ooze
 perception: '+3'
 rarity: Common
 reflex: '+1'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - motion sense 60 feet
 - no vision
@@ -45,20 +35,16 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 10 feet
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Mindless|Mindless]]'
 - '[[DATABASE/trait/Ooze|Ooze]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+3'
 wisdom: '+0'
 

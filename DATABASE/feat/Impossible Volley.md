@@ -1,26 +1,17 @@
 ﻿---
 actions: '[three-actions]'
-cost: null
-element: null
 feat: Impossible Volley
-frequency: null
-heighten_level: null
 id: '426'
 level: '18'
 name: Impossible Volley
-prerequisite: null
 rarity: Common
 requirement: You are wielding a ranged weapon with the volley trait and reload 0.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fighter|Fighter]]'
 - '[[DATABASE/trait/Flourish|Flourish]]'
 - '[[DATABASE/trait/Open|Open]]'
 - '[[DATABASE/trait/Ranger|Ranger]]'
-trigger: null
 type: Feat
 
 ---

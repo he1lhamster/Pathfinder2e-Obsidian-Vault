@@ -1,10 +1,8 @@
 ﻿---
 ac: '30'
 alignment: CE
-all_resistance: null
 burrow_speed: '5'
 charisma: '+3'
-climb_speed: null
 constitution: '+1'
 creature_ability:
 - Consume Arcana
@@ -13,12 +11,8 @@ creature_ability:
 - Ghast Fever
 - Paralysis
 - Swift Leap
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+21'
-hardness: null
 hp: 195 ( negative healing )
 id: '2092'
 immunity:
@@ -38,9 +32,6 @@ name: Yulthruk
 perception: '+21'
 rarity: Unique
 reflex: '+23'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -82,7 +73,6 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Ghoul|Ghoul]]'
 - '[[DATABASE/trait/Undead|Undead]]'
@@ -91,7 +81,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+19'
 wisdom: '+3'
 

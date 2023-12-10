@@ -1,21 +1,13 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Rebel's Map
-frequency: null
-heighten_level: null
 id: '4135'
 level: '4'
 name: Rebel's Map
 prerequisite: '[[DATABASE/feat/Horizon Walker Dedication|Horizon Walker Dedication]]
   or [[DATABASE/feat/Scout Dedication|Scout Dedication]]'
 rarity: Uncommon
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Firebrands|Firebrands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

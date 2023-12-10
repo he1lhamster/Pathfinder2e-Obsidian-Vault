@@ -1,10 +1,7 @@
 ﻿---
 ac: '31'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Attack of Opportunity
@@ -14,10 +11,8 @@ creature_ability:
 - Warden of Erebus
 creature_family: '[[DATABASE/monsterfamily/Devil|Devil]]'
 dexterity: '+6'
-element: null
 fly_speed: '30'
 fortitude: '+23'
-hardness: null
 hp: '165'
 id: '609'
 immunity:
@@ -38,8 +33,6 @@ reflex: '+20'
 resistance:
 - physical 10 (except [[DATABASE/equipment/Silver|silver]] )
 - poison 10
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 size: Medium
@@ -64,7 +57,6 @@ strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Devil|Devil]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'

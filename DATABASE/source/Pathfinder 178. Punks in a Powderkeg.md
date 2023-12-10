@@ -2,9 +2,6 @@
 id: '119'
 name: Pathfinder 178. Punks in a Powderkeg
 rarity: Common
-rus_type_level: null
-source: null
-trait: null
 type: Source
 
 ---

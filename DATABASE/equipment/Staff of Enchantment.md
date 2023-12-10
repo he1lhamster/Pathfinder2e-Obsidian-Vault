@@ -1,53 +1,20 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
 bulk: '1'
-burrow_speed: null
-climb_speed: null
-damage: null
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: null
-hardness: null
-hp: null
 id: '354'
 item_category: Staves
-item_subcategory: null
-land_speed: null
-level: '14'
-max_speed: null
+level: '6'
 name: Staff of Enchantment
-onset: null
-price: 4,000 gp
-range: null
-rarity: Uncommon
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
-school: null
-size: null
+price: 230 gp
+rarity: Common
+school: Enchantment
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-spell: null
-stage: null
 subcategory: stave
-swim_speed: null
 trait:
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
+- '[[DATABASE/trait/Enchantment|Enchantment]]'
+- '[[DATABASE/trait/Magical|Magical]]'
+- '[[DATABASE/trait/Staff|Staff]]'
 type: Item
 usage: held in 1 hand
-weapon_category: null
-weapon_group: null
-weapon_type: null
 
 ---
 # Staff of Enchantment<span class="item-type">Item 6+</span>

@@ -1,10 +1,7 @@
 ﻿---
 ac: '24'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - God's Intervention
@@ -13,14 +10,10 @@ creature_ability:
 - Otherworldly Roar
 - Rampaging Charge
 - Spirit Link
-creature_family: null
 dexterity: '+0'
-element: null
-fly_speed: null
 fortitude: '+17'
 hp: '125'
 id: '1792'
-immunity: null
 intelligence: '+2'
 land_speed: '40'
 language:
@@ -34,8 +27,6 @@ name: Idovik
 perception: '+14'
 rarity: Unique
 reflex: '+11'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
@@ -49,12 +40,10 @@ source: '[[DATABASE/source/Pathfinder 176. Lost Mammoth Valley|Pathfinder #176: 
   Mammoth Valley]]'
 speed:
 - 40 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Eidolon|Eidolon]]'
@@ -63,7 +52,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+15'
 wisdom: '+3'
 

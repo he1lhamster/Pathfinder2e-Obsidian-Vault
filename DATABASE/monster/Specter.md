@@ -2,21 +2,16 @@
 ac: '25'
 alignment: LE
 all_resistance: '5'
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Frightful Presence
 - Pain Starvation
 - Spectral Corruption
 - Sunlight Powerlessness
-creature_family: null
 dexterity: '+6'
-element: null
 fly_speed: '40'
 fortitude: '+13'
-hardness: null
 hp: 95 ( negative healing )
 id: '812'
 immunity:
@@ -27,7 +22,6 @@ immunity:
 - precision
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '+0'
-land_speed: null
 language:
 - '[[DATABASE/language/Common|Common]]'
 - '[[DATABASE/language/Necril|Necril]] ; [[DATABASE/monsterability/Telepathy|telepathy
@@ -42,8 +36,6 @@ resistance:
 - all 5 (except force
 - '[[DATABASE/equipment/Ghost Touch|ghost touch]]'
 - or positive;double resistance vs. non-magical)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -54,12 +46,10 @@ skill:
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - fly 40 feet
-spell: null
 strength: '-5'
 strength_req: '-5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Incorporeal|Incorporeal]]'
 - '[[DATABASE/trait/Undead|Undead]]'
@@ -67,7 +57,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+15'
 wisdom: '+4'
 

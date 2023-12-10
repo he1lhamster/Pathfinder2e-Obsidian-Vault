@@ -1,21 +1,15 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Night's Warning
 frequency: once per hour
-heighten_level: null
 id: '4073'
 level: '14'
 name: Night's Warning
 prerequisite: '[[DATABASE/feat/Oatia Skysage Dedication|Oatia Skysage Dedication]]'
 rarity: Common
 requirement: You can see the night sky.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 187. The Seventh Arch|Pathfinder #187: The Seventh
   Arch]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Concentrate|Concentrate]]'

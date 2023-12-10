@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Stormy Heart
-frequency: null
-heighten_level: null
 id: '2341'
 level: '17'
 name: Stormy Heart
 prerequisite: '[[DATABASE/feat/Invoke the Elements|Invoke the Elements]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Changeling|Changeling]]'
-trigger: null
 type: Feat
 
 ---

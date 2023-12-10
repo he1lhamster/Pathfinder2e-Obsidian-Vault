@@ -1,10 +1,6 @@
 ﻿---
-area: null
 cost: "rare incense, offerings, or charitable donations to the rightful owners worth\
   \ a total value of 5 gp \xD7the target\u2019s level (minimum 1 gp)"
-duration: null
-element: null
-heighten: null
 heighten_level: '2'
 id: '105'
 level: '2'
@@ -12,8 +8,6 @@ name: Rite of Repatriation
 primary_check: Occultism (Trained) or Religion (trained)
 range: 15 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Conjuration
 secondary_casters: up to 5
 secondary_check: Occultism or Religion (whichever is used for the primary check),

@@ -1,20 +1,12 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Divine Weapon
 frequency: once per turn
-heighten_level: null
 id: '282'
 level: '6'
 name: Divine Weapon
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Cleric|Cleric]]'
 trigger: You finish Casting a Spell using one of your divine spell slots on your turn.

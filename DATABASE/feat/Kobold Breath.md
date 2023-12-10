@@ -1,25 +1,18 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Kobold Breath
-frequency: null
-heighten_level: null
 id: '1272'
+leads_to: '[[DATABASE/feat/Dragonblood Paragon|Dragonblood Paragon]] , [[DATABASE/feat/Dragon''s
+  Breath|Dragon''s Breath]]'
 level: '1'
 name: Kobold Breath
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Evocation
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Arcane|Arcane]]'
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Kobold|Kobold]]'
-trigger: null
 type: Feat
 
 ---

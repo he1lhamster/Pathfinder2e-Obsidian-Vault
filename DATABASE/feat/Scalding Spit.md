@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Scalding Spit
-frequency: null
-heighten_level: null
 id: '1010'
 level: '9'
 name: Scalding Spit
 prerequisite: '[[DATABASE/feat/Torch Goblin|Torch Goblin]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Goblin|Goblin]]'
-trigger: null
 type: Feat
 
 ---

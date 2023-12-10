@@ -1,10 +1,8 @@
 ﻿---
-element: null
 id: '37'
 level: '10'
 name: Rage of the Excommunicant
 rarity: Rare
-rus_type_level: null
 saving_throw: DC 27 Will
 school: Enchantment
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
@@ -15,7 +13,6 @@ trait:
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Curse
-usage: null
 
 ---
 # Rage of the Excommunicant<span class="item-type">Curse 10</span>

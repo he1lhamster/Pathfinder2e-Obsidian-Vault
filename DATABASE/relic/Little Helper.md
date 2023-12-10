@@ -1,11 +1,8 @@
 ﻿---
-element: null
 id: '33'
 item_category: Relics
 name: Little Helper
-prerequisite: null
 rarity: Common
-rus_type_level: null
 school: Divination
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:

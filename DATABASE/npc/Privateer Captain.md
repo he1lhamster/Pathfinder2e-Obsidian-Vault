@@ -1,22 +1,16 @@
 ﻿---
 ac: '30'
 alignment: CG
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Reach Spell
 - Sink or Swim
 creature_family: '[[DATABASE/monsterfamily/Firebrands|Firebrands]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+19'
 hp: '175'
 id: '966'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -28,8 +22,6 @@ name: Privateer Captain
 perception: '+21'
 rarity: Common
 reflex: '+20'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/spell/See Invisibility|see invisibility]]'
 size: Medium
@@ -72,15 +64,12 @@ strength: '+1'
 strength_req: '1'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
-weakness: null
 will: '+23'
 wisdom: '+5'
 

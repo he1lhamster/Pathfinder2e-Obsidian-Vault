@@ -1,10 +1,7 @@
 ﻿---
 ac: '31'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Attack of Opportunity
@@ -14,9 +11,7 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Giant|Giant]]'
 dexterity: '+0'
 element: Fire
-fly_speed: null
 fortitude: '+23'
-hardness: null
 hp: '175'
 id: '223'
 immunity:
@@ -32,9 +27,6 @@ name: Fire Giant
 perception: '+18'
 rarity: Common
 reflex: '+16'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - low-light vision
 size: Large
@@ -45,12 +37,10 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 25 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fire|Fire]]'
 - '[[DATABASE/trait/Giant|Giant]]'

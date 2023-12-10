@@ -1,24 +1,16 @@
 ﻿---
 ac: '25'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Attack of Opportunity
 - Reptile Master
 - Wicked Trophies
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+18'
-hardness: null
 hp: '160'
 id: '983'
-immunity: null
 intelligence: '+0'
 land_speed: '30'
 language:
@@ -33,8 +25,6 @@ rarity: Uncommon
 reflex: '+12'
 resistance:
 - fire 10
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -59,7 +49,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fiend|Fiend]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

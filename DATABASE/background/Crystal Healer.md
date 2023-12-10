@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Natural Medicine|Natural Medicine]]'
 id: '377'
 name: Crystal Healer
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Nature|Nature]]'
 - Plane of Earth [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

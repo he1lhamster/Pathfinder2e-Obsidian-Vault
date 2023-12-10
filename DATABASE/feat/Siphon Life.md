@@ -1,21 +1,14 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Siphon Life
-frequency: null
-heighten_level: null
 id: '3755'
 level: '10'
 name: Siphon Life
 prerequisite: You've been reduced to 0 Hit Points by an enemy with the [[DATABASE/trait/Negative|negative]]
   trait.
 rarity: Rare
-requirement: null
-rus_type_level: null
 school: Necromancy
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Aftermath|Aftermath]]'
 - '[[DATABASE/trait/Flourish|Flourish]]'
@@ -23,7 +16,6 @@ trait:
 - '[[DATABASE/trait/Necromancy|Necromancy]]'
 - '[[DATABASE/trait/Negative|Negative]]'
 - '[[DATABASE/trait/Rare|Rare]]'
-trigger: null
 type: Feat
 
 ---

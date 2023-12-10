@@ -1,8 +1,6 @@
 ﻿---
 ac: '23'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
 climb_speed: '20'
 constitution: '+3'
@@ -11,13 +9,9 @@ creature_ability:
 - Sneak Attack
 creature_family: '[[DATABASE/monsterfamily/Rakshasa|Rakshasa]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+12'
-hardness: null
 hp: '60'
 id: '344'
-immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
@@ -32,8 +26,6 @@ rarity: Common
 reflex: '+13'
 resistance:
 - physical 5 (except piercing)
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Small
@@ -61,7 +53,6 @@ strength: '+1'
 strength_req: '1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fiend|Fiend]]'
 - '[[DATABASE/trait/Rakshasa|Rakshasa]]'

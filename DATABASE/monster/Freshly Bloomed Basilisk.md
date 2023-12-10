@@ -1,35 +1,23 @@
 ﻿---
 ac: '26'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Petrifying Gaze
 - Petrifying Glance
-creature_family: null
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+21'
-hardness: null
 hp: '188'
 id: '2294'
-immunity: null
 intelligence: '-3'
 land_speed: '20'
-language: null
 level: '9'
 max_speed: '20'
 name: Freshly Bloomed Basilisk
 perception: '+18'
 rarity: Unique
 reflex: '+14'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -39,12 +27,10 @@ skill:
 source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 speed:
 - 20 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Unique|Unique]]'
@@ -52,7 +38,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+18'
 wisdom: '+3'
 

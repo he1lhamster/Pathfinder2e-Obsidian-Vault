@@ -1,24 +1,16 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Triggerbrand Salvo
-frequency: null
-heighten_level: null
 id: '4038'
 level: '6'
 name: Triggerbrand Salvo
 prerequisite: '[[DATABASE/gunslingerway/Way of the Triggerbrand|way of the triggerbrand]]'
 rarity: Common
 requirement: You're wielding a [[DATABASE/trait/Combination|combination]] weapon.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Flourish|Flourish]]'
 - '[[DATABASE/trait/Gunslinger|Gunslinger]]'
-trigger: null
 type: Feat
 
 ---

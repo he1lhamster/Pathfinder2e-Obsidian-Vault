@@ -1,10 +1,7 @@
 ﻿---
 ac: '42'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+7'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Attack of Opportunity
@@ -17,12 +14,8 @@ creature_ability:
 - Ruinous Weapons
 - Sacrilegious Aura
 - Weapon Master
-creature_family: null
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+32'
-hardness: null
 hp: 335 ( negative healing , rejuvenation)
 id: '2418'
 immunity:
@@ -45,8 +38,6 @@ rarity: Unique
 reflex: '+30'
 resistance:
 - '[[DATABASE/trait/Positive|positive]] 18'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
@@ -60,12 +51,10 @@ source: '[[DATABASE/source/Pathfinder 185. A Taste of Ashes|Pathfinder #185: A T
   of Ashes]]'
 speed:
 - 25 feet
-spell: null
 strength: '+9'
 strength_req: '9'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Undead|Undead]]'
 - '[[DATABASE/trait/Unique|Unique]]'
@@ -73,7 +62,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+29'
 wisdom: '+5'
 

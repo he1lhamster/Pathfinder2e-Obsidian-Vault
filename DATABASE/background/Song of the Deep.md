@@ -1,12 +1,7 @@
 ﻿---
-ability: null
-ability_boost: null
-feat: null
 id: '244'
 name: Song of the Deep
-prerequisite: null
 rarity: Rare
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]]'
 - Ocean [[DATABASE/skill/Lore|Lore]]

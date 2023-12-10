@@ -1,28 +1,30 @@
 ﻿---
-ability: null
-ability_boost: null
+ability:
+- Dexterity
+- Intelligence
+ability_boost:
+- Dexterity
+- Intelligence
 alignment: CE
 deity:
-- '[[DATABASE/deity/Nyarlathotep|Nyarlathotep (Haunter in the Dark)]]'
+- '[[DATABASE/deity/Nyarlathotep|Nyarlathotep (The Crawling Chaos)]]'
 deity_category: Outer Gods and Great Old Ones
 divine_font: Harm
 domain:
-- '[[DATABASE/domain/Darkness Domain|Darkness]]'
 - '[[DATABASE/domain/Knowledge Domain|Knowledge]]'
+- '[[DATABASE/domain/Magic Domain|Magic]]'
 - '[[DATABASE/domain/Nightmares Domain|Nightmares]]'
 - '[[DATABASE/domain/Trickery Domain|Trickery]]'
-favored_weapon: '[[DATABASE/weapon/Kukri|Kukri]]'
+favored_weapon: '[[DATABASE/weapon/Staff|Staff]]'
 follower_alignment:
 - NE
 - CE
-id: '222'
+id: '164'
 name: Nyarlathotep
 rarity: Common
-rus_type_level: null
 skill:
-- '[[DATABASE/skill/Occultism|Occultism]]'
-source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
-trait: null
+- '[[DATABASE/skill/Arcana|Arcana]]'
+source: '[[DATABASE/source/Gods & Magic|Gods & Magic]]'
 type: Deity
 
 ---

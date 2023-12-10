@@ -1,8 +1,6 @@
 ﻿---
 ac: '21'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+10'
 hardness: 12 Pillar Hardness
 hazard_type: Trap
@@ -16,17 +14,12 @@ level: '4'
 name: Spinning Blade Pillar
 rarity: Common
 reflex: '+12'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Complex|Complex]]'
 - '[[DATABASE/trait/Mechanical|Mechanical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Spinning Blade Pillar<span class="item-type">Hazard 4</span>

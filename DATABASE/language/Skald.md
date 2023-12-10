@@ -2,7 +2,6 @@
 id: '42'
 name: Skald
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

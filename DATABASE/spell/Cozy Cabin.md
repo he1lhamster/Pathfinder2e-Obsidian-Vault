@@ -1,41 +1,26 @@
 ﻿---
-actions: null
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Immonhiel|Immonhiel]]'
 - '[[DATABASE/deity/The Offering Plate|TheOffering Plate]]'
 - '[[DATABASE/deity/Yelayne|Yelayne]]'
-domain: null
 duration: 12 hours
-element: null
-heighten: null
 heighten_level: '3'
 id: '681'
-lesson: null
 level: '3'
-mystery: null
 name: Cozy Cabin
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Conjuration
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-target: null
 tradition:
 - Arcane
 - Occult
 trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
-trigger: null
 type: Spell
 
 ---

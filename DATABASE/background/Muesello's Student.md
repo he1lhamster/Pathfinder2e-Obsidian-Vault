@@ -1,18 +1,8 @@
 ﻿---
-ability: null
-ability_boost: null
-feat: null
 id: '350'
 name: Muesello's Student
-prerequisite: null
-rarity: null
-rus_type_level: null
-skill: null
 source: '[[DATABASE/source/Pathfinder Society Year 4 Rule Updates|Pathfinder Society
   Year 4 Rule Updates]]'
-subcategory: null
-trait: null
-type: null
 
 ---
 # Muesello's Student<span class="item-type">Background</span>

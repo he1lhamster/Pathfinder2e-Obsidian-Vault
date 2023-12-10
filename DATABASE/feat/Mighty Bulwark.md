@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Mighty Bulwark
-frequency: null
-heighten_level: null
 id: '2066'
 level: '10'
 name: Mighty Bulwark
 prerequisite: '[[DATABASE/feat/Sentinel Dedication|Sentinel Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

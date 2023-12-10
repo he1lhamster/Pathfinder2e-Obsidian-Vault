@@ -1,10 +1,7 @@
 ﻿---
 ac: '21'
 alignment: CG
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Change Shape
@@ -12,13 +9,9 @@ creature_ability:
 - Vulnerable to Smoke
 creature_family: '[[DATABASE/monsterfamily/Azata|Azata]]'
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+9'
-hardness: null
 hp: '75'
 id: '35'
-immunity: null
 intelligence: '+2'
 land_speed: '30'
 language:
@@ -31,9 +24,6 @@ name: Gancanagh
 perception: '+11'
 rarity: Common
 reflex: '+13'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Medium
@@ -58,7 +48,6 @@ strength: '+1'
 strength_req: '1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Azata|Azata]]'
 - '[[DATABASE/trait/Celestial|Celestial]]'

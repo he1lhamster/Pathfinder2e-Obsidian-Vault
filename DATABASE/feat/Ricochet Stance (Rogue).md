@@ -1,24 +1,15 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Ricochet Stance (Rogue)
-frequency: null
-heighten_level: null
 id: '1799'
+leads_to: '[[DATABASE/feat/Ricochet Feint|Ricochet Feint]]'
 level: '8'
 name: Ricochet Stance (Rogue)
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Rogue|Rogue]]'
 - '[[DATABASE/trait/Stance|Stance]]'
-trigger: null
 type: Feat
 
 ---

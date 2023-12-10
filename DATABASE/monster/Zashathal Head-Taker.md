@@ -1,10 +1,7 @@
 ﻿---
 ac: '36'
 alignment: NE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Attack of Opportunity
@@ -17,15 +14,10 @@ creature_ability:
 - Renewed Vigor
 - Sudden Charge
 - Whirlwind Strike
-creature_family: null
 dexterity: '+1'
-element: null
-fly_speed: null
 fortitude: '+29'
-hardness: null
 hp: '250'
 id: '2127'
-immunity: null
 intelligence: '+0'
 land_speed: '35'
 language:
@@ -40,8 +32,6 @@ rarity: Unique
 reflex: '+23'
 resistance:
 - physical 14 (from weapons only)
-rus_type_level: null
-school: null
 sense:
 - coward sense (imprecise) 60 feet
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
@@ -57,12 +47,10 @@ source: '[[DATABASE/source/Pathfinder 154. Siege of the Dinosaurs|Pathfinder #15
   Siege of the Dinosaurs]]'
 speed:
 - 35 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
@@ -71,7 +59,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+26'
 wisdom: '+4'
 

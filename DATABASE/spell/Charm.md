@@ -1,12 +1,10 @@
 ﻿---
 actions: '[two-actions]'
-area: null
 bloodline: '[[DATABASE/sorcererbloodline/Diabolic|Diabolic]] , [[DATABASE/sorcererbloodline/Fey|Fey]]
   , [[DATABASE/sorcererbloodline/Nymph|Nymph]]'
 component:
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Ardad Lili|Ardad Lili]]'
 - '[[DATABASE/deity/Asmodeus|Asmodeus]]'
@@ -20,21 +18,14 @@ deity:
 - '[[DATABASE/deity/Sturovenen|Sturovenen]]'
 - '[[DATABASE/deity/The Green Mother|TheGreen Mother]]'
 - '[[DATABASE/deity/Zura|Zura]]'
-domain: null
 duration: 1 hour
-element: null
 heighten: 4th, 8th
 heighten_level: 1, 4, 8
 id: '34'
-lesson: null
 level: '1'
-mystery: null
 name: Charm
-patron_theme: null
 range: 30 feet
 rarity: Common
-requirement: null
-rus_type_level: null
 saving_throw: Will
 school: Enchantment
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
@@ -48,7 +39,6 @@ trait:
 - '[[DATABASE/trait/Enchantment|Enchantment]]'
 - '[[DATABASE/trait/Incapacitation|Incapacitation]]'
 - '[[DATABASE/trait/Mental|Mental]]'
-trigger: null
 type: Spell
 
 ---

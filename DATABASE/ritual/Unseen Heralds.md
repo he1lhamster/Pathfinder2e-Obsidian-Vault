@@ -2,7 +2,6 @@
 area: 100 feet x 100 feet, up to 20 feet high
 cost: rare oils, salts, and herbs worht a total value of 15gp
 duration: 1 year
-element: null
 heighten: 6th, 9th
 heighten_level: 3, 6, 9
 id: '106'
@@ -10,16 +9,12 @@ level: '3'
 name: Unseen Heralds
 primary_check: '[[DATABASE/skill/Arcana|Arcana]] or [[DATABASE/skill/Occultism|Occultism]]
   (expert)'
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Illusion
 secondary_casters: '2'
 secondary_check: '[[DATABASE/skill/Arcana|Arcana]] or [[DATABASE/skill/Occultism|Occultism]]
   (whichever isn''t used for the primary check), [[DATABASE/skill/Diplomacy|Diplomacy]]'
 source: '[[DATABASE/source/Wake the Dead 2|Wake the Dead #2]]'
-target: null
 trait:
 - '[[DATABASE/trait/Auditory|Auditory]]'
 - '[[DATABASE/trait/Illusion|Illusion]]'

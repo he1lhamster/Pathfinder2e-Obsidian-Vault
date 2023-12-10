@@ -8,15 +8,12 @@ ability_boost:
 feat: '[[DATABASE/feat/Courtly Graces|Courtly Graces]]'
 id: '373'
 name: Highborn Snoop
-prerequisite: null
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Society|Society]]'
 - Guild [[DATABASE/skill/Lore|Lore]]
 source: '[[DATABASE/source/Highhelm|Highhelm]]'
 subcategory: general
-trait: null
 type: Background
 
 ---

@@ -1,8 +1,6 @@
 ﻿---
 ac: '26'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
 climb_speed: '25'
 constitution: '+5'
@@ -12,15 +10,10 @@ creature_ability:
 - Focused Slam
 - Pummeling Charge
 - Rend
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+19'
-hardness: null
 hp: '180'
 id: '1062'
-immunity: null
 intelligence: '-1'
 land_speed: '25'
 language:
@@ -33,9 +26,6 @@ name: Angazhani
 perception: '+18'
 rarity: Common
 reflex: '+16'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -55,14 +45,12 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+14'
 wisdom: '+4'
 

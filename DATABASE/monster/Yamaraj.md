@@ -1,10 +1,7 @@
 ﻿---
 ac: '45'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Breath Weapon
@@ -16,10 +13,8 @@ creature_ability:
 - Venom
 creature_family: '[[DATABASE/monsterfamily/Psychopomp|Psychopomp]]'
 dexterity: '+7'
-element: null
 fly_speed: '50'
 fortitude: '+33'
-hardness: null
 hp: 375 ( fast healing 20 , lightning drinker)
 id: '770'
 immunity:
@@ -44,8 +39,6 @@ reflex: '+31'
 resistance:
 - negative 20
 - poison 20
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Lifesense|lifesense 240 feet]]'
@@ -94,7 +87,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
 will: '+35'
 wisdom: '+7'
 

@@ -1,9 +1,5 @@
 ﻿---
-area: null
 cost: tattoo inks and silver tattooing needles worth 20 gp for each secondary caster
-duration: null
-element: null
-heighten: null
 heighten_level: '3'
 id: '51'
 level: '3'
@@ -11,8 +7,6 @@ name: Tattoo Whispers
 primary_check: '[[DATABASE/skill/Crafting|Crafting]] (expert)'
 range: touch
 rarity: Rare
-requirement: null
-rus_type_level: null
 school: Divination
 secondary_casters: 2, up to a maximum of 6
 secondary_check: '[[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Occultism|Occultism]]'

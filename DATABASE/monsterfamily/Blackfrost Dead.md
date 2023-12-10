@@ -3,10 +3,8 @@ creature_family: Blackfrost Dead
 id: '333'
 name: Blackfrost Dead
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 189. Dreamers of the Nameless Spires|Pathfinder
   #189: Dreamers of the Nameless Spires]]'
-trait: null
 type: Creature Family
 
 ---

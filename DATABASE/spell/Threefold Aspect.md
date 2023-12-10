@@ -1,43 +1,27 @@
 ﻿---
-actions: null
-area: null
-bloodline: null
 component:
 - Material
 - Somatic
 - Verbal
-cost: null
 deity:
 - '[[DATABASE/deity/Followers of Fate|Followers of Fate]]'
 - '[[DATABASE/deity/Lymnieris|Lymnieris]]'
 - '[[DATABASE/deity/Magdh|Magdh]]'
 - '[[DATABASE/deity/Ra|Ra]]'
-domain: null
 duration: until the next time you make your daily preparations
-element: null
-heighten: null
 heighten_level: '3'
 id: '723'
-lesson: null
 level: '3'
-mystery: null
 name: Threefold Aspect
-patron_theme: null
-range: null
 rarity: Common
-requirement: null
-rus_type_level: null
-saving_throw: null
 school: Transmutation
 source: '[[DATABASE/source/Advanced Player''s Guide|Advanced Player''s Guide]]'
-target: null
 tradition:
 - Occult
 - Primal
 trait:
 - '[[DATABASE/trait/Polymorph|Polymorph]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
-trigger: null
 type: Spell
 
 ---

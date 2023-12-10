@@ -1,26 +1,18 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Infiltrate Dream
-frequency: null
-heighten_level: null
 id: '3874'
+leads_to: '[[DATABASE/feat/Oneiric Influence|Oneiric Influence]]'
 level: '6'
 name: Infiltrate Dream
 prerequisite: '[[DATABASE/feat/Sleepwalker Dedication|Sleepwalker Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Enchantment
 source: '[[DATABASE/source/Dark Archive|Dark Archive]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Enchantment|Enchantment]]'
 - '[[DATABASE/trait/Mental|Mental]]'
 - '[[DATABASE/trait/Occult|Occult]]'
-trigger: null
 type: Feat
 
 ---

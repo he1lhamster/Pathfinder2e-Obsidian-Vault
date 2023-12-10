@@ -1,24 +1,17 @@
 ﻿---
 ac: '31'
 alignment: LE
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Arcane Cascade
 - Attack of Opportunity
 - Capture Magic
 - Spellstrike
-creature_family: null
 dexterity: '+2'
-element: null
-fly_speed: null
 fortitude: '+17'
 hp: '195'
 id: '2554'
-immunity: null
 intelligence: '+4'
 land_speed: '25'
 language:
@@ -31,9 +24,6 @@ name: Blade Magus
 perception: '+18'
 rarity: Uncommon
 reflex: '+17'
-resistance: null
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Arcana|Arcana]] +23'
@@ -60,17 +50,14 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
 - Reflex
-weakness: null
 will: '+20'
 wisdom: '+3'
 

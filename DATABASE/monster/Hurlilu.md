@@ -1,10 +1,7 @@
 ﻿---
 ac: '32'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Dive Bomb
@@ -13,10 +10,8 @@ creature_ability:
 - Lifesense
 creature_family: '[[DATABASE/monsterfamily/Lilu|Lilu]]'
 dexterity: '+7'
-element: null
 fly_speed: '60'
 fortitude: '+19'
-hardness: null
 hp: '170'
 id: '2521'
 immunity:
@@ -37,8 +32,6 @@ reflex: '+24'
 resistance:
 - physical 10 (except [[DATABASE/equipment/Cold Iron Weapon|cold iron]] )
 - '[[DATABASE/trait/Poison|poison]] 10'
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Lifesense|lifesense]] (imprecise) 120 feet'
@@ -67,7 +60,6 @@ strength: '+5'
 strength_req: '5'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fiend|Fiend]]'
 - '[[DATABASE/trait/Lilu|Lilu]]'

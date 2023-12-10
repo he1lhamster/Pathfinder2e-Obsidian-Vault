@@ -1,8 +1,6 @@
 ﻿---
 ac: '20'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-1'
 climb_speed: '20'
 constitution: '+2'
@@ -11,13 +9,9 @@ creature_ability:
 - Jungle Stride
 creature_family: '[[DATABASE/monsterfamily/Grippli|Grippli]]'
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+9'
-hardness: null
 hp: '44'
 id: '448'
-immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
@@ -29,9 +23,6 @@ name: Grippli Archer
 perception: '+10'
 rarity: Common
 reflex: '+11'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Small
@@ -46,12 +37,10 @@ source: '[[DATABASE/source/Pathfinder 146. Cult of Cinders|Pathfinder #146: Cult
 speed:
 - 25 feet
 - climb 20 feet
-spell: null
 strength: '+1'
 strength_req: '1'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Grippli|Grippli]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
@@ -59,7 +48,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+10'
 wisdom: '+3'
 

@@ -3,7 +3,6 @@ id: '43'
 level: '0'
 name: The Local Paper
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Industry|Industry]]'
 source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'

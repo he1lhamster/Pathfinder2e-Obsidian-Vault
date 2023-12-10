@@ -1,10 +1,6 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
-element: null
 feat: Drifter's Juke
-frequency: null
-heighten_level: null
 id: '3171'
 level: '6'
 name: Drifter's Juke
@@ -12,14 +8,10 @@ prerequisite: '[[DATABASE/gunslingerway/Way of the Drifter|way of the drifter]]'
 rarity: Common
 requirement: You're wielding a firearm or crossbow in one hand, and your other hand
   is either wielding a meleeweapon or is empty.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Flourish|Flourish]]'
 - '[[DATABASE/trait/Gunslinger|Gunslinger]]'
-trigger: null
 type: Feat
 
 ---

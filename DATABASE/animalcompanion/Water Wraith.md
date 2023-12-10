@@ -1,11 +1,7 @@
 ﻿---
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+2'
 dexterity: '+2'
-element: null
-fly_speed: null
 hp: '6'
 id: '54'
 intelligence: '-4'
@@ -13,7 +9,6 @@ land_speed: '20'
 max_speed: '25'
 name: Water Wraith
 rarity: Uncommon
-rus_type_level: null
 sense:
 - Normal
 size: Small

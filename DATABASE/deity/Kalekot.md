@@ -26,11 +26,9 @@ follower_alignment:
 id: '225'
 name: Kalekot
 rarity: Common
-rus_type_level: null
 skill:
 - '[[DATABASE/skill/Intimidation|Intimidation]]'
 source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
-trait: null
 type: Deity
 
 ---

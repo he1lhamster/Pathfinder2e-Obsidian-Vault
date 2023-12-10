@@ -1,24 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Perfect Ki Grandmaster
-frequency: null
-heighten_level: null
 id: '4063'
 level: '18'
 name: Perfect Ki Grandmaster
 prerequisite: '[[DATABASE/feat/Perfect Ki Expert|Perfect Ki Expert]] or [[DATABASE/feat/Perfect
   Ki Exemplar|Perfect Ki Exemplar]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

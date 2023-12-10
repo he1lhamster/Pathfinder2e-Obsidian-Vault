@@ -1,11 +1,9 @@
 ﻿---
-element: null
 id: '12'
 item_category: Relics
 name: Form of Vengeance
 prerequisite: form of fury gift
 rarity: Common
-rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 trait:

@@ -1,10 +1,8 @@
 ﻿---
 ac: '32'
 alignment: LG
-all_resistance: null
 burrow_speed: '30'
 charisma: '+5'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Bolster Torag's Chosen
@@ -15,12 +13,9 @@ creature_ability:
 - Rock
 - Tunneler
 - Swallow Whole
-creature_family: null
 dexterity: '+4'
 element: Fire
-fly_speed: null
 fortitude: '+25'
-hardness: null
 hp: '220'
 id: '2709'
 immunity:
@@ -37,9 +32,6 @@ name: Stoneriver
 perception: '+23'
 rarity: Unique
 reflex: '+20'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - (33 to detect lies and illusions) [[DATABASE/monsterability/Darkvision|darkvision]]
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 60 feet'

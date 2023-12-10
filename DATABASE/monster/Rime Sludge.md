@@ -1,21 +1,14 @@
 ﻿---
 ac: '8'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Motion Sense
 - Noxious Sublimation
 - Slushy Undulation
-creature_family: null
 dexterity: '-5'
-element: null
-fly_speed: null
 fortitude: '+7'
-hardness: null
 hp: '38'
 id: '1759'
 immunity:
@@ -28,16 +21,12 @@ immunity:
 - '[[DATABASE/trait/Visual|visual]]'
 intelligence: '-5'
 land_speed: '10'
-language: null
 level: '1'
 max_speed: '10'
 name: Rime Sludge
 perception: '+4'
 rarity: Rare
 reflex: '+2'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - motion sense 60 feet
 - no vision
@@ -49,7 +38,6 @@ source: '[[DATABASE/source/Pathfinder 175. Broken Tusk Moon|Pathfinder #175: Bro
 speed:
 - 10 feet
 - swim 10 feet; slushy undulation
-spell: null
 strength: '+2'
 strength_req: '2'
 strongest_save:
@@ -60,7 +48,6 @@ trait:
 - '[[DATABASE/trait/Ooze|Ooze]]'
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
 weakness:

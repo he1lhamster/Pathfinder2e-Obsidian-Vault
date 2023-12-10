@@ -2,9 +2,7 @@
 id: '37'
 name: Tailed Goblin
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-trait: null
 type: Heritage
 
 ---

@@ -1,10 +1,6 @@
 ﻿---
 ac: '14'
-alignment: null
-all_resistance: null
-burrow_speed: null
 charisma: '+3'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Cottonseed Burst
@@ -12,9 +8,7 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Elemental, Wood|Elemental, Wood]]'
 dexterity: '+1'
 element: Wood
-fly_speed: null
 fortitude: '+6'
-hardness: null
 hp: '28'
 id: '2669'
 immunity:
@@ -24,17 +18,12 @@ immunity:
 - '[[DATABASE/trait/Sleep|sleep]]'
 intelligence: '-4'
 land_speed: '20'
-language: null
 level: '1'
 max_speed: '20'
 name: Vegetable Lamb
 perception: '+4'
 rarity: Common
 reflex: '+3'
-resistance: null
-rus_type_level: null
-school: null
-sense: null
 size: Small
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +5'
@@ -42,18 +31,15 @@ skill:
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 speed:
 - 20 feet
-spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Elemental|Elemental]]'
 - '[[DATABASE/trait/Plant|Plant]]'
 - '[[DATABASE/trait/Wood|Wood]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
 weakness:

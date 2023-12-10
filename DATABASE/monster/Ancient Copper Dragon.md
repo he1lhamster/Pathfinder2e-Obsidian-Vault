@@ -1,10 +1,7 @@
 ﻿---
 ac: '41'
 alignment: CG
-all_resistance: null
-burrow_speed: null
 charisma: '+6'
-climb_speed: null
 constitution: '+5'
 creature_ability:
 - Breath Weapon
@@ -21,7 +18,6 @@ dexterity: '+5'
 element: Earth
 fly_speed: '200'
 fortitude: '+30'
-hardness: null
 hp: '345'
 id: '150'
 immunity:
@@ -42,9 +38,6 @@ name: Ancient Copper Dragon
 perception: '+30'
 rarity: Uncommon
 reflex: '+32'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 - scent (imprecise) 60 feet
@@ -71,7 +64,6 @@ strength_req: '8'
 strongest_save:
 - Reflex
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Dragon|Dragon]]'
 - '[[DATABASE/trait/Earth|Earth]]'
@@ -80,7 +72,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+32'
 wisdom: '+5'
 

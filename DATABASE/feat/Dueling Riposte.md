@@ -1,20 +1,16 @@
 ﻿---
 actions: '[reaction]'
-cost: null
-element: null
 feat: Dueling Riposte
-frequency: null
-heighten_level: null
 id: '389'
+leads_to: '[[DATABASE/feat/Guiding Riposte|Guiding Riposte]] , [[DATABASE/feat/Improved
+  Dueling Riposte|Improved Dueling Riposte]] , [[DATABASE/feat/Reflecting Riposte|Reflecting
+  Riposte]]'
 level: '8'
 name: Dueling Riposte
 prerequisite: '[[DATABASE/feat/Dueling Parry (Fighter)|Dueling Parry (Fighter)]]'
 rarity: Common
 requirement: You are benefiting from Dueling Parry.
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Fighter|Fighter]]'
 trigger: A creature within your reach critically fails a Strike against you.

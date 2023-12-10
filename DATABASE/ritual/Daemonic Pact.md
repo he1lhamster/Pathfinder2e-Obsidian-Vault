@@ -1,24 +1,13 @@
 ﻿---
-area: null
-cost: null
-duration: null
-element: null
-heighten: null
 heighten_level: '1'
 id: '25'
 level: '1'
 name: Daemonic Pact
 primary_check: '[[DATABASE/skill/Religion|Religion]] (expert; you must be a [[DATABASE/monsterfamily/Daemon|daemon]]
   or an [[DATABASE/monsterfamily/Urdefhan|urdefhan]] )'
-range: null
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Conjuration
-secondary_casters: null
-secondary_check: null
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
-target: null
 trait:
 - '[[DATABASE/trait/Conjuration|Conjuration]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

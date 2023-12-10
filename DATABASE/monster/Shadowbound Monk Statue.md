@@ -1,10 +1,7 @@
 ﻿---
 ac: '28'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '-5'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Clinging Gloom The statue pulls a creature it has grabbed into its grasping shadows.
@@ -12,10 +9,8 @@ creature_ability:
 - takes 3d8 negative damage and 1d8 persistent negative damage .
 - Construct Armor
 - Cowl of Shadow
-creature_family: null
 dexterity: '-1'
 element: Earth
-fly_speed: null
 fortitude: '+19'
 hardness: '10'
 hp: '120'
@@ -37,16 +32,12 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-5'
 land_speed: '30'
-language: null
 level: '8'
 max_speed: '30'
 name: Shadowbound Monk Statue
 perception: '+15'
 rarity: Rare
 reflex: '+12'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
@@ -56,12 +47,10 @@ source: '[[DATABASE/source/Pathfinder 183. Field of Maidens|Pathfinder #183: Fie
   of Maidens]]'
 speed:
 - 30 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Construct|Construct]]'
 - '[[DATABASE/trait/Earth|Earth]]'
@@ -72,7 +61,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
 will: '+11'
 wisdom: '+0'
 

@@ -1,25 +1,16 @@
 ﻿---
 actions: '[free-action]'
-cost: null
-element: null
 feat: Terrifying Countenance
-frequency: null
-heighten_level: null
 id: '3339'
 level: '18'
 name: Terrifying Countenance
 prerequisite: '[[DATABASE/feat/Vigilante Dedication|Vigilante Dedication]] ; member
   of the Gray Gardeners'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Night of the Gray Death|Night of the Gray Death]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
 - '[[DATABASE/trait/Vigilante|Vigilante]]'
-trigger: null
 type: Feat
 
 ---

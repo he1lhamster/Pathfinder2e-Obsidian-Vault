@@ -1,7 +1,6 @@
 ﻿---
 id: '12'
 name: Encumbered
-source: null
 
 ---
 # Encumbered

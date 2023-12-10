@@ -1,19 +1,16 @@
 ﻿---
 actions: '[one-action]'
-cost: null
-element: null
 feat: Battle Medicine
-frequency: null
-heighten_level: null
 id: '760'
+leads_to: '[[DATABASE/feat/Godless Healing|Godless Healing]] , [[DATABASE/feat/Medic
+  Dedication|Medic Dedication]] , [[DATABASE/feat/Paragon Battle Medicine|Paragon
+  Battle Medicine]]'
 level: '1'
 name: Battle Medicine
 prerequisite: Trained in [[DATABASE/skill/Medicine|Medicine]]
 rarity: Common
 requirement: You are holding [[DATABASE/equipment/Healer's Tools|healer's tools]]
   , or you are wearing themand have a hand free
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 subcategory: medicine
 trait:
@@ -21,7 +18,6 @@ trait:
 - '[[DATABASE/trait/Healing|Healing]]'
 - '[[DATABASE/trait/Manipulate|Manipulate]]'
 - '[[DATABASE/trait/Skill|Skill]]'
-trigger: null
 type: Feat
 
 ---

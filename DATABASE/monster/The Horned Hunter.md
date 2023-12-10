@@ -1,10 +1,7 @@
 ﻿---
 ac: '42'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+8'
-climb_speed: null
 constitution: '+6'
 creature_ability:
 - Bloom Step
@@ -17,15 +14,10 @@ creature_ability:
 - Hunter
 - Play the Pipes
 - Sylvan Wine
-creature_family: null
 dexterity: '+6'
-element: null
-fly_speed: null
 fortitude: '+32'
-hardness: null
 hp: '350'
 id: '2346'
-immunity: null
 intelligence: '+4'
 land_speed: '35'
 language:
@@ -38,9 +30,6 @@ name: The Horned Hunter
 perception: '+35'
 rarity: Unique
 reflex: '+30'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
@@ -69,7 +58,6 @@ strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Unique|Unique]]'

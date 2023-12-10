@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Speak with Bats
-frequency: null
-heighten_level: null
 id: '2634'
 level: '1'
 name: Speak with Bats
 prerequisite: '[[DATABASE/heritage/Nyktera|Nyktera]] heritage'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Sprite|Sprite]]'
-trigger: null
 type: Feat
 
 ---

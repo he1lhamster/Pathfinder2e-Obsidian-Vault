@@ -1,21 +1,16 @@
 ﻿---
 ac: '38'
 alignment: LN
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Blurred Countenance
 - Limited Immortality
 - Terrifying Beauty
-creature_family: null
 dexterity: '+9'
 element: Air
 fly_speed: '100'
 fortitude: '+25'
-hardness: null
 hp: '300'
 id: '1414'
 immunity:
@@ -32,9 +27,6 @@ name: Inmyeonjo
 perception: '+30'
 rarity: Rare
 reflex: '+28'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Huge
@@ -70,7 +62,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Beast|Beast]]'
@@ -79,7 +70,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+30'
 wisdom: '+9'
 

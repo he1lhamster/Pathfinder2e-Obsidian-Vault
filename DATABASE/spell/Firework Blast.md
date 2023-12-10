@@ -1,37 +1,24 @@
 ﻿---
 actions: '[two-actions]'
 area: 20-foot burst
-bloodline: null
 component:
 - Somatic
 - Verbal
-cost: null
-deity: null
-domain: null
-duration: null
-element: null
 heighten: '+1'
 heighten_level: 3, 4, 5, 6, 7, 8, 9, 10
 id: '1284'
-lesson: null
 level: '3'
-mystery: null
 name: Firework Blast
-patron_theme: null
 range: 500 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 saving_throw: basic Reflex
 school: Evocation
 source: '[[DATABASE/source/Firebrands|Firebrands]]'
-target: null
 tradition:
 - Arcane
 trait:
 - '[[DATABASE/trait/Evocation|Evocation]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
 type: Spell
 
 ---

@@ -3,10 +3,8 @@ creature_family: Aukashungi
 id: '122'
 name: Aukashungi
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Pathfinder 154. Siege of the Dinosaurs|Pathfinder #154:
   Siege of the Dinosaurs]]'
-trait: null
 type: Creature Family
 
 ---

@@ -2,9 +2,6 @@
 id: '45'
 name: Pathfinder 157. Devil at the Dreaming Palace
 rarity: Common
-rus_type_level: null
-source: null
-trait: null
 type: Source
 
 ---

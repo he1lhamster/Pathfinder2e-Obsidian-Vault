@@ -1,23 +1,16 @@
 ﻿---
 ac: '40'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+4'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Rupture Shadow
 - Shadow's Displeasure
 - Vesicated Shadow
-creature_family: null
 dexterity: '+3'
-element: null
-fly_speed: null
 fortitude: '+32'
 hp: '290'
 id: '1835'
-immunity: null
 intelligence: '+6'
 land_speed: '25'
 language:
@@ -35,8 +28,6 @@ rarity: Unique
 reflex: '+29'
 resistance:
 - '[[DATABASE/trait/Acid|acid]] 20'
-rus_type_level: null
-sense: null
 size: Medium
 skill:
 - '[[DATABASE/skill/Lore|Academia Lore]] +37'
@@ -89,16 +80,13 @@ strength: '+1'
 strength_req: '1'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
-weakness: null
 will: '+35'
 wisdom: '+3'
 

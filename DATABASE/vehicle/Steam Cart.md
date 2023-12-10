@@ -1,8 +1,5 @@
 ﻿---
 ac: '12'
-burrow_speed: null
-climb_speed: null
-fly_speed: null
 fortitude: '+8'
 hardness: '5'
 hp: '30'
@@ -14,13 +11,8 @@ max_speed: '25'
 name: Steam Cart
 price: 120 gp
 rarity: Rare
-reflex: null
-resistance: null
-rus_type_level: null
-school: null
 size: Large
 source: '[[DATABASE/source/Guns & Gears|Guns & Gears]]'
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Rare|Rare]]'
 type: Vehicle

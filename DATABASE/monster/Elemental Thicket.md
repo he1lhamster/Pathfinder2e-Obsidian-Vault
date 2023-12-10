@@ -1,7 +1,5 @@
 ﻿---
 ac: '28'
-alignment: null
-all_resistance: null
 burrow_speed: '25'
 charisma: '+1'
 climb_speed: '25'
@@ -13,9 +11,7 @@ creature_ability:
 creature_family: '[[DATABASE/monsterfamily/Elemental, Wood|Elemental, Wood]]'
 dexterity: '+4'
 element: Wood
-fly_speed: null
 fortitude: '+20'
-hardness: null
 hp: '240'
 id: '2679'
 immunity:
@@ -25,17 +21,12 @@ immunity:
 - '[[DATABASE/trait/Sleep|sleep]]'
 intelligence: '+1'
 land_speed: '25'
-language: null
 level: '11'
 max_speed: '25'
 name: Elemental Thicket
 perception: '+24'
 rarity: Common
 reflex: '+13'
-resistance: null
-rus_type_level: null
-school: null
-sense: null
 size: Huge
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +23'
@@ -44,18 +35,15 @@ speed:
 - 25 feet
 - burrow 25 feet
 - climb 25 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Elemental|Elemental]]'
 - '[[DATABASE/trait/Plant|Plant]]'
 - '[[DATABASE/trait/Wood|Wood]]'
 type: Creature
-vision: null
 weakest_save:
 - Reflex
 weakness:

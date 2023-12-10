@@ -14,13 +14,10 @@ id: '23'
 name: Kineticist
 perception_proficiency: Trained
 rarity: Common
-rus_type_level: null
 skill_proficiency:
 - Trained in Nature
 - Trained in a number of additional skills equal to 3 plus your Intelligence modifier
 source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
-tradition: null
-trait: null
 type: Class
 
 ---

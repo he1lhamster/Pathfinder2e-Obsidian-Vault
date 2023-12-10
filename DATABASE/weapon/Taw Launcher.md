@@ -1,30 +1,7 @@
 ﻿---
-bulk: '1'
-damage: 1d10 modular
-deity: null
-favored_weapon: null
-hands: '2'
-id: '342'
-item_category: Weapons
-item_subcategory: Base Weapons
-level: '0'
+id: '146'
 name: Taw Launcher
-price: 10 gp
-range: 100 ft.
-rarity: Uncommon
-rus_type_level: null
-source: '[[DATABASE/source/Treasure Vault|Treasure Vault]]'
-trait:
-- '[[DATABASE/trait/Conrasu|Conrasu]]'
-- '[[DATABASE/trait/Deadly|Deadlyd10]]'
-- '[[DATABASE/trait/Modular|Modular (B'
-- P
-- or S)]]
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
-type: Weapon
-weapon_category: Advanced
-weapon_group: '[[DATABASE/weapongroup/Bow|Bow]]'
-weapon_type: Ranged
+source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
 
 ---
 # Taw Launcher

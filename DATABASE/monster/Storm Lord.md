@@ -1,10 +1,7 @@
 ﻿---
 ac: '30'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+0'
-climb_speed: null
 constitution: '+4'
 creature_ability:
 - Disperse
@@ -15,7 +12,6 @@ dexterity: '+7'
 element: Air
 fly_speed: '75'
 fortitude: '+15'
-hardness: null
 hp: '120'
 id: '180'
 immunity:
@@ -24,7 +20,6 @@ immunity:
 - poison
 - sleep
 intelligence: '-1'
-land_speed: null
 language:
 - '[[DATABASE/language/Auran|Auran]]'
 level: '9'
@@ -33,9 +28,6 @@ name: Storm Lord
 perception: '+18'
 rarity: Common
 reflex: '+20'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - darkvision
 size: Large
@@ -45,12 +37,10 @@ skill:
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - fly 75 feet; swiftness
-spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Air|Air]]'
 - '[[DATABASE/trait/Elemental|Elemental]]'
@@ -58,7 +48,6 @@ type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+16'
 wisdom: '+3'
 

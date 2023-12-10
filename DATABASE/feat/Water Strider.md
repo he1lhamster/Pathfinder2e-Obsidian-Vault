@@ -1,26 +1,19 @@
 ﻿---
 actions: '[two-actions]'
-cost: null
 element: Water
 feat: Water Strider
-frequency: null
-heighten_level: null
 id: '2307'
+leads_to: '[[DATABASE/feat/Mist Strider|Mist Strider]]'
 level: '9'
 name: Water Strider
-prerequisite: null
 rarity: Common
-requirement: null
-rus_type_level: null
 school: Transmutation
 source: '[[DATABASE/source/Ancestry Guide|Ancestry Guide]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Azarketi|Azarketi]]'
 - '[[DATABASE/trait/Primal|Primal]]'
 - '[[DATABASE/trait/Transmutation|Transmutation]]'
 - '[[DATABASE/trait/Water|Water]]'
-trigger: null
 type: Feat
 
 ---

@@ -5,7 +5,6 @@ name: Magaambyan Attendant
 prerequisite: Trained in [[DATABASE/skill/Arcana|Arcana]] or Trained in [[DATABASE/skill/Nature|Nature]]
   ; member of the Magaambya of attendant rank
 rarity: Uncommon
-rus_type_level: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'

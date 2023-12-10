@@ -3,9 +3,7 @@ creature_family: Risen Pet
 id: '309'
 name: Risen Pet
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-trait: null
 type: Creature Family
 
 ---

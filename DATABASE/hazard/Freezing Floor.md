@@ -1,8 +1,6 @@
 ﻿---
 ac: '27'
-all_resistance: null
 complexity: Complex
-element: null
 fortitude: '+13'
 hardness: '14'
 hazard_type: Trap
@@ -16,9 +14,6 @@ level: '8'
 name: Freezing Floor
 rarity: Common
 reflex: '+17'
-resistance: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Pathfinder 188. They Watched the Stars|Pathfinder #188:
   They Watched the Stars]]'
 trait:
@@ -26,8 +21,6 @@ trait:
 - '[[DATABASE/trait/Magical|Magical]]'
 - '[[DATABASE/trait/Trap|Trap]]'
 type: Hazard
-weakness: null
-will: null
 
 ---
 # Freezing Floor<span class="item-type">Hazard 8</span>

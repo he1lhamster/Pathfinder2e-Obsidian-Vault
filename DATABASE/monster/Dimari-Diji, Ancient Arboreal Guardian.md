@@ -1,10 +1,7 @@
 ﻿---
 ac: '52'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+10'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Aura of Growth
@@ -17,12 +14,8 @@ creature_ability:
 - Memory Maelstrom
 - Nature's Concentration
 - fire 20
-creature_family: null
 dexterity: '-1'
-element: null
-fly_speed: null
 fortitude: '+42'
-hardness: null
 hp: '550'
 id: '1708'
 immunity:
@@ -49,9 +42,6 @@ name: Dimari-Diji
 perception: '+43'
 rarity: Unique
 reflex: '+36'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) 120 feet'
@@ -89,7 +79,6 @@ strength: '+12'
 strength_req: '12'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Plant|Plant]]'
 - '[[DATABASE/trait/Unique|Unique]]'

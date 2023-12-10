@@ -1,22 +1,16 @@
 ﻿---
 ac: '22'
 alignment: CE
-all_resistance: null
-burrow_speed: null
 charisma: '+2'
-climb_speed: null
 constitution: '+2'
 creature_ability:
 - Bone-Chilling Screech
 - Echolocation
 - Ghoul Fever
 - Paralysis
-creature_family: null
 dexterity: '+4'
-element: null
 fly_speed: '30'
 fortitude: '+11'
-hardness: null
 hp: '80'
 id: '803'
 immunity:
@@ -27,16 +21,12 @@ immunity:
 - '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '+1'
 land_speed: '15'
-language: null
 level: '5'
 max_speed: '30'
 name: Skaveling
 perception: '+15'
 rarity: Common
 reflex: '+13'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - echolocation 40 feet
@@ -49,19 +39,16 @@ source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 15 feet
 - fly 30 feet
-spell: null
 strength: '+6'
 strength_req: '6'
 strongest_save:
 - Will
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Undead|Undead]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
 will: '+15'
 wisdom: '+6'
 

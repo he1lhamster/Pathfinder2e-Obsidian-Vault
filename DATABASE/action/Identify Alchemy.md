@@ -1,21 +1,14 @@
 ﻿---
-actions: null
-cost: null
-element: null
-frequency: null
 id: '44'
 name: Identify Alchemy
 rarity: Common
 requirement: "You have [[DATABASE/equipment/Alchemist's Tools|alchemist\u2019s tools]]\
   \ ."
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - '[[DATABASE/trait/Concentrate|Concentrate]]'
 - '[[DATABASE/trait/Exploration|Exploration]]'
 - '[[DATABASE/trait/Secret|Secret]]'
-trigger: null
 type: Action
 
 ---

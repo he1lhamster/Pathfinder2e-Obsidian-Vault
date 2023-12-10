@@ -1,24 +1,17 @@
 ﻿---
 ac: '31'
 alignment: N
-all_resistance: null
-burrow_speed: null
 charisma: '+5'
-climb_speed: null
 constitution: '+3'
 creature_ability:
 - Bloodline Magic
 - Dangerous Sorcery
 - Duck Away
 - Steady Spellcasting
-creature_family: null
 dexterity: '+4'
-element: null
-fly_speed: null
 fortitude: '+21'
 hp: '230'
 id: '2117'
-immunity: null
 intelligence: '+2'
 land_speed: '25'
 language:
@@ -29,8 +22,6 @@ name: Stirvyn Banyan
 perception: '+21'
 rarity: Unique
 reflex: '+22'
-resistance: null
-rus_type_level: null
 sense:
 - '[[DATABASE/spell/Detect Magic|detect magic]]'
 size: Medium
@@ -81,17 +72,14 @@ strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
 weakest_save:
 - Fortitude
 - Will
-weakness: null
 will: '+21'
 wisdom: '+3'
 

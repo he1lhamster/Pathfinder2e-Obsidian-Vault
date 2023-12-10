@@ -1,10 +1,7 @@
 ﻿---
 ac: '47'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '+10'
-climb_speed: null
 constitution: '+7'
 creature_ability:
 - Change Shape
@@ -14,15 +11,10 @@ creature_ability:
 - Thorny Aura
 - Trickster's Step
 - Trip Up
-creature_family: null
 dexterity: '+10'
-element: null
-fly_speed: null
 fortitude: '+36'
-hardness: null
 hp: '374'
 id: '2373'
-immunity: null
 intelligence: '+8'
 land_speed: '30'
 language:
@@ -37,9 +29,6 @@ name: Werendegar
 perception: '+35'
 rarity: Unique
 reflex: '+39'
-resistance: null
-rus_type_level: null
-school: null
 sense:
 - hungersense (imprecise
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]] )'
@@ -74,7 +63,6 @@ strength: '+6'
 strength_req: '6'
 strongest_save:
 - Reflex
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
 - '[[DATABASE/trait/Unique|Unique]]'

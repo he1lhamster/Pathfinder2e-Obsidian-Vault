@@ -2,9 +2,7 @@
 id: '40'
 name: Elfbane Hobgoblin
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-trait: null
 type: Heritage
 
 ---

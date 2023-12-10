@@ -3,9 +3,7 @@ creature_family: Firebrands
 id: '199'
 name: Firebrands
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Character Guide|Character Guide]]'
-trait: null
 type: Creature Family
 
 ---

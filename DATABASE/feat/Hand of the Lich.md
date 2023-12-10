@@ -1,23 +1,13 @@
 ﻿---
-actions: null
-cost: null
-element: null
 feat: Hand of the Lich
-frequency: null
-heighten_level: null
 id: '3516'
 level: '14'
 name: Hand of the Lich
 prerequisite: '[[DATABASE/feat/Lich Dedication|Lich Dedication]]'
 rarity: Common
-requirement: null
-rus_type_level: null
-school: null
 source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-subcategory: null
 trait:
 - '[[DATABASE/trait/Archetype|Archetype]]'
-trigger: null
 type: Feat
 
 ---

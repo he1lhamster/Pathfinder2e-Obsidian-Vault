@@ -1,8 +1,7 @@
----
+﻿---
 id: '159'
 name: Uncommon
 rarity: Common
-rus_type_level: null
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
 trait:
 - Uncommon
@@ -16,7 +15,8 @@ Something of uncommon rarity requires special training or comes from a particula
 
 ## Actions
 
-[[DATABASE/action/Destructive Vengeance|Destructive Vengeance]], [[DATABASE/action/Iron Command|Iron Command]], [[DATABASE/action/Mesmerizing Performance|Mesmerizing Performance]], [[DATABASE/action/Selfish Shield|Selfish Shield]]
+[[DATABASE/action/Destructive Vengeance|Destructive Vengeance]], [[DATABASE/action/Iron Command|Iron Command]], [[DATABASE/action/Mesmerizing Performance|Mesmerizing Performance
+]], [[DATABASE/action/Selfish Shield|Selfish Shield]]
 
 ## Ancestries
 

@@ -1,57 +1,21 @@
 ﻿---
-ac: null
-actions: null
-alignment: null
-base_item: null
+actions: '[one-action]'
 bulk: L
-burrow_speed: null
-climb_speed: null
-damage: 1d4 P
-deity: null
-duration: null
-element: null
-favored_weapon: null
-fly_speed: null
-fortitude: null
-frequency: null
-hands: '1'
-hardness: null
-hp: null
 id: '137'
-item_category: Weapons
-item_subcategory: Base Weapons
-land_speed: null
+item_category: Alchemical Items
+item_subcategory: Alchemical Tools
 level: '1'
-max_speed: null
 name: Sunrod
-onset: null
-price: 8 gp
-range: null
-rarity: Uncommon
-reflex: null
-requirement: null
-resistance: null
-rus_type_level: null
-saving_throw: null
-school: null
-size: null
+price: 3 gp
+rarity: Common
 source: '[[DATABASE/source/Core Rulebook|Core Rulebook]]'
-spell: null
-stage: null
 subcategory: alchemical/tool
-swim_speed: null
 trait:
-- '[[DATABASE/trait/Agile|Agile]]'
-- '[[DATABASE/trait/Concealable|Concealable]]'
-- '[[DATABASE/trait/Finesse|Finesse]]'
-- '[[DATABASE/trait/Thrown|Thrown 10 ft.]]'
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
-trigger: null
-type: Weapon
-usage: null
-weapon_category: Simple
-weapon_group: '[[DATABASE/weapongroup/Dart|Dart]]'
-weapon_type: Melee
+- '[[DATABASE/trait/Alchemical|Alchemical]]'
+- '[[DATABASE/trait/Consumable|Consumable]]'
+- '[[DATABASE/trait/Light|Light]]'
+type: Item
+usage: held in 1 hand
 
 ---
 # Sunrod<span class="item-type">Item 1</span>

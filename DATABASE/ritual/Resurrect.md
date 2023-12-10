@@ -1,8 +1,5 @@
 ﻿---
-area: null
 cost: "diamonds worth a total value of 75 gp \xD7 the target\u2019s level"
-duration: null
-element: null
 heighten: 6th, 7th, 8th, 9th, 10th
 heighten_level: 5, 6, 7, 8, 9, 10
 id: '20'
@@ -11,8 +8,6 @@ name: Resurrect
 primary_check: '[[DATABASE/skill/Religion|Religion]] (expert)'
 range: 10 feet
 rarity: Uncommon
-requirement: null
-rus_type_level: null
 school: Necromancy
 secondary_casters: '2'
 secondary_check: '[[DATABASE/skill/Medicine|Medicine]] , [[DATABASE/skill/Society|Society]]'

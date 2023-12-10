@@ -1,8 +1,6 @@
 ﻿---
 ac: '32'
 alignment: CN
-all_resistance: null
-burrow_speed: null
 charisma: '-2'
 climb_speed: '20'
 constitution: '+7'
@@ -10,12 +8,8 @@ creature_ability:
 - Dual Pounce
 - Rend
 - Vicious Rend
-creature_family: null
 dexterity: '+5'
-element: null
-fly_speed: null
 fortitude: '+25'
-hardness: null
 hp: '215'
 id: '1728'
 immunity:
@@ -33,8 +27,6 @@ reflex: '+22'
 resistance:
 - '[[DATABASE/trait/Fire|fire]] 10'
 - physical 10 (except bludgeoning)
-rus_type_level: null
-school: null
 sense:
 - '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 60 feet'
@@ -49,12 +41,10 @@ source: '[[DATABASE/source/Monsters of Myth|Monsters of Myth]]'
 speed:
 - 35 feet
 - climb 20 feet
-spell: null
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: null
 trait:
 - '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Primal|Primal]]'
@@ -63,7 +53,6 @@ type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
-weakness: null
 will: '+19'
 wisdom: '+4'
 
