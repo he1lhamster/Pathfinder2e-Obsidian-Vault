@@ -13,15 +13,6 @@ creature_ability:
 - Odor of Rot
 - Sudden Charge
 creature_family: '[[DATABASE/monsterfamily/Bhanyada|Bhanyada]]'
-description: 'Not much larger than dogs, the typical bhanyada scavenger is a warty,
-  misshapen tangle of flesh that walks on stumpy legs, sometimes on two and sometimes
-  on four. Plainly amalgamations of meat and gristle, few of which appear in the same
-  color or texture, bhanyada scavengers have a horrifying mottled appearance. Their
-  bulbous heads split into a maw with blunt teeth that shift about within their mouths
-  to grind food. Bhanyada scavengers prefer living prey and usually hunt in numbers,
-  often following in the wake of bhanyada behemoths to snatch up any scraps left behind.<br/><br/><b><u>Recall
-  Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 26<br/><b><u>Unspecific
-  Lore</u></b>: DC 24<br/><b><u>Specific Lore</u></b>: DC 21'
 dexterity: '+4'
 element: null
 fly_speed: null

@@ -1,98 +1,67 @@
 ﻿---
-ac: '22'
+ac: '19'
 alignment: CE
-all_resistance: '5'
+all_resistance: null
 burrow_speed: null
-charisma: '+4'
+charisma: '+0'
 climb_speed: null
-constitution: '+0'
+constitution: '+3'
 creature_ability:
-- Anathematic Aversion
-- Elegy of the Faithless
-- Rend Faith
-- Sense Apostate
-creature_family: null
-description: "Once devout followers whose faith proved false, abandoned zealots return\
-  \ from the doorstep of the afterlife after being denied the eternal reward they\
-  \ expected. Consumed by self-loathing for the lives they squandered to false faiths\
-  \ and empty creeds, these lost souls serve as terrifying and implacable\u2014yet\
-  \ ultimately pathetic\u2014foes. A shapeless mass of smoke and shadow coils behind\
-  \ their broken masks. As abandoned zealots move, they spit and shriek a hateful\
-  \ cacophony of bitter lamentations and anguished weeping.<br/><br/> Abandoned zealots\
-  \ are most commonly associated with the church of Razmir, which upholds a mortal\
-  \ wizard as a god\u2014a truth unknown to most worshippers. However, abandoned zealots\
-  \ might arise from a true religion if they've been misled about that faith's true\
-  \ tenets or aims. This situation could easily result from the cruel schemes and\
-  \ predations of sinister beings, such as [[DATABASE/monster/Shrine Skelm|shrine\
-  \ skelms]] and the blasphemous devils known as [[DATABASE/monster/Deimavigga (Apostate\
-  \ Devil)|deimavigga]] .<br/><br/><b><u>Recall Knowledge - Spirit</u> ( [[DATABASE/skill/Occultism|Occultism]]\
-  \ )</b>: DC 22<br/><b><u>Recall Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]]\
-  \ )</b>: DC 22<br/><b><u>Unspecific Lore</u></b>: DC 20<br/><b><u>Specific Lore</u></b>:\
-  \ DC 17"
-dexterity: '+4'
+- Hatred of Mirrors
+- Mutilating Bite
+- Wreck
+creature_family: '[[DATABASE/monsterfamily/Demon|Demon]]'
+dexterity: '+1'
 element: null
-fly_speed: '40'
-fortitude: '+10'
+fly_speed: null
+fortitude: '+15'
 hardness: null
-hp: 75 ( negative healing )
-id: '1033'
-immunity:
-- '[[DATABASE/trait/Death|death]] effects'
-- '[[DATABASE/trait/Disease|disease]]'
-- '[[DATABASE/condition/Paralyzed|paralyzed]]'
-- '[[DATABASE/trait/Poison|poison]]'
-- precision
-- '[[DATABASE/condition/Unconscious|unconscious]]'
-intelligence: '+2'
-land_speed: null
+hp: '70'
+id: '1110'
+immunity: null
+intelligence: '-2'
+land_speed: '25'
 language:
-- '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Necril|Necril]]'
-level: '6'
-max_speed: '40'
-name: Abandoned Zealot
-perception: '+14'
+- '[[DATABASE/language/Abyssal|Abyssal]]'
+- '[[DATABASE/language/Celestial|Celestial]]'
+- '[[DATABASE/language/Draconic|Draconic]] ; [[DATABASE/monsterability/Telepathy|telepathy]]
+  100 feet'
+level: '4'
+max_speed: '25'
+name: Abrikandilu
+perception: '+10'
 rarity: Common
-reflex: '+14'
-resistance:
-- all damage 5 (except [[DATABASE/trait/Force|force]]
-- '[[DATABASE/equipment/Ghost Touch|ghost touch]]'
-- or [[DATABASE/trait/Positive|positive]]
-- double resistance against non- [[DATABASE/trait/Magical|magical]] )
+reflex: '+9'
+resistance: null
 rus_type_level: null
 school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
-- '[[DATABASE/monsterability/Lifesense|lifesense]] 60 feet'
-- sense apostate
 size: Medium
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +14'
-- '[[DATABASE/skill/Lore|Boneyard Lore]] +12'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +14'
-- '[[DATABASE/skill/Religion|Religion]] +12'
-- '[[DATABASE/skill/Stealth|Stealth]] +16'
+- '[[DATABASE/skill/Athletics|Athletics]] +12'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +8'
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
-- fly 40 feet
+- 25 feet
 spell:
-- '[[DATABASE/spell/Crisis of Faith|Crisis of Faith]]'
-- '[[DATABASE/spell/Zealous Conviction|Zealous Conviction]]'
-strength: '-5'
-strength_req: '-5'
+- '[[DATABASE/spell/Fear|Fear]]'
+strength: '+4'
+strength_req: '4'
 strongest_save:
-- Will
+- Fortitude
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Incorporeal|Incorporeal]]'
-- '[[DATABASE/trait/Spirit|Spirit]]'
-- '[[DATABASE/trait/Undead|Undead]]'
+- '[[DATABASE/trait/Demon|Demon]]'
+- '[[DATABASE/trait/Fiend|Fiend]]'
 type: Creature
 vision: Darkvision
 weakest_save:
-- Fortitude
-weakness: null
-will: '+16'
+- Will
+weakness:
+- '[[DATABASE/equipment/Cold Iron Weapon|cold iron]] 5'
+- good 5
+will: '+7'
 wisdom: '+2'
 
 ---

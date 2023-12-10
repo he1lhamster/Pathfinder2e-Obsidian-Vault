@@ -12,23 +12,6 @@ creature_ability:
 - Rend Faith
 - Sense Apostate
 creature_family: null
-description: "Once devout followers whose faith proved false, abandoned zealots return\
-  \ from the doorstep of the afterlife after being denied the eternal reward they\
-  \ expected. Consumed by self-loathing for the lives they squandered to false faiths\
-  \ and empty creeds, these lost souls serve as terrifying and implacable\u2014yet\
-  \ ultimately pathetic\u2014foes. A shapeless mass of smoke and shadow coils behind\
-  \ their broken masks. As abandoned zealots move, they spit and shriek a hateful\
-  \ cacophony of bitter lamentations and anguished weeping.<br/><br/> Abandoned zealots\
-  \ are most commonly associated with the church of Razmir, which upholds a mortal\
-  \ wizard as a god\u2014a truth unknown to most worshippers. However, abandoned zealots\
-  \ might arise from a true religion if they've been misled about that faith's true\
-  \ tenets or aims. This situation could easily result from the cruel schemes and\
-  \ predations of sinister beings, such as [[DATABASE/monster/Shrine Skelm|shrine\
-  \ skelms]] and the blasphemous devils known as [[DATABASE/monster/Deimavigga (Apostate\
-  \ Devil)|deimavigga]] .<br/><br/><b><u>Recall Knowledge - Spirit</u> ( [[DATABASE/skill/Occultism|Occultism]]\
-  \ )</b>: DC 22<br/><b><u>Recall Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]]\
-  \ )</b>: DC 22<br/><b><u>Unspecific Lore</u></b>: DC 20<br/><b><u>Specific Lore</u></b>:\
-  \ DC 17"
 dexterity: '+4'
 element: null
 fly_speed: '40'

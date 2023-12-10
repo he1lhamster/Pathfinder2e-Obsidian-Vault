@@ -10,22 +10,6 @@ creature_ability:
 - Rebuild Armor
 - Sacrifice Armor
 creature_family: null
-description: 'In places where magic, alchemy, and engineering converge, there are
-  often unforeseen side effects on the environment and its inhabitants. Scrapborn
-  sometimes result from this strange convergence.<br/><br/> Mostly, scrapborn appear
-  to be walking piles of assorted junk, seemingly assembled at random. Their actual
-  bodies are vaguely humanoid with delicate, spongy green skin. They secrete an adhesive
-  that allows them to gather up debris and attach it to their bodies for protection.
-  When these scraps eventually fall off, the scrapborn either reattaches them or replaces
-  them with something new. Despite their resulting bulky appearance, scrapborn remain
-  strong swimmers and display little loss of agility underwater.<br/><br/> Scrapborn
-  lack a centralized society, but sometimes congregate in small groups that work together
-  for survival. Typically, this leads to ever-escalating attacks on nearby settlements
-  as the creatures feed upon each other''s resentment and work themselves up into
-  a frenzy. They often target places with high-quality armor first so they can improve
-  their odds of survival.<br/><br/><b><u>Recall Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]]
-  )</b>: DC 22<br/><b><u>Unspecific Lore</u></b>: DC 20<br/><b><u>Specific Lore</u></b>:
-  DC 17'
 dexterity: '+4'
 element: null
 fly_speed: null

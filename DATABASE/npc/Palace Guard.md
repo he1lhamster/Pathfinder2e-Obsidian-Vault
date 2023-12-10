@@ -10,15 +10,6 @@ creature_ability:
 - Attack of Opportunity
 - Royal Defender
 creature_family: '[[DATABASE/monsterfamily/Courtiers|Courtiers]]'
-description: 'Every palace has its gatekeepers. Often the younger offspring of minor
-  nobility or those from long lines of trusted staff, the palace guards are in charge
-  of defending the royal family and their inner stronghold. Their days consist of
-  guarding doorways, escorting nobles to various locations, and keeping those in their
-  charge as safe as possible. The statistics below are for the lowest rank-and-file
-  member of a small nation''s palace guards; they also work well for elite guards
-  of a lesser noble.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 19<br/><b><u>Unspecific Lore</u></b>: DC 17<br/><b><u>Specific Lore</u></b>:
-  DC 14'
 dexterity: '+2'
 element: null
 fly_speed: null

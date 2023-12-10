@@ -9,10 +9,6 @@ constitution: '+1'
 creature_ability:
 - Aquatic Dash
 creature_family: '[[DATABASE/monsterfamily/Merfolk|Merfolk]]'
-description: 'Merfolk warriors form the bulk of the militias of their vast underwater
-  realms and meet potential aggressors head-on with uncompromising force.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 15<br/><b><u>Unspecific
-  Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>: DC 10'
 dexterity: '+4'
 element: null
 fly_speed: null

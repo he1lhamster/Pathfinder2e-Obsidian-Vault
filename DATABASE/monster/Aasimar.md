@@ -1,80 +1,69 @@
 ﻿---
-ac: '18'
-alignment: CE
+ac: '23'
+alignment: NG
 all_resistance: null
 burrow_speed: null
-charisma: '-1'
+charisma: '+3'
 climb_speed: null
 constitution: '+3'
 creature_ability:
-- Attack of Opportunity
-- Serpentfolk Venom
-- Slithering Attack
-creature_family: '[[DATABASE/monsterfamily/Serpentfolk|Serpentfolk]]'
-description: "Aapophs possess greater strength and stronger venom than their zyss\
-  \ kin, but they lack zyss' intelligence and innate magic. Unlike their selfish superiors,\
-  \ aapophs are communal and group together to hunt, wrestle, and sleep curled together\
-  \ in pits. Though they're looked down upon and insulted by zyss, most aapophs lack\
-  \ the higher brain functions to recognize when they're being insulted, much less\
-  \ plan or execute a rebellion. Aapophs often have unusual physical mutations\u2014\
-  horns, vestigial tails, or spines protruding from their scales\u2014yet these variations\
-  \ have little impact on their overall combat prowess\u2014 and combat prowess is\
-  \ the measure by which zyss judge them.<br/><br/><b><u>Recall Knowledge - Humanoid</u>\
-  \ ( [[DATABASE/skill/Society|Society]] )</b>: DC 20<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 18<br/><b><u>Specific Lore</u></b>: DC 15"
-dexterity: '+2'
+- Champion Devotion Spells
+- Divine Grace
+- Glimpse of Redemption
+- Shield Block
+creature_family: '[[DATABASE/monsterfamily/Planar Scion|Planar Scion]]'
+dexterity: '+1'
 element: null
 fly_speed: null
-fortitude: '+10'
+fortitude: '+12'
 hardness: null
-hp: '60'
-id: '799'
+hp: '73'
+id: '333'
 immunity: null
-intelligence: '-3'
-land_speed: '25'
+intelligence: '+0'
+land_speed: '20'
 language:
-- '[[DATABASE/language/Aklo|Aklo]]'
-- '[[DATABASE/language/Undercommon|Undercommon]] ; [[DATABASE/monsterability/Telepathy|telepathy
-  100 feet]]'
-level: '3'
-max_speed: '25'
-name: Aapoph Serpentfolk
-perception: '+8'
-rarity: Uncommon
-reflex: '+7'
-resistance:
-- poison 5
+- '[[DATABASE/language/Celestial|Celestial]]'
+- '[[DATABASE/language/Common|Common]]'
+level: '5'
+max_speed: '20'
+name: Aasimar Redeemer
+perception: '+11'
+rarity: Common
+reflex: '+8'
+resistance: null
 rus_type_level: null
 school: null
 sense:
-- '[[DATABASE/monsterability/Darkvision|darkvision]]'
-- '[[DATABASE/monsterability/Scent|scent (imprecise) 30 feet]]'
+- darkvision
 size: Medium
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +7'
 - '[[DATABASE/skill/Athletics|Athletics]] +11'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +6'
-source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +12'
+- '[[DATABASE/skill/Medicine|Medicine]] +9'
+- '[[DATABASE/skill/Religion|Religion]] +11'
+- '[[DATABASE/skill/Society|Society]] +7'
+source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
-- 25 feet
-spell: null
+- 20 feet
+spell:
+- '[[DATABASE/spell/Light|Light]]'
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
 swim_speed: null
 trait:
+- '[[DATABASE/trait/Aasimar|Aasimar]]'
+- '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
-- '[[DATABASE/trait/Mutant|Mutant]]'
-- '[[DATABASE/trait/Serpentfolk|Serpentfolk]]'
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
 vision: Darkvision
 weakest_save:
-- Will
+- Reflex
 weakness: null
-will: '+6'
-wisdom: '+1'
+will: '+11'
+wisdom: '+2'
 
 ---
 # Aasimar

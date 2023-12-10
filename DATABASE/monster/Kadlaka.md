@@ -11,19 +11,6 @@ creature_ability:
 - Silent Lightning
 - Wingbeat
 creature_family: null
-description: "Kadlakas\u2014strong, lanky humanoids with raven-like features\u2014\
-  combine the most formidable aspects of talented hunters and airborne scouts, to\
-  \ say nothing of their potent magical powers over thunder and lightning. Though\
-  \ they shy from most humanoids, kadlakas readily form friendships with ravens and\
-  \ other birds, and they sometimes make temporary alliances with people who prove\
-  \ themselves capable stewards of wild animals and the natural order of things. When\
-  \ they do settle on a roost\u2014whether for a single season or a lifetime\u2014\
-  kadlakas often position themselves as guardians of a natural feature or local flock.\
-  \ Because a kadlaka's natural form might frighten humanoid travelers, they often\
-  \ take on the guise of a human or other common bipedal ancestry to gain information\
-  \ and pass on warnings.<br/><br/><b><u>Recall Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]]\
-  \ , [[DATABASE/skill/Nature|Nature]] )</b>: DC 24<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 22<br/><b><u>Specific Lore</u></b>: DC 19"
 dexterity: '+5'
 element: null
 fly_speed: '50'

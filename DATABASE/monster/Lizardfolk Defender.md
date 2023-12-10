@@ -12,15 +12,6 @@ creature_ability:
 - Shield Block
 - Terrain Advantage
 creature_family: '[[DATABASE/monsterfamily/Lizardfolk|Lizardfolk]]'
-description: 'The lizardfolk defender serves as a protector of the young, guardian
-  of the settlement, and when no other options are available, soldier in time of war.
-  They eagerly rise to the defense of their kin but do not revel in battle. An iruxi
-  defender would rather turn back intruders and allow them to flee with the knowledge
-  they were beaten, in hopes that such word prevents further invasions, but they are
-  not naive. The iruxi understand the need for revenge, and when they allow a foe
-  to escape, they do not forget.<br/><br/><b><u>Recall Knowledge - Humanoid</u> (
-  [[DATABASE/skill/Society|Society]] )</b>: DC 15<br/><b><u>Unspecific Lore</u></b>:
-  DC 13<br/><b><u>Specific Lore</u></b>: DC 10'
 dexterity: '+2'
 element: null
 fly_speed: null

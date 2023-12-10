@@ -1,68 +1,51 @@
 ﻿---
-ac: '21'
-alignment: N
+ac: null
+alignment: null
 all_resistance: null
 burrow_speed: null
-charisma: '+0'
+charisma: null
 climb_speed: null
-constitution: '+5'
-creature_ability:
-- Buck
-- Furious Charge
-creature_family: '[[DATABASE/monsterfamily/Elk|Elk]]'
-description: 'Similar in form to the elk but far superior in size is the megaloceros.
-  The average male is a towering creature with antlers that alone weigh nearly 100
-  pounds. These antlers are enormous and can be wider than their bodies are long.
-  Megaloceroses stand up to 9 feet tall, weighing 1,500 pounds and with antlers growing
-  over 12 feet wide.<br/><br/><b><u>Recall Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 21<br/><b><u>Unspecific Lore</u></b>: DC 19<br/><b><u>Specific Lore</u></b>:
-  DC 16'
-dexterity: '+3'
+constitution: null
+creature_ability: null
+creature_family: null
+dexterity: null
 element: null
 fly_speed: null
-fortitude: '+13'
+fortitude: null
 hardness: null
-hp: '58'
-id: '2202'
+hp: null
+id: '1776'
 immunity: null
-intelligence: '-4'
-land_speed: '50'
+intelligence: null
+land_speed: null
 language: null
-level: '4'
-max_speed: '50'
+level: null
+max_speed: null
 name: Megaloceros
-perception: '+10'
-rarity: Uncommon
-reflex: '+11'
+perception: null
+rarity: null
+reflex: null
 resistance: null
 rus_type_level: null
 school: null
-sense:
-- '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
-- '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
-size: Large
-skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +13'
-- '[[DATABASE/skill/Survival|Survival]] +10'
-source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
-speed:
-- 50 feet
+sense: null
+size: null
+skill: null
+source: '[[DATABASE/source/Pathfinder 176. Lost Mammoth Valley|Pathfinder #176: Lost
+  Mammoth Valley]]'
+speed: null
 spell: null
-strength: '+5'
-strength_req: '5'
-strongest_save:
-- Fortitude
+strength: null
+strength_req: null
+strongest_save: null
 swim_speed: null
-trait:
-- '[[DATABASE/trait/Animal|Animal]]'
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
-type: Creature
-vision: Low-light vision
-weakest_save:
-- Will
+trait: null
+type: null
+vision: null
+weakest_save: null
 weakness: null
-will: '+8'
-wisdom: '+2'
+will: null
+wisdom: null
 
 ---
 # Megaloceros

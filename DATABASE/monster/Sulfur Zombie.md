@@ -11,11 +11,6 @@ creature_ability:
 - Death Throes
 - Slow
 creature_family: '[[DATABASE/monsterfamily/Zombie|Zombie]]'
-description: 'Glowing with a dull amber light, these odious creatures spawn from a
-  combination of necromancy and fire. These destructive creations sow chaos and demolish
-  fortifications, making them the bane of besieged cities.<br/><br/><b><u>Recall Knowledge
-  - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 22<br/><b><u>Unspecific
-  Lore</u></b>: DC 20<br/><b><u>Specific Lore</u></b>: DC 17'
 dexterity: '+2'
 element: Fire
 fly_speed: null

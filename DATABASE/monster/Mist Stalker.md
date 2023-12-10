@@ -12,11 +12,6 @@ creature_ability:
 - Mist Vision
 - Solidify Mist
 creature_family: '[[DATABASE/monsterfamily/Elemental, Water|Elemental, Water]]'
-description: 'The tentacled mist stalker shrouds itself in a cloak of mist through
-  which its single, never-blinking eye can see with clarity, allowing it an advantage
-  when stalking its prey.<br/><br/><b><u>Recall Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Nature|Nature]] )</b>: DC 19<br/><b><u>Unspecific Lore</u></b>:
-  DC 17<br/><b><u>Specific Lore</u></b>: DC 14'
 dexterity: '+4'
 element: Water
 fly_speed: null

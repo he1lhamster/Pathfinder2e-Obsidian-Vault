@@ -16,26 +16,6 @@ creature_ability:
 - Mogaru
 - Yorak
 creature_family: null
-description: "Rivkas are parasitic monsters that cling to the sides of kaiju. In their\
-  \ natural form, they resemble giant cockroaches with eight razor-like legs and two\
-  \ mouths\u2014one between two vicious pincers plus a second, much larger mouth on\
-  \ their abdomen. With this secondary mouth they feed off the primordial energy of\
-  \ whichever kaiju they've latched onto.<br/><br/> In the wake of a kaiju attack,\
-  \ a rivka detaches from its host and wades into the disaster zone to prey on the\
-  \ unsuspecting populace by presenting itself as an emissary of the kaiju and demanding\
-  \ tribute. According to this cruel charlatan, only sacrifices of blood and gold\
-  \ can appease their master\u2014though of course the rivka absconds with these offerings\
-  \ before the gifts ever reach the kaiju (such tributes would mean little to the\
-  \ kaiju anyway). Particularly heinous rivkas search the rubble for dead victims\
-  \ to impersonate, magically adopting the visage of a beloved city elder or priest\
-  \ in order to stoke the citizens' paranoia.<br/><br/> Drinking kaiju blood has a\
-  \ strange effect on a rivka's anatomy, enriching both its defensive and offensive\
-  \ capabilities with the primal energy of its host. Other creatures have attempted\
-  \ to drink kaiju blood and replicate this phenomenon, always to terrible effect.\
-  \ Clearly rivkas have coevolved with kaiju in order to metabolize their ancient\
-  \ blood.<br/><br/><b><u>Recall Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]]\
-  \ )</b>: DC 36<br/><b><u>Unspecific Lore</u></b>: DC 34<br/><b><u>Specific Lore</u></b>:\
-  \ DC 31"
 dexterity: '+7'
 element: null
 fly_speed: null

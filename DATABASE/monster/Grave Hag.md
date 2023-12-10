@@ -14,16 +14,6 @@ creature_ability:
 - Sacrifice Ally
 - Undead Mien
 creature_family: '[[DATABASE/monsterfamily/Hag|Hag]]'
-description: "Rot-skinned grave hags usually lair in cemeteries, mausoleums, and other\
-  \ burial sites; unlike most hags, they can't alter their appearance into a comely\
-  \ shape, so they hide from most observers. Grave hags consider such a predatory\
-  \ life hiding out in graveyards to be pitiful and squalid\u2014they prefer to dwell\
-  \ in lands where necromancy is common and undeath isn't unusual. These grave hags\
-  \ become adept at necromantic magic and love posing as scholars. Schemers and plotters,\
-  \ they surround themselves with minions whom they send on missions to collect corpses\
-  \ for ghastly rituals.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]\
-  \ )</b>: DC 28<br/><b><u>Unspecific Lore</u></b>: DC 26<br/><b><u>Specific Lore</u></b>:\
-  \ DC 23"
 dexterity: '+3'
 element: null
 fly_speed: null

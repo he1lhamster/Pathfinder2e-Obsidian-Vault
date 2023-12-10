@@ -1,87 +1,80 @@
 ﻿---
-ac: '24'
-alignment: N
+ac: '27'
+alignment: LE
 all_resistance: null
 burrow_speed: null
-charisma: '+6'
-climb_speed: '20'
-constitution: '+4'
+charisma: '+3'
+climb_speed: null
+constitution: '+2'
 creature_ability:
-- Attack of Opportunity
-- Reweave Fate
-- Web of Fate
+- Shadow Step
+- Sneak Attack
+- Spell-Imbued Blade
 creature_family: null
-description: 'While the [[DATABASE/plane/Material Plane|Material Plane]] and the [[DATABASE/plane/Dimension
-  of Time|Dimension of Time]] remain distinct realities, the two share a powerful
-  connection. Suvardens are living embodiments of this connection.<br/><br/><b><u>Recall
-  Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 28<br/><b><u>Unspecific Lore</u></b>: DC 26<br/><b><u>Specific Lore</u></b>:
-  DC 23'
-dexterity: '+5'
+dexterity: '+6'
 element: null
-fly_speed: '20'
-fortitude: '+15'
+fly_speed: null
+fortitude: '+11'
 hardness: null
-hp: 125 ( all-around vision )
-id: '2583'
-immunity:
-- '[[DATABASE/condition/Confused|confused]]'
-- '[[DATABASE/condition/Controlled|controlled]]'
-- '[[DATABASE/trait/Misfortune|misfortune]]'
-intelligence: '+2'
-land_speed: '40'
+hp: '135'
+id: '1003'
+immunity: null
+intelligence: '+4'
+land_speed: '25'
 language:
 - '[[DATABASE/language/Aklo|Aklo]]'
 - '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Sylvan|Sylvan]] ; [[DATABASE/monsterability/Telepathy|telepathy]]
-  100 feet'
-level: '7'
-max_speed: '40'
-name: Suvarden
-perception: '+17'
-rarity: Rare
-reflex: '+14'
+- '[[DATABASE/language/Elven|Elven]]'
+- '[[DATABASE/language/Sylvan|Sylvan]]'
+level: '8'
+max_speed: '25'
+name: Svartalfar Killer
+perception: '+16'
+rarity: Uncommon
+reflex: '+19'
 resistance: null
 rus_type_level: null
 school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
-size: Large
+size: Medium
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +16'
-- '[[DATABASE/skill/Athletics|Athletics]] +16'
-- '[[DATABASE/skill/Diplomacy|Diplomacy]] +17'
-- '[[DATABASE/skill/Lore|Lore]] +15'
-- '[[DATABASE/skill/Nature|Nature]] +15'
-- '[[DATABASE/skill/Occultism|Occultism]] +15'
-- '[[DATABASE/skill/Society|Society]] +13'
-source: '[[DATABASE/source/Pathfinder 192. Worst of All Possible Worlds|Pathfinder
-  #192: Worst of All Possible Worlds]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +18'
+- '[[DATABASE/skill/Arcana|Arcana]] +16'
+- '[[DATABASE/skill/Deception|Deception]] +18'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +18'
+- '[[DATABASE/skill/Occultism|Occultism]] +16'
+- '[[DATABASE/skill/Stealth|Stealth]] +18'
+- '[[DATABASE/skill/Thievery|Thievery]] +14'
+source: '[[DATABASE/source/Pathfinder 159. All or Nothing|Pathfinder #159: All or
+  Nothing]]'
 speed:
-- 40 feet
-- climb 20 feet
-- fly 20 feet
+- 25 feet
 spell:
-- '[[DATABASE/spell/Augury|Augury]]'
-- '[[DATABASE/spell/Guidance|Guidance]]'
-- '[[DATABASE/spell/Hypercognition|Hypercognition]]'
-- '[[DATABASE/spell/Know Direction|Know Direction]]'
+- '[[DATABASE/spell/Acid Splash|Acid Splash]]'
+- '[[DATABASE/spell/Chill Touch|ChillTouch]]'
+- '[[DATABASE/spell/Electric Arc|Electric Arc]]'
+- '[[DATABASE/spell/Invisibility|Invisibility]]'
+- '[[DATABASE/spell/Produce Flame|Produce Flame]]'
+- '[[DATABASE/spell/Ray of Enfeeblement|Ray of Enfeeblement]]'
+- '[[DATABASE/spell/Shocking Grasp|Shocking Grasp]]'
 - '[[DATABASE/spell/True Strike|True Strike]]'
-strength: '+3'
-strength_req: '3'
+strength: '+1'
+strength_req: '1'
 strongest_save:
-- Will
+- Reflex
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Beast|Beast]]'
-- '[[DATABASE/trait/Rare|Rare]]'
+- '[[DATABASE/trait/Fey|Fey]]'
+- '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
 vision: Darkvision
 weakest_save:
-- Reflex
-weakness: null
-will: '+17'
-wisdom: '+4'
+- Fortitude
+weakness:
+- cold iron 10
+will: '+16'
+wisdom: '+2'
 
 ---
 # Svartalfar

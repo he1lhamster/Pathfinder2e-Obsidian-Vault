@@ -9,17 +9,6 @@ constitution: '-1'
 creature_ability:
 - Signal Arrow
 creature_family: '[[DATABASE/monsterfamily/Shoony|Shoony]]'
-description: "For all their advancement in agriculture, horticulture, and animal husbandry,\
-  \ shoonies subscribe to a remarkably antiquated form of leadership; the role of\
-  \ hierarch is normally inherited, passed on to the oldest living child of the village\u2019\
-  s previous hierarch. In the instance that the village\u2019s hierarch does not produce\
-  \ an heir, the village holds a general election. Elected hierarchs hold the term\
-  \ for life and are just as highly regarded as hierarchs raised from birth. When\
-  \ the settlement comes under attack, it is up to the hierarch to decide when to\
-  \ fight and when to flee. In most cases, shoonies prefer to elect individuals with\
-  \ a preference toward the latter.<br/><br/><b><u>Recall Knowledge - Humanoid</u>\
-  \ ( [[DATABASE/skill/Society|Society]] )</b>: DC 24<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 22<br/><b><u>Specific Lore</u></b>: DC 19"
 dexterity: '+2'
 element: null
 fly_speed: null

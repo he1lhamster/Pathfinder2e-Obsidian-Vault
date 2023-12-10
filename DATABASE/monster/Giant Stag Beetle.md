@@ -9,17 +9,6 @@ constitution: '+5'
 creature_ability:
 - Trample
 creature_family: '[[DATABASE/monsterfamily/Beetle|Beetle]]'
-description: 'The giant stag beetle is larger than a horse, and the sight of one flying
-  (if slowly and somewhat clumsily) on great buzzing wings is unnerving. Its enormous
-  mandibles are used to impress mates, intimidate rivals, and discourage predators,
-  for they can deliver deadly blows. While giant stag beetles are deadly predators,
-  they can be domesticated by skilled wranglers. In such a capacity, these beetles
-  serve well as beasts of burden or even as mounts.<br/><br/> Giant stag beetles can
-  be a serious menace in marshes, cavern complexes, and heavy forests. More than one
-  logging camp has attracted a cluster of giant stag beetles and had to be completely
-  abandoned, yielding all its lumber to the hunger of the giant insects.<br/><br/><b><u>Recall
-  Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 19<br/><b><u>Unspecific
-  Lore</u></b>: DC 17<br/><b><u>Specific Lore</u></b>: DC 14'
 dexterity: '+1'
 element: null
 fly_speed: '20'

@@ -13,18 +13,6 @@ creature_ability:
 - Self-Repair
 - Vulnerability to Exorcism
 creature_family: null
-description: "Those who tread in ruined places sometimes speak of a sense that a supernatural\
-  \ presence is there alongside them, as if the spirits of the dead were watching\
-  \ intently. Such presences can be very real, often taking the form of ghosts or\
-  \ other shades of undead that cannot let go of their attachment to the Material\
-  \ Plane. But sometimes, instead of manifesting as distinct spirits, the souls of\
-  \ the dead infuse the very stone and mortar around them. When enough souls attach\
-  \ themselves to a single place\u2014be it a home, crypt, or castle\u2014it can take\
-  \ on a life of its own, becoming a soulbound ruin.<br/><br/><b><u>Recall Knowledge\
-  \ - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]]\
-  \ )</b>: DC 34<br/><b><u>Recall Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]]\
-  \ )</b>: DC 34<br/><b><u>Unspecific Lore</u></b>: DC 32<br/><b><u>Specific Lore</u></b>:\
-  \ DC 29"
 dexterity: '+0'
 element: null
 fly_speed: null

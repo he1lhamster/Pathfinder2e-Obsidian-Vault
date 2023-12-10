@@ -12,28 +12,6 @@ creature_ability:
 - Root
 - Stench
 creature_family: null
-description: "Dezullons are dangerous carnivorous pitcher plants that dwell in forested\
-  \ regions with thick canopies. They hunt for meat along the forest\u2019s understory\
-  \ when not sunning themselves in the boughs above. Dezullons are smart enough to\
-  \ notice that some creatures are attracted by shiny things, and sometimes use such\
-  \ objects to set up ambushes. To assume that the dezullon\u2019s ambulations are\
-  \ slow simply because the creature has a root structure is a foolish mistake; many\
-  \ an adventurer has been crushed to death by this surprisingly agile plant. In addition,\
-  \ these dangerous plants are expert climbers, making their pursuit even more difficult\
-  \ to escape from.<br/><br/> A hungry dezullon keeps prey off-balance by spilling\
-  \ its putrid, psychoactive digestive juices from its central pitcher. In addition\
-  \ to being highly acidic, the enzymes in a dezullon\u2019s digestive tract, once\
-  \ expelled, inflict a victim with powerful hallucinations and amnesia. This secondary\
-  \ effect makes dezullons highly sought after in some circles, including avid drug\
-  \ users, experimental doctors, and criminals who deal in poisons.<br/><br/> Many\
-  \ varieties of dezullon exist, including lumbering giants of incredible size, those\
-  \ that have tiny, cup-shaped pitchers that proliferate along lengths of creeping\
-  \ ivy like suckers on a squid\u2019s tentacles, and others with hundreds of blood-red,\
-  \ razor-sharp leaves that protrude from the inside of their pitchers like a leech\u2019\
-  s teeth. This latter variety is especially dangerous, since the leaves can all but\
-  \ eviscerate creatures that become ensconced inside their pitchers.<br/><br/><b><u>Recall\
-  \ Knowledge - Plant</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 27<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 25<br/><b><u>Specific Lore</u></b>: DC 22"
 dexterity: '+7'
 element: null
 fly_speed: null

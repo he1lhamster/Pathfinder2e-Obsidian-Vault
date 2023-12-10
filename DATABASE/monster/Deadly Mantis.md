@@ -12,10 +12,6 @@ creature_ability:
 - Rending Mandibles
 - Sudden Strike
 creature_family: '[[DATABASE/monsterfamily/Mantis, Giant|Mantis, Giant]]'
-description: 'These gigantic mantids make their homes within deep jungles and prehistoric
-  forests where they hunt and devour equally massive prey.<br/><br/><b><u>Recall Knowledge
-  - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 28<br/><b><u>Unspecific
-  Lore</u></b>: DC 26<br/><b><u>Specific Lore</u></b>: DC 23'
 dexterity: '+3'
 element: null
 fly_speed: null

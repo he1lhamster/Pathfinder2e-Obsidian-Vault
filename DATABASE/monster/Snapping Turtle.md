@@ -11,12 +11,6 @@ creature_ability:
 - Deep Breath
 - Shell Defense
 creature_family: '[[DATABASE/monsterfamily/Turtle|Turtle]]'
-description: 'Snapping turtles are freshwater reptiles with a long flexible neck,
-  a sharp piercing beak, and a confrontational temperament that doesn''t prevent some
-  spellcasters from choosing these creatures as familiars. They weigh about 20 pounds
-  and have shells around 18 inches in length.<br/><br/><b><u>Recall Knowledge - Animal</u>
-  ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 13<br/><b><u>Unspecific Lore</u></b>:
-  DC 11<br/><b><u>Specific Lore</u></b>: DC 8'
 dexterity: '-1'
 element: null
 fly_speed: null

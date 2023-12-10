@@ -1,98 +1,84 @@
 ﻿---
-ac: '28'
-alignment: CN
+ac: '40'
+alignment: CE
 all_resistance: null
 burrow_speed: null
-charisma: '+3'
+charisma: '+7'
 climb_speed: null
-constitution: '+4'
+constitution: '+6'
 creature_ability:
-- Change Shape
-- Rush of Water
-- Skewer
-- Vortex
-creature_family: '[[DATABASE/monsterfamily/Genie|Genie]]'
-description: "Marids are capricious but powerful genies from the Plane of Water; among\
-  \ geniekind, they are rivaled in power only by the fiery efreet. Marids embody the\
-  \ strength of the ocean\u2019s waves and currents, but they also have a gentler\
-  \ side, loving performance and art such as dancing, music, and storytelling.<br/>Marids\
-  \ regard efreet with hostility but rarely encounter them in their native environment.\
-  \ They get along with djinn, jann, and shaitans, although the latter consider marids\
-  \ flighty and annoying, associating only long enough to close trade deals. Marid\
-  \ society has strict rules of hospitality, and many marid cities have a magically\
-  \ sealed foreign quarter where marid shahzadas conduct business with air-breathers.<br/><br/><b><u>Recall\
-  \ Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 28<br/><b><u>Unspecific Lore</u></b>: DC 26<br/><b><u>Specific Lore</u></b>:\
-  \ DC 23"
-dexterity: '+5'
-element: Water
-fly_speed: null
-fortitude: '+18'
+- Attack of Opportunity
+- Bladestorm
+- "Commander\u2019s Aura"
+- Defensive Assault
+- Failure Vulnerability
+- ''
+- Focused Assault
+- Greater Constrict
+- Infuse Weapons
+creature_family: '[[DATABASE/monsterfamily/Demon|Demon]]'
+dexterity: '+6'
+element: null
+fly_speed: '40'
+fortitude: '+31'
 hardness: null
-hp: '145'
-id: '215'
+hp: '380'
+id: '103'
 immunity: null
-intelligence: '+1'
-land_speed: '20'
+intelligence: '+4'
+land_speed: '40'
 language:
-- '[[DATABASE/language/Aquan|Aquan]]'
-- '[[DATABASE/language/Common|Common]]'
-level: '9'
+- '[[DATABASE/language/Abyssal|Abyssal]]'
+- '[[DATABASE/language/Celestial|Celestial]]'
+- '[[DATABASE/language/Draconic|Draconic]] ; telepathy 100 feet'
+level: '17'
 max_speed: '40'
-name: Marid
-perception: '+18'
-rarity: Uncommon
-reflex: '+21'
-resistance:
-- fire 10
+name: Marilith
+perception: '+30'
+rarity: Common
+reflex: '+29'
+resistance: null
 rus_type_level: null
 school: null
 sense:
 - darkvision
-- '[[DATABASE/spell/Detect Alignment|detect alignment]]'
-- '[[DATABASE/spell/Detect Magic|detect magic]]'
-- wavesense (imprecise) 60 feet
+- '[[DATABASE/spell/True Seeing|true seeing]]'
 size: Large
 skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +20'
-- '[[DATABASE/skill/Crafting|Crafting]] +16'
-- '[[DATABASE/skill/Diplomacy|Diplomacy]] +19'
-- '[[DATABASE/skill/Nature|Nature]] +18'
-- '[[DATABASE/skill/Performance|Performance]] +16'
-- '[[DATABASE/skill/Society|Society]] +14'
-- '[[DATABASE/skill/Stealth|Stealth]] +18'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +33'
+- '[[DATABASE/skill/Deception|Deception]] +30'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +30'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +32'
+- '[[DATABASE/skill/Religion|Religion]] +29'
+- '[[DATABASE/skill/Stealth|Stealth]] +29'
+- '[[DATABASE/skill/Lore|Warfare Lore]] +31'
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
-- 20 feet
-- swim 40 feet
+- 40 feet
+- fly 40 feet (from [[DATABASE/spell/Fly|fly]] )
 spell:
-- '[[DATABASE/spell/Blur|Blur]]'
-- '[[DATABASE/spell/Control Water|ControlWater]]'
-- '[[DATABASE/spell/Detect Alignment|Detect Alignment]]'
-- '[[DATABASE/spell/Detect Magic|Detect Magic]]'
-- '[[DATABASE/spell/Hallucinatory Terrain|Hallucinatory Terrain]]'
-- '[[DATABASE/spell/Hydraulic Push|Hydraulic Push]]'
-- '[[DATABASE/spell/Hydraulic Torrent|Hydraulic Torrent]]'
-- '[[DATABASE/spell/Illusory Object|Illusory Object]]'
-- '[[DATABASE/spell/Plane Shift|Plane Shift]]'
-- '[[DATABASE/spell/Solid Fog|Solid Fog]]'
-strength: '+5'
-strength_req: '5'
+- '[[DATABASE/spell/Blade Barrier|Blade Barrier]]'
+- '[[DATABASE/spell/Dimension Door|Dimension Door]]'
+- '[[DATABASE/spell/Fly|Fly]]'
+- '[[DATABASE/spell/True Seeing|True Seeing]]'
+- '[[DATABASE/spell/Weapon Storm|Weapon Storm]]'
+strength: '+8'
+strength_req: '8'
 strongest_save:
-- Reflex
-swim_speed: '40'
+- Fortitude
+swim_speed: null
 trait:
-- '[[DATABASE/trait/Elemental|Elemental]]'
-- '[[DATABASE/trait/Genie|Genie]]'
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
-- '[[DATABASE/trait/Water|Water]]'
+- '[[DATABASE/trait/Demon|Demon]]'
+- '[[DATABASE/trait/Fiend|Fiend]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
-will: '+17'
-wisdom: '+3'
+weakness:
+- cold iron 15
+- good 15
+will: '+27'
+wisdom: '+4'
 
 ---
 # Marilith (Pride Demon)

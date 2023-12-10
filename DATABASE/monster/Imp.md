@@ -12,17 +12,6 @@ creature_ability:
 - Imp Venom
 - Infernal Temptation
 creature_family: '[[DATABASE/monsterfamily/Devil|Devil]]'
-description: "Imps are infiltrators and corruptors who, despite their diminutive stature,\
-  \ are more than capable of subtly influencing a weak-willed individual into performing\
-  \ increasingly evil acts over time. An imp will often agree to serve a mortal and\
-  \ act docile and loyal in a long-term plot to eventually damn its master\u2019s\
-  \ soul to Hell. Imps are born directly from Hell itself, rather than from mortal\
-  \ souls, and thus they serve outside the usual diabolic hierarchy, granting them\
-  \ leeway to pursue their specialties. Despite standing a mere 2-feet tall, imps\
-  \ can be vicious combatants, flying out of reach and turning invisible to escape\
-  \ should the odds turn against them.<br/><br/><b><u>Recall Knowledge - Fiend</u>\
-  \ ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 15<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 13<br/><b><u>Specific Lore</u></b>: DC 10"
 dexterity: '+4'
 element: null
 fly_speed: '30'

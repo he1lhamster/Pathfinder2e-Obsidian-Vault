@@ -10,14 +10,6 @@ creature_ability:
 - Earth Glide
 - Shove into Stone
 creature_family: '[[DATABASE/monsterfamily/Genie|Genie]]'
-description: 'Hailing from the Plane of Earth, shaitans are proud and brazen genies.
-  They value physical skill and love bargaining, games of chance, and working with
-  metal and stone. Immense gemstones and veins of precious metal crisscross their
-  home plane, and the industrious shaitans have built a vast mercantile empire from
-  these abundant natural resources.<br/><br/><b><u>Recall Knowledge - Elemental</u>
-  ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]] )</b>: DC
-  25<br/><b><u>Unspecific Lore</u></b>: DC 23<br/><b><u>Specific Lore</u></b>: DC
-  20'
 dexterity: '+1'
 element: Earth
 fly_speed: null

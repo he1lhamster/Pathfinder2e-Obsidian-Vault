@@ -13,15 +13,6 @@ creature_ability:
 - Shameful Loathing
 - Stench
 creature_family: null
-description: 'Cruel shapechangers, popobawas feed on negative emotions, particularly
-  fear, despair, and anguish. Though they''re dangerously strong carnivores that drink
-  the blood of their victims, their greatest pleasure lies in mesmerizing victims
-  to cause suffering and spread chaos. A popobawa moves about populated areas in disguise,
-  seeking new victims and revisiting past victims to bask in their suffering, spreading
-  gossip and incriminating innocents for its crimes while still relishing its own
-  loathsome infamy.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 36<br/><b><u>Unspecific Lore</u></b>: DC 34<br/><b><u>Specific Lore</u></b>:
-  DC 31'
 dexterity: '+5'
 element: null
 fly_speed: '80'

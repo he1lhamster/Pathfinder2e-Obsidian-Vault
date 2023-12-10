@@ -11,11 +11,6 @@ creature_ability:
 - In Concert
 - Resonance
 creature_family: '[[DATABASE/monsterfamily/Elemental, Wisp|Elemental, Wisp]]'
-description: 'Earth wisps are rolling spheres of rock, mud, and leaves, perpetually
-  humming with low, rumbling energy. They''re timid and aloof, but fiercely loyal
-  to those they know and trust.<br/><br/><b><u>Recall Knowledge - Elemental</u> (
-  [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]] )</b>: DC 14<br/><b><u>Unspecific
-  Lore</u></b>: DC 12<br/><b><u>Specific Lore</u></b>: DC 9'
 dexterity: '+1'
 element: Earth
 fly_speed: null

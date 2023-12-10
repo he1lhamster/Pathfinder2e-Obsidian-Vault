@@ -3,67 +3,66 @@ ac: '19'
 alignment: N
 all_resistance: null
 burrow_speed: null
-charisma: '-4'
+charisma: '+3'
 climb_speed: null
-constitution: '+3'
+constitution: '+4'
 creature_ability:
-- Attack of Opportunity
-- Constrict
-- Giant Scorpion Venom
-creature_family: '[[DATABASE/monsterfamily/Scorpion|Scorpion]]'
-description: 'These massive, terrifying arachnids are typically 8 feet long from head
-  to the base of the tail. Giant scorpions are the favored pack animals and war beasts
-  of various desert-dwelling monsters, particularly gnolls. They are most commonly
-  encountered in the wild, however. There they lair in mountainside caves or burrow
-  beneath shallow layers of sand where they lie in wait for prey to wander near. Sleek,
-  pallid subterranean scorpions also exist, as do still larger species.<br/><br/><b><u>Recall
-  Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 18<br/><b><u>Unspecific
-  Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>: DC 13'
-dexterity: '+2'
+- Anchor The seahorse wraps its tail around either a stationary object or its rider.
+  A seahorse
+- anchored to an object gains a +2 circumstance bonus to any defense against effects
+  that would forcibly
+- move it. An anchored rider gains the same benefit against effects that would forcibly
+  knock it off the
+- seahorse. The seahorse remains anchored until it Releases its grip
+- is knocked unconscious
+- or either
+- it's forcibly moved away from the object or its rider is forcibly moved off it.
+- Camouflage
+creature_family: null
+dexterity: '+3'
 element: null
 fly_speed: null
-fortitude: '+12'
+fortitude: '+11'
 hardness: null
-hp: '45'
-id: '356'
+hp: '58'
+id: '1289'
 immunity: null
-intelligence: '-5'
-land_speed: '40'
+intelligence: '-4'
+land_speed: null
 language: null
 level: '3'
-max_speed: '40'
-name: Giant Scorpion
-perception: '+9'
+max_speed: '30'
+name: Giant Seahorse
+perception: '+10'
 rarity: Common
-reflex: '+9'
+reflex: '+10'
 resistance: null
 rus_type_level: null
 school: null
 sense:
-- darkvision
-- tremorsense (imprecise) 60 feet
+- '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Large
 skill:
 - '[[DATABASE/skill/Athletics|Athletics]] +11'
-- '[[DATABASE/skill/Stealth|Stealth]] +7'
-source: '[[DATABASE/source/Bestiary|Bestiary]]'
+- '[[DATABASE/skill/Stealth|Stealth]] +10'
+source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
-- 40 feet
+- swim 30 feet
 spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: null
+swim_speed: '30'
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
-vision: Darkvision
+vision: Low-light vision
 weakest_save:
 - Will
 weakness: null
-will: '+7'
-wisdom: '+2'
+will: '+6'
+wisdom: '+1'
 
 ---
 # Seahorse

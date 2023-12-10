@@ -16,9 +16,6 @@ creature_ability:
 - ''
 - Wasshoi! Wasshoi!
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Spirit</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 49<br/><b><u>Unspecific
-  Lore</u></b>: DC 47<br/><b><u>Specific Lore</u></b>: DC 44'
 dexterity: '+7'
 element: null
 fly_speed: null

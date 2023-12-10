@@ -12,48 +12,6 @@ creature_ability:
 - Psychogenic Secretions
 - Thoughtsense
 creature_family: null
-description: 'A cunning historian and summoner from a line of [[DATABASE/monsterfamily/Xulgath|xulgaths]]
-  who retain the psychic might of their fearsome ancestors, Kirosthrek serves [[DATABASE/monster/Sarvel
-  Ever-Hunger|Sarvel Ever-Hunger]] in the hopes of gaining the power she needs to
-  restore the xulgaths'' ruined Darklands empire. <br/><br/> [[DATABASE/monster/Xulgath
-  Thoughtmaw|Thoughtmaw xulgaths]] are larger, more intelligent, and more powerful
-  than others of their kind, and Kirosthrek has long embraced that truth. Where many
-  of her kin heard only fanciful legend and exaggerated myth in the tales told by
-  her clutch''s elders, those recountings of powerful xulgaths ruling the Darklands
-  resonated with Kirosthrek. Most of her kin feared the spirits of the past and looked
-  only to the present and the future, but Kirosthrek dug into that past, hunting through
-  the ruins of the long-dead xulgath empire around her for fragments of lost lore
-  and forgotten secrets.<br/><br/> Bit by bit, Kirosthrek expanded her knowledge.
-  From ancient texts, she began to piece together even more powerful spells and rituals.
-  Others in her clutch came to fear the ancient magic she commanded, and so she found
-  herself with followers willing to do her bidding if she spared their minds. She
-  took her elders'' place, telling not mere tales but true histories of their people,
-  of the Darklands vault they once ruled and the abrupt end of that empire. The thoughtmaws
-  were the true descendants of that empire, she insisted, and some day they would
-  rule it again.<br/><br/> The isolated clutch she led was too small to retake an
-  empire single-handedly, so Kirosthrek sought allies. This search brought to her
-  attention a high priest of [[DATABASE/deity/Zevgavizeb|Zevgavizeb]] calling himself
-  Sarvel Ever-Hunger, leading a fierce conquest in the upper Darklands. He was a lesser
-  xulgath, but one infused with fiendish might and the blessings of a demon lord,
-  and so Kirosthrek led her clutch to join forces with this new conqueror, hoping
-  to subjugate the priest into furthering her own goals.<br/><br/> Sarvel was not
-  easily subjugated, however, and while he welcomed the thoughtmaws'' addition to
-  his might, Kirosthrek was forced to adjust her own plans and serve as Sarvel''s
-  chief advisor. The priest''s interests were not so different from her own, she found;
-  furthermore, he held his own scraps of knowledge about the ancient empire Kirosthrek
-  so admired. From him, she learned that the vault they ruled had been known as Vask,
-  and that some sudden tragedy had darkened the life-giving suns of that realm. She
-  took that name to her daemonic allies, seeking to learn more about that catastrophe,
-  and from them, she learned about Aroden''s theft. For Kirosthrek, this revelation
-  was a clear directive: she would go find the sun-orbs Aroden had stolen and reclaim
-  them, using their power to rebuild the empire of old.<br/><br/> And for a time,
-  it seemed Sarvel shared her goals. The conquering high priest fixed his sights on
-  the surface world, organizing an operation with enough subtlety and savvy that Kirosthrek
-  began to consider him a suitable leader. But Sarvel''s true goal with the orbs is
-  now clear to her: rather than reclaim the orbs, he wants them destroyed. Hoping
-  to make the most of a plan gone wrong, Kirosthrek continues to aid Sarvel, but only
-  from a lack of better options; her opinion of the priest now calling himself the
-  Apocalypse Prophet continues to sour.'
 dexterity: '+3'
 element: null
 fly_speed: '35'

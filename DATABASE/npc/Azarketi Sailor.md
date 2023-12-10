@@ -12,14 +12,6 @@ creature_ability:
 - Submerged Stealth
 - Swinging Strike
 creature_family: '[[DATABASE/monsterfamily/Azarketi|Azarketi]]'
-description: 'Azarketis with more adventurous spirits often learn the art of sailing
-  and join the crew of a ship. Such sailors get to enjoy their time above deck while
-  also having near-constant access to large bodies of water. Ship captains also appreciate
-  having azarketis on board, as they''re able to easily scrape barnacles off the hull,
-  check the rudder, and help patch any leaks. Though they have a talent for swimming
-  more than sailing, they''ve earned a reputation as lucky to have on board.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 16<br/><b><u>Unspecific
-  Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>: DC 11'
 dexterity: '+4'
 element: null
 fly_speed: null

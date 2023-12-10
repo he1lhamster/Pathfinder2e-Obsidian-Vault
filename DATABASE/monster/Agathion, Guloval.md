@@ -1,83 +1,84 @@
 ﻿---
-ac: '42'
-alignment: N
+ac: '32'
+alignment: NG
 all_resistance: null
-burrow_speed: null
-charisma: '-5'
+burrow_speed: '20'
+charisma: '+3'
 climb_speed: null
-constitution: '+6'
+constitution: '+5'
 creature_ability:
-- Breath Weapon
-- Decapitation
-- Golem Antimagic
-- Guillotine Golem Poison
-- Inexorable March
-- ''
-- Vulnerable to Neutralize Poison
-- Vulnerable to Rust
-creature_family: '[[DATABASE/monsterfamily/Golem|Golem]]'
-description: This creature did not include a description.
-dexterity: '+0'
+- Interposition
+- Righteous Wound
+- Shield Ward
+- Wolverine's Protection
+creature_family: '[[DATABASE/monsterfamily/Agathion|Agathion]]'
+dexterity: '+4'
 element: null
 fly_speed: null
-fortitude: '+33'
+fortitude: '+22'
 hardness: null
-hp: '270'
-id: '1650'
-immunity:
-- bleed
-- death effects
-- '[[DATABASE/trait/Disease|disease]]'
-- '[[DATABASE/condition/Doomed|doomed]]'
-- '[[DATABASE/condition/Drained|drained]]'
-- '[[DATABASE/condition/Fatigued|fatigued]]'
-- fire
-- healing
-- magic (see below)
-- '[[DATABASE/trait/Mental|mental]]'
-- '[[DATABASE/trait/Necromancy|necromancy]]'
-- nonlethal attacks
-- '[[DATABASE/condition/Paralyzed|paralyzed]]'
-- '[[DATABASE/trait/Poison|poison]]'
-- '[[DATABASE/condition/Sickened|sickened]]'
-- '[[DATABASE/condition/Unconscious|unconscious]]'
-- '[[DATABASE/condition/Fatigued|fatigued]]'
-intelligence: '-5'
-land_speed: '20'
-language: null
-level: '18'
-max_speed: '20'
-name: Guillotine Golem
-perception: '+28'
-rarity: Rare
-reflex: '+28'
-resistance:
-- physical 20 (except adamantine)
+hp: '250'
+id: '2078'
+immunity: null
+intelligence: '+4'
+land_speed: '25'
+language:
+- '[[DATABASE/language/Celestial|Celestial]]'
+- '[[DATABASE/language/Common|Common]]'
+- '[[DATABASE/language/Draconic|Draconic]]'
+- '[[DATABASE/language/Infernal|Infernal]] ; [[DATABASE/spell/Speak with Animals|speak
+  with animals]]'
+level: '12'
+max_speed: '25'
+name: Guloval
+perception: '+23'
+rarity: Uncommon
+reflex: '+21'
+resistance: null
 rus_type_level: null
 school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
-size: Medium
+size: Small
 skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +38'
-source: '[[DATABASE/source/Night of the Gray Death|Night of the Gray Death]]'
+- '[[DATABASE/skill/Athletics|Athletics]] +25'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +21'
+- '[[DATABASE/skill/Nature|Nature]] +23'
+- '[[DATABASE/skill/Lore|Nirvana Lore]] +22'
+- '[[DATABASE/skill/Survival|Survival]] +23'
+source: '[[DATABASE/source/Pathfinder 183. Field of Maidens|Pathfinder #183: Field
+  of Maidens]]'
 speed:
-- 20 feet
-spell: null
-strength: '+9'
-strength_req: '9'
+- 25 feet
+- burrow 20 feet
+spell:
+- '[[DATABASE/spell/Blink Charge|Blink Charge]]'
+- '[[DATABASE/spell/Breath of Life|Breathof Life]]'
+- '[[DATABASE/spell/Circle of Protection|Circle of Protection]]'
+- '[[DATABASE/spell/Divine Wrath|Divine Wrath]]'
+- '[[DATABASE/spell/Remove Curse|Remove Curse]]'
+- '[[DATABASE/spell/Remove Disease|Remove Disease]]'
+- '[[DATABASE/spell/Remove Fear|Remove Fear]]'
+- '[[DATABASE/spell/Righteous Might|Righteous Might]]'
+- '[[DATABASE/spell/Shield Other|Shield Other]]'
+- '[[DATABASE/spell/Speak with Animals|Speak with Animals]]'
+strength: '+7'
+strength_req: '7'
 strongest_save:
-- Fortitude
+- Will
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Rare|Rare]]'
+- '[[DATABASE/trait/Agathion|Agathion]]'
+- '[[DATABASE/trait/Celestial|Celestial]]'
+- '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
-will: '+29'
-wisdom: '+0'
+weakness:
+- evil 10
+will: '+24'
+wisdom: '+5'
 
 ---
 # Agathion, Guloval

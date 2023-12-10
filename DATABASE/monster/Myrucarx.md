@@ -13,18 +13,6 @@ creature_ability:
 - Painful Light
 - Twisting Reach
 creature_family: null
-description: 'The slithering, shapeless beings known as myrucarxes occasionally slip
-  into the [[DATABASE/plane/Material Plane|Material Plane]] from their domains deep
-  in the [[DATABASE/equipment/Shadow|Shadow Plane]] , seeking to torment those who
-  love light. Myrucarxes weave powerful illusions to draw unsuspecting victims into
-  their squirming embrace, and they favor large cities as hunting grounds. Rather
-  than devastate a community, a myrucarx instead prefers to snatch only a few victims
-  to engender fear and paranoia, then retreat somewhere dark to hibernate for months
-  or years before renewing its terrors. A myrucarx resembles a monstrous, oily slug
-  with tentacles ending in gnashing jaws, but most victims only ever see the illusory
-  personas it projects to lure and torment its prey.<br/><br/><b><u>Recall Knowledge
-  - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 43<br/><b><u>Unspecific
-  Lore</u></b>: DC 41<br/><b><u>Specific Lore</u></b>: DC 38'
 dexterity: '+6'
 element: null
 fly_speed: null

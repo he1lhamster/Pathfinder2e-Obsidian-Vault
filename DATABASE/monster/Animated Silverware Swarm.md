@@ -11,11 +11,6 @@ creature_ability:
 - Slice and Dice
 - Stick a Fork in It
 creature_family: '[[DATABASE/monsterfamily/Animated Object|Animated Object]]'
-description: 'Nobles are known to pay great amounts to animate their silverware, both
-  for ease in cleaning and to serve as novelties during dinner parties.<br/><br/><b><u>Recall
-  Knowledge - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]]
-  )</b>: DC 15<br/><b><u>Unspecific Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>:
-  DC 10'
 dexterity: '+3'
 element: null
 fly_speed: null

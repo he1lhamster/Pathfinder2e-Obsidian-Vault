@@ -10,13 +10,6 @@ creature_ability:
 - Electrolocation
 - Stingray Venom
 creature_family: '[[DATABASE/monsterfamily/Ray|Ray]]'
-description: 'Found in salt or fresh water, stingrays are normally passive creatures,
-  but when threatened or cornered, they lash out with their tails to lance foes with
-  their toxic stingers. Stingrays often bury themselves in mud, sand, or sea grass,
-  and unfortunately for those wading in shallow waters, stepping on an unseen stingray
-  is a surefire way to receive a painful sting.<br/><br/><b><u>Recall Knowledge -
-  Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 14<br/><b><u>Unspecific
-  Lore</u></b>: DC 12<br/><b><u>Specific Lore</u></b>: DC 9'
 dexterity: '+3'
 element: null
 fly_speed: null

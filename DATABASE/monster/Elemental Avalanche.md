@@ -13,10 +13,6 @@ creature_ability:
 - Spike Stones
 - Trample
 creature_family: '[[DATABASE/monsterfamily/Elemental, Earth|Elemental, Earth]]'
-description: 'Stubborn and ponderous, elemental avalanches are massive beings of living
-  rock and dirt.<br/><br/><b><u>Recall Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Nature|Nature]] )</b>: DC 28<br/><b><u>Unspecific Lore</u></b>:
-  DC 26<br/><b><u>Specific Lore</u></b>: DC 23'
 dexterity: '-1'
 element: Earth
 fly_speed: null

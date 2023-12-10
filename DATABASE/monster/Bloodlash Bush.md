@@ -11,12 +11,6 @@ creature_ability:
 - Spinning Strike
 - Weeping Wounds
 creature_family: '[[DATABASE/monsterfamily/Deadly Flora|Deadly Flora]]'
-description: 'What first appears to be a simple shrub suddenly stirs to life.<br/><br/>The
-  bloodlash bush attempts to lacerate its foes, using its weeping wounds to irrigate
-  the ground around itself. The seeds of a bloodlash bush can take root only in soil
-  that has been soaked in blood.<br/><br/><b><u>Recall Knowledge - Plant</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 16<br/><b><u>Unspecific Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>:
-  DC 11'
 dexterity: '+2'
 element: null
 fly_speed: null

@@ -11,15 +11,6 @@ creature_ability:
 - Change Shape
 - Feed
 creature_family: '[[DATABASE/monsterfamily/Barghest|Barghest]]'
-description: 'Typical barghests are ravenous gluttons of life who feed and grow on
-  the fat of mortals, their bodies changing in ways none can predict as they use the
-  flesh and blood of their victims to achieve grisly transformations into greater
-  barghests. Barghests often make use of their shapechanging abilities to rule tribes
-  of goblinoids or to discreetly hunt in rural areas in the guise of unnaturally intelligent
-  wolves. They do not work well together, as each barghest wants all the kills for
-  itself; cannibalism is the typical result of too many barghests in one small area.<br/><br/><b><u>Recall
-  Knowledge - Fiend</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 19<br/><b><u>Unspecific
-  Lore</u></b>: DC 17<br/><b><u>Specific Lore</u></b>: DC 14'
 dexterity: '+2'
 element: null
 fly_speed: null

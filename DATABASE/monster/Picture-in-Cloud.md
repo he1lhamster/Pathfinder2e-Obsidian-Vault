@@ -15,12 +15,6 @@ creature_ability:
 - Slicing Wind
 - Swiftness
 creature_family: '[[DATABASE/monsterfamily/Elemental, Air|Elemental, Air]]'
-description: 'The shifting shapes of clouds in the sky have captivated the imaginations
-  of mortal children for centuries. Pictures-in-clouds represent this pure possibility
-  of air, transforming into anything the [[DATABASE/plane/Material Plane|Universe]]
-  imagines them to be.<br/><br/><b><u>Recall Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Nature|Nature]] )</b>: DC 31<br/><b><u>Unspecific Lore</u></b>:
-  DC 29<br/><b><u>Specific Lore</u></b>: DC 26'
 dexterity: '+8'
 element: Air
 fly_speed: '100'

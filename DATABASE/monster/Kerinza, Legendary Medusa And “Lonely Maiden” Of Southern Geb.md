@@ -1,77 +1,85 @@
 ﻿---
-ac: '21'
-alignment: NE
+ac: '32'
+alignment: CE
 all_resistance: null
 burrow_speed: null
 charisma: '+4'
 climb_speed: null
-constitution: '+3'
+constitution: '+2'
 creature_ability:
-- Captivating Lure
-- Change Shape
+- Biting Snakes
+- Focus Gaze
+- Petrifying Gaze
+- Quick Responses
+- Serpent Venom
 creature_family: null
-description: "Kelpies are malevolent amphibious fey shapechangers intent on luring\
-  \ mortals to their doom. These cruel predators lurk in and around areas of water,\
-  \ slightly preferring freshwater over saltwater. Kelpies lure or drag their prey\
-  \ underwater then drown and devour them, leaving behind only the victim's heart\
-  \ and liver\u2014 the only parts of a meal kelpies find unpleasant. Kelpies are\
-  \ fond of magically disguising itself as fine steeds or attractive strangers to\
-  \ draw in victims, but its true appearance takes the form of a hideous equine with\
-  \ slimy, green flesh resembling aquatic plants.<br/><br/><b><u>Recall Knowledge\
-  \ - Fey</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 19<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 17<br/><b><u>Specific Lore</u></b>: DC 14"
-dexterity: '+2'
+dexterity: '+7'
 element: null
 fly_speed: null
-fortitude: '+11'
+fortitude: '+18'
 hardness: null
-hp: '60'
-id: '709'
+hp: '235'
+id: '2083'
 immunity: null
-intelligence: '-1'
-land_speed: '35'
+intelligence: '+2'
+land_speed: '30'
 language:
-- '[[DATABASE/language/Aquan|Aquan]]'
 - '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Sylvan|Sylvan]]'
-level: '4'
-max_speed: '35'
-name: Kelpie
-perception: '+11'
-rarity: Common
-reflex: '+12'
-resistance:
-- fire 5
+- '[[DATABASE/language/Draconic|Draconic]]'
+- '[[DATABASE/language/Varisian|Varisian]]'
+level: '12'
+max_speed: '30'
+name: Kerinza
+perception: '+23'
+rarity: Unique
+reflex: '+23'
+resistance: null
 rus_type_level: null
 school: null
 sense:
-- '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
-size: Large
+- '[[DATABASE/monsterability/Darkvision|darkvision]]'
+size: Medium
 skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +11'
-- '[[DATABASE/skill/Deception|Deception]] +14'
-- '[[DATABASE/skill/Stealth|Stealth]] +10'
-source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +23'
+- '[[DATABASE/skill/Deception|Deception]] +22'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +22'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +22'
+- '[[DATABASE/skill/Nature|Nature]] +21'
+- '[[DATABASE/skill/Stealth|Stealth]] +25'
+source: '[[DATABASE/source/Pathfinder 183. Field of Maidens|Pathfinder #183: Field
+  of Maidens]]'
 speed:
-- 35 feet
-- swim 35 feet
-spell: null
-strength: '+5'
-strength_req: '5'
+- 30 feet
+spell:
+- '[[DATABASE/spell/Chain Lightning|Chain Lightning]]'
+- '[[DATABASE/spell/Charm|Charm]]'
+- '[[DATABASE/spell/Cloudkill|Cloudkill]]'
+- '[[DATABASE/spell/Detect Magic|Detect Magic]]'
+- '[[DATABASE/spell/Dispel Magic|Dispel Magic]]'
+- '[[DATABASE/spell/Dream Message|Dream Message]]'
+- '[[DATABASE/spell/Electric Arc|Electric Arc]]'
+- '[[DATABASE/spell/Ghost Sound|Ghost Sound]]'
+- '[[DATABASE/spell/Produce Flame|Produce Flame]]'
+- '[[DATABASE/spell/Shield|Shield]]'
+- '[[DATABASE/spell/Stone Tell|StoneTell]]'
+- '[[DATABASE/spell/Stone to Flesh|Stone to Flesh]]'
+- '[[DATABASE/spell/Stoneskin|Stoneskin]]'
+- '[[DATABASE/spell/Wall of Stone|Wallof Stone]]'
+strength: '+4'
+strength_req: '4'
 strongest_save:
-- Will
-swim_speed: '35'
+- Reflex
+swim_speed: null
 trait:
-- '[[DATABASE/trait/Amphibious|Amphibious]]'
-- '[[DATABASE/trait/Fey|Fey]]'
+- '[[DATABASE/trait/Humanoid|Humanoid]]'
+- '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: Low-light vision
+vision: Darkvision
 weakest_save:
 - Fortitude
-weakness:
-- cold iron 5
-will: '+14'
-wisdom: '+3'
+weakness: null
+will: '+21'
+wisdom: '+5'
 
 ---
 # Kerinza, Legendary Medusa And “Lonely Maiden” Of Southern Geb

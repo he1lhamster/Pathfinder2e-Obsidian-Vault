@@ -9,12 +9,6 @@ constitution: '+9'
 creature_ability:
 - Manifest Fetch Weapon
 creature_family: '[[DATABASE/monsterfamily/Fetch|Fetch]]'
-description: 'Fetch stalkers form from the souls of Medium or Small [[DATABASE/trait/Fey|fey]]
-  or [[DATABASE/trait/Humanoid|humanoids]] (Small fetch stalkers have the same statistics
-  as Medium ones.)<br/><br/><b><u>Recall Knowledge - Fey</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 43<br/><b><u>Recall Knowledge - Plant</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 43<br/><b><u>Unspecific Lore</u></b>: DC 41<br/><b><u>Specific Lore</u></b>:
-  DC 38'
 dexterity: '+6'
 element: null
 fly_speed: null

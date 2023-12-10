@@ -9,11 +9,6 @@ constitution: '+4'
 creature_ability:
 - Deep Breath
 creature_family: '[[DATABASE/monsterfamily/Lizardfolk|Lizardfolk]]'
-description: 'Among the Terwa Lord clans, iruxis display immense, unrefined magical
-  talent from a very young age. These abilities reveal themselves in a wide number
-  of ways, but advanced spellcasting is the most common.<br/><br/><b><u>Recall Knowledge
-  - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 24<br/><b><u>Unspecific
-  Lore</u></b>: DC 22<br/><b><u>Specific Lore</u></b>: DC 19'
 dexterity: '+5'
 element: null
 fly_speed: null

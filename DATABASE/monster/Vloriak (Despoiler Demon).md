@@ -1,89 +1,73 @@
 ﻿---
-ac: '39'
-alignment: N
+ac: '21'
+alignment: CE
 all_resistance: null
 burrow_speed: null
-charisma: '+0'
+charisma: '+3'
 climb_speed: null
-constitution: '+9'
+constitution: '+4'
 creature_ability:
-- Blood Eruption
-- Bloodsense
-- Constrict
-- Forced Transfusion
-- Sanguine Rain
-creature_family: null
-description: "Foul occult magic, rare alchemical reagents, and copious amounts of\
-  \ spilled blood are the keys to creating a vitalia\u2014also known as a heart horror\u2014\
-  \ though thankfully the exact means of their creation has been long forgotten.<br/><br/>\
-  \ Now, most vitalias now come into being by sheer accident. This unusual life-form\
-  \ cannot live without regular contact with blood, much like how fish cannot live\
-  \ long outside of water. Because of this, vitalias are rarely found outside the\
-  \ lairs of mad alchemists or wizards, living in pools of the life-giving substance.\
-  \ Physically, a vitalia somewhat resembles a blood-red [[DATABASE/monster/Giant\
-  \ Jellyfish|giant jellyfish]] , though it also bears some semblance to a giant human\
-  \ heart.<br/><br/><b><u>Recall Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]]\
-  \ )</b>: DC 43<br/><b><u>Unspecific Lore</u></b>: DC 41<br/><b><u>Specific Lore</u></b>:\
-  \ DC 38"
-dexterity: '+5'
+- Lick Rust
+- Restoration Vulnerability
+- Rust
+- Spew Rusted Shards
+creature_family: '[[DATABASE/monsterfamily/Demon|Demon]]'
+dexterity: '+2'
 element: null
 fly_speed: null
-fortitude: '+35'
+fortitude: '+15'
 hardness: null
-hp: 425 ( fast healing 20 )
-id: '880'
-immunity:
-- bleed
-- '[[DATABASE/trait/Mental|mental]]'
-- '[[DATABASE/trait/Sleep|sleep]]'
-- '[[DATABASE/condition/Unconscious|unconscious]]'
-- '[[DATABASE/trait/Visual|visual]]'
-intelligence: '-5'
-land_speed: '15'
-language: null
-level: '18'
-max_speed: '30'
-name: Vitalia
-perception: '+30'
-rarity: Rare
-reflex: '+25'
-resistance: null
+hp: '90'
+id: '2727'
+immunity: null
+intelligence: '-1'
+land_speed: '25'
+language:
+- '[[DATABASE/language/Abyssal|Abyssal]]'
+- '[[DATABASE/language/Common|Common]] ; [[DATABASE/monsterability/Telepathy|telepathy]]
+  100 feet'
+level: '5'
+max_speed: '25'
+name: Vloriak
+perception: '+13'
+rarity: Uncommon
+reflex: '+11'
+resistance:
+- '[[DATABASE/trait/Acid|acid]] 5'
 rus_type_level: null
 school: null
 sense:
-- bloodsense (precise) 30 feet
-- '[[DATABASE/monsterability/Tremorsense|tremorsense (imprecise)60 feet]]'
-- no vision
-size: Large
+- '[[DATABASE/monsterability/Darkvision|darkvision]]'
+size: Medium
 skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +33'
-source: '[[DATABASE/source/Pathfinder 155. Lord of the Black Sands|Pathfinder #155:
-  Lord of the Black Sands]]'
+- '[[DATABASE/skill/Athletics|Athletics]] +13'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +12'
+source: '[[DATABASE/source/Rusthenge|Rusthenge]]'
 speed:
-- 15 feet
-- swim 30 feet
+- 25 feet
 spell:
-- '[[DATABASE/spell/Status|Status]]'
-- '[[DATABASE/spell/Vampiric Exsanguination|VampiricExsanguination]]'
-- '[[DATABASE/spell/Vampiric Touch|Vampiric Touch]]'
-strength: '+7'
-strength_req: '7'
+- '[[DATABASE/spell/Acid Arrow|Acid Arrow]]'
+- '[[DATABASE/spell/Acid Splash|AcidSplash]]'
+- '[[DATABASE/spell/Paralyze|Paralyze]]'
+- '[[DATABASE/spell/Shatter|Shatter]]'
+strength: '+4'
+strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: '30'
+swim_speed: null
 trait:
-- '[[DATABASE/trait/Aberration|Aberration]]'
-- '[[DATABASE/trait/Aquatic|Aquatic]]'
-- '[[DATABASE/trait/Mindless|Mindless]]'
-- '[[DATABASE/trait/Rare|Rare]]'
+- '[[DATABASE/trait/Demon|Demon]]'
+- '[[DATABASE/trait/Fiend|Fiend]]'
+- '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: null
+vision: Darkvision
 weakest_save:
-- Will
+- Reflex
 weakness:
-- piercing 15
-will: '+24'
-wisdom: '+0'
+- '[[DATABASE/equipment/Cold Iron|cold iron]] 5'
+- good 5
+will: '+13'
+wisdom: '+4'
 
 ---
 # Vloriak (Despoiler Demon)

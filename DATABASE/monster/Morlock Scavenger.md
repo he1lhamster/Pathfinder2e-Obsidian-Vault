@@ -12,10 +12,6 @@ creature_ability:
 - Sneak Attack
 - Swarming Stance
 creature_family: '[[DATABASE/monsterfamily/Morlock|Morlock]]'
-description: 'The morlock scavenger is a lankier, smaller version of a typical morlock.
-  Their stature allows them to wriggle into areas other morlocks can''t access.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 15<br/><b><u>Unspecific
-  Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>: DC 10'
 dexterity: '+4'
 element: null
 fly_speed: null

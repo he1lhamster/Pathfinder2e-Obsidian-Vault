@@ -14,13 +14,6 @@ creature_ability:
 - Polyglot
 - Viscous Trap
 creature_family: null
-description: 'The bizarre shapeshifters known as mezlans were created ages ago as
-  spies and infiltrators by a long-forgotten ritual infusing a magically constructed
-  ooze with the soul of an exceptional sapient being. Having long since outlasted
-  their creators, mezlans most often dwell alone amongst the ruins of the ancient
-  civilizations they served as mortals.<br/><br/><b><u>Recall Knowledge - Ooze</u>
-  ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 37<br/><b><u>Unspecific Lore</u></b>:
-  DC 35<br/><b><u>Specific Lore</u></b>: DC 32'
 dexterity: '+6'
 element: null
 fly_speed: null

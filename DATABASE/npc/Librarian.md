@@ -9,13 +9,6 @@ constitution: '+0'
 creature_ability:
 - Methodical Research
 creature_family: '[[DATABASE/monsterfamily/Scholars|Scholars]]'
-description: 'Keepers of knowledge, librarians document discoveries, events, and laws.
-  The best librarians record events twice; once for public record, and again to record
-  how events truly unfolded. A librarian typically knows four to six additional languages,
-  often including [[DATABASE/language/Elven|Elven]] and [[DATABASE/language/Draconic|Draconic]]
-  . A librarian is a 3rd-level challenge for encounters involving research.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 13<br/><b><u>Unspecific
-  Lore</u></b>: DC 11<br/><b><u>Specific Lore</u></b>: DC 8'
 dexterity: '+1'
 element: null
 fly_speed: null

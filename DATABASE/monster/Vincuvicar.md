@@ -13,10 +13,6 @@ creature_ability:
 - Institutionalized
 - Shackle
 creature_family: '[[DATABASE/monsterfamily/Velstrac|Velstrac]]'
-description: 'Prison keepers among velstracs, vincuvicar velstracs thrive on depriving
-  others of freedom.<br/><br/><b><u>Recall Knowledge - Fiend</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 38<br/><b><u>Unspecific Lore</u></b>: DC 36<br/><b><u>Specific Lore</u></b>:
-  DC 33'
 dexterity: '+6'
 element: null
 fly_speed: null

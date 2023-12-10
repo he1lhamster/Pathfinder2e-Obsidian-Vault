@@ -12,11 +12,6 @@ creature_ability:
 - Shark Commune
 - Unimpeded Throw
 creature_family: '[[DATABASE/monsterfamily/Sea Devil|Sea Devil]]'
-description: 'Physically imposing sea devils are equipped with some of the best weaponry
-  the community can find, though most are happy to rend their foes using tooth and
-  nail.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 19<br/><b><u>Unspecific Lore</u></b>: DC 17<br/><b><u>Specific Lore</u></b>:
-  DC 14'
 dexterity: '+1'
 element: null
 fly_speed: null

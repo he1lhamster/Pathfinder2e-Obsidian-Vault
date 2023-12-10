@@ -12,11 +12,6 @@ creature_ability:
 - Savage
 - Swallow Whole
 creature_family: '[[DATABASE/monsterfamily/Shark|Shark]]'
-description: 'Prehistoric sharks of incredible size, strength, and ferocity, megalodons
-  scour waters deep and shallow to sate their considerable hunger. The presence of
-  a megalodon undeniably affects the local aquatic ecosystem.<br/><br/><b><u>Recall
-  Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 28<br/><b><u>Unspecific
-  Lore</u></b>: DC 26<br/><b><u>Specific Lore</u></b>: DC 23'
 dexterity: '+2'
 element: null
 fly_speed: null

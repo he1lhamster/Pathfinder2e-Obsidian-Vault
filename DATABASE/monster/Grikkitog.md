@@ -13,16 +13,6 @@ creature_ability:
 - Infestation Aura
 - Manifold Vision
 creature_family: null
-description: "Grikkitogs, also known as \u201Chungry earth,\u201D are strange parasites\
-  \ from the Plane of Earth that infest and possess earth, rock, and stone in order\
-  \ to feed their endless hunger. A young grikkitog is a formless apparition until\
-  \ it corrupts an earth elemental host, forming the grikkitog\u2019s core. A grikkitog\
-  \ can then infest the earth and stone nearby with its voracious essence, forming\
-  \ maws and eyes all around it. These creatures are particularly dangerous to small\
-  \ creatures that lair within gaps and holes among rocks, as well as mountain climbers\
-  \ searching for the perfect handhold.<br/><br/><b><u>Recall Knowledge - Aberration</u>\
-  \ ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 32<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 30<br/><b><u>Specific Lore</u></b>: DC 27"
 dexterity: '+4'
 element: Earth
 fly_speed: null

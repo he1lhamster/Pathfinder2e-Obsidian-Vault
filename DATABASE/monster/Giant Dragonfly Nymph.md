@@ -9,13 +9,6 @@ constitution: '+4'
 creature_ability:
 - Extend Mandibles
 creature_family: '[[DATABASE/monsterfamily/Dragonfly|Dragonfly]]'
-description: 'The aquatic, wingless offspring of dragonflies are called dragonfly
-  nymphs. Giant dragonfly nymphs can be several feet in length and mostly hunt in
-  shallow waters, eating carrion and ambushing living creatures with their fully grown
-  counterparts. They are not daunted by larger creatures, compelled by their instinct
-  to eat as much as possible to sustain their growth.<br/><br/><b><u>Recall Knowledge
-  - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 18<br/><b><u>Unspecific
-  Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>: DC 13'
 dexterity: '+2'
 element: null
 fly_speed: null

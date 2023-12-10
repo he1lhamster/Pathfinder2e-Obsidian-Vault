@@ -11,22 +11,6 @@ creature_ability:
 - Pre-Programmed Greeting
 - Wind-Up
 creature_family: '[[DATABASE/monsterfamily/Clockworks|Clockworks]]'
-description: "With the rise of the automated workforce in Alkenstar came the \u201C\
-  professional\u201D line of clockworks, capable of carrying out more complex tasks\
-  \ and even interacting with the public. These clockworks were given modules inscribed\
-  \ with information and procedures for carrying out a specific profession. The clockwork\
-  \ brewer is one such example, capable of extracting wort, stirring a fermenter,\
-  \ or monitoring a boiling temperature. As many other types of clockwork professional\
-  \ exist as there are professions; clockworks have been programmed to reshelf library\
-  \ books, swab ship decks, and fill holes in heavily trafficked roads.<br/><br/>\
-  \ Clockwork professionals made by reputable manufacturers are generally considered\
-  \ safe to interact with the public. Accidents have been known to occur, however,\
-  \ particularly when careless engineers fail to perform regular maintenance checks\
-  \ or when operators program a clockwork with insufficiently specific directives.\
-  \ Flesh and blood laborers forced to work in close proximity to a clockwork professional\
-  \ tend to keep a wide berth.<br/><br/><b><u>Recall Knowledge - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]]\
-  \ , [[DATABASE/skill/Crafting|Crafting]] )</b>: DC 20<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 18<br/><b><u>Specific Lore</u></b>: DC 15"
 dexterity: '+3'
 element: null
 fly_speed: null

@@ -15,15 +15,6 @@ creature_ability:
 - Curse
 - Thicket Walker
 creature_family: '[[DATABASE/monsterfamily/Thatchling|Thatchling]]'
-description: "When a soul doomed to become a thatchling dies in the throes of great\
-  \ anguish, they can return after death as a red-hooded thatchling. These vengeful\
-  \ thatchlings appear to wear red hoods when viewed at a distance, but up close,\
-  \ the grisly truth\u2014that their heads are blood-soaked\u2014is revealed. Unlike\
-  \ other thatchlings, red-hooded thatchlings are skilled at trickery, and their ability\
-  \ to appear as a living [[DATABASE/trait/Humanoid|humanoid]] through illusion magic\
-  \ allows them to lure the unexpected into ambushes much more easily.<br/><br/><b><u>Recall\
-  \ Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 21<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 19<br/><b><u>Specific Lore</u></b>: DC 16"
 dexterity: '+3'
 element: null
 fly_speed: null

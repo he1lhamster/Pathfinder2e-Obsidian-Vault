@@ -1,90 +1,78 @@
 ﻿---
-ac: '33'
-alignment: CE
+ac: '20'
+alignment: LE
 all_resistance: null
 burrow_speed: null
-charisma: '+7'
+charisma: '+1'
 climb_speed: null
-constitution: '+0'
+constitution: '+1'
 creature_ability:
-- Little Favors
-- Rejuvenation
-- Zealous Restoration
-creature_family: null
-description: "Zealborn arise from mortals who become consumed by a noble or idealistic\
-  \ vision and choose undeath as a means of pursuing that vision. Unlike [[DATABASE/monsterfamily/Lich|liches]]\
-  \ , who use undeath as a path toward immortality and individual power, zealborn\
-  \ undergo their transformation with the total conviction that their cause is so\
-  \ just it should never die. They manipulate and control dozens of fanatical followers\
-  \ who sacrifice themselves\u2014and rise again as powerful zeal-damned ghouls\u2014\
-  for the zealborn's cause.<br/><br/><b><u>Recall Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]]\
-  \ )</b>: DC 32<br/><b><u>Unspecific Lore</u></b>: DC 30<br/><b><u>Specific Lore</u></b>:\
-  \ DC 27"
+- Cocytan Filth
+- Infernal Eye
+- Sneak Attack
+creature_family: '[[DATABASE/monsterfamily/Devil|Devil]]'
 dexterity: '+4'
 element: null
-fly_speed: null
-fortitude: '+18'
+fly_speed: '50'
+fortitude: '+8'
 hardness: null
-hp: 210 (rejuvenation)
-id: '1014'
+hp: '30'
+id: '606'
 immunity:
-- '[[DATABASE/trait/Death|death]] effects'
-- '[[DATABASE/trait/Disease|disease]]'
-- '[[DATABASE/trait/Negative|negative]]'
-- '[[DATABASE/condition/Paralyzed|paralyzed]]'
-- '[[DATABASE/trait/Poison|poison]]'
-- '[[DATABASE/condition/Unconscious|unconscious]]'
-intelligence: '+1'
-land_speed: '25'
+- fire
+intelligence: '+0'
+land_speed: '15'
 language:
-- '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Necril|Necril]]'
-level: '12'
-max_speed: '25'
-name: Zealborn
-perception: '+23'
-rarity: Uncommon
-reflex: '+22'
+- '[[DATABASE/language/Celestial|Celestial]]'
+- '[[DATABASE/language/Draconic|Draconic]]'
+- '[[DATABASE/language/Infernal|Infernal]] ; [[DATABASE/monsterability/Telepathy|telepathy
+  100 feet]]'
+level: '3'
+max_speed: '50'
+name: Zebub
+perception: '+12'
+rarity: Common
+reflex: '+10'
 resistance:
-- chaotic 10
+- physical 5 (except [[DATABASE/equipment/Silver|silver]] )
+- poison 5
 rus_type_level: null
 school: null
 sense:
-- '[[DATABASE/monsterability/Darkvision|darkvision]]'
-size: Medium
+- '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
+size: Small
 skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +25'
-- '[[DATABASE/skill/Deception|Deception]] +25'
-- '[[DATABASE/skill/Diplomacy|Diplomacy]] +27'
-- '[[DATABASE/skill/Society|Society]] +19'
-- '[[DATABASE/skill/Stealth|Stealth]] +22'
-source: '[[DATABASE/source/Pathfinder 161. Belly of the Black Whale|Pathfinder #161:
-  Belly of the Black Whale]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +10'
+- '[[DATABASE/skill/Arcana|Arcana]] +7'
+- '[[DATABASE/skill/Deception|Deception]] +8'
+- '[[DATABASE/skill/Religion|Religion]] +9'
+- '[[DATABASE/skill/Stealth|Stealth]] +10'
+source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
-- 25 feet
+- 15 feet
+- fly 50 feet
 spell:
-- '[[DATABASE/spell/Dominate|Dominate]]'
-- '[[DATABASE/spell/Enthrall|Enthrall]]'
-- '[[DATABASE/spell/Hallucination|Hallucination]]'
-- '[[DATABASE/spell/Illusory Creature|Illusory Creature]]'
-- '[[DATABASE/spell/Subconscious Suggestion|Subconscious Suggestion]]'
-- '[[DATABASE/spell/Veil|Veil]]'
-- '[[DATABASE/spell/Zealous Conviction|Zealous Conviction]]'
-strength: '+5'
-strength_req: '5'
+- '[[DATABASE/spell/Dimension Door|Dimension Door]]'
+- '[[DATABASE/spell/Invisibility|Invisibility]]'
+- '[[DATABASE/spell/Message|Message]]'
+- '[[DATABASE/spell/Summon Animal|Summon Animal]]'
+strength: '+1'
+strength_req: '1'
 strongest_save:
-- Will
+- Reflex
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
-- '[[DATABASE/trait/Undead|Undead]]'
+- '[[DATABASE/trait/Devil|Devil]]'
+- '[[DATABASE/trait/Fiend|Fiend]]'
 type: Creature
-vision: Darkvision
+vision: Greater darkvision
 weakest_save:
 - Fortitude
-weakness: null
-will: '+24'
-wisdom: '+5'
+- Will
+weakness:
+- good 5
+will: '+8'
+wisdom: '+3'
 
 ---
 # Zebub (Accuser Devil)

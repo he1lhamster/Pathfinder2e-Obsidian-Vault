@@ -12,25 +12,6 @@ creature_ability:
 - Peaceful Aura
 - Rearing Thrust
 creature_family: null
-description: 'The rare and majestic antlered beast known as a kirin supposedly appear
-  only in times of peace and prosperity or during the birth or death of a great sage.
-  Thus, encountering a kirin is a sign of great fortune, success, and prosperity to
-  come. Conversely, finding a kirin''s corpse or witnessing their death is a portent
-  of tragedy and misfortune. A kirin''s song always precedes the sighting of one of
-  these graceful creatures, a sound often mistaken for wind chimes gently dancing
-  in the breeze.<br/><br/> Kirin are chimeric creatures with the body of a stag, the
-  tail of an ox, two horns atop their heads, and the scales and vibrant coloration
-  of a dragon. Their majestic manes and beards constantly flow in the breeze, even
-  on days with no wind, and sometimes appear wreathed in flames.<br/><br/> As creatures
-  that treasure life, kirin don''t consume flesh, and they take great care not to
-  kill even a single insect beneath their cloven hooves. They''re the embodiment of
-  peace yet will quickly strike down evil with a powerful thrust of their horns, knowing
-  that their acts preserve the peace for those who might otherwise come to harm. Legends
-  tell of particularly pious [[DATABASE/class_/Champion|champions]] who have persuaded
-  kirin to partner with them as mounts, though accomplishing such a feat is even rarer
-  than the kirin.<br/><br/><b><u>Recall Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Nature|Nature]] )</b>: DC 28<br/><b><u>Unspecific Lore</u></b>:
-  DC 26<br/><b><u>Specific Lore</u></b>: DC 23'
 dexterity: '+6'
 element: Air, Fire
 fly_speed: null

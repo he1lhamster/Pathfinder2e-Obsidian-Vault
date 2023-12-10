@@ -10,15 +10,6 @@ creature_ability:
 - Font of Knowledge
 - Inspirational Presence
 creature_family: '[[DATABASE/monsterfamily/Scholars|Scholars]]'
-description: 'The passing of knowledge and traditions from generation to generation
-  is a time-honored occupation. Teachers exist to strengthen their populations with
-  literacy, history, and advanced sciences, but most of all with inspiration. Most
-  teachers provide general knowledge so their students are well rounded, but some
-  are experts or even masters of a single discipline. A teacher typically knows three
-  languages in addition to Common. For academic encounters, a teacher is a 4th-level
-  challenge.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 13<br/><b><u>Unspecific Lore</u></b>: DC 11<br/><b><u>Specific Lore</u></b>:
-  DC 8'
 dexterity: '+0'
 element: null
 fly_speed: null

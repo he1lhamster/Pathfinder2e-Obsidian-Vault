@@ -14,15 +14,6 @@ creature_ability:
 - Quick Alchemy
 - Quick Bomber
 creature_family: '[[DATABASE/monsterfamily/Duergar|Duergar]]'
-description: 'Alchemy intrigues many duergars, and their cruel traditions often motivate
-  them to experiment on slaves. Eager to inflict pain and justify the abuse as a method
-  of expanding knowledge, duergar bombardiers often accompany slaver bands so they
-  can have the first chance to select their next test subjects from captured victims.
-  To duergar bombardiers, the lob of each bomb represents a new opportunity to observe
-  how their targets react and record the results to enhance future modifications to
-  their alchemical concoctions.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 15<br/><b><u>Unspecific Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>:
-  DC 10'
 dexterity: '+3'
 element: null
 fly_speed: null

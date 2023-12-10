@@ -1,100 +1,68 @@
 ﻿---
-ac: '43'
-alignment: CE
+ac: '18'
+alignment: LE
 all_resistance: null
-burrow_speed: '40'
-charisma: '+7'
-climb_speed: '25'
-constitution: '+10'
+burrow_speed: null
+charisma: '+1'
+climb_speed: null
+constitution: '+2'
 creature_ability:
-- Aura of Annihilation
-- Constrict
-- Eat Away
-- Engulf
-- Tentacular Burst
-- Unkillable
-creature_family: null
-description: 'The slithering horror known as Iffdahsil is an undead [[DATABASE/monster/Shoggoth|shoggoth]]
-  that has haunted the vault of the Black Desert for millennia. [[DATABASE/monsterfamily/Drow|Drow]]
-  legends in particular tend to feature Iffdahsil, terrifying the elves from a young
-  age.<br/><br/><b><u>Recall Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]]
-  )</b>: DC 52<br/><b><u>Recall Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 52<br/><b><u>Unspecific Lore</u></b>: DC 50<br/><b><u>Specific Lore</u></b>:
-  DC 47'
-dexterity: '+9'
+- Infused Items
+- Quick Bomber
+creature_family: '[[DATABASE/monsterfamily/Geniekin|Geniekin]]'
+dexterity: '+3'
 element: null
 fly_speed: null
-fortitude: '+39'
+fortitude: '+5'
 hardness: null
-hp: 380 ( fast healing 30 , negative healing )
-id: '876'
-immunity:
-- '[[DATABASE/condition/Blinded|blinded]]'
-- '[[DATABASE/condition/Controlled|controlled]]'
-- critical hits
-- '[[DATABASE/condition/Deafened|deafened]]'
-- '[[DATABASE/trait/Death|death]] effects'
-- '[[DATABASE/trait/Disease|disease]]'
-- '[[DATABASE/condition/Paralyzed|paralyze]]'
-- '[[DATABASE/trait/Poison|poison]]'
-- precision
-- '[[DATABASE/trait/Sleep|sleep]]'
-- '[[DATABASE/condition/Unconscious|unconscious]]'
-intelligence: '+0'
-land_speed: '40'
+hp: '18'
+id: '759'
+immunity: null
+intelligence: '+3'
+land_speed: '25'
 language:
-- '[[DATABASE/language/Aklo|Aklo]]'
-- '[[DATABASE/language/Necril|Necril]]'
-level: '21'
-max_speed: '40'
-name: Iffdahsil
-perception: '+38'
-rarity: Unique
-reflex: '+36'
+- '[[DATABASE/language/Common|Common]]'
+- '[[DATABASE/language/Ignan|Ignan]]'
+level: '1'
+max_speed: '25'
+name: Ifrit Pyrochemist
+perception: '+3'
+rarity: Common
+reflex: '+6'
 resistance:
-- acid 20
-- cold 20
-- physical 15 (except magical silver)
-- sonic 20
+- fire 1
 rus_type_level: null
 school: null
-sense:
-- '[[DATABASE/monsterability/Darkvision|darkvision]]'
-- '[[DATABASE/monsterability/Lifesense|lifesense (imprecise) 60 feet]]'
-- '[[DATABASE/monsterability/Scent|scent (imprecise) 60 feet]]'
-- '[[DATABASE/monsterability/Tremorsense|tremorsense (imprecise) 60 feet]]'
-size: Gargantuan
+sense: null
+size: Medium
 skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +40'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +36'
-source: '[[DATABASE/source/Pathfinder 155. Lord of the Black Sands|Pathfinder #155:
-  Lord of the Black Sands]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +6'
+- '[[DATABASE/skill/Crafting|Crafting]] +6'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +4'
+- '[[DATABASE/skill/Nature|Nature]] +3'
+- '[[DATABASE/skill/Survival|Survival]] +3'
+- '[[DATABASE/skill/Thievery|Thievery]] +6'
+source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
-- 40 feet
-- burrow 40 feet
-- climb 25 feet
+- 25 feet
 spell:
-- '[[DATABASE/spell/Disappearance|Disappearance]]'
-- '[[DATABASE/spell/Hallucination|Hallucination]]'
-- '[[DATABASE/spell/Hallucinatory Terrain|Hallucinatory Terrain]]'
-- '[[DATABASE/spell/Overwhelming Presence|Overwhelming Presence]]'
-strength: '+11'
-strength_req: '11'
+- '[[DATABASE/spell/Produce Flame|Produce Flame]]'
+strength: '+0'
+strength_req: '0'
 strongest_save:
-- Fortitude
+- Reflex
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Aberration|Aberration]]'
-- '[[DATABASE/trait/Undead|Undead]]'
-- '[[DATABASE/trait/Unique|Unique]]'
+- '[[DATABASE/trait/Human|Human]]'
+- '[[DATABASE/trait/Humanoid|Humanoid]]'
+- '[[DATABASE/trait/Ifrit|Ifrit]]'
 type: Creature
-vision: Darkvision
+vision: null
 weakest_save:
 - Will
-weakness:
-- good 20
-will: '+35'
-wisdom: '+8'
+weakness: null
+will: '+3'
+wisdom: '+0'
 
 ---
 # Ifrit

@@ -15,25 +15,6 @@ creature_ability:
 - Soul
 - Shriek
 creature_family: '[[DATABASE/monsterfamily/Aluum|Aluum]]'
-description: "Whereas most aluums are animated by the souls of volunteers loyal to\
-  \ Katapesh, the Pactmasters created a handful of more capable (and deadly) aluums\
-  \ powered by the souls of a dozen or more dangerous criminals. These spiritbound\
-  \ aluums are rarely used as peacekeepers, instead serving as assassins, elite bodyguards,\
-  \ or riot control during times of martial law.<br/><br/> A spiritbound aluum has\
-  \ a dull blue crystalline focus that stores constituent souls, surrounded by a host\
-  \ of smaller gems used for trapping souls the Pactmasters wish to deny from entering\
-  \ the Great Beyond. Spiritbound aluums rarely use this soul-binding ability except\
-  \ when instructed by their masters. However, the murderous or embittered souls within\
-  \ the aluum sometimes exert control and willfully consume a departing soul either\
-  \ out of malice or to incorporate it into the construct\u2019s core. If not relieved\
-  \ of its trapped souls in a timely manner, a spiritbound aluum can develop enough\
-  \ will to overcome its masters\u2019 orders and even awaken to full sentience. These\
-  \ rogue aluums typically lose the [[DATABASE/trait/Mindless|mindless]] trait, are\
-  \ evil, have an Intelligence modifier of \u20132 or higher, and gain several skills\
-  \ with bonuses ranging from +25 to +32.<br/><br/><b><u>Recall Knowledge - Construct</u>\
-  \ ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]] )</b>:\
-  \ DC 40<br/><b><u>Unspecific Lore</u></b>: DC 38<br/><b><u>Specific Lore</u></b>:\
-  \ DC 35"
 dexterity: '+3'
 element: null
 fly_speed: '25'

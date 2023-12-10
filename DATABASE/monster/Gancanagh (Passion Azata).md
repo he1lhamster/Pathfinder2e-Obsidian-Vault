@@ -1,76 +1,76 @@
 ﻿---
-ac: '31'
-alignment: NE
+ac: '21'
+alignment: CG
 all_resistance: null
 burrow_speed: null
-charisma: '+3'
+charisma: '+5'
 climb_speed: null
 constitution: '+3'
 creature_ability:
-- Attack of Opportunity
-- Inspired Feast
-- Size Alteration
-- Thrashing Chomp
-creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Fey</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 38<br/><b><u>Unspecific Lore</u></b>:
-  DC 36<br/><b><u>Specific Lore</u></b>: DC 33'
+- Change Shape
+- Invigorating Passion
+- Vulnerable to Smoke
+creature_family: '[[DATABASE/monsterfamily/Azata|Azata]]'
 dexterity: '+5'
 element: null
 fly_speed: null
-fortitude: '+24'
+fortitude: '+9'
 hardness: null
-hp: '200'
-id: '1701'
+hp: '75'
+id: '35'
 immunity: null
-intelligence: '+1'
-land_speed: '20'
+intelligence: '+2'
+land_speed: '30'
 language:
-- '[[DATABASE/language/Aklo|Aklo]]'
-- '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Sylvan|Sylvan]]'
-level: '11'
-max_speed: '20'
-name: Gambulami
-perception: '+21'
-rarity: Unique
-reflex: '+20'
+- '[[DATABASE/language/Celestial|Celestial]]'
+- '[[DATABASE/language/Draconic|Draconic]]'
+- '[[DATABASE/language/Infernal|Infernal]] ; [[DATABASE/spell/Tongues|tongues]]'
+level: '4'
+max_speed: '30'
+name: Gancanagh
+perception: '+11'
+rarity: Common
+reflex: '+13'
 resistance: null
 rus_type_level: null
 school: null
 sense:
-- '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
-- '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
-size: Small
+- darkvision
+size: Medium
 skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +24'
-- '[[DATABASE/skill/Crafting|Crafting]] +18'
-- '[[DATABASE/skill/Deception|Deception]] +20'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +22'
-- '[[DATABASE/skill/Nature|Nature]] +21'
-- '[[DATABASE/skill/Stealth|Stealth]] +22'
-- '[[DATABASE/skill/Survival|Survival]] +21'
-source: '[[DATABASE/source/Pathfinder 172. Secrets of the Temple City|Pathfinder #172:
-  Secrets of the Temple City]]'
+- '[[DATABASE/skill/Athletics|Athletics]] +9'
+- '[[DATABASE/skill/Deception|Deception]] +13'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +13'
+- '[[DATABASE/skill/Performance|Performance]] +14'
+- '[[DATABASE/skill/Religion|Religion]] +9'
+- '[[DATABASE/skill/Stealth|Stealth]] +11'
+source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
-- 20 feet
+- 30 feet
 spell:
 - '[[DATABASE/spell/Charm|Charm]]'
-strength: '+7'
-strength_req: '7'
+- '[[DATABASE/spell/Heal|Heal]]'
+- '[[DATABASE/spell/Heroism|Heroism]]'
+- '[[DATABASE/spell/Mirror Image|MirrorImage]]'
+- '[[DATABASE/spell/Suggestion|Suggestion]]'
+- '[[DATABASE/spell/Tongues|Tongues]]'
+strength: '+1'
+strength_req: '1'
 strongest_save:
-- Fortitude
+- Reflex
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Fey|Fey]]'
-- '[[DATABASE/trait/Unique|Unique]]'
+- '[[DATABASE/trait/Azata|Azata]]'
+- '[[DATABASE/trait/Celestial|Celestial]]'
 type: Creature
-vision: Low-light vision
+vision: Darkvision
 weakest_save:
-- Reflex
-weakness: null
-will: '+21'
-wisdom: '+4'
+- Fortitude
+weakness:
+- cold iron 5
+- evil 5
+will: '+11'
+wisdom: '+1'
 
 ---
 # Gancanagh (Passion Azata)

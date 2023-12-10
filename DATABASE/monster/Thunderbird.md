@@ -14,16 +14,6 @@ creature_ability:
 - Stormsight
 - Thunderstrike
 creature_family: null
-description: 'Thunderbirds bring storms on their wings. In times of drought, they
-  are welcomed. Other times, they are offered gifts in hopes they might leave before
-  flooding begins. When angered, they call down hurricanes and lay waste to entire
-  villages, so many settlements conduct extensive rites to appease and honor local
-  thunderbirds.<br/><br/> Thunderbird parents carry their newly hatched offspring
-  to hidden mountaintop nests, where the young are struck by their first bolts of
-  lightning and learn the mysteries of the storm.<br/><br/><b><u>Recall Knowledge
-  - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 30<br/><b><u>Unspecific Lore</u></b>: DC 28<br/><b><u>Specific Lore</u></b>:
-  DC 25'
 dexterity: '+3'
 element: Air
 fly_speed: '80'

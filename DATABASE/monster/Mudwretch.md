@@ -14,20 +14,6 @@ creature_ability:
 - Spew Mud
 - Susceptible to Desiccation
 creature_family: null
-description: "In its resting form, a mudwretch looks like a large puddle of thick,\
-  \ dark mud, heaped at the center in a slightly drier patch of loam. When a living\
-  \ creature approaches, though, the mudwretch lurches upward, piling its muddy flesh\
-  \ upon itself to form a roughly humanoid shape, often in vague mockery of the approaching\
-  \ creature's general form in cases where the creature is a humanoid itself.<br/><br/>\
-  \ Mudwretches possess a low level of intellect, and while they do not form societies\
-  \ or cultures of their own, they are attracted to ruins or abandoned settlements.\
-  \ They have little need to eat, but without a constant source of moisture, a mudwretch\
-  \ dries out, suffering from low throbbing aches until it can resaturate. Often,\
-  \ blood from living creatures has to do\u2014a dried mudwretch is more dangerous\
-  \ to intruders than one that's comfortably wallowing on a river bank.<br/><br/><b><u>Recall\
-  \ Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 16<br/><b><u>Unspecific Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>:\
-  \ DC 11"
 dexterity: '+0'
 element: Earth, Water
 fly_speed: null

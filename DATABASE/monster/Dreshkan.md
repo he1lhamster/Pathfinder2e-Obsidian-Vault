@@ -13,20 +13,6 @@ creature_ability:
 - Partially Technological
 - Swarming Stance
 creature_family: '[[DATABASE/monsterfamily/Fleshwarp|Fleshwarp]]'
-description: 'Because [[DATABASE/monsterfamily/Morlock|morlocks]] are descended from
-  distant human ancestors, clumsily or hastily fleshwarping a morlock simply produces
-  a [[DATABASE/monster/Grothlut|grothlut]] . Skilled fleshwarpers, however, can tease
-  out a morlock''s genetic differences to make an entirely different creature. Creating
-  a dreshkan involves replacing the morlock''s bones with a metal skeleton. This new
-  skeleton is often heavily augmented, such as with spiderlike limbs protruding from
-  the spine or magazines of tiny, deadly needles. Arcane electricity courses through
-  the dreshkan thereafter, making it jumpy and irritable.<br/><br/> Morlocks view
-  dreshkans as impressive fusions of flesh and technology and gladly fight alongside
-  these creatures, whom they view as paragons of morlock potential.<br/><br/><b><u>Recall
-  Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 21<br/><b><u>Recall
-  Knowledge - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]]
-  )</b>: DC 21<br/><b><u>Unspecific Lore</u></b>: DC 19<br/><b><u>Specific Lore</u></b>:
-  DC 16'
 dexterity: '+5'
 element: null
 fly_speed: null

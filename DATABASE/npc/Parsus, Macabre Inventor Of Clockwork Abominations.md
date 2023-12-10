@@ -1,68 +1,86 @@
 ﻿---
-ac: '25'
-alignment: CN
+ac: '29'
+alignment: NE
 all_resistance: null
 burrow_speed: null
-charisma: '+2'
+charisma: '+0'
 climb_speed: null
 constitution: '+3'
 creature_ability:
-- Crack Shot
-- Howling Bullet
-- Rugged Travel
+- Clockwork Necromancy
+- Explode
+- Necromatic Winding
+- Necromechanical Innovation
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 34<br/><b><u>Unspecific
-  Lore</u></b>: DC 32<br/><b><u>Specific Lore</u></b>: DC 29'
-dexterity: '+4'
+dexterity: '+3'
 element: null
 fly_speed: null
-fortitude: '+17'
-hp: '135'
-id: '1970'
+fortitude: '+18'
+hp: 160 ( negative healing )
+id: '1994'
 immunity: null
-intelligence: '-1'
+intelligence: '+5'
 land_speed: '25'
 language:
-- '[[DATABASE/language/Gnoll|Gnoll]]'
-level: '8'
+- '[[DATABASE/language/Common|Common]]'
+- '[[DATABASE/language/Necril|Necril]]'
+level: '10'
 max_speed: '25'
-name: Palzu
-perception: '+17'
+name: Parsus
+perception: '+20'
 rarity: Unique
 reflex: '+18'
 resistance: null
 rus_type_level: null
-sense:
-- '[[DATABASE/monsterability/Darkvision|darkvision]]'
+sense: null
 size: Medium
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +18'
-- '[[DATABASE/skill/Athletics|Athletics]] +15'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +16'
-- '[[DATABASE/skill/Stealth|Stealth]] +18'
-- '[[DATABASE/skill/Survival|Survival]] +17'
-source: '[[DATABASE/source/Pathfinder 179. Cradle of Quartz|Pathfinder #179: Cradle
-  of Quartz]]'
+- '[[DATABASE/skill/Arcana|Arcana]] +24'
+- '[[DATABASE/skill/Deception|Deception]] +19'
+- '[[DATABASE/skill/Lore|Geb Lore]] +22'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +19'
+- '[[DATABASE/skill/Society|Society]] +19'
+- '[[DATABASE/skill/Lore|Undead Lore]] +22'
+source: '[[DATABASE/source/Pathfinder 180. The Smoking Gun|Pathfinder #180: The Smoking
+  Gun]]'
 speed:
 - 25 feet
-spell: null
-strength: '+3'
-strength_req: '3'
+spell:
+- '[[DATABASE/spell/Acid Splash|Acid Splash]]'
+- '[[DATABASE/spell/Bind Undead|BindUndead]]'
+- '[[DATABASE/spell/Chill Touch|Chill Touch]]'
+- '[[DATABASE/spell/Cloudkill|Cloudkill]]'
+- '[[DATABASE/spell/Detect Magic|Detect Magic]]'
+- '[[DATABASE/spell/Enervation|Enervation]]'
+- '[[DATABASE/spell/False Life|FalseLife]]'
+- '[[DATABASE/spell/Fly|Fly]]'
+- '[[DATABASE/spell/Grim Tendrils|Grim Tendrils]]'
+- '[[DATABASE/spell/Message|Message]]'
+- '[[DATABASE/spell/Mirror Image|Mirror Image]]'
+- '[[DATABASE/spell/Ray of Frost|Rayof Frost]]'
+- '[[DATABASE/spell/Seal Fate|Seal Fate]]'
+- '[[DATABASE/spell/Spectral Hand|Spectral Hand]]'
+- '[[DATABASE/spell/Unseen Servant|Unseen Servant]]'
+- '[[DATABASE/spell/Vampiric Maiden|Vampiric Maiden]]'
+- '[[DATABASE/spell/Vampiric Touch|Vampiric Touch]]'
+strength: '+4'
+strength_req: '4'
 strongest_save:
-- Reflex
+- Will
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Gnoll|Gnoll]]'
+- '[[DATABASE/trait/Dhampir|Dhampir]]'
+- '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: Darkvision
+vision: null
 weakest_save:
-- Will
+- Fortitude
+- Reflex
 weakness: null
-will: '+13'
-wisdom: '+3'
+will: '+20'
+wisdom: '+0'
 
 ---
 # Parsus, Macabre Inventor Of Clockwork Abominations

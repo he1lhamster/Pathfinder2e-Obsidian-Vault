@@ -1,93 +1,63 @@
 ﻿---
-ac: '25'
-alignment: CG
+ac: '17'
+alignment: NG
 all_resistance: null
 burrow_speed: null
-charisma: '+4'
+charisma: '+1'
 climb_speed: null
-constitution: '+2'
+constitution: '+0'
 creature_ability:
-- Ancestry Feats
-- Class Abilities
-- Class Feats
-- General Feats
-- Halfling Luck
-- Melodious Spell
-- Skill Feats
+- Healing Hands
+- Turn Undead
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 33<br/><b><u>Unspecific
-  Lore</u></b>: DC 31<br/><b><u>Specific Lore</u></b>: DC 28'
-dexterity: '+4'
+dexterity: '+1'
 element: null
 fly_speed: null
-fortitude: '+12'
-hp: '76'
-id: '2396'
+fortitude: '+7'
+hp: '30'
+id: '1042'
 immunity: null
-intelligence: '+2'
-land_speed: '30'
+intelligence: '+3'
+land_speed: '25'
 language:
 - '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Elven|Elven]]'
-- '[[DATABASE/language/Gnomish|Gnomish]]'
-- '[[DATABASE/language/Halfling|Halfling]]'
-- '[[DATABASE/language/Hallit|Hallit]]'
-- '[[DATABASE/language/Sylvan|Sylvan]]'
-level: '7'
-max_speed: '30'
-name: Linzi (Level 7)
-perception: '+13'
+level: '2'
+max_speed: '25'
+name: Lisavet
+perception: '+10'
 rarity: Unique
-reflex: '+16'
+reflex: '+9'
 resistance: null
 rus_type_level: null
-sense:
-- (expert) keen eyes
-size: Small
+sense: null
+size: Medium
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +14'
-- '[[DATABASE/skill/Lore|ArtLore]] +12'
-- '[[DATABASE/skill/Lore|Bardic Lore]] +12'
-- '[[DATABASE/skill/Crafting|Crafting]] +12'
-- '[[DATABASE/skill/Deception|Deception]] +16'
-- '[[DATABASE/skill/Diplomacy|Diplomacy]] +14'
-- '[[DATABASE/skill/Occultism|Occultism]] +12'
-- '[[DATABASE/skill/Performance|Performance]] +18'
-- '[[DATABASE/skill/Society|Society]] +13'
-- '[[DATABASE/skill/Stealth|Stealth]] +14'
-source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +7'
+- '[[DATABASE/skill/Lore|LibraryLore]] +7'
+- '[[DATABASE/skill/Medicine|Medicine]] +8'
+- '[[DATABASE/skill/Religion|Religion]] +8'
+- '[[DATABASE/skill/Society|Society]] +7'
+source: '[[DATABASE/source/No-Prep Character. Lisavet|No-Prep Character: Lisavet]]'
 speed:
-- 30 feet
+- 25 feet
 spell:
-- '[[DATABASE/spell/Counter Performance|Counter Performance]]'
-- '[[DATABASE/spell/Dimension Door|Dimension Door]]'
-- '[[DATABASE/spell/Dispel Magic|Dispel Magic]]'
-- '[[DATABASE/spell/Ghost Sound|Ghost Sound]]'
-- '[[DATABASE/spell/Haste|Haste]]'
-- '[[DATABASE/spell/Hideous Laughter|Hideous Laughter]]'
-- '[[DATABASE/spell/Inkshot|Inkshot]]'
-- '[[DATABASE/spell/Inspire Courage|InspireCourage]]'
+- '[[DATABASE/spell/Bless|Bless]]'
+- '[[DATABASE/spell/Burning Hands|BurningHands]]'
+- '[[DATABASE/spell/Dazzling Flash|Dazzling Flash]]'
+- '[[DATABASE/spell/Detect Magic|Detect Magic]]'
+- '[[DATABASE/spell/Divine Lance|Divine Lance]]'
+- '[[DATABASE/spell/Heal|Heal]]'
 - '[[DATABASE/spell/Light|Light]]'
-- '[[DATABASE/spell/Mage Hand|Mage Hand]]'
-- '[[DATABASE/spell/Paralyze|Paralyze]]'
-- '[[DATABASE/spell/Phantasmal Protagonist|Phantasmal Protagonist]]'
-- '[[DATABASE/spell/Prestidigitation|Prestidigitation]]'
-- '[[DATABASE/spell/Ray of Enfeeblement|Ray of Enfeeblement]]'
-- '[[DATABASE/spell/Read Aura|Read Aura]]'
-- '[[DATABASE/spell/Restoration|Restoration]]'
+- '[[DATABASE/spell/Sanctuary|Sanctuary]]'
 - '[[DATABASE/spell/Shield|Shield]]'
-- '[[DATABASE/spell/Soothe|Soothe]]'
-- '[[DATABASE/spell/Telekinetic Projectile|Telekinetic Projectile]]'
-- '[[DATABASE/spell/Transcribe Conflict|TranscribeConflict]]'
-- '[[DATABASE/spell/True Strike|True Strike]]'
-strength: '-1'
-strength_req: '-1'
+- '[[DATABASE/spell/Stabilize|Stabilize]]'
+strength: '+0'
+strength_req: '0'
 strongest_save:
-- Reflex
+- Will
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Halfling|Halfling]]'
+- '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
@@ -95,8 +65,8 @@ vision: null
 weakest_save:
 - Fortitude
 weakness: null
-will: '+13'
-wisdom: '+1'
+will: '+11'
+wisdom: '+4'
 
 ---
 # Lisavet, Well-Read Acolyte

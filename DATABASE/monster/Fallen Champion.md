@@ -16,13 +16,6 @@ creature_ability:
 - Reap Faith
 - Shield Block
 creature_family: '[[DATABASE/monsterfamily/Herexen|Herexen]]'
-description: 'While most herexens were clerics or clergy in life, fallen champions
-  were holy crusaders that upheld the ideals of their deity while fighting enemies
-  of the church and defending its congregants. Fallen champions are direct in their
-  actions and wage their divine war on a grand scale. This fallen champion once worshiped
-  the Arcadian goddess [[DATABASE/deity/Kazutal|Kazutal]] , also called Mother Jaguar.<br/><br/><b><u>Recall
-  Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 26<br/><b><u>Unspecific
-  Lore</u></b>: DC 24<br/><b><u>Specific Lore</u></b>: DC 21'
 dexterity: '+2'
 element: null
 fly_speed: null

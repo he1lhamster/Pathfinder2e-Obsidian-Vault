@@ -1,67 +1,87 @@
 ﻿---
-ac: '36'
-alignment: N
+ac: '20'
+alignment: NE
 all_resistance: null
 burrow_speed: null
-charisma: '-1'
+charisma: '+2'
 climb_speed: null
-constitution: '+6'
+constitution: '+1'
 creature_ability:
-- Controlled
-- Gang Up
+- Cackling Coven
+- Called
+- Familiar
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 37<br/><b><u>Unspecific
-  Lore</u></b>: DC 35<br/><b><u>Specific Lore</u></b>: DC 32'
-dexterity: '+6'
+dexterity: '+2'
 element: null
 fly_speed: null
-fortitude: '+30'
-hp: '365'
-id: '2436'
-immunity:
-- '[[DATABASE/trait/Mental|mental]]'
-intelligence: '-5'
+fortitude: '+12'
+hp: '75'
+id: '2049'
+immunity: null
+intelligence: '+4'
 land_speed: '25'
 language:
+- '[[DATABASE/language/Aklo|Aklo]]'
 - '[[DATABASE/language/Common|Common]]'
 - '[[DATABASE/language/Necril|Necril]]'
-level: '16'
+- '[[DATABASE/language/Osiriani|Osiriani]]'
+level: '5'
 max_speed: '25'
-name: Kemnebi's Puppets
-perception: '+30'
-rarity: Uncommon
-reflex: '+30'
+name: Kepgeda the Hag-Nailed
+perception: '+12'
+rarity: Unique
+reflex: '+11'
 resistance: null
 rus_type_level: null
-sense: null
+sense:
+- '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +28'
-- '[[DATABASE/skill/Athletics|Athletics]] +32'
-- '[[DATABASE/skill/Stealth|Stealth]] +28'
-source: '[[DATABASE/source/Pathfinder 186. Ghost King''s Rage|Pathfinder #186: Ghost
-  King''s Rage]]'
+- '[[DATABASE/skill/Crafting|Crafting]] +13'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +11'
+- '[[DATABASE/skill/Nature|Nature]] +10'
+- '[[DATABASE/skill/Occultism|Occultism]] +13'
+- '[[DATABASE/skill/Society|Society]] +11'
+- '[[DATABASE/skill/Survival|Survival]] +10'
+source: '[[DATABASE/source/Pathfinder 181. Zombie Feast|Pathfinder #181: Zombie Feast]]'
 speed:
 - 25 feet
-spell: null
-strength: '+9'
-strength_req: '9'
+spell:
+- '[[DATABASE/spell/Bane|Bane]]'
+- '[[DATABASE/spell/Blindness|Blindness]]'
+- '[[DATABASE/spell/Command|Command]]'
+- '[[DATABASE/spell/Daze|Daze]]'
+- '[[DATABASE/spell/Dream Message|Dream Message]]'
+- '[[DATABASE/spell/Evil Eye|EvilEye]]'
+- '[[DATABASE/spell/Forbidding Ward|Forbidding Ward]]'
+- '[[DATABASE/spell/Guidance|Guidance]]'
+- '[[DATABASE/spell/Invisibility|Invisibility]]'
+- '[[DATABASE/spell/Needle of Vengeance|Needle of Vengeance]]'
+- '[[DATABASE/spell/Phantom Pain|Phantom Pain]]'
+- '[[DATABASE/spell/Phase Familiar|Phase Familiar]]'
+- '[[DATABASE/spell/Ray of Enfeeblement|Ray of Enfeeblement]]'
+- '[[DATABASE/spell/Shield|Shield]]'
+- '[[DATABASE/spell/Slow|Slow]]'
+- '[[DATABASE/spell/Telekinetic Projectile|Telekinetic Projectile]]'
+- '[[DATABASE/spell/Touch of Idiocy|Touch of Idiocy]]'
+strength: '+2'
+strength_req: '2'
 strongest_save:
 - Fortitude
-- Reflex
+- Will
 swim_speed: null
 trait:
+- '[[DATABASE/trait/Changeling|Changeling]]'
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
+- '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
+vision: Darkvision
 weakest_save:
-- Will
+- Reflex
 weakness: null
-will: '+22'
-wisdom: '+5'
+will: '+12'
+wisdom: '+1'
 
 ---
 # Kepgeda the Hag-Nailed, Three-Fingered Hand Gang Leader

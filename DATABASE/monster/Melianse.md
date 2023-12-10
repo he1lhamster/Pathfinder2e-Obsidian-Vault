@@ -10,9 +10,6 @@ creature_ability:
 - Grant Desire
 - Wild Empathy
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Fey</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 30<br/><b><u>Unspecific Lore</u></b>:
-  DC 28<br/><b><u>Specific Lore</u></b>: DC 25'
 dexterity: '+3'
 element: null
 fly_speed: null

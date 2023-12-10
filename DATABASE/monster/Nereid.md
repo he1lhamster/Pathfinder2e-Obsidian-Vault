@@ -11,31 +11,6 @@ creature_ability:
 - Manifest Shawl
 - Watery Transparency
 creature_family: null
-description: "Nereids are aquatic fey with deep ties to water. They share some similarities\
-  \ with naiads, but they are not guardians and do not bind themselves to a specific\
-  \ body of water. Although they are primarily aquatic creatures, their unique ability\
-  \ to imbue their vitality into a supernatural shawl allows them to travel on land\
-  \ as well. A nereid must be careful when manifesting a shawl, however, as their\
-  \ life essence is bound to it, so it can be stolen or destroyed to threaten the\
-  \ nereid.<br/><br/> Nereids prefer to exist in isolation. Left to their own devices,\
-  \ they avoid combat, but when forced to fight, their ability to transform the natural\
-  \ waters in their flesh into poison serves them as well as any weapon.<br/><br/>\
-  \ Often, ignorant sailors lump all water-dwelling fey into a single category of\
-  \ \u201Caquatic tempters,\u201D regardless of the fey's type or gender, using these\
-  \ creatures' names interchangeably to represent the concept of a beautiful figure\
-  \ who exists to lure mortals to a drowning death. Whereas naiads have more patience\
-  \ and often seek to educate the ignorant regarding the harm that stereotypes can\
-  \ cause, nereids and rusalkas have little patience for such methods. Rusalkas are\
-  \ the primary source for the legends of fey preying upon sailors, and nereids loathe\
-  \ them for that, as they prefer to live apart from humanity and enjoy the beauty\
-  \ of the natural world in peace.<br/><br/> When a nereid learns of a rusalka's increased\
-  \ activity, it often seeks out the rusalka to route them\u2014not so much out of\
-  \ an urge to protect humanoids (in whom nereids traditionally have little interest),\
-  \ but to prevent the rusalka from inadvertently riling up violent responses from\
-  \ humanoids who can't be bothered to note the difference between a murderous fey\
-  \ and one who just wants to be left alone.<br/><br/><b><u>Recall Knowledge - Fey</u>\
-  \ ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 27<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 25<br/><b><u>Specific Lore</u></b>: DC 22"
 dexterity: '+7'
 element: Water
 fly_speed: null

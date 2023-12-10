@@ -13,10 +13,6 @@ creature_ability:
 - Crag Linnorm Venom
 - Curse of Fire
 creature_family: '[[DATABASE/monsterfamily/Linnorm|Linnorm]]'
-description: 'Despite being among the weakest linnorms, the crag linnorm is a devastating
-  predator, capable of quickly cooking its foes with its magma breath.<br/><br/><b><u>Recall
-  Knowledge - Dragon</u> ( [[DATABASE/skill/Arcana|Arcana]] )</b>: DC 34<br/><b><u>Unspecific
-  Lore</u></b>: DC 32<br/><b><u>Specific Lore</u></b>: DC 29'
 dexterity: '+4'
 element: Fire
 fly_speed: '100'

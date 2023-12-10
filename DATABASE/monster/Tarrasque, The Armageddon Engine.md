@@ -1,87 +1,88 @@
 ﻿---
-ac: '46'
+ac: '54'
 alignment: CE
 all_resistance: null
 burrow_speed: null
-charisma: '+8'
+charisma: '+7'
 climb_speed: null
-constitution: '+8'
+constitution: '+12'
 creature_ability:
 - Attack of Opportunity
-- Breath Weapon
-- Constrict
-- Curse of Death
-- Double Bite
-- Overwhelming
-- Breath
-- Tarn Linnorm Venom
-creature_family: '[[DATABASE/monsterfamily/Linnorm|Linnorm]]'
-description: 'Although more powerful linnorms exist, the multi-headed tarn linnorm
-  can wreak an awe-inspiring amount of devastation.<br/><br/><b><u>Recall Knowledge
-  - Dragon</u> ( [[DATABASE/skill/Arcana|Arcana]] )</b>: DC 42<br/><b><u>Unspecific
-  Lore</u></b>: DC 40<br/><b><u>Specific Lore</u></b>: DC 37'
-dexterity: '+6'
+- Carapace
+- Destructive Frenzy
+- Fast Swallow
+- Frightful Presence
+- ''
+- Inexorable
+- Reactive
+- Reflect
+- Spine Volley
+- Swallow Whole
+- Trample
+creature_family: '[[DATABASE/monsterfamily/Spawn of Rovagug|Spawn of Rovagug]]'
+dexterity: '+9'
 element: null
-fly_speed: '100'
-fortitude: '+36'
+fly_speed: null
+fortitude: '+47'
 hardness: null
-hp: '400'
-id: '286'
+hp: '540'
+id: '490'
 immunity:
 - acid
-- curse
+- clumsy
+- disease
+- drained
+- enfeebled
+- mental
 - paralyzed
-- sleep
-intelligence: '-1'
-land_speed: '35'
+- persistent damage
+- petrified
+- poison
+- polymorph
+- stupefied
+intelligence: '-3'
+land_speed: '50'
 language:
-- '[[DATABASE/language/Aklo|Aklo]]'
-- '[[DATABASE/language/Draconic|Draconic]]'
-- '[[DATABASE/language/Sylvan|Sylvan]]'
-level: '20'
-max_speed: '100'
-name: Tarn Linnorm
-perception: '+35'
-rarity: Uncommon
-reflex: '+32'
-resistance: null
+- '[[DATABASE/language/Aklo|Aklo]] ; can''t speak any language'
+level: '25'
+max_speed: '50'
+name: Tarrasque
+perception: '+48'
+rarity: Unique
+reflex: '+37'
+resistance:
+- fire 25
+- physical 25
 rus_type_level: null
 school: null
 sense:
 - darkvision
-- scent (imprecise) 60 feet
-- '[[DATABASE/spell/True Seeing|trueseeing]]'
+- scent (imprecise) 120 feet
 size: Gargantuan
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +32'
-- '[[DATABASE/skill/Athletics|Athletics]] +38'
-- '[[DATABASE/skill/Stealth|Stealth]] +34'
-source: '[[DATABASE/source/Bestiary|Bestiary]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +47'
+- '[[DATABASE/skill/Athletics|Athletics]] +50'
+source: '[[DATABASE/source/Pathfinder 150. Broken Promises|Pathfinder #150: Broken
+  Promises]]'
 speed:
-- 35 feet
-- fly 100 feet
-- swim 80 feet; [[DATABASE/spell/Freedom of Movement|freedom ofmovement]]
-spell:
-- '[[DATABASE/spell/Freedom of Movement|Freedom of Movement]]'
-- '[[DATABASE/spell/True Seeing|True Seeing]]'
-strength: '+10'
-strength_req: '10'
+- 50 feet
+- swim 50 feet
+spell: null
+strength: '+12'
+strength_req: '12'
 strongest_save:
 - Fortitude
-swim_speed: '80'
+swim_speed: '50'
 trait:
-- '[[DATABASE/trait/Acid|Acid]]'
-- '[[DATABASE/trait/Amphibious|Amphibious]]'
-- '[[DATABASE/trait/Dragon|Dragon]]'
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
+- '[[DATABASE/trait/Beast|Beast]]'
+- '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
 vision: Darkvision
 weakest_save:
-- Will
-weakness:
-- cold iron 15
-will: '+31'
-wisdom: '+7'
+- Reflex
+weakness: null
+will: '+39'
+wisdom: '+9'
 
 ---
 # Tarrasque, The Armageddon Engine

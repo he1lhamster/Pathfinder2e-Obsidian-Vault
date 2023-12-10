@@ -10,11 +10,6 @@ creature_ability:
 - Goblin Scuttle
 - Goblin Song
 creature_family: '[[DATABASE/monsterfamily/Goblin|Goblin]]'
-description: 'While all goblins enjoy singing, goblin war chanters pride themselves
-  on mastering the art of vocal performance. Their ballads and jingles are undeniably
-  catchy, though whether they are actually enjoyable is entirely subjective.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 15<br/><b><u>Unspecific
-  Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>: DC 10'
 dexterity: '+3'
 element: null
 fly_speed: null

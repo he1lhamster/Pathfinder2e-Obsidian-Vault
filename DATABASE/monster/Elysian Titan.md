@@ -12,11 +12,6 @@ creature_ability:
 - Titanic Grasp
 - Wide Cleave
 creature_family: '[[DATABASE/monsterfamily/Titan|Titan]]'
-description: 'Those titans who remained true to their creators, refusing to participate
-  in their peers'' rebellion, earned their freedom while the others were imprisoned.
-  Many Elysian titans train aspiring champions of freedom, sacrifice, and selflessness.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 47<br/><b><u>Unspecific
-  Lore</u></b>: DC 45<br/><b><u>Specific Lore</u></b>: DC 42'
 dexterity: '+7'
 element: null
 fly_speed: null

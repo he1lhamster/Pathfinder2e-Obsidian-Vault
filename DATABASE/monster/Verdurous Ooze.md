@@ -16,13 +16,6 @@ creature_ability:
 - Verdurous Ooze
 - Acid
 creature_family: '[[DATABASE/monsterfamily/Ooze|Ooze]]'
-description: 'Verdurous oozes are found in temperate forests, warm jungles, or other
-  places where plant life grows in abundance. Unlike many types of oozes, verdurous
-  oozes are not particularly good climbers and have been known to get trapped in natural
-  or artificial chasms. Warlords and wizards sometimes make use of that fact and keep
-  verdurous oozes as guardians in pits around the walls of their fortresses or towers.<br/><br/><b><u>Recall
-  Knowledge - Ooze</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 22<br/><b><u>Unspecific
-  Lore</u></b>: DC 20<br/><b><u>Specific Lore</u></b>: DC 17'
 dexterity: '-4'
 element: null
 fly_speed: null

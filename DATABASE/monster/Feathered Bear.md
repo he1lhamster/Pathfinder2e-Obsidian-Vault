@@ -14,18 +14,6 @@ creature_ability:
 - Guardian's Aegis
 - Mauler
 creature_family: '[[DATABASE/monsterfamily/Spirit Guide|Spirit Guide]]'
-description: "Born from spirits possessing the qualities of strength, endurance, and\
-  \ ferocity, these spirit guides act as martial guardians for mortals under their\
-  \ care. Most have a burning hatred for [[DATABASE/monsterfamily/Demon|demons]] ,\
-  \ [[DATABASE/monsterfamily/Devil|devils]] , and other [[DATABASE/trait/Fiend|fiends]]\
-  \ who prey on mortal weaknesses. However, they also display care and consideration\
-  \ around mortal children, who in turn seem to instinctively recognize the beings\
-  \ as protectors. Strength takes many forms, some evident in their power\u2014like\
-  \ the feathered bear\u2014and some unassuming.<br/><br/><b><u>Recall Knowledge -\
-  \ Beast</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 27<br/><b><u>Recall Knowledge - Spirit</u> ( [[DATABASE/skill/Occultism|Occultism]]\
-  \ )</b>: DC 27<br/><b><u>Unspecific Lore</u></b>: DC 25<br/><b><u>Specific Lore</u></b>:\
-  \ DC 22"
 dexterity: '+2'
 element: null
 fly_speed: null

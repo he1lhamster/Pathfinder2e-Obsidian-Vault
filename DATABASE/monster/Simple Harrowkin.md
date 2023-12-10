@@ -11,11 +11,6 @@ creature_ability:
 - Shuffle the Deck
 - Sneak Attack
 creature_family: '[[DATABASE/monsterfamily/Harrowkin|Harrowkin]]'
-description: 'The simplest harrowkin resemble creatures with vague features made of
-  patchwork cloth and painted canvas<br/><br/><b><u>Recall Knowledge - Construct</u>
-  ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]] )</b>:
-  DC 21<br/><b><u>Unspecific Lore</u></b>: DC 19<br/><b><u>Specific Lore</u></b>:
-  DC 16'
 dexterity: '+4'
 element: null
 fly_speed: null

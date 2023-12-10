@@ -11,12 +11,6 @@ creature_ability:
 - Tighten Coils
 - Wrap in Coils
 creature_family: '[[DATABASE/monsterfamily/Snake|Snake]]'
-description: "This nonvenomous snake\u2019s name comes from its tendency to curl into\
-  \ a ball when frightened, though most people know it for its hunting tactic of coiling\
-  \ around prey and crushing victims with its powerful muscles. Nonetheless, brave\
-  \ herpetologists sometimes keep ball pythons as pets.<br/><br/><b><u>Recall Knowledge\
-  \ - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 15<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>: DC 10"
 dexterity: '+3'
 element: null
 fly_speed: null

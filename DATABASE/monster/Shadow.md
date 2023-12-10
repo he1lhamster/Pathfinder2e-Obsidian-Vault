@@ -12,12 +12,6 @@ creature_ability:
 - Slink in Shadows
 - Steal Shadow
 creature_family: '[[DATABASE/monsterfamily/Shadow|Shadow]]'
-description: 'The mysterious undead known as shadows lurk in dark places and feed
-  on those who stray too far from the light. Those who parley with shadows, typically
-  by keeping them at bay with a glowing weapon, may learn great secrets, for they
-  are ideal spies.<br/><br/><b><u>Recall Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 19<br/><b><u>Unspecific Lore</u></b>: DC 17<br/><b><u>Specific Lore</u></b>:
-  DC 14'
 dexterity: '+4'
 element: null
 fly_speed: '30'

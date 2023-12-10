@@ -13,11 +13,6 @@ creature_ability:
 - Requirement
 - Sneak Attack
 creature_family: '[[DATABASE/monsterfamily/Drow|Drow]]'
-description: "Loners at heart, drow rogues trust no one\u2014least of all fellow slayers.\
-  \ These drow rely on awareness and adaptation to survive the cutthroat nature of\
-  \ their society.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]\
-  \ )</b>: DC 16<br/><b><u>Unspecific Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>:\
-  \ DC 11"
 dexterity: '+4'
 element: null
 fly_speed: null

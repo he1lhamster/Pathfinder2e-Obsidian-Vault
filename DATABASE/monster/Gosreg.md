@@ -12,18 +12,6 @@ creature_ability:
 - Thoughtsense
 - Unsettled Aura
 creature_family: null
-description: 'Gosregs are agents of the Dominion of the Black that insinuate themselves
-  into humanoid societies to foster the goals of their sinister alien masters. They
-  act as spies and special forces that can mingle with humanoid society while enacting
-  plans for the rest of the Dominion in secret.<br/><br/> In their natural forms,
-  gosregs dart about in a jerky gallop due to their stumpy legs and gangly arms. They
-  take on the appearances of humanoids to infiltrate societies, and they drop their
-  disguises only when they feel they are ultimately compromised and must resort to
-  physical violence to protect their agendas. Their brain-like heads and bestial legs
-  suggest a potential link with a similar Dominion of the Black agent: the dreaded
-  [[DATABASE/monster/Intellect Devourer|intellect devourer]] .<br/><br/><b><u>Recall
-  Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 30<br/><b><u>Unspecific
-  Lore</u></b>: DC 28<br/><b><u>Specific Lore</u></b>: DC 25'
 dexterity: '+6'
 element: null
 fly_speed: null

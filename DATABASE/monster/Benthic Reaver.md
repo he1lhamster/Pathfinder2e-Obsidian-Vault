@@ -14,10 +14,6 @@ creature_ability:
 - Tail Sweep
 - Tail Sweep
 creature_family: null
-description: 'The benthic reaver is a 50-foot-tall undead monstrosity, its ribs rising
-  like giant archways and its spine splitting into three tails.<br/><br/><b><u>Recall
-  Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 52<br/><b><u>Unspecific
-  Lore</u></b>: DC 50<br/><b><u>Specific Lore</u></b>: DC 47'
 dexterity: '+8'
 element: null
 fly_speed: null

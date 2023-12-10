@@ -11,16 +11,6 @@ creature_ability:
 - Debris Shield
 - Wasting Gaze
 creature_family: null
-description: 'Beneath the camps of Hillcross, Mammoth Lord followings store belongings
-  both precious and mundane in unsecured vaults called weykos. As power changes hands
-  among Mammoth Lords and followings go extinct or become forgotten, such weykos are
-  often abandoned for so long that they become indistinguishable from trash heaps
-  or middens. Furthermore, if the conditions are just so, such weykos can spring to
-  life as a result of latent primal magic or ancestral memories locked within the
-  forgotten weyko that refuse to be forgotten.<br/><br/><b><u>Recall Knowledge - Construct</u>
-  ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]] )</b>:
-  DC 29<br/><b><u>Unspecific Lore</u></b>: DC 27<br/><b><u>Specific Lore</u></b>:
-  DC 24'
 dexterity: '+5'
 element: null
 fly_speed: null

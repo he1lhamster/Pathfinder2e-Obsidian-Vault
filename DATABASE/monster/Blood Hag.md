@@ -13,17 +13,6 @@ creature_ability:
 - Coven
 - Drain Blood
 creature_family: '[[DATABASE/monsterfamily/Hag|Hag]]'
-description: 'Blood hags, also known as soucouyants, infiltrate communities in the
-  guise of young, innocent humanoids. This disguise is more than an illusion, for
-  a blood hag wears the skin of a previous victim to hide her true appearance. During
-  the day, her disguise is almost perfect, especially if the community knows nothing
-  about the person the hag is pretending to be. But after sunset, the creature sheds
-  her skin, hides it in a safe place, and stalks the night to drink the blood that
-  sustains her.<br/><br/> Able to travel quickly in the form of a ball of fire and
-  to slip through keyholes or the slightest crack in a door or window, blood hags
-  feed on sleeping victims then return home before morning to don their stolen skin.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 24<br/><b><u>Unspecific
-  Lore</u></b>: DC 22<br/><b><u>Specific Lore</u></b>: DC 19'
 dexterity: '+5'
 element: null
 fly_speed: null

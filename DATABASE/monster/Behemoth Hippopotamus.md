@@ -14,11 +14,6 @@ creature_ability:
 - Swallow Whole
 - Trample
 creature_family: '[[DATABASE/monsterfamily/Hippopotamus|Hippopotamus]]'
-description: 'Behemoth hippopotamuses stand taller than elephants. They spend less
-  time out of water than their smaller kin. Behemoth hippos are omnivorous, and many
-  enjoy the taste of meat.<br/><br/><b><u>Recall Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 27<br/><b><u>Unspecific Lore</u></b>: DC 25<br/><b><u>Specific Lore</u></b>:
-  DC 22'
 dexterity: '+4'
 element: null
 fly_speed: null

@@ -9,14 +9,6 @@ constitution: '+2'
 creature_ability:
 - Goblin Scuttle
 creature_family: '[[DATABASE/monsterfamily/Goblin|Goblin]]'
-description: "Some goblins take their people\u2019s admiration of fire fully into\
-  \ the realm of deadly obsession. These pyromaniacs can be a great boon to a band\
-  \ of goblin raiders eager to torch their enemies and wreak havoc. More often, however,\
-  \ their presence is a double-edged sword; in the heat of the moment, goblin pyros\
-  \ sometimes lose sight of their tribe\u2019s goals and simply set fire to anything\
-  \ that will burn\u2014including their own allies.<br/><br/><b><u>Recall Knowledge\
-  \ - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 15<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>: DC 10"
 dexterity: '+4'
 element: null
 fly_speed: null

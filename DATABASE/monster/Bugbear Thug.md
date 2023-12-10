@@ -10,10 +10,6 @@ creature_ability:
 - Bushwhack
 - Mauler
 creature_family: '[[DATABASE/monsterfamily/Bugbear|Bugbear]]'
-description: 'The more common bugbear thug specializes in the art of lurking in the
-  shadows.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 16<br/><b><u>Unspecific Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>:
-  DC 11'
 dexterity: '+2'
 element: null
 fly_speed: null

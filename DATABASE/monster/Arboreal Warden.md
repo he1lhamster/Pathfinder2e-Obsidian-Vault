@@ -12,19 +12,6 @@ creature_ability:
 - Shield Block
 - Shield Push
 creature_family: '[[DATABASE/monsterfamily/Arboreal|Arboreal]]'
-description: "Arboreal wardens are the rangers of arboreal society. These itinerant\
-  \ folk have an innate curiosity about the woodlands in which they dwell, and rarely\
-  \ stop to take root and rest in the same part of the forest twice. This wanderlust\
-  \ makes wardens ideal forest patrollers and scouts. While they are robust combatants,\
-  \ they know better than to confront dangerous foes on their own. Instead, they report\
-  \ any dangers to arboreal regents. In rare cases, large groups of arboreal wardens\
-  \ congregate to form a copse. Copses travel beyond the boundaries of a forest to\
-  \ investigate the hinterlands and gather intelligence on potential threats before\
-  \ returning to report their findings. Arboreal wardens do not pretend to understand\
-  \ to other creatures\u2019 motives\u2014like most forces of the natural world, they\
-  \ are ambivalent about mortal affairs that do not involve their forest.<br/><br/><b><u>Recall\
-  \ Knowledge - Plant</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 19<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 17<br/><b><u>Specific Lore</u></b>: DC 14"
 dexterity: '+1'
 element: null
 fly_speed: null

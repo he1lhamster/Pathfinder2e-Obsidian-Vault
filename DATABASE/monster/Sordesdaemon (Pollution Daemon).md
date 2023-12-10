@@ -1,98 +1,79 @@
 ﻿---
-ac: '34'
+ac: '37'
 alignment: NE
 all_resistance: null
 burrow_speed: null
 charisma: '+5'
-climb_speed: null
-constitution: '+4'
+climb_speed: '20'
+constitution: '+9'
 creature_ability:
-- Boneshard Burst
-- Consume Spell
-- Siphon Magic
-- Swarming Gnaw
-creature_family: '[[DATABASE/monsterfamily/Skull Swarm|Skull Swarm]]'
-description: 'The act of creating a [[DATABASE/monster/Demilich|demilich]] sometimes
-  goes horribly awry, leaving behind a shattered remnant of a once-mighty spellcaster
-  constantly leaking eldritch energies. The ruined spirit animates a cloud of debased
-  copies of itself, glittering with cracked crystals in crude imitation, and it hungers
-  constantly for the magical energies denied it in its corrupted immortality.<br/><br/>
-  Some of the spellcaster''s personality remains in the swarm, albeit usually unnaturally
-  split between the skulls. As a consequence, the skulls argue among themselves as
-  warring parts of the personality clamor to be heard, resulting in the swarm''s fractious,
-  inconstant attitude.<br/><br/><b><u>Recall Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 37<br/><b><u>Unspecific Lore</u></b>: DC 35<br/><b><u>Specific Lore</u></b>:
-  DC 32'
-dexterity: '+6'
+- Miasma of Pollution
+- Pollution Infusion
+- Retch of Foulness
+creature_family: '[[DATABASE/monsterfamily/Daemon|Daemon]]'
+dexterity: '+3'
 element: null
-fly_speed: '40'
-fortitude: '+22'
+fly_speed: null
+fortitude: '+30'
 hardness: null
-hp: 190 ( negative healing )
-id: '1309'
+hp: '300'
+id: '1017'
 immunity:
 - '[[DATABASE/trait/Death|death]] effects'
 - '[[DATABASE/trait/Disease|disease]]'
-- '[[DATABASE/condition/Paralyzed|paralyzed]]'
-- '[[DATABASE/trait/Poison|poison]]'
-- precision
-- '[[DATABASE/monsterability/Swarm Mind|swarm mind]]'
-- '[[DATABASE/condition/Unconscious|unconscious]]'
-intelligence: '+8'
-land_speed: null
-language: null
-level: '14'
-max_speed: '40'
-name: Sorcerous Skull Swarm
-perception: '+24'
-rarity: Rare
-reflex: '+26'
-resistance:
-- bludgeoning 6
-- cold 12
-- electricity 12
-- fire 12
-- piercing 12
-- slashing 12
+intelligence: '+6'
+land_speed: '30'
+language:
+- '[[DATABASE/language/Common|Common]]'
+- '[[DATABASE/language/Daemonic|Daemonic]] ; telepathy 100 feet'
+level: '15'
+max_speed: '30'
+name: Sordesdaemon
+perception: '+26'
+rarity: Uncommon
+reflex: '+24'
+resistance: null
 rus_type_level: null
 school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
-- '[[DATABASE/spell/True Seeing|true seeing]]'
 size: Large
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +26'
-- '[[DATABASE/skill/Arcana|Arcana]] +28'
-- '[[DATABASE/skill/Occultism|Occultism]] +28'
-source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
+- '[[DATABASE/skill/Arcana|Arcana]] +27'
+- '[[DATABASE/skill/Crafting|Crafting]] +29'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +28'
+- '[[DATABASE/skill/Medicine|Medicine]] +26'
+- '[[DATABASE/skill/Religion|Religion]] +28'
+- '[[DATABASE/skill/Stealth|Stealth]] +24'
+- '[[DATABASE/skill/Survival|Survival]] +28'
+source: '[[DATABASE/source/Pathfinder 162. Ruins of the Radiant Siege|Pathfinder #162:
+  Ruins of the Radiant Siege]]'
 speed:
-- fly 40 feet
+- 30 feet
+- climb 20 feet
 spell:
-- '[[DATABASE/spell/Detect Magic|Detect Magic]]'
-- '[[DATABASE/spell/Dispel Magic|DispelMagic]]'
-- '[[DATABASE/spell/Mage Hand|Mage Hand]]'
-- '[[DATABASE/spell/Spell Turning|Spell Turning]]'
-- '[[DATABASE/spell/Telekinetic Projectile|Telekinetic Projectile]]'
-- '[[DATABASE/spell/True Seeing|True Seeing]]'
-strength: '-3'
-strength_req: '-3'
+- '[[DATABASE/spell/Cloudkill|Cloudkill]]'
+- '[[DATABASE/spell/Detect Alignment|DetectAlignment]]'
+- '[[DATABASE/spell/Dimension Door|Dimension Door]]'
+- '[[DATABASE/spell/Horrid Wilting|Horrid Wilting]]'
+- '[[DATABASE/spell/Spiritual Epidemic|Spiritual Epidemic]]'
+strength: '+8'
+strength_req: '8'
 strongest_save:
-- Reflex
-- Will
+- Fortitude
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Rare|Rare]]'
-- '[[DATABASE/trait/Swarm|Swarm]]'
-- '[[DATABASE/trait/Undead|Undead]]'
+- '[[DATABASE/trait/Daemon|Daemon]]'
+- '[[DATABASE/trait/Fiend|Fiend]]'
+- '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
 vision: Darkvision
 weakest_save:
-- Fortitude
+- Reflex
 weakness:
-- area damage 12
-- '[[DATABASE/trait/Splash|splash]] damage 12'
+- good 15
 will: '+26'
-wisdom: '+4'
+wisdom: '+5'
 
 ---
 # Sordesdaemon (Pollution Daemon)

@@ -10,14 +10,6 @@ creature_ability:
 - Hold Fast
 - Insect Swarm
 creature_family: '[[DATABASE/monsterfamily/Elemental, Wood|Elemental, Wood]]'
-description: 'These moss colonies coalesce over a century into the rough facsimile
-  of a large sloth, right down to mimicking the unique structure of the animal''s
-  fur that attracts additional fungi and pollinating insects. Unless summoned or attacked,
-  they rarely leave the trees upon which they first formed.<br/><br/><b><u>Recall
-  Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 16<br/><b><u>Recall Knowledge - Plant</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 16<br/><b><u>Unspecific Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>:
-  DC 11'
 dexterity: '+0'
 element: Wood
 fly_speed: null

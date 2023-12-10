@@ -15,10 +15,6 @@ creature_ability:
 - ''
 - Vulnerable to Stone to Flesh
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]]
-  )</b>: DC 35<br/><b><u>Unspecific Lore</u></b>: DC 33<br/><b><u>Specific Lore</u></b>:
-  DC 30'
 dexterity: '-1'
 element: null
 fly_speed: null

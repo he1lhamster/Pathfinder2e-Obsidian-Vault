@@ -13,10 +13,6 @@ creature_ability:
 - Steal the Sun
 - Trample
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]]
-  )</b>: DC 31<br/><b><u>Unspecific Lore</u></b>: DC 29<br/><b><u>Specific Lore</u></b>:
-  DC 26'
 dexterity: '+2'
 element: null
 fly_speed: null

@@ -15,10 +15,6 @@ creature_ability:
 - Wind-Fire Charge
 - Wind-Fire Chariot
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Ethereal</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 48<br/><b><u>Recall
-  Knowledge - Spirit</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 48<br/><b><u>Unspecific
-  Lore</u></b>: DC 46<br/><b><u>Specific Lore</u></b>: DC 43'
 dexterity: '+9'
 element: null
 fly_speed: null

@@ -10,10 +10,6 @@ creature_ability:
 - Strangle
 - Vulnerable to Sunlight
 creature_family: '[[DATABASE/monsterfamily/Dero|Dero]]'
-description: 'Dero stranglers specialize in capturing living victims, and they are
-  often called upon to aid in abductions.<br/><br/><b><u>Recall Knowledge - Humanoid</u>
-  ( [[DATABASE/skill/Society|Society]] )</b>: DC 18<br/><b><u>Unspecific Lore</u></b>:
-  DC 16<br/><b><u>Specific Lore</u></b>: DC 13'
 dexterity: '+3'
 element: null
 fly_speed: null

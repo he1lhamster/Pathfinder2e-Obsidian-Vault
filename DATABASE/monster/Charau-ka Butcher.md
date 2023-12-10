@@ -14,14 +14,6 @@ creature_ability:
 - Shrieking Frenzy
 - Thrown Weapon Mastery
 creature_family: '[[DATABASE/monsterfamily/Charau-ka|Charau-ka]]'
-description: 'While charau-ka are infamous for their brutality, some even frighten
-  their own kind in their obsession with violence. These deadly butchers are well-versed
-  in the art of inflicting vicious, bloody wounds on their enemies, and they consider
-  anyone not charau-ka an enemy. A single taste of a foe''s blood can grant one terrifying
-  strength, as if the charau-ka butcher literally gains power from their victims''
-  pain.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 22<br/><b><u>Unspecific Lore</u></b>: DC 20<br/><b><u>Specific Lore</u></b>:
-  DC 17'
 dexterity: '+3'
 element: null
 fly_speed: null

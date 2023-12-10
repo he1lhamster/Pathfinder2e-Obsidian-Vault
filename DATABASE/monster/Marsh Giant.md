@@ -12,26 +12,6 @@ creature_ability:
 - Throw Rock
 - Twist the Hook
 creature_family: '[[DATABASE/monsterfamily/Giant|Giant]]'
-description: 'Dwellers of brackish coastal salt marshes and fetid bogs and swamps,
-  marsh giants are hideous in appearance indeed, with fishlike mouths, slimy gray-green
-  skin, and dark, beady eyes. They prefer to eat the flesh of those they slay in battle,
-  but many are also cannibals. It is perhaps this vicious behavior that keeps the
-  creatures in check, for if a fellow marsh giant becomes too dangerous and powerful,
-  it runs the risk of being ambushed and consumed by its clan.<br/><br/> Marsh giants
-  are insular and mysterious, dedicating much of their lives to zealous worship of
-  sea-dwelling deities or stranger entities. While there is no central religion followed
-  by all marsh giants, many are known to venerate the demon lord [[DATABASE/deity/Dagon|Dagon]]
-  , while others worship even more powerful monstrosities from the Elder Mythos, such
-  as distant, dreaming Cthulhu.<br/><br/> Only rarely do more than a dozen marsh giants
-  settle together in a location, but when they do it is often for a religious purpose.
-  Whatever call from the deep draws them together also tugs at nearby creatures such
-  as boggards or skum, who look upon marsh giants in fear and reverence. The grim,
-  terrifying chants and screams coming from such an encampment are a sure sign of
-  terror to come for any other residents of the area.<br/><br/> Barely topping 11
-  feet tall and 1,000 pounds, marsh giants are small for giants but make up for their
-  relatively diminutive stature with their zealotry.<br/><br/><b><u>Recall Knowledge
-  - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 24<br/><b><u>Unspecific
-  Lore</u></b>: DC 22<br/><b><u>Specific Lore</u></b>: DC 19'
 dexterity: '+3'
 element: null
 fly_speed: null

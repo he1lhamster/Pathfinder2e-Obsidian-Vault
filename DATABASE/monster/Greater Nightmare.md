@@ -11,12 +11,6 @@ creature_ability:
 - Smoke
 - Trample
 creature_family: '[[DATABASE/monsterfamily/Nightmare|Nightmare]]'
-description: 'The enormous greater nightmare is a more dangerous variety of nightmare,
-  particularly valued for its ability to invade other realities with its rider.<br/><br/><b><u>Recall
-  Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 28<br/><b><u>Recall Knowledge - Fiend</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 28<br/><b><u>Unspecific Lore</u></b>: DC 26<br/><b><u>Specific Lore</u></b>:
-  DC 23'
 dexterity: '+4'
 element: null
 fly_speed: '120'

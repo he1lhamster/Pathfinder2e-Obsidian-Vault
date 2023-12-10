@@ -12,11 +12,6 @@ creature_ability:
 - Hydraulic Deflection
 - Surface Skimmer
 creature_family: '[[DATABASE/monsterfamily/Azarketi|Azarketi]]'
-description: 'This rakish azarketi explores the wrecks and ruins of the Inner Sea''s
-  coasts. At home above and below the waves, they fight to protect their discoveries,
-  their life, and their reputation.<br/><br/><b><u>Recall Knowledge - Humanoid</u>
-  ( [[DATABASE/skill/Society|Society]] )</b>: DC 16<br/><b><u>Unspecific Lore</u></b>:
-  DC 14<br/><b><u>Specific Lore</u></b>: DC 11'
 dexterity: '+1'
 element: null
 fly_speed: null

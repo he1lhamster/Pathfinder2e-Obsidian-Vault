@@ -10,16 +10,6 @@ creature_ability:
 - Susceptible to Death
 - Walk the Ethereal Line
 creature_family: '[[DATABASE/monsterfamily/Phantom|Phantom]]'
-description: 'Cavaliers and knights who died for their cause make for particularly
-  strong-willed phantoms. Though their motives vary, these phantoms often seek to
-  continue their lifelong missions even in their purgatorial states, and their strong
-  forces of will make them formidable fighters in spite of their incorporeality. A
-  phantom knight might strive to find living followers of their church or order, or
-  seek out other mortals they knew in life as a way of staying grounded and avoiding
-  the corruption of undeath.<br/><br/><b><u>Recall Knowledge - Ethereal</u> ( [[DATABASE/skill/Occultism|Occultism]]
-  )</b>: DC 21<br/><b><u>Recall Knowledge - Spirit</u> ( [[DATABASE/skill/Occultism|Occultism]]
-  )</b>: DC 21<br/><b><u>Unspecific Lore</u></b>: DC 19<br/><b><u>Specific Lore</u></b>:
-  DC 16'
 dexterity: '+4'
 element: null
 fly_speed: '25'

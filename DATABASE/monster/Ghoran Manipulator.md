@@ -11,10 +11,6 @@ creature_ability:
 - Appetizing Aroma
 - Delicious
 creature_family: '[[DATABASE/monsterfamily/Ghoran|Ghoran]]'
-description: 'This ghoran manipulator relies on charm to survive.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 23<br/><b><u>Recall
-  Knowledge - Plant</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 23<br/><b><u>Unspecific
-  Lore</u></b>: DC 21<br/><b><u>Specific Lore</u></b>: DC 18'
 dexterity: '+1'
 element: null
 fly_speed: null

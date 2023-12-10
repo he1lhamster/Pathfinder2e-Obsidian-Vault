@@ -9,9 +9,6 @@ constitution: '+0'
 creature_ability:
 - Blood of the Night
 creature_family: '[[DATABASE/monsterfamily/Dhampir|Dhampir]]'
-description: 'This dhampir is a svetocher, the child of a moroi vampire.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 16<br/><b><u>Unspecific
-  Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>: DC 11'
 dexterity: '+3'
 element: null
 fly_speed: null

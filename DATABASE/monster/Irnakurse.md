@@ -13,16 +13,6 @@ creature_ability:
 - Soul Scream
 - Storm of Tentacles
 creature_family: '[[DATABASE/monsterfamily/Fleshwarp|Fleshwarp]]'
-description: "Irnakurse are surface elves who [[DATABASE/monsterfamily/Drow|drow]]\
-  \ have subjected to particularly cruel and humiliating fleshwarping practices, as\
-  \ drow take special delight in the torment of their surface-dwelling kin. The process\
-  \ of crafting an irnakurse involves twisting an unfortunate elf into a deformed\
-  \ mass of misplaced limbs, loose flesh, and bony protrusions\u2014parts that should\
-  \ be internal are often left on full display to the world. Irnakurse are subject\
-  \ to mental conditioning that causes them to hate their prior forms, and these creatures\
-  \ prefer to attack surface elves over all other targets.<br/><br/><b><u>Recall Knowledge\
-  \ - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 26<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 24<br/><b><u>Specific Lore</u></b>: DC 21"
 dexterity: '+5'
 element: null
 fly_speed: null

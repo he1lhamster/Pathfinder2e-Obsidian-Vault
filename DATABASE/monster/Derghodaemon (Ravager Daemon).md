@@ -1,99 +1,76 @@
 ﻿---
-ac: '27'
-alignment: CE
+ac: '33'
+alignment: NE
 all_resistance: null
 burrow_speed: null
-charisma: '+5'
+charisma: '+6'
 climb_speed: null
-constitution: '+4'
+constitution: '+5'
 creature_ability:
-- Debilitating Bite
-- Leng Ruby
-- No Breath
-- Planar Fast Healing
-creature_family: null
-description: 'Slavers and raiders from the cold, windswept dimension of Leng, these
-  malevolent humanoids range across reality in ominous black ships capable of sailing
-  beyond the borders of dimensions and planes. Although most denizens of Leng seek
-  slaves and plunder like any pirate, others operate as self-styled ambassadors and
-  merchants, sowing discord with far-ranging plots. While the inscrutable denizens
-  dress themselves in flowing robes, veils, and broad turbans to appear human, their
-  aberrant physiology, when glimpsed, is evident from their crown of stubby horns
-  and tentacled jaws to their furry, goat-like legs.<br/><br/>Above the fierce captains
-  who command the infamous black ships are an even higher caste of denizens of Leng.
-  These cultists and musicians serve as high priests, laboring to appease the frightening
-  gods who look down upon the Nightmare Realm with cold malice.<br/><br/><b><u>Recall
-  Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 26<br/><b><u>Unspecific
-  Lore</u></b>: DC 24<br/><b><u>Specific Lore</u></b>: DC 21'
-dexterity: '+3'
+- Derghodaemon's Stare
+- Rend
+- Savage Assault
+- Swarming Infestation
+creature_family: '[[DATABASE/monsterfamily/Daemon|Daemon]]'
+dexterity: '+6'
 element: null
 fly_speed: null
-fortitude: '+16'
+fortitude: '+21'
 hardness: null
-hp: 100 (planar fast healing 5)
-id: '604'
+hp: '240'
+id: '594'
 immunity:
-- cold
-intelligence: '+6'
-land_speed: '30'
+- '[[DATABASE/condition/Confused|confusion]]'
+- '[[DATABASE/trait/Death|death]] effects'
+- '[[DATABASE/trait/Swarm|swarm]] attacks'
+intelligence: '+1'
+land_speed: '35'
 language:
-- '[[DATABASE/language/Aklo|Aklo]] ; [[DATABASE/spell/Tongues|tongues]]'
-level: '8'
-max_speed: '30'
-name: Denizen of Leng
-perception: '+17'
-rarity: Uncommon
-reflex: '+19'
-resistance:
-- critical hits 10
-- precision 10
+- '[[DATABASE/language/Common|Common]]'
+- '[[DATABASE/language/Daemonic|Daemonic]] ; [[DATABASE/monsterability/Telepathy|telepathy
+  100 feet]]'
+level: '12'
+max_speed: '35'
+name: Derghodaemon
+perception: '+24'
+rarity: Common
+reflex: '+24'
+resistance: null
 rus_type_level: null
 school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
-size: Medium
+- '[[DATABASE/monsterability/Scent|scent (imprecise) 60 feet]]'
+size: Large
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +15'
-- '[[DATABASE/skill/Athletics|Athletics]] +15'
-- '[[DATABASE/skill/Deception|Deception]] +19'
-- '[[DATABASE/skill/Occultism|Occultism]] +18'
-- '[[DATABASE/skill/Lore|Sailing Lore]] +20'
-- '[[DATABASE/skill/Stealth|Stealth]] +17'
-- '[[DATABASE/skill/Thievery|Thievery]] +17'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +22'
+- '[[DATABASE/skill/Athletics|Athletics]] +25'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +24'
+- '[[DATABASE/skill/Stealth|Stealth]] +24'
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
-- 30 feet
+- 35 feet
 spell:
-- '[[DATABASE/spell/Chill Touch|Chill Touch]]'
-- '[[DATABASE/spell/Detect Magic|DetectMagic]]'
-- '[[DATABASE/spell/Hypnotic Pattern|Hypnotic Pattern]]'
-- '[[DATABASE/spell/Levitate|Levitate]]'
-- '[[DATABASE/spell/Locate|Locate]]'
-- '[[DATABASE/spell/Mage Hand|Mage Hand]]'
-- '[[DATABASE/spell/Message|Message]]'
-- '[[DATABASE/spell/Mind Reading|MindReading]]'
-- '[[DATABASE/spell/Mirror Image|Mirror Image]]'
-- '[[DATABASE/spell/Outcast''s Curse|Outcast''s Curse]]'
-- '[[DATABASE/spell/Phantom Pain|Phantom Pain]]'
-- '[[DATABASE/spell/Read Aura|Read Aura]]'
-- '[[DATABASE/spell/Suggestion|Suggestion]]'
-- '[[DATABASE/spell/Tongues|Tongues]]'
-strength: '+3'
-strength_req: '3'
+- '[[DATABASE/spell/Blade Barrier|Blade Barrier]]'
+- '[[DATABASE/spell/Detect Alignment|DetectAlignment]]'
+- '[[DATABASE/spell/Dimension Door|Dimension Door]]'
+- '[[DATABASE/spell/Feeblemind|Feeblemind]]'
+strength: '+7'
+strength_req: '7'
 strongest_save:
 - Reflex
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Aberration|Aberration]]'
-- '[[DATABASE/trait/Dream|Dream]]'
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
+- '[[DATABASE/trait/Daemon|Daemon]]'
+- '[[DATABASE/trait/Fiend|Fiend]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
-will: '+17'
-wisdom: '+3'
+weakness:
+- good 10
+will: '+22'
+wisdom: '+6'
 
 ---
 # Derghodaemon (Ravager Daemon)

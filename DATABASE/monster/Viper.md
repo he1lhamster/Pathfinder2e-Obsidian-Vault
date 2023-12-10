@@ -10,12 +10,6 @@ creature_ability:
 - Slink
 - Viper Venom
 creature_family: '[[DATABASE/monsterfamily/Snake|Snake]]'
-description: "Each member of this family of venomous snakes has long, hinged fangs\
-  \ that inject potent venom in their prey. Different vipers inject different types\
-  \ of venom, which might result in paralysis, extreme pain and swelling, blood clotting,\
-  \ or even the sudden stopping of the victim\u2019s heart.<br/><br/><b><u>Recall\
-  \ Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 13<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 11<br/><b><u>Specific Lore</u></b>: DC 8"
 dexterity: '+4'
 element: null
 fly_speed: null

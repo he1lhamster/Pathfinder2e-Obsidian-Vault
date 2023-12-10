@@ -11,9 +11,6 @@ creature_ability:
 - Grasping Tail
 - Revived Retaliation
 creature_family: '[[DATABASE/monsterfamily/Opossum|Opossum]]'
-description: 'Larger species of opossum can eat nearly anything human-sized or smaller.<br/><br/><b><u>Recall
-  Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 16<br/><b><u>Unspecific
-  Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>: DC 11'
 dexterity: '+2'
 element: null
 fly_speed: null

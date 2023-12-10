@@ -15,10 +15,6 @@ creature_ability:
 - Sneak
 - Attack
 creature_family: '[[DATABASE/monsterfamily/Drow|Drow]]'
-description: 'The rare few drow who specialize in the repeating hand crossbow command
-  respect not only for their skills but for their luck and swagger.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 26<br/><b><u>Unspecific
-  Lore</u></b>: DC 24<br/><b><u>Specific Lore</u></b>: DC 21'
 dexterity: '+5'
 element: null
 fly_speed: null

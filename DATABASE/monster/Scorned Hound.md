@@ -11,11 +11,6 @@ creature_ability:
 - Sense Companion
 - Stench
 creature_family: '[[DATABASE/monsterfamily/Risen Pet|Risen Pet]]'
-description: 'Scorned hounds rise from the most devoted dogs. They''re incredibly
-  possessive of their owners, allowing no living beings to approach and refusing to
-  be parted.<br/><br/><b><u>Recall Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 15<br/><b><u>Unspecific Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>:
-  DC 10'
 dexterity: '+2'
 element: null
 fly_speed: null

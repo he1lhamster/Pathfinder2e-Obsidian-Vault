@@ -14,21 +14,6 @@ creature_ability:
 - Rat Empathy
 - Sneak Attack
 creature_family: '[[DATABASE/monsterfamily/Werecreature|Werecreature]]'
-description: "Wererats tend to be selfishly opportunistic, avaricious, and paranoid\
-  \ as a result of their curse. Because wererats typically dwell in metropolitan areas\
-  \ where they can hide in plain sight, practically any city-goer could be a wererat\
-  \ in disguise\u2014from the quiet shopkeep to the city\u2019s criminal mastermind.\
-  \ The bustle of crowds and countless rat-holes make ghettos and shantytowns favored\
-  \ homes for wererats, especially since in these poorer districts the wererat can\
-  \ kill out of greed or fear with little chance of the authorities noticing. In some\
-  \ cities, wererats operate entire thieves\u2019 guilds or organized crime rings,\
-  \ and membership requires willfully submitting to the wererat\u2019s cursed bite.\
-  \ Wererats look very similar to ratfolk when in hybrid form, apart from potential\
-  \ differences in size, but ratfolk have no love for these monsters.<br/><br/><b><u>Recall\
-  \ Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 16<br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]\
-  \ )</b>: DC 16<br/><b><u>Unspecific Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>:\
-  \ DC 11"
 dexterity: '+4'
 element: null
 fly_speed: null

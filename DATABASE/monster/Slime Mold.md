@@ -10,20 +10,6 @@ creature_ability:
 - Motion Sense
 - Slime Rot
 creature_family: '[[DATABASE/monsterfamily/Ooze|Ooze]]'
-description: 'A slime mold appears as a mound of earth and detritus covered in a thick
-  layer of fungus that exudes a faint stink of decay. The fungus actually shares a
-  symbiotic relationship with the slime mold, serving as an external digestive system
-  while gaining access to the nutrients it needs. The ooze remains perfectly still
-  until living prey passes within reach, then it lashes out with disgusting pseudopods.
-  With a touch, a slime mold can infect its prey with a foul contagion known as slime
-  rot, a horrific disease that painfully breaks down a victim''s flesh. At first,
-  the disease manifests as painful rashes and agonized joints. In the later stages,
-  though, the flesh of the affected creature actually begins to liquefy and run in
-  rivulets as the creature''s spores continue to work. Death, when it occurs, swiftly
-  causes the resulting body to split open and release a brand new slime mold.<br/><br/><b><u>Recall
-  Knowledge - Fungus</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 16<br/><b><u>Recall
-  Knowledge - Ooze</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 16<br/><b><u>Unspecific
-  Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>: DC 11'
 dexterity: '+0'
 element: null
 fly_speed: null

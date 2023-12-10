@@ -17,14 +17,6 @@ creature_ability:
 - Whole
 - Trample
 creature_family: null
-description: "A maliadi resembles a massive hippopotamus surrounded by a collar of\
-  \ flame. Maliadis are arrogant and tyrannical, and demand tribute from everyone\
-  \ they encounter\u2014whether lone travelers or entire villages\u2014to avert destruction.\
-  \ Many pay them off, for maliadis can hurl parts of their flaming collars to form\
-  \ geysers of flame or fiery walls, and they're also powerful shapeshifters.<br/><br/><b><u>Recall\
-  \ Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 38<br/><b><u>Unspecific Lore</u></b>: DC 36<br/><b><u>Specific Lore</u></b>:\
-  \ DC 33"
 dexterity: '+3'
 element: null
 fly_speed: null

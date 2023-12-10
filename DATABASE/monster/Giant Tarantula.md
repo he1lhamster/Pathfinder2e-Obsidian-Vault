@@ -10,9 +10,6 @@ creature_ability:
 - Giant Tarantula Venom
 - Hair Barrage
 creature_family: '[[DATABASE/monsterfamily/Spider|Spider]]'
-description: 'Tarantulas are ambush predators, but will attack prey in the open.<br/><br/><b><u>Recall
-  Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 22<br/><b><u>Unspecific
-  Lore</u></b>: DC 20<br/><b><u>Specific Lore</u></b>: DC 17'
 dexterity: '+1'
 element: null
 fly_speed: null

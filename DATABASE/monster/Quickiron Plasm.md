@@ -12,13 +12,6 @@ creature_ability:
 - Consume Magic
 - Magic Scent
 creature_family: '[[DATABASE/monsterfamily/Elemental, Metal|Elemental, Metal]]'
-description: 'Looking much like an ooze, a quickiron plasm is a mass of the rust-red
-  liquid skymetal known as [[DATABASE/equipment/Djezet|djezet]] , prized in the [[DATABASE/plane/Material
-  Plane|Universe]] for its magic-enhancing properties. Quickiron plasms feed on the
-  residual energies left behind by large expenditures of magical power, which they
-  can detect from miles away.<br/><br/><b><u>Recall Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Nature|Nature]] )</b>: DC 19<br/><b><u>Unspecific Lore</u></b>:
-  DC 17<br/><b><u>Specific Lore</u></b>: DC 14'
 dexterity: '+2'
 element: Metal
 fly_speed: null

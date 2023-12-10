@@ -13,15 +13,6 @@ creature_ability:
 - To the Hilt
 - Turbulent Seas
 creature_family: '[[DATABASE/monsterfamily/Genie|Genie]]'
-description: 'Faydhaan shuyookhs are powerful faydhaans venerated as leaders, diplomats,
-  and negotiators. As representatives of faydhaan-kind, they observe strict rules
-  of etiquette and hospitality and hold the literary and performing arts in high esteem.
-  A faydhaan shuyookh takes delight in greeting guests, and being greeted in return,
-  to see how many different greetings they can demonstrate. Guests who creatively
-  engage in this customary greeting game will impress a faydhaan shuyookh and receive
-  magnificent hospitality.<br/><br/><b><u>Recall Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Nature|Nature]] )</b>: DC 37<br/><b><u>Unspecific Lore</u></b>:
-  DC 35<br/><b><u>Specific Lore</u></b>: DC 32'
 dexterity: '+7'
 element: Water
 fly_speed: null

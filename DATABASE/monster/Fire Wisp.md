@@ -12,11 +12,6 @@ creature_ability:
 - Resonance
 - Smoke Vision
 creature_family: '[[DATABASE/monsterfamily/Elemental, Wisp|Elemental, Wisp]]'
-description: "Fire wisps are sizzling spheres of flame and ash, perpetually crackling\
-  \ and shimmering with heat. They're carefree, boisterous, and quick to action\u2014\
-  \ sometimes recklessly so.<br/><br/><b><u>Recall Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]]\
-  \ , [[DATABASE/skill/Nature|Nature]] )</b>: DC 14<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 12<br/><b><u>Specific Lore</u></b>: DC 9"
 dexterity: '+3'
 element: Fire
 fly_speed: '15'

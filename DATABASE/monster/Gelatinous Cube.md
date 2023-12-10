@@ -13,12 +13,6 @@ creature_ability:
 - Transparent
 - Weak Acid
 creature_family: '[[DATABASE/monsterfamily/Ooze|Ooze]]'
-description: "Found underground or in dungeons, these quivering cubes of slime continuously\
-  \ scour their domain for food. The acid in their bodies is weak enough that many\
-  \ gelatinous cubes still contain the gear of their victims, as they\u2019re unable\
-  \ to break them down.<br/><br/><b><u>Recall Knowledge - Ooze</u> ( [[DATABASE/skill/Occultism|Occultism]]\
-  \ )</b>: DC 18<br/><b><u>Unspecific Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>:\
-  \ DC 13"
 dexterity: '-5'
 element: null
 fly_speed: null

@@ -15,28 +15,6 @@ creature_ability:
 - Rear Back
 - Yank
 creature_family: null
-description: "At a distance, the creature known as Kuworsys might be mistaken for\
-  \ a crawling undead hand, possessed of two thumbs instead of one. These \u201Cthumbs\u201D\
-  \ are actually the being's hind limbs, which it can clumsily stand upon should it\
-  \ choose. Each of its fingerlike limbs bears a smaller hand on the end, giving Kuworsys\
-  \ an eerie gait possessed of too many moving joints. Wedged within the wrist-shaped\
-  \ tissue that makes up the creature's head are three bloodshot eyes, glaring balefully\
-  \ from lids twisted into shape from ropes of flesh.<br/><br/> Whether part of its\
-  \ base nature or due to its long imprisonment, Kuworsys appears to be skinned and\
-  \ rotting, its body riddled with ragged holes held together by raw sinew. Despite\
-  \ its glistening and putrid appearance, it isn't undead, nor does it leave any trace\
-  \ of blood or gristle in its wake. Those who believe its condition might slow it\
-  \ down are often shocked by the creature's jittering speed, and those who believe\
-  \ they might be able to track it by the scent of rotting flesh find themselves inhaling\
-  \ the beast's deadly, exhausting spores instead.<br/><br/> When encountering another\
-  \ creature, Kuworsys doesn't approach initially, instead observing the stranger\
-  \ while hidden or at a distance. While it might grow bolder and approach to examine\
-  \ or provoke another being, it prefers to avoid direct confrontation and is intelligent\
-  \ and stealthy enough to deftly avoid discovery. Its presence proves deadly enough,\
-  \ even without any further aggression, as those who Kuworsys stalks eventually succumb\
-  \ to a lethal lethargy.<br/><br/><b><u>Recall Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]]\
-  \ )</b>: DC 40<br/><b><u>Unspecific Lore</u></b>: DC 38<br/><b><u>Specific Lore</u></b>:\
-  \ DC 35"
 dexterity: '+8'
 element: null
 fly_speed: null

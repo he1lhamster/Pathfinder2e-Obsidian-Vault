@@ -13,23 +13,6 @@ creature_ability:
 - Spirit Charge
 - Spirit Steps
 creature_family: null
-description: "Si\xE9 Goluo, sometimes referred to simply as Grandfather, is an ancient\
-  \ spirit that has kept watch over the peoples of the Mwangi Expanse for generations.\
-  \ Most believe he first appeared during the Age of Darkness to protect the Mwangi\
-  \ people from the worst dangers of the everlasting night. Bekyar storytellers claim\
-  \ he is older still, from a time before the first people walked Golarion. This immortal\
-  \ spirit has incarnated into multiple forms over millennia. In the oldest surviving\
-  \ tales, they say Si\xE9 Goluo looked like an ordinary\u2014if oversized\u2014ox,\
-  \ save for his nearly human-looking eyes. Most recently, people say he has the appearance\
-  \ of several different animals, but accounts vary on which animals make up his form.<br/><br/>\
-  \ When a traveling farmer is assailed by a deadly beast, or a small village faces\
-  \ the wrath of an advancing army, Si\xE9 Goluo manifests in whatever form will allow\
-  \ him to best defend them. There seem to be no geographical limitations on where\
-  \ he can manifest, as there are tales of him saving Mwangi adventurers as far spread\
-  \ as Tian Xia and Arcadia.<br/><br/><b><u>Recall Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]]\
-  \ , [[DATABASE/skill/Nature|Nature]] )</b>: DC 42<br/><b><u>Recall Knowledge - Spirit</u>\
-  \ ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 42<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 40<br/><b><u>Specific Lore</u></b>: DC 37"
 dexterity: '+5'
 element: null
 fly_speed: null

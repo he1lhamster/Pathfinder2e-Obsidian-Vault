@@ -1,89 +1,84 @@
 ﻿---
-ac: '27'
-alignment: CE
+ac: '32'
+alignment: NE
 all_resistance: null
 burrow_speed: null
 charisma: '+0'
 climb_speed: null
-constitution: '+6'
+constitution: '+5'
 creature_ability:
-- Burrowed Ambush
-- Burrowing Concealment
-- Limited Vision
-- Swallow Whole
-- Weak Feet
+- Attack of Opportunity
+- Blackfrost Evasion
+- Dreams of the Blackfrost Whale
+- Invasive Blackfrost
+- ''
+- Reactive Tentacles
+- Twist Deviance
 creature_family: null
-description: 'Aigamuxas are towering humanoids that stalk arid deserts in search of
-  prey. Carnivorous and voracious, they hunt anything that moves but especially relish
-  eating sentient creatures. Many Mwangi people incorrectly refer to aigamuxas as
-  demons, while others more accurately describe them as having descended from giants.
-  Aigamuxas resemble large humans with smooth hollows where their eyes should be,
-  but their eyes are actually embedded in the soles of their feet. They sport long,
-  sharp claws and teeth that they use to tear their prey apart once they catch them.
-  A moving aigamuxa''s odd gait resembles dancing more than a typical walk or run,
-  but its speed is alarming, if difficult to correctly estimate at a distance.<br/><br/>
-  An aigamuxa''s unique physiology makes catching prey difficult, and most aigamuxas
-  are constantly hungry. When pursuing prey, an aigamuxa must occasionally stop to
-  lift its feet in order to regain their bearings. Most stand on their hands while
-  looking around, which allows them to immediately backflip back into a run. An aigamuxa''s
-  eyes are generally resistant to the sands of their native desert habitats, but irritants
-  such as chilies or caltrops can seriously impair their hunting ability, and desert
-  travelers often carry a bag of these in case they need to deal with an aigamuxa.<br/><br/>
-  Clever aigamuxas know that attacking wandering prey can be very dangerous, instead
-  using their powerful hands to dig deep into sand dunes or dirt and wait to ambush
-  passersby. Aigamuxas are particularly good at hiding in their home environments,
-  and unfortunate travelers often don''t notice the barely visible eyes of an aigamuxa
-  until it''s too late.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 26<br/><b><u>Unspecific Lore</u></b>: DC 24<br/><b><u>Specific Lore</u></b>:
-  DC 21'
 dexterity: '+4'
 element: null
 fly_speed: null
-fortitude: '+19'
+fortitude: '+23'
 hardness: null
-hp: '140'
-id: '1425'
-immunity: null
-intelligence: '-2'
-land_speed: '30'
+hp: '215'
+id: '2514'
+immunity:
+- '[[DATABASE/trait/Cold|cold]]'
+- '[[DATABASE/trait/Troll|controlled]]'
+- '[[DATABASE/trait/Disease|disease]]'
+intelligence: '+0'
+land_speed: '35'
 language:
-- '[[DATABASE/language/Mwangi|Mwangi]]'
-level: '8'
-max_speed: '30'
-name: Aigamuxa
-perception: '+19'
-rarity: Uncommon
-reflex: '+16'
-resistance: null
+- '[[DATABASE/language/Aklo|Aklo]]'
+- '[[DATABASE/language/Common|Common]]'
+- '[[DATABASE/language/Elven|Elven]]'
+- '[[DATABASE/language/Erutaki|Erutaki]]'
+- '[[DATABASE/language/Jotun|Jotun]]'
+level: '12'
+max_speed: '35'
+name: Ainamuuren (Corrupted)
+perception: '+23'
+rarity: Unique
+reflex: '+22'
+resistance:
+- '[[DATABASE/trait/Fire|fire]] 10'
+- '[[DATABASE/trait/Mental|mental]] 10'
 rus_type_level: null
 school: null
 sense:
+- '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
 size: Large
 skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +18'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +16'
-- '[[DATABASE/skill/Stealth|Stealth]] +14'
-source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
+- '[[DATABASE/skill/Athletics|Athletics]] +25'
+- '[[DATABASE/skill/Stealth|Stealth]] +22'
+source: '[[DATABASE/source/Pathfinder 189. Dreamers of the Nameless Spires|Pathfinder
+  #189: Dreamers of the Nameless Spires]]'
 speed:
-- 30 feet
-spell: null
-strength: '+6'
-strength_req: '6'
+- 35 feet
+spell:
+- '[[DATABASE/spell/Black Tentacles|Black Tentacles]]'
+- '[[DATABASE/spell/Daze|Daze]]'
+- '[[DATABASE/spell/Feeblemind|Feeblemind]]'
+- '[[DATABASE/spell/Phantasmal Calamity|Phantasmal Calamity]]'
+- '[[DATABASE/spell/Synaptic Pulse|Synaptic Pulse]]'
+strength: '+7'
+strength_req: '7'
 strongest_save:
 - Fortitude
+- Will
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Giant|Giant]]'
+- '[[DATABASE/trait/Cold|Cold]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
+- '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
+vision: Darkvision
 weakest_save:
-- Will
+- Reflex
 weakness: null
-will: '+13'
-wisdom: '+3'
+will: '+23'
+wisdom: '+5'
 
 ---
 # Ainamuuren, Corrupted Victim Of Osoyo

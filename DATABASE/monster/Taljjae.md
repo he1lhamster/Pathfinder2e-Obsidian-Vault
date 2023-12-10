@@ -13,12 +13,6 @@ creature_ability:
 - Prop Master
 - Second Act
 creature_family: null
-description: 'The form of Taljjae''s body can vary from visit to visit or even moment
-  to moment, but it''s easily recognized due to its signature cloak and masks. So
-  long as Taljjae''s mood is placid, it can be approached safely, but its mercurial
-  temperament can be hard to predict.<br/><br/><b><u>Recall Knowledge - Fey</u> (
-  [[DATABASE/skill/Nature|Nature]] )</b>: DC 48<br/><b><u>Unspecific Lore</u></b>:
-  DC 46<br/><b><u>Specific Lore</u></b>: DC 43'
 dexterity: '+9'
 element: null
 fly_speed: null

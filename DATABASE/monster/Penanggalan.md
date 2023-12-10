@@ -13,25 +13,6 @@ creature_ability:
 - Ride Corpse
 - Spewing Bile
 creature_family: null
-description: "Penanggalans feed on the blood and entrails of the young. When their\
-  \ cannibalistic hunger strikes, penanggalans bathe their bodies in an alchemical\
-  \ substance that smells like vinegar. Once submerged in the concoction, their neck\
-  \ rips from side to side, allowing their head to float upward and pull out their\
-  \ lungs, stomach, and intestines. They leave their bodies in the vinegar bath much\
-  \ like a molting crab leaves its old shell, then fly off to find a victim filled\
-  \ with blood and guts.<br/><br/> As grotesque as these creatures are when hungry,\
-  \ the penanggalan appears young and healthy while wearing their body. Such is the\
-  \ nature of their existence: they consorted with otherworldy beings, gaining a lifetime\
-  \ of youth in exchange for an evil hunger for the young. But they are not immortal.\
-  \ They age and die normally like the people they once were\u2014they just retain\
-  \ their youthfulness throughout this existence.<br/><br/> It can be difficult to\
-  \ spot a penanggalan among the populace. The faint scar ringing their neck at the\
-  \ point of separation can be explained away as a blemish, and it can be hidden under\
-  \ a flashy necklace. Meanwhile the faint, sour scent of a penanggalan's preserved\
-  \ body, while peculiar, is not uncommon in the sweaty tropics they frequent.<br/><br/><b><u>Recall\
-  \ Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC\
-  \ 20<br/><b><u>Unspecific Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>: DC\
-  \ 15"
 dexterity: '+5'
 element: null
 fly_speed: '40'

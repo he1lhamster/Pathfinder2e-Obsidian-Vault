@@ -12,24 +12,6 @@ creature_ability:
 - Siren
 - Wind-Up
 creature_family: '[[DATABASE/monsterfamily/Clockworks|Clockworks]]'
-description: 'One of the jobs most commonly outsourced to clockworks is guard duty.
-  [[DATABASE/monster/Clockwork Soldier|Clockwork soldiers]] are often too costly to
-  employ en masse, so municipalities looking to cut corners devised the much-cheaper
-  clockwork handler, a budget-friendly construct sufficient for rat catching, door
-  watching, and basic patrol work.<br/><br/> Handlers are typically programmed to
-  react efficiently to certain situations such as intruders or assailants. To that
-  end, all handlers are equipped with an [[DATABASE/equipment/Everburning Torch|everburning
-  torch]] fastened to their hooded lantern-like heads. Furthermore, most clockwork
-  handlers used in public places have their fists covered in a padded material to
-  ensure they don''t accidentally beat suspects to death, though these modifications
-  are removable (removing the [[DATABASE/trait/Nonlethal|nonlethal]] trait from their
-  fist Strike). The nonlethal approach is considered the safest, as clockwork creatures
-  don''t always have the keenest judgement on who is a criminal and who is a customer.
-  A healthy supply of rope allows the clockwork handler to quickly tie-up unruly vagabonds,
-  that they might be brought to justice.<br/><br/><b><u>Recall Knowledge - Construct</u>
-  ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]] )</b>:
-  DC 17<br/><b><u>Unspecific Lore</u></b>: DC 15<br/><b><u>Specific Lore</u></b>:
-  DC 12'
 dexterity: '+2'
 element: null
 fly_speed: null

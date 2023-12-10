@@ -10,21 +10,6 @@ creature_ability:
 - Dooming Bark
 - Worry Prey
 creature_family: null
-description: "Cu siths are hound-like doorkeepers of remote portals to other planes,\
-  \ particularly portals to the untamed realm of the fey, the First World. They are\
-  \ highly territorial and roam the highland moors they call home, constantly on the\
-  \ hunt for any creatures that might intrude on their territory. Those that bargain\
-  \ for safe passage to or from a portal find cu siths to be vigilant escorts that\
-  \ keep travelers safe from extraplanar threats but also ensure their charges don\u2019\
-  t veer from the most direct path to their destination. Cu siths are highly proficient\
-  \ hunters, and to mortals they offer a single warning in the form of their terrifying\
-  \ bark. Creatures that refuse to flee upon hearing a cu sith\u2019s warning bark\
-  \ risk a quick and brutal death.<br/><br/> Cu siths cut imposing figures; they are\
-  \ as large as bulls and covered in intertwining roots, plant matter, and shaggy\
-  \ green and white fur that terminates in a long, plaited tail. Their eyes glow with\
-  \ a fiery green light.<br/><br/><b><u>Recall Knowledge - Fey</u> ( [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 25<br/><b><u>Unspecific Lore</u></b>: DC 23<br/><b><u>Specific Lore</u></b>:\
-  \ DC 20"
 dexterity: '+4'
 element: null
 fly_speed: null

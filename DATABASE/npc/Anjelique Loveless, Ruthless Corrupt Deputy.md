@@ -1,77 +1,72 @@
 ﻿---
-ac: '31'
-alignment: N
+ac: '30'
+alignment: LE
 all_resistance: null
 burrow_speed: null
-charisma: '+2'
+charisma: '+3'
 climb_speed: null
-constitution: '+4'
+constitution: '+3'
 creature_ability:
-- Ancestry Feats
-- Attack of Opportunity
-- Class Abilities
-- Class Feats
-- Cleave
-- General Feats
-- Rage
-- Shake It Off
-- Skill Feats
-- Sudden Charge
-- Swipe
+- Firearms Critical Specialization
+- Lawbringer's Pursuit
+- Mentor's Curse
+- Parting Shot
+- Plant Pyronite Charge
+- Stubborn Resolve
+- Tormenting Shot
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 38<br/><b><u>Unspecific
-  Lore</u></b>: DC 36<br/><b><u>Specific Lore</u></b>: DC 33'
-dexterity: '+4'
+dexterity: '+7'
 element: null
 fly_speed: null
-fortitude: '+22'
-hp: '195'
-id: '2389'
+fortitude: '+24'
+hp: '200'
+id: '1992'
 immunity: null
 intelligence: '+0'
-land_speed: '35'
+land_speed: '25'
 language:
 - '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Hallit|Hallit]]'
+- '[[DATABASE/language/Dwarven|Dwarven]]'
+- '[[DATABASE/language/Elven|Elven]]'
 level: '11'
-max_speed: '35'
-name: Amiri (Level 11)
-perception: '+16'
+max_speed: '25'
+name: Anjelique Loveless
+perception: '+24'
 rarity: Unique
-reflex: '+20'
+reflex: '+26'
 resistance: null
 rus_type_level: null
 sense:
-- (expert)
+- '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +17'
-- '[[DATABASE/skill/Athletics|Athletics]] +20'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +19'
-- '[[DATABASE/skill/Nature|Nature]] +14'
-- '[[DATABASE/skill/Survival|Survival]] +18'
-- '[[DATABASE/skill/Lore|Warfare Lore]] +13'
-source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +26'
+- '[[DATABASE/skill/Crafting|Crafting]] +21'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +23'
+- '[[DATABASE/skill/Lore|Legal Lore]] +19'
+- '[[DATABASE/skill/Thievery|Thievery]] +21'
+source: '[[DATABASE/source/Pathfinder 180. The Smoking Gun|Pathfinder #180: The Smoking
+  Gun]]'
 speed:
-- 35 feet
+- 25 feet
 spell: null
-strength: '+5'
-strength_req: '5'
+strength: '+3'
+strength_req: '3'
 strongest_save:
-- Fortitude
+- Reflex
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Human|Human]]'
+- '[[DATABASE/trait/Changeling|Changeling]]'
+- '[[DATABASE/trait/Elf|Elf]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
+vision: Low-light vision
 weakest_save:
 - Will
 weakness: null
-will: '+17'
-wisdom: '+1'
+will: '+21'
+wisdom: '+0'
 
 ---
 # Anjelique Loveless, Ruthless Corrupt Deputy

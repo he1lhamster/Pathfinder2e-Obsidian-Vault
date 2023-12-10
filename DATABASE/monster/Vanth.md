@@ -13,15 +13,6 @@ creature_ability:
 - Spirit Touch
 - Vanth's Curse
 creature_family: '[[DATABASE/monsterfamily/Psychopomp|Psychopomp]]'
-description: 'Protecting the [[DATABASE/plane/Boneyard|Boneyard]] are the stern and
-  resolute guardians of the dead known as vanths, psychopomps who resemble skeletons
-  with raven-like wings and a mask resembling a vulture''s skull. Vanths carry black
-  scythes to fight against those who would disturb the natural progression of souls,
-  and they consider any visitor to the Boneyard a potential troublemaker. When the
-  psychopomp armies go to war, vanths serve as front-line soldiers. They rarely speak
-  and even more rarely show any emotion other than a grim adherence to duty.<br/><br/><b><u>Recall
-  Knowledge - Monitor</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 23<br/><b><u>Unspecific
-  Lore</u></b>: DC 21<br/><b><u>Specific Lore</u></b>: DC 18'
 dexterity: '+4'
 element: null
 fly_speed: '40'

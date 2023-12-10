@@ -11,9 +11,6 @@ creature_ability:
 - Slow
 - Wide Swing
 creature_family: '[[DATABASE/monsterfamily/Zombie|Zombie]]'
-description: 'These towering horrors are animated from the corpses of monstrosities.<br/><br/><b><u>Recall
-  Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 22<br/><b><u>Unspecific
-  Lore</u></b>: DC 20<br/><b><u>Specific Lore</u></b>: DC 17'
 dexterity: '-1'
 element: null
 fly_speed: null

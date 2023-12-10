@@ -10,17 +10,6 @@ creature_ability:
 - Necrotic Runoff
 - Putrid Assault
 creature_family: '[[DATABASE/monsterfamily/Verdorite|Verdorite]]'
-description: 'Seetangeists are composed of the bloated corpses of marine life, encrusted
-  with bleached coral and wrapped in rotting seaweed. Although occasionally created
-  by water-breathing necromancers, seetangeists most often arise when an aquatic ecosystem
-  collapses, resulting in the deaths of countless creatures. Bound by spiritual trauma,
-  these corpses merge together, forming a writhing school of flesh and decaying plant
-  matter that seeks out and consumes what life remains in the region.<br/><br/> The
-  disasters that lead to the creation of seetangeists are typically caused by mortal
-  interference: overhunting, ecological overexploitation, pollution, or necromantic
-  magic and experimentation.<br/><br/><b><u>Recall Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 32<br/><b><u>Unspecific Lore</u></b>: DC 30<br/><b><u>Specific Lore</u></b>:
-  DC 27'
 dexterity: '+4'
 element: null
 fly_speed: null

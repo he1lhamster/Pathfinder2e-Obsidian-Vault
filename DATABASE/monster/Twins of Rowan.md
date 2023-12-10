@@ -13,16 +13,6 @@ creature_ability:
 - Shielded Eyes
 - Throw Stump
 creature_family: '[[DATABASE/monsterfamily/Elemental, Wood|Elemental, Wood]]'
-description: 'Twins of rowan are among the most powerful elementals on the [[DATABASE/plane/Plane
-  of Wood|Plane of Wood]] , specially crafted to patrol a wide range of wilderness
-  and maintain the plane''s carefully constructed order. Despite having two heads
-  and torsos, each twins of rowan is a singular creature; like all wood elementals,
-  their true consciousness is not in their heads but in the roots, and their true
-  body is the trunk of the tree, not the extended limbs.<br/><br/><b><u>Recall Knowledge
-  - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 31<br/><b><u>Recall Knowledge - Plant</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 31<br/><b><u>Unspecific Lore</u></b>: DC 29<br/><b><u>Specific Lore</u></b>:
-  DC 26'
 dexterity: '+4'
 element: Wood
 fly_speed: null

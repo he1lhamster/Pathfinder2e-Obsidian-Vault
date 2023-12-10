@@ -10,13 +10,6 @@ creature_ability:
 - Bond with Mortal
 - Bonded Strike
 creature_family: '[[DATABASE/monsterfamily/Spirit Guide|Spirit Guide]]'
-description: 'Spirit guides of cunning are often seen as the weakest of the spirit
-  guides, but are also the most numerous and proactive, guiding families to safe paths
-  or leaving food and water for warriors. Cunning guides often take the form of foxes.<br/><br/><b><u>Recall
-  Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 15<br/><b><u>Recall Knowledge - Spirit</u> ( [[DATABASE/skill/Occultism|Occultism]]
-  )</b>: DC 15<br/><b><u>Unspecific Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>:
-  DC 10'
 dexterity: '+3'
 element: null
 fly_speed: null

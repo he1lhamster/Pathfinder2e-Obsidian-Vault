@@ -12,13 +12,6 @@ creature_ability:
 - Inspire the Faithless
 - Siphon Faith
 creature_family: '[[DATABASE/monsterfamily/Herexen|Herexen]]'
-description: "Faithless ecclesiarchs were powerful religious leaders in life\u2014\
-  archpriests, hierarchs, oracles, and divine servitors personally blessed by their\
-  \ deities. They are adept at corrupting the pious and inspiring their fellow herexens,\
-  \ often becoming leaders among their kind. This faithless ecclesiarch once worshipped\
-  \ [[DATABASE/deity/Nethys|Nethys]] , god of magic.<br/><br/><b><u>Recall Knowledge\
-  \ - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 24<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 22<br/><b><u>Specific Lore</u></b>: DC 19"
 dexterity: '+3'
 element: null
 fly_speed: null

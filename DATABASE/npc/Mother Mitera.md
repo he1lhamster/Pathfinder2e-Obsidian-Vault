@@ -10,7 +10,6 @@ creature_ability:
 - Ascension is Near
 - Crystal Vitality Link
 creature_family: null
-description: This creature did not include a description.
 dexterity: '+3'
 element: null
 fly_speed: null

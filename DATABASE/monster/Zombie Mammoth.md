@@ -12,10 +12,6 @@ creature_ability:
 - Shambling Trample
 - Slow
 creature_family: '[[DATABASE/monsterfamily/Zombie|Zombie]]'
-description: 'This monstrous creature can overrun defenses and stomp foes into the
-  ground, making it a terror on any battlefield.<br/><br/><b><u>Recall Knowledge -
-  Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 28<br/><b><u>Unspecific
-  Lore</u></b>: DC 26<br/><b><u>Specific Lore</u></b>: DC 23'
 dexterity: '+0'
 element: null
 fly_speed: null

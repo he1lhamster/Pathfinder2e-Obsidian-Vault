@@ -16,15 +16,6 @@ creature_ability:
 - ''
 - Woodland Stride
 creature_family: '[[DATABASE/monsterfamily/Drake|Drake]]'
-description: 'Believed to be related to green dragons, jungle drakes are dangerous
-  hunters equipped with a debilitating venom delivered by a large barbed stinger or
-  their noxious phlegm. Their wings are equipped with vestigial claws that allow them
-  to deftly maneuver through thick jungle foliage both in flight and on foot. Jungle
-  drakes prefer to ambush their prey using hit-and-run tactics, picking off the weakest
-  members of a group and dragging their victims off to finish their meals as they
-  please.<br/><br/><b><u>Recall Knowledge - Dragon</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  )</b>: DC 22<br/><b><u>Unspecific Lore</u></b>: DC 20<br/><b><u>Specific Lore</u></b>:
-  DC 17'
 dexterity: '+3'
 element: Earth
 fly_speed: '50'

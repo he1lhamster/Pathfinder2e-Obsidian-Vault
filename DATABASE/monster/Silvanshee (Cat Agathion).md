@@ -1,83 +1,78 @@
 ﻿---
-ac: '34'
-alignment: LN
+ac: '17'
+alignment: NG
 all_resistance: null
 burrow_speed: null
-charisma: '+3'
+charisma: '+2'
 climb_speed: null
-constitution: '+3'
+constitution: '+2'
 creature_ability:
-- Constrict
-- Implacable Advance
-- Self-Loathing
-- Sense Murderer
-- Silent Aura
-- Undying Vendetta
-creature_family: '[[DATABASE/monsterfamily/Revenant|Revenant]]'
-description: 'When a person is betrayed and killed in a way that their voice was silenced
-  (such as through strangulation by a lover or close confidante), they might come
-  back as a silent stalker. A silent stalker is a horrifying, twisted likeness of
-  the person they were in life, with one obvious difference: the silent stalker has
-  no mouth, simply a smooth patch of flesh where a mouth should be. Sound is suppressed
-  in an area around a silent stalker, but once someone notices the quiet, it''s often
-  too late.<br/><br/><b><u>Recall Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 31<br/><b><u>Unspecific Lore</u></b>: DC 29<br/><b><u>Specific Lore</u></b>:
-  DC 26'
-dexterity: '+5'
+- Cat's Curiosity
+- Cat's Grace
+creature_family: '[[DATABASE/monsterfamily/Agathion|Agathion]]'
+dexterity: '+4'
 element: null
-fly_speed: null
-fortitude: '+22'
+fly_speed: '40'
+fortitude: '+5'
 hardness: null
-hp: 220 ( negative healing )
-id: '1894'
-immunity:
-- '[[DATABASE/trait/Death|death]] effects'
-- '[[DATABASE/trait/Disease|disease]]'
-- '[[DATABASE/condition/Paralyzed|paralyzed]]'
-- '[[DATABASE/trait/Poison|poison]]'
-- '[[DATABASE/spell/Sleep|sleep]]'
+hp: '20'
+id: '1055'
+immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
-- any one spoken in life by their murderer (typically [[DATABASE/language/Common|Common]]
-  ; can't speak)
-level: '13'
-max_speed: '25'
-name: Silent Stalker
-perception: '+24'
+- '[[DATABASE/language/Celestial|Celestial]]'
+- '[[DATABASE/language/Common|Common]]'
+- '[[DATABASE/language/Draconic|Draconic]]'
+- '[[DATABASE/language/Infernal|Infernal]] ; [[DATABASE/spell/Speak with Animals|speak
+  with animals]]'
+level: '1'
+max_speed: '40'
+name: Silvanshee
+perception: '+8'
 rarity: Common
-reflex: '+24'
-resistance:
-- physical 15 (except slashing)
+reflex: '+9'
+resistance: null
 rus_type_level: null
 school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
-- sense murderer
-size: Small
+size: Tiny
 skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +27'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +24'
-- '[[DATABASE/skill/Stealth|Stealth]] +28'
-source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +7'
+- '[[DATABASE/skill/Arcana|Arcana]] +3'
+- '[[DATABASE/skill/Medicine|Medicine]] +6'
+- '[[DATABASE/skill/Lore|Nirvana Lore]] +3'
+- '[[DATABASE/skill/Stealth|Stealth]] +7'
+source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 25 feet
-spell: null
-strength: '+8'
-strength_req: '8'
+- fly 40 feet
+spell:
+- '[[DATABASE/spell/Dancing Lights|Dancing Lights]]'
+- '[[DATABASE/spell/Gaseous Form|Gaseous Form]]'
+- '[[DATABASE/spell/Know Direction|Know Direction]]'
+- '[[DATABASE/spell/Lay on Hands|Lay on Hands]]'
+- '[[DATABASE/spell/Prestidigitation|Prestidigitation]]'
+- '[[DATABASE/spell/Read Omens|Read Omens]]'
+- '[[DATABASE/spell/Speak with Animals|Speak with Animals]]'
+- '[[DATABASE/spell/Stabilize|Stabilize]]'
+strength: '-2'
+strength_req: '-2'
 strongest_save:
 - Reflex
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Undead|Undead]]'
+- '[[DATABASE/trait/Agathion|Agathion]]'
+- '[[DATABASE/trait/Celestial|Celestial]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-- Will
-weakness: null
-will: '+22'
-wisdom: '+5'
+weakness:
+- evil 3
+will: '+6'
+wisdom: '+3'
 
 ---
 # Silvanshee (Cat Agathion)

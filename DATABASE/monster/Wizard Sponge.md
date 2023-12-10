@@ -12,22 +12,6 @@ creature_ability:
 - Swarming Slither
 - Weak Acid
 creature_family: null
-description: "This strange type of fungus colony takes its name from its initial purpose:\
-  \ the wizard who first developed it sought a means to keep her tower clean from\
-  \ residue both mundane and magical. Wizard sponge does just that, dutifully cleaning\
-  \ its vicinity by devouring dust, organic debris, and even the decaying bodies of\
-  \ fallen creatures. Its designer intentionally crafted the fungus to not merely\
-  \ resist but be healed by fire, intended as an additional safety feature, and most\
-  \ varieties have a convenient side effect of being edible once slain. Unfortunately,\
-  \ the fungus also developed an unexpected ability to magically mutate over time,\
-  \ which eventually led to its escape and independent propagation.<br/><br/> Wizard\
-  \ sponge colonies of various sizes and shapes now thrive in dungeons, caverns, sewers,\
-  \ abandoned castles, crypts, and even the basements of some occupied dwellings.\
-  \ They often carry along bits of partially consumed material with them, such as\
-  \ clothing, limbs, and adventuring gear\u2014sometimes even valuable treasures!\
-  \ An individual colony typically takes on distinctive properties based on what it's\
-  \ consumed in its environment; a variety living in a necromancer's crypt might acquire\
-  \ the undead's affinity for negative energy, for example."
 dexterity: '+4'
 element: null
 fly_speed: null

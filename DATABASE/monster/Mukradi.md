@@ -14,13 +14,6 @@ creature_ability:
 - Thrash
 - Trample
 creature_family: null
-description: "Fearsome centipede-like creatures, mukradis are three-headed predators\
-  \ with a devastating array of breath weapons. A Darklands version of the mukradi\
-  \ is rumored to exist. It\u2019s said these variant mukradis have black scales,\
-  \ and all of their heads spew a black, acidic goo that animates before being reabsorbed\
-  \ by the mukradis.<br/><br/><b><u>Recall Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]]\
-  \ , [[DATABASE/skill/Nature|Nature]] )</b>: DC 34<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 32<br/><b><u>Specific Lore</u></b>: DC 29"
 dexterity: '+0'
 element: null
 fly_speed: null

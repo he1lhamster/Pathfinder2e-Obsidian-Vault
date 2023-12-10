@@ -11,25 +11,6 @@ creature_ability:
 - Infuse Weapons
 - Positive Energy Affinity
 creature_family: null
-description: "Jyotis are sometimes called \u201Cfalse phoenixes\u201D (a term they\
-  \ find insulting) by the ignorant or willful. These avian humanoids are native to\
-  \ the [[DATABASE/plane/Positive Energy Plane|Positive Energy Plane]] . They rarely\
-  \ leave this enigmatic realm and view visitors from other planes as stains on the\
-  \ purity of their home. Jyotis particularly distrust divine spellcasters and religious\
-  \ warriors, seeing them as inclined to take credit for manifesting a life force\
-  \ that, from the jyotis' perspective, is as plentiful and ubiquitous as water is\
-  \ to fish.<br/><br/> Despite their distrust of intruders, jyotis rarely attack unprovoked\
-  \ when their homes are not threatened. They are intolerant, however, of those who\
-  \ intrude on the palaces of crystallized light and captured flame in which they\
-  \ dwell. They often chase even those who come bearing gifts away; few visitors have\
-  \ anything they desire, for what they desire most is to be left alone. The jyotis'\
-  \ full wrath is reserved for natives of the [[DATABASE/equipment/Shadow|Shadow Plane]]\
-  \ and the [[DATABASE/plane/Negative Energy Plane|Negative Energy Plane]] . Historically,\
-  \ the promise of battle with the gargoyle-like [[DATABASE/monster/Sceaduinar|sceaduinars]]\
-  \ , whom they consider it their duty to oppose, has been the only thing to lure\
-  \ jyoti armies beyond the Positive Energy Plane.<br/><br/><b><u>Recall Knowledge\
-  \ - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 26<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 24<br/><b><u>Specific Lore</u></b>: DC 21"
 dexterity: '+5'
 element: Fire
 fly_speed: '60'

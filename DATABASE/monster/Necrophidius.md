@@ -10,27 +10,6 @@ creature_ability:
 - Dance of Death
 - Necrophidic Paralysis
 creature_family: null
-description: 'Although the necrophidius is a mindless construct with no particular
-  ability to comprehend the complexities of good or evil, these sinister-looking constructs
-  are often crafted by evil or macabre creators seeking to imbue their guardians with
-  a frightening aesthetic.<br/><br/> Constructed from bones harvested from serpents
-  and humans, a necrophidius is animated by occult magic, not unlife. Each necrophidius
-  is built from the skeleton of a large snake, but its skull has been replaced by
-  that of a humanoid creature. Some death cults or particularly cruel crafters seek
-  out the skulls of specific individuals against whom they bear grudges to provide
-  the head for their necrophidius. The final step of the construction is the alteration
-  of the teeth and jaws to give the creature a more serpentine visage, complete with
-  fangs.<br/><br/> If a necrophidius''s creator dies, the construct follows the last
-  series of commands it was given. If it cannot do so, the necrophidius aimlessly
-  wanders the area near where it last served its creator and attacks any creatures
-  it encounters. Some believe that those who know the secrets of a necrophidius''s
-  origins can command it, provided its original creator no longer exists and no one
-  else currently commands it. There are also a number of reports concerning strangely
-  aware and intelligent necrophidiuses that roam with a purpose and track down or
-  hunt specific living creatures they interpret as the targets of former assassination
-  missions.<br/><br/><b><u>Recall Knowledge - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Crafting|Crafting]] )</b>: DC 18<br/><b><u>Unspecific Lore</u></b>:
-  DC 16<br/><b><u>Specific Lore</u></b>: DC 13'
 dexterity: '+4'
 element: null
 fly_speed: null

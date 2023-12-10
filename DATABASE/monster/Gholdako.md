@@ -11,20 +11,6 @@ creature_ability:
 - Infectious Visions
 - Tumultuous Flash
 creature_family: null
-description: "[[DATABASE/monsterfamily/Cyclops|Cyclops]] necromancers created gholdakos\
-  \ untold ages ago by performing foul rituals over the corpses of their fellow cyclopes.\
-  \ Although these rituals varied through the history of Ghol-Gan, each involved the\
-  \ sacrifice of numerous humanoids whose blood was used to write the runes scribed\
-  \ upon a gholdako's linens. Rarely, a cyclops initiated their own transformation\
-  \ into a gholdako, scribing runes glimpsed from oracular visions and fevered dreams\
-  \ on their clothes or carving them into their bare flesh. Regardless of their origin,\
-  \ gholdakos are guardians, bound beyond death to protect a location, relic, or person\u2014\
-  often the same thing they once defended in life.<br/><br/> Despite their death and\
-  \ subsequent reanimation, gholdakos retain many of the quirks of living cyclopes,\
-  \ including their ceaseless hunger, volatile temper, single-mindedness, and great\
-  \ strength.<br/><br/><b><u>Recall Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]]\
-  \ )</b>: DC 32<br/><b><u>Unspecific Lore</u></b>: DC 30<br/><b><u>Specific Lore</u></b>:\
-  \ DC 27"
 dexterity: '+3'
 element: null
 fly_speed: null

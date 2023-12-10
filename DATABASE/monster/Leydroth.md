@@ -13,16 +13,6 @@ creature_ability:
 - Menace to Magic
 - Spell Feedback
 creature_family: null
-description: 'In ancient times, a cabal of primalists imbued an amalgam of beasts
-  with both supernatural might and a hatred of magic itself, hoping to achieve a potent
-  weapon for use against arcane spellcasters. Effective beyond expectation, the first
-  leydroths broke free and turned on their creators. Worse, the leydroths bred true,
-  and these reclusive predators have long outlived their original creators.<br/><br/>
-  Leydroths look like distorted, apelike felines with many-branching horns growing
-  from the backs of their heads. Their thickly muscled limbs end in glowing claws.<br/><br/><b><u>Recall
-  Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 38<br/><b><u>Unspecific Lore</u></b>: DC 36<br/><b><u>Specific Lore</u></b>:
-  DC 33'
 dexterity: '+7'
 element: null
 fly_speed: null

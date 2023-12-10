@@ -13,32 +13,6 @@ creature_ability:
 - Snowstride
 - Vandal
 creature_family: null
-description: "Fierce as he might be, [[DATABASE/monster/Krampus|Krampus]] rarely has\
-  \ the time to be everywhere at once. He doesn't have any particular ability to teleport\
-  \ or make speedy, long-distance travel, but he still strikes fear in the hearts\
-  \ of countless multitudes due to his power and the severity of the punishments he\
-  \ metes out.<br/><br/> Due to this lack of ubiquity, most societies appreciate Krampus\
-  \ more as a folkloric bogeyman and less as a physical threat that they're likely\
-  \ to encounter during any particular year's solstice. Come winter festivals, adults\
-  \ delightfully dress up as Krampus, parading through the streets to carouse, spook\
-  \ youngsters, and wave birch switches around.<br/><br/> However, if taken too far,\
-  \ this good-natured fun can attract Krampus's attention and blessing. Of course,\
-  \ this \u201Cblessing\u201D is more of a dangerous curse that transforms those well-meaning\
-  \ revelers imitating him into sadistic tormentors dead-set on punishing the naughty\
-  \ before the festivities are through.<br/><br/> These so-called Krampus celebrants\
-  \ maraud for several nights, executing ghoulish acts of terror, vandalism, and cruel\
-  \ justice upon those who have \u201Cmisbehaved\u201D according to Krampus's own\
-  \ twisted sense of decorum, before reverting to their normal forms. Those who survive\
-  \ swiftly throw off their bloodstained pelts and costumes, swearing to never again\
-  \ tempt Krampus.<br/><br/> The Krampus celebrant statistics below befit these revelers\
-  \ for a festival gone wrong, yet in a pinch, depending upon your campaign, they're\
-  \ also suitable for a much less powerful Krampus who could be vanquished by lower-level\
-  \ PCs or a manifestation or aspect of Krampus that appears to haunt villages that\
-  \ Krampus himself can't reach. It could even represent a community's shared belief\
-  \ and paranoia in Krampus manifesting in a creature of belief similar to a [[DATABASE/monster/Brainchild|brainchild]]\
-  \ .<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]\
-  \ )</b>: DC 29<br/><b><u>Unspecific Lore</u></b>: DC 27<br/><b><u>Specific Lore</u></b>:\
-  \ DC 24"
 dexterity: '+3'
 element: null
 fly_speed: null

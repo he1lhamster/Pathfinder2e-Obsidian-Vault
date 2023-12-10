@@ -11,21 +11,6 @@ creature_ability:
 - Living Form
 - Shape Flesh
 creature_family: null
-description: "Spawned by the same unnatural and self-destructive obsessions that drove\
-  \ them when they were alive, totenmaskes are the undead remnants of the most self-indulgent\
-  \ and sinful among us. Though unable to sate their perverse desires, these foul\
-  \ undead can drain the very flesh from their victims so as to wrap themselves in\
-  \ a perverse mockery of life that allows them to pursue their base wants. Totenmaskes'\
-  \ specific longings vary\u2014one might be obsessed with food or drink, while another\
-  \ might be vain and desirous of an attractive form to marvel at in a mirror, while\
-  \ yet another could simply long for the scent of blood. Whatever the sensation the\
-  \ totenmaske seeks, it is always a vice taken to extreme, for this sin is what helped\
-  \ condemn it to unlife in the first place. A totenmaske obsessed with food, for\
-  \ example, might find itself assaulting bakeries or breweries, while a vain totenmaske\
-  \ obsessed with glamor could quickly grow bored of each new look and switch its\
-  \ victims out daily, or even hourly.<br/><br/><b><u>Recall Knowledge - Undead</u>\
-  \ ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 23<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 21<br/><b><u>Specific Lore</u></b>: DC 18"
 dexterity: '+6'
 element: null
 fly_speed: null

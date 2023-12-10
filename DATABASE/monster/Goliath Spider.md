@@ -14,10 +14,6 @@ creature_ability:
 - Web Sense
 - Web Tether
 creature_family: '[[DATABASE/monsterfamily/Spider|Spider]]'
-description: 'Goliath spiders dwell in the deepest jungles, where they build webs
-  as big as temples and feast on prey as large as hippopotami.<br/><br/><b><u>Recall
-  Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 28<br/><b><u>Unspecific
-  Lore</u></b>: DC 26<br/><b><u>Specific Lore</u></b>: DC 23'
 dexterity: '+5'
 element: null
 fly_speed: null

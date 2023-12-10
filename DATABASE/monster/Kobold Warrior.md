@@ -10,13 +10,6 @@ creature_ability:
 - Hurried Retreat
 - Sneak Attack
 creature_family: '[[DATABASE/monsterfamily/Kobold|Kobold]]'
-description: "The typical kobold trains with agile weaponry, favoring the light pick\
-  \ for its use in crafting new tunnels to expand their domains through underground\
-  \ reaches. Kobolds are capable of landing sneaky strikes against unsuspecting foes\
-  \ but are just as quick to scamper off to safety when they don\u2019t, as a group,\
-  \ outnumber their enemies at least two to one.<br/><br/><b><u>Recall Knowledge -\
-  \ Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 13<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 11<br/><b><u>Specific Lore</u></b>: DC 8"
 dexterity: '+3'
 element: null
 fly_speed: null

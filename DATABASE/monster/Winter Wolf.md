@@ -12,16 +12,6 @@ creature_ability:
 - Buck
 - Pack Attack
 creature_family: '[[DATABASE/monsterfamily/Warg|Warg]]'
-description: "Winter wolves are related to wargs, but are larger, smarter, and far\
-  \ more dangerous. They are capable of exhaling plumes of freezing breath and are\
-  \ big enough to easily serve as mounts for orcs and hobgoblins\u2014provided the\
-  \ winter wolf is willing, of course. Like wargs, winter wolves hunt in packs, but\
-  \ unlike their smaller cousins, they have a notable proud streak. When they deign\
-  \ to serve others, they reserve this privilege for larger and more dangerous creatures\
-  \ such as frost giants, renegade yetis, or even white dragons.<br/><br/><b><u>Recall\
-  \ Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 20<br/><b><u>Unspecific Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>:\
-  \ DC 15"
 dexterity: '+4'
 element: null
 fly_speed: null

@@ -12,20 +12,6 @@ creature_ability:
 - Serpentfolk Venom
 - Sneak Attack
 creature_family: '[[DATABASE/monsterfamily/Serpentfolk|Serpentfolk]]'
-description: 'Some serpentfolk undergo intense ritual training and practice to improve
-  their innate ability to disguise themselves. These serpentfolk often identify as
-  members of a sinister society known as the Coils of [[DATABASE/deity/Ydersius|Ydersius]]
-  , and the most devoted of their number seek out methods of reincarnating into new
-  forms to even more efficiently infiltrate enemy societies. But before such agents
-  take this extreme step, they must prove themselves as Coil spies. These serpentfolk
-  train in methods of infiltrating other societies to such an extent that they might
-  be capable of infiltrating a mammalian civilization for years. Though they''re expected
-  to work entirely toward the eventual triumph of their people, most Coil spies also
-  find personal pursuits to keep them occupied in the shorter term. When Coil spies
-  get caught, it''s rarely due to a lack of pure skill, but rather to their arrogance
-  or recklessness as they pursue their hedonistic desires.<br/><br/><b><u>Recall Knowledge
-  - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 21<br/><b><u>Unspecific
-  Lore</u></b>: DC 19<br/><b><u>Specific Lore</u></b>: DC 16'
 dexterity: '+4'
 element: null
 fly_speed: null

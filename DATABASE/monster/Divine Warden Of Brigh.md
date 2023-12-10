@@ -16,20 +16,6 @@ creature_ability:
 - Instrument of Faith
 - Wind-Up
 creature_family: '[[DATABASE/monsterfamily/Divine Warden|Divine Warden]]'
-description: 'Imbued with the divine energy of the goddess of clockwork and invention,
-  divine wardens of [[DATABASE/deity/Brigh|Brigh]] are prominent in Alkenstar as guardians
-  of the Temple of Brigh there. The Bronze Lady might have her largest following in
-  this metropolis. But the city''s boomtown atmosphere means that security is a concern
-  even on holy ground. Citizens and visitors to Alkenstar know about its wind-up sentries
-  or quickly learn about them. The High Clockmother, head priestess of Brigh''s holy
-  place, keeps divine wardens in the goddess''s image visible in the sanctuary and
-  on the grounds. These automatons are as much a warning to would-be thieves or troublemakers
-  as they are an inspiration to Brigh''s worshippers. The mixing of divine and arcane
-  in these constructs is intended to show off innovation and evoke Brigh''s power
-  over earth, fire, metal, and smoke.<br/><br/><b><u>Recall Knowledge - Construct</u>
-  ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]] )</b>:
-  DC 29<br/><b><u>Unspecific Lore</u></b>: DC 27<br/><b><u>Specific Lore</u></b>:
-  DC 24'
 dexterity: '+6'
 element: null
 fly_speed: null

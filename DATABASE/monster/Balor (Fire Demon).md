@@ -1,71 +1,88 @@
 ﻿---
-ac: '16'
-alignment: N
+ac: '45'
+alignment: CE
 all_resistance: null
 burrow_speed: null
-charisma: '-2'
-climb_speed: '20'
-constitution: '+3'
+charisma: '+8'
+climb_speed: null
+constitution: '+9'
 creature_ability:
-- Constrict
-- Tighten Coils
-- Wrap in Coils
-creature_family: '[[DATABASE/monsterfamily/Snake|Snake]]'
-description: "This nonvenomous snake\u2019s name comes from its tendency to curl into\
-  \ a ball when frightened, though most people know it for its hunting tactic of coiling\
-  \ around prey and crushing victims with its powerful muscles. Nonetheless, brave\
-  \ herpetologists sometimes keep ball pythons as pets.<br/><br/><b><u>Recall Knowledge\
-  \ - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 15<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>: DC 10"
-dexterity: '+3'
+- Attack of Opportunity
+- Aura of Flame
+- Death Throes
+- Dimensional Dervish
+- Dispelling Strike
+- ''
+- Infuse Weapons
+- Lifedrinker
+- Whip Reposition
+creature_family: '[[DATABASE/monsterfamily/Demon|Demon]]'
+dexterity: '+7'
 element: null
-fly_speed: null
-fortitude: '+8'
+fly_speed: '70'
+fortitude: '+39'
 hardness: null
-hp: '20'
-id: '380'
-immunity: null
-intelligence: '-4'
-land_speed: '20'
-language: null
-level: '1'
-max_speed: '20'
-name: Ball Python
-perception: '+6'
+hp: '480'
+id: '104'
+immunity:
+- '[[DATABASE/trait/Fire|fire]]'
+intelligence: '+6'
+land_speed: '35'
+language:
+- '[[DATABASE/language/Abyssal|Abyssal]]'
+- '[[DATABASE/language/Celestial|Celestial]]'
+- '[[DATABASE/language/Draconic|Draconic]] ; telepathy 100 feet'
+level: '20'
+max_speed: '70'
+name: Balor
+perception: '+36'
 rarity: Common
-reflex: '+10'
+reflex: '+35'
 resistance: null
 rus_type_level: null
 school: null
 sense:
-- low-light vision
-- scent (imprecise) 30 feet
-size: Medium
+- darkvision
+- '[[DATABASE/spell/True Seeing|true seeing]]'
+size: Large
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +6'
-- '[[DATABASE/skill/Athletics|Athletics]] +6'
-- '[[DATABASE/skill/Stealth|Stealth]] +6'
-- '[[DATABASE/skill/Survival|Survival]] +4'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +35'
+- '[[DATABASE/skill/Athletics|Athletics]] +37'
+- '[[DATABASE/skill/Deception|Deception]] +36'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +32'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +38'
+- '[[DATABASE/skill/Religion|Religion]] +32'
+- '[[DATABASE/skill/Society|Society]] +32'
+- '[[DATABASE/skill/Stealth|Stealth]] +33'
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
-- 20 feet
-- climb 20 feet
-- swim 20 feet
-spell: null
-strength: '+3'
-strength_req: '3'
+- 35 feet
+- fly 70 feet
+spell:
+- '[[DATABASE/spell/Dimension Door|Dimension Door]]'
+- '[[DATABASE/spell/Dispel Magic|Dispel Magic]]'
+- '[[DATABASE/spell/Divine Decree|Divine Decree]]'
+- '[[DATABASE/spell/Dominate|Dominate]]'
+- '[[DATABASE/spell/Telekinetic Projectile|Telekinetic Projectile]]'
+- '[[DATABASE/spell/True Seeing|True Seeing]]'
+strength: '+9'
+strength_req: '9'
 strongest_save:
-- Reflex
-swim_speed: '20'
+- Fortitude
+swim_speed: null
 trait:
-- '[[DATABASE/trait/Animal|Animal]]'
+- '[[DATABASE/trait/Demon|Demon]]'
+- '[[DATABASE/trait/Fiend|Fiend]]'
 type: Creature
-vision: Low-light vision
+vision: Darkvision
 weakest_save:
 - Will
-weakness: null
-will: '+4'
-wisdom: '+1'
+weakness:
+- cold 20
+- cold iron 20
+- good 20
+will: '+34'
+wisdom: '+6'
 
 ---
 # Balor (Fire Demon)

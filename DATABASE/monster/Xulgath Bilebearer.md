@@ -11,27 +11,6 @@ creature_ability:
 - Stench
 - Xulgath Bile
 creature_family: '[[DATABASE/monsterfamily/Xulgath|Xulgath]]'
-description: "While many xulgaths impose their will by strength or sheer numbers,\
-  \ some resort to more nefarious\u2014and grotesque\u2014means to take care of matters.\
-  \ The bilebearer takes its name from its eponymous bile, a putrid substance that\
-  \ oozes from gill-like folds in its colorful, bulging neck. Bilebearers coat their\
-  \ weapons with the viscous substance or secrete a concentrated dose that suffuses\
-  \ the air around them and disables foes.<br/><br/> A bilebearer\u2019s neck bulges\
-  \ with folds of scaled flesh that extend almost to the creature\u2019s shoulders,\
-  \ containing its namesake bile productions glands inside. These folds expand and\
-  \ contract with each breath, and each fold has a vertical line of muscled pores\
-  \ that gradually exudes the thick substance, providing a perpetual supply for coating\
-  \ weapons. Bilebearers\u2019 necks also contain inflatable bladders, which they\
-  \ can quickly pressurize to expel a blast of vaporized bile in a noxious, overwhelming\
-  \ cloud.<br/><br/> Bilebearers serve their clutches by kidnapping or slaying specific\
-  \ enemies. They frequently accompany their kin, particularly xulgath skulkers, to\
-  \ raid rival clutches or intercept foes. A bilebearer\u2019s mode of attack typically\
-  \ involves sneaking in, overwhelming any guards with a noxious blast of bile, and\
-  \ then turning their attention to the primary target. The xulgath either shreds\
-  \ the rapidly weakening victim on the spot or drags them away for future violence.\n\
-  <br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]\
-  \ )</b>: DC 16<br/><b><u>Unspecific Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>:\
-  \ DC 11"
 dexterity: '+4'
 element: null
 fly_speed: null

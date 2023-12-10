@@ -14,22 +14,6 @@ creature_ability:
 - Internal Furnace
 - Light Blindness
 creature_family: null
-description: "Xotanispawn are monstrous versions of scavenging beetle larvae that\
-  \ have been corrupted and mutated by feeding on the remains of Xotani the Firebleeder,\
-  \ a slain Spawn of Rovagug buried beneath Pale Mountain in Katapesh. These creatures\
-  \ look vaguely like the minute insects they once were, with a sclerotized head and\
-  \ chitinous body plates, six legs, and numerous dorsal spines lining the joints\
-  \ and edges of each segment. However, by feeding on the unholy remains of Xotani,\
-  \ the spawn have manifested many of the traits of the infamous Firebleeder, most\
-  \ notably a blisteringly hot internal temperature and powerful fire attacks\u2014\
-  to say nothing of their monstrous size.<br/><br/> Internal heat radiates from every\
-  \ surface of a Xotanispawn, even from its mouth. Any contact with a Xotanispawn\
-  \ results in burns and the risk of catching on fire. Thankfully, Xotanispawn have\
-  \ also inherited Xotani\u2019s weaknesses to cold and sunlight. They are rarely\
-  \ encountered on the surface during the day, opting to emerge from their subterranean\
-  \ lairs only at night.\n<br/><br/><b><u>Recall Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 41<br/><b><u>Unspecific Lore</u></b>: DC 39<br/><b><u>Specific Lore</u></b>:\
-  \ DC 36"
 dexterity: '+6'
 element: Fire
 fly_speed: null

@@ -15,10 +15,6 @@ creature_ability:
 - Vulnerable
 - to Decapitation
 creature_family: '[[DATABASE/monsterfamily/Vampire, Vrykolakas|Vampire, Vrykolakas]]'
-description: 'Vrykolakas unleash their spawn upon the world to spread terror, plague,
-  and suffering and to draw attention away from their masters.<br/><br/><b><u>Recall
-  Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 22<br/><b><u>Unspecific
-  Lore</u></b>: DC 20<br/><b><u>Specific Lore</u></b>: DC 17'
 dexterity: '+4'
 element: null
 fly_speed: null

@@ -1,100 +1,80 @@
 ﻿---
-ac: '44'
+ac: '34'
 alignment: NE
 all_resistance: null
 burrow_speed: null
-charisma: '+6'
+charisma: '+7'
 climb_speed: null
-constitution: '+0'
+constitution: '+4'
 creature_ability:
-- Contingency
-- Countermeasures
-- Demilich Eye Gems
-- Devour Soul
-- Mental Magic
-- Staff Gems
-- ''
-- Telekinetic Whirlwind
-- Torpor
-- Trap Soul
-creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 49<br/><b><u>Unspecific
-  Lore</u></b>: DC 47<br/><b><u>Specific Lore</u></b>: DC 44'
+- Draining Strike
+- Focus Gaze
+- Soul Crush
+- Terrifying Gaze
+creature_family: '[[DATABASE/monsterfamily/Daemon|Daemon]]'
 dexterity: '+6'
 element: null
-fly_speed: '30'
-fortitude: '+29'
+fly_speed: null
+fortitude: '+21'
 hardness: null
-hp: 300 ( negative healing )
-id: '1584'
+hp: '270'
+id: '595'
 immunity:
-- '[[DATABASE/trait/Disease|disease]]'
-- '[[DATABASE/condition/Paralyzed|paralyzed]]'
-- '[[DATABASE/trait/Poison|poison]]'
-- '[[DATABASE/trait/Polymorph|polymorph]]'
-- '[[DATABASE/condition/Unconscious|unconscious]]'
-intelligence: '+8'
-land_speed: null
+- '[[DATABASE/trait/Death|death]] effects'
+intelligence: '+3'
+land_speed: '25'
 language:
-- '[[DATABASE/language/Abyssal|Abyssal]]'
-- '[[DATABASE/language/Daemonic|Daemonic]]'
-- '[[DATABASE/language/Draconic|Draconic]]'
-- '[[DATABASE/language/Elven|Elven]]'
-- '[[DATABASE/language/Infernal|Infernal]]'
-- '[[DATABASE/language/Necril|Necril]]'
-level: '19'
-max_speed: '30'
-name: Teyam Ishtori
-perception: '+25'
-rarity: Unique
-reflex: '+32'
-resistance:
-- '[[DATABASE/trait/Cold|cold]] 10'
-- '[[DATABASE/trait/Electricity|electricity]] 10'
-- '[[DATABASE/trait/Fire|fire]] 10'
-- physical 10(except bludgeoning)
+- '[[DATABASE/language/Common|Common]]'
+- '[[DATABASE/language/Daemonic|Daemonic]] ; [[DATABASE/monsterability/Telepathy|telepathy
+  100 feet]]'
+level: '13'
+max_speed: '25'
+name: Thanadaemon
+perception: '+26'
+rarity: Common
+reflex: '+23'
+resistance: null
 rus_type_level: null
 school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 - '[[DATABASE/spell/True Seeing|true seeing]]'
-size: Tiny
+size: Medium
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +31'
-- '[[DATABASE/skill/Arcana|Arcana]] +38'
-- '[[DATABASE/skill/Deception|Deception]] +33'
-- '[[DATABASE/skill/Occultism|Occultism]] +35'
-- '[[DATABASE/skill/Religion|Religion]] +31'
-- '[[DATABASE/skill/Stealth|Stealth]] +33'
-source: '[[DATABASE/source/Pathfinder 149. Against the Scarlet Triad|Pathfinder #149:
-  Against the Scarlet Triad]]'
+- '[[DATABASE/skill/Arcana|Arcana]] +22'
+- '[[DATABASE/skill/Deception|Deception]] +26'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +26'
+- '[[DATABASE/skill/Religion|Religion]] +22'
+- '[[DATABASE/skill/Lore|StyxLore]] +24'
+source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
-- fly 30 feet
+- 25 feet; [[DATABASE/spell/Air Walk|air walk]]
 spell:
-- '[[DATABASE/spell/Blink|Blink]]'
-- '[[DATABASE/spell/Dimension Door|DimensionDoor]]'
-- '[[DATABASE/spell/Mage Hand|Mage Hand]]'
-- '[[DATABASE/spell/Spell Turning|Spell Turning]]'
-- '[[DATABASE/spell/Telekinetic Maneuver|Telekinetic Maneuver]]'
-- '[[DATABASE/spell/Telekinetic Projectile|Telekinetic Projectile]]'
-- '[[DATABASE/spell/True Seeing|True Seeing]]'
-- '[[DATABASE/spell/Wail of the Banshee|Wail of the Banshee]]'
-strength: '-3'
-strength_req: '-3'
+- '[[DATABASE/spell/Air Walk|Air Walk]]'
+- '[[DATABASE/spell/Detect Alignment|DetectAlignment]]'
+- '[[DATABASE/spell/Dimension Door|Dimension Door]]'
+- '[[DATABASE/spell/Finger of Death|Finger of Death]]'
+- '[[DATABASE/spell/Plane Shift|Plane Shift]]'
+- '[[DATABASE/spell/Slow|Slow]]'
+- '[[DATABASE/spell/Teleport|Teleport]]'
+- '[[DATABASE/spell/True Seeing|TrueSeeing]]'
+- '[[DATABASE/spell/Vampiric Exsanguination|Vampiric Exsanguination]]'
+strength: '+6'
+strength_req: '6'
 strongest_save:
 - Will
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Undead|Undead]]'
-- '[[DATABASE/trait/Unique|Unique]]'
+- '[[DATABASE/trait/Daemon|Daemon]]'
+- '[[DATABASE/trait/Fiend|Fiend]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
-will: '+35'
-wisdom: '-2'
+weakness:
+- good 10
+will: '+26'
+wisdom: '+5'
 
 ---
 # Thanadaemon (Death Daemon)

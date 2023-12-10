@@ -11,10 +11,6 @@ creature_ability:
 - Slow
 - Vomit Tar
 creature_family: '[[DATABASE/monsterfamily/Zombie, Tar|Zombie, Tar]]'
-description: 'Humanoids consumed by a tar ooze become sticky warriors in the tar ooze''s
-  mindless procession. Some carry weapons.<br/><br/><b><u>Recall Knowledge - Undead</u>
-  ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 24<br/><b><u>Unspecific Lore</u></b>:
-  DC 22<br/><b><u>Specific Lore</u></b>: DC 19'
 dexterity: '+0'
 element: null
 fly_speed: null

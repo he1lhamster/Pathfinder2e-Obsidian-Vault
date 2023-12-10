@@ -11,15 +11,6 @@ creature_ability:
 - Hunt Prey
 - Master Tracker
 creature_family: '[[DATABASE/monsterfamily/Foresters|Foresters]]'
-description: "The forest offers dangerous creatures\u2014whether they walk on four\
-  \ legs or two\u2014a place to hide. Dim light, low brush, and fallen leaves conspire\
-  \ to hide their trails. Given these poor conditions, an unskilled eye might spot\
-  \ a sign or two of a creature's passing, but only a skilled tracker can identify\
-  \ several such signs and discern their relationship to each other, connecting one\
-  \ to the next until they form a trail of prints, scat, fur, feathers, and blood\
-  \ that leads to the quarry's lair.<br/><br/><b><u>Recall Knowledge - Humanoid</u>\
-  \ ( [[DATABASE/skill/Society|Society]] )</b>: DC 18<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 16<br/><b><u>Specific Lore</u></b>: DC 13"
 dexterity: '+4'
 element: null
 fly_speed: null

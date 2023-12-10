@@ -11,15 +11,6 @@ creature_ability:
 - Cold Lethargy
 - Hallucinogenic Cloud
 creature_family: null
-description: "The basidirond, also called a mindfrond, is a fungal creature that crawls\
-  \ about on woody tendrils. The large, bowl-shaped pod atop its body collects mineral-rich\
-  \ moisture\u2014-whether runoff from cave walls or fresh blood\u2014-for sustenance.\
-  \ It uses hallucinogenic spores to incapacitate prey long enough for it to beat\
-  \ its prey to a bloody pulp, then deposits the deliciously tenderized remains into\
-  \ this pod for consumption. A basidirond is over 6 feet tall and 3 to 4 feet wide,\
-  \ and weighs nearly 300 pounds when saturated.<br/><br/><b><u>Recall Knowledge -\
-  \ Fungus</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 20<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>: DC 15"
 dexterity: '+4'
 element: null
 fly_speed: null

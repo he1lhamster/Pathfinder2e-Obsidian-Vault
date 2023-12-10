@@ -9,12 +9,6 @@ constitution: '+0'
 creature_ability:
 - Haywire
 creature_family: null
-description: Mechanical carnies are constructs manufactured to serve as entertainers,
-  cleaners, and guards at carnivals and circuses. The first of these constructs was
-  created by a gnome inventor who yearned for a tireless companion who could make
-  her laugh and smile. Her invention was so successful that it has spawned countless
-  imitations and knockoffs throughout the Inner Sea, and mechanical carnies of some
-  form or another are a staple throughout metropolitan lands in both Avistan and Garund.
 dexterity: '+1'
 element: null
 fly_speed: null

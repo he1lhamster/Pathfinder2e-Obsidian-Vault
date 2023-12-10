@@ -14,21 +14,6 @@ creature_ability:
 - Stone Clutch
 - Stone Crush
 creature_family: '[[DATABASE/monsterfamily/Genie|Genie]]'
-description: 'A jabali genie of great power and high social rank is called a shuyookh.
-  Strong in body and mind, jabali shuyookhs value physical skill, fine artistry, and
-  displays of strength. Incredibly proud, they''re easily offended and quick to anger
-  but lash out only after weighing the consequences. Shuyookhs view their desires
-  as greater than those around them, leading them to provide aid as quickly and efficiently
-  as possible, fulfilling the terms of bargains expediently and to the letter.<br/><br/>
-  Jabali shuyookhs are industrious and have many interests, including athletic competitions,
-  engineering, jewelry-making, masonry, metalworking, and sculpting. They enjoy games
-  of chance and bargaining, whether in a gambling hall, arena, or marketplace. Some
-  mix their interests by managing organizations or guilds involving such concerns.
-  Many shuyookhs reap the wealth of the [[DATABASE/plane/Plane of Earth|Plane of Earth]]
-  for sale elsewhere and speculate on the value of such commodities.<br/><br/><b><u>Recall
-  Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 35<br/><b><u>Unspecific Lore</u></b>: DC 33<br/><b><u>Specific Lore</u></b>:
-  DC 30'
 dexterity: '+1'
 element: Earth
 fly_speed: null

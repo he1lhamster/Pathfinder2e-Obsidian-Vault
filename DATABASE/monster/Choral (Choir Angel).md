@@ -1,90 +1,80 @@
 ﻿---
-ac: '18'
-alignment: CE
+ac: '24'
+alignment: NG
 all_resistance: null
 burrow_speed: null
-charisma: '-2'
-climb_speed: '15'
-constitution: '+1'
+charisma: '+5'
+climb_speed: null
+constitution: '+2'
 creature_ability:
-- Constrict
-- Hidden Movement
-- Strangling Fingers
-- Yank
-creature_family: null
-description: "With long, cartilaginous limbs and gray skin, chokers easily hide in\
-  \ stony alcoves, rocky fissures, and darkened staircases to ambush their prey. The\
-  \ strange little aberrations prefer to pick off weak and solitary creatures, especially\
-  \ those that wander off from their packs or communities. A choker's long, spongy\
-  \ arms are flexible but deceptively strong. The fingers can tighten rapidly and\
-  \ are ridged with spiky, tooth-like structures that provide an incredible grip.\
-  \ A choker typically strangles its prey to death, then drags the body off or dismembers\
-  \ it using crude tools if the body is too big to carry. If confronted or outnumbered,\
-  \ a choker tries to escape, often compressing into a tight passage to get away.\
-  \ Chokers that encounter humanoids exhibit intense curiosity about their culture,\
-  \ society, and the products of art and industry. This interest isn't very deep\u2014\
-  it just results in chokers that like killing people and collecting any of their\
-  \ items that seem sophisticated, such as jewelry, nice clothing, or written texts.<br/><br/>Chokers\
-  \ sometimes gather in settlements, usually sticking to slums or abandoned structures.\
-  \ These chokers stalk at night, flopping across rooftops, tapping at windows, and\
-  \ scuttling through sewers, gutters, and chimneys to get at prey. An urban choker\
-  \ that finds prey early on its hunt\u2014a wandering pet, a person who is out alone\u2014\
-  might spend the rest of the night indulging its curiosity about the products of\
-  \ society. A curious choker might abscond with all sorts of odd items, from tavern\
-  \ signs to library books to roof tiles. A choker usually pilfers only one item at\
-  \ a time, but as its collection grows, it might need to find a larger nest to accommodate\
-  \ its collection, then move its pieces one by one to the new home.<br/><br/><b><u>Recall\
-  \ Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC\
-  \ 16<br/><b><u>Unspecific Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>: DC\
-  \ 11"
-dexterity: '+3'
+- Deafening Aria
+- Harmonize
+- Harmonizing Aura
+creature_family: '[[DATABASE/monsterfamily/Angel|Angel]]'
+dexterity: '+4'
 element: null
-fly_speed: null
-fortitude: '+7'
+fly_speed: '40'
+fortitude: '+10'
 hardness: null
-hp: '28'
-id: '583'
+hp: '100'
+id: '14'
 immunity: null
-intelligence: '-3'
-land_speed: '20'
+intelligence: '+3'
+land_speed: '30'
 language:
-- '[[DATABASE/language/Aklo|Aklo]]'
-- '[[DATABASE/language/Undercommon|Undercommon]]'
-level: '2'
-max_speed: '20'
-name: Choker
-perception: '+7'
+- '[[DATABASE/language/Celestial|Celestial]]'
+- '[[DATABASE/language/Draconic|Draconic]]'
+- '[[DATABASE/language/Infernal|Infernal]] ; [[DATABASE/spell/Tongues|tongues]]'
+level: '6'
+max_speed: '40'
+name: Choral
+perception: '+14'
 rarity: Common
-reflex: '+10'
-resistance: null
+reflex: '+14'
+resistance:
+- '[[DATABASE/trait/Sonic|sonic]] 5'
 rus_type_level: null
 school: null
 sense:
-- '[[DATABASE/monsterability/Darkvision|darkvision]]'
+- darkvision
 size: Small
 skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +9'
-- '[[DATABASE/skill/Stealth|Stealth]] +9'
-source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +12'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +15'
+- '[[DATABASE/skill/Performance|Performance]] +17'
+- '[[DATABASE/skill/Religion|Religion]] +14'
+source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
-- 20 feet
-- climb 15 feet
-spell: null
-strength: '+3'
-strength_req: '3'
+- 30 feet
+- fly 40 feet
+spell:
+- '[[DATABASE/spell/Counter Performance|Counter Performance]]'
+- '[[DATABASE/spell/Ghost Sound|Ghost Sound]]'
+- '[[DATABASE/spell/Heal|Heal]]'
+- '[[DATABASE/spell/Inspire Competence|Inspire Competence]]'
+- '[[DATABASE/spell/Inspire Courage|Inspire Courage]]'
+- '[[DATABASE/spell/Invisibility|Invisibility]]'
+- '[[DATABASE/spell/Remove Curse|Remove Curse]]'
+- '[[DATABASE/spell/Remove Disease|Remove Disease]]'
+- '[[DATABASE/spell/Remove Fear|Remove Fear]]'
+- '[[DATABASE/spell/Sound Burst|Sound Burst]]'
+- '[[DATABASE/spell/Tongues|Tongues]]'
+strength: '+1'
+strength_req: '1'
 strongest_save:
-- Reflex
+- Will
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Aberration|Aberration]]'
+- '[[DATABASE/trait/Angel|Angel]]'
+- '[[DATABASE/trait/Celestial|Celestial]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-- Will
-weakness: null
-will: '+7'
-wisdom: '+1'
+weakness:
+- evil 5
+will: '+16'
+wisdom: '+4'
 
 ---
 # Choral (Choir Angel)

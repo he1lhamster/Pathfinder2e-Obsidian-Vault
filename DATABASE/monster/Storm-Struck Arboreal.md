@@ -11,9 +11,6 @@ creature_ability:
 - Electric Healing
 - Sunder Objects
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Plant</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 40<br/><b><u>Unspecific
-  Lore</u></b>: DC 38<br/><b><u>Specific Lore</u></b>: DC 35'
 dexterity: '+1'
 element: null
 fly_speed: null

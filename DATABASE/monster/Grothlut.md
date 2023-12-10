@@ -10,21 +10,6 @@ creature_ability:
 - Disgusting Demise
 - Piteous Moan
 creature_family: '[[DATABASE/monsterfamily/Fleshwarp|Fleshwarp]]'
-description: "Sluglike abominations, grothluts are fleshwarps that were once humans.\
-  \ While their head and torsos are vaguely human, their arms are rubbery and move\
-  \ awkwardly at their sides. Wretched creatures, they moan piteously when other creatures\
-  \ are near, perhaps as the last remnants of their shattered human consciousness\
-  \ pleads to be free from their horrid warped form.<br/><br/> Many fleshwarpers consider\
-  \ the grothlut to be a failure of a creation, as the transformation all but stamps\
-  \ out the human consciousness. Others disagree, arguing that warping the creature\u2019\
-  s mind makes it all the more useful, since its stupidity makes it pliable and easy\
-  \ to herd. Drow typically use grothluts as guardians that slowly patrol the edges\
-  \ of their enclaves. Once in position, grothluts can be used as crude shock troops,\
-  \ unleashed to soften enemy forces before more-valuable warriors wade in and cut\
-  \ down the enemies who have been nauseated by the grothluts\u2019 exploded organs\
-  \ and flesh.<br/><br/><b><u>Recall Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]]\
-  \ )</b>: DC 18<br/><b><u>Unspecific Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>:\
-  \ DC 13"
 dexterity: '-2'
 element: null
 fly_speed: null

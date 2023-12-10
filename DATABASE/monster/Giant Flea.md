@@ -10,12 +10,6 @@ creature_ability:
 - Flea Fever
 - Suck Blood
 creature_family: '[[DATABASE/monsterfamily/Flea|Flea]]'
-description: 'Giant fleas are commonly found in areas containing hardy megafauna,
-  such as dinosaurs or mammoths.
-
-  <br/><br/><b><u>Recall Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 18<br/><b><u>Unspecific Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>:
-  DC 13'
 dexterity: '+3'
 element: null
 fly_speed: null

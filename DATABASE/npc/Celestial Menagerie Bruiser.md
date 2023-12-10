@@ -10,9 +10,6 @@ creature_ability:
 - Opportunistic Brawler
 - Terrifying Sneer
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 24<br/><b><u>Unspecific
-  Lore</u></b>: DC 22<br/><b><u>Specific Lore</u></b>: DC 19'
 dexterity: '+1'
 element: null
 fly_speed: null

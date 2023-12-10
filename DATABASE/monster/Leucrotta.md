@@ -11,15 +11,6 @@ creature_ability:
 - Luring Cry
 - Sound Mimicry
 creature_family: null
-description: 'The vile and vicious offspring of a demon lord and a monstrous species
-  of hyenas, leucrottas are intelligent and cruel beasts. They use their astounding
-  vocal mimicry to lure unsuspecting creatures near so that they can first torment
-  and then devour them. Leucrottas measure 5 feet at the shoulder and weigh 800 pounds,
-  and they are perpetually filthy. A leucrotta''s oversized jaws are lined with rows
-  of jagged, hardened bony ridges rather than teeth, and it can shear through flesh,
-  bone, and even steel with ease.<br/><br/><b><u>Recall Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Nature|Nature]] )</b>: DC 20<br/><b><u>Unspecific Lore</u></b>:
-  DC 18<br/><b><u>Specific Lore</u></b>: DC 15'
 dexterity: '+2'
 element: null
 fly_speed: null

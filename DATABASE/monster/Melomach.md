@@ -12,15 +12,6 @@ creature_ability:
 - Rhythmic Stomp
 - Scream
 creature_family: '[[DATABASE/monsterfamily/Elemental, Metal|Elemental, Metal]]'
-description: 'Melomachs are massive, vaguely humanoid elementals composed of metal
-  debris. They take great pride in decorating and augmenting their metallic bodies
-  with haphazardly placed spikes, blades, humanoid or bestial skulls, and other similar
-  adornments, the more ostentatious the better. When two melomachs meet, the resulting
-  contests of physical might and vocal prowess can last for days, often leaving the
-  landscape ravaged for miles in every direction.<br/><br/><b><u>Recall Knowledge
-  - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 31<br/><b><u>Unspecific Lore</u></b>: DC 29<br/><b><u>Specific Lore</u></b>:
-  DC 26'
 dexterity: '+4'
 element: Metal
 fly_speed: null

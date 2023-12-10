@@ -12,20 +12,6 @@ creature_ability:
 - Cairn Linnorm Venom
 - Curse of the Crooked Cane
 creature_family: '[[DATABASE/monsterfamily/Linnorm|Linnorm]]'
-description: "Cairn linnorms are disturbing, even by linnorm standards. They make\
-  \ their homes in necropolises, burial grounds, and the sites of immense and gory\
-  \ battles. Some point out that cairn linnorms feast on shambling undead and thus\
-  \ provide a service to the living, but these beasts are not choosy and will happily\
-  \ consume any creature, whether or not it draws breath.<br/><br/> Some tales state\
-  \ that cairn linnorms will not\u2014or cannot\u2014enter a tomb without the permission\
-  \ of a descendant of the deceased (or the permission of the deceased itself, in\
-  \ the instance that it has risen from the dead). Likewise, once a cairn linnorm\
-  \ has entered a tomb, it won't leave until it has secured permission to do so. Whether\
-  \ such legends are true or not is anyone's guess; nevertheless, reports of a cairn\
-  \ linnorm in the vicinity are harrowing enough to dissuade even the most foolhardy\
-  \ grave robber from peeking into too many crypts or mausoleums.<br/><br/><b><u>Recall\
-  \ Knowledge - Dragon</u> ( [[DATABASE/skill/Arcana|Arcana]] )</b>: DC 40<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 38<br/><b><u>Specific Lore</u></b>: DC 35"
 dexterity: '+6'
 element: null
 fly_speed: '100'

@@ -10,12 +10,6 @@ creature_ability:
 - Jellyfish Venom
 - Squeeze
 creature_family: '[[DATABASE/monsterfamily/Jellyfish|Jellyfish]]'
-description: 'Unlike its smaller cousins, the giant jellyfish is an active predator
-  that chases down its prey through reefs or open water. It can even squeeze its enormous
-  bell-shaped body into the tight confines of shipwrecks to drape its mane of tentacles
-  across the exposed flesh of its prey.<br/><br/><b><u>Recall Knowledge - Animal</u>
-  ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 23<br/><b><u>Unspecific Lore</u></b>:
-  DC 21<br/><b><u>Specific Lore</u></b>: DC 18'
 dexterity: '+4'
 element: null
 fly_speed: null

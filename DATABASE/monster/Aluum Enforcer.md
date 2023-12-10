@@ -12,15 +12,6 @@ creature_ability:
 - Paralyzing Force
 - Soul Shriek
 creature_family: '[[DATABASE/monsterfamily/Aluum|Aluum]]'
-description: "The most common aluum is powered by the bound soul of a loyal city servant,\
-  \ but its creation is among the Pactmasters\u2019 most guarded secrets. There are\
-  \ dozens of dormant aluums spread throughout Katapesh, and only someone wearing\
-  \ an aluum charm can activate and command one of these 14-foot-tall soldiers. The\
-  \ Pactmasters entrust few beyond the Zephyr Guard to carry these charms, and stealing\
-  \ such a charm is one of the most severe crimes in the city.<br/><br/><b><u>Recall\
-  \ Knowledge - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]]\
-  \ )</b>: DC 29<br/><b><u>Unspecific Lore</u></b>: DC 27<br/><b><u>Specific Lore</u></b>:\
-  \ DC 24"
 dexterity: '+2'
 element: null
 fly_speed: null

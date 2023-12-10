@@ -11,14 +11,6 @@ creature_ability:
 - Hunt Prey
 - Snare Crafting
 creature_family: '[[DATABASE/monsterfamily/Foresters|Foresters]]'
-description: "Some forests are protected by kings, others only by wild things. Laws\
-  \ against hunting may protect the private reserves of nobles or guard the viability\
-  \ of animal populations of shared forests during specific seasons. Poachers violate\
-  \ those laws\u2014sometimes out of greed, sometimes out of desperation, and sometimes\
-  \ for sport. Although penalties against poaching often include public shaming (see\
-  \ Penalties for Poaching), in lean times a successful poacher is a local hero.<br/><br/><b><u>Recall\
-  \ Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 16<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>: DC 11"
 dexterity: '+4'
 element: null
 fly_speed: null

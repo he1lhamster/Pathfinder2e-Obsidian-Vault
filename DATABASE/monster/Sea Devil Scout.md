@@ -11,12 +11,6 @@ creature_ability:
 - Bloodletting
 - Shark Commune
 creature_family: '[[DATABASE/monsterfamily/Sea Devil|Sea Devil]]'
-description: 'Scouts, among the lowliest (and most disposable) of sea devils, ply
-  the inky waters of the ocean in search of aquatic prey, tread ashore to gauge landborne
-  threats, or charge into battle with the advance forces of a greater sea devil war
-  party.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 16<br/><b><u>Unspecific Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>:
-  DC 11'
 dexterity: '+4'
 element: null
 fly_speed: null

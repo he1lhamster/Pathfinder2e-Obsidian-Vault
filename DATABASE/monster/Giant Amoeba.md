@@ -12,16 +12,6 @@ creature_ability:
 - Motion Sense
 - Weak Acid
 creature_family: '[[DATABASE/monsterfamily/Ooze|Ooze]]'
-description: 'These blobs of nearly transparent protoplasm are identical in form and
-  behavior to the microscopic creatures from which they have evolved, except their
-  outlandish size makes them all the more dangerous. Unlike slimes, puddings, and
-  other deadly oozes, giant amoebas have an outer membrane that contains their internal
-  structures, making them more susceptible to slashing weapons than their amorphous
-  kin. However, this membrane is also extremely flexible and permeable, allowing them
-  to surround prey and absorb it, suffocating and slowly digesting it in the amoeba''s
-  acidic fluids.<br/><br/><b><u>Recall Knowledge - Ooze</u> ( [[DATABASE/skill/Occultism|Occultism]]
-  )</b>: DC 15<br/><b><u>Unspecific Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>:
-  DC 10'
 dexterity: '-2'
 element: null
 fly_speed: null

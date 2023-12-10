@@ -9,16 +9,6 @@ constitution: '+2'
 creature_ability:
 - Pack Attack
 creature_family: '[[DATABASE/monsterfamily/Dog|Dog]]'
-description: 'The typical guard dog is loyal to and beloved by many communities. Often
-  adored as pets, they also excel as protectors and trackers, and can be fearless
-  when defending a beloved master or family member. The statistics presented below
-  work well for any number of breeds of dog ranging from 20 to 50 pounds in weight.
-  Wild dogs can also use these statistics, but their untamed nature makes them far
-  more unpredictable and threatening. Feral dogs are perhaps even more dangerous,
-  for unlike their wild cousins, feral dogs often lack the instinctual fear of humanity
-  that stops wild creatures from interacting with people.<br/><br/><b><u>Recall Knowledge
-  - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 13<br/><b><u>Unspecific
-  Lore</u></b>: DC 11<br/><b><u>Specific Lore</u></b>: DC 8'
 dexterity: '+2'
 element: null
 fly_speed: null

@@ -13,9 +13,6 @@ creature_ability:
 - Ripping Gaze
 - Vulnerable to Curved Space
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 37<br/><b><u>Unspecific
-  Lore</u></b>: DC 35<br/><b><u>Specific Lore</u></b>: DC 32'
 dexterity: '+7'
 element: null
 fly_speed: '30'

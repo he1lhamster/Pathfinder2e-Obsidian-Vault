@@ -13,9 +13,6 @@ creature_ability:
 - Reef Octopus Venom
 - Writhing Arms
 creature_family: '[[DATABASE/monsterfamily/Octopus|Octopus]]'
-description: 'The common reef octopus is a risky but valuable catch for coastal fishers.<br/><br/><b><u>Recall
-  Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 15<br/><b><u>Unspecific
-  Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>: DC 10'
 dexterity: '+4'
 element: null
 fly_speed: null

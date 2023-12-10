@@ -10,11 +10,6 @@ creature_ability:
 - Envelop
 - Naturally Invisible
 creature_family: '[[DATABASE/monsterfamily/Elemental, Air|Elemental, Air]]'
-description: 'Often considered cousins of [[DATABASE/monster/Invisible Stalker|phades]]
-  , veiled currents are loose veils of wind who catch prey within their folds.<br/><br/><b><u>Recall
-  Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 24<br/><b><u>Unspecific Lore</u></b>: DC 22<br/><b><u>Specific Lore</u></b>:
-  DC 19'
 dexterity: '+6'
 element: Air
 fly_speed: '50'

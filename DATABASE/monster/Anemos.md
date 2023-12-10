@@ -18,39 +18,6 @@ creature_ability:
 - Truespeech
 - Wind Orchestra
 creature_family: null
-description: "The truth of life in the [[DATABASE/plane/Material Plane|Universe]]\
-  \ is that weather controls the world. The life-giving water that flows across Golarion,\
-  \ the maintenance of healthy forests, and the snows, thaws, and rains that help\
-  \ crops flourish all rely on the weather\u2014weather that's shaped at the whims\
-  \ of the winds. Anemoi are powerful beings from the [[DATABASE/plane/Plane of Air|Plane\
-  \ of Air]] tasked by ancient gods to guard the skies and shepherd the winds of every\
-  \ world across the planes. They guide the winds along their natural paths, and while\
-  \ neither malevolent nor malicious, an anemos has little regard for how a storm\
-  \ might affect any creature caught in its path.<br/><br/> Anemoi can take several\
-  \ forms and shift between them as easily as they slip between the breezes. They\
-  \ wear humanoid guises to walk among mortals without drawing undue attention, and\
-  \ they transform into great, thunderous horses made of storm clouds and rain when\
-  \ they need to move quickly across the skies. Their true form, however, is wind\
-  \ coalesced into a humanoid shape, often with curling hair and feathery wings made\
-  \ of soft, drifting clouds.<br/><br/> On Golarion, each of the four cardinal winds\
-  \ are created and directed by a quartet of cardinal anemoi. The cold north winds\
-  \ are guided by Boreal, bringer of winter. Austral shepherds hot winds from the\
-  \ south. Eural brings stormy winds from the east. Finally, the gentle winds of spring\
-  \ come at the call of Zephyr, from the west. These four cardinal anemoi, alongside\
-  \ their councils of lesser anemoi, shape and control the winds across all of Golarion.\
-  \ As far as anyone can tell, the cardinal anemoi don't answer to a greater authority.\
-  \ There are even more powerful maximal anemoi living in the Plane of Air, but they\
-  \ seem content to leave the Universe out of their plans.<br/><br/> Though the cardinal\
-  \ anemoi try to keep a degree of separation from mortal affairs, lesser anemoi occasionally\
-  \ take a closer interest. Some monitor a single settlement or county, protecting,\
-  \ nourishing, or even vindictively destroying it. Each one has their own sets of\
-  \ interests. Many are vain or petty. Even more change attitudes just as quickly\
-  \ as the winds they guide. Pleasing an anemoi isn't a matter of following a set\
-  \ formula, but rather repeatedly changing course to give them what they desire for\
-  \ their mercurial current interests or perceived needs.<br/><br/><b><u>Recall Knowledge\
-  \ - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 43<br/><b><u>Unspecific Lore</u></b>: DC 41<br/><b><u>Specific Lore</u></b>:\
-  \ DC 38"
 dexterity: '+9'
 element: Air
 fly_speed: '200'

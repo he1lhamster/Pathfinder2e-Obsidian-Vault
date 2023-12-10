@@ -10,13 +10,6 @@ creature_ability:
 - Breath Weapon
 - Hellish Revenge
 creature_family: '[[DATABASE/monsterfamily/Hell Hound|Hell Hound]]'
-description: 'Believed to be bred by the Prince of Darkness himself within vast kennels
-  in the infernal realm of Nessus, Nessian warhounds are the favored guards and hunting
-  hounds of powerful fiends and, rarely, those mortals who worship them and have earned
-  their favor.<br/><br/><b><u>Recall Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Nature|Nature]] )</b>: DC 26<br/><b><u>Recall Knowledge - Fiend</u>
-  ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 26<br/><b><u>Unspecific Lore</u></b>:
-  DC 24<br/><b><u>Specific Lore</u></b>: DC 21'
 dexterity: '+5'
 element: Fire
 fly_speed: null

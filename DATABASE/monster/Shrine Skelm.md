@@ -10,25 +10,6 @@ creature_ability:
 - Change Shape
 - Seize Prayer
 creature_family: '[[DATABASE/monsterfamily/Skelm|Skelm]]'
-description: 'The unquestioned authority that a priest wields, with influence over
-  even the most intimate details of a congregation''s lives, is the ultimate prize
-  for a shrine skelm. Most shrine skelms insinuate themselves into positions of judgment
-  in powerful religious groups to gain that power for their own use and abuse. Shrine
-  skelms wear the old-fashioned, traditional apparel of whatever faith they''ve infiltrated,
-  brandishing religious symbols made of precious metals to better blend in and give
-  an impression of age and power.<br/><br/> No matter what religion they infiltrate,
-  a shrine skelm is a master at taking established teachings out of context to justify
-  elaborate, painful, and often humiliating punishments for his victims. He usually
-  targets people with the audacity to question his position or teachings, but also
-  relentlessly harasses anyone he envies.<br/><br/> Shrine skelms are skilled listeners,
-  especially in settings like group prayers where they can learn worshippers'' fears
-  or hopes. They exploit whatever information they learn for their own prestige and
-  power, but they also watch for jealousy and the seeds of rage that could be nurtured
-  to make a new skelm. They can even intercept sincere prayers and steal their effects
-  for themselves, and they command several spells to manipulate and control their
-  unwitting, vulnerable victims.<br/><br/><b><u>Recall Knowledge - Humanoid</u> (
-  [[DATABASE/skill/Society|Society]] )</b>: DC 20<br/><b><u>Unspecific Lore</u></b>:
-  DC 18<br/><b><u>Specific Lore</u></b>: DC 15'
 dexterity: '+3'
 element: null
 fly_speed: null

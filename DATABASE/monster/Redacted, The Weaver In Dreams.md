@@ -16,10 +16,6 @@ creature_ability:
 - Stitch into the Web
 - String Astral Body
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 44<br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 44<br/><b><u>Unspecific
-  Lore</u></b>: DC 42<br/><b><u>Specific Lore</u></b>: DC 39'
 dexterity: '+7'
 element: null
 fly_speed: '25'

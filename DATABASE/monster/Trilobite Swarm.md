@@ -9,13 +9,6 @@ constitution: '+3'
 creature_ability:
 - Clinging Bites
 creature_family: '[[DATABASE/monsterfamily/Trilobite|Trilobite]]'
-description: 'Trilobites typically live in close proximity to others of their kind.
-  On rare occasions, particularly when the most common prey around is larger than
-  what a single trilobite can take down, they form swarms that seem to actively cooperate
-  with each other. These swarms latch onto their prey, and the combined efforts of
-  so many trilobites at once make escape difficult.<br/><br/><b><u>Recall Knowledge
-  - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 18<br/><b><u>Unspecific
-  Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>: DC 13'
 dexterity: '+4'
 element: null
 fly_speed: null

@@ -11,18 +11,6 @@ creature_ability:
 - Eclipse
 - Light to Dark
 creature_family: null
-description: "Due to their affinity for darkness and apocalyptic terror, tzitzimitls\
-  \ are widely feared as harbingers of death and destruction. A solar eclipse marks\
-  \ their arrivals, and they draw strange powers of darkness and electricity from\
-  \ these phenomena. Some sages believe tzitzimitls to be instruments of the gods,\
-  \ called down to destroy worlds whose times have come, while others claim they're\
-  \ the undead remains of stranded exiles from a far-off civilization of spacefaring\
-  \ giants. The legends that include them are ancient and fragmented, but some tell\
-  \ of tzitzimitls being defeated by great heroes and sealed away\u2014though these\
-  \ tales imply that the enormous undead now lie buried and waiting, soon to rampage\
-  \ again should their tombs be breached.<br/><br/><b><u>Recall Knowledge - Undead</u>\
-  \ ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 41<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 39<br/><b><u>Specific Lore</u></b>: DC 36"
 dexterity: '+8'
 element: null
 fly_speed: '60'

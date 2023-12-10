@@ -14,26 +14,6 @@ creature_ability:
 - Frightful Presence
 - Tail Lash
 creature_family: '[[DATABASE/monsterfamily/Dragon, Black|Dragon, Black]]'
-description: "Murderous tyrants of marshes, swamps, bogs, and fens, black dragons\
-  \ terrorize their domains with intense fervor. Gleefully sadistic, they rule their\
-  \ fetid principalities from a deep cave or otherwise isolated part of the swamp\
-  \ with a mix of lightning-quick raids and subterfuge. Their hatred for other creatures\
-  \ is as acidic as their breath weapons, and they rarely tolerate even other dragons\
-  \ of their kind\u2014except perhaps to mate or temporarily collaborate to take down\
-  \ a mutual enemy.<br/><br/> Black dragons are amphibious\u2014although they breathe\
-  \ air, their gills also allow them to breathe water. Their frills and fins make\
-  \ them accomplished swimmers, well suited to their wetland environments and submerged\
-  \ lairs. They\u2019re immune to the fetid water that comes as a result of their\
-  \ magical ability to corrupt water.<br/><br/> Black dragon lairs are as foul as\
-  \ their souls. The floors are littered with rotting meat, and plundered treasures\
-  \ line the muck and slime of their dank caves amid twisted roots and creepers. Such\
-  \ places are often crawling with pests, snakes, and slimes. Though they claim natural\
-  \ caverns when they can, they make do with areas of dense, twisted vegetation within\
-  \ a swamp. Black dragon treasure hoards primarily consist of gems and expensive\
-  \ glass work, as valuables of softer substance can\u2019t survive the dragon\u2019\
-  s acidic presence.<br/><br/><b><u>Recall Knowledge - Dragon</u> ( [[DATABASE/skill/Arcana|Arcana]]\
-  \ )</b>: DC 37<br/><b><u>Unspecific Lore</u></b>: DC 35<br/><b><u>Specific Lore</u></b>:\
-  \ DC 32"
 dexterity: '+5'
 element: null
 fly_speed: '150'

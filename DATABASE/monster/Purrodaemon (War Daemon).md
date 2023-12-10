@@ -1,78 +1,83 @@
 ﻿---
-ac: '32'
-alignment: N
+ac: '43'
+alignment: NE
 all_resistance: null
-burrow_speed: '40'
-charisma: '-1'
+burrow_speed: null
+charisma: '+7'
 climb_speed: null
 constitution: '+7'
 creature_ability:
-- Fast Swallow
-- Inexorable
-- Purple Worm Venom
-- Regurgitate
-- Rock Tunneler
-- Shake It Off
-- Swallow
-- Whole
-- Thrash
-creature_family: '[[DATABASE/monsterfamily/Cave Worm|Cave Worm]]'
-description: "The purple worm is the most common and infamous of the cave worms, a\
-  \ much-feared monster wandering the twisting tunnels of the Darklands that is capable\
-  \ of carving out entire cave systems. Tunnels bored by a purple worm don\u2019t\
-  \ always last long after these creature\u2019s passage, and areas where they nest\
-  \ are maddening mazes of passageways that lead nowhere, yet navigating the labyrinth\
-  \ to find the worm\u2019s central nest often yields amazing treasures left behind\
-  \ by the worm\u2019s prior victims.<br/><br/><b><u>Recall Knowledge - Animal</u>\
-  \ ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 31<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 29<br/><b><u>Specific Lore</u></b>: DC 26"
-dexterity: '-1'
+- Hurl Weapon
+- Recall Weapon
+- Steep Weapon
+- Twist the Blade
+creature_family: '[[DATABASE/monsterfamily/Daemon|Daemon]]'
+dexterity: '+6'
 element: null
-fly_speed: null
-fortitude: '+28'
+fly_speed: '50'
+fortitude: '+33'
 hardness: null
-hp: '270'
-id: '73'
-immunity: null
-intelligence: '-5'
-land_speed: '40'
-language: null
-level: '13'
-max_speed: '40'
-name: Purple Worm
-perception: '+20'
+hp: '335'
+id: '596'
+immunity:
+- bleed
+- '[[DATABASE/trait/Death|death]] effects'
+intelligence: '+4'
+land_speed: '25'
+language:
+- '[[DATABASE/language/Common|Common]]'
+- '[[DATABASE/language/Daemonic|Daemonic]] ; [[DATABASE/monsterability/Telepathy|telepathy
+  100 feet]]'
+level: '18'
+max_speed: '50'
+name: Purrodaemon
+perception: '+33'
 rarity: Common
-reflex: '+21'
-resistance: null
+reflex: '+30'
+resistance:
+- piercing 15
 rus_type_level: null
 school: null
 sense:
-- darkvision
-- tremorsense (imprecise) 100 feet
-size: Gargantuan
+- '[[DATABASE/monsterability/Darkvision|darkvision]]'
+- '[[DATABASE/spell/True Seeing|true seeing]]'
+size: Large
 skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +30'
-source: '[[DATABASE/source/Bestiary|Bestiary]]'
+- '[[DATABASE/skill/Athletics|Athletics]] +37'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +35'
+- '[[DATABASE/skill/Religion|Religion]] +30'
+- '[[DATABASE/skill/Stealth|Stealth]] +34'
+- '[[DATABASE/skill/Survival|Survival]] +33'
+- '[[DATABASE/skill/Lore|Warfare Lore]] +32'
+source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
-- 40 feet
-- burrow 40 feet
-- swim 20 feet
-spell: null
+- 25 feet
+- fly 50 feet
+spell:
+- '[[DATABASE/spell/Bind Soul|Bind Soul]]'
+- '[[DATABASE/spell/Blade Barrier|BladeBarrier]]'
+- '[[DATABASE/spell/Chain Lightning|Chain Lightning]]'
+- '[[DATABASE/spell/Detect Alignment|Detect Alignment]]'
+- '[[DATABASE/spell/Dimension Door|Dimension Door]]'
+- '[[DATABASE/spell/Flame Strike|Flame Strike]]'
+- '[[DATABASE/spell/Teleport|Teleport]]'
+- '[[DATABASE/spell/True Seeing|TrueSeeing]]'
 strength: '+9'
 strength_req: '9'
 strongest_save:
 - Fortitude
-swim_speed: '20'
+swim_speed: null
 trait:
-- '[[DATABASE/trait/Animal|Animal]]'
+- '[[DATABASE/trait/Daemon|Daemon]]'
+- '[[DATABASE/trait/Fiend|Fiend]]'
 type: Creature
 vision: Darkvision
 weakest_save:
-- Reflex
 - Will
-weakness: null
-will: '+21'
-wisdom: '-1'
+weakness:
+- good 15
+will: '+29'
+wisdom: '+7'
 
 ---
 # Purrodaemon (War Daemon)

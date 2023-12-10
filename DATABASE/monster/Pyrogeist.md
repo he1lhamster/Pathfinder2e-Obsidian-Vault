@@ -12,16 +12,6 @@ creature_ability:
 - Rejuvenation
 - Soul Consumption
 creature_family: null
-description: 'Born from the deaths of arsonists who died in the fires they started,
-  pyrogeists are roiling infernos whose spectral fire emits no actual heat and harms
-  only living creatures. Obsessed with sharing their torment with the living, pyrogeists
-  haunt the area of their demise until whatever wrong they refuse to forgive has been
-  righted, and they are finally put to rest. While pyrogeists can''t set their own
-  fires, they often use their terrifying illusory capabilities and telekinetic powers
-  to lure their victims into setting themselves ablaze.<br/><br/><b><u>Recall Knowledge
-  - Spirit</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 29<br/><b><u>Recall
-  Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 29<br/><b><u>Unspecific
-  Lore</u></b>: DC 27<br/><b><u>Specific Lore</u></b>: DC 24'
 dexterity: '+7'
 element: null
 fly_speed: '40'

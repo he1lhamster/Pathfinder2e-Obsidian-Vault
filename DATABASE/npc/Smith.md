@@ -9,13 +9,6 @@ constitution: '+2'
 creature_ability:
 - Smith's Fury
 creature_family: '[[DATABASE/monsterfamily/Tradespeople|Tradespeople]]'
-description: 'Most smaller communities have at least one smithy where locals and travelers
-  can have horses shod or equipment repaired. Larger settlements and cities often
-  have a variety of smiths, many specializing in blacksmithing, weapon smithing, armor
-  smithing, or even smelting coins in a mint. The smith is a 6th-level challenge when
-  competing with smithing or other crafting tasks.<br/><br/><b><u>Recall Knowledge
-  - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 18<br/><b><u>Unspecific
-  Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>: DC 13'
 dexterity: '+1'
 element: null
 fly_speed: null

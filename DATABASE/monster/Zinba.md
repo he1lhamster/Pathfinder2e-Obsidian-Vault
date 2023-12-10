@@ -14,29 +14,6 @@ creature_ability:
 - Zinba Restoration
 - Zinba Venom
 creature_family: null
-description: "Commonly known as ghost serpents, zinbas are rare, amphibious snakes\
-  \ with healing abilities. They're of similar size to other large snakes, such as\
-  \ pythons, but have a distinct bright blue coloring with red-and-black patterned\
-  \ stripes along their backs. This distinct coloration is easy to spot, but zinbas\
-  \ can swim through the wet mud and soft earth of their homes to avoid being tracked\
-  \ by all but the most skilled pursuers. This elusiveness inspires their \u201Cghost\
-  \ serpent\u201D moniker.<br/><br/> A zinba can metabolize a unique additive for\
-  \ its venom that converts it from a deadly poison to a healing agent, which makes\
-  \ zinbas particularly valuable in the eyes of healers and poachers. There is a high\
-  \ demand for zinbas in many markets; live serpents fetch a hefty sum, but zinba\
-  \ eggs are especially valuable, as zinbas reared in captivity are less willful and\
-  \ more likely to eat in confinement. Their elusiveness, however, leads many to search\
-  \ for their dens instead, which are large pools of water among remote wetlands or\
-  \ underground hollows near bodies of water. The water of a zinba's pool also has\
-  \ minor but valuable healing qualities, but removing water from a den causes it\
-  \ to lose its healing properties after a few hours, so most who find a den attempt\
-  \ to immediately make use of it.<br/><br/> Even finding dens is a difficult prospect,\
-  \ since zinbas are particularly intelligent for animals and can recognize signs\
-  \ of travelers near their favored hiding places. When there are signs of danger,\
-  \ a zinba collapses its lair and flees to create another den elsewhere.<br/><br/><b><u>Recall\
-  \ Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 32<br/><b><u>Unspecific Lore</u></b>: DC 30<br/><b><u>Specific Lore</u></b>:\
-  \ DC 27"
 dexterity: '+3'
 element: null
 fly_speed: null

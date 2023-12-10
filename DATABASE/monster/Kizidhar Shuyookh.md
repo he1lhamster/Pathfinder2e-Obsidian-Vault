@@ -17,17 +17,6 @@ creature_ability:
 - Sprout Shield
 - Take Root
 creature_family: '[[DATABASE/monsterfamily/Genie|Genie]]'
-description: 'Kizidhar shuyookhs are the powerful rulers of the Glowing Infinity on
-  the [[DATABASE/plane/Plane of Wood|Plane of Wood]] . They view other genies, including
-  other kizidhars, as subservient to their own greatness, manipulating them as though
-  they were outsiders whenever it helps achieve their goals. Kizidhar shuyookh diplomats
-  are sent as emissaries from the Plane of Wood to the [[DATABASE/plane/Material Plane|Universe]]
-  , representing the metropolis of Nodollin and Grand Sultana Eshal Muazzam Rayadii
-  of the Glowing Infinity, Lady of All that Grows and Decays.<br/><br/><b><u>Recall
-  Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 33<br/><b><u>Recall Knowledge - Plant</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 33<br/><b><u>Unspecific Lore</u></b>: DC 31<br/><b><u>Specific Lore</u></b>:
-  DC 28'
 dexterity: '+5'
 element: Wood
 fly_speed: null

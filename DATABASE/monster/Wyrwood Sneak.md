@@ -11,11 +11,6 @@ creature_ability:
 - No Breath
 - Sneak Attack
 creature_family: '[[DATABASE/monsterfamily/Wyrwood|Wyrwood]]'
-description: 'Wyrwood sneaks specialize in moving unseen behind enemy lines, performing
-  reconnaissance and quietly eliminating threats.<br/><br/><b><u>Recall Knowledge
-  - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]]
-  )</b>: DC 20<br/><b><u>Unspecific Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>:
-  DC 15'
 dexterity: '+4'
 element: null
 fly_speed: null

@@ -11,9 +11,6 @@ creature_ability:
 - Ignite Baton
 - Set on Fire
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 26<br/><b><u>Unspecific
-  Lore</u></b>: DC 24<br/><b><u>Specific Lore</u></b>: DC 21'
 dexterity: '+3'
 element: null
 fly_speed: null

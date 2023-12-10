@@ -11,10 +11,6 @@ creature_ability:
 - Earth Glide
 - Earthbound
 creature_family: '[[DATABASE/monsterfamily/Elemental, Earth|Elemental, Earth]]'
-description: 'Living landslides resemble humanoids made of earth and gravel.<br/><br/><b><u>Recall
-  Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 20<br/><b><u>Unspecific Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>:
-  DC 15'
 dexterity: '-1'
 element: Earth
 fly_speed: null

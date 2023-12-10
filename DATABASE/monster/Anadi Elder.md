@@ -11,11 +11,6 @@ creature_ability:
 - Change Shape
 - Spin Silk
 creature_family: '[[DATABASE/monsterfamily/Anadi|Anadi]]'
-description: 'Anadi elders help guide their kin and must make difficult decisions
-  for their people, such as whether to continue hostile negotiations or to escalate
-  a disagreement to outright conflict.<br/><br/><b><u>Recall Knowledge - Humanoid</u>
-  ( [[DATABASE/skill/Society|Society]] )</b>: DC 24<br/><b><u>Unspecific Lore</u></b>:
-  DC 22<br/><b><u>Specific Lore</u></b>: DC 19'
 dexterity: '+4'
 element: null
 fly_speed: null

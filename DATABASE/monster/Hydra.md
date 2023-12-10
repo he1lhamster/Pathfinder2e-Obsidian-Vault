@@ -15,11 +15,6 @@ creature_ability:
 - Opportunities
 - Storm of Jaws
 creature_family: null
-description: 'Hydras are multiheaded, foul-tempered serpentine beasts with voracious
-  appetites, widely feared for their regeneration abilities.<br/><br/><b><u>Recall
-  Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 22<br/><b><u>Unspecific Lore</u></b>: DC 20<br/><b><u>Specific Lore</u></b>:
-  DC 17'
 dexterity: '+4'
 element: null
 fly_speed: null

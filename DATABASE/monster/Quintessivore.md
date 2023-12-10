@@ -12,15 +12,6 @@ creature_ability:
 - Suspend Soul
 - Tattered Soul
 creature_family: null
-description: "Quintessivores are cunning creatures that wield arcane magic and scalpel-sharp\
-  \ spider limbs that can rend one's soul just as easily as flesh. A quintessivore\
-  \ doesn't immediately kill its prey\u2014it drags the creature to its lair and separates\
-  \ the victim's soul from their body with its bladed limbs. The flicking blades then\
-  \ pull out the creature's individuality, reducing the soul down to pure soul-stuff\
-  \ called quintessence, which the quintessivore then consumes.<br/><br/><b><u>Recall\
-  \ Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 32<br/><b><u>Unspecific Lore</u></b>: DC 30<br/><b><u>Specific Lore</u></b>:\
-  \ DC 27"
 dexterity: '+6'
 element: null
 fly_speed: null

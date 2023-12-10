@@ -10,9 +10,6 @@ creature_ability:
 - Rib Skewer
 - Trample
 creature_family: '[[DATABASE/monsterfamily/Skeleton|Skeleton]]'
-description: 'A massive dinosaur predator makes for a fearsome skeleton.<br/><br/><b><u>Recall
-  Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 26<br/><b><u>Unspecific
-  Lore</u></b>: DC 24<br/><b><u>Specific Lore</u></b>: DC 21'
 dexterity: '+0'
 element: null
 fly_speed: null

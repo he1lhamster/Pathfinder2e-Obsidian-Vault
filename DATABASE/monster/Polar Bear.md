@@ -10,13 +10,6 @@ creature_ability:
 - Mauler
 - Sneak Attack
 creature_family: '[[DATABASE/monsterfamily/Bear|Bear]]'
-description: 'Polar bears are known for their pale fur, with black eyes, lips, and
-  toe pads. They are aggressively predatory creatures, stalking prey for miles on
-  land or across the icy waters of frozen oceans. They are also amazing ambush predators,
-  leaping from the water to ambush seals resting on ice floes. If they are desperate,
-  polar bears hunt not only other animals but also humanoids.<br/><br/><b><u>Recall
-  Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 20<br/><b><u>Unspecific
-  Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>: DC 15'
 dexterity: '+1'
 element: null
 fly_speed: null

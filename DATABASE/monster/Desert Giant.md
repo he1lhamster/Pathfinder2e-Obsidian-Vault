@@ -13,29 +13,6 @@ creature_ability:
 - Scimitar Blitz
 - Throw Rock
 creature_family: '[[DATABASE/monsterfamily/Giant|Giant]]'
-description: 'Desert giants are nomadic humanoids who have dwelled in the world''s
-  most arid regions since time immemorial. Smaller peoples know that desert giants
-  are the undisputed masters of desert living, and ignorant humans often claim that
-  it is a desert giant''s unique physiology, like a camel, that enables them to survive
-  without water for 2 weeks. The few desert giants who mingle in the societies of
-  smaller humanoids don''t bother to dispute such ridiculous rumors.<br/><br/> In
-  fact, desert giants'' strong cultural traditions play a large part in their ability
-  to prosper in such harsh environs. Desert giant elders encourage their descendants
-  to maintain abstemious lifestyles, particularly with regard to the consumption of
-  food and drink. Alcohol is particularly disdained by desert giants, who view mind-altering
-  diuretics like liquor and ale as dangerous temptations in an environment as unforgiving
-  as the desert. Instead, most desert giants follow a simple vegetarian diet and maintain
-  an incredible internal map of their home region''s seasonal waterways and oases.<br/><br/>
-  Their austere habits and intolerance for foolishness have earned desert giants a
-  reputation as being ill-humored and no-nonsense, but many of their communities boast
-  a wide variety of humorous tales in their vast oral histories and legends. Since
-  desert giants'' journeys across the wastes can span weeks or even months at a time,
-  an individual who can make their companions laugh with a witty joke or amusing parable
-  remains a prized member of the community.<br/><br/> Desert giants stand 15 feet
-  tall, tending toward lean physiques that are ideal for traveling across vast expanses
-  of sand for long sojourns.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 26<br/><b><u>Unspecific Lore</u></b>: DC 24<br/><b><u>Specific Lore</u></b>:
-  DC 21'
 dexterity: '+6'
 element: null
 fly_speed: null

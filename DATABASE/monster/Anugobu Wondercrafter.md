@@ -10,14 +10,6 @@ creature_ability:
 - Planar Workshop
 - Stone Step
 creature_family: '[[DATABASE/monsterfamily/Anugobu|Anugobu]]'
-description: 'Once an anugobu apprentice sets out on their own, they travel the world
-  working on small projects here and there to maintain their skills. But an anugobu
-  does not earn the honorable title of wondercrafter until they find their own wonder.
-  Once they discover and finish such a wonder, the anugobu is considered fully mature.
-  As a result of their station and experience, such anugobus possess skills and magic
-  that far surpass most of their kind.<br/><br/><b><u>Recall Knowledge - Humanoid</u>
-  ( [[DATABASE/skill/Society|Society]] )</b>: DC 25<br/><b><u>Unspecific Lore</u></b>:
-  DC 23<br/><b><u>Specific Lore</u></b>: DC 20'
 dexterity: '+4'
 element: null
 fly_speed: null

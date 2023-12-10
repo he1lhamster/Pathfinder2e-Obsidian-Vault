@@ -1,74 +1,71 @@
 ﻿---
-ac: '21'
-alignment: CN
+ac: '34'
+alignment: NE
 all_resistance: null
 burrow_speed: null
-charisma: '+2'
+charisma: '+3'
 climb_speed: null
-constitution: '+0'
+constitution: '+2'
 creature_ability:
-- Quick Draw
-- Smoke Exhalation
+- Deny Advantage
+- Evasion
+- Hunt Prey
+- Nimble Dodge
 - Sneak Attack
-- Surprise Attack
+- Tear the Wound
+- Trident Bully
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 29<br/><b><u>Unspecific
-  Lore</u></b>: DC 27<br/><b><u>Specific Lore</u></b>: DC 24'
-dexterity: '+4'
+dexterity: '+3'
 element: null
 fly_speed: null
-fortitude: '+9'
-hp: '56'
-id: '2014'
-immunity:
-- '[[DATABASE/trait/Poison|poison]]'
+fortitude: '+21'
+hp: '225'
+id: '1692'
+immunity: null
 intelligence: '+1'
-land_speed: '25'
+land_speed: '20'
 language:
-- '[[DATABASE/language/Abyssal|Abyssal]]'
 - '[[DATABASE/language/Common|Common]]'
-level: '4'
-max_speed: '25'
-name: Aives The Smoke Dragon
-perception: '+8'
+level: '13'
+max_speed: '20'
+name: Ajbal Kimon
+perception: '+23'
 rarity: Unique
-reflex: '+14'
+reflex: '+24'
 resistance: null
 rus_type_level: null
-sense:
-- '[[DATABASE/monsterability/Darkvision|darkvision]]'
+sense: null
 size: Medium
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +10'
-- '[[DATABASE/skill/Athletics|Athletics]] +8'
-- '[[DATABASE/skill/Deception|Deception]] +8'
-- '[[DATABASE/skill/Performance|Performance]] +8'
-- '[[DATABASE/skill/Stealth|Stealth]] +10'
-- '[[DATABASE/skill/Thievery|Thievery]] +12'
-source: '[[DATABASE/source/Pathfinder 152. Legacy of the Lost God|Pathfinder #152:
-  Legacy of the Lost God]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +25'
+- '[[DATABASE/skill/Athletics|Athletics]] +26'
+- '[[DATABASE/skill/Deception|Deception]] +24'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +24'
+- '[[DATABASE/skill/Religion|Religion]] +25'
+- '[[DATABASE/skill/Society|Society]] +22'
+- '[[DATABASE/skill/Stealth|Stealth]] +24'
+- '[[DATABASE/skill/Survival|Survival]] +25'
+source: '[[DATABASE/source/Pathfinder 171. Hurricane''s Howl|Pathfinder #171: Hurricane''s
+  Howl]]'
 speed:
-- 25 feet
-spell:
-- '[[DATABASE/spell/Darkness|Darkness]]'
-strength: '+2'
-strength_req: '2'
+- 20 feet
+spell: null
+strength: '+5'
+strength_req: '5'
 strongest_save:
 - Reflex
 swim_speed: null
 trait:
+- '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
-- '[[DATABASE/trait/Tiefling|Tiefling]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: Darkvision
+vision: null
 weakest_save:
 - Fortitude
-- Will
 weakness: null
-will: '+9'
-wisdom: '+0'
+will: '+23'
+wisdom: '+4'
 
 ---
 # Ajbal Kimon, Brutal Gang Leader

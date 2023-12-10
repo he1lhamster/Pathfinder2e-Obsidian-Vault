@@ -14,11 +14,6 @@ creature_ability:
 - Split
 - Suction
 creature_family: '[[DATABASE/monsterfamily/Ooze|Ooze]]'
-description: 'Most often found below ground, these oozes scour caves for objects to
-  dissolve with their corrosive secretions. This caustic acid is particularly dangerous
-  to creatures that attack a pudding, as it can quickly damage and destroy gear.<br/><br/><b><u>Recall
-  Knowledge - Ooze</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 23<br/><b><u>Unspecific
-  Lore</u></b>: DC 21<br/><b><u>Specific Lore</u></b>: DC 18'
 dexterity: '-5'
 element: null
 fly_speed: null

@@ -13,11 +13,6 @@ creature_ability:
 - Champion's Star
 - Deep Breath
 creature_family: '[[DATABASE/monsterfamily/Lizardfolk|Lizardfolk]]'
-description: "Birthmarks, in the exact shape of constellations or abstract representations\
-  \ of them, are thought to signify a mighty destiny. These \u201Cchosen\u201D put\
-  \ a faith in astrology that even some iruxis might call superstitious.<br/><br/><b><u>Recall\
-  \ Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 26<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 24<br/><b><u>Specific Lore</u></b>: DC 21"
 dexterity: '+4'
 element: null
 fly_speed: null

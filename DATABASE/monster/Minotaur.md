@@ -12,18 +12,6 @@ creature_ability:
 - Natural Cunning
 - Powerful Charge
 creature_family: null
-description: 'Minotaurs are master hunters that dwell in cunning labyrinths or tangles
-  of underground caverns meant to disorient and demoralize prey. These monstrous tormentors
-  delight in the hunt, in the terror caused by closing in on prey, and in the very
-  moment when the hunted realizes that they have lost the game. Only then will the
-  minotaur charge in for the kill, cutting foes down with powerful strikes or impaling
-  them on its sharp horns.<br/><br/> Minotaurs are known to dwell in mazes, but they
-  can also be found hiding in old ruins and other forgotten corners of the world.
-  In any case, they are solitary creatures, only rarely sharing territory with others
-  of their kind or even more powerful beings that have cowed them into service. Everyone
-  else is little more than prey to be hunted.<br/><br/><b><u>Recall Knowledge - Humanoid</u>
-  ( [[DATABASE/skill/Society|Society]] )</b>: DC 19<br/><b><u>Unspecific Lore</u></b>:
-  DC 17<br/><b><u>Specific Lore</u></b>: DC 14'
 dexterity: '+0'
 element: null
 fly_speed: null

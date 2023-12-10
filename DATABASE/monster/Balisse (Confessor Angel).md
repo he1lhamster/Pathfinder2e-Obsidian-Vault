@@ -1,66 +1,77 @@
 ﻿---
-ac: '16'
-alignment: N
+ac: '26'
+alignment: NG
 all_resistance: null
-burrow_speed: '10'
-charisma: '-2'
+burrow_speed: null
+charisma: '+5'
 climb_speed: null
-constitution: '+2'
+constitution: '+4'
 creature_ability:
-- Ferocity
-creature_family: '[[DATABASE/monsterfamily/Badger|Badger]]'
-description: 'The typical badger has dark, brownish-gray fur highlighted with white
-  markings, particularly on the head, giving it a striped mask of fur around its eyes.
-  A threatened badger can swiftly become a ferocious combatant that typically fights
-  until slain.<br/><br/><b><u>Recall Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 14<br/><b><u>Unspecific Lore</u></b>: DC 12<br/><b><u>Specific Lore</u></b>:
-  DC 9'
-dexterity: '+1'
+- Brand of the Impenitent
+- "Confessor\u2019s Aura"
+- Flaming Armament
+- Guiding Angel
+creature_family: '[[DATABASE/monsterfamily/Angel|Angel]]'
+dexterity: '+2'
 element: null
-fly_speed: null
-fortitude: '+8'
+fly_speed: '40'
+fortitude: '+16'
 hardness: null
-hp: '15'
-id: '561'
+hp: '145'
+id: '15'
 immunity: null
-intelligence: '-5'
-land_speed: '25'
-language: null
-level: '0'
-max_speed: '25'
-name: Badger
-perception: '+6'
+intelligence: '+1'
+land_speed: '30'
+language:
+- '[[DATABASE/language/Celestial|Celestial]]'
+- '[[DATABASE/language/Draconic|Draconic]]'
+- '[[DATABASE/language/Infernal|Infernal]] ; [[DATABASE/spell/Tongues|tongues]]'
+level: '8'
+max_speed: '40'
+name: Balisse
+perception: '+18'
 rarity: Common
-reflex: '+5'
-resistance: null
+reflex: '+12'
+resistance:
+- '[[DATABASE/trait/Fire|fire]] 15'
 rus_type_level: null
 school: null
 sense:
-- '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
-- '[[DATABASE/monsterability/Scent|scent (imprecise) 30 feet]]'
-size: Small
+- (+20 to detect lies and illusions); darkvision
+size: Medium
 skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +4'
-- '[[DATABASE/skill/Stealth|Stealth]] +6'
-source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +14'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +17'
+- '[[DATABASE/skill/Religion|Religion]] +18'
+source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
-- 25 feet
-- burrow 10 feet
-spell: null
-strength: '+0'
-strength_req: '0'
+- 30 feet
+- fly 40 feet
+spell:
+- '[[DATABASE/spell/Detect Alignment|Detect Alignment]]'
+- '[[DATABASE/spell/Divine Wrath|Divine Wrath]]'
+- '[[DATABASE/spell/Heal|Heal]]'
+- '[[DATABASE/spell/Invisibility|Invisibility]]'
+- '[[DATABASE/spell/Paralyze|Paralyze]]'
+- '[[DATABASE/spell/Remove Curse|Remove Curse]]'
+- '[[DATABASE/spell/Remove Disease|Remove Disease]]'
+- '[[DATABASE/spell/Remove Fear|Remove Fear]]'
+strength: '+5'
+strength_req: '5'
 strongest_save:
-- Fortitude
+- Will
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Animal|Animal]]'
+- '[[DATABASE/trait/Angel|Angel]]'
+- '[[DATABASE/trait/Celestial|Celestial]]'
 type: Creature
-vision: Low-light vision
+vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
-will: '+6'
-wisdom: '+2'
+weakness:
+- evil 10
+will: '+18'
+wisdom: '+6'
 
 ---
 # Balisse (Confessor Angel)

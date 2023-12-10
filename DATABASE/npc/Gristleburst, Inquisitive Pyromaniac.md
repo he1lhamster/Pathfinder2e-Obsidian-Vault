@@ -1,105 +1,66 @@
 ﻿---
-ac: '23'
+ac: '18'
 alignment: CN
 all_resistance: null
 burrow_speed: null
-charisma: '+4'
+charisma: '+0'
 climb_speed: null
 constitution: '+1'
 creature_ability:
-- Rhetorical Spell
+- Infused Items
+- Quick Bomber
+- Quick Smoke Bomb
 creature_family: null
-description: 'The bard Grigori is a charismatic orator and an agent of Pitax who seeks
-  to undermine the PCs'' authority while spying on their kingdom. He shows up in the
-  kingdom''s capital city while the PCs are out adventuring and immediately begins
-  giving speeches criticizing and denigrating their leadership and actions. More and
-  more of the townsfolk gather to hear him talk and, as the days wear on, he builds
-  a wellspring of support among the disaffected settlers in the town. Every decision
-  the PCs make has a winner and a loser, and Grigori is gifted at shifting focus to
-  the losers in these decisions and riling them up. Whether it is appealing to the
-  citizens who didn''t get what they wanted when the PCs built a new city block, to
-  spinning a narrative that paints a recent event in the most horrid light for those
-  for whom the outcome was a negative, a properly played Grigori should become a constant
-  barb in the players'' side and one of the most memorable villains they encounter.
-  Grigori takes great pains to avoid breaking any of the PCs'' laws so that they have
-  no legal justification to arrest him other than that they want to silence him.<br/><br/>
-  Grigori is more than just an itinerant storyteller; he''s a spy and agent provocateur
-  sent by [[DATABASE/npc/Castruccio Irovetti|King Irovetti]] , the Lord of Pitax,
-  to spread chaos and dissent in the town with the aim of overthrowing the PCs and
-  possibly paving the way for Pitax to annex the settlement. In order to cover his
-  tracks and retain plausible deniability, Irovetti used several layers of agents
-  to hire Grigori; as far as the bard knows, he was hired to cause trouble in this
-  fledgling town by agents from Fort Drelev to the west.<br/><br/><b><u>Recall Knowledge
-  - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 33<br/><b><u>Unspecific
-  Lore</u></b>: DC 31<br/><b><u>Specific Lore</u></b>: DC 28'
-dexterity: '+2'
+dexterity: '+3'
 element: null
 fly_speed: null
-fortitude: '+12'
-hp: '110'
-id: '2192'
+fortitude: '+10'
+hp: '30'
+id: '1477'
 immunity: null
-intelligence: '+3'
+intelligence: '+4'
 land_speed: '25'
 language:
 - '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Hallit|Hallit]]'
-level: '7'
+- '[[DATABASE/language/Goblin|Goblin]]'
+level: '2'
 max_speed: '25'
-name: Grigori
-perception: '+15'
+name: Gristleburst
+perception: '+7'
 rarity: Unique
-reflex: '+15'
-resistance: null
+reflex: '+8'
+resistance:
+- '[[DATABASE/trait/Fire|fire]] 1'
 rus_type_level: null
 sense: null
-size: Medium
+size: Small
 skill:
-- '[[DATABASE/skill/Deception|Deception]] +17'
-- '[[DATABASE/skill/Diplomacy|Diplomacy]] +15'
-- '[[DATABASE/skill/Performance|Performance]] +17'
-- '[[DATABASE/skill/Society|Society]] +16'
-- '[[DATABASE/skill/Thievery|Thievery]] +13'
-source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +7'
+- '[[DATABASE/skill/Crafting|Crafting]] +8'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +6'
+- '[[DATABASE/skill/Nature|Nature]] +7'
+- '[[DATABASE/skill/Stealth|Stealth]] +7'
+- '[[DATABASE/skill/Survival|Survival]] +7'
+source: '[[DATABASE/source/No-Prep Character. Gristleburst|No-Prep Character: Gristleburst]]'
 speed:
 - 25 feet
-spell:
-- '[[DATABASE/spell/Alarm|Alarm]]'
-- '[[DATABASE/spell/Charm|Charm]]'
-- '[[DATABASE/spell/Counter Performance|Counter Performance]]'
-- '[[DATABASE/spell/Daze|Daze]]'
-- '[[DATABASE/spell/Dirge of Doom|Dirge of Doom]]'
-- '[[DATABASE/spell/Enthrall|Enthrall]]'
-- '[[DATABASE/spell/Glibness|Glibness]]'
-- '[[DATABASE/spell/Hideous Laughter|Hideous Laughter]]'
-- '[[DATABASE/spell/Inspire Courage|Inspire Courage]]'
-- '[[DATABASE/spell/Invisibility|Invisibility]]'
-- '[[DATABASE/spell/Lingering Composition|Lingering Composition]]'
-- '[[DATABASE/spell/Mage Hand|Mage Hand]]'
-- '[[DATABASE/spell/Mind Reading|MindReading]]'
-- '[[DATABASE/spell/Paranoia|Paranoia]]'
-- '[[DATABASE/spell/Prestidigitation|Prestidigitation]]'
-- '[[DATABASE/spell/Sanctuary|Sanctuary]]'
-- '[[DATABASE/spell/Shield|Shield]]'
-- '[[DATABASE/spell/Sigil|Sigil]]'
-- '[[DATABASE/spell/Suggestion|Suggestion]]'
-- '[[DATABASE/spell/Zone of Truth|Zone of Truth]]'
+spell: null
 strength: '+1'
 strength_req: '1'
 strongest_save:
-- Will
+- Fortitude
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Human|Human]]'
+- '[[DATABASE/trait/Goblin|Goblin]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
 vision: null
 weakest_save:
-- Fortitude
+- Will
 weakness: null
-will: '+18'
-wisdom: '+2'
+will: '+6'
+wisdom: '+1'
 
 ---
 # Gristleburst, Inquisitive Pyromaniac

@@ -11,34 +11,6 @@ creature_ability:
 - Perfect Camouflage
 - Snatch Skull
 creature_family: null
-description: "Skull peelers, despite their ferocious and well-deserved moniker, are\
-  \ considered by many to be downright adorable, especially when viewed from a safe\
-  \ distance. Their soft, dappled brown fur helps them hide in forest canopies, and\
-  \ they have shimmering insectile wings and big eyes that draw in the faintest beams\
-  \ of light. At first glance, a skull peeler looks like a cuddly pet or a wizard's\
-  \ familiar. Any illusions of domesticating such a beast are quickly dismissed upon\
-  \ seeing how a skull peeler eats, however.<br/><br/> Skull peelers have evolved\
-  \ to hang motionlessly in treetop canopies as they wait until appropriate prey appears,\
-  \ usually long-necked dinosaurs but also brachiating primates and large birds. The\
-  \ skull peeler then lashes out with its long tongue, severing the creature's head\
-  \ from its body and pulling the detached cranium back into its hungry paws. It then\
-  \ uses its claws to crack open the cranial cavity\u2014hence its name\u2014before\
-  \ lapping up the tasty insides.<br/><br/> Despite skull peelers' gruesome eating\
-  \ habits, some enterprises and individuals can't resist the urge to add these beasts\
-  \ to their menageries. Fey and other creatures with ties to the [[DATABASE/plane/First\
-  \ World|First World]] , such as [[DATABASE/ancestry/Gnome|gnomes]] , can occasionally\
-  \ coax a skull peeler into a form of domestication. While the adorable beasts can\
-  \ never be fully tamed due to their hyper-evolved hunting instincts, they can be\
-  \ bribed with food and, if kept satiated, displayed on a perch or indoor terrarium\
-  \ as an example of their master's cunning and deadliness. As often as not, these\
-  \ pseudo-domesticated skull peelers end up devouring a guest, pet, or their would-be\
-  \ owner, but this possibility doesn't stop up-and-coming crime lords from attempting\
-  \ to domesticate the little predators. Skull peelers kept in well-managed zoos fare\
-  \ somewhat better, but these clever creatures don't always stay in their cages,\
-  \ which has led to wild skull peelers in places travelers might not expect.<br/><br/><b><u>Recall\
-  \ Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 22<br/><b><u>Unspecific Lore</u></b>: DC 20<br/><b><u>Specific Lore</u></b>:\
-  \ DC 17"
 dexterity: '+4'
 element: null
 fly_speed: '10'

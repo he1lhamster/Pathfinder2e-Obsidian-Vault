@@ -16,14 +16,6 @@ creature_ability:
 - Troop
 - Movement
 creature_family: null
-description: 'When a horrific tragedy results in mass death, the restless spirits
-  of the numerous dead might arise as a ghostly mob. Like other ghosts, ghostly mobs
-  are often unaware they''re dead. The spirits trapped within the mob may try to carry
-  out a semblance of their former lives, even though their memories are fragmentary
-  and their forms are insubstantial. When forced to confront their true state, the
-  spirits lash out in pain and violence.<br/><br/><b><u>Recall Knowledge - Undead</u>
-  ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 26<br/><b><u>Unspecific Lore</u></b>:
-  DC 24<br/><b><u>Specific Lore</u></b>: DC 21'
 dexterity: '+4'
 element: null
 fly_speed: '25'

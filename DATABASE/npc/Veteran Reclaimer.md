@@ -12,22 +12,6 @@ creature_ability:
 - Vengeful Edge
 - Weapon Mastery
 creature_family: '[[DATABASE/monsterfamily/Knights of Lastwall|Knights of Lastwall]]'
-description: '<i>This grizzled half-orc wields a longbow with the familiarity of a
-  woman who considers it more as an extension of her body than a weapon.</i><br/><br/>
-  When Lastwall fell, many of the former Knights of Ozem became disheartened and scattered,
-  wandering aimlessly through the wilds of the Inner Sea. Though the horrific events
-  that led to the fall of Lastwall shook their faith in the traditional hierarchy
-  of the Knights, they hardened their resolve to hunt all undead from the face of
-  Golarion. These Crimson Reclaimers still see the Whispering Tyrant as their primary
-  foe, but they can be found in many of the most haunted regions of the world, living
-  off the land and hunting the restless dead.<br/><br/> While heroism and fervor for
-  their cause still burns in their heart, veteran reclaimers have lived long enough
-  to lose their taste for tales of courtly valor and valiant last stands. They have
-  learned the value of caution and thus engage their enemies from range and use terrain
-  to their advantage. They are quick to strike back at enemies that harm their allies,
-  knowing staunch teammates are essential in the face of the world''s many horrors.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 28<br/><b><u>Unspecific
-  Lore</u></b>: DC 26<br/><b><u>Specific Lore</u></b>: DC 23'
 dexterity: '+5'
 element: null
 fly_speed: null

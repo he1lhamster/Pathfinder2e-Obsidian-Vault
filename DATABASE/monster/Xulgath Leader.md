@@ -10,12 +10,6 @@ creature_ability:
 - Stench
 - Weakening Strike
 creature_family: '[[DATABASE/monsterfamily/Xulgath|Xulgath]]'
-description: "Xulgath leaders are usually the strongest, most violent members of a\
-  \ community\u2014although in some cases, particularly in larger groups, xulgath\
-  \ tribes are led by powerful demon cultists or other monsters who seek to use the\
-  \ xulgaths as servants or slaves.<br/><br/><b><u>Recall Knowledge - Humanoid</u>\
-  \ ( [[DATABASE/skill/Society|Society]] )</b>: DC 18<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 16<br/><b><u>Specific Lore</u></b>: DC 13"
 dexterity: '+1'
 element: null
 fly_speed: null

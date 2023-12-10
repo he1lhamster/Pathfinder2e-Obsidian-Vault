@@ -11,23 +11,6 @@ creature_ability:
 - Drink Abundance
 - Expel Wave
 creature_family: null
-description: 'Tiddaliks are giant, drought-causing monstrosities resembling grossly
-  swollen frogs. They travel through the land, sniffing out water to gorge themselves
-  on. Upon finding a source, the tiddalik submerges itself and begins to drink, and
-  drink, and drink. Over time, it slurps the water down to the very last drop and
-  balloons in size, becoming unable to move at more than an amble. The water sustains
-  the tiddalik for years, while the land suffers a great drought. In fact, the only
-  moisture to be found in any quantity might be the damp divot the tiddalik''s great,
-  sloshing body leaves behind as it travels.<br/><br/> Desperate locals trying to
-  undo a tiddalik''s work are met with the creature''s gullet or torrents of water.
-  A tiddalik is lazy and unlikely to start a fight of its own volition or even to
-  chase a fleeing attacker, having little interest in anything but slaking its immense
-  thirst. In its death throes, the tiddalik divulges its water stores, breaking free
-  in a final tide of mass destruction that swamps the surrounding area. Woe betide
-  any unlucky enough to find themselves beset by a tiddalik''s gluttony!<br/><br/><b><u>Recall
-  Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 23<br/><b><u>Unspecific Lore</u></b>: DC 21<br/><b><u>Specific Lore</u></b>:
-  DC 18'
 dexterity: '+2'
 element: null
 fly_speed: null

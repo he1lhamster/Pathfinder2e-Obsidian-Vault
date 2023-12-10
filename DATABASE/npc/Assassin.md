@@ -15,12 +15,6 @@ creature_ability:
 - Surprise Attack
 - Swift Sneak
 creature_family: '[[DATABASE/monsterfamily/Criminals|Criminals]]'
-description: 'Assassins commit murder, either for pay or due to their belief in a
-  cause, such as a religion or a political movement. Some assassins work alone and
-  choose their own victims. Others are members of assassins'' guilds, organizations
-  that accept contracts to kill in return for money, favors, or both.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 24<br/><b><u>Unspecific
-  Lore</u></b>: DC 22<br/><b><u>Specific Lore</u></b>: DC 19'
 dexterity: '+5'
 element: null
 fly_speed: null

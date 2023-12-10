@@ -1,69 +1,69 @@
 ﻿---
-ac: '28'
-alignment: NE
+ac: '15'
+alignment: N
 all_resistance: null
 burrow_speed: null
-charisma: '+4'
+charisma: '+1'
 climb_speed: null
-constitution: '+2'
-creature_ability:
-- False Faith
-- Marked by Urgathoa
-- Trick Item
-creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 37<br/><b><u>Unspecific
-  Lore</u></b>: DC 35<br/><b><u>Specific Lore</u></b>: DC 32'
-dexterity: '+4'
+constitution: '-1'
+creature_ability: null
+creature_family: '[[DATABASE/monsterfamily/Devotees|Devotees]]'
+dexterity: '+2'
 element: null
 fly_speed: null
-fortitude: '+13'
-hp: '190'
-id: '1956'
+fortitude: '+2'
+hp: '16'
+id: '893'
 immunity: null
-intelligence: '+1'
+intelligence: '+2'
 land_speed: '25'
 language:
 - '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Requian|Requian]]'
-- '[[DATABASE/language/Shoanti|Shoanti]]'
-- '[[DATABASE/language/Varisian|Varisian]]'
-level: '10'
+level: '1'
 max_speed: '25'
-name: Abridan Ashau
-perception: '+18'
-rarity: Unique
-reflex: '+15'
+name: Acolyte of Nethys
+perception: '+7'
+rarity: Common
+reflex: '+5'
 resistance: null
 rus_type_level: null
 sense: null
 size: Medium
 skill:
-- '[[DATABASE/skill/Deception|Deception]] +22'
-- '[[DATABASE/skill/Diplomacy|Diplomacy]] +18'
-- '[[DATABASE/skill/Medicine|Medicine]] +20'
-- '[[DATABASE/skill/Religion|Religion]] +18'
-- '[[DATABASE/skill/Society|Society]] +17'
-source: '[[DATABASE/source/Shadows at Sundown|Shadows at Sundown]]'
+- '[[DATABASE/skill/Arcana|Arcana]] +5'
+- '[[DATABASE/skill/Crafting|Crafting]] +5'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +4'
+- '[[DATABASE/skill/Occultism|Occultism]] +5'
+- '[[DATABASE/skill/Religion|Religion]] +7'
+source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 speed:
 - 25 feet
-spell: null
-strength: '+2'
-strength_req: '2'
+spell:
+- '[[DATABASE/spell/Chill Touch|Chill Touch]]'
+- '[[DATABASE/spell/Cry of Destruction|Cry ofDestruction]]'
+- '[[DATABASE/spell/Detect Magic|Detect Magic]]'
+- '[[DATABASE/spell/Harm|Harm]]'
+- '[[DATABASE/spell/Heal|Heal]]'
+- '[[DATABASE/spell/Light|Light]]'
+- '[[DATABASE/spell/Magic Missile|MagicMissile]]'
+- '[[DATABASE/spell/Prestidigitation|Prestidigitation]]'
+- '[[DATABASE/spell/Read Aura|Read Aura]]'
+- '[[DATABASE/spell/Shield|Shield]]'
+strength: '+1'
+strength_req: '1'
 strongest_save:
 - Will
 swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
-- '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
 vision: null
 weakest_save:
 - Fortitude
 weakness: null
-will: '+18'
-wisdom: '+2'
+will: '+9'
+wisdom: '+4'
 
 ---
 # Acolyte

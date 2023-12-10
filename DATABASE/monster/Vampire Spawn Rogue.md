@@ -1,99 +1,62 @@
 ﻿---
-ac: '27'
+ac: '22'
 alignment: CE
 all_resistance: null
 burrow_speed: null
-charisma: '+5'
+charisma: '+2'
 climb_speed: '25'
 constitution: '+1'
 creature_ability:
-- Change Shape
-- Children of the Night
-- Create Spawn
-- Dominate
-- Drain Bonded Item
 - Drink Blood
-- ''
-- Mist Escape
-- Steady Spellcasting
-- Turn to Mist
+- Sneak Attack
 creature_family: '[[DATABASE/monsterfamily/Vampire|Vampire]]'
-description: 'Vampire masterminds are evil wizards who control entire cabals of the
-  undead and instill fear in the hearts of mortals far and wide.<br/><br/><b><u>Recall
-  Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 28<br/><b><u>Unspecific
-  Lore</u></b>: DC 26<br/><b><u>Specific Lore</u></b>: DC 23'
-dexterity: '+4'
+dexterity: '+5'
 element: null
 fly_speed: null
-fortitude: '+15'
+fortitude: '+9'
 hardness: null
-hp: 115 (coffin restoration, fast healing 10, negative healing )
-id: '401'
+hp: 40 (coffin restoration, fast healing 5, negative healing )
+id: '399'
 immunity:
 - death effects
 - disease
 - paralyze
 - poison
 - sleep
-intelligence: '+6'
+intelligence: '-1'
 land_speed: '25'
 language:
-- '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Necril|Necril]] ; plus one regional language'
-level: '9'
+- '[[DATABASE/language/Common|Common]] ; plus one regional language'
+level: '4'
 max_speed: '25'
-name: Vampire Mastermind
-perception: '+20'
-rarity: Uncommon
-reflex: '+18'
+name: Vampire Spawn
+perception: '+12'
+rarity: Common
+reflex: '+13'
 resistance:
-- physical 10 (except magical silver)
+- physical 5 (except silver)
 rus_type_level: null
 school: null
 sense:
 - darkvision
 size: Medium
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +17'
-- '[[DATABASE/skill/Arcana|Arcana]] +21'
-- '[[DATABASE/skill/Athletics|Athletics]] +16'
-- '[[DATABASE/skill/Deception|Deception]] +20'
-- '[[DATABASE/skill/Diplomacy|Diplomacy]] +20'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +22'
-- '[[DATABASE/skill/Society|Society]] +19'
-- '[[DATABASE/skill/Stealth|Stealth]] +19'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +11'
+- '[[DATABASE/skill/Athletics|Athletics]] +9'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +8'
+- '[[DATABASE/skill/Society|Society]] +5'
+- '[[DATABASE/skill/Stealth|Stealth]] +12'
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 25 feet
 - climb 25 feet
-spell:
-- '[[DATABASE/spell/Color Spray|Color Spray]]'
-- '[[DATABASE/spell/Detect Magic|DetectMagic]]'
-- '[[DATABASE/spell/Dispel Magic|Dispel Magic]]'
-- '[[DATABASE/spell/Fire Shield|Fire Shield]]'
-- '[[DATABASE/spell/Fireball|Fireball]]'
-- '[[DATABASE/spell/Flaming Sphere|Flaming Sphere]]'
-- '[[DATABASE/spell/Fleet Step|Fleet Step]]'
-- '[[DATABASE/spell/Haste|Haste]]'
-- '[[DATABASE/spell/Invisibility|Invisibility]]'
-- '[[DATABASE/spell/Lightning Bolt|Lightning Bolt]]'
-- '[[DATABASE/spell/Mage Hand|Mage Hand]]'
-- '[[DATABASE/spell/Message|Message]]'
-- '[[DATABASE/spell/Mirror Image|MirrorImage]]'
-- '[[DATABASE/spell/Phantasmal Killer|Phantasmal Killer]]'
-- '[[DATABASE/spell/Ray of Enfeeblement|Ray of Enfeeblement]]'
-- '[[DATABASE/spell/Ray of Frost|Ray of Frost]]'
-- '[[DATABASE/spell/Sigil|Sigil]]'
-- '[[DATABASE/spell/Touch of Idiocy|Touch of Idiocy]]'
-- '[[DATABASE/spell/Veil|Veil]]'
-- '[[DATABASE/spell/Wall of Fire|Wall of Fire]]'
+spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
-- Will
+- Reflex
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
 - '[[DATABASE/trait/Undead|Undead]]'
 - '[[DATABASE/trait/Vampire|Vampire]]'
 type: Creature
@@ -102,8 +65,8 @@ weakest_save:
 - Fortitude
 weakness:
 - vampire weaknesses
-will: '+20'
-wisdom: '+4'
+will: '+11'
+wisdom: '+3'
 
 ---
 # Vampire Spawn Rogue

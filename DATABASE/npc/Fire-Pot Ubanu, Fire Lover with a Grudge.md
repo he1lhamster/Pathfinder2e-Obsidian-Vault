@@ -1,74 +1,84 @@
 ﻿---
-ac: '20'
-alignment: NE
+ac: '26'
+alignment: CN
 all_resistance: null
 burrow_speed: null
 charisma: '+4'
 climb_speed: null
-constitution: '+0'
+constitution: '+1'
 creature_ability:
-- Fence's Eye
-- Quick Rummage
-- Scoundrel's Feint
-- Sneak Attack
-creature_family: '[[DATABASE/monsterfamily/Criminals|Criminals]]'
-description: 'The longer criminals hold on to stolen loot, the greater the chance
-  they will get caught. Fences make themselves indispensable in the underworld by
-  paying for stolen goods in order to resell them later, whether through a seemingly
-  legitimate business or to a closed group of elite buyers.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 20<br/><b><u>Unspecific
-  Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>: DC 15'
+- Distracting Spells
+- Infused Items
+- Quick Bomber
+creature_family: null
 dexterity: '+3'
 element: null
 fly_speed: null
-fortitude: '+9'
-hp: '70'
-id: '891'
+fortitude: '+17'
+hp: '140'
+id: '1638'
 immunity: null
 intelligence: '+4'
 land_speed: '25'
 language:
 - '[[DATABASE/language/Common|Common]]'
-level: '5'
+- '[[DATABASE/language/Draconic|Draconic]]'
+- '[[DATABASE/language/Ignan|Ignan]]'
+- '[[DATABASE/language/Jotun|Jotun]]'
+level: '8'
 max_speed: '25'
-name: Fence
-perception: '+11'
-rarity: Common
-reflex: '+12'
-resistance: null
+name: Fire-Pot Ubanu
+perception: '+16'
+rarity: Unique
+reflex: '+19'
+resistance:
+- '[[DATABASE/trait/Fire|fire]] 10'
 rus_type_level: null
 sense: null
 size: Medium
 skill:
-- '[[DATABASE/skill/Lore|Accounting Lore]] +13'
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +10'
-- '[[DATABASE/skill/Crafting|Crafting]] +13'
-- '[[DATABASE/skill/Deception|Deception]] +13'
-- '[[DATABASE/skill/Diplomacy|Diplomacy]] +11'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +11'
-- '[[DATABASE/skill/Society|Society]] +11'
-- '[[DATABASE/skill/Stealth|Stealth]] +10'
-- '[[DATABASE/skill/Thievery|Thievery]] +10'
-- '[[DATABASE/skill/Lore|Underworld Lore]] +15'
-source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
+- '[[DATABASE/skill/Arcana|Arcana]] +16'
+- '[[DATABASE/skill/Crafting|Crafting]] +20'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +16'
+- '[[DATABASE/skill/Nature|Nature]] +15'
+- '[[DATABASE/skill/Lore|WeaponsLore]] +16'
+source: '[[DATABASE/source/Pathfinder 170. Spoken on the Song Wind|Pathfinder #170:
+  Spoken on the Song Wind]]'
 speed:
 - 25 feet
-spell: null
-strength: '+0'
-strength_req: '0'
+spell:
+- '[[DATABASE/spell/Acid Splash|Acid Splash]]'
+- '[[DATABASE/spell/Blindness|Blindness]]'
+- '[[DATABASE/spell/Burning Hands|Burning Hands]]'
+- '[[DATABASE/spell/Detect Magic|Detect Magic]]'
+- '[[DATABASE/spell/Fire Shield|FireShield]]'
+- '[[DATABASE/spell/Fireball|Fireball]]'
+- '[[DATABASE/spell/Flaming Sphere|Flaming Sphere]]'
+- '[[DATABASE/spell/Guidance|Guidance]]'
+- '[[DATABASE/spell/Gust of Wind|Gust of Wind]]'
+- '[[DATABASE/spell/Haste|Haste]]'
+- '[[DATABASE/spell/Jump|Jump]]'
+- '[[DATABASE/spell/Mending|Mending]]'
+- '[[DATABASE/spell/Obscuring Mist|Obscuring Mist]]'
+- '[[DATABASE/spell/Prestidigitation|Prestidigitation]]'
+- '[[DATABASE/spell/Produce Flame|Produce Flame]]'
+- '[[DATABASE/spell/Resist Energy|Resist Energy]]'
+strength: '+1'
+strength_req: '1'
 strongest_save:
-- Will
+- Reflex
 swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
+- '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
 vision: null
 weakest_save:
-- Fortitude
+- Will
 weakness: null
-will: '+15'
-wisdom: '+2'
+will: '+13'
+wisdom: '+1'
 
 ---
 # Fire-Pot Ubanu, Fire Lover with a Grudge

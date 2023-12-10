@@ -17,21 +17,6 @@ creature_ability:
 - Rock
 - Wide Swing
 creature_family: '[[DATABASE/monsterfamily/Giant|Giant]]'
-description: "Magically crafted and bred by ancient wizards, rune giants are anathema\
-  \ to and tyrants among their own kind, who were given power to command and magically\
-  \ control other giants. The rune giants themselves served even more powerful masters\u2014\
-  potent wizards known as runelords\u2014and in so doing commanded entire armies of\
-  \ giants on behalf of the runelords\u2019 empires. In the eons since these empires\
-  \ collapsed, rune giants have persisted as a people of their own, though to the\
-  \ outside world they\u2019re little more than fabled horrors whispered of late at\
-  \ night by superstitious giants. Rune giants usually dwell in the most remote and\
-  \ rugged of towering mountain ranges, but they can also be found in immense ruins\
-  \ atop lost islands, glacial valleys, or even more remote or magical regions.<br/><br/>\
-  \ Rune giants\u2019 striking charcoal flesh is decorated by dozens of runes, which\
-  \ are potent manifestations of their eldritch powers. Rune giants are towering creatures,\
-  \ averaging at 40 feet in height and weighing 25,000 pounds.<br/><br/><b><u>Recall\
-  \ Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 37<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 35<br/><b><u>Specific Lore</u></b>: DC 32"
 dexterity: '+2'
 element: null
 fly_speed: null

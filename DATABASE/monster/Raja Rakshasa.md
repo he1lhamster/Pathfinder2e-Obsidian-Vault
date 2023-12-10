@@ -11,19 +11,6 @@ creature_ability:
 - Disturbing Vision
 - Scoff at the Divine
 creature_family: '[[DATABASE/monsterfamily/Rakshasa|Rakshasa]]'
-description: 'When not disguised as a humanoid, the raja rakshasa has the head of
-  an animal. The hands of a raja rakshasa are more subtly unsettling, for the fingers
-  of these fiends bend outward, away from the palms.<br/><br/> More than any other
-  types of rakshasa, rajas scoff at religion. They understand the power of the divine,
-  yet they view themselves as the only things worthy of worship from mortal creatures;
-  not even their own immortals are deemed deserving of such glorification. Raja rakshasas
-  often form close-knit families that work together to bring down mortal cities or
-  to rule them from the shadows within. Such families of rakshasas often incorporate
-  other breeds of the fiend, often using dandasukas as favored servants or stealthy
-  spies. Even though a raja family works together to achieve a shared goal, infighting
-  and treachery among their own is a constant threat.<br/><br/><b><u>Recall Knowledge
-  - Fiend</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 27<br/><b><u>Unspecific
-  Lore</u></b>: DC 25<br/><b><u>Specific Lore</u></b>: DC 22'
 dexterity: '+6'
 element: null
 fly_speed: null

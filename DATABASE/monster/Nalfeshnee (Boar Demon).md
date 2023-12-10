@@ -1,88 +1,51 @@
 ﻿---
-ac: '21'
-alignment: CN
+ac: null
+alignment: null
 all_resistance: null
 burrow_speed: null
-charisma: '+2'
+charisma: null
 climb_speed: null
-constitution: '+2'
-creature_ability:
-- Najra Lizard Venom
-- Najra Swarm Attack
-- Shared Diversion
+constitution: null
+creature_ability: null
 creature_family: null
-description: "Among the smallest breeds of dragon on Golarion, these savage, cunning\
-  \ hunters dwell near the oases that dot the inhospitable Narhari Desert in Vudra.\
-  \ Land-bound, they scamper across the badlands on four short limbs, their speckled\
-  \ brown and yellow bodies blending into the terrain.<br/><br/> Though najra lizards\
-  \ live and sleep alone or in mated pairs near their hunting grounds, groups of up\
-  \ to two dozen work in unison to hunt. The lowest-ranked members of a najra lizard\
-  \ swarm leave their hidden dens to target prey with their parching spit. Once the\
-  \ unquenchable thirst caused by their venom drives the creature to the nearby watering\
-  \ hole, the entire swarm attacks. Even when unable to overwhelm foes with sheer\
-  \ numbers, najra lizards have little interest in fighting fairly. They often use\
-  \ their tails to rustle nearby desert scrub, hurl small stones, or otherwise divert\
-  \ attention so they can sneak away or attack from hiding.<br/><br/> Najra lizards\
-  \ dislike humanoids and humanoid civilization, and they are particularly rankled\
-  \ by being called mere \u201Clizards.\u201D They refer to themselves by a [[DATABASE/language/Draconic|Draconic]]\
-  \ word that translates roughly to \u201Cswarm dragon.\u201D Like almost all dragons,\
-  \ najra lizards covet shiny metals and glittering gems. They typically hide accumulated\
-  \ treasures in small holes near where they sleep, and arguments over such caches\
-  \ are one of the few things that engender violence among members of the same pack.<br/><br/><b><u>Recall\
-  \ Knowledge - Dragon</u> ( [[DATABASE/skill/Arcana|Arcana]] )</b>: DC 21<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 19<br/><b><u>Specific Lore</u></b>: DC 16"
-dexterity: '+4'
+dexterity: null
 element: null
 fly_speed: null
-fortitude: '+10'
+fortitude: null
 hardness: null
-hp: '60'
-id: '993'
-immunity:
-- '[[DATABASE/condition/Paralyzed|paralyzed]]'
-- '[[DATABASE/trait/Sleep|sleep]]'
-intelligence: '-1'
-land_speed: '30'
-language:
-- '[[DATABASE/language/Draconic|Draconic]]'
-level: '4'
-max_speed: '30'
-name: Najra Lizard
-perception: '+11'
-rarity: Uncommon
-reflex: '+12'
+hp: null
+id: '481'
+immunity: null
+intelligence: null
+land_speed: null
+language: null
+level: null
+max_speed: null
+name: Nalfeshnee
+perception: null
+rarity: null
+reflex: null
 resistance: null
 rus_type_level: null
 school: null
-sense:
-- '[[DATABASE/monsterability/Darkvision|darkvision]]'
-- '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
-size: Tiny
-skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +14'
-- '[[DATABASE/skill/Deception|Deception]] +10'
-- '[[DATABASE/skill/Stealth|Stealth]] +12'
-- '[[DATABASE/skill/Survival|Survival]] +12'
-source: '[[DATABASE/source/Pathfinder 158. Sixty Feet Under|Pathfinder #158: Sixty
-  Feet Under]]'
-speed:
-- 30 feet
+sense: null
+size: null
+skill: null
+source: '[[DATABASE/source/Pathfinder 149. Against the Scarlet Triad|Pathfinder #149:
+  Against the Scarlet Triad]]'
+speed: null
 spell: null
-strength: '-1'
-strength_req: '-1'
-strongest_save:
-- Reflex
+strength: null
+strength_req: null
+strongest_save: null
 swim_speed: null
-trait:
-- '[[DATABASE/trait/Dragon|Dragon]]'
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
-type: Creature
-vision: Darkvision
-weakest_save:
-- Fortitude
+trait: null
+type: null
+vision: null
+weakest_save: null
 weakness: null
-will: '+11'
-wisdom: '+3'
+will: null
+wisdom: null
 
 ---
 # Nalfeshnee (Boar Demon)

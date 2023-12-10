@@ -10,10 +10,6 @@ creature_ability:
 - Construct Armor
 - Scald
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]]
-  )</b>: DC 26<br/><b><u>Unspecific Lore</u></b>: DC 24<br/><b><u>Specific Lore</u></b>:
-  DC 21'
 dexterity: '+6'
 element: null
 fly_speed: null

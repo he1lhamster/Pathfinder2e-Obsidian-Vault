@@ -11,10 +11,6 @@ creature_ability:
 - Stoke the Fervent
 - Wicked Bite
 creature_family: '[[DATABASE/monsterfamily/Urdefhan|Urdefhan]]'
-description: 'An urdefhan cult''s best tormentors can advance to become truly formidable
-  daemon summoners.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 27<br/><b><u>Unspecific Lore</u></b>: DC 25<br/><b><u>Specific Lore</u></b>:
-  DC 22'
 dexterity: '+2'
 element: null
 fly_speed: null

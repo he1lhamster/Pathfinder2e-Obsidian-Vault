@@ -16,10 +16,6 @@ creature_ability:
 - Troop
 - Movement
 creature_family: '[[DATABASE/monsterfamily/Skeleton|Skeleton]]'
-description: 'This troop of skeletons was once a cohort of highly disciplined spear-and-shield
-  infantry from an ancient empire.<br/><br/><b><u>Recall Knowledge - Undead</u> (
-  [[DATABASE/skill/Religion|Religion]] )</b>: DC 28<br/><b><u>Unspecific Lore</u></b>:
-  DC 26<br/><b><u>Specific Lore</u></b>: DC 23'
 dexterity: '+3'
 element: null
 fly_speed: null

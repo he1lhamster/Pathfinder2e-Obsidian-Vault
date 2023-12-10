@@ -16,10 +16,6 @@ creature_ability:
 - Splinters
 - Vulnerable to Dispelling and Shape Wood
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]]
-  )</b>: DC 41<br/><b><u>Unspecific Lore</u></b>: DC 39<br/><b><u>Specific Lore</u></b>:
-  DC 36'
 dexterity: '-1'
 element: null
 fly_speed: null

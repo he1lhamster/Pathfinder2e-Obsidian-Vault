@@ -13,10 +13,6 @@ creature_ability:
 - Pummeling Assault
 - Tremorsense
 creature_family: '[[DATABASE/monsterfamily/Cobble Mite|Cobble Mite]]'
-description: 'Cobble mites that remain a cohesive swarm for many years become dangerous
-  living landslides.<br/><br/><b><u>Recall Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]]
-  )</b>: DC 41<br/><b><u>Unspecific Lore</u></b>: DC 39<br/><b><u>Specific Lore</u></b>:
-  DC 36'
 dexterity: '+10'
 element: Earth
 fly_speed: null

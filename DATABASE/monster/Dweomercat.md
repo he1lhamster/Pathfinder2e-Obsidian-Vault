@@ -20,15 +20,6 @@ creature_ability:
 - Pounce
 - Transmutation
 creature_family: null
-description: 'Dweomercats are magically gifted felines from the First World, where
-  they prey upon other creatures and feed upon their primal energy. They are sometimes
-  encountered in areas of the Material Plane where the veil to the First World is
-  thin, or in regions where magic has been irreparably warped. Dweomercats are famous
-  for their ability to twist the metaphorical strings of spells cast on or near them,
-  which they can transform into their own defensive magic or tap into to instantly
-  teleport across the battlefield.<br/><br/><b><u>Recall Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Nature|Nature]] )</b>: DC 25<br/><b><u>Unspecific Lore</u></b>:
-  DC 23<br/><b><u>Specific Lore</u></b>: DC 20'
 dexterity: '+4'
 element: null
 fly_speed: null

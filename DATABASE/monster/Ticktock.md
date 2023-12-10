@@ -13,9 +13,6 @@ creature_ability:
 - Shadow Scream
 - Tick Tock Tick Tock
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Fiend</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 45<br/><b><u>Unspecific
-  Lore</u></b>: DC 43<br/><b><u>Specific Lore</u></b>: DC 40'
 dexterity: '+8'
 element: null
 fly_speed: null

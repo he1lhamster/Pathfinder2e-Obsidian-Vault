@@ -3,85 +3,92 @@ ac: '46'
 alignment: CE
 all_resistance: null
 burrow_speed: null
-charisma: '+8'
+charisma: '+7'
 climb_speed: null
-constitution: '+8'
+constitution: '+7'
 creature_ability:
-- Attack of Opportunity
-- Breath Weapon
-- Constrict
-- Curse of Death
-- Double Bite
-- Overwhelming
-- Breath
-- Tarn Linnorm Venom
-creature_family: '[[DATABASE/monsterfamily/Linnorm|Linnorm]]'
-description: 'Although more powerful linnorms exist, the multi-headed tarn linnorm
-  can wreak an awe-inspiring amount of devastation.<br/><br/><b><u>Recall Knowledge
-  - Dragon</u> ( [[DATABASE/skill/Arcana|Arcana]] )</b>: DC 42<br/><b><u>Unspecific
-  Lore</u></b>: DC 40<br/><b><u>Specific Lore</u></b>: DC 37'
+- Deny Fate
+- Fated
+- Shadow Corrosion
+- Shadow Snip
+- Shift Fate
+creature_family: null
 dexterity: '+6'
 element: null
-fly_speed: '100'
-fortitude: '+36'
+fly_speed: '35'
+fortitude: '+35'
 hardness: null
 hp: '400'
-id: '286'
+id: '1834'
 immunity:
-- acid
-- curse
-- paralyzed
-- sleep
-intelligence: '-1'
+- '[[DATABASE/condition/Flat-Footed|flat-footed]]'
+- '[[DATABASE/trait/Negative|negative]]'
+intelligence: '+10'
 land_speed: '35'
 language:
-- '[[DATABASE/language/Aklo|Aklo]]'
-- '[[DATABASE/language/Draconic|Draconic]]'
-- '[[DATABASE/language/Sylvan|Sylvan]]'
+- '[[DATABASE/language/Common|Common]]'
+- '[[DATABASE/language/Jotun|Jotun]]'
+- '[[DATABASE/language/Sylvan|Sylvan]] ; [[DATABASE/spell/Tongues|tongues]]'
 level: '20'
-max_speed: '100'
-name: Tarn Linnorm
-perception: '+35'
-rarity: Uncommon
-reflex: '+32'
-resistance: null
+max_speed: '35'
+name: Tatterthread
+perception: '+39'
+rarity: Unique
+reflex: '+30'
+resistance:
+- '[[DATABASE/trait/Acid|acid]] 20'
 rus_type_level: null
 school: null
 sense:
-- darkvision
-- scent (imprecise) 60 feet
-- '[[DATABASE/spell/True Seeing|trueseeing]]'
-size: Gargantuan
+- '[[DATABASE/spell/Detect Magic|detect magic]]'
+- '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
+- '[[DATABASE/monsterability/Lifesense|lifesense]] 120 feet'
+- '[[DATABASE/spell/True Seeing|true seeing]]'
+size: Large
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +32'
-- '[[DATABASE/skill/Athletics|Athletics]] +38'
-- '[[DATABASE/skill/Stealth|Stealth]] +34'
-source: '[[DATABASE/source/Bestiary|Bestiary]]'
+- '[[DATABASE/skill/Deception|Deception]] +35'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +37'
+- '[[DATABASE/skill/Lore|Lore (all)]] +32'
+- '[[DATABASE/skill/Occultism|Occultism]] +38'
+- '[[DATABASE/skill/Religion|Religion]] +32'
+- '[[DATABASE/skill/Stealth|Stealth]] +36'
+- '[[DATABASE/skill/Thievery|Thievery]] +34'
+source: '[[DATABASE/source/Pathfinder 174. Shadows of the Ancients|Pathfinder #174:
+  Shadows of the Ancients]]'
 speed:
 - 35 feet
-- fly 100 feet
-- swim 80 feet; [[DATABASE/spell/Freedom of Movement|freedom ofmovement]]
+- fly 35 feet
 spell:
-- '[[DATABASE/spell/Freedom of Movement|Freedom of Movement]]'
+- '[[DATABASE/spell/Detect Magic|Detect Magic]]'
+- '[[DATABASE/spell/Dispel Magic|DispelMagic]]'
+- '[[DATABASE/spell/Maze|Maze]]'
+- '[[DATABASE/spell/Mind Blank|Mind Blank]]'
+- '[[DATABASE/spell/Power Word Kill|Power Word Kill]]'
+- '[[DATABASE/spell/Read Omens|Read Omens]]'
+- '[[DATABASE/spell/Shadow Blast|Shadow Blast]]'
+- '[[DATABASE/spell/Shadow Siphon|Shadow Siphon]]'
+- '[[DATABASE/spell/Spellwrack|Spellwrack]]'
+- '[[DATABASE/spell/Time Stop|TimeStop]]'
+- '[[DATABASE/spell/Tongues|Tongues]]'
 - '[[DATABASE/spell/True Seeing|True Seeing]]'
-strength: '+10'
-strength_req: '10'
+- '[[DATABASE/spell/Weird|Weird]]'
+- '[[DATABASE/spell/Wind Walk|Wind Walk]]'
+strength: '+7'
+strength_req: '7'
 strongest_save:
-- Fortitude
-swim_speed: '80'
-trait:
-- '[[DATABASE/trait/Acid|Acid]]'
-- '[[DATABASE/trait/Amphibious|Amphibious]]'
-- '[[DATABASE/trait/Dragon|Dragon]]'
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
-type: Creature
-vision: Darkvision
-weakest_save:
 - Will
+swim_speed: null
+trait:
+- '[[DATABASE/trait/Fey|Fey]]'
+- '[[DATABASE/trait/Unique|Unique]]'
+type: Creature
+vision: Greater darkvision
+weakest_save:
+- Reflex
 weakness:
-- cold iron 15
-will: '+31'
-wisdom: '+7'
+- cold iron 20
+will: '+36'
+wisdom: '+6'
 
 ---
 # Tatterthread, Evil Reflection of a Compassionate Norn

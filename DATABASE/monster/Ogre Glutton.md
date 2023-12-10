@@ -11,18 +11,6 @@ creature_ability:
 - Glutton's Rush
 - Swallow Whole
 creature_family: '[[DATABASE/monsterfamily/Ogre|Ogre]]'
-description: "Ogre gluttons take the act of feeding to a horrific extreme, capable\
-  \ of extending their already cavernous mouths wide enough to gulp down a halfling.\
-  \ Stories of ogre gluttons being tricked into eating razor-edged shields or barrels\
-  \ filled with poisoned meat are common, but such tales are of little consolation\
-  \ to those who have been gobbled down whole by these ravenous giants. In addition\
-  \ to their sadistic table manners, ogre gluttons have a disturbing knack for coming\
-  \ up with violent \u201Cgames\u201D that are little more than drawn-out torments,\
-  \ yet those who somehow manage to beat a glutton at the rules of its own game can\
-  \ often enrage and frustrate the ogre enough that the resulting tantrum is more\
-  \ than enough distraction to afford a last-ditch escape from doom.<br/><br/><b><u>Recall\
-  \ Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 19<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 17<br/><b><u>Specific Lore</u></b>: DC 14"
 dexterity: '-1'
 element: null
 fly_speed: null

@@ -12,9 +12,6 @@ creature_ability:
 - Distracting Frolic
 - Sneak Attack
 creature_family: '[[DATABASE/monsterfamily/Caligni|Caligni]]'
-description: 'Caligni dancers serve as intermediaries between caligni clans.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 15<br/><b><u>Unspecific
-  Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>: DC 10'
 dexterity: '+4'
 element: null
 fly_speed: null

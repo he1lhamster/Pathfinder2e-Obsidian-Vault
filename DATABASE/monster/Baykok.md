@@ -13,15 +13,6 @@ creature_ability:
 - Frightful Presence
 - Wasting Curse
 creature_family: null
-description: 'A baykok is the restless remnant of a warrior or hunter, cast out for
-  evil acts and cursed to forever soar through the sky far from its home, unable to
-  ever set foot on the ground again. The creature''s despairing, lonely cries at night
-  are audible for miles across the wilderness it haunts. Jealous rage drives it to
-  hunt isolated humanoids, especially warriors and hunters who remind it of the life
-  it once had and squandered. A baykok''s invisible arrows carry its soul-freezing
-  loneliness, and its envious touch can steal a helpless victim''s vitality.<br/><br/><b><u>Recall
-  Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 26<br/><b><u>Unspecific
-  Lore</u></b>: DC 24<br/><b><u>Specific Lore</u></b>: DC 21'
 dexterity: '+4'
 element: null
 fly_speed: '40'

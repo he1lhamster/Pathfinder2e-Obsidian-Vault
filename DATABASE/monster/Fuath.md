@@ -10,18 +10,6 @@ creature_ability:
 - Viscous Choke
 - Vulnerable to Sunlight
 creature_family: '[[DATABASE/monsterfamily/Gremlin|Gremlin]]'
-description: 'Despite their small size, fuaths are shipwreckers incarnate. In the
-  dark of night, these gremlins sever ratlines, slash sails, smash sextants, and soil
-  provisions. Once the ship founders, the fuaths return to indulge their craving for
-  land-raised flesh. While fuaths prefer to take their prey asleep, they save a terrible
-  doom for sailors who attack them, surrounding the mariners'' faces in magically
-  congealed water to drown them where they stand.<br/><br/> Constantly dripping with
-  water, fuaths have seahorse-like faces, seaweed-green fur over yellow skin, and
-  wicked lobster claws for hands. Lacking the Undercommon tongue, they have trouble
-  relating to other gremlins aside from [[DATABASE/monster/Haniver|hanivers]] , but
-  revere [[DATABASE/monster/Sea Hag|sea hags]] and evil aquatic fey.<br/><br/><b><u>Recall
-  Knowledge - Fey</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 15<br/><b><u>Unspecific
-  Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>: DC 10'
 dexterity: '+4'
 element: null
 fly_speed: null

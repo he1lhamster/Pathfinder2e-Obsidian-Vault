@@ -21,14 +21,6 @@ creature_ability:
 - Golem Antimagic
 - Vulnerable to Shatter
 creature_family: '[[DATABASE/monsterfamily/Golem|Golem]]'
-description: 'This golem is a walking alchemical nightmare capable of inflicting all
-  manner of painful wounds. Its ability to follow orders is granted by the otherwise
-  mindless humanoid brain that floats in its dome-like head. In exceptionally rare
-  cases, the brain used in its creation might retain fragments of memories or even
-  actual intellect, resulting in an alchemical golem with a personality and agenda
-  of its own.<br/><br/><b><u>Recall Knowledge - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Crafting|Crafting]] )</b>: DC 28<br/><b><u>Unspecific Lore</u></b>:
-  DC 26<br/><b><u>Specific Lore</u></b>: DC 23'
 dexterity: '+4'
 element: null
 fly_speed: null

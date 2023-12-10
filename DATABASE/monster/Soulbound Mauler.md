@@ -11,22 +11,6 @@ creature_ability:
 - Personality Cage
 - Tethered Soul
 creature_family: null
-description: 'If a soulbound doll isn''t large and strong enough for one''s needs,
-  there''s the oversized soulbound mauler. An upgrade to the soulbound doll, this
-  mannequin is powered by the entire soul of a sapient creature. Many a necromancer
-  has attempted to use these constructs as a method to live forever, likely as a shortcut
-  around the complicated and ultimately morbid path to lichdom. However, the soul
-  within the mannequin has problems properly expressing itself and displays rudimentary
-  control over the host, often resulting in childlike behavior anywhere from curious
-  to sadistic.<br/> Rather than embedding the soul focus gem in the construct''s neck
-  or chest, it''s tethered by bands of ectoplasm within an exposed chamber on the
-  mannequin''s chest. Until the soulbound mauler is destroyed, the focus gem cannot
-  be removed from the empty cavity in its chest. However, the gem can be displaced
-  which causes the soulbound mauler significant anguish, not only damaging the connection
-  between the gem and artificial body, but also impairing the construct''s ability
-  to function.<br/><br/><b><u>Recall Knowledge - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Crafting|Crafting]] )</b>: DC 21<br/><b><u>Unspecific Lore</u></b>:
-  DC 19<br/><b><u>Specific Lore</u></b>: DC 16'
 dexterity: '+3'
 element: null
 fly_speed: null

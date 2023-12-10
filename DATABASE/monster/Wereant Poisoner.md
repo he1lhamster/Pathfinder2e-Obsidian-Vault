@@ -18,12 +18,6 @@ creature_ability:
 - Poisonous Flurry
 - Vitriolic Strikes
 creature_family: '[[DATABASE/monsterfamily/Werecreature, Wereant|Werecreature, Wereant]]'
-description: 'When overwhelming force is inadvisable, a wereant hive sends a poison-dripping
-  assassin for murderous work. These poisoners love to terrify those dying in agony
-  from their toxins.<br/><br/><b><u>Recall Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Nature|Nature]] )</b>: DC 41<br/><b><u>Recall Knowledge - Humanoid</u>
-  ( [[DATABASE/skill/Society|Society]] )</b>: DC 41<br/><b><u>Unspecific Lore</u></b>:
-  DC 39<br/><b><u>Specific Lore</u></b>: DC 36'
 dexterity: '+9'
 element: null
 fly_speed: null

@@ -21,12 +21,6 @@ creature_ability:
 - Wild
 - Reincarnation
 creature_family: '[[DATABASE/monsterfamily/Wild Hunt|Wild Hunt]]'
-description: 'Each wild hunt follows a wild hunt monarch, who travels between the
-  realm of the fey and the [[DATABASE/plane/Material Plane|Material Plane]] in search
-  of new quarry. These limber and regal humanoids have elk antlers, long pointed ears,
-  flowing white hair, and luminescent green eyes.<br/><br/><b><u>Recall Knowledge
-  - Fey</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 45<br/><b><u>Unspecific Lore</u></b>:
-  DC 43<br/><b><u>Specific Lore</u></b>: DC 40'
 dexterity: '+6'
 element: null
 fly_speed: null

@@ -12,20 +12,6 @@ creature_ability:
 - Glare of Rage
 - Guardian Sense
 creature_family: null
-description: "Not all would-be dragonslayers who die a valiant death rest peacefully\
-  \ amid the annals of legend. Sometimes, a draconic necromancer is so impressed by\
-  \ its fallen foe that the dragon ritually raises the dead warrior to serve the dragon\
-  \ in undeath. These undead guardians are infused with a fraction of the power of\
-  \ the dragon who slew them, channeling the same energy as their draconic masters\u2019\
-  \ breath.<br/><br/> Dragonscarred dead are similar to skeletal champions or graveknights\
-  \ in that they are not merely reanimated servants who mindlessly follow orders,\
-  \ but are instead powerful wardens who maintain the same agency they bore in life.\
-  \ While a dragonscarred dead is often magically compelled to follow its reanimator\u2019\
-  s commands, some of these undead dragonslayers manage to escape their masters and\
-  \ pursue their own vile agendas\u2014which may involve rallying allies to challenge\
-  \ their draconic creator once more and finish the dire mission they started in life.<br/><br/><b><u>Recall\
-  \ Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 33<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 31<br/><b><u>Specific Lore</u></b>: DC 28"
 dexterity: '+5'
 element: Fire
 fly_speed: null

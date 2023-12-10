@@ -1,64 +1,64 @@
 ﻿---
-ac: '22'
-alignment: NG
+ac: '20'
+alignment: LE
 all_resistance: null
 burrow_speed: null
-charisma: '+1'
+charisma: '+4'
 climb_speed: null
-constitution: '+2'
+constitution: '+0'
 creature_ability:
-- Warded Ground
+- Scoundrel's Feint
+- Sneak Attack
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 24<br/><b><u>Unspecific
-  Lore</u></b>: DC 22<br/><b><u>Specific Lore</u></b>: DC 19'
-dexterity: '+2'
+dexterity: '+4'
 element: null
 fly_speed: null
-fortitude: '+14'
-hp: '120'
-id: '2090'
+fortitude: '+9'
+hp: '70'
+id: '1966'
 immunity: null
-intelligence: '+0'
+intelligence: '+2'
 land_speed: '25'
 language:
-- '[[DATABASE/language/Drooni|Drooni]]'
-level: '6'
+- '[[DATABASE/language/Common|Common]]'
+level: '5'
 max_speed: '25'
-name: Zuntishan Guard
-perception: '+15'
-rarity: Uncommon
-reflex: '+12'
+name: "\u201CLucky\u201D Lanks"
+perception: '+11'
+rarity: Unique
+reflex: '+15'
 resistance: null
 rus_type_level: null
 sense: null
-size: Medium
+size: Small
 skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +14'
-- '[[DATABASE/skill/Diplomacy|Diplomacy]] +11'
-- '[[DATABASE/skill/Religion|Religion]] +13'
-- '[[DATABASE/skill/Survival|Survival]] +13'
-source: '[[DATABASE/source/Pathfinder 183. Field of Maidens|Pathfinder #183: Field
-  of Maidens]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +13'
+- '[[DATABASE/skill/Deception|Deception]] +13'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +13'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +13'
+- '[[DATABASE/skill/Stealth|Stealth]] +13'
+- '[[DATABASE/skill/Thievery|Thievery]] +13'
+source: '[[DATABASE/source/Pathfinder 179. Cradle of Quartz|Pathfinder #179: Cradle
+  of Quartz]]'
 speed:
 - 25 feet
 spell: null
-strength: '+4'
-strength_req: '4'
+strength: '+2'
+strength_req: '2'
 strongest_save:
-- Will
+- Reflex
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Human|Human]]'
+- '[[DATABASE/trait/Halfling|Halfling]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
+- '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
 vision: null
 weakest_save:
-- Reflex
+- Fortitude
 weakness: null
-will: '+15'
-wisdom: '+3'
+will: '+12'
+wisdom: '+0'
 
 ---
 # "Lucky" Lanks

@@ -14,15 +14,6 @@ creature_ability:
 - Shadow Evade
 - Speed Surge
 creature_family: '[[DATABASE/monsterfamily/Drake|Drake]]'
-description: "Shadow drakes are typically among the smallest and least powerful of\
-  \ their species. Most stand as tall and long as house cats and have charcoal-colored\
-  \ scales and membranous wings just translucent enough to pass for shadows. Attracted\
-  \ to shiny materials, they employ deception, teamwork, and even rudimentary traps\
-  \ to create opportunities to make off with ill-gotten gains. Shadow drakes have\
-  \ a particular fascination and admiration for umbral dragons\u2014a notable exception\
-  \ to the norm for drakes and dragons.<br/><br/><b><u>Recall Knowledge - Dragon</u>\
-  \ ( [[DATABASE/skill/Arcana|Arcana]] )</b>: DC 16<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 14<br/><b><u>Specific Lore</u></b>: DC 11"
 dexterity: '+4'
 element: null
 fly_speed: '60'

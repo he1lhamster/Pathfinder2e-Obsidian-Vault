@@ -10,14 +10,6 @@ creature_ability:
 - Attack of Opportunity
 - Rend
 creature_family: '[[DATABASE/monsterfamily/Troll|Troll]]'
-description: "Common trolls are dim-witted, gangly giants who stalk the fringes of\
-  \ civilization. They rely on their incredible strength to overpower foes with their\
-  \ vicious claws and toothy maws. A troll\u2019s endless hunger drives it to consume\
-  \ all variety of living creatures, and it is their ravenous eating habits that fuel\
-  \ trolls\u2019 legendary regenerative abilities. Trolls stand anywhere from 12 to\
-  \ 16 feet tall, though they prefer to hunch for comfort and to lull foes into a\
-  \ false sense of security.<br/><br/><b><u>Unspecific Lore</u></b>: DC 18<br/><b><u>Specific\
-  \ Lore</u></b>: DC 15"
 dexterity: '+2'
 element: null
 fly_speed: null

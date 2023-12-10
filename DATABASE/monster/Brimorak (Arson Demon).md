@@ -1,88 +1,79 @@
 ﻿---
-ac: '26'
-alignment: NE
-all_resistance: '10'
+ac: '22'
+alignment: CE
+all_resistance: null
 burrow_speed: null
-charisma: '+3'
+charisma: '+2'
 climb_speed: null
-constitution: '+0'
+constitution: '+4'
 creature_ability:
-- Bright Release
-- Landbound
-- Light Aura
-- Light Flare
-- Shadow Jump
-- Suppress Aura
-creature_family: null
-description: 'Those who encounter [[DATABASE/monsterfamily/Caligni|calignis]] quickly
-  learn that their deaths involve burning out instead of bleeding out. At times, this
-  dramatic immolation is denied to a caligni, so they arise as a bright walker. Tied
-  to caligni society, these creatures don''t understand that their glow damages and
-  repels living calignis. Despite their name, these undead don''t walk; they instead
-  float a few inches above the ground.<br/><br/><b><u>Recall Knowledge - Spirit</u>
-  ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 31<br/><b><u>Recall Knowledge
-  - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 31<br/><b><u>Unspecific
-  Lore</u></b>: DC 29<br/><b><u>Specific Lore</u></b>: DC 26'
-dexterity: '+6'
+- Boiling Blood
+- Breath Weapon
+- Extinguishing Aversion
+- Flaming Weapon
+- Fume
+- Smoke Vision
+creature_family: '[[DATABASE/monsterfamily/Demon|Demon]]'
+dexterity: '+3'
 element: null
-fly_speed: '25'
+fly_speed: null
 fortitude: '+15'
 hardness: null
-hp: 115 ( negative healing )
-id: '1379'
+hp: '80'
+id: '1111'
 immunity:
-- '[[DATABASE/trait/Death|death]] effects'
-- '[[DATABASE/trait/Disease|disease]]'
-- '[[DATABASE/condition/Paralyzed|paralyzed]]'
-- '[[DATABASE/trait/Poison|poison]]'
-- precision
-- '[[DATABASE/condition/Unconscious|unconscious]]'
-intelligence: '+0'
-land_speed: null
+- fire
+intelligence: '+1'
+land_speed: '30'
 language:
-- '[[DATABASE/language/Caligni|Caligni]]'
-level: '9'
-max_speed: '25'
-name: Bright Walker
-perception: '+19'
-rarity: Rare
-reflex: '+21'
-resistance:
-- all damage 10 (except for [[DATABASE/trait/Force|force]]
-- '[[DATABASE/equipment/Ghost Touch|ghost touch]]'
-- or [[DATABASE/trait/Positive|positive]] ; double resistance vs. non- [[DATABASE/trait/Magical|magical]]
-  ).
+- '[[DATABASE/language/Abyssal|Abyssal]]'
+- '[[DATABASE/language/Celestial|Celestial]]'
+- '[[DATABASE/language/Draconic|Draconic]]'
+- '[[DATABASE/language/Ignan|Ignan]] ; [[DATABASE/monsterability/Telepathy|telepathy]]
+  60 feet'
+level: '5'
+max_speed: '30'
+name: Brimorak
+perception: '+12'
+rarity: Common
+reflex: '+12'
+resistance: null
 rus_type_level: null
 school: null
 sense:
-- '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
-size: Medium
+- '[[DATABASE/monsterability/Darkvision|darkvision]]'
+- smoke vision
+size: Small
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +19'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +18'
-- '[[DATABASE/skill/Stealth|Stealth]] +19'
-source: '[[DATABASE/source/Pathfinder 165. Eyes of Empty Death|Pathfinder #165: Eyes
-  of Empty Death]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +12'
+- '[[DATABASE/skill/Deception|Deception]] +11'
+- '[[DATABASE/skill/Religion|Religion]] +10'
+- '[[DATABASE/skill/Stealth|Stealth]] +12'
+source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
-- fly 25 feet; landbound
-spell: null
-strength: '-5'
-strength_req: '-5'
+- 30 feet
+spell:
+- '[[DATABASE/spell/Dimension Door|Dimension Door]]'
+- '[[DATABASE/spell/Dispel Magic|Dispel Magic]]'
+- '[[DATABASE/spell/Fireball|Fireball]]'
+- '[[DATABASE/spell/Produce Flame|Produce Flame]]'
+strength: '+4'
+strength_req: '4'
 strongest_save:
-- Reflex
+- Fortitude
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Incorporeal|Incorporeal]]'
-- '[[DATABASE/trait/Rare|Rare]]'
-- '[[DATABASE/trait/Spirit|Spirit]]'
-- '[[DATABASE/trait/Undead|Undead]]'
+- '[[DATABASE/trait/Demon|Demon]]'
+- '[[DATABASE/trait/Fiend|Fiend]]'
 type: Creature
-vision: Greater darkvision
+vision: Darkvision
 weakest_save:
-- Fortitude
-weakness: null
-will: '+19'
-wisdom: '+4'
+- Will
+weakness:
+- '[[DATABASE/equipment/Cold Iron Weapon|cold iron]] 5'
+- good 5
+will: '+10'
+wisdom: '+1'
 
 ---
 # Brimorak (Arson Demon)

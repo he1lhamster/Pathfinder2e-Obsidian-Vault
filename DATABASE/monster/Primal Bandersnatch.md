@@ -18,11 +18,6 @@ creature_ability:
 - Quick Recovery
 - Relentless Tracker
 creature_family: '[[DATABASE/monsterfamily/Bandersnatch|Bandersnatch]]'
-description: 'Primal bandersnatches are among the most powerful of their kind, due
-  to their ties to the [[DATABASE/plane/First World|First World]] .<br/><br/><b><u>Recall
-  Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 39<br/><b><u>Unspecific Lore</u></b>: DC 37<br/><b><u>Specific Lore</u></b>:
-  DC 34'
 dexterity: '+6'
 element: null
 fly_speed: null

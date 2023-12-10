@@ -1,88 +1,75 @@
 ﻿---
-ac: '19'
-alignment: NG
+ac: '31'
+alignment: null
 all_resistance: null
 burrow_speed: null
-charisma: '+3'
+charisma: '+4'
 climb_speed: null
-constitution: '+2'
+constitution: '+6'
 creature_ability:
-- Assisted Mount
-- Buck
-- Gallop
+- Entrancing Shapes
+- Form Up
+- Metalsense
+- Scrambled Strike
+- Shard Volley
+- Troop Defenses
+- Troop
+- Movement
 creature_family: null
-description: 'The pegasus is a winged horse prized for its capacity to serve as an
-  aerial mount. Unfortunately for those who desire a saddle-trained pegasus, pegasi
-  are wild creatures and do not readily accept even well-intentioned riders. Pegasi
-  actively resist being mounted or controlled by evil creatures, attempting to buck
-  an unwanted rider at every opportunity. A typical pegasus stands 6 feet high at
-  the shoulder, weighs 1,500 pounds, and has a wingspan of 20 feet.<br/><br/> Pegasi
-  are highly intelligent beasts and have a strong sense of pride and honor. The best
-  way to entreat a pegasus is by speaking to it with grace and offering gifts appropriate
-  to a creature of such majesty. Prospective riders who seek the mount for a worthy
-  cause or virtuous quest have a much easier time coaxing a pegasus into granting
-  its favor. Regardless, a pegasus never accepts a bit or saddle, for reasons both
-  practical (a standard horse saddle interferes with its wings) and purely egotistical.<br/><br/>
-  In the wild, pegasi live in small herds and establish territories on remote mountains
-  where they are relatively safe from hunters and slavers. They mature at the same
-  rate as horses and can even breed with other equines, though the outcome of such
-  unions is typically a foal with the traits of its least magical parent. On rare
-  occasions, the interbreeding of a pegasus and a unicorn may result in a winged unicorn
-  with characteristics of both parents and an unrivaled sense of righteousness.<br/><br/>
-  Some pegasi carry in them the blood of a mighty and heroic ancestor. These champions
-  of pegasus-kind dedicate their long lives to the pursuit of justice. They possess
-  powerful supernatural abilities to aid them in this fight, such as resistance to
-  fire and poison, immunity to petrification, and holy hoof attacks.<br/><br/><b><u>Recall
-  Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 18<br/><b><u>Unspecific Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>:
-  DC 13'
-dexterity: '+4'
-element: null
-fly_speed: '80'
-fortitude: '+9'
+dexterity: '+7'
+element: Metal
+fly_speed: '25'
+fortitude: '+21'
 hardness: null
-hp: '55'
-id: '329'
+hp: 210 (16 squares)
+id: '2657'
 immunity: null
-intelligence: '+0'
-land_speed: '40'
+intelligence: '+5'
+land_speed: null
 language:
-- "[[DATABASE/language/Common|Common]] ; (can\u2019t speak any language)"
-level: '3'
-max_speed: '80'
-name: Pegasus
-perception: '+12'
-rarity: Common
-reflex: '+11'
-resistance: null
+- '[[DATABASE/language/Talican|Talican]] ; [[DATABASE/monsterability/Telepathy|telepathy]]
+  30 feet'
+level: '11'
+max_speed: '25'
+name: Pelegox Cube
+perception: '+22'
+rarity: Uncommon
+reflex: '+24'
+resistance:
+- '[[DATABASE/trait/Electricity|electricity]] 10'
 rus_type_level: null
 school: null
 sense:
-- darkvision
-- scent (imprecise) 30 feet
-size: Large
+- metalsense (imprecise) 60 feet
+size: Gargantuan
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +11'
-- '[[DATABASE/skill/Athletics|Athletics]] +10'
-source: '[[DATABASE/source/Bestiary|Bestiary]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +22'
+- '[[DATABASE/skill/Athletics|Athletics]] +21'
+- '[[DATABASE/skill/Crafting|Crafting]] +20'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +21'
+source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 speed:
-- 40 feet
-- fly 80 feet
+- fly 25 feet; troop movement
 spell: null
-strength: '+3'
-strength_req: '3'
+strength: '+4'
+strength_req: '4'
 strongest_save:
 - Reflex
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Beast|Beast]]'
+- '[[DATABASE/trait/Elemental|Elemental]]'
+- '[[DATABASE/trait/Metal|Metal]]'
+- '[[DATABASE/trait/Troop|Troop]]'
+- '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: Darkvision
+vision: null
 weakest_save:
 - Will
-weakness: null
-will: '+7'
-wisdom: '+2'
+weakness:
+- area damage 15
+- '[[DATABASE/trait/Splash|splash]] damage 10'
+will: '+18'
+wisdom: '+3'
 
 ---
 # Pelegox

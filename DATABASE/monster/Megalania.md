@@ -10,11 +10,6 @@ creature_ability:
 - Megalania Venom
 - Swallow Whole
 creature_family: '[[DATABASE/monsterfamily/Lizard|Lizard]]'
-description: 'Megalanias, like their smaller cousins the giant monitor lizards, strike
-  fast and use their powerful bite to grip their prey. They prefer to swallow their
-  prey whole rather than risk others getting a bite of a hard-won meal.<br/><br/><b><u>Recall
-  Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 23<br/><b><u>Unspecific
-  Lore</u></b>: DC 21<br/><b><u>Specific Lore</u></b>: DC 18'
 dexterity: '+2'
 element: null
 fly_speed: null

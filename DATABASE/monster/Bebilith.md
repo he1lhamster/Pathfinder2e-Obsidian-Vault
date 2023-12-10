@@ -13,20 +13,6 @@ creature_ability:
 - Penetrating Strike
 - Scent Demons
 creature_family: null
-description: "While [[DATABASE/monsterfamily/Demon|demons]] control much of the [[DATABASE/plane/Abyss|Abyss]]\
-  \ , even they are hunted in the wilder regions of this horrific plane. The most\
-  \ notorious of these predators\u2014though not the deadliest\u2014is the bebilith.\
-  \ These fiends resemble elephant-sized spiders with glowing eyes, barbed chitin,\
-  \ and a fanged maw dripping caustic fluid.<br/><br/>Many demons and planar travelers\
-  \ have underestimated bebiliths' devious intellects, believing them to be little\
-  \ more than oversized vermin. Bebiliths take advantage of this, ambushing foes with\
-  \ unexpected tactics. While they lash out at any creatures they encounter, they\
-  \ take great pleasure in chewing on demonic flesh. [[DATABASE/monsterfamily/Qlippoth|Qlippoth]]\
-  \ are the only creatures bebiliths never consume.<br/><br/><b><u>Recall Knowledge\
-  \ - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 27<br/><b><u>Recall Knowledge - Fiend</u> ( [[DATABASE/skill/Religion|Religion]]\
-  \ )</b>: DC 27<br/><b><u>Unspecific Lore</u></b>: DC 25<br/><b><u>Specific Lore</u></b>:\
-  \ DC 22"
 dexterity: '+3'
 element: null
 fly_speed: null

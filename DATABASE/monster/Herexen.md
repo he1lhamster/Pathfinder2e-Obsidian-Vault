@@ -10,20 +10,6 @@ creature_ability:
 - Final Blasphemy
 - Heretic's Smite
 creature_family: '[[DATABASE/monsterfamily/Herexen|Herexen]]'
-description: 'When a cleric rebels against their deity and dies in the grip of blasphemous
-  rage, the heresies they committed in life may fuel their transformation into an
-  undead herexen. Herexens seek vengeance against the deity they once worshipped,
-  defiling temples, slaying the faithful, and rallying lesser undead and death cultists
-  to aid them in their unholy quests. Though a herexen''s divine gifts have mostly
-  been corrupted into the vileness of undeath, they stubbornly cling to remnants of
-  their former power, still wielding magic and armaments favored by the deity they
-  so greatly despise.<br/><br/> Groups of herexens that blasphemed against the same
-  deity sometimes combine to form a mockery of a congregation, conducting blasphemous
-  rites with something approaching euphoria. These congregations are more often formed
-  from a blasphemous cult who practiced their heresy together in life and died together,
-  though some gather independent herexens of the same former faith.<br/><br/><b><u>Recall
-  Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 18<br/><b><u>Unspecific
-  Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>: DC 13'
 dexterity: '+2'
 element: null
 fly_speed: null

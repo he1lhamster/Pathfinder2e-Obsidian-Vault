@@ -1,87 +1,64 @@
 ﻿---
-ac: '42'
-alignment: NE
+ac: '16'
+alignment: LE
 all_resistance: null
 burrow_speed: null
-charisma: '+7'
+charisma: '-2'
 climb_speed: null
-constitution: '+6'
-creature_ability:
-- Bonetaker
-- Energy Drain
-- Shard Storm
-- Skeletal Lore
-- Splintered Ground
-creature_family: null
-description: 'Swirling down from misty peaks and through howling mountain passes like
-  an evil wind, the vortex of bones known as a skulltaker is a terrible manifestation
-  of the delirium and agony experienced by doomed climbers and lost trailblazers just
-  before they met their end. In some places, a skulltaker is also known as a saxra.<br/><br/><b><u>Recall
-  Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 40<br/><b><u>Unspecific
-  Lore</u></b>: DC 38<br/><b><u>Specific Lore</u></b>: DC 35'
-dexterity: '+6'
+constitution: '+3'
+creature_ability: null
+creature_family: '[[DATABASE/monsterfamily/Alghollthu|Alghollthu]]'
+dexterity: '+1'
 element: null
-fly_speed: '60'
-fortitude: '+31'
+fly_speed: null
+fortitude: '+7'
 hardness: null
-hp: '300'
-id: '377'
-immunity:
-- cold
-- death effects
-- disease
-- paralyzed
-- poison
-- unconscious
-intelligence: '+2'
-land_speed: '30'
+hp: '40'
+id: '3'
+immunity: null
+intelligence: '+0'
+land_speed: '20'
 language:
-- '[[DATABASE/language/Necril|Necril]] ; Skeletal Lore languages'
-level: '18'
-max_speed: '60'
-name: Skulltaker
-perception: '+33'
-rarity: Uncommon
-reflex: '+33'
+- '[[DATABASE/language/Alghollthu|Alghollthu]]'
+- '[[DATABASE/language/Undercommon|Undercommon]]'
+level: '2'
+max_speed: '40'
+name: Skum
+perception: '+6'
+rarity: Common
+reflex: '+7'
 resistance:
-- piercing 15
-- slashing 15
+- '[[DATABASE/trait/Cold|cold]] 5'
 rus_type_level: null
 school: null
 sense:
 - darkvision
-- '[[DATABASE/spell/True Seeing|true seeing]]'
-size: Huge
+size: Medium
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +34'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +35'
-- '[[DATABASE/skill/Religion|Religion]] +30'
-- '[[DATABASE/skill/Lore|Skeletal Lore]] +30'
-- '[[DATABASE/skill/Stealth|Stealth]] +32'
+- '[[DATABASE/skill/Athletics|Athletics]] +8'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +4'
+- '[[DATABASE/skill/Stealth|Stealth]] +7'
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
-- 30 feet
-- fly 60 feet
-spell:
-- '[[DATABASE/spell/Finger of Death|Finger of Death]]'
-- '[[DATABASE/spell/Horrid Wilting|Horrid Wilting]]'
-- '[[DATABASE/spell/Punishing Winds|Punishing Winds]]'
-- '[[DATABASE/spell/True Seeing|True Seeing]]'
-strength: '+8'
-strength_req: '8'
+- 20 feet
+- swim 40 feet
+spell: null
+strength: '+4'
+strength_req: '4'
 strongest_save:
-- Will
-swim_speed: null
+- Fortitude
+- Reflex
+swim_speed: '40'
 trait:
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
-- '[[DATABASE/trait/Undead|Undead]]'
+- '[[DATABASE/trait/Amphibious|Amphibious]]'
+- '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
 vision: Darkvision
 weakest_save:
-- Fortitude
+- Will
 weakness: null
-will: '+35'
-wisdom: '+8'
+will: '+4'
+wisdom: '+0'
 
 ---
 # Skum (Ulat-Kini)

@@ -9,17 +9,6 @@ constitution: '+1'
 creature_ability:
 - Pack Attack
 creature_family: '[[DATABASE/monsterfamily/Wolf|Wolf]]'
-description: "Wolves live and hunt in packs, which, contrary to popular belief, are\
-  \ not led by the strongest in the group, but typically consist of a mated pair,\
-  \ their pups, and juvenile offspring from previous mating seasons. Offspring generally\
-  \ leave their parents\u2019 pack upon reaching maturity, at which point they seek\
-  \ out mates of their own to go form their own packs elsewhere.<br/><br/> Humanoids\
-  \ are not traditionally viewed as prey animals by wolves, but extraordinary circumstances\
-  \ can lead these animals to attack people, especially in winter months and other\
-  \ situations where traditional prey (deer and elk, mainly) is scarce. Some beings,\
-  \ such as powerful vampires, can call upon wolves to aid them in combat.<br/><br/><b><u>Recall\
-  \ Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 15<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>: DC 10"
 dexterity: '+4'
 element: null
 fly_speed: null

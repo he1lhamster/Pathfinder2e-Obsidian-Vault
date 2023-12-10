@@ -13,20 +13,6 @@ creature_ability:
 - Voice of the Storm
 - Wind Mastery
 creature_family: '[[DATABASE/monsterfamily/Hag|Hag]]'
-description: 'Storm hags are the personification of a storm''s rage. These crones
-  hate those who huddle together with loved ones in warm, dry shelters while the wind
-  howls and rain lashes the land and sea. Storm hags use their powers to wreak havoc
-  on communities near the coastal caves or hovels where they often live.<br/><br/>
-  These hags send their voices on the wind to terrorize mortals before descending
-  upon them with claws and fell magic. More than any others of their kind, they prey
-  on the young, devouring children as much for the pain it causes their parents and
-  caretakers as for the hags'' love of young flesh.<br/><br/> A storm hag''s territory
-  sometimes overlaps with that of [[DATABASE/monster/Sea Hag|sea hags]] and [[DATABASE/monster/Winter
-  Hag|winter hags]] . While this may result in the formation of a coven that controls
-  their combined territories, more often it leads to rivalries. Such feuds only increase
-  the misery of innocent people caught between the rival hags'' feuding.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 20<br/><b><u>Unspecific
-  Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>: DC 15'
 dexterity: '+2'
 element: Air
 fly_speed: '40'

@@ -17,15 +17,6 @@ creature_ability:
 - Two Heads
 - Two-Headed Strike
 creature_family: null
-description: "Few sea monsters are as dreaded and feared as the two-headed baomal.\
-  \ These massive predatory beasts typically dwell in the deepest waters and compete\
-  \ with krakens and other monsters for food. They feed on whales and other large\
-  \ sea creatures, sometimes following them to the water\u2019s surface. Near the\
-  \ surface, baomals that encounter ships quickly learn that they contain a variety\
-  \ of tasty morsels. The creatures use their devastating spikes to rip open the ships\u2019\
-  \ hulls, then leisurely feed on the helpless sailors.<br/><br/><b><u>Recall Knowledge\
-  \ - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 40<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 38<br/><b><u>Specific Lore</u></b>: DC 35"
 dexterity: '+2'
 element: null
 fly_speed: null

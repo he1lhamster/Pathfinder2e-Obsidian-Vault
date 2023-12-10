@@ -9,11 +9,6 @@ constitution: '+2'
 creature_ability:
 - Hidden Movement
 creature_family: '[[DATABASE/monsterfamily/Deep Gnome|Deep Gnome]]'
-description: 'Deep gnome scouts patrol the tunnels that lead into their settlements.
-  Some scout alone to make the most of their stealth, but others form groups for the
-  sake of safety.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 15<br/><b><u>Unspecific Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>:
-  DC 10'
 dexterity: '+4'
 element: null
 fly_speed: null

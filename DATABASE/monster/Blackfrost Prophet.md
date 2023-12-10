@@ -10,15 +10,6 @@ creature_ability:
 - Imprison Mind
 - Raise Blackfrost
 creature_family: '[[DATABASE/monsterfamily/Blackfrost Dead|Blackfrost Dead]]'
-description: 'With their hulking physiques and the potent connection to the Crown
-  of the World, saumen kar who succumb to blackfrost become especially dangerous blackfrost
-  dead. Those who guarded the Temple of Aqakaru in life continue to do so in undeath,
-  albeit even more vigilantly and much more violently. Blackfrost prophets, as these
-  wardens are sometimes known, maintain their formidable intellect and innate connection
-  to their boreal environment, though the curse of blackfrost has stripped them of
-  their memories and filled their hearts with evil.<br/><br/><b><u>Recall Knowledge
-  - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 31<br/><b><u>Unspecific
-  Lore</u></b>: DC 29<br/><b><u>Specific Lore</u></b>: DC 26'
 dexterity: '+4'
 element: null
 fly_speed: null

@@ -15,10 +15,6 @@ creature_ability:
 - Plague of
 - Ancients
 creature_family: '[[DATABASE/monsterfamily/Vampire, Nosferatu|Vampire, Nosferatu]]'
-description: 'Twisted by age and eternal hunger, nosferatu malefactors spread plague
-  in their wake and yearn for mortal blood.<br/><br/><b><u>Recall Knowledge - Undead</u>
-  ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 29<br/><b><u>Unspecific Lore</u></b>:
-  DC 27<br/><b><u>Specific Lore</u></b>: DC 24'
 dexterity: '+7'
 element: null
 fly_speed: null

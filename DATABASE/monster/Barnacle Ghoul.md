@@ -13,20 +13,6 @@ creature_ability:
 - Paralysis
 - Tear Flesh
 creature_family: '[[DATABASE/monsterfamily/Ghoul|Ghoul]]'
-description: 'Far more powerful and dangerous than most ghouls, barnacle ghouls are
-  the risen corpses of veteran sailors who fell overboard or of bloodthirsty pirates
-  who died from keelhauling. Too rugged and hate-filled to stay dead, these seafarers
-  return with bluish, water-bloated bodies.<br/><br/> Barnacle ghouls have a supernatural
-  command over barnacles; a simple touch from a ghoul causes the crustaceans to adhere,
-  grow, or release. The ghouls cultivate clusters of barnacles on their hands and
-  feet, using the lumpy shells to more easily climb and grab at prey.<br/><br/> Barnacle
-  ghouls keep their lungs filled with brackish seawater, which they exhale onto their
-  victims. Breathing in even a few drops of this tainted seawater can be deadly, as
-  it magically expands in a victim''s lungs. A creature that can''t expel the seawater
-  eventually drowns and rises as a new barnacle ghoul. Barnacle ghouls have many abilities
-  of standard ghouls.<br/><br/><b><u>Recall Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 28<br/><b><u>Unspecific Lore</u></b>: DC 26<br/><b><u>Specific Lore</u></b>:
-  DC 23'
 dexterity: '+6'
 element: null
 fly_speed: null

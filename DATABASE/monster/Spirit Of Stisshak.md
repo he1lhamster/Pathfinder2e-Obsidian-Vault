@@ -13,9 +13,6 @@ creature_ability:
 - Invoke Stisshak
 - Magic Immunity
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 33<br/><b><u>Unspecific
-  Lore</u></b>: DC 31<br/><b><u>Specific Lore</u></b>: DC 28'
 dexterity: '+6'
 element: Air
 fly_speed: '50'

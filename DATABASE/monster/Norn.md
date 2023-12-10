@@ -14,32 +14,6 @@ creature_ability:
 - Snip Thread
 - Triumvirate
 creature_family: null
-description: "Ancient beyond imagining, norns are powerful fey women who hold in their\
-  \ hands the physical manifestation of fate and destiny in the form of golden thread.\
-  \ They watch over all life, intervening with reluctance when called upon\u2014or\
-  \ with a vengeance when the strands of fate are twisted and abused by lesser beings.<br/><br/>\
-  \ Norns' relationship with the Eldest of the First World is complex. Many among\
-  \ norns serve [[DATABASE/deity/Magdh|Magdh]] the Three, the triune Eldest who some\
-  \ norns believe to be the first norn triumvirate bound together into one entity,\
-  \ as Magdh has three bodies: a Maiden, a Mother, and a Matriarch. Magdh claims to\
-  \ be watching the threads of fate for some ominous prophesied cataclysm, and in\
-  \ addition to assisting in her divinations, Magdh expects the norns who serve her\
-  \ to follow her cryptic commands to help nudge the future away from the brink. However,\
-  \ norns are powerful beings in their own right, themselves capable of granting divine\
-  \ power, and many balk at serving the enigmatic demigod. These norns find the other\
-  \ Eldest even more alien and challenging to interact with, for they believe that\
-  \ while the Eldest wield great power, even these powerful beings should not be granted\
-  \ leave to meddle with fate as much as they desire.<br/><br/> While even the weakest\
-  \ of the Eldest could destroy an unaffiliated norn with ease, they tend to obey\
-  \ the proclamations and judgments of norns when they are spoken. These norns, for\
-  \ their part, use their perceived neutrality judiciously. They know better than\
-  \ to issue too many demands to the Eldest, lest the capricious demigods grow frustrated\
-  \ and tired of norns' interference. And so the balance of power remains tenuous\
-  \ between unaffiliated norns and the Eldest, as it has for eons. However, norns\
-  \ know that it's merely a matter of time before the Eldest lose their respect for\
-  \ this tradition and start acting entirely as they please, despite norns' best efforts\
-  \ to rein in their most disruptive actions.<br/><br/> A norn stands 14 feet tall\
-  \ and weighs 800 pounds.<br/><br/>"
 dexterity: '+6'
 element: null
 fly_speed: '35'

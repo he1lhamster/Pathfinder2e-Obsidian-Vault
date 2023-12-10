@@ -12,19 +12,6 @@ creature_ability:
 - Stench
 - Vulnerable to Gentle Repose
 creature_family: '[[DATABASE/monsterfamily/Golem|Golem]]'
-description: "Carrion golems are foul-smelling and fly-swarmed amalgams of putrefied\
-  \ parts stitched together from many different creatures. Unlike most golems, carrion\
-  \ golems only rarely are given a humanoid form, instead appearing more twisted and\
-  \ bestial in frame. As a result, some students of golem crafting claim that the\
-  \ carrion golem isn't a \u201Ctrue golem,\u201D but regardless of those claims these\
-  \ foul constructs certainly share other golem-like traits, including their significant\
-  \ immunities. What is true is that most who craft carrion golems don't do so out\
-  \ of true interest in the technique of golem crafting, but for the golem's ability\
-  \ to spread disease. The crafters of carrion golems send their mindless minions\
-  \ to cause immediate destruction and leave wakes of illness and death behind them.<br/><br/><b><u>Recall\
-  \ Knowledge - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]]\
-  \ )</b>: DC 21<br/><b><u>Unspecific Lore</u></b>: DC 19<br/><b><u>Specific Lore</u></b>:\
-  \ DC 16"
 dexterity: '-2'
 element: null
 fly_speed: null

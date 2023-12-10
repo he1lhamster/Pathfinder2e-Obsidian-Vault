@@ -17,10 +17,6 @@ creature_ability:
 - Paralytic Fear
 - Plague of Ancients
 creature_family: '[[DATABASE/monsterfamily/Vampire, Nosferatu|Vampire, Nosferatu]]'
-description: 'Millennia of feeding on the living can turn the most powerful nosferatus
-  into creatures of indomitable will and walking terror.<br/><br/><b><u>Recall Knowledge
-  - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 39<br/><b><u>Unspecific
-  Lore</u></b>: DC 37<br/><b><u>Specific Lore</u></b>: DC 34'
 dexterity: '+8'
 element: null
 fly_speed: null

@@ -10,10 +10,6 @@ creature_ability:
 - Swiftness
 - Thunderbolt
 creature_family: '[[DATABASE/monsterfamily/Elemental, Air|Elemental, Air]]'
-description: 'A living thunderclap is a humanoid-shaped storm cloud that cracks and
-  booms with thunder.<br/><br/><b><u>Recall Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Nature|Nature]] )</b>: DC 19<br/><b><u>Unspecific Lore</u></b>:
-  DC 17<br/><b><u>Specific Lore</u></b>: DC 14'
 dexterity: '+4'
 element: Air
 fly_speed: '50'

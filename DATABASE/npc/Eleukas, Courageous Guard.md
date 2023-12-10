@@ -1,65 +1,50 @@
 ﻿---
-ac: '23'
+ac: '19'
 alignment: LG
 all_resistance: null
 burrow_speed: null
-charisma: '+0'
+charisma: '+2'
 climb_speed: null
 constitution: '+3'
 creature_ability:
-- Ancestry Feats
-- Class Abilities
-- Class Feats
-- General Feats
-- Hunt Prey
-- Hunted Shot
-- Hunter's Edge
-- Skill Feats
+- Attack of Opportunity
+- Lunge
+- Power Attack
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 32<br/><b><u>Unspecific
-  Lore</u></b>: DC 30<br/><b><u>Specific Lore</u></b>: DC 27'
-dexterity: '+4'
+dexterity: '+1'
 element: null
 fly_speed: null
-fortitude: '+13'
-hp: '92'
-id: '2391'
+fortitude: '+11'
+hp: '32'
+id: '1034'
 immunity: null
-intelligence: '+1'
-land_speed: '25'
+intelligence: '+0'
+land_speed: '20'
 language:
 - '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Jotun|Jotun]]'
-level: '6'
-max_speed: '25'
-name: Ekundayo (Level 6)
-perception: '+12'
+level: '2'
+max_speed: '20'
+name: Eleukas
+perception: '+10'
 rarity: Unique
-reflex: '+14'
+reflex: '+9'
 resistance: null
 rus_type_level: null
-sense:
-- (expert)
+sense: null
 size: Medium
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +13'
-- '[[DATABASE/skill/Athletics|Athletics]] +10'
-- '[[DATABASE/skill/Crafting|Crafting]] +11'
-- '[[DATABASE/skill/Lore|Giant Lore]] +9'
-- '[[DATABASE/skill/Lore|GuildLore]] +9'
-- '[[DATABASE/skill/Lore|Hunting Lore]] +11'
-- '[[DATABASE/skill/Nature|Nature]] +10'
-- '[[DATABASE/skill/Stealth|Stealth]] +12'
-- '[[DATABASE/skill/Survival|Survival]] +13'
-source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
+- '[[DATABASE/skill/Athletics|Athletics]] +8'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +8'
+- '[[DATABASE/skill/Society|Society]] +6'
+- '[[DATABASE/skill/Survival|Survival]] +6'
+source: '[[DATABASE/source/No-Prep Character. Eleukas|No-Prep Character: Eleukas]]'
 speed:
-- 25 feet
+- 20 feet
 spell: null
-strength: '+2'
-strength_req: '2'
+strength: '+4'
+strength_req: '4'
 strongest_save:
-- Reflex
+- Fortitude
 swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
@@ -70,8 +55,8 @@ vision: null
 weakest_save:
 - Will
 weakness: null
-will: '+12'
-wisdom: '+2'
+will: '+6'
+wisdom: '+0'
 
 ---
 # Eleukas, Courageous Guard

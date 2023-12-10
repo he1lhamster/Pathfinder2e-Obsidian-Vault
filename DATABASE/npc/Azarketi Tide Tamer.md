@@ -12,15 +12,6 @@ creature_ability:
 - Speaker of the Oceans
 - Submerged Stealth
 creature_family: '[[DATABASE/monsterfamily/Azarketi|Azarketi]]'
-description: 'The most ambitious and capable azarketis become tide tamers, learning
-  how to speak with aquatic animals and even train the strongest of these creatures
-  to help defend their territory. Tide tamers act as guardians for their communities,
-  scouts at sea and on the shore, or even entertainers for land-bound people''s amusement.
-  They''re generally found with one or more aquatic allies whom they''ve befriended.
-  Several serve alongside Absalom''s Wave Riders as scouts, animal interlocutors,
-  and guides.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 23<br/><b><u>Unspecific Lore</u></b>: DC 21<br/><b><u>Specific Lore</u></b>:
-  DC 18'
 dexterity: '+4'
 element: null
 fly_speed: null

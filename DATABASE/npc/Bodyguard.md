@@ -9,12 +9,6 @@ constitution: '+3'
 creature_ability:
 - Bodyguard's Defense
 creature_family: '[[DATABASE/monsterfamily/Mercenaries|Mercenaries]]'
-description: 'Hired to protect someone famous or powerful, bodyguards use intimidation,
-  quick wits, and martial skill to keep their charges safe. Such mercenaries might
-  be auxiliaries to a noble''s own guards, but with special directives to safeguard
-  their patrons.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 15<br/><b><u>Unspecific Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>:
-  DC 10'
 dexterity: '+2'
 element: null
 fly_speed: null

@@ -1,78 +1,99 @@
 ﻿---
-ac: '18'
+ac: '27'
 alignment: NE
 all_resistance: null
 burrow_speed: null
-charisma: '+4'
+charisma: '+6'
 climb_speed: null
-constitution: '+0'
-creature_ability: null
+constitution: '+2'
+creature_ability:
+- Morphic Weapon
+- Peerless Duplicate
+- Serpentfolk Venom
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 26<br/><b><u>Unspecific
-  Lore</u></b>: DC 24<br/><b><u>Specific Lore</u></b>: DC 21'
 dexterity: '+3'
 element: null
 fly_speed: null
-fortitude: '+6'
-hp: '30'
-id: '2044'
+fortitude: '+14'
+hp: '150'
+id: '1640'
 immunity: null
-intelligence: '+2'
+intelligence: '+5'
 land_speed: '25'
 language:
+- '[[DATABASE/language/Aklo|Aklo]]'
 - '[[DATABASE/language/Common|Common]]'
-level: '2'
+- '[[DATABASE/language/Draconic|Draconic]]'
+- '[[DATABASE/language/Undercommon|Undercommon]] ; [[DATABASE/monsterability/Telepathy|telepathy]]
+  100 feet'
+level: '9'
 max_speed: '25'
-name: Sahreg the Dirge Screamer
-perception: '+6'
+name: Salathiss
+perception: '+19'
 rarity: Unique
-reflex: '+9'
-resistance: null
+reflex: '+17'
+resistance:
+- '[[DATABASE/trait/Poison|poison]] 10'
 rus_type_level: null
-sense: null
+sense:
+- '[[DATABASE/monsterability/Darkvision|darkvision]]'
+- '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
 size: Medium
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +7'
-- '[[DATABASE/skill/Deception|Deception]] +8'
-- '[[DATABASE/skill/Diplomacy|Diplomacy]] +8'
-- '[[DATABASE/skill/Lore|Graydirge Lore]] +6'
-- '[[DATABASE/skill/Occultism|Occultism]] +6'
-- '[[DATABASE/skill/Performance|Performance]] +8'
-- '[[DATABASE/skill/Society|Society]] +6'
-- '[[DATABASE/skill/Stealth|Stealth]] +7'
-- '[[DATABASE/skill/Thievery|Thievery]] +7'
-source: '[[DATABASE/source/Pathfinder 181. Zombie Feast|Pathfinder #181: Zombie Feast]]'
+- '[[DATABASE/skill/Arcana|Arcana]] +18'
+- '[[DATABASE/skill/Deception|Deception]] +21'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +19'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +19'
+- '[[DATABASE/skill/Occultism|Occultism]] +18'
+- '[[DATABASE/skill/Society|Society]] +18'
+- '[[DATABASE/skill/Stealth|Stealth]] +18'
+source: '[[DATABASE/source/Pathfinder 170. Spoken on the Song Wind|Pathfinder #170:
+  Spoken on the Song Wind]]'
 speed:
 - 25 feet
 spell:
-- '[[DATABASE/spell/Chill Touch|Chill Touch]]'
+- '[[DATABASE/spell/Cloak of Colors|Cloak of Colors]]'
 - '[[DATABASE/spell/Command|Command]]'
-- '[[DATABASE/spell/Counter Performance|Counter Performance]]'
+- '[[DATABASE/spell/Dancing Lights|Dancing Lights]]'
+- '[[DATABASE/spell/Darkness|Darkness]]'
 - '[[DATABASE/spell/Daze|Daze]]'
-- '[[DATABASE/spell/Ghost Sound|GhostSound]]'
+- '[[DATABASE/spell/Detect Magic|Detect Magic]]'
+- '[[DATABASE/spell/Fleet Step|FleetStep]]'
+- '[[DATABASE/spell/Ghost Sound|Ghost Sound]]'
+- '[[DATABASE/spell/Glibness|Glibness]]'
+- '[[DATABASE/spell/Hideous Laughter|Hideous Laughter]]'
+- '[[DATABASE/spell/Hypnotic Pattern|Hypnotic Pattern]]'
 - '[[DATABASE/spell/Illusory Disguise|Illusory Disguise]]'
-- '[[DATABASE/spell/Inspire Courage|Inspire Courage]]'
-- '[[DATABASE/spell/Mage Hand|Mage Hand]]'
+- '[[DATABASE/spell/Illusory Scene|Illusory Scene]]'
+- '[[DATABASE/spell/Invisibility|Invisibility]]'
+- '[[DATABASE/spell/Item Facade|Item Facade]]'
+- '[[DATABASE/spell/Magic Missile|Magic Missile]]'
+- '[[DATABASE/spell/Mind Reading|Mind Reading]]'
+- '[[DATABASE/spell/Mirror Image|Mirror Image]]'
+- '[[DATABASE/spell/Passwall|Passwall]]'
+- '[[DATABASE/spell/Phantasmal Killer|Phantasmal Killer]]'
+- '[[DATABASE/spell/Suggestion|Suggestion]]'
 - '[[DATABASE/spell/Telekinetic Projectile|Telekinetic Projectile]]'
-- '[[DATABASE/spell/Unseen Servant|Unseen Servant]]'
-strength: '+0'
-strength_req: '0'
+- '[[DATABASE/spell/True Strike|True Strike]]'
+- '[[DATABASE/spell/Veil|Veil]]'
+- '[[DATABASE/spell/Ventriloquism|Ventriloquism]]'
+strength: '+4'
+strength_req: '4'
 strongest_save:
-- Reflex
 - Will
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
+- '[[DATABASE/trait/Mutant|Mutant]]'
+- '[[DATABASE/trait/Serpentfolk|Serpentfolk]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
+vision: Darkvision
 weakest_save:
 - Fortitude
 weakness: null
-will: '+9'
-wisdom: '+1'
+will: '+20'
+wisdom: '+4'
 
 ---
 # Salathiss, Serpentfolk Infiltrator Obsessed with his Role

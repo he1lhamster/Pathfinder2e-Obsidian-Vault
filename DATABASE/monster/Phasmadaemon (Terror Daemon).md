@@ -1,81 +1,87 @@
 ﻿---
-ac: '15'
+ac: '39'
 alignment: NE
-all_resistance: '2'
+all_resistance: null
 burrow_speed: null
-charisma: '+0'
+charisma: '+6'
 climb_speed: null
-constitution: '+1'
+constitution: '+6'
 creature_ability:
-- Pack Attack
-- Susceptible to Death
-- Vulnerable to Kindness
-- Walk the Ethereal Line
-creature_family: '[[DATABASE/monsterfamily/Phantom|Phantom]]'
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Ethereal</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 20<br/><b><u>Recall
-  Knowledge - Spirit</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 20<br/><b><u>Unspecific
-  Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>: DC 15'
-dexterity: '+4'
+- Constrict
+- Consume Fear
+- Frightful Presence
+- Inescapable Form
+- Rend
+- Unending Terror
+creature_family: '[[DATABASE/monsterfamily/Daemon|Daemon]]'
+dexterity: '+8'
 element: null
 fly_speed: '35'
-fortitude: '+6'
+fortitude: '+31'
 hardness: null
-hp: '14'
-id: '2731'
+hp: '340'
+id: '2578'
 immunity:
-- '[[DATABASE/trait/Disease|disease]]'
-- '[[DATABASE/condition/Paralyzed|paralyzed]]'
-- '[[DATABASE/trait/Poison|poison]]'
-- precision
-intelligence: '-3'
-land_speed: null
+- '[[DATABASE/trait/Death|death]] effects'
+- '[[DATABASE/trait/Fear|fear]]'
+intelligence: '+3'
+land_speed: '25'
 language:
 - '[[DATABASE/language/Common|Common]]'
-level: '1'
+- '[[DATABASE/language/Daemonic|Daemonic]] ; [[DATABASE/monsterability/Telepathy|telepathy]]
+  100 feet'
+level: '17'
 max_speed: '35'
-name: Phantom Wolf
-perception: '+7'
-rarity: Rare
-reflex: '+9'
-resistance:
-- all damage 2 (except [[DATABASE/trait/Force|force]] or [[DATABASE/equipment/Ghost
-  Touch|ghost touch]] ; double resistance vs. non- [[DATABASE/trait/Magical|magical]]
-  )
+name: Phasmadaemon
+perception: '+29'
+rarity: Uncommon
+reflex: '+26'
+resistance: null
 rus_type_level: null
 school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
-size: Medium
+- '[[DATABASE/spell/True Seeing|true seeing]]'
+size: Large
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +7'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +5'
-source: '[[DATABASE/source/Pathfinder 196. The Summer That Never Was|Pathfinder #196:
-  The Summer That Never Was]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +31'
+- '[[DATABASE/skill/Deception|Deception]] +31'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +33'
+- '[[DATABASE/skill/Religion|Religion]] +29'
+source: '[[DATABASE/source/Pathfinder 192. Worst of All Possible Worlds|Pathfinder
+  #192: Worst of All Possible Worlds]]'
 speed:
+- 25 feet
 - fly 35 feet
 spell:
-- '[[DATABASE/spell/Daze|Daze]]'
-- '[[DATABASE/spell/Fear|Fear]]'
-- '[[DATABASE/spell/Ghost Sound|Ghost Sound]]'
-strength: '-5'
-strength_req: '-5'
+- '[[DATABASE/spell/Detect Alignment|Detect Alignment]]'
+- '[[DATABASE/spell/Dimension Door|Dimension Door]]'
+- '[[DATABASE/spell/Duplicate Foe|Duplicate Foe]]'
+- '[[DATABASE/spell/Mask of Terror|Mask of Terror]]'
+- '[[DATABASE/spell/Nightmare|Nightmare]]'
+- '[[DATABASE/spell/Phantasmal Killer|Phantasmal Killer]]'
+- '[[DATABASE/spell/Shadow Blast|Shadow Blast]]'
+- '[[DATABASE/spell/Shadow Siphon|Shadow Siphon]]'
+- '[[DATABASE/spell/True Seeing|True Seeing]]'
+- '[[DATABASE/spell/Weird|Weird]]'
+strength: '+8'
+strength_req: '8'
 strongest_save:
-- Reflex
+- Fortitude
+- Will
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Ethereal|Ethereal]]'
-- '[[DATABASE/trait/Incorporeal|Incorporeal]]'
-- '[[DATABASE/trait/Phantom|Phantom]]'
-- '[[DATABASE/trait/Rare|Rare]]'
-- '[[DATABASE/trait/Spirit|Spirit]]'
+- '[[DATABASE/trait/Daemon|Daemon]]'
+- '[[DATABASE/trait/Fiend|Fiend]]'
+- '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
 vision: Darkvision
 weakest_save:
-- Will
-weakness: null
-will: '+5'
-wisdom: '+2'
+- Reflex
+weakness:
+- good 15
+will: '+31'
+wisdom: '+4'
 
 ---
 # Phasmadaemon (Terror Daemon)

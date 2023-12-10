@@ -12,10 +12,6 @@ creature_ability:
 - Vortex
 - Water-Bound
 creature_family: '[[DATABASE/monsterfamily/Elemental, Water|Elemental, Water]]'
-description: 'Elemental tsunamis are huge and destructive.<br/><br/><b><u>Recall Knowledge
-  - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 28<br/><b><u>Unspecific Lore</u></b>: DC 26<br/><b><u>Specific Lore</u></b>:
-  DC 23'
 dexterity: '+6'
 element: Water
 fly_speed: null

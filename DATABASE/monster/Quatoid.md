@@ -10,11 +10,6 @@ creature_ability:
 - Calming Bioluminescence
 - Constrict
 creature_family: '[[DATABASE/monsterfamily/Elemental, Water|Elemental, Water]]'
-description: 'Quatoids are peculiar, mysterious elementals native to the Plane of
-  Water that resemble four-tentacled octopuses with eerily humanoid faces on their
-  mantles.<br/><br/><b><u>Recall Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Nature|Nature]] )</b>: DC 23<br/><b><u>Unspecific Lore</u></b>:
-  DC 21<br/><b><u>Specific Lore</u></b>: DC 18'
 dexterity: '+2'
 element: Water
 fly_speed: null

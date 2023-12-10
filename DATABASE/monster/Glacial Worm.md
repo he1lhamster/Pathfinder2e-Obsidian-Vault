@@ -15,15 +15,6 @@ creature_ability:
 - Swallow Whole
 - Thrash
 creature_family: '[[DATABASE/monsterfamily/Cave Worm|Cave Worm]]'
-description: 'Cave worm eggs that lie dormant for a long period may experience significant
-  climactic shift. If the temperature falls below freezing, the worms may hatch as
-  glacial worms, also called white worms. These creatures immediately migrate as far
-  north as possible, seeking the glaciers or icebergs that will nourish and house
-  them. Glacial worms lack stingers, as liquid venom is less effective in cold temperatures.
-  Occasionally, such creatures are carried far south on icebergs that have carved
-  off the main ice sheets of the polar regions.<br/><br/><b><u>Recall Knowledge -
-  Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 37<br/><b><u>Unspecific
-  Lore</u></b>: DC 35<br/><b><u>Specific Lore</u></b>: DC 32'
 dexterity: '+0'
 element: null
 fly_speed: null

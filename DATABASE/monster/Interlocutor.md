@@ -1,90 +1,51 @@
 ﻿---
-ac: '33'
-alignment: LE
+ac: null
+alignment: null
 all_resistance: null
 burrow_speed: null
-charisma: '+5'
+charisma: null
 climb_speed: null
-constitution: '+5'
-creature_ability:
-- Attack of Opportunity
-- Focus Gaze
-- Glimpse of Stolen Flesh
-- Painsight
-- Surgical Rend
-creature_family: '[[DATABASE/monsterfamily/Velstrac|Velstrac]]'
-description: 'Interlocutors are the most talented surgeon-sculptors of the velstracs,
-  carving away flesh and replacing it with new body parts of muscle, sinew, and metal.
-  Each interlocutor structures their individual appearance carefully, but all are
-  towering, multi-limbed amalgamations of the strongest limbs, densest bone, and sharpest
-  metal they can find. They continually search for new material to graft to their
-  forms, and their slain foes are rarely found intact, as little is more valuable
-  to interlocutors than a powerful opponent''s legs, eyes, or even brain. Interlocutors
-  average 9 feet tall and weigh approximately 800 pounds.<br/><br/><b><u>Recall Knowledge
-  - Fiend</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 30<br/><b><u>Unspecific
-  Lore</u></b>: DC 28<br/><b><u>Specific Lore</u></b>: DC 25'
-dexterity: '+3'
+constitution: null
+creature_ability: null
+creature_family: null
+dexterity: null
 element: null
 fly_speed: null
-fortitude: '+23'
+fortitude: null
 hardness: null
-hp: '215'
-id: '851'
-immunity:
-- cold
-intelligence: '+2'
-land_speed: '40'
-language:
-- '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Infernal|Infernal]]'
-- '[[DATABASE/language/Shadowtongue|Shadowtongue]]'
-level: '12'
-max_speed: '40'
+hp: null
+id: '462'
+immunity: null
+intelligence: null
+land_speed: null
+language: null
+level: null
+max_speed: null
 name: Interlocutor
-perception: '+24'
-rarity: Common
-reflex: '+21'
+perception: null
+rarity: null
+reflex: null
 resistance: null
 rus_type_level: null
 school: null
-sense:
-- '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
-- painsight
-size: Large
-skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +25'
-- '[[DATABASE/skill/Crafting|Crafting]] +22'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +25'
-- '[[DATABASE/skill/Medicine|Medicine]] +26'
-- '[[DATABASE/skill/Religion|Religion]] +22'
-- '[[DATABASE/skill/Stealth|Stealth]] +19'
-- '[[DATABASE/skill/Lore|Torture Lore]] +20'
-source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
-speed:
-- 40 feet
-spell:
-- '[[DATABASE/spell/Breath of Life|Breath of Life]]'
-- '[[DATABASE/spell/Heal|Heal]]'
-- '[[DATABASE/spell/Plane Shift|Plane Shift]]'
-- '[[DATABASE/spell/Restoration|Restoration]]'
-- '[[DATABASE/spell/Stabilize|Stabilize]]'
-strength: '+7'
-strength_req: '7'
-strongest_save:
-- Will
+sense: null
+size: null
+skill: null
+source: '[[DATABASE/source/Pathfinder 147. Tomorrow Must Burn|Pathfinder #147: Tomorrow
+  Must Burn]]'
+speed: null
+spell: null
+strength: null
+strength_req: null
+strongest_save: null
 swim_speed: null
-trait:
-- '[[DATABASE/trait/Fiend|Fiend]]'
-- '[[DATABASE/trait/Velstrac|Velstrac]]'
-type: Creature
-vision: Greater darkvision
-weakest_save:
-- Reflex
-weakness:
-- good 15
-- silver 15
-will: '+26'
-wisdom: '+6'
+trait: null
+type: null
+vision: null
+weakest_save: null
+weakness: null
+will: null
+wisdom: null
 
 ---
 # Interlocutor

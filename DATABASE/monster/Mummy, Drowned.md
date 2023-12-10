@@ -1,77 +1,83 @@
 ﻿---
-ac: '21'
-alignment: CN
+ac: '38'
+alignment: LE
 all_resistance: null
 burrow_speed: null
-charisma: '+0'
+charisma: '+1'
 climb_speed: null
-constitution: '+1'
+constitution: '+6'
 creature_ability:
+- Aquatic Advantage
+- Aquatic Ambush
+- Aquatic Echolocation
 - Attack of Opportunity
-- Hampering Slash
-- Light Blindness
-- Sneak Attack
-creature_family: '[[DATABASE/monsterfamily/Drow|Drow]]'
-description: 'Wardens watch over drow encampments and often work in small groups.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 21<br/><b><u>Unspecific
-  Lore</u></b>: DC 19<br/><b><u>Specific Lore</u></b>: DC 16'
-dexterity: '+3'
+- Rancid Bloat
+- ''
+- Water Pressure
+- Whirlpool
+creature_family: '[[DATABASE/monsterfamily/Mummy|Mummy]]'
+dexterity: '+5'
 element: null
 fly_speed: null
-fortitude: '+11'
+fortitude: '+29'
 hardness: null
-hp: '60'
-id: '1385'
+hp: 330 ( negative healing )
+id: '2420'
 immunity:
-- '[[DATABASE/trait/Sleep|sleep]]'
-intelligence: '+0'
-land_speed: '30'
+- '[[DATABASE/trait/Death|death]] effects'
+- '[[DATABASE/trait/Disease|disease]]'
+- '[[DATABASE/condition/Paralyzed|paralyzed]]'
+- '[[DATABASE/trait/Poison|poison]]'
+- '[[DATABASE/condition/Unconscious|unconscious]]'
+intelligence: '+3'
+land_speed: '25'
 language:
-- '[[DATABASE/language/Elven|Elven]]'
-- '[[DATABASE/language/Undercommon|Undercommon]]'
-level: '4'
-max_speed: '30'
-name: Drow Warden
-perception: '+11'
-rarity: Uncommon
-reflex: '+11'
-resistance: null
+- '[[DATABASE/language/Aquan|Aquan]]'
+- '[[DATABASE/language/Necril|Necril]] ; plus any two ancient languages; [[DATABASE/monsterability/Telepathy|telepathy]]
+  (30 feet)'
+level: '17'
+max_speed: '40'
+name: Drowned Mummy
+perception: '+30'
+rarity: Rare
+reflex: '+28'
+resistance:
+- '[[DATABASE/trait/Fire|fire]] 15'
 rus_type_level: null
 school: null
 sense:
+- aquatic echolocation 120 feet
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
 skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +12'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +8'
-- '[[DATABASE/skill/Stealth|Stealth]] +9'
-- '[[DATABASE/skill/Survival|Survival]] +11'
-source: '[[DATABASE/source/Pathfinder 165. Eyes of Empty Death|Pathfinder #165: Eyes
-  of Empty Death]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +30'
+- '[[DATABASE/skill/Athletics|Athletics]] +32'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +28'
+- '[[DATABASE/skill/Nature|Nature]] +30'
+- '[[DATABASE/skill/Stealth|Stealth]] +30'
+source: '[[DATABASE/source/Pathfinder 186. Ghost King''s Rage|Pathfinder #186: Ghost
+  King''s Rage]]'
 speed:
-- 30 feet
-spell:
-- '[[DATABASE/spell/Dancing Lights|Dancing Lights]]'
-- '[[DATABASE/spell/Darkness|Darkness]]'
-- '[[DATABASE/spell/Faerie Fire|Faerie Fire]]'
-strength: '+4'
-strength_req: '4'
+- 25 feet
+- swim 40 feet
+spell: null
+strength: '+9'
+strength_req: '9'
 strongest_save:
-- Fortitude
-- Reflex
-swim_speed: null
+- Will
+swim_speed: '40'
 trait:
-- '[[DATABASE/trait/Drow|Drow]]'
-- '[[DATABASE/trait/Elf|Elf]]'
-- '[[DATABASE/trait/Humanoid|Humanoid]]'
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
+- '[[DATABASE/trait/Amphibious|Amphibious]]'
+- '[[DATABASE/trait/Mummy|Mummy]]'
+- '[[DATABASE/trait/Rare|Rare]]'
+- '[[DATABASE/trait/Undead|Undead]]'
 type: Creature
 vision: Darkvision
 weakest_save:
-- Will
+- Reflex
 weakness: null
-will: '+9'
-wisdom: '+3'
+will: '+32'
+wisdom: '+7'
 
 ---
 # Mummy, Drowned

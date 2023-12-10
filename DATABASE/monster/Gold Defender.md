@@ -16,10 +16,6 @@ creature_ability:
 - Malleable Shape
 - Vulnerable to Telekinetic Haul
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]]
-  )</b>: DC 36<br/><b><u>Unspecific Lore</u></b>: DC 34<br/><b><u>Specific Lore</u></b>:
-  DC 31'
 dexterity: '-1'
 element: null
 fly_speed: null

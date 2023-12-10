@@ -12,18 +12,6 @@ creature_ability:
 - Force Feed
 - Mystery Ingredients
 creature_family: null
-description: "While the typical snake oil salesperson seeks riches, some medical fraudsters\
-  \ become so enamored with the swindler lifestyle they reanimate to keep living the\
-  \ lie. Known as ichor slingers, these cadaverous alchemists disguise themselves\
-  \ to walk among the living. There they gleefully concoct tonics and peddle cure-alls,\
-  \ charismatically convincing bystanders to overlook questionable ingredients and\
-  \ credentials. Ichor slingers feed on others' attention and trust, caring little\
-  \ for clients' health so long as buyers imbibe the offered medicines. Conversely,\
-  \ rejection infuriates ichor slingers. The undead often stalk, subdue, and administer\
-  \ unwanted medicines to those who snub them. When not selling \u201Cpanaceas,\u201D\
-  \ ichor slingers harvest macabre ingredients to make dubious new medicines.<br/><br/><b><u>Recall\
-  \ Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 21<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 19<br/><b><u>Specific Lore</u></b>: DC 16"
 dexterity: '+1'
 element: null
 fly_speed: null

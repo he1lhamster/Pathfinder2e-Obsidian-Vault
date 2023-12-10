@@ -11,26 +11,6 @@ creature_ability:
 - Refective Shell
 - Symbiotic Amoeba
 creature_family: null
-description: "Amelekanas are amphibious ambush predators native to rivers and lakes\
-  \ across Castrovel. An amelekana looks similar to a giant snail, with an opalescent\
-  \ spiraling shell and eyeless face sporting a crown of six antennae, but that's\
-  \ where the resemblance ends. Instead of one giant foot, the amelekana has fleshy\
-  \ tubes standing upright through holes in its shell and a host of tiny armored legs,\
-  \ like those of a crab. Yet perhaps the most unusual feature of the amelekana is\
-  \ that it's actually a symbiotic community of two separate organisms, neither of\
-  \ which can live without the other.<br/><br/> Like many creatures on Castrovel,\
-  \ amelekanas have some basic psychic ability\u2014in their case, a sense for nearby\
-  \ living creatures. A hunting amelekana submerges itself to obscure its location.\
-  \ When prey draws near, the amelekana rises from the water and releases compressed\
-  \ gasses to launch its symbiotes\u2014blobby amoebas the size of a bread loaf\u2014\
-  at their victims. These amoebas act as external digesters for the stomachless amelekana,\
-  \ using their acidic coating to dissolve prey and absorb nutrition. Once its amoebas\
-  \ have had their fill, the amelekana slurps them back up, providing the amoeba colony\
-  \ with a safe haven inside its body in exchange for a portion of the processed nutrients.<br/><br/>\
-  \ A typical amelekana is 9 feet long and weighs up to 2,000 pounds.<br/><br/><b><u>Recall\
-  \ Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 21<br/><b><u>Unspecific Lore</u></b>: DC 19<br/><b><u>Specific Lore</u></b>:\
-  \ DC 16"
 dexterity: '+1'
 element: null
 fly_speed: null

@@ -10,12 +10,6 @@ creature_ability:
 - Furnace Belch
 - Wind-Up
 creature_family: '[[DATABASE/monsterfamily/Clockworks|Clockworks]]'
-description: 'Wealthy business owners sometimes employ clockwork disposers to pick
-  up trash around their establishment and keep the place tidy. Many are designed with
-  handy (but dangerous) built-in furnaces, which they use to quickly incinerate collected
-  refuse.<br/><br/><b><u>Recall Knowledge - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Crafting|Crafting]] )</b>: DC 22<br/><b><u>Unspecific Lore</u></b>:
-  DC 20<br/><b><u>Specific Lore</u></b>: DC 17'
 dexterity: '+4'
 element: null
 fly_speed: null

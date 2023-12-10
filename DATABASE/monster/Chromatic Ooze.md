@@ -15,22 +15,6 @@ creature_ability:
 - Pseudopod
 - Eruption
 creature_family: '[[DATABASE/monsterfamily/Ooze|Ooze]]'
-description: "Chromatic oozes result from the worst kind of alchemical mishaps: attempts\
-  \ to combine as many types of elemental damage as possible into a single alchemical\
-  \ substance. Although the source of these alchemical concatenations are as varied\
-  \ as the alchemists who attempt to distill them, one of the most common methods\
-  \ for creating them involves combining the essences of multiple types of chromatic\
-  \ dragons together using eldritch alchemical processes. When this type of experimentation\
-  \ goes dangerously wrong\u2014as it often does\u2014the result is a combination\
-  \ of terrible elemental power with the mindless destructive power of an ooze. A\
-  \ chromatic ooze is a rippling, seething substance that shifts through several different\
-  \ colors, but chemical reactions within the ooze can lock its energy and its color\
-  \ into a specific phase for a short time. Whether a chromatic ooze's destructive\
-  \ urges derive from the frustrated ingenuity of an alchemist creator or from the\
-  \ hunger of the chromatic dragons that so often constitute these oozes' forms, the\
-  \ best way to deal with a chromatic ooze is to stay out of its way.<br/><br/><b><u>Recall\
-  \ Knowledge - Ooze</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 43<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 41<br/><b><u>Specific Lore</u></b>: DC 38"
 dexterity: '-5'
 element: null
 fly_speed: null

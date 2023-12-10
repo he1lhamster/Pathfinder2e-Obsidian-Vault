@@ -9,14 +9,6 @@ constitution: '+1'
 creature_ability:
 - Breath Weapon
 creature_family: '[[DATABASE/monsterfamily/Sprite|Sprite]]'
-description: 'The mischievous dragon sprites known as draxies have dueled their [[DATABASE/monster/Pixie|pixie]]
-  cousins for the title of ultimate prankster for centuries. Possessed of draconic
-  features and brilliant colorations, draxies descend from a mighty [[DATABASE/monster/Faerie
-  Dragon|faerie dragon]] , reincarnated into multiple draxies after her death in the
-  mercurial fashion of the fey realm. Draxies exercise patience and planning to create
-  the perfect pranks, spending months, or even years, on their efforts.<br/><br/><b><u>Recall
-  Knowledge - Fey</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 18<br/><b><u>Unspecific
-  Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>: DC 13'
 dexterity: '+4'
 element: null
 fly_speed: '40'

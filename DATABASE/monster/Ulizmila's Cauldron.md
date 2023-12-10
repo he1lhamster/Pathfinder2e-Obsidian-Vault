@@ -10,10 +10,6 @@ creature_ability:
 - Construct Armor
 - Swallow Whole
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]]
-  )</b>: DC 16<br/><b><u>Unspecific Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>:
-  DC 11'
 dexterity: '-2'
 element: null
 fly_speed: null

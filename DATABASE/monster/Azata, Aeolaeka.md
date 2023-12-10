@@ -1,104 +1,81 @@
 ﻿---
-ac: '29'
-alignment: CE
+ac: '33'
+alignment: CG
 all_resistance: null
-burrow_speed: null
-charisma: '+1'
-climb_speed: '30'
-constitution: '+5'
+burrow_speed: '25'
+charisma: '+2'
+climb_speed: null
+constitution: '+7'
 creature_ability:
-- Breath Weapon
-- Draconic Frenzy
-- Draconic Momentum
-- Dragon Chill
-- Freezing Blood
-- Frightful
-- Presence
-- Ground Slam
-- Ice Climb
-- Shape Ice
-- Snow Vision
-creature_family: '[[DATABASE/monsterfamily/Dragon, White|Dragon, White]]'
-description: "The most feral and least intelligent of all the chromatic dragons, white\
-  \ dragons are brutish, predatory, and chiefly motivated by self-preservation. Nearly\
-  \ all other dragons look down on white dragons as hopelessly hotheaded and dull,\
-  \ though this does not make them any less dangerous\u2014in fact, it may mean the\
-  \ opposite. It\u2019s nearly impossible to treat with white dragons, not because\
-  \ they lack the capacity to do so, but because they just don\u2019t care to. They\
-  \ are as difficult to deal with as they are quick to anger, and they become incensed\
-  \ at almost anything. When a white dragon does speak, it spews threats, inane jokes,\
-  \ and incoherent babbling as a prelude to attacking\u2014and when the attack comes,\
-  \ it\u2019s bloody and relentless.<br/><br/> Thankfully, white dragons prefer very\
-  \ cold, remote locations that are far from people. Dwelling on glacial mountaintops\
-  \ or in ice caverns beneath forbidding tundra, they treat the lands around them\
-  \ as their own personal hunting grounds. They fly out to feed or terrorize other\
-  \ creatures, especially those who trespass near the dragon\u2019s territory, then\
-  \ bring any treasure back to be displayed in icy niches in their lairs. They collect\
-  \ all kinds of valuables, with a slight preference for items with high utility\u2014\
-  such as tools, trade goods, and fine food\u2014over coins or jewels. The ability\
-  \ to shape ice lets white dragons rearrange their lairs exactly to their specifications,\
-  \ and they take great pride in how they\u2019ve decorated their homes over the years.<br/><br/><b><u>Recall\
-  \ Knowledge - Dragon</u> ( [[DATABASE/skill/Arcana|Arcana]] )</b>: DC 27<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 25<br/><b><u>Specific Lore</u></b>: DC 22"
-dexterity: '+2'
+- Earth Glide
+- Liberate the Earth
+- Sacred Hammer
+- Statue
+creature_family: '[[DATABASE/monsterfamily/Azata|Azata]]'
+dexterity: '+4'
 element: null
-fly_speed: '120'
-fortitude: '+22'
+fly_speed: null
+fortitude: '+25'
 hardness: null
-hp: '215'
-id: '140'
-immunity:
-- cold
-- paralyzed
-- sleep
-intelligence: '+1'
-land_speed: '30'
+hp: '250'
+id: '2080'
+immunity: null
+intelligence: '+2'
+land_speed: '25'
 language:
-- '[[DATABASE/language/Common|Common]]'
+- '[[DATABASE/language/Celestial|Celestial]]'
 - '[[DATABASE/language/Draconic|Draconic]]'
-level: '10'
-max_speed: '120'
-name: Adult White Dragon
-perception: '+20'
-rarity: Common
-reflex: '+19'
+- '[[DATABASE/language/Terran|Terran]] ; [[DATABASE/spell/Tongues|tongues]]'
+level: '12'
+max_speed: '25'
+name: Aeolaeka (Stone Azata)
+perception: '+23'
+rarity: Uncommon
+reflex: '+20'
 resistance: null
 rus_type_level: null
 school: null
 sense:
-- darkvision
-- scent (imprecise) 60 feet
-- snow vision
+- '[[DATABASE/monsterability/Darkvision|darkvision]]'
+- '[[DATABASE/monsterability/Tremorsense|tremorsense]] (precise) 60 feet'
 size: Large
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +16'
-- '[[DATABASE/skill/Arcana|Arcana]] +15'
-- '[[DATABASE/skill/Athletics|Athletics]] +23'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +19'
-- '[[DATABASE/skill/Stealth|Stealth]] +18'
-source: '[[DATABASE/source/Bestiary|Bestiary]]'
+- '[[DATABASE/skill/Athletics|Athletics]] +25'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +22'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +22'
+- '[[DATABASE/skill/Nature|Nature]] +23'
+source: '[[DATABASE/source/Pathfinder 183. Field of Maidens|Pathfinder #183: Field
+  of Maidens]]'
 speed:
-- 30 feet
-- fly 120 feet; ice climb 30 feet
+- 25 feet
+- burrow 25 feet; earth glide
 spell:
-- '[[DATABASE/spell/Gust of Wind|Gust of Wind]]'
-- '[[DATABASE/spell/Obscuring Mist|Obscuring Mist]]'
-strength: '+7'
-strength_req: '7'
+- '[[DATABASE/spell/Earthbind|Earthbind]]'
+- '[[DATABASE/spell/Flesh to Stone|Flesh toStone]]'
+- '[[DATABASE/spell/Locate|Locate]]'
+- '[[DATABASE/spell/Stone Tell|Stone Tell]]'
+- '[[DATABASE/spell/Stone to Flesh|Stone to Flesh]]'
+- '[[DATABASE/spell/Tongues|Tongues]]'
+- '[[DATABASE/spell/Wall of Stone|Wall ofStone]]'
+- '[[DATABASE/spell/Weapon Storm|Weapon Storm]]'
+strength: '+5'
+strength_req: '5'
 strongest_save:
 - Fortitude
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Cold|Cold]]'
-- '[[DATABASE/trait/Dragon|Dragon]]'
+- '[[DATABASE/trait/Azata|Azata]]'
+- '[[DATABASE/trait/Celestial|Celestial]]'
+- '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
 vision: Darkvision
 weakest_save:
-- Will
+- Reflex
 weakness:
-- fire 10
-will: '+17'
-wisdom: '+2'
+- '[[DATABASE/equipment/Cold Iron Weapon|cold iron]] 15'
+- evil 15
+will: '+23'
+wisdom: '+5'
 
 ---
 # Azata, Aeolaeka

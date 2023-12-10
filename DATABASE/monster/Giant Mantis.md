@@ -11,10 +11,6 @@ creature_ability:
 - Lunging Strike
 - Sudden Strike
 creature_family: '[[DATABASE/monsterfamily/Mantis, Giant|Mantis, Giant]]'
-description: 'These massive cousins of normal praying mantises stand taller than an
-  average human. They stalk through dense forests, striking at meals from the trees.<br/><br/><b><u>Recall
-  Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 18<br/><b><u>Unspecific
-  Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>: DC 13'
 dexterity: '+3'
 element: null
 fly_speed: '20'

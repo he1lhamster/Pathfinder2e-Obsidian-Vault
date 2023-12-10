@@ -9,10 +9,6 @@ constitution: '+1'
 creature_ability:
 - Torch Combatant
 creature_family: '[[DATABASE/monsterfamily/Explorers|Explorers]]'
-description: 'Torchbearers carry a light sources for seasoned explorers and serve
-  as apprentices.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 14<br/><b><u>Unspecific Lore</u></b>: DC 12<br/><b><u>Specific Lore</u></b>:
-  DC 9'
 dexterity: '+3'
 element: null
 fly_speed: null

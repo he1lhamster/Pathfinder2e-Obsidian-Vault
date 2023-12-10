@@ -11,18 +11,6 @@ creature_ability:
 - Signature Spells
 - Songstrike
 creature_family: null
-description: 'Since his flight from Numeria, Castruccio Irovetti has ruled Pitax for
-  over half a decade, and in that time, he has firmly established his hold over this
-  River Kingdom''s political scene through a mix of cunning choice and luck. While
-  he does have the support of the [[DATABASE/monsterfamily/Nymph|nymph]] [[DATABASE/monster/Nyrissa|Nyrissa]]
-  , he hid from her the fact that he''s managed to recover the magical sword she charged
-  him with retrieving, making him loath to call upon her for aid. Furthermore, if
-  he can defeat the PCs, surely that show of strength will bolster his reputation
-  in her eyes, so that he can then present [[DATABASE/equipment/Briar|Briar]] to her
-  for an even greater reward. In Nyrissa, Irovetti sees the only candidate he could
-  imagine taking on as his Queen.<br/><br/><b><u>Recall Knowledge - Humanoid</u> (
-  [[DATABASE/skill/Society|Society]] )</b>: DC 45<br/><b><u>Unspecific Lore</u></b>:
-  DC 43<br/><b><u>Specific Lore</u></b>: DC 40'
 dexterity: '+5'
 element: null
 fly_speed: null

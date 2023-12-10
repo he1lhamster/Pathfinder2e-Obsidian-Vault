@@ -10,38 +10,6 @@ creature_ability:
 - Homunculus Poison
 - Master Link
 creature_family: null
-description: "A homunculus is a tiny servitor construct created by a crafter to serve\
-  \ as a spy, scout, messenger, or assistant. When a crafter first begins to study\
-  \ the art of creating constructs, she often crafts a homunculus first, since the\
-  \ creation process is simple and inexpensive due to a magical shortcut: the use\
-  \ of the creator\u2019s own blood. This forges a link between the homunculus and\
-  \ its master, causing the homunculus to gain a spark of the creator\u2019s intellect,\
-  \ as well as the same moral values and some of the creator\u2019s basic personality\
-  \ traits. Homunculi left to their own devices never stray far from their masters.<br/><br/>\
-  \ In most cases, a homunculus doesn\u2019t survive the death of its master for long.\
-  \ Deprived of its creator, a homunculus loses focus and grows increasingly self-destructive,\
-  \ and some even end up battering themselves to destruction. Rarely, a homunculus\
-  \ with a slain master survives the trauma with its mind intact, often seeing itself\
-  \ as its deceased creator\u2019s child or successor and attempting to further its\
-  \ creator\u2019s legacy as best it can. In such cases, and if the homunculus was\
-  \ in close proximity to its master upon that creature\u2019s death, a portion of\
-  \ the dead master\u2019s soul \u201Cinfects\u201D the surviving homunculus as it\
-  \ passes on to the afterlife. This doesn\u2019t result in a truly soulbound homunculus\
-  \ (see sidebar), since only a fragment of the soul is left behind, but this is still\
-  \ enough to grant the homunculus a greater personality, free will of its own, and\
-  \ perhaps most importantly, the ability to speak. Over time, a few of these \u201C\
-  awakened\u201D homunculi even go so far as to become convinced that they are the\
-  \ reincarnation of their prior masters, although their actual personalities never\
-  \ quite reach the depth and complexity of a truly living creature. They are, at\
-  \ best, caricatures of the master, and at worst they become awful, bitter-minded\
-  \ parodies of life itself. Still, a free-willed homunculus might pursue studies\
-  \ in its creator\u2019s class, becoming a unique creature with the abilities of\
-  \ that class if time and fortune permit.<br/><br/> Homunculi are created from a\
-  \ mixture of clay, ash, mandrake root, spring water, and a pint of the creator\u2019\
-  s own blood. It is possible for a separate donor to provide the blood, but the process\
-  \ is more difficult.<br/><br/><b><u>Recall Knowledge - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]]\
-  \ , [[DATABASE/skill/Crafting|Crafting]] )</b>: DC 14<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 12<br/><b><u>Specific Lore</u></b>: DC 9"
 dexterity: '+3'
 element: null
 fly_speed: '40'

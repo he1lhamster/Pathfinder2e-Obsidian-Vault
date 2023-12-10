@@ -11,14 +11,6 @@ creature_ability:
 - Engulf
 - Entangling Growth
 creature_family: '[[DATABASE/monsterfamily/Elemental, Wood|Elemental, Wood]]'
-description: 'In the [[DATABASE/plane/Material Plane|Universe]] , plant growth proceeds
-  on a scale of days, weeks, years, and decades. Conversely, an elemental thicket
-  grows constantly and in seconds. These writhing masses of living wood are the elemental
-  embodiment of growth itself, swelling up when least expected to consume all in their
-  path.<br/><br/><b><u>Recall Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Nature|Nature]] )</b>: DC 28<br/><b><u>Recall Knowledge - Plant</u>
-  ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 28<br/><b><u>Unspecific Lore</u></b>:
-  DC 26<br/><b><u>Specific Lore</u></b>: DC 23'
 dexterity: '+4'
 element: Wood
 fly_speed: null

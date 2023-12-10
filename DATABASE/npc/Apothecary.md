@@ -9,12 +9,6 @@ constitution: '+1'
 creature_ability:
 - Medical Wisdom
 creature_family: '[[DATABASE/monsterfamily/Healers|Healers]]'
-description: 'Surrounded by bottles and bins of crushed herbs, curative minerals,
-  and potent extracts, the apothecary skillfully combines materials into unguents
-  and medicines. For encounters involving making medicine or alchemical contests,
-  the apothecary is a 3rd-level challenge.<br/><br/><b><u>Recall Knowledge - Humanoid</u>
-  ( [[DATABASE/skill/Society|Society]] )</b>: DC 13<br/><b><u>Unspecific Lore</u></b>:
-  DC 11<br/><b><u>Specific Lore</u></b>: DC 8'
 dexterity: '+1'
 element: null
 fly_speed: null

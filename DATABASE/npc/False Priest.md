@@ -12,14 +12,6 @@ creature_ability:
 - Sneak Attack
 - The Jig Is Up
 creature_family: '[[DATABASE/monsterfamily/Mystics|Mystics]]'
-description: 'Belief is perhaps the strongest force in the universe, driving many
-  to great heights. Instilling a sense of belief and then using that belief against
-  someone, however, is the discipline of a false priest. Combining their gifts of
-  deception, a silver tongue, and an impeccable sense of timing, the false priest
-  can gain influence among the powerful, entice a mark to dispose of all their possessions,
-  and make a believer out of a cynic.<br/><br/><b><u>Recall Knowledge - Humanoid</u>
-  ( [[DATABASE/skill/Society|Society]] )</b>: DC 19<br/><b><u>Unspecific Lore</u></b>:
-  DC 17<br/><b><u>Specific Lore</u></b>: DC 14'
 dexterity: '+4'
 element: null
 fly_speed: null

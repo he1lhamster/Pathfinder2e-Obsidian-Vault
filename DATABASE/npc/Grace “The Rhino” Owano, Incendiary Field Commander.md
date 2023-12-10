@@ -1,71 +1,72 @@
 ﻿---
-ac: '33'
-alignment: LN
+ac: '29'
+alignment: CN
 all_resistance: null
 burrow_speed: null
-charisma: '+0'
+charisma: '+4'
 climb_speed: null
 constitution: '+3'
 creature_ability:
-- Flurry of Blows
-- Flurry of Maneuvers
-- Powerful Fists
-- Stunning Fist
+- Attack of Opportunity
+- Celestial Rage
+- Devastator
+- Great Cleave
+- Rhino Charge
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 40<br/><b><u>Unspecific
-  Lore</u></b>: DC 38<br/><b><u>Specific Lore</u></b>: DC 35'
-dexterity: '+4'
+dexterity: '+3'
 element: null
 fly_speed: null
-fortitude: '+26'
-hp: '235'
-id: '1466'
+fortitude: '+21'
+hp: '175'
+id: '2082'
 immunity: null
 intelligence: '+0'
-land_speed: '25'
+land_speed: '30'
 language:
+- '[[DATABASE/language/Celestial|Celestial]]'
 - '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Goblin|Goblin]]'
-- '[[DATABASE/language/Tien|Tien]]'
-level: '12'
-max_speed: '25'
-name: Gomwai
-perception: '+21'
+level: '10'
+max_speed: '30'
+name: "Grace \u201CThe Rhino\u201D Owano"
+perception: '+19'
 rarity: Unique
-reflex: '+23'
+reflex: '+19'
 resistance: null
 rus_type_level: null
-sense:
-- '[[DATABASE/monsterability/Darkvision|darkvision]]'
+sense: null
 size: Medium
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +22'
-- '[[DATABASE/skill/Athletics|Athletics]] +27'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +24'
-- '[[DATABASE/skill/Stealth|Stealth]] +22'
-- '[[DATABASE/skill/Lore|Underworld Lore]] +20'
-source: '[[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #166:
-  Despair on Danger Island]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +19'
+- '[[DATABASE/skill/Athletics|Athletics]] +21'
+- '[[DATABASE/skill/Deception|Deception]] +18'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +20'
+- '[[DATABASE/skill/Stealth|Stealth]] +17'
+- '[[DATABASE/skill/Lore|Warfare Lore]] +16'
+source: '[[DATABASE/source/Pathfinder 183. Field of Maidens|Pathfinder #183: Field
+  of Maidens]]'
 speed:
-- 25 feet
-spell: null
+- 30 feet
+spell:
+- '[[DATABASE/spell/Angelic Wings|Angelic Wings]]'
+- '[[DATABASE/spell/Celestial Brand|Celestial Brand]]'
+- '[[DATABASE/spell/Divine Lance|Divine Lance]]'
+- '[[DATABASE/spell/Divine Wrath|Divine Wrath]]'
 strength: '+5'
 strength_req: '5'
 strongest_save:
 - Fortitude
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Goblin|Goblin]]'
+- '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: Darkvision
+vision: null
 weakest_save:
 - Will
 weakness: null
-will: '+20'
-wisdom: '+3'
+will: '+16'
+wisdom: '+0'
 
 ---
 # Grace “The Rhino” Owano, Incendiary Field Commander

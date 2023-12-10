@@ -1,63 +1,65 @@
 ﻿---
-ac: '14'
-alignment: NE
+ac: '35'
+alignment: CN
 all_resistance: null
 burrow_speed: null
-charisma: '+1'
+charisma: '+4'
 climb_speed: null
-constitution: '+2'
+constitution: '+5'
 creature_ability:
-- Stumbling Snag
+- Armag's Rage
+- Attack of Opportunity
+- Awesome Blow
+- Greatsword Critical Specialization
+- No Time to Die
+- Second Wind
+- Shoulder Slam
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 19<br/><b><u>Unspecific
-  Lore</u></b>: DC 17<br/><b><u>Specific Lore</u></b>: DC 14'
-dexterity: '+1'
+dexterity: '+2'
 element: null
 fly_speed: null
-fortitude: '+9'
-hp: '20'
-id: '1765'
+fortitude: '+28'
+hp: '300'
+id: '2188'
 immunity: null
-intelligence: '-1'
-land_speed: '20'
+intelligence: '+0'
+land_speed: '30'
 language:
-- '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Dwarven|Dwarven]]'
-level: '0'
-max_speed: '20'
-name: Ardissa's Porters
-perception: '+6'
-rarity: Rare
-reflex: '+3'
-resistance: null
+- '[[DATABASE/language/Hallit|Hallit]]'
+level: '14'
+max_speed: '30'
+name: Armag
+perception: '+24'
+rarity: Unique
+reflex: '+23'
+resistance:
+- physical 10 (weapons only)
 rus_type_level: null
-sense:
-- '[[DATABASE/monsterability/Darkvision|darkvision]]'
+sense: null
 size: Medium
 skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +6'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +3'
-source: '[[DATABASE/source/Pathfinder 175. Broken Tusk Moon|Pathfinder #175: Broken
-  Tusk Moon]]'
+- '[[DATABASE/skill/Athletics|Athletics]] +27'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +26'
+- '[[DATABASE/skill/Survival|Survival]] +24'
+source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 speed:
-- 20 feet
+- 30 feet
 spell: null
-strength: '+2'
-strength_req: '2'
+strength: '+5'
+strength_req: '5'
 strongest_save:
 - Fortitude
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Dwarf|Dwarf]]'
+- '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
-- '[[DATABASE/trait/Rare|Rare]]'
+- '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: Darkvision
+vision: null
 weakest_save:
 - Reflex
 weakness: null
-will: '+6'
+will: '+25'
 wisdom: '+2'
 
 ---

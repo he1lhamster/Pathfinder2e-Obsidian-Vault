@@ -10,16 +10,6 @@ creature_ability:
 - Sneak Attack
 - Tinker
 creature_family: '[[DATABASE/monsterfamily/Gremlin|Gremlin]]'
-description: 'Jinkins are sadistic tinkers who steal and sabotage items and take great
-  pride in their power to curse precious objects. They hold grudges and create convoluted
-  plans for revenge whenever they feel slighted, such as when a creature dares to
-  remove one of their curses. Rarely content to wreak simple mayhem, jinkins also
-  take immense pleasure in torture and murder, though they prefer to lead victims
-  into traps designed to capture or incapacitate rather than kill outright. Deep pits
-  are favorites, since victims who survive the fall face a slow death from starvation
-  and thirst. Jinkins enjoy gathering at the edge of pits to mock, tease, and torment.<br/><br/><b><u>Recall
-  Knowledge - Fey</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 15<br/><b><u>Unspecific
-  Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>: DC 10'
 dexterity: '+4'
 element: null
 fly_speed: null

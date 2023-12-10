@@ -12,19 +12,6 @@ creature_ability:
 - Starvation Aura
 - Swallow Whole
 creature_family: null
-description: "The dreaded gashadokuro is an undead haunter of the night, spawning\
-  \ as a giant skeleton that rises from the earth in the aftermath of a mass starvation\
-  \ event. These enormous creatures then seek to inflict their unending hunger on\
-  \ the living.<br/><br/> A gashadokuro that comes about due to a poor growing season\
-  \ is more prone to stalk remote village farmlands at night, while a gashadokuro\
-  \ that arose from the victims of a government-instigated food shortage has few compunctions\
-  \ about stomping straight into bustling cities in broad daylight. These latter gashadokuro\
-  \ even seem to target aristocrats and government authorities\u2014whether or not\
-  \ they were the same politicians whose negligence resulted in the famine in the\
-  \ first place\u2014leading many to believe that the gashadokuro seeks to slake its\
-  \ thirst for revenge even more than it seeks to sate its unending hunger.<br/><br/><b><u>Recall\
-  \ Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 33<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 31<br/><b><u>Specific Lore</u></b>: DC 28"
 dexterity: '+4'
 element: null
 fly_speed: null

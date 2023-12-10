@@ -20,18 +20,6 @@ creature_ability:
 - Mount Steed
 - Skinned Steed
 creature_family: null
-description: 'Bearing a resemblance to the flayed [[DATABASE/monster/Nuckelavee|nuckelavee]]
-  that lurks in stagnant swamps, the Kallas Devil distinguishes herself by being able
-  to separate herself from her mount without issue, as well as with her powers of
-  disguise and subtlety. Though her wicked trident and violent fury are enough to
-  sear her image into the minds of the local people, it''s the Kallas Devil''s ability
-  to slip unseen among her would-be victims that elevates the creature beyond the
-  ranks of a common horror. No matter how careful the residents of Riverton are with
-  their youth and the vulnerable, the Kallas Devil claims her chosen target more often
-  than not, luring the hapless victim toward doom while wearing a smiling child''s
-  face.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 36<br/><b><u>Unspecific Lore</u></b>: DC 34<br/><b><u>Specific Lore</u></b>:
-  DC 31'
 dexterity: '+4'
 element: null
 fly_speed: null

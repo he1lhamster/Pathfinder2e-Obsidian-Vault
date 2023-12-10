@@ -1,101 +1,75 @@
 ﻿---
-ac: '16'
-alignment: N
+ac: '30'
+alignment: CE
 all_resistance: null
 burrow_speed: null
-charisma: '+3'
+charisma: '+6'
 climb_speed: null
-constitution: '+1'
+constitution: '+4'
 creature_ability:
-- Baffling Bluff
-creature_family: null
-description: "Brownies make their homes in the trunks of hollow trees, small earthy\
-  \ burrows, and even under porches or within the crawl spaces of farmhouses. Often\
-  \ attired in clothes that appear to be made of plants or leaves, brownies wear belts\
-  \ lined with pouches and tools. Whatever language they choose to speak is often\
-  \ is riddled with odd pronunciations and colloquialisms. Their manner of speaking\
-  \ might call upon turns of phrase that are decades or even centuries out of vogue,\
-  \ for example, or they might mix up their metaphors in strange ways. It almost seems\
-  \ as if brownies adopt these quirky ways of speaking intentionally\u2014certainly\
-  \ they do not react favorably to corrections to their chatter. There's often no\
-  \ swifter way to annoy a brownie than to try to correct its grammar. Brownies stand\
-  \ barely 2 feet tall and weigh about 20 pounds.<br/><br/>When facing danger, brownies\
-  \ rarely engage in combat, preferring instead to confound and confuse their attackers\
-  \ in order to buy enough time for escape. Content with honest toil and the love\
-  \ of their kin, brownies maintain a pacifist nature, harassing creatures only to\
-  \ run them off or punish them for an insult. Despite this nature, all brownies carry\
-  \ a blade. They refer to their swords with a hint of disgust, and jokingly call\
-  \ their blades their \u201Cfinal trick,\u201D reserving their use for the direst\
-  \ of circumstances.<br/><br/>Honest to a fault, brownies take freely but always\
-  \ repay their debt through work or leave something behind as an offering. They may\
-  \ eat an apple from a farmer's orchard but harvest the entire tree as repayment.\
-  \ A brownie might eat an entire pie left on a windowsill, only to straighten up\
-  \ the kitchen or wash the dishes. A brownie can share a home with a family for years\
-  \ and years while avoiding detection. A family that is aware of a brownie in their\
-  \ midst usually finds this a beneficial relationship and leaves dishes of milk,\
-  \ pieces of fruit, trinkets, and sometimes even wine as gifts. In exchange, the\
-  \ resident brownie keeps the home clean, mends clothes, repairs tools, and shoos\
-  \ away vermin and small predators. Bragging about having a brownie in the house\
-  \ is the best way to lose one. Brownies distrust foxes and fear [[DATABASE/monster/Wolf|wolves]]\
-  \ , and they avoid farms with dogs.<br/><br/><b><u>Recall Knowledge - Fey</u> (\
-  \ [[DATABASE/skill/Nature|Nature]] )</b>: DC 15<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 13<br/><b><u>Specific Lore</u></b>: DC 10"
-dexterity: '+4'
+- Deceitful Feast
+- Psychic Sip
+creature_family: '[[DATABASE/monsterfamily/Brughadatch|Brughadatch]]'
+dexterity: '+3'
 element: null
 fly_speed: null
-fortitude: '+4'
+fortitude: '+22'
 hardness: null
-hp: '25'
-id: '575'
+hp: '210'
+id: '528'
 immunity: null
-intelligence: '+2'
-land_speed: '20'
+intelligence: '+0'
+land_speed: '25'
 language:
 - '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Elven|Elven]]'
-- '[[DATABASE/language/Gnomish|Gnomish]]'
 - '[[DATABASE/language/Sylvan|Sylvan]]'
-level: '1'
-max_speed: '20'
-name: Brownie
-perception: '+7'
+level: '10'
+max_speed: '25'
+name: Brughadatch
+perception: '+19'
 rarity: Common
-reflex: '+9'
+reflex: '+16'
 resistance: null
 rus_type_level: null
 school: null
 sense:
-- '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
-size: Tiny
+- darkvision
+size: Medium
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +7'
-- '[[DATABASE/skill/Crafting|Crafting]] +5'
-- '[[DATABASE/skill/Deception|Deception]] +6'
-- '[[DATABASE/skill/Stealth|Stealth]] +9'
-source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
+- '[[DATABASE/skill/Athletics|Athletics]] +19'
+- '[[DATABASE/skill/Deception|Deception]] +22'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +22'
+- '[[DATABASE/skill/Nature|Nature]] +22'
+- '[[DATABASE/skill/Survival|Survival]] +20'
+source: '[[DATABASE/source/Pathfinder 154. Siege of the Dinosaurs|Pathfinder #154:
+  Siege of the Dinosaurs]]'
 speed:
-- 20 feet
+- 25 feet
+- swim 25 feet
 spell:
-- '[[DATABASE/spell/Dancing Lights|Dancing Lights]]'
-- '[[DATABASE/spell/Dimension Door|Dimension Door]]'
-- '[[DATABASE/spell/Mending|Mending]]'
-- '[[DATABASE/spell/Prestidigitation|Prestidigitation]]'
-- '[[DATABASE/spell/Ventriloquism|Ventriloquism]]'
-strength: '-2'
-strength_req: '-2'
+- '[[DATABASE/spell/Charm|Charm]]'
+- '[[DATABASE/spell/Confusion|Confusion]]'
+- '[[DATABASE/spell/Detect Magic|Detect Magic]]'
+- '[[DATABASE/spell/Enthrall|Enthrall]]'
+- '[[DATABASE/spell/Faerie Fire|Faerie Fire]]'
+- '[[DATABASE/spell/Fear|Fear]]'
+- '[[DATABASE/spell/Hideous Laughter|HideousLaughter]]'
+- '[[DATABASE/spell/Produce Flame|Produce Flame]]'
+strength: '+5'
+strength_req: '5'
 strongest_save:
-- Reflex
-- Will
-swim_speed: null
+- Fortitude
+swim_speed: '25'
 trait:
+- '[[DATABASE/trait/Amphibious|Amphibious]]'
 - '[[DATABASE/trait/Fey|Fey]]'
 type: Creature
-vision: Low-light vision
+vision: Darkvision
 weakest_save:
-- Fortitude
+- Reflex
 weakness:
-- '[[DATABASE/equipment/Cold Iron|cold iron]] 3'
-will: '+9'
+- cold iron 10
+will: '+20'
 wisdom: '+4'
 
 ---

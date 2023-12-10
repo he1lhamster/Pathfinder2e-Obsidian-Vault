@@ -17,27 +17,6 @@ creature_ability:
 - Slow Aura
 - Twisting Tail
 creature_family: '[[DATABASE/monsterfamily/Dragon, Copper|Dragon, Copper]]'
-description: "Capricious and always eager to share a good laugh, copper dragons are\
-  \ among the wiliest of the metallic dragons, but this by no means interferes with\
-  \ their mission to spread freedom in oppressive lands. Copper dragons are hedonists\
-  \ who are quick to indulge in simple pleasures, but they\u2019re also sympathetic\
-  \ to other creatures, slow to pass judgment, and careful to always examine a situation\
-  \ from as many perspectives as possible. This philosophy has its drawbacks, however,\
-  \ as copper dragons are susceptible to negative influences and prone to forgiving\
-  \ the less serious evil acts performed by their chromatic cousins and other cruel\
-  \ creatures. Copper dragons also have a difficult time keeping their temper in check\
-  \ once they are roused to anger.<br/><br/> Copper dragons tend to lair in warm or\
-  \ temperate hills, but due to their nature, they move their lairs every few years.\
-  \ They sometimes live among other people, especially any dwarves who reside nearby.\
-  \ Some copper dragons even worship gods typically worshipped only by humanoids.\
-  \ Among these dragons, worship of Cayden Cailean is most popular, as they see his\
-  \ love of freedom and penchant for alcohol aligning with the typical copper dragon\
-  \ mindset.<br/><br/> A copper dragon\u2019s combat tactics are as unorthodox as\
-  \ its sense of humor, as it is more likely to use mockery and tricks than outright\
-  \ strength to win its battles. As a copper dragon ages, it perfects jokes capable\
-  \ of rendering its foes helpless with laughter.<br/><br/><b><u>Recall Knowledge\
-  \ - Dragon</u> ( [[DATABASE/skill/Arcana|Arcana]] )</b>: DC 38<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 36<br/><b><u>Specific Lore</u></b>: DC 33"
 dexterity: '+5'
 element: Earth
 fly_speed: '200'

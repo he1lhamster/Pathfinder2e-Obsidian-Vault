@@ -11,23 +11,6 @@ creature_ability:
 - Stench
 - Unassuming Cloak
 creature_family: null
-description: 'Resembling hornless goats with extremely long tails, sigbins live in
-  forests and prey on inhabitants of nearby humanoid villages. Sigbins drink the blood
-  of their victims by biting into their shadows, rather than their flesh. This process
-  typically leaves the victim so fatigued that they must lie down to rest, at which
-  point the sigbin finishes the job by sinking their jaws into the person''s chest
-  and consuming their heart.<br/><br/> Due to their nauseating smell, many sigbins
-  hide among livestock and in other overwhelmingly odorous places. Sigbins have the
-  ability to hide in plain sight simply by standing stock still, but this power works
-  only against adults and elders; for whatever reason, children and young animals
-  can see the invisible sigbins. Many believe this is because children are unsullied
-  by the cruel ways of the world, and so their eyes are still innocent enough to spot
-  the devious beasts. Unfortunately, most adults tend to ignore children''s cries
-  about the monsters, chalking up such claims to overactive imaginations or attention-seeking
-  behavior, inadvertently allowing sigbins to continue their hunts uninterrupted.<br/><br/><b><u>Recall
-  Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 20<br/><b><u>Unspecific Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>:
-  DC 15'
 dexterity: '+5'
 element: null
 fly_speed: null

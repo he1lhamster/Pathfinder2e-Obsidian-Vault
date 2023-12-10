@@ -11,25 +11,6 @@ creature_ability:
 - Axe Vulnerability
 - Memory Maelstrom
 creature_family: '[[DATABASE/monsterfamily/Arboreal|Arboreal]]'
-description: 'Arboreal archives are solitary beings typically found in the remote
-  wilderness. These ancient monoliths hold the memories of their vast territories,
-  keeping mental records of the passing seasons of the world around them. Their knowledge
-  of humanoid affairs varies, as they find quickly shifting political situations difficult
-  to comprehend, but through fungal networks, reports from [[DATABASE/monster/Arboreal
-  Warden|arboreal wardens]] , and other woodland chatter, arboreal archives learn
-  of each storm, drought, or logging threat encountered throughout their long years.
-  They primarily observe and record rather than interfere, but they willingly offer
-  wisdom to those who respectfully seek them out. [[DATABASE/monster/Arboreal Regent|Arboreal
-  regents]] call upon archives for advice in times of strife, conferring on the best
-  course of action to protect their realms.<br/><br/> It is rare for there to be more
-  than one arboreal archive in a given region. When an archive senses they''re nearing
-  the end of their lengthy lifespan, a grove of regents gathers to nominate the wisest
-  among them to become the next archive. After four seasons'' deliberation, all arboreals
-  in the area congregate to witness the succession ritual, during which the elder
-  arboreal archive transfers their collected wisdom to the elected replacement before
-  retiring.<br/><br/><b><u>Recall Knowledge - Plant</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 30<br/><b><u>Unspecific Lore</u></b>: DC 28<br/><b><u>Specific Lore</u></b>:
-  DC 25'
 dexterity: '-1'
 element: null
 fly_speed: null

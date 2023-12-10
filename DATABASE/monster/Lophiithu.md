@@ -12,14 +12,6 @@ creature_ability:
 - Lure Whip
 - Swallow Whole
 creature_family: null
-description: 'Lophiithus dwell in the deepest ocean trenches, places untouched by
-  light, hope, or mortal comprehension. They appear to be gaping maws with distended
-  jaws, vestigial flaps of putrefying flesh, and filamentous tentacles tipped with
-  glowing light. Their extraplanar mouths take up most of their bodies, leaving no
-  room for other organs, and any prey they swallow is transported to the [[DATABASE/plane/Maelstrom|Maelstrom]]
-  for digestion.<br/><br/><b><u>Recall Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]]
-  )</b>: DC 44<br/><b><u>Unspecific Lore</u></b>: DC 42<br/><b><u>Specific Lore</u></b>:
-  DC 39'
 dexterity: '+10'
 element: null
 fly_speed: null

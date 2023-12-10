@@ -1,71 +1,85 @@
 ﻿---
-ac: '27'
-alignment: N
+ac: '34'
+alignment: CE
 all_resistance: null
 burrow_speed: null
-charisma: '+3'
+charisma: '+7'
 climb_speed: null
-constitution: '+6'
+constitution: '+7'
 creature_ability:
-- Constrict
-- Desert Stride
-- Girtablilu Venom
-creature_family: '[[DATABASE/monsterfamily/Girtablilu|Girtablilu]]'
-description: 'Sentries patrol the outskirts of a girtablilu communities, watching
-  for external threats like [[DATABASE/monster/Desert Drake|desert drakes]] , [[DATABASE/monsterfamily/Dragon,
-  Blue|blue dragons]] , or adventuring parties set on reckless exploration of the
-  girtablilus'' sacred site.<br/><br/><b><u>Recall Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Nature|Nature]] )</b>: DC 24<br/><b><u>Unspecific Lore</u></b>:
-  DC 22<br/><b><u>Specific Lore</u></b>: DC 19'
-dexterity: '+4'
+- Captive Rake
+- Steady Spellcasting
+- Sudden Betrayal
+- Treacherous Veil
+- Truth Vulnerability
+- ''
+- Twisted Desires
+creature_family: '[[DATABASE/monsterfamily/Demon|Demon]]'
+dexterity: '+2'
 element: null
 fly_speed: null
-fortitude: '+20'
+fortitude: '+26'
 hardness: null
-hp: '160'
-id: '1170'
+hp: '280'
+id: '101'
 immunity: null
 intelligence: '+3'
-land_speed: '40'
+land_speed: '35'
 language:
-- '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Girtablilu|Girtablilu]]'
-level: '8'
-max_speed: '40'
-name: Girtablilu Sentry
-perception: '+18'
+- '[[DATABASE/language/Abyssal|Abyssal]]'
+- '[[DATABASE/language/Celestial|Celestial]]'
+- '[[DATABASE/language/Draconic|Draconic]] ; telepathy 100feet'
+- '[[DATABASE/spell/Tongues|tongues]]'
+level: '13'
+max_speed: '35'
+name: Glabrezu
+perception: '+24'
 rarity: Common
-reflex: '+16'
+reflex: '+19'
 resistance: null
 rus_type_level: null
 school: null
 sense:
-- '[[DATABASE/monsterability/Darkvision|darkvision]]'
-- '[[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) 60 feet'
-size: Large
+- darkvision
+- '[[DATABASE/spell/True Seeing|true seeing]]'
+size: Huge
 skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +20'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +17'
-- '[[DATABASE/skill/Religion|Religion]] +16'
-- '[[DATABASE/skill/Survival|Survival]] +18'
-source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
+- '[[DATABASE/skill/Deception|Deception]] +28'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +26'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +26'
+- '[[DATABASE/skill/Religion|Religion]] +22'
+- '[[DATABASE/skill/Society|Society]] +22'
+- '[[DATABASE/skill/Stealth|Stealth]] +21'
+source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
-- 40 feet
-spell: null
-strength: '+6'
-strength_req: '6'
+- 35 feet
+spell:
+- '[[DATABASE/spell/Confusion|Confusion]]'
+- '[[DATABASE/spell/Dimension Door|DimensionDoor]]'
+- '[[DATABASE/spell/Dispel Magic|Dispel Magic]]'
+- '[[DATABASE/spell/Illusory Disguise|Illusory Disguise]]'
+- '[[DATABASE/spell/Mirror Image|Mirror Image]]'
+- '[[DATABASE/spell/Reverse Gravity|Reverse Gravity]]'
+- '[[DATABASE/spell/Telekinetic Projectile|Telekinetic Projectile]]'
+- '[[DATABASE/spell/Tongues|Tongues]]'
+- '[[DATABASE/spell/True Seeing|True Seeing]]'
+strength: '+7'
+strength_req: '7'
 strongest_save:
 - Fortitude
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Beast|Beast]]'
+- '[[DATABASE/trait/Demon|Demon]]'
+- '[[DATABASE/trait/Fiend|Fiend]]'
 type: Creature
 vision: Darkvision
 weakest_save:
-- Will
-weakness: null
-will: '+12'
-wisdom: '+4'
+- Reflex
+weakness:
+- cold iron 10
+- good 10
+will: '+24'
+wisdom: '+3'
 
 ---
 # Glabrezu (Treachery Demon)

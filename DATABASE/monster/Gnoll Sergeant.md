@@ -12,14 +12,6 @@ creature_ability:
 - Pack Attack
 - Rugged Travel
 creature_family: '[[DATABASE/monsterfamily/Gnoll|Gnoll]]'
-description: "When gnolls band together to form hunting or raiding parties, the strongest\
-  \ among them is often designated the leader or sergeant. These gnolls train extensively\
-  \ in the art of war. Their skill at arms and the respect they command make them\
-  \ powerful adversaries. In smaller clans or single family units, a gnoll sergeant\
-  \ might also serve as the group\u2019s leader in other affairs, such as sorting\
-  \ out domestic disputes or negotiating with rival gnoll clans.<br/><br/><b><u>Recall\
-  \ Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 19<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 17<br/><b><u>Specific Lore</u></b>: DC 14"
 dexterity: '+2'
 element: null
 fly_speed: null

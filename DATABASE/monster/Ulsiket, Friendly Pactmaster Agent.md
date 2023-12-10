@@ -1,80 +1,97 @@
 ﻿---
-ac: '18'
-alignment: NE
+ac: '34'
+alignment: LG
 all_resistance: null
 burrow_speed: null
-charisma: '+2'
+charisma: '+4'
 climb_speed: null
-constitution: '+2'
+constitution: '+1'
 creature_ability:
+- Absorb Force
 - Attack of Opportunity
-- Necrotic Decay
-- Ravenous Attack
-- Wicked Bite
-creature_family: '[[DATABASE/monsterfamily/Urdefhan|Urdefhan]]'
-description: 'From the moment they are born, urdefhans are prepared for war. Urdefhan
-  warriors are among the least powerful urdefhans one might encounter outside of their
-  eerie underground cities.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 18<br/><b><u>Unspecific Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>:
-  DC 13'
-dexterity: '+1'
+- Flurry of Blows
+- Force Bolt
+- Meditative Therapy
+- Powerful
+- Fists
+creature_family: null
+dexterity: '+5'
 element: null
 fly_speed: null
-fortitude: '+9'
+fortitude: '+20'
 hardness: null
-hp: 55 ( negative healing )
-id: '840'
-immunity:
-- '[[DATABASE/trait/Death|death]] effects'
-- '[[DATABASE/trait/Disease|disease]]'
-- '[[DATABASE/trait/Fear|fear]]'
-intelligence: '+0'
+hp: '238'
+id: '2575'
+immunity: null
+intelligence: '+3'
 land_speed: '25'
 language:
-- '[[DATABASE/language/Aklo|Aklo]]'
-- '[[DATABASE/language/Daemonic|Daemonic]]'
-- '[[DATABASE/language/Undercommon|Undercommon]]'
-level: '3'
+- '[[DATABASE/language/Common|Common]]'
+- '[[DATABASE/language/Draconic|Draconic]]'
+- '[[DATABASE/language/Gnoll|Gnoll]]'
+- '[[DATABASE/language/Kelish|Kelish]]'
+- '[[DATABASE/language/Mwangi|Mwangi]]'
+- '[[DATABASE/language/Osiriani|Osiriani]]'
+- '[[DATABASE/language/Vudrani|Vudrani]] ; [[DATABASE/spell/Tongues|tongues]]'
+level: '13'
 max_speed: '25'
-name: Urdefhan Warrior
-perception: '+9'
-rarity: Common
-reflex: '+8'
-resistance: null
+name: Usilket
+perception: '+24'
+rarity: Unique
+reflex: '+24'
+resistance:
+- '[[DATABASE/trait/Force|force]] 10'
 rus_type_level: null
 school: null
 sense:
-- '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
+- '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
 skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +10'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +9'
-- '[[DATABASE/skill/Religion|Religion]] +7'
-- '[[DATABASE/skill/Survival|Survival]] +7'
-source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +24'
+- '[[DATABASE/skill/Athletics|Athletics]] +22'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +25'
+- '[[DATABASE/skill/Lore|Katapesh Lore]] +26'
+- '[[DATABASE/skill/Medicine|Medicine]] +24'
+- '[[DATABASE/skill/Lore|Mercantile Lore]] +24'
+- '[[DATABASE/skill/Performance|Performance]] +23'
+- '[[DATABASE/skill/Society|Society]] +26'
+source: '[[DATABASE/source/Pathfinder 191. The Destiny War|Pathfinder #191: The Destiny
+  War]]'
 speed:
 - 25 feet
 spell:
-- '[[DATABASE/spell/Death Knell|Death Knell]]'
-- '[[DATABASE/spell/Feather Fall|FeatherFall]]'
-- '[[DATABASE/spell/Ray of Enfeeblement|Ray of Enfeeblement]]'
+- '[[DATABASE/spell/Abundant Step|Abundant Step]]'
+- '[[DATABASE/spell/Detect Magic|Detect Magic]]'
+- '[[DATABASE/spell/Dimension Door|Dimension Door]]'
+- '[[DATABASE/spell/Dispel Magic|Dispel Magic]]'
+- '[[DATABASE/spell/Floating Disk|Floating Disk]]'
+- '[[DATABASE/spell/Ki Blast|Ki Blast]]'
+- '[[DATABASE/spell/Ki Rush|Ki Rush]]'
+- '[[DATABASE/spell/Ki Strike|KiStrike]]'
+- '[[DATABASE/spell/Mirror Image|Mirror Image]]'
+- '[[DATABASE/spell/Resilient Sphere|Resilient Sphere]]'
+- '[[DATABASE/spell/Resist Energy|Resist Energy]]'
+- '[[DATABASE/spell/Suggestion|Suggestion]]'
+- '[[DATABASE/spell/Tongues|Tongues]]'
+- '[[DATABASE/spell/Unseen Servant|UnseenServant]]'
+- '[[DATABASE/spell/Wholeness of Body|Wholeness of Body]]'
+- '[[DATABASE/spell/Wind Jump|Wind Jump]]'
 strength: '+3'
 strength_req: '3'
 strongest_save:
-- Fortitude
+- Reflex
 - Will
 swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
-- '[[DATABASE/trait/Urdefhan|Urdefhan]]'
+- '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: Greater darkvision
+vision: Darkvision
 weakest_save:
-- Reflex
-weakness:
-- positive 5
-will: '+9'
-wisdom: '+2'
+- Fortitude
+weakness: null
+will: '+24'
+wisdom: '+5'
 
 ---
 # Ulsiket, Friendly Pactmaster Agent

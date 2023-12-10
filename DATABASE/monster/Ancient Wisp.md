@@ -12,9 +12,6 @@ creature_ability:
 - Go Dark
 - Magic Immunity
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 32<br/><b><u>Unspecific
-  Lore</u></b>: DC 30<br/><b><u>Specific Lore</u></b>: DC 27'
 dexterity: '+7'
 element: Air
 fly_speed: '50'

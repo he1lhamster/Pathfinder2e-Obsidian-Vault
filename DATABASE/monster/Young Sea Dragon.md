@@ -18,17 +18,6 @@ creature_ability:
 - Hyponatremia
 - Liquefy
 creature_family: '[[DATABASE/monsterfamily/Dragon, Sea|Dragon, Sea]]'
-description: 'Sea dragons'' affinity with water grants them mastery over rain, storms,
-  and floods. Those whose livelihoods are at the mercy of the weather and waves frequently
-  venerate these great aquatic creatures. Most sea dragons respond kindly to requests,
-  but, like the sea, they can be unpredictable and fickle.<br/><br/> Sea dragons have
-  disk-shaped scales like fish and webbed claws as well as large back and tail fins
-  to aid in swimming. They appear in vivid and vibrant colors, like aquatic wildlife.
-  Underwater flora and fauna grow and thrive upon older sea dragons, and ancient sea
-  dragons often have a head of coral around their antlers, giving them the image of
-  being crowned royalty.<br/><br/><b><u>Recall Knowledge - Dragon</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  )</b>: DC 26<br/><b><u>Unspecific Lore</u></b>: DC 24<br/><b><u>Specific Lore</u></b>:
-  DC 21'
 dexterity: '+4'
 element: Water
 fly_speed: '100'

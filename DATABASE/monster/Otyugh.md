@@ -12,22 +12,6 @@ creature_ability:
 - Reposition
 - Stench
 creature_family: null
-description: "Lords of sewers, ditches, and landfllls, otyughs are filthy monstrosities\
-  \ that stomp about on three massive legs in search of tasty garbage and refuse.\
-  \ Using two barbed tentacles to grasp and tear, guided by a third with a proliferation\
-  \ of eyes at the end, the otyugh has perfectly adapted to life in its cramped, disgusting\
-  \ environment, where it uses its appendages to see into tight spaces and grasp hidden\
-  \ prey.<br/><br/> Most assume that otyughs originally evolved in swamps and moved\
-  \ into sewers as civilization encroached on their natural habitats. True or not,\
-  \ they are now one of the larger predators in those dank environs. Otyughs are territorial,\
-  \ but they have been known to form loose collectives, even giving each other important-sounding\
-  \ titles like \u201Cking of offal\u201D and \u201Cduchess of slime\u201D to indicate\
-  \ their rank and station in their sludgy underworld beneath the streets.<br/><br/>\
-  \ Those who run across an otyugh might be surprised to hear it speak, shouting at\
-  \ intruders to leave its putrid home or demanding tribute in the form of trash or\
-  \ other prizes of dubious nature.<br/><br/><b><u>Recall Knowledge - Aberration</u>\
-  \ ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 19<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 17<br/><b><u>Specific Lore</u></b>: DC 14"
 dexterity: '+2'
 element: null
 fly_speed: null

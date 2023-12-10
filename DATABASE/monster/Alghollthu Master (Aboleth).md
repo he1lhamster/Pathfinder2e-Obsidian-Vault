@@ -1,94 +1,76 @@
 ﻿---
-ac: '30'
-alignment: N
+ac: '23'
+alignment: LE
 all_resistance: null
 burrow_speed: null
-charisma: '+3'
+charisma: '+4'
 climb_speed: null
-constitution: '+5'
+constitution: '+6'
 creature_ability:
-- Drain Magic
-- Frenzied Beaks
-- Grieving Aura
-- See Magic
-- Soul Cage
-creature_family: '[[DATABASE/monsterfamily/Psychopomp|Psychopomp]]'
-description: 'Algeas protect (and sometimes retrieve) souls at risk of being claimed
-  by other entities, particularly spellcasters who dabbled with otherworldly forces
-  but never officially pledged their souls.<br/><br/><b><u>Recall Knowledge - Monitor</u>
-  ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 28<br/><b><u>Unspecific Lore</u></b>:
-  DC 26<br/><b><u>Specific Lore</u></b>: DC 23'
-dexterity: '+7'
+- Mucus Cloud
+- Slime
+creature_family: '[[DATABASE/monsterfamily/Alghollthu|Alghollthu]]'
+dexterity: '+1'
 element: null
-fly_speed: '40'
-fortitude: '+18'
+fly_speed: null
+fortitude: '+15'
 hardness: null
-hp: '144'
-id: '1420'
-immunity:
-- '[[DATABASE/trait/Death|death]] effects'
-- '[[DATABASE/trait/Disease|disease]]'
-- precision
-- '[[DATABASE/monsterability/Swarm Mind|swarm mind]]'
-intelligence: '+2'
-land_speed: '15'
+hp: '135'
+id: '2'
+immunity: null
+intelligence: '+3'
+land_speed: '10'
 language:
-- '[[DATABASE/language/Abyssal|Abyssal]]'
 - '[[DATABASE/language/Aklo|Aklo]]'
-- '[[DATABASE/language/Celestial|Celestial]]'
-- '[[DATABASE/language/Infernal|Infernal]]'
-- '[[DATABASE/language/Requian|Requian]]'
-level: '11'
-max_speed: '40'
-name: Algea
-perception: '+22'
-rarity: Common
-reflex: '+24'
-resistance:
-- bludgeoning 10
-- '[[DATABASE/trait/Negative|negative]] 10'
-- piercing 10
-- '[[DATABASE/trait/Poison|poison]] 10'
-- slashing 5
+- '[[DATABASE/language/Alghollthu|Alghollthu]]'
+- '[[DATABASE/language/Aquan|Aquan]]'
+- '[[DATABASE/language/Common|Common]]'
+- '[[DATABASE/language/Undercommon|Undercommon]]'
+level: '7'
+max_speed: '60'
+name: Alghollthu Master
+perception: '+17'
+rarity: Uncommon
+reflex: '+10'
+resistance: null
 rus_type_level: null
 school: null
 sense:
-- '[[DATABASE/monsterability/Darkvision|darkvision]]'
-- '[[DATABASE/monsterability/Lifesense|lifesense]] 60 feet'
-- see magic
-size: Large
+- darkvision
+size: Huge
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +22'
-- '[[DATABASE/skill/Lore|Boneyard Lore]] +21'
-- '[[DATABASE/skill/Occultism|Occultism]] +21'
-- '[[DATABASE/skill/Religion|Religion]] +20'
-- '[[DATABASE/skill/Stealth|Stealth]] +22'
-source: '[[DATABASE/source/Malevolence|Malevolence]]'
+- '[[DATABASE/skill/Athletics|Athletics]] +16'
+- '[[DATABASE/skill/Deception|Deception]] +15'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +15'
+- '[[DATABASE/skill/Lore|Lore]] +14'
+- '[[DATABASE/skill/Occultism|Occultism]] +16'
+source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
-- 15 feet
-- fly 40 feet
+- 10 feet
+- swim 60 feet
 spell:
-- '[[DATABASE/spell/Confusion|Confusion]]'
-- '[[DATABASE/spell/Invisibility|Invisibility]]'
-- '[[DATABASE/spell/Plane Shift|Plane Shift]]'
-- '[[DATABASE/spell/Talking Corpse|Talking Corpse]]'
-strength: '-1'
-strength_req: '-1'
+- '[[DATABASE/spell/Dominate|Dominate]]'
+- '[[DATABASE/spell/Hallucinatory Terrain|Hallucinatory Terrain]]'
+- '[[DATABASE/spell/Hypnotic Pattern|Hypnotic Pattern]]'
+- '[[DATABASE/spell/Illusory Object|Illusory Object]]'
+- '[[DATABASE/spell/Illusory Scene|Illusory Scene]]'
+- '[[DATABASE/spell/Project Image|Project Image]]'
+- '[[DATABASE/spell/Veil|Veil]]'
+strength: '+5'
+strength_req: '5'
 strongest_save:
-- Reflex
-swim_speed: null
+- Will
+swim_speed: '60'
 trait:
-- '[[DATABASE/trait/Monitor|Monitor]]'
-- '[[DATABASE/trait/Psychopomp|Psychopomp]]'
-- '[[DATABASE/trait/Swarm|Swarm]]'
+- '[[DATABASE/trait/Aberration|Aberration]]'
+- '[[DATABASE/trait/Aquatic|Aquatic]]'
+- '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
 vision: Darkvision
 weakest_save:
-- Fortitude
-weakness:
-- area damage 5
-- '[[DATABASE/trait/Splash|splash]] damage 5'
-will: '+22'
+- Reflex
+weakness: null
+will: '+16'
 wisdom: '+5'
 
 ---

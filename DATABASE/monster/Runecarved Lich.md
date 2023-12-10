@@ -19,11 +19,6 @@ creature_ability:
 - Stored Weapon
 - Summon Weapon
 creature_family: '[[DATABASE/monsterfamily/Lich|Lich]]'
-description: In their relentless pursuit of more magical might, some liches use their
-  rotting forms to hold magical secrets, hiding precious tomes in their ribcage, inscribing
-  formulas on their withered flesh, even replacing some bones with powerful magical
-  items. The process is painstaking, as the <i>soul cage</i> tries to repair any damage
-  caused by such alterations.
 dexterity: '+6'
 element: null
 fly_speed: null

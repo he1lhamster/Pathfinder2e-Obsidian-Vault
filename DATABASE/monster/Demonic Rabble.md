@@ -19,17 +19,6 @@ creature_ability:
 - Troop Defenses
 - Troop Movement
 creature_family: '[[DATABASE/monsterfamily/Demon Throng|Demon Throng]]'
-description: "The typical demon throng consists of a chaotic mix of less powerful\
-  \ demons\u2014 typically [[DATABASE/monster/Abrikandilu (Wrecker Demon)|abrikandilus]]\
-  \ , [[DATABASE/monster/Dretch (Sloth Demon)|dretches]] , and [[DATABASE/monster/Quasit|quasits]]\
-  \ , with a few [[DATABASE/monster/Brimorak (Arson Demon)|brimoraks]] , [[DATABASE/monster/Babau\
-  \ (Blood Demon)|babaus]] or other, more powerful demons swept up in the mayhem.\
-  \ This tangled mess of different creatures makes coordinated tactics untenable but,\
-  \ while individual demons in the throng might not be able to fully utilize their\
-  \ abilities, the throng itself makes up for these deficiencies with dangerous options\
-  \ of its own.<br/><br/><b><u>Recall Knowledge - Fiend</u> ( [[DATABASE/skill/Religion|Religion]]\
-  \ )</b>: DC 36<br/><b><u>Unspecific Lore</u></b>: DC 34<br/><b><u>Specific Lore</u></b>:\
-  \ DC 31"
 dexterity: '+4'
 element: null
 fly_speed: null

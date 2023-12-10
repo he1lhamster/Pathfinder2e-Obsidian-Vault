@@ -10,13 +10,6 @@ creature_ability:
 - Earth Glide
 - Rolling Charge
 creature_family: '[[DATABASE/monsterfamily/Elemental, Earth|Elemental, Earth]]'
-description: 'Living boulders roll and glide through the Plane of Earth, gathering
-  gemstones and metal shards until their surfaces resemble a ship''s hull covered
-  in barnacles. Barely more intelligent than many animals, living boulders fill much
-  the same role on the Plane of Earth as the great herd animals found on Material
-  Plane worlds.<br/><br/><b><u>Recall Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Nature|Nature]] )</b>: DC 16<br/><b><u>Unspecific Lore</u></b>:
-  DC 14<br/><b><u>Specific Lore</u></b>: DC 11'
 dexterity: '-1'
 element: Earth
 fly_speed: null

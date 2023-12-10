@@ -16,10 +16,6 @@ creature_ability:
 - Stunning Tail
 - Trample
 creature_family: '[[DATABASE/monsterfamily/Demon|Demon]]'
-description: 'Juggernauts of destruction, vavakias are formed from the souls of mortals
-  who extract, enslave, or consume the souls of others.<br/><br/><b><u>Recall Knowledge
-  - Fiend</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 40<br/><b><u>Unspecific
-  Lore</u></b>: DC 38<br/><b><u>Specific Lore</u></b>: DC 35'
 dexterity: '+4'
 element: null
 fly_speed: '40'

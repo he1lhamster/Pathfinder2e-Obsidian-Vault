@@ -10,10 +10,6 @@ creature_ability:
 - Gather Converts
 - Protect the Master!
 creature_family: '[[DATABASE/monsterfamily/Mystics|Mystics]]'
-description: 'A career of mystical accomplishments combined with a lifetime of subterfuge
-  and intimidation has elevated this occultist to a powerful position.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 23<br/><b><u>Unspecific
-  Lore</u></b>: DC 21<br/><b><u>Specific Lore</u></b>: DC 18'
 dexterity: '+4'
 element: null
 fly_speed: null

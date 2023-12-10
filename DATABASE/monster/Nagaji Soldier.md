@@ -10,13 +10,6 @@ creature_ability:
 - Attack of Opportunity
 - Slough Toxins
 creature_family: '[[DATABASE/monsterfamily/Nagaji|Nagaji]]'
-description: 'Nagaji are brawny bipeds with humanoid figures and serpentine heads.
-  Their bodies are covered in tightly layered scales that range in color from green
-  to brown, and almost all nagaji have a colorful ridge along their head and back.
-  Ophidian eyes lend nagaji an imperious visage, with irises that span every color
-  of the rainbow<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 16<br/><b><u>Unspecific Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>:
-  DC 11'
 dexterity: '+1'
 element: null
 fly_speed: null

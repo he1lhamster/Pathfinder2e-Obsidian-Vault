@@ -12,28 +12,6 @@ creature_ability:
 - Rejuvenation
 - Surreptitious Siege
 creature_family: null
-description: 'Sieges provoke lingering feelings of confinement and desperation. These
-  emotions can coalesce as a psychic presence that animates broken battlements as
-  quasi-intelligent constructs dubbed siege shards. The shard''s surface depicts the
-  conflicts that created it, which hold the key to dispersing its psychic presence.
-  A successful DC 18 check to [[DATABASE/action/Recall Knowledge|Recall Knowledge]]
-  is sufficient to identify the conflict that engendered the construct. A creature
-  aware of a shard''s generative conflict can attempt the following activity.<div
-  class="viewbox">{{ viewbox(type="action", id=625, name="Prove Peace") }}</div><span
-  class="trait"> [[DATABASE/trait/Concentrate|Concentrate]] </span><span class="trait">
-  [[DATABASE/trait/Manipulate|Manipulate]] </span><br/><b>Source</b> [[DATABASE/source/Pathfinder
-  157. Devil at the Dreaming Palace|Pathfinder #157: Devil at the Dreaming Palace]]
-  <br/><b>Requirements</b> You know the conflict that created a specific siege shard,
-  and the siege shard is [[DATABASE/condition/Immobilized|immobilized]] .<hr/>You
-  touch the siege shard, establish a mental connection, and relay facts of the conflict''s
-  resolution. Attempt a check to [[DATABASE/action/Recall Knowledge|Recall Knowledge]]
-  about the conflict that created the shard, using the siege shard''s Will DC. If
-  you succeed, you prove the conflict''s end, and the siege shard reverts to ordinary
-  stone. On a critical failure, images of the past conflict overwhelm you, and you
-  are [[DATABASE/condition/Confused|confused]] until the end of your next turn.<br/><br/><b><u>Recall
-  Knowledge - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]]
-  )</b>: DC 20<br/><b><u>Unspecific Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>:
-  DC 15'
 dexterity: '+3'
 element: null
 fly_speed: '25'

@@ -1,80 +1,81 @@
 ﻿---
-ac: '22'
+ac: '31'
 alignment: LE
 all_resistance: null
 burrow_speed: null
-charisma: '+1'
+charisma: '+4'
 climb_speed: null
-constitution: '+3'
+constitution: '+5'
 creature_ability:
-- Brutal Beating
-- Iron Mind
-- Knockdown
-- Light Blindness
-- Stop Right There!
-- Tight Formation
-creature_family: '[[DATABASE/monsterfamily/Duergar|Duergar]]'
-description: 'While the city guards patrol the Long Walk, the royal guards protect
-  King Orgukagan and the royal family, as well as important royal interests.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 22<br/><b><u>Unspecific
-  Lore</u></b>: DC 20<br/><b><u>Specific Lore</u></b>: DC 17'
-dexterity: '+2'
+- Attack of Opportunity
+- Bloodletting
+- Frightful Strike
+- Impaling Barb
+- Warden of Erebus
+creature_family: '[[DATABASE/monsterfamily/Devil|Devil]]'
+dexterity: '+6'
 element: null
-fly_speed: null
-fortitude: '+14'
+fly_speed: '30'
+fortitude: '+23'
 hardness: null
-hp: '90'
-id: '2697'
-immunity: null
+hp: '165'
+id: '609'
+immunity:
+- fire
 intelligence: '+1'
-land_speed: '20'
+land_speed: '25'
 language:
-- '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Dwarven|Dwarven]]'
-- '[[DATABASE/language/Undercommon|Undercommon]]'
-level: '5'
-max_speed: '20'
-name: Hagegraf Royal Guard
-perception: '+16'
-rarity: Uncommon
-reflex: '+11'
-resistance: null
+- '[[DATABASE/language/Celestial|Celestial]]'
+- '[[DATABASE/language/Draconic|Draconic]]'
+- '[[DATABASE/language/Infernal|Infernal]] ; [[DATABASE/monsterability/Telepathy|telepathy
+  100 feet]]'
+level: '11'
+max_speed: '30'
+name: Hamatula
+perception: '+24'
+rarity: Common
+reflex: '+20'
+resistance:
+- physical 10 (except [[DATABASE/equipment/Silver|silver]] )
+- poison 10
 rus_type_level: null
 school: null
 sense:
-- '[[DATABASE/monsterability/Darkvision|darkvision]]'
-- iron mind
+- '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 size: Medium
 skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +13'
-- '[[DATABASE/skill/Diplomacy|Diplomacy]] +10'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +10'
-- '[[DATABASE/skill/Society|Society]] +10'
-source: '[[DATABASE/source/Pathfinder 194. Cult of the Cave Worm|Pathfinder #194:
-  Cult of the Cave Worm]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +23'
+- '[[DATABASE/skill/Arcana|Arcana]] +18'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +21'
+- '[[DATABASE/skill/Religion|Religion]] +20'
+- '[[DATABASE/skill/Stealth|Stealth]] +23'
+- '[[DATABASE/skill/Survival|Survival]] +22'
+source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
-- 20 feet
+- 25 feet
+- fly 30 feet
 spell:
-- '[[DATABASE/spell/Blood Vendetta|Blood Vendetta]]'
-- '[[DATABASE/spell/Paranoia|Paranoia]]'
-- '[[DATABASE/spell/Sigil|Sigil]]'
-strength: '+4'
-strength_req: '4'
+- '[[DATABASE/spell/Dimension Door|Dimension Door]]'
+- '[[DATABASE/spell/Glyph of Warding|Glyph of Warding]]'
+- '[[DATABASE/spell/Harm|Harm]]'
+- '[[DATABASE/spell/Paralyze|Paralyze]]'
+- '[[DATABASE/spell/Produce Flame|ProduceFlame]]'
+strength: '+7'
+strength_req: '7'
 strongest_save:
 - Fortitude
-- Will
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Duergar|Duergar]]'
-- '[[DATABASE/trait/Dwarf|Dwarf]]'
-- '[[DATABASE/trait/Humanoid|Humanoid]]'
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
+- '[[DATABASE/trait/Devil|Devil]]'
+- '[[DATABASE/trait/Fiend|Fiend]]'
 type: Creature
-vision: Darkvision
+vision: Greater darkvision
 weakest_save:
 - Reflex
-weakness: null
-will: '+14'
+- Will
+weakness:
+- good 10
+will: '+20'
 wisdom: '+5'
 
 ---

@@ -10,10 +10,6 @@ creature_ability:
 - Trained Animal
 - Wild Empathy
 creature_family: '[[DATABASE/monsterfamily/Performers|Performers]]'
-description: 'Beast tamers bring the wild to civilization, rearing and training creatures
-  to follow their commands and perform flashy tricks that entertain audiences.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 19<br/><b><u>Unspecific
-  Lore</u></b>: DC 17<br/><b><u>Specific Lore</u></b>: DC 14'
 dexterity: '+1'
 element: null
 fly_speed: null

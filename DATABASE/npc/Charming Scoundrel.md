@@ -11,22 +11,6 @@ creature_ability:
 - Deny Advantage
 - Sneak Attack
 creature_family: '[[DATABASE/monsterfamily/Firebrands|Firebrands]]'
-description: '<i>This handsome gnome sports an impressive coiffure and a flashy costume
-  that catches the eye.</i><br/><br/>While most Firebrands enjoy the attention their
-  exploits bring, the charming scoundrel takes this to extremes, often boasting about
-  their daring exploits and attempting to parlay stories of their notorious deeds
-  into free drinks or lodging. The scoundrel sees little harm in taking credit for
-  any activities attributed to the organization, provided that intervention from local
-  law enforcement seems unlikely. They are likely to take on high-profile jobs for
-  the Firebrands just for the thrill of later recounting the narrow scrapes of their
-  adventure.<br/><br/> The charming scoundrel is as dramatic in combat as outside
-  of it, often darting from opponent to opponent and disorienting foes with flashy
-  swordplay. If a battle is going well, the scoundrel will often shout taunts at slow-footed
-  opponents or encouragement to allies. While prideful and competitive, the scoundrel
-  is a pragmatist at heart and will opt to add a tale of a cunning escape to their
-  repertoire if the odds seem stacked against them.<br/><br/><b><u>Recall Knowledge
-  - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 19<br/><b><u>Unspecific
-  Lore</u></b>: DC 17<br/><b><u>Specific Lore</u></b>: DC 14'
 dexterity: '+4'
 element: null
 fly_speed: null

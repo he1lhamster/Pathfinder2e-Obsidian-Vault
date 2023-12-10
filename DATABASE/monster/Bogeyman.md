@@ -14,13 +14,6 @@ creature_ability:
 - Striking Fear
 - Surprise Attack
 creature_family: '[[DATABASE/monsterfamily/Bogeyman|Bogeyman]]'
-description: "These nocturnal stalkers tail their chosen quarry for days, even weeks\
-  \ at a time, ominously showing up in back alleys, shadowy street corners, and even\
-  \ in victims\u2019 own homes before going in for the kill. For unfathomable reasons,\
-  \ a bogeyman may spare a victim\u2019s life and instead kidnap them, absconding\
-  \ to a far-off location before returning years later with a fresh bogey in tow.<br/><br/><b><u>Recall\
-  \ Knowledge - Fey</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 29<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 27<br/><b><u>Specific Lore</u></b>: DC 24"
 dexterity: '+7'
 element: null
 fly_speed: null

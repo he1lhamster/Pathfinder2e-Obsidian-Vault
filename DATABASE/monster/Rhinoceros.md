@@ -10,13 +10,6 @@ creature_ability:
 - Rhinoceros Charge
 - Trample
 creature_family: '[[DATABASE/monsterfamily/Rhinoceros|Rhinoceros]]'
-description: 'Rhinoceroses are short-tempered, territorial, and easily startled, and
-  these traits combined with their innate ferocity means their natural instinct when
-  disturbed is to attack. When intruders disturb or surprise rhinoceroses, the animals
-  respond by charging directly at the interlopers and then lashing out with their
-  mighty horns.<br/><br/><b><u>Recall Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 19<br/><b><u>Unspecific Lore</u></b>: DC 17<br/><b><u>Specific Lore</u></b>:
-  DC 14'
 dexterity: '+0'
 element: null
 fly_speed: null

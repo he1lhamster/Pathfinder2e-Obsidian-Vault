@@ -1,69 +1,68 @@
 ﻿---
-ac: '33'
-alignment: N
+ac: '17'
+alignment: CG
 all_resistance: null
 burrow_speed: null
-charisma: '+1'
+charisma: '+0'
 climb_speed: null
-constitution: '+4'
+constitution: '+0'
 creature_ability:
-- Attack of Opportunity
-- Dueling Expertise
-- Swift Blow
+- Mobility
+- Nimble Dodge
+- Sneak Attack
+- Surprise Attack
 creature_family: null
-description: 'The weapon master is a deadly expert with their weapon of choice. Whenever
-  possible, the weapon master engages an opponent one on one, and they prefer to begin
-  combat unarmed and use their Swift Blow to catch a foe unawares.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 33<br/><b><u>Unspecific
-  Lore</u></b>: DC 31<br/><b><u>Specific Lore</u></b>: DC 28'
-dexterity: '+2'
+dexterity: '+4'
 element: null
 fly_speed: null
-fortitude: '+26'
-hp: '250'
-id: '1449'
+fortitude: '+7'
+hp: '30'
+id: '1444'
 immunity: null
-intelligence: '+2'
-land_speed: '25'
+intelligence: '+1'
+land_speed: '30'
 language:
 - '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Tien|Tien]]'
-level: '13'
-max_speed: '25'
-name: Weapon Master
-perception: '+23'
-rarity: Uncommon
-reflex: '+22'
+- '[[DATABASE/language/Elven|Elven]]'
+level: '2'
+max_speed: '30'
+name: Wendlyn
+perception: '+10'
+rarity: Unique
+reflex: '+9'
 resistance: null
 rus_type_level: null
-sense: null
+sense:
+- '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +23'
-- '[[DATABASE/skill/Athletics|Athletics]] +26'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +22'
-- '[[DATABASE/skill/Survival|Survival]] +24'
-- '[[DATABASE/skill/Lore|Warfare Lore]] +23'
-source: '[[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #166:
-  Despair on Danger Island]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +10'
+- '[[DATABASE/skill/Deception|Deception]] +6'
+- '[[DATABASE/skill/Lore|Otari Lore]] +7'
+- '[[DATABASE/skill/Society|Society]] +7'
+- '[[DATABASE/skill/Stealth|Stealth]] +8'
+- '[[DATABASE/skill/Thievery|Thievery]] +10'
+source: '[[DATABASE/source/No-Prep Character. Wendlyn|No-Prep Character: Wendlyn]]'
 speed:
-- 25 feet
+- 30 feet; mobility
 spell: null
-strength: '+5'
-strength_req: '5'
+strength: '+2'
+strength_req: '2'
 strongest_save:
-- Fortitude
+- Will
 swim_speed: null
 trait:
+- '[[DATABASE/trait/Elf|Elf]]'
+- '[[DATABASE/trait/Half-Elf|Half-Elf]]'
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
+- '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
+vision: Low-light vision
 weakest_save:
-- Reflex
+- Fortitude
 weakness: null
-will: '+24'
+will: '+11'
 wisdom: '+3'
 
 ---

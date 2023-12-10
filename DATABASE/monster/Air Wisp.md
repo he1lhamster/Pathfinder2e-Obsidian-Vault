@@ -11,11 +11,6 @@ creature_ability:
 - In Concert
 - Resonance
 creature_family: '[[DATABASE/monsterfamily/Elemental, Wisp|Elemental, Wisp]]'
-description: 'Air wisps are floating spheres of cloud and storm, perpetually humming
-  a light, whispery tone. They''re playful and capricious with great curiosity toward
-  strangers.<br/><br/><b><u>Recall Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Nature|Nature]] )</b>: DC 14<br/><b><u>Unspecific Lore</u></b>:
-  DC 12<br/><b><u>Specific Lore</u></b>: DC 9'
 dexterity: '+3'
 element: Air
 fly_speed: '40'

@@ -10,11 +10,6 @@ creature_ability:
 - Swarming Bites
 - Voracious Consumption
 creature_family: '[[DATABASE/monsterfamily/Silverfish|Silverfish]]'
-description: 'It''s uncommon for silverfish to congregate in sufficient numbers to
-  constitute a swarm, but forgotten libraries or similar out-of-the-way places might
-  harbor a multitude of the voracious pests.<br/><br/><b><u>Recall Knowledge - Animal</u>
-  ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 15<br/><b><u>Unspecific Lore</u></b>:
-  DC 13<br/><b><u>Specific Lore</u></b>: DC 10'
 dexterity: '+3'
 element: null
 fly_speed: null

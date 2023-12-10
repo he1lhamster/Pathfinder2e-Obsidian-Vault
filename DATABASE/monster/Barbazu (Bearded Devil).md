@@ -1,81 +1,76 @@
 ﻿---
-ac: '48'
-alignment: CN
+ac: '22'
+alignment: LE
 all_resistance: null
 burrow_speed: null
 charisma: '+1'
 climb_speed: null
-constitution: '+8'
+constitution: '+4'
 creature_ability:
-- All-Around Vision
 - Attack of Opportunity
-- Breath of the Sea
-- Double Opportunity
-- Psychic Static
-- Aura
-- Shell Rake
-- Two Heads
-- Two-Headed Strike
-creature_family: null
-description: "Few sea monsters are as dreaded and feared as the two-headed baomal.\
-  \ These massive predatory beasts typically dwell in the deepest waters and compete\
-  \ with krakens and other monsters for food. They feed on whales and other large\
-  \ sea creatures, sometimes following them to the water\u2019s surface. Near the\
-  \ surface, baomals that encounter ships quickly learn that they contain a variety\
-  \ of tasty morsels. The creatures use their devastating spikes to rip open the ships\u2019\
-  \ hulls, then leisurely feed on the helpless sailors.<br/><br/><b><u>Recall Knowledge\
-  \ - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 40<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 38<br/><b><u>Specific Lore</u></b>: DC 35"
+- Avernal Fever
+- Infernal Wound
+- Reposition
+- Wriggling Beard
+creature_family: '[[DATABASE/monsterfamily/Devil|Devil]]'
 dexterity: '+2'
 element: null
 fly_speed: null
-fortitude: '+36'
+fortitude: '+15'
 hardness: null
-hp: '315'
-id: '40'
-immunity: null
-intelligence: '-3'
-land_speed: '50'
+hp: '60'
+id: '110'
+immunity:
+- '[[DATABASE/trait/Fire|fire]]'
+intelligence: '-2'
+land_speed: '35'
 language:
-- '[[DATABASE/language/Aklo|Aklo]]'
-level: '20'
-max_speed: '80'
-name: Baomal
-perception: '+34'
+- '[[DATABASE/language/Celestial|Celestial]]'
+- '[[DATABASE/language/Common|Common]]'
+- '[[DATABASE/language/Draconic|Draconic]]'
+- '[[DATABASE/language/Infernal|Infernal]] ; telepathy 100 feet'
+level: '5'
+max_speed: '35'
+name: Barbazu
+perception: '+13'
 rarity: Common
-reflex: '+30'
+reflex: '+11'
 resistance:
-- physical 10
+- physical 5 (except [[DATABASE/equipment/Silver Weapon|silver]] )
+- '[[DATABASE/trait/Poison|poison]] 10'
 rus_type_level: null
 school: null
 sense:
-- darkvision
-- scent (imprecise) 80 feet
-size: Gargantuan
+- greater darkvision
+size: Medium
 skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +41'
-- '[[DATABASE/skill/Stealth|Stealth]] +31'
-- '[[DATABASE/skill/Survival|Survival]] +37'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +11'
+- '[[DATABASE/skill/Athletics|Athletics]] +13'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +10'
+- '[[DATABASE/skill/Religion|Religion]] +11'
+- '[[DATABASE/skill/Stealth|Stealth]] +11'
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
-- 50 feet
-- swim 80 feet
-spell: null
-strength: '+10'
-strength_req: '10'
+- 35 feet
+spell:
+- '[[DATABASE/spell/Dimension Door|Dimension Door]]'
+strength: '+4'
+strength_req: '4'
 strongest_save:
 - Fortitude
-swim_speed: '80'
+swim_speed: null
 trait:
-- '[[DATABASE/trait/Aberration|Aberration]]'
-- '[[DATABASE/trait/Aquatic|Aquatic]]'
+- '[[DATABASE/trait/Devil|Devil]]'
+- '[[DATABASE/trait/Fiend|Fiend]]'
 type: Creature
-vision: Darkvision
+vision: Greater darkvision
 weakest_save:
 - Reflex
-weakness: null
-will: '+34'
-wisdom: '+6'
+- Will
+weakness:
+- good 5
+will: '+11'
+wisdom: '+2'
 
 ---
 # Barbazu (Bearded Devil)

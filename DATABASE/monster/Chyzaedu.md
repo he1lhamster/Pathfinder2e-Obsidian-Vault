@@ -11,18 +11,6 @@ creature_ability:
 - Ecstatic Hunger
 - Swallow Whole
 creature_family: null
-description: "Chyzaedus' home world was consumed millennia ago by the Dominion of\
-  \ the Black via the manipulation of a black hole. Rather than accept destruction\
-  \ or fight back, the chyzaedus instead joined forces with their destroyers, seeing\
-  \ in them a greater purpose than mere world domination. Today, chyzaedus serve in\
-  \ a role akin to a priesthood for the Dominion and take a sinister interest in bringing\
-  \ their beliefs to new worlds, teaching ignorant dwellers the glory of pure entropic\
-  \ destruction. Much like the black holes they venerate, chyzaedus possess an eternal\
-  \ hunger for sustenance and knowledge alike\u2014they can never be sated by either,\
-  \ yet they will never starve as long as there are mortals whose energy they can\
-  \ feed upon.<br/><br/><b><u>Recall Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]]\
-  \ )</b>: DC 32<br/><b><u>Unspecific Lore</u></b>: DC 30<br/><b><u>Specific Lore</u></b>:\
-  \ DC 27"
 dexterity: '+3'
 element: null
 fly_speed: null

@@ -11,20 +11,6 @@ creature_ability:
 - Ill Omen
 - Steal Soul
 creature_family: null
-description: 'Cat siths can easily pass for common black house cats, noteworthy only
-  for the white spots on their chests and their unusually bristly personalities. In
-  actuality, they are cunning fey, fully capable of speech, trickery, and even walking
-  upright on their hind legs and using their forepaws almost as skillfully as hands.
-  Cat siths live around highland towns and cities, regularly venturing unnoticed into
-  nearby communities by posing as domesticated felines or using magic to take humanoid
-  form. While some cat siths gather information and undertake tasks for more powerful
-  fey creatures, others serve only their own mysterious agendas.<br/><br/> Cat siths
-  are harbingers of misfortune and find amusement in the unluckiness that follows
-  in their wake. Though they are rarely malicious, they are fascinated by death in
-  all its forms, and may go so far as to steal the souls of the dying for some inscrutable
-  purpose.<br/><br/><b><u>Recall Knowledge - Fey</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 24<br/><b><u>Unspecific Lore</u></b>: DC 22<br/><b><u>Specific Lore</u></b>:
-  DC 19'
 dexterity: '+5'
 element: null
 fly_speed: null

@@ -1,103 +1,118 @@
 ﻿---
-ac: '26'
-alignment: NE
+ac: '54'
+alignment: CN
 all_resistance: null
 burrow_speed: null
-charisma: '+3'
-climb_speed: '20'
-constitution: '+4'
+charisma: '+12'
+climb_speed: null
+constitution: '+7'
 creature_ability:
-- Prickly Defense
-- Rolling Assault
-- Sneak Attack
+- Adjust Temperature
+- Attack of Opportunity
+- Blindness
+- Change Shape
+- Drain Luck
+- Fortune's
+- Friend
+- Lantern King's Glow
+- Mocking Laughter
+- Playful Switch
+- Prismatic Burst
+- Reactive
 creature_family: null
-description: "Avareks delight in tormenting ship's crews and causing shipwrecks off\
-  \ the coasts of Garund and the Inner Sea. Bipedal, aquatic fey covered in long,\
-  \ urchin-like spines, avareks stand 2 feet tall\u2014or 3 feet tall if measured\
-  \ to the tips of their spines\u2014and weigh fewer than 30 pounds.<br/><br/> Avareks\
-  \ rely on subtlety and subterfuge to indulge their destructive whims, using magic\
-  \ to sabotage ships and cloud the minds of crew members and passengers. Patient\
-  \ and cunning, avareks lurk beneath or within a targeted vessel for weeks, building\
-  \ conflict and mistrust. Soon, shipmates accuse one another of theft and treachery;\
-  \ superstitious crew members might believe their ship is haunted. Eventually, the\
-  \ crew becomes too frightened or mistrustful to save their ship from the avareks'\
-  \ sabotage.<br/><br/> Avareks take pride in their sunken trophies, claiming the\
-  \ wrecks of ships they've destroyed as their homes and gorging on the bloated, water-logged\
-  \ corpses of the crew and passengers.<br/><br/><b><u>Recall Knowledge - Fey</u>\
-  \ ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 26<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 24<br/><b><u>Specific Lore</u></b>: DC 21"
-dexterity: '+5'
-element: null
-fly_speed: null
-fortitude: '+16'
+dexterity: '+12'
+element: Fire
+fly_speed: '60'
+fortitude: '+36'
 hardness: null
-hp: '150'
-id: '998'
-immunity: null
-intelligence: '+3'
-land_speed: '20'
+hp: '500'
+id: '2196'
+immunity:
+- bleed
+- '[[DATABASE/condition/Blinded|blinded]]'
+- '[[DATABASE/condition/Controlled|controlled]]'
+- '[[DATABASE/condition/Dazzled|dazzled]]'
+- '[[DATABASE/domain/Death Domain|death]] effects'
+- '[[DATABASE/condition/Doomed|doomed]]'
+- '[[DATABASE/trait/Fire|fire]]'
+- '[[DATABASE/trait/Sleep|sleep]]'
+- '[[DATABASE/condition/Unconscious|unconscious]]'
+intelligence: '+9'
+land_speed: null
 language:
-- '[[DATABASE/language/Aquan|Aquan]]'
+- '[[DATABASE/language/Aklo|Aklo]]'
 - '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Undercommon|Undercommon]] ; [[DATABASE/spell/Speak with Animals|speak
-  with animals]]'
-level: '8'
-max_speed: '50'
-name: Avarek
-perception: '+16'
-rarity: Uncommon
-reflex: '+19'
-resistance: null
+- '[[DATABASE/language/Sylvan|Sylvan]] ; [[DATABASE/monsterability/Telepathy|telepathy]]
+  300 feet'
+- '[[DATABASE/spell/Tongues|tongues]]'
+level: '24'
+max_speed: '60'
+name: Avatar of the Lantern King
+perception: '+39'
+rarity: Unique
+reflex: '+39'
+resistance:
+- physical 20 (except [[DATABASE/equipment/Cold Iron Weapon|cold iron]] )
 rus_type_level: null
 school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
-size: Small
+- '[[DATABASE/spell/True Seeing|true seeing]]'
+size: Gargantuan
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +17'
-- '[[DATABASE/skill/Athletics|Athletics]] +14'
-- '[[DATABASE/skill/Deception|Deception]] +17'
-- '[[DATABASE/skill/Nature|Nature]] +16'
-- '[[DATABASE/skill/Lore|SailingLore]] +15'
-- '[[DATABASE/skill/Stealth|Stealth]] +19'
-- '[[DATABASE/skill/Survival|Survival]] +16'
-- '[[DATABASE/skill/Thievery|Thievery]] +19'
-source: '[[DATABASE/source/Pathfinder 159. All or Nothing|Pathfinder #159: All or
-  Nothing]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +46'
+- '[[DATABASE/skill/Arcana|Arcana]] +41'
+- '[[DATABASE/skill/Athletics|Athletics]] +41'
+- '[[DATABASE/skill/Deception|Deception]] +49'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +42'
+- '[[DATABASE/skill/Lore|First World Lore]] +43'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +46'
+- '[[DATABASE/skill/Nature|Nature]] +46'
+- '[[DATABASE/skill/Occultism|Occultism]] +41'
+- '[[DATABASE/skill/Religion|Religion]] +41'
+- '[[DATABASE/skill/Society|Society]] +39'
+- '[[DATABASE/skill/Stealth|Stealth]] +42'
+- '[[DATABASE/skill/Thievery|Thievery]] +42'
+source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 speed:
-- 20 feet
-- climb 20 feet
-- swim 50 feet
+- fly 60 feet
 spell:
-- '[[DATABASE/spell/Confusion|Confusion]]'
-- '[[DATABASE/spell/Grease|Grease]]'
-- '[[DATABASE/spell/Gust of Wind|Gust of Wind]]'
-- '[[DATABASE/spell/Hydraulic Push|Hydraulic Push]]'
-- '[[DATABASE/spell/Hydraulic Torrent|Hydraulic Torrent]]'
-- '[[DATABASE/spell/Invisibility|Invisibility]]'
-- '[[DATABASE/spell/Prestidigitation|Prestidigitation]]'
-- '[[DATABASE/spell/Shatter|Shatter]]'
-- '[[DATABASE/spell/Speak with Animals|Speak with Animals]]'
-- '[[DATABASE/spell/Suggestion|Suggestion]]'
-- '[[DATABASE/spell/Ventriloquism|Ventriloquism]]'
-strength: '+2'
-strength_req: '2'
+- '[[DATABASE/spell/Dancing Lights|Dancing Lights]]'
+- '[[DATABASE/spell/Disjunction|Disjunction]]'
+- '[[DATABASE/spell/Fireball|Fireball]]'
+- '[[DATABASE/spell/Illusory Creature|Illusory Creature]]'
+- '[[DATABASE/spell/Illusory Object|Illusory Object]]'
+- '[[DATABASE/spell/Illusory Scene|Illusory Scene]]'
+- '[[DATABASE/spell/Light|Light]]'
+- '[[DATABASE/spell/Meteor Swarm|MeteorSwarm]]'
+- '[[DATABASE/spell/Plane Shift|Plane Shift]]'
+- '[[DATABASE/spell/Primal Phenomenon|Primal Phenomenon]]'
+- '[[DATABASE/spell/Prismatic Spray|Prismatic Spray]]'
+- '[[DATABASE/spell/Produce Flame|Produce Flame]]'
+- '[[DATABASE/spell/Read Aura|Read Aura]]'
+- '[[DATABASE/spell/Sunburst|Sunburst]]'
+- '[[DATABASE/spell/Teleport|Teleport]]'
+- '[[DATABASE/spell/Tongues|Tongues]]'
+- '[[DATABASE/spell/True Seeing|True Seeing]]'
+- '[[DATABASE/spell/Wall of Fire|Wall of Fire]]'
+strength: '+9'
+strength_req: '9'
 strongest_save:
-- Reflex
-swim_speed: '50'
+- Will
+swim_speed: null
 trait:
-- '[[DATABASE/trait/Amphibious|Amphibious]]'
 - '[[DATABASE/trait/Fey|Fey]]'
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
+- '[[DATABASE/trait/Fire|Fire]]'
+- '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-- Will
 weakness:
-- cold iron 8
-will: '+16'
-wisdom: '+4'
+- cold iron 20
+- '[[DATABASE/trait/Cold|cold]] 25'
+will: '+41'
+wisdom: '+7'
 
 ---
 # The Lantern King

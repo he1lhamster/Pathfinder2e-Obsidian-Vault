@@ -9,13 +9,6 @@ constitution: '+1'
 creature_ability:
 - Deep Breath
 creature_family: '[[DATABASE/monsterfamily/Lizardfolk|Lizardfolk]]'
-description: "The tradition of astrology and looking to the stars for both navigation\
-  \ and prognostication is well-established in iruxi society, and their wise and observant\
-  \ stargazers are among the people\u2019s most respected members. Even the lowliest\
-  \ stargazer, as presented here, has a number of useful primal spells to aid their\
-  \ kin; in larger iruxi settlements, stargazers wield even greater powers.<br/><br/><b><u>Recall\
-  \ Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 16<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>: DC 11"
 dexterity: '+2'
 element: null
 fly_speed: null

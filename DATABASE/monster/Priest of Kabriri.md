@@ -13,16 +13,6 @@ creature_ability:
 - Paralysis
 - Swift Leap
 creature_family: '[[DATABASE/monsterfamily/Ghoul|Ghoul]]'
-description: 'A great number of powerful entities have vied for the mantle of patron
-  of the undead, but none of these is more venerated among ghouls than the demon lord
-  [[DATABASE/deity/Kabriri|Kabriri]] , Him Who Gnaws. Nearly all ghouls who are inclined
-  to worship gods dedicate themselves to Kabriri, who is honored through profane rituals
-  and macabre ceremonies centered on the gluttonous consumption of sentient beings.
-  Presiding over these liturgies are the priests of Kabriri, particularly vile and
-  cunning ghouls who are specifically tasked by their primogenitor with the duty to
-  ensure his numerous progeny need never go hungry.<br/><br/><b><u>Recall Knowledge
-  - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 20<br/><b><u>Unspecific
-  Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>: DC 15'
 dexterity: '+3'
 element: null
 fly_speed: null

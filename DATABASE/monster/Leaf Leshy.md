@@ -12,11 +12,6 @@ creature_ability:
 - Glide
 - Verdant Burst
 creature_family: '[[DATABASE/monsterfamily/Leshy|Leshy]]'
-description: 'Leaf leshys are diminutive protectors of forests clad in pine cone armor
-  and hats of fruit, flowers, or leaves. They enjoy mock battles but act cautiously
-  in real ones.<br/><br/><b><u>Recall Knowledge - Plant</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 14<br/><b><u>Unspecific Lore</u></b>: DC 12<br/><b><u>Specific Lore</u></b>:
-  DC 9'
 dexterity: '+2'
 element: null
 fly_speed: null

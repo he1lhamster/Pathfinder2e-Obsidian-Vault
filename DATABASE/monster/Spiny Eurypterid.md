@@ -11,13 +11,6 @@ creature_ability:
 - Chitinous Spines
 - Spiny Eurypterid Venom
 creature_family: '[[DATABASE/monsterfamily/Eurypterid|Eurypterid]]'
-description: 'Spiny eurypterids are aggressive, tenacious, and utterly unwilling to
-  stop chasing prey, even to their own detriment. These creatures are covered with
-  countless needle-like spikes and can grow to rival the size of ocean mammals like
-  orcas. Sailors often find them clinging to the hulls of ships, as spiny eurypterids
-  mistake them for prey and are too stubborn to let go.<br/><br/><b><u>Recall Knowledge
-  - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 20<br/><b><u>Unspecific
-  Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>: DC 15'
 dexterity: '+2'
 element: null
 fly_speed: null

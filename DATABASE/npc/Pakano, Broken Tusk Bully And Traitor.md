@@ -1,64 +1,54 @@
 ﻿---
-ac: '12'
-alignment: CG
+ac: '20'
+alignment: CE
 all_resistance: null
 burrow_speed: null
-charisma: '+3'
+charisma: '+0'
 climb_speed: null
 constitution: '+2'
 creature_ability:
-- Divine Font
-- Healing Hands
+- Attack of Opportunity
+- Hunt Prey
+- Shield Block
+- Spear Fighter
+- Spurred by Death
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 26<br/><b><u>Unspecific
-  Lore</u></b>: DC 24<br/><b><u>Specific Lore</u></b>: DC 21'
-dexterity: '+0'
+dexterity: '+2'
 element: null
 fly_speed: null
-fortitude: '+6'
-hp: '30'
-id: '2737'
+fortitude: '+14'
+hp: '70'
+id: '1769'
 immunity: null
-intelligence: '+1'
+intelligence: '+0'
 land_speed: '25'
 language:
-- '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Thassilonian|Thassilonian]]'
-- '[[DATABASE/language/Varisian|Varisian]]'
-level: '2'
+- '[[DATABASE/language/Hallit|Hallit]]'
+level: '4'
 max_speed: '25'
-name: Ordwi
-perception: '+8'
+name: Pakano
+perception: '+11'
 rarity: Unique
-reflex: '+4'
+reflex: '+8'
 resistance: null
 rus_type_level: null
 sense: null
 size: Medium
 skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +4'
-- '[[DATABASE/skill/Crafting|Crafting]] +5'
-- '[[DATABASE/skill/Diplomacy|Diplomacy]] +7'
-- '[[DATABASE/skill/Religion|Religion]] +8'
-- '[[DATABASE/skill/Society|Society]] +5'
-source: '[[DATABASE/source/Rusthenge|Rusthenge]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +10'
+- '[[DATABASE/skill/Athletics|Athletics]] +12'
+- '[[DATABASE/skill/Deception|Deception]] +8'
+- '[[DATABASE/skill/Nature|Nature]] +9'
+- '[[DATABASE/skill/Survival|Survival]] +11'
+source: '[[DATABASE/source/Pathfinder 175. Broken Tusk Moon|Pathfinder #175: Broken
+  Tusk Moon]]'
 speed:
 - 25 feet
-spell:
-- '[[DATABASE/spell/Bless|Bless]]'
-- '[[DATABASE/spell/Daze|Daze]]'
-- '[[DATABASE/spell/Forbidding Ward|Forbidding Ward]]'
-- '[[DATABASE/spell/Heal|Heal]]'
-- '[[DATABASE/spell/Light|Light]]'
-- '[[DATABASE/spell/Shield|Shield]]'
-- '[[DATABASE/spell/Spirit Link|SpiritLink]]'
-- '[[DATABASE/spell/Stabilize|Stabilize]]'
-- '[[DATABASE/spell/Unimpeded Stride|Unimpeded Stride]]'
-strength: '+0'
-strength_req: '0'
+spell: null
+strength: '+4'
+strength_req: '4'
 strongest_save:
-- Will
+- Fortitude
 swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
@@ -69,8 +59,8 @@ vision: null
 weakest_save:
 - Reflex
 weakness: null
-will: '+10'
-wisdom: '+4'
+will: '+11'
+wisdom: '+3'
 
 ---
 # Pakano, Broken Tusk Bully And Traitor

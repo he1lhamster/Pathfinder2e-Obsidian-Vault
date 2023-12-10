@@ -10,9 +10,6 @@ creature_ability:
 - Green Empathy
 - Jungle Stride
 creature_family: '[[DATABASE/monsterfamily/Grippli|Grippli]]'
-description: 'The unofficial healers of gripplikind are known as greenspeakers.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 20<br/><b><u>Unspecific
-  Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>: DC 15'
 dexterity: '+4'
 element: null
 fly_speed: null

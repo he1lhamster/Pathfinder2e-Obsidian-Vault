@@ -13,22 +13,6 @@ creature_ability:
 - Hunter's Triumph
 - Whip Drain
 creature_family: null
-description: 'Sumbreivas are the [[DATABASE/plane/Negative Energy Plane|Negative Energy
-  Plane''s]] unstoppable hunters, tracking down and destroying other creatures on
-  their plane for sport and practice. Occasionally they pass through a rift or are
-  brought to the [[DATABASE/plane/Material Plane|Material Plane]] via [[DATABASE/ritual/Planar
-  Binding|planar binding]] , where they collect living souls to display as trophies.<br/><br/>
-  Sumbreivas gather at Night Lodges, where they train and display their soul trophies,
-  which appear as floating wisps of blue energy. The more formidable the soul, the
-  more intense the blue glow that emanates from it. Sumbreivas in lodges periodically
-  raid the Material Plane on a Night Hunt. Over the course of one night, the sumbreivas
-  from that lodge split up and compete to see who can capture the most brilliant souls
-  as trophies. The winner of the Night Hunt leads the lodge until the next hunt.<br/><br/>
-  Night Lodges are ranked against each other by the accomplishments of the hunters
-  within. All sumbreivas have the ultimate goal of capturing a soul worthy of being
-  placed in the Twilight Lodge, reserved for the truly elite souls and hunters.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 35<br/><b><u>Unspecific
-  Lore</u></b>: DC 33<br/><b><u>Specific Lore</u></b>: DC 30'
 dexterity: '+9'
 element: null
 fly_speed: null

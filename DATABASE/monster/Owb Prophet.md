@@ -15,13 +15,6 @@ creature_ability:
 - ''
 - Shadow's Swiftness
 creature_family: '[[DATABASE/monsterfamily/Owb|Owb]]'
-description: An owb who comes into contact and is chosen by one of the Forsaken gains
-  a fragment of that demigod's power and forges a permanent connection with it. This
-  act transforms the owb into a larger, more powerful creature and imbues it with
-  the power of divine transference, allowing the owb to gain followers and grant spells
-  to them. These are owb prophets.<br/><br/> Owb prophets may have some portion of
-  the Forsaken's power, but they use their authority to gain more sway over calignis
-  and other worshippers.
 dexterity: '+6'
 element: null
 fly_speed: '40'

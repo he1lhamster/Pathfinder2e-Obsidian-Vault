@@ -1,66 +1,62 @@
 ﻿---
-ac: '17'
+ac: '21'
 alignment: N
 all_resistance: null
-burrow_speed: null
+burrow_speed: '20'
 charisma: '+0'
 climb_speed: '20'
 constitution: '+3'
 creature_ability:
-- Feign Death
-- Grasping Tail
-- Revived Retaliation
-creature_family: '[[DATABASE/monsterfamily/Opossum|Opossum]]'
-description: 'Larger species of opossum can eat nearly anything human-sized or smaller.<br/><br/><b><u>Recall
-  Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 16<br/><b><u>Unspecific
-  Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>: DC 11'
-dexterity: '+2'
+- Devourer of Swarms
+- Emit Musk
+- Roll Up
+creature_family: null
+dexterity: '+0'
 element: null
 fly_speed: null
 fortitude: '+11'
 hardness: null
-hp: '35'
-id: '1253'
+hp: '63'
+id: '1260'
 immunity: null
 intelligence: '-4'
 land_speed: '30'
 language: null
-level: '2'
+level: '4'
 max_speed: '30'
-name: Giant Opossum
-perception: '+8'
+name: Giant Pangolin
+perception: '+12'
 rarity: Common
 reflex: '+8'
-resistance:
-- '[[DATABASE/trait/Poison|poison]] 3'
+resistance: null
 rus_type_level: null
 school: null
 sense:
-- '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
 size: Large
 skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +10'
+- '[[DATABASE/skill/Athletics|Athletics]] +13'
 - '[[DATABASE/skill/Stealth|Stealth]] +8'
-- '[[DATABASE/skill/Survival|Survival]] +6'
+- '[[DATABASE/skill/Survival|Survival]] +10'
 source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 30 feet
+- burrow 20 feet
 - climb 20 feet
 spell: null
-strength: '+4'
-strength_req: '4'
+strength: '+5'
+strength_req: '5'
 strongest_save:
 - Fortitude
 swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
-vision: Low-light vision
+vision: null
 weakest_save:
-- Will
+- Reflex
 weakness: null
-will: '+5'
+will: '+10'
 wisdom: '+2'
 
 ---

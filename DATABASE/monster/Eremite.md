@@ -17,14 +17,6 @@ creature_ability:
 - Perfection
 - Shadow Traveler
 creature_family: '[[DATABASE/monsterfamily/Velstrac|Velstrac]]'
-description: "Eremites roam the planes to seek out ideal portions of other creatures,\
-  \ such as a hero's sword-arm or an angel's pinions. Eremites capture these specimens\
-  \ to clinically test their true limits, then harvest specimens and add them to their\
-  \ own bodies. An eremite might attach tongues to their hand as extra fingers or\
-  \ a fist to the back of their neck in a horrid \u201Cimprovement.\u201D Eremites\
-  \ average 7 feet tall and weigh approximately 200 pounds.<br/><br/><b><u>Recall\
-  \ Knowledge - Fiend</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 40<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 38<br/><b><u>Specific Lore</u></b>: DC 35"
 dexterity: '+6'
 element: null
 fly_speed: '50'

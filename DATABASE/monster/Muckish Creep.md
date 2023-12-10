@@ -14,23 +14,6 @@ creature_ability:
 - Overwhelm
 - Slippery Body
 creature_family: null
-description: 'Legends say that the first muckish creeps were born at the site of a
-  mass grave where the souls of murdered prisoners coalesced into the surrounding
-  soil. Another myth tells that muckish creeps were elementals so vile that their
-  kin banished them from the [[DATABASE/plane/Plane of Earth|Plane of Earth]] . Regardless
-  of their true origins, muckish creeps are wicked creatures that resemble mud given
-  a humanoid shape. The mud is no ordinary mixture of earth and water, however, for
-  muckish creeps feed on the blood of the living, and they use this blood to keep
-  their own forms moist and malleable.<br/><br/> Muckish creeps are particularly tenacious
-  and single-minded when it comes to choosing prey. Once a muckish creep selects its
-  next victim, there is little one can do to stop it, since it can seep through even
-  the smallest cracks between doors, walls, and windows. A muckish creep typically
-  waits until its target falls asleep before pressing itself into the creature''s
-  home, intent to kill. For all its tenacity during the hunt, the muckish creep is
-  pragmatic when it comes to the actual kill, using its body to fill the victim''s
-  airways with mud and suffocate them.<br/><br/><b><u>Recall Knowledge - Aberration</u>
-  ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 24<br/><b><u>Unspecific Lore</u></b>:
-  DC 22<br/><b><u>Specific Lore</u></b>: DC 19'
 dexterity: '+3'
 element: null
 fly_speed: null

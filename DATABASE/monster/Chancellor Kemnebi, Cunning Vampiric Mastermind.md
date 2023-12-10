@@ -1,102 +1,173 @@
 ﻿---
-ac: '36'
-alignment: NE
+ac: '43'
+alignment: LE
 all_resistance: null
 burrow_speed: null
-charisma: '+7'
-climb_speed: null
-constitution: '+4'
+charisma: '+8'
+climb_speed: '40'
+constitution: '+7'
 creature_ability:
-- Bond with Host
-- Ear for Secrets
-- Easy to Call
-- Interpose
-- Peel Away
-- Retaliate
-- Skip Between
-creature_family: '[[DATABASE/monsterfamily/Sahkil|Sahkil]]'
-description: "Featureless, tiny bat-like flaps of pale skin with retractable, squirming\
-  \ legs, chakanajes prey upon people's shame and fears of disclosing humiliating\
-  \ secrets. Extremely diminutive and stealthy, they can slip into buildings or lurk\
-  \ under eaves with ease, making it easier to spy on others and learn their secrets.\
-  \ Chakanajes enjoy ferreting out secrets and tormenting their victims by leaving\
-  \ incriminating hints of the truth in places others might find them, or even messages\
-  \ threatening the victim that someone \u201Cknows the truth.\u201D Fear of exposure\
-  \ can drive victims to commit atrocities, which a chakanaj uses to further exacerbate\
-  \ the victim's shame and fear, to the sahkil's ever-increasing enjoyment.<br/>A\
-  \ chakanaj can disguise themself as an item of roughly the same size, like a piece\
-  \ of clothing, and they especially enjoy forcing their victims to carry or wear\
-  \ them while they whisper hateful suggestions and stoke the victim's anxiety and\
-  \ suffering. <br/> While most sahkils don't have much to do with [[DATABASE/deity/Norgorber|Norgorber]]\
-  \ , despite their shared alignment, chakanjes' love of secrets has led to more than\
-  \ one alliance over the years between the tiny sahkils and the minions of Norgorber,\
-  \ particularly in Norgorber's aspect of the Reaper of Reputation.<br/><br/><b><u>Recall\
-  \ Knowledge - Fiend</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 32<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 30<br/><b><u>Specific Lore</u></b>: DC 27"
+- Barred Senses
+- Center Self
+- Control Comatose
+- Deflect Attack
+- Drain Thoughts
+- Enlightened Mind
+- ''
+- Flurry of Blows
+- Mental Rebirth curse
+- incapacitation
+- mental
+- necromancy
+- occult)
+- Paralyzing Claws
+- ''
+- Revulsion
+- Thoughtsense
+- Vetalarana Vulnerabilities
+- Vulnerable to Brain Destruction
+creature_family: null
 dexterity: '+8'
 element: null
-fly_speed: '40'
-fortitude: '+22'
+fly_speed: null
+fortitude: '+34'
 hardness: null
-hp: '300'
-id: '1644'
+hp: 350 ( fast healing 20 , mental rebirth, negative healing )
+id: '2441'
 immunity:
-- fear
-intelligence: '+2'
-land_speed: '10'
+- '[[DATABASE/trait/Death|death]] effects'
+- '[[DATABASE/trait/Disease|disease]]'
+- '[[DATABASE/condition/Paralyzed|paralyzed]]'
+- '[[DATABASE/trait/Poison|poison]]'
+- '[[DATABASE/trait/Sleep|sleep]]'
+intelligence: '+10'
+land_speed: '40'
 language:
-- '[[DATABASE/language/Abyssal|Abyssal]]'
-- '[[DATABASE/language/Celestial|Celestial]]'
-- '[[DATABASE/language/Infernal|Infernal]]'
-- '[[DATABASE/language/Requian|Requian]] ; telepathy 100 feet'
-level: '14'
+- '[[DATABASE/language/Ancient Osiriani|Ancient Osiriani]]'
+- '[[DATABASE/language/Common|Common]]'
+- '[[DATABASE/language/Kelish|Kelish]]'
+- '[[DATABASE/language/Necril|Necril]]'
+- '[[DATABASE/language/Osiriani|Osiriani]]'
+- '[[DATABASE/language/Vudrani|Vudrani]] ; [[DATABASE/spell/Tongues|tongues]]'
+level: '21'
 max_speed: '40'
-name: Chakanaj
-perception: '+25'
-rarity: Common
-reflex: '+28'
-resistance: null
+name: Chancellor Kemnebi
+perception: '+39'
+rarity: Unique
+reflex: '+35'
+resistance:
+- '[[DATABASE/trait/Mental|mental]] 15'
+- physical 15 (except [[DATABASE/trait/Magical|magical]] [[DATABASE/equipment/Cold
+  Iron Weapon|coldiron]] )
 rus_type_level: null
 school: null
 sense:
-- (+29 to Sense Motive) [[DATABASE/monsterability/Darkvision|darkvision]]
-- '[[DATABASE/spell/True Seeing|true seeing]]'
-size: Tiny
+- '[[DATABASE/monsterability/Darkvision|darkvision]]'
+- thoughtsense 100 feet
+size: Medium
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +28'
-- '[[DATABASE/skill/Deception|Deception]] +27'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +25'
-- '[[DATABASE/skill/Religion|Religion]] +25'
-- '[[DATABASE/skill/Stealth|Stealth]] +30'
-- '[[DATABASE/skill/Thievery|Thievery]] +26'
-source: '[[DATABASE/source/Night of the Gray Death|Night of the Gray Death]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +35'
+- '[[DATABASE/skill/Arcana|Arcana]] +43'
+- '[[DATABASE/skill/Athletics|Athletics]] +33'
+- '[[DATABASE/skill/Crafting|Crafting]] +41'
+- '[[DATABASE/skill/Deception|Deception]] +36'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +36'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +36'
+- '[[DATABASE/skill/Lore|Mechitar Lore]] +41'
+- '[[DATABASE/skill/Nature|Nature]] +41'
+- '[[DATABASE/skill/Occultism|Occultism]] +41'
+- '[[DATABASE/skill/Performance|Performance]] +37'
+- '[[DATABASE/skill/Religion|Religion]] +43'
+- '[[DATABASE/skill/Lore|Shadow Plane Lore]] +41'
+- '[[DATABASE/skill/Society|Society]] +41'
+- '[[DATABASE/skill/Stealth|Stealth]] +35'
+source: '[[DATABASE/source/Pathfinder 186. Ghost King''s Rage|Pathfinder #186: Ghost
+  King''s Rage]]'
 speed:
-- 10 feet
-- fly 40 feet
+- 40 feet
+- climb 40 feet
 spell:
-- '[[DATABASE/spell/Dancing Lights|Dancing Lights]]'
+- '[[DATABASE/spell/Alarm|Alarm]]'
+- '[[DATABASE/spell/Ancient Dust|AncientDust]]'
+- '[[DATABASE/spell/Animate Dead|Animate Dead]]'
+- '[[DATABASE/spell/Athletic Rush|Athletic Rush]]'
+- '[[DATABASE/spell/Bind Undead|Bind Undead]]'
+- '[[DATABASE/spell/Blade Barrier|Blade Barrier]]'
+- '[[DATABASE/spell/Blink Charge|Blink Charge]]'
+- '[[DATABASE/spell/Blood Vendetta|Blood Vendetta]]'
+- '[[DATABASE/spell/Blur|Blur]]'
+- '[[DATABASE/spell/Bound in Death|Bound inDeath]]'
+- '[[DATABASE/spell/Call of the Grave|Call of the Grave]]'
+- '[[DATABASE/spell/Chill Touch|Chill Touch]]'
+- '[[DATABASE/spell/Chilling Darkness|Chilling Darkness]]'
+- '[[DATABASE/spell/Crisis of Faith|Crisis of Faith]]'
+- '[[DATABASE/spell/Crushing Despair|Crushing Despair]]'
+- '[[DATABASE/spell/Darkness|Darkness]]'
 - '[[DATABASE/spell/Daze|Daze]]'
-- '[[DATABASE/spell/Fear|Fear]]'
-- '[[DATABASE/spell/Guidance|Guidance]]'
-- '[[DATABASE/spell/Illusory Object|Illusory Object]]'
-- '[[DATABASE/spell/Mask of Terror|Mask of Terror]]'
-- '[[DATABASE/spell/True Seeing|True Seeing]]'
-strength: '+0'
-strength_req: '0'
+- '[[DATABASE/spell/Deafness|Deafness]]'
+- '[[DATABASE/spell/Detect Magic|DetectMagic]]'
+- '[[DATABASE/spell/Dirge of Remembrance|Dirge of Remembrance]]'
+- '[[DATABASE/spell/Divine Lance|Divine Lance]]'
+- '[[DATABASE/spell/Dream Message|DreamMessage]]'
+- '[[DATABASE/spell/Eclipse Burst|Eclipse Burst]]'
+- '[[DATABASE/spell/Enduring Might|Enduring Might]]'
+- '[[DATABASE/spell/Enervation|Enervation]]'
+- '[[DATABASE/spell/False Life|False Life]]'
+- '[[DATABASE/spell/Finger of Death|Finger of Death]]'
+- '[[DATABASE/spell/Flense|Flense]]'
+- '[[DATABASE/spell/Fly|Fly]]'
+- '[[DATABASE/spell/Ghost Sound|Ghost Sound]]'
+- '[[DATABASE/spell/Goblin Pox|Goblin Pox]]'
+- '[[DATABASE/spell/Grim Tendrils|Grim Tendrils]]'
+- '[[DATABASE/spell/Harm|Harm]]'
+- '[[DATABASE/spell/Haste|Haste]]'
+- '[[DATABASE/spell/Heroism|Heroism]]'
+- '[[DATABASE/spell/Invisibility|Invisibility]]'
+- '[[DATABASE/spell/Life Siphon|Life Siphon]]'
+- '[[DATABASE/spell/Magic Aura|Magic Aura]]'
+- '[[DATABASE/spell/Magic Missile|MagicMissile]]'
+- '[[DATABASE/spell/Paralyze|Paralyze]]'
+- '[[DATABASE/spell/Phantasmal Calamity|Phantasmal Calamity]]'
+- '[[DATABASE/spell/Plane Shift|Plane Shift]]'
+- '[[DATABASE/spell/Produce Flame|Produce Flame]]'
+- '[[DATABASE/spell/Ray of Enfeeblement|Ray of Enfeeblement]]'
+- '[[DATABASE/spell/Read Aura|Read Aura]]'
+- '[[DATABASE/spell/See Invisibility|See Invisibility]]'
+- '[[DATABASE/spell/Shadow Blast|Shadow Blast]]'
+- '[[DATABASE/spell/Shadow Raid|Shadow Raid]]'
+- '[[DATABASE/spell/Shadow Siphon|Shadow Siphon]]'
+- '[[DATABASE/spell/Shadow Walk|Shadow Walk]]'
+- '[[DATABASE/spell/Spell Immunity|Spell Immunity]]'
+- '[[DATABASE/spell/Spirit Blast|Spirit Blast]]'
+- '[[DATABASE/spell/Spiritual Torrent|Spiritual Torrent]]'
+- '[[DATABASE/spell/Stabilize|Stabilize]]'
+- '[[DATABASE/spell/Status|Status]]'
+- '[[DATABASE/spell/Steal Voice|StealVoice]]'
+- '[[DATABASE/spell/Suffocate|Suffocate]]'
+- '[[DATABASE/spell/Telepathy|Telepathy]]'
+- '[[DATABASE/spell/Teleport|Teleport]]'
+- '[[DATABASE/spell/Tongues|Tongues]]'
+- '[[DATABASE/spell/Torturous Trauma|Torturous Trauma]]'
+- '[[DATABASE/spell/Unspeakable Shadow|Unspeakable Shadow]]'
+- '[[DATABASE/spell/Vampiric Touch|Vampiric Touch]]'
+- '[[DATABASE/spell/Ventriloquism|Ventriloquism]]'
+strength: '+6'
+strength_req: '6'
 strongest_save:
-- Reflex
+- Will
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Fiend|Fiend]]'
-- '[[DATABASE/trait/Sahkil|Sahkil]]'
+- '[[DATABASE/trait/Undead|Undead]]'
+- '[[DATABASE/trait/Unique|Unique]]'
+- '[[DATABASE/trait/Vampire|Vampire]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
 weakness:
-- good 15
-will: '+25'
-wisdom: '+5'
+- vetalarana vulnerabilities
+will: '+41'
+wisdom: '+10'
 
 ---
 # Chancellor Kemnebi, Cunning Vampiric Mastermind

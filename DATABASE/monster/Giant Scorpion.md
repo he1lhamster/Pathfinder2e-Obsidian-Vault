@@ -11,14 +11,6 @@ creature_ability:
 - Constrict
 - Giant Scorpion Venom
 creature_family: '[[DATABASE/monsterfamily/Scorpion|Scorpion]]'
-description: 'These massive, terrifying arachnids are typically 8 feet long from head
-  to the base of the tail. Giant scorpions are the favored pack animals and war beasts
-  of various desert-dwelling monsters, particularly gnolls. They are most commonly
-  encountered in the wild, however. There they lair in mountainside caves or burrow
-  beneath shallow layers of sand where they lie in wait for prey to wander near. Sleek,
-  pallid subterranean scorpions also exist, as do still larger species.<br/><br/><b><u>Recall
-  Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 18<br/><b><u>Unspecific
-  Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>: DC 13'
 dexterity: '+2'
 element: null
 fly_speed: null

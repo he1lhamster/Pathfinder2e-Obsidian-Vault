@@ -13,24 +13,6 @@ creature_ability:
 - Thoughtsense
 - Tickle
 creature_family: null
-description: "Nightgaunts dwell in dreams, lurking in wait to spirit away the unwary\
-  \ dreamer. Once connected to such a being, the nightgaunt feeds upon the mortal's\
-  \ emotions before abandoning them\u2014often in places they might never wake from.<br/><br/>\
-  \ A nightgaunt appears as a bony humanoid with inky black skin, batlike wings, a\
-  \ long sinuous tail, and demonic horns atop a skull that lacks any face or features.\
-  \ Most nightgaunts have little interest in anything other than sating their hunger\
-  \ for emotions. They find the art of inducing nightmares to be a surefire way to\
-  \ feast, but they're even more adept at tormenting their victims to awful extremes\
-  \ through tickling while carrying them at precarious heights.<br/><br/> Nightgaunts\
-  \ often gather in vast colonies in the [[DATABASE/plane/Dreamlands|Dreamlands]]\
-  \ , where they entertain each other by sharing emotion-memories of their meals through\
-  \ strange caresses. These colonies pose great danger to any adventurer foolish enough\
-  \ to approach.<br/><br/> When conjured forth into other worlds, they serve only\
-  \ grudgingly, often working as hard to find a way to escape servitude and feed on\
-  \ their conjurer's emotions as they do on the task they've been compelled to perform.<br/><br/><b><u>Recall\
-  \ Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC\
-  \ 21<br/><b><u>Unspecific Lore</u></b>: DC 19<br/><b><u>Specific Lore</u></b>: DC\
-  \ 16"
 dexterity: '+3'
 element: null
 fly_speed: '30'

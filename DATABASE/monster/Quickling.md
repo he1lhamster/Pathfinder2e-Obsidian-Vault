@@ -13,22 +13,6 @@ creature_ability:
 - Sneak Attack
 - Supernatural Speed
 creature_family: null
-description: "Few creatures can match a quickling's speed. These malicious fey creatures\
-  \ delight in striking with blinding speed and accuracy, racing in to stab and slash\
-  \ at foes before scampering away for cover with maddening\u2014 even frightening\u2014\
-  swiftness. Stories of people simply doubling over, bleeding from what appear to\
-  \ be spontaneously opening wounds, are often eyewitness accounts of quickling attacks.<br/><br/>\
-  \ Quicklings actively hate the \u201Cslow-paced dullards\u201D they encounter every\
-  \ day, delighting in inflicting suffering and pain on creatures they deem too sluggish\
-  \ to matter. While they are related to kinder fey such as [[DATABASE/monster/Brownie|brownies]]\
-  \ and [[DATABASE/monster/Pixie|pixies]] , quicklings care only for their own merriment.\
-  \ They see their own cruel pranks as the height of humor and have full confidence\
-  \ that their speed and invisibility will keep them safe from harm. They occasionally\
-  \ form gangs of up to a dozen individuals, although the group usually devolves very\
-  \ quickly into mayhem, as they inevitably perform increasingly deadly pranks against\
-  \ each other.<br/><br/><b><u>Recall Knowledge - Fey</u> ( [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 20<br/><b><u>Unspecific Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>:\
-  \ DC 15"
 dexterity: '+4'
 element: null
 fly_speed: null

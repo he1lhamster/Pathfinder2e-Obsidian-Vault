@@ -11,9 +11,6 @@ creature_ability:
 - Nimble Dodge
 - Sprinkle Pixie Dust
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Fey</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 34<br/><b><u>Unspecific Lore</u></b>:
-  DC 32<br/><b><u>Specific Lore</u></b>: DC 29'
 dexterity: '+6'
 element: null
 fly_speed: '45'

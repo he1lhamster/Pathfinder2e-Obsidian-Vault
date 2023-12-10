@@ -12,13 +12,6 @@ creature_ability:
 - Curse of Stolen Breath
 - Fjord Linnorm Venom
 creature_family: '[[DATABASE/monsterfamily/Linnorm|Linnorm]]'
-description: 'Fjord linnorms make their homes in damp caves behind ice-cold waterfalls
-  in the river-veined coastal reaches of the north. While they may appear graceful
-  as they swim up the fjords for which they''re named, they are as vile as any other
-  of their species and take pleasures in capsizing river boats before gobbling up
-  their terrified crews.<br/><br/><b><u>Recall Knowledge - Dragon</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  )</b>: DC 37<br/><b><u>Unspecific Lore</u></b>: DC 35<br/><b><u>Specific Lore</u></b>:
-  DC 32'
 dexterity: '+5'
 element: null
 fly_speed: '75'

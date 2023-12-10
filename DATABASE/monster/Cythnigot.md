@@ -10,14 +10,6 @@ creature_ability:
 - Sickening Display
 - Tangle Spores
 creature_family: '[[DATABASE/monsterfamily/Qlippoth|Qlippoth]]'
-description: 'The cythnigot is a foul fungal parasite that grows and thrives in the
-  corpses of small creatures. It wears these bodies like a suit, but also adjusts
-  and tailors the fleshy covering to suit its needs, and the body ends up looking
-  as alien as anything else spawned from the [[DATABASE/plane/Abyss|Abyssal]] depths.
-  The cythnigot''s most identifying feature is the long stalk of fungal material that
-  extends from creature''s body, ending in a surprisingly strong set of fanged jaws.<br/><br/><b><u>Recall
-  Knowledge - Fiend</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 17<br/><b><u>Unspecific
-  Lore</u></b>: DC 15<br/><b><u>Specific Lore</u></b>: DC 12'
 dexterity: '+3'
 element: null
 fly_speed: '40'

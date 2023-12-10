@@ -11,11 +11,6 @@ creature_ability:
 - Rejuvenation
 - Site Bound
 creature_family: '[[DATABASE/monsterfamily/Ghost|Ghost]]'
-description: 'The ghost commoner is an ordinary person who believes they died unjustly,
-  usually due to foul play or betrayal.<br/><br/><b><u>Recall Knowledge - Spirit</u>
-  ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 19<br/><b><u>Recall Knowledge
-  - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 19<br/><b><u>Unspecific
-  Lore</u></b>: DC 17<br/><b><u>Specific Lore</u></b>: DC 14'
 dexterity: '+3'
 element: null
 fly_speed: '25'

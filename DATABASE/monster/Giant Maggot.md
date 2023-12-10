@@ -10,12 +10,6 @@ creature_ability:
 - Gnaw Flesh
 - Regurgitation
 creature_family: '[[DATABASE/monsterfamily/Fly|Fly]]'
-description: "Giant flies lay their eggs on the bodies of larger monsters or livestock.\
-  \ When they hatch, these eggs release squirming maggots the size of human children,\
-  \ ravenous young who voraciously consume any flesh in the immediate vicinity\u2014\
-  typically starting with the body upon which they were born.<br/><br/><b><u>Recall\
-  \ Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 14<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 12<br/><b><u>Specific Lore</u></b>: DC 9"
 dexterity: '-1'
 element: null
 fly_speed: null

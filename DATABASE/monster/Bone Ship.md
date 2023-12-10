@@ -17,43 +17,6 @@ creature_ability:
 - Trawl
 - for Bones
 creature_family: null
-description: "Rarely does anything living remain after a bone ship's passing\u2014\
-  only death, destruction, and waves red as blood that clash and foam in its wake.\
-  \ When a bone ship forms, necromantic magic dredges great bones from the seabed\
-  \ and slowly bends them into place with malicious intent. Whales' ribs typically\
-  \ form the timbers of the hull, and their great spinal columns twist into towering\
-  \ masts. Muscles and tendons lash the ship together, tightening and loosening to\
-  \ precisely turn the ship as it sails.<br/><br/> When a bone ship encounters another\
-  \ vessel or finds some other opportunity to sow death, smaller corpses strewn throughout\
-  \ the ship animate to form a crew and boarding party. Each crew member resembles\
-  \ a humanoid skeleton, but they might be made of bones from multiple creatures.\
-  \ For battle, the ship also creates magical cannons formed of bone that propel bone\
-  \ shards and debris with blasts of magic. The small black gemstones stippled across\
-  \ the ship's structure hold the souls of a drowned crew, for a bone ship is the\
-  \ cursed legacy of dead sailors.<br/><br/> When mass death happens at sea\u2014\
-  often from an entire ship sinking far from shore\u2014the anguish of the dying victims\
-  \ can spawn a bone ship. This event might occur when a sailor makes a final plea\
-  \ to a dark god or when a deity takes the opportunity to bind many dead sailors'\
-  \ souls together as a destructive show of divine power. When not created through\
-  \ divine intervention, a bone ship can grow slowly and organically from one of the\
-  \ ships piloted by the undead sailors known as [[DATABASE/monster/Draugr|draugr]]\
-  \ . As draugr ships plague the seas and sink other vessels, they can collect more\
-  \ souls and bones, eventually becoming bone ships. These vessels look different\
-  \ from many other bone ships with patchwork or asymmetrical appearances.<br/><br/>\
-  \ A bone ship is almost gluttonous, possessing an unceasing appetite for death,\
-  \ destruction, and new souls to add to its number. These desires stem from an underlying\
-  \ cause, either placed within the ship by its creator or accreted from the scattered\
-  \ final wishes of its component dead souls. For example, a deity might send a bone\
-  \ ship on a special mission to carry a message or dispose of a particularly persistent\
-  \ adversary or annoyance. Though bone ships usually travel upon the waves, they\
-  \ have no need to breathe and can carry out underwater missions at the behest of\
-  \ their creator.<br/><br/> Bone ships hold a legendary reputation among sailors.\
-  \ These undead can appear out of nowhere to wreak destruction, and if a crew's bodies\
-  \ are absent from a shipwreck, the calamity might be blamed on a bone ship. The\
-  \ sea can bring death suddenly in many ways, but eternal enslavement of the soul\
-  \ presents a more terrifying fate than death alone.<br/><br/><b><u>Recall Knowledge\
-  \ - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 43<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 41<br/><b><u>Specific Lore</u></b>: DC 38"
 dexterity: '+5'
 element: null
 fly_speed: null

@@ -12,19 +12,6 @@ creature_ability:
 - Painful Bite
 - Viviparous Birth
 creature_family: '[[DATABASE/monsterfamily/Bore Worm|Bore Worm]]'
-description: "When an area lacks sufficient food, the bore worms in a swarm become\
-  \ increasingly agitated and desperate. Eventually, at some chemical signal, the\
-  \ worms begin to cannibalize each other, devouring one other in a frenzy too gruesome\
-  \ to behold. A single worm emerges from this melee victorious; it rapidly grows\
-  \ larger and more voracious until it reaches an absolutely elephantine size.<br/><br/>\
-  \ This empress bore worm lives only briefly, as it sets out in search of a new feeding\
-  \ ground and eats everything in its path in an attempt to sustain itself. However,\
-  \ the empress bore worm's ravenous metabolism demands more from its body than what\
-  \ it can physically sustain, as it exists only as a vessel for the next generation.\
-  \ Most live only a few days, or weeks at best, traveling and eating nonstop before\
-  \ dying\u2014and in so doing, giving birth to new swarms of bore worms.<br/><br/><b><u>Recall\
-  \ Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 23<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 21<br/><b><u>Specific Lore</u></b>: DC 18"
 dexterity: '+3'
 element: null
 fly_speed: null

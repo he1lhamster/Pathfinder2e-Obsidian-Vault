@@ -13,24 +13,6 @@ creature_ability:
 - Slithering Strike
 - Swallow Whole
 creature_family: null
-description: 'A hollow serpent is the dried and shriveled husk of an enormous constrictor
-  snake, animated by fell magic to serve its masters. According to the oldest holy
-  books of [[DATABASE/monsterfamily/Serpentfolk|serpentfolk]] , the first hollow serpents
-  were raised by [[DATABASE/deity/Ydersius|Ydersius]] . The god took the cast-off
-  skins of great snakes and filled them with hunger and hatred, a bottomless yearning
-  for mortal life that could never be filled. In due course, the priests of the serpentfolk
-  learned to replicate their lord''s trick, and in the millennia since the serpentfolk''s
-  fall, the knowledge has slithered into the libraries of other necromancers and sorcerers.<br/><br/>
-  Despite their menacing reputation and great power, hollow serpents are a relatively
-  uncomplicated creation. They were designed first and foremost as guardians, and
-  serpentfolk liches of a suitable level of power are sometimes accompanied by hollow
-  serpents. A few have struck out on their own over the years, usually due to outliving
-  their original creators. Driven by their hunger and dim intellect, they take up
-  residence in remote ruins or deep caverns. Those that study such things believe
-  at least one serpent, perhaps one of the original creatures made by Ydersius, survives
-  in the mountains west of Geb.<br/><br/><b><u>Recall Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 34<br/><b><u>Unspecific Lore</u></b>: DC 32<br/><b><u>Specific Lore</u></b>:
-  DC 29'
 dexterity: '+8'
 element: null
 fly_speed: null

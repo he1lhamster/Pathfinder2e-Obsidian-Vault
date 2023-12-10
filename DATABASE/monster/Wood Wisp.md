@@ -11,17 +11,6 @@ creature_ability:
 - In Concert
 - Resonance
 creature_family: '[[DATABASE/monsterfamily/Elemental, Wisp|Elemental, Wisp]]'
-description: 'Like other wisps, wood wisps roam their plane and attune to other wisps,
-  wandering with them in symphonies. Because of their willingness to bond, wood wisps
-  appear outside their home plane more than other wood elementals, though they''re
-  still relatively rare compared to other wisps. <br/><br/>Wood wisps resemble coconuts
-  trailed by thick nests of branches that cover and conceal even deeper webs of thorny
-  vines. They are, unfortunately, both unaware of the pain these thorns can cause
-  fleshy creatures and very physically affectionate in their eagerness to offer assistance.<br/><br/><b><u>Recall
-  Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 14<br/><b><u>Recall Knowledge - Plant</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 14<br/><b><u>Unspecific Lore</u></b>: DC 12<br/><b><u>Specific Lore</u></b>:
-  DC 9'
 dexterity: '+1'
 element: Wood
 fly_speed: '20'

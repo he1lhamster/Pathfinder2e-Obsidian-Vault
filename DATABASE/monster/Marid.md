@@ -12,18 +12,6 @@ creature_ability:
 - Skewer
 - Vortex
 creature_family: '[[DATABASE/monsterfamily/Genie|Genie]]'
-description: "Marids are capricious but powerful genies from the Plane of Water; among\
-  \ geniekind, they are rivaled in power only by the fiery efreet. Marids embody the\
-  \ strength of the ocean\u2019s waves and currents, but they also have a gentler\
-  \ side, loving performance and art such as dancing, music, and storytelling.<br/>Marids\
-  \ regard efreet with hostility but rarely encounter them in their native environment.\
-  \ They get along with djinn, jann, and shaitans, although the latter consider marids\
-  \ flighty and annoying, associating only long enough to close trade deals. Marid\
-  \ society has strict rules of hospitality, and many marid cities have a magically\
-  \ sealed foreign quarter where marid shahzadas conduct business with air-breathers.<br/><br/><b><u>Recall\
-  \ Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 28<br/><b><u>Unspecific Lore</u></b>: DC 26<br/><b><u>Specific Lore</u></b>:\
-  \ DC 23"
 dexterity: '+5'
 element: Water
 fly_speed: null

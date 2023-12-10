@@ -14,15 +14,6 @@ creature_ability:
 - Nova Burst
 - Residual Light
 creature_family: null
-description: 'Warlords and heroes alike often fell their enemies and leave the corpses
-  behind, exposed to the elements. [[DATABASE/trait/Undead|Undead]] tend to rise in
-  the dark of night and shun the cleansing rays of the sun, but this isn''t the rule
-  for all undead. The corpse of a particularly evil individual left exposed to the
-  constant beating of the sun might become a sunburst corpse. These undead radiate
-  light and wield sunlight as a weapon. Sunburst corpses initially seek revenge for
-  their deaths but thereafter wander with undirected rage.<br/><br/><b><u>Recall Knowledge
-  - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 34<br/><b><u>Unspecific
-  Lore</u></b>: DC 32<br/><b><u>Specific Lore</u></b>: DC 29'
 dexterity: '+1'
 element: null
 fly_speed: null

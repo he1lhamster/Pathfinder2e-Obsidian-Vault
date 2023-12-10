@@ -12,18 +12,6 @@ creature_ability:
 - Project Terror
 - Void Transmission
 creature_family: null
-description: 'The alien entities known as rhu-chaliks serve as scouts for a conglomeration
-  of deep-space conquerors called the Dominion of the Black. Their masters use them
-  as spies, tasking them with harvesting the thoughts and memories of sentient creatures
-  into a vast repository of knowledge designed to eventually unravel every secret
-  of existence.<br/><br/> Also called void wanderers, rhu-chaliks can survive the
-  depths of space indefinitely. They are extremely long-lived and capable of traversing
-  the vastness of space between worlds. Rhu-chaliks prefer to work alone in order
-  to reduce potential overlap in their mind predations. The furtive beings are calculating
-  and infinitely patient, seeking only the most exceptional minds to cast beyond the
-  stars to their masters.<br/><br/><b><u>Recall Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]]
-  )</b>: DC 24<br/><b><u>Unspecific Lore</u></b>: DC 22<br/><b><u>Specific Lore</u></b>:
-  DC 19'
 dexterity: '+3'
 element: null
 fly_speed: '35'

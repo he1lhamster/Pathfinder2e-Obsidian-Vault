@@ -11,19 +11,6 @@ creature_ability:
 - Change Size
 - Combat Grab
 creature_family: '[[DATABASE/monsterfamily/Genie|Genie]]'
-description: "The efreet are hateful and merciless genies from the Plane of Fire,\
-  \ where they build metropolises and massive trade centers that draw extraplanar\
-  \ travelers from across the multiverse. They are cruel slavers, vengeful warmongers,\
-  \ and sinister wish-masters; there are many tales of mortals who made pacts with\
-  \ efreet only to have their words twisted to suit a genie\u2019s capricious and\
-  \ malevolent whims.<br/>Efreet do not readily treat with other genies; they share\
-  \ an eternal feud with the djinn, disdain marids, regard jann as weaklings unworthy\
-  \ of the genie title, and only occasionally tolerate alliances with shaitans. At\
-  \ 12 feet tall and weighing 2,000 pounds, efreet are formidable opponents and cow\
-  \ their chosen victims with a glance.<br/><br/><b><u>Recall Knowledge - Elemental</u>\
-  \ ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]] )</b>: DC\
-  \ 28<br/><b><u>Unspecific Lore</u></b>: DC 26<br/><b><u>Specific Lore</u></b>: DC\
-  \ 23"
 dexterity: '+3'
 element: Fire
 fly_speed: '35'

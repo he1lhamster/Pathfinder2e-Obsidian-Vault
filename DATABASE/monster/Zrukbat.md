@@ -10,29 +10,6 @@ creature_ability:
 - Dubious Shifting
 - Go for the Eyes
 creature_family: null
-description: "Zrukbats resemble long-limbed bats with gangly wings, which make them\
-  \ clumsy fliers. Instead, these reclusive fey prefer to crawl along surfaces using\
-  \ the hooked talons on the tips of their wings and feet. Their somewhat humanoid\
-  \ faces feature bulging black eyes, dark fur, and pointed fangs, shocking\u2014\
-  if not terrifying\u2014those who get a glimpse of them scuttling along a roof or\
-  \ peeping out from under an eave. Sensitive creatures, zrukbats quickly learn that\
-  \ their appearance triggers negative reactions, yet they prefer to live in urban\
-  \ settlements, observing busy streets and houses from inconspicuous locations.<br/><br/>\
-  \ Zrukbats hide in plain sight using their shapeshifting abilities to mimic a broad\
-  \ repertoire of objects. Despite their intelligence, they fundamentally don't understand\
-  \ others' reasoning and often make foolish mistakes in their disguises. For example,\
-  \ one might shapeshift into a lit lantern in an otherwise abandoned house, misjudge\
-  \ the pattern of roof ornaments and become an out-of-place spire, or disguise themself\
-  \ as smoke in an unlit chimney.<br/><br/> Due to their fearsome appearance and predisposition\
-  \ to conceal themselves, zrukbats are associated with ghosts and other supernatural\
-  \ phenomena. This affiliation isn't wholly earned; as long as zrukbats feel they've\
-  \ gone unnoticed, they remain generally peaceful. When their obsessive secrecy fails,\
-  \ they devolve into extremely volatile, dangerous creatures. Once spotted, zrukbats\
-  \ fly into a rage if anyone utters even a casual suspicion regarding their presence.\
-  \ In areas known to harbor zrukbats, superstition forbids speaking aloud of curious\
-  \ phenomena, lest they take offense and attack.<br/><br/><b><u>Recall Knowledge\
-  \ - Fey</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 16<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>: DC 11"
 dexterity: '+4'
 element: null
 fly_speed: '20'

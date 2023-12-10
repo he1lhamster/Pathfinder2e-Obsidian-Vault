@@ -14,36 +14,6 @@ creature_ability:
 - Requirement
 - Scratch
 creature_family: null
-description: "Goblins\u2019 eponymous pets aren\u2019t true canines at all, but rather\
-  \ large, blunt-nosed rodents with thin bodies and long legs. As cowardly as they\
-  \ are ugly, goblin dogs prefer to lurk behind bushes or in deep shadows, pouncing\
-  \ upon lone or wounded prey. Goblin dogs frequently lair and roam in packs, but\
-  \ they are likely to flee from a fight if injured, even if it means abandoning their\
-  \ pack-mates.<br/><br/> Goblin dogs take their name from their long association\
-  \ with goblins, who breed the beasts as guard animals and mounts. Most goblins take\
-  \ issue with the name, as the average goblin is appalled at the suggestion that\
-  \ these, their favored mounts, have anything at all to do with actual dogs. Of course,\
-  \ being goblins, they haven\u2019t bothered to come up with their own, unique name\
-  \ for goblin dogs.<br/><br/> Even the most pampered goblin dogs have itchy mange\
-  \ and prolific dander that tenaciously affects those who come in contact with them.\
-  \ This \u201Cgoblin pox\u201D causes itchy hives and festering sores that are as\
-  \ unsightly as they are irritating and distracting. Goblin dog dander causes allergic\
-  \ reactions in nearly all other creatures that don\u2019t share the goblin dogs\u2019\
-  \ terrible hygiene\u2014with the notable exception, of course, of goblins, who remain\
-  \ entirely immune to the disease regardless of cleanliness.<br/><br/> Hunger can\
-  \ drive goblin dogs to bouts of uncharacteristic violence; many goblins purposefully\
-  \ starve their pets to make them more aggressive in battle. Goblin dogs subsist\
-  \ on whatever organic material they can scavenge, and they particularly enjoy fresh\
-  \ carrion. Although goblins are far from picky eaters, they value goblin dogs as\
-  \ pets because the noisome animals will consume food that even goblins won\u2019\
-  t dare to eat. \u201CWill it eat?\u201D is one of several games goblins enjoy playing\
-  \ with their goblin dog pets, where a wide range of mouth-sized morsels (not always\
-  \ edible or safe to consume) are dangled before a goblin dog\u2019s snout. \u201C\
-  Will it die?\u201D is often a game played after \u201CWill it eat?\u201D Goblin\
-  \ dogs who survive the second game earn renown for their digestive prowess and often\
-  \ become favored tribal pets treated better than most of the rank-and-file goblins.<br/><br/><b><u>Recall\
-  \ Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 15<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>: DC 10"
 dexterity: '+2'
 element: null
 fly_speed: null

@@ -12,14 +12,6 @@ creature_ability:
 - Electromagnetic Dispersal
 - Swarm Form
 creature_family: '[[DATABASE/monsterfamily/Elemental, Metal|Elemental, Metal]]'
-description: 'This bizarre entity is actually a massive collective consisting of tens
-  of thousands of constituent parts, each a tiny metal sphere barely the size of a
-  pebble. Controlled by a single elemental spirit, the swarm is capable of flowing
-  like liquid through the smallest openings before shaping itself into a powerful
-  combatant, a solid wall, or any other form circumstances might require.<br/><br/><b><u>Recall
-  Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 26<br/><b><u>Unspecific Lore</u></b>: DC 24<br/><b><u>Specific Lore</u></b>:
-  DC 21'
 dexterity: '+6'
 element: Metal
 fly_speed: null

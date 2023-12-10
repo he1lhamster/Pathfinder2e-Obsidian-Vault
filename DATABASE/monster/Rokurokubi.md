@@ -12,23 +12,6 @@ creature_ability:
 - Extend Neck
 - Threatening Lunge
 creature_family: null
-description: 'Rokurokubi come into being when mortals are cursed for some misdeed,
-  though often the one who bears the curse is not the one who committed the offense,
-  but instead their child or spouse. The curse slowly transforms the individual into
-  a rokurokubi as they sleep. At first, their neck extends, or even detaches altogether,
-  to let their head roam freely and engage in simple mischief like scaring neighbors
-  or animals. The sleeper may awaken the next morning from a hazy dream of drinking
-  the oil from nearby lanterns, only to find them indeed empty.<br/><br/> Over time,
-  the bizarre acts progress to increasingly mischievous or even violent crimes. There''s
-  only a brief period during which the nascent rokurokubi might still be saved by
-  dispelling the curse, but before long, they are fully consumed, never to sleep again.<br/><br/>
-  Most rokurokubi despair at their state, seeking to drown their sorrows in drink
-  or simply stay out of sight. A nefarious few rokurokubi embrace their fate and seek
-  to enhance their power by completely giving in to the curse. This grants them the
-  ability to cast potent occult spells but inevitably twists them even more toward
-  evil.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 16<br/><b><u>Unspecific Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>:
-  DC 11'
 dexterity: '+4'
 element: null
 fly_speed: null

@@ -11,33 +11,6 @@ creature_ability:
 - Intense Heat
 - Water Vulnerability
 creature_family: null
-description: 'Creatures whose lives end in flames can return as undead called combusted.
-  Still burning even in death, they''re consumed by everlasting anguish that drives
-  them to reckless violence.<br/><br/> Although combusted can no longer be truly harmed
-  by fire, they endure the final moments of their death eternally, searing them with
-  endless burning pain. Many combusted attempt to douse themselves in lakes or rivers,
-  believing the flames that wreath their forms must be the source of their pain. However,
-  water is more hindrance than help, and being immersed in it only amplifies their
-  agony.<br/><br/> No longer possessing the ability to communicate in anything other
-  than agonized wails, combusted nonetheless retain their senses and memories. Yet
-  they rarely seek to act on their past, for the pain drowns out thoughts of friendships,
-  family, and vengeance. In time, combusted are driven to share their pain with others,
-  for the instant their flames catch fire on another living being, they feel a single,
-  fleeting moment of relief. This relief leads combusted into conflict with living
-  creatures often, although those that attack large settlements rarely survive long.<br/><br/>
-  Some combusted form from those who died via spontaneous combustion, suddenly becoming
-  so hot they burst into flames. This mysterious process isn''t fully understood,
-  though some scholars attribute it to shifts in power in the Plane of Fire causing
-  hot spots in the Material Plane powerful enough to kill. Much more rarely, combusted
-  arise around areas with especially intense magical flames, such as forges used to
-  create magic weapons, when the fire sets creatures ablaze, so they burn to death
-  and transcend into undeath in mere moments.<br/><br/> Regardless of the source of
-  their conflagration, the horrifying deaths that combusted suffered haunt them in
-  the afterlife. Their charred, blackened corpses alight with flames are a constant
-  reminder of their final moments in pain. The stench of burning flesh heralds their
-  presence, each combusted leaving black smoke in their wake.<br/><br/><b><u>Recall
-  Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 18<br/><b><u>Unspecific
-  Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>: DC 13'
 dexterity: '+3'
 element: Fire
 fly_speed: null

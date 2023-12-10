@@ -9,11 +9,6 @@ constitution: '+3'
 creature_ability:
 - Psychic Daze
 creature_family: '[[DATABASE/monsterfamily/Alghollthu|Alghollthu]]'
-description: "When not being controlled and manipulated by alghollthus, ulat-kinis\
-  \ have found they can develop formidable psychic powers. Those who master this craft\
-  \ are dubbed \u201Cmindreavers\u201D by their awestruck kin.<br/><br/><b><u>Recall\
-  \ Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 25<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 23<br/><b><u>Specific Lore</u></b>: DC 20"
 dexterity: '+3'
 element: null
 fly_speed: null

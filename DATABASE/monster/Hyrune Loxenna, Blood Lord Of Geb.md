@@ -1,91 +1,122 @@
 ﻿---
-ac: '20'
-alignment: NE
+ac: '37'
+alignment: CE
 all_resistance: null
 burrow_speed: null
 charisma: '+5'
-climb_speed: null
-constitution: '+4'
+climb_speed: '25'
+constitution: '+5'
 creature_ability:
 - Change Shape
-- Spore Burst
-- Spore Cloud
-- Spores
-- Sporesense
+- Children of the Deep
+- Create Spawn
+- Divided Faith
+- Dominate
+- Drink Blood
+- ''
+- Familiar
+- Gluttonous Gulp
+- Mist Escape
+- Turn to Mist
+- Witch Patron
 creature_family: null
-description: 'Leshy creations sometimes fall prey to herbivores and foragers. Whereas
-  most take the loss in stride, fungus leshies sometimes grow bitter and explore the
-  grimmer elements of fungi: decomposition and possession. Combining unethical experiments,
-  mind-altering cordyceps spores, and occult magic fueled by their own victim narrative,
-  a fungus leshy can transform into a hyphae tyrant, who in turn transforms corpses
-  into sporeborn puppets to torment local fauna. These leshies'' greatest tragedy
-  is perhaps their own impermanence. As their agendas increasingly celebrate decay,
-  a hyphae tyrant''s spite and occult narrative slowly drain their life force, ultimately
-  ending in a final burst of destructive energy.<br/><br/><b><u>Recall Knowledge -
-  Fungus</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 24<br/><b><u>Unspecific
-  Lore</u></b>: DC 22<br/><b><u>Specific Lore</u></b>: DC 19'
-dexterity: '+2'
+dexterity: '+4'
 element: null
 fly_speed: null
-fortitude: '+12'
+fortitude: '+27'
 hardness: null
-hp: '60'
-id: '2602'
-immunity: null
-intelligence: '+1'
+hp: 240 (coffin restoration, fast healing 15 , negative healing )
+id: '2160'
+immunity:
+- '[[DATABASE/trait/Death|death]] effects'
+- '[[DATABASE/trait/Disease|disease]]'
+- '[[DATABASE/condition/Paralyzed|paralyze]]'
+- '[[DATABASE/trait/Poison|poison]]'
+- '[[DATABASE/trait/Sleep|sleep]]'
+intelligence: '+6'
 land_speed: '25'
 language:
+- '[[DATABASE/language/Aklo|Aklo]]'
+- '[[DATABASE/language/Ancient Osiriani|AncientOsiriani]]'
 - '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Druidic|Druidic]]'
-- '[[DATABASE/language/Sylvan|Sylvan]]'
-- '[[DATABASE/language/Undercommon|Undercommon]] ; speak with plants (fungi only)'
-level: '4'
+- '[[DATABASE/language/Necril|Necril]]'
+- '[[DATABASE/language/Undercommon|Undercommon]]'
+level: '15'
 max_speed: '25'
-name: Hyphae Tyrant
-perception: '+11'
-rarity: Rare
-reflex: '+13'
+name: Hyrune Loxenna
+perception: '+27'
+rarity: Unique
+reflex: '+25'
 resistance:
-- negative 5
+- physical 15 (except [[DATABASE/trait/Magical|magical]] [[DATABASE/equipment/Silver|silver]]
+  )
 rus_type_level: null
 school: null
 sense:
-- darkvision
-- sporesense (imprecise) 60 feet
-size: Small
+- '[[DATABASE/monsterability/Darkvision|darkvision]]'
+size: Medium
 skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +8'
-- '[[DATABASE/skill/Nature|Nature]] +10'
-- '[[DATABASE/skill/Occultism|Occultism]] +10'
-- '[[DATABASE/skill/Stealth|Stealth]] +11'
-source: '[[DATABASE/source/Pathfinder 193. Mantle of Gold|Pathfinder #193: Mantle
-  of Gold]]'
+- '[[DATABASE/skill/Athletics|Athletics]] +29'
+- '[[DATABASE/skill/Deception|Deception]] +28'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +28'
+- '[[DATABASE/skill/Occultism|Occultism]] +29'
+- '[[DATABASE/skill/Society|Society]] +29'
+- '[[DATABASE/skill/Stealth|Stealth]] +27'
+source: '[[DATABASE/source/Pathfinder 184. The Ghouls Hunger|Pathfinder #184: The
+  Ghouls Hunger]]'
 speed:
 - 25 feet
+- climb 25 feet
 spell:
-- '[[DATABASE/spell/Dancing Lights|Dancing Lights]]'
-- '[[DATABASE/spell/Detect Magic|Detect Magic]]'
-- '[[DATABASE/spell/Grim Tendrils|Grim Tendrils]]'
-- '[[DATABASE/spell/Lose the Path|Lose the Path]]'
-- '[[DATABASE/spell/Protector Tree|Protector Tree]]'
-- '[[DATABASE/spell/Ray of Enfeeblement|Ray of Enfeeblement]]'
-- '[[DATABASE/spell/Speak with Plants|Speak with Plants]]'
-strength: '+3'
-strength_req: '3'
+- '[[DATABASE/spell/Black Tentacles|Black Tentacles]]'
+- '[[DATABASE/spell/Blindness|Blindness]]'
+- '[[DATABASE/spell/Blood Ward|Blood Ward]]'
+- '[[DATABASE/spell/Command|Command]]'
+- '[[DATABASE/spell/Confusion|Confusion]]'
+- '[[DATABASE/spell/Daze|Daze]]'
+- '[[DATABASE/spell/Dimension Door|Dimension Door]]'
+- '[[DATABASE/spell/Dispel Magic|Dispel Magic]]'
+- '[[DATABASE/spell/Dream Message|Dream Message]]'
+- '[[DATABASE/spell/Fear|Fear]]'
+- '[[DATABASE/spell/Feeblemind|Feeblemind]]'
+- '[[DATABASE/spell/Fly|Fly]]'
+- '[[DATABASE/spell/Mage Hand|Mage Hand]]'
+- '[[DATABASE/spell/Malicious Shadow|Malicious Shadow]]'
+- '[[DATABASE/spell/Maze|Maze]]'
+- '[[DATABASE/spell/Message|Message]]'
+- '[[DATABASE/spell/Mirror Image|MirrorImage]]'
+- '[[DATABASE/spell/Nightmare|Nightmare]]'
+- '[[DATABASE/spell/Phase Familiar|Phase Familiar]]'
+- '[[DATABASE/spell/Project Image|Project Image]]'
+- '[[DATABASE/spell/Repulsion|Repulsion]]'
+- '[[DATABASE/spell/Reverse Gravity|Reverse Gravity]]'
+- '[[DATABASE/spell/See Invisibility|See Invisibility]]'
+- '[[DATABASE/spell/Sending|Sending]]'
+- '[[DATABASE/spell/Shield|Shield]]'
+- '[[DATABASE/spell/Shroud of Night|Shroud of Night]]'
+- '[[DATABASE/spell/Sleep|Sleep]]'
+- '[[DATABASE/spell/Slow|Slow]]'
+- '[[DATABASE/spell/Status|Status]]'
+- '[[DATABASE/spell/Suggestion|Suggestion]]'
+- '[[DATABASE/spell/Telekinetic Projectile|Telekinetic Projectile]]'
+- '[[DATABASE/spell/Warp Mind|Warp Mind]]'
+strength: '+8'
+strength_req: '8'
 strongest_save:
-- Reflex
+- Will
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Fungus|Fungus]]'
-- '[[DATABASE/trait/Leshy|Leshy]]'
-- '[[DATABASE/trait/Rare|Rare]]'
+- '[[DATABASE/trait/Undead|Undead]]'
+- '[[DATABASE/trait/Unique|Unique]]'
+- '[[DATABASE/trait/Vampire|Vampire]]'
 type: Creature
 vision: Darkvision
 weakest_save:
-- Will
-weakness: null
-will: '+11'
-wisdom: '+3'
+- Reflex
+weakness:
+- '[[DATABASE/monsterfamily/Vampire|vampire]]'
+will: '+29'
+wisdom: '+4'
 
 ---
 # Hyrune Loxenna, Blood Lord Of Geb

@@ -1,109 +1,73 @@
 ﻿---
-ac: '40'
-alignment: N
+ac: '15'
+alignment: CE
 all_resistance: null
 burrow_speed: null
-charisma: '+4'
+charisma: '+1'
 climb_speed: null
-constitution: '+5'
+constitution: '+3'
 creature_ability:
-- Cremate Undead
-- Discerning Aura
-- Expand Aura
-- Gird in Prayer
-- Immortal
-creature_family: '[[DATABASE/monsterfamily/Shabti|Shabti]]'
-description: 'Shabti votaries are devout clerics of [[DATABASE/deity/Pharasma|Pharasma]]
-  who heal and protect their allies while destroying enemies of their faith. Although
-  shabti votaries focus primarily on destroying [[DATABASE/trait/Undead|undead]] ,
-  they remain a potent enemy against living foes.<br/><br/><b><u>Recall Knowledge
-  - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 40<br/><b><u>Unspecific
-  Lore</u></b>: DC 38<br/><b><u>Specific Lore</u></b>: DC 35'
-dexterity: '+1'
-element: null
+- Consecration Vulnerability
+- Death Gasp
+- Exhale
+- Smoke Vision
+- Smoldering Fist
+creature_family: '[[DATABASE/monsterfamily/Mortic|Mortic]]'
+dexterity: '+4'
+element: Fire
 fly_speed: null
-fortitude: '+31'
+fortitude: '+6'
 hardness: null
-hp: '260'
-id: '2424'
+hp: 21 ( negative healing )
+id: '1880'
 immunity:
-- '[[DATABASE/trait/Death|death]] effects'
-- '[[DATABASE/condition/Drained|drained]]'
-intelligence: '+4'
+- '[[DATABASE/trait/Fire|fire]]'
+intelligence: '-1'
 land_speed: '25'
 language:
 - '[[DATABASE/language/Common|Common]]'
+- '[[DATABASE/language/Goblin|Goblin]]'
 - '[[DATABASE/language/Necril|Necril]]'
-- '[[DATABASE/language/Osiriani|Osiriani]]'
-- '[[DATABASE/language/Requian|Requian]]'
-level: '18'
+level: '1'
 max_speed: '25'
-name: Shabti Votary
-perception: '+33'
-rarity: Uncommon
-reflex: '+25'
-resistance:
-- '[[DATABASE/trait/Negative|negative]] 15'
+name: Shadern Immolator
+perception: '+5'
+rarity: Rare
+reflex: '+9'
+resistance: null
 rus_type_level: null
 school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
-size: Medium
+- smoke vision
+size: Small
 skill:
-- '[[DATABASE/skill/Lore|Boneyard Lore]] +32'
-- '[[DATABASE/skill/Diplomacy|Diplomacy]] +30'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +30'
-- '[[DATABASE/skill/Medicine|Medicine]] +34'
-- '[[DATABASE/skill/Performance|Performance]] +30'
-- '[[DATABASE/skill/Religion|Religion]] +34'
-source: '[[DATABASE/source/Pathfinder 186. Ghost King''s Rage|Pathfinder #186: Ghost
-  King''s Rage]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +7'
+- '[[DATABASE/skill/Athletics|Athletics]] +5'
+- '[[DATABASE/skill/Stealth|Stealth]] +7'
+- '[[DATABASE/skill/Survival|Survival]] +3'
+source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 speed:
 - 25 feet
-spell:
-- '[[DATABASE/spell/Air Walk|Air Walk]]'
-- '[[DATABASE/spell/Breath of Life|Breath ofLife]]'
-- '[[DATABASE/spell/Create Food|Create Food]]'
-- '[[DATABASE/spell/Death''s Call|Death''s Call]]'
-- '[[DATABASE/spell/Dispel Magic|Dispel Magic]]'
-- '[[DATABASE/spell/Disrupt Undead|Disrupt Undead]]'
-- '[[DATABASE/spell/Energy Aegis|Energy Aegis]]'
-- '[[DATABASE/spell/Enhance Victuals|Enhance Victuals]]'
-- '[[DATABASE/spell/Eradicate Undeath|Eradicate Undeath]]'
-- '[[DATABASE/spell/Ghostly Weapon|Ghostly Weapon]]'
-- '[[DATABASE/spell/Haunting Hymn|Haunting Hymn]]'
-- '[[DATABASE/spell/Heal|Heal]]'
-- '[[DATABASE/spell/Heroism|Heroism]]'
-- '[[DATABASE/spell/Mindlink|Mindlink]]'
-- '[[DATABASE/spell/Phantasmal Killer|Phantasmal Killer]]'
-- '[[DATABASE/spell/Read Aura|Read Aura]]'
-- '[[DATABASE/spell/Regenerate|Regenerate]]'
-- '[[DATABASE/spell/Remove Fear|Remove Fear]]'
-- '[[DATABASE/spell/Remove Paralysis|Remove Paralysis]]'
-- '[[DATABASE/spell/Restoration|Restoration]]'
-- '[[DATABASE/spell/Scintillating Safeguard|Scintillating Safeguard]]'
-- '[[DATABASE/spell/Searing Light|Searing Light]]'
-- '[[DATABASE/spell/Shield|Shield]]'
-- '[[DATABASE/spell/Spirit Blast|Spirit Blast]]'
-- '[[DATABASE/spell/Stabilize|Stabilize]]'
-- '[[DATABASE/spell/Sunburst|Sunburst]]'
-- '[[DATABASE/spell/Tongues|Tongues]]'
-strength: '+0'
-strength_req: '0'
+spell: null
+strength: '+2'
+strength_req: '2'
 strongest_save:
-- Will
+- Reflex
 swim_speed: null
 trait:
+- '[[DATABASE/trait/Fire|Fire]]'
+- '[[DATABASE/trait/Goblin|Goblin]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
-- '[[DATABASE/trait/Shabti|Shabti]]'
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
+- '[[DATABASE/trait/Mortic|Mortic]]'
+- '[[DATABASE/trait/Rare|Rare]]'
 type: Creature
 vision: Darkvision
 weakest_save:
-- Reflex
+- Will
 weakness: null
-will: '+34'
-wisdom: '+6'
+will: '+3'
+wisdom: '+0'
 
 ---
 # Shadern

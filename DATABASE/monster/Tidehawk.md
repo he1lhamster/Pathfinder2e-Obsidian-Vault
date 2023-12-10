@@ -11,18 +11,6 @@ creature_ability:
 - Self-Resurrection
 - Typhoon Dive
 creature_family: null
-description: 'Tidehawks, avian embodiments of the sea and rain, nest in deep underwater
-  crevasses and glide among waves. They feed mostly on large sea life and rise above
-  the surface during or in the aftermath of a rainstorm to bask in the fresh moisture
-  of the air.<br/><br/> Though tidehawks hail from the same mystical family as the
-  legendary [[DATABASE/monster/Phoenix|phoenix]] , the two rarely interact due to
-  their different outlooks and elemental affiliations. Phoenixes see tidehawks as
-  flighty and unreliable, while tidehawks view their fiery kin as self-righteous do-gooders
-  who can''t resist meddling in mortal affairs. Only particularly evil threats to
-  natural environments can bring them together.<br/><br/><b><u>Recall Knowledge -
-  Beast</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 35<br/><b><u>Unspecific Lore</u></b>: DC 33<br/><b><u>Specific Lore</u></b>:
-  DC 30'
 dexterity: '+7'
 element: Water
 fly_speed: '50'

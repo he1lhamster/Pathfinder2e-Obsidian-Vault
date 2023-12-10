@@ -14,14 +14,6 @@ creature_ability:
 - Glow
 - Magic Immunity
 creature_family: '[[DATABASE/monsterfamily/Wisp|Wisp]]'
-description: "A voidglutton is a powerful type of [[DATABASE/monster/Will-o'-Wisp|will-o'-wisp]]\
-  \ that haunts a site where misery dwells\u2014such as a graveyard, prison camp,\
-  \ or recent battlefield. A voidglutton appears as a seething sphere of glowing eyes\
-  \ swirling around an empty black vortex 4 feet wide. From within this vortex extend\
-  \ long, semi-transparent tendrils that end in seven-fingered, needled hands.<br/><br/><b><u>Recall\
-  \ Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC\
-  \ 29<br/><b><u>Unspecific Lore</u></b>: DC 27<br/><b><u>Specific Lore</u></b>: DC\
-  \ 24"
 dexterity: '+6'
 element: Air
 fly_speed: '40'

@@ -1,83 +1,94 @@
 ﻿---
-ac: '28'
-alignment: N
+ac: '45'
+alignment: NG
 all_resistance: null
 burrow_speed: null
-charisma: '+1'
+charisma: '+9'
 climb_speed: null
-constitution: '+5'
+constitution: '+8'
 creature_ability:
 - Breath Weapon
-- Draconic Resistance
-- Petrifying Gaze
-- Petrifying Glance
-- Savage Jaws
-creature_family: '[[DATABASE/monsterfamily/Basilisk|Basilisk]]'
-description: 'Dracolisks are rare magical crossbreeds of chromatic dragons and [[DATABASE/monster/Basilisk|basilisks]]
-  . None now know how they first came to be, but they have proven viable and can breed
-  with one another as well as with basilisks. While a dracolisk appears much like
-  a young true dragon of its parent type, its eight legs are an immediate indication
-  that it is something more. Its coloration varies, depending on the nature of its
-  draconic ancestry, though it''s lighter on its underside and darker near its wing
-  tips. A typical dracolisk is 15 feet long and weighs 3,000 pounds.<br/><br/><b><u>Recall
-  Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 28<br/><b><u>Recall Knowledge - Dragon</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  )</b>: DC 28<br/><b><u>Unspecific Lore</u></b>: DC 26<br/><b><u>Specific Lore</u></b>:
-  DC 23'
-dexterity: '+2'
+- Dragon's Salvation
+- Dragon's Wisdom
+creature_family: '[[DATABASE/monsterfamily/Agathion|Agathion]]'
+dexterity: '+5'
 element: null
-fly_speed: '40'
-fortitude: '+20'
+fly_speed: '90'
+fortitude: '+34'
 hardness: null
-hp: '155'
-id: '565'
-immunity:
-- '[[DATABASE/condition/Paralyzed|paralyzed]]'
-- '[[DATABASE/condition/Petrified|petrified]]'
-- sleep
-intelligence: '-3'
-land_speed: '20'
-language: null
-level: '9'
-max_speed: '40'
-name: Dracolisk
-perception: '+18'
-rarity: Uncommon
-reflex: '+17'
+hp: '370'
+id: '1058'
+immunity: null
+intelligence: '+8'
+land_speed: '30'
+language:
+- '[[DATABASE/language/Celestial|Celestial]]'
+- '[[DATABASE/language/Draconic|Draconic]]'
+- '[[DATABASE/language/Infernal|Infernal]] ; [[DATABASE/spell/Speak with Animals|speak
+  with animals]]'
+- '[[DATABASE/spell/Tongues|tongues]]'
+level: '20'
+max_speed: '90'
+name: Draconal
+perception: '+36'
+rarity: Common
+reflex: '+31'
 resistance:
-- draconic resistance 10
+- fire 15
 rus_type_level: null
 school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
-- '[[DATABASE/monsterability/Tremorsense|tremorsense (imprecise) 30 feet]]'
+- '[[DATABASE/spell/True Seeing|true seeing]]'
 size: Large
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +17'
-- '[[DATABASE/skill/Athletics|Athletics]] +21'
-- '[[DATABASE/skill/Stealth|Stealth]] +17'
-- '[[DATABASE/skill/Survival|Survival]] +20'
-source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
+- '[[DATABASE/skill/Arcana|Arcana]] +38'
+- '[[DATABASE/skill/Crafting|Crafting]] +30'
+- '[[DATABASE/skill/Deception|Deception]] +35'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +37'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +35'
+- '[[DATABASE/skill/Medicine|Medicine]] +34'
+- '[[DATABASE/skill/Nature|Nature]] +34'
+- '[[DATABASE/skill/Lore|NirvanaLore]] +36'
+- '[[DATABASE/skill/Religion|Religion]] +36'
+- '[[DATABASE/skill/Society|Society]] +32'
+- '[[DATABASE/skill/Survival|Survival]] +32'
+source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
-- 20 feet
-- fly 40 feet
-spell: null
-strength: '+6'
-strength_req: '6'
+- 30 feet
+- fly 90 feet
+spell:
+- '[[DATABASE/spell/Breath of Life|Breath of Life]]'
+- '[[DATABASE/spell/Circle of Protection|Circle of Protection]]'
+- '[[DATABASE/spell/Dazzling Flash|Dazzling Flash]]'
+- '[[DATABASE/spell/Dispel Magic|Dispel Magic]]'
+- '[[DATABASE/spell/Divine Decree|Divine Decree]]'
+- '[[DATABASE/spell/Earthquake|Earthquake]]'
+- '[[DATABASE/spell/Heal|Heal]]'
+- '[[DATABASE/spell/Implosion|Implosion]]'
+- '[[DATABASE/spell/Lay on Hands|Lay on Hands]]'
+- '[[DATABASE/spell/Miracle|Miracle]]'
+- '[[DATABASE/spell/Protector''s Sphere|Protector''s Sphere]]'
+- '[[DATABASE/spell/Speak with Animals|Speak with Animals]]'
+- '[[DATABASE/spell/Storm of Vengeance|Storm of Vengeance]]'
+- '[[DATABASE/spell/Tongues|Tongues]]'
+- '[[DATABASE/spell/True Seeing|True Seeing]]'
+strength: '+10'
+strength_req: '10'
 strongest_save:
-- Fortitude
+- Will
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Beast|Beast]]'
-- '[[DATABASE/trait/Dragon|Dragon]]'
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
+- '[[DATABASE/trait/Agathion|Agathion]]'
+- '[[DATABASE/trait/Celestial|Celestial]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
-will: '+18'
-wisdom: '+5'
+weakness:
+- evil 15
+will: '+38'
+wisdom: '+10'
 
 ---
 # Draconal (Dragon Agathion)

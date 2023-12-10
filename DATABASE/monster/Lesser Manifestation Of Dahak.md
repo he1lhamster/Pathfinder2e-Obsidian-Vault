@@ -18,9 +18,6 @@ creature_ability:
 - Redirect Energy
 - Smoke Vision
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Dragon</u> ( [[DATABASE/skill/Arcana|Arcana]] )</b>: DC 54<br/><b><u>Unspecific
-  Lore</u></b>: DC 52<br/><b><u>Specific Lore</u></b>: DC 49'
 dexterity: '+5'
 element: Fire
 fly_speed: '240'

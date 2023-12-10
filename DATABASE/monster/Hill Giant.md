@@ -11,13 +11,6 @@ creature_ability:
 - Throw Rock
 - Wide Swing
 creature_family: '[[DATABASE/monsterfamily/Giant|Giant]]'
-description: 'Selfish and crude, these rough-skinned raiders are bullies and ultimately
-  cowards. Quick-tempered and fond of violence, a hill giant gladly raids and pillages
-  the defenseless but is quick to flee from those who are bigger, stronger, or better
-  organized than they are. A hill giant is never above shoving or tricking one of
-  their own kind to slow down their opponent or get the best loot.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 23<br/><b><u>Unspecific
-  Lore</u></b>: DC 21<br/><b><u>Specific Lore</u></b>: DC 18'
 dexterity: '+0'
 element: Earth
 fly_speed: null

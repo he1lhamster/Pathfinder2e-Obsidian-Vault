@@ -10,19 +10,6 @@ creature_ability:
 - Speak with Arthropods
 - Sugar Rush
 creature_family: '[[DATABASE/monsterfamily/Sprite|Sprite]]'
-description: 'Melixies are hyperactive insect sprites with legendary sweet tooths,
-  capable of drinking down honey, nectar, sugar, and other sweets in alarming quantities.
-  Melixies take the insectile wings common among winged fey and up the ante with antennae
-  and additional insect features, typically shared with bees but sometimes with butterflies,
-  moths, ladybugs, or other beetles. Melixies live in a pattern of rapid consumption
-  of sweets, incredible productivity in tasks of all sorts, and then a crash to sleep
-  it all off and start again. Melixies in their productive state even engage happily
-  in large-scale repetitive tasks that most sprites find dreadfully dull. In their
-  spare time, melixies love to dance, and some of them learn a dancelike sign language
-  called Melisylvan, allowing them to communicate a full range of information through
-  movement. <br/><br/><b><u>Recall Knowledge - Fey</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 14<br/><b><u>Unspecific Lore</u></b>: DC 12<br/><b><u>Specific Lore</u></b>:
-  DC 9'
 dexterity: '+4'
 element: null
 fly_speed: '40'

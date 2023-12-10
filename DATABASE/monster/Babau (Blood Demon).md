@@ -1,90 +1,77 @@
 ﻿---
-ac: '42'
-alignment: CN
+ac: '24'
+alignment: CE
 all_resistance: null
 burrow_speed: null
-charisma: '+6'
+charisma: '+2'
 climb_speed: null
-constitution: '+5'
+constitution: '+4'
 creature_ability:
-- Mind-Numbing Grasp
-- Unrelativity Field
-- Writhing Arms
-creature_family: null
-description: 'Baatamidars are drawn to destroy planar communities on the fringes where
-  the Outer Planes touch the chaos of the [[DATABASE/plane/Maelstrom|Maelstrom]] .
-  They resemble floating blobs of undulating, prismatic ooze with four quivering tentacles
-  and dribbles of oily slime that always drip upwards.<br/><br/><b><u>Recall Knowledge
-  - Monitor</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 47<br/><b><u>Unspecific
-  Lore</u></b>: DC 45<br/><b><u>Specific Lore</u></b>: DC 42'
-dexterity: '+9'
+- Grievous Strike
+- Mercy Vulnerability
+- Reactive Slime
+- Sneak Attack
+creature_family: '[[DATABASE/monsterfamily/Demon|Demon]]'
+dexterity: '+4'
 element: null
-fly_speed: '70'
-fortitude: '+32'
+fly_speed: null
+fortitude: '+14'
 hardness: null
-hp: '350'
-id: '1015'
-immunity:
-- acid
-- '[[DATABASE/condition/Paralyzed|paralyzed]]'
-intelligence: '+6'
-land_speed: null
+hp: '130'
+id: '598'
+immunity: null
+intelligence: '+2'
+land_speed: '25'
 language:
 - '[[DATABASE/language/Abyssal|Abyssal]]'
 - '[[DATABASE/language/Celestial|Celestial]]'
-- '[[DATABASE/language/Infernal|Infernal]]'
-- '[[DATABASE/language/Protean|Protean]] ; telepathy 100 feet'
-level: '21'
-max_speed: '70'
-name: Baatamidar
-perception: '+39'
-rarity: Rare
-reflex: '+36'
+- '[[DATABASE/language/Draconic|Draconic]] ; [[DATABASE/monsterability/Telepathy|telepathy
+  100 feet]]'
+level: '6'
+max_speed: '25'
+name: Babau
+perception: '+13'
+rarity: Common
+reflex: '+16'
 resistance:
-- precision 20
+- acid 10
 rus_type_level: null
 school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
-- '[[DATABASE/spell/True Seeing|true seeing]]'
+- '[[DATABASE/spell/See Invisibility|see invisibility]]'
 size: Medium
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +38'
-- '[[DATABASE/skill/Arcana|Arcana]] +37'
-- '[[DATABASE/skill/Athletics|Athletics]] +35'
-- '[[DATABASE/skill/Diplomacy|Diplomacy]] +35'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +37'
-- '[[DATABASE/skill/Occultism|Occultism]] +37'
-- '[[DATABASE/skill/Religion|Religion]] +37'
-- '[[DATABASE/skill/Stealth|Stealth]] +38'
-source: '[[DATABASE/source/Pathfinder 162. Ruins of the Radiant Siege|Pathfinder #162:
-  Ruins of the Radiant Siege]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +12'
+- '[[DATABASE/skill/Athletics|Athletics]] +13'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +14'
+- '[[DATABASE/skill/Religion|Religion]] +10'
+- '[[DATABASE/skill/Stealth|Stealth]] +16'
+- '[[DATABASE/skill/Thievery|Thievery]] +14'
+source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
-- fly 70 feet
-- swim 50 feet
+- 25 feet
 spell:
-- '[[DATABASE/spell/Cataclysm|Cataclysm]]'
-- '[[DATABASE/spell/Detect Alignment|DetectAlignment]]'
-- '[[DATABASE/spell/Dispel Magic|Dispel Magic]]'
-- '[[DATABASE/spell/Mind Blank|Mind Blank]]'
-- '[[DATABASE/spell/Prismatic Sphere|Prismatic Sphere]]'
-- '[[DATABASE/spell/True Seeing|True Seeing]]'
-strength: '+6'
-strength_req: '6'
+- '[[DATABASE/spell/Darkness|Darkness]]'
+- '[[DATABASE/spell/Dimension Door|DimensionDoor]]'
+- '[[DATABASE/spell/See Invisibility|See Invisibility]]'
+strength: '+4'
+strength_req: '4'
 strongest_save:
-- Will
-swim_speed: '50'
+- Reflex
+swim_speed: null
 trait:
-- '[[DATABASE/trait/Monitor|Monitor]]'
-- '[[DATABASE/trait/Rare|Rare]]'
+- '[[DATABASE/trait/Demon|Demon]]'
+- '[[DATABASE/trait/Fiend|Fiend]]'
 type: Creature
 vision: Darkvision
 weakest_save:
-- Fortitude
+- Will
 weakness:
-- lawful 20
-will: '+39'
-wisdom: '+10'
+- cold iron 5
+- good 5
+will: '+11'
+wisdom: '+3'
 
 ---
 # Babau (Blood Demon)

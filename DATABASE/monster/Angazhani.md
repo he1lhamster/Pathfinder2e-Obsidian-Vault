@@ -13,16 +13,6 @@ creature_ability:
 - Pummeling Charge
 - Rend
 creature_family: null
-description: 'Angazhanis lurk in the depths of the world''s jungles, where these sapient,
-  four-armed apes prey on any creatures they deem lesser than themselves. They''re
-  purportedly the divine minions of [[DATABASE/deity/Angazhan|Angazhan]] , demon lord
-  of apes. While many angazhanis do worship this foul god, scarce evidence exists
-  to support their claim to fiendish heritage. Jungle-dwelling people know well to
-  steer clear of suspected angazhani territories; angazhanis of such areas don''t
-  slaughter outright, often capturing trespassers to serve as slaves or as living
-  sacrifices in heinous rituals.<br/><br/><b><u>Recall Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Nature|Nature]] )</b>: DC 24<br/><b><u>Unspecific Lore</u></b>:
-  DC 22<br/><b><u>Specific Lore</u></b>: DC 19'
 dexterity: '+4'
 element: null
 fly_speed: null

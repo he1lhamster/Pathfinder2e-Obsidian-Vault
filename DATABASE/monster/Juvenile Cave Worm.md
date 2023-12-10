@@ -14,12 +14,6 @@ creature_ability:
 - Shake It Off
 - Swallow Whole
 creature_family: '[[DATABASE/monsterfamily/Cave Worm|Cave Worm]]'
-description: 'A juvenile cave worm has left its brood or eaten them, and has started
-  to establish its own territory, hunting in regular intervals. These young worms
-  tend to be more aggressive towards other life forms than their relatively mellow
-  adult kin.<br/><br/><b><u>Recall Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 26<br/><b><u>Unspecific Lore</u></b>: DC 24<br/><b><u>Specific Lore</u></b>:
-  DC 21'
 dexterity: '+0'
 element: null
 fly_speed: null

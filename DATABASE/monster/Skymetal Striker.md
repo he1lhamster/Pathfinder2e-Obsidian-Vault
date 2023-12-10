@@ -11,17 +11,6 @@ creature_ability:
 - Temporal Stutter
 - Two-Headed Assault
 creature_family: '[[DATABASE/monsterfamily/Elemental, Metal|Elemental, Metal]]'
-description: "A skymetal striker resembles a serpent\u2014or, more precisely, the\
-  \ two-headed serpent known as an [[DATABASE/monster/Amphisbaena|amphisbaena]] \u2014\
-  made of a long string of dozens of spinning, sharp-toothed circular saw blades.\
-  \ These blades array themselves along the creature's body like beads on an invisible\
-  \ cord of magnetic force. Although the blades making up the creature are typically\
-  \ composed of many different metals and alloys, it is best known, feared, and named\
-  \ for the blades of [[DATABASE/equipment/Orichalcum|orichalcum]] and [[DATABASE/equipment/Inubrix|inubrix]]\
-  \ that form the \u201Cheads\u201D at either end of its serpentine body.<br/><br/><b><u>Recall\
-  \ Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 23<br/><b><u>Unspecific Lore</u></b>: DC 21<br/><b><u>Specific Lore</u></b>:\
-  \ DC 18"
 dexterity: '+6'
 element: Metal
 fly_speed: null

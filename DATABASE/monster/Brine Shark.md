@@ -9,10 +9,6 @@ constitution: '+2'
 creature_ability:
 - Deep Plunge
 creature_family: '[[DATABASE/monsterfamily/Elemental, Water|Elemental, Water]]'
-description: 'Brine sharks are deadly elementals that roam the endless oceans of the
-  Plane of Water.<br/><br/><b><u>Recall Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Nature|Nature]] )</b>: DC 18<br/><b><u>Unspecific Lore</u></b>:
-  DC 16<br/><b><u>Specific Lore</u></b>: DC 13'
 dexterity: '+2'
 element: Water
 fly_speed: null

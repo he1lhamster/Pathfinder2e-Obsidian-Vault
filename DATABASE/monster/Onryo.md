@@ -11,20 +11,6 @@ creature_ability:
 - Onryo's Rancor
 - Vengeful Suffocation
 creature_family: null
-description: 'Onryos are created when a person dies violently in the grip of extreme
-  emotion, such as unbridled rage or overwhelming sorrow. These twisted undead return
-  as beings of pure vengeance, seeking to endlessly spread suffering. Onryos torment
-  those who killed them, but not by directly attacking their murderer. Instead, an
-  onryo hunts down the friends, family members, and anyone connected to their foe.
-  In doing so, the onryo inflicts as much torment as possible on the person responsible
-  for their demise. An onryo''s vengeful nature persists indefinitely; not even the
-  death of their killer sates their lust for destruction. Vengeance is just a way
-  for them to spread their pain to others, and they quickly find new targets for their
-  ire. Onryos always wear funeral clothing, often dripping wet or covered in filth.
-  Most of them also display wounds or signs indicating how they died. As they move,
-  onryos seem to pop in and out of existence, making them difficult to track in combat.<br/><br/><b><u>Recall
-  Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 32<br/><b><u>Unspecific
-  Lore</u></b>: DC 30<br/><b><u>Specific Lore</u></b>: DC 27'
 dexterity: '+7'
 element: null
 fly_speed: null

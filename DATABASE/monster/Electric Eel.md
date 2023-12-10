@@ -9,11 +9,6 @@ constitution: '+2'
 creature_ability:
 - Stunning Shock
 creature_family: '[[DATABASE/monsterfamily/Eel|Eel]]'
-description: 'Usually found in freshwater rivers and lakes, an electric eel is not
-  particularly aggressive, but its ability to stun predators and prey alike can be
-  dangerous to larger creatures searching for their next meals.<br/><br/><b><u>Recall
-  Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 15<br/><b><u>Unspecific
-  Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>: DC 10'
 dexterity: '+2'
 element: null
 fly_speed: null

@@ -14,30 +14,6 @@ creature_ability:
 - Sporesight
 - Terrorspores
 creature_family: null
-description: 'Each Melfesh Monster is unique at any given time since the parent fungus
-  only gives birth to a single monster at once, and each of these creations works
-  a little differently and looks a little different from the last. However, their
-  forms all bear similarities. A twisting mass of creeping vines creates the bulk
-  of a Melfesh Monster''s body, sculpted into a towering figure that can glide effortlessly
-  across the ground. Mossy growths and trumpeting fungi cover the creature like matted
-  fur, dripping from its back and shoulders in excess. A hood of dampened bark and
-  thick moss covers its face, revealing only a crusty wooden jaw and a pair of gleaming
-  red eyes. An acrid stench of burning manure follows the creature, often serving
-  as the only warning that anyone gets before it attacks.<br/><br/> Despite their
-  fungal nature, Melfesh Monsters are undamaged by their own jets of flame and resistant
-  to fires set by others, often surprising hunters who paid too little attention to
-  the legends before encountering the creature. Their terrifying spores also mean
-  that most survivors of their attacks tend to be disoriented and delirious, relating
-  accounts of the monster that are distorted by confusion and fear. This, along with
-  the natural variance between different Melfesh Monsters, means that even the most
-  diligent of researchers will come across contradictory evidence. Even if they learn
-  from all the prior information collected over the years, they''re still often caught
-  off guard when trying to hunt down and fell the threat since the new Melfesh Monster
-  might have an ability never seen before. The canniest researchers, when faced with
-  the seemingly contradictory evidence, speculate that the creature might evolve or
-  change over time, which is closer to the truth but still falls short.<br/><br/><b><u>Recall
-  Knowledge - Fungus</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 32<br/><b><u>Unspecific
-  Lore</u></b>: DC 30<br/><b><u>Specific Lore</u></b>: DC 27'
 dexterity: '+3'
 element: null
 fly_speed: '30'

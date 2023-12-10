@@ -11,26 +11,6 @@ creature_ability:
 - Change Shape
 - Mutations
 creature_family: '[[DATABASE/monsterfamily/Barghest|Barghest]]'
-description: "Once a barghest has eaten enough to grow into a greater barghest, it\
-  \ typically seeks a method to leave the Material Plane and return to the Abyss,\
-  \ there joining other fiends as yet another of that plane\u2019s horrors. As barghests\
-  \ have no innate ability to travel the planes, though, the time it takes for most\
-  \ greater barghests to engineer such a return can usually be measured in years,\
-  \ if not decades. During that time, greater barghests continue to play the roles\
-  \ of gluttons, hunters of humanity, and tyrants of goblinoid tribes. More than a\
-  \ few grow accustomed to such lives on the Material Plane and wholly abandon the\
-  \ end goal of returning to the Abyss, despite the fact that those who do make such\
-  \ a return home often grow even more powerful over time, gaining eerie new abilities\
-  \ and qualities absorbed from the raw chaos of the Abyss itself.<br/><br/> In addition\
-  \ to greater barghests being more powerful than typical barghests, the process of\
-  \ transforming into a greater barghest results in hideous mutations that often grant\
-  \ deadly abilities. Some barghests grow large bat-like wings upon their transformation.\
-  \ Others develop toxic breath or vestigial limbs. The options detailed in the stats\
-  \ below represent only the tip of the proverbial iceberg for barghest mutations\u2014\
-  feel free to use these as inspiration for coming up with new mutations of your own\
-  \ design.<br/><br/><b><u>Recall Knowledge - Fiend</u> ( [[DATABASE/skill/Religion|Religion]]\
-  \ )</b>: DC 25<br/><b><u>Unspecific Lore</u></b>: DC 23<br/><b><u>Specific Lore</u></b>:\
-  \ DC 20"
 dexterity: '+2'
 element: null
 fly_speed: null

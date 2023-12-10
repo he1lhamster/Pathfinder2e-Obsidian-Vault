@@ -11,26 +11,6 @@ creature_ability:
 - Leech Thought
 - Thoughtsense
 creature_family: '[[DATABASE/monsterfamily/Ennosite|Ennosite]]'
-description: 'Periodically, stray thoughts colliding on the [[DATABASE/plane/Astral
-  Plane|Astral Plane]] become entangled, forming a knot of rudimentary intellect.
-  Known as iotons, these beings lack the willpower to manifest physical bodies, much
-  less the self-awareness and vision to know what form these physical bodies might
-  take. Instead, they manifest as ghostly, cloudlike wisps, each intermittently forming
-  ephemeral features like alien eyes, unspeaking mouths, and shimmering symbols as
-  iotons instinctively process their surroundings. Left alone, they might drift for
-  ages amidst the Silver Sea.<br/><br/> Gregariously parasitic, iotons sense and congregate
-  around thinking beings, eagerly tearing off stray thoughts and using the harvested
-  psychic energy to think clearly and form physical bodies. An ioton might understand
-  that this process inflicts painful headaches in its victims, but it typically doesn''t
-  care. Not only do most of these ennosites become drunk on their newfound mental
-  power and cling to their captured thoughts, but returning what they stole also robs
-  an ioton of the mental bandwidth necessary to parse right from wrong. This sometimes
-  causes a painful cycle where it repeatedly steals thoughts, apologetically surrenders
-  them, and then blithely steals the thoughts anew.<br/><br/> Iotons that gradually
-  accumulate and consolidate enough mental potential form a permanent body, transforming
-  into another type of ennosite.<br/><br/><b><u>Recall Knowledge - Astral</u> ( [[DATABASE/skill/Occultism|Occultism]]
-  )</b>: DC 14<br/><b><u>Unspecific Lore</u></b>: DC 12<br/><b><u>Specific Lore</u></b>:
-  DC 9'
 dexterity: '+2'
 element: null
 fly_speed: '30'

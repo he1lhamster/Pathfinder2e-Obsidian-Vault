@@ -12,20 +12,6 @@ creature_ability:
 - Witchflame
 - Witchflame Kindling
 creature_family: null
-description: 'Manifesting as a sinuous form wreathed in sickly green flames, this
-  incorporeal undead forms when a powerful [[DATABASE/monsterfamily/Hag|hag]] or [[DATABASE/class_/Witch|witch]]
-  dies in agony or rage. The body at the center of the flames usually resembles the
-  witch''s idealized self-image, regardless of their age and appearance at the time
-  of their death.<br/><br/> A witchfire often resides in a bog or swamp, which slowly
-  blackens and decays around them. These regions are often plagued by [[DATABASE/monster/Will-o''-Wisp|will-o''-wisps]]
-  , which seem to have an uncanny relationship with the resident witchfire. A witchfire
-  might visit villages on the edge of their home terrain to lure away villagers, but
-  always attack victims within earshot to make sure that other villagers hear the
-  screams. A witchfire might also ally with other hags or witches and even join their
-  covens, but a witchfire is incapable of forming covens entirely on their own.<br/><br/><b><u>Recall
-  Knowledge - Spirit</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 28<br/><b><u>Recall
-  Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 28<br/><b><u>Unspecific
-  Lore</u></b>: DC 26<br/><b><u>Specific Lore</u></b>: DC 23'
 dexterity: '+6'
 element: null
 fly_speed: '40'

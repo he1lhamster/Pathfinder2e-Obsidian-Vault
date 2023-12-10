@@ -10,10 +10,6 @@ creature_ability:
 - Mark Quarry
 - Pus Burst
 creature_family: '[[DATABASE/monsterfamily/Crawling Hand|Crawling Hand]]'
-description: 'A giant crawling hand is the appendage of a very large creature, such
-  as a giant.<br/><br/><b><u>Recall Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 20<br/><b><u>Unspecific Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>:
-  DC 15'
 dexterity: '+2'
 element: null
 fly_speed: null

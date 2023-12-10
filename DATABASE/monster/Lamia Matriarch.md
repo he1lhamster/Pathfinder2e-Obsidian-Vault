@@ -11,19 +11,6 @@ creature_ability:
 - Dervish Strike
 - Matriarch's Caress
 creature_family: '[[DATABASE/monsterfamily/Lamia|Lamia]]'
-description: "The brilliant and powerful lamia matriarchs possess boundless ambition,\
-  \ always seeking to bring more people and territory into the clutches of their kind.\
-  \ Consequently, the become rulers of other lamia. For all their cruelty toward other\
-  \ creatures, they\u2019re fierce protectors of other lamia, and consequently they\
-  \ quickly come to rule cults or warbands. Regardless of the lamia\u2019s gender,\
-  \ these ascended lamias are always known as matriarchs. Rather than leonine limbs,\
-  \ a lamia matriarch\u2019s lower body is formed in the winding coils of a giant\
-  \ snake. They\u2019re also set apart by the occult power they pursue, and some have\
-  \ even have grand designs to break the animalistic curse that transformed them.\
-  \ However, every attempt so far has led to the matriarch\u2019s fall.<br/><br/><b><u>Recall\
-  \ Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 24<br/><b><u>Unspecific Lore</u></b>: DC 22<br/><b><u>Specific Lore</u></b>:\
-  \ DC 19"
 dexterity: '+4'
 element: null
 fly_speed: null

@@ -12,14 +12,6 @@ creature_ability:
 - Skip Between
 - Swarmwalker
 creature_family: '[[DATABASE/monsterfamily/Sahkil|Sahkil]]'
-description: 'These gaunt and insectile sahkils torment their foes by focusing on
-  a widespread fear of insects and creeping, crawling vermin. Unlike their more subtle
-  cousins, wihsaaks don''t lurk in the periphery and instead directly engage their
-  targets, using their unnerving buzzing to disorient and terrify. When encountering
-  multiple foes, wihsaaks attempt to spread fear to everyone before slashing at them
-  with their devastating claws.<br/><br/><b><u>Recall Knowledge - Fiend</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 22<br/><b><u>Unspecific Lore</u></b>: DC 20<br/><b><u>Specific Lore</u></b>:
-  DC 17'
 dexterity: '+5'
 element: null
 fly_speed: '40'

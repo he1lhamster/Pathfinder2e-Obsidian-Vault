@@ -13,17 +13,6 @@ creature_ability:
 - Petrifying Glance
 - Savage Jaws
 creature_family: '[[DATABASE/monsterfamily/Basilisk|Basilisk]]'
-description: 'Dracolisks are rare magical crossbreeds of chromatic dragons and [[DATABASE/monster/Basilisk|basilisks]]
-  . None now know how they first came to be, but they have proven viable and can breed
-  with one another as well as with basilisks. While a dracolisk appears much like
-  a young true dragon of its parent type, its eight legs are an immediate indication
-  that it is something more. Its coloration varies, depending on the nature of its
-  draconic ancestry, though it''s lighter on its underside and darker near its wing
-  tips. A typical dracolisk is 15 feet long and weighs 3,000 pounds.<br/><br/><b><u>Recall
-  Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 28<br/><b><u>Recall Knowledge - Dragon</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  )</b>: DC 28<br/><b><u>Unspecific Lore</u></b>: DC 26<br/><b><u>Specific Lore</u></b>:
-  DC 23'
 dexterity: '+2'
 element: null
 fly_speed: '40'

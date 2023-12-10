@@ -1,106 +1,87 @@
 ﻿---
-ac: '38'
-alignment: CE
+ac: '40'
+alignment: LE
 all_resistance: null
 burrow_speed: null
-charisma: '+8'
+charisma: '+9'
 climb_speed: null
 constitution: '+6'
 creature_ability:
-- Agonized Wail
-- Baleful Gaze
-- Nymph's Tragedy
-- Shame
-- Tortuous Touch
-creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Fey</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 39<br/><b><u>Unspecific Lore</u></b>:
-  DC 37<br/><b><u>Specific Lore</u></b>: DC 34'
-dexterity: '+7'
-element: Water
-fly_speed: null
+- Boundless Reach
+- Change Shape
+- Indomitable Oration
+- Whisper Earworm
+- Whispers of Discord
+creature_family: '[[DATABASE/monsterfamily/Devil|Devil]]'
+dexterity: '+8'
+element: null
+fly_speed: '40'
 fortitude: '+27'
 hardness: null
-hp: '230'
-id: '2371'
-immunity: null
+hp: '285'
+id: '1116'
+immunity:
+- fire
 intelligence: '+4'
 land_speed: '30'
 language:
-- '[[DATABASE/language/Aklo|Aklo]]'
-- '[[DATABASE/language/Elven|Elven]]'
-- '[[DATABASE/language/Sylvan|Sylvan]]'
-level: '15'
-max_speed: '30'
-name: Defaced Naiad Queen
-perception: '+28'
-rarity: Rare
-reflex: '+30'
-resistance: null
+- '[[DATABASE/language/Abyssal|Abyssal]]'
+- '[[DATABASE/language/Celestial|Celestial]]'
+- '[[DATABASE/language/Common|Common]]'
+- '[[DATABASE/language/Draconic|Draconic]]'
+- '[[DATABASE/language/Infernal|Infernal]] ; indomitable oration'
+- '[[DATABASE/monsterability/Telepathy|telepathy]] 100 feet'
+level: '17'
+max_speed: '40'
+name: Deimavigga
+perception: '+32'
+rarity: Common
+reflex: '+29'
+resistance:
+- physical 15 (except [[DATABASE/equipment/Silver Weapon|silver]] )
 rus_type_level: null
 school: null
 sense:
-- low-light vision
+- (+36 to Sense Motive) greater darkvision
 size: Medium
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +28'
-- '[[DATABASE/skill/Athletics|Athletics]] +25'
-- '[[DATABASE/skill/Deception|Deception]] +31'
-- '[[DATABASE/skill/Diplomacy|Diplomacy]] +29'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +31'
-- '[[DATABASE/skill/Nature|Nature]] +28'
-- '[[DATABASE/skill/Performance|Performance]] +31'
-- '[[DATABASE/skill/Stealth|Stealth]] +28'
-- '[[DATABASE/skill/Survival|Survival]] +26'
-source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +29'
+- '[[DATABASE/skill/Deception|Deception]] +34'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +36'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +30'
+- '[[DATABASE/skill/Religion|Religion]] +30'
+- '[[DATABASE/skill/Society|Society]] +27'
+- '[[DATABASE/skill/Stealth|Stealth]] +33'
+source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 30 feet
+- fly 40 feet
 spell:
-- '[[DATABASE/spell/Baleful Polymorph|Baleful Polymorph]]'
-- '[[DATABASE/spell/Blindness|Blindness]]'
-- '[[DATABASE/spell/Chain Lightning|Chain Lightning]]'
-- '[[DATABASE/spell/Charm|Charm]]'
-- '[[DATABASE/spell/Cone of Cold|Cone ofCold]]'
-- '[[DATABASE/spell/Detect Magic|Detect Magic]]'
-- '[[DATABASE/spell/Dispel Magic|Dispel Magic]]'
-- '[[DATABASE/spell/Fear|Fear]]'
-- '[[DATABASE/spell/Finger of Death|Finger of Death]]'
-- '[[DATABASE/spell/Flesh to Stone|Flesh to Stone]]'
-- '[[DATABASE/spell/Fly|Fly]]'
-- '[[DATABASE/spell/Freedom of Movement|Freedom of Movement]]'
-- '[[DATABASE/spell/Glitterdust|Glitterdust]]'
-- '[[DATABASE/spell/Guidance|Guidance]]'
-- '[[DATABASE/spell/Gust of Wind|Gust of Wind]]'
-- '[[DATABASE/spell/Heal|Heal]]'
-- '[[DATABASE/spell/Light|Light]]'
-- '[[DATABASE/spell/Lightning Bolt|Lightning Bolt]]'
-- '[[DATABASE/spell/Obscuring Mist|Obscuring Mist]]'
-- '[[DATABASE/spell/Ray of Frost|Ray of Frost]]'
-- '[[DATABASE/spell/Slow|Slow]]'
-- '[[DATABASE/spell/Speak with Plants|Speak withPlants]]'
-- '[[DATABASE/spell/Spider Sting|Spider Sting]]'
-- '[[DATABASE/spell/Stabilize|Stabilize]]'
-- '[[DATABASE/spell/Web|Web]]'
-strength: '+0'
-strength_req: '0'
+- '[[DATABASE/spell/Dimension Door|Dimension Door]]'
+- '[[DATABASE/spell/Divine Decree|Divine Decree]]'
+- '[[DATABASE/spell/Dominate|Dominate]]'
+- '[[DATABASE/spell/Dream Message|Dream Message]]'
+- '[[DATABASE/spell/Illusory Scene|Illusory Scene]]'
+- '[[DATABASE/spell/Scrying|Scrying]]'
+- '[[DATABASE/spell/Touch of Idiocy|Touch of Idiocy]]'
+- '[[DATABASE/spell/Veil|Veil]]'
+- '[[DATABASE/spell/Warp Mind|Warp Mind]]'
+strength: '+7'
+strength_req: '7'
 strongest_save:
-- Reflex
+- Will
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Amphibious|Amphibious]]'
-- '[[DATABASE/trait/Fey|Fey]]'
-- '[[DATABASE/trait/Nymph|Nymph]]'
-- '[[DATABASE/trait/Rare|Rare]]'
-- '[[DATABASE/trait/Water|Water]]'
+- '[[DATABASE/trait/Devil|Devil]]'
+- '[[DATABASE/trait/Fiend|Fiend]]'
 type: Creature
-vision: Low-light vision
+vision: Greater darkvision
 weakest_save:
-- Will
+- Fortitude
 weakness:
-- cold iron 15
-- Resistances fire 15
-will: '+26'
-wisdom: '+5'
+- good 15
+will: '+32'
+wisdom: '+7'
 
 ---
 # Deimavigga (Apostate Devil)

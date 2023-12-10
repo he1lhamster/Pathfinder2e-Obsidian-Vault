@@ -14,19 +14,6 @@ creature_ability:
 - Shadow Flitter
 - Wearying Touch
 creature_family: '[[DATABASE/monsterfamily/Wisp|Wisp]]'
-description: 'Will-o''-wisps native to the Darklands are more ominous and malevolent
-  than those that bob about in the lonely marshes and surfaces of the upper world.
-  These dread wisps instill terror with eerie shifts of light and consume the fear
-  they create, drawing life energy from their victims in the process. While dread
-  wisps can survive anywhere within the Darklands, they prefer moist areas like partially
-  submerged caves, the banks of underground rivers, and towering fungus gardens.<br/><br/>
-  Dread wisps don''t glow as brightly as surface will-o''-wisps because even the dimmest
-  light attracts notice underground. Long-lived and hateful creatures, they remember
-  vivid details about their lives, travels, and most delicious prey. Although dread
-  wisps could share extensive lore and unique experiences, they don''t, as they find
-  amusement in others'' ignorance.<br/><br/><b><u>Recall Knowledge - Aberration</u>
-  ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 28<br/><b><u>Unspecific Lore</u></b>:
-  DC 26<br/><b><u>Specific Lore</u></b>: DC 23'
 dexterity: '+6'
 element: null
 fly_speed: '50'

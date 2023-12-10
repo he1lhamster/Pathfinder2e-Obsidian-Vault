@@ -17,28 +17,6 @@ creature_ability:
 - Spatial Riptide
 - Warpwave Strike
 creature_family: '[[DATABASE/monsterfamily/Protean|Protean]]'
-description: "The ruling caste of the proteans, keketars orchestrate attacks against\
-  \ the bastions of law and adjudicate protean disputes confidently and capriciously.\
-  \ A keketar resembles a shimmering, serpentine creature with spines, claws, and\
-  \ a dragon-like head. A keketar\u2019s actual appearance is in constant flux, but\
-  \ they generally stay about 18 feet long with a weight of around 1,500 pounds. While\
-  \ their physical forms can vary, two things remain constant: First, a keketar\u2019\
-  s eyes are always a piercing shade of amber or violet. Second, the keketar\u2019\
-  s mark of office\u2014a crown of shifting symbols that hovers above its head\u2014\
-  never changes. A keketar cannot remove its crown but can suppress it, although most\
-  \ are loath to do so and consider such an act one of cowardice or shame.<br/><br/>\
-  \ Keketars fill a role in protean society of a sort of priesthood, operating as\
-  \ intermediaries between the other proteans and the Speakers of the Depths. All\
-  \ other proteans defer to keketars, treating them in a way similar to how citizens\
-  \ of a mortal city would treat respected nobles; even more powerful proteans defer\
-  \ to the will of the keketars. As with many religions, dogma and theology are prone\
-  \ to interpretation and change, and among the proteans the situation is perhaps\
-  \ even more pronounced. Whatever the nature of and desires held by the mysterious\
-  \ Speakers of the Depths, individual keketars may come to dramatically different\
-  \ conclusions as to their will and intent. To the proteans, though, this inherent\
-  \ dissonance is a strength rather than a weakness.<br/><br/><b><u>Recall Knowledge\
-  \ - Monitor</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 36<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 34<br/><b><u>Specific Lore</u></b>: DC 31"
 dexterity: '+5'
 element: null
 fly_speed: '50'

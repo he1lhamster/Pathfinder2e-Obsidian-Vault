@@ -13,10 +13,6 @@ creature_ability:
 - Swarming Stance
 - Uncanny Tinker
 creature_family: '[[DATABASE/monsterfamily/Morlock|Morlock]]'
-description: 'Most morlocks have little talent for crafting, but a rare few have an
-  uncanny knack for tinkering.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 20<br/><b><u>Unspecific Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>:
-  DC 15'
 dexterity: '+3'
 element: null
 fly_speed: null

@@ -12,13 +12,6 @@ creature_ability:
 - Motion Sense
 - Puddled Ambush
 creature_family: '[[DATABASE/monsterfamily/Ooze|Ooze]]'
-description: 'These dangerous oozes are the bane of any who travel through swamps,
-  marshes, or damp caves. Easily masquerading as pools of clear water or patches of
-  wet stone, gray oozes lie in wait for unwary victims to reach down for a drink or
-  step into what appears to be a puddle, then lash out with whiplike pseudopods to
-  ensnare and consume their hapless prey.<br/><br/><b><u>Recall Knowledge - Ooze</u>
-  ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 19<br/><b><u>Unspecific Lore</u></b>:
-  DC 17<br/><b><u>Specific Lore</u></b>: DC 14'
 dexterity: '+2'
 element: null
 fly_speed: null

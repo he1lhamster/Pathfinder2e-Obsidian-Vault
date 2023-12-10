@@ -11,10 +11,6 @@ creature_ability:
 - Plaque Burst
 - Pry
 creature_family: '[[DATABASE/monsterfamily/Tooth Fairy|Tooth Fairy]]'
-description: 'A mob of tooth fairies working together can conduct forced dentistry
-  in seconds.<br/><br/><b><u>Recall Knowledge - Fey</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 18<br/><b><u>Unspecific Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>:
-  DC 13'
 dexterity: '+3'
 element: null
 fly_speed: '40'

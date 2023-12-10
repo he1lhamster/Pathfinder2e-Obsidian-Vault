@@ -11,20 +11,6 @@ creature_ability:
 - Corrosive Kiss
 - Self-Detonate
 creature_family: '[[DATABASE/monsterfamily/Xulgath|Xulgath]]'
-description: "Xulgath gutragers exhibit more extreme developments along the same physiological\
-  \ path as their [[DATABASE/monster/Xulgath Bilebearer|bilebearer]] cousins. They\
-  \ are stockier and faster, with necks and limbs corded with muscle. They are also\
-  \ denser, with multiple stomachs full of fluids even more caustic than those of\
-  \ the bilebearer. Like the bilebearer, gutragers lack the distinctive stench typical\
-  \ of most xulgaths.<br/><br/> A gutrager\u2019s torso conceals its most disturbing\
-  \ feature\u2014a densely coiled esophagus. Pressurized bladders and a muscular throat\
-  \ allow the gutrager to propel its esophagus outward in an explosion of yellow flesh\
-  \ and acidic bile; caustic stomach acid coating the esophagus makes even brief physical\
-  \ contact with the organ dangerous. As a last resort, the gutrager can intentionally\
-  \ accelerate the corrosion in its esophagus, releasing vile acid in a burst that\
-  \ also ends its life.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]\
-  \ )</b>: DC 27<br/><b><u>Unspecific Lore</u></b>: DC 25<br/><b><u>Specific Lore</u></b>:\
-  \ DC 22"
 dexterity: '+6'
 element: null
 fly_speed: null

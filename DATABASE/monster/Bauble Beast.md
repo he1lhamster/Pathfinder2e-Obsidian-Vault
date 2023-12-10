@@ -10,28 +10,6 @@ creature_ability:
 - Forge Jewelry
 - Philanthropic Bile
 creature_family: null
-description: "The reclusive and deceptive creatures called bauble beasts create false\
-  \ jewelry as a byproduct of their extremely bizarre magical digestive systems. Two\
-  \ natural skin conditions provide the raw materials for this process: scaly patches\
-  \ of thin layers of metal, and warts that resemble gemstones. By chewing loose these\
-  \ patches and swallowing them, a bauble beast magically constructs the jewelry in\
-  \ its guts. After passing the forgery, it polishes and reshapes the item to make\
-  \ it more convincing. The beast then sneaks into a settlement to place the jewelry\
-  \ somewhere it can be found. A creature who dons this false jewelry is compelled\
-  \ to fetch their real valuables and deliver them to the beast, which it happily\
-  \ collects. Some bauble beasts simply send the confused victim on their way, but\
-  \ other more evil bauble beasts slay them to avoid being found out.<br/><br/> This\
-  \ imitation jewelry fools laypeople, but it's infamous among merchants. Merchant\
-  \ training usually includes a brief course on detecting bauble beast jewelry's subtle\
-  \ but distinctive sweet odor.<br/><br/> Though largely solitary, bauble beasts occasionally\
-  \ socialize with others who share their limited interests, primarily merchants,\
-  \ jewelers, [[DATABASE/monsterfamily/Elemental, Earth|earth elementals]] , and other\
-  \ bauble beasts. [[DATABASE/monster/Xorn|Xorns]] have a particular fondness for\
-  \ bauble beasts\u2014or at least their gems. Though these aren't as nourishing as\
-  \ real gems, xorns find the flavor decadent and eat them as a sort of junk food.<br/><br/><b><u>Recall\
-  \ Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 24<br/><b><u>Unspecific Lore</u></b>: DC 22<br/><b><u>Specific Lore</u></b>:\
-  \ DC 19"
 dexterity: '+4'
 element: Earth
 fly_speed: null

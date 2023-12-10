@@ -13,14 +13,6 @@ creature_ability:
 - Stunning Display
 - Thulgant Venom
 creature_family: '[[DATABASE/monsterfamily/Qlippoth|Qlippoth]]'
-description: 'Although they spend most of their time hunting and battling [[DATABASE/monsterfamily/Demon|demons]]
-  for control of the [[DATABASE/plane/Abyss|Abyss]] , thulgants amuse themselves with
-  a variety of diversions, such as maintaining galleries of petrified mortals or building
-  massive, hive-like lairs filled with enslaved minions. Each of these qlippoth is
-  a horrific tangle of limbs, with spiderlike legs, writhing tentacles emerging from
-  the top of its head, and three scorpion-like stingers.<br/><br/><b><u>Recall Knowledge
-  - Fiend</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 40<br/><b><u>Unspecific
-  Lore</u></b>: DC 38<br/><b><u>Specific Lore</u></b>: DC 35'
 dexterity: '+6'
 element: null
 fly_speed: '50'

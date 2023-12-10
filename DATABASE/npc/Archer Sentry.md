@@ -9,11 +9,6 @@ constitution: '+1'
 creature_ability:
 - Sentry's Aim
 creature_family: '[[DATABASE/monsterfamily/Officers|Officers]]'
-description: 'Archer sentries slightly outrank the rank-and-file guards, taking positions
-  on walls, garrisons, and other important locations where they can stay out of the
-  fray and pick off criminals or assailants.<br/><br/><b><u>Recall Knowledge - Humanoid</u>
-  ( [[DATABASE/skill/Society|Society]] )</b>: DC 16<br/><b><u>Unspecific Lore</u></b>:
-  DC 14<br/><b><u>Specific Lore</u></b>: DC 11'
 dexterity: '+4'
 element: null
 fly_speed: null

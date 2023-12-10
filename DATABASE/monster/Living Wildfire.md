@@ -10,10 +10,6 @@ creature_ability:
 - Explosion
 - Smoke Vision
 creature_family: '[[DATABASE/monsterfamily/Elemental, Fire|Elemental, Fire]]'
-description: 'Living wildfires appear as humanoids made of living fire.<br/><br/><b><u>Recall
-  Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 20<br/><b><u>Unspecific Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>:
-  DC 15'
 dexterity: '+4'
 element: Fire
 fly_speed: null

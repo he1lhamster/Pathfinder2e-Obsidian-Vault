@@ -11,11 +11,6 @@ creature_ability:
 - Intimidating Strike
 - Mark for Death
 creature_family: '[[DATABASE/monsterfamily/Officers|Officers]]'
-description: 'Executioners carry out sentences from cruel tyrants and legitimate rulers
-  alike. Most remain numb to the necessity of their duty, but some evil executioners
-  grow to love the power of having someone else''s life in their hands.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 22<br/><b><u>Unspecific
-  Lore</u></b>: DC 20<br/><b><u>Specific Lore</u></b>: DC 17'
 dexterity: '+2'
 element: null
 fly_speed: null

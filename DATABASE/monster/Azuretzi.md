@@ -14,19 +14,6 @@ creature_ability:
 - Protean Anatomy
 - Spell Pilfer
 creature_family: '[[DATABASE/monsterfamily/Protean|Protean]]'
-description: 'Azuretzis are sinuous, serpentine creatures with dagger-sharp teeth,
-  covered in brilliant blue scales with mottled purple and pink highlights that shimmer
-  in a pareidolic approximation of leering, laughing faces. The [[DATABASE/plane/Maelstrom|Maelstrom''s]]
-  chaotic forces spawn these small proteans from a variety of sources: physical mating
-  between older azuretzis, the paradoxical promotion of bestial [[DATABASE/monster/Naunet|naunets]]
-  , and possibly from mortal [[DATABASE/monster/Petitioner|petitioners]] , though
-  azuretzis may just be confusing putative mortal memories with experiences gained
-  from games of mimicry. Never expect azuretzis to operate by any rational, self-consistent
-  rules.<br/><br/> Azuretzis represent the humor of chaos, particularly in the form
-  of mockery and parody via exaggerated mimicry, twisting a target''s features into
-  a laughingstock.<br/><br/><b><u>Recall Knowledge - Monitor</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 20<br/><b><u>Unspecific Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>:
-  DC 15'
 dexterity: '+4'
 element: null
 fly_speed: '25'

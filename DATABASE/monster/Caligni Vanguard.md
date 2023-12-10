@@ -13,19 +13,6 @@ creature_ability:
 - Echolocation
 - Shadowed Blade
 creature_family: '[[DATABASE/monsterfamily/Caligni|Caligni]]'
-description: "Caligni children born without eyes\u2014an extremely rare occurrence\u2014\
-  are considered sacred to their communities. From a young age, they're set aside\
-  \ and groomed to become caligni vanguards, dedicated to rigorous martial training\
-  \ and mental strictures. Other calignis revere vanguards' discipline and combat\
-  \ skill, but wary caution always tinges such respect, as they often have inscrutable\
-  \ motives. Vanguards almost never rebel against their duties or their established\
-  \ role in the community; some claim that those who do are taken by the owbs.<br/><br/>\
-  \ A vanguard's armor is fused to their body in pieces, and they rarely remove those\
-  \ elements that aren't. This armor plating and vanguards' keen sense of hearing\
-  \ render them particularly sensitive to sonic vibrations, which serves as both an\
-  \ asset and a vulnerability.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]\
-  \ )</b>: DC 25<br/><b><u>Unspecific Lore</u></b>: DC 23<br/><b><u>Specific Lore</u></b>:\
-  \ DC 20"
 dexterity: '-1'
 element: null
 fly_speed: null

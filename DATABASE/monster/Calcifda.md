@@ -14,9 +14,6 @@ creature_ability:
 - Lashing Stone
 - Steady Spellcasting
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Fey</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 37<br/><b><u>Unspecific Lore</u></b>:
-  DC 35<br/><b><u>Specific Lore</u></b>: DC 32'
 dexterity: '+4'
 element: Earth
 fly_speed: null

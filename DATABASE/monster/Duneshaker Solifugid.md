@@ -1,70 +1,51 @@
 ﻿---
-ac: '42'
-alignment: N
+ac: null
+alignment: null
 all_resistance: null
-burrow_speed: '25'
-charisma: '-4'
-climb_speed: '25'
-constitution: '+7'
-creature_ability:
-- Earth Shaker
-- Pounce
-- Rend
-- Venom Spray
-creature_family: '[[DATABASE/monsterfamily/Solifugid|Solifugid]]'
-description: 'The largest solifugids, duneshakers, are so immense that their movements
-  make the terrain around them tremble. They can prey on creatures the size of mammoths
-  or even larger.<br/><br/><b><u>Recall Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 38<br/><b><u>Unspecific Lore</u></b>: DC 36<br/><b><u>Specific Lore</u></b>:
-  DC 33'
-dexterity: '+7'
+burrow_speed: null
+charisma: null
+climb_speed: null
+constitution: null
+creature_ability: null
+creature_family: null
+dexterity: null
 element: null
 fly_speed: null
-fortitude: '+31'
+fortitude: null
 hardness: null
-hp: '340'
-id: '810'
+hp: null
+id: '485'
 immunity: null
-intelligence: '-5'
-land_speed: '50'
+intelligence: null
+land_speed: null
 language: null
-level: '18'
-max_speed: '50'
+level: null
+max_speed: null
 name: Duneshaker Solifugid
-perception: '+30'
-rarity: Common
-reflex: '+33'
+perception: null
+rarity: null
+reflex: null
 resistance: null
 rus_type_level: null
 school: null
-sense:
-- '[[DATABASE/monsterability/Darkvision|darkvision]]'
-- '[[DATABASE/monsterability/Tremorsense|tremorsense (imprecise) 30 feet]]'
-size: Gargantuan
-skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +33'
-- '[[DATABASE/skill/Athletics|Athletics]] +35'
-- '[[DATABASE/skill/Stealth|Stealth]] +33'
-source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
-speed:
-- 50 feet
-- burrow 25 feet
-- climb 25 feet
+sense: null
+size: null
+skill: null
+source: '[[DATABASE/source/Pathfinder 149. Against the Scarlet Triad|Pathfinder #149:
+  Against the Scarlet Triad]]'
+speed: null
 spell: null
-strength: '+9'
-strength_req: '9'
-strongest_save:
-- Reflex
+strength: null
+strength_req: null
+strongest_save: null
 swim_speed: null
-trait:
-- '[[DATABASE/trait/Animal|Animal]]'
-type: Creature
-vision: Darkvision
-weakest_save:
-- Will
+trait: null
+type: null
+vision: null
+weakest_save: null
 weakness: null
-will: '+28'
-wisdom: '+4'
+will: null
+wisdom: null
 
 ---
 # Duneshaker Solifugid

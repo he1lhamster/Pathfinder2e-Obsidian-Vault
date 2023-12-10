@@ -12,14 +12,6 @@ creature_ability:
 - Feral Trackers
 - Frightening Howl
 creature_family: '[[DATABASE/monsterfamily/Skull Swarm|Skull Swarm]]'
-description: 'Some skull swarms are crafted from the heads of feral and dangerous
-  beasts. These can include predatory cats, bears, [[DATABASE/trait/Dinosaur|dinosaurs]]
-  , and the like, but just as often they''re made from bulls, horses, apes, and other
-  creatures that were gentler in life. In death, a feral skull swarm is bloodthirsty
-  regardless of its origins, with a keen scent for living flesh. Even herbivore skulls
-  diligently chew on the flesh of their swarm''s victims.<br/><br/><b><u>Recall Knowledge
-  - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 32<br/><b><u>Unspecific
-  Lore</u></b>: DC 30<br/><b><u>Specific Lore</u></b>: DC 27'
 dexterity: '+4'
 element: null
 fly_speed: null

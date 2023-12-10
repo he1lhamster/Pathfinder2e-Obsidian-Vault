@@ -8,9 +8,6 @@ climb_speed: null
 constitution: '+0'
 creature_ability: null
 creature_family: '[[DATABASE/monsterfamily/Skeleton|Skeleton]]'
-description: 'The most common skeletal minions are mere guardians.<br/><br/><b><u>Recall
-  Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 13<br/><b><u>Unspecific
-  Lore</u></b>: DC 11<br/><b><u>Specific Lore</u></b>: DC 8'
 dexterity: '+4'
 element: null
 fly_speed: null

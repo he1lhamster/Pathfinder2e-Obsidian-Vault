@@ -10,13 +10,6 @@ creature_ability:
 - Attach
 - Gnaw
 creature_family: '[[DATABASE/monsterfamily/Elemental, Earth|Elemental, Earth]]'
-description: 'Gluttonous geodes form when natural forces crack open a geode that''s
-  steeped in elemental magic, causing a natural break that acts like a hinged jaw.
-  Though seemingly unimportant and no larger than a common turtle, gluttonous geodes
-  are bellicose and dogged in their pursuit of an enemy.<br/><br/><b><u>Recall Knowledge
-  - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 15<br/><b><u>Unspecific Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>:
-  DC 10'
 dexterity: '-1'
 element: Earth
 fly_speed: null

@@ -10,12 +10,6 @@ creature_ability:
 - Abdomen Cache
 - Constrict
 creature_family: '[[DATABASE/monsterfamily/Skeleton|Skeleton]]'
-description: 'Created from the exoskeleton of a [[DATABASE/monster/Giant Stag Beetle|giant
-  stag beetle]] , this mindless husk can cut a foe in half using its powerful mandibles.
-  The abdomen of this crawling undead is empty, and more than one necromancer has
-  used this space to hide valuable cargo.<br/><br/><b><u>Recall Knowledge - Undead</u>
-  ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 22<br/><b><u>Unspecific Lore</u></b>:
-  DC 20<br/><b><u>Specific Lore</u></b>: DC 17'
 dexterity: '+3'
 element: null
 fly_speed: '20'

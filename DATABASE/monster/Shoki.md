@@ -11,10 +11,6 @@ creature_ability:
 - Soul Lock
 - Spirit Touch
 creature_family: '[[DATABASE/monsterfamily/Psychopomp|Psychopomp]]'
-description: 'Shokis are shepherds who lead wayward souls to the [[DATABASE/plane/Boneyard|Boneyard]]
-  .<br/><br/><b><u>Recall Knowledge - Monitor</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 28<br/><b><u>Unspecific Lore</u></b>: DC 26<br/><b><u>Specific Lore</u></b>:
-  DC 23'
 dexterity: '+1'
 element: null
 fly_speed: null

@@ -10,25 +10,6 @@ creature_ability:
 - Dorsal Deflection
 - Trample
 creature_family: '[[DATABASE/monsterfamily/Dinosaur|Dinosaur]]'
-description: "The stegosaurus is easily recognized by its twin rows of diamond-shaped\
-  \ dorsal plates that run down its spine, and thick tail adorned with four large\
-  \ spikes. This strange configuration protects this herbivore from predators, as\
-  \ the stegosaurus can hunker down to interpose its dorsal plates between an attacker\
-  \ and its thick body. A stegosaurus defends itself by swinging its spiked tail at\
-  \ larger foes and trampling smaller opponents underfoot.<br/><br/> The stegosaurus\
-  \ often inhabits grasslands, where nutritious vegetation is plentiful and only its\
-  \ dorsal plates rise above waving fields of tall grass. The stegosaurus is among\
-  \ the most curious of dinosaurs, and hunters often find it easy to bait them with\
-  \ shiny trinkets or strange noises. A stegosaurus is about 30 feet long, 16 feet\
-  \ high at the top of its highest dorsal plate, and weighs between 2 and 3 tons.<br/><br/>\
-  \ The stegosaurus is generally more even-tempered and even gentle, despite its size,\
-  \ than the ankylosaurus. This combination makes it even more popular as a trained\
-  \ pet or guard, but even then one should take care to not annoy the dinosaur\u2014\
-  an angry or annoyed stegosaurus can lash out with its tail with little warning.\
-  \ Often, it\u2019s wiser to train smaller variants, such as the kentrosaurus. Regardless,\
-  \ their dorsal plates make this dinosaur a poor choice as a mount.<br/><br/><b><u>Recall\
-  \ Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 23<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 21<br/><b><u>Specific Lore</u></b>: DC 18"
 dexterity: '+2'
 element: null
 fly_speed: null

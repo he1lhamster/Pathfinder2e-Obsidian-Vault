@@ -10,14 +10,6 @@ creature_ability:
 - Curse of Darkness
 - Light Blindness
 creature_family: '[[DATABASE/monsterfamily/Owb|Owb]]'
-description: "Commonly called owbs, or lesser owbs by more powerful owb prophets,\
-  \ most of these mysterious creatures focus on manipulating caligni culture. Among\
-  \ calignis, an owb hides from mortals they deem beneath them\u2014even including\
-  \ calignis in their charge. An owb prefers to select one caligni leader to control\
-  \ from the shadows, manipulating them using charisma and magic. Through coersion\
-  \ of such agents, owbs maintain a steady hand in the politics of the community,\
-  \ either blessing and breaking pacts with other creatures or acting as intermediaries\
-  \ and ambassadors between calignis and powerful external entities."
 dexterity: '+5'
 element: null
 fly_speed: '30'

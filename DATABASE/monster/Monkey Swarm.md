@@ -11,11 +11,6 @@ creature_ability:
 - Ransack
 - Swarming Bites
 creature_family: '[[DATABASE/monsterfamily/Monkey|Monkey]]'
-description: 'A single monkey can cause mischief. A troop of monkeys, emboldened by
-  their numbers, can cause utter chaos, attacking anyone and looting anything in sight
-  before scattering away with whatever they can carry.<br/><br/><b><u>Recall Knowledge
-  - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 16<br/><b><u>Unspecific
-  Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>: DC 11'
 dexterity: '+4'
 element: null
 fly_speed: null

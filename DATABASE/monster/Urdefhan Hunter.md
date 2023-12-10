@@ -13,11 +13,6 @@ creature_ability:
 - Necrotic Decay
 - Wicked Bite
 creature_family: '[[DATABASE/monsterfamily/Urdefhan|Urdefhan]]'
-description: 'Urdefhan hunters serve as their cults'' trappers, hunters, and poachers.
-  Many urdefhan hunters use [[DATABASE/monster/Skaveling|skavelings]] to traverse
-  the massive caverns of the Darklands and scout for prey.<br/><br/><b><u>Recall Knowledge
-  - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 30<br/><b><u>Unspecific
-  Lore</u></b>: DC 28<br/><b><u>Specific Lore</u></b>: DC 25'
 dexterity: '+6'
 element: null
 fly_speed: null

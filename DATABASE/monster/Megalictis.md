@@ -10,16 +10,6 @@ creature_ability:
 - Constrict
 - Lithe
 creature_family: '[[DATABASE/monsterfamily/Weasel|Weasel]]'
-description: 'These giant weasels are driven by the same hunger that plagues their
-  smaller cousins, but because of their much larger size, they can quickly devastate
-  the wildlife in an environment. They tend to avoid humanoids but have been known
-  to attack if driven by hunger or fear. <br/><br/> A megalictis uses the same constricting
-  bite as smaller weasels, remaining attached even if other creatures attack. Given
-  their remarkable stature, a megalictis can take down sizable prey, including horses
-  and even the occasional bear, if the opportunity presents itself.<br/><br/> A megalictis
-  can grow to be 5 feet long and weighs around 150 pounds.<br/><br/><b><u>Recall Knowledge
-  - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 18<br/><b><u>Unspecific
-  Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>: DC 13'
 dexterity: '+4'
 element: null
 fly_speed: null

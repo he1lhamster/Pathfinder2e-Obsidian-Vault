@@ -16,12 +16,6 @@ creature_ability:
 - Reverse
 - Polarity
 creature_family: '[[DATABASE/monsterfamily/Elemental, Metal|Elemental, Metal]]'
-description: 'This rotating sphere of dark, shiny metal floats about 5 feet off the
-  ground, constantly surrounded by a whirling frenzy of smaller metallic objects caught
-  up in its powerful magnetic field.<br/><br/><b><u>Recall Knowledge - Elemental</u>
-  ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]] )</b>: DC
-  22<br/><b><u>Unspecific Lore</u></b>: DC 20<br/><b><u>Specific Lore</u></b>: DC
-  17'
 dexterity: '+3'
 element: Metal
 fly_speed: null

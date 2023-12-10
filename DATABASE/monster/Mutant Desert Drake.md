@@ -15,10 +15,6 @@ creature_ability:
 - Wing
 - Deflection
 creature_family: '[[DATABASE/monsterfamily/Mana Wastes Mutant|Mana Wastes Mutant]]'
-description: 'A mutant desert drake often dwells in regions where magic has transformed
-  the desert sands into sheets of glass or growths of strangely growing crystals.<br/><br/><b><u>Recall
-  Knowledge - Dragon</u> ( [[DATABASE/skill/Arcana|Arcana]] )</b>: DC 31<br/><b><u>Unspecific
-  Lore</u></b>: DC 29<br/><b><u>Specific Lore</u></b>: DC 26'
 dexterity: '+3'
 element: Earth
 fly_speed: '50'

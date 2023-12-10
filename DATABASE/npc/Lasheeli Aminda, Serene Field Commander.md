@@ -1,92 +1,101 @@
 ﻿---
-ac: '36'
-alignment: LN
+ac: '27'
+alignment: N
 all_resistance: null
 burrow_speed: null
-charisma: '+4'
+charisma: '+5'
 climb_speed: null
-constitution: '+3'
+constitution: '+0'
 creature_ability:
-- Control Harrow Cards
+- Bardic Lore
+- Cautionary Tale
+- Divine Aegis
+- Steady Spellcasting
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]]
-  )</b>: DC 44<br/><b><u>Unspecific Lore</u></b>: DC 42<br/><b><u>Specific Lore</u></b>:
-  DC 39'
-dexterity: '+5'
+dexterity: '+3'
 element: null
 fly_speed: null
-fortitude: '+24'
-hp: '275'
-id: '1491'
+fortitude: '+16'
+hp: '127'
+id: '2099'
 immunity: null
-intelligence: '+0'
-land_speed: '25'
+intelligence: '+4'
+land_speed: '30'
 language:
-- '[[DATABASE/language/Arcadian|Arcadian]]'
-- '[[DATABASE/language/Wyrwood|Wyrwood]]'
-level: '15'
-max_speed: '25'
-name: Lantondo
-perception: '+27'
+- '[[DATABASE/language/Celestial|Celestial]]'
+- '[[DATABASE/language/Common|Common]]'
+- '[[DATABASE/language/Drooni|Drooni]]'
+level: '10'
+max_speed: '30'
+name: Lasheeli Aminda
+perception: '+19'
 rarity: Unique
-reflex: '+26'
+reflex: '+19'
 resistance: null
 rus_type_level: null
-sense: null
-size: Small
+sense:
+- '[[DATABASE/monsterability/Darkvision|darkvision]]'
+size: Medium
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +27'
-- '[[DATABASE/skill/Deception|Deception]] +28'
-- '[[DATABASE/skill/Occultism|Occultism]] +24'
-source: '[[DATABASE/source/Pathfinder 167. Ready Fight!|Pathfinder #167: Ready? Fight!]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +19'
+- '[[DATABASE/skill/Lore|BardicLore]] +18'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +21'
+- '[[DATABASE/skill/Lore|Holomog Lore]] +20'
+- '[[DATABASE/skill/Occultism|Occultism]] +20'
+- '[[DATABASE/skill/Performance|Performance]] +21'
+- '[[DATABASE/skill/Religion|Religion]] +19'
+- '[[DATABASE/skill/Society|Society]] +20'
+source: '[[DATABASE/source/Pathfinder 183. Field of Maidens|Pathfinder #183: Field
+  of Maidens]]'
 speed:
-- 25 feet
+- 30 feet
 spell:
-- '[[DATABASE/spell/Banishment|Banishment]]'
-- '[[DATABASE/spell/Circle of Protection|Circle ofProtection]]'
-- '[[DATABASE/spell/Collective Transposition|Collective Transposition]]'
+- '[[DATABASE/spell/Augury|Augury]]'
+- '[[DATABASE/spell/Calm Emotions|CalmEmotions]]'
+- '[[DATABASE/spell/Celestial Accord|Celestial Accord]]'
+- '[[DATABASE/spell/Chromatic Wall|Chromatic Wall]]'
 - '[[DATABASE/spell/Confusion|Confusion]]'
-- '[[DATABASE/spell/Daze|Daze]]'
+- '[[DATABASE/spell/Continual Flame|Continual Flame]]'
+- '[[DATABASE/spell/Counter Performance|Counter Performance]]'
+- '[[DATABASE/spell/Crushing Despair|Crushing Despair]]'
 - '[[DATABASE/spell/Detect Magic|Detect Magic]]'
-- '[[DATABASE/spell/Dimensional Lock|Dimensional Lock]]'
+- '[[DATABASE/spell/Dirge of Doom|Dirge of Doom]]'
 - '[[DATABASE/spell/Dispel Magic|Dispel Magic]]'
+- '[[DATABASE/spell/Enthrall|Enthrall]]'
+- '[[DATABASE/spell/Faerie Fire|Faerie Fire]]'
 - '[[DATABASE/spell/Guidance|Guidance]]'
-- '[[DATABASE/spell/Invisibility Sphere|Invisibility Sphere]]'
+- '[[DATABASE/spell/Haste|Haste]]'
+- '[[DATABASE/spell/Heroism|Heroism]]'
+- '[[DATABASE/spell/Inspire Courage|InspireCourage]]'
 - '[[DATABASE/spell/Light|Light]]'
+- '[[DATABASE/spell/Loremaster''s Etude|Loremaster''s Etude]]'
 - '[[DATABASE/spell/Message|Message]]'
-- '[[DATABASE/spell/Nondetection|Nondetection]]'
-- '[[DATABASE/spell/Paranoia|Paranoia]]'
-- '[[DATABASE/spell/Prismatic Spray|Prismatic Spray]]'
-- '[[DATABASE/spell/Project Image|Project Image]]'
-- '[[DATABASE/spell/Remove Curse|Remove Curse]]'
+- '[[DATABASE/spell/Mindlink|Mindlink]]'
+- '[[DATABASE/spell/Prestidigitation|Prestidigitation]]'
+- '[[DATABASE/spell/Procyal Philosophy|Procyal Philosophy]]'
+- '[[DATABASE/spell/Prying Eye|Prying Eye]]'
+- '[[DATABASE/spell/Restoration|Restoration]]'
 - '[[DATABASE/spell/Sanctuary|Sanctuary]]'
-- '[[DATABASE/spell/Scintillating Pattern|Scintillating Pattern]]'
-- '[[DATABASE/spell/Shadow Siphon|Shadow Siphon]]'
-- '[[DATABASE/spell/Spellwrack|Spellwrack]]'
-- '[[DATABASE/spell/Spirit Blast|Spirit Blast]]'
-- '[[DATABASE/spell/Spiritual Weapon|Spiritual Weapon]]'
-- '[[DATABASE/spell/Summon Fey|Summon Fey]]'
-- '[[DATABASE/spell/Synaptic Pulse|Synaptic Pulse]]'
-- '[[DATABASE/spell/Telepathy|Telepathy]]'
-- '[[DATABASE/spell/True Strike|True Strike]]'
-- '[[DATABASE/spell/Uncontrollable Dance|Uncontrollable Dance]]'
-strength: '+2'
-strength_req: '2'
+- '[[DATABASE/spell/Shield|Shield]]'
+- '[[DATABASE/spell/True Strike|TrueStrike]]'
+strength: '+0'
+strength_req: '0'
 strongest_save:
+- Reflex
 - Will
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Construct|Construct]]'
+- '[[DATABASE/trait/Aasimar|Aasimar]]'
+- '[[DATABASE/trait/Human|Human]]'
+- '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
-- '[[DATABASE/trait/Wyrwood|Wyrwood]]'
 type: Creature
-vision: null
+vision: Darkvision
 weakest_save:
 - Fortitude
 weakness: null
-will: '+27'
-wisdom: '+4'
+will: '+19'
+wisdom: '+3'
 
 ---
 # Lasheeli Aminda, Serene Field Commander

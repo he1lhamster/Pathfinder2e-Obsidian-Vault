@@ -9,17 +9,6 @@ constitution: '+2'
 creature_ability:
 - Hunting Cry
 creature_family: '[[DATABASE/monsterfamily/Thylacine|Thylacine]]'
-description: 'A thylacine can be easily mistaken for a dog or jackal, but the defining
-  stripes on their gold-hued backs and unusually wide gaping jaws negate this perception
-  in close encounters. A thylacine is quite vocal, and uses a combination of growls,
-  hisses, and gaping threat-yawns when threatened. An adult thylacine stands 2 feet
-  tall at the shoulder, is 4 feet long (not counting an additional 2 feet of tail)
-  and weighs roughly 50 pounds.The thylacine is a marsupial carnivore. This nocturnal
-  predator typically hunts alone, only occasionally forming small packs. Because of
-  their odd appearance, thylacines have a far harsher reputation than they probably
-  should, playing a sort of bogeyman role in farming communities.<br/><br/><b><u>Recall
-  Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 16<br/><b><u>Unspecific
-  Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>: DC 11'
 dexterity: '+2'
 element: null
 fly_speed: null

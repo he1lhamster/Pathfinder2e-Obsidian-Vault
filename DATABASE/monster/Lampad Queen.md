@@ -16,14 +16,6 @@ creature_ability:
 - Tied
 - to the Land
 creature_family: '[[DATABASE/monsterfamily/Nymph|Nymph]]'
-description: 'Lampad queens are capricious monarchs and protectors of vast underground
-  domains, regarded in ballads and tales as allies and foes, monsters and muses. Lampad
-  queens have a particular animosity for the many predominantly evil underground ancestries,
-  such as [[DATABASE/monsterfamily/Drow|drow]] and [[DATABASE/monsterfamily/Duergar|duergar]]
-  , and they are particularly fond of bats. Many lampad queens have nykteras (page
-  254) as favored attendants.<br/><br/><b><u>Recall Knowledge - Fey</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 36<br/><b><u>Unspecific Lore</u></b>: DC 34<br/><b><u>Specific Lore</u></b>:
-  DC 31'
 dexterity: '+8'
 element: Earth
 fly_speed: null

@@ -1,97 +1,107 @@
 ﻿---
-ac: '23'
+ac: '52'
 alignment: N
 all_resistance: null
-burrow_speed: '15'
-charisma: '-5'
+burrow_speed: null
+charisma: '+10'
 climb_speed: null
-constitution: '+1'
+constitution: '+7'
 creature_ability:
-- Fastening Leap
-- Infiltration Tools
-- Mechanical Vulnerability
-- Sneak Attack
+- Aura of Growth
+- Axe Vulnerability
+- Enriching Aura
+- Forest Growth
+- Fungus Sight
+- Memories of
+- Ages
+- Memory Maelstrom
+- Nature's Concentration
+- fire 20
 creature_family: null
-description: 'Thieves covet dig-widgets, specialized constructs built for infiltration.
-  Each dig-widget contains numerous simple tools, including a set of mechanical devices
-  that function as [[DATABASE/equipment/Thieves'' Tools|thieves'' tools]] , two arms
-  with drills, and two arms with corkscrews for attaching to and climbing surfaces.
-  Once activated, these devices propel themselves forward. Though they have the full
-  faculties typical of a construct, they usually follow a simple routine: avoid notice,
-  pick any lock barring the path, dig past obstacles, and attack if caught. They''re
-  rarely left unattended, as a thief needs to be nearby to follow after-both to steal
-  goods and to stop the dig-widget from engaging in further larceny once it''s achieved
-  its goal.<br/><br/> The source of a dig-widget''s power is as much mechanical as
-  it is magical. The gears and springs that provide a dig-widget mobility are an improvement
-  over more primitive true clockwork creations (whose functions require constant winding
-  to remain mobile), but at the cost of security, for a dig-widget''s moving parts
-  can be dismantled quickly by thieves and others with the proper training.<br/><br/><b><u>Recall
-  Knowledge - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]]
-  )</b>: DC 20<br/><b><u>Unspecific Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>:
-  DC 15'
-dexterity: '+5'
+dexterity: '-1'
 element: null
 fly_speed: null
-fortitude: '+10'
+fortitude: '+42'
 hardness: null
-hp: '65'
-id: '771'
+hp: '550'
+id: '1708'
 immunity:
-- bleed
-- '[[DATABASE/trait/Death|death]] effects'
 - '[[DATABASE/trait/Disease|disease]]'
-- '[[DATABASE/condition/Doomed|doomed]]'
-- '[[DATABASE/condition/Drained|drained]]'
-- '[[DATABASE/condition/Fatigued|fatigued]]'
-- '[[DATABASE/trait/Healing|healing]]'
 - '[[DATABASE/trait/Mental|mental]]'
-- '[[DATABASE/trait/Necromancy|necromancy]]'
-- nonlethal attacks
-- '[[DATABASE/condition/Paralyzed|paralyzed]]'
 - '[[DATABASE/trait/Poison|poison]]'
-- '[[DATABASE/condition/Sickened|sickened]]'
-- '[[DATABASE/condition/Unconscious|unconscious]]'
-intelligence: '-5'
-land_speed: '30'
-language: null
-level: '5'
-max_speed: '30'
-name: Dig-Widget
-perception: '+9'
-rarity: Common
-reflex: '+14'
+intelligence: '+7'
+land_speed: '40'
+language:
+- '[[DATABASE/language/Aklo|Aklo]]'
+- '[[DATABASE/language/Arboreal|Arboreal]]'
+- '[[DATABASE/language/Celestial|Celestial]]'
+- '[[DATABASE/language/Common|Common]]'
+- '[[DATABASE/language/Draconic|Draconic]]'
+- '[[DATABASE/language/Requian|Requian]]'
+- '[[DATABASE/language/Sphinx|Sphinx]]'
+- '[[DATABASE/language/Sylvan|Sylvan]] ; [[DATABASE/spell/Speak with Animals|speak
+  with animals]]'
+- '[[DATABASE/spell/Speak with Plants|speak with plants]]'
+- '[[DATABASE/monsterability/Telepathy|telepathy]] 300 feet'
+level: '25'
+max_speed: '40'
+name: Dimari-Diji
+perception: '+43'
+rarity: Unique
+reflex: '+36'
 resistance: null
 rus_type_level: null
 school: null
 sense:
-- '[[DATABASE/monsterability/Darkvision|darkvision]]'
-- '[[DATABASE/monsterability/Tremorsense|tremorsense (imprecise) 30 feet]]'
-size: Small
+- '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
+- '[[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) 120 feet'
+size: Gargantuan
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +12'
-- '[[DATABASE/skill/Athletics|Athletics]] +9'
-- '[[DATABASE/skill/Stealth|Stealth]] +14'
-- '[[DATABASE/skill/Thievery|Thievery]] +15'
-source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
+- '[[DATABASE/skill/Arcana|Arcana]] +42'
+- '[[DATABASE/skill/Athletics|Athletics]] +43'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +41'
+- '[[DATABASE/skill/Lore|Mwangi Expanse Lore]] +50'
+- '[[DATABASE/skill/Nature|Nature]] +50'
+- '[[DATABASE/skill/Stealth|Stealth]] +36'
+source: '[[DATABASE/source/Pathfinder 172. Secrets of the Temple City|Pathfinder #172:
+  Secrets of the Temple City]]'
 speed:
-- 30 feet
-- burrow 15 feet
-spell: null
-strength: '+2'
-strength_req: '2'
+- 40 feet; [[DATABASE/spell/Freedom of Movement|freedom of movement]]
+spell:
+- '[[DATABASE/spell/Earthbind|Earthbind]]'
+- '[[DATABASE/spell/Entangle|Entangle]]'
+- '[[DATABASE/spell/Freedom of Movement|Freedom of Movement]]'
+- '[[DATABASE/spell/Moment of Renewal|Moment of Renewal]]'
+- '[[DATABASE/spell/Nature''s Enmity|Nature''s Enmity]]'
+- '[[DATABASE/spell/Primal Phenomenon|Primal Phenomenon]]'
+- '[[DATABASE/spell/Punishing Winds|Punishing Winds]]'
+- '[[DATABASE/spell/Regenerate|Regenerate]]'
+- '[[DATABASE/spell/Revival|Revival]]'
+- '[[DATABASE/spell/Speak with Animals|Speak with Animals]]'
+- '[[DATABASE/spell/Speak with Plants|Speak with Plants]]'
+- '[[DATABASE/spell/Storm of Vengeance|Storm of Vengeance]]'
+- '[[DATABASE/spell/Summon Plant or Fungus|Summon Plant or Fungus]]'
+- '[[DATABASE/spell/Sunburst|Sunburst]]'
+- '[[DATABASE/spell/Tangling Creepers|Tangling Creepers]]'
+- '[[DATABASE/spell/True Seeing|True Seeing]]'
+- '[[DATABASE/spell/Wind Walk|WindWalk]]'
+strength: '+12'
+strength_req: '12'
 strongest_save:
-- Reflex
+- Will
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Construct|Construct]]'
-- '[[DATABASE/trait/Mindless|Mindless]]'
+- '[[DATABASE/trait/Plant|Plant]]'
+- '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: Darkvision
+vision: Low-light vision
 weakest_save:
-- Will
-weakness: null
-will: '+7'
-wisdom: '+0'
+- Reflex
+weakness:
+- axe vulnerability
+- ''
+will: '+48'
+wisdom: '+12'
 
 ---
 # Dimari-Diji, Ancient Arboreal Guardian

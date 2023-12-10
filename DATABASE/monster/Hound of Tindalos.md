@@ -12,21 +12,6 @@ creature_ability:
 - Ripping Gaze
 - Vulnerable to Curved Space
 creature_family: null
-description: "Lean and athirst, the hounds of Tindalos are drawn to those who tamper\
-  \ with the flow of time, travel through time, or use magic or rare alchemical drugs\
-  \ to send their thoughts or perception back or forward in time. Powerful spellcasters\
-  \ can draw them from the [[DATABASE/plane/Dimension of Time|Dimension of Time]]\
-  \ via rare rituals, but doing so attracts the hounds' ire, so few who traffic in\
-  \ such rituals live long enough to spread their knowledge. While the hounds possess\
-  \ great cunning and cruel intellect, they rarely interact with other creatures\u2014\
-  other than to hunt and destroy those who have attracted their unblinking attention.<br/><br/>\
-  \ Once a hound catches scent of a mortal to hunt, it calls others of its ilk. The\
-  \ pack then pursues its victim through all space and time until it catches, slays\
-  \ and devours them. Those pursued can escape only by avoiding all angles, as hounds\
-  \ of Tindalos could step through them from nothingness at any time.<br/><br/><b><u>Recall\
-  \ Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC\
-  \ 28<br/><b><u>Unspecific Lore</u></b>: DC 26<br/><b><u>Specific Lore</u></b>: DC\
-  \ 23"
 dexterity: '+6'
 element: null
 fly_speed: '30'

@@ -11,17 +11,6 @@ creature_ability:
 - Sap Mind
 - Towering Stance
 creature_family: '[[DATABASE/monsterfamily/Asura|Asura]]'
-description: 'Lies, knowledge, and deception are a nikaramsa''s stock and trade. They
-  are outstanding scholars, with deep and nuanced understanding of religion, philosophy,
-  astrology, and similar subjects. They take particular delight in exploiting the
-  greed and hubris of gullible worshippers, using them to desecrate and destroy their
-  own faith. Even in their goal of undermining the holy, nikaramsas'' twisted humor
-  knows few bounds, and they prefer to take on the guise of divine messengers with
-  boons to share. Once they find a likely victim or set of victims, they use their
-  vast knowledge of religion to impart contradictory wisdom, leading to the eventual
-  implosion of the faith from heresies of the clergy and congregation themselves.<br/><br/><b><u>Recall
-  Knowledge - Fiend</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 32<br/><b><u>Unspecific
-  Lore</u></b>: DC 30<br/><b><u>Specific Lore</u></b>: DC 27'
 dexterity: '+3'
 element: null
 fly_speed: null

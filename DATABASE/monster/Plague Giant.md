@@ -14,26 +14,6 @@ creature_ability:
 - Retaliatory Scratch
 - Throw Rock
 creature_family: '[[DATABASE/monsterfamily/Giant|Giant]]'
-description: "Plague giants are rasping behemoths, whose weeping sores, fetid breath,\
-  \ and filthy fingernails all bear a terrible wasting disease. Like sewer rats or\
-  \ flies that swarm a fresh battlefield, plague giants bear an inborn pathogen that\
-  \ does little harm to the giants themselves (their wretched physical appearances\
-  \ are purely superficial) but can wreak devastation on afflicted victims.<br/><br/>\
-  \ Whatever their origin, the majority of plague giants are so accustomed to being\
-  \ viewed as monstrosities by other humanoids, giant and otherwise, that they become\
-  \ vehemently xenophobic. Some of their communities do permit other types of shunned\
-  \ humanoids\u2014especially those with leprosy and other stigmatized diseases\u2014\
-  \ to join their fold. Whether because they are expelled to the world's worst badlands\
-  \ or because they purposefully seek out such locales, plague giants often settle\
-  \ amid abandoned battlefields, sewer outlets, and other despoiled places. Their\
-  \ close ties to disease lead many to worship [[DATABASE/deity/Apollyon|Apollyon]]\
-  \ , the Horseman of Pestilence, or other deities associated with disease. Plague\
-  \ giants claim that their kind is as death itself, violently rejecting the theory\
-  \ often touted among non-giants that they are an offshoot of some other giant ancestry\
-  \ afflicted with a terrible divine curse. (Most other giants also reject this theory.)<br/><br/>\
-  \ Plague giants measure 24 feet tall and weigh 15,000 pounds.<br/><br/><b><u>Recall\
-  \ Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 32<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 30<br/><b><u>Specific Lore</u></b>: DC 27"
 dexterity: '+6'
 element: null
 fly_speed: null

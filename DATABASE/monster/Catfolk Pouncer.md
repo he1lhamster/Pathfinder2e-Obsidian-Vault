@@ -10,9 +10,6 @@ creature_ability:
 - "Cat\u2019s Luck"
 - Sudden Charge
 creature_family: '[[DATABASE/monsterfamily/Catfolk|Catfolk]]'
-description: 'Catfolk pouncers travel the world in search of new experiences.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 15<br/><b><u>Unspecific
-  Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>: DC 10'
 dexterity: '+4'
 element: null
 fly_speed: null

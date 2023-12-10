@@ -12,20 +12,6 @@ creature_ability:
 - Positive Nature
 - Radiant Mantle
 creature_family: null
-description: 'Beholding the blinding light of a gliminal is akin to staring into the
-  sun, and consequently, only gliminals themselves fully understand what they are
-  or how they truly look. Gliminals exude a constant aura of positive energy, suffusing
-  everything they encounter without regard for whether a creature''s body can withstand
-  these excesses of positive energy.<br/><br/> On the [[DATABASE/plane/Positive Energy
-  Plane|Positive Energy Plane]] they call home, gliminals view outsiders as unfortunate
-  creatures afflicted with the malady called mortality. They seek to suffuse mortals
-  with light and healing until they no longer suffer, and they consider those who
-  explode into positive energy cured. Gliminals pulled to other planes, whether summoned
-  or through interplanar rifts, find themselves overwhelmed, and usually lash out
-  in increasingly desperate attempts to escape the oppressive onslaught of matter
-  and negative energies.<br/><br/><b><u>Recall Knowledge - Spirit</u> ( [[DATABASE/skill/Occultism|Occultism]]
-  )</b>: DC 31<br/><b><u>Unspecific Lore</u></b>: DC 29<br/><b><u>Specific Lore</u></b>:
-  DC 26'
 dexterity: '+6'
 element: null
 fly_speed: '60'

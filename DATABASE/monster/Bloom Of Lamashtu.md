@@ -11,20 +11,6 @@ creature_ability:
 - Defensive Burst
 - Spew Seed Pod
 creature_family: null
-description: 'A thick, green stalk with spiraling rows of thorns stands at the center
-  of this enormous flowering plant. Each flower has a growing seed pod at its center,
-  surrounded by vibrant petals in a wide variety of colors. Crafted after consecutive
-  seasons of experimentation, prayer, and ritual, the bloom of [[DATABASE/deity/Lamashtu|Lamashtu]]
-  is the triumph of the cultist Darivan and his Cult of the Bloom. The fiendish plant
-  aids their effort to infect the humanoid population of the Stolen Lands and replace
-  them with monstrous predators. While the Bloom of Lamashtu is intelligent and is
-  capable of understanding [[DATABASE/language/Abyssal|Abyssal]] , it has very little
-  interest in anything other than spreading its curse.<br/><br/> Cultivated to spread
-  misery and violence, the bloom is quietly malevolent, growing its seeds as rapidly
-  as it can. It is 12 feet tall and weighs 600 pounds.<br/><br/><b><u>Recall Knowledge
-  - Fiend</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 37<br/><b><u>Recall
-  Knowledge - Plant</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 37<br/><b><u>Unspecific
-  Lore</u></b>: DC 35<br/><b><u>Specific Lore</u></b>: DC 32'
 dexterity: '+2'
 element: null
 fly_speed: null

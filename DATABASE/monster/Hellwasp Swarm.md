@@ -13,19 +13,6 @@ creature_ability:
 - Infest Corpse
 - Torturous Buzz
 creature_family: null
-description: 'Hellwasps'' infernal nature allows them to collectively inhabit and
-  control [[DATABASE/trait/Humanoid|humanoid]] corpses, and they use this ability
-  to infest and horrify large swathes of territory unless destroyed. While individual
-  hellwasp poses little threat, these fist-sized insects instinctively form into aggressive
-  swarms that will viciously attack any creature approaching their colony, the lone
-  exception being powerful [[DATABASE/trait/Fiend|fiends]] .<br/><br/> Hellwasp swarms
-  have a rudimentary intelligence focused on the protection and expansion of their
-  colony. They can understand [[DATABASE/language/Infernal|Infernal]] but are incapable
-  of speech. They sometimes obey simple commands from a lawful fiend more powerful
-  than their swarm, but there is no nuance or understanding to this obedience, and
-  if left alone for more than a day they stop obeying and return to their colony.<br/><br/><b><u>Recall
-  Knowledge - Fiend</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 24<br/><b><u>Unspecific
-  Lore</u></b>: DC 22<br/><b><u>Specific Lore</u></b>: DC 19'
 dexterity: '+4'
 element: null
 fly_speed: '40'

@@ -11,10 +11,6 @@ creature_ability:
 - Vortex
 - Water-Bound
 creature_family: '[[DATABASE/monsterfamily/Elemental, Water|Elemental, Water]]'
-description: 'Tidal masters use their power over waves and water to drown their enemies.<br/><br/><b><u>Recall
-  Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 26<br/><b><u>Unspecific Lore</u></b>: DC 24<br/><b><u>Specific Lore</u></b>:
-  DC 21'
 dexterity: '+5'
 element: Water
 fly_speed: null

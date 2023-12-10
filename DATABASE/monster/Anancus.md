@@ -10,10 +10,6 @@ creature_ability:
 - Trample
 - Tusk Sweep
 creature_family: '[[DATABASE/monsterfamily/Elephant|Elephant]]'
-description: 'The anancus is an ancient species of elephant with unusually long tusks
-  and a trunk shorter than its more modern cousins.<br/><br/><b><u>Recall Knowledge
-  - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 24<br/><b><u>Unspecific
-  Lore</u></b>: DC 22<br/><b><u>Specific Lore</u></b>: DC 19'
 dexterity: '+0'
 element: null
 fly_speed: null

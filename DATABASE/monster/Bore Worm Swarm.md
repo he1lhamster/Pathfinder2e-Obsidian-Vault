@@ -9,13 +9,6 @@ constitution: '+4'
 creature_ability:
 - Swarming Bites
 creature_family: '[[DATABASE/monsterfamily/Bore Worm|Bore Worm]]'
-description: 'A single finger-length bore worm is unpleasant but mostly innocuous.
-  Ten thousand bore worms, on the other hand, pose a formidable threat to even seasoned
-  adventurers. The countless worms form a roiling, rancid mass of acid and pain, capable
-  of delivering a hideous death to any person or beast unable to escape them. Unfortunately
-  for any creature other than a bore worm, most encounters involve swarms.<br/><br/><b><u>Recall
-  Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 20<br/><b><u>Unspecific
-  Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>: DC 15'
 dexterity: '+3'
 element: null
 fly_speed: null

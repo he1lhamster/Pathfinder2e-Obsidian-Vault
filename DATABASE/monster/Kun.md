@@ -12,17 +12,6 @@ creature_ability:
 - Spite
 - Swallow Whole
 creature_family: null
-description: 'Hungry and resentful, the malevolent kun is a mythological fish monster
-  that dwells in the remotest, coldest depths of the ocean. This massively powerful
-  creatures could easily rule a subaquatic domain if they cared to, but kuns are also
-  famous for their total self-absorption and complete ambivalence toward other forms
-  of life. A kun remains as far away from other creatures as they can, subsisting
-  on only their own icy hatred. They can consume and digest prey, but such feedings
-  are incidental. Most kuns remain ignorant and uncaring, keeping themselves in the
-  dark, disregarding any signs of life around them except to occasionally lash out
-  with a spiteful attack.<br/><br/><b><u>Recall Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Nature|Nature]] )</b>: DC 34<br/><b><u>Unspecific Lore</u></b>:
-  DC 32<br/><b><u>Specific Lore</u></b>: DC 29'
 dexterity: '+4'
 element: null
 fly_speed: null

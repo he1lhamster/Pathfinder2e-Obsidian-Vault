@@ -11,12 +11,6 @@ creature_ability:
 - Pack Attack
 - Worry
 creature_family: '[[DATABASE/monsterfamily/Wolf|Wolf]]'
-description: 'Much larger and more foul-tempered than their common cousins, dire wolves
-  haunt primeval lands that accommodate their massive size and proportionately large
-  hunting grounds and appetites. Orcs are fond of using dire wolves as mounts, finding
-  their vicious tempers perfect for hunting and warfare.<br/><br/><b><u>Recall Knowledge
-  - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 18<br/><b><u>Unspecific
-  Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>: DC 13'
 dexterity: '+3'
 element: null
 fly_speed: null

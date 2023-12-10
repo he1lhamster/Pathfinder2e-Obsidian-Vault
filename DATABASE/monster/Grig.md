@@ -9,13 +9,6 @@ constitution: '+1'
 creature_ability:
 - Fiddle
 creature_family: '[[DATABASE/monsterfamily/Sprite|Sprite]]'
-description: 'Grigs are kindly musicians of the fey, often getting themselves into
-  trouble due to their penchant for confronting evil well beyond their ability to
-  vanquish. Even so, they fight bravely and with great cunning, using their magic
-  and ranged sonic attacks while flying and leaping using their wings and powerful
-  cricket-like lower torsos to stay out of reach.<br/><br/><b><u>Recall Knowledge
-  - Fey</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 15<br/><b><u>Unspecific Lore</u></b>:
-  DC 13<br/><b><u>Specific Lore</u></b>: DC 10'
 dexterity: '+4'
 element: null
 fly_speed: '30'

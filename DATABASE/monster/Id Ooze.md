@@ -13,24 +13,6 @@ creature_ability:
 - Motion Sense
 - Puddled Ambush
 creature_family: '[[DATABASE/monsterfamily/Ooze|Ooze]]'
-description: "Not all oozes are mindless predators capable of little more than ambushing\
-  \ and consuming prey. The id ooze is a thinking, calculating creature with the capacity\
-  \ to carry out complex plots and plans\u2014not always to secure a meal. Left to\
-  \ its own devices, an id ooze is just as content to spend decades or even centuries\
-  \ in introspective philosophical pursuits as it is to crawl through the underground\
-  \ rivers and moist caverns it prefers to call home.<br/><br/> An id ooze can derive\
-  \ sustenance from the consumption of organic material, but without easy access to\
-  \ plants or animals to eat, they can subsist in a state of semi-hibernation for\
-  \ centuries while slowly absorbing residual psychic energies in locations that have\
-  \ been host to powerful emotions, such as long-standing temples that once hosted\
-  \ generations of worshippers, settlements that endured horrific wars or devastating\
-  \ disasters, or even just the home of a powerful occult spellcaster whose thoughts\
-  \ left marks upon the walls long after they moved on.<br/><br/> An id ooze prefers\
-  \ water but is equally at home on land. The slimy creature appears as a patch of\
-  \ water until it attacks, when its gelatinous body piles up on itself to form a\
-  \ single pseudopod that strikes like an angry snake.<br/><br/><b><u>Recall Knowledge\
-  \ - Ooze</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 28<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 26<br/><b><u>Specific Lore</u></b>: DC 23"
 dexterity: '+2'
 element: null
 fly_speed: null

@@ -17,12 +17,6 @@ creature_ability:
 - Moon Frenzy
 - Staggering Blow
 creature_family: '[[DATABASE/monsterfamily/Werecreature, Wereant|Werecreature, Wereant]]'
-description: 'Some wereants have a religious zeal about training to protect their
-  community and gladly give their lives for the hive.<br/><br/><b><u>Recall Knowledge
-  - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 40<br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 40<br/><b><u>Unspecific Lore</u></b>: DC 38<br/><b><u>Specific Lore</u></b>:
-  DC 35'
 dexterity: '+9'
 element: null
 fly_speed: '60'

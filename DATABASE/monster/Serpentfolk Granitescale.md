@@ -12,16 +12,6 @@ creature_ability:
 - Rattling Spear
 - Serpentfolk Venom
 creature_family: '[[DATABASE/monsterfamily/Serpentfolk|Serpentfolk]]'
-description: 'Many burly [[DATABASE/monster/Aapoph Serpentfolk|aapoph serpentfolk]]
-  bear minor mutations. Granitescales have bulky frames covered in hard, speckled
-  gray plates. These scales offer additional protection but shed when struck with
-  too much force. As granitescales regrow lost scales quickly, they make effective
-  long-term sentinels and vanguards for guerilla tactics. Granitescales like to carve
-  their shed scales into small chips and attach them as rattles to the ends of their
-  spears. Many an unsuspecting victim has heard the shaking hiss of a granitescale''s
-  rattle too late.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 24<br/><b><u>Unspecific Lore</u></b>: DC 22<br/><b><u>Specific Lore</u></b>:
-  DC 19'
 dexterity: '+4'
 element: null
 fly_speed: null

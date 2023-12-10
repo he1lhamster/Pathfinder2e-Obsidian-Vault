@@ -8,16 +8,6 @@ climb_speed: null
 constitution: '+1'
 creature_ability: null
 creature_family: '[[DATABASE/monsterfamily/Shoony|Shoony]]'
-description: "If shoonies had their way, war would cease to exist altogether, but\
-  \ they know this isn\u2019t likely. Shoonies\u2019 relative wealth of resources\
-  \ and their frailty compared to other humanoids make them a common target of violence\
-  \ and subjugation. Because of this, basic combat training is typically mandatory\
-  \ for all shoony village members. Few individuals pursue lifelong careers in service\
-  \ to their settlement\u2019s militia, however. The passing down of a sword from\
-  \ one shoony soldier to another is a time-honored tradition, owing to the rarity\
-  \ of weapons in shoony society.<br/><br/><b><u>Recall Knowledge - Humanoid</u> (\
-  \ [[DATABASE/skill/Society|Society]] )</b>: DC 21<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 19<br/><b><u>Specific Lore</u></b>: DC 16"
 dexterity: '+2'
 element: null
 fly_speed: null

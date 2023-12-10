@@ -1,68 +1,80 @@
 ﻿---
-ac: '23'
-alignment: N
-all_resistance: null
+ac: '27'
+alignment: NE
+all_resistance: '10'
 burrow_speed: null
-charisma: '+0'
+charisma: '+4'
 climb_speed: null
-constitution: '+3'
+constitution: '+6'
 creature_ability:
-- Pierce Armor
-- Pounce
-- Sneak Attack
-creature_family: '[[DATABASE/monsterfamily/Cat|Cat]]'
-description: "Smilodons are large saber-toothed cats, apex predators that are significantly\
-  \ more muscular and broader than the other species of big cats. They often kill\
-  \ prey with a quick stab to the throat or other vulnerable spot. The smilodon\u2019\
-  s oversized fangs are particularly sought after as trophies.<br/><br/><b><u>Recall\
-  \ Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 22<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 20<br/><b><u>Specific Lore</u></b>: DC 17"
-dexterity: '+2'
+- Floating Corpses
+- Noxious Smog
+- Smog Wraith Spawn
+- Sunlight Powerlessness
+creature_family: '[[DATABASE/monsterfamily/Wraith|Wraith]]'
+dexterity: '+4'
 element: null
-fly_speed: null
-fortitude: '+15'
+fly_speed: '60'
+fortitude: '+17'
 hardness: null
-hp: '110'
-id: '70'
-immunity: null
-intelligence: '-4'
-land_speed: '30'
-language: null
-level: '6'
-max_speed: '30'
-name: Smilodon
-perception: '+14'
-rarity: Common
-reflex: '+12'
-resistance: null
+hp: 110 ( negative healing )
+id: '1984'
+immunity:
+- '[[DATABASE/trait/Death|death]] effects'
+- '[[DATABASE/trait/Disease|disease]]'
+- '[[DATABASE/condition/Paralyzed|paralyzed]]'
+- '[[DATABASE/trait/Poison|poison]]'
+- precision
+- '[[DATABASE/condition/Unconscious|unconscious]]'
+intelligence: '+3'
+land_speed: null
+language:
+- '[[DATABASE/language/Common|Common]]'
+- '[[DATABASE/language/Necril|Necril]]'
+level: '9'
+max_speed: '60'
+name: Smog Wraith
+perception: '+19'
+rarity: Uncommon
+reflex: '+17'
+resistance:
+- all 10 (except [[DATABASE/trait/Force|force]]
+- '[[DATABASE/equipment/Ghost Touch|ghost touch]]'
+- or [[DATABASE/trait/Positive|positive]] ;double resistance vs. non- [[DATABASE/trait/Magical|magical]]
+  )
 rus_type_level: null
 school: null
 sense:
-- low-light vision
-- scent (imprecise) 60 feet
-size: Large
+- '[[DATABASE/monsterability/Darkvision|darkvision]]'
+- '[[DATABASE/monsterability/Lifesense|lifesense]] 60 feet'
+size: Medium
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +12'
-- '[[DATABASE/skill/Athletics|Athletics]] +16'
-- '[[DATABASE/skill/Stealth|Stealth]] +12'
-source: '[[DATABASE/source/Bestiary|Bestiary]]'
+- '[[DATABASE/skill/Deception|Deception]] +20'
+- '[[DATABASE/skill/Nature|Nature]] +19'
+- '[[DATABASE/skill/Stealth|Stealth]] +19'
+source: '[[DATABASE/source/Pathfinder 180. The Smoking Gun|Pathfinder #180: The Smoking
+  Gun]]'
 speed:
-- 30 feet
+- fly 60 feet
 spell: null
-strength: '+6'
-strength_req: '6'
+strength: '-5'
+strength_req: '-5'
 strongest_save:
-- Fortitude
+- Will
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Animal|Animal]]'
+- '[[DATABASE/trait/Incorporeal|Incorporeal]]'
+- '[[DATABASE/trait/Uncommon|Uncommon]]'
+- '[[DATABASE/trait/Undead|Undead]]'
+- '[[DATABASE/trait/Wraith|Wraith]]'
 type: Creature
-vision: Low-light vision
+vision: Darkvision
 weakest_save:
-- Will
+- Fortitude
+- Reflex
 weakness: null
-will: '+10'
-wisdom: '+2'
+will: '+21'
+wisdom: '+6'
 
 ---
 # Wraith, Smog

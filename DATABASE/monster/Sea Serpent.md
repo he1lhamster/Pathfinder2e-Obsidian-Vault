@@ -14,18 +14,6 @@ creature_ability:
 - Swallow Whole
 - Undetectable
 creature_family: null
-description: "These fabled beasts resemble massive snakes with long rows of finned\
-  \ spines down their back. Temperamental and territorial, sea serpents can capsize\
-  \ a boat with ease, and most won\u2019t hesitate to do so when hungry or threatened.\
-  \ Stories abound of aggrieved captains who spend their entire lives hunting down\
-  \ the elusive monster that sunk their ships and took their livelihoods. These hunts\
-  \ rely on rumors and glimpses of the beasts, as few survive the catastrophes wrought\
-  \ by sea serpents.<br/><br/> While many fishermen\u2019s tales paint sea serpents\
-  \ as divinely appointed guardians of the ocean or, alternately, as evil and demonic\
-  \ agents, the truth is that most sea serpents are simply very large beasts with\
-  \ a knack for avoiding magical detection.<br/><br/><b><u>Recall Knowledge - Animal</u>\
-  \ ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 32<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 30<br/><b><u>Specific Lore</u></b>: DC 27"
 dexterity: '+4'
 element: null
 fly_speed: null

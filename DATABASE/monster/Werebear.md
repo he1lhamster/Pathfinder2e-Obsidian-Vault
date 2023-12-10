@@ -16,21 +16,6 @@ creature_ability:
 - Precision
 - Edge
 creature_family: '[[DATABASE/monsterfamily/Werecreature|Werecreature]]'
-description: 'Unlike many other types of werecreature, a werebear does not become
-  malevolent during its involuntary transformations, but is instead filled with righteous
-  conviction. This indignation can still manifest in violent ways, though, as a transformed
-  werebear becomes temporarily blind to its alliances and has little control over
-  its bestial temper. As a result, werebears are loners, rarely even living together
-  as families longer than necessary. Werebears know that as long as they live solitary
-  lives, they can serve as protectors and guardians in wilderness regions without
-  the overwhelming fear that, when the moon is full and the curse takes hold, they
-  will rage against an innocent bystander or loved one. As long as there is nothing
-  around to threaten it or the natural area it protects (typically a forest), a werebear
-  in its animal form is generally content to forage and sleep away the night.<br/><br/><b><u>Recall
-  Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 21<br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 21<br/><b><u>Unspecific Lore</u></b>: DC 19<br/><b><u>Specific Lore</u></b>:
-  DC 16'
 dexterity: '+2'
 element: null
 fly_speed: null

@@ -12,15 +12,6 @@ creature_ability:
 - Divine Aegis
 - Girtablilu Venom
 creature_family: '[[DATABASE/monsterfamily/Girtablilu|Girtablilu]]'
-description: 'The highest position of authority in a girtablilu community is the group''s
-  religious leader. This sacred duty requires years of study, meditation, and dedication
-  to awaken a mystical font of divine magic within the girtablilu. These seers ensure
-  that every action taken by the community falls in line with even the most obscure
-  dogma of their tradition, and they don''t hesitate to turn their fury on members
-  of their own community who violate their mandates.<br/><br/><b><u>Recall Knowledge
-  - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 30<br/><b><u>Unspecific Lore</u></b>: DC 28<br/><b><u>Specific Lore</u></b>:
-  DC 25'
 dexterity: '+5'
 element: null
 fly_speed: null

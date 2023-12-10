@@ -13,22 +13,6 @@ creature_ability:
 - Dispelling Strike
 - Staggering Strike
 creature_family: null
-description: "Treerazer, the self-styled Lord of the Blasted Tarn, is a powerful demon\
-  \ on the cusp of ascending to the true power of one of the rulers of the Abyss itself\u2014\
-  a demon lord. For now, even as a nascent demon lord, Treerazer is a dangerous foe.<br/><br/>\
-  \ Treerazer rarely leaves his swampy realm of Tanglebriar\u2014a large thicket of\
-  \ tainted foliage and rotting detritus just south of Kyonin\u2019s Fierani Forest\u2014\
-  but can be encountered anywhere within that toxic mire, often accompanied by a small\
-  \ legion of demons, corrupted fey, and other deadly allies. Certain occult rituals\
-  \ have the power to call him forth from Tanglebriar, granting him the opportunity\
-  \ to directly work his evils beyond the realm to which he has been exiled. Some\
-  \ believe that no eldritch force contains Treerazer and that, were he willing, he\
-  \ could travel Golarion with impunity, spreading the twisted blessings of his touch\
-  \ and the corruption of his presence, yet the Lord of the Blasted Tarn is as cunning\
-  \ and canny as he is deadly, and prefers to work his evils on the world from the\
-  \ safety of his nightmare realm.<br/><br/><b><u>Recall Knowledge - Fiend</u> ( [[DATABASE/skill/Religion|Religion]]\
-  \ )</b>: DC 60<br/><b><u>Unspecific Lore</u></b>: DC 58<br/><b><u>Specific Lore</u></b>:\
-  \ DC 55"
 dexterity: '+9'
 element: null
 fly_speed: '60'

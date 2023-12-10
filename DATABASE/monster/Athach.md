@@ -13,25 +13,6 @@ creature_ability:
 - Swift Claw
 - Throw Rock
 creature_family: null
-description: 'The towering and brutish giants known as athaches are reviled for both
-  their monstrosity and their cruelty. Beyond an athach''s filthy habits, this giant
-  is made stranger by the gangly third arm that protrudes from their torso and ends
-  in a twitching, long-fingered claw. Huge, tusk-like fangs descend from an athach''s
-  upper jaw and prop their mouth open, leaking long strands of viscous drool that
-  is itself is a toxic venom and coats the athach''s fangs.<br/><br/>Athachs despise
-  civilization almost as much as they despise their own kind, and they delight in
-  committing sadistic acts and terrorizing victims. An athach does not keep a traditional
-  territory of their own, but rather wanders the hinterlands of settled territories
-  until they find a suitably easy settlement of smaller humanoids to target. Once
-  the athach has chosen their target, the giant establishes a hidden lair in a location
-  like an abandoned farmhouse or cave, and from there they launch their reign of torment.
-  After a few weeks of harassing, capturing, and torturing victims, the athach bores
-  of their games. The giant then goes on a final rampage, destroying every dwelling
-  and eating every creature they can find. Sometimes, the giant allows a survivor
-  or two to escape, forcing these terrified victims to spend the rest of their lives
-  spreading word of the athach''s fearsomeness.<br/><br/><b><u>Recall Knowledge -
-  Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 30<br/><b><u>Unspecific
-  Lore</u></b>: DC 28<br/><b><u>Specific Lore</u></b>: DC 25'
 dexterity: '+3'
 element: null
 fly_speed: null

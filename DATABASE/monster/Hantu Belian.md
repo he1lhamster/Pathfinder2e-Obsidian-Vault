@@ -10,15 +10,6 @@ creature_ability:
 - Greater Possession
 - Unrest Aura
 creature_family: '[[DATABASE/monsterfamily/Hantu|Hantu]]'
-description: 'The hantu belian represents the spiritual essence of a tiger and typically
-  manifests as a ghostly bird perched on a tiger''s back. Hantu belians commit acts
-  of great destruction as well as restoration. They sometimes possess humanoids to
-  cause great discord and devastation, though their intentions are typically borne
-  of amusement or boredom rather than malice.<br/><br/><b><u>Recall Knowledge - Beast</u>
-  ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]] )</b>: DC
-  30<br/><b><u>Recall Knowledge - Spirit</u> ( [[DATABASE/skill/Occultism|Occultism]]
-  )</b>: DC 30<br/><b><u>Unspecific Lore</u></b>: DC 28<br/><b><u>Specific Lore</u></b>:
-  DC 25'
 dexterity: '+6'
 element: null
 fly_speed: '35'

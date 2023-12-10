@@ -15,11 +15,6 @@ creature_ability:
 - Xiuh
 - Couatl Venom
 creature_family: '[[DATABASE/monsterfamily/Couatl|Couatl]]'
-description: "Fiercer than other couatls, xiuh couatls (pronounced \u201Cshoo\u201D\
-  ) are dedicated to seeking out malevolent creatures and offering a final opportunity\
-  \ at redemption.<br/><br/><b><u>Recall Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]]\
-  \ , [[DATABASE/skill/Nature|Nature]] )</b>: DC 35<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 33<br/><b><u>Specific Lore</u></b>: DC 30"
 dexterity: '+3'
 element: null
 fly_speed: '60'

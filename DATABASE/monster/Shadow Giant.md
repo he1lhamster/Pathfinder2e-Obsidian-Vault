@@ -1,89 +1,51 @@
 ﻿---
-ac: '33'
-alignment: LE
+ac: null
+alignment: null
 all_resistance: null
 burrow_speed: null
-charisma: '+3'
+charisma: null
 climb_speed: null
-constitution: '+5'
-creature_ability:
-- Attack of Opportunity
-- Catch Rock
-- Pall of Shadow
-- Shadowcloak
-- Throw Rock
-creature_family: '[[DATABASE/monsterfamily/Giant|Giant]]'
-description: 'Shadow giants are fierce natives of the [[DATABASE/plane/Shadow Plane|Shadow
-  Plane]] , where they have dwelled in perpetual twilight for millennia. Their cultures
-  vary greatly depending on whether the giants reside in their land of origin or have
-  relocated to the Material Plane. On the Shadow Plane, they live in familiar groups
-  and uphold a nomadic way of life as they roam across ancestral lands between shadowy
-  forests and misty chasms. These hunter-gatherers pass down lore through oral histories,
-  conduct pilgrimages to unholy ziggurats of black stone, and bathe in the blood of
-  their long-standing foes, including rival shadow giant clans and velstracs intent
-  on enslaving their kind. On the Material Plane, conversely, they are secretive and
-  isolationist, keeping apart from other peoples in forbidding structures of black
-  stone in high, isolated mountain valleys.<br/><br/> Standing 15 feet tall, with
-  gray skin and hair only a shade lighter, shadow giants are fearsome foes with a
-  well-earned reputation as zealous warmongers and ruthless combatants. They rarely
-  interact with outsiders, though they may treat with proven warriors who show the
-  giants the respect and deference they feel they deserve. Only a small subset of
-  shadow giants worship [[DATABASE/deity/Zon-Kuthon|Zon-Kuthon]] , and most of these
-  Kuthites are so firmly entrenched in the culture of Nidal that their Shadow Plane-dwelling
-  kin would hardly recognize them. Most shadow giants instead practice an ancient
-  religion, unique to their people, with its own bloody themes of sacrifice and self-mutilation.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 31<br/><b><u>Unspecific
-  Lore</u></b>: DC 29<br/><b><u>Specific Lore</u></b>: DC 26'
-dexterity: '+2'
+constitution: null
+creature_ability: null
+creature_family: null
+dexterity: null
 element: null
 fly_speed: null
-fortitude: '+25'
+fortitude: null
 hardness: null
-hp: '275'
-id: '681'
+hp: null
+id: '457'
 immunity: null
-intelligence: '+0'
-land_speed: '35'
-language:
-- '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Jotun|Jotun]]'
-- '[[DATABASE/language/Shadowtongue|Shadowtongue]]'
-level: '13'
-max_speed: '35'
+intelligence: null
+land_speed: null
+language: null
+level: null
+max_speed: null
 name: Shadow Giant
-perception: '+20'
-rarity: Common
-reflex: '+20'
+perception: null
+rarity: null
+reflex: null
 resistance: null
 rus_type_level: null
 school: null
-sense:
-- '[[DATABASE/monsterability/Darkvision|darkvision]]'
-size: Large
-skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +27'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +22'
-- '[[DATABASE/skill/Stealth|Stealth]] +21'
-source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
-speed:
-- 35 feet
+sense: null
+size: null
+skill: null
+source: '[[DATABASE/source/Pathfinder 147. Tomorrow Must Burn|Pathfinder #147: Tomorrow
+  Must Burn]]'
+speed: null
 spell: null
-strength: '+8'
-strength_req: '8'
-strongest_save:
-- Fortitude
+strength: null
+strength_req: null
+strongest_save: null
 swim_speed: null
-trait:
-- '[[DATABASE/trait/Giant|Giant]]'
-- '[[DATABASE/trait/Humanoid|Humanoid]]'
-- '[[DATABASE/trait/Shadow|Shadow]]'
-type: Creature
-vision: Darkvision
-weakest_save:
-- Reflex
+trait: null
+type: null
+vision: null
+weakest_save: null
 weakness: null
-will: '+23'
-wisdom: '+1'
+will: null
+wisdom: null
 
 ---
 # Shadow Giant

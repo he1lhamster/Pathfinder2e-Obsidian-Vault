@@ -1,74 +1,85 @@
 ﻿---
-ac: '19'
-alignment: LE
+ac: '33'
+alignment: CE
 all_resistance: null
 burrow_speed: null
-charisma: '+0'
+charisma: '+3'
 climb_speed: null
-constitution: '+3'
+constitution: '+4'
 creature_ability:
-- Defying Glare
-- Generous Distraction
-- Silver Shower Shot
-- Sneak Attack
+- Arcane Cascade
+- Attack of Opportunity
+- Capture Magic
+- Companion Bond
+- Spellstrike
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 28<br/><b><u>Unspecific
-  Lore</u></b>: DC 26<br/><b><u>Specific Lore</u></b>: DC 23'
-dexterity: '+4'
+dexterity: '+2'
 element: null
 fly_speed: null
-fortitude: '+8'
-hp: '37'
-id: '1933'
+fortitude: '+24'
+hp: '212'
+id: '1832'
 immunity: null
-intelligence: '+1'
+intelligence: '+5'
 land_speed: '25'
 language:
+- '[[DATABASE/language/Abyssal|Abyssal]]'
 - '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Dwarven|Dwarven]]'
-- '[[DATABASE/language/Jotun|Jotun]]'
-level: '3'
+- '[[DATABASE/language/Hallit|Hallit]]'
+level: '12'
 max_speed: '25'
-name: Irkem Dresh
-perception: '+8'
+name: Ivarsa
+perception: '+21'
 rarity: Unique
-reflex: '+9'
-resistance: null
+reflex: '+22'
+resistance:
+- '[[DATABASE/trait/Fire|fire]] 10'
 rus_type_level: null
 sense: null
 size: Medium
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +9'
-- '[[DATABASE/skill/Lore|BankingLore]] +8'
-- '[[DATABASE/skill/Deception|Deception]] +7'
-- '[[DATABASE/skill/Diplomacy|Diplomacy]] +5'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +9'
-- '[[DATABASE/skill/Nature|Nature]] +7'
-- '[[DATABASE/skill/Society|Society]] +6'
-- '[[DATABASE/skill/Thievery|Thievery]] +6'
-source: '[[DATABASE/source/Pathfinder 178. Punks in a Powderkeg|Pathfinder #178: Punks
-  in a Powderkeg]]'
+- '[[DATABASE/skill/Arcana|Arcana]] +25'
+- '[[DATABASE/skill/Athletics|Athletics]] +25'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +23'
+- '[[DATABASE/skill/Nature|Nature]] +21'
+- '[[DATABASE/skill/Survival|Survival]] +21'
+- '[[DATABASE/skill/Lore|Warfare Lore]] +25'
+source: '[[DATABASE/source/Pathfinder 177. Burning Tundra|Pathfinder #177: Burning
+  Tundra]]'
 speed:
 - 25 feet
-spell: null
-strength: '+1'
-strength_req: '1'
+spell:
+- '[[DATABASE/spell/Blink Charge|Blink Charge]]'
+- '[[DATABASE/spell/Collective Transposition|Collective Transposition]]'
+- '[[DATABASE/spell/Dimension Door|Dimension Door]]'
+- '[[DATABASE/spell/Dimensional Anchor|Dimensional Anchor]]'
+- '[[DATABASE/spell/Earthbind|Earthbind]]'
+- '[[DATABASE/spell/Haste|Haste]]'
+- '[[DATABASE/spell/Mage Hand|Mage Hand]]'
+- '[[DATABASE/spell/Produce Flame|Produce Flame]]'
+- '[[DATABASE/spell/Protect Companion|Protect Companion]]'
+- '[[DATABASE/spell/Ray of Frost|Ray of Frost]]'
+- '[[DATABASE/spell/Shield|Shield]]'
+- '[[DATABASE/spell/Thunderous Strike|Thunderous Strike]]'
+- '[[DATABASE/spell/True Strike|True Strike]]'
+- '[[DATABASE/spell/Unexpected Transposition|Unexpected Transposition]]'
+- '[[DATABASE/spell/Weapon Storm|Weapon Storm]]'
+strength: '+5'
+strength_req: '5'
 strongest_save:
-- Reflex
+- Fortitude
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Dwarf|Dwarf]]'
+- '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
 vision: null
 weakest_save:
-- Fortitude
 - Will
 weakness: null
-will: '+8'
-wisdom: '+3'
+will: '+19'
+wisdom: '+1'
 
 ---
 # Ivarsa, Leader of the Burning Mammoths

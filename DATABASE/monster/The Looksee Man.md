@@ -11,7 +11,6 @@ creature_ability:
 - Shadow Stride
 - Stalk Goggles
 creature_family: null
-description: This creature did not include a description.
 dexterity: '+4'
 element: null
 fly_speed: null

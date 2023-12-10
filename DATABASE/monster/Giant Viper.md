@@ -11,11 +11,6 @@ creature_ability:
 - Coiled Opportunity
 - Giant Viper Venom
 creature_family: '[[DATABASE/monsterfamily/Snake|Snake]]'
-description: "The giant viper\u2019s fangs are a frightening sight, with injection\
-  \ tubes as long as daggers. The sheer amount of venom injected by a giant viper\
-  \ can cause severe blood clotting and leave a victim utterly drained of vitality.<br/><br/><b><u>Recall\
-  \ Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 16<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>: DC 11"
 dexterity: '+4'
 element: null
 fly_speed: null

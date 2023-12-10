@@ -13,25 +13,6 @@ creature_ability:
 - Lingering Enmity
 - Rend
 creature_family: null
-description: "A kuchisake-onna, or slit-mouthed woman, is a tall, masked figure who\
-  \ moves with an eerie grace. These horrors are infamous for trapping hapless mortals\
-  \ and asking them, \u201CAm I pretty?\u201D A \u201Cno\u201D response leads to a\
-  \ gruesome death wrought by the silver scissors the kuchisake-onna carries. A \u201C\
-  yes\u201D prompts them to remove their mask, revealing the scars and cuts running\
-  \ from ear to ear, giving the impression of a terrible, ever-present grin. They\
-  \ then open their mouth to reveal sharp, needle-like teeth and ask another question:\
-  \ \u201CEven now?\u201D A \u201Cno\u201D leads to the same gory death, while a \u201C\
-  yes\u201D prompts them to use their silver scissors and make the same cuts on the\
-  \ target's face while repeating: \u201CThen I will make you like me.\u201D<br/><br/>\
-  \ There are a handful of methods to weasel out of this otherwise no-win scenario.\
-  \ Answering noncommittally, saying the kuchisake-onna looks \u201Cokay,\u201D or\
-  \ throwing several small, countable objects like rice or candy often provides enough\
-  \ time to run while the monster is distracted. Few are foolish enough to attack\
-  \ the kuchisake-onna, and those that live to tell the tale speak of a flashing flurry\
-  \ of scissor blades that match even a swordmaster's prowess.<br/><br/><b><u>Recall\
-  \ Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC\
-  \ 37<br/><b><u>Unspecific Lore</u></b>: DC 35<br/><b><u>Specific Lore</u></b>: DC\
-  \ 32"
 dexterity: '+8'
 element: null
 fly_speed: null

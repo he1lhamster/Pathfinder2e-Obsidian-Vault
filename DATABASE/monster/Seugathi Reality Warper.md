@@ -15,14 +15,6 @@ creature_ability:
 - Warp
 - Reality
 creature_family: '[[DATABASE/monsterfamily/Seugathi|Seugathi]]'
-description: 'Seugathi reality warpers create and destroy inhospitable environments
-  on a small scale by manipulating the forces of raw chaos. A [[DATABASE/monster/Neothelid|neothelid]]
-  might spawn such a seugathi to create habitats for unique slaves or guests, or to
-  destroy the ecosystem of a troublesome species. Darklands scholars refer to reality
-  warpers as veterans in the seugathi ranks, but they''re more accurately compared
-  to aggressive landscape architects.<br/><br/><b><u>Recall Knowledge - Aberration</u>
-  ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 28<br/><b><u>Unspecific Lore</u></b>:
-  DC 26<br/><b><u>Specific Lore</u></b>: DC 23'
 dexterity: '+6'
 element: null
 fly_speed: null

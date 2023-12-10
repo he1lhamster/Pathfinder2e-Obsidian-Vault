@@ -12,16 +12,6 @@ creature_ability:
 - Shadow Strike
 - Walk in Shadow
 creature_family: null
-description: "These batlike monstrosities inhabit the nooks and crevices of the Darklands,\
-  \ where they hang from stalactites and swoop down on unsuspecting prey. Though they\
-  \ are completely sightless, deculis possess rudimentary nerves in their skulls that\
-  \ allow them to detect the presence of infrared light\u2014information they use\
-  \ to locate potential food and threats. They are deadly hunters, thanks largely\
-  \ to their magical ability to manipulate the ebb and flow of shadows. Deculis prefer\
-  \ to feed upon the warm blood of freshly killed prey, but they can subsist on carrion\
-  \ if they have to.<br/><br/><b><u>Recall Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]]\
-  \ , [[DATABASE/skill/Nature|Nature]] )</b>: DC 30<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 28<br/><b><u>Specific Lore</u></b>: DC 25"
 dexterity: '+7'
 element: null
 fly_speed: '50'

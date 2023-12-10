@@ -13,19 +13,6 @@ creature_ability:
 - Surprise Attacker
 - Wing Deflection
 creature_family: '[[DATABASE/monsterfamily/Drake|Drake]]'
-description: "Distant cousins of blue dragons that lack their relatives\u2019 magical\
-  \ talents and intelligence, these desert-dwelling drakes are nonetheless dangerous\
-  \ ambush predators, preying upon isolated desert travelers and outposts for food\
-  \ and supplies. They retain their true-blooded forebears\u2019 resistance to electricity\
-  \ and affinity for sandy environs. Desert drakes\u2019 scales range in coloration\
-  \ from rust-brown to light tan and ocher shades, mimicking the colors of the dunes\
-  \ they call home.<br/><br/> Desert drakes are among the lightest and most compact\
-  \ of the drakes, though this shouldn\u2019t be mistaken for frailty. Their swooped-back\
-  \ horns and feather-thin wings are adapted to make burrowing as easy as possible.\
-  \ Indeed, a desert drake\u2019s powerful neck makes wriggling through sand and other\
-  \ loose scree as easy as walking for it.<br/><br/><b><u>Recall Knowledge - Dragon</u>\
-  \ ( [[DATABASE/skill/Arcana|Arcana]] )</b>: DC 24<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 22<br/><b><u>Specific Lore</u></b>: DC 19"
 dexterity: '+3'
 element: Earth
 fly_speed: '50'

@@ -13,14 +13,6 @@ creature_ability:
 - Malefic Binding
 - Plunder Life
 creature_family: null
-description: 'Rhevannas are hunters, binders, and devourers of [[DATABASE/trait/Celestial|celestials]]
-  . They rage that virtue comes easy for the lucky and privileged, and their bitter
-  hearts yearn to subjugate the holy. A rhevanna''s shadow appears as a pitiful angelic
-  silhouette that claws for release; often, this form is that of the latest celestial
-  the rhevanna destroyed. Rhevannas can''t see their own shadows, and remarking upon
-  one is especially dangerous.<br/><br/><b><u>Recall Knowledge - Fiend</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 49<br/><b><u>Unspecific Lore</u></b>: DC 47<br/><b><u>Specific Lore</u></b>:
-  DC 44'
 dexterity: '+8'
 element: null
 fly_speed: '80'

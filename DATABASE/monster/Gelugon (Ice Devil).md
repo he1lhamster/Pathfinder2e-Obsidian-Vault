@@ -1,76 +1,86 @@
 ﻿---
-ac: '10'
-alignment: N
+ac: '34'
+alignment: LE
 all_resistance: null
 burrow_speed: null
-charisma: '-5'
+charisma: '+4'
 climb_speed: null
 constitution: '+5'
 creature_ability:
-- Engulf
-- Motion Sense
-- Paralysis
-- Transparent
-- Weak Acid
-creature_family: '[[DATABASE/monsterfamily/Ooze|Ooze]]'
-description: "Found underground or in dungeons, these quivering cubes of slime continuously\
-  \ scour their domain for food. The acid in their bodies is weak enough that many\
-  \ gelatinous cubes still contain the gear of their victims, as they\u2019re unable\
-  \ to break them down.<br/><br/><b><u>Recall Knowledge - Ooze</u> ( [[DATABASE/skill/Occultism|Occultism]]\
-  \ )</b>: DC 18<br/><b><u>Unspecific Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>:\
-  \ DC 13"
-dexterity: '-5'
+- Attack of Opportunity
+- Frightful Presence
+- Slowing Frost
+- Tactician of Cocytus
+creature_family: '[[DATABASE/monsterfamily/Devil|Devil]]'
+dexterity: '+5'
 element: null
-fly_speed: null
-fortitude: '+12'
+fly_speed: '35'
+fortitude: '+24'
 hardness: null
-hp: '90'
-id: '321'
+hp: '215'
+id: '113'
 immunity:
-- acid
-- critical hits
-- mental
-- precision
-- unconscious
-- visual
-intelligence: '-5'
-land_speed: '15'
-language: null
-level: '3'
-max_speed: '15'
-name: Gelatinous Cube
-perception: '+5'
+- '[[DATABASE/trait/Cold|cold]]'
+- '[[DATABASE/trait/Fire|fire]]'
+intelligence: '+8'
+land_speed: '35'
+language:
+- '[[DATABASE/language/Celestial|Celestial]]'
+- '[[DATABASE/language/Common|Common]]'
+- '[[DATABASE/language/Draconic|Draconic]]'
+- '[[DATABASE/language/Infernal|Infernal]] ; telepathy 100 feet'
+level: '13'
+max_speed: '35'
+name: Gelugon
+perception: '+26'
 rarity: Common
-reflex: '+0'
+reflex: '+24'
 resistance:
-- electricity 5
+- physical 10 (except [[DATABASE/equipment/Silver Weapon|silver]] )
+- '[[DATABASE/trait/Poison|poison]] 10'
 rus_type_level: null
 school: null
 sense:
-- motion sense 60 feet
-- no vision
+- greater darkvision
 size: Large
 skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +11'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +22'
+- '[[DATABASE/skill/Athletics|Athletics]] +23'
+- '[[DATABASE/skill/Deception|Deception]] +25'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +25'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +23'
+- '[[DATABASE/skill/Religion|Religion]] +26'
+- '[[DATABASE/skill/Society|Society]] +25'
+- '[[DATABASE/skill/Stealth|Stealth]] +22'
+- '[[DATABASE/skill/Lore|Warfare Lore]] +30'
 source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
-- 15 feet
-spell: null
-strength: '+4'
-strength_req: '4'
+- 35 feet
+- fly 35 feet (from [[DATABASE/spell/Fly|fly]] )
+spell:
+- '[[DATABASE/spell/Cone of Cold|Cone of Cold]]'
+- '[[DATABASE/spell/Dimension Door|Dimension Door]]'
+- '[[DATABASE/spell/Fly|Fly]]'
+- '[[DATABASE/spell/Illusory Scene|Illusory Scene]]'
+- '[[DATABASE/spell/Ray of Frost|Ray of Frost]]'
+- '[[DATABASE/spell/Wall of Ice|Wall of Ice]]'
+strength: '+6'
+strength_req: '6'
 strongest_save:
-- Fortitude
+- Will
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Mindless|Mindless]]'
-- '[[DATABASE/trait/Ooze|Ooze]]'
+- '[[DATABASE/trait/Devil|Devil]]'
+- '[[DATABASE/trait/Fiend|Fiend]]'
 type: Creature
-vision: null
+vision: Greater darkvision
 weakest_save:
+- Fortitude
 - Reflex
-weakness: null
-will: '+5'
-wisdom: '+0'
+weakness:
+- good 10
+will: '+26'
+wisdom: '+5'
 
 ---
 # Gelugon (Ice Devil)

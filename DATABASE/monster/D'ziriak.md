@@ -11,31 +11,6 @@ creature_ability:
 - Double Claw
 - Glow
 creature_family: null
-description: 'These strange creatures are native to the [[DATABASE/plane/Shadow Plane|Plane
-  of Shadows]] , where their colorful nature is in opposition to that realm''s overwhelmingly
-  monochromatic palette. Averaging 7 feet in height, D''ziriaks have four arms, two
-  legs, and a termite-like abdomen. The larger pair of arms, used for most tasks,
-  have five-fingered hands with sharp, insectile claws. The smaller pair of arms are
-  reserved for fine manipulations and are not effective in combat.<br/><br/>D''ziriaks''
-  otherwise dull brown carapaces are decorated with numerous runes glowing in bright
-  colors. These tattoo-like runes indicate an individual''s role in D''ziriak society,
-  and set them apart from their home plane''s other native inhabitants. The runes
-  glow with natural bioluminescence, and D''ziriaks can make them flare brightly for
-  an instant, at the expense of overstressing the biochemical glands that create and
-  maintain the runes for an extended time. The color and shape of the runes are partially
-  natural, but can be shaped and customized carefully over time to fit the individual''s
-  station.<br/><br/>The D''ziriak language is a mix of buzzes and chitters, and is
-  spoken by few other creatures. D''ziriaks prefer to communicate with other species
-  using telepathy rather than endure the sound of their language being "butchered
-  by fleshy throats." D''ziriaks organize into hive cities led by a king and queen.
-  These hive cities consist of impressive spires, yet these towers are only the foremost
-  part of the settlement, with many more chambers reaching deep below for residences,
-  workshops, and fungus farms. D''ziriak settlements are lit inside and out with alchemical
-  and magical light sources, often in the shapes of runes. These dimly glowing towers
-  provide travelers with landmarks, and perhaps promise safe havens, on the otherwise
-  gloomy Shadow Plane.<br/><br/><b><u>Recall Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]]
-  )</b>: DC 18<br/><b><u>Unspecific Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>:
-  DC 13'
 dexterity: '+3'
 element: null
 fly_speed: null

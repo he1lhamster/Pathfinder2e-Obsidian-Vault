@@ -12,12 +12,6 @@ creature_ability:
 - Roll Up
 - Swallow Whole
 creature_family: '[[DATABASE/monsterfamily/Aukashungi|Aukashungi]]'
-description: 'The strongest individual in an aukashungi swarm eventually grows to
-  monstrous proportions.
-
-  <br/><br/><b><u>Recall Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]]
-  )</b>: DC 34<br/><b><u>Unspecific Lore</u></b>: DC 32<br/><b><u>Specific Lore</u></b>:
-  DC 29'
 dexterity: '+7'
 element: null
 fly_speed: null

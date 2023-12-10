@@ -12,12 +12,6 @@ creature_ability:
 - Master's Eyes
 - Raktavarna Venom
 creature_family: '[[DATABASE/monsterfamily/Rakshasa|Rakshasa]]'
-description: 'The least of all rakshasas, raktavarnas resemble wicked serpents with
-  glowing red eyes and oversized fangs. Often forced into service by mortal conjurers
-  or more powerful rakshasas, raktavarnas frequently act subservient to their masters
-  while secretly plotting to overthrow them.<br/><br/><b><u>Recall Knowledge - Fiend</u>
-  ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 17<br/><b><u>Unspecific Lore</u></b>:
-  DC 15<br/><b><u>Specific Lore</u></b>: DC 12'
 dexterity: '+4'
 element: null
 fly_speed: null

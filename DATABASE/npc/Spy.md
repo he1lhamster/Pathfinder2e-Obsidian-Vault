@@ -11,13 +11,6 @@ creature_ability:
 - Noble's Ally
 - Sneak Attack
 creature_family: '[[DATABASE/monsterfamily/Courtiers|Courtiers]]'
-description: 'No empire would be complete without its spies. The spy is a master of
-  infiltrating the court and blending in: they might be one of a number of nobles,
-  a beloved confidante of the queen, or even the court jester. Spies use their skills
-  to subtly manipulate courtiers, turn enemies against one another, and collect valuable
-  information either for blackmail or to auction to the highest bidder.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 22<br/><b><u>Unspecific
-  Lore</u></b>: DC 20<br/><b><u>Specific Lore</u></b>: DC 17'
 dexterity: '+4'
 element: null
 fly_speed: null

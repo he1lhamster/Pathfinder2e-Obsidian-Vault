@@ -1,91 +1,104 @@
 ﻿---
-ac: '20'
-alignment: CG
+ac: '30'
+alignment: LE
 all_resistance: null
 burrow_speed: null
-charisma: '+4'
+charisma: '+6'
 climb_speed: null
-constitution: '+3'
+constitution: '+4'
 creature_ability:
-- Ghost Touch
-- Powerful Charge
-- Wild Empathy
-creature_family: null
-description: "Symbols of grace and purity, unicorns resemble proud and noble horses.\
-  \ They are typically pure white of coat, but they are best known for the single,\
-  \ delicate horn that extends from the center of their forehead. While unicorns often\
-  \ serve as protectors of unspoiled wilderness and sacred places, they are themselves\
-  \ highly sought after for their horns, which are said to possess potent magical\
-  \ properties. To many, the mere idea of hunting such a magnificent creature in the\
-  \ hopes of severing its horn is utterly reprehensible. Indeed, a de-horned unicorn\
-  \ is a sorry sight, and few such unicorns survive much longer in the wild.<br/><br/>\
-  \ Unicorns are found almost exclusively in remote, unsullied areas of wilderness.\
-  \ Sometimes associated with good-aligned deities, other times associated with nature\
-  \ and the fey, unicorns are always known for their righteousness and nobility. They\
-  \ are wary, at best, of most humanoid creatures, due in large part for poachers\u2019\
-  \ tendency to hunt them for their horns, but unicorns are often rumored to have\
-  \ a weakness for those who are pure of both heart and spirit. Despite some tales,\
-  \ unicorns are equally likely to recognize purity in young men as in young women.<br/><br/><b><u>Recall\
-  \ Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 18<br/><b><u>Recall Knowledge - Fey</u> ( [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 18<br/><b><u>Unspecific Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>:\
-  \ DC 13"
-dexterity: '+3'
+- Every Dagger
+- Fearsome Magic
+- Witch Token
+creature_family: '[[DATABASE/monsterfamily/Devil|Devil]]'
+dexterity: '+6'
 element: null
-fly_speed: null
-fortitude: '+10'
+fly_speed: '40'
+fortitude: '+17'
 hardness: null
-hp: '45'
-id: '397'
+hp: '155'
+id: '2520'
 immunity:
-- poison
-intelligence: '+0'
-land_speed: '45'
+- '[[DATABASE/trait/Fire|fire]]'
+intelligence: '+7'
+land_speed: '25'
 language:
+- '[[DATABASE/language/Aklo|Aklo]]'
+- '[[DATABASE/language/Celestial|Celestial]]'
 - '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Sylvan|Sylvan]]'
-level: '3'
-max_speed: '45'
-name: Unicorn
-perception: '+13'
-rarity: Common
-reflex: '+8'
-resistance: null
+- '[[DATABASE/language/Draconic|Draconic]]'
+- '[[DATABASE/language/Infernal|Infernal]] ; [[DATABASE/monsterability/Telepathy|telepathy]]
+  100 feet'
+level: '10'
+max_speed: '40'
+name: Uniila
+perception: '+21'
+rarity: Uncommon
+reflex: '+19'
+resistance:
+- physical 10 (except [[DATABASE/equipment/Silver Weapon|silver]] )
 rus_type_level: null
 school: null
 sense:
-- darkvision
-- scent (imprecise) 30 feet
-size: Large
+- '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
+size: Medium
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +10'
-- '[[DATABASE/skill/Diplomacy|Diplomacy]] +11'
-- '[[DATABASE/skill/Stealth|Stealth]] +8'
-- '[[DATABASE/skill/Survival|Survival]] +9'
-source: '[[DATABASE/source/Bestiary|Bestiary]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +20'
+- '[[DATABASE/skill/Arcana|Arcana]] +23'
+- '[[DATABASE/skill/Deception|Deception]] +22'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +20'
+- '[[DATABASE/skill/Occultism|Occultism]] +21'
+- '[[DATABASE/skill/Religion|Religion]] +19'
+- '[[DATABASE/skill/Society|Society]] +21'
+- '[[DATABASE/skill/Stealth|Stealth]] +22'
+source: '[[DATABASE/source/Pathfinder 190. The Choosing|Pathfinder #190: The Choosing]]'
 speed:
-- 45 feet
+- 25 feet
+- fly 40 feet
 spell:
-- '[[DATABASE/spell/Detect Alignment|Detect Alignment]]'
-- '[[DATABASE/spell/Heal|Heal]]'
-- '[[DATABASE/spell/Light|Light]]'
-- '[[DATABASE/spell/Neutralize Poison|Neutralize Poison]]'
-- '[[DATABASE/spell/Tree Stride|Tree Stride]]'
-strength: '+4'
-strength_req: '4'
+- '[[DATABASE/spell/Blink|Blink]]'
+- '[[DATABASE/spell/Chill Touch|ChillTouch]]'
+- '[[DATABASE/spell/Confusion|Confusion]]'
+- '[[DATABASE/spell/Crushing Despair|Crushing Despair]]'
+- '[[DATABASE/spell/Detect Magic|Detect Magic]]'
+- '[[DATABASE/spell/Dimension Door|Dimension Door]]'
+- '[[DATABASE/spell/Discern Lies|Discern Lies]]'
+- '[[DATABASE/spell/Dispel Magic|Dispel Magic]]'
+- '[[DATABASE/spell/Enthrall|Enthrall]]'
+- '[[DATABASE/spell/Fireball|Fireball]]'
+- '[[DATABASE/spell/Glitterdust|Glitterdust]]'
+- '[[DATABASE/spell/Illusory Disguise|Illusory Disguise]]'
+- '[[DATABASE/spell/Invisibility|Invisibility]]'
+- '[[DATABASE/spell/Lightning Bolt|Lightning Bolt]]'
+- '[[DATABASE/spell/Magic Missile|Magic Missile]]'
+- '[[DATABASE/spell/Message|Message]]'
+- '[[DATABASE/spell/Mirror Image|Mirror Image]]'
+- '[[DATABASE/spell/Outcast''s Curse|Outcast''s Curse]]'
+- '[[DATABASE/spell/Ray of Enfeeblement|Ray of Enfeeblement]]'
+- '[[DATABASE/spell/Ray of Frost|Ray of Frost]]'
+- '[[DATABASE/spell/Read Omens|Read Omens]]'
+- '[[DATABASE/spell/Resilient Sphere|Resilient Sphere]]'
+- '[[DATABASE/spell/Shadow Siphon|Shadow Siphon]]'
+- '[[DATABASE/spell/Shield|Shield]]'
+- '[[DATABASE/spell/Touch of Idiocy|Touch ofIdiocy]]'
+- '[[DATABASE/spell/Unseen Servant|Unseen Servant]]'
+strength: '+3'
+strength_req: '3'
 strongest_save:
 - Will
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Beast|Beast]]'
-- '[[DATABASE/trait/Fey|Fey]]'
+- '[[DATABASE/trait/Devil|Devil]]'
+- '[[DATABASE/trait/Fiend|Fiend]]'
+- '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: Darkvision
+vision: Greater darkvision
 weakest_save:
-- Reflex
-weakness: null
-will: '+11'
-wisdom: '+4'
+- Fortitude
+weakness:
+- good 10
+will: '+21'
+wisdom: '+5'
 
 ---
 # Uniila (Cabal Devil)

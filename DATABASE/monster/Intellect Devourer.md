@@ -12,18 +12,6 @@ creature_ability:
 - Ravage
 - Stolen Identity
 creature_family: null
-description: 'Intellect devourers serve as advance scouts and infiltrators for the
-  powerful force of alien beings called the Dominion of the Black. These monsters
-  roam the Darklands, from which they mount secret invasions of the world above. When
-  an intellect devourer infiltrates a society, its first priority is to acquire a
-  body. It might first seek out a graveyard for a fresh corpse, as this is easier
-  than fighting and killing someone. When the aberration compresses itself into the
-  host''s brain cavity, its real body goes dull to sensation as it connects to the
-  nervous system of its host. If found out, an intellect devourer might quickly inhabit
-  a new body to make its escape, preferably something inconspicuous such as a domestic
-  animal.<br/><br/><b><u>Recall Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]]
-  )</b>: DC 26<br/><b><u>Unspecific Lore</u></b>: DC 24<br/><b><u>Specific Lore</u></b>:
-  DC 21'
 dexterity: '+4'
 element: null
 fly_speed: null

@@ -17,18 +17,6 @@ creature_ability:
 - Swallow Whole
 - Trample
 creature_family: null
-description: "Countless temples across Golarion, dedicated to deities both living\
-  \ and forgotten, have risen and fallen through the ages. Many find themselves buried\
-  \ under sand, snow, or vine never to be found. In such places, the spirits of the\
-  \ faithful can bind with their ruined temple to form a guardian construct, though\
-  \ with nothing left to guard, these spirits often become hollow, resentful, and\
-  \ filled with malice. These \u201Cdesecrated guardians\u201D lie in wait, sometimes\
-  \ for centuries, and destroy any adventurers who happen upon them. The most powerful\
-  \ desecrated guardians, such as the one presented here, incorporate the structures\
-  \ of multiple temples into their massive serpentine forms.<br/><br/><b><u>Recall\
-  \ Knowledge - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]]\
-  \ )</b>: DC 43<br/><b><u>Unspecific Lore</u></b>: DC 41<br/><b><u>Specific Lore</u></b>:\
-  \ DC 38"
 dexterity: '+6'
 element: null
 fly_speed: null

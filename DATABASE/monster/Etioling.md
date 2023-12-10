@@ -1,70 +1,96 @@
 ﻿---
-ac: '25'
-alignment: No Alignment
-all_resistance: '10'
+ac: '29'
+alignment: CN
+all_resistance: null
 burrow_speed: null
-charisma: '+0'
+charisma: '+7'
 climb_speed: null
-constitution: '+0'
+constitution: '+3'
 creature_ability:
-- Force Body
-creature_family: null
-description: This creature did not include a description.
-dexterity: '+4'
+- Consecration Vulnerability
+- Death Gasp
+- Ectoplasmic Secretions
+- Ectoplasmic Shield
+- Withering
+- Aura
+creature_family: '[[DATABASE/monsterfamily/Mortic|Mortic]]'
+dexterity: '+5'
 element: null
-fly_speed: '30'
-fortitude: '+8'
+fly_speed: null
+fortitude: '+19'
 hardness: null
-hp: '60'
-id: '1652'
-immunity:
-- '[[DATABASE/trait/Disease|disease]]'
-- '[[DATABASE/trait/Mental|mental]]'
-- non- [[DATABASE/trait/Magical|magical]] attacks
-- '[[DATABASE/condition/Paralyzed|paralysis]]'
-- '[[DATABASE/trait/Poison|poison]]'
-- precision
-- '[[DATABASE/condition/Unconscious|unconscious]]'
-intelligence: '-5'
-land_speed: null
+hp: 150 ( negative healing )
+id: '1237'
+immunity: null
+intelligence: '+3'
+land_speed: '25'
 language:
-- (understands commands)
-level: '6'
-max_speed: '30'
-name: Ethereal Sailor
-perception: '+14'
-rarity: Common
-reflex: '+14'
-resistance:
-- all damage 10 (except [[DATABASE/trait/Force|force]] or [[DATABASE/equipment/Ghost
-  Touch|ghost touch]] )
+- '[[DATABASE/language/Common|Common]]'
+- '[[DATABASE/language/Necril|Necril]]'
+- '[[DATABASE/language/Sylvan|Sylvan]]'
+level: '10'
+max_speed: '25'
+name: Etioling Blightmage
+perception: '+19'
+rarity: Rare
+reflex: '+21'
+resistance: null
 rus_type_level: null
 school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
-size: Medium
+size: Small
 skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +15'
-- '[[DATABASE/skill/Lore|SailingLore]] +15'
-source: '[[DATABASE/source/Grand Bazaar|Grand Bazaar]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +19'
+- '[[DATABASE/skill/Deception|Deception]] +22'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +22'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +22'
+- '[[DATABASE/skill/Nature|Nature]] +19'
+source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
-- fly 30 feet
-spell: null
-strength: '+4'
-strength_req: '4'
+- 25 feet
+spell:
+- '[[DATABASE/spell/Acid Splash|Acid Splash]]'
+- '[[DATABASE/spell/Bane|Bane]]'
+- '[[DATABASE/spell/Blur|Blur]]'
+- '[[DATABASE/spell/Cloudkill|Cloudkill]]'
+- '[[DATABASE/spell/Crushing Despair|Crushing Despair]]'
+- '[[DATABASE/spell/Dancing Lights|Dancing Lights]]'
+- '[[DATABASE/spell/Dispel Magic|Dispel Magic]]'
+- '[[DATABASE/spell/Earthbind|Earthbind]]'
+- '[[DATABASE/spell/Electric Arc|ElectricArc]]'
+- '[[DATABASE/spell/False Life|False Life]]'
+- '[[DATABASE/spell/Freedom of Movement|Freedom of Movement]]'
+- '[[DATABASE/spell/Ghost Sound|Ghost Sound]]'
+- '[[DATABASE/spell/Glitterdust|Glitterdust]]'
+- '[[DATABASE/spell/Grease|Grease]]'
+- '[[DATABASE/spell/Grim Tendrils|Grim Tendrils]]'
+- '[[DATABASE/spell/Haste|Haste]]'
+- '[[DATABASE/spell/Lightning Bolt|LightningBolt]]'
+- '[[DATABASE/spell/Obscuring Mist|Obscuring Mist]]'
+- '[[DATABASE/spell/Phantasmal Killer|Phantasmal Killer]]'
+- '[[DATABASE/spell/Prestidigitation|Prestidigitation]]'
+- '[[DATABASE/spell/Ray of Enfeeblement|Ray of Enfeeblement]]'
+- '[[DATABASE/spell/Synesthesia|Synesthesia]]'
+- '[[DATABASE/spell/Ventriloquism|Ventriloquism]]'
+- '[[DATABASE/spell/Wall of Thorns|Wall of Thorns]]'
+strength: '+3'
+strength_req: '3'
 strongest_save:
 - Reflex
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Mindless|Mindless]]'
+- '[[DATABASE/trait/Gnome|Gnome]]'
+- '[[DATABASE/trait/Humanoid|Humanoid]]'
+- '[[DATABASE/trait/Mortic|Mortic]]'
+- '[[DATABASE/trait/Rare|Rare]]'
 type: Creature
 vision: Darkvision
 weakest_save:
-- Fortitude
 - Will
 weakness: null
-will: '+8'
-wisdom: '+0'
+will: '+17'
+wisdom: '+5'
 
 ---
 # Etioling

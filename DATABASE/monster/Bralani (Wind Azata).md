@@ -1,95 +1,78 @@
 ﻿---
-ac: '30'
-alignment: CE
+ac: '24'
+alignment: CG
 all_resistance: null
 burrow_speed: null
-charisma: '+7'
+charisma: '+5'
 climb_speed: null
-constitution: '+4'
+constitution: '+3'
 creature_ability:
-- 1d6 Extra Damage
-- Additional Spells
-- Frightful Presence
-- Immunity
-- Persistence of Memory
-- ''
-- Resistance
-- Tremorsense
-- Universal Language
-- Urban Legend
-- Weakness
-creature_family: null
-description: "A rumor can become so vivid and so persistent that it comes to life,\
-  \ creating a brainchild\u2014a living illusion that hatches from an intense belief\
-  \ in a remorseless and implacable killer. Often, these rumors swirl around the victims\
-  \ of a [[DATABASE/spell/Phantasmal Killer|phantasmal killer]] spell. A brainchild's\
-  \ capabilities grow when they pursue a believer but deflate against skeptics, making\
-  \ them only as bad as one thinks they are. A simple drive to stalk, terrify, and\
-  \ kill propels a brainchild, but the creature might also exhibit other behaviors\
-  \ ascribed to them through gossip."
+- Fair Competition
+- Whirlwind Blast
+- Wind Form
+creature_family: '[[DATABASE/monsterfamily/Azata|Azata]]'
 dexterity: '+5'
 element: null
-fly_speed: '30'
-fortitude: '+21'
+fly_speed: '80'
+fortitude: '+13'
 hardness: null
-hp: '200'
-id: '1085'
-immunity:
-- '[[DATABASE/trait/Death|death]] effects'
-- '[[DATABASE/trait/Detection|detection]]'
-- '[[DATABASE/trait/Disease|diseased]]'
-- '[[DATABASE/condition/Doomed|doomed]]'
-- '[[DATABASE/trait/Necromancy|necromancy]]'
-- '[[DATABASE/trait/Scrying|scrying]]'
+hp: '120'
+id: '559'
+immunity: null
 intelligence: '+2'
 land_speed: '30'
 language:
-- '[[DATABASE/monsterability/Telepathy|telepathy]] 100 feet'
-- universal language
-level: '11'
-max_speed: '30'
-name: Brainchild
-perception: '+18'
-rarity: Rare
-reflex: '+22'
-resistance: null
+- '[[DATABASE/language/Celestial|Celestial]]'
+- '[[DATABASE/language/Draconic|Draconic]]'
+- '[[DATABASE/language/Infernal|Infernal]] ; [[DATABASE/spell/Tongues|tongues]]'
+level: '6'
+max_speed: '80'
+name: Bralani
+perception: '+14'
+rarity: Common
+reflex: '+17'
+resistance:
+- electricity 10
 rus_type_level: null
-school: Illusion
+school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
-size: Large
+size: Medium
 skill:
-- '[[DATABASE/skill/Deception|Deception]] +22'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +24'
-- '[[DATABASE/skill/Performance|Performance]] +22'
-- '[[DATABASE/skill/Society|Society]] +21'
-- '[[DATABASE/skill/Stealth|Stealth]] +20'
-source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +13'
+- '[[DATABASE/skill/Deception|Deception]] +15'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +15'
+- '[[DATABASE/skill/Lore|Games Lore]] +14'
+- '[[DATABASE/skill/Stealth|Stealth]] +15'
+source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 30 feet
-- fly 30 feet
+- fly 80 feet
 spell:
-- '[[DATABASE/spell/Dimension Door|Dimension Door]]'
-- '[[DATABASE/spell/Ghost Sound|Ghost Sound]]'
-- '[[DATABASE/spell/Message|Message]]'
-- '[[DATABASE/spell/Phantasmal Killer|Phantasmal Killer]]'
-strength: '+4'
-strength_req: '4'
+- '[[DATABASE/spell/Calm Emotions|Calm Emotions]]'
+- '[[DATABASE/spell/Gaseous Form|Gaseous Form]]'
+- '[[DATABASE/spell/Gust of Wind|Gust of Wind]]'
+- '[[DATABASE/spell/Heal|Heal]]'
+- '[[DATABASE/spell/Lightning Bolt|LightningBolt]]'
+- '[[DATABASE/spell/Tongues|Tongues]]'
+- '[[DATABASE/spell/Wall of Wind|Wall of Wind]]'
+strength: '+5'
+strength_req: '5'
 strongest_save:
 - Reflex
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Illusion|Illusion]]'
-- '[[DATABASE/trait/Mental|Mental]]'
-- '[[DATABASE/trait/Rare|Rare]]'
+- '[[DATABASE/trait/Azata|Azata]]'
+- '[[DATABASE/trait/Celestial|Celestial]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Will
 weakness:
-- mental 10
-will: '+18'
-wisdom: '+3'
+- cold iron 5
+- evil 5
+will: '+12'
+wisdom: '+4'
 
 ---
 # Bralani (Wind Azata)

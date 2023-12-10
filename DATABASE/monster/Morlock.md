@@ -13,21 +13,6 @@ creature_ability:
 - Sneak Attack
 - Swarming Stance
 creature_family: '[[DATABASE/monsterfamily/Morlock|Morlock]]'
-description: 'Originating from humans long lost from the world of light, morlocks
-  are brutal monsters that dwell in the tangled tunnels of the upper reaches of the
-  Darklands. Their wiry frames mask the strength of their limbs and their swift reactions,
-  and their arms are long enough that they can drop into an uncanny, four-limbed shuffle
-  for speed or stealth. They no longer remember the lives their ancestors led on the
-  surface, although many morlocks still dwell in the shattered ruins of their ancient
-  homes. Some morlocks worship the statues of humans from these bygone eras as gods,
-  but others now worship [[DATABASE/deity/Lamashtu|Lamashtu]] , [[DATABASE/deity/Rovagug|Rovagug]]
-  , or other violent deities.<br/><br/> Morlock young are insatiable and clamor for
-  even the slightest morsel of food, even consuming their siblings if no other meal
-  presents itself. Most morlocks encourage the practice to ensure their ancestral
-  group as a whole grows stronger.<br/><br/> A typical morlock stands just over 5
-  feet tall and weighs roughly 150 pounds.<br/><br/><b><u>Recall Knowledge - Humanoid</u>
-  ( [[DATABASE/skill/Society|Society]] )</b>: DC 16<br/><b><u>Unspecific Lore</u></b>:
-  DC 14<br/><b><u>Specific Lore</u></b>: DC 11'
 dexterity: '+3'
 element: null
 fly_speed: null

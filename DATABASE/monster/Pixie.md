@@ -9,12 +9,6 @@ constitution: '+1'
 creature_ability:
 - Sprinkle Pixie Dust
 creature_family: '[[DATABASE/monsterfamily/Sprite|Sprite]]'
-description: "Insatiably curious, overly excitable, and just a bit puckish, pixies\
-  \ are wanderers and tricksters who use their pixie dust to create all sorts of whimsical\
-  \ situations, as well as to defend themselves. Other creatures often have trouble\
-  \ understanding a pixie\u2019s rapid, rambling way of speaking.<br/><br/><b><u>Recall\
-  \ Knowledge - Fey</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 19<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 17<br/><b><u>Specific Lore</u></b>: DC 14"
 dexterity: '+5'
 element: null
 fly_speed: '45'

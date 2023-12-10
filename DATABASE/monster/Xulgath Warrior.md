@@ -9,14 +9,6 @@ constitution: '+3'
 creature_ability:
 - Stench
 creature_family: '[[DATABASE/monsterfamily/Xulgath|Xulgath]]'
-description: "Xulgath warriors strike with fury and eager cruelty, always ready for\
-  \ the next fight. The taking of prizes from battle\u2014including weapons and items\
-  \ stolen from defeated foes along with grislier trophies harvested from fallen victims\u2019\
-  \ flesh\u2014is a popular pursuit among these vicious reptiles, and those whose\
-  \ armor and scales are most adorned are awarded the greatest respect (and perhaps\
-  \ fear) from their kin.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]\
-  \ )</b>: DC 15<br/><b><u>Unspecific Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>:\
-  \ DC 10"
 dexterity: '+2'
 element: null
 fly_speed: null

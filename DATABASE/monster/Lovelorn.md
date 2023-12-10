@@ -11,23 +11,6 @@ creature_ability:
 - Gloom Aura
 - Skitter Away
 creature_family: null
-description: "A particularly macabre form of undead, these spiderlike creatures resemble\
-  \ still-beating hearts with rib bones for legs and tendrils of gore dangling beneath.\
-  \ Their twisted forms hint at their ghastly origin, as these undead form from those\
-  \ who die tragic deaths in service to toxic love: star-crossed lovers who die rather\
-  \ than accept a life apart from one another, rejected suitors whose unrequited affections\
-  \ warp into malice, and other victims of tragic relationships both romantic and\
-  \ otherwise. Any of these might spawn a lovelorn in death, their anguish and fixation\
-  \ on their broken heart causing the organ to animate.<br/><br/> A freshly spawned\
-  \ lovelorn often seeks out those it knew in life, stalking and tormenting them or,\
-  \ in some cases, those around them. In undeath, they gain an understanding of emotions\
-  \ and how to manipulate them, cultivating the misery, anger, and cruelty they thrive\
-  \ upon. Typically, these undead long to enact vengeance upon those they feel drove\
-  \ them to their tragic fates, although in rare cases they may instead act as dark\
-  \ guardians, fixating on a particular loved one and \u201Cprotecting\u201D them\
-  \ by visiting misery upon anyone who slights them.<br/><br/><b><u>Recall Knowledge\
-  \ - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 21<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 19<br/><b><u>Specific Lore</u></b>: DC 16"
 dexterity: '+5'
 element: null
 fly_speed: null

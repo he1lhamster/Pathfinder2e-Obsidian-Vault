@@ -10,9 +10,6 @@ creature_ability:
 - Shadow Doubles
 - Sneak Attack
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Fey</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 41<br/><b><u>Unspecific Lore</u></b>:
-  DC 39<br/><b><u>Specific Lore</u></b>: DC 36'
 dexterity: '+9'
 element: null
 fly_speed: '75'

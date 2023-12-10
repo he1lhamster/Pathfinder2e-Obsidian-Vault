@@ -1,82 +1,73 @@
 ﻿---
-ac: '23'
+ac: '26'
 alignment: NE
 all_resistance: null
 burrow_speed: null
-charisma: '+5'
+charisma: '+4'
 climb_speed: null
-constitution: '+2'
+constitution: '+3'
 creature_ability:
-- Cruel Performance
+- Deny Advantage
+- Evasion
+- Exploit Blunder
+- Quick Draw
+- Slippery Dodge
+- Sneak Attack
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 32<br/><b><u>Unspecific
-  Lore</u></b>: DC 30<br/><b><u>Specific Lore</u></b>: DC 27'
 dexterity: '+4'
 element: null
 fly_speed: null
-fortitude: '+11'
-hp: '100'
-id: '2540'
+fortitude: '+15'
+hp: '140'
+id: '1977'
 immunity: null
-intelligence: '+4'
+intelligence: '+2'
 land_speed: '25'
 language:
+- '[[DATABASE/language/Common|Common]]'
+- '[[DATABASE/language/Halfling|Halfling]]'
 - '[[DATABASE/language/Osiriani|Osiriani]]'
-- '[[DATABASE/language/Taldane|Taldane]]'
-level: '6'
+level: '8'
 max_speed: '25'
-name: Amar
-perception: '+15'
+name: Ambrost Mugland
+perception: '+14'
 rarity: Unique
-reflex: '+17'
+reflex: '+19'
 resistance: null
 rus_type_level: null
-sense:
-- '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
-size: Medium
+sense: null
+size: Small
 skill:
-- '[[DATABASE/skill/Deception|Deception]] +13'
-- '[[DATABASE/skill/Diplomacy|Diplomacy]] +15'
-- '[[DATABASE/skill/Medicine|Medicine]] +11'
-- '[[DATABASE/skill/Occultism|Occultism]] +15'
-- '[[DATABASE/skill/Performance|Performance]] +16'
-- '[[DATABASE/skill/Society|Society]] +13'
-- '[[DATABASE/skill/Stealth|Stealth]] +13'
-source: '[[DATABASE/source/The Enmity Cycle|The Enmity Cycle]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +16'
+- '[[DATABASE/skill/Lore|Alkenstar Lore]] +16'
+- '[[DATABASE/skill/Athletics|Athletics]] +14'
+- '[[DATABASE/skill/Deception|Deception]] +18'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +18'
+- '[[DATABASE/skill/Society|Society]] +18'
+- '[[DATABASE/skill/Stealth|Stealth]] +18'
+- '[[DATABASE/skill/Thievery|Thievery]] +18'
+- '[[DATABASE/skill/Lore|Underworld Lore]] +16'
+source: '[[DATABASE/source/Pathfinder 179. Cradle of Quartz|Pathfinder #179: Cradle
+  of Quartz]]'
 speed:
 - 25 feet
-spell:
-- '[[DATABASE/spell/Agonizing Despair|Agonizing Despair]]'
-- '[[DATABASE/spell/Biting Words|Biting Words]]'
-- '[[DATABASE/spell/Bullhorn|Bullhorn]]'
-- '[[DATABASE/spell/Charm|Charm]]'
-- '[[DATABASE/spell/Dispel Magic|DispelMagic]]'
-- '[[DATABASE/spell/False Life|False Life]]'
-- '[[DATABASE/spell/Fear|Fear]]'
-- '[[DATABASE/spell/Ghost Sound|Ghost Sound]]'
-- '[[DATABASE/spell/Haunting Hymn|Haunting Hymn]]'
-- '[[DATABASE/spell/Light|Light]]'
-- '[[DATABASE/spell/Mirror Image|Mirror Image]]'
-- '[[DATABASE/spell/Roaring Applause|Roaring Applause]]'
-- '[[DATABASE/spell/Slow|Slow]]'
-- '[[DATABASE/spell/Summon Instrument|Summon Instrument]]'
-strength: '+2'
-strength_req: '2'
+spell: null
+strength: '+1'
+strength_req: '1'
 strongest_save:
 - Reflex
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Human|Human]]'
+- '[[DATABASE/trait/Halfling|Halfling]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: Low-light vision
+vision: null
 weakest_save:
 - Fortitude
 weakness: null
-will: '+14'
-wisdom: '+2'
+will: '+17'
+wisdom: '+0'
 
 ---
 # Ambrost Mugland, Cutthroat Underworld Mogul

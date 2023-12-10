@@ -1,69 +1,87 @@
 ﻿---
-ac: '22'
+ac: '20'
 alignment: NE
 all_resistance: null
 burrow_speed: null
-charisma: '+1'
+charisma: '+4'
 climb_speed: null
 constitution: '+1'
 creature_ability:
-- Attack of Opportunity
-- Hunt Prey
-- Incredible Reload
-- Mobile Shot Stance
+- Change Shape
+- Invoke Old Sharptooth
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 36<br/><b><u>Unspecific
-  Lore</u></b>: DC 34<br/><b><u>Specific Lore</u></b>: DC 31'
-dexterity: '+4'
+dexterity: '+3'
 element: null
 fly_speed: null
-fortitude: '+15'
-hp: '155'
-id: '2101'
+fortitude: '+9'
+hp: '65'
+id: '2199'
 immunity: null
-intelligence: '+0'
-land_speed: '30'
+intelligence: '+2'
+land_speed: '25'
 language:
 - '[[DATABASE/language/Common|Common]]'
-level: '9'
-max_speed: '30'
-name: Tanesse Fleer
-perception: '+19'
+- '[[DATABASE/language/Draconic|Draconic]]'
+- '[[DATABASE/language/Gnomish|Gnomish]]'
+- '[[DATABASE/language/Hallit|Hallit]]'
+- '[[DATABASE/language/Sylvan|Sylvan]]'
+level: '4'
+max_speed: '25'
+name: Tartuccio
+perception: '+9'
 rarity: Unique
-reflex: '+16'
+reflex: '+11'
 resistance: null
 rus_type_level: null
-sense: null
-size: Medium
+sense:
+- '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
+size: Small
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +19'
-- '[[DATABASE/skill/Athletics|Athletics]] +17'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +16'
-- '[[DATABASE/skill/Stealth|Stealth]] +17'
-- '[[DATABASE/skill/Survival|Survival]] +19'
-- '[[DATABASE/skill/Thievery|Thievery]] +17'
-source: '[[DATABASE/source/Pathfinder 153. Life''s Long Shadows|Pathfinder #153: Life''s
-  Long Shadows]]'
+- '[[DATABASE/skill/Lore|Bardic Lore]] +8'
+- '[[DATABASE/skill/Crafting|Crafting]] +8'
+- '[[DATABASE/skill/Deception|Deception]] +12'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +10'
+- '[[DATABASE/skill/Occultism|Occultism]] +10'
+- '[[DATABASE/skill/Performance|Performance]] +12'
+- '[[DATABASE/skill/Society|Society]] +10'
+- '[[DATABASE/skill/Stealth|Stealth]] +11'
+- '[[DATABASE/skill/Thievery|Thievery]] +9'
+source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
 speed:
-- 30 feet; mobility
-spell: null
-strength: '+4'
-strength_req: '4'
+- 25 feet
+spell:
+- '[[DATABASE/spell/Counter Performance|Counter Performance]]'
+- '[[DATABASE/spell/Daze|Daze]]'
+- '[[DATABASE/spell/Fear|Fear]]'
+- '[[DATABASE/spell/Illusory Object|Illusory Object]]'
+- '[[DATABASE/spell/Inspire Courage|Inspire Courage]]'
+- '[[DATABASE/spell/Invisibility|Invisibility]]'
+- '[[DATABASE/spell/Light|Light]]'
+- '[[DATABASE/spell/Loremaster''s Etude|Loremaster''s Etude]]'
+- '[[DATABASE/spell/Mage Armor|Mage Armor]]'
+- '[[DATABASE/spell/Message|Message]]'
+- '[[DATABASE/spell/Mirror Image|MirrorImage]]'
+- '[[DATABASE/spell/Phantom Pain|Phantom Pain]]'
+- '[[DATABASE/spell/Shield|Shield]]'
+- '[[DATABASE/spell/Telekinetic Projectile|Telekinetic Projectile]]'
+- '[[DATABASE/spell/True Strike|True Strike]]'
+strength: '+0'
+strength_req: '0'
 strongest_save:
 - Reflex
+- Will
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Human|Human]]'
+- '[[DATABASE/trait/Gnome|Gnome]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
+vision: Low-light vision
 weakest_save:
-- Will
+- Fortitude
 weakness: null
-will: '+10'
-wisdom: '+4'
+will: '+11'
+wisdom: '+1'
 
 ---
 # Tartuccio (Tartuk)

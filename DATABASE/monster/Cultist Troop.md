@@ -12,9 +12,6 @@ creature_ability:
 - Troop Movement
 - Wild Swing
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Fey</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 20<br/><b><u>Unspecific Lore</u></b>:
-  DC 18<br/><b><u>Specific Lore</u></b>: DC 15'
 dexterity: '+1'
 element: null
 fly_speed: null

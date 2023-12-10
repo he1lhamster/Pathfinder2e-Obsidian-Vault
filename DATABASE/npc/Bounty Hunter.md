@@ -11,13 +11,6 @@ creature_ability:
 - Precision Edge
 - Running Reload
 creature_family: '[[DATABASE/monsterfamily/Mercenaries|Mercenaries]]'
-description: "Bounty hunters are constantly on the move, whether within city walls\
-  \ or the wilderness, trailing their fugitive quarries for capture\u2026 or disposal.\
-  \ Often relying on stealth or deception as much as martial skill, bounty hunters\
-  \ employ a vast array of talents to accomplish their goals, not to mention to collect\
-  \ the hefty payout that follows.<br/><br/><b><u>Recall Knowledge - Humanoid</u>\
-  \ ( [[DATABASE/skill/Society|Society]] )</b>: DC 19<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 17<br/><b><u>Specific Lore</u></b>: DC 14"
 dexterity: '+4'
 element: null
 fly_speed: null

@@ -1,80 +1,117 @@
 ﻿---
-ac: '25'
-alignment: CN
+ac: '35'
+alignment: CG
 all_resistance: null
 burrow_speed: null
-charisma: '+6'
+charisma: '+8'
 climb_speed: null
-constitution: '+1'
+constitution: '+6'
 creature_ability:
-- Axan Walk
-- Befuddling Lash
-- Manipulate Luck
-creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Fey</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 33<br/><b><u>Unspecific Lore</u></b>:
-  DC 31<br/><b><u>Specific Lore</u></b>: DC 28'
-dexterity: '+4'
+- Change Shape
+- Focus Beauty
+- Inspiration
+- Nature Empathy
+- "Nymph\u2019s Beauty"
+- Tied to the Land
+- Tree
+- Meld
+creature_family: '[[DATABASE/monsterfamily/Nymph|Nymph]]'
+dexterity: '+6'
 element: null
 fly_speed: null
-fortitude: '+12'
+fortitude: '+24'
 hardness: null
-hp: '115'
-id: '2058'
+hp: '220'
+id: '314'
 immunity: null
-intelligence: '+1'
+intelligence: '+4'
 land_speed: '30'
 language:
-- '[[DATABASE/language/Aklo|Aklo]]'
 - '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Sylvan|Sylvan]]'
-level: '7'
+- '[[DATABASE/language/Elven|Elven]]'
+- '[[DATABASE/language/Sylvan|Sylvan]] ; [[DATABASE/spell/Speak with Plants|speak
+  with plants]]'
+level: '13'
 max_speed: '30'
-name: Drusilla
-perception: '+17'
-rarity: Unique
-reflex: '+15'
+name: Dryad Queen
+perception: '+25'
+rarity: Uncommon
+reflex: '+26'
 resistance: null
 rus_type_level: null
 school: null
 sense:
-- '[[DATABASE/monsterability/Darkvision|darkvision]]'
-- '[[DATABASE/monsterability/Scent|scent]] (imprecise) 60 feet'
+- low-light vision
 size: Medium
 skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +17'
-- '[[DATABASE/skill/Deception|Deception]] +15'
-- '[[DATABASE/skill/Diplomacy|Diplomacy]] +15'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +15'
-- '[[DATABASE/skill/Nature|Nature]] +17'
-- '[[DATABASE/skill/Stealth|Stealth]] +15'
-source: '[[DATABASE/source/Pathfinder 182. Graveclaw|Pathfinder #182: Graveclaw]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +25'
+- '[[DATABASE/skill/Athletics|Athletics]] +19'
+- '[[DATABASE/skill/Crafting|Crafting]] +23'
+- '[[DATABASE/skill/Deception|Deception]] +30'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +30'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +27'
+- '[[DATABASE/skill/Nature|Nature]] +24'
+- '[[DATABASE/skill/Performance|Performance]] +28'
+- '[[DATABASE/skill/Stealth|Stealth]] +25'
+- '[[DATABASE/skill/Survival|Survival]] +24'
+source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 30 feet
 spell:
-- '[[DATABASE/spell/Electric Arc|Electric Arc]]'
-- '[[DATABASE/spell/Read Aura|ReadAura]]'
-- '[[DATABASE/spell/Searing Light|Searing Light]]'
-- '[[DATABASE/spell/Speak with Animals|Speak with Animals]]'
-- '[[DATABASE/spell/Summon Animal|Summon Animal]]'
+- '[[DATABASE/spell/Animal Messenger|Animal Messenger]]'
+- '[[DATABASE/spell/Baleful Polymorph|Baleful Polymorph]]'
+- '[[DATABASE/spell/Chain Lightning|Chain Lightning]]'
+- '[[DATABASE/spell/Charm|Charm]]'
+- '[[DATABASE/spell/Cone of Cold|Cone ofCold]]'
+- '[[DATABASE/spell/Death Ward|Death Ward]]'
+- '[[DATABASE/spell/Detect Magic|Detect Magic]]'
+- '[[DATABASE/spell/Earthbind|Earthbind]]'
+- '[[DATABASE/spell/Entangle|Entangle]]'
+- '[[DATABASE/spell/Faerie Fire|FaerieFire]]'
+- '[[DATABASE/spell/Fleet Step|Fleet Step]]'
+- '[[DATABASE/spell/Fly|Fly]]'
+- '[[DATABASE/spell/Guidance|Guidance]]'
+- '[[DATABASE/spell/Gust of Wind|Gust of Wind]]'
+- '[[DATABASE/spell/Haste|Haste]]'
+- '[[DATABASE/spell/Heal|Heal]]'
+- '[[DATABASE/spell/Impaling Briars|Impaling Briars]]'
+- '[[DATABASE/spell/Light|Light]]'
+- '[[DATABASE/spell/Negate Aroma|Negate Aroma]]'
+- '[[DATABASE/spell/Ray of Frost|Ray of Frost]]'
+- '[[DATABASE/spell/Regenerate|Regenerate]]'
+- '[[DATABASE/spell/Remove Fear|Remove Fear]]'
+- '[[DATABASE/spell/Resist Energy|Resist Energy]]'
+- '[[DATABASE/spell/Shape Wood|Shape Wood]]'
+- '[[DATABASE/spell/Sleep|Sleep]]'
+- '[[DATABASE/spell/Speak with Plants|Speak with Plants]]'
+- '[[DATABASE/spell/Stabilize|Stabilize]]'
+- '[[DATABASE/spell/Stoneskin|Stoneskin]]'
+- '[[DATABASE/spell/Suggestion|Suggestion]]'
+- '[[DATABASE/spell/Summon Plant or Fungus|Summon Plant or Fungus]]'
 - '[[DATABASE/spell/Tanglefoot|Tanglefoot]]'
-- '[[DATABASE/spell/Wall of Fire|Wall of Fire]]'
-strength: '+6'
-strength_req: '6'
+- '[[DATABASE/spell/Tangling Creepers|Tangling Creepers]]'
+- '[[DATABASE/spell/Tree Shape|Tree Shape]]'
+- '[[DATABASE/spell/Tree Stride|Tree Stride]]'
+- '[[DATABASE/spell/Wall of Thorns|Wall of Thorns]]'
+strength: '+2'
+strength_req: '2'
 strongest_save:
-- Will
+- Reflex
 swim_speed: null
 trait:
 - '[[DATABASE/trait/Fey|Fey]]'
-- '[[DATABASE/trait/Unique|Unique]]'
+- '[[DATABASE/trait/Nymph|Nymph]]'
+- '[[DATABASE/trait/Plant|Plant]]'
+- '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: Darkvision
+vision: Low-light vision
 weakest_save:
 - Fortitude
+- Will
 weakness:
-- '[[DATABASE/equipment/Cold Iron Weapon|cold iron]] 10'
+- cold iron 10
 - fire 10
-will: '+17'
+will: '+24'
 wisdom: '+4'
 
 ---

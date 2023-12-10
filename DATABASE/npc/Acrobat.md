@@ -13,10 +13,6 @@ creature_ability:
 - Steady Balance
 - Swinging Strike
 creature_family: '[[DATABASE/monsterfamily/Performers|Performers]]'
-description: 'Acrobats perform feats of agility, balance, and strength. The acrobat
-  is a 5th-level challenge for contests of acrobatics and the like.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 16<br/><b><u>Unspecific
-  Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>: DC 11'
 dexterity: '+4'
 element: null
 fly_speed: null

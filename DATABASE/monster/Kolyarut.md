@@ -9,15 +9,6 @@ constitution: '+5'
 creature_ability:
 - Truespeech
 creature_family: '[[DATABASE/monsterfamily/Aeon|Aeon]]'
-description: 'Kolyarut inevitables are enforcers of bargains and punishers of those
-  who fail to uphold them. Their humanoid shape, ability to disguise themselves among
-  a humanoid population, and diplomatic leanings make them the most approachable inevitables,
-  and thus more likely to ally themselves with others. They are among the most talkative
-  of all inevitables, naturally possessing a courtly grace and an encyclopedic knowledge
-  of social customs, which they use to assist their efforts in gathering information
-  on their targets or issuing challenges in a legal manner.<br/><br/><b><u>Recall
-  Knowledge - Monitor</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 30<br/><b><u>Unspecific
-  Lore</u></b>: DC 28<br/><b><u>Specific Lore</u></b>: DC 25'
 dexterity: '+4'
 element: null
 fly_speed: null

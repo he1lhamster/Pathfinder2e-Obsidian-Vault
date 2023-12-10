@@ -15,16 +15,6 @@ creature_ability:
 - Spray
 - Pollen
 creature_family: '[[DATABASE/monsterfamily/Elemental, Wood|Elemental, Wood]]'
-description: 'Skilled kizidhar mages and gardeners handcraft these lovely creatures
-  as much for their shuyookhs'' aesthetic pleasure as for their protection. Creating
-  a snapdrake requires first painstakingly constructing a frame of living wood in
-  the shape of a drake before weaving thousands of colorful snapdragon flowers into
-  intricate patterns to form its body and scales. Once complete, snapdrakes often
-  serve kizidhars as a combination of guards, pets, and decorations for as long as
-  they are well fed.<br/><br/><b><u>Recall Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Nature|Nature]] )</b>: DC 24<br/><b><u>Recall Knowledge - Plant</u>
-  ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 24<br/><b><u>Unspecific Lore</u></b>:
-  DC 22<br/><b><u>Specific Lore</u></b>: DC 19'
 dexterity: '+6'
 element: Wood
 fly_speed: '50'

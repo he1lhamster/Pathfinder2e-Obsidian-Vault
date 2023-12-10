@@ -13,22 +13,6 @@ creature_ability:
 - Rapid Rake
 - Tenacious Stance
 creature_family: null
-description: 'Aurumvoraxes are highly aggressive and territorial predators that sprint
-  on eight legs, using their terrific strength and iron-hard claws to dig through
-  solid stone. A typical aurumvorax is only 3 feet long but weighs more than 200 pounds,
-  for its thick, sturdy bones are densely packed with muscle, making the creature
-  very strong but a notoriously poor swimmer. Its fur is golden, sometimes with a
-  silvery or russet tone depending on the metals it has ingested, and its claws are
-  always the shiny black of seasoned iron.<br/><br/>Aurumvorax adults claim hunting
-  territories spanning a mile or more, driving out other predators and leading solitary
-  lives except when they mate. They are irascible creatures, impossible to train as
-  adults, but daring trainers can rear aurumvorax pups as deadly guard beasts, which
-  they sell for hundreds of gold pieces to discriminating buyers. Aurumvorax pups
-  are usually single births, and their mothers are fiercely protective, making their
-  acquisition a dangerous proposition. Even when trained, the creatures are prone
-  to dangerous bursts of rage.<br/><br/><b><u>Recall Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 26<br/><b><u>Unspecific Lore</u></b>: DC 24<br/><b><u>Specific Lore</u></b>:
-  DC 21'
 dexterity: '+2'
 element: null
 fly_speed: null

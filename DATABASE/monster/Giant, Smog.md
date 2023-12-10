@@ -1,53 +1,54 @@
 ﻿---
 ac: '23'
-alignment: N
+alignment: CE
 all_resistance: null
 burrow_speed: null
-charisma: '+0'
+charisma: '+2'
 climb_speed: null
-constitution: '+3'
+constitution: '+4'
 creature_ability:
-- Pierce Armor
-- Pounce
-- Sneak Attack
-creature_family: '[[DATABASE/monsterfamily/Cat|Cat]]'
-description: "Smilodons are large saber-toothed cats, apex predators that are significantly\
-  \ more muscular and broader than the other species of big cats. They often kill\
-  \ prey with a quick stab to the throat or other vulnerable spot. The smilodon\u2019\
-  s oversized fangs are particularly sought after as trophies.<br/><br/><b><u>Recall\
-  \ Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 22<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 20<br/><b><u>Specific Lore</u></b>: DC 17"
+- Attack of Opportunity
+- Catch Rock
+- Explosive Headbutt
+- Shrapnel
+creature_family: '[[DATABASE/monsterfamily/Giant|Giant]]'
 dexterity: '+2'
 element: null
 fly_speed: null
-fortitude: '+15'
+fortitude: '+17'
 hardness: null
-hp: '110'
-id: '70'
-immunity: null
-intelligence: '-4'
-land_speed: '30'
-language: null
-level: '6'
-max_speed: '30'
-name: Smilodon
-perception: '+14'
-rarity: Common
-reflex: '+12'
-resistance: null
+hp: '145'
+id: '1950'
+immunity:
+- '[[DATABASE/trait/Ingested|ingested]] [[DATABASE/trait/Poison|poisons]]'
+intelligence: '-2'
+land_speed: '35'
+language:
+- '[[DATABASE/language/Common|Common]]'
+- '[[DATABASE/language/Jotun|Jotun]]'
+- '[[DATABASE/language/Kelish|Kelish]]'
+level: '7'
+max_speed: '35'
+name: Smog Giant
+perception: '+13'
+rarity: Rare
+reflex: '+15'
+resistance:
+- '[[DATABASE/trait/Fire|fire]] 10'
+- poison 10
 rus_type_level: null
 school: null
 sense:
-- low-light vision
-- scent (imprecise) 60 feet
+- '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Large
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +12'
-- '[[DATABASE/skill/Athletics|Athletics]] +16'
-- '[[DATABASE/skill/Stealth|Stealth]] +12'
-source: '[[DATABASE/source/Bestiary|Bestiary]]'
+- '[[DATABASE/skill/Athletics|Athletics]] +17'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +15'
+- '[[DATABASE/skill/Survival|Survival]] +13'
+source: '[[DATABASE/source/Pathfinder 179. Cradle of Quartz|Pathfinder #179: Cradle
+  of Quartz]]'
 speed:
-- 30 feet
+- 35 feet
 spell: null
 strength: '+6'
 strength_req: '6'
@@ -55,13 +56,15 @@ strongest_save:
 - Fortitude
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Animal|Animal]]'
+- '[[DATABASE/trait/Giant|Giant]]'
+- '[[DATABASE/trait/Humanoid|Humanoid]]'
+- '[[DATABASE/trait/Rare|Rare]]'
 type: Creature
 vision: Low-light vision
 weakest_save:
 - Will
 weakness: null
-will: '+10'
+will: '+13'
 wisdom: '+2'
 
 ---

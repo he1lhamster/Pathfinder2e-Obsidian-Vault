@@ -20,27 +20,6 @@ creature_ability:
 - Shape Ice
 - Snow Vision
 creature_family: '[[DATABASE/monsterfamily/Dragon, White|Dragon, White]]'
-description: "The most feral and least intelligent of all the chromatic dragons, white\
-  \ dragons are brutish, predatory, and chiefly motivated by self-preservation. Nearly\
-  \ all other dragons look down on white dragons as hopelessly hotheaded and dull,\
-  \ though this does not make them any less dangerous\u2014in fact, it may mean the\
-  \ opposite. It\u2019s nearly impossible to treat with white dragons, not because\
-  \ they lack the capacity to do so, but because they just don\u2019t care to. They\
-  \ are as difficult to deal with as they are quick to anger, and they become incensed\
-  \ at almost anything. When a white dragon does speak, it spews threats, inane jokes,\
-  \ and incoherent babbling as a prelude to attacking\u2014and when the attack comes,\
-  \ it\u2019s bloody and relentless.<br/><br/> Thankfully, white dragons prefer very\
-  \ cold, remote locations that are far from people. Dwelling on glacial mountaintops\
-  \ or in ice caverns beneath forbidding tundra, they treat the lands around them\
-  \ as their own personal hunting grounds. They fly out to feed or terrorize other\
-  \ creatures, especially those who trespass near the dragon\u2019s territory, then\
-  \ bring any treasure back to be displayed in icy niches in their lairs. They collect\
-  \ all kinds of valuables, with a slight preference for items with high utility\u2014\
-  such as tools, trade goods, and fine food\u2014over coins or jewels. The ability\
-  \ to shape ice lets white dragons rearrange their lairs exactly to their specifications,\
-  \ and they take great pride in how they\u2019ve decorated their homes over the years.<br/><br/><b><u>Recall\
-  \ Knowledge - Dragon</u> ( [[DATABASE/skill/Arcana|Arcana]] )</b>: DC 36<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 34<br/><b><u>Specific Lore</u></b>: DC 31"
 dexterity: '+3'
 element: null
 fly_speed: '160'

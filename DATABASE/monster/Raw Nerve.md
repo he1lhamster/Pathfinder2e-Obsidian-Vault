@@ -13,23 +13,6 @@ creature_ability:
 - Synaptic Overload
 - Thoughtsense
 creature_family: null
-description: 'When a living creature is killed by massive amounts of electricity (such
-  as by being struck by lightning or subjected to a magical attack), their dying terror
-  sometimes causes their soul to linger on the [[DATABASE/plane/Material Plane|Material
-  Plane]] . Necromantic energy takes hold of their brain and nervous system, causing
-  these organs to burst forth from the charred flesh and become a raw nerve. These
-  horrific undead float a few inches off the ground in a macabre arrangement morbidly
-  parodying the creature''s living form, with its brain at the top and nerves dangling
-  below, crackling with electrical energy.<br/><br/> A raw nerve can sense the thoughts
-  of the living, perceiving them as a chaotic jumble that evokes an uncontrollable
-  rage. The undead seeks to destroy the sources of these thoughts, which often means
-  killing every living creature it can sense. Once a raw nerve detects no more thoughts,
-  it grows still, floating in an almost meditative state. However, its fury instantly
-  reawakens should a thinking creature pass too close. Though it''s not mindless,
-  a raw nerve can''t be reasoned with, and the only way to stop one is to destroy
-  it.<br/><br/><b><u>Recall Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 24<br/><b><u>Unspecific Lore</u></b>: DC 22<br/><b><u>Specific Lore</u></b>:
-  DC 19'
 dexterity: '+4'
 element: null
 fly_speed: null

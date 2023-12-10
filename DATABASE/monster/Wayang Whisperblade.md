@@ -10,12 +10,6 @@ creature_ability:
 - Shadowplay
 - Sneak Attack
 creature_family: '[[DATABASE/monsterfamily/Wayang|Wayang]]'
-description: "In hushed tones, superstitious people tell their children stories of\
-  \ wayangs\u2014 living shadows who come out at night to eat misbehaving children.\
-  \ Mostly, these stories are just fictions of fearful minds, but it's true that wayangs\
-  \ were originally creatures of shadow, straddling the edge between light and darkness.<br/><br/><b><u>Recall\
-  \ Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 17<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 15<br/><b><u>Specific Lore</u></b>: DC 12"
 dexterity: '+4'
 element: null
 fly_speed: null

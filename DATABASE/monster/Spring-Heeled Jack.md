@@ -13,40 +13,6 @@ creature_ability:
 - Malicious Stab
 - Vault
 creature_family: null
-description: 'The greatest secret of the murderous trickster known as Spring-Heeled
-  Jack is that he isn''t a unique creature. Instead, he''s one of a rare type of fey
-  native to the [[DATABASE/plane/First World|First World]] who enjoy causing bloody
-  mayhem in the Material Plane. These fey are so rare and so distrustful of one another''s
-  company that two have never been seen together; the mistaken assumption that only
-  a single Spring-Heeled Jack exists is therefore entirely understandable. The fact
-  that sightings occur across Ustalav (and beyond) and across centuries of time is
-  ascribed to the trickster''s long lifespan and mysterious ability to travel quickly,
-  or to the belief that there''s no such creature, merely an urban legend that twisted
-  minds attempt to bring to life through costumes, magic, and a series of murders
-  and mayhem. Even in fear-drenched Ustalav, no one has yet guessed that multiple
-  Spring-Heeled Jacks exist or postulated that some future event might drive them
-  to overcome their mutual disdain and gather into a murderous cabal, far more powerful
-  than the sum of its parts.<br/><br/> Spring-Heeled Jacks are cruel-eyed, hairy fey
-  with vaguely humanoid shapes and extra features that cause them to be easily mistaken
-  for demons or devils. Glowing eyes, cloven hooves, menacing horns, and a pointed
-  tail combine to create the mien of a wicked imp; his love of sudden and sadistic
-  violence completes the impression. Almost all have jet-black skin and fur, though
-  a few exceptions might exist.<br/><br/> Spring-Heeled Jacks typically hide their
-  features in tattered cloaks, appearing as a hunched elder or a youth in the nighttime
-  conditions they enjoy. Such a disguise rarely holds up to any scrutiny, but that
-  doesn''t matter much to the Spring-Heeled Jack, who only needs something that offers
-  just enough doubt for their target to move within striking distance, which can be
-  from much farther away than most other creatures even realize. Once close enough,
-  the Spring-Heeled Jack leaps startling distances in the blink of an eye to easily
-  slash at a victim who had, until that moment, considered themself safe.<br/><br/>
-  A Spring-Heeled Jack has drastically more treasure for his creature level than usual,
-  so even though Jacks aren''t unique, be mindful of how much wealth you''ve added
-  to your group. On top of giving too much treasure, fighting multiple encounters
-  with several Spring-Heeled Jacks is anti-thematic for the creature''s lore. Instead,
-  you should consider balancing an encounter with Spring-Heeled Jack with encounters
-  that give a little less treasure to keep in line with the expectations.<br/><br/><b><u>Recall
-  Knowledge - Fey</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 23<br/><b><u>Unspecific
-  Lore</u></b>: DC 21<br/><b><u>Specific Lore</u></b>: DC 18'
 dexterity: '+4'
 element: null
 fly_speed: null

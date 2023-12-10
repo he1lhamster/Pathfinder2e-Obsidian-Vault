@@ -12,27 +12,6 @@ creature_ability:
 - Pheromones
 - Swallow Whole
 creature_family: null
-description: 'Yaiafinetis grow only during periods of extended twilight, thriving
-  across the cold tundra of the Crown of the World exclusively in the winter months.
-  To survive in such harsh conditions, the yaiafineti, or dusk poppy, sprouts independent
-  polyps that detach and then creep across the tundra in search of food for their
-  matriarch.<br/><br/> Dusk poppies sprout from spores that attach to carcasses, but
-  they only blossom during the long twilight unique to the Crown of the World. The
-  perfect conditions for their development are so rare that yaiafineti have developed
-  a vigorous appetite. They feed unceasingly. Much of their energy goes to developing
-  more polyps, and one plant can easily spawn a small infestation of these deadly
-  bulbs.<br/><br/> The plants send out runner shoots that quickly develop purple bulbs.
-  These bulbs, the plant''s polyps, sprout many long, hooked vines before detaching
-  from the mother plant. Polyps are short lived but active, foraging for a week or
-  so before they shrivel and die. These polyps aren''t dangerous unless handled. They
-  secrete a fine dust that acts as a paralyzing poison that seizes the nervous system
-  of creatures who come in contact with them.<br/><br/> <b>Paralyzing Poison</b> (poison)
-  <b>Saving Throw</b> DC 19 Fortitude; <b>Maximum Duration</b> 6 rounds; <b>Stage
-  1</b> [[DATABASE/condition/Flat-Footed|flat-footed]] and [[DATABASE/condition/Clumsy|clumsy
-  1]] (1 round); <b>Stage 2</b> flat-footed and clumsy 2 (1 round); <b>Stage 3</b>
-  [[DATABASE/condition/Paralyzed|paralyzed]] (1 round)<br/><br/><b><u>Recall Knowledge
-  - Plant</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 26<br/><b><u>Unspecific
-  Lore</u></b>: DC 24<br/><b><u>Specific Lore</u></b>: DC 21'
 dexterity: '-5'
 element: null
 fly_speed: null

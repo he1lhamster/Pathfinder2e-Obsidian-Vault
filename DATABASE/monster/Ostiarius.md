@@ -13,17 +13,6 @@ creature_ability:
 - Sense Portal
 - Whispering Wounds
 creature_family: '[[DATABASE/monsterfamily/Velstrac|Velstrac]]'
-description: "Ostiariuses, as emissaries of the velstracs, tend to the portals between\
-  \ the [[DATABASE/plane/Shadow Plane|Shadow Plane]] and the Material Plane. They\
-  \ not only escort other velstracs into the world of mortals, but also work to entice\
-  \ mortals into the realms of the velstracs\u2014 from which most mortals never leave.\
-  \ Among the most pleasant and persuasive of the velstracs, ostiariuses are prepared\
-  \ to converse for hours upon any topic, and they are skilled at returning, again\
-  \ and again, to the subject of the delights found in their perverse philosophies.\
-  \ Ostiariuses stand over 6 feet tall, and individuals range from skeletally thin\
-  \ to hugely corpulent.<br/><br/><b><u>Recall Knowledge - Fiend</u> ( [[DATABASE/skill/Religion|Religion]]\
-  \ )</b>: DC 20<br/><b><u>Unspecific Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>:\
-  \ DC 15"
 dexterity: '+4'
 element: null
 fly_speed: null

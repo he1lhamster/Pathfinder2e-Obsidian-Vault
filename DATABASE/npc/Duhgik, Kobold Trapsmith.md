@@ -1,75 +1,71 @@
 ﻿---
-ac: '35'
-alignment: LE
+ac: '24'
+alignment: NG
 all_resistance: null
 burrow_speed: null
-charisma: '+3'
+charisma: '+2'
 climb_speed: null
-constitution: '+3'
+constitution: '+2'
 creature_ability:
-- Hunt Prey
-- Hunter's Flurry
-- Improved Evasion
-- Light Blindness
+- Cringe
+- Remote Trigger
+- Sneak Attack
+- Surprise Snare
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 36<br/><b><u>Unspecific
-  Lore</u></b>: DC 34<br/><b><u>Specific Lore</u></b>: DC 31'
-dexterity: '+8'
+dexterity: '+4'
 element: null
 fly_speed: null
-fortitude: '+21'
-hp: '240'
-id: '1574'
+fortitude: '+11'
+hp: '66'
+id: '1028'
 immunity: null
-intelligence: '+2'
-land_speed: '25'
+intelligence: '+5'
+land_speed: '30'
 language:
 - '[[DATABASE/language/Common|Common]]'
+- '[[DATABASE/language/Draconic|Draconic]]'
 - '[[DATABASE/language/Dwarven|Dwarven]]'
+- '[[DATABASE/language/Gnomish|Gnomish]]'
 - '[[DATABASE/language/Undercommon|Undercommon]]'
-level: '13'
-max_speed: '25'
-name: Duergar Slave Lord
-perception: '+26'
-rarity: Rare
-reflex: '+28'
+level: '6'
+max_speed: '30'
+name: Duhgik
+perception: '+14'
+rarity: Unique
+reflex: '+17'
 resistance: null
 rus_type_level: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
-size: Medium
+size: Small
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +25'
-- '[[DATABASE/skill/Athletics|Athletics]] +23'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +22'
-- '[[DATABASE/skill/Society|Society]] +21'
-- '[[DATABASE/skill/Stealth|Stealth]] +27'
-- '[[DATABASE/skill/Survival|Survival]] +26'
-source: '[[DATABASE/source/Pathfinder 148. Fires of the Haunted City|Pathfinder #148:
-  Fires of the Haunted City]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +12'
+- '[[DATABASE/skill/Crafting|Crafting]] +15'
+- '[[DATABASE/skill/Deception|Deception]] +12'
+- '[[DATABASE/skill/Lore|Forest Lore]] +13'
+- '[[DATABASE/skill/Medicine|Medicine]] +10'
+- '[[DATABASE/skill/Stealth|Stealth]] +14'
+- '[[DATABASE/skill/Survival|Survival]] +12'
+source: '[[DATABASE/source/No-Prep Character. Duhgik|No-Prep Character: Duhgik]]'
 speed:
-- 25 feet
-spell:
-- '[[DATABASE/spell/Enlarge|Enlarge]]'
-- '[[DATABASE/spell/Invisibility|Invisibility]]'
-strength: '+4'
-strength_req: '4'
+- '30'
+spell: null
+strength: '+2'
+strength_req: '2'
 strongest_save:
 - Reflex
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Duergar|Duergar]]'
-- '[[DATABASE/trait/Dwarf|Dwarf]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
-- '[[DATABASE/trait/Rare|Rare]]'
+- '[[DATABASE/trait/Kobold|Kobold]]'
+- '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
 weakness: null
-will: '+23'
-wisdom: '+5'
+will: '+14'
+wisdom: '+4'
 
 ---
 # Duhgik, Kobold Trapsmith

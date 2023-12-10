@@ -19,13 +19,6 @@ creature_ability:
 - Positive Energy Transfer
 - Sunlight Powerlessness
 creature_family: '[[DATABASE/monsterfamily/Wyrmwraith|Wyrmwraith]]'
-description: 'The most powerful of these monsters, elder wyrmwraiths, sometimes form
-  spontaneously from legendary dragons haunted by an irrational fear of the afterlife,
-  but most have simply existed for over a thousand years, growing in power all the
-  while.<br/><br/><b><u>Recall Knowledge - Dragon</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  )</b>: DC 51<br/><b><u>Recall Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 51<br/><b><u>Unspecific Lore</u></b>: DC 49<br/><b><u>Specific Lore</u></b>:
-  DC 46'
 dexterity: '+11'
 element: null
 fly_speed: '100'

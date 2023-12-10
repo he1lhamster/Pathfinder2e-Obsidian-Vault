@@ -11,14 +11,6 @@ creature_ability:
 - Bellowing Command
 - Sweeping Hook
 creature_family: '[[DATABASE/monsterfamily/Ogre|Ogre]]'
-description: "In ogre society, might makes more than right\u2014it makes the rules.\
-  \ The strongest or most violent ogre in a family (in most cases, this is the same\
-  \ ogre) is invariably that family\u2019s boss. Quick to hook fallen foes on their\
-  \ weapons, even other ogres fear the repercussions of displeasing an ogre boss.\
-  \ When an ogre boss barks out commands, the other members of the family move quickly\
-  \ to obey.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]\
-  \ )</b>: DC 23<br/><b><u>Unspecific Lore</u></b>: DC 21<br/><b><u>Specific Lore</u></b>:\
-  \ DC 18"
 dexterity: '+0'
 element: null
 fly_speed: null

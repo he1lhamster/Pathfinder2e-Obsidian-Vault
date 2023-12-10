@@ -11,12 +11,6 @@ creature_ability:
 - Final Snare
 - Spawn Hunter Wight
 creature_family: '[[DATABASE/monsterfamily/Wight|Wight]]'
-description: 'Dangers deep in the wilderness claim the life some lone scout or hunter.
-  When they arise as wights, they renew their hunt with equal vigor, but all the living
-  are now their prey. Hunter wights prefer to seek strategic ground, frequently taking
-  residence atop hills or within abandoned watchtowers and keeps.<br/><br/><b><u>Recall
-  Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 25<br/><b><u>Unspecific
-  Lore</u></b>: DC 23<br/><b><u>Specific Lore</u></b>: DC 20'
 dexterity: '+4'
 element: null
 fly_speed: null

@@ -18,22 +18,6 @@ creature_ability:
 - Snatch Between
 - Unsettled Mind
 creature_family: '[[DATABASE/monsterfamily/Sahkil|Sahkil]]'
-description: 'Among the strongest of their kind aside from the sahkil tormentors,
-  kimenhuls work their craft to foment despair in those who fear failure, forming
-  cycles of self-loathing. These powerful sahkils focus their attention on mortals
-  who are seemingly at the peak of their ability yet harbor secret fears of inadequacy.
-  A kimenhul''s predations can leave an indelible mark on its victims. The kimenhul
-  whispers threats and sends fears of crushing failure to its prey, seemingly originating
-  from their own minds, a trauma that can be difficult to bear without help. These
-  sahkils torment their prey as long as the hapless victims live, using their Eternal
-  Fear ability every day to psychically remind their previous victims of their failings.<br/><br/>
-  Some unique kimenhuls find themselves in a position of leadership in Xibalba (see
-  the sidebar below), where they carve out their own small kingdoms and direct groups
-  of sahkils to help them find mortals to torment. They rule these nightmare kingdoms
-  through terror, often delighting in tormenting new petitioners or scheming ways
-  to work against their immortal foes.<br/><br/><b><u>Recall Knowledge - Fiend</u>
-  ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 40<br/><b><u>Unspecific Lore</u></b>:
-  DC 38<br/><b><u>Specific Lore</u></b>: DC 35'
 dexterity: '+8'
 element: null
 fly_speed: null

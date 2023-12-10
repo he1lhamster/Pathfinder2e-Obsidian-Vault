@@ -9,11 +9,6 @@ constitution: '+1'
 creature_ability:
 - Gotcha!
 creature_family: '[[DATABASE/monsterfamily/Animated Bones|Animated Bones]]'
-description: 'Floating femurs can deliver a powerful blow. They make handy weapons
-  for those who manage to grab hold of them. <br/><br/><b><u>Recall Knowledge - Construct</u>
-  ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]] )</b>:
-  DC 15<br/><b><u>Unspecific Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>:
-  DC 10'
 dexterity: '+1'
 element: null
 fly_speed: '25'

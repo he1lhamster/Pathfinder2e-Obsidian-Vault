@@ -9,14 +9,6 @@ constitution: '+6'
 creature_ability:
 - Axe Vulnerability
 creature_family: '[[DATABASE/monsterfamily/Arboreal|Arboreal]]'
-description: 'Arboreal regents and other wielders of powerful primal magic grant temporary
-  sentience to trees in order to protect the forest. Invested with a workable set
-  of instincts and the ability to mobilize and attack, these awakened trees follow
-  the commands of their master and fight to protect their home. The statistics below
-  work just as well for foliage that has become animate via other methods, such as
-  a mystical influence from another dimension, a capricious fey spirit, or the like.<br/><br/><b><u>Recall
-  Knowledge - Plant</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 22<br/><b><u>Unspecific
-  Lore</u></b>: DC 20<br/><b><u>Specific Lore</u></b>: DC 17'
 dexterity: '-1'
 element: null
 fly_speed: null

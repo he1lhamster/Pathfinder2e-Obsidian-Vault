@@ -16,7 +16,6 @@ creature_ability:
 - Vulnerable to Neutralize Poison
 - Vulnerable to Rust
 creature_family: '[[DATABASE/monsterfamily/Golem|Golem]]'
-description: This creature did not include a description.
 dexterity: '+0'
 element: null
 fly_speed: null

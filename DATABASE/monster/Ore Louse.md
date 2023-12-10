@@ -13,22 +13,6 @@ creature_ability:
 - Rust
 - Water Stride
 creature_family: null
-description: "Ore lice are six-legged insectile creatures that roost either just beneath\
-  \ or above the water's surface. They're highly territorial toward both strangers\
-  \ and each other, able to detect an intruder through the ripples in the water. Due\
-  \ to their diet, ore lice have incredibly tough chitin that's infused with metal.\
-  \ Cannibalism between ore lice is common when they're unable to locate other prey.<br/><br/>\
-  \ Though there are far more suitable environments for ore lice bordering the [[DATABASE/plane/Plane\
-  \ of Air|Plane of Air]] , the creatures are often found where the [[DATABASE/plane/Plane\
-  \ of Earth|Plane of Earth]] meets the [[DATABASE/plane/Plane of Water|Plane of Water]]\
-  \ . This was a mystery that puzzled many\u2014until the [[DATABASE/plane/Plane of\
-  \ Metal|Plane of Metal]] returned between the Planes of Earth and Water. Planar\
-  \ researchers realized that ore lice must have hunted here before the planar schism.\
-  \ On the Plane of Metal, ore lice often appear in horror stories chasing down metal\
-  \ elementals and ferociously devouring them. Their connection to [[DATABASE/deity/Ferrumnestra|Ferrumnestra]]\
-  \ adds to their infamy.<br/><br/><b><u>Recall Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]]\
-  \ , [[DATABASE/skill/Nature|Nature]] )</b>: DC 20<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 18<br/><b><u>Specific Lore</u></b>: DC 15"
 dexterity: '+4'
 element: Water
 fly_speed: null

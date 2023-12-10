@@ -15,14 +15,6 @@ creature_ability:
 - Telekinetic
 - Storm
 creature_family: null
-description: 'When a creature dies, and for whatever reason its spirit is unable or
-  unwilling to leave the site of its death, that spirit may manifest as a poltergeist:
-  a restless invisible spirit that is still able to manipulate physical objects. Many
-  poltergeists perished in a way that resulted from or has led to extreme emotional
-  trauma.<br/><br/><b><u>Recall Knowledge - Spirit</u> ( [[DATABASE/skill/Occultism|Occultism]]
-  )</b>: DC 20<br/><b><u>Recall Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 20<br/><b><u>Unspecific Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>:
-  DC 15'
 dexterity: '+5'
 element: null
 fly_speed: '20'

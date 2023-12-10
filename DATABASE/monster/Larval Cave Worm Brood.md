@@ -12,18 +12,6 @@ creature_ability:
 - Relentless
 - Shake It Off
 creature_family: '[[DATABASE/monsterfamily/Cave Worm|Cave Worm]]'
-description: 'While gestating, cave worms adapt to their surrounding environments,
-  becoming accustomed to extreme temperatures and hazards nearby. For example, cave
-  worms hatched in volcanic environments mature into crimson worms, while those raised
-  near water sources mature into azure worms. Regardless of their environment, larval
-  cave worms all have translucent bodies and pallid carapaces that harden and change
-  color as they mature.<br/><br/> When a brood of cave worms hatches from their eggs,
-  the foot-long worms mass together, forming a swarm of ravenous larval worms. This
-  swarm travels ceaselessly, consuming anything in its path. The young are drawn to
-  movement, as living, squirming prey tends to be the most nutritious. As they age,
-  they incorporate more minerals into their diet to support carapace growth.<br/><br/><b><u>Recall
-  Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 32<br/><b><u>Unspecific
-  Lore</u></b>: DC 30<br/><b><u>Specific Lore</u></b>: DC 27'
 dexterity: '+3'
 element: null
 fly_speed: null

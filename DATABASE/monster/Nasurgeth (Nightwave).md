@@ -1,79 +1,91 @@
 ﻿---
-ac: '18'
-alignment: N
+ac: '45'
+alignment: CE
 all_resistance: null
 burrow_speed: null
-charisma: '+0'
+charisma: '+7'
 climb_speed: null
-constitution: '+4'
+constitution: '+7'
 creature_ability:
-- Aquatic Echolocation
-- Deep Breath
-- Impaling Charge
-creature_family: null
-description: "Narwhals are mid-sized whales known for the long tusk that grows from\
-  \ their nose. The tusk, forming from a protruding canine tooth, appears primarily\
-  \ on males and can grow up to 10 feet in length over the course of an adult narwhal's\
-  \ life. In addition to helping the narwhal attract mates (much like a peacock's\
-  \ feathers), the tusk can serve as a weapon.<br/><br/> Like dolphins, narwhals communicate\
-  \ via clicks and whistles, and they use sound to navigate and hunt. They congregate\
-  \ in groups of five to 10, except in the summer when they gather in the hundreds.\
-  \ Adult narwhals are typically 13\u201318 feet long (not counting the tusk) and\
-  \ weigh 1,500\u20133,500 pounds.<br/><br/> The similarities between a narwhal's\
-  \ tusk and a unicorn's horn have led to the narwhals' nickname of \u201Csea unicorns,\u201D\
-  \ but the narwhal's tusk is not made of the same highly sought material. Legends\
-  \ surrounding narwhals have nevertheless attributed magical characteristics to these\
-  \ remarkable tusks, such as neutralizing poison. Collectors and artisans also value\
-  \ the tusks as an elegant crafting material useful for carvings and other works\
-  \ of art.<br/><br/><b><u>Recall Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 18<br/><b><u>Unspecific Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>:\
-  \ DC 13"
-dexterity: '+3'
+- Broken Barb
+- Midnight Depths
+- Ravenous Void
+- Spray Black Bile
+- Sunlight Powerlessness
+- Swallow
+- Whole
+creature_family: '[[DATABASE/monsterfamily/Darvakka|Darvakka]]'
+dexterity: '+6'
 element: null
-fly_speed: null
-fortitude: '+9'
+fly_speed: '60'
+fortitude: '+35'
 hardness: null
-hp: '50'
-id: '1245'
-immunity: null
-intelligence: '-4'
+hp: 510 ( negative healing )
+id: '1851'
+immunity:
+- '[[DATABASE/trait/Cold|cold]]'
+- '[[DATABASE/trait/Death|death]] effects'
+- '[[DATABASE/trait/Disease|disease]]'
+- '[[DATABASE/condition/Paralyzed|paralyzed]]'
+- '[[DATABASE/trait/Poison|poison]]'
+- '[[DATABASE/condition/Unconscious|unconscious]]'
+intelligence: '+8'
 land_speed: null
-language: null
-level: '3'
-max_speed: '60'
-name: Narwhal
-perception: '+10'
+language:
+- '[[DATABASE/language/Abyssal|Abyssal]]'
+- '[[DATABASE/language/Common|Common]]'
+- '[[DATABASE/language/Infernal|Infernal]]'
+- '[[DATABASE/language/Necril|Necril]] ; [[DATABASE/monsterability/Telepathy|telepathy]]
+  100 feet'
+level: '20'
+max_speed: '80'
+name: Nasurgeth
+perception: '+36'
 rarity: Common
-reflex: '+10'
-resistance:
-- cold 5
+reflex: '+32'
+resistance: null
 rus_type_level: null
 school: null
 sense:
-- aquatic echolocation 120 feet
-- '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
-size: Large
+- '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
+- '[[DATABASE/monsterability/Lifesense|lifesense]] 60 feet'
+size: Gargantuan
 skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +10'
-source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
+- '[[DATABASE/skill/Arcana|Arcana]] +36'
+- '[[DATABASE/skill/Athletics|Athletics]] +39'
+- '[[DATABASE/skill/Lore|Negative Energy Plane Lore]] +36'
+- '[[DATABASE/skill/Religion|Religion]] +36'
+- '[[DATABASE/skill/Lore|Shadow Plane Lore]] +36'
+- '[[DATABASE/skill/Stealth|Stealth]] +34'
+source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 speed:
-- swim 60 feet
-spell: null
-strength: '+5'
-strength_req: '5'
+- fly 60 feet
+- swim 80 feet
+spell:
+- '[[DATABASE/spell/Detect Magic|Detect Magic]]'
+- '[[DATABASE/spell/Eclipse Burst|EclipseBurst]]'
+- '[[DATABASE/spell/Harm|Harm]]'
+- '[[DATABASE/spell/Plane Shift|Plane Shift]]'
+- '[[DATABASE/spell/True Seeing|True Seeing]]'
+strength: '+11'
+strength_req: '11'
 strongest_save:
-- Reflex
-swim_speed: '60'
-trait:
-- '[[DATABASE/trait/Animal|Animal]]'
-- '[[DATABASE/trait/Aquatic|Aquatic]]'
-type: Creature
-vision: Low-light vision
-weakest_save:
 - Will
-weakness: null
-will: '+8'
-wisdom: '+3'
+swim_speed: '80'
+trait:
+- '[[DATABASE/trait/Aquatic|Aquatic]]'
+- '[[DATABASE/trait/Darvakka|Darvakka]]'
+- '[[DATABASE/trait/Shadow|Shadow]]'
+- '[[DATABASE/trait/Undead|Undead]]'
+type: Creature
+vision: Greater darkvision
+weakest_save:
+- Reflex
+weakness:
+- '[[DATABASE/trait/Good|good]] 15'
+- '[[DATABASE/equipment/Silver Weapon|silver]] 15'
+will: '+36'
+wisdom: '+8'
 
 ---
 # Nasurgeth (Nightwave)

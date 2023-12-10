@@ -12,11 +12,6 @@ creature_ability:
 - Tilting Strike
 - Trample
 creature_family: '[[DATABASE/monsterfamily/Elemental, Earth|Elemental, Earth]]'
-description: 'This wave of dirt takes the crude likeness of the melded forequarters
-  of a charging warhorse and a rocky knight wielding a rudimentary lance of gray stone.<br/><br/><b><u>Recall
-  Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 19<br/><b><u>Unspecific Lore</u></b>: DC 17<br/><b><u>Specific Lore</u></b>:
-  DC 14'
 dexterity: '+1'
 element: Earth
 fly_speed: null

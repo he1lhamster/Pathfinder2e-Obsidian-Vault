@@ -11,11 +11,6 @@ creature_ability:
 - Jet
 - Ravenous Embrace
 creature_family: '[[DATABASE/monsterfamily/Squid|Squid]]'
-description: 'Dwelling deep within the oceans, this huge cephalopod grows up to 45
-  feet in length and can weigh up to 600 pounds. Its arms and tentacles are lined
-  with hundreds of hooks and suckers, allowing it to seize its prey with ease.<br/><br/><b><u>Recall
-  Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 26<br/><b><u>Unspecific
-  Lore</u></b>: DC 24<br/><b><u>Specific Lore</u></b>: DC 21'
 dexterity: '+3'
 element: null
 fly_speed: null

@@ -1,68 +1,74 @@
 ﻿---
-ac: '23'
-alignment: LN
+ac: '18'
+alignment: NG
 all_resistance: null
 burrow_speed: null
 charisma: '+3'
 climb_speed: null
-constitution: '+0'
+constitution: '+1'
 creature_ability:
-- Bravery
-- Dual Disarm
-- No Quarter!
-creature_family: '[[DATABASE/monsterfamily/Seafarers|Seafarers]]'
-description: 'The captain is the ultimate authority on a vessel, responsible for the
-  livelihood and well-being of everyone on the ship.<br/><br/><b><u>Recall Knowledge
-  - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 22<br/><b><u>Unspecific
-  Lore</u></b>: DC 20<br/><b><u>Specific Lore</u></b>: DC 17'
-dexterity: '+2'
+- A Drink for Good Luck
+- Cataracts
+- Respect Your Elders!
+- Wait
+- Give Me a Moment...
+- Wood-Grain Speaker
+- You Know
+- They Say...
+creature_family: null
+dexterity: '-1'
 element: null
 fly_speed: null
-fortitude: '+12'
-hp: '90'
-id: '954'
+fortitude: '+10'
+hp: '70'
+id: '2736'
 immunity: null
-intelligence: '+1'
+intelligence: '+4'
 land_speed: '25'
 language:
 - '[[DATABASE/language/Common|Common]]'
-level: '6'
+- '[[DATABASE/language/Hwan|Hwan]]'
+- '[[DATABASE/language/Minkaian|Minkaian]]'
+- '[[DATABASE/language/Tengu|Tengu]]'
+level: '5'
 max_speed: '25'
-name: Ship Captain
+name: "Shou \u201COld\u201D Matsuki"
 perception: '+12'
-rarity: Common
-reflex: '+12'
+rarity: Unique
+reflex: '+8'
 resistance: null
 rus_type_level: null
-sense: null
+sense:
+- cataracts
+- wood-grain speaker
 size: Medium
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +10'
-- '[[DATABASE/skill/Athletics|Athletics]] +12'
-- '[[DATABASE/skill/Diplomacy|Diplomacy]] +11'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +13'
-- '[[DATABASE/skill/Lore|Sailing Lore]] +17'
-- '[[DATABASE/skill/Survival|Survival]] +10'
-source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
+- '[[DATABASE/skill/Crafting|Crafting]] +13'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +12'
+- '[[DATABASE/skill/Nature|Nature]] +12'
+- '[[DATABASE/skill/Society|Society]] +11'
+- '[[DATABASE/skill/Lore|Willowshore Lore]] +13'
+source: '[[DATABASE/source/Pathfinder 196. The Summer That Never Was|Pathfinder #196:
+  The Summer That Never Was]]'
 speed:
 - 25 feet
 spell: null
-strength: '+4'
-strength_req: '4'
+strength: '+2'
+strength_req: '2'
 strongest_save:
 - Will
 swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
+- '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
 vision: null
 weakest_save:
-- Fortitude
 - Reflex
 weakness: null
-will: '+14'
-wisdom: '+2'
+will: '+12'
+wisdom: '+3'
 
 ---
 # Shou "Old" Matsuki, Popular Local Old-Timer

@@ -1,100 +1,50 @@
 ﻿---
-ac: '36'
-alignment: LE
+ac: null
+alignment: null
 all_resistance: null
 burrow_speed: null
-charisma: '+4'
+charisma: null
 climb_speed: null
-constitution: '+6'
-creature_ability:
-- Drain Qi
-- Jiang-Shi Vulnerabilities
-- Premonition of Death
-- Stance of Death
-- Warped Fulu
-creature_family: '[[DATABASE/monsterfamily/Vampire, Jiang-Shi|Vampire, Jiang-Shi]]'
-description: 'Ministers of tumult are grandmasters of killing, having cultivated their
-  prowess to supernatural levels through the qi reaved from countless mortals. Many
-  such jiang-shi ministers rule over settlements or even entire city-states, cowing
-  their subjects into unerring obedience.<br/><br/> A settlement or city-state under
-  the control of a minister of tumult typically seems, on the outside, like everything
-  is running smoothly and with clockwork precision. Guard patrols, street cleanings,
-  carriages, and more always arrive precisely at the designated time, neither early
-  nor late. To a visitor who doesn''t pay any heed to the unease behind the smiles
-  on the inhabitants'' faces, the minister of tumult''s fiefdom might appear to be
-  a marvelous place to live. But the truth is much more dire. Ministers of tumult
-  keep control and engorge themselves with qi by draining qi from criminals. If the
-  minister of tumult is hungry and there haven''t been any serious crimes, they simply
-  dole out this punishment for petty crimes, minor infractions, or simple failures
-  to perform adequately. This keeps the people in check, as there always seems to
-  be a way to avoid the penalty by acting perfectly.<br/><br/><b><u>Recall Knowledge
-  - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 32<br/><b><u>Unspecific
-  Lore</u></b>: DC 30<br/><b><u>Specific Lore</u></b>: DC 27'
-dexterity: '+4'
+constitution: null
+creature_ability: null
+creature_family: null
+dexterity: null
 element: null
 fly_speed: null
-fortitude: '+26'
+fortitude: null
 hardness: null
-hp: 190 ( fast healing 10 , negative healing , one more breath)
-id: '1910'
-immunity:
-- '[[DATABASE/trait/Death|death]] effects'
-- '[[DATABASE/trait/Disease|disease]]'
-- '[[DATABASE/condition/Paralyzed|paralyzed]]'
-- '[[DATABASE/trait/Poison|poison]]'
-- '[[DATABASE/spell/Sleep|sleep]]'
-- '[[DATABASE/condition/Prone|prone]]'
-intelligence: '+4'
-land_speed: '30'
-language:
-- '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Necril|Necril]]'
-- '[[DATABASE/language/Tien|Tien]]'
-level: '14'
-max_speed: '30'
+hp: null
+id: '1409'
+immunity: null
+intelligence: null
+land_speed: null
+language: null
+level: null
+max_speed: null
 name: Minister Of Tumult
-perception: '+28'
-rarity: Common
-reflex: '+24'
-resistance:
-- physical 10 (except [[DATABASE/trait/Magical|magical]] [[DATABASE/equipment/Darkwood
-  Weapon|darkwood]] )
+perception: null
+rarity: null
+reflex: null
+resistance: null
 rus_type_level: null
 school: null
-sense:
-- breathsense (precise) 60 feet
-- '[[DATABASE/monsterability/Darkvision|darkvision]]'
-size: Medium
-skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +24'
-- '[[DATABASE/skill/Athletics|Athletics]] +29'
-- '[[DATABASE/skill/Diplomacy|Diplomacy]] +24'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +24'
-- '[[DATABASE/skill/Lore|Martial Arts Lore]] +22'
-- '[[DATABASE/skill/Society|Society]] +20'
-- '[[DATABASE/skill/Stealth|Stealth]] +24'
-source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-speed:
-- 30 feet; rigor mortis
-spell:
-- '[[DATABASE/spell/Ki Rush|Ki Rush]]'
-- '[[DATABASE/spell/Medusa''s Wrath|Medusa''sWrath]]'
-- '[[DATABASE/spell/Wind Jump|Wind Jump]]'
-strength: '+7'
-strength_req: '7'
-strongest_save:
-- Will
+sense: null
+size: null
+skill: null
+source: '[[DATABASE/source/Pathfinder 167. Ready Fight!|Pathfinder #167: Ready? Fight!]]'
+speed: null
+spell: null
+strength: null
+strength_req: null
+strongest_save: null
 swim_speed: null
-trait:
-- '[[DATABASE/trait/Undead|Undead]]'
-- '[[DATABASE/trait/Vampire|Vampire]]'
-type: Creature
-vision: Darkvision
-weakest_save:
-- Reflex
+trait: null
+type: null
+vision: null
+weakest_save: null
 weakness: null
-will: '+28'
-wisdom: '+8'
+will: null
+wisdom: null
 
 ---
 # Minister Of Tumult

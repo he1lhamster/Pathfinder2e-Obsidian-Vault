@@ -14,18 +14,6 @@ creature_ability:
 - Protean Anatomy
 - Text Immersion
 creature_family: '[[DATABASE/monsterfamily/Protean|Protean]]'
-description: 'Akizendris gnaw at sources of knowledge and lore, gleefully corrupting
-  and altering them to vex scholars and sages across the planes with contradictions
-  and untruths. These proteans appear as cackling, serpentine creatures with elongated
-  crocodilian faces, luminous eyes, and arms that vanish at the elbows into swirling
-  clouds of runes before reforming into solid talons.<br/><br/> Akizendris amuse themselves
-  by rearranging or deleting texts, placing insulting acrostics in poetic verses,
-  and penning crude insults upon title pages. Libraries in such places as [[DATABASE/plane/Heaven|Heaven]]
-  , [[DATABASE/plane/Axis|Axis]] , and [[DATABASE/plane/Hell|Hell]] are especially
-  keen to avoid such contamination, knowing that their records are choice targets
-  for every akizendri in existence.<br/><br/><b><u>Recall Knowledge - Monitor</u>
-  ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 18<br/><b><u>Unspecific Lore</u></b>:
-  DC 16<br/><b><u>Specific Lore</u></b>: DC 13'
 dexterity: '+4'
 element: null
 fly_speed: '25'

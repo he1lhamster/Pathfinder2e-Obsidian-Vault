@@ -12,17 +12,6 @@ creature_ability:
 - Ice Climb
 - Snow Vision
 creature_family: '[[DATABASE/monsterfamily/Hag|Hag]]'
-description: 'On long, dark winter nights, folk at the edges of civilization have
-  learned to be wary of old women who come knocking at their door. They look for her
-  tracks in the snow and other telltale signs to make sure she isn''t a winter hag
-  who plans to drag them off and feast on their bones.<br/><br/> In truth, winter
-  hags are more subtle monsters, entrapping humanoids in schemes that create mistrust
-  and anger within a village before picking off the residents one or two at a time,
-  heightening the fear and anger of those who remain. When her work is done, a winter
-  hag revels in the silence of a frost-rimed village in which no hearth fires are
-  left burning.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 23<br/><b><u>Unspecific Lore</u></b>: DC 21<br/><b><u>Specific Lore</u></b>:
-  DC 18'
 dexterity: '+2'
 element: null
 fly_speed: null

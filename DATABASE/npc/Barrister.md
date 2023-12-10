@@ -10,11 +10,6 @@ creature_ability:
 - Cite Precedent
 - Sway the Judge and Jury
 creature_family: '[[DATABASE/monsterfamily/Officers|Officers]]'
-description: 'Barristers may serve as criminal prosecutors or as legal advocates,
-  defending the rights of those accused of crimes or named as defendants in civil
-  cases. In a court case or other legal proceeding, the barrister is a 4th-level challenge.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 13<br/><b><u>Unspecific
-  Lore</u></b>: DC 11<br/><b><u>Specific Lore</u></b>: DC 8'
 dexterity: '+1'
 element: null
 fly_speed: null

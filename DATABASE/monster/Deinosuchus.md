@@ -11,10 +11,6 @@ creature_ability:
 - Deep Breath
 - Swallow Whole
 creature_family: '[[DATABASE/monsterfamily/Crocodile|Crocodile]]'
-description: 'The deinosuchus is a primeval relative of the crocodile, and is an enormous
-  predator capable of catching and eating dinosaurs that wander too close to its domain!<br/><br/><b><u>Recall
-  Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 26<br/><b><u>Unspecific
-  Lore</u></b>: DC 24<br/><b><u>Specific Lore</u></b>: DC 21'
 dexterity: '+3'
 element: null
 fly_speed: null

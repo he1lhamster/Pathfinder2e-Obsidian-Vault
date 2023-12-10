@@ -16,17 +16,6 @@ creature_ability:
 - Tiger
 - Empathy
 creature_family: '[[DATABASE/monsterfamily/Werecreature|Werecreature]]'
-description: 'These ferocious werecreatures stalk prey with the cunning and skill
-  of a true apex predator. Weretigers typically view all life as a potential meal.
-  Powerful nocturnal hunters with excellent senses that help them ambush prey, weretigers
-  are adaptable to an extreme range of environments. However, weretigers living in
-  densely populated cities (potentially as courtesans, assassins, or guild leaders)
-  often struggle to suppress their killer instincts, becoming overwhelmed by the urge
-  to hunt. They prefer to wear loose-fitting clothing and rely on their claws and
-  jaws in a fight.<br/><br/><b><u>Recall Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Nature|Nature]] )</b>: DC 19<br/><b><u>Recall Knowledge - Humanoid</u>
-  ( [[DATABASE/skill/Society|Society]] )</b>: DC 19<br/><b><u>Unspecific Lore</u></b>:
-  DC 17<br/><b><u>Specific Lore</u></b>: DC 14'
 dexterity: '+3'
 element: null
 fly_speed: null

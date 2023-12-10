@@ -12,11 +12,6 @@ creature_ability:
 - Find Target
 - Mind-Numbing Touch
 creature_family: null
-description: 'Only the most desperate or foolhardy conjurers call upon the aid of
-  these strange fiends from the inky swamps of [[DATABASE/plane/Abaddon|Abaddon]]
-  .<br/><br/><b><u>Recall Knowledge - Fiend</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 25<br/><b><u>Unspecific Lore</u></b>: DC 23<br/><b><u>Specific Lore</u></b>:
-  DC 20'
 dexterity: '+6'
 element: null
 fly_speed: '60'

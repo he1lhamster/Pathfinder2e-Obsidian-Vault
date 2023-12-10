@@ -1,89 +1,84 @@
 ﻿---
-ac: '17'
-alignment: null
+ac: '25'
+alignment: CE
 all_resistance: null
 burrow_speed: null
-charisma: '-5'
-climb_speed: null
-constitution: '+4'
+charisma: '+4'
+climb_speed: '20'
+constitution: '+7'
 creature_ability:
-- Ambush
-- Camouflage
-- Decomposing Toxin
-- Reactive Grab
-creature_family: null
-description: 'Though the [[DATABASE/plane/Plane of Water|Plane of Water]] is mostly
-  liquid, it does contain its share of solid material, whether in the form of free-floating
-  aquatic plants, hunks of coral, or even detritus from lost underwater cities. Flotsam
-  and jetsam collect across the plane, and olobigondes are just one of the many creatures
-  that have evolved to live among and consume this detritus. These flat, round fish
-  are covered in a moss-like skin that makes them exceptionally difficult to spot
-  as they hug the sides of flotsam, feeding off the waste that drifts into their wide,
-  open mouths.<br/><br/> While olobigondes are primarily detritivores, they''ve been
-  known to lie in wait within a forest of kelp or against a mossy stone to ambush
-  smaller creatures, such as water scamps or lone passing merfolk. The fish launch
-  themselves from their hiding spot to take large bites out of their surprised prey,
-  then grab the victim as it tries to flee. Despite their size and ungainly shape,
-  olobigondes can move quickly in water, though their bursts of speed are usually
-  short-lived. In addition to maintaining a firm hold on prey, olobigondes'' mouths
-  are filled with a unique toxin that weakens and decomposes living flesh. The hungry
-  fish easily gulp down the resulting slurry.<br/><br/> Ancient olobigondes grow truly
-  immense, and their outward appearance evolves. There seems to be no limit to their
-  size. Their skin even separates into plates with deep channels where water can accumulate,
-  giving them the appearance of an entire patch of detritus rather than one piece.<br/><br/><b><u>Recall
-  Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 16<br/><b><u>Recall
-  Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 16<br/><b><u>Unspecific Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>:
-  DC 11'
-dexterity: '+1'
-element: Water
+- Cleanly Vulnerability
+- Grab Weapon
+- Liquid Leap
+- Slime Trap
+- Smother
+creature_family: '[[DATABASE/monsterfamily/Demon|Demon]]'
+dexterity: '+3'
+element: null
 fly_speed: null
-fortitude: '+10'
+fortitude: '+25'
 hardness: null
-hp: '38'
-id: '2664'
-immunity: null
-intelligence: '-4'
-land_speed: '5'
-language: null
-level: '2'
-max_speed: '30'
-name: Olobigonde
-perception: '+7'
-rarity: Common
-reflex: '+7'
+hp: '395'
+id: '1112'
+immunity:
+- acid
+- critical hits
+- '[[DATABASE/trait/Disease|disease]]'
+- '[[DATABASE/trait/Poison|poison]]'
+- precision
+intelligence: '+2'
+land_speed: '40'
+language:
+- '[[DATABASE/language/Abyssal|Abyssal]]'
+- '[[DATABASE/language/Celestial|Celestial]]'
+- '[[DATABASE/language/Draconic|Draconic]] ; [[DATABASE/monsterability/Telepathy|telepathy]]
+  100 feet'
+level: '12'
+max_speed: '80'
+name: Omox
+perception: '+22'
+rarity: Uncommon
+reflex: '+21'
 resistance: null
 rus_type_level: null
 school: null
 sense:
-- '[[DATABASE/monsterability/Scent|scent]] (imprecise) 60 feet'
-size: Large
+- '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
+size: Medium
 skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +10'
-- '[[DATABASE/skill/Stealth|Stealth]] +9'
-- '[[DATABASE/skill/Survival|Survival]] +7'
-source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +24'
+- '[[DATABASE/skill/Athletics|Athletics]] +23'
+- '[[DATABASE/skill/Religion|Religion]] +20'
+- '[[DATABASE/skill/Stealth|Stealth]] +24'
+source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
-- 5 feet
-- swim 30 feet
-spell: null
-strength: '+3'
-strength_req: '3'
+- 40 feet
+- climb 20 feet
+- swim 80 feet
+spell:
+- '[[DATABASE/spell/Control Water|Control Water]]'
+- '[[DATABASE/spell/Create Water|CreateWater]]'
+- '[[DATABASE/spell/Dimension Door|Dimension Door]]'
+- '[[DATABASE/spell/Stinking Cloud|Stinking Cloud]]'
+strength: '+7'
+strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: '30'
+swim_speed: '80'
 trait:
-- '[[DATABASE/trait/Animal|Animal]]'
-- '[[DATABASE/trait/Aquatic|Aquatic]]'
-- '[[DATABASE/trait/Elemental|Elemental]]'
-- '[[DATABASE/trait/Water|Water]]'
+- '[[DATABASE/trait/Demon|Demon]]'
+- '[[DATABASE/trait/Fiend|Fiend]]'
+- '[[DATABASE/trait/Ooze|Ooze]]'
+- '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: null
+vision: Greater darkvision
 weakest_save:
 - Will
-weakness: null
-will: '+5'
-wisdom: '+1'
+weakness:
+- '[[DATABASE/equipment/Cold Iron Weapon|cold iron]] 10'
+- good 10
+will: '+20'
+wisdom: '+4'
 
 ---
 # Omox (Slime Demon)

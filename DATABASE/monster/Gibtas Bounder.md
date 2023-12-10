@@ -10,10 +10,6 @@ creature_ability:
 - Bouncing Slam
 - Pinning Chomp
 creature_family: '[[DATABASE/monsterfamily/Gibtas|Gibtas]]'
-description: 'A full-grown gibtas uses its powerful legs and rubbery body to bound
-  great distances. Most gibtases remain solitary, unless bonded with a creature.<br/><br/><b><u>Recall
-  Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 22<br/><b><u>Unspecific
-  Lore</u></b>: DC 20<br/><b><u>Specific Lore</u></b>: DC 17'
 dexterity: '+4'
 element: null
 fly_speed: null

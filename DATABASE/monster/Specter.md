@@ -12,16 +12,6 @@ creature_ability:
 - Spectral Corruption
 - Sunlight Powerlessness
 creature_family: null
-description: "When an evil mortal creature dies, it sometimes returns to haunt the\
-  \ area of its death as a specter, a hateful remnant, always seeking to slay others\u2014\
-  particularly [[DATABASE/trait/Humanoid|humanoids]] \u2014in an attempt to distribute\
-  \ its pain among as many souls as it can. A specter maintains a strange semblance\
-  \ of its prior identity, but with a corrupted sense of purpose. It cannot be reasoned\
-  \ with.<br/><br/> A specter denied the opportunity to harm living humanoids grows\
-  \ increasingly agonized and irrational, akin to the mindset of a starving person\
-  \ forever denied a release from agony through death.<br/><br/><b><u>Recall Knowledge\
-  \ - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 23<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 21<br/><b><u>Specific Lore</u></b>: DC 18"
 dexterity: '+6'
 element: null
 fly_speed: '40'

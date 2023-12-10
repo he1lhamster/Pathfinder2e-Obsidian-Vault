@@ -15,21 +15,6 @@ creature_ability:
 - Skill Feat
 creature_family: '[[DATABASE/monsterfamily/Threshold of Knowledge Pregenerated Characters|Threshold
   of Knowledge Pregenerated Characters]]'
-description: 'Bundasu is one of countless villages that lie hidden in the depths of
-  the Mwangi Jungle. As a child there, Kalaggi learned that the stars told a story
-  with her in the role as Bundasu''s next keeper, the village''s physical and spiritual
-  protector. Kalaggi was quick to learn combat and hunting. Tapping into her spiritual
-  side, however, was much more difficult. Rather than push the young girl and risk
-  her losing confidence, the villagers focused her training in the areas she was already
-  competent.<br/><br/> Once she mastered her martial skills, Kalaggi set her sights
-  on the spiritual once again. She ventured from Bundasu and joined the Magaambya.
-  She believes that learning the ways of magic will allow her to better understand
-  her own spirit. Kalaggi seeks to return to Bundasu with greater inner knowledge
-  to fulfill her destiny.<br/><br/> Kalaggi is careful with her words around others.
-  She feels an almost sibling-like bond with Ufi, however, and speaks freely with
-  him.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 25<br/><b><u>Unspecific Lore</u></b>: DC 23<br/><b><u>Specific Lore</u></b>:
-  DC 20'
 dexterity: '+4'
 element: null
 fly_speed: null

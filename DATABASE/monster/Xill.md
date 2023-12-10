@@ -14,16 +14,6 @@ creature_ability:
 - Xill Eggs
 - Xill Paralysis
 creature_family: null
-description: 'Xills visit the [[DATABASE/plane/Material Plane|Material Plane]] , where
-  they''re often known as ethereal stalkers, primarily to maraud and to kidnap creatures
-  back to their native [[DATABASE/plane/Ethereal Plane|Ethereal Plane]] . These four-armed,
-  warmongering monsters paralyze their victims before implanting them with eggs using
-  an ovipositor normally kept retracted behind their mandibles. Their single-minded
-  drive to expand and conquer is so all-encompassing that while they work together
-  dutifully and without dissent, there is little else in their lives.<br/><br/><b><u>Recall
-  Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 24<br/><b><u>Recall
-  Knowledge - Ethereal</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 24<br/><b><u>Unspecific
-  Lore</u></b>: DC 22<br/><b><u>Specific Lore</u></b>: DC 19'
 dexterity: '+5'
 element: null
 fly_speed: null

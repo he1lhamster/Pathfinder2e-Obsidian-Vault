@@ -12,27 +12,6 @@ creature_ability:
 - Lightning Aura
 - Thunderous Fall
 creature_family: null
-description: "In the heights of the world, where the hills and mountains reach up\
-  \ to touch the clouds, mpeshis fall to the earth in flashes of lightning and thunder.\
-  \ Most return to the heavens on the gossamer strands of web on which they descend,\
-  \ but those few that remain cry out, lamenting their inability to return to their\
-  \ homes in the sky.<br/><br/> A mpeshi appears to be a monstrous goat with the foreclaws,\
-  \ hindquarters, and tail of a crocodile. Electricity arcs around its sharp horns,\
-  \ which it can use to both batter and gore with equal facility. Although mpeshis\
-  \ are always seeking methods to return to their homes in the clouds, they aggressively\
-  \ defend their earthbound lairs from outsiders.<br/><br/> Mpeshis are generally\
-  \ solitary, though some congregate as pairs or small groups that watch cloud movements\
-  \ together. They can sometimes be seen trying to join reach the storm clouds, leaping\
-  \ from high places such as hills, mountains, or cliffs. Though these attempts are\
-  \ rarely successful, the mpeshis always resolve to try again\u2014and some do manage\
-  \ succeed at returning to their mysterious homes amongst the clouds.<br/><br/> Mpeshis\
-  \ are utterly unafraid of [[DATABASE/monster/Roc|roc]] , [[DATABASE/trait/Dragon|dragons]]\
-  \ , or other monstrous flying creatures, usually seeing them as competition. Mpeshis\
-  \ are crafty, though, and sometimes try to negotiate transportation back to the\
-  \ clouds from flying creatures larger than they are.<br/><br/><b><u>Recall Knowledge\
-  \ - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 27<br/><b><u>Unspecific Lore</u></b>: DC 25<br/><b><u>Specific Lore</u></b>:\
-  \ DC 22"
 dexterity: '+2'
 element: null
 fly_speed: null

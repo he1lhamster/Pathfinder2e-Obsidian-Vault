@@ -10,12 +10,6 @@ creature_ability:
 - Strix Camaraderie
 - Strix Vengeance
 creature_family: '[[DATABASE/monsterfamily/Strix|Strix]]'
-description: 'Strix are avian humanoids with sprawling, dark-feathered wings and large
-  talons. Strix possess angular features and piercing eyes that are fixed facing forward.
-  Their lurching head movements and vertical eyelids give an unnerving quality to
-  their humanoid appearances.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 18<br/><b><u>Unspecific Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>:
-  DC 13'
 dexterity: '+4'
 element: null
 fly_speed: '25'

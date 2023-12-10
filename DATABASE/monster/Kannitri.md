@@ -13,10 +13,6 @@ creature_ability:
 - Rejuvenation
 - Site Bound
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Spirit</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 41<br/><b><u>Recall
-  Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 41<br/><b><u>Unspecific
-  Lore</u></b>: DC 39<br/><b><u>Specific Lore</u></b>: DC 36'
 dexterity: '+5'
 element: null
 fly_speed: '40'

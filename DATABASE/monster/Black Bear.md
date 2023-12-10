@@ -9,15 +9,6 @@ constitution: '+3'
 creature_ability:
 - Mauler
 creature_family: '[[DATABASE/monsterfamily/Bear|Bear]]'
-description: 'Contrary to the name, black bears can be cinnamon or even blond in coloration,
-  depending on which hue is most beneficial for surviving in their local environment.
-  Regardless of their coloration, they are opportunistic eaters who gain sustenance
-  from berries and nuts just as often as from fish and smaller mammals. They steal
-  food when they find it, including from humanoid camps. Although they are predators,
-  black bears are more timid than other bears. Unless defending themselves or their
-  young, black bears often avoid conflict or fight only until they can retreat.<br/><br/><b><u>Recall
-  Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 16<br/><b><u>Unspecific
-  Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>: DC 11'
 dexterity: '+2'
 element: null
 fly_speed: null

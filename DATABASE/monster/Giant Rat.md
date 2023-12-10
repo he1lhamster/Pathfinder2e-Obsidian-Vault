@@ -9,18 +9,6 @@ constitution: '+2'
 creature_ability:
 - Filth Fever
 creature_family: '[[DATABASE/monsterfamily/Rat|Rat]]'
-description: "Giant rats are enormous versions of the common vermin. They are typically\
-  \ found in abundant numbers, but since they cannot flt in the nooks where mundane\
-  \ rats typically hide, they are much easier to locate and exterminate. They mostly\
-  \ live in sewers where they can scavenge from the streets above, but some families\
-  \ of giant rats live in more remote locations, such as dank caves or forests and\
-  \ hills. Rats are incredibly adept survivors and can be found nearly anywhere in\
-  \ the world, though they tend to favor temperate or warm climates as opposed to\
-  \ cold regions.<br/><br/> Although its bite alone is not lethal except to the very\
-  \ young or very old, the giant rat carries the filth fever common to rodents around\
-  \ the world\u2014a pestilence more than capable of ravaging rural communities.<br/><br/><b><u>Recall\
-  \ Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 13<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 11<br/><b><u>Specific Lore</u></b>: DC 8"
 dexterity: '+3'
 element: null
 fly_speed: null

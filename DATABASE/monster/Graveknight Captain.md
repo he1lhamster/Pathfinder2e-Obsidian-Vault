@@ -14,9 +14,6 @@ creature_ability:
 - Weapon
 - Master
 creature_family: '[[DATABASE/monsterfamily/Graveknight|Graveknight]]'
-description: 'Graveknight captains once proudly led squads of troops in battle.<br/><br/><b><u>Recall
-  Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 24<br/><b><u>Unspecific
-  Lore</u></b>: DC 22<br/><b><u>Specific Lore</u></b>: DC 19'
 dexterity: '+3'
 element: null
 fly_speed: null

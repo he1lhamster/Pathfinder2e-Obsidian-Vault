@@ -10,16 +10,6 @@ creature_ability:
 - Breath of Energy Technique
 - Flurry of Blows
 creature_family: null
-description: 'Each competitor on this team of elementalists has a unique special ability
-  that only they can use; a fighter''s ability is denoted by the individual''s name
-  in the traits parenthetical in the stat block below. Only that individual can use
-  the ability (so, for instance, the Arms of Balance can''t use Breath of the Volcano
-  four times per round, since only Usvani knows that ability). Each fighter has a
-  different rune on their <i> [[DATABASE/equipment/Handwraps of Mighty Blows|handwraps
-  of mighty blows]] </i>, allowing each to deal a different type of energy damage
-  with their fist Strikes.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 36<br/><b><u>Unspecific Lore</u></b>: DC 34<br/><b><u>Specific Lore</u></b>:
-  DC 31'
 dexterity: '+4'
 element: null
 fly_speed: null

@@ -10,10 +10,6 @@ creature_ability:
 - Filth Wave
 - Motion Sense
 creature_family: '[[DATABASE/monsterfamily/Ooze|Ooze]]'
-description: 'These amorphous masses of sewage and other detritus make their way through
-  filthy culverts beneath cities large and small.<br/><br/><b><u>Recall Knowledge
-  - Ooze</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 15<br/><b><u>Unspecific
-  Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>: DC 10'
 dexterity: '-5'
 element: null
 fly_speed: null

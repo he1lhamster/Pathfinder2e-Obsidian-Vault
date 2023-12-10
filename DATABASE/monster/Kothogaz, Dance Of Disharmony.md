@@ -20,10 +20,6 @@ creature_ability:
 - Swallow Whole
 - Tympanic Heartbeat
 creature_family: '[[DATABASE/monsterfamily/Spawn of Rovagug|Spawn of Rovagug]]'
-description: 'Kothogaz is a towering horror of claws and eyes, surrounded by swarming
-  insects.<br/><br/><b><u>Recall Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Nature|Nature]] )</b>: DC 52<br/><b><u>Unspecific Lore</u></b>:
-  DC 50<br/><b><u>Specific Lore</u></b>: DC 47'
 dexterity: '+10'
 element: null
 fly_speed: '60'

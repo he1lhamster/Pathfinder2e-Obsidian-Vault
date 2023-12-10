@@ -13,11 +13,6 @@ creature_ability:
 - Internal Spell Strike
 - Spell Circle
 creature_family: '[[DATABASE/monsterfamily/Elemental, Water|Elemental, Water]]'
-description: 'Spellcasters create elemental vessels by harvesting raw elemental energy
-  and then binding it within a specially enchanted magic circle to grant it life.<br/><br/><b><u>Recall
-  Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 37<br/><b><u>Unspecific Lore</u></b>: DC 35<br/><b><u>Specific Lore</u></b>:
-  DC 32'
 dexterity: '+8'
 element: Water
 fly_speed: null

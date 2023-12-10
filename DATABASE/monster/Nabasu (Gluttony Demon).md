@@ -1,93 +1,76 @@
 ﻿---
-ac: '41'
-alignment: NE
+ac: '27'
+alignment: CE
 all_resistance: null
 burrow_speed: null
-charisma: '+6'
-climb_speed: '30'
+charisma: '+4'
+climb_speed: null
 constitution: '+6'
 creature_ability:
-- Illusory Persona
-- Light Blindness
-- Odorless
-- Painful Light
-- Twisting Reach
-creature_family: null
-description: 'The slithering, shapeless beings known as myrucarxes occasionally slip
-  into the [[DATABASE/plane/Material Plane|Material Plane]] from their domains deep
-  in the [[DATABASE/equipment/Shadow|Shadow Plane]] , seeking to torment those who
-  love light. Myrucarxes weave powerful illusions to draw unsuspecting victims into
-  their squirming embrace, and they favor large cities as hunting grounds. Rather
-  than devastate a community, a myrucarx instead prefers to snatch only a few victims
-  to engender fear and paranoia, then retreat somewhere dark to hibernate for months
-  or years before renewing its terrors. A myrucarx resembles a monstrous, oily slug
-  with tentacles ending in gnashing jaws, but most victims only ever see the illusory
-  personas it projects to lure and torment its prey.<br/><br/><b><u>Recall Knowledge
-  - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 43<br/><b><u>Unspecific
-  Lore</u></b>: DC 41<br/><b><u>Specific Lore</u></b>: DC 38'
-dexterity: '+6'
+- Consume Death
+- Death-Stealing Gaze
+- Starvation Vulnerability
+- Stolen Death
+creature_family: '[[DATABASE/monsterfamily/Demon|Demon]]'
+dexterity: '+4'
 element: null
-fly_speed: null
-fortitude: '+32'
+fly_speed: '50'
+fortitude: '+19'
 hardness: null
-hp: '340'
-id: '1012'
+hp: '165'
+id: '600'
 immunity: null
-intelligence: '+5'
-land_speed: '30'
+intelligence: '+2'
+land_speed: '25'
 language:
-- '[[DATABASE/language/Aklo|Aklo]]'
-- '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Shadowtongue|Shadowtongue]]'
-level: '18'
-max_speed: '30'
-name: Myrucarx
-perception: '+33'
-rarity: Rare
-reflex: '+28'
-resistance:
-- cold 20
+- '[[DATABASE/language/Abyssal|Abyssal]]'
+- '[[DATABASE/language/Celestial|Celestial]]'
+- '[[DATABASE/language/Draconic|Draconic]] ; [[DATABASE/monsterability/Telepathy|telepathy
+  100 feet]]'
+level: '8'
+max_speed: '50'
+name: Nabasu
+perception: '+17'
+rarity: Common
+reflex: '+16'
+resistance: null
 rus_type_level: null
 school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
-- '[[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) 60 feet'
-size: Large
+size: Medium
 skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +33'
-- '[[DATABASE/skill/Deception|Deception]] +34'
-- '[[DATABASE/skill/Occultism|Occultism]] +31'
-- '[[DATABASE/skill/Society|Society]] +31'
-- '[[DATABASE/skill/Stealth|Stealth]] +34'
-source: '[[DATABASE/source/Pathfinder 161. Belly of the Black Whale|Pathfinder #161:
-  Belly of the Black Whale]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +18'
+- '[[DATABASE/skill/Arcana|Arcana]] +16'
+- '[[DATABASE/skill/Religion|Religion]] +16'
+- '[[DATABASE/skill/Stealth|Stealth]] +18'
+- '[[DATABASE/skill/Survival|Survival]] +17'
+source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
-- 30 feet
-- climb 30 feet; [[DATABASE/spell/Freedom of Movement|freedom of movement]]
+- 25 feet
+- fly 50 feet
 spell:
-- '[[DATABASE/spell/Chilling Darkness|Chilling Darkness]]'
-- '[[DATABASE/spell/Darkness|Darkness]]'
-- '[[DATABASE/spell/Eclipse Burst|Eclipse Burst]]'
-- '[[DATABASE/spell/Freedom of Movement|Freedom of Movement]]'
-- '[[DATABASE/spell/Hallucinatory Terrain|Hallucinatory Terrain]]'
-- '[[DATABASE/spell/Invisibility|Invisibility]]'
-- '[[DATABASE/spell/Mask of Terror|Mask of Terror]]'
-- '[[DATABASE/spell/Plane Shift|Plane Shift]]'
-- '[[DATABASE/spell/Project Image|Project Image]]'
-strength: '+9'
-strength_req: '9'
+- '[[DATABASE/spell/Dimension Door|Dimension Door]]'
+- '[[DATABASE/spell/Grim Tendrils|GrimTendrils]]'
+- '[[DATABASE/spell/Paralyze|Paralyze]]'
+- '[[DATABASE/spell/Vampiric Touch|Vampiric Touch]]'
+strength: '+6'
+strength_req: '6'
 strongest_save:
 - Fortitude
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Aberration|Aberration]]'
-- '[[DATABASE/trait/Rare|Rare]]'
+- '[[DATABASE/trait/Demon|Demon]]'
+- '[[DATABASE/trait/Fiend|Fiend]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
-will: '+30'
+- Will
+weakness:
+- '[[DATABASE/equipment/Cold Iron|cold iron]] 5'
+- good 5
+will: '+16'
 wisdom: '+3'
 
 ---

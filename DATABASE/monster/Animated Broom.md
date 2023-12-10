@@ -10,12 +10,6 @@ creature_ability:
 - Construct Armor
 - Dust
 creature_family: '[[DATABASE/monsterfamily/Animated Object|Animated Object]]'
-description: 'Animated brooms perform menial tasks of cleaning and upkeep, but they
-  can step in to defend a room from intrusion if needed. These simple animated objects
-  can be found with greater frequency than more complicated and costly objects.<br/><br/><b><u>Recall
-  Knowledge - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]]
-  )</b>: DC 13<br/><b><u>Unspecific Lore</u></b>: DC 11<br/><b><u>Specific Lore</u></b>:
-  DC 8'
 dexterity: '+1'
 element: null
 fly_speed: null

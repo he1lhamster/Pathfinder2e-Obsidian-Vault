@@ -11,17 +11,6 @@ creature_ability:
 - Spirit Touch
 - Wrench Spirit
 creature_family: '[[DATABASE/monsterfamily/Psychopomp|Psychopomp]]'
-description: 'Esoboks are brute hunters and pugnacious sentinels that serve as the
-  guard dogs of the [[DATABASE/plane/Boneyard|Boneyard]] . These squat, powerful quadrupeds
-  have a frill of dark feathers around their distinctive heads which resemble a crocodile
-  skull. Esoboks rarely bother with those who are truly dead, allowing the dead of
-  the Boneyard to go about their business while remaining watchful for danger. Though
-  cunning when sniffing out threats to the Boneyard or to their psychopomp handlers,
-  they''re among the least intelligent of the psychopomps and rarely speak except
-  to utter growling threats. The wise listen when an esobok makes a threat, as it
-  won''t do so twice.<br/><br/><b><u>Recall Knowledge - Monitor</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 18<br/><b><u>Unspecific Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>:
-  DC 13'
 dexterity: '+3'
 element: null
 fly_speed: null

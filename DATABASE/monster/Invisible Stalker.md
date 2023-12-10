@@ -11,11 +11,6 @@ creature_ability:
 - Sneak Attack
 - Swift Tracker
 creature_family: '[[DATABASE/monsterfamily/Elemental, Air|Elemental, Air]]'
-description: 'Invisible stalkers have a poor opinion of mortals due to the unsavory
-  nature of the violent tasks summoners usually call them to the Material Plane to
-  perform.<br/><br/><b><u>Recall Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Nature|Nature]] )</b>: DC 23<br/><b><u>Unspecific Lore</u></b>:
-  DC 21<br/><b><u>Specific Lore</u></b>: DC 18'
 dexterity: '+6'
 element: Air
 fly_speed: '25'

@@ -13,15 +13,6 @@ creature_ability:
 - Spines
 - Taiga Linnorm Venom
 creature_family: '[[DATABASE/monsterfamily/Linnorm|Linnorm]]'
-description: "Taiga linnorms are covered in hundreds of quill-like black spines as\
-  \ sharp as spears. Wise hunters native to linnorm-infested lands know to watch for\
-  \ spines stuck in the bark of conifers\u2014a sure sign that a taiga linnorm has\
-  \ recently passed through. Sometimes this means of tracking isn't enough to avoid\
-  \ an encounter, however; taiga linnorms, like their tarn and tor brethren, are skilled\
-  \ stalkers. They prefer to lurk in half-frozen bogs or swampy marshlands with their\
-  \ heads poking just above the water's surface, ever watchful for unwary prey.<br/><br/><b><u>Recall\
-  \ Knowledge - Dragon</u> ( [[DATABASE/skill/Arcana|Arcana]] )</b>: DC 41<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 39<br/><b><u>Specific Lore</u></b>: DC 36"
 dexterity: '+6'
 element: null
 fly_speed: '100'

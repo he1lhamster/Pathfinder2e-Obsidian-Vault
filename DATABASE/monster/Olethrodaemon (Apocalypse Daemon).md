@@ -1,67 +1,80 @@
 ﻿---
-ac: '26'
-alignment: N
+ac: '44'
+alignment: NE
 all_resistance: null
-burrow_speed: null
-charisma: '-2'
+burrow_speed: '35'
+charisma: '+8'
 climb_speed: null
-constitution: '+4'
+constitution: '+7'
 creature_ability:
-- Death Roll
-- Deep Breath
-- Into the Deep
-- Thunderous Tail
-creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 34<br/><b><u>Unspecific
-  Lore</u></b>: DC 32<br/><b><u>Specific Lore</u></b>: DC 29'
-dexterity: '+2'
+- Apocalypse Breath
+- Aura of Doom
+- Soul Crush
+- Swallow Whole
+creature_family: '[[DATABASE/monsterfamily/Daemon|Daemon]]'
+dexterity: '+6'
 element: null
-fly_speed: null
-fortitude: '+18'
+fly_speed: '40'
+fortitude: '+35'
 hardness: null
-hp: '140'
-id: '1634'
-immunity: null
-intelligence: '-5'
-land_speed: '20'
-language: null
-level: '8'
-max_speed: '25'
-name: Old Thrasher
-perception: '+16'
-rarity: Unique
-reflex: '+16'
+hp: '450'
+id: '597'
+immunity:
+- '[[DATABASE/trait/Death|death]] effects'
+intelligence: '+2'
+land_speed: '35'
+language:
+- '[[DATABASE/language/Common|Common]]'
+- '[[DATABASE/language/Daemonic|Daemonic]] ; [[DATABASE/monsterability/Telepathy|telepathy
+  100 feet]]'
+level: '20'
+max_speed: '40'
+name: Olethrodaemon
+perception: '+33'
+rarity: Common
+reflex: '+32'
 resistance: null
 rus_type_level: null
 school: null
 sense:
-- '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
-size: Large
+- '[[DATABASE/monsterability/Darkvision|darkvision]]'
+- '[[DATABASE/monsterability/Tremorsense|tremorsense (imprecise) 120 feet]]'
+- '[[DATABASE/spell/True Seeing|true seeing]]'
+size: Gargantuan
 skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +18'
-- '[[DATABASE/skill/Stealth|Stealth]] +16'
-source: '[[DATABASE/source/Pathfinder 170. Spoken on the Song Wind|Pathfinder #170:
-  Spoken on the Song Wind]]'
+- '[[DATABASE/skill/Athletics|Athletics]] +40'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +38'
+- '[[DATABASE/skill/Religion|Religion]] +34'
+source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
-- 20 feet
-- swim 25 feet
-spell: null
-strength: '+6'
-strength_req: '6'
+- 35 feet
+- burrow 35 feet
+- fly 40 feet
+spell:
+- '[[DATABASE/spell/Cataclysm|Cataclysm]]'
+- '[[DATABASE/spell/Detect Alignment|DetectAlignment]]'
+- '[[DATABASE/spell/Dimension Door|Dimension Door]]'
+- '[[DATABASE/spell/Disintegrate|Disintegrate]]'
+- '[[DATABASE/spell/Disjunction|Disjunction]]'
+- '[[DATABASE/spell/Massacre|Massacre]]'
+- '[[DATABASE/spell/True Seeing|True Seeing]]'
+- '[[DATABASE/spell/Wail of the Banshee|Wailof the Banshee]]'
+strength: '+10'
+strength_req: '10'
 strongest_save:
 - Fortitude
-swim_speed: '25'
+swim_speed: null
 trait:
-- '[[DATABASE/trait/Animal|Animal]]'
-- '[[DATABASE/trait/Unique|Unique]]'
+- '[[DATABASE/trait/Daemon|Daemon]]'
+- '[[DATABASE/trait/Fiend|Fiend]]'
 type: Creature
-vision: Low-light vision
+vision: Darkvision
 weakest_save:
-- Will
-weakness: null
-will: '+15'
-wisdom: '+3'
+- Reflex
+weakness:
+- good 20
+will: '+34'
+wisdom: '+6'
 
 ---
 # Olethrodaemon (Apocalypse Daemon)

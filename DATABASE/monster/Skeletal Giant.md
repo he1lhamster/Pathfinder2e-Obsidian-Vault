@@ -10,9 +10,6 @@ creature_ability:
 - Broad Swipe
 - Terrifying Charge
 creature_family: '[[DATABASE/monsterfamily/Skeleton|Skeleton]]'
-description: 'The reanimated bones of giants make excellent necromantic thralls.<br/><br/><b><u>Recall
-  Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 18<br/><b><u>Unspecific
-  Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>: DC 13'
 dexterity: '+1'
 element: null
 fly_speed: null

@@ -13,16 +13,6 @@ creature_ability:
 - Out You Go
 - Transparent
 creature_family: null
-description: 'A slithering pit is a strange, nearly invisible ooze with an extradimensional
-  space for its digestive system, which mimics the appearance of an acid-filled stone
-  pit. It slowly dissolves its captives in stomach acid until they can be digested.
-  A slithering pit can go weeks without feeding, affording it patience.<br/><br/>
-  Thriving in dilapidated areas, slithering pits take up positions among the plentiful
-  potholes where they can easily pass for just another blemish. They crawl across
-  ramshackle cobblestone streets and damp underground complexes, waiting for unwary
-  prey to stumble by and fall in.<br/><br/><b><u>Recall Knowledge - Ooze</u> ( [[DATABASE/skill/Occultism|Occultism]]
-  )</b>: DC 28<br/><b><u>Unspecific Lore</u></b>: DC 26<br/><b><u>Specific Lore</u></b>:
-  DC 23'
 dexterity: '-5'
 element: null
 fly_speed: null

@@ -1,127 +1,72 @@
 ﻿---
-ac: '43'
-alignment: CE
+ac: '27'
+alignment: NE
 all_resistance: null
 burrow_speed: null
-charisma: '+6'
-climb_speed: null
-constitution: '+2'
+charisma: '+4'
+climb_speed: '20'
+constitution: '+0'
 creature_ability:
-- Accelerated Existence
-- Outside of Time
-- Resolve
-- Steady Spellcasting
-- Time Siphon
-- Unseen Sight
+- Deny Advantage
+- Knife Fighter
+- Roll and Snatch
+- Twin Slash
 creature_family: null
-description: "The man who would take the name Foras grew up millennia ago among worshipers\
-  \ of [[DATABASE/deity/Pharasma|Pharasma]] , yet he came to believe that the Outer\
-  \ Gods were the keys to claiming personal power. He tricked his people's priests\
-  \ into to imparting eldritch truths they would not normally share, then shared them\
-  \ with a few fellow secretive scholars of the occult.<br/><br/> Gathering those\
-  \ whom Foras could manipulate, he retreated to a new stronghold\u2014a location\
-  \ now known as Candlemere. Here, Foras's cult gave up their sight and their souls,\
-  \ only to become trapped with him within their own compound when their leader's\
-  \ brother tracked them down and imprisoned them. Yet even this hasn't stymied Foras,\
-  \ and he continues to this day to work toward his goal of drawing [[DATABASE/deity/Yog-Sothoth|Yog-Sothoth]]\
-  \ into the world.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]\
-  \ )</b>: DC 49<br/><b><u>Unspecific Lore</u></b>: DC 47<br/><b><u>Specific Lore</u></b>:\
-  \ DC 44"
 dexterity: '+4'
 element: null
 fly_speed: null
-fortitude: '+31'
-hp: '355'
-id: '2191'
+fortitude: '+14'
+hp: '135'
+id: '1639'
 immunity: null
-intelligence: '+5'
-land_speed: '25'
+intelligence: '+1'
+land_speed: '30'
 language:
-- '[[DATABASE/language/Aklo|Aklo]]'
-- '[[DATABASE/language/Hallit|Hallit]]'
-level: '19'
-max_speed: '25'
-name: Foras
-perception: '+33'
+- '[[DATABASE/language/Common|Common]]'
+- '[[DATABASE/language/Elven|Elven]]'
+- '[[DATABASE/language/Grippli|Grippli]]'
+- '[[DATABASE/language/Iruxi|Iruxi]]'
+level: '8'
+max_speed: '30'
+name: Froglegs
+perception: '+16'
 rarity: Unique
-reflex: '+31'
-resistance:
-- '[[DATABASE/trait/Mental|mental]] 20'
+reflex: '+18'
+resistance: null
 rus_type_level: null
 sense:
-- unseen sight
-size: Medium
+- '[[DATABASE/monsterability/Darkvision|darkvision]]'
+size: Small
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +33'
-- '[[DATABASE/skill/Arcana|Arcana]] +34'
-- '[[DATABASE/skill/Deception|Deception]] +37'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +35'
-- '[[DATABASE/skill/Occultism|Occultism]] +37'
-- '[[DATABASE/skill/Religion|Religion]] +33'
-- '[[DATABASE/skill/Lore|YogSothoth Lore]] +37'
-source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +16'
+- '[[DATABASE/skill/Athletics|Athletics]] +15'
+- '[[DATABASE/skill/Deception|Deception]] +16'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +16'
+- '[[DATABASE/skill/Stealth|Stealth]] +16'
+- '[[DATABASE/skill/Thievery|Thievery]] +18'
+- '[[DATABASE/skill/Lore|Underworld Lore]] +15'
+source: '[[DATABASE/source/Pathfinder 170. Spoken on the Song Wind|Pathfinder #170:
+  Spoken on the Song Wind]]'
 speed:
-- 25 feet
-spell:
-- '[[DATABASE/spell/Aberrant Whispers|Aberrant Whispers]]'
-- '[[DATABASE/spell/Black Tentacles|Black Tentacles]]'
-- '[[DATABASE/spell/Chill Touch|Chill Touch]]'
-- '[[DATABASE/spell/Color Spray|Color Spray]]'
-- '[[DATABASE/spell/Confusion|Confusion]]'
-- '[[DATABASE/spell/Crushing Despair|Crushing Despair]]'
-- '[[DATABASE/spell/Dancing Lights|Dancing Lights]]'
-- '[[DATABASE/spell/Daze|Daze]]'
-- '[[DATABASE/spell/Death Knell|Death Knell]]'
-- '[[DATABASE/spell/Enthrall|Enthrall]]'
-- '[[DATABASE/spell/Feeblemind|Feeblemind]]'
-- '[[DATABASE/spell/Fly|Fly]]'
-- '[[DATABASE/spell/Hideous Laughter|Hideous Laughter]]'
-- '[[DATABASE/spell/Hypercognition|Hypercognition]]'
-- '[[DATABASE/spell/Magic Missile|Magic Missile]]'
-- '[[DATABASE/spell/Mask of Terror|Mask of Terror]]'
-- '[[DATABASE/spell/Maze|Maze]]'
-- '[[DATABASE/spell/Mending|Mending]]'
-- '[[DATABASE/spell/Overwhelming Presence|Overwhelming Presence]]'
-- '[[DATABASE/spell/Prestidigitation|Prestidigitation]]'
-- '[[DATABASE/spell/Ray of Enfeeblement|Ray of Enfeeblement]]'
-- '[[DATABASE/spell/Read Aura|Read Aura]]'
-- '[[DATABASE/spell/Read Omens|ReadOmens]]'
-- '[[DATABASE/spell/Scintillating Pattern|Scintillating Pattern]]'
-- '[[DATABASE/spell/See Invisibility|See Invisibility]]'
-- '[[DATABASE/spell/Slow|Slow]]'
-- '[[DATABASE/spell/Spider Sting|Spider Sting]]'
-- '[[DATABASE/spell/Spirit Blast|Spirit Blast]]'
-- '[[DATABASE/spell/Synesthesia|Synesthesia]]'
-- '[[DATABASE/spell/Telepathic Demand|Telepathic Demand]]'
-- '[[DATABASE/spell/Telepathy|Telepathy]]'
-- '[[DATABASE/spell/Tentacular Limbs|Tentacular Limbs]]'
-- '[[DATABASE/spell/Time Stop|Time Stop]]'
-- '[[DATABASE/spell/Tongues|Tongues]]'
-- '[[DATABASE/spell/Touch of Idiocy|Touch ofIdiocy]]'
-- '[[DATABASE/spell/True Seeing|True Seeing]]'
-- '[[DATABASE/spell/Uncontrollable Dance|Uncontrollable Dance]]'
-- '[[DATABASE/spell/Unfathomable Song|Unfathomable Song]]'
-- '[[DATABASE/spell/Unusual Anatomy|Unusual Anatomy]]'
-- '[[DATABASE/spell/Vampiric Touch|Vampiric Touch]]'
-- '[[DATABASE/spell/Visions of Danger|Visions of Danger]]'
-- '[[DATABASE/spell/Warp Mind|Warp Mind]]'
-strength: '+0'
-strength_req: '0'
+- 30 feet
+- climb 20 feet
+spell: null
+strength: '+3'
+strength_req: '3'
 strongest_save:
-- Will
+- Reflex
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Human|Human]]'
+- '[[DATABASE/trait/Grippli|Grippli]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
+vision: Darkvision
 weakest_save:
 - Fortitude
-- Reflex
 weakness: null
-will: '+35'
-wisdom: '+4'
+will: '+16'
+wisdom: '+2'
 
 ---
 # Froglegs, Brutal Grippli Crime Boss

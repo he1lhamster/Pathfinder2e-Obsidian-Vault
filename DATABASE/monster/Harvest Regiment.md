@@ -15,21 +15,6 @@ creature_ability:
 - Troop Defenses
 - Troop Movement
 creature_family: null
-description: "Great fruiting trees grow in massive orderly rows in a region of the\
-  \ [[DATABASE/plane/Plane of Wood|Plane of Wood]] called Armory Grove. Over the course\
-  \ of decades, a regiment tree's branches grow heavy, laden with fruits uncannily\
-  \ shaped like people. They're cultivated by retired warriors whose tireless work\
-  \ ensures that these fruits grow into a form suitable for battle. Their efforts\
-  \ instill tactical knowledge in these fruit warriors so they're prepared to fight\
-  \ as soon as they fall from the tree\u2014which they do simultaneously, forming\
-  \ one battle-ready unit. Each soldier is equal in skill and similar in form, with\
-  \ a wooden outer shell that splits into portions as the flesh of the fruit inside\
-  \ ripens. A slain warrior contains seeds within its body that can slowly germinate\
-  \ in rich soil with enough water\u2014or blood. Every battlefield can become a new\
-  \ garden.<br/><br/><b><u>Recall Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]]\
-  \ , [[DATABASE/skill/Nature|Nature]] )</b>: DC 24<br/><b><u>Recall Knowledge - Plant</u>\
-  \ ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 24<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 22<br/><b><u>Specific Lore</u></b>: DC 19"
 dexterity: '+1'
 element: Wood
 fly_speed: null

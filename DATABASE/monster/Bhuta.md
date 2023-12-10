@@ -13,18 +13,6 @@ creature_ability:
 - Primal Corruption
 - Shadowless
 creature_family: null
-description: 'When sapient creatures die violently in a natural setting or a location
-  infused with primal magic, they sometimes rise as a [[DATABASE/monsterfamily/Ghost|ghostlike]]
-  undead called a bhuta. Resembling a translucent version of their mortal form, only
-  shadowless and with backward feet, a bhuta''s lust for vengeance or unquenchable
-  desire to complete an unfinished task poisons the natural world, turning animals
-  into agents of the bhuta''s corrupted will. However, a bhuta''s connection to their
-  mortal life is weak and vague, more a series of compulsions and triggers than the
-  torturous recollections of a ghost. Thus, while a bhuta might start by hunting down
-  and devouring those who slew their mortal form, they find no relief and soon turn
-  to predation through their domain.<br/><br/><b><u>Recall Knowledge - Undead</u>
-  ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 28<br/><b><u>Unspecific Lore</u></b>:
-  DC 26<br/><b><u>Specific Lore</u></b>: DC 23'
 dexterity: '+7'
 element: null
 fly_speed: '30'

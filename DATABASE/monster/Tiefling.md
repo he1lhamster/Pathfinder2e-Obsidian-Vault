@@ -1,90 +1,80 @@
 ﻿---
-ac: '32'
-alignment: N
+ac: '17'
+alignment: CE
 all_resistance: null
 burrow_speed: null
-charisma: '+4'
+charisma: '+2'
 climb_speed: null
-constitution: '+5'
+constitution: '+0'
 creature_ability:
-- Oceanic Armor
-- Self-Resurrection
-- Typhoon Dive
-creature_family: null
-description: 'Tidehawks, avian embodiments of the sea and rain, nest in deep underwater
-  crevasses and glide among waves. They feed mostly on large sea life and rise above
-  the surface during or in the aftermath of a rainstorm to bask in the fresh moisture
-  of the air.<br/><br/> Though tidehawks hail from the same mystical family as the
-  legendary [[DATABASE/monster/Phoenix|phoenix]] , the two rarely interact due to
-  their different outlooks and elemental affiliations. Phoenixes see tidehawks as
-  flighty and unreliable, while tidehawks view their fiery kin as self-righteous do-gooders
-  who can''t resist meddling in mortal affairs. Only particularly evil threats to
-  natural environments can bring them together.<br/><br/><b><u>Recall Knowledge -
-  Beast</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 35<br/><b><u>Unspecific Lore</u></b>: DC 33<br/><b><u>Specific Lore</u></b>:
-  DC 30'
-dexterity: '+7'
-element: Water
-fly_speed: '50'
-fortitude: '+21'
+- Drain Bonded Item
+creature_family: '[[DATABASE/monsterfamily/Planar Scion|Planar Scion]]'
+dexterity: '+2'
+element: null
+fly_speed: null
+fortitude: '+5'
 hardness: null
-hp: 213 (self-resurrection)
-id: '1337'
+hp: '29'
+id: '331'
 immunity: null
 intelligence: '+4'
 land_speed: '25'
 language:
-- '[[DATABASE/language/Aquan|Aquan]]'
-- '[[DATABASE/language/Auran|Auran]]'
+- '[[DATABASE/language/Abyssal|Abyssal]]'
 - '[[DATABASE/language/Common|Common]]'
-level: '12'
-max_speed: '50'
-name: Tidehawk
-perception: '+24'
-rarity: Rare
-reflex: '+25'
-resistance:
-- cold 10
+level: '3'
+max_speed: '25'
+name: Tiefling Adept
+perception: '+6'
+rarity: Common
+reflex: '+7'
+resistance: null
 rus_type_level: null
 school: null
 sense:
-- '[[DATABASE/monsterability/Darkvision|darkvision]]'
-- '[[DATABASE/monsterability/Wavesense|wavesense]] (imprecise) 120 feet'
-size: Huge
+- darkvision
+size: Medium
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +23'
-- '[[DATABASE/skill/Athletics|Athletics]] +21'
-- '[[DATABASE/skill/Nature|Nature]] +24'
-source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
+- '[[DATABASE/skill/Lore|Abyss Lore]] +9'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +7'
+- '[[DATABASE/skill/Arcana|Arcana]] +9'
+- '[[DATABASE/skill/Deception|Deception]] +9'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +7'
+- '[[DATABASE/skill/Occultism|Occultism]] +9'
+- '[[DATABASE/skill/Religion|Religion]] +6'
+- '[[DATABASE/skill/Society|Society]] +9'
+- '[[DATABASE/skill/Stealth|Stealth]] +7'
+source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 25 feet
-- fly 50 feet
-- swim 50 feet
 spell:
-- '[[DATABASE/spell/Cone of Cold|Cone of Cold]]'
-- '[[DATABASE/spell/Control Water|ControlWater]]'
+- '[[DATABASE/spell/Charm|Charm]]'
+- '[[DATABASE/spell/Chill Touch|ChillTouch]]'
+- '[[DATABASE/spell/Darkness|Darkness]]'
 - '[[DATABASE/spell/Detect Magic|Detect Magic]]'
-- '[[DATABASE/spell/Heal|Heal]]'
-- '[[DATABASE/spell/Hydraulic Torrent|Hydraulic Torrent]]'
-- '[[DATABASE/spell/Mariner''s Curse|Mariner''s Curse]]'
-strength: '+5'
-strength_req: '5'
+- '[[DATABASE/spell/Flaming Sphere|Flaming Sphere]]'
+- '[[DATABASE/spell/Invisibility|Invisibility]]'
+- '[[DATABASE/spell/Mage Hand|Mage Hand]]'
+- '[[DATABASE/spell/Magic Missile|Magic Missile]]'
+- '[[DATABASE/spell/Ray of Enfeeblement|Ray of Enfeeblement]]'
+- '[[DATABASE/spell/Shield|Shield]]'
+- '[[DATABASE/spell/Tanglefoot|Tanglefoot]]'
+strength: '+0'
+strength_req: '0'
 strongest_save:
-- Reflex
-swim_speed: '50'
+- Will
+swim_speed: null
 trait:
-- '[[DATABASE/trait/Amphibious|Amphibious]]'
-- '[[DATABASE/trait/Beast|Beast]]'
-- '[[DATABASE/trait/Rare|Rare]]'
-- '[[DATABASE/trait/Water|Water]]'
+- '[[DATABASE/trait/Human|Human]]'
+- '[[DATABASE/trait/Humanoid|Humanoid]]'
+- '[[DATABASE/trait/Tiefling|Tiefling]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness:
-- fire 15
-will: '+22'
-wisdom: '+6'
+weakness: null
+will: '+8'
+wisdom: '+1'
 
 ---
 # Tiefling

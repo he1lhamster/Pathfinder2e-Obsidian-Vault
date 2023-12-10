@@ -12,12 +12,6 @@ creature_ability:
 - Grabbing Trunk
 - Trample
 creature_family: '[[DATABASE/monsterfamily/Elephant|Elephant]]'
-description: "Found mostly in colder climates, mammoths are accustomed to dealing\
-  \ with desperate and dangerous predators, trampling and crushing their enemies while\
-  \ using their larger tusks to greater effect. Humanoids dwelling in harsh, frost-bound\
-  \ lands rely on the mammoth\u2019s strength to help them survive.<br/><br/><b><u>Recall\
-  \ Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 27<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 25<br/><b><u>Specific Lore</u></b>: DC 22"
 dexterity: '+1'
 element: null
 fly_speed: null

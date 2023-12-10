@@ -12,10 +12,6 @@ creature_ability:
 - Slink in Shadows
 - Steal Shadow
 creature_family: '[[DATABASE/monsterfamily/Shadow|Shadow]]'
-description: 'Shadows that spend long amounts of time on the Shadow Plane and absorb
-  its magic become greater shadows.<br/><br/><b><u>Recall Knowledge - Undead</u> (
-  [[DATABASE/skill/Religion|Religion]] )</b>: DC 23<br/><b><u>Unspecific Lore</u></b>:
-  DC 21<br/><b><u>Specific Lore</u></b>: DC 18'
 dexterity: '+5'
 element: null
 fly_speed: '30'

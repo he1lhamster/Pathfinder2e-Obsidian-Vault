@@ -12,19 +12,6 @@ creature_ability:
 - Pull
 - Wind-Up
 creature_family: '[[DATABASE/monsterfamily/Clockworks|Clockworks]]'
-description: "A common sight among Alkenstar work crews, construction teams, and mining\
-  \ operations, the clockwork fabricator is a one-size-fits-all construction companion.\
-  \ These clockworks can be programmed to perform up to two simple, repetitive tasks\
-  \ such as hauling equipment, chopping down trees, or grinding up hunks of ore. The\
-  \ modular nature of these units makes them even more valuable\u2014after finishing\
-  \ a day's work sawing planks, the same machine can be unwound, updated with a new\
-  \ modular arm or two, and then re-wound and given new instructions.<br/><br/> While\
-  \ it's possible to remove or replace an arm while a fabricator in use, doing so\
-  \ is dangerous and likely to void the manufacturer's warranty, to say nothing of\
-  \ the danger posed to the engineer doing the retrofitting.<br/><br/><b><u>Recall\
-  \ Knowledge - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]]\
-  \ )</b>: DC 21<br/><b><u>Unspecific Lore</u></b>: DC 19<br/><b><u>Specific Lore</u></b>:\
-  \ DC 16"
 dexterity: '+3'
 element: null
 fly_speed: null

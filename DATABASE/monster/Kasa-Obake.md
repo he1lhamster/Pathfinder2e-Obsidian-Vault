@@ -10,13 +10,6 @@ creature_ability:
 - Fade Away
 - Jump Scare
 creature_family: '[[DATABASE/monsterfamily/Tsukumogami|Tsukumogami]]'
-description: The jerky stomping outside in the middle of the night belongs to the
-  kasa-obake. Though their appearances vary, most kasa-obake resemble an umbrella
-  with a humanoid leg or two protruding where one might expect a handle. It has one
-  or two eyes and can have up to two arms, or no arms at all. Kasa-obake adore wordplay
-  and puns and delight in learning new ones, especially as language evolves over time.
-  Though they enjoy giving living creatures the occasional scare, kasa-obake rarely,
-  if ever, attack.
 dexterity: '+4'
 element: null
 fly_speed: null

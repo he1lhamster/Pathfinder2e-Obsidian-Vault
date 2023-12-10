@@ -12,18 +12,6 @@ creature_ability:
 - Meddling Tail
 - Mind-Numbing Breath
 creature_family: null
-description: 'Whimwyrms are unpredictable dragons native to the whimsically dangerous
-  [[DATABASE/plane/First World|First World]] . While their coloration and appearance
-  might evoke reactions of adoration, their moods shift quickly from one extreme to
-  the other. Many who have assumed that their adorability and relatively small size
-  equates to safety have met swift and grisly ends on a whimwyrm''s fangs or magic.<br/><br/>
-  A whimwyrm is a slender, sleek dragon, not much longer than seven feet from snout
-  to tail, but its speed in combat is unnerving. When a whimwyrm attacks, be it with
-  its fanged mouth or its long tail, it makes several quick, darting snaps or lashes
-  at once. While stylistically, these attacks consist of multiple bites or lashings,
-  they still resolve as a single Strike.<br/><br/><b><u>Recall Knowledge - Dragon</u>
-  ( [[DATABASE/skill/Arcana|Arcana]] )</b>: DC 41<br/><b><u>Unspecific Lore</u></b>:
-  DC 39<br/><b><u>Specific Lore</u></b>: DC 36'
 dexterity: '+9'
 element: Air
 fly_speed: '60'

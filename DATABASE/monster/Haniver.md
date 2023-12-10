@@ -9,16 +9,6 @@ constitution: '+2'
 creature_ability:
 - Rearrange Possessions
 creature_family: '[[DATABASE/monsterfamily/Gremlin|Gremlin]]'
-description: "Hanivers are the most benign type of gremlin\u2014capricious fey who\
-  \ skim the waves on rubbery fin-wings. Though they don't actively sabotage their\
-  \ environment, sailors bemoan these gremlins' grasping fingers. Hanivers' incessant\
-  \ curiosity compels them to examine any object that draws their attention. Such\
-  \ treasures might include an overturned fruit basket, a sack of coins, or a shark's\
-  \ gleaming teeth (often still in the shark's mouth, to the fey's regret). Should\
-  \ hanivers like what they find, they steal it, making them a bane to fishers and\
-  \ dockworkers everywhere.<br/><br/><b><u>Recall Knowledge - Fey</u> ( [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 13<br/><b><u>Unspecific Lore</u></b>: DC 11<br/><b><u>Specific Lore</u></b>:\
-  \ DC 8"
 dexterity: '+3'
 element: null
 fly_speed: '20'

@@ -11,13 +11,6 @@ creature_ability:
 - Destructive Finale
 - Rhapsodic Flourish
 creature_family: null
-description: "To some, music is more than a hobby\u2014it's an obsession. Every musician\
-  \ who lived and died for their craft runs the risk of returning as a fiddling bones,\
-  \ as do musicians who died before completing their magnum opus or receiving the\
-  \ accolades they believe they deserved. Driven to prove themselves even in undeath,\
-  \ fiddling bones often challenge famous performers to music duels.<br/><br/><b><u>Recall\
-  \ Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 18<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>: DC 13"
 dexterity: '+3'
 element: null
 fly_speed: null

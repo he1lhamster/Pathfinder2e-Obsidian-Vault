@@ -11,9 +11,6 @@ creature_ability:
 - Quick Poison Dip
 - Sneak Attack
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 29<br/><b><u>Unspecific
-  Lore</u></b>: DC 27<br/><b><u>Specific Lore</u></b>: DC 24'
 dexterity: '+4'
 element: null
 fly_speed: null

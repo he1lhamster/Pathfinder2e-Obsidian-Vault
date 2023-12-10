@@ -1,104 +1,51 @@
 ﻿---
-ac: '15'
-alignment: CE
+ac: null
+alignment: null
 all_resistance: null
 burrow_speed: null
-charisma: '+0'
+charisma: null
 climb_speed: null
-constitution: '+3'
-creature_ability:
-- Bone Chariot
-- Scuttle Away
+constitution: null
+creature_ability: null
 creature_family: null
-description: "Skittering scavenger vermin common throughout the [[DATABASE/plane/Abyss|Abyss]]\
-  \ , ostovites roam battlefields to harvest flesh and bones. After the ostovites\
-  \ dissolve and slurp up the flesh for sustenance, they craft the bones into elaborate\
-  \ shells they refer to as \u201Cbone chariots.\u201D<br/><br/> These bone chariots\
-  \ move under the ostovites' command and serve as an important marker of rank in\
-  \ ostovite nests. To the tiny ostovites, bigger is better, and building large skeletal\
-  \ conveyances is the only way for them to increase their standing in life. Although\
-  \ they feel deeply inferior to creatures larger than themselves, this fear can be\
-  \ overwhelmed by the ostovites' visceral desire to harvest those creatures' bones\
-  \ to increase their own status. When confronted with a particularly massive skeleton,\
-  \ ostovites generally fight among themselves and end up splitting the haul. However,\
-  \ there are rare instances of the selfish creatures working together to puppeteer\
-  \ a much larger bone chariot.<br/><br/> Ostovites' faint understanding of anatomy\
-  \ results in bone chariots that look more like a nightmarish attempt at art than\
-  \ any creature the bones were pulled from. Some powerful fiends and their admirers\
-  \ collect this strange art by bribing ostovites with skeletons or finding ways to\
-  \ kill ostovites without disrupting the chariot around them. Despite ostovites'\
-  \ origins in the Abyss, they are neither [[DATABASE/monsterfamily/Demon|demons]]\
-  \ nor [[DATABASE/monsterfamily/Qlippoth|qlippoth]] .<br/><br/> Without the protection\
-  \ of the major fiends, they find their homes in nooks and crannies along the corners\
-  \ of their home plane. Though they have no innate ability to cross the planar boundaries,\
-  \ flaws in the Abyss's fabric often lead them to worlds across the planes. Ostovites\
-  \ that have thus migrated are often much happier. Away from demonic abuse, they\
-  \ usually can be found near mortal crypts and battlefields. On the [[DATABASE/plane/Material\
-  \ Plane|Material Plane]] , they rarely have to face any threats other than the [[DATABASE/trait/Undead|undead]]\
-  \ , clerics of [[DATABASE/deity/Pharasma|Pharasma]] , and families of the deceased.<br/><br/><b><u>Recall\
-  \ Knowledge - Fiend</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 15<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>: DC 10"
-dexterity: '+4'
+dexterity: null
 element: null
 fly_speed: null
-fortitude: '+6'
+fortitude: null
 hardness: null
-hp: '30'
-id: '1255'
-immunity:
-- bleed
-- '[[DATABASE/trait/Death|death]] effects'
-- '[[DATABASE/trait/Disease|disease]]'
-- '[[DATABASE/condition/Doomed|doomed]]'
-- '[[DATABASE/condition/Drained|drained]]'
-- '[[DATABASE/condition/Fatigued|fatigued]]'
-- '[[DATABASE/trait/Good|good]] damage'
-- '[[DATABASE/trait/Healing|healing]]'
-- '[[DATABASE/trait/Lawful|lawful]] damage'
-- '[[DATABASE/trait/Mental|mental]]'
-- '[[DATABASE/trait/Necromancy|necromancy]]'
-- '[[DATABASE/trait/Nonlethal|nonlethal]] attacks'
-- '[[DATABASE/condition/Paralyzed|paralyzed]]'
-- '[[DATABASE/trait/Poison|poisoned]]'
-- '[[DATABASE/condition/Sickened|sickened]]'
-- '[[DATABASE/condition/Unconscious|unconscious]]'
-intelligence: '-4'
-land_speed: '25'
-language:
-- '[[DATABASE/language/Abyssal|Abyssal]]'
-level: '1'
-max_speed: '25'
-name: Ostovite
-perception: '+4'
-rarity: Common
-reflex: '+9'
+hp: null
+id: '456'
+immunity: null
+intelligence: null
+land_speed: null
+language: null
+level: null
+max_speed: null
+name: Osyluth
+perception: null
+rarity: null
+reflex: null
 resistance: null
 rus_type_level: null
 school: null
-sense:
-- '[[DATABASE/monsterability/Darkvision|darkvision]]'
-size: Small
-skill:
-- '[[DATABASE/skill/Crafting|Crafting]] +4'
-- '[[DATABASE/skill/Stealth|Stealth]] +7'
-source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
-speed:
-- 25 feet
+sense: null
+size: null
+skill: null
+source: '[[DATABASE/source/Pathfinder 147. Tomorrow Must Burn|Pathfinder #147: Tomorrow
+  Must Burn]]'
+speed: null
 spell: null
-strength: '+0'
-strength_req: '0'
-strongest_save:
-- Reflex
+strength: null
+strength_req: null
+strongest_save: null
 swim_speed: null
-trait:
-- '[[DATABASE/trait/Fiend|Fiend]]'
-type: Creature
-vision: Darkvision
-weakest_save:
-- Will
+trait: null
+type: null
+vision: null
+weakest_save: null
 weakness: null
-will: '+4'
-wisdom: '+1'
+will: null
+wisdom: null
 
 ---
 # Osyluth (Bone Devil)

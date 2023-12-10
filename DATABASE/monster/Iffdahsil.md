@@ -14,13 +14,6 @@ creature_ability:
 - Tentacular Burst
 - Unkillable
 creature_family: null
-description: 'The slithering horror known as Iffdahsil is an undead [[DATABASE/monster/Shoggoth|shoggoth]]
-  that has haunted the vault of the Black Desert for millennia. [[DATABASE/monsterfamily/Drow|Drow]]
-  legends in particular tend to feature Iffdahsil, terrifying the elves from a young
-  age.<br/><br/><b><u>Recall Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]]
-  )</b>: DC 52<br/><b><u>Recall Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 52<br/><b><u>Unspecific Lore</u></b>: DC 50<br/><b><u>Specific Lore</u></b>:
-  DC 47'
 dexterity: '+9'
 element: null
 fly_speed: null

@@ -11,16 +11,6 @@ creature_ability:
 - Strafing Rush
 - Swift Swimmer
 creature_family: '[[DATABASE/monsterfamily/Ray|Ray]]'
-description: 'While manta rays might appear daunting, they are generally docile. Manta
-  rays are found in temperate or tropical oceans, and they generally stay in the upper
-  reaches or at the surface of deeper waters. These rays are filter feeders that subsist
-  on plankton. They can also eat larger fish or aquatic creatures as the need arises,
-  but rarely attack anything Small or larger. Many underwater cultures, particularly
-  aquatic elves, raise and farm manta rays to serve as messengers, beasts of burden,
-  or even pets. Manta rays don''t make particularly good mounts, but some aquatic
-  civilizations use them to draw underwater carriages.<br/><br/><b><u>Recall Knowledge
-  - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 15<br/><b><u>Unspecific
-  Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>: DC 10'
 dexterity: '+3'
 element: null
 fly_speed: null

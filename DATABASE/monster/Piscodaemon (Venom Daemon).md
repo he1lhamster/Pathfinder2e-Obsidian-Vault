@@ -1,77 +1,80 @@
 ﻿---
-ac: '16'
-alignment: N
+ac: '28'
+alignment: NE
 all_resistance: null
 burrow_speed: null
-charisma: '-2'
+charisma: '+3'
 climb_speed: null
-constitution: '+2'
+constitution: '+6'
 creature_ability:
-- Blood Scent
-- Feeding Frenzy
-creature_family: '[[DATABASE/monsterfamily/Fish|Fish]]'
-description: 'More teeth and fury than body, few fish command as much fear and anxiety
-  as the piranha. They move almost exclusively in schools, overwhelming larger creatures
-  with sheer numbers and ferocity. Piranhas aggress toward sudden disturbances in
-  the water and can smell blood from far away. Harvested piranha teeth serve as excellent
-  cutting tools.<br/><br/><b><u>Recall Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 18<br/><b><u>Unspecific Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>:
-  DC 13'
-dexterity: '+3'
+- Attack of Opportunity
+- Constrict
+- Enhance Venom
+- Gory Rend
+- Piscovenom
+creature_family: '[[DATABASE/monsterfamily/Daemon|Daemon]]'
+dexterity: '+4'
 element: null
 fly_speed: null
-fortitude: '+9'
+fortitude: '+22'
 hardness: null
-hp: '40'
-id: '1155'
+hp: '200'
+id: '592'
 immunity:
-- precision
-- '[[DATABASE/monsterability/Swarm Mind|swarm mind]]'
-intelligence: '-5'
-land_speed: null
-language: null
-level: '3'
-max_speed: '30'
-name: Piranha Swarm
-perception: '+9'
+- '[[DATABASE/trait/Death|death]] effects'
+- '[[DATABASE/trait/Poison|poison]]'
+intelligence: '+2'
+land_speed: '25'
+language:
+- '[[DATABASE/language/Common|Common]]'
+- '[[DATABASE/language/Daemonic|Daemonic]] ; [[DATABASE/monsterability/Telepathy|telepathy
+  100 feet]]'
+level: '10'
+max_speed: '40'
+name: Piscodaemon
+perception: '+19'
 rarity: Common
-reflex: '+10'
-resistance:
-- bludgeoning 5
-- piercing 2
-- slashing 5
+reflex: '+16'
+resistance: null
 rus_type_level: null
 school: null
 sense:
-- blood scent
-- '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
-- '[[DATABASE/monsterability/Scent|scent]] (imprecise) 100 feet'
-size: Large
+- '[[DATABASE/monsterability/Darkvision|darkvision]]'
+- '[[DATABASE/spell/See Invisibility|see invisibility]]'
+size: Medium
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +10'
-- '[[DATABASE/skill/Athletics|Athletics]] +8'
-source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
+- '[[DATABASE/skill/Athletics|Athletics]] +22'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +19'
+- '[[DATABASE/skill/Medicine|Medicine]] +17'
+- '[[DATABASE/skill/Stealth|Stealth]] +22'
+- '[[DATABASE/skill/Survival|Survival]] +19'
+source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
-- swim 30 feet
-spell: null
-strength: '+1'
-strength_req: '1'
+- 25 feet
+- swim 40 feet
+spell:
+- '[[DATABASE/spell/Detect Alignment|Detect Alignment]]'
+- '[[DATABASE/spell/Detect Poison|Detect Poison]]'
+- '[[DATABASE/spell/Dimension Door|Dimension Door]]'
+- '[[DATABASE/spell/See Invisibility|See Invisibility]]'
+- '[[DATABASE/spell/Stinking Cloud|Stinking Cloud]]'
+strength: '+6'
+strength_req: '6'
 strongest_save:
-- Reflex
-swim_speed: '30'
+- Fortitude
+swim_speed: '40'
 trait:
-- '[[DATABASE/trait/Animal|Animal]]'
-- '[[DATABASE/trait/Aquatic|Aquatic]]'
-- '[[DATABASE/trait/Swarm|Swarm]]'
+- '[[DATABASE/trait/Amphibious|Amphibious]]'
+- '[[DATABASE/trait/Daemon|Daemon]]'
+- '[[DATABASE/trait/Fiend|Fiend]]'
 type: Creature
-vision: Low-light vision
+vision: Darkvision
 weakest_save:
-- Will
+- Reflex
 weakness:
-- area damage 5
-- '[[DATABASE/trait/Splash|splash]] damage 5'
-will: '+7'
-wisdom: '+2'
+- good 10
+will: '+19'
+wisdom: '+3'
 
 ---
 # Piscodaemon (Venom Daemon)

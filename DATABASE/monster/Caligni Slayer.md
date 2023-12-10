@@ -13,29 +13,6 @@ creature_ability:
 - Light Blindness
 - Soul Harvest
 creature_family: '[[DATABASE/monsterfamily/Caligni|Caligni]]'
-description: "Caligni slayers possess greater occult talents than others of their\
-  \ kind. In most other calignis, the power bartered from the long-lost demigods known\
-  \ as the Forsaken merely burns within. But in caligni slayers, this power is a deep\
-  \ and terrible hunger. Slayers embrace their evil impulses as a result, and they\
-  \ seek to feed on others with their soul harvest ability to keep this supernatural\
-  \ hunger sated. Slayers denied the opportunity to feed descend into paranoia and,\
-  \ eventually, murderous rage.<br/><br/>Delayed feeding improves but never fully\
-  \ restores their composure and patience. Perhaps the greatest manifestation of a\
-  \ slayer's hunger appears at the moment of their death. Upon its last breath, a\
-  \ slayer collapses into itself in a violent, lightless implosion, rather than the\
-  \ blinding eruption of other calignis' deaths, consuming the body itself in a final\
-  \ attempt at satiation.<br/><br/>Slayers view themselves as the cleverest and most\
-  \ gifted of the calignis. They seethe with ill-concealed envy at the position of\
-  \ power [[DATABASE/monster/Caligni Stalker|caligni stalkers]] occupy, ever scheming\
-  \ to displace them and claim that power for their own. For their part, stalkers\
-  \ tolerate these machinations as an acceptable price for the talents slayers contribute\
-  \ to an enclave. If necessary, any slayer who grows too ambitious can become a brave\
-  \ sacrifice in battle, for the good of the enclave. In physical stature, slayers\
-  \ fall between the willowy [[DATABASE/monster/Caligni Dancer|caligni dancers]] and\
-  \ the diminutive [[DATABASE/monster/Caligni Creeper|creepers]] . Stalkers tower\
-  \ above most slayers\u2014yet another source of slayers' envy and resentment.<br/><br/><b><u>Recall\
-  \ Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 20<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>: DC 15"
 dexterity: '+4'
 element: null
 fly_speed: null

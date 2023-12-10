@@ -9,31 +9,6 @@ constitution: '+0'
 creature_ability:
 - Wing Flash
 creature_family: '[[DATABASE/monsterfamily/Couatl|Couatl]]'
-description: "Couatls are large, brightly colored serpents with feathered wings. Good-natured,\
-  \ these creatures aid mortals and oppose evildoers, but sighting one presents a\
-  \ momentous occasion\u2014these magnificent, albeit reclusive creatures rarely appear.<br/><br/>\
-  \ The smallest members of the couatl family, Scalliwings resemble their larger kin\
-  \ but are roughly the size of a house cat, and a irascible mischievous streak tempers\
-  \ their kindly nature. While most couatls seek to right the world's wrongs or guide\
-  \ mortal civilization toward societal advancement, scalliwings work on a more individual\
-  \ level. They claim their role is to teach goodhearted spellcasters the ways of\
-  \ magic, and indeed they sometimes serve\u2014or \u201Cassist,\u201D as they're\
-  \ swift to correct\u2014such spellcasters as familiars.<br/><br/> With iridescent\
-  \ scales and bright feathers, scalliwings are remarkably pretty creatures. They\
-  \ seem well aware of this fact and use their appearance to ingratiate themselves\
-  \ with others. This beauty makes some of them slightly self-aggrandizing, but other\
-  \ scalliwings find that their small size and relatively weak defenses put them at\
-  \ the mercy of cruel, larger creatures who seek to imprison them as beautiful pets\
-  \ and trophies. While scalliwings might cheerfully reside in a single residence\
-  \ indefinitely of their own volition, captive scalliwings have orchestrated devious\
-  \ escapes, coordinating their efforts with other creatures to cause spectacular\
-  \ property damage in the process.<br/><br/> Scalliwings measure about 2 feet long\
-  \ from nose to tail with wingspans of about the same length. They have life spans\
-  \ nearly as long as a human's. While a scalliwing appears slightly more common than\
-  \ their larger, reclusive kin, many mortals live entire lifetimes without ever encountering\
-  \ a scalliwing.<br/><br/><b><u>Recall Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]]\
-  \ , [[DATABASE/skill/Nature|Nature]] )</b>: DC 20<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 18<br/><b><u>Specific Lore</u></b>: DC 15"
 dexterity: '+4'
 element: null
 fly_speed: '40'

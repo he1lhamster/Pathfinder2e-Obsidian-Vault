@@ -12,10 +12,6 @@ creature_ability:
 - Overpowering Jaws
 - Swallow Whole
 creature_family: '[[DATABASE/monsterfamily/Dhuthorex|Dhuthorex]]'
-description: 'The typical dhuthorex is a dumb and hungry beast, chasing prey through
-  the depths and venturing onto land only to pursue easy prey.<br/><br/><b><u>Recall
-  Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 28<br/><b><u>Unspecific
-  Lore</u></b>: DC 26<br/><b><u>Specific Lore</u></b>: DC 23'
 dexterity: '+3'
 element: null
 fly_speed: null

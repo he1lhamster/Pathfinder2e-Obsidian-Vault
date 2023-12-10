@@ -12,15 +12,6 @@ creature_ability:
 - Rend
 - Vicious Rend
 creature_family: null
-description: 'Grogrisant is an enormous lion with multiple eyes and a golden, glowing
-  mane. As it was originally slain by Taldor''s founding emperor, the legendary hero
-  Taldaris, Grogrisant''s appearance marks both danger for the people of Taldor and
-  the potential for Taldans to prove their might against a creature from their fabled
-  past. How it continues to appear time and time again remains a mystery, one that
-  Taldan scholars continuously attempt to decipher.<br/><br/><b><u>Recall Knowledge
-  - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 45<br/><b><u>Unspecific Lore</u></b>: DC 43<br/><b><u>Specific Lore</u></b>:
-  DC 40'
 dexterity: '+6'
 element: null
 fly_speed: null

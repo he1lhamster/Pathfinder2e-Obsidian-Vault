@@ -1,70 +1,71 @@
 ﻿---
-ac: '42'
+ac: '21'
 alignment: N
 all_resistance: null
-burrow_speed: '25'
-charisma: '-4'
-climb_speed: '25'
-constitution: '+7'
+burrow_speed: null
+charisma: '+0'
+climb_speed: null
+constitution: '+1'
 creature_ability:
-- Earth Shaker
-- Pounce
-- Rend
-- Venom Spray
-creature_family: '[[DATABASE/monsterfamily/Solifugid|Solifugid]]'
-description: 'The largest solifugids, duneshakers, are so immense that their movements
-  make the terrain around them tremble. They can prey on creatures the size of mammoths
-  or even larger.<br/><br/><b><u>Recall Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 38<br/><b><u>Unspecific Lore</u></b>: DC 36<br/><b><u>Specific Lore</u></b>:
-  DC 33'
-dexterity: '+7'
+- Ghost Hunter
+- Hunt Prey
+- Hunted Shot
+creature_family: '[[DATABASE/monsterfamily/Planar Scion|Planar Scion]]'
+dexterity: '+4'
 element: null
 fly_speed: null
-fortitude: '+31'
+fortitude: '+9'
 hardness: null
-hp: '340'
-id: '810'
-immunity: null
-intelligence: '-5'
-land_speed: '50'
-language: null
-level: '18'
-max_speed: '50'
-name: Duneshaker Solifugid
-perception: '+30'
+hp: '56'
+id: '332'
+immunity:
+- effects that would transform their body or soul to an undead
+intelligence: '+0'
+land_speed: '25'
+language:
+- '[[DATABASE/language/Common|Common]]'
+- '[[DATABASE/language/Necril|Necril]]'
+level: '4'
+max_speed: '25'
+name: Duskwalker Ghost Hunter
+perception: '+10'
 rarity: Common
-reflex: '+33'
-resistance: null
+reflex: '+12'
+resistance:
+- negative energy 2
 rus_type_level: null
 school: null
 sense:
-- '[[DATABASE/monsterability/Darkvision|darkvision]]'
-- '[[DATABASE/monsterability/Tremorsense|tremorsense (imprecise) 30 feet]]'
-size: Gargantuan
+- darkvision
+size: Medium
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +33'
-- '[[DATABASE/skill/Athletics|Athletics]] +35'
-- '[[DATABASE/skill/Stealth|Stealth]] +33'
-source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +10'
+- '[[DATABASE/skill/Athletics|Athletics]] +8'
+- '[[DATABASE/skill/Deception|Deception]] +6'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +6'
+- '[[DATABASE/skill/Nature|Nature]] +8'
+- '[[DATABASE/skill/Stealth|Stealth]] +12'
+- '[[DATABASE/skill/Survival|Survival]] +8'
+source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
-- 50 feet
-- burrow 25 feet
-- climb 25 feet
+- 25 feet
 spell: null
-strength: '+9'
-strength_req: '9'
+strength: '+2'
+strength_req: '2'
 strongest_save:
 - Reflex
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Animal|Animal]]'
+- '[[DATABASE/trait/Duskwalker|Duskwalker]]'
+- '[[DATABASE/trait/Human|Human]]'
+- '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
 vision: Darkvision
 weakest_save:
-- Will
+- Fortitude
 weakness: null
-will: '+28'
-wisdom: '+4'
+will: '+10'
+wisdom: '+2'
 
 ---
 # Duskwalker

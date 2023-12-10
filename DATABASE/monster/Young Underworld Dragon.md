@@ -18,19 +18,6 @@ creature_ability:
 - Frightful Presence
 - Smoke Vision
 creature_family: '[[DATABASE/monsterfamily/Dragon, Underworld|Dragon, Underworld]]'
-description: 'Underworld dragons embody the pressure between tectonic plates, the
-  heat behind geysers, and flash fires that ignite when the conditions are just right.
-  Natural alchemists, they innately understand reagents and catalysts. While some
-  research the effects of magic on material reactions, the majority of underworld
-  dragons concentrate on building their hoards. They scour the world for carved gemstones
-  and artifacts of precious minerals, both of which they see as distilled essence
-  of earth''s bounty.<br/><br/> Underworld dragons appear angular and sharp; their
-  scales glow as if superheated from within, and their hair flickers like tongues
-  of flames. An intense fire glows behind their gazes, suggesting they could ignite
-  items with a mere thought, and their breath ripples the air as a testament to the
-  heat contained within their bodies.<br/><br/><b><u>Recall Knowledge - Dragon</u>
-  ( [[DATABASE/skill/Arcana|Arcana]] )</b>: DC 25<br/><b><u>Unspecific Lore</u></b>:
-  DC 23<br/><b><u>Specific Lore</u></b>: DC 20'
 dexterity: '+2'
 element: Fire
 fly_speed: '80'

@@ -11,23 +11,6 @@ creature_ability:
 - Susceptible to Death
 - Walk the Ethereal Line
 creature_family: '[[DATABASE/monsterfamily/Phantom|Phantom]]'
-description: 'The River of Souls, alongside the souls of dead sapient humanoids, also
-  carries the spirits of monsters, animals, and other creatures. Likewise, it draws
-  souls from the broad universe of the [[DATABASE/plane/Material Plane|Material Plane]]
-  , and thus human and elf souls mingle with those of far stranger creatures from
-  untold worlds. Like any others, these far-flung spirits of strange creatures sometimes
-  wash up on the shores of the [[DATABASE/plane/Ethereal Plane|Ethereal Plane]] ,
-  becoming phantoms far removed from the humanoid forms typically associated with
-  [[DATABASE/monsterfamily/Ghost|ghosts]] and other [[DATABASE/trait/Undead|undead]]
-  .<br/><br/> The phantom below is one such entity: a strange beast from a distant
-  world, echoing their behaviors from life as they search for their own fate post-mortem.
-  Their unfamiliar appearance might lead observers to assume they''re a monstrous
-  being and attack, finding the phantom beast entirely willing to fight back. More
-  compassionate adventurers might instead seek to help the phantom find their way
-  back to the River of Souls to complete their spiritual journey.<br/><br/><b><u>Recall
-  Knowledge - Ethereal</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 26<br/><b><u>Recall
-  Knowledge - Spirit</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 26<br/><b><u>Unspecific
-  Lore</u></b>: DC 24<br/><b><u>Specific Lore</u></b>: DC 21'
 dexterity: '+6'
 element: null
 fly_speed: '35'

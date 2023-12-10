@@ -10,11 +10,6 @@ creature_ability:
 - Crumbling Form
 - Lesser Mummy Rot
 creature_family: '[[DATABASE/monsterfamily/Mummy|Mummy]]'
-description: 'If a mummy has been in combat, endured the ravages of time, or been
-  exposed to the elements, it can be so damaged it barely functions. These mummies
-  continue guarding their tombs until they are too broken to even move.<br/><br/><b><u>Recall
-  Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 16<br/><b><u>Unspecific
-  Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>: DC 11'
 dexterity: '+1'
 element: null
 fly_speed: null

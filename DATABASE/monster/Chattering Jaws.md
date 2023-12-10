@@ -10,11 +10,6 @@ creature_ability:
 - Gnashing Rage
 - Incessant Chattering
 creature_family: '[[DATABASE/monsterfamily/Animated Bones|Animated Bones]]'
-description: 'Chattering jaws usually serve no purpose other unnerving people by clicking
-  their teeth together. Some chattering jaws only chatter at regular intervals to
-  help tell the time.<br/><br/><b><u>Recall Knowledge - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Crafting|Crafting]] )</b>: DC 15<br/><b><u>Unspecific Lore</u></b>:
-  DC 13<br/><b><u>Specific Lore</u></b>: DC 10'
 dexterity: '+2'
 element: null
 fly_speed: null

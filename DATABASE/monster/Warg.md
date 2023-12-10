@@ -11,16 +11,6 @@ creature_ability:
 - Pack Attack
 - Swallow Whole
 creature_family: '[[DATABASE/monsterfamily/Warg|Warg]]'
-description: 'Wargs hunt in packs and surround their prey like common wolves, but
-  their cunning and penchant for taunting victims makes them easy to distinguish from
-  their less-intelligent cousins. But despite their intelligence, wargs have simple
-  desires for food and shelter, making them easy for evil humanoids such as orcs and
-  hobgoblins to recruit to protect their camps or join them in battle. Most wargs
-  are amenable to this arrangement, but if food should run out, wargs are more than
-  willing to integrate goblinoid flesh into their diet.<br/><br/><b><u>Recall Knowledge
-  - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 16<br/><b><u>Unspecific Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>:
-  DC 11'
 dexterity: '+3'
 element: null
 fly_speed: null

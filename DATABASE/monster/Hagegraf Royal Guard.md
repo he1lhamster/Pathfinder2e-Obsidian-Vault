@@ -14,10 +14,6 @@ creature_ability:
 - Stop Right There!
 - Tight Formation
 creature_family: '[[DATABASE/monsterfamily/Duergar|Duergar]]'
-description: 'While the city guards patrol the Long Walk, the royal guards protect
-  King Orgukagan and the royal family, as well as important royal interests.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 22<br/><b><u>Unspecific
-  Lore</u></b>: DC 20<br/><b><u>Specific Lore</u></b>: DC 17'
 dexterity: '+2'
 element: null
 fly_speed: null

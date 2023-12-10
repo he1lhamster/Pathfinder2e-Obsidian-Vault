@@ -18,13 +18,6 @@ creature_ability:
 - Storm Bringer
 - Swallow Whole
 creature_family: null
-description: 'A lusca is a predatory sea monster that resembles a three-headed shark
-  with the body of an octopus. Ferocious electrical storms usually herald a lusca''s
-  arrival; such violent bursts of electricity result from the creature''s superconductive
-  flesh, which allows the lusca to store energy from lightning strikes that it can
-  then discharge at foes.<br/><br/><b><u>Recall Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]]
-  )</b>: DC 38<br/><b><u>Unspecific Lore</u></b>: DC 36<br/><b><u>Specific Lore</u></b>:
-  DC 33'
 dexterity: '+5'
 element: null
 fly_speed: null

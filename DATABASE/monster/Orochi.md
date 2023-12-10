@@ -15,12 +15,6 @@ creature_ability:
 - Flurry
 - Swallow Whole
 creature_family: null
-description: 'An orochi is an enormous serpent with eight heads and eight tails that
-  lives among large waterways. Orochi are vile, amoral creatures kept at bay only
-  with yearly sacrifices. Most settlements unable to satisfy an orochi with a sacrifice
-  soon meet their destruction.<br/><br/><b><u>Recall Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Nature|Nature]] )</b>: DC 43<br/><b><u>Unspecific Lore</u></b>:
-  DC 41<br/><b><u>Specific Lore</u></b>: DC 38'
 dexterity: '+6'
 element: null
 fly_speed: null

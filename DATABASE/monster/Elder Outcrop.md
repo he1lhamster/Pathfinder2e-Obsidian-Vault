@@ -16,12 +16,6 @@ creature_ability:
 - ''
 - Unstoppable
 creature_family: '[[DATABASE/monsterfamily/Elemental, Earth|Elemental, Earth]]'
-description: 'An outcrop of dense stone that spends ages eroding can gain sapience
-  and slowly awaken with the wisdom of nature. Such elemental beings are slow to action
-  and difficult to anger, spurred only by immediate threats.<br/><br/><b><u>Recall
-  Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 31<br/><b><u>Unspecific Lore</u></b>: DC 29<br/><b><u>Specific Lore</u></b>:
-  DC 26'
 dexterity: '-2'
 element: Earth
 fly_speed: null

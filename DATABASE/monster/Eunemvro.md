@@ -12,28 +12,6 @@ creature_ability:
 - Retributive Suplex
 - Tide of Creation
 creature_family: null
-description: "Eunemvros wander the [[DATABASE/plane/Material Plane|Material Plane]]\
-  \ with the sole purpose of destroying [[DATABASE/trait/Undead|undead]] . These mysterious\
-  \ beings claim to hail from the [[DATABASE/plane/Positive Energy Plane|Positive\
-  \ Energy Plane]] , although they have no direct evidence of their supposedly otherworldly\
-  \ origins other than their unusual appearance: tall, lean humanoids with an okapi's\
-  \ head. If they truly hail from the Positive Energy Plane, they don't seem to have\
-  \ any method to return there and have made their home on the Material Plane\u2014\
-  a home, unfortunately, infested by the unnatural living dead.<br/><br/> Beings composed\
-  \ or animated by negative energy\u2014including lowly [[DATABASE/monsterfamily/Skeleton|skeletons]]\
-  \ and [[DATABASE/monsterfamily/Zombie|zombies]] as well as [[DATABASE/monsterfamily/Wight|wights]]\
-  \ and [[DATABASE/monsterfamily/Ghoul|ghouls]] \u2014rightly fear confrontation with\
-  \ a eunemvro, for few other creatures possess innate abilities so perfectly suited\
-  \ for the eradication of such monsters with but a touch. In addition to magical\
-  \ abilities, eunemvros are adept martial artists whose mighty fists and feet channel\
-  \ the force of positive energy with every blow.<br/><br/> Most of these solitary\
-  \ hunters believe mortals incapable of comprehending their cosmic mandate, though\
-  \ they themselves only understand this drive as a directive instilled in them by\
-  \ the strange powers that sent them to the Material Plane. If pressed, some eunemvro\
-  \ might grudgingly accept aid from those who have proven capable of slaying the\
-  \ undead.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]\
-  \ )</b>: DC 22<br/><b><u>Unspecific Lore</u></b>: DC 20<br/><b><u>Specific Lore</u></b>:\
-  \ DC 17"
 dexterity: '+5'
 element: null
 fly_speed: null

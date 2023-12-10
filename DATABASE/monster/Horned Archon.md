@@ -12,17 +12,6 @@ creature_ability:
 - Retributive Strike
 - Touch of Charity
 creature_family: '[[DATABASE/monsterfamily/Archon|Archon]]'
-description: "Horned archons are secretive and tireless sentinels and scouts, patrolling\
-  \ the Outer Sphere\u2019s untamed wilds for evil to eliminate and keeping small\
-  \ communities safe from demons, devils, and worse. They resemble muscular humans\
-  \ with the head, horns, and legs of a stag. When requested to do so by their patrons,\
-  \ especially Erastil, they journey to the Material Plane and patrol dangerous frontier\
-  \ areas, secretly performing acts of kindness such as leading hunters to food, helping\
-  \ lost children, and driving off evil creatures. Because they roam the wilds of\
-  \ Nirvana and Elysium, horned archons are among the best at understanding the perspectives\
-  \ of other celestials.<br/><br/><b><u>Recall Knowledge - Celestial</u> ( [[DATABASE/skill/Religion|Religion]]\
-  \ )</b>: DC 19<br/><b><u>Unspecific Lore</u></b>: DC 17<br/><b><u>Specific Lore</u></b>:\
-  \ DC 14"
 dexterity: '+4'
 element: null
 fly_speed: null

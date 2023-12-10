@@ -1,65 +1,65 @@
 ﻿---
-ac: '18'
-alignment: NE
+ac: '21'
+alignment: NG
 all_resistance: null
 burrow_speed: null
 charisma: '+4'
 climb_speed: null
-constitution: '+0'
-creature_ability: null
+constitution: '+2'
+creature_ability:
+- Search the Stars
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 26<br/><b><u>Unspecific
-  Lore</u></b>: DC 24<br/><b><u>Specific Lore</u></b>: DC 21'
-dexterity: '+3'
+dexterity: '+1'
 element: null
 fly_speed: null
-fortitude: '+6'
-hp: '30'
-id: '2044'
+fortitude: '+11'
+hp: '60'
+id: '2467'
 immunity: null
-intelligence: '+2'
+intelligence: '+1'
 land_speed: '25'
 language:
+- '[[DATABASE/language/Celestial|Celestial]]'
 - '[[DATABASE/language/Common|Common]]'
-level: '2'
+- '[[DATABASE/language/Elven|Elven]]'
+- '[[DATABASE/language/Erutaki|Erutaki]]'
+level: '4'
 max_speed: '25'
-name: Sahreg the Dirge Screamer
-perception: '+6'
+name: Sakuachi
+perception: '+14'
 rarity: Unique
-reflex: '+9'
+reflex: '+10'
 resistance: null
 rus_type_level: null
 sense: null
 size: Medium
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +7'
-- '[[DATABASE/skill/Deception|Deception]] +8'
-- '[[DATABASE/skill/Diplomacy|Diplomacy]] +8'
-- '[[DATABASE/skill/Lore|Graydirge Lore]] +6'
-- '[[DATABASE/skill/Occultism|Occultism]] +6'
-- '[[DATABASE/skill/Performance|Performance]] +8'
-- '[[DATABASE/skill/Society|Society]] +6'
-- '[[DATABASE/skill/Stealth|Stealth]] +7'
-- '[[DATABASE/skill/Thievery|Thievery]] +7'
-source: '[[DATABASE/source/Pathfinder 181. Zombie Feast|Pathfinder #181: Zombie Feast]]'
+- '[[DATABASE/skill/Lore|Astronomy Lore]] +15'
+- '[[DATABASE/skill/Lore|Fortune-Telling Lore]] +15'
+- '[[DATABASE/skill/Medicine|Medicine]] +10'
+- '[[DATABASE/skill/Nature|Nature]] +12'
+- '[[DATABASE/skill/Occultism|Occultism]] +15'
+- '[[DATABASE/skill/Religion|Religion]] +12'
+- '[[DATABASE/skill/Survival|Survival]] +10'
+source: '[[DATABASE/source/Pathfinder 188. They Watched the Stars|Pathfinder #188:
+  They Watched the Stars]]'
 speed:
 - 25 feet
 spell:
-- '[[DATABASE/spell/Chill Touch|Chill Touch]]'
-- '[[DATABASE/spell/Command|Command]]'
-- '[[DATABASE/spell/Counter Performance|Counter Performance]]'
-- '[[DATABASE/spell/Daze|Daze]]'
-- '[[DATABASE/spell/Ghost Sound|GhostSound]]'
-- '[[DATABASE/spell/Illusory Disguise|Illusory Disguise]]'
-- '[[DATABASE/spell/Inspire Courage|Inspire Courage]]'
-- '[[DATABASE/spell/Mage Hand|Mage Hand]]'
-- '[[DATABASE/spell/Telekinetic Projectile|Telekinetic Projectile]]'
-- '[[DATABASE/spell/Unseen Servant|Unseen Servant]]'
+- '[[DATABASE/spell/Augury|Augury]]'
+- '[[DATABASE/spell/Bless|Bless]]'
+- '[[DATABASE/spell/Detect Magic|Detect Magic]]'
+- '[[DATABASE/spell/Guidance|Guidance]]'
+- '[[DATABASE/spell/Liberating Command|Liberating Command]]'
+- '[[DATABASE/spell/Light|Light]]'
+- '[[DATABASE/spell/Read Aura|ReadAura]]'
+- '[[DATABASE/spell/Resist Energy|Resist Energy]]'
+- '[[DATABASE/spell/Shield|Shield]]'
+- '[[DATABASE/spell/Silence|Silence]]'
+- '[[DATABASE/spell/Sleep|Sleep]]'
 strength: '+0'
 strength_req: '0'
 strongest_save:
-- Reflex
 - Will
 swim_speed: null
 trait:
@@ -69,10 +69,10 @@ trait:
 type: Creature
 vision: null
 weakest_save:
-- Fortitude
+- Reflex
 weakness: null
-will: '+9'
-wisdom: '+1'
+will: '+14'
+wisdom: '+3'
 
 ---
 # Sakuachi, Destined Dream Seer

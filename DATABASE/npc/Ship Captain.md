@@ -11,10 +11,6 @@ creature_ability:
 - Dual Disarm
 - No Quarter!
 creature_family: '[[DATABASE/monsterfamily/Seafarers|Seafarers]]'
-description: 'The captain is the ultimate authority on a vessel, responsible for the
-  livelihood and well-being of everyone on the ship.<br/><br/><b><u>Recall Knowledge
-  - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 22<br/><b><u>Unspecific
-  Lore</u></b>: DC 20<br/><b><u>Specific Lore</u></b>: DC 17'
 dexterity: '+2'
 element: null
 fly_speed: null

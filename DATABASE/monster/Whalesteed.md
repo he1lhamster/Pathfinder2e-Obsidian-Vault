@@ -11,11 +11,6 @@ creature_ability:
 - Deep Breath
 - Ramming Speed
 creature_family: '[[DATABASE/monsterfamily/Dolphin|Dolphin]]'
-description: 'Whalesteeds were first tamed in the Shackles as part of an ambush between
-  rival pirate captains. Whalesteed riders are still an unusual sight, as learning
-  to master the skill takes years of training.<br/><br/><b><u>Recall Knowledge - Animal</u>
-  ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 14<br/><b><u>Unspecific Lore</u></b>:
-  DC 12<br/><b><u>Specific Lore</u></b>: DC 9'
 dexterity: '+3'
 element: null
 fly_speed: null

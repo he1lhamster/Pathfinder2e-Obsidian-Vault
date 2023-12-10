@@ -9,12 +9,6 @@ constitution: '+3'
 creature_ability:
 - Spray Blinding Musk
 creature_family: '[[DATABASE/monsterfamily/Skunk|Skunk]]'
-description: 'Giant skunks thrive in places where their larger size and more potent
-  musk allow them to fend off predators their smaller cousins can''t. With larger
-  bodies come more powerful appetites, and giant skunks tend to be aggressive and
-  territorial.<br/><br/><b><u>Recall Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 15<br/><b><u>Unspecific Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>:
-  DC 10'
 dexterity: '+4'
 element: null
 fly_speed: null

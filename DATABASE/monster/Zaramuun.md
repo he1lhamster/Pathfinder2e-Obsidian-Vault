@@ -14,19 +14,6 @@ creature_ability:
 - Sand Glide
 - Sandblast
 creature_family: null
-description: 'Zaramuuns are beings of elemental sand that hide in deserts and wastelands.
-  They disguise themselves as massive dunes before rising up to attack living creatures.
-  The most infamous zaramuuns kill any living creatures they find, but others simply
-  rob their victims of all metal and stone possessions before fleeing. Although zaramuuns
-  insist they are only reclaiming what was taken from their ancestral earth, this
-  is simple self-delusion; most zaramuuns use their stolen goods as payment and material
-  components to conjure fiends, for Zaramuuns were exiled from the Plane of Earth
-  after worshipping fiends who promised to give them power over other elementals.
-  This worship gradually transformed into servitude, and now many zaramuuns believe
-  that if they send enough souls to their masters, they will be set free.<br/><br/><b><u>Recall
-  Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 35<br/><b><u>Unspecific Lore</u></b>: DC 33<br/><b><u>Specific Lore</u></b>:
-  DC 30'
 dexterity: '+5'
 element: Earth
 fly_speed: null

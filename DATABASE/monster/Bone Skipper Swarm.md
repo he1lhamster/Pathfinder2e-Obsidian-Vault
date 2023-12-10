@@ -11,10 +11,6 @@ creature_ability:
 - Marrow Rot
 - Swarming Bites
 creature_family: '[[DATABASE/monsterfamily/Bone Skipper|Bone Skipper]]'
-description: 'A large swarm of bone skippers can reduce a human skeleton into dry,
-  brittle fragments in a matter of hours.<br/><br/><b><u>Recall Knowledge - Animal</u>
-  ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 24<br/><b><u>Unspecific Lore</u></b>:
-  DC 22<br/><b><u>Specific Lore</u></b>: DC 19'
 dexterity: '+5'
 element: null
 fly_speed: '40'

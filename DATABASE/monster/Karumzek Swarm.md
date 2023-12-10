@@ -11,9 +11,6 @@ creature_ability:
 - Poison Sense
 - Swarming Bites
 creature_family: '[[DATABASE/monsterfamily/Karumzek|Karumzek]]'
-description: 'Groups of tiny karumzeks can form a dangerous swarm.<br/><br/><b><u>Recall
-  Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 30<br/><b><u>Unspecific
-  Lore</u></b>: DC 28<br/><b><u>Specific Lore</u></b>: DC 25'
 dexterity: '+5'
 element: null
 fly_speed: null

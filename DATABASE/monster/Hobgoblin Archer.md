@@ -12,11 +12,6 @@ creature_ability:
 - Perfect Aim
 - Running Reload
 creature_family: '[[DATABASE/monsterfamily/Hobgoblin|Hobgoblin]]'
-description: "Bands of hobgoblin soldiers typically have at least one archer among\
-  \ their ranks. In smaller groups, the hobgoblin archer also serves as that band\u2019\
-  s captain.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]\
-  \ )</b>: DC 19<br/><b><u>Unspecific Lore</u></b>: DC 17<br/><b><u>Specific Lore</u></b>:\
-  \ DC 14"
 dexterity: '+4'
 element: null
 fly_speed: null

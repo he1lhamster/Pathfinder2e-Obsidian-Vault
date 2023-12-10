@@ -13,9 +13,6 @@ creature_ability:
 - Long Neck
 - Thrashing Retreat
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 33<br/><b><u>Unspecific
-  Lore</u></b>: DC 31<br/><b><u>Specific Lore</u></b>: DC 28'
 dexterity: '+5'
 element: null
 fly_speed: null

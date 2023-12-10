@@ -9,14 +9,6 @@ constitution: '+2'
 creature_ability:
 - Breathe Shrapnel
 creature_family: '[[DATABASE/monsterfamily/Elemental, Mephit|Elemental, Mephit]]'
-description: 'The capricious and destructive metal scamps are self-appointed forces
-  of entropy, taking great pleasure in indiscriminately wrecking everything around
-  them, sometimes even to their own detriment. Metal scamps have a severe appearance,
-  with pointed facial features and angular limbs, and their skin can be the color
-  of any metal, often heavily oxidized as if by years of exposure to the elements.<br/><br/><b><u>Recall
-  Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 15<br/><b><u>Unspecific Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>:
-  DC 10'
 dexterity: '+0'
 element: Metal
 fly_speed: '25'

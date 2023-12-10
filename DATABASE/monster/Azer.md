@@ -11,37 +11,6 @@ creature_ability:
 - Heat of the Forge
 - Scorch
 creature_family: null
-description: 'Azers are an elemental people living on the [[DATABASE/plane/Plane of
-  Fire|Plane of Fire]] , often crudely described by mortals as brassy dwarves. They
-  have stout, wide bodies with broad shoulders, shining metallic skin, and heads wreathed
-  in flame.<br/><br/> Azer society is organized into traditional roles inherited along
-  their familial lines, and an azer''s role is indicated clearly by the metals they
-  wear in their armored kilts. Their culture focuses on tradition and history, placing
-  high value on obedience and conformity within one''s community, and as a result
-  it is slow to change. Many azers take pride in their ancestral roles and in fulfilling
-  their inherited duties, providing needed services within their communities.<br/><br/>
-  Long ago, traditional azer values of self-sufficiency and close community led them
-  to build mighty fortresses across the Plane of Fire, where they isolated themselves
-  from other planar denizens and even other azer communities. These values, sadly,
-  also led to their downfall. Without any connections to or regular communication
-  with other settlements, these fortresses were easily conquered by the [[DATABASE/monster/Efreeti|efreet]]
-  of the City of Brass, the dominant power on the Plane of Fire. Now most azer fortresses
-  lie abandoned and ruined, with free holds so few and far between that most think
-  them all lost.<br/><br/> Azers born within the efreeti Dominion of Flame belong
-  to the populations that were conquered and assimilated into the empire ages ago.
-  They live in perpetual service to the empire, disconnected from their history and
-  culture, yet have formed their own close-knit society in the City of Brass under
-  the fire genies'' harsh rule.<br/><br/> A handful of azer communities have escaped
-  efreeti conquest, most often by fleeing far from the genies'' realms. Some of these
-  azers now reside in hot, volcanic areas of the Darklands on the [[DATABASE/plane/Material
-  Plane|Material Plane]] , while others have fled to the remote depths within the
-  Plane of Fire or made strange bargains with conniving allies or unknowable entities
-  to keep themselves hidden. Prying outsiders nevertheless perpetually seek out these
-  settlements, longing for legendary azer-crafted goods.<br/><br/><b><u>Recall Knowledge
-  - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 16<br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 16<br/><b><u>Unspecific Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>:
-  DC 11'
 dexterity: '+1'
 element: Fire
 fly_speed: null

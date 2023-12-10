@@ -13,18 +13,6 @@ creature_ability:
 - Statue
 - Stone Flesh
 creature_family: null
-description: 'Stone sisters are the tragic undead remains of an ancient Holoma army,
-  petrified en masse by the necromancer Geb. The armies of Holomog were once a dominant
-  force in the region, repelling several invasions from powerful rivals. However,
-  when they sought to expand into the nation of Geb, their campaign quickly ended.
-  Shortly after crossing Geb''s southern border, the entire army was struck by a terrible
-  curse that turned every warrior into a stone statue. Now known as the Field of Maidens,
-  the statues have stood frozen for centuries, weapons in hand.<br/><br/> Yet some
-  of these warriors possess a will even stronger than stone. When approached, there''s
-  a chance the spirits of the fallen will animate their statues and attack outsiders
-  with the same deadly coordination they had in life.<br/><br/><b><u>Recall Knowledge
-  - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 27<br/><b><u>Unspecific
-  Lore</u></b>: DC 25<br/><b><u>Specific Lore</u></b>: DC 22'
 dexterity: '+2'
 element: null
 fly_speed: null

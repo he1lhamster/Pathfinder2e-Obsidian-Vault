@@ -13,11 +13,6 @@ creature_ability:
 - Intense Heat
 - Smoke Vision
 creature_family: '[[DATABASE/monsterfamily/Elemental, Fire|Elemental, Fire]]'
-description: 'Walking conflagrations of unimaginably hot fire, elemental infernos
-  are harbingers of destruction and heedless chaos.<br/><br/><b><u>Recall Knowledge
-  - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 28<br/><b><u>Unspecific Lore</u></b>: DC 26<br/><b><u>Specific Lore</u></b>:
-  DC 23'
 dexterity: '+6'
 element: Fire
 fly_speed: null

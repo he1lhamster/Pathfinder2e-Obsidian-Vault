@@ -10,15 +10,6 @@ creature_ability:
 - Drag
 - Pack Attack
 creature_family: '[[DATABASE/monsterfamily/Hyena|Hyena]]'
-description: 'Hyenas are cunning, powerfully built carnivores that bear a heavy resemblance
-  to dogs and other canines, though they are not themselves canines. Though all hyenas
-  are often maligned as cowardly carrion eaters, their tactics depend on their specific
-  breed: spotted hyenas are active pack hunters that kill most of their prey themselves,
-  while striped and brown hyenas are more likely to be scavengers. Their jaws are
-  exceptionally powerful, allowing hyenas to seize a victim and pull it to the rest
-  of the pack.<br/><br/><b><u>Recall Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 15<br/><b><u>Unspecific Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>:
-  DC 10'
 dexterity: '+3'
 element: null
 fly_speed: null

@@ -20,12 +20,6 @@ creature_ability:
 - Wild Gaze
 - Wild Hunt Link
 creature_family: '[[DATABASE/monsterfamily/Wild Hunt|Wild Hunt]]'
-description: 'These steeds stand upon puffs of air, their grassy manes and tails swishing
-  majestically in the wind. When they are not participating in a hunt, wild hunt horses
-  enjoy constructing complicated courses through land and sky and racing each other
-  for ever-changing stakes.<br/><br/><b><u>Recall Knowledge - Fey</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 39<br/><b><u>Unspecific Lore</u></b>: DC 37<br/><b><u>Specific Lore</u></b>:
-  DC 34'
 dexterity: '+4'
 element: null
 fly_speed: '80'

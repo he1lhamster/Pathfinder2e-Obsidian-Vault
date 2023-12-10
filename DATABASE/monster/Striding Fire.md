@@ -10,12 +10,6 @@ creature_ability:
 - Burning Rush
 - Smoke Vision
 creature_family: '[[DATABASE/monsterfamily/Elemental, Fire|Elemental, Fire]]'
-description: 'An embodiment of the speed and chaos of a spreading blaze, a striding
-  fire appears as a lithe and long-limbed humanoid composed of shifting-hued flames
-  churning within a skeleton-like framework.<br/><br/><b><u>Recall Knowledge - Elemental</u>
-  ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]] )</b>: DC
-  22<br/><b><u>Unspecific Lore</u></b>: DC 20<br/><b><u>Specific Lore</u></b>: DC
-  17'
 dexterity: '+5'
 element: Fire
 fly_speed: null

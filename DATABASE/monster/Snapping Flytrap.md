@@ -12,11 +12,6 @@ creature_ability:
 - Quick Capture
 - Swallow Whole
 creature_family: '[[DATABASE/monsterfamily/Flytrap|Flytrap]]'
-description: 'The snapping flytrap is a ravenous, carnivorous plant that is quick
-  to bite at any creature that passes by. Snapping flytraps typically have two sets
-  of tooth-edged leaves, each measuring 3 feet wide, at the end of 10-foot-long stalks.<br/><br/><b><u>Recall
-  Knowledge - Plant</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 18<br/><b><u>Unspecific
-  Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>: DC 13'
 dexterity: '+3'
 element: null
 fly_speed: null

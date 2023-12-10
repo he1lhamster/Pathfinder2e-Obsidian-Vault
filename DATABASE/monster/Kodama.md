@@ -11,21 +11,6 @@ creature_ability:
 - Spiritual Rope
 - Ward
 creature_family: '[[DATABASE/monsterfamily/Kami|Kami]]'
-description: 'A kodama is a type of kami who inhabits a tree. Kodama commonly appear
-  in old Tian forests, especially old-growth forests far removed from civilization.
-  In the Forest of Spirits in Minkai, for example, so many trees are possessed by
-  kodama that a traveler might pass by hundreds, if not thousands, of these beings
-  while journeying through a single acre of woodland.<br/><br/> Kodama try their utmost
-  to protect their sacred trees, but a single kodama is a minor obstacle to most [[DATABASE/monsterfamily/Oni|oni]]
-  or others who have no qualms about desecrating forests or harvesting them for natural
-  resources. Like trees in a forest, kodama are most powerful in great numbers and
-  among other kami, whom they can bolster with their magical straw ropes while distracting
-  strong enemies with their mesmerizing presence.<br/><br/> On the other hand, kodama
-  bear no ill will toward those who respect their wards, even allowing [[DATABASE/class_/Druid|druids]]
-  and other deferential creatures to dwell within their bounds. They might even subtly
-  guide lost travelers out of the forest or back to safety.<br/><br/><b><u>Recall
-  Knowledge - Spirit</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 20<br/><b><u>Unspecific
-  Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>: DC 15'
 dexterity: '+4'
 element: null
 fly_speed: null

@@ -1,72 +1,96 @@
 ﻿---
-ac: '28'
-alignment: null
+ac: '34'
+alignment: LE
 all_resistance: null
 burrow_speed: null
-charisma: '+3'
+charisma: '+6'
 climb_speed: null
-constitution: '+4'
+constitution: '+8'
 creature_ability:
-- Envelop
-- Naturally Invisible
-creature_family: '[[DATABASE/monsterfamily/Elemental, Air|Elemental, Air]]'
-description: 'Often considered cousins of [[DATABASE/monster/Invisible Stalker|phades]]
-  , veiled currents are loose veils of wind who catch prey within their folds.<br/><br/><b><u>Recall
-  Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 24<br/><b><u>Unspecific Lore</u></b>: DC 22<br/><b><u>Specific Lore</u></b>:
-  DC 19'
+- Change Shape
+- Consume Memories
+- Delayed Suggestion
+- Mucus Cloud
+- Slime
+- Tentacle Flurry
+- ''
+- Thoughtlance
+creature_family: '[[DATABASE/monsterfamily/Alghollthu|Alghollthu]]'
 dexterity: '+6'
-element: Air
-fly_speed: '50'
-fortitude: '+15'
+element: null
+fly_speed: null
+fortitude: '+26'
 hardness: null
-hp: '100'
-id: '2618'
+hp: '270'
+id: '5'
 immunity:
-- bleed
-- '[[DATABASE/condition/Paralyzed|paralyzed]]'
-- '[[DATABASE/trait/Poison|poison]]'
-- '[[DATABASE/trait/Sleep|sleep]]'
-intelligence: '+2'
-land_speed: null
+- '[[DATABASE/condition/Controlled|controlled]]'
+- '[[DATABASE/trait/Electricity|electricity]]'
+- '[[DATABASE/trait/Mental|mental]]'
+intelligence: '+7'
+land_speed: '10'
 language:
-- '[[DATABASE/language/Sussuran|Sussuran]]'
-level: '8'
-max_speed: '50'
-name: Veiled Current
-perception: '+17'
-rarity: Common
-reflex: '+19'
-resistance: null
+- '[[DATABASE/language/Aklo|Aklo]]'
+- '[[DATABASE/language/Alghollthu|Alghollthu]]'
+- '[[DATABASE/language/Aquan|Aquan]]'
+- '[[DATABASE/language/Common|Common]]'
+- '[[DATABASE/language/Undercommon|Undercommon]] ; [[DATABASE/spell/Tongues|tongues]]'
+level: '14'
+max_speed: '80'
+name: Veiled Master
+perception: '+25'
+rarity: Rare
+reflex: '+22'
+resistance:
+- '[[DATABASE/trait/Cold|cold]] 20'
 rus_type_level: null
 school: null
 sense:
-- '[[DATABASE/monsterability/Darkvision|darkvision]]'
+- darkvision
 size: Large
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +18'
-- '[[DATABASE/skill/Athletics|Athletics]] +18'
-- '[[DATABASE/skill/Deception|Deception]] +15'
-- '[[DATABASE/skill/Stealth|Stealth]] +18'
-source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
+- '[[DATABASE/skill/Arcana|Arcana]] +27'
+- '[[DATABASE/skill/Athletics|Athletics]] +24'
+- '[[DATABASE/skill/Deception|Deception]] +28'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +26'
+- '[[DATABASE/skill/Lore|Lore]] +29'
+- '[[DATABASE/skill/Occultism|Occultism]] +29'
+- '[[DATABASE/skill/Society|Society]] +27'
+- '[[DATABASE/skill/Stealth|Stealth]] +24'
+source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
-- fly 50 feet
-spell: null
-strength: '+2'
-strength_req: '2'
+- 10 feet
+- swim 80 feet
+spell:
+- '[[DATABASE/spell/Dimension Door|Dimension Door]]'
+- '[[DATABASE/spell/Dominate|Dominate]]'
+- '[[DATABASE/spell/Hallucinatory Terrain|Hallucinatory Terrain]]'
+- '[[DATABASE/spell/Hypnotic Pattern|Hypnotic Pattern]]'
+- '[[DATABASE/spell/Illusory Object|Illusory Object]]'
+- '[[DATABASE/spell/Illusory Scene|Illusory Scene]]'
+- '[[DATABASE/spell/Levitate|Levitate]]'
+- '[[DATABASE/spell/Mind Reading|MindReading]]'
+- '[[DATABASE/spell/Project Image|Project Image]]'
+- '[[DATABASE/spell/Secret Page|Secret Page]]'
+- '[[DATABASE/spell/Suggestion|Suggestion]]'
+- '[[DATABASE/spell/Tongues|Tongues]]'
+- '[[DATABASE/spell/Veil|Veil]]'
+strength: '+6'
+strength_req: '6'
 strongest_save:
-- Reflex
-swim_speed: null
+- Fortitude
+swim_speed: '80'
 trait:
-- '[[DATABASE/trait/Air|Air]]'
-- '[[DATABASE/trait/Elemental|Elemental]]'
+- '[[DATABASE/trait/Aberration|Aberration]]'
+- '[[DATABASE/trait/Aquatic|Aquatic]]'
+- '[[DATABASE/trait/Rare|Rare]]'
 type: Creature
 vision: Darkvision
 weakest_save:
-- Will
+- Reflex
 weakness: null
-will: '+13'
-wisdom: '+1'
+will: '+24'
+wisdom: '+5'
 
 ---
 # Veiled Master (Vidileth)

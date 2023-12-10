@@ -13,15 +13,6 @@ creature_ability:
 - Empathic Sense
 - Goad
 creature_family: null
-description: 'The soul of a gnome killed by tragedy sometimes becomes so entangled
-  in conflicting emotions that it becomes trapped and reanimates its own corpse. Known
-  as unfeeling empaths, these undead wander in search of others'' emotions. When they
-  find thinking prey, they relentlessly goad that creature to elicit and consume their
-  feelings. Though initially harmless, feeding drives an unfeeling empath into an
-  expressive frenzy as they overload the victim''s mind, resuming their senses only
-  after their prey is dead.<br/><br/><b><u>Recall Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 18<br/><b><u>Unspecific Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>:
-  DC 13'
 dexterity: '+1'
 element: null
 fly_speed: null

@@ -12,10 +12,6 @@ creature_ability:
 - Deep Breath
 - Trample
 creature_family: '[[DATABASE/monsterfamily/Hippopotamus|Hippopotamus]]'
-description: 'Typical adult hippos move quickly on land and attack stealthily in the
-  water. Though herbivorous, hippos are notoriously aggressive and territorial.<br/><br/><b><u>Recall
-  Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 20<br/><b><u>Unspecific
-  Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>: DC 15'
 dexterity: '+2'
 element: null
 fly_speed: null

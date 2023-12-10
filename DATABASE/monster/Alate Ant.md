@@ -14,13 +14,6 @@ creature_ability:
 - Red Ant Venom
 - Requirement
 creature_family: '[[DATABASE/monsterfamily/Gigantic Ant|Gigantic Ant]]'
-description: 'Alate ants are no less devoted and powerful than red guard ants, but
-  they are slightly smaller in size and have delicate wings that bear them aloft.
-  Alate ants secrete pheromones that addle the minds of the hive''s enemies. A hive
-  deploys alate ants as both defenders from aerial threats and as advance scouts.<br/><br/><b><u>Recall
-  Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 40<br/><b><u>Unspecific Lore</u></b>: DC 38<br/><b><u>Specific Lore</u></b>:
-  DC 35'
 dexterity: '+8'
 element: null
 fly_speed: '40'

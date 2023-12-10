@@ -12,12 +12,6 @@ creature_ability:
 - Breach
 - Deep Breath
 creature_family: '[[DATABASE/monsterfamily/Dolphin|Dolphin]]'
-description: "While many know orcas as \u201Ckiller whales,\u201D they are actually\
-  \ the largest species of dolphin. These powerful animals hunt together in pods to\
-  \ take down seals, sharks, and even true whales. Adult orcas are typically 15\u2013\
-  25 feet long and weigh 8,000\u201312,000 pounds.<br/><br/><b><u>Recall Knowledge\
-  \ - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 20<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>: DC 15"
 dexterity: '+2'
 element: null
 fly_speed: null

@@ -11,7 +11,6 @@ creature_ability:
 - Engulf
 - Unstable Magic
 creature_family: null
-description: This creature did not include a description.
 dexterity: '+5'
 element: null
 fly_speed: '40'

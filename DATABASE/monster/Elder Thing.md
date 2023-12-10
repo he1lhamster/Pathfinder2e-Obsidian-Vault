@@ -12,14 +12,6 @@ creature_ability:
 - No Breath
 - Unnatural Flight
 creature_family: '[[DATABASE/monsterfamily/Elder Thing|Elder Thing]]'
-description: 'The typical elder thing is a scientist first and anything else second,
-  but they don''t hesitate to use force to achieve their needs or defend their laboratories.
-  When one does deign to speak to a non-elder thing, it''s either out of fear (for
-  a creature they know vastly outstrips their own power) or with an insufferable sense
-  of narcissistic superiority and impatience, like how an arrogant professor might
-  speak to a student struggling with what they perceive to be a simple concept.<br/><br/><b><u>Recall
-  Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 25<br/><b><u>Unspecific
-  Lore</u></b>: DC 23<br/><b><u>Specific Lore</u></b>: DC 20'
 dexterity: '+2'
 element: null
 fly_speed: '20'

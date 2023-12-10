@@ -12,10 +12,6 @@ creature_ability:
 - Crystal Splinter
 - Earth Glide
 creature_family: '[[DATABASE/monsterfamily/Elemental, Earth|Elemental, Earth]]'
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 33<br/><b><u>Unspecific Lore</u></b>: DC 31<br/><b><u>Specific Lore</u></b>:
-  DC 28'
 dexterity: '+3'
 element: Earth
 fly_speed: null

@@ -9,10 +9,6 @@ constitution: '+1'
 creature_ability:
 - Hydraulic Asphyxiation
 creature_family: '[[DATABASE/monsterfamily/Merfolk|Merfolk]]'
-description: 'Merfolk wavecallers use their primal power to call forth allies and
-  defend their people with deadly magic.<br/><br/><b><u>Recall Knowledge - Humanoid</u>
-  ( [[DATABASE/skill/Society|Society]] )</b>: DC 16<br/><b><u>Unspecific Lore</u></b>:
-  DC 14<br/><b><u>Specific Lore</u></b>: DC 11'
 dexterity: '+2'
 element: null
 fly_speed: null

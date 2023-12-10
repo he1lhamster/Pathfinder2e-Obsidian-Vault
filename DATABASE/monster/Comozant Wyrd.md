@@ -12,20 +12,6 @@ creature_ability:
 - Plasmatic Form
 - Wyrd Wisdom
 creature_family: null
-description: 'Buzzing, crackling plasma makes up a comozant wyrd, electrically charged
-  waves of greens, blues, and purples cascading in heatless flame. Given a mind and
-  a semblance of a face, comozant wyrds need a surface from which they can crackle
-  and writhe. Once secure, they seek out companionship from anyone nearby. In the
-  [[DATABASE/plane/Material Plane|Universe]] , they can be found in many places: lashing
-  themselves to sailing ships, dancing across the buildings, or anchoring to the stones
-  of a mountain range. In the vast spans of the [[DATABASE/plane/Plane of Air|Plane
-  of Air]] , however, comozant wyrds often come to feel extremely lonely. A lucky
-  few become pets for jaathooms living in the plane''s cities, but many wait on isolated
-  floating islands for an airship they can attach to or, more tragically, strive vainly
-  to reach a distant shore before sputtering out.<br/><br/><b><u>Recall Knowledge
-  - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 20<br/><b><u>Unspecific Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>:
-  DC 15'
 dexterity: '+4'
 element: Air
 fly_speed: '25'

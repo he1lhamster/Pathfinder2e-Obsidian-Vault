@@ -10,13 +10,6 @@ creature_ability:
 - Blood Scent
 - Feeding Frenzy
 creature_family: '[[DATABASE/monsterfamily/Fish|Fish]]'
-description: 'More teeth and fury than body, few fish command as much fear and anxiety
-  as the piranha. They move almost exclusively in schools, overwhelming larger creatures
-  with sheer numbers and ferocity. Piranhas aggress toward sudden disturbances in
-  the water and can smell blood from far away. Harvested piranha teeth serve as excellent
-  cutting tools.<br/><br/><b><u>Recall Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 18<br/><b><u>Unspecific Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>:
-  DC 13'
 dexterity: '+3'
 element: null
 fly_speed: null

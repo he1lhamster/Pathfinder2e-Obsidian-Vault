@@ -12,18 +12,6 @@ creature_ability:
 - Putrid Sap
 - Throw Rock
 creature_family: null
-description: "[[DATABASE/monsterfamily/Arboreal|Arboreals]] can be victims of undeath\
-  \ like any other living creature, but without bones or flesh, their undead take\
-  \ a different form. When an arboreal shivers to life as undead, it often animates\
-  \ as a snag\u2014a leafless, skeletal dead tree that haunts its forest, attacking\
-  \ any living creature it can catch. An arboreal snag is mindless and difficult to\
-  \ control, but some necromancers use them as forest guardians.<br/><br/> While many\
-  \ arboreals are comfortable remaining still for prolonged periods of time, arboreal\
-  \ snags tend to be restless, meandering in a region they consider their domain.\
-  \ This territory is sometimes evident from battered forest animals or trampled undergrowth\
-  \ that litters the ground, but forest creatures soon learn to avoid the area entirely.\
-  \ It doesn't take long for regions haunted by arboreal snags to grow desolate and\
-  \ unhealthy, and locals often dub such regions as haunted or cursed."
 dexterity: '+1'
 element: null
 fly_speed: null

@@ -12,13 +12,6 @@ creature_ability:
 - Energy Ward
 - Implanted Stone
 creature_family: '[[DATABASE/monsterfamily/Facetbound|Facetbound]]'
-description: 'Facetbound cascaders must have been arcane spellcasters in life; in
-  undeath, they draw upon the power of embedded [[DATABASE/equipment/Aeon Stone|orange
-  prism aeon stone]] to defend themselves from magical damage and redirect that energy
-  toward their opponents. Despite their incredible intelligence, facetbound cascaders
-  have few memories of their former lives and typically serve the whims of their creator.<br/><br/><b><u>Recall
-  Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 40<br/><b><u>Unspecific
-  Lore</u></b>: DC 38<br/><b><u>Specific Lore</u></b>: DC 35'
 dexterity: '+6'
 element: null
 fly_speed: null

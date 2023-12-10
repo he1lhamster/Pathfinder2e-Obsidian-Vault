@@ -12,18 +12,6 @@ creature_ability:
 - Plant
 - Take Root
 creature_family: null
-description: 'Corpseroots are rotten, undead trees that grow bright-red poisonous
-  fruit and spread blight to surrounding plants, transforming healthy trees into new
-  corpseroots. These cunning killers drain the life from creatures through their root
-  systems, posing as dead trees until their victims come within reach. <br/><br/>Corpseroots
-  most commonly form from rotten husks of trees that died from supernatural blights,
-  making them common threats in the Fangwood and Fierani forests. The most powerful
-  are ancient trees used as shrines and sacrificial altars, their roots absorbing
-  the blood, flesh, and terror of those condemned under their boughs. Some of these
-  ancient corpseroots still command the respect and devotion of the cults that inadvertently
-  created them.<br/><br/><b><u>Recall Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 28<br/><b><u>Unspecific Lore</u></b>: DC 26<br/><b><u>Specific Lore</u></b>:
-  DC 23'
 dexterity: '+3'
 element: null
 fly_speed: null

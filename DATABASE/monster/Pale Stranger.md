@@ -15,15 +15,6 @@ creature_ability:
 - Undying
 - Vendetta
 creature_family: '[[DATABASE/monsterfamily/Revenant|Revenant]]'
-description: 'A pale stranger arises when a gunslinger is slain in a duel by an underhanded
-  foe. Buried with their pistols, the corpse claws out of the grave to wreak vengeance
-  upon their killer for cheating. Sometimes a pale stranger is created when a particularly
-  petty [[DATABASE/class_/Gunslinger|gunslinger]] is beaten fairly and refuses to
-  accept defeat, though such an individual must be especially self-delusional to retain
-  the hatred necessary to spur the transformation. Whatever the circumstance, a pale
-  stranger can wield their firearms with deadly grace and efficacy.<br/><br/><b><u>Recall
-  Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 32<br/><b><u>Unspecific
-  Lore</u></b>: DC 30<br/><b><u>Specific Lore</u></b>: DC 27'
 dexterity: '+7'
 element: null
 fly_speed: null

@@ -17,14 +17,6 @@ creature_ability:
 - Swallow Whole
 - Thrash
 creature_family: '[[DATABASE/monsterfamily/Cave Worm|Cave Worm]]'
-description: 'Shadow worms are monstrous cave worms that dwell on the [[DATABASE/equipment/Shadow|Shadow
-  Plane]] . Larger and more cunning than most cave worms, shadow worms are fearsome
-  predators that leave swaths of devastation in their wake. Most have glossy, black-armored
-  hide, but those that burrow near [[DATABASE/monsterfamily/Velstrac|velstrac]] lands
-  are streaked with dark red, for the blood the velstracs spill has soaked into the
-  very stones these shadow worms consume.<br/><br/><b><u>Recall Knowledge - Animal</u>
-  ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 45<br/><b><u>Unspecific Lore</u></b>:
-  DC 43<br/><b><u>Specific Lore</u></b>: DC 40'
 dexterity: '+2'
 element: null
 fly_speed: null

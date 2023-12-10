@@ -13,14 +13,6 @@ creature_ability:
 - Sneak Attack
 - Terrain Advantage
 creature_family: '[[DATABASE/monsterfamily/Lizardfolk|Lizardfolk]]'
-description: 'Iruxi scouts are the lizardfolk most often encountered by adventurers,
-  for these explorers and hunters spend most of their lives on the move, constantly
-  patrolling the territories held by their enclave. If intruders are driven off, it
-  is the responsibility of the iruxi scouts to track them, observe them, and learn
-  their ways and weaknesses so as to report back to the community and aid in the defense
-  against potential reprisals.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 15<br/><b><u>Unspecific Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>:
-  DC 10'
 dexterity: '+3'
 element: null
 fly_speed: null

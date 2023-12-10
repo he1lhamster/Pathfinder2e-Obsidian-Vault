@@ -1,89 +1,125 @@
 ﻿---
-ac: '47'
-alignment: NE
+ac: '44'
+alignment: LE
 all_resistance: null
 burrow_speed: null
-charisma: '+8'
-climb_speed: null
+charisma: '+9'
+climb_speed: '20'
 constitution: '+6'
 creature_ability:
-- Attack of Opportunity
-- Aura of Disquietude
-- Bloodbird
-- Change Shape
-- Maintain Fate
-- Souleater
+- Counterspell
+- Discorporate
+- Squirming Embrace
+- Swarm Shape
+- Swarming Bites
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Fey</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 52<br/><b><u>Unspecific Lore</u></b>:
-  DC 50<br/><b><u>Specific Lore</u></b>: DC 47'
-dexterity: '+6'
+dexterity: '+9'
 element: null
-fly_speed: '120'
-fortitude: '+37'
+fly_speed: null
+fortitude: '+31'
 hardness: null
-hp: '385'
-id: '2588'
+hp: '300'
+id: '1720'
 immunity:
-- '[[DATABASE/trait/Curse|curses]]'
-- '[[DATABASE/trait/Death|death]] effects'
-- '[[DATABASE/condition/Drained|drained]]'
-- '[[DATABASE/trait/Fear|fear]]'
+- '[[DATABASE/trait/Disease|disease]]'
+- '[[DATABASE/condition/Paralyzed|paralyzed]]'
+- '[[DATABASE/trait/Poison|poison]]'
+- precision
+- '[[DATABASE/monsterability/Swarm Mind|swarm mind]]'
+- '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '+5'
-land_speed: '40'
+land_speed: '30'
 language:
+- '[[DATABASE/language/Abyssal|Abyssal]]'
+- '[[DATABASE/language/Akitonian|Akitonian]]'
 - '[[DATABASE/language/Aklo|Aklo]]'
 - '[[DATABASE/language/Common|Common]]'
 - '[[DATABASE/language/Infernal|Infernal]]'
-- '[[DATABASE/language/Sylvan|Sylvan]] ; [[DATABASE/spell/Tongues|tongues]]'
-level: '21'
-max_speed: '120'
-name: The Keeper
-perception: '+36'
+level: '19'
+max_speed: '30'
+name: The King of Biting Ants
+perception: '+32'
 rarity: Unique
-reflex: '+35'
-resistance: null
+reflex: '+36'
+resistance:
+- physical 15
 rus_type_level: null
 school: null
 sense:
-- '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
-- '[[DATABASE/spell/True Seeing|true seeing]]'
+- '[[DATABASE/monsterability/Darkvision|darkvision]]'
+- '[[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) 30 feet'
 size: Medium
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +37'
-- '[[DATABASE/skill/Athletics|Athletics]] +39'
-- '[[DATABASE/skill/Deception|Deception]] +39'
-- '[[DATABASE/skill/Lore|Heraldry Lore]] +34'
-- '[[DATABASE/skill/Society|Society]] +36'
-- '[[DATABASE/skill/Stealth|Stealth]] +35'
-- '[[DATABASE/skill/Lore|Warfare Lore]] +36'
-source: '[[DATABASE/source/Pathfinder 192. Worst of All Possible Worlds|Pathfinder
-  #192: Worst of All Possible Worlds]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +36'
+- '[[DATABASE/skill/Arcana|Arcana]] +34'
+- '[[DATABASE/skill/Crafting|Crafting]] +34'
+- '[[DATABASE/skill/Deception|Deception]] +38'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +38'
+- '[[DATABASE/skill/Occultism|Occultism]] +34'
+- '[[DATABASE/skill/Society|Society]] +32'
+- '[[DATABASE/skill/Stealth|Stealth]] +36'
+source: '[[DATABASE/source/Pathfinder 173. Doorway to the Red Star|Pathfinder #173:
+  Doorway to the Red Star]]'
 speed:
-- 40 feet
-- fly 120 feet
+- 30 feet
+- climb 20 feet
 spell:
-- '[[DATABASE/spell/Crushing Despair|Crushing Despair]]'
-- '[[DATABASE/spell/Ethereal Jaunt|Ethereal Jaunt]]'
+- '[[DATABASE/spell/Black Tentacles|Black Tentacles]]'
+- '[[DATABASE/spell/Charm|Charm]]'
+- '[[DATABASE/spell/Comprehend Language|Comprehend Language]]'
+- '[[DATABASE/spell/Daze|Daze]]'
+- '[[DATABASE/spell/Detect Magic|DetectMagic]]'
+- '[[DATABASE/spell/Dimension Door|Dimension Door]]'
+- '[[DATABASE/spell/Disappearance|Disappearance]]'
+- '[[DATABASE/spell/Dispel Magic|Dispel Magic]]'
+- '[[DATABASE/spell/Dominate|Dominate]]'
+- '[[DATABASE/spell/Dream Message|Dream Message]]'
+- '[[DATABASE/spell/Foresight|Foresight]]'
+- '[[DATABASE/spell/Haste|Haste]]'
+- '[[DATABASE/spell/Hypercognition|Hypercognition]]'
+- '[[DATABASE/spell/Illusory Creature|Illusory Creature]]'
+- '[[DATABASE/spell/Illusory Disguise|Illusory Disguise]]'
+- '[[DATABASE/spell/Light|Light]]'
+- '[[DATABASE/spell/Mage Hand|MageHand]]'
+- '[[DATABASE/spell/Maze|Maze]]'
+- '[[DATABASE/spell/Mind Blank|Mind Blank]]'
+- '[[DATABASE/spell/Mind Probe|Mind Probe]]'
+- '[[DATABASE/spell/Mindlink|Mindlink]]'
+- '[[DATABASE/spell/Mirror Image|MirrorImage]]'
 - '[[DATABASE/spell/Modify Memory|Modify Memory]]'
-- '[[DATABASE/spell/Outcast''s Curse|Outcast''s Curse]]'
+- '[[DATABASE/spell/Paranoia|Paranoia]]'
+- '[[DATABASE/spell/Phantasmal Killer|Phantasmal Killer]]'
+- '[[DATABASE/spell/Phantom Pain|Phantom Pain]]'
+- '[[DATABASE/spell/Prismatic Wall|Prismatic Wall]]'
+- '[[DATABASE/spell/Ray of Enfeeblement|Ray of Enfeeblement]]'
+- '[[DATABASE/spell/Shield|Shield]]'
+- '[[DATABASE/spell/Slow|Slow]]'
+- '[[DATABASE/spell/Subconscious Suggestion|Subconscious Suggestion]]'
 - '[[DATABASE/spell/Suggestion|Suggestion]]'
-- '[[DATABASE/spell/Tongues|Tongues]]'
-- '[[DATABASE/spell/True Seeing|True Seeing]]'
-strength: '+8'
-strength_req: '8'
+- '[[DATABASE/spell/Teleport|Teleport]]'
+- '[[DATABASE/spell/Time Stop|TimeStop]]'
+- '[[DATABASE/spell/Undetectable Alignment|Undetectable Alignment]]'
+- '[[DATABASE/spell/Veil|Veil]]'
+- '[[DATABASE/spell/Visions of Danger|Visions ofDanger]]'
+- '[[DATABASE/spell/Wail of the Banshee|Wail of the Banshee]]'
+- '[[DATABASE/spell/Warp Mind|Warp Mind]]'
+- '[[DATABASE/spell/Weird|Weird]]'
+strength: '+5'
+strength_req: '5'
 strongest_save:
-- Fortitude
+- Reflex
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Fey|Fey]]'
+- '[[DATABASE/trait/Aberration|Aberration]]'
+- '[[DATABASE/trait/Swarm|Swarm]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: Greater darkvision
+vision: Darkvision
 weakest_save:
-- Will
+- Fortitude
 weakness:
-- '[[DATABASE/equipment/Cold Iron Weapon|cold iron]] 20'
+- area damage 15
+- '[[DATABASE/trait/Splash|splash]] damage 15'
 will: '+32'
 wisdom: '+5'
 

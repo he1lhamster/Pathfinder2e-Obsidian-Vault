@@ -9,10 +9,6 @@ constitution: '+1'
 creature_ability:
 - Arc Lightning
 creature_family: '[[DATABASE/monsterfamily/Elemental, Air|Elemental, Air]]'
-description: 'Spark bats congregate around volatile weather in the Plane of Air.<br/><br/><b><u>Recall
-  Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 16<br/><b><u>Unspecific Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>:
-  DC 11'
 dexterity: '+3'
 element: Air
 fly_speed: '50'

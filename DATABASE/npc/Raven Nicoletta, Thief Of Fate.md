@@ -1,73 +1,113 @@
 ﻿---
-ac: '29'
-alignment: CE
+ac: '44'
+alignment: NE
 all_resistance: null
 burrow_speed: null
-charisma: '+3'
+charisma: '+9'
 climb_speed: null
 constitution: '+2'
 creature_ability:
-- Go for the Eyes
-- Opportunistic Attack
-- Quick Spiker
-- Snap Shot
+- Bloodline Magic
+- Harrow Burst
+- Reclaimed Fate
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 37<br/><b><u>Unspecific
-  Lore</u></b>: DC 35<br/><b><u>Specific Lore</u></b>: DC 32'
 dexterity: '+5'
 element: null
-fly_speed: '25'
-fortitude: '+16'
-hp: '175'
-id: '2545'
+fly_speed: null
+fortitude: '+30'
+hp: '370'
+id: '2594'
 immunity: null
-intelligence: '+0'
+intelligence: '+3'
 land_speed: '25'
 language:
-- '[[DATABASE/language/Abyssal|Abyssal]]'
-- '[[DATABASE/language/Razatlani|Razatlani]]'
-- '[[DATABASE/language/Tengu|Tengu]]'
-level: '10'
+- '[[DATABASE/language/Common|Common]]'
+- '[[DATABASE/language/Daemonic|Daemonic]]'
+- '[[DATABASE/language/Skald|Skald]]'
+- '[[DATABASE/language/Varisian|Varisian]]'
+level: '20'
 max_speed: '25'
-name: Raskus
-perception: '+18'
+name: Raven Nicoletta
+perception: '+33'
 rarity: Unique
-reflex: '+21'
+reflex: '+33'
 resistance: null
 rus_type_level: null
-sense:
-- '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
+sense: null
 size: Medium
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +21'
-- '[[DATABASE/skill/Athletics|Athletics]] +19'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +19'
-- '[[DATABASE/skill/Religion|Religion]] +18'
-- '[[DATABASE/skill/Stealth|Stealth]] +21'
-source: '[[DATABASE/source/Pathfinder 190. The Choosing|Pathfinder #190: The Choosing]]'
+- '[[DATABASE/skill/Arcana|Arcana]] +31'
+- '[[DATABASE/skill/Deception|Deception]] +41'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +37'
+- '[[DATABASE/skill/Lore|Fortune-Telling Lore]] +33'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +35'
+- '[[DATABASE/skill/Occultism|Occultism]] +33'
+- '[[DATABASE/skill/Performance|Performance]] +31'
+- '[[DATABASE/skill/Society|Society]] +31'
+source: '[[DATABASE/source/Pathfinder 192. Worst of All Possible Worlds|Pathfinder
+  #192: Worst of All Possible Worlds]]'
 speed:
 - 25 feet
-- fly 25 feet
 spell:
+- '[[DATABASE/spell/Alter Reality|Alter Reality]]'
+- '[[DATABASE/spell/Augury|Augury]]'
 - '[[DATABASE/spell/Blindness|Blindness]]'
-- '[[DATABASE/spell/Earthbind|Earthbind]]'
-strength: '+3'
-strength_req: '3'
+- '[[DATABASE/spell/Blink|Blink]]'
+- '[[DATABASE/spell/Blur|Blur]]'
+- '[[DATABASE/spell/Cloak of Colors|Cloak of Colors]]'
+- '[[DATABASE/spell/Color Spray|Color Spray]]'
+- '[[DATABASE/spell/Confusion|Confusion]]'
+- '[[DATABASE/spell/Daze|Daze]]'
+- '[[DATABASE/spell/Detect Magic|DetectMagic]]'
+- '[[DATABASE/spell/Discern Location|Discern Location]]'
+- '[[DATABASE/spell/Dispel Magic|Dispel Magic]]'
+- '[[DATABASE/spell/Feeblemind|Feeblemind]]'
+- '[[DATABASE/spell/Fly|Fly]]'
+- '[[DATABASE/spell/Foresight|Foresight]]'
+- '[[DATABASE/spell/Gate|Gate]]'
+- '[[DATABASE/spell/Hideous Laughter|Hideous Laughter]]'
+- '[[DATABASE/spell/Hypnotic Pattern|Hypnotic Pattern]]'
+- '[[DATABASE/spell/Ill Omen|Ill Omen]]'
+- '[[DATABASE/spell/Mage Hand|Mage Hand]]'
+- '[[DATABASE/spell/Maze|Maze]]'
+- '[[DATABASE/spell/Mirror Image|MirrorImage]]'
+- '[[DATABASE/spell/Paralyze|Paralyze]]'
+- '[[DATABASE/spell/Phantasmal Killer|Phantasmal Killer]]'
+- '[[DATABASE/spell/Prismatic Spray|Prismatic Spray]]'
+- '[[DATABASE/spell/Ray of Enfeeblement|Ray of Enfeeblement]]'
+- '[[DATABASE/spell/Retrocognition|Retrocognition]]'
+- '[[DATABASE/spell/Shadow Blast|Shadow Blast]]'
+- '[[DATABASE/spell/Shadow Siphon|Shadow Siphon]]'
+- '[[DATABASE/spell/Shield|Shield]]'
+- '[[DATABASE/spell/Spirit Blast|Spirit Blast]]'
+- '[[DATABASE/spell/Suggestion|Suggestion]]'
+- '[[DATABASE/spell/Synesthesia|Synesthesia]]'
+- '[[DATABASE/spell/Telekinetic Projectile|Telekinetic Projectile]]'
+- '[[DATABASE/spell/Teleport|Teleport]]'
+- '[[DATABASE/spell/True Seeing|TrueSeeing]]'
+- '[[DATABASE/spell/True Strike|True Strike]]'
+- '[[DATABASE/spell/Uncontrollable Dance|Uncontrollable Dance]]'
+- '[[DATABASE/spell/Unrelenting Observation|Unrelenting Observation]]'
+- '[[DATABASE/spell/Wail of the Banshee|Wail of theBanshee]]'
+- '[[DATABASE/spell/Wanderer''s Guide|Wanderer''s Guide]]'
+- '[[DATABASE/spell/Warp Mind|Warp Mind]]'
+- '[[DATABASE/spell/Weird|Weird]]'
+strength: '+0'
+strength_req: '0'
 strongest_save:
-- Reflex
+- Will
 swim_speed: null
 trait:
+- '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
-- '[[DATABASE/trait/Tengu|Tengu]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: Low-light vision
+vision: null
 weakest_save:
 - Fortitude
 weakness: null
-will: '+18'
-wisdom: '+2'
+will: '+35'
+wisdom: '+5'
 
 ---
 # Raven Nicoletta, Thief Of Fate

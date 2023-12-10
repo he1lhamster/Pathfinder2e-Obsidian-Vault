@@ -11,20 +11,6 @@ creature_ability:
 - Mold Mulch
 - Seed Spray
 creature_family: null
-description: "Calathgars are mysterious predatory plants that grow in the depths of\
-  \ the densest frozen forests, realms where icicles rarely melt from snow-cloaked\
-  \ trees. A calathgar's blue flowers grow from 3 to 5 feet across (with specimens\
-  \ as wide as 10 feet reported), while the plant itself stands just under 4 feet\
-  \ in height and weighs up to 50 pounds when heavy with seeds.<br/><br/>Calathgars'\
-  \ psyches are alien to most sapient creatures. They have little interest in emotion,\
-  \ culture, or ambition, yet they have nearly flawless memories and can share experiences\
-  \ with other calathgars by scent (perceptible to other creatures as a vinegary odor\
-  \ that may reveal their presence) as easily as humanoids can pass on information\
-  \ by speech. While calathgars themselves can't speak, they can typically be reasoned\
-  \ with\u2014though like most protective parents, an incensed calathgar defending\
-  \ its young is rarely in a mood to listen.<br/><br/><b><u>Recall Knowledge - Plant</u>\
-  \ ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 19<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 17<br/><b><u>Specific Lore</u></b>: DC 14"
 dexterity: '+5'
 element: null
 fly_speed: null

@@ -10,15 +10,6 @@ creature_ability:
 - Blood Feast
 - Echolocation
 creature_family: '[[DATABASE/monsterfamily/Bat|Bat]]'
-description: "Although the typical vampire bat has a wingspan of 7 inches and doesn\u2019\
-  t pose a significant threat to larger prey alone (and indeed, these blood-drinkers\
-  \ can feed without their sleeping victims ever noticing), some unusually aggressive\
-  \ species of these bats hunt in deadly swarms. A churning cloud of vampire bats\
-  \ is much more dangerous than the sum of its individual parts and is capable of\
-  \ inflicting an overwhelming number of bleeding wounds in a frighteningly short\
-  \ span of time.<br/><br/><b><u>Recall Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 15<br/><b><u>Unspecific Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>:\
-  \ DC 10"
 dexterity: '+4'
 element: null
 fly_speed: '30'

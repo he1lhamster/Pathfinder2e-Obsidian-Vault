@@ -1,69 +1,51 @@
 ﻿---
-ac: '18'
-alignment: N
+ac: null
+alignment: null
 all_resistance: null
 burrow_speed: null
-charisma: '-1'
-climb_speed: '20'
-constitution: '+2'
-creature_ability:
-- Hurl Net
-- Jungle Stride
-creature_family: '[[DATABASE/monsterfamily/Grippli|Grippli]]'
-description: 'Grippli scouts typically keep watch on the outskirts of grippli settlements.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 15<br/><b><u>Unspecific
-  Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>: DC 10'
-dexterity: '+4'
+charisma: null
+climb_speed: null
+constitution: null
+creature_ability: null
+creature_family: null
+dexterity: null
 element: null
 fly_speed: null
-fortitude: '+7'
+fortitude: null
 hardness: null
-hp: '20'
-id: '693'
+hp: null
+id: '447'
 immunity: null
-intelligence: '+0'
-land_speed: '25'
-language:
-- '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Grippli|Grippli]]'
-level: '1'
-max_speed: '25'
+intelligence: null
+land_speed: null
+language: null
+level: null
+max_speed: null
 name: Grippli Scout
-perception: '+8'
-rarity: Common
-reflex: '+9'
+perception: null
+rarity: null
+reflex: null
 resistance: null
 rus_type_level: null
 school: null
-sense:
-- '[[DATABASE/monsterability/Darkvision|darkvision]]'
-size: Small
-skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +7'
-- '[[DATABASE/skill/Athletics|Athletics]] +4'
-- '[[DATABASE/skill/Nature|Nature]] +6'
-- '[[DATABASE/skill/Stealth|Stealth]] +7'
-- '[[DATABASE/skill/Survival|Survival]] +6'
-source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
-speed:
-- 25 feet
-- climb 20 feet; jungle stride
+sense: null
+size: null
+skill: null
+source: '[[DATABASE/source/Pathfinder 146. Cult of Cinders|Pathfinder #146: Cult of
+  Cinders]]'
+speed: null
 spell: null
-strength: '+1'
-strength_req: '1'
-strongest_save:
-- Reflex
+strength: null
+strength_req: null
+strongest_save: null
 swim_speed: null
-trait:
-- '[[DATABASE/trait/Grippli|Grippli]]'
-- '[[DATABASE/trait/Humanoid|Humanoid]]'
-type: Creature
-vision: Darkvision
-weakest_save:
-- Will
+trait: null
+type: null
+vision: null
+weakest_save: null
 weakness: null
-will: '+6'
-wisdom: '+3'
+will: null
+wisdom: null
 
 ---
 # Grippli Scout

@@ -14,15 +14,6 @@ creature_ability:
 - Exhale Miasma
 - Sound Imitation
 creature_family: '[[DATABASE/monsterfamily/Hag|Hag]]'
-description: "Green hags hate beauty and purity, so they use disguises and treachery\
-  \ to lure and murder innocents, corrupt the pure of heart, and shatter the minds\
-  \ and morals of their victims. Green hags create imaginative schemes to utterly\
-  \ ruin anyone who crosses them, as well as good or righteous folk whose very existence\
-  \ insults the hag\u2019s twisted sensibilities. The complicated scandals perpetuated\
-  \ by green hags involve impersonation, mistaken identity, the seduction and betrayal\
-  \ of loved ones, or all these things in combination.<br/><br/><b><u>Recall Knowledge\
-  \ - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 19<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 17<br/><b><u>Specific Lore</u></b>: DC 14"
 dexterity: '+3'
 element: null
 fly_speed: null

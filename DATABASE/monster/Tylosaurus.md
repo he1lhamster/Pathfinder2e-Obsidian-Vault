@@ -12,11 +12,6 @@ creature_ability:
 - Swallow Whole
 - Vicious Strafe
 creature_family: '[[DATABASE/monsterfamily/Mosasaur|Mosasaur]]'
-description: "Though large in size\u2014sometimes exceeding 40 feet\u2014tylosauruses\
-  \ have sleek bodies and long, narrow snouts. Few creatures compete with them in\
-  \ their environment, as most other aquatic giants reside in deeper water.<br/><br/><b><u>Recall\
-  \ Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 24<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 22<br/><b><u>Specific Lore</u></b>: DC 19"
 dexterity: '+5'
 element: null
 fly_speed: null

@@ -13,14 +13,6 @@ creature_ability:
 - Ghoul Fever
 - Paralyzing Spew
 creature_family: '[[DATABASE/monsterfamily/Ghoul|Ghoul]]'
-description: 'Feared by mariners and coastal dwellers everywhere, the aquatic ghouls
-  known as lacedons are said to be the spawn of an ancient crew of sailors who became
-  lost at sea and were forced to resort to cannibalism to survive. Their appearance
-  is the stuff of a diver''s nightmare, supplementing the vicious traits of their
-  land-bound kin with spines, fins, and wide mouths bristling with needle-sharp teeth
-  like piscine predators of the nethermost ocean depths.<br/><br/><b><u>Recall Knowledge
-  - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 16<br/><b><u>Unspecific
-  Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>: DC 11'
 dexterity: '+4'
 element: null
 fly_speed: null

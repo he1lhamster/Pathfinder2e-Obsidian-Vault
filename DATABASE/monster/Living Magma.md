@@ -14,12 +14,6 @@ creature_ability:
 - Trap Weapon
 - Volcanic Heat
 creature_family: '[[DATABASE/monsterfamily/Elemental, Fire|Elemental, Fire]]'
-description: 'Living magmas can lie dormant for centuries below the earth before they
-  awaken from their slumber in a fiery a volcanic eruption. This is especially dangerous
-  when entire colonies of the molten elementals arise at the same time.<br/><br/><b><u>Recall
-  Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 31<br/><b><u>Unspecific Lore</u></b>: DC 29<br/><b><u>Specific Lore</u></b>:
-  DC 26'
 dexterity: '+5'
 element: Fire
 fly_speed: null

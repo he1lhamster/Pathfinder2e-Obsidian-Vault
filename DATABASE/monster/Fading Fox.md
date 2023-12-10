@@ -13,12 +13,6 @@ creature_ability:
 - Trackless Step
 - Vanish into the Wilds
 creature_family: '[[DATABASE/monsterfamily/Fox|Fox]]'
-description: 'With fur that shifts between hues of red, dull brown, and silver as
-  it moves, the fading fox vexes any pursuer. It has a knack for escaping traps, leaves
-  no footprints, and seemingly disappears into thin air. Fading foxes have lustrous
-  fur and a robust build that set them apart from their red fox progenitors.<br/><br/><b><u>Recall
-  Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 16<br/><b><u>Unspecific
-  Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>: DC 11'
 dexterity: '+4'
 element: null
 fly_speed: null

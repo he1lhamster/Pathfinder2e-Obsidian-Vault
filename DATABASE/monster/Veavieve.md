@@ -8,9 +8,6 @@ climb_speed: null
 constitution: '+1'
 creature_ability: null
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Fey</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 32<br/><b><u>Unspecific Lore</u></b>:
-  DC 30<br/><b><u>Specific Lore</u></b>: DC 27'
 dexterity: '+5'
 element: null
 fly_speed: null

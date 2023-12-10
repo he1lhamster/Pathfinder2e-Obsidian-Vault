@@ -13,24 +13,6 @@ creature_ability:
 - Lizard Frill
 - Refold
 creature_family: null
-description: "Magic can be used for many purposes\u2014creating objects, summoning\
-  \ creatures, and manipulating the elements. Usually when a ritual is cast, the outcome\
-  \ is reliable and predictable, but sometimes magic takes unexpected turns and a\
-  \ spell's energy lands in unintended places.<br/><br/> Spellskeins are scraps of\
-  \ fabric and paper infused with magic and brought to life. Once animated, they fold\
-  \ themselves into different shapes, changing both their appearance and their abilities\
-  \ based on their configuration. Spellskeins are only rarely aggressive and sometimes\
-  \ downright timid, but most have a playful streak.<br/><br/> Though they are often\
-  \ made accidentally out of magical leakage from rituals, some ritualists intentionally\
-  \ create spellskeins to serve as magical toys or animated decor. These planned spellskeins\
-  \ tend to be more obedient and less mischievous than their accidental counterparts,\
-  \ following commands or routines set by their creators even after said creators\
-  \ are long gone.<br/><br/> Scrap pieces torn from the body of a spellskein sometimes\
-  \ animate as ever smaller, more mischievous constructs, which usually dart away\
-  \ to hide until it's safe to come out and cause trouble.<br/><br/><b><u>Recall Knowledge\
-  \ - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]]\
-  \ )</b>: DC 16<br/><b><u>Unspecific Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>:\
-  \ DC 11"
 dexterity: '+3'
 element: null
 fly_speed: null

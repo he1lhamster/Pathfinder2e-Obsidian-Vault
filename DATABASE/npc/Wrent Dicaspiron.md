@@ -14,31 +14,6 @@ creature_ability:
 - Flay
 - Hook and Flay
 creature_family: null
-description: "The sadistic leader of Absalom's most recent\u2014and perhaps most successful\u2014\
-  cult dedicated to the dreaded Skinsaw Man, Wrent \u201Cthe Skinner\u201D Dicaspiron\
-  \ is also one of the members of a secret cabal of powerful [[DATABASE/deity/Norgorber|Norgorberites]]\
-  \ called the Twilight Four.<br/><br/> The story of how Dicaspiron became the Skinner\
-  \ began not long ago. Until the Fiendflesh Siege of 4717 AR, Wrent Dicaspiron was\
-  \ the stern but mirthful matriarch of her small family in the Docks District. She,\
-  \ her husband, and their son jointly managed a small butchery based out of their\
-  \ home, though everyone in the neighborhood knew it was really Wrent who kept the\
-  \ business afloat. She let her husband and child work alongside her only because\
-  \ she adored their company and was devastated when they both died defending Absalom\
-  \ from invaders during the siege.<br/><br/> Dicaspiron spiraled into reclusive despondency,\
-  \ shutting out her former friends and neighbors, responding to those who tried to\
-  \ help with silence or hostile rebukes, and allowing her business to flounder. Her\
-  \ life was soon in shambles.<br/><br/> One day, a tax collector knocked on Dicaspiron's\
-  \ door and informed her that she owed the city a considerable sum in back taxes.\
-  \ If she couldn't pay, she would need to surrender her shop\u2014her home. As if\
-  \ by reflex, she snatched a meat hook and drove it through the tax collector's skull\
-  \ with one deft blow. As the man perished on her kitchen floor, something died inside\
-  \ of Dicaspiron as well. Where once love and generosity had filled her heart, now\
-  \ only a cruel whisper murmured from somewhere deep within. She used a carving knife\
-  \ to calmly remove the slain tax collector's face, slowly raised the gruesome mask\
-  \ up, and saw the visage of her new master through its empty eyes. With the guidance\
-  \ of the Skinsaw Man, Dicaspiron made a new home in the ruins of a remote corner\
-  \ of Absalom's vast Catacombs, from which she made forays into the city to murder\
-  \ innocents and recruit fellow sadists and devotees of Norgorber."
 dexterity: '+4'
 element: null
 fly_speed: null

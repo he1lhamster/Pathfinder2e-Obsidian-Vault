@@ -11,14 +11,6 @@ creature_ability:
 - Extend Vines
 - Verdant Burst
 creature_family: '[[DATABASE/monsterfamily/Leshy|Leshy]]'
-description: 'Irrepressible vine leshys love to explore and collect tales to share.
-  They''re curious without being reckless. Other cultures interest them greatly, and
-  they can build friendships quickly as they trade stories with traveling companions.
-  They also feel a pull toward protection, much like other leshys. Vine leshys, though,
-  tend to protect a ward for only a brief period of danger before the leshy''s wanderlust
-  drives them onward into the unknown.<br/><br/><b><u>Recall Knowledge - Plant</u>
-  ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 14<br/><b><u>Unspecific Lore</u></b>:
-  DC 12<br/><b><u>Specific Lore</u></b>: DC 9'
 dexterity: '+1'
 element: null
 fly_speed: null

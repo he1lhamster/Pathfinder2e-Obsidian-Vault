@@ -10,9 +10,6 @@ creature_ability:
 - Pour Down Throat
 - Swarming Bites
 creature_family: '[[DATABASE/monsterfamily/Sportlebore|Sportlebore]]'
-description: 'A swarm of sportlebores is a much more dangerous foe than a single insect.<br/><br/><b><u>Recall
-  Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 23<br/><b><u>Unspecific
-  Lore</u></b>: DC 21<br/><b><u>Specific Lore</u></b>: DC 18'
 dexterity: '+6'
 element: null
 fly_speed: '35'

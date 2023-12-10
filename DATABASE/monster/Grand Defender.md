@@ -15,22 +15,6 @@ creature_ability:
 - ''
 - Vulnerable to Rust
 creature_family: null
-description: 'Hand-carved by the Father of Creation himself and strengthened by the
-  souls of history''s most heroic dwarves, the Grand Defender serves as [[DATABASE/deity/Torag|Torag''s]]
-  herald across the planes. While a true messenger of a deity, the Grand Defender
-  manifests itself in a unique way to other heralds. The chassis of the Grand Defender
-  exists within Forgeheart, Torag''s subterranean realm in [[DATABASE/plane/Heaven|Heaven]]
-  . This frame is empty, however, and can only serve basic functions, much like a
-  [[DATABASE/monsterfamily/Golem|golem]] . When faithful call upon the Grand Defender,
-  Torag rouses the construct with spirits. As the might of the Grand Defender comes
-  from Torag''s will and the power of the souls within, the Grand Defender can take
-  on any number of forms. Torag can send these spirits to alter any sufficiently sized
-  statue of a dwarven ancestor. This process temporarily converts the carving into
-  the Grand Defender itself, complete with its abilities and equipment.<br/><br/><b><u>Recall
-  Knowledge - Celestial</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 44<br/><b><u>Recall
-  Knowledge - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]]
-  )</b>: DC 44<br/><b><u>Unspecific Lore</u></b>: DC 42<br/><b><u>Specific Lore</u></b>:
-  DC 39'
 dexterity: '+2'
 element: null
 fly_speed: null

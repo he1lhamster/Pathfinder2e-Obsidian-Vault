@@ -1,87 +1,74 @@
 ﻿---
-ac: '21'
-alignment: CG
+ac: '27'
+alignment: N
 all_resistance: null
 burrow_speed: null
-charisma: '+3'
+charisma: '+0'
 climb_speed: null
-constitution: '+2'
+constitution: '+3'
 creature_ability:
-- Advancing Flourish
-- Deny Advantage
-- Sneak Attack
-creature_family: '[[DATABASE/monsterfamily/Firebrands|Firebrands]]'
-description: '<i>This handsome gnome sports an impressive coiffure and a flashy costume
-  that catches the eye.</i><br/><br/>While most Firebrands enjoy the attention their
-  exploits bring, the charming scoundrel takes this to extremes, often boasting about
-  their daring exploits and attempting to parlay stories of their notorious deeds
-  into free drinks or lodging. The scoundrel sees little harm in taking credit for
-  any activities attributed to the organization, provided that intervention from local
-  law enforcement seems unlikely. They are likely to take on high-profile jobs for
-  the Firebrands just for the thrill of later recounting the narrow scrapes of their
-  adventure.<br/><br/> The charming scoundrel is as dramatic in combat as outside
-  of it, often darting from opponent to opponent and disorienting foes with flashy
-  swordplay. If a battle is going well, the scoundrel will often shout taunts at slow-footed
-  opponents or encouragement to allies. While prideful and competitive, the scoundrel
-  is a pragmatist at heart and will opt to add a tale of a cunning escape to their
-  repertoire if the odds seem stacked against them.<br/><br/><b><u>Recall Knowledge
-  - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 19<br/><b><u>Unspecific
-  Lore</u></b>: DC 17<br/><b><u>Specific Lore</u></b>: DC 14'
+- Animalistic Resistance
+- Change Shape
+- Flurry of Blows
+- Flying Kick
+- Pack Tactics
+- Powerful Fists
+- Quick Change
+creature_family: null
 dexterity: '+4'
 element: null
 fly_speed: null
-fortitude: '+9'
-hp: '54'
-id: '965'
+fortitude: '+18'
+hp: '155'
+id: '1053'
 immunity: null
-intelligence: '+1'
-land_speed: '25'
+intelligence: '+0'
+land_speed: '40'
 language:
 - '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Sylvan|Sylvan]]'
-level: '4'
-max_speed: '25'
-name: Charming Scoundrel
-perception: '+8'
-rarity: Common
-reflex: '+13'
+- '[[DATABASE/language/Vudrani|Vudrani]]'
+level: '9'
+max_speed: '40'
+name: Chea
+perception: '+18'
+rarity: Unique
+reflex: '+21'
 resistance: null
 rus_type_level: null
-sense:
-- '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
-size: Small
+sense: null
+size: Medium
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +12'
-- '[[DATABASE/skill/Athletics|Athletics]] +7'
-- '[[DATABASE/skill/Deception|Deception]] +11'
-- '[[DATABASE/skill/Diplomacy|Diplomacy]] +9'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +9'
-- '[[DATABASE/skill/Medicine|Medicine]] +9'
-- '[[DATABASE/skill/Performance|Performance]] +9'
-- '[[DATABASE/skill/Society|Society]] +7'
-- '[[DATABASE/skill/Stealth|Stealth]] +10'
-- '[[DATABASE/skill/Lore|Theater Lore]] +7'
-- '[[DATABASE/skill/Thievery|Thievery]] +10'
-source: '[[DATABASE/source/Character Guide|Character Guide]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +20'
+- '[[DATABASE/skill/Athletics|Athletics]] +18'
+- '[[DATABASE/skill/Occultism|Occultism]] +13'
+- '[[DATABASE/skill/Religion|Religion]] +16'
+- '[[DATABASE/skill/Stealth|Stealth]] +18'
+- '[[DATABASE/skill/Lore|Warfare Lore]] +13'
+source: '[[DATABASE/source/No-Prep Character. Chea|No-Prep Character: Chea]]'
 speed:
-- 25 feet
-spell: null
-strength: '+1'
-strength_req: '1'
+- 40 feet
+spell:
+- '[[DATABASE/spell/Ki Rush|Ki Rush]]'
+- '[[DATABASE/spell/Ki Strike|KiStrike]]'
+- '[[DATABASE/spell/Unfolding Wind Rush|Unfolding Wind Rush]]'
+- '[[DATABASE/spell/Wild Winds Stance|Wild Winds Stance]]'
+strength: '+3'
+strength_req: '3'
 strongest_save:
 - Reflex
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Gnome|Gnome]]'
+- '[[DATABASE/trait/Beast|Beast]]'
+- '[[DATABASE/trait/Beastkin|Beastkin]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
+- '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: Low-light vision
+vision: null
 weakest_save:
-- Fortitude
 - Will
 weakness: null
-will: '+9'
-wisdom: '+0'
+will: '+15'
+wisdom: '+2'
 
 ---
 # Chea, Student Of Unfolding Wind

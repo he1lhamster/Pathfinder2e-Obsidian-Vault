@@ -16,12 +16,6 @@ creature_ability:
 - Tunneler
 - Swallow Whole
 creature_family: null
-description: 'A servant of [[DATABASE/deity/Torag|Torag]] , Stoneriver resembles a
-  pangolin with glowing blue eyes and brassy, rune-covered scales. Stoneriver burrows
-  through Golarion''s mantle and crust as he hunts down subterranean fiends, aids
-  virtuous communities, and defends sacred sites, often collaborating with dwarves.<br/><br/><b><u>Recall
-  Knowledge - Celestial</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 40<br/><b><u>Unspecific
-  Lore</u></b>: DC 38<br/><b><u>Specific Lore</u></b>: DC 35'
 dexterity: '+4'
 element: Fire
 fly_speed: null

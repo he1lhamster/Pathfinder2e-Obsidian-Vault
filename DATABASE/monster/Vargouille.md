@@ -1,56 +1,65 @@
 ﻿---
-ac: null
-alignment: null
+ac: '18'
+alignment: NE
 all_resistance: null
 burrow_speed: null
-charisma: null
+charisma: '+0'
 climb_speed: null
-constitution: null
-creature_ability: null
+constitution: '+2'
+creature_ability:
+- Tenacious Wounds
+- Vargouille's Kiss
+- Vargouille's Shriek
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 16<br/><b><u>Recall Knowledge - Fiend</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 16<br/><b><u>Unspecific Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>:
-  DC 11'
-dexterity: null
+dexterity: '+4'
 element: null
-fly_speed: null
-fortitude: null
+fly_speed: '25'
+fortitude: '+6'
 hardness: null
-hp: null
-id: '2477'
+hp: '28'
+id: '2186'
 immunity: null
-intelligence: null
+intelligence: '-3'
 land_speed: null
-language: null
-level: null
-max_speed: null
+language:
+- '[[DATABASE/language/Daemonic|Daemonic]]'
+level: '2'
+max_speed: '25'
 name: Vargouille
-perception: null
-rarity: null
-reflex: null
+perception: '+8'
+rarity: Rare
+reflex: '+10'
 resistance: null
 rus_type_level: null
 school: null
-sense: null
-size: null
-skill: null
-source: '[[DATABASE/source/Pathfinder 157. Devil at the Dreaming Palace|Pathfinder
-  #157: Devil at the Dreaming Palace]]'
-speed: null
+sense:
+- '[[DATABASE/monsterability/Darkvision|darkvision]]'
+size: Small
+skill:
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +8'
+- '[[DATABASE/skill/Athletics|Athletics]] +4'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +6'
+- '[[DATABASE/skill/Stealth|Stealth]] +8'
+source: '[[DATABASE/source/Crown of the Kobold King|Crown of the Kobold King]]'
+speed:
+- fly 25 feet
 spell: null
-strength: null
-strength_req: null
-strongest_save: null
+strength: '+0'
+strength_req: '0'
+strongest_save:
+- Reflex
 swim_speed: null
-trait: null
-type: null
-vision: null
-weakest_save: null
+trait:
+- '[[DATABASE/trait/Aberration|Aberration]]'
+- '[[DATABASE/trait/Fiend|Fiend]]'
+- '[[DATABASE/trait/Rare|Rare]]'
+type: Creature
+vision: Darkvision
+weakest_save:
+- Fortitude
 weakness: null
-will: null
-wisdom: null
+will: '+8'
+wisdom: '+2'
 
 ---
 # Vargouille

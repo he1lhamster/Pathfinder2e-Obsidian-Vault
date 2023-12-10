@@ -1,98 +1,51 @@
 ﻿---
-ac: '28'
-alignment: CN
+ac: null
+alignment: null
 all_resistance: null
 burrow_speed: null
-charisma: '+3'
+charisma: null
 climb_speed: null
-constitution: '+4'
-creature_ability:
-- Breath Weapon
-- Draconic Frenzy
-- Draconic Momentum
-- Frightful Presence
-- Magma Swim
-- Wing
-- Deflection
-creature_family: '[[DATABASE/monsterfamily/Dragon, Magma|Dragon, Magma]]'
-description: 'Magma dragons have a reputation among other dragons for being unpredictable
-  and brash. Their temperament and tendency for violent outbursts ensure that the
-  typical magma dragon lives a solitary life, with hatchlings often bickering or fighting
-  to establish dominance among themselves before they leave the nest. A magma dragon
-  always has a reason for their outbursts and can always justify their sudden turns
-  in mood, yet they rarely feel the need to do so.<br/><br/>Magma dragons build lairs
-  within volcanically active mountains or deep underground amid vast lakes of bubbling
-  magma. As with all true dragons, magma dragons keep hoards of treasure, but the
-  nature of their searing lairs limits the type of valuables they collect to metals,
-  gems, and items capable of resisting the heat of a volcano''s core.<br/><br/><b><u>Recall
-  Knowledge - Dragon</u> ( [[DATABASE/skill/Arcana|Arcana]] )</b>: DC 28<br/><b><u>Recall
-  Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 28<br/><b><u>Unspecific Lore</u></b>: DC 26<br/><b><u>Specific Lore</u></b>:
-  DC 23'
-dexterity: '+1'
-element: Fire
-fly_speed: '100'
-fortitude: '+19'
+constitution: null
+creature_ability: null
+creature_family: null
+dexterity: null
+element: null
+fly_speed: null
+fortitude: null
 hardness: null
-hp: '175'
-id: '631'
-immunity:
-- fire
-- '[[DATABASE/condition/Paralyzed|paralyzed]]'
-- '[[DATABASE/trait/Sleep|sleep]]'
-intelligence: '+0'
-land_speed: '30'
-language:
-- '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Draconic|Draconic]]'
-- '[[DATABASE/language/Ignan|Ignan]]'
-level: '9'
-max_speed: '100'
+hp: null
+id: '469'
+immunity: null
+intelligence: null
+land_speed: null
+language: null
+level: null
+max_speed: null
 name: Young Magma Dragon
-perception: '+18'
-rarity: Uncommon
-reflex: '+16'
+perception: null
+rarity: null
+reflex: null
 resistance: null
 rus_type_level: null
 school: null
-sense:
-- '[[DATABASE/monsterability/Darkvision|darkvision]]'
-- '[[DATABASE/monsterability/Scent|scent (imprecise) 60 feet]]'
-size: Large
-skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +16'
-- '[[DATABASE/skill/Athletics|Athletics]] +19'
-- '[[DATABASE/skill/Deception|Deception]] +14'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +18'
-- '[[DATABASE/skill/Nature|Nature]] +15'
-- '[[DATABASE/skill/Stealth|Stealth]] +16'
-- '[[DATABASE/skill/Survival|Survival]] +18'
-source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
-speed:
-- 30 feet
-- fly 100 feet
-- swim 30 feet; magma swim
-spell:
-- '[[DATABASE/spell/Burning Hands|Burning Hands]]'
-- '[[DATABASE/spell/Produce Flame|Produce Flame]]'
-strength: '+6'
-strength_req: '6'
-strongest_save:
-- Fortitude
-swim_speed: '30'
-trait:
-- '[[DATABASE/trait/Dragon|Dragon]]'
-- '[[DATABASE/trait/Elemental|Elemental]]'
-- '[[DATABASE/trait/Fire|Fire]]'
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
-type: Creature
-vision: Darkvision
-weakest_save:
-- Reflex
-weakness:
-- cold 10
-will: '+18'
-wisdom: '+3'
+sense: null
+size: null
+skill: null
+source: '[[DATABASE/source/Pathfinder 148. Fires of the Haunted City|Pathfinder #148:
+  Fires of the Haunted City]]'
+speed: null
+spell: null
+strength: null
+strength_req: null
+strongest_save: null
+swim_speed: null
+trait: null
+type: null
+vision: null
+weakest_save: null
+weakness: null
+will: null
+wisdom: null
 
 ---
 # Young Magma Dragon

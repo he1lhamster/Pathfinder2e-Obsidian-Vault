@@ -10,11 +10,6 @@ creature_ability:
 - Sneak Attack
 - Versatile Performance
 creature_family: '[[DATABASE/monsterfamily/Criminals|Criminals]]'
-description: 'Charlatans use pretense and misdirection to swindle money and other
-  valuables from the credulous and confused. Selling snake oil (literally or figuratively),
-  distracting marks to pick their pockets, or faking mediumship are classic grifts.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 18<br/><b><u>Unspecific
-  Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>: DC 13'
 dexterity: '+3'
 element: null
 fly_speed: null

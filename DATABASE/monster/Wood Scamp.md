@@ -10,16 +10,6 @@ creature_ability:
 - Breathe Pollen
 - Thorn Puncture
 creature_family: '[[DATABASE/monsterfamily/Elemental, Mephit|Elemental, Mephit]]'
-description: 'A wood scamp''s veiny, bat-like wings mimic the lamina and venules of
-  a leaf. This, along with their stout green torsos and limbs, enables them to easily
-  blend into the branches of a living tree. They''re unusually social for scamps and
-  prefer to work in groups when possible. By their nature, they find their home plane
-  rather boring, and many of them are abuzz with excitement as the plane reopens.
-  They''re eager to travel to new places where they can cause mischief.<br/><br/><b><u>Recall
-  Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 15<br/><b><u>Recall Knowledge - Plant</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 15<br/><b><u>Unspecific Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>:
-  DC 10'
 dexterity: '+1'
 element: Wood
 fly_speed: '25'

@@ -10,18 +10,6 @@ creature_ability:
 - Snake Search
 - Speak With Snakes
 creature_family: '[[DATABASE/monsterfamily/Stheno|Stheno]]'
-description: 'With living snakes for hair, sthenos, who are descended from [[DATABASE/monster/Medusa|medusas]]
-  , are a curious and independent ancestry. A newly emergent people, sthenos have
-  existed for just barely over a century. Only a few generations have passed since
-  their genesis, and some adult sthenos remember members of the original generation.
-  Indeed, since sthenos can live about as long as [[DATABASE/ancestry/Human|humans]]
-  , a few of the original sthenos might yet live somewhere. As a people without a
-  traditional homeland, sthenos seek to find societies that welcome them, which can
-  be a challenging endeavor. With more than a passing resemblance to medusas, given
-  their ophidian hair and striking features, they find most places are wary if not
-  outright hostile to their presence.<br/><br/><b><u>Recall Knowledge - Humanoid</u>
-  ( [[DATABASE/skill/Society|Society]] )</b>: DC 20<br/><b><u>Unspecific Lore</u></b>:
-  DC 18<br/><b><u>Specific Lore</u></b>: DC 15'
 dexterity: '+2'
 element: null
 fly_speed: null

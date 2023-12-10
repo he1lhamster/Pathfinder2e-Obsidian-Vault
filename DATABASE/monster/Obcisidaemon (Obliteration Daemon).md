@@ -1,71 +1,85 @@
 ﻿---
-ac: '16'
-alignment: LN
+ac: '43'
+alignment: NE
 all_resistance: null
 burrow_speed: null
-charisma: '+0'
+charisma: '+7'
 climb_speed: null
-constitution: '+0'
+constitution: '+8'
 creature_ability:
-- Wild Shape
-creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 19<br/><b><u>Unspecific
-  Lore</u></b>: DC 17<br/><b><u>Specific Lore</u></b>: DC 14'
+- Attack of Opportunity
+- Cloak of Souls
+- Consume Soul
+- Inherit Soul
+- Scorched Earth
+creature_family: '[[DATABASE/monsterfamily/Daemon|Daemon]]'
 dexterity: '+4'
 element: null
-fly_speed: null
-fortitude: '+4'
+fly_speed: '50'
+fortitude: '+35'
 hardness: null
-hp: '15'
-id: '2451'
-immunity: null
-intelligence: '-2'
+hp: '425'
+id: '2577'
+immunity:
+- '[[DATABASE/trait/Death|death]] effects'
+intelligence: '+4'
 land_speed: '25'
 language:
 - '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Druidic|Druidic]]'
-level: '0'
-max_speed: '25'
-name: Oaksteward Enforcer
-perception: '+6'
-rarity: Rare
-reflex: '+6'
+- '[[DATABASE/language/Daemonic|Daemonic]] ; [[DATABASE/monsterability/Telepathy|telepathy]]
+  100 feet'
+level: '19'
+max_speed: '50'
+name: Obcisidaemon
+perception: '+35'
+rarity: Uncommon
+reflex: '+29'
 resistance: null
 rus_type_level: null
 school: null
-sense: null
-size: Medium
+sense:
+- '[[DATABASE/monsterability/Darkvision|darkvision]]'
+- '[[DATABASE/spell/True Seeing|true seeing]]'
+size: Gargantuan
 skill:
-- '[[DATABASE/skill/Intimidation|Intimidation]] +5'
-- '[[DATABASE/skill/Nature|Nature]] +6'
-source: '[[DATABASE/source/Pathfinder 187. The Seventh Arch|Pathfinder #187: The Seventh
-  Arch]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +33'
+- '[[DATABASE/skill/Athletics|Athletics]] +39'
+- '[[DATABASE/skill/Deception|Deception]] +34'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +36'
+- '[[DATABASE/skill/Religion|Religion]] +32'
+- '[[DATABASE/skill/Lore|Warfare Lore]] +36'
+source: '[[DATABASE/source/Pathfinder 192. Worst of All Possible Worlds|Pathfinder
+  #192: Worst of All Possible Worlds]]'
 speed:
 - 25 feet
+- fly 50 feet
 spell:
-- '[[DATABASE/spell/Light|Light]]'
-- '[[DATABASE/spell/Magic Fang|MagicFang]]'
-- '[[DATABASE/spell/Ray of Frost|Ray of Frost]]'
-- '[[DATABASE/spell/Shillelagh|Shillelagh]]'
-- '[[DATABASE/spell/Stabilize|Stabilize]]'
-- '[[DATABASE/spell/Tanglefoot|Tanglefoot]]'
-strength: '+2'
-strength_req: '2'
+- '[[DATABASE/spell/Cloudkill|Cloudkill]]'
+- '[[DATABASE/spell/Detect Alignment|DetectAlignment]]'
+- '[[DATABASE/spell/Dimension Door|Dimension Door]]'
+- '[[DATABASE/spell/Disintegrate|Disintegrate]]'
+- '[[DATABASE/spell/Massacre|Massacre]]'
+- '[[DATABASE/spell/Meteor Swarm|Meteor Swarm]]'
+- '[[DATABASE/spell/Paralyze|Paralyze]]'
+- '[[DATABASE/spell/Spell Turning|SpellTurning]]'
+- '[[DATABASE/spell/True Seeing|True Seeing]]'
+strength: '+10'
+strength_req: '10'
 strongest_save:
-- Will
+- Fortitude
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Human|Human]]'
-- '[[DATABASE/trait/Humanoid|Humanoid]]'
-- '[[DATABASE/trait/Rare|Rare]]'
+- '[[DATABASE/trait/Daemon|Daemon]]'
+- '[[DATABASE/trait/Fiend|Fiend]]'
+- '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: null
+vision: Darkvision
 weakest_save:
-- Fortitude
-weakness: null
-will: '+8'
-wisdom: '+4'
+- Reflex
+weakness:
+- good 20
+will: '+32'
+wisdom: '+5'
 
 ---
 # Obcisidaemon (Obliteration Daemon)

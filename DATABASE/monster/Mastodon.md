@@ -11,11 +11,6 @@ creature_ability:
 - Grabbing Trunk
 - Trample
 creature_family: '[[DATABASE/monsterfamily/Elephant|Elephant]]'
-description: 'Not to be confused with the larger mammoth, mastodons are primeval elephants
-  who dwell predominantly in temperate forests. There, they travel in close-knit social
-  groups and feed on the forest vegetation.<br/><br/><b><u>Recall Knowledge - Animal</u>
-  ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 26<br/><b><u>Unspecific Lore</u></b>:
-  DC 24<br/><b><u>Specific Lore</u></b>: DC 21'
 dexterity: '+0'
 element: null
 fly_speed: null

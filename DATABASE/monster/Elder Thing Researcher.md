@@ -13,14 +13,6 @@ creature_ability:
 - No Breath
 - Unnatural Flight
 creature_family: '[[DATABASE/monsterfamily/Elder Thing|Elder Thing]]'
-description: 'As one would expect from a species capable of living for thousands of
-  years, many elder things grow more powerful than the standard specimen. Elder thing
-  researchers are among the more frequently encountered of these incredibly rare beings,
-  for their nature and interests often see them traveling to distant worlds to explore
-  and lay the foundations for later conquest and colonization. Elder thing researchers
-  often carry strange weapons or tools that merge technology with magic.<br/><br/><b><u>Recall
-  Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 32<br/><b><u>Unspecific
-  Lore</u></b>: DC 30<br/><b><u>Specific Lore</u></b>: DC 27'
 dexterity: '+3'
 element: null
 fly_speed: '20'

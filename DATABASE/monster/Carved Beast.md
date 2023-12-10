@@ -10,15 +10,6 @@ creature_ability:
 - Dig In
 - Top-Heavy
 creature_family: '[[DATABASE/monsterfamily/Elemental, Wood|Elemental, Wood]]'
-description: 'An untold number of stumps carved into roughly hewn animal shapes roam
-  the [[DATABASE/plane/Plane of Wood|Plane of Wood]] . The statue portion of these
-  carved beasts is incapable of articulated movement, though the living wood at their
-  base is fully animate. When left to their own devices, carved beasts prefer to roughly
-  mimic the behaviors of the animals they resemble, like children playing with inarticulate
-  toys.<br/><br/><b><u>Recall Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Nature|Nature]] )</b>: DC 22<br/><b><u>Recall Knowledge - Plant</u>
-  ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 22<br/><b><u>Unspecific Lore</u></b>:
-  DC 20<br/><b><u>Specific Lore</u></b>: DC 17'
 dexterity: '+4'
 element: Wood
 fly_speed: null

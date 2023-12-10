@@ -12,21 +12,6 @@ creature_ability:
 - Selective Scent
 - Swallow Whole
 creature_family: null
-description: "One of the many horrid life-forms native to [[DATABASE/deity/Zevgavizeb|Zevgavizeb's]]\
-  \ Abyssal realm of Gluttondark, viskithrels\u2014or \u201Cgluttonraptors\u201D\u2014\
-  are tireless hunters resembling tentacled theropods. They are social creatures by\
-  \ nature and prefer to hunt in large packs, chasing down prey and tearing them apart\
-  \ to share with their fellow hunters. A lone viskithrel forgoes hunting to frantically\
-  \ seek out others of its kind, starving to death if it cannot do so. Although viskithrels\
-  \ attack nearly any other creatures they encounter, they virtually never fight other\
-  \ viskithrels; even beasts in rival packs give each other space rather than fight\
-  \ over territory or prey.<br/><br/> Other, smarter denizens of Gluttondark, such\
-  \ as [[DATABASE/monster/Xilvirek|xilvireks]]  herd and train viskithrels, working\
-  \ to convince the viskithrels that the trainer is one of their pack. This not only\
-  \ protects the trainer from attacks by the viskithrels, but also enables the trainer\
-  \ to easily direct them.<br/><br/><b><u>Recall Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]]\
-  \ , [[DATABASE/skill/Nature|Nature]] )</b>: DC 36<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 34<br/><b><u>Specific Lore</u></b>: DC 31"
 dexterity: '+6'
 element: null
 fly_speed: null

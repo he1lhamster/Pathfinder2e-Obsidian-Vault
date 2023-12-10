@@ -10,11 +10,6 @@ creature_ability:
 - Blackfrost Breath
 - Opportune Bite
 creature_family: '[[DATABASE/monsterfamily/Blackfrost Dead|Blackfrost Dead]]'
-description: 'Most creatures who perish from the cold while cursed with blackfrost
-  rise as zombies. Though mindless, blackfrost zombies are driven by the invisible
-  will of blackfrost to spread their foul curse.<br/><br/><b><u>Recall Knowledge -
-  Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 27<br/><b><u>Unspecific
-  Lore</u></b>: DC 25<br/><b><u>Specific Lore</u></b>: DC 22'
 dexterity: '+2'
 element: null
 fly_speed: null

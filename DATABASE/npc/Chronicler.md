@@ -10,10 +10,6 @@ creature_ability:
 - Live to Tell the Tale
 - Scroll Mastery
 creature_family: '[[DATABASE/monsterfamily/Explorers|Explorers]]'
-description: 'Exploration means very little if no account of the details exist. Members
-  of adventuring bands cherish chroniclers who record tales of their deeds.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 18<br/><b><u>Unspecific
-  Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>: DC 13'
 dexterity: '+2'
 element: null
 fly_speed: null

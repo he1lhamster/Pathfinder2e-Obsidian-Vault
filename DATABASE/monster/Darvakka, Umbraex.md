@@ -1,71 +1,92 @@
 ﻿---
-ac: '18'
-alignment: NE
+ac: '45'
+alignment: CE
 all_resistance: null
 burrow_speed: null
-charisma: '+0'
+charisma: '+8'
 climb_speed: null
-constitution: '+4'
+constitution: '+10'
 creature_ability:
-- Emit Spores
-- Purple Pox
-- Spore Domination
-- Spore Pop
-creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Fungus</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 23<br/><b><u>Unspecific
-  Lore</u></b>: DC 21<br/><b><u>Specific Lore</u></b>: DC 18'
-dexterity: '+3'
+- Ashen Rise
+- Entropy's Shadow
+- Life-Siphoning Screech
+- Sunlight Powerlessness
+creature_family: '[[DATABASE/monsterfamily/Darvakka|Darvakka]]'
+dexterity: '+7'
 element: null
-fly_speed: null
-fortitude: '+12'
+fly_speed: '70'
+fortitude: '+38'
 hardness: null
-hp: '50'
-id: '1601'
-immunity: null
-intelligence: '-1'
-land_speed: '20'
+hp: 450 (ashen rise, negative healing )
+id: '2361'
+immunity:
+- '[[DATABASE/trait/Cold|cold]]'
+- '[[DATABASE/trait/Death|death]] effects'
+- '[[DATABASE/trait/Disease|disease]]'
+- '[[DATABASE/condition/Paralyzed|paralyzed]]'
+- '[[DATABASE/trait/Poison|poison]]'
+- unconscious
+intelligence: '+8'
+land_speed: '25'
 language:
-- '[[DATABASE/language/Undercommon|Undercommon]] ; [[DATABASE/monsterability/Telepathy|telepathy]]
-  100 feet ( [[DATABASE/monster/Myceloid|myceloids]] andthose afflicted by purple
-  pox only)'
-level: '3'
-max_speed: '20'
-name: Umbo
-perception: '+8'
+- '[[DATABASE/language/Abyssal|Abyssal]]'
+- '[[DATABASE/language/Common|Common]]'
+- '[[DATABASE/language/Infernal|Infernal]]'
+- '[[DATABASE/language/Necril|Necril]] ; can''t speak any language'
+- '[[DATABASE/monsterability/Telepathy|telepathy]] 100 feet'
+level: '21'
+max_speed: '70'
+name: Umbraex
+perception: '+36'
 rarity: Rare
-reflex: '+7'
+reflex: '+32'
 resistance: null
 rus_type_level: null
 school: null
 sense:
-- '[[DATABASE/monsterability/Darkvision|darkvision]]'
-- '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
-size: Medium
+- '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
+- '[[DATABASE/monsterability/Lifesense|lifesense]] 100 feet'
+size: Gargantuan
 skill:
-- '[[DATABASE/skill/Stealth|Stealth]] +9'
-- '[[DATABASE/skill/Survival|Survival]] +8'
-source: '[[DATABASE/source/Pathfinder 169. Kindled Magic|Pathfinder #169: Kindled
-  Magic]]'
+- '[[DATABASE/skill/Arcana|Arcana]] +36'
+- '[[DATABASE/skill/Athletics|Athletics]] +38'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +40'
+- '[[DATABASE/skill/Lore|Negative Energy Plane Lore]] +37'
+- '[[DATABASE/skill/Religion|Religion]] +36'
+- '[[DATABASE/skill/Lore|ShadowPlane Lore]] +39'
+source: '[[DATABASE/source/Pathfinder 185. A Taste of Ashes|Pathfinder #185: A Taste
+  of Ashes]]'
 speed:
-- 20 feet
-spell: null
-strength: '+3'
-strength_req: '3'
+- 25 feet
+- fly 70 feet
+spell:
+- '[[DATABASE/spell/Darkness|Darkness]]'
+- '[[DATABASE/spell/Detect Magic|DetectMagic]]'
+- '[[DATABASE/spell/Eclipse Burst|Eclipse Burst]]'
+- '[[DATABASE/spell/Harm|Harm]]'
+- '[[DATABASE/spell/Plane Shift|PlaneShift]]'
+- '[[DATABASE/spell/True Seeing|True Seeing]]'
+strength: '+9'
+strength_req: '9'
 strongest_save:
 - Fortitude
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Fungus|Fungus]]'
+- '[[DATABASE/trait/Cold|Cold]]'
+- '[[DATABASE/trait/Darvakka|Darvakka]]'
 - '[[DATABASE/trait/Rare|Rare]]'
+- '[[DATABASE/trait/Shadow|Shadow]]'
+- '[[DATABASE/trait/Undead|Undead]]'
 type: Creature
-vision: Darkvision
+vision: Greater darkvision
 weakest_save:
 - Reflex
 weakness:
-- slashing 5
-will: '+8'
-wisdom: '+2'
+- fire 15
+- good 15
+- '[[DATABASE/equipment/Silver Weapon|silver]] 15'
+will: '+35'
+wisdom: '+7'
 
 ---
 # Darvakka, Umbraex

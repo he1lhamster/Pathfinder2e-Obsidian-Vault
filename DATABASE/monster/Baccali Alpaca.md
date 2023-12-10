@@ -10,10 +10,6 @@ creature_ability:
 - Buck
 - Gallop
 creature_family: null
-description: 'A Druman breed of alpaca, the baccali alpaca is prized for its exceptionally
-  soft wool.<br/><br/><b><u>Recall Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 14<br/><b><u>Unspecific Lore</u></b>: DC 12<br/><b><u>Specific Lore</u></b>:
-  DC 9'
 dexterity: '+2'
 element: null
 fly_speed: null

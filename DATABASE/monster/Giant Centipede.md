@@ -9,16 +9,6 @@ constitution: '+1'
 creature_ability:
 - Giant Centipede Venom
 creature_family: '[[DATABASE/monsterfamily/Centipede|Centipede]]'
-description: "Most giant centipedes (known as sewer centipedes when found in cities)\
-  \ nest in small groups but hunt alone when they seek out food. Attempts to domesticate\
-  \ giant centipedes for use as guardians or pets generally end poorly, but some tribes\
-  \ of goblins, kobolds, and mitflits have developed effective methods of utilizing\
-  \ these vermin as guardians. Other tribes and some humanoid societies roast and\
-  \ eat centipedes, often with pungent peppers as a savory delicacy, although care\
-  \ must be taken in preparing the meal to avoid tainting the flesh with the creature\u2019\
-  s venom.<br/><br/><b><u>Recall Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 13<br/><b><u>Unspecific Lore</u></b>: DC 11<br/><b><u>Specific Lore</u></b>:\
-  \ DC 8"
 dexterity: '+3'
 element: null
 fly_speed: null

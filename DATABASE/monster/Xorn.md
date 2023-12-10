@@ -10,11 +10,6 @@ creature_ability:
 - Claw Frenzy
 - Earth Glide
 creature_family: '[[DATABASE/monsterfamily/Elemental, Earth|Elemental, Earth]]'
-description: 'These squat, rotund elementals have three legs, three arms, three eyes,
-  and one massive maw, which they fill with the gems and metals they find so delicious.<br/><br/><b><u>Recall
-  Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 23<br/><b><u>Unspecific Lore</u></b>: DC 21<br/><b><u>Specific Lore</u></b>:
-  DC 18'
 dexterity: '+0'
 element: Earth
 fly_speed: null

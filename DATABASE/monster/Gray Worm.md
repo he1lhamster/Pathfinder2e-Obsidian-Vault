@@ -13,15 +13,6 @@ creature_ability:
 - Shake It Off
 - Thrash
 creature_family: '[[DATABASE/monsterfamily/Cave Worm|Cave Worm]]'
-description: 'One subspecies that some call unnatural is the gray worm. It is theorized
-  that these cave worms hatched near the corpses of thousands of graves, perhaps deep
-  in the layers of the Darklands that once held large populations at the moment of
-  Starfall. The negative energy associated with the collective extinction of so much
-  life has warped these worms so that they embody the misery and death caused by the
-  cataclysm. They are unique among cave worms in that they prefer not to swallow prey
-  alive, but to eat only dead flesh.<br/><br/><b><u>Recall Knowledge - Beast</u> (
-  [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]] )</b>: DC 33<br/><b><u>Unspecific
-  Lore</u></b>: DC 31<br/><b><u>Specific Lore</u></b>: DC 28'
 dexterity: '-1'
 element: null
 fly_speed: null

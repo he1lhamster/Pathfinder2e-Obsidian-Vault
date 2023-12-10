@@ -9,14 +9,6 @@ constitution: '+0'
 creature_ability:
 - Breath Weapon
 creature_family: '[[DATABASE/monsterfamily/Elemental, Mephit|Elemental, Mephit]]'
-description: 'Though capable of the same depths of cruelty as their fire mephit kin,
-  ice mephits carry theirs out in a more calculating way. Unlike most mephits, these
-  pale blue mephits prefer solitude to company. Lacking in empathy, they are known
-  for their callousness, and have a reputation for brutal honesty. They also have
-  few moral qualms about acting selfishly and exploiting weakness for their own gain,
-  should the chance arise.<br/><br/><b><u>Recall Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Nature|Nature]] )</b>: DC 17<br/><b><u>Unspecific Lore</u></b>:
-  DC 15<br/><b><u>Specific Lore</u></b>: DC 12'
 dexterity: '+4'
 element: Air, Water
 fly_speed: '25'

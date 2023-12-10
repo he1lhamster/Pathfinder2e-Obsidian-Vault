@@ -13,9 +13,6 @@ creature_ability:
   a sweep attack with her axe and is within 10 feet of a third enemy she hasn't yet
   attacked
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 28<br/><b><u>Unspecific
-  Lore</u></b>: DC 26<br/><b><u>Specific Lore</u></b>: DC 23'
 dexterity: '+2'
 element: null
 fly_speed: null

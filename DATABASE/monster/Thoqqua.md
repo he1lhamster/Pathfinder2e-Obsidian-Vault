@@ -11,29 +11,6 @@ creature_ability:
 - Molten Body
 - Reactive Thrash
 creature_family: null
-description: "Thoqquas are cantankerous creatures of fire and slag. Their bodies generate\
-  \ incredible heat that allows them to burrow or melt through most surfaces, even\
-  \ solid rock. Thoqquas are native to the vast ash deserts and lava fields of the\
-  \ [[DATABASE/plane/Plane of Fire|Plane of Fire]] . There, they consume ore and minerals,\
-  \ which their furnace-like bodies then smelt into armor plates that grant the creatures\
-  \ their armored forms. These creatures' foremost body segment tapers into a straight,\
-  \ hornlike beak that glows with a blistering heat. Steam and smoke constantly hiss\
-  \ from their joints, and from a distance, thoqquas can be mistaken for strange metallic\
-  \ constructs. Adult thoqquas are 5 feet long and weigh 200 pounds.<br/><br/> Thoqquas\
-  \ are dangerous to approach\u2014they attack without thinking when startled or frustrated.\
-  \ If they don't immediately chase away intruders within their territory, then they\
-  \ might gradually come to view that area as property and even guard it. [[DATABASE/monsterfamily/Elemental,\
-  \ Mephit|Mephit]] seem to understand this curious thoqqua thought process, occasionally\
-  \ brokering deals with the magma worms. The mephits claim that the mountain-sized\
-  \ ancestors of modern thoqquas were servants of the elemental lords and dug the\
-  \ first volcanoes in the young worlds of the [[DATABASE/plane/Material Plane|Material\
-  \ Plane]] . These \u201Cprogenitor worms\u201D then retired to the worlds' cores,\
-  \ where their heat warms the planets even today. Thoqquas on the Material Plane\
-  \ do congregate around volcanoes\u2014though whether this tendency is to protect\
-  \ a mineral-rich food site or sacred place, or simply out of comfort, depends on\
-  \ the thoqqua in question.<br/><br/><b><u>Recall Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]]\
-  \ , [[DATABASE/skill/Nature|Nature]] )</b>: DC 18<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 16<br/><b><u>Specific Lore</u></b>: DC 13"
 dexterity: '+1'
 element: Earth, Fire
 fly_speed: null

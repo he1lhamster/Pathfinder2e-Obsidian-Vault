@@ -11,13 +11,6 @@ creature_ability:
 - Web Sense
 - Web Trap
 creature_family: '[[DATABASE/monsterfamily/Spider|Spider]]'
-description: 'A dream spider''s webs have an iridescent hue and are infused with the
-  same hallucinogenic compound as the creature''s toxin. Originally denizens of tropical
-  jungles, dream spiders have adapted well to temperate environments, particularly
-  thriving among the rooftops of cities where shady alchemists use their venom to
-  produce the drug known as [[DATABASE/equipment/Shiver|shiver]] .<br/><br/><b><u>Recall
-  Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 14<br/><b><u>Unspecific
-  Lore</u></b>: DC 12<br/><b><u>Specific Lore</u></b>: DC 9'
 dexterity: '+3'
 element: null
 fly_speed: null

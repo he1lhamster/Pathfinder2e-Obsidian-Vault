@@ -10,9 +10,6 @@ creature_ability:
 - Broad Swipe
 - Massive Rush
 creature_family: '[[DATABASE/monsterfamily/Skeleton|Skeleton]]'
-description: 'Huge giants and other enormous creatures make powerful skeletons.<br/><br/><b><u>Recall
-  Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 23<br/><b><u>Unspecific
-  Lore</u></b>: DC 21<br/><b><u>Specific Lore</u></b>: DC 18'
 dexterity: '+2'
 element: null
 fly_speed: null

@@ -12,10 +12,6 @@ creature_ability:
 - Snagging Strike
 - Sneak Attack
 creature_family: '[[DATABASE/monsterfamily/Criminals|Criminals]]'
-description: 'Using their strength to bully others into submission, ruffians often
-  work as bodyguards and enforcers for powerful criminals like charlatans and fences.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 16<br/><b><u>Unspecific
-  Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>: DC 11'
 dexterity: '+2'
 element: null
 fly_speed: null

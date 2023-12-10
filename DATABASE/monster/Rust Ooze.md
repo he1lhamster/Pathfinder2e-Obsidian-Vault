@@ -12,10 +12,6 @@ creature_ability:
 - Motion Sense
 - Rust
 creature_family: '[[DATABASE/monsterfamily/Ooze|Ooze]]'
-description: 'These reddish-brown globs wriggle through sewers and other waterways
-  in search of iron pipes, metal trash, and other objects that rust.<br/><br/><b><u>Recall
-  Knowledge - Ooze</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 20<br/><b><u>Unspecific
-  Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>: DC 15'
 dexterity: '-4'
 element: null
 fly_speed: null

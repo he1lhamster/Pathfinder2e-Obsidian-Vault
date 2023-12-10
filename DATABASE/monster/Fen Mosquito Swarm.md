@@ -10,13 +10,6 @@ creature_ability:
 - Pyrexic Malaria
 - Swarming Bites
 creature_family: '[[DATABASE/monsterfamily/Mosquito|Mosquito]]'
-description: 'When deadly fen mosquitoes gather in large numbers, they form into lethal
-  swarms capable of draining blood at a truly alarming rate. Fen mosquito swarms are
-  typically encountered only in tropical swamps or bogs, but during humid months in
-  spring or summer they can drift into riverine areas or even through the waterfront
-  reaches of settlements.<br/><br/><b><u>Recall Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 18<br/><b><u>Unspecific Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>:
-  DC 13'
 dexterity: '+4'
 element: null
 fly_speed: '25'

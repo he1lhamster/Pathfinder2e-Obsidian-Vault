@@ -17,18 +17,6 @@ creature_ability:
 - Tooth Grind
 - Unstoppable
 creature_family: null
-description: 'This reaver of the cold marsh is not just a monster; he is a force of
-  nature. Where there is peace and prosperity in the world, Grendel strikes, eager
-  to prove that tranquility is transitory and death is the only constant. He stalks
-  the edge of his fens, seeking settlements where joy holds sway. He strikes under
-  cover of night, primarily targeting celebrations or festivals. The more happiness
-  or joy he can extinguish, the better.<br/><br/> Although Grendel is a unique creature,
-  killing him won''t save the world from his ravages for long. Once Grendel''s mother
-  instinctively feels the pain of her violent son''s death, she soon births a replacement.
-  The new Grendel seems to avoid the sites his elder brothers terrorized, as if he
-  instinctively knows that such a place hosts heroes powerful enough to defeat him.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 49<br/><b><u>Unspecific
-  Lore</u></b>: DC 47<br/><b><u>Specific Lore</u></b>: DC 44'
 dexterity: '+5'
 element: null
 fly_speed: null

@@ -14,20 +14,6 @@ creature_ability:
 - Surprise Attack
 - Trap Finder
 creature_family: '[[DATABASE/monsterfamily/Pathfinders|Pathfinders]]'
-description: '<i>This half-elf woman looks dressed to travel anywhere and prepared
-  for any eventuality she might find along the way.</i><br/><br/> No two field agents
-  follow the same path to join the Pathfinder Society, nor the same path once they
-  embark on their first expedition. The Society''s treacherous missions require all
-  types of adventurers, from seasoned combatants to ruin delvers and experts in the
-  occult. Some field agents are highly specialized, filling a single role in a larger
-  group of Pathfinders, while others branch out into a broad range of abilities.<br/><br/>
-  This field agent seeks the thrill of discovering lost treasures from the Inner Sea''s
-  many ancient ruins. She scouts ahead for her team, keeping an eye out for enemies,
-  traps, and other dangers. In fights, she is cautious and practical, preferring to
-  stay mobile and out of sight. She sneaks in for a finishing blow when victory is
-  certain.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 19<br/><b><u>Unspecific Lore</u></b>: DC 17<br/><b><u>Specific Lore</u></b>:
-  DC 14'
 dexterity: '+4'
 element: null
 fly_speed: null

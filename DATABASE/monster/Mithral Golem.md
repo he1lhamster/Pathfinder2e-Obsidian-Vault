@@ -14,14 +14,6 @@ creature_ability:
 - Swift Steps
 - Vulnerable to Slow
 creature_family: '[[DATABASE/monsterfamily/Golem|Golem]]'
-description: 'Mithral golems are gorgeously crafted, silvery humanoids made from colossal
-  amounts of the purest [[DATABASE/equipment/Mithral|mithral]] . While massive in
-  construction, they possess amazing speed and grace through literal fluidity. Unpredictable
-  and flexible, they can melt into liquid form and reform into a solid shape in mere
-  seconds, allowing them to shape their limbs into sharp spikes or heavy fists as
-  needed.<br/><br/><b><u>Recall Knowledge - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Crafting|Crafting]] )</b>: DC 40<br/><b><u>Unspecific Lore</u></b>:
-  DC 38<br/><b><u>Specific Lore</u></b>: DC 35'
 dexterity: '+6'
 element: null
 fly_speed: null

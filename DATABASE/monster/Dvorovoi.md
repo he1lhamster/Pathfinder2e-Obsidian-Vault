@@ -10,15 +10,6 @@ creature_ability:
 - Master of the Yard
 - Shy
 creature_family: '[[DATABASE/monsterfamily/House Spirit|House Spirit]]'
-description: 'Traditionally, the dvorovoi is seen as the domovoi''s younger sibling
-  and has charge of a peasant''s yard and all the animals and tools within. Animals
-  favored by the dvorovoi become healthy, strong, and obedient, while less-loved livestock
-  are exhausted and miserable. Peasants with a resident dvorovoi make sure to formally
-  introduce new livestock to the house spirit and placate the spirit by leaving meals
-  in the shed. Dvorovoi loathe white-furred animals and chase away any all-white cows
-  or horses, though they have no similar grudge against chickens.<br/><br/><b><u>Recall
-  Knowledge - Fey</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 18<br/><b><u>Unspecific
-  Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>: DC 13'
 dexterity: '+2'
 element: null
 fly_speed: null

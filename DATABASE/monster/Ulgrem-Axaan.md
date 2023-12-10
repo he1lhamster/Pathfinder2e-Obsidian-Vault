@@ -17,14 +17,6 @@ creature_ability:
 - Unnatural Vengeance
 - Voltaic Blow
 creature_family: null
-description: 'Whatever Ulgrem-Axaan looked like in life, undeath has revealed a rotting,
-  crocodilian skeleton encased in a jagged hide of ice crystals. Steam rises from
-  the creature''s mouth and back as its icy skin melts in the sun or from the heat
-  of the electricity it cycles through its body.<br/><br/><b><u>Recall Knowledge -
-  Beast</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 33<br/><b><u>Recall Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 33<br/><b><u>Unspecific Lore</u></b>: DC 31<br/><b><u>Specific Lore</u></b>:
-  DC 28'
 dexterity: '+4'
 element: null
 fly_speed: null

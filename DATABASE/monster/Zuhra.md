@@ -11,21 +11,6 @@ creature_ability:
 - Change Shape
 - Conductive Redirection
 creature_family: '[[DATABASE/monsterfamily/Genie|Genie]]'
-description: 'Zuhras, the genies of the elemental [[DATABASE/plane/Plane of Metal|Plane
-  of Metal]] , are bold and imposing, fond of being the center of attention and drawing
-  a crowd with flashy performances, displays of skill, and tales of their personal
-  victories. Despite their large personalities, their long-term relationships tend
-  to be cool and somewhat distant; zuhras often make alliances but rarely form friendships,
-  and the trust required for deeper relationships is rarer still. The few mortals
-  who''ve gotten to know a zuhra often describe them as bombastic but emotionally
-  aloof.<br/><br/> Since the reconnection with other planes, zuhras have sought out
-  and formed bonds with other genies. They find their jabali cousins to be capable
-  smithing partners, if a bit staid and dull. Zuhras rarely pay non-genie elementals
-  any more than a passing glance, finding even the intelligent ones uninteresting
-  to communicate with or hard to relate to.<br/><br/><b><u>Recall Knowledge - Elemental</u>
-  ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]] )</b>: DC
-  26<br/><b><u>Unspecific Lore</u></b>: DC 24<br/><b><u>Specific Lore</u></b>: DC
-  21'
 dexterity: '+5'
 element: Metal
 fly_speed: '30'

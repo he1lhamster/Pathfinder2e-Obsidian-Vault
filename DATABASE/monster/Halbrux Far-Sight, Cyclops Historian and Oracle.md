@@ -1,81 +1,107 @@
 ﻿---
-ac: '22'
-alignment: LE
+ac: '30'
+alignment: NE
 all_resistance: null
 burrow_speed: null
-charisma: '+1'
+charisma: '+5'
 climb_speed: null
-constitution: '+3'
+constitution: '+2'
 creature_ability:
-- Brutal Beating
-- Iron Mind
-- Knockdown
-- Light Blindness
-- Stop Right There!
-- Tight Formation
-creature_family: '[[DATABASE/monsterfamily/Duergar|Duergar]]'
-description: 'While the city guards patrol the Long Walk, the royal guards protect
-  King Orgukagan and the royal family, as well as important royal interests.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 22<br/><b><u>Unspecific
-  Lore</u></b>: DC 20<br/><b><u>Specific Lore</u></b>: DC 17'
-dexterity: '+2'
+- Curse of Torrential Knowledge
+- Flash of History
+- Predictive Blows
+- Quickened Casting
+- Resolve
+- ''
+- Steady Spellcasting
+creature_family: null
+dexterity: '+0'
 element: null
 fly_speed: null
-fortitude: '+14'
+fortitude: '+23'
 hardness: null
-hp: '90'
-id: '2697'
+hp: '195'
+id: '1693'
 immunity: null
-intelligence: '+1'
-land_speed: '20'
+intelligence: '+7'
+land_speed: '30'
 language:
 - '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Dwarven|Dwarven]]'
-- '[[DATABASE/language/Undercommon|Undercommon]]'
-level: '5'
-max_speed: '20'
-name: Hagegraf Royal Guard
-perception: '+16'
-rarity: Uncommon
-reflex: '+11'
+- '[[DATABASE/language/Cyclops|Cyclops]]'
+- '[[DATABASE/language/Jotun|Jotun]]'
+level: '11'
+max_speed: '30'
+name: Halbrux Far-Sight
+perception: '+21'
+rarity: Unique
+reflex: '+17'
 resistance: null
 rus_type_level: null
 school: null
 sense:
-- '[[DATABASE/monsterability/Darkvision|darkvision]]'
-- iron mind
-size: Medium
+- '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
+size: Large
 skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +13'
-- '[[DATABASE/skill/Diplomacy|Diplomacy]] +10'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +10'
-- '[[DATABASE/skill/Society|Society]] +10'
-source: '[[DATABASE/source/Pathfinder 194. Cult of the Cave Worm|Pathfinder #194:
-  Cult of the Cave Worm]]'
+- '[[DATABASE/skill/Athletics|Athletics]] +22'
+- '[[DATABASE/skill/Crafting|Crafting]] +22'
+- '[[DATABASE/skill/Lore|Fortune-Telling Lore]] +22'
+- '[[DATABASE/skill/Lore|Ghol-Gan Lore]] +24'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +22'
+- '[[DATABASE/skill/Occultism|Occultism]] +22'
+- '[[DATABASE/skill/Religion|Religion]] +21'
+- '[[DATABASE/skill/Survival|Survival]] +19'
+source: '[[DATABASE/source/Pathfinder 171. Hurricane''s Howl|Pathfinder #171: Hurricane''s
+  Howl]]'
 speed:
-- 20 feet
+- 30 feet
 spell:
-- '[[DATABASE/spell/Blood Vendetta|Blood Vendetta]]'
-- '[[DATABASE/spell/Paranoia|Paranoia]]'
-- '[[DATABASE/spell/Sigil|Sigil]]'
-strength: '+4'
-strength_req: '4'
+- '[[DATABASE/spell/Augury|Augury]]'
+- '[[DATABASE/spell/Blindness|Blindness]]'
+- '[[DATABASE/spell/Brain Drain|Brain Drain]]'
+- '[[DATABASE/spell/Continual Flame|Continual Flame]]'
+- '[[DATABASE/spell/Create Water|Create Water]]'
+- '[[DATABASE/spell/Daze|Daze]]'
+- '[[DATABASE/spell/Death Knell|Death Knell]]'
+- '[[DATABASE/spell/Detect Magic|DetectMagic]]'
+- '[[DATABASE/spell/Flame Strike|Flame Strike]]'
+- '[[DATABASE/spell/Freedom of Movement|Freedom of Movement]]'
+- '[[DATABASE/spell/Globe of Invulnerability|Globe of Invulnerability]]'
+- '[[DATABASE/spell/Harm|Harm]]'
+- '[[DATABASE/spell/Haste|Haste]]'
+- '[[DATABASE/spell/Heal|Heal]]'
+- '[[DATABASE/spell/Heroism|Heroism]]'
+- '[[DATABASE/spell/Light|Light]]'
+- '[[DATABASE/spell/Neutralize Poison|Neutralize Poison]]'
+- '[[DATABASE/spell/Outcast''s Curse|Outcast''s Curse]]'
+- '[[DATABASE/spell/Prestidigitation|Prestidigitation]]'
+- '[[DATABASE/spell/Purify Food and Drink|Purify Food and Drink]]'
+- '[[DATABASE/spell/Ray of Enfeeblement|Ray of Enfeeblement]]'
+- '[[DATABASE/spell/Read Aura|Read Aura]]'
+- '[[DATABASE/spell/Read Omens|Read Omens]]'
+- '[[DATABASE/spell/Sanctuary|Sanctuary]]'
+- '[[DATABASE/spell/Scholarly Recollection|Scholarly Recollection]]'
+- '[[DATABASE/spell/Shield|Shield]]'
+- '[[DATABASE/spell/Stoneskin|Stoneskin]]'
+- '[[DATABASE/spell/True Seeing|TrueSeeing]]'
+- '[[DATABASE/spell/Vampiric Touch|Vampiric Touch]]'
+- '[[DATABASE/spell/Vision of Weakness|Vision of Weakness]]'
+- '[[DATABASE/spell/Wanderer''s Guide|Wanderer''s Guide]]'
+strength: '+7'
+strength_req: '7'
 strongest_save:
 - Fortitude
-- Will
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Duergar|Duergar]]'
-- '[[DATABASE/trait/Dwarf|Dwarf]]'
+- '[[DATABASE/trait/Giant|Giant]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
+- '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: Darkvision
+vision: Low-light vision
 weakest_save:
 - Reflex
 weakness: null
-will: '+14'
-wisdom: '+5'
+will: '+21'
+wisdom: '+2'
 
 ---
 # Halbrux Far-Sight, Cyclops Historian and Oracle

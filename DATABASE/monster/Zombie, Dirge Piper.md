@@ -1,54 +1,53 @@
 ﻿---
-ac: '18'
-alignment: N
+ac: '16'
+alignment: NE
 all_resistance: null
 burrow_speed: null
-charisma: '-2'
+charisma: '+1'
 climb_speed: null
 constitution: '+4'
 creature_ability:
-- Buck
-- Pack Attack
-- Worry
-creature_family: '[[DATABASE/monsterfamily/Wolf|Wolf]]'
-description: 'Much larger and more foul-tempered than their common cousins, dire wolves
-  haunt primeval lands that accommodate their massive size and proportionately large
-  hunting grounds and appetites. Orcs are fond of using dire wolves as mounts, finding
-  their vicious tempers perfect for hunting and warfare.<br/><br/><b><u>Recall Knowledge
-  - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 18<br/><b><u>Unspecific
-  Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>: DC 13'
-dexterity: '+3'
+- Piping Dirge
+- Putrid Blast
+- Shambler's Lament
+- Slow
+creature_family: '[[DATABASE/monsterfamily/Zombie|Zombie]]'
+dexterity: '-3'
 element: null
 fly_speed: null
 fortitude: '+11'
 hardness: null
-hp: '50'
-id: '416'
-immunity: null
-intelligence: '-4'
-land_speed: '35'
-language: null
+hp: 95 ( negative healing )
+id: '2036'
+immunity:
+- '[[DATABASE/trait/Death|death]] effects'
+- '[[DATABASE/trait/Disease|disease]]'
+- '[[DATABASE/condition/Paralyzed|paralyzed]]'
+- '[[DATABASE/trait/Poison|poison]]'
+- '[[DATABASE/condition/Unconscious|unconscious]]'
+intelligence: '-3'
+land_speed: '25'
+language:
+- '[[DATABASE/language/Common|Common]]'
+- '[[DATABASE/language/Necril|Necril]] ; (can''t speak any language)'
 level: '3'
-max_speed: '35'
-name: Dire Wolf
-perception: '+10'
-rarity: Common
-reflex: '+8'
+max_speed: '25'
+name: Dirge Piper
+perception: '+8'
+rarity: Rare
+reflex: '+4'
 resistance: null
 rus_type_level: null
 school: null
 sense:
-- low-light vision
-- scent (imprecise) 30 feet
-size: Large
+- '[[DATABASE/monsterability/Darkvision|darkvision]]'
+size: Medium
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +8'
-- '[[DATABASE/skill/Athletics|Athletics]] +12'
-- '[[DATABASE/skill/Stealth|Stealth]] +8'
-- '[[DATABASE/skill/Survival|Survival]] +10'
-source: '[[DATABASE/source/Bestiary|Bestiary]]'
+- '[[DATABASE/skill/Athletics|Athletics]] +10'
+- '[[DATABASE/skill/Performance|Performance]] +10'
+source: '[[DATABASE/source/Pathfinder 181. Zombie Feast|Pathfinder #181: Zombie Feast]]'
 speed:
-- 35 feet
+- 25 feet
 spell: null
 strength: '+5'
 strength_req: '5'
@@ -56,15 +55,18 @@ strongest_save:
 - Fortitude
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Animal|Animal]]'
+- '[[DATABASE/trait/Rare|Rare]]'
+- '[[DATABASE/trait/Undead|Undead]]'
+- '[[DATABASE/trait/Zombie|Zombie]]'
 type: Creature
-vision: Low-light vision
+vision: Darkvision
 weakest_save:
 - Reflex
-- Will
-weakness: null
-will: '+8'
-wisdom: '+3'
+weakness:
+- '[[DATABASE/trait/Positive|positive]] 10'
+- slashing 10
+will: '+7'
+wisdom: '+0'
 
 ---
 # Zombie, Dirge Piper

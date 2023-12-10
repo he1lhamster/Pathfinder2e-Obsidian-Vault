@@ -10,22 +10,6 @@ creature_ability:
 - Bore into Brain
 - Spray Pollen
 creature_family: '[[DATABASE/monsterfamily/Yellow Musk Creeper|Yellow Musk Creeper]]'
-description: 'Made up of thick, green vines with numerous yellow flowers, the yellow
-  musk creeper grows at places where the ground is enriched with spilled blood and
-  corpses, like battlefields and graveyards. An ideal environment for the yellow musk
-  creeper isn''t inhabited, but draws occasional humanoid visitors the plant can transform
-  into thralls. The yellow musk creeper enraptures creatures with its bright yellow
-  pollen to bring them close. It then physically alters their brains with its tendrils,
-  implanting a seed in each to turn the creatures into mindless thralls. The yellow
-  musk creeper might try to take over a sleeping creature, but it lacks the faculties
-  to sneak up on anyone, and is likely to wake victims before it can drag itself close
-  enough.<br/><br/> The plant''s pollen can spread far on the wind but quickly becomes
-  too diffuse to cause harm. Wilderness scouts learn to sniff out the distinctive
-  musky scent of the pollen, which stays potent even in harmless quantities. A sprouting
-  creeper is also easy to detect, since it grows from the rotting, messy corpse of
-  a thrall creature.<br/><br/><b><u>Recall Knowledge - Plant</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 16<br/><b><u>Unspecific Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>:
-  DC 11'
 dexterity: '+2'
 element: null
 fly_speed: null

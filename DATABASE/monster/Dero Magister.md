@@ -10,10 +10,6 @@ creature_ability:
 - Cytillesh Stare
 - Vulnerable to Sunlight
 creature_family: '[[DATABASE/monsterfamily/Dero|Dero]]'
-description: 'Dero magisters are leaders among dero society. They perform the bulk
-  of the cruel operations and memory-altering procedures inflicted upon their victims.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 22<br/><b><u>Unspecific
-  Lore</u></b>: DC 20<br/><b><u>Specific Lore</u></b>: DC 17'
 dexterity: '+4'
 element: null
 fly_speed: null

@@ -13,15 +13,6 @@ creature_ability:
 - Paralysis
 - Sneak Attack
 creature_family: '[[DATABASE/monsterfamily/Ghoul|Ghoul]]'
-description: 'In the icy nightmare dimension of Leng, ghouls with hoofed feet gather
-  in morbid groups to worship and research, forming societies that mockingly mimic
-  (and in their opinion, surpass) those of the living. Most worship the malevolent
-  gods of the Elder Mythos and see the living as little more than fodder who will
-  eventually die and provide memories for Leng ghouls to consume and absorb. Not all
-  Leng ghouls are evil, but most are, and even those who aren''t possess sardonic
-  senses of humor and grisly appetites that make them disturbing allies at best.<br/><br/><b><u>Recall
-  Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 29<br/><b><u>Unspecific
-  Lore</u></b>: DC 27<br/><b><u>Specific Lore</u></b>: DC 24'
 dexterity: '+7'
 element: null
 fly_speed: null

@@ -11,11 +11,6 @@ creature_ability:
 - Gnaw
 - Screeching Advance
 creature_family: '[[DATABASE/monsterfamily/Owlbear|Owlbear]]'
-description: 'A cultural symbol for Irrisen, the Irriseni owlbear is particularly
-  well adapted to frosty conditions. These owlbears are larger than their temperate
-  zone counterparts.<br/><br/><b><u>Recall Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 20<br/><b><u>Unspecific Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>:
-  DC 15'
 dexterity: '+1'
 element: null
 fly_speed: null

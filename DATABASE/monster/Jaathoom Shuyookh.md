@@ -16,13 +16,6 @@ creature_ability:
 - Dreams
 - Turbulent Skies
 creature_family: '[[DATABASE/monsterfamily/Genie|Genie]]'
-description: 'Exalted jaathoom shuyookhs are ostentatious purveyors of dreams and
-  nightmares. They can remain invisible like any jaathoom, but prefer to make themselves
-  visible to better communicate and express their individuality through bright fabrics,
-  expensive jewels, and flashy displays of excess.<br/><br/><b><u>Recall Knowledge
-  - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 32<br/><b><u>Unspecific Lore</u></b>: DC 30<br/><b><u>Specific Lore</u></b>:
-  DC 27'
 dexterity: '+7'
 element: Air
 fly_speed: '75'

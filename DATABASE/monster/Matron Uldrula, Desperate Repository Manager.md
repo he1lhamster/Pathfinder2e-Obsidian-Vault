@@ -1,63 +1,131 @@
 ﻿---
-ac: '14'
+ac: '40'
 alignment: N
 all_resistance: null
 burrow_speed: null
-charisma: '+1'
+charisma: '+8'
 climb_speed: null
-constitution: '-2'
+constitution: '+6'
 creature_ability:
-- Get Underfoot
+- Infuse Weapon
+- Shard Shield
+- Soul Lock
+- Soul Shards
+- Spirit Touch
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 23<br/><b><u>Unspecific
-  Lore</u></b>: DC 21<br/><b><u>Specific Lore</u></b>: DC 18'
-dexterity: '+2'
+dexterity: '+5'
 element: null
-fly_speed: null
-fortitude: '+3'
+fly_speed: '40'
+fortitude: '+31'
 hardness: null
-hp: '6'
-id: '1964'
-immunity: null
-intelligence: '-4'
-land_speed: '20'
-language: null
-level: '-1'
-max_speed: '20'
-name: Masu
-perception: '+8'
+hp: '275'
+id: '2442'
+immunity:
+- '[[DATABASE/trait/Death|death]] effects'
+- '[[DATABASE/trait/Disease|disease]]'
+intelligence: '+7'
+land_speed: '25'
+language:
+- '[[DATABASE/language/Abyssal|Abyssal]]'
+- '[[DATABASE/language/Celestial|Celestial]]'
+- '[[DATABASE/language/Infernal|Infernal]]'
+- '[[DATABASE/language/Requian|Requian]] ; [[DATABASE/spell/Tongues|tongues]]'
+level: '19'
+max_speed: '40'
+name: Matron Uldrula
+perception: '+38'
 rarity: Unique
-reflex: '+8'
-resistance: null
+reflex: '+30'
+resistance:
+- '[[DATABASE/trait/Negative|negative]] 20'
+- '[[DATABASE/trait/Poison|poison]] 20'
 rus_type_level: null
 school: null
 sense:
-- '[[DATABASE/trait/Light|low-light vision]]'
-size: Tiny
+- '[[DATABASE/monsterability/Darkvision|darkvision]]'
+- '[[DATABASE/monsterability/Lifesense|lifesense]] 120 feet'
+size: Medium
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +6'
-- '[[DATABASE/skill/Stealth|Stealth]] +6'
-source: '[[DATABASE/source/Pathfinder 179. Cradle of Quartz|Pathfinder #179: Cradle
-  of Quartz]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +31'
+- '[[DATABASE/skill/Lore|Boneyard Lore]] +37'
+- '[[DATABASE/skill/Deception|Deception]] +35'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +35'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +35'
+- '[[DATABASE/skill/Lore|Legal Lore]] +33'
+- '[[DATABASE/skill/Occultism|Occultism]] +33'
+- '[[DATABASE/skill/Religion|Religion]] +37'
+- '[[DATABASE/skill/Society|Society]] +33'
+- '[[DATABASE/skill/Stealth|Stealth]] +31'
+source: '[[DATABASE/source/Pathfinder 186. Ghost King''s Rage|Pathfinder #186: Ghost
+  King''s Rage]]'
 speed:
-- 20 feet
-spell: null
-strength: '-4'
-strength_req: '-4'
+- 25 feet
+- fly 40 feet
+spell:
+- '[[DATABASE/spell/Anathematic Reprisal|Anathematic Reprisal]]'
+- '[[DATABASE/spell/Banishment|Banishment]]'
+- '[[DATABASE/spell/Bind Undead|Bind Undead]]'
+- '[[DATABASE/spell/Calm Emotions|Calm Emotions]]'
+- '[[DATABASE/spell/Charm|Charm]]'
+- '[[DATABASE/spell/Chill Touch|Chill Touch]]'
+- '[[DATABASE/spell/Confusion|Confusion]]'
+- '[[DATABASE/spell/Daze|Daze]]'
+- '[[DATABASE/spell/Death Knell|Death Knell]]'
+- '[[DATABASE/spell/Detect Alignment|Detect Alignment]]'
+- '[[DATABASE/spell/Detect Magic|Detect Magic]]'
+- '[[DATABASE/spell/Discern Lies|Discern Lies]]'
+- '[[DATABASE/spell/Disrupt Undead|Disrupt Undead]]'
+- '[[DATABASE/spell/False Life|False Life]]'
+- '[[DATABASE/spell/Ghost Sound|Ghost Sound]]'
+- '[[DATABASE/spell/Globe of Invulnerability|Globe of Invulnerability]]'
+- '[[DATABASE/spell/Guidance|Guidance]]'
+- '[[DATABASE/spell/Heal|Heal]]'
+- '[[DATABASE/spell/Illusory Disguise|Illusory Disguise]]'
+- '[[DATABASE/spell/Invisibility|Invisibility]]'
+- '[[DATABASE/spell/Lament|Lament]]'
+- '[[DATABASE/spell/Mind Probe|Mind Probe]]'
+- '[[DATABASE/spell/Mind Reading|MindReading]]'
+- '[[DATABASE/spell/Mirror Image|Mirror Image]]'
+- '[[DATABASE/spell/Overflowing Sorrow|Overflowing Sorrow]]'
+- '[[DATABASE/spell/Phantasmal Calamity|Phantasmal Calamity]]'
+- '[[DATABASE/spell/Phantasmal Killer|Phantasmal Killer]]'
+- '[[DATABASE/spell/Phantom Pain|Phantom Pain]]'
+- '[[DATABASE/spell/Plane Shift|Plane Shift]]'
+- '[[DATABASE/spell/Prestidigitation|Prestidigitation]]'
+- '[[DATABASE/spell/Read Aura|Read Aura]]'
+- '[[DATABASE/spell/Read Omens|ReadOmens]]'
+- '[[DATABASE/spell/Reaper''s Lantern|Reaper''s Lantern]]'
+- '[[DATABASE/spell/Searing Light|Searing Light]]'
+- '[[DATABASE/spell/See Invisibility|See Invisibility]]'
+- '[[DATABASE/spell/Sigil|Sigil]]'
+- '[[DATABASE/spell/Slow|Slow]]'
+- '[[DATABASE/spell/Spirit Blast|SpiritBlast]]'
+- '[[DATABASE/spell/Spiritual Guardian|Spiritual Guardian]]'
+- '[[DATABASE/spell/Stabilize|Stabilize]]'
+- '[[DATABASE/spell/Synesthesia|Synesthesia]]'
+- '[[DATABASE/spell/Talking Corpse|Talking Corpse]]'
+- '[[DATABASE/spell/Tongues|Tongues]]'
+- '[[DATABASE/spell/True Strike|TrueStrike]]'
+- '[[DATABASE/spell/Unfathomable Song|Unfathomable Song]]'
+- '[[DATABASE/spell/Wall of Force|Wall of Force]]'
+- '[[DATABASE/spell/Weird|Weird]]'
+- '[[DATABASE/spell/Zone of Truth|Zone of Truth]]'
+strength: '+6'
+strength_req: '6'
 strongest_save:
-- Reflex
+- Will
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Animal|Animal]]'
+- '[[DATABASE/trait/Monitor|Monitor]]'
+- '[[DATABASE/trait/Psychopomp|Psychopomp]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: Low-light vision
+vision: Darkvision
 weakest_save:
-- Fortitude
+- Reflex
 weakness: null
-will: '+6'
-wisdom: '+1'
+will: '+35'
+wisdom: '+10'
 
 ---
 # Matron Uldrula, Desperate Repository Manager

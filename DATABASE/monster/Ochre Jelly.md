@@ -12,13 +12,6 @@ creature_ability:
 - Ochre Acid
 - Split
 creature_family: '[[DATABASE/monsterfamily/Ooze|Ooze]]'
-description: "Ochre jellies are animate masses of protoplasm with a sickly combination\
-  \ of yellow, orange, and brown hues. Their acidic bodies dissolve flesh but leave\
-  \ other materials, including a victim\u2019s gear and bones, intact. Some ancient\
-  \ cultures would entomb bodies in stone sarcophaguses with ochre jellies to allow\
-  \ the ooze to break down the  flesh and clean and polish the bones.<br/><br/><b><u>Recall\
-  \ Knowledge - Ooze</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 20<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>: DC 15"
 dexterity: '-5'
 element: null
 fly_speed: null

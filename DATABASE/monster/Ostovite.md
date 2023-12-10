@@ -10,34 +10,6 @@ creature_ability:
 - Bone Chariot
 - Scuttle Away
 creature_family: null
-description: "Skittering scavenger vermin common throughout the [[DATABASE/plane/Abyss|Abyss]]\
-  \ , ostovites roam battlefields to harvest flesh and bones. After the ostovites\
-  \ dissolve and slurp up the flesh for sustenance, they craft the bones into elaborate\
-  \ shells they refer to as \u201Cbone chariots.\u201D<br/><br/> These bone chariots\
-  \ move under the ostovites' command and serve as an important marker of rank in\
-  \ ostovite nests. To the tiny ostovites, bigger is better, and building large skeletal\
-  \ conveyances is the only way for them to increase their standing in life. Although\
-  \ they feel deeply inferior to creatures larger than themselves, this fear can be\
-  \ overwhelmed by the ostovites' visceral desire to harvest those creatures' bones\
-  \ to increase their own status. When confronted with a particularly massive skeleton,\
-  \ ostovites generally fight among themselves and end up splitting the haul. However,\
-  \ there are rare instances of the selfish creatures working together to puppeteer\
-  \ a much larger bone chariot.<br/><br/> Ostovites' faint understanding of anatomy\
-  \ results in bone chariots that look more like a nightmarish attempt at art than\
-  \ any creature the bones were pulled from. Some powerful fiends and their admirers\
-  \ collect this strange art by bribing ostovites with skeletons or finding ways to\
-  \ kill ostovites without disrupting the chariot around them. Despite ostovites'\
-  \ origins in the Abyss, they are neither [[DATABASE/monsterfamily/Demon|demons]]\
-  \ nor [[DATABASE/monsterfamily/Qlippoth|qlippoth]] .<br/><br/> Without the protection\
-  \ of the major fiends, they find their homes in nooks and crannies along the corners\
-  \ of their home plane. Though they have no innate ability to cross the planar boundaries,\
-  \ flaws in the Abyss's fabric often lead them to worlds across the planes. Ostovites\
-  \ that have thus migrated are often much happier. Away from demonic abuse, they\
-  \ usually can be found near mortal crypts and battlefields. On the [[DATABASE/plane/Material\
-  \ Plane|Material Plane]] , they rarely have to face any threats other than the [[DATABASE/trait/Undead|undead]]\
-  \ , clerics of [[DATABASE/deity/Pharasma|Pharasma]] , and families of the deceased.<br/><br/><b><u>Recall\
-  \ Knowledge - Fiend</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 15<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>: DC 10"
 dexterity: '+4'
 element: null
 fly_speed: null

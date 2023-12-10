@@ -11,18 +11,6 @@ creature_ability:
 - Fate Drain
 - Wrath of Fate
 creature_family: '[[DATABASE/monsterfamily/Aeon|Aeon]]'
-description: 'Theletoses maintain the balance between fate and free will. A theletos
-  is a roughly spherical mass of crystals from which emerge four limbs, each split
-  at the elbow and ending in three-fingered hands. A pair of crystalline tentacles
-  also emerges from its body. Those who have been damaged by a theletos''s tentacles
-  describe a disorienting dilemma as they simultaneously feel forced to make a single
-  choice while also being overwhelmed by the endless options available to choose from.
-  Theletoses are more likely than most aeons to interfere in non-aeon societies, particularly
-  in regions with draconian laws. Their involvement is twofold; a theletos concerns
-  itself with both the freedom of individuals and the laws that restrict these individuals,
-  even (or especially) when the two are in opposition.<br/><br/><b><u>Recall Knowledge
-  - Monitor</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 23<br/><b><u>Unspecific
-  Lore</u></b>: DC 21<br/><b><u>Specific Lore</u></b>: DC 18'
 dexterity: '+4'
 element: null
 fly_speed: '25'

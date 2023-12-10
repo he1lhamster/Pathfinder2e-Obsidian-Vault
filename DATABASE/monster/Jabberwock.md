@@ -16,39 +16,6 @@ creature_ability:
 - ''
 - Whiffling
 creature_family: null
-description: "Few beasts have inspired as many legends, poems, songs, and myths in\
-  \ as many cultures, as this bizarre draconic creature. The jabberwock hails from\
-  \ the fey realm of the First World and is part of a group of powerful [[DATABASE/plane/First\
-  \ World|First World]] creatures known collectively as the Tane.<br/><br/>Like all\
-  \ members of the Tane, jabberwocks are living creatures that age, eat, drink, and\
-  \ sleep, but do not reproduce normally. Instead, they are created directly by the\
-  \ godlike Eldest who rule the First World, and they serve at the pleasure (or frustration)\
-  \ of these capricious and mysterious entities. Believed to be the most powerful\
-  \ of all the Tane, jabberwocks are typically only ever created with one purpose:\
-  \ to wreak destruction and havoc upon the Material Plane. One of the Eldest might\
-  \ send a jabberwock to devastate a country, continent, or even entire world in order\
-  \ to get revenge for some slight made against them by a single mortal. Sometimes,\
-  \ no specific insult or injury is required, as some of the Eldest resent the very\
-  \ existence of the Material Plane and periodically create jabberwocks simply to\
-  \ express the wrath of the First World against its younger and less chaotic sibling.<br/><br/>Once\
-  \ a jabberwock arrives on the Material Plane, its first order of business is to\
-  \ seek out a lair. It prefers dwelling in remote forest locations about a day's\
-  \ flight from civilization\u2014the more dangerous the woodland is to those who\
-  \ might eventually come hunting it, the better! <br/><br/>The relationship between\
-  \ jabberwocks and [[DATABASE/equipment/Vorpal|vorpal]] weapons is the subject of\
-  \ much debate and speculation among scholars, and the various poems, songs, and\
-  \ legends about the jabberwock do little to clarify the issue, conflicting and diverging\
-  \ on this point. Some believe that <i>vorpal </i>weapons were first created specifically\
-  \ to combat jabberwocks, but others take the story one step further. They cite evidence\
-  \ in certain ancient myths that there may once have been only a single, unique jabberwock,\
-  \ so powerful that nothing could so much as scratch it\u2014nothing, that is, except\
-  \ for the first <i>vorpal </i>sword, crafted for that very purpose. So epic was\
-  \ the resulting battle that it created strange echoes throughout reality, and as\
-  \ a result, these echoes, in the form of <i>vorpal </i>weapons, can now be found\
-  \ on many worlds. Those who subscribe to this belief claim that the jabberwocks\
-  \ seen today are but pale imitations of this proto-jabberwock, and they speculate\
-  \ that only the combined efforts of several Eldest would be sufficient to create\
-  \ such a creature again.<br/><br/>"
 dexterity: '+7'
 element: null
 fly_speed: '60'

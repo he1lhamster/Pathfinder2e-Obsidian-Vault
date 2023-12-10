@@ -16,13 +16,6 @@ creature_ability:
 - Swallow
 - Whole
 creature_family: null
-description: "Akiton's gluttonworms share many features of Golarion's [[DATABASE/monsterfamily/Cave\
-  \ Worm|cave worms]] , yet these immense predators are their own distinct species.\
-  \ Gluttonworms \u201Cswim\u201D through the vast deserts of Akiton, moving almost\
-  \ like whales through the ocean as they forage for their next meals.<br/><br/><b><u>Recall\
-  \ Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 41<br/><b><u>Unspecific Lore</u></b>: DC 39<br/><b><u>Specific Lore</u></b>:\
-  \ DC 36"
 dexterity: '+4'
 element: null
 fly_speed: null

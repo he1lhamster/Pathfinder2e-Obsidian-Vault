@@ -14,26 +14,6 @@ creature_ability:
 - Strike
 - Trample
 creature_family: '[[DATABASE/monsterfamily/Fleshforged|Fleshforged]]'
-description: 'Created in the arcane fleshforges of Nex, this creature was spawned
-  as the ultimate brute-force tool for urban assaults against the cities of Geb. At
-  30 feet tall, the dreadnought easily tops most city walls, and Nexian infantry forces
-  would scramble up the spikes on the creature''s back to penetrate defensive fortifications.
-  Every detail of the creature''s physiology was fashioned for the battlefield, from
-  the ballista of bone and sinew integrated into its torso to the bulky ram on the
-  crest of its head. The fleshforged''s acidic blood not only serves an important
-  hydraulic function but also deters city defenders who might attempt to strike down
-  the creature.<br/><br/> During the war between Nex and Geb, fleshforged dreadnoughts
-  most often appeared as part of a coordinated assault and typically replaced or augmented
-  an army''s compliment of siege weaponry. Common tactics employed by Nex''s generals
-  would direct the dreadnought to crush all opposition standing in front of a city''s
-  gate and then smash through it. Should the city''s defenses prove resilient, invading
-  troops would scale the creature to get over the city walls, relying on the dreadnought''s
-  regenerative properties to ensure it wouldn''t be destroyed while helping them bypass
-  the defensive barriers.<br/><br/> Fleshforged dreadnoughts all but vanished after
-  the disappearance of the archmage Nex, but tales of their destructive power have
-  been preserved.<br/><br/><b><u>Recall Knowledge - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Crafting|Crafting]] )</b>: DC 43<br/><b><u>Unspecific Lore</u></b>:
-  DC 41<br/><b><u>Specific Lore</u></b>: DC 38'
 dexterity: '+6'
 element: null
 fly_speed: null

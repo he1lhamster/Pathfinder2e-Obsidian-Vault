@@ -10,13 +10,6 @@ creature_ability:
 - Collaborative Thievery
 - Pickpocket
 creature_family: '[[DATABASE/monsterfamily/Downtrodden|Downtrodden]]'
-description: 'Although their escapades might be notorious, few urchins are thrill-seekers.
-  For some urchins, when begging alone is not enough to fill their bellies, theft
-  becomes a viable survival tactic. Many underworld powers also use urchins as spies
-  and messengers, while training them to become future pickpockets, burglars, and
-  foot soldiers.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 13<br/><b><u>Unspecific Lore</u></b>: DC 11<br/><b><u>Specific Lore</u></b>:
-  DC 8'
 dexterity: '+3'
 element: null
 fly_speed: null

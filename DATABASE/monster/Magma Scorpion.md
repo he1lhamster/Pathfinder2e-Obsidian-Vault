@@ -10,11 +10,6 @@ creature_ability:
 - Magma Scorpion Venom
 - Smoke Vision
 creature_family: '[[DATABASE/monsterfamily/Elemental, Fire|Elemental, Fire]]'
-description: 'Whether skittering through Abyssal wastelands or basking in the searing
-  sand of the deepest deserts, magma scorpions have charred carapaces constantly emitting
-  vision-warping waves of heat.<br/><br/><b><u>Recall Knowledge - Elemental</u> (
-  [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]] )</b>: DC 24<br/><b><u>Unspecific
-  Lore</u></b>: DC 22<br/><b><u>Specific Lore</u></b>: DC 19'
 dexterity: '+3'
 element: Fire
 fly_speed: null

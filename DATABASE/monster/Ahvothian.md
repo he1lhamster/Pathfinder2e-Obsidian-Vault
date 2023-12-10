@@ -11,21 +11,6 @@ creature_ability:
 - Reptile Master
 - Wicked Trophies
 creature_family: null
-description: "Ahvothians are feral and cunning fiends from an [[DATABASE/plane/Abyss|Abyssal]]\
-  \ realm of jungles, dinosaurs, and relentless brutality. They resemble humanoid\
-  \ [[DATABASE/monsterfamily/Dinosaur|dinosaurs]] with narrow, fanged heads similar\
-  \ to raptors and solid, heavy legs like sauropods. Relentless trackers and survivalists,\
-  \ ahvothians are skilled at navigating jungles and are most commonly encountered\
-  \ stalking prey or operating out of fortified ruins. Ahvothians have an uncanny\
-  \ affinity with reptiles, and they often use dinosaurs\u2014particularly carnivores\
-  \ such as allosauruses or [[DATABASE/monster/Deinonychus|deinonychuses]] \u2014\
-  as hunting companions or guard animals. Although dangerous in large groups, ahvothians\
-  \ have such a strong desire to assert dominance over others that ahvothian armies\
-  \ frequently fall to infighting and bloody battles for dominance within days, or\
-  \ even hours. The mightiest ahvothians might lead dozens of their kin and herds\
-  \ of carnivorous dinosaurs.<br/><br/><b><u>Recall Knowledge - Fiend</u> ( [[DATABASE/skill/Religion|Religion]]\
-  \ )</b>: DC 25<br/><b><u>Unspecific Lore</u></b>: DC 23<br/><b><u>Specific Lore</u></b>:\
-  \ DC 20"
 dexterity: '+2'
 element: null
 fly_speed: null

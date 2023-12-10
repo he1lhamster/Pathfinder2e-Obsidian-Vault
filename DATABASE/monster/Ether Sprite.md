@@ -10,10 +10,6 @@ creature_ability:
 - Hilarious Insult
 - Natural Glow
 creature_family: '[[DATABASE/monsterfamily/Sprite|Sprite]]'
-description: 'The excitable sprites of the Ether Court prefer to frolic, drink, insult
-  each other, and perform improv comedy.<br/><br/><b><u>Recall Knowledge - Fey</u>
-  ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 13<br/><b><u>Unspecific Lore</u></b>:
-  DC 11<br/><b><u>Specific Lore</u></b>: DC 8'
 dexterity: '+3'
 element: null
 fly_speed: '40'

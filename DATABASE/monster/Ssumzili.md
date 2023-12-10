@@ -15,14 +15,6 @@ creature_ability:
 - Standing
 - Water
 creature_family: null
-description: 'Ssumzilis are lanky, murderous fey who delight in the thrill of the
-  hunt. They are particularly skilled/adept at stalking their prey in the rain and
-  most commonly reside in rainforests and coastal regions, where frequent rain provides
-  ample opportunity to hunt. Camouflaged by their cloud-gray skin, ssumzilis often
-  compete in tests of stealth when hunting in groups, taking particular delight in
-  approaching their quarry as closely as possible without being observed.<br/><br/><b><u>Recall
-  Knowledge - Fey</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 32<br/><b><u>Unspecific
-  Lore</u></b>: DC 30<br/><b><u>Specific Lore</u></b>: DC 27'
 dexterity: '+7'
 element: null
 fly_speed: null

@@ -14,16 +14,6 @@ creature_ability:
 - Psychokinetic Trumpet
 - Trample
 creature_family: null
-description: 'Though teraphants may resemble an elephant from afar, teraphants lack
-  the long incisors that mark other pachyderms. Instead, tusk-like horns grow from
-  their forehead. Native to Vudra, teraphants are occasionally found in Jalmeray and
-  Nex, brought as rare gifts for nobles.<br/><br/> These placid herbivores'' resonant
-  psychic powers warn them against creatures approaching with ill intent. Faced with
-  strong, sustained emotions, teraphants may find themselves responding in kind, which
-  sometimes drive them into a fearsome rage against aggressive foes.<br/><br/><b><u>Recall
-  Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 28<br/><b><u>Unspecific Lore</u></b>: DC 26<br/><b><u>Specific Lore</u></b>:
-  DC 23'
 dexterity: '+1'
 element: null
 fly_speed: null

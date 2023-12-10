@@ -13,18 +13,6 @@ creature_ability:
 - Sense Murderer
 - Undying Vendetta
 creature_family: '[[DATABASE/monsterfamily/Revenant|Revenant]]'
-description: "Revenants are obsessed, undead stalkers who arise from their own murders\
-  \ and are driven by only one thing: revenge against their killers. The common wisdom\
-  \ is that revenants arise only from individuals who have been utterly betrayed or\
-  \ abandoned to die a grueling death, but even then such victims might not rise from\
-  \ their graves. In other cases, revenants might even rise from what might legitimately\
-  \ be considered an accident if the revenant doesn't understand the full circumstances\
-  \ of their demise. In such cases, it doesn't matter that the \u201Cmurderer\u201D\
-  \ may not have intended to kill, for revenants understands no pity and can never\
-  \ forgive. Revenants have little memory of their lives other than anything they\
-  \ might need to recall in order to achieve their goal of vengeance.<br/><br/><b><u>Recall\
-  \ Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 22<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 20<br/><b><u>Specific Lore</u></b>: DC 17"
 dexterity: '+3'
 element: null
 fly_speed: null

@@ -12,9 +12,6 @@ creature_ability:
 - Penetrating Bite
 - Prop
 creature_family: '[[DATABASE/monsterfamily/Beaver|Beaver]]'
-description: 'A typical beaver can grow up to 4 feet long and weigh up to 65 pounds.<br/><br/><b><u>Recall
-  Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 13<br/><b><u>Unspecific
-  Lore</u></b>: DC 11<br/><b><u>Specific Lore</u></b>: DC 8'
 dexterity: '+2'
 element: null
 fly_speed: null

@@ -13,15 +13,6 @@ creature_ability:
 - Odor of Rot
 - Throw Rock
 creature_family: '[[DATABASE/monsterfamily/Bhanyada|Bhanyada]]'
-description: 'The largest bhanyadas are made up of tens of thousands of component
-  parts, all mashed together into a roughly humanoid shape that walks on stumpy legs.
-  Bhanyada behemoths usually have at least four thick arms ending in meaty fists,
-  although some behemoths have a profusion of hands sprouting from their torsos. A
-  bhanyada behemoth''s head is studded with tiny eyes all over its surface that observe
-  the surrounding terrain and give information so the entire amalgamation can move
-  in unison.<br/><br/><b><u>Recall Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]]
-  )</b>: DC 32<br/><b><u>Unspecific Lore</u></b>: DC 30<br/><b><u>Specific Lore</u></b>:
-  DC 27'
 dexterity: '+2'
 element: null
 fly_speed: null

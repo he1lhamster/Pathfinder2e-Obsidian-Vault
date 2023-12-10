@@ -10,13 +10,6 @@ creature_ability:
 - Nibble
 - Scrabbling Swarm
 creature_family: '[[DATABASE/monsterfamily/Squirrel|Squirrel]]'
-description: 'Descending with a shriek, a swarm of squirrels is a menace to foes,
-  crawling in and out of pockets and clothing, biting and scratching as it goes. Though
-  squirrels are usually independent, they might form into swarms when cornered or
-  if a predator creates enough of a recurring threat that the little creatures need
-  to gang up.<br/><br/><b><u>Recall Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 15<br/><b><u>Unspecific Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>:
-  DC 10'
 dexterity: '+3'
 element: null
 fly_speed: null

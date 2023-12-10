@@ -12,18 +12,6 @@ creature_ability:
 - Kiss of Death
 - Spirit Touch
 creature_family: '[[DATABASE/monsterfamily/Psychopomp|Psychopomp]]'
-description: 'Not all spirits who enter the [[DATABASE/plane/Boneyard|Boneyard]] realize
-  they have died. Catrinas meet these souls, helping to convince them of the finality
-  of their fate to ease a spirit''s passing. Catrinas are more likely to intervene
-  when a mortal can''t accept their death. They perform their task to keep the afterlife
-  calm, rather than out of true compassion for a mortal''s grief. Catrinas only rarely
-  visit the Material Plane, typically to help an extremely important mortal pass on.<br/><br/>
-  Catrinas resemble skeletons dressed in bright flowers and colorful dresses, giving
-  them a simultaneously festive and macabre appearance. Though most catrinas present
-  as feminine, masculine catrinas still dress in bright colors and carry garlands
-  of flowers.<br/><br/><b><u>Recall Knowledge - Monitor</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 20<br/><b><u>Unspecific Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>:
-  DC 15'
 dexterity: '+5'
 element: null
 fly_speed: null

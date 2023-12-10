@@ -13,17 +13,6 @@ creature_ability:
 - Searing Heat
 - Soul Chain
 creature_family: null
-description: "Evil [[DATABASE/ancestry/Dwarf|dwarves]] who die having failed to live\
-  \ up to the exacting standards of the [[DATABASE/monsterfamily/Duergar|duergar]]\
-  \ god [[DATABASE/deity/Droskar|Droskar]] are sometimes forced to return to the material\
-  \ world as undead abominations known as forge-spurned. Forge-spurned look like dwarves\
-  \ with pupilless eyes and leathery flesh, and with their hair and beard made of\
-  \ smoke and fire\u2014newly formed forge-spurned can almost be mistaken for living\
-  \ creatures as a result. The longer forge-spurned exist, the more skeletal and fiery\
-  \ their visage becomes; those who have existed for centuries or more often look\
-  \ as if they have skulls for faces and fire for hair.<br/><br/><b><u>Recall Knowledge\
-  \ - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 22<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 20<br/><b><u>Specific Lore</u></b>: DC 17"
 dexterity: '+2'
 element: Fire
 fly_speed: null

@@ -15,14 +15,6 @@ creature_ability:
 - Reactive
 - Strike
 creature_family: '[[DATABASE/monsterfamily/Xiomorn|Xiomorn]]'
-description: 'Vault builders still possess the full power [[DATABASE/deity/Sairazul|Sairazul]]
-  instilled in them, capable of creating new life and shaping the world around them.
-  A vault builder''s life span is several millennia, but their memories are preserved
-  within a crystalline generation stone when they die to be placed inside a newly
-  constructed vault builder body.<br/><br/><b><u>Recall Knowledge - Elemental</u>
-  ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]] )</b>: DC
-  51<br/><b><u>Unspecific Lore</u></b>: DC 49<br/><b><u>Specific Lore</u></b>: DC
-  46'
 dexterity: '+10'
 element: Earth
 fly_speed: null

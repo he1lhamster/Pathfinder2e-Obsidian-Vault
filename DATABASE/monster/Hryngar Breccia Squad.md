@@ -19,15 +19,6 @@ creature_ability:
 - Troop Defenses
 - Troop Movement
 creature_family: '[[DATABASE/monsterfamily/Duergar|Duergar]]'
-description: 'A hryngar breccia squad is a group of hryngar martial combatants armed
-  with melee weapons and steel shields. Though more likely to be encountered near
-  large hryngar settlements, these strike forces see wide use throughout the Darklands.
-  Hryngar breccia squads often serve as military units, mercenary companies, city
-  patrols, and caravan guards. Like all warriors, the favored combat methods of a
-  hryngar breccia squad change by location, often due to surrounding environment and
-  popular equipment.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 28<br/><b><u>Unspecific Lore</u></b>: DC 26<br/><b><u>Specific Lore</u></b>:
-  DC 23'
 dexterity: '+2'
 element: null
 fly_speed: null

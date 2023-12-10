@@ -9,13 +9,6 @@ constitution: '+1'
 creature_ability:
 - Fated Doom
 creature_family: '[[DATABASE/monsterfamily/Mystics|Mystics]]'
-description: 'A harrow deck is a set of 54 cards with symbolic illustrations that
-  serves as a sacred divining tool. Feared by the superstitious and avoided by those
-  who know better than to tempt fate, harrow readers live and work in traveling communities,
-  often moving from town to town as opportunities arise. For encounters involving
-  social interaction, the harrow reader is a 3rd-level challenge.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 13<br/><b><u>Unspecific
-  Lore</u></b>: DC 11<br/><b><u>Specific Lore</u></b>: DC 8'
 dexterity: '+2'
 element: null
 fly_speed: null

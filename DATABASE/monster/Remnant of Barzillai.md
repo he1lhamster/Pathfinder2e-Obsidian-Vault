@@ -10,26 +10,6 @@ creature_ability:
 - Create Haunt
 - Haunted Form
 creature_family: null
-description: "Though the Silver Ravens defeated the evil tyrant Barzillai Thrune before\
-  \ he could fully realize his goal of becoming a genius loci, remnants of his spirit\
-  \ remain throughout the Ravounel region. On occasion, these scraps of sentience\
-  \ form a vague, Barzillai-shaped body from bits of the nearby terrain, but when\
-  \ near haunted locations, the spectral force can coalesce into a more precise body\
-  \ using ectoplasm siphoned from these haunts. In either form, the remnant carries\
-  \ a form of Barzillai\u2019s own burning mace, which dissolves into a thin mist\
-  \ 1 hour after the remnant is destroyed.<br/><br/> Remnants of Barzillai can manifest\
-  \ anywhere throughout Ravounel, and even after one remnant is defeated, another\
-  \ might arise later on. The undead inquisitor can be put to rest permanently only\
-  \ by retrieving his mace before it disappears, then burying it in a location consecrated\
-  \ by good clerics, where it must remain for at least a year undisturbed.<br/><br/>\
-  \ While a remnant of Barzillai can draw power from any haunt it is associated with,\
-  \ remnants tend to do so with specific haunts. The haunts presented on pages 27\u2013\
-  28 are commonly associated with remnants of Barzillai. These are far from the only\
-  \ haunts Barzillai can create, however; the Silver Ravens\u2019 records mention\
-  \ many phenomena associated with the undead being, some of which deal with themes\
-  \ of various birds, the scents of mint and tea, and ghostly figures in heavy armor.<br/><br/><b><u>Recall\
-  \ Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 32<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 30<br/><b><u>Specific Lore</u></b>: DC 27"
 dexterity: '+3'
 element: null
 fly_speed: '25'

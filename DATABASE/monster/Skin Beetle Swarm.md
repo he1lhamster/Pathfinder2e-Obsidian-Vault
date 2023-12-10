@@ -9,11 +9,6 @@ constitution: '+4'
 creature_ability:
 - Swarming Bites
 creature_family: '[[DATABASE/monsterfamily/Skin Beetle|Skin Beetle]]'
-description: 'When a massive creature such a [[DATABASE/monsterfamily/Dinosaur|dinosaur]]
-  or [[DATABASE/monsterfamily/Giant|giant]] dies in skin beetle territory, the industrious
-  vermin swarm together.<br/><br/><b><u>Recall Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 26<br/><b><u>Unspecific Lore</u></b>: DC 24<br/><b><u>Specific Lore</u></b>:
-  DC 21'
 dexterity: '+6'
 element: null
 fly_speed: '15'

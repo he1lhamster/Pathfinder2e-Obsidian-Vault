@@ -13,11 +13,6 @@ creature_ability:
 - Tetanus
 - Trample
 creature_family: '[[DATABASE/monsterfamily/Elemental, Metal|Elemental, Metal]]'
-description: 'These elementals resemble enormous beetles, with thick outer shells
-  composed of multiple layers of heavily pockmarked, rusted plates protecting a jagged
-  metallic skeleton.<br/><br/><b><u>Recall Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Nature|Nature]] )</b>: DC 20<br/><b><u>Unspecific Lore</u></b>:
-  DC 18<br/><b><u>Specific Lore</u></b>: DC 15'
 dexterity: '+2'
 element: Metal
 fly_speed: null

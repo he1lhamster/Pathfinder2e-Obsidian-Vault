@@ -12,19 +12,6 @@ creature_ability:
 - Skip Between
 - Tainted Backlash
 creature_family: '[[DATABASE/monsterfamily/Sahkil|Sahkil]]'
-description: 'Nenchuujes embody the fear of magic corrupted, gone wrong, or spiraling
-  out of control with unintended consequences. A nenchuuj''s eyes are like divination
-  pools, showing visions of all the ways various spells can fail, backfire, or warp.
-  The smell of burnt flesh and ozone hangs heavy around them. When they speak, corrupted
-  magical energy pours from their mouths. Regions recovering from tremendous magical
-  fallout, or where many novices in magical studies gather, may draw large numbers
-  of nenchuujes. They like to lure spellcasters close by affecting a fear of magic,
-  often feigning piteous distress or recoiling from simple spells, only to turn more
-  powerful effects against a spellcaster''s allies and relish the horror this produces.
-  Nenchuujes denounce the spellcasters for being at fault in harming these allies,
-  stoking feelings of regret.<br/><br/><b><u>Recall Knowledge - Fiend</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 41<br/><b><u>Unspecific Lore</u></b>: DC 39<br/><b><u>Specific Lore</u></b>:
-  DC 36'
 dexterity: '+8'
 element: null
 fly_speed: null

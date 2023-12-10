@@ -1,96 +1,82 @@
 ﻿---
-ac: '17'
-alignment: null
+ac: '36'
+alignment: CE
 all_resistance: null
 burrow_speed: null
-charisma: '+4'
+charisma: '+7'
 climb_speed: null
-constitution: '+0'
+constitution: '+6'
 creature_ability:
-- Attuned Element
-- Change Shape
-- Inspiring Influence
-- Little Wish
-creature_family: '[[DATABASE/monsterfamily/Genie|Genie]]'
-description: 'Gennayns are minor genies who often serve as emissaries and messengers
-  for greater elemental beings. While many find purpose in this humble mission, their
-  true calling and interest is in the arts.<br/><br/> They often appear as miniature,
-  athletic humanoids with wisps of elemental energy continually dissipating from their
-  bodies. These elemental energies often reflect their emotions and attuned element.
-  Gennayns are also fond of ostentatious rings, amulets, and armbands.<br/><br/> Gennayns
-  eagerly assist powerful beings who reward and treat them well, but they''re just
-  as quick to abandon those they consider boring, stingy, or abusive. Beings who destroy
-  artwork or mistreat artists will earn their eternal wrath.<br/><br/><b><u>Recall
-  Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 16<br/><b><u>Unspecific Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>:
-  DC 11'
-dexterity: '+4'
+- Abyssal Spew
+- Defiance Vulnerability
+- Project Blame
+- Rend
+creature_family: '[[DATABASE/monsterfamily/Demon|Demon]]'
+dexterity: '+3'
 element: null
-fly_speed: '15'
-fortitude: '+4'
+fly_speed: '40'
+fortitude: '+29'
 hardness: null
-hp: '30'
-id: '2687'
+hp: '330'
+id: '2523'
 immunity: null
-intelligence: '+2'
-land_speed: '15'
+intelligence: '+4'
+land_speed: '25'
 language:
-- '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Muan|Muan]]'
-- '[[DATABASE/language/Petran|Petran]]'
-- '[[DATABASE/language/Pyric|Pyric]]'
-- '[[DATABASE/language/Sussuran|Sussuran]]'
-- '[[DATABASE/language/Talican|Talican]]'
-- '[[DATABASE/language/Thalassic|Thalassic]]'
-level: '2'
-max_speed: '15'
-name: Gennayn
-perception: '+8'
-rarity: Common
-reflex: '+10'
-resistance:
-- attuned element 5 (see below)
+- '[[DATABASE/language/Abyssal|Abyssal]]'
+- '[[DATABASE/language/Celestial|Celestial]]'
+- '[[DATABASE/language/Draconic|Draconic]] ; [[DATABASE/monsterability/Telepathy|telepathy]]
+  100 feet'
+level: '15'
+max_speed: '40'
+name: Ghalzarokh
+perception: '+28'
+rarity: Uncommon
+reflex: '+24'
+resistance: null
 rus_type_level: null
 school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
-size: Tiny
+- '[[DATABASE/monsterability/Scent|scent]] (imprecise) 60 feet'
+- '[[DATABASE/spell/See Invisibility|see invisibility]]'
+size: Large
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +8'
-- '[[DATABASE/skill/Arcana|Arcana]] +6'
-- '[[DATABASE/skill/Diplomacy|Diplomacy]] +8'
-- '[[DATABASE/skill/Nature|Nature]] +6'
-- '[[DATABASE/skill/Performance|Performance]] +8'
-- '[[DATABASE/skill/Society|Society]] +6'
-- '[[DATABASE/skill/Stealth|Stealth]] +10'
-source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +26'
+- '[[DATABASE/skill/Athletics|Athletics]] +27'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +30'
+- '[[DATABASE/skill/Religion|Religion]] +28'
+- '[[DATABASE/skill/Stealth|Stealth]] +24'
+source: '[[DATABASE/source/Pathfinder 191. The Destiny War|Pathfinder #191: The Destiny
+  War]]'
 speed:
-- 15 feet
-- fly 15 feet
+- 25 feet
+- fly 40 feet
 spell:
-- '[[DATABASE/spell/Comprehend Language|Comprehend Language]]'
-- '[[DATABASE/spell/Guidance|Guidance]]'
-- '[[DATABASE/spell/Heal|Heal]]'
-- '[[DATABASE/spell/Invisibility|Invisibility]]'
-- '[[DATABASE/spell/Light|Light]]'
-- '[[DATABASE/spell/Prestidigitation|Prestidigitation]]'
-- '[[DATABASE/spell/Purify Food and Drink|Purify Food and Drink]]'
-- '[[DATABASE/spell/Summon Instrument|Summon Instrument]]'
-strength: '-2'
-strength_req: '-2'
+- '[[DATABASE/spell/Charm|Charm]]'
+- '[[DATABASE/spell/Command|Command]]'
+- '[[DATABASE/spell/Dominate|Dominate]]'
+- '[[DATABASE/spell/Fireball|Fireball]]'
+- '[[DATABASE/spell/See Invisibility|See Invisibility]]'
+- '[[DATABASE/spell/Suggestion|Suggestion]]'
+strength: '+6'
+strength_req: '6'
 strongest_save:
-- Reflex
+- Fortitude
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Elemental|Elemental]]'
-- '[[DATABASE/trait/Genie|Genie]]'
+- '[[DATABASE/trait/Demon|Demon]]'
+- '[[DATABASE/trait/Fiend|Fiend]]'
+- '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
 vision: Darkvision
 weakest_save:
-- Fortitude
-weakness: null
-will: '+8'
-wisdom: '+2'
+- Reflex
+weakness:
+- '[[DATABASE/equipment/Cold Iron Weapon|cold iron]] 15'
+- good 15
+will: '+26'
+wisdom: '+5'
 
 ---
 # Ghalzarokh (Tyranny Demon)

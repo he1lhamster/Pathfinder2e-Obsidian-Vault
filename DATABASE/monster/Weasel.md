@@ -10,19 +10,6 @@ creature_ability:
 - Constrict
 - Lithe
 creature_family: '[[DATABASE/monsterfamily/Weasel|Weasel]]'
-description: 'Despite their small stature, weasels are skilled hunters. Nearly fearless
-  in pursuit of food, they frequently kill creatures up to five times their own size.
-  Their preferred tactic is to latch onto the back of their victim''s neck and constrict
-  with their jaws until the target dies. To keep themselves well fed, weasels kill
-  more creatures than they need and stuff their victims into hollow logs or empty
-  dens to eat later. Scholars have observed weasels, both in the wild and captivity,
-  perform a bizarre behavior in front of their prey. They rush about unpredictably,
-  throw themselves to the ground, wriggle into and out of burrows, and generally appear
-  to behave entirely irrationally. In response, their prey becomes confused or seemingly
-  hypnotized, which gives the weasel an opportunity to dash forward and strike a killing
-  blow.<br/><br/> A typical weasel is 12 inches long and weighs less than a pound.<br/><br/><b><u>Recall
-  Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 13<br/><b><u>Unspecific
-  Lore</u></b>: DC 11<br/><b><u>Specific Lore</u></b>: DC 8'
 dexterity: '+3'
 element: null
 fly_speed: null

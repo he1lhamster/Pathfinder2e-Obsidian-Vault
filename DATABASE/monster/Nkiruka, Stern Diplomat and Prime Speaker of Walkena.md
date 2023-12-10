@@ -1,100 +1,100 @@
 ﻿---
-ac: '16'
+ac: '36'
 alignment: N
 all_resistance: null
 burrow_speed: null
-charisma: '+4'
+charisma: '+6'
 climb_speed: null
-constitution: '+1'
+constitution: '+4'
 creature_ability:
-- Grant Desire
-- Wild Empathy
+- Ear for Lies
+- Eye for an Opening
+- Group Impression
+- Size Up
 creature_family: null
-description: 'These aquatic fey often guard ponds, rivers, lakes, and springs, protecting
-  their bucolic homes from the advances of predators and careless humanoids alike.
-  Nixies tend to be reclusive and try to keep their presence hidden from humanoids,
-  hoping trespassers won''t give them cause to act. Stories of minor miracles granted
-  by nixies to those they befriend encourage humanoids to seek out these reclusive
-  fey, and ironically make it even more unlikely for a nixie to grant such a boon.
-  On the other hand, if someone approaches a nixie with respect, or even better, a
-  positive attitude that displays just the right amount of humility and easygoing
-  openness, a nixie is far more likely to respond positively to any requests for aid.
-  Often a nixie will ask those who seek their assistance to perform a task for them
-  first; such requests can be minor acts of entertainment (such as telling a rousing
-  story or performing a requested song), but in other cases the nixie might need more
-  significant aid, such as driving off an unwanted local predator or investigating
-  the source of pollution near their home.<br/><br/> Nixies resort to violence only
-  if no other tactic works. They much prefer solutions that rely upon primal magic
-  to defuse conflicts before they can escalate to bloodshed. In pursuit of such resolutions,
-  nixies rely on their ability to charm individuals and, when they can establish magical
-  influence, encourage intruders to leave peacefully. While some nixies try to confuse
-  intruders and subtly guide them from the area, others use local animals and beasts
-  to scare off trespassers. Occasionally, nixies recruit charmed humanoids to act
-  as protectors or help with a task that is simply too big for them to deal with.
-  If this task is underwater, nixies use their magic to temporarily grant the ability
-  to breathe water to the charmed creature. Only those who manage to befriend a nixie
-  are given invitations to return to swim or dine with the fey, and only the most
-  trusted of allies are granted a minor wish.<br/><br/> Nixies appear as aquatic humanoids
-  the size of a child, with large eyes, catfish-like whiskers, and webbed fingers
-  and toes. They have scaly skin, pointed ears, and long hair the color of seaweed.
-  Nixies often form small communities, even building underwater societies if their
-  numbers are great enough. In many cultures'' folklore, there are stories of nixie
-  nations hidden at the bottom of particularly large lakes.<br/><br/><b><u>Recall
-  Knowledge - Fey</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 15<br/><b><u>Unspecific
-  Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>: DC 10'
-dexterity: '+3'
+dexterity: '+4'
 element: null
 fly_speed: null
-fortitude: '+6'
+fortitude: '+24'
 hardness: null
-hp: '25'
-id: '741'
+hp: '260'
+id: '1709'
 immunity: null
-intelligence: '+0'
-land_speed: '20'
+intelligence: '+3'
+land_speed: '25'
 language:
-- '[[DATABASE/language/Aquan|Aquan]]'
-- '[[DATABASE/language/Sylvan|Sylvan]]'
-level: '1'
-max_speed: '30'
-name: Nixie
-perception: '+6'
-rarity: Common
-reflex: '+10'
+- '[[DATABASE/language/Common|Common]]'
+- '[[DATABASE/language/Draconic|Draconic]]'
+- '[[DATABASE/language/Elven|Elven]]'
+- '[[DATABASE/language/Mzunu|Mzunu]]'
+level: '14'
+max_speed: '25'
+name: Nkiruka
+perception: '+25'
+rarity: Unique
+reflex: '+26'
 resistance: null
 rus_type_level: null
 school: null
 sense:
-- '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
-size: Small
+- (29 to notice lies and [[DATABASE/action/Sense Motive|Sense Motive]] )
+size: Medium
 skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +6'
-- '[[DATABASE/skill/Nature|Nature]] +5'
-- '[[DATABASE/skill/Stealth|Stealth]] +8'
-source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +24'
+- '[[DATABASE/skill/Arcana|Arcana]] +25'
+- '[[DATABASE/skill/Deception|Deception]] +28'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +28'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +28'
+- '[[DATABASE/skill/Occultism|Occultism]] +25'
+- '[[DATABASE/skill/Performance|Performance]] +28'
+- '[[DATABASE/skill/Religion|Religion]] +23'
+- '[[DATABASE/skill/Society|Society]] +25'
+source: '[[DATABASE/source/Pathfinder 172. Secrets of the Temple City|Pathfinder #172:
+  Secrets of the Temple City]]'
 speed:
-- 20 feet
-- swim 30 feet
+- 25 feet
 spell:
-- '[[DATABASE/spell/Charm|Charm]]'
-- '[[DATABASE/spell/Hydraulic Push|HydraulicPush]]'
-- '[[DATABASE/spell/Water Breathing|Water Breathing]]'
+- '[[DATABASE/spell/Calm Emotions|Calm Emotions]]'
+- '[[DATABASE/spell/Detect Magic|DetectMagic]]'
+- '[[DATABASE/spell/Dimensional Lock|Dimensional Lock]]'
+- '[[DATABASE/spell/Discern Lies|Discern Lies]]'
+- '[[DATABASE/spell/Dream Message|DreamMessage]]'
+- '[[DATABASE/spell/Forbidding Ward|Forbidding Ward]]'
+- '[[DATABASE/spell/Hypercognition|Hypercognition]]'
+- '[[DATABASE/spell/Illusory Object|Illusory Object]]'
+- '[[DATABASE/spell/Illusory Scene|Illusory Scene]]'
+- '[[DATABASE/spell/Mage Hand|Mage Hand]]'
+- '[[DATABASE/spell/Magic Mouth|MagicMouth]]'
+- '[[DATABASE/spell/Mislead|Mislead]]'
+- '[[DATABASE/spell/Private Sanctum|Private Sanctum]]'
+- '[[DATABASE/spell/Project Image|Project Image]]'
+- '[[DATABASE/spell/Read Aura|Read Aura]]'
+- '[[DATABASE/spell/Repulsion|Repulsion]]'
+- '[[DATABASE/spell/Resilient Sphere|Resilient Sphere]]'
+- '[[DATABASE/spell/Retrocognition|Retrocognition]]'
+- '[[DATABASE/spell/Sanctuary|Sanctuary]]'
+- '[[DATABASE/spell/Sigil|Sigil]]'
+- '[[DATABASE/spell/Status|Status]]'
+- '[[DATABASE/spell/Telepathic Bond|Telepathic Bond]]'
+- '[[DATABASE/spell/Tongues|Tongues]]'
+- '[[DATABASE/spell/True Seeing|True Seeing]]'
+- '[[DATABASE/spell/Unseen Servant|Unseen Servant]]'
+- '[[DATABASE/spell/Wanderer''s Guide|Wanderer''s Guide]]'
 strength: '+0'
 strength_req: '0'
 strongest_save:
 - Reflex
-swim_speed: '30'
+swim_speed: null
 trait:
-- '[[DATABASE/trait/Aquatic|Aquatic]]'
-- '[[DATABASE/trait/Fey|Fey]]'
+- '[[DATABASE/trait/Human|Human]]'
+- '[[DATABASE/trait/Humanoid|Humanoid]]'
+- '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: Low-light vision
+vision: null
 weakest_save:
 - Fortitude
-- Will
-weakness:
-- cold iron 3
-will: '+6'
+weakness: null
+will: '+25'
 wisdom: '+1'
 
 ---

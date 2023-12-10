@@ -13,15 +13,6 @@ creature_ability:
 - Volcanic Veins
 - Whirlwind Throw
 creature_family: null
-description: 'The aberrations known as doprillus are hulks with banded muscles who
-  wear ornate masks at all times that fill their wearers with magical strength and
-  fighting spirit. Doprillus love to battle, especially by grappling, and are eager
-  to start brawls. On neutral ground, a doprillu offers to duel the strongest-looking
-  opponent, but when a doprillu''s home turf is invaded, no rules apply to the confrontation.
-  As befits the superheated blood that fuels them, doprillus make their homes in warm
-  locations: hot jungles, sunny deserts, and underground caverns near sulfur vents.<br/><br/><b><u>Recall
-  Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 32<br/><b><u>Unspecific
-  Lore</u></b>: DC 30<br/><b><u>Specific Lore</u></b>: DC 27'
 dexterity: '+6'
 element: null
 fly_speed: null

@@ -11,15 +11,6 @@ creature_ability:
 - Noble's Ruse
 - Sneak Attack
 creature_family: '[[DATABASE/monsterfamily/Courtiers|Courtiers]]'
-description: "Envied by many and detested by still others, nobles exude confidence\
-  \ and gentility. Gossip and gambling are often nobles' favorite pastimes. Day-to-day\
-  \ life for a noble is often a mixture of business and leisure, and to an onlooker,\
-  \ such a lifestyle can appear to be nothing more than a string of meals, parties,\
-  \ and game halls. However, despite what some might believe, life as a noble is often\
-  \ quite dangerous and requires far more intellect than it would appear\u2014along\
-  \ with a healthy dose of suspicion.<br/><br/><b><u>Recall Knowledge - Humanoid</u>\
-  \ ( [[DATABASE/skill/Society|Society]] )</b>: DC 18<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 16<br/><b><u>Specific Lore</u></b>: DC 13"
 dexterity: '+3'
 element: null
 fly_speed: null

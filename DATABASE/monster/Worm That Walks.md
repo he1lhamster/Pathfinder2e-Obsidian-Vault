@@ -1,67 +1,110 @@
 ﻿---
-ac: '25'
-alignment: N
+ac: '36'
+alignment: CE
 all_resistance: null
 burrow_speed: null
-charisma: '-1'
+charisma: '+8'
 climb_speed: null
 constitution: '+5'
 creature_ability:
-- Cold Adaptation
-- Ferocity
-- Rhinoceros Charge
-- Trample
-creature_family: '[[DATABASE/monsterfamily/Rhinoceros|Rhinoceros]]'
-description: 'Even bulkier than their non-woolly cousins, these rhinoceroses have
-  a shaggy pelt of long, thick fur and a huge crescent-shaped horn. Woolly rhinos
-  inhabit areas of arid tundra and cold steppes, spending much of their day grazing
-  for sustenance.<br/><br/><b><u>Recall Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 22<br/><b><u>Unspecific Lore</u></b>: DC 20<br/><b><u>Specific Lore</u></b>:
-  DC 17'
-dexterity: '+1'
+- Discorporate
+- Squirming Embrace
+- Swarm Shape
+creature_family: '[[DATABASE/monsterfamily/Worm That Walks|Worm That Walks]]'
+dexterity: '+8'
 element: null
 fly_speed: null
-fortitude: '+17'
+fortitude: '+23'
 hardness: null
-hp: '100'
-id: '789'
-immunity: null
-intelligence: '-4'
-land_speed: '35'
-language: null
-level: '6'
-max_speed: '35'
-name: Woolly Rhinoceros
-perception: '+11'
-rarity: Common
-reflex: '+11'
-resistance: null
+hp: 200 ( fast healing 10 )
+id: '864'
+immunity:
+- '[[DATABASE/trait/Disease|disease]]'
+- '[[DATABASE/condition/Paralyzed|paralyzed]]'
+- '[[DATABASE/trait/Poison|poison]]'
+- precision
+- '[[DATABASE/monsterability/Swarm Mind|swarm mind]]'
+- '[[DATABASE/condition/Unconscious|unconscious]]'
+intelligence: '+5'
+land_speed: '30'
+language:
+- '[[DATABASE/language/Aklo|Aklo]]'
+- '[[DATABASE/language/Common|Common]]'
+level: '14'
+max_speed: '30'
+name: Worm That Walks Cultist
+perception: '+25'
+rarity: Uncommon
+reflex: '+28'
+resistance:
+- physical 10
 rus_type_level: null
 school: null
 sense:
-- '[[DATABASE/monsterability/Scent|scent (imprecise) 30 feet]]'
-size: Large
+- '[[DATABASE/monsterability/Darkvision|darkvision]]'
+- '[[DATABASE/monsterability/Tremorsense|tremorsense (imprecise) 30 feet]]'
+size: Medium
 skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +16'
-- '[[DATABASE/skill/Survival|Survival]] +13'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +24'
+- '[[DATABASE/skill/Deception|Deception]] +28'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +26'
+- '[[DATABASE/skill/Occultism|Occultism]] +27'
+- '[[DATABASE/skill/Society|Society]] +23'
+- '[[DATABASE/skill/Stealth|Stealth]] +28'
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
-- 35 feet
-spell: null
-strength: '+6'
-strength_req: '6'
+- 30 feet
+spell:
+- '[[DATABASE/spell/Black Tentacles|Black Tentacles]]'
+- '[[DATABASE/spell/Charm|Charm]]'
+- '[[DATABASE/spell/Comprehend Language|Comprehend Language]]'
+- '[[DATABASE/spell/Daze|Daze]]'
+- '[[DATABASE/spell/Detect Magic|DetectMagic]]'
+- '[[DATABASE/spell/Dimension Door|Dimension Door]]'
+- '[[DATABASE/spell/Dispel Magic|Dispel Magic]]'
+- '[[DATABASE/spell/Dominate|Dominate]]'
+- '[[DATABASE/spell/Dream Message|Dream Message]]'
+- '[[DATABASE/spell/Haste|Haste]]'
+- '[[DATABASE/spell/Hypercognition|Hypercognition]]'
+- '[[DATABASE/spell/Illusory Creature|Illusory Creature]]'
+- '[[DATABASE/spell/Illusory Disguise|Illusory Disguise]]'
+- '[[DATABASE/spell/Light|Light]]'
+- '[[DATABASE/spell/Mage Hand|Mage Hand]]'
+- '[[DATABASE/spell/Mind Probe|Mind Probe]]'
+- '[[DATABASE/spell/Mindlink|Mindlink]]'
+- '[[DATABASE/spell/Mirror Image|Mirror Image]]'
+- '[[DATABASE/spell/Modify Memory|Modify Memory]]'
+- '[[DATABASE/spell/Paranoia|Paranoia]]'
+- '[[DATABASE/spell/Phantasmal Killer|Phantasmal Killer]]'
+- '[[DATABASE/spell/Phantom Pain|Phantom Pain]]'
+- '[[DATABASE/spell/Ray of Enfeeblement|Rayof Enfeeblement]]'
+- '[[DATABASE/spell/Shield|Shield]]'
+- '[[DATABASE/spell/Slow|Slow]]'
+- '[[DATABASE/spell/Subconscious Suggestion|Subconscious Suggestion]]'
+- '[[DATABASE/spell/Suggestion|Suggestion]]'
+- '[[DATABASE/spell/Summon Entity|Summon Entity]]'
+- '[[DATABASE/spell/Undetectable Alignment|Undetectable Alignment]]'
+- '[[DATABASE/spell/Veil|Veil]]'
+- '[[DATABASE/spell/Visions of Danger|Visions of Danger]]'
+- '[[DATABASE/spell/Warp Mind|Warp Mind]]'
+strength: '+5'
+strength_req: '5'
 strongest_save:
-- Fortitude
+- Reflex
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Animal|Animal]]'
+- '[[DATABASE/trait/Aberration|Aberration]]'
+- '[[DATABASE/trait/Swarm|Swarm]]'
+- '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: null
+vision: Darkvision
 weakest_save:
-- Reflex
-weakness: null
-will: '+15'
-wisdom: '+3'
+- Fortitude
+weakness:
+- area damage 10
+- '[[DATABASE/trait/Splash|splash]] damage 10'
+will: '+26'
+wisdom: '+4'
 
 ---
 # Worm That Walks

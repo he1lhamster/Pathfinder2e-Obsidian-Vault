@@ -11,13 +11,6 @@ creature_ability:
 - Size Alteration
 - Sneak Attack
 creature_family: '[[DATABASE/monsterfamily/Biloko|Biloko]]'
-description: 'If a biloko is lucky enough to consume several spellcasters or other
-  creatures with innate magical abilities, they undergo a subtle transformation over
-  the course of 1 week. Such a fey is known as an eloko, and in addition to their
-  incredible appetite (even by biloko standards), they have the supernatural ability
-  to grow to immense size.<br/><br/><b><u>Recall Knowledge - Fey</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 23<br/><b><u>Unspecific Lore</u></b>: DC 21<br/><b><u>Specific Lore</u></b>:
-  DC 18'
 dexterity: '+5'
 element: null
 fly_speed: null

@@ -18,16 +18,6 @@ creature_ability:
 - Wild Gaze
 - Wild Hunt Link
 creature_family: '[[DATABASE/monsterfamily/Wild Hunt|Wild Hunt]]'
-description: "These lithe, androgynous humanoids have pointed ears, glowing green\
-  \ eyes, and hair that flows softly at all times as if in a gentle breeze. They are\
-  \ methodical hunters who fire their bows with uncanny accuracy. Since wild hunt\
-  \ archers tend to be slower on foot than most of their companions, they often rely\
-  \ on [[DATABASE/monster/Wild Hunt Horse|wild hunt horses]] to provide increased\
-  \ mobility. Rather than carrying normal arrows, they can produce arrows as needed\
-  \ from magical quivers\u2014these quivers do not function in this manner for anyone\
-  \ other than wild hunt archers.<br/><br/><b><u>Recall Knowledge - Fey</u> ( [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 40<br/><b><u>Unspecific Lore</u></b>: DC 38<br/><b><u>Specific Lore</u></b>:\
-  \ DC 35"
 dexterity: '+8'
 element: null
 fly_speed: null

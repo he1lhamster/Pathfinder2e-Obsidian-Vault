@@ -1,87 +1,50 @@
 ﻿---
-ac: '31'
-alignment: CE
+ac: null
+alignment: null
 all_resistance: null
 burrow_speed: null
-charisma: '+3'
+charisma: null
 climb_speed: null
-constitution: '+4'
-creature_ability:
-- Drain Qi
-- Jiang-Shi Vulnerabilities
-- Warped Fulu
-creature_family: '[[DATABASE/monsterfamily/Vampire, Jiang-Shi|Vampire, Jiang-Shi]]'
-description: 'Roused rudely from their nightmarish slumber, the provincial jiang-shi
-  roams the villages and graveyards around their domain searching for sustenance to
-  slake their hunger.<br/><br/><b><u>Recall Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 28<br/><b><u>Unspecific Lore</u></b>: DC 26<br/><b><u>Specific Lore</u></b>:
-  DC 23'
-dexterity: '+3'
+constitution: null
+creature_ability: null
+creature_family: null
+dexterity: null
 element: null
 fly_speed: null
-fortitude: '+21'
+fortitude: null
 hardness: null
-hp: 130 ( fast healing 10 , negative healing , one more breath)
-id: '1909'
-immunity:
-- '[[DATABASE/trait/Death|death]] effects'
-- '[[DATABASE/trait/Disease|disease]]'
-- '[[DATABASE/condition/Paralyzed|paralyzed]]'
-- '[[DATABASE/trait/Poison|poison]]'
-- '[[DATABASE/spell/Sleep|sleep]]'
-- '[[DATABASE/condition/Prone|prone]]'
-intelligence: '+3'
-land_speed: '15'
-language:
-- '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Necril|Necril]]'
-- '[[DATABASE/language/Tien|Tien]]'
-level: '11'
-max_speed: '15'
+hp: null
+id: '1408'
+immunity: null
+intelligence: null
+land_speed: null
+language: null
+level: null
+max_speed: null
 name: Provincial Jiang-Shi
-perception: '+22'
-rarity: Common
-reflex: '+18'
-resistance:
-- physical 10 (except [[DATABASE/equipment/Darkwood Weapon|darkwood]] )
+perception: null
+rarity: null
+reflex: null
+resistance: null
 rus_type_level: null
 school: null
-sense:
-- breathsense (precise) 60 feet
-- '[[DATABASE/monsterability/Darkvision|darkvision]]'
-size: Medium
-skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +16'
-- '[[DATABASE/skill/Athletics|Athletics]] +22'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +20'
-- '[[DATABASE/skill/Religion|Religion]] +22'
-source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-speed:
-- 15 feet; rigor mortis
-spell:
-- '[[DATABASE/spell/Bind Undead|Bind Undead]]'
-- '[[DATABASE/spell/Enervation|Enervation]]'
-- '[[DATABASE/spell/Fear|Fear]]'
-- '[[DATABASE/spell/Ghostly Tragedy|Ghostly Tragedy]]'
-- '[[DATABASE/spell/Harm|Harm]]'
-- '[[DATABASE/spell/Shadow Blast|Shadow Blast]]'
-- '[[DATABASE/spell/Spirit Blast|Spirit Blast]]'
-- '[[DATABASE/spell/Vampiric Exsanguination|Vampiric Exsanguination]]'
-strength: '+5'
-strength_req: '5'
-strongest_save:
-- Will
+sense: null
+size: null
+skill: null
+source: '[[DATABASE/source/Pathfinder 167. Ready Fight!|Pathfinder #167: Ready? Fight!]]'
+speed: null
+spell: null
+strength: null
+strength_req: null
+strongest_save: null
 swim_speed: null
-trait:
-- '[[DATABASE/trait/Undead|Undead]]'
-- '[[DATABASE/trait/Vampire|Vampire]]'
-type: Creature
-vision: Darkvision
-weakest_save:
-- Reflex
+trait: null
+type: null
+vision: null
+weakest_save: null
 weakness: null
-will: '+24'
-wisdom: '+7'
+will: null
+wisdom: null
 
 ---
 # Provincial Jiang-Shi

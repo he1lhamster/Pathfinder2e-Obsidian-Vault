@@ -11,15 +11,6 @@ creature_ability:
 - Self-Destruct
 - Wind-Up
 creature_family: '[[DATABASE/monsterfamily/Clockworks|Clockworks]]'
-description: "Engineers, technologists, and mechanically gifted wizards employ clockwork\
-  \ spies\u2014tiny, spiderlike constructs capable of recording and playing back audio\u2014\
-  \ to surreptitiously surveil their enemies or steal secrets from competitors. Their\
-  \ spindly bodies and delicate components make them unsuitable for combat; in fact,\
-  \ most builders construct clockwork spies with a self-destruct mechanism to ensure\
-  \ the spies' meddling can't be traced back to them.<br/><br/><b><u>Recall Knowledge\
-  \ - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]]\
-  \ )</b>: DC 15<br/><b><u>Unspecific Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>:\
-  \ DC 10"
 dexterity: '+3'
 element: null
 fly_speed: '25'

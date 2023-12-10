@@ -13,15 +13,6 @@ creature_ability:
 - Recall Venom
 - Rupturing Venom
 creature_family: '[[DATABASE/monsterfamily/Qlippoth|Qlippoth]]'
-description: 'The chernobue infects all creatures it encounters with itself, spreading
-  pain and calamity wherever it flops and writhes. It sheds ruin and sups on anguish,
-  but a chernobue can sometimes be persuaded to pause for a few moments of conversation
-  if its partner in discourse can keep its attention by providing enough atrocious
-  details. Resembling a tumor-like growth of oily blackness, this vile monstrosity
-  has numerous muscular tentacles, a single glaring baleful eye, and a drooling, toothy
-  maw in the middle of its body.<br/><br/><b><u>Recall Knowledge - Fiend</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 32<br/><b><u>Unspecific Lore</u></b>: DC 30<br/><b><u>Specific Lore</u></b>:
-  DC 27'
 dexterity: '+4'
 element: null
 fly_speed: null

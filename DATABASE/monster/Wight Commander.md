@@ -16,11 +16,6 @@ creature_ability:
 - Soldier
 - Tactical Direction
 creature_family: '[[DATABASE/monsterfamily/Wight|Wight]]'
-description: 'When the beloved leader of a military unit is raised as a wight, sometimes
-  the spirits of their comrades return with them, creating a gestalt being of impeccable
-  tactical acumen.<br/><br/><b><u>Recall Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 35<br/><b><u>Unspecific Lore</u></b>: DC 33<br/><b><u>Specific Lore</u></b>:
-  DC 30'
 dexterity: '+3'
 element: null
 fly_speed: null

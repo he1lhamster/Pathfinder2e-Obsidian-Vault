@@ -11,15 +11,6 @@ creature_ability:
 - Shred Flesh
 - Undulating Step
 creature_family: '[[DATABASE/monsterfamily/Shanrigol|Shanrigol]]'
-description: 'The most basic and common type of shanrigol is called, based on its
-  general shape, a shanrigol heap. These amalgamations of warped flesh and shattered
-  bone establish hunting grounds by accident rather than design, remaining where prey
-  has been plentiful in the past so they can grow larger and larger as they add to
-  their jumbled forms. Only rare fleshwarpers create these abominations willingly,
-  as they ignore all commands and containment to seek out prey.<br/><br/><b><u>Recall
-  Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 19<br/><b><u>Recall
-  Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 19<br/><b><u>Unspecific
-  Lore</u></b>: DC 17<br/><b><u>Specific Lore</u></b>: DC 14'
 dexterity: '+2'
 element: null
 fly_speed: null

@@ -9,22 +9,6 @@ constitution: '+1'
 creature_ability:
 - Uncanny Climber
 creature_family: '[[DATABASE/monsterfamily/Lizard|Lizard]]'
-description: "These roughly human-sized reptiles have amazing feet capable of clinging\
-  \ tenaciously to any surface. Giant geckos are typically docile and shy but can\
-  \ be aggressive when cornered or defending their territory. These large-eyed lizards\
-  \ are found in a wide variety of habitats, from rainforests and deserts to mountain\
-  \ slopes or even underground caverns. They spend most of their time climbing around\
-  \ in large trees or on rocky cliffs, whether hunting for small animals or hiding\
-  \ from predators. A giant gecko\u2019s scales are often quite brightly colored or\
-  \ decorated in intricate patterns. Giant geckos span nearly 8 feet in length from\
-  \ head to tail, and they weigh about 120 pounds.<br/><br/> Giant geckos are sometimes\
-  \ used by smaller humanoids as guardians or mounts, as their docile nature makes\
-  \ them relatively easy to tame and train. Their superior climbing skills make giant\
-  \ geckos particularly popular within societies that dwell underground or near cliffs,\
-  \ such as goblins and kobolds. Their bright coloration also makes them favorite\
-  \ exotic pets in high society.<br/><br/><b><u>Recall Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 15<br/><b><u>Unspecific Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>:\
-  \ DC 10"
 dexterity: '+3'
 element: null
 fly_speed: null

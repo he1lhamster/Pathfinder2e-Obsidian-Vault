@@ -11,9 +11,6 @@ creature_ability:
 - Undulate
 - Whiptail Centipede Venom
 creature_family: '[[DATABASE/monsterfamily/Centipede|Centipede]]'
-description: 'Whiptail centipedes are sleek and swift tunnel predators.<br/><br/><b><u>Recall
-  Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 18<br/><b><u>Unspecific
-  Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>: DC 13'
 dexterity: '+2'
 element: null
 fly_speed: null

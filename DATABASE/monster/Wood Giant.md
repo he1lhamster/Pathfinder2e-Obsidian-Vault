@@ -11,24 +11,6 @@ creature_ability:
 - Piercing Shot
 - Throw Rock
 creature_family: '[[DATABASE/monsterfamily/Giant|Giant]]'
-description: "Wood giants are the denizens and protectors of the deepest, most primeval\
-  \ forests in the world. They dedicate their entire lives to the preservation of\
-  \ nature\u2014a role that they believe nature itself has selected them to carry\
-  \ out. Wood giants are patient and kind to those who show respect and care for wild\
-  \ places. Although most wood giants consider civilization as simply another part\
-  \ of the world, they value places untouched by permanent structures and dense humanoid\
-  \ settlements.<br/><br/> Wood giants have long, drooping ears and more slender builds\
-  \ than most giants. Despite their size, they are graceful and agile, able to move\
-  \ through dense forests and brush with little sound. They have been known to work\
-  \ closely with druids and others who share their respect for the sanctity of wilderness\
-  \ regions. Wood giants spend their days patrolling vast swaths of territory, foraging,\
-  \ and keeping an eye out for any who would despoil their lands. While they respect\
-  \ the connection to nature they share with many fey creatures and remain on good\
-  \ terms with them, wood giants see most fey as far too flighty to take part in any\
-  \ long-term plans.<br/><br/> An average wood giant stands 14 feet tall and weighs\
-  \ 1,200 pounds.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]\
-  \ )</b>: DC 22<br/><b><u>Unspecific Lore</u></b>: DC 20<br/><b><u>Specific Lore</u></b>:\
-  \ DC 17"
 dexterity: '+5'
 element: null
 fly_speed: null

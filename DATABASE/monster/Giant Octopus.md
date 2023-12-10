@@ -14,9 +14,6 @@ creature_ability:
 - Jet
 - Writhing Arms
 creature_family: '[[DATABASE/monsterfamily/Octopus|Octopus]]'
-description: 'Giant octopuses are found in the heart of deep, dark oceans.<br/><br/><b><u>Recall
-  Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 24<br/><b><u>Unspecific
-  Lore</u></b>: DC 22<br/><b><u>Specific Lore</u></b>: DC 19'
 dexterity: '+3'
 element: null
 fly_speed: null

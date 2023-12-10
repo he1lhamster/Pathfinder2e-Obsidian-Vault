@@ -9,22 +9,6 @@ constitution: '+1'
 creature_ability:
 - Chameleon Step
 creature_family: '[[DATABASE/monsterfamily/Magaambyan Adepts|Magaambyan Adepts]]'
-description: '<i>This sharp-eyed half-elf wears weather-beaten gear that would easily
-  blend in with any natural terrain, and carries an elaborately carved walking staff.</i><br/><br/>
-  When a group of adepts leaves the Magaambya, whether to investigate a magical phenomenon,
-  conduct a diplomatic mission, or visit scholars in a distant land, a Rain-Scribe
-  often serves as their guide. An expert in travel through difficult environments,
-  the Rain-Scribe provides for their companions while helping them avoid the many
-  hazards of travel in the Inner Sea. Rain-Scribes are some of the most well-traveled
-  members of the academy, and most have secured alliances or promises of safe passage
-  through the lands where they walk.<br/><br/> Should the Rain-Scribe or their companions
-  be attacked on their journeys, the scribe is a capable combatant who strives to
-  turn their communion with the natural world into their greatest advantage in battle.
-  Whether by using primal magic against their foes or striking unseen from the underbrush,
-  the Rain-Scribe assures that no opponent threatens their traveling companions for
-  long.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 19<br/><b><u>Unspecific Lore</u></b>: DC 17<br/><b><u>Specific Lore</u></b>:
-  DC 14'
 dexterity: '+3'
 element: null
 fly_speed: null

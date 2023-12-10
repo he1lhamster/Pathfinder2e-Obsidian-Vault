@@ -11,16 +11,6 @@ creature_ability:
 - Divine Revulsion
 - Flyby Swing
 creature_family: '[[DATABASE/monsterfamily/Redcap|Redcap]]'
-description: "Whomever first imagined putting a fey with a bloodsoaked hat on a giant\
-  \ blood-crazed insect certainly had a sense of humor, but that didn't stop the redcaps\
-  \ from trying to domesticate and train giant bloodseekers. Although a flying cavalry\
-  \ was Queen Frilogarma's goal, her court ended up accidentally inventing redcap\
-  \ racing. In this sport, one redcap with a freshly soaked cap is swung around a\
-  \ racetrack by a giant arm while several other redcaps on giant bloodseekers fly\
-  \ after them. The \u201Cbait\u201D redcap doesn't usually survive, but they are\
-  \ the center of attention for about two minutes.<br/><br/><b><u>Recall Knowledge\
-  \ - Fey</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 24<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 22<br/><b><u>Specific Lore</u></b>: DC 19"
 dexterity: '+4'
 element: null
 fly_speed: null

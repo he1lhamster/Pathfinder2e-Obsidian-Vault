@@ -13,10 +13,6 @@ creature_ability:
 - Thoughtsense
 creature_family: '[[DATABASE/monsterfamily/Contemplative of Ashok|Contemplative of
   Ashok]]'
-description: 'Contemplative meditants focus their meditations and research on the
-  vexing topic of time itself.<br/><br/><b><u>Recall Knowledge - Aberration</u> (
-  [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 39<br/><b><u>Unspecific Lore</u></b>:
-  DC 37<br/><b><u>Specific Lore</u></b>: DC 34'
 dexterity: '+6'
 element: null
 fly_speed: '25'

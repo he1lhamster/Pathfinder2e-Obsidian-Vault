@@ -13,18 +13,6 @@ creature_ability:
 - Usurper's Curse
 - Usurper's Curse
 creature_family: null
-description: "A cursed king is a grotesque mockery of ambition. When treasonous advisors,\
-  \ false prophets, and rebel leaders are captured by evil rulers, they're subjected\
-  \ to all manner of torture and humiliation before their eventual executions. But\
-  \ the cursed king isn't even granted dignity in death, as after their beheading,\
-  \ a desiccated animal head is sewn onto their neck. These horrific mummies are then\
-  \ dressed in fine linens and jewelry befitting royalty\u2014a permanent warning\
-  \ of what happens to those who seek to rise above their station.<br/><br/> A cursed\
-  \ king is bound in servitude to the ruler against whom they once fought, forced\
-  \ to act as a bodyguard. Even the death of their maker gives no reprieve, as they\
-  \ guard the true monarch's tomb forever.<br/><br/><b><u>Recall Knowledge - Undead</u>\
-  \ ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 27<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 25<br/><b><u>Specific Lore</u></b>: DC 22"
 dexterity: '+3'
 element: null
 fly_speed: null

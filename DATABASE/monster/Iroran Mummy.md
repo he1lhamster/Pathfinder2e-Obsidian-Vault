@@ -11,13 +11,6 @@ creature_ability:
 - Robe Tangle
 - Stunning Flurry
 creature_family: '[[DATABASE/monsterfamily/Mummy|Mummy]]'
-description: 'Some enlightened members of the [[DATABASE/deity/Irori|Iroran]] faith,
-  particularly monks, are so aware of their own bodily processes they can sense their
-  approaching death from old age. Pinpointing the occurrence to the exact hour, a
-  chosen few employ a method of self-mummification. These masters of life and death
-  leave behind their bodies to watch over Irori''s temples.<br/><br/><b><u>Recall
-  Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 32<br/><b><u>Unspecific
-  Lore</u></b>: DC 30<br/><b><u>Specific Lore</u></b>: DC 27'
 dexterity: '+7'
 element: null
 fly_speed: null

@@ -12,20 +12,6 @@ creature_ability:
 - Face Eater
 - Luminous Lure
 creature_family: null
-description: 'Mamlambos are river predators with hypnotic, bioluminescent skin. They
-  appear similar to crocodiles, but the narrow head at the end of their long necks
-  resembles a horse''s skull, and their four legs are stubby and inefficient for land
-  movement. Their skin''s green glow is only barely visible in daylight or when underwater,
-  though the glow is difficult to resist. As a result, they''re frequently trailed
-  by fish, birds, or other river creatures ensnared by the alluring radiance.<br/><br/>
-  Humanoids are mamlambos'' favorite prey, particularly [[DATABASE/ancestry/Human|humans]]
-  , although they strangely prefer to only eat their victims'' faces and brains. Mamlambos
-  are dim-witted but sly, and sometimes hide their victims under submerged rocks or
-  logs to make their discovery less likely. A mamlambo might be active in a region
-  for days or even weeks before its presence is discovered.<br/><br/><b><u>Recall
-  Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 28<br/><b><u>Unspecific Lore</u></b>: DC 26<br/><b><u>Specific Lore</u></b>:
-  DC 23'
 dexterity: '+4'
 element: null
 fly_speed: null

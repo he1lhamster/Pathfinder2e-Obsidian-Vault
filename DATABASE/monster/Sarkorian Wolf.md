@@ -9,11 +9,6 @@ constitution: '+1'
 creature_ability:
 - Pack Attack
 creature_family: '[[DATABASE/monsterfamily/Wolf|Wolf]]'
-description: 'To survive living in the Worldwound, Sarkorian wolves developed defenses
-  against the [[DATABASE/plane/Abyss|Abyss]] . They''ve become symbols for Mendevian
-  crusaders who struggled to adapt to the world after the war ended. <br/><br/><b><u>Recall
-  Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 15<br/><b><u>Unspecific
-  Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>: DC 10'
 dexterity: '+4'
 element: null
 fly_speed: null

@@ -14,9 +14,6 @@ creature_ability:
 - Troop Defenses
 - Troop Movement
 creature_family: '[[DATABASE/monsterfamily/Zombie|Zombie]]'
-description: 'This shuffling mass of decaying flesh moves with dull but singular focus.<br/><br/><b><u>Recall
-  Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 19<br/><b><u>Unspecific
-  Lore</u></b>: DC 17<br/><b><u>Specific Lore</u></b>: DC 14'
 dexterity: '+0'
 element: null
 fly_speed: null

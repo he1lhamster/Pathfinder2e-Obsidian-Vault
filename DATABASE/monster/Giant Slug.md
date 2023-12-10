@@ -1,69 +1,63 @@
 ﻿---
-ac: '14'
-alignment: CE
+ac: '25'
+alignment: N
 all_resistance: null
 burrow_speed: null
-charisma: '-1'
-climb_speed: null
-constitution: '+3'
+charisma: '-4'
+climb_speed: '15'
+constitution: '+7'
 creature_ability:
-- Pack Attack
-- Stealthy Abduction
-- Weeping Wounds
+- Malleable
+- Mucus
+- Mucus Trail
+- Trample
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 15<br/><b><u>Unspecific
-  Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>: DC 10'
-dexterity: '+1'
+dexterity: '-1'
 element: null
 fly_speed: null
-fortitude: '+6'
+fortitude: '+21'
 hardness: null
-hp: '8'
-id: '1934'
+hp: '165'
+id: '806'
 immunity: null
-intelligence: '-1'
-land_speed: '25'
-language:
-- '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Gnoll|Gnoll]]'
-level: '-1'
-max_speed: '25'
-name: Sludgespine Killers
-perception: '+5'
-rarity: Uncommon
-reflex: '+5'
-resistance: null
+intelligence: '-5'
+land_speed: '20'
+language: null
+level: '8'
+max_speed: '20'
+name: Slug
+perception: '+14'
+rarity: Common
+reflex: '+11'
+resistance:
+- acid 10
 rus_type_level: null
 school: null
-sense: null
-size: Medium
+sense:
+- no hearing
+- '[[DATABASE/monsterability/Scent|scent (imprecise) 60 feet]]'
+size: Huge
 skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +5'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +4'
-- '[[DATABASE/skill/Stealth|Stealth]] +4'
-- '[[DATABASE/skill/Thievery|Thievery]] +4'
-source: '[[DATABASE/source/Pathfinder 178. Punks in a Powderkeg|Pathfinder #178: Punks
-  in a Powderkeg]]'
+- '[[DATABASE/skill/Athletics|Athletics]] +19'
+source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
-- 25 feet
+- 20 feet
+- climb 15 feet
 spell: null
-strength: '+0'
-strength_req: '0'
+strength: '+7'
+strength_req: '7'
 strongest_save:
 - Fortitude
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Gnoll|Gnoll]]'
-- '[[DATABASE/trait/Humanoid|Humanoid]]'
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
+- '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
 vision: null
 weakest_save:
 - Reflex
-- Will
-weakness: null
-will: '+5'
+weakness:
+- salt 5
+will: '+14'
 wisdom: '+2'
 
 ---

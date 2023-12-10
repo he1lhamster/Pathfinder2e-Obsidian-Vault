@@ -14,14 +14,6 @@ creature_ability:
 - Rampaging Charge
 - Spirit Link
 creature_family: null
-description: 'Ashen Swale''s past is shrouded in mystery. He was born among his Sutaki
-  brethren, but violent voices no one else could hear drew him to the wilds of Lost
-  Mammoth Valley. In these wilds, he discovered his spirit guide Idovik and the art
-  of necromancy. He returned to Lyuba a changed man. With Idovik at his side, he established
-  new customs and foul rituals that further cemented the white dragon Venexus''s reign
-  over his people.<br/><br/><b><u>Recall Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Nature|Nature]] )</b>: DC 33<br/><b><u>Unspecific Lore</u></b>:
-  DC 31<br/><b><u>Specific Lore</u></b>: DC 28'
 dexterity: '+0'
 element: null
 fly_speed: null

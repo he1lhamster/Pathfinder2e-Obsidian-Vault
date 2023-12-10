@@ -12,16 +12,6 @@ creature_ability:
 - Tear Skin
 - Wear Skin
 creature_family: null
-description: "When a necromancer has need of a versatile agent to serve as a bodyguard\
-  \ and do their bidding in disguise, they build an ecorche\u2014a skinless monstrosity\
-  \ filled with putrid alchemical agents, covered in pulsing muscle and sinew grafts,\
-  \ and imbued with razor-sharp claws. The ecorche uses its claws to flay its victims,\
-  \ stripping off skin in seconds. It can then horrifyingly squeeze itself into the\
-  \ stolen skin and impersonate the deceased, which it does to covertly carry out\
-  \ orders or find more victims to expand its collection. If its deception is uncovered,\
-  \ it shreds its disguise, bursting forth in terrible skinless form.<br/><br/><b><u>Recall\
-  \ Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 35<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 33<br/><b><u>Specific Lore</u></b>: DC 30"
 dexterity: '+6'
 element: null
 fly_speed: null

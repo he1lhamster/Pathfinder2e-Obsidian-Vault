@@ -13,20 +13,6 @@ creature_ability:
 - Rejuvenation
 - Wail
 creature_family: null
-description: 'Vengeful spirits called lloronas arise from people who died overcome
-  with the grief and shame that comes with the tragic drowning of a child. In life,
-  a llorona may have contributed to the child''s death or simply lost the child to
-  a horrible accident. In death, a llorona''s pain manifests as a malevolent desire
-  to drown others, imparting the same grief that they share with the person''s loved
-  ones. To this end, lloronas remain along riversides and other bodies of water in
-  hopes of drawing their next victim and compelling them to drown themselves.<br/><br/>
-  Lloronas look much like they did in life, except they wear elegant funeral attire
-  in undeath. Though stories typically describe lloronas as women, reports from seasoned
-  adventurers include accounts of lloronas appearing as different genders and with
-  a variety of appearances.<br/><br/><b><u>Recall Knowledge - Spirit</u> ( [[DATABASE/skill/Occultism|Occultism]]
-  )</b>: DC 30<br/><b><u>Recall Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 30<br/><b><u>Unspecific Lore</u></b>: DC 28<br/><b><u>Specific Lore</u></b>:
-  DC 25'
 dexterity: '+7'
 element: null
 fly_speed: '60'

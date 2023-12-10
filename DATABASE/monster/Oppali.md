@@ -12,15 +12,6 @@ creature_ability:
 - Soundsense
 - Trumpet Blast
 creature_family: null
-description: "An oppali is a tenacious, twisting vine with white, trumpet-shaped flowers\
-  \ that grows in temperate and tropical regions. Stories passed down through generations\
-  \ refer to the oppali as a \u201Cbad luck vine\u201D and warn against letting one\
-  \ take over a copse or garden, lest \u201Cyour luck drain away like water down a\
-  \ hole.\u201D This folklore contains more wisdom than most farmers or settlers realize.<br/><br/>\
-  \ Oppalis are usually 30 feet long, but they twist and coil on themselves so much\
-  \ that they occupy a space not much larger than a horse.<br/><br/><b><u>Recall Knowledge\
-  \ - Plant</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 32<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 30<br/><b><u>Specific Lore</u></b>: DC 27"
 dexterity: '+7'
 element: null
 fly_speed: null

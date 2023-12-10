@@ -13,21 +13,6 @@ creature_ability:
 - Reel In
 - Swear
 creature_family: null
-description: "Perpetually cursed to hunger and failure, a culdewen plies waterways\
-  \ in search of appealing fish to catch\u2014the bigger the better. Of course, this\
-  \ diminutive, emaciated fey calls every living creature a \u201Cfish.\u201D Only\
-  \ other fey are exempt, and they tend to consider culdewens lost causes. A culdewen\
-  \ can never find satisfaction. Each time they catch a fish, a magical curse forces\
-  \ them to hunt for an appealing spot to dine\u2014an island, cove, or abandoned\
-  \ dock or shack where they can eat in peace. By the time they arrive, their catch\
-  \ will be gone. Every time. Forever.<br/><br/>A foul mood hovers over a culdewen,\
-  \ causing them to swear colorfully, smack things with their oar, and shake their\
-  \ tiny fists at the sky. Conversation with a culdewen is fruitless, as they talk\
-  \ in circles, speaking only of fishing and the weather. Capturing a \u201Cfish\u201D\
-  \ gives a culdewen a rare moment of happiness; the culdewen capers and ululates,\
-  \ pleased with their catch, and rushes off to their boat.<br/><br/><b><u>Recall\
-  \ Knowledge - Fey</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 25<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 23<br/><b><u>Specific Lore</u></b>: DC 20"
 dexterity: '+5'
 element: null
 fly_speed: null

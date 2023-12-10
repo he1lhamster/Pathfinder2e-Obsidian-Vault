@@ -20,15 +20,6 @@ creature_ability:
 - Troop Defenses
 - Troop Movement
 creature_family: '[[DATABASE/monsterfamily/Demon Throng|Demon Throng]]'
-description: '[[DATABASE/monster/Vrock (Wrath Demon)|Wrath demons]] are among the
-  most well-known and feared of the Abyss''s fiends, but sometimes a wrath demon becomes
-  stunted in size as the result of too many failed rampages, a punishment inflicted
-  by an angry demonic commander or simple ill fortune. These smaller wrath demons,
-  not much larger than humans, are typically slaughtered quickly by their larger kin,
-  but rarely a group of undersized vrocks can gather in numbers large enough to form
-  a wrath riot.<br/><br/><b><u>Recall Knowledge - Fiend</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 40<br/><b><u>Unspecific Lore</u></b>: DC 38<br/><b><u>Specific Lore</u></b>:
-  DC 35'
 dexterity: '+5'
 element: null
 fly_speed: '35'

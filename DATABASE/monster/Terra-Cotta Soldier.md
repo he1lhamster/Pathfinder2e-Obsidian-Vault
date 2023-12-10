@@ -10,10 +10,6 @@ creature_ability:
 - Attack of Opportunity
 - Shield Block
 creature_family: '[[DATABASE/monsterfamily/Terra-Cotta Warrior|Terra-Cotta Warrior]]'
-description: 'A single terra-cotta warrior stands 6 feet tall and weighs 600 pounds.<br/><br/><b><u>Recall
-  Knowledge - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]]
-  )</b>: DC 22<br/><b><u>Unspecific Lore</u></b>: DC 20<br/><b><u>Specific Lore</u></b>:
-  DC 17'
 dexterity: '+4'
 element: null
 fly_speed: null

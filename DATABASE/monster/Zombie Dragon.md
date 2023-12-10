@@ -10,13 +10,6 @@ creature_ability:
 - Breath Weapon
 - Slow
 creature_family: '[[DATABASE/monsterfamily/Zombie|Zombie]]'
-description: 'The rotted husk of a once great dragon, this abomination has lost all
-  its former splendor, but none of the ferocity. Its patchy, rotted wings don''t generate
-  enough lift to keep it aloft, but the foul necromantic energies animating it still
-  allow it to fly, albeit slowly.<br/><br/><b><u>Recall Knowledge - Dragon</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  )</b>: DC 26<br/><b><u>Recall Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 26<br/><b><u>Unspecific Lore</u></b>: DC 24<br/><b><u>Specific Lore</u></b>:
-  DC 21'
 dexterity: '+3'
 element: null
 fly_speed: '50'

@@ -12,23 +12,6 @@ creature_ability:
 - Mechanical Vulnerability
 - Sneak Attack
 creature_family: null
-description: 'Thieves covet dig-widgets, specialized constructs built for infiltration.
-  Each dig-widget contains numerous simple tools, including a set of mechanical devices
-  that function as [[DATABASE/equipment/Thieves'' Tools|thieves'' tools]] , two arms
-  with drills, and two arms with corkscrews for attaching to and climbing surfaces.
-  Once activated, these devices propel themselves forward. Though they have the full
-  faculties typical of a construct, they usually follow a simple routine: avoid notice,
-  pick any lock barring the path, dig past obstacles, and attack if caught. They''re
-  rarely left unattended, as a thief needs to be nearby to follow after-both to steal
-  goods and to stop the dig-widget from engaging in further larceny once it''s achieved
-  its goal.<br/><br/> The source of a dig-widget''s power is as much mechanical as
-  it is magical. The gears and springs that provide a dig-widget mobility are an improvement
-  over more primitive true clockwork creations (whose functions require constant winding
-  to remain mobile), but at the cost of security, for a dig-widget''s moving parts
-  can be dismantled quickly by thieves and others with the proper training.<br/><br/><b><u>Recall
-  Knowledge - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]]
-  )</b>: DC 20<br/><b><u>Unspecific Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>:
-  DC 15'
 dexterity: '+5'
 element: null
 fly_speed: null

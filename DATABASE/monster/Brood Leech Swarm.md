@@ -10,13 +10,6 @@ creature_ability:
 - Blood Draining Bites
 - Brood Leech Swarm Venom
 creature_family: '[[DATABASE/monsterfamily/Leech|Leech]]'
-description: 'Most smaller species of leeches do not tend to swarm, but brood leeches
-  are prone to gathering in seething, undulant mats of squirming gluttony. When they
-  gather in sufficient numbers to swarm, they eschew the stealth of a lone leech''s
-  feeding methods in favor of swift and merciless feeding. In these situations, their
-  mild venom can affect much larger creatures than their usual prey.<br/><br/><b><u>Recall
-  Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 19<br/><b><u>Unspecific
-  Lore</u></b>: DC 17<br/><b><u>Specific Lore</u></b>: DC 14'
 dexterity: '+3'
 element: null
 fly_speed: null

@@ -13,23 +13,6 @@ creature_ability:
 - Icy Demise
 - Vulnerable to Endure Elements
 creature_family: '[[DATABASE/monsterfamily/Golem|Golem]]'
-description: "Ice golems are either carved from massive blocks of ice, or pieced together\
-  \ from individual components that are then fused together through heat and refreezing.\
-  \ In most cases, the resulting shape is little more than a crude approximation of\
-  \ a humanoid form, but given the right talent, an ice golem could be an exquisitely\
-  \ carved statue of a mythical creature, famous persona, or even a deity.<br/><br/>\
-  \ While ice golems most frequently serve as guardians in freezing climates, the\
-  \ magic that holds an ice golem together keeps it from melting in warmer temperatures.\
-  \ This, combined with the fact that ice golems lie on the lower end of the scale\
-  \ as far as cost and difficulty to create, gives these constructs unusual features\
-  \ that puts them in great demand. The rich and powerful in hot, arid regions often\
-  \ commission ice golems not only as guardians for their estates and vaults, but\
-  \ for comfort\u2014the presence of an ice golem standing quietly sentinel in the\
-  \ corner of a room can help to keep the chamber at a comfortable temperature. The\
-  \ truly decadent use ice golems as servants to keep drinks cold.<br/><br/><b><u>Recall\
-  \ Knowledge - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]]\
-  \ )</b>: DC 22<br/><b><u>Unspecific Lore</u></b>: DC 20<br/><b><u>Specific Lore</u></b>:\
-  \ DC 17"
 dexterity: '+0'
 element: null
 fly_speed: null

@@ -1,94 +1,69 @@
 ﻿---
-ac: '42'
-alignment: N
+ac: '21'
+alignment: LN
 all_resistance: null
 burrow_speed: null
-charisma: '+3'
+charisma: '+2'
 climb_speed: null
-constitution: '+8'
+constitution: '+2'
 creature_ability:
-- Flawless Hearing
-- Roll
-- Trample
-- Ultrasonic Blast
-creature_family: null
-description: "Aolazes are great beasts carved from stone and metal and magically imbued\
-  \ with the essence of life. The exact means of their creation is a long-lost secret,\
-  \ and they are so rare that scholars have little opportunity to study active specimens.\
-  \ The best-known aolazes are museum pieces or battlefield relics destroyed or deactivated\
-  \ centuries ago, though fragmented records suggest that many more were made and\
-  \ might remain, yet to be unearthed.<br/><br/>Most aolazes are built in the shape\
-  \ of great land-bound beasts, such as elephants, rhinoceroses, or dinosaurs. Regardless\
-  \ of the specific creature an aolaz has been constructed to resemble, it is not\
-  \ bound to walk the earth like its inspirations are\u2014it's imbued with the magical\
-  \ ability to pursue across water and even through the air. Few can escape an aolaz's\
-  \ wrath once it is earned.<br/><br/><b><u>Recall Knowledge - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]]\
-  \ , [[DATABASE/skill/Crafting|Crafting]] )</b>: DC 43<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 41<br/><b><u>Specific Lore</u></b>: DC 38"
+- Calculated Reload
+- Crystalline Dust
+- Hurtful Critique
+creature_family: '[[DATABASE/monsterfamily/Planar Scion|Planar Scion]]'
 dexterity: '+4'
 element: null
 fly_speed: null
-fortitude: '+35'
+fortitude: '+10'
 hardness: null
-hp: '255'
-id: '550'
-immunity:
-- bleed
-- '[[DATABASE/trait/Death|death]] effects'
-- '[[DATABASE/trait/Disease|disease]]'
-- '[[DATABASE/condition/Doomed|doomed]]'
-- '[[DATABASE/condition/Drained|drained]]'
-- '[[DATABASE/condition/Fatigued|fatigued]]'
-- '[[DATABASE/trait/Healing|healing]]'
-- '[[DATABASE/trait/Necromancy|necromancy]]'
-- '[[DATABASE/trait/Nonlethal|nonlethal]] attacks'
-- '[[DATABASE/condition/Paralyzed|paralyzed]]'
-- '[[DATABASE/trait/Poison|poison]]'
-- '[[DATABASE/condition/Sickened|sickened]]'
-- sonic
-- '[[DATABASE/condition/Unconscious|unconscious]]'
-intelligence: '-4'
-land_speed: '50'
-language: null
-level: '18'
-max_speed: '50'
-name: Aolaz
-perception: '+33'
-rarity: Rare
-reflex: '+27'
-resistance:
-- physical 15 (except [[DATABASE/equipment/Adamantine|adamantine]] )
+hp: '60'
+id: '1265'
+immunity: null
+intelligence: '+1'
+land_speed: '20'
+language:
+- '[[DATABASE/language/Common|Common]]'
+- '[[DATABASE/language/Utopian|Utopian]]'
+level: '4'
+max_speed: '20'
+name: Aphorite Sharpshooter
+perception: '+8'
+rarity: Common
+reflex: '+12'
+resistance: null
 rus_type_level: null
 school: null
 sense:
-- '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
-- flawless hearing
-size: Gargantuan
+- '[[DATABASE/monsterability/Darkvision|darkvision]]'
+size: Medium
 skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +35'
-source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +10'
+- '[[DATABASE/skill/Athletics|Athletics]] +8'
+- '[[DATABASE/skill/Deception|Deception]] +10'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +10'
+- '[[DATABASE/skill/Lore|Engineering Lore]] +9'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +10'
+source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
-- 50 feet
-- '[[DATABASE/spell/Air Walk|air walk]]'
-- '[[DATABASE/spell/Water Walk|water walk]]'
+- 20 feet
 spell:
-- '[[DATABASE/spell/Air Walk|Air Walk]]'
-- '[[DATABASE/spell/Water Walk|WaterWalk]]'
-strength: '+9'
-strength_req: '9'
+- '[[DATABASE/spell/True Strike|True Strike]]'
+strength: '+2'
+strength_req: '2'
 strongest_save:
-- Fortitude
+- Reflex
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Construct|Construct]]'
-- '[[DATABASE/trait/Rare|Rare]]'
+- '[[DATABASE/trait/Aphorite|Aphorite]]'
+- '[[DATABASE/trait/Human|Human]]'
+- '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
-vision: Low-light vision
+vision: Darkvision
 weakest_save:
-- Reflex
+- Will
 weakness: null
-will: '+31'
-wisdom: '+6'
+will: '+8'
+wisdom: '+0'
 
 ---
 # Aphorite

@@ -14,16 +14,6 @@ creature_ability:
 - Negative Healing
 - Status Sight
 creature_family: '[[DATABASE/monsterfamily/Grim Reaper|Grim Reaper]]'
-description: "No one is quite sure what lesser deaths are, though some claim that\
-  \ they are avatars of the grim reaper. Unlike that strange hunter, however, lesser\
-  \ deaths hunt in packs on rare occasions. More often than not, they manifest from\
-  \ cursed magic items. Other times, they are just the enactors of death, hunting\
-  \ in the same way the grim reaper does\u2014 silently, with neither remorse nor\
-  \ quarter. Rarely, multiple lesser deaths work together to cull a large population,\
-  \ their scythes cutting through crowds and leaving entire cities devoid of life,\
-  \ inspiring (hopefully) false rumors of multiple grim reapers.<br/><br/><b><u>Recall\
-  \ Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 40<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 38<br/><b><u>Specific Lore</u></b>: DC 35"
 dexterity: '+9'
 element: null
 fly_speed: '40'

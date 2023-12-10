@@ -1,76 +1,89 @@
 ﻿---
-ac: '12'
-alignment: N
+ac: '26'
+alignment: NG
 all_resistance: null
 burrow_speed: null
-charisma: '-5'
+charisma: '+4'
 climb_speed: null
-constitution: '+5'
+constitution: '+6'
 creature_ability:
-- Confiscate Spell
-- Magic Sense
-- Spell Drain
-creature_family: '[[DATABASE/monsterfamily/Sinsludge|Sinsludge]]'
-description: 'The primordial envy is most often found in underground ruins within
-  Edasseril. It hungers for magic, leaching it from any source it can come into contact
-  with. This hunger can be exploited by clever adventurers who bait it with powerful
-  destructive magics. A primordial envy is one of the most defensive sin oozes, and
-  it tends to layer [[DATABASE/trait/Abjuration|abjuration]] spells over itself to
-  both increase its resilience and empower its attacks.<br/><br/><b><u>Recall Knowledge
-  - Ooze</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 23<br/><b><u>Unspecific
-  Lore</u></b>: DC 21<br/><b><u>Specific Lore</u></b>: DC 18'
-dexterity: '-4'
+- Change Shape
+- Raccoon's Whimsy
+creature_family: '[[DATABASE/monsterfamily/Agathion|Agathion]]'
+dexterity: '+4'
 element: null
 fly_speed: null
-fortitude: '+13'
+fortitude: '+16'
 hardness: null
-hp: '60'
-id: '2728'
-immunity:
-- critical hits
-- '[[DATABASE/trait/Mental|mental]]'
-- precision
-- '[[DATABASE/condition/Unconscious|unconscious]]'
-- '[[DATABASE/trait/Visual|visual]]'
-intelligence: '-5'
-land_speed: '15'
-language: null
-level: '3'
-max_speed: '15'
-name: Primordial Envy
-perception: '+6'
-rarity: Rare
-reflex: '+4'
-resistance:
-- piercing 5
-- slashing 5
+hp: '170'
+id: '1057'
+immunity: null
+intelligence: '+5'
+land_speed: '25'
+language:
+- '[[DATABASE/language/Celestial|Celestial]]'
+- '[[DATABASE/language/Common|Common]]'
+- '[[DATABASE/language/Draconic|Draconic]]'
+- '[[DATABASE/language/Halfling|Halfling]]'
+- '[[DATABASE/language/Infernal|Infernal]] ; [[DATABASE/spell/Speak with Animals|speak
+  with animals]]'
+- '[[DATABASE/spell/Tongues|tongues]]'
+level: '8'
+max_speed: '25'
+name: Procyal
+perception: '+18'
+rarity: Common
+reflex: '+14'
+resistance: null
 rus_type_level: null
 school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
-- magic sense (precise) 30 feet
-size: Large
+size: Medium
 skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +9'
-source: '[[DATABASE/source/Rusthenge|Rusthenge]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +14'
+- '[[DATABASE/skill/Deception|Deception]] +18'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +16'
+- '[[DATABASE/skill/Medicine|Medicine]] +16'
+- '[[DATABASE/skill/Nature|Nature]] +16'
+- '[[DATABASE/skill/Lore|Nirvana Lore]] +15'
+- '[[DATABASE/skill/Religion|Religion]] +16'
+- '[[DATABASE/skill/Society|Society]] +17'
+- '[[DATABASE/skill/Stealth|Stealth]] +16'
+- '[[DATABASE/skill/Survival|Survival]] +16'
+- '[[DATABASE/skill/Thievery|Thievery]] +14'
+source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
-- 15 feet
-spell: null
-strength: '+2'
-strength_req: '2'
+- 25 feet
+spell:
+- '[[DATABASE/spell/Calm Emotions|Calm Emotions]]'
+- '[[DATABASE/spell/Charm|Charm]]'
+- '[[DATABASE/spell/Dimension Door|Dimension Door]]'
+- '[[DATABASE/spell/Dispel Magic|Dispel Magic]]'
+- '[[DATABASE/spell/Heroism|Heroism]]'
+- '[[DATABASE/spell/Illusory Creature|Illusory Creature]]'
+- '[[DATABASE/spell/Invisibility|Invisibility]]'
+- '[[DATABASE/spell/Lay on Hands|Layon Hands]]'
+- '[[DATABASE/spell/Magic Aura|Magic Aura]]'
+- '[[DATABASE/spell/Speak with Animals|Speak with Animals]]'
+- '[[DATABASE/spell/Suggestion|Suggestion]]'
+- '[[DATABASE/spell/Tongues|Tongues]]'
+strength: '+4'
+strength_req: '4'
 strongest_save:
-- Fortitude
+- Will
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Ooze|Ooze]]'
-- '[[DATABASE/trait/Rare|Rare]]'
+- '[[DATABASE/trait/Agathion|Agathion]]'
+- '[[DATABASE/trait/Celestial|Celestial]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
-will: '+8'
-wisdom: '+0'
+weakness:
+- evil 10
+will: '+18'
+wisdom: '+6'
 
 ---
 # Procyal (Raccoon Agathion)

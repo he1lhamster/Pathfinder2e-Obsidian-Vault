@@ -12,22 +12,6 @@ creature_ability:
 - Susurrating Song
 - Water Vulnerability
 creature_family: null
-description: 'A sand wolf is an elemental creature which dwells in the sandy deserts
-  of elemental earth that drift to, or have been conjured on, the [[DATABASE/plane/Plane
-  of Air|Plane of Air]] . Occasionally, these creatures seep through planar rifts
-  or are summoned by elementalists on the [[DATABASE/plane/Material Plane|Material
-  Plane]] .<br/><br/> Sand wolves are prized as guardians for their relative intelligence,
-  keen perception, and ability to disguise themselves, easily blending with the shifting
-  sands in desert terrain. Cunning and agile, they fiercely pursue any creatures they
-  ambush, no matter how nimble their prey.<br/><br/> Sand wolves also have a remarkable
-  ability to sing beautiful, haunting songs, and their music is considered high entertainment
-  among djinn who inhabit the Plane of Air. Many [[DATABASE/monster/Djinni|djinni]]
-  viziers and even certain Material Plane rulers seeking the attention of their peers
-  keep at least one of these creatures in their employ to show off at special events
-  and ceremonies. The wolves'' wordless songs evoke both the strength of the earth
-  and the power of wind to erode it.<br/><br/><b><u>Recall Knowledge - Beast</u> (
-  [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]] )</b>: DC 22<br/><b><u>Unspecific
-  Lore</u></b>: DC 20<br/><b><u>Specific Lore</u></b>: DC 17'
 dexterity: '+4'
 element: Air, Earth
 fly_speed: '20'

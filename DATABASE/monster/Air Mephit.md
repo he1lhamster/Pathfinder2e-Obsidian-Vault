@@ -9,12 +9,6 @@ constitution: '+0'
 creature_ability:
 - Breath Weapon
 creature_family: '[[DATABASE/monsterfamily/Elemental, Mephit|Elemental, Mephit]]'
-description: 'Air mephits are capricious and flighty relative to their kin; they are
-  as likely to fly blindly into battle as they are to whine in terror at a loud noise.
-  They are pale blue in coloration and have thin wings that trail small puffs of vapor
-  as they fly through the skies.<br/><br/><b><u>Recall Knowledge - Elemental</u> (
-  [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]] )</b>: DC 15<br/><b><u>Unspecific
-  Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>: DC 10'
 dexterity: '+4'
 element: Air
 fly_speed: '40'

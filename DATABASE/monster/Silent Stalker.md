@@ -14,15 +14,6 @@ creature_ability:
 - Silent Aura
 - Undying Vendetta
 creature_family: '[[DATABASE/monsterfamily/Revenant|Revenant]]'
-description: 'When a person is betrayed and killed in a way that their voice was silenced
-  (such as through strangulation by a lover or close confidante), they might come
-  back as a silent stalker. A silent stalker is a horrifying, twisted likeness of
-  the person they were in life, with one obvious difference: the silent stalker has
-  no mouth, simply a smooth patch of flesh where a mouth should be. Sound is suppressed
-  in an area around a silent stalker, but once someone notices the quiet, it''s often
-  too late.<br/><br/><b><u>Recall Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 31<br/><b><u>Unspecific Lore</u></b>: DC 29<br/><b><u>Specific Lore</u></b>:
-  DC 26'
 dexterity: '+5'
 element: null
 fly_speed: null

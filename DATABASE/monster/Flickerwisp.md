@@ -13,23 +13,6 @@ creature_ability:
 - Innocuous
 - Magic Immunity
 creature_family: '[[DATABASE/monsterfamily/Wisp|Wisp]]'
-description: 'The dancing, twisting flickerwisp is a less powerful but no less malevolent
-  type of [[DATABASE/monster/Will-o''-Wisp|will-o''-wisp]] . Like their more dangerous
-  kin, flickerwisps prefer to haunt lonely swamps or stretches of lonely rivers or
-  creeks, particularly near the shorelines where they can pass themselves off as nothing
-  more than a small gathering of fireflies. A flickerwisp''s body is a 3-foot-long
-  length of hair-like fibers that flashes and pulses with ribbons and points of eerie
-  yellow light as the creature flits through the air.<br/><br/> While a flickerwisp
-  can taste fear, and finds the flavor delectable, it does not feed on this emotion.
-  Instead, flickerwisps subsist on confusion and doubt. The sense of unease a traveler
-  exudes when they become lost in the woods is flickerwisps'' favorite repast. They
-  can sip from this sense of disorientation without betraying their presence or harming
-  their prey. Eventually, the flickerwisps grow too hungry and are compelled to flit
-  closer, confuse their prey, and glut on the raw emotions. Flickerwisps do their
-  best to swoop away before death occurs, and the most skilled of these tormentors
-  can keep a chosen meal alive for days, sipping from confusion in small doses.<br/><br/><b><u>Recall
-  Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 18<br/><b><u>Unspecific
-  Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>: DC 13'
 dexterity: '+4'
 element: Air
 fly_speed: '25'

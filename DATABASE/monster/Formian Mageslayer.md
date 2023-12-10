@@ -13,13 +13,6 @@ creature_ability:
 - Spell Resistance
 - Stupefying Touch
 creature_family: '[[DATABASE/monsterfamily/Formian|Formian]]'
-description: Grim, twisted formians forced into existence through the machinations
-  of the King of Biting Ants, formian mageslayers are created for the express purpose
-  of neutralizing and destroying enemy spellcasters. Wired to never sleep, mageslayers
-  are tortured hunters and guardians whose only relief is found in tearing apart the
-  magic and flesh of spellcasters who oppose the King of Biting Ants. Formian mageslayers
-  have wings resembling those of dragonflies and longer, sleeker bodies than most
-  formians.
 dexterity: '+8'
 element: null
 fly_speed: '30'

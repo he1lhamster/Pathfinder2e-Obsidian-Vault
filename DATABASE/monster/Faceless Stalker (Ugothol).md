@@ -1,80 +1,71 @@
 ﻿---
-ac: '31'
-alignment: NE
+ac: '21'
+alignment: CE
 all_resistance: null
 burrow_speed: null
-charisma: '+5'
+charisma: '+3'
 climb_speed: null
-constitution: '+6'
+constitution: '+3'
 creature_ability:
-- Attack of Opportunity
-- Change Shape
-- Frightful Presence
-- Remove Face
-- Sudden Slices
-- Suppressed
-- Alignment
-creature_family: null
-description: "The deformed flesh on this humanoid horror\u2019s head bears grim holes\
-  \ where their eyes, nose, mouth, and ears should be, and little else. Stories of\
-  \ faceless butchers always center on the monstrous murderer\u2019s preferred weapon:\
-  \ a wicked and bloodstained meat cleaver, which the butcher uses to carve flesh\
-  \ from skull to add to their collection of stolen faces. Once they\u2019ve taken\
-  \ a victim\u2019s face, the faceless butcher can wear it, transform into an exact\
-  \ replica of the deceased, and begin stalking their next victim.<br/><br/><b><u>Recall\
-  \ Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 30<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 28<br/><b><u>Specific Lore</u></b>: DC 25"
-dexterity: '+5'
+- Assume Form
+- Blood Nourishment
+- Compression
+- Revert Form
+- Sneak Attack
+creature_family: '[[DATABASE/monsterfamily/Alghollthu|Alghollthu]]'
+dexterity: '+3'
 element: null
 fly_speed: null
-fortitude: '+23'
+fortitude: '+9'
 hardness: null
-hp: '175'
-id: '530'
+hp: '60'
+id: '4'
 immunity: null
-intelligence: '+1'
+intelligence: '+0'
 land_speed: '25'
 language:
-- '[[DATABASE/language/Common|Common]] ; one regional language (can''t speak any language)'
-level: '11'
+- '[[DATABASE/language/Alghollthu|Alghollthu]]'
+- '[[DATABASE/language/Aquan|Aquan]]'
+- '[[DATABASE/language/Common|Common]] ; [[DATABASE/spell/Tongues|tongues]]'
+level: '4'
 max_speed: '25'
-name: Faceless Butcher
-perception: '+21'
-rarity: Uncommon
-reflex: '+22'
+name: Faceless Stalker
+perception: '+10'
+rarity: Common
+reflex: '+9'
 resistance:
-- bludgeoning 8
+- bludgeoning 5
 rus_type_level: null
 school: null
 sense:
 - darkvision
 size: Medium
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +22'
-- '[[DATABASE/skill/Athletics|Athletics]] +24'
-- '[[DATABASE/skill/Deception|Deception]] +24'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +22'
-- '[[DATABASE/skill/Stealth|Stealth]] +24'
-source: '[[DATABASE/source/Pathfinder 154. Siege of the Dinosaurs|Pathfinder #154:
-  Siege of the Dinosaurs]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +12'
+- '[[DATABASE/skill/Athletics|Athletics]] +12'
+- '[[DATABASE/skill/Deception|Deception]] +13'
+- '[[DATABASE/skill/Stealth|Stealth]] +13'
+- '[[DATABASE/skill/Thievery|Thievery]] +9'
+source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 25 feet
-spell: null
-strength: '+7'
-strength_req: '7'
+spell:
+- '[[DATABASE/spell/Tongues|Tongues]]'
+strength: '+4'
+strength_req: '4'
 strongest_save:
-- Fortitude
+- Will
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Humanoid|Humanoid]]'
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
+- '[[DATABASE/trait/Aberration|Aberration]]'
 type: Creature
 vision: Darkvision
 weakest_save:
-- Will
+- Fortitude
+- Reflex
 weakness: null
-will: '+20'
-wisdom: '+3'
+will: '+12'
+wisdom: '+2'
 
 ---
 # Faceless Stalker (Ugothol)

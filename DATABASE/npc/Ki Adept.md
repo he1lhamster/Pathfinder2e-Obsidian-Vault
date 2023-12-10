@@ -12,11 +12,6 @@ creature_ability:
 - Powerful Fists
 - Punch Down
 creature_family: null
-description: 'The ki adept is in tune with their own body and can manipulate the mystical
-  energy that flows within them. Typically, the ki adept works to hamper as many foes
-  as possible with their Knocking Sweep and follows up with a Flurry of Blows.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 33<br/><b><u>Unspecific
-  Lore</u></b>: DC 31<br/><b><u>Specific Lore</u></b>: DC 28'
 dexterity: '+4'
 element: null
 fly_speed: null

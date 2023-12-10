@@ -1,77 +1,71 @@
 ﻿---
-ac: '17'
-alignment: CE
+ac: '20'
+alignment: CN
 all_resistance: null
 burrow_speed: null
-charisma: '+2'
+charisma: '+1'
 climb_speed: null
-constitution: '+0'
+constitution: '+3'
 creature_ability:
-- Sneak Attack
-- Tinker
-creature_family: '[[DATABASE/monsterfamily/Gremlin|Gremlin]]'
-description: 'Jinkins are sadistic tinkers who steal and sabotage items and take great
-  pride in their power to curse precious objects. They hold grudges and create convoluted
-  plans for revenge whenever they feel slighted, such as when a creature dares to
-  remove one of their curses. Rarely content to wreak simple mayhem, jinkins also
-  take immense pleasure in torture and murder, though they prefer to lead victims
-  into traps designed to capture or incapacitate rather than kill outright. Deep pits
-  are favorites, since victims who survive the fall face a slow death from starvation
-  and thirst. Jinkins enjoy gathering at the edge of pits to mock, tease, and torment.<br/><br/><b><u>Recall
-  Knowledge - Fey</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 15<br/><b><u>Unspecific
-  Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>: DC 10'
+- Compression
+- Consecration Vulnerability
+- Death Gasp
+- Osseous Defense
+creature_family: '[[DATABASE/monsterfamily/Mortic|Mortic]]'
 dexterity: '+4'
 element: null
 fly_speed: null
-fortitude: '+6'
+fortitude: '+10'
 hardness: null
-hp: '19'
-id: '247'
+hp: 56 ( negative healing )
+id: '1881'
 immunity: null
-intelligence: '+2'
-land_speed: '30'
+intelligence: '+0'
+land_speed: '25'
 language:
-- '[[DATABASE/language/Undercommon|Undercommon]]'
-level: '1'
-max_speed: '30'
-name: Jinkin
-perception: '+7'
-rarity: Common
-reflex: '+10'
-resistance: null
+- '[[DATABASE/language/Common|Common]]'
+- '[[DATABASE/language/Halfling|Halfling]]'
+- '[[DATABASE/language/Necril|Necril]]'
+level: '4'
+max_speed: '25'
+name: Jitterbone Contortionist
+perception: '+10'
+rarity: Rare
+reflex: '+14'
+resistance:
+- see Osseous Defense
 rus_type_level: null
 school: null
 sense:
-- darkvision
-size: Tiny
+- '[[DATABASE/monsterability/Darkvision|darkvision]]'
+size: Small
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +7'
-- '[[DATABASE/skill/Crafting|Crafting]] +5'
-- '[[DATABASE/skill/Deception|Deception]] +5'
-- '[[DATABASE/skill/Nature|Nature]] +5'
-- '[[DATABASE/skill/Stealth|Stealth]] +7'
-- '[[DATABASE/skill/Thievery|Thievery]] +7'
-source: '[[DATABASE/source/Bestiary|Bestiary]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +12'
+- '[[DATABASE/skill/Athletics|Athletics]] +10'
+- '[[DATABASE/skill/Deception|Deception]] +9'
+- '[[DATABASE/skill/Stealth|Stealth]] +12'
+source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 speed:
-- 30 feet
-spell:
-- '[[DATABASE/spell/Prestidigitation|Prestidigitation]]'
-strength: '-2'
-strength_req: '-2'
+- 25 feet; compression
+spell: null
+strength: '+2'
+strength_req: '2'
 strongest_save:
 - Reflex
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Fey|Fey]]'
-- '[[DATABASE/trait/Gremlin|Gremlin]]'
+- '[[DATABASE/trait/Halfling|Halfling]]'
+- '[[DATABASE/trait/Humanoid|Humanoid]]'
+- '[[DATABASE/trait/Mortic|Mortic]]'
+- '[[DATABASE/trait/Rare|Rare]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness:
-- cold iron 2
-will: '+7'
-wisdom: '+2'
+- Will
+weakness: null
+will: '+10'
+wisdom: '+1'
 
 ---
 # Jitterbone

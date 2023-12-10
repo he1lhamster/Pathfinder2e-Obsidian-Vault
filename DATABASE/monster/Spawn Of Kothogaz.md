@@ -9,12 +9,6 @@ constitution: '+3'
 creature_ability:
 - Fusing Spit
 creature_family: null
-description: '[[DATABASE/monster/Kothogaz, Dance Of Disharmony|Kothogaz''s]] presence
-  causes the land to sprout festering hives. Insectile, acid-drooling spawn slither
-  from these growths as lesser versions of their creator.<br/><br/><b><u>Recall Knowledge
-  - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 27<br/><b><u>Unspecific Lore</u></b>: DC 25<br/><b><u>Specific Lore</u></b>:
-  DC 22'
 dexterity: '+5'
 element: null
 fly_speed: null

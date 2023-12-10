@@ -11,10 +11,6 @@ creature_ability:
 - Rugged Travel
 - Vengeful Bite
 creature_family: '[[DATABASE/monsterfamily/Mana Wastes Mutant|Mana Wastes Mutant]]'
-description: 'Separated from their pack during a prolonged storm of wild magic, the
-  Mana Wastes mutant gnoll hulk transformed into a gigantic, ravenous creature.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 26<br/><b><u>Unspecific
-  Lore</u></b>: DC 24<br/><b><u>Specific Lore</u></b>: DC 21'
 dexterity: '+3'
 element: null
 fly_speed: null

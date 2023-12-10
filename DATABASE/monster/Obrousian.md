@@ -1,97 +1,51 @@
 ﻿---
-ac: '36'
-alignment: NE
+ac: null
+alignment: null
 all_resistance: null
 burrow_speed: null
-charisma: '+7'
+charisma: null
 climb_speed: null
-constitution: '+3'
-creature_ability:
-- Change Shape
-- Drowning Grasp
-- Waves of Sorrow
+constitution: null
+creature_ability: null
 creature_family: null
-description: 'Spawned from sorrow and hatred, obrousians are undead [[DATABASE/monsterfamily/Merfolk|merfolk]]
-  who lurk in shallow places to prey upon hated land dwellers. The genesis of an obrousian
-  is a tragic one: some merfolk forsake their aquatic homes when they fall in love
-  with a land dweller, only to be spurned or rejected. Having given up their entire
-  world for another and then feeling that new world closed off to them as well, merfolk
-  can become emotionally overwhelmed. When such merfolk die, often overcome with sorrow
-  and regret, they rise as obrousians.<br/><br/> Obrousians think of little other
-  than taking revenge upon the land dwellers who specifically wronged them, and then
-  upon anyone else with the misfortune to cross their paths. They can contort their
-  bodies to take the guise of other humanoids, but doing so is painful, so obrousians
-  use this ability only when absolutely necessary to enact their schemes. While they
-  are capable of long-term planning, their underlying mental turmoil simmers beneath
-  any careful preparation, and many obrousians foil their own plans with unexpected
-  outbursts of emotion.<br/><br/> Obrousians are recognizable as the merfolk they
-  once were before they died, though their bodies show obvious decay and their hands
-  have elongated into sharp claws. Their voices are melodic and entrancing, belying
-  their rotting bodies and turbulent minds, so some obrousians hide in tall reeds
-  or under docks before speaking to their victims, lulling them into false comfort
-  with a pleasant voice.<br/><br/><b><u>Recall Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 34<br/><b><u>Unspecific Lore</u></b>: DC 32<br/><b><u>Specific Lore</u></b>:
-  DC 29'
-dexterity: '+4'
+dexterity: null
 element: null
 fly_speed: null
-fortitude: '+25'
+fortitude: null
 hardness: null
-hp: 250 ( negative healing )
-id: '1888'
-immunity:
-- '[[DATABASE/trait/Death|death]] effects'
-- '[[DATABASE/trait/Disease|disease]]'
-- '[[DATABASE/condition/Paralyzed|paralyzed]]'
-- '[[DATABASE/trait/Poison|poison]]'
-- '[[DATABASE/condition/Unconscious|unconscious]]'
-intelligence: '+0'
-land_speed: '5'
-language:
-- '[[DATABASE/language/Aquan|Aquan]]'
-- '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Necril|Necril]]'
-level: '14'
-max_speed: '30'
+hp: null
+id: '1013'
+immunity: null
+intelligence: null
+land_speed: null
+language: null
+level: null
+max_speed: null
 name: Obrousian
-perception: '+26'
-rarity: Uncommon
-reflex: '+22'
+perception: null
+rarity: null
+reflex: null
 resistance: null
 rus_type_level: null
 school: null
-sense:
-- '[[DATABASE/monsterability/Darkvision|darkvision]]'
-size: Medium
-skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +26'
-- '[[DATABASE/skill/Deception|Deception]] +27'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +25'
-- '[[DATABASE/skill/Nature|Nature]] +24'
-- '[[DATABASE/skill/Stealth|Stealth]] +26'
-source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
-speed:
-- 5 feet
-- swim 30 feet
-spell:
-- '[[DATABASE/spell/Enthrall|Enthrall]]'
-- '[[DATABASE/spell/Warp Mind|WarpMind]]'
-strength: '+6'
-strength_req: '6'
-strongest_save:
-- Will
-swim_speed: '30'
-trait:
-- '[[DATABASE/trait/Amphibious|Amphibious]]'
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
-- '[[DATABASE/trait/Undead|Undead]]'
-type: Creature
-vision: Darkvision
-weakest_save:
-- Reflex
+sense: null
+size: null
+skill: null
+source: '[[DATABASE/source/Pathfinder 161. Belly of the Black Whale|Pathfinder #161:
+  Belly of the Black Whale]]'
+speed: null
+spell: null
+strength: null
+strength_req: null
+strongest_save: null
+swim_speed: null
+trait: null
+type: null
+vision: null
+weakest_save: null
 weakness: null
-will: '+28'
-wisdom: '+4'
+will: null
+wisdom: null
 
 ---
 # Obrousian

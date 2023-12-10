@@ -15,10 +15,6 @@ creature_ability:
 - Aura
 - Weapon Master
 creature_family: '[[DATABASE/monsterfamily/Graveknight|Graveknight]]'
-description: 'Graveknights are undead warriors granted unlife by a cursed suit of
-  armor.<br/><br/><b><u>Recall Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 27<br/><b><u>Unspecific Lore</u></b>: DC 25<br/><b><u>Specific Lore</u></b>:
-  DC 22'
 dexterity: '+4'
 element: null
 fly_speed: null

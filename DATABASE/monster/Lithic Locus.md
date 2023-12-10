@@ -11,26 +11,6 @@ creature_ability:
 - Bury
 - Echo the Past
 creature_family: null
-description: 'Civilizations die, buried by time, but their memory may yet linger in
-  shattered pottery, collapsed edifices, and destroyed artwork, compressed and clarified
-  under the weight of rock and soil. Some excavated sites might still hold a sliver
-  of consciousness in their base materials, which walks again as an avatar of an extinct
-  people when awakened. These lithic loci represent the triumphs and folly of their
-  society. Speaking to one is speaking to a witness of an archaic time. The lithic
-  locus''s persona expresses their culture in all dimensions, and thus the attitudes
-  of lithic loci vary greatly. Their appearances show the aesthetics and technology
-  of their time, suspended in a cloud of excavated earth.<br/><br/> As plentiful as
-  archaeological sites are in the [[DATABASE/plane/Material Plane|Universe]] , the
-  [[DATABASE/plane/Plane of Earth|Plane of Earth]] holds countless more of far older
-  provenance. Some of its inhabitants have even found lithic loci from peoples far
-  older than themselves, seeing directly what would remain should they dwindle out
-  of living memory. This has led some civilizations to even plan their decline by
-  leaving a legacy in the living rock.<br/><br/><b><u>Recall Knowledge - Construct</u>
-  ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]] )</b>:
-  DC 37<br/><b><u>Recall Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Nature|Nature]] )</b>: DC 37<br/><b><u>Recall Knowledge - Spirit</u>
-  ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 37<br/><b><u>Unspecific Lore</u></b>:
-  DC 35<br/><b><u>Specific Lore</u></b>: DC 32'
 dexterity: '+0'
 element: Earth
 fly_speed: null

@@ -16,13 +16,6 @@ creature_ability:
 - ''
 - Wild Hunt Link
 creature_family: '[[DATABASE/monsterfamily/Wild Hunt|Wild Hunt]]'
-description: 'Wild hunt hounds are intelligent hunters and expert trackers that take
-  the lead against elusive prey. Left to their own devices, they seek out creatures
-  that are notoriously difficult to track. They are always surrounded with green mist
-  composed of fragments of the spirits of the wild hunt''s victims, a mystic fog that
-  forms itself into a spectral pack to fight at its side.<br/><br/><b><u>Recall Knowledge
-  - Fey</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 37<br/><b><u>Unspecific Lore</u></b>:
-  DC 35<br/><b><u>Specific Lore</u></b>: DC 32'
 dexterity: '+4'
 element: null
 fly_speed: null

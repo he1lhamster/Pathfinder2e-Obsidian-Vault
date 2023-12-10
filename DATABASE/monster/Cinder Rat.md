@@ -10,11 +10,6 @@ creature_ability:
 - Fetid Fumes
 - Smoke Vision
 creature_family: '[[DATABASE/monsterfamily/Elemental, Fire|Elemental, Fire]]'
-description: 'These oversized rodents are made of smoldering charcoal and elemental
-  fire, and noxious fumes continually bellow from their flaming flesh.<br/><br/><b><u>Recall
-  Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 18<br/><b><u>Unspecific Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>:
-  DC 13'
 dexterity: '+3'
 element: Fire
 fly_speed: null

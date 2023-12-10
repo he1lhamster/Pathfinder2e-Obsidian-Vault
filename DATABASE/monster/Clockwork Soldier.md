@@ -11,11 +11,6 @@ creature_ability:
 - Attack of Opportunity
 - Wind-Up
 creature_family: '[[DATABASE/monsterfamily/Clockworks|Clockworks]]'
-description: 'These diligent machines guard their assigned posts tirelessly. A typical
-  clockwork soldier stands 6 feet tall and consists of 500 pounds of metal and magic.<br/><br/><b><u>Recall
-  Knowledge - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]]
-  )</b>: DC 24<br/><b><u>Unspecific Lore</u></b>: DC 22<br/><b><u>Specific Lore</u></b>:
-  DC 19'
 dexterity: '+2'
 element: null
 fly_speed: null

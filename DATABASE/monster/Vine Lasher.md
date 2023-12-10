@@ -9,11 +9,6 @@ constitution: '+2'
 creature_ability:
 - Light Hold
 creature_family: '[[DATABASE/monsterfamily/Deadly Flora|Deadly Flora]]'
-description: 'What first appears to be a simple shrub suddenly stirs to life.<br/><br/>The
-  vine lasher attacks in groups, attempting to immobilize prey and slowly tear a creature
-  to pieces.<br/><br/><b><u>Recall Knowledge - Plant</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 14<br/><b><u>Unspecific Lore</u></b>: DC 12<br/><b><u>Specific Lore</u></b>:
-  DC 9'
 dexterity: '+3'
 element: null
 fly_speed: null

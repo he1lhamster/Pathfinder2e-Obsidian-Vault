@@ -9,15 +9,6 @@ constitution: '+3'
 creature_ability:
 - Germinate
 creature_family: '[[DATABASE/monsterfamily/Elemental, Wood|Elemental, Wood]]'
-description: 'The vibrant elemental energy of the [[DATABASE/plane/Plane of Wood|Plane
-  of Wood]] imbues even the most rotten of fallen trees, empowering their remains
-  to travel in search of the best locations for the next generation to put down roots.
-  This mono-eyed, rotten stump launches seeds that begin to sprout the moment they''re
-  buried, whether in the ground or in a living creature''s skin.<br/><br/><b><u>Recall
-  Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 18<br/><b><u>Recall Knowledge - Plant</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 18<br/><b><u>Unspecific Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>:
-  DC 13'
 dexterity: '+3'
 element: Wood
 fly_speed: null

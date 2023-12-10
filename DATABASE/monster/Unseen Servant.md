@@ -10,8 +10,6 @@ creature_ability:
 - Force Body
 - Invisible
 creature_family: null
-description: This creature can be summoned with the spell <i> [[DATABASE/spell/Unseen
-  Servant|Unseen Servant]] </i>.
 dexterity: '+2'
 element: null
 fly_speed: '30'

@@ -3,48 +3,37 @@ ac: '24'
 alignment: NE
 all_resistance: null
 burrow_speed: null
-charisma: '+1'
+charisma: '+2'
 climb_speed: null
-constitution: '+4'
+constitution: '+2'
 creature_ability:
-- Attack of Opportunity
-- Chipping Scales
-- Rattling Spear
 - Serpentfolk Venom
+- Venom Pool
 creature_family: '[[DATABASE/monsterfamily/Serpentfolk|Serpentfolk]]'
-description: 'Many burly [[DATABASE/monster/Aapoph Serpentfolk|aapoph serpentfolk]]
-  bear minor mutations. Granitescales have bulky frames covered in hard, speckled
-  gray plates. These scales offer additional protection but shed when struck with
-  too much force. As granitescales regrow lost scales quickly, they make effective
-  long-term sentinels and vanguards for guerilla tactics. Granitescales like to carve
-  their shed scales into small chips and attach them as rattles to the ends of their
-  spears. Many an unsuspecting victim has heard the shaking hiss of a granitescale''s
-  rattle too late.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 24<br/><b><u>Unspecific Lore</u></b>: DC 22<br/><b><u>Specific Lore</u></b>:
-  DC 19'
 dexterity: '+4'
 element: null
 fly_speed: null
-fortitude: '+17'
+fortitude: '+13'
 hardness: null
-hp: '120'
-id: '1627'
+hp: '105'
+id: '1628'
 immunity: null
-intelligence: '-2'
+intelligence: '+6'
 land_speed: '25'
 language:
 - '[[DATABASE/language/Aklo|Aklo]]'
 - '[[DATABASE/language/Common|Common]]'
+- '[[DATABASE/language/Draconic|Draconic]]'
 - '[[DATABASE/language/Undercommon|Undercommon]] ; [[DATABASE/monsterability/Telepathy|telepathy]]
   100 feet'
-level: '6'
+level: '7'
 max_speed: '25'
-name: Serpentfolk Granitescale
-perception: '+13'
+name: Serpentfolk Venom Caller
+perception: '+15'
 rarity: Uncommon
-reflex: '+14'
+reflex: '+15'
 resistance:
-- '[[DATABASE/trait/Poison|poison]] 8'
+- '[[DATABASE/trait/Poison|poison]] 10'
 rus_type_level: null
 school: null
 sense:
@@ -52,31 +41,52 @@ sense:
 - '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
 size: Medium
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +13'
-- '[[DATABASE/skill/Athletics|Athletics]] +15'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +13'
+- '[[DATABASE/skill/Arcana|Arcana]] +17'
+- '[[DATABASE/skill/Deception|Deception]] +15'
+- '[[DATABASE/skill/Nature|Nature]] +15'
+- '[[DATABASE/skill/Occultism|Occultism]] +17'
+- '[[DATABASE/skill/Society|Society]] +15'
+- '[[DATABASE/skill/Survival|Survival]] +15'
 source: '[[DATABASE/source/Pathfinder 170. Spoken on the Song Wind|Pathfinder #170:
   Spoken on the Song Wind]]'
 speed:
 - 25 feet
-spell: null
-strength: '+5'
-strength_req: '5'
+spell:
+- '[[DATABASE/spell/Acid Arrow|Acid Arrow]]'
+- '[[DATABASE/spell/Acid Splash|AcidSplash]]'
+- '[[DATABASE/spell/Detect Magic|Detect Magic]]'
+- '[[DATABASE/spell/False Life|False Life]]'
+- '[[DATABASE/spell/Feather Fall|Feather Fall]]'
+- '[[DATABASE/spell/Illusory Disguise|Illusory Disguise]]'
+- '[[DATABASE/spell/Invisibility|Invisibility]]'
+- '[[DATABASE/spell/Item Facade|Item Facade]]'
+- '[[DATABASE/spell/Mage Hand|Mage Hand]]'
+- '[[DATABASE/spell/Magic Missile|Magic Missile]]'
+- '[[DATABASE/spell/Mind Reading|Mind Reading]]'
+- '[[DATABASE/spell/Mirror Image|Mirror Image]]'
+- '[[DATABASE/spell/Noxious Vapors|Noxious Vapors]]'
+- '[[DATABASE/spell/Read Aura|Read Aura]]'
+- '[[DATABASE/spell/Shield|Shield]]'
+- '[[DATABASE/spell/Slow|Slow]]'
+- '[[DATABASE/spell/Stinking Cloud|StinkingCloud]]'
+- '[[DATABASE/spell/Suggestion|Suggestion]]'
+- '[[DATABASE/spell/Ventriloquism|Ventriloquism]]'
+strength: '+0'
+strength_req: '0'
 strongest_save:
-- Fortitude
+- Will
 swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
-- '[[DATABASE/trait/Mutant|Mutant]]'
 - '[[DATABASE/trait/Serpentfolk|Serpentfolk]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
 vision: Darkvision
 weakest_save:
-- Will
+- Fortitude
 weakness: null
-will: '+12'
-wisdom: '+1'
+will: '+17'
+wisdom: '+4'
 
 ---
 # Venom Caller

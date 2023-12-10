@@ -11,11 +11,6 @@ creature_ability:
 - Swarming Slither
 - Weak Acid
 creature_family: '[[DATABASE/monsterfamily/Ooze|Ooze]]'
-description: 'An amoeba swarm consists of thousands of individual single-celled organisms
-  held together by acrid-smelling slime. As ravenous as they are mindless, amoeba
-  swarms use no tactics.<br/><br/><b><u>Recall Knowledge - Ooze</u> ( [[DATABASE/skill/Occultism|Occultism]]
-  )</b>: DC 15<br/><b><u>Unspecific Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>:
-  DC 10'
 dexterity: '-2'
 element: null
 fly_speed: null

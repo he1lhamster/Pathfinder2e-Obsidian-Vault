@@ -10,13 +10,6 @@ creature_ability:
 - Downcast
 - Duskflow
 creature_family: '[[DATABASE/monsterfamily/Elemental, Air|Elemental, Air]]'
-description: 'Despairing palls are small, dark clouds that float aimlessly through
-  the [[DATABASE/plane/Plane of Air|Plane of Air]] , casting literal and emotional
-  shadows wherever they go. Pranksters and mischievous elementalists often summon
-  them to rain on a rival''s parade.<br/><br/><b><u>Recall Knowledge - Elemental</u>
-  ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]] )</b>: DC
-  15<br/><b><u>Unspecific Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>: DC
-  10'
 dexterity: '+4'
 element: Air
 fly_speed: '50'

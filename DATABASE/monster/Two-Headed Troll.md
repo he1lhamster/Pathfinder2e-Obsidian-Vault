@@ -12,19 +12,6 @@ creature_ability:
 - Independent Brains
 - Reactive Chomp
 creature_family: '[[DATABASE/monsterfamily/Troll|Troll]]'
-description: "Two-headed trolls are savage, dual-minded monsters with an unquenchable\
-  \ thirst for bloodshed, and dread tales of their ravenous appetites are whispered\
-  \ of in homesteads throughout the lands of the Inner Sea. Indeed, it is a custom\
-  \ for parents to invoke the two-headed troll as a warning to misbehaving children.\
-  \ \u201CFinish your chores,\u201D a parent might say to a stubborn child, \u201C\
-  or a two-headed troll will snatch you away at night and swallow you whole!\u201D\
-  \ It's unclear why such a morbid tradition gained traction with parents, but it's\
-  \ an undeniable fact that two-headed trolls have an appetite for \u201Cnibbles\u201D\
-  \u2014creatures small enough to devour with one bite.<br/><br/> Mature two-headed\
-  \ trolls stand 13 feet in height, weighing roughly 1,700 pounds. Unlike common trolls,\
-  \ two-headed trolls share the upright gait of their [[DATABASE/monster/Ettin|ettin]]\
-  \ ancestry and do not walk hunched over.<br/><br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 24<br/><b><u>Specific Lore</u></b>: DC 21"
 dexterity: '+1'
 element: null
 fly_speed: null

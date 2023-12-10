@@ -13,12 +13,6 @@ creature_ability:
 - Star Child
 - Wrap in Coils
 creature_family: '[[DATABASE/monsterfamily/Couatl|Couatl]]'
-description: "Mix couatls (pronounced \u201Cmeesh\u201D) are guides to fledgling societies,\
-  \ providing fundamental information such as farming techniques, medicinal expertise,\
-  \ or more esoteric knowledge like the arcane arts.<br/><br/><b><u>Recall Knowledge\
-  \ - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 26<br/><b><u>Unspecific Lore</u></b>: DC 24<br/><b><u>Specific Lore</u></b>:\
-  \ DC 21"
 dexterity: '+3'
 element: null
 fly_speed: '50'

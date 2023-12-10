@@ -11,22 +11,6 @@ creature_ability:
 - Impart Fears
 - Malevolent Mishaps
 creature_family: null
-description: "Common urban legends in Geb warn of the vengeful spirits of those who've\
-  \ been cooked alive, collectively called charghars. While many Gebbites eat people\
-  \ in ways that don't involve cooking, there are some [[DATABASE/trait/Undead|undead]]\
-  \ who've grown bored after centuries of the same diet. There are also some living\
-  \ people in the nation who've resorted to cannibalism: either downtrodden folks\
-  \ who cook and eat their neighbors and kin out of necessity, or socialites who dine\
-  \ on such fare because it's fashionable. Regardless of the reason for cooking people,\
-  \ these efforts can create vengeful undead creatures who lurk wherever meals are\
-  \ being prepared, luring cooks into making careless or deadly mistakes.<br/><br/>\
-  \ Charghars have spectral humanoid forms, while their physical manifestations appear\
-  \ much as they did after they were cooked\u2014as charred remains, gory corpses\
-  \ bearing disembodied butchered chunks that float nearby, or loose assemblages of\
-  \ boiled bones.<br/><br/><b><u>Recall Knowledge - Spirit</u> ( [[DATABASE/skill/Occultism|Occultism]]\
-  \ )</b>: DC 21<br/><b><u>Recall Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]]\
-  \ )</b>: DC 21<br/><b><u>Unspecific Lore</u></b>: DC 19<br/><b><u>Specific Lore</u></b>:\
-  \ DC 16"
 dexterity: '+4'
 element: null
 fly_speed: '25'

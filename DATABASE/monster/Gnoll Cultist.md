@@ -10,14 +10,6 @@ creature_ability:
 - Pack Attack
 - Rugged Travel
 creature_family: '[[DATABASE/monsterfamily/Gnoll|Gnoll]]'
-description: "Gnoll cultists serve as their clans\u2019 spiritual guides and conduits\
-  \ to the divine. As often as not, their influence drives entire gnoll civilizations\
-  \ to commit atrocious acts of violence and enslavement. Lamashtu and Rovagug are\
-  \ favored deities of gnoll cultists, and many gnolls believe their kind was in fact\
-  \ birthed from the womb of the Mother of Monsters. Some gnoll clans worship lesser-known\
-  \ demon lords or entire pantheons of sinister patrons.<br/><br/><b><u>Recall Knowledge\
-  \ - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 18<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>: DC 13"
 dexterity: '+2'
 element: null
 fly_speed: null

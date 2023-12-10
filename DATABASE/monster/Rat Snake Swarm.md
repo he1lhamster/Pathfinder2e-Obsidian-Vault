@@ -10,13 +10,6 @@ creature_ability:
 - Mass Wriggle
 - Swarming Strikes
 creature_family: '[[DATABASE/monsterfamily/Snake|Snake]]'
-description: 'A solitary snake might be no cause for alarm, but a hissing mass of
-  frenzied snakes can make even seasoned adventurers shudder. Rat snakes can reach
-  lengths of up to 10 feet, and they gather en masse to hibernate as well as to breed.
-  Though nonvenomous, these territorial snakes will strike anything that threatens
-  them.<br/><br/><b><u>Recall Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 16<br/><b><u>Unspecific Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>:
-  DC 11'
 dexterity: '+4'
 element: null
 fly_speed: null

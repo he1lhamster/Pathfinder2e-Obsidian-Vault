@@ -15,10 +15,6 @@ creature_ability:
 - Telekinetic
 - Storm
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Spirit</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 35<br/><b><u>Recall
-  Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 35<br/><b><u>Unspecific
-  Lore</u></b>: DC 33<br/><b><u>Specific Lore</u></b>: DC 30'
 dexterity: '+7'
 element: null
 fly_speed: '30'

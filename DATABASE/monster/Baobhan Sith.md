@@ -11,16 +11,6 @@ creature_ability:
 - Change Shape
 - Drink Blood
 creature_family: null
-description: 'Undeath is rare in the fey realm of the First World, for that plane''s
-  infusion with the raw power of life makes undead uncomfortable at best. Yet a few
-  fey have adopted the vile practices and habits of notorious undead while still being
-  living themselves, as seen in the blood-drinking habits of the murderous baobhan
-  sith.<br/><br/>A baobhan sith avoids confrontations when outnumbered, and although
-  territorial, they won''t reveal their true nature to larger groups. They prefer
-  to drink blood from victims they find attractive, and they avoid drinking blood
-  from animals and beasts entirely, as they consider such activities to be uncultured.<br/><br/><b><u>Recall
-  Knowledge - Fey</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 24<br/><b><u>Unspecific
-  Lore</u></b>: DC 22<br/><b><u>Specific Lore</u></b>: DC 19'
 dexterity: '+5'
 element: null
 fly_speed: null

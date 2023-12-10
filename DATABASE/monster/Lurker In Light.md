@@ -12,19 +12,6 @@ creature_ability:
 - Ritual Gate
 - Sneak Attack
 creature_family: null
-description: 'These malicious and strange fey appear as fairies about 2 feet tall,
-  with insectile wings, large eyes, and bulbous heads. They slaughter and cause mischief
-  in a pattern only their alien intellect understands, but they''ve been seen to take
-  particular umbrage against dwarves, gnomes, and creatures who live in darkness.
-  With their grudges and pursuit of their own wicked and sadistic whims, lurkers in
-  light deftly overturn the conventional wisdom that creatures associated with light
-  are benign and friendly.<br/><br/> While lurkers in light are fey and have ties
-  to the [[DATABASE/plane/First World|First World]] , these creatures are often found
-  elsewhere in the Great Beyond. They are particularly fond of invading the [[DATABASE/plane/Shadow
-  Plane|Shadow Plane]] to bring light to those who dwell there-not to help, but to
-  spread misery and pain among those to whom light is agonizing.<br/><br/><b><u>Recall
-  Knowledge - Fey</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 20<br/><b><u>Unspecific
-  Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>: DC 15'
 dexterity: '+5'
 element: null
 fly_speed: '25'

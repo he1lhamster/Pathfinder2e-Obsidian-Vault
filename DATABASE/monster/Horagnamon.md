@@ -10,9 +10,6 @@ creature_ability:
 - Cunning
 - Death Throes
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 34<br/><b><u>Unspecific
-  Lore</u></b>: DC 32<br/><b><u>Specific Lore</u></b>: DC 29'
 dexterity: '+6'
 element: null
 fly_speed: '40'

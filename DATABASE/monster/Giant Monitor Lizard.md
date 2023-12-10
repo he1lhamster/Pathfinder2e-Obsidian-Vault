@@ -12,19 +12,6 @@ creature_ability:
 - Lurching Charge
 - Monitor Lizard Venom
 creature_family: '[[DATABASE/monsterfamily/Lizard|Lizard]]'
-description: "Large and seemingly ponderous, a monitor lizard is a deceptively swift\
-  \ and ruthless predator. It ambushes its prey by rushing out from cover and biting\
-  \ the target with its powerful jaws. A giant monitor lizard\u2019s saliva is venomous,\
-  \ allowing it to bring down prey larger than it can easily haul away in its jaws.\
-  \ Giant monitor lizards grow up to 14 feet long, including their long tails, and\
-  \ they weigh about 350 pounds. Their bodies are normally dark brown with patches\
-  \ of yellow or green. When nesting, a giant monitor lizard digs a deep burrow to\
-  \ hide in. The burrow serves as both a safe haven and a location from which the\
-  \ lizard can ambush larger prey such as deer, boars, or even humanoids. A giant\
-  \ monitor lizard can consume nearly its own body weight in a single meal, and its\
-  \ loosely articulated jaws allow it to swallow surprisingly large prey.<br/><br/><b><u>Recall\
-  \ Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 16<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>: DC 11"
 dexterity: '+2'
 element: null
 fly_speed: null

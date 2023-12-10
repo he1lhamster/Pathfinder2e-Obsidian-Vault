@@ -12,13 +12,6 @@ creature_ability:
 - Pollen Cloud
 - Vine Splint
 creature_family: '[[DATABASE/monsterfamily/Arboreal|Arboreal]]'
-description: 'In the densest and oldest jungles, arboreals can reach heights of 200
-  feet or more. Given thousands of undisturbed years, these massive creatures enter
-  into a symbiotic relationship with a myriad of plants, fungi, and animals to achieve
-  the esteemed status of canopy elder. They provide a safe home for the creatures
-  they host and develop a variety of powers that help them defend their forest realms.<br/><br/><b><u>Recall
-  Knowledge - Plant</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 44<br/><b><u>Unspecific
-  Lore</u></b>: DC 42<br/><b><u>Specific Lore</u></b>: DC 39'
 dexterity: '+4'
 element: null
 fly_speed: null

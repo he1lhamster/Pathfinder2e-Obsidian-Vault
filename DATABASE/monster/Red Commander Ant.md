@@ -13,16 +13,6 @@ creature_ability:
 - Red Ant Venom
 - The Queen's Enemy
 creature_family: '[[DATABASE/monsterfamily/Gigantic Ant|Gigantic Ant]]'
-description: 'Second only to the hive''s queen, red commanders hold absolute authority
-  over the hive''s other ants. Although no red commander can give orders to another,
-  they nevertheless work in an eerie coordination to fulfill their missions as effectively
-  as possible. They have a sense of adaptability and self-preservation that might
-  lead them to abandon a dangerous task, even if doing so costs the lives of lower-ranking
-  ants. Red commanders tend to show glimmers of individuality that other red ants
-  don''t, such as by marking their chitinous exoskeletons with commemorations of past
-  battles and martial victories.<br/><br/><b><u>Recall Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Nature|Nature]] )</b>: DC 41<br/><b><u>Unspecific Lore</u></b>:
-  DC 39<br/><b><u>Specific Lore</u></b>: DC 36'
 dexterity: '+5'
 element: null
 fly_speed: null

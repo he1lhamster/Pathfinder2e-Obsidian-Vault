@@ -16,9 +16,6 @@ creature_ability:
 - Release Worldly Passions
 - Stunning Flurry
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 48<br/><b><u>Unspecific
-  Lore</u></b>: DC 46<br/><b><u>Specific Lore</u></b>: DC 43'
 dexterity: '+8'
 element: null
 fly_speed: null

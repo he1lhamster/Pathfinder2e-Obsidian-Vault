@@ -11,14 +11,6 @@ creature_ability:
 - Scalescribe
 - Stench
 creature_family: '[[DATABASE/monsterfamily/Xulgath|Xulgath]]'
-description: "Xulgath deepmouths wield the powers of the [[DATABASE/plane/Abyss|Abyss]]\
-  \ against their clutch's enemies and invoke righteous fear in their followers. The\
-  \ vast majority of deepmouths worship demon lords, most commonly [[DATABASE/deity/Zevgavizeb|Zevgavizeb]]\
-  \ . Scalescribing\u2014the warping of xulgath flesh into imitations of [[DATABASE/language/Abyssal|Abyssal]]\
-  \ script\u2014is a widespread practice among deepmouths, enabling them to channel\
-  \ the power of the Abyss through their fanatical devotees' own bodies.<br/><br/><b><u>Recall\
-  \ Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 32<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 30<br/><b><u>Specific Lore</u></b>: DC 27"
 dexterity: '+4'
 element: null
 fly_speed: null

@@ -1,54 +1,64 @@
 ﻿---
-ac: null
-alignment: null
+ac: '20'
+alignment: N
 all_resistance: null
 burrow_speed: null
-charisma: null
-climb_speed: null
-constitution: null
-creature_ability: null
+charisma: '-2'
+climb_speed: '20'
+constitution: '+2'
+creature_ability:
+- Gripping Tentacle
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 18<br/><b><u>Unspecific
-  Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>: DC 13'
-dexterity: null
+dexterity: '+3'
 element: null
 fly_speed: null
-fortitude: null
+fortitude: '+7'
 hardness: null
-hp: null
-id: '2478'
+hp: '35'
+id: '2182'
 immunity: null
-intelligence: null
-land_speed: null
-language: null
-level: null
-max_speed: null
+intelligence: '-3'
+land_speed: '25'
+language:
+- '[[DATABASE/language/Aklo|Aklo]] ; (can''t speak any language)'
+level: '3'
+max_speed: '25'
 name: Grick
-perception: null
-rarity: null
-reflex: null
-resistance: null
+perception: '+8'
+rarity: Uncommon
+reflex: '+10'
+resistance:
+- physical 5 (except [[DATABASE/trait/Magical|magic]] )
 rus_type_level: null
 school: null
-sense: null
-size: null
-skill: null
-source: '[[DATABASE/source/Pathfinder 157. Devil at the Dreaming Palace|Pathfinder
-  #157: Devil at the Dreaming Palace]]'
-speed: null
+sense:
+- '[[DATABASE/monsterability/Darkvision|darkvision]]'
+- '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
+size: Medium
+skill:
+- '[[DATABASE/skill/Athletics|Athletics]] +9'
+- '[[DATABASE/skill/Stealth|Stealth]] +8'
+source: '[[DATABASE/source/Crown of the Kobold King|Crown of the Kobold King]]'
+speed:
+- 25 feet
+- climb 20 feet
 spell: null
-strength: null
-strength_req: null
-strongest_save: null
+strength: '+4'
+strength_req: '4'
+strongest_save:
+- Reflex
+- Will
 swim_speed: null
-trait: null
-type: null
-vision: null
-weakest_save: null
+trait:
+- '[[DATABASE/trait/Aberration|Aberration]]'
+- '[[DATABASE/trait/Uncommon|Uncommon]]'
+type: Creature
+vision: Darkvision
+weakest_save:
+- Fortitude
 weakness: null
-will: null
-wisdom: null
+will: '+10'
+wisdom: '+3'
 
 ---
 # Grick

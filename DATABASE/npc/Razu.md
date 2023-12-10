@@ -10,46 +10,6 @@ creature_ability:
 - Bow Basher
 - Incredible Volume
 creature_family: null
-description: "Master Razu is one of the most prominent and successful performers of\
-  \ his generation, with a voice known for moving the social elite to tears on the\
-  \ stages of Goka and throughout western Tian Xia. By reputation, he is a shy but\
-  \ brilliant virtuoso who can play an enormous repertoire of folk songs and popular\
-  \ new music on nearly any instrument he puts his hands on. In person, he is a calculating\
-  \ social chameleon, continually intuiting what his audience wants to hear and giving\
-  \ it to them. He prefers to maintain an air of mystery and aloofness, but those\
-  \ close to him know that Razu can be goaded into explosive ranting if the merits\
-  \ of his acclaim are publicly called into question.<br/><br/> Razu is private about\
-  \ his origins. He was born and raised in Goka, where he escaped the hard life of\
-  \ a scavenger only to become a much-abused servant in the theater houses of the\
-  \ Floating Lotus district. Although he pined for respect and admiration like the\
-  \ performers he watched from behind the stage, Razu didn't find a chance to use\
-  \ his incredible voice or knack for instruments until his parents died from extreme\
-  \ poverty and he fled the city in frustrated agony.<br/><br/> The young man played\
-  \ a stolen erhu, his only possession, to scrape by as a traveling performer until\
-  \ he by chance impressed a Lingsheni general who saw the tactical application of\
-  \ what she called \u201Ca voice like thunder.\u201D She took Razu on as a signaler\
-  \ in her army, and under her guidance the vocalist used his talents to coordinate\
-  \ the movements and configurations of some of Lingshen's greatest military troops.\
-  \ Razu left this post as soon as he had saved enough money to do so, but he kept\
-  \ in touch with his old comrades and sold Lingshen any secrets he gathered while\
-  \ he established his career as a heartbreaking opera star in Kwanlai. His work earned\
-  \ him connections to some of the most powerful warlords and arms brokers in Tian\
-  \ Xia.<br/><br/> Recently, Razu has returned home with a vengeful debt to settle:\
-  \ his voice will bring the city that killed his parents to its knees. Although Razu\
-  \ has long harbored a violent disposition, his recent avowal can be traced directly\
-  \ to the influence of none other than this Adventure Path's demiplane-building axiomite\
-  \ villain, Syndara the Sculptor.<br/><br/> As part of his scheme to undo his archrival\
-  \ the Ruby Phoenix and thoroughly sully her name in Goka's history books, Syndara\
-  \ formulated a plan to lure the devastating kaiju King Mogaru into the city. Syndara\
-  \ could use the kaiju egg he'd stolen from Mogaru to draw the behemoth toward Xu\
-  \ Hong Bay, but beyond that he could not risk exposing himself within Goka proper.\
-  \ To ensure Mogaru didn't simply just wander away from the city without first destroying\
-  \ it, Syndara would need to rely on the reptile king's well-known weakness for music.\
-  \ To create the booming songs that could lead the kaiju throughout the entire city,\
-  \ Syndara would need a powerful performer. Syndara soon learned of Razu's vengeful\
-  \ grief, a passion matched only by his extraordinary musical reputation. Through\
-  \ his intermediaries the Lightkeepers, Syndara contacted the virtuoso and made him\
-  \ an offer he could scarcely refuse\u2014the opportunity to destroy Goka."
 dexterity: '+6'
 element: null
 fly_speed: '80'

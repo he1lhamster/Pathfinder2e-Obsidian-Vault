@@ -13,12 +13,6 @@ creature_ability:
 - Victory Celebration
 - Warrior's Mask
 creature_family: null
-description: 'When a great gladiator or wrestler meets their demise, their soul can
-  sometimes linger out of a love for combat and sport. Every grappling spirit manifests
-  a mask that represents the legacy of the warrior they were during their life.<br/><br/><b><u>Recall
-  Knowledge - Spirit</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 28<br/><b><u>Recall
-  Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 28<br/><b><u>Unspecific
-  Lore</u></b>: DC 26<br/><b><u>Specific Lore</u></b>: DC 23'
 dexterity: '+6'
 element: null
 fly_speed: '60'

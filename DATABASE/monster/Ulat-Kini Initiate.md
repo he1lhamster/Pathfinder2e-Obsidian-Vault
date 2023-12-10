@@ -10,10 +10,6 @@ creature_ability:
 - Flurry of Claws
 - Kirtanang
 creature_family: '[[DATABASE/monsterfamily/Alghollthu|Alghollthu]]'
-description: 'Several groups of ulat-kinis have rediscovered the ancient way of kirtanang,
-  a martial art from that uses broad, flowing motions of the claws.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 21<br/><b><u>Unspecific
-  Lore</u></b>: DC 19<br/><b><u>Specific Lore</u></b>: DC 16'
 dexterity: '+5'
 element: null
 fly_speed: null

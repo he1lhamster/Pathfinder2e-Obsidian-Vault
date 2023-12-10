@@ -12,14 +12,6 @@ creature_ability:
 - Sniper's Devastation
 - Sniping Shot
 creature_family: '[[DATABASE/monsterfamily/Shobhad|Shobhad]]'
-description: 'Enemies rarely see a shobhad sniper before the deadly blast of their
-  powerful rifles snatches away the offender''s life. Selected from among the most
-  talented enforcers after proving themselves in combat, shobhad snipers learn how
-  to cross the desert sands undetected, combine their powerful ranged weapons with
-  close-combat techniques, and survive Akiton''s freezing nights for weeks on end
-  while scouting potential settlements or enemy strongholds.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 38<br/><b><u>Unspecific
-  Lore</u></b>: DC 36<br/><b><u>Specific Lore</u></b>: DC 33'
 dexterity: '+9'
 element: null
 fly_speed: null

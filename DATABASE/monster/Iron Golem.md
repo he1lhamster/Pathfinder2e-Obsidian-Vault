@@ -15,18 +15,6 @@ creature_ability:
 - Poison
 - Vulnerable to Rust
 creature_family: '[[DATABASE/monsterfamily/Golem|Golem]]'
-description: "Traditionally crafted into the forms of giant suits of armor or powerful\
-  \ animals, iron golems are products of exquisite artistry and skill. Their articulated\
-  \ joints and sturdy armored bodies require great care and mathematical precision\
-  \ to craft, and regular cleaning and oiling ensure they don\u2019t rust over the\
-  \ ages. With proper care, iron golems can remain in good shape for thousands of\
-  \ years, being passed down for generations, as long as they aren\u2019t destroyed\
-  \ by meddlesome adventurers. In addition to their incredible strength, iron golems\
-  \ possess a potent toxic breath weapon that is often more than enough to dispatch\
-  \ entire groups of opponents.<br/><br/><b><u>Recall Knowledge - Construct</u> (\
-  \ [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]] )</b>:\
-  \ DC 33<br/><b><u>Unspecific Lore</u></b>: DC 31<br/><b><u>Specific Lore</u></b>:\
-  \ DC 28"
 dexterity: '-1'
 element: null
 fly_speed: null

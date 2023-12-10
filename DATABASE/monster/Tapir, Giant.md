@@ -1,69 +1,60 @@
 ﻿---
-ac: '22'
+ac: '18'
 alignment: N
 all_resistance: null
 burrow_speed: null
-charisma: '-1'
+charisma: '+0'
 climb_speed: null
-constitution: '+5'
+constitution: '+3'
 creature_ability:
-- Trample
-creature_family: '[[DATABASE/monsterfamily/Beetle|Beetle]]'
-description: 'The giant stag beetle is larger than a horse, and the sight of one flying
-  (if slowly and somewhat clumsily) on great buzzing wings is unnerving. Its enormous
-  mandibles are used to impress mates, intimidate rivals, and discourage predators,
-  for they can deliver deadly blows. While giant stag beetles are deadly predators,
-  they can be domesticated by skilled wranglers. In such a capacity, these beetles
-  serve well as beasts of burden or even as mounts.<br/><br/> Giant stag beetles can
-  be a serious menace in marshes, cavern complexes, and heavy forests. More than one
-  logging camp has attracted a cluster of giant stag beetles and had to be completely
-  abandoned, yielding all its lumber to the hunger of the giant insects.<br/><br/><b><u>Recall
-  Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 19<br/><b><u>Unspecific
-  Lore</u></b>: DC 17<br/><b><u>Specific Lore</u></b>: DC 14'
+- Grinding Bite
+- Splayed Toes
+creature_family: null
 dexterity: '+1'
 element: null
-fly_speed: '20'
-fortitude: '+13'
+fly_speed: null
+fortitude: '+11'
 hardness: null
-hp: '55'
-id: '50'
+hp: '30'
+id: '1760'
 immunity: null
-intelligence: '-5'
-land_speed: '20'
+intelligence: '-4'
+land_speed: '25'
 language: null
-level: '4'
-max_speed: '20'
-name: Giant Stag Beetle
-perception: '+10'
+level: '2'
+max_speed: '25'
+name: Giant Tapir
+perception: '+8'
 rarity: Common
-reflex: '+9'
+reflex: '+7'
 resistance: null
 rus_type_level: null
 school: null
 sense:
-- darkvision
+- '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
+- '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
 size: Large
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +9'
-- '[[DATABASE/skill/Athletics|Athletics]] +13'
-source: '[[DATABASE/source/Bestiary|Bestiary]]'
+- '[[DATABASE/skill/Athletics|Athletics]] +8'
+- '[[DATABASE/skill/Stealth|Stealth]] +5'
+source: '[[DATABASE/source/Pathfinder 175. Broken Tusk Moon|Pathfinder #175: Broken
+  Tusk Moon]]'
 speed:
-- 20 feet
-- fly 20 feet
+- 25 feet; splayed toes
 spell: null
-strength: '+5'
-strength_req: '5'
+strength: '+4'
+strength_req: '4'
 strongest_save:
 - Fortitude
 swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
-vision: Darkvision
+vision: Low-light vision
 weakest_save:
 - Will
 weakness: null
-will: '+8'
+will: '+6'
 wisdom: '+2'
 
 ---

@@ -11,27 +11,6 @@ creature_ability:
 - Swallow Projectile
 - Swallow Whole
 creature_family: null
-description: "Kvernknurrs are lanky [[DATABASE/trait/Fey|fey]] giants that dwell in\
-  \ cold-water rivers and lakes. A kvernknurr's blue flesh allows it to camouflage\
-  \ itself in its preferred environ, where it haunts local millers and farmers by\
-  \ sabotaging water wheels and farm equipment.<br/><br/> A kvernknurr's most distinguishing\
-  \ feature is its oversized mouth and the two rows of axe-like teeth therein. To\
-  \ eat, a kvernknurr need only unhinge its lower jaw, revealing in the process a\
-  \ yawning portal nearly the size of a human doorway\u2014convenient, considering\
-  \ its favorite food is [[DATABASE/ancestry/Human|humans]] and their ilk.<br/><br/>\
-  \ A lake- or riverbed is the perfect place for a kvernknurr to sleep off a big meal.\
-  \ It's also a perilous circumstance for swallowed prey lucky enough to escape the\
-  \ kvernknurr's belly. \u201COut of the belly, into the water,\u201D goes one lakeside\
-  \ village saying.<br/><br/> Kverknurrs despise humanoid-made disturbances to the\
-  \ waters in which they live, even seemingly harmless ones like waterwheels. In their\
-  \ anger, kvernknurrs use their oversized jaws to clamp down on such machinery. When\
-  \ townsfolk come to investigate their jammed mill, the kvernknurr then springs out\
-  \ from hiding to attack, roaring terribly before snatching a victim to eat whole.\
-  \ Folks brave enough to attack a kvernknurr soon learn to fight up close; the wily\
-  \ monster is quick enough to snatch arrows and spears in its jaws midair before\
-  \ swallowing the weapons down.<br/><br/><b><u>Recall Knowledge - Fey</u> ( [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 22<br/><b><u>Unspecific Lore</u></b>: DC 20<br/><b><u>Specific Lore</u></b>:\
-  \ DC 17"
 dexterity: '+2'
 element: Water
 fly_speed: null

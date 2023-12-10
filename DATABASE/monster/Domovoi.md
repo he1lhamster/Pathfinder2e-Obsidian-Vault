@@ -11,15 +11,6 @@ creature_ability:
 - Master of the Home
 - Shy
 creature_family: '[[DATABASE/monsterfamily/House Spirit|House Spirit]]'
-description: 'The elderly domovoi are patrons of the home and the dearest of all house
-  spirits to the people they live with. Families with a domovoi leave a bowl of milk
-  in the corner of the home in thanks, and peasants often take great pains to coax
-  a domovoi to follow them to a new house.<br/><br/> An enraged domovoi rallies the
-  home itself in their defense. Anything in the house could betray its residents.
-  Crockery falls onto the heads of attackers, doors slam in their faces, carpets tangle
-  their feet, and woe betide the attacker if someone has hung a sword on the wall.<br/><br/><b><u>Recall
-  Knowledge - Fey</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 16<br/><b><u>Unspecific
-  Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>: DC 11'
 dexterity: '+3'
 element: null
 fly_speed: null

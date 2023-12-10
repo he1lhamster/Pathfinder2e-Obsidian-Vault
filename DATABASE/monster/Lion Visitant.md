@@ -13,11 +13,6 @@ creature_ability:
 - Sneak Attack
 - Whip Vulnerability
 creature_family: '[[DATABASE/monsterfamily/Visitant|Visitant]]'
-description: 'Scars and other marks of obvious mistreatment are the clearest indicators
-  that an undead animal is no mere zombie.<br/><br/><b><u>Recall Knowledge - Animal</u>
-  ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 20<br/><b><u>Recall Knowledge - Undead</u>
-  ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 20<br/><b><u>Unspecific Lore</u></b>:
-  DC 18<br/><b><u>Specific Lore</u></b>: DC 15'
 dexterity: '+4'
 element: null
 fly_speed: null

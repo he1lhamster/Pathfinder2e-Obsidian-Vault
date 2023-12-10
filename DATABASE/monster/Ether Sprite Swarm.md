@@ -16,10 +16,6 @@ creature_ability:
 - Swarming
 - Needles
 creature_family: '[[DATABASE/monsterfamily/Sprite|Sprite]]'
-description: 'One ether sprite is quite enough for most, and can be tiresome for even
-  the fey. When a group of them get together, it''s outright bedlam.<br/><br/><b><u>Recall
-  Knowledge - Fey</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 18<br/><b><u>Unspecific
-  Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>: DC 13'
 dexterity: '+4'
 element: null
 fly_speed: '40'

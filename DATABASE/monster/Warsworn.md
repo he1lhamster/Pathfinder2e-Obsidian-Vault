@@ -16,12 +16,6 @@ creature_ability:
 - ''
 - Trample
 creature_family: null
-description: 'A warsworn is an animate mass of corpses composed of dozens, sometimes
-  even hundreds, of victims of battle. They are formed by deities of undeath or war
-  or, rarely, spontaneously manifest from the devastation of an especially horrendous
-  battle.<br/><br/><b><u>Recall Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 37<br/><b><u>Unspecific Lore</u></b>: DC 35<br/><b><u>Specific Lore</u></b>:
-  DC 32'
 dexterity: '+5'
 element: null
 fly_speed: null

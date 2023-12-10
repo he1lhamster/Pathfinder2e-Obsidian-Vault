@@ -14,11 +14,6 @@ creature_ability:
 - Trample
 - Wind-Up
 creature_family: '[[DATABASE/monsterfamily/Clockworks|Clockworks]]'
-description: 'Clockworks are machines built by engineers and augmented with magic.
-  A clock tower reconfigured as an animated clockwork can rotate slices of time.<br/><br/><b><u>Recall
-  Knowledge - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]]
-  )</b>: DC 45<br/><b><u>Unspecific Lore</u></b>: DC 43<br/><b><u>Specific Lore</u></b>:
-  DC 40'
 dexterity: '+6'
 element: null
 fly_speed: null

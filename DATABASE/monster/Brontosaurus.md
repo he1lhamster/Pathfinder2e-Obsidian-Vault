@@ -10,23 +10,6 @@ creature_ability:
 - Tail Sweep
 - Trample
 creature_family: '[[DATABASE/monsterfamily/Dinosaur|Dinosaur]]'
-description: "Brontosauruses are truly gigantic behemoths, plodding herbivores large\
-  \ enough to be unafraid of all but the most massive predators. Brontosauruses have\
-  \ stout bodies and long, sinuous necks ending in small heads, allowing them to graze\
-  \ from the highest treetops. Their powerful tails are equally as long as their necks\
-  \ and provide counterbalances. Brontosauruses bear their bulk upon four stout legs.\
-  \ Although their feet are capable of crushing entire buildings, these herbivores\
-  \ are generally peaceful and considerate of where they step.<br/><br/> Most brontosauruses\
-  \ are dangerous only when defending themselves or their young, or when panicked\
-  \ enough to stampede. When roused in this way, however, the creatures are truly\
-  \ terrifying: their muscular tails sweep in great arcs and their massive feet crash\
-  \ down heedlessly onto the ground. A brontosaurus is 70 feet long and weighs more\
-  \ than 30 tons.<br/><br/> Brontosauruses belong to a group of dinosaurs known as\
-  \ sauropods, all of which are immense in size. The brachiosaurus is among the tallest\
-  \ of these dinosaurs, and the diplodocus among the longest, but it\u2019s likely\
-  \ that even larger behemoths exist.<br/><br/><b><u>Recall Knowledge - Animal</u>\
-  \ ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 27<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 25<br/><b><u>Specific Lore</u></b>: DC 22"
 dexterity: '+0'
 element: null
 fly_speed: null

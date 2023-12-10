@@ -14,10 +14,6 @@ creature_ability:
 - Prop
 - Slap
 creature_family: '[[DATABASE/monsterfamily/Beaver|Beaver]]'
-description: 'Castoroides are bear-sized beavers that build their lodges on land near
-  a water source rather than in the water.<br/><br/><b><u>Recall Knowledge - Animal</u>
-  ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 18<br/><b><u>Unspecific Lore</u></b>:
-  DC 16<br/><b><u>Specific Lore</u></b>: DC 13'
 dexterity: '+1'
 element: null
 fly_speed: null

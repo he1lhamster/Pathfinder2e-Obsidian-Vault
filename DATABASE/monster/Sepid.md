@@ -12,16 +12,6 @@ creature_ability:
 - Deflecting Lie
 - Rain of Debris
 creature_family: '[[DATABASE/monsterfamily/Div|Div]]'
-description: 'Sepids are the brutal warlords of the divs, delighting in violence against
-  mortals and their own particular flavor of vengeance. Inveterate liars, sepids can''t
-  help but spout the most outrageous lies, and their form and nature represent the
-  power of falsehoods to snowball into violence that can cost countless lives. Among
-  mortals, they rally troops to incite rebellion, war, and other forms of carnage,
-  savoring mortals who slaughter each other. These giant beings usually stand around
-  13 feet tall; they wade through battlefields seeking out heroes and generals, rejoicing
-  maniacally as they cut their foes down.<br/><br/><b><u>Recall Knowledge - Fiend</u>
-  ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 32<br/><b><u>Unspecific Lore</u></b>:
-  DC 30<br/><b><u>Specific Lore</u></b>: DC 27'
 dexterity: '+5'
 element: null
 fly_speed: null

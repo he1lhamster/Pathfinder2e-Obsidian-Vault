@@ -1,106 +1,81 @@
 ﻿---
-ac: '37'
-alignment: CN
+ac: '34'
+alignment: CE
 all_resistance: null
 burrow_speed: null
-charisma: '+6'
-climb_speed: null
-constitution: '+7'
+charisma: '+4'
+climb_speed: '15'
+constitution: '+4'
 creature_ability:
-- Change Shape
-- Constrict
-- Entropy Sense
-- Leaching Glare
-- Maddening Whispers
-- Protean Anatomy
+- Aimed Shot
+- Chill Breath
+- Evasion
+- Hunt Prey
+- Hunting Shot
+- Ice Stride
+- Nature's Edge
 - ''
-- Telekinetic Reach
-- Warpwave Strike
-creature_family: '[[DATABASE/monsterfamily/Protean|Protean]]'
-description: "Anchorites of the proteans, hegessiks live solitary lives roaming the\
-  \ dangerous wilds of the [[DATABASE/plane/Maelstrom|Maelstrom]] . There, they contemplate\
-  \ cosmic truths and dispense wisdom as itinerant mystics. Hegessiks proudly bear\
-  \ their ridges of golden feathers and gleaming gemstones, but it is within their\
-  \ third eye that their wisdom resides. Hegessiks normally have little interaction\
-  \ with the fluctuations of protean society and are more likely to be found liaising\
-  \ with non-protean monitors and followers of those deities\u2014like [[DATABASE/deity/Nethys|Nethys]]\
-  \ and [[DATABASE/deity/Besmara|Besmara]] \u2014 who share the Maelstrom with proteans.<br/><br/><b><u>Recall\
-  \ Knowledge - Monitor</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 34<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 32<br/><b><u>Specific Lore</u></b>: DC 29"
-dexterity: '+6'
+- Penetrating Shot
+creature_family: null
+dexterity: '+8'
 element: null
-fly_speed: '30'
-fortitude: '+26'
+fly_speed: null
+fortitude: '+23'
 hardness: null
-hp: 250 ( fast healing 10)
-id: '1019'
-immunity: null
-intelligence: '+4'
+hp: '225'
+id: '1831'
+immunity:
+- '[[DATABASE/trait/Cold|cold]]'
+intelligence: '+5'
 land_speed: '30'
 language:
-- '[[DATABASE/language/Abyssal|Abyssal]]'
-- '[[DATABASE/language/Celestial|Celestial]]'
-- '[[DATABASE/language/Protean|Protean]] ; [[DATABASE/monsterability/Telepathy|telepathy]]
-  100 feet'
-- '[[DATABASE/spell/Tongues|tongues]]'
-level: '15'
+- '[[DATABASE/language/Common|Common]]'
+- '[[DATABASE/language/Hallit|Hallit]]'
+- '[[DATABASE/language/Jotun|Jotun]]'
+level: '13'
 max_speed: '30'
-name: Hegessik
-perception: '+29'
-rarity: Common
-reflex: '+23'
-resistance:
-- precision 10
-- protean anatomy 20
+name: Hegremon
+perception: '+27'
+rarity: Unique
+reflex: '+27'
+resistance: null
 rus_type_level: null
 school: null
 sense:
-- '[[DATABASE/monsterability/Darkvision|darkvision]]'
-- entropy sense (imprecise) 60 feet
+- '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Large
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +25'
-- '[[DATABASE/skill/Athletics|Athletics]] +27'
-- '[[DATABASE/skill/Deception|Deception]] +29'
-- '[[DATABASE/skill/Diplomacy|Diplomacy]] +29'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +27'
-- '[[DATABASE/skill/Religion|Religion]] +29'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +27'
+- '[[DATABASE/skill/Athletics|Athletics]] +25'
+- '[[DATABASE/skill/Crafting|Crafting]] +24'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +23'
+- '[[DATABASE/skill/Medicine|Medicine]] +23'
+- '[[DATABASE/skill/Nature|Nature]] +27'
 - '[[DATABASE/skill/Stealth|Stealth]] +27'
 - '[[DATABASE/skill/Survival|Survival]] +27'
-source: '[[DATABASE/source/Pathfinder 162. Ruins of the Radiant Siege|Pathfinder #162:
-  Ruins of the Radiant Siege]]'
+source: '[[DATABASE/source/Pathfinder 177. Burning Tundra|Pathfinder #177: Burning
+  Tundra]]'
 speed:
 - 30 feet
-- fly 30 feet
-- swim 30 feet; [[DATABASE/spell/Freedom of Movement|freedom ofmovement]]
-spell:
-- '[[DATABASE/spell/Baleful Polymorph|Baleful Polymorph]]'
-- '[[DATABASE/spell/Confusion|Confusion]]'
-- '[[DATABASE/spell/Detect Alignment|Detect Alignment]]'
-- '[[DATABASE/spell/Dimension Door|Dimension Door]]'
-- '[[DATABASE/spell/Dispel Magic|Dispel Magic]]'
-- '[[DATABASE/spell/Divine Aura|Divine Aura]]'
-- '[[DATABASE/spell/Divine Wrath|Divine Wrath]]'
-- '[[DATABASE/spell/Freedom of Movement|Freedom of Movement]]'
-- '[[DATABASE/spell/Plane Shift|Plane Shift]]'
-- '[[DATABASE/spell/Slow|Slow]]'
-- '[[DATABASE/spell/Teleport|Teleport]]'
-- '[[DATABASE/spell/Tongues|Tongues]]'
-strength: '+8'
-strength_req: '8'
+- climb 15 feet; ice stride
+spell: null
+strength: '+6'
+strength_req: '6'
 strongest_save:
-- Will
-swim_speed: '30'
-trait:
-- '[[DATABASE/trait/Monitor|Monitor]]'
-- '[[DATABASE/trait/Protean|Protean]]'
-type: Creature
-vision: Darkvision
-weakest_save:
 - Reflex
+swim_speed: null
+trait:
+- '[[DATABASE/trait/Cold|Cold]]'
+- '[[DATABASE/trait/Giant|Giant]]'
+- '[[DATABASE/trait/Humanoid|Humanoid]]'
+- '[[DATABASE/trait/Unique|Unique]]'
+type: Creature
+vision: Low-light vision
+weakest_save:
+- Will
 weakness:
-- lawful 15
-will: '+29'
+- '[[DATABASE/trait/Fire|fire]] 10'
+will: '+21'
 wisdom: '+6'
 
 ---

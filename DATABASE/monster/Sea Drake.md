@@ -14,14 +14,6 @@ creature_ability:
 - Electrified Blood
 - Speed Surge
 creature_family: '[[DATABASE/monsterfamily/Drake|Drake]]'
-description: 'Long and slender, sea drakes have fins down the length of their backs
-  and webbing between their talons, making them just as adapted for gliding through
-  ocean waves as the skies above. More solitary than most drakes, they hunt and live
-  alone. Although most sea drakes make their roosts high on ocean-facing cliffs, it
-  isn''t unheard of for them to dwell in underwater caves, living entirely aquatic
-  lives.<br/><br/><b><u>Recall Knowledge - Dragon</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  )</b>: DC 22<br/><b><u>Unspecific Lore</u></b>: DC 20<br/><b><u>Specific Lore</u></b>:
-  DC 17'
 dexterity: '+2'
 element: Water
 fly_speed: '40'

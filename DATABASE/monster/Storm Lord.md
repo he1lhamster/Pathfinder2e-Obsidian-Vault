@@ -11,10 +11,6 @@ creature_ability:
 - High Winds
 - Swiftness
 creature_family: '[[DATABASE/monsterfamily/Elemental, Air|Elemental, Air]]'
-description: 'Storm lords wage battles to claim important territory within the Plane
-  of Air.<br/><br/><b><u>Recall Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Nature|Nature]] )</b>: DC 26<br/><b><u>Unspecific Lore</u></b>:
-  DC 24<br/><b><u>Specific Lore</u></b>: DC 21'
 dexterity: '+7'
 element: Air
 fly_speed: '75'

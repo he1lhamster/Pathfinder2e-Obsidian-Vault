@@ -14,22 +14,6 @@ creature_ability:
 - Skill Feats
 creature_family: '[[DATABASE/monsterfamily/Threshold of Knowledge Pregenerated Characters|Threshold
   of Knowledge Pregenerated Characters]]'
-description: 'Many in the Mwangi Expanse believe Ekujae elves are dedicated isolationists,
-  but they are actually close allies of the Magaambya. On a trip to deliver relics
-  there, two Ekujae lore-bearers brought their daughter, Ekene. After concluding their
-  business, they told Ekene that she was to stay and learn. Her first lonely night
-  in the dormitory was also the first time the serious young elf ever wept.<br/><br/>
-  Ekene spent her youth training to be one of the Ekujae''s defenders. She believed
-  the warrior''s road was her life''s path, not that of a scholar. She works hard
-  at her studies to make her parents proud, even though she still doesn''t feel like
-  she belongs. Ekene''s traditional Ekujae paint markings have faded since her arrival
-  and she has intentionally chosen not to reapply them. She hopes to have her family
-  apply new markings upon her return that better represent the person she will become
-  upon leaving the Magaambya, whether or not it''s who they expect her to be.<br/><br/>
-  Ekene is generally amiable, but is particularly close with Muruwa, as the two share
-  a love for climbing trees and spending time outdoors.<br/><br/><b><u>Recall Knowledge
-  - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 25<br/><b><u>Unspecific
-  Lore</u></b>: DC 23<br/><b><u>Specific Lore</u></b>: DC 20'
 dexterity: '+4'
 element: null
 fly_speed: null

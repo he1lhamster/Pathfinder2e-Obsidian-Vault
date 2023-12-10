@@ -14,9 +14,6 @@ creature_ability:
 - Susceptible to Death
 - Trample
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Spirit</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 48<br/><b><u>Unspecific
-  Lore</u></b>: DC 46<br/><b><u>Specific Lore</u></b>: DC 43'
 dexterity: '+9'
 element: Air, Fire
 fly_speed: null

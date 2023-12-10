@@ -13,18 +13,6 @@ creature_ability:
 - Moonlight's Kiss
 - Rend
 creature_family: '[[DATABASE/monsterfamily/Hag|Hag]]'
-description: "Moon hags are powerful soothsayers who dwell in places where souls receive\
-  \ their final judgment. These vile creatures possess knowledge of\u2014and perhaps\
-  \ some power over\u2014the portals between the lands of the living and the dead,\
-  \ and innocent mortals sometimes seek them out for this reason. Moon hags use their\
-  \ knowledge to sow discord and place seeds of doubt in those who unwittingly seek\
-  \ their aid. Beings of great power can intimidate them into sharing the truth of\
-  \ what they know, but the cunning hags always try to hide some important piece of\
-  \ information or word things in such a way that anyone acting on their divinations\
-  \ still find their plans falling into ruin.<br/><br/><b><u>Recall Knowledge - Fiend</u>\
-  \ ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 29<br/><b><u>Recall Knowledge\
-  \ - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 29<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 27<br/><b><u>Specific Lore</u></b>: DC 24"
 dexterity: '+5'
 element: null
 fly_speed: null

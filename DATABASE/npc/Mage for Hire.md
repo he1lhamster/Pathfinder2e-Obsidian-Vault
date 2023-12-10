@@ -8,12 +8,6 @@ climb_speed: null
 constitution: '+1'
 creature_ability: null
 creature_family: '[[DATABASE/monsterfamily/Mercenaries|Mercenaries]]'
-description: 'Not all mercenaries sell brawn and intimidating glares. Some sell their
-  magical talents to earn a living. While there are many types of mages for hire,
-  some of the sneakiest are specialized in [[DATABASE/trait/Divination|divination]]
-  , using their skills for infiltration and sabotage.<br/><br/><b><u>Recall Knowledge
-  - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 18<br/><b><u>Unspecific
-  Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>: DC 13'
 dexterity: '+2'
 element: null
 fly_speed: null

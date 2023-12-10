@@ -13,9 +13,6 @@ creature_ability:
 - Sensitive Hearing
 - Sneak Attack
 creature_family: '[[DATABASE/monsterfamily/Noppera-Bo|Noppera-Bo]]'
-description: 'These noppera-bos have mastered the art of disguise.<br/><br/><b><u>Recall
-  Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 17<br/><b><u>Unspecific
-  Lore</u></b>: DC 15<br/><b><u>Specific Lore</u></b>: DC 12'
 dexterity: '+3'
 element: null
 fly_speed: null

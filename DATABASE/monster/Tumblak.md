@@ -16,14 +16,6 @@ creature_ability:
 - Breath
 - Skip Between
 creature_family: '[[DATABASE/monsterfamily/Sahkil|Sahkil]]'
-description: 'Tumblaks  prey  upon  fears  of  constriction, claustrophobia, or being
-  buried alive. They appear as a roughly rectangular mass of mismatched parts from
-  multiple bodies, as though several people were compressed in a coffin together and
-  became inextricably tangled. Tumblaks enjoy lairing in crypts and collapsed buildings,
-  and they phase through the rubble and tombs to seek prey. Mortals struggle to breathe
-  in a tumblak''s presence, which further heightens their terror.<br/><br/><b><u>Recall
-  Knowledge - Fiend</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 38<br/><b><u>Unspecific
-  Lore</u></b>: DC 36<br/><b><u>Specific Lore</u></b>: DC 33'
 dexterity: '+5'
 element: null
 fly_speed: '40'

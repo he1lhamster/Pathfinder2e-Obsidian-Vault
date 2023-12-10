@@ -15,41 +15,6 @@ creature_ability:
 - Writhe
 - Independently
 creature_family: null
-description: "The fiendish [[DATABASE/monsterfamily/Xulgath|xulgath]] priest of [[DATABASE/deity/Zevgavizeb|Zevgavizeb]]\
-  \ known as the Apocalypse Prophet is an ambitious, hateful monster fixated solely\
-  \ on bringing death and destruction to the reviled surface-dwellers upon the Isle\
-  \ of Kortos.<br/><br/> In a squalid colony nestled deep in the Darklands realm of\
-  \ Nar-Voth, the xulgath Sarvel hatched, first of his clutch to break free from the\
-  \ shell. Sarvel was also the last of that clutch to do so, for upon breaking free\
-  \ of his calcified prison, he promptly crushed the other eggs and devoured their\
-  \ contents in a fit of ravenous fratricide. This gluttonous rampage served him well,\
-  \ for the sustenance helped him grow swiftly among kin who recognized only strength\
-  \ and might. As he grew older, he gorged himself upon fallen foes and allies he\
-  \ found too weak to provide any other benefit. Sarvel became known as a leader to\
-  \ be feared and followed.<br/><br/> Though it hadn't been Sarvel's intention to\
-  \ draw the attention of his clutch's priests, they recognized in Sarvel the gifts\
-  \ of their vile god Zevgavizeb. In an ill-conceived effort to bring forth those\
-  \ gifts, they beseeched their patron to bestow further blessings upon him. The [[DATABASE/monsterfamily/Demon|demon]]\
-  \ who responded feasted upon the startled priests, but Sarvel conquered the demon\
-  \ and consumed it in turn.<br/><br/> This meal profoundly changed Sarvel. Perhaps\
-  \ it was the [[DATABASE/plane/Abyss|Abyssal]] power of the demon, the divine energy\
-  \ carried within the priests' bodies, or a combination of the two. Fiendish power\
-  \ surged within him, and he was seized with a desperate hunger beyond any he had\
-  \ ever known. Sarvel emerged from the priests' sanctum bearing the blessings of\
-  \ Zevgavizeb in the form of writhing tentacles emerging from his back, and he commanded\
-  \ the demon lord's own power through his spells. Few dared oppose him when he declared\
-  \ himself high priest and took the name Ever-Hunger, and those who did became his\
-  \ next screaming meals.<br/><br/> For years, Sarvel led his clutch to many conquests\
-  \ in the Darklands, but these victories were never enough. From his communion with\
-  \ Zevgavizeb, he learned that a sacred vault called Vask once existed as a haven\
-  \ for his people. With help from one of his xulgath allies\u2014the thoughtmaw [[DATABASE/monster/Kirosthrek|Kirosthrek]]\
-  \ \u2014he painstakingly reconstructed records of scattered xulgaths from millennia\
-  \ ago, learning of Aroden's theft in the process. A kinder or more reasonable xulgath\
-  \ might have tried to steal the orbs back, or even negotiate for their return, but\
-  \ Sarvel is neither kind nor reasonable. He instead embarked on a mission to destroy\
-  \ what Aroden had wrought and crush those surface-dwellers who dared benefit from\
-  \ the slight to his people. A conquest of deific scale must surely sate his hunger;\
-  \ if not, he shall feast upon the bodies left in its wake."
 dexterity: '+2'
 element: null
 fly_speed: null

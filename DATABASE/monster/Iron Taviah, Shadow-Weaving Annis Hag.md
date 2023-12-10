@@ -1,95 +1,80 @@
 ﻿---
-ac: '34'
-alignment: N
+ac: '24'
+alignment: NE
 all_resistance: null
 burrow_speed: null
-charisma: '-5'
+charisma: '+3'
 climb_speed: null
 constitution: '+4'
 creature_ability:
-- Breath Weapon
-- Golem Antimagic
-- Inexorable March
-- Iron Golem Poison
-- Vulnerable to Neutralize
-- Poison
-- Vulnerable to Rust
-creature_family: '[[DATABASE/monsterfamily/Golem|Golem]]'
-description: "Traditionally crafted into the forms of giant suits of armor or powerful\
-  \ animals, iron golems are products of exquisite artistry and skill. Their articulated\
-  \ joints and sturdy armored bodies require great care and mathematical precision\
-  \ to craft, and regular cleaning and oiling ensure they don\u2019t rust over the\
-  \ ages. With proper care, iron golems can remain in good shape for thousands of\
-  \ years, being passed down for generations, as long as they aren\u2019t destroyed\
-  \ by meddlesome adventurers. In addition to their incredible strength, iron golems\
-  \ possess a potent toxic breath weapon that is often more than enough to dispatch\
-  \ entire groups of opponents.<br/><br/><b><u>Recall Knowledge - Construct</u> (\
-  \ [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]] )</b>:\
-  \ DC 33<br/><b><u>Unspecific Lore</u></b>: DC 31<br/><b><u>Specific Lore</u></b>:\
-  \ DC 28"
-dexterity: '-1'
+- Bonds of Iron
+- Change Shape
+- Coven
+- Magaambya Scar
+- Rend
+- Ritual Specialist
+creature_family: null
+dexterity: '+3'
 element: null
 fly_speed: null
-fortitude: '+26'
+fortitude: '+16'
 hardness: null
-hp: '190'
-id: '242'
-immunity:
-- bleed
-- death effects
-- disease
-- doomed
-- drained
-- fatigued
-- fire
-- healing
-- magic (see below)
-- mental
-- necromancy
-- nonlethal attacks
-- paralyzed
-- poison
-- sickened
-- unconscious
-intelligence: '-5'
+hp: '85'
+id: '2069'
+immunity: null
+intelligence: '+3'
 land_speed: '20'
-language: null
-level: '13'
+language:
+- '[[DATABASE/language/Aklo|Aklo]]'
+- '[[DATABASE/language/Common|Common]]'
+- '[[DATABASE/language/Jotun|Jotun]]'
+- '[[DATABASE/language/Mwangi|Mwangi]]'
+- '[[DATABASE/language/Necril|Necril]]'
+level: '6'
 max_speed: '20'
-name: Iron Golem
-perception: '+21'
-rarity: Uncommon
-reflex: '+21'
+name: Iron Taviah
+perception: '+14'
+rarity: Unique
+reflex: '+11'
 resistance:
-- physical 15 (except adamantine)
+- physical 5 (except bludgeoning)
 rus_type_level: null
 school: null
 sense:
-- darkvision
+- '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Large
 skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +30'
-source: '[[DATABASE/source/Bestiary|Bestiary]]'
+- '[[DATABASE/skill/Arcana|Arcana]] +11'
+- '[[DATABASE/skill/Athletics|Athletics]] +14'
+- '[[DATABASE/skill/Crafting|Crafting]] +13'
+- '[[DATABASE/skill/Deception|Deception]] +11'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +11'
+- '[[DATABASE/skill/Occultism|Occultism]] +14'
+- '[[DATABASE/skill/Religion|Religion]] +11'
+- '[[DATABASE/skill/Stealth|Stealth]] +14'
+source: '[[DATABASE/source/Pathfinder 182. Graveclaw|Pathfinder #182: Graveclaw]]'
 speed:
 - 20 feet
-spell: null
-strength: '+8'
-strength_req: '8'
+spell:
+- '[[DATABASE/spell/False Life|False Life]]'
+- '[[DATABASE/spell/Haste|Haste]]'
+strength: '+6'
+strength_req: '6'
 strongest_save:
 - Fortitude
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Construct|Construct]]'
-- '[[DATABASE/trait/Golem|Golem]]'
-- '[[DATABASE/trait/Mindless|Mindless]]'
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
+- '[[DATABASE/trait/Hag|Hag]]'
+- '[[DATABASE/trait/Humanoid|Humanoid]]'
+- '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
-will: '+22'
-wisdom: '+0'
+weakness:
+- Magaambya scar
+will: '+14'
+wisdom: '+3'
 
 ---
 # Iron Taviah, Shadow-Weaving Annis Hag

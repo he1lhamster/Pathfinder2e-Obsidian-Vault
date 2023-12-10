@@ -11,11 +11,6 @@ creature_ability:
 - Raptor Jaw Disarm
 - Stunning Blow
 creature_family: '[[DATABASE/monsterfamily/Saurian|Saurian]]'
-description: "The longest-lived saurians favor introspection and take the long view\
-  \ of things\u2014though this thoughtfulness should not be mistaken for weakness.\
-  \ Other saurians defer to worldwatchers' experience.<br/><br/><b><u>Recall Knowledge\
-  \ - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 40<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 38<br/><b><u>Specific Lore</u></b>: DC 35"
 dexterity: '+9'
 element: null
 fly_speed: null

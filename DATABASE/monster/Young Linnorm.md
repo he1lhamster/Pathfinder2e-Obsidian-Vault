@@ -11,25 +11,6 @@ creature_ability:
 - Constrict
 - Young Linnorm Venom
 creature_family: '[[DATABASE/monsterfamily/Linnorm|Linnorm]]'
-description: "As discussed under [[DATABASE/monsterfamily/Linnorm|Newborn Linnorms]]\
-  \ , female linnorms lay eggs in the wilderness, where linnorms are known to hunt.\
-  \ A linnorm egg remains viable for many years, protected by a tough, leathery skin\
-  \ easily mistaken for stone. When a male linnorm eventually stumbles across the\
-  \ egg, he fertilizes it and takes it to a secure and remote location, leaving it\
-  \ alone to eventually hatch. Newborn linnorms remain hidden in their nests for several\
-  \ months as they mature, growing large enough to hunt on their own and setting out\
-  \ into the world. These linnorms are roughly the equivalent of older teenagers when\
-  \ compared to other species. Younger linnorms, while still primal creatures with\
-  \ a strong tie to the [[DATABASE/plane/First World|First World]] , haven't yet manifested\
-  \ most of their magical powers. They still can't breathe deadly fire or lightning\
-  \ or see invisible creatures, and, most importantly, they can be slain without prompting\
-  \ the linnorm's legendary death curse. They do, however, have voracious appetites,\
-  \ consuming any living thing to fuel their rapid growth. A linnorm is most vulnerable\
-  \ during this time; scouts who find tracks of a young linnorm quickly muster a hunting\
-  \ party of stalwart and experienced warriors to track the creature down and kill\
-  \ it quickly\u2014before they draw the attention of the linnorm's father.<br/><br/><b><u>Recall\
-  \ Knowledge - Dragon</u> ( [[DATABASE/skill/Arcana|Arcana]] )</b>: DC 25<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 23<br/><b><u>Specific Lore</u></b>: DC 20"
 dexterity: '+3'
 element: null
 fly_speed: '60'

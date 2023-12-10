@@ -9,26 +9,6 @@ constitution: '+0'
 creature_ability:
 - Captivating Song
 creature_family: null
-description: "Harpies are filthy amalgamations of human and bird, resembling feral\
-  \ humans with wings, talons, and mouths full of sharp teeth. They use captivating\
-  \ songs to lure creatures in, then murder them while they stand transfixed. They\
-  \ enjoy causing confusion and fear in their prey before they strike, believing it\
-  \ creates a savory flavor in the flesh. Harpies can eat most creatures but strongly\
-  \ prefer sapient prey\u2014humans and elves are their favorite. Although harpies\
-  \ will eat goblins if sufficiently hungry, they dislike their flavor and avoid eating\
-  \ them if possible. This doesn\u2019t comfort goblins, of course, who have a particularly\
-  \ strong fear of harpies. Because their aeries often reek with the gore of their\
-  \ kills and careless spatters of guano, harpies carry a distinctly vile scent that\
-  \ canny travelers associate with danger. Harpies who roost close to civilization\
-  \ make better efforts to keep clean, though these efforts have mixed results.<br/><br/>\
-  \ Harpies live in family groups or larger clans. They are lightweight despite their\
-  \ size, standing 5 feet tall and weighing only around 90 pounds. While most use\
-  \ relatively simple weapons, some harpies take pride in learning and mastering the\
-  \ use of more complex tools of war such as swords and slings. Those who master the\
-  \ use of the bow, in particular, are often regarded as heroes among their kind and\
-  \ terrors among their victims.<br/><br/><b><u>Recall Knowledge - Humanoid</u> (\
-  \ [[DATABASE/skill/Society|Society]] )</b>: DC 20<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 18<br/><b><u>Specific Lore</u></b>: DC 15"
 dexterity: '+4'
 element: null
 fly_speed: '60'

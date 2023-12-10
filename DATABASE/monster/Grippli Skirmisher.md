@@ -13,11 +13,6 @@ creature_ability:
 - Springing Step
 - Wily Attack
 creature_family: '[[DATABASE/monsterfamily/Grippli|Grippli]]'
-description: 'Skirmishers are jittery baneback hunters or ambushers. Although they
-  often fight in groups, they aren''t loyal to each other and sometimes leave one
-  member of the group behind to face punishment while the others flee.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 19<br/><b><u>Unspecific
-  Lore</u></b>: DC 17<br/><b><u>Specific Lore</u></b>: DC 14'
 dexterity: '+4'
 element: null
 fly_speed: null

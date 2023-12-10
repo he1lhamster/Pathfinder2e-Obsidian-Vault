@@ -11,10 +11,6 @@ creature_ability:
 - Inspired Feast
 - Swipe
 creature_family: '[[DATABASE/monsterfamily/Biloko|Biloko]]'
-description: 'A biloko who has led a sufficient number of successful hunts garners
-  the respect (and fear) of their companions.<br/><br/><b><u>Recall Knowledge - Fey</u>
-  ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 19<br/><b><u>Unspecific Lore</u></b>:
-  DC 17<br/><b><u>Specific Lore</u></b>: DC 14'
 dexterity: '+4'
 element: null
 fly_speed: null

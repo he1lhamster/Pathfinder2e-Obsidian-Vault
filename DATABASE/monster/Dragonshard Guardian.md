@@ -11,11 +11,6 @@ creature_ability:
 - Frightful Presence
 - Reverberating Revenge
 creature_family: null
-description: 'Created by Mengkare and powered by a shard of the <i>Orb of Gold Dragonkind</i>,
-  this construct is made of sculpted crystal draped in a beautiful gold filigree frame.<br/><br/><b><u>Recall
-  Knowledge - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]]
-  )</b>: DC 54<br/><b><u>Unspecific Lore</u></b>: DC 52<br/><b><u>Specific Lore</u></b>:
-  DC 49'
 dexterity: '+8'
 element: null
 fly_speed: null

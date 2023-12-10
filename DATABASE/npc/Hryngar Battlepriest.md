@@ -12,9 +12,6 @@ creature_ability:
 - Sheltered Command
 - Toil and Trample
 creature_family: '[[DATABASE/monsterfamily/Duergar|Duergar]]'
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 26<br/><b><u>Unspecific
-  Lore</u></b>: DC 24<br/><b><u>Specific Lore</u></b>: DC 21'
 dexterity: '+1'
 element: null
 fly_speed: null

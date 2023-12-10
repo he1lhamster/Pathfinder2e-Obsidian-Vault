@@ -9,13 +9,6 @@ constitution: '+2'
 creature_ability:
 - Beat a Retreat
 creature_family: '[[DATABASE/monsterfamily/Downtrodden|Downtrodden]]'
-description: "Wherever there is poverty, there are beggars. Beggars are truly the\
-  \ downtrodden of society\u2014folks who have been cast out into the streets due\
-  \ to a variety of setbacks or the weight of circumstance. Some beggars work for\
-  \ underworld organizations as lookouts, spies, or even hired muscle on the cheap\u2014\
-  sometimes by choice, but often not.<br/><br/><b><u>Recall Knowledge - Humanoid</u>\
-  \ ( [[DATABASE/skill/Society|Society]] )</b>: DC 13<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 11<br/><b><u>Specific Lore</u></b>: DC 8"
 dexterity: '+3'
 element: null
 fly_speed: null

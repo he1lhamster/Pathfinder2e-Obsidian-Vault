@@ -17,15 +17,6 @@ creature_ability:
 - Whole
 - Thrash
 creature_family: '[[DATABASE/monsterfamily/Cave Worm|Cave Worm]]'
-description: "The purple worm is the most common and infamous of the cave worms, a\
-  \ much-feared monster wandering the twisting tunnels of the Darklands that is capable\
-  \ of carving out entire cave systems. Tunnels bored by a purple worm don\u2019t\
-  \ always last long after these creature\u2019s passage, and areas where they nest\
-  \ are maddening mazes of passageways that lead nowhere, yet navigating the labyrinth\
-  \ to find the worm\u2019s central nest often yields amazing treasures left behind\
-  \ by the worm\u2019s prior victims.<br/><br/><b><u>Recall Knowledge - Animal</u>\
-  \ ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 31<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 29<br/><b><u>Specific Lore</u></b>: DC 26"
 dexterity: '-1'
 element: null
 fly_speed: null

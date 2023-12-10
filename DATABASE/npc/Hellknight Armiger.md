@@ -10,22 +10,6 @@ creature_ability:
 - Attack of Opportunity
 - Weapon Mastery
 creature_family: '[[DATABASE/monsterfamily/Hellknights|Hellknights]]'
-description: '<i>This menacing dwarf wears a suit of armor emblazoned with the symbol
-  of her Hellknight order, and she wields a mighty flail.</i><br/><br/> Armigers are
-  the foot soldiers of the Hellknights and form the largest group of members for most
-  orders. Whatever their specific reasons for joining the organization, armigers share
-  the Hellknights'' dedication to spreading the rule of law across Golarion. This
-  commitment sees them serving in a variety of missions, whether it be rooting out
-  bandits and crooks, imprisoning smugglers and black marketeers, or investigating
-  rumors of sedition. While frontier villagers sometimes welcome the assurance of
-  safety that the Hellknights bring, free thinkers and historians chafe at the restrictions
-  on movement and expression that armigers enforce.<br/><br/> Although armigers are
-  not yet full knights, those who underestimate them have made a grievous error. Once
-  ordered to take a position or eliminate a foe, an armiger is unerring in fulfilling
-  their order. During battle, they wade eagerly into the fray, targeting servants
-  of chaotic gods and those they observe using underhanded tactics.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 19<br/><b><u>Unspecific
-  Lore</u></b>: DC 17<br/><b><u>Specific Lore</u></b>: DC 14'
 dexterity: '+1'
 element: null
 fly_speed: null

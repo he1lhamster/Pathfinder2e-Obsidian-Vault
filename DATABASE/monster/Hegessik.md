@@ -17,16 +17,6 @@ creature_ability:
 - Telekinetic Reach
 - Warpwave Strike
 creature_family: '[[DATABASE/monsterfamily/Protean|Protean]]'
-description: "Anchorites of the proteans, hegessiks live solitary lives roaming the\
-  \ dangerous wilds of the [[DATABASE/plane/Maelstrom|Maelstrom]] . There, they contemplate\
-  \ cosmic truths and dispense wisdom as itinerant mystics. Hegessiks proudly bear\
-  \ their ridges of golden feathers and gleaming gemstones, but it is within their\
-  \ third eye that their wisdom resides. Hegessiks normally have little interaction\
-  \ with the fluctuations of protean society and are more likely to be found liaising\
-  \ with non-protean monitors and followers of those deities\u2014like [[DATABASE/deity/Nethys|Nethys]]\
-  \ and [[DATABASE/deity/Besmara|Besmara]] \u2014 who share the Maelstrom with proteans.<br/><br/><b><u>Recall\
-  \ Knowledge - Monitor</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 34<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 32<br/><b><u>Specific Lore</u></b>: DC 29"
 dexterity: '+6'
 element: null
 fly_speed: '30'

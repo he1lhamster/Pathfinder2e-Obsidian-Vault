@@ -10,12 +10,6 @@ creature_ability:
 - Font of Gossip
 - Home Turf
 creature_family: '[[DATABASE/monsterfamily/Publicans|Publicans]]'
-description: 'The sight of an inn is a welcome one to any weary traveler. Innkeepers
-  can often be found cleaning the common room, overseeing the evening meal, or settling
-  in new lodgers. Innkeepers keep an eye on their neighbors'' doings and are often
-  excellent sources of information.<br/><br/><b><u>Recall Knowledge - Humanoid</u>
-  ( [[DATABASE/skill/Society|Society]] )</b>: DC 15<br/><b><u>Unspecific Lore</u></b>:
-  DC 13<br/><b><u>Specific Lore</u></b>: DC 10'
 dexterity: '+0'
 element: null
 fly_speed: null

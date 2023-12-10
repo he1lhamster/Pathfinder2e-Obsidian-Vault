@@ -16,16 +16,6 @@ creature_ability:
 - Wild
 - Empathy
 creature_family: '[[DATABASE/monsterfamily/Nymph|Nymph]]'
-description: "Naiad queens rule over pristine wildernesses centered on untouched lakes\
-  \ or other bodies of fresh water. Bards\u2019 songs and artists\u2019 paintings\
-  \ of nymphs tend to depict naiad queens in their slightly more humanoid forms, which\
-  \ they don when they make the rare journey into civilized lands to garner allies\
-  \ or gauge threats.<br/><br/> Most naiad queens treat those who respect their domains\
-  \ with kindness, but they are fierce and quick in eliminating foes. Their blinding\
-  \ beauty and breadth of offensive spells make naiad queens fierce opponents if forced\
-  \ into a fight.<br/><br/><b><u>Recall Knowledge - Fey</u> ( [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 25<br/><b><u>Unspecific Lore</u></b>: DC 23<br/><b><u>Specific Lore</u></b>:\
-  \ DC 20"
 dexterity: '+5'
 element: Water
 fly_speed: null

@@ -18,24 +18,6 @@ creature_ability:
 - Swallow Whole
 - Thrash
 creature_family: '[[DATABASE/monsterfamily/Cave Worm|Cave Worm]]'
-description: "Among the most dangerous cave worms are the fiery crimson worms. In\
-  \ addition to being even larger than azure or purple worms, the crimson worm has\
-  \ a penchant for burrowing through volcanic regions that, over the generations,\
-  \ have infused it with a supernatural link to the Elemental Plane of Fire. The molten\
-  \ heart of an active volcano is an attractive lair for a crimson worm, as are the\
-  \ sprawling fields of bubbling magma found in the deepest reaches of the Darklands.\
-  \ Legends from ancient peoples, precursor dwarven societies, and colonists of the\
-  \ Elemental Planes populated moats of lava with crimson worms likely have some basis\
-  \ in truth, although the methods such ancients used to keep these \u201Cmoat worms\u201D\
-  \ contained and prevented them from chewing their way through fortress foundations\
-  \ must have been significant.<br/><br/> Crimson worms sometimes frequent areas on\
-  \ the surface where volcanism creates hot springs or other geothermal features,\
-  \ but even then they prefer to spend most of their time burrowing through the ground\
-  \ in their never-ending search for sustenance. Surface lands claimed by crimson\
-  \ worms are notable for the mound-shaped burrows these creatures leave behind as\
-  \ they dig.<br/><br/><b><u>Recall Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]]\
-  \ , [[DATABASE/skill/Nature|Nature]] )</b>: DC 43<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 41<br/><b><u>Specific Lore</u></b>: DC 38"
 dexterity: '-1'
 element: Fire
 fly_speed: null

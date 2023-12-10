@@ -12,21 +12,6 @@ creature_ability:
 - Search Memory
 - Thoughtsense
 creature_family: '[[DATABASE/monsterfamily/Ennosite|Ennosite]]'
-description: 'Rarely, when an [[DATABASE/monster/Ioton|ioton]] (the lowliest ennosite)
-  leeches a particularly secretive thought, it can choke to death on the secret, only
-  to be born from its previous body into that of a loreavor: an ennosite whose existence
-  is shaped around the consumption of secrets and artistry.<br/><br/> Loreavors sip
-  at secrets throughout their lives and are instinctively drawn to obscure information.
-  Their hunger places them firmly at odds with scholars and historians alike. Living
-  victims lose memories; written texts become blank books. Loreavors'' favorite sites
-  are ruins and ancient libraries, but they can also survive on banal secrets of everyday
-  life as well. While the creatures are secretive, typically staying out of sight
-  and fleeing danger, they become aggressive when their favored food sources are threatened.<br/><br/>
-  A loreavor appears as a 3-foot-long, pale, wormlike creature with dozens of half-formed
-  faces growing from its segmented body. Trapped in an area without secrets to eat,
-  a loreavor won''t starve and can live for years.<br/><br/><b><u>Recall Knowledge
-  - Astral</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 31<br/><b><u>Unspecific
-  Lore</u></b>: DC 29<br/><b><u>Specific Lore</u></b>: DC 26'
 dexterity: '+6'
 element: null
 fly_speed: '20'

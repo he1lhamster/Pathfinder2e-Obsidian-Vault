@@ -1,118 +1,81 @@
 ﻿---
-ac: '51'
+ac: '19'
 alignment: N
-all_resistance: null
+all_resistance: '4'
 burrow_speed: null
-charisma: '+8'
-climb_speed: '40'
-constitution: '+11'
+charisma: '+2'
+climb_speed: '30'
+constitution: '+0'
 creature_ability:
-- Absorb Magic
-- Axe Vulnerability
-- Embed
-- Focus Vines
-- Green Caress
-- Green Grab
-- Green Rituals
-- ''
-- Green Tongue
-- Plantsense
-- Root In Place
-- Vine Forest
-creature_family: null
-description: "Green men are ancient, enigmatic lesser deities of the primeval forests,\
-  \ living embodiments of nature and plantkind. When a forest or other woodland terrain\
-  \ generates enough nature spirits, beings of the same sort of vital essence that\
-  \ embodies [[DATABASE/monsterfamily/Leshy|leshy]] or answers the call of a commune\
-  \ with nature, they naturally coalesce together and apotheosize into a green man.\
-  \ Green men aren't concerned with all the multifarious processes of nature like\
-  \ [[DATABASE/deity/Gozreh|Gozreh]] or many other nature deities. Instead, they focus\
-  \ nearly all their attention on the plants of their home, only concerning themselves\
-  \ with animals, minerals, and the like insomuch as they affect the plants. Despite\
-  \ their name, green men aren't necessarily male; as creatures of pure natural power,\
-  \ to many of them, the concept of gender holds no meaning, and to those that do,\
-  \ they can be of any gender.<br/><br/> Most green men are neutral and tend to ignore\
-  \ \u201Canimals,\u201D which to them include sapient creatures such as [[DATABASE/ancestry/Human|humans]]\
-  \ . However, good and evil green men do exist. These individuals are far more likely\
-  \ to attempt to spread their influence far and wide, either for good or ill. Good\
-  \ green men provide succor to all that come within their home, not only to plants,\
-  \ providing wisdom like a nurturing parent. Evil green men, however, allow rare\
-  \ and dangerous plants to thrive in their domains by spreading fear and devastation\
-  \ to all those who might threaten plant life, though they might keep a few animals\
-  \ around to hunt for sport.<br/><br/><b><u>Recall Knowledge - Plant</u> ( [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 53<br/><b><u>Unspecific Lore</u></b>: DC 51<br/><b><u>Specific Lore</u></b>:\
-  \ DC 48"
-dexterity: '+9'
+- Aura of Good Cheer
+- Bond with Mortal
+- Bonded Strike
+- Nimble Dodge
+creature_family: '[[DATABASE/monsterfamily/Spirit Guide|Spirit Guide]]'
+dexterity: '+4'
 element: null
 fly_speed: null
-fortitude: '+43'
+fortitude: '+6'
 hardness: null
-hp: '525'
-id: '1176'
-immunity: null
-intelligence: '+7'
-land_speed: '40'
+hp: '50'
+id: '2463'
+immunity:
+- '[[DATABASE/trait/Disease|disease]]'
+- '[[DATABASE/condition/Paralyzed|paralyzed]]'
+- '[[DATABASE/trait/Poison|poison]]'
+- precision
+intelligence: '+2'
+land_speed: '30'
 language:
-- '[[DATABASE/language/Arboreal|Arboreal]]'
-- '[[DATABASE/language/Druidic|Druidic]]'
-- '[[DATABASE/language/Sylvan|Sylvan]] ; green tongue'
-level: '24'
-max_speed: '40'
-name: Green Man
-perception: '+42'
-rarity: Rare
-reflex: '+39'
+- '[[DATABASE/language/Common|Common]]'
+- '[[DATABASE/language/Sylvan|Sylvan]] ; [[DATABASE/spell/Tongues|tongues]]'
+level: '3'
+max_speed: '30'
+name: Green Monkey
+perception: '+12'
+rarity: Uncommon
+reflex: '+12'
 resistance:
-- bludgeoning 20
-- piercing 20
+- all damage 4 (except [[DATABASE/trait/Force|force]]
+- '[[DATABASE/equipment/Ghost Touch|ghost touch]]'
+- or [[DATABASE/trait/Positive|positive]] ; double resistance vs. non- [[DATABASE/trait/Magical|magical]]
+  )
 rus_type_level: null
 school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
-- plantsense 60 feet
-size: Medium
+size: Tiny
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +39'
-- '[[DATABASE/skill/Athletics|Athletics]] +42'
-- '[[DATABASE/skill/Deception|Deception]] +40'
-- '[[DATABASE/skill/Diplomacy|Diplomacy]] +40'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +40'
-- '[[DATABASE/skill/Nature|Nature]] +48'
-- '[[DATABASE/skill/Stealth|Stealth]] +41'
-- '[[DATABASE/skill/Survival|Survival]] +44'
-source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +13'
+- '[[DATABASE/skill/Stealth|Stealth]] +10'
+- '[[DATABASE/skill/Survival|Survival]] +9'
+- '[[DATABASE/skill/Thievery|Thievery]] +10'
+source: '[[DATABASE/source/Pathfinder 188. They Watched the Stars|Pathfinder #188:
+  They Watched the Stars]]'
 speed:
-- 40 feet
-- climb 40 feet
+- 30 feet
+- climb 30 feet
 spell:
-- '[[DATABASE/spell/Air Walk|Air Walk]]'
-- '[[DATABASE/spell/Detect Magic|DetectMagic]]'
-- '[[DATABASE/spell/Energy Aegis|Energy Aegis]]'
-- '[[DATABASE/spell/Freedom of Movement|Freedom of Movement]]'
-- '[[DATABASE/spell/Heal|Heal]]'
-- '[[DATABASE/spell/Primal Phenomenon|Primal Phenomenon]]'
-- '[[DATABASE/spell/Read Aura|Read Aura]]'
-- '[[DATABASE/spell/Regenerate|Regenerate]]'
-- '[[DATABASE/spell/Tree Stride|Tree Stride]]'
-- '[[DATABASE/spell/True Seeing|True Seeing]]'
-strength: '+12'
-strength_req: '12'
+- '[[DATABASE/spell/Longstrider|Longstrider]]'
+- '[[DATABASE/spell/Spider Climb|SpiderClimb]]'
+- '[[DATABASE/spell/Tongues|Tongues]]'
+strength: '+0'
+strength_req: '0'
 strongest_save:
-- Fortitude
+- Reflex
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Leshy|Leshy]]'
-- '[[DATABASE/trait/Plant|Plant]]'
-- '[[DATABASE/trait/Rare|Rare]]'
+- '[[DATABASE/trait/Beast|Beast]]'
+- '[[DATABASE/trait/Incorporeal|Incorporeal]]'
+- '[[DATABASE/trait/Spirit|Spirit]]'
+- '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
 vision: Darkvision
 weakest_save:
-- Reflex
-weakness:
-- axe vulnerability
-- fire 20
-will: '+42'
-wisdom: '+10'
+- Fortitude
+weakness: null
+will: '+9'
+wisdom: '+2'
 
 ---
 # Nimble Guide

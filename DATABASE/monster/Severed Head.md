@@ -9,10 +9,6 @@ constitution: '+0'
 creature_ability:
 - Gnash
 creature_family: '[[DATABASE/monsterfamily/Beheaded|Beheaded]]'
-description: 'The most common beheaded appears simply as a rotting head, barely preserved
-  by the magic that created it.<br/><br/><b><u>Recall Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 13<br/><b><u>Unspecific Lore</u></b>: DC 11<br/><b><u>Specific Lore</u></b>:
-  DC 8'
 dexterity: '+2'
 element: null
 fly_speed: '25'

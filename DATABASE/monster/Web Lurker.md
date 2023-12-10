@@ -13,11 +13,6 @@ creature_ability:
 - Web Lurker Venom
 - Web Trap
 creature_family: null
-description: 'Web lurkers, known also as ettercaps, are ugly monsters that not only
-  dwell within the lairs of spiders and swarms, but actively cultivate and shepherd
-  such vermin.<br/><br/><b><u>Recall Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]]
-  )</b>: DC 18<br/><b><u>Unspecific Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>:
-  DC 13'
 dexterity: '+4'
 element: null
 fly_speed: null

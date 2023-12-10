@@ -1,68 +1,74 @@
 ﻿---
-ac: '36'
-alignment: N
+ac: '37'
+alignment: LN
 all_resistance: null
 burrow_speed: null
-charisma: '+4'
+charisma: '+2'
 climb_speed: null
 constitution: '+5'
 creature_ability:
-- Adroit Disarm
-- Attack of Opportunity
-- Hampering Shot
-- Subduing Strikes
+- Disrupting Strikes
+- Grit Teeth
+- Reach Beyond
+- Soul Dance Stance
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 34<br/><b><u>Unspecific
-  Lore</u></b>: DC 32<br/><b><u>Specific Lore</u></b>: DC 29'
-dexterity: '+5'
+dexterity: '+8'
 element: null
 fly_speed: null
-fortitude: '+26'
-hp: '255'
-id: '1581'
+fortitude: '+25'
+hp: '251'
+id: '1391'
 immunity: null
-intelligence: '+2'
-land_speed: '25'
-language: null
+intelligence: '+3'
+land_speed: '45'
+language:
+- '[[DATABASE/language/Common|Common]]'
+- '[[DATABASE/language/Necril|Necril]]'
+- '[[DATABASE/language/Tien|Tien]]'
+- '[[DATABASE/language/Undercommon|Undercommon]]'
 level: '14'
-max_speed: '25'
-name: Zephyr Guard
-perception: '+24'
-rarity: Uncommon
-reflex: '+26'
+max_speed: '45'
+name: Zhang Yong
+perception: '+23'
+rarity: Unique
+reflex: '+29'
 resistance: null
 rus_type_level: null
-sense: null
+sense:
+- '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
 skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +28'
-- '[[DATABASE/skill/Diplomacy|Diplomacy]] +24'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +24'
-- '[[DATABASE/skill/Lore|Katapesh Lore]] +24'
-- '[[DATABASE/skill/Society|Society]] +22'
-source: '[[DATABASE/source/Pathfinder 149. Against the Scarlet Triad|Pathfinder #149:
-  Against the Scarlet Triad]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +28'
+- '[[DATABASE/skill/Athletics|Athletics]] +23'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +20'
+- '[[DATABASE/skill/Medicine|Medicine]] +23'
+- '[[DATABASE/skill/Occultism|Occultism]] +23'
+- '[[DATABASE/skill/Religion|Religion]] +25'
+- '[[DATABASE/skill/Society|Society]] +19'
+- '[[DATABASE/skill/Lore|HauntLore]] +23'
+source: '[[DATABASE/source/No-Prep Character. Zhang Yong|No-Prep Character: Zhang
+  Yong]]'
 speed:
-- 25 feet
+- '45'
 spell: null
-strength: '+8'
-strength_req: '8'
+strength: '+4'
+strength_req: '4'
 strongest_save:
-- Will
+- Reflex
 swim_speed: null
 trait:
+- '[[DATABASE/trait/Half-Orc|Half-Orc]]'
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
+- '[[DATABASE/trait/Orc|Orc]]'
+- '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
+vision: Low-light vision
 weakest_save:
-- Fortitude
-- Reflex
+- Will
 weakness: null
-will: '+29'
-wisdom: '+4'
+will: '+22'
+wisdom: '+5'
 
 ---
 # Zhang Yong, Spirit Tender

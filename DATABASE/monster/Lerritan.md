@@ -12,15 +12,6 @@ creature_ability:
 - Throw Rock
 - Volcanic Eruption
 creature_family: null
-description: 'Lerritans are unstoppable giants with skin of volcanic glass and blood
-  of roiling lava. These malicious arsonists would see the world burned to a cinder.
-  They pay homage to [[DATABASE/deity/Ymeri|Ymeri]] , the evil elemental demigod of
-  fire, and they bully other fiery creatures. When the urge to immolate grows too
-  great to ignore, lerritans burn forests, destroy villages, and boil rivers, but
-  they avoid large bodies of water.<br/><br/><b><u>Recall Knowledge - Elemental</u>
-  ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]] )</b>: DC
-  42<br/><b><u>Unspecific Lore</u></b>: DC 40<br/><b><u>Specific Lore</u></b>: DC
-  37'
 dexterity: '+5'
 element: Earth, Fire
 fly_speed: null

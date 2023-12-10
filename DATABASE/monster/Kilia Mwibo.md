@@ -13,12 +13,6 @@ creature_ability:
 - Despairing Presence
 - Emotion Sense
 creature_family: null
-description: 'Beautiful and dangerous, kilia mwibos appear as lush, green trees with
-  brightly colored and appealing fleshy seedpods that remain attached year round.
-  Over time, these seedpods become hollow and create an eerie, forlorn wail that generates
-  feelings of sadness and despair.<br/><br/><b><u>Recall Knowledge - Plant</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 36<br/><b><u>Unspecific Lore</u></b>: DC 34<br/><b><u>Specific Lore</u></b>:
-  DC 31'
 dexterity: '+5'
 element: null
 fly_speed: null

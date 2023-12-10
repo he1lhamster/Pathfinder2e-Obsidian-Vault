@@ -1,90 +1,79 @@
 ﻿---
-ac: '18'
-alignment: N
+ac: '39'
+alignment: NE
 all_resistance: null
 burrow_speed: null
-charisma: '+0'
+charisma: '+7'
 climb_speed: null
-constitution: '+3'
+constitution: '+7'
 creature_ability:
-- Camouflage
-- Constrict
-- Grasping Foliage
-creature_family: null
-description: 'The assassin vine is a carnivorous plant with a voracious appetite.
-  Rather than consuming creatures directly, it creates its own fertilizer by entangling
-  prey and squeezing the life from it. Once the plant has killed a creature, it pulls
-  the carcass over to its roots to feed from the decaying flesh. Although an assassin
-  vine lacks eyes, it can detect and track prey through a combination of using its
-  root systems to detect vibrations through topsoil and its leaves to detect heat
-  changes in the vicinity. Although the assassin vine has no real intelligence, its
-  learned behaviors mimic those of cunning ambush hunters.<br/><br/>As it is slow
-  moving, the assassin vine typically remains rooted in a single area for as long
-  as it has sufficient prey. Though most often found along woodland trails or swamps,
-  these plants can also be encountered in more rural settlements, poorly tended fields,
-  and vineyards. While assassin vines can''t be trained in the classical sense, they
-  can be used as defenses, and woodland-dwelling creatures like goblins and fey have
-  been known to cultivate assassin vines as guardians for less-used routes into their
-  lairs. In such cases, the tenders often seek to make the path more obvious than
-  its disuse would otherwise suggest, while simultaneously working to ensure the bones
-  of the vines'' victims are removed to keep their presence a secret, resulting in
-  what appears to be an easy approach to the den but is actually an organic ambush.<br/><br/>Mature
-  assassin vines grow to 20 feet long and have smaller vines extending off the main
-  trunk that reach from to 5 to 10 feet in length. The smallest of these vines sprout
-  every 6 inches or so; they tend to grow clusters of full leaves and occasionally
-  bear small berries. A recently fed assassin vine can have bunches of plump, blood-red
-  berries that are juicy and tart but leave a slightly unpleasant iron aftertaste,
-  as if from the faint taste of blood from a bitten lip.<br/><br/><b><u>Recall Knowledge
-  - Plant</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 18<br/><b><u>Unspecific
-  Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>: DC 13'
-dexterity: '+0'
+- Devour Soul
+- Displacement
+- Essence Drain
+- Soul Siphon
+creature_family: '[[DATABASE/monsterfamily/Daemon|Daemon]]'
+dexterity: '+6'
 element: null
-fly_speed: null
-fortitude: '+10'
+fly_speed: '60'
+fortitude: '+27'
 hardness: null
-hp: '68'
-id: '555'
-immunity: null
-intelligence: '-5'
-land_speed: '5'
-language: null
-level: '3'
-max_speed: '5'
-name: Assassin Vine
-perception: '+10'
+hp: '240'
+id: '91'
+immunity:
+- '[[DATABASE/trait/Death|death]] effects'
+- '[[DATABASE/trait/Negative|negative]]'
+intelligence: '+2'
+land_speed: '60'
+language:
+- '[[DATABASE/language/Common|Common]]'
+- '[[DATABASE/language/Daemonic|Daemonic]] ; telepathy 100 feet'
+level: '16'
+max_speed: '60'
+name: Astradaemon
+perception: '+28'
 rarity: Common
-reflex: '+7'
+reflex: '+30'
 resistance: null
 rus_type_level: null
 school: null
 sense:
-- '[[DATABASE/monsterability/Tremorsense|tremorsense 30 feet]]'
-- '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
+- darkvision
+- lifesense 30 feet
+- '[[DATABASE/spell/True Seeing|true seeing]]'
 size: Large
 skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +9'
-- '[[DATABASE/skill/Stealth|Stealth]] +9'
-source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +28'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +33'
+- '[[DATABASE/skill/Religion|Religion]] +26'
+- '[[DATABASE/skill/Stealth|Stealth]] +28'
+- '[[DATABASE/skill/Survival|Survival]] +26'
+source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
-- 5 feet
-spell: null
-strength: '+4'
-strength_req: '4'
+- 60 feet
+- fly 60 feet
+spell:
+- '[[DATABASE/spell/Detect Alignment|Detect Alignment]]'
+- '[[DATABASE/spell/Dimension Door|Dimension Door]]'
+- '[[DATABASE/spell/Discern Location|Discern Location]]'
+- '[[DATABASE/spell/Finger of Death|Finger of Death]]'
+- '[[DATABASE/spell/Plane Shift|Plane Shift]]'
+- '[[DATABASE/spell/True Seeing|True Seeing]]'
+strength: '+5'
+strength_req: '5'
 strongest_save:
-- Fortitude
+- Reflex
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Mindless|Mindless]]'
-- '[[DATABASE/trait/Plant|Plant]]'
+- '[[DATABASE/trait/Daemon|Daemon]]'
+- '[[DATABASE/trait/Fiend|Fiend]]'
 type: Creature
-vision: Low-light vision
+vision: Darkvision
 weakest_save:
-- Reflex
+- Will
 weakness:
-- fire 5
-- slashing 5
-will: '+8'
-wisdom: '+3'
+- good 15
+will: '+26'
+wisdom: '+4'
 
 ---
 # Astradaemon (Void Daemon)

@@ -1,81 +1,74 @@
 ﻿---
-ac: '20'
-alignment: NG
+ac: '16'
+alignment: null
 all_resistance: null
 burrow_speed: null
-charisma: '+1'
+charisma: '+0'
 climb_speed: null
-constitution: '+3'
+constitution: '+1'
 creature_ability:
-- Attack of Opportunity
-- Axe Vulnerability
-- Shield Block
-- Shield Push
-creature_family: '[[DATABASE/monsterfamily/Arboreal|Arboreal]]'
-description: "Arboreal wardens are the rangers of arboreal society. These itinerant\
-  \ folk have an innate curiosity about the woodlands in which they dwell, and rarely\
-  \ stop to take root and rest in the same part of the forest twice. This wanderlust\
-  \ makes wardens ideal forest patrollers and scouts. While they are robust combatants,\
-  \ they know better than to confront dangerous foes on their own. Instead, they report\
-  \ any dangers to arboreal regents. In rare cases, large groups of arboreal wardens\
-  \ congregate to form a copse. Copses travel beyond the boundaries of a forest to\
-  \ investigate the hinterlands and gather intelligence on potential threats before\
-  \ returning to report their findings. Arboreal wardens do not pretend to understand\
-  \ to other creatures\u2019 motives\u2014like most forces of the natural world, they\
-  \ are ambivalent about mortal affairs that do not involve their forest.<br/><br/><b><u>Recall\
-  \ Knowledge - Plant</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 19<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 17<br/><b><u>Specific Lore</u></b>: DC 14"
-dexterity: '+1'
+- Decompose
+- Plant Empathy
+creature_family: '[[DATABASE/monsterfamily/Geniekin|Geniekin]]'
+dexterity: '+3'
 element: null
 fly_speed: null
-fortitude: '+13'
+fortitude: '+4'
 hardness: null
-hp: '75'
-id: '27'
+hp: '17'
+id: '2686'
 immunity: null
 intelligence: '+1'
 land_speed: '25'
 language:
-- '[[DATABASE/language/Arboreal|Arboreal]]'
 - '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Sylvan|Sylvan]]'
-level: '4'
+- '[[DATABASE/language/Muan|Muan]]'
+level: '1'
 max_speed: '25'
-name: Arboreal Warden
-perception: '+11'
+name: Ardande Gardener
+perception: '+7'
 rarity: Common
-reflex: '+9'
-resistance:
-- bludgeoning 5
-- piercing 5
+reflex: '+6'
+resistance: null
 rus_type_level: null
 school: null
 sense:
-- low-light vision
-size: Large
+- '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
+size: Medium
 skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +13'
-- '[[DATABASE/skill/Stealth|Stealth]] +9'
-source: '[[DATABASE/source/Bestiary|Bestiary]]'
+- '[[DATABASE/skill/Athletics|Athletics]] +3'
+- '[[DATABASE/skill/Crafting|Crafting]] +6'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +3'
+- '[[DATABASE/skill/Nature|Nature]] +7'
+- '[[DATABASE/skill/Stealth|Stealth]] +6'
+source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 speed:
 - 25 feet
-spell: null
-strength: '+5'
-strength_req: '5'
+spell:
+- '[[DATABASE/spell/Detect Magic|Detect Magic]]'
+- '[[DATABASE/spell/Heal|Heal]]'
+- '[[DATABASE/spell/Know Direction|Know Direction]]'
+- '[[DATABASE/spell/Longstrider|Longstrider]]'
+- '[[DATABASE/spell/Take Root|Take Root]]'
+- '[[DATABASE/spell/Tanglefoot|Tanglefoot]]'
+- '[[DATABASE/spell/Timber|Timber]]'
+- '[[DATABASE/spell/Wall of Shrubs|Wall ofShrubs]]'
+strength: '+0'
+strength_req: '0'
 strongest_save:
-- Fortitude
+- Will
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Plant|Plant]]'
+- '[[DATABASE/trait/Ardande|Ardande]]'
+- '[[DATABASE/trait/Human|Human]]'
+- '[[DATABASE/trait/Humanoid|Humanoid]]'
 type: Creature
 vision: Low-light vision
 weakest_save:
-- Reflex
-weakness:
-- axe vulnerability
-- fire 10
-will: '+11'
-wisdom: '+3'
+- Fortitude
+weakness: null
+will: '+9'
+wisdom: '+4'
 
 ---
 # Ardande

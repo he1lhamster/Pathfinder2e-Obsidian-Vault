@@ -1,68 +1,80 @@
 ﻿---
-ac: '23'
-alignment: LN
+ac: '18'
+alignment: CN
 all_resistance: null
 burrow_speed: null
-charisma: '+3'
+charisma: '+4'
 climb_speed: null
-constitution: '+0'
+constitution: '+1'
 creature_ability:
-- Bravery
-- Dual Disarm
-- No Quarter!
-creature_family: '[[DATABASE/monsterfamily/Seafarers|Seafarers]]'
-description: 'The captain is the ultimate authority on a vessel, responsible for the
-  livelihood and well-being of everyone on the ship.<br/><br/><b><u>Recall Knowledge
-  - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 22<br/><b><u>Unspecific
-  Lore</u></b>: DC 20<br/><b><u>Specific Lore</u></b>: DC 17'
-dexterity: '+2'
+- Far Lob
+- Firebug
+- Infused Items
+- Natural-Born Burner
+- Quick Bomber
+creature_family: null
+dexterity: '+3'
 element: null
 fly_speed: null
-fortitude: '+12'
-hp: '90'
-id: '954'
+fortitude: '+6'
+hp: '44'
+id: '1941'
 immunity: null
-intelligence: '+1'
+intelligence: '+4'
 land_speed: '25'
 language:
 - '[[DATABASE/language/Common|Common]]'
-level: '6'
+- '[[DATABASE/language/Dwarven|Dwarven]]'
+- '[[DATABASE/language/Elven|Elven]]'
+- '[[DATABASE/language/Gnoll|Gnoll]]'
+- '[[DATABASE/language/Gnomish|Gnomish]]'
+- '[[DATABASE/language/Ignan|Ignan]]'
+- '[[DATABASE/language/Kelish|Kelish]]'
+- '[[DATABASE/language/Osiriani|Osiriani]]'
+level: '3'
 max_speed: '25'
-name: Ship Captain
-perception: '+12'
-rarity: Common
-reflex: '+12'
-resistance: null
+name: Shoma Lyzerius
+perception: '+9'
+rarity: Unique
+reflex: '+10'
+resistance:
+- '[[DATABASE/trait/Fire|fire]] 3'
 rus_type_level: null
-sense: null
+sense:
+- '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +10'
-- '[[DATABASE/skill/Athletics|Athletics]] +12'
-- '[[DATABASE/skill/Diplomacy|Diplomacy]] +11'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +13'
-- '[[DATABASE/skill/Lore|Sailing Lore]] +17'
-- '[[DATABASE/skill/Survival|Survival]] +10'
-source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +8'
+- '[[DATABASE/skill/Arcana|Arcana]] +9'
+- '[[DATABASE/skill/Crafting|Crafting]] +12'
+- '[[DATABASE/skill/Deception|Deception]] +9'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +9'
+- '[[DATABASE/skill/Society|Society]] +9'
+- '[[DATABASE/skill/Stealth|Stealth]] +10'
+- '[[DATABASE/skill/Thievery|Thievery]] +10'
+- '[[DATABASE/skill/Lore|Underworld Lore]] +9'
+source: '[[DATABASE/source/Pathfinder 178. Punks in a Powderkeg|Pathfinder #178: Punks
+  in a Powderkeg]]'
 speed:
 - 25 feet
 spell: null
-strength: '+4'
-strength_req: '4'
+strength: '+1'
+strength_req: '1'
 strongest_save:
-- Will
+- Reflex
 swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
+- '[[DATABASE/trait/Ifrit|Ifrit]]'
+- '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
+vision: Low-light vision
 weakest_save:
 - Fortitude
-- Reflex
 weakness: null
-will: '+14'
-wisdom: '+2'
+will: '+8'
+wisdom: '+1'
 
 ---
 # Shoma Lyzerius, Bitter Firebug Rival

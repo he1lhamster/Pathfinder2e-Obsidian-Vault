@@ -13,16 +13,6 @@ creature_ability:
 - Terror From Within
 - Wild Empathy
 creature_family: null
-description: 'With unclear origins and even more mysterious powers, the Mosquito Witch''s
-  exact statistics and abilities might change depending upon her true nature in a
-  given campaign. What follows is a representative rendition of the Witch and her
-  core abilities. In addition, this article includes three variations of the Mosquito
-  Witch, each embodying one of her enduring mythologies by providing a handful of
-  additional abilities. Add or remove these abilities to create the Shimmerford cryptid
-  of your imagination, and remember that the spookiest legends are often the ones
-  the PCs barely encounter directly.<br/><br/><b><u>Recall Knowledge - Fey</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 37<br/><b><u>Unspecific Lore</u></b>: DC 35<br/><b><u>Specific Lore</u></b>:
-  DC 32'
 dexterity: '+6'
 element: null
 fly_speed: '25'

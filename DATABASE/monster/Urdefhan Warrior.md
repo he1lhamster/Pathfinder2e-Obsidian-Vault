@@ -12,11 +12,6 @@ creature_ability:
 - Ravenous Attack
 - Wicked Bite
 creature_family: '[[DATABASE/monsterfamily/Urdefhan|Urdefhan]]'
-description: 'From the moment they are born, urdefhans are prepared for war. Urdefhan
-  warriors are among the least powerful urdefhans one might encounter outside of their
-  eerie underground cities.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 18<br/><b><u>Unspecific Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>:
-  DC 13'
 dexterity: '+1'
 element: null
 fly_speed: null

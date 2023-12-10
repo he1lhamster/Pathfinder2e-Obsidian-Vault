@@ -12,27 +12,6 @@ creature_ability:
 - Holy Weaponry
 - Ward
 creature_family: '[[DATABASE/monsterfamily/Kami|Kami]]'
-description: 'Zuishin are kami warriors and archers who task themselves with watching
-  over important shrines, ancient gates, or sacred doorways. Monasteries secreted
-  away in snowy valleys, pagodas hidden in remote forests, and archways that mark
-  the passage into sacred hidden cities all might host such kami. With sturdy armor
-  and hallowed armaments, zuishin fight tirelessly to drive off any evil powers who
-  wish to desecrate their wards. Of all kami, zuishin most frequently fight against
-  [[DATABASE/monsterfamily/Oni|oni]] , as the wards zuishin guard are most often targeted
-  for desecration by these vile fiends.<br/><br/> Most zuishin wear ancient armor
-  and wield powerful weapons like swords and bows, but some might use spears, axes,
-  or only their fists, depending on their ward and the people who make offerings there.
-  Zuishin tend to regard mortals with skepticism. To earn a zuishin''s trust, a supplicant
-  might offer items of natural significance, such as an urn of hallowed earth, a branch
-  from an ancient tree, or an arrangement of local flowers.<br/><br/> Like all kami,
-  a zuishin might come across as reserved or even indifferent to humans and their
-  ilk; however, this impression stems only from a zuishin''s wisdom and longevity,
-  which makes mortal affairs seem relatively trivial. In the company of other kami,
-  however, they''re unerringly benevolent and readily offer their aid to their fellows.
-  For example, a zuishin whose ward lies nestled in an ancient forest might readily
-  join forces with [[DATABASE/monster/Kodama|kodama]] in those trees to deter foes.<br/><br/><b><u>Recall
-  Knowledge - Spirit</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 27<br/><b><u>Unspecific
-  Lore</u></b>: DC 25<br/><b><u>Specific Lore</u></b>: DC 22'
 dexterity: '+7'
 element: null
 fly_speed: '25'

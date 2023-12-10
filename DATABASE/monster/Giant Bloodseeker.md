@@ -11,11 +11,6 @@ creature_ability:
 - Blood-Crazed
 - Grab
 creature_family: '[[DATABASE/monsterfamily/Bloodseeker|Bloodseeker]]'
-description: "The Court of Ether breeds bloodseekers to enormous sizes to serve as\
-  \ cavalry mounts for their non-winged warriors. These bloodseekers serve as capable\
-  \ mounts\u2014at least until they detect the scent of blood.<br/><br/><b><u>Recall\
-  \ Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 18<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>: DC 13"
 dexterity: '+5'
 element: null
 fly_speed: '40'

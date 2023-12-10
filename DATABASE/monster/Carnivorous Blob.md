@@ -14,18 +14,6 @@ creature_ability:
 - Reactive Strikes
 - Split
 creature_family: '[[DATABASE/monsterfamily/Ooze|Ooze]]'
-description: 'Carnivorous blobs are the ravenous spawn of shattered worlds far beyond
-  the stars, born across the galaxy in inert form until they fall like meteorites
-  onto unsuspecting worlds. These massive beings can lie dormant for years in desolate
-  caverns or barren wastelands. When a carnivorous blob perceives living creatures
-  nearby, it lurches to gelatinous life, seeking out and consuming every creature
-  it can catch until it is destroyed or until it has been unable to locate food for
-  24 hours, at which point it returns to hibernation. Often, keeping food away from
-  a carnivorous blob is the safest way to defeat it. The blob''s ability to split
-  into smaller oozes that might stay hidden after a fight means it can be hard to
-  fully eradicate these mindless predators.<br/><br/><b><u>Recall Knowledge - Ooze</u>
-  ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 31<br/><b><u>Unspecific Lore</u></b>:
-  DC 29<br/><b><u>Specific Lore</u></b>: DC 26'
 dexterity: '-3'
 element: null
 fly_speed: null

@@ -1,95 +1,86 @@
 ﻿---
-ac: '22'
-alignment: CG
+ac: '35'
+alignment: CE
 all_resistance: null
 burrow_speed: null
-charisma: '+4'
+charisma: '+7'
 climb_speed: null
-constitution: '+2'
+constitution: '+6'
 creature_ability:
-- Hurricane Blast
-- Whirlwind
-creature_family: '[[DATABASE/monsterfamily/Genie|Genie]]'
-description: 'Benevolent genies from the Plane of Air, djinn value art, culture, knowledge,
-  and trade. They also love new experiences, succulent dishes, and heady wines. Of
-  all geniekind, they are most likely to approach humans and other mortals, interacting
-  with them on friendly terms. Still, djinn are proud of their genie heritage and
-  have a tendency to be patronizing toward mortals, a habit that has earned them a
-  reputation for arrogance.<br/>Djinn get along with jann and marids, but they find
-  shaitans too stiff and harbor undying hatred for efreet. Although djinn are formidable
-  combatants, they despise war and prefer to eschew violence in favor of dealing with
-  their opponents using magic or subterfuge (making an exception, of course, when
-  they encounter efreet).<br/><br/><b><u>Recall Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Nature|Nature]] )</b>: DC 22<br/><b><u>Unspecific Lore</u></b>:
-  DC 20<br/><b><u>Specific Lore</u></b>: DC 17'
-dexterity: '+5'
-element: Air
-fly_speed: '40'
-fortitude: '+9'
+- Etheric Fibers
+- Etheric Tug
+- Magical Tongue
+- Swallow Whole
+creature_family: '[[DATABASE/monsterfamily/Brughadatch|Brughadatch]]'
+dexterity: '+3'
+element: null
+fly_speed: null
+fortitude: '+23'
 hardness: null
-hp: '71'
-id: '212'
-immunity:
-- acid
+hp: '250'
+id: '529'
+immunity: null
 intelligence: '+2'
-land_speed: '25'
+land_speed: '10'
 language:
-- '[[DATABASE/language/Auran|Auran]]'
 - '[[DATABASE/language/Common|Common]]'
-level: '5'
-max_speed: '40'
-name: Djinni
-perception: '+13'
-rarity: Uncommon
-reflex: '+14'
-resistance:
-- mental 5
-- sonic 5
+- '[[DATABASE/language/Sylvan|Sylvan]]'
+level: '13'
+max_speed: '10'
+name: Doblagub
+perception: '+26'
+rarity: Common
+reflex: '+18'
+resistance: null
 rus_type_level: null
 school: null
 sense:
 - darkvision
-- '[[DATABASE/spell/Detect Magic|detect magic]]'
+- '[[DATABASE/spell/True Seeing|true seeing]]'
 size: Large
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +14'
-- '[[DATABASE/skill/Arcana|Arcana]] +11'
-- '[[DATABASE/skill/Athletics|Athletics]] +11'
-- '[[DATABASE/skill/Crafting|Crafting]] +9'
-- '[[DATABASE/skill/Deception|Deception]] +11'
-- '[[DATABASE/skill/Diplomacy|Diplomacy]] +13'
-- '[[DATABASE/skill/Society|Society]] +9'
-- '[[DATABASE/skill/Stealth|Stealth]] +12'
-source: '[[DATABASE/source/Bestiary|Bestiary]]'
+- '[[DATABASE/skill/Athletics|Athletics]] +25'
+- '[[DATABASE/skill/Deception|Deception]] +28'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +28'
+- '[[DATABASE/skill/Nature|Nature]] +26'
+- '[[DATABASE/skill/Survival|Survival]] +24'
+source: '[[DATABASE/source/Pathfinder 154. Siege of the Dinosaurs|Pathfinder #154:
+  Siege of the Dinosaurs]]'
 speed:
-- 25 feet
-- fly 40 feet
+- 10 feet
+- swim 10 feet
 spell:
-- '[[DATABASE/spell/Creation|Creation]]'
-- '[[DATABASE/spell/Detect Magic|DetectMagic]]'
-- '[[DATABASE/spell/Enhance Victuals|Enhance Victuals]]'
-- '[[DATABASE/spell/Gaseous Form|Gaseous Form]]'
-- '[[DATABASE/spell/Illusory Creature|Illusory Creature]]'
-- '[[DATABASE/spell/Illusory Object|Illusory Object]]'
-- '[[DATABASE/spell/Invisibility|Invisibility]]'
-- '[[DATABASE/spell/Plane Shift|Plane Shift]]'
-strength: '+4'
-strength_req: '4'
+- '[[DATABASE/spell/Charm|Charm]]'
+- '[[DATABASE/spell/Confusion|Confusion]]'
+- '[[DATABASE/spell/Crushing Despair|Crushing Despair]]'
+- '[[DATABASE/spell/Detect Magic|Detect Magic]]'
+- '[[DATABASE/spell/Dominate|Dominate]]'
+- '[[DATABASE/spell/Enthrall|Enthrall]]'
+- '[[DATABASE/spell/Faerie Fire|FaerieFire]]'
+- '[[DATABASE/spell/Fear|Fear]]'
+- '[[DATABASE/spell/Hideous Laughter|Hideous Laughter]]'
+- '[[DATABASE/spell/Illusory Scene|Illusory Scene]]'
+- '[[DATABASE/spell/Lightning Bolt|Lightning Bolt]]'
+- '[[DATABASE/spell/Paralyze|Paralyze]]'
+- '[[DATABASE/spell/Produce Flame|Produce Flame]]'
+- '[[DATABASE/spell/True Seeing|True Seeing]]'
+- '[[DATABASE/spell/Wall of Stone|Wallof Stone]]'
+strength: '+8'
+strength_req: '8'
 strongest_save:
-- Reflex
-swim_speed: null
+- Will
+swim_speed: '10'
 trait:
-- '[[DATABASE/trait/Air|Air]]'
-- '[[DATABASE/trait/Elemental|Elemental]]'
-- '[[DATABASE/trait/Genie|Genie]]'
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
+- '[[DATABASE/trait/Amphibious|Amphibious]]'
+- '[[DATABASE/trait/Fey|Fey]]'
 type: Creature
 vision: Darkvision
 weakest_save:
-- Fortitude
-weakness: null
-will: '+11'
-wisdom: '+2'
+- Reflex
+weakness:
+- cold iron 15
+will: '+26'
+wisdom: '+5'
 
 ---
 # Doblagub (Elder Brughadatch)

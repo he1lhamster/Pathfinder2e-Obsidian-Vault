@@ -10,13 +10,6 @@ creature_ability:
 - Sneak Attack
 - Versatile Performance
 creature_family: null
-description: 'Edolpho Phinelli, the notorious con artist, has developed a new scheme.
-  He''s selling an elixir that he claims can heal wounds, erase scars, and regrow
-  hair. The citizens that live in the red light district are buying it by the case-full.
-  Edolpho is looking to get rich quick! Fast enough to hop on a ship out of the city
-  with enough earnings to set himself up in a new town.<br/><br/><b><u>Recall Knowledge
-  - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 28<br/><b><u>Unspecific
-  Lore</u></b>: DC 26<br/><b><u>Specific Lore</u></b>: DC 23'
 dexterity: '+3'
 element: null
 fly_speed: null

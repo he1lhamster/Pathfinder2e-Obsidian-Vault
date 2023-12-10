@@ -15,23 +15,6 @@ creature_ability:
 - Toxic
 - Blood
 creature_family: null
-description: "Streams run dry. The earth cracks. Green leaves brown and shatter. And\
-  \ the creature walks on.<br/><br/> The faceless, unknowable tolokands wander the\
-  \ land, bringing desolation with every footfall\u2014belching poisonous smoke, blighting\
-  \ plant life, cracking the earth asunder, and even staining the ground with their\
-  \ foul blood. They turn habitable places into wastelands, which has earned tolokands\
-  \ the name \u201Cwaste walkers.\u201D These walking forces of destruction don't\
-  \ make their motives known. They remain unmoved by any pleas or threats levied at\
-  \ them, and they fight off attacks only so that they can return to their grim business.\
-  \ However, they have one consistent tendency: they travel to environments on the\
-  \ brink. A tolokand appears in a land wracked by famine or a natural disaster to\
-  \ give it the last push into oblivion.<br/><br/> Tolokands are mercifully few in\
-  \ number. Since they appear so rarely, it's unclear whether there are just a few\
-  \ individuals or several dozen. Clearly, more than one exists, though, because their\
-  \ patterned soles are as distinctive as fingerprints. Often, these smoking footprints\
-  \ are all that remain in a blighted land.<br/><br/><b><u>Recall Knowledge - Aberration</u>\
-  \ ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 39<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 37<br/><b><u>Specific Lore</u></b>: DC 34"
 dexterity: '+6'
 element: null
 fly_speed: null

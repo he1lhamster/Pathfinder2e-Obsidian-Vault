@@ -10,14 +10,6 @@ creature_ability:
 - Swarming Stings
 - Wasp Venom
 creature_family: '[[DATABASE/monsterfamily/Wasp|Wasp]]'
-description: "Wasp nests are made of chewed wood fibers foraged from the surrounding\
-  \ flora, which the wasps make into a material similar to paper. A single wasp nest\
-  \ can house thousands of individuals that emerge as a massive swarm. Most swarms\
-  \ attack only to protect their nest or if otherwise agitated, though druids and\
-  \ other primal enchanters can bend these venomous vermin to their will\u2014to deadly\
-  \ effect.<br/><br/><b><u>Recall Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 19<br/><b><u>Unspecific Lore</u></b>: DC 17<br/><b><u>Specific Lore</u></b>:\
-  \ DC 14"
 dexterity: '+4'
 element: null
 fly_speed: '40'

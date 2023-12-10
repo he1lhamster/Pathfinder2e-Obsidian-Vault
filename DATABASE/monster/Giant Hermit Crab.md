@@ -11,12 +11,6 @@ creature_ability:
 - Protective Pinch
 - Retract
 creature_family: '[[DATABASE/monsterfamily/Crab|Crab]]'
-description: 'Lucky hermit crabs with plentiful resources can live for decades and
-  grow to tremendous sizes, often with magical help. Too large for most natural shells,
-  giant hermit crabs use a variety of debris instead, including wagons, boats, treasure
-  chests, and even abandoned pieces of giant armor.<br/><br/><b><u>Recall Knowledge
-  - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 20<br/><b><u>Unspecific
-  Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>: DC 15'
 dexterity: '+2'
 element: null
 fly_speed: null

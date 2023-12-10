@@ -1,78 +1,81 @@
 ﻿---
 ac: '35'
-alignment: LN
+alignment: LE
 all_resistance: null
 burrow_speed: null
-charisma: '+1'
+charisma: '+4'
 climb_speed: null
-constitution: '+4'
+constitution: '+1'
 creature_ability:
-- Breath of Energy Technique
-- Flurry of Blows
+- Arcane Cascade
+- Fated to Fail
+- Spellstrike
+- Twisting Tree
 creature_family: null
-description: 'Each competitor on this team of elementalists has a unique special ability
-  that only they can use; a fighter''s ability is denoted by the individual''s name
-  in the traits parenthetical in the stat block below. Only that individual can use
-  the ability (so, for instance, the Arms of Balance can''t use Breath of the Volcano
-  four times per round, since only Usvani knows that ability). Each fighter has a
-  different rune on their <i> [[DATABASE/equipment/Handwraps of Mighty Blows|handwraps
-  of mighty blows]] </i>, allowing each to deal a different type of energy damage
-  with their fist Strikes.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 36<br/><b><u>Unspecific Lore</u></b>: DC 34<br/><b><u>Specific Lore</u></b>:
-  DC 31'
-dexterity: '+4'
+dexterity: '+5'
 element: null
 fly_speed: null
-fortitude: '+27'
-hp: '300'
-id: '1487'
+fortitude: '+20'
+hp: '255'
+id: '2555'
 immunity: null
-intelligence: '+0'
-land_speed: '45'
+intelligence: '+5'
+land_speed: '25'
 language:
 - '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Goblin|Goblin]]'
-- '[[DATABASE/language/Tien|Tien]]'
-level: '15'
-max_speed: '45'
-name: Arms Of Balance
-perception: '+27'
-rarity: Uncommon
-reflex: '+27'
+- '[[DATABASE/language/Draconic|Draconic]]'
+- '[[DATABASE/language/Thassilonian|Thassilonian]]'
+level: '14'
+max_speed: '25'
+name: Arodeth
+perception: '+22'
+rarity: Unique
+reflex: '+24'
 resistance: null
 rus_type_level: null
 sense: null
 size: Medium
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +29'
-- '[[DATABASE/skill/Athletics|Athletics]] +30'
-- '[[DATABASE/skill/Performance|Performance]] +26'
-source: '[[DATABASE/source/Pathfinder 167. Ready Fight!|Pathfinder #167: Ready? Fight!]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +25'
+- '[[DATABASE/skill/Arcana|Arcana]] +25'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +24'
+- '[[DATABASE/skill/Lore|Fortune-Telling Lore]] +27'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +24'
+- '[[DATABASE/skill/Occultism|Occultism]] +27'
+- '[[DATABASE/skill/Society|Society]] +25'
+source: '[[DATABASE/source/Pathfinder 190. The Choosing|Pathfinder #190: The Choosing]]'
 speed:
-- 45 feet
+- 25 feet
 spell:
-- '[[DATABASE/spell/Wild Winds Stance|Wild Winds Stance]]'
-- '[[DATABASE/spell/Wind Jump|Wind Jump]]'
-strength: '+5'
-strength_req: '5'
+- '[[DATABASE/spell/Blink|Blink]]'
+- '[[DATABASE/spell/Chain Lightning|ChainLightning]]'
+- '[[DATABASE/spell/Chill Touch|Chill Touch]]'
+- '[[DATABASE/spell/Daze|Daze]]'
+- '[[DATABASE/spell/Disintegrate|Disintegrate]]'
+- '[[DATABASE/spell/Dispel Magic|Dispel Magic]]'
+- '[[DATABASE/spell/Electric Arc|Electric Arc]]'
+- '[[DATABASE/spell/Prestidigitation|Prestidigitation]]'
+- '[[DATABASE/spell/Prismatic Spray|Prismatic Spray]]'
+- '[[DATABASE/spell/Produce Flame|Produce Flame]]'
+- '[[DATABASE/spell/Runic Impression|Runic Impression]]'
+- '[[DATABASE/spell/Slow|Slow]]'
+- '[[DATABASE/spell/Spinning Staff|Spinning Staff]]'
+strength: '+1'
+strength_req: '1'
 strongest_save:
-- Fortitude
 - Reflex
-- Will
 swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
+- '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
 vision: null
 weakest_save:
 - Fortitude
-- Reflex
-- Will
 weakness: null
-will: '+27'
-wisdom: '+4'
+will: '+23'
+wisdom: '+2'
 
 ---
 # Arodeth, Disillusioned Mercenary Company Leader

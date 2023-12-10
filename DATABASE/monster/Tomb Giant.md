@@ -12,26 +12,6 @@ creature_ability:
 - Font of Death
 - Throw Rock
 creature_family: '[[DATABASE/monsterfamily/Giant|Giant]]'
-description: "Masters of mausoleums and keepers of crypts, the dread creatures called\
-  \ tomb giants are anathema to all living beings, but especially so to other types\
-  \ of giants. Long ago, so the legends say, tomb giants sold their souls in exchange\
-  \ for unfathomable necromantic powers. With whom they made this foul bargain remains\
-  \ a mystery\u2014if the rumors hold any truth at all. Still, tomb giants' power\
-  \ over undeath remains undeniable, and nearly all of them embrace a fervent passion\
-  \ for necromancy.<br/><br/> Tomb giants construct massive gothic settlements in\
-  \ haunted valleys and on forsaken hillsides, far enough away from the societies\
-  \ of smaller people that they remain relatively undisturbed, but close enough that\
-  \ they can raid the graveyards of nearby villages with impunity.<br/><br/> Elder\
-  \ tomb giants\u2014those who have animated countless hordes of humanoid [[DATABASE/monsterfamily/Zombie|zombies]]\
-  \ and [[DATABASE/monsterfamily/Skeleton|skeletons]] and yearn for even greater challenges\u2014\
-  enjoy the thrill of subduing, slaying, and reanimating their fellow giants. [[DATABASE/monster/Taiga\
-  \ Giant|Taiga giants]] in particular are choice prey to an experienced tomb giant,\
-  \ as their larger cousins make formidable undead guardians and warriors.<br/><br/>\
-  \ A tomb giant views its mortal life as only one part of its existence. After death,\
-  \ most tomb giants are themselves reanimated as undead, who then continue to practice\
-  \ their necromantic arts.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]\
-  \ )</b>: DC 30<br/><b><u>Unspecific Lore</u></b>: DC 28<br/><b><u>Specific Lore</u></b>:\
-  \ DC 25"
 dexterity: '+3'
 element: null
 fly_speed: null

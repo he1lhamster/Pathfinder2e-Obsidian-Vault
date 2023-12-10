@@ -12,10 +12,6 @@ creature_ability:
 - Sneak Attack
 - Spin Silk
 creature_family: '[[DATABASE/monsterfamily/Anadi|Anadi]]'
-description: 'These anadis lurkers combine their innate magical talents and wilderness
-  lore to snare prey. <br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 20<br/><b><u>Unspecific Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>:
-  DC 15'
 dexterity: '+4'
 element: null
 fly_speed: null

@@ -13,12 +13,6 @@ creature_ability:
 - No Breath
 - Shock Mind
 creature_family: '[[DATABASE/monsterfamily/Grioth|Grioth]]'
-description: 'The first grioths encountered on a new world are scouts. Typically traveling
-  the vastness of space via one-way portals from their home worlds, grioth scouts
-  never expect to see their homes again, as grioth leadership ensures true devotion
-  to the colonization effort by stranding them on new worlds.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 17<br/><b><u>Unspecific
-  Lore</u></b>: DC 15<br/><b><u>Specific Lore</u></b>: DC 12'
 dexterity: '+4'
 element: null
 fly_speed: '30'

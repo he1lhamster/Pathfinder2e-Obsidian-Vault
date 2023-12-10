@@ -16,14 +16,6 @@ creature_ability:
 - Jump
 - Wind Up
 creature_family: '[[DATABASE/monsterfamily/Clockworks|Clockworks]]'
-description: 'Clockwork buccaneers are powerful constructs designed for naval combat.
-  Whereas most clockwork creations sink to the ocean floor while at sea, clockwork
-  buccaneers can use their water jets to easily propel themselves through the water
-  or leap aboard enemy ships. In addition to an internal water tank and hydraulic
-  pumps, most clockwork buccaneers are equipped with a cutlass and arm gun loaded
-  with scatter shot.<br/><br/><b><u>Recall Knowledge - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Crafting|Crafting]] )</b>: DC 28<br/><b><u>Unspecific Lore</u></b>:
-  DC 26<br/><b><u>Specific Lore</u></b>: DC 23'
 dexterity: '+6'
 element: null
 fly_speed: null

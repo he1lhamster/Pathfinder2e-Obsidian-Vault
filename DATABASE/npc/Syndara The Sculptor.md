@@ -19,25 +19,6 @@ creature_ability:
 - Vicious Impact
 - Walk the Spiral
 creature_family: null
-description: "From the moment of his creation, Syndara was drawn to patterns. Though\
-  \ all axiomites strive to bring order in a chaotic world\u2014many through acts\
-  \ of creation\u2014Syndara took this a step further than his fellow inhabitants\
-  \ of [[DATABASE/plane/Axis|Axis]] , not by crafting clever artifices, but by creating\
-  \ entire pocket realities of mathematically precise shapes and spirals. For many\
-  \ years, Syndara was the premier artist of Axis, until one day a ruby-haired sorcerer\
-  \ arrived at the city's gates.<br/><br/> The two were immediate kindred spirits.\
-  \ But time passed and Syndara grew jealous of Hao Jin's innate gifts. His creations\
-  \ grew crueler and more depraved, his \u201Cart\u201D seeking to shock as if to\
-  \ make up for a self-perceived deficit in ability. Hao Jin realized that while Syndara\
-  \ had always desired to cultivate order from chaos, he also wished to impose his\
-  \ own idea of how the world should be on others\u2014by force if necessary. After\
-  \ a great struggle, Hao Jin defeated her old friend. She could not bear to destroy\
-  \ him, though, and instead imprisoned him within his own demiplane-in-progress,\
-  \ the <i>Glass Lighthouse</i>. She further secured him by placing the <i>Glass Lighthouse</i>\
-  \ in her own demiplane, the <i>Hao Jin Tapestry</i>, which amplified the effects\
-  \ and duration of his imprisonment. Syndara spent eons trapped in a flow of turbulent\
-  \ time, consumed with thoughts of revenge. Now that he is free from his cage, Syndara\
-  \ seeks to humiliate and kill Hao Jin then claim her magic for himself."
 dexterity: '+11'
 element: null
 fly_speed: null

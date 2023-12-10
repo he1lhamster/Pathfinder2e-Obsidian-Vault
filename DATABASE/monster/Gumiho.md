@@ -11,20 +11,6 @@ creature_ability:
 - Guileful Charm
 - Sapping Critical
 creature_family: null
-description: "Gumihos are legendary nine-tailed fox creatures who, when disguised\
-  \ in humanoid form, use charm and guile to lure prey deep into the forest before\
-  \ revealing their true form and striking. The green-eyed canids use brutally sharp\
-  \ fangs to tear out their victim's throat and feast on their liver. Those few who\
-  \ survive a gumiho's trap recall the canid's eerie green eyes as well as a strange\
-  \ marble amulet warn around the monster's neck.<br/><br/> Old stories claim that\
-  \ a fox transforms into a gumiho once it has lived for a thousand years, quadrupling\
-  \ in size, growing eight additional tails, and gaining the power to change shape.\
-  \ Terrifyingly, it also gains an insatiable hunger for the livers of people. This\
-  \ hunger is so closely connected to a gumiho's power that if it abstains from eating\
-  \ liver for one thousand days, the gumiho loses its magic and permanently takes\
-  \ on its humanoid guise\u2014also losing its evil nature in the process.<br/><br/><b><u>Recall\
-  \ Knowledge - Fey</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 38<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 36<br/><b><u>Specific Lore</u></b>: DC 33"
 dexterity: '+8'
 element: null
 fly_speed: null

@@ -13,15 +13,6 @@ creature_ability:
 - Rust Cloud
 - Rust Vision
 creature_family: '[[DATABASE/monsterfamily/Elemental, Wisp|Elemental, Wisp]]'
-description: "A metal wisp is a roiling sphere of rust particles and sharp metal fragments,\
-  \ all furiously orbiting a liquid metal core that resembles the skull of a mortal\
-  \ creature\u2014usually a humanoid, but animal and even more fantastical skulls\
-  \ are not uncommon. They don't form attachments as easily as wisps from other elemental\
-  \ planes, which tend to view metal wisps as too morose, although they retain a certain\
-  \ curiosity since their return from the planar severance.<br/><br/><b><u>Recall\
-  \ Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 14<br/><b><u>Unspecific Lore</u></b>: DC 12<br/><b><u>Specific Lore</u></b>:\
-  \ DC 9"
 dexterity: '+1'
 element: Metal
 fly_speed: '25'

@@ -16,31 +16,6 @@ creature_ability:
 - Frightful Presence
 - Smoke Vision
 creature_family: '[[DATABASE/monsterfamily/Dragon, Red|Dragon, Red]]'
-description: "The largest and most powerful of the chromatic dragons, red dragons\
-  \ are a menace to civilizations everywhere, and their strength is rivaled only by\
-  \ their arrogance. Red dragons see themselves as regents and overlords of all dragonkind.\
-  \ With their crowns of crimson spikes and their command of blistering frame, this\
-  \ is no haughty boast in their eyes\u2014only unquestioned fact.<br/><br/> Red dragons\
-  \ don\u2019t deign to speak with lesser creatures; they simply dominate and burn,\
-  \ enslaving weaker creatures to act as servants and to look after their lairs while\
-  \ the dragons slumber away. They take pleasure in dominating these creatures, and\
-  \ they demand tribute from their supplicants. Those who anger or disappoint end\
-  \ up eaten or reduced to ash. They command their enslaved minions to constantly\
-  \ build onto their lairs, carving out new tunnels and designing cunning traps that\
-  \ ensure the dragon\u2019s security.<br/><br/> Driven by their arrogance, red dragons\
-  \ are the most likely of the chromatic dragons to ravage settlements. They want\
-  \ the world to see them in their rightful place as powerful tyrants, and they delight\
-  \ in threatening all other creatures. They have no qualms about bullying, manipulating,\
-  \ or killing to complete their goals\u2014or simply intimidating others through\
-  \ a public display of brutality and dominance.<br/><br/> As legendary as the brutishness\
-  \ of red dragons is the magnificence of their hoards of gold. Their lairs are often\
-  \ situated in dangerous places, with volcanoes being a favorite spot, as they find\
-  \ them foreboding and the constant warmth is comfortable. No matter the locale,\
-  \ red dragons sleep on a litter of coins and other treasures, which they zealously\
-  \ guard. Sometimes, the dragon\u2019s internal heat causes these precious metals\
-  \ to fuse together.<br/><br/><b><u>Recall Knowledge - Dragon</u> ( [[DATABASE/skill/Arcana|Arcana]]\
-  \ )</b>: DC 32<br/><b><u>Unspecific Lore</u></b>: DC 30<br/><b><u>Specific Lore</u></b>:\
-  \ DC 27"
 dexterity: '+3'
 element: Fire
 fly_speed: '150'

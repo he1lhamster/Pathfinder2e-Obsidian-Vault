@@ -10,28 +10,6 @@ creature_ability:
 - Hypnosis
 - Lunar Naga Venom
 creature_family: '[[DATABASE/monsterfamily/Naga|Naga]]'
-description: 'Lunar nagas are skilled diviners and astrologers whose dark scales and
-  white hair sparkle with motes of light that mimic the night skies to which they
-  are forever drawn. While they are less physically imposing than other nagas, they
-  possess a graceful beauty that many find entrancing, even without the help of the
-  naga''s inherent magical abilities. Earning a lunar naga''s trust is difficult,
-  but not impossible, especially for someone who shares the creature''s interest in
-  the celestial sphere.<br/><br/> As they have no hands, lunar nagas use [[DATABASE/spell/Mage
-  Hand|mage hand]] to manipulate delicate instruments and fine telescopes to observe
-  the night sky. They track the positions of celestial bodies, recording their discoveries
-  in esoteric journals. At their best, lunar nagas are wise and mysterious beings
-  who seek to expand their knowledge of the cosmos. At their worst, after too much
-  exposure to the unfathomable entities that dwell in the darkness between the stars,
-  they become dark prophets who drive others to commit terrible deeds in the name
-  of abominable masters.<br/><br/> On Golarion, the lunar nagas of the nation of Nagajor
-  use their abilities to serve many communities as soothsayers. A few have founded
-  observatories in which they and their followers explore the night sky. Some nagas
-  even use their knowledge of the stars as navigators on ships or overland caravans.
-  In the broader world, where people do not give nagas deference as nearly divine
-  rulers, lunar nagas try to avoid contact with outsiders or use their magical powers
-  of disguise to hide their true forms from all but their most worthy allies.<br/><br/><b><u>Recall
-  Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 24<br/><b><u>Unspecific
-  Lore</u></b>: DC 22<br/><b><u>Specific Lore</u></b>: DC 19'
 dexterity: '+4'
 element: null
 fly_speed: null

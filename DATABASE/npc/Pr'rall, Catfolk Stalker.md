@@ -1,70 +1,70 @@
 ﻿---
-ac: '16'
-alignment: NE
+ac: '28'
+alignment: CN
 all_resistance: null
 burrow_speed: null
 charisma: '+2'
 climb_speed: null
-constitution: '+2'
+constitution: '+3'
 creature_ability:
-- Blaze of Glory
-- Gut Shot
-- Sneak Attack
-- Toss and Shoot
+- Double Slice
+- Dual-Weapon Blitz
+- Flensing Slice
+- Light Paws
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 16<br/><b><u>Unspecific
-  Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>: DC 11'
-dexterity: '+3'
+dexterity: '+4'
 element: null
 fly_speed: null
-fortitude: '+5'
-hp: '13'
-id: '1937'
+fortitude: '+19'
+hp: '138'
+id: '1029'
 immunity: null
-intelligence: '+1'
-land_speed: '25'
+intelligence: '+0'
+land_speed: '30'
 language:
+- '[[DATABASE/language/Amurrun|Amurrun]]'
 - '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Goblin|Goblin]]'
-level: '0'
-max_speed: '25'
-name: Powderkeg Punk Gunner
-perception: '+4'
-rarity: Uncommon
-reflex: '+6'
+level: '9'
+max_speed: '30'
+name: Pr'rall
+perception: '+18'
+rarity: Unique
+reflex: '+20'
 resistance: null
 rus_type_level: null
-sense: null
+sense:
+- low-light vision
 size: Medium
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +5'
-- '[[DATABASE/skill/Athletics|Athletics]] +2'
-- '[[DATABASE/skill/Crafting|Crafting]] +3'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +6'
-- '[[DATABASE/skill/Stealth|Stealth]] +5'
-- '[[DATABASE/skill/Lore|Gunpowder Lore]] +5'
-source: '[[DATABASE/source/Pathfinder 178. Punks in a Powderkeg|Pathfinder #178: Punks
-  in a Powderkeg]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +16'
+- '[[DATABASE/skill/Athletics|Athletics]] +17'
+- '[[DATABASE/skill/Medicine|Medicine]] +14'
+- '[[DATABASE/skill/Nature|Nature]] +14'
+- '[[DATABASE/skill/Society|Society]] +12'
+- '[[DATABASE/skill/Stealth|Stealth]] +20'
+- '[[DATABASE/skill/Survival|Survival]] +18'
+- '[[DATABASE/skill/Lore|Hunting Lore]] +12'
+source: "[[DATABASE/source/No-Prep Character. Pr'rall|No-Prep Character: Pr\u2019\
+  rall]]"
 speed:
-- 25 feet
+- '30'
 spell: null
-strength: '+0'
-strength_req: '0'
+strength: '+5'
+strength_req: '5'
 strongest_save:
 - Reflex
 swim_speed: null
 trait:
+- '[[DATABASE/trait/Catfolk|Catfolk]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
+- '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
+vision: Low-light vision
 weakest_save:
 - Will
-weakness:
-- '[[DATABASE/trait/Fire|fire]] 3'
-will: '+2'
-wisdom: '+0'
+weakness: null
+will: '+16'
+wisdom: '+2'
 
 ---
 # Pr'rall, Catfolk Stalker

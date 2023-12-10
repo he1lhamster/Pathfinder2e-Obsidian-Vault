@@ -19,11 +19,6 @@ creature_ability:
 - Sneak Attack
 - Wild Hunt Link
 creature_family: '[[DATABASE/monsterfamily/Wild Hunt|Wild Hunt]]'
-description: 'These compact few have pointed ears, green eyes, and ram''s horns. They
-  relish the chance to seek revenge upon those who have wronged or insulted the wild
-  hunt, but they tend to grow bored when the stakes aren''t lethal.<br/><br/><b><u>Recall
-  Knowledge - Fey</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 43<br/><b><u>Unspecific
-  Lore</u></b>: DC 41<br/><b><u>Specific Lore</u></b>: DC 38'
 dexterity: '+6'
 element: null
 fly_speed: null

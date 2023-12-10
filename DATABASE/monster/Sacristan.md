@@ -13,17 +13,6 @@ creature_ability:
 - Shadow Scream
 - Staggering Servitude
 creature_family: '[[DATABASE/monsterfamily/Velstrac|Velstrac]]'
-description: 'Sacristans are failures among the velstracs, creatures whose bodies
-  and minds have been utterly broken by the velstracs'' torments. These unfortunates
-  are assembled from scrap metal, nerveless flesh, and bits of darkness into loyal
-  agents who take ecstatic pleasure in serving other velstracs. Sacristans are empowered
-  by a miniature gateway to the [[DATABASE/plane/Shadow Plane|Shadow Plane]] deep
-  in their mouths. By distending their jaws, they can howl with the shrieks and windstorms
-  of that plane. Sacristans vary in appearance but are the size of maimed humans.
-  Their features are redundant or absent and they are wrapped in barbed and rusted
-  chains.<br/><br/><b><u>Recall Knowledge - Fiend</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 27<br/><b><u>Unspecific Lore</u></b>: DC 25<br/><b><u>Specific Lore</u></b>:
-  DC 22'
 dexterity: '+5'
 element: null
 fly_speed: null

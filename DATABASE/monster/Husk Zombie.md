@@ -11,15 +11,6 @@ creature_ability:
 - Sneak Attack
 - Sudden Surge
 creature_family: '[[DATABASE/monsterfamily/Zombie|Zombie]]'
-description: 'Rather than allow a body to rot, some necromancers attempt to dry-cure
-  the corpse to prevent further deterioration. Combined with special reagents, this
-  process can preserve a rudimentary form of intelligence, allowing husk zombies to
-  act more like predators than their mindless kin. Most husk zombies have no memories
-  of their prior lives, though some keep trinkets from that time, oblivious as to
-  why they value such items. A rare few husk zombies retain most of their former knowledge,
-  though they tend to have gaps in their memory.<br/><br/><b><u>Recall Knowledge -
-  Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 16<br/><b><u>Unspecific
-  Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>: DC 11'
 dexterity: '+3'
 element: null
 fly_speed: null

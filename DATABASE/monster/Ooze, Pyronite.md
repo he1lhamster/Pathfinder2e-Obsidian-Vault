@@ -1,94 +1,73 @@
 ﻿---
-ac: '29'
-alignment: CE
-all_resistance: '5'
+ac: '19'
+alignment: N
+all_resistance: null
 burrow_speed: null
-charisma: '+5'
-climb_speed: null
-constitution: '+0'
+charisma: '-5'
+climb_speed: '20'
+constitution: '+7'
 creature_ability:
-- Breath Weapon
-- Pyrokinetic Whirlwind
-- Rejuvenation
-- Soul Consumption
-creature_family: null
-description: 'Born from the deaths of arsonists who died in the fires they started,
-  pyrogeists are roiling infernos whose spectral fire emits no actual heat and harms
-  only living creatures. Obsessed with sharing their torment with the living, pyrogeists
-  haunt the area of their demise until whatever wrong they refuse to forgive has been
-  righted, and they are finally put to rest. While pyrogeists can''t set their own
-  fires, they often use their terrifying illusory capabilities and telekinetic powers
-  to lure their victims into setting themselves ablaze.<br/><br/><b><u>Recall Knowledge
-  - Spirit</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 29<br/><b><u>Recall
-  Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 29<br/><b><u>Unspecific
-  Lore</u></b>: DC 27<br/><b><u>Specific Lore</u></b>: DC 24'
-dexterity: '+7'
+- Constant Explosions
+- Exploding Split
+- Rejoin
+- Split
+creature_family: '[[DATABASE/monsterfamily/Ooze|Ooze]]'
+dexterity: '-5'
 element: null
-fly_speed: '40'
-fortitude: '+16'
+fly_speed: null
+fortitude: '+24'
 hardness: null
-hp: 130 ( negative healing )
-id: '2156'
+hp: '350'
+id: '1983'
 immunity:
-- '[[DATABASE/trait/Death|death]] effects'
-- '[[DATABASE/trait/Disease|disease]]'
-- '[[DATABASE/condition/Paralyzed|paralyzed]]'
+- bludgeoning
+- critical hits
+- '[[DATABASE/trait/Fire|fire]]'
+- '[[DATABASE/trait/Mental|mental]]'
 - precision
-- '[[DATABASE/trait/Poison|poison]]'
 - '[[DATABASE/condition/Unconscious|unconscious]]'
-intelligence: '-1'
-land_speed: null
-language:
-- '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Necril|Necril]]'
+- '[[DATABASE/trait/Visual|visual]]'
+intelligence: '-5'
+land_speed: '20'
+language: null
 level: '10'
-max_speed: '40'
-name: Pyrogeist
-perception: '+20'
-rarity: Uncommon
-reflex: '+19'
-resistance:
-- all damage 5 (except [[DATABASE/trait/Force|force]]
-- '[[DATABASE/equipment/Ghost Touch|ghost touch]]'
-- or positive
-- double resistanceagainst non- [[DATABASE/trait/Magical|magical]] )
-- channeling resistance (see below)
+max_speed: '20'
+name: Pyronite Ooze
+perception: '+14'
+rarity: Rare
+reflex: '+14'
+resistance: null
 rus_type_level: null
 school: null
 sense:
-- '[[DATABASE/monsterability/Darkvision|darkvision]]'
+- no vision
+- '[[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) 60 feet'
 size: Large
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +22'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +22'
-- '[[DATABASE/skill/Stealth|Stealth]] +22'
-source: '[[DATABASE/source/Pathfinder 184. The Ghouls Hunger|Pathfinder #184: The
-  Ghouls Hunger]]'
+- '[[DATABASE/skill/Athletics|Athletics]] +22'
+source: '[[DATABASE/source/Pathfinder 180. The Smoking Gun|Pathfinder #180: The Smoking
+  Gun]]'
 speed:
-- fly 40 feet
-spell:
-- '[[DATABASE/spell/Ghost Sound|Ghost Sound]]'
-- '[[DATABASE/spell/Illusory Scene|Illusory Scene]]'
-- '[[DATABASE/spell/Mage Hand|Mage Hand]]'
-- '[[DATABASE/spell/Telekinetic Haul|Telekinetic Haul]]'
-- '[[DATABASE/spell/Telekinetic Maneuver|Telekinetic Maneuver]]'
-strength: '-5'
-strength_req: '-5'
+- 20 feet
+- climb 20 feet
+spell: null
+strength: '+7'
+strength_req: '7'
 strongest_save:
-- Reflex
+- Fortitude
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Incorporeal|Incorporeal]]'
-- '[[DATABASE/trait/Spirit|Spirit]]'
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
-- '[[DATABASE/trait/Undead|Undead]]'
+- '[[DATABASE/trait/Mindless|Mindless]]'
+- '[[DATABASE/trait/Ooze|Ooze]]'
+- '[[DATABASE/trait/Rare|Rare]]'
 type: Creature
-vision: Darkvision
+vision: null
 weakest_save:
-- Fortitude
-weakness: null
-will: '+18'
-wisdom: '+3'
+- Reflex
+weakness:
+- '[[DATABASE/trait/Cold|cold]] 15'
+will: '+19'
+wisdom: '+0'
 
 ---
 # Ooze, Pyronite

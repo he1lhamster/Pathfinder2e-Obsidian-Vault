@@ -12,22 +12,6 @@ creature_ability:
 - Totems of the Past
 - Twilight Spirit
 creature_family: null
-description: "[[DATABASE/ancestry/Lizardfolk|Iruxis]] , also known as lizardfolk,\
-  \ are surrounded by the spirits of their ancestors\u2014literally, as they honor\
-  \ their dead by incorporating their bones into the architecture of iruxi settlements.\
-  \ Decades of veneration by their descendants have caused primal power to accumulate\
-  \ within these remains. In times of crisis, these earth-encrusted bones reanimate\
-  \ as guardians of last resort. Iruxis often refer to these undead\u2014spirits bathed\
-  \ in starlight animating bone and rock, fueled by the beliefs of the living\u2014\
-  as \u201Cthe twilight guardians.\u201D<br/><br/> Iruxi ossatures usually reanimate\
-  \ spontaneously when a nesting chamber is violated or blood is spilled in an iruxi\
-  \ settlement's main hall. Truly ancient settlements might be blessed with a few\
-  \ ossatures' presence at all times: guarding nurseries, reliquaries, and the sacred\
-  \ observatories where their descendants study the heavens. These particularly hardy\
-  \ ossatures are composed of fossilized bone and possess dinosaur-like shield frills,\
-  \ horns, or spiked tails.<br/><br/><b><u>Recall Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]]\
-  \ )</b>: DC 20<br/><b><u>Unspecific Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>:\
-  \ DC 15"
 dexterity: '+2'
 element: null
 fly_speed: null

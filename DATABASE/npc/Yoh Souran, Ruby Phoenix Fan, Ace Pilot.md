@@ -1,52 +1,54 @@
 ﻿---
-ac: '25'
-alignment: LE
+ac: '38'
+alignment: CG
 all_resistance: null
 burrow_speed: null
-charisma: '+1'
+charisma: '+3'
 climb_speed: null
-constitution: '+4'
+constitution: '+3'
 creature_ability:
-- Erinyes Fury
+- Ancestral Airship Link
+- Deploy Countermeasures
+- I'll Get You into Position!
+- Punch It
+- "Shake \u2018Em!"
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 33<br/><b><u>Unspecific
-  Lore</u></b>: DC 31<br/><b><u>Specific Lore</u></b>: DC 28'
-dexterity: '+0'
+dexterity: '+7'
 element: null
 fly_speed: null
-fortitude: '+17'
-hp: '120'
-id: '1959'
+fortitude: '+26'
+hp: '265'
+id: '1620'
 immunity: null
-intelligence: '+1'
-land_speed: '20'
+intelligence: '+5'
+land_speed: '25'
 language:
-- '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Infernal|Infernal]]'
-level: '7'
-max_speed: '20'
-name: Yniesse Zenderholm
-perception: '+16'
+- '[[DATABASE/language/Tien|Tien]]'
+level: '15'
+max_speed: '25'
+name: Yoh Souran
+perception: '+25'
 rarity: Unique
-reflex: '+11'
+reflex: '+28'
 resistance: null
 rus_type_level: null
 sense: null
 size: Medium
 skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +17'
-- '[[DATABASE/skill/Crafting|Crafting]] +12'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +14'
-- '[[DATABASE/skill/Religion|Religion]] +12'
-source: '[[DATABASE/source/Shadows at Sundown|Shadows at Sundown]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +28'
+- '[[DATABASE/skill/Athletics|Athletics]] +24'
+- '[[DATABASE/skill/Lore|Piloting Lore]] +38'
+- '[[DATABASE/skill/Lore|Ruby Phoenix Tournament Lore]] +38'
+- '[[DATABASE/skill/Society|Society]] +28'
+source: '[[DATABASE/source/Pathfinder 168. King of the Mountain|Pathfinder #168: King
+  of the Mountain]]'
 speed:
-- 20 feet
+- 25 feet
 spell: null
-strength: '+4'
-strength_req: '4'
+strength: '+3'
+strength_req: '3'
 strongest_save:
-- Fortitude
+- Reflex
 swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
@@ -55,10 +57,10 @@ trait:
 type: Creature
 vision: null
 weakest_save:
-- Reflex
+- Will
 weakness: null
-will: '+14'
-wisdom: '+3'
+will: '+23'
+wisdom: '+0'
 
 ---
 # Yoh Souran, Ruby Phoenix Fan, Ace Pilot

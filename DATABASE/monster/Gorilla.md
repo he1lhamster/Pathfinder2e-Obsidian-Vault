@@ -9,11 +9,6 @@ constitution: '+3'
 creature_ability:
 - Frightening Display
 creature_family: '[[DATABASE/monsterfamily/Ape|Ape]]'
-description: 'Gorillas can be territorial creatures, particularly if provoked by hunters
-  or the presence of more dangerous monsters. A gorilla uses its fangs and powerful
-  arms to bite and pummel trespassers with wild abandon.<br/><br/><b><u>Recall Knowledge
-  - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 18<br/><b><u>Unspecific
-  Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>: DC 13'
 dexterity: '+2'
 element: null
 fly_speed: null

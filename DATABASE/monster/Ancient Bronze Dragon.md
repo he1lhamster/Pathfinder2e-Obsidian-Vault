@@ -18,25 +18,6 @@ creature_ability:
 - Vortex Pull
 - Water Mastery
 creature_family: '[[DATABASE/monsterfamily/Dragon, Bronze|Dragon, Bronze]]'
-description: "Bronze dragons are among the most common of metallic dragons and the\
-  \ most likely to ally with mortals on worthy quests. However, they are naturally\
-  \ scholarly creatures who would rather remain in their lairs studying esoteric lore\
-  \ than go off on a wild adventure. These aloof and stoic dragons also act as preservationists,\
-  \ guarding storehouses of ancient lore from destruction or perversion. Bronze dragons\
-  \ are principled and protective, but while their silver cousins are quick to crusade\
-  \ for justice, bronze dragons prefer to find an important location worthy of their\
-  \ protection and guard it against any attack or unwelcome intrusion.<br/><br/> Bronze\
-  \ dragons\u2019 mastery over water and affinity for electricity means they are a\
-  \ boon to sailors caught in thunderstorms. A bronze dragon\u2019s enemies quickly\
-  \ discover neither cloudy sky nor turbulent sea provides shelter from their wrath.\
-  \ <br/><br/>Bronze dragons lair along shorelines, often in partially submerged sea\
-  \ caves. While all dragons keep hoards of treasure, the hoard of a bronze dragon\
-  \ more resembles a vast library\u2014with the shelves kept carefully above the waterline,\
-  \ of course. In addition to their collections of esoteric lore, bronze dragons keep\
-  \ treasures associated with the sea, such as beautiful scrimshaw, flawless pearls,\
-  \ and equipment inlaid with mother-of-pearl and abalone shell.<br/><br/><b><u>Recall\
-  \ Knowledge - Dragon</u> ( [[DATABASE/skill/Arcana|Arcana]] )</b>: DC 40<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 38<br/><b><u>Specific Lore</u></b>: DC 35"
 dexterity: '+4'
 element: Water
 fly_speed: '200'

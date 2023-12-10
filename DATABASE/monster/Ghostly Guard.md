@@ -14,10 +14,6 @@ creature_ability:
 - Site Bound
 - Sneak Attack
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Spirit</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 39<br/><b><u>Recall
-  Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 39<br/><b><u>Unspecific
-  Lore</u></b>: DC 37<br/><b><u>Specific Lore</u></b>: DC 34'
 dexterity: '+4'
 element: null
 fly_speed: '30'

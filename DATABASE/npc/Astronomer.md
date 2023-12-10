@@ -10,11 +10,6 @@ creature_ability:
 - Counterspell
 - Living Sextant
 creature_family: '[[DATABASE/monsterfamily/Scholars|Scholars]]'
-description: "Different cultures have created stories of the hows and whys of the\
-  \ universe, if things exist beyond the stars, and if the gods manipulate the heavenly\
-  \ bodies. But astronomers aren't interested in folktales\u2014they desire truth.<br/><br/><b><u>Recall\
-  \ Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 16<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>: DC 11"
 dexterity: '+1'
 element: null
 fly_speed: null

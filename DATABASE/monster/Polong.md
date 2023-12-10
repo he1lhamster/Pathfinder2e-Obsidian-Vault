@@ -13,24 +13,6 @@ creature_ability:
 - Regenerating Bond
 - Rend
 creature_family: null
-description: 'Polongs exist to serve their creators as loyal familiars, spies, and
-  assassins. Their convenience makes them popular among the wicked, as each resides
-  within a glass bottle which normally seems to contain only a small amount of red
-  liquid. When addressed by their owner, a polong appears within their bottle as a
-  tiny, beautiful humanoid drenched in blood. Forcing one to manifest outside the
-  bottle reveals their true shape: a blood-soaked spirit with a hateful visage and
-  sickle-shaped claws.<br/><br/> The ritual to create a polong originated in Minata
-  and is known primarily by Tian-Sing spellcasters, but only those willing to practice
-  such evil. The ritualist must collect the blood of a murdered humanoid in a small
-  bottle and perform daily incantations, which can take up to 14 days. Once the polong
-  forms, they drink the blood of their creator every day, most often taken from a
-  finger inserted into their bottle. At the master''s order, a polong will travel
-  up to 10 miles away to locate a particular person, possess them, and either slowly
-  whittle them down via possession until they die, or force them to attack anyone
-  nearby until someone slays the victim in self-defense.<br/><br/><b><u>Recall Knowledge
-  - Spirit</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 26<br/><b><u>Recall
-  Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 26<br/><b><u>Unspecific
-  Lore</u></b>: DC 24<br/><b><u>Specific Lore</u></b>: DC 21'
 dexterity: '+6'
 element: null
 fly_speed: '35'

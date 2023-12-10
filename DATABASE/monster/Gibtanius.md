@@ -11,11 +11,6 @@ creature_ability:
 - Breath Weapon
 - Powerful Stench
 creature_family: '[[DATABASE/monsterfamily/Gibtas|Gibtas]]'
-description: 'When a gibtas feeds regularly but never receives sufficient food to
-  procreate, it grows into a mighty gibtanius. They become surly, uncontrolled predators,
-  forsaking their bonded masters to satiate their unending hunger.<br/><br/><b><u>Recall
-  Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 26<br/><b><u>Unspecific
-  Lore</u></b>: DC 24<br/><b><u>Specific Lore</u></b>: DC 21'
 dexterity: '+3'
 element: null
 fly_speed: null

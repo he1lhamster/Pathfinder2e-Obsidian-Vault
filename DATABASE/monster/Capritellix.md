@@ -12,24 +12,6 @@ creature_ability:
 - Shift Mood
 - Whirling Hands
 creature_family: null
-description: "The [[DATABASE/plane/Plane of Metal|Plane of Metal]] can seem unpredictable\
-  \ to the point of cruelty, and capritellixes embody this perfectly. With a head\
-  \ formed of discs that each depict a portion of their face, a capritellix reshapes\
-  \ their personality with a quick whir.<br/><br/> Despite their different faces,\
-  \ each capritellix has a unified identity, with one memory and one name. Each mood\
-  \ that cycles through the pieces of their face is a massively amplified facet of\
-  \ their personality, rather than a completely different individual. The differences\
-  \ are subtle to most observers, but a capritellix can display numerous mood combinations\u2014\
-  typically 64 for one with four faces per disc or 125 for one with five faces per\
-  \ disc. No matter how much they change their face, however, capritellixes can't\
-  \ suppress their haughty ego or shake the ceaseless despair they feel.<br/><br/>\
-  \ The conflicting priorities of each mood within a capritellix make it difficult\
-  \ for any of these creatures to make long-term plans or form solid relationships.\
-  \ What one face builds up, another undermines, cursed all the while with full knowledge\
-  \ of the former intentions they will never fulfill and the well-laid plans they\
-  \ will abandon.<br/><br/><b><u>Recall Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]]\
-  \ , [[DATABASE/skill/Nature|Nature]] )</b>: DC 41<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 39<br/><b><u>Specific Lore</u></b>: DC 36"
 dexterity: '+8'
 element: Metal
 fly_speed: '60'

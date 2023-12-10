@@ -10,9 +10,6 @@ creature_ability:
 - Buck
 - Gallop
 creature_family: '[[DATABASE/monsterfamily/Horse|Horse]]'
-description: '<i>This entry did not have a separate description for the creature.</i><br/><br/><b><u>Recall
-  Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 15<br/><b><u>Unspecific
-  Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>: DC 10'
 dexterity: '+4'
 element: null
 fly_speed: null

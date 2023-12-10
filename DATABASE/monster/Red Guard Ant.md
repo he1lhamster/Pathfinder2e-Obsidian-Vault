@@ -14,16 +14,6 @@ creature_ability:
 - Red Ant Venom
 - Swarming Flank
 creature_family: '[[DATABASE/monsterfamily/Gigantic Ant|Gigantic Ant]]'
-description: 'The rank-and-file members of the ant colony are not much taller than
-  a shrunken hero but are much more massive, at the relative size of an ox. They are
-  somewhat intelligent but very focused, engaging in unquestioning toil if ordered
-  by higher-ranking ants. Red guard ants nearly always attack in groups but might
-  be encountered alone if, for example, ordered to perform solitary guard duty. They
-  typically spray acid before marching into melee, but only when doing so doesn''t
-  pose a risk to their allies and won''t jeopardize any other objective they''ve been
-  ordered to achieve.<br/><br/><b><u>Recall Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Nature|Nature]] )</b>: DC 39<br/><b><u>Unspecific Lore</u></b>:
-  DC 37<br/><b><u>Specific Lore</u></b>: DC 34'
 dexterity: '+4'
 element: null
 fly_speed: null

@@ -13,10 +13,6 @@ creature_ability:
 - Nowhere to Run
 - Painsight
 creature_family: '[[DATABASE/monsterfamily/Velstrac|Velstrac]]'
-description: 'Ephialtes velstracs are consummate and fearless hunters of the doomed
-  and the damned.<br/><br/><b><u>Recall Knowledge - Fiend</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 37<br/><b><u>Unspecific Lore</u></b>: DC 35<br/><b><u>Specific Lore</u></b>:
-  DC 32'
 dexterity: '+5'
 element: null
 fly_speed: '25'

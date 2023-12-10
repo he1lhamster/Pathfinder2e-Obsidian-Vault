@@ -10,13 +10,6 @@ creature_ability:
 - Consume Objects
 - Radiation Aura
 creature_family: '[[DATABASE/monsterfamily/Khefak|Khefak]]'
-description: 'Thasteron khefaks are alchemically enhanced versions of standard khefaks,
-  capable of converting the minerals they eat into thasteron. While thasteron remains
-  highly valuable as fuel and for specialized weapons, finding an experienced thasteron
-  khefak breeder is hard because the creatures become radioactive over time.<br/><br/><b><u>Recall
-  Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 20<br/><b><u>Unspecific Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>:
-  DC 15'
 dexterity: '+2'
 element: null
 fly_speed: null

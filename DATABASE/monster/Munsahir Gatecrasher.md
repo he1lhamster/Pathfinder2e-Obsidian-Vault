@@ -12,11 +12,6 @@ creature_ability:
 - Heat of the Forge
 - Self-Destruct
 creature_family: '[[DATABASE/monsterfamily/Munsahir|Munsahir]]'
-description: 'Typically members of the nobility, gatecrashers wear advanced power
-  armor.<br/><br/><b><u>Recall Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Nature|Nature]] )</b>: DC 19<br/><b><u>Recall Knowledge - Humanoid</u>
-  ( [[DATABASE/skill/Society|Society]] )</b>: DC 19<br/><b><u>Unspecific Lore</u></b>:
-  DC 17<br/><b><u>Specific Lore</u></b>: DC 14'
 dexterity: '+0'
 element: Fire
 fly_speed: null

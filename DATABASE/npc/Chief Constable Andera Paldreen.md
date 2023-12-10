@@ -1,65 +1,57 @@
 ﻿---
-ac: '31'
-alignment: N
+ac: '30'
+alignment: LN
 all_resistance: null
 burrow_speed: null
-charisma: '+2'
+charisma: '+5'
 climb_speed: null
-constitution: '+4'
+constitution: '+5'
 creature_ability:
-- Ancestry Feats
 - Attack of Opportunity
-- Class Abilities
-- Class Feats
-- Cleave
-- General Feats
-- Rage
-- Shake It Off
-- Skill Feats
-- Sudden Charge
-- Swipe
+- Call to Halt
+- Shrewd Eye
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 38<br/><b><u>Unspecific
-  Lore</u></b>: DC 36<br/><b><u>Specific Lore</u></b>: DC 33'
-dexterity: '+4'
+dexterity: '+0'
 element: null
 fly_speed: null
-fortitude: '+22'
-hp: '195'
-id: '2389'
+fortitude: '+21'
+hp: '175'
+id: '2024'
 immunity: null
-intelligence: '+0'
-land_speed: '35'
+intelligence: '+3'
+land_speed: '20'
 language:
 - '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Hallit|Hallit]]'
-level: '11'
-max_speed: '35'
-name: Amiri (Level 11)
-perception: '+16'
+- '[[DATABASE/language/Elven|Elven]]'
+- '[[DATABASE/language/Halfling|Halfling]]'
+level: '10'
+max_speed: '20'
+name: Andera Paldreen
+perception: '+21'
 rarity: Unique
-reflex: '+20'
+reflex: '+16'
 resistance: null
 rus_type_level: null
-sense:
-- (expert)
+sense: null
 size: Medium
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +17'
-- '[[DATABASE/skill/Athletics|Athletics]] +20'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +19'
-- '[[DATABASE/skill/Nature|Nature]] +14'
-- '[[DATABASE/skill/Survival|Survival]] +18'
-- '[[DATABASE/skill/Lore|Warfare Lore]] +13'
-source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
+- '[[DATABASE/skill/Athletics|Athletics]] +19'
+- '[[DATABASE/skill/Lore|CriminalLore]] +19'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +22'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +21'
+- '[[DATABASE/skill/Society|Society]] +19'
+- '[[DATABASE/skill/Survival|Survival]] +17'
+- '[[DATABASE/skill/Lore|Underworld Lore]] +19'
+source: '[[DATABASE/source/Pathfinder 152. Legacy of the Lost God|Pathfinder #152:
+  Legacy of the Lost God]]'
 speed:
-- 35 feet
+- 20 feet
 spell: null
-strength: '+5'
-strength_req: '5'
+strength: '+3'
+strength_req: '3'
 strongest_save:
 - Fortitude
+- Will
 swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
@@ -68,10 +60,10 @@ trait:
 type: Creature
 vision: null
 weakest_save:
-- Will
+- Reflex
 weakness: null
-will: '+17'
-wisdom: '+1'
+will: '+21'
+wisdom: '+5'
 
 ---
 # Chief Constable Andera Paldreen

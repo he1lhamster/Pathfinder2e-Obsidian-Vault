@@ -14,10 +14,6 @@ creature_ability:
 - Snatch
 - Wing Rebuff
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 50<br/><b><u>Unspecific Lore</u></b>: DC 48<br/><b><u>Specific Lore</u></b>:
-  DC 45'
 dexterity: '+6'
 element: null
 fly_speed: '80'

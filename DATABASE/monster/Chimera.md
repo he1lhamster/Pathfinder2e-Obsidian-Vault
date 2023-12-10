@@ -15,13 +15,6 @@ creature_ability:
 - Triple
 - Opportunity
 creature_family: null
-description: 'The chimera is the archetypal example of an unnatural monster made up
-  of a monstrous mix of wildly different component creatures: in this case, a lion,
-  a dragon, and a goat. Wild, hateful, and hungry, it tries to eat any creature it
-  sees, but sometimes a strong-willed master is able to compel a chimera to serve
-  as a guardian or even a mount.<br/><br/><b><u>Recall Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Nature|Nature]] )</b>: DC 26<br/><b><u>Unspecific Lore</u></b>:
-  DC 24<br/><b><u>Specific Lore</u></b>: DC 21'
 dexterity: '+2'
 element: null
 fly_speed: '40'

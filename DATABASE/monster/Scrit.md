@@ -11,17 +11,6 @@ creature_ability:
 - Nasty Ink
 - Smear Text
 creature_family: '[[DATABASE/monsterfamily/Gremlin|Gremlin]]'
-description: "Scrits are short, spindly gremlins with gray or beige leathery skin\
-  \ and a coat of smeared ink on their fingers. They make themselves the nightmare\
-  \ of many scribes and librarians, as they delight in nothing more than destroying\
-  \ books, scrolls, artwork, and other records or writing. The oils on a scrit's skin\
-  \ smears ink and renders text\u2014even magical writing\u2014 completely illegible.\
-  \ Once they have smeared every page of a book, scrits devour them whole, absorbing\
-  \ the contents the book used to hold. After eating books they find stupid or funny,\
-  \ scrits hold skits for other gremlins which mock the mortal authors for the amusement\
-  \ of the other fey.<br/><br/><b><u>Recall Knowledge - Fey</u> ( [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 16<br/><b><u>Unspecific Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>:\
-  \ DC 11"
 dexterity: '+3'
 element: null
 fly_speed: null

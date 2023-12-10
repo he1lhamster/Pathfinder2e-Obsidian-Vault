@@ -12,15 +12,6 @@ creature_ability:
 - Paralyzing Force
 - Soul Shriek
 creature_family: '[[DATABASE/monsterfamily/Aluum|Aluum]]'
-description: 'Aluum are metal and stone constructs created by the Pactmasters to aid
-  in maintaining order in Katapesh. Each aluum can be controlled by a magical aluum
-  charm, including the more powerful aluums that serve the favored agents of the Pactmasters
-  as guardians. One such aluum attends Usilket at all times, unless he passes his
-  [[DATABASE/equipment/Guardian Aluum Charm|guardian aluum charm]] to a PC to allow
-  them the protection the construct affords.<br/><br/><b><u>Recall Knowledge - Construct</u>
-  ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]] )</b>:
-  DC 33<br/><b><u>Unspecific Lore</u></b>: DC 31<br/><b><u>Specific Lore</u></b>:
-  DC 28'
 dexterity: '+4'
 element: null
 fly_speed: null

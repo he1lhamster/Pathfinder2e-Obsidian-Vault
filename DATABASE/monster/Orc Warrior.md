@@ -10,11 +10,6 @@ creature_ability:
 - Attack of Opportunity
 - Ferocity
 creature_family: '[[DATABASE/monsterfamily/Orc|Orc]]'
-description: "The typical orc warrior is a violent combatant familiar to many adventurers.\
-  \ Orc warriors fight for their clan, for riches, and\u2014 perhaps most of all\u2014\
-  for personal glory.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]\
-  \ )</b>: DC 15<br/><b><u>Unspecific Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>:\
-  \ DC 10"
 dexterity: '+2'
 element: null
 fly_speed: null

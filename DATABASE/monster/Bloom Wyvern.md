@@ -13,9 +13,6 @@ creature_ability:
 - Savage
 - Wyvern Poison
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Dragon</u> ( [[DATABASE/skill/Arcana|Arcana]] )</b>: DC 34<br/><b><u>Unspecific
-  Lore</u></b>: DC 32<br/><b><u>Specific Lore</u></b>: DC 29'
 dexterity: '+3'
 element: null
 fly_speed: '60'

@@ -13,21 +13,6 @@ creature_ability:
 - Nature's Infusion
 - Wild Empathy
 creature_family: null
-description: 'The mysterious blodeuwedds dwell in those parts of the world where the
-  boundaries between the [[DATABASE/plane/Material Plane|Material Plane]] and the
-  [[DATABASE/plane/First World|First World]] have worn thin, or around portals between
-  the two planes. Their link with such regions of the natural world is so strong that
-  it rivals the bond shared between [[DATABASE/monsterfamily/Nymph|nymphs]] and places
-  of great natural beauty, yet none would look upon a blodeuwedd and mistake them
-  for something as elegant as a nymph.<br/><br/>Although blodeuwedds share certain
-  traits with nymphs, their role as guardians of the pathways between this world and
-  the First World prevents them from forming as powerful a magical bond with the natural
-  world. Never truly a part of either reality yet forced to keep watch over both,
-  blodeuwedds tend to grow cynical and sharp-tongued toward any who would seek travel
-  from one realm to the other, regardless of their actual goals.<br/><br/><b><u>Recall
-  Knowledge - Fey</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 24<br/><b><u>Recall
-  Knowledge - Plant</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 24<br/><b><u>Unspecific
-  Lore</u></b>: DC 22<br/><b><u>Specific Lore</u></b>: DC 19'
 dexterity: '+5'
 element: null
 fly_speed: null

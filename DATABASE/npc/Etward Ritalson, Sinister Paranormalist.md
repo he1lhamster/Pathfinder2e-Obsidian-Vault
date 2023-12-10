@@ -1,69 +1,69 @@
 ﻿---
-ac: '18'
-alignment: N
+ac: '28'
+alignment: NE
 all_resistance: null
 burrow_speed: null
-charisma: '+3'
+charisma: '+2'
 climb_speed: null
-constitution: '+2'
-creature_ability: null
+constitution: '+1'
+creature_ability:
+- Dream Invasion
+- Infused Items
+- Nightmarish Attack
+- Use Occult Scrolls
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 30<br/><b><u>Unspecific
-  Lore</u></b>: DC 28<br/><b><u>Specific Lore</u></b>: DC 25'
-dexterity: '+1'
+dexterity: '+3'
 element: null
 fly_speed: null
-fortitude: '+11'
-hp: '60'
-id: '2379'
+fortitude: '+16'
+hp: '140'
+id: '2515'
 immunity: null
 intelligence: '+4'
 land_speed: '25'
 language:
+- '[[DATABASE/language/Aklo|Aklo]]'
 - '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Dwarven|Dwarven]]'
-- '[[DATABASE/language/Halfling|Halfling]]'
+- '[[DATABASE/language/Elven|Elven]]'
+- '[[DATABASE/language/Erutaki|Erutaki]]'
 - '[[DATABASE/language/Hallit|Hallit]]'
-- '[[DATABASE/language/Sylvan|Sylvan]]'
-level: '5'
+- '[[DATABASE/language/Varisian|Varisian]] ; [[DATABASE/monsterability/Telepathy|telepathy]]
+  30 feet'
+level: '9'
 max_speed: '25'
-name: Eobald
-perception: '+11'
+name: Etward Ritalson
+perception: '+18'
 rarity: Unique
-reflex: '+8'
+reflex: '+18'
 resistance: null
 rus_type_level: null
 sense: null
 size: Medium
 skill:
-- '[[DATABASE/skill/Lore|Academia Lore]] +13'
-- '[[DATABASE/skill/Arcana|Arcana]] +13'
-- '[[DATABASE/skill/Crafting|Crafting]] +11'
-- '[[DATABASE/skill/Nature|Nature]] +11'
-- '[[DATABASE/skill/Occultism|Occultism]] +13'
-- '[[DATABASE/skill/Performance|Performance]] +12'
-- '[[DATABASE/skill/Society|Society]] +11'
-source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
+- '[[DATABASE/skill/Lore|Academia Lore]] +19'
+- '[[DATABASE/skill/Arcana|Arcana]] +17'
+- '[[DATABASE/skill/Crafting|Crafting]] +19'
+- '[[DATABASE/skill/Deception|Deception]] +18'
+- '[[DATABASE/skill/Medicine|Medicine]] +20'
+- '[[DATABASE/skill/Occultism|Occultism]] +21'
+- '[[DATABASE/skill/Society|Society]] +19'
+- '[[DATABASE/skill/Survival|Survival]] +18'
+source: '[[DATABASE/source/Pathfinder 189. Dreamers of the Nameless Spires|Pathfinder
+  #189: Dreamers of the Nameless Spires]]'
 speed:
 - 25 feet
 spell:
-- '[[DATABASE/spell/Charm|Charm]]'
-- '[[DATABASE/spell/Dream Message|DreamMessage]]'
-- '[[DATABASE/spell/Electric Arc|Electric Arc]]'
-- '[[DATABASE/spell/Illusory Disguise|Illusory Disguise]]'
-- '[[DATABASE/spell/Illusory Object|Illusory Object]]'
-- '[[DATABASE/spell/Invisibility|Invisibility]]'
-- '[[DATABASE/spell/Light|Light]]'
-- '[[DATABASE/spell/Mage Hand|MageHand]]'
-- '[[DATABASE/spell/Mirror Image|Mirror Image]]'
-- '[[DATABASE/spell/Prestidigitation|Prestidigitation]]'
+- '[[DATABASE/spell/Daze|Daze]]'
+- '[[DATABASE/spell/Detect Magic|DetectMagic]]'
+- '[[DATABASE/spell/Dream Message|Dream Message]]'
+- '[[DATABASE/spell/Nightmare|Nightmare]]'
+- '[[DATABASE/spell/Phantasmal Killer|Phantasmal Killer]]'
 - '[[DATABASE/spell/Read Aura|Read Aura]]'
-- '[[DATABASE/spell/Secret Page|Secret Page]]'
-- '[[DATABASE/spell/Unseen Servant|Unseen Servant]]'
-- '[[DATABASE/spell/Warped Terrain|Warped Terrain]]'
-strength: '+0'
-strength_req: '0'
+- '[[DATABASE/spell/Telekinetic Haul|Telekinetic Haul]]'
+- '[[DATABASE/spell/Telekinetic Maneuver|Telekinetic Maneuver]]'
+- '[[DATABASE/spell/Telekinetic Projectile|TelekineticProjectile]]'
+strength: '+1'
+strength_req: '1'
 strongest_save:
 - Will
 swim_speed: null
@@ -74,10 +74,10 @@ trait:
 type: Creature
 vision: null
 weakest_save:
-- Reflex
+- Fortitude
 weakness: null
-will: '+13'
-wisdom: '+2'
+will: '+20'
+wisdom: '+3'
 
 ---
 # Etward Ritalson, Sinister Paranormalist

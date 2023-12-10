@@ -8,12 +8,6 @@ climb_speed: null
 constitution: '+3'
 creature_ability: null
 creature_family: '[[DATABASE/monsterfamily/Deep Gnome|Deep Gnome]]'
-description: 'Deep gnome rockwardens follow druidic teachings and commune with the
-  natural elemental influences and denizens of the Darklands. They know that not everything
-  that lives below ground is sinister and evil, but they also understand that all
-  primal spirits and entities must be respected.<br/><br/><b><u>Recall Knowledge -
-  Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 20<br/><b><u>Unspecific
-  Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>: DC 15'
 dexterity: '+2'
 element: null
 fly_speed: null

@@ -9,11 +9,6 @@ constitution: '+0'
 creature_ability:
 - Focused Thinker
 creature_family: '[[DATABASE/monsterfamily/Mystics|Mystics]]'
-description: 'Adepts have unlocked only the most minor occult mysteries of the universe.
-  A few are chosen by accomplished practitioners for further training. Others volunteer
-  to join a cabal by passing an initiation ritual.<br/><br/><b><u>Recall Knowledge
-  - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 13<br/><b><u>Unspecific
-  Lore</u></b>: DC 11<br/><b><u>Specific Lore</u></b>: DC 8'
 dexterity: '+2'
 element: null
 fly_speed: null

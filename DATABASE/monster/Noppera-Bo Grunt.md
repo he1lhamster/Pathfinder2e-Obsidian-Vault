@@ -11,10 +11,6 @@ creature_ability:
 - No Face
 - Sensitive Hearing
 creature_family: '[[DATABASE/monsterfamily/Noppera-Bo|Noppera-Bo]]'
-description: 'Noppera-bo grunts lack the social graces necessary to fully disguise
-  themselves with another person''s face.<br/><br/><b><u>Recall Knowledge - Aberration</u>
-  ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 16<br/><b><u>Unspecific Lore</u></b>:
-  DC 14<br/><b><u>Specific Lore</u></b>: DC 11'
 dexterity: '+2'
 element: null
 fly_speed: null

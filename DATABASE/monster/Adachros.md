@@ -12,17 +12,6 @@ creature_ability:
 - Splinter Sycophant
 - Thoughtsense
 creature_family: '[[DATABASE/monsterfamily/Ennosite|Ennosite]]'
-description: "When a nascent demiplane fails to coalesce, its quintessence sometimes\
-  \ collapses into an adachros, a dangerous entity that combines overwhelming mental\
-  \ potential with no exposure to alternate viewpoints. Some of these megalomaniacal\
-  \ beings are tyrants, creating illusory kingdoms populated by abducted creatures\
-  \ forced to validate the creator's views. A more altruistic adachros might seek\
-  \ out pupils to reeducate and advise\u2014though often without their consent\u2014\
-  while always pushing their students to accept whatever unique philosophy was involved\
-  \ in their creation. An adachros might abandon disciples who spurn them, but more\
-  \ often, they become a bitter enemy, intent on destroying the perceived heretics.<br/><br/><b><u>Recall\
-  \ Knowledge - Astral</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 33<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 31<br/><b><u>Specific Lore</u></b>: DC 28"
 dexterity: '+2'
 element: null
 fly_speed: '40'

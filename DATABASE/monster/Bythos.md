@@ -16,18 +16,6 @@ creature_ability:
 - ''
 - Temporal Strike
 creature_family: '[[DATABASE/monsterfamily/Aeon|Aeon]]'
-description: 'The bythos is a guardian of space and time, and at all times seeks out
-  those who misuse planar and temporal magic. A bythos is a roughly humanoid creature
-  with four arms and a body made of swirling clouds and mist. Despite its appearance,
-  its body feels like dry stone. A bythos seeks out paradoxes caused by irresponsible
-  planar or dimensional travelers and repairs breaches where the barriers between
-  planes have become thin or damaged. If the mortals responsible remain in the area
-  and cannot be convinced to cease their activities, the bythos has no qualms about
-  removing them. Using its ability to manipulate time, a bythos might cause an opponent
-  to quickly die of old age as time speeds up around them, or cause a target to disappear
-  from time and space.<br/><br/><b><u>Recall Knowledge - Monitor</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 37<br/><b><u>Unspecific Lore</u></b>: DC 35<br/><b><u>Specific Lore</u></b>:
-  DC 32'
 dexterity: '+4'
 element: null
 fly_speed: '35'

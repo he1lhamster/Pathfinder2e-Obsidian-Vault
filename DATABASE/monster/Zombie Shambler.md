@@ -10,9 +10,6 @@ creature_ability:
 - Jaws
 - Slow
 creature_family: '[[DATABASE/monsterfamily/Zombie|Zombie]]'
-description: 'A zombie shambler is a slow-moving horror dangerous in larger groups.<br/><br/><b><u>Recall
-  Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 13<br/><b><u>Unspecific
-  Lore</u></b>: DC 11<br/><b><u>Specific Lore</u></b>: DC 8'
 dexterity: '-2'
 element: null
 fly_speed: null

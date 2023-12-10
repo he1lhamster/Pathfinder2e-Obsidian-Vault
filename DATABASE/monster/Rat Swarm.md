@@ -10,13 +10,6 @@ creature_ability:
 - Filth Fever
 - Swarming Bites
 creature_family: '[[DATABASE/monsterfamily/Rat|Rat]]'
-description: "A swarm of rats can cause total chaos within a household or business.\
-  \ Contracting filth fever is all the easier when dozens of these agitated or hungry\
-  \ vermin gather to bite victims en masse, making rat-hunting a viable career in\
-  \ many parts of the world as desperate townspeople seek relief from the disease\u2019\
-  s spread.<br/><br/><b><u>Recall Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 15<br/><b><u>Unspecific Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>:\
-  \ DC 10"
 dexterity: '+3'
 element: null
 fly_speed: null

@@ -11,17 +11,6 @@ creature_ability:
 - Surprise Attack
 - You're Next
 creature_family: '[[DATABASE/monsterfamily/Downtrodden|Downtrodden]]'
-description: 'Most who end up in a jail, dungeon, or prison are just biding their
-  time until their imprisonment ends, trying to find ways to make it through interminable
-  days of boredom and deprivation. Some, however, may use their time on the inside
-  to strengthen their criminal connections. Using force and intimidation to gain status
-  among other prisoners, they create makeshift weapons to take down their enemies
-  and give them an edge if escape becomes possible. Even for prisoners who don''t
-  become involved in the world of prison politics, learning to stand up for themselves
-  and projecting an air of toughness can become essential for survival in a place
-  where people have little left to lose.<br/><br/><b><u>Recall Knowledge - Humanoid</u>
-  ( [[DATABASE/skill/Society|Society]] )</b>: DC 15<br/><b><u>Unspecific Lore</u></b>:
-  DC 13<br/><b><u>Specific Lore</u></b>: DC 10'
 dexterity: '+4'
 element: null
 fly_speed: null

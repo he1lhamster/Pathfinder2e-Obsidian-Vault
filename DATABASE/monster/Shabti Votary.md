@@ -13,12 +13,6 @@ creature_ability:
 - Gird in Prayer
 - Immortal
 creature_family: '[[DATABASE/monsterfamily/Shabti|Shabti]]'
-description: 'Shabti votaries are devout clerics of [[DATABASE/deity/Pharasma|Pharasma]]
-  who heal and protect their allies while destroying enemies of their faith. Although
-  shabti votaries focus primarily on destroying [[DATABASE/trait/Undead|undead]] ,
-  they remain a potent enemy against living foes.<br/><br/><b><u>Recall Knowledge
-  - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 40<br/><b><u>Unspecific
-  Lore</u></b>: DC 38<br/><b><u>Specific Lore</u></b>: DC 35'
 dexterity: '+1'
 element: null
 fly_speed: null

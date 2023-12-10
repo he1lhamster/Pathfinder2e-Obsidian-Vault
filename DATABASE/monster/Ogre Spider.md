@@ -12,13 +12,6 @@ creature_ability:
 - Web Sense
 - Web Trap
 creature_family: '[[DATABASE/monsterfamily/Spider|Spider]]'
-description: 'These terrifying creatures grow as large as elephants. The placement
-  of their eyes above their wide mandibles evokes the grimacing visage of an ogre''s
-  leer. [[DATABASE/monsterfamily/Ogre|Ogres]] themselves find the appearance of ogre
-  spider faces simultaneously amusing and adorable, but in most cases, ogres'' attempts
-  to keep these spiders as pets result in dead ogres and well-fed spiders.<br/><br/><b><u>Recall
-  Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 20<br/><b><u>Unspecific
-  Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>: DC 15'
 dexterity: '+4'
 element: null
 fly_speed: null

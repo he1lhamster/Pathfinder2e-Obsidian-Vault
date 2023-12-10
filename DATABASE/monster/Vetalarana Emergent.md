@@ -10,15 +10,6 @@ creature_ability:
 - Anticipatory Attack
 - Drain Thoughts
 creature_family: '[[DATABASE/monsterfamily/Vampire, Vetalarana|Vampire, Vetalarana]]'
-description: 'A vetalarana emergent is inexperienced and ravenous, often caring more
-  for the consumption of thoughts than the quality of the thoughts and memories consumed.
-  These undead gluttons gorge themselves on memories, leaving a crowd of addled and
-  terrified victims in their wake.<br/><br/> Experienced emergents are cannier than
-  their newly risen kin, stalking their chosen victims and being sure to abduct, kill,
-  or render their victims comatose after draining their memories to ensure no witnesses
-  remain to reveal the presence of a vetalarana.<br/><br/><b><u>Recall Knowledge -
-  Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 24<br/><b><u>Unspecific
-  Lore</u></b>: DC 22<br/><b><u>Specific Lore</u></b>: DC 19'
 dexterity: '+5'
 element: null
 fly_speed: null

@@ -11,17 +11,6 @@ creature_ability:
 - Water Healing
 - Wild Empathy
 creature_family: '[[DATABASE/monsterfamily/Nymph|Nymph]]'
-description: "Naiads protect streams, ponds, springs, and other natural bodies of\
-  \ fresh water. While most naiads lead solitary lives close to their chosen ward,\
-  \ sometimes these nymphs congregate in coven-like groups where river tributaries\
-  \ meet, performing great magic and blessing the waters of the land. Because naiads\u2019\
-  \ bonds to their bodies of water permit more flexibility, they are the nymphs most\
-  \ likely to interact with humanoids and even visit their settlements on occasion.\
-  \ Unlike other nymphs, naiads occasionally become adventurers, especially when dark\
-  \ forces seek to despoil nature or otherwise threaten the land, joining forces with\
-  \ others to prevent the corruption of nature.<br/><br/><b><u>Recall Knowledge -\
-  \ Fey</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 15<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 13<br/><b><u>Specific Lore</u></b>: DC 10"
 dexterity: '+3'
 element: Water
 fly_speed: null

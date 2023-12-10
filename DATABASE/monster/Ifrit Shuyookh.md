@@ -14,13 +14,6 @@ creature_ability:
 - Heat of Blazing Wings
 - Pedantic Wish
 creature_family: '[[DATABASE/monsterfamily/Genie|Genie]]'
-description: 'The leaders and luminaries of ifrits come from the wise but cruel shuyookhs.
-  These spiteful manipulators lord their might over other genies and twist mortal
-  greed into grief. Ifrit shuyookhs guide the Dominion of Flame with their vicious
-  whims and unwavering belief in ifrit supremacy.<br/><br/><b><u>Recall Knowledge
-  - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 37<br/><b><u>Unspecific Lore</u></b>: DC 35<br/><b><u>Specific Lore</u></b>:
-  DC 32'
 dexterity: '+4'
 element: Fire
 fly_speed: '35'

@@ -11,9 +11,6 @@ creature_ability:
 - Intimidating Attack of Opportunity
 - Light Blindness
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 42<br/><b><u>Unspecific
-  Lore</u></b>: DC 40<br/><b><u>Specific Lore</u></b>: DC 37'
 dexterity: '+4'
 element: null
 fly_speed: null

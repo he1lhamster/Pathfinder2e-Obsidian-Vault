@@ -14,14 +14,6 @@ creature_ability:
 - Reconstitution
 - Spirit Body
 creature_family: '[[DATABASE/monsterfamily/Guardian Beast|Guardian Beast]]'
-description: 'Stone lions are a common sight outside of banks, temples, palaces, and
-  even private residences. The fierce expressions affixed on their faces remind passersby
-  to stay on their best behavior. <br/><br/>Stone lions remain faithful guardians
-  of a site, regardless of whether it falls into disrepair. Even if people abandon
-  a place, the lion remains dutiful until its statue is too worn or broken to inhabit
-  any longer.<br/><br/><b><u>Recall Knowledge - Celestial</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 21<br/><b><u>Unspecific Lore</u></b>: DC 19<br/><b><u>Specific Lore</u></b>:
-  DC 16'
 dexterity: '+3'
 element: null
 fly_speed: '40'

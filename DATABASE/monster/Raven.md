@@ -9,15 +9,6 @@ constitution: '+0'
 creature_ability:
 - Cunning
 creature_family: '[[DATABASE/monsterfamily/Raven|Raven]]'
-description: 'These omnivorous birds are cunning and opportunistic scavengers. Capable
-  of solving simple puzzles in order to retrieve desired items, ravens gather at the
-  periphery of civilization, raiding it as needed when they are not hunting in the
-  wilds. Whether singularly, in pairs, or as a flock, ravens live off scraps as often
-  as they do carrion or prey. They are also unusually social among their own kind,
-  even alerting other ravens to large carcasses with loud, croaking cries; it is rumored
-  that this extends between flocks as well.<br/><br/><b><u>Recall Knowledge - Animal</u>
-  ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 13<br/><b><u>Unspecific Lore</u></b>:
-  DC 11<br/><b><u>Specific Lore</u></b>: DC 8'
 dexterity: '+3'
 element: null
 fly_speed: '40'

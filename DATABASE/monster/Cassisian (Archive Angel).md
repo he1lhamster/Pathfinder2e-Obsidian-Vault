@@ -1,74 +1,75 @@
 ﻿---
-ac: '22'
-alignment: null
+ac: '18'
+alignment: NG
 all_resistance: null
 burrow_speed: null
-charisma: '+2'
+charisma: '+1'
 climb_speed: null
-constitution: '+3'
+constitution: '+2'
 creature_ability:
-- Dig In
-- Top-Heavy
-creature_family: '[[DATABASE/monsterfamily/Elemental, Wood|Elemental, Wood]]'
-description: 'An untold number of stumps carved into roughly hewn animal shapes roam
-  the [[DATABASE/plane/Plane of Wood|Plane of Wood]] . The statue portion of these
-  carved beasts is incapable of articulated movement, though the living wood at their
-  base is fully animate. When left to their own devices, carved beasts prefer to roughly
-  mimic the behaviors of the animals they resemble, like children playing with inarticulate
-  toys.<br/><br/><b><u>Recall Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Nature|Nature]] )</b>: DC 22<br/><b><u>Recall Knowledge - Plant</u>
-  ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 22<br/><b><u>Unspecific Lore</u></b>:
-  DC 20<br/><b><u>Specific Lore</u></b>: DC 17'
-dexterity: '+4'
-element: Wood
+- Change Shape
+- Eye Beams
+- Repository of Lore
+- Transfer Protection
+creature_family: '[[DATABASE/monsterfamily/Angel|Angel]]'
+dexterity: '+1'
+element: null
 fly_speed: null
-fortitude: '+13'
+fortitude: '+7'
 hardness: null
-hp: '92'
-id: '2675'
-immunity:
-- bleed
-- '[[DATABASE/condition/Paralyzed|paralyzed]]'
-- '[[DATABASE/trait/Poison|poison]]'
-- '[[DATABASE/trait/Sleep|sleep]]'
-intelligence: '+0'
-land_speed: '25'
-language: null
-level: '6'
-max_speed: '25'
-name: Carved Beast
-perception: '+16'
+hp: '20'
+id: '13'
+immunity: null
+intelligence: '-1'
+land_speed: '40'
+language:
+- '[[DATABASE/language/Celestial|Celestial]]'
+- '[[DATABASE/language/Common|Common]]'
+- '[[DATABASE/language/Draconic|Draconic]]'
+- '[[DATABASE/language/Infernal|Infernal]]'
+level: '1'
+max_speed: '40'
+name: Cassisian
+perception: '+6'
 rarity: Common
-reflex: '+9'
-resistance: null
+reflex: '+6'
+resistance:
+- '[[DATABASE/trait/Cold|cold]] 3'
+- '[[DATABASE/trait/Fire|fire]] 3'
 rus_type_level: null
 school: null
-sense: null
-size: Medium
+sense:
+- darkvision
+size: Tiny
 skill:
-- '[[DATABASE/skill/Nature|Nature]] +15'
-- '[[DATABASE/skill/Stealth|Stealth]] +16'
-source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +6'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +6'
+- '[[DATABASE/skill/Religion|Religion]] +6'
+- '[[DATABASE/skill/Stealth|Stealth]] +6'
+source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
-- 25 feet
-spell: null
-strength: '+2'
-strength_req: '2'
+- Fly 40 feet
+spell:
+- '[[DATABASE/spell/Detect Alignment|Detect Alignment]]'
+- '[[DATABASE/spell/Heal|Heal]]'
+- '[[DATABASE/spell/Know Direction|Know Direction]]'
+- '[[DATABASE/spell/Light|Light]]'
+- '[[DATABASE/spell/Read Omens|ReadOmens]]'
+strength: '-1'
+strength_req: '-1'
 strongest_save:
-- Will
+- Fortitude
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Elemental|Elemental]]'
-- '[[DATABASE/trait/Plant|Plant]]'
-- '[[DATABASE/trait/Wood|Wood]]'
+- '[[DATABASE/trait/Angel|Angel]]'
+- '[[DATABASE/trait/Celestial|Celestial]]'
 type: Creature
-vision: null
+vision: Darkvision
 weakest_save:
-- Reflex
+- Will
 weakness:
-- '[[DATABASE/weapongroup/Axe|axes]] 5'
-- '[[DATABASE/trait/Fire|fire]] 10'
-will: '+17'
+- evil 3
+will: '+4'
 wisdom: '+1'
 
 ---

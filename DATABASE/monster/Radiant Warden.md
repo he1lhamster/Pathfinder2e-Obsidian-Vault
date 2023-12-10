@@ -12,17 +12,6 @@ creature_ability:
 - Radiant Blast
 - Radiant Blow
 creature_family: null
-description: 'The enigmatic and strange radiant wardens were constructed thousands
-  of years ago to protect observatories and scholars against the incursion of alien
-  aggressors from the Dominion of the Black. Over time, their roles as guardians expanded
-  to include watching over any region where the laws of time and space have worn thin,
-  particularly near portals and permanent gates between planets, planes, or dimensions.<br/><br/>
-  Named for both the radial nature of the concentric rings that make up their bodies
-  as well as the glowing radiance of their attacks, radiant wardens carry on their
-  orders, defending sites from invasion with single-minded purpose.<br/><br/><b><u>Recall
-  Knowledge - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]]
-  )</b>: DC 38<br/><b><u>Unspecific Lore</u></b>: DC 36<br/><b><u>Specific Lore</u></b>:
-  DC 33'
 dexterity: '+6'
 element: null
 fly_speed: '30'

@@ -12,17 +12,6 @@ creature_ability:
 - Shell Defense
 - Swallow Whole
 creature_family: '[[DATABASE/monsterfamily/Turtle|Turtle]]'
-description: 'If the regular-sized snapping turtle is foul-tempered, then the giant
-  snapping turtle seems to be willfully violent toward anything that dares intrude
-  upon its domain. Measuring over 20 feet long and weighing thousands of pounds, this
-  creature is capable of swallowing a humanoid whole. Swamp-dwelling societies, particularly
-  [[DATABASE/monsterfamily/Boggard|boggards]] and [[DATABASE/monsterfamily/Lizardfolk|lizardfolk]]
-  , have often tried to domesticate giant snapping turtles to serve as powerful guardians,
-  but in most cases the casualties pile up quickly. Those unfortunate enough to be
-  swallowed whole by a giant snapping turtle find that even the creature''s stomach
-  is somewhat armored, making it difficult to cut through.<br/><br/><b><u>Recall Knowledge
-  - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 26<br/><b><u>Unspecific
-  Lore</u></b>: DC 24<br/><b><u>Specific Lore</u></b>: DC 21'
 dexterity: '+0'
 element: null
 fly_speed: null

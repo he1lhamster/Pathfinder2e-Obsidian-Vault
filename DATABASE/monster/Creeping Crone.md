@@ -12,15 +12,6 @@ creature_ability:
 - Stick Support
 - Walking Stick
 creature_family: null
-description: 'Hags are neither immortal nor unageing; if not slain by an enemy, a
-  hag eventually succumbs to old age. A hag who dies in agony or rage can rise again
-  as a [[DATABASE/monster/Witchfire|witchfire]] , while those who die of old age might
-  rise again as an undead creature known as a creeping crone. A creeping crone has
-  lost far more than her life; they can''t form or join covens, denying them one of
-  a living hag''s most distinguishing abilities. This inability, more than their rotting
-  bodies or hunger for flesh, makes creeping crones exiled among their former kin.<br/><br/><b><u>Recall
-  Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 33<br/><b><u>Unspecific
-  Lore</u></b>: DC 31<br/><b><u>Specific Lore</u></b>: DC 28'
 dexterity: '+3'
 element: null
 fly_speed: null

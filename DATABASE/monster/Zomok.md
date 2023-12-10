@@ -12,17 +12,6 @@ creature_ability:
 - Swallow Whole
 - Trample
 creature_family: null
-description: 'Mighty plant-dragons, zomoks prowl the woodlands, defending their homes
-  from destructive forces while healing and restoring the woods following natural
-  disasters and ravaging intruders. Zomoks vary in appearance with the seasons, growing
-  verdant green in the spring and summer, changing to autumnal colors in the fall,
-  and decaying to brown in winter. While zomoks can and often do swallow their foes,
-  they have no real need to eat. Any creature they gulp down is typically left behind
-  as a mangled corpse the next time the zomok travels via their Forest Step ability.
-  Zomoks reach 35 to 40 feet in length and weigh 30 tons.<br/><br/><b><u>Recall Knowledge
-  - Dragon</u> ( [[DATABASE/skill/Arcana|Arcana]] )</b>: DC 35<br/><b><u>Recall Knowledge
-  - Plant</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 35<br/><b><u>Unspecific
-  Lore</u></b>: DC 33<br/><b><u>Specific Lore</u></b>: DC 30'
 dexterity: '+5'
 element: null
 fly_speed: '80'

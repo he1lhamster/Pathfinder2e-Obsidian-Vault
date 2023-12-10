@@ -1,74 +1,94 @@
 ﻿---
-ac: '27'
-alignment: NE
+ac: '40'
+alignment: N
 all_resistance: null
 burrow_speed: null
-charisma: '-1'
+charisma: '+9'
 climb_speed: null
-constitution: '+6'
+constitution: '+2'
 creature_ability:
-- Consume Flesh
-- Ghast Fever
-- Mauler
-- Paralysis
-- Stench
+- Counterattack
+- Multiple Reactions
+- Shadow Gate
+- Shadow Shift
+- Slip
+- Swift Steps
+- Tenebral Form
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 36<br/><b><u>Unspecific
-  Lore</u></b>: DC 34<br/><b><u>Specific Lore</u></b>: DC 31'
-dexterity: '+1'
+dexterity: '+9'
 element: null
-fly_speed: null
-fortitude: '+19'
+fly_speed: '35'
+fortitude: '+25'
 hardness: null
-hp: 135 ( negative healing )
-id: '1556'
+hp: '285'
+id: '2417'
 immunity:
-- '[[DATABASE/trait/Death|death]] effects'
-- '[[DATABASE/trait/Disease|disease]]'
-- '[[DATABASE/condition/Paralyzed|paralyzed]]'
-- '[[DATABASE/trait/Poison|poison]]'
-- '[[DATABASE/condition/Unconscious|unconscious]]'
-intelligence: '-4'
-land_speed: '35'
-language: null
-level: '9'
+- precision
+intelligence: '+7'
+land_speed: '25'
+language:
+- '[[DATABASE/language/Aklo|Aklo]]'
+- '[[DATABASE/language/Common|Common]]'
+- '[[DATABASE/language/Necril|Necril]]'
+- '[[DATABASE/language/Shae|Shae]]'
+- '[[DATABASE/language/Undercommon|Undercommon]]'
+level: '17'
 max_speed: '35'
-name: Ghastly Bear
-perception: '+16'
+name: Ghiasi The Unraveler
+perception: '+34'
 rarity: Unique
-reflex: '+14'
-resistance: null
+reflex: '+34'
+resistance:
+- '[[DATABASE/trait/Cold|cold]] 15'
+- '[[DATABASE/trait/Negative|negative]] 15'
 rus_type_level: null
 school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
-- '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
-size: Large
+size: Medium
 skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +19'
-- '[[DATABASE/skill/Survival|Survival]] +14'
-source: '[[DATABASE/source/Pathfinder 147. Tomorrow Must Burn|Pathfinder #147: Tomorrow
-  Must Burn]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +30'
+- '[[DATABASE/skill/Deception|Deception]] +34'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +32'
+- '[[DATABASE/skill/Occultism|Occultism]] +30'
+- '[[DATABASE/skill/Performance|Performance]] +32'
+- '[[DATABASE/skill/Lore|Shadow Plane Lore]] +30'
+- '[[DATABASE/skill/Society|Society]] +32'
+- '[[DATABASE/skill/Stealth|Stealth]] +30'
+source: '[[DATABASE/source/Pathfinder 185. A Taste of Ashes|Pathfinder #185: A Taste
+  of Ashes]]'
 speed:
-- 35 feet
-spell: null
-strength: '+6'
-strength_req: '6'
+- 25 feet
+- fly 35 feet; swift steps
+- tenebral form
+spell:
+- '[[DATABASE/spell/Chill Touch|Chill Touch]]'
+- '[[DATABASE/spell/Daze|Daze]]'
+- '[[DATABASE/spell/Detect Magic|Detect Magic]]'
+- '[[DATABASE/spell/Gaseous Form|Gaseous Form]]'
+- '[[DATABASE/spell/Glibness|Glibness]]'
+- '[[DATABASE/spell/Overwhelming Presence|Overwhelming Presence]]'
+- '[[DATABASE/spell/Plane Shift|Plane Shift]]'
+- '[[DATABASE/spell/Prying Eye|Prying Eye]]'
+- '[[DATABASE/spell/Shadow Blast|Shadow Blast]]'
+- '[[DATABASE/spell/Uncontrollable Dance|Uncontrollable Dance]]'
+- '[[DATABASE/spell/Unrelenting Observation|Unrelenting Observation]]'
+- '[[DATABASE/spell/Weird|Weird]]'
+strength: '+5'
+strength_req: '5'
 strongest_save:
-- Fortitude
+- Reflex
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Ghoul|Ghoul]]'
-- '[[DATABASE/trait/Undead|Undead]]'
+- '[[DATABASE/trait/Shadow|Shadow]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
 vision: Darkvision
 weakest_save:
-- Reflex
+- Fortitude
 weakness: null
-will: '+16'
-wisdom: '+1'
+will: '+29'
+wisdom: '+6'
 
 ---
 # Ghiasi The Unraveler, Smuggler Turned Diva

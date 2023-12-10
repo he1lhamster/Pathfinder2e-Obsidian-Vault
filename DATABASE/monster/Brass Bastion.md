@@ -11,30 +11,6 @@ creature_ability:
 - Heat Weapon
 - Molten Demise
 creature_family: null
-description: "Brass bastions are formidable sentinels crafted from elemental fire\
-  \ and extraplanar brass. While they can be shaped into many forms, most depict muscular\
-  \ warriors with curving horns and stern or taunting expressions. Within each brass\
-  \ shell is a raging inferno\u2014the source of its ceaseless heat. Though ifrits\
-  \ originally created brass bastions to act as servants and guards, the knowledge\
-  \ of how to craft them has spread throughout the [[DATABASE/plane/Plane of Fire|Plane\
-  \ of Fire]] . They can even be found on the [[DATABASE/plane/Plane of Earth|Plane\
-  \ of Earth]] thanks to interplanar trade. In Medina Mudii'a, brass bastions walk\
-  \ the streets, tend shops, and stand guard. Bespoke brass bastions are passed down\
-  \ as family heirlooms or gifted to business partners and allies. Scions of the wealthiest\
-  \ ifrit lineages never travel without a train of brass bastions clad in family livery.\
-  \ Destroying a rival ifrit's brass bastion is a quick way to erode their political\
-  \ status, though anyone caught performing such sabotage faces swift retribution.<br/><br/>\
-  \ Most brass bastions prominently display the sigil of their owner or maker, though\
-  \ magical methods can also determine who crafted a specific construct. Brass bastions\
-  \ forged by favored artisans are a status symbol in many ifrit communities. Ifrits\
-  \ consider a brass bastion crafted by a non-ifrit to be inherently inferior, barely\
-  \ worth the cost of its materials. Brass bastions obey magical programming imprinted\
-  \ at the time of their creation or follow commands from their owners. Most can't\
-  \ speak, but a few have magical voices and can parrot simple phrases, recite poetry,\
-  \ or tell bedtime stories at the crafter's fancy.<br/><br/><b><u>Recall Knowledge\
-  \ - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]]\
-  \ )</b>: DC 37<br/><b><u>Unspecific Lore</u></b>: DC 35<br/><b><u>Specific Lore</u></b>:\
-  \ DC 32"
 dexterity: '+0'
 element: Fire
 fly_speed: null

@@ -1,88 +1,85 @@
 ﻿---
-ac: '39'
-alignment: LE
+ac: '24'
+alignment: CG
 all_resistance: null
 burrow_speed: null
-charisma: '+4'
+charisma: '+5'
 climb_speed: null
-constitution: '+3'
+constitution: '+2'
 creature_ability:
-- Attack of Opportunity
-- Claim Trophy
-- Huntblade Brutality
-- Hunter's Triumph
-- Whip Drain
-creature_family: null
-description: 'Sumbreivas are the [[DATABASE/plane/Negative Energy Plane|Negative Energy
-  Plane''s]] unstoppable hunters, tracking down and destroying other creatures on
-  their plane for sport and practice. Occasionally they pass through a rift or are
-  brought to the [[DATABASE/plane/Material Plane|Material Plane]] via [[DATABASE/ritual/Planar
-  Binding|planar binding]] , where they collect living souls to display as trophies.<br/><br/>
-  Sumbreivas gather at Night Lodges, where they train and display their soul trophies,
-  which appear as floating wisps of blue energy. The more formidable the soul, the
-  more intense the blue glow that emanates from it. Sumbreivas in lodges periodically
-  raid the Material Plane on a Night Hunt. Over the course of one night, the sumbreivas
-  from that lodge split up and compete to see who can capture the most brilliant souls
-  as trophies. The winner of the Night Hunt leads the lodge until the next hunt.<br/><br/>
-  Night Lodges are ranked against each other by the accomplishments of the hunters
-  within. All sumbreivas have the ultimate goal of capturing a soul worthy of being
-  placed in the Twilight Lodge, reserved for the truly elite souls and hunters.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 35<br/><b><u>Unspecific
-  Lore</u></b>: DC 33<br/><b><u>Specific Lore</u></b>: DC 30'
-dexterity: '+9'
+- Solstice Dependent
+- Summer Bound
+- Summer's Salvation
+creature_family: '[[DATABASE/monsterfamily/Nymph|Nymph]]'
+dexterity: '+5'
 element: null
 fly_speed: null
-fortitude: '+25'
+fortitude: '+11'
 hardness: null
-hp: 290 ( negative healing )
-id: '1329'
-immunity:
-- '[[DATABASE/trait/Death|death]] effects'
-- '[[DATABASE/condition/Drained|drained]]'
-intelligence: '+6'
-land_speed: '50'
+hp: '90'
+id: '1813'
+immunity: null
+intelligence: '+3'
+land_speed: '25'
 language:
-- '[[DATABASE/language/Aklo|Aklo]]'
-- '[[DATABASE/language/Necril|Necril]]'
-level: '16'
-max_speed: '50'
-name: Sumbreiva
-perception: '+29'
-rarity: Common
-reflex: '+33'
-resistance: null
+- '[[DATABASE/language/Common|Common]]'
+- '[[DATABASE/language/Elven|Elven]]'
+- '[[DATABASE/language/Sylvan|Sylvan]] ; [[DATABASE/spell/Speak with Animals|speak
+  with animals]]'
+- '[[DATABASE/spell/Speak with Plants|speak with plants]]'
+level: '6'
+max_speed: '25'
+name: Summer Hora
+perception: '+14'
+rarity: Rare
+reflex: '+14'
+resistance:
+- '[[DATABASE/trait/Fire|fire]] 5'
 rus_type_level: null
 school: null
 sense:
-- '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
-- '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
-size: Large
+- '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
+size: Medium
 skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +32'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +30'
-- '[[DATABASE/skill/Stealth|Stealth]] +35'
-- '[[DATABASE/skill/Survival|Survival]] +29'
-source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +13'
+- '[[DATABASE/skill/Lore|Astronomy Lore]] +15'
+- '[[DATABASE/skill/Athletics|Athletics]] +11'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +13'
+- '[[DATABASE/skill/Nature|Nature]] +14'
+- '[[DATABASE/skill/Stealth|Stealth]] +15'
+- '[[DATABASE/skill/Survival|Survival]] +14'
+source: '[[DATABASE/source/Pathfinder 177. Burning Tundra|Pathfinder #177: Burning
+  Tundra]]'
 speed:
-- 50 feet
+- 25 feet
 spell:
-- '[[DATABASE/spell/Darkness|Darkness]]'
-- '[[DATABASE/spell/Earthbind|Earthbind]]'
-strength: '+8'
-strength_req: '8'
+- '[[DATABASE/spell/Alarm|Alarm]]'
+- '[[DATABASE/spell/Animal Messenger|AnimalMessenger]]'
+- '[[DATABASE/spell/Animal Vision|Animal Vision]]'
+- '[[DATABASE/spell/Curse of Lost Time|Curse of Lost Time]]'
+- '[[DATABASE/spell/Faerie Fire|Faerie Fire]]'
+- '[[DATABASE/spell/Know Direction|Know Direction]]'
+- '[[DATABASE/spell/Light|Light]]'
+- '[[DATABASE/spell/Pass Without Trace|PassWithout Trace]]'
+- '[[DATABASE/spell/Speak with Animals|Speak with Animals]]'
+- '[[DATABASE/spell/Speak with Plants|Speak with Plants]]'
+strength: '+1'
+strength_req: '1'
 strongest_save:
-- Reflex
+- Will
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Humanoid|Humanoid]]'
-- '[[DATABASE/trait/Negative|Negative]]'
+- '[[DATABASE/trait/Fey|Fey]]'
+- '[[DATABASE/trait/Nymph|Nymph]]'
+- '[[DATABASE/trait/Rare|Rare]]'
 type: Creature
-vision: Greater darkvision
+vision: Low-light vision
 weakest_save:
 - Fortitude
-weakness: null
-will: '+27'
-wisdom: '+5'
+weakness:
+- '[[DATABASE/equipment/Cold Iron Weapon|cold iron]] 5'
+will: '+17'
+wisdom: '+4'
 
 ---
 # Hora

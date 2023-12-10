@@ -12,12 +12,6 @@ creature_ability:
 - Rhinoceros Charge
 - Trample
 creature_family: '[[DATABASE/monsterfamily/Rhinoceros|Rhinoceros]]'
-description: 'Even bulkier than their non-woolly cousins, these rhinoceroses have
-  a shaggy pelt of long, thick fur and a huge crescent-shaped horn. Woolly rhinos
-  inhabit areas of arid tundra and cold steppes, spending much of their day grazing
-  for sustenance.<br/><br/><b><u>Recall Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 22<br/><b><u>Unspecific Lore</u></b>: DC 20<br/><b><u>Specific Lore</u></b>:
-  DC 17'
 dexterity: '+1'
 element: null
 fly_speed: null

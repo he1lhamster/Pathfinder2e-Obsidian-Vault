@@ -11,14 +11,6 @@ creature_ability:
 - Earth Glide
 - Glass Armor
 creature_family: '[[DATABASE/monsterfamily/Elemental, Earth|Elemental, Earth]]'
-description: "Shifting back and forth between a detailed likeness of a human and a\
-  \ muted and featureless bipedal form, this creature of pure sand moves with an eerie\
-  \ grace. The sand sentry is often called upon by spellcasters to stand guard over\
-  \ an area of great importance\u2014these elementals are patient participants in\
-  \ such roles, making them well suited for long-term service.<br/><br/><b><u>Recall\
-  \ Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 22<br/><b><u>Unspecific Lore</u></b>: DC 20<br/><b><u>Specific Lore</u></b>:\
-  \ DC 17"
 dexterity: '+2'
 element: Earth
 fly_speed: null

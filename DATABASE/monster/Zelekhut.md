@@ -11,24 +11,6 @@ creature_ability:
 - Double Attack
 - Truespeech
 creature_family: '[[DATABASE/monsterfamily/Aeon|Aeon]]'
-description: "A zelekhut is a bounty hunter and executioner. The zelekhut resembles\
-  \ a mechanical centaur crafted from silvery metal with golden clockwork wings adorning\
-  \ its back. Instead of hands, the zelekhut's arms end in long, barbed chains that\
-  \ crackle with electricity. Whether sent by the powers of Axis or summoned by mortal\
-  \ authorities, the zelekhut seeks out those who continually evade justice\u2014\
-  either through active flight, or by abusing their power and station\u2014so as to\
-  \ bring justice to the multiverse's most notorious fugitives and criminals. Indeed,\
-  \ many a zelekhut's quarry are as famous for their ability to evade capture as for\
-  \ the crimes they commit.<br/><br/>Though the zelekhut is implacable and unrelenting\
-  \ in enforcing sentences, it does not pass judgments of its own or take the initiative\
-  \ in pursuing targets of opportunity. While hunting a condemned serial killer or\
-  \ notorious thief across half a dozen planes, the zelekhut wouldn't shift a single\
-  \ hoof to capture a corrupt ruler whose offenses are far greater. All zelekhuts\
-  \ understand that laws can and must differ from place to place, and it is not the\
-  \ zelekhut's job to moralize, merely to obey its rightful assignments and track\
-  \ down those who seek to flee their punishment.<br/><br/><b><u>Recall Knowledge\
-  \ - Monitor</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 26<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 24<br/><b><u>Specific Lore</u></b>: DC 21"
 dexterity: '+5'
 element: null
 fly_speed: '40'

@@ -14,17 +14,6 @@ creature_ability:
 - Ferocity
 - Moon Frenzy
 creature_family: '[[DATABASE/monsterfamily/Werecreature|Werecreature]]'
-description: "Wereboars tend to be aggressive and stubborn, and often live with their\
-  \ own kind in small, remote communities. Even when they're inclined to interact\
-  \ with others, wereboars' short tempers and hostile nature lead other creatures\
-  \ to avoid them. Lone wereboars who settle down\u2014often on remote farms\u2014\
-  are extremely territorial, though others are content to roam and explore lands far\
-  \ from home. Their other habits also vary widely from individual to individual,\
-  \ right down to diet: some wereboars might feast on human flesh, while others are\
-  \ mostly vegetarian.<br/><br/><b><u>Recall Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]]\
-  \ , [[DATABASE/skill/Nature|Nature]] )</b>: DC 16<br/><b><u>Recall Knowledge - Humanoid</u>\
-  \ ( [[DATABASE/skill/Society|Society]] )</b>: DC 16<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 14<br/><b><u>Specific Lore</u></b>: DC 11"
 dexterity: '+1'
 element: null
 fly_speed: null

@@ -1,87 +1,91 @@
 ﻿---
-ac: '37'
-alignment: N
+ac: '39'
+alignment: NG
 all_resistance: null
 burrow_speed: null
-charisma: '+4'
+charisma: '+6'
 climb_speed: null
-constitution: '+8'
+constitution: '+6'
 creature_ability:
-- Aim as One
-- Form Up
-- Planar Step
-- Raise Shields
-- Strike as One
-- Troop Defenses
-- Troop Movement
-creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]]
-  )</b>: DC 39<br/><b><u>Unspecific Lore</u></b>: DC 37<br/><b><u>Specific Lore</u></b>:
-  DC 34'
-dexterity: '+4'
+- Aura of Righteousness
+- Blade of Justice
+- Change Shape
+- Holy Armaments
+creature_family: '[[DATABASE/monsterfamily/Angel|Angel]]'
+dexterity: '+3'
 element: null
-fly_speed: null
-fortitude: '+26'
+fly_speed: '60'
+fortitude: '+28'
 hardness: null
 hp: '300'
-id: '1470'
-immunity:
-- bleed
-- '[[DATABASE/trait/Death|death]] effects'
-- '[[DATABASE/trait/Disease|diseased]]'
-- '[[DATABASE/condition/Doomed|doomed]]'
-- '[[DATABASE/condition/Drained|drained]]'
-- '[[DATABASE/condition/Fatigued|fatigued]]'
-- '[[DATABASE/trait/Healing|healing]]'
-- '[[DATABASE/trait/Necromancy|necromancy]]'
-- '[[DATABASE/trait/Nonlethal|nonlethal]] attacks'
-- '[[DATABASE/condition/Paralyzed|paralyzed]]'
-- '[[DATABASE/trait/Poison|poison]]'
-- '[[DATABASE/condition/Sickened|sickened]]'
-- '[[DATABASE/condition/Unconscious|unconscious]]'
-intelligence: '+1'
+id: '544'
+immunity: null
+intelligence: '+5'
 land_speed: '25'
 language:
-- '[[DATABASE/language/Tien|Tien]] ; (can''t speak any language)'
-level: '15'
-max_speed: '25'
-name: Planar Terra-Cotta Squadron
-perception: '+24'
-rarity: Rare
-reflex: '+23'
+- '[[DATABASE/language/Celestial|Celestial]]'
+- '[[DATABASE/language/Draconic|Draconic]]'
+- '[[DATABASE/language/Infernal|Infernal]] ; [[DATABASE/spell/Tongues|tongues]]'
+level: '16'
+max_speed: '60'
+name: Planetar
+perception: '+28'
+rarity: Uncommon
+reflex: '+25'
 resistance: null
 rus_type_level: null
 school: null
-sense: null
-size: Medium
+sense:
+- (32 to detect illusions) [[DATABASE/monsterability/Darkvision|darkvision]]
+- '[[DATABASE/spell/True Seeing|true seeing]]'
+size: Large
 skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +18'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +20'
-source: '[[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #166:
-  Despair on Danger Island]]'
+- '[[DATABASE/skill/Athletics|Athletics]] +32'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +32'
+- '[[DATABASE/skill/Religion|Religion]] +32'
+source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 25 feet
-spell: null
+- fly 60 feet
+spell:
+- '[[DATABASE/spell/Blade Barrier|Blade Barrier]]'
+- '[[DATABASE/spell/Breath of Life|Breathof Life]]'
+- '[[DATABASE/spell/Charm|Charm]]'
+- '[[DATABASE/spell/Death Ward|Death Ward]]'
+- '[[DATABASE/spell/Detect Alignment|Detect Alignment]]'
+- '[[DATABASE/spell/Dispel Magic|Dispel Magic]]'
+- '[[DATABASE/spell/Divine Wrath|Divine Wrath]]'
+- '[[DATABASE/spell/Earthquake|Earthquake]]'
+- '[[DATABASE/spell/Freedom of Movement|Freedom of Movement]]'
+- '[[DATABASE/spell/Heal|Heal]]'
+- '[[DATABASE/spell/Invisibility|Invisibility]]'
+- '[[DATABASE/spell/Plane Shift|Plane Shift]]'
+- '[[DATABASE/spell/Power Word Blind|Power Word Blind]]'
+- '[[DATABASE/spell/Power Word Stun|Power Word Stun]]'
+- '[[DATABASE/spell/Remove Fear|Remove Fear]]'
+- '[[DATABASE/spell/Remove Paralysis|Remove Paralysis]]'
+- '[[DATABASE/spell/Restoration|Restoration]]'
+- '[[DATABASE/spell/Sunburst|Sunburst]]'
+- '[[DATABASE/spell/Tongues|Tongues]]'
+- '[[DATABASE/spell/True Seeing|True Seeing]]'
 strength: '+8'
 strength_req: '8'
 strongest_save:
 - Fortitude
+- Will
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Construct|Construct]]'
-- '[[DATABASE/trait/Rare|Rare]]'
-- '[[DATABASE/trait/Troop|Troop]]'
+- '[[DATABASE/trait/Angel|Angel]]'
+- '[[DATABASE/trait/Celestial|Celestial]]'
+- '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: null
+vision: Darkvision
 weakest_save:
 - Reflex
 weakness:
-- area damage 20
-- bludgeoning 15
-- '[[DATABASE/trait/Splash|splash]] damage 10'
-will: '+24'
-wisdom: '+3'
+- evil 15
+will: '+28'
+wisdom: '+6'
 
 ---
 # Planetar (Justice Angel)

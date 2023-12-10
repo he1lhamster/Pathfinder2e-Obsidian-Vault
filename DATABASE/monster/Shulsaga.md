@@ -14,23 +14,6 @@ creature_ability:
 - Rift Sense
 - Shield Block
 creature_family: '[[DATABASE/monsterfamily/Ennosite|Ennosite]]'
-description: "Shepherds of the Silver Sea, shulsagas patrol the [[DATABASE/plane/Astral\
-  \ Plane|Astral Plane]] to protect the nascent demiplanes that form there, warding\
-  \ off those who would usurp the demiplanes or despoil them with unwelcome philosophies.\
-  \ This guardianship extends to the Astral Plane as a whole, as shulsagas not only\
-  \ exile trespassers, but also seek out and close planar rifts. Especially egregious\
-  \ breaches rile these ennosites to the point of invasion, and shulsaga raiding parties\
-  \ often extend their attacks well beyond a portal to ensure the threat's utter destruction.\
-  \ Though often stern and standoffish, shulsagas occasionally befriend and recruit\
-  \ strangers to help them repair planar wounds and track down foes of the natural\
-  \ order.<br/><br/> Among ennosites, shulsagas are the most inclined to adopt and\
-  \ nurture iotons, forming small family units. Communities work together to instill\
-  \ enough culture and identity for these iotons to take on permanent forms\u2014\
-  those of adolescent shulsagas. Each shulsaga's gender reflects of their evolving\
-  \ identity, influenced in part by the blend of traits their communities imparted\
-  \ and their own thoughts.<br/><br/><b><u>Recall Knowledge - Astral</u> ( [[DATABASE/skill/Occultism|Occultism]]\
-  \ )</b>: DC 20<br/><b><u>Unspecific Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>:\
-  \ DC 15"
 dexterity: '+4'
 element: null
 fly_speed: '30'

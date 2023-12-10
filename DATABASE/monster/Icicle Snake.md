@@ -9,12 +9,6 @@ constitution: '+2'
 creature_ability:
 - Icicle
 creature_family: '[[DATABASE/monsterfamily/Elemental, Water|Elemental, Water]]'
-description: 'Translucent and capable of hanging suspended and near motionless, icicle
-  snakes sense the heat of living creatures as a threat and attempt to use their camouflage
-  and chilling bite against foes.<br/><br/><b><u>Recall Knowledge - Elemental</u>
-  ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]] )</b>: DC
-  16<br/><b><u>Unspecific Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>: DC
-  11'
 dexterity: '+3'
 element: Water
 fly_speed: null

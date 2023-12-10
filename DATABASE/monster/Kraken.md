@@ -14,13 +14,6 @@ creature_ability:
 - Jet
 - Kraken Ink
 creature_family: null
-description: 'A kraken is an enormous, squid-like leviathan with a cruel intelligence.
-  It hunts ships, whales, and heroes alike. The hatred and envy krakens hold for their
-  rivals, the alghollthus, has led many krakens to make their lairs in sunken cities,
-  where they can sift through ancient lore for long-lost arcane secrets.<br/><br/><b><u>Recall
-  Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 40<br/><b><u>Unspecific Lore</u></b>: DC 38<br/><b><u>Specific Lore</u></b>:
-  DC 35'
 dexterity: '+4'
 element: null
 fly_speed: null

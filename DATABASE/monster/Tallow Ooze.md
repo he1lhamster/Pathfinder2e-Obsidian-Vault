@@ -13,17 +13,6 @@ creature_ability:
 - Motion Sense
 - Residual Grease
 creature_family: '[[DATABASE/monsterfamily/Ooze|Ooze]]'
-description: 'Pale yellow and smelling of meat, this unnatural, globular monster is
-  composed entirely of rendered animal fat. A tallow ooze typically results from magical
-  mishaps during the creation of enchanted candles or soaps, or while rendering the
-  fat of a magical beast, though occasionally spellcasters create these beings intentionally.<br/><br/>
-  A tallow ooze hunts other creatures to subsume them into its own body and absorb
-  their fat. Since tallow is solid at room temperature, tallow oozes must metabolize
-  their own bodies to produce enough heat to remain gelatinous. A tallow ooze that
-  cannot replenish itself with absorbed fat will either consume itself or solidify,
-  though a tallow ooze exposed to too much heat might melt entirely.<br/><br/><b><u>Recall
-  Knowledge - Ooze</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 28<br/><b><u>Unspecific
-  Lore</u></b>: DC 26<br/><b><u>Specific Lore</u></b>: DC 23'
 dexterity: '-5'
 element: null
 fly_speed: null

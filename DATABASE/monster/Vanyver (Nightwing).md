@@ -1,91 +1,91 @@
 ﻿---
-ac: '27'
-alignment: N
+ac: '34'
+alignment: CE
 all_resistance: null
 burrow_speed: null
-charisma: '+2'
+charisma: '+5'
 climb_speed: null
-constitution: '+2'
+constitution: '+6'
 creature_ability:
-- Attack of Opportunity
-- Frightful Presence
-- Infuse Weapon
-- Spirit Touch
-- Vanth's Curse
-creature_family: '[[DATABASE/monsterfamily/Psychopomp|Psychopomp]]'
-description: 'Protecting the [[DATABASE/plane/Boneyard|Boneyard]] are the stern and
-  resolute guardians of the dead known as vanths, psychopomps who resemble skeletons
-  with raven-like wings and a mask resembling a vulture''s skull. Vanths carry black
-  scythes to fight against those who would disturb the natural progression of souls,
-  and they consider any visitor to the Boneyard a potential troublemaker. When the
-  psychopomp armies go to war, vanths serve as front-line soldiers. They rarely speak
-  and even more rarely show any emotion other than a grim adherence to duty.<br/><br/><b><u>Recall
-  Knowledge - Monitor</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 23<br/><b><u>Unspecific
-  Lore</u></b>: DC 21<br/><b><u>Specific Lore</u></b>: DC 18'
+- Catching Bite
+- Constrict
+- Drain Magic
+- Entropy's Shadow
+- Snatch
+- Sunlight Powerlessness
+creature_family: '[[DATABASE/monsterfamily/Darvakka|Darvakka]]'
 dexterity: '+4'
 element: null
-fly_speed: '40'
-fortitude: '+15'
+fly_speed: '60'
+fortitude: '+29'
 hardness: null
-hp: '105'
-id: '769'
+hp: 295 ( negative healing )
+id: '1848'
 immunity:
 - '[[DATABASE/trait/Death|death]] effects'
 - '[[DATABASE/trait/Disease|disease]]'
-intelligence: '+2'
+- '[[DATABASE/condition/Paralyzed|paralyzed]]'
+- '[[DATABASE/trait/Poison|poison]]'
+- '[[DATABASE/condition/Unconscious|unconscious]]'
+intelligence: '+4'
 land_speed: '25'
 language:
 - '[[DATABASE/language/Abyssal|Abyssal]]'
-- '[[DATABASE/language/Celestial|Celestial]]'
+- '[[DATABASE/language/Common|Common]]'
 - '[[DATABASE/language/Infernal|Infernal]]'
-- '[[DATABASE/language/Requian|Requian]]'
-level: '7'
-max_speed: '40'
-name: Vanth
-perception: '+15'
+- '[[DATABASE/language/Necril|Necril]] ; [[DATABASE/monsterability/Telepathy|telepathy]]
+  100 feet'
+level: '13'
+max_speed: '60'
+name: Vanyver
+perception: '+26'
 rarity: Common
-reflex: '+13'
+reflex: '+23'
 resistance:
-- negative 10
-- poison 10
+- '[[DATABASE/trait/Cold|cold]] 10'
 rus_type_level: null
 school: null
 sense:
-- '[[DATABASE/monsterability/Darkvision|darkvision]]'
-- '[[DATABASE/monsterability/Lifesense|lifesense 60 feet]]'
-size: Medium
+- '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
+- '[[DATABASE/monsterability/Lifesense|lifesense]] 60 feet'
+size: Huge
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +17'
-- '[[DATABASE/skill/Athletics|Athletics]] +17'
-- '[[DATABASE/skill/Lore|Boneyard Lore]] +15'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +15'
-- '[[DATABASE/skill/Occultism|Occultism]] +13'
-- '[[DATABASE/skill/Religion|Religion]] +13'
-- '[[DATABASE/skill/Stealth|Stealth]] +17'
-source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +23'
+- '[[DATABASE/skill/Arcana|Arcana]] +23'
+- '[[DATABASE/skill/Athletics|Athletics]] +27'
+- '[[DATABASE/skill/Lore|Negative Energy Plane Lore]] +25'
+- '[[DATABASE/skill/Religion|Religion]] +24'
+- '[[DATABASE/skill/Lore|ShadowPlane Lore]] +25'
+- '[[DATABASE/skill/Stealth|Stealth]] +25'
+source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 speed:
 - 25 feet
-- fly 40 feet
+- fly 60 feet
 spell:
-- '[[DATABASE/spell/Dimension Door|Dimension Door]]'
-- '[[DATABASE/spell/Invisibility|Invisibility]]'
-- '[[DATABASE/spell/Locate|Locate]]'
-- '[[DATABASE/spell/Searing Light|Searing Light]]'
-strength: '+6'
-strength_req: '6'
+- '[[DATABASE/spell/Darkness|Darkness]]'
+- '[[DATABASE/spell/Detect Magic|DetectMagic]]'
+- '[[DATABASE/spell/Dispel Magic|Dispel Magic]]'
+- '[[DATABASE/spell/Harm|Harm]]'
+- '[[DATABASE/spell/Plane Shift|Plane Shift]]'
+- '[[DATABASE/spell/See Invisibility|See Invisibility]]'
+strength: '+8'
+strength_req: '8'
 strongest_save:
-- Will
+- Fortitude
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Monitor|Monitor]]'
-- '[[DATABASE/trait/Psychopomp|Psychopomp]]'
+- '[[DATABASE/trait/Darvakka|Darvakka]]'
+- '[[DATABASE/trait/Shadow|Shadow]]'
+- '[[DATABASE/trait/Undead|Undead]]'
 type: Creature
-vision: Darkvision
+vision: Greater darkvision
 weakest_save:
-- Reflex
-weakness: null
-will: '+17'
-wisdom: '+4'
+- Will
+weakness:
+- '[[DATABASE/trait/Good|good]] 10'
+- '[[DATABASE/equipment/Silver Weapon|silver]] 10'
+will: '+22'
+wisdom: '+5'
 
 ---
 # Vanyver (Nightwing)

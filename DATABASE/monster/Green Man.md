@@ -20,28 +20,6 @@ creature_ability:
 - Root In Place
 - Vine Forest
 creature_family: null
-description: "Green men are ancient, enigmatic lesser deities of the primeval forests,\
-  \ living embodiments of nature and plantkind. When a forest or other woodland terrain\
-  \ generates enough nature spirits, beings of the same sort of vital essence that\
-  \ embodies [[DATABASE/monsterfamily/Leshy|leshy]] or answers the call of a commune\
-  \ with nature, they naturally coalesce together and apotheosize into a green man.\
-  \ Green men aren't concerned with all the multifarious processes of nature like\
-  \ [[DATABASE/deity/Gozreh|Gozreh]] or many other nature deities. Instead, they focus\
-  \ nearly all their attention on the plants of their home, only concerning themselves\
-  \ with animals, minerals, and the like insomuch as they affect the plants. Despite\
-  \ their name, green men aren't necessarily male; as creatures of pure natural power,\
-  \ to many of them, the concept of gender holds no meaning, and to those that do,\
-  \ they can be of any gender.<br/><br/> Most green men are neutral and tend to ignore\
-  \ \u201Canimals,\u201D which to them include sapient creatures such as [[DATABASE/ancestry/Human|humans]]\
-  \ . However, good and evil green men do exist. These individuals are far more likely\
-  \ to attempt to spread their influence far and wide, either for good or ill. Good\
-  \ green men provide succor to all that come within their home, not only to plants,\
-  \ providing wisdom like a nurturing parent. Evil green men, however, allow rare\
-  \ and dangerous plants to thrive in their domains by spreading fear and devastation\
-  \ to all those who might threaten plant life, though they might keep a few animals\
-  \ around to hunt for sport.<br/><br/><b><u>Recall Knowledge - Plant</u> ( [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 53<br/><b><u>Unspecific Lore</u></b>: DC 51<br/><b><u>Specific Lore</u></b>:\
-  \ DC 48"
 dexterity: '+9'
 element: null
 fly_speed: null

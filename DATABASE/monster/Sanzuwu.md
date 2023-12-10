@@ -15,15 +15,6 @@ creature_ability:
 - Transfixing
 - Sunbeam
 creature_family: null
-description: 'Those who feast on the sun are said to carry its power within them.
-  Sanzuwus are small crows with red plumage and dark throats. According to legend,
-  they stole their burning power from the sun and now fly across the sky as blinding
-  streaks of fire. When they land on the earth, it ignites around them, causing unbound
-  destruction. A handful of people worship these radiant birds and inscribe their
-  three-legged visage on coins, items, and weapons.<br/><br/><b><u>Recall Knowledge
-  - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 36<br/><b><u>Unspecific Lore</u></b>: DC 34<br/><b><u>Specific Lore</u></b>:
-  DC 31'
 dexterity: '+8'
 element: Fire
 fly_speed: '60'

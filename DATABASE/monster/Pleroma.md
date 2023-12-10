@@ -13,17 +13,6 @@ creature_ability:
 - Sphere of Creation
 - Sphere of Oblivion
 creature_family: '[[DATABASE/monsterfamily/Aeon|Aeon]]'
-description: 'Among the most powerful of all the true aeons, pleromas are a manifestation
-  of the duality of creation and destruction. Their physical manifestation is a constant
-  state of flux between these two poles, their forms a shifting cloak of black where
-  galaxies and other celestial objects flit in and out of existence, as if depicting
-  the constant life, death, and rebirth of a miniature, self-contained universe.<br/><br/>Pleromas
-  see the multiverse as both eternal and cyclical, doomed and malleable, ending only
-  if these cycles ever become unbalanced. They believe the current Convergence is
-  necessary to obtain this essential balance, and act to ensure that the grand design
-  of the Monad is carried out to the smallest detail.<br/><br/><b><u>Recall Knowledge
-  - Monitor</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 40<br/><b><u>Unspecific
-  Lore</u></b>: DC 38<br/><b><u>Specific Lore</u></b>: DC 35'
 dexterity: '+7'
 element: null
 fly_speed: '40'

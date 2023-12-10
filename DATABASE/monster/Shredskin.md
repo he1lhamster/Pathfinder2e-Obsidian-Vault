@@ -1,54 +1,71 @@
 ﻿---
-ac: null
-alignment: null
+ac: '16'
+alignment: NE
 all_resistance: null
 burrow_speed: null
-charisma: null
+charisma: '+2'
 climb_speed: null
-constitution: null
-creature_ability: null
+constitution: '+0'
+creature_ability:
+- Compression
+- Constrict
+- Control Body
+- Enshroud
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 16<br/><b><u>Unspecific
-  Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>: DC 11'
-dexterity: null
+dexterity: '+4'
 element: null
-fly_speed: null
-fortitude: null
+fly_speed: '30'
+fortitude: '+6'
 hardness: null
-hp: null
-id: '2482'
-immunity: null
-intelligence: null
+hp: 30 ( negative healing )
+id: '1897'
+immunity:
+- critical hits (except slashing)
+- '[[DATABASE/trait/Death|death]] effects'
+- '[[DATABASE/trait/Disease|disease]]'
+- '[[DATABASE/condition/Paralyzed|paralyzed]]'
+- precision
+- '[[DATABASE/trait/Poison|poison]]'
+- '[[DATABASE/condition/Unconscious|unconscious]]'
+intelligence: '-1'
 land_speed: null
-language: null
-level: null
-max_speed: null
+language:
+- '[[DATABASE/language/Common|Common]] ; (can''t speak any language)'
+level: '2'
+max_speed: '30'
 name: Shredskin
-perception: null
-rarity: null
-reflex: null
+perception: '+6'
+rarity: Common
+reflex: '+10'
 resistance: null
 rus_type_level: null
 school: null
-sense: null
-size: null
-skill: null
-source: '[[DATABASE/source/Pathfinder 157. Devil at the Dreaming Palace|Pathfinder
-  #157: Devil at the Dreaming Palace]]'
-speed: null
+sense:
+- '[[DATABASE/monsterability/Darkvision|darkvision]]'
+size: Small
+skill:
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +10'
+- '[[DATABASE/skill/Athletics|Athletics]] +8'
+- '[[DATABASE/skill/Deception|Deception]] +8'
+- '[[DATABASE/skill/Stealth|Stealth]] +8'
+source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
+speed:
+- fly 30 feet
 spell: null
-strength: null
-strength_req: null
-strongest_save: null
+strength: '+2'
+strength_req: '2'
+strongest_save:
+- Reflex
 swim_speed: null
-trait: null
-type: null
-vision: null
-weakest_save: null
+trait:
+- '[[DATABASE/trait/Undead|Undead]]'
+type: Creature
+vision: Darkvision
+weakest_save:
+- Fortitude
 weakness: null
-will: null
-wisdom: null
+will: '+8'
+wisdom: '+0'
 
 ---
 # Shredskin

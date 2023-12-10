@@ -9,13 +9,6 @@ constitution: '+3'
 creature_ability:
 - Blood Drain
 creature_family: '[[DATABASE/monsterfamily/Leech|Leech]]'
-description: 'Capable of growing to lengths of nearly 5 feet, giant leeches have circular
-  maws filled with hook-like teeth. They prefer to dwell in stagnant or slow-moving
-  shallow water or in damp, moist undergrowth. Horses and larger animals are their
-  favorite prey, but they won''t balk at a chance to latch onto a human- or halfling-sized
-  meal.<br/><br/><b><u>Recall Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 16<br/><b><u>Unspecific Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>:
-  DC 11'
 dexterity: '+1'
 element: null
 fly_speed: null

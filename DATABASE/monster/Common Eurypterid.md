@@ -10,12 +10,6 @@ creature_ability:
 - Attack of Opportunity
 - Eurypterid Venom
 creature_family: '[[DATABASE/monsterfamily/Eurypterid|Eurypterid]]'
-description: 'The smallest of the giant eurypterids can grow to about the size of
-  a large dog. These eurypterids are a staple food for people living in marshlands,
-  who add the meat to heavily spiced stews, but they''re otherwise considered dangerous
-  pests.<br/><br/><b><u>Recall Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 13<br/><b><u>Unspecific Lore</u></b>: DC 11<br/><b><u>Specific Lore</u></b>:
-  DC 8'
 dexterity: '+0'
 element: null
 fly_speed: null

@@ -11,9 +11,6 @@ creature_ability:
 - Protect
 - Ram
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 25<br/><b><u>Unspecific
-  Lore</u></b>: DC 23<br/><b><u>Specific Lore</u></b>: DC 20'
 dexterity: '+2'
 element: null
 fly_speed: null

@@ -19,20 +19,6 @@ creature_ability:
 - Swallow Whole
 - Windsense
 creature_family: null
-description: "A mu spore is a thankfully rare fungoid monstrosity of vast power and\
-  \ strange intellect. Even the smallest mu spores are never less than a hundred feet\
-  \ long from tentacle tip to tentacle tip, yet despite this vast bulk, they are capable\
-  \ of flying with an uncommon grace, venting jets of foul-smelling spores to guide\
-  \ their flight.<br/><br/> Many societies tell tales of vast mu spores appearing\
-  \ over cities at the dawn of apocalyptic events, but they\u2019re more than just\
-  \ ravenous eaters of nations. Mu spores often possess rare or esoteric knowledge,\
-  \ and if peaceful contact can be made, this lore can be quite valuable. Their spores\
-  \ can also be used to craft certain foul drugs or deadly alchemical poisons, but\
-  \ harvesting these ingredients is dangerous, as the spores are not viable for long\
-  \ once they\u2019ve been shed, forcing alchemists seeking to harvest them to operate\
-  \ in perilously close proximity to the abominations.<br/><br/><b><u>Recall Knowledge\
-  \ - Fungus</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 42<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 40<br/><b><u>Specific Lore</u></b>: DC 37"
 dexterity: '+3'
 element: null
 fly_speed: '50'

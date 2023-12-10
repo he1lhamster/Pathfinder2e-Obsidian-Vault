@@ -10,25 +10,6 @@ creature_ability:
 - Clawed Feet
 - Statue
 creature_family: null
-description: "Gargoyles are monstrous hunters made of elemental stone. They use their\
-  \ resemblance to decorative statues to hide in plain sight in cities during the\
-  \ day and descend upon unlucky pedestrians at night. Their most common form is that\
-  \ of a horned humanoid with bat-like wings, but individual gargoyles show a great\
-  \ deal of variation, with some appearing more or less humanoid and others resembling\
-  \ no known creature. A gargoyle\u2019s features are not flxed; city-dwelling gargoyles\
-  \ who remain in the same locale long enough slowly morph, day by day, to match the\
-  \ style of the local architecture. These patient monsters can stay disguised for\
-  \ long stretches of time as they patiently await an opportunity to strike.<br/><br/>\
-  \ Gargoyles tend to be lone hunters, though sometimes they band into fearsome tribes\
-  \ called \u201Cwings\u201D for protection or sport. On rare occasions, wings become\
-  \ relatively stable communities, and gargoyles in wings may even ally with other\
-  \ creatures such as demons and intelligent aberrations, though these alliances exist\
-  \ on a razor\u2019s edge. The majority of gargoyles are treacherous, vindictive,\
-  \ and petty\u2014traits that preclude lasting partnerships. Many tend to be obsessive\
-  \ and compulsive. Some are collectors, focusing on anything from books to grim trophies,\
-  \ while others are ritualistic or overly passionate about niche intellectual subjects\
-  \ or certain artistic motifs. These tendencies often contribute to the dissolution\
-  \ of wings as individuals\u2019 obsessions and compulsions clash."
 dexterity: '+2'
 element: Earth
 fly_speed: '40'

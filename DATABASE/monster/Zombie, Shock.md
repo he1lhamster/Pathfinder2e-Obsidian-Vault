@@ -1,75 +1,74 @@
 ﻿---
-ac: '40'
-alignment: N
+ac: '21'
+alignment: NE
 all_resistance: null
 burrow_speed: null
-charisma: '+2'
+charisma: '-2'
 climb_speed: null
-constitution: '+5'
+constitution: '+2'
 creature_ability:
-- Attack of Opportunity
-- Ferocity
-- Sniper's Devastation
-- Sniping Shot
-creature_family: '[[DATABASE/monsterfamily/Shobhad|Shobhad]]'
-description: 'Enemies rarely see a shobhad sniper before the deadly blast of their
-  powerful rifles snatches away the offender''s life. Selected from among the most
-  talented enforcers after proving themselves in combat, shobhad snipers learn how
-  to cross the desert sands undetected, combine their powerful ranged weapons with
-  close-combat techniques, and survive Akiton''s freezing nights for weeks on end
-  while scouting potential settlements or enemy strongholds.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 38<br/><b><u>Unspecific
-  Lore</u></b>: DC 36<br/><b><u>Specific Lore</u></b>: DC 33'
-dexterity: '+9'
+- Electricity Absorption
+- Lightning Powered
+- Slow
+creature_family: '[[DATABASE/monsterfamily/Zombie|Zombie]]'
+dexterity: '+4'
 element: null
 fly_speed: null
-fortitude: '+28'
+fortitude: '+14'
 hardness: null
-hp: '320'
-id: '1679'
-immunity: null
-intelligence: '+2'
-land_speed: '30'
-language:
-- '[[DATABASE/language/Akitonian|Akitonian]]'
-- '[[DATABASE/language/Shobhad|Shobhad]]'
-level: '17'
-max_speed: '30'
-name: Shobhad Sniper
-perception: '+30'
+hp: 140 (lightning powered, negative healing )
+id: '1985'
+immunity:
+- '[[DATABASE/trait/Death|death]] effects'
+- '[[DATABASE/trait/Disease|disease]]'
+- '[[DATABASE/trait/Electricity|electricity]]'
+- '[[DATABASE/trait/Mental|mental]]'
+- '[[DATABASE/condition/Paralyzed|paralyzed]]'
+- '[[DATABASE/trait/Poison|poison]]'
+- '[[DATABASE/condition/Unconscious|unconscious]]'
+intelligence: '-5'
+land_speed: '25'
+language: null
+level: '6'
+max_speed: '25'
+name: Shock Zombie
+perception: '+12'
 rarity: Uncommon
-reflex: '+32'
+reflex: '+17'
 resistance: null
 rus_type_level: null
 school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
-size: Large
+size: Medium
 skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +31'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +30'
-- '[[DATABASE/skill/Stealth|Stealth]] +34'
-- '[[DATABASE/skill/Survival|Survival]] +30'
-source: '[[DATABASE/source/Pathfinder 173. Doorway to the Red Star|Pathfinder #173:
-  Doorway to the Red Star]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +14'
+- '[[DATABASE/skill/Athletics|Athletics]] +15'
+source: '[[DATABASE/source/Pathfinder 180. The Smoking Gun|Pathfinder #180: The Smoking
+  Gun]]'
 speed:
-- 30 feet
+- 25 feet
 spell: null
-strength: '+6'
-strength_req: '6'
+strength: '+5'
+strength_req: '5'
 strongest_save:
 - Reflex
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Humanoid|Humanoid]]'
+- '[[DATABASE/trait/Electricity|Electricity]]'
+- '[[DATABASE/trait/Mindless|Mindless]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
+- '[[DATABASE/trait/Undead|Undead]]'
+- '[[DATABASE/trait/Zombie|Zombie]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
-will: '+26'
-wisdom: '+5'
+weakness:
+- '[[DATABASE/trait/Positive|positive]] 5'
+- slashing 5
+will: '+11'
+wisdom: '+2'
 
 ---
 # Zombie, Shock

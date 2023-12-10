@@ -13,16 +13,6 @@ creature_ability:
 - Swallow Whole
 - Wasting Wound
 creature_family: null
-description: 'These chimeric, desert-dwelling fiends have massive bodies that are
-  part hippopotamus, part large cat, and part crocodile. Though they devour souls
-  for sustenance, ammuts are infamously picky eaters; most will only eat experienced
-  adventurers or, for a special treat, particularly evil creatures, passing over common
-  folk or those whose mettle has never been tested. <br/><br/>Only a few ammuts are
-  known to exist, and most dwell in Osirion. However, recent expeditions into Orv''s
-  Vault of the Black Desert have uncovered the existence of ammuts in this region,
-  as well.<br/><br/><b><u>Recall Knowledge - Fiend</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 43<br/><b><u>Unspecific Lore</u></b>: DC 41<br/><b><u>Specific Lore</u></b>:
-  DC 38'
 dexterity: '+7'
 element: null
 fly_speed: null

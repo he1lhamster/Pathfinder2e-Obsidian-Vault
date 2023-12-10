@@ -14,16 +14,6 @@ creature_ability:
 - Throw Rock
 - Volcanic Heat
 creature_family: null
-description: "Dalos are reclusive fey that dwell within or near remote volcanoes and\
-  \ volcanic vents and resemble the massive calderas they call home. They more often\
-  \ dwell within the superheated confines of these locales than in the \u201Ccold\
-  \ wastelands\u201D beyond their warmth and are therefore rarely encountered outside\
-  \ such environments. Like most fey, dalos are capricious and vengeful. They hate\
-  \ being disturbed above all else and will often warn away intruders with only the\
-  \ throw of a red-hot boulder before attacking outright.<br/><br/> A dalos stands\
-  \ 25 feet tall and weighs in excess of 20,000 pounds.<br/><br/><b><u>Recall Knowledge\
-  \ - Fey</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 33<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 31<br/><b><u>Specific Lore</u></b>: DC 28"
 dexterity: '+4'
 element: Earth, Fire
 fly_speed: null

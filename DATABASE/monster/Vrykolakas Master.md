@@ -22,11 +22,6 @@ creature_ability:
 - Vulnerable
 - to Decapitation
 creature_family: '[[DATABASE/monsterfamily/Vampire, Vrykolakas|Vampire, Vrykolakas]]'
-description: 'Vrykolakas masters are sinister shapechangers. They walk undetected
-  among the living and prey upon them like a wolf among sheep, often leaving the corpses
-  to rise as vrykolakas spawn.<br/><br/><b><u>Recall Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 27<br/><b><u>Unspecific Lore</u></b>: DC 25<br/><b><u>Specific Lore</u></b>:
-  DC 22'
 dexterity: '+5'
 element: null
 fly_speed: null

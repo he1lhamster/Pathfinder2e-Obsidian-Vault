@@ -11,10 +11,6 @@ creature_ability:
 - Thoughtsense
 creature_family: '[[DATABASE/monsterfamily/Contemplative of Ashok|Contemplative of
   Ashok]]'
-description: 'Even the average contemplative demonstrates an intellect that far surpasses
-  those of most other beings.<br/><br/><b><u>Recall Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]]
-  )</b>: DC 18<br/><b><u>Unspecific Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>:
-  DC 13'
 dexterity: '+3'
 element: null
 fly_speed: '25'

@@ -11,11 +11,6 @@ creature_ability:
 - Point-Blank Shot
 - Rain of Arrows
 creature_family: null
-description: 'Archery specialists weaken their foes from a great distance. They typically
-  begin combat by attempting to pin the most dangerous target, then follow up with
-  a Rain of Arrows on a clumped group.<br/><br/><b><u>Recall Knowledge - Humanoid</u>
-  ( [[DATABASE/skill/Society|Society]] )</b>: DC 33<br/><b><u>Unspecific Lore</u></b>:
-  DC 31<br/><b><u>Specific Lore</u></b>: DC 28'
 dexterity: '+5'
 element: null
 fly_speed: null

@@ -13,22 +13,6 @@ creature_ability:
 - Shadow Step
 - Stepping Decoy
 creature_family: null
-description: "A betobeto-san wanders the highways and byways of the [[DATABASE/plane/Material\
-  \ Plane|Material Plane]] , searching for unwilling traveling companions to sustain\
-  \ the spirit's appetite for fear. Though this shadow spirit is invisible in darkness\
-  \ or shade, in light they appear as a formless, shadowy mass with two sandaled feet.\
-  \ These sandals are made of wood or bone that cause the creature's footsteps to\
-  \ make the distinct \u201Cbeto beto\u201D sound from which they receive their name.\
-  \ A wide, toothy mouth smiles in the middle of their otherwise featureless mass,\
-  \ and they can manifest long, clawed limbs.<br/><br/> Betobeto-san trail behind\
-  \ nighttime travelers, compelled to follow until the creatures verbally offer to\
-  \ let the betobeto-san pass. This compulsion isn't usually malicious by nature and\
-  \ occurs more from a betobeto-san's misguided desire for company and courtesy; unfortunately,\
-  \ they lack of understanding how this behavior can frighten others. Betobeto-san\
-  \ don't attack those they follow, but they often end up in combat because their\
-  \ unwelcome behavior causes those they follow to attack first.<br/><br/><b><u>Recall\
-  \ Knowledge - Spirit</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 32<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 30<br/><b><u>Specific Lore</u></b>: DC 27"
 dexterity: '+7'
 element: null
 fly_speed: null

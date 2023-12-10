@@ -10,10 +10,6 @@ creature_ability:
 - Cling
 - Swarming Bites
 creature_family: '[[DATABASE/monsterfamily/Ant|Ant]]'
-description: 'An army ant swarm is a terrifying carpet of stinging insects that devours
-  all in its path.<br/><br/><b><u>Recall Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 20<br/><b><u>Unspecific Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>:
-  DC 15'
 dexterity: '+4'
 element: null
 fly_speed: null

@@ -10,19 +10,6 @@ creature_ability:
 - Musk
 - Rend
 creature_family: '[[DATABASE/monsterfamily/Sloth|Sloth]]'
-description: 'Megatheriums dwell deep within ancient forests and humid jungles. Fiercely
-  territorial, these immense creatures are often smelt before seen. Though they travel
-  on all fours, megatheriums can reach foliage 20 feet above the forest floor by standing
-  on their hind legs and short, thick tails. Their enormous foreclaws, used to bend
-  tree limbs within reach of their mouths, can cleave a horse in two and crush its
-  rider.<br/><br/> The musk of the megatherium serves as a warning to potential predators
-  and other megatheriums that they''re too close. Adult megatheriums are so territorial
-  that most don''t reproduce more than twice in their lifetime. Though the creatures
-  regularly patrol their territory for intruders, they tend to avoid settlements unless
-  food has become scarce. When they do stray into towns, they''ve been known to devour
-  entire orchards in a day.<br/><br/><b><u>Recall Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 20<br/><b><u>Unspecific Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>:
-  DC 15'
 dexterity: '+2'
 element: null
 fly_speed: null

@@ -13,20 +13,6 @@ creature_ability:
 - Psychic Howl
 - Rend
 creature_family: null
-description: "Qurashith\u2014or \u201Cgluttonwings\u201D in the Common tongue\u2014\
-  are fearsome, bat-like predators that haunt the upper reaches of Gluttondark\u2019\
-  s cavern-worlds. These monstrosities are no mere beasts. A qurashith does not simply\
-  \ devour its victims; once it kills its prey, it physically subsumes the creature\
-  \ into its own body, metabolizing the prey\u2019s spiritual essence. Close inspection\
-  \ of a qurashith reveals that its body is an amalgamation of the fiend and its extraplanar\
-  \ and mortal victims, bound together by webs of demonic scar tissue and sticky acidic\
-  \ pus. While the individual personalities of a qurashith\u2019s victims gradually\
-  \ metabolize and diffuse into its very substance over time, a particularly charismatic\
-  \ or magically powerful victim might exert some influence over the qurashith\u2019\
-  s mind for a short time.<br/><br/><b><u>Recall Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]]\
-  \ )</b>: DC 41<br/><b><u>Recall Knowledge - Fiend</u> ( [[DATABASE/skill/Religion|Religion]]\
-  \ )</b>: DC 41<br/><b><u>Unspecific Lore</u></b>: DC 39<br/><b><u>Specific Lore</u></b>:\
-  \ DC 36"
 dexterity: '+7'
 element: null
 fly_speed: '60'

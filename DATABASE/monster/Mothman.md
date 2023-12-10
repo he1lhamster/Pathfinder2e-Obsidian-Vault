@@ -11,18 +11,6 @@ creature_ability:
 - Focus Gaze
 - Portentous Gaze
 creature_family: null
-description: "Little is known of the strange creatures known as mothmen, save that\
-  \ when they make themselves known, calamity is sure to follow. The mothman sees\
-  \ themself as an agent of fate\u2014provided such fate is devastating and destructive.\
-  \ Often, those who encounter a mothman never recall the meeting, yet live on to\
-  \ unknowingly pursue and enable the creature's obscure plans.<br/><br/> The name\
-  \ \u201Cmothmen\u201D is, of course, not these creatures' own name for themselves,\
-  \ but an appellation granted by the fearful who glimpse them and tell harrowing\
-  \ tales of their sightings. They each keep their own names, or a collection for\
-  \ use in different situations, yet have no need for a collective word for their\
-  \ kind.<br/><br/><b><u>Recall Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]]\
-  \ )</b>: DC 28<br/><b><u>Unspecific Lore</u></b>: DC 26<br/><b><u>Specific Lore</u></b>:\
-  \ DC 23"
 dexterity: '+5'
 element: null
 fly_speed: '50'

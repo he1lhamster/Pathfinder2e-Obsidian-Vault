@@ -10,11 +10,6 @@ creature_ability:
 - Drain Bonded Item
 - Stench of Decay
 creature_family: '[[DATABASE/monsterfamily/Mystics|Mystics]]'
-description: 'Defiling the natural order and spitting in the face of convention, the
-  necromancer remains dutifully committed to understanding what forces await beyond
-  the mortal boundaries of life and death.<br/><br/><b><u>Recall Knowledge - Humanoid</u>
-  ( [[DATABASE/skill/Society|Society]] )</b>: DC 20<br/><b><u>Unspecific Lore</u></b>:
-  DC 18<br/><b><u>Specific Lore</u></b>: DC 15'
 dexterity: '+3'
 element: null
 fly_speed: null

@@ -13,12 +13,6 @@ creature_ability:
 - Hypnotic Stench
 - Psionic Scent
 creature_family: null
-description: "Xilvireks are the result of the strange evolution that takes place in\
-  \ [[DATABASE/deity/Zevgavizeb|Zevgavizeb\u2019s]] Abyssal realm. These fiends resemble\
-  \ their dread demon lord and claim to be living embodiments of the Lord of Reptiles\u2019\
-  s snapping jaws.<br/><br/><b><u>Recall Knowledge - Fiend</u> ( [[DATABASE/skill/Religion|Religion]]\
-  \ )</b>: DC 32<br/><b><u>Unspecific Lore</u></b>: DC 30<br/><b><u>Specific Lore</u></b>:\
-  \ DC 27"
 dexterity: '+5'
 element: null
 fly_speed: null

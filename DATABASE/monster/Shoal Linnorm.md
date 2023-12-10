@@ -12,16 +12,6 @@ creature_ability:
 - Curse of Drowning
 - Shoal Linnorm Venom
 creature_family: '[[DATABASE/monsterfamily/Linnorm|Linnorm]]'
-description: "Shoal linnorms occupy rocky shoreline shallows and slither along lonely\
-  \ coastlines. While they do not intentionally seek out large settlements, these\
-  \ linnorms nonetheless beleaguer fishers headed out from small coastal towns, and\
-  \ they may even follow skiffs back to their home port to appraise the town's defenses\
-  \ and plan a raid. Shoal linnorms tend to hunt large prey, both underwater and on\
-  \ land. Their preferred quarries includes giant squid and grizzly bears\u2014meals\
-  \ rich in fat, which the linnorms metabolize into the fiery steam that courses through\
-  \ their veins.<br/><br/><b><u>Recall Knowledge - Dragon</u> ( [[DATABASE/skill/Arcana|Arcana]]\
-  \ )</b>: DC 36<br/><b><u>Unspecific Lore</u></b>: DC 34<br/><b><u>Specific Lore</u></b>:\
-  \ DC 31"
 dexterity: '+5'
 element: null
 fly_speed: '100'

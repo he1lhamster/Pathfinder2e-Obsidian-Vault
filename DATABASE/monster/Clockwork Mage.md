@@ -11,12 +11,6 @@ creature_ability:
 - Energize Clockwork Wand
 - Wind-Up
 creature_family: '[[DATABASE/monsterfamily/Clockworks|Clockworks]]'
-description: 'A clockwork mage is a lethal blend of magic and machinery. Each of these
-  clockworks is imbued with an arcane stone at its core that powers spells through
-  the wand embedded in its chest.<br/><br/><b><u>Recall Knowledge - Construct</u>
-  ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]] )</b>:
-  DC 28<br/><b><u>Unspecific Lore</u></b>: DC 26<br/><b><u>Specific Lore</u></b>:
-  DC 23'
 dexterity: '+6'
 element: null
 fly_speed: null

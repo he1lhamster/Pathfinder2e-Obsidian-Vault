@@ -12,12 +12,6 @@ creature_ability:
 - Release Light
 - Trample
 creature_family: '[[DATABASE/monsterfamily/Elemental, Earth|Elemental, Earth]]'
-description: 'Each long, thin leg of a crystal strider is a single enormous crystal,
-  typically quartz or selenite. The strider uses this panoply of legs and a fluctuating
-  physical structure to rapidly move about crystalline caverns, unimpeded by terrain.<br/><br/><b><u>Recall
-  Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 27<br/><b><u>Unspecific Lore</u></b>: DC 25<br/><b><u>Specific Lore</u></b>:
-  DC 22'
 dexterity: '+3'
 element: Earth
 fly_speed: null

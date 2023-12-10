@@ -9,11 +9,6 @@ constitution: '+0'
 creature_ability:
 - Grab and Go
 creature_family: '[[DATABASE/monsterfamily/Monkey|Monkey]]'
-description: 'When these small, curious primates come in contact with large humanoid
-  populations, they quickly adapt, learning to steal food or small objects before
-  retreating to the nearest tree branch with their prize.<br/><br/><b><u>Recall Knowledge
-  - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 13<br/><b><u>Unspecific
-  Lore</u></b>: DC 11<br/><b><u>Specific Lore</u></b>: DC 8'
 dexterity: '+3'
 element: null
 fly_speed: null

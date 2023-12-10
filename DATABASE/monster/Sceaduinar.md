@@ -12,24 +12,6 @@ creature_ability:
 - Void Child
 - Wing Flash
 creature_family: null
-description: "Strange creatures born from jagged crystals in the heart of the [[DATABASE/plane/Negative\
-  \ Energy Plane|Negative Energy Plane]] , sceaduinar are fueled by its negative energy\
-  \ and driven to extinguish all life. Resembling crystalline gargoyles with serrated\
-  \ limbs and sharp, bat-like faces, sceaduinar stand about 7 feet tall and weigh\
-  \ around 100 pounds.<br/><br/> These malevolent beings sometimes gather in great\
-  \ packs of their own kind. Despite their intelligence, they act like cunning, feral\
-  \ beasts for the most part, though they occasionally build tools to aid them in\
-  \ extinguishing life. Sceaduinar sail through the great voids of their home plane,\
-  \ seeking to destroy any sparks of life that find their way into that deadly realm\u2014\
-  even the twisted sparks found in undead creatures.<br/><br/> When they discover\
-  \ portals to other planes, sceaduinar swarm through in great numbers, slaughtering\
-  \ all they come across. While dwelling outside the Negative Energy plane is uncomfortable\
-  \ for sceaduinar, they can exist for extended periods of time apart from their home.\
-  \ Of course, the feeling of a plane where negative energy isn't the rule doesn't\
-  \ improve these creatures' attitude, and as a result, they tend to be particularly\
-  \ cruel and violent when encountered in such realms.<br/><br/><b><u>Recall Knowledge\
-  \ - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 28<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 26<br/><b><u>Specific Lore</u></b>: DC 23"
 dexterity: '+6'
 element: null
 fly_speed: '60'

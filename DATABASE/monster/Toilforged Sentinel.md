@@ -15,16 +15,6 @@ creature_ability:
 - Vulnerability
 - to Exorcism
 creature_family: null
-description: 'Toilforged sentinels are intelligent war machines painstakingly constructed
-  from iron, steel, and other metals over the course of a full year. With twin treads,
-  a central cage filled with eternal flames, and numerous weapons (including a hammer,
-  cannon, and grasping claw capable of snatching up foes), a toilforged sentinel is
-  an intimidating sight. Creatures consumed by a sentinel''s flames become captives,
-  their souls eternally bound to the flames, powering the device. Such souls are freed
-  upon the sentinel''s destruction.<br/><br/><b><u>Recall Knowledge - Construct</u>
-  ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]] )</b>:
-  DC 29<br/><b><u>Unspecific Lore</u></b>: DC 27<br/><b><u>Specific Lore</u></b>:
-  DC 24'
 dexterity: '+3'
 element: null
 fly_speed: null

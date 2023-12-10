@@ -11,18 +11,6 @@ creature_ability:
 - Terrifying Laugh
 - Wrath of the Haunt
 creature_family: null
-description: 'A geist is an ever-shifting mass of black sack cloth, teeth, and mouths,
-  folding in and out of itself and cackling like a thousand frenzied and doomed souls.
-  Created when a haunt kills an evil person, a geist rises from a soul trapped on
-  the plane of their demise, now connected to the dark energy radiating from haunts
-  everywhere. They wander the world, looking for solace and never finding it. In frustration,
-  they turn their malice back onto the living, antagonizing any nearby creatures,
-  hoping to fatally lure their victims into the clutches of a haunt to be turned into
-  another geist and share the torment.<br/><br/> Geists are occasionally mistaken
-  for other incorporeal undead, such as wraiths and ghosts, but their proximity to
-  haunts is one of the surest ways to determine the nature of the undead being encountered.<br/><br/><b><u>Recall
-  Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 26<br/><b><u>Unspecific
-  Lore</u></b>: DC 24<br/><b><u>Specific Lore</u></b>: DC 21'
 dexterity: '+5'
 element: null
 fly_speed: '30'

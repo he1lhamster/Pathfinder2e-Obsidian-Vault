@@ -13,14 +13,6 @@ creature_ability:
 - Shield Block
 - Sudden Charge
 creature_family: '[[DATABASE/monsterfamily/Officers|Officers]]'
-description: 'Watch officers are assigned to a certain area within a city or community.
-  Often leading a small team of lower-ranking guards, they patrol those areas to maintain
-  order and enforce laws. Watch officers get the job done, though their methods are
-  not always gentle or kind. Because the watch officer is responsible to their superiors
-  for their area, they sometimes need to make tough decisions between justice and
-  effectiveness.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 18<br/><b><u>Unspecific Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>:
-  DC 13'
 dexterity: '+1'
 element: null
 fly_speed: null

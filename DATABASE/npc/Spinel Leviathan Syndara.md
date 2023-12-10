@@ -18,9 +18,6 @@ creature_ability:
 - Rend
 - Spatial Sense
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Monitor</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 58<br/><b><u>Unspecific
-  Lore</u></b>: DC 56<br/><b><u>Specific Lore</u></b>: DC 53'
 dexterity: '+9'
 element: null
 fly_speed: '60'

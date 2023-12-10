@@ -11,12 +11,6 @@ creature_ability:
 - Undead Virulence
 - Venomous Gaze
 creature_family: '[[DATABASE/monsterfamily/Virulak|Virulak]]'
-description: 'Virulak necromancers are often intrigued by the interplay between poison
-  and undeath, testing toxins on their dead flesh or, more commonly, on hapless living
-  victims. This virulak necromancer was once a sorcerer but now considers their bloodline
-  irrelevant.<br/><br/><b><u>Recall Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 28<br/><b><u>Unspecific Lore</u></b>: DC 26<br/><b><u>Specific Lore</u></b>:
-  DC 23'
 dexterity: '+0'
 element: null
 fly_speed: null

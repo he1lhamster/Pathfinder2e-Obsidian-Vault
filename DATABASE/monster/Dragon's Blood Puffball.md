@@ -10,9 +10,6 @@ creature_ability:
 - Motion Sense
 - Spore Explosion
 creature_family: '[[DATABASE/monsterfamily/Deadly Puffball|Deadly Puffball]]'
-description: 'This bulbous, deep red fungus looks like an enormous, decaying rose.<br/><br/><b><u>Recall
-  Knowledge - Fungus</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 26<br/><b><u>Unspecific
-  Lore</u></b>: DC 24<br/><b><u>Specific Lore</u></b>: DC 21'
 dexterity: '+1'
 element: null
 fly_speed: null

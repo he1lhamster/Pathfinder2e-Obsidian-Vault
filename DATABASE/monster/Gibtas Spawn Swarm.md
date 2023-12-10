@@ -11,12 +11,6 @@ creature_ability:
 - Bounding Swarm
 - Swarming Bites
 creature_family: '[[DATABASE/monsterfamily/Gibtas|Gibtas]]'
-description: 'When a gibtas gorges itself on an incredible amount of flesh, it vomits
-  up a pool of acid filled with tiny pink egg sacs that burst immediately. The new
-  babies hunt as a pack, growing in size until they go their separate ways or consume
-  each other.<br/><br/><b><u>Recall Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]]
-  )</b>: DC 24<br/><b><u>Unspecific Lore</u></b>: DC 22<br/><b><u>Specific Lore</u></b>:
-  DC 19'
 dexterity: '+5'
 element: null
 fly_speed: null

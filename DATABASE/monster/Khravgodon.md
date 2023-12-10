@@ -12,10 +12,6 @@ creature_ability:
 - Grasping Tail
 - Revived Retaliation
 creature_family: '[[DATABASE/monsterfamily/Opossum|Opossum]]'
-description: 'Few creatures can shrug off an [[DATABASE/monster/Ankhrav|ankhrav''s]]
-  acid and crunch its chitin like a khravgodon.<br/><br/><b><u>Recall Knowledge -
-  Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 26<br/><b><u>Unspecific
-  Lore</u></b>: DC 24<br/><b><u>Specific Lore</u></b>: DC 21'
 dexterity: '+3'
 element: null
 fly_speed: null

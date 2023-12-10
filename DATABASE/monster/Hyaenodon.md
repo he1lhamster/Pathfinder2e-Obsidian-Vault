@@ -11,12 +11,6 @@ creature_ability:
 - Drag
 - Pack Attack
 creature_family: '[[DATABASE/monsterfamily/Hyena|Hyena]]'
-description: 'Hyaenodons are the ferocious primeval cousins of the smaller hyena.
-  Looming, shaggy-furred creatures nearly the size of a horse, hyaenodons are truly
-  formidable predators to be reckoned with, due both to their size and to their bone-crushing
-  jaws. Gnoll clans find these creatures particularly useful as mounts and guardians.<br/><br/><b><u>Recall
-  Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 18<br/><b><u>Unspecific
-  Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>: DC 13'
 dexterity: '+3'
 element: null
 fly_speed: null

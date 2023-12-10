@@ -12,19 +12,6 @@ creature_ability:
 - Easily Fascinated
 - Paint
 creature_family: null
-description: 'Simultaneously enamored with the natural world yet too alien to survive
-  in it, blood painters are eight-limbed artists who stalk, kill, and dismember in
-  search of pigment and sustenance alike. Blood painter physiology can''t digest typical
-  food, so the creatures feed by harvesting blood and using it to paint and animate
-  something edible.<br/><br/> When not on the hunt, blood painters seek out beautiful
-  vistas, which they placidly admire via the eyes in the hands of their uppermost
-  limbs and then reproduce on canvas. Exceptional art endlessly fascinates these creatures,
-  and skilled dancers and painters alike occasionally escape the aberrations by creating
-  a new work to trade for their lives. Blood painters jealously guard these works,
-  and much of their treasure consists of art. Blood painters tend to mastermind the
-  periodic theft of masterpieces.<br/><br/><b><u>Recall Knowledge - Aberration</u>
-  ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 26<br/><b><u>Unspecific Lore</u></b>:
-  DC 24<br/><b><u>Specific Lore</u></b>: DC 21'
 dexterity: '+4'
 element: null
 fly_speed: null

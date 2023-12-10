@@ -11,15 +11,6 @@ creature_ability:
 - Death Roll
 - Deep Breath
 creature_family: '[[DATABASE/monsterfamily/Crocodile|Crocodile]]'
-description: "Crocodiles can be found basking on riverbanks, lurking in swamps, or\
-  \ floating in lakes. They are usually are indistinguishable from logs when viewed\
-  \ from afar\u2014at least until they attack. Alligators have similar statistics,\
-  \ but because they often live in more temperate climates, they endure cold temperatures\
-  \ better. Unlike alligators, crocodiles can tolerate salt water. Both are formidable\
-  \ predators that are likely to devour careless adventurers who fail to watch where\
-  \ they step.<br/><br/><b><u>Recall Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 16<br/><b><u>Unspecific Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>:\
-  \ DC 11"
 dexterity: '+1'
 element: null
 fly_speed: null

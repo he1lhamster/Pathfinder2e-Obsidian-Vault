@@ -13,13 +13,6 @@ creature_ability:
 - Change Shape
 - Souleater
 creature_family: '[[DATABASE/monsterfamily/Vilderavn|Vilderavn]]'
-description: 'In its true form, a vilderavn herald is a [[DATABASE/ancestry/Human|human]]
-  -sized raven. Its ability to assume a [[DATABASE/trait/Humanoid|humanoid]] guise
-  suits it to insinuate itself into the retinue of a mortal ruler or to travel without
-  too much concern, but more often these deadly fey directly serve more powerful rulers,
-  such as the Eldest.<br/><br/><b><u>Recall Knowledge - Fey</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 44<br/><b><u>Unspecific Lore</u></b>: DC 42<br/><b><u>Specific Lore</u></b>:
-  DC 39'
 dexterity: '+7'
 element: null
 fly_speed: '120'

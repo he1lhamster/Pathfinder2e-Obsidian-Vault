@@ -12,26 +12,6 @@ creature_ability:
 - Flesh Tearer
 - Lifesense
 creature_family: '[[DATABASE/monsterfamily/Lilu|Lilu]]'
-description: '[[DATABASE/deity/Pazuzu|Pazuzu''s]] [[DATABASE/plane/Abyss|Abyssal]]
-  realm of High M''Vania is perched on the edge of an impossibly tall cliff. The demon
-  lord and his minions claim the air around the cliff, guarding it against enemies
-  and usurpers alike. Hurlilus, resembling horned, humanoid hawks with blood-red taloned
-  feet and wings in place of arms, patrol these skies at their lord''s command. Yet,
-  hurlilus are surly and rebellious by nature, preferring to lead rather than follow
-  orders. They''d prefer to spend their time bullying smaller creatures in High M''Vania''s
-  vast cliffside cities, but they''re unwelcome there and driven out when discovered
-  by occupants with greater authority (or by those who want to earn greater authority).<br/><br/>
-  Hurlilus make good guardians, particularly when they have leave to travel over great
-  distances on patrol routes and can engage in spontaneous cruelty if the opportunity
-  arises. However, they chafe in Pazuzu''s service. Some forsake High M''Vania entirely
-  and migrate to other parts of the Abyss, where they lead gangs of lesser fiends
-  they''ve bullied into submission. A few hurlilus have made their way to Golarion,
-  where they roost in aeries with subservient [[DATABASE/monster/Harpy|harpies]] ,
-  [[DATABASE/monster/Manticore|manticores]] , or other foul flying creatures. A dozen
-  or so hurlilus serve high positions in the Mivanians, the brutal enforcers of the
-  Halana Theocracy.<br/><br/><b><u>Recall Knowledge - Fiend</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 33<br/><b><u>Unspecific Lore</u></b>: DC 31<br/><b><u>Specific Lore</u></b>:
-  DC 28'
 dexterity: '+7'
 element: null
 fly_speed: '60'

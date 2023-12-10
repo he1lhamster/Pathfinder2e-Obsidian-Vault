@@ -11,12 +11,6 @@ creature_ability:
 - Guiding Star
 - Move the Stars
 creature_family: '[[DATABASE/monsterfamily/Lizardfolk|Lizardfolk]]'
-description: 'While stargazers are important among all iruxi societies, Terwa star
-  readers serve as lieutenants, advisors, and confidantes to important and influential
-  members of the Terwa clans. Only one who is especially proud or foolish would turn
-  away a star reader''s counsel.<br/><br/><b><u>Recall Knowledge - Humanoid</u> (
-  [[DATABASE/skill/Society|Society]] )</b>: DC 25<br/><b><u>Unspecific Lore</u></b>:
-  DC 23<br/><b><u>Specific Lore</u></b>: DC 20'
 dexterity: '+5'
 element: null
 fly_speed: null

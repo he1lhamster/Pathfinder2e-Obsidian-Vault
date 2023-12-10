@@ -9,14 +9,6 @@ constitution: '+1'
 creature_ability:
 - Fold Form
 creature_family: '[[DATABASE/monsterfamily/Elemental, Metal|Elemental, Metal]]'
-description: 'In its natural state, the kinzaruk resembles a paper-thin, perfectly
-  square sheet of lightweight silvery-white metal, approximately 15 feet across. It''s
-  almost never encountered this form, however, being far better known for its ability
-  to intricately fold its body thousands of times in an instant to reconfigure itself
-  into a varied assortment of deadly animal-like shapes.<br/><br/><b><u>Recall Knowledge
-  - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 18<br/><b><u>Unspecific Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>:
-  DC 13'
 dexterity: '+4'
 element: Metal
 fly_speed: '10'

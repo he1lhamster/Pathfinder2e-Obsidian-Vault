@@ -12,30 +12,6 @@ creature_ability:
 - Vacuum
 - Viscous Breath
 creature_family: null
-description: 'Some dangers lurking within the Endless Sky can doom prey before they
-  even realize it; such are the ambush tactics of the 20-foot-tall elementals known
-  as veldenars. Their inherent invisibility and pale, almost translucent forms make
-  them among the most deadly creatures to call the [[DATABASE/plane/Plane of Air|Plane
-  of Air]] home.<br/><br/> Veldenars resemble amphibians from the [[DATABASE/plane/Material
-  Plane|Universe]] , albeit with myriad red eyes and an affinity for cold. Hunting
-  along the edges of eternal storms, the event horizons of dead zones, and the banks
-  of sky streams, veldenars prey on the lesser denizens of their home plane. They
-  can often be found using their natural buoyancy to drift among the large chunks
-  of magical ice that crossed onto the Plane of Air from its former border with the
-  [[DATABASE/plane/Plane of Water|Plane of Water]] . There, they extend their tongues
-  to trap unwary flying insects or adventurers who might happen to float by. Their
-  multiple eyes keep watch for their next meal even while devouring current prey.<br/><br/>
-  The intense cold of a veldenar''s stomach rapidly incapacitates its victims, allowing
-  the predator to focus on returning to invisibility and finding a secluded spot to
-  digest. Victims who escape the veldenar''s stomach often feel chilled to the bone
-  for days.<br/><br/> Veldenars aren''t discerning about who or what they inhale.
-  As a result, kinds of scrap can collect in their stomachs, especially inorganic
-  material. Those hunting veldenars often wait until the elemental needs to regurgitate
-  debris, as this is one of the few times a veldenar can be caught in a compromising
-  position, unable to capture anything due to their clogged esophagus.<br/><br/><b><u>Recall
-  Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 28<br/><b><u>Unspecific Lore</u></b>: DC 26<br/><b><u>Specific Lore</u></b>:
-  DC 23'
 dexterity: '+5'
 element: Air
 fly_speed: '25'

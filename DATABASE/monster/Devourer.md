@@ -1,96 +1,51 @@
 ﻿---
-ac: '31'
-alignment: NE
+ac: null
+alignment: null
 all_resistance: null
 burrow_speed: null
-charisma: '+5'
+charisma: null
 climb_speed: null
-constitution: '+5'
-creature_ability:
-- Devour Soul
-- Drain Life
-- Soul Spells
-- Spell Deflection
+constitution: null
+creature_ability: null
 creature_family: null
-description: "When fiends and powerful evil spellcasters are lost beyond the farthest\
-  \ reaches of the multiverse, they sometimes return as horrific undead called devourers\
-  \ that consume the souls of the living to fuel their arcane machinations. Their\
-  \ bodies are ruined and rebuilt, hollow and twisted, even as their minds undergo\
-  \ a spiritual transformation. They gain the ability to bind other souls to their\
-  \ own and drain their essence for magical power, yet can never be sated in their\
-  \ pursuit of it. Seething masses of distorted ghostly shapes surge within their\
-  \ hollow rib cages\u2014manifestations of the devourers' most recently consumed\
-  \ souls.<br/><br/><b><u>Recall Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]]\
-  \ )</b>: DC 30<br/><b><u>Unspecific Lore</u></b>: DC 28<br/><b><u>Specific Lore</u></b>:\
-  \ DC 25"
-dexterity: '+3'
+dexterity: null
 element: null
-fly_speed: '30'
-fortitude: '+20'
+fly_speed: null
+fortitude: null
 hardness: null
-hp: 175 ( negative healing )
-id: '612'
-immunity:
-- '[[DATABASE/trait/Death|death]] effects'
-- '[[DATABASE/trait/Disease|disease]]'
-- '[[DATABASE/condition/Paralyzed|paralyzed]]'
-- '[[DATABASE/trait/Poison|poison]]'
-- spell deflection
-- '[[DATABASE/condition/Unconscious|unconscious]]'
-intelligence: '+5'
-land_speed: '30'
-language:
-- '[[DATABASE/language/Abyssal|Abyssal]]'
-- '[[DATABASE/language/Celestial|Celestial]]'
-- '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Infernal|Infernal]]'
-- '[[DATABASE/language/Necril|Necril]]'
-level: '11'
-max_speed: '30'
+hp: null
+id: '467'
+immunity: null
+intelligence: null
+land_speed: null
+language: null
+level: null
+max_speed: null
 name: Devourer
-perception: '+22'
-rarity: Uncommon
-reflex: '+18'
+perception: null
+rarity: null
+reflex: null
 resistance: null
 rus_type_level: null
 school: null
-sense:
-- '[[DATABASE/monsterability/Darkvision|darkvision]]'
-size: Large
-skill:
-- '[[DATABASE/skill/Arcana|Arcana]] +21'
-- '[[DATABASE/skill/Deception|Deception]] +21'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +23'
-- '[[DATABASE/skill/Occultism|Occultism]] +23'
-- '[[DATABASE/skill/Stealth|Stealth]] +19'
-source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
-speed:
-- 30 feet
-- fly 30 feet
-spell:
-- '[[DATABASE/spell/Bind Undead|Bind Undead]]'
-- '[[DATABASE/spell/Confusion|Confusion]]'
-- '[[DATABASE/spell/Death Knell|Death Knell]]'
-- '[[DATABASE/spell/Feeblemind|Feeblemind]]'
-- '[[DATABASE/spell/Harm|Harm]]'
-- '[[DATABASE/spell/Paralyze|Paralyze]]'
-- '[[DATABASE/spell/Suggestion|Suggestion]]'
-- '[[DATABASE/spell/True Seeing|TrueSeeing]]'
-strength: '+7'
-strength_req: '7'
-strongest_save:
-- Will
+sense: null
+size: null
+skill: null
+source: '[[DATABASE/source/Pathfinder 148. Fires of the Haunted City|Pathfinder #148:
+  Fires of the Haunted City]]'
+speed: null
+spell: null
+strength: null
+strength_req: null
+strongest_save: null
 swim_speed: null
-trait:
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
-- '[[DATABASE/trait/Undead|Undead]]'
-type: Creature
-vision: Darkvision
-weakest_save:
-- Reflex
+trait: null
+type: null
+vision: null
+weakest_save: null
 weakness: null
-will: '+24'
-wisdom: '+4'
+will: null
+wisdom: null
 
 ---
 # Devourer

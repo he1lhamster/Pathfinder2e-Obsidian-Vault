@@ -13,20 +13,6 @@ creature_ability:
 - Cooling Glob
 - Smoldering Haze
 creature_family: null
-description: 'The slurry from alchemical experiments is often as flammable as it is
-  toxic. In especially volatile cases, a fuming sludge can form from ignited pools
-  of unstable alchemical runoff. It resembles a charcoal-colored slurry studded with
-  tiny embers, and it continually emits a thin haze of accelerant that amplifies the
-  fires it starts.<br/><br/> A fuming sludge must consume the base chemicals of living
-  creatures to survive and can instinctively identify the complex molecules found
-  in most animate creatures. The first meal of many a fuming sludge is its accidental
-  creator, but it soon moves on to hunt in lush forests or densely populated settlements.
-  A fuming sludge can extrude a powerful pseudopod to strike its victims, but it can
-  also eject portions of its body with peristaltic contractions. These rapidly-cooling
-  globs of goo slow down fleeing prey, but the cold, crusty residue can also alert
-  canny explorers to their presence.<br/><br/><b><u>Recall Knowledge - Ooze</u> (
-  [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 25<br/><b><u>Unspecific Lore</u></b>:
-  DC 23<br/><b><u>Specific Lore</u></b>: DC 20'
 dexterity: '-3'
 element: null
 fly_speed: null

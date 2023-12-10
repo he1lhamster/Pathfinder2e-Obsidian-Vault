@@ -9,13 +9,6 @@ constitution: '+3'
 creature_ability:
 - Swarming Snips
 creature_family: '[[DATABASE/monsterfamily/Crab|Crab]]'
-description: 'When hermit crabs find a shell that is too large, they lie in wait for
-  others to arrive and move into the shell, abandoning a possible replacement. This
-  can form a large chain of queuing crabs waiting to upgrade their shells. Interruptions
-  can aggravate the crabs, resulting in attacks against the unfortunate source of
-  disruption.<br/><br/><b><u>Recall Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 19<br/><b><u>Unspecific Lore</u></b>: DC 17<br/><b><u>Specific Lore</u></b>:
-  DC 14'
 dexterity: '+2'
 element: null
 fly_speed: null

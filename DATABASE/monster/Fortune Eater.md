@@ -12,22 +12,6 @@ creature_ability:
 - Team Attack
 - Unluck Aura
 creature_family: null
-description: "The fickle finger of fate has quashed hundreds of fledgling adventurers,\
-  \ sometimes in a particularly memorable or ignominious manner. When a number of\
-  \ would-be heroes perish together in such a way, their restless spirits might arise\u2014\
-  spurred by jealousy\u2014to become a fortune eater. A fortune eater is a collective\
-  \ entity that might lurk near fortune tellers, taverns, or Pathfinder Society lodges\
-  \ where adventurers are likely to pass through. The spirit then follows the heroes\
-  \ on their quests until the right moment, when the spirit manifests their unfortunate\
-  \ abilities to get the party killed and potentially add them to the collective.\
-  \ Sometimes they linger near the lairs of a powerful monster, waiting for parties\
-  \ of unwary adventurers.<br/><br/> A fortune eater lingers because of unfinished\
-  \ business: to move on, they must help a hero defeat a great threat or acquire a\
-  \ legendary item. Ironically, their jealousy, rage, and powers of bad luck make\
-  \ this extremely unlikely.<br/><br/><b><u>Recall Knowledge - Spirit</u> ( [[DATABASE/skill/Occultism|Occultism]]\
-  \ )</b>: DC 28<br/><b><u>Recall Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]]\
-  \ )</b>: DC 28<br/><b><u>Unspecific Lore</u></b>: DC 26<br/><b><u>Specific Lore</u></b>:\
-  \ DC 23"
 dexterity: '+6'
 element: null
 fly_speed: '30'

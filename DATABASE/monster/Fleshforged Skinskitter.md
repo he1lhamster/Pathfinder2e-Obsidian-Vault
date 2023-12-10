@@ -1,70 +1,66 @@
 ﻿---
-ac: '18'
-alignment: N
+ac: '16'
+alignment: CN
 all_resistance: null
-burrow_speed: '15'
-charisma: '-2'
+burrow_speed: null
+charisma: '-5'
 climb_speed: null
-constitution: '+2'
+constitution: '+1'
 creature_ability:
-- Anesthetic Saliva
-- Harvest Flesh
-- Surgical Mandibles
-creature_family: '[[DATABASE/monsterfamily/Skin Beetle|Skin Beetle]]'
-description: "A typical skin beetle is 1-1/2 feet long and weighs 10 pounds\u2014\
-  about the size of a house cat. Its oval-shaped body is covered in dull-colored scales,\
-  \ and short, club-like antennae stem from shallow grooves in its head.<br/><br/><b><u>Recall\
-  \ Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 20<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>: DC 15"
+- A Taste for Skin
+- Share the Skin
+- Shuddering Skitter
+creature_family: '[[DATABASE/monsterfamily/Fleshforged|Fleshforged]]'
 dexterity: '+4'
 element: null
-fly_speed: '15'
-fortitude: '+9'
+fly_speed: null
+fortitude: '+6'
 hardness: null
-hp: '55'
-id: '2461'
-immunity: null
+hp: '20'
+id: '2408'
+immunity:
+- '[[DATABASE/trait/Mental|mental]]'
 intelligence: '-5'
 land_speed: '20'
 language: null
-level: '3'
+level: '1'
 max_speed: '20'
-name: Skin Beetle
-perception: '+9'
-rarity: Uncommon
-reflex: '+13'
+name: Skinskitter
+perception: '+7'
+rarity: Common
+reflex: '+9'
 resistance: null
 rus_type_level: null
 school: null
 sense:
-- '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
-size: Tiny
+- a taste for skin (imprecise) 60 feet
+size: Small
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +10'
-- '[[DATABASE/skill/Medicine|Medicine]] +9'
-- '[[DATABASE/skill/Stealth|Stealth]] +10'
-source: '[[DATABASE/source/Pathfinder 188. They Watched the Stars|Pathfinder #188:
-  They Watched the Stars]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +7'
+- '[[DATABASE/skill/Athletics|Athletics]] +5'
+- '[[DATABASE/skill/Stealth|Stealth]] +7'
+source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 speed:
 - 20 feet
-- burrow 15 feet
-- fly 15 feet
+- swim 20 feet
 spell: null
-strength: '+1'
-strength_req: '1'
+strength: '+2'
+strength_req: '2'
 strongest_save:
 - Reflex
-swim_speed: null
+swim_speed: '20'
 trait:
-- '[[DATABASE/trait/Animal|Animal]]'
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
+- '[[DATABASE/trait/Aberration|Aberration]]'
+- '[[DATABASE/trait/Amphibious|Amphibious]]'
+- '[[DATABASE/trait/Mindless|Mindless]]'
 type: Creature
-vision: Low-light vision
+vision: null
 weakest_save:
 - Will
-weakness: null
-will: '+7'
-wisdom: '+2'
+weakness:
+- '[[DATABASE/equipment/Cold Iron Weapon|cold iron]] 2'
+will: '+5'
+wisdom: '+0'
 
 ---
 # Fleshforged Skinskitter

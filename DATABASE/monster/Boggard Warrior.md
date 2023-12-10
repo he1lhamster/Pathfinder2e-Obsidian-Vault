@@ -11,11 +11,6 @@ creature_ability:
 - Terrifying Croak
 - Tongue Grab
 creature_family: '[[DATABASE/monsterfamily/Boggard|Boggard]]'
-description: 'Boggard warriors exalt in single combat, and prefer to fight alone so
-  that none can contest their kills. They have been known to pursue enemies who flee
-  combat with a single-mindedness that seems almost supernatural.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 16<br/><b><u>Unspecific
-  Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>: DC 11'
 dexterity: '+0'
 element: null
 fly_speed: null

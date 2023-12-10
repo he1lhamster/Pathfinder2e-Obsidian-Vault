@@ -11,25 +11,6 @@ creature_ability:
 - Flash of Insight
 - Swipe
 creature_family: '[[DATABASE/monsterfamily/Cyclops|Cyclops]]'
-description: "The kingdoms of the cyclopes date to an age before the rise of humanity,\
-  \ when dragons and giants and serpentfolk ruled the world. The cyclopes built enormous\
-  \ stone cities and prayed to ancient gods of brutality and wrath, but their power\
-  \ to foresee the future failed them, and their civilization collapsed. Today, most\
-  \ cyclopes have virtually no knowledge of the former glory of their kind, even though\
-  \ it is not uncommon for them to dwell among the ruins of their greatness. Cyclops\
-  \ cities include monuments and imposing murals which depict their peoples\u2019\
-  \ history, but few now among them can read or interpret these relics of the past.<br/><br/>\
-  \ In addition to their single eye, cyclopes are also famous for their never-ending\
-  \ hunger, an appetite so all-consuming that some scholars theorize it may in fact\
-  \ be some kind of curse. The ever-present hunger of the cyclopes seems to have some\
-  \ connection to the death of their civilization\u2014though whether this voracity\
-  \ was the cause or a side-effect of their people\u2019s downfall is likely destined\
-  \ to remain a mystery.<br/><br/> Although details of the cyclopes\u2019 gods have\
-  \ largely been lost to the annals of time, what little is known about these deities\
-  \ suggests they were vindictive and petty enough to curse their own people if they\
-  \ felt neglected or badly served.<br/><br/><b><u>Recall Knowledge - Humanoid</u>\
-  \ ( [[DATABASE/skill/Society|Society]] )</b>: DC 22<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 20<br/><b><u>Specific Lore</u></b>: DC 17"
 dexterity: '-1'
 element: null
 fly_speed: null

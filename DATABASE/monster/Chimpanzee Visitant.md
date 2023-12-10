@@ -12,12 +12,6 @@ creature_ability:
 - Vengeful Presence
 - Whip Vulnerability
 creature_family: '[[DATABASE/monsterfamily/Visitant|Visitant]]'
-description: "Common circus animals viewed as expendable by their caretakers are perhaps\
-  \ the most likely to rise as visitants. Animals that die en masse\u2014such as in\
-  \ a tent fire or other disaster\u2014can even form packs of roving undead.<br/><br/><b><u>Recall\
-  \ Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 18<br/><b><u>Recall\
-  \ Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 18<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>: DC 13"
 dexterity: '+4'
 element: null
 fly_speed: null

@@ -15,18 +15,6 @@ creature_ability:
 - ''
 - Wraith Spawn
 creature_family: '[[DATABASE/monsterfamily/Wraith|Wraith]]'
-description: "These menacing spiritual remnants of wicked warlords or bloodthirsty\
-  \ generals are towering specters of shadow and death. Like other wraiths, dread\
-  \ wraiths haunt the shadowy places of the world, but dread wraiths are more likely\
-  \ to travel greater distances to sow terror or amass influence, often sticking to\
-  \ dark glades or sinister ruins when journeying across sun-dappled lands. Dread\
-  \ wraiths tends to be arrogant and rarely form a pack with others of their kind,\
-  \ preferring instead to dominate groups of ordinary wraiths. A particularly powerful\
-  \ necromancer might compel packs of dread wraiths into service, however, while a\
-  \ particularly malevolent goal\u2014such as to eradicate a bastion of light and\
-  \ life\u2014might draw several dread wraiths together in a common purpose.<br/><br/><b><u>Recall\
-  \ Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 26<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 24<br/><b><u>Specific Lore</u></b>: DC 21"
 dexterity: '+6'
 element: null
 fly_speed: '60'

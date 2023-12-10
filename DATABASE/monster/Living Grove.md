@@ -10,14 +10,6 @@ creature_ability:
 - Defensive Camouflage
 - Engulf
 creature_family: '[[DATABASE/monsterfamily/Elemental, Wood|Elemental, Wood]]'
-description: 'A living grove is a singular connected entity, with dozens of genetically
-  identical trunks united within the same root system. At rest, a living grove resembles
-  nothing so much as a small arboretum of birch and aspen trees, though oak and redwood
-  varieties that are significantly larger and tougher exist as well.<br/><br/><b><u>Recall
-  Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 20<br/><b><u>Recall Knowledge - Plant</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 20<br/><b><u>Unspecific Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>:
-  DC 15'
 dexterity: '+0'
 element: Wood
 fly_speed: null

@@ -12,27 +12,6 @@ creature_ability:
 - Recall Reflection
 - Shell Block
 creature_family: null
-description: 'Ledaluscas are reflective water elementals that can bring forth images
-  previously reflected on their surfaces and wholly freeze themselves in the shapes
-  of what they reflected. They explore and protect the calmest boundaries of the icy
-  regions of the [[DATABASE/plane/Plane of Water|Plane of Water]] , where ice forms
-  in shiny, flawless sheets.<br/><br/> Insatiably curious, their eagerness propels
-  some ledaluscas to pickpocket interesting-looking objects to play with. Others travel
-  to different planes to locate, observe, and reflect a wider variety of creatures
-  than those on their home plane. They pretend to be ice sculptures or still pools
-  for this purpose, especially if they can find a spot in a high-traffic area to inhabit.
-  Despite their perfect mimicry, ledaluscas are unable to create an appearance from
-  scratch, nor can they adjust the appearance they take on or combine elements of
-  different reflections. Some of them find this disheartening, like artists vexed
-  by a lack of creativity.<br/><br/> One of the strangest encounters a ledalusca can
-  experience is with a creature or object that has no reflection. A ledalusca can
-  see a [[DATABASE/monsterfamily/Vampire|vampire]] , for example, but is unable to
-  reproduce its image. For a creature that effectively has an unlimited memory for
-  images, this proves utterly confusing. The vague memory of the encounter sticks
-  in the ledalusca''s mind like a splintering a humanoid''s finger.<br/><br/><b><u>Recall
-  Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 16<br/><b><u>Unspecific Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>:
-  DC 11'
 dexterity: '+3'
 element: Water
 fly_speed: null

@@ -1,88 +1,93 @@
 ﻿---
-ac: '40'
-alignment: N
+ac: '25'
+alignment: CG
 all_resistance: null
 burrow_speed: null
-charisma: '-5'
+charisma: '+5'
 climb_speed: null
-constitution: '+9'
+constitution: '+5'
 creature_ability:
-- Destructive Strike
-- Golem Antimagic
-- Inexorable March
-- Repair Mode
-- Self-Repair
-- Vent
-- Splinters
-- Vulnerable to Dispelling and Shape Wood
-creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]]
-  )</b>: DC 41<br/><b><u>Unspecific Lore</u></b>: DC 39<br/><b><u>Specific Lore</u></b>:
-  DC 36'
-dexterity: '-1'
+- Free Expression
+creature_family: '[[DATABASE/monsterfamily/Azata|Azata]]'
+dexterity: '+3'
 element: null
-fly_speed: null
-fortitude: '+31'
+fly_speed: '45'
+fortitude: '+14'
 hardness: null
-hp: 255 (repair mode)
-id: '1802'
-immunity:
-- bleed
-- '[[DATABASE/trait/Death|death]] effects'
-- '[[DATABASE/trait/Disease|disease]]'
-- '[[DATABASE/condition/Doomed|doomed]]'
-- '[[DATABASE/condition/Drained|drained]]'
-- '[[DATABASE/condition/Fatigued|fatigued]]'
-- '[[DATABASE/trait/Healing|healing]]'
-- magic (see below)
-- '[[DATABASE/trait/Mental|mental]]'
-- '[[DATABASE/trait/Necromancy|necromancy]]'
-- '[[DATABASE/trait/Nonlethal|nonlethal]] attacks'
-- '[[DATABASE/condition/Paralyzed|paralyzed]]'
-- '[[DATABASE/trait/Poison|poison]]'
-- '[[DATABASE/condition/Sickened|sickened]]'
-- '[[DATABASE/condition/Unconscious|unconscious]]'
-intelligence: '-5'
-land_speed: '30'
-language: null
-level: '17'
-max_speed: '30'
-name: Lignified Adamantine Golem
-perception: '+26'
-rarity: Rare
-reflex: '+25'
-resistance:
-- physical 15 (except [[DATABASE/equipment/Adamantine Weapon|adamantine]] )
+hp: '145'
+id: '36'
+immunity: null
+intelligence: '+2'
+land_speed: '25'
+language:
+- '[[DATABASE/language/Celestial|Celestial]]'
+- '[[DATABASE/language/Draconic|Draconic]]'
+- '[[DATABASE/language/Infernal|Infernal]] ; [[DATABASE/spell/Speak with Animals|speak
+  with animals]]'
+- '[[DATABASE/spell/Speak with Plants|speak with plants]]'
+- '[[DATABASE/spell/Tongues|tongues]]'
+level: '7'
+max_speed: '45'
+name: Lillend
+perception: '+16'
+rarity: Common
+reflex: '+16'
+resistance: null
 rus_type_level: null
 school: null
 sense:
-- '[[DATABASE/monsterability/Darkvision|darkvision]]'
+- darkvision
 size: Large
 skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +36'
-source: '[[DATABASE/source/Pathfinder 174. Shadows of the Ancients|Pathfinder #174:
-  Shadows of the Ancients]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +14'
+- '[[DATABASE/skill/Deception|Deception]] +16'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +18'
+- '[[DATABASE/skill/Nature|Nature]] +14'
+- '[[DATABASE/skill/Performance|Performance]] +20'
+- '[[DATABASE/skill/Religion|Religion]] +14'
+- '[[DATABASE/skill/Survival|Survival]] +12'
+source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
-- 30 feet
-spell: null
-strength: '+9'
-strength_req: '9'
+- 25 feet
+- fly 45 feet
+spell:
+- '[[DATABASE/spell/Charm|Charm]]'
+- '[[DATABASE/spell/Counter Performance|CounterPerformance]]'
+- '[[DATABASE/spell/Darkness|Darkness]]'
+- '[[DATABASE/spell/Daze|Daze]]'
+- '[[DATABASE/spell/Detect Magic|DetectMagic]]'
+- '[[DATABASE/spell/Ghost Sound|Ghost Sound]]'
+- '[[DATABASE/spell/Hallucinatory Terrain|Hallucinatory Terrain]]'
+- '[[DATABASE/spell/Heal|Heal]]'
+- '[[DATABASE/spell/Inspire Competence|Inspire Competence]]'
+- '[[DATABASE/spell/Inspire Courage|Inspire Courage]]'
+- '[[DATABASE/spell/Inspire Heroics|Inspire Heroics]]'
+- '[[DATABASE/spell/Invisibility|Invisibility]]'
+- '[[DATABASE/spell/Light|Light]]'
+- '[[DATABASE/spell/Sleep|Sleep]]'
+- '[[DATABASE/spell/Sound Burst|Sound Burst]]'
+- '[[DATABASE/spell/Speak with Animals|Speak with Animals]]'
+- '[[DATABASE/spell/Speak with Plants|Speak with Plants]]'
+- '[[DATABASE/spell/Suggestion|Suggestion]]'
+- '[[DATABASE/spell/Tongues|Tongues]]'
+strength: '+4'
+strength_req: '4'
 strongest_save:
-- Fortitude
+- Reflex
+- Will
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Construct|Construct]]'
-- '[[DATABASE/trait/Golem|Golem]]'
-- '[[DATABASE/trait/Mindless|Mindless]]'
-- '[[DATABASE/trait/Rare|Rare]]'
+- '[[DATABASE/trait/Azata|Azata]]'
+- '[[DATABASE/trait/Celestial|Celestial]]'
 type: Creature
 vision: Darkvision
 weakest_save:
-- Reflex
-weakness: null
-will: '+27'
-wisdom: '+0'
+- Fortitude
+weakness:
+- cold iron 10
+- evil 10
+will: '+16'
+wisdom: '+3'
 
 ---
 # Lillend (Muse Azata)

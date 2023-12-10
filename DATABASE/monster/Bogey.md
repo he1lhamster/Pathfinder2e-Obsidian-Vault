@@ -10,12 +10,6 @@ creature_ability:
 - Devour Soul
 - Surprise Attack
 creature_family: '[[DATABASE/monsterfamily/Bogeyman|Bogeyman]]'
-description: 'A bogey typically hunts a single creature at a time, usually a small
-  child or elderly person, methodically stalking and tormenting their prey. Often
-  hiding under a bed, amid a dark attic space, or in a closet left slightly ajar,
-  the bogey delights in the slow, methodical cultivation of fear in its victims.<br/><br/><b><u>Recall
-  Knowledge - Fey</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 20<br/><b><u>Unspecific
-  Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>: DC 15'
 dexterity: '+3'
 element: null
 fly_speed: null

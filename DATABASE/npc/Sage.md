@@ -10,14 +10,6 @@ creature_ability:
 - Sage's Analysis
 - Timely Advice
 creature_family: '[[DATABASE/monsterfamily/Scholars|Scholars]]'
-description: 'The greatest knowledge comes from experience. Village elders, ancient
-  seers, and advisors to royalty are examples of individuals who are valued for their
-  experiences. Sages serve their people as much as their sovereigns. They educate
-  and try to prevent their people from straying from their cultures'' acceptable norms
-  and traditions. Sages rarely take power for themselves, as they take their responsibility
-  seriously to guide wisely and empower those they serve.<br/><br/><b><u>Recall Knowledge
-  - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 22<br/><b><u>Unspecific
-  Lore</u></b>: DC 20<br/><b><u>Specific Lore</u></b>: DC 17'
 dexterity: '+2'
 element: null
 fly_speed: null

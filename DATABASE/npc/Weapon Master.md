@@ -11,11 +11,6 @@ creature_ability:
 - Dueling Expertise
 - Swift Blow
 creature_family: null
-description: 'The weapon master is a deadly expert with their weapon of choice. Whenever
-  possible, the weapon master engages an opponent one on one, and they prefer to begin
-  combat unarmed and use their Swift Blow to catch a foe unawares.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 33<br/><b><u>Unspecific
-  Lore</u></b>: DC 31<br/><b><u>Specific Lore</u></b>: DC 28'
 dexterity: '+2'
 element: null
 fly_speed: null

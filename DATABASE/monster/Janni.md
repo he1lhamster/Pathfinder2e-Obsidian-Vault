@@ -10,15 +10,6 @@ creature_ability:
 - Change Size
 - Elemental Endurance
 creature_family: '[[DATABASE/monsterfamily/Genie|Genie]]'
-description: "Jann are genies composed of all four elements, meaning they are not\
-  \ quite home on any of the Elemental Planes. Instead, jann reside on the Material\
-  \ Plane, making only brief forays to the other parts of the Inner Sphere. Although\
-  \ they are human in size and appearance, jann are not at all related to humans and\
-  \ bristle at any claims to this effect. They are a proud people and take great care\
-  \ to maintain their honor\u2014restoring that honor with the edge of a sword, if\
-  \ necessary.<br/><br/><b><u>Recall Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]]\
-  \ , [[DATABASE/skill/Nature|Nature]] )</b>: DC 19<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 17<br/><b><u>Specific Lore</u></b>: DC 14"
 dexterity: '+2'
 element: null
 fly_speed: '15'

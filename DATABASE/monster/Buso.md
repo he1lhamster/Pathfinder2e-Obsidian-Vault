@@ -9,34 +9,6 @@ constitution: '+2'
 creature_ability:
 - Resize Plant
 creature_family: null
-description: "Busos are tree-dwelling folk with a simmering desire to consume the\
-  \ flesh of others. They heavily supplement their food with leaves and root crops,\
-  \ possess significant knowledge of agriculture, and boast innate powers over plants\
-  \ and their growth. In regards to meat, however, busos reject the flesh of beasts;\
-  \ they instead consume other [[DATABASE/trait/Humanoid|humanoids]] . Not only do\
-  \ they find the taste of other creatures repulsive, but their bodies reject non-humanoid\
-  \ meat since it provides them no nutritional value and consuming it leaves them\
-  \ sickened and weak.<br/><br/> Busos' unusual dietary needs mean they're almost\
-  \ always at odds with neighboring cultures. They typically maintain decent relations\
-  \ only with [[DATABASE/ancestry/Goblin|goblins]] , who are as a people less prone\
-  \ to judging others based on diet. Other communities fear busos\u2014with some justification\u2014\
-  though aside from the occasional forays to harvest someone for their next meal,\
-  \ busos tend to keep to themselves. In some desperate locations, communities faced\
-  \ with famine or other natural disasters might even seek out busos' aid, offering\
-  \ victims in exchange for knowledge or magical assistance that might save their\
-  \ communities from slow and terrible deaths through starvation.<br/><br/> A buso's\
-  \ single eye sometimes leads to them being compared to [[DATABASE/monsterfamily/Cyclops|cyclopes]]\
-  \ . However, both types of creatures deny any common ancestry, and they first appeared\
-  \ independently in entirely different parts of the world with substantially divergent\
-  \ abilities. For their part, busos believe that their ancestors' deeds gave rise\
-  \ to their single eyes. When faced with a famine that threatened their existence,\
-  \ these ancestors each cut out one of their eyes as an offering to the malevolent\
-  \ spirits of the forest, imploring for their salvation. Busos say that these spirits,\
-  \ whom they call the busaw, gave them their knowledge of agriculture, power over\
-  \ plants, and craving for sentient flesh. Henceforth, they revered the busaw as\
-  \ gods and called themselves buso: those who worship the busaw.<br/><br/><b><u>Recall\
-  \ Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 18<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>: DC 13"
 dexterity: '+1'
 element: null
 fly_speed: null

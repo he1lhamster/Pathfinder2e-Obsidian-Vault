@@ -10,22 +10,6 @@ creature_ability:
 - Dark Naga Venom
 - Guarded Thoughts
 creature_family: '[[DATABASE/monsterfamily/Naga|Naga]]'
-description: "Dark nagas are wicked, jealous creatures that crave power and wealth.\
-  \ Indeed, the dark naga sees such ideals as spiritual expressions of an essential\
-  \ truth: if one can take something, that something is theirs to have. The dark naga\
-  \ sees other creatures as lessers worthy only of subjugation or as rivals who must\
-  \ be eliminated.<br/><br/> Dark nagas dwell in remote places other creatures have\
-  \ forsaken, searching abandoned ruins for wealth and potent magic items. Those unlucky\
-  \ trespassers into a dark naga\u2019s lair typically find themselves as the naga\u2019\
-  s slaves or playthings, put to sleep with the monster\u2019s poison or incinerated\
-  \ by its deadly magic. Some dark nagas are more disposed toward socializing than\
-  \ others; in these cases, they may become wicked despots who rule over enclaves\
-  \ of captive or unsuspecting subjects. Subtler dark nagas, especially those who\
-  \ crave finer luxuries, dwell in or under the wealthy settlements and use their\
-  \ wiles to garner a decadent following, forming something akin to a cult with the\
-  \ naga as the jewelry-bedecked object of worship.<br/><br/><b><u>Recall Knowledge\
-  \ - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 25<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 23<br/><b><u>Specific Lore</u></b>: DC 20"
 dexterity: '+6'
 element: null
 fly_speed: null

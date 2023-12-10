@@ -15,9 +15,6 @@ creature_ability:
 - ''
 - Swarm Shape
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 52<br/><b><u>Unspecific
-  Lore</u></b>: DC 50<br/><b><u>Specific Lore</u></b>: DC 47'
 dexterity: '+9'
 element: null
 fly_speed: null

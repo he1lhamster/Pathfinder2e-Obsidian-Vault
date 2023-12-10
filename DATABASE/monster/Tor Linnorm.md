@@ -16,11 +16,6 @@ creature_ability:
 - Slashing Claws
 - Tor Linnorm Venom
 creature_family: '[[DATABASE/monsterfamily/Linnorm|Linnorm]]'
-description: "Tor linnorms dwell in the tallest volcanic mountains, either within\
-  \ natural formed caverns or within molten craters. A tor linnorm\u2019s temper can\
-  \ be as hot and destructive as the magma the creature resembles.<br/><br/><b><u>Recall\
-  \ Knowledge - Dragon</u> ( [[DATABASE/skill/Arcana|Arcana]] )</b>: DC 44<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 42<br/><b><u>Specific Lore</u></b>: DC 39"
 dexterity: '+8'
 element: Fire
 fly_speed: '100'

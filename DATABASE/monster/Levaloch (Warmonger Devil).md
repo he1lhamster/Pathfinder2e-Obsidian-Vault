@@ -1,58 +1,68 @@
 ﻿---
-ac: '21'
-alignment: CE
+ac: '25'
+alignment: LE
 all_resistance: null
 burrow_speed: null
-charisma: '+4'
-climb_speed: '25'
+charisma: '+1'
+climb_speed: '30'
 constitution: '+4'
 creature_ability:
-- Language Adaptation
-- Luring Cry
-- Sound Mimicry
-creature_family: null
-description: 'The vile and vicious offspring of a demon lord and a monstrous species
-  of hyenas, leucrottas are intelligent and cruel beasts. They use their astounding
-  vocal mimicry to lure unsuspecting creatures near so that they can first torment
-  and then devour them. Leucrottas measure 5 feet at the shoulder and weigh 800 pounds,
-  and they are perpetually filthy. A leucrotta''s oversized jaws are lined with rows
-  of jagged, hardened bony ridges rather than teeth, and it can shear through flesh,
-  bone, and even steel with ease.<br/><br/><b><u>Recall Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Nature|Nature]] )</b>: DC 20<br/><b><u>Unspecific Lore</u></b>:
-  DC 18<br/><b><u>Specific Lore</u></b>: DC 15'
-dexterity: '+2'
+- Barbed Net
+- Forge Weapon
+- Hellstrider
+- Merciless Thrust
+- Phalanx Fighter
+- Stable Stance
+creature_family: '[[DATABASE/monsterfamily/Devil|Devil]]'
+dexterity: '+3'
 element: null
 fly_speed: null
-fortitude: '+15'
+fortitude: '+17'
 hardness: null
-hp: '85'
-id: '718'
-immunity: null
-intelligence: '+0'
-land_speed: '50'
+hp: '105'
+id: '1114'
+immunity:
+- '[[DATABASE/trait/Death|death]] effects'
+- '[[DATABASE/trait/Disease|disease]]'
+- '[[DATABASE/condition/Doomed|doomed]]'
+- '[[DATABASE/condition/Drained|drained]]'
+- '[[DATABASE/condition/Fatigued|fatigued]]'
+- fire
+- '[[DATABASE/trait/Healing|healing]]'
+- '[[DATABASE/trait/Necromancy|necromancy]]'
+- '[[DATABASE/trait/Nonlethal|nonlethal]] attacks'
+- '[[DATABASE/condition/Paralyzed|paralyzed]]'
+- '[[DATABASE/trait/Poison|poison]]'
+- '[[DATABASE/condition/Sickened|sickened]]'
+- '[[DATABASE/condition/Unconscious|unconscious]]'
+intelligence: '+2'
+land_speed: '30'
 language:
-- '[[DATABASE/language/Common|Common]] ; one additional language (usually Gnoll)'
-level: '5'
-max_speed: '50'
-name: Leucrotta
-perception: '+11'
+- '[[DATABASE/language/Celestial|Celestial]]'
+- '[[DATABASE/language/Infernal|Infernal]] ; [[DATABASE/monsterability/Telepathy|telepathy]]
+  100 feet'
+level: '7'
+max_speed: '30'
+name: Levaloch
+perception: '+16'
 rarity: Common
-reflex: '+9'
-resistance: null
+reflex: '+14'
+resistance:
+- physical 5 (except [[DATABASE/equipment/Silver Weapon|silver]] )
 rus_type_level: null
 school: null
 sense:
-- '[[DATABASE/monsterability/Darkvision|darkvision]]'
-- '[[DATABASE/monsterability/Scent|scent (imprecise) 30 feet]]'
+- '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 size: Large
 skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +13'
-- '[[DATABASE/skill/Deception|Deception]] +13'
-- '[[DATABASE/skill/Stealth|Stealth]] +11'
-source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +14'
+- '[[DATABASE/skill/Athletics|Athletics]] +17'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +14'
+- '[[DATABASE/skill/Religion|Religion]] +14'
+source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
-- 50 feet
-- climb 25 feet
+- 30 feet
+- climb 30 feet
 spell: null
 strength: '+6'
 strength_req: '6'
@@ -60,14 +70,17 @@ strongest_save:
 - Fortitude
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Beast|Beast]]'
+- '[[DATABASE/trait/Construct|Construct]]'
+- '[[DATABASE/trait/Devil|Devil]]'
+- '[[DATABASE/trait/Fiend|Fiend]]'
 type: Creature
-vision: Darkvision
+vision: Greater darkvision
 weakest_save:
-- Reflex
-weakness: null
-will: '+11'
-wisdom: '+2'
+- Will
+weakness:
+- good 5
+will: '+12'
+wisdom: '+3'
 
 ---
 # Levaloch (Warmonger Devil)

@@ -17,12 +17,6 @@ creature_ability:
 - Troop Defenses
 - Troop Movement
 creature_family: null
-description: 'Honor and broken oaths bind a last guard to a location they failed to
-  defend in life. There they must keep watch until their duties are fulfilled or they
-  are swayed by a compelling call to war, departing to march to battle.<br/><br/><b><u>Recall
-  Knowledge - Spirit</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 42<br/><b><u>Recall
-  Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 42<br/><b><u>Unspecific
-  Lore</u></b>: DC 40<br/><b><u>Specific Lore</u></b>: DC 37'
 dexterity: '+10'
 element: null
 fly_speed: '40'

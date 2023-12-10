@@ -1,74 +1,68 @@
 ﻿---
-ac: '14'
-alignment: N
+ac: '18'
+alignment: CG
 all_resistance: null
 burrow_speed: null
-charisma: '-3'
-climb_speed: '10'
-constitution: '+1'
+charisma: '+2'
+climb_speed: null
+constitution: '+0'
 creature_ability:
-- Filth Fever
-- Swarming Bites
-creature_family: '[[DATABASE/monsterfamily/Rat|Rat]]'
-description: "A swarm of rats can cause total chaos within a household or business.\
-  \ Contracting filth fever is all the easier when dozens of these agitated or hungry\
-  \ vermin gather to bite victims en masse, making rat-hunting a viable career in\
-  \ many parts of the world as desperate townspeople seek relief from the disease\u2019\
-  s spread.<br/><br/><b><u>Recall Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 15<br/><b><u>Unspecific Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>:\
-  \ DC 10"
+- Outsmart
+creature_family: '[[DATABASE/monsterfamily/Ratajin|Ratajin]]'
 dexterity: '+3'
 element: null
 fly_speed: null
-fortitude: '+2'
+fortitude: '+6'
 hardness: null
-hp: '14'
-id: '347'
-immunity:
-- precision
-- swarm mind
-intelligence: '-4'
-land_speed: '30'
-language: null
-level: '1'
-max_speed: '30'
-name: Rat Swarm
-perception: '+5'
-rarity: Common
-reflex: '+7'
-resistance:
-- physical 6 (except bludgeoning)
+hp: '30'
+id: '2414'
+immunity: null
+intelligence: '+3'
+land_speed: '25'
+language:
+- '[[DATABASE/language/Common|Common]]'
+- '[[DATABASE/language/Ratajin|Ratajin]]'
+- '[[DATABASE/language/Vudrani|Vudrani]]'
+level: '2'
+max_speed: '25'
+name: Ratajin Mastermind
+perception: '+7'
+rarity: Rare
+reflex: '+11'
+resistance: null
 rus_type_level: null
 school: null
 sense:
-- low-light vision
-- scent (imprecise) 30 feet
-size: Large
+- '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
+size: Medium
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +8'
-- '[[DATABASE/skill/Athletics|Athletics]] +4'
-- '[[DATABASE/skill/Stealth|Stealth]] +6'
-source: '[[DATABASE/source/Bestiary|Bestiary]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +7'
+- '[[DATABASE/skill/Arcana|Arcana]] +7'
+- '[[DATABASE/skill/Crafting|Crafting]] +7'
+- '[[DATABASE/skill/Deception|Deception]] +8'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +6'
+- '[[DATABASE/skill/Occultism|Occultism]] +7'
+- '[[DATABASE/skill/Society|Society]] +9'
+- '[[DATABASE/skill/Stealth|Stealth]] +7'
+source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 speed:
-- 30 feet
-- climb 10 feet
+- 25 feet
 spell: null
-strength: '-2'
-strength_req: '-2'
+strength: '+1'
+strength_req: '1'
 strongest_save:
 - Reflex
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Animal|Animal]]'
-- '[[DATABASE/trait/Swarm|Swarm]]'
+- '[[DATABASE/trait/Humanoid|Humanoid]]'
+- '[[DATABASE/trait/Rare|Rare]]'
+- '[[DATABASE/trait/Ratajin|Ratajin]]'
 type: Creature
 vision: Low-light vision
 weakest_save:
 - Fortitude
-weakness:
-- area damage 3
-- splash damage 3
-will: '+4'
+weakness: null
+will: '+7'
 wisdom: '+1'
 
 ---

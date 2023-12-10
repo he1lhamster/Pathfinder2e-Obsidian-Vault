@@ -9,10 +9,6 @@ constitution: '+1'
 creature_ability:
 - Brain Rot
 creature_family: '[[DATABASE/monsterfamily/Beheaded|Beheaded]]'
-description: 'A festering gnasher is a floating head covered in infectious pustules
-  and hollowed out by decay.<br/><br/><b><u>Recall Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 15<br/><b><u>Unspecific Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>:
-  DC 10'
 dexterity: '+4'
 element: null
 fly_speed: '25'

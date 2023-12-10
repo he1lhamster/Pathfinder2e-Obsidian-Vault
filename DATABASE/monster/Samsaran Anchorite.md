@@ -11,26 +11,6 @@ creature_ability:
 - All This Will Happen Again
 - Cryptomnesia
 creature_family: '[[DATABASE/monsterfamily/Samsaran|Samsaran]]'
-description: "A unique connection to the cycle of life and death defines the mortal\
-  \ lives of samsarans. With a tendency toward reclusiveness, samsarans have delicate\
-  \ builds, enigmatic and pupilless eyes, and blood as clear as water. When a samsaran\
-  \ dies, their body vanishes and their soul instantly reincarnates into a newborn\
-  \ child elsewhere on the same plane: usually another samsaran, but occasionally\
-  \ a humanoid of a different ancestry.<br/><br/> Though all samsarans have an innate\
-  \ understanding of their nature, they consciously remember little from their former\
-  \ lives. Some, however, are occasionally struck by disjointed memories or flashes\
-  \ of d\xE9j\xE0 vu linked to a previous existence that can earn them a reputation\
-  \ for preternatural wisdom and insight. Most samsarans prefer to lead studious lives\
-  \ filled with moments of deep reflection. Their sights remain set on the eternal\
-  \ and on enlightenment, reducing the appeal of the short-term material gains one\
-  \ can achieve in just one lifetime. A samsaran ceases their cycle of reincarnation\
-  \ only upon reaching perfect state of enlightenment\u2014or falling so far from\
-  \ harmony that they proceed to a doomed afterlife.<br/><br/> The ancestral home\
-  \ of the samsarans lies in Zi Ha, a remote mountain nation in Tian Xia. These treacherous\
-  \ mountains help ensure the solitude most samsarans prefer, and they're further\
-  \ protected by misguiding illusions, defensive wards, and secure fortifications.<br/><br/><b><u>Recall\
-  \ Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 15<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>: DC 10"
 dexterity: '+2'
 element: null
 fly_speed: null

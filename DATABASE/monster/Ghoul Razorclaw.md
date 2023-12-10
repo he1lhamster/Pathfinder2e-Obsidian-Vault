@@ -17,10 +17,6 @@ creature_ability:
 - Attacker
 - Swift Leap
 creature_family: '[[DATABASE/monsterfamily/Ghoul|Ghoul]]'
-description: 'Ghoul assassins who survive dipping their claws in molten [[DATABASE/equipment/Adamantine|adamantine]]
-  transform into razorclaws.<br/><br/><b><u>Recall Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 33<br/><b><u>Unspecific Lore</u></b>: DC 31<br/><b><u>Specific Lore</u></b>:
-  DC 28'
 dexterity: '+7'
 element: null
 fly_speed: null

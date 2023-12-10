@@ -10,42 +10,6 @@ creature_ability:
 - Earth Block Trigger
 - Gestalt
 creature_family: null
-description: "In the ancient days, before humanity dwelled on Golarion, the Vault\
-  \ Builders had need of something smaller in scale than the great vault seeds so\
-  \ they could finish their worlds as they liked. They took a small gem and wrote\
-  \ a word of power upon it. They gave it eyes so it could see and legs so it could\
-  \ walk, and made it wise. These creatures are known as kaseshi by scholars who have\
-  \ encountered them, though their true name\u2014the one that brought them into being\u2014\
-  is likely considerably more powerful.<br/><br/> Each kasesh bears a single word\
-  \ of power on their emerald body, from which they draw their mind and their magic.\
-  \ A kasesh with the word \u201CSteel\u201D or \u201CFlame\u201D is a single-minded\
-  \ creature, though it encompasses all possible permutations of meaning that the\
-  \ word possesses. A kasesh named \u201CHome\u201D or \u201CSorrow\u201D has a far\
-  \ more complex psyche, and rumor claims that Elder Architect Oblosk of Nex bears\
-  \ the word \u201CMemory.\u201D Unsurprisingly, many scholars are highly interested\
-  \ in the words on the kaseshi; unlike Thassilonian rune magic, no one has managed\
-  \ to decode or make use of the language of the Vault Builders yet.<br/><br/> The\
-  \ kasesh in the stat block bears the word \u201CStone,\u201D but other kaseshi will\
-  \ have their own magics. Some alternative examples, \u201CDarkness\u201D and \u201C\
-  Intricacy,\u201D follow below.<br/><br/> <b>Darkness</b>: This kasesh built the\
-  \ hidden places of the Vault Builders' worlds. The kasesh is 7th level, grants [[DATABASE/spell/Shadow\
-  \ Blast|shadow blast]] and [[DATABASE/spell/Shadow Walk|shadow walk]] to any gestalt\
-  \ they join, and has the following innate spells.<br/> <b>Primal Innate Spells</b>\
-  \ 4th [[DATABASE/domain/Darkness Domain|darkness]] (\xD72), [[DATABASE/spell/Enervation|enervation]]\
-  \ ; 3rd [[DATABASE/spell/Blindness|blindness]] (\xD72), [[DATABASE/spell/Share Lore|share\
-  \ lore]] ; 1st mindlink; Cantrips (4th) [[DATABASE/spell/Detect Magic|detect magic]]\
-  \ , [[DATABASE/spell/Telekinetic Projectile|telekinetic projectile]] <br/><br/>\
-  \ <b>Intricacy</b>: This kasesh was a decorator and designer. They're 11th level,\
-  \ grant [[DATABASE/spell/Hallucinatory Terrain|hallucinatory terrain]] and [[DATABASE/spell/Illusory\
-  \ Scene|illusory scene]] to any gestalt they join, and have the following innate\
-  \ spells.<br/> <b>Primal Innate Spells</b> 6th [[DATABASE/spell/Phantasmal Calamity|phantasmal\
-  \ calamity]] , [[DATABASE/spell/Phantasmal Killer|phantasmal killer]] (\xD72); 5th\
-  \ [[DATABASE/spell/Cloak of Colors|cloak of colors]] , [[DATABASE/spell/Hallucination|hallucination]]\
-  \ , <i>share lore</i>; 1st [[DATABASE/spell/Mindlink|mindlink]] ; Cantrips (6th)\
-  \ <i>detect magic</i>, <i>telekinetic projectile</i><br/><br/><b><u>Recall Knowledge\
-  \ - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 20<br/><b><u>Unspecific Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>:\
-  \ DC 15"
 dexterity: '+2'
 element: Earth
 fly_speed: null

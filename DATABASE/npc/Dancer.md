@@ -9,11 +9,6 @@ constitution: '+1'
 creature_ability:
 - Fascinating Dance
 creature_family: '[[DATABASE/monsterfamily/Performers|Performers]]'
-description: 'Dance can be used to tell stories, share emotions, provide entertainment,
-  and display a performer''s athletic ability. The dancer is a 5th-level challenge
-  for dance contests.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 15<br/><b><u>Unspecific Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>:
-  DC 10'
 dexterity: '+3'
 element: null
 fly_speed: null

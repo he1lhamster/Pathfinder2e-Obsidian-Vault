@@ -12,16 +12,6 @@ creature_ability:
 - Possess Tree
 - Woodland Dependent
 creature_family: '[[DATABASE/monsterfamily/Verdorite|Verdorite]]'
-description: 'Waldgeists act as avatars of nature that seek vengeance for environmental
-  abuse, such as pollution and deforestation. These undead spirits of destroyed trees
-  form at the site of their destruction or in a nearby woodland, if the original location
-  was entirely razed. They become guardians of the forest, possessing power over the
-  plants within its boundaries. Waldgeists show no mercy to anyone caught damaging
-  their bonded woodland, attacking loggers, [[DATABASE/trait/Fey|fey]] , travelers,
-  and invasive species with equal prejudice.<br/><br/><b><u>Recall Knowledge - Spirit</u>
-  ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 26<br/><b><u>Recall Knowledge
-  - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 26<br/><b><u>Unspecific
-  Lore</u></b>: DC 24<br/><b><u>Specific Lore</u></b>: DC 21'
 dexterity: '+6'
 element: null
 fly_speed: '30'

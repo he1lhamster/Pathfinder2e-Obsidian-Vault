@@ -10,18 +10,6 @@ creature_ability:
 - Mauler
 - Rush
 creature_family: '[[DATABASE/monsterfamily/Bear|Bear]]'
-description: "Larger, stronger, and far more aggressive than its smaller cousins,\
-  \ the cave bear is a behemoth that avoids civilized lands, preferring to dwell in\
-  \ remote places. As its name might suggest, the cave bear makes its den in natural\
-  \ caves, and like the grizzly bear, a cave bear is fiercely territorial. Unlike\
-  \ a grizzly bear, however, a cave bear is short tempered and will make sure its\
-  \ foe is dead before moving on, usually feasting on its prey\u2019s soft flesh once\
-  \ it has been incapacitated. Cave bears are often regarded as powerful guardian\
-  \ spirits by remote-dwelling people, while they are utilized as beasts of war by\
-  \ orcs or even giants\u2014stone giants in particular have an affinity for keeping\
-  \ trained cave bears as pets or guardians for their homes.<br/><br/><b><u>Recall\
-  \ Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 22<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 20<br/><b><u>Specific Lore</u></b>: DC 17"
 dexterity: '+1'
 element: null
 fly_speed: null

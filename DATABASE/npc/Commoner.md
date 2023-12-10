@@ -9,15 +9,6 @@ constitution: '+2'
 creature_ability:
 - Power of the Mob
 creature_family: '[[DATABASE/monsterfamily/Downtrodden|Downtrodden]]'
-description: 'Though not every commoner is downtrodden, many live hard lives of toil
-  as they work to keep their families fed and housed in relative comfort. While many
-  commoners are just simple folks who keep to themselves, sometimes commoners rebel,
-  either rising up to face their oppressors or persuaded or even duped into joining
-  nefarious plans and criminal conspiracies. Commoners benefit from power in numbers,
-  and a crowd of commoners can accomplish a great deal more than their rulers often
-  expect.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 13<br/><b><u>Unspecific Lore</u></b>: DC 11<br/><b><u>Specific Lore</u></b>:
-  DC 8'
 dexterity: '+1'
 element: null
 fly_speed: null

@@ -13,10 +13,6 @@ creature_ability:
 - Paralyzing Touch
 - Steady Spellcasting
 creature_family: '[[DATABASE/monsterfamily/Lich|Lich]]'
-description: 'A wizard whose insatiable desire for arcane power eclipsed their mortal
-  life, the lich is a truly devious and versatile spellcaster.<br/><br/><b><u>Recall
-  Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 35<br/><b><u>Unspecific
-  Lore</u></b>: DC 33<br/><b><u>Specific Lore</u></b>: DC 30'
 dexterity: '+4'
 element: null
 fly_speed: null

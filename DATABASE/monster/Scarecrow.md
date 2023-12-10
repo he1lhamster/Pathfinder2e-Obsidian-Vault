@@ -12,26 +12,6 @@ creature_ability:
 - Mundane Appearance
 - Scarecrow's Leer
 creature_family: null
-description: "A ramshackle collection of materials in a human shape, the scarecrow\
-  \ construct is indistinguishable from a normal scarecrow until it slowly creaks\
-  \ to life. As it animates, its carved pumpkin or sackcloth face bursts into eldritch\
-  \ flame, sending fear creeping into the air around it. Each scarecrow is handcrafted\
-  \ and unique in its appearance, though most are 5 to 6 feet tall and constructed\
-  \ of a combination of wood, cloth, rope, straw, sawdust, discarded husks and cobs,\
-  \ and similar materials, all dressed in ragged pastoral garments. This rudimentary\
-  \ construction makes a scarecrow somewhat fragile, prone to snapping limbs in the\
-  \ crush of battle. Yet its structure is adaptable, allowing it to reshape another\
-  \ piece of itself into a clawed limb or grip a severed portion of itself to swat\
-  \ at its foes.<br/><br/> When a scarecrow is created, it must be anointed with a\
-  \ drop of its creator's blood into each of its eyes. This blood soaks into the material\
-  \ and siphons a tiny sliver of the creator's soul away\u2014not enough to harm the\
-  \ creator, but more than enough to imbue the scarecrow with an instinctive intellect\
-  \ that allows it to follow commands as eagerly as a well-trained (if ill-tempered)\
-  \ guard dog. When a scarecrow is destroyed, the blood leaks back out from its eyes,\
-  \ but the portion of the creator's soul never returns.<br/><br/><b><u>Recall Knowledge\
-  \ - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]]\
-  \ )</b>: DC 19<br/><b><u>Unspecific Lore</u></b>: DC 17<br/><b><u>Specific Lore</u></b>:\
-  \ DC 14"
 dexterity: '+2'
 element: null
 fly_speed: null

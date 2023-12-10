@@ -13,20 +13,6 @@ creature_ability:
 - Interposing Earth
 - Toolbreaker
 creature_family: null
-description: 'Though it superficially resembles a cypress tree and is easily mistaken
-  for an arboreal or other similar plant creature, Temteki is actually an earth elemental,
-  a creature of living earth and stone. In normal situations, Temteki is content to
-  remain still and blend into the jungle when observing other creatures, using its
-  natural camouflage to assist in harrying those it considers interlopers disturbing
-  its home. Temteki usually dissuades such intruders with a combination of surprise
-  attacks and nonlethal snares; the elemental is more interested in getting them to
-  leave than in dealing them any permanent harm. However, to those who prove determined
-  to harm Temteki or its home, Temteki can be an implacable foe. Temteki''s asymmetrical
-  gait and appearance often alarm and confuse creatures who aren''t expecting to spot
-  it, especially since it''s surprisingly stealthy for its size and appearance.<br/><br/><b><u>Recall
-  Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 30<br/><b><u>Unspecific Lore</u></b>: DC 28<br/><b><u>Specific Lore</u></b>:
-  DC 25'
 dexterity: '+0'
 element: Earth
 fly_speed: null

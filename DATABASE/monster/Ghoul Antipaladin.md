@@ -14,10 +14,6 @@ creature_ability:
 - Shield Block
 - Swift Leap
 creature_family: '[[DATABASE/monsterfamily/Ghoul|Ghoul]]'
-description: 'The church of [[DATABASE/deity/Kabriri|Kabriri]] selects only the most
-  devoted and deadly ghouls to protect their libraries of secret-filled tomes.<br/><br/><b><u>Recall
-  Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 28<br/><b><u>Unspecific
-  Lore</u></b>: DC 26<br/><b><u>Specific Lore</u></b>: DC 23'
 dexterity: '+4'
 element: null
 fly_speed: null

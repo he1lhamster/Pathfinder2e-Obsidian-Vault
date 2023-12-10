@@ -11,10 +11,6 @@ creature_ability:
 - Necrotic Decay
 - Wicked Bite
 creature_family: '[[DATABASE/monsterfamily/Urdefhan|Urdefhan]]'
-description: 'Urdefhan dominators control the minds of others to glean useful secrets
-  and gain an advantage against their enemies.<br/><br/><b><u>Recall Knowledge - Humanoid</u>
-  ( [[DATABASE/skill/Society|Society]] )</b>: DC 32<br/><b><u>Unspecific Lore</u></b>:
-  DC 30<br/><b><u>Specific Lore</u></b>: DC 27'
 dexterity: '+5'
 element: null
 fly_speed: null

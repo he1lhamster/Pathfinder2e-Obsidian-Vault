@@ -10,11 +10,6 @@ creature_ability:
 - Voracious Consumption
 - Wriggle
 creature_family: '[[DATABASE/monsterfamily/Silverfish|Silverfish]]'
-description: 'Some silverfish can grow as large as a pig, particularly in magic colleges
-  and ancient vault-libraries, where they terrify hapless students and destroy precious
-  tomes. Popular academic lore attributes their unusual size to a steady diet of spellbooks.<br/><br/><b><u>Recall
-  Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 16<br/><b><u>Unspecific
-  Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>: DC 11'
 dexterity: '+4'
 element: null
 fly_speed: null

@@ -13,12 +13,6 @@ creature_ability:
 - Spirit Touch
 - Wrappings Lash
 creature_family: '[[DATABASE/monsterfamily/Psychopomp|Psychopomp]]'
-description: 'Bounty hunters and investigators, morrignas seek out creatures that
-  thwart death or interfere with the natural flow of souls. Morrignas dress in flowing
-  spider silk and wear masks reminiscent of webs, as they consider patient and watchful
-  spiders to be their spiritual kin.<br/><br/><b><u>Recall Knowledge - Monitor</u>
-  ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 34<br/><b><u>Unspecific Lore</u></b>:
-  DC 32<br/><b><u>Specific Lore</u></b>: DC 29'
 dexterity: '+4'
 element: null
 fly_speed: null

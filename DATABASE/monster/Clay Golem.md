@@ -14,20 +14,6 @@ creature_ability:
 - Quicken
 - Vulnerable to Disintegrate
 creature_family: '[[DATABASE/monsterfamily/Golem|Golem]]'
-description: "Traditionally, clay golems are crafted in the image of a deity and used\
-  \ as guardians of tombs or sacred crypts. Clay golems have the power to lay curses\
-  \ upon their victims as punishment for intrusion, leading many to believe that these\
-  \ oft-ancient constructs have a touch of the divine to them. While this idea has\
-  \ little basis in reality, superstitious folk still tread lightly around statues\
-  \ that resemble clay golems even in the slightest.<br/><br/> The animating force\
-  \ within a clay golem is unusually unstable, making the golem prone to entering\
-  \ a berserk frenzy when damaged. Entire treasuries have been totally ruined as a\
-  \ result of a rampaging clay golem, so crafters do well to make sure their golems\
-  \ are maintained and in good working order\u2014or otherwise place them on the other\
-  \ side of the door from the treasures they wish to protect.<br/><br/><b><u>Recall\
-  \ Knowledge - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]]\
-  \ )</b>: DC 29<br/><b><u>Unspecific Lore</u></b>: DC 27<br/><b><u>Specific Lore</u></b>:\
-  \ DC 24"
 dexterity: '-1'
 element: null
 fly_speed: null

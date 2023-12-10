@@ -10,19 +10,6 @@ creature_ability:
 - Curl Up
 - Quick Escape
 creature_family: '[[DATABASE/monsterfamily/Trilobite|Trilobite]]'
-description: 'Trilobites have segmented, chitinous bodies that armor them but provide
-  enough flexibility for them to roll up and protect their vulnerable undersides from
-  attack. Instead of jaws, trilobites have specialized structures called gnathobases
-  at the base of some of their legs. These serrated and jagged structures grind and
-  masticate any prey the trilobite latches onto, enabling the creatures to feed on
-  anything from hard-shelled clams to soft-bodied creatures. While not particularly
-  fast on their own, they can employ scuttling bursts of speed to dart into ocean
-  silt or seaweed beds to escape predators.<br/><br/> Oceanic wizards of many types
-  employ trilobites as familiars. In addition to trilobites'' durability, their ubiquity
-  means they make capable spies for their masters as they travel unnoticed throughout
-  the depths.<br/><br/><b><u>Recall Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 13<br/><b><u>Unspecific Lore</u></b>: DC 11<br/><b><u>Specific Lore</u></b>:
-  DC 8'
 dexterity: '+3'
 element: null
 fly_speed: null

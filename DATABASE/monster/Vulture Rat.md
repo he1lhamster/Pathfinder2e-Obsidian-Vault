@@ -9,9 +9,6 @@ constitution: '+2'
 creature_ability:
 - Filth Fever
 creature_family: '[[DATABASE/monsterfamily/Rat|Rat]]'
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 13<br/><b><u>Unspecific
-  Lore</u></b>: DC 11<br/><b><u>Specific Lore</u></b>: DC 8'
 dexterity: '+3'
 element: null
 fly_speed: null

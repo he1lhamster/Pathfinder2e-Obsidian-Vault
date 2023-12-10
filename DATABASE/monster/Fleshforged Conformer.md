@@ -12,18 +12,6 @@ creature_ability:
 - Tissue Siphon
 - Wear Flesh
 creature_family: '[[DATABASE/monsterfamily/Fleshforged|Fleshforged]]'
-description: 'Shapeshifting fleshforged conformers have adapted to survive Ecanus''s
-  high-magic, population-dense sprawl. Resembling blocky humanoid skeletons splotched
-  in uneven layers with cartilage and muscle, conformers are capable of attaching
-  and detaching flesh from their bodies, often sending autonomous gobbets of fat and
-  ligament to observe living creatures and harvest biological material.<br/><br/>
-  Fleshforged conformers use their resources to augment and change their bodies, which
-  helps them infiltrate Nexian society to better understand the arcane principles
-  and occult secrets behind their creation. Some assume the guises of humans and animals
-  to lead quiet, settled lives in Nex, but most are discovered and summarily exterminated
-  as defects and threats to public safety.<br/><br/><b><u>Recall Knowledge - Aberration</u>
-  ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 24<br/><b><u>Unspecific Lore</u></b>:
-  DC 22<br/><b><u>Specific Lore</u></b>: DC 19'
 dexterity: '+6'
 element: null
 fly_speed: null

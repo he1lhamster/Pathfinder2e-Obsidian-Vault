@@ -1,29 +1,25 @@
 ﻿---
-ac: '25'
-alignment: LN
+ac: '26'
+alignment: CE
 all_resistance: '10'
 burrow_speed: null
-charisma: '+6'
+charisma: '+5'
 climb_speed: null
 constitution: '+0'
 creature_ability:
-- Flurry of Blows
-- Frightful Moan
+- Combat Current
+- Curse Ye Scallywags!
 - Rejuvenation
-- Site Bound
-- Telekinetic Assault
-creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Spirit</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 26<br/><b><u>Recall
-  Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 26<br/><b><u>Unspecific
-  Lore</u></b>: DC 24<br/><b><u>Specific Lore</u></b>: DC 21'
-dexterity: '+4'
+- Savvy Joinin' Me Crew?
+- Ship Bound
+creature_family: '[[DATABASE/monsterfamily/Ghost|Ghost]]'
+dexterity: '+6'
 element: null
-fly_speed: '40'
-fortitude: '+15'
+fly_speed: '25'
+fortitude: '+14'
 hardness: null
-hp: 115 ( negative healing , rejuvenation)
-id: '1454'
+hp: 100 ( negative healing , rejuvenation)
+id: '1864'
 immunity:
 - '[[DATABASE/trait/Death|death]] effects'
 - '[[DATABASE/trait/Disease|disease]]'
@@ -34,13 +30,14 @@ immunity:
 intelligence: '+2'
 land_speed: null
 language:
-- '[[DATABASE/language/Tien|Tien]]'
-level: '9'
-max_speed: '40'
-name: Ghost Monk
-perception: '+18'
+- '[[DATABASE/language/Common|Common]]'
+- '[[DATABASE/language/Necril|Necril]]'
+level: '8'
+max_speed: '25'
+name: Ghost Pirate Captain
+perception: '+17'
 rarity: Common
-reflex: '+19'
+reflex: '+18'
 resistance:
 - all damage 10 (except [[DATABASE/trait/Force|force]]
 - '[[DATABASE/equipment/Ghost Touch|ghost touch]]'
@@ -52,18 +49,18 @@ sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
 skill:
-- '[[DATABASE/skill/Lore|Irori Lore]] +17'
-- '[[DATABASE/skill/Occultism|Occultism]] +17'
-- '[[DATABASE/skill/Lore|Temple Lore]] +17'
-source: '[[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #166:
-  Despair on Danger Island]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +18'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +15'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +17'
+- '[[DATABASE/skill/Lore|Sailing Lore]] +16'
+source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 speed:
-- fly 40 feet
+- fly 25 feet
 spell: null
 strength: '-5'
 strength_req: '-5'
 strongest_save:
-- Will
+- Reflex
 swim_speed: null
 trait:
 - '[[DATABASE/trait/Ghost|Ghost]]'
@@ -75,8 +72,8 @@ vision: Darkvision
 weakest_save:
 - Fortitude
 weakness: null
-will: '+21'
-wisdom: '+6'
+will: '+15'
+wisdom: '+3'
 
 ---
 # Ghost Pirate

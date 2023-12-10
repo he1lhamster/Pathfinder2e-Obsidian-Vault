@@ -15,10 +15,6 @@ creature_ability:
 - Sand Vision
 - Sandstorm
 creature_family: '[[DATABASE/monsterfamily/Mummy|Mummy]]'
-description: 'In ancient Osirion, worshipers completely devoted to the evil god [[DATABASE/deity/Set|Set]]
-  often underwent a mummification process to serve as his prophets after their death.<br/><br/><b><u>Recall
-  Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 33<br/><b><u>Unspecific
-  Lore</u></b>: DC 31<br/><b><u>Specific Lore</u></b>: DC 28'
 dexterity: '+4'
 element: null
 fly_speed: null

@@ -9,13 +9,6 @@ constitution: '+2'
 creature_ability:
 - Placate
 creature_family: '[[DATABASE/monsterfamily/Courtiers|Courtiers]]'
-description: "Trusted counselors of the court, advisors whisper words of guidance\
-  \ in the ears of those in power. Many nobles lean so heavily on their counsel that\
-  \ they make few decisions without them and insist on their attendance at all meetings\
-  \ and public events. Advisors are often master manipulators, and their guidance\
-  \ can shape a barony or even a kingdom\u2014for good or ill.<br/><br/><b><u>Recall\
-  \ Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 20<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>: DC 15"
 dexterity: '+2'
 element: null
 fly_speed: null

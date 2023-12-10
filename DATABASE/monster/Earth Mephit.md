@@ -9,14 +9,6 @@ constitution: '+2'
 creature_ability:
 - Breath Weapon
 creature_family: '[[DATABASE/monsterfamily/Elemental, Mephit|Elemental, Mephit]]'
-description: "Earth mephits are humorless and trudge about their tasks with little\
-  \ enthusiasm. They are somewhat more stout than other mephits, and their dark-brown\
-  \ or gray bodies are always coated with layers of dirt and filth. An earth mephit\
-  \ can fly, just as any other mephit, but the act of flight is uncomfortable and\
-  \ unnerving to them\u2014they rarely ascend higher than 5 feet off the ground if\
-  \ they can help it.<br/><br/><b><u>Recall Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]]\
-  \ , [[DATABASE/skill/Nature|Nature]] )</b>: DC 15<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 13<br/><b><u>Specific Lore</u></b>: DC 10"
 dexterity: '-1'
 element: Earth
 fly_speed: '15'

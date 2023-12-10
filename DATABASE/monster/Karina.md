@@ -11,34 +11,6 @@ creature_ability:
 - Mocking Cry
 - Sound Imitation
 creature_family: null
-description: "Karinas\u2014also known as plague birds\u2014are large owl-like creatures\
-  \ with dark red feathers, powerful talons, and unsettling eyes. Their broad wings\
-  \ conceal a pair of wiry humanoid arms that end in clawed fingers, which they use\
-  \ to dig through burial sites in search of corpses. The fell purpose of this is\
-  \ still a mystery, though most believe that karinas make off with these dead bodies\
-  \ to consume them in the safety of their lairs. The difficulty of tracking the beasts,\
-  \ as well as the danger, makes it difficult to know for sure.<br/><br/> A karina's\
-  \ terrifying appearance suggests that they're not natural creatures. Many legends\
-  \ claim that karinas first flew out of [[DATABASE/plane/Abaddon|Abaddon]] to the\
-  \ [[DATABASE/plane/Material Plane|Material Plane]] to consume the corpses of the\
-  \ first mortals, while others state that the first karina was born from the soul\
-  \ of the first mortal who partook in cannibalism. The power of good repulses karinas,\
-  \ suggesting an evil or fiendish origin.<br/><br/> Karinas are plague carriers and\
-  \ intentionally attack creatures to spread their own personal pestilence. The supernatural\
-  \ disease they carry, known as grave blight, causes fever, disorientation, and (at\
-  \ later stages) an innate desire to attack others and spread the disease. Karinas\
-  \ revel in the slow collapse of villages, lurking in the surrounding jungle to observe\
-  \ every miserable moment. As the locals bury their dead, the karinas swoop in to\
-  \ steal the corpses.<br/><br/> In addition to carrying a terrible disease, karinas\
-  \ also have the ability to mimic voices. They typically repeat phrases they've heard,\
-  \ but twist the voice into a fiendish corruption of the original. Intelligent enough\
-  \ to recognize the friends and family of a possible target, a karina will use the\
-  \ mocking voice of a loved one to frighten them. When terrorizing a village, they\
-  \ generally work together in groups of two or three.<br/><br/><b><u>Recall Knowledge\
-  \ - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 20<br/><b><u>Recall Knowledge - Fiend</u> ( [[DATABASE/skill/Religion|Religion]]\
-  \ )</b>: DC 20<br/><b><u>Unspecific Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>:\
-  \ DC 15"
 dexterity: '+5'
 element: null
 fly_speed: '40'

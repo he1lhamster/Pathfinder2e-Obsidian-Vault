@@ -1,85 +1,83 @@
 ﻿---
-ac: '16'
-alignment: LE
+ac: '39'
+alignment: CE
 all_resistance: null
 burrow_speed: null
-charisma: '+4'
-climb_speed: null
-constitution: '+1'
+charisma: '+3'
+climb_speed: '20'
+constitution: '+7'
 creature_ability:
-- Change Shape
-- Fire Jackal Saliva
-creature_family: '[[DATABASE/monsterfamily/Asura|Asura]]'
-description: "Perhaps the most perverse asuras of them all, shaukeens particularly\
-  \ delight in causing the downfall of those who give them succor, shelter, and most\
-  \ of all, schooling. Many a teacher has come across a shaukeen disguised as a small\
-  \ child of exceptional talents or curiosity and taken them under their wing, only\
-  \ to be beguiled into ruin. This diminutive asura's cleverness is disproportionate\
-  \ to their size; they ask probing questions and coax their prey into decisions that\
-  \ lead to heresy, furthering the collapse of order and decency. When the world turns\
-  \ on the shaukeen's mentor, the asura is gone\u2014but not very far, for they love\
-  \ hiding unseen and watching the torment and destruction of their mentors.<br/><br/><b><u>Recall\
-  \ Knowledge - Fiend</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 15<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>: DC 10"
-dexterity: '+4'
+- Enfeebling Bite
+- Focused Gaze
+- Paralyzing Gaze
+- Rend
+- Succor Vulnerability
+- Tail Whip
+creature_family: '[[DATABASE/monsterfamily/Demon|Demon]]'
+dexterity: '+5'
 element: null
-fly_speed: null
-fortitude: '+4'
+fly_speed: '35'
+fortitude: '+32'
 hardness: null
-hp: '22'
-id: '1069'
-immunity:
-- '[[DATABASE/trait/Curse|curses]]'
+hp: '350'
+id: '102'
+immunity: null
 intelligence: '+0'
-land_speed: '25'
+land_speed: '35'
 language:
-- '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Infernal|Infernal]] ; [[DATABASE/monsterability/Telepathy|telepathy]]
-  (touch)'
-level: '1'
-max_speed: '25'
-name: Shaukeen
-perception: '+8'
+- '[[DATABASE/language/Abyssal|Abyssal]]'
+- '[[DATABASE/language/Celestial|Celestial]]'
+- '[[DATABASE/language/Draconic|Draconic]] ; telepathy 100 feet'
+level: '16'
+max_speed: '35'
+name: Shemhazian
+perception: '+30'
 rarity: Common
-reflex: '+9'
+reflex: '+26'
 resistance: null
 rus_type_level: null
 school: null
 sense:
-- '[[DATABASE/monsterability/Darkvision|darkvision]]'
-size: Tiny
+- darkvision
+- scent (imprecise) 60 feet
+- '[[DATABASE/spell/True Seeing|trueseeing]]'
+size: Gargantuan
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +7'
-- '[[DATABASE/skill/Deception|Deception]] +9'
-- '[[DATABASE/skill/Performance|Performance]] +7'
-- '[[DATABASE/skill/Religion|Religion]] +7'
-- '[[DATABASE/skill/Stealth|Stealth]] +7'
-source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
+- '[[DATABASE/skill/Athletics|Athletics]] +31'
+- '[[DATABASE/skill/Deception|Deception]] +25'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +27'
+- '[[DATABASE/skill/Medicine|Medicine]] +28'
+- '[[DATABASE/skill/Religion|Religion]] +30'
+source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
-- 25 feet
+- 35 feet
+- climb 20 feet
+- fly 35 feet (from [[DATABASE/spell/Fly|fly]] )
 spell:
-- '[[DATABASE/spell/Charm|Charm]]'
-- '[[DATABASE/spell/Magic Aura|MagicAura]]'
-- '[[DATABASE/spell/Nondetection|Nondetection]]'
-- '[[DATABASE/spell/Read Aura|Read Aura]]'
-- '[[DATABASE/spell/Spider Climb|Spider Climb]]'
-- '[[DATABASE/spell/Touch of Idiocy|Touch of Idiocy]]'
-strength: '+0'
-strength_req: '0'
+- '[[DATABASE/spell/Clairvoyance|Clairvoyance]]'
+- '[[DATABASE/spell/Dimension Door|Dimension Door]]'
+- '[[DATABASE/spell/Divine Decree|Divine Decree]]'
+- '[[DATABASE/spell/Fly|Fly]]'
+- '[[DATABASE/spell/Invisibility|Invisibility]]'
+- '[[DATABASE/spell/Prying Eye|Prying Eye]]'
+- '[[DATABASE/spell/True Seeing|True Seeing]]'
+strength: '+9'
+strength_req: '9'
 strongest_save:
-- Reflex
+- Fortitude
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Asura|Asura]]'
+- '[[DATABASE/trait/Demon|Demon]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'
 type: Creature
 vision: Darkvision
 weakest_save:
-- Fortitude
+- Reflex
 weakness:
-- good 2
-will: '+7'
-wisdom: '+3'
+- cold iron 15
+- good 15
+will: '+27'
+wisdom: '+6'
 
 ---
 # Shemhazian (Mutilation Demon)

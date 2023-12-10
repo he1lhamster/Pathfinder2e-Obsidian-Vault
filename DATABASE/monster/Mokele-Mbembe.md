@@ -10,14 +10,6 @@ creature_ability:
 - Trample
 - Whip Tail
 creature_family: null
-description: "Mokele-mbembes are large, reptilian predators found deep within Golarion's\
-  \ jungles. Mwangi view mokele-mbembes as embodiments of nature's strength and majesty,\
-  \ and they consider the sighting of this rare being a sign of favor from the gods\
-  \ and an omen of powerful natural forces. Mokele-mbembes are solitary and excel\
-  \ at going undetected. Most information about them\u2014including the fact that\
-  \ they're voracious predators\u2014comes from following the signs of their passage.<br/><br/><b><u>Recall\
-  \ Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 28<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 26<br/><b><u>Specific Lore</u></b>: DC 23"
 dexterity: '+4'
 element: null
 fly_speed: null

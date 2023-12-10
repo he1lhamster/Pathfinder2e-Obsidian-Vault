@@ -11,12 +11,6 @@ creature_ability:
 - Unrelativity Field
 - Writhing Arms
 creature_family: null
-description: 'Baatamidars are drawn to destroy planar communities on the fringes where
-  the Outer Planes touch the chaos of the [[DATABASE/plane/Maelstrom|Maelstrom]] .
-  They resemble floating blobs of undulating, prismatic ooze with four quivering tentacles
-  and dribbles of oily slime that always drip upwards.<br/><br/><b><u>Recall Knowledge
-  - Monitor</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 47<br/><b><u>Unspecific
-  Lore</u></b>: DC 45<br/><b><u>Specific Lore</u></b>: DC 42'
 dexterity: '+9'
 element: null
 fly_speed: '70'

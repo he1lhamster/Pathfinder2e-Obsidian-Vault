@@ -13,11 +13,6 @@ creature_ability:
 - Sneak Attack
 - Surprise Attack
 creature_family: '[[DATABASE/monsterfamily/Criminals|Criminals]]'
-description: 'Burglars specialize in breaking and entering to rob homes and businesses.
-  These criminals focus on gaining access to secure buildings and bypassing traps
-  and other security measures while remaining undetected all the while.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 19<br/><b><u>Unspecific
-  Lore</u></b>: DC 17<br/><b><u>Specific Lore</u></b>: DC 14'
 dexterity: '+4'
 element: null
 fly_speed: null

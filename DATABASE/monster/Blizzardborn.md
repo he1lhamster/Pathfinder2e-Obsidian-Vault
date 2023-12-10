@@ -11,14 +11,6 @@ creature_ability:
 - Shattering Ice
 - Snow Vision
 creature_family: '[[DATABASE/monsterfamily/Elemental, Water|Elemental, Water]]'
-description: 'Freezing and thawing in a near-constant loop, blizzardborn resemble
-  humanoid forms composed of a mixture of partially melted snow and sleet. These elementals
-  move with crunching strides, their bodies constantly sloshing and sloughing off
-  shards of ice. Because of their ability to refreeze, blizzardborn can travel into
-  warmer environments safely, though they tend to look more like slush in these areas.<br/><br/><b><u>Recall
-  Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 22<br/><b><u>Unspecific Lore</u></b>: DC 20<br/><b><u>Specific Lore</u></b>:
-  DC 17'
 dexterity: '+2'
 element: Water
 fly_speed: null

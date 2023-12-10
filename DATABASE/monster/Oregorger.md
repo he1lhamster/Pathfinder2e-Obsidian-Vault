@@ -12,12 +12,6 @@ creature_ability:
 - Rust Vision
 - Searing Spew
 creature_family: '[[DATABASE/monsterfamily/Elemental, Metal|Elemental, Metal]]'
-description: 'Oregorgers are hulking, four-limbed brutes with bodies of raw primal
-  metals accreted in layers. Driven entirely by an insatiable drive to consume metal,
-  an oregorger stops at nothing to greedily devour as much metal as it can and expel
-  it as caustic rust.<br/><br/><b><u>Recall Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Nature|Nature]] )</b>: DC 28<br/><b><u>Unspecific Lore</u></b>:
-  DC 26<br/><b><u>Specific Lore</u></b>: DC 23'
 dexterity: '+2'
 element: Metal
 fly_speed: '20'

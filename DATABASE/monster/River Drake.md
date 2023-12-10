@@ -12,14 +12,6 @@ creature_ability:
 - Speed Surge
 - Tail Lash
 creature_family: '[[DATABASE/monsterfamily/Drake|Drake]]'
-description: "Although the glistening scales and sleek, fin-like wings on these drakes\
-  \ give them an appearance reminiscent of river fish, they are actually distant relatives\
-  \ of the black dragon. While smaller than most drakes, river drakes are more than\
-  \ capable of plaguing river travelers and are equally at home above and below the\
-  \ water\u2019s surface. This flexibility allows them to catch a wide variety of\
-  \ prey, from fish and boggards to deer and the occasional ferry passenger.<br/><br/><b><u>Recall\
-  \ Knowledge - Dragon</u> ( [[DATABASE/skill/Arcana|Arcana]] )</b>: DC 18<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>: DC 13"
 dexterity: '+4'
 element: Water
 fly_speed: '50'

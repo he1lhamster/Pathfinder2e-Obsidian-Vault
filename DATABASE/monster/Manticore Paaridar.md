@@ -12,24 +12,6 @@ creature_ability:
 - Monk Ki Spells
 - Sharp Riposte
 creature_family: '[[DATABASE/monsterfamily/Paaridar|Paaridar]]'
-description: "Monks dissatisfied with the limits of their humanoid forms and yearning\
-  \ for a shortcut can steal the might from other creatures. These monks become paaridars,\
-  \ amalgamations that blend the features of their former ancestry with the form of\
-  \ another creature. The transformation challenges the limits of the paaridar's body\
-  \ and soul, demanding continual discipline to maintain control.<br/><br/> The rituals\
-  \ to make this transformation were developed by Paaridus, namesake of this loose\
-  \ monastic order. The process requires a captive creature\u2014a victim to draw\
-  \ powers from. Over days of intense rituals, the monk displaces their own chakras\
-  \ with those of the victim. This unnatural process transforms the ki, and thereby\
-  \ the body. The lower chakras are considered \u201Csafer\u201D to replace. Most\
-  \ Paaridars stop at the root, sacral, and navel chakras. To go farther risks losing\
-  \ control of one's emotions and intellect entirely, a fate Paaridus himself succumbed\
-  \ to. Paaridars consider this his sacrifice and lesson, but other monks recognize\
-  \ that even one step on this path is profane. The creature victimized by the ritual\
-  \ remains\u2014still alive, but only a husk, as the transformed chakras within leave\
-  \ it weak and removed from its nature.<br/><br/><b><u>Recall Knowledge - Humanoid</u>\
-  \ ( [[DATABASE/skill/Society|Society]] )</b>: DC 25<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 23<br/><b><u>Specific Lore</u></b>: DC 20"
 dexterity: '+5'
 element: null
 fly_speed: '20'

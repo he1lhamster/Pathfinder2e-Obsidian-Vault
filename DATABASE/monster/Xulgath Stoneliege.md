@@ -12,16 +12,6 @@ creature_ability:
 - Stench
 - Stone Throes
 creature_family: '[[DATABASE/monsterfamily/Xulgath|Xulgath]]'
-description: "Stonelieges are xulgaths magically infused with living earth\u2014the\
-  \ very bones of the world. They are created through a process xulgaths call stone-binding,\
-  \ which can be performed with complex alchemy, powerful psychic magic, or Abyssal\
-  \ rituals. Their scales are like stone slabs, and their bones are as dense as bedrock,\
-  \ so they are among the hardiest and longest-lived xulgaths. To stonelieges, earth\
-  \ is as mutable as water, and their innate power to shape the soil and stone beneath\
-  \ their feet makes them integral members of xulgath society (as well as formidable\
-  \ combatants).<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]\
-  \ )</b>: DC 26<br/><b><u>Unspecific Lore</u></b>: DC 24<br/><b><u>Specific Lore</u></b>:\
-  \ DC 21"
 dexterity: '+2'
 element: null
 fly_speed: null

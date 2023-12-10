@@ -1,102 +1,103 @@
 ﻿---
-ac: '15'
-alignment: N
-all_resistance: null
+ac: '36'
+alignment: CG
+all_resistance: '15'
 burrow_speed: null
-charisma: '+4'
+charisma: '+6'
 climb_speed: null
-constitution: '+1'
+constitution: '+2'
 creature_ability:
-- Ancestry Feat
-- Class Feat
-- Dangerous Sorcery
-- Skill Feats
-creature_family: '[[DATABASE/monsterfamily/Threshold of Knowledge Pregenerated Characters|Threshold
-  of Knowledge Pregenerated Characters]]'
-description: 'Zane is the scion of a noble family in the Nine Walls, the homeland
-  of Matanji orcs in the Mwangi expanse. He has natural charm and good looks and fully
-  expects to become an ambassador for his people when he''s older. He considers his
-  education at the Magaambya to be a pleasant dalliance, and he spends most his time
-  with the friends he''s made there. Zane is an intelligent young man with something
-  of a lazy streak, simply putting in the necessary work to get by.<br/><br/> When
-  Zane was a toddler, his parents gave him to local priests for a blessing in a local
-  river. Playful water spirits took notice of the baby and stole him from the inattentive
-  priests. Zane''s parents believed he''d been drowned and lost. A year and a day
-  after Zane disappeared, he washed back up on the banks of the river and was reunited
-  with his relieved but puzzled family. Since then, Zane has felt the stirring of
-  fey magic within him, but his family insisted on putting the disappearance firmly
-  in the past and moving on. Zane''s budding powers frightened his family, so he learned
-  to keep them hidden, something he no longer has to do since his enrollment in the
-  Magaambya.<br/><br/> Due to his charm, Zane is quick to make friends, but he''s
-  found he has the most in common with Ekene. The two both know how it feels to be
-  misunderstood and understand the heavy weight of the expectations placed upon them
-  by their families and communities.<br/><br/><b><u>Recall Knowledge - Humanoid</u>
-  ( [[DATABASE/skill/Society|Society]] )</b>: DC 25<br/><b><u>Unspecific Lore</u></b>:
-  DC 23<br/><b><u>Specific Lore</u></b>: DC 20'
-dexterity: '+2'
+- Boundless Spirit
+- Flurry of Cards
+- Harrow Binding
+- Harrow Sense
+- Rejuvenation
+- Stack the Deck
+- Unbound Fate
+creature_family: null
+dexterity: '+6'
 element: null
-fly_speed: null
-fortitude: '+4'
-hp: '15'
-id: '1754'
-immunity: null
-intelligence: '+2'
-land_speed: '25'
+fly_speed: '25'
+fortitude: '+22'
+hp: 195 ( negative healing , rejuvenation)
+id: '2595'
+immunity:
+- '[[DATABASE/trait/Death|death]] effects'
+- '[[DATABASE/trait/Disease|disease]]'
+- '[[DATABASE/condition/Paralyzed|paralyzed]]'
+- '[[DATABASE/trait/Poison|poison]]'
+- precision
+- '[[DATABASE/condition/Unconscious|unconscious]]'
+intelligence: '+4'
+land_speed: null
 language:
 - '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Mwangi|Mwangi]]'
-- '[[DATABASE/language/Sylvan|Sylvan]]'
-level: '1'
+- '[[DATABASE/language/Shoanti|Shoanti]]'
+- '[[DATABASE/language/Varisian|Varisian]]'
+level: '14'
 max_speed: '25'
-name: Zane Ikundi
-perception: '+3'
+name: Zellara Esmeranda
+perception: '+27'
 rarity: Unique
-reflex: '+5'
-resistance: null
+reflex: '+28'
+resistance:
+- all damage 15 (except [[DATABASE/trait/Force|force]]
+- '[[DATABASE/equipment/Ghost Touch|ghost touch]]'
+- or [[DATABASE/trait/Positive|positive]] ; double resistance vs. non- [[DATABASE/trait/Magical|magical]]
+  )
 rus_type_level: null
 sense:
-- low-light vision
+- '[[DATABASE/monsterability/Darkvision|darkvision]]'
+- harrow sense
 size: Medium
 skill:
-- '[[DATABASE/skill/Arcana|Arcana]] +5'
-- '[[DATABASE/skill/Deception|Deception]] +7'
-- '[[DATABASE/skill/Diplomacy|Diplomacy]] +7'
-- '[[DATABASE/skill/Lore|Genealogy Lore]] +5'
-- '[[DATABASE/skill/Nature|Nature]] +3'
-- '[[DATABASE/skill/Performance|Performance]] +7'
-- '[[DATABASE/skill/Society|Society]] +5'
-source: '[[DATABASE/source/Threshold of Knowledge|Threshold of Knowledge]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +26'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +28'
+- '[[DATABASE/skill/Lore|Fortune-Telling Lore]] +26'
+- '[[DATABASE/skill/Occultism|Occultism]] +28'
+- '[[DATABASE/skill/Performance|Performance]] +26'
+source: '[[DATABASE/source/Pathfinder 192. Worst of All Possible Worlds|Pathfinder
+  #192: Worst of All Possible Worlds]]'
 speed:
-- 25 feet
+- fly 25 feet
 spell:
-- '[[DATABASE/spell/Charm|Charm]]'
-- '[[DATABASE/spell/Detect Magic|DetectMagic]]'
-- '[[DATABASE/spell/Electric Arc|Electric Arc]]'
-- '[[DATABASE/spell/Faerie Dust|Faerie Dust]]'
+- '[[DATABASE/spell/Augury|Augury]]'
+- '[[DATABASE/spell/Command|Command]]'
+- '[[DATABASE/spell/Confusion|Confusion]]'
+- '[[DATABASE/spell/Crushing Despair|CrushingDespair]]'
+- '[[DATABASE/spell/Detect Magic|Detect Magic]]'
+- '[[DATABASE/spell/Dispel Magic|Dispel Magic]]'
 - '[[DATABASE/spell/Ghost Sound|Ghost Sound]]'
-- '[[DATABASE/spell/Gritty Wheeze|Gritty Wheeze]]'
-- '[[DATABASE/spell/Nettleskin|Nettleskin]]'
+- '[[DATABASE/spell/Hypercognition|Hypercognition]]'
+- '[[DATABASE/spell/Mage Hand|Mage Hand]]'
+- '[[DATABASE/spell/Mindlink|Mindlink]]'
+- '[[DATABASE/spell/Plane Shift|Plane Shift]]'
 - '[[DATABASE/spell/Prestidigitation|Prestidigitation]]'
-- '[[DATABASE/spell/Produce Flame|Produce Flame]]'
-strength: '+0'
-strength_req: '0'
+- '[[DATABASE/spell/Read Aura|Read Aura]]'
+- '[[DATABASE/spell/Read Omens|Read Omens]]'
+- '[[DATABASE/spell/Sending|Sending]]'
+- '[[DATABASE/spell/Telekinetic Maneuver|Telekinetic Maneuver]]'
+- '[[DATABASE/spell/Telekinetic Projectile|TelekineticProjectile]]'
+- '[[DATABASE/spell/Teleport|Teleport]]'
+- '[[DATABASE/spell/True Seeing|True Seeing]]'
+strength: '-5'
+strength_req: '-5'
 strongest_save:
 - Reflex
-- Will
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Half-Orc|Half-Orc]]'
-- '[[DATABASE/trait/Human|Human]]'
-- '[[DATABASE/trait/Humanoid|Humanoid]]'
-- '[[DATABASE/trait/Orc|Orc]]'
+- '[[DATABASE/trait/Ghost|Ghost]]'
+- '[[DATABASE/trait/Incorporeal|Incorporeal]]'
+- '[[DATABASE/trait/Spirit|Spirit]]'
+- '[[DATABASE/trait/Undead|Undead]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: Low-light vision
+vision: Darkvision
 weakest_save:
 - Fortitude
 weakness: null
-will: '+5'
-wisdom: '+0'
+will: '+25'
+wisdom: '+5'
 
 ---
 # Zellara Esmeranda, Harrowed Soul And Teacher

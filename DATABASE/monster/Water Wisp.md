@@ -13,11 +13,6 @@ creature_ability:
 - Mist Vision
 - Resonance
 creature_family: '[[DATABASE/monsterfamily/Elemental, Wisp|Elemental, Wisp]]'
-description: 'Water wisps are swimming spheres of foam and water, perpetually humming
-  with a wash of soft sounds. They''re gentle, nurturing, and quick to help anyone
-  in need.<br/><br/><b><u>Recall Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Nature|Nature]] )</b>: DC 14<br/><b><u>Unspecific Lore</u></b>:
-  DC 12<br/><b><u>Specific Lore</u></b>: DC 9'
 dexterity: '+2'
 element: Water
 fly_speed: null

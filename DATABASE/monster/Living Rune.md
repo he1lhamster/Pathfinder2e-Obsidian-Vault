@@ -1,81 +1,85 @@
 ﻿---
-ac: '20'
-alignment: NG
+ac: '34'
+alignment: LN
 all_resistance: null
 burrow_speed: null
-charisma: '+1'
+charisma: '+5'
 climb_speed: null
-constitution: '+3'
+constitution: '+1'
 creature_ability:
-- Attack of Opportunity
-- Axe Vulnerability
-- Shield Block
-- Shield Push
-creature_family: '[[DATABASE/monsterfamily/Arboreal|Arboreal]]'
-description: "Arboreal wardens are the rangers of arboreal society. These itinerant\
-  \ folk have an innate curiosity about the woodlands in which they dwell, and rarely\
-  \ stop to take root and rest in the same part of the forest twice. This wanderlust\
-  \ makes wardens ideal forest patrollers and scouts. While they are robust combatants,\
-  \ they know better than to confront dangerous foes on their own. Instead, they report\
-  \ any dangers to arboreal regents. In rare cases, large groups of arboreal wardens\
-  \ congregate to form a copse. Copses travel beyond the boundaries of a forest to\
-  \ investigate the hinterlands and gather intelligence on potential threats before\
-  \ returning to report their findings. Arboreal wardens do not pretend to understand\
-  \ to other creatures\u2019 motives\u2014like most forces of the natural world, they\
-  \ are ambivalent about mortal affairs that do not involve their forest.<br/><br/><b><u>Recall\
-  \ Knowledge - Plant</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 19<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 17<br/><b><u>Specific Lore</u></b>: DC 14"
-dexterity: '+1'
+- Backdrop
+- Surface-Bound
+- Truescript
+creature_family: '[[DATABASE/monsterfamily/Living Symbol|Living Symbol]]'
+dexterity: '+6'
 element: null
 fly_speed: null
-fortitude: '+13'
+fortitude: '+20'
 hardness: null
-hp: '75'
-id: '27'
-immunity: null
-intelligence: '+1'
+hp: '245'
+id: '1222'
+immunity:
+- '[[DATABASE/trait/Death|death]] effects'
+- '[[DATABASE/trait/Disease|diseased]]'
+- '[[DATABASE/condition/Doomed|doomed]]'
+- '[[DATABASE/condition/Drained|drained]]'
+- '[[DATABASE/condition/Fatigued|fatigued]]'
+- '[[DATABASE/trait/Healing|healing]]'
+- '[[DATABASE/trait/Necromancy|necromancy]]'
+- '[[DATABASE/trait/Nonlethal|nonlethal]]'
+- '[[DATABASE/condition/Paralyzed|paralyzed]]'
+- '[[DATABASE/trait/Poison|poison]]'
+- '[[DATABASE/condition/Sickened|sickened]]'
+- '[[DATABASE/condition/Unconscious|unconsciousness]]'
+intelligence: '+8'
 land_speed: '25'
 language:
-- '[[DATABASE/language/Arboreal|Arboreal]]'
-- '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Sylvan|Sylvan]]'
-level: '4'
+- truescript
+level: '13'
 max_speed: '25'
-name: Arboreal Warden
-perception: '+11'
-rarity: Common
-reflex: '+9'
-resistance:
-- bludgeoning 5
-- piercing 5
+name: Arcane Living Rune
+perception: '+25'
+rarity: Rare
+reflex: '+23'
+resistance: null
 rus_type_level: null
 school: null
 sense:
-- low-light vision
-size: Large
+- '[[DATABASE/monsterability/Darkvision|darkvision]]'
+- '[[DATABASE/spell/True Seeing|true seeing]]'
+size: Small
 skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +13'
-- '[[DATABASE/skill/Stealth|Stealth]] +9'
-source: '[[DATABASE/source/Bestiary|Bestiary]]'
+- '[[DATABASE/skill/Arcana|Arcana]] +27'
+- '[[DATABASE/skill/Deception|Deception]] +24'
+- '[[DATABASE/skill/Stealth|Stealth]] +25'
+source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 25 feet
-spell: null
-strength: '+5'
-strength_req: '5'
+spell:
+- '[[DATABASE/spell/Black Tentacles|Black Tentacles]]'
+- '[[DATABASE/spell/Chain Lightning|Chain Lightning]]'
+- '[[DATABASE/spell/Cloudkill|Cloudkill]]'
+- '[[DATABASE/spell/Detect Magic|Detect Magic]]'
+- '[[DATABASE/spell/Disintegrate|Disintegrate]]'
+- '[[DATABASE/spell/Glyph of Warding|Glyph of Warding]]'
+- '[[DATABASE/spell/Prismatic Spray|Prismatic Spray]]'
+- '[[DATABASE/spell/True Seeing|True Seeing]]'
+- '[[DATABASE/spell/Wall of Force|Wall of Force]]'
+strength: '+1'
+strength_req: '1'
 strongest_save:
-- Fortitude
+- Will
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Plant|Plant]]'
+- '[[DATABASE/trait/Construct|Construct]]'
+- '[[DATABASE/trait/Rare|Rare]]'
 type: Creature
-vision: Low-light vision
+vision: Darkvision
 weakest_save:
-- Reflex
-weakness:
-- axe vulnerability
-- fire 10
-will: '+11'
-wisdom: '+3'
+- Fortitude
+weakness: null
+will: '+27'
+wisdom: '+8'
 
 ---
 # Living Rune

@@ -13,14 +13,6 @@ creature_ability:
 - Propulsive Pestilence
 - Slow
 creature_family: null
-description: 'Disgusting and dangerous, rotbombers bound around on all four limbs,
-  ripping off the pressurized and explosive necrotic pustules that grow out of their
-  backs to lob them toward their enemies. When they explode, the pustules emit concussive
-  blasts of force and deadly pestilence that can infect a victim. Though slow and
-  overburdened by the intense weight of the pustules, rotbombers can move with a surprising
-  speed when they need to hunt down their quarry.<br/><br/><b><u>Recall Knowledge
-  - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 32<br/><b><u>Unspecific
-  Lore</u></b>: DC 30<br/><b><u>Specific Lore</u></b>: DC 27'
 dexterity: '+7'
 element: null
 fly_speed: null

@@ -1,89 +1,76 @@
 ﻿---
-ac: '28'
-alignment: LN
+ac: '31'
+alignment: CE
 all_resistance: null
 burrow_speed: null
-charisma: '+6'
+charisma: '+4'
 climb_speed: null
-constitution: '+4'
+constitution: '+6'
 creature_ability:
-- Create Golden Apple
-- Sunset Dependent
-creature_family: '[[DATABASE/monsterfamily/Nymph|Nymph]]'
-description: 'Hesperides are nymphs of sunset, guardians of the colorful golden hues
-  of the setting sun. They live on remote islands, isolated coastal cliffsides, and
-  hidden valleys, all places where the sunset''s golden glow can have the strongest
-  effect. Hesperides manipulate sunlight with dancelike motions, allowing them to
-  create graceful ribbons of light at close range and searing rays at a distance.
-  Due to their connection to the beauty of the daily cycle of the setting sun, hesperides
-  feel a satisfaction from methodical routine that can feel alien to wilder, more
-  chaotic fey. <br/><br/><b><u>Recall Knowledge - Fey</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 26<br/><b><u>Unspecific Lore</u></b>: DC 24<br/><b><u>Specific Lore</u></b>:
-  DC 21'
-dexterity: '+6'
+- Poisonous Pustules
+- Purity Vulnerability
+- Stench
+creature_family: '[[DATABASE/monsterfamily/Demon|Demon]]'
+dexterity: '+3'
 element: null
-fly_speed: '60'
-fortitude: '+15'
+fly_speed: null
+fortitude: '+23'
 hardness: null
-hp: '175'
-id: '1250'
+hp: '245'
+id: '601'
 immunity: null
 intelligence: '+4'
 land_speed: '30'
 language:
-- '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Sylvan|Sylvan]]'
-- '[[DATABASE/language/Utopian|Utopian]]'
-level: '9'
-max_speed: '60'
-name: Hesperid
-perception: '+19'
+- '[[DATABASE/language/Abyssal|Abyssal]]'
+- '[[DATABASE/language/Celestial|Celestial]]'
+- '[[DATABASE/language/Draconic|Draconic]] ; [[DATABASE/monsterability/Telepathy|telepathy
+  100 feet]]'
+level: '11'
+max_speed: '30'
+name: Hezrou
+perception: '+21'
 rarity: Common
-reflex: '+21'
+reflex: '+18'
 resistance: null
 rus_type_level: null
 school: null
 sense:
-- '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
-size: Medium
+- '[[DATABASE/monsterability/Darkvision|darkvision]]'
+size: Large
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +19'
-- '[[DATABASE/skill/Athletics|Athletics]] +11'
-- '[[DATABASE/skill/Deception|Deception]] +19'
-- '[[DATABASE/skill/Diplomacy|Diplomacy]] +21'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +19'
-- '[[DATABASE/skill/Nature|Nature]] +19'
-- '[[DATABASE/skill/Performance|Performance]] +21'
-- '[[DATABASE/skill/Society|Society]] +17'
-- '[[DATABASE/skill/Stealth|Stealth]] +17'
-source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
+- '[[DATABASE/skill/Athletics|Athletics]] +24'
+- '[[DATABASE/skill/Arcana|Arcana]] +21'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +23'
+- '[[DATABASE/skill/Stealth|Stealth]] +20'
+source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 30 feet
-- fly 60 feet
+- swim 30 feet
 spell:
-- '[[DATABASE/spell/Dancing Lights|Dancing Lights]]'
-- '[[DATABASE/spell/Faerie Fire|Faerie Fire]]'
-- '[[DATABASE/spell/Heal|Heal]]'
-- '[[DATABASE/spell/Illusory Disguise|Illusory Disguise]]'
-- '[[DATABASE/spell/Light|Light]]'
-- '[[DATABASE/spell/Searing Light|Searing Light]]'
-strength: '+0'
-strength_req: '0'
+- '[[DATABASE/spell/Abyssal Plague|Abyssal Plague]]'
+- '[[DATABASE/spell/Dimension Door|Dimension Door]]'
+- '[[DATABASE/spell/Divine Wrath|Divine Wrath]]'
+- '[[DATABASE/spell/Gaseous Form|Gaseous Form]]'
+- '[[DATABASE/spell/Paranoia|Paranoia]]'
+strength: '+7'
+strength_req: '7'
 strongest_save:
-- Reflex
-swim_speed: null
-trait:
-- '[[DATABASE/trait/Fey|Fey]]'
-- '[[DATABASE/trait/Light|Light]]'
-- '[[DATABASE/trait/Nymph|Nymph]]'
-type: Creature
-vision: Low-light vision
-weakest_save:
 - Fortitude
+swim_speed: '30'
+trait:
+- '[[DATABASE/trait/Amphibious|Amphibious]]'
+- '[[DATABASE/trait/Demon|Demon]]'
+- '[[DATABASE/trait/Fiend|Fiend]]'
+type: Creature
+vision: Darkvision
+weakest_save:
+- Reflex
 weakness:
-- '[[DATABASE/equipment/Cold Iron Weapon|cold iron]] 10'
-will: '+19'
-wisdom: '+4'
+- '[[DATABASE/equipment/Cold Iron|cold iron]] 10'
+- good 10
+will: '+22'
+wisdom: '+5'
 
 ---
 # Hezrou (Toad Demon)

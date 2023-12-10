@@ -9,10 +9,6 @@ constitution: '+0'
 creature_ability:
 - Quick Catch
 creature_family: '[[DATABASE/monsterfamily/Publicans|Publicans]]'
-description: 'Always on the move from patron to patron, servers are the backbone of
-  any tavern or eatery. Their work hones both their agility and their diplomacy.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 13<br/><b><u>Unspecific
-  Lore</u></b>: DC 11<br/><b><u>Specific Lore</u></b>: DC 8'
 dexterity: '+4'
 element: null
 fly_speed: null

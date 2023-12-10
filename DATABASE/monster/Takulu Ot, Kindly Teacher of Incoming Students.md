@@ -1,89 +1,82 @@
 ﻿---
-ac: '36'
-alignment: NE
+ac: '21'
+alignment: LG
 all_resistance: null
 burrow_speed: null
-charisma: '+6'
+charisma: '+1'
 climb_speed: null
-constitution: '+8'
+constitution: '+1'
 creature_ability:
-- Attack of Opportunity
-- Botanic Interruption
-- Change Shape
-- Return to Nature
-creature_family: '[[DATABASE/monsterfamily/Oni|Oni]]'
-description: 'Wearing the visage of [[DATABASE/monster/Taiga Giant|taiga giants]]
-  , taiga yais generally travel in a solitary fashion, always yearning for new experiences
-  and destinations. They are zealous in their love of nature in its purest form and
-  gleefully destroy any established civilizations that they encounter before continuing
-  onwards.<br/><br/><b><u>Recall Knowledge - Fiend</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 34<br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 34<br/><b><u>Unspecific Lore</u></b>: DC 32<br/><b><u>Specific Lore</u></b>:
-  DC 29'
-dexterity: '+8'
+- Quick Lesson
+creature_family: null
+dexterity: '+2'
 element: null
-fly_speed: '40'
-fortitude: '+27'
+fly_speed: null
+fortitude: '+9'
 hardness: null
-hp: '270'
-id: '1405'
+hp: '60'
+id: '1619'
 immunity: null
 intelligence: '+5'
-land_speed: '40'
+land_speed: '25'
 language:
+- '[[DATABASE/language/Amurrun|Amurrun]]'
 - '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Jotun|Jotun]] ; [[DATABASE/spell/Speak with Animals|speak with
-  animals]]'
-level: '15'
-max_speed: '40'
-name: Taiga Yai
-perception: '+30'
-rarity: Common
-reflex: '+29'
+- '[[DATABASE/language/Elven|Elven]]'
+- '[[DATABASE/language/Iruxi|Iruxi]]'
+- '[[DATABASE/language/Sylvan|Sylvan]]'
+- '[[DATABASE/language/Xanmba|Xanmba]]'
+level: '4'
+max_speed: '25'
+name: Takulu Ot
+perception: '+11'
+rarity: Unique
+reflex: '+12'
 resistance: null
 rus_type_level: null
 school: null
-sense:
-- '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
-size: Huge
+sense: null
+size: Medium
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +29'
-- '[[DATABASE/skill/Arcana|Arcana]] +26'
-- '[[DATABASE/skill/Athletics|Athletics]] +27'
-- '[[DATABASE/skill/Deception|Deception]] +27'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +27'
-- '[[DATABASE/skill/Nature|Nature]] +30'
-- '[[DATABASE/skill/Survival|Survival]] +32'
-source: '[[DATABASE/source/Pathfinder 167. Ready Fight!|Pathfinder #167: Ready? Fight!]]'
+- '[[DATABASE/skill/Lore|Academia Lore]] +13'
+- '[[DATABASE/skill/Arcana|Arcana]] +13'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +11'
+- '[[DATABASE/skill/Lore|Library Lore]] +11'
+- '[[DATABASE/skill/Nature|Nature]] +9'
+- '[[DATABASE/skill/Performance|Performance]] +11'
+source: '[[DATABASE/source/Pathfinder 169. Kindled Magic|Pathfinder #169: Kindled
+  Magic]]'
 speed:
-- 40 feet
-- fly 40 feet
+- 25 feet
 spell:
-- '[[DATABASE/spell/Darkness|Darkness]]'
-- '[[DATABASE/spell/Earthquake|Earthquake]]'
-- '[[DATABASE/spell/Entangle|Entangle]]'
-- '[[DATABASE/spell/Invisibility|Invisibility]]'
-- '[[DATABASE/spell/Shifting Sand|Shifting Sand]]'
-- '[[DATABASE/spell/Speak with Animals|Speak with Animals]]'
-- '[[DATABASE/spell/Summon Animal|Summon Animal]]'
-- '[[DATABASE/spell/Tangling Creepers|Tangling Creepers]]'
-strength: '+6'
-strength_req: '6'
+- '[[DATABASE/spell/Comprehend Language|Comprehend Language]]'
+- '[[DATABASE/spell/Daze|Daze]]'
+- '[[DATABASE/spell/Detect Magic|Detect Magic]]'
+- '[[DATABASE/spell/Glitterdust|Glitterdust]]'
+- '[[DATABASE/spell/Heal|Heal]]'
+- '[[DATABASE/spell/Mending|Mending]]'
+- '[[DATABASE/spell/Message|Message]]'
+- '[[DATABASE/spell/Prestidigitation|Prestidigitation]]'
+- '[[DATABASE/spell/Ray of Enfeeblement|Ray of Enfeeblement]]'
+- '[[DATABASE/spell/Read Aura|Read Aura]]'
+- '[[DATABASE/spell/See Invisibility|SeeInvisibility]]'
+strength: '-1'
+strength_req: '-1'
 strongest_save:
+- Reflex
 - Will
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Fiend|Fiend]]'
-- '[[DATABASE/trait/Giant|Giant]]'
+- '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
-- '[[DATABASE/trait/Oni|Oni]]'
+- '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: Greater darkvision
+vision: null
 weakest_save:
 - Fortitude
 weakness: null
-will: '+30'
-wisdom: '+7'
+will: '+12'
+wisdom: '+3'
 
 ---
 # Takulu Ot, Kindly Teacher of Incoming Students

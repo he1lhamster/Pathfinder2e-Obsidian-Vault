@@ -13,20 +13,6 @@ creature_ability:
 - Bloodline Magic
 - Bloom Regeneration
 creature_family: null
-description: 'Darivan is not the classic image of a [[DATABASE/deity/Lamashtu|Lamashtan]]
-  cultist. While deeply religious, his magical power stems not from his faith, but
-  from a link to his ancestral past. The favor of a [[DATABASE/monster/Dryad|dryad]]
-  helped his grandfather escape from a brutal life and find a safe new homeland for
-  his people, but Darivan never held patience for that. To Darivan, his sorcerous
-  legacy and his sinister faith are two wholly separate elements, but his recent visions
-  of the bloom of Lamashtu bringing a new swath of monsters to the Stolen Lands has
-  compelled him strongly, showing him how his fey ancestry and his demonic faith can
-  be made stronger.<br/><br/> In combat, Darivan relies on his spells against ranged
-  foes and his falchion and claw in melee. He activates Bloom Regeneration if an attack
-  reduces him to 100 Hit Points or fewer, then shifts tactics to casting [[DATABASE/spell/Air
-  Walk|air walk]] and retreating upward to use spells against foes.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 37<br/><b><u>Unspecific
-  Lore</u></b>: DC 35<br/><b><u>Specific Lore</u></b>: DC 32'
 dexterity: '+2'
 element: null
 fly_speed: null

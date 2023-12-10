@@ -11,14 +11,6 @@ creature_ability:
 - Mountain Slam
 - Trample
 creature_family: '[[DATABASE/monsterfamily/Skeleton|Skeleton]]'
-description: 'Only the powerful and foolish would raise the bones of a mighty [[DATABASE/monsterfamily/Titan|titan]]
-  or similarly gargantuan creature as a skeleton. Skilled practitioners see this as
-  a waste of a powerful body and imbue them with air walking magic based on those
-  of titans, while the wise know it''s nearly impossible to control such a colossus
-  and that it''s just as likely to crush its creator underneath its mighty foot as
-  it is to smite their foes.<br/><br/><b><u>Recall Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 31<br/><b><u>Unspecific Lore</u></b>: DC 29<br/><b><u>Specific Lore</u></b>:
-  DC 26'
 dexterity: '+3'
 element: null
 fly_speed: null

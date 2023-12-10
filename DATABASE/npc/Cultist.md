@@ -9,11 +9,6 @@ constitution: '+2'
 creature_ability:
 - Fanatical Frenzy
 creature_family: '[[DATABASE/monsterfamily/Mystics|Mystics]]'
-description: 'Excessively zealous, a cultist finds exalted purpose in their sect.
-  Never questioning their leader, they devote themselves to achieving their most perfect
-  spiritual form.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 15<br/><b><u>Unspecific Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>:
-  DC 10'
 dexterity: '+3'
 element: null
 fly_speed: null

@@ -1,88 +1,84 @@
 ﻿---
-ac: '18'
+ac: '20'
 alignment: NE
-all_resistance: null
+all_resistance: '5'
 burrow_speed: null
-charisma: '+0'
-climb_speed: '10'
-constitution: '+3'
+charisma: '+1'
+climb_speed: null
+constitution: '+4'
 creature_ability:
-- Stench
-- Stinky Leaves
-- Waving Weed
-- Woodland Stride
+- Entombing Grasp
+- Stone Spirit
 creature_family: null
-description: 'Stinkweed shamblers are animate masses of foul vegetation that grow
-  from necrotic soil where [[DATABASE/monster/Ghast|ghasts]] , disease-ridden [[DATABASE/monsterfamily/Zombie|zombies]]
-  , or other putrid [[DATABASE/trait/Undead|undead]] creatures have fallen. At a site
-  where numerous undead creatures have been destroyed, an infestation of up to a dozen
-  stinkweed shamblers might arise. Such "rot-mates" work well together, sharing a
-  preternatural coordination. Stinkweed shamblers grow quickly, initially appearing
-  as fast-growing green shoots with light-green leaves but soon growing into a humanoid
-  form that can pull itself free from the ground and slowly move about on its own.
-  Stinkweed shambler''s leaves are the source of their unpleasant smell, which is
-  most pungent when the leaves are crushed or squeezed. Stinkweed shamblers are covered
-  with several small, white flowers, each of which grows into the shape of a tiny
-  skull.<br/><br/> Stinkweed shamblers are nasty creatures, but their methods are
-  uncomplicated. They like to capture and torment larger creatures such as livestock
-  and humanoids. Aware that they aren''t particularly strong and that their smell
-  can give them away, stinkweed shamblers like to set simple traps such as deadfalls
-  or pits. Their perverse fun ceases only when their prey has died from numerous injuries.
-  Stinkweed shamblers don''t consume their victims and in fact lack mouths; they gain
-  all the sustenance they need from sunlight but also seem to derive some nutritional
-  satisfaction from the pain that their torments engender.<br/><br/> Most stinkweed
-  shamblers grow to be about 3 feet tall and weigh only 30 pounds.<br/><br/><b><u>Recall
-  Knowledge - Plant</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 16<br/><b><u>Unspecific
-  Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>: DC 11'
-dexterity: '+4'
+dexterity: '+0'
 element: null
 fly_speed: null
-fortitude: '+7'
+fortitude: '+11'
 hardness: null
-hp: '30'
-id: '1026'
+hp: '40'
+id: '1618'
 immunity: null
-intelligence: '-2'
-land_speed: '20'
+intelligence: '+3'
+land_speed: '25'
 language:
-- '[[DATABASE/language/Sylvan|Sylvan]] ; (can''t speak any language)'
-level: '2'
-max_speed: '20'
-name: Stinkweed Shambler
-perception: '+8'
-rarity: Common
-reflex: '+10'
-resistance: null
+- '[[DATABASE/language/Common|Common]]'
+- '[[DATABASE/language/Gnoll|Gnoll]]'
+- '[[DATABASE/language/Terran|Terran]]'
+level: '5'
+max_speed: '25'
+name: Stone Ghost
+perception: '+13'
+rarity: Unique
+reflex: '+9'
+resistance:
+- all damage 5 (except [[DATABASE/trait/Force|force]] or [[DATABASE/equipment/Ghost
+  Touch|ghost touch]]
 rus_type_level: null
 school: null
-sense:
-- '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
-size: Small
+sense: null
+size: Medium
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +8'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +6'
-- '[[DATABASE/skill/Stealth|Stealth]] +8'
-- '[[DATABASE/skill/Survival|Survival]] +6'
-source: '[[DATABASE/source/Troubles in Otari|Troubles in Otari]]'
+- '[[DATABASE/skill/Arcana|Arcana]] +12'
+- '[[DATABASE/skill/Athletics|Athletics]] +12'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +12'
+- '[[DATABASE/skill/Lore|Magaambya Lore]] +12'
+- '[[DATABASE/skill/Nature|Nature]] +13'
+- '[[DATABASE/skill/Stealth|Stealth]] +11'
+source: '[[DATABASE/source/Pathfinder 169. Kindled Magic|Pathfinder #169: Kindled
+  Magic]]'
 speed:
-- 20 feet
-- climb 10 feet
-spell: null
-strength: '+2'
-strength_req: '2'
+- 25 feet
+spell:
+- '[[DATABASE/spell/Acid Splash|Acid Splash]]'
+- '[[DATABASE/spell/Command|Command]]'
+- '[[DATABASE/spell/Dancing Lights|Dancing Lights]]'
+- '[[DATABASE/spell/Darkvision|Darkvision]]'
+- '[[DATABASE/spell/Earthbind|Earthbind]]'
+- '[[DATABASE/spell/Glitterdust|Glitterdust]]'
+- '[[DATABASE/spell/Grease|Grease]]'
+- '[[DATABASE/spell/Know Direction|KnowDirection]]'
+- '[[DATABASE/spell/Pass Without Trace|Pass Without Trace]]'
+- '[[DATABASE/spell/Shatter|Shatter]]'
+- '[[DATABASE/spell/Shield|Shield]]'
+- '[[DATABASE/spell/Summon Elemental|Summon Elemental]]'
+- '[[DATABASE/spell/Tanglefoot|Tanglefoot]]'
+strength: '+3'
+strength_req: '3'
 strongest_save:
-- Reflex
+- Will
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Plant|Plant]]'
+- '[[DATABASE/trait/Human|Human]]'
+- '[[DATABASE/trait/Humanoid|Humanoid]]'
+- '[[DATABASE/trait/Oread|Oread]]'
+- '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: Low-light vision
+vision: null
 weakest_save:
-- Fortitude
-weakness:
-- fire 4
-will: '+8'
-wisdom: '+2'
+- Reflex
+weakness: null
+will: '+15'
+wisdom: '+4'
 
 ---
 # Stone Ghost, Spite-Filled Apparation and Failed Student

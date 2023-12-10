@@ -11,12 +11,6 @@ creature_ability:
 - Desert Stride
 - Girtablilu Venom
 creature_family: '[[DATABASE/monsterfamily/Girtablilu|Girtablilu]]'
-description: 'Sentries patrol the outskirts of a girtablilu communities, watching
-  for external threats like [[DATABASE/monster/Desert Drake|desert drakes]] , [[DATABASE/monsterfamily/Dragon,
-  Blue|blue dragons]] , or adventuring parties set on reckless exploration of the
-  girtablilus'' sacred site.<br/><br/><b><u>Recall Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Nature|Nature]] )</b>: DC 24<br/><b><u>Unspecific Lore</u></b>:
-  DC 22<br/><b><u>Specific Lore</u></b>: DC 19'
 dexterity: '+4'
 element: null
 fly_speed: null

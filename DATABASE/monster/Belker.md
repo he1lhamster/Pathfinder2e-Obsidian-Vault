@@ -12,12 +12,6 @@ creature_ability:
 - Smoke Slash
 - Smoke Vision
 creature_family: '[[DATABASE/monsterfamily/Elemental, Air|Elemental, Air]]'
-description: 'These reclusive elementals have glowing red eyes, leathery wings, and
-  long, sharp claws. While they always retain their shape, belkers can control the
-  solidity of their forms at will, transforming into clouds of smoke, ash, and dust.<br/><br/><b><u>Recall
-  Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 22<br/><b><u>Unspecific Lore</u></b>: DC 20<br/><b><u>Specific Lore</u></b>:
-  DC 17'
 dexterity: '+5'
 element: Air
 fly_speed: '40'

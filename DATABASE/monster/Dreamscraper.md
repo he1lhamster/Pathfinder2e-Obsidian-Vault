@@ -12,18 +12,6 @@ creature_ability:
 - Stolen Dreams
 - Tireless
 creature_family: null
-description: 'Dreamscrapers invade the dreams of sleeping mortals to scrape away at
-  their minds and steal their dreams, leaving them raw and tired upon waking. Maggot-like,
-  with many eyes surrounded by a circular, toothy mouth, dreamscrapers use sharp barbs
-  attached to ethereal tendrils to trawl for dreams. After returning to the [[DATABASE/plane/Dreamlands|Dimension
-  of Dreams]] with their prizes, they store them in their dark, spire-like cocoons,
-  trade them, or offer them up to their heinous masters as some obscure tax.<br/><br/>
-  Although many dreamscrapers act as servants for more powerful creatures, some act
-  independently. Unable to dream themselves, their fascination leads them to experiment
-  with their collections. They attempt to either synthesize dreams of their own or
-  implant collected dreams within themselves.<br/><br/><b><u>Recall Knowledge - Aberration</u>
-  ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 25<br/><b><u>Unspecific Lore</u></b>:
-  DC 23<br/><b><u>Specific Lore</u></b>: DC 20'
 dexterity: '+6'
 element: null
 fly_speed: '40'

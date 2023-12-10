@@ -11,32 +11,6 @@ creature_ability:
 - Scurry
 - Take Root
 creature_family: null
-description: "Lomori sprouts are passionate gardeners who closely tend new growth\
-  \ on the [[DATABASE/plane/Plane of Wood|Plane of Wood]] . Incredibly industrious,\
-  \ they lovingly guide young plants into elaborate constructions and patterns, forming\
-  \ tree tunnels, spiraling fields of flowers, complex hedge mazes, towering tapestries\
-  \ of interwoven bamboo, and other dizzying creations. Lomori sprouts meticulously\
-  \ collect the trimmings, seeds, and debris from the flora in their care. They plant\
-  \ the seeds to yield new growth and frenetically weave the rest into nests, spheres,\
-  \ and other simple objects. They're shy and skittish, often losing themselves in\
-  \ their labors, but they're always friendly to those who treat their gardens with\
-  \ respect.<br/> <br/>Lomoris are [[DATABASE/monsterfamily/Aeon|aeon]] spirits dispatched\
-  \ to the elemental planes long ago to pursue the act of creation. While most of\
-  \ the aeons dispatched to the other elemental planes performed their duties and\
-  \ rejoined their aeon brethren, those on the Plane of Wood lingered, becoming trapped\
-  \ as the plane receded. Over the ages, they adapted and evolved into lomoris. Today,\
-  \ lomoris have more in common with the other denizens of the Plane of Wood than\
-  \ they do with their aeon ancestors.<br/><br/> Lomori sprouts, much like [[DATABASE/ancestry/Conrasu|conrasus]]\
-  \ , have a central black sphere, known as a lomori's core, that functions as their\
-  \ primary body and consciousness. Where conrasus forge a sturdy exoskeleton, lomoris\
-  \ cultivate a tall mound of prairie grass surrounding their core, which easily grows\
-  \ to be 2\u20133 times the core's height. The lomori shapes the mound as it grows,\
-  \ creating protective layers to guard their core and forming other useful appendages.\
-  \ Most lomoris have six intricately detailed, crab-like legs of wood that emerge\
-  \ from the lower half of their core, allowing them to rapidly scuttle across the\
-  \ ground or climb trees.<br/><br/><b><u>Recall Knowledge - Plant</u> ( [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 23<br/><b><u>Unspecific Lore</u></b>: DC 21<br/><b><u>Specific Lore</u></b>:\
-  \ DC 18"
 dexterity: '+4'
 element: Wood
 fly_speed: null

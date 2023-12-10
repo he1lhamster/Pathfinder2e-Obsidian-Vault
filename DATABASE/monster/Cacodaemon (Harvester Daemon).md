@@ -1,94 +1,73 @@
 ﻿---
-ac: '39'
-alignment: LN
+ac: '16'
+alignment: NE
 all_resistance: null
 burrow_speed: null
-charisma: '+5'
+charisma: '+2'
 climb_speed: null
-constitution: '+5'
+constitution: '+2'
 creature_ability:
-- Aging Strikes
-- Confusing Gaze
-- Envisioning
-- Focused Gaze
-- Temporal Flurry
-- Temporal Reversion
-- ''
-- Temporal Strike
-creature_family: '[[DATABASE/monsterfamily/Aeon|Aeon]]'
-description: 'The bythos is a guardian of space and time, and at all times seeks out
-  those who misuse planar and temporal magic. A bythos is a roughly humanoid creature
-  with four arms and a body made of swirling clouds and mist. Despite its appearance,
-  its body feels like dry stone. A bythos seeks out paradoxes caused by irresponsible
-  planar or dimensional travelers and repairs breaches where the barriers between
-  planes have become thin or damaged. If the mortals responsible remain in the area
-  and cannot be convinced to cease their activities, the bythos has no qualms about
-  removing them. Using its ability to manipulate time, a bythos might cause an opponent
-  to quickly die of old age as time speeds up around them, or cause a target to disappear
-  from time and space.<br/><br/><b><u>Recall Knowledge - Monitor</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 37<br/><b><u>Unspecific Lore</u></b>: DC 35<br/><b><u>Specific Lore</u></b>:
-  DC 32'
-dexterity: '+4'
+- Cacodaemonia
+- Change Shape
+- Soul Lock
+creature_family: '[[DATABASE/monsterfamily/Daemon|Daemon]]'
+dexterity: '+3'
 element: null
-fly_speed: '35'
-fortitude: '+25'
+fly_speed: '40'
+fortitude: '+7'
 hardness: null
-hp: '245'
-id: '539'
-immunity: null
-intelligence: '+7'
-land_speed: null
+hp: '22'
+id: '88'
+immunity:
+- '[[DATABASE/trait/Death|death]] effects'
+intelligence: '-1'
+land_speed: '5'
 language:
-- envisioning
-level: '16'
-max_speed: '35'
-name: Bythos
-perception: '+30'
-rarity: Uncommon
-reflex: '+26'
+- '[[DATABASE/language/Common|Common]]'
+- '[[DATABASE/language/Daemonic|Daemonic]] ; telepathy 100 feet'
+level: '1'
+max_speed: '40'
+name: Cacodaemon
+perception: '+6'
+rarity: Common
+reflex: '+8'
 resistance: null
 rus_type_level: null
 school: null
 sense:
-- '[[DATABASE/monsterability/Darkvision|darkvision]]'
-size: Large
+- darkvision
+size: Tiny
 skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +32'
-- '[[DATABASE/skill/Arcana|Arcana]] +29'
-- '[[DATABASE/skill/Deception|Deception]] +25'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +25'
-- '[[DATABASE/skill/Nature|Nature]] +30'
-- '[[DATABASE/skill/Occultism|Occultism]] +29'
-- '[[DATABASE/skill/Religion|Religion]] +30'
-- '[[DATABASE/skill/Stealth|Stealth]] +26'
-source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +8'
+- '[[DATABASE/skill/Deception|Deception]] +5'
+- '[[DATABASE/skill/Religion|Religion]] +6'
+- '[[DATABASE/skill/Stealth|Stealth]] +8'
+source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
-- fly 35 feet
+- 5 feet
+- fly 40 feet
 spell:
-- '[[DATABASE/spell/Augury|Augury]]'
-- '[[DATABASE/spell/Dimensional Anchor|DimensionalAnchor]]'
-- '[[DATABASE/spell/Dimensional Lock|Dimensional Lock]]'
-- '[[DATABASE/spell/Haste|Haste]]'
-- '[[DATABASE/spell/Plane Shift|PlaneShift]]'
-- '[[DATABASE/spell/Slow|Slow]]'
-- '[[DATABASE/spell/Teleport|Teleport]]'
-strength: '+8'
-strength_req: '8'
+- '[[DATABASE/spell/Detect Alignment|Detect Alignment]]'
+- '[[DATABASE/spell/Detect Magic|Detect Magic]]'
+- '[[DATABASE/spell/Fear|Fear]]'
+- '[[DATABASE/spell/Invisibility|Invisibility]]'
+- '[[DATABASE/spell/Read Omens|Read Omens]]'
+strength: '+0'
+strength_req: '0'
 strongest_save:
-- Will
+- Reflex
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Aeon|Aeon]]'
-- '[[DATABASE/trait/Monitor|Monitor]]'
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
+- '[[DATABASE/trait/Daemon|Daemon]]'
+- '[[DATABASE/trait/Fiend|Fiend]]'
 type: Creature
 vision: Darkvision
 weakest_save:
-- Fortitude
+- Will
 weakness:
-- chaotic 15
-will: '+30'
-wisdom: '+8'
+- good 3
+will: '+6'
+wisdom: '+1'
 
 ---
 # Cacodaemon (Harvester Daemon)

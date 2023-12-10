@@ -13,22 +13,6 @@ creature_ability:
 - Nature Empathy
 - Storm of Vines
 creature_family: null
-description: "Drainberry bushes are floating bushes that originate from the [[DATABASE/plane/First\
-  \ World|First World]] , with long, thorny vines and dense clusters of bright-red\
-  \ berries. Their hollow thorns quickly siphon blood, which is how these carnivorous\
-  \ plants feed, and they rapidly turn consumed blood into fresh batches of delicious\
-  \ berries. Drainberry bushes exude a faint white glow that is a result of stored\
-  \ positive energy.<br/><br/>Drainberry bushes exhibit unusually high intelligence\
-  \ and have an astute sense of value. They typically become insulted when creatures\
-  \ attempt to harvest their berries. Creatures that attempt to converse with drainberry\
-  \ bushes finds the plants telepathically convey only short and simple phrases: most\
-  \ commonly, \u201CMoney please,\u201D \u201CDeal good,\u201D \u201CDeal no good,\u201D\
-  \ \u201CWant that,\u201D (with a gesture toward an item it covets), \u201CThank\
-  \ you, customer,\u201D and if necessary, \u201CNo refunds.\u201D Though a drainberry\
-  \ bush considers the market value of its berries to be 25 gp, it greatly prefers\
-  \ interesting art objects as payment\u2014even ones of significantly lower value.<br/><br/><b><u>Recall\
-  \ Knowledge - Plant</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 25<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 23<br/><b><u>Specific Lore</u></b>: DC 20"
 dexterity: '+2'
 element: null
 fly_speed: null

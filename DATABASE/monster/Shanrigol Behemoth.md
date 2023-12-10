@@ -13,19 +13,6 @@ creature_ability:
 - Undulating Step
 - Web Trap
 creature_family: '[[DATABASE/monsterfamily/Shanrigol|Shanrigol]]'
-description: 'Shanrigols that grow with the additions of many living victims can become
-  truly enormous in size and pose a greater danger in their expanding hunting territories.
-  Subterranean communities have collapsed entire tunnels to prevent the creatures
-  from reaching their settlements.<br/><br/> Many shanrigol behemoths absorb enough
-  brain matter to form crude intelligences and take a serpentine or humanoid shape.
-  They''re more varied in their abilities than shanrigol heaps, as they often gain
-  abilities from their constituent creatures. The shanrigol behemoth presented below
-  contains flesh from [[DATABASE/monster/Drider|driders]] and [[DATABASE/trait/Urdefhan|urdefhans]]
-  , giving it a web attack and necrotic decay ability. Not all shanrigol behemoths
-  have these two abilities, but should have other abilities to replace them.<br/><br/><b><u>Recall
-  Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 28<br/><b><u>Recall
-  Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 28<br/><b><u>Unspecific
-  Lore</u></b>: DC 26<br/><b><u>Specific Lore</u></b>: DC 23'
 dexterity: '+4'
 element: null
 fly_speed: null

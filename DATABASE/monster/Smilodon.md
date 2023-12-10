@@ -11,12 +11,6 @@ creature_ability:
 - Pounce
 - Sneak Attack
 creature_family: '[[DATABASE/monsterfamily/Cat|Cat]]'
-description: "Smilodons are large saber-toothed cats, apex predators that are significantly\
-  \ more muscular and broader than the other species of big cats. They often kill\
-  \ prey with a quick stab to the throat or other vulnerable spot. The smilodon\u2019\
-  s oversized fangs are particularly sought after as trophies.<br/><br/><b><u>Recall\
-  \ Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 22<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 20<br/><b><u>Specific Lore</u></b>: DC 17"
 dexterity: '+2'
 element: null
 fly_speed: null

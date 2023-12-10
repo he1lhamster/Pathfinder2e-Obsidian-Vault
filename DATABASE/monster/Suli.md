@@ -1,77 +1,79 @@
 ﻿---
-ac: '23'
-alignment: NE
+ac: '15'
+alignment: N
 all_resistance: null
 burrow_speed: null
-charisma: '-2'
+charisma: '+4'
 climb_speed: null
-constitution: '+4'
+constitution: '+0'
 creature_ability:
-- Blinding Sulfur
-- Death Throes
-- Slow
-creature_family: '[[DATABASE/monsterfamily/Zombie|Zombie]]'
-description: 'Glowing with a dull amber light, these odious creatures spawn from a
-  combination of necromancy and fire. These destructive creations sow chaos and demolish
-  fortifications, making them the bane of besieged cities.<br/><br/><b><u>Recall Knowledge
-  - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 22<br/><b><u>Unspecific
-  Lore</u></b>: DC 20<br/><b><u>Specific Lore</u></b>: DC 17'
+- Elemental Assault
+- Elemental Bulwark
+creature_family: '[[DATABASE/monsterfamily/Geniekin|Geniekin]]'
 dexterity: '+2'
-element: Fire
+element: null
 fly_speed: null
-fortitude: '+16'
+fortitude: '+3'
 hardness: null
-hp: 125 ( negative healing )
-id: '1377'
-immunity:
-- '[[DATABASE/trait/Death|death]] effects'
-- '[[DATABASE/trait/Disease|disease]]'
-- fire
-- '[[DATABASE/trait/Mental|mental]]'
-- '[[DATABASE/condition/Paralyzed|paralyzed]]'
-- '[[DATABASE/trait/Poison|poison]]'
-- '[[DATABASE/condition/Unconscious|unconscious]]'
-intelligence: '-5'
-land_speed: '30'
-language: null
-level: '6'
-max_speed: '30'
-name: Sulfur Zombie
-perception: '+12'
+hp: '16'
+id: '761'
+immunity: null
+intelligence: '+1'
+land_speed: '25'
+language:
+- '[[DATABASE/language/Aquan|Aquan]]'
+- '[[DATABASE/language/Auran|Auran]]'
+- '[[DATABASE/language/Common|Common]]'
+- '[[DATABASE/language/Ignan|Ignan]]'
+- '[[DATABASE/language/Terran|Terran]]'
+level: '1'
+max_speed: '25'
+name: Suli Dune Dancer
+perception: '+5'
 rarity: Common
-reflex: '+12'
+reflex: '+5'
 resistance: null
 rus_type_level: null
 school: null
-sense:
-- '[[DATABASE/monsterability/Darkvision|darkvision]]'
+sense: null
 size: Medium
 skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +15'
-- '[[DATABASE/skill/Stealth|Stealth]] +12'
-source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +5'
+- '[[DATABASE/skill/Deception|Deception]] +6'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +7'
+- '[[DATABASE/skill/Occultism|Occultism]] +4'
+- '[[DATABASE/skill/Performance|Performance]] +7'
+- '[[DATABASE/skill/Society|Society]] +4'
+source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
-- 30 feet
-spell: null
-strength: '+5'
-strength_req: '5'
+- 25 feet
+spell:
+- '[[DATABASE/spell/Color Spray|Color Spray]]'
+- '[[DATABASE/spell/Detect Magic|DetectMagic]]'
+- '[[DATABASE/spell/Guidance|Guidance]]'
+- '[[DATABASE/spell/Inspire Courage|Inspire Courage]]'
+- '[[DATABASE/spell/Mage Hand|Mage Hand]]'
+- '[[DATABASE/spell/Shield|Shield]]'
+- '[[DATABASE/spell/Soothe|Soothe]]'
+- '[[DATABASE/spell/Telekinetic Projectile|Telekinetic Projectile]]'
+- '[[DATABASE/spell/True Strike|True Strike]]'
+strength: '+2'
+strength_req: '2'
 strongest_save:
-- Fortitude
+- Reflex
+- Will
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Fire|Fire]]'
-- '[[DATABASE/trait/Mindless|Mindless]]'
-- '[[DATABASE/trait/Undead|Undead]]'
-- '[[DATABASE/trait/Zombie|Zombie]]'
+- '[[DATABASE/trait/Human|Human]]'
+- '[[DATABASE/trait/Humanoid|Humanoid]]'
+- '[[DATABASE/trait/Suli|Suli]]'
 type: Creature
-vision: Darkvision
+vision: null
 weakest_save:
-- Will
-weakness:
-- '[[DATABASE/trait/Positive|positive]] 5'
-- slashing 5
-will: '+10'
-wisdom: '+2'
+- Fortitude
+weakness: null
+will: '+5'
+wisdom: '+0'
 
 ---
 # Suli

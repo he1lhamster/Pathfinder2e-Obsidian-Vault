@@ -9,12 +9,6 @@ constitution: '+3'
 creature_ability:
 - Light in the Dark
 creature_family: '[[DATABASE/monsterfamily/Laborers|Laborers]]'
-description: 'An often-overlooked group of laborers, gravediggers have a reputation
-  for being as quiet and grim as their workplace. They are commonly strong and tough
-  from their long hours of backbreaking labor, and they tend to have a unique perspective
-  on life and death.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 15<br/><b><u>Unspecific Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>:
-  DC 10'
 dexterity: '+1'
 element: null
 fly_speed: null

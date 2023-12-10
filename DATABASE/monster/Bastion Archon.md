@@ -16,23 +16,6 @@ creature_ability:
 - Ultimate
 - Sacrifice
 creature_family: '[[DATABASE/monsterfamily/Archon|Archon]]'
-description: "The mightiest of archon-kind form in the heat of battle from incredibly\
-  \ uncommon circumstances. When a gathering of [[DATABASE/monster/Lantern Archon|lantern\
-  \ archons]] converges into a gestalt in order to defend allies in a fight that seems\
-  \ all but lost, a fellow archon of significant strength\u2014such as a [[DATABASE/monster/Star\
-  \ Archon|star archon]] \u2014can commit a brave act of self-sacrifice by dimensionally\
-  \ transposing itself with the gestalt. If the circumstances are just right and luck\
-  \ is with the archons, the result is not a glorious sacrifice, but instead the earth-rocking\
-  \ emergence of a bastion archon. In this way, the lowliest of archons\u2014the lanterns\u2014\
-  can, in an instant, become their kind's greatest hope.<br/><br/>Bastion archons\
-  \ are massive beings made of the very stone of Heaven's Holy Mountain, with their\
-  \ visages obscured by a blinding light surrounding the gestalt that originally formed\
-  \ the bastion. Tireless in their embodiment of the virtue of sacrifice, a bastion\
-  \ archon almost always protects the area where they manifested, and even when they\
-  \ are destroyed they leave an indelible mark of righteousness upon the surrounding\
-  \ region.<br/><br/><b><u>Recall Knowledge - Celestial</u> ( [[DATABASE/skill/Religion|Religion]]\
-  \ )</b>: DC 45<br/><b><u>Unspecific Lore</u></b>: DC 43<br/><b><u>Specific Lore</u></b>:\
-  \ DC 40"
 dexterity: '+7'
 element: null
 fly_speed: null

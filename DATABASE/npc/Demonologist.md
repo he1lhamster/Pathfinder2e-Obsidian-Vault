@@ -11,10 +11,6 @@ creature_ability:
 - Breach the Abyss
 - Demon Summoning
 creature_family: '[[DATABASE/monsterfamily/Mystics|Mystics]]'
-description: 'Demonologists can pull a creature from the [[DATABASE/plane/Abyss|Abyss]]
-  and bend it to their will... for a time.<br/><br/><b><u>Recall Knowledge - Humanoid</u>
-  ( [[DATABASE/skill/Society|Society]] )</b>: DC 23<br/><b><u>Unspecific Lore</u></b>:
-  DC 21<br/><b><u>Specific Lore</u></b>: DC 18'
 dexterity: '+1'
 element: null
 fly_speed: null

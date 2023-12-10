@@ -11,15 +11,6 @@ creature_ability:
 - Sound Imitation
 - Terrifying Cry
 creature_family: '[[DATABASE/monsterfamily/Hantu|Hantu]]'
-description: 'When an environment such as a forest or stream is at risk of overhunting
-  or overfishing, the land itself can manifest as a hantu denai in order to defend
-  itself from overconsumption. Hantu denais stalk hunters and emit haunting cries
-  of native fauna to scare off poachers, loggers, and other despoilers of nature before
-  resorting to violence if necessary.<br/><br/><b><u>Recall Knowledge - Beast</u>
-  ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]] )</b>: DC
-  28<br/><b><u>Recall Knowledge - Spirit</u> ( [[DATABASE/skill/Occultism|Occultism]]
-  )</b>: DC 28<br/><b><u>Unspecific Lore</u></b>: DC 26<br/><b><u>Specific Lore</u></b>:
-  DC 23'
 dexterity: '+5'
 element: null
 fly_speed: '25'

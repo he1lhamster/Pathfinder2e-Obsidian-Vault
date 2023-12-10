@@ -12,19 +12,6 @@ creature_ability:
 - Enveloping Kimono
 - Shocking Douse
 creature_family: '[[DATABASE/monsterfamily/Oni|Oni]]'
-description: 'Among the most powerful yai are those who emulate the form of [[DATABASE/monster/Storm
-  Giant|storm giants]] . Rather than lord over their giant-kin like most oni, though,
-  water yai prefer to lurk alone in the world''s oceans (or, much more rarely, large
-  and remote freshwater lakes). When a water yai must interact with mortals beneath
-  the waves, they prefer to do so while disguised as a storm giant. Water yai pursue
-  the acquisition of material wealth and riches above all other interests, garbing
-  themselves in richly colored, magically waterproofed kimonos and adorning their
-  monstrous faces with all manner of jewelry. These yai can infuse their kimonos with
-  eerie magical properties, and in combat, they can also fire bolts of electricity
-  from their third eye.<br/><br/><b><u>Recall Knowledge - Fiend</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 36<br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 36<br/><b><u>Unspecific Lore</u></b>: DC 34<br/><b><u>Specific Lore</u></b>:
-  DC 31'
 dexterity: '+6'
 element: Water
 fly_speed: '40'

@@ -11,11 +11,6 @@ creature_ability:
 - Heavy
 - Trample
 creature_family: '[[DATABASE/monsterfamily/Elemental, Metal|Elemental, Metal]]'
-description: 'A monstrous spider-like creature composed of the radioactive skymetal
-  [[DATABASE/equipment/Abysium|abysium]] , this deadly predator contaminates anything
-  it touches.<br/><br/><b><u>Recall Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Nature|Nature]] )</b>: DC 27<br/><b><u>Unspecific Lore</u></b>:
-  DC 25<br/><b><u>Specific Lore</u></b>: DC 22'
 dexterity: '+3'
 element: Metal
 fly_speed: null

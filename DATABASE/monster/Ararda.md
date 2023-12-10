@@ -12,14 +12,6 @@ creature_ability:
 - Charged Earth
 - Earth Glide
 creature_family: '[[DATABASE/monsterfamily/Blightburn Genies|Blightburn Genies]]'
-description: '[[DATABASE/monster/Shaitan|Shaitans]] corrupted by the Black Desert''s
-  blightburn become scorpion-like arardas. While other earth genies sparkle with the
-  iridescence of gemstones and evoke the power of the earth itself, arardas use their
-  connection to the ground to harness the might of electricity. Arardas are so infused
-  with this radioactive crystal that their mere presence is toxic to most living creatures.<br/><br/><b><u>Recall
-  Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 43<br/><b><u>Unspecific Lore</u></b>: DC 41<br/><b><u>Specific Lore</u></b>:
-  DC 38'
 dexterity: '+6'
 element: Earth
 fly_speed: '20'

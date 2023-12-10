@@ -1,90 +1,85 @@
 ﻿---
-ac: '30'
-alignment: LN
+ac: '38'
+alignment: NE
 all_resistance: null
 burrow_speed: null
-charisma: '+3'
+charisma: '+5'
 climb_speed: null
-constitution: '+6'
+constitution: '+7'
 creature_ability:
-- Attack of Opportunity
-- Dazzling Assault
-- Solar Instability
-- Star Weapons
-- Starburst
-- Starlight
-- ''
-- Swarm Shape
-creature_family: null
-description: 'Crownbound constellations are the essence of stars granted sentience
-  by the goddess [[DATABASE/deity/Desna|Desna]] , who created them to survey the vastness
-  of space and help her craft the galaxy. Their intergalactic travels once took them
-  far, but [[DATABASE/deity/Lamashtu|Lamashtu]] sought to ensnare Desna''s creation.
-  The Mother of Beasts lured them to Golarion and then, exploiting the power of Golarion''s
-  sun, corrupted their ability to star travel. Stranded on the planet and unable to
-  bear sunlight, these creatures traveled to the Crown of the World, where they have
-  settled ever since.<br/><br/><b><u>Recall Knowledge - Astral</u> ( [[DATABASE/skill/Occultism|Occultism]]
-  )</b>: DC 26<br/><b><u>Unspecific Lore</u></b>: DC 24<br/><b><u>Specific Lore</u></b>:
-  DC 21'
-dexterity: '+4'
+- Daemonic Trap Making
+- Flurry of Daggers
+- Manifest Dagger
+- Trap Dodger
+creature_family: '[[DATABASE/monsterfamily/Daemon|Daemon]]'
+dexterity: '+7'
 element: null
 fly_speed: null
-fortitude: '+19'
+fortitude: '+26'
 hardness: null
-hp: '98'
-id: '2499'
+hp: '225'
+id: '479'
 immunity:
-- '[[DATABASE/trait/Electricity|electricity]]'
-- good
-- precision
-- '[[DATABASE/monsterability/Swarm Mind|swarm mind]]'
-intelligence: '+4'
-land_speed: '40'
+- death effects
+intelligence: '+3'
+land_speed: '50'
 language:
-- '[[DATABASE/language/Aklo|Aklo]]'
-level: '8'
-max_speed: '40'
-name: Crownbound Constellation
-perception: '+19'
-rarity: Uncommon
-reflex: '+16'
+- '[[DATABASE/language/Abyssal|Abyssal]]'
+- '[[DATABASE/language/Draconic|Draconic]]'
+- '[[DATABASE/language/Infernal|Infernal]] ; telepathy 100 feet'
+level: '15'
+max_speed: '50'
+name: Crucidaemon
+perception: '+26'
+rarity: Common
+reflex: '+30'
 resistance:
-- bludgeoning 5
-- piercing 8
-- slashing 8
+- physical 10 (except adamantine)
 rus_type_level: null
 school: null
 sense:
-- '[[DATABASE/monsterability/Darkvision|darkvision]]'
-size: Huge
+- darkvision
+- '[[DATABASE/spell/Detect Alignment|detect alignment]] (good only)'
+- lifesense 30 feet
+size: Medium
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +16'
-- '[[DATABASE/skill/Athletics|Athletics]] +21'
-- '[[DATABASE/skill/Lore|Lamashtu Lore]] +14'
-- '[[DATABASE/skill/Lore|Star Lore]] +16'
-- '[[DATABASE/skill/Stealth|Stealth]] +16'
-source: '[[DATABASE/source/Pathfinder 189. Dreamers of the Nameless Spires|Pathfinder
-  #189: Dreamers of the Nameless Spires]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +30'
+- '[[DATABASE/skill/Arcana|Arcana]] +26'
+- '[[DATABASE/skill/Crafting|Crafting]] +30'
+- '[[DATABASE/skill/Deception|Deception]] +26'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +28'
+- '[[DATABASE/skill/Stealth|Stealth]] +30'
+- '[[DATABASE/skill/Thievery|Thievery]] +26'
+source: '[[DATABASE/source/Pathfinder 149. Against the Scarlet Triad|Pathfinder #149:
+  Against the Scarlet Triad]]'
 speed:
-- 40 feet
-spell: null
-strength: '+7'
-strength_req: '7'
+- 50 feet
+- '[[DATABASE/spell/Air Walk|air walk]]'
+spell:
+- '[[DATABASE/spell/Death Knell|Death Knell]]'
+- '[[DATABASE/spell/Detect Alignment|DetectAlignment]]'
+- '[[DATABASE/spell/Fear|Fear]]'
+- '[[DATABASE/spell/Glyph of Warding|Glyph of Warding]]'
+- '[[DATABASE/spell/Invisibility|Invisibility]]'
+- '[[DATABASE/spell/Paralyze|Paralyze]]'
+- '[[DATABASE/spell/Phantom Pain|PhantomPain]]'
+strength: '+4'
+strength_req: '4'
 strongest_save:
-- Fortitude
+- Reflex
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Astral|Astral]]'
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
+- '[[DATABASE/trait/Daemon|Daemon]]'
+- '[[DATABASE/trait/Fiend|Fiend]]'
 type: Creature
 vision: Darkvision
 weakest_save:
+- Fortitude
 - Will
 weakness:
-- area damage 8
-- '[[DATABASE/trait/Splash|splash]] damage 8'
-will: '+13'
-wisdom: '+3'
+- good 10
+will: '+26'
+wisdom: '+7'
 
 ---
 # Crucidaemon (Torture Daemon)

@@ -14,9 +14,6 @@ creature_ability:
 - Vulnerable to
 - Supernatural Darkness
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Plant</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 50<br/><b><u>Unspecific
-  Lore</u></b>: DC 48<br/><b><u>Specific Lore</u></b>: DC 45'
 dexterity: '+5'
 element: null
 fly_speed: null

@@ -9,13 +9,6 @@ constitution: '+1'
 creature_ability:
 - Eagle Dive
 creature_family: '[[DATABASE/monsterfamily/Eagle|Eagle]]'
-description: 'These large birds of prey swoop down from incredible heights to snatch
-  fish and small mammals in their powerful talons. Eagles nest atop high trees or
-  steep cliffs that provide a commanding view of the surrounding area. They avoid
-  nesting too near civilization, but some remote cultures train eagles as hunting
-  companions.<br/><br/><b><u>Recall Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 13<br/><b><u>Unspecific Lore</u></b>: DC 11<br/><b><u>Specific Lore</u></b>:
-  DC 8'
 dexterity: '+3'
 element: null
 fly_speed: '60'

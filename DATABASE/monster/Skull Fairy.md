@@ -12,27 +12,6 @@ creature_ability:
 - Skull Twist
 - Terminal Tug
 creature_family: null
-description: "Skull fairies are malicious beings spawned from the heads of those who\
-  \ die after exposure to the malignant energies of the [[DATABASE/plane/Shadow Plane|Shadow\
-  \ Plane]] . They aren't [[DATABASE/trait/Fey|fey]] , but their petite, winged forms\
-  \ and tendency for malevolent mischief has caused the appellation \u201Cskull fairy\u201D\
-  \ to stick.<br/><br/> After bursting from the skull of the deceased, a skull fairy\
-  \ seeks out victims to behead. Skull fairies enjoy nothing more than the horrific\
-  \ sound of wrenching a head free from a body. They often wear the skulls of their\
-  \ most recent victim like caps atop their bulbous, oversized heads. Skull fairies\
-  \ take heads they've acquired to isolated caves, where they carefully strip off\
-  \ the flesh and put the skulls on display. If the skull fairy feels the need for\
-  \ new headgear, they hollow out a fresh skull to wear and retire the old one to\
-  \ a place of prominence.<br/><br/> A group of exactly three skull fairies who have\
-  \ each been alive for at least 13 years become much more powerful than their solitary\
-  \ or younger kin. Members of such a coven become stronger and more intelligent,\
-  \ and they set their minds to evil and chaos on a much wider scale\u2014although\
-  \ anything more complicated than wandering about to twist off heads might seem aspirational\
-  \ to a skull fairy. Skull fairies that join a [[DATABASE/monsterability/Coven|coven]]\
-  \ gain the elite adjustments and often acquire more powerful innate spells. [[DATABASE/spell/Nondetection|Nondetection]]\
-  \ and [[DATABASE/spell/Stinking Cloud|stinking cloud]] are the most common spells\
-  \ a skull fairy coven can access, but others exist. A skull fairy can only join\
-  \ a coven consisting exclusively of other skull fairies"
 dexterity: '+4'
 element: null
 fly_speed: '30'

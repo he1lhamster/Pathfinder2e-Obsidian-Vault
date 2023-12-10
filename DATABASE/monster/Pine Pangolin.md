@@ -10,16 +10,6 @@ creature_ability:
 - Roll Up
 - Secrete Tar
 creature_family: '[[DATABASE/monsterfamily/Elemental, Wood|Elemental, Wood]]'
-description: 'These creatures sleep while hanging upside down by their partially curled
-  tails and rely on their thick wooden scales to protect them from danger. One such
-  danger the scales negate is the falling damage from deliberately rolling up and
-  dropping onto the head of an unsuspecting opponent, which is one of their favorite
-  combat strategies. Beneath their scales, pine pangolin bodies secrete a thick, sticky
-  tar that serves as a secondary line of defense.<br/><br/><b><u>Recall Knowledge
-  - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 23<br/><b><u>Recall Knowledge - Plant</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 23<br/><b><u>Unspecific Lore</u></b>: DC 21<br/><b><u>Specific Lore</u></b>:
-  DC 18'
 dexterity: '+0'
 element: Wood
 fly_speed: null

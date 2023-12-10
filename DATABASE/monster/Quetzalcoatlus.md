@@ -10,14 +10,6 @@ creature_ability:
 - Snatch
 - Swoop
 creature_family: '[[DATABASE/monsterfamily/Pterosaur|Pterosaur]]'
-description: 'Quetzalcoatlus are the largest flying members of the pterosaur family
-  and are often mistaken for dragons due to their immense size and 40-foot wingspans.<br/>
-  Quetzalcoatlus are carnivorous, feeding on a variety of reptiles, mammals, large
-  fish, amphibians, and other invertebrates. They are not inherently aggressive creatures
-  and are happy to scavenge for food, but when presented with live prey they readily
-  attack almost any creature smaller than themselves.<br/><br/><b><u>Recall Knowledge
-  - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 23<br/><b><u>Unspecific
-  Lore</u></b>: DC 21<br/><b><u>Specific Lore</u></b>: DC 18'
 dexterity: '+4'
 element: null
 fly_speed: '50'

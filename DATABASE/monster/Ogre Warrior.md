@@ -8,13 +8,6 @@ climb_speed: null
 constitution: '+4'
 creature_ability: null
 creature_family: '[[DATABASE/monsterfamily/Ogre|Ogre]]'
-description: "The simplest of ogres are slabs of muscle with hatefully beady eyes,\
-  \ misshapen visages, and malformed bodies. Always eager for mayhem and murder, ogre\
-  \ warriors are quick to turn on their kin when there\u2019s a shortage of smaller\
-  \ folk to torment, so those who lead ogres do their best to keep them constantly\
-  \ distracted with new opportunities for raids and ruin.<br/><br/><b><u>Recall Knowledge\
-  \ - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 18<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>: DC 13"
 dexterity: '-1'
 element: null
 fly_speed: null

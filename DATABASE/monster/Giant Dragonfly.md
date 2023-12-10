@@ -11,11 +11,6 @@ creature_ability:
 - Snatch
 - Swoop
 creature_family: '[[DATABASE/monsterfamily/Dragonfly|Dragonfly]]'
-description: 'These buzzing insects are the size of a small horse. They are ambush
-  predators known to hunt beasts and humanoids alike, capable of using impressive
-  aerial acrobatics to swoop down from above and snatch away their prey.<br/><br/><b><u>Recall
-  Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 19<br/><b><u>Unspecific
-  Lore</u></b>: DC 17<br/><b><u>Specific Lore</u></b>: DC 14'
 dexterity: '+4'
 element: null
 fly_speed: '60'

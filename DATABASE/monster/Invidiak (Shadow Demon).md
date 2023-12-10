@@ -1,90 +1,83 @@
 ﻿---
-ac: '33'
-alignment: LE
-all_resistance: null
+ac: '22'
+alignment: CE
+all_resistance: '5'
 burrow_speed: null
 charisma: '+5'
 climb_speed: null
-constitution: '+5'
+constitution: '+3'
 creature_ability:
-- Attack of Opportunity
-- Focus Gaze
-- Glimpse of Stolen Flesh
-- Painsight
-- Surgical Rend
-creature_family: '[[DATABASE/monsterfamily/Velstrac|Velstrac]]'
-description: 'Interlocutors are the most talented surgeon-sculptors of the velstracs,
-  carving away flesh and replacing it with new body parts of muscle, sinew, and metal.
-  Each interlocutor structures their individual appearance carefully, but all are
-  towering, multi-limbed amalgamations of the strongest limbs, densest bone, and sharpest
-  metal they can find. They continually search for new material to graft to their
-  forms, and their slain foes are rarely found intact, as little is more valuable
-  to interlocutors than a powerful opponent''s legs, eyes, or even brain. Interlocutors
-  average 9 feet tall and weigh approximately 800 pounds.<br/><br/><b><u>Recall Knowledge
-  - Fiend</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 30<br/><b><u>Unspecific
-  Lore</u></b>: DC 28<br/><b><u>Specific Lore</u></b>: DC 25'
-dexterity: '+3'
+- Exorcism Vulnerability
+- Favored Host
+- Shadow Blend
+- Unbodied Possession
+creature_family: '[[DATABASE/monsterfamily/Demon|Demon]]'
+dexterity: '+4'
 element: null
-fly_speed: null
-fortitude: '+23'
+fly_speed: '30'
+fortitude: '+15'
 hardness: null
-hp: '215'
-id: '851'
+hp: '90'
+id: '599'
 immunity:
-- cold
+- '[[DATABASE/trait/Disease|disease]]'
+- '[[DATABASE/trait/Poison|poison]]'
+- precision
 intelligence: '+2'
-land_speed: '40'
+land_speed: null
 language:
-- '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Infernal|Infernal]]'
-- '[[DATABASE/language/Shadowtongue|Shadowtongue]]'
-level: '12'
-max_speed: '40'
-name: Interlocutor
-perception: '+24'
+- '[[DATABASE/language/Abyssal|Abyssal]]'
+- '[[DATABASE/language/Common|Common]] ; [[DATABASE/monsterability/Telepathy|telepathy
+  100 feet]]'
+level: '7'
+max_speed: '30'
+name: Invidiak
+perception: '+15'
 rarity: Common
-reflex: '+21'
-resistance: null
+reflex: '+16'
+resistance:
+- all 5 (except [[DATABASE/trait/Force|force]]
+- '[[DATABASE/equipment/Ghost Touch|ghost touch]]'
+- or positive; double resistance vs. non-magical)
 rus_type_level: null
 school: null
 sense:
-- '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
-- painsight
-size: Large
+- '[[DATABASE/monsterability/Darkvision|darkvision]]'
+size: Medium
 skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +25'
-- '[[DATABASE/skill/Crafting|Crafting]] +22'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +25'
-- '[[DATABASE/skill/Medicine|Medicine]] +26'
-- '[[DATABASE/skill/Religion|Religion]] +22'
-- '[[DATABASE/skill/Stealth|Stealth]] +19'
-- '[[DATABASE/skill/Lore|Torture Lore]] +20'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +15'
+- '[[DATABASE/skill/Deception|Deception]] +18'
+- '[[DATABASE/skill/Religion|Religion]] +13'
+- '[[DATABASE/skill/Society|Society]] +15'
+- '[[DATABASE/skill/Stealth|Stealth]] +17'
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
-- 40 feet
+- fly 30 feet
 spell:
-- '[[DATABASE/spell/Breath of Life|Breath of Life]]'
-- '[[DATABASE/spell/Heal|Heal]]'
-- '[[DATABASE/spell/Plane Shift|Plane Shift]]'
-- '[[DATABASE/spell/Restoration|Restoration]]'
-- '[[DATABASE/spell/Stabilize|Stabilize]]'
-strength: '+7'
-strength_req: '7'
+- '[[DATABASE/spell/Darkness|Darkness]]'
+- '[[DATABASE/spell/Dimension Door|DimensionDoor]]'
+- '[[DATABASE/spell/Fear|Fear]]'
+- '[[DATABASE/spell/Possession|Possession]]'
+- '[[DATABASE/spell/Shadow Blast|Shadow Blast]]'
+- '[[DATABASE/spell/Telekinetic Projectile|Telekinetic Projectile]]'
+strength: '-5'
+strength_req: '-5'
 strongest_save:
-- Will
+- Reflex
 swim_speed: null
 trait:
+- '[[DATABASE/trait/Demon|Demon]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'
-- '[[DATABASE/trait/Velstrac|Velstrac]]'
+- '[[DATABASE/trait/Incorporeal|Incorporeal]]'
 type: Creature
-vision: Greater darkvision
+vision: Darkvision
 weakest_save:
-- Reflex
+- Will
 weakness:
-- good 15
-- silver 15
-will: '+26'
-wisdom: '+6'
+- '[[DATABASE/equipment/Cold Iron|cold iron]] 5'
+- good 5
+will: '+13'
+wisdom: '+2'
 
 ---
 # Invidiak (Shadow Demon)

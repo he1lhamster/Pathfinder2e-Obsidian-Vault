@@ -13,13 +13,6 @@ creature_ability:
 - Release Soul
 - Spirit Touch
 creature_family: null
-description: 'Even immortals such as [[DATABASE/monsterfamily/Kami|kami]] aren''t
-  immune to death. When a kami or equally powerful entity refuses the call of the
-  [[DATABASE/plane/Boneyard|Boneyard]] , a shinigami is summoned to bring these stubborn
-  souls to heel. Exact and swift, shinigami are known to dispense the judgment of
-  death efficiently and dispassionately.<br/><br/><b><u>Recall Knowledge - Monitor</u>
-  ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 38<br/><b><u>Unspecific Lore</u></b>:
-  DC 36<br/><b><u>Specific Lore</u></b>: DC 33'
 dexterity: '+6'
 element: null
 fly_speed: '30'

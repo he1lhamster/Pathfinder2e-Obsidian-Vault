@@ -1,86 +1,51 @@
 ﻿---
-ac: '24'
-alignment: LE
+ac: null
+alignment: null
 all_resistance: null
 burrow_speed: null
-charisma: '+1'
+charisma: null
 climb_speed: null
-constitution: '+2'
-creature_ability:
-- Animate Chains
-- Attack of Opportunity
-- Focus Gaze
-- Impaling Chain
-- Painsight
-- Unnerving Gaze
-creature_family: '[[DATABASE/monsterfamily/Velstrac|Velstrac]]'
-description: 'Evangelists, the velstracs'' unofficial ambassadors, roam the farthest
-  reaches of the planes to spread the word of their kind''s abhorrent belief in perfection
-  through pain. They are therefore the most frequently encountered velstracs on the
-  Material Plane, leading covens of hedonistic mortal flesh-sculptors or serving as
-  wardens of horrific dungeons. In regions ruled by infernal powers, evangelists may
-  serve as lieutenants or advisors, whispering secret paths to power in exchange for
-  mortal''s souls or choice mortal flesh. Evangelists are the same size as humans,
-  although with the heavy chains that always drape their forms, they often weigh 350
-  pounds or more.<br/><br/><b><u>Recall Knowledge - Fiend</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 22<br/><b><u>Unspecific Lore</u></b>: DC 20<br/><b><u>Specific Lore</u></b>:
-  DC 17'
-dexterity: '+3'
+constitution: null
+creature_ability: null
+creature_family: null
+dexterity: null
 element: null
 fly_speed: null
-fortitude: '+15'
+fortitude: null
 hardness: null
-hp: '90'
-id: '849'
-immunity:
-- cold
-intelligence: '+0'
-land_speed: '25'
-language:
-- '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Infernal|Infernal]]'
-- '[[DATABASE/language/Shadowtongue|Shadowtongue]]'
-level: '6'
-max_speed: '25'
+hp: null
+id: '461'
+immunity: null
+intelligence: null
+land_speed: null
+language: null
+level: null
+max_speed: null
 name: Evangelist
-perception: '+13'
-rarity: Common
-reflex: '+14'
+perception: null
+rarity: null
+reflex: null
 resistance: null
 rus_type_level: null
 school: null
-sense:
-- '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
-- painsight
-size: Medium
-skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +13'
-- '[[DATABASE/skill/Athletics|Athletics]] +15'
-- '[[DATABASE/skill/Crafting|Crafting]] +10'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +15'
-- '[[DATABASE/skill/Religion|Religion]] +11'
-- '[[DATABASE/skill/Lore|Torture Lore]] +12'
-source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
-speed:
-- 25 feet
+sense: null
+size: null
+skill: null
+source: '[[DATABASE/source/Pathfinder 147. Tomorrow Must Burn|Pathfinder #147: Tomorrow
+  Must Burn]]'
+speed: null
 spell: null
-strength: '+4'
-strength_req: '4'
-strongest_save:
-- Fortitude
+strength: null
+strength_req: null
+strongest_save: null
 swim_speed: null
-trait:
-- '[[DATABASE/trait/Fiend|Fiend]]'
-- '[[DATABASE/trait/Velstrac|Velstrac]]'
-type: Creature
-vision: Greater darkvision
-weakest_save:
-- Will
-weakness:
-- good 5
-- silver 5
-will: '+11'
-wisdom: '+1'
+trait: null
+type: null
+vision: null
+weakest_save: null
+weakness: null
+will: null
+wisdom: null
 
 ---
 # Evangelist

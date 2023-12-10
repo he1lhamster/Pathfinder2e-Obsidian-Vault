@@ -12,11 +12,6 @@ creature_ability:
 - Constrict
 - Tentacle Storm
 creature_family: '[[DATABASE/monsterfamily/Necrohulk|Necrohulk]]'
-description: 'Additional limbs, failing tentacles, and rubbery bodies are common among
-  Mana Wastes mutants, and aspiring necrohulk creators like to combine flesh from
-  more than one of these kinds of mutants to create gangly but powerful warriors.<br/><br/><b><u>Recall
-  Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 33<br/><b><u>Unspecific
-  Lore</u></b>: DC 31<br/><b><u>Specific Lore</u></b>: DC 28'
 dexterity: '+8'
 element: null
 fly_speed: null

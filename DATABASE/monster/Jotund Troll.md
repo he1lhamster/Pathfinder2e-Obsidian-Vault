@@ -19,21 +19,6 @@ creature_ability:
 - Swallow Whole
 - Throw Rock
 creature_family: '[[DATABASE/monsterfamily/Troll|Troll]]'
-description: 'Jotund trolls are gigantic, nine-headed horrors who prowl frigid moors,
-  marshes, and wastelands, always alone and always enraged. While each of the jotund
-  troll''s nine heads possess their own brains and senses, they work much more in
-  tandem than the dual-minded nature of the two-headed troll. Despite this, the heads
-  often argue and bicker, particularly over which head gets to eat. The fact that
-  all nine maws lead to the same shared stomach makes little difference in such culinary
-  disagreements.<br/><br/> Prevailing wisdom holds that the jotund troll represents
-  a primordial, if not original, shape and design for the first trolls to plague the
-  world, arising from a mythical realm in the Great Beyond known as Jotungard. This
-  sprawling domain, said to be nestled in a remote reach of [[DATABASE/plane/Elysium|Elysium]]
-  , is the legendary home of the deities of giant-kind. Whether the jotund troll was
-  created in Jotungard to plague the Material Plane as punishment or challenge, or
-  if it''s merely an evocative legend told by scholars, is unknown. In any case, the
-  jotund trolls themselves likely care little.<br/><br/><b><u>Unspecific Lore</u></b>:
-  DC 37<br/><b><u>Specific Lore</u></b>: DC 34'
 dexterity: '+4'
 element: null
 fly_speed: null

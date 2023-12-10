@@ -13,12 +13,6 @@ creature_ability:
 - Swallow Whole
 - Wrap in Coils
 creature_family: null
-description: 'The behir is a massive, serpentine beast with never fewer than a dozen
-  short legs, each ending in three hooked talons. A behir can live to 80 years, but
-  most perish far younger to violence. Fully grown, a behir is 40 feet long and weighs
-  4,000 pounds.<br/><br/><b><u>Recall Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Nature|Nature]] )</b>: DC 24<br/><b><u>Unspecific Lore</u></b>:
-  DC 22<br/><b><u>Specific Lore</u></b>: DC 19'
 dexterity: '+4'
 element: null
 fly_speed: null

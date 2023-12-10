@@ -1,50 +1,34 @@
 ﻿---
-ac: '12'
-alignment: N
+ac: '16'
+alignment: CE
 all_resistance: null
-burrow_speed: null
-charisma: '-5'
+burrow_speed: '15'
+charisma: '+2'
 climb_speed: null
-constitution: '+5'
+constitution: '+4'
 creature_ability:
-- Constrict
-- Corrosive Surface
-- Enliven Foliage
-- Motion Sense
-- Sleep Gas
-- Split
-- Verdurous Ooze
-- Acid
-creature_family: '[[DATABASE/monsterfamily/Ooze|Ooze]]'
-description: 'Verdurous oozes are found in temperate forests, warm jungles, or other
-  places where plant life grows in abundance. Unlike many types of oozes, verdurous
-  oozes are not particularly good climbers and have been known to get trapped in natural
-  or artificial chasms. Warlords and wizards sometimes make use of that fact and keep
-  verdurous oozes as guardians in pits around the walls of their fortresses or towers.<br/><br/><b><u>Recall
-  Knowledge - Ooze</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 22<br/><b><u>Unspecific
-  Lore</u></b>: DC 20<br/><b><u>Specific Lore</u></b>: DC 17'
-dexterity: '-4'
+- Abandon Body
+- Inhabit Body
+- Recoil from Wasted Opportunities
+- Unsettling Movement
+creature_family: '[[DATABASE/monsterfamily/Demon|Demon]]'
+dexterity: '+1'
 element: null
 fly_speed: null
-fortitude: '+17'
+fortitude: '+11'
 hardness: null
-hp: '157'
-id: '754'
-immunity:
-- acid
-- critical hits
-- '[[DATABASE/trait/Mental|mental]]'
-- piercing
-- precision
-- slashing
-- '[[DATABASE/condition/Unconscious|unconscious]]'
-- '[[DATABASE/trait/Visual|visual]]'
-intelligence: '-5'
-land_speed: '15'
-language: null
-level: '6'
-max_speed: '15'
-name: Verdurous Ooze
+hp: '55'
+id: '500'
+immunity: null
+intelligence: '+0'
+land_speed: '25'
+language:
+- '[[DATABASE/language/Abyssal|Abyssal]]'
+- '[[DATABASE/language/Celestial|Celestial]]'
+- '[[DATABASE/language/Draconic|Draconic]] ; telepathy 100 feet'
+level: '3'
+max_speed: '25'
+name: Vermlek
 perception: '+8'
 rarity: Common
 reflex: '+8'
@@ -52,31 +36,39 @@ resistance: null
 rus_type_level: null
 school: null
 sense:
-- motion sense 60 feet
-- no vision
+- darkvision
 size: Medium
 skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +15'
-- '[[DATABASE/skill/Stealth|Stealth]] +4'
-source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +8'
+- '[[DATABASE/skill/Athletics|Athletics]] +10'
+- '[[DATABASE/skill/Deception|Deception]] +7'
+- '[[DATABASE/skill/Stealth|Stealth]] +8'
+source: '[[DATABASE/source/Pathfinder 151. The Show Must Go On|Pathfinder #151: The
+  Show Must Go On]]'
 speed:
-- 15 feet
-spell: null
-strength: '+5'
-strength_req: '5'
+- 25 feet
+- burrow 15 feet
+spell:
+- '[[DATABASE/spell/Fear|Fear]]'
+- '[[DATABASE/spell/Harm|Harm]]'
+strength: '+3'
+strength_req: '3'
 strongest_save:
 - Fortitude
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Mindless|Mindless]]'
-- '[[DATABASE/trait/Ooze|Ooze]]'
+- '[[DATABASE/trait/Demon|Demon]]'
+- '[[DATABASE/trait/Fiend|Fiend]]'
 type: Creature
-vision: null
+vision: Darkvision
 weakest_save:
-- Reflex
-weakness: null
-will: '+10'
-wisdom: '+0'
+- Will
+weakness:
+- cold iron 5
+- good 5
+- sonic 5
+will: '+6'
+wisdom: '+1'
 
 ---
 # Vermlek (Worm Demon)

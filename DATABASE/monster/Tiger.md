@@ -11,11 +11,6 @@ creature_ability:
 - Sneak Attack
 - Wrestle
 creature_family: '[[DATABASE/monsterfamily/Cat|Cat]]'
-description: 'Tigers are solitary and territorial hunters, using their striped hides
-  to blend into the forests and jungles they call home and preferring to attack with
-  surprise.<br/><br/><b><u>Recall Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 19<br/><b><u>Unspecific Lore</u></b>: DC 17<br/><b><u>Specific Lore</u></b>:
-  DC 14'
 dexterity: '+3'
 element: null
 fly_speed: null

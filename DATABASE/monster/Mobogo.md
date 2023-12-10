@@ -13,14 +13,6 @@ creature_ability:
 - Tongue Grab
 - Tongue Reposition
 creature_family: null
-description: 'Mobogos are massive, swamp-dwelling monstrosities that combine the worst
-  aspects of giant toads and evil dragons. Lazy, cruel, and greedy, these vile creatures
-  make their lairs in the most ancient and primordial swamps. The [[DATABASE/monsterfamily/Boggard|boggards]]
-  who call such places home worship mobogos as living demigods, regularly bringing
-  sacrifices of food and valuables lest they become the next victims of the mobogos''
-  boundless appetites.<br/><br/><b><u>Recall Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Nature|Nature]] )</b>: DC 27<br/><b><u>Unspecific Lore</u></b>:
-  DC 25<br/><b><u>Specific Lore</u></b>: DC 22'
 dexterity: '+5'
 element: null
 fly_speed: '20'

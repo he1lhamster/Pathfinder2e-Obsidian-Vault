@@ -12,20 +12,6 @@ creature_ability:
 - Shell Block
 - Shell Game
 creature_family: null
-description: "The graveshell is a dangerous predator that draws scavengers and explorers\
-  \ into its grasp using a morbid lure: the corpse of a former victim impaled upon\
-  \ the spikes that protrude from its large, turtle-like shell. Aside from its shell,\
-  \ the monster resembles no known animal. Small but bright yellow eyes watch from\
-  \ the sagging flesh of its head, the most prominent feature of which is a curiously\
-  \ shaped, toothy maw twisted into a perpetual grin. Its stubby arms and legs are\
-  \ impractical for both walking and swimming, though the algae-caked claws tipping\
-  \ each limb are deadly weapons.<br/><br/> Graveshells are intelligent\u2014a fact\
-  \ that surprises many who encounter them\u2014and surrender rather than fight to\
-  \ the death. These monsters have little to offer in exchange for their lives, though\
-  \ the waterlogged treasures on their collection of corpses may entice opportunists.<br/><br/><b><u>Recall\
-  \ Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 17<br/><b><u>Unspecific Lore</u></b>: DC 15<br/><b><u>Specific Lore</u></b>:\
-  \ DC 12"
 dexterity: '-1'
 element: null
 fly_speed: null

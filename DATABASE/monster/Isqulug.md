@@ -13,16 +13,6 @@ creature_ability:
 - Malleability
 - Swamp Stride
 creature_family: null
-description: "The isqulug's appearance, though unsettling, might be its least awful\
-  \ aspect. The creature resembles a bipedal amphibian with tentacles instead of arms\
-  \ and a head composed of an undulant mass of what appear to be shifting, slimy transparent\
-  \ eggs filled with writhing larvae. In truth, these larvae constitute the mind and\
-  \ consciousness of the isqulug\u2014its \u201Cbody\u201D is little more than an\
-  \ organic suit manufactured from the flesh of those it has consumed, analogous to\
-  \ the complex web of a spider or the hive of a colony of bees, but fully capable\
-  \ of movement and violence.<br/><br/><b><u>Recall Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]]\
-  \ )</b>: DC 30<br/><b><u>Unspecific Lore</u></b>: DC 28<br/><b><u>Specific Lore</u></b>:\
-  \ DC 25"
 dexterity: '+5'
 element: null
 fly_speed: null

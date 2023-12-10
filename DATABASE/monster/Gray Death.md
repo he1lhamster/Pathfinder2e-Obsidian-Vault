@@ -14,19 +14,6 @@ creature_ability:
 - Soul Bleed
 - Spectral Lurker
 creature_family: null
-description: 'Galt''s <i>final blades</i> are feared not only for the swift death
-  they bring, but because it''s widely rumored the magical guillotines hold on to
-  the souls of the slain and prevent them from passing on to the afterlife. The truth
-  is even worse: a <i>final blade</i> contains only a limited amount of metaphysical
-  space to hold souls, and once it''s full, the souls coalesce into a fearsome, malevolent
-  entity called a gray death. The more souls trapped by a <i>final blade</i>, the
-  more powerful the gray death becomes. A gray death doesn''t pose much of a threat
-  while contained within the <i>final blade</i>, other than to give the guillotine
-  an aura of palpable malevolence. When freed, however, the gray death becomes a nearly
-  unstoppable menace.<br/><br/><b><u>Recall Knowledge - Spirit</u> ( [[DATABASE/skill/Occultism|Occultism]]
-  )</b>: DC 45<br/><b><u>Recall Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 45<br/><b><u>Unspecific Lore</u></b>: DC 43<br/><b><u>Specific Lore</u></b>:
-  DC 40'
 dexterity: '+7'
 element: null
 fly_speed: '60'

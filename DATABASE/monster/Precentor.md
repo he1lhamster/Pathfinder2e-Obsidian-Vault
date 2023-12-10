@@ -13,10 +13,6 @@ creature_ability:
 - Tormenting Touch
 - Unnerving Gaze
 creature_family: '[[DATABASE/monsterfamily/Velstrac|Velstrac]]'
-description: 'Velstrac storytellers and historians are known as precentors. Trailed
-  by horrific choirs, precentors perform in the courts of the velstrac demagogues.<br/><br/><b><u>Recall
-  Knowledge - Fiend</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 37<br/><b><u>Unspecific
-  Lore</u></b>: DC 35<br/><b><u>Specific Lore</u></b>: DC 32'
 dexterity: '+7'
 element: null
 fly_speed: '30'

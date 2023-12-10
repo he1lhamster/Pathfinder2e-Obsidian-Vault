@@ -15,11 +15,6 @@ creature_ability:
 - ''
 - Ranged Trip
 creature_family: null
-description: 'The monstrous, bloated spiders from the windswept realm of Leng build
-  eerie, dangerous lairs with the aid of magically compelled slaves. Leng spiders
-  have anywhere from five to 13 legs, but never an even number.<br/><br/><b><u>Recall
-  Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 33<br/><b><u>Unspecific
-  Lore</u></b>: DC 31<br/><b><u>Specific Lore</u></b>: DC 28'
 dexterity: '+7'
 element: null
 fly_speed: null

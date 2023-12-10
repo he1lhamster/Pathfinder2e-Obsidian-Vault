@@ -19,24 +19,6 @@ creature_ability:
 - Smoke Vision
 - Trample
 creature_family: null
-description: 'Though stories call it the Burning Dragon, Cuetzmonquali is a unique
-  creature with no draconic heritage.<br/><br/> Cuetzmonquali resembles an enormous
-  reptile with large frills, two tails ending in massive stingers, and scales that
-  appear to be made of burning flame. Cuetzmonquali is capable of growing any number
-  of horns from its head, on which it can impale and trap its enemies. Each horn grows
-  in a burst of searing flame that burns flesh and scales and results in a blackened
-  obsidian spike jutting from its forehead. These horns molt off occasionally, leaving
-  behind warnings of the beast''s presence.<br/><br/> In combat, Cuetzmonquali is
-  a terrifying foe who uses its horns to skewer foes, unleashes white-hot blasts of
-  flame to devastate those who don''t approach, and injects a potent burning venom
-  that ignites a foe from within their own body, sapping their strength. Against groups
-  of weaker foes, it simply tramples them to death underfoot. Anyone courageous enough
-  to face Cuetzmonquali and powerful or cunning enough to slay the creature can lay
-  claim to the treasure that lies in its belly: the legendary artifact known as the
-  [[DATABASE/equipment/Spear of the Destroyer''s Flame|Spear of the Destroyer''s Flame]]
-  .<br/><br/><b><u>Recall Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Nature|Nature]] )</b>: DC 46<br/><b><u>Unspecific Lore</u></b>:
-  DC 44<br/><b><u>Specific Lore</u></b>: DC 41'
 dexterity: '+5'
 element: Fire
 fly_speed: '20'

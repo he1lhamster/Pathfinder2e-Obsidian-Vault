@@ -11,17 +11,6 @@ creature_ability:
 - Easy to Call
 - Skip Between
 creature_family: '[[DATABASE/monsterfamily/Sahkil|Sahkil]]'
-description: 'Among the least of the sahkils, esipils delight in spreading fears and
-  uncertainty among people who live with animals that could turn on them. They generally
-  appear to their prey as some benign creature such as a domesticated dog or cat,
-  but once they gain trust and get their victims close, they transform into a terrifying
-  creature that looks part dog and part worm with tendrils of viscera that the creature
-  uses as both a tongue and a weapon.<br/><br/> Of all the sahkils, esipils are most
-  likely to ingratiate themselves with mortals, sometimes serving powerful spellcasters
-  and other times simply living among unsuspecting victims, biding their time until
-  they strike.<br/><br/><b><u>Recall Knowledge - Fiend</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 15<br/><b><u>Unspecific Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>:
-  DC 10'
 dexterity: '+4'
 element: null
 fly_speed: null

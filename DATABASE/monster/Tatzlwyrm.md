@@ -10,34 +10,6 @@ creature_ability:
 - Natural Camouflage
 - Poison Gasp
 creature_family: null
-description: "Tatzlwyrms resemble human-sized snakes with two arms and a dragon's\
-  \ head. Distant relatives of true dragons, tatzlwyrms possess only a meager level\
-  \ of intelligence. They can speak [[DATABASE/language/Draconic|Draconic]] (with\
-  \ a thick, hissing accent), but their ability to reason is limited and they can't\
-  \ use magic. They do possess a level of cunning, however, and some have been known\
-  \ to build rudimentary traps and even lairs. They are not treasure-hoarders, though,\
-  \ so don't expect to find a tatzlwyrm sitting atop a bed of coins.<br/><br/> Some\
-  \ tatzlwyrms have managed to forge working relationships with dragons, though it's\
-  \ a rare occurrence. From time to time, dragons have used them as messengers (because\
-  \ they can speak their language, however crudely), scouts (due to their smaller\
-  \ size), guides (when they're familiar with a particular mountain), and even muscle\
-  \ (harassing foes not worthy of a dragon's direct attention).<br/><br/> Tatzlwyrms\
-  \ don't work with [[DATABASE/monsterfamily/Kobold|kobolds]] , though\u2014tatzlwyrms\
-  \ eat kobolds.<br/><br/> Tatzlwyrms hibernate in cold weather, and when they feel\
-  \ winter approaching they seek out underground lairs, mountain crevices, or even\
-  \ hay lofts. On one notable occasion, townsfolk reported being briefly overrun by\
-  \ tatzlwyrms after a conflict between spellcasters in the nearby hills caused a\
-  \ sudden blizzard. Local scholars still debate whether the cause of the influx was\
-  \ the sudden change in weather or if the creatures were drawn to one of the other\
-  \ magic users staying in town who were part of the same pilgrimage as those doing\
-  \ battle.<br/><br/> When confronted, tatzlwyrms are more likely to attack than retreat.\
-  \ Indeed, they sometimes lie in wait on purpose, taking advantage of their scales'\
-  \ natural camouflage and awaiting the chance to unleash their signature move: belching\
-  \ poisonous vapor into an opponent's face. Since this breath attack doesn't have\
-  \ much range, the wyrms usually need to grab their foes first and bring them close\
-  \ to their mouth.<br/><br/><b><u>Recall Knowledge - Dragon</u> ( [[DATABASE/skill/Arcana|Arcana]]\
-  \ )</b>: DC 16<br/><b><u>Unspecific Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>:\
-  \ DC 11"
 dexterity: '+1'
 element: null
 fly_speed: null

@@ -14,24 +14,6 @@ creature_ability:
 - Shell
 - Synapse Glow
 creature_family: null
-description: "Mindmoppets are the result of laboratory experimentation that sought\
-  \ to harness telepathic energy within a liquid alchemical concoction. Mindmoppets\
-  \ feed on the latent telepathic energy of creatures. Even those with no apparent\
-  \ gift but with an active mind can sustain a mindmoppet for days. Such feeding is\
-  \ not invasive, and mindmoppets continually \u201Cgraze\u201D even while inactive.<br/><br/>\
-  \ Mindmoppets are willing servants to anyone who concerns themselves with strenuous\
-  \ mental exercise. Their creator is usually an obvious first choice, and they serve\
-  \ them dutifully. However, they have only an academic understanding of good and\
-  \ evil, of ethics, or mortal limitations. They see service to their master's science\
-  \ as the ultimate standard by which they judge their actions or those of others.\
-  \ This can lead to conflict between them and their creator, especially if the master\
-  \ appears lax in their efforts to further their studies. To a mindmoppet, continuous\
-  \ learning is imperative.<br/><br/> Mindmoppets appear to have some ability to see\
-  \ a short distance into the future, though this might only be that their innate\
-  \ interest for thought and cognition gives them a knack for anticipating the actions\
-  \ of others.<br/><br/><b><u>Recall Knowledge - Ooze</u> ( [[DATABASE/skill/Occultism|Occultism]]\
-  \ )</b>: DC 22<br/><b><u>Unspecific Lore</u></b>: DC 20<br/><b><u>Specific Lore</u></b>:\
-  \ DC 17"
 dexterity: '+4'
 element: null
 fly_speed: '40'

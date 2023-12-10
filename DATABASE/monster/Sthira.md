@@ -13,16 +13,6 @@ creature_ability:
 - Frostbite
 - Frozen to the Touch
 creature_family: null
-description: 'The Wall of Heaven claims many intrepid climbers. Some such travelers
-  come seeking fortune. Others seek enlightenment. Many, however, find only an icy
-  death. With no means for a proper burial, many of these unfortunate souls remain
-  abandoned to the ice, their bodies becoming macabre guideposts along mountain trails.<br/><br/>
-  Through means unknown, the most willful of these frozen travelers reanimate to seek
-  vengeance upon the living for their denied burial. Such creatures, called sthiras,
-  are composed of multiple bodies or body parts frozen together into one horrific
-  monstrosity.<br/><br/><b><u>Recall Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 42<br/><b><u>Unspecific Lore</u></b>: DC 40<br/><b><u>Specific Lore</u></b>:
-  DC 37'
 dexterity: '+2'
 element: null
 fly_speed: null

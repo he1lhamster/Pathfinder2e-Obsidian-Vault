@@ -15,16 +15,6 @@ creature_ability:
 - Vigorous
 - Shake
 creature_family: '[[DATABASE/monsterfamily/Troll|Troll]]'
-description: "Some trolls have learned the skills necessary to survive well beyond\
-  \ the typical life expectancy for their kind and rally others to follow their lead.\
-  \ These champions develop a number of talents that make them worthy leaders and\
-  \ potent hunters\u2014namely their abilities to willingly boost the rate of their\
-  \ regeneration and to shake off the acid and fire that would hinder it, not to mention\
-  \ a bestial roar that can send would-be predators scurrying off. Troll kings possess\
-  \ a cunning far beyond their younger kin\u2014 they know to keep their allies close,\
-  \ and their enemies even closer. If a troll king so much as suspects that one of\
-  \ its followers is plotting to usurp it, retribution is swift and fatal.<br/><br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 25<br/><b><u>Specific Lore</u></b>: DC 22"
 dexterity: '+3'
 element: null
 fly_speed: null

@@ -1,89 +1,82 @@
 ﻿---
-ac: '43'
-alignment: CE
+ac: '27'
+alignment: LE
 all_resistance: null
 burrow_speed: null
-charisma: '+6'
-climb_speed: '25'
-constitution: '+6'
+charisma: '+3'
+climb_speed: null
+constitution: '+4'
 creature_ability:
-- Lightning-Struck Curse
-- Planar Acclimation
-- Sard Venom
-- Splintering Death
-- Thorn Volley
-- ''
-- Trample
-creature_family: null
-description: "An immense, gnarled, tree awoken with raw, primal power by one of the\
-  \ fey Eldest of the First World, this monster\u2014one of the legendary Tane\u2014\
-  skitters on huge, spidery roots and thrashes its branches as fiery lightning courses\
-  \ within its blackened bark, a living manifestation of the violent clash between\
-  \ ancient forest and stormy sky.<br/><br/><b><u>Recall Knowledge - Plant</u> ( [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 44<br/><b><u>Unspecific Lore</u></b>: DC 42<br/><b><u>Specific Lore</u></b>:\
-  \ DC 39"
-dexterity: '+6'
+- Drown
+- Heavy Aura
+- Sarglagon Venom
+- Stygian Guardian
+creature_family: '[[DATABASE/monsterfamily/Devil|Devil]]'
+dexterity: '+3'
 element: null
-fly_speed: null
-fortitude: '+35'
+fly_speed: '25'
+fortitude: '+18'
 hardness: null
-hp: '400'
-id: '792'
+hp: '120'
+id: '607'
 immunity:
-- electricity
+- fire
 intelligence: '+2'
-land_speed: '40'
+land_speed: '25'
 language:
-- '[[DATABASE/language/Aklo|Aklo]]'
-- '[[DATABASE/language/Arboreal|Arboreal]]'
-- '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Sylvan|Sylvan]]'
-level: '19'
-max_speed: '40'
-name: Sard
-perception: '+35'
-rarity: Rare
-reflex: '+31'
+- '[[DATABASE/language/Celestial|Celestial]]'
+- '[[DATABASE/language/Infernal|Infernal]] ; [[DATABASE/monsterability/Telepathy|telepathy
+  100 feet]]'
+level: '8'
+max_speed: '30'
+name: Sarglagon
+perception: '+18'
+rarity: Common
+reflex: '+13'
 resistance:
-- fire 15
-- physical 15 (except slashing)
+- physical 5 (except [[DATABASE/equipment/Silver|silver]] )
+- poison 10
 rus_type_level: null
 school: null
 sense:
-- '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
-- '[[DATABASE/monsterability/Tremorsense|tremorsense 120 feet]]'
-size: Gargantuan
+- '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
+- '[[DATABASE/spell/See Invisibility|see invisibility]]'
+size: Large
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +33'
-- '[[DATABASE/skill/Athletics|Athletics]] +37'
-- '[[DATABASE/skill/Nature|Nature]] +31'
+- '[[DATABASE/skill/Arcana|Arcana]] +14'
+- '[[DATABASE/skill/Athletics|Athletics]] +18'
+- '[[DATABASE/skill/Deception|Deception]] +15'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +15'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +17'
+- '[[DATABASE/skill/Stealth|Stealth]] +15'
 source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
-- 40 feet
-- climb 25 feet
+- 25 feet
+- fly 25 feet
+- swim 30 feet
 spell:
-- '[[DATABASE/spell/Chain Lightning|Chain Lightning]]'
-- '[[DATABASE/spell/Punishing Winds|Punishing Winds]]'
-- '[[DATABASE/spell/Storm of Vengeance|Storm of Vengeance]]'
-- '[[DATABASE/spell/Tree Stride|Tree Stride]]'
-strength: '+10'
-strength_req: '10'
+- '[[DATABASE/spell/Control Water|Control Water]]'
+- '[[DATABASE/spell/Dimension Door|Dimension Door]]'
+- '[[DATABASE/spell/Freedom of Movement|Freedom of Movement]]'
+- '[[DATABASE/spell/Hydraulic Torrent|Hydraulic Torrent]]'
+- '[[DATABASE/spell/See Invisibility|See Invisibility]]'
+strength: '+6'
+strength_req: '6'
 strongest_save:
 - Fortitude
-swim_speed: null
+swim_speed: '30'
 trait:
-- '[[DATABASE/trait/Electricity|Electricity]]'
-- '[[DATABASE/trait/Plant|Plant]]'
-- '[[DATABASE/trait/Rare|Rare]]'
-- '[[DATABASE/trait/Tane|Tane]]'
+- '[[DATABASE/trait/Amphibious|Amphibious]]'
+- '[[DATABASE/trait/Devil|Devil]]'
+- '[[DATABASE/trait/Fiend|Fiend]]'
 type: Creature
-vision: Low-light vision
+vision: Greater darkvision
 weakest_save:
 - Reflex
 weakness:
-- cold iron 15
-will: '+33'
-wisdom: '+6'
+- good 5
+will: '+16'
+wisdom: '+4'
 
 ---
 # Sarglagon (Drowning Devil)

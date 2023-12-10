@@ -12,16 +12,6 @@ creature_ability:
 - Psychokinetic Honing
 - Stay in the Fight
 creature_family: '[[DATABASE/monsterfamily/Fleshwarp|Fleshwarp]]'
-description: "Sinister fleshwarpers reshape captive [[DATABASE/monsterfamily/Urdefhan|urdefhans]]\
-  \ into these juggernauts of war. Their clear skin is hardened into a thick, mirror-like\
-  \ carapace, creating an intimidating exoskeleton. Mulventoks don't live long; within\
-  \ weeks\u2014or, at most, months\u2014their hyperdeveloped muscles split open their\
-  \ toughened skin, and they erupt in a shower of gore. A mulventok's creator shapes\
-  \ its mind just as much as its body, directing its aggression toward a single purpose,\
-  \ such as to raze a fortress or murder a specific individual.<br/><br/><b><u>Recall\
-  \ Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC\
-  \ 25<br/><b><u>Unspecific Lore</u></b>: DC 23<br/><b><u>Specific Lore</u></b>: DC\
-  \ 20"
 dexterity: '+0'
 element: null
 fly_speed: null

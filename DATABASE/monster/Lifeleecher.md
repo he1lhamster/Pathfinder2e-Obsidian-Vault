@@ -1,82 +1,70 @@
 ﻿---
-ac: '20'
+ac: '25'
 alignment: CE
 all_resistance: null
 burrow_speed: null
-charisma: '+3'
+charisma: '+4'
 climb_speed: null
-constitution: '+1'
+constitution: '+6'
 creature_ability:
-- Goblin Scuttle
-- Reach Spell
-creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 29<br/><b><u>Unspecific
-  Lore</u></b>: DC 27<br/><b><u>Specific Lore</u></b>: DC 24'
-dexterity: '+2'
+- Consecration Vulnerability
+- Death Gasp
+- Ghost Hunter
+- Leech Essence
+- Mortic Ferocity
+- Soul
+- Feast
+creature_family: '[[DATABASE/monsterfamily/Mortic|Mortic]]'
+dexterity: '+4'
 element: null
 fly_speed: null
-fortitude: '+9'
+fortitude: '+20'
 hardness: null
-hp: '65'
-id: '2381'
+hp: 165 ( negative healing )
+id: '1236'
 immunity: null
-intelligence: '+0'
+intelligence: '+3'
 land_speed: '25'
 language:
 - '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Druidic|Druidic]]'
-- '[[DATABASE/language/Goblin|Goblin]]'
-- '[[DATABASE/language/Sylvan|Sylvan]]'
-level: '4'
+- '[[DATABASE/language/Necril|Necril]]'
+level: '8'
 max_speed: '25'
-name: Lickweed
-perception: '+12'
-rarity: Unique
-reflex: '+12'
+name: Lifeleecher Brawler
+perception: '+15'
+rarity: Rare
+reflex: '+16'
 resistance: null
 rus_type_level: null
 school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
-size: Small
+size: Medium
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +10'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +11'
-- '[[DATABASE/skill/Nature|Nature]] +12'
-- '[[DATABASE/skill/Religion|Religion]] +12'
-- '[[DATABASE/skill/Survival|Survival]] +12'
-source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
+- '[[DATABASE/skill/Athletics|Athletics]] +18'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +16'
+- '[[DATABASE/skill/Survival|Survival]] +15'
+source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 25 feet
-spell:
-- '[[DATABASE/spell/Acid Arrow|Acid Arrow]]'
-- '[[DATABASE/spell/Acid Splash|AcidSplash]]'
-- '[[DATABASE/spell/Burning Hands|Burning Hands]]'
-- '[[DATABASE/spell/Electric Arc|Electric Arc]]'
-- '[[DATABASE/spell/Flaming Sphere|Flaming Sphere]]'
-- '[[DATABASE/spell/Goblin Pox|Goblin Pox]]'
-- '[[DATABASE/spell/Heal|Heal]]'
-- '[[DATABASE/spell/Produce Flame|ProduceFlame]]'
-- '[[DATABASE/spell/Ray of Frost|Ray of Frost]]'
-- '[[DATABASE/spell/Tanglefoot|Tanglefoot]]'
-- '[[DATABASE/spell/Tempest Surge|Tempest Surge]]'
-strength: '+1'
-strength_req: '1'
+spell: null
+strength: '+6'
+strength_req: '6'
 strongest_save:
-- Will
+- Fortitude
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Goblin|Goblin]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
-- '[[DATABASE/trait/Unique|Unique]]'
+- '[[DATABASE/trait/Mortic|Mortic]]'
+- '[[DATABASE/trait/Orc|Orc]]'
+- '[[DATABASE/trait/Rare|Rare]]'
 type: Creature
 vision: Darkvision
 weakest_save:
-- Fortitude
+- Will
 weakness: null
-will: '+14'
-wisdom: '+4'
+will: '+13'
+wisdom: '+3'
 
 ---
 # Lifeleecher

@@ -11,18 +11,6 @@ creature_ability:
 - Devour Flesh
 - Luring Laugh
 creature_family: null
-description: "Legends claim the gods banished a number of evil, greedy, and gluttonous\
-  \ [[DATABASE/monsterfamily/Genie|genies]] to the [[DATABASE/plane/Material Plane|Material\
-  \ Plane]] in the early days of creation. There, the genies transformed into the\
-  \ first ghuls, cruel undead that feast on the flesh of the living. The greedy and\
-  \ gluttonous nature of the first ghuls lives on, cursing them with an insatiable\
-  \ need to consume. Ghuls haunt trade routes, cemeteries, and other locations with\
-  \ good hiding places and a regular influx of travelers. From here, ghuls use their\
-  \ abilities to confuse and captivate passersby, luring them toward dens where ghuls\
-  \ can feast on unsuspecting flesh. Unlike a ghoul, a ghul doesn't devour corpses\u2014\
-  only live prey.<br/><br/><b><u>Recall Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]]\
-  \ )</b>: DC 20<br/><b><u>Unspecific Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>:\
-  \ DC 15"
 dexterity: '+1'
 element: null
 fly_speed: null

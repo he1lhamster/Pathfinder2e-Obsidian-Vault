@@ -18,13 +18,6 @@ creature_ability:
 - Reshape Reality
 - Storm of Claws
 creature_family: '[[DATABASE/monsterfamily/Protean|Protean]]'
-description: 'Occupying the pinnacle of the loose protean caste system, izfiitars
-  enact the ever-shifting plans of the vaunted protean lords and those of the divine
-  Speakers of the Depths. Izfiitars appear to be elevated versions of the protean
-  priests known as [[DATABASE/monster/Keketar|keketars]] , despite their smaller size,
-  although protean hierarchies are never so straightforward.<br/><br/><b><u>Recall
-  Knowledge - Monitor</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 42<br/><b><u>Unspecific
-  Lore</u></b>: DC 40<br/><b><u>Specific Lore</u></b>: DC 37'
 dexterity: '+10'
 element: null
 fly_speed: '50'

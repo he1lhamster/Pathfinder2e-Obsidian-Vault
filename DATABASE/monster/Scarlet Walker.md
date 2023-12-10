@@ -13,14 +13,6 @@ creature_ability:
 - No Breath
 - Paralysis
 creature_family: null
-description: 'During the height of Thassilon''s power, agents of Runelord Karzoug
-  and Runelord Sorshen often called scarlet walkers to Golarion from Leng. Although
-  these elephant-sized monstrosities largely despise other inhabitants of Leng, some
-  swallow their pride to work alongside the [[DATABASE/monster/Denizen of Leng|denizens
-  of Leng]] or [[DATABASE/monster/Leng Ghoul|Leng ghouls]] in exchange for passage
-  into the waking world.<br/><br/><b><u>Recall Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]]
-  )</b>: DC 35<br/><b><u>Unspecific Lore</u></b>: DC 33<br/><b><u>Specific Lore</u></b>:
-  DC 30'
 dexterity: '+7'
 element: null
 fly_speed: null

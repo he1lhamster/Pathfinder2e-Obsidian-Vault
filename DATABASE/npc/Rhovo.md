@@ -10,9 +10,6 @@ creature_ability:
 - Drunken Rage
 - Improvised Surprise
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 25<br/><b><u>Unspecific
-  Lore</u></b>: DC 23<br/><b><u>Specific Lore</u></b>: DC 20'
 dexterity: '+1'
 element: null
 fly_speed: null

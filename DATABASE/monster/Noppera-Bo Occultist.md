@@ -13,9 +13,6 @@ creature_ability:
 - Sensitive Hearing
 - Steal Face
 creature_family: '[[DATABASE/monsterfamily/Noppera-Bo|Noppera-Bo]]'
-description: 'Some noppera-bos harness their natural magic to further frighten victims.<br/><br/><b><u>Recall
-  Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 18<br/><b><u>Unspecific
-  Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>: DC 13'
 dexterity: '+3'
 element: null
 fly_speed: null

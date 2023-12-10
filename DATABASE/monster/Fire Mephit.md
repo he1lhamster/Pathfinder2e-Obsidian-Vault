@@ -10,15 +10,6 @@ creature_ability:
 - Breath Weapon
 - Smoke Vision
 creature_family: '[[DATABASE/monsterfamily/Elemental, Mephit|Elemental, Mephit]]'
-description: "Fire mephits are conniving and quick to anger. They aren\u2019t evil,\
-  \ but they delight in inflicting pain, and their love of burning things pushes them\
-  \ the closest to this alignment of all mephits. They have bright-orange skin, and\
-  \ wisps of flame flicker along their wings as they flap through the air. The rivalry\
-  \ between fire and water mephits is notorious, and these creatures loathe working\
-  \ together for any amount of time.<br/><br/><b><u>Recall Knowledge - Elemental</u>\
-  \ ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]] )</b>: DC\
-  \ 15<br/><b><u>Unspecific Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>: DC\
-  \ 10"
 dexterity: '+4'
 element: Fire
 fly_speed: '25'

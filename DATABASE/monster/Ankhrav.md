@@ -10,13 +10,6 @@ creature_ability:
 - Armor-Rending Bite
 - Spray Acid
 creature_family: '[[DATABASE/monsterfamily/Ankhrav|Ankhrav]]'
-description: "These horse-sized, burrowing monsters generally avoid heavily settled\
-  \ areas like cities, but ankhravs\u2019 predilection for livestock and humanoid\
-  \ flesh ensures that the creatures do not remain in the deep wilderness for long.\
-  \ Desperate farmers whose fields become infested by ankhravs often have little recourse\
-  \ but to seek the aid of adventurers.\n<br/><br/><b><u>Recall Knowledge - Animal</u>\
-  \ ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 18<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 16<br/><b><u>Specific Lore</u></b>: DC 13"
 dexterity: '+1'
 element: null
 fly_speed: null

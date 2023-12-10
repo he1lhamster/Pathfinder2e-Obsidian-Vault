@@ -10,13 +10,6 @@ creature_ability:
 - Calcification
 - Earth Glide
 creature_family: '[[DATABASE/monsterfamily/Elemental, Earth|Elemental, Earth]]'
-description: 'This squat and stony creature looks like an armadillo with a large raised
-  back and a flail-like tail. The granite glyptodont has no true need to feed, as
-  with all elementals, yet it does seem to linger after transforming the flesh of
-  those it calcifies, as if the mere proximity of flesh fossilizing into stone pleases
-  it somehow.<br/><br/><b><u>Recall Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Nature|Nature]] )</b>: DC 24<br/><b><u>Unspecific Lore</u></b>:
-  DC 22<br/><b><u>Specific Lore</u></b>: DC 19'
 dexterity: '+1'
 element: Earth
 fly_speed: null

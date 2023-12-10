@@ -1,65 +1,84 @@
 ﻿---
-ac: '23'
-alignment: N
+ac: '21'
+alignment: LN
 all_resistance: null
 burrow_speed: null
-charisma: '+1'
+charisma: '+2'
 climb_speed: null
-constitution: '+3'
+constitution: '+1'
 creature_ability:
-- Attack of Opportunity
-- Rage
-- Sudden Charge
-creature_family: '[[DATABASE/monsterfamily/Mercenaries|Mercenaries]]'
-description: 'Some mercenaries eschew the complications of politics, oaths of service,
-  and fealty and just get paid to hunt monsters. It''s a straightforward form of mercenary
-  service, often dangerous in the extreme, but one that can yield glory and fame.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 22<br/><b><u>Unspecific
-  Lore</u></b>: DC 20<br/><b><u>Specific Lore</u></b>: DC 17'
-dexterity: '+3'
+- Call Bonded Item
+- Drain Bonded Item
+creature_family: null
+dexterity: '+1'
 element: null
 fly_speed: null
-fortitude: '+15'
-hp: '108'
-id: '924'
+fortitude: '+11'
+hp: '60'
+id: '1030'
 immunity: null
-intelligence: '+1'
-land_speed: '20'
+intelligence: '+4'
+land_speed: '25'
 language:
+- '[[DATABASE/language/Aklo|Aklo]]'
 - '[[DATABASE/language/Common|Common]]'
-level: '6'
-max_speed: '20'
-name: Monster Hunter
-perception: '+13'
-rarity: Common
-reflex: '+11'
+- '[[DATABASE/language/Draconic|Draconic]]'
+- '[[DATABASE/language/Elven|Elven]]'
+- '[[DATABASE/language/Sylvan|Sylvan]]'
+- '[[DATABASE/language/Undercommon|Undercommon]]'
+level: '4'
+max_speed: '25'
+name: Morlibint
+perception: '+7'
+rarity: Unique
+reflex: '+9'
 resistance: null
 rus_type_level: null
 sense: null
 size: Medium
 skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +15'
-- '[[DATABASE/skill/Lore|MonsterLore]] +13'
-- '[[DATABASE/skill/Stealth|Stealth]] +13'
-- '[[DATABASE/skill/Survival|Survival]] +11'
-source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
+- '[[DATABASE/skill/Lore|Academia Lore]] +8'
+- '[[DATABASE/skill/Arcana|Arcana]] +12'
+- '[[DATABASE/skill/Crafting|Crafting]] +10'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +8'
+- '[[DATABASE/skill/Medicine|Medicine]] +7'
+- '[[DATABASE/skill/Nature|Nature]] +7'
+- '[[DATABASE/skill/Occultism|Occultism]] +10'
+- '[[DATABASE/skill/Performance|Performance]] +8'
+- '[[DATABASE/skill/Religion|Religion]] +7'
+- '[[DATABASE/skill/Society|Society]] +10'
+source: '[[DATABASE/source/No-Prep Character. Morlibint|No-Prep Character: Morlibint]]'
 speed:
-- 20 feet
-spell: null
-strength: '+4'
-strength_req: '4'
+- 25 feet
+spell:
+- '[[DATABASE/spell/Color Spray|Color Spray]]'
+- '[[DATABASE/spell/Comprehend Language|Comprehend Language]]'
+- '[[DATABASE/spell/Dancing Lights|Dancing Lights]]'
+- '[[DATABASE/spell/Daze|Daze]]'
+- '[[DATABASE/spell/Detect Magic|DetectMagic]]'
+- '[[DATABASE/spell/Dispel Magic|Dispel Magic]]'
+- '[[DATABASE/spell/Hand of the Apprentice|Hand of the Apprentice]]'
+- '[[DATABASE/spell/Illusory Creature|IllusoryCreature]]'
+- '[[DATABASE/spell/Mage Hand|Mage Hand]]'
+- '[[DATABASE/spell/Magic Missile|Magic Missile]]'
+- '[[DATABASE/spell/Telekinetic Projectile|Telekinetic Projectile]]'
+- '[[DATABASE/spell/Unseen Servant|Unseen Servant]]'
+strength: '+0'
+strength_req: '0'
 strongest_save:
 - Fortitude
 swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
+- '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
 vision: null
 weakest_save:
 - Reflex
+- Will
 weakness: null
-will: '+13'
+will: '+9'
 wisdom: '+1'
 
 ---

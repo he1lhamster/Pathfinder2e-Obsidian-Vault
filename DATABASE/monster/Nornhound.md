@@ -14,14 +14,6 @@ creature_ability:
 - Sense Fate
 - Time Bound
 creature_family: null
-description: 'While [[DATABASE/monster/Norn|norns]] typically keep to themselves,
-  only consulting their triumvirate or occasionally other fellow norns, they sometimes
-  require servants to further their goals or protect their homes. Nornhounds are massive
-  wolves spun from the old, tattered threads of fate, usually moments of time that
-  norns severed to end a life. These wolves gain a portion of the same power over
-  fate that norns do and serve their norn masters with unflinching loyalty.<br/><br/><b><u>Recall
-  Knowledge - Fey</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 43<br/><b><u>Unspecific
-  Lore</u></b>: DC 41<br/><b><u>Specific Lore</u></b>: DC 38'
 dexterity: '+4'
 element: null
 fly_speed: '40'

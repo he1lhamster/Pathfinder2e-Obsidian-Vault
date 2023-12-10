@@ -12,19 +12,6 @@ creature_ability:
 - Trample
 - Ultrasonic Blast
 creature_family: null
-description: "Aolazes are great beasts carved from stone and metal and magically imbued\
-  \ with the essence of life. The exact means of their creation is a long-lost secret,\
-  \ and they are so rare that scholars have little opportunity to study active specimens.\
-  \ The best-known aolazes are museum pieces or battlefield relics destroyed or deactivated\
-  \ centuries ago, though fragmented records suggest that many more were made and\
-  \ might remain, yet to be unearthed.<br/><br/>Most aolazes are built in the shape\
-  \ of great land-bound beasts, such as elephants, rhinoceroses, or dinosaurs. Regardless\
-  \ of the specific creature an aolaz has been constructed to resemble, it is not\
-  \ bound to walk the earth like its inspirations are\u2014it's imbued with the magical\
-  \ ability to pursue across water and even through the air. Few can escape an aolaz's\
-  \ wrath once it is earned.<br/><br/><b><u>Recall Knowledge - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]]\
-  \ , [[DATABASE/skill/Crafting|Crafting]] )</b>: DC 43<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 41<br/><b><u>Specific Lore</u></b>: DC 38"
 dexterity: '+4'
 element: null
 fly_speed: null

@@ -13,18 +13,6 @@ creature_ability:
 - Golem Antimagic
 - Vulnerable to Flesh to Stone
 creature_family: '[[DATABASE/monsterfamily/Golem|Golem]]'
-description: 'Made of odd scraps of skin and muscle, a flesh golem is a grotesque
-  parody of life. Though it has no mind, it can still go into a berserk rage when
-  harmed, giving it a faint semblance of emotion. Flesh golems guard the laboratories
-  and charnel houses of fleshwarpers and necromancers who feel no compunctions about
-  desecrating corpses for their own ends. Though the first flesh golem is believed
-  to have been a misguided attempt to create from simple base elements, these monstrosities
-  are far from human. In isolated cases, echoes of a personality might rise in a flesh
-  golem if the brain used as part of its construction belonged to a particularly powerful
-  personality, but such tragic instances are (thankfully) rare in the extreme.<br/><br/><b><u>Recall
-  Knowledge - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]]
-  )</b>: DC 26<br/><b><u>Unspecific Lore</u></b>: DC 24<br/><b><u>Specific Lore</u></b>:
-  DC 21'
 dexterity: '-1'
 element: null
 fly_speed: null

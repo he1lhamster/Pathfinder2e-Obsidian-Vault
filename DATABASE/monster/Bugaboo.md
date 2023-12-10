@@ -13,10 +13,6 @@ creature_ability:
 - Striking Fear
 - Surprise Attack
 creature_family: '[[DATABASE/monsterfamily/Bogeyman|Bogeyman]]'
-description: 'After devouring enough souls, a bogey transforms into the more powerful
-  and sophisticated bugaboo.<br/><br/><b><u>Recall Knowledge - Fey</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 24<br/><b><u>Unspecific Lore</u></b>: DC 22<br/><b><u>Specific Lore</u></b>:
-  DC 19'
 dexterity: '+5'
 element: null
 fly_speed: null

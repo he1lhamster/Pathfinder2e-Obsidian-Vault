@@ -11,20 +11,6 @@ creature_ability:
 - Evasion
 - Snatch
 creature_family: '[[DATABASE/monsterfamily/Eagle|Eagle]]'
-description: 'No mere animals, giant eagles have a keen intellect and a strong sense
-  of honor. As guardians of their mountain homes, giant eagles attempt to prevent
-  the encroachment of civilization upon wild land and the predations of wicked humanoid
-  settlements. Unlike ordinary eagles, which tend to be solitary creatures, giant
-  eagles congregate within aeries holding up to a dozen members and work together
-  to protect their domains.<br/><br/> Giant eagles have wingspans up to 30 feet across
-  and weigh up to 500 pounds. These impressive birds cannot be easily broken or cowed.
-  A giant eagle may allow trusted terrestrial friends to ride it, but they invariably
-  resist saddles, harnesses, or other equipment that might suggest they are mere beasts
-  of burden rather than trusted companions. Giant eagles are long-lived and take debts
-  and oaths very seriously, often remembering slights for years and remaining slow
-  to forgive.<br/><br/><b><u>Recall Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Nature|Nature]] )</b>: DC 18<br/><b><u>Unspecific Lore</u></b>:
-  DC 16<br/><b><u>Specific Lore</u></b>: DC 13'
 dexterity: '+4'
 element: null
 fly_speed: '60'

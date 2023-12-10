@@ -1,96 +1,73 @@
 ﻿---
-ac: '20'
-alignment: CN
+ac: '32'
+alignment: LE
 all_resistance: null
 burrow_speed: null
 charisma: '+1'
 climb_speed: null
-constitution: '+2'
+constitution: '+7'
 creature_ability:
-- Constrict
-- Death Frenzy
-- Reefclaw Venom
-creature_family: null
-description: "Reefclaws are aquatic monsters that resemble huge shrimp or lobsters.\
-  \ As one might expect from its name, a reefclaw\u2019s oversized claws are powerful\
-  \ weapons with their vicelike grip and the ability to inject potent venom into unfortunate\
-  \ prey.<br/><br/> While reefclaws can\u2019t speak, they are intelligent enough\
-  \ to understand the local language of humanoids near their hunting grounds. The\
-  \ creatures sometimes listen to conversations, either to gain intelligence on the\
-  \ best place to ambush aquatic or land-dwelling prey, or merely for entertainment\
-  \ value\u2014reefclaws are particularly fond of listening to people with high-pitched\
-  \ voices. Reefclaws are usually solitary hunters, but small swarms of female reefclaws\
-  \ have been known to gather around a single male for mating purposes or together\
-  \ for the communal raising of their broods. In the latter case, the females will\
-  \ perform widespread hunts in order to bring back a large enough bounty to feed\
-  \ their young. Such hunting parties are extremely dangerous\u2014they\u2019ve been\
-  \ known to tip over small flshing boats and attack those who fall overboard.<br/><br/>\
-  \ Once a reefclaw has decided upon a course of action, it follows through even if\
-  \ doing so spells its own end. More than one reefclaw survivor has said that the\
-  \ creature released its bone-crushing grasp only after its brains were leaking from\
-  \ its broken skull, and even then the reefclaw was able to perform a terrible last\
-  \ slash as part of its dying breath. During mating season, female reefclaws are\
-  \ often a little more pragmatic and release their prey before endangering themselves\
-  \ and their offspring.<br/><br/> Despite their intelligence and the accompanying\
-  \ moral quandaries, reefclaws frequently find their way onto the dinner plates of\
-  \ land-dwelling hunters such as humans and hobgoblins. According to those who have\
-  \ a taste for reefclaw flesh, the meat is either delectably sweet (for reefclaws\
-  \ raised in colder waters) or slightly tangy (in the case of warm-water reefclaws).\
-  \ Most civilized people who know of reefclaws\u2019 intellect find the act of eating\
-  \ them distasteful, but this does not dissuade unscrupulous nobles in coastal regions,\
-  \ for whom reefclaw meat is a delicacy well worth the expense. Likewise, fisherfolk\
-  \ whose focus is on the bottom line of their ledgers are more than willing to hunt\
-  \ the dangerous creatures\u2014or, even better, hire out the task to naive adventurers.<br/><br/><b><u>Recall\
-  \ Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC\
-  \ 15<br/><b><u>Unspecific Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>: DC\
-  \ 10"
-dexterity: '+4'
+- Consecration Vulnerability
+- Crumble
+- Death Gasp
+- Demolition
+- Lair Sense
+- Weathering Aura
+creature_family: '[[DATABASE/monsterfamily/Mortic|Mortic]]'
+dexterity: '+2'
 element: null
 fly_speed: null
-fortitude: '+7'
+fortitude: '+25'
 hardness: null
-hp: '17'
-id: '350'
+hp: 265 ( negative healing )
+id: '1882'
 immunity: null
-intelligence: '-3'
-land_speed: '5'
+intelligence: '+4'
+land_speed: '20'
 language:
-- "[[DATABASE/language/Common|Common]] ; (can\u2019t speak any language)"
-level: '1'
-max_speed: '30'
-name: Reefclaw
-perception: '+8'
-rarity: Common
-reflex: '+9'
+- '[[DATABASE/language/Common|Common]]'
+- '[[DATABASE/language/Dwarven|Dwarven]]'
+- '[[DATABASE/language/Necril|Necril]]'
+level: '12'
+max_speed: '20'
+name: Relictner Eroder
+perception: '+23'
+rarity: Rare
+reflex: '+18'
 resistance: null
 rus_type_level: null
 school: null
 sense:
-- darkvision
-size: Small
+- '[[DATABASE/monsterability/Darkvision|darkvision]]'
+- lair sense
+size: Medium
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +7'
-- '[[DATABASE/skill/Athletics|Athletics]] +4'
-source: '[[DATABASE/source/Bestiary|Bestiary]]'
+- '[[DATABASE/skill/Athletics|Athletics]] +25'
+- '[[DATABASE/skill/Crafting|Crafting]] +22'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +19'
+- '[[DATABASE/skill/Survival|Survival]] +23'
+- '[[DATABASE/skill/Thievery|Thievery]] +20'
+source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 speed:
-- 5 feet
-- swim 30 feet
+- 20 feet
 spell: null
-strength: '+1'
-strength_req: '1'
+strength: '+7'
+strength_req: '7'
 strongest_save:
-- Reflex
-swim_speed: '30'
+- Fortitude
+swim_speed: null
 trait:
-- '[[DATABASE/trait/Aberration|Aberration]]'
-- '[[DATABASE/trait/Aquatic|Aquatic]]'
+- '[[DATABASE/trait/Dwarf|Dwarf]]'
+- '[[DATABASE/trait/Humanoid|Humanoid]]'
+- '[[DATABASE/trait/Mortic|Mortic]]'
+- '[[DATABASE/trait/Rare|Rare]]'
 type: Creature
 vision: Darkvision
 weakest_save:
-- Will
+- Reflex
 weakness: null
-will: '+4'
-wisdom: '+1'
+will: '+21'
+wisdom: '+5'
 
 ---
 # Relictner

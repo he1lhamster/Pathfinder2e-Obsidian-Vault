@@ -9,12 +9,6 @@ constitution: '+4'
 creature_ability:
 - Construct Armor
 creature_family: '[[DATABASE/monsterfamily/Animated Object|Animated Object]]'
-description: 'Suits of animated armor see use both as guardians and as training partners
-  in high-end martial academies able to afford the extravagance. They are most often
-  found in wizard laboratories and ancient dungeons.<br/><br/><b><u>Recall Knowledge
-  - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]]
-  )</b>: DC 16<br/><b><u>Unspecific Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>:
-  DC 11'
 dexterity: '-3'
 element: null
 fly_speed: null

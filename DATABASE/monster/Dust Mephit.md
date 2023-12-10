@@ -9,14 +9,6 @@ constitution: '+1'
 creature_ability:
 - Breath Weapon
 creature_family: '[[DATABASE/monsterfamily/Elemental, Mephit|Elemental, Mephit]]'
-description: 'Whining and self-important creatures, dust mephits are known for their
-  tendency to pronounce doom and gloom at every opportunity, lamenting every insignificant
-  and minor difficulty as though it were an insurmountable obstacle and making themselves
-  out to be heroes for struggling valiantly against their cruel fates. They tend to
-  be thin and gaunt, with dusky brown and gray skin and wings.<br/><br/><b><u>Recall
-  Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 17<br/><b><u>Unspecific Lore</u></b>: DC 15<br/><b><u>Specific Lore</u></b>:
-  DC 12'
 dexterity: '+4'
 element: Air, Earth
 fly_speed: '35'

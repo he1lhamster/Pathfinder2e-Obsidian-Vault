@@ -9,12 +9,6 @@ constitution: '+2'
 creature_ability:
 - Serpentfolk Venom
 creature_family: '[[DATABASE/monsterfamily/Serpentfolk|Serpentfolk]]'
-description: 'Even the least among zyss serpentfolk consider themselves greater than
-  any mammal. Their magical abilities, most notably their telepathy, are all the reason
-  they need to hold this view. And it''s true enough that the instinctual skill and
-  magic of any zyss is enough to best the average human.<br/><br/><b><u>Recall Knowledge
-  - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 18<br/><b><u>Unspecific
-  Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>: DC 13'
 dexterity: '+4'
 element: null
 fly_speed: null

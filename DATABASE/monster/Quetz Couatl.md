@@ -12,20 +12,6 @@ creature_ability:
 - Radiant Wings
 - Wrap in Coils
 creature_family: '[[DATABASE/monsterfamily/Couatl|Couatl]]'
-description: 'These sacred feathered serpents tirelessly serve the powers of law and
-  good. Some operate directly as messengers and intermediaries of the deities, while
-  others operate independently in aiding the cause of righteousness. Either way, they
-  watch over mortals and try to influence and aid them from the shadows, shifting
-  from plane to plane to spread wisdom and healing where they are needed. Some quetz
-  couatls are worshipped as divinities in remote or isolated societies, and while
-  they do not encourage such veneration, they use the trust placed in them to foster
-  peace and cooperation with others.<br/><br/>Quetz couatls are typically 10 to 20
-  feet long, with iridescent blue and green scales. Their glorious wings of rainbow-hued
-  feathers span 15 feet and weigh nearly a ton. They are carnivorous, feeding on birds,
-  mammals, and even the occasional evil [[DATABASE/trait/Humanoid|humanoid]] .<br/><br/><b><u>Recall
-  Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 29<br/><b><u>Unspecific Lore</u></b>: DC 27<br/><b><u>Specific Lore</u></b>:
-  DC 24'
 dexterity: '+3'
 element: null
 fly_speed: '50'

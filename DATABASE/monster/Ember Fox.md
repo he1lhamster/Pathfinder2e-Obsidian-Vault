@@ -9,11 +9,6 @@ constitution: '+2'
 creature_ability:
 - Cloak in Embers
 creature_family: '[[DATABASE/monsterfamily/Elemental, Fire|Elemental, Fire]]'
-description: 'Ember foxes resemble their canid namesakes, save for the flames that
-  make their fur and the tips of their long whiskers flicker and glow.<br/><br/><b><u>Recall
-  Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 16<br/><b><u>Unspecific Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>:
-  DC 11'
 dexterity: '+4'
 element: Fire
 fly_speed: null

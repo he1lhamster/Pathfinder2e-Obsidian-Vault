@@ -1,85 +1,76 @@
 ﻿---
-ac: '37'
-alignment: LE
+ac: '28'
+alignment: CE
 all_resistance: null
 burrow_speed: null
-charisma: '+6'
+charisma: '+3'
 climb_speed: null
-constitution: '+6'
+constitution: '+5'
 creature_ability:
 - Attack of Opportunity
-- Focus Gaze
-- Painsight
-- Surgical Rend
-creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Fiend</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 44<br/><b><u>Unspecific
-  Lore</u></b>: DC 42<br/><b><u>Specific Lore</u></b>: DC 39'
-dexterity: '+4'
+- Dance of Ruin
+- Peace Vulnerability
+- Spore Cloud
+- Stunning Screech
+creature_family: '[[DATABASE/monsterfamily/Demon|Demon]]'
+dexterity: '+3'
 element: null
-fly_speed: null
-fortitude: '+27'
+fly_speed: '35'
+fortitude: '+20'
 hardness: null
-hp: '275'
-id: '2568'
-immunity:
-- cold
-intelligence: '+3'
-land_speed: '40'
+hp: '185'
+id: '100'
+immunity: null
+intelligence: '+2'
+land_speed: '25'
 language:
-- '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Infernal|Infernal]]'
-- '[[DATABASE/language/Jotun|Jotun]]'
-- '[[DATABASE/language/Shadowtongue|Shadowtongue]]'
-level: '15'
-max_speed: '40'
-name: Voricose
-perception: '+28'
-rarity: Unique
-reflex: '+25'
-resistance: null
+- '[[DATABASE/language/Abyssal|Abyssal]]'
+- '[[DATABASE/language/Celestial|Celestial]]'
+- '[[DATABASE/language/Draconic|Draconic]] ; telepathy 100 feet'
+level: '9'
+max_speed: '35'
+name: Vrock
+perception: '+18'
+rarity: Common
+reflex: '+18'
+resistance:
+- '[[DATABASE/trait/Electricity|electricity]] 10'
 rus_type_level: null
 school: null
 sense:
-- '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
-- painsight
+- darkvision
 size: Large
 skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +31'
-- '[[DATABASE/skill/Lore|BrewingLore]] +24'
-- '[[DATABASE/skill/Crafting|Crafting]] +24'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +28'
-- '[[DATABASE/skill/Medicine|Medicine]] +30'
-- '[[DATABASE/skill/Religion|Religion]] +24'
-- '[[DATABASE/skill/Lore|Torture Lore]] +26'
-source: '[[DATABASE/source/Pathfinder 191. The Destiny War|Pathfinder #191: The Destiny
-  War]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +18'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +18'
+- '[[DATABASE/skill/Performance|Performance]] +18'
+- '[[DATABASE/skill/Religion|Religion]] +18'
+- '[[DATABASE/skill/Stealth|Stealth]] +18'
+- '[[DATABASE/skill/Survival|Survival]] +16'
+source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
-- 40 feet
+- 25 feet
+- fly 35 feet
 spell:
-- '[[DATABASE/spell/Breath of Life|Breath of Life]]'
-- '[[DATABASE/spell/Heal|Heal]]'
-- '[[DATABASE/spell/Regenerate|Regenerate]]'
-- '[[DATABASE/spell/Restoration|Restoration]]'
-- '[[DATABASE/spell/Stabilize|Stabilize]]'
-strength: '+7'
-strength_req: '7'
+- '[[DATABASE/spell/Dimension Door|Dimension Door]]'
+- '[[DATABASE/spell/Mirror Image|Mirror Image]]'
+strength: '+6'
+strength_req: '6'
 strongest_save:
-- Will
+- Fortitude
 swim_speed: null
 trait:
+- '[[DATABASE/trait/Demon|Demon]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'
-- '[[DATABASE/trait/Unique|Unique]]'
-- '[[DATABASE/trait/Velstrac|Velstrac]]'
 type: Creature
-vision: Greater darkvision
+vision: Darkvision
 weakest_save:
-- Reflex
+- Will
 weakness:
-- good 15
-- silver 15
-will: '+28'
-wisdom: '+7'
+- cold iron 10
+- good 10
+will: '+15'
+wisdom: '+3'
 
 ---
 # Vrock (Wrath Demon)

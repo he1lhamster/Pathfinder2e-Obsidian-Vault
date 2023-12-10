@@ -9,13 +9,6 @@ constitution: '+3'
 creature_ability:
 - Set Defense
 creature_family: '[[DATABASE/monsterfamily/Skeleton|Skeleton]]'
-description: 'These soldiers continue to follow orders in death, still wielding the
-  armaments they spent a lifetime learning how to use. While frequently made from
-  the bones of humans or dwarves, other types of humanoids are quite common, such
-  as bugbears, hobgoblins, and orcs. Often, these soldiers wield the weapons most
-  common among their people instead of those listed here.<br/><br/><b><u>Recall Knowledge
-  - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 15<br/><b><u>Unspecific
-  Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>: DC 10'
 dexterity: '+2'
 element: null
 fly_speed: null

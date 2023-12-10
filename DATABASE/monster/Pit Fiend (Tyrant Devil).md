@@ -1,77 +1,95 @@
 ﻿---
-ac: '16'
-alignment: N
+ac: '46'
+alignment: LE
 all_resistance: null
 burrow_speed: null
-charisma: '-2'
+charisma: '+8'
 climb_speed: null
-constitution: '+2'
+constitution: '+9'
 creature_ability:
-- Blood Scent
-- Feeding Frenzy
-creature_family: '[[DATABASE/monsterfamily/Fish|Fish]]'
-description: 'More teeth and fury than body, few fish command as much fear and anxiety
-  as the piranha. They move almost exclusively in schools, overwhelming larger creatures
-  with sheer numbers and ferocity. Piranhas aggress toward sudden disturbances in
-  the water and can smell blood from far away. Harvested piranha teeth serve as excellent
-  cutting tools.<br/><br/><b><u>Recall Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 18<br/><b><u>Unspecific Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>:
-  DC 13'
-dexterity: '+3'
+- Attack of Opportunity
+- "Commander\u2019s Aura"
+- Constrict
+- Devil Shaping
+- Fast Swoop
+- Frightful
+- Presence
+- Masterful Quickened Casting
+- Pit Fiend Venom
+creature_family: '[[DATABASE/monsterfamily/Devil|Devil]]'
+dexterity: '+8'
 element: null
-fly_speed: null
-fortitude: '+9'
+fly_speed: '50'
+fortitude: '+37'
 hardness: null
-hp: '40'
-id: '1155'
+hp: '335'
+id: '114'
 immunity:
-- precision
-- '[[DATABASE/monsterability/Swarm Mind|swarm mind]]'
-intelligence: '-5'
-land_speed: null
-language: null
-level: '3'
-max_speed: '30'
-name: Piranha Swarm
-perception: '+9'
+- '[[DATABASE/trait/Fire|fire]]'
+intelligence: '+8'
+land_speed: '35'
+language:
+- '[[DATABASE/language/Celestial|Celestial]]'
+- '[[DATABASE/language/Common|Common]]'
+- '[[DATABASE/language/Draconic|Draconic]]'
+- '[[DATABASE/language/Infernal|Infernal]] ; telepathy 100 feet'
+level: '20'
+max_speed: '50'
+name: Pit Fiend
+perception: '+37'
 rarity: Common
-reflex: '+10'
+reflex: '+32'
 resistance:
-- bludgeoning 5
-- piercing 2
-- slashing 5
+- physical 15 (except [[DATABASE/equipment/Silver Weapon|silver]] )
+- '[[DATABASE/trait/Poison|poison]] 15'
 rus_type_level: null
 school: null
 sense:
-- blood scent
-- '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
-- '[[DATABASE/monsterability/Scent|scent]] (imprecise) 100 feet'
+- greater darkvision
+- '[[DATABASE/spell/True Seeing|true seeing]]'
 size: Large
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +10'
-- '[[DATABASE/skill/Athletics|Athletics]] +8'
-source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +34'
+- '[[DATABASE/skill/Arcana|Arcana]] +32'
+- '[[DATABASE/skill/Athletics|Athletics]] +33'
+- '[[DATABASE/skill/Deception|Deception]] +39'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +34'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +39'
+- '[[DATABASE/skill/Religion|Religion]] +37'
+- '[[DATABASE/skill/Society|Society]] +36'
+- '[[DATABASE/skill/Stealth|Stealth]] +34'
+source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
-- swim 30 feet
-spell: null
-strength: '+1'
-strength_req: '1'
+- 35 feet
+- fly 50 feet
+spell:
+- '[[DATABASE/spell/Bind Soul|Bind Soul]]'
+- '[[DATABASE/spell/Dimension Door|DimensionDoor]]'
+- '[[DATABASE/spell/Dispel Magic|Dispel Magic]]'
+- '[[DATABASE/spell/Divine Decree|Divine Decree]]'
+- '[[DATABASE/spell/Fireball|Fireball]]'
+- '[[DATABASE/spell/Meteor Swarm|Meteor Swarm]]'
+- '[[DATABASE/spell/Miracle|Miracle]]'
+- '[[DATABASE/spell/Power Word Stun|Power Word Stun]]'
+- '[[DATABASE/spell/Scrying|Scrying]]'
+- '[[DATABASE/spell/True Seeing|TrueSeeing]]'
+- '[[DATABASE/spell/Wall of Fire|Wall of Fire]]'
+strength: '+9'
+strength_req: '9'
 strongest_save:
-- Reflex
-swim_speed: '30'
+- Fortitude
+swim_speed: null
 trait:
-- '[[DATABASE/trait/Animal|Animal]]'
-- '[[DATABASE/trait/Aquatic|Aquatic]]'
-- '[[DATABASE/trait/Swarm|Swarm]]'
+- '[[DATABASE/trait/Devil|Devil]]'
+- '[[DATABASE/trait/Fiend|Fiend]]'
 type: Creature
-vision: Low-light vision
+vision: Greater darkvision
 weakest_save:
-- Will
+- Reflex
 weakness:
-- area damage 5
-- '[[DATABASE/trait/Splash|splash]] damage 5'
-will: '+7'
-wisdom: '+2'
+- good 15
+will: '+35'
+wisdom: '+9'
 
 ---
 # Pit Fiend (Tyrant Devil)

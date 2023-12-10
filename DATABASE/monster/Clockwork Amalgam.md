@@ -11,13 +11,6 @@ creature_ability:
 - Recalibrate
 - Whirring Doom
 creature_family: '[[DATABASE/monsterfamily/Clockworks|Clockworks]]'
-description: 'A clockwork amalgam is a powerful construct created by applying magic
-  to a collection of interchangeable internal mechanisms. Each clockwork amalgam has
-  unique properties, although most stand roughly 12 feet tall and have five clockwork
-  appendages tipped with integrated weapons.<br/><br/><b><u>Recall Knowledge - Construct</u>
-  ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]] )</b>:
-  DC 45<br/><b><u>Unspecific Lore</u></b>: DC 43<br/><b><u>Specific Lore</u></b>:
-  DC 40'
 dexterity: '+7'
 element: null
 fly_speed: null

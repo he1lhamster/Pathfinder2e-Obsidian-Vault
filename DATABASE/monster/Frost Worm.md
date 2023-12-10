@@ -13,22 +13,6 @@ creature_ability:
 - Worm Chill
 - Worm Trill
 creature_family: null
-description: 'The frost worm''s single round, red eye gleams prominently at the head
-  of its monstrous mass, white as a winter snowfall. What appears to be a bifurcated
-  lower jaw is actually two spiky parapodia that the worm uses to shovel food into
-  its lamprey-like mouth. An adult frost worm measures 35 feet long and weighs 8,000
-  pounds.<br/><br/> A frost worm is an apex predator that uses camouflage, burrowing,
-  and deceit to ambush its prey. When it attacks, a frost worm produces a distinctive,
-  high-pitched trill. Though some survivors of frost worm attacks have compared it
-  to a wailing lament, the trill has a captivating effect on nearby creatures, causing
-  them to stop and listen even as the monstrous creature approaches.<br/><br/> The
-  cold shed by a frost worm is as dangerous as its trill or its jaws, and while it
-  is not fond of warmer climates, neither is it particularly hampered in such regions.
-  A frost worm that somehow finds itself in temperate or even tropical environs causes
-  the immediate area to chill and ice over with frost over time, creating seemingly
-  impossible pockets of frozen terrain.<br/><br/><b><u>Recall Knowledge - Animal</u>
-  ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 30<br/><b><u>Unspecific Lore</u></b>:
-  DC 28<br/><b><u>Specific Lore</u></b>: DC 25'
 dexterity: '+4'
 element: null
 fly_speed: null

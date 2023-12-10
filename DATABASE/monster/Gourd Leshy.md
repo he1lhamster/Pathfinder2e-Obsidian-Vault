@@ -12,10 +12,6 @@ creature_ability:
 - Keepsake
 - Verdant Burst
 creature_family: '[[DATABASE/monsterfamily/Leshy|Leshy]]'
-description: 'Gourd leshys are guardians of fields, gardens, and farms. Many villages
-  benefit from the protection of a gourd leshy, even if they are unaware of it.<br/><br/><b><u>Recall
-  Knowledge - Plant</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 15<br/><b><u>Unspecific
-  Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>: DC 10'
 dexterity: '+4'
 element: null
 fly_speed: null

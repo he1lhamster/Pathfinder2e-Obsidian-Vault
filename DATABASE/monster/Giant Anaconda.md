@@ -13,13 +13,6 @@ creature_ability:
 - Tighten Coils
 - Wrap in Coils
 creature_family: '[[DATABASE/monsterfamily/Snake|Snake]]'
-description: "The monstrous giant anaconda is capable of swallowing whole creatures\
-  \ as big as horses\u2014to say nothing of their riders. Although novice bushwhackers\
-  \ watch out for snakes that might drop on them from the jungle canopy above, giant\
-  \ anacondas are most commonly encountered in ponds and rivers, where they feed on\
-  \ prey including manatees and capybaras.<br/><br/><b><u>Recall Knowledge - Animal</u>\
-  \ ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 24<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 22<br/><b><u>Specific Lore</u></b>: DC 19"
 dexterity: '+3'
 element: null
 fly_speed: null

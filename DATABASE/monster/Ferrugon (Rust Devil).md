@@ -1,72 +1,85 @@
 ﻿---
-ac: '15'
-alignment: null
+ac: '33'
+alignment: LE
 all_resistance: null
 burrow_speed: null
-charisma: '+0'
+charisma: '+5'
 climb_speed: null
-constitution: '+3'
+constitution: '+6'
 creature_ability:
-- A Thousand Cuts
-- Swoop
-creature_family: '[[DATABASE/monsterfamily/Elemental, Metal|Elemental, Metal]]'
-description: 'Beautiful but deadly, the ferrous butterfly is a turkey-sized insectile
-  creature bristling with dozens of gleaming, razor-edged blades. Considered harmless
-  by most denizens of the [[DATABASE/plane/Plane of Metal|Plane of Metal]] , they
-  nonetheless pose a significant threat to organic creatures, whose iron-rich blood
-  they find irresistible.<br/><br/><b><u>Recall Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Nature|Nature]] )</b>: DC 15<br/><b><u>Unspecific Lore</u></b>:
-  DC 13<br/><b><u>Specific Lore</u></b>: DC 10'
-dexterity: '+4'
-element: Metal
+- Ferrugon Tetanus
+- Metallic
+- Sunder Objects
+- Vainglorious Whispers
+creature_family: '[[DATABASE/monsterfamily/Devil|Devil]]'
+dexterity: '+5'
+element: null
 fly_speed: '40'
-fortitude: '+6'
+fortitude: '+24'
 hardness: null
-hp: '20'
-id: '2643'
+hp: '190'
+id: '2519'
 immunity:
-- bleed
-- '[[DATABASE/condition/Paralyzed|paralyzed]]'
-- '[[DATABASE/trait/Poison|poison]]'
-- '[[DATABASE/trait/Sleep|sleep]]'
-intelligence: '-4'
-land_speed: '5'
-language: null
-level: '1'
+- '[[DATABASE/trait/Fire|fire]]'
+intelligence: '+4'
+land_speed: '25'
+language:
+- '[[DATABASE/language/Celestial|Celestial]]'
+- '[[DATABASE/language/Common|Common]]'
+- '[[DATABASE/language/Draconic|Draconic]]'
+- '[[DATABASE/language/Infernal|Infernal]]'
+- '[[DATABASE/language/Terran|Terran]] ; [[DATABASE/monsterability/Telepathy|telepathy]]
+  100 feet'
+level: '12'
 max_speed: '40'
-name: Ferrous Butterfly
-perception: '+7'
-rarity: Common
-reflex: '+9'
+name: Ferrugon
+perception: '+22'
+rarity: Uncommon
+reflex: '+20'
 resistance:
-- '[[DATABASE/trait/Electricity|electricity]] 3'
+- physical 10 (except [[DATABASE/equipment/Silver Weapon|silver]] )
 rus_type_level: null
 school: null
 sense:
-- '[[DATABASE/monsterability/Darkvision|darkvision]]'
-size: Tiny
+- '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
+size: Medium
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +9'
-source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
+- '[[DATABASE/skill/Athletics|Athletics]] +25'
+- '[[DATABASE/skill/Crafting|Crafting]] +22'
+- '[[DATABASE/skill/Deception|Deception]] +21'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +23'
+- '[[DATABASE/skill/Religion|Religion]] +22'
+- '[[DATABASE/skill/Stealth|Stealth]] +23'
+- '[[DATABASE/skill/Thievery|Thievery]] +25'
+source: '[[DATABASE/source/Pathfinder 190. The Choosing|Pathfinder #190: The Choosing]]'
 speed:
-- 5 feet
+- 25 feet
 - fly 40 feet
-spell: null
-strength: '+2'
-strength_req: '2'
+spell:
+- '[[DATABASE/spell/Creation|Creation]]'
+- '[[DATABASE/spell/Dimension Door|DimensionDoor]]'
+- '[[DATABASE/spell/Flesh to Stone|Flesh to Stone]]'
+- '[[DATABASE/spell/Rusting Grasp|Rusting Grasp]]'
+- '[[DATABASE/spell/Shatter|Shatter]]'
+- '[[DATABASE/spell/Suggestion|Suggestion]]'
+- '[[DATABASE/spell/Wall of Stone|Wall of Stone]]'
+strength: '+7'
+strength_req: '7'
 strongest_save:
-- Reflex
+- Fortitude
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Elemental|Elemental]]'
-- '[[DATABASE/trait/Metal|Metal]]'
+- '[[DATABASE/trait/Devil|Devil]]'
+- '[[DATABASE/trait/Fiend|Fiend]]'
+- '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: Darkvision
+vision: Greater darkvision
 weakest_save:
-- Will
-weakness: null
-will: '+5'
-wisdom: '+0'
+- Reflex
+weakness:
+- good 10
+will: '+21'
+wisdom: '+4'
 
 ---
 # Ferrugon (Rust Devil)

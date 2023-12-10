@@ -10,14 +10,6 @@ creature_ability:
 - Terrible Foresight
 - Time Shift
 creature_family: null
-description: 'To cheat mortality, the rare spellcaster turns to potent temporal stasis
-  magic, or even cryogenic technology. However, such methods are highly unreliable
-  and often fracture the sleeper''s soul across the time stream as their physical
-  body perishes. Such an individual can rise as a fluxwraith, an incorporeal undead
-  with a kaleidoscopic consciousness.<br/><br/><b><u>Recall Knowledge - Spirit</u>
-  ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 41<br/><b><u>Recall Knowledge
-  - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 41<br/><b><u>Unspecific
-  Lore</u></b>: DC 39<br/><b><u>Specific Lore</u></b>: DC 36'
 dexterity: '+9'
 element: null
 fly_speed: '40'

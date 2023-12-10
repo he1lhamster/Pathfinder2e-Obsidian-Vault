@@ -12,11 +12,6 @@ creature_ability:
 - Reactive Strike
 - Volcanic Hammer
 creature_family: '[[DATABASE/monsterfamily/Munsahir|Munsahir]]'
-description: 'Highly skilled troopers mostly come from the bronze class.<br/><br/><b><u>Recall
-  Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 20<br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 20<br/><b><u>Unspecific Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>:
-  DC 15'
 dexterity: '+1'
 element: Fire
 fly_speed: null

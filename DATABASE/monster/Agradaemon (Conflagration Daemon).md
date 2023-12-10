@@ -1,83 +1,83 @@
 ﻿---
-ac: '19'
-alignment: LE
+ac: '45'
+alignment: NE
 all_resistance: null
 burrow_speed: null
-charisma: '+4'
-climb_speed: null
-constitution: '+3'
+charisma: '+10'
+climb_speed: '40'
+constitution: '+5'
 creature_ability:
-- Cursed Gaze
-- Hatred of Beauty
-- Sandstorm
-creature_family: '[[DATABASE/monsterfamily/Div|Div]]'
-description: 'Walking embodiments of curses, misfortune, and the evil eye, aghashes
-  wander the deserts of the [[DATABASE/plane/Material Plane|Material Plane]] , searching
-  out the arrogant, charming, and persuasive to humiliate and undermine. Aghashes
-  are often mistaken for some strange form of [[DATABASE/monsterfamily/Hag|hag]] ,
-  and like those creatures, they''re masters at curses.<br/><br/><b><u>Recall Knowledge
-  - Fiend</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 19<br/><b><u>Unspecific
-  Lore</u></b>: DC 17<br/><b><u>Specific Lore</u></b>: DC 14'
-dexterity: '+4'
-element: null
+- Choking Smog
+- Daemonic Pledge
+- Proven Devotion
+- Rend
+- Smoke Vision
+creature_family: '[[DATABASE/monsterfamily/Daemon|Daemon]]'
+dexterity: '+10'
+element: Fire
 fly_speed: null
-fortitude: '+9'
+fortitude: '+31'
 hardness: null
-hp: '75'
-id: '1118'
+hp: '400'
+id: '1018'
 immunity:
-- '[[DATABASE/trait/Curse|curse]]'
-intelligence: '+1'
-land_speed: '25'
+- '[[DATABASE/trait/Death|death]] effects'
+- '[[DATABASE/trait/Fire|fire]]'
+intelligence: '+6'
+land_speed: '40'
 language:
 - '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Daemonic|Daemonic]] ; [[DATABASE/monsterability/Telepathy|telepathy]]
+- '[[DATABASE/language/Daemonic|Daemonic]]'
+- '[[DATABASE/language/Ignan|Ignan]] ; [[DATABASE/monsterability/Telepathy|telepathy]]
   100 feet'
-level: '4'
-max_speed: '25'
-name: Aghash
-perception: '+12'
-rarity: Common
-reflex: '+10'
+level: '19'
+max_speed: '40'
+name: Agradaemon
+perception: '+31'
+rarity: Rare
+reflex: '+36'
 resistance: null
 rus_type_level: null
 school: null
 sense:
-- '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
-size: Medium
+- '[[DATABASE/monsterability/Darkvision|darkvision]]'
+- smoke vision
+size: Gargantuan
 skill:
-- '[[DATABASE/skill/Arcana|Arcana]] +9'
-- '[[DATABASE/skill/Athletics|Athletics]] +8'
-- '[[DATABASE/skill/Deception|Deception]] +12'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +12'
-- '[[DATABASE/skill/Religion|Religion]] +10'
-- '[[DATABASE/skill/Stealth|Stealth]] +10'
-source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +37'
+- '[[DATABASE/skill/Deception|Deception]] +37'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +37'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +39'
+source: '[[DATABASE/source/Pathfinder 162. Ruins of the Radiant Siege|Pathfinder #162:
+  Ruins of the Radiant Siege]]'
 speed:
-- 25 feet
+- 40 feet
+- climb 40 feet
 spell:
-- '[[DATABASE/spell/Detect Magic|Detect Magic]]'
+- '[[DATABASE/spell/Detect Alignment|Detect Alignment]]'
 - '[[DATABASE/spell/Dimension Door|Dimension Door]]'
-- '[[DATABASE/spell/Illusory Object|Illusory Object]]'
-- '[[DATABASE/spell/Outcast''s Curse|Outcast''s Curse]]'
-- '[[DATABASE/spell/Touch of Idiocy|Touch of Idiocy]]'
-strength: '+3'
-strength_req: '3'
+- '[[DATABASE/spell/Massacre|Massacre]]'
+- '[[DATABASE/spell/Volcanic Eruption|Volcanic Eruption]]'
+strength: '+6'
+strength_req: '6'
 strongest_save:
-- Will
+- Reflex
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Div|Div]]'
+- '[[DATABASE/trait/Daemon|Daemon]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'
+- '[[DATABASE/trait/Fire|Fire]]'
+- '[[DATABASE/trait/Rare|Rare]]'
 type: Creature
-vision: Greater darkvision
+vision: Darkvision
 weakest_save:
 - Fortitude
+- Will
 weakness:
-- '[[DATABASE/equipment/Cold Iron Weapon|cold iron]] 5'
-- good 5
-will: '+12'
-wisdom: '+2'
+- cold 20
+- good 20
+will: '+31'
+wisdom: '+5'
 
 ---
 # Agradaemon (Conflagration Daemon)

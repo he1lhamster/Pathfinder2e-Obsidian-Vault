@@ -13,24 +13,6 @@ creature_ability:
 - Jotun Slayer
 - Shield Block
 creature_family: null
-description: 'Einherjar are mighty warriors chosen by valkyries from the ranks of
-  those slain in terrible and legendary battles. Forged from the souls of the greatest
-  warriors, the implacable einherjar serve as the foot soldiers of pantheons, skilled
-  in hand-to-hand combat and slaying giants.<br/><br/> Einherjar often come from warrior
-  cultures, including Ulfen vikings (like the einherji represented in this entry),
-  particularly fierce pirates from the Shackles, and even Osirian conquerors. They
-  can be chosen from wherever war and might hold sway; many deities who hold the call
-  of battle and the pursuit of physical power more sacred than concepts of good and
-  evil might count einherjar warriors and valkyrie choosers of the slain among their
-  chosen servitors. For example, [[DATABASE/deity/Gorum|Gorum]] , [[DATABASE/deity/Besmara|Besmara]]
-  , and [[DATABASE/deity/Sekhmet|Sekhmet]] have all elevated fallen worshippers as
-  einherjar. Einherjar dedicated to different deities often wield weapons or possess
-  varying cosmetic appearances based on their deity''s preferred weapon and their
-  place of death; however, they''re universally stalwart, implacable, and efficiently
-  deadly. Einherjar with two-handed weapons or who arise from other backgrounds often
-  have different abilities in place of Jotun Slayer and Instant Repair.<br/><br/><b><u>Recall
-  Knowledge - Monitor</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 27<br/><b><u>Unspecific
-  Lore</u></b>: DC 25<br/><b><u>Specific Lore</u></b>: DC 22'
 dexterity: '+4'
 element: null
 fly_speed: null

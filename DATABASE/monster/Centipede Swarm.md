@@ -10,15 +10,6 @@ creature_ability:
 - Centipede Swarm Venom
 - Swarming Bites
 creature_family: '[[DATABASE/monsterfamily/Centipede|Centipede]]'
-description: 'Swarms of centipedes are dangerous indeed, ravenous carpets of skittering
-  hunger capable of devouring a traveler whole in a matter of minutes. Some alchemists
-  submerge whole centipedes taken from swarms in their elixirs and some mutagens,
-  claiming such infusions increase potency, though other say this is nothing more
-  than quackish claptrap. Kobolds and mitflits are both known to incorporate swarms
-  of centipedes into cunning traps, from simple pits filled with vermin or more complex
-  affairs involving chutes that dump the vermin onto the heads of unwary intruders.<br/><br/><b><u>Recall
-  Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 18<br/><b><u>Unspecific
-  Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>: DC 13'
 dexterity: '+4'
 element: null
 fly_speed: null

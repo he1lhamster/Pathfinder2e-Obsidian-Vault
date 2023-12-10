@@ -15,11 +15,6 @@ creature_ability:
 - Slashing
 - Surge
 creature_family: '[[DATABASE/monsterfamily/Xiomorn|Xiomorn]]'
-description: 'The vault keepers lost [[DATABASE/deity/Sairazul|Sairazul''s]] spark
-  and have life spans of two to three millennia. They maintain and protect the xiomorns''
-  many experiments.<br/><br/><b><u>Recall Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Nature|Nature]] )</b>: DC 37<br/><b><u>Unspecific Lore</u></b>:
-  DC 35<br/><b><u>Specific Lore</u></b>: DC 32'
 dexterity: '+8'
 element: Earth
 fly_speed: null

@@ -1,83 +1,71 @@
 ﻿---
-ac: '22'
+ac: '28'
 alignment: CE
 all_resistance: null
 burrow_speed: null
-charisma: '+3'
+charisma: '+2'
 climb_speed: null
-constitution: '+3'
+constitution: '+0'
 creature_ability:
-- Dread Striker
-- Hunt Prey
-- Perpetual Hangover
-- Sneak Attack
-- Unfair Aim
+- Fighting Rod
+- Halfling Luck
+- Lethal Fighter
+- Slippery Halfling
 creature_family: null
-description: "The Stag Lord never had a name, for his father Nugrah only called him\
-  \ \u201Cboy,\u201D and then only when the old man demanded some sort of backbreaking\
-  \ chore or was looking for something to beat on. Times remained tough for the boy\
-  \ until the night he had the dream.<br/><br/> A blindingly beautiful woman approached\
-  \ him, challenging him with a simple question: Why did he defer to his father when\
-  \ he himself deserved the honor of rule? The woman gave him a magical helm crafted\
-  \ from the skull of a stag, then promised him that taking command from his father\
-  \ would be but the first step toward commanding an army of his own.<br/><br/> When\
-  \ he woke, he assumed his dream was just that, but then he saw that he still clutched\
-  \ the helm his nocturnal visitor had gifted him. So when his father, drunk and angry,\
-  \ came at him that afternoon, the boy fought back, beating his father to within\
-  \ an inch of death before setting out on his own into the wilderness.<br/><br/>\
-  \ In the following years, the Stag Lord gathered outcasts and criminals to his side,\
-  \ commanding them with the same brutality he'd learned from his father. He also\
-  \ inherited a fondness for drink from his father, and today spends much of his time\
-  \ in a drunken haze.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]\
-  \ )</b>: DC 32<br/><b><u>Unspecific Lore</u></b>: DC 30<br/><b><u>Specific Lore</u></b>:\
-  \ DC 27"
-dexterity: '+4'
+dexterity: '+5'
 element: null
 fly_speed: null
-fortitude: '+14'
-hp: '110'
-id: '2198'
+fortitude: '+15'
+hp: '150'
+id: '1694'
 immunity: null
-intelligence: '+0'
-land_speed: '20'
+intelligence: '+4'
+land_speed: '25'
 language:
 - '[[DATABASE/language/Common|Common]]'
-level: '6'
-max_speed: '20'
-name: The Stag Lord
-perception: '+15'
+- '[[DATABASE/language/Draconic|Draconic]]'
+- '[[DATABASE/language/Elven|Elven]]'
+- '[[DATABASE/language/Halfling|Halfling]]'
+- '[[DATABASE/language/Iruxi|Iruxi]]'
+level: '9'
+max_speed: '25'
+name: Thiarvo The Quick
+perception: '+20'
 rarity: Unique
-reflex: '+15'
+reflex: '+20'
 resistance: null
 rus_type_level: null
 sense: null
-size: Medium
+size: Small
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +13'
-- '[[DATABASE/skill/Athletics|Athletics]] +12'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +14'
-- '[[DATABASE/skill/Stealth|Stealth]] +13'
-- '[[DATABASE/skill/Survival|Survival]] +8'
-source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +19'
+- '[[DATABASE/skill/Athletics|Athletics]] +15'
+- '[[DATABASE/skill/Deception|Deception]] +15'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +15'
+- '[[DATABASE/skill/Stealth|Stealth]] +18'
+- '[[DATABASE/skill/Survival|Survival]] +18'
+- '[[DATABASE/skill/Thievery|Thievery]] +20'
+source: '[[DATABASE/source/Pathfinder 171. Hurricane''s Howl|Pathfinder #171: Hurricane''s
+  Howl]]'
 speed:
-- 20 feet
+- 25 feet
 spell: null
-strength: '+3'
-strength_req: '3'
+strength: '+0'
+strength_req: '0'
 strongest_save:
 - Reflex
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Human|Human]]'
+- '[[DATABASE/trait/Halfling|Halfling]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
 vision: null
 weakest_save:
-- Will
+- Fortitude
 weakness: null
-will: '+8'
-wisdom: '-1'
+will: '+18'
+wisdom: '+3'
 
 ---
 # Thiarvo The Quick, Ruthless Halfling Treasure Seeker

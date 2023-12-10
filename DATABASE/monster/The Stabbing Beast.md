@@ -15,11 +15,6 @@ creature_ability:
 - ''
 - True Appearance
 creature_family: null
-description: 'The Stabbing Beast, the divine representative of [[DATABASE/deity/Norgorber|Norgorber]]
-  , resembles an immense scorpion with a soft and strangely captivating voice. They
-  appear on Golarion to bury secrets, support the faithful, or aid audacious thefts.<br/><br/><b><u>Recall
-  Knowledge - Fiend</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 44<br/><b><u>Unspecific
-  Lore</u></b>: DC 42<br/><b><u>Specific Lore</u></b>: DC 39'
 dexterity: '+8'
 element: null
 fly_speed: null

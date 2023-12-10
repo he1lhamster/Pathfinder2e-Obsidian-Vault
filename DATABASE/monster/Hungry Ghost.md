@@ -12,14 +12,6 @@ creature_ability:
 - Ravenous Undoing
 - Rejuvenation
 creature_family: '[[DATABASE/monsterfamily/Ghost|Ghost]]'
-description: 'Hungry ghosts arise from those who didn''t receive proper burials or
-  whose graves were neglected. They are not bound to a site or item but are compelled
-  to see opportunities to commit good deeds in hopes of gaining favors that can aid
-  them in achieving a final rest. Their need to feed on living energy often conflicts
-  with this goal, however.<br/><br/><b><u>Recall Knowledge - Spirit</u> ( [[DATABASE/skill/Occultism|Occultism]]
-  )</b>: DC 22<br/><b><u>Recall Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 22<br/><b><u>Unspecific Lore</u></b>: DC 20<br/><b><u>Specific Lore</u></b>:
-  DC 17'
 dexterity: '+5'
 element: null
 fly_speed: '25'

@@ -13,9 +13,6 @@ creature_ability:
 - Tundra Glide
 - Wrathful Misfortune
 creature_family: '[[DATABASE/monsterfamily/Blackfrost Dead|Blackfrost Dead]]'
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 29<br/><b><u>Unspecific
-  Lore</u></b>: DC 27<br/><b><u>Specific Lore</u></b>: DC 24'
 dexterity: '+4'
 element: Earth
 fly_speed: null

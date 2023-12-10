@@ -10,11 +10,6 @@ creature_ability:
 - Bar Brawler
 - Barkeep's Advice
 creature_family: '[[DATABASE/monsterfamily/Publicans|Publicans]]'
-description: 'Barkeeps are often friends and mentors within a community, lending an
-  ear while supplying libations. The best barkeeps have some talent for storytelling
-  and passing on valuable advice.<br/><br/><b><u>Recall Knowledge - Humanoid</u> (
-  [[DATABASE/skill/Society|Society]] )</b>: DC 15<br/><b><u>Unspecific Lore</u></b>:
-  DC 13<br/><b><u>Specific Lore</u></b>: DC 10'
 dexterity: '+0'
 element: null
 fly_speed: null

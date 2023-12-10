@@ -8,11 +8,6 @@ climb_speed: null
 constitution: '+0'
 creature_ability: null
 creature_family: '[[DATABASE/monsterfamily/Devotees|Devotees]]'
-description: 'The gods occasionally send messages in dreams to individuals who wander
-  the lands, gaining followers with their oratorical abilities. Some prophets have
-  not received true divine missives, but have misinterpreted normal dreams.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 16<br/><b><u>Unspecific
-  Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>: DC 11'
 dexterity: '+1'
 element: null
 fly_speed: null

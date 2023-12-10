@@ -12,29 +12,6 @@ creature_ability:
 - Decomposing Toxin
 - Reactive Grab
 creature_family: null
-description: 'Though the [[DATABASE/plane/Plane of Water|Plane of Water]] is mostly
-  liquid, it does contain its share of solid material, whether in the form of free-floating
-  aquatic plants, hunks of coral, or even detritus from lost underwater cities. Flotsam
-  and jetsam collect across the plane, and olobigondes are just one of the many creatures
-  that have evolved to live among and consume this detritus. These flat, round fish
-  are covered in a moss-like skin that makes them exceptionally difficult to spot
-  as they hug the sides of flotsam, feeding off the waste that drifts into their wide,
-  open mouths.<br/><br/> While olobigondes are primarily detritivores, they''ve been
-  known to lie in wait within a forest of kelp or against a mossy stone to ambush
-  smaller creatures, such as water scamps or lone passing merfolk. The fish launch
-  themselves from their hiding spot to take large bites out of their surprised prey,
-  then grab the victim as it tries to flee. Despite their size and ungainly shape,
-  olobigondes can move quickly in water, though their bursts of speed are usually
-  short-lived. In addition to maintaining a firm hold on prey, olobigondes'' mouths
-  are filled with a unique toxin that weakens and decomposes living flesh. The hungry
-  fish easily gulp down the resulting slurry.<br/><br/> Ancient olobigondes grow truly
-  immense, and their outward appearance evolves. There seems to be no limit to their
-  size. Their skin even separates into plates with deep channels where water can accumulate,
-  giving them the appearance of an entire patch of detritus rather than one piece.<br/><br/><b><u>Recall
-  Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 16<br/><b><u>Recall
-  Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 16<br/><b><u>Unspecific Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>:
-  DC 11'
 dexterity: '+1'
 element: Water
 fly_speed: null

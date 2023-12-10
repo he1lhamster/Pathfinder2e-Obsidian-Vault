@@ -13,14 +13,6 @@ creature_ability:
 - Frozen Strike
 - Icy Deflection
 creature_family: '[[DATABASE/monsterfamily/Oni|Oni]]'
-description: "Ice yai combine the brutality of [[DATABASE/monster/Frost Giant|frost\
-  \ giants]] with the grace of martial artists. More than any other oni, ice yai delight\
-  \ not in the pleasures of the flesh, but in flesh itself\u2014rather than indulging\
-  \ in oft-destructive mortal vices like drink or lust, ice yai pursue physical perfection,\
-  \ reveling in the process of turning their bodies into powerful fighting machines.<br/><br/><b><u>Recall\
-  \ Knowledge - Fiend</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 31<br/><b><u>Recall\
-  \ Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 31<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 29<br/><b><u>Specific Lore</u></b>: DC 26"
 dexterity: '+5'
 element: null
 fly_speed: '40'

@@ -12,21 +12,6 @@ creature_ability:
 - Spirits Drawn to Suffering
 - Unwitting Rivethun
 creature_family: null
-description: 'Krohan''s mistakes kicked off several important campaign developments,
-  such as Zogototaru''s rampage and the machinations of a hryngar villain the PCs
-  haven''t met yet. Krohan provides a strong hook for the PCs to recover and repair
-  Taargick''s clan dagger, all while providing greater context for the legends of
-  High King Taargick and Clan Tolorr. During this adventure, Krohan''s gradual discovery
-  of his occult abilities also helps illustrate Rivethun lore, giving the players
-  a window into this iconic dwarven tradition. Importantly, Krohan doesn''t seek the
-  spotlight. His own attempt at heroics inflicted real harm, and he would much rather
-  resolve past misdeeds and support the PCs'' adventuring careers.<br/> Krohan''s
-  journey parallels many of the campaign''s themes: acknowledging past wrongs and
-  working to repair the damage. In helping him, the players can better internalize
-  these objectives for when they depart Highhelm and have opportunities to start mending
-  misdeeds of the past.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 28<br/><b><u>Unspecific Lore</u></b>: DC 26<br/><b><u>Specific Lore</u></b>:
-  DC 23'
 dexterity: '+0'
 element: null
 fly_speed: null

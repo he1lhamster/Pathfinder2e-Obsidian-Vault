@@ -16,11 +16,6 @@ creature_ability:
 - Block
 - Steady Spellcasting
 creature_family: '[[DATABASE/monsterfamily/Lich|Lich]]'
-description: At first glance, a horde lich looks like a skeleton packed with too many
-  bones. In combat, the true purpose of these extra parts becomes clear as limbs peel
-  off, expanding and reassembling into another nimble skeletal form. Regardless of
-  the number, the single lich mind controls them all, and if any of them survive an
-  encounter, they can rebuild the whole given enough time and raw materials. <br/><br/>
 dexterity: '+6'
 element: null
 fly_speed: null

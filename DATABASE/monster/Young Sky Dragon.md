@@ -18,17 +18,6 @@ creature_ability:
 - Mist Vision
 - Perfected Flight
 creature_family: '[[DATABASE/monsterfamily/Dragon, Sky|Dragon, Sky]]'
-description: 'Sky dragons live above the clouds near the summits of mountains. They
-  maintain a strong religious tradition, a unique practice among imperial dragons
-  that sets them apart as much as their wings do. Desperate souls risk steep cliffs
-  and loose snow to seek these dragons'' counsel, and most sky dragons gladly help
-  those who make the journey, but they expel any express hostilities or badger without
-  hesitation.<br/><br/> The sky dragon''s wings aren''t true wings, but long fins
-  fused to their forearms; their scales also form only very slowly. Young dragons
-  coil tightly in their lairs as they absorb minerals that color and harden their
-  scales. Even adults often wrap around pillars out of habit.<br/><br/><b><u>Recall
-  Knowledge - Dragon</u> ( [[DATABASE/skill/Arcana|Arcana]] )</b>: DC 28<br/><b><u>Unspecific
-  Lore</u></b>: DC 26<br/><b><u>Specific Lore</u></b>: DC 23'
 dexterity: '+1'
 element: null
 fly_speed: '120'

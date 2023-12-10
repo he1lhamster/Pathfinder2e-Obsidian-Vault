@@ -10,15 +10,6 @@ creature_ability:
 - Call to Action
 - Sworn Duty
 creature_family: '[[DATABASE/monsterfamily/Tradespeople|Tradespeople]]'
-description: "In cities, artisans working in a common trade often form guilds to set\
-  \ standards of quality, establish common prices, engage in collective bargaining\
-  \ with business owners, and lobby local governments for favorable laws. The guildmaster\u2014\
-  often a master artisan in their own right\u2014also acts as an administrator and\
-  \ politician, advocating for artisans in their trade. The guildmaster is a 12th-level\
-  \ challenge when competing in crafting or their area of expertise (architecture\
-  \ in the example below).<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]\
-  \ )</b>: DC 24<br/><b><u>Unspecific Lore</u></b>: DC 22<br/><b><u>Specific Lore</u></b>:\
-  \ DC 19"
 dexterity: '+1'
 element: null
 fly_speed: null

@@ -11,15 +11,6 @@ creature_ability:
 - Incendiary Spit
 - Trail of Flame
 creature_family: null
-description: 'The terrifying apex predators known as eberarks torment their prey,
-  spewing oil from their mouths that they can then set alight. Commonly called flint
-  beasts, eberarks drag their overlarge claws (four on each paw) along the ground
-  as they move, creating showers of sparks with every grating step. Incredibly vain,
-  eberarks relish displaying their dominance over other intelligent beings. Some eberarks
-  conquer small settlements, demanding tribute from residents and travelers, or lead
-  bands of violent brigands.<br/><br/><b><u>Recall Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Nature|Nature]] )</b>: DC 27<br/><b><u>Unspecific Lore</u></b>:
-  DC 25<br/><b><u>Specific Lore</u></b>: DC 22'
 dexterity: '+4'
 element: Fire
 fly_speed: null

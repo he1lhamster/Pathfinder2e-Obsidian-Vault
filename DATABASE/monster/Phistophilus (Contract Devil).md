@@ -1,81 +1,96 @@
 ﻿---
-ac: '15'
-alignment: NE
-all_resistance: '2'
+ac: '30'
+alignment: LE
+all_resistance: null
 burrow_speed: null
-charisma: '+0'
+charisma: '+5'
 climb_speed: null
-constitution: '+1'
+constitution: '+4'
 creature_ability:
-- Pack Attack
-- Susceptible to Death
-- Vulnerable to Kindness
-- Walk the Ethereal Line
-creature_family: '[[DATABASE/monsterfamily/Phantom|Phantom]]'
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Ethereal</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 20<br/><b><u>Recall
-  Knowledge - Spirit</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 20<br/><b><u>Unspecific
-  Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>: DC 15'
+- Draft Contract
+- Infernal Investment
+- Infernal Wound
+- Ward Contract
+creature_family: '[[DATABASE/monsterfamily/Devil|Devil]]'
 dexterity: '+4'
 element: null
-fly_speed: '35'
-fortitude: '+6'
+fly_speed: null
+fortitude: '+18'
 hardness: null
-hp: '14'
-id: '2731'
+hp: '150'
+id: '112'
 immunity:
-- '[[DATABASE/trait/Disease|disease]]'
-- '[[DATABASE/condition/Paralyzed|paralyzed]]'
-- '[[DATABASE/trait/Poison|poison]]'
-- precision
-intelligence: '-3'
-land_speed: null
+- '[[DATABASE/trait/Fire|fire]]'
+- ward contract
+intelligence: '+7'
+land_speed: '25'
 language:
+- '[[DATABASE/language/Abyssal|Abyssal]]'
+- '[[DATABASE/language/Aklo|Aklo]]'
+- '[[DATABASE/language/Celestial|Celestial]]'
 - '[[DATABASE/language/Common|Common]]'
-level: '1'
-max_speed: '35'
-name: Phantom Wolf
-perception: '+7'
-rarity: Rare
-reflex: '+9'
+- '[[DATABASE/language/Draconic|Draconic]]'
+- '[[DATABASE/language/Infernal|Infernal]]'
+- '[[DATABASE/language/Undercommon|Undercommon]] ; telepathy 100 feet'
+- '[[DATABASE/spell/Tongues|tongues]]'
+level: '10'
+max_speed: '25'
+name: Phistophilus
+perception: '+21'
+rarity: Common
+reflex: '+18'
 resistance:
-- all damage 2 (except [[DATABASE/trait/Force|force]] or [[DATABASE/equipment/Ghost
-  Touch|ghost touch]] ; double resistance vs. non- [[DATABASE/trait/Magical|magical]]
-  )
+- physical 10 (except [[DATABASE/equipment/Silver Weapon|silver]] )
+- '[[DATABASE/trait/Poison|poison]] 10'
 rus_type_level: null
 school: null
 sense:
-- '[[DATABASE/monsterability/Darkvision|darkvision]]'
+- greater darkvision
 size: Medium
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +7'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +5'
-source: '[[DATABASE/source/Pathfinder 196. The Summer That Never Was|Pathfinder #196:
-  The Summer That Never Was]]'
+- '[[DATABASE/skill/Arcana|Arcana]] +19'
+- '[[DATABASE/skill/Deception|Deception]] +23'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +21'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +21'
+- '[[DATABASE/skill/Lore|Legal Lore]] +25'
+- '[[DATABASE/skill/Religion|Religion]] +19'
+- '[[DATABASE/skill/Society|Society]] +19'
+- '[[DATABASE/skill/Stealth|Stealth]] +18'
+source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
-- fly 35 feet
+- 25 feet
 spell:
-- '[[DATABASE/spell/Daze|Daze]]'
-- '[[DATABASE/spell/Fear|Fear]]'
-- '[[DATABASE/spell/Ghost Sound|Ghost Sound]]'
-strength: '-5'
-strength_req: '-5'
+- '[[DATABASE/spell/Detect Magic|Detect Magic]]'
+- '[[DATABASE/spell/Dimension Door|Dimension Door]]'
+- '[[DATABASE/spell/Fireball|Fireball]]'
+- '[[DATABASE/spell/Illusory Scene|Illusory Scene]]'
+- '[[DATABASE/spell/Lightning Bolt|Lightning Bolt]]'
+- '[[DATABASE/spell/Locate|Locate]]'
+- '[[DATABASE/spell/Mind Probe|Mind Probe]]'
+- '[[DATABASE/spell/Mind Reading|MindReading]]'
+- '[[DATABASE/spell/Plane Shift|Plane Shift]]'
+- '[[DATABASE/spell/Private Sanctum|Private Sanctum]]'
+- '[[DATABASE/spell/Scrying|Scrying]]'
+- '[[DATABASE/spell/Sending|Sending]]'
+- '[[DATABASE/spell/Silence|Silence]]'
+- '[[DATABASE/spell/Tongues|Tongues]]'
+strength: '+3'
+strength_req: '3'
 strongest_save:
-- Reflex
+- Will
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Ethereal|Ethereal]]'
-- '[[DATABASE/trait/Incorporeal|Incorporeal]]'
-- '[[DATABASE/trait/Phantom|Phantom]]'
-- '[[DATABASE/trait/Rare|Rare]]'
-- '[[DATABASE/trait/Spirit|Spirit]]'
+- '[[DATABASE/trait/Devil|Devil]]'
+- '[[DATABASE/trait/Fiend|Fiend]]'
 type: Creature
-vision: Darkvision
+vision: Greater darkvision
 weakest_save:
-- Will
-weakness: null
-will: '+5'
-wisdom: '+2'
+- Fortitude
+- Reflex
+weakness:
+- good 10
+will: '+23'
+wisdom: '+5'
 
 ---
 # Phistophilus (Contract Devil)

@@ -14,13 +14,6 @@ creature_ability:
 - Quick Arrest
 - Sneak Attack
 creature_family: '[[DATABASE/monsterfamily/Duergar|Duergar]]'
-description: 'Involved in both domestic security and international espionage, the
-  agents of King Orgukagan''s secret police are skilled at capturing enemies for interrogation,
-  infiltrating rival organizations, and fighting without weapons. When the king takes
-  special interest in a project, event, or individual, he sends one of his specially
-  trained agents to handle the situation.<br/><br/><b><u>Recall Knowledge - Humanoid</u>
-  ( [[DATABASE/skill/Society|Society]] )</b>: DC 25<br/><b><u>Unspecific Lore</u></b>:
-  DC 23<br/><b><u>Specific Lore</u></b>: DC 20'
 dexterity: '+4'
 element: null
 fly_speed: null

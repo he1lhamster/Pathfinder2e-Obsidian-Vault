@@ -20,14 +20,6 @@ creature_ability:
 - Soulscent
 - Voice of the Soul
 creature_family: '[[DATABASE/monsterfamily/Sluagh|Sluagh]]'
-description: 'A queen sluagh grows more powerful by devouring souls collected from
-  underlings or drained directly through her proboscis. The muscular tongue inside
-  is tipped with a cartilaginous, barbed quill that feeds the queen not only the soul,
-  but the strengths of its owner. A queen conceals her nest deep in a secluded area,
-  such as a forest or graveyard.<br/><br/><b><u>Recall Knowledge - Fey</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 43<br/><b><u>Recall Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 43<br/><b><u>Unspecific Lore</u></b>: DC 41<br/><b><u>Specific Lore</u></b>:
-  DC 38'
 dexterity: '+5'
 element: null
 fly_speed: '80'

@@ -12,15 +12,6 @@ creature_ability:
 - Retributive Strike
 - Trumpet Blast
 creature_family: '[[DATABASE/monsterfamily/Archon|Archon]]'
-description: "Trumpet archons are messengers, emissaries, and storytellers\u2014embodiments\
-  \ of the virtue of kindness. They use stories and allegories to prevent bloodshed,\
-  \ and among all archons they are the most likely to work together with angels, perhaps\
-  \ leading to the similarities in their forms. When diplomacy is impossible, trumpet\
-  \ archons rally the righteous to battle\u2014one reassuring glance from a trumpet\
-  \ archon is often all it takes to instill a shaken ally with resounding courage\
-  \ once again.<br/><br/><b><u>Recall Knowledge - Celestial</u> ( [[DATABASE/skill/Religion|Religion]]\
-  \ )</b>: DC 32<br/><b><u>Unspecific Lore</u></b>: DC 30<br/><b><u>Specific Lore</u></b>:\
-  \ DC 27"
 dexterity: '+5'
 element: null
 fly_speed: '60'

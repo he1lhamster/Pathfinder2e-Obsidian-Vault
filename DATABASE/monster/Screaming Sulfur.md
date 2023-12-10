@@ -12,19 +12,6 @@ creature_ability:
 - Rejuvenation
 - Site Bound
 creature_family: null
-description: 'A screaming sulfur is a creature born from gasping death and suffocating
-  suffering. When an earthquake or other geological phenomena releases toxic gases,
-  these gases can build up beneath lakes and other large bodies of water. Eventually,
-  they escape the water, expanding into massive clouds that cover the immediate area.
-  Its silent, unexpected arrival can take thousands of lives in an instant. Confused,
-  in pain, and desperate for a way out, the dying souls become trapped in the noxious
-  cloud and amass into this horrifying creature.<br/><br/> While not truly [[DATABASE/trait/Undead|undead]]
-  , a screaming sulfur shares many similarities with undead creatures, including the
-  malice of vengeful spirits and the hatred of all living creatures who breathe freely
-  and painlessly. A screaming sulfur resembles a cloud made of countless, featureless
-  faces, mouths agape and releasing ghastly wails.<br/><br/><b><u>Recall Knowledge
-  - Spirit</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 29<br/><b><u>Unspecific
-  Lore</u></b>: DC 27<br/><b><u>Specific Lore</u></b>: DC 24'
 dexterity: '+7'
 element: null
 fly_speed: '40'

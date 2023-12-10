@@ -10,13 +10,6 @@ creature_ability:
 - Bedside Manner
 - Doctor's Hand
 creature_family: '[[DATABASE/monsterfamily/Healers|Healers]]'
-description: 'The art of medicine is a blend of the intellectual and the practical,
-  concerned with how diseases work and how to prevent them. The physician can be found
-  consulting well-thumbed tomes while meticulously examining patients to better understand
-  their condition, before determining the most effective treatment. For medical matters,
-  the physician is a 4th-level challenge.<br/><br/><b><u>Recall Knowledge - Humanoid</u>
-  ( [[DATABASE/skill/Society|Society]] )</b>: DC 13<br/><b><u>Unspecific Lore</u></b>:
-  DC 11<br/><b><u>Specific Lore</u></b>: DC 8'
 dexterity: '+1'
 element: null
 fly_speed: null

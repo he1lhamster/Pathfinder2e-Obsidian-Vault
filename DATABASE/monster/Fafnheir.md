@@ -18,12 +18,6 @@ creature_ability:
 - Furious Frenzy
 - Spit Boiling Blood
 creature_family: null
-description: 'Fafnheir is the fabled Father of Linnorms. He''s larger than all other
-  [[DATABASE/monsterfamily/Linnorm|linnorms]] on Golarion, with a length of 60 feet
-  and a weight upwards of 10 tons. Fafnheir is a clever and powerful creature, worthy
-  of the fear of all people in the Lands of the Linnorm Kings.<br/><br/><b><u>Recall
-  Knowledge - Dragon</u> ( [[DATABASE/skill/Arcana|Arcana]] )</b>: DC 58<br/><b><u>Unspecific
-  Lore</u></b>: DC 56<br/><b><u>Specific Lore</u></b>: DC 53'
 dexterity: '+9'
 element: null
 fly_speed: '160'

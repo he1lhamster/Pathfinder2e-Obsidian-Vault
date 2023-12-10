@@ -13,13 +13,6 @@ creature_ability:
 - Implanted Stone
 - Sever Spell
 creature_family: '[[DATABASE/monsterfamily/Facetbound|Facetbound]]'
-description: 'Designed to serve as devastatingly powerful foot soldiers against enemies
-  with plentiful magic, facetbound nullifiers shear through magical effects as easily
-  as they slice through flesh and bone. The <i> [[DATABASE/equipment/Aeon Stone|pale
-  lavender ellipsoid aeon stones]] </i> they bear are sunk deep into their heads and
-  surrounded by an ugly bruise.<br/><br/><b><u>Recall Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 39<br/><b><u>Unspecific Lore</u></b>: DC 37<br/><b><u>Specific Lore</u></b>:
-  DC 34'
 dexterity: '+4'
 element: null
 fly_speed: '25'

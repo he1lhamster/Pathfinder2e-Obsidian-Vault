@@ -9,23 +9,6 @@ constitution: '+3'
 creature_ability:
 - Violet Rot
 creature_family: null
-description: "At a glance, a violet fungus might seem to be little more than an unsightly\
-  \ and sickeningly purple mushroom of unusual size. Only once one draws closer\u2014\
-  \ once whip-like tentacles dripping with flesh-rotting venom slither out from the\
-  \ fungus's cratered cap\u2014does the terrifying truth of this carnivorous toadstool\
-  \ become apparent. Many amateur spelunkers have met untimely ends in the clutches\
-  \ of this monstrous fungus's tentacles, since violet fungi are practically synonymous\
-  \ with caverns on Golarion.<br/><br/> Anyone who has ever braved the world's caves\
-  \ for an extended period of time know the dangers of the deadly violet fungus. Darklands\
-  \ dwellers such as drow and duergars often bear the long, whip-like scars of at\
-  \ least one brush with this vicious plant's cruel, poison-infused tentacles. Canny\
-  \ subterranean trappers and scouts sometimes make use of cultivated violent fungi\
-  \ to catch game in the enormous caverns below the surface world. Some Darklands\
-  \ peoples also cultivate violet fungi as a means to defend their territory. [[DATABASE/monsterfamily/Xulgath|Xulgaths]]\
-  \ in particular place violet fungi around the perimeters of their settlements as\
-  \ a first line of defense.<br/><br/><b><u>Recall Knowledge - Fungus</u> ( [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 18<br/><b><u>Unspecific Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>:\
-  \ DC 13"
 dexterity: '+0'
 element: null
 fly_speed: null

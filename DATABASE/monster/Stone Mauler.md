@@ -12,10 +12,6 @@ creature_ability:
 - Earthbound
 - Spike Stones
 creature_family: '[[DATABASE/monsterfamily/Elemental, Earth|Elemental, Earth]]'
-description: 'These towering heaps of earth can inflict tremendous damage up close
-  and from afar.<br/><br/><b><u>Recall Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Nature|Nature]] )</b>: DC 26<br/><b><u>Unspecific Lore</u></b>:
-  DC 24<br/><b><u>Specific Lore</u></b>: DC 21'
 dexterity: '-1'
 element: Earth
 fly_speed: null

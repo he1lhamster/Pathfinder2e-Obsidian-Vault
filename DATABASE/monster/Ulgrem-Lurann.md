@@ -13,18 +13,6 @@ creature_ability:
 - Sparking Bite
 - Swallow Whole
 creature_family: null
-description: "[[DATABASE/monster/Ulgrem-Axaan|Ulgrem-Axaan]] has a limited ability\
-  \ to respond to magical telepathy with a handful of words in Necril. The name Ulgrem-Axaan\
-  \ originally comes from the creature itself, and the rough approximation in Necril\
-  \ suggests that Ulgrem was its species with Axaan noting it as the last of its kind.\
-  \ Characters capable of cleansing Ulgrem-Axaan's eggs can watch the hatchlings grow\
-  \ into creatures resembling Ulgrem-Axaan, save that they lack any kind of undead\
-  \ touch. Upon seeing these young for the first time, if Ulgrem-Axaan is able to\
-  \ do so, it grants them the name \u201CUlgrem-Lurann.\u201D Through the same rough\
-  \ approximation, Ulgrem-Lurann means something akin to \u201CChildren of Ulgrem.\u201D\
-  <br/><br/><b><u>Recall Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]]\
-  \ , [[DATABASE/skill/Nature|Nature]] )</b>: DC 23<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 21<br/><b><u>Specific Lore</u></b>: DC 18"
 dexterity: '+3'
 element: null
 fly_speed: null

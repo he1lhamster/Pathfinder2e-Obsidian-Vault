@@ -14,14 +14,6 @@ creature_ability:
 - Shield Warden
 - Shielded Advance
 creature_family: '[[DATABASE/monsterfamily/Officers|Officers]]'
-description: 'The captain of the guard leads a troop of soldiers who serve as security
-  forces for a powerful individual, most often a high-ranking noble or very rich merchant,
-  though this stat block could also represent a lower-ranking captain of the guard
-  for the leader of a nation. A formidable opponent in their own right, the captain
-  of the guard skillfully employs their troops to protect the life and health of their
-  ward.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 22<br/><b><u>Unspecific Lore</u></b>: DC 20<br/><b><u>Specific Lore</u></b>:
-  DC 17'
 dexterity: '+0'
 element: null
 fly_speed: null

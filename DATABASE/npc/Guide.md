@@ -10,10 +10,6 @@ creature_ability:
 - Guide's Warning
 - Guiding Words
 creature_family: '[[DATABASE/monsterfamily/Explorers|Explorers]]'
-description: 'Guides bring travelers, tourists, and adventurers into the wondrous
-  natural world, using their expertise to avoid deadly monsters and gruesome hazards.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 19<br/><b><u>Unspecific
-  Lore</u></b>: DC 17<br/><b><u>Specific Lore</u></b>: DC 14'
 dexterity: '+1'
 element: null
 fly_speed: null

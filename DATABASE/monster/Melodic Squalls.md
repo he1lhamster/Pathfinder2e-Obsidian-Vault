@@ -13,10 +13,6 @@ creature_ability:
 - Subsonic Burst
 - Swiftness
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 40<br/><b><u>Unspecific Lore</u></b>: DC 38<br/><b><u>Specific Lore</u></b>:
-  DC 35'
 dexterity: '+8'
 element: Air
 fly_speed: '100'

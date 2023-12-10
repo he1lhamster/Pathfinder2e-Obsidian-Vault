@@ -16,20 +16,6 @@ creature_ability:
 - Whole
 - Telepathic Escape
 creature_family: null
-description: "Conqueror worms are deeply malevolent creatures with terrifying magical\
-  \ power. They are highly intelligent and see societies as playthings, enacting far-reaching\
-  \ and tyrannical changes to reshape or break them as they please. Conqueror worms\
-  \ are patient, often waiting for years (or sometimes decades) to enact plans, all\
-  \ the while observing from their lairs. A conqueror worm that takes interest in\
-  \ a region mentally commands its figureheads, such as political leaders and key\
-  \ rebels, manipulating them and playing them off each other like game pieces from\
-  \ behind the scenes\u2014most frequently, from well-defended subterranean chambers.\
-  \ <br/>Most conqueror worms' victims don't even realize they're subject to its machinations,\
-  \ but some who do end up serving the creature\u2014or worshipping it. The worms\
-  \ have no regards for their supplicants and are inclined to dispose of them the\
-  \ moment they're unneeded.<br/><br/><b><u>Recall Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]]\
-  \ )</b>: DC 47<br/><b><u>Unspecific Lore</u></b>: DC 45<br/><b><u>Specific Lore</u></b>:\
-  \ DC 42"
 dexterity: '+5'
 element: null
 fly_speed: null

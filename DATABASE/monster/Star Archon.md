@@ -13,17 +13,6 @@ creature_ability:
 - Prudent Asterism
 - Retributive Strike
 creature_family: '[[DATABASE/monsterfamily/Archon|Archon]]'
-description: 'Embodiments of the virtue of prudence, star archons serve as philosophers
-  and administrators, and in times of war as the tacticians, strategists, and generals
-  of archon armies. Star archons burn with the glory and intensity of a sun, and their
-  sense of duty and desire to defeat evil are as indefatigable as the light of the
-  stars. While their dazzling intellects and unmatched strategic cunning make them
-  most useful in war rooms rather than on battlefields, star archons are fierce opponents
-  when motivated to enter the fray. Those who witness the self-sacrifice of a star
-  archon and live to tell the tale describe the experience in terms that might befit
-  the sight of a supernova at the instant the star collapses in on itself.<br/><br/><b><u>Recall
-  Knowledge - Celestial</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 39<br/><b><u>Unspecific
-  Lore</u></b>: DC 37<br/><b><u>Specific Lore</u></b>: DC 34'
 dexterity: '+9'
 element: null
 fly_speed: '75'

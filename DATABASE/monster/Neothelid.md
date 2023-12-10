@@ -15,16 +15,6 @@ creature_ability:
 - ''
 - Thoughtsense
 creature_family: null
-description: "This gigantic, mauve worm has a hooked mouth with multiple circular\
-  \ bands of teeth and four barbed tongues. A wielder of terrible occult powers and\
-  \ a vast alien intellect, the neothelid serves the ageless horrors that dwell in\
-  \ strange dimensions beyond known reality\u2014the Outer Gods and Great Old Ones\
-  \ of the Elder Mythos. Neothelids pass down these mysteries to the eerie wormlike\
-  \ creatures they spawn and create in preparation for a future where the worms below\
-  \ shall rule\u2014a time when all other life is nothing more than food.<br/><br/><b><u>Recall\
-  \ Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC\
-  \ 36<br/><b><u>Unspecific Lore</u></b>: DC 34<br/><b><u>Specific Lore</u></b>: DC\
-  \ 31"
 dexterity: '+4'
 element: null
 fly_speed: '50'

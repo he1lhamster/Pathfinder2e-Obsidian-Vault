@@ -9,10 +9,6 @@ constitution: '+2'
 creature_ability:
 - Shriek
 creature_family: '[[DATABASE/monsterfamily/Skeleton|Skeleton]]'
-description: 'A live harpy''s song is compelling and captivating; a harpy skeleton''s
-  is anything but, rending the target''s mind.<br/><br/><b><u>Recall Knowledge - Undead</u>
-  ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 20<br/><b><u>Unspecific Lore</u></b>:
-  DC 18<br/><b><u>Specific Lore</u></b>: DC 15'
 dexterity: '+4'
 element: null
 fly_speed: '40'

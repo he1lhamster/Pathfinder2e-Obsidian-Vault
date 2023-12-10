@@ -13,12 +13,6 @@ creature_ability:
 - Tangling Chains
 - Whirling Frenzy
 creature_family: null
-description: 'As bizarre in appearance as they are ferocious, thrasfyrs resemble six-limbed
-  bears with bull-like horns, draconic scales, and a fire-breathing serpent for a
-  tail. Every thrasfyr is wrapped in animated chains psychically linked to the creature''s
-  mind.<br/><br/><b><u>Recall Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Nature|Nature]] )</b>: DC 41<br/><b><u>Unspecific Lore</u></b>:
-  DC 39<br/><b><u>Specific Lore</u></b>: DC 36'
 dexterity: '+5'
 element: Fire
 fly_speed: null

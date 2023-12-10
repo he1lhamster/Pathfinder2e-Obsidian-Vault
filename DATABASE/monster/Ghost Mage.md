@@ -12,11 +12,6 @@ creature_ability:
 - Site Bound
 - Telekinetic Assault
 creature_family: '[[DATABASE/monsterfamily/Ghost|Ghost]]'
-description: 'A wizard who died with a major project left undone might become a ghost
-  mage, constantly seeking to finish its task in undeath.<br/><br/><b><u>Recall Knowledge
-  - Spirit</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 27<br/><b><u>Recall
-  Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 27<br/><b><u>Unspecific
-  Lore</u></b>: DC 25<br/><b><u>Specific Lore</u></b>: DC 22'
 dexterity: '+3'
 element: null
 fly_speed: '25'

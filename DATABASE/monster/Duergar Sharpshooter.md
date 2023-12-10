@@ -10,13 +10,6 @@ creature_ability:
 - Bola Bolt
 - Light Blindness
 creature_family: '[[DATABASE/monsterfamily/Duergar|Duergar]]'
-description: "Duergar sharpshooters serve both as ranged support for slaver parties\
-  \ and as snipers posted on towers overlooking quarries and other areas where enslaved\
-  \ workers toil away the hours. Duergar sharpshooters also specialize in nonlethal\
-  \ methods of ranged combat\u2014tactics they are often called upon to use when quelling\
-  \ slave riots or capturing escaped slaves.<br/><br/><b><u>Recall Knowledge - Humanoid</u>\
-  \ ( [[DATABASE/skill/Society|Society]] )</b>: DC 14<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 12<br/><b><u>Specific Lore</u></b>: DC 9"
 dexterity: '+3'
 element: null
 fly_speed: null

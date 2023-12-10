@@ -10,16 +10,6 @@ creature_ability:
 - Captivating Lure
 - Change Shape
 creature_family: null
-description: "Kelpies are malevolent amphibious fey shapechangers intent on luring\
-  \ mortals to their doom. These cruel predators lurk in and around areas of water,\
-  \ slightly preferring freshwater over saltwater. Kelpies lure or drag their prey\
-  \ underwater then drown and devour them, leaving behind only the victim's heart\
-  \ and liver\u2014 the only parts of a meal kelpies find unpleasant. Kelpies are\
-  \ fond of magically disguising itself as fine steeds or attractive strangers to\
-  \ draw in victims, but its true appearance takes the form of a hideous equine with\
-  \ slimy, green flesh resembling aquatic plants.<br/><br/><b><u>Recall Knowledge\
-  \ - Fey</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 19<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 17<br/><b><u>Specific Lore</u></b>: DC 14"
 dexterity: '+2'
 element: null
 fly_speed: null

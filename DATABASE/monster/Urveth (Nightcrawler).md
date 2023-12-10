@@ -1,80 +1,93 @@
 ﻿---
-ac: '18'
-alignment: NE
+ac: '40'
+alignment: CE
 all_resistance: null
-burrow_speed: null
-charisma: '+2'
+burrow_speed: '60'
+charisma: '+6'
 climb_speed: null
-constitution: '+2'
+constitution: '+8'
 creature_ability:
 - Attack of Opportunity
-- Necrotic Decay
-- Ravenous Attack
-- Wicked Bite
-creature_family: '[[DATABASE/monsterfamily/Urdefhan|Urdefhan]]'
-description: 'From the moment they are born, urdefhans are prepared for war. Urdefhan
-  warriors are among the least powerful urdefhans one might encounter outside of their
-  eerie underground cities.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 18<br/><b><u>Unspecific Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>:
-  DC 13'
-dexterity: '+1'
+- Entropy's Shadow
+- Frenzy
+- Sunlight Powerlessness
+- Swallow Whole
+- Urveth
+- Venom
+creature_family: '[[DATABASE/monsterfamily/Darvakka|Darvakka]]'
+dexterity: '+5'
 element: null
 fly_speed: null
-fortitude: '+9'
+fortitude: '+32'
 hardness: null
-hp: 55 ( negative healing )
-id: '840'
+hp: 460 ( negative healing )
+id: '1850'
 immunity:
 - '[[DATABASE/trait/Death|death]] effects'
 - '[[DATABASE/trait/Disease|disease]]'
-- '[[DATABASE/trait/Fear|fear]]'
-intelligence: '+0'
+- '[[DATABASE/condition/Paralyzed|paralyzed]]'
+- '[[DATABASE/trait/Poison|poison]]'
+- '[[DATABASE/condition/Unconscious|unconscious]]'
+intelligence: '+5'
 land_speed: '25'
 language:
-- '[[DATABASE/language/Aklo|Aklo]]'
-- '[[DATABASE/language/Daemonic|Daemonic]]'
-- '[[DATABASE/language/Undercommon|Undercommon]]'
-level: '3'
-max_speed: '25'
-name: Urdefhan Warrior
-perception: '+9'
+- '[[DATABASE/language/Abyssal|Abyssal]]'
+- '[[DATABASE/language/Common|Common]]'
+- '[[DATABASE/language/Infernal|Infernal]]'
+- '[[DATABASE/language/Necril|Necril]] ; [[DATABASE/monsterability/Telepathy|telepathy]]
+  100 feet'
+level: '18'
+max_speed: '60'
+name: Urveth
+perception: '+32'
 rarity: Common
-reflex: '+8'
-resistance: null
+reflex: '+29'
+resistance:
+- '[[DATABASE/trait/Cold|cold]] 15'
 rus_type_level: null
 school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
-size: Medium
+- '[[DATABASE/monsterability/Lifesense|lifesense]] 60 feet'
+size: Gargantuan
 skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +10'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +9'
-- '[[DATABASE/skill/Religion|Religion]] +7'
-- '[[DATABASE/skill/Survival|Survival]] +7'
-source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
+- '[[DATABASE/skill/Arcana|Arcana]] +29'
+- '[[DATABASE/skill/Athletics|Athletics]] +35'
+- '[[DATABASE/skill/Lore|Negative Energy Plane Lore]] +31'
+- '[[DATABASE/skill/Religion|Religion]] +32'
+- '[[DATABASE/skill/Lore|Shadow Plane Lore]] +31'
+- '[[DATABASE/skill/Stealth|Stealth]] +31'
+source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 speed:
 - 25 feet
+- burrow 60 feet
+- '[[DATABASE/spell/Air Walk|air walk]]'
 spell:
-- '[[DATABASE/spell/Death Knell|Death Knell]]'
-- '[[DATABASE/spell/Feather Fall|FeatherFall]]'
-- '[[DATABASE/spell/Ray of Enfeeblement|Ray of Enfeeblement]]'
-strength: '+3'
-strength_req: '3'
+- '[[DATABASE/spell/Air Walk|Air Walk]]'
+- '[[DATABASE/spell/Darkness|Darkness]]'
+- '[[DATABASE/spell/Detect Magic|Detect Magic]]'
+- '[[DATABASE/spell/Eclipse Burst|Eclipse Burst]]'
+- '[[DATABASE/spell/Harm|Harm]]'
+- '[[DATABASE/spell/Plane Shift|Plane Shift]]'
+- '[[DATABASE/spell/True Seeing|True Seeing]]'
+strength: '+10'
+strength_req: '10'
 strongest_save:
-- Fortitude
 - Will
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Humanoid|Humanoid]]'
-- '[[DATABASE/trait/Urdefhan|Urdefhan]]'
+- '[[DATABASE/trait/Darvakka|Darvakka]]'
+- '[[DATABASE/trait/Shadow|Shadow]]'
+- '[[DATABASE/trait/Undead|Undead]]'
 type: Creature
 vision: Greater darkvision
 weakest_save:
 - Reflex
 weakness:
-- positive 5
-will: '+9'
-wisdom: '+2'
+- '[[DATABASE/trait/Good|good]] 15'
+- '[[DATABASE/equipment/Silver Weapon|silver]] 15'
+will: '+34'
+wisdom: '+6'
 
 ---
 # Urveth (Nightcrawler)

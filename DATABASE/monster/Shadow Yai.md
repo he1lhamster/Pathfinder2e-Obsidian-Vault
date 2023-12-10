@@ -12,17 +12,6 @@ creature_ability:
 - Shadow Step
 - Shadow Touch
 creature_family: '[[DATABASE/monsterfamily/Oni|Oni]]'
-description: "Oni who assume the form of [[DATABASE/monster/Shadow Giant|shadow giants]]\
-  \ are known as shadow yais. Many shadow yais crave the pleasures of music and go\
-  \ to great lengths to secure bardic or musically inclined supplicants. Smaller beings\
-  \ who refuse to submit to a shadow yai are subject to painful, drawn out, and strangely\
-  \ beautiful deaths, for a shadow yai has a special way of evoking melodic cries\
-  \ and screams from their victims: a veritable symphony of pain. Individuals of particular\
-  \ musical skill who accompany a shadow yai can find the experience extremely lucrative\
-  \ and enriching\u2014as long as they don't run afoul of their liege.<br/><br/><b><u>Recall\
-  \ Knowledge - Fiend</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 35<br/><b><u>Recall\
-  \ Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 35<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 33<br/><b><u>Specific Lore</u></b>: DC 30"
 dexterity: '+6'
 element: null
 fly_speed: '40'

@@ -1,68 +1,77 @@
 ﻿---
 ac: '21'
-alignment: CN
+alignment: N
 all_resistance: null
 burrow_speed: null
-charisma: '+1'
+charisma: '+2'
 climb_speed: null
-constitution: '+3'
+constitution: '+1'
 creature_ability:
-- Hurried Retreat
-- Smash Kneecaps
-- Sneak Attack
-creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 30<br/><b><u>Unspecific
-  Lore</u></b>: DC 28<br/><b><u>Specific Lore</u></b>: DC 25'
-dexterity: '+4'
+- Healing Hands
+- Steady Spellcasting
+creature_family: '[[DATABASE/monsterfamily/Devotees|Devotees]]'
+dexterity: '+3'
 element: null
 fly_speed: null
 fortitude: '+11'
-hp: '85'
-id: '2288'
+hp: '80'
+id: '896'
 immunity: null
 intelligence: '+0'
 land_speed: '25'
 language:
 - '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Draconic|Draconic]]'
-level: '5'
+level: '6'
 max_speed: '25'
-name: Prazil
-perception: '+12'
-rarity: Unique
-reflex: '+14'
+name: Priest of Pharasma
+perception: '+14'
+rarity: Common
+reflex: '+11'
 resistance: null
 rus_type_level: null
-sense:
-- '[[DATABASE/monsterability/Darkvision|darkvision]]'
-size: Small
+sense: null
+size: Medium
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +13'
-- '[[DATABASE/skill/Deception|Deception]] +10'
-- '[[DATABASE/skill/Stealth|Stealth]] +13'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +12'
+- '[[DATABASE/skill/Medicine|Medicine]] +14'
+- '[[DATABASE/skill/Religion|Religion]] +14'
+- '[[DATABASE/skill/Society|Society]] +11'
 - '[[DATABASE/skill/Survival|Survival]] +12'
-- '[[DATABASE/skill/Thievery|Thievery]] +13'
-source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
+source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
 speed:
 - 25 feet
-spell: null
-strength: '+1'
-strength_req: '1'
+spell:
+- '[[DATABASE/spell/Circle of Protection|Circle of Protection]]'
+- '[[DATABASE/spell/Death''s Call|Death''s Call]]'
+- '[[DATABASE/spell/Detect Magic|Detect Magic]]'
+- '[[DATABASE/spell/Disrupt Undead|Disrupt Undead]]'
+- '[[DATABASE/spell/Disrupting Weapons|Disrupting Weapons]]'
+- '[[DATABASE/spell/Gentle Repose|Gentle Repose]]'
+- '[[DATABASE/spell/Heal|Heal]]'
+- '[[DATABASE/spell/Light|Light]]'
+- '[[DATABASE/spell/Mindlink|Mindlink]]'
+- '[[DATABASE/spell/Read Aura|ReadAura]]'
+- '[[DATABASE/spell/Searing Light|Searing Light]]'
+- '[[DATABASE/spell/Shield|Shield]]'
+- '[[DATABASE/spell/Silence|Silence]]'
+- '[[DATABASE/spell/Spirit Link|Spirit Link]]'
+- '[[DATABASE/spell/Spiritual Weapon|Spiritual Weapon]]'
+strength: '+3'
+strength_req: '3'
 strongest_save:
 - Will
 swim_speed: null
 trait:
+- '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
-- '[[DATABASE/trait/Kobold|Kobold]]'
-- '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: Darkvision
+vision: null
 weakest_save:
 - Fortitude
+- Reflex
 weakness: null
-will: '+17'
-wisdom: '+3'
+will: '+14'
+wisdom: '+4'
 
 ---
 # Priest

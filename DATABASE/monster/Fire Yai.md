@@ -12,16 +12,6 @@ creature_ability:
 - Impaling Push
 - Smoke Form
 creature_family: '[[DATABASE/monsterfamily/Oni|Oni]]'
-description: 'Fire yai take the form of [[DATABASE/monster/Fire Giant|fire giants]]
-  . Like fire giants, fire yai are shrewd and militaristic and have an incredible
-  appetite for the thrill of war. While they engage in battle to conquer and control
-  others, fire yai also love the thrill of war, fighting for the sheer joy of it.
-  Presenting a fire yai with a true challenge in combat can potentially earn their
-  mercy and an offer to join and serve at their side. Fire yai''s third eyes shoot
-  forth burning missiles of fire.<br/><br/><b><u>Recall Knowledge - Fiend</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 32<br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 32<br/><b><u>Unspecific Lore</u></b>: DC 30<br/><b><u>Specific Lore</u></b>:
-  DC 27'
 dexterity: '+6'
 element: Fire
 fly_speed: '40'

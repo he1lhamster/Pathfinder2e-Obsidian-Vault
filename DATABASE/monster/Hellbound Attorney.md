@@ -10,13 +10,6 @@ creature_ability:
 - Abrogation of Consequences
 - Opening Statement
 creature_family: '[[DATABASE/monsterfamily/Devil|Devil]]'
-description: "The Hellbound attorney sought the assistance of a [[DATABASE/monster/Phistophilus\
-  \ (Contract Devil)|phistophilus]] \u2014one of [[DATABASE/plane/Hell|Hell]] 's contract\
-  \ devils\u2014to bolster her legalistic ability on the [[DATABASE/plane/Material\
-  \ Plane|Material Plane]] .<br/><br/><b><u>Recall Knowledge - Fiend</u> ( [[DATABASE/skill/Religion|Religion]]\
-  \ )</b>: DC 21<br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]\
-  \ )</b>: DC 21<br/><b><u>Unspecific Lore</u></b>: DC 19<br/><b><u>Specific Lore</u></b>:\
-  \ DC 16"
 dexterity: '+2'
 element: null
 fly_speed: null

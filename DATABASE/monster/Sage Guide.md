@@ -1,86 +1,87 @@
 ﻿---
 ac: '22'
-alignment: NG
-all_resistance: null
+alignment: N
+all_resistance: '5'
 burrow_speed: null
-charisma: '+0'
+charisma: '+2'
 climb_speed: null
-constitution: '+3'
+constitution: '+0'
 creature_ability:
-- Anchored Soul
-- Bonded Vessel
-- Inhabit Vessel
-- Reconstitution
-- Spirit Body
-- Spirit Web Trap
-creature_family: null
-description: "The tradition of venerating spiders as wards against vermin, pests,\
-  \ and evil in general far predates the modern [[DATABASE/monster/Jorogumo|jorogumo]]\
-  \ rule, with stone spiders filling a role similar to [[DATABASE/monster/Stone Lion|stone\
-  \ lions]] . Stone spider guardian beasts can be found perched on plinths near town\
-  \ and village entrances, standing motionless\u2014for generations in some cases\u2014\
-  so that many locals have forgotten their local guardian is anything more than a\
-  \ decoration.<br/><br/><b><u>Recall Knowledge - Celestial</u> ( [[DATABASE/skill/Religion|Religion]]\
-  \ )</b>: DC 25<br/><b><u>Unspecific Lore</u></b>: DC 23<br/><b><u>Specific Lore</u></b>:\
-  \ DC 20"
-dexterity: '+5'
+- Bond with Mortal
+- Bonded Strike
+- Empowered Healing
+- Warning Hoot
+creature_family: '[[DATABASE/monsterfamily/Spirit Guide|Spirit Guide]]'
+dexterity: '+3'
 element: null
 fly_speed: '40'
-fortitude: '+10'
+fortitude: '+9'
 hardness: null
-hp: '62'
-id: '2724'
+hp: '75'
+id: '2464'
 immunity:
 - '[[DATABASE/trait/Disease|disease]]'
 - '[[DATABASE/condition/Paralyzed|paralyzed]]'
-- '[[DATABASE/condition/Petrified|petrified]]'
 - '[[DATABASE/trait/Poison|poison]]'
-intelligence: '+1'
-land_speed: null
+- precision
+intelligence: '+2'
+land_speed: '10'
 language:
-- '[[DATABASE/language/Celestial|Celestial]]'
-- '[[DATABASE/language/Common|Common]] ; [[DATABASE/monsterability/Telepathy|telepathy]]
-  60 feet'
+- '[[DATABASE/language/Common|Common]]'
+- '[[DATABASE/language/Sylvan|Sylvan]] ; [[DATABASE/spell/Tongues|tongues]]'
 level: '5'
 max_speed: '40'
-name: Stone Spider
-perception: '+14'
-rarity: Rare
+name: Stone-Breasted Owl
+perception: '+15'
+rarity: Uncommon
 reflex: '+12'
-resistance: null
+resistance:
+- all damage 5 (except [[DATABASE/trait/Force|force]]
+- '[[DATABASE/equipment/Ghost Touch|ghost touch]]'
+- or [[DATABASE/trait/Positive|positive]] ; double resistance vs. non- [[DATABASE/trait/Magical|magical]]
+  )
 rus_type_level: null
 school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
-size: Large
+size: Small
 skill:
 - '[[DATABASE/skill/Acrobatics|Acrobatics]] +12'
-- '[[DATABASE/skill/Athletics|Athletics]] +13'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +9'
-- '[[DATABASE/skill/Religion|Religion]] +14'
-- '[[DATABASE/skill/Lore|Settlement Lore]] +12'
-- '[[DATABASE/skill/Society|Society]] +10'
-source: '[[DATABASE/source/Pathfinder 196. The Summer That Never Was|Pathfinder #196:
-  The Summer That Never Was]]'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +13'
+- '[[DATABASE/skill/Nature|Nature]] +14'
+- '[[DATABASE/skill/Survival|Survival]] +12'
+source: '[[DATABASE/source/Pathfinder 188. They Watched the Stars|Pathfinder #188:
+  They Watched the Stars]]'
 speed:
+- 10 feet
 - fly 40 feet
 spell:
-- '[[DATABASE/spell/Detect Alignment|Detect Alignment]]'
-- '[[DATABASE/spell/Dream Message|Dream Message]]'
-strength: '+4'
-strength_req: '4'
+- '[[DATABASE/spell/Detect Poison|Detect Poison]]'
+- '[[DATABASE/spell/Guidance|Guidance]]'
+- '[[DATABASE/spell/Heal|Heal]]'
+- '[[DATABASE/spell/Know Direction|Know Direction]]'
+- '[[DATABASE/spell/Purify Food and Drink|Purify Food and Drink]]'
+- '[[DATABASE/spell/Remove Disease|Remove Disease]]'
+- '[[DATABASE/spell/Remove Fear|Remove Fear]]'
+- '[[DATABASE/spell/Restore Senses|Restore Senses]]'
+- '[[DATABASE/spell/Stabilize|Stabilize]]'
+- '[[DATABASE/spell/Tongues|Tongues]]'
+strength: '+0'
+strength_req: '0'
 strongest_save:
 - Will
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Celestial|Celestial]]'
-- '[[DATABASE/trait/Rare|Rare]]'
+- '[[DATABASE/trait/Beast|Beast]]'
+- '[[DATABASE/trait/Incorporeal|Incorporeal]]'
+- '[[DATABASE/trait/Spirit|Spirit]]'
+- '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
 weakness: null
-will: '+14'
+will: '+15'
 wisdom: '+5'
 
 ---

@@ -14,17 +14,6 @@ creature_ability:
 - Entropy Sense
 - Protean Anatomy
 creature_family: '[[DATABASE/monsterfamily/Protean|Protean]]'
-description: "Pugnacious and powerfully muscled, naunets serve as scouts and rank-and-file\
-  \ troops of protean armies. Resembling a thick salamander with a wide head, a powerful\
-  \ tail, and tentacles tipped with snapping jaws in place of rear legs, naunets are\
-  \ the most bestial of the proteans and occupy one of their lowest castes. Naunets\
-  \ are 12 feet long and weigh 900 pounds.<br/><br/> All proteans are prone to unpredictable\
-  \ fits and unexpected action, but compared to most others, naunets are much more\
-  \ bestial. Always ready for a fight, naunets pride themselves in acting swiftly\
-  \ and striking before unpleasant distractions like diplomacy can blunt a combat\u2019\
-  s beginning.<br/><br/><b><u>Recall Knowledge - Monitor</u> ( [[DATABASE/skill/Religion|Religion]]\
-  \ )</b>: DC 23<br/><b><u>Unspecific Lore</u></b>: DC 21<br/><b><u>Specific Lore</u></b>:\
-  \ DC 18"
 dexterity: '+3'
 element: null
 fly_speed: '30'

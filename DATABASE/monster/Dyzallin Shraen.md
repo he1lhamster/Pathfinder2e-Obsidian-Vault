@@ -15,34 +15,6 @@ creature_ability:
 - Utter
 - Despair
 creature_family: null
-description: "Dyzallin Shraen wants nothing more than bring the city of Shraen under\
-  \ his sole control. Having secured the <i>aeon orb</i> that Aroden left behind,\
-  \ Dyzallin labors to unlock its secrets.<br/><br/>When House Shraen was exiled from\
-  \ Zirnakaynin for vile religious practices deemed unsavory even by other [[DATABASE/monsterfamily/Drow|drow]]\
-  \ , Dyzallin Shraen sought a new home with the rest of his clan. Many drow perished\
-  \ along the way, including several of Dyzallin's relatives and rivals. Because the\
-  \ survival of the house was at stake and House Shraen didn't balk at the idea of\
-  \ raising their fallen as [[DATABASE/trait/Undead|undead]] , many of his rivals\
-  \ returned\u2014often more powerful than before. By the time the exiled drow house\
-  \ discovered the ancient [[DATABASE/monsterfamily/Xulgath|xulgath]] city that would\
-  \ bear their name, the living among them had become an underprivileged minority.<br/><br/>\
-  \ While Dyzallin was one of the few who had survived the deadly exodus, in the end,\
-  \ he too chose undeath, deeming life detrimental to his quest for power. Leveraging\
-  \ all his connections within his faction, the Sunscar Oath, Dyzallin acquired a\
-  \ set of scrolls detailing a secret method of attaining immortality through mummification\
-  \ atop a specially prepared mirror.<br/><br/> More powerful than ever before, the\
-  \ newly undead Dyzallin swiftly accumulated wealth and influence, rivaling even\
-  \ Zyra and Nyrinda Shraen, the city's leaders. He isn't yet ready to challenge the\
-  \ status quo in Shraen, but he believes his time is near at hand.<br/><br/> Dyzallin\
-  \ has recently focused his attention on the magic orb he learned about in Xul-Khundur.\
-  \ He initially thought the orb was designed to control [[DATABASE/monsterfamily/Cave\
-  \ Worm|cave worms]] ; this power alone he might have leveraged into a plot to surprise\
-  \ and eliminate his rivals. But he learned the orb's true purpose, and believes\
-  \ that its life-giving energies might allow him to utterly destroy the undead kin\
-  \ who stand in his way. He has acquired the orb's resonant reflection, and as a\
-  \ curious side effect, his rotten skin is beginning to heal, and he feels more energetic\
-  \ than he has in millennia. Convinced of the orb's power, Dyzallin believes it is\
-  \ only a matter of time before he unlocks its magic and gains control of Shraen."
 dexterity: '+6'
 element: null
 fly_speed: null

@@ -14,12 +14,6 @@ creature_ability:
 - Smoke Vision
 - Wildfire Storm
 creature_family: null
-description: 'Peris are contrary, artful celestials renowned for their beauty as much
-  as their deceptive natures. Mercurial, though never malicious, peris strive to aid
-  mortals, though they are more likely to dispense riddles and quests than to offer
-  aid outright.<br/><br/><b><u>Recall Knowledge - Celestial</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 32<br/><b><u>Unspecific Lore</u></b>: DC 30<br/><b><u>Specific Lore</u></b>:
-  DC 27'
 dexterity: '+7'
 element: Fire
 fly_speed: null

@@ -16,16 +16,6 @@ creature_ability:
 - Sense
 - Uncanny Pounce
 creature_family: '[[DATABASE/monsterfamily/Siktempora|Siktempora]]'
-description: 'Acts of great and intense love spawn love siktemporas, kindly creatures
-  bearing intense strength that start and end wars in the name of the love that birthed
-  them. These adept combatants form crossbows and bolts out of their emotional bonds,
-  though they typically fight only to protect that which they love. While unable to
-  speak given their featureless faces, they''re nevertheless compassionate listeners
-  and savvy communicators.<br/><br/> Each love siktempora takes the form of two small
-  humanoids conjoined at the hip with three legs, two arms, and two heads. Their faces
-  are completely featureless except for a faint, ever present blush spread across
-  their cheeks, and they always appear garbed in stylish garments from obscure civilizations.<br/><br/><b><u>Unspecific
-  Lore</u></b>: DC 38<br/><b><u>Specific Lore</u></b>: DC 35'
 dexterity: '+9'
 element: null
 fly_speed: null

@@ -11,14 +11,6 @@ creature_ability:
 - Breath Weapon
 - Steam Vision
 creature_family: '[[DATABASE/monsterfamily/Elemental, Mephit|Elemental, Mephit]]'
-description: 'These brash and arrogant creatures are among the more energetic mephits.
-  They are quick to nominate themselves the leaders of any group, barking out orders
-  in shrill, high-pitched voices and insisting on having everything done their way.
-  Even when they aren''t bossing others around, the constant hiss of steam escaping
-  from their pores ensures that there is never a quiet moment.<br/><br/><b><u>Recall
-  Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 17<br/><b><u>Unspecific Lore</u></b>: DC 15<br/><b><u>Specific Lore</u></b>:
-  DC 12'
 dexterity: '+2'
 element: Fire, Water
 fly_speed: '25'

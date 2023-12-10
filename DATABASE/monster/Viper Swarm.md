@@ -11,13 +11,6 @@ creature_ability:
 - Venomous Fangs
 - Viper Swarm Venom
 creature_family: '[[DATABASE/monsterfamily/Snake|Snake]]'
-description: 'The frightening mass of shining scales, gleaming eyes, and fangs dripping
-  with venom that comprise a viper swarm has brought an end to many an unlucky adventurer.
-  Normally nocturnal, these notoriously aggressive snakes strike at anything that
-  comes within reach, be it limb or weapon. Their venom is a potent toxin that leaves
-  victims shaky and weak.<br/><br/><b><u>Recall Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 19<br/><b><u>Unspecific Lore</u></b>: DC 17<br/><b><u>Specific Lore</u></b>:
-  DC 14'
 dexterity: '+5'
 element: null
 fly_speed: null

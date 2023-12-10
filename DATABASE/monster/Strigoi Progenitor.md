@@ -16,16 +16,6 @@ creature_ability:
 - ''
 - Shadow Form
 creature_family: '[[DATABASE/monsterfamily/Vampire, Strigoi|Vampire, Strigoi]]'
-description: 'The most powerful strigoi are those intentionally summoned into the
-  bodies of willing hosts in times long past. As the rites to do so are lost to time,
-  very few strigoi progenitors exist today. Those who do trace their lives back well
-  over ten thousand years ago to Thassilon, Azlant, or similar ancient empires. A
-  strigoi progenitor may appear to possess the vitality of the living, yet closer
-  inspection reveals sharp fangs, the faintest smell of decay, and the strange and
-  unsettling shifting of their shadow. In life, this example strigoi progenitor was
-  a powerful oracle and advisor in Runelord Sorshen''s nation of Eurythnia.<br/><br/><b><u>Recall
-  Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 36<br/><b><u>Unspecific
-  Lore</u></b>: DC 34<br/><b><u>Specific Lore</u></b>: DC 31'
 dexterity: '+8'
 element: null
 fly_speed: '25'

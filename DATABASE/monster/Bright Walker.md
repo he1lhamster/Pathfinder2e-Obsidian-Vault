@@ -14,15 +14,6 @@ creature_ability:
 - Shadow Jump
 - Suppress Aura
 creature_family: null
-description: 'Those who encounter [[DATABASE/monsterfamily/Caligni|calignis]] quickly
-  learn that their deaths involve burning out instead of bleeding out. At times, this
-  dramatic immolation is denied to a caligni, so they arise as a bright walker. Tied
-  to caligni society, these creatures don''t understand that their glow damages and
-  repels living calignis. Despite their name, these undead don''t walk; they instead
-  float a few inches above the ground.<br/><br/><b><u>Recall Knowledge - Spirit</u>
-  ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 31<br/><b><u>Recall Knowledge
-  - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 31<br/><b><u>Unspecific
-  Lore</u></b>: DC 29<br/><b><u>Specific Lore</u></b>: DC 26'
 dexterity: '+6'
 element: null
 fly_speed: '25'

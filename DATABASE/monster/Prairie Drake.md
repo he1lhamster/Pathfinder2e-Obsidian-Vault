@@ -11,32 +11,6 @@ creature_ability:
 - Draconic Frenzy
 - Speed Surge
 creature_family: '[[DATABASE/monsterfamily/Drake|Drake]]'
-description: "These squat, mud-brown drakes resemble scaly pit bulls with blunt, toothy\
-  \ snouts. The [[DATABASE/monster/Desert Drake|desert drake]] is the prairie drake's\
-  \ closest known relative, as both share a strong affinity for earth, can burrow\
-  \ through soil, and hack up balls of dirt that they aim at enemies. But whereas\
-  \ a desert drake is sleek and nimble, flying through lightning storms and siroccos\
-  \ with ease, the prairie drake has all the grace of a chicken, barely able to flutter\
-  \ clumsily up a low hill or over a boulder. Owing to their largely vestigial wings,\
-  \ it's no wonder prairie drakes prefer burrowing over soaring.<br/><br/> The average\
-  \ prairie drake has a temperament similar to that of a wicked child who delights\
-  \ in tormenting others. They ambush tiny animals from underground and play with\
-  \ their food thoroughly before eating. To assert their supremacy over other scrubland\
-  \ predators, prairie drakes knock down their rivals and attack them mercilessly.\
-  \ They often make grisly displays from the corpses of their foes to intimidate other\
-  \ would-be competitors.<br/><br/> Prairie drakes build and live in burrow mounds\
-  \ just beneath the surface of their environs. They make shallow tunnels in search\
-  \ of large insects, rodents, and ground snakes. Prairie drakes' presence helps to\
-  \ turn the topsoil and encourage new plant growth, supporting other animal life\
-  \ and making them a keystone species for the environment. Even their breath weapon\
-  \ leaves behind rich \u201Cdrake soil,\u201D coveted by farmers and gardeners for\
-  \ the potent effects it has on plants. Being seen as \u201Cuseful\u201D or \u201C\
-  beneficial\u201D annoys most prairie drakes, who believe such a reputation makes\
-  \ them look weak and conflicts with their \u201Capex predator\u201D mystique. After\
-  \ they've gotten too much positive attention, a prairie drake is apt to murder a\
-  \ farm animal or destroy croplands only to prove that they're far from harmless.<br/><br/><b><u>Recall\
-  \ Knowledge - Dragon</u> ( [[DATABASE/skill/Arcana|Arcana]] )</b>: DC 18<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>: DC 13"
 dexterity: '+2'
 element: Earth
 fly_speed: '10'

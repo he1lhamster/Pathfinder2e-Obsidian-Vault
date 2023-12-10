@@ -11,10 +11,6 @@ creature_ability:
 - Sticky Feet
 - Toxic Skin
 creature_family: '[[DATABASE/monsterfamily/Frog|Frog]]'
-description: 'The spear frog is named for its toxin, which is traditionally used to
-  envenom thrown projectiles like spears and daggers.<br/><br/><b><u>Recall Knowledge
-  - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 14<br/><b><u>Unspecific
-  Lore</u></b>: DC 12<br/><b><u>Specific Lore</u></b>: DC 9'
 dexterity: '+3'
 element: null
 fly_speed: null

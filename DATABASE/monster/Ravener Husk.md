@@ -12,15 +12,6 @@ creature_ability:
 - Frightful Presence
 - Ravenous Repast
 creature_family: '[[DATABASE/monsterfamily/Ravener|Ravener]]'
-description: 'Raveners require a steady diet of souls, and a ravener that''s unable
-  to feed for too long eventually cannibalizes their own soul. Should a ravener''s
-  soul ward ever be reduced to 0 Hit Points by hunger while the ravener has more than
-  1 Hit Point (see Soul Ward), they lose all traces of their former identity and descend
-  into a feral, nearly mindless state. Even if a ravener husk later consumes soul
-  energy, the transformation can be reversed only via Ravenous Repast.<br/><br/><b><u>Recall
-  Knowledge - Dragon</u> ( [[DATABASE/skill/Arcana|Arcana]] )</b>: DC 37<br/><b><u>Recall
-  Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 37<br/><b><u>Unspecific
-  Lore</u></b>: DC 35<br/><b><u>Specific Lore</u></b>: DC 32'
 dexterity: '+0'
 element: null
 fly_speed: '180'

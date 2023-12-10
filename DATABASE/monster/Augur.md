@@ -1,85 +1,51 @@
 ﻿---
-ac: '17'
-alignment: LE
+ac: null
+alignment: null
 all_resistance: null
 burrow_speed: null
-charisma: '-1'
+charisma: null
 climb_speed: null
-constitution: '+1'
-creature_ability:
-- Feel the Blades
-- Focus Gaze
-- Painsight
-- Whirling Slice
-creature_family: '[[DATABASE/monsterfamily/Velstrac|Velstrac]]'
-description: 'These spherical knots of sinewy muscle, serrated blades, and bloody
-  metal are the most common velstracs on the [[DATABASE/plane/Shadow Plane|Shadow
-  Plane]] . Each augur has only a single eye, from which they can see the horrors
-  inflicted by other velstracs, who train the augur to expect and appreciate pain.
-  Augurs are 1 foot in diameter and weigh 30 pounds.<br/><br/><b><u>Recall Knowledge
-  - Fiend</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 15<br/><b><u>Unspecific
-  Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>: DC 10'
-dexterity: '+3'
+constitution: null
+creature_ability: null
+creature_family: null
+dexterity: null
 element: null
-fly_speed: '40'
-fortitude: '+4'
+fly_speed: null
+fortitude: null
 hardness: null
-hp: '14'
-id: '847'
-immunity:
-- cold
-intelligence: '+2'
-land_speed: '20'
-language:
-- '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Infernal|Infernal]]'
-- '[[DATABASE/language/Shadowtongue|Shadowtongue]] ; (can''t speakany language)'
-level: '1'
-max_speed: '40'
+hp: null
+id: '460'
+immunity: null
+intelligence: null
+land_speed: null
+language: null
+level: null
+max_speed: null
 name: Augur
-perception: '+8'
-rarity: Common
-reflex: '+10'
+perception: null
+rarity: null
+reflex: null
 resistance: null
 rus_type_level: null
 school: null
-sense:
-- '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
-- painsight
-size: Tiny
-skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +8'
-- '[[DATABASE/skill/Deception|Deception]] +6'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +7'
-- '[[DATABASE/skill/Religion|Religion]] +4'
-- '[[DATABASE/skill/Stealth|Stealth]] +8'
-- '[[DATABASE/skill/Lore|Torture Lore]] +7'
-source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
-speed:
-- 20 feet
-- fly 40 feet
-spell:
-- '[[DATABASE/spell/Augury|Augury]]'
-- '[[DATABASE/spell/Harm|Harm]]'
-- '[[DATABASE/spell/Mage Hand|Mage Hand]]'
-- '[[DATABASE/spell/Read Omens|ReadOmens]]'
-strength: '-1'
-strength_req: '-1'
-strongest_save:
-- Reflex
+sense: null
+size: null
+skill: null
+source: '[[DATABASE/source/Pathfinder 147. Tomorrow Must Burn|Pathfinder #147: Tomorrow
+  Must Burn]]'
+speed: null
+spell: null
+strength: null
+strength_req: null
+strongest_save: null
 swim_speed: null
-trait:
-- '[[DATABASE/trait/Fiend|Fiend]]'
-- '[[DATABASE/trait/Velstrac|Velstrac]]'
-type: Creature
-vision: Greater darkvision
-weakest_save:
-- Fortitude
-weakness:
-- good 5
-- silver 5
-will: '+7'
-wisdom: '+1'
+trait: null
+type: null
+vision: null
+weakest_save: null
+weakness: null
+will: null
+wisdom: null
 
 ---
 # Augur

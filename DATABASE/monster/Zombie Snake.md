@@ -10,10 +10,6 @@ creature_ability:
 - Filth Fever
 - Slow
 creature_family: '[[DATABASE/monsterfamily/Zombie|Zombie]]'
-description: 'At around 5 feet long, this massive, rotting serpent lacks potent venom,
-  but its bite still injects putrid fluid that can cause infection.<br/><br/><b><u>Recall
-  Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 14<br/><b><u>Unspecific
-  Lore</u></b>: DC 12<br/><b><u>Specific Lore</u></b>: DC 9'
 dexterity: '+1'
 element: null
 fly_speed: null

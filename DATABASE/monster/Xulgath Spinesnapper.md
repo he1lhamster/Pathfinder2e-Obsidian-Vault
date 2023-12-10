@@ -11,19 +11,6 @@ creature_ability:
 - Choke Slam
 - Stench
 creature_family: '[[DATABASE/monsterfamily/Xulgath|Xulgath]]'
-description: "Xulgath physiological diversity doesn\u2019t always imply drastic change;\
-  \ some xulgaths are simply much larger and stronger than their clutchmates. Most\
-  \ xulgaths call such siblings spinesnappers, though terms like bonebreaker, marrowvent,\
-  \ or similarly violent epithets are equally common. A typical spinesnapper is 9\
-  \ feet tall and weighs 350 pounds.<br/><br/> In battle, spinesnappers have all the\
-  \ speed, grace, and strength of a sledgehammer. They are ideal shock troops and\
-  \ make a good first line of defense. When an inter-clutch conflict leads to a duel,\
-  \ spinesnappers are typically called upon to rise to the challenge. In this case,\
-  \ a spinesnapper representative from each clutch squares off for what is in theory\
-  \ a nonlethal wrestling match, after which the winner scrapes off some of the loser\u2019\
-  s scales as a trophy.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]\
-  \ )</b>: DC 20<br/><b><u>Unspecific Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>:\
-  \ DC 15"
 dexterity: '+1'
 element: null
 fly_speed: null

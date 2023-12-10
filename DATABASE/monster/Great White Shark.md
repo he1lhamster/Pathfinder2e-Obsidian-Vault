@@ -12,11 +12,6 @@ creature_ability:
 - Savage
 - Strafing Chomp
 creature_family: '[[DATABASE/monsterfamily/Shark|Shark]]'
-description: 'An apex predator among the coastal surface waters where it hunts, the
-  great white shark is one of the largest shark species. These silent killers glide
-  gracefully through the ocean, always in search of their next meal.<br/><br/><b><u>Recall
-  Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 19<br/><b><u>Unspecific
-  Lore</u></b>: DC 17<br/><b><u>Specific Lore</u></b>: DC 14'
 dexterity: '+2'
 element: null
 fly_speed: null

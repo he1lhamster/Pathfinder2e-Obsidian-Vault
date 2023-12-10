@@ -10,16 +10,6 @@ creature_ability:
 - Covetous of Secrets
 - Doru Venom
 creature_family: '[[DATABASE/monsterfamily/Div|Div]]'
-description: 'These deceivers whisper fetid lies, sowing dark and dread inspiration
-  into foolish mortal ears. Dorus serve as the spies and messengers of the divs. With
-  silver tongues and dark motives, they often pledge themselves to vainglorious and
-  deluded spellcasters, who they ply with wild conspiracies and rumors of deception
-  among friends and foes alike; in the process, they push supposed masters to despotism
-  and murderous revenge. All the while, dorus wean secrets, and weaknesses, from their
-  marks. In the end, nearly every doru turns on their false liege, destroying the
-  reputation and even causing the death of the person the doru pretended to serve.<br/><br/><b><u>Recall
-  Knowledge - Fiend</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 15<br/><b><u>Unspecific
-  Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>: DC 10'
 dexterity: '+4'
 element: null
 fly_speed: '30'

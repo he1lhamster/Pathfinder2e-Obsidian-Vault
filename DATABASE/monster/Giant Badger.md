@@ -10,13 +10,6 @@ creature_ability:
 - Badger Rage
 - Ferocity
 creature_family: '[[DATABASE/monsterfamily/Badger|Badger]]'
-description: 'The violent, territorial giant badger is a relentless predator. An obligate
-  carnivore, its prey ranges from rabbits to deer, livestock, and even the occasional
-  traveler or adventurer. A giant badger''s claws are sharp and strong enough to carve
-  tunnels from solid rock. They typically stand 4 feet tall at the shoulder and weigh
-  500 pounds.<br/><br/><b><u>Recall Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 16<br/><b><u>Unspecific Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>:
-  DC 11'
 dexterity: '+1'
 element: null
 fly_speed: null

@@ -13,18 +13,6 @@ creature_ability:
 - Change Shape
 - Souleater
 creature_family: '[[DATABASE/monsterfamily/Vilderavn|Vilderavn]]'
-description: "In their true form, a vilderavn is a great raven with a wingspan of\
-  \ 6\u20138 feet. Adaptable shapeshifters, they can change to the fighting forms\
-  \ of a snarling wolf, a hybrid of both wolf and raven, and a tall humanoid in black\
-  \ armor with a massive greatsword. More sinister is their ability to assume a humanoid\
-  \ guise suited to insinuate themselves into the retinues of boastful mortal rulers.\
-  \ With historical knowledge and clever rumor-mongering, they goad the proud into\
-  \ squabbles, feuds, and ultimately wars. The vilderavn stays at the ruler's side\
-  \ until victory is within grasp, the war almost won, then exacts the cruel stroke\
-  \ of betrayal. Their magic turns the mortals against each other, and the vilderavn's\
-  \ sword falls swiftly.<br/><br/><b><u>Recall Knowledge - Fey</u> ( [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 40<br/><b><u>Unspecific Lore</u></b>: DC 38<br/><b><u>Specific Lore</u></b>:\
-  \ DC 35"
 dexterity: '+6'
 element: null
 fly_speed: '120'

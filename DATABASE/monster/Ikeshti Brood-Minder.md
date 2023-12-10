@@ -9,11 +9,6 @@ constitution: '+3'
 creature_ability:
 - Squirt Blood
 creature_family: '[[DATABASE/monsterfamily/Ikeshti|Ikeshti]]'
-description: 'Ikeshti young are near-mindless carnivores. They are watched over by
-  brood-minders, male ikeshtis with a talent for influencing the ravenous spawn, who
-  protect the tiny creatures until they grow into responsible adults.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 16<br/><b><u>Unspecific
-  Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>: DC 11'
 dexterity: '+4'
 element: null
 fly_speed: null

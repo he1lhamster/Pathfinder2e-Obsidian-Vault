@@ -12,12 +12,6 @@ creature_ability:
 - Scoundrel's Feint
 - Sneak Attack
 creature_family: '[[DATABASE/monsterfamily/Criminals|Criminals]]'
-description: 'The longer criminals hold on to stolen loot, the greater the chance
-  they will get caught. Fences make themselves indispensable in the underworld by
-  paying for stolen goods in order to resell them later, whether through a seemingly
-  legitimate business or to a closed group of elite buyers.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 20<br/><b><u>Unspecific
-  Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>: DC 15'
 dexterity: '+3'
 element: null
 fly_speed: null

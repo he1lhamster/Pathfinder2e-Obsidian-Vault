@@ -12,19 +12,6 @@ creature_ability:
 - Shadow Breath
 - Twilight Aura
 creature_family: null
-description: "Shadowforged guardians are created through the intricate and dangerous\
-  \ process of siphoning penumbral energies and matter from the [[DATABASE/plane/Shadow\
-  \ Plane|Shadow Plane]] and then binding them to a physical skeleton of wood and\
-  \ metal.<br/><br/> The first shadowforged guardians were created thousands of years\
-  \ ago in Nidal and were usually crafted in the likeness of that nation's patron\
-  \ deity, [[DATABASE/deity/Zon-Kuthon|Zon-Kuthon]] . Shadowforged guardians are understandably\
-  \ in high demand; unfortunately, only the person who speaks a special word or phrase\
-  \ at the moment of the construct's creation can command it. Those who know the hidden\
-  \ formula to craft these constructs guard the secret well and only a few shadowcasters\
-  \ deign to create these guardians on another person's behalf\u2014for a hefty price.<br/><br/><b><u>Recall\
-  \ Knowledge - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]]\
-  \ )</b>: DC 32<br/><b><u>Unspecific Lore</u></b>: DC 30<br/><b><u>Specific Lore</u></b>:\
-  \ DC 27"
 dexterity: '+5'
 element: null
 fly_speed: '30'

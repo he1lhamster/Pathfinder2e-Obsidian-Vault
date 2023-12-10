@@ -13,10 +13,6 @@ creature_ability:
 - Enormous
 - Trample
 creature_family: '[[DATABASE/monsterfamily/Animated Object|Animated Object]]'
-description: 'Animating a 100-foot-tall statue is worth the cost for spellcasters
-  guarding immense dungeons.<br/><br/><b><u>Recall Knowledge - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Crafting|Crafting]] )</b>: DC 34<br/><b><u>Unspecific Lore</u></b>:
-  DC 32<br/><b><u>Specific Lore</u></b>: DC 29'
 dexterity: '+2'
 element: null
 fly_speed: null

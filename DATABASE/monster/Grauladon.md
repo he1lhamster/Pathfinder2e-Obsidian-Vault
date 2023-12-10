@@ -12,25 +12,6 @@ creature_ability:
 - Noxious Breath
 - Reactive Breath
 creature_family: null
-description: "Grauladons are vicious predators that appear crocodilian in form, but\
-  \ are in fact distant offshoots of dragonkind. They make their dens in the shallows\
-  \ of fetid ponds or isolated corners of larger bodies of water, usually in rural\
-  \ swamps or woodlands. Driven almost entirely by their base desire to feed, grauladons\
-  \ spend most of their time swimming leisurely underwater looking for prey such as\
-  \ fish or waterfowl. Possessed of a greed befitting their more majestic dragon cousins,\
-  \ grauladons often take down prey larger than they need, jealously guarding the\
-  \ corpses to keep scavengers away even as the meat rots. A typical grauladon is\
-  \ 16 feet long from its snout to the tip of its tail and weighs 1,500 pounds.<br/><br/>\
-  \ A grauladon\u2019s stench may seem supernaturally disgusting, but it is simply\
-  \ the result of the creature\u2019s fetid habitat and diet of rotting, waterlogged\
-  \ meat. As grauladons\u2019 exhalations bear a passing resemblance to dragons\u2019\
-  \ breath, they have earned the nickname \u201Cmud drakes\u201D from rural folk.<br/><br/>\
-  \ Grauladons can be found in both fresh and brackish water in most temperate climates.\
-  \ They prefer to lair in shallow waters, particularly where reeds or other foliage\
-  \ conceal their bulk from unsuspecting prey. Grauladons are highly territorial and\
-  \ won\u2019t tolerate other predators living or hunting near their homes.<br/><br/><b><u>Recall\
-  \ Knowledge - Dragon</u> ( [[DATABASE/skill/Arcana|Arcana]] )</b>: DC 18<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>: DC 13"
 dexterity: '+0'
 element: null
 fly_speed: null

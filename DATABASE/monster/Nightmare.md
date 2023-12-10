@@ -10,11 +10,6 @@ creature_ability:
 - Flaming Gallop
 - Smoke
 creature_family: '[[DATABASE/monsterfamily/Nightmare|Nightmare]]'
-description: 'Nightmares are flaming equine harbingers of death.<br/><br/><b><u>Recall
-  Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 22<br/><b><u>Recall Knowledge - Fiend</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 22<br/><b><u>Unspecific Lore</u></b>: DC 20<br/><b><u>Specific Lore</u></b>:
-  DC 17'
 dexterity: '+3'
 element: null
 fly_speed: '90'

@@ -13,10 +13,6 @@ creature_ability:
 - Emotional Consumption
 - Spotlight
 creature_family: null
-description: 'Theater phantasms are amalgamations of the spiritual and emotional energy
-  given up by entertainers and audiences of powerful performances.<br/><br/><b><u>Recall
-  Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 37<br/><b><u>Unspecific
-  Lore</u></b>: DC 35<br/><b><u>Specific Lore</u></b>: DC 32'
 dexterity: '+4'
 element: null
 fly_speed: '40'

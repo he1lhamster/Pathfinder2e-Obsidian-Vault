@@ -12,16 +12,6 @@ creature_ability:
 - Four-Fanged Assault
 - Reflect Spell
 creature_family: '[[DATABASE/monsterfamily/Rakshasa|Rakshasa]]'
-description: 'The most powerful of all rakshasas, maharajas form very rarely, never
-  more than once or twice a century, and only from the reincarnated spirits of other
-  powerful and wicked rakshasas. The birth of a new maharaja rakshasa is a momentous
-  occasion, and less powerful rakshasas will seek to curry favor with the new maharaja
-  at an early age. Each maharaja rakshasa is unique and boasts their own selection
-  of spells. All are generally humanoid save for their many heads, which always number
-  at least four and can range up to a dozen. One of these heads tends to be humanoid,
-  while the others take the forms of cats, snakes, and other predatory animals.<br/><br/><b><u>Recall
-  Knowledge - Fiend</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 45<br/><b><u>Unspecific
-  Lore</u></b>: DC 43<br/><b><u>Specific Lore</u></b>: DC 40'
 dexterity: '+9'
 element: null
 fly_speed: '30'

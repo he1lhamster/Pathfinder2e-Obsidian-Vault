@@ -9,10 +9,6 @@ constitution: '+3'
 creature_ability:
 - Pitch Bale
 creature_family: '[[DATABASE/monsterfamily/Laborers|Laborers]]'
-description: 'Workers of the fields, vineyards, and orchards of the world, farmers
-  are known for their rugged endurance and their skill with both plants and animals.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 14<br/><b><u>Unspecific
-  Lore</u></b>: DC 12<br/><b><u>Specific Lore</u></b>: DC 9'
 dexterity: '+1'
 element: null
 fly_speed: null

@@ -13,12 +13,6 @@ creature_ability:
 - Mindfog Aura
 - Seugathi Venom
 creature_family: '[[DATABASE/monsterfamily/Seugathi|Seugathi]]'
-description: 'The most common seugathis spawned by [[DATABASE/monster/Neothelid|neothelids]]
-  are seugathi servants. Their masters equip them with tools useful in their tasks
-  (often a wand and a weapon), and they rarely value other material things beyond
-  their usefulness in completing their imprinted mission.<br/><br/><b><u>Recall Knowledge
-  - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 24<br/><b><u>Unspecific
-  Lore</u></b>: DC 22<br/><b><u>Specific Lore</u></b>: DC 19'
 dexterity: '+5'
 element: null
 fly_speed: null

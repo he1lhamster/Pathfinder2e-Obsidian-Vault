@@ -1,66 +1,76 @@
 ﻿---
-ac: '14'
-alignment: CE
+ac: '25'
+alignment: LE
 all_resistance: null
 burrow_speed: null
-charisma: '+1'
+charisma: '+2'
 climb_speed: null
 constitution: '+2'
 creature_ability:
-- Gang Up
+- Concussive Fist
+- Golden Bullets
+- One-Two Punch
+- Quickest Draw
+- Reload Trick
+- Sneak Attack
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 18<br/><b><u>Unspecific
-  Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>: DC 13'
-dexterity: '+3'
+dexterity: '+4'
 element: null
 fly_speed: null
-fortitude: '+4'
-hp: '8'
-id: '2742'
+fortitude: '+15'
+hp: '120'
+id: '1978'
 immunity: null
-intelligence: '+1'
-land_speed: '25'
+intelligence: '+0'
+land_speed: '30'
 language:
 - '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Thassilonian|Thassilonian]]'
-level: '-1'
-max_speed: '25'
-name: Rustsworn Initiate
-perception: '+2'
-rarity: Rare
-reflex: '+7'
+- '[[DATABASE/language/Elven|Elven]]'
+- '[[DATABASE/language/Kelish|Kelish]]'
+- '[[DATABASE/language/Osiriani|Osiriani]]'
+level: '7'
+max_speed: '30'
+name: Sabora Sharkosa
+perception: '+16'
+rarity: Unique
+reflex: '+17'
 resistance: null
 rus_type_level: null
-sense: null
+sense:
+- '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
 size: Medium
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +5'
-- '[[DATABASE/skill/Deception|Deception]] +3'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +3'
-- '[[DATABASE/skill/Religion|Religion]] +2'
-- '[[DATABASE/skill/Stealth|Stealth]] +5'
-- '[[DATABASE/skill/Thievery|Thievery]] +5'
-source: '[[DATABASE/source/Rusthenge|Rusthenge]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +17'
+- '[[DATABASE/skill/Lore|Alkenstar Lore]] +11'
+- '[[DATABASE/skill/Athletics|Athletics]] +17'
+- '[[DATABASE/skill/Deception|Deception]] +15'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +15'
+- '[[DATABASE/skill/Society|Society]] +11'
+- '[[DATABASE/skill/Stealth|Stealth]] +17'
+- '[[DATABASE/skill/Thievery|Thievery]] +17'
+source: '[[DATABASE/source/Pathfinder 179. Cradle of Quartz|Pathfinder #179: Cradle
+  of Quartz]]'
 speed:
-- 25 feet
+- 30 feet
 spell: null
-strength: '+0'
-strength_req: '0'
+strength: '+4'
+strength_req: '4'
 strongest_save:
 - Reflex
 swim_speed: null
 trait:
+- '[[DATABASE/trait/Elf|Elf]]'
+- '[[DATABASE/trait/Half-Elf|Half-Elf]]'
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
-- '[[DATABASE/trait/Rare|Rare]]'
+- '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
+vision: Low-light vision
 weakest_save:
 - Will
 weakness: null
-will: '+2'
-wisdom: '+0'
+will: '+13'
+wisdom: '+1'
 
 ---
 # Sabora Sharkosa, Leader Of The Gilded Gunners

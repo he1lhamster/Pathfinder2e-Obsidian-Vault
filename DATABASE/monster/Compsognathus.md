@@ -9,22 +9,6 @@ constitution: '+2'
 creature_ability:
 - Compsognathus Venom
 creature_family: '[[DATABASE/monsterfamily/Dinosaur|Dinosaur]]'
-description: 'The compsognathus is a small bipedal dinosaur that moves in swift, darting
-  motions. Its bite injects a venom that causes numbness and weakness, a trait that
-  the animal uses to bring down larger prey, although it prefers to scavenge food
-  or snatch up insects and other smaller creatures for its meals. The compsognathus
-  is curious to a fault; most encounters that result in combat with these diminutive
-  dinosaurs result not from the creatures'' hunger but from frightened defensive reactions
-  when the dinosaurs'' inquisitive natures compel them to enter into situations (such
-  as wagons or bedrolls) that inadvertently put them at odds with surprised adventurers.<br/><br/>A
-  compsognathus measures 3 feet long from its head to the tip of its tail and weighs
-  15 pounds. It is small enough to serve as a house pet or even as a familiar for
-  a spellcaster. In cases where magical links aren''t involved, however, those encountering
-  or keeping the creatures would be well-advised to treat them with the same caution
-  one might extend to a pet viper or other poisonous reptile, as they are at best
-  partly tame.<br/><br/><b><u>Recall Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 13<br/><b><u>Unspecific Lore</u></b>: DC 11<br/><b><u>Specific Lore</u></b>:
-  DC 8'
 dexterity: '+3'
 element: null
 fly_speed: null

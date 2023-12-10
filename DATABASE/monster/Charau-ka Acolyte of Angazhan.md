@@ -10,13 +10,6 @@ creature_ability:
 - Shrieking Frenzy
 - Thrown Weapon Mastery
 creature_family: '[[DATABASE/monsterfamily/Charau-ka|Charau-ka]]'
-description: 'Even with the Gorilla King''s fall, many charau-ka still worship the
-  terrible might of the god [[DATABASE/deity/Angazhan|Angazhan]] . The strongest of
-  these acolytes guard the steps of the High Throne in Usaro, ensuring that no one
-  without Angazhan''s favor or suitable physical prowess can approach the top of the
-  massive stone step pyramid. <br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 18<br/><b><u>Unspecific Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>:
-  DC 13'
 dexterity: '+2'
 element: null
 fly_speed: null

@@ -13,11 +13,6 @@ creature_ability:
 - Great Despair
 - Snow Vision
 creature_family: '[[DATABASE/monsterfamily/Mummy|Mummy]]'
-description: 'The cold of high places coupled with strong winds and less oxygen creates
-  an effect that can preserve bodies, mummifying them through natural processes. Many
-  are created deliberately by cults, and a rare few voluntarily transform.<br/><br/><b><u>Recall
-  Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 26<br/><b><u>Unspecific
-  Lore</u></b>: DC 24<br/><b><u>Specific Lore</u></b>: DC 21'
 dexterity: '+3'
 element: null
 fly_speed: null

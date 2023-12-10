@@ -10,41 +10,6 @@ creature_ability:
 - Bramble Jump
 - Splinter Spray
 creature_family: null
-description: "Maladjusted forest denizens, twigjacks form from the cruel and prankish\
-  \ combination of fey and the very woods in which they reside. A twigjack's body\
-  \ is made up of prickly brambles woven with vines. Shaggy, mossy growth, not unlike\
-  \ hair, tops a twigjack's head. Its mouth is just a canyon of splintered and broken\
-  \ sticks bisecting its face. Leaves and sprigs of new growth randomly sprout from\
-  \ the creature's body. Many dense forests on Golarion have at least a handful of\
-  \ twigjacks living in the undergrowth.<br/><br/> While truculent and violent, twigjacks\
-  \ care deeply for what they consider to be their forests. These creatures harass\
-  \ outsiders who delve deep into their wooded domains, forcing back even the most\
-  \ determined explorers, foresters, and travelers, especially when those intruders\
-  \ cut roads through the forest. However, they are not terribly territorial when\
-  \ it comes to other forest creatures. When sylvan creatures, especially [[DATABASE/trait/Fey|fey]]\
-  \ , rally against an outside threat, twigjacks in the area eagerly arrive to fight,\
-  \ even if they were not invited.<br/><br/> Less seasoned travelers who encounter\
-  \ twigjacks in their canopied homes often mistake them for [[DATABASE/monsterfamily/Leshy|leshys]]\
-  \ , a tendency that frustrates twigjacks, as they have a low opinion of such creatures.\
-  \ More broadly, twigjacks resent being considered mere animated plants at all. Rather,\
-  \ they embrace their fey heritage\u2014often to a foolish end. Twigjacks go out\
-  \ of their way to ingratiate themselves to the fey creatures they live among. Several\
-  \ popular comic songs weave the tale of a twigjack attempting to woo a powerful\
-  \ and graceful [[DATABASE/monster/Dryad|dryad]] , only to be comically disgraced\
-  \ after many loutish attempts. Many fey seem embarrassed by these strange cousins,\
-  \ but some [[DATABASE/monsterfamily/Spriggan|spriggans]] , [[DATABASE/monster/Quickling|quicklings]]\
-  \ , and [[DATABASE/monster/Redcap|redcaps]] harness the twigjacks' violent urges\
-  \ and disruptive behavior for their own purposes.<br/><br/> While twigjacks are\
-  \ fey, and as such are often found in the [[DATABASE/plane/First World|First World]]\
-  \ , it's somewhat curious that those twigjacks who find religion only rarely turn\
-  \ to the Eldest of the First World. Instead, twigjacks tend to worship false deities\
-  \ of their own design: figures spotted in tangles of tree branches, clots of undergrowth,\
-  \ or other hidden nooks in the natural world. These religions are always highly\
-  \ localized, and while these faiths do not support clerics, they often inspire zealous\
-  \ crusades against non-fey.<br/><br/><b><u>Recall Knowledge - Fey</u> ( [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 18<br/><b><u>Recall Knowledge - Plant</u> ( [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 18<br/><b><u>Unspecific Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>:\
-  \ DC 13"
 dexterity: '+4'
 element: null
 fly_speed: null

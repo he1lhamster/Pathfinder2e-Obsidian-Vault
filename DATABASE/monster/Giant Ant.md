@@ -10,10 +10,6 @@ creature_ability:
 - Giant Ant Venom
 - Haul Away
 creature_family: '[[DATABASE/monsterfamily/Ant|Ant]]'
-description: 'Giant ants are much like their smaller kin in their industrious habits,
-  though growing to the size of ponies makes them much deadlier.<br/><br/><b><u>Recall
-  Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 16<br/><b><u>Unspecific
-  Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>: DC 11'
 dexterity: '+1'
 element: null
 fly_speed: null

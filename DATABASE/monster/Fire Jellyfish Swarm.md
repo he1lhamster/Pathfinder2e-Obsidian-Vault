@@ -11,14 +11,6 @@ creature_ability:
 - Burning Swarm
 - Fire Jelly Venom
 creature_family: '[[DATABASE/monsterfamily/Jellyfish|Jellyfish]]'
-description: "While individually one of these fist-sized jellyfish is merely a nuisance,\
-  \ in great numbers, fire jellyfish can form into dangerous swarms. Bobbing in the\
-  \ water, they create a cloud of stinging tentacles. They were named in part for\
-  \ their bright coloration, but those who are stung by fire jellyfish learn the larger\
-  \ reason for their name\u2014the pain of their stings is comparable to being burned\
-  \ alive.<br/><br/><b><u>Recall Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 22<br/><b><u>Unspecific Lore</u></b>: DC 20<br/><b><u>Specific Lore</u></b>:\
-  \ DC 17"
 dexterity: '+5'
 element: null
 fly_speed: null

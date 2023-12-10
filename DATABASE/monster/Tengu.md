@@ -1,90 +1,68 @@
 ﻿---
-ac: '39'
-alignment: NE
+ac: '19'
+alignment: CN
 all_resistance: null
 burrow_speed: null
-charisma: '+5'
+charisma: '+1'
 climb_speed: null
-constitution: '+9'
+constitution: '+1'
 creature_ability:
-- Attack of Opportunity
-- Catch Rock
-- Cloying Shadows
-- Tenebric Stride
-- Throw Rock
+- Go for the Eyes
+- Sneak Attack
+- Surprise Attacker
 creature_family: null
-description: 'Necromancers reaching for the greatest heights of experimentation know
-  that creating a new terror requires exacting, careful work at every stage of the
-  process. In the case of the tenebric giant, this process begins with a [[DATABASE/monster/Tomb
-  Giant|tomb giant]] who dies after consuming a dose of several poisons combined with
-  the [[DATABASE/equipment/Shadow Ash|shadow ash]] reagent. This creates the right
-  circumstances for a necromancer to raise them as a tenebric giant. They''re particularly
-  obedient to the will of the necromancer who created them and are charged full of
-  energy from the [[DATABASE/plane/Shadow Plane|Shadow Plane]] , which grants them
-  new powers and abilities.<br/><br/><b><u>Recall Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 41<br/><b><u>Unspecific Lore</u></b>: DC 39<br/><b><u>Specific Lore</u></b>:
-  DC 36'
 dexterity: '+4'
 element: null
 fly_speed: null
-fortitude: '+32'
+fortitude: '+7'
 hardness: null
-hp: 360 ( negative healing )
-id: '2366'
-immunity:
-- '[[DATABASE/trait/Death|death]] effects'
-- '[[DATABASE/trait/Disease|disease]]'
-- '[[DATABASE/trait/Mental|mental]]'
-- '[[DATABASE/condition/Paralyzed|paralyzed]]'
-- '[[DATABASE/trait/Poison|poison]]'
-- '[[DATABASE/condition/Unconscious|unconscious]]'
-intelligence: '+4'
+hp: '27'
+id: '392'
+immunity: null
+intelligence: '+1'
 land_speed: '25'
 language:
 - '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Jotun|Jotun]]'
-- '[[DATABASE/language/Necril|Necril]] ; [[DATABASE/monsterability/Telepathy|telepathy]]
-  (with its creator only) 100 feet'
-level: '17'
+- '[[DATABASE/language/Tengu|Tengu]] ; plus two others'
+level: '2'
 max_speed: '25'
-name: Tenebric Giant
-perception: '+31'
-rarity: Rare
-reflex: '+27'
+name: Tengu Sneak
+perception: '+6'
+rarity: Common
+reflex: '+10'
 resistance: null
 rus_type_level: null
 school: null
 sense:
-- '[[DATABASE/monsterability/Darkvision|darkvision]]'
-- '[[DATABASE/monsterability/Lifesense|lifesense]] 80 feet'
-size: Large
+- low-light vision
+size: Medium
 skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +33'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +30'
-- '[[DATABASE/skill/Religion|Religion]] +30'
-- '[[DATABASE/skill/Stealth|Stealth]] +29'
-source: '[[DATABASE/source/Pathfinder 185. A Taste of Ashes|Pathfinder #185: A Taste
-  of Ashes]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +8'
+- '[[DATABASE/skill/Athletics|Athletics]] +6'
+- '[[DATABASE/skill/Deception|Deception]] +7'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +5'
+- '[[DATABASE/skill/Society|Society]] +5'
+- '[[DATABASE/skill/Stealth|Stealth]] +8'
+- '[[DATABASE/skill/Thievery|Thievery]] +8'
+source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 25 feet
 spell: null
-strength: '+9'
-strength_req: '9'
+strength: '+2'
+strength_req: '2'
 strongest_save:
-- Fortitude
+- Reflex
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Rare|Rare]]'
-- '[[DATABASE/trait/Shadow|Shadow]]'
-- '[[DATABASE/trait/Undead|Undead]]'
+- '[[DATABASE/trait/Humanoid|Humanoid]]'
+- '[[DATABASE/trait/Tengu|Tengu]]'
 type: Creature
-vision: Darkvision
+vision: Low-light vision
 weakest_save:
-- Reflex
-weakness:
-- '[[DATABASE/trait/Positive|positive]] 15'
-will: '+30'
-wisdom: '+7'
+- Will
+weakness: null
+will: '+4'
+wisdom: '+0'
 
 ---
 # Tengu

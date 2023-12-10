@@ -11,11 +11,6 @@ creature_ability:
 - Fan the Flames
 - Swallow Whole
 creature_family: '[[DATABASE/monsterfamily/Animated Object|Animated Object]]'
-description: 'This huge forge or oven is animated to protect a workspace or kitchen,
-  travel alongside its owner, or both.<br/><br/><b><u>Recall Knowledge - Construct</u>
-  ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]] )</b>:
-  DC 26<br/><b><u>Unspecific Lore</u></b>: DC 24<br/><b><u>Specific Lore</u></b>:
-  DC 21'
 dexterity: '-2'
 element: null
 fly_speed: null

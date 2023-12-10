@@ -13,11 +13,6 @@ creature_ability:
 - Ride the Wind
 - Wendigo Torment
 creature_family: null
-description: 'Wendigos are incarnations of the fears of starvation, loneliness, and
-  fatal exposure to cold weather. They haunt the frozen expanses of the world.<br/><br/><b><u>Recall
-  Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 38<br/><b><u>Unspecific Lore</u></b>: DC 36<br/><b><u>Specific Lore</u></b>:
-  DC 33'
 dexterity: '+7'
 element: null
 fly_speed: '100'

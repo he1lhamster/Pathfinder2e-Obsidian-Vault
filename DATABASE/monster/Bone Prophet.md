@@ -10,13 +10,6 @@ creature_ability:
 - Raise Serpent
 - Serpentfolk Venom
 creature_family: '[[DATABASE/monsterfamily/Serpentfolk|Serpentfolk]]'
-description: 'The speakers for the dead known as bone prophets hold an esteemed place
-  as voices for their decapitated god. Burial rites, necromantic rituals, and the
-  delivery of cryptic utterances supposedly whispered to them by [[DATABASE/deity/Ydersius|Ydersius]]
-  all fall under the dominion of these priests. Bone prophets often raise fallen aapophs
-  as skeletons.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 26<br/><b><u>Unspecific Lore</u></b>: DC 24<br/><b><u>Specific Lore</u></b>:
-  DC 21'
 dexterity: '+3'
 element: null
 fly_speed: null

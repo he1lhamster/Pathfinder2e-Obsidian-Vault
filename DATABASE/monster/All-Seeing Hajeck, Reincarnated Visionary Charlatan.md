@@ -1,129 +1,82 @@
 ﻿---
-ac: '37'
-alignment: LE
+ac: '31'
+alignment: CN
 all_resistance: null
 burrow_speed: null
-charisma: '+6'
-climb_speed: null
-constitution: '+4'
+charisma: '+7'
+climb_speed: '30'
+constitution: '+5'
 creature_ability:
-- Create Spawn
-- Domain of Dusk
-- Dominate
-- Drink Essence
-- Revulsion
-- Shadow Escape
-- Shadow Form
-- ''
-- Slip Into Shadows
-- Strigoi Weaknesses
-- Sunlight
-- Thassilonian Necromancer
-- Water Revulsion
+- Change Shape
+- Hajeck's Caress
+- Harrowbound
+- Harrowing Vision
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 44<br/><b><u>Unspecific
-  Lore</u></b>: DC 42<br/><b><u>Specific Lore</u></b>: DC 39'
-dexterity: '+8'
+dexterity: '+5'
 element: null
-fly_speed: '25'
-fortitude: '+25'
+fly_speed: null
+fortitude: '+21'
 hardness: null
-hp: 210 (coffin restoration, fast healing 15 , negative healing )
-id: '1962'
+hp: '215'
+id: '2573'
 immunity:
-- '[[DATABASE/trait/Death|death]] effects'
-- '[[DATABASE/trait/Disease|disease]]'
-- paralyze
-- '[[DATABASE/trait/Poison|poison]]'
-- '[[DATABASE/trait/Sleep|sleep]]'
-intelligence: '+8'
-land_speed: '25'
+- '[[DATABASE/condition/Controlled|controlled]]'
+intelligence: '+5'
+land_speed: '30'
 language:
-- '[[DATABASE/language/Abyssal|Abyssal]]'
 - '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Infernal|Infernal]]'
-- '[[DATABASE/language/Jotun|Jotun]]'
-- '[[DATABASE/language/Necril|Necril]]'
-- '[[DATABASE/language/Shadowtongue|Shadowtongue]]'
-- '[[DATABASE/language/Thassilonian|Thassilonian]]'
 - '[[DATABASE/language/Varisian|Varisian]]'
-level: '15'
-max_speed: '25'
-name: Aliriel
-perception: '+27'
+level: '12'
+max_speed: '30'
+name: All-Seeing Hajeck
+perception: '+22'
 rarity: Unique
-reflex: '+29'
+reflex: '+23'
 resistance:
-- all physical 15 (except magical [[DATABASE/equipment/Silver Weapon|silver]] weapons
-  ormagical weapons sheddingbright light)
+- '[[DATABASE/trait/Mental|mental]] 10'
 rus_type_level: null
 school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
-size: Medium
+size: Large
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +27'
-- '[[DATABASE/skill/Arcana|Arcana]] +29'
-- '[[DATABASE/skill/Athletics|Athletics]] +25'
-- '[[DATABASE/skill/Deception|Deception]] +27'
-- '[[DATABASE/skill/Occultism|Occultism]] +27'
-- '[[DATABASE/skill/Society|Society]] +25'
-- '[[DATABASE/skill/Stealth|Stealth]] +29'
-- '[[DATABASE/skill/Lore|Thassilon Lore]] +29'
-source: '[[DATABASE/source/Shadows at Sundown|Shadows at Sundown]]'
+- '[[DATABASE/skill/Arcana|Arcana]] +21'
+- '[[DATABASE/skill/Deception|Deception]] +25'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +23'
+- '[[DATABASE/skill/Lore|Fortune-Telling Lore]] +25'
+- '[[DATABASE/skill/Occultism|Occultism]] +23'
+- '[[DATABASE/skill/Performance|Performance]] +23'
+- '[[DATABASE/skill/Society|Society]] +21'
+- '[[DATABASE/skill/Thievery|Thievery]] +21'
+source: '[[DATABASE/source/Pathfinder 191. The Destiny War|Pathfinder #191: The Destiny
+  War]]'
 speed:
-- 25 feet
-- fly 25 feet
+- 30 feet
+- climb 30 feet
+- swim 30 feet
 spell:
-- '[[DATABASE/spell/Baleful Polymorph|Baleful Polymorph]]'
-- '[[DATABASE/spell/Blindness|Blindness]]'
-- '[[DATABASE/spell/Call of the Grave|Call of the Grave]]'
-- '[[DATABASE/spell/Chill Touch|Chill Touch]]'
-- '[[DATABASE/spell/Cloudkill|Cloudkill]]'
-- '[[DATABASE/spell/Deafness|Deafness]]'
-- '[[DATABASE/spell/Detect Magic|Detect Magic]]'
-- '[[DATABASE/spell/Dimension Door|Dimension Door]]'
-- '[[DATABASE/spell/Dispel Magic|Dispel Magic]]'
-- '[[DATABASE/spell/Eclipse Burst|Eclipse Burst]]'
-- '[[DATABASE/spell/Electric Arc|Electric Arc]]'
-- '[[DATABASE/spell/Grim Tendrils|Grim Tendrils]]'
-- '[[DATABASE/spell/Horrid Wilting|Horrid Wilting]]'
-- '[[DATABASE/spell/Mage Hand|Mage Hand]]'
-- '[[DATABASE/spell/Magic Missile|Magic Missile]]'
-- '[[DATABASE/spell/Maze|Maze]]'
-- '[[DATABASE/spell/Mind Probe|MindProbe]]'
-- '[[DATABASE/spell/Mind Reading|Mind Reading]]'
+- '[[DATABASE/spell/Charm|Charm]]'
+- '[[DATABASE/spell/Glibness|Glibness]]'
+- '[[DATABASE/spell/Illusory Disguise|Illusory Disguise]]'
+- '[[DATABASE/spell/Illusory Object|Illusory Object]]'
 - '[[DATABASE/spell/Mirror Image|Mirror Image]]'
-- '[[DATABASE/spell/Nightmare|Nightmare]]'
-- '[[DATABASE/spell/Overstuff|Overstuff]]'
-- '[[DATABASE/spell/Prestidigitation|Prestidigitation]]'
-- '[[DATABASE/spell/Ray of Enfeeblement|Ray of Enfeeblement]]'
-- '[[DATABASE/spell/Sending|Sending]]'
-- '[[DATABASE/spell/Shadow Walk|Shadow Walk]]'
-- '[[DATABASE/spell/Slow|Slow]]'
-- '[[DATABASE/spell/Spectral Hand|Spectral Hand]]'
-- '[[DATABASE/spell/Take its Course|Take its Course]]'
-- '[[DATABASE/spell/True Strike|True Strike]]'
-- '[[DATABASE/spell/Vampiric Exsanguination|Vampiric Exsanguination]]'
-- '[[DATABASE/spell/Wall of Force|Wall of Force]]'
-strength: '+6'
-strength_req: '6'
+- '[[DATABASE/spell/Sleep|Sleep]]'
+- '[[DATABASE/spell/Suggestion|Suggestion]]'
+- '[[DATABASE/spell/Ventriloquism|Ventriloquism]]'
+strength: '+4'
+strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
+swim_speed: '30'
 trait:
-- '[[DATABASE/trait/Shadow|Shadow]]'
-- '[[DATABASE/trait/Undead|Undead]]'
+- '[[DATABASE/trait/Beast|Beast]]'
 - '[[DATABASE/trait/Unique|Unique]]'
-- '[[DATABASE/trait/Vampire|Vampire]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness:
-- strigoi
-will: '+27'
+weakness: null
+will: '+22'
 wisdom: '+4'
 
 ---

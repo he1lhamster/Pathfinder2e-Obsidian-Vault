@@ -14,17 +14,6 @@ creature_ability:
 - Release Claw
 - Ship Armor
 creature_family: null
-description: "Though her current form is but a small and pale shell of her former\
-  \ glory, Tehialai is a legend even in her waning days. The titanic crustacean wears\
-  \ the hulls of ruined ships as her shell, ripped into shape by vessel-rending claws,\
-  \ as nothing else in Golarion's oceans is large enough to shield her body\u2014\
-  or perhaps nothing else will satisfy her. Few ships can withstand her might, and\
-  \ fewer still are prepared for her appearance. Those who don't know of the thief\
-  \ of ships won't know to watch for her coming, and those who do know Tehialai offer\
-  \ her tribute to ward off her predation.<br/><br/><b><u>Recall Knowledge - Beast</u>\
-  \ ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]] )</b>: DC\
-  \ 41<br/><b><u>Unspecific Lore</u></b>: DC 39<br/><b><u>Specific Lore</u></b>: DC\
-  \ 36"
 dexterity: '+5'
 element: null
 fly_speed: null

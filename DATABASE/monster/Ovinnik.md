@@ -11,13 +11,6 @@ creature_ability:
 - Raise Grain Cloud
 - Shy
 creature_family: '[[DATABASE/monsterfamily/House Spirit|House Spirit]]'
-description: "The ovinnik is the most ferocious of house spirits, and the only one\
-  \ that will kill if sufficiently angered. They live in granaries, storage rooms,\
-  \ and sheds where food\u2014particularly grain\u2014is kept. Ovinniks resemble bipedal\
-  \ cats but bark like a dog to scare away thieves, and they often demand gifts of\
-  \ milk, pancakes, and dead roosters.<br/><br/><b><u>Recall Knowledge - Fey</u> (\
-  \ [[DATABASE/skill/Nature|Nature]] )</b>: DC 19<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 17<br/><b><u>Specific Lore</u></b>: DC 14"
 dexterity: '+5'
 element: null
 fly_speed: null

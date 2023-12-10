@@ -9,10 +9,6 @@ constitution: '+3'
 creature_ability:
 - Piton Pin
 creature_family: '[[DATABASE/monsterfamily/Laborers|Laborers]]'
-description: 'Miners explore deep underground in search of minerals and rare materials,
-  taking numerous precautions to keep themselves safe.<br/><br/><b><u>Recall Knowledge
-  - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 14<br/><b><u>Unspecific
-  Lore</u></b>: DC 12<br/><b><u>Specific Lore</u></b>: DC 9'
 dexterity: '+1'
 element: null
 fly_speed: null

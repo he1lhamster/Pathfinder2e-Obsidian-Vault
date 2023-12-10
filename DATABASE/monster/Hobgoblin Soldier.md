@@ -11,10 +11,6 @@ creature_ability:
 - Formation
 - Shield Block
 creature_family: '[[DATABASE/monsterfamily/Hobgoblin|Hobgoblin]]'
-description: 'Soldiers make up the bulk of hobgoblin society, whether that society
-  is a village or a military unit.<br/><br/><b><u>Recall Knowledge - Humanoid</u>
-  ( [[DATABASE/skill/Society|Society]] )</b>: DC 15<br/><b><u>Unspecific Lore</u></b>:
-  DC 13<br/><b><u>Specific Lore</u></b>: DC 10'
 dexterity: '+3'
 element: null
 fly_speed: null

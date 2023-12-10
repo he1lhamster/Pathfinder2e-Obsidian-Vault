@@ -11,10 +11,6 @@ creature_ability:
 - Change Shape
 - Spin Silk
 creature_family: '[[DATABASE/monsterfamily/Anadi|Anadi]]'
-description: 'Anadi sages commune with nature and hone their innate magic through
-  practice.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 21<br/><b><u>Unspecific Lore</u></b>: DC 19<br/><b><u>Specific Lore</u></b>:
-  DC 16'
 dexterity: '+2'
 element: null
 fly_speed: null

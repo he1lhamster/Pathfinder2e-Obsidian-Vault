@@ -13,11 +13,6 @@ creature_ability:
 - See Magic
 - Soul Cage
 creature_family: '[[DATABASE/monsterfamily/Psychopomp|Psychopomp]]'
-description: 'Algeas protect (and sometimes retrieve) souls at risk of being claimed
-  by other entities, particularly spellcasters who dabbled with otherworldly forces
-  but never officially pledged their souls.<br/><br/><b><u>Recall Knowledge - Monitor</u>
-  ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 28<br/><b><u>Unspecific Lore</u></b>:
-  DC 26<br/><b><u>Specific Lore</u></b>: DC 23'
 dexterity: '+7'
 element: null
 fly_speed: '40'

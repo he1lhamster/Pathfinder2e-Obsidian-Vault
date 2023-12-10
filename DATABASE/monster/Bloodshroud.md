@@ -11,12 +11,6 @@ creature_ability:
 - Sanguine Shroud
 - Spellstrike
 creature_family: null
-description: 'During the war between Geb and Nex, necromancers conducted dangerous
-  magical experiments to gain every possible advantage over their enemies. One such
-  endeavor attempted to distill the essence of vampiric mists to create a protective
-  shroud for an army of undead maguses.<br/><br/><b><u>Recall Knowledge - Undead</u>
-  ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 33<br/><b><u>Unspecific Lore</u></b>:
-  DC 31<br/><b><u>Specific Lore</u></b>: DC 28'
 dexterity: '+8'
 element: null
 fly_speed: '30'

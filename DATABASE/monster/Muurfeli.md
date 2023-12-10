@@ -10,12 +10,6 @@ creature_ability:
 - Change Shape
 - Firedamp Winds
 creature_family: '[[DATABASE/monsterfamily/Blightburn Genies|Blightburn Genies]]'
-description: 'Whereas typical [[DATABASE/monster/Djinni|djinn]] can cleanse or clear
-  areas with their arcane winds, the air magic of muurfeli is tainted by the Black
-  Desert''s noxious radiation and mixed with the realm''s ambient fetid winds.<br/><br/><b><u>Recall
-  Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 40<br/><b><u>Unspecific Lore</u></b>: DC 38<br/><b><u>Specific Lore</u></b>:
-  DC 35'
 dexterity: '+9'
 element: Air
 fly_speed: '50'

@@ -18,15 +18,6 @@ creature_ability:
 - Positive Energy Transfer
 - Sunlight Powerlessness
 creature_family: '[[DATABASE/monsterfamily/Wyrmwraith|Wyrmwraith]]'
-description: 'Though they refused to accept death, wyrmwraiths nonetheless despise
-  their new undead condition. Indeed, lacking in all motivation to collect treasure,
-  a wyrmwraith instead fixates on their hatred of all living things (especially dragons)
-  and their own self-loathing. A wyrmwraith blights the land with their very presence,
-  spreading slowly until their lair becomes a lifeless wasteland haunted by other
-  undead.<br/><br/><b><u>Recall Knowledge - Dragon</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  )</b>: DC 41<br/><b><u>Recall Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 41<br/><b><u>Unspecific Lore</u></b>: DC 39<br/><b><u>Specific Lore</u></b>:
-  DC 36'
 dexterity: '+9'
 element: null
 fly_speed: '80'

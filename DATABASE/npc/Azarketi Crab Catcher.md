@@ -12,11 +12,6 @@ creature_ability:
 - Submerged Stealth
 - Swim Away
 creature_family: '[[DATABASE/monsterfamily/Azarketi|Azarketi]]'
-description: 'The average azarketi citizen in Absalom makes a living fishing or catching
-  crabs. The deep harbor floor beneath the city docks is covered with traps left by
-  the azarketis, who use individual glyphs to mark one crabber''s trap from the other.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 14<br/><b><u>Unspecific
-  Lore</u></b>: DC 12<br/><b><u>Specific Lore</u></b>: DC 9'
 dexterity: '+3'
 element: null
 fly_speed: null

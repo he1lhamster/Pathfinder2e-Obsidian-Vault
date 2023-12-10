@@ -11,9 +11,6 @@ creature_ability:
 - Dangerous Sorcery
 - Persistent Lies
 creature_family: '[[DATABASE/monsterfamily/Villains|Villains]]'
-description: 'Despots live to amass and exploit power over others.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 20<br/><b><u>Unspecific
-  Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>: DC 15'
 dexterity: '+2'
 element: null
 fly_speed: null

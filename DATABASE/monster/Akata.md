@@ -13,22 +13,6 @@ creature_ability:
 - Salt Water Vulnerability
 - Void Death
 creature_family: null
-description: "An akata is a hairless, blue-skinned quadruped with fearsome jaws, glowing\
-  \ eyes, a pair of thin tails, and a mane of writhing tentacles. It is a strangely\
-  \ silent beast, as it lacks the lungs and vocal chords necessary to vocalize. It\
-  \ also lacks ears, but it has heightened visual and olfactory senses.<br/><br/>When\
-  \ food is scarce, an akata secretes a resin from its pores that forms into a sturdy\
-  \ cocoon of pale green crystal\u2014the skymetal noqual. An akata can hibernate\
-  \ in this cocoon without needing to eat or drink for centuries, though it retains\
-  \ a rudimentary sense of its surroundings and can break out in only a few minutes'\
-  \ time. These cocoons allow the creatures to travel through the void of space, seeking\
-  \ new worlds where they can infect suitable humanoid hosts with their larval young.\
-  \ Once a victim succumbs to this infection, the offspring fight among themselves\
-  \ until one proves the strongest. The surviving akata then animates the corpse\u2014\
-  now a [[DATABASE/monster/Void Zombie|void zombie]] \u2014which shambles about of\
-  \ its own accord.<br/><br/><b><u>Recall Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]]\
-  \ )</b>: DC 20<br/><b><u>Unspecific Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>:\
-  \ DC 15"
 dexterity: '+2'
 element: null
 fly_speed: null

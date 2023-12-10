@@ -11,18 +11,6 @@ creature_ability:
 - Dread Gaze
 - "Sea Hag\u2019s Bargain"
 creature_family: '[[DATABASE/monsterfamily/Hag|Hag]]'
-description: 'Sea hags kill and eat fishers and sailors who come near their lairs,
-  torment coastal dwellers with dark promises and vague threats, and enjoy the act
-  of causing distress and discord in small towns. They generally avoid making their
-  lairs too close to civilization, however, to avoid drawing enemies to their homes.
-  Sea hags are known for tempting desperate victims into tragic and inescapable bargains,
-  deals which the hag has already secretly stacked in her favor. Despite their voracious
-  appetites, sea hags appear hideously emaciated, and unlike more powerful hags, they
-  lack the ability to magically disguise their form.<br/><br/> Sea hags can join covens,
-  but their aquatic nature often prevents them from joining mixed covens with other
-  kinds of hags.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 18<br/><b><u>Unspecific Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>:
-  DC 13'
 dexterity: '+3'
 element: null
 fly_speed: null

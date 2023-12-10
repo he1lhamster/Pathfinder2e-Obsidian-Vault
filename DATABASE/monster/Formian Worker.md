@@ -11,8 +11,6 @@ creature_ability:
 - Heavy Lifter
 - Hive Mind
 creature_family: '[[DATABASE/monsterfamily/Formian|Formian]]'
-description: By far the most common formian on Akiton, workers are focused and industrious,
-  naturally skilled at manual labor and coordinating with peers.
 dexterity: '+1'
 element: null
 fly_speed: null

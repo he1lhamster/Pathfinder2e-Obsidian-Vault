@@ -13,12 +13,6 @@ creature_ability:
 - Shifting Shadows
 - Weighty Shadow
 creature_family: null
-description: "Short-lived, strange creatures called alapolos cling to the shadows\
-  \ in eerie moonlight, inviting others to dance. Although these \u201Cshadow dancers\u201D\
-  \ aren't actively malevolent, they become petulant when others won't dance with\
-  \ them.<br/><br/><b><u>Recall Knowledge - Fey</u> ( [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 41<br/><b><u>Unspecific Lore</u></b>: DC 39<br/><b><u>Specific Lore</u></b>:\
-  \ DC 36"
 dexterity: '+9'
 element: null
 fly_speed: null

@@ -9,53 +9,6 @@ constitution: '+0'
 creature_ability:
 - Sword Cane Duelist
 creature_family: null
-description: "Hendrid Pratchett is the most recent alias of a man who has gone by\
-  \ many names over the course of his short and sinister career. Born Harial Lemorad,\
-  \ Pratchett is the only child of an elven father and a human mother in the Kyonin\
-  \ settlement of Erages. His mixed heritage raised few eyebrows in a community populated\
-  \ primarily by half-elves, and his parents were nothing if not doting to their son.\
-  \ Pratchett, however, had a streak of profound cruelty that soon blossomed into\
-  \ sadistic torments perpetrated on other children or neighbors' livestock. The need\
-  \ to avoid trouble honed his ability to lie and charm, and the young Pratchett soon\
-  \ grew into a model gentleman, his courtly manners and winning smile hiding his\
-  \ increasingly gruesome desires.<br/><br/> As soon as Pratchett reached the age\
-  \ of majority, he left home, loudly proclaiming his desire to seek his fortune in\
-  \ the wild frontiers of distant Varisia. In fact, Pratchett went no farther than\
-  \ the edge of town, where he laid low for a week. Once his alibi had been firmly\
-  \ established, he crept back to his old home and looted the family's coffers. Catching\
-  \ his parents asleep in their beds, he slowly tortured them both to death, finding\
-  \ in their murder a satisfaction beyond anything he'd ever felt. He burned down\
-  \ the house and set off once more, this time in earnest.<br/><br/> In the years\
-  \ since, Pratchett has traveled far and wide across the Inner Sea region, leaving\
-  \ a trail of mysterious disappearances in his wake. Along the way, he's also managed\
-  \ to teach himself a variety of arts to further his endeavors, from the aristocratic\
-  \ art of sword cane dueling to a modest understanding of necromantic magic. The\
-  \ latter comes in handy in his schemes; though he may not personally have the skill\
-  \ to carry out all of his macabre fantasies, he understands enough of the theory\
-  \ to purchase the appropriate scrolls or hire more adept casters. Each time he arrived\
-  \ in a new city, he used his charm and adaptability to ingratiate himself in the\
-  \ community, establishing himself in some public-facing service job\u2014such as\
-  \ barber, grocer, or scribe\u2014that gave him the opportunity to make connections\
-  \ and scout for potential victims. In the past, he's been careful to take only a\
-  \ few lives in each location, moving on before authorities could begin to suspect\
-  \ him. Yet eventually he wearied of his constant wandering and set his sights on\
-  \ Absalom: a city so large and bustling that he could at last put down roots, taking\
-  \ as many victims as he wanted without anyone being the wiser.<br/><br/> Upon arrival\
-  \ in the City at the Center of the World, however, he found that his schemes weren't\
-  \ quite as clever as he'd thought. Someone had noticed his predations\u2014but not\
-  \ the authorities. Instead, Pratchett found himself recruited by a gang of [[DATABASE/deity/Norgorber|Norgorberite]]\
-  \ cultists run by the powerful underworld figure Wrent Dicaspiron, also known as\
-  \ the Skinner. Initially overjoyed to have fallen in with like-minded individuals,\
-  \ Pratchett took zealously to the worship of the Skinsaw Man, aiding the group in\
-  \ their ritualistic killings. Yet before long, Pratchett grew bored. His enormous\
-  \ ego chafed at the idea of working for others, and he found the cultists' methods\
-  \ too restrictive and unimaginative, their leaders too concerned with discretion\
-  \ to attempt the bold schemes capable of satisfying his ever-increasing appetites.\
-  \ He left the cult, reinventing himself once more, but remained in the city, for\
-  \ the coming of the Radiant Festival had prompted a new dream: a murderous hotel\
-  \ of his own design, funded by his family fortune and the wealth of his victims.\
-  \ There, Pratchett could prey exclusively on travelers, taking an endless stream\
-  \ of new victims without fear of the local authorities noticing."
 dexterity: '+4'
 element: null
 fly_speed: null

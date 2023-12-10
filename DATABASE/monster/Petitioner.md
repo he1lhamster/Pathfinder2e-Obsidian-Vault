@@ -9,28 +9,6 @@ constitution: '+2'
 creature_ability:
 - Planar Incarnation
 creature_family: null
-description: 'When a mortal dies, their soul travels to the [[DATABASE/plane/Boneyard|Boneyard]]
-  in the Outer Planes where they are judged by [[DATABASE/deity/Pharasma|Pharasma]]
-  , the goddess of the dead. Once they have been judged, their soul is sent on to
-  their final reward or punishment in the afterlife, and in the process is transformed
-  into a creature known as a petitioner. This process grants the soul a new body,
-  one whose shape is the result of the prevailing philosophical forces of the plane
-  to which it is sent. The petitioner''s memories from their life are typically wiped
-  nearly clean, allowing them to retain only a few hazy fragments akin to half-remembered
-  dreams. Regardless of the petitioner''s size, power, or nature in life, they''re
-  a Medium creature in their afterlife.<br/><br/> Existence as a petitioner can last
-  for eons, but this state is not necessarily eternal. Deities, powerful denizens
-  of the Great Beyond, or even the outer planes themselves can further change the
-  petitioner''s nature by transforming them into raw quintessence, spiritual essence
-  that is then used to expand a plane''s physical manifestation, or by transforming
-  the petitioner into a new form of supernatural life such as a [[DATABASE/trait/Celestial|celestial]]
-  , [[DATABASE/trait/Monitor|monitor]] , or [[DATABASE/trait/Fiend|fiend]] . Should
-  a petitioner die, their body breaks down in a process akin to decay, their nature
-  reverting back to the quintessence or elements that make up their plane. This represents
-  the true end of a soul''s journey: their associated life essence travels back to
-  the heart of the Great Beyond to be recycled into the [[DATABASE/plane/Positive
-  Energy Plane|Positive Energy plane]] , fueling the creation of entirely new souls.<br/><br/><b><u>Unspecific
-  Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>: DC 10'
 dexterity: '+2'
 element: null
 fly_speed: null

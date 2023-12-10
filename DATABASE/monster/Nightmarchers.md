@@ -17,16 +17,6 @@ creature_ability:
 - Defenses
 - Troop Movement
 creature_family: null
-description: 'While smooth roads remain a traveler''s blessing, walking them after
-  sunset risks nightmarcher attack. The ringing of conch shells and beating of drums
-  herald the coming of these spirits as they walk the royal highways, unfettered by
-  walls or barriers. Nightmarchers react violently to those in their path. If a bystander
-  is fortunate, an ancestor''s spirit might call out to spare them. Those who refuse
-  to show proper deference might be reduced to little more than ash on the wind come
-  sunrise.<br/><br/><b><u>Recall Knowledge - Spirit</u> ( [[DATABASE/skill/Occultism|Occultism]]
-  )</b>: DC 32<br/><b><u>Recall Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 32<br/><b><u>Unspecific Lore</u></b>: DC 30<br/><b><u>Specific Lore</u></b>:
-  DC 27'
 dexterity: '+5'
 element: null
 fly_speed: null

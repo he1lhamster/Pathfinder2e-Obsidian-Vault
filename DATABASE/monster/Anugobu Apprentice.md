@@ -10,12 +10,6 @@ creature_ability:
 - Planar Workshop
 - Stone Step
 creature_family: '[[DATABASE/monsterfamily/Anugobu|Anugobu]]'
-description: 'Most young anugobus undertake not just one, but many apprenticeships
-  in order to learn advanced techniques in their trade of choice. The apprentice depicted
-  here specializes in construction and engineering, but an anugobu is just as likely
-  to take up cooking, hunting, tailoring, or really anything that piques their interest.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 20<br/><b><u>Unspecific
-  Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>: DC 15'
 dexterity: '+3'
 element: null
 fly_speed: null

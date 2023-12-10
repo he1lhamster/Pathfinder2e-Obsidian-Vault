@@ -11,10 +11,6 @@ creature_ability:
 - Odor of Rot
 - Swarming Bites
 creature_family: '[[DATABASE/monsterfamily/Bhanyada|Bhanyada]]'
-description: 'Bhanyadas without much cohesion between their fleshy components roil
-  around one another in a ghastly swarm of malodorous gobs of flesh.<br/><br/><b><u>Recall
-  Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 30<br/><b><u>Unspecific
-  Lore</u></b>: DC 28<br/><b><u>Specific Lore</u></b>: DC 25'
 dexterity: '+5'
 element: null
 fly_speed: null

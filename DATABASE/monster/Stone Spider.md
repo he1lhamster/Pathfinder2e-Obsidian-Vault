@@ -14,15 +14,6 @@ creature_ability:
 - Spirit Body
 - Spirit Web Trap
 creature_family: null
-description: "The tradition of venerating spiders as wards against vermin, pests,\
-  \ and evil in general far predates the modern [[DATABASE/monster/Jorogumo|jorogumo]]\
-  \ rule, with stone spiders filling a role similar to [[DATABASE/monster/Stone Lion|stone\
-  \ lions]] . Stone spider guardian beasts can be found perched on plinths near town\
-  \ and village entrances, standing motionless\u2014for generations in some cases\u2014\
-  so that many locals have forgotten their local guardian is anything more than a\
-  \ decoration.<br/><br/><b><u>Recall Knowledge - Celestial</u> ( [[DATABASE/skill/Religion|Religion]]\
-  \ )</b>: DC 25<br/><b><u>Unspecific Lore</u></b>: DC 23<br/><b><u>Specific Lore</u></b>:\
-  \ DC 20"
 dexterity: '+5'
 element: null
 fly_speed: '40'

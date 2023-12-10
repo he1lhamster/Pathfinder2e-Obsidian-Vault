@@ -9,12 +9,6 @@ constitution: '+2'
 creature_ability:
 - Infused Items
 creature_family: '[[DATABASE/monsterfamily/Criminals|Criminals]]'
-description: "Many cultures have a tradition of burying their dead with a selection\
-  \ of the deceased's most precious possessions, and some include gifts that are thought\
-  \ to provide a boon in the afterlife. Such valuables can be easy pickings for those\
-  \ with no respect for\u2014or fear of\u2014the dead.<br/><br/><b><u>Recall Knowledge\
-  \ - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 15<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>: DC 10"
 dexterity: '+2'
 element: null
 fly_speed: null

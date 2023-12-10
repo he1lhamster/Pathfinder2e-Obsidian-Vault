@@ -13,18 +13,6 @@ creature_ability:
 - Forced Transfusion
 - Sanguine Rain
 creature_family: null
-description: "Foul occult magic, rare alchemical reagents, and copious amounts of\
-  \ spilled blood are the keys to creating a vitalia\u2014also known as a heart horror\u2014\
-  \ though thankfully the exact means of their creation has been long forgotten.<br/><br/>\
-  \ Now, most vitalias now come into being by sheer accident. This unusual life-form\
-  \ cannot live without regular contact with blood, much like how fish cannot live\
-  \ long outside of water. Because of this, vitalias are rarely found outside the\
-  \ lairs of mad alchemists or wizards, living in pools of the life-giving substance.\
-  \ Physically, a vitalia somewhat resembles a blood-red [[DATABASE/monster/Giant\
-  \ Jellyfish|giant jellyfish]] , though it also bears some semblance to a giant human\
-  \ heart.<br/><br/><b><u>Recall Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]]\
-  \ )</b>: DC 43<br/><b><u>Unspecific Lore</u></b>: DC 41<br/><b><u>Specific Lore</u></b>:\
-  \ DC 38"
 dexterity: '+5'
 element: null
 fly_speed: null

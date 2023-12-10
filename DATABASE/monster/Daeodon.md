@@ -10,18 +10,6 @@ creature_ability:
 - Daeodon Charge
 - Ferocity
 creature_family: '[[DATABASE/monsterfamily/Boar|Boar]]'
-description: "Where the typical boar is merely ill-tempered and generally unfriendly,\
-  \ the towering daeodon is legitimately hateful and ruthlessly violent. Although\
-  \ omnivorous, the daeodon (known in some regions simply as a giant boar) prefers\
-  \ to feed on flesh. Primarily a scavenger, the daeodon isn\u2019t adverse to attacking\
-  \ creatures it encounters while searching for easier meals, or to protect any perceived\
-  \ encroachment into its lair or feeding grounds. Particularly brave or skilled orcs\
-  \ are fond of using daeodons as mounts or war-trained battle beasts; orc cavalry\
-  \ mounted on daeodons is a fearsome force indeed.<br/><br/> A typical adult daeodon\
-  \ is 10 feet long and 7 feet tall at the shoulder. It weighs approximately 2,000\
-  \ pounds.<br/><br/><b><u>Recall Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 19<br/><b><u>Unspecific Lore</u></b>: DC 17<br/><b><u>Specific Lore</u></b>:\
-  \ DC 14"
 dexterity: '+0'
 element: null
 fly_speed: null

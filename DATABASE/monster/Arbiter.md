@@ -10,12 +10,6 @@ creature_ability:
 - Electrical Burst
 - Locate Inevitable
 creature_family: '[[DATABASE/monsterfamily/Aeon|Aeon]]'
-description: 'These spherical inevitables are scouts and diplomats. Found throughout
-  the multiverse, they have traditionally kept watch over on chaos and its agents.
-  With the announcement of the Convergence, many arbiters now serve as go-betweens
-  among the aeon alliance and its mortal associates.<br/><br/><b><u>Recall Knowledge
-  - Monitor</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 15<br/><b><u>Unspecific
-  Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>: DC 10'
 dexterity: '+4'
 element: null
 fly_speed: '40'

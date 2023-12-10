@@ -1,68 +1,74 @@
 ﻿---
-ac: '13'
-alignment: N
+ac: '41'
+alignment: LN
 all_resistance: null
 burrow_speed: null
-charisma: '+0'
+charisma: '+6'
 climb_speed: null
-constitution: '+2'
+constitution: '+4'
 creature_ability:
-- Power of the Mob
-creature_family: '[[DATABASE/monsterfamily/Downtrodden|Downtrodden]]'
-description: 'Though not every commoner is downtrodden, many live hard lives of toil
-  as they work to keep their families fed and housed in relative comfort. While many
-  commoners are just simple folks who keep to themselves, sometimes commoners rebel,
-  either rising up to face their oppressors or persuaded or even duped into joining
-  nefarious plans and criminal conspiracies. Commoners benefit from power in numbers,
-  and a crowd of commoners can accomplish a great deal more than their rulers often
-  expect.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 13<br/><b><u>Unspecific Lore</u></b>: DC 11<br/><b><u>Specific Lore</u></b>:
-  DC 8'
-dexterity: '+1'
+- Convergent Calm
+- Convergent Link
+- Convergent Tactics
+- Disrupted Link
+creature_family: null
+dexterity: '+0'
 element: null
 fly_speed: null
-fortitude: '+6'
-hp: '10'
-id: '898'
+fortitude: '+33'
+hp: '440'
+id: '2141'
 immunity: null
-intelligence: '+0'
+intelligence: '+3'
 land_speed: '25'
 language:
 - '[[DATABASE/language/Common|Common]]'
-level: '-1'
+- '[[DATABASE/language/Elven|Elven]]'
+- '[[DATABASE/language/Sylvan|Sylvan]]'
+- '[[DATABASE/language/Utopian|Utopian]] ; convergent link'
+level: '19'
 max_speed: '25'
-name: Commoner
-perception: '+3'
-rarity: Common
-reflex: '+3'
+name: Convergent Kendley Nathrael
+perception: '+35'
+rarity: Unique
+reflex: '+29'
 resistance: null
 rus_type_level: null
 sense: null
 size: Medium
 skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +5'
-- '[[DATABASE/skill/Lore|Lore]] +6'
-- '[[DATABASE/skill/Society|Society]] +2'
-source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
+- '[[DATABASE/skill/Athletics|Athletics]] +32'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +35'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +33'
+- '[[DATABASE/skill/Survival|Survival]] +30'
+source: '[[DATABASE/source/Pathfinder 156. The Apocalypse Prophet|Pathfinder #156:
+  The Apocalypse Prophet]]'
 speed:
 - 25 feet
-spell: null
-strength: '+3'
-strength_req: '3'
+spell:
+- '[[DATABASE/spell/Calm Emotions|Calm Emotions]]'
+- '[[DATABASE/spell/Divine Wrath|DivineWrath]]'
+- '[[DATABASE/spell/Shield|Shield]]'
+- '[[DATABASE/spell/Telekinetic Maneuver|Telekinetic Maneuver]]'
+- '[[DATABASE/spell/Telekinetic Projectile|TelekineticProjectile]]'
+strength: '+5'
+strength_req: '5'
 strongest_save:
 - Fortitude
 swim_speed: null
 trait:
+- '[[DATABASE/trait/Elf|Elf]]'
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
+- '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
 vision: null
 weakest_save:
 - Reflex
-- Will
-weakness: null
-will: '+3'
-wisdom: '+1'
+weakness:
+- chaotic 20
+will: '+32'
+wisdom: '+3'
 
 ---
 # Kendley Nathrael

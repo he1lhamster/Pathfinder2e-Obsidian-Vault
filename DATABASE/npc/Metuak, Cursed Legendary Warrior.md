@@ -1,71 +1,92 @@
 ﻿---
-ac: '13'
-alignment: N
-all_resistance: null
+ac: '33'
+alignment: CE
+all_resistance: '5'
 burrow_speed: null
-charisma: '+4'
+charisma: '+5'
 climb_speed: null
-constitution: '-1'
+constitution: '+7'
 creature_ability:
-- Appraising Eye
-creature_family: '[[DATABASE/monsterfamily/Tradespeople|Tradespeople]]'
-description: "Small settlements can typically support one or two generalist merchants,\
-  \ and larger cities house multiple specialists\u2014experts in one type of product.\
-  \ Merchants can be found anywhere: vendors hustling in the public square, shopkeepers\
-  \ running small storefronts, traveling salespeople in carriages or caravans, or\
-  \ wealthy tycoons running entire organizations devoted to commerce. For encounters\
-  \ involving negotiation or mercantile skill, a merchant is a 4th\u2014level challenge.\
-  \ A merchant might have an additional [[DATABASE/skill/Lore|Lore]] skill about a\
-  \ specific category of item (such as jewelry or magic weapons), with a total skill\
-  \ bonus 2 higher than Mercantile Lore.<br/><br/><b><u>Recall Knowledge - Humanoid</u>\
-  \ ( [[DATABASE/skill/Society|Society]] )</b>: DC 13<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 11<br/><b><u>Specific Lore</u></b>: DC 8"
-dexterity: '+0'
+- Attack of Opportunity
+- Axe Master
+- Dual Deny Advantage
+- Dual Soul
+- Shadow Blend
+- Soul Swipe
+- Terrifying Howl
+creature_family: null
+dexterity: '+6'
 element: null
-fly_speed: null
-fortitude: '+1'
-hp: '7'
-id: '956'
-immunity: null
-intelligence: '+2'
+fly_speed: '25'
+fortitude: '+26'
+hp: 240 (dual soul; 120 each for Metuak and Xeleria)
+id: '1833'
+immunity:
+- '[[DATABASE/trait/Death|death]] effects'
+- '[[DATABASE/trait/Disease|disease]]'
+- '[[DATABASE/trait/Fear|fear]]'
+- '[[DATABASE/trait/Poison|poison]]'
+- precision
+intelligence: '+1'
 land_speed: '25'
 language:
+- '[[DATABASE/language/Abyssal|Abyssal]]'
 - '[[DATABASE/language/Common|Common]]'
-level: '-1'
+- '[[DATABASE/language/Hallit|Hallit]] ; [[DATABASE/monsterability/Telepathy|telepathy]]
+  100 feet'
+level: '13'
 max_speed: '25'
-name: Merchant
-perception: '+6'
-rarity: Common
-reflex: '+2'
-resistance: null
+name: Metuak
+perception: '+20'
+rarity: Unique
+reflex: '+23'
+resistance:
+- all 5 (except [[DATABASE/trait/Force|force]]
+- '[[DATABASE/equipment/Ghost Touch|ghost touch]]'
+- or [[DATABASE/trait/Positive|positive]] >;double resistance vs. non- [[DATABASE/trait/Magical|magical]]
+  )
 rus_type_level: null
-sense: null
+sense:
+- '[[DATABASE/monsterability/Darkvision|darkvision]]'
+- '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
 size: Medium
 skill:
-- '[[DATABASE/skill/Deception|Deception]] +10'
-- '[[DATABASE/skill/Diplomacy|Diplomacy]] +12'
-- '[[DATABASE/skill/Lore|Mercantile Lore]] +10'
-- '[[DATABASE/skill/Performance|Performance]] +8'
-- '[[DATABASE/skill/Society|Society]] +8'
-source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
+- '[[DATABASE/skill/Athletics|Athletics]] +27'
+- '[[DATABASE/skill/Deception|Deception]] +24'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +26'
+- '[[DATABASE/skill/Nature|Nature]] +22'
+- '[[DATABASE/skill/Stealth|Stealth]] +25'
+- '[[DATABASE/skill/Survival|Survival]] +24'
+source: '[[DATABASE/source/Pathfinder 177. Burning Tundra|Pathfinder #177: Burning
+  Tundra]]'
 speed:
 - 25 feet
-spell: null
-strength: '+2'
-strength_req: '2'
+- fly 25 feet
+spell:
+- '[[DATABASE/spell/Darkness|Darkness]]'
+- '[[DATABASE/spell/Fear|Fear]]'
+- '[[DATABASE/spell/Shadow Blast|Shadow Blast]]'
+- '[[DATABASE/spell/Shadow Siphon|Shadow Siphon]]'
+- '[[DATABASE/spell/Telekinetic Projectile|Telekinetic Projectile]]'
+strength: '+8'
+strength_req: '8'
 strongest_save:
-- Will
+- Fortitude
 swim_speed: null
 trait:
+- '[[DATABASE/trait/Fiend|Fiend]]'
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
+- '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
+vision: Darkvision
 weakest_save:
-- Fortitude
-weakness: null
-will: '+10'
-wisdom: '+2'
+- Will
+weakness:
+- cold iron 10
+- '[[DATABASE/trait/Good|good]] 10'
+will: '+20'
+wisdom: '+3'
 
 ---
 # Metuak, Cursed Legendary Warrior

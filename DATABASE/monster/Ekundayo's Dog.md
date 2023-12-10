@@ -9,9 +9,6 @@ constitution: '+3'
 creature_ability:
 - Support Benefit
 creature_family: null
-description: '[[DATABASE/npc/Ekundayo (Level 6)|Ekundayo ''s]] Dog<br/><br/><b><u>Recall
-  Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 32<br/><b><u>Unspecific
-  Lore</u></b>: DC 30<br/><b><u>Specific Lore</u></b>: DC 27'
 dexterity: '+4'
 element: null
 fly_speed: null

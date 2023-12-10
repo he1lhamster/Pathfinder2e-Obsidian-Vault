@@ -11,20 +11,6 @@ creature_ability:
 - Muse Possession
 - Thespian Aura
 creature_family: null
-description: "For performers who die before their time and whose love of the theater\
-  \ is stronger than death\u2019s grasp, the show does indeed go on. Such actors rise\
-  \ from the grave to become muse phantoms\u2014undead spirits that haunt opera houses\
-  \ or auditoriums and possess the bodies of living actors to continue their art.<br/><br/>\
-  \ A host is often utterly unaware of being possessed by a muse phantom. Like egotistical\
-  \ parasites, muse phantoms assume command of their unwitting thespian shells only\
-  \ during big shows with packed audiences, and even then the host might chalk up\
-  \ their sudden lack of control to the transcendence of performance, not the nefarious\
-  \ influence of some paranormal entity. In time, a performer\u2019s mind can become\
-  \ utterly warped by the spirit\u2019s domination, twisting artistic temperament\
-  \ and vanity into evil selfishness and tireless obsession.<br/><br/><b><u>Recall\
-  \ Knowledge - Spirit</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 22<br/><b><u>Recall\
-  \ Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 22<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 20<br/><b><u>Specific Lore</u></b>: DC 17"
 dexterity: '+4'
 element: null
 fly_speed: '25'

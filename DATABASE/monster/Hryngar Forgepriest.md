@@ -11,13 +11,6 @@ creature_ability:
 - Light Blindness
 - Toil is Strength
 creature_family: '[[DATABASE/monsterfamily/Duergar|Duergar]]'
-description: 'Abandoned by their cousins, the surface dwarves, hryngars were saved
-  by [[DATABASE/deity/Droskar|Droskar]] , who taught them to work hard and give no
-  quarter. Now, that hardness is the sword and shield by which the hryngar rule their
-  kingdoms. The forgepriests proselytize Droskar''s teachings and punish heretics
-  for any defiance.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 22<br/><b><u>Unspecific Lore</u></b>: DC 20<br/><b><u>Specific Lore</u></b>:
-  DC 17'
 dexterity: '+1'
 element: null
 fly_speed: null

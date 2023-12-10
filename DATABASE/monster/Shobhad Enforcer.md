@@ -11,18 +11,6 @@ creature_ability:
 - Brutal Blows
 - Ferocity
 creature_family: '[[DATABASE/monsterfamily/Shobhad|Shobhad]]'
-description: "In rough Akitonian cities like Seldo, shobhad bruisers and fist-fighters\
-  \ act as protection for businesses and enforcers for crime bosses. Shobhad enforcers\
-  \ are more rare and far more dangerous. In the wilds of Akiton, shobhad enforcers\
-  \ protect wealthy caravans using combat techniques honed and proven over multiple\
-  \ generations to devastate any creature that might mistake the caravan as an attractive\
-  \ target for a raid. \u201CEnforcer\u201D is a loose translation of a word in the\
-  \ Shobhad language that is only granted to a warrior who has proven themselves in\
-  \ combat against one of the deadly threats of the Akitonian desert, such as [[DATABASE/monster/Gluttonworm|gluttonworms]]\
-  \ or [[DATABASE/monster/Ancient Rivener|ikeshti riveners]] . Every enforcer is a\
-  \ battle-tested veteran with the scars to prove their prowess.<br/><br/><b><u>Recall\
-  \ Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 37<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 35<br/><b><u>Specific Lore</u></b>: DC 32"
 dexterity: '+4'
 element: null
 fly_speed: null

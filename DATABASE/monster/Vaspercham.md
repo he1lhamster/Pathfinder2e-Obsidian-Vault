@@ -12,17 +12,6 @@ creature_ability:
 - Mindwarping Tide
 - Whipping Tentacles
 creature_family: null
-description: 'The darkly intelligent vaspercham, an aquatic horror who delights in
-  violence and destruction, lurks in the shallows near shorelines. Once a vaspercham
-  settles on a new home, they stubbornly stay there, regardless of any communities
-  dwelling nearby. A vaspercham''s physical might and magic-warping abilities make
-  them incredibly hard to dislodge once entrenched, and many seaside communities have
-  relocated after a vaspercham came calling. The monster responds only to strength,
-  so one must best a vaspercham in combat to gain their begrudging cooperation. But
-  once the creature recovers their strength, they inevitably betray any temporary
-  alliance.<br/><br/><b><u>Recall Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]]
-  )</b>: DC 36<br/><b><u>Unspecific Lore</u></b>: DC 34<br/><b><u>Specific Lore</u></b>:
-  DC 31'
 dexterity: '+4'
 element: null
 fly_speed: null

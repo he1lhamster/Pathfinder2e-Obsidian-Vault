@@ -11,18 +11,6 @@ creature_ability:
 - Lantern of Hope
 - Retributive Strike
 creature_family: '[[DATABASE/monsterfamily/Archon|Archon]]'
-description: 'Friendly, curious, and eternally optimistic, lantern archons embody
-  the virtue of hope. They are formed of living light given corporeal shape, and they
-  serve as beacons, guiding mortals out of their darkest moments and toward the path
-  of righteousness. Their luminous bodies can flicker with the subtlety of a candle
-  flame or flare up like a torch. Lantern archons can control all aspects of their
-  light as easily as other creatures control their facial expressions, leading them
-  to change color, twinkle, and otherwise dim and brighten in time with their actions
-  and words. While effervescent and chipper in conversation, lantern archons are impressively
-  stoic mobile support troops and guardians in times of conflict, and are capable
-  of uniting to form powerful warriors of light called gestalts.<br/><br/><b><u>Recall
-  Knowledge - Celestial</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 15<br/><b><u>Unspecific
-  Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>: DC 10'
 dexterity: '+3'
 element: null
 fly_speed: '40'

@@ -12,35 +12,6 @@ creature_ability:
 - Shamble
 - Vine Lash
 creature_family: null
-description: "Shamblers are cunning carnivorous plants that resemble heaps of wet,\
-  \ rotting vegetation. Even when standing erect on their stumpy legs, shamblers don\u2019\
-  t have much in the way of identifiable anatomy; they are tangles of parasitic vines\
-  \ that lash out at prey with their longest creepers, entwined together to deliver\
-  \ powerful blows. Sometimes called \u201Cshambling mounds,\u201D these ambush predators\
-  \ have a particular fondness for flesh, and are most well known for their ability\
-  \ to hunker down and hide in plain sight. A shambler can draw nutrients from plant\
-  \ matter or soil, but won\u2019t do so if it suspects meat might soon wander near,\
-  \ and indeed may lie in wait for days in anticipation of such a meal.<br/><br/>\
-  \ Shamblers are usually solitary creatures. Fierce thunderstorms are among the few\
-  \ events that bring numerous shamblers together. During such gatherings, the plants\
-  \ gather around strange but seemingly sacred earthen mounds in remote jungles and\
-  \ swamps and cavort and caper excitedly, stretching their tendrils toward the sky\
-  \ to hope for\u2014or perhaps to summon\u2014intense lightning strikes. Not only\
-  \ are these strange plants unharmed by even the most powerful electrical strikes,\
-  \ but they seem to become supernaturally empowered by such bursts of raw energy.\
-  \ Shamblers consider being struck by lightning a sign of divine favor, and those\
-  \ shamblers frequently blasted by bolts of electricity become respected (and powerful)\
-  \ elders among their kind. Shambler elders are few and far between and may possess\
-  \ a wide array of abilities; some can cast primal spells, others can empathically\
-  \ call upon the aid of other shamblers in the area, and still others wield awesome\
-  \ powers over electricity.<br/><br/> Other types of shamblers exist, including those\
-  \ composed not of plant matter but fungal growth. These creatures, known as \u201C\
-  spore mounds,\u201D discharge clouds of toxic spores from their bodies when struck\
-  \ in combat. In semiarid deserts, shambler-like plants called tanglethorns dwell\
-  \ amid sagebrush and rock formations; they resemble bunches of tumbleweeds and cacti\
-  \ and in  ict deep, bloody lacerations with their attacks.<br/><br/><b><u>Recall\
-  \ Knowledge - Plant</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 22<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 20<br/><b><u>Specific Lore</u></b>: DC 17"
 dexterity: '+1'
 element: null
 fly_speed: null

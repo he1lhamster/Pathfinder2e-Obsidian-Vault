@@ -1,70 +1,88 @@
 ﻿---
-ac: '33'
-alignment: N
+ac: '37'
+alignment: LE
 all_resistance: null
 burrow_speed: null
-charisma: '+1'
+charisma: '+3'
 climb_speed: null
-constitution: '+4'
+constitution: '+3'
 creature_ability:
 - Attack of Opportunity
-- Dueling Expertise
-- Swift Blow
+- Battle Cry
+- Master's Cry
+- Shield Block
+- Walkena's Fury
+- Walkena's Judgment
+- Warmaster's Instinct
 creature_family: null
-description: 'The weapon master is a deadly expert with their weapon of choice. Whenever
-  possible, the weapon master engages an opponent one on one, and they prefer to begin
-  combat unarmed and use their Swift Blow to catch a foe unawares.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 33<br/><b><u>Unspecific
-  Lore</u></b>: DC 31<br/><b><u>Specific Lore</u></b>: DC 28'
-dexterity: '+2'
+dexterity: '+1'
 element: null
 fly_speed: null
-fortitude: '+26'
-hp: '250'
-id: '1449'
+fortitude: '+29'
+hp: '310'
+id: '1710'
 immunity: null
 intelligence: '+2'
 land_speed: '25'
 language:
 - '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Tien|Tien]]'
-level: '13'
+- '[[DATABASE/language/Mzunu|Mzunu]]'
+level: '16'
 max_speed: '25'
-name: Weapon Master
-perception: '+23'
-rarity: Uncommon
-reflex: '+22'
-resistance: null
+name: Worknesh
+perception: '+28'
+rarity: Unique
+reflex: '+25'
+resistance:
+- piercing 4
 rus_type_level: null
 sense: null
 size: Medium
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +23'
-- '[[DATABASE/skill/Athletics|Athletics]] +26'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +22'
-- '[[DATABASE/skill/Survival|Survival]] +24'
-- '[[DATABASE/skill/Lore|Warfare Lore]] +23'
-source: '[[DATABASE/source/Pathfinder 166. Despair on Danger Island|Pathfinder #166:
-  Despair on Danger Island]]'
+- '[[DATABASE/skill/Athletics|Athletics]] +32'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +29'
+- '[[DATABASE/skill/Religion|Religion]] +26'
+- '[[DATABASE/skill/Society|Society]] +26'
+- '[[DATABASE/skill/Stealth|Stealth]] +27'
+- '[[DATABASE/skill/Survival|Survival]] +30'
+- '[[DATABASE/skill/Lore|Warfare Lore]] +30'
+source: '[[DATABASE/source/Pathfinder 172. Secrets of the Temple City|Pathfinder #172:
+  Secrets of the Temple City]]'
 speed:
 - 25 feet
-spell: null
-strength: '+5'
-strength_req: '5'
+spell:
+- '[[DATABASE/spell/Air Walk|Air Walk]]'
+- '[[DATABASE/spell/Daze|Daze]]'
+- '[[DATABASE/spell/Detect Magic|Detect Magic]]'
+- '[[DATABASE/spell/Discern Lies|Discern Lies]]'
+- '[[DATABASE/spell/Dispel Magic|Dispel Magic]]'
+- '[[DATABASE/spell/Divine Lance|Divine Lance]]'
+- '[[DATABASE/spell/Fireball|Fireball]]'
+- '[[DATABASE/spell/Freedom of Movement|Freedom of Movement]]'
+- '[[DATABASE/spell/Heal|Heal]]'
+- '[[DATABASE/spell/Message|Message]]'
+- '[[DATABASE/spell/Prying Eye|Prying Eye]]'
+- '[[DATABASE/spell/See Invisibility|See Invisibility]]'
+- '[[DATABASE/spell/Shield|Shield]]'
+- '[[DATABASE/spell/Sigil|Sigil]]'
+- '[[DATABASE/spell/Tongues|Tongues]]'
+- '[[DATABASE/spell/Wall of Fire|Wall ofFire]]'
+strength: '+6'
+strength_req: '6'
 strongest_save:
 - Fortitude
 swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
+- '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
 vision: null
 weakest_save:
 - Reflex
 weakness: null
-will: '+24'
-wisdom: '+3'
+will: '+28'
+wisdom: '+4'
 
 ---
 # Worknesh, Walkena's Dedicated General

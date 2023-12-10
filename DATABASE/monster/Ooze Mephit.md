@@ -9,15 +9,6 @@ constitution: '+2'
 creature_ability:
 - Breath Weapon
 creature_family: '[[DATABASE/monsterfamily/Elemental, Mephit|Elemental, Mephit]]'
-description: 'Slick in every sense of the word, ooze mephits are unapologetic sycophants,
-  shamelessly flattering anyone they may be able to con a favor out of, although their
-  lack of intelligence and subtlety means that only the most vain or trusting targets
-  fail to see through their honeyed words. Lacking proper bones, these ocher-colored
-  mephits have bodies consisting primarily of ooze and muck. They smell disgusting,
-  and their touch leaves stains that are almost impossible to get out.<br/><br/><b><u>Recall
-  Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 17<br/><b><u>Unspecific Lore</u></b>: DC 15<br/><b><u>Specific Lore</u></b>:
-  DC 12'
 dexterity: '+1'
 element: Earth, Water
 fly_speed: '20'

@@ -10,14 +10,6 @@ creature_ability:
 - Buck
 - Pack Attack
 creature_family: '[[DATABASE/monsterfamily/Dog|Dog]]'
-description: 'Riding dogs types include larger dogs, such as mastiffs, wolfhounds,
-  and huskies, and are bred often by halflings and gnomes to serve as mounts. Riding
-  dogs are as loyal and devoted to their masters as guard dogs, and are ferocious
-  in battle, regardless of whether they bear a rider or not. As with guard dogs, these
-  large hounds can be wild or feral in nature, and, in some cases, might rival packs
-  of wolves with regard to the danger they pose to inhabitants of rural areas.<br/><br/><b><u>Recall
-  Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 15<br/><b><u>Unspecific
-  Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>: DC 10'
 dexterity: '+2'
 element: null
 fly_speed: null

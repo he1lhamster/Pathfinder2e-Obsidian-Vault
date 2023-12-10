@@ -14,26 +14,6 @@ creature_ability:
 - Skirmish Strike
 - Sneak Attack
 creature_family: null
-description: 'Hannis Drelev spent his youth in Brevoy frustrated at the lack of opportunity
-  for advancement. When he heard Lady Jamandi was looking for volunteers to aid her
-  in exploring and taming the Stolen Lands, he saw an opportunity to bolster his fame.
-  In the months since, Hannis has come to regret his decision, and now that he has
-  been forced to surrender to [[DATABASE/npc/Castruccio Irovetti|Irovetti]] and [[DATABASE/npc/Armag
-  Twice-Born|Armag]] , his attitude has shifted from frustration to outright cruelty.
-  Drelev comes across as a sullen, greedy, conceited man, never satisfied with his
-  lot in life, but always disdainful of anyone who has less than him. Though skilled
-  at politics, the baron fancies himself a skilled swordsman as well. He loves dueling
-  and often spars against his own guardsmen and senior officers. He likes to show
-  off, taunting and belittling those he overpowers, but reacts angrily to situations
-  where others get the best of him.<br/><br/> A patient opponent who prides himself
-  on his ability to skillfully outmaneuver his foes, Baron Drelev begins nearly every
-  turn with Defensive Slice. He favors disarming foes, and attempts to do so once
-  per round when facing an armed foe, mocking them wickedly if he''s successful and
-  cursing them violently if not.
-
-  <br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 40<br/><b><u>Unspecific Lore</u></b>: DC 38<br/><b><u>Specific Lore</u></b>:
-  DC 35'
 dexterity: '+4'
 element: null
 fly_speed: null

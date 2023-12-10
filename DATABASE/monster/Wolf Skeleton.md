@@ -9,10 +9,6 @@ constitution: '+1'
 creature_ability:
 - Surge of Speed
 creature_family: '[[DATABASE/monsterfamily/Skeleton|Skeleton]]'
-description: 'Without the burden of flesh, skeletal wolves charge across the battlefield
-  with terrifying speed.<br/><br/><b><u>Recall Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 14<br/><b><u>Unspecific Lore</u></b>: DC 12<br/><b><u>Specific Lore</u></b>:
-  DC 9'
 dexterity: '+4'
 element: null
 fly_speed: null

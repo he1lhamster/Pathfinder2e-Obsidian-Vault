@@ -12,21 +12,6 @@ creature_ability:
 - Instantaneous Movement
 - Teleportation Attachment
 creature_family: '[[DATABASE/monsterfamily/Wraith|Wraith]]'
-description: "Dahak\u2019s influence in Alseta\u2019s Landing created a soul-draining\
-  \ effect that slays unprotected creatures within, transforming them into ghostly\
-  \ creatures known as aiudara wraiths, but these rare undead can rise within modern\
-  \ <i>aiudara </i>portals as well. Each time an individual travels through an <i>aiudara</i>,\
-  \ there\u2019s a chance their passage could leave a faint imprint of their subconscious\
-  \ in the network. Normally this imprint simply fades away, but when an <i>aiudara\
-  \ </i>is damaged or the individual is suffering from necromantic contagions, these\
-  \ imprints can accumulate and, in time, coalesce on the Astral Plane or within Alseta\u2019\
-  s Landing as a full-fledged aiudara wraith. The wraith is forced to live with an\
-  \ incomplete sense of self, always seeking its own memories and swiftly growing\
-  \ violent and vengeful as its quest to reclaim these ephemeral notions constantly\
-  \ meets with failure.<br/><br/><b><u>Recall Knowledge - Astral</u> ( [[DATABASE/skill/Occultism|Occultism]]\
-  \ )</b>: DC 43<br/><b><u>Recall Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]]\
-  \ )</b>: DC 43<br/><b><u>Unspecific Lore</u></b>: DC 41<br/><b><u>Specific Lore</u></b>:\
-  \ DC 38"
 dexterity: '+9'
 element: null
 fly_speed: '60'

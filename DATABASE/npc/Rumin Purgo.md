@@ -11,9 +11,6 @@ creature_ability:
 - Sneak Attack
 - Susceptible to Mockery
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 38<br/><b><u>Unspecific
-  Lore</u></b>: DC 36<br/><b><u>Specific Lore</u></b>: DC 33'
 dexterity: '+4'
 element: null
 fly_speed: null

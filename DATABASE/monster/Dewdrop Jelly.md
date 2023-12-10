@@ -10,15 +10,6 @@ creature_ability:
 - Dissolve
 - Overflow
 creature_family: '[[DATABASE/monsterfamily/Elemental, Water|Elemental, Water]]'
-description: 'Dewdrop jellies are small water elementals resembling jellyfish made
-  of gelatinous bubbles. They typically travel in small schools, floating through
-  the air or swimming through the endless seas of their home plane. When threatened,
-  the jellies discorporate into a thin, vaporous mist, reconstituting into their bubble
-  shape only after the danger has passed. Their clever elusiveness makes them hard
-  to find, leading some to claim that dewdrop jellies are mythical flights of fancy
-  told to entertain children.<br/><br/><b><u>Recall Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Nature|Nature]] )</b>: DC 15<br/><b><u>Unspecific Lore</u></b>:
-  DC 13<br/><b><u>Specific Lore</u></b>: DC 10'
 dexterity: '+3'
 element: Water
 fly_speed: '20'

@@ -12,34 +12,6 @@ creature_ability:
 - Swallow Whole
 - Tendriculos Venom
 creature_family: null
-description: "These strange amalgams of plant and fungus with animal tendencies form\
-  \ where the natural world is corrupted by foul magic or frayed planar boundaries.\
-  \ Tendriculoses are instinctive ambush predators who seek out lightly traveled forest\
-  \ paths and lie in wait in the undergrowth. A tendriculos swallows its prey as quickly\
-  \ as possible and lets its paralytic digestive juices finish the meal, while swiftly\
-  \ restoring itself with the nourishment provided by the trapped creature. When collected,\
-  \ neutralized, and refined, the digestive fluids of a tendriculos form a lacquer\
-  \ that retains some of the tendriculos's acid resistance.<br/><br/> A tendriculos\
-  \ comes into being with a rudimentary understanding of the [[DATABASE/language/Sylvan|Sylvan]]\
-  \ language, but in some cases it might manifest knowing a different tongue, such\
-  \ as [[DATABASE/language/Aklo|Aklo]] , [[DATABASE/language/Draconic|Draconic]] ,\
-  \ or even [[DATABASE/language/Necril|Necril]] . Regardless, tendriculoses have little\
-  \ patience for chattering from potential meals, though some determined fey and primal\
-  \ spellcasters have been known to form alliances or even closer bonds with tendriculoses.\
-  \ Befriending a tendriculos requires great patience and plentiful food\u2014and\
-  \ these the gifts of food must be alive when handed over.<br/><br/> When it has\
-  \ finished feeding and is out of combat, a tendriculos slips into a quiescent state\
-  \ for a full day, one of the few times it is safe to approach. Upon rousing, it\
-  \ seeks the deep forest to regurgitate the less digestible portions of its meal.\
-  \ These remains may contain valuables that survived digestion and indicate that\
-  \ a tendriculos's hunting grounds lie nearby.<br/><br/> Tendriculoses dwell in deep\
-  \ woods and jungles. Those too near populated areas soon draw unwanted attention\
-  \ with their ravenous appetites. Well-fed tendriculoses develop fruiting bodies\
-  \ that cast forth millions of spores. Spores that happen to alight on carrion grow\
-  \ into new tendriculoses.<br/><br/><b><u>Recall Knowledge - Fungus</u> ( [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 23<br/><b><u>Recall Knowledge - Plant</u> ( [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 23<br/><b><u>Unspecific Lore</u></b>: DC 21<br/><b><u>Specific Lore</u></b>:\
-  \ DC 18"
 dexterity: '+2'
 element: null
 fly_speed: null

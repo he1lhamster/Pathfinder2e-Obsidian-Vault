@@ -15,15 +15,6 @@ creature_ability:
 - Vulnerable to Positive
 - Energy
 creature_family: null
-description: 'Originally created by Gebbite necromancers during the war against Nex,
-  the scarecophagus is an evil construct that draws power directly from the undead
-  [[DATABASE/monsterfamily/Mummy|mummy]] trapped forever within its sealed core. This
-  necromantic energy is channeled throughout the construct''s body, allowing it to
-  scuttle about on legs of stone, animate tentacles to strike at foes, and use the
-  mummy''s trapped mind for its own sapience and magical powers.<br/><br/><b><u>Recall
-  Knowledge - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]]
-  )</b>: DC 27<br/><b><u>Unspecific Lore</u></b>: DC 25<br/><b><u>Specific Lore</u></b>:
-  DC 22'
 dexterity: '+2'
 element: null
 fly_speed: null

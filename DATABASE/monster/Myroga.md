@@ -13,16 +13,6 @@ creature_ability:
 - Ley Line Rupture
 - Ley Line Sense
 creature_family: null
-description: "Myrogas are avaricious, simple-minded dragons with supernatural occult\
-  \ powers. They draw their amazing abilities from ley lines\u2014loci of intense\
-  \ magical energy often associated with psychic phenomena.<br/><br/> A myroga encountered\
-  \ away from a ley line is far less dangerous, a fact which myrogas recognize and\
-  \ take great pains to mitigate. Upon discovering an unoccupied ley line, a myroga\
-  \ is apt to roost nearby and guard the site ferociously. All the while, it sups\
-  \ on the ley line's nearly inexhaustible ambient magic to grow stronger and expand\
-  \ its repertoire of brutal powers.<br/><br/><b><u>Recall Knowledge - Dragon</u>\
-  \ ( [[DATABASE/skill/Arcana|Arcana]] )</b>: DC 27<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 25<br/><b><u>Specific Lore</u></b>: DC 22"
 dexterity: '+3'
 element: null
 fly_speed: '50'

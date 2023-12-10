@@ -11,14 +11,6 @@ creature_ability:
 - Stoke the Fervent
 - Wicked Bite
 creature_family: '[[DATABASE/monsterfamily/Urdefhan|Urdefhan]]'
-description: 'Urdefhan spellcasters with a knack for the divine are invariably unholy
-  worshippers of daemonkind, typically taking on one of [[DATABASE/plane/Abaddon|Abaddon]]
-  ''s Four Horsemen of the Apocalypse as their patron deity. With their unholy gifts,
-  these urdefhan tormentors summon [[DATABASE/monsterfamily/Daemon|daemons]] into
-  battle and bolster their allies with profane magic, preferring to stick to the sidelines
-  rather than enter the fray directly.<br/><br/><b><u>Recall Knowledge - Humanoid</u>
-  ( [[DATABASE/skill/Society|Society]] )</b>: DC 20<br/><b><u>Unspecific Lore</u></b>:
-  DC 18<br/><b><u>Specific Lore</u></b>: DC 15'
 dexterity: '+1'
 element: null
 fly_speed: null

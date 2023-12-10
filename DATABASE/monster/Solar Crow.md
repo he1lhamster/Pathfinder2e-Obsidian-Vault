@@ -14,12 +14,6 @@ creature_ability:
 - Smoke Vision
 - Snatch
 creature_family: '[[DATABASE/monsterfamily/Elemental, Fire|Elemental, Fire]]'
-description: 'These enormous three-legged elementals resemble crows with flaming feathers,
-  said to shine as bright as the sun. They nest in the smoldering Forest of Mulberry
-  Coals, living in flocks of eight to a dozen, with ten being the most common.<br/><br/><b><u>Recall
-  Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 27<br/><b><u>Unspecific Lore</u></b>: DC 25<br/><b><u>Specific Lore</u></b>:
-  DC 22'
 dexterity: '+6'
 element: Fire
 fly_speed: '50'

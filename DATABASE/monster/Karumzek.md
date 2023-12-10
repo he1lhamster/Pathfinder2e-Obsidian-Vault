@@ -11,10 +11,6 @@ creature_ability:
 - Karumzek Venom
 - Poison Sense
 creature_family: '[[DATABASE/monsterfamily/Karumzek|Karumzek]]'
-description: 'Karumzeks work with [[DATABASE/deity/Norgorber|Norgorberites]] to further
-  the secretive deity''s goals.<br/><br/><b><u>Recall Knowledge - Aberration</u> (
-  [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 21<br/><b><u>Unspecific Lore</u></b>:
-  DC 19<br/><b><u>Specific Lore</u></b>: DC 16'
 dexterity: '+4'
 element: null
 fly_speed: null

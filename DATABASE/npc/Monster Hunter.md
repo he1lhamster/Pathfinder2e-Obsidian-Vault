@@ -11,11 +11,6 @@ creature_ability:
 - Rage
 - Sudden Charge
 creature_family: '[[DATABASE/monsterfamily/Mercenaries|Mercenaries]]'
-description: 'Some mercenaries eschew the complications of politics, oaths of service,
-  and fealty and just get paid to hunt monsters. It''s a straightforward form of mercenary
-  service, often dangerous in the extreme, but one that can yield glory and fame.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 22<br/><b><u>Unspecific
-  Lore</u></b>: DC 20<br/><b><u>Specific Lore</u></b>: DC 17'
 dexterity: '+3'
 element: null
 fly_speed: null

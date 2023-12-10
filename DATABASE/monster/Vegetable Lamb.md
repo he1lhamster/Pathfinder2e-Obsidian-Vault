@@ -10,19 +10,6 @@ creature_ability:
 - Cottonseed Burst
 - Nature's Bounty
 creature_family: '[[DATABASE/monsterfamily/Elemental, Wood|Elemental, Wood]]'
-description: "Vegetable lambs are gaining popularity as the first elemental to be\
-  \ summoned by spellcasters in training, as they're docile until provoked and easy\
-  \ to control. Casters must take care, however, to not let them germinate in the\
-  \ [[DATABASE/plane/Material Plane|Universe]] ; they're a highly invasive species\
-  \ that can devour an entire forest within a decade.<br/><br/> The healing and nourishing\
-  \ food that grows from vegetable lambs is appealing for adventurers and sedentary\
-  \ magical scholars alike. The taste is similar to the plants of the same kind that\
-  \ grow on Golarion, but not entirely. Many have noted that there's a slight similarity\
-  \ to meat\u2014a bit of umami one wouldn't find in an ordinary flower.<br/><br/><b><u>Recall\
-  \ Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 15<br/><b><u>Recall Knowledge - Plant</u> ( [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 15<br/><b><u>Unspecific Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>:\
-  \ DC 10"
 dexterity: '+1'
 element: Wood
 fly_speed: null

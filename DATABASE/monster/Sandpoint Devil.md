@@ -12,19 +12,6 @@ creature_ability:
 - Devil's Howl
 - Trample
 creature_family: null
-description: 'While some creatures have been fused to create a new entity that''s
-  graceful and beautiful, the Sandpoint Devil is the opposite. It has the hooves and
-  body of a powerful horse, but it walks on its hind legs in a perverse parody of
-  a humanoid gait. Its equine face has been distorted and elongated with skeletal,
-  yellowed fangs and milky eyes. The pox-spotted hide along the creature''s back bears
-  a draconic tail with dark, spiny plates and two torn, bat-like wings.<br/><br/>
-  The legendary Sandpoint Devil appears only on moonless nights when mists gather
-  around the coast. Most encounters end with missing livestock or children, with little
-  left behind other than oddly placed hoofprints that reek of brimstone.<br/><br/><b><u>Recall
-  Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 34<br/><b><u>Recall Knowledge - Fiend</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 34<br/><b><u>Unspecific Lore</u></b>: DC 32<br/><b><u>Specific Lore</u></b>:
-  DC 29'
 dexterity: '+4'
 element: null
 fly_speed: '50'

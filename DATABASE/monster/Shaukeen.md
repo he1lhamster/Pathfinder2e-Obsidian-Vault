@@ -10,17 +10,6 @@ creature_ability:
 - Change Shape
 - Fire Jackal Saliva
 creature_family: '[[DATABASE/monsterfamily/Asura|Asura]]'
-description: "Perhaps the most perverse asuras of them all, shaukeens particularly\
-  \ delight in causing the downfall of those who give them succor, shelter, and most\
-  \ of all, schooling. Many a teacher has come across a shaukeen disguised as a small\
-  \ child of exceptional talents or curiosity and taken them under their wing, only\
-  \ to be beguiled into ruin. This diminutive asura's cleverness is disproportionate\
-  \ to their size; they ask probing questions and coax their prey into decisions that\
-  \ lead to heresy, furthering the collapse of order and decency. When the world turns\
-  \ on the shaukeen's mentor, the asura is gone\u2014but not very far, for they love\
-  \ hiding unseen and watching the torment and destruction of their mentors.<br/><br/><b><u>Recall\
-  \ Knowledge - Fiend</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 15<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>: DC 10"
 dexterity: '+4'
 element: null
 fly_speed: null

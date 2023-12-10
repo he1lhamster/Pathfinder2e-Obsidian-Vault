@@ -1,72 +1,63 @@
 ﻿---
-ac: '18'
-alignment: NE
+ac: '23'
+alignment: N
 all_resistance: null
 burrow_speed: null
 charisma: '+0'
 climb_speed: null
-constitution: '+1'
+constitution: '+5'
 creature_ability:
+- Cold Adaptation
+- Pointed Charge
+- Rolling Thunder
 - Toss
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 18<br/><b><u>Unspecific
-  Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>: DC 13'
-dexterity: '+4'
+dexterity: '+2'
 element: null
-fly_speed: '30'
-fortitude: '+7'
+fly_speed: null
+fortitude: '+17'
 hardness: null
-hp: 32 ( negative healing )
-id: '1779'
-immunity:
-- '[[DATABASE/trait/Death|death]] effects'
-- '[[DATABASE/trait/Disease|disease]]'
-- '[[DATABASE/trait/Mental|mental]]'
-- '[[DATABASE/condition/Paralyzed|paralyzed]]'
-- '[[DATABASE/trait/Poison|poison]]'
-- '[[DATABASE/condition/Unconscious|unconscious]]'
+hp: '110'
+id: '1773'
+immunity: null
 intelligence: '-5'
-land_speed: '15'
+land_speed: '35'
 language: null
-level: '2'
-max_speed: '30'
-name: Long-Horned Bison Beheaded
-perception: '+7'
-rarity: Uncommon
-reflex: '+10'
+level: '6'
+max_speed: '35'
+name: Long-Horned Bison
+perception: '+13'
+rarity: Common
+reflex: '+12'
 resistance: null
 rus_type_level: null
 school: null
 sense:
-- '[[DATABASE/monsterability/Darkvision|darkvision]]'
-size: Medium
+- '[[DATABASE/monsterability/Scent|scent]] (imprecise) 60 feet'
+size: Huge
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +8'
-- '[[DATABASE/skill/Athletics|Athletics]] +7'
+- '[[DATABASE/skill/Athletics|Athletics]] +16'
+- '[[DATABASE/skill/Survival|Survival]] +13'
 source: '[[DATABASE/source/Pathfinder 176. Lost Mammoth Valley|Pathfinder #176: Lost
   Mammoth Valley]]'
 speed:
-- 15 feet
-- fly 30 feet
+- 35 feet
 spell: null
-strength: '+3'
-strength_req: '3'
+strength: '+6'
+strength_req: '6'
 strongest_save:
-- Reflex
+- Fortitude
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Mindless|Mindless]]'
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
-- '[[DATABASE/trait/Undead|Undead]]'
+- '[[DATABASE/trait/Animal|Animal]]'
 type: Creature
-vision: Darkvision
+vision: null
 weakest_save:
+- Reflex
 - Will
-weakness:
-- '[[DATABASE/trait/Positive|positive]] 3'
-will: '+5'
-wisdom: '+1'
+weakness: null
+will: '+12'
+wisdom: '+3'
 
 ---
 # Bison, Long-Horned

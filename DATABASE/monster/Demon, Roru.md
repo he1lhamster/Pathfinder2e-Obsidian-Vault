@@ -1,88 +1,77 @@
 ﻿---
-ac: '29'
+ac: '25'
 alignment: CE
 all_resistance: null
 burrow_speed: null
-charisma: '+1'
-climb_speed: '10'
-constitution: '+6'
+charisma: '+2'
+climb_speed: null
+constitution: '+2'
 creature_ability:
-- Extend Strands
-- Flurry of Strands
-- Pull the Strands
-- Reactive Lash
-- Sticky Strand
-creature_family: null
-description: "To all but the most sharp-eyed underground explorers, a roper appears\
-  \ to be nothing more than a large stalactite, stalagmite, or pillar of ice. Cunning\
-  \ and patient ambush predators, ropers use this to their advantage.<br/><br/> Ropers\
-  \ do not form large societies (although they can often be found living alongside\
-  \ other deep-dwelling denizens), but they often congregate in small clusters and\
-  \ sometimes hunt in groups. Particularly interested in the philosophy of life and\
-  \ death and the flner points of the more cruel and sinister religions of the world,\
-  \ a roper can talk or argue for hours with those it initially sought merely to eat.\
-  \ Quick-thinking spelunkers can sometimes stave off a roper\u2019s appetite by entertaining\
-  \ it with stories or discussions of philosophy, but ropers do not willingly allow\
-  \ such intriguing prey to escape alive. Stories speak of particularly skilled debaters\
-  \ and philosophers who have been kept for days or even years as pets or conversational\
-  \ companions by roper clusters, but in the end, if such pets don\u2019t eventually\
-  \ escape, the ropers\u2019 appetites win out over their intellectual curiosity\u2014\
-  especially in cases where the pets constantly outmaneuver their keepers\u2019 wits\
-  \ and patience. A roper is 9 feet tall and weighs 2,200 pounds.<br/><br/><b><u>Recall\
-  \ Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC\
-  \ 29<br/><b><u>Unspecific Lore</u></b>: DC 27<br/><b><u>Specific Lore</u></b>: DC\
-  \ 24"
-dexterity: '+1'
+- Disobedience Vulnerability
+- Incite Ferocity
+- Predatory Aura
+- Wear Pelt
+creature_family: '[[DATABASE/monsterfamily/Demon|Demon]]'
+dexterity: '+4'
 element: null
 fly_speed: null
-fortitude: '+20'
+fortitude: '+15'
 hardness: null
-hp: '215'
-id: '353'
+hp: '120'
+id: '1774'
 immunity: null
-intelligence: '+1'
-land_speed: '10'
+intelligence: '+0'
+land_speed: '40'
 language:
-- '[[DATABASE/language/Aklo|Aklo]]'
-- '[[DATABASE/language/Undercommon|Undercommon]]'
-level: '10'
-max_speed: '10'
-name: Roper
-perception: '+21'
+- '[[DATABASE/language/Abyssal|Abyssal]]'
+- '[[DATABASE/language/Celestial|Celestial]]'
+- '[[DATABASE/language/Draconic|Draconic]] ; [[DATABASE/spell/Speak with Animals|speak
+  with animals]]'
+- '[[DATABASE/monsterability/Telepathy|telepathy]] 100 feet'
+level: '7'
+max_speed: '40'
+name: Roru
+perception: '+16'
 rarity: Uncommon
-reflex: '+15'
-resistance:
-- electricity 10
+reflex: '+17'
+resistance: null
 rus_type_level: null
 school: null
 sense:
-- darkvision
-size: Large
+- '[[DATABASE/monsterability/Darkvision|darkvision]]'
+- '[[DATABASE/monsterability/Scent|scent]] (imprecise) 60 feet'
+size: Medium
 skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +22'
-- '[[DATABASE/skill/Nature|Nature]] +17'
-- '[[DATABASE/skill/Religion|Religion]] +19'
-- '[[DATABASE/skill/Stealth|Stealth]] +17'
-source: '[[DATABASE/source/Bestiary|Bestiary]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +15'
+- '[[DATABASE/skill/Athletics|Athletics]] +17'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +15'
+- '[[DATABASE/skill/Nature|Nature]] +14'
+- '[[DATABASE/skill/Survival|Survival]] +16'
+source: '[[DATABASE/source/Pathfinder 176. Lost Mammoth Valley|Pathfinder #176: Lost
+  Mammoth Valley]]'
 speed:
-- 10 feet
-- climb 10 feet
-spell: null
+- 40 feet
+spell:
+- '[[DATABASE/spell/Dimension Door|Dimension Door]]'
+- '[[DATABASE/spell/Dominate|Dominate]]'
+- '[[DATABASE/spell/Speak with Animals|Speak with Animals]]'
 strength: '+6'
 strength_req: '6'
 strongest_save:
-- Will
+- Reflex
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Aberration|Aberration]]'
+- '[[DATABASE/trait/Demon|Demon]]'
+- '[[DATABASE/trait/Fiend|Fiend]]'
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
 vision: Darkvision
 weakest_save:
-- Reflex
+- Will
 weakness:
-- fire 10
-will: '+21'
+- '[[DATABASE/equipment/Cold Iron Weapon|cold iron]] 5'
+- good 5
+will: '+12'
 wisdom: '+3'
 
 ---

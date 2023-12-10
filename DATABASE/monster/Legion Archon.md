@@ -12,14 +12,6 @@ creature_ability:
 - Menacing Guardian
 - Retributive Strike
 creature_family: '[[DATABASE/monsterfamily/Archon|Archon]]'
-description: "Despite their flaming blades and heavy armor, legion archons are the\
-  \ diplomats of peace among the archons, preferring justice via compromise and mutual\
-  \ benefit rather than justice by the sword. Nonetheless, when forced to fight against\
-  \ fiendish powers\u2014especially fiends that embody the sin of wrath\u2014legion\
-  \ archons don\u2019t hesitate in battle, mounting offensives under divine commanders\
-  \ like Iomedae.<br/><br/><b><u>Recall Knowledge - Celestial</u> ( [[DATABASE/skill/Religion|Religion]]\
-  \ )</b>: DC 23<br/><b><u>Unspecific Lore</u></b>: DC 21<br/><b><u>Specific Lore</u></b>:\
-  \ DC 18"
 dexterity: '+2'
 element: null
 fly_speed: '60'

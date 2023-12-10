@@ -12,14 +12,6 @@ creature_ability:
 - Nightmare Essence
 - Skull Charge
 creature_family: null
-description: "Spellcasters who harness the power of the [[DATABASE/domain/Dreams Domain|Dimension\
-  \ of Dreams]] may use it to fuel vicious servitors known as terrorguards\u2014hulking\
-  \ terrors adorned with frames made of an [[DATABASE/equipment/Abysium|Abysium]]\
-  \ alloy. Terrorguards come in many forms; creators often design the constructs'\
-  \ frames to mimic grotesque aberrations by mixing-and-matching parts.<br/><br/><b><u>Recall\
-  \ Knowledge - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]]\
-  \ )</b>: DC 37<br/><b><u>Unspecific Lore</u></b>: DC 35<br/><b><u>Specific Lore</u></b>:\
-  \ DC 32"
 dexterity: '+5'
 element: null
 fly_speed: null

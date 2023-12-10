@@ -13,18 +13,6 @@ creature_ability:
 - Siphon Soul
 - Soul Facsimile
 creature_family: null
-description: "Soul slimes are swirling, blue-gray masses of protoplasm that feed on\
-  \ the quintessence contained within souls. Typically, soul slimes acquire this quintessence\
-  \ by consuming the living, the [[DATABASE/trait/Undead|undead]] , or souls imprisoned\
-  \ in other objects, although soul slimes can also feed on the quintessence of the\
-  \ Outer Planes and their occupants. Soul slimes digest these siphoned souls over\
-  \ decades. As long as a portion of a soul remains undigested, a soul slime can adopt\
-  \ the shape and use the vocalizations of that soul\u2014a tactic soul slimes routinely\
-  \ adopt to get close to their prey while hunting. As soul slimes lack the intelligence\
-  \ to truly impersonate or mimic the souls they digest, they are obvious facsimiles\
-  \ and are entirely incapable of speech.<br/><br/><b><u>Recall Knowledge - Ooze</u>\
-  \ ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 43<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 41<br/><b><u>Specific Lore</u></b>: DC 38"
 dexterity: '-3'
 element: null
 fly_speed: null

@@ -9,14 +9,6 @@ constitution: '+3'
 creature_ability:
 - Glide
 creature_family: '[[DATABASE/monsterfamily/Squirrel|Squirrel]]'
-description: 'Though other squirrels can fall from a great height safely, flying squirrels
-  can soar through the air. Flaps of loose skin between their limbs catch the air
-  to keep them aloft as they leap from greater heights. They can use this technique
-  to escape prey or reach places that would be difficult to climb up to.<br/><br/>
-  The giant variety of flying squirrels dwell in the highest treetops. They''re more
-  likely to be in danger from airborne enemies than predators on the ground.<br/><br/><b><u>Recall
-  Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 16<br/><b><u>Unspecific
-  Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>: DC 11'
 dexterity: '+4'
 element: null
 fly_speed: null

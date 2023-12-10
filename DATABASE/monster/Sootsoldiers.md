@@ -16,16 +16,6 @@ creature_ability:
 - Troop
 - Movement
 creature_family: null
-description: 'Powerful deities and warlords strive for dominance over the [[DATABASE/plane/Plane
-  of Fire|Plane of Fire]] and the rest of the Inner Sphere in order to prove fire''s
-  supremacy. Armies of flaming soldiers go to war against each other on battlefields
-  of smoke and smoldering char, all unable to bring their full power to bear. [[DATABASE/deity/Ymeri|Ymeri]]
-  , the vicious and victorious Queen of the Inferno, commands legions of sootsoldiers:
-  elementals capable of battling the armies of her foes and, even when destroyed,
-  rising from the ashes of the Eternal Furnace, scorched and triumphant.<br/><br/><b><u>Recall
-  Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 27<br/><b><u>Unspecific Lore</u></b>: DC 25<br/><b><u>Specific Lore</u></b>:
-  DC 22'
 dexterity: '+5'
 element: Fire
 fly_speed: null

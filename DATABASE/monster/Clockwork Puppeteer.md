@@ -13,13 +13,6 @@ creature_ability:
 - Pull String
 - Wind Up
 creature_family: '[[DATABASE/monsterfamily/Clockworks|Clockworks]]'
-description: 'Clockwork puppeteers are grim constructs capable of controlling corpses
-  like puppets. They typically stand 12 feet tall and have spindly legs and long arms
-  ending with scalpel-like claws. Dozens of metallic strings, composed of interlocking
-  clockwork links, hang from their wrists.<br/><br/><b><u>Recall Knowledge - Construct</u>
-  ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]] )</b>:
-  DC 32<br/><b><u>Unspecific Lore</u></b>: DC 30<br/><b><u>Specific Lore</u></b>:
-  DC 27'
 dexterity: '+6'
 element: null
 fly_speed: null

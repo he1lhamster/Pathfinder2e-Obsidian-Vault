@@ -12,26 +12,6 @@ creature_ability:
 - Serve
 - Skewer Master
 creature_family: null
-description: 'With bodies of fired clay, brochmaws look like walking cylindrical ovens
-  split across the middle by their titular maws, which rage with the fires of culinary
-  perfection. Behind their maw burns a powerful internal oven, where the elemental
-  creatures roast their prey.<br/><br/> Brochmaws are driven solely by their voracious
-  appetites, only leaving their lairs to acquire new meals. Early attempts to force
-  brochmaws into service resulted in their would-be captors being reduced to nothing
-  more than ash on a plate, accompanied by a written review of how they tasted. Now,
-  brochmaws are employed all across the Planes, lured by the sweet promise of new,
-  fresh meat.<br/><br/> Though brochmaws have no use for money, they do trade gifts
-  for services. The only thing they have to offer is cooked meat from their own mouths,
-  which they deem extremely valuable. Surprisingly, all who have tried brochmaw meat
-  claim it to be a savory roasted delight. Given that brochmaws offer nothing but
-  cooked meat and desire nothing but raw meat, trading with them is a simple if slightly
-  dangerous affair, often coming down to the quantity and rarity of the meat offered.<br/><br/>
-  Brochmaws hate to see meat go to waste. If one discovers a carcass of any sort,
-  they call others of their kind to join them in a festive cookout, with dancing and
-  feasting inevitably accompanied by compliments or complaints about the quality of
-  the food.<br/><br/><b><u>Recall Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Nature|Nature]] )</b>: DC 31<br/><b><u>Unspecific Lore</u></b>:
-  DC 29<br/><b><u>Specific Lore</u></b>: DC 26'
 dexterity: '+4'
 element: Fire
 fly_speed: null

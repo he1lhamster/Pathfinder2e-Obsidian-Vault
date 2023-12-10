@@ -12,20 +12,6 @@ creature_ability:
 - Share Blessings
 - Wake the Dead
 creature_family: null
-description: "Only the most fanatic followers of [[DATABASE/deity/Urgathoa|Urgathoa]]\
-  \ , goddess of disease, gluttony, and undeath, could ever hope to become a child\
-  \ of Urgathoa. These \u201Cblessed\u201D undead can't be created by any save Urgathoa\
-  \ herself, and the blessing must be bestowed at the moment of death. Those rare\
-  \ few chosen by their goddess to serve as undying vessels for her power are revered\
-  \ by Urgathoa's faithful. Most surround themselves with fanatic cults or undead\
-  \ armies, subjugating and terrorizing secluded communities.<br/><br/> Children of\
-  \ Urgathoa are arrogant, notoriously cruel, and utterly devoted to their goddess\
-  \ and her teachings. They show no favor to members of their faith, inflicting pain\
-  \ and sowing infection throughout Urgathoa's clergy as often as unaffiliated victims.\
-  \ Children of Urgathoa are at their most sadistic while punishing heretics, particularly\
-  \ those who prove too afraid to accept the goddess's gifts of death and undeath.<br/><br/><b><u>Recall\
-  \ Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 29<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 27<br/><b><u>Specific Lore</u></b>: DC 24"
 dexterity: '+3'
 element: null
 fly_speed: '40'

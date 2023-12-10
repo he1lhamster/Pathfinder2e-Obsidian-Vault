@@ -1,82 +1,64 @@
 ﻿---
-ac: '36'
-alignment: LE
+ac: '24'
+alignment: CE
 all_resistance: null
 burrow_speed: null
-charisma: '+2'
+charisma: '+0'
 climb_speed: null
 constitution: '+4'
 creature_ability:
-- Change Shape
-- Curse of the Wererat
-- Deadly Aim
-- Distracting Shot
-- Hunted Shot
-- Moon Frenzy
-- Rat
-- Empathy
-- Targeting Shot
-creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 42<br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 42<br/><b><u>Unspecific Lore</u></b>: DC 40<br/><b><u>Specific Lore</u></b>:
-  DC 37'
+- Churning Frenzy
+creature_family: '[[DATABASE/monsterfamily/Brughadatch|Brughadatch]]'
 dexterity: '+6'
 element: null
 fly_speed: null
-fortitude: '+25'
+fortitude: '+17'
 hardness: null
-hp: '315'
-id: '2324'
+hp: '140'
+id: '527'
 immunity: null
-intelligence: '+0'
-land_speed: '25'
+intelligence: '-4'
+land_speed: '10'
 language:
-- '[[DATABASE/language/Common|Common]]'
-level: '14'
-max_speed: '25'
-name: Gaetane
-perception: '+27'
-rarity: Unique
-reflex: '+28'
+- '[[DATABASE/language/Sylvan|Sylvan]] ; (can''t speak any languages)'
+level: '7'
+max_speed: '35'
+name: Gahlepod
+perception: '+13'
+rarity: Common
+reflex: '+19'
 resistance: null
 rus_type_level: null
 school: null
 sense:
-- '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
-- '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
-size: Medium
+- darkvision
+- scent (imprecise) 30 feet
+size: Small
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +28'
-- '[[DATABASE/skill/Athletics|Athletics]] +26'
-- '[[DATABASE/skill/Nature|Nature]] +22'
-- '[[DATABASE/skill/Stealth|Stealth]] +28'
-- '[[DATABASE/skill/Survival|Survival]] +25'
-source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +17'
+- '[[DATABASE/skill/Survival|Survival]] +14'
+source: '[[DATABASE/source/Pathfinder 154. Siege of the Dinosaurs|Pathfinder #154:
+  Siege of the Dinosaurs]]'
 speed:
-- 25 feet
+- 10 feet
+- swim 35 feet
 spell: null
 strength: '+4'
 strength_req: '4'
 strongest_save:
 - Reflex
-swim_speed: null
+swim_speed: '35'
 trait:
-- '[[DATABASE/trait/Beast|Beast]]'
-- '[[DATABASE/trait/Human|Human]]'
-- '[[DATABASE/trait/Humanoid|Humanoid]]'
-- '[[DATABASE/trait/Unique|Unique]]'
-- '[[DATABASE/trait/Werecreature|Werecreature]]'
+- '[[DATABASE/trait/Amphibious|Amphibious]]'
+- '[[DATABASE/trait/Fey|Fey]]'
 type: Creature
-vision: Low-light vision
+vision: Darkvision
 weakest_save:
-- Fortitude
 - Will
 weakness:
-- silver 15
-will: '+25'
-wisdom: '+5'
+- cold iron 5
+will: '+14'
+wisdom: '+1'
 
 ---
 # Gahlepod (Juvenile Brughadatch)

@@ -11,11 +11,6 @@ creature_ability:
 - Harvest Flesh
 - Surgical Mandibles
 creature_family: '[[DATABASE/monsterfamily/Skin Beetle|Skin Beetle]]'
-description: "A typical skin beetle is 1-1/2 feet long and weighs 10 pounds\u2014\
-  about the size of a house cat. Its oval-shaped body is covered in dull-colored scales,\
-  \ and short, club-like antennae stem from shallow grooves in its head.<br/><br/><b><u>Recall\
-  \ Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 20<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>: DC 15"
 dexterity: '+4'
 element: null
 fly_speed: '15'

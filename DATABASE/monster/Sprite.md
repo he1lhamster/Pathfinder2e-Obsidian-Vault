@@ -9,15 +9,6 @@ constitution: '+0'
 creature_ability:
 - Luminous Fire
 creature_family: '[[DATABASE/monsterfamily/Sprite|Sprite]]'
-description: 'Common sprites are primeval guardians that latch onto a person, place,
-  or object and defend it for their own inscrutable reasons. Their dispositions vary
-  from kind to spiteful, but all sprites have a capricious streak. Being only about
-  9 inches tall, they are wary of animals that might hunt them, particularly house
-  cats, and prefer flight to a fight. On the other hand, sprites are incredibly curious
-  about all forms of magic and heedlessly gather around ley line nexuses or other
-  places of power.<br/><br/><b><u>Recall Knowledge - Fey</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 13<br/><b><u>Unspecific Lore</u></b>: DC 11<br/><b><u>Specific Lore</u></b>:
-  DC 8'
 dexterity: '+4'
 element: null
 fly_speed: '40'

@@ -16,16 +16,6 @@ creature_ability:
 - ''
 - Swarm Shape
 creature_family: null
-description: 'Crownbound constellations are the essence of stars granted sentience
-  by the goddess [[DATABASE/deity/Desna|Desna]] , who created them to survey the vastness
-  of space and help her craft the galaxy. Their intergalactic travels once took them
-  far, but [[DATABASE/deity/Lamashtu|Lamashtu]] sought to ensnare Desna''s creation.
-  The Mother of Beasts lured them to Golarion and then, exploiting the power of Golarion''s
-  sun, corrupted their ability to star travel. Stranded on the planet and unable to
-  bear sunlight, these creatures traveled to the Crown of the World, where they have
-  settled ever since.<br/><br/><b><u>Recall Knowledge - Astral</u> ( [[DATABASE/skill/Occultism|Occultism]]
-  )</b>: DC 26<br/><b><u>Unspecific Lore</u></b>: DC 24<br/><b><u>Specific Lore</u></b>:
-  DC 21'
 dexterity: '+4'
 element: null
 fly_speed: null

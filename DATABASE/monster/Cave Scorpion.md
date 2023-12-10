@@ -9,14 +9,6 @@ constitution: '+3'
 creature_ability:
 - Cave Scorpion Venom
 creature_family: '[[DATABASE/monsterfamily/Scorpion|Scorpion]]'
-description: 'Cave scorpions prefer to reside in underground lairs. Most have lost
-  nearly all of their pigmentation, making them appear ghostly when they lurk at the
-  edge of the light. While they prefer to eat large insects, cave scorpions can and
-  will attack humanoids. Some Darklands societies have developed techniques to herd
-  or lure scorpions into pest-infested tunnels and warrens at the edge of their settlements,
-  where the scorpions thrive in a dual role of exterminators and guardians.<br/><br/><b><u>Recall
-  Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 15<br/><b><u>Unspecific
-  Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>: DC 10'
 dexterity: '+4'
 element: null
 fly_speed: null

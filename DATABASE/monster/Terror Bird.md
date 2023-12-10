@@ -10,11 +10,6 @@ creature_ability:
 - Sprint
 - Tearing Clutch
 creature_family: '[[DATABASE/monsterfamily/Terror Bird|Terror Bird]]'
-description: 'Common terror birds, also known as axe beaks, are notable hunters. On
-  their own, they use their great speed to catch prey unawares. In a flock, they can
-  swarm larger beasts like aurochs and take them down with overwhelming numbers.<br/><br/><b><u>Recall
-  Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 16<br/><b><u>Unspecific
-  Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>: DC 11'
 dexterity: '+3'
 element: null
 fly_speed: null

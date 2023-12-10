@@ -10,10 +10,6 @@ creature_ability:
 - Buck
 - Sudden Retreat
 creature_family: '[[DATABASE/monsterfamily/Hippocampus|Hippocampus]]'
-description: 'Living in the deepest reaches of the ocean, giant hippocampi haven''t
-  been sighted near the shore and are often regarded as legends made up by sailors.<br/><br/><b><u>Recall
-  Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 26<br/><b><u>Unspecific
-  Lore</u></b>: DC 24<br/><b><u>Specific Lore</u></b>: DC 21'
 dexterity: '+4'
 element: null
 fly_speed: null

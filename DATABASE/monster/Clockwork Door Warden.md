@@ -11,11 +11,6 @@ creature_ability:
 - Slam Door
 - Wind-Up
 creature_family: '[[DATABASE/monsterfamily/Clockworks|Clockworks]]'
-description: 'This mechanical humanoid serves the role of a gatekeeper or even a greeter,
-  but its strength also enables it to repel unwanted visitors.<br/><br/><b><u>Recall
-  Knowledge - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]]
-  )</b>: DC 24<br/><b><u>Unspecific Lore</u></b>: DC 22<br/><b><u>Specific Lore</u></b>:
-  DC 19'
 dexterity: '+2'
 element: null
 fly_speed: null

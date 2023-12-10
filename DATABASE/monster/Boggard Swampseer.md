@@ -13,11 +13,6 @@ creature_ability:
 - Terrifying Croak
 - Tongue Grab
 creature_family: '[[DATABASE/monsterfamily/Boggard|Boggard]]'
-description: 'The boggard swampseer has been gifted with magic through its worship
-  of the demon lord Gogunta, and uses its power to rule a boggard village, keeping
-  the rest of the village in line and planning raids on nearby communities.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 18<br/><b><u>Unspecific
-  Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>: DC 13'
 dexterity: '+0'
 element: null
 fly_speed: null

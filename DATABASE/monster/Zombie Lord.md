@@ -11,12 +11,6 @@ creature_ability:
 - Create Zombies
 - Shamble Forth!
 creature_family: '[[DATABASE/monsterfamily/Zombie|Zombie]]'
-description: 'Cunning zombie lords command their lesser kin, which they can use in
-  unexpected ways. They have been known to direct or collaborate with [[DATABASE/monster/Husk
-  Zombie|husk]] and [[DATABASE/monster/Withered|withered zombies]] , creating cells
-  of intelligent zombies hiding within the ranks of mindless undead.<br/><br/><b><u>Recall
-  Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 21<br/><b><u>Unspecific
-  Lore</u></b>: DC 19<br/><b><u>Specific Lore</u></b>: DC 16'
 dexterity: '+4'
 element: null
 fly_speed: null

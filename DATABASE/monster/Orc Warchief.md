@@ -11,10 +11,6 @@ creature_ability:
 - Battle Cry
 - Ferocity
 creature_family: '[[DATABASE/monsterfamily/Orc|Orc]]'
-description: 'When orcs raid, the strongest is chosen as the leader, backed up by
-  brothers, sisters, and other immediate family.<br/><br/><b><u>Recall Knowledge -
-  Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 16<br/><b><u>Unspecific
-  Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>: DC 11'
 dexterity: '+2'
 element: null
 fly_speed: null

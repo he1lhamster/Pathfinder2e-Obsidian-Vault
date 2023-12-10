@@ -10,23 +10,6 @@ creature_ability:
 - Steady Spellcasting
 - Universal Obedience
 creature_family: '[[DATABASE/monsterfamily/Hellknights|Hellknights]]'
-description: '<i>Face covered by a menacing helm and body clad in ornate plate, this
-  figure projects an aura of immutable authority</i>.<br/><br/> Each order of Hellknights
-  is led by a powerful paravicar, a general in charge of dictating the order''s tactics
-  and the administration of its resources. Within the order, the word of these figures
-  is law, and members from the lowliest squire to the most senior knight follow commands
-  from a paravicar with unswerving devotion. Paravicars see their personal dedication
-  to the order''s edicts as an example for all members and hold themselves to the
-  same high standards as their underlings. Though they seldom need to call upon them,
-  paravicars use their considerable infernal powers to reinforce their positions in
-  the Hellknight''s hierarchy.<br/><br/> In combat, paravicars take direct command
-  of their troops of knights and armigers. Paravicars are experienced campaigners
-  who prefer calculated tactical gambits to hot-headed, risky maneuvers that could
-  leave their forces exposed. If pressed into combat, paravicars use their abilities
-  to demoralize their foes and compel enemies to become their allies or to flee the
-  field.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 28<br/><b><u>Unspecific Lore</u></b>: DC 26<br/><b><u>Specific Lore</u></b>:
-  DC 23'
 dexterity: '+2'
 element: null
 fly_speed: null

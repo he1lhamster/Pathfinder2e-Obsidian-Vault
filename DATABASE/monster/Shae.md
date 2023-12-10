@@ -14,31 +14,6 @@ creature_ability:
 - Swift Steps
 - Tenebral Form
 creature_family: null
-description: "Shae are wispy, tenebrous creatures native to the [[DATABASE/plane/Shadow\
-  \ Plane|Plane of Shadow]] . Their amorphous bodies appear in constant states of\
-  \ flux. They cast no shadows of their own, instead gaining and losing umbral energy\
-  \ to nearby shadows that shrink and grow alongside them.<br/><br/> Most shae wear\
-  \ clothing spun from shadows that shift with them, though diplomats sometimes don\
-  \ more conventional garments while entertaining outsiders. Their most distinctive\
-  \ apparel are their white stone masks, which shae don only when they must put on\
-  \ a discernible \u201Cface\u201D for interacting with humanoids and similar creatures.\
-  \ They do so begrudgingly, as they consider themselves superior to humanoids, but\
-  \ donning their masks allows them to be more easily understood and thus keeps their\
-  \ interactions with their lessers as brief as possible.<br/><br/> The dynamic between\
-  \ a shae and humanoids shifts when humanoids come to worship a shae, however. A\
-  \ mortal who shows a shae their due deference is worth keeping around, so many shae\
-  \ collect cults of personality or expansive entourages. Even getting a meeting with\
-  \ such a self-important shae can present a challenge that requires one to deal with\
-  \ many layers of hangers-on who insist on vetting the newcomer before wasting the\
-  \ shae's precious time.<br/><br/> According to shae lore, they've transcended the\
-  \ material world and now embody a cosmological equilibrium of reality and illusion.\
-  \ Their claims to metaphysical ascendance and knowledge of the secrets of shadows\
-  \ entice many mortal supplicants to join shae courts and cults. In the shae language,\
-  \ their name means \u201Cunbound,\u201D in accordance with their belief that their\
-  \ ephemeral nature makes them free of the moral and social strictures that bind\
-  \ other sentient creatures, and they essentially make a virtue of capriciousness.\
-  \ Shae feel little obligation to follow through with oaths or obey laws, so sealing\
-  \ a compact with a mortal means little to them."
 dexterity: '+5'
 element: null
 fly_speed: '35'

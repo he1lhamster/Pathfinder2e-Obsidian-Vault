@@ -11,22 +11,6 @@ creature_ability:
 - Change Shape
 - Isolating Lash
 creature_family: '[[DATABASE/monsterfamily/Skelm|Skelm]]'
-description: "Soul skelms arise not from mortal men but from other skelms, as their\
-  \ long-held wrath slowly twists them and replaces lingering fragments of their mortality\
-  \ with even more fiendish aspects. These skelms bully and exploit the souls of the\
-  \ dead, binding souls and undead to keep themselves indefinitely young. They bully\
-  \ living victims as well, stoking regret and shame even from inconsequential minutiae\
-  \ or outright fabrications until these feelings become unbreakable ties that the\
-  \ skelm can leverage from beyond the grave. A soul skelm's attentions can leave\
-  \ a victim isolated from friends and allies, making them all the more susceptible\
-  \ to the skelm's manipulations.<br/><br/> Ambitious soul skelms\u2014often those\
-  \ who arise from [[DATABASE/monster/Palace Skelm|palace skelms]] \u2014search out\
-  \ powerful, high-strung mortals and trick them into bringing ridicule or shame on\
-  \ themselves. After their victim's death, the skelms gleefully remind them of their\
-  \ mortal failings, feeding on their despair.<br/><br/><b><u>Recall Knowledge - Fiend</u>\
-  \ ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 27<br/><b><u>Recall Knowledge\
-  \ - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 27<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 25<br/><b><u>Specific Lore</u></b>: DC 22"
 dexterity: '+3'
 element: null
 fly_speed: null

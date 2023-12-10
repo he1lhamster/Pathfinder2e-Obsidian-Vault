@@ -11,12 +11,6 @@ creature_ability:
 - Dread Striker
 - Favored Terrain
 creature_family: '[[DATABASE/monsterfamily/Criminals|Criminals]]'
-description: 'By setting ambushes and traps in concealing countryside, such as forests
-  and mountains, bandits waylay travelers and plunder their valuables before disappearing
-  back to their wilderness hideouts. Many bandits seek only to steal and release their
-  victims alive, though a few prefer to leave no witnesses.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 16<br/><b><u>Unspecific
-  Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>: DC 11'
 dexterity: '+3'
 element: null
 fly_speed: null

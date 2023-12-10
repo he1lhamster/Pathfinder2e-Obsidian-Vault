@@ -12,12 +12,6 @@ creature_ability:
 - Shrieking Scream
 - Swarming Gnaw
 creature_family: '[[DATABASE/monsterfamily/Skull Swarm|Skull Swarm]]'
-description: 'Roiling about in seething waves of bleached death, clacking skull swarms
-  arise from the remains of dozens of beheaded humanoids. The horrible clattering
-  of the skulls'' onslaught drives their prey to distraction even while they try to
-  flee in terror.<br/><br/><b><u>Recall Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 27<br/><b><u>Unspecific Lore</u></b>: DC 25<br/><b><u>Specific Lore</u></b>:
-  DC 22'
 dexterity: '+3'
 element: null
 fly_speed: null

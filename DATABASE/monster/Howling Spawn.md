@@ -15,18 +15,6 @@ creature_ability:
 - Putrid
 - Evanescence
 creature_family: null
-description: 'While [[DATABASE/monster/Desert''s Howl|Desert''s Howl]] is presumed
-  to be unique, given its inexplicable origin, there have been reports of creatures
-  resembling Desert''s Howl that stalk the sands of Thuvia. Though quite similar to
-  the descriptions of Desert''s Howl, they seem to be individuals who haven''t yet
-  fully completed their transformation into the terrifying beast. Whether these unfortunate
-  people met a cruel fate similar to that which spawned Desert''s Howl or are spawn
-  of the nightmarish creature itself is unclear. Some reports of encounters with these
-  creatures note that it''s possible to revert the creature back to its humanoid form
-  by cleansing its mind of nightmarish visions, though there''s no solid evidence
-  of such an event ever occurring.<br/><br/><b><u>Recall Knowledge - Aberration</u>
-  ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 33<br/><b><u>Unspecific Lore</u></b>:
-  DC 31<br/><b><u>Specific Lore</u></b>: DC 28'
 dexterity: '+6'
 element: null
 fly_speed: '15'

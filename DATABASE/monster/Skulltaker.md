@@ -13,12 +13,6 @@ creature_ability:
 - Skeletal Lore
 - Splintered Ground
 creature_family: null
-description: 'Swirling down from misty peaks and through howling mountain passes like
-  an evil wind, the vortex of bones known as a skulltaker is a terrible manifestation
-  of the delirium and agony experienced by doomed climbers and lost trailblazers just
-  before they met their end. In some places, a skulltaker is also known as a saxra.<br/><br/><b><u>Recall
-  Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 40<br/><b><u>Unspecific
-  Lore</u></b>: DC 38<br/><b><u>Specific Lore</u></b>: DC 35'
 dexterity: '+6'
 element: null
 fly_speed: '60'

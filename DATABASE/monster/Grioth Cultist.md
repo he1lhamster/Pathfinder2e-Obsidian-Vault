@@ -14,23 +14,6 @@ creature_ability:
 - No Breath
 - Shock Mind
 creature_family: '[[DATABASE/monsterfamily/Grioth|Grioth]]'
-description: "Grioth cultists represent the lowest tier of their remorseless cult\u2014\
-  worshippers of the Elder Mythos tasked with leading scouting missions into new worlds.\
-  \ Though ranked above scouts in the chain of command, they occupy a lowly place\
-  \ in the overall religious hierarchy. Though whispered rumors describe the legendary\
-  \ rituals needed to wrench worlds from their suns, these cultists don't learn this\
-  \ potent magic. Such secrets are left to grioth high priests, who are always the\
-  \ last to arrive in a colonized world.<br/><br/> Most grioths worship the Outer\
-  \ God [[DATABASE/deity/Nyarlathotep|Nyarlathotep]] in one of his many incarnations,\
-  \ although some worship other entities of the Elder Mythos such as [[DATABASE/deity/Azathoth|Azathoth]]\
-  \ , [[DATABASE/deity/Nhimbaloth|Nhimbaloth]] , or [[DATABASE/deity/Yog-Sothoth|Yog-Sothoth]]\
-  \ . In the highly rare cases where a grioth is cut off from their society and given\
-  \ the opportunity to explore other religions, they still lean into faiths associated\
-  \ with the stars or the night, such as [[DATABASE/deity/Desna|Desna]] or [[DATABASE/deity/Zon-Kuthon|Zon-Kuthon]]\
-  \ . However, these grioths are loathed by others of their own kind, who view them\
-  \ as dangerous heretics.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]\
-  \ )</b>: DC 23<br/><b><u>Unspecific Lore</u></b>: DC 21<br/><b><u>Specific Lore</u></b>:\
-  \ DC 18"
 dexterity: '+3'
 element: null
 fly_speed: '30'

@@ -12,18 +12,6 @@ creature_ability:
 - Inspiring Influence
 - Little Wish
 creature_family: '[[DATABASE/monsterfamily/Genie|Genie]]'
-description: 'Gennayns are minor genies who often serve as emissaries and messengers
-  for greater elemental beings. While many find purpose in this humble mission, their
-  true calling and interest is in the arts.<br/><br/> They often appear as miniature,
-  athletic humanoids with wisps of elemental energy continually dissipating from their
-  bodies. These elemental energies often reflect their emotions and attuned element.
-  Gennayns are also fond of ostentatious rings, amulets, and armbands.<br/><br/> Gennayns
-  eagerly assist powerful beings who reward and treat them well, but they''re just
-  as quick to abandon those they consider boring, stingy, or abusive. Beings who destroy
-  artwork or mistreat artists will earn their eternal wrath.<br/><br/><b><u>Recall
-  Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 16<br/><b><u>Unspecific Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>:
-  DC 11'
 dexterity: '+4'
 element: null
 fly_speed: '15'

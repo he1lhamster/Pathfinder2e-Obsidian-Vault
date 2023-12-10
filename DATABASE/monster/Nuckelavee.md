@@ -15,19 +15,6 @@ creature_ability:
 - ''
 - Trample
 creature_family: null
-description: 'When pollution despoils a natural waterway, it draws the dreaded nuckelavee
-  to it from the [[DATABASE/plane/First World|First World]] . This spirit of wrath
-  is a grisly sight to behold: a horselike monstrosity with the gnarled upper body
-  of a humanoid growing directly from its back. Further enhancing the awfulness, not
-  a patch of skin exists on the misshapen hybrid form, as though it survived its own
-  flaying.<br/><br/> When a nuckelavee rides forth from its domain, it wreaks a trail
-  of destruction across the lands surrounding its path. Nuckelavees are considered
-  among the cruelest and most monstrous fey, seen by some as just desserts visited
-  upon those who would befoul the waters of their homes. A nuckelavee, though, doesn''t
-  discriminate between those who pollute and those who merely have the misfortune
-  to be in the wrong place at the wrong time.<br/><br/><b><u>Recall Knowledge - Fey</u>
-  ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 26<br/><b><u>Unspecific Lore</u></b>:
-  DC 24<br/><b><u>Specific Lore</u></b>: DC 21'
 dexterity: '+3'
 element: null
 fly_speed: null

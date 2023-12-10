@@ -1,114 +1,93 @@
 ﻿---
-ac: '28'
-alignment: CE
+ac: '45'
+alignment: CG
 all_resistance: null
 burrow_speed: null
-charisma: '+2'
-climb_speed: '30'
-constitution: '+4'
+charisma: '+8'
+climb_speed: null
+constitution: '+8'
 creature_ability:
-- Breath Weapon
-- Draconic Frenzy
-- Draconic Momentum
-- Freezing Blood
-- Frightful Presence
-- Ice
-- Climb
-- Mist Shroud
-- Shape Ice
-- Snuff
-- Storm Vision
-creature_family: null
-description: 'The white dragon Venexus hatched in Winterwall Glacier, north of the
-  Realm of the Mammoth Lords and Irrisen, alongside her brother Fezerod. Upon reaching
-  maturity, Venexus and Fezerod migrated south to the Realm of the Mammoth Lords in
-  search of unclaimed territory. Although the pair remained together for centuries,
-  shortly after they conquered Lost Mammoth Valley together Venexus drove him off.
-  The valley was, at the time, a highly frequented migratory route rich in resources,
-  wildlife, and humanoids to subjugate. Fezerod fled in heartbreak and shame. In the
-  centuries since, Venexus has maintained control of Lost Mammoth Valley, considering
-  the region and everything within her property.<br/><br/> The opening of the Worldwound
-  to the east forever changed Lost Mammoth Valley and Venexus''s role as its self-appointed
-  ruler. Invading demons forced the Burning Mammoth following to abandon most of their
-  ancient migratory route, including Lost Mammoth Valley, leaving Venexus without
-  intelligent creatures to subjugate. Thankfully, it wasn''t long before a group of
-  Sarkorian refugees settled in the valley. After these people, who called themselves
-  Sutaki, established a permanent settlement, she made herself known as their overlord.
-  To ensure their cooperation, she built her glacial palace alongside them, blocking
-  escape from the valley.<br/><br/> Years later, a brave but foolish Burning Mammoth
-  warrior named Metuak came to Lost Mammoth Valley seeking Venexus''s aid. He asked
-  her to end the curse placed upon him by the Primordial Flame and to free him of
-  his possession by the shadow demon Xeleria. Rather than help, Venexus stole the
-  Primordial Flame, forcing Metuak to flee for Hillcross. Although Venexus would have
-  followed to ensure his death, she hadn''t truly understood the artifact''s curse
-  or its powers. The lamp burned her badly and melted her palace, but she couldn''t
-  bear to part with it. It became, in time, both her most valuable asset and greatest
-  weakness.<br/><br/><b><u>Recall Knowledge - Dragon</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  )</b>: DC 36<br/><b><u>Unspecific Lore</u></b>: DC 34<br/><b><u>Specific Lore</u></b>:
-  DC 31'
-dexterity: '+2'
+- Alter Weather
+- Rebirth
+creature_family: '[[DATABASE/monsterfamily/Azata|Azata]]'
+dexterity: '+6'
 element: null
-fly_speed: '120'
-fortitude: '+21'
+fly_speed: '40'
+fortitude: '+36'
 hardness: null
-hp: '170'
-id: '1793'
-immunity:
-- '[[DATABASE/trait/Cold|cold]]'
-- '[[DATABASE/condition/Paralyzed|paralyzed]]'
-- '[[DATABASE/trait/Sleep|sleep]]'
-intelligence: '+2'
-land_speed: '30'
+hp: '475'
+id: '560'
+immunity: null
+intelligence: '+6'
+land_speed: '40'
 language:
-- '[[DATABASE/language/Common|Common]]'
+- '[[DATABASE/language/Celestial|Celestial]]'
 - '[[DATABASE/language/Draconic|Draconic]]'
-- '[[DATABASE/language/Hallit|Hallit]]'
-level: '9'
-max_speed: '120'
-name: Venexus
-perception: '+20'
-rarity: Unique
-reflex: '+15'
-resistance: null
+- '[[DATABASE/language/Infernal|Infernal]] ; [[DATABASE/spell/Speak with Animals|speak
+  with animals]]'
+- '[[DATABASE/spell/Speak with Plants|speak with plants]]'
+- '[[DATABASE/spell/Tongues|tongues]]'
+level: '20'
+max_speed: '40'
+name: Veranallia
+perception: '+38'
+rarity: Common
+reflex: '+34'
+resistance:
+- fire 20
+- cold 20
 rus_type_level: null
 school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
-- '[[DATABASE/monsterability/Scent|scent]] (imprecise) 60 feet'
-- storm vision
-size: Large
+- '[[DATABASE/monsterability/Tremorsense|tremorsense (imprecise) 120 feet]]'
+size: Medium
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +17'
-- '[[DATABASE/skill/Arcana|Arcana]] +17'
-- '[[DATABASE/skill/Athletics|Athletics]] +21'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +19'
-- '[[DATABASE/skill/Stealth|Stealth]] +15'
-source: '[[DATABASE/source/Pathfinder 176. Lost Mammoth Valley|Pathfinder #176: Lost
-  Mammoth Valley]]'
+- '[[DATABASE/skill/Athletics|Athletics]] +34'
+- '[[DATABASE/skill/Deception|Deception]] +36'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +38'
+- '[[DATABASE/skill/Lore|Elysium Lore]] +36'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +36'
+- '[[DATABASE/skill/Medicine|Medicine]] +36'
+- '[[DATABASE/skill/Nature|Nature]] +34'
+- '[[DATABASE/skill/Survival|Survival]] +38'
+source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
-- 30 feet
-- fly 120 feet; ice climb 30 feet
+- 40 feet
+- fly 40 feet
 spell:
-- '[[DATABASE/spell/Gust of Wind|Gust of Wind]]'
-- '[[DATABASE/spell/Obscuring Mist|Obscuring Mist]]'
-- '[[DATABASE/spell/Produce Flame|Produce Flame]]'
+- '[[DATABASE/spell/Baleful Polymorph|Baleful Polymorph]]'
+- '[[DATABASE/spell/Cataclysm|Cataclysm]]'
+- '[[DATABASE/spell/Endure Elements|Endure Elements]]'
+- '[[DATABASE/spell/Nature''s Enmity|Nature''s Enmity]]'
+- '[[DATABASE/spell/Polar Ray|Polar Ray]]'
+- '[[DATABASE/spell/Primal Phenomenon|Primal Phenomenon]]'
+- '[[DATABASE/spell/Regenerate|Regenerate]]'
+- '[[DATABASE/spell/Revival|Revival]]'
+- '[[DATABASE/spell/Speak with Animals|Speak with Animals]]'
+- '[[DATABASE/spell/Speak with Plants|Speak with Plants]]'
+- '[[DATABASE/spell/Storm of Vengeance|Storm of Vengeance]]'
 - '[[DATABASE/spell/Sunburst|Sunburst]]'
-strength: '+6'
-strength_req: '6'
+- '[[DATABASE/spell/Tangling Creepers|Tangling Creepers]]'
+- '[[DATABASE/spell/Tongues|Tongues]]'
+- '[[DATABASE/spell/Tree Stride|Tree Stride]]'
+strength: '+8'
+strength_req: '8'
 strongest_save:
-- Fortitude
+- Will
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Cold|Cold]]'
-- '[[DATABASE/trait/Dragon|Dragon]]'
-- '[[DATABASE/trait/Unique|Unique]]'
+- '[[DATABASE/trait/Azata|Azata]]'
+- '[[DATABASE/trait/Celestial|Celestial]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Reflex
-weakness: null
-will: '+17'
-wisdom: '+3'
+weakness:
+- cold iron 20
+- evil 20
+will: '+38'
+wisdom: '+10'
 
 ---
 # Veranallia (Rebirth Azata)

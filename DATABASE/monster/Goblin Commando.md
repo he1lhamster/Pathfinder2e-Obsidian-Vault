@@ -9,12 +9,6 @@ constitution: '+2'
 creature_ability:
 - Goblin Scuttle
 creature_family: '[[DATABASE/monsterfamily/Goblin|Goblin]]'
-description: 'The theoretical leaders of goblin raids are called goblin commandos.
-  In practice, goblin commandos rarely continue to lead their comrades once a battle
-  has begun. Most shirk their responsibilities in favor of wading into the fray and
-  claiming more glory from their tribe-mates.<br/><br/><b><u>Recall Knowledge - Humanoid</u>
-  ( [[DATABASE/skill/Society|Society]] )</b>: DC 15<br/><b><u>Unspecific Lore</u></b>:
-  DC 13<br/><b><u>Specific Lore</u></b>: DC 10'
 dexterity: '+3'
 element: null
 fly_speed: null

@@ -20,8 +20,6 @@ creature_ability:
 - Rend
 - Swallow Whole
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Unspecific
-  Lore</u></b>: DC 48<br/><b><u>Specific Lore</u></b>: DC 45'
 dexterity: '+4'
 element: null
 fly_speed: null

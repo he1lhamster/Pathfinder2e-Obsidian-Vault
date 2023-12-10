@@ -10,11 +10,6 @@ creature_ability:
 - Nimble Stride
 - Ram Charge
 creature_family: '[[DATABASE/monsterfamily/Ram|Ram]]'
-description: 'Ringhorn rams, named for the massive, curving spirals protruding from
-  their heads, travel the plains. Though these rams tend to be slightly more playful
-  and less vindictive than those in the mountains, they are no less stubborn or hardy.<br/><br/><b><u>Recall
-  Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 14<br/><b><u>Unspecific
-  Lore</u></b>: DC 12<br/><b><u>Specific Lore</u></b>: DC 9'
 dexterity: '+2'
 element: null
 fly_speed: null

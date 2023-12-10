@@ -14,17 +14,6 @@ creature_ability:
 - Trample
 - Wide Cleave
 creature_family: '[[DATABASE/monsterfamily/Titan|Titan]]'
-description: 'Danava titans once regulated the foundational forces that shaped reality.
-  Rebuked by the gods for being harsh and inflexible overseers, these spurned titans
-  joined their siblings in their failed war against their creators. Defeated, the
-  danavas were cast into the paralyzing depths of the cosmos''s seas. The few danava
-  titans who have escaped now wield the cold, darkness, and crushing pressure of their
-  prisons in pursuit of their ancient visions of reality. Danavas split mountains,
-  wake primordial beasts, or level whole civilizations in accordance with grand designs
-  they forged at the dawn of time. Others hunt and harvest the balance-enforcing aeons,
-  who they see as usurpers of their divine responsibility.<br/><br/><b><u>Recall Knowledge
-  - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 51<br/><b><u>Unspecific
-  Lore</u></b>: DC 49<br/><b><u>Specific Lore</u></b>: DC 46'
 dexterity: '+8'
 element: Water
 fly_speed: null

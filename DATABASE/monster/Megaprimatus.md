@@ -10,11 +10,6 @@ creature_ability:
 - Mangling Rend
 - Terrifying Display
 creature_family: '[[DATABASE/monsterfamily/Ape|Ape]]'
-description: 'The megaprimatus is among the mightiest of apes, quick to confront any
-  perceived intrusions into its domain. With a height of 40 feet, it towers over even
-  most giants, and is used to being the top-tier predator in the region.<br/><br/><b><u>Recall
-  Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 24<br/><b><u>Unspecific
-  Lore</u></b>: DC 22<br/><b><u>Specific Lore</u></b>: DC 19'
 dexterity: '+2'
 element: null
 fly_speed: null

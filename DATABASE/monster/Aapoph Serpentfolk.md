@@ -11,17 +11,6 @@ creature_ability:
 - Serpentfolk Venom
 - Slithering Attack
 creature_family: '[[DATABASE/monsterfamily/Serpentfolk|Serpentfolk]]'
-description: "Aapophs possess greater strength and stronger venom than their zyss\
-  \ kin, but they lack zyss' intelligence and innate magic. Unlike their selfish superiors,\
-  \ aapophs are communal and group together to hunt, wrestle, and sleep curled together\
-  \ in pits. Though they're looked down upon and insulted by zyss, most aapophs lack\
-  \ the higher brain functions to recognize when they're being insulted, much less\
-  \ plan or execute a rebellion. Aapophs often have unusual physical mutations\u2014\
-  horns, vestigial tails, or spines protruding from their scales\u2014yet these variations\
-  \ have little impact on their overall combat prowess\u2014 and combat prowess is\
-  \ the measure by which zyss judge them.<br/><br/><b><u>Recall Knowledge - Humanoid</u>\
-  \ ( [[DATABASE/skill/Society|Society]] )</b>: DC 20<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 18<br/><b><u>Specific Lore</u></b>: DC 15"
 dexterity: '+2'
 element: null
 fly_speed: null

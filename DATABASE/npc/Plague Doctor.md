@@ -10,14 +10,6 @@ creature_ability:
 - Healing Hands
 - Improved Communal Healing
 creature_family: '[[DATABASE/monsterfamily/Healers|Healers]]'
-description: "These healers, often seen wearing distinctive masks and burning powders\
-  \ to defend against airborne plagues, are as much feared as they are respected.\
-  \ To see a plague doctor signals that disease has infested the land\u2014and that\
-  \ it might have already taken hold. Despite their devoted work in curing the untouchable,\
-  \ they are sometimes treated with suspicion, as if they are somehow the cause of\
-  \ the plague.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]\
-  \ )</b>: DC 20<br/><b><u>Unspecific Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>:\
-  \ DC 15"
 dexterity: '+1'
 element: null
 fly_speed: null

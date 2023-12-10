@@ -10,10 +10,6 @@ creature_ability:
 - Magic Horn
 - Magic Susceptibility
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 17<br/><b><u>Unspecific Lore</u></b>: DC 15<br/><b><u>Specific Lore</u></b>:
-  DC 12'
 dexterity: '+4'
 element: null
 fly_speed: null

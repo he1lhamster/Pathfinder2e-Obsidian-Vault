@@ -12,22 +12,6 @@ creature_ability:
 - Subsonic Pulse
 - Ultrasonic Thrust
 creature_family: null
-description: 'Catching a glimpse of a harmona is said to be lucky. Flying quickly,
-  observing and scouting new areas, these brightly colored avian fey are all but hidden
-  to the eye. A soft buzz accompanies them, discernible only to creatures with particularly
-  keen hearing.<br/><br/> Intelligent and curious, these tiny fey birds freely roam
-  the [[DATABASE/plane/First World|First World]] , accompanying high-ranking fey creatures
-  such as queens or their courts. In turn, companions who treat a harmona with respect
-  for their knowledge and skill benefit from the harmona''s aid in times of need.<br/><br/>
-  When these curious creatures find a natural gate between the planes, they glide
-  through to explore and expand their knowledge. Those who find their way onto the
-  [[DATABASE/plane/Material Plane|Material Plane]] often choose to remain there in
-  search of diverse and unusual places. This frequently leads them to the same locations
-  that draw in curious adventurers. A harmona might befriend a non-fey adventurer
-  as a companion, but they resent those who would treat them as pets and fight to
-  the death to avoid capture.<br/><br/><b><u>Recall Knowledge - Fey</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 30<br/><b><u>Unspecific Lore</u></b>: DC 28<br/><b><u>Specific Lore</u></b>:
-  DC 25'
 dexterity: '+6'
 element: null
 fly_speed: '60'

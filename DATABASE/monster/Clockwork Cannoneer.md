@@ -12,31 +12,6 @@ creature_ability:
 - Powder Blast
 - Wind-Up
 creature_family: '[[DATABASE/monsterfamily/Clockworks|Clockworks]]'
-description: 'Clockwork cannoneers are cannon-armed constructs created to defend the
-  Grand Duchy of Alkenstar. The people of Alkenstar typically find conventional arms
-  sufficient for battling creatures who wander out of the Mana Wastes, but recent
-  increases in activity from the fleshforges of Nex and the necromantic chambers of
-  Geb have spurred the people of the city into a flurry of defensive innovations.
-  Created by an experimental collaboration between the city''s gunsmiths and clockwork
-  inventors, the clockwork cannoneer provides exceptional mobile firepower. Two cannon-arms
-  swing at the sides of the 15-foot-tall automaton, and its body contains a hopper
-  of cannonballs that are replenished by engineers when the creature is wound up for
-  duty. Triple-walled reinforcement on the cannoneer''s black-powder reservoirs provides
-  ample protection from the accidental explosions and backfires that often troubled
-  early prototypes of the finely engineered machine. The current design combines the
-  long-range capabilities of field artillery with the stopping power of a firedrake
-  against engaged enemies, and its heat-tempered gear assembly minimizes warping that
-  might cause slipping, grinding, or shaking.<br/><br/> While reports from living
-  artillery members serving alongside clockwork cannoneers complain of blisters, smoke
-  inhalation, and singed eyebrows, the Grand Duchy''s chief clockwork machinists have
-  assured the city''s leadership that the constructs function well within safety parameters.
-  The clockwork cannoneer''s self-sufficient construction frees crews to see to those
-  battlefield tasks that can, for the moment, only be conducted by sentient beings.<br/><br/>
-  Intelligence reports from Quantium and Absalom indicate that attempts to replicate
-  the clockwork cannoneer''s design have been spectacularly unsuccessful.<br/><br/><b><u>Recall
-  Knowledge - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]]
-  )</b>: DC 39<br/><b><u>Unspecific Lore</u></b>: DC 37<br/><b><u>Specific Lore</u></b>:
-  DC 34'
 dexterity: '+8'
 element: null
 fly_speed: null

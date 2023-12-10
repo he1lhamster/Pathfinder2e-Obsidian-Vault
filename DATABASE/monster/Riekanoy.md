@@ -13,12 +13,6 @@ creature_ability:
 - Sinuous Initiative
 - Waving Hair
 creature_family: null
-description: 'Riekanoys lurk in the placid rivers of the First World, demanding that
-  travelers dance with them or face their wrath. Bitterly jealous of anyone that professes
-  to be a better dancer, riekanoys make wagers in contests to prove who is the most
-  graceful and sure-footed.<br/><br/><b><u>Recall Knowledge - Fey</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 44<br/><b><u>Unspecific Lore</u></b>: DC 42<br/><b><u>Specific Lore</u></b>:
-  DC 39'
 dexterity: '+10'
 element: Water
 fly_speed: null

@@ -10,16 +10,6 @@ creature_ability:
 - Speak with Bats
 - Wrath of Spurned Hospitality
 creature_family: '[[DATABASE/monsterfamily/Sprite|Sprite]]'
-description: 'Nykteras, or bat sprites, are gentle sprites known for their affectionate
-  nature and incredible hospitality. Nykteras share features with bats, but the type
-  of bat varies by location, as nykteras tend to form small colonies in locations
-  with bats similar to their own nature. A nyktera''s sense of hospitality is such
-  that they''re willing to share with any who need it, even bitter foes. However,
-  violating a nyktera''s hospitality is one of their greatest taboos, inviting rare
-  anger and retribution from the nyktera who was wronged, as well as their large extended
-  family.<br/><br/><b><u>Recall Knowledge - Fey</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 13<br/><b><u>Unspecific Lore</u></b>: DC 11<br/><b><u>Specific Lore</u></b>:
-  DC 8'
 dexterity: '+3'
 element: null
 fly_speed: '40'

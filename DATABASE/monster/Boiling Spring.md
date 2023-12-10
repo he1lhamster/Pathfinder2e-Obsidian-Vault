@@ -13,16 +13,6 @@ creature_ability:
 - Steam Vision
 - Sweltering Heat
 creature_family: '[[DATABASE/monsterfamily/Elemental, Water|Elemental, Water]]'
-description: 'Often mistaken for [[DATABASE/monsterfamily/Elemental, Air|air elementals]]
-  due to their hazy, almost-imperceptible forms, a boiling spring is a humanoid water
-  elemental made of scalding steam and bubbling water. When summoned to the [[DATABASE/plane/Material
-  Plane|Universe]] , a boiling spring raises the ambient temperature around them,
-  making the surrounding climate humid and muggy. They seem to enjoy the discomfort
-  they cause, though some regard it as merely a fun prank while others truly revel
-  in the misery and look for ways to cause more.<br/><br/><b><u>Recall Knowledge -
-  Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 31<br/><b><u>Unspecific Lore</u></b>: DC 29<br/><b><u>Specific Lore</u></b>:
-  DC 26'
 dexterity: '+7'
 element: Fire, Water
 fly_speed: '30'

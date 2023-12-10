@@ -15,20 +15,6 @@ creature_ability:
 - Rise
 - Again
 creature_family: null
-description: "An unrisen is a mangled conglomeration of splintered bones, decaying\
-  \ organs, and rotting flesh, created when a ritual such as [[DATABASE/ritual/Resurrect|resurrect]]\
-  \ goes catastrophically wrong. Immense care must be taken, for if the ritual is\
-  \ a critical failure, an unrisen can be the result\u2014as many a ritualist has\
-  \ learned to their horror. <br/><br/>Unrisen are barely intelligent, aware only\
-  \ of the agony constantly inflicted by their flawed creation and their resentment\
-  \ for the living. They tend to attack the casters involved in the botched ritual\
-  \ first before lashing out at everyone else around them. Though an unrisen's twisted\
-  \ form is unrecognizable as the intended target of the resurrection, its wordless\
-  \ howls are often disturbingly similar to the deceased's voice. If an unrisen is\
-  \ destroyed before it can rise again, it's reduced to a handful of metallic blue-green\
-  \ salts referred to as essential salts.<br/><br/><b><u>Recall Knowledge - Undead</u>\
-  \ ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 28<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 26<br/><b><u>Specific Lore</u></b>: DC 23"
 dexterity: '+4'
 element: null
 fly_speed: null

@@ -12,10 +12,6 @@ creature_ability:
 - Reckless Alchemy
 - Unstable Compounds
 creature_family: '[[DATABASE/monsterfamily/Villains|Villains]]'
-description: 'It''s the reckless scientist''s job to break the rules of reality, no
-  matter the cost.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 22<br/><b><u>Unspecific Lore</u></b>: DC 20<br/><b><u>Specific Lore</u></b>:
-  DC 17'
 dexterity: '+4'
 element: null
 fly_speed: null

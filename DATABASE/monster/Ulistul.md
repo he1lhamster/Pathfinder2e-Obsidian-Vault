@@ -13,17 +13,6 @@ creature_ability:
 - Ivory Dictum
 - Statuesense
 creature_family: null
-description: 'Having replaced over half her body with scavenged and rebuilt parts,
-  Ulistul is a patchwork juggernaut and stubborn survivor. Her pieces are in various
-  colors, making it obvious even from a distance that not all her parts come from
-  the same source.<br/><br/> Her golemcraft in mortal life and millennia of practice
-  since grant her intuitive understanding of constructs, including ways to subvert
-  or sabotage those machines'' programming. When she does fight, it''s most often
-  to abduct a scholar or artificer whose talents she craves. In preparation for battle,
-  she replaces her left hand with a long claw that resembles a hooked sword.<br/><br/><b><u>Recall
-  Knowledge - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]]
-  )</b>: DC 38<br/><b><u>Unspecific Lore</u></b>: DC 36<br/><b><u>Specific Lore</u></b>:
-  DC 33'
 dexterity: '+5'
 element: null
 fly_speed: null

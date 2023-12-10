@@ -12,16 +12,6 @@ creature_ability:
 - Sixfold Flurry
 - Suspended Animation
 creature_family: null
-description: "Calikangs are giant, blue-skinned, six-armed guardians of ancient tombs\
-  \ and treasuries. They each feel a deep, inherent drive to protect and guard, making\
-  \ them highly sought after as wardens and bodyguards. Because most serve as solitary\
-  \ guardians, few calikang societies exist.<br/><br/> Calikangs' unique physiologies\
-  \ enable them to absorb and manipulate electrical magic as well as other energies.\
-  \ They can live for 200 years\u2014though they can further extend their lives via\
-  \ suspended animation. For this reason, many are chosen to guard tombs or other\
-  \ sealed sites where living guardians would perish and constructs would deteriorate.<br/><br/><b><u>Recall\
-  \ Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 32<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 30<br/><b><u>Specific Lore</u></b>: DC 27"
 dexterity: '+4'
 element: null
 fly_speed: null

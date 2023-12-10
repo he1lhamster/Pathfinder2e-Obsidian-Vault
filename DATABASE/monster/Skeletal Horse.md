@@ -10,9 +10,6 @@ creature_ability:
 - Gallop
 - Undead Steed
 creature_family: '[[DATABASE/monsterfamily/Skeleton|Skeleton]]'
-description: 'Skeletal horses are sometimes used as mounts by other undead or monsters.<br/><br/><b><u>Recall
-  Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 16<br/><b><u>Unspecific
-  Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>: DC 11'
 dexterity: '+3'
 element: null
 fly_speed: null

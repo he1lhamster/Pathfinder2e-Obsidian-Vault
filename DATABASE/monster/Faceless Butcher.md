@@ -15,15 +15,6 @@ creature_ability:
 - Suppressed
 - Alignment
 creature_family: null
-description: "The deformed flesh on this humanoid horror\u2019s head bears grim holes\
-  \ where their eyes, nose, mouth, and ears should be, and little else. Stories of\
-  \ faceless butchers always center on the monstrous murderer\u2019s preferred weapon:\
-  \ a wicked and bloodstained meat cleaver, which the butcher uses to carve flesh\
-  \ from skull to add to their collection of stolen faces. Once they\u2019ve taken\
-  \ a victim\u2019s face, the faceless butcher can wear it, transform into an exact\
-  \ replica of the deceased, and begin stalking their next victim.<br/><br/><b><u>Recall\
-  \ Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 30<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 28<br/><b><u>Specific Lore</u></b>: DC 25"
 dexterity: '+5'
 element: null
 fly_speed: null

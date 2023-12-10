@@ -14,19 +14,6 @@ creature_ability:
 - Site Bound
 - Throw Spirits
 creature_family: null
-description: "This undead guardian stands amid a whirling swarm of shackled spirits\
-  \ that rage against their fate. Bound by a profane necromantic ritual, a nemhaith\
-  \ and its servitors maintain watch over an object or place so important they embraced\
-  \ undeath to guard it. This ritual binds connected beings\u2014friends, family,\
-  \ fellow worshippers, or even sacrificed innocents\u2014to form a single nemhaith.\
-  \ <br/><br/>Most nemhaiths were, in life, priests or protectors who sought immortality\
-  \ to protect the temple they served or guard an important landmark. Others follow\
-  \ an endless and even impossible quest beyond the bounds of life and death. A nemhaith\
-  \ is not always evil at first, but the inherent evil and violence of a nemhaith's\
-  \ existence inevitably darkens even the brightest light.<br/><br/><b><u>Recall Knowledge\
-  \ - Spirit</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 36<br/><b><u>Recall\
-  \ Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 36<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 34<br/><b><u>Specific Lore</u></b>: DC 31"
 dexterity: '+6'
 element: null
 fly_speed: '40'

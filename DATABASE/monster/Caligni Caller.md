@@ -10,19 +10,6 @@ creature_ability:
 - Death Umbra
 - Sneak Attack
 creature_family: '[[DATABASE/monsterfamily/Caligni|Caligni]]'
-description: 'Although the mysterious demigods known as the Forsaken disappeared eons
-  ago, many calignis continue to follow their ancient traditions of worship. [[DATABASE/monsterfamily/Owb|Owbs]]
-  , once the Forsaken''s servants, still respond to caligni prayers. Caligni callers
-  serve as the priests of their communities, calling upon these shadowy owb patrons
-  for guidance, favors, and power. Their most important ceremony, the blanching, determines
-  the potential of most newborn calignis and shapes their eventual forms.<br/><br/>
-  Due to their close ties to the malevolent owbs, most callers exhibit cruel and inscrutable
-  natures. They often lead caligni enclaves alongside [[DATABASE/monster/Caligni Stalker|caligni
-  stalkers]] as spiritual advisors. Callers tend to be highly superstitious, seeing
-  omens everywhere, and they avoid revealing details of their rituals even to other
-  calignis.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 24<br/><b><u>Unspecific Lore</u></b>: DC 22<br/><b><u>Specific Lore</u></b>:
-  DC 19'
 dexterity: '+5'
 element: null
 fly_speed: null

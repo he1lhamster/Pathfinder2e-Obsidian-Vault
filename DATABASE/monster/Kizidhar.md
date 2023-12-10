@@ -13,24 +13,6 @@ creature_ability:
 - Shield Block
 - Take Root
 creature_family: '[[DATABASE/monsterfamily/Genie|Genie]]'
-description: "The genies of the [[DATABASE/plane/Plane of Wood|Plane of Wood]] , known\
-  \ as the kizidhars, are overbearing lords of their element. These master crafters\
-  \ of wood specialize in carpentry and all kinds of woodcarving, and they take a\
-  \ particular delight in reshaping the world in their own image\u2014either through\
-  \ creating wooden statues of themselves or by manipulating and controlling the living\
-  \ things around them. Though they're able to carve themselves similarly, they usually\
-  \ regard their own forms as perfect.<br/><br/> Shunning the company of other genies,\
-  \ they prefer to avoid those equal in power and instead surround themselves with\
-  \ circles of sycophants and flatterers. With the pathways to the [[DATABASE/plane/Material\
-  \ Plane|Universe]] open again for the first time in ages, kizidhars roam the multiverse\
-  \ to find mortals they can tempt into joining their palace retinues as servants,\
-  \ entertainers, and valuable sources of new information.<br/><br/>Kizidhars look\
-  \ like walking trees, averaging 10 to 12 feet tall with branches twisting to form\
-  \ their arms, faces, and other features. A kizidhar can reshape their body to create\
-  \ any wooden object.<br/><br/><b><u>Recall Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]]\
-  \ , [[DATABASE/skill/Nature|Nature]] )</b>: DC 24<br/><b><u>Recall Knowledge - Plant</u>\
-  \ ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 24<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 22<br/><b><u>Specific Lore</u></b>: DC 19"
 dexterity: '+3'
 element: Wood
 fly_speed: null

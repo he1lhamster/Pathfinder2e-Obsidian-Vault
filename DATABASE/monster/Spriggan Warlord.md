@@ -12,16 +12,6 @@ creature_ability:
 - Sneak Attack
 - Warlord's Training
 creature_family: '[[DATABASE/monsterfamily/Spriggan|Spriggan]]'
-description: 'While the leaders of larger spriggan enclaves tend to be uniquely trained
-  warriors with highly specialized skills, spriggan warlords are fond of the traditional
-  spriggan weaponry of morningstar and crossbow, valuing this traditional fighting
-  style for its simplicity and for using both weapons to their full potential. Spriggan
-  warlords often serve as sub-commanders in large groups, filling roles in spriggan
-  society akin to captains of the guard or bodyguards to spriggan royalty. In smaller
-  groups or remote outposts, a single spriggan warlord is typically in charge of a
-  band of spriggan bullies.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 23<br/><b><u>Unspecific Lore</u></b>: DC 21<br/><b><u>Specific Lore</u></b>:
-  DC 18'
 dexterity: '+4'
 element: null
 fly_speed: null

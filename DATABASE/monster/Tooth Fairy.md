@@ -10,10 +10,6 @@ creature_ability:
 - Plaque Burst
 - Tooth Tug
 creature_family: '[[DATABASE/monsterfamily/Tooth Fairy|Tooth Fairy]]'
-description: 'Lone fairies usually need several minutes of elbow grease and a sleeping
-  or restrained subject to extract a tooth.<br/><br/><b><u>Recall Knowledge - Fey</u>
-  ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 13<br/><b><u>Unspecific Lore</u></b>:
-  DC 11<br/><b><u>Specific Lore</u></b>: DC 8'
 dexterity: '+3'
 element: null
 fly_speed: '25'

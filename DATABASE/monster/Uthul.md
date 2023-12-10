@@ -12,13 +12,6 @@ creature_ability:
 - Swiftness
 - Whirlwind Form
 creature_family: null
-description: 'An uthul most often appears to be a dark, swirling cloud filled with
-  flying debris and streaked with sudden flashes of lightning. Although they are clearly
-  elemental in nature, uthuls are nearly always found on the Material Plane, where
-  they hide among natural cloud formations, especially thunderstorms.<br/><br/><b><u>Recall
-  Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 32<br/><b><u>Unspecific Lore</u></b>: DC 30<br/><b><u>Specific Lore</u></b>:
-  DC 27'
 dexterity: '+7'
 element: Air
 fly_speed: '100'

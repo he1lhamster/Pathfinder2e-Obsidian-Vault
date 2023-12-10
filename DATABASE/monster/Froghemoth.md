@@ -17,13 +17,6 @@ creature_ability:
 - Retract Tongue
 - Swallow Whole
 creature_family: null
-description: 'A terrifying abomination of teeth, tentacles, and unbridled rage, the
-  froghemoth is thankfully rarely encountered even in the deepest swamplands or most
-  remote Darklands caverns. Capable of devouring dinosaurs and even dragons, it is
-  a frighteningly effective ambush hunter, immersing itself in the mire with only
-  its eyestalk protruding and watching in every direction at once with uncanny precision.<br/><br/><b><u>Recall
-  Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 33<br/><b><u>Unspecific
-  Lore</u></b>: DC 31<br/><b><u>Specific Lore</u></b>: DC 28'
 dexterity: '+6'
 element: null
 fly_speed: null

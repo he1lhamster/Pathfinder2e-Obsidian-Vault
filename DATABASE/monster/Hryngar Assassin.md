@@ -12,18 +12,6 @@ creature_ability:
 - Sneak Attack
 - Surprise Attack
 creature_family: '[[DATABASE/monsterfamily/Duergar|Duergar]]'
-description: 'In secret conclaves around Nar-Voth, hidden in plain sight within hryngar
-  settlements, are the workshops and training grounds for the Darklands'' most technologically
-  sophisticated group of killers. Most hryngar assassins train from childhood, having
-  been recruited from orphanages, and are under a life-debt obligation to their guild
-  leader.<br/><br/> While on contract, hryngar assassins are on the lookout for new
-  technologies, gadgets, and alchemical creations. They bring what they find back
-  to their guild to be reverse engineered and replicated for other guild assassins.
-  When the opportunity presents itself, they destroy the schematics and formulae that
-  other organizations, inventors, and alchemists have created if they can''t steal
-  them.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 25<br/><b><u>Unspecific Lore</u></b>: DC 23<br/><b><u>Specific Lore</u></b>:
-  DC 20'
 dexterity: '+6'
 element: null
 fly_speed: null

@@ -15,27 +15,6 @@ creature_ability:
 - Predator's Stare
 - Suck Innards
 creature_family: null
-description: "Pulsating organs and tumors squirm loosely within a sac of skin, all\
-  \ forming the misshapen lump that is the body of a rakkatak. The predator's eyes\
-  \ scan the area, shimmering in the smoke like glowing dots. Wriggling insectoid\
-  \ legs\u2014varying in number from one rakkatak to another\u2014hang from its bulbous\
-  \ body. These limbs flail chaotically as a rakkatak fights, only calming when it's\
-  \ time to eat or rest.<br/><br/> Most rakkataks fly alone, picking off meals in\
-  \ sudden swooping strikes, but they will occasionally form a flock. Despite having\
-  \ little faculty for communication with other creatures, rakkataks have a certain\
-  \ ravenous genius for hunting with kin. Typically, once one grabs prey, the others\
-  \ swoop in to latch on as well, ingesting their meal with leech-like mouths.<br/><br/>\
-  \ Rakkataks possess insatiable appetites to help them withstand the long periods\
-  \ of famine between their infrequent meals as they travel the expanses of the [[DATABASE/plane/Plane\
-  \ of Fire|Plane of Fire]] . As a result, they easily overconsume if brought somewhere\
-  \ with more abundant fauna, like the [[DATABASE/plane/Material Plane|Universe]]\
-  \ . A single rakkatak can hold a surprising quantity of offal, even growing in size\
-  \ as its body expands. It becomes more unwieldy the larger it gets, which planar\
-  \ biologists believe to be a survival tactic to keep a rakkatak from indulging its\
-  \ hunger until it quite literally bursts.<br/><br/><b><u>Recall Knowledge - Elemental</u>\
-  \ ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]] )</b>: DC\
-  \ 20<br/><b><u>Unspecific Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>: DC\
-  \ 15"
 dexterity: '+2'
 element: Fire
 fly_speed: '45'

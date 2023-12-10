@@ -13,10 +13,6 @@ creature_ability:
 - Hit 'Em While They're Down
 - Shield Block
 creature_family: '[[DATABASE/monsterfamily/Harrowkin|Harrowkin]]'
-description: 'These harrowkin take on themes drawn from a specific harrow card.<br/><br/><b><u>Recall
-  Knowledge - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]]
-  )</b>: DC 29<br/><b><u>Unspecific Lore</u></b>: DC 27<br/><b><u>Specific Lore</u></b>:
-  DC 24'
 dexterity: '+4'
 element: null
 fly_speed: null

@@ -12,22 +12,6 @@ creature_ability:
 - Tentacle Stab
 - Water Glide
 creature_family: null
-description: 'Quoppopaks combine the most terrifying aspects of water striders, octopuses,
-  and vampire bats into one evil, water-dwelling monster. Their bodies consist of
-  an oval abdomen, eight hollow tentacles, and a thick, tail-like limb ending in a
-  ventral tube, which resembles a lamprey''s mouth and is capable of intaking fluids
-  at an astounding rate. While quoppopaks can clumsily maneuver on land, they prefer
-  to move on water; quoppopaks glide along the surface of lakes or the ocean by thrusting
-  their ventral tubes into the water, cycling liquid up through their bodies, then
-  spraying the water back out in a high-pressure stream through their hollow, spear-like
-  tentacles. Though the ventral tube can''t expel fluids, it still poses a substantial
-  threat to other creatures. Quoppopaks have gills, but they are located inside the
-  creatures'' abdomens, allowing them to draw their air from the water they siphon
-  through their ventral tubes. Quoppopaks can hold some water in their abdomens for
-  quick forays on land, but this is akin to humans holding their breath to go underwater,
-  and the monsters'' water reserves quickly deplete.<br/><br/><b><u>Recall Knowledge
-  - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 28<br/><b><u>Unspecific
-  Lore</u></b>: DC 26<br/><b><u>Specific Lore</u></b>: DC 23'
 dexterity: '+6'
 element: null
 fly_speed: null

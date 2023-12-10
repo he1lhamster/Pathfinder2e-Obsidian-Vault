@@ -1,90 +1,76 @@
 ﻿---
-ac: '21'
-alignment: LN
+ac: '30'
+alignment: CE
 all_resistance: null
 burrow_speed: null
 charisma: '+3'
 climb_speed: null
-constitution: '+0'
+constitution: '+5'
 creature_ability:
-- Change Shape
-- Silent Lightning
-- Wingbeat
-creature_family: null
-description: "Kadlakas\u2014strong, lanky humanoids with raven-like features\u2014\
-  combine the most formidable aspects of talented hunters and airborne scouts, to\
-  \ say nothing of their potent magical powers over thunder and lightning. Though\
-  \ they shy from most humanoids, kadlakas readily form friendships with ravens and\
-  \ other birds, and they sometimes make temporary alliances with people who prove\
-  \ themselves capable stewards of wild animals and the natural order of things. When\
-  \ they do settle on a roost\u2014whether for a single season or a lifetime\u2014\
-  kadlakas often position themselves as guardians of a natural feature or local flock.\
-  \ Because a kadlaka's natural form might frighten humanoid travelers, they often\
-  \ take on the guise of a human or other common bipedal ancestry to gain information\
-  \ and pass on warnings.<br/><br/><b><u>Recall Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]]\
-  \ , [[DATABASE/skill/Nature|Nature]] )</b>: DC 24<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 22<br/><b><u>Specific Lore</u></b>: DC 19"
-dexterity: '+5'
+- Attack of Opportunity
+- Enslave Soul
+- Horn Snare
+- Liberation Vulnerability
+creature_family: '[[DATABASE/monsterfamily/Demon|Demon]]'
+dexterity: '+1'
 element: null
-fly_speed: '50'
-fortitude: '+8'
+fly_speed: null
+fortitude: '+21'
 hardness: null
-hp: '60'
-id: '1757'
+hp: '200'
+id: '455'
 immunity: null
 intelligence: '+2'
 land_speed: '25'
 language:
-- '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Sylvan|Sylvan]]'
-level: '4'
-max_speed: '50'
-name: Kadlaka
-perception: '+14'
-rarity: Rare
-reflex: '+13'
-resistance:
-- '[[DATABASE/trait/Electricity|electricity]] 5'
-- '[[DATABASE/trait/Sonic|sonic]] 5'
+- '[[DATABASE/language/Abyssal|Abyssal]]'
+- '[[DATABASE/language/Celestial|Celestial]]'
+- '[[DATABASE/language/Draconic|Draconic]] ; telepathy 100 feet'
+level: '10'
+max_speed: '25'
+name: Kalavakus
+perception: '+19'
+rarity: Common
+reflex: '+17'
+resistance: null
 rus_type_level: null
 school: null
 sense:
-- '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
+- darkvision
 size: Medium
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +11'
-- '[[DATABASE/skill/Crafting|Crafting]] +10'
-- '[[DATABASE/skill/Diplomacy|Diplomacy]] +9'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +11'
-- '[[DATABASE/skill/Nature|Nature]] +10'
-- '[[DATABASE/skill/Stealth|Stealth]] +11'
-- '[[DATABASE/skill/Survival|Survival]] +10'
-source: '[[DATABASE/source/Pathfinder 175. Broken Tusk Moon|Pathfinder #175: Broken
-  Tusk Moon]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +15'
+- '[[DATABASE/skill/Athletics|Athletics]] +23'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +22'
+- '[[DATABASE/skill/Religion|Religion]] +17'
+- '[[DATABASE/skill/Stealth|Stealth]] +19'
+source: '[[DATABASE/source/Pathfinder 147. Tomorrow Must Burn|Pathfinder #147: Tomorrow
+  Must Burn]]'
 speed:
 - 25 feet
-- fly 50 feet
 spell:
-- '[[DATABASE/spell/Animal Messenger|Animal Messenger]]'
-- '[[DATABASE/spell/Charm|Charm]]'
-- '[[DATABASE/spell/Feather Fall|Feather Fall]]'
-- '[[DATABASE/spell/Pass Without Trace|Pass Without Trace]]'
-- '[[DATABASE/spell/Speak with Animals|Speak with Animals]]'
-strength: '+3'
-strength_req: '3'
+- '[[DATABASE/spell/Air Walk|Air Walk]]'
+- '[[DATABASE/spell/Command|Command]]'
+- '[[DATABASE/spell/Dimension Door|Dimension Door]]'
+- '[[DATABASE/spell/Haste|Haste]]'
+strength: '+7'
+strength_req: '7'
 strongest_save:
-- Will
+- Fortitude
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Beast|Beast]]'
-- '[[DATABASE/trait/Rare|Rare]]'
+- '[[DATABASE/trait/Demon|Demon]]'
+- '[[DATABASE/trait/Fiend|Fiend]]'
 type: Creature
-vision: Low-light vision
+vision: Darkvision
 weakest_save:
-- Fortitude
-weakness: null
-will: '+14'
-wisdom: '+4'
+- Reflex
+weakness:
+- cold iron 10
+- good 10
+- liberation vulnerability
+will: '+19'
+wisdom: '+3'
 
 ---
 # Kalavakus (Slaver Demon)

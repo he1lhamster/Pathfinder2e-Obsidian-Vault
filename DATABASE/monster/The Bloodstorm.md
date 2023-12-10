@@ -13,23 +13,6 @@ creature_ability:
 - Demon Shape
 - Feeding Frenzy
 creature_family: null
-description: A hundred thousand leeches, mosquitos, and parasites form a roiling mass
-  of hunger and malice. It moves like a storm through the tunnels and caverns of the
-  Emperor's Peak, constantly in search of its next meal. Though it has many bodies,
-  it has just one, startlingly clever mind. The flames and smoke of the cities keeps
-  it at bay, but in the darkness, it is at home. The [[DATABASE/ancestry/Dwarf|dwarves]]
-  of Highhelm have learned how to live with the threat, but those traveling deeper
-  into the mountain must always remain vigilant.<br/><br/> In the swamps of the Tanglebriar,
-  food is difficult to come by. So when a grievously wounded demon, a [[DATABASE/monster/Shemhazian
-  (Mutilation Demon)|shemhazian]] known as Gratheyr, fled into its waters to escape
-  from his enemies, every starving creature swarmed at the smell of blood. As the
-  creatures devoured his flesh, they were corrupted by his [[DATABASE/plane/Abyss|Abyssal]]
-  blood, and their hunger only grew. They feasted until nothing but his heart remained,
-  still beating at the center of the swarm, binding it to a single will. With its
-  meal finished, the bloated swarm left the swamp in search of its next prey. It moved
-  aimlessly, hunting animals and travelers alike, until a great rumble beneath the
-  earth attracted its attention. The Bloodstorm followed the vibrations deep underground,
-  toward the scent of sweat and the sounds of voices.
 dexterity: '+6'
 element: null
 fly_speed: '15'

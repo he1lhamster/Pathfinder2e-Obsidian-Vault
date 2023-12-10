@@ -15,22 +15,6 @@ creature_ability:
 - ''
 - Vulnerable to Banishment
 creature_family: '[[DATABASE/monsterfamily/Golem|Golem]]'
-description: 'The long war between Nex and Geb spawned many animate weapons, but while
-  a citizen of Quantium might run screaming from any product of the fleshforges, they
-  barely bat an eyelash at the ground-shaking stomp of the two titanic, deadly constructs
-  that stride outside their city walls. Crafted by the wizard-king Nex ages ago after
-  a devastating attack by Geb''s undead forces, including the harrowing benthic reaver,
-  the Quantium golems are meant to protect the capital in case of Nex''s absence.
-  These twin golems ceaselessly keep vigil over the city, ready to cut down any invaders
-  that menace Quantium.<br/><br/> Twenty feet tall and crafted from a supernaturally
-  smooth material, the two guardians are a matched set, one of crimson and one of
-  emerald. Wielding swords the size of giants, the guardians relentlessly destroy
-  anything that threatens the city, particularly any undead that might invade the
-  country from Geb. With the mythic Crux of Nex as a power supply, the golems are
-  inexhaustible and nearly indestructible.<br/><br/><b><u>Recall Knowledge - Construct</u>
-  ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]] )</b>:
-  DC 45<br/><b><u>Unspecific Lore</u></b>: DC 43<br/><b><u>Specific Lore</u></b>:
-  DC 40'
 dexterity: '+8'
 element: null
 fly_speed: null

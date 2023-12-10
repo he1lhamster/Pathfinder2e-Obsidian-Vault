@@ -9,10 +9,6 @@ constitution: '+1'
 creature_ability:
 - Raise a Shield
 creature_family: '[[DATABASE/monsterfamily/Laborers|Laborers]]'
-description: 'Maids, butlers, and majordomos alike, servants are skilled at keeping
-  a home in working order and protecting the interests of their employers.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 13<br/><b><u>Unspecific
-  Lore</u></b>: DC 11<br/><b><u>Specific Lore</u></b>: DC 8'
 dexterity: '+3'
 element: null
 fly_speed: null

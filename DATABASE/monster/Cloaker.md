@@ -11,28 +11,6 @@ creature_ability:
 - Infrasonic Moan
 - Shadow Shift
 creature_family: null
-description: "Weird and paranoid creatures that dwell in the Darklands, cloakers resemble\
-  \ hideous, flying manta rays. Crafty and careful hunters, their motivations, their\
-  \ patterns of attack, and even their societies and history are often an inscrutable\
-  \ jumble of contradicting reports, confused rumors, and terrifying accounts.<br/><br/>\
-  \ Like many of the stranger creatures of Golarion, cloakers were originally created\
-  \ by the alghollthus, who bred them to spy on their Azlanti thralls. Upon the fall\
-  \ of the Azlanti empire, the alghollthus cast out their cloaker creations, who,\
-  \ in turn, fled to the lower reaches of the Darklands. Amid the vaults and twisted\
-  \ corridors of their new home, their attitudes\u2014particularly regarding their\
-  \ apprehension toward their former masters\u2014changed dramatically. Suspicion\
-  \ became paranoia, egotism, sadism, and much worse. Now, most cloakers lead solitary\
-  \ lives, stalking the Darklands for easy prey and delving deeper into internal horrors.\
-  \ Their paranoia is so great that they interact only rarely even with their own\
-  \ kind, encountering another cloaker only briefly to mate before flitting back to\
-  \ isolation.<br/><br/> But there are exceptions. Every so often, a charismatic cloaker\
-  \ priest can call together a dark cabal of these creatures and other Darklands denizens\
-  \ to worship unspeakable ancient gods. These rare cloakers whip their acolytes and\
-  \ followers into a frenzy of dark rituals and heinous acts. While these cults are\
-  \ depraved and destructive, they rarely survive longer than their founder.<br/><br/><b><u>Recall\
-  \ Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC\
-  \ 20<br/><b><u>Unspecific Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>: DC\
-  \ 15"
 dexterity: '+3'
 element: null
 fly_speed: '30'

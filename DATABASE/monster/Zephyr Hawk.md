@@ -9,10 +9,6 @@ constitution: '+1'
 creature_ability:
 - Circling Attack
 creature_family: '[[DATABASE/monsterfamily/Elemental, Air|Elemental, Air]]'
-description: 'Zephyr hawks drift among the currents of the Plane of Air in great flocks.<br/><br/><b><u>Recall
-  Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 18<br/><b><u>Unspecific Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>:
-  DC 13'
 dexterity: '+4'
 element: Air
 fly_speed: '50'

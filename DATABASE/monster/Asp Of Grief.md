@@ -12,31 +12,6 @@ creature_ability:
 - Magnetic Traveler
 - Magnetic Vision
 creature_family: null
-description: "On the [[DATABASE/plane/Plane of Metal|Plane of Metal]] , a soft whisper\
-  \ and gentle jingle often accompany the tempestuous winds, while what appear to\
-  \ be gold ribbons twist and writhe through the air. In actuality, these are asps\
-  \ of grief\u2014intelligent, snakelike creatures drawn to strong emotions. The iron\
-  \ irises of their eyes allow them to see the ever-shifting magnetic fields of the\
-  \ Plane of Metal, which the asps can use to sail across the skies.<br/><br/> Asps\
-  \ of grief prey on sorrow and heartache, and times of loss, mourning, and bereavement\
-  \ attract them. Wearing delicate iron bells to announce their arrivals at funerals,\
-  \ battlefields, and the traditional columbaria built for the plane's dead, asps\
-  \ of grief shake their heads, making their bells chime and alerting mourners to\
-  \ their presence. \u201CWill you share your sorrow with me?\u201D they ask, their\
-  \ gentle voices low and sibilant.<br/><br/> If the bereaved agrees, the asps' tongues\
-  \ flick out, tasting the anguish of the living, sipping on sadness and fear, and\
-  \ providing a temporary reprieve from suffering. Though the asps are associated\
-  \ with death, most denizens of the Plane of Metal see them as good omens.<br/><br/>\
-  \ Intensely curious creatures, asps of grief crave information about magic and the\
-  \ multiverse. They might attach themselves to adventuring parties or ask wanderers\
-  \ they meet for any obscure arcane knowledge they may have come across on their\
-  \ journeys. In exchange, the asps of grief offer to help these travelers work through\
-  \ any anguish or trauma they may be carrying\u2014 or at least ease their emotional\
-  \ pain for a time.<br/><br/><b><u>Recall Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]]\
-  \ , [[DATABASE/skill/Nature|Nature]] )</b>: DC 27<br/><b><u>Recall Knowledge - Elemental</u>\
-  \ ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]] )</b>: DC\
-  \ 27<br/><b><u>Unspecific Lore</u></b>: DC 25<br/><b><u>Specific Lore</u></b>: DC\
-  \ 22"
 dexterity: '+7'
 element: Metal
 fly_speed: '50'

@@ -11,15 +11,6 @@ creature_ability:
 - Constrict
 - Fascinating Display
 creature_family: '[[DATABASE/monsterfamily/Qlippoth|Qlippoth]]'
-description: "Shoggti travel to other planes in roving bands to capture and charm\
-  \ victims, bringing them back to the [[DATABASE/plane/Abyss|Abyss]] where they are\
-  \ enslaved for unknown\u2014but no doubt insidiously evil\u2014purposes. These squid-like\
-  \ qlippoth have slick, blue skin and four suckered tentacles that end in dexterous\
-  \ pincers. In addition to a lamprey-like mouth at the base of its body, each has\
-  \ a secondary maw in the middle of its forehead that stretches from between its\
-  \ two bulging eyes to the back of its head.<br/><br/><b><u>Recall Knowledge - Fiend</u>\
-  \ ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 25<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 23<br/><b><u>Specific Lore</u></b>: DC 20"
 dexterity: '+4'
 element: null
 fly_speed: null

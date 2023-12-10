@@ -10,11 +10,6 @@ creature_ability:
 - Countless Digits
 - Predetermined Path
 creature_family: '[[DATABASE/monsterfamily/Animated Bones|Animated Bones]]'
-description: 'Made up of hundreds of finger and toe bones, a phalanx of phalanges
-  clatters along the ground in an eerily uniform manner.<br/><br/><b><u>Recall Knowledge
-  - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]]
-  )</b>: DC 17<br/><b><u>Unspecific Lore</u></b>: DC 15<br/><b><u>Specific Lore</u></b>:
-  DC 12'
 dexterity: '+3'
 element: null
 fly_speed: null

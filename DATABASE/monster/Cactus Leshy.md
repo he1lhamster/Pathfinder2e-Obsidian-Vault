@@ -13,17 +13,6 @@ creature_ability:
 - Spiny Body
 - Verdant Burst
 creature_family: '[[DATABASE/monsterfamily/Leshy|Leshy]]'
-description: 'These little plants are known for their nettlesome attitude. Their personalities
-  mirror the spines that sprout from all over their bodies, making them cantankerous
-  and slightly prickly, though they are unswervingly loyal to those who earn their
-  trust. At home in dry and arid landscapes, cactus leshys store water inside their
-  bodies in order to survive these harsh conditions.<br/><br/> Cactus leshys come
-  in all different shapes and colors: tall and thin, with beautiful, vibrantly colored
-  blooms on their heads; squat and rotund, with rows and rows of orderly spines; or
-  seemingly haphazard, with flat segments stacked end to end as if they were balancing
-  on one another.<br/><br/><b><u>Recall Knowledge - Plant</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 16<br/><b><u>Unspecific Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>:
-  DC 11'
 dexterity: '+2'
 element: null
 fly_speed: null

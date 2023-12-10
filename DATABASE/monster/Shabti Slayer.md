@@ -15,11 +15,6 @@ creature_ability:
 - Two-Weapon
 - Flurry
 creature_family: '[[DATABASE/monsterfamily/Shabti|Shabti]]'
-description: 'Shabtis raised among the secret [[DATABASE/deity/Pharasma|Pharasmin]]
-  sect of the Carters Consortium are trained to destroy [[DATABASE/trait/Undead|undead]]
-  and the necromancers who create them.<br/><br/><b><u>Recall Knowledge - Humanoid</u>
-  ( [[DATABASE/skill/Society|Society]] )</b>: DC 37<br/><b><u>Unspecific Lore</u></b>:
-  DC 35<br/><b><u>Specific Lore</u></b>: DC 32'
 dexterity: '+4'
 element: null
 fly_speed: null

@@ -11,14 +11,6 @@ creature_ability:
 - Light Blindness
 - Take Them Down!
 creature_family: '[[DATABASE/monsterfamily/Duergar|Duergar]]'
-description: 'Duergar priests of the taskmaster god Droskar often assume leadership
-  roles within their communities, advancing the goals of their deity through coercion
-  and displays of force. Often referred to as duergar taskmasters, these leaders often
-  issue commands to duergar subordinates and slaves in the same breath, treating the
-  two almost as if they were interchangeable. As a result, duergar taskmasters are
-  loathed by both slave and slaver alike.<br/><br/><b><u>Recall Knowledge - Humanoid</u>
-  ( [[DATABASE/skill/Society|Society]] )</b>: DC 16<br/><b><u>Unspecific Lore</u></b>:
-  DC 14<br/><b><u>Specific Lore</u></b>: DC 11'
 dexterity: '+0'
 element: null
 fly_speed: null

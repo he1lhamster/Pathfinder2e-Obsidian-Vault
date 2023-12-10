@@ -1,90 +1,78 @@
 ﻿---
-ac: '16'
-alignment: LE
+ac: '27'
+alignment: LN
 all_resistance: null
 burrow_speed: null
-charisma: '+1'
+charisma: '+3'
 climb_speed: null
-constitution: '+3'
+constitution: '+4'
 creature_ability:
-- Bleeding Nail
-- Terrifying Stare
+- Arrow Volley
+- Form Up
+- Lance Charge
+- Mounted Troop
+- Swing from the Saddle
+- Trailblazing Stride
+- ''
+- Troop Defenses
+- Troop Movement
 creature_family: null
-description: "The life of a Hellknight is bloody, brutal, and often short. Many who\
-  \ perish in service to a Hellknight order are glad to rest after having served their\
-  \ masters so faithfully, but others seek to continue their work even in death. When\
-  \ a Hellknight is decapitated, the ghostly undead known as a hellcrown is an occasional\
-  \ result. Consumed by the desire to bring about order by inflicting cruelty, hellcrowns\
-  \ haunt battlefields and abandoned castles, slaying all they encounter. A strange\
-  \ fusion of spirit and steel, a hellcrown has no corporeal form by itself, but instead\
-  \ inhabits the helmet it so proudly wore in life. Dangling from the helmet like\
-  \ a shroud is a shadow of the former Hellknight\u2019s spine, adding to the creature\u2019\
-  s terrifyingly gruesome appearance. Hellknights regard hellcrowns with a mixture\
-  \ of disgust and respect, considering the individuals who transform into these floating\
-  \ undead to have been resolute in purpose but weak in body.<br/><br/> A hellcrown\
-  \ usually manifests hours or longer after its body\u2019s death, and only when its\
-  \ body is unattended; this might even take days if the Hellknight perished in a\
-  \ major battle. Typically, no recognizable fragment of the Hellknight\u2019s former\
-  \ personality survives the grisly transformation into a hellcrown, but in rare and\
-  \ particularly tragic cases a hellcrown might remember its life and hold grudges\
-  \ against those it views as the cause of its death. Regardless of whether they retain\
-  \ memories of their lives or have lost all former sense of self, hellcrowns linger\
-  \ around the site of their death, reminding all they encounter of the merciless\
-  \ principles of their order.<br/><br/><b><u>Recall Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]]\
-  \ )</b>: DC 17<br/><b><u>Unspecific Lore</u></b>: DC 15<br/><b><u>Specific Lore</u></b>:\
-  \ DC 12"
-dexterity: '+4'
+dexterity: '+1'
 element: null
-fly_speed: '25'
-fortitude: '+4'
+fly_speed: null
+fortitude: '+18'
 hardness: null
-hp: 20 ( negative healing )
-id: '437'
-immunity:
-- death effects
-- disease
-- paralyzed
-- poison
-- unconscious
-intelligence: '-1'
-land_speed: null
+hp: '135'
+id: '1091'
+immunity: null
+intelligence: '+2'
+land_speed: '40'
 language:
 - '[[DATABASE/language/Common|Common]]'
-level: '1'
-max_speed: '25'
-name: Hellcrown
-perception: '+10'
-rarity: Uncommon
-reflex: '+6'
-resistance: null
+- '[[DATABASE/language/Infernal|Infernal]]'
+level: '8'
+max_speed: '40'
+name: Hellknight Cavalry Brigade
+perception: '+16'
+rarity: Common
+reflex: '+13'
+resistance:
+- mental 5
+- slashing 5
 rus_type_level: null
 school: null
-sense:
-- darkvision
-size: Tiny
+sense: null
+size: Gargantuan
 skill:
-- '[[DATABASE/skill/Intimidation|Intimidation]] +8'
-- '[[DATABASE/skill/Stealth|Stealth]] +7'
-source: '[[DATABASE/source/Pathfinder 145. Hellknight Hill|Pathfinder #145: Hellknight
-  Hill]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +13'
+- '[[DATABASE/skill/Athletics|Athletics]] +18'
+- '[[DATABASE/skill/Lore|Hell Lore]] +12'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +17'
+- '[[DATABASE/skill/Religion|Religion]] +12'
+- '[[DATABASE/skill/Society|Society]] +12'
+source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
-- fly 25 feet
+- 40 feet; troop movement
 spell: null
-strength: '-2'
-strength_req: '-2'
+strength: '+6'
+strength_req: '6'
 strongest_save:
-- Will
+- Fortitude
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
-- '[[DATABASE/trait/Undead|Undead]]'
+- '[[DATABASE/trait/Animal|Animal]]'
+- '[[DATABASE/trait/Human|Human]]'
+- '[[DATABASE/trait/Humanoid|Humanoid]]'
+- '[[DATABASE/trait/Troop|Troop]]'
 type: Creature
-vision: Darkvision
+vision: null
 weakest_save:
-- Fortitude
-weakness: null
-will: '+10'
-wisdom: '+1'
+- Reflex
+weakness:
+- area damage 10
+- '[[DATABASE/trait/Splash|splash]] damage 5'
+will: '+16'
+wisdom: '+2'
 
 ---
 # Cavalry Brigade

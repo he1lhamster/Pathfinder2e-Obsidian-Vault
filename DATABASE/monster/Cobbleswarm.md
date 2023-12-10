@@ -12,9 +12,6 @@ creature_ability:
 - Pummeling Assault
 - Tremorsense
 creature_family: '[[DATABASE/monsterfamily/Cobble Mite|Cobble Mite]]'
-description: 'Busy road builders might unknowingly use cobble mites in construction.<br/><br/><b><u>Recall
-  Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 16<br/><b><u>Unspecific
-  Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>: DC 11'
 dexterity: '+4'
 element: Earth
 fly_speed: null

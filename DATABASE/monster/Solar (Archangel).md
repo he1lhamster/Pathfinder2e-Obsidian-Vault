@@ -1,89 +1,95 @@
 ﻿---
-ac: '25'
+ac: '49'
 alignment: NG
 all_resistance: null
 burrow_speed: null
-charisma: '+3'
+charisma: '+10'
 climb_speed: null
-constitution: '+2'
+constitution: '+8'
 creature_ability:
-- Blinding Halo
-- Evasion
-- Ibis Dive
-- Light Shatter
-creature_family: null
-description: "Solar ibis are beings of light sometimes called sun birds, or \u201C\
-  winged luminaries\u201D by the more scholarly inclined. They're tasked with guarding\
-  \ sacred places or items, although they sometimes also protect the living from places\
-  \ of incredible danger. Their appearance is always preceded by numerous small purple-winged\
-  \ birds with a splash of yellow on their crowns; these are avatars of the ibis that\
-  \ nest and congregate in areas it protects. The presence of these avatars is often\
-  \ the only way to track these reclusive and solitary creatures. Should the solar\
-  \ ibis choose to appear, these little birds scatter like wild fowl. The sun bird\
-  \ then manifests and bathes the area in a brilliant shower of light that can blind\
-  \ and startle unwary and unprepared creatures in its presence.<br/><br/> The solar\
-  \ ibis appears as a magnificent, large bird surrounded by a halo of brilliant light.\
-  \ Its black feathers shimmer with all the colors of the spectrum, casting glossy\
-  \ rainbows across its plumage. It has a keen sense of insight, which it uses to\
-  \ pass judgment as a whole on whether those before it are worthy to access what\
-  \ it guards. It punishes those it finds unworthy with its cleansing might.<br/><br/>\
-  \ Though considered sacred by most within the Mwangi Expanse, there are still some\
-  \ who hunt these glorious creatures; some seek the treasures that the ibis keep,\
-  \ while others seek the ibis themselves, dead or alive. Some believe that the feathers\
-  \ of a solar ibis, when burned, create an incense that can grant holy power to those\
-  \ that inhale it. Others believe that its bones and feet can be ground into a powder\
-  \ that can destroy demons and purify the undead.<br/><br/><b><u>Recall Knowledge\
-  \ - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 23<br/><b><u>Unspecific Lore</u></b>: DC 21<br/><b><u>Specific Lore</u></b>:\
-  \ DC 18"
+- Animate Weapon
+- Arrow of Mortality
+- Aura of Protection
+- Change Shape
+- Holy Armaments
+creature_family: '[[DATABASE/monsterfamily/Angel|Angel]]'
 dexterity: '+6'
 element: null
-fly_speed: '60'
-fortitude: '+12'
+fly_speed: '100'
+fortitude: '+40'
 hardness: null
-hp: '45'
-id: '1442'
+hp: '500'
+id: '545'
 immunity: null
-intelligence: '+0'
-land_speed: '10'
+intelligence: '+5'
+land_speed: '35'
 language:
-- '[[DATABASE/language/Mwangi|Mwangi]]'
-- '[[DATABASE/language/Sylvan|Sylvan]] ; (can''t speak any language)'
-level: '7'
-max_speed: '60'
-name: Solar Ibis
-perception: '+17'
-rarity: Common
-reflex: '+17'
+- '[[DATABASE/language/Celestial|Celestial]]'
+- '[[DATABASE/language/Draconic|Draconic]]'
+- '[[DATABASE/language/Infernal|Infernal]] ; [[DATABASE/spell/Tongues|tongues]]'
+level: '23'
+max_speed: '100'
+name: Solar
+perception: '+40'
+rarity: Rare
+reflex: '+34'
 resistance: null
 rus_type_level: null
 school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
-- '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
-size: Medium
+- '[[DATABASE/spell/True Seeing|true seeing]]'
+size: Large
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +18'
-- '[[DATABASE/skill/Athletics|Athletics]] +14'
-source: '[[DATABASE/source/The Mwangi Expanse|The Mwangi Expanse]]'
+- '[[DATABASE/skill/Arcana|Arcana]] +38'
+- '[[DATABASE/skill/Athletics|Athletics]] +43'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +43'
+- '[[DATABASE/skill/Religion|Religion]] +43'
+- '[[DATABASE/skill/Stealth|Stealth]] +36'
+- '[[DATABASE/skill/Survival|Survival]] +46'
+source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
-- 10 feet
-- fly 60 feet
-spell: null
-strength: '+4'
-strength_req: '4'
+- 35 feet
+- fly 100 feet
+spell:
+- '[[DATABASE/spell/Breath of Life|Breath of Life]]'
+- '[[DATABASE/spell/Charm|Charm]]'
+- '[[DATABASE/spell/Death Ward|Death Ward]]'
+- '[[DATABASE/spell/Detect Alignment|Detect Alignment]]'
+- '[[DATABASE/spell/Dimensional Anchor|Dimensional Anchor]]'
+- '[[DATABASE/spell/Dispel Magic|Dispel Magic]]'
+- '[[DATABASE/spell/Heal|Heal]]'
+- '[[DATABASE/spell/Invisibility|Invisibility]]'
+- '[[DATABASE/spell/Overwhelming Presence|Overwhelming Presence]]'
+- '[[DATABASE/spell/Plane Shift|Plane Shift]]'
+- '[[DATABASE/spell/Power Word Blind|Power Word Blind]]'
+- '[[DATABASE/spell/Power Word Kill|Power Word Kill]]'
+- '[[DATABASE/spell/Power Word Stun|Power Word Stun]]'
+- '[[DATABASE/spell/Remove Curse|Remove Curse]]'
+- '[[DATABASE/spell/Remove Disease|Remove Disease]]'
+- '[[DATABASE/spell/Remove Fear|Remove Fear]]'
+- '[[DATABASE/spell/Restoration|Restoration]]'
+- '[[DATABASE/spell/Revival|Revival]]'
+- '[[DATABASE/spell/Sunburst|Sunburst]]'
+- '[[DATABASE/spell/Tongues|Tongues]]'
+- '[[DATABASE/spell/True Seeing|True Seeing]]'
+strength: '+10'
+strength_req: '10'
 strongest_save:
-- Reflex
+- Fortitude
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Beast|Beast]]'
+- '[[DATABASE/trait/Angel|Angel]]'
+- '[[DATABASE/trait/Celestial|Celestial]]'
+- '[[DATABASE/trait/Rare|Rare]]'
 type: Creature
 vision: Darkvision
 weakest_save:
-- Fortitude
-weakness: null
-will: '+15'
-wisdom: '+3'
+- Reflex
+weakness:
+- evil 25
+will: '+37'
+wisdom: '+9'
 
 ---
 # Solar (Archangel)

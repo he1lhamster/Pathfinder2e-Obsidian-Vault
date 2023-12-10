@@ -16,9 +16,6 @@ creature_ability:
 - Turn to
 - Mist
 creature_family: '[[DATABASE/monsterfamily/Vampire|Vampire]]'
-description: 'Vampire counts rule their demesnes through a mix of fear and cruelty.<br/><br/><b><u>Recall
-  Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 22<br/><b><u>Unspecific
-  Lore</u></b>: DC 20<br/><b><u>Specific Lore</u></b>: DC 17'
 dexterity: '+3'
 element: null
 fly_speed: null

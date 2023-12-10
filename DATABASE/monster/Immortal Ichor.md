@@ -13,12 +13,6 @@ creature_ability:
 - Mental Erosion
 - Resanguinate
 creature_family: null
-description: 'An immortal ichor is an intelligent mass of blood from a dead evil deity.
-  The cultists who perform the ritual to create immortal ichor typically seal up the
-  sentient ooze in an underground or remote chamber that blocks its magical abilities,
-  but over time these seals break or weaken, freeing the unholy monster.<br/><br/><b><u>Recall
-  Knowledge - Ooze</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 39<br/><b><u>Unspecific
-  Lore</u></b>: DC 37<br/><b><u>Specific Lore</u></b>: DC 34'
 dexterity: '+3'
 element: null
 fly_speed: '20'

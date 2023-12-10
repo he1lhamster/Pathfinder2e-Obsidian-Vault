@@ -12,11 +12,6 @@ creature_ability:
 - Spores
 - Verdant Burst
 creature_family: '[[DATABASE/monsterfamily/Leshy|Leshy]]'
-description: 'Fungus leshys guard caves, bogs, and damp, dark places. Their fungus
-  gardens are bizarre by most standards, but fungus leshys are extremely proud of
-  their works.<br/><br/><b><u>Recall Knowledge - Fungus</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 16<br/><b><u>Unspecific Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>:
-  DC 11'
 dexterity: '+4'
 element: null
 fly_speed: null

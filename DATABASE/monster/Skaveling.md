@@ -12,25 +12,6 @@ creature_ability:
 - Ghoul Fever
 - Paralysis
 creature_family: null
-description: "Hideous necromantic rituals give rise to skavelings, or ghoul bats,\
-  \ monstrosities that are not true [[DATABASE/monsterfamily/Ghoul|ghouls]] but instead\
-  \ are specifically crafted undead creatures. Their creators are the bloodsucking\
-  \ [[DATABASE/monsterfamily/Urdefhan|urdefhans]] of the Darklands, who create skavelings\
-  \ from [[DATABASE/monster/Giant Bat|giant bats]] specially raised on diets of toxic\
-  \ fungus and the flesh of ghouls\u2014especially brains harvested from these undead.\
-  \ Upon reaching maturity, these giant bats are ritually slain via the use of [[DATABASE/equipment/Cytillesh\
-  \ Oil|cytillesh oil]] . While this poison simply rots away the flesh of most creatures,\
-  \ one of these specially prepared bats will immediately rise from death as a skaveling\
-  \ after succumbing to its effects.<br/><br/> Despite its tattered wings and sagging\
-  \ skin, a skaveling is more than capable of flight, even when carrying a creature\
-  \ mounted on its back\u2014urdefhans often use skavelings as mounts in this way.\
-  \ Their intelligence is more advanced than that of the typical giant bat, and in\
-  \ combat they function more as allies than as mere mounts, capable of making their\
-  \ own tactical decisions. Yet even though they can reason and think, skavelings\
-  \ remain loyal to the urdefhans who created them, and they never take actions in\
-  \ a fight that would knowingly put their masters in harm's way.<br/><br/><b><u>Recall\
-  \ Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 20<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>: DC 15"
 dexterity: '+4'
 element: null
 fly_speed: '30'

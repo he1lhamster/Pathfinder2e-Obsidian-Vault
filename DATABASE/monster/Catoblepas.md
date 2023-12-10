@@ -12,15 +12,6 @@ creature_ability:
 - Stench
 - Trample
 creature_family: null
-description: 'The catoblepas is an aggressive beast at the best of times. Though it
-  prefers swamps, the catoblepas has been know to forage in plains and forests for
-  short periods, leaving behind hunting grounds tainted by its foul breath and noxious
-  waste that other predators and prey alike avoid for days or even weeks thereafter.
-  The catoblepas bullies those creatures it believes are a match for it, and eats
-  everything weaker.<br/><br/>A catoblepas is 15 feet long and weighs 2,200 pounds.<br/><br/><b><u>Recall
-  Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 30<br/><b><u>Unspecific Lore</u></b>: DC 28<br/><b><u>Specific Lore</u></b>:
-  DC 25'
 dexterity: '+4'
 element: null
 fly_speed: null

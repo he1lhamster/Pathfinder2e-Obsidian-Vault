@@ -10,11 +10,6 @@ creature_ability:
 - Emperor Cobra Venom
 - Flare Hood
 creature_family: '[[DATABASE/monsterfamily/Snake|Snake]]'
-description: 'These aggressive serpents infest bogs and lowlands. Despite a length
-  of over 16 feet and weighing over 200 pounds, they can climb trees in seconds. An
-  emperor cobra wards off predators by flaring its hood and hissing at its attacker.<br/><br/><b><u>Recall
-  Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 20<br/><b><u>Unspecific
-  Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>: DC 15'
 dexterity: '+4'
 element: null
 fly_speed: null

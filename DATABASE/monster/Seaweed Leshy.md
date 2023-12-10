@@ -11,18 +11,6 @@ creature_ability:
 - Sea Spray
 - Verdant Burst
 creature_family: '[[DATABASE/monsterfamily/Leshy|Leshy]]'
-description: 'Calmer than most of their other botanical brethren, seaweed leshys are
-  a tranquil, discerning breed of leshy. They seek to mimic the ocean in their attitudes,
-  moving with the waves of life and accepting what comes and goes while acknowledging
-  the good and the bad.<br/><br/> Seaweed leshys make their homes in tidal pools surrounded
-  by other sea creatures. They believe their freshwater counterparts to be sheltered
-  and naive, living in their secluded ponds and babbling brooks, though this doesn''t
-  stop them from forming friendships with freshwater leshys.<br/><br/> Seaweed leshys
-  vary in size, shape, and physical makeup. While the majority of seaweed leshys reach
-  about 2 feet in height, some remain as small bundles of strands that stand about
-  6 to 8 inches tall.<br/><br/><b><u>Recall Knowledge - Plant</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 18<br/><b><u>Unspecific Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>:
-  DC 13'
 dexterity: '+4'
 element: null
 fly_speed: null

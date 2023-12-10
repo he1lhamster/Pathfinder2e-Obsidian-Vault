@@ -12,16 +12,6 @@ creature_ability:
 - Fatal Faker
 - Specious Suggestion
 creature_family: null
-description: 'Never have legend and misinformation met upon a more inauspicious brow
-  than that of the lowly carbuncle. At first glance, carbuncles appear to be little
-  more than ungainly reptiles. What sets them apart is their strange magical abilities
-  and the gemstone-like horn protruding from between their goggling eyes. Although
-  rumors suggest various uses for carbuncle horns, ranging from miracle cure-alls
-  to potent magical components, the truth is much more mundane: a carbuncle''s horn
-  is merely a highly reflective growth, not unlike a fingernail.<br/><br/><b><u>Recall
-  Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 20<br/><b><u>Unspecific Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>:
-  DC 15'
 dexterity: '+0'
 element: null
 fly_speed: null

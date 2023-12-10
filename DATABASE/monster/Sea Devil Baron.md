@@ -12,11 +12,6 @@ creature_ability:
 - Hateful Tide
 - Shark Commune
 creature_family: '[[DATABASE/monsterfamily/Sea Devil|Sea Devil]]'
-description: 'Unlike in many cultures, the highest-ranking sea devils are expected
-  not just to wade into battle alongside their brethren, but to actively lead the
-  campaign.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 22<br/><b><u>Unspecific Lore</u></b>: DC 20<br/><b><u>Specific Lore</u></b>:
-  DC 17'
 dexterity: '+2'
 element: null
 fly_speed: null

@@ -1,66 +1,67 @@
 ﻿---
-ac: '33'
-alignment: N
+ac: '17'
+alignment: null
 all_resistance: null
 burrow_speed: null
-charisma: '+0'
+charisma: '+1'
 climb_speed: null
-constitution: '+7'
+constitution: '+1'
 creature_ability:
-- Flying Strafe
-- Snack
-- Snatch
-- Wing Rebuff
-creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 40<br/><b><u>Unspecific
-  Lore</u></b>: DC 38<br/><b><u>Specific Lore</u></b>: DC 35'
-dexterity: '+5'
+- Gadgets
+- Reflective Defense
+creature_family: '[[DATABASE/monsterfamily/Geniekin|Geniekin]]'
+dexterity: '+3'
 element: null
-fly_speed: '60'
-fortitude: '+25'
+fly_speed: null
+fortitude: '+6'
 hardness: null
-hp: '220'
-id: '2236'
+hp: 17 (plus 5 temporary HP (from ablative armor plating))
+id: '2658'
 immunity: null
-intelligence: '-4'
-land_speed: '20'
-language: null
-level: '12'
-max_speed: '60'
-name: Talon Peak Roc
-perception: '+22'
-rarity: Unique
-reflex: '+23'
-resistance: null
+intelligence: '+3'
+land_speed: '25'
+language:
+- '[[DATABASE/language/Common|Common]]'
+- '[[DATABASE/language/Talican|Talican]]'
+level: '1'
+max_speed: '25'
+name: Talos Gadgeteer
+perception: '+3'
+rarity: Common
+reflex: '+6'
+resistance:
+- '[[DATABASE/trait/Electricity|electricity]] 1'
 rus_type_level: null
 school: null
-sense:
-- '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
-size: Gargantuan
+sense: null
+size: Medium
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +20'
-- '[[DATABASE/skill/Athletics|Athletics]] +24'
-source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +6'
+- '[[DATABASE/skill/Crafting|Crafting]] +6'
+- '[[DATABASE/skill/Society|Society]] +6'
+- '[[DATABASE/skill/Thievery|Thievery]] +6'
+source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
 speed:
-- 20 feet
-- fly 60 feet
-spell: null
-strength: '+8'
-strength_req: '8'
+- 25 feet
+spell:
+- '[[DATABASE/spell/Detect Metal|Detect Metal]]'
+strength: '+1'
+strength_req: '1'
 strongest_save:
 - Fortitude
+- Reflex
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Animal|Animal]]'
-- '[[DATABASE/trait/Unique|Unique]]'
+- '[[DATABASE/trait/Human|Human]]'
+- '[[DATABASE/trait/Humanoid|Humanoid]]'
+- '[[DATABASE/trait/Talos|Talos]]'
 type: Creature
-vision: Low-light vision
+vision: null
 weakest_save:
 - Will
 weakness: null
-will: '+20'
-wisdom: '+4'
+will: '+5'
+wisdom: '+0'
 
 ---
 # Talos

@@ -11,14 +11,6 @@ creature_ability:
 - Burn Alive
 - Construct Armor
 creature_family: '[[DATABASE/monsterfamily/Animated Object|Animated Object]]'
-description: 'As with any humanoid animated statues of Medium size, giant animated
-  statues are used to guard locations of importance, but their increased size and
-  power make them most useful in large vaults, spacious chambers, or outdoor locations.
-  Animated objects of this strength and size are ideal for tasks and responsibilities
-  usually performed by golems, and more powerful animated objects are thus all but
-  unheard of.<br/><br/><b><u>Recall Knowledge - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Crafting|Crafting]] )</b>: DC 23<br/><b><u>Unspecific Lore</u></b>:
-  DC 21<br/><b><u>Specific Lore</u></b>: DC 18'
 dexterity: '-1'
 element: Earth
 fly_speed: null

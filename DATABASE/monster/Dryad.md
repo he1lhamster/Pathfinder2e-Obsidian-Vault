@@ -11,20 +11,6 @@ creature_ability:
 - Tree Dependent
 - Tree Meld
 creature_family: '[[DATABASE/monsterfamily/Nymph|Nymph]]'
-description: 'Dryads are fey guardians of the trees and creatures who dwell in wooded
-  areas. They prefer using indirect methods to dissuade those who would harm their
-  sacred groves and beloved forests, but they are not above using enchantments to
-  enlist the aid of allies when evil threats cannot be dissuaded with words alone.
-  In times of peace, dryads happily live secluded lives inside their trees, and a
-  community at harmony with nature might not even realize a dryad lives nearby.<br/><br/>
-  Though they watch over all the woods around them, dryads are inextricably tied to
-  a specific tree, usually an oak. Dryads who are bonded to another type of tree are
-  fundamentally the same, but they may differ in temperament and appearance to match
-  their ward. For instance, kraneiai, or cherry-tree dryads, have beautiful pink coloration
-  and concern themselves with the fragile beauty of life.<br/><br/><b><u>Recall Knowledge
-  - Fey</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 18<br/><b><u>Recall Knowledge
-  - Plant</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 18<br/><b><u>Unspecific
-  Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>: DC 13'
 dexterity: '+4'
 element: null
 fly_speed: null

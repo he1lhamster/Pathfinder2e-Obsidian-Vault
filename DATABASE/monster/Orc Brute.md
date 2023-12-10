@@ -9,11 +9,6 @@ constitution: '+3'
 creature_ability:
 - Ferocity
 creature_family: '[[DATABASE/monsterfamily/Orc|Orc]]'
-description: 'If orc armies are rarely well organized, this shortcoming can likely
-  be traced to the furious and undisciplined rank-and-file brutes who make up the
-  bulk of an orc warband.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 14<br/><b><u>Unspecific Lore</u></b>: DC 12<br/><b><u>Specific Lore</u></b>:
-  DC 9'
 dexterity: '+2'
 element: null
 fly_speed: null

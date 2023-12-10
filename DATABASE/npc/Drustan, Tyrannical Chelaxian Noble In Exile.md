@@ -1,64 +1,68 @@
 ﻿---
-ac: '17'
-alignment: N
+ac: '36'
+alignment: LE
 all_resistance: null
 burrow_speed: null
-charisma: '+2'
+charisma: '+5'
 climb_speed: null
-constitution: '+4'
+constitution: '+3'
 creature_ability:
-- Drunken Rage
-creature_family: '[[DATABASE/monsterfamily/Publicans|Publicans]]'
-description: "Every tavern has one\u2014that person who drinks a little too much and\
-  \ starts a fight. While many drunkards are relatively harmless, a few have a hair\
-  \ trigger, and when they're set off come, no one\u2014even the drunkard themself\u2014\
-  can tell you what started the row.<br/><br/><b><u>Recall Knowledge - Humanoid</u>\
-  \ ( [[DATABASE/skill/Society|Society]] )</b>: DC 16<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 14<br/><b><u>Specific Lore</u></b>: DC 11"
-dexterity: '+2'
+- Divine Ally
+- Iron Command
+- Smite Good
+creature_family: null
+dexterity: '+1'
 element: null
 fly_speed: null
-fortitude: '+10'
-hp: '40'
-id: '946'
+fortitude: '+26'
+hp: '255'
+id: '2556'
 immunity: null
-intelligence: '-1'
-land_speed: '25'
+intelligence: '+1'
+land_speed: '20'
 language:
 - '[[DATABASE/language/Common|Common]]'
-level: '2'
-max_speed: '25'
-name: Drunkard
-perception: '+6'
-rarity: Common
-reflex: '+8'
+- '[[DATABASE/language/Infernal|Infernal]]'
+- '[[DATABASE/language/Varisian|Varisian]]'
+level: '14'
+max_speed: '20'
+name: Drustan
+perception: '+25'
+rarity: Unique
+reflex: '+22'
 resistance: null
 rus_type_level: null
 sense: null
 size: Medium
 skill:
-- '[[DATABASE/skill/Lore|Alcohol Lore]] +3'
-- '[[DATABASE/skill/Athletics|Athletics]] +7'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +8'
-source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
+- '[[DATABASE/skill/Athletics|Athletics]] +27'
+- '[[DATABASE/skill/Deception|Deception]] +25'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +27'
+- '[[DATABASE/skill/Performance|Performance]] +25'
+- '[[DATABASE/skill/Religion|Religion]] +23'
+- '[[DATABASE/skill/Society|Society]] +23'
+source: '[[DATABASE/source/Pathfinder 190. The Choosing|Pathfinder #190: The Choosing]]'
 speed:
-- 25 feet
-spell: null
-strength: '+3'
-strength_req: '3'
+- 20 feet
+spell:
+- '[[DATABASE/spell/Litany of Depravity|Litany of Depravity]]'
+- '[[DATABASE/spell/Touch of Corruption|Touch of Corruption]]'
+strength: '+5'
+strength_req: '5'
 strongest_save:
 - Fortitude
 swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
+- '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
 vision: null
 weakest_save:
-- Will
+- Reflex
 weakness: null
-will: '+6'
-wisdom: '+0'
+will: '+24'
+wisdom: '+3'
 
 ---
 # Drustan, Tyrannical Chelaxian Noble In Exile

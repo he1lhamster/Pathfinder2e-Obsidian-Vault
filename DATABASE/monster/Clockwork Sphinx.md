@@ -11,11 +11,6 @@ creature_ability:
 - Self-Destruct
 - Wind-Up
 creature_family: '[[DATABASE/monsterfamily/Clockworks|Clockworks]]'
-description: 'This imposing construct resembles a bronze lion with the wings of a
-  great bird and the head of a humanoid.<br/><br/><b><u>Recall Knowledge - Construct</u>
-  ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]] )</b>:
-  DC 29<br/><b><u>Unspecific Lore</u></b>: DC 27<br/><b><u>Specific Lore</u></b>:
-  DC 24'
 dexterity: '+4'
 element: null
 fly_speed: '25'

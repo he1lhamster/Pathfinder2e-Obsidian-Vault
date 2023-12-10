@@ -10,27 +10,6 @@ creature_ability:
 - Abandon Puppet
 - Puppetmaster
 creature_family: null
-description: "Incutilises are intelligent, nautilus-like sea creatures that attack\
-  \ their victims' brains to take over their bodies, creating puppets to use for labor,\
-  \ combat, or their own malevolent amusement.<br/><br/> An adult incutilis is slightly\
-  \ smaller than an adult human head. Its shell bears a pattern of crimson streaks\
-  \ that resemble the ridges and furrows of a brain. Incutilises hatch within the\
-  \ depths of the sea, where they start off consuming bottom-dwelling crustaceans\
-  \ and sometimes even whales or sharks, but as they grow into adults, incutilises\
-  \ instinctively crave the complex tissues of other creatures' brains\u2014the more\
-  \ complex, the better.<br/><br/> An incutilis makes excursions onto land specifically\
-  \ to use their iconic puppetmaster ability. They use their tentacles to crawl up\
-  \ onto shore or climb aboard a ship. An incutilis then drives their tendrils directly\
-  \ into the brain of a helpless living (or very recently dead) land creature, taking\
-  \ control of it through this neurological connection. They prefer to target [[DATABASE/trait/Humanoid|humanoids]]\
-  \ and [[DATABASE/trait/Animal|animals]] . This host\u2014now called a puppet\u2014\
-  rarely survives the experience.<br/><br/> After the incutilis has taken full control,\
-  \ they can usually ride their puppet for as long as they wish. Often, they use the\
-  \ puppet to seek out other potential prey, battling other creatures until the wear\
-  \ and tear from repeated conflict renders the body useless.<br/><br/><b><u>Recall\
-  \ Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC\
-  \ 18<br/><b><u>Unspecific Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>: DC\
-  \ 13"
 dexterity: '+3'
 element: null
 fly_speed: null

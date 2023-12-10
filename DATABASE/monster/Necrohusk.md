@@ -12,25 +12,6 @@ creature_ability:
 - Skitter
 - Vile Innards
 creature_family: null
-description: 'Necrohusks are skittering, undead monstrosities, created when a humanoid
-  is purposefully twisted into a new creature through necromantic experimentation.
-  Unlike fleshwarps and recipients of successful necrografts, prospective necrohusks
-  never survive the procedure. After reanimation, they''re cunning, animalistic creatures
-  that follow their creator''s orders without question. <br/>Creating a necrohusk
-  is an incredibly difficult endeavor, fraught with error. Most attempts result in
-  lumps of useless, rotten slurry or malformed undead no more cunning or dangerous
-  than a mundane zombie. The costs in time, experimental subjects, and expensive spell
-  components lead some would-be necromancers to conclude that the results aren''t
-  worth the risk. Occasionally, spellcasters can harness the power of the Negative
-  Energy Plane during the process, which lessens the monetary cost but vastly increases
-  the danger, often producing a deadly backlash resulting in the creator''s death
-  and a masterless necrohusk. <br/>Among the Sutaki, only Ashen Swale and his lieutenants,
-  Turkek and Azi, have the skill and knowledge to create necrohusks with any regularity,
-  although Turkek''s interests often lead him away from such gruesome endeavors. Necrohusks
-  are created from volunteers in Ashen Swale''s cult or from traitorous Sutaki whom
-  Ashen Swale wants to punish with a ghastly fate.<br/><br/><b><u>Recall Knowledge
-  - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 25<br/><b><u>Unspecific
-  Lore</u></b>: DC 23<br/><b><u>Specific Lore</u></b>: DC 20'
 dexterity: '+4'
 element: null
 fly_speed: null

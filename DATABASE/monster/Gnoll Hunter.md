@@ -10,10 +10,6 @@ creature_ability:
 - Pack Attack
 - Rugged Travel
 creature_family: '[[DATABASE/monsterfamily/Gnoll|Gnoll]]'
-description: 'Gnoll hunters serve their clans by hunting for food in the wilds, marauding
-  along well-traveled roads, and tracking down escaped slaves.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 16<br/><b><u>Unspecific
-  Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>: DC 11'
 dexterity: '+3'
 element: null
 fly_speed: null

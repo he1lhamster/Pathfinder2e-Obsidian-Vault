@@ -11,15 +11,6 @@ creature_ability:
 - Harrowing Misfortune
 - Uncanny Divination
 creature_family: null
-description: "Harrow dolls are unique constructs that can make predictions about the\
-  \ future. The more elite circuses and traveling shows frequently feature a harrow\
-  \ doll, and many use the doll\u2019s abilities to learn more about locals to better\
-  \ customize shows to their tastes\u2014or to find easy marks for later cons. Upset\
-  \ patrons that try to harm a harrow doll or reclaim their payment quickly learn\
-  \ that the construct is more than capable of defending itself.<br/><br/><b><u>Recall\
-  \ Knowledge - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]]\
-  \ )</b>: DC 26<br/><b><u>Unspecific Lore</u></b>: DC 24<br/><b><u>Specific Lore</u></b>:\
-  \ DC 21"
 dexterity: '+4'
 element: null
 fly_speed: null

@@ -9,14 +9,6 @@ constitution: '+1'
 creature_ability:
 - Smoke Susceptibility
 creature_family: '[[DATABASE/monsterfamily/Giant Bee|Giant Bee]]'
-description: 'Giant mining bees have smaller bodies than giant worker bees but sometimes
-  look larger due to their bristles, which resemble fur. They dig tunnels in sand,
-  old wood, or stone to create nests and aggressively defend their lairs. Although
-  not truly subterranean, giant mining bees are the most likely type of giant bees
-  to be found underground, and some [[DATABASE/ancestry/Dwarf|dwarf]] apiarists breed
-  and train them.<br/><br/><b><u>Recall Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 16<br/><b><u>Unspecific Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>:
-  DC 11'
 dexterity: '+3'
 element: null
 fly_speed: '40'

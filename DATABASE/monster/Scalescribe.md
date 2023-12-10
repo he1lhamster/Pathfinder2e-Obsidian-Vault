@@ -11,14 +11,6 @@ creature_ability:
 - Mage Bond
 - Transcribe
 creature_family: null
-description: 'Often seen at the sides of spellcasters, scalescribes are tiny, snakelike
-  creatures with numerous hands that usually hold a multitude of fountain pens in
-  various ink colors. The words scrawled across their bodies shift depending on what
-  texts they''ve encountered recently. Scalescribes have a fondness for language,
-  especially magical language, and make their homes in libraries or other places of
-  learning.<br/><br/><b><u>Recall Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]]
-  )</b>: DC 18<br/><b><u>Unspecific Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>:
-  DC 13'
 dexterity: '+3'
 element: null
 fly_speed: null

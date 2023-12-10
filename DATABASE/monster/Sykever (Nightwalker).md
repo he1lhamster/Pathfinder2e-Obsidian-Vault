@@ -1,83 +1,96 @@
 ﻿---
-ac: '29'
-alignment: N
+ac: '37'
+alignment: CE
 all_resistance: null
 burrow_speed: null
-charisma: '-5'
+charisma: '+7'
 climb_speed: null
-constitution: '+5'
+constitution: '+6'
 creature_ability:
-- Attack of Opportunity
-- Central Weapon
-- Colossal Echo
-- Echoblade Flurry
-- Project Echoblade
-- ''
-- Raise Guard
-creature_family: null
-description: 'Collectors who want to guard their magical arsenals procure or build
-  swordkeepers. These constructs are equal parts display case and security system,
-  each holding a single weapon within its body and projecting copies of the weapon
-  it stores to deter would-be thieves.<br/><br/><b><u>Recall Knowledge - Construct</u>
-  ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]] )</b>:
-  DC 27<br/><b><u>Unspecific Lore</u></b>: DC 25<br/><b><u>Specific Lore</u></b>:
-  DC 22'
-dexterity: '+5'
+- Change Posture
+- Crush Item
+- Draining Gaze
+- Entropy's Shadow
+- Horned Rush
+- Sunlight
+- Powerlessness
+creature_family: '[[DATABASE/monsterfamily/Darvakka|Darvakka]]'
+dexterity: '+4'
 element: null
 fly_speed: null
-fortitude: '+21'
+fortitude: '+25'
 hardness: null
-hp: '285'
-id: '1330'
+hp: 335 ( negative healing )
+id: '1849'
 immunity:
 - '[[DATABASE/trait/Death|death]] effects'
 - '[[DATABASE/trait/Disease|disease]]'
-- '[[DATABASE/condition/Doomed|doomed]]'
-- '[[DATABASE/condition/Drained|drained]]'
-- '[[DATABASE/condition/Fatigued|fatigued]]'
-- '[[DATABASE/trait/Healing|healing]]'
-- '[[DATABASE/trait/Mental|mental]]'
-- '[[DATABASE/trait/Necromancy|necromancy]]'
-- '[[DATABASE/trait/Nonlethal|nonlethal]] attacks'
 - '[[DATABASE/condition/Paralyzed|paralyzed]]'
 - '[[DATABASE/trait/Poison|poison]]'
-intelligence: '-5'
-land_speed: '20'
+- '[[DATABASE/condition/Unconscious|unconscious]]'
+intelligence: '+6'
+land_speed: '40'
 language:
+- '[[DATABASE/language/Abyssal|Abyssal]]'
 - '[[DATABASE/language/Common|Common]]'
-level: '10'
-max_speed: '20'
-name: Swordkeeper
-perception: '+20'
+- '[[DATABASE/language/Infernal|Infernal]]'
+- '[[DATABASE/language/Necril|Necril]] ; [[DATABASE/monsterability/Telepathy|telepathy]]
+  100 feet'
+level: '15'
+max_speed: '40'
+name: Sykever
+perception: '+29'
 rarity: Common
-reflex: '+19'
-resistance: null
+reflex: '+25'
+resistance:
+- '[[DATABASE/trait/Cold|cold]] 10'
 rus_type_level: null
 school: null
-sense: null
-size: Large
+sense:
+- '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
+- '[[DATABASE/monsterability/Lifesense|lifesense]] 60 feet'
+size: Huge
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +21'
-- '[[DATABASE/skill/Athletics|Athletics]] +23'
-source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
+- '[[DATABASE/skill/Arcana|Arcana]] +27'
+- '[[DATABASE/skill/Athletics|Athletics]] +29'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +28'
+- '[[DATABASE/skill/Lore|Negative Energy Plane Lore]] +27'
+- '[[DATABASE/skill/Religion|Religion]] +27'
+- '[[DATABASE/skill/Lore|ShadowPlane Lore]] +27'
+- '[[DATABASE/skill/Stealth|Stealth]] +27'
+- '[[DATABASE/skill/Lore|Warfare Lore]] +27'
+source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 speed:
-- 20 feet
-spell: null
-strength: '+7'
-strength_req: '7'
+- 40 feet
+- '[[DATABASE/spell/Air Walk|air walk]]'
+spell:
+- '[[DATABASE/spell/Air Walk|Air Walk]]'
+- '[[DATABASE/spell/Darkness|Darkness]]'
+- '[[DATABASE/spell/Detect Magic|Detect Magic]]'
+- '[[DATABASE/spell/Harm|Harm]]'
+- '[[DATABASE/spell/Invisibility|Invisibility]]'
+- '[[DATABASE/spell/Paralyze|Paralyze]]'
+- '[[DATABASE/spell/Plane Shift|Plane Shift]]'
+- '[[DATABASE/spell/True Seeing|TrueSeeing]]'
+strength: '+8'
+strength_req: '8'
 strongest_save:
-- Fortitude
+- Will
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Construct|Construct]]'
-- '[[DATABASE/trait/Mindless|Mindless]]'
+- '[[DATABASE/trait/Darvakka|Darvakka]]'
+- '[[DATABASE/trait/Shadow|Shadow]]'
+- '[[DATABASE/trait/Undead|Undead]]'
 type: Creature
-vision: null
+vision: Greater darkvision
 weakest_save:
-- Will
-weakness: null
-will: '+14'
-wisdom: '+2'
+- Fortitude
+- Reflex
+weakness:
+- '[[DATABASE/trait/Good|good]] 10'
+- '[[DATABASE/equipment/Silver Weapon|silver]] 10'
+will: '+31'
+wisdom: '+6'
 
 ---
 # Sykever (Nightwalker)

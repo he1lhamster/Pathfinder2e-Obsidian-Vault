@@ -9,17 +9,6 @@ constitution: '-1'
 creature_ability:
 - Appraising Eye
 creature_family: '[[DATABASE/monsterfamily/Tradespeople|Tradespeople]]'
-description: "Small settlements can typically support one or two generalist merchants,\
-  \ and larger cities house multiple specialists\u2014experts in one type of product.\
-  \ Merchants can be found anywhere: vendors hustling in the public square, shopkeepers\
-  \ running small storefronts, traveling salespeople in carriages or caravans, or\
-  \ wealthy tycoons running entire organizations devoted to commerce. For encounters\
-  \ involving negotiation or mercantile skill, a merchant is a 4th\u2014level challenge.\
-  \ A merchant might have an additional [[DATABASE/skill/Lore|Lore]] skill about a\
-  \ specific category of item (such as jewelry or magic weapons), with a total skill\
-  \ bonus 2 higher than Mercantile Lore.<br/><br/><b><u>Recall Knowledge - Humanoid</u>\
-  \ ( [[DATABASE/skill/Society|Society]] )</b>: DC 13<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 11<br/><b><u>Specific Lore</u></b>: DC 8"
 dexterity: '+0'
 element: null
 fly_speed: null

@@ -9,14 +9,6 @@ constitution: '+2'
 creature_ability:
 - Smoke Susceptibility
 creature_family: '[[DATABASE/monsterfamily/Giant Bee|Giant Bee]]'
-description: 'Worker bees, exclusively female, exist to feed and defend a hive. They
-  have no qualms about sacrificing their lives when confronting intruders in their
-  territory. Worker bees can fight singly, in small groups, or in swarms of dozens.
-  Giant worker bees inject a venom with their stings, but this venom is rarely dangerous
-  except to people sensitive to it. Other worker bees have no stinger and only bite
-  their enemies.<br/><br/><b><u>Recall Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 14<br/><b><u>Unspecific Lore</u></b>: DC 12<br/><b><u>Specific Lore</u></b>:
-  DC 9'
 dexterity: '+3'
 element: null
 fly_speed: '40'

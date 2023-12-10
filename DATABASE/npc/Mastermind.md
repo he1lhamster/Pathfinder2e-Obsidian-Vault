@@ -11,12 +11,6 @@ creature_ability:
 - Sneak Attack
 - Versatile Performance
 creature_family: '[[DATABASE/monsterfamily/Villains|Villains]]'
-description: 'Masterminds weave long-ranged plots to see their nefarious goals come
-  to fruition, deftly manipulating those around them, and turning enemies into friends
-  and then pitting them against one another. When competing in a social or intellectual
-  arena, the mastermind is a 7th-level challenge.<br/><br/><b><u>Recall Knowledge
-  - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 19<br/><b><u>Unspecific
-  Lore</u></b>: DC 17<br/><b><u>Specific Lore</u></b>: DC 14'
 dexterity: '+3'
 element: null
 fly_speed: null

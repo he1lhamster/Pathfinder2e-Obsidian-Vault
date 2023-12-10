@@ -15,14 +15,6 @@ creature_ability:
 - Retributive
 - Strike
 creature_family: '[[DATABASE/monsterfamily/Archon|Archon]]'
-description: 'Shield archons defend the fortresses of Heaven against fiendish incursions.
-  They wield their spears and shields in massive formations capable of withstanding
-  any onslaught. Beneath their armor, they are sheathed in skin of steel. Given their
-  tremendous strength and imposing stature, shield archons are ideal guardians of
-  the meek and are sometimes summoned to the Material Plane to ward off the attacks
-  of great numbers of evildoers.<br/><br/><b><u>Recall Knowledge - Celestial</u> (
-  [[DATABASE/skill/Religion|Religion]] )</b>: DC 27<br/><b><u>Unspecific Lore</u></b>:
-  DC 25<br/><b><u>Specific Lore</u></b>: DC 22'
 dexterity: '+1'
 element: null
 fly_speed: '60'

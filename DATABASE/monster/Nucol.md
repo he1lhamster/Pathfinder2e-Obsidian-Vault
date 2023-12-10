@@ -12,17 +12,6 @@ creature_ability:
 - Skip Between
 - Spray Pus
 creature_family: '[[DATABASE/monsterfamily/Sahkil|Sahkil]]'
-description: 'Representing the fear of parasites and affliction, nucols appear as
-  violent, pestilence-ridden boars. They pollute their victim''s body and mind, spreading
-  not only fear but a mind-altering affliction that exacerbates feelings of self-doubt.<br/><br/>
-  Though very aggressive, the fiends are capable of cunning manipulation. After they
-  infect a victim with potent insecurity, they''ll offer to remove the affliction
-  for a price. Many of these deals are esoteric in nature, driving the victim into
-  despair and forcing them to give up things they cherish. The sinister nucol may
-  even reinfect its victim after completing the bargain, but a canny negotiator may
-  be able to turn the tables on the fiend and free themselves from its grasp.<br/><br/><b><u>Recall
-  Knowledge - Fiend</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 19<br/><b><u>Unspecific
-  Lore</u></b>: DC 17<br/><b><u>Specific Lore</u></b>: DC 14'
 dexterity: '+2'
 element: null
 fly_speed: null

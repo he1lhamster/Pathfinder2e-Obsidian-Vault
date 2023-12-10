@@ -13,20 +13,6 @@ creature_ability:
 - Shift Form
 - Smog Cloud
 creature_family: null
-description: "During the height of the legendary war between Nex and Geb, Nex's agents\
-  \ grew increasingly creative in their \u201Crecruiting\u201D methods for their armies.\
-  \ One such effort involved the construction of mechanical soldiers powered by arcane\
-  \ engines but directed by transplanted minds. While the process generally involved\
-  \ willing donors who were eager to give up dying bodies to \u201Clive on\u201D in\
-  \ constructed frames, rumors persist that Nex harvested the minds of prisoners of\
-  \ war and criminals for these creations.<br/><br/> Today, thousands of years after\
-  \ those wars ended, hundreds of daelums still live. Their intellects have, in large\
-  \ part, fully embraced their new \u201Clives,\u201D and very few remember their\
-  \ previous existences today. Daelums can be found throughout the Mana Wastes serving\
-  \ as guides, porters, mine workers, and mercenaries.<br/><br/><b><u>Recall Knowledge\
-  \ - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]]\
-  \ )</b>: DC 24<br/><b><u>Unspecific Lore</u></b>: DC 22<br/><b><u>Specific Lore</u></b>:\
-  \ DC 19"
 dexterity: '+3'
 element: null
 fly_speed: null

@@ -16,13 +16,6 @@ creature_ability:
 - ''
 - Vulnerable to Dispelling
 creature_family: '[[DATABASE/monsterfamily/Golem|Golem]]'
-description: "Crafted from a nigh-indestructible metal of great rarity, adamantine\
-  \ golems can\u2019t be destroyed except by the most powerful foes. Crafting an adamantine\
-  \ golem requires a quantity of adamantine so massive that collecting it usually\
-  \ requires mounting a mining expedition to a distant planet, the Plane of Earth,\
-  \ or an Outer Plane.<br/><br/><b><u>Recall Knowledge - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]]\
-  \ , [[DATABASE/skill/Crafting|Crafting]] )</b>: DC 43<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 41<br/><b><u>Specific Lore</u></b>: DC 38"
 dexterity: '-1'
 element: null
 fly_speed: null

@@ -10,12 +10,6 @@ creature_ability:
 - Trackless
 - Woodland Stride
 creature_family: '[[DATABASE/monsterfamily/Kaava|Kaava]]'
-description: 'An unusually large number of kaava living in the Kaava Lands are relatively
-  small, standing about 3 feet tall and weighing about 30 pounds. Pygmy kaava openly
-  show their disdain for larger kaava, and the two groups rarely get along. Pygmy
-  kaava often hunt alongside trained bush vipers or black mamba snakes.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 14<br/><b><u>Unspecific
-  Lore</u></b>: DC 12<br/><b><u>Specific Lore</u></b>: DC 9'
 dexterity: '+3'
 element: null
 fly_speed: null

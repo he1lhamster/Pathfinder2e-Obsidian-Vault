@@ -12,15 +12,6 @@ creature_ability:
 - Pacifying Aura
 - Unbalancing Stomp
 creature_family: null
-description: 'Spirit turtles are benevolent fey known to heal those in need and confer
-  other powerful gifts. These gentle giants resemble enormous turtles and often bear
-  entire ecosystems on their shells.<br/><br/> In ancient times, so the legend goes,
-  spirit turtles used to grant wishes to many mortals. After millennia of such encounters,
-  the giant creatures grew tired and went into hiding or returned to their home plane,
-  the [[DATABASE/plane/First World|First World]] . Those few spirit turtles who remain
-  on Golarion now grant their favors only to the purest and worthiest mortal petitioners.<br/><br/><b><u>Recall
-  Knowledge - Fey</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 47<br/><b><u>Unspecific
-  Lore</u></b>: DC 45<br/><b><u>Specific Lore</u></b>: DC 42'
 dexterity: '+6'
 element: null
 fly_speed: null

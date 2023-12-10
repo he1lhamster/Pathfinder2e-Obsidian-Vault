@@ -15,21 +15,6 @@ creature_ability:
 - Wolf
 - Empathy
 creature_family: '[[DATABASE/monsterfamily/Werecreature|Werecreature]]'
-description: "The curse of the werewolf\u2014known as lycanthropy to many\u2014instills\
-  \ in its carriers the hungry bloodlust and predatory instincts of the wolf. Werewolves\
-  \ tend to dwell on the fringes of society or in small settlements where, in their\
-  \ humanoid forms, they work as laborers, hunters, farmers, or trappers. At night,\
-  \ however, these same villagers transform into violent killers and sadistic stalkers\
-  \ who prey on their neighbors. Werewolves are the quintessential werecreature, and\
-  \ the first that comes to mind when most people speak of such beings.<br/><br/>\
-  \ Although most werewolves hide their curse by adopting solitary lifestyles, some\
-  \ retain the pack mentality of true wolves. A small group of such werewolves typically\
-  \ forms a family-like pack, with the eldest or most powerful serving as the leader;\
-  \ new pack mates are hand-chosen and inculcated into the family as its influence\
-  \ grows.<br/><br/><b><u>Recall Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]]\
-  \ , [[DATABASE/skill/Nature|Nature]] )</b>: DC 18<br/><b><u>Recall Knowledge - Humanoid</u>\
-  \ ( [[DATABASE/skill/Society|Society]] )</b>: DC 18<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 16<br/><b><u>Specific Lore</u></b>: DC 13"
 dexterity: '+2'
 element: null
 fly_speed: null

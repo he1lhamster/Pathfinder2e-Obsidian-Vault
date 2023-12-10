@@ -11,10 +11,6 @@ creature_ability:
 - Occult Attack
 - Sneak Attack
 creature_family: '[[DATABASE/monsterfamily/Morlock|Morlock]]'
-description: 'Morlocks who serve as priests in their conclaves usually dabble in eerie
-  occult magic.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 21<br/><b><u>Unspecific Lore</u></b>: DC 19<br/><b><u>Specific Lore</u></b>:
-  DC 16'
 dexterity: '+3'
 element: null
 fly_speed: null

@@ -12,21 +12,6 @@ creature_ability:
 - Light in the Darkness
 - Vulnerability to Extinguishing
 creature_family: null
-description: "Yaganties are lean, hairy humanoids with lanky torsos, horned heads,\
-  \ and bulbous black eyes. The elongated fingers of one their hands are made of candlestick\
-  \ wax, and their fingertips, which have wicks instead of nails, burn endlessly.\
-  \ In the dead of night, the flickering light of a yaganty\u2019s fingertips casts\
-  \ dramatic shadows across their face and highlights their trollish visage.<br/><br/>\
-  \ Yaganty fables follow a common formula. A wayward pedestrian, traveling at night\
-  \ and usually in a forest, follows distant lights with the hope that the lights\
-  \ belong to a fellow wayfarer, only to come face-to-face with a gangly monster.\
-  \ The story ends in one of three ways: the traveler appeals to the yaganty with\
-  \ a gift of gold (the exact sum necessary varies wildly by the telling), the yaganty\
-  \ slays the traveler over some incomprehensible transgression, or, even more inexplicably,\
-  \ the yaganty offers the lost traveler five candles in simple charity so that the\
-  \ light might guide them home.<br/><br/><b><u>Recall Knowledge - Fey</u> ( [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 29<br/><b><u>Unspecific Lore</u></b>: DC 27<br/><b><u>Specific Lore</u></b>:\
-  \ DC 24"
 dexterity: '+5'
 element: null
 fly_speed: null

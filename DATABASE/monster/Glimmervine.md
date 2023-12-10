@@ -11,31 +11,6 @@ creature_ability:
 - Constrict
 - Dazzling Blooms
 creature_family: null
-description: "Glimmervines are carnivorous creeping vines with sparkling white flowers\
-  \ that open to bloom only at night. They flourish most in high altitudes and cold\
-  \ climates, where they survive by dazzling small prey with their iridescent blossoms\
-  \ before crushing them to death with impossibly strong tendrils. The blood and decomposing\
-  \ flesh of their prey seep into the ground like fertilizer for glimmervines' roots\
-  \ to absorb as nutrients. Because scarps and gulleys caked with gore tend to deter\
-  \ future victims, glimmervines instinctively know not to linger in one spot for\
-  \ long.<br/><br/> Glimmervines are mostly dormant during the day. Clinging to the\
-  \ sides of mountains and cliffs, they're easily mistaken for mundane climbing plants\
-  \ such as ivy or morning glory. When night falls, though, glimmervines' spectacular\
-  \ reflective flowers make their entrancing nature plain for all to see.<br/><br/>\
-  \ Glimmervines are closely related to [[DATABASE/monster/Assassin Vine|assassin\
-  \ vines]] , who employ similar ambush tactics and feeding behaviors, but the former\
-  \ is easily discernible by the shiny white blooms in place of an assassin vine's\
-  \ small red berries. These petals are coated with iridescent veins that absorb sunlight\
-  \ during the day and give off an eerie yet beautiful glow at night. The glistening\
-  \ patina attracts pollinating insects.<br/><br/> On their own, glimmervines don't\
-  \ pose much of a threat to most creatures. Though its root-based sensory organs\
-  \ are formidable in close proximity, a glimmervine can't sense creatures farther\
-  \ than 60 feet away, making escape as easy as getting out of range of their slow\
-  \ movement. The true danger of these plants comes from glimmervine thickets\u2014\
-  dense patches of glimmervines that can entangle entire hillsides or ravines. Woe\
-  \ be unto a hapless traveler caught in the midst of a glimmervine thicket at sundown.<br/><br/><b><u>Recall\
-  \ Knowledge - Plant</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 21<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 19<br/><b><u>Specific Lore</u></b>: DC 16"
 dexterity: '+0'
 element: null
 fly_speed: null

@@ -12,11 +12,6 @@ creature_ability:
 - Faithful Weapon
 - Instrument of Faith
 creature_family: '[[DATABASE/monsterfamily/Divine Warden|Divine Warden]]'
-description: 'This divine warden serves [[DATABASE/deity/Nethys|Nethys]] , the neutral
-  god of magic. It uses its divine gift to defend temples or shrines of Nethys.<br/><br/><b><u>Recall
-  Knowledge - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]]
-  )</b>: DC 22<br/><b><u>Unspecific Lore</u></b>: DC 20<br/><b><u>Specific Lore</u></b>:
-  DC 17'
 dexterity: '-2'
 element: null
 fly_speed: null

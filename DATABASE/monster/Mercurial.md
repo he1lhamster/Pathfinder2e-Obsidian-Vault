@@ -10,14 +10,6 @@ creature_ability:
 - Change Shape
 - Metallurgic Adaptation
 creature_family: '[[DATABASE/monsterfamily/Elemental, Metal|Elemental, Metal]]'
-description: 'Some of the most populous denizens of the [[DATABASE/plane/Plane of
-  Metal|Plane of Metal]] , mercurials are weird creatures of liquid metal known for
-  changing their features, chemical compositions, and temperaments with equal frequency.
-  Excitable, curious, and friendly, mercurials are quick to offer assistance to extraplanar
-  beings, but their volatile personalities can make them unreliable allies.<br/><br/><b><u>Recall
-  Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 16<br/><b><u>Unspecific Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>:
-  DC 11'
 dexterity: '+4'
 element: Metal
 fly_speed: null

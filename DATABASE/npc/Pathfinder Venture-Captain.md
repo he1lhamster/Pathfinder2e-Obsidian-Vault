@@ -14,22 +14,6 @@ creature_ability:
 - Unshakable
 - Weapon Mastery
 creature_family: '[[DATABASE/monsterfamily/Pathfinders|Pathfinders]]'
-description: "<i>The barnacle-crusted armor of this dwarf hints at a thousand exciting\
-  \ tales.</i><br/><br/> The venture-captains of the Pathfinder Society rose through\
-  \ the ranks of the organization by following a unique path. An individual venture-captain\
-  \ has overcome numerous challenges, and each has countless stories to tell\u2014\
-  and the scars to go with them. Each venture-captain maintains a lodge somewhere\
-  \ in the Inner Sea, where Pathfinder agents can rest, share stories, and set out\
-  \ on new missions. The venture-captain assigns these missions themselves, and they\
-  \ can draw on the significant resources of the Pathfinder Society\u2014as well as\
-  \ any local allies they have\u2014to ensure the missions' success.<br/><br/> This\
-  \ venture-captain operates a lodge that also serves as a tavern. His interest in\
-  \ epic tales led him to join the Society, and he gladly shares these stories with\
-  \ interested parties. Opportunistic field agents can gain the venture-captain's\
-  \ favor by recovering unique and valuable liquors. The venture-captain hopes to\
-  \ one day publish a Pathfinder Chronicle of his own.<br/><br/><b><u>Recall Knowledge\
-  \ - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 28<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 26<br/><b><u>Specific Lore</u></b>: DC 23"
 dexterity: '+1'
 element: null
 fly_speed: null

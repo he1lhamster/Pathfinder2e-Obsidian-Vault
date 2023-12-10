@@ -15,13 +15,6 @@ creature_ability:
 - Split
 - Subsonic Hum
 creature_family: null
-description: "Carnivorous crystals are strange ooze creatures native to the Plane\
-  \ of Earth. Unlike most oozes, their bodies are not homogeneously fluid; rather,\
-  \ interspersed within their glassy, viscous resin are thousands of sharp mineral\
-  \ formations that nevertheless possess some of the same flexibility and mobility\
-  \ as the rest of the creature\u2019s gooey body.<br/><br/><b><u>Recall Knowledge\
-  \ - Ooze</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 28<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 26<br/><b><u>Specific Lore</u></b>: DC 23"
 dexterity: '-5'
 element: Earth
 fly_speed: null

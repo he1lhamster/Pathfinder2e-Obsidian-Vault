@@ -10,34 +10,6 @@ creature_ability:
 - Listless Saliva
 - Shell Defense
 creature_family: null
-description: 'Wherever exquisite cuisine is consumed, amazing songs are performed,
-  or epic waves crest, there wait tantriogs. With a crab''s foreclaws, turtle''s shell,
-  and back flippers, tantriogs are among the more unique water elementals. They ply
-  the Boundless Sea constantly seeking new experiences, whether the next big wave
-  to ride, a tasty delicacy to sample, or a piece of art to collect. They crave new
-  sensations and often seek them out at the expense of others.<br/><br/> If one possesses
-  rare art, lost lore, or fantastic surfing or cooking skills, a tantriog can be a
-  wonderful companion. They''re charming and friendly to those they find interesting,
-  but their interest can be highly precarious, dropped the second someone bores them.
-  Tantriogs may even betray acquaintances if it would give them another interesting
-  story to tell. This makes befriending one a tricky proposition, as nothing can be
-  taken for granted.<br/><br/> It''s a mystery how tantriogs came to wear their current
-  forms. Some say that, in the earliest days of the elemental planes, tantriogs were
-  assassins of ice and mist who committed a crime so great that they''re being punished
-  for it to this day. Others claim tantriogs assumed their shape after losing a bizarre
-  cosmic bet. One of the more popular theories about the tantriog''s current form
-  is that in the past, they used to be able to shift shape as easily as water molds
-  to its container. In their endless boredom, they were trying out a variety of shapes
-  when a sudden curse (possibly cast by faydhaans) caused them to lose their ability
-  while transforming from a turtle to a crab, leaving them stuck between the two.
-  It''s said that any who can teach a tantriog how to relearn their morphing ability
-  could earn the elemental''s undying friendship. Whatever the case, the surest way
-  to anger a tantriog is to ask them about their appearance.<br/><br/> Conversely,
-  the surest way to befriend a tantriog is with compliments about their appearance
-  or their skills. Don''t be too fawning, though. Tantriogs don''t like being tricked
-  or made to look a fool.<br/><br/><b><u>Recall Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Nature|Nature]] )</b>: DC 23<br/><b><u>Unspecific Lore</u></b>:
-  DC 21<br/><b><u>Specific Lore</u></b>: DC 18'
 dexterity: '+3'
 element: Water
 fly_speed: null

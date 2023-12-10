@@ -12,10 +12,6 @@ creature_ability:
 - Jet
 - Toxic Bite
 creature_family: '[[DATABASE/monsterfamily/Octopus|Octopus]]'
-description: 'While relatively small, the blue-ringed octopus is particularly venomous
-  for its size.<br/><br/><b><u>Recall Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 14<br/><b><u>Unspecific Lore</u></b>: DC 12<br/><b><u>Specific Lore</u></b>:
-  DC 9'
 dexterity: '+3'
 element: null
 fly_speed: null

@@ -17,13 +17,6 @@ creature_ability:
 - Unbalancing Blow
 - Wind-Up
 creature_family: '[[DATABASE/monsterfamily/Clockworks|Clockworks]]'
-description: 'Exceptionally efficient and utterly merciless, clockwork assassins carry
-  out their murderous directives with mechanical precision. Though they can disguise
-  themselves, upon close inspection, they''re plainly artificial, with just a single
-  eye and weapons integrated into their arms.<br/><br/><b><u>Recall Knowledge - Construct</u>
-  ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]] )</b>:
-  DC 33<br/><b><u>Unspecific Lore</u></b>: DC 31<br/><b><u>Specific Lore</u></b>:
-  DC 28'
 dexterity: '+8'
 element: null
 fly_speed: null

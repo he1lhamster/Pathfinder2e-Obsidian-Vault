@@ -11,29 +11,6 @@ creature_ability:
 - Defensive Quills
 - Pukwudgie Poison
 creature_family: null
-description: "Pukwudgies go by many names in many regions, but those who know of them\
-  \ agree that defying their mischievous nature provokes their wrath.<br/><br/> In\
-  \ ancient times, pukwudgies traveled to the [[DATABASE/plane/Material Plane|Material\
-  \ Plane]] from the [[DATABASE/plane/First World|First World]] , perhaps in the wake\
-  \ of the [[DATABASE/ancestry/Gnome|gnome]] emigration. These proud fey are obsessed\
-  \ with displays of respect, and while they first attempted to befriend mortals,\
-  \ each attempt ended in tragedy as the pukwudgies perceived any potential slight\
-  \ as a grave insult. Mortals, fearing these reactions, began to view pukwudgies\
-  \ as nuisances, and pukwudgies in turn began to resent mortals and the gods that\
-  \ favored them. At their best, pukwudgies play cruel jokes on mortals they encounter.\
-  \ At their worst, they've been known to kidnap and even kill those who don't treat\
-  \ them with proper respect.<br/><br/> Pukwudgies make their villages in the oldest\
-  \ forests, concealed under [[DATABASE/spell/Hallucinatory Terrain|hallucinatory\
-  \ terrain]] spells and [[DATABASE/ritual/Fantastic Facade|fantastic fa\xE7ade]]\
-  \ rituals. They travel freely between the Material Plane and the First World through\
-  \ tiny portals beneath hills, trees, or stones. No strangers to violence, pukwudgies\
-  \ rarely travel alone and often anoint their quills or weapons with a custom-brewed\
-  \ poison before entering hostile situations.<br/><br/> Standing about 2 feet tall,\
-  \ a pukwudgie sports sharp quills growing from their head that extends down their\
-  \ back. Their skin tone varies by the region in which they live, ranging from pale\
-  \ gray to brown.<br/><br/><b><u>Recall Knowledge - Fey</u> ( [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 25<br/><b><u>Unspecific Lore</u></b>: DC 23<br/><b><u>Specific Lore</u></b>:\
-  \ DC 20"
 dexterity: '+6'
 element: null
 fly_speed: null

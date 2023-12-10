@@ -11,13 +11,6 @@ creature_ability:
 - Lifewick Candle
 - Shadowbind
 creature_family: '[[DATABASE/monsterfamily/Tsukumogami|Tsukumogami]]'
-description: A chouchin-obake takes the shape of a paper lantern with a horizontal
-  split near the bottom from which a long tongue protrudes. Upon closer inspection,
-  two eyes appear above the split mouth. Chouchin-obake are anomalous in that they
-  don't awaken in the same way other tsukumogami do. Paper lanterns are nearly impossible
-  to maintain for long enough to spawn tsukumogami. Instead, a chouchin-obake is a
-  kind of fire [[DATABASE/monsterfamily/Kami|kami]] that takes the form of a lantern's
-  flame and inhabits a paper lantern when they manifest.
 dexterity: '+4'
 element: null
 fly_speed: '20'

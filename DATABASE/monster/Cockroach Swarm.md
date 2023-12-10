@@ -9,16 +9,6 @@ constitution: '+3'
 creature_ability:
 - Swarming Bites
 creature_family: '[[DATABASE/monsterfamily/Cockroach|Cockroach]]'
-description: 'While cockroaches tend to gather in cramped spaces, a disturbed colony
-  is sometimes prone to swarming, where hundreds or even thousands of the insects
-  scurry out of their hiding places in a raft of shiny brown and black carapaces on
-  thousands of skittering legs. Given how disgusting many find cockroaches to be,
-  encountering such a swarm can be alarming to even the most seasoned adventurers.
-  The creatures are relentless when disturbed; in contrast to the insects'' normally
-  skittish and harmless nature, as swarms they pursue the creature or creatures that
-  provoked them and harry them with thousands of stinging bites.<br/><br/><b><u>Recall
-  Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 16<br/><b><u>Unspecific
-  Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>: DC 11'
 dexterity: '+4'
 element: null
 fly_speed: '15'

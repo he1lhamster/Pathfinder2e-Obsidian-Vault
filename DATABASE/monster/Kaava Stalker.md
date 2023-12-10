@@ -10,12 +10,6 @@ creature_ability:
 - Skulking Attack
 - Trackless
 creature_family: '[[DATABASE/monsterfamily/Kaava|Kaava]]'
-description: 'Kaava hunting parties can number in the dozens, although they blend
-  easily into the forest and cover all traces of their passage. While community elders
-  assign various tasks to hunting parties, such as recovering food or deterring intruders,
-  the parties are expected to accomplish these tasks as they see fit.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 15<br/><b><u>Unspecific
-  Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>: DC 10'
 dexterity: '+4'
 element: null
 fly_speed: null

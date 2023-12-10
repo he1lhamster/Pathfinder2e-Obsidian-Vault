@@ -12,16 +12,6 @@ creature_ability:
 - Sunder Objects
 - Throw Rock
 creature_family: '[[DATABASE/monsterfamily/Arboreal|Arboreal]]'
-description: "Arboreal regents\u2014also called treants\u2014are lumbering, solitary\
-  \ creatures responsible for guarding an entire forest. They take an especially long\
-  \ view of affairs and never act brashly or without much deliberation. They occasionally\
-  \ come together in small groups called groves to share news and pass their wisdom\
-  \ down to the arboreal wardens that have sprouted under their watch. In times of\
-  \ grave danger, all the groves in a region may gather for a great months-long meeting\
-  \ to plan and, eventually, act upon a threat.<br/><br/>The typical arboreal regent\
-  \ is 30 feet tall, has a trunk 2 feet in diameter, and weighs 4,500 pounds.<br/><br/><b><u>Recall\
-  \ Knowledge - Plant</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 24<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 22<br/><b><u>Specific Lore</u></b>: DC 19"
 dexterity: '-1'
 element: null
 fly_speed: null

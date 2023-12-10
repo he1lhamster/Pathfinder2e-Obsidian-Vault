@@ -1,79 +1,88 @@
 ﻿---
-ac: '25'
-alignment: N
+ac: '48'
+alignment: CE
 all_resistance: null
-burrow_speed: '20'
-charisma: '+0'
-climb_speed: null
-constitution: '+5'
+burrow_speed: '40'
+charisma: '+6'
+climb_speed: '60'
+constitution: '+9'
 creature_ability:
-- Claw Frenzy
-- Earth Glide
-creature_family: '[[DATABASE/monsterfamily/Elemental, Earth|Elemental, Earth]]'
-description: 'These squat, rotund elementals have three legs, three arms, three eyes,
-  and one massive maw, which they fill with the gems and metals they find so delicious.<br/><br/><b><u>Recall
-  Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 23<br/><b><u>Unspecific Lore</u></b>: DC 21<br/><b><u>Specific Lore</u></b>:
-  DC 18'
-dexterity: '+0'
-element: Earth
+- Attack of Opportunity
+- Bomb Barrage
+- Breath Weapon
+- Firebleed
+- Frightful Presence
+- Light
+- Blindness
+- Reactive
+- Swallow Whole
+- Trample
+creature_family: '[[DATABASE/monsterfamily/Spawn of Rovagug|Spawn of Rovagug]]'
+dexterity: '+8'
+element: Fire
 fly_speed: null
-fortitude: '+18'
+fortitude: '+36'
 hardness: null
-hp: '115'
-id: '184'
+hp: '385'
+id: '491'
 immunity:
-- bleed
+- clumsy
+- disease
+- drained
+- enfeebled
+- fire
+- mental
 - paralyzed
+- petrified
 - poison
-- sleep
-intelligence: '+0'
-land_speed: '20'
+- polymorph
+- stupefied
+intelligence: '-4'
+land_speed: '60'
 language:
-- '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Terran|Terran]]'
-level: '7'
-max_speed: '20'
-name: Xorn
-perception: '+15'
-rarity: Common
-reflex: '+11'
+- '[[DATABASE/language/Aklo|Aklo]] ; can''t speak any language'
+level: '20'
+max_speed: '60'
+name: Xotani
+perception: '+39'
+rarity: Unique
+reflex: '+33'
 resistance:
-- cold 5
-- electricity 5
-- fire 5
+- electricity 22
+- physical 22
+- sonic 22
 rus_type_level: null
 school: null
 sense:
+- blindsight (precise) 120 feet
 - darkvision
-- tremorsense (imprecise) 60 feet
-size: Medium
+size: Gargantuan
 skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +17'
-- '[[DATABASE/skill/Lore|GeologyLore]] +15'
-- '[[DATABASE/skill/Stealth|Stealth]] +11'
-- '[[DATABASE/skill/Survival|Survival]] +15'
-source: '[[DATABASE/source/Bestiary|Bestiary]]'
+- '[[DATABASE/skill/Athletics|Athletics]] +41'
+source: '[[DATABASE/source/Pathfinder 150. Broken Promises|Pathfinder #150: Broken
+  Promises]]'
 speed:
-- 20 feet
-- burrow 20 feet; earth glide
+- 60 feet
+- burrow 40 feet
+- climb 60 feet
 spell: null
-strength: '+6'
-strength_req: '6'
+strength: '+10'
+strength_req: '10'
 strongest_save:
 - Fortitude
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Earth|Earth]]'
-- '[[DATABASE/trait/Elemental|Elemental]]'
+- '[[DATABASE/trait/Beast|Beast]]'
+- '[[DATABASE/trait/Fire|Fire]]'
+- '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
 vision: Darkvision
 weakest_save:
-- Reflex
+- Will
 weakness:
-- bludgeoning 5
-will: '+13'
-wisdom: '+2'
+- cold 22
+will: '+30'
+wisdom: '+7'
 
 ---
 # Xotani, The Firebleeder

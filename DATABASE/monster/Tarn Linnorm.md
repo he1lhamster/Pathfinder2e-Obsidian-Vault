@@ -16,10 +16,6 @@ creature_ability:
 - Breath
 - Tarn Linnorm Venom
 creature_family: '[[DATABASE/monsterfamily/Linnorm|Linnorm]]'
-description: 'Although more powerful linnorms exist, the multi-headed tarn linnorm
-  can wreak an awe-inspiring amount of devastation.<br/><br/><b><u>Recall Knowledge
-  - Dragon</u> ( [[DATABASE/skill/Arcana|Arcana]] )</b>: DC 42<br/><b><u>Unspecific
-  Lore</u></b>: DC 40<br/><b><u>Specific Lore</u></b>: DC 37'
 dexterity: '+6'
 element: null
 fly_speed: '100'

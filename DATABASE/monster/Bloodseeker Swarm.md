@@ -9,14 +9,6 @@ constitution: '+1'
 creature_ability:
 - Blood Draining Bites
 creature_family: '[[DATABASE/monsterfamily/Bloodseeker|Bloodseeker]]'
-description: 'The Court of Ether release the less useful, smaller breed of bloodseekers
-  into the Endless Gulf, where they form into dangerous swarms of the insatiable devourers.
-  This has lead to a dangerous new game, Seek-a-Bang, where fey mounted on giant bloodseekers
-  throw [[DATABASE/equipment/Thunderstone|thunderstones]] at swarms of their mounts''
-  smaller cousins and see how many they can kill with a single throw. So far, the
-  fatalities are few enough to be acceptable.<br/><br/><b><u>Recall Knowledge - Animal</u>
-  ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 20<br/><b><u>Unspecific Lore</u></b>:
-  DC 18<br/><b><u>Specific Lore</u></b>: DC 15'
 dexterity: '+5'
 element: null
 fly_speed: '30'

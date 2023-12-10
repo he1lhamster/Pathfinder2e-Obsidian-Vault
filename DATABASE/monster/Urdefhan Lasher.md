@@ -12,10 +12,6 @@ creature_ability:
 - Shauth Seize
 - Wicked Bite
 creature_family: '[[DATABASE/monsterfamily/Urdefhan|Urdefhan]]'
-description: 'Trained from a young age with the strange and powerful shauth lashes,
-  urdefhan lashers would rather die than retreat from combat.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 23<br/><b><u>Unspecific
-  Lore</u></b>: DC 21<br/><b><u>Specific Lore</u></b>: DC 18'
 dexterity: '+3'
 element: null
 fly_speed: null

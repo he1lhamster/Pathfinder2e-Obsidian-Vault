@@ -1,71 +1,85 @@
 ﻿---
-ac: '34'
-alignment: NG
+ac: '27'
+alignment: LN
 all_resistance: null
 burrow_speed: null
-charisma: '+1'
+charisma: '+2'
 climb_speed: null
-constitution: '+5'
+constitution: '+0'
 creature_ability:
-- Attack of Opportunity
-- Brutally Disarm
-- Felling Throw
-- Ricochet Throw
-- Sweep Aside
+- Crystalline Dust
+- Draconic Exemplar
+- Kobold Breath
+- Mastermind
+- Preemptive Reconfiguration
+- Skirmish Strike
+- Sneak Attack
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 42<br/><b><u>Unspecific
-  Lore</u></b>: DC 40<br/><b><u>Specific Lore</u></b>: DC 37'
-dexterity: '+3'
+dexterity: '+4'
 element: null
 fly_speed: null
-fortitude: '+27'
-hp: '310'
-id: '1506'
+fortitude: '+15'
+hp: '140'
+id: '1052'
 immunity: null
-intelligence: '+1'
-land_speed: '20'
+intelligence: '+4'
+land_speed: '25'
 language:
+- '[[DATABASE/language/Aklo|Aklo]]'
 - '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Orcish|Orcish]]'
-- '[[DATABASE/language/Skald|Skald]]'
-level: '14'
-max_speed: '20'
-name: Urnak Lostwind
-perception: '+25'
+- '[[DATABASE/language/Draconic|Draconic]]'
+- '[[DATABASE/language/Infernal|Infernal]]'
+- '[[DATABASE/language/Undercommon|Undercommon]]'
+- '[[DATABASE/language/Utopian|Utopian]]'
+level: '9'
+max_speed: '25'
+name: Urok
+perception: '+18'
 rarity: Unique
-reflex: '+23'
-resistance:
-- '[[DATABASE/trait/Cold|cold]] 10'
+reflex: '+21'
+resistance: null
 rus_type_level: null
-sense: null
-size: Medium
+sense:
+- '[[DATABASE/monsterability/Darkvision|darkvision]]'
+- '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
+size: Small
 skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +27'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +23'
-- '[[DATABASE/skill/Lore|Sailing Lore]] +23'
-- '[[DATABASE/skill/Survival|Survival]] +25'
-source: '[[DATABASE/source/Pathfinder 167. Ready Fight!|Pathfinder #167: Ready? Fight!]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +20'
+- '[[DATABASE/skill/Arcana|Arcana]] +20'
+- '[[DATABASE/skill/Athletics|Athletics]] +13'
+- '[[DATABASE/skill/Deception|Deception]] +16'
+- '[[DATABASE/skill/Lore|DevilLore]] +20'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +16'
+- '[[DATABASE/skill/Nature|Nature]] +16'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +16'
+- '[[DATABASE/skill/Occultism|Occultism]] +20'
+- '[[DATABASE/skill/Religion|Religion]] +16'
+- '[[DATABASE/skill/Society|Society]] +20'
+- '[[DATABASE/skill/Stealth|Stealth]] +20'
+- '[[DATABASE/skill/Survival|Survival]] +16'
+- '[[DATABASE/skill/Thievery|Thievery]] +20'
+- '[[DATABASE/skill/Lore|Yioxat Tribe Lore]] +20'
+source: '[[DATABASE/source/No-Prep Character. Urok|No-Prep Character: Urok]]'
 speed:
-- 20 feet
+- 25 feet
 spell: null
-strength: '+5'
-strength_req: '5'
+strength: '+0'
+strength_req: '0'
 strongest_save:
-- Fortitude
+- Reflex
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Human|Human]]'
+- '[[DATABASE/trait/Aphorite|Aphorite]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
-- '[[DATABASE/trait/Orc|Orc]]'
+- '[[DATABASE/trait/Kobold|Kobold]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
+vision: Darkvision
 weakest_save:
-- Reflex
+- Fortitude
 weakness: null
-will: '+25'
-wisdom: '+3'
+will: '+18'
+wisdom: '+2'
 
 ---
 # Urok, Kobold Infiltrator

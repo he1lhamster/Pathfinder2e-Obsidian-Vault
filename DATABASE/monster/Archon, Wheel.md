@@ -1,65 +1,81 @@
 ﻿---
-ac: '15'
-alignment: N
+ac: '41'
+alignment: LG
 all_resistance: null
 burrow_speed: null
-charisma: '+0'
+charisma: '+3'
 climb_speed: null
-constitution: '+2'
+constitution: '+6'
 creature_ability:
-- Aquatic Echolocation
-- Deep Breath
-- Ramming Speed
-creature_family: '[[DATABASE/monsterfamily/Dolphin|Dolphin]]'
-description: 'Whalesteeds were first tamed in the Shackles as part of an ambush between
-  rival pirate captains. Whalesteed riders are still an unusual sight, as learning
-  to master the skill takes years of training.<br/><br/><b><u>Recall Knowledge - Animal</u>
-  ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 14<br/><b><u>Unspecific Lore</u></b>:
-  DC 12<br/><b><u>Specific Lore</u></b>: DC 9'
-dexterity: '+3'
+- All-Knowing Eyes
+- Fiery Spokes
+- Focus Gaze
+creature_family: '[[DATABASE/monsterfamily/Archon|Archon]]'
+dexterity: '+9'
 element: null
-fly_speed: null
-fortitude: '+6'
+fly_speed: '50'
+fortitude: '+26'
 hardness: null
-hp: '16'
-id: '2077'
+hp: '230'
+id: '2079'
 immunity: null
-intelligence: '-4'
+intelligence: '+5'
 land_speed: null
-language: null
-level: '0'
-max_speed: '60'
-name: Whalesteed
-perception: '+7'
-rarity: Common
-reflex: '+7'
+language:
+- '[[DATABASE/language/Celestial|Celestial]]'
+- '[[DATABASE/language/Draconic|Draconic]]'
+- '[[DATABASE/language/Infernal|Infernal]] ; [[DATABASE/spell/Tongues|tongues]]'
+level: '16'
+max_speed: '50'
+name: Wheel Archon
+perception: '+28'
+rarity: Rare
+reflex: '+31'
 resistance: null
 rus_type_level: null
 school: null
 sense:
-- aquatic echolocation 120 feet
-- '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
-size: Large
+- '[[DATABASE/monsterability/Darkvision|darkvision]]'
+- '[[DATABASE/spell/Discern Lies|discern lies]]'
+- '[[DATABASE/spell/True Seeing|trueseeing]]'
+size: Huge
 skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +6'
-source: '[[DATABASE/source/Travel Guide|Travel Guide]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +31'
+- '[[DATABASE/skill/Athletics|Athletics]] +30'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +29'
+- '[[DATABASE/skill/Religion|Religion]] +28'
+- '[[DATABASE/skill/Lore|Warfare Lore]] +29'
+source: '[[DATABASE/source/Pathfinder 183. Field of Maidens|Pathfinder #183: Field
+  of Maidens]]'
 speed:
-- swim 60 feet
-spell: null
-strength: '+2'
-strength_req: '2'
+- fly 50 feet
+spell:
+- '[[DATABASE/spell/Antimagic Field|Antimagic Field]]'
+- '[[DATABASE/spell/Discern Lies|Discern Lies]]'
+- '[[DATABASE/spell/Divine Decree|Divine Decree]]'
+- '[[DATABASE/spell/Divine Wrath|Divine Wrath]]'
+- '[[DATABASE/spell/Flame Strike|Flame Strike]]'
+- '[[DATABASE/spell/Prying Eye|Prying Eye]]'
+- '[[DATABASE/spell/Tongues|Tongues]]'
+- '[[DATABASE/spell/True Seeing|TrueSeeing]]'
+- '[[DATABASE/spell/Zealous Conviction|Zealous Conviction]]'
+strength: '+6'
+strength_req: '6'
 strongest_save:
 - Reflex
-swim_speed: '60'
+swim_speed: null
 trait:
-- '[[DATABASE/trait/Animal|Animal]]'
+- '[[DATABASE/trait/Archon|Archon]]'
+- '[[DATABASE/trait/Celestial|Celestial]]'
+- '[[DATABASE/trait/Rare|Rare]]'
 type: Creature
-vision: Low-light vision
+vision: Darkvision
 weakest_save:
-- Will
-weakness: null
-will: '+5'
-wisdom: '+3'
+- Fortitude
+weakness:
+- evil 15
+will: '+28'
+wisdom: '+6'
 
 ---
 # Archon, Wheel

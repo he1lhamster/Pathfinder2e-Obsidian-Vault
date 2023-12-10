@@ -9,15 +9,6 @@ constitution: '+0'
 creature_ability:
 - Glittering Distraction
 creature_family: '[[DATABASE/monsterfamily/Magistrates|Magistrates]]'
-description: 'Ledgers and marks, positive and negative flows, and levies and allotments
-  are a tax collector''s daily bread. Where coin is gained, from whom it is collected,
-  and to whom is it disbursed are their main concerns; the collector is unconcerned
-  with whether the taxed can afford it or take a loan to make up for any shortfall.
-  However, tax collectors aren''t immune to corruption: arrangements can be made,
-  deals discussed, documents altered, or coin misappropriated. When dealing with matters
-  of taxes and finance, the tax collector is a 3rd-level challenge.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 13<br/><b><u>Unspecific
-  Lore</u></b>: DC 11<br/><b><u>Specific Lore</u></b>: DC 8'
 dexterity: '+1'
 element: null
 fly_speed: null

@@ -13,17 +13,6 @@ creature_ability:
 - Meticulous
 - Thoughtsense
 creature_family: null
-description: 'Intellect assemblages are artificial constructs created from the memories
-  of others. These memories are solidified into jagged shards similar in appearance
-  to shattered glass and fused together in vaguely humanoid-shaped clusters to create
-  the assemblage''s body. The resulting construct is incredibly intelligent but completely
-  devoid of emotion, possessing the thoughts and memories of a multitude but no personal
-  connection to any of them. Analytical and meticulous, intellect assemblages view
-  the world and everything in it as parts of a complex equation or system. They place
-  no value on life or morality and consider emotions an illogical weakness.<br/><br/><b><u>Recall
-  Knowledge - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]]
-  )</b>: DC 44<br/><b><u>Unspecific Lore</u></b>: DC 42<br/><b><u>Specific Lore</u></b>:
-  DC 39'
 dexterity: '+5'
 element: null
 fly_speed: null

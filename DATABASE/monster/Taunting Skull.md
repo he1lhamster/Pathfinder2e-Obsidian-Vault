@@ -10,11 +10,6 @@ creature_ability:
 - Bite Back
 - Incessant Goading
 creature_family: '[[DATABASE/monsterfamily/Beheaded|Beheaded]]'
-description: 'Some beheaded are raised with their mental faculties mostly intact.
-  These clever undead often provoke their victims into foolishly giving chase or harming
-  themselves.<br/><br/><b><u>Recall Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 20<br/><b><u>Unspecific Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>:
-  DC 15'
 dexterity: '+5'
 element: null
 fly_speed: '40'

@@ -1,70 +1,80 @@
 ﻿---
-ac: '25'
-alignment: N
+ac: '28'
+alignment: NE
 all_resistance: null
 burrow_speed: null
-charisma: '+0'
+charisma: '+3'
 climb_speed: null
-constitution: '+2'
+constitution: '+0'
 creature_ability:
-- Forager
-- Forest Walker
-- Hunt Prey
-creature_family: '[[DATABASE/monsterfamily/Foresters|Foresters]]'
-description: 'As is reflected in the many depictions of an elk-headed [[DATABASE/deity/Erastil|Erastil]]
-  , god of the hunt, the hunter is very much a creature of the forest, known by the
-  forest and familiar with every aspect of it. After all, the final determination
-  of who is the hunter and who is prey often depends on who is able to make an ally
-  of the terrain.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 23<br/><b><u>Unspecific Lore</u></b>: DC 21<br/><b><u>Specific Lore</u></b>:
-  DC 18'
+- Vitrumancy
+- Vitrumantic Stoneskin
+creature_family: null
 dexterity: '+4'
 element: null
 fly_speed: null
-fortitude: '+15'
-hp: '115'
-id: '907'
+fortitude: '+16'
+hp: '145'
+id: '1993'
 immunity: null
-intelligence: '+1'
+intelligence: '+5'
 land_speed: '25'
 language:
 - '[[DATABASE/language/Common|Common]]'
-level: '7'
+- '[[DATABASE/language/Terran|Terran]]'
+level: '10'
 max_speed: '25'
-name: Hunter
-perception: '+17'
-rarity: Common
-reflex: '+17'
+name: Ibrium
+perception: '+20'
+rarity: Unique
+reflex: '+19'
 resistance: null
 rus_type_level: null
 sense: null
 size: Medium
 skill:
-- '[[DATABASE/skill/Lore|Forest Lore]] +13'
-- '[[DATABASE/skill/Medicine|Medicine]] +15'
-- '[[DATABASE/skill/Nature|Nature]] +17'
-- '[[DATABASE/skill/Stealth|Stealth]] +17'
-- '[[DATABASE/skill/Survival|Survival]] +17'
-source: '[[DATABASE/source/Gamemastery Guide|Gamemastery Guide]]'
+- '[[DATABASE/skill/Arcana|Arcana]] +24'
+- '[[DATABASE/skill/Deception|Deception]] +19'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +19'
+- '[[DATABASE/skill/Lore|Elemental Lore]] +22'
+- '[[DATABASE/skill/Lore|Nex Lore]] +22'
+- '[[DATABASE/skill/Society|Society]] +19'
+source: '[[DATABASE/source/Pathfinder 180. The Smoking Gun|Pathfinder #180: The Smoking
+  Gun]]'
 speed:
 - 25 feet
-spell: null
-strength: '+4'
-strength_req: '4'
+spell:
+- '[[DATABASE/spell/Daze|Daze]]'
+- '[[DATABASE/spell/Detect Magic|DetectMagic]]'
+- '[[DATABASE/spell/Earthbind|Earthbind]]'
+- '[[DATABASE/spell/Elemental Form|Elemental Form]]'
+- '[[DATABASE/spell/Fireball|Fireball]]'
+- '[[DATABASE/spell/Fly|Fly]]'
+- '[[DATABASE/spell/Heat Metal|HeatMetal]]'
+- '[[DATABASE/spell/Hydraulic Push|Hydraulic Push]]'
+- '[[DATABASE/spell/Impaling Spike|Impaling Spike]]'
+- '[[DATABASE/spell/Message|Message]]'
+- '[[DATABASE/spell/Pummeling Rubble|Pummeling Rubble]]'
+- '[[DATABASE/spell/Shield|Shield]]'
+- '[[DATABASE/spell/Sigil|Sigil]]'
+- '[[DATABASE/spell/Stoneskin|Stoneskin]]'
+- '[[DATABASE/spell/Wall of Fire|Wall of Fire]]'
+strength: '+0'
+strength_req: '0'
 strongest_save:
-- Reflex
+- Will
 swim_speed: null
 trait:
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
+- '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
 vision: null
 weakest_save:
 - Fortitude
-- Will
 weakness: null
-will: '+15'
-wisdom: '+4'
+will: '+22'
+wisdom: '+3'
 
 ---
 # Ibrium, Cold-Hearted Nexian Vitrumancer

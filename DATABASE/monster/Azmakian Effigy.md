@@ -10,28 +10,6 @@ creature_ability:
 - Breath Weapon
 - Powerful Charge
 creature_family: null
-description: "Xar-Azmak, the demonic Lord of Rust, was destroyed long ago by [[DATABASE/deity/Dispater|Dispater]]\
-  \ . Some weapons of his infernal legions remain and among the most infamous are\
-  \ Azmakian effigies: fearsome infernal constructs shaped in his image.<br/><br/>\
-  \ Although made of iron, an Azmakian effigy's exterior is thick with rust that flakes\
-  \ off as the construct moves and fights. Effigies charge into battle on massive\
-  \ hooves, impaling enemies on long, curving horns. The effigy's most well-known\
-  \ attack\u2014and the ability that makes even the bravest warrior tremble\u2014\
-  is their terrible rusting breath, which can reduce even legendary magical weapons\
-  \ to useless scrap. Wise adventurers attempt to fight an effigy at a distance, but\
-  \ these constructs are surprisingly swift and able to outrun many foes.<br/><br/>\
-  \ The secret to creating Azmakian effigies is thought to be lost, but infernal libraries\
-  \ might still contain the necessary rituals and list of ingredients. Xar-Azmak once\
-  \ commanded ranks of effigies that numbered in the thousands, but most of those\
-  \ who survived his destruction were trapped in [[DATABASE/plane/Hell|Hell]] , where\
-  \ they were pursued by Dispater's forces and eventually destroyed. Those few who\
-  \ offered their services to Xar-Azmak's devoted worshippers on Golarion survived\
-  \ this purge. With the death of Xar-Azmak, much of the lore to repair the effigies\
-  \ was lost. When one of these constructs is found, they're often suffering some\
-  \ form of long-term damage.<br/><br/><b><u>Recall Knowledge - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]]\
-  \ , [[DATABASE/skill/Crafting|Crafting]] )</b>: DC 28<br/><b><u>Recall Knowledge\
-  \ - Fiend</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 28<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 26<br/><b><u>Specific Lore</u></b>: DC 23"
 dexterity: '+4'
 element: null
 fly_speed: null

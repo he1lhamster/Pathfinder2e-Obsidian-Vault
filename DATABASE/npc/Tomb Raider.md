@@ -10,11 +10,6 @@ creature_ability:
 - Hazard Spotter
 - Trick Attack
 creature_family: '[[DATABASE/monsterfamily/Explorers|Explorers]]'
-description: 'Great treasure awaits those willing to explore the hazardous depths
-  of the world''s ancient tombs and forgotten dungeons. Some tomb raiders seek riches
-  of bygone eras; others recover pieces of history thought lost to the sands of time.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 20<br/><b><u>Unspecific
-  Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>: DC 15'
 dexterity: '+4'
 element: null
 fly_speed: null

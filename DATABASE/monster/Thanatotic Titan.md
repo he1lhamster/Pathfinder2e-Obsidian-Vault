@@ -16,13 +16,6 @@ creature_ability:
 - Wide
 - Cleave
 creature_family: '[[DATABASE/monsterfamily/Titan|Titan]]'
-description: 'Thanatotic titans served as assassins in the war against the deities.
-  They learned to sever their targets'' divine connections, murdering mortal priests
-  and divine heralds alike. Thanatotic titans were locked away in the [[DATABASE/plane/Abyss|Abyss]]
-  , but some have freed themselves and crept out from the Abyss so they might continue
-  their sprees of murder and mayhem. To this day, they seek out the faithful for slaughter.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 49<br/><b><u>Unspecific
-  Lore</u></b>: DC 47<br/><b><u>Specific Lore</u></b>: DC 44'
 dexterity: '+4'
 element: null
 fly_speed: null

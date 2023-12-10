@@ -11,27 +11,6 @@ creature_ability:
 - Pest Haven
 - Stitch Skin
 creature_family: null
-description: 'Skinstitches'' hulking frames are made from flayed humanoid skin stuffed
-  with straw and poisonous insects. The dark god [[DATABASE/deity/Norgorber|Norgorber]]
-  grants the secrets for creating these monstrosities in disturbing dreams he sends
-  to select adherents, in which the dreamer imagines themself skinning a beloved pet,
-  friend, or family member. Those that accept these teachings become skinstitchers.
-  The creation of a skinstitch is a crude process compared to the making of a more
-  advanced construct like a [[DATABASE/monsterfamily/Golem|golem]] . Rough stitching,
-  imprecise shapes, and shoddy materials give a skinstitch its patchwork appearance.<br/><br/>
-  While most skinstitches have vaguely humanoid shapes, they often appear monstrous
-  due to various modifications their creators have made to their bodies. Some skinstitches''
-  arms, for instance, might bear jagged metal blades or blunt iron rods. The most
-  talented skinstitchers rarely bother with the humanoid form at all and instead opt
-  to craft skinstitches that resemble other creatures sacred to Norgorber, such as
-  scorpions, centipedes, or spiders. Rumors lurk of skinstitchers who can use exotic
-  materials like steel, daemon flesh, or even magical shadows for their creations.<br/><br/>
-  The rotting materials used to build skinstitches tend to attract vermin, which can
-  in turn form a hive or nest within the creations'' bodies. Skinstitchers consider
-  the presence of such tenants to be a sure sign of Norgorber''s approval.<br/><br/><b><u>Recall
-  Knowledge - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]]
-  )</b>: DC 22<br/><b><u>Unspecific Lore</u></b>: DC 20<br/><b><u>Specific Lore</u></b>:
-  DC 17'
 dexterity: '+3'
 element: null
 fly_speed: null

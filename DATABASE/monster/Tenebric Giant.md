@@ -13,17 +13,6 @@ creature_ability:
 - Tenebric Stride
 - Throw Rock
 creature_family: null
-description: 'Necromancers reaching for the greatest heights of experimentation know
-  that creating a new terror requires exacting, careful work at every stage of the
-  process. In the case of the tenebric giant, this process begins with a [[DATABASE/monster/Tomb
-  Giant|tomb giant]] who dies after consuming a dose of several poisons combined with
-  the [[DATABASE/equipment/Shadow Ash|shadow ash]] reagent. This creates the right
-  circumstances for a necromancer to raise them as a tenebric giant. They''re particularly
-  obedient to the will of the necromancer who created them and are charged full of
-  energy from the [[DATABASE/plane/Shadow Plane|Shadow Plane]] , which grants them
-  new powers and abilities.<br/><br/><b><u>Recall Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 41<br/><b><u>Unspecific Lore</u></b>: DC 39<br/><b><u>Specific Lore</u></b>:
-  DC 36'
 dexterity: '+4'
 element: null
 fly_speed: null

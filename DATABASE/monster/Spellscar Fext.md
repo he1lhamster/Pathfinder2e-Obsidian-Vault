@@ -11,27 +11,6 @@ creature_ability:
 - Magic Sense
 - Unstable Feedback
 creature_family: null
-description: "Spellscar fexts are spellcasters who were destroyed by wild magic or\
-  \ wellspring surges they tried\u2014and failed\u2014to control. The magical feedback\
-  \ that snuffed out their life warped and animated their flesh, twisting them into\
-  \ shambling undead. Spellscar fexts stand 6 feet tall with disproportionately long\
-  \ arms that end in clusters of waving magical tendrils.<br/><br/> Almost all who\
-  \ became spellscar fexts entered the Mana Wastes to harness the power of the area's\
-  \ wild magic. Once transformed, the desire for magical power becomes a spellscar\
-  \ fext's singular motivation. The creatures focus their attacks on magic users they\
-  \ encounter, attempting to kill them and strip their magic. Unfortunately for a\
-  \ spellscar fext, their transformation makes their entire being inimical to magic.\
-  \ They're unable to cast even the simplest of spells. They grasp destructively at\
-  \ magic they can never hold.<br/><br/> Difficult for the unprepared to destroy permanently,\
-  \ spellscar fexts harry trade routes known for shipping magical goods and repeatedly\
-  \ attack arcane workshops on the borders of the Mana Wastes. They're particularly\
-  \ dangerous to spellcasters traveling alone, as battling the creatures might trigger\
-  \ a wellspring surge that could destroy the lone magic user.<br/><br/> As the fext's\
-  \ vulnerability to glass weapons has become more well known, enterprising gunsmiths\
-  \ in Alkenstar have begun crafting glass ammunition, an uncommon item that costs\
-  \ the same as [[DATABASE/equipment/Cold Iron Weapon|cold iron ammunition]] .<br/><br/><b><u>Recall\
-  \ Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 25<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 23<br/><b><u>Specific Lore</u></b>: DC 20"
 dexterity: '+2'
 element: null
 fly_speed: null

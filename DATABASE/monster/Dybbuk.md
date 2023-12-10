@@ -11,17 +11,6 @@ creature_ability:
 - Inhabit Object
 - Malevolent Possession
 creature_family: null
-description: 'The discorporated spirits called dybbuks arise from souls denied respite
-  in the afterlife, often because they committed some great transgression in life.
-  A priest can appease dybbuks by helping them achieve some esoteric mission, though
-  these tricksters are prone to deceiving anyone who offers them aid. Only by trapping,
-  cowing, or destroying such spirits can a mortal hope to drive them back. Dybbuks
-  hide within household objects or possessed victims. They particularly enjoy taking
-  over the body of someone their target loves and then slowly destroying the lives
-  of both.<br/><br/><b><u>Recall Knowledge - Spirit</u> ( [[DATABASE/skill/Occultism|Occultism]]
-  )</b>: DC 36<br/><b><u>Recall Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 36<br/><b><u>Unspecific Lore</u></b>: DC 34<br/><b><u>Specific Lore</u></b>:
-  DC 31'
 dexterity: '+7'
 element: null
 fly_speed: '50'

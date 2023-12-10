@@ -10,16 +10,6 @@ creature_ability:
 - Attack of Opportunity
 - Change Shape
 creature_family: '[[DATABASE/monsterfamily/Oni|Oni]]'
-description: 'Onidoshi, or ogre mages, are oni with the material form of an [[DATABASE/monsterfamily/Ogre|ogre]]
-  . Onidoshi''s supernatural prowess and overwhelming intellect are enough to awe
-  and cow entire families of rank-and-file ogres. Because of this, onidoshi are often
-  found at the head of ogre war parties or orchestrating these violent campaigns from
-  behind the scenes. It''s rare for onidoshi to lead solitary existences, but those
-  who do prefer to maraud the countryside or exploit villages and hoard the spoils
-  for themselves.<br/><br/><b><u>Recall Knowledge - Fiend</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 24<br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 24<br/><b><u>Unspecific Lore</u></b>: DC 22<br/><b><u>Specific Lore</u></b>:
-  DC 19'
 dexterity: '+3'
 element: null
 fly_speed: '30'

@@ -10,11 +10,6 @@ creature_ability:
 - Scorpion Venom
 - Swarming Stings
 creature_family: '[[DATABASE/monsterfamily/Scorpion|Scorpion]]'
-description: "While a single scorpion is itself a menace, swarms of these vermin can\
-  \ be outright devastating. These skittering droves of death swiftly bring down their\
-  \ prey before devouring everything short of the victim\u2019s bones.<br/><br/><b><u>Recall\
-  \ Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 19<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 17<br/><b><u>Specific Lore</u></b>: DC 14"
 dexterity: '+5'
 element: null
 fly_speed: null

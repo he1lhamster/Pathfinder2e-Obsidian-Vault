@@ -9,12 +9,6 @@ constitution: '+4'
 creature_ability:
 - Drunken Rage
 creature_family: '[[DATABASE/monsterfamily/Publicans|Publicans]]'
-description: "Every tavern has one\u2014that person who drinks a little too much and\
-  \ starts a fight. While many drunkards are relatively harmless, a few have a hair\
-  \ trigger, and when they're set off come, no one\u2014even the drunkard themself\u2014\
-  can tell you what started the row.<br/><br/><b><u>Recall Knowledge - Humanoid</u>\
-  \ ( [[DATABASE/skill/Society|Society]] )</b>: DC 16<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 14<br/><b><u>Specific Lore</u></b>: DC 11"
 dexterity: '+2'
 element: null
 fly_speed: null

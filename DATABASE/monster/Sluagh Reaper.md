@@ -13,14 +13,6 @@ creature_ability:
 - Soulscent
 - Steal Soul
 creature_family: '[[DATABASE/monsterfamily/Sluagh|Sluagh]]'
-description: 'Most sluagh are reapers: powerful killers subservient to their queen.
-  After they collect souls on a hunt, they dutifully return their plunder to the queen.
-  Though quite clever, they''re inscrutable, lacking the whimsy and sociability that
-  characterize many living fey. They do show merriment on occasion though, giggling
-  as their claws draw closer to their quarry''s throat.<br/><br/><b><u>Recall Knowledge
-  - Fey</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 29<br/><b><u>Recall Knowledge
-  - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 29<br/><b><u>Unspecific
-  Lore</u></b>: DC 27<br/><b><u>Specific Lore</u></b>: DC 24'
 dexterity: '+7'
 element: null
 fly_speed: '30'

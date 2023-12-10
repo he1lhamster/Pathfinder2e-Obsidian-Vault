@@ -11,11 +11,6 @@ creature_ability:
 - Terrifying Croak
 - Tongue Grab
 creature_family: '[[DATABASE/monsterfamily/Boggard|Boggard]]'
-description: 'Often tasked with patrolling the borders of their lands, boggard scouts
-  learn to speak another language (typically Common) to make it easier to issue threats
-  and insults toward trespassers.<br/><br/><b><u>Recall Knowledge - Humanoid</u> (
-  [[DATABASE/skill/Society|Society]] )</b>: DC 15<br/><b><u>Unspecific Lore</u></b>:
-  DC 13<br/><b><u>Specific Lore</u></b>: DC 10'
 dexterity: '+2'
 element: null
 fly_speed: null

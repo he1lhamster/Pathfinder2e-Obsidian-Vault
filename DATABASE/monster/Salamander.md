@@ -11,12 +11,6 @@ creature_ability:
 - Attack of Opportunity
 - Constrict
 creature_family: '[[DATABASE/monsterfamily/Elemental, Fire|Elemental, Fire]]'
-description: 'Salamanders have serpentine lower torsos, but humanoid upper bodies
-  with toothy reptilian snouts. Their affinity for cruelty and violence puts them
-  in close alliance with the demons of the Abyss.<br/><br/><b><u>Recall Knowledge
-  - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 23<br/><b><u>Unspecific Lore</u></b>: DC 21<br/><b><u>Specific Lore</u></b>:
-  DC 18'
 dexterity: '+3'
 element: Fire
 fly_speed: null

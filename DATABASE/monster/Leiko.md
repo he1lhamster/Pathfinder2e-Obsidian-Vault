@@ -14,7 +14,6 @@ creature_ability:
 - Swift Steps
 - Tenebral Form
 creature_family: null
-description: This creature did not include a description.
 dexterity: '+5'
 element: null
 fly_speed: '35'

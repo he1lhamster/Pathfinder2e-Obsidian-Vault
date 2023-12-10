@@ -10,13 +10,6 @@ creature_ability:
 - Draconic Frenzy
 - Fragile Wings
 creature_family: '[[DATABASE/monsterfamily/Skeleton|Skeleton]]'
-description: 'Moving with sinuous grace, these flying [[DATABASE/monsterfamily/Drake|drake]]
-  skeletons are held aloft by rotting membranes stretched between their bony wings.
-  Although just as mindless as other skeletons, skeletal drakes maintain much of the
-  draconic ferocity and raw spite they possessed in life, allowing them to attack
-  viciously.<br/><br/><b><u>Recall Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 24<br/><b><u>Unspecific Lore</u></b>: DC 22<br/><b><u>Specific Lore</u></b>:
-  DC 19'
 dexterity: '+4'
 element: null
 fly_speed: '40'

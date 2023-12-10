@@ -13,10 +13,6 @@ creature_ability:
 - Stench
 - Swift Leap
 creature_family: '[[DATABASE/monsterfamily/Ghoul|Ghoul]]'
-description: "Ghasts\u2014feral, foul-smelling, and constantly hungry\u2014are the\
-  \ more powerful kin of ghouls. They are relentless in the pursuit of their prey.<br/><br/><b><u>Recall\
-  \ Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 16<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>: DC 11"
 dexterity: '+4'
 element: null
 fly_speed: null

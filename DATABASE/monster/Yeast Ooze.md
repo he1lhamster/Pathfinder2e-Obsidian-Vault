@@ -10,9 +10,6 @@ creature_ability:
 - Monstrous Yeast
 - Motion Sense
 creature_family: '[[DATABASE/monsterfamily/Ooze|Ooze]]'
-description: 'Wild yeast and alchemy combine to form this monstrous frothing ooze.<br/><br/><b><u>Recall
-  Knowledge - Ooze</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 21<br/><b><u>Unspecific
-  Lore</u></b>: DC 19<br/><b><u>Specific Lore</u></b>: DC 16'
 dexterity: '-2'
 element: null
 fly_speed: null

@@ -13,9 +13,6 @@ creature_ability:
 - Staggering Sail
 - Swallow Whole
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 44<br/><b><u>Unspecific
-  Lore</u></b>: DC 42<br/><b><u>Specific Lore</u></b>: DC 39'
 dexterity: '+5'
 element: null
 fly_speed: null

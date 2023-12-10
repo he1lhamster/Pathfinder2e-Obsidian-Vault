@@ -12,15 +12,6 @@ creature_ability:
 - Diligent Assault
 - Retributive Strike
 creature_family: '[[DATABASE/monsterfamily/Archon|Archon]]'
-description: 'Among the rank-and-file soldiers of Heaven''s armies, few individuals
-  are more dependable and truer to the cause than the noble hound archons, embodiments
-  of the virtue of diligence. Unlike [[DATABASE/monster/Horned Archon|horned archons]]
-  , who perform at a similar level along Heaven''s grand hierarchy, hound archons
-  do not scout ahead for evil or perform reconnaissance missions in hostile territory.
-  A hound archon''s role is as a soldier in the heart of battle or, occasionally,
-  as a sentinel tasked with protecting a particular strategic location or holy site.<br/><br/><b><u>Recall
-  Knowledge - Celestial</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 19<br/><b><u>Unspecific
-  Lore</u></b>: DC 17<br/><b><u>Specific Lore</u></b>: DC 14'
 dexterity: '+2'
 element: null
 fly_speed: null

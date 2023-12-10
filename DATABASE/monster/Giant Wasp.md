@@ -11,10 +11,6 @@ creature_ability:
 - Implant Eggs
 - Wasp Larva
 creature_family: '[[DATABASE/monsterfamily/Wasp|Wasp]]'
-description: "Giant wasps are much more dangerous but less common than their smaller\
-  \ kin, and\u2014to the relief of those who encounter them\u2014they tend to be solitary.<br/><br/><b><u>Recall\
-  \ Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 18<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>: DC 13"
 dexterity: '+4'
 element: null
 fly_speed: '40'

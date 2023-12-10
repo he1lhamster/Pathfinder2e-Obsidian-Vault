@@ -15,38 +15,6 @@ creature_ability:
 - Power
 - Thought Theft
 creature_family: null
-description: "Once, Lorthact was a darling of the powers of [[DATABASE/plane/Hell|Hell]]\
-  \ , an infernal duke beholden to no single archdevil and rumored to have the favor\
-  \ of the god [[DATABASE/deity/Asmodeus|Asmodeus]] himself. But Lorthact was not\
-  \ satisfied in his station\u2014like so many devils\u2014 and concocted a plan to\
-  \ reverse roles with [[DATABASE/deity/Eiseth|Eiseth]] , one of Hell's Queens of\
-  \ the Night. Lorthact hoped to gain control of the [[DATABASE/monster/Erinys (Fury\
-  \ Devil)|erinyes]] armies of Hell and a substantial portion of Dis, while Eiseth\
-  \ would take the role of his consort. <br/><br/>Eiseth uncovered the plot, and Lorthact\
-  \ found himself the target of her legendary fury. His allies and patrons abandoned\
-  \ him, unwilling to bring Eiseth's wrath upon themselves, and Lorthact fled Hell\
-  \ entirely. He leapt from plane to plane, unable to find refuge until at last he\
-  \ slipped Eiseth's pursuit by hiding as a mortal in the city of Korvosa.<br/><br/>\
-  \ Korvosa proved a fruitful haven and hideout for Lorthact. He quickly found a mortal\
-  \ powerful enough to further his ambition but foolish enough to bargain with him:\
-  \ Volshyenek Ornelos. It wasn't long before Lorthact replaced the man, and for over\
-  \ a century, Lorthact led the Acadamae directly. When Volshyenek's identity drew\
-  \ too much attention from Eiseth's minions, he faked \u201COrnelos's\u201D death\
-  \ and continued to direct the wizards' college from the shadows until today. He\
-  \ collected souls over the years\u2014primarily through an elaborate hoax known\
-  \ as the Breaching Festival\u2014hoping to eventually rebuild his name and reputation\
-  \ in Hell's hierarchy, but patience was never one of Lorthact's virtues.<br/><br/>\
-  \ His attempts to quicken the process have backfired twice in recent years, both\
-  \ as the direct result of adventurers accidentally interfering with his plots. In\
-  \ the years since these risky failures, Lorthact sacrificed much of his infernal\
-  \ power to maintain his metaphysical secrecy from Eiseth. Now but a shadow of his\
-  \ former power (already much reduced from his original strength as an Infernal Duke),\
-  \ Lorthact is risking everything in a final attempt to regain an edge by supporting\
-  \ the [[DATABASE/monsterfamily/Vampire, Strigoi|vampire, strigoi]] progenitor Aliriel,\
-  \ planning to betray her and claim complete control over Ileosa's soul once she\
-  \ returns to life.<br/><br/><b><u>Recall Knowledge - Fiend</u> ( [[DATABASE/skill/Religion|Religion]]\
-  \ )</b>: DC 45<br/><b><u>Unspecific Lore</u></b>: DC 43<br/><b><u>Specific Lore</u></b>:\
-  \ DC 40"
 dexterity: '+6'
 element: null
 fly_speed: '20'

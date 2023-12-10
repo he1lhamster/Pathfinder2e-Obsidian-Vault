@@ -16,20 +16,6 @@ creature_ability:
 - Whole
 - Thunderous Slam
 creature_family: null
-description: 'While it''s easy to mistake a grootslang for an elephant upon first
-  glance, once the rest of its body becomes visible, the creature resembles a grotesque
-  puppet manipulated like a marionette from the inside by a snake large enough to
-  swallow a building. A grootslang stands 20 feet tall, with skin like plated armor
-  and a pair of massive forearms. It sports six deadly tusks capable of piercing flesh
-  and bone with ease. The rest of its body extends up to 60 feet long. A grootslang''s
-  face resembles that of an elephant, but much like its serpentine cousins, it can
-  unhinge its lower jaw to swallow its prey.<br/><br/> A person encountering a grootslang
-  has a slight chance of reasoning with or bribing the beast, possibly escaping a
-  deadly fate. A hoard of gems is no guarantee of safety, however, and a particularly
-  cruel grootslang will just as likely go back on their word upon receiving the offering.<br/><br/><b><u>Recall
-  Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 37<br/><b><u>Unspecific Lore</u></b>: DC 35<br/><b><u>Specific Lore</u></b>:
-  DC 32'
 dexterity: '+5'
 element: null
 fly_speed: null

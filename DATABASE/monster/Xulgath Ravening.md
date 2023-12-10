@@ -16,16 +16,6 @@ creature_ability:
 - Troop
 - Movement
 creature_family: null
-description: "Strength and hunger drive most xulgath societies, reinforced by the\
-  \ tenets of their abyssal patron Zevgavizeb. A powerful leader can seize control\
-  \ of a xulgath community and direct their followers to fight as a unit, but formation\
-  \ fighting isn't something most xulgaths practice. This mob mentality often results\
-  \ in overzealous warriors tripping over or even biting each other. Suitably, these\
-  \ mobs have earned the name \u201Cravenings,\u201D a term also used when describing\
-  \ Zevgavizeb's carnivorous rampages and referring to the millennia of xulgath infighting\
-  \ and social decline.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]\
-  \ )</b>: DC 24<br/><b><u>Unspecific Lore</u></b>: DC 22<br/><b><u>Specific Lore</u></b>:\
-  \ DC 19"
 dexterity: '+1'
 element: null
 fly_speed: null

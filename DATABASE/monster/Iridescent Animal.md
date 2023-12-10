@@ -1,70 +1,64 @@
 ﻿---
-ac: '34'
-alignment: NE
+ac: '21'
+alignment: N
 all_resistance: null
 burrow_speed: null
-charisma: '+4'
+charisma: '+0'
 climb_speed: null
-constitution: '+6'
+constitution: '+2'
 creature_ability:
-- Disfigure
-- Tail Drag
-- Voice Imitation
+- Color Splash
+- Glowing Bones
+- Grabbing Trunk
+- Trample
+- Trunk Beam
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 41<br/><b><u>Unspecific Lore</u></b>: DC 39<br/><b><u>Specific Lore</u></b>:
-  DC 36'
-dexterity: '+6'
+dexterity: '+0'
 element: null
 fly_speed: null
-fortitude: '+25'
+fortitude: '+16'
 hardness: null
-hp: '235'
-id: '2238'
+hp: '110'
+id: '510'
 immunity: null
-intelligence: '+0'
-land_speed: '25'
-language:
-- '[[DATABASE/language/Aklo|Aklo]]'
-- '[[DATABASE/language/Common|Common]]'
-level: '13'
-max_speed: '35'
-name: Irahkatu
-perception: '+22'
-rarity: Unique
-reflex: '+21'
+intelligence: '-4'
+land_speed: '40'
+language: null
+level: '7'
+max_speed: '40'
+name: Iridescent Elephant
+perception: '+11'
+rarity: Uncommon
+reflex: '+9'
 resistance: null
 rus_type_level: null
 school: null
 sense:
-- '[[DATABASE/monsterability/Darkvision|darkvision]]'
-size: Large
+- scent (imprecise) 30 feet
+size: Huge
 skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +25'
-- '[[DATABASE/skill/Deception|Deception]] +23'
-- '[[DATABASE/skill/Stealth|Stealth]] +25'
-source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
+- '[[DATABASE/skill/Athletics|Athletics]] +15'
+- '[[DATABASE/skill/Survival|Survival]] +13'
+source: '[[DATABASE/source/Pathfinder 152. Legacy of the Lost God|Pathfinder #152:
+  Legacy of the Lost God]]'
 speed:
-- 25 feet
-- swim 35 feet
+- 40 feet
 spell: null
-strength: '+8'
-strength_req: '8'
+strength: '+7'
+strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: '35'
+swim_speed: null
 trait:
-- '[[DATABASE/trait/Amphibious|Amphibious]]'
-- '[[DATABASE/trait/Beast|Beast]]'
-- '[[DATABASE/trait/Unique|Unique]]'
+- '[[DATABASE/trait/Animal|Animal]]'
+- '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: Darkvision
+vision: null
 weakest_save:
-- Will
+- Reflex
 weakness: null
-will: '+20'
-wisdom: '+5'
+will: '+14'
+wisdom: '+2'
 
 ---
 # Iridescent Animal

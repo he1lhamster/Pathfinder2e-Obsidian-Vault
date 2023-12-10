@@ -10,13 +10,6 @@ creature_ability:
 - A Thousand Cuts
 - Swoop
 creature_family: '[[DATABASE/monsterfamily/Elemental, Metal|Elemental, Metal]]'
-description: 'Beautiful but deadly, the ferrous butterfly is a turkey-sized insectile
-  creature bristling with dozens of gleaming, razor-edged blades. Considered harmless
-  by most denizens of the [[DATABASE/plane/Plane of Metal|Plane of Metal]] , they
-  nonetheless pose a significant threat to organic creatures, whose iron-rich blood
-  they find irresistible.<br/><br/><b><u>Recall Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Nature|Nature]] )</b>: DC 15<br/><b><u>Unspecific Lore</u></b>:
-  DC 13<br/><b><u>Specific Lore</u></b>: DC 10'
 dexterity: '+4'
 element: Metal
 fly_speed: '40'

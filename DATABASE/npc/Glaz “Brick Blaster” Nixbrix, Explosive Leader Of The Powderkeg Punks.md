@@ -1,63 +1,73 @@
 ﻿---
-ac: '20'
-alignment: NE
+ac: '24'
+alignment: CN
 all_resistance: null
 burrow_speed: null
-charisma: '+0'
-climb_speed: null
-constitution: '+0'
+charisma: '+2'
+climb_speed: '30'
+constitution: '+4'
 creature_ability:
-- Sneak Attack
+- Buzz-Saw Knuckles
+- Custom Armor
+- Escape Route
+- Knuckle Knock
+- Leap Away
+- Really Big Gun
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 25<br/><b><u>Unspecific
-  Lore</u></b>: DC 23<br/><b><u>Specific Lore</u></b>: DC 20'
-dexterity: '+4'
+dexterity: '+6'
 element: null
 fly_speed: null
 fortitude: '+10'
-hp: '65'
-id: '1975'
+hp: '60'
+id: '1940'
 immunity: null
 intelligence: '+3'
-land_speed: '25'
-language: null
-level: '5'
-max_speed: '25'
-name: Gilded Gunner Safecracker
-perception: '+12'
-rarity: Rare
+land_speed: '20'
+language:
+- '[[DATABASE/language/Common|Common]]'
+- '[[DATABASE/language/Goblin|Goblin]]'
+level: '4'
+max_speed: '30'
+name: "Glaz \u201CBrick Blaster\u201D Nixbrix"
+perception: '+9'
+rarity: Unique
 reflex: '+14'
-resistance: null
+resistance:
+- physical 5 (except [[DATABASE/equipment/Adamantine Weapon|adamantine]] or [[DATABASE/equipment/Orichalcum
+  Weapon|orichalcum]] )
 rus_type_level: null
-sense: null
-size: Medium
+sense:
+- '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
+size: Small
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +12'
-- '[[DATABASE/skill/Athletics|Athletics]] +8'
-- '[[DATABASE/skill/Stealth|Stealth]] +12'
-- '[[DATABASE/skill/Thievery|Thievery]] +14'
-source: '[[DATABASE/source/Pathfinder 179. Cradle of Quartz|Pathfinder #179: Cradle
-  of Quartz]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +14'
+- '[[DATABASE/skill/Athletics|Athletics]] +11'
+- '[[DATABASE/skill/Crafting|Crafting]] +9'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +10'
+- '[[DATABASE/skill/Stealth|Stealth]] +14'
+- '[[DATABASE/skill/Lore|Underworld Lore]] +9'
+source: '[[DATABASE/source/Pathfinder 178. Punks in a Powderkeg|Pathfinder #178: Punks
+  in a Powderkeg]]'
 speed:
-- 25 feet
+- 20 feet
+- climb 30 feet
 spell: null
-strength: '+2'
-strength_req: '2'
+strength: '+3'
+strength_req: '3'
 strongest_save:
 - Reflex
 swim_speed: null
 trait:
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
-- '[[DATABASE/trait/Rare|Rare]]'
+- '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
+vision: Low-light vision
 weakest_save:
-- Fortitude
 - Will
-weakness: null
-will: '+10'
-wisdom: '+2'
+weakness:
+- '[[DATABASE/trait/Electricity|electricity]] 5'
+will: '+9'
+wisdom: '+1'
 
 ---
 # Glaz “Brick Blaster” Nixbrix, Explosive Leader Of The Powderkeg Punks

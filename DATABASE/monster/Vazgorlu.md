@@ -12,12 +12,6 @@ creature_ability:
 - Hostile Juxtaposition
 - Redirect Portal
 creature_family: null
-description: 'The arthropod monstrosity known as a vazgorlu makes its home on the
-  Astral Plane or inside of a stable portal, ambushing creatures that travel there
-  using dimensional magic.<br/><br/><b><u>Recall Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]]
-  )</b>: DC 45<br/><b><u>Recall Knowledge - Astral</u> ( [[DATABASE/skill/Occultism|Occultism]]
-  )</b>: DC 45<br/><b><u>Unspecific Lore</u></b>: DC 43<br/><b><u>Specific Lore</u></b>:
-  DC 40'
 dexterity: '+7'
 element: null
 fly_speed: null

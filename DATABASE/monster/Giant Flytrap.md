@@ -12,11 +12,6 @@ creature_ability:
 - Quick Capture
 - Swallow Whole
 creature_family: '[[DATABASE/monsterfamily/Flytrap|Flytrap]]'
-description: 'Because they blend in so well with surrounding foliage, giant flytraps
-  can use the element of surprise to make quick strikes against unsuspecting adventurers
-  and forest travelers.<br/><br/><b><u>Recall Knowledge - Plant</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 27<br/><b><u>Unspecific Lore</u></b>: DC 25<br/><b><u>Specific Lore</u></b>:
-  DC 22'
 dexterity: '+5'
 element: null
 fly_speed: null

@@ -10,14 +10,6 @@ creature_ability:
 - Cavern Dependent
 - Weep
 creature_family: '[[DATABASE/monsterfamily/Nymph|Nymph]]'
-description: 'Lampads protect dark, hidden places underground. Not only do they defend
-  subterranean caverns from threats, but they also safeguard well-meaning innocents
-  from the dangers that lurk below the surface. Lampads are so-named for the wisps
-  of magic light they often carry, guiding the lost to safety while luring threats
-  to their doom. Lampads'' mercurial nature makes their reactions difficult to predict,
-  though they rarely demonstrate outright malice without sufficient provocation.<br/><br/><b><u>Recall
-  Knowledge - Fey</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 20<br/><b><u>Unspecific
-  Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>: DC 15'
 dexterity: '+5'
 element: Earth
 fly_speed: null

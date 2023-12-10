@@ -12,21 +12,6 @@ creature_ability:
 - Return Arrow
 - Veil of Lies
 creature_family: '[[DATABASE/monsterfamily/Asura|Asura]]'
-description: "Japalisuras have a perverse propensity for extracting embarrassing truths\
-  \ from the universe, using a combination of artifice and prophecy to obscure the\
-  \ truth and corrupt traditional soothsaying. They have a special talent for manipulation\u2014\
-  feeding listeners' worst impulses and prejudices, telling them what their prey most\
-  \ want to hear, and twisting their perceptions to suit the japalisuras' own ends.\
-  \ All this occurs from behind a veil, though, for japalisuras are grotesque fiends\
-  \ with six arms, infinite faces, and an obsession with the profane.<br/><br/> The\
-  \ first japalisura rose from the remains of three demigod archers, sons of a goddess\
-  \ who feared their rise to power and slew them. Their merged form was so terrifying\
-  \ that they struck a deal with a powerful asura rana to alter their face into something\
-  \ more pleasing. The true cruelty of the enchantment became clear only later\u2014\
-  the japalisura had a new face, but that face transformed into a different one every\
-  \ minute, each more hideous than the last.<br/><br/><b><u>Recall Knowledge - Fiend</u>\
-  \ ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 30<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 28<br/><b><u>Specific Lore</u></b>: DC 25"
 dexterity: '+7'
 element: null
 fly_speed: null

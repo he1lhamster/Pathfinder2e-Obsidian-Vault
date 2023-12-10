@@ -13,17 +13,6 @@ creature_ability:
 - Reconstitution
 - Spirit Body
 creature_family: '[[DATABASE/monsterfamily/Guardian Beast|Guardian Beast]]'
-description: 'Stone lion cubs are curious, playful, and occasionally accidental mischief
-  makers. Despite their still developing abilities, they eagerly hone their skills
-  with make-believe missions. Many hope that they''ll one day become responsible guardians
-  like their parents.<br/><br/> Smaller in stature and ferocity, stone lion cubs sometimes
-  try to guard places of smaller importance, often including facsimiles of the same
-  kinds of structures their parents attend. They''re less than dependable as guardians,
-  as they have the attention span and rambunctious nature of children. Their parents
-  often need to call them to heel, ordering them to stay at the parent''s side as
-  parent and child both stay motionless for the rising day.<br/><br/><b><u>Recall
-  Knowledge - Celestial</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 18<br/><b><u>Unspecific
-  Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>: DC 13'
 dexterity: '+3'
 element: null
 fly_speed: '25'

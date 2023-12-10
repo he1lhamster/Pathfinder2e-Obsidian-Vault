@@ -13,23 +13,6 @@ creature_ability:
 - Royal Command
 - Shield Rip and Chew
 creature_family: null
-description: "Before his dreams were invaded and his ambitions enhanced by [[DATABASE/monster/Nyrissa|Nyrissa's]]\
-  \ eldritch manipulations, Hargulka had already established himself as a leader among\
-  \ trollkind, though his goals never reached beyond bullying his fellow [[DATABASE/monsterfamily/Troll|trolls]]\
-  \ into rampaging the immediate environs for food and wealth to bring back to him\
-  \ as offerings. The notion of becoming a \u201Cking\u201D never crossed his mind\
-  \ until he had a vivid, unforgettable dream of himself sitting atop a throne and\
-  \ basking in the fear and adoration of not only trolls, but [[DATABASE/ancestry/Hobgoblin|hobgoblins]]\
-  \ , [[DATABASE/monster/Harpy|harpies]] , and all manner of slavering monsters\u2014\
-  creatures who might be viewed as dangerous enemies but, to Hargulka, were now his\
-  \ loyal minions.<br/><br/> To Hargulka, the PCs' kingdom is rightfully his own.\
-  \ He intends to conquer them, claim their capital for himself, and dine on the flesh\
-  \ and bones of their citizens. Yet despite these violent goals, the troll knows\
-  \ better than to simply attack his enemies mindlessly. Instead, he spends his time\
-  \ working with his loyal trolls to seek out like-minded monsters in the wilds to\
-  \ recruit them to his cause. As a result, the longer Hargulka remains in power,\
-  \ the more dangerous and aggressive the monsters of the Stolen Lands will become!<br/><br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 32<br/><b><u>Specific Lore</u></b>: DC 29"
 dexterity: '+2'
 element: null
 fly_speed: null

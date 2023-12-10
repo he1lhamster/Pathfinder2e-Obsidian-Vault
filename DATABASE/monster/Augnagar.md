@@ -11,13 +11,6 @@ creature_ability:
 - Inhale Vitality
 - Rotting Curse
 creature_family: '[[DATABASE/monsterfamily/Qlippoth|Qlippoth]]'
-description: "The brutish and gluttonous augnagar live to feast\u2014 preferably on\
-  \ rotten flesh, and when possible, demon flesh. But to them, the greatest delicacy\
-  \ is the flesh of other augnagars. Augnagars have spiderlike legs with leathery\
-  \ membranes like a bat's wings, and three tails ending in hooked claws perfect for\
-  \ slicing flesh.<br/><br/><b><u>Recall Knowledge - Fiend</u> ( [[DATABASE/skill/Religion|Religion]]\
-  \ )</b>: DC 34<br/><b><u>Unspecific Lore</u></b>: DC 32<br/><b><u>Specific Lore</u></b>:\
-  \ DC 29"
 dexterity: '+5'
 element: null
 fly_speed: '40'

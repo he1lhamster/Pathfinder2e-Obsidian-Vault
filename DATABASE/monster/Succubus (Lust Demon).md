@@ -1,101 +1,86 @@
 ﻿---
-ac: '26'
-alignment: LE
+ac: '23'
+alignment: CE
 all_resistance: null
 burrow_speed: null
-charisma: '+2'
+charisma: '+7'
 climb_speed: null
-constitution: '+5'
+constitution: '+4'
 creature_ability:
-- Gem Gaze
-- Gemsight
-- Light Sickness
-- Stone Curse
-creature_family: null
-description: 'Withered hermits wrapped in tattered rags, these scarred, eyeless creatures
-  command strange secrets of the earth and interpret the fateful energies of the subterranean
-  depths. In some regions, stygiras are worshipped as seers or even gods, although
-  they lack the ability to grant spells to clerics and are often not aware of their
-  worshippers at all. In other areas, they have strange ties to the ancient empires
-  of the [[DATABASE/monsterfamily/Cyclops|cyclopes]] , often dwelling in the oversized
-  ruins those creatures left behind long ago. To many stygiras, gemstones harvested
-  from ancient cyclopean mosaics have even greater magical properties than other crystals.<br/><br/>
-  Although technically blind, stygiras do have vestigial eyes hidden beneath the stony,
-  scarred flesh of their faces. Capable of sensing bright lights even through their
-  scars, stygiras are sickened and distracted by these flashing glimpses, so they
-  keep to their caves during the day and wander into the world above only after nightfall.
-  Far from benevolent, they seek out unwary travelers or explorers to capture and
-  reduce them down to the base chemicals and supernatural humors the stygiras require
-  to infuse gemstones with the capacity to give them sight and magical power.<br/><br/><b><u>Recall
-  Knowledge - Fey</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 25<br/><b><u>Unspecific
-  Lore</u></b>: DC 23<br/><b><u>Specific Lore</u></b>: DC 20'
-dexterity: '+4'
-element: Earth
-fly_speed: null
+- Change Shape
+- Embrace
+- Passionate Kiss
+- Profane Gift
+- Rejection Vulnerability
+- Seductive
+- Presence
+creature_family: '[[DATABASE/monsterfamily/Demon|Demon]]'
+dexterity: '+3'
+element: null
+fly_speed: '35'
 fortitude: '+15'
 hardness: null
-hp: '80'
-id: '821'
-immunity:
-- '[[DATABASE/condition/Paralyzed|paralyzed]]'
-- '[[DATABASE/condition/Petrified|petrified]]'
-- '[[DATABASE/trait/Visual|visual]]'
+hp: '100'
+id: '98'
+immunity: null
 intelligence: '+4'
 land_speed: '25'
 language:
-- '[[DATABASE/language/Aklo|Aklo]]'
-- '[[DATABASE/language/Cyclops|Cyclops]]'
-- '[[DATABASE/language/Jotun|Jotun]]'
-- '[[DATABASE/language/Terran|Terran]]'
+- '[[DATABASE/language/Abyssal|Abyssal]]'
+- '[[DATABASE/language/Celestial|Celestial]]'
+- '[[DATABASE/language/Common|Common]]'
+- '[[DATABASE/language/Draconic|Draconic]] ; three additional mortal languages; telepathy100
+  feet'
+- '[[DATABASE/spell/Tongues|tongues]]'
 level: '7'
-max_speed: '25'
-name: Stygira
-perception: '+17'
-rarity: Uncommon
-reflex: '+13'
-resistance:
-- physical 10 (except adamantine)
+max_speed: '35'
+name: Succubus
+perception: '+15'
+rarity: Common
+reflex: '+14'
+resistance: null
 rus_type_level: null
 school: null
 sense:
-- gemsight
+- darkvision
 size: Medium
 skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +15'
-- '[[DATABASE/skill/Deception|Deception]] +15'
-- '[[DATABASE/skill/Lore|Gem Lore]] +17'
-- '[[DATABASE/skill/Nature|Nature]] +17'
-- '[[DATABASE/skill/Occultism|Occultism]] +17'
-source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +14'
+- '[[DATABASE/skill/Deception|Deception]] +18'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +20'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +16'
+- '[[DATABASE/skill/Religion|Religion]] +13'
+- '[[DATABASE/skill/Society|Society]] +15'
+- '[[DATABASE/skill/Stealth|Stealth]] +14'
+source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 25 feet
+- fly 35 feet
 spell:
-- '[[DATABASE/spell/Augury|Augury]]'
-- '[[DATABASE/spell/Clairaudience|Clairaudience]]'
-- '[[DATABASE/spell/Clairvoyance|Clairvoyance]]'
-- '[[DATABASE/spell/Earthbind|Earthbind]]'
-- '[[DATABASE/spell/Know Direction|KnowDirection]]'
-- '[[DATABASE/spell/Read Aura|Read Aura]]'
-- '[[DATABASE/spell/Read Omens|Read Omens]]'
-- '[[DATABASE/spell/Shape Stone|ShapeStone]]'
-- '[[DATABASE/spell/Undetectable Alignment|Undetectable Alignment]]'
-strength: '+4'
-strength_req: '4'
+- '[[DATABASE/spell/Charm|Charm]]'
+- '[[DATABASE/spell/Detect Alignment|DetectAlignment]]'
+- '[[DATABASE/spell/Dimension Door|Dimension Door]]'
+- '[[DATABASE/spell/Dominate|Dominate]]'
+- '[[DATABASE/spell/Mind Reading|MindReading]]'
+- '[[DATABASE/spell/Suggestion|Suggestion]]'
+- '[[DATABASE/spell/Tongues|Tongues]]'
+strength: '+2'
+strength_req: '2'
 strongest_save:
 - Will
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Earth|Earth]]'
-- '[[DATABASE/trait/Fey|Fey]]'
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
+- '[[DATABASE/trait/Demon|Demon]]'
+- '[[DATABASE/trait/Fiend|Fiend]]'
 type: Creature
-vision: null
+vision: Darkvision
 weakest_save:
 - Reflex
 weakness:
 - cold iron 5
-will: '+19'
-wisdom: '+6'
+- good 5
+will: '+17'
+wisdom: '+2'
 
 ---
 # Succubus (Lust Demon)

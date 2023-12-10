@@ -1,106 +1,83 @@
 ﻿---
-ac: '45'
+ac: '27'
 alignment: LE
 all_resistance: null
 burrow_speed: null
-charisma: '+10'
+charisma: '+5'
 climb_speed: null
-constitution: '+7'
+constitution: '+5'
 creature_ability:
-- Evisceration
-- Exquisite Pain
-- Focus Gaze
-- Graft Flesh
-- Ignore Pain
-- Painsight
-- Paralytic
-- Perfection
-- Shadow Traveler
-creature_family: '[[DATABASE/monsterfamily/Velstrac|Velstrac]]'
-description: "Eremites roam the planes to seek out ideal portions of other creatures,\
-  \ such as a hero's sword-arm or an angel's pinions. Eremites capture these specimens\
-  \ to clinically test their true limits, then harvest specimens and add them to their\
-  \ own bodies. An eremite might attach tongues to their hand as extra fingers or\
-  \ a fist to the back of their neck in a horrid \u201Cimprovement.\u201D Eremites\
-  \ average 7 feet tall and weigh approximately 200 pounds.<br/><br/><b><u>Recall\
-  \ Knowledge - Fiend</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 40<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 38<br/><b><u>Specific Lore</u></b>: DC 35"
-dexterity: '+6'
+- Flames of Fury
+- Furious Fusillade
+- Rope Snare
+creature_family: '[[DATABASE/monsterfamily/Devil|Devil]]'
+dexterity: '+5'
 element: null
-fly_speed: '50'
-fortitude: '+37'
+fly_speed: '40'
+fortitude: '+17'
 hardness: null
-hp: '375'
-id: '852'
+hp: '120'
+id: '111'
 immunity:
-- cold
-- '[[DATABASE/trait/Fear|fear]]'
-- nonlethal
-intelligence: '+6'
-land_speed: '30'
+- '[[DATABASE/trait/Fire|fire]]'
+intelligence: '+2'
+land_speed: '25'
 language:
+- '[[DATABASE/language/Celestial|Celestial]]'
 - '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Infernal|Infernal]]'
-- '[[DATABASE/language/Shadowtongue|Shadowtongue]] ; [[DATABASE/monsterability/Telepathy|telepathy
-  100 feet]]'
-level: '20'
-max_speed: '50'
-name: Eremite
-perception: '+34'
+- '[[DATABASE/language/Draconic|Draconic]]'
+- '[[DATABASE/language/Infernal|Infernal]] ; telepathy 100 feet'
+level: '8'
+max_speed: '40'
+name: Erinys
+perception: '+18'
 rarity: Common
-reflex: '+32'
-resistance: null
+reflex: '+19'
+resistance:
+- physical 5 (except [[DATABASE/equipment/Silver Weapon|silver]] )
+- '[[DATABASE/trait/Poison|poison]] 10'
 rus_type_level: null
 school: null
 sense:
-- '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
-- painsight
+- greater darkvision
 - '[[DATABASE/spell/True Seeing|true seeing]]'
 size: Medium
 skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +35'
-- '[[DATABASE/skill/Deception|Deception]] +38'
-- '[[DATABASE/skill/Diplomacy|Diplomacy]] +36'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +40'
-- '[[DATABASE/skill/Medicine|Medicine]] +36'
-- '[[DATABASE/skill/Religion|Religion]] +34'
-- '[[DATABASE/skill/Stealth|Stealth]] +36'
-- '[[DATABASE/skill/Lore|TortureLore]] +36'
-source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +17'
+- '[[DATABASE/skill/Crafting|Crafting]] +14'
+- '[[DATABASE/skill/Deception|Deception]] +19'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +15'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +19'
+- '[[DATABASE/skill/Religion|Religion]] +16'
+- '[[DATABASE/skill/Stealth|Stealth]] +17'
+source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
-- 30 feet
-- fly 50 feet
+- 25 feet
+- fly 40 feet
 spell:
-- '[[DATABASE/spell/Bind Soul|Bind Soul]]'
-- '[[DATABASE/spell/Blade Barrier|BladeBarrier]]'
 - '[[DATABASE/spell/Dimension Door|Dimension Door]]'
-- '[[DATABASE/spell/Dimensional Lock|Dimensional Lock]]'
-- '[[DATABASE/spell/Harm|Harm]]'
-- '[[DATABASE/spell/Heal|Heal]]'
-- '[[DATABASE/spell/Plane Shift|Plane Shift]]'
-- '[[DATABASE/spell/Shadow Blast|Shadow Blast]]'
-- '[[DATABASE/spell/Shadow Siphon|Shadow Siphon]]'
-- '[[DATABASE/spell/Shadow Walk|Shadow Walk]]'
-- '[[DATABASE/spell/Stabilize|Stabilize]]'
+- '[[DATABASE/spell/Divine Wrath|Divine Wrath]]'
+- '[[DATABASE/spell/Fear|Fear]]'
+- '[[DATABASE/spell/Illusory Disguise|Illusory Disguise]]'
+- '[[DATABASE/spell/Illusory Object|Illusory Object]]'
+- '[[DATABASE/spell/Retributive Pain|Retributive Pain]]'
 - '[[DATABASE/spell/True Seeing|True Seeing]]'
-- '[[DATABASE/spell/Warp Mind|Warp Mind]]'
-strength: '+9'
-strength_req: '9'
+strength: '+5'
+strength_req: '5'
 strongest_save:
-- Fortitude
+- Reflex
 swim_speed: null
 trait:
+- '[[DATABASE/trait/Devil|Devil]]'
 - '[[DATABASE/trait/Fiend|Fiend]]'
-- '[[DATABASE/trait/Velstrac|Velstrac]]'
 type: Creature
 vision: Greater darkvision
 weakest_save:
-- Reflex
+- Will
 weakness:
-- good 20
-- silver 20
-will: '+34'
-wisdom: '+6'
+- good 5
+will: '+16'
+wisdom: '+4'
 
 ---
 # Erinys (Fury Devil)

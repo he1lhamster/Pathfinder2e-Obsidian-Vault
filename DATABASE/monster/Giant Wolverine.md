@@ -12,12 +12,6 @@ creature_ability:
 - Rend
 - Wolverine Rage
 creature_family: '[[DATABASE/monsterfamily/Wolverine|Wolverine]]'
-description: 'Giant wolverines grow to the approximate size of horses and claim even
-  more expansive territories than their more diminutive wolverine cousins. While a
-  smaller wolverine will defend its prey from armed humanoids, a giant wolverine is
-  unafraid to stalk and kill such creatures.<br/><br/><b><u>Recall Knowledge - Animal</u>
-  ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 19<br/><b><u>Unspecific Lore</u></b>:
-  DC 17<br/><b><u>Specific Lore</u></b>: DC 14'
 dexterity: '+3'
 element: null
 fly_speed: null

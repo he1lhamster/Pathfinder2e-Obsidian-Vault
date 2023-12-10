@@ -12,14 +12,6 @@ creature_ability:
 - Lifesense
 - Spirit Touch
 creature_family: '[[DATABASE/monsterfamily/Psychopomp|Psychopomp]]'
-description: "A nosoi resembles a whippoorwill, sparrow, or other small bird wearing\
-  \ a heavy leather plague doctor\u2019s mask. They are the clerks, messengers, and\
-  \ scribes of the Boneyard, witnessing judgments, directing souls, and generally\
-  \ performing the administrative grunt work that keeps the Boneyard functioning.\
-  \ Most nosois are particularly chatty and eager to discuss how important they consider\
-  \ their individual assignments to be.<br/><br/><b><u>Recall Knowledge - Monitor</u>\
-  \ ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 15<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 13<br/><b><u>Specific Lore</u></b>: DC 10"
 dexterity: '+3'
 element: null
 fly_speed: '40'

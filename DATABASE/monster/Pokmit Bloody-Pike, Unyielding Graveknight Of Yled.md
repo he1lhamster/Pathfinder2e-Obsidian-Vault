@@ -1,103 +1,81 @@
 ﻿---
-ac: '45'
-alignment: LN
+ac: '42'
+alignment: N
 all_resistance: null
 burrow_speed: null
-charisma: '+6'
+charisma: '+7'
 climb_speed: null
 constitution: '+6'
 creature_ability:
-- Energy Touch
-- Envisioning
-- Reality Twist
-- Sphere of Creation
-- Sphere of Oblivion
-creature_family: '[[DATABASE/monsterfamily/Aeon|Aeon]]'
-description: 'Among the most powerful of all the true aeons, pleromas are a manifestation
-  of the duality of creation and destruction. Their physical manifestation is a constant
-  state of flux between these two poles, their forms a shifting cloak of black where
-  galaxies and other celestial objects flit in and out of existence, as if depicting
-  the constant life, death, and rebirth of a miniature, self-contained universe.<br/><br/>Pleromas
-  see the multiverse as both eternal and cyclical, doomed and malleable, ending only
-  if these cycles ever become unbalanced. They believe the current Convergence is
-  necessary to obtain this essential balance, and act to ensure that the grand design
-  of the Monad is carried out to the smallest detail.<br/><br/><b><u>Recall Knowledge
-  - Monitor</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 40<br/><b><u>Unspecific
-  Lore</u></b>: DC 38<br/><b><u>Specific Lore</u></b>: DC 35'
-dexterity: '+7'
+- Attack of Opportunity
+- Devastating Blast
+- Graveknight's Curse
+- Pike Master
+- Pokmit's
+- Discernment
+- Rejuvenation
+- Ruinous Weapons
+- Sacrilegious Aura
+- Weapon Master
+creature_family: null
+dexterity: '+6'
 element: null
-fly_speed: '40'
+fly_speed: null
 fortitude: '+32'
 hardness: null
-hp: '335'
-id: '11'
+hp: 335 ( negative healing , rejuvenation)
+id: '2418'
 immunity:
-- '[[DATABASE/trait/Negative|negative]]'
-- '[[DATABASE/trait/Positive|positive]]'
-intelligence: '+8'
-land_speed: null
+- '[[DATABASE/trait/Cold|cold]]'
+- '[[DATABASE/trait/Death|death]] effects'
+- '[[DATABASE/trait/Disease|disease]]'
+- '[[DATABASE/condition/Paralyzed|paralyzed]]'
+- '[[DATABASE/trait/Poison|poison]]'
+- '[[DATABASE/condition/Unconscious|unconscious]]'
+intelligence: '+5'
+land_speed: '25'
 language:
-- envisioning
-level: '20'
-max_speed: '40'
-name: Pleroma
-perception: '+37'
-rarity: Common
-reflex: '+31'
-resistance: null
+- '[[DATABASE/language/Common|Common]]'
+- '[[DATABASE/language/Necril|Necril]]'
+level: '18'
+max_speed: '25'
+name: Pokmit Bloody-Pike
+perception: '+31'
+rarity: Unique
+reflex: '+30'
+resistance:
+- '[[DATABASE/trait/Positive|positive]] 18'
 rus_type_level: null
 school: null
 sense:
-- darkvision
-- lifesense 120 feet
-- '[[DATABASE/spell/True Seeing|true seeing]]'
-size: Large
+- '[[DATABASE/monsterability/Darkvision|darkvision]]'
+size: Medium
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +33'
-- '[[DATABASE/skill/Arcana|Arcana]] +38'
-- '[[DATABASE/skill/Deception|Deception]] +34'
-- '[[DATABASE/skill/Diplomacy|Diplomacy]] +34'
-- '[[DATABASE/skill/Occultism|Occultism]] +38'
-- '[[DATABASE/skill/Religion|Religion]] +39'
-- '[[DATABASE/skill/Stealth|Stealth]] +35'
-source: '[[DATABASE/source/Bestiary|Bestiary]]'
+- '[[DATABASE/skill/Athletics|Athletics]] +35'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +33'
+- '[[DATABASE/skill/Religion|Religion]] +31'
+- '[[DATABASE/skill/Society|Society]] +31'
+- '[[DATABASE/skill/Lore|WarfareLore]] +33'
+source: '[[DATABASE/source/Pathfinder 185. A Taste of Ashes|Pathfinder #185: A Taste
+  of Ashes]]'
 speed:
-- fly 40 feet; [[DATABASE/spell/Freedom of Movement|freedom of movement]]
-spell:
-- '[[DATABASE/spell/Alter Reality|Alter Reality]]'
-- '[[DATABASE/spell/Banishment|Banishment]]'
-- '[[DATABASE/spell/Blade Barrier|Blade Barrier]]'
-- '[[DATABASE/spell/Create Food|Create Food]]'
-- '[[DATABASE/spell/Create Water|CreateWater]]'
-- '[[DATABASE/spell/Creation|Creation]]'
-- '[[DATABASE/spell/Detect Alignment|Detect Alignment]]'
-- '[[DATABASE/spell/Disintegrate|Disintegrate]]'
-- '[[DATABASE/spell/Disjunction|Disjunction]]'
-- '[[DATABASE/spell/Freedom of Movement|Freedom of Movement]]'
-- '[[DATABASE/spell/Hypercognition|Hypercognition]]'
-- '[[DATABASE/spell/Overwhelming Presence|Overwhelming Presence]]'
-- '[[DATABASE/spell/Plane Shift|Plane Shift]]'
-- '[[DATABASE/spell/Retrocognition|Retrocognition]]'
-- '[[DATABASE/spell/Shape Stone|Shape Stone]]'
-- '[[DATABASE/spell/Shape Wood|Shape Wood]]'
-- '[[DATABASE/spell/True Seeing|True Seeing]]'
-- '[[DATABASE/spell/Unrelenting Observation|Unrelenting Observation]]'
-strength: '+6'
-strength_req: '6'
+- 25 feet
+spell: null
+strength: '+9'
+strength_req: '9'
 strongest_save:
-- Will
+- Fortitude
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Aeon|Aeon]]'
-- '[[DATABASE/trait/Monitor|Monitor]]'
+- '[[DATABASE/trait/Undead|Undead]]'
+- '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
 vision: Darkvision
 weakest_save:
-- Reflex
-weakness:
-- chaotic 20
-will: '+37'
-wisdom: '+9'
+- Will
+weakness: null
+will: '+29'
+wisdom: '+5'
 
 ---
 # Pokmit Bloody-Pike, Unyielding Graveknight Of Yled

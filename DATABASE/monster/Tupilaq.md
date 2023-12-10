@@ -10,38 +10,6 @@ creature_ability:
 - Carver's Curse
 - Construct Armor
 creature_family: null
-description: "A tupilaq is an artistically crafted construct carved from animal bones\
-  \ (typically whale or walrus) and imbued with the express purpose of eviscerating\
-  \ its creator's enemies. A tupilaq manifests from hateful magic\u2014a thing that\
-  \ can be created only by someone who believes they were grievously wronged. When\
-  \ a terrible, unforgivable crime is committed against someone with great skill at\
-  \ carving and who has knowledge of the proper ritual, the aggrieved can channel\
-  \ their grief and hate through whispered incantations to bring a tupilaq to life.<br/><br/>\
-  \ Sadly, the same emotions used to create a tupilaq often lead to even greater tragedies.\
-  \ Functionally immortal but built for vengeance a tupilaq lacks the reason or discernment\
-  \ to do anything other than pursue the goal imbued by its creator. A wish to utterly\
-  \ destroy an enemy can lead a tupilaq to slaughter an entire clan or settlement,\
-  \ killing until it has slain everyone even remotely related to the original offender.\
-  \ There are many stories where a tupilaq ends up causing more tragedy for its creator\
-  \ than the crime that precipitated its creation. The most common tales feature the\
-  \ tupilaq eventually murdering its creator's spouse or family members due to a distant\
-  \ relationship to the original target that no one knew about.<br/><br/> Tupilaqs'\
-  \ animating energies aren't tied to their original functions, and the creatures\
-  \ typically long outlast their creators, their victims, and often any who recall\
-  \ the reason for their creation. They might fall into a sort of hibernation once\
-  \ they've achieved immediate vengeance, but they frequently reawaken to continue\
-  \ their rampage against unsuspecting targets ignorant of their involvement.<br/><br/>\
-  \ Spellcasters might occasionally summon these constructs. Summoned tupilaqs, hauled\
-  \ unceremoniously from their vengeance, become near-frenzied combatants, unleashing\
-  \ every offensive ability in their arsenal to break free. These reactions aren't\
-  \ strategic or considered, but an instinctual, almost programmed need to return\
-  \ to their true purpose. Conjurers should be wary about tupilaqs employing spells\
-  \ that might be turned against their summoners, such as a [[DATABASE/spell/Fireball|fireball]]\
-  \ spell \u201Caccidentally\u201D placed such that it incinerates the spellcaster\
-  \ and returns these creatures from whence they came.<br/><br/><b><u>Recall Knowledge\
-  \ - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]]\
-  \ )</b>: DC 23<br/><b><u>Unspecific Lore</u></b>: DC 21<br/><b><u>Specific Lore</u></b>:\
-  \ DC 18"
 dexterity: '+6'
 element: null
 fly_speed: null

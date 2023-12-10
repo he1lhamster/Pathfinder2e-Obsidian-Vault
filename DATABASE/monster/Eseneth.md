@@ -14,10 +14,6 @@ creature_ability:
 - Spirit Touch
 - Sudden Stitch
 creature_family: '[[DATABASE/monsterfamily/Psychopomp|Psychopomp]]'
-description: 'Eseneths, commonly known as soul-stitchers, are dispassionate surgeons
-  who repair damaged souls.<br/><br/><b><u>Recall Knowledge - Monitor</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 41<br/><b><u>Unspecific Lore</u></b>: DC 39<br/><b><u>Specific Lore</u></b>:
-  DC 36'
 dexterity: '+8'
 element: null
 fly_speed: '40'

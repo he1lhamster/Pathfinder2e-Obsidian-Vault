@@ -1,50 +1,37 @@
 ﻿---
-ac: '26'
-alignment: CN
+ac: '30'
+alignment: NG
 all_resistance: null
 burrow_speed: null
 charisma: '+5'
 climb_speed: null
 constitution: '+4'
 creature_ability:
-- Agent of Fate
-- Focus Gaze
-- Portentous Gaze
-creature_family: null
-description: "Little is known of the strange creatures known as mothmen, save that\
-  \ when they make themselves known, calamity is sure to follow. The mothman sees\
-  \ themself as an agent of fate\u2014provided such fate is devastating and destructive.\
-  \ Often, those who encounter a mothman never recall the meeting, yet live on to\
-  \ unknowingly pursue and enable the creature's obscure plans.<br/><br/> The name\
-  \ \u201Cmothmen\u201D is, of course, not these creatures' own name for themselves,\
-  \ but an appellation granted by the fearful who glimpse them and tell harrowing\
-  \ tales of their sightings. They each keep their own names, or a collection for\
-  \ use in different situations, yet have no need for a collective word for their\
-  \ kind.<br/><br/><b><u>Recall Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]]\
-  \ )</b>: DC 28<br/><b><u>Unspecific Lore</u></b>: DC 26<br/><b><u>Specific Lore</u></b>:\
-  \ DC 23"
-dexterity: '+5'
+- Aura of Vitality
+- Dispelling Field
+- Flaming Armaments
+creature_family: '[[DATABASE/monsterfamily/Angel|Angel]]'
+dexterity: '+4'
 element: null
-fly_speed: '50'
-fortitude: '+13'
+fly_speed: '40'
+fortitude: '+21'
 hardness: null
-hp: '90'
-id: '1240'
-immunity: null
-intelligence: '+2'
-land_speed: '25'
+hp: '195'
+id: '542'
+immunity:
+- negative
+intelligence: '+4'
+land_speed: '30'
 language:
-- '[[DATABASE/language/Aklo|Aklo]]'
-- '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Sylvan|Sylvan]]'
-- '[[DATABASE/language/Undercommon|Undercommon]] ; (can''t speak any language); [[DATABASE/monsterability/Telepathy|telepathy]]
-  100 feet'
-level: '7'
-max_speed: '50'
-name: Mothman
-perception: '+15'
-rarity: Rare
-reflex: '+18'
+- '[[DATABASE/language/Celestial|Celestial]]'
+- '[[DATABASE/language/Draconic|Draconic]]'
+- '[[DATABASE/language/Infernal|Infernal]] ; [[DATABASE/spell/Tongues|tongues]]'
+level: '10'
+max_speed: '40'
+name: Movanic Deva
+perception: '+22'
+rarity: Common
+reflex: '+17'
 resistance: null
 rus_type_level: null
 school: null
@@ -52,43 +39,43 @@ sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +16'
-- '[[DATABASE/skill/Nature|Nature]] +13'
-- '[[DATABASE/skill/Occultism|Occultism]] +15'
-- '[[DATABASE/skill/Society|Society]] +13'
-- '[[DATABASE/skill/Stealth|Stealth]] +16'
-source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
+- '[[DATABASE/skill/Athletics|Athletics]] +20'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +22'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +22'
+- '[[DATABASE/skill/Nature|Nature]] +22'
+- '[[DATABASE/skill/Religion|Religion]] +19'
+- '[[DATABASE/skill/Stealth|Stealth]] +17'
+- '[[DATABASE/skill/Survival|Survival]] +17'
+source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
-- 25 feet
-- fly 50 feet
+- 30 feet
+- fly 40 feet
 spell:
-- '[[DATABASE/spell/Daze|Daze]]'
-- '[[DATABASE/spell/Ghost Sound|GhostSound]]'
-- '[[DATABASE/spell/Illusory Creature|Illusory Creature]]'
-- '[[DATABASE/spell/Illusory Object|Illusory Object]]'
+- '[[DATABASE/spell/Create Food|Create Food]]'
+- '[[DATABASE/spell/Detect Alignment|DetectAlignment]]'
+- '[[DATABASE/spell/Divine Wrath|Divine Wrath]]'
+- '[[DATABASE/spell/Heal|Heal]]'
 - '[[DATABASE/spell/Invisibility|Invisibility]]'
-- '[[DATABASE/spell/Mind Reading|Mind Reading]]'
-- '[[DATABASE/spell/Misdirection|Misdirection]]'
-- '[[DATABASE/spell/Modify Memory|Modify Memory]]'
-- '[[DATABASE/spell/Nightmare|Nightmare]]'
-- '[[DATABASE/spell/Phantasmal Killer|Phantasmal Killer]]'
-- '[[DATABASE/spell/Read Aura|Read Aura]]'
-- '[[DATABASE/spell/Suggestion|Suggestion]]'
-strength: '+2'
-strength_req: '2'
+- '[[DATABASE/spell/Remove Curse|Remove Curse]]'
+- '[[DATABASE/spell/Remove Disease|Remove Disease]]'
+- '[[DATABASE/spell/Remove Fear|Remove Fear]]'
+- '[[DATABASE/spell/Tongues|Tongues]]'
+strength: '+6'
+strength_req: '6'
 strongest_save:
-- Reflex
+- Fortitude
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Aberration|Aberration]]'
-- '[[DATABASE/trait/Rare|Rare]]'
+- '[[DATABASE/trait/Angel|Angel]]'
+- '[[DATABASE/trait/Celestial|Celestial]]'
 type: Creature
 vision: Darkvision
 weakest_save:
-- Fortitude
-weakness: null
-will: '+15'
-wisdom: '+4'
+- Reflex
+weakness:
+- evil 10
+will: '+19'
+wisdom: '+5'
 
 ---
 # Movanic Deva (Guardian Angel)

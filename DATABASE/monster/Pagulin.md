@@ -12,23 +12,6 @@ creature_ability:
 - Spike Rend
 - Tail Impalement
 creature_family: null
-description: 'Pagulins are massive, multi-legged lizards that stalk the mountain passes
-  of the Five Kings Mountains. These reptiles hunt [[DATABASE/monster/Elk|elk]] and
-  [[DATABASE/monster/Augdunar|augdunars]] by lying in wait behind rock formations
-  or within the openings of caves. Pagulins produce a mildly acidic saliva that they
-  spit at prey to temporarily blind them before moving in for the kill. A pagulin''s
-  tail features a deadly thagomizer, four large spikes that it uses to impale prey
-  to prevent their escape. Five Kings citizens know that pagulins are much smarter
-  than they look, with many reports of pagulins intentionally allowing prey to escape,
-  only to follow a creature to its den and feast on its entire family.<br/><br/> Though
-  pagulins are deadly, most in the Five Kings Mountains are indifferent to them. Pagulins
-  tend to rest for days at a time after a hunt, spending time to digest their massive
-  kills. They''re particularly territorial, however, and will gladly rouse from a
-  post-meal stupor to defend their lairs. The lizards are also known to attack anything
-  that interrupts a hunt or scares off prey. Many merchant caravans have dealt with
-  an unexpected pagulin attack after riding past a herd of startled deer.<br/><br/><b><u>Recall
-  Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 25<br/><b><u>Unspecific
-  Lore</u></b>: DC 23<br/><b><u>Specific Lore</u></b>: DC 20'
 dexterity: '+3'
 element: null
 fly_speed: null

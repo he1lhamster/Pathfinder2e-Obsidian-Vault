@@ -13,24 +13,6 @@ creature_ability:
 - Powerful Charge
 - Throw Rock
 creature_family: '[[DATABASE/monsterfamily/Cyclops|Cyclops]]'
-description: 'Gigantic, dim-witted loners, the great cyclopes embody their lesser
-  kin writ large. They are both stronger and more violent, but their uncontrolled
-  vision into possible futures has driven them beyond reason. They see every moment
-  as a potential storm of uncontrollable fury, and out of a desperate desire for peace,
-  quiet, and an end to their hunger, they lash out at all who come near. Wise creatures
-  avoid great cyclopes at all cost.<br/><br/> Debate has long raged over the origins
-  of these massive, destructive giants. They are so large that it had long been assumed
-  they were used as beasts of burden by their lesser kin, but they are now free to
-  hunt and kill without restraint. Other scholars believe the great cyclops is the
-  ultimate fate of the entire cyclops species. Whatever foolish decision or wayward
-  curse caused the end of their civilization is still playing out, occasionally causing
-  a cyclops to withdraw from its own kind, lose all semblance of intellect, and mutate
-  into a lumbering, feral colossus. It is fortunate indeed that the great cyclops
-  prefers to dwell far from humanoid settlements, because its immeasurable bloodlust
-  inspires it to destroy virtually anything that moves, from dinosaurs and other monsters
-  to the occasional explorer or soon-to-be-lost caravan.<br/><br/><b><u>Recall Knowledge
-  - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 32<br/><b><u>Unspecific
-  Lore</u></b>: DC 30<br/><b><u>Specific Lore</u></b>: DC 27'
 dexterity: '+1'
 element: null
 fly_speed: null

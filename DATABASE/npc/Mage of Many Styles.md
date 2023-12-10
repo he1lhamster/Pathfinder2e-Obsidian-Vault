@@ -9,14 +9,6 @@ constitution: '+3'
 creature_ability:
 - Spell Punch
 creature_family: null
-description: 'The mage of many styles combines magical and martial tactics. They try
-  to hamper foes with [[DATABASE/spell/Black Tentacles|black tentacles]] or [[DATABASE/spell/Confusion|confusion]]
-  , switching to damaging spells like [[DATABASE/spell/Lightning Bolt|lightning bolt]]
-  once their opponents are properly lined up. When engaged in melee, they make liberal
-  use of [[DATABASE/spell/Shocking Grasp|shocking grasp]] and [[DATABASE/spell/True
-  Strike|true strike]] to deal powerful blows.<br/><br/><b><u>Recall Knowledge - Humanoid</u>
-  ( [[DATABASE/skill/Society|Society]] )</b>: DC 33<br/><b><u>Unspecific Lore</u></b>:
-  DC 31<br/><b><u>Specific Lore</u></b>: DC 28'
 dexterity: '+4'
 element: null
 fly_speed: null

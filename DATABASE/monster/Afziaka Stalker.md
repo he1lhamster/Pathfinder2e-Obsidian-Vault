@@ -12,11 +12,6 @@ creature_ability:
 - Rend
 - Slip Between
 creature_family: '[[DATABASE/monsterfamily/Afziaka|Afziaka]]'
-description: 'Big predatory animals like [[DATABASE/monster/Dire Wolf|dire wolves]]
-  or [[DATABASE/monster/Hyaenodon|hyaenodons]] might survive as an afziaka stalker,
-  magically able to stalk their quarry.<br/><br/><b><u>Recall Knowledge - Animal</u>
-  ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 32<br/><b><u>Unspecific Lore</u></b>:
-  DC 30<br/><b><u>Specific Lore</u></b>: DC 27'
 dexterity: '+5'
 element: null
 fly_speed: null

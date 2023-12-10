@@ -11,24 +11,6 @@ creature_ability:
 - Corrupt Speech
 - Incite Violence
 creature_family: '[[DATABASE/monsterfamily/Skelm|Skelm]]'
-description: "Skelms crave power, and the palace skelms who stalk the halls where\
-  \ such power concentrates are among the most dangerous of their kind. They assume\
-  \ titles that allow them maximum freedom to punish or hurt others with minimal oversight:\
-  \ any vindictive guard captain, tyrannical viceroy, or needlessly cruel magistrate\
-  \ could be or become a palace skelm. They delight in the wealth and status of their\
-  \ positions, garbing themselves in ornate finery that reflects their station.<br/><br/>\
-  \ Palace skelms ingratiate themselves with powerful individuals and gather followers\
-  \ by stoking fears of losing long-held or hard-earned power\u2014especially power\
-  \ gained through illicit means. They undermine their enemies by encouraging competition,\
-  \ jealousy, and outright paranoia by way of magic and false messages. These skelms\
-  \ possess an unnatural ability to twist spoken words and worm their manipulative\
-  \ magic into others' speech, sowing confusion and hatred that might explode into\
-  \ violence.<br/><br/> A political upheaval is a palace skelm's greatest fear and\
-  \ opportunity alike, upsetting the balance of power he has built but providing countless\
-  \ new opportunities to sow hatred and evil. This conflicting goal leads palace skelms\
-  \ to self-sabotage and undermine their own efforts more than any other skelm.<br/><br/><b><u>Recall\
-  \ Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 24<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 22<br/><b><u>Specific Lore</u></b>: DC 19"
 dexterity: '+4'
 element: null
 fly_speed: null

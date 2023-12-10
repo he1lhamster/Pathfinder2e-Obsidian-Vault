@@ -12,11 +12,6 @@ creature_ability:
 - Tar-Spattered Charge
 - Vomit Tar
 creature_family: '[[DATABASE/monsterfamily/Zombie, Tar|Zombie, Tar]]'
-description: 'A big predator, like a smilodon or dire wolf, might lurk near a tar
-  pit to pick off helpless creatures. When consumed and returned to unlife by a tar
-  ooze, these tar zombie predators are just as canny and vicious.<br/><br/><b><u>Recall
-  Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 25<br/><b><u>Unspecific
-  Lore</u></b>: DC 23<br/><b><u>Specific Lore</u></b>: DC 20'
 dexterity: '+0'
 element: null
 fly_speed: null

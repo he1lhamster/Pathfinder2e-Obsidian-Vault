@@ -15,10 +15,6 @@ creature_ability:
 - ''
 - Weapon Master
 creature_family: '[[DATABASE/monsterfamily/Graveknight|Graveknight]]'
-description: 'Once the servant of a deity, the graveknight champion returned as an
-  undead after a life cut short in service to their god.<br/><br/><b><u>Recall Knowledge
-  - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 36<br/><b><u>Unspecific
-  Lore</u></b>: DC 34<br/><b><u>Specific Lore</u></b>: DC 31'
 dexterity: '+4'
 element: null
 fly_speed: null

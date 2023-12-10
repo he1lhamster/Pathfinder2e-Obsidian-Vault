@@ -9,13 +9,6 @@ constitution: '+2'
 creature_ability:
 - Breath Weapon
 creature_family: '[[DATABASE/monsterfamily/Hell Hound|Hell Hound]]'
-description: "A hell hound\u2019s appearance dismisses any doubts as to its infernal\
-  \ origins\u2014flesh the color of burning pitch, teeth as sharp as any fiend's pitchfork,\
-  \ and a shroud of ever-burning hell are are all trademark features.<br/><br/><b><u>Recall\
-  \ Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 18<br/><b><u>Recall Knowledge - Fiend</u> ( [[DATABASE/skill/Religion|Religion]]\
-  \ )</b>: DC 18<br/><b><u>Unspecific Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>:\
-  \ DC 13"
 dexterity: '+3'
 element: Fire
 fly_speed: null

@@ -10,14 +10,6 @@ creature_ability:
 - Doctor's Hand
 - Medical Malpractice
 creature_family: '[[DATABASE/monsterfamily/Healers|Healers]]'
-description: 'The surgeon specializes in the physical alteration of the body to prevent
-  the spread of disease, removing necrotic and decaying flesh to help the whole to
-  survive. Few healers know the science of anatomy and physiology better than the
-  surgeon. While their expertise is of grave importance in the medical world, the
-  downside is that when one is in need of their talents, it is likely the complaint
-  is serious. In medical matters, a surgeon is a 6th-level challenge.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 16<br/><b><u>Unspecific
-  Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>: DC 11'
 dexterity: '+3'
 element: null
 fly_speed: null

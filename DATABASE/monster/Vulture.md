@@ -1,61 +1,52 @@
 ﻿---
-ac: '19'
+ac: '18'
 alignment: N
 all_resistance: null
 burrow_speed: null
-charisma: '-2'
-climb_speed: '20'
-constitution: '+3'
+charisma: '-1'
+climb_speed: null
+constitution: '+4'
 creature_ability:
-- Coil
-- Coiled Opportunity
-- Giant Viper Venom
-creature_family: '[[DATABASE/monsterfamily/Snake|Snake]]'
-description: "The giant viper\u2019s fangs are a frightening sight, with injection\
-  \ tubes as long as daggers. The sheer amount of venom injected by a giant viper\
-  \ can cause severe blood clotting and leave a victim utterly drained of vitality.<br/><br/><b><u>Recall\
-  \ Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 16<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>: DC 11"
-dexterity: '+4'
+- Carrion Fever
+- Projectile Vomit
+creature_family: null
+dexterity: '+2'
 element: null
-fly_speed: null
-fortitude: '+8'
+fly_speed: '35'
+fortitude: '+13'
 hardness: null
-hp: '26'
-id: '381'
-immunity: null
+hp: '50'
+id: '1362'
+immunity:
+- '[[DATABASE/condition/Sickened|sickened]]'
 intelligence: '-4'
-land_speed: '20'
+land_speed: '10'
 language: null
-level: '2'
-max_speed: '20'
-name: Giant Viper
-perception: '+7'
+level: '3'
+max_speed: '35'
+name: Giant Vulture
+perception: '+12'
 rarity: Common
-reflex: '+11'
+reflex: '+9'
 resistance: null
 rus_type_level: null
 school: null
 sense:
-- low-light vision
-- scent (imprecise) 30 feet
-size: Medium
+- '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
+size: Large
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +9'
-- '[[DATABASE/skill/Athletics|Athletics]] +8'
-- '[[DATABASE/skill/Stealth|Stealth]] +8'
-- '[[DATABASE/skill/Survival|Survival]] +6'
-source: '[[DATABASE/source/Bestiary|Bestiary]]'
+- '[[DATABASE/skill/Athletics|Athletics]] +10'
+- '[[DATABASE/skill/Stealth|Stealth]] +9'
+source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
-- 20 feet
-- climb 20 feet
-- swim 20 feet
+- 10 feet
+- fly 35 feet
 spell: null
 strength: '+3'
 strength_req: '3'
 strongest_save:
-- Reflex
-swim_speed: '20'
+- Fortitude
+swim_speed: null
 trait:
 - '[[DATABASE/trait/Animal|Animal]]'
 type: Creature

@@ -11,10 +11,6 @@ creature_ability:
 - Leaping Charge
 - Marrow Rot
 creature_family: '[[DATABASE/monsterfamily/Bone Skipper|Bone Skipper]]'
-description: 'While less common than the smaller variety, giant bone skippers are
-  the stuff of nightmares for morticians and graveyard keepers.<br/><br/><b><u>Recall
-  Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 25<br/><b><u>Unspecific
-  Lore</u></b>: DC 23<br/><b><u>Specific Lore</u></b>: DC 20'
 dexterity: '+6'
 element: null
 fly_speed: '40'

@@ -11,17 +11,6 @@ creature_ability:
 - Pounce
 - Thunder Trap
 creature_family: null
-description: 'The rolling thunder before the rain provides the massive, leonine humanoids
-  known as slanas with a tremendous power. These solitary and nomadic creatures primarily
-  dwell in the jungles and savannas of the Mwangi Expanse, but they can range into
-  nearby areas in search of prey or when drawn by strange primal forces only slanas
-  can recognize. Slanas view each other as rivals who test each other''s prowess,
-  so when drawn together by this strange calling they nearly always fight to the death.
-  A slana''s roar echoes like thunder across the countryside, and denizens of the
-  Mwangi fear a slana''s approach whenever an oncoming storm''s thunder seems more
-  ferocious than its rain.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 45<br/><b><u>Unspecific Lore</u></b>: DC 43<br/><b><u>Specific Lore</u></b>:
-  DC 40'
 dexterity: '+7'
 element: null
 fly_speed: null

@@ -10,13 +10,6 @@ creature_ability:
 - Enraged Cunning
 - Swarming Beaks
 creature_family: '[[DATABASE/monsterfamily/Raven|Raven]]'
-description: 'A flock of ravens is known as an unkindness. Certainly the name lives
-  up to its meaning when a swarm of ravens decides to work together. In most cases,
-  a raven swarm like the one presented here won''t attack larger foes, but when manipulated
-  by supernatural forces or simple desperation born from hunger, an unkindness of
-  ravens can be a surprisingly dangerous foe.<br/><br/><b><u>Recall Knowledge - Animal</u>
-  ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 18<br/><b><u>Unspecific Lore</u></b>:
-  DC 16<br/><b><u>Specific Lore</u></b>: DC 13'
 dexterity: '+3'
 element: null
 fly_speed: '40'

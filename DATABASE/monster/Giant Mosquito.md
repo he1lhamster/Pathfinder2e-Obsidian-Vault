@@ -10,11 +10,6 @@ creature_ability:
 - Blood Drain
 - Septic Malaria
 creature_family: '[[DATABASE/monsterfamily/Mosquito|Mosquito]]'
-description: "These horrifically enlarged versions of the common mosquito often prey\
-  \ upon megafauna like dinosaurs and other large creatures, but they won't turn down\
-  \ a chance to drink the blood of a smaller target\u2014such as a humanoid.<br/><br/><b><u>Recall\
-  \ Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 22<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 20<br/><b><u>Specific Lore</u></b>: DC 17"
 dexterity: '+5'
 element: null
 fly_speed: '50'

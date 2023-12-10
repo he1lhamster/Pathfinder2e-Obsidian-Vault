@@ -15,9 +15,6 @@ creature_ability:
 - ''
 - Twisted Desires
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Fiend</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 46<br/><b><u>Unspecific
-  Lore</u></b>: DC 44<br/><b><u>Specific Lore</u></b>: DC 41'
 dexterity: '+2'
 element: null
 fly_speed: null

@@ -1,83 +1,68 @@
 ﻿---
-ac: '29'
-alignment: N
+ac: '18'
+alignment: CG
 all_resistance: null
 burrow_speed: null
-charisma: '-5'
+charisma: '+3'
 climb_speed: null
-constitution: '+5'
+constitution: '+1'
 creature_ability:
-- Attack of Opportunity
-- Central Weapon
-- Colossal Echo
-- Echoblade Flurry
-- Project Echoblade
-- ''
-- Raise Guard
-creature_family: null
-description: 'Collectors who want to guard their magical arsenals procure or build
-  swordkeepers. These constructs are equal parts display case and security system,
-  each holding a single weapon within its body and projecting copies of the weapon
-  it stores to deter would-be thieves.<br/><br/><b><u>Recall Knowledge - Construct</u>
-  ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]] )</b>:
-  DC 27<br/><b><u>Unspecific Lore</u></b>: DC 25<br/><b><u>Specific Lore</u></b>:
-  DC 22'
-dexterity: '+5'
+- Deflecting Gale
+- Sneak Attack
+- Surprise Attacker
+- Wind's Guidance
+creature_family: '[[DATABASE/monsterfamily/Geniekin|Geniekin]]'
+dexterity: '+4'
 element: null
 fly_speed: null
-fortitude: '+21'
+fortitude: '+4'
 hardness: null
-hp: '285'
-id: '1330'
-immunity:
-- '[[DATABASE/trait/Death|death]] effects'
-- '[[DATABASE/trait/Disease|disease]]'
-- '[[DATABASE/condition/Doomed|doomed]]'
-- '[[DATABASE/condition/Drained|drained]]'
-- '[[DATABASE/condition/Fatigued|fatigued]]'
-- '[[DATABASE/trait/Healing|healing]]'
-- '[[DATABASE/trait/Mental|mental]]'
-- '[[DATABASE/trait/Necromancy|necromancy]]'
-- '[[DATABASE/trait/Nonlethal|nonlethal]] attacks'
-- '[[DATABASE/condition/Paralyzed|paralyzed]]'
-- '[[DATABASE/trait/Poison|poison]]'
-intelligence: '-5'
-land_speed: '20'
+hp: '17'
+id: '762'
+immunity: null
+intelligence: '+1'
+land_speed: '25'
 language:
+- '[[DATABASE/language/Auran|Auran]]'
 - '[[DATABASE/language/Common|Common]]'
-level: '10'
-max_speed: '20'
-name: Swordkeeper
-perception: '+20'
+level: '1'
+max_speed: '25'
+name: Sylph Sneak
+perception: '+5'
 rarity: Common
-reflex: '+19'
+reflex: '+9'
 resistance: null
 rus_type_level: null
 school: null
 sense: null
-size: Large
+size: Medium
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +21'
-- '[[DATABASE/skill/Athletics|Athletics]] +23'
-source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +7'
+- '[[DATABASE/skill/Deception|Deception]] +6'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +6'
+- '[[DATABASE/skill/Society|Society]] +4'
+- '[[DATABASE/skill/Stealth|Stealth]] +7'
+- '[[DATABASE/skill/Thievery|Thievery]] +7'
+source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
-- 20 feet
+- 25 feet
 spell: null
-strength: '+7'
-strength_req: '7'
+strength: '+0'
+strength_req: '0'
 strongest_save:
-- Fortitude
+- Reflex
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Construct|Construct]]'
-- '[[DATABASE/trait/Mindless|Mindless]]'
+- '[[DATABASE/trait/Human|Human]]'
+- '[[DATABASE/trait/Humanoid|Humanoid]]'
+- '[[DATABASE/trait/Sylph|Sylph]]'
 type: Creature
 vision: null
 weakest_save:
-- Will
+- Fortitude
 weakness: null
-will: '+14'
-wisdom: '+2'
+will: '+8'
+wisdom: '+0'
 
 ---
 # Sylph

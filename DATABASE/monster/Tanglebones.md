@@ -13,20 +13,6 @@ creature_ability:
 - Skeletal Storm
 - Sprawled Bones
 creature_family: null
-description: "Sometimes, when murderer buries a large number of victims in a mass\
-  \ grave, the vengeful spirits of the slain can become similarly tangled together.\
-  \ When these spirits can't untangle, they instead return to their physical remains,\
-  \ fusing into one horrific mass of bones and black, tar-like sludge\u2014a tanglebones.<br/><br/>\
-  \ One awful tale speaks of a bitter old dowager who learned that, through a legal\
-  \ loophole, ownership of her estate would revert to her estranged daughter. She\
-  \ murdered her 13 servants, buried their bodies in the house's basement, and then\
-  \ played the gracious mother in handing over the manor keys at the appointed time.\
-  \ One night, the tanglebones that arose from the dowager's atrocity murdered the\
-  \ daughter and her family. By the time the authorities learned of what happened,\
-  \ the dowager had fled the nation, changed her identity, and (the story goes) wasted\
-  \ no time rebuilding her fortunes\u2014this time becoming a queen.<br/><br/><b><u>Recall\
-  \ Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 28<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 26<br/><b><u>Specific Lore</u></b>: DC 23"
 dexterity: '+3'
 element: null
 fly_speed: null

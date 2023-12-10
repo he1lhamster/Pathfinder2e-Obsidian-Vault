@@ -11,13 +11,6 @@ creature_ability:
 - Slosh
 - Undead Crafter
 creature_family: null
-description: 'Cranium preservers serve necromancers as walking laboratories for undead.
-  A typical cranium preserver has a metallic and spider-like body, which holds aloft
-  a large central glass vat surrounded by a dozen or more smaller, head-sized glass
-  vats. Each vat is filled with a special embalming fluid that can preserve the minds
-  of slain enemies.<br/><br/><b><u>Recall Knowledge - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Crafting|Crafting]] )</b>: DC 32<br/><b><u>Unspecific Lore</u></b>:
-  DC 30<br/><b><u>Specific Lore</u></b>: DC 27'
 dexterity: '+0'
 element: null
 fly_speed: null

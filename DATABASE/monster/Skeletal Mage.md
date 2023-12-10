@@ -8,13 +8,6 @@ climb_speed: null
 constitution: '+0'
 creature_ability: null
 creature_family: '[[DATABASE/monsterfamily/Skeleton|Skeleton]]'
-description: 'Rarely, the bones of a spellcaster can be used to create a skeleton
-  that retains a limited ability to cast spells. These spells are almost always offensive
-  in nature, and the skeletal mage uses them with reckless abandon. Skeletal mages
-  are often misidentified as [[DATABASE/monsterfamily/Lich|liches]] , and while not
-  nearly as cunning or deadly, they still pose a significant threat to their foes.<br/><br/><b><u>Recall
-  Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 20<br/><b><u>Unspecific
-  Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>: DC 15'
 dexterity: '+4'
 element: null
 fly_speed: null

@@ -11,31 +11,6 @@ creature_ability:
 - Rock Stride
 - Sink into Stone
 creature_family: null
-description: "Crysmals dwell within deep caverns of the [[DATABASE/plane/Plane of\
-  \ Earth|Plane of Earth]] , laden with crystals that glow under their own internal\
-  \ energy. A crysmal's hunger for gems will lead it to travel almost anywhere, even\
-  \ through planar tears. Occasionally, they even establish colonies on planes other\
-  \ than their own, should their newfound territory prove filled with crystals.<br/><br/>\
-  \ A crysmal's scorpion-like body glitters with crystal. As light refracts between\
-  \ the facets, they concentrate and absorb it, energizing the crysmal and, some say,\
-  \ fueling the creature's magic.<br/><br/> Crysmals form small communities in locations\
-  \ where crystals are plentiful, working alongside one another to track down anything\
-  \ from a common quartz to precious rubies and sapphires. Scouting parties use their\
-  \ innate magic to communicate with each other via light and wordless sound, as well\
-  \ as to seek out more crystals. However, when precious stone resources grow scarce,\
-  \ crysmals become independent and territorial about their supply, taking crystals\
-  \ from wherever they can, even seizing them from other creatures.<br/><br/> A crysmal's\
-  \ drive to gather crystals is akin to the drive to reproduce. As a crysmal gathers\
-  \ stones, it stores them within its body. Once the crysmal has enough stored material,\
-  \ the parent fuses its stores into a tiny replica of itself and extrudes the infant\
-  \ crysmal, sometimes referred to as a shardling, into the world. The process leaves\
-  \ the parent weakened for a short time, until it can gather enough crystal to repair\
-  \ its body and begin the process anew. Infant crysmals consume crystals in a similar\
-  \ way. They process the raw material over a few months to grow to adult size. Thereafter,\
-  \ a crysmal \u201Ceats\u201D stone only to heal injuries.<br/><br/><b><u>Recall\
-  \ Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 18<br/><b><u>Unspecific Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>:\
-  \ DC 13"
 dexterity: '+2'
 element: Earth
 fly_speed: null

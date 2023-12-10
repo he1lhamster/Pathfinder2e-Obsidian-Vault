@@ -12,13 +12,6 @@ creature_ability:
 - Scattering Magma
 - Tight-Knit Family
 creature_family: '[[DATABASE/monsterfamily/Elemental, Fire|Elemental, Fire]]'
-description: 'These fiery otters frolic and hunt in the lava streams of the [[DATABASE/plane/Plane
-  of Fire|Plane of Fire]] . They''re known to be highly territorial, instigating fights
-  with rival otter families to compete for territory. Cautiously curious of strangers,
-  entire packs have been known to descend upon anyone who attacks or event accidentally
-  threatens a family member.<br/><br/><b><u>Recall Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Nature|Nature]] )</b>: DC 15<br/><b><u>Unspecific Lore</u></b>:
-  DC 13<br/><b><u>Specific Lore</u></b>: DC 10'
 dexterity: '+4'
 element: Fire
 fly_speed: null

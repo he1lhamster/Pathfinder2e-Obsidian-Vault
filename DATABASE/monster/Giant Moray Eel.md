@@ -11,12 +11,6 @@ creature_ability:
 - Pharyngeal Jaws
 - Swallow Whole
 creature_family: '[[DATABASE/monsterfamily/Eel|Eel]]'
-description: 'Giant moray eels dwell in warm, tropical waters and build lairs in narrow,
-  twisting caves made of coral. Their size, speed, and powerful bite make them dangerous
-  to divers and fishermen. Giant moray eels have rubbery hides that secrete a layer
-  of mucus, making them difficult to harm with some weapons.<br/><br/><b><u>Recall
-  Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 20<br/><b><u>Unspecific
-  Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>: DC 15'
 dexterity: '+2'
 element: null
 fly_speed: null

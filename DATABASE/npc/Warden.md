@@ -10,14 +10,6 @@ creature_ability:
 - Warden's Protection
 - Warding Strike Trigger
 creature_family: '[[DATABASE/monsterfamily/Magistrates|Magistrates]]'
-description: 'Wardens are the chief guardians of borders and frontiers. Whether they
-  stand watch over a single village or an entire region, wardens keep a vigilant eye
-  out for outside threats to their charges. Wardens are stalwart folk, often called
-  to duty by Erastil to protect those around them. Be it times of war or upon the
-  frontier, wardens are often the balanced edge of a blade between a community and
-  the wilds at its fringes.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 22<br/><b><u>Unspecific Lore</u></b>: DC 20<br/><b><u>Specific Lore</u></b>:
-  DC 17'
 dexterity: '+2'
 element: null
 fly_speed: null

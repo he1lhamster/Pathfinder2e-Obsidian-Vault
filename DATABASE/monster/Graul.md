@@ -14,16 +14,6 @@ creature_ability:
 - Sound Mimicry
 - Tentacle Grab
 creature_family: null
-description: 'The labyrinthine caverns and tunnels beneath Highhelm are home to many
-  dangers, with the insidious graul being one of the more notable native species.
-  These highly specialized ambush predators possess a natural camouflage that renders
-  them completely imperceptible to all forms of darkvision as they float silently
-  through the darkness, allowing them to hunt creatures that rely on specialized senses
-  to navigate their lightless domain. Surprisingly cunning, grauls are adept at using
-  their magical talents for illusion and mimicry to separate potential prey from allies
-  and light sources alike.<br/><br/><b><u>Recall Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]]
-  )</b>: DC 21<br/><b><u>Unspecific Lore</u></b>: DC 19<br/><b><u>Specific Lore</u></b>:
-  DC 16'
 dexterity: '+3'
 element: null
 fly_speed: '25'

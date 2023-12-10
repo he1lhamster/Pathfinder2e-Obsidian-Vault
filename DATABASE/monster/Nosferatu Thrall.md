@@ -12,11 +12,6 @@ creature_ability:
 - Rally
 - Swing Back
 creature_family: '[[DATABASE/monsterfamily/Vampire, Nosferatu|Vampire, Nosferatu]]'
-description: 'Nosferatu thralls are mortals bound to a nosferatu''s will. While thralls
-  aren''t undead, they stay alive through unnatural means: feeding on the blood of
-  their masters.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 26<br/><b><u>Unspecific Lore</u></b>: DC 24<br/><b><u>Specific Lore</u></b>:
-  DC 21'
 dexterity: '+3'
 element: null
 fly_speed: null

@@ -12,13 +12,6 @@ creature_ability:
 - Entangling Train
 - Skip Between
 creature_family: '[[DATABASE/monsterfamily/Sahkil|Sahkil]]'
-description: 'Pakalchis strive to intensify their preys'' inherent insecurity over
-  personal and emotional bonds, playing on the threat of those relationships falling
-  into ruin. These sahkils are among the most manipulative of their kind, pulling
-  strings both literal and figurative on their victims over stretched-out periods
-  of time, exhilarating in the despair and fear for as long as possible.<br/><br/><b><u>Recall
-  Knowledge - Fiend</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 26<br/><b><u>Unspecific
-  Lore</u></b>: DC 24<br/><b><u>Specific Lore</u></b>: DC 21'
 dexterity: '+5'
 element: null
 fly_speed: null

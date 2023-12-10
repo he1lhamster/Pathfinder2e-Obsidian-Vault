@@ -12,11 +12,6 @@ creature_ability:
 - Frenzy Pheromone
 - Spray Acid
 creature_family: '[[DATABASE/monsterfamily/Ankhrav|Ankhrav]]'
-description: 'Ankhrav hive mothers are fearsome predators that one can easily distinguish
-  from the typical ankhrav not only by their greater size, but the presence of a large
-  pair of razor-sharp, mantis-like arms.<br/><br/><b><u>Recall Knowledge - Animal</u>
-  ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 26<br/><b><u>Unspecific Lore</u></b>:
-  DC 24<br/><b><u>Specific Lore</u></b>: DC 21'
 dexterity: '+1'
 element: null
 fly_speed: null

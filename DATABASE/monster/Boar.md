@@ -10,15 +10,6 @@ creature_ability:
 - Boar Charge
 - Ferocity
 creature_family: '[[DATABASE/monsterfamily/Boar|Boar]]'
-description: 'Boars are omnivorous mammals, hunted heavily because their meat is considered
-  a delicacy. Boars are most likely to attack humanoids either in self-defense or
-  during their mating season in the winter months, when the males grow an extra inch
-  of tissue to protect their organs as they fight off rivals. Of course, in some cultures
-  boars are trained to become much more aggressive so they can fill the roles of warbeast
-  and guardian. When such boars escape back into the wild, they can become true terrors
-  of the region.<br/><br/><b><u>Recall Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 16<br/><b><u>Unspecific Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>:
-  DC 11'
 dexterity: '+1'
 element: null
 fly_speed: null

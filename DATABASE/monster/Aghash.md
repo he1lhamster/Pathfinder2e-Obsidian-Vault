@@ -11,13 +11,6 @@ creature_ability:
 - Hatred of Beauty
 - Sandstorm
 creature_family: '[[DATABASE/monsterfamily/Div|Div]]'
-description: 'Walking embodiments of curses, misfortune, and the evil eye, aghashes
-  wander the deserts of the [[DATABASE/plane/Material Plane|Material Plane]] , searching
-  out the arrogant, charming, and persuasive to humiliate and undermine. Aghashes
-  are often mistaken for some strange form of [[DATABASE/monsterfamily/Hag|hag]] ,
-  and like those creatures, they''re masters at curses.<br/><br/><b><u>Recall Knowledge
-  - Fiend</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 19<br/><b><u>Unspecific
-  Lore</u></b>: DC 17<br/><b><u>Specific Lore</u></b>: DC 14'
 dexterity: '+4'
 element: null
 fly_speed: null

@@ -11,28 +11,6 @@ creature_ability:
 - Play the Pipes
 - Sylvan Wine
 creature_family: null
-description: "To a satyr, life is a party and everyone is invited. Notorious for their\
-  \ hedonism, these fey believe there\u2019s no greater beauty than can be found in\
-  \ song, drink, indulgent meals, and carnal pleasures. Satyrs use their enchanting\
-  \ songs and natural charm to encourage all manner of people to follow their true\
-  \ desires and free themselves from society\u2019s rules. This usually involves enticing\
-  \ mortals to join raucous parties or engage in trysts in moonlit glades. If a potential\
-  \ companion rejects a satyr\u2019s advances, however, the satyr has little interest\
-  \ in continuing a conversation and goes off to find more amenable revelers.<br/><br/>\
-  \ The lifestyle of a satyr leaves no room for ongoing affairs or long-term friends.\
-  \ Once his party is over or his lust is satiated, the satyr disappears back into\
-  \ the forest. The offspring satyrs leave behind are satyrs themselves, and usually\
-  \ end up being taken from their cradles by other fey rather than being left in mortals\u2019\
-  \ care. Satyrs are always male.<br/><br/> The untouched beauty of the forest is\
-  \ sacred and precious to a satyr. Brutish intruders who clear-cut trees or massacre\
-  \ animals without eating them risk drawing a satyr\u2019s ire. A satyr so provoked\
-  \ uses his spells to undermine foes and attempts to dispatch them either with brutal\
-  \ ambushes or by leading a rush of forest animals to attack.<br/><br/> Other fey,\
-  \ particularly good fey, look upon satyrs as loutish, embarrassing cousins. They\u2019\
-  re rarely hostile toward satyrs, but most find them insufferable and advise any\
-  \ mortals they like to steer clear of satyrs\u2019 glades.<br/><br/><b><u>Recall\
-  \ Knowledge - Fey</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 19<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 17<br/><b><u>Specific Lore</u></b>: DC 14"
 dexterity: '+4'
 element: null
 fly_speed: null

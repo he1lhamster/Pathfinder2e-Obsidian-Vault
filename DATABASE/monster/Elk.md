@@ -1,64 +1,51 @@
 ﻿---
-ac: '16'
-alignment: N
+ac: null
+alignment: null
 all_resistance: null
 burrow_speed: null
-charisma: '+0'
+charisma: null
 climb_speed: null
-constitution: '+4'
-creature_ability:
-- Buck
-- Startled Charge
-creature_family: '[[DATABASE/monsterfamily/Elk|Elk]]'
-description: 'Elk are exceptionally adaptable survivors. Most breeds stand between
-  3 and 5 feet tall and weigh between 350 and 550 pounds.<br/><br/><b><u>Recall Knowledge
-  - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 15<br/><b><u>Unspecific
-  Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>: DC 10'
-dexterity: '+2'
+constitution: null
+creature_ability: null
+creature_family: null
+dexterity: null
 element: null
 fly_speed: null
-fortitude: '+9'
+fortitude: null
 hardness: null
-hp: '20'
-id: '2201'
+hp: null
+id: '1775'
 immunity: null
-intelligence: '-4'
-land_speed: '40'
+intelligence: null
+land_speed: null
 language: null
-level: '1'
-max_speed: '40'
+level: null
+max_speed: null
 name: Elk
-perception: '+7'
-rarity: Common
-reflex: '+7'
+perception: null
+rarity: null
+reflex: null
 resistance: null
 rus_type_level: null
 school: null
-sense:
-- '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
-- '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
-size: Medium
-skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +7'
-- '[[DATABASE/skill/Survival|Survival]] +5'
-source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
-speed:
-- 40 feet
+sense: null
+size: null
+skill: null
+source: '[[DATABASE/source/Pathfinder 176. Lost Mammoth Valley|Pathfinder #176: Lost
+  Mammoth Valley]]'
+speed: null
 spell: null
-strength: '+4'
-strength_req: '4'
-strongest_save:
-- Fortitude
+strength: null
+strength_req: null
+strongest_save: null
 swim_speed: null
-trait:
-- '[[DATABASE/trait/Animal|Animal]]'
-type: Creature
-vision: Low-light vision
-weakest_save:
-- Will
+trait: null
+type: null
+vision: null
+weakest_save: null
 weakness: null
-will: '+5'
-wisdom: '+2'
+will: null
+wisdom: null
 
 ---
 # Elk

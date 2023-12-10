@@ -13,19 +13,6 @@ creature_ability:
 - Recall the Fallen
 - Storm of Battle
 creature_family: null
-description: "Choosers of the slain and so-called angels of battle, the song of the\
-  \ valkyries plays wherever steel rings against steel. Valkyries are humanoid individuals\
-  \ of impressive physical stature who seek the most epic battles and legendary conflicts\
-  \ so that they can lay claim to the souls of the world's greatest warriors. The\
-  \ valkyries transform these souls into the implacable immortals known as [[DATABASE/monster/Einherji|einherjar]]\
-  \ .<br/><br/> Valkyries most often serve gods of battle and war, though a valkyrie\
-  \ might pledge their service to any deity they consider worthy. [[DATABASE/deity/Gorum|Gorum]]\
-  \ is particularly well known for having valkyrie and einherjar servants, though\
-  \ he isn't the only such deity. [[DATABASE/deity/Besmara|Besmara]] also has valkyrie\
-  \ servitors, and many stories of \u201Cghost ships\u201D actually reference accounts\
-  \ of encounters with ships manned by einherjar crews devoted to the Pirate Queen.<br/><br/><b><u>Recall\
-  \ Knowledge - Monitor</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 30<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 28<br/><b><u>Specific Lore</u></b>: DC 25"
 dexterity: '+5'
 element: null
 fly_speed: '60'

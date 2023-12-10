@@ -13,11 +13,6 @@ creature_ability:
 - Swallow Whole
 - Tongue Grab
 creature_family: '[[DATABASE/monsterfamily/Mana Wastes Mutant|Mana Wastes Mutant]]'
-description: 'Mutant giant toads prefer to dwell in polluted refuse heaps, contaminated
-  swaths of sand, or other poisonous wastes. Often afflicted with a vestigial face
-  or limbs, its back is studded with acid-filled pustules.<br/><br/><b><u>Recall Knowledge
-  - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 23<br/><b><u>Unspecific
-  Lore</u></b>: DC 21<br/><b><u>Specific Lore</u></b>: DC 18'
 dexterity: '+3'
 element: null
 fly_speed: null

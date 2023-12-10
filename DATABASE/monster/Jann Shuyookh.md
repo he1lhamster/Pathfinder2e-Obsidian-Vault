@@ -13,16 +13,6 @@ creature_ability:
 - Elemental Resistance
 - Wanderer's Wish
 creature_family: '[[DATABASE/monsterfamily/Genie|Genie]]'
-description: 'Regarded as the progenitors of geniekind, janns hold a position of esteem
-  above the genies tied to specific planes. They possess an inborn ability to grant
-  wishes, which the other branches of geniekind lack and greatly envy. Nomadic jann
-  shuyookhs rarely hold court, preferring to gather only when the need arises to perform
-  great deeds. Lesser janns respect and venerate these leaders for their wisdom and
-  total dedication to preserving the honor and reputation of their people. A jann
-  shuyookh reads portents and omens when dealing with duplicitous mortals.<br/><br/><b><u>Recall
-  Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 28<br/><b><u>Unspecific Lore</u></b>: DC 26<br/><b><u>Specific Lore</u></b>:
-  DC 23'
 dexterity: '+4'
 element: Air, Earth, Fire, Metal, Water, Wood
 fly_speed: '20'

@@ -11,14 +11,6 @@ creature_ability:
 - Magic Sense
 - Spell Drain
 creature_family: '[[DATABASE/monsterfamily/Sinsludge|Sinsludge]]'
-description: 'The primordial envy is most often found in underground ruins within
-  Edasseril. It hungers for magic, leaching it from any source it can come into contact
-  with. This hunger can be exploited by clever adventurers who bait it with powerful
-  destructive magics. A primordial envy is one of the most defensive sin oozes, and
-  it tends to layer [[DATABASE/trait/Abjuration|abjuration]] spells over itself to
-  both increase its resilience and empower its attacks.<br/><br/><b><u>Recall Knowledge
-  - Ooze</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 23<br/><b><u>Unspecific
-  Lore</u></b>: DC 21<br/><b><u>Specific Lore</u></b>: DC 18'
 dexterity: '-4'
 element: null
 fly_speed: null

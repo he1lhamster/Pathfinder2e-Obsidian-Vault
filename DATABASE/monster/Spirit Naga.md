@@ -10,27 +10,6 @@ creature_ability:
 - Coven
 - Spirit Naga Venom
 creature_family: '[[DATABASE/monsterfamily/Naga|Naga]]'
-description: "In naga culture, the foul-tempered, unkempt spirit naga holds a contemptible\
-  \ place similar to that of hags in humanoid cultures. These decrepit creatures live\
-  \ out lives of solitude, sought out only by those who are foolish or brave enough\
-  \ to think they can benefit from the spirit naga's powers without paying a heavy\
-  \ price\u2014for most who dare to show such hubris, the price is their own lives.<br/><br/>\
-  \ Spirit nagas seek out desolate ruins and places long associated with death and\
-  \ corruption. These sinister, serpentine beings can be found in abandoned graveyards,\
-  \ crumbled fortresses, rotting swamps, and blighted woodlands. Though they may know\
-  \ little of the actual history of such places, the nagas are nonetheless attracted\
-  \ to the psychic remnants of evil deeds and tormented spirits that remain within\
-  \ the earth and stones there.<br/><br/> Despite their hideous appearance and treatment\
-  \ as pariahs by other nagas, spirit nagas feel a profound pride in their abilities\
-  \ and even in their hermetic existences. They see themselves as connected to a greater\
-  \ force whose mysteries are revealed only to those who can cast off the trappings\
-  \ and morals of \u201Ccivilized\u201D society. Even so, spirit nagas gleefully accept\
-  \ the worship of other creatures willing to bow to their capricious whims. They\
-  \ often form cults around themselves, using their charm spells and rituals to ensnare\
-  \ the minds of a few key individuals who spread the nagas' foul influence throughout\
-  \ a community.<br/><br/><b><u>Recall Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]]\
-  \ )</b>: DC 28<br/><b><u>Unspecific Lore</u></b>: DC 26<br/><b><u>Specific Lore</u></b>:\
-  \ DC 23"
 dexterity: '+4'
 element: null
 fly_speed: null

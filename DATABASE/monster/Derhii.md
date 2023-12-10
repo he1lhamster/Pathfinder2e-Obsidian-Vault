@@ -11,25 +11,6 @@ creature_ability:
 - Critical Knockdown
 - Power Dive
 creature_family: null
-description: 'Legend suggests that Shory mages might have created derhiis as soldiers.
-  Although folklore can be in error, little doubt exists that these flying apes make
-  excellent warriors. History is also clear that derhiis fought countless battles
-  for the Shory Empire, honing their tactical skills and martial traditions. Regardless
-  of whether Shory magic was responsible for the birth of the first derhiis, lore
-  passed down from those times shows the Shory Empire honored their soldiers and treated
-  them as valued allies rather than mere servants.<br/><br/> Derhiis are scarce even
-  in the Mwangi Expanse, where the last of the Shory flying cities, such as Kho and
-  Ulduvai, fell. Still, some dwell among the spires that tower above Shory ruins;
-  these derhii are often quite a bit more powerful than the one detailed below. Other
-  derhiis have spread from the remains of the fallen Shory empire to populate remote
-  highlands and old-growth forests.<br/><br/> Derhiis form small filial groups called
-  troops, centered on one elder derhii and their relations. Several troops might gather
-  into a larger society with a council of troop leaders under one dominant elder.<br/><br/>
-  Derhiis are omnivores who favor meat, unlike the terrestrial and largely herbivorous
-  gorillas they resemble. It''s possible that this habit developed due to a derhii
-  need for substantial amounts of food coupled with their soldierly ways.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 22<br/><b><u>Unspecific
-  Lore</u></b>: DC 20<br/><b><u>Specific Lore</u></b>: DC 17'
 dexterity: '+2'
 element: null
 fly_speed: '35'

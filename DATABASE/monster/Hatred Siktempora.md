@@ -15,20 +15,6 @@ creature_ability:
 - Vindictive
 - Crush
 creature_family: '[[DATABASE/monsterfamily/Siktempora|Siktempora]]'
-description: "Spawned by acts and legacies of cold-blooded spite, hatred siktemporas\
-  \ kill indiscriminately out of pure loathing, methodically hunting down and slaughtering\
-  \ anyone who catches their vile attention. Fortunately for mortals, they typically\
-  \ limit their predations to the [[DATABASE/plane/Dimension of Time|Dimension of\
-  \ Time]] , where they hunt down creatures foreign to that realm\u2014and some native\
-  \ to it.<br/><br/> Hatred siktemporas appear roughly humanoid, but their gaunt forms\
-  \ resemble bone and tendon more than flesh and skin. Adding to their unnerving appearance,\
-  \ their legs have an additional segment between their shin and thigh, and likewise\
-  \ for their eerily long arms. Their featureless faces bear only a singular scar,\
-  \ which takes a different form on every hatred siktempora. They clad themselves\
-  \ in immaculate finery chosen from the most vitriolic empires that ever existed,\
-  \ in the past and the future, and they form a magical garrote as a manifestation\
-  \ of their cold malice.<br/><br/><b><u>Unspecific Lore</u></b>: DC 41<br/><b><u>Specific\
-  \ Lore</u></b>: DC 38"
 dexterity: '+6'
 element: null
 fly_speed: null

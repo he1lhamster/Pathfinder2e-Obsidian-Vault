@@ -12,13 +12,6 @@ creature_ability:
 - Retune
 - Swiftness
 creature_family: '[[DATABASE/monsterfamily/Elemental, Air|Elemental, Air]]'
-description: 'This cloud of song and sound has been caught by the wind and carried
-  across the air. While the melody on the wind (known by some as a song elemental,
-  despite the fact that no such place as a plane of song exists in the known multiverse)
-  might enjoy the beauty of music, it is by nature a destructive elemental force.<br/><br/><b><u>Recall
-  Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 27<br/><b><u>Unspecific Lore</u></b>: DC 25<br/><b><u>Specific Lore</u></b>:
-  DC 22'
 dexterity: '+6'
 element: Air
 fly_speed: '100'

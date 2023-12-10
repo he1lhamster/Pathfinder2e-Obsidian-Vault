@@ -9,14 +9,6 @@ constitution: '+3'
 creature_ability:
 - Subservience
 creature_family: '[[DATABASE/monsterfamily/Devil|Devil]]'
-description: 'These shapeless masses of quivering flesh are the least of devilkind.
-  Pathetic creatures from [[DATABASE/plane/Hell|Hell''s]] first layer, lemures roam
-  alongside damned and suffering souls. [[DATABASE/monster/Pit Fiend (Tyrant Devil)|Pit
-  fiends]] can combine the essence of a mob of lemures to concentrate their collective
-  wickedness with a single form, granting it an infernal sentience and transforming
-  it into a more powerful devil (see the pit fiend''s Devil Shaping ability).<br/><br/><b><u>Recall
-  Knowledge - Fiend</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 14<br/><b><u>Unspecific
-  Lore</u></b>: DC 12<br/><b><u>Specific Lore</u></b>: DC 9'
 dexterity: '+0'
 element: null
 fly_speed: null

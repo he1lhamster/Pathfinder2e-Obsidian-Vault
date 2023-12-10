@@ -13,13 +13,6 @@ creature_ability:
 - Motion Sense
 - Splatter
 creature_family: '[[DATABASE/monsterfamily/Ooze|Ooze]]'
-description: 'Acid damage can scar stone and reduce flesh to pitted chunks, but some
-  organic compounds are resistant to acid and respond by combining into a mass of
-  roiling, living slurry. These scarred clumps hunger to consume anything they can
-  sense. They move with quick, darting contractions that surprise those used to facing
-  slow-moving oozes.<br/><br/><b><u>Recall Knowledge - Ooze</u> ( [[DATABASE/skill/Occultism|Occultism]]
-  )</b>: DC 40<br/><b><u>Unspecific Lore</u></b>: DC 38<br/><b><u>Specific Lore</u></b>:
-  DC 35'
 dexterity: '+9'
 element: null
 fly_speed: null

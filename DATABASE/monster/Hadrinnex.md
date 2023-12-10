@@ -13,20 +13,6 @@ creature_ability:
 - Rapid Evolution
 - Vent Energy
 creature_family: null
-description: "The bizarre hadrinnexes resemble defensive systems more than living\
-  \ creatures. They evolve at a rapid rate, but only to specific attacks against them,\
-  \ which suggests they were created through advanced technology or magic. The husk\
-  \ surrounding a hadrinnex\u2014flecks of metal suspended in a malleable organic\
-  \ carapace\u2014reshapes in response to harm. So too can a glowing gland within\
-  \ the creature's thorax, which collects energy and restructures the creature's biology\
-  \ to protect it from that energy. This organ is fragile and ruptures soon after\
-  \ a hadrinnex is killed.<br/><br/> Hadrinnexes have only a rudimentary intellect\
-  \ and usually follow more intelligent aberrations. As bodyguards or peons, they\
-  \ perform simple tasks diligently. Though poor at problem-solving and improvisation,\
-  \ hadrinnexes' dependability and adaptive physiology make them ideal for dangerous\
-  \ tasks in hazardous environments.<br/><br/><b><u>Recall Knowledge - Aberration</u>\
-  \ ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 26<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 24<br/><b><u>Specific Lore</u></b>: DC 21"
 dexterity: '+4'
 element: null
 fly_speed: null

@@ -9,10 +9,6 @@ constitution: '+1'
 creature_ability:
 - Goblin Scuttle
 creature_family: '[[DATABASE/monsterfamily/Goblin|Goblin]]'
-description: "The frontline fighters of goblin tribes prefer to fight in large groups\u2014\
-  especially when they can outnumber their foes at least three to one.<br/><br/><b><u>Recall\
-  \ Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 13<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 11<br/><b><u>Specific Lore</u></b>: DC 8"
 dexterity: '+3'
 element: null
 fly_speed: null

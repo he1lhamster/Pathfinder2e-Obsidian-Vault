@@ -1,65 +1,75 @@
 ﻿---
-ac: '34'
-alignment: CE
+ac: '23'
+alignment: NE
 all_resistance: null
 burrow_speed: null
 charisma: '+4'
-climb_speed: '30'
-constitution: '+4'
+climb_speed: null
+constitution: '+0'
 creature_ability:
-- Death Drider Venom
-- Hungering Web
-- Sack of Spiders
-creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 33<br/><b><u>Unspecific
-  Lore</u></b>: DC 31<br/><b><u>Specific Lore</u></b>: DC 28'
-dexterity: '+8'
+- Chastise Heretic
+- Field of Undeath
+creature_family: '[[DATABASE/monsterfamily/Deathless Acolyte|Deathless Acolyte]]'
+dexterity: '+4'
 element: null
 fly_speed: null
-fortitude: '+24'
+fortitude: '+13'
 hardness: null
-hp: 235 ( negative healing )
-id: '2130'
+hp: 87 ( negative healing )
+id: '1854'
 immunity:
 - '[[DATABASE/trait/Death|death]] effects'
 - '[[DATABASE/trait/Disease|disease]]'
-- '[[DATABASE/condition/Paralyzed|paralyze]]'
+- '[[DATABASE/condition/Paralyzed|paralyzed]]'
 - '[[DATABASE/trait/Poison|poison]]'
 - '[[DATABASE/condition/Unconscious|unconscious]]'
-intelligence: '-1'
-land_speed: '30'
+intelligence: '+1'
+land_speed: '25'
 language:
-- '[[DATABASE/language/Elven|Elven]]'
+- '[[DATABASE/language/Common|Common]]'
 - '[[DATABASE/language/Necril|Necril]]'
-- '[[DATABASE/language/Undercommon|Undercommon]]'
-level: '13'
-max_speed: '30'
-name: Death Drider
-perception: '+24'
+level: '7'
+max_speed: '25'
+name: Deathless Hierophant of Urgathoa
+perception: '+15'
 rarity: Uncommon
-reflex: '+26'
+reflex: '+13'
 resistance: null
 rus_type_level: null
 school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
-size: Large
+size: Medium
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +30'
-- '[[DATABASE/skill/Athletics|Athletics]] +28'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +24'
-- '[[DATABASE/skill/Stealth|Stealth]] +30'
-source: '[[DATABASE/source/Pathfinder 155. Lord of the Black Sands|Pathfinder #155:
-  Lord of the Black Sands]]'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +15'
+- '[[DATABASE/skill/Occultism|Occultism]] +12'
+- '[[DATABASE/skill/Religion|Religion]] +19'
+- '[[DATABASE/skill/Stealth|Stealth]] +13'
+source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
 speed:
-- 30 feet
-- climb 30 feet
-spell: null
-strength: '+6'
-strength_req: '6'
+- 25 feet
+spell:
+- '[[DATABASE/spell/Anathematic Reprisal|Anathematic Reprisal]]'
+- '[[DATABASE/spell/Bane|Bane]]'
+- '[[DATABASE/spell/Blindness|Blindness]]'
+- '[[DATABASE/spell/Chill Touch|Chill Touch]]'
+- '[[DATABASE/spell/Detect Magic|DetectMagic]]'
+- '[[DATABASE/spell/Divine Lance|Divine Lance]]'
+- '[[DATABASE/spell/False Life|False Life]]'
+- '[[DATABASE/spell/Fear|Fear]]'
+- '[[DATABASE/spell/Forbidding Ward|Forbidding Ward]]'
+- '[[DATABASE/spell/Ghoulish Cravings|Ghoulish Cravings]]'
+- '[[DATABASE/spell/Goblin Pox|Goblin Pox]]'
+- '[[DATABASE/spell/Harm|Harm]]'
+- '[[DATABASE/spell/Malignant Sustenance|MalignantSustenance]]'
+- '[[DATABASE/spell/Shield|Shield]]'
+- '[[DATABASE/spell/Spiritual Weapon|Spiritual Weapon]]'
+- '[[DATABASE/spell/Touch of Undeath|Touch of Undeath]]'
+- '[[DATABASE/spell/Vampiric Touch|Vampiric Touch]]'
+strength: '+2'
+strength_req: '2'
 strongest_save:
-- Reflex
+- Will
 swim_speed: null
 trait:
 - '[[DATABASE/trait/Uncommon|Uncommon]]'
@@ -67,10 +77,11 @@ trait:
 type: Creature
 vision: Darkvision
 weakest_save:
-- Will
+- Fortitude
+- Reflex
 weakness: null
-will: '+23'
-wisdom: '+5'
+will: '+17'
+wisdom: '+6'
 
 ---
 # Deathless Hierophant

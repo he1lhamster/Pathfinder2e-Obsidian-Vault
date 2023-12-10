@@ -19,10 +19,6 @@ creature_ability:
 - Sacrilegious Aura
 - Weapon Master
 creature_family: '[[DATABASE/monsterfamily/Graveknight|Graveknight]]'
-description: 'Exemplars of undying violence, graveknight warmasters are devastating
-  forces on the battlefield, able to spur allies to ever greater levels of violence.<br/><br/><b><u>Recall
-  Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 34<br/><b><u>Unspecific
-  Lore</u></b>: DC 32<br/><b><u>Specific Lore</u></b>: DC 29'
 dexterity: '+4'
 element: null
 fly_speed: null

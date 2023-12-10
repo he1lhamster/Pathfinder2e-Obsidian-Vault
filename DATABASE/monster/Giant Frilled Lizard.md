@@ -9,20 +9,6 @@ constitution: '+4'
 creature_ability:
 - Intimidating Display
 creature_family: '[[DATABASE/monsterfamily/Lizard|Lizard]]'
-description: "Found in warm and tropical forests and savannas, these immense lizards\
-  \ are a deadly threat to the unsuspecting traveler. When they aren\u2019t sleeping\
-  \ or stalking prey, giant frilled lizards bask in the sunlight for hours at a time.\
-  \ Explorers sometimes mistakenly think them related to dragons due to their large\
-  \ size, elaborate neck frills (which, when displayed in a show of aggression and\
-  \ dominance, can be mistaken for wings), and ferocious hissing vocalizations used\
-  \ to frighten away creatures too large to eat.<br/><br/> A giant frilled lizard\u2019\
-  s primary food sources are oversized arthropods and other invertebrates, but it\
-  \ won\u2019t hesitate to augment its diet with vertebrates, including other lizards,\
-  \ monkeys, and just about anything it can flt into its mouth\u2014even humanoids.\
-  \ Although capable of short bursts of speed, a giant frilled lizard normally lies\
-  \ perfectly still while hunting, hoping to ambush its prey.<br/><br/><b><u>Recall\
-  \ Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 20<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>: DC 15"
 dexterity: '+1'
 element: null
 fly_speed: null

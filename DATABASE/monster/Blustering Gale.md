@@ -14,18 +14,6 @@ creature_ability:
 - Troop Movement
 - Windstorm
 creature_family: null
-description: "Blustering gales are among the least of air elementals: spirits of the\
-  \ small breezes who sometimes arise in the wake of mightier creatures, like the\
-  \ downdraft of a swallow's wing or the sharp expulsion of a vigorous cough. Unwilling\
-  \ or unable to act effectively alone, they form into \u201Cgales,\u201D collections\
-  \ of weak elementals that use their combined power to hurl insults and pummel those\
-  \ who defy them in a misguided attempt to rise above their humble origins.<br/><br/>\
-  \ Together, they force other creatures to do their bidding, then move on when they\
-  \ grow bored. While most gales claim their abandoned minions were useless, in truth,\
-  \ blustering gales lack the commanding presence and confidence to retain vassals\
-  \ for long.<br/><br/><b><u>Recall Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]]\
-  \ , [[DATABASE/skill/Nature|Nature]] )</b>: DC 28<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 26<br/><b><u>Specific Lore</u></b>: DC 23"
 dexterity: '+5'
 element: Air
 fly_speed: '60'

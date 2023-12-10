@@ -13,12 +13,6 @@ creature_ability:
 - Sunlight Powerlessness
 - Wisp Form
 creature_family: '[[DATABASE/monsterfamily/Wisp|Wisp]]'
-description: "A [[DATABASE/monster/Will-o'-Wisp|will-o'-wisp]] that starves to death\
-  \ might rise as a cold, blue, glowing sphere of spongy wetness\u2014a corpselight.\
-  \ A corpselight instinctively seeks out a host corpse to dwell within, as its physical\
-  \ form quickly deteriorates if not hidden within a dead creature.<br/><br/><b><u>Recall\
-  \ Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 21<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 19<br/><b><u>Specific Lore</u></b>: DC 16"
 dexterity: '+4'
 element: null
 fly_speed: '25'

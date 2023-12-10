@@ -1,88 +1,51 @@
 ﻿---
-ac: '33'
-alignment: NE
+ac: null
+alignment: null
 all_resistance: null
 burrow_speed: null
-charisma: '+7'
+charisma: null
 climb_speed: null
-constitution: '+3'
-creature_ability:
-- Beckoning Call
-- Blurred Form
-- Constrict
-- Entangling Tresses
-- Flowing Hair
-- Shameful Touch
+constitution: null
+creature_ability: null
 creature_family: null
-description: 'These androgynous, river-dwelling fey delight in manipulating the emotions
-  of those unfortunate enough to fall into their grasp, using humiliation to break
-  their victims'' wills. Rusalkas enjoy keeping their broken toys nearby, both for
-  continuing entertainment and to aid in the rusalkas'' defense, as the shame their
-  captives feel often drives them to become obsessively loyal to these fey.<br/><br/><b><u>Recall
-  Knowledge - Fey</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 30<br/><b><u>Unspecific
-  Lore</u></b>: DC 28<br/><b><u>Specific Lore</u></b>: DC 25'
-dexterity: '+5'
-element: Water
+dexterity: null
+element: null
 fly_speed: null
-fortitude: '+21'
+fortitude: null
 hardness: null
-hp: '230'
-id: '790'
+hp: null
+id: '459'
 immunity: null
-intelligence: '+1'
-land_speed: '25'
-language:
-- '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Sylvan|Sylvan]]'
-level: '12'
-max_speed: '50'
+intelligence: null
+land_speed: null
+language: null
+level: null
+max_speed: null
 name: Rusalka
-perception: '+22'
-rarity: Common
-reflex: '+25'
-resistance:
-- fire 10
+perception: null
+rarity: null
+reflex: null
+resistance: null
 rus_type_level: null
 school: null
-sense:
-- '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
-size: Medium
-skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +21'
-- '[[DATABASE/skill/Athletics|Athletics]] +22'
-- '[[DATABASE/skill/Deception|Deception]] +25'
-- '[[DATABASE/skill/Diplomacy|Diplomacy]] +21'
-- '[[DATABASE/skill/Nature|Nature]] +21'
-- '[[DATABASE/skill/Performance|Performance]] +23'
-- '[[DATABASE/skill/Stealth|Stealth]] +25'
-source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
-speed:
-- 25 feet
-- swim 50 feet; [[DATABASE/spell/Water Walk|water walk]]
-spell:
-- '[[DATABASE/spell/Charm|Charm]]'
-- '[[DATABASE/spell/Control Water|ControlWater]]'
-- '[[DATABASE/spell/Invisibility|Invisibility]]'
-- '[[DATABASE/spell/Obscuring Mist|Obscuring Mist]]'
-- '[[DATABASE/spell/Water Walk|Water Walk]]'
-strength: '+4'
-strength_req: '4'
-strongest_save:
-- Reflex
-swim_speed: '50'
-trait:
-- '[[DATABASE/trait/Aquatic|Aquatic]]'
-- '[[DATABASE/trait/Fey|Fey]]'
-- '[[DATABASE/trait/Water|Water]]'
-type: Creature
-vision: Low-light vision
-weakest_save:
-- Fortitude
-- Will
-weakness:
-- cold iron 15
-will: '+21'
-wisdom: '+3'
+sense: null
+size: null
+skill: null
+source: '[[DATABASE/source/Pathfinder 147. Tomorrow Must Burn|Pathfinder #147: Tomorrow
+  Must Burn]]'
+speed: null
+spell: null
+strength: null
+strength_req: null
+strongest_save: null
+swim_speed: null
+trait: null
+type: null
+vision: null
+weakest_save: null
+weakness: null
+will: null
+wisdom: null
 
 ---
 # Rusalka

@@ -14,17 +14,6 @@ creature_ability:
 - Rock Tunneler
 - Tunneling Strike
 creature_family: null
-description: 'When skirmishes break out between tunneling [[DATABASE/monsterfamily/Ghoul|ghouls]]
-  and creatures that dwell beneath the surface of Golarion, there''s a chance that
-  ghoul fever could infect such animals, producing strange new variants of ghoul beasts.
-  However, letting the natural corruption run its course sometimes results in unsatisfying
-  monsters, so some necromancers speed the process. This is the situation that led
-  to the creation of the first straugh. A priest of [[DATABASE/deity/Kabriri|Kabriri]]
-  made the monstrosity to defend a claimed cemetery from another sect of ghouls who
-  were preying upon the interred bodies. In some places, ghouls use straughs to tunnel
-  into rival warrens or highly fortified mausoleums.<br/><br/><b><u>Recall Knowledge
-  - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 29<br/><b><u>Unspecific
-  Lore</u></b>: DC 27<br/><b><u>Specific Lore</u></b>: DC 24'
 dexterity: '+3'
 element: null
 fly_speed: null

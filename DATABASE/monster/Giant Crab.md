@@ -11,19 +11,6 @@ creature_ability:
 - Scuttle
 - Vulnerable to Prone
 creature_family: '[[DATABASE/monsterfamily/Crab|Crab]]'
-description: 'Crabs are scavenging crustaceans known for their hard shells and iconic
-  sideways gait. They use their claws to defend themselves, hunt, and fight other
-  crabs for territory. When confronted with threats from outside their species, most
-  crabs prefer to flee, but when retreat isn''t possible, they clamp on to their foes
-  as tightly as they can.<br/><br/>The statistics presented here represent giant crabs
-  that live close to the water''s surface. Crabs that live deeper underwater often
-  exhibit more extreme adaptations to their environment. Crabs who live in the depths
-  where little light reaches gain darkvision and cold resistance, and those adapted
-  to the most hostile reaches of the deep sea can detect nearby creatures through
-  subtle shifts in ocean currents.<br/><br/>These skittering creatures are prized
-  for their delicious meat, but their size makes them dangerous targets for harvesting.<br/><br/><b><u>Recall
-  Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 16<br/><b><u>Unspecific
-  Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>: DC 11'
 dexterity: '+3'
 element: null
 fly_speed: null

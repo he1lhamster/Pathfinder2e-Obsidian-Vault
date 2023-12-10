@@ -10,10 +10,6 @@ creature_ability:
 - Grip Throat
 - Mark Quarry
 creature_family: '[[DATABASE/monsterfamily/Crawling Hand|Crawling Hand]]'
-description: 'A crawling hand formed from the appendage of a Medium creature is quick
-  and agile, skittering in the shadows until it can strike its prey.<br/><br/><b><u>Recall
-  Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 13<br/><b><u>Unspecific
-  Lore</u></b>: DC 11<br/><b><u>Specific Lore</u></b>: DC 8'
 dexterity: '+3'
 element: null
 fly_speed: null

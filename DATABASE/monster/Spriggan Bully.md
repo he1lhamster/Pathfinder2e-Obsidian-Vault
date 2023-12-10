@@ -11,14 +11,6 @@ creature_ability:
 - Enraged Growth
 - Sneak Attack
 creature_family: '[[DATABASE/monsterfamily/Spriggan|Spriggan]]'
-description: 'The typical spriggan is a bully who prefers to take live prisoners in
-  fights, but only to ensure that they have a large stock of living victims to torment,
-  tease, and abuse. They train to use weapons in nonlethal ways that inflict the maximum
-  amount of pain even as they guard against accidental death. When not bullying prisoners
-  or hunting for new victims, spriggan bullies enjoy drinking, watching others fight,
-  and fighting among themselves.<br/><br/><b><u>Recall Knowledge - Humanoid</u> (
-  [[DATABASE/skill/Society|Society]] )</b>: DC 18<br/><b><u>Unspecific Lore</u></b>:
-  DC 16<br/><b><u>Specific Lore</u></b>: DC 13'
 dexterity: '+4'
 element: null
 fly_speed: null

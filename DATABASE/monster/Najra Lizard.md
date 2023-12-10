@@ -11,26 +11,6 @@ creature_ability:
 - Najra Swarm Attack
 - Shared Diversion
 creature_family: null
-description: "Among the smallest breeds of dragon on Golarion, these savage, cunning\
-  \ hunters dwell near the oases that dot the inhospitable Narhari Desert in Vudra.\
-  \ Land-bound, they scamper across the badlands on four short limbs, their speckled\
-  \ brown and yellow bodies blending into the terrain.<br/><br/> Though najra lizards\
-  \ live and sleep alone or in mated pairs near their hunting grounds, groups of up\
-  \ to two dozen work in unison to hunt. The lowest-ranked members of a najra lizard\
-  \ swarm leave their hidden dens to target prey with their parching spit. Once the\
-  \ unquenchable thirst caused by their venom drives the creature to the nearby watering\
-  \ hole, the entire swarm attacks. Even when unable to overwhelm foes with sheer\
-  \ numbers, najra lizards have little interest in fighting fairly. They often use\
-  \ their tails to rustle nearby desert scrub, hurl small stones, or otherwise divert\
-  \ attention so they can sneak away or attack from hiding.<br/><br/> Najra lizards\
-  \ dislike humanoids and humanoid civilization, and they are particularly rankled\
-  \ by being called mere \u201Clizards.\u201D They refer to themselves by a [[DATABASE/language/Draconic|Draconic]]\
-  \ word that translates roughly to \u201Cswarm dragon.\u201D Like almost all dragons,\
-  \ najra lizards covet shiny metals and glittering gems. They typically hide accumulated\
-  \ treasures in small holes near where they sleep, and arguments over such caches\
-  \ are one of the few things that engender violence among members of the same pack.<br/><br/><b><u>Recall\
-  \ Knowledge - Dragon</u> ( [[DATABASE/skill/Arcana|Arcana]] )</b>: DC 21<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 19<br/><b><u>Specific Lore</u></b>: DC 16"
 dexterity: '+4'
 element: null
 fly_speed: null

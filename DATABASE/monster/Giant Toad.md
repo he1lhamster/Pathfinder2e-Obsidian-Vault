@@ -12,16 +12,6 @@ creature_ability:
 - Swallow Whole
 - Tongue Grab
 creature_family: '[[DATABASE/monsterfamily/Toad|Toad]]'
-description: 'Most giant toads live in dry environments, particularly deserts, and
-  eagerly eat almost any creature smaller than themselves. They''re known to eat giant
-  rats, then take over the rats'' burrows as homes. Giant toads have large poison
-  glands behind their eyes that enable them to coat their skin with poison. This leads
-  to them having very few natural predators, and populations can quickly explode if
-  left unchecked. While most consider giant toads dangerous pests, some groups of
-  [[DATABASE/monsterfamily/Ogre|ogres]] and [[DATABASE/monster/Hill Giant|hill giants]]
-  cultivate them to collect their poison for recreational use.<br/><br/><b><u>Recall
-  Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 16<br/><b><u>Unspecific
-  Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>: DC 11'
 dexterity: '+2'
 element: null
 fly_speed: null

@@ -1,80 +1,88 @@
 ﻿---
-ac: '18'
-alignment: NE
+ac: '31'
+alignment: CE
 all_resistance: null
-burrow_speed: null
-charisma: '+2'
-climb_speed: null
-constitution: '+2'
+burrow_speed: '40'
+charisma: '+4'
+climb_speed: '20'
+constitution: '+8'
 creature_ability:
-- Attack of Opportunity
-- Necrotic Decay
-- Ravenous Attack
-- Wicked Bite
-creature_family: '[[DATABASE/monsterfamily/Urdefhan|Urdefhan]]'
-description: 'From the moment they are born, urdefhans are prepared for war. Urdefhan
-  warriors are among the least powerful urdefhans one might encounter outside of their
-  eerie underground cities.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 18<br/><b><u>Unspecific Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>:
-  DC 13'
-dexterity: '+1'
+- Consecration Vulnerability
+- Earth Glide
+- Gravechoke
+- Ravenous Earth
+creature_family: '[[DATABASE/monsterfamily/Demon|Demon]]'
+dexterity: '+4'
 element: null
 fly_speed: null
-fortitude: '+9'
+fortitude: '+26'
 hardness: null
-hp: 55 ( negative healing )
-id: '840'
-immunity:
-- '[[DATABASE/trait/Death|death]] effects'
-- '[[DATABASE/trait/Disease|disease]]'
-- '[[DATABASE/trait/Fear|fear]]'
-intelligence: '+0'
-land_speed: '25'
+hp: '290'
+id: '2153'
+immunity: null
+intelligence: '+4'
+land_speed: '30'
 language:
-- '[[DATABASE/language/Aklo|Aklo]]'
-- '[[DATABASE/language/Daemonic|Daemonic]]'
-- '[[DATABASE/language/Undercommon|Undercommon]]'
-level: '3'
-max_speed: '25'
-name: Urdefhan Warrior
-perception: '+9'
-rarity: Common
-reflex: '+8'
+- '[[DATABASE/language/Abyssal|Abyssal]]'
+- '[[DATABASE/language/Celestial|Celestial]]'
+- '[[DATABASE/language/Common|Common]]'
+- '[[DATABASE/language/Draconic|Draconic]]'
+- '[[DATABASE/language/Necril|Necril]] ; [[DATABASE/monsterability/Telepathy|telepathy]]
+  100 feet'
+level: '13'
+max_speed: '40'
+name: Urglid (Grave Demon)
+perception: '+20'
+rarity: Uncommon
+reflex: '+20'
 resistance: null
 rus_type_level: null
 school: null
 sense:
-- '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
-size: Medium
+- '[[DATABASE/monsterability/Darkvision|darkvision]]'
+- '[[DATABASE/monsterability/Tremorsense|tremorsense]] (imprecise) 60 feet'
+- '[[DATABASE/spell/True Seeing|true seeing]]'
+size: Large
 skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +10'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +9'
-- '[[DATABASE/skill/Religion|Religion]] +7'
-- '[[DATABASE/skill/Survival|Survival]] +7'
-source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
+- '[[DATABASE/skill/Lore|Abyss Lore]] +24'
+- '[[DATABASE/skill/Athletics|Athletics]] +27'
+- '[[DATABASE/skill/Crafting|Crafting]] +24'
+- '[[DATABASE/skill/Deception|Deception]] +22'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +27'
+- '[[DATABASE/skill/Religion|Religion]] +24'
+- '[[DATABASE/skill/Society|Society]] +22'
+- '[[DATABASE/skill/Stealth|Stealth]] +27'
+source: '[[DATABASE/source/Pathfinder 184. The Ghouls Hunger|Pathfinder #184: The
+  Ghouls Hunger]]'
 speed:
-- 25 feet
+- 30 feet
+- burrow 40 feet
+- climb 20 feet; earth glide
 spell:
-- '[[DATABASE/spell/Death Knell|Death Knell]]'
-- '[[DATABASE/spell/Feather Fall|FeatherFall]]'
-- '[[DATABASE/spell/Ray of Enfeeblement|Ray of Enfeeblement]]'
-strength: '+3'
-strength_req: '3'
+- '[[DATABASE/spell/Earthbind|Earthbind]]'
+- '[[DATABASE/spell/Earthquake|Earthquake]]'
+- '[[DATABASE/spell/Passwall|Passwall]]'
+- '[[DATABASE/spell/True Seeing|True Seeing]]'
+- '[[DATABASE/spell/Wall of Stone|Wallof Stone]]'
+strength: '+9'
+strength_req: '9'
 strongest_save:
 - Fortitude
-- Will
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Humanoid|Humanoid]]'
-- '[[DATABASE/trait/Urdefhan|Urdefhan]]'
+- '[[DATABASE/trait/Demon|Demon]]'
+- '[[DATABASE/trait/Fiend|Fiend]]'
+- '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: Greater darkvision
+vision: Darkvision
 weakest_save:
 - Reflex
+- Will
 weakness:
-- positive 5
-will: '+9'
-wisdom: '+2'
+- '[[DATABASE/equipment/Cold Iron Weapon|cold iron]] 10'
+- good 10
+will: '+20'
+wisdom: '+3'
 
 ---
 # Demon, Urglid

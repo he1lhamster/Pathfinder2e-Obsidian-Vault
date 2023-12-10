@@ -10,20 +10,6 @@ creature_ability:
 - Corner of the Eye
 - Lost in the Dark
 creature_family: '[[DATABASE/monsterfamily/Gorga|Gorga]]'
-description: 'Ocluais embody the fear of being lost and helpless in the darkness as
-  well as the danger of unreasoning terror. An ocluai''s gray body resembles that
-  of a featherless owl with a serrated beak, the legs of a monkey, and oversized eye
-  sockets full of shadow. The field of unnatural darkness that surrounds an ocluai
-  disorients most creatures; while other gorgas are quick to move in for the kill,
-  ocluais love to perch on a low branch or lintel and watch with their blank expressions
-  as prey succumbs to panic. Though capable fighters, ocluais prefer to hang back
-  and slash at those whose frantic fight brings them within range, letting their prey''s
-  own terror drive them over cliffs or bring them to their knees.<br/><br/> Ocluais
-  understand several languages but rarely communicate with non-fey. When they do,
-  their communication takes the form of unsettling telepathic images projected directly
-  into the other party''s mind as the ocluai holds their gaze.<br/><br/><b><u>Recall
-  Knowledge - Fey</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 20<br/><b><u>Unspecific
-  Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>: DC 15'
 dexterity: '+4'
 element: null
 fly_speed: '25'

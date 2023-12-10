@@ -11,27 +11,6 @@ creature_ability:
 - Primal Purpose
 - Recognize Hero
 creature_family: null
-description: "When a village is threatened by a horde of bandits but there's no one\
-  \ to help, when a monastery's divine relic must be guarded but the last monk is\
-  \ on their deathbed, when the world can be saved only through the use of an artifact\
-  \ no one alive remembers, nature responds by creating a crossroads guardian, a naturally\
-  \ occurring entity of primal magic. Every crossroads guardian exists to satisfy\
-  \ a particular need\u2014usually a quest that must be carried out, helpless individuals\
-  \ who must be saved from harm, or an object or location which must be guarded. Although\
-  \ they often appear at actual crossroads, a crossroads guardian can materialize\
-  \ anywhere there is a community, from a giant metropolis to a [[DATABASE/ancestry/Lizardfolk|lizardfolk]]\
-  \ village in a remote swamp.<br/><br/> Some crossroads guardians are martial beings\u2014\
-  defending a mystic fountain against all intruders, for example\u2014but most are\
-  \ helpers and assistants, guiding heroes through the wilderness to where they're\
-  \ needed. A guardian is a skilled warrior and can defend a location, but when its\
-  \ purpose involves a quest, or the need is so great that the guardian isn't up to\
-  \ the task alone, the guardian must persuade others to voluntarily accept their\
-  \ quest.<br/><br/> Once a crossroads guardian has fulfilled its purpose, it either\
-  \ shifts to satisfy a new need or quest\u2014often changing its alignment and abilities\
-  \ as well\u2014or else slowly vanishes, returning to the raw primal magic from which\
-  \ it was formed.<br/><br/><b><u>Recall Knowledge - Fey</u> ( [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 28<br/><b><u>Unspecific Lore</u></b>: DC 26<br/><b><u>Specific Lore</u></b>:\
-  \ DC 23"
 dexterity: '+4'
 element: null
 fly_speed: null

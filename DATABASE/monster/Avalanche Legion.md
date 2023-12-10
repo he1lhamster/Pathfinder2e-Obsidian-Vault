@@ -17,14 +17,6 @@ creature_ability:
 - Troop Defenses
 - Troop Movement
 creature_family: null
-description: 'Elementals of the [[DATABASE/plane/Plane of Earth|Plane of Earth]] can
-  be fiercely territorial. Some more solitary elementals protect their lairs on their
-  own, but occasionally others band together to defend larger regions that serve as
-  shared turf. Notable among these alliances are avalanche legions, who patrol the
-  perimeter of these shared territories, driving off intruders who dare to trespass
-  upon their home ground.<br/><br/><b><u>Recall Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Nature|Nature]] )</b>: DC 28<br/><b><u>Unspecific Lore</u></b>:
-  DC 26<br/><b><u>Specific Lore</u></b>: DC 23'
 dexterity: '+0'
 element: Earth
 fly_speed: null

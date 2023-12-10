@@ -12,10 +12,6 @@ creature_ability:
 - Vulnerable to Kindness
 - Walk the Ethereal Line
 creature_family: '[[DATABASE/monsterfamily/Phantom|Phantom]]'
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Ethereal</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 21<br/><b><u>Recall
-  Knowledge - Spirit</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 21<br/><b><u>Unspecific
-  Lore</u></b>: DC 19<br/><b><u>Specific Lore</u></b>: DC 16'
 dexterity: '+1'
 element: null
 fly_speed: '40'

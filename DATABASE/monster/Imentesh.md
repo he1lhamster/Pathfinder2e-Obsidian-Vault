@@ -16,14 +16,6 @@ creature_ability:
 - ''
 - Warpwave Strike
 creature_family: '[[DATABASE/monsterfamily/Protean|Protean]]'
-description: 'The loquacious proteans known as imenteshes serve as missionaries, spies,
-  and heralds of chaos to further the protean goal of reality''s dissolution. Imenteshes
-  are cunning, curiously diplomatic, and profoundly whimsical. They travel beyond
-  the [[DATABASE/plane/Maelstrom|Maelstrom]] for their work, frequently adopting extravagant
-  personal attire and decorations that often border upon the garish, all to curry
-  favor with less chaotic beings.<br/><br/><b><u>Recall Knowledge - Monitor</u> (
-  [[DATABASE/skill/Religion|Religion]] )</b>: DC 27<br/><b><u>Unspecific Lore</u></b>:
-  DC 25<br/><b><u>Specific Lore</u></b>: DC 22'
 dexterity: '+5'
 element: null
 fly_speed: '25'

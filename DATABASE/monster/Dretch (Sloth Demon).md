@@ -1,84 +1,70 @@
 ﻿---
-ac: '20'
-alignment: N
+ac: '17'
+alignment: CE
 all_resistance: null
 burrow_speed: null
-charisma: '+2'
-climb_speed: '30'
-constitution: '+2'
+charisma: '+0'
+climb_speed: null
+constitution: '+4'
 creature_ability:
-- Defensive Needle
-- Light Blindness
-- Needle Spray
-- Partially Technological
-- Swarming Stance
-creature_family: '[[DATABASE/monsterfamily/Fleshwarp|Fleshwarp]]'
-description: 'Because [[DATABASE/monsterfamily/Morlock|morlocks]] are descended from
-  distant human ancestors, clumsily or hastily fleshwarping a morlock simply produces
-  a [[DATABASE/monster/Grothlut|grothlut]] . Skilled fleshwarpers, however, can tease
-  out a morlock''s genetic differences to make an entirely different creature. Creating
-  a dreshkan involves replacing the morlock''s bones with a metal skeleton. This new
-  skeleton is often heavily augmented, such as with spiderlike limbs protruding from
-  the spine or magazines of tiny, deadly needles. Arcane electricity courses through
-  the dreshkan thereafter, making it jumpy and irritable.<br/><br/> Morlocks view
-  dreshkans as impressive fusions of flesh and technology and gladly fight alongside
-  these creatures, whom they view as paragons of morlock potential.<br/><br/><b><u>Recall
-  Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 21<br/><b><u>Recall
-  Knowledge - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]]
-  )</b>: DC 21<br/><b><u>Unspecific Lore</u></b>: DC 19<br/><b><u>Specific Lore</u></b>:
-  DC 16'
-dexterity: '+5'
+- Cower
+- Frenzied Slashes
+- Sloth
+- Vicious Criticals
+creature_family: '[[DATABASE/monsterfamily/Demon|Demon]]'
+dexterity: '+0'
 element: null
 fly_speed: null
 fortitude: '+10'
 hardness: null
-hp: '72'
-id: '1043'
-immunity:
-- electricity
-intelligence: '-2'
-land_speed: '30'
+hp: '45'
+id: '1109'
+immunity: null
+intelligence: '-3'
+land_speed: '20'
 language:
-- '[[DATABASE/language/Undercommon|Undercommon]]'
-level: '4'
-max_speed: '30'
-name: Dreshkan
-perception: '+11'
-rarity: Uncommon
-reflex: '+13'
+- '[[DATABASE/language/Abyssal|Abyssal]] ; [[DATABASE/monsterability/Telepathy|telepathy]]
+  100 feet'
+level: '2'
+max_speed: '20'
+name: Dretch
+perception: '+6'
+rarity: Common
+reflex: '+4'
 resistance: null
 rus_type_level: null
 school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
-size: Medium
+size: Small
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +11'
-- '[[DATABASE/skill/Athletics|Athletics]] +12'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +10'
-- '[[DATABASE/skill/Stealth|Stealth]] +13'
-source: '[[DATABASE/source/Pathfinder 164. Hands of the Devil|Pathfinder #164: Hands
-  of the Devil]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +6'
+- '[[DATABASE/skill/Athletics|Athletics]] +7'
+- '[[DATABASE/skill/Deception|Deception]] +6'
+- '[[DATABASE/skill/Stealth|Stealth]] +6'
+source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
-- 30 feet
-- climb 30 feet
-spell: null
-strength: '+4'
-strength_req: '4'
+- 20 feet
+spell:
+- '[[DATABASE/spell/Fear|Fear]]'
+- '[[DATABASE/spell/Slow|Slow]]'
+strength: '+3'
+strength_req: '3'
 strongest_save:
-- Reflex
+- Fortitude
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Aberration|Aberration]]'
-- '[[DATABASE/trait/Construct|Construct]]'
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
+- '[[DATABASE/trait/Demon|Demon]]'
+- '[[DATABASE/trait/Fiend|Fiend]]'
 type: Creature
 vision: Darkvision
 weakest_save:
-- Fortitude
-weakness: null
-will: '+11'
-wisdom: '+3'
+- Reflex
+weakness:
+- '[[DATABASE/equipment/Cold Iron Weapon|cold iron]] 3'
+- good 3
+will: '+8'
+wisdom: '+0'
 
 ---
 # Dretch (Sloth Demon)

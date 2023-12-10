@@ -10,18 +10,6 @@ creature_ability:
 - Hurricane Blast
 - Whirlwind
 creature_family: '[[DATABASE/monsterfamily/Genie|Genie]]'
-description: 'Benevolent genies from the Plane of Air, djinn value art, culture, knowledge,
-  and trade. They also love new experiences, succulent dishes, and heady wines. Of
-  all geniekind, they are most likely to approach humans and other mortals, interacting
-  with them on friendly terms. Still, djinn are proud of their genie heritage and
-  have a tendency to be patronizing toward mortals, a habit that has earned them a
-  reputation for arrogance.<br/>Djinn get along with jann and marids, but they find
-  shaitans too stiff and harbor undying hatred for efreet. Although djinn are formidable
-  combatants, they despise war and prefer to eschew violence in favor of dealing with
-  their opponents using magic or subterfuge (making an exception, of course, when
-  they encounter efreet).<br/><br/><b><u>Recall Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Nature|Nature]] )</b>: DC 22<br/><b><u>Unspecific Lore</u></b>:
-  DC 20<br/><b><u>Specific Lore</u></b>: DC 17'
 dexterity: '+5'
 element: Air
 fly_speed: '40'

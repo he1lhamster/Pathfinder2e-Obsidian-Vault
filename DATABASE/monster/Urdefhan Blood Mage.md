@@ -11,11 +11,6 @@ creature_ability:
 - Necrotic Decay
 - Wicked Bite
 creature_family: '[[DATABASE/monsterfamily/Urdefhan|Urdefhan]]'
-description: 'Hardened masters of occult power, urdefhan blood mages trade their blood
-  for magical might. A heavily scarred blood mage is held in esteem by their fellow
-  urdefhans, as it shows they have survived many bargains with eerie occult patrons.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 24<br/><b><u>Unspecific
-  Lore</u></b>: DC 22<br/><b><u>Specific Lore</u></b>: DC 19'
 dexterity: '+2'
 element: null
 fly_speed: null

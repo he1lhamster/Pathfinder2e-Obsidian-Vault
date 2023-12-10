@@ -14,36 +14,6 @@ creature_ability:
 - Nightmare Rider
 - Spell Ambush
 creature_family: null
-description: Skarja has been collecting souls on the Isle of Kortos for many years.
-  Recently, the night hag set her sights on corrupting and culling the soul of the
-  Swardlands' most prominent citizen, Opper Vandy.<br/><br/> Skarja arrived in Absalom
-  long ago as a captive on an ancient Azlanti ether ship called the <i>King Xeros</i>.
-  She was inadvertently released from her captivity by Pathfinder Society agents and
-  found herself free to roam among the abundance of souls just waiting to be harvested
-  in the City at the Center of the World. However, she didn't want to attract the
-  Pathfinders' attention, so she elected to haunt the city's outskirts.<br/><br/>
-  Night hags value souls, which they hoard as keepsakes or trade in extraplanar markets.
-  Over the years, Skarja has found collecting souls of already-corrupt mortals too
-  easy to be truly satisfying. She instead prefers to slowly corrupt honorable mortals
-  herself; there are secret soul-markets where only souls of corrupted mortals are
-  traded, and the debased souls of once-virtuous mortals command the highest prices.
-  By trading in this market, Skarja has unlocked secrets that most other night hags
-  don't know, such as the ability to maintain her <i>heartstone</i> at a distance.
-  Yet for all her care, Skarja has had to operate further and further from Absalom.
-  She recently came to the Swardlands and found a land rife with opportunity.<br/><br/>
-  Opper Vandy is Skarja's current target because he is not only virtuous, but beloved
-  by his community. She learned of Vandy's arrangement with Rogor Swinten while claiming
-  the soul of a wicked farmer named Currew, and the hag saw this crack in Vandy's
-  integrity as a valuable opportunity. The thought of corrupting a pillar of the community
-  delights her, and Skarja is in no hurry to see this delectable corruption completed.
-  She torments Vandy with foreknowledge of deaths in the Swardlands, and thereafter
-  reaps a chaotic or evil soul she's carefully primed just for that purpose. While
-  Vandy's guilt and shame grow, Skarja's collection of souls grows as well. Soon,
-  she hopes, Vandy will perform some great, desperate act of wickedness, and the upright
-  mortician's soul will be hers at last.<br/><br/> Like all hags, Skarja appears as
-  a twisted crone with curving horns and sharp fangs, though Skarja also has blue-black
-  skin covered with sharp, thorny protrusions and thick legs that end with elephantine
-  feet.
 dexterity: '+5'
 element: null
 fly_speed: null

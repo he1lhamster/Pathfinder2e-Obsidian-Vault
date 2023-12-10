@@ -1,78 +1,82 @@
 ﻿---
 ac: '24'
-alignment: NE
+alignment: NG
 all_resistance: null
 burrow_speed: null
-charisma: '+2'
-climb_speed: '20'
-constitution: '+2'
+charisma: '+6'
+climb_speed: null
+constitution: '+4'
 creature_ability:
-- Burial Site Bound
-- Drink Blood
-- Feral Possession
-- Rend
-- Vrykolakas Vulnerabilities
-- Vulnerable
-- to Decapitation
-creature_family: '[[DATABASE/monsterfamily/Vampire, Vrykolakas|Vampire, Vrykolakas]]'
-description: 'Vrykolakas unleash their spawn upon the world to spread terror, plague,
-  and suffering and to draw attention away from their masters.<br/><br/><b><u>Recall
-  Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 22<br/><b><u>Unspecific
-  Lore</u></b>: DC 20<br/><b><u>Specific Lore</u></b>: DC 17'
+- Fox's Cunning
+creature_family: '[[DATABASE/monsterfamily/Agathion|Agathion]]'
 dexterity: '+4'
 element: null
 fly_speed: null
-fortitude: '+14'
+fortitude: '+12'
 hardness: null
-hp: 99 ( negative healing )
-id: '842'
-immunity:
-- '[[DATABASE/trait/Death|death]] effects'
-- '[[DATABASE/trait/Disease|disease]]'
-- '[[DATABASE/condition/Paralyzed|paralyze]]'
-- '[[DATABASE/trait/Poison|poison]]'
-- '[[DATABASE/trait/Sleep|sleep]]'
-intelligence: '-3'
-land_speed: '40'
+hp: '105'
+id: '1056'
+immunity: null
+intelligence: '+5'
+land_speed: '30'
 language:
+- '[[DATABASE/language/Celestial|Celestial]]'
 - '[[DATABASE/language/Common|Common]]'
+- '[[DATABASE/language/Draconic|Draconic]]'
+- '[[DATABASE/language/Infernal|Infernal]] ; [[DATABASE/spell/Speak with Animals|speak
+  with animals]]'
+- '[[DATABASE/spell/Tongues|tongues]]'
 level: '6'
-max_speed: '40'
-name: Vrykolakas Spawn
-perception: '+14'
+max_speed: '30'
+name: Vulpinal
+perception: '+15'
 rarity: Common
-reflex: '+16'
+reflex: '+14'
 resistance: null
 rus_type_level: null
 school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
-size: Medium
+size: Small
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +14'
-- '[[DATABASE/skill/Athletics|Athletics]] +15'
-- '[[DATABASE/skill/Stealth|Stealth]] +14'
-- '[[DATABASE/skill/Survival|Survival]] +11'
-source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +12'
+- '[[DATABASE/skill/Arcana|Arcana]] +15'
+- '[[DATABASE/skill/Deception|Deception]] +14'
+- '[[DATABASE/skill/Medicine|Medicine]] +11'
+- '[[DATABASE/skill/Lore|NirvanaLore]] +15'
+- '[[DATABASE/skill/Performance|Performance]] +16'
+- '[[DATABASE/skill/Religion|Religion]] +13'
+- '[[DATABASE/skill/Society|Society]] +13'
+- '[[DATABASE/skill/Stealth|Stealth]] +12'
+source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
-- 40 feet
-- climb 20 feet
-spell: null
-strength: '+5'
-strength_req: '5'
+- 30 feet
+spell:
+- '[[DATABASE/spell/Calm Emotions|Calm Emotions]]'
+- '[[DATABASE/spell/Detect Alignment|DetectAlignment]]'
+- '[[DATABASE/spell/Dimension Door|Dimension Door]]'
+- '[[DATABASE/spell/Divine Wrath|Divine Wrath]]'
+- '[[DATABASE/spell/Invisibility|Invisibility]]'
+- '[[DATABASE/spell/Lay on Hands|Lay on Hands]]'
+- '[[DATABASE/spell/Remove Disease|Remove Disease]]'
+- '[[DATABASE/spell/Speak with Animals|Speak with Animals]]'
+- '[[DATABASE/spell/Tongues|Tongues]]'
+strength: '+2'
+strength_req: '2'
 strongest_save:
-- Reflex
+- Will
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Undead|Undead]]'
-- '[[DATABASE/trait/Vampire|Vampire]]'
+- '[[DATABASE/trait/Agathion|Agathion]]'
+- '[[DATABASE/trait/Celestial|Celestial]]'
 type: Creature
 vision: Darkvision
 weakest_save:
-- Will
-weakness: null
-will: '+12'
-wisdom: '+2'
+- Fortitude
+weakness:
+- evil 5
+will: '+15'
+wisdom: '+3'
 
 ---
 # Vulpinal (Fox Agathion)

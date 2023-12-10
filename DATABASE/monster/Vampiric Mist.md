@@ -11,29 +11,6 @@ creature_ability:
 - Misty Form
 - Sense Blood
 creature_family: null
-description: "Though they're often mistaken for [[DATABASE/monsterfamily/Vampire|vampires]]\
-  \ in gaseous form or an unusual type of [[DATABASE/monsterfamily/Elemental, Air|air\
-  \ elemental]] , vampiric mists are in fact strange aberrant life-forms. With an\
-  \ amorphous body that consists as much of fluid as it does of air, these creatures\
-  \ dwell in swamps or moist underground regions where their vulnerability to heat\
-  \ isn't as much of a concern. Still, they prefer to lair near the fringes of such\
-  \ areas, as a vampiric mist needs a constant supply of fresh blood for sustenance.\
-  \ While blood drawn from animals is just as nutritious as blood from anything else,\
-  \ these sadistic monsters vastly prefer the flavor of blood drawn from thinking\
-  \ creatures. Like [[DATABASE/monster/Will-o'-Wisp|will-o'-wisps]] , vampiric mists\
-  \ find that fear flavors the blood, though they gain no particular advantage by\
-  \ feeding on the frightened.<br/><br/> Although somewhat intelligent, vampiric mists\
-  \ do not form societies. They sometimes group into small gangs, but even then they\
-  \ show little interest in working together. Vampiric mists spend most of their time\
-  \ seeking prey\u2014a pursuit they approach with great creativity. The mists' propensity\
-  \ for taking on vague, skeletal forms of the creatures whose blood they drink further\
-  \ adds to their mystique and fuels rumors that they have connections to the undead.\
-  \ Indeed, many vampiric mists enjoy using this common misconception to their advantage,\
-  \ leading foes to apply foolish tactics\u2014such as tricking spellcasters into\
-  \ attempting to use positive energy against them as if they were undead monsters.<br/><br/><b><u>Recall\
-  \ Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC\
-  \ 18<br/><b><u>Unspecific Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>: DC\
-  \ 13"
 dexterity: '+5'
 element: null
 fly_speed: '40'

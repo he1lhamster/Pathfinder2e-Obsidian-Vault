@@ -1,98 +1,74 @@
 ﻿---
-ac: '28'
+ac: '23'
 alignment: NE
 all_resistance: null
 burrow_speed: null
-charisma: '+4'
+charisma: '+3'
 climb_speed: null
-constitution: '+0'
+constitution: '+4'
 creature_ability:
-- Feasting Bite
-creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 36<br/><b><u>Unspecific
-  Lore</u></b>: DC 34<br/><b><u>Specific Lore</u></b>: DC 31'
+- Breath Weapon
+- Drawn to Service
+- Vicious Wounds
+creature_family: '[[DATABASE/monsterfamily/Daemon|Daemon]]'
 dexterity: '+2'
 element: null
 fly_speed: null
-fortitude: '+15'
+fortitude: '+16'
 hardness: null
-hp: 140 ( negative healing )
-id: '2306'
+hp: '130'
+id: '89'
 immunity:
 - death effects
-- disease
-- paralyzed
-- poison
-- unconscious
-intelligence: '+6'
+intelligence: '+0'
 land_speed: '25'
 language:
 - '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Draconic|Draconic]]'
-- '[[DATABASE/language/Hallit|Hallit]]'
-- '[[DATABASE/language/Jotun|Jotun]]'
-- '[[DATABASE/language/Sylvan|Sylvan]]'
-level: '9'
+- '[[DATABASE/language/Daemonic|Daemonic]] ; telepathy 100 feet'
+level: '6'
 max_speed: '25'
-name: Cephal Lorentus
-perception: '+18'
-rarity: Unique
-reflex: '+15'
-resistance:
-- bludgeoning 10
-- piercing 10
+name: Ceustodaemon
+perception: '+14'
+rarity: Common
+reflex: '+12'
+resistance: null
 rus_type_level: null
 school: null
 sense:
-- '[[DATABASE/monsterability/Darkvision|darkvision]]'
-size: Medium
+- darkvision
+- '[[DATABASE/spell/See Invisibility|see invisibility]]'
+size: Large
 skill:
-- '[[DATABASE/skill/Arcana|Arcana]] +20'
-- '[[DATABASE/skill/Diplomacy|Diplomacy]] +17'
-- '[[DATABASE/skill/Nature|Nature]] +19'
-- '[[DATABASE/skill/Society|Society]] +19'
-- '[[DATABASE/skill/Survival|Survival]] +17'
-source: '[[DATABASE/source/Kingmaker Adventure Path|Kingmaker Adventure Path]]'
+- '[[DATABASE/skill/Deception|Deception]] +15'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +13'
+- '[[DATABASE/skill/Stealth|Stealth]] +12'
+- '[[DATABASE/skill/Survival|Survival]] +10'
+source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
 - 25 feet
 spell:
-- '[[DATABASE/spell/Acid Arrow|Acid Arrow]]'
-- '[[DATABASE/spell/Command|Command]]'
-- '[[DATABASE/spell/Detect Magic|Detect Magic]]'
+- '[[DATABASE/spell/Detect Alignment|Detect Alignment]]'
+- '[[DATABASE/spell/Dimension Door|Dimension Door]]'
 - '[[DATABASE/spell/Dispel Magic|Dispel Magic]]'
-- '[[DATABASE/spell/Electric Arc|Electric Arc]]'
-- '[[DATABASE/spell/Feather Fall|Feather Fall]]'
-- '[[DATABASE/spell/Fireball|Fireball]]'
 - '[[DATABASE/spell/Fly|Fly]]'
-- '[[DATABASE/spell/Light|Light]]'
-- '[[DATABASE/spell/Lightning Bolt|Lightning Bolt]]'
-- '[[DATABASE/spell/Magic Missile|Magic Missile]]'
-- '[[DATABASE/spell/Mending|Mending]]'
-- '[[DATABASE/spell/Message|Message]]'
-- '[[DATABASE/spell/Mirror Image|MirrorImage]]'
-- '[[DATABASE/spell/Resist Energy|Resist Energy]]'
-- '[[DATABASE/spell/Sending|Sending]]'
-- '[[DATABASE/spell/Shield|Shield]]'
-- '[[DATABASE/spell/Slow|Slow]]'
-- '[[DATABASE/spell/Telekinetic Maneuver|Telekinetic Maneuver]]'
-- '[[DATABASE/spell/Unseen Servant|Unseen Servant]]'
-- '[[DATABASE/spell/Vampiric Touch|Vampiric Touch]]'
-strength: '+0'
-strength_req: '0'
+- '[[DATABASE/spell/Paralyze|Paralyze]]'
+- '[[DATABASE/spell/See Invisibility|See Invisibility]]'
+strength: '+5'
+strength_req: '5'
 strongest_save:
-- Will
+- Fortitude
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Undead|Undead]]'
-- '[[DATABASE/trait/Unique|Unique]]'
+- '[[DATABASE/trait/Daemon|Daemon]]'
+- '[[DATABASE/trait/Fiend|Fiend]]'
 type: Creature
 vision: Darkvision
 weakest_save:
-- Fortitude
 - Reflex
-weakness: null
-will: '+21'
+- Will
+weakness:
+- good 10
+will: '+12'
 wisdom: '+2'
 
 ---

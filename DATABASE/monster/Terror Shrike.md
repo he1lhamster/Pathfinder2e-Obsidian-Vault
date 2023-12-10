@@ -12,11 +12,6 @@ creature_ability:
 - Sudden Charge
 - Tearing Clutch
 creature_family: '[[DATABASE/monsterfamily/Terror Bird|Terror Bird]]'
-description: 'The terror shrike, also known as the scythe beak, is a more powerful
-  species of terror bird. Large terror bird flocks typically have one or two terror
-  shrikes as leaders.<br/><br/><b><u>Recall Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 19<br/><b><u>Unspecific Lore</u></b>: DC 17<br/><b><u>Specific Lore</u></b>:
-  DC 14'
 dexterity: '+4'
 element: null
 fly_speed: null

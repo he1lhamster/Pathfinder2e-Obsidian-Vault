@@ -13,15 +13,6 @@ creature_ability:
 - Troop Spellcasting
 - Wild Swing
 creature_family: null
-description: "Followers of [[DATABASE/deity/Rovagug|Rovagug]] must usually conceal\
-  \ their devotion to the Rough Beast, hiding in remote cave complexes or abandoned\
-  \ ruins; but they emerge from these strongholds when they sense weakness, gathering\
-  \ together into a destructive, homicidal mob to hunt down high-ranking priests of\
-  \ rival deities or slaughter entire towns. Alternatively, if their hidden bolthole\
-  \ is compromised, a mob of Rovagug's faithful might emerge\u2014not hoping to save\
-  \ themselves, but intent only on taking their enemies with them as they die.<br/><br/><b><u>Recall\
-  \ Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 28<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 26<br/><b><u>Specific Lore</u></b>: DC 23"
 dexterity: '+2'
 element: null
 fly_speed: null

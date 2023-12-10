@@ -1,71 +1,83 @@
 ﻿---
-ac: '27'
-alignment: N
+ac: '33'
+alignment: NG
 all_resistance: null
 burrow_speed: null
-charisma: '+0'
+charisma: '+5'
 climb_speed: null
-constitution: '+6'
+constitution: '+5'
 creature_ability:
-- Trample
-- Whip Tail
-creature_family: null
-description: "Mokele-mbembes are large, reptilian predators found deep within Golarion's\
-  \ jungles. Mwangi view mokele-mbembes as embodiments of nature's strength and majesty,\
-  \ and they consider the sighting of this rare being a sign of favor from the gods\
-  \ and an omen of powerful natural forces. Mokele-mbembes are solitary and excel\
-  \ at going undetected. Most information about them\u2014including the fact that\
-  \ they're voracious predators\u2014comes from following the signs of their passage.<br/><br/><b><u>Recall\
-  \ Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 28<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 26<br/><b><u>Specific Lore</u></b>: DC 23"
+- Holy Armaments
+- Rebuke Soul
+- Solid Blow
+- Spiritual Warden
+creature_family: '[[DATABASE/monsterfamily/Angel|Angel]]'
 dexterity: '+4'
 element: null
-fly_speed: null
-fortitude: '+21'
+fly_speed: '60'
+fortitude: '+24'
 hardness: null
-hp: '172'
-id: '1230'
-immunity: null
-intelligence: '-4'
+hp: '245'
+id: '543'
+immunity:
+- death effects
+intelligence: '+4'
 land_speed: '30'
-language: null
-level: '9'
-max_speed: '30'
-name: Mokele-Mbembe
-perception: '+15'
-rarity: Uncommon
-reflex: '+15'
+language:
+- '[[DATABASE/language/Celestial|Celestial]]'
+- '[[DATABASE/language/Draconic|Draconic]]'
+- '[[DATABASE/language/Infernal|Infernal]] ; [[DATABASE/spell/Tongues|tongues]]'
+level: '12'
+max_speed: '60'
+name: Monadic Deva
+perception: '+25'
+rarity: Common
+reflex: '+21'
 resistance: null
 rus_type_level: null
 school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
-- '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
-size: Huge
+size: Medium
 skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +20'
-- '[[DATABASE/skill/Stealth|Stealth]] +19'
-- '[[DATABASE/skill/Survival|Survival]] +17'
-source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
+- '[[DATABASE/skill/Arcana|Arcana]] +25'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +24'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +22'
+- '[[DATABASE/skill/Occultism|Occultism]] +20'
+- '[[DATABASE/skill/Religion|Religion]] +25'
+- '[[DATABASE/skill/Survival|Survival]] +22'
+source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
 - 30 feet
-- swim 30 feet
-spell: null
+- fly 60 feet
+spell:
+- '[[DATABASE/spell/Charm|Charm]]'
+- '[[DATABASE/spell/Creation|Creation]]'
+- '[[DATABASE/spell/Detect Alignment|Detect Alignment]]'
+- '[[DATABASE/spell/Divine Wrath|Divine Wrath]]'
+- '[[DATABASE/spell/Heal|Heal]]'
+- '[[DATABASE/spell/Invisibility|Invisibility]]'
+- '[[DATABASE/spell/Paralyze|Paralyze]]'
+- '[[DATABASE/spell/Remove Curse|Remove Curse]]'
+- '[[DATABASE/spell/Remove Disease|Remove Disease]]'
+- '[[DATABASE/spell/Remove Fear|Remove Fear]]'
+- '[[DATABASE/spell/Tongues|Tongues]]'
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
-swim_speed: '30'
+swim_speed: null
 trait:
-- '[[DATABASE/trait/Animal|Animal]]'
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
+- '[[DATABASE/trait/Angel|Angel]]'
+- '[[DATABASE/trait/Celestial|Celestial]]'
 type: Creature
 vision: Darkvision
 weakest_save:
-- Reflex
-weakness: null
-will: '+17'
-wisdom: '+2'
+- Will
+weakness:
+- evil 10
+will: '+20'
+wisdom: '+4'
 
 ---
 # Monadic Deva (Soul Angel)

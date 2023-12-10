@@ -16,19 +16,6 @@ creature_ability:
 - Send Beyond
 - Shape Void
 creature_family: '[[DATABASE/monsterfamily/Titan|Titan]]'
-description: "The first three hekatonkheires were meant to guard the gates to the\
-  \ [[DATABASE/plane/Abyss|Abyss]] , but they proved too terrifying and rebellious\u2014\
-  \ and so, in disgust, the gods cast them into the gulfs between the planes. Hekatonkheires\
-  \ titans are incomplete, monstrous progeny of the original three, from whom these\
-  \ titans calved like icebergs.<br/><br/> Hekatonkheires wield interstellar darkness\
-  \ as a weapon and spurn the limits of physical reality, literally reaching through\
-  \ space with their countless arms. Filled with a drive to either discover their\
-  \ lost identity or create their own, they metaphysically disembowel ancient beings\
-  \ and cosmic magics\u2014using the entrails to find clues regarding their own nature\
-  \ and parentage or to serve as raw materials for fueling some alien apotheosis.<br/><br/><b><u>Recall\
-  \ Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC\
-  \ 53<br/><b><u>Unspecific Lore</u></b>: DC 51<br/><b><u>Specific Lore</u></b>: DC\
-  \ 48"
 dexterity: '+10'
 element: null
 fly_speed: null

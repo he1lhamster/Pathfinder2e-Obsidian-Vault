@@ -15,16 +15,6 @@ creature_ability:
 - Yamaraj
 - Venom
 creature_family: '[[DATABASE/monsterfamily/Psychopomp|Psychopomp]]'
-description: 'The greatest judges among the psychopomps are the massive yamarajes,
-  whose wisdom is legendary and whose edicts are unappealable except to ushers or
-  [[DATABASE/deity/Pharasma|Pharasma]] herself. A yamaraj resembles an immense dragon
-  with dark, feathery scales and an emotionless, dispassionate gaze behind a feathered
-  mask. When not serving as the senior magistrates, lords, and generals of the [[DATABASE/plane/Boneyard|Boneyard]]
-  , yamarajes pursue highly individualistic hobbies, such as gardening or literature.
-  They are willing to halt in their duties to converse with mortals whose expertise
-  matches their interests.<br/><br/><b><u>Recall Knowledge - Monitor</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 42<br/><b><u>Unspecific Lore</u></b>: DC 40<br/><b><u>Specific Lore</u></b>:
-  DC 37'
 dexterity: '+7'
 element: null
 fly_speed: '50'

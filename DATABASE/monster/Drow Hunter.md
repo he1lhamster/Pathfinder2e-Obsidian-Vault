@@ -12,9 +12,6 @@ creature_ability:
 - Light Blindness
 - Skirmish Strike
 creature_family: '[[DATABASE/monsterfamily/Drow|Drow]]'
-description: 'Hunters seek out game to keep drow communities fed and functioning.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 25<br/><b><u>Unspecific
-  Lore</u></b>: DC 23<br/><b><u>Specific Lore</u></b>: DC 20'
 dexterity: '+4'
 element: null
 fly_speed: null

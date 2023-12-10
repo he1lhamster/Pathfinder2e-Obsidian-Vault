@@ -13,16 +13,6 @@ creature_ability:
 - Spore Domination
 - Spore Pop
 creature_family: '[[DATABASE/monsterfamily/Sporeborn|Sporeborn]]'
-description: 'While most sporeborn are created from the flesh of vertebrates or creatures
-  with exoskeletons, fungal and plant creatures serve as a fine host for a sporeborn''s
-  parasitic spores. In these cases, the sporeborn mycelial network burrows through
-  the corpse, replacing the original hyphae in fungal creatures and the xylem and
-  pith in plants. This allows the sporeborn to puppet the creature, much as it does
-  in mammals by replacing the tendons with its own rugged mycelium. Fungus and plant
-  hosts are more likely to develop the potent poison sporeborn ability to enhance
-  the hosts'' natural abilities.<br/><br/><b><u>Recall Knowledge - Fungus</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 24<br/><b><u>Unspecific Lore</u></b>: DC 22<br/><b><u>Specific Lore</u></b>:
-  DC 19'
 dexterity: '+3'
 element: null
 fly_speed: null

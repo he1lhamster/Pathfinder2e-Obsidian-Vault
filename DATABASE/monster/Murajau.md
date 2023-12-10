@@ -12,24 +12,6 @@ creature_ability:
 - Swinging Spear
 - Talisman Faithful
 creature_family: null
-description: 'Murajaus, one of many nomadic creatures of the [[DATABASE/plane/Plane
-  of Water|Plane of Water]] , appear [[DATABASE/trait/Humanoid|humanoid]] from the
-  waist up but resemble a large hermit crab from the waist down, including a pair
-  of strong pincers. Murajau communities are often multilingual, and many individuals
-  are willing to work as translators and guides to adventurers if properly compensated.
-  Rather than currency, murajaus prefer to deal in trinkets such as talismans, particularly
-  those that protect travelers. For murajaus, such items signify their sincerity and
-  unwavering desire to protect others. They trade tales among each other of treasure
-  troves too dangerous to easily explore. Rather than keep this information solely
-  for themselves, they''re happy to share it with trustworthy people they meet in
-  exchange for a small share.<br/><br/> Faydhaans tell condescending tales of murajaus,
-  describing their origin as royal servants who failed to fulfill a royal decree.
-  Murajaus'' own creation story, meanwhile, claims that the royal decree in question
-  requested they travel the lands to provide shelter and hospitality to visitors,
-  a mission they have since carried on for generations. They take great pride in treating
-  guests well, especially in providing suitable food, drink, and gifts.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 20<br/><b><u>Unspecific
-  Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>: DC 15'
 dexterity: '+2'
 element: null
 fly_speed: null

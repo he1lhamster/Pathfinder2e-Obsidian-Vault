@@ -12,25 +12,6 @@ creature_ability:
 - Target Weakness
 - Wind-Up
 creature_family: '[[DATABASE/monsterfamily/Clockworks|Clockworks]]'
-description: "Tasks like patrolling the sewers for vermin are mundane, perfect for\
-  \ the clockwork hunter. Its hound-like appearance mimics one of humanity's trustiest\
-  \ hunting companions\u2014with a few choice modifications, of course. Few hunting\
-  \ dogs, for example, sport sturdy metal plating and an integrated crossbow bolt\
-  \ launcher. Over time, clockwork makers have unofficially adopted a common model\
-  \ for the hunter, making it fairly easy to find spare parts or compatible accessory\
-  \ modules.<br/><br/> The city of Alkenstar owns a few dozen clockwork hunters for\
-  \ the purpose of keeping sewer tunnels free of vermin. Shieldmarshals sometimes\
-  \ drop boxes of extra crossbow bolts just inside sewer entrances, enabling clockwork\
-  \ hunters to resupply as needed.<br/><br/> Other businesses that tend to purchase\
-  \ clockwork hunters include warehouses, butchers, and bakers\u2014essentially, anywhere\
-  \ rats and other vermin tend to congregate. Though quick, a clockwork hunter's body\
-  \ isn't very sturdy and tends to fall apart after only minor abuse. Elite clockwork\
-  \ hunters are fitted with specialty armored plating, giving them resistance 2 to\
-  \ physical damage (except [[DATABASE/equipment/Adamantine Weapon|adamantine]] or\
-  \ [[DATABASE/equipment/Orichalcum Weapon|orichalcum]] ).<br/><br/><b><u>Recall Knowledge\
-  \ - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]]\
-  \ )</b>: DC 16<br/><b><u>Unspecific Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>:\
-  \ DC 11"
 dexterity: '+4'
 element: null
 fly_speed: null

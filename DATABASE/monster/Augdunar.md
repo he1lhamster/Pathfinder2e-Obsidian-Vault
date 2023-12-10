@@ -10,36 +10,6 @@ creature_ability:
 - Back Kick
 - Determined Trudge
 creature_family: null
-description: "Selectively bred over the course of centuries to be as strong, tough,\
-  \ and grouchy as the [[DATABASE/ancestry/Dwarf|dwarves]] of Highhelm themselves,\
-  \ augdunars are a unique breed of mule favored by the merchants of the Sky Citadel\
-  \ for transporting goods and assisting with manual labor. Unlike mules found elsewhere\
-  \ on Golarion, augdunars are capable of producing offspring\u2014though significantly\
-  \ fewer than ordinary equines. This has led to a steady, but controlled, stock of\
-  \ the creatures, allowing for the population to be self-sustaining. Augdunars are\
-  \ smaller than typical mules to accommodate dwarven height, measuring about four\
-  \ and a half feet tall and weighing between 400 and 600 pounds.<br/><br/> Because\
-  \ of their ability to carry loads beyond that of the traditional mule, in addition\
-  \ to the ability to breed amongst themselves, augdunars are a frequent target of\
-  \ thieves or opportunistic merchants. No Highhelm citizen worth their stone willingly\
-  \ sells an augdunar to outsiders, so attempted thefts on the road are common. Unfortunately\
-  \ for these robbers, the mules are quite loyal to their owners and bray loudly whenever\
-  \ a stranger handles their leads. Combined with a heavy kick to the skull from the\
-  \ animal, any attempts to make off with an augdunar have low odds of succeeding.<br/><br/>\
-  \ While rare, small groups of the augdunar have broken away from dwarven control\
-  \ over the years and created feral colonies in the Five Kings Mountains. These colonies\
-  \ are largely safe from ordinary predators, such as [[DATABASE/monster/Wolf|wolves]]\
-  \ , and graze on mountainside plants. Due to their low birthrate, feral augdunars\
-  \ don't need to have their population controlled, though caravanners do attempt\
-  \ to capture and redomesticate them in an effort to increase profit.<br/><br/> Despite\
-  \ being natural beasts of burden, dwarves don't often use augdunars as mounts. The\
-  \ mules seem to have an instinctive dislike of riders, to which the deep bite marks\
-  \ and hoofprints left in those who try can attest. That's not to say that some haven't\
-  \ succeeded, however. Those who put forth the effort required to create a bond with\
-  \ an augdunar find that their persistence can pay off. Augdunar loyalty is unparalleled\
-  \ and even thieves know to not attempt to steal an augdunar that's carrying a rider.<br/><br/><b><u>Recall\
-  \ Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 16<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>: DC 11"
 dexterity: '+1'
 element: null
 fly_speed: null

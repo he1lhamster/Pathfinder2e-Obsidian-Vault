@@ -10,9 +10,6 @@ creature_ability:
 - Attack of Opportunity
 - Shield Block
 creature_family: '[[DATABASE/monsterfamily/Skeleton|Skeleton]]'
-description: 'These skeletons retain the cunning they possessed in life.<br/><br/><b><u>Recall
-  Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 16<br/><b><u>Unspecific
-  Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>: DC 11'
 dexterity: '+4'
 element: null
 fly_speed: null

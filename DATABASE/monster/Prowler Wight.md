@@ -13,11 +13,6 @@ creature_ability:
 - Sneak Attack
 - Spawn Prowler Wight
 creature_family: '[[DATABASE/monsterfamily/Wight|Wight]]'
-description: 'Often found lurking in the dark, prowler wights wield subterfuge as
-  their greatest weapon. They frequently feign death in old sewers, graveyards, and
-  mausoleums, waiting for hapless victims to pass by before striking.<br/><br/><b><u>Recall
-  Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 28<br/><b><u>Unspecific
-  Lore</u></b>: DC 26<br/><b><u>Specific Lore</u></b>: DC 23'
 dexterity: '+5'
 element: null
 fly_speed: null

@@ -20,11 +20,6 @@ creature_ability:
 - Soul Ward
 - Vicious Criticals
 creature_family: '[[DATABASE/monsterfamily/Ravener|Ravener]]'
-description: 'The ravener presented here was once an [[DATABASE/monster/Ancient Red
-  Dragon|ancient red dragon]] .<br/><br/><b><u>Recall Knowledge - Dragon</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  )</b>: DC 47<br/><b><u>Recall Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 47<br/><b><u>Unspecific Lore</u></b>: DC 45<br/><b><u>Specific Lore</u></b>:
-  DC 42'
 dexterity: '+5'
 element: Fire
 fly_speed: '180'

@@ -10,10 +10,6 @@ creature_ability:
 - Sticky Feet
 - Tongue Grab
 creature_family: '[[DATABASE/monsterfamily/Frog|Frog]]'
-description: 'Giant frogs can grow up to 6 feet long and weigh over 200 pounds, with
-  rows of razor-sharp teeth lining their gaping mouths.<br/><br/><b><u>Recall Knowledge
-  - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 15<br/><b><u>Unspecific
-  Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>: DC 10'
 dexterity: '+2'
 element: null
 fly_speed: null

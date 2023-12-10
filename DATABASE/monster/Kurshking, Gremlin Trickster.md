@@ -1,84 +1,77 @@
 ﻿---
-ac: '24'
-alignment: LE
+ac: '19'
+alignment: NE
 all_resistance: null
 burrow_speed: null
-charisma: '+2'
+charisma: '+3'
 climb_speed: null
-constitution: '+2'
+constitution: '+1'
 creature_ability:
-- Black Apoxia
-- Brawling Critical
-- Sagebane
-- Steal Breath
-- Stunning Flurry
+- Collateral Damage
+- Lucky Stabs
+- Natural Thief
+- Unluck Aura
 creature_family: null
-description: 'A [[DATABASE/class_/Monk|monk]] who violated their monastic vows in
-  life might arise after death to become an undead horror known as a kurobozu. These
-  predators feast upon the breath of mortals, creeping on twisted limbs into bedrooms
-  to steal the life from sleeping victims. This act of feeding leaves its mark on
-  the victim in the form of a vile scent of rot on the victim''s breath and a debilitating
-  disease that eventually results in exhaustion and finally death.<br/><br/> Kurobozus
-  retain echoes of their ascetic training, enabling them to suck the breath from debilitated
-  foes in the midst of battle. Their malevolent cunning combined with ascetic discipline
-  helps them concoct elaborate and lengthy schemes to enact their jealous revenge.
-  Few kurobozus are convincing enough to persuade their onetime allies to break their
-  own oaths, but this doesn''t stop them from making the attempt.<br/><br/><b><u>Recall
-  Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 24<br/><b><u>Unspecific
-  Lore</u></b>: DC 22<br/><b><u>Specific Lore</u></b>: DC 19'
 dexterity: '+4'
 element: null
 fly_speed: null
-fortitude: '+12'
+fortitude: '+8'
 hardness: null
-hp: 90 ( negative healing )
-id: '1215'
-immunity:
-- '[[DATABASE/trait/Death|death]] effects'
-- '[[DATABASE/trait/Disease|disease]]'
-- '[[DATABASE/condition/Paralyzed|paralyzed]]'
-- '[[DATABASE/trait/Poison|poison]]'
-- '[[DATABASE/condition/Unconscious|unconscious]]'
+hp: '50'
+id: '1617'
+immunity: null
 intelligence: '+1'
-land_speed: '35'
+land_speed: '25'
 language:
 - '[[DATABASE/language/Common|Common]]'
-level: '6'
-max_speed: '35'
-name: Kurobozu
-perception: '+14'
-rarity: Uncommon
-reflex: '+16'
+- '[[DATABASE/language/Gnoll|Gnoll]]'
+- '[[DATABASE/language/Undercommon|Undercommon]]'
+level: '3'
+max_speed: '25'
+name: Kurshkin
+perception: '+10'
+rarity: Unique
+reflex: '+11'
 resistance: null
 rus_type_level: null
 school: null
 sense:
-- '[[DATABASE/monsterability/Darkvision|darkvision]]'
-size: Medium
+- (+2 to hear things) [[DATABASE/monsterability/Darkvision|darkvision]]
+size: Tiny
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +14'
-- '[[DATABASE/skill/Athletics|Athletics]] +15'
-- '[[DATABASE/skill/Lore|Monastic Lore]] +11'
-- '[[DATABASE/skill/Stealth|Stealth]] +14'
-source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
+- '[[DATABASE/skill/Arcana|Arcana]] +8'
+- '[[DATABASE/skill/Crafting|Crafting]] +8'
+- '[[DATABASE/skill/Deception|Deception]] +8'
+- '[[DATABASE/skill/Nature|Nature]] +8'
+- '[[DATABASE/skill/Stealth|Stealth]] +11'
+- '[[DATABASE/skill/Thievery|Thievery]] +9'
+source: '[[DATABASE/source/Pathfinder 169. Kindled Magic|Pathfinder #169: Kindled
+  Magic]]'
 speed:
-- 35 feet
-spell: null
-strength: '+5'
-strength_req: '5'
+- 25 feet
+spell:
+- '[[DATABASE/spell/Gust of Wind|Gust of Wind]]'
+- '[[DATABASE/spell/Prestidigitation|Prestidigitation]]'
+- '[[DATABASE/spell/Speak with Animals|Speak with Animals]]'
+- '[[DATABASE/spell/Spider Sting|Spider Sting]]'
+strength: '-2'
+strength_req: '-2'
 strongest_save:
 - Reflex
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
-- '[[DATABASE/trait/Undead|Undead]]'
+- '[[DATABASE/trait/Fey|Fey]]'
+- '[[DATABASE/trait/Gremlin|Gremlin]]'
+- '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
-will: '+14'
-wisdom: '+4'
+- Will
+weakness:
+- '[[DATABASE/equipment/Cold Iron Weapon|cold iron]] 5'
+will: '+8'
+wisdom: '-1'
 
 ---
 # Kurshking, Gremlin Trickster

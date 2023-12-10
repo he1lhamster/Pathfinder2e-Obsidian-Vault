@@ -11,13 +11,6 @@ creature_ability:
 - Lash Out
 - Sea Snake Venom
 creature_family: '[[DATABASE/monsterfamily/Snake|Snake]]'
-description: 'These lithe snakes like to frequent the shallow waters of tropical seas.
-  Their 4-foot-long, blue-green bodies easily blend into the water where they lurk
-  to ambush prey. Tales speak of massive sea snakes that swim in deeper waters and
-  follow ships, waiting for sailors to fall overboard or climbing the side to snatch
-  them from the deck.<br/><br/><b><u>Recall Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 14<br/><b><u>Unspecific Lore</u></b>: DC 12<br/><b><u>Specific Lore</u></b>:
-  DC 9'
 dexterity: '+3'
 element: null
 fly_speed: null

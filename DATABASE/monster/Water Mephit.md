@@ -10,20 +10,6 @@ creature_ability:
 - Breath Weapon
 - Drench
 creature_family: '[[DATABASE/monsterfamily/Elemental, Mephit|Elemental, Mephit]]'
-description: "Water mephits are consummate jokers who are always happy to trade a\
-  \ favor for a good laugh. Just as fire mephits are the ones who cleave closest to\
-  \ evil without fully crossing over into true villainy, water mephits are the friendliest\
-  \ of the mephits and therefore the closest to good. Still, one should take care\
-  \ in making assumptions about a water mephit\u2019s benevolence, for no one can\
-  \ reliably count on them to keep their inborn need for pranks and trickery at bay\
-  \ for long. Water mephits have blue-green skin that shimmers in light like   sh\
-  \ scales. Though water mephits\u2019 wings look more like webbed fins than limbs\
-  \ capable of flight, they can flap their wings to fly through the air as easily\
-  \ as any other mephit. Water mephits prefer to swim, when possible, and they leave\
-  \ the water only when they must.<br/><br/><b><u>Recall Knowledge - Elemental</u>\
-  \ ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]] )</b>: DC\
-  \ 15<br/><b><u>Unspecific Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>: DC\
-  \ 10"
 dexterity: '+3'
 element: Water
 fly_speed: '25'

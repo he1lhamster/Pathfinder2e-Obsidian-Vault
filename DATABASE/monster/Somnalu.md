@@ -18,14 +18,6 @@ creature_ability:
 - Sleep Sense
 - Vent Fumes
 creature_family: '[[DATABASE/monsterfamily/Somnalu|Somnalu]]'
-description: 'With its lithe, sinuous body and a flexible, twisting spine, Somnalu
-  bears a resemblance to a giant lizard, save for its striking visage. Spiny frills
-  run down the creature''s mottled black back, interlaced with dull red stripes that
-  streak from head to tail. Its two sets of forelimbs are bound to each other by small
-  webs of skin. Its distinctive face lacks any visible mouth, nose, or ears, instead
-  possessing only a huge red eye surrounded by six smaller, secondary eyes.<br/><br/><b><u>Recall
-  Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 44<br/><b><u>Unspecific
-  Lore</u></b>: DC 42<br/><b><u>Specific Lore</u></b>: DC 39'
 dexterity: '+6'
 element: null
 fly_speed: null

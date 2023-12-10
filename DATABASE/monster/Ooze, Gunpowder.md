@@ -1,98 +1,71 @@
 ﻿---
-ac: '39'
-alignment: CE
+ac: '29'
+alignment: N
 all_resistance: null
 burrow_speed: null
-charisma: '+9'
-climb_speed: null
-constitution: '+5'
+charisma: '-5'
+climb_speed: '20'
+constitution: '+6'
 creature_ability:
-- Change Shape
-- Guileful Charm
-- Sapping Critical
-creature_family: null
-description: "Gumihos are legendary nine-tailed fox creatures who, when disguised\
-  \ in humanoid form, use charm and guile to lure prey deep into the forest before\
-  \ revealing their true form and striking. The green-eyed canids use brutally sharp\
-  \ fangs to tear out their victim's throat and feast on their liver. Those few who\
-  \ survive a gumiho's trap recall the canid's eerie green eyes as well as a strange\
-  \ marble amulet warn around the monster's neck.<br/><br/> Old stories claim that\
-  \ a fox transforms into a gumiho once it has lived for a thousand years, quadrupling\
-  \ in size, growing eight additional tails, and gaining the power to change shape.\
-  \ Terrifyingly, it also gains an insatiable hunger for the livers of people. This\
-  \ hunger is so closely connected to a gumiho's power that if it abstains from eating\
-  \ liver for one thousand days, the gumiho loses its magic and permanently takes\
-  \ on its humanoid guise\u2014also losing its evil nature in the process.<br/><br/><b><u>Recall\
-  \ Knowledge - Fey</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 38<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 36<br/><b><u>Specific Lore</u></b>: DC 33"
-dexterity: '+8'
+- Combust
+- Gunpowder Residue
+- Motion Sense
+- Split
+creature_family: '[[DATABASE/monsterfamily/Ooze|Ooze]]'
+dexterity: '+3'
 element: null
 fly_speed: null
-fortitude: '+26'
+fortitude: '+28'
 hardness: null
-hp: '310'
-id: '1413'
+hp: '400'
+id: '2412'
 immunity:
-- '[[DATABASE/trait/Charm|charm]]'
-intelligence: '+6'
-land_speed: '40'
-language:
-- '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Sylvan|Sylvan]]'
-level: '17'
-max_speed: '40'
-name: Gumiho
-perception: '+29'
-rarity: Uncommon
-reflex: '+32'
+- critical hits
+- '[[DATABASE/trait/Mental|mental]]'
+- piercing
+- precision
+- slashing
+- '[[DATABASE/condition/Unconscious|unconscious]]'
+- '[[DATABASE/trait/Visual|visual]]'
+intelligence: '-5'
+land_speed: '20'
+language: null
+level: '14'
+max_speed: '20'
+name: Gunpowder Ooze
+perception: '+22'
+rarity: Common
+reflex: '+21'
 resistance: null
 rus_type_level: null
 school: null
 sense:
-- '[[DATABASE/monsterability/Darkvision|darkvision]]'
-- '[[DATABASE/monsterability/Scent|scent]] (imprecise) 60 feet'
-size: Medium
+- motion sense 120 feet
+- no vision
+size: Large
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +30'
-- '[[DATABASE/skill/Diplomacy|Diplomacy]] +33'
-- '[[DATABASE/skill/Deception|Deception]] +33'
-- '[[DATABASE/skill/Society|Society]] +28'
-- '[[DATABASE/skill/Stealth|Stealth]] +30'
-source: '[[DATABASE/source/Pathfinder 168. King of the Mountain|Pathfinder #168: King
-  of the Mountain]]'
+- '[[DATABASE/skill/Athletics|Athletics]] +28'
+source: '[[DATABASE/source/Impossible Lands|Impossible Lands]]'
 speed:
-- 40 feet
-spell:
-- '[[DATABASE/spell/Charm|Charm]]'
-- '[[DATABASE/spell/Dancing Lights|DancingLights]]'
-- '[[DATABASE/spell/Daze|Daze]]'
-- '[[DATABASE/spell/Disappearance|Disappearance]]'
-- '[[DATABASE/spell/Dominate|Dominate]]'
-- '[[DATABASE/spell/Enthrall|Enthrall]]'
-- '[[DATABASE/spell/Invisibility|Invisibility]]'
-- '[[DATABASE/spell/Power Word Kill|Power Word Kill]]'
-- '[[DATABASE/spell/Power Word Stun|Power Word Stun]]'
-- '[[DATABASE/spell/Project Image|Project Image]]'
-- '[[DATABASE/spell/Repulsion|Repulsion]]'
-- '[[DATABASE/spell/Sleep|Sleep]]'
-- '[[DATABASE/spell/Subconscious Suggestion|Subconscious Suggestion]]'
-- '[[DATABASE/spell/Warp Mind|Warp Mind]]'
-strength: '+4'
-strength_req: '4'
+- 20 feet
+- climb 20 feet
+spell: null
+strength: '+8'
+strength_req: '8'
 strongest_save:
-- Reflex
+- Fortitude
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Fey|Fey]]'
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
+- '[[DATABASE/trait/Mindless|Mindless]]'
+- '[[DATABASE/trait/Ooze|Ooze]]'
 type: Creature
-vision: Darkvision
+vision: null
 weakest_save:
-- Fortitude
+- Reflex
 weakness:
-- '[[DATABASE/equipment/Cold Iron Weapon|cold iron]] 15'
-will: '+29'
-wisdom: '+6'
+- '[[DATABASE/trait/Fire|fire]] 20'
+will: '+24'
+wisdom: '+2'
 
 ---
 # Ooze, Gunpowder

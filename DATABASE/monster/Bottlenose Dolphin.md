@@ -11,13 +11,6 @@ creature_ability:
 - Deep Breath
 - Ramming Speed
 creature_family: '[[DATABASE/monsterfamily/Dolphin|Dolphin]]'
-description: 'The bottlenose dolphin is the most common and widespread species of
-  dolphin. They are social predators who hunt shallow seas and rivers in large family
-  groups called pods. Sailors are fond of bottlenose dolphins and frequently tell
-  tales of how they save drowning fishers or kill sharks with blows from their powerful
-  snouts. <br/><br/><b><u>Recall Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 14<br/><b><u>Unspecific Lore</u></b>: DC 12<br/><b><u>Specific Lore</u></b>:
-  DC 9'
 dexterity: '+3'
 element: null
 fly_speed: null

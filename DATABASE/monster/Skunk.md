@@ -9,11 +9,6 @@ constitution: '+2'
 creature_ability:
 - Spray Musk
 creature_family: '[[DATABASE/monsterfamily/Skunk|Skunk]]'
-description: 'These omnivores are most active at twilight, feeding on everything from
-  berries to grubs and insects. Some farmers even encourage the animals to live near
-  their farms to keep destructive pest populations low.<br/><br/><b><u>Recall Knowledge
-  - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 13<br/><b><u>Unspecific
-  Lore</u></b>: DC 11<br/><b><u>Specific Lore</u></b>: DC 8'
 dexterity: '+3'
 element: null
 fly_speed: null

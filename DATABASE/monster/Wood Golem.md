@@ -12,21 +12,6 @@ creature_ability:
 - Splinter Volley
 - Vulnerable to Shape Wood
 creature_family: '[[DATABASE/monsterfamily/Golem|Golem]]'
-description: 'Wood golems are often given vaguely humanoid shapes, almost as if cobbled
-  together from scraps of firewood and discarded burls. It''s less common for wood
-  golems to have artistic embellishments such as engraved patterns, or to be carved
-  in the shapes of different types of creatures to meet the tastes of their owners.
-  While wealthy patrons have been known to commission wood golems to be painstakingly
-  carved to resemble themselves or their ancestors, to serve dual purposes of protection
-  and ego bolstering, most wood golem crafters don''t bother. Druids and creatures
-  who protect woodlands, such as arboreals, typically see wood golems as an affront
-  or an abomination, akin to the horror humanoids often feel when facing a carrion
-  or flesh golem. As a result, it is rare to see such creatures serving as guardians
-  for fey or druidic holy sites, despite the thematic match between the wood golem''s
-  appearance and such locations.<br/><br/><b><u>Recall Knowledge - Construct</u> (
-  [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]] )</b>: DC
-  24<br/><b><u>Unspecific Lore</u></b>: DC 22<br/><b><u>Specific Lore</u></b>: DC
-  19'
 dexterity: '+4'
 element: null
 fly_speed: null

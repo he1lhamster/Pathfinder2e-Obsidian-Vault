@@ -11,13 +11,6 @@ creature_ability:
 - Sneak Attack
 - Sudden Surge
 creature_family: '[[DATABASE/monsterfamily/Zombie|Zombie]]'
-description: 'If a [[DATABASE/monster/Husk Zombie|husk zombie]] survives for several
-  years, their body continues to dry out, their flesh hardens, and their eyes turn
-  into pale, glowing orbs set deep into otherwise empty sockets. Known as the withered,
-  these zombies are cunning, capable of forming complex plans and even setting traps
-  utilizing their less-intelligent brethren to lure the unsuspecting into deadly ambushes.<br/><br/><b><u>Recall
-  Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 20<br/><b><u>Unspecific
-  Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>: DC 15'
 dexterity: '+4'
 element: null
 fly_speed: null

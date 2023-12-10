@@ -12,19 +12,6 @@ creature_ability:
 - Furious Swing
 - Tighten Bracts
 creature_family: null
-description: 'The counteflora resembles an oversized dandelion with black flowers
-  and sinister patterns on its bracts, which it can contract for additional protection
-  and to turn its flower head into a deadly bashing weapon. Unlike dandelions, countefloras
-  do not have separate flowering and seeding stages, and can release their intoxicating
-  seedpods as long as their bracts are open.<br/><br/> Countefloras exhibit a strange
-  intellect and communicate with one another by releasing invisible pheromones into
-  the air. Alone, a desperate counteflora may ally with another creature if it is
-  offered water or fertile soil. Contrary to popular belief, countefloras absorb sunlight
-  for sustenance; they do not attack other creatures to feast upon them. Rather, the
-  reason countefloras go to such lengths to kill their opponents is to fertilize the
-  surrounding soil and create a nutrient-rich environment for their seedpods.<br/><br/><b><u>Recall
-  Knowledge - Plant</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 27<br/><b><u>Unspecific
-  Lore</u></b>: DC 25<br/><b><u>Specific Lore</u></b>: DC 22'
 dexterity: '+6'
 element: null
 fly_speed: null

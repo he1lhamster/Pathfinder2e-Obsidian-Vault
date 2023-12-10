@@ -10,19 +10,6 @@ creature_ability:
 - Leaping Charge
 - Pack Attack
 creature_family: '[[DATABASE/monsterfamily/Dinosaur|Dinosaur]]'
-description: "A smaller cousin of the deinonychus, the velociraptor is a swift, cunning\
-  \ pack hunter. It has no fear of larger creatures, and a group of these dinosaurs\
-  \ won\u2019t hesitate to attack creatures the size of a horse. Velociraptors are\
-  \ social animals, and tend to live in groups of up to a dozen other velociraptors.\
-  \ They have manes of feathery plumage that extend down their backs and along the\
-  \ sides of their arms, legs, and tail, while their underbellies and flanks are scaly.\
-  \ These feathers allow them to blend into their natural terrains with ease, but\
-  \ when excited, attempting to intimidate, or seeking a mate, a velociraptor can\
-  \ puff and frill this plumage to expose much brighter colors normally covered by\
-  \ the longer feathers. A typical velociraptor is 1-1/2 feet tall, 7 feet long, and\
-  \ weighs 35 pounds.<br/><br/><b><u>Recall Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 15<br/><b><u>Unspecific Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>:\
-  \ DC 10"
 dexterity: '+3'
 element: null
 fly_speed: null

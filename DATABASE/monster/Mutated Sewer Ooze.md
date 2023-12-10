@@ -11,9 +11,6 @@ creature_ability:
 - Motion Sense
 - Noxious Scent
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Ooze</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 32<br/><b><u>Unspecific
-  Lore</u></b>: DC 30<br/><b><u>Specific Lore</u></b>: DC 27'
 dexterity: '-2'
 element: null
 fly_speed: null

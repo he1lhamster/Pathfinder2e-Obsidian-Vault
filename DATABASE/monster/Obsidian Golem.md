@@ -13,16 +13,6 @@ creature_ability:
 - Shred Armor
 - Vulnerable to Shatter
 creature_family: '[[DATABASE/monsterfamily/Golem|Golem]]'
-description: "The art of golem animation is not limited to societies with access to\
-  \ expensive crafting materials or a long history of arcane mastery. Among the resource-poor\
-  \ [[DATABASE/monsterfamily/Xulgath|xulgaths]] who dwell in the Darklands, especially\
-  \ those hardy clutches that call the Black Desert their home, obsidian is one of\
-  \ the most common crafting materials available. Combine this ingredient with a powerful\
-  \ spellcaster and the xulgath tradition of inflection\u2014magically warping and\
-  \ working normally inflexible stone\u2014and the end result is an obsidian golem.<br/><br/><b><u>Recall\
-  \ Knowledge - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]]\
-  \ )</b>: DC 37<br/><b><u>Unspecific Lore</u></b>: DC 35<br/><b><u>Specific Lore</u></b>:\
-  \ DC 32"
 dexterity: '+6'
 element: null
 fly_speed: '25'

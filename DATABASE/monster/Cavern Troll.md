@@ -14,18 +14,6 @@ creature_ability:
 - Sunlight Petrification
 - Throw Rock
 creature_family: '[[DATABASE/monsterfamily/Troll|Troll]]'
-description: "Insatiable scavengers stalking the eternal gloom of the Darklands, cavern\
-  \ trolls consume all in their path\u2014even rocks and minerals when more nourishing\
-  \ sustenance is scarce. These rocky goliaths can tunnel through stone with their\
-  \ iron-sharp claws.<br/> Cavern trolls rarely venture to the surface world, for\
-  \ they have a debilitating vulnerability to sunlight that petrifies them on sustained\
-  \ contact. Unlike common trolls, cavern trolls can regenerate wounds dealt by fire.\
-  \ The crystalline nature of their skin, however, permits sonic attacks to neutralize\
-  \ their signature regeneration.<br/> As cavern trolls age, their flinty skin becomes\
-  \ studded with small crystals and stones of various composition. Paragons of their\
-  \ kind have toothy maws replete with large, crystalline fangs. A typical cavern\
-  \ troll stands 14 feet in height and weighs about 2,000 pounds.<br/><br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 22<br/><b><u>Specific Lore</u></b>: DC 19"
 dexterity: '+2'
 element: Earth
 fly_speed: null

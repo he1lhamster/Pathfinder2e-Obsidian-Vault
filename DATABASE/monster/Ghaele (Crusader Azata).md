@@ -1,96 +1,94 @@
 ﻿---
-ac: '17'
-alignment: null
+ac: '34'
+alignment: CG
 all_resistance: null
 burrow_speed: null
-charisma: '+4'
+charisma: '+5'
 climb_speed: null
-constitution: '+0'
+constitution: '+5'
 creature_ability:
-- Attuned Element
-- Change Shape
-- Inspiring Influence
-- Little Wish
-creature_family: '[[DATABASE/monsterfamily/Genie|Genie]]'
-description: 'Gennayns are minor genies who often serve as emissaries and messengers
-  for greater elemental beings. While many find purpose in this humble mission, their
-  true calling and interest is in the arts.<br/><br/> They often appear as miniature,
-  athletic humanoids with wisps of elemental energy continually dissipating from their
-  bodies. These elemental energies often reflect their emotions and attuned element.
-  Gennayns are also fond of ostentatious rings, amulets, and armbands.<br/><br/> Gennayns
-  eagerly assist powerful beings who reward and treat them well, but they''re just
-  as quick to abandon those they consider boring, stingy, or abusive. Beings who destroy
-  artwork or mistreat artists will earn their eternal wrath.<br/><br/><b><u>Recall
-  Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 16<br/><b><u>Unspecific Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>:
-  DC 11'
+- Choose Weakness
+- Free Blade
+- Ghaele's Gaze
+- Holy Blade
+- Light Form
+creature_family: '[[DATABASE/monsterfamily/Azata|Azata]]'
 dexterity: '+4'
 element: null
-fly_speed: '15'
-fortitude: '+4'
+fly_speed: '100'
+fortitude: '+26'
 hardness: null
-hp: '30'
-id: '2687'
+hp: '235'
+id: '37'
 immunity: null
-intelligence: '+2'
-land_speed: '15'
+intelligence: '+3'
+land_speed: '35'
 language:
-- '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Muan|Muan]]'
-- '[[DATABASE/language/Petran|Petran]]'
-- '[[DATABASE/language/Pyric|Pyric]]'
-- '[[DATABASE/language/Sussuran|Sussuran]]'
-- '[[DATABASE/language/Talican|Talican]]'
-- '[[DATABASE/language/Thalassic|Thalassic]]'
-level: '2'
-max_speed: '15'
-name: Gennayn
-perception: '+8'
+- '[[DATABASE/language/Celestial|Celestial]]'
+- '[[DATABASE/language/Draconic|Draconic]]'
+- '[[DATABASE/language/Infernal|Infernal]] ; [[DATABASE/spell/Tongues|tongues]]'
+level: '13'
+max_speed: '100'
+name: Ghaele
+perception: '+25'
 rarity: Common
-reflex: '+10'
+reflex: '+20'
 resistance:
-- attuned element 5 (see below)
+- energy 15 (see Choose Weakness)
 rus_type_level: null
 school: null
 sense:
-- '[[DATABASE/monsterability/Darkvision|darkvision]]'
-size: Tiny
+- darkvision
+- '[[DATABASE/spell/See Invisibility|see invisibility]]'
+size: Medium
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +8'
-- '[[DATABASE/skill/Arcana|Arcana]] +6'
-- '[[DATABASE/skill/Diplomacy|Diplomacy]] +8'
-- '[[DATABASE/skill/Nature|Nature]] +6'
-- '[[DATABASE/skill/Performance|Performance]] +8'
-- '[[DATABASE/skill/Society|Society]] +6'
-- '[[DATABASE/skill/Stealth|Stealth]] +10'
-source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +27'
+- '[[DATABASE/skill/Athletics|Athletics]] +26'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +26'
+- '[[DATABASE/skill/Nature|Nature]] +23'
+- '[[DATABASE/skill/Religion|Religion]] +23'
+- '[[DATABASE/skill/Stealth|Stealth]] +21'
+- '[[DATABASE/skill/Lore|Warfare Lore]] +26'
+source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
-- 15 feet
-- fly 15 feet
+- 35 feet
+- fly 100 feet
 spell:
-- '[[DATABASE/spell/Comprehend Language|Comprehend Language]]'
-- '[[DATABASE/spell/Guidance|Guidance]]'
+- '[[DATABASE/spell/Banishment|Banishment]]'
+- '[[DATABASE/spell/Charm|Charm]]'
+- '[[DATABASE/spell/Chromatic Wall|Chromatic Wall]]'
+- '[[DATABASE/spell/Continual Flame|Continual Flame]]'
+- '[[DATABASE/spell/Dancing Lights|Dancing Lights]]'
+- '[[DATABASE/spell/Detect Alignment|Detect Alignment]]'
+- '[[DATABASE/spell/Detect Magic|Detect Magic]]'
+- '[[DATABASE/spell/Dispel Magic|Dispel Magic]]'
 - '[[DATABASE/spell/Heal|Heal]]'
+- '[[DATABASE/spell/Illusory Disguise|Illusory Disguise]]'
+- '[[DATABASE/spell/Illusory Scene|Illusory Scene]]'
 - '[[DATABASE/spell/Invisibility|Invisibility]]'
 - '[[DATABASE/spell/Light|Light]]'
-- '[[DATABASE/spell/Prestidigitation|Prestidigitation]]'
-- '[[DATABASE/spell/Purify Food and Drink|Purify Food and Drink]]'
-- '[[DATABASE/spell/Summon Instrument|Summon Instrument]]'
-strength: '-2'
-strength_req: '-2'
+- '[[DATABASE/spell/Mind Reading|MindReading]]'
+- '[[DATABASE/spell/Prismatic Spray|Prismatic Spray]]'
+- '[[DATABASE/spell/Restoration|Restoration]]'
+- '[[DATABASE/spell/See Invisibility|SeeInvisibility]]'
+- '[[DATABASE/spell/Tongues|Tongues]]'
+strength: '+7'
+strength_req: '7'
 strongest_save:
-- Reflex
+- Fortitude
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Elemental|Elemental]]'
-- '[[DATABASE/trait/Genie|Genie]]'
+- '[[DATABASE/trait/Azata|Azata]]'
+- '[[DATABASE/trait/Celestial|Celestial]]'
 type: Creature
 vision: Darkvision
 weakest_save:
-- Fortitude
-weakness: null
-will: '+8'
-wisdom: '+2'
+- Reflex
+weakness:
+- cold iron 15
+- evil 15
+will: '+23'
+wisdom: '+4'
 
 ---
 # Ghaele (Crusader Azata)

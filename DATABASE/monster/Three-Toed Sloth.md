@@ -9,14 +9,6 @@ constitution: '+3'
 creature_ability:
 - Rend
 creature_family: '[[DATABASE/monsterfamily/Sloth|Sloth]]'
-description: 'The diminutive three-toed sloth is a solitary, tree-dwelling creature.
-  Possessing a gentle nature and unassuming countenance, it has little to defend itself
-  with other than its surprisingly fearsome climbing claws. These sloths are sometimes
-  used as lookouts by secretive druid enclaves, as the symbiotic algae in their fur
-  makes them difficult to spot in tree canopies, though their slow speed leaves them
-  vulnerable on the ground.<br/><br/><b><u>Recall Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 13<br/><b><u>Unspecific Lore</u></b>: DC 11<br/><b><u>Specific Lore</u></b>:
-  DC 8'
 dexterity: '+1'
 element: null
 fly_speed: null

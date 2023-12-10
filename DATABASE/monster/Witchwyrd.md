@@ -1,100 +1,51 @@
 ﻿---
-ac: '22'
-alignment: LN
+ac: null
+alignment: null
 all_resistance: null
 burrow_speed: null
-charisma: '+5'
+charisma: null
 climb_speed: null
-constitution: '+1'
-creature_ability:
-- Absorb Force
-- Force Bolt
+constitution: null
+creature_ability: null
 creature_family: null
-description: "Witchwyrds conceal most of their faces, leaving only their eyes unmasked.\
-  \ Their inscrutability is a boon to one of their most significant interests\u2014\
-  mercantilism\u2014 and many haughty witchwyrds openly revel in the befuddlement\
-  \ inspired by their mysterious guises and mannerisms. Witchwyrds have a keen eye\
-  \ for new opportunities and markets, and a witchwyrd almost always knows when someone\
-  \ is trying to pull one over on them.<br/><br/> These four-armed humanoid creatures\
-  \ have hairless blue-gray skin, are typically 6-1/2 feet tall, and weigh 300 pounds.\
-  \ Their hands have three evenly sized and spaced digits in a tripod-like arrangement.\
-  \ When not trying to blend in with the local community, witchwyrds favor outlandish,\
-  \ loose-fitting clothes in bright reds or yellows and a signature conical hat. They\
-  \ tend to prefer the driest, warmest regions of the lands they visit\u2014perhaps\
-  \ an indicator of their mysterious home world. This, however, is the only indicator;\
-  \ witchwyrds are notoriously close-mouthed about details of this distant world,\
-  \ and with good reason: most witchwyrds on Golarion have never visited their ancestral\
-  \ home. To these witchwyrds, the notion of a home planet is a constant thorn in\
-  \ their side, and when asked, many choose to ignore the question altogether. Others\
-  \ are so agitated by these queries that they respond with impatience or even violence.\
-  \ Some scholars have theorized a connection between witchwyrds and several other\
-  \ four-armed creatures, but like with questions of their place of origin, witchwyrds\
-  \ have little to say about the topic.<br/><br/><b><u>Recall Knowledge - Humanoid</u>\
-  \ ( [[DATABASE/skill/Society|Society]] )</b>: DC 24<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 22<br/><b><u>Specific Lore</u></b>: DC 19"
-dexterity: '+3'
+dexterity: null
 element: null
 fly_speed: null
-fortitude: '+13'
+fortitude: null
 hardness: null
-hp: '110'
-id: '861'
+hp: null
+id: '486'
 immunity: null
-intelligence: '+4'
-land_speed: '25'
-language:
-- '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Draconic|Draconic]] ; one or more planar languages; [[DATABASE/spell/Tongues|tongues]]'
-level: '6'
-max_speed: '25'
+intelligence: null
+land_speed: null
+language: null
+level: null
+max_speed: null
 name: Witchwyrd
-perception: '+12'
-rarity: Uncommon
-reflex: '+13'
-resistance:
-- force 5
+perception: null
+rarity: null
+reflex: null
+resistance: null
 rus_type_level: null
 school: null
-sense:
-- '[[DATABASE/monsterability/Darkvision|darkvision]]'
-size: Medium
-skill:
-- '[[DATABASE/skill/Arcana|Arcana]] +16'
-- '[[DATABASE/skill/Deception|Deception]] +15'
-- '[[DATABASE/skill/Lore|Desert Lore]] +14'
-- '[[DATABASE/skill/Lore|one or more Lore skills related to a specific plane]] +14'
-- '[[DATABASE/skill/Diplomacy|Diplomacy]] +15'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +15'
-source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
-speed:
-- 25 feet
-spell:
-- '[[DATABASE/spell/Detect Magic|Detect Magic]]'
-- '[[DATABASE/spell/Dimension Door|Dimension Door]]'
-- '[[DATABASE/spell/Dispel Magic|Dispel Magic]]'
-- '[[DATABASE/spell/Floating Disk|Floating Disk]]'
-- '[[DATABASE/spell/Mirror Image|Mirror Image]]'
-- '[[DATABASE/spell/Resilient Sphere|Resilient Sphere]]'
-- '[[DATABASE/spell/Resist Energy|Resist Energy]]'
-- '[[DATABASE/spell/Suggestion|Suggestion]]'
-- '[[DATABASE/spell/Tongues|Tongues]]'
-- '[[DATABASE/spell/Unseen Servant|Unseen Servant]]'
-strength: '+3'
-strength_req: '3'
-strongest_save:
-- Will
+sense: null
+size: null
+skill: null
+source: '[[DATABASE/source/Pathfinder 149. Against the Scarlet Triad|Pathfinder #149:
+  Against the Scarlet Triad]]'
+speed: null
+spell: null
+strength: null
+strength_req: null
+strongest_save: null
 swim_speed: null
-trait:
-- '[[DATABASE/trait/Humanoid|Humanoid]]'
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
-type: Creature
-vision: Darkvision
-weakest_save:
-- Fortitude
-- Reflex
+trait: null
+type: null
+vision: null
+weakest_save: null
 weakness: null
-will: '+15'
-wisdom: '+3'
+will: null
+wisdom: null
 
 ---
 # Witchwyrd

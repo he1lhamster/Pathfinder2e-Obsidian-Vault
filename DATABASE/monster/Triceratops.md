@@ -12,21 +12,6 @@ creature_ability:
 - Trample
 - Vicious Gore
 creature_family: '[[DATABASE/monsterfamily/Dinosaur|Dinosaur]]'
-description: "Triceratopses are muscular quadrupeds with powerful but short legs,\
-  \ thick necks, and heads crowned by a wide, bony frill. Though they bear a large\
-  \ horn on their snout and one on each brow, these dinosaurs are herbivores and use\
-  \ these bony protrusions only to defend themselves from attackers or in dramatic\
-  \ clashes against other triceratopses for grazing territory or mates. Short-tempered\
-  \ and obstinate, triceratopses are unlikely to back down from a fight unless they\
-  \ are hopelessly outmatched, and the creatures are known to fight to the death for\
-  \ no apparent reason beyond stubbornness. Triceratopses often serve as mounts for\
-  \ lizardfolk, orcs, and giants, who ride comfortably behind the dinosaurs\u2019\
-  \ protective bone frills. A triceratops is 30 feet long and weighs as much as 10\
-  \ tons.<br/><br/> Triceratopses are surely the most well-known of the dinosaurs\
-  \ known as ceratopids, but many others exist. For example, the smaller styracosauruses\
-  \ have only one horn but several horn-like protrusions on their frills.<br/><br/><b><u>Recall\
-  \ Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 24<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 22<br/><b><u>Specific Lore</u></b>: DC 19"
 dexterity: '+0'
 element: null
 fly_speed: null

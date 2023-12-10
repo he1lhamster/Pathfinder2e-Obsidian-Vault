@@ -11,31 +11,6 @@ creature_ability:
 - Hide and Seek
 - Rootbound
 creature_family: '[[DATABASE/monsterfamily/Gathlain|Gathlain]]'
-description: "Gathlains have made a name for themselves as inquisitive and mischievous,\
-  \ as well as flighty and distractable. These eccentric little fey want nothing more\
-  \ than to explore the many wonders of the world for their own pleasure.<br/><br/>\
-  \ Born of magical trees in seed pods that float hundreds of miles on the wind, gathlains\
-  \ are a bizarre mix of flesh and flora. Sprigs of mistletoe bloom from their back\
-  \ and form a delicate pair of wings. They enjoy adorning themselves with oddities\
-  \ found on their journeys, such as beads, pieces of fine cloth, and bits of armor.\
-  \ The fey see these accessories as trophies, proof of their travels, and mementos\
-  \ of their adventures.<br/><br/> The typical gathlain is only 2 feet tall, but their\
-  \ small size doesn't deter them from seeking out and exploring potentially dangerous\
-  \ places. They sometimes even use their size to their advantage, squeezing through\
-  \ tight spaces that most would never be able to fit through. Moreover, their vine-laced\
-  \ wings let them reach heights many adventurers would find daunting. These traits\
-  \ have made them celebrated explorers whose presence is welcome in a group of travelers\u2014\
-  so long as everyone is prepared for their nigh-endless questions. A conversation\
-  \ with a gathlain can feel more like an interrogation, as they care little for the\
-  \ comfort of others if it means they will learn something new and interesting to\
-  \ add to their range of knowledge.<br/><br/> Gathlains are particularly fond of\
-  \ [[DATABASE/ancestry/Gnome|gnomes]] , as they feel a sort of familial attachment\
-  \ to their exiled fey kin, and attempt to ingratiate themselves with any gnomes\
-  \ they run across. Gnomes don't always return this affection and many tend to distrust\
-  \ gathlains, due to the smaller creatures' gossipy and flighty nature.<br/><br/><b><u>Recall\
-  \ Knowledge - Fey</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 17<br/><b><u>Recall\
-  \ Knowledge - Plant</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 17<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 15<br/><b><u>Specific Lore</u></b>: DC 12"
 dexterity: '+4'
 element: null
 fly_speed: '30'

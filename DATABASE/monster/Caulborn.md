@@ -12,24 +12,6 @@ creature_ability:
 - Cooperative Scrying
 - Thoughtsense
 creature_family: '[[DATABASE/monsterfamily/Ennosite|Ennosite]]'
-description: 'Telepathic prophets and historians, caulborn gather in small cabals
-  for protection and camaraderie, using their collective brainpower to unravel cosmic
-  conundrums. Once they''ve exhausted an area''s secrets, they depart, seeking new
-  homes hidden within cities, sequestering themselves within caves, or lurking in
-  forgotten corners of the planes. From the moment an [[DATABASE/monster/Ioton|ioton]]
-  absorbs especially profound thoughts and begins taking on the permanent form of
-  a young caulborn, these ennosites'' genius and toughness grow with each new discovery.
-  Absorbing such information destabilizes their corporeal form, like when books are
-  stacked too high, so excess knowledge seeps from a caulborn''s body, causing a literal
-  brain drain that caulborn find incredibly vexing. To avoid this occurrence, caulborn
-  must feed on others'' psychic energy to maintain themselves, which is usually a
-  harmless process. Especially hungry caulborn even abduct prey.<br/><br/> Despite
-  their need to feed, caulborn rarely care to interact with other creatures, especially
-  beings that could react to their appearance with fear or hostility. They occasionally
-  make exceptions for accomplished scholars or storied travelers, however, bartering
-  their own lore for outside secrets.<br/><br/><b><u>Recall Knowledge - Astral</u>
-  ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 25<br/><b><u>Unspecific Lore</u></b>:
-  DC 23<br/><b><u>Specific Lore</u></b>: DC 20'
 dexterity: '+4'
 element: null
 fly_speed: null

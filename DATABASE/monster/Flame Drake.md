@@ -13,14 +13,6 @@ creature_ability:
 - Smoke Vision
 - Speed Surge
 creature_family: '[[DATABASE/monsterfamily/Drake|Drake]]'
-description: "The distant kin of red dragons, flame drakes thankfully lack the intelligence\
-  \ and ambition of their larger cousins, but are no less territorial or violent.\
-  \ Flame drakes dwell near volcanoes and magma, but it\u2019s not unheard of for\
-  \ one to drift into nearby areas like forests or wooded hills. Their scales are\
-  \ usually some shade of red, occasionally fading to smoky blacks and grays along\
-  \ the edges of their wings and the tips of their tails.<br/><br/><b><u>Recall Knowledge\
-  \ - Dragon</u> ( [[DATABASE/skill/Arcana|Arcana]] )</b>: DC 20<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>: DC 15"
 dexterity: '+1'
 element: Fire
 fly_speed: '50'

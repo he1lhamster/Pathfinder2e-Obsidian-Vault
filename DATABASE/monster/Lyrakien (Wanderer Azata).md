@@ -1,86 +1,77 @@
 ﻿---
-ac: '40'
-alignment: CE
+ac: '17'
+alignment: CG
 all_resistance: null
 burrow_speed: null
-charisma: '+5'
+charisma: '+3'
 climb_speed: null
-constitution: '+9'
+constitution: '+1'
 creature_ability:
-- All-Around Vision
-- Attack of Opportunity
-- Blood Scent
-- Capsize
-- Lusca Venom
-- Ravenous Jaws
-- ''
-- Rend
-- Storm Bringer
-- Swallow Whole
-creature_family: null
-description: 'A lusca is a predatory sea monster that resembles a three-headed shark
-  with the body of an octopus. Ferocious electrical storms usually herald a lusca''s
-  arrival; such violent bursts of electricity result from the creature''s superconductive
-  flesh, which allows the lusca to store energy from lightning strikes that it can
-  then discharge at foes.<br/><br/><b><u>Recall Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]]
-  )</b>: DC 38<br/><b><u>Unspecific Lore</u></b>: DC 36<br/><b><u>Specific Lore</u></b>:
-  DC 33'
-dexterity: '+5'
+- Starlight Blast
+creature_family: '[[DATABASE/monsterfamily/Azata|Azata]]'
+dexterity: '+4'
 element: null
-fly_speed: null
-fortitude: '+32'
+fly_speed: '50'
+fortitude: '+4'
 hardness: null
-hp: '320'
-id: '1010'
-immunity:
-- electricity
-intelligence: '+0'
-land_speed: '10'
+hp: '25'
+id: '34'
+immunity: null
+intelligence: '+1'
+land_speed: '25'
 language:
-- '[[DATABASE/language/Aquan|Aquan]]'
+- '[[DATABASE/language/Celestial|Celestial]]'
 - '[[DATABASE/language/Common|Common]]'
-level: '17'
+- '[[DATABASE/language/Draconic|Draconic]]'
+- '[[DATABASE/language/Infernal|Infernal]]'
+level: '1'
 max_speed: '50'
-name: Lusca
-perception: '+31'
-rarity: Uncommon
-reflex: '+26'
+name: Lyrakien
+perception: '+8'
+rarity: Common
+reflex: '+7'
 resistance: null
 rus_type_level: null
 school: null
 sense:
-- blood scent
-- '[[DATABASE/monsterability/Darkvision|darkvision]]'
-- '[[DATABASE/monsterability/Scent|scent]] (imprecise) 100 feet'
-size: Gargantuan
+- darkvision
+size: Tiny
 skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +34'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +30'
-- '[[DATABASE/skill/Survival|Survival]] +31'
-source: '[[DATABASE/source/Pathfinder 161. Belly of the Black Whale|Pathfinder #161:
-  Belly of the Black Whale]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +9'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +6'
+- '[[DATABASE/skill/Performance|Performance]] +8'
+- '[[DATABASE/skill/Religion|Religion]] +6'
+- '[[DATABASE/skill/Stealth|Stealth]] +7'
+source: '[[DATABASE/source/Bestiary|Bestiary]]'
 speed:
-- 10 feet
-- swim 50 feet
+- 25 feet
+- fly 50 feet
 spell:
-- '[[DATABASE/spell/Chain Lightning|Chain Lightning]]'
-- '[[DATABASE/spell/Punishing Winds|Punishing Winds]]'
-strength: '+9'
-strength_req: '9'
+- '[[DATABASE/spell/Dancing Lights|Dancing Lights]]'
+- '[[DATABASE/spell/Daze|Daze]]'
+- '[[DATABASE/spell/Detect Alignment|Detect Alignment]]'
+- '[[DATABASE/spell/Detect Magic|Detect Magic]]'
+- '[[DATABASE/spell/Freedom of Movement|Freedom of Movement]]'
+- '[[DATABASE/spell/Heal|Heal]]'
+- '[[DATABASE/spell/Illusory Object|Illusory Object]]'
+- '[[DATABASE/spell/Read Omens|Read Omens]]'
+strength: '-2'
+strength_req: '-2'
 strongest_save:
-- Fortitude
-swim_speed: '50'
+- Reflex
+swim_speed: null
 trait:
-- '[[DATABASE/trait/Aberration|Aberration]]'
-- '[[DATABASE/trait/Aquatic|Aquatic]]'
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
+- '[[DATABASE/trait/Azata|Azata]]'
+- '[[DATABASE/trait/Celestial|Celestial]]'
 type: Creature
 vision: Darkvision
 weakest_save:
-- Reflex
-weakness: null
-will: '+29'
-wisdom: '+6'
+- Fortitude
+weakness:
+- cold iron 3
+- evil 3
+will: '+6'
+wisdom: '+3'
 
 ---
 # Lyrakien (Wanderer Azata)

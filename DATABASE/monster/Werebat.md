@@ -14,16 +14,6 @@ creature_ability:
 - Moon Frenzy
 - Wing Thrash
 creature_family: '[[DATABASE/monsterfamily/Werecreature|Werecreature]]'
-description: 'Werebats form organized colonies of opportunistic hunters. They aren''t
-  shy about transforming creatures to add to their colony, whom they initiate with
-  elaborate social ceremonies and bloody hazing. The curse of the werebat gives them
-  a strong urge to prey upon on weaker, lonely creatures. True werebats are often
-  unusually tall and thin, with angular features. In combat, werebats favor their
-  unarmed attacks because they can''t fly while wielding weapons in their wings.<br/><br/><b><u>Recall
-  Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 16<br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 16<br/><b><u>Unspecific Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>:
-  DC 11'
 dexterity: '+4'
 element: null
 fly_speed: '25'

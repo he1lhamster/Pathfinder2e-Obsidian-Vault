@@ -10,18 +10,6 @@ creature_ability:
 - Clobbering Charge
 - Sudden Shove
 creature_family: '[[DATABASE/monsterfamily/Dinosaur|Dinosaur]]'
-description: 'Pachycephalosauruses are normally peaceful herbivorous dinosaurs, but
-  they grow much more violent during their mating season, when they fight one another
-  to win over mates and warn away interlopers. They also defend themselves vehemently
-  when potential predators stray too close to their herd. The pachycephalosaurus''s
-  skull has a distinctive dome-shaped crown surrounded by numerous blunt, bony horns.
-  This feature, combined with the dinosaur''s powerful, compact neck, allows it to
-  make battering-ram-like charges capable of inflicting great damage.<br/><br/>Some
-  [[DATABASE/trait/Humanoid|humanoid]] groups have successfully trained pachycephalosauruses
-  for use as mounts, but the creatures aren''t particularly well suited to the task.<br/><br/>Pachycephalosauruses
-  grow to a length of 15 feet and weigh 1,400 pounds.<br/><br/><b><u>Recall Knowledge
-  - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 18<br/><b><u>Unspecific
-  Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>: DC 13'
 dexterity: '+3'
 element: null
 fly_speed: null

@@ -13,15 +13,6 @@ creature_ability:
 - Quasit Venom
 - Virtue Aversion
 creature_family: '[[DATABASE/monsterfamily/Demon|Demon]]'
-description: 'Unlike other demons, quasits are formed when a mortal spellcaster sheds
-  a portion of their own sinful soul to create a familiar or companion. When these
-  quasits outlive their creators, they become free willed and seek methods of returning
-  to the Abyss, a task that requires pledging servitude to more powerful demons, so
-  many quasits instead opt to remain on the Material Plane to promote evil and hope
-  for chance and luck to someday provide them with a method of reaching the Abyss
-  on their own.<br/><br/><b><u>Recall Knowledge - Fiend</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 15<br/><b><u>Unspecific Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>:
-  DC 10'
 dexterity: '+4'
 element: null
 fly_speed: '35'

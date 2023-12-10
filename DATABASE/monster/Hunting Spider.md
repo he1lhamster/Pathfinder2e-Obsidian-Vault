@@ -14,10 +14,6 @@ creature_ability:
 - Web Sense
 - Web Trap
 creature_family: '[[DATABASE/monsterfamily/Spider|Spider]]'
-description: 'Hunting spiders are the most common type of giant spider, though not
-  the largest.<br/><br/><b><u>Recall Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 15<br/><b><u>Unspecific Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>:
-  DC 10'
 dexterity: '+4'
 element: null
 fly_speed: null

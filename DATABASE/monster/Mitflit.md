@@ -11,18 +11,6 @@ creature_ability:
 - Vengeful Anger
 - Vermin Empathy
 creature_family: '[[DATABASE/monsterfamily/Gremlin|Gremlin]]'
-description: "Mitflits, also known as mites, are self-loathing and pitiful cowards,\
-  \ easily bullied into servitude by other creatures or even slightly more powerful\
-  \ mitflit leaders. They tame insects, spiders, and other such creatures to serve\
-  \ as faithful allies. Mitflits have lost most of their ancestral gremlin magic,\
-  \ leaving these incomplete beings full of doubt and insecurity. Mitflits find companionship\
-  \ in the other base creatures of the world, and forge bonds of friendship with vermin,\
-  \ the only other beings that seem willing to accept them. A social structure, even\
-  \ one in which they are bullied, partially fills the hole within mitflits\u2019\
-  \ personalities, and they rarely rebel or rail out unless their rage hits a breaking\
-  \ point.<br/><br/><b><u>Recall Knowledge - Fey</u> ( [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 13<br/><b><u>Unspecific Lore</u></b>: DC 11<br/><b><u>Specific Lore</u></b>:\
-  \ DC 8"
 dexterity: '+3'
 element: null
 fly_speed: null

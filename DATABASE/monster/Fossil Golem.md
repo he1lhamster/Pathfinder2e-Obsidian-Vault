@@ -12,19 +12,6 @@ creature_ability:
 - Reassemble
 - Vulnerable to Stone to Flesh
 creature_family: '[[DATABASE/monsterfamily/Golem|Golem]]'
-description: 'Fossil golems are typically made from the fossilized bones of dinosaurs
-  and other ancient megafauna, though some crafters stretch the definition and instead
-  use magically petrified bones of dragons or even giants. Not bound to any specific
-  model, fossil golems are crafted to be as terrifying as possible instead of models
-  of anatomic accuracy. As such, most fossil golems are nightmarish saurian amalgams
-  whose massive arms end with the complete skulls of apex predators like tyrannosauruses,
-  their bite enhanced to petrify flesh.<br/><br/> The enchantments that animate fossil
-  golems grant them a form of modular flexibility, letting them trade mobility for
-  extended reach through the rapid rearrangement of their limbs. This also lets them
-  appear like a jumbled mass of bones at rest, making them likely to be mistaken for
-  decor rather than guardians.<br/><br/><b><u>Recall Knowledge - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Crafting|Crafting]] )</b>: DC 35<br/><b><u>Unspecific Lore</u></b>:
-  DC 33<br/><b><u>Specific Lore</u></b>: DC 30'
 dexterity: '+2'
 element: null
 fly_speed: null

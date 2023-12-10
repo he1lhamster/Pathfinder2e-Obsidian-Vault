@@ -14,17 +14,6 @@ creature_ability:
 - Stomp Around
 - Wrecker
 creature_family: '[[DATABASE/monsterfamily/Gremlin|Gremlin]]'
-description: 'Squat, surly, and perpetually covered in wet mud, gnagrifs are gremlins
-  that infest and destroy homes. They possess sharklike faces and two sets of jaws,
-  allowing them to open their mouths 180 degrees and clamp onto flat rocks and walls.
-  They delight in keeping their presence hidden, chewing holes into walls and foundations
-  that weaken structures but don''t bring them down until their inhabitants slam their
-  doors too hard or step in the wrong place. Soon as the unwitting victims spring
-  the trap, the building collapses around them.<br/><br/> Like all fey, gnagrifs detest
-  iron. Gnagrifs become obsessively vengeful if they accidentally swallow an iron
-  nail or hinge, terrorizing families or whole villages for generations over the slight.<br/><br/><b><u>Recall
-  Knowledge - Fey</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 18<br/><b><u>Unspecific
-  Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>: DC 13'
 dexterity: '+4'
 element: null
 fly_speed: null

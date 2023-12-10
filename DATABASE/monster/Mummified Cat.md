@@ -11,14 +11,6 @@ creature_ability:
 - Pounce
 - Sneak Attack
 creature_family: '[[DATABASE/monsterfamily/Mummy|Mummy]]'
-description: 'Some of the wealthy have their favored pets mummified or wish to use
-  the animal''s fractured memories but strong instincts and natural weapons to turn
-  them into formidable tomb guardians. No other animal was so trusted in the afterlife
-  as felines, who were almost without exception buried alongside deceased pharaohs.
-  Though small in stature, a clowder of mummified cats has ended the life of many
-  a would-be tomb robber.<br/><br/><b><u>Recall Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 14<br/><b><u>Unspecific Lore</u></b>: DC 12<br/><b><u>Specific Lore</u></b>:
-  DC 9'
 dexterity: '+0'
 element: null
 fly_speed: null

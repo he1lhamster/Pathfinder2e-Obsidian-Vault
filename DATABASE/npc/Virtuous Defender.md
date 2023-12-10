@@ -11,20 +11,6 @@ creature_ability:
 - Shield Ally
 - Shield Block
 creature_family: '[[DATABASE/monsterfamily/Knights of Lastwall|Knights of Lastwall]]'
-description: '<i>With his well-worn plate armor and mighty shield, this tall figure
-  appears ready to stand against any foe.</i><br/><br/> Even with the fall of the
-  nation of Lastwall, many people still dedicate their lives to opposing the forces
-  and schemes of the Whispering Tyrant. Styling themselves the Shining Sentinels,
-  they see themselves as a bulwark against the further spread of the Tyrant''s influence.
-  When not rallying troops to battle against their sworn foe or protecting villages
-  from undead incursions, these knights travel the Inner Sea in hopes of recruiting
-  other righteous souls to fight against the undead hordes.<br/><br/> Many Shining
-  Sentinels are servants of good deities, such as Iomedae; in battle, they turn their
-  god-given powers against their foes. These virtuous warriors put the safety of their
-  companions before their own and often hold defensive positions to protect their
-  allies.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 19<br/><b><u>Unspecific Lore</u></b>: DC 17<br/><b><u>Specific Lore</u></b>:
-  DC 14'
 dexterity: '+0'
 element: null
 fly_speed: null

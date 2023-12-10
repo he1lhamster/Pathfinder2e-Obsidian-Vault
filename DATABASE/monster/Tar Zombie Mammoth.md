@@ -13,12 +13,6 @@ creature_ability:
 - Slow
 - Vomit Tar
 creature_family: '[[DATABASE/monsterfamily/Zombie, Tar|Zombie, Tar]]'
-description: 'Because their massive size makes them difficult for tar oozes to fully
-  digest, tar zombie mammoths tend to resemble their living forms more closely than
-  other tar zombies. However, this doesn''t make them any less malignant than smaller
-  tar zombies.<br/><br/><b><u>Recall Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 28<br/><b><u>Unspecific Lore</u></b>: DC 26<br/><b><u>Specific Lore</u></b>:
-  DC 23'
 dexterity: '-1'
 element: null
 fly_speed: null

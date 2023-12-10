@@ -12,34 +12,6 @@ creature_ability:
 - Share Defenses
 - Slippery
 creature_family: null
-description: 'The imposing shantaks are far more intelligent than their bestial appearance
-  would suggest. They can speak, though their voices sound like glass grinding on
-  stone, and they can''t converse in any language besides [[DATABASE/language/Aklo|Aklo]]
-  .<br/><br/> Shantaks'' ability to travel through the gulfs of outer space at supernatural
-  speed allows them to nest on numerous worlds, yet despite this mobility, most shantaks
-  are reluctant to seek out new homes unless faced with no other option. Instead,
-  they roost in discarded ruins or asteroids adrift in space, only emerging and landing
-  upon planets in their chosen stellar system when the urge to feed compels them.<br/><br/>
-  Despite not being native to the [[DATABASE/plane/Dreamlands|Dimension of Dreams]]
-  , they''re commonly found in that realm. Their ability to fly through space affords
-  them swift travel between Leng and more hospitable reaches of the Dreamlands, making
-  them particularly sought after as mounts for those who have business in the far
-  reaches of the dreaming plane.<br/><br/> Convincing a shantak to become a mount
-  is notoriously difficult. They refuse any sort of training, and even if one is convinced
-  to ferry a humanoid on their back, they can be obstinate and fickle. Anyone relying
-  on a shantak mount should have a backup plan ready in case the shantak strands their
-  passenger on an asteroid or strange planet after some disagreement.<br/><br/> Although
-  a shantak is nearly the size of an elephant, many possess irrational fears of certain
-  creatures. In particular, [[DATABASE/monster/Nightgaunt|nightgaunts]] terrify them,
-  but other shantaks have been observed fleeing from [[DATABASE/monster/Harpy|harpies]]
-  and [[DATABASE/monster/Gargoyle|gargoyles]] . Though these ancestries all share
-  the same trait, shantaks don''t fear every type of winged [[DATABASE/trait/Humanoid|humanoid]]
-  , which makes the origin of their phobia all the more mysterious. Shantaks on Golarion
-  typically hide themselves away in remote places since several of the creatures they
-  fear appear on the planet in abundance.<br/><br/><b><u>Recall Knowledge - Beast</u>
-  ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]] )</b>: DC
-  26<br/><b><u>Unspecific Lore</u></b>: DC 24<br/><b><u>Specific Lore</u></b>: DC
-  21'
 dexterity: '+3'
 element: null
 fly_speed: '60'

@@ -11,11 +11,6 @@ creature_ability:
 - Psychogenic Secretions
 - Thoughtsense
 creature_family: '[[DATABASE/monsterfamily/Xulgath|Xulgath]]'
-description: 'Xulgath thoughtmaws are inheritors of the xulgaths'' ancient psychic
-  legacy. They eagerly and liberally use their ability to extract knowledge from their
-  foes to quicken their own prodigious intellects.<br/><br/><b><u>Recall Knowledge
-  - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 39<br/><b><u>Unspecific
-  Lore</u></b>: DC 37<br/><b><u>Specific Lore</u></b>: DC 34'
 dexterity: '+6'
 element: null
 fly_speed: '35'

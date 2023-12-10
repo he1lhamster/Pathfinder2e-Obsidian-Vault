@@ -12,13 +12,6 @@ creature_ability:
 - Flash Flood
 - Shallow Waters
 creature_family: '[[DATABASE/monsterfamily/Elemental, Water|Elemental, Water]]'
-description: 'Coldmire ponds are often mistaken for shallow pools of water, but these
-  sentient bodies of living water actually crawl along the ground or float through
-  other liquids. Coldmires are dangerous ambush predators, drowning creatures that
-  stray too close to or, even more hazardously, stand or swim inside their waters.<br/><br/><b><u>Recall
-  Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 24<br/><b><u>Unspecific Lore</u></b>: DC 22<br/><b><u>Specific Lore</u></b>:
-  DC 19'
 dexterity: '+3'
 element: Water
 fly_speed: null

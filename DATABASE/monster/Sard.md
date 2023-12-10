@@ -15,13 +15,6 @@ creature_ability:
 - ''
 - Trample
 creature_family: null
-description: "An immense, gnarled, tree awoken with raw, primal power by one of the\
-  \ fey Eldest of the First World, this monster\u2014one of the legendary Tane\u2014\
-  skitters on huge, spidery roots and thrashes its branches as fiery lightning courses\
-  \ within its blackened bark, a living manifestation of the violent clash between\
-  \ ancient forest and stormy sky.<br/><br/><b><u>Recall Knowledge - Plant</u> ( [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 44<br/><b><u>Unspecific Lore</u></b>: DC 42<br/><b><u>Specific Lore</u></b>:\
-  \ DC 39"
 dexterity: '+6'
 element: null
 fly_speed: null

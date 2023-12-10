@@ -9,12 +9,6 @@ constitution: '+0'
 creature_ability:
 - Glowing Mucus
 creature_family: '[[DATABASE/monsterfamily/Squid|Squid]]'
-description: 'Vampire squid are neither undead nor blood drinkers. Their name is instead
-  inspired by their red eyes and the dark, cloak-like webbing between their arms.
-  Living in the lightless depths of the ocean, the vampire squid can eject a cloud
-  of bioluminescent mucus that nauseates predators.<br/><br/><b><u>Recall Knowledge
-  - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 14<br/><b><u>Unspecific
-  Lore</u></b>: DC 12<br/><b><u>Specific Lore</u></b>: DC 9'
 dexterity: '+3'
 element: null
 fly_speed: null

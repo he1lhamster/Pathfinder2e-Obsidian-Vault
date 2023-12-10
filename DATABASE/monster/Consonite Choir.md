@@ -11,34 +11,6 @@ creature_ability:
 - Resonant Chimes
 - Swarming Chimes
 creature_family: null
-description: "Floods of crystalline blades called consonite choirs surge through the\
-  \ caverns and tunnels of the [[DATABASE/plane/Plane of Earth|Plane of Earth]] .\
-  \ Although their resonant chimes can be among the most beautiful music in the planes,\
-  \ those who intrude on their territory are instead confronted with a bone-shaking\
-  \ wall of sound and a barrage of razor-sharp crystals.<br/><br/> The blades form\
-  \ naturally, just one of the many wondrous types of crystal on the Plane of Earth.\
-  \ Razor-edged consonite stalactites hum and chime along with the plane's grinding\
-  \ movement. As large collections of these crystals begin to communicate with each\
-  \ other through their shared song, they awaken into a sort of musical collective.<br/><br/>\
-  \ Eventually, consonite choirs' songs grow loud and complex enough to shake these\
-  \ colonies loose of their stone moorings and free them to explore the Plane of Earth.\
-  \ Consonite choirs typically prefer to stay near their spawning grounds but might\
-  \ be coerced to perform in the homes of wealthy [[DATABASE/monster/Shaitan|shaitans]]\
-  \ or serve other powerful creatures of earth. They willingly leave the comfort of\
-  \ their homes to hunt down the hated [[DATABASE/monster/Xorn|xorns]] , who enjoy\
-  \ the flavor of their immobile consonite brethren.<br/><br/> Consonite choirs who\
-  \ leave the Plane of Earth, either through natural portals or by answering the calls\
-  \ of powerful rituals, often find the open spaces of other planes more to their\
-  \ liking. They enjoy the sensation of high winds moving through their chimes and\
-  \ search tirelessly for skilled performance partners. Crueler fates trap other choirs\u2014\
-  more powerful beings might mystically bind them to service or bully them into becoming\
-  \ living trophies.<br/><br/> Over years of movement, the individual crystal blades\
-  \ of a choir naturally chip and break down. In their native caverns, consonite choirs\
-  \ can easily find new members. Trapped elsewhere, they must rely on others for replacement\
-  \ blades or eventually fall into torpor.<br/><br/><b><u>Recall Knowledge - Elemental</u>\
-  \ ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]] )</b>: DC\
-  \ 33<br/><b><u>Unspecific Lore</u></b>: DC 31<br/><b><u>Specific Lore</u></b>: DC\
-  \ 28"
 dexterity: '+5'
 element: Earth
 fly_speed: '40'

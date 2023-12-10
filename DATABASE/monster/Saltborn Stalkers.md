@@ -15,14 +15,6 @@ creature_ability:
 - Troop Defenses
 - Troop Movement
 creature_family: null
-description: 'The briny depths of the Boundless Sea sometimes twist large groups of
-  merfolk into swarms with vicious rows of teeth and sharp claws known as saltborn
-  stalkers. Saltborn stalkers hunt in groups, using their drooping, tentacle-like
-  appendages as bioluminescent lures, posing them as wisps or bubbles of planar energy
-  to draw unsuspecting prey into clever ambushes.<br/><br/><b><u>Recall Knowledge
-  - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 31<br/><b><u>Unspecific Lore</u></b>: DC 29<br/><b><u>Specific Lore</u></b>:
-  DC 26'
 dexterity: '+7'
 element: Water
 fly_speed: null

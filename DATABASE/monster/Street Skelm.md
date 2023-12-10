@@ -12,20 +12,6 @@ creature_ability:
 - Frightening Rant
 - Punishing Strike
 creature_family: '[[DATABASE/monsterfamily/Skelm|Skelm]]'
-description: 'Street skelms abuse the deference given to elders and the well-to-do
-  in public spaces, appearing as such so they can verbally or physically punish those
-  who dare defy their cruel sensibilities. To excuse his actions or gather allies,
-  a street skelm might rant about a target, building a pretense of some vague threat
-  the target poses to the community''s social order. These rantings can rally a mob
-  to carry out the skelm''s violence against his target, some of whom even act out
-  of fear against becoming the skelm''s next target. Street skelms have little of
-  the magical talents possessed by their more powerful peers, mostly relying on brute
-  force.<br/><br/> Street skelms typically dress in old-fashioned styles, always including
-  a hat or hood that can cover their distinctive features. They often walk with a
-  cane, walking staff, or other prop suitable for bludgeoning those who offend their
-  delicate egos or challenge their tenuous sense of control.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 18<br/><b><u>Unspecific
-  Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>: DC 13'
 dexterity: '+2'
 element: null
 fly_speed: null

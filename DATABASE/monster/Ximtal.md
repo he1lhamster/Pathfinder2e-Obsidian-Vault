@@ -13,23 +13,6 @@ creature_ability:
 - Sensory Fever
 - Skip Between
 creature_family: '[[DATABASE/monsterfamily/Sahkil|Sahkil]]'
-description: 'The struggles of loneliness and the anxiety that accompanies that feeling
-  plague many creatures, and ximtals delight in exploiting this fear for their own
-  perverse gain. Appearing as hybrids of rats and crabs with grasping tentacles, these
-  scheming fiends manipulate their victims over long spans of time, like pakalchis,
-  to savor the most fear they can. Ximtals use subtlety to entrap their prey and often
-  don''t directly engage their targets. They use insecurities as a tool and force
-  poor behavior in mortals they set their sights on. They prefer to focus their machinations
-  on strong-willed and well-intentioned mortals, hoping to erode their pride and self-worth
-  and ultimately lead them eschew altruistic efforts.<br/><br/> Rather than focusing
-  on a single victim, a ximtal might instead seek out a particular cause of interest
-  to the sahkil''s appetites. These creatures often wander the multiverse seeking
-  to sabotage societal crusades or suppress divergent ideologies.<br/><br/> While
-  most ximtals work alone, they sometimes enlist the assistance of pakalchis, who
-  share similar tastes in mortal fear. Together and focused, these two types of fiends
-  can dissolve individual self-worth, relationships, and even entire organizations.<br/><br/><b><u>Recall
-  Knowledge - Fiend</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 36<br/><b><u>Unspecific
-  Lore</u></b>: DC 34<br/><b><u>Specific Lore</u></b>: DC 31'
 dexterity: '+3'
 element: null
 fly_speed: '40'

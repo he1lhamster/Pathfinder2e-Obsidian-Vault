@@ -12,14 +12,6 @@ creature_ability:
 - Molten Wax
 - Slowed by Cold
 creature_family: null
-description: 'A tallow guardian typically appears as a vaguely humanoid-shaped mass
-  of tallow or wax, its surface constantly melting, running down its body, and then
-  hardening only to be reabsorbed into the central mass. The tallow guardian''s face
-  seems constantly on the verge of melting into a shapeless blob, yet the unsettling
-  construct can still sense the world around it with ease.<br/><br/><b><u>Recall Knowledge
-  - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]]
-  )</b>: DC 28<br/><b><u>Unspecific Lore</u></b>: DC 26<br/><b><u>Specific Lore</u></b>:
-  DC 23'
 dexterity: '+0'
 element: null
 fly_speed: null

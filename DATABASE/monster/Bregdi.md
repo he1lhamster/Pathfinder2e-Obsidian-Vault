@@ -13,21 +13,6 @@ creature_ability:
 - Swallow Whole
 - Tug
 creature_family: null
-description: "Bregdis hunt warm-blooded prey, lurking in the waters of most major\
-  \ port cities before using their ray-like bodies and hooked claws to hitch onto\
-  \ the underside of boats pulling into port. From beneath the docks and in the channels\
-  \ of settlements, bregdis wait for the careless or unlucky to fall into the water,\
-  \ where they make quick work of their hapless victims.<br/><br/>Although bregdis\
-  \ have little more intelligence than most animals, a particularly opportunistic\
-  \ bregdi might realize that a fishing line often leads to a tasty meal. A bregdi\
-  \ that spots a fishing lure might grab it gently with its claw to imitate a fish\
-  \ caught on the line. Once a fisherman is \u201Chooked\u201D and starts to reel\
-  \ in, the bregdi plays along, slowly approaching the shore while making sluggish\
-  \ struggling motions. Once near land, the bregdi violently tugs on the lure to yank\
-  \ its unsuspecting prey into the water. Bregdis can survive out of water for short\
-  \ periods of time, but only the most desperate bregdis hunt on land.<br/><br/><b><u>Recall\
-  \ Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 28<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 26<br/><b><u>Specific Lore</u></b>: DC 23"
 dexterity: '+4'
 element: null
 fly_speed: null

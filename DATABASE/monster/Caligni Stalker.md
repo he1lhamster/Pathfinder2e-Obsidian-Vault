@@ -12,9 +12,6 @@ creature_ability:
 - Encircling Command
 - Sneak Attack
 creature_family: '[[DATABASE/monsterfamily/Caligni|Caligni]]'
-description: 'Caligni stalkers are often leaders of caligni enclaves.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 19<br/><b><u>Unspecific
-  Lore</u></b>: DC 17<br/><b><u>Specific Lore</u></b>: DC 14'
 dexterity: '+5'
 element: null
 fly_speed: null

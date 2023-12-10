@@ -1,98 +1,72 @@
 ﻿---
-ac: '43'
-alignment: N
+ac: '37'
+alignment: NE
 all_resistance: null
-burrow_speed: '50'
-charisma: '-1'
-climb_speed: null
-constitution: '+8'
+burrow_speed: null
+charisma: '+2'
+climb_speed: '10'
+constitution: '+6'
 creature_ability:
-- Annihilation Beams
-- Deadly Throw
-- Erosion Aura
-- Immunity to Magic
-- Powerful Blows
-- Trample
+- Form Up
+- Gnaw and Chew
+- Hadi Pestilence
+- Ratspeak
+- Troop Defenses
+- Troop Movement
 creature_family: null
-description: "A guthallath is an enormous construct created long ago by some unknown\
-  \ empire, probably as a war machine. Nearly 100 feet tall, this massive stone statue\
-  \ typically resembles a stalwart warrior wearing only a loincloth and skullcap.\
-  \ Few have seen the entire body of a guthallath, though; most of the time such a\
-  \ relic is buried up to its neck, covered in moss and stranded in some forgotten\
-  \ place. Yet, every so often, one of these harbingers of destruction reactivates\
-  \ in response to some unknown stimulus or rallying call, and when this happens,\
-  \ woe be unto any who stand in its way.<br/><br/> While the guthallath\u2019s ancient\
-  \ enemies are gone, it is an engine of pure destruction, designed to rampage for\
-  \ weeks or even months. While not intelligent enough to enjoy or regret its acts,\
-  \ the guthallath cannot be reasoned with\u2014it is unaffected by most magic, and\
-  \ is unpredictable in how it selects its targets (and creatures it spares).<br/><br/><b><u>Recall\
-  \ Knowledge - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]]\
-  \ )</b>: DC 44<br/><b><u>Unspecific Lore</u></b>: DC 42<br/><b><u>Specific Lore</u></b>:\
-  \ DC 39"
-dexterity: '+2'
+dexterity: '+8'
 element: null
 fly_speed: null
-fortitude: '+38'
+fortitude: '+27'
 hardness: null
-hp: '325'
-id: '253'
-immunity:
-- bleed
-- death effects
-- disease
-- doomed
-- drained
-- fatigued
-- healing
-- magic (see below)
-- necromancy
-- nonlethal attacks
-- paralyzed
-- poison
-- sickened
-- unconscious
-intelligence: '-4'
-land_speed: '40'
-language: null
-level: '19'
-max_speed: '50'
-name: Guthallath
-perception: '+30'
+hp: 270 (16 squares)
+id: '2528'
+immunity: null
+intelligence: '+4'
+land_speed: '25'
+language:
+- '[[DATABASE/language/Common|Common]]'
+- '[[DATABASE/language/Daemonic|Daemonic]] ; ratspeak'
+level: '15'
+max_speed: '25'
+name: Hadi Mob
+perception: '+25'
 rarity: Rare
-reflex: '+32'
-resistance:
-- physical 15 (except adamantine)
+reflex: '+29'
+resistance: null
 rus_type_level: null
 school: null
 sense:
-- darkvision
-- '[[DATABASE/spell/True Seeing|true seeing]]'
+- '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Gargantuan
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +25'
-- '[[DATABASE/skill/Athletics|Athletics]] +40'
-source: '[[DATABASE/source/Bestiary|Bestiary]]'
+- '[[DATABASE/skill/Athletics|Athletics]] +27'
+- '[[DATABASE/skill/Stealth|Stealth]] +29'
+source: '[[DATABASE/source/Pathfinder 191. The Destiny War|Pathfinder #191: The Destiny
+  War]]'
 speed:
-- 40 feet
-- burrow 50 feet
-spell:
-- '[[DATABASE/spell/Haste|Haste]]'
-- '[[DATABASE/spell/True Seeing|TrueSeeing]]'
-strength: '+10'
-strength_req: '10'
+- 25 feet
+- climb 10 feet
+spell: null
+strength: '+6'
+strength_req: '6'
 strongest_save:
-- Fortitude
+- Reflex
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Construct|Construct]]'
+- '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Rare|Rare]]'
+- '[[DATABASE/trait/Ratfolk|Ratfolk]]'
+- '[[DATABASE/trait/Troop|Troop]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Will
-weakness: null
-will: '+30'
-wisdom: '+0'
+weakness:
+- area damage 15
+- '[[DATABASE/trait/Splash|splash]] damage 10'
+will: '+23'
+wisdom: '+4'
 
 ---
 # Hadi

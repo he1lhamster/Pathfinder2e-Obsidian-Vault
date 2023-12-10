@@ -9,7 +9,6 @@ constitution: '+4'
 creature_ability:
 - Fox's Cunning
 creature_family: null
-description: This creature did not include a description.
 dexterity: '+4'
 element: null
 fly_speed: null

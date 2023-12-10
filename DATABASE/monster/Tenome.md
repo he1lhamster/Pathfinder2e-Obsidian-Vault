@@ -12,27 +12,6 @@ creature_ability:
 - Obscuring Grab
 - Terrifying Gaze
 creature_family: null
-description: 'A tenome resembles an eyeless humanoid with rumpled, pale skin and a
-  single eye embedded in each palm of its cadaverous hands. When they opens their
-  disturbingly wide mouth, this sly, frightful predator''s fangs hum and pulse with
-  an eerie drone.<br/><br/> Tenomes prefer to stalk urban environments; they often
-  wear hooded cloaks or flowing robes to obscure their monstrous features, posing
-  as beggars or corpses to blend in with society. When they attack, tenomes approach
-  their victim with their palms outstretched, attempting to trap prey with their terrifying
-  gaze. Once they seize their prey, tenomes vibrate their strange teeth rapidly as
-  they feasts, emulsifying the bones into a digestible ooze that they slurps from
-  a wound. Tenomes can be put at a disadvantage while hunting, as their vision is
-  obscured when they have prey grabbed. Because of this, tenomes either wait for lone
-  victims or hunts in packs. Members of these groups work together to secure meals
-  for the entire pack and protect each other from being ambushed while feeding.<br/><br/>
-  There are rumors that if tenomes pluck the eyes from their victim and places one
-  in each of the corpse''s palms, the slain creature will rise as a new tenome the
-  next nightfall. Even tenomes aren''t sure of the truth of this rumor, as none remember
-  their own origins, but they might mutilate the corpses of their victims this way
-  in the hopes of creating a pack mate or to instill terror in those who discover
-  the body.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 19<br/><b><u>Unspecific Lore</u></b>: DC 17<br/><b><u>Specific Lore</u></b>:
-  DC 14'
 dexterity: '+5'
 element: null
 fly_speed: null

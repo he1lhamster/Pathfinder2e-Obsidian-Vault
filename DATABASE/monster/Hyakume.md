@@ -13,16 +13,6 @@ creature_ability:
 - Scatterbrain Palm
 - Steal Memories
 creature_family: null
-description: 'Hundreds of bloodshot eyes peek out from under the fleshy layers of
-  a hyakume''s skin. These hulking aberrations covet knowledge and go to great lengths
-  to keep what they know to themselves; they''ll destroy scriptoriums they''ve raided
-  and burn books they''ve read to ensure no other soul learns their contents. While
-  hyakume occasionally trade valuable information to garner greater knowledge, they
-  are liable to trick their targets into revealing more than they should. Most frightening
-  of all is the hyakume''s ability to steal memories and erase any knowledge of their
-  existence from the minds of their victims.<br/><br/><b><u>Recall Knowledge - Aberration</u>
-  ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 36<br/><b><u>Unspecific Lore</u></b>:
-  DC 34<br/><b><u>Specific Lore</u></b>: DC 31'
 dexterity: '+6'
 element: null
 fly_speed: null

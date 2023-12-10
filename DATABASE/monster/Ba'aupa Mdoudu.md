@@ -15,20 +15,6 @@ creature_ability:
 - Slime Squirt
 - Stone Tunneler
 creature_family: null
-description: "Ba'aupa mdoudus are solitary, bone-eating creatures that prefer to feed\
-  \ on remains found on battlefields or within necropolises\u2014the more ancient,\
-  \ the better. When unable to locate buried remains, ba'aupa mdoudus are drawn reluctantly\
-  \ to the surface in search of bones from the living; living bones can sustain a\
-  \ ba'aupa mdoudu, but the flavor (particularly the temperature of warm bones fresh\
-  \ from the flesh) unsettles them a bit.<br/><br/> Ba'aupa mdoudus produce a slimy\
-  \ acid that liquefies minerals, allowing them to burrow though even solid stone\
-  \ and strip natural deposits of calcium from nearby rocks. In doing so, they leave\
-  \ smooth tunnels in their wake. When provoked, ba'aupa mdoudus secrete this acid\
-  \ through numerous pores along their length as a defensive response and accelerate\
-  \ this secretion under extreme circumstances.<br/><br/><b><u>Recall Knowledge -\
-  \ Beast</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 31<br/><b><u>Unspecific Lore</u></b>: DC 29<br/><b><u>Specific Lore</u></b>:\
-  \ DC 26"
 dexterity: '+4'
 element: null
 fly_speed: null

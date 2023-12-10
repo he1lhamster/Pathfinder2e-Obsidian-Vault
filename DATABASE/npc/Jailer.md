@@ -12,12 +12,6 @@ creature_ability:
 - Intimidating Strike
 - Subdue Prisoners
 creature_family: '[[DATABASE/monsterfamily/Officers|Officers]]'
-description: 'A jailer''s primary responsibility is to keep prisoners from escaping.
-  Jailers must often use force, or the threat of force, to keep their charges in line,
-  as even the most carefully crafted cells, manacles, or chains can fail with time
-  and persistence when the prisoners have the will to attempt an escape.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 18<br/><b><u>Unspecific
-  Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>: DC 13'
 dexterity: '+3'
 element: null
 fly_speed: null

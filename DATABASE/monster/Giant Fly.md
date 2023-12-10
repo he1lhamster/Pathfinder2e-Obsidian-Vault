@@ -10,12 +10,6 @@ creature_ability:
 - Avoid the Swat
 - Fly Pox
 creature_family: '[[DATABASE/monsterfamily/Fly|Fly]]'
-description: 'This pony-sized fly''s twitching limbs seem to never stop moving as
-  it constantly cleans itself and scoops anything edible into its mouthparts. While
-  primarily carrion eaters, giant flies sometimes prey on livestock or other animals
-  too slow to get away.<br/><br/><b><u>Recall Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 15<br/><b><u>Unspecific Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>:
-  DC 10'
 dexterity: '+4'
 element: null
 fly_speed: '40'

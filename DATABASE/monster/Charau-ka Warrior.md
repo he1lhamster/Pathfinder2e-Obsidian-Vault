@@ -10,11 +10,6 @@ creature_ability:
 - Shrieking Frenzy
 - Thrown Weapon Mastery
 creature_family: '[[DATABASE/monsterfamily/Charau-ka|Charau-ka]]'
-description: 'A charau-ka warrior carries hatchets, daggers, and similar weaponry
-  on their person. They usually don''t worry about running out of thrown weapons,
-  as rocks plucked from the ground are just as deadly in their hands.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 15<br/><b><u>Unspecific
-  Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>: DC 10'
 dexterity: '+3'
 element: null
 fly_speed: null

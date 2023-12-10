@@ -13,16 +13,6 @@ creature_ability:
 - Wood Resistance
 - Woodland Stride
 creature_family: null
-description: 'The [[DATABASE/plane/First World|First World]] still holds the first
-  rough draft of many creatures in the [[DATABASE/plane/Material Plane|Material Plane]]
-  , but it''s hard to tell what sort of creature the ta''apundo was ever intended
-  to be. Its bark poses significant danger to metallic objects, as it converts any
-  metal touching it into wood as fibrous and as flexible as its own body. Capricious
-  and skittish, ta''apundos make friends easily but consider anyone who wields or
-  wears metal to be a hated enemy.<br/><br/><b><u>Recall Knowledge - Fey</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 44<br/><b><u>Recall Knowledge - Plant</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 44<br/><b><u>Unspecific Lore</u></b>: DC 42<br/><b><u>Specific Lore</u></b>:
-  DC 39'
 dexterity: '+10'
 element: null
 fly_speed: null

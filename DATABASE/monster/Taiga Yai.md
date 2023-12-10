@@ -12,14 +12,6 @@ creature_ability:
 - Change Shape
 - Return to Nature
 creature_family: '[[DATABASE/monsterfamily/Oni|Oni]]'
-description: 'Wearing the visage of [[DATABASE/monster/Taiga Giant|taiga giants]]
-  , taiga yais generally travel in a solitary fashion, always yearning for new experiences
-  and destinations. They are zealous in their love of nature in its purest form and
-  gleefully destroy any established civilizations that they encounter before continuing
-  onwards.<br/><br/><b><u>Recall Knowledge - Fiend</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 34<br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 34<br/><b><u>Unspecific Lore</u></b>: DC 32<br/><b><u>Specific Lore</u></b>:
-  DC 29'
 dexterity: '+8'
 element: null
 fly_speed: '40'

@@ -13,10 +13,6 @@ creature_ability:
 - Curse of Frost
 - Ice Linnorm Venom
 creature_family: '[[DATABASE/monsterfamily/Linnorm|Linnorm]]'
-description: 'The ice linnorm dwells amid glacial crevasses, atop wind-blasted mountain
-  peaks, or within glittering caverns carved from the hearts of the mightiest of icebergs.<br/><br/><b><u>Recall
-  Knowledge - Dragon</u> ( [[DATABASE/skill/Arcana|Arcana]] )</b>: DC 38<br/><b><u>Unspecific
-  Lore</u></b>: DC 36<br/><b><u>Specific Lore</u></b>: DC 33'
 dexterity: '+5'
 element: null
 fly_speed: '100'

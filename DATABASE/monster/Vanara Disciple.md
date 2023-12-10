@@ -11,16 +11,6 @@ creature_ability:
 - Prehensile Tail
 - Spring Up
 creature_family: '[[DATABASE/monsterfamily/Vanara|Vanara]]'
-description: 'Vanara culture prizes order and discipline, leading to many vanaras
-  studying monastic practices. They also value compassion, kindness, and community,
-  whether that community is their own or one they''re visiting. Most vanaras are quick
-  to offer aid to those in distress and rarely hesitate in the face of evil, no matter
-  the danger it presents. The leaders of vanara villages tend to be religious figures,
-  or occasionally others possessing similar values and experience. Vanaras venerate
-  [[DATABASE/deity/Ragdya|Ragdya]] , the Sage of the Mountain, who encourages seeking
-  enlightenment through worldly action and sees the virtues of pranks and humor.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 17<br/><b><u>Unspecific
-  Lore</u></b>: DC 15<br/><b><u>Specific Lore</u></b>: DC 12'
 dexterity: '+4'
 element: null
 fly_speed: null

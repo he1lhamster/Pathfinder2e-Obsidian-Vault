@@ -14,21 +14,6 @@ creature_ability:
 - Powerful Blows
 - Trample
 creature_family: null
-description: "A guthallath is an enormous construct created long ago by some unknown\
-  \ empire, probably as a war machine. Nearly 100 feet tall, this massive stone statue\
-  \ typically resembles a stalwart warrior wearing only a loincloth and skullcap.\
-  \ Few have seen the entire body of a guthallath, though; most of the time such a\
-  \ relic is buried up to its neck, covered in moss and stranded in some forgotten\
-  \ place. Yet, every so often, one of these harbingers of destruction reactivates\
-  \ in response to some unknown stimulus or rallying call, and when this happens,\
-  \ woe be unto any who stand in its way.<br/><br/> While the guthallath\u2019s ancient\
-  \ enemies are gone, it is an engine of pure destruction, designed to rampage for\
-  \ weeks or even months. While not intelligent enough to enjoy or regret its acts,\
-  \ the guthallath cannot be reasoned with\u2014it is unaffected by most magic, and\
-  \ is unpredictable in how it selects its targets (and creatures it spares).<br/><br/><b><u>Recall\
-  \ Knowledge - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]]\
-  \ )</b>: DC 44<br/><b><u>Unspecific Lore</u></b>: DC 42<br/><b><u>Specific Lore</u></b>:\
-  \ DC 39"
 dexterity: '+2'
 element: null
 fly_speed: null

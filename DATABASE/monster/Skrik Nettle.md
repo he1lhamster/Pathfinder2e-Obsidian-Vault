@@ -12,31 +12,6 @@ creature_ability:
 - Skrik Nettle Venom
 - Spill Venom
 creature_family: null
-description: "The expansive skies of the [[DATABASE/plane/First World|First World]]\
-  \ are home to skrik nettles\u2014delicate, bizarre-looking creatures that resemble\
-  \ large jellyfishes. A fringe of brightly colored feathers circles their bodies,\
-  \ and long tendrils trail from their center, each ending in a snapping beak. Known\
-  \ for their eerie, chirping melodies, skrik nettles soar above the First World in\
-  \ flocks of a dozen or more, diligently scavenging for food in the fey realm's cutthroat\
-  \ ecosystem. When hunting or provoked, skrik nettles attack their foes by injecting\
-  \ them with a magical poison that causes the victim to float helplessly up into\
-  \ the sky. Skrik nettles continuously inject this poison into their helpless prey\
-  \ until it dies or is so high up that the skrik nettle needs only wait for the poison\
-  \ to end, its meal crashing helplessly to the ground below.<br/><br/> Skrik nettles\
-  \ that find their way to the Material Plane (or any plane other than the First World,\
-  \ for that matter) tend to be much more aggressive, for the planar energies that\
-  \ they find comforting and soothing on the First World are conspicuously absent.\
-  \ The first few minutes after a skrik nettle arrives on any plane but the First\
-  \ World tend to be filled with violence and fear, as the panicking creature lashes\
-  \ out at any nearby creatures (including other skrik nettles) in the mistaken notion\
-  \ that these others are somehow responsible for the discomforting change. After\
-  \ 10 minutes or so, assuming the skrik nettle survives its bout of violence, the\
-  \ creature calms down somewhat and does its best to acclimate to its new home. Yet\
-  \ even skrik nettles who find themselves marooned beyond the First World for years\
-  \ never lose their longing for home, and they instinctively seek out portals to\
-  \ this plane for the rest of their lives.<br/><br/><b><u>Recall Knowledge - Aberration</u>\
-  \ ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 22<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 20<br/><b><u>Specific Lore</u></b>: DC 17"
 dexterity: '+5'
 element: null
 fly_speed: '25'

@@ -9,14 +9,6 @@ constitution: '+0'
 creature_ability:
 - Leaping Pounce
 creature_family: '[[DATABASE/monsterfamily/Fox|Fox]]'
-description: 'The shy and perceptive red fox has uncanny adaptability and is just
-  as comfortable in urban areas as in the wilds. Red foxes typically have rust-red
-  fur, a white underbelly, and a characteristic white-tipped bushy tail. They are
-  omnivorous, and eat insects, lizards, and small birds, pouncing on their prey to
-  catch it. Because these opportunistic hunters see eggs and captive livestock as
-  an easy meal, many farmers see them as foes.<br/><br/><b><u>Recall Knowledge - Animal</u>
-  ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 13<br/><b><u>Unspecific Lore</u></b>:
-  DC 11<br/><b><u>Specific Lore</u></b>: DC 8'
 dexterity: '+3'
 element: null
 fly_speed: null

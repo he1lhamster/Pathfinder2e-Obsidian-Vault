@@ -10,12 +10,6 @@ creature_ability:
 - Noxious Burst
 - Smoke Vision
 creature_family: '[[DATABASE/monsterfamily/Elemental, Fire|Elemental, Fire]]'
-description: 'These creatures look like roiling clouds of black smoke churning above
-  a mound of burning refuse. Leering faces form and fade in the smoke above, while
-  the burning trash writhes in spasmodic lurches, obviously alive.<br/><br/><b><u>Recall
-  Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 19<br/><b><u>Unspecific Lore</u></b>: DC 17<br/><b><u>Specific Lore</u></b>:
-  DC 14'
 dexterity: '+5'
 element: Fire
 fly_speed: null

@@ -10,13 +10,6 @@ creature_ability:
 - Experienced Hand
 - Steady Balance
 creature_family: '[[DATABASE/monsterfamily/Magistrates|Magistrates]]'
-description: 'There are three flows important to any port: the seaward and coastal
-  flows, marked by the rise and fall of the tides, and the flow of trade. A harbormaster
-  is expected to know the former two reflexively and encourage the latter while knowing
-  jurisdictional rules of law. Often old hands of the sea, harbormasters find themselves
-  anchored to a port by commitment, conflict, or reputation.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 18<br/><b><u>Unspecific
-  Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>: DC 13'
 dexterity: '+2'
 element: null
 fly_speed: null

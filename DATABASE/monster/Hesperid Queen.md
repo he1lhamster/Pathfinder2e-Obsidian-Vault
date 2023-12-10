@@ -14,17 +14,6 @@ creature_ability:
 - Nymph's Beauty
 - Tied to the Land
 creature_family: '[[DATABASE/monsterfamily/Nymph|Nymph]]'
-description: 'Hesperid queens rule over isolated regions soaked in the light of sunset.
-  They guard countless treasures and secrets, though for those who approach them with  respect
-  and offer an intriguing bargain, they''re willing to part with knowledge or items
-  beyond those secrets or valuables they''ve sworn to keep to themselves.<br/><br/>
-  Hesperid queens are relatively likely to have powerful objects under their protection,
-  such as ancient relics or artifacts. As such, they''re keenly aware of the danger
-  posed by unscrupulous treasure hunters seeking to obtain these items at any cost,
-  and they use their incredible minds to set up devious countermeasures to protect
-  their wards, even in the event of their own deaths.<br/><br/><b><u>Recall Knowledge
-  - Fey</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 41<br/><b><u>Unspecific Lore</u></b>:
-  DC 39<br/><b><u>Specific Lore</u></b>: DC 36'
 dexterity: '+9'
 element: null
 fly_speed: '90'

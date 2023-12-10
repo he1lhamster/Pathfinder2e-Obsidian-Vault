@@ -11,19 +11,6 @@ creature_ability:
 - Snatch
 - Swallow Whole
 creature_family: '[[DATABASE/monsterfamily/Beheaded|Beheaded]]'
-description: 'A daqqanoenyent is a horrific monstrosity arising from a terrible crime
-  against the dead, obsessed with exacting retribution. The creature manifests as
-  an enormous, disembodied head, 10 feet in height and covered in coarse black hair,
-  with bat-like wings and vicious fangs and talons. Daqqanoenyents are naturally conflicted
-  creatures. As the product of the tortured wills of numerous victims, daqqanoenyents
-  sometimes exhibit strange or contradictory behavior as various individual wills
-  struggle for control. Their conflicting desires make daqqanoenyents relatively easy
-  to trick or deceive, and the creatures are vulnerable to fire. One story of a daqqanoenyent
-  encounter describes the creature attempting to eat an old woman, only to be tricked
-  by the woman into devouring a live coal. Their mouth aflame, the daqqanoenyent fled
-  into the wilderness, never to be seen again.<br/><br/><b><u>Recall Knowledge - Undead</u>
-  ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 31<br/><b><u>Unspecific Lore</u></b>:
-  DC 29<br/><b><u>Specific Lore</u></b>: DC 26'
 dexterity: '+4'
 element: null
 fly_speed: '30'

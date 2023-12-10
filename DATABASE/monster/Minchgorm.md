@@ -12,12 +12,6 @@ creature_ability:
 - Swallow Whole
 - Watery Simulacra
 creature_family: null
-description: 'An oddity even among the strange creatures of the [[DATABASE/plane/First
-  World|First World]] of the fey, the aquatic minchgorm is a monstrous alien maw ringed
-  with writhing tendrils. It interacts with the world through grasping, speaking simulacra
-  that it magically shapes from water.<br/><br/><b><u>Recall Knowledge - Fey</u> (
-  [[DATABASE/skill/Nature|Nature]] )</b>: DC 43<br/><b><u>Unspecific Lore</u></b>:
-  DC 41<br/><b><u>Specific Lore</u></b>: DC 38'
 dexterity: '+0'
 element: Water
 fly_speed: null

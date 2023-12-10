@@ -10,13 +10,6 @@ creature_ability:
 - Destructive Vengeance
 - Intimidating Strike
 creature_family: '[[DATABASE/monsterfamily/Villains|Villains]]'
-description: 'There is perhaps nothing more anathematic to peace than an antipaladin.
-  Dedicated holy warriors to the darkest and foulest of deities, antipaladins work
-  to fulfill the vile wishes of their evil masters. The zeal with which they implement
-  the plans of dark gods makes them truly fearsome foes for anyone allied with the
-  forces of good.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 20<br/><b><u>Unspecific Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>:
-  DC 15'
 dexterity: '+1'
 element: null
 fly_speed: null

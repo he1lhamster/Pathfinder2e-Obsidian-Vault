@@ -1,98 +1,85 @@
 ﻿---
-ac: '43'
-alignment: N
+ac: '36'
+alignment: LE
 all_resistance: null
-burrow_speed: '50'
-charisma: '-1'
-climb_speed: null
-constitution: '+8'
+burrow_speed: null
+charisma: '+8'
+climb_speed: '35'
+constitution: '+4'
 creature_ability:
-- Annihilation Beams
-- Deadly Throw
-- Erosion Aura
-- Immunity to Magic
-- Powerful Blows
-- Trample
-creature_family: null
-description: "A guthallath is an enormous construct created long ago by some unknown\
-  \ empire, probably as a war machine. Nearly 100 feet tall, this massive stone statue\
-  \ typically resembles a stalwart warrior wearing only a loincloth and skullcap.\
-  \ Few have seen the entire body of a guthallath, though; most of the time such a\
-  \ relic is buried up to its neck, covered in moss and stranded in some forgotten\
-  \ place. Yet, every so often, one of these harbingers of destruction reactivates\
-  \ in response to some unknown stimulus or rallying call, and when this happens,\
-  \ woe be unto any who stand in its way.<br/><br/> While the guthallath\u2019s ancient\
-  \ enemies are gone, it is an engine of pure destruction, designed to rampage for\
-  \ weeks or even months. While not intelligent enough to enjoy or regret its acts,\
-  \ the guthallath cannot be reasoned with\u2014it is unaffected by most magic, and\
-  \ is unpredictable in how it selects its targets (and creatures it spares).<br/><br/><b><u>Recall\
-  \ Knowledge - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]]\
-  \ )</b>: DC 44<br/><b><u>Unspecific Lore</u></b>: DC 42<br/><b><u>Specific Lore</u></b>:\
-  \ DC 39"
-dexterity: '+2'
+- Change Shape
+- Indispensable Savvy
+- Reflexive Grab
+- Tentacle Encage
+creature_family: '[[DATABASE/monsterfamily/Devil|Devil]]'
+dexterity: '+7'
 element: null
 fly_speed: null
-fortitude: '+38'
+fortitude: '+22'
 hardness: null
-hp: '325'
-id: '253'
+hp: '240'
+id: '610'
 immunity:
-- bleed
-- death effects
-- disease
-- doomed
-- drained
-- fatigued
-- healing
-- magic (see below)
-- necromancy
-- nonlethal attacks
-- paralyzed
-- poison
-- sickened
-- unconscious
-intelligence: '-4'
-land_speed: '40'
-language: null
-level: '19'
-max_speed: '50'
-name: Guthallath
-perception: '+30'
-rarity: Rare
-reflex: '+32'
+- fire
+intelligence: '+5'
+land_speed: '35'
+language:
+- '[[DATABASE/language/Celestial|Celestial]]'
+- '[[DATABASE/language/Common|Common]]'
+- '[[DATABASE/language/Draconic|Draconic]]'
+- '[[DATABASE/language/Infernal|Infernal]] ; [[DATABASE/monsterability/Telepathy|telepathy
+  100 feet]]'
+level: '14'
+max_speed: '35'
+name: Gylou
+perception: '+28'
+rarity: Common
+reflex: '+25'
 resistance:
-- physical 15 (except adamantine)
+- physical 10 (except [[DATABASE/equipment/Silver|silver]] )
 rus_type_level: null
 school: null
 sense:
-- darkvision
+- '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 - '[[DATABASE/spell/True Seeing|true seeing]]'
-size: Gargantuan
+size: Medium
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +25'
-- '[[DATABASE/skill/Athletics|Athletics]] +40'
-source: '[[DATABASE/source/Bestiary|Bestiary]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +27'
+- '[[DATABASE/skill/Athletics|Athletics]] +28'
+- '[[DATABASE/skill/Arcana|Arcana]] +25'
+- '[[DATABASE/skill/Deception|Deception]] +30'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +28'
+- '[[DATABASE/skill/Religion|Religion]] +26'
+- '[[DATABASE/skill/Stealth|Stealth]] +27'
+source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
-- 40 feet
-- burrow 50 feet
+- 35 feet
+- climb 35 feet
 spell:
-- '[[DATABASE/spell/Haste|Haste]]'
-- '[[DATABASE/spell/True Seeing|TrueSeeing]]'
-strength: '+10'
-strength_req: '10'
+- '[[DATABASE/spell/Black Tentacles|Black Tentacles]]'
+- '[[DATABASE/spell/Charm|Charm]]'
+- '[[DATABASE/spell/Dimension Door|Dimension Door]]'
+- '[[DATABASE/spell/Dispel Magic|Dispel Magic]]'
+- '[[DATABASE/spell/Dominate|Dominate]]'
+- '[[DATABASE/spell/Enthrall|Enthrall]]'
+- '[[DATABASE/spell/Illusory Object|Illusory Object]]'
+- '[[DATABASE/spell/True Seeing|True Seeing]]'
+strength: '+4'
+strength_req: '4'
 strongest_save:
-- Fortitude
+- Will
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Construct|Construct]]'
-- '[[DATABASE/trait/Rare|Rare]]'
+- '[[DATABASE/trait/Devil|Devil]]'
+- '[[DATABASE/trait/Fiend|Fiend]]'
 type: Creature
-vision: Darkvision
+vision: Greater darkvision
 weakest_save:
-- Will
-weakness: null
-will: '+30'
-wisdom: '+0'
+- Fortitude
+weakness:
+- good 10
+will: '+28'
+wisdom: '+6'
 
 ---
 # Gylou (Handmaiden Devil)

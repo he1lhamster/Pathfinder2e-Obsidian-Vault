@@ -11,25 +11,6 @@ creature_ability:
 - Powerful Charge
 - Wild Empathy
 creature_family: null
-description: "Symbols of grace and purity, unicorns resemble proud and noble horses.\
-  \ They are typically pure white of coat, but they are best known for the single,\
-  \ delicate horn that extends from the center of their forehead. While unicorns often\
-  \ serve as protectors of unspoiled wilderness and sacred places, they are themselves\
-  \ highly sought after for their horns, which are said to possess potent magical\
-  \ properties. To many, the mere idea of hunting such a magnificent creature in the\
-  \ hopes of severing its horn is utterly reprehensible. Indeed, a de-horned unicorn\
-  \ is a sorry sight, and few such unicorns survive much longer in the wild.<br/><br/>\
-  \ Unicorns are found almost exclusively in remote, unsullied areas of wilderness.\
-  \ Sometimes associated with good-aligned deities, other times associated with nature\
-  \ and the fey, unicorns are always known for their righteousness and nobility. They\
-  \ are wary, at best, of most humanoid creatures, due in large part for poachers\u2019\
-  \ tendency to hunt them for their horns, but unicorns are often rumored to have\
-  \ a weakness for those who are pure of both heart and spirit. Despite some tales,\
-  \ unicorns are equally likely to recognize purity in young men as in young women.<br/><br/><b><u>Recall\
-  \ Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 18<br/><b><u>Recall Knowledge - Fey</u> ( [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 18<br/><b><u>Unspecific Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>:\
-  \ DC 13"
 dexterity: '+3'
 element: null
 fly_speed: null

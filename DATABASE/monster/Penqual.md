@@ -14,13 +14,6 @@ creature_ability:
 - Mob Rush
 - Skip Between
 creature_family: '[[DATABASE/monsterfamily/Sahkil|Sahkil]]'
-description: 'Although penquals are independent beings, each resembles a tight crowd
-  of featureless humanoids pressed together in a mob. Penquals are most at home in
-  large population centers, where they can don clothing to blend in. When large crowds,
-  such as those found at festivals, are scarce, a penqual hunts at night, where a
-  mass of revelers might draw attention but not suspicion.<br/><br/><b><u>Recall Knowledge
-  - Fiend</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 36<br/><b><u>Unspecific
-  Lore</u></b>: DC 34<br/><b><u>Specific Lore</u></b>: DC 31'
 dexterity: '+5'
 element: null
 fly_speed: null

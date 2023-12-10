@@ -10,18 +10,6 @@ creature_ability:
 - Mauler
 - Painted Dance
 creature_family: '[[DATABASE/monsterfamily/Elemental, Wood|Elemental, Wood]]'
-description: "At a distance, painted stags appear constructed in the general shape\
-  \ of male deer, their flanks and antlers decorated with unique, colorful patterns.\
-  \ But while they retain (and indeed, augment) the blueprints [[DATABASE/deity/Shumunue|Shumunue]]\
-  \ imparted upon them, painted stags reject the confines of the Carved Lady's art\
-  \ of mimicry. Today, their cloven, hardwood hooves can crush bone and daub paint\
-  \ with equal skill, and their antlers snap together in a deadly vise. Their torsos\
-  \ rotate freely to navigate the latticed trees of their home plane\u2014all the\
-  \ better to chase prey to their inevitable death.<br/><br/><b><u>Recall Knowledge\
-  \ - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 26<br/><b><u>Recall Knowledge - Plant</u> ( [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 26<br/><b><u>Unspecific Lore</u></b>: DC 24<br/><b><u>Specific Lore</u></b>:\
-  \ DC 21"
 dexterity: '+3'
 element: Wood
 fly_speed: null

@@ -16,23 +16,6 @@ creature_ability:
 - Armor
 - Violent Retort
 creature_family: '[[DATABASE/monsterfamily/Dragon, Sovereign|Dragon, Sovereign]]'
-description: "The most well-known of imperial dragons due to their deep involvement\
-  \ with mortals, the sovereign dragons' name comes from their mandate of selecting\
-  \ rulers\u2014but at some point, the dragons themselves joined the list of worthy\
-  \ candidates. Other imperial dragons suspect the sovereign dragons offered their\
-  \ connection to the elemental cycle to attain forbidden magic, evidenced by their\
-  \ lack of any vulnerability to wood or ability to feed on fire, despite being creatures\
-  \ of the earth.<br/><br/> Most hesitate to question the sovereigns' authority. While\
-  \ some appreciate their impartial nature, others fault this adherence to neutrality.\
-  \ Regardless, the sovereign dragons' charm and centuries of experience in subtle\
-  \ manipulation have made them exceptional negotiators.<br/><br/> Almost all sovereign\
-  \ dragons appear gold in color. Their hair ranges from common colors found among\
-  \ humans to bright reds, greens, or blues. They're the only dragons with five digits\
-  \ per claw, a mark of special importance. Other imperial dragons dismiss this claim\
-  \ to status and instead tease the sovereign dragons over their need to wear armor,\
-  \ even while in their draconic forms.<br/><br/><b><u>Recall Knowledge - Dragon</u>\
-  \ ( [[DATABASE/skill/Arcana|Arcana]] )</b>: DC 30<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 28<br/><b><u>Specific Lore</u></b>: DC 25"
 dexterity: '+3'
 element: Earth
 fly_speed: '120'

@@ -10,14 +10,6 @@ creature_ability:
 - Feeding Frenzy
 - Nauseating Display
 creature_family: '[[DATABASE/monsterfamily/Qlippoth|Qlippoth]]'
-description: 'Little more than a coiled mass of intestines encircling a massive gaping
-  maw, this qlippoth is an [[DATABASE/plane/Abyss|Abyssal]] scavenger, subsisting
-  on the filth and leftovers of [[DATABASE/monsterfamily/Demon|demons]] and qlippoth
-  alike, although it relishes any opportunity to consume living prey. Despite this
-  seeming lowly role in the Abyssal ecosystem, a nyogoth is far from a stupid beast
-  and can orchestrate cunning ambushes to secure its next meal.<br/><br/><b><u>Recall
-  Knowledge - Fiend</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 29<br/><b><u>Unspecific
-  Lore</u></b>: DC 27<br/><b><u>Specific Lore</u></b>: DC 24'
 dexterity: '+5'
 element: null
 fly_speed: '25'

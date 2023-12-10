@@ -12,16 +12,6 @@ creature_ability:
 - Performance Anxiety
 - Rend
 creature_family: null
-description: "Dreadsong dancers are shaped from the souls of bards, dancers, and musicians\
-  \ who pledged themselves to [[DATABASE/plane/Hell|Hell]] in exchange for enhanced\
-  \ artistic ability. Fiendish flesh-sculptors twist these forfeited souls so they\
-  \ cannot perform the art that drove them in life\u2014sewing their mouths shut,\
-  \ mutilating their limbs, and grafting serrated scythe-like appendages called songblades.\
-  \ Devils send these warped creatures to torment artists who seem likely to break\
-  \ their infernal contracts, both to mete out punishment and, perversely, to give\
-  \ mortals a glimpse of the fate that awaits their damned souls.<br/><br/><b><u>Recall\
-  \ Knowledge - Fiend</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 29<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 27<br/><b><u>Specific Lore</u></b>: DC 24"
 dexterity: '+6'
 element: null
 fly_speed: null

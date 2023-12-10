@@ -9,12 +9,6 @@ constitution: '+2'
 creature_ability:
 - Attack of Opportunity
 creature_family: '[[DATABASE/monsterfamily/Officers|Officers]]'
-description: 'Guards are rank-and-file members of a town watch or city guard, trained
-  to look for trouble, take down criminals, and follow orders. They are a match for
-  only the most fledgling of adventurers and criminals, but, given time, the settlement
-  can usually muster them in numbers sufficient to neutralize most threats.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 15<br/><b><u>Unspecific
-  Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>: DC 10'
 dexterity: '+2'
 element: null
 fly_speed: null

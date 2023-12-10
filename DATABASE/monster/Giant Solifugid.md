@@ -1,65 +1,51 @@
 ﻿---
-ac: '16'
-alignment: N
+ac: null
+alignment: null
 all_resistance: null
 burrow_speed: null
-charisma: '-4'
-climb_speed: '25'
-constitution: '+3'
-creature_ability:
-- Pounce
-- Rend
-creature_family: '[[DATABASE/monsterfamily/Solifugid|Solifugid]]'
-description: 'The smallest of giant solifugids are still large enough to harry desert
-  traders and their mounts.<br/><br/><b><u>Recall Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 15<br/><b><u>Unspecific Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>:
-  DC 10'
-dexterity: '+3'
+charisma: null
+climb_speed: null
+constitution: null
+creature_ability: null
+creature_family: null
+dexterity: null
 element: null
 fly_speed: null
-fortitude: '+6'
+fortitude: null
 hardness: null
-hp: '20'
-id: '809'
+hp: null
+id: '484'
 immunity: null
-intelligence: '-5'
-land_speed: '35'
+intelligence: null
+land_speed: null
 language: null
-level: '1'
-max_speed: '35'
+level: null
+max_speed: null
 name: Giant Solifugid
-perception: '+7'
-rarity: Common
-reflex: '+8'
+perception: null
+rarity: null
+reflex: null
 resistance: null
 rus_type_level: null
 school: null
-sense:
-- '[[DATABASE/monsterability/Darkvision|darkvision]]'
-size: Large
-skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +8'
-- '[[DATABASE/skill/Athletics|Athletics]] +6'
-- '[[DATABASE/skill/Stealth|Stealth]] +6'
-source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
-speed:
-- 35 feet
-- climb 25 feet
+sense: null
+size: null
+skill: null
+source: '[[DATABASE/source/Pathfinder 149. Against the Scarlet Triad|Pathfinder #149:
+  Against the Scarlet Triad]]'
+speed: null
 spell: null
-strength: '+1'
-strength_req: '1'
-strongest_save:
-- Reflex
+strength: null
+strength_req: null
+strongest_save: null
 swim_speed: null
-trait:
-- '[[DATABASE/trait/Animal|Animal]]'
-type: Creature
-vision: Darkvision
-weakest_save:
-- Will
+trait: null
+type: null
+vision: null
+weakest_save: null
 weakness: null
-will: '+4'
-wisdom: '+1'
+will: null
+wisdom: null
 
 ---
 # Giant Solifugid

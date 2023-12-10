@@ -10,26 +10,6 @@ creature_ability:
 - Axe Vulnerability
 - Leech Moisture
 creature_family: '[[DATABASE/monsterfamily/Arboreal|Arboreal]]'
-description: "While some forests have an idyllic, peaceful quality to them, others\
-  \ feel distinctly unfriendly or even sinister\u2014these forests are the favored\
-  \ haunts of arboreal reapers. Sometimes these woodlands are sought out by secretive\
-  \ practitioners of malicious arts who claim the unsettling ambiance aids their abilities;\
-  \ arboreal reapers see no reason to interfere with such practices as long as the\
-  \ balance of their forests isn't harmed.<br/><br/> All arboreals vary in appearance\
-  \ based on their surroundings, but arboreal reapers always seem vaguely eerie, whether\
-  \ they watch over a grim weald or a tropical rain forest. Often slightly warped,\
-  \ twisted, and covered in spiky protrusions, arboreal reapers sometimes sprout around\
-  \ old ruins or other permanent structures, breaking down and incorporating the structures\
-  \ as they mature and become more mobile.<br/><br/> Arboreal reapers focus on the\
-  \ essential decaying phase of a forest's life cycle, becoming especially active\
-  \ in autumn and winter seasons. Their influence can often be seen in the explosion\
-  \ of mushrooms on a rotting log or the enticing fronds of a flourishing carnivorous\
-  \ plant. Like [[DATABASE/monster/Arboreal Warden|arboreal wardens]] , these woodland\
-  \ guardians are quicker to react to perceived threats than the more deliberate [[DATABASE/monster/Arboreal\
-  \ Regent|regents]] or retiring [[DATABASE/monster/Arboreal Archive|archives]] \u2014\
-  at least by arboreal standards.<br/><br/><b><u>Recall Knowledge - Plant</u> ( [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 23<br/><b><u>Unspecific Lore</u></b>: DC 21<br/><b><u>Specific Lore</u></b>:\
-  \ DC 18"
 dexterity: '+2'
 element: null
 fly_speed: null

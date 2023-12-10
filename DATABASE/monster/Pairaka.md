@@ -12,14 +12,6 @@ creature_ability:
 - Hatred of Red
 - Tormenting Dreams
 creature_family: '[[DATABASE/monsterfamily/Div|Div]]'
-description: 'Often charming, sometimes even seductive, pairakas worm their way into
-  mortal relationships, subtly destroying the ties of friendship and love through
-  emotional and physical corruption and plague. Pairakas appear as beautiful, blue-skinned
-  humanoids spotted with large rashes and boils, but they rarely take on their true
-  forms. Instead, they adopt shapes that attract just enough attention for them to
-  worm their way into the confidences of those they wish to torment and corrupt.<br/><br/><b><u>Recall
-  Knowledge - Fiend</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 23<br/><b><u>Unspecific
-  Lore</u></b>: DC 21<br/><b><u>Specific Lore</u></b>: DC 18'
 dexterity: '+5'
 element: null
 fly_speed: '35'

@@ -12,23 +12,6 @@ creature_ability:
 - Taste Anger
 - Vulnerable to Calm Emotions
 creature_family: null
-description: "Hatred so powerful it lives beyond the grave\u2014this sentiment animates\
-  \ the ephemeral crimson apparitions known as seething spirits. Single-minded in\
-  \ nature, they stoke the fires of anger and hate, capable of planning and strategy,\
-  \ but the one thing beyond their grasp is personal growth. Though similar to [[DATABASE/monsterfamily/Ghost|ghosts]]\
-  \ , seething spirits retain much less of their former living selves. Most of their\
-  \ soul has moved on, and only the fury remains. There's no way to set a seething\
-  \ spirit to rest: only violence can destroy it.<br/><br/> By possessing a creature\
-  \ and nurturing the seeds of resentment and rage already within its mind, a seething\
-  \ spirit can greatly alter the host's behavior and personality. When broached about\
-  \ such changes, a host might claim they're just finally \u201Ctelling it like it\
-  \ is.\u201D Because a seething spirit can't voluntarily end its possession, it's\
-  \ essentially one with its victim until the victim's rage results in death. A seething\
-  \ spirit doesn't take pleasure in this death\u2014they rapidly move on in search\
-  \ of a new rageful host.<br/><br/><b><u>Recall Knowledge - Spirit</u> ( [[DATABASE/skill/Occultism|Occultism]]\
-  \ )</b>: DC 30<br/><b><u>Recall Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]]\
-  \ )</b>: DC 30<br/><b><u>Unspecific Lore</u></b>: DC 28<br/><b><u>Specific Lore</u></b>:\
-  \ DC 25"
 dexterity: '+6'
 element: null
 fly_speed: '40'

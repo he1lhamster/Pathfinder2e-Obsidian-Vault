@@ -17,10 +17,6 @@ creature_ability:
 - Sneak Attack
 - Umbral Veil
 creature_family: '[[DATABASE/monsterfamily/Caligni|Caligni]]'
-description: 'Lauded and shunned, caligni assassins often become unwitting pawns in
-  clashes between caligni settlements or between rival factions of caligni society.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 29<br/><b><u>Unspecific
-  Lore</u></b>: DC 27<br/><b><u>Specific Lore</u></b>: DC 24'
 dexterity: '+6'
 element: null
 fly_speed: null

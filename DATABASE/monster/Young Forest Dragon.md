@@ -17,16 +17,6 @@ creature_ability:
 - Frightful Presence
 - Woodland Stride
 creature_family: '[[DATABASE/monsterfamily/Dragon, Forest|Dragon, Forest]]'
-description: 'Forest dragons oversee the endless growth of nature, protect it from
-  plunder, and reclaim ruins for the wilderness. Some say these dragons jealously
-  hoard nature''s bounty for themselves while seeing everyone else who tries to benefit
-  from nature as thieves and poachers. They loathe the progress of technology and
-  civilization, preferring the company of monsters and animals.<br/><br/> Forest dragons
-  are their forests in a literal sense. Over time, their hair becomes mossy, their
-  hide toughens like bark, and small insects or animals live within them.<br/><br/><b><u>Recall
-  Knowledge - Dragon</u> ( [[DATABASE/skill/Arcana|Arcana]] )</b>: DC 29<br/><b><u>Recall
-  Knowledge - Plant</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 29<br/><b><u>Unspecific
-  Lore</u></b>: DC 27<br/><b><u>Specific Lore</u></b>: DC 24'
 dexterity: '+2'
 element: null
 fly_speed: '100'

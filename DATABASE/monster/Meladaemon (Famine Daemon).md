@@ -1,75 +1,78 @@
 ﻿---
-ac: '21'
-alignment: N
+ac: '31'
+alignment: NE
 all_resistance: null
 burrow_speed: null
-charisma: '-1'
-climb_speed: '10'
-constitution: '+4'
+charisma: '+6'
+climb_speed: null
+constitution: '+6'
 creature_ability:
-- Musk
-- Rend
-creature_family: '[[DATABASE/monsterfamily/Sloth|Sloth]]'
-description: 'Megatheriums dwell deep within ancient forests and humid jungles. Fiercely
-  territorial, these immense creatures are often smelt before seen. Though they travel
-  on all fours, megatheriums can reach foliage 20 feet above the forest floor by standing
-  on their hind legs and short, thick tails. Their enormous foreclaws, used to bend
-  tree limbs within reach of their mouths, can cleave a horse in two and crush its
-  rider.<br/><br/> The musk of the megatherium serves as a warning to potential predators
-  and other megatheriums that they''re too close. Adult megatheriums are so territorial
-  that most don''t reproduce more than twice in their lifetime. Though the creatures
-  regularly patrol their territory for intruders, they tend to avoid settlements unless
-  food has become scarce. When they do stray into towns, they''ve been known to devour
-  entire orchards in a day.<br/><br/><b><u>Recall Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 20<br/><b><u>Unspecific Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>:
-  DC 15'
-dexterity: '+2'
+- Consumptive Aura
+- Daemonic Famine
+- Withering Opportunity
+- Withering Touch
+creature_family: '[[DATABASE/monsterfamily/Daemon|Daemon]]'
+dexterity: '+5'
 element: null
-fly_speed: null
-fortitude: '+15'
+fly_speed: '50'
+fortitude: '+23'
 hardness: null
-hp: '85'
-id: '1314'
-immunity: null
-intelligence: '-4'
-land_speed: '30'
-language: null
-level: '5'
-max_speed: '30'
-name: Megatherium
-perception: '+13'
+hp: '225'
+id: '593'
+immunity:
+- '[[DATABASE/trait/Death|death]] effects'
+intelligence: '+3'
+land_speed: '25'
+language:
+- '[[DATABASE/language/Common|Common]]'
+- '[[DATABASE/language/Daemonic|Daemonic]] ; [[DATABASE/monsterability/Telepathy|telepathy
+  100 feet]]'
+level: '11'
+max_speed: '50'
+name: Meladaemon
+perception: '+21'
 rarity: Common
-reflex: '+9'
+reflex: '+20'
 resistance: null
 rus_type_level: null
 school: null
 sense:
-- '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
-- '[[DATABASE/monsterability/Scent|scent]] (imprecise) 60 feet'
-size: Huge
+- '[[DATABASE/monsterability/Darkvision|darkvision]]'
+- '[[DATABASE/monsterability/Lifesense|lifesense (imprecise) 30 feet]]'
+size: Large
 skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +16'
-- '[[DATABASE/skill/Stealth|Stealth]] +9'
-- '[[DATABASE/skill/Survival|Survival]] +11'
-source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +20'
+- '[[DATABASE/skill/Deception|Deception]] +23'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +23'
+- '[[DATABASE/skill/Religion|Religion]] +20'
+- '[[DATABASE/skill/Stealth|Stealth]] +23'
+- '[[DATABASE/skill/Survival|Survival]] +19'
+source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
-- 30 feet
-- climb 10 feet
-spell: null
+- 25 feet
+- fly 50 feet
+spell:
+- '[[DATABASE/spell/Detect Alignment|Detect Alignment]]'
+- '[[DATABASE/spell/Dimension Door|Dimension Door]]'
+- '[[DATABASE/spell/Fear|Fear]]'
+- '[[DATABASE/spell/Magic Missile|Magic Missile]]'
+- '[[DATABASE/spell/Phantom Pain|Phantom Pain]]'
 strength: '+7'
 strength_req: '7'
 strongest_save:
 - Fortitude
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Animal|Animal]]'
+- '[[DATABASE/trait/Daemon|Daemon]]'
+- '[[DATABASE/trait/Fiend|Fiend]]'
 type: Creature
-vision: Low-light vision
+vision: Darkvision
 weakest_save:
-- Reflex
-weakness: null
-will: '+11'
-wisdom: '+2'
+- Will
+weakness:
+- good 10
+will: '+19'
+wisdom: '+4'
 
 ---
 # Meladaemon (Famine Daemon)

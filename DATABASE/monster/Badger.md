@@ -9,12 +9,6 @@ constitution: '+2'
 creature_ability:
 - Ferocity
 creature_family: '[[DATABASE/monsterfamily/Badger|Badger]]'
-description: 'The typical badger has dark, brownish-gray fur highlighted with white
-  markings, particularly on the head, giving it a striped mask of fur around its eyes.
-  A threatened badger can swiftly become a ferocious combatant that typically fights
-  until slain.<br/><br/><b><u>Recall Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 14<br/><b><u>Unspecific Lore</u></b>: DC 12<br/><b><u>Specific Lore</u></b>:
-  DC 9'
 dexterity: '+1'
 element: null
 fly_speed: null

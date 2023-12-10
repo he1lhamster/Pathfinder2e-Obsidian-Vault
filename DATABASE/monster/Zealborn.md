@@ -11,15 +11,6 @@ creature_ability:
 - Rejuvenation
 - Zealous Restoration
 creature_family: null
-description: "Zealborn arise from mortals who become consumed by a noble or idealistic\
-  \ vision and choose undeath as a means of pursuing that vision. Unlike [[DATABASE/monsterfamily/Lich|liches]]\
-  \ , who use undeath as a path toward immortality and individual power, zealborn\
-  \ undergo their transformation with the total conviction that their cause is so\
-  \ just it should never die. They manipulate and control dozens of fanatical followers\
-  \ who sacrifice themselves\u2014and rise again as powerful zeal-damned ghouls\u2014\
-  for the zealborn's cause.<br/><br/><b><u>Recall Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]]\
-  \ )</b>: DC 32<br/><b><u>Unspecific Lore</u></b>: DC 30<br/><b><u>Specific Lore</u></b>:\
-  \ DC 27"
 dexterity: '+4'
 element: null
 fly_speed: null

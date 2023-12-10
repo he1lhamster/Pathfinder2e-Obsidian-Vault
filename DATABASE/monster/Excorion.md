@@ -12,22 +12,6 @@ creature_ability:
 - Vital Transfusion
 - Vomit Blood
 creature_family: null
-description: 'These hideous undead creatures result from an exquisitely painful necromantic
-  process where flayed humanoids are animated through their exposed blood vessels.
-  Cults of undeath typically punish apostates and renegades with this cruel method
-  of reanimation, though sacrificial victims or unfortunate prisoners might suffer
-  a similar fate. Excorions have supernaturally strong, pulsing veins that extend
-  outward from their bodies like thousands of tiny, bloody cilia.<br/><br/> Excorions
-  move their bulks not with their dead muscles but with heaving contractions of their
-  blood vessels, which pull them along in a swift but jerky manner. Excorions can
-  shift their magical blood easily throughout their bodies, allowing them to squirt
-  blood from their gaping, skinless mouths or to messily mark their foes.<br/><br/>
-  Most excorions are so broken by the process of their creation that they retain few
-  memories of their past lives or identities. This is, typically, a minor blessing
-  in their cursed tale, protecting the excorion''s former friends and family from
-  truly realizing their horrific fate.<br/><br/><b><u>Recall Knowledge - Undead</u>
-  ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 25<br/><b><u>Unspecific Lore</u></b>:
-  DC 23<br/><b><u>Specific Lore</u></b>: DC 20'
 dexterity: '+5'
 element: null
 fly_speed: null

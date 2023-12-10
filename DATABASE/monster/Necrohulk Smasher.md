@@ -15,11 +15,6 @@ creature_ability:
 - ''
 - Throw Rock
 creature_family: '[[DATABASE/monsterfamily/Necrohulk|Necrohulk]]'
-description: 'Mutants with incredible strength make the most powerful necrohulks.
-  These necrohulk smashers are so swollen with biological and alchemical muscle enhancements
-  that they can simply pound their way through enemies.<br/><br/><b><u>Recall Knowledge
-  - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 36<br/><b><u>Unspecific
-  Lore</u></b>: DC 34<br/><b><u>Specific Lore</u></b>: DC 31'
 dexterity: '+4'
 element: null
 fly_speed: null

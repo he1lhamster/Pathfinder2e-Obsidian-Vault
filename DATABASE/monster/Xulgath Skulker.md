@@ -12,11 +12,6 @@ creature_ability:
 - Stench
 - Stench Suppression
 creature_family: '[[DATABASE/monsterfamily/Xulgath|Xulgath]]'
-description: "Xulgath warrens are patrolled\u2014some might say \u201Chaunted\u201D\
-  \u2014by the community\u2019s skulkers. These xulgaths specialize in stealth, striking\
-  \ swiftly from the shadows and otherwise ambushing foes.<br/><br/><b><u>Recall Knowledge\
-  \ - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 16<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>: DC 11"
 dexterity: '+4'
 element: null
 fly_speed: null

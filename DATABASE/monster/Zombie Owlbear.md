@@ -11,11 +11,6 @@ creature_ability:
 - Horrifying Screech
 - Slow
 creature_family: '[[DATABASE/monsterfamily/Zombie|Zombie]]'
-description: 'Zombie owlbears combine an [[DATABASE/monster/Owlbear|owlbear''s]] ferocity
-  with mindless undead hatred. Once it draws near, it often stands up, unleashing
-  a guttural, wet roar, before charging into combat without thought of self-preservation.<br/><br/><b><u>Recall
-  Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 18<br/><b><u>Unspecific
-  Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>: DC 13'
 dexterity: '+0'
 element: null
 fly_speed: null

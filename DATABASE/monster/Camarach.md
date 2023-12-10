@@ -14,15 +14,6 @@ creature_ability:
 - Swallow Whole
 - Thoughtsense
 creature_family: null
-description: 'Planar travel is at best imprecise, yet still too predictable for the
-  erratic nature of the [[DATABASE/plane/Maelstrom|Maelstrom]] . Camaraches are spontaneous
-  manifestations of the Maelstrom resisting the imposed order required to erect planar
-  gates. Camaraches rarely leave the Maelstrom, but the internal skin of their rocky
-  bodies constantly splits into temporary extraplanar portals and collapses again.
-  The planar travel a camarach produces is wholly random, and even the camarach has
-  no inkling where it sends victims.<br/><br/><b><u>Recall Knowledge - Monitor</u>
-  ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 38<br/><b><u>Unspecific Lore</u></b>:
-  DC 36<br/><b><u>Specific Lore</u></b>: DC 33'
 dexterity: '+5'
 element: null
 fly_speed: '60'

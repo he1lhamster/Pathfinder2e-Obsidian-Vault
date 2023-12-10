@@ -16,17 +16,6 @@ creature_ability:
 - Block
 - Shield Eyes
 creature_family: null
-description: "The nightwoods are parts of the [[DATABASE/plane/Plane of Wood|Plane\
-  \ of Wood]] permanently bathed in darkness due to an absence of fluorescent plants.\
-  \ Here, the flora and fauna require darkness, not light, to thrive. [[DATABASE/monsterfamily/Troll|Troll]]\
-  \ -like creatures known as nightwood guardians patrol these woods to ensure they\
-  \ remain in perpetual shadow. Considering themselves righteous gardens, they care\
-  \ little for the excuses of anyone else\u2014intruders or residents. The guardians\
-  \ absolutely loathe the light, though it doesn't harm them as it does some varieties\
-  \ of creatures. Though wary of both light and any interloping lifeforms in their\
-  \ natural habitat, a nightwood guardian's fear turns easily to wrath, making the\
-  \ guardian a force of fury who seeks to drive out intruders.<br/><br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 26<br/><b><u>Specific Lore</u></b>: DC 23"
 dexterity: '+3'
 element: Wood
 fly_speed: null

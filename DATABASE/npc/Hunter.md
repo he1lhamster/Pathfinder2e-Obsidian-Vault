@@ -11,13 +11,6 @@ creature_ability:
 - Forest Walker
 - Hunt Prey
 creature_family: '[[DATABASE/monsterfamily/Foresters|Foresters]]'
-description: 'As is reflected in the many depictions of an elk-headed [[DATABASE/deity/Erastil|Erastil]]
-  , god of the hunt, the hunter is very much a creature of the forest, known by the
-  forest and familiar with every aspect of it. After all, the final determination
-  of who is the hunter and who is prey often depends on who is able to make an ally
-  of the terrain.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 23<br/><b><u>Unspecific Lore</u></b>: DC 21<br/><b><u>Specific Lore</u></b>:
-  DC 18'
 dexterity: '+4'
 element: null
 fly_speed: null

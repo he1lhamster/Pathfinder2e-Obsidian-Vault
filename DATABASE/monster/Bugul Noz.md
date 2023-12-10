@@ -14,21 +14,6 @@ creature_ability:
 - Horrid Visage
 - Mirror Vulnerability
 creature_family: null
-description: "This gangly fey humanoid wanders the overgrown paths of dark, misty\
-  \ forests, voluntarily isolating themself in an attempt to protect others from their\
-  \ hideous form. A bugul noz\u2019s appearance is not merely unsightly\u2014to view\
-  \ the being\u2019s form is said to tempt death, and backwoods villagers tell tales\
-  \ of wanderers found struck dead after merely glancing at the creature. As they\
-  \ jaunt through the forest, the bugul noz sings an eerie tune to alert others to\
-  \ their presence and deter these creatures from looking upon them. The bugul noz\
-  \ does not, after all, want to harm anyone; they are inherently kind, if unpredictable,\
-  \ and if they accidentally kill a creature out of panic or confusion, they grieve.\
-  \ A bugul noz who roams the same road long enough compiles a long list of such accidental\
-  \ victims, and they might carry the corpses off to a single mass grave deep in the\
-  \ forest. When not wandering, the bugul noz watches over this grave to ensure that\
-  \ the spirits of their victims are never lonely.<br/><br/><b><u>Recall Knowledge\
-  \ - Fey</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 35<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 33<br/><b><u>Specific Lore</u></b>: DC 30"
 dexterity: '+5'
 element: null
 fly_speed: null

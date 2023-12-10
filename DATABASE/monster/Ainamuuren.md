@@ -12,16 +12,6 @@ creature_ability:
 - Frostbite Runes
 - Snowblind
 creature_family: null
-description: 'Like all saumen kar, Ainamuuren is a large, muscular humanoid with large
-  horns atop his head. Thick, white fur covers everywhere except his face, hands,
-  and feet, which reveal darker skin beneath the fur, covered in an intricate pattern
-  of stylized runes. Unlike other saumen kar, Ainamuuren possess not two but four
-  long, curving horns, jutting from his head like a primal crown. The large, magical
-  greataxe he carries bears intricate, stylized runic patterns that greatly resemble
-  those carved upon his flesh, with the same sharp focus on angular lines and triangular
-  shapes.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 42<br/><b><u>Unspecific Lore</u></b>: DC 40<br/><b><u>Specific Lore</u></b>:
-  DC 37'
 dexterity: '+4'
 element: null
 fly_speed: null

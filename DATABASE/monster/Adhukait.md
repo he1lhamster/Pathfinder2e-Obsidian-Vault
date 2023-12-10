@@ -12,20 +12,6 @@ creature_ability:
 - Dual Mind
 - Dual Opportunity
 creature_family: '[[DATABASE/monsterfamily/Asura|Asura]]'
-description: "Twice as disciplined as a monk and twice as deadly as a warrior, an\
-  \ adhukait is the ultimate perversion of duality, two spiked asura warriors impaled\
-  \ together to form one ferocious, incredibly efficient killing machine. An adhukait's\
-  \ two heads, two hearts, and two minds rarely work as one\u2014except to maim or\
-  \ kill.<br/><br/> Even adhukaits' origin contains not one but two stories. Some\
-  \ believe they were created when two godlike brigands attempted to raid a celestial\
-  \ hall and had their bodies crushed together and thrown down from the heavens. Another\
-  \ legend states two asura twins once challenged a great warrior to duel them in\
-  \ turn. When they attacked him together, he was so enraged he slammed one into the\
-  \ other so hard that they were fused together from that day forth.<br/><br/> Adhukaits\
-  \ are among the most elite asura warriors, making up for what they lack in spellcraft\
-  \ with sheer viciousness and single-minded pursuit of inflicting pain.<br/><br/><b><u>Recall\
-  \ Knowledge - Fiend</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 23<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 21<br/><b><u>Specific Lore</u></b>: DC 18"
 dexterity: '+4'
 element: null
 fly_speed: null

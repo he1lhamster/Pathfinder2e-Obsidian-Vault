@@ -12,14 +12,6 @@ creature_ability:
 - Drowning Touch
 - Surface Skimmer
 creature_family: null
-description: 'When great heroes or other powerful individuals encounter misfortune
-  and die at sea or to other water-related accidents, the anguished soul sometimes
-  clings to its corpse, creating a drenchdead. Drenchdead prefer to lurk in water
-  and attack from ambush, giving victims the same deadly surprise that led to their
-  own deaths. A drenchdead can manipulate water to drown a victim directly but prefers
-  to draw out this suffering.<br/><br/><b><u>Recall Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 32<br/><b><u>Unspecific Lore</u></b>: DC 30<br/><b><u>Specific Lore</u></b>:
-  DC 27'
 dexterity: '+3'
 element: Water
 fly_speed: null

@@ -10,13 +10,6 @@ creature_ability:
 - Grabbing Trunk
 - Trample
 creature_family: '[[DATABASE/monsterfamily/Elephant|Elephant]]'
-description: 'Those who live near elephants have learned to be wary of angering the
-  beasts, but even with precautions in place, elephants sometimes still rampage. There
-  is little an individual person can do when even a single elephant becomes enraged.
-  Furthermore, a herd of angry or frightened elephants can easily destroy an entire
-  village.<br/><br/><b><u>Recall Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 23<br/><b><u>Unspecific Lore</u></b>: DC 21<br/><b><u>Specific Lore</u></b>:
-  DC 18'
 dexterity: '+0'
 element: null
 fly_speed: null

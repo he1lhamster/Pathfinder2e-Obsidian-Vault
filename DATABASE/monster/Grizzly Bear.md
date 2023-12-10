@@ -10,15 +10,6 @@ creature_ability:
 - Mauler
 - Rush
 creature_family: '[[DATABASE/monsterfamily/Bear|Bear]]'
-description: "This large and powerful omnivore inhabits forested hills. While it typically\
-  \ sustains itself on nuts, berries, fish, and small mammals, it\u2019s fiercely\
-  \ territorial and will chase off or kill any creature it views as competition. Grizzly\
-  \ bears are especially temperamental when their young are nearby. In combat, a grizzly\
-  \ bear often attempts to grab and maul its foe with surprising ferocity. It continues\
-  \ its assault until its foe seems like it is no longer a threat, though if the bear\
-  \ is hungry, it will not hesitate to feed.<br/><br/><b><u>Recall Knowledge - Animal</u>\
-  \ ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 18<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 16<br/><b><u>Specific Lore</u></b>: DC 13"
 dexterity: '+1'
 element: null
 fly_speed: null

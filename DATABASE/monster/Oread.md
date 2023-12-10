@@ -1,82 +1,66 @@
 ﻿---
-ac: '22'
-alignment: null
+ac: '19'
+alignment: LN
 all_resistance: null
 burrow_speed: null
 charisma: '+0'
 climb_speed: null
 constitution: '+2'
 creature_ability:
-- Consume Living Metal
-- Metal Scent
-- Metal Snack
-- Rust
-- Water Stride
-creature_family: null
-description: "Ore lice are six-legged insectile creatures that roost either just beneath\
-  \ or above the water's surface. They're highly territorial toward both strangers\
-  \ and each other, able to detect an intruder through the ripples in the water. Due\
-  \ to their diet, ore lice have incredibly tough chitin that's infused with metal.\
-  \ Cannibalism between ore lice is common when they're unable to locate other prey.<br/><br/>\
-  \ Though there are far more suitable environments for ore lice bordering the [[DATABASE/plane/Plane\
-  \ of Air|Plane of Air]] , the creatures are often found where the [[DATABASE/plane/Plane\
-  \ of Earth|Plane of Earth]] meets the [[DATABASE/plane/Plane of Water|Plane of Water]]\
-  \ . This was a mystery that puzzled many\u2014until the [[DATABASE/plane/Plane of\
-  \ Metal|Plane of Metal]] returned between the Planes of Earth and Water. Planar\
-  \ researchers realized that ore lice must have hunted here before the planar schism.\
-  \ On the Plane of Metal, ore lice often appear in horror stories chasing down metal\
-  \ elementals and ferociously devouring them. Their connection to [[DATABASE/deity/Ferrumnestra|Ferrumnestra]]\
-  \ adds to their infamy.<br/><br/><b><u>Recall Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]]\
-  \ , [[DATABASE/skill/Nature|Nature]] )</b>: DC 20<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 18<br/><b><u>Specific Lore</u></b>: DC 15"
-dexterity: '+4'
-element: Water
+- Attack of Opportunity
+- Power Attack
+- Shield Block
+creature_family: '[[DATABASE/monsterfamily/Geniekin|Geniekin]]'
+dexterity: '+1'
+element: null
 fly_speed: null
-fortitude: '+13'
+fortitude: '+7'
 hardness: null
-hp: '60'
-id: '2665'
+hp: '20'
+id: '760'
 immunity: null
-intelligence: '-2'
-land_speed: '35'
-language: null
-level: '5'
-max_speed: '60'
-name: Ore Louse
-perception: '+14'
+intelligence: '+0'
+land_speed: '20'
+language:
+- '[[DATABASE/language/Common|Common]]'
+- '[[DATABASE/language/Terran|Terran]]'
+level: '1'
+max_speed: '20'
+name: Oread Guard
+perception: '+7'
 rarity: Common
-reflex: '+15'
+reflex: '+6'
 resistance: null
 rus_type_level: null
 school: null
-sense:
-- '[[DATABASE/monsterability/Darkvision|darkvision]]'
-- metal scent 30 feet
-- '[[DATABASE/monsterability/Wavesense|wavesense]] 120 feet (imprecise)'
+sense: null
 size: Medium
 skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +12'
-source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
+- '[[DATABASE/skill/Athletics|Athletics]] +7'
+- '[[DATABASE/skill/Crafting|Crafting]] +3'
+- '[[DATABASE/skill/Medicine|Medicine]] +5'
+- '[[DATABASE/skill/Society|Society]] +3'
+- '[[DATABASE/skill/Survival|Survival]] +5'
+source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
 speed:
-- 35 feet
-- swim 60 feet; water stride
+- 20 feet
 spell: null
-strength: '+1'
-strength_req: '1'
+strength: '+4'
+strength_req: '4'
 strongest_save:
-- Reflex
-swim_speed: '60'
+- Fortitude
+swim_speed: null
 trait:
-- '[[DATABASE/trait/Amphibious|Amphibious]]'
-- '[[DATABASE/trait/Beast|Beast]]'
-- '[[DATABASE/trait/Water|Water]]'
+- '[[DATABASE/trait/Human|Human]]'
+- '[[DATABASE/trait/Humanoid|Humanoid]]'
+- '[[DATABASE/trait/Oread|Oread]]'
 type: Creature
-vision: Darkvision
+vision: null
 weakest_save:
 - Will
 weakness: null
-will: '+10'
-wisdom: '+3'
+will: '+5'
+wisdom: '+2'
 
 ---
 # Oread

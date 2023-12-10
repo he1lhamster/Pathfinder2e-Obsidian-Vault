@@ -10,16 +10,6 @@ creature_ability:
 - Create Golden Apple
 - Sunset Dependent
 creature_family: '[[DATABASE/monsterfamily/Nymph|Nymph]]'
-description: 'Hesperides are nymphs of sunset, guardians of the colorful golden hues
-  of the setting sun. They live on remote islands, isolated coastal cliffsides, and
-  hidden valleys, all places where the sunset''s golden glow can have the strongest
-  effect. Hesperides manipulate sunlight with dancelike motions, allowing them to
-  create graceful ribbons of light at close range and searing rays at a distance.
-  Due to their connection to the beauty of the daily cycle of the setting sun, hesperides
-  feel a satisfaction from methodical routine that can feel alien to wilder, more
-  chaotic fey. <br/><br/><b><u>Recall Knowledge - Fey</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 26<br/><b><u>Unspecific Lore</u></b>: DC 24<br/><b><u>Specific Lore</u></b>:
-  DC 21'
 dexterity: '+6'
 element: null
 fly_speed: '60'

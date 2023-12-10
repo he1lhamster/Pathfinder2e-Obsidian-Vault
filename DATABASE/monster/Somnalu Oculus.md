@@ -10,13 +10,6 @@ creature_ability:
 - Clearing Blink
 - Scrutinizing Presence
 creature_family: '[[DATABASE/monsterfamily/Somnalu|Somnalu]]'
-description: "When [[DATABASE/monster/Somnalu|Somnalu]] is defeated, its central eye\
-  \ abandons its dying body to create an ethereal body from the wisps of dreams. Over\
-  \ centuries\u2014or sooner, if it can find a powerful source of nightmares\u2014\
-  it can re-form a full body and return to its corporeal self.<br/><br/><b><u>Recall\
-  \ Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC\
-  \ 38<br/><b><u>Unspecific Lore</u></b>: DC 36<br/><b><u>Specific Lore</u></b>: DC\
-  \ 33"
 dexterity: '+5'
 element: null
 fly_speed: '40'

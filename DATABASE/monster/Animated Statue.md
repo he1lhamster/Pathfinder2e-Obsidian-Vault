@@ -9,14 +9,6 @@ constitution: '+5'
 creature_ability:
 - Construct Armor
 creature_family: '[[DATABASE/monsterfamily/Animated Object|Animated Object]]'
-description: "Animated statues are often used to guard crypts, small shrines, or areas\
-  \ in government buildings where they can be positioned amid normal statues to hide\
-  \ their true nature until an intruder arouses their ire. Adventurers\u2019 suspicions\
-  \ regarding statues suddenly animating and attacking has led many less scrupulous\
-  \ adventurers to automatically attack any statues they encounter, ruining harmless,\
-  \ ancient relics.<br/><br/><b><u>Recall Knowledge - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]]\
-  \ , [[DATABASE/skill/Crafting|Crafting]] )</b>: DC 18<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 16<br/><b><u>Specific Lore</u></b>: DC 13"
 dexterity: '-2'
 element: Earth
 fly_speed: null

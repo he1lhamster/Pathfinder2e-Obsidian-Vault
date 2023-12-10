@@ -13,26 +13,6 @@ creature_ability:
 - Viscous Sludge
 - Zombification
 creature_family: null
-description: "When creatures carrying magical items die in a tar pit, the magic mixes\
-  \ with the tar itself. Over centuries, this energy animates the tar into a relentless\
-  \ and horrifying ooze.<br/><br/> Tar oozes begin their existence in tar pits, naturally\
-  \ occurring lakes of thick and sticky petroleum. Tar pits make effective traps for\
-  \ animals and humanoids alike, as they're often covered with thin layers of dirt\
-  \ or grass or reflect sunlight in a way that resembles a watering hole. Once a creature\
-  \ steps or falls into the sticky tar of the pit, escape is all but impossible. Slowly,\
-  \ the caught creature\u2014and any other victims lured near by its plaintive cries\u2014\
-  sinks into the tar, suffocates, and dies.<br/><br/> Magic inherent in a captive\
-  \ creature or carried in powerful magic items carried by the dead remains inside\
-  \ the tar, where it gathers, mixes, and slowly energizes it until it begins to move\
-  \ and seek prey. A tar ooze seeps slowly over the land, catching anything it touches\
-  \ in a sticky embrace and devouring it.<br/><br/> Living things consumed by the\
-  \ ooze slowly have their flesh digested, only for the bones and fur to be replaced\
-  \ with blobs of sticky tar. These unnatural zombies eventually crawl away, hungry\
-  \ for flesh. Without a master to give them instructions, these [[DATABASE/monsterfamily/Zombie,\
-  \ Tar|tar zombies]] often follow the ooze that created them, swarming anyone bold\
-  \ or foolish enough to get in their way.<br/><br/><b><u>Recall Knowledge - Ooze</u>\
-  \ ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 29<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 27<br/><b><u>Specific Lore</u></b>: DC 24"
 dexterity: '-3'
 element: null
 fly_speed: null

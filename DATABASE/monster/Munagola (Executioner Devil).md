@@ -1,106 +1,77 @@
 ﻿---
-ac: '33'
-alignment: NE
+ac: '31'
+alignment: LE
 all_resistance: null
 burrow_speed: null
 charisma: '+6'
 climb_speed: null
-constitution: '+5'
+constitution: '+6'
 creature_ability:
-- Breath of Sand
-- Channel Rot
-- Great Despair
-- Sand Form
-- Sand Rot
-- Sand Vision
-- Sandstorm
-creature_family: '[[DATABASE/monsterfamily/Mummy|Mummy]]'
-description: 'In ancient Osirion, worshipers completely devoted to the evil god [[DATABASE/deity/Set|Set]]
-  often underwent a mummification process to serve as his prophets after their death.<br/><br/><b><u>Recall
-  Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 33<br/><b><u>Unspecific
-  Lore</u></b>: DC 31<br/><b><u>Specific Lore</u></b>: DC 28'
-dexterity: '+4'
+- Effects
+- Felling Assault
+- Flames of Fury
+- Flight Commander of Dis
+- No Escape
+- Sudden Dive
+creature_family: '[[DATABASE/monsterfamily/Devil|Devil]]'
+dexterity: '+6'
 element: null
-fly_speed: null
-fortitude: '+22'
+fly_speed: '40'
+fortitude: '+23'
 hardness: null
-hp: 250 ( negative healing )
-id: '1887'
+hp: '165'
+id: '1115'
 immunity:
-- '[[DATABASE/trait/Death|death]] effects'
-- '[[DATABASE/trait/Disease|disease]]'
-- '[[DATABASE/condition/Paralyzed|paralyzed]]'
-- '[[DATABASE/trait/Poison|poison]]'
-- '[[DATABASE/condition/Unconscious|unconscious]]'
-intelligence: '+6'
-land_speed: '20'
+- fire
+intelligence: '+3'
+land_speed: '30'
 language:
-- '[[DATABASE/language/Necril|Necril]] ; plus any two languages they knew while alive'
-level: '13'
-max_speed: '20'
-name: Mummy Prophet of Set
-perception: '+23'
-rarity: Uncommon
+- '[[DATABASE/language/Celestial|Celestial]]'
+- '[[DATABASE/language/Common|Common]]'
+- '[[DATABASE/language/Draconic|Draconic]]'
+- '[[DATABASE/language/Infernal|Infernal]] ; [[DATABASE/monsterability/Telepathy|telepathy]]
+  100 feet'
+level: '11'
+max_speed: '40'
+name: Munagola
+perception: '+24'
+rarity: Common
 reflex: '+21'
-resistance: null
+resistance:
+- physical 10 (except [[DATABASE/equipment/Silver Weapon|silver]] )
 rus_type_level: null
 school: null
 sense:
-- '[[DATABASE/monsterability/Darkvision|darkvision]]'
-- sand vision
+- '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
 size: Medium
 skill:
-- '[[DATABASE/skill/Arcana|Arcana]] +23'
-- '[[DATABASE/skill/Deception|Deception]] +25'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +27'
-- '[[DATABASE/skill/Occultism|Occultism]] +25'
-- '[[DATABASE/skill/Religion|Religion]] +27'
-- '[[DATABASE/skill/Society|Society]] +23'
-- '[[DATABASE/skill/Stealth|Stealth]] +23'
-source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +23'
+- '[[DATABASE/skill/Athletics|Athletics]] +22'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +21'
+- '[[DATABASE/skill/Religion|Religion]] +18'
+- '[[DATABASE/skill/Stealth|Stealth]] +21'
+source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
-- 20 feet
+- 30 feet
+- fly 40 feet
 spell:
-- '[[DATABASE/spell/Air Walk|Air Walk]]'
-- '[[DATABASE/spell/Blindness|Blindness]]'
-- '[[DATABASE/spell/Chill Touch|Chill Touch]]'
-- '[[DATABASE/spell/Chilling Darkness|Chilling Darkness]]'
-- '[[DATABASE/spell/Crisis of Faith|Crisis of Faith]]'
-- '[[DATABASE/spell/Cup of Dust|Cup of Dust]]'
-- '[[DATABASE/spell/Death Knell|Death Knell]]'
-- '[[DATABASE/spell/Detect Magic|DetectMagic]]'
-- '[[DATABASE/spell/Disintegrate|Disintegrate]]'
-- '[[DATABASE/spell/Divine Lance|Divine Lance]]'
-- '[[DATABASE/spell/Divine Wrath|Divine Wrath]]'
-- '[[DATABASE/spell/Eclipse Burst|Eclipse Burst]]'
-- '[[DATABASE/spell/Fear|Fear]]'
-- '[[DATABASE/spell/Freedom of Movement|Freedom of Movement]]'
-- '[[DATABASE/spell/Guidance|Guidance]]'
-- '[[DATABASE/spell/Harm|Harm]]'
-- '[[DATABASE/spell/Penumbral Shroud|Penumbral Shroud]]'
-- '[[DATABASE/spell/Ray of Enfeeblement|Ray of Enfeeblement]]'
-- '[[DATABASE/spell/Resist Energy|Resist Energy]]'
-- '[[DATABASE/spell/See Invisibility|See Invisibility]]'
-- '[[DATABASE/spell/Shadow Blast|Shadow Blast]]'
-- '[[DATABASE/spell/Shield|Shield]]'
-- '[[DATABASE/spell/Wall of Flesh|Wall of Flesh]]'
-strength: '+5'
-strength_req: '5'
+- '[[DATABASE/spell/Dimension Door|Dimension Door]]'
+strength: '+7'
+strength_req: '7'
 strongest_save:
-- Will
+- Fortitude
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Mummy|Mummy]]'
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
-- '[[DATABASE/trait/Undead|Undead]]'
+- '[[DATABASE/trait/Devil|Devil]]'
+- '[[DATABASE/trait/Fiend|Fiend]]'
 type: Creature
-vision: Darkvision
+vision: Greater darkvision
 weakest_save:
-- Reflex
+- Will
 weakness:
-- '[[DATABASE/trait/Fire|fire]] 15'
-will: '+25'
-wisdom: '+8'
+- good 10
+will: '+20'
+wisdom: '+5'
 
 ---
 # Munagola (Executioner Devil)

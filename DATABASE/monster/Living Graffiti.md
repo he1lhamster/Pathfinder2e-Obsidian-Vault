@@ -1,66 +1,76 @@
 ﻿---
-ac: '17'
-alignment: CE
+ac: '19'
+alignment: CN
 all_resistance: null
 burrow_speed: null
-charisma: '-2'
+charisma: '+1'
 climb_speed: null
-constitution: '+4'
-creature_ability: null
-creature_family: '[[DATABASE/monsterfamily/Ogre|Ogre]]'
-description: "The simplest of ogres are slabs of muscle with hatefully beady eyes,\
-  \ misshapen visages, and malformed bodies. Always eager for mayhem and murder, ogre\
-  \ warriors are quick to turn on their kin when there\u2019s a shortage of smaller\
-  \ folk to torment, so those who lead ogres do their best to keep them constantly\
-  \ distracted with new opportunities for raids and ruin.<br/><br/><b><u>Recall Knowledge\
-  \ - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 18<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>: DC 13"
-dexterity: '-1'
+constitution: '+1'
+creature_ability:
+- Backdrop
+- Splatter
+- Surface-Bound
+creature_family: '[[DATABASE/monsterfamily/Living Symbol|Living Symbol]]'
+dexterity: '+4'
 element: null
 fly_speed: null
-fortitude: '+11'
+fortitude: '+8'
 hardness: null
 hp: '50'
-id: '317'
-immunity: null
+id: '1221'
+immunity:
+- '[[DATABASE/trait/Death|death]] effects'
+- '[[DATABASE/trait/Disease|disease]]'
+- '[[DATABASE/condition/Doomed|doomed]]'
+- '[[DATABASE/condition/Drained|drained]]'
+- '[[DATABASE/condition/Fatigued|fatigued]]'
+- '[[DATABASE/trait/Healing|healing]]'
+- '[[DATABASE/trait/Necromancy|necromancy]]'
+- '[[DATABASE/trait/Nonlethal|nonlethal]]'
+- '[[DATABASE/condition/Paralyzed|paralyzed]]'
+- '[[DATABASE/trait/Poison|poison]]'
+- '[[DATABASE/condition/Sickened|sickened]]'
+- '[[DATABASE/condition/Unconscious|unconscious]]'
 intelligence: '-2'
 land_speed: '25'
 language:
-- '[[DATABASE/language/Jotun|Jotun]]'
+- '[[DATABASE/language/Common|Common]] ; (can''t speak any language)'
 level: '3'
 max_speed: '25'
-name: Ogre Warrior
-perception: '+5'
-rarity: Common
-reflex: '+6'
+name: Oil Living Graffiti
+perception: '+9'
+rarity: Rare
+reflex: '+11'
 resistance: null
 rus_type_level: null
 school: null
 sense:
-- darkvision
-size: Large
+- '[[DATABASE/monsterability/Darkvision|darkvision]]'
+size: Medium
 skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +12'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +9'
-source: '[[DATABASE/source/Bestiary|Bestiary]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +11'
+- '[[DATABASE/skill/Crafting|Crafting]] +5'
+- '[[DATABASE/skill/Deception|Deception]] +10'
+- '[[DATABASE/skill/Stealth|Stealth]] +11'
+source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
 speed:
 - 25 feet
 spell: null
-strength: '+5'
-strength_req: '5'
+strength: '+2'
+strength_req: '2'
 strongest_save:
-- Fortitude
+- Reflex
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Giant|Giant]]'
-- '[[DATABASE/trait/Humanoid|Humanoid]]'
+- '[[DATABASE/trait/Construct|Construct]]'
+- '[[DATABASE/trait/Rare|Rare]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Will
 weakness: null
-will: '+5'
-wisdom: '+0'
+will: '+7'
+wisdom: '+2'
 
 ---
 # Living Graffiti

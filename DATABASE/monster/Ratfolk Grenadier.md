@@ -13,9 +13,6 @@ creature_ability:
 - Quick Stow
 - Swarming
 creature_family: '[[DATABASE/monsterfamily/Ratfolk|Ratfolk]]'
-description: 'Ratfolk grenadiers use alchemy and stealth to defend their communities.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 19<br/><b><u>Unspecific
-  Lore</u></b>: DC 17<br/><b><u>Specific Lore</u></b>: DC 14'
 dexterity: '+4'
 element: null
 fly_speed: null

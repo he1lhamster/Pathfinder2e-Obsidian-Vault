@@ -13,24 +13,6 @@ creature_ability:
 - Motion Sense
 - Treasure Sense
 creature_family: '[[DATABASE/monsterfamily/Ooze|Ooze]]'
-description: "Though many oozes hunt among the dreary confines of underground caverns,\
-  \ dungeons, and abandoned ruins, others seek to quell their hunger in areas well-trafficked\
-  \ by civilized creatures. The aptly named vaultbreaker oozes exhibit a mindless\
-  \ compulsion to feed on and digest precious metals. When near precious metals, the\
-  \ ichor exuded from their metallic plasm tarnishes black and forms small, jagged\
-  \ crystals that dot the oozes' surface. Like a strange biological compass, these\
-  \ crystals point vaultbreaker oozes to their next meal.<br/><br/> Though mindless,\
-  \ these strange oozes exhibit an innate instinct for picking and bypassing locks\
-  \ to reach their meals by inserting a gelatinous pseudopod into a keyhole and then\
-  \ hardening the appendage into solid metal, forming a tool similar to a skeleton\
-  \ key.<br/><br/> Vaultbreaker oozes can often be found in cities where tectonic\
-  \ instability has created fissures and cracks, allowing them to infiltrate basements,\
-  \ vaults, and underground chambers that may contain treasure. When rumors of vaultbreaker\
-  \ ooze sightings surface, banker consortiums, Abadaran priests, and even local thieves\
-  \ guilds offer hefty sums to have the dangerous oozes destroyed\u2014though some\
-  \ might instead offer a bounty for their capture.<br/><br/><b><u>Recall Knowledge\
-  \ - Ooze</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 24<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 22<br/><b><u>Specific Lore</u></b>: DC 19"
 dexterity: '+2'
 element: null
 fly_speed: null

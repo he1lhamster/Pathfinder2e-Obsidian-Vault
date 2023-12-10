@@ -10,12 +10,6 @@ creature_ability:
 - Snare Crafting
 - Sneak Attack
 creature_family: '[[DATABASE/monsterfamily/Villains|Villains]]'
-description: 'Saboteurs excel at infiltration, using it to perform destructive acts,
-  whether they are the physical destruction of a valuable object or obstructing important
-  political proceedings. Unlike those of spies, the motivations of saboteurs is not
-  to steal information, but rather to sow chaos among their enemies.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 16<br/><b><u>Unspecific
-  Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>: DC 11'
 dexterity: '+3'
 element: null
 fly_speed: null

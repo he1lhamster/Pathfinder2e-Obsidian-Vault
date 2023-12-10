@@ -11,13 +11,6 @@ creature_ability:
 - "General\u2019s Cry"
 - Polearm Critical Specialization
 creature_family: '[[DATABASE/monsterfamily/Hobgoblin|Hobgoblin]]'
-description: "Hobgoblin generals serve as leaders of entire armies and rulers of hobgoblin\
-  \ settlements. A general does not permit the luxuries of rule to soften them. They\
-  \ lead their forces on the field of battle and view this opportunity to excel in\
-  \ a fight at the head of an army as the true reward for a life spent honing one\u2019\
-  s skills in battle.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]\
-  \ )</b>: DC 22<br/><b><u>Unspecific Lore</u></b>: DC 20<br/><b><u>Specific Lore</u></b>:\
-  \ DC 17"
 dexterity: '+3'
 element: null
 fly_speed: null

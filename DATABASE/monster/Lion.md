@@ -11,11 +11,6 @@ creature_ability:
 - Pounce
 - Sneak Attack
 creature_family: '[[DATABASE/monsterfamily/Cat|Cat]]'
-description: 'Lions are cooperative hunters, ambushing dangerous prey in groups of
-  lionesses that work in tandem to trap and kill their prey. Male lions are typically
-  larger, with long manes, and when they hunt, they tend to do so on their own.<br/><br/><b><u>Recall
-  Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 18<br/><b><u>Unspecific
-  Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>: DC 13'
 dexterity: '+3'
 element: null
 fly_speed: null

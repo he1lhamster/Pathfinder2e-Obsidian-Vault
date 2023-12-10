@@ -15,13 +15,6 @@ creature_ability:
 - ''
 - Raise Guard
 creature_family: null
-description: 'Collectors who want to guard their magical arsenals procure or build
-  swordkeepers. These constructs are equal parts display case and security system,
-  each holding a single weapon within its body and projecting copies of the weapon
-  it stores to deter would-be thieves.<br/><br/><b><u>Recall Knowledge - Construct</u>
-  ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]] )</b>:
-  DC 27<br/><b><u>Unspecific Lore</u></b>: DC 25<br/><b><u>Specific Lore</u></b>:
-  DC 22'
 dexterity: '+5'
 element: null
 fly_speed: null

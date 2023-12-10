@@ -24,10 +24,6 @@ creature_ability:
 - Vrykolakas Vulnerabilities
 - Vulnerable to Decapitation
 creature_family: '[[DATABASE/monsterfamily/Vampire, Vrykolakas|Vampire, Vrykolakas]]'
-description: 'Vrykolakas ancients are the sinister overlords of their kind, stealing
-  blood, breath, and life to feed their immortal hunger.<br/><br/><b><u>Recall Knowledge
-  - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 33<br/><b><u>Unspecific
-  Lore</u></b>: DC 31<br/><b><u>Specific Lore</u></b>: DC 28'
 dexterity: '+5'
 element: null
 fly_speed: null

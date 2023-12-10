@@ -11,12 +11,6 @@ creature_ability:
 - Rend
 - Wolverine Rage
 creature_family: '[[DATABASE/monsterfamily/Wolverine|Wolverine]]'
-description: 'Wolverines resemble small bears, to which they are related. Stocky and
-  muscular with long claws, wolverines are about 3 feet in length and weigh approximately
-  40 pounds. They have a thick fur coat that protects them from the cold temperatures
-  of the forests and frozen tundras where they reside.<br/><br/><b><u>Recall Knowledge
-  - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 16<br/><b><u>Unspecific
-  Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>: DC 11'
 dexterity: '+3'
 element: null
 fly_speed: null

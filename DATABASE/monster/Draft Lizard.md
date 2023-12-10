@@ -10,35 +10,6 @@ creature_ability:
 - Constrict
 - Lizard Poison
 creature_family: null
-description: 'Stout reptiles with scales in a checkered gold and white pattern, draft
-  lizards sport powerful jaws and even stronger backs capable of hauling loads four
-  times their own weight. Native to the underground tunnels of the Five Kings Mountains,
-  the reptiles have been domesticated to serve as beasts of burden within the Depths
-  and sprawling web of passages beyond. Zoologists theorize that they are a part of
-  the same reptile family as [[DATABASE/monster/Zetogeki|zetogekis]] , as the two
-  share a similar build and other physical characteristics.<br/> Draft lizards within
-  the vicinity of Highhelm have adapted their diet to feed mainly on grindlegrubs.
-  However, residual behavior suggests in lean times or before domestication they would
-  devour stones for sustenance. The animals can still be observed habitually gnawing
-  on boulders or large stones, cracking them with their powerful jaws and seeming
-  to savor the taste as they roll the debris around in their mouths. Overworked draft
-  lizards will stray from their handler''s control in order to consume rocks, only
-  to return back to their path with a new undercurrent of purpose.<br/> Normally as
-  docile as any other beast of burden, the draft lizards of Highhelm will defend themselves
-  if attacked by predators from the Darklands. Curiously, the lizards have an intense
-  hatred for [[DATABASE/monsterfamily/Duergar|hryngars]] , attacking them without
-  any prompting or hesitation. No dwarven records indicate teaching this behavior
-  during the domestication of the animals, leaving its origins a mystery. Some caravanners
-  even claim that the reptiles can sense the presence of hryngars, giving advanced
-  warning of attacks by hissing menacingly into the darkness.<br/> Though too large
-  to be exceptionally dexterous, with careful training some draft lizards can be taught
-  performative tricks. The Rolling Wheel is particularly known for a trio of reptiles
-  that balance on their tails, catch hurled boulders in their jaws, and other stunts.
-  The spectacle is well known in Highhelm, considered one of the big acts that the
-  group performs. This has led to some younger dwarves attempting to teach their animals
-  the same feats, mostly resulting in failure and light property damage in the Depths.<br/><br/><b><u>Recall
-  Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 19<br/><b><u>Unspecific
-  Lore</u></b>: DC 17<br/><b><u>Specific Lore</u></b>: DC 14'
 dexterity: '+2'
 element: null
 fly_speed: null

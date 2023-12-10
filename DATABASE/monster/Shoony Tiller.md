@@ -9,16 +9,6 @@ constitution: '+1'
 creature_ability:
 - Dig Quickly
 creature_family: '[[DATABASE/monsterfamily/Shoony|Shoony]]'
-description: "Nearly all shoonies in a given settlement are farmers, fishers, or foragers.\
-  \ Shoonies are not expected to fight to protect their settlements; most agree it\
-  \ is better to live in cowardice than to die with that foolish, intangible principle\
-  \ taller races call \u201Chonor.\u201D Many shoonies hone their skill with tools\
-  \ rather than arms in the knowledge that whatever is lost to violence can be rebuilt.\
-  \ When cornered, a shoony may put up a fight with whatever they have on hand; the\
-  \ average shoony can wield a simple shovel or pick in melee as well as most humans\
-  \ can wield a sword.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]\
-  \ )</b>: DC 19<br/><b><u>Unspecific Lore</u></b>: DC 17<br/><b><u>Specific Lore</u></b>:\
-  \ DC 14"
 dexterity: '+1'
 element: null
 fly_speed: null

@@ -9,17 +9,6 @@ constitution: '+4'
 creature_ability:
 - Gouging Lunge
 creature_family: '[[DATABASE/monsterfamily/Dinosaur|Dinosaur]]'
-description: 'Iguanodons are large, herbivorous dinosaurs that inhabit swamps and
-  forests where they browse on the abundant vegetation. The iguanodon is capable of
-  moving on two feet or on four, quickly switching from one stance to the other depending
-  on whether it needs to move through dense foliage or to reach delectable morsels
-  hanging up in the canopy.<br/><br/>Although iguanodons are herbivores, they are
-  notoriously quick to anger. Their thumb spikes make their claws particularly devastating
-  weapons. A well-placed blow from one of these claws can turn a hungry predator into
-  a cowering beast with one swift strike. Iguanodons are 30 feet long and weigh 6,000
-  pounds.<br/><br/><b><u>Recall Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 22<br/><b><u>Unspecific Lore</u></b>: DC 20<br/><b><u>Specific Lore</u></b>:
-  DC 17'
 dexterity: '+4'
 element: null
 fly_speed: null

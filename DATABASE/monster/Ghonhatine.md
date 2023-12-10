@@ -11,13 +11,6 @@ creature_ability:
 - Fleshgout
 - Stench
 creature_family: '[[DATABASE/monsterfamily/Fleshwarp|Fleshwarp]]'
-description: "In transforming [[DATABASE/monsterfamily/Xulgath|xulgaths]] , [[DATABASE/monsterfamily/Drow|drow]]\
-  \ fleshwarpers sought not to create a new type of creature but to recapture a form\
-  \ of xulgath predecessor believed entirely vanished from Golarion. Ghonhatines are\
-  \ the result\u2014hulking reptilian beasts who prefer to crawl on all fours and\
-  \ tear at their foes with bestial fury.<br/><br/><b><u>Recall Knowledge - Aberration</u>\
-  \ ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 27<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 25<br/><b><u>Specific Lore</u></b>: DC 22"
 dexterity: '+3'
 element: null
 fly_speed: null

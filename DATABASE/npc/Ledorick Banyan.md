@@ -15,47 +15,6 @@ creature_ability:
 - Show-Off
 - Sudden Charge
 creature_family: null
-description: "The handsome Ledorick Banyan leads the Banyan Boys and serves as Willowside's\
-  \ primary protector. Although beloved by his town, Ledorick's first priority is\
-  \ always his own ego, and the xulgath siege has put him in over his head.<br/><br/>\
-  \ A human man in his late twenties, Ledorick is tall, broad-shouldered, and incredibly\
-  \ handsome. His long, flowing brown hair and rakish grin form a striking impression\
-  \ of Willowside's primary protector. He has a habit of wearing his chain shirt unfastened\
-  \ to show off his muscles. He radiates health and vitality, in striking contrast\
-  \ to most other residents of Willowside, who have a gaunt appearance from insufficient\
-  \ food.<br/><br/> Ledorick Banyan has known his role to play in life almost from\
-  \ birth. The Banyan family has held the position of Willowside's protectors going\
-  \ back for generations. While early Banyans held titles like \u201Csheriff,\u201D\
-  \ \u201Csergeant,\u201D or \u201Cchief guard,\u201D the role has simply become known\
-  \ as \u201Cprotector\u201D in recent years. Ledorick is the oldest child of his\
-  \ generation, and when his mother retired from serving as protector, Ledorick happily\
-  \ took over. Along with his two younger brothers, Stirvyn and Tashlock, the trio\
-  \ is commonly known as \u201Cthe Banyan Boys\u201D around town.<br/><br/> Knowing\
-  \ that he would one day be called into service for the town, Ledorick trained hard\
-  \ from an early age and became comfortable with a variety of weapons. He showed\
-  \ a particular talent for the blade, and quickly established himself as a master\
-  \ swordsman, outpacing his instructors in the small town. Unfortunately, the combination\
-  \ of natural talent, trained skill, and a birthright position of authority combined\
-  \ to give Ledorick an insufferable ego. While he genuinely cares about protecting\
-  \ the town of Willowside, he talks about himself constantly and belittles others\
-  \ almost as often. Worse, he takes perceived insults to himself as seriously as\
-  \ attacks on the town, throwing people in cells overnight simply for doubting his\
-  \ ability, his dedication, or even his looks.<br/><br/> Ledorick loves to be the\
-  \ center of attention, and he takes umbrage with anyone else who spends time in\
-  \ the spotlight. This creates a natural rivalry with the Circus of Wayward Wonders\
-  \ that even the most understanding and openhanded intermediaries can't resolve.\
-  \ Ledorick therefore greets the heroes only with sarcasm and disdain, bragging about\
-  \ how he could do half the acts better than the real circus does. Even so, he's\
-  \ quick to help the heroes if the town is at stake, though he is unlikely to let\
-  \ them forget his assistance.<br/><br/> Ledorick resents the Welt and its detrimental\
-  \ effects on Willowside, and he is bitter toward the residents who choose to simply\
-  \ leave town. This animosity primarily stems from the fact that there is a major\
-  \ threat to the town that he can't simply hit with his sword or send running with\
-  \ a few bold words.<br/><br/> Everyone in town knows of the iconic Banyan family\
-  \ longsword Ledorick carries in battle, but he secretly keeps a second family heirloom\
-  \ to himself: a [[DATABASE/equipment/Ring of Sustenance|ring of sustenance]] . This\
-  \ ring is why he's remained hale and strong even as most of the residents of the\
-  \ town slowly waste away."
 dexterity: '+4'
 element: null
 fly_speed: null

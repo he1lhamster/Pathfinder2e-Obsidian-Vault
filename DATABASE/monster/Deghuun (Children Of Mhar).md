@@ -1,90 +1,75 @@
 ﻿---
-ac: '27'
+ac: '42'
 alignment: NE
 all_resistance: null
 burrow_speed: null
-charisma: '+5'
-climb_speed: null
-constitution: '+4'
+charisma: '+4'
+climb_speed: '40'
+constitution: '+8'
 creature_ability:
-- Pallid Plague
-- Reap
-- Share Blessings
-- Wake the Dead
+- Beak Crunch
+- Smoke Vision
+- Sulfurous Plume
+- Tentacle Assault
+- Unfathomable Aspect
 creature_family: null
-description: "Only the most fanatic followers of [[DATABASE/deity/Urgathoa|Urgathoa]]\
-  \ , goddess of disease, gluttony, and undeath, could ever hope to become a child\
-  \ of Urgathoa. These \u201Cblessed\u201D undead can't be created by any save Urgathoa\
-  \ herself, and the blessing must be bestowed at the moment of death. Those rare\
-  \ few chosen by their goddess to serve as undying vessels for her power are revered\
-  \ by Urgathoa's faithful. Most surround themselves with fanatic cults or undead\
-  \ armies, subjugating and terrorizing secluded communities.<br/><br/> Children of\
-  \ Urgathoa are arrogant, notoriously cruel, and utterly devoted to their goddess\
-  \ and her teachings. They show no favor to members of their faith, inflicting pain\
-  \ and sowing infection throughout Urgathoa's clergy as often as unaffiliated victims.\
-  \ Children of Urgathoa are at their most sadistic while punishing heretics, particularly\
-  \ those who prove too afraid to accept the goddess's gifts of death and undeath.<br/><br/><b><u>Recall\
-  \ Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 29<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 27<br/><b><u>Specific Lore</u></b>: DC 24"
-dexterity: '+3'
+dexterity: '+6'
 element: null
-fly_speed: '40'
-fortitude: '+14'
+fly_speed: null
+fortitude: '+34'
 hardness: null
-hp: 165 ( negative healing )
-id: '1845'
+hp: '420'
+id: '975'
 immunity:
-- '[[DATABASE/trait/Death|death]] effects'
-- '[[DATABASE/trait/Disease|disease]]'
-- '[[DATABASE/condition/Paralyzed|paralyzed]]'
+- fire
 - '[[DATABASE/trait/Poison|poison]]'
-- '[[DATABASE/condition/Unconscious|unconscious]]'
-intelligence: '+2'
-land_speed: null
+intelligence: '-1'
+land_speed: '40'
 language:
-- '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Necril|Necril]]'
-level: '8'
+- '[[DATABASE/language/Aklo|Aklo]] ; [[DATABASE/monsterability/Telepathy|telepathy]]
+  100 feet'
+level: '18'
 max_speed: '40'
-name: Child of Urgathoa
-perception: '+18'
-rarity: Rare
-reflex: '+15'
-resistance: null
+name: Children Of Mhar
+perception: '+30'
+rarity: Uncommon
+reflex: '+30'
+resistance:
+- physical 10 (except [[DATABASE/equipment/Adamantine|adamantine]] )
 rus_type_level: null
 school: null
 sense:
-- '[[DATABASE/monsterability/Darkvision|darkvision]]'
-size: Large
+- '[[DATABASE/monsterability/Darkvision|greater darkvision]]'
+- smoke vision
+size: Huge
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +13'
-- '[[DATABASE/skill/Deception|Deception]] +15'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +15'
-- '[[DATABASE/skill/Religion|Religion]] +18'
-- '[[DATABASE/skill/Stealth|Stealth]] +13'
-source: '[[DATABASE/source/Book of the Dead|Book of the Dead]]'
+- '[[DATABASE/skill/Athletics|Athletics]] +37'
+source: '[[DATABASE/source/Pathfinder 156. The Apocalypse Prophet|Pathfinder #156:
+  The Apocalypse Prophet]]'
 speed:
-- fly 40 feet
+- 40 feet
+- climb 40 feet
 spell:
-- '[[DATABASE/spell/Bind Undead|Bind Undead]]'
-- '[[DATABASE/spell/Harm|Harm]]'
-- '[[DATABASE/spell/Sudden Blight|Sudden Blight]]'
-strength: '+6'
-strength_req: '6'
+- '[[DATABASE/spell/Earthbind|Earthbind]]'
+- '[[DATABASE/spell/Earthquake|Earthquake]]'
+- '[[DATABASE/spell/Hallucination|Hallucination]]'
+strength: '+9'
+strength_req: '9'
 strongest_save:
-- Will
+- Fortitude
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Rare|Rare]]'
-- '[[DATABASE/trait/Undead|Undead]]'
+- '[[DATABASE/trait/Aberration|Aberration]]'
+- '[[DATABASE/trait/Uncommon|Uncommon]]'
 type: Creature
-vision: Darkvision
+vision: Greater darkvision
 weakest_save:
-- Fortitude
+- Will
 weakness:
-- '[[DATABASE/trait/Positive|positive]] 10'
-will: '+18'
-wisdom: '+6'
+- cold 10
+- good 10
+will: '+26'
+wisdom: '+0'
 
 ---
 # Deghuun (Children Of Mhar)

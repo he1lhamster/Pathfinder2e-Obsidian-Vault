@@ -12,12 +12,6 @@ creature_ability:
 - Paralyzing Claws
 - Psychic Superiority
 creature_family: '[[DATABASE/monsterfamily/Vampire, Vetalarana|Vampire, Vetalarana]]'
-description: 'A vetalarana manipulator is a gifted strategist, empowered by the memories,
-  thoughts, and talents the manipulator has drained from countless victims and honed
-  by centuries of survival. Certain of their own superiority, manipulators twist free-willed
-  individuals for their own ends as easily as they control their comatose puppets.<br/><br/><b><u>Recall
-  Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 30<br/><b><u>Unspecific
-  Lore</u></b>: DC 28<br/><b><u>Specific Lore</u></b>: DC 25'
 dexterity: '+4'
 element: null
 fly_speed: null

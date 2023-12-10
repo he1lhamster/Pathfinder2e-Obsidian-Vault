@@ -11,11 +11,6 @@ creature_ability:
 - Pounce
 - Sneak Attack
 creature_family: '[[DATABASE/monsterfamily/Cat|Cat]]'
-description: 'Leopards are among the smallest of the big cats, yet they are still
-  dangerous creatures to tangle with. Leopard statistics can also be used for black
-  panthers, white-spotted snow leopards, or tawny-coated cougars.<br/><br/><b><u>Recall
-  Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 16<br/><b><u>Unspecific
-  Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>: DC 11'
 dexterity: '+4'
 element: null
 fly_speed: null

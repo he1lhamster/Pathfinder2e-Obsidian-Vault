@@ -11,20 +11,6 @@ creature_ability:
 - Mimic Object
 - Object Lesson
 creature_family: null
-description: 'Thought to be the result of a failed experiment meant to animate objects
-  or a sinister alghollthu creation, mimics are clever monsters that can take the
-  form of common manufactured objects. Mimics are ambush predators and voracious eaters,
-  surprising their prey through their uncanny ability to mimic the form of common
-  furniture and miscellany. They remain disguised until unsuspecting adventurers happen
-  by, then they lash out in ambush.<br/><br/> Mimics possess complex alien minds,
-  and while often cruel and self-serving, they also enjoy conversation with their
-  prey from time to time. For unknown reasons, they are especially interested in humanoids.
-  Mimics have a strong dislike for others of their kind and tend to live alone. A
-  mimic can remain in its alternate form for an extremely long period of time, sometimes
-  remaining disguised in a dungeon chamber for decades. Regardless of how long it
-  waits, the mimic remains vigilant and alert, ready to strike at any moment.<br/><br/><b><u>Recall
-  Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 19<br/><b><u>Unspecific
-  Lore</u></b>: DC 17<br/><b><u>Specific Lore</u></b>: DC 14'
 dexterity: '+1'
 element: null
 fly_speed: null

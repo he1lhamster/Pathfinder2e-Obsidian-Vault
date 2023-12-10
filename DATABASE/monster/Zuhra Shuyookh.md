@@ -15,13 +15,6 @@ creature_ability:
 - ''
 - Mercurial Wish
 creature_family: '[[DATABASE/monsterfamily/Genie|Genie]]'
-description: 'The most powerful zuhras draw followers and elemental metal with overwhelming
-  force of personality and literal magnetism. When called upon to conduct <i>wish</i>
-  rituals, they use their long isolation from the other planes as an excuse to misinterpret
-  requests outlandishly, claiming linguistic differences.<br/><br/><b><u>Recall Knowledge
-  - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 36<br/><b><u>Unspecific Lore</u></b>: DC 34<br/><b><u>Specific Lore</u></b>:
-  DC 31'
 dexterity: '+6'
 element: Metal
 fly_speed: '35'

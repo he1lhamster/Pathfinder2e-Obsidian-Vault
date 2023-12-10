@@ -18,14 +18,6 @@ creature_ability:
 - Starvation
 - Tortured Gaze
 creature_family: null
-description: 'Twisted caricatures of living beings, tormented arise from the remains
-  of those who''ve been tortured to death. They appear as the mortals they were in
-  life, horribly disfigured by acts of cruelty. Unable to rest, they haunt the sites
-  of their deaths, doomed to relive their last moments of agony. The toxic psychic
-  residue of their death is so great it spills over, afflicting anyone who meets the
-  tormented''s haunted gaze.<br/><br/><b><u>Recall Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 32<br/><b><u>Unspecific Lore</u></b>: DC 30<br/><b><u>Specific Lore</u></b>:
-  DC 27'
 dexterity: '+4'
 element: null
 fly_speed: '25'

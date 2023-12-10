@@ -17,41 +17,6 @@ creature_ability:
 - Swallow Whole
 - Unfathomable Infinity
 creature_family: null
-description: 'Ouroboros are the embodiment of eternity. Though they''re prevalent
-  as a symbol, often scrawled across the margins of alchemical tomes, few know that
-  the beasts actually exist in the [[DATABASE/plane/Astral Plane|Astral Plane]] ,
-  where they fly through the silvery-gray void like a serpentine wheel. The ouroboros
-  is usually depicted as a snake devouring its tail. This circular symbol is synonymous
-  with infinity, self-sufficiency, and eternal unity.<br/><br/> An ouroboros'' form
-  exemplifies the unfathomable concepts of forever. Its undulating body is composed
-  of smaller serpents, who are in turn composed of ever smaller serpents, continuing
-  indefinitely. These smaller components are recycled as the ouroboros devours its
-  tail, existing in a perpetual, cyclical process of creation and destruction. It
-  is a massive creature, forming a loop roughly 50 feet in diameter and weighing hundreds
-  of tons.<br/><br/> An ouroboros''s most striking feature is its ability to almost
-  instantly grow new flesh and heal from nearly any wound. This profound regenerative
-  ability comes in part from an ouroboros''s magical blood, which is rumored to have
-  many miraculous properties.<br/><br/> Through their inscrutable behavior suggests
-  that an ouroboros is mindless, the creatures boast crude intellects and can understand
-  speech, though they have no way to speak. They possess an instinctive, almost obsessive
-  will to survive and defend themselves ferociously if threatened in even the slightest
-  way. Often these perceived threats take the form of another creature simply existing
-  within the ouroboros''s line of sight, leading other [[DATABASE/trait/Astral|Astral]]
-  creatures to give these powerful beings a wide berth. The only creature an ouroboros
-  reliably ignores is another ouroboros, but they''re so incredibly rare that these
-  meetings occur only once an age.<br/><br/> Being entirely self-sustaining, an ouroboros
-  rarely deigns to emerge from its consumption to engage with the [[DATABASE/plane/Material
-  Plane|Material Plane]] . Yet, the creature remains capable of inflicting tremendous
-  devastation that far surpasses what it could wreak leveraging only its massive size
-  alone. Left to its own devices, an ouroboros is likely to simply roam the Astral
-  Plane in eon-spanning cycles, following some pattern too long and large for any
-  mortal to even chart, much less fully comprehend. When conjured to the Material
-  Plane, however, an ouroboros eagerly begins to initiate the cycle of renewal for
-  which it is best known, beginning with that cycle''s first step: destruction.<br/><br/><b><u>Recall
-  Knowledge - Astral</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 47<br/><b><u>Recall
-  Knowledge - Beast</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 47<br/><b><u>Unspecific Lore</u></b>: DC 45<br/><b><u>Specific Lore</u></b>:
-  DC 42'
 dexterity: '+5'
 element: null
 fly_speed: '100'

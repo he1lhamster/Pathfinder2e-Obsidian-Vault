@@ -1,64 +1,65 @@
 ﻿---
-ac: '16'
-alignment: CN
+ac: '21'
+alignment: NG
 all_resistance: null
 burrow_speed: null
-charisma: '+1'
+charisma: '+0'
 climb_speed: null
 constitution: '+2'
-creature_ability: null
+creature_ability:
+- Guide's Warning
+- Guiding Words
+- Snare Crafting
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 26<br/><b><u>Unspecific
-  Lore</u></b>: DC 24<br/><b><u>Specific Lore</u></b>: DC 21'
-dexterity: '+0'
+dexterity: '+1'
 element: null
 fly_speed: null
-fortitude: '+8'
-hp: '30'
-id: '2740'
+fortitude: '+12'
+hp: '60'
+id: '1785'
 immunity: null
-intelligence: '+0'
-land_speed: '20'
+intelligence: '+1'
+land_speed: '25'
 language:
 - '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Dwarven|Dwarven]]'
-level: '2'
-max_speed: '20'
-name: Vanda
-perception: '+8'
+level: '4'
+max_speed: '25'
+name: "Varilyn \u201CVare\u201D Eridge"
+perception: '+14'
 rarity: Unique
-reflex: '+4'
+reflex: '+11'
 resistance: null
 rus_type_level: null
 sense: null
-size: Medium
+size: Small
 skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +4'
-- '[[DATABASE/skill/Crafting|Crafting]] +4'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +7'
-- '[[DATABASE/skill/Religion|Religion]] +8'
-- '[[DATABASE/skill/Lore|WarfareLore]] +4'
-source: '[[DATABASE/source/Rusthenge|Rusthenge]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +14'
+- '[[DATABASE/skill/Athletics|Athletics]] +12'
+- '[[DATABASE/skill/Crafting|Crafting]] +14'
+- '[[DATABASE/skill/Lore|Scouting Lore]] +12'
+- '[[DATABASE/skill/Stealth|Stealth]] +11'
+- '[[DATABASE/skill/Survival|Survival]] +12'
+source: '[[DATABASE/source/Pathfinder 176. Lost Mammoth Valley|Pathfinder #176: Lost
+  Mammoth Valley]]'
 speed:
-- 20 feet
+- 25 feet
 spell: null
-strength: '+3'
-strength_req: '3'
+strength: '+4'
+strength_req: '4'
 strongest_save:
 - Will
 swim_speed: null
 trait:
+- '[[DATABASE/trait/Halfling|Halfling]]'
 - '[[DATABASE/trait/Human|Human]]'
-- '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
 vision: null
 weakest_save:
 - Reflex
 weakness: null
-will: '+10'
-wisdom: '+4'
+will: '+14'
+wisdom: '+3'
 
 ---
 # Varilyn "Vare" Eridge

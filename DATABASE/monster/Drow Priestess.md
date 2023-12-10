@@ -10,9 +10,6 @@ creature_ability:
 - Light Blindness
 - Shield Block
 creature_family: '[[DATABASE/monsterfamily/Drow|Drow]]'
-description: 'Many drow priestesses venerate demon lords and other foul divinities.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 18<br/><b><u>Unspecific
-  Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>: DC 13'
 dexterity: '+2'
 element: null
 fly_speed: null

@@ -12,11 +12,6 @@ creature_ability:
 - Sneak Attack
 - Tumbling Attack
 creature_family: null
-description: 'The agile warrior uses their speed to jump around the battlefield and
-  create openings. Making use of their Tumbling Attack, the agile warrior likes to
-  spring back and forth between targets every round.<br/><br/><b><u>Recall Knowledge
-  - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 33<br/><b><u>Unspecific
-  Lore</u></b>: DC 31<br/><b><u>Specific Lore</u></b>: DC 28'
 dexterity: '+5'
 element: null
 fly_speed: null

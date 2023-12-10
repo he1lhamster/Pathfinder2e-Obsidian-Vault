@@ -12,17 +12,6 @@ creature_ability:
 - Greater Electrolocation
 - Shocking Burst
 creature_family: null
-description: 'These brightly colored reptiles share the rough size and pack mentality
-  of guard dogs, roaming in small groups. Shocker lizards have specialized glands
-  under their scales that accumulate static electricity, and they can unleash blasts
-  of lightning strong enough to harm significantly larger foes. Though they''re meek
-  and docile when encountered alone, shocker lizards are significantly more aggressive
-  in packs, when they can amplify each other''s electrical attacks.<br/><br/> Shocker
-  lizards are notoriously difficult to domesticate because they''re dangerously hostile
-  as part of a pack, but will also swiftly wither and die if kept alone in captivity
-  without constant attention. A shocker lizard is 3 feet long and weighs 25 pounds.<br/><br/><b><u>Recall
-  Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 16<br/><b><u>Unspecific
-  Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>: DC 11'
 dexterity: '+4'
 element: null
 fly_speed: null

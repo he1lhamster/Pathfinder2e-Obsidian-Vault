@@ -11,12 +11,6 @@ creature_ability:
 - Pufferfish Venom
 - Toxic Body
 creature_family: '[[DATABASE/monsterfamily/Fish|Fish]]'
-description: 'The pufferfish defends itself by filling its flexible body with air
-  or water to extend a number of spikes that otherwise lie flat against its skin.
-  While normally quite slow and deliberate, the pufferfish can contort its body to
-  gain a sudden burst of speed that can catch predators off guard.<br/><br/><b><u>Recall
-  Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 13<br/><b><u>Unspecific
-  Lore</u></b>: DC 11<br/><b><u>Specific Lore</u></b>: DC 8'
 dexterity: '+0'
 element: null
 fly_speed: null

@@ -12,18 +12,6 @@ creature_ability:
 - Fists of Thunder and Lightning
 - Truespeech
 creature_family: '[[DATABASE/monsterfamily/Aeon|Aeon]]'
-description: 'A marut is tasked with hunting mortals who cheat death by artificially
-  extending their lifespans. This includes those who seek undeath, such as liches
-  and vampires, but also includes those who use powerful magic to cling to their youth,
-  use divination to discover and avoid an appointed death, or call too often on the
-  power of resurrection. Once the marut has selected its target, the inevitable pursues
-  its quarry without surcease or deviation until either it or the target is dead.<br/><br/>
-  Maruts seem to be carved from stone and clad in golden armor, yet they move with
-  the deliberate grace of a creature made of flesh and bone. A marut never rushes,
-  but its thunderous footfalls are relentless as it pursues its target. Though able
-  to speak any language, the marut is taciturn even among inevitables.<br/><br/><b><u>Recall
-  Knowledge - Monitor</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 34<br/><b><u>Unspecific
-  Lore</u></b>: DC 32<br/><b><u>Specific Lore</u></b>: DC 29'
 dexterity: '+4'
 element: null
 fly_speed: null

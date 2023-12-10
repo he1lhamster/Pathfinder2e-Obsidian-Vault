@@ -12,9 +12,6 @@ creature_ability:
 - Light Blindness
 - Sneak Attack
 creature_family: '[[DATABASE/monsterfamily/Drow|Drow]]'
-description: 'Wardens watch over drow encampments and often work in small groups.<br/><br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 21<br/><b><u>Unspecific
-  Lore</u></b>: DC 19<br/><b><u>Specific Lore</u></b>: DC 16'
 dexterity: '+3'
 element: null
 fly_speed: null

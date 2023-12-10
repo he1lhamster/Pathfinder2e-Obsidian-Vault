@@ -1,88 +1,87 @@
 ﻿---
-ac: '33'
-alignment: LE
-all_resistance: '10'
+ac: '24'
+alignment: NE
+all_resistance: null
 burrow_speed: null
-charisma: '+5'
+charisma: '+6'
 climb_speed: null
-constitution: '+2'
+constitution: '+4'
 creature_ability:
-- Frighten
-- Natural Invisibility
-- Rejuvenation
-- Site Bound
-- Telekinetic Defense
-- Telekinetic
-- Storm
+- Bride's Bargain
+- Coven
+- Curse of Futility
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Spirit</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 35<br/><b><u>Recall
-  Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 35<br/><b><u>Unspecific
-  Lore</u></b>: DC 33<br/><b><u>Specific Lore</u></b>: DC 30'
-dexterity: '+7'
+dexterity: '+4'
 element: null
-fly_speed: '30'
-fortitude: '+18'
+fly_speed: null
+fortitude: '+13'
 hardness: null
-hp: 180 (rejuvenation)
-id: '1571'
-immunity:
-- '[[DATABASE/trait/Death|death]] effects'
-- '[[DATABASE/trait/Disease|disease]]'
-- '[[DATABASE/condition/Paralyzed|paralyzed]]'
-- '[[DATABASE/trait/Poison|poison]]'
-- precision
-- '[[DATABASE/condition/Unconscious|unconscious]]'
-intelligence: '-1'
-land_speed: null
+hp: '120'
+id: '2070'
+immunity: null
+intelligence: '+6'
+land_speed: '25'
 language:
-- '[[DATABASE/language/Dwarven|Dwarven]]'
+- '[[DATABASE/language/Aklo|Aklo]]'
+- '[[DATABASE/language/Common|Common]]'
 - '[[DATABASE/language/Necril|Necril]]'
-level: '12'
-max_speed: '30'
-name: Saggorak Poltergeist
-perception: '+20'
-rarity: Rare
-reflex: '+25'
-resistance:
-- all damage 10 (except [[DATABASE/trait/Force|force]]
-- '[[DATABASE/equipment/Ghost Touch|ghost touch]]'
-- or [[DATABASE/trait/Positive|positive]] ; double resistance vs. non- [[DATABASE/trait/Magical|magical]]
-  )
+level: '7'
+max_speed: '35'
+name: Sahni Bride-Of-The-Sea
+perception: '+15'
+rarity: Unique
+reflex: '+14'
+resistance: null
 rus_type_level: null
 school: null
 sense:
 - '[[DATABASE/monsterability/Darkvision|darkvision]]'
 size: Medium
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +25'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +24'
-- '[[DATABASE/skill/Stealth|Stealth]] +25'
-source: '[[DATABASE/source/Pathfinder 148. Fires of the Haunted City|Pathfinder #148:
-  Fires of the Haunted City]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +14'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +16'
+- '[[DATABASE/skill/Lore|Legal Lore]] +19'
+- '[[DATABASE/skill/Occultism|Occultism]] +14'
+- '[[DATABASE/skill/Stealth|Stealth]] +16'
+source: '[[DATABASE/source/Pathfinder 182. Graveclaw|Pathfinder #182: Graveclaw]]'
 speed:
-- fly 30 feet
+- 25 feet
+- swim 35 feet
 spell:
+- '[[DATABASE/spell/Alarm|Alarm]]'
+- '[[DATABASE/spell/Animal Messenger|AnimalMessenger]]'
+- '[[DATABASE/spell/Animal Vision|Animal Vision]]'
+- '[[DATABASE/spell/Bestial Curse|Bestial Curse]]'
+- '[[DATABASE/spell/Charm|Charm]]'
+- '[[DATABASE/spell/Command|Command]]'
+- '[[DATABASE/spell/Crashing Wave|Crashing Wave]]'
+- '[[DATABASE/spell/Divine Lance|Divine Lance]]'
+- '[[DATABASE/spell/Fear|Fear]]'
 - '[[DATABASE/spell/Mage Hand|Mage Hand]]'
-- '[[DATABASE/spell/Telekinetic Haul|Telekinetic Haul]]'
-- '[[DATABASE/spell/Telekinetic Maneuver|Telekinetic Maneuver]]'
-strength: '-5'
-strength_req: '-5'
+- '[[DATABASE/spell/Mending|Mending]]'
+- '[[DATABASE/spell/Message|Message]]'
+- '[[DATABASE/spell/Prestidigitation|Prestidigitation]]'
+- '[[DATABASE/spell/See Invisibility|See Invisibility]]'
+- '[[DATABASE/spell/Sigil|Sigil]]'
+- '[[DATABASE/spell/Vampiric Maiden|Vampiric Maiden]]'
+strength: '+3'
+strength_req: '3'
 strongest_save:
-- Reflex
-swim_speed: null
+- Will
+swim_speed: '35'
 trait:
-- '[[DATABASE/trait/Incorporeal|Incorporeal]]'
-- '[[DATABASE/trait/Rare|Rare]]'
-- '[[DATABASE/trait/Spirit|Spirit]]'
-- '[[DATABASE/trait/Undead|Undead]]'
+- '[[DATABASE/trait/Amphibious|Amphibious]]'
+- '[[DATABASE/trait/Hag|Hag]]'
+- '[[DATABASE/trait/Humanoid|Humanoid]]'
+- '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
 vision: Darkvision
 weakest_save:
 - Fortitude
-weakness: null
-will: '+22'
-wisdom: '+4'
+weakness:
+- '[[DATABASE/equipment/Cold Iron Weapon|cold iron]] 10'
+will: '+18'
+wisdom: '+2'
 
 ---
 # Sahni Bride-Of-The-Sea, Sea Hag Dealmaker

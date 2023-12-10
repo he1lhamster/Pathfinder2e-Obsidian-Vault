@@ -10,18 +10,6 @@ creature_ability:
 - Gremlin Lice
 - Putrid Vomit
 creature_family: '[[DATABASE/monsterfamily/Gremlin|Gremlin]]'
-description: 'Even more than most gremlins, grimples resent the trappings of civilization:
-  inn common rooms with their rowdy singalongs, livery yards with their whinnying
-  horses, church steeples with their clanging bells. Grimples live to spoil these
-  conventions, dropping tavern signs on patrons, urinating in rain barrels, and opening
-  stable doors. When all else fails, they literally vomit their disdain on passersby.<br/><br/>
-  Grimples resemble humanoid, mange-ridden opossums, with boar-like tusks that aid
-  them in rooting through garbage heaps for food. They are agile climbers who glide
-  from eave to eave on the loose flaps of skin between their limbs. Savvy gremlin-hunters
-  know to look for the skin flakes and fur grimples shed from their parasite-infested
-  hides.<br/><br/><b><u>Recall Knowledge - Fey</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 13<br/><b><u>Unspecific Lore</u></b>: DC 11<br/><b><u>Specific Lore</u></b>:
-  DC 8'
 dexterity: '+3'
 element: null
 fly_speed: '20'

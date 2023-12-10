@@ -12,18 +12,6 @@ creature_ability:
 - Shadow Bite
 - Umbral Leap
 creature_family: '[[DATABASE/monsterfamily/Gorga|Gorga]]'
-description: "Temagyrs embody the fear of nocturnal hunters\u2014predators that stalk\
-  \ through the dark of night and attack when their prey is most vulnerable. Able\
-  \ to blend in with and step between shadows to surprise victims, temagyrs delight\
-  \ in ambush tactics.<br/><br/> An average temagyr is 8 feet long and weighs 500\
-  \ pounds but moves with unnatural fluidity and grace, the shadows they carry seeming\
-  \ to hang in the air behind them. In combat, a temagyr can take down opponents either\
-  \ with physical attacks or by taking bites out of their enemy's shadow. These shadow\
-  \ wounds, which remain visible unless healed, often perplex Material Plane doctors\
-  \ and investigators; a corpse from a temagyr attack can appear pristine, its tattered\
-  \ shadow the only clue to how it met its untimely fate.<br/><br/><b><u>Recall Knowledge\
-  \ - Fey</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 17<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 15<br/><b><u>Specific Lore</u></b>: DC 12"
 dexterity: '+3'
 element: null
 fly_speed: null

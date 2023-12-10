@@ -9,12 +9,6 @@ constitution: '+1'
 creature_ability:
 - Scurry
 creature_family: '[[DATABASE/monsterfamily/Cockroach|Cockroach]]'
-description: 'Cockroaches are communal creatures, rarely setting out on their own
-  unless they are searching for food. If an adventurer encounters a single giant cockroach
-  while exploring, they had best take precautions against others, as there is likely
-  an entire colony nearby.<br/><br/><b><u>Recall Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 15<br/><b><u>Unspecific Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>:
-  DC 10'
 dexterity: '+3'
 element: null
 fly_speed: '15'

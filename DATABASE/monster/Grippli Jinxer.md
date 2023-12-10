@@ -12,13 +12,6 @@ creature_ability:
 - Hypnotic Tattoos
 - Jungle Stride
 creature_family: '[[DATABASE/monsterfamily/Grippli|Grippli]]'
-description: 'Baneback gripplis with innate magical ability may find themselves drawn
-  to vile magic dealing with poison, vermin, and ill luck. Those who revel in the
-  dreadful legends surrounding their kind often worship evil gods or demons associated
-  with poison, tattooing themselves with mystic symbols to gain powerful control over
-  toxins.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 22<br/><b><u>Unspecific Lore</u></b>: DC 20<br/><b><u>Specific Lore</u></b>:
-  DC 17'
 dexterity: '+4'
 element: null
 fly_speed: null

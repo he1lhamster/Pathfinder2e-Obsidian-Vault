@@ -9,15 +9,6 @@ constitution: '+1'
 creature_ability:
 - Group Impression
 creature_family: '[[DATABASE/monsterfamily/Magistrates|Magistrates]]'
-description: 'These magistrates have the final say on the intent and spirit of the
-  law. Properly exercised, the duty of a judge is the strict adherence to the law
-  regardless of station, with minimal sentimentality toward rationalization and justification
-  of why the law was broken. Yet expectations and practice are not always the same
-  thing. For every unbiased justice, there is one who is zealously confident in their
-  own agenda. In a court case or other legal proceeding, the judge is a 6th-level
-  challenge.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 13<br/><b><u>Unspecific Lore</u></b>: DC 11<br/><b><u>Specific Lore</u></b>:
-  DC 8'
 dexterity: '-1'
 element: null
 fly_speed: null

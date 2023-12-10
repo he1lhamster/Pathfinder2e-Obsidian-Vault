@@ -18,11 +18,6 @@ creature_ability:
 - Twisting Tail Trigger
 - visual)
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Dragon</u> ( [[DATABASE/skill/Arcana|Arcana]] )</b>: DC 48<br/><b><u>Recall Knowledge
-  - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]]
-  )</b>: DC 48<br/><b><u>Unspecific Lore</u></b>: DC 46<br/><b><u>Specific Lore</u></b>:
-  DC 43'
 dexterity: '+6'
 element: Earth
 fly_speed: '140'

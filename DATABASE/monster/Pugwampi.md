@@ -9,16 +9,6 @@ constitution: '+0'
 creature_ability:
 - Unluck Aura
 creature_family: '[[DATABASE/monsterfamily/Gremlin|Gremlin]]'
-description: "Mean, dog-faced, and craven, pugwampis take disproportionate enjoyment\
-  \ from the accidents and missteps of other creatures\u2014something that happens\
-  \ often due to the supernatural aura of ill fortune these gremlins project. They\
-  \ enjoy preparing pranks involving spikes, excrement, pits full of spiders, and\
-  \ the like. Pugwampis are somewhat deaf and thus often yell loudly to each other\
-  \ when not hiding. Many pugwampis worship gnolls as gods and aspire to be more like\
-  \ gnolls, although gnolls hate pugwampis even more than most creatures do, due to\
-  \ their sycophantic fawning.<br/><br/><b><u>Recall Knowledge - Fey</u> ( [[DATABASE/skill/Nature|Nature]]\
-  \ )</b>: DC 14<br/><b><u>Unspecific Lore</u></b>: DC 12<br/><b><u>Specific Lore</u></b>:\
-  \ DC 9"
 dexterity: '+3'
 element: null
 fly_speed: null

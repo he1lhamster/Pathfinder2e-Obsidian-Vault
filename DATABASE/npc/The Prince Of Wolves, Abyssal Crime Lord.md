@@ -1,97 +1,90 @@
 ﻿---
-ac: '34'
+ac: '42'
 alignment: CE
 all_resistance: null
 burrow_speed: null
-charisma: '+4'
+charisma: '+6'
 climb_speed: null
-constitution: '+2'
+constitution: '+6'
 creature_ability:
-- Attack of Opportunity
-- Refocus Curse
-- Release the Inmost Worms
+- Change Shape
+- Hunt Prey
+- Pack Tactics
+- Rejuvenation
+- Skirmish Strike
+- Sneak Attack
+- Tear Fate
+- Twin Parry
+- Twin Takedown
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Fiend</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 41<br/><b><u>Recall
-  Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 41<br/><b><u>Unspecific
-  Lore</u></b>: DC 39<br/><b><u>Specific Lore</u></b>: DC 36'
-dexterity: '+2'
+dexterity: '+5'
 element: null
 fly_speed: null
-fortitude: '+24'
-hp: '240'
-id: '2384'
-immunity:
-- poison
-intelligence: '+1'
+fortitude: '+35'
+hp: '400'
+id: '2574'
+immunity: null
+intelligence: '+3'
 land_speed: '25'
 language:
 - '[[DATABASE/language/Abyssal|Abyssal]]'
+- '[[DATABASE/language/Celestial|Celestial]]'
 - '[[DATABASE/language/Common|Common]]'
-level: '13'
+- '[[DATABASE/language/Draconic|Draconic]]'
+- '[[DATABASE/language/Necril|Necril]]'
+- '[[DATABASE/language/Varisian|Varisian]]'
+level: '19'
 max_speed: '25'
-name: The First Faithful
-perception: '+24'
+name: The Prince Of Wolves
+perception: '+32'
 rarity: Unique
-reflex: '+20'
-resistance:
-- acid 15
-- all physical 15 (except cold iron)
+reflex: '+30'
+resistance: null
 rus_type_level: null
 sense:
-- '[[DATABASE/monsterability/Darkvision|darkvision]] darkvision'
+- '[[DATABASE/monsterability/Low-Light Vision|low-light vision]]'
+- '[[DATABASE/monsterability/Scent|scent]] (imprecise) 30 feet'
 size: Medium
 skill:
-- '[[DATABASE/skill/Deception|Deception]] +27'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +27'
-- '[[DATABASE/skill/Occultism|Occultism]] +23'
-- '[[DATABASE/skill/Religion|Religion]] +28'
-- '[[DATABASE/skill/Society|Society]] +23'
-source: '[[DATABASE/source/Kingmaker Companion Guide|Kingmaker Companion Guide]]'
+- '[[DATABASE/skill/Arcana|Arcana]] +33'
+- '[[DATABASE/skill/Athletics|Athletics]] +36'
+- '[[DATABASE/skill/Deception|Deception]] +33'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +36'
+- '[[DATABASE/skill/Occultism|Occultism]] +33'
+- '[[DATABASE/skill/Performance|Performance]] +33'
+- '[[DATABASE/skill/Religion|Religion]] +32'
+- '[[DATABASE/skill/Society|Society]] +30'
+source: '[[DATABASE/source/Pathfinder 191. The Destiny War|Pathfinder #191: The Destiny
+  War]]'
 speed:
 - 25 feet
 spell:
-- '[[DATABASE/spell/Abyssal Plague|Abyssal Plague]]'
-- '[[DATABASE/spell/Air Walk|AirWalk]]'
-- '[[DATABASE/spell/Blindness|Blindness]]'
-- '[[DATABASE/spell/Command|Command]]'
-- '[[DATABASE/spell/Death Knell|Death Knell]]'
-- '[[DATABASE/spell/Detect Magic|Detect Magic]]'
-- '[[DATABASE/spell/Dispel Magic|Dispel Magic]]'
-- '[[DATABASE/spell/Divine Lance|Divine Lance]]'
-- '[[DATABASE/spell/Divine Wrath|Divine Wrath]]'
-- '[[DATABASE/spell/Dream Message|DreamMessage]]'
-- '[[DATABASE/spell/Fear|Fear]]'
-- '[[DATABASE/spell/Finger of Death|Finger of Death]]'
-- '[[DATABASE/spell/Ghoulish Cravings|Ghoulish Cravings]]'
-- '[[DATABASE/spell/Harm|Harm]]'
-- '[[DATABASE/spell/Heal|Heal]]'
-- '[[DATABASE/spell/Light|Light]]'
-- '[[DATABASE/spell/Message|Message]]'
-- '[[DATABASE/spell/Ray of Enfeeblement|Ray of Enfeeblement]]'
-- '[[DATABASE/spell/Repulsion|Repulsion]]'
-- '[[DATABASE/spell/See Invisibility|SeeInvisibility]]'
-- '[[DATABASE/spell/Shadow Blast|Shadow Blast]]'
+- '[[DATABASE/spell/Dimension Door|Dimension Door]]'
+- '[[DATABASE/spell/Fly|Fly]]'
+- '[[DATABASE/spell/Paralyze|Paralyze]]'
+- '[[DATABASE/spell/Phantasmal Killer|Phantasmal Killer]]'
 - '[[DATABASE/spell/Shield|Shield]]'
-- '[[DATABASE/spell/Vampiric Exsanguination|VampiricExsanguination]]'
-- '[[DATABASE/spell/Vampiric Touch|Vampiric Touch]]'
-strength: '+3'
-strength_req: '3'
+- '[[DATABASE/spell/Suggestion|Suggestion]]'
+- '[[DATABASE/spell/Telekinetic Projectile|Telekinetic Projectile]]'
+- '[[DATABASE/spell/Teleport|Teleport]]'
+- '[[DATABASE/spell/True Seeing|True Seeing]]'
+strength: '+9'
+strength_req: '9'
 strongest_save:
-- Will
+- Fortitude
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Fiend|Fiend]]'
+- '[[DATABASE/trait/Beast|Beast]]'
+- '[[DATABASE/trait/Beastkin|Beastkin]]'
 - '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: Darkvision
+vision: Low-light vision
 weakest_save:
 - Reflex
-weakness:
-- good 15
-will: '+26'
+weakness: null
+will: '+32'
 wisdom: '+5'
 
 ---

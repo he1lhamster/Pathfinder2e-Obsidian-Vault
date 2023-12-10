@@ -10,17 +10,6 @@ creature_ability:
 - Darting Attack
 - Predator's Advantage
 creature_family: '[[DATABASE/monsterfamily/Dinosaur|Dinosaur]]'
-description: "Deinonychuses are wily hunters that attack in groups of up to a dozen\
-  \ individuals, ripping apart their prey with sharp talons and powerful jaws. They\
-  \ are lean and muscular, and have two powerful legs and a long tail that helps them\
-  \ maintain balance. Although deinonychuses don\u2019t use their dexterous clawed\
-  \ forelimbs to attack, the dinosaurs can use them to pull aside small barriers.\
-  \ Although some of these dinosaurs have scaly skin, most have thatches of vibrantly\
-  \ colored feathers as well. A deinonychus is about 6 feet tall and weighs about\
-  \ 150 pounds.<br/><br/> However, larger deinonychuses exist. These creatures\u2014\
-  which stand taller than a human\u2014are called megaraptors.<br/><br/><b><u>Recall\
-  \ Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 16<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>: DC 11"
 dexterity: '+3'
 element: null
 fly_speed: null

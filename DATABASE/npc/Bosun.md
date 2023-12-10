@@ -10,10 +10,6 @@ creature_ability:
 - Bosun's Command
 - Pike and Strike
 creature_family: '[[DATABASE/monsterfamily/Seafarers|Seafarers]]'
-description: 'A ship''s boatswain, or bosun, leads the deckhands who maintain the
-  ship.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 18<br/><b><u>Unspecific Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>:
-  DC 13'
 dexterity: '+4'
 element: null
 fly_speed: null

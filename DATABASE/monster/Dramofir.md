@@ -11,16 +11,6 @@ creature_ability:
 - Pluck Dream
 - Surreal Anatomy
 creature_family: null
-description: 'Beings of inscrutable intent and incredible power, dramofirs hail from
-  the [[DATABASE/plane/Dreamlands|Dreamlands]] and shamble across the multiverse in
-  search of dreams to incorporate into their voluminous robes. Few people on the [[DATABASE/plane/Material
-  Plane|Material Plane]] dare trifle with dramofirs and instead treat them with respect,
-  hoping that they''ll simply take their chosen victims'' dreams and then go away.
-  Often, this is exactly what happens. Every now and then, however, in the process
-  of siphoning an individual''s dreams, the dramofir slays their victim without warning
-  or apparent cause.<br/><br/><b><u>Recall Knowledge - Aberration</u> ( [[DATABASE/skill/Occultism|Occultism]]
-  )</b>: DC 34<br/><b><u>Unspecific Lore</u></b>: DC 32<br/><b><u>Specific Lore</u></b>:
-  DC 29'
 dexterity: '+6'
 element: null
 fly_speed: '25'

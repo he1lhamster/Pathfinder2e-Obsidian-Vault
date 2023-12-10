@@ -17,9 +17,6 @@ creature_ability:
 - Attack
 - Turn to Mist
 creature_family: '[[DATABASE/monsterfamily/Vampire|Vampire]]'
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Undead</u> ( [[DATABASE/skill/Religion|Religion]] )</b>: DC 32<br/><b><u>Unspecific
-  Lore</u></b>: DC 30<br/><b><u>Specific Lore</u></b>: DC 27'
 dexterity: '+3'
 element: null
 fly_speed: null

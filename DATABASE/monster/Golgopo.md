@@ -11,21 +11,6 @@ creature_ability:
 - Ritual Conduit
 - Warning Call
 creature_family: null
-description: 'As their empire crumbled and fell into ruin, many [[DATABASE/monsterfamily/Cyclops|cyclopes]]
-  turned to increasingly depraved and vicious rituals to enhance their divinations
-  and oracular powers. Some, especially those too fearful or suspicious of their fellow
-  cyclopes to collaborate, constructed servants known as golgopos to aid in their
-  rituals. These squat creatures are made from ancient bones dredged from fetid swamps
-  and packed with mud to resemble a squat humanoid. Their heads are little more than
-  the skull of whatever creature''s bones were used in their creation with an extra
-  eye socket punched in the forehead, glowing with eerie light.<br/><br/> Golgopos
-  spend most of their time perched on the shoulder of a cyclops master, acting as
-  secondary casters for foul rituals and casting spells to aid them as needed. Golgopos
-  are generally not evil, however, and one whose master has abandoned them or been
-  destroyed might be convinced to employ their knowledge of ritual magic in service
-  of another.<br/><br/><b><u>Recall Knowledge - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Crafting|Crafting]] )</b>: DC 26<br/><b><u>Unspecific Lore</u></b>:
-  DC 24<br/><b><u>Specific Lore</u></b>: DC 21'
 dexterity: '+4'
 element: null
 fly_speed: null

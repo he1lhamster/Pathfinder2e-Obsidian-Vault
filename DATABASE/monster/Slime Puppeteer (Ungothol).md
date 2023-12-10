@@ -1,82 +1,73 @@
 ﻿---
-ac: '12'
-alignment: N
+ac: '24'
+alignment: CN
 all_resistance: null
 burrow_speed: null
-charisma: '-5'
-climb_speed: '10'
-constitution: '+5'
+charisma: '+4'
+climb_speed: null
+constitution: '+2'
 creature_ability:
-- Motion Sense
-- Slime Rot
-creature_family: '[[DATABASE/monsterfamily/Ooze|Ooze]]'
-description: 'A slime mold appears as a mound of earth and detritus covered in a thick
-  layer of fungus that exudes a faint stink of decay. The fungus actually shares a
-  symbiotic relationship with the slime mold, serving as an external digestive system
-  while gaining access to the nutrients it needs. The ooze remains perfectly still
-  until living prey passes within reach, then it lashes out with disgusting pseudopods.
-  With a touch, a slime mold can infect its prey with a foul contagion known as slime
-  rot, a horrific disease that painfully breaks down a victim''s flesh. At first,
-  the disease manifests as painful rashes and agonized joints. In the later stages,
-  though, the flesh of the affected creature actually begins to liquefy and run in
-  rivulets as the creature''s spores continue to work. Death, when it occurs, swiftly
-  causes the resulting body to split open and release a brand new slime mold.<br/><br/><b><u>Recall
-  Knowledge - Fungus</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 16<br/><b><u>Recall
-  Knowledge - Ooze</u> ( [[DATABASE/skill/Occultism|Occultism]] )</b>: DC 16<br/><b><u>Unspecific
-  Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>: DC 11'
-dexterity: '+0'
+- Envelop
+- Mimic Form
+- Stinky Sweat
+- Telepathic Bond
+creature_family: '[[DATABASE/monsterfamily/Alghollthu|Alghollthu]]'
+dexterity: '+4'
 element: null
-fly_speed: null
-fortitude: '+11'
+fly_speed: '30'
+fortitude: '+14'
 hardness: null
-hp: '60'
-id: '752'
-immunity:
-- critical hits
-- '[[DATABASE/trait/Mental|mental]]'
-- precision
-- '[[DATABASE/condition/Unconscious|unconscious]]'
-- '[[DATABASE/trait/Visual|visual]]'
-intelligence: '-5'
+hp: '95'
+id: '2691'
+immunity: null
+intelligence: '+3'
 land_speed: '10'
-language: null
-level: '2'
-max_speed: '10'
-name: Slime Mold
-perception: '+6'
-rarity: Common
-reflex: '+3'
+language:
+- '[[DATABASE/language/Aklo|Aklo]]'
+- '[[DATABASE/language/Common|Common]]'
+- '[[DATABASE/language/Undercommon|Undercommon]] ; [[DATABASE/monsterability/Telepathy|telepathy]]
+  100 feet'
+level: '6'
+max_speed: '30'
+name: Slime Puppeteer
+perception: '+14'
+rarity: Rare
+reflex: '+14'
 resistance: null
 rus_type_level: null
 school: null
 sense:
-- motion sense 60 feet
-- no vision
-size: Large
+- '[[DATABASE/monsterability/Darkvision|darkvision]]'
+size: Medium
 skill:
-- '[[DATABASE/skill/Athletics|Athletics]] +7'
-- '[[DATABASE/skill/Stealth|Stealth]] +6'
-source: '[[DATABASE/source/Bestiary 2|Bestiary 2]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +14'
+- '[[DATABASE/skill/Deception|Deception]] +16'
+- '[[DATABASE/skill/Religion|Religion]] +10'
+- '[[DATABASE/skill/Society|Society]] +13'
+- '[[DATABASE/skill/Stealth|Stealth]] +16'
+source: '[[DATABASE/source/Pathfinder 194. Cult of the Cave Worm|Pathfinder #194:
+  Cult of the Cave Worm]]'
 speed:
 - 10 feet
-- climb 10 feet
+- fly 30 feet
+- swim 30 feet
 spell: null
-strength: '+3'
-strength_req: '3'
+strength: '+5'
+strength_req: '5'
 strongest_save:
 - Fortitude
-swim_speed: null
-trait:
-- '[[DATABASE/trait/Fungus|Fungus]]'
-- '[[DATABASE/trait/Mindless|Mindless]]'
-- '[[DATABASE/trait/Ooze|Ooze]]'
-type: Creature
-vision: null
-weakest_save:
 - Reflex
+swim_speed: '30'
+trait:
+- '[[DATABASE/trait/Aberration|Aberration]]'
+- '[[DATABASE/trait/Rare|Rare]]'
+type: Creature
+vision: Darkvision
+weakest_save:
+- Will
 weakness: null
-will: '+4'
-wisdom: '+0'
+will: '+10'
+wisdom: '+2'
 
 ---
 # Slime Puppeteer (Ungothol)

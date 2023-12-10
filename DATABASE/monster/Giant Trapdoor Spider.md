@@ -10,9 +10,6 @@ creature_ability:
 - Giant Trapdoor Spider Venom
 - Trapdoor Lunge
 creature_family: '[[DATABASE/monsterfamily/Spider|Spider]]'
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 18<br/><b><u>Unspecific
-  Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>: DC 13'
 dexterity: '+4'
 element: null
 fly_speed: null

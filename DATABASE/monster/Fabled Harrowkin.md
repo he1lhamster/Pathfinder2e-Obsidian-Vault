@@ -13,10 +13,6 @@ creature_ability:
 - Shuffle the Deck
 - Twist Fate
 creature_family: '[[DATABASE/monsterfamily/Harrowkin|Harrowkin]]'
-description: 'The most powerful harrowkin are living embodiments of harrow cards.<br/><br/><b><u>Recall
-  Knowledge - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]]
-  )</b>: DC 38<br/><b><u>Unspecific Lore</u></b>: DC 36<br/><b><u>Specific Lore</u></b>:
-  DC 33'
 dexterity: '+5'
 element: null
 fly_speed: '40'

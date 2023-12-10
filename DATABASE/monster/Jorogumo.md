@@ -1,92 +1,51 @@
 ﻿---
-ac: '33'
-alignment: NE
+ac: null
+alignment: null
 all_resistance: null
 burrow_speed: null
-charisma: '+7'
+charisma: null
 climb_speed: null
-constitution: '+5'
-creature_ability:
-- Change Shape
-- Darting Legs
-- Jorogumo Venom
-- Spider Legs
-- Web Trap
+constitution: null
+creature_ability: null
 creature_family: null
-description: 'Appearing as beautiful, well-dressed humans, jorogumo lurk in the high
-  mountains and prey on travelers. These evil creatures can fully change into a giant
-  spider or sprout spider legs from their backs, and they often keep giant spiders
-  as pets. Jorogumo usually eat their prey, but some humanoids meet an even more gruesome
-  fate as living incubators for jorogumo eggs. Though most jorogumos are solitary
-  creatures, some have taken up worship of [[DATABASE/deity/Norgorber|Norgorber]]
-  and serve as valuable allies to thieves'' guilds following that god''s guise as
-  the Gray Master.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]
-  )</b>: DC 33<br/><b><u>Unspecific Lore</u></b>: DC 31<br/><b><u>Specific Lore</u></b>:
-  DC 28'
-dexterity: '+4'
+dexterity: null
 element: null
 fly_speed: null
-fortitude: '+22'
+fortitude: null
 hardness: null
-hp: '270'
-id: '1200'
+hp: null
+id: '1005'
 immunity: null
-intelligence: '+3'
-land_speed: '30'
-language:
-- '[[DATABASE/language/Aklo|Aklo]]'
-- '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Sylvan|Sylvan]] ; [[DATABASE/spell/Tongues|tongues]]'
-level: '13'
-max_speed: '30'
+intelligence: null
+land_speed: null
+language: null
+level: null
+max_speed: null
 name: Jorogumo
-perception: '+26'
-rarity: Uncommon
-reflex: '+23'
-resistance:
-- poison 15
+perception: null
+rarity: null
+reflex: null
+resistance: null
 rus_type_level: null
 school: null
-sense:
-- '[[DATABASE/monsterability/Darkvision|darkvision]]'
-size: Medium
-skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +25'
-- '[[DATABASE/skill/Athletics|Athletics]] +23'
-- '[[DATABASE/skill/Crafting|Crafting]] +22'
-- '[[DATABASE/skill/Deception|Deception]] +28'
-- '[[DATABASE/skill/Diplomacy|Diplomacy]] +26'
-- '[[DATABASE/skill/Performance|Performance]] +24'
-- '[[DATABASE/skill/Stealth|Stealth]] +23'
-- '[[DATABASE/skill/Survival|Survival]] +24'
-source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
-speed:
-- 30 feet
-- swim 30 feet
-spell:
-- '[[DATABASE/spell/Charm|Charm]]'
-- '[[DATABASE/spell/Mind Reading|MindReading]]'
-- '[[DATABASE/spell/Outcast''s Curse|Outcast''s Curse]]'
-- '[[DATABASE/spell/Speak with Animals|Speak with Animals]]'
-- '[[DATABASE/spell/Suggestion|Suggestion]]'
-- '[[DATABASE/spell/Summon Animal|Summon Animal]]'
-- '[[DATABASE/spell/Tongues|Tongues]]'
-strength: '+6'
-strength_req: '6'
-strongest_save:
-- Will
-swim_speed: '30'
-trait:
-- '[[DATABASE/trait/Humanoid|Humanoid]]'
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
-type: Creature
-vision: Darkvision
-weakest_save:
-- Fortitude
-weakness:
-- '[[DATABASE/equipment/Cold Iron Weapon|cold iron]] 10'
-will: '+26'
-wisdom: '+5'
+sense: null
+size: null
+skill: null
+source: '[[DATABASE/source/Pathfinder 160. Assault on Hunting Lodge Seven|Pathfinder
+  #160: Assault on Hunting Lodge Seven]]'
+speed: null
+spell: null
+strength: null
+strength_req: null
+strongest_save: null
+swim_speed: null
+trait: null
+type: null
+vision: null
+weakest_save: null
+weakness: null
+will: null
+wisdom: null
 
 ---
 # Jorogumo

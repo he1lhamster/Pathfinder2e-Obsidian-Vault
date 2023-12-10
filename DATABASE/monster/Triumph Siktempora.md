@@ -15,16 +15,6 @@ creature_ability:
 - ''
 - Winning Smile
 creature_family: '[[DATABASE/monsterfamily/Siktempora|Siktempora]]'
-description: "Triumph siktemporas embody the emotional satisfaction of overcoming\
-  \ a task that took up much of a creature's mind, be it taking an apple seed from\
-  \ between one's teeth or winning a war. They exult in every victory they attain;\
-  \ however, they value only those successes won fairly not only abiding by the established\
-  \ rules of a competition but also enforcing those rules mercilessly upon other competitors.<br/><br/>\
-  \ These siktemporas appear as small humanoids with four muscular arms and digitigrade\
-  \ legs. They take great joy in draping themselves in golden clothes and medals that\
-  \ commemorate the countless victories which spawned them, and their faces bear proud,\
-  \ dazzling smiles and expressions of success\u2014but these features never move.<br/><br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 35<br/><b><u>Specific Lore</u></b>: DC 32"
 dexterity: '+4'
 element: null
 fly_speed: null

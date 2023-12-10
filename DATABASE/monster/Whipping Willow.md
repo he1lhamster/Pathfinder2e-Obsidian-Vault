@@ -12,15 +12,6 @@ creature_ability:
 - Strangling Vines
 - Unseating Sweep
 creature_family: '[[DATABASE/monsterfamily/Elemental, Wood|Elemental, Wood]]'
-description: 'These tall, thin figures are too treelike to be [[DATABASE/monster/Dryad|dryads]]
-  , yet too humanoid to be [[DATABASE/monsterfamily/Arboreal|arboreals]] . Their blank
-  faces and thin trunks bear only the slightest suggestion of humanoid features. Rather
-  than hands, their long, branchlike arms eventually split into equally proportioned
-  branchlike digits, which the willows use both to fight and swing through their native
-  plane.<br/><br/><b><u>Recall Knowledge - Elemental</u> ( [[DATABASE/skill/Arcana|Arcana]]
-  , [[DATABASE/skill/Nature|Nature]] )</b>: DC 19<br/><b><u>Recall Knowledge - Plant</u>
-  ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 19<br/><b><u>Unspecific Lore</u></b>:
-  DC 17<br/><b><u>Specific Lore</u></b>: DC 14'
 dexterity: '+5'
 element: Wood
 fly_speed: null

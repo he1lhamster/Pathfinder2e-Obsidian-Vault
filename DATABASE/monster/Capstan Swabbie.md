@@ -12,23 +12,6 @@ creature_ability:
 - Loose the Pawls
 - Mate's Expertise
 creature_family: null
-description: "Capstan swabbies are constructs specially designed for seafaring. Sea\
-  \ captains looking for unwavering loyalty and competence can do far worse than a\
-  \ swabbie.<br/><br/> Built to resemble and assume the place of a ship's capstan\u2014\
-  the winch that raises and lowers the anchor\u2014a capstan swabbie is a round, stout\
-  \ cylinder of wood wrapped in heavy-duty rope. Spars spaced evenly around its frame\
-  \ complete the look, while castors on its base give the swabbie mobility. A capstan\
-  \ swabbie also sports a few small pegs around its diameter. It can use these appendages\
-  \ to \u201Cgrab\u201D other ropes from the rigging to help sail the ship. Some crews\
-  \ decorate their capstan swabbies with paint or rags to give the constructs a personal\
-  \ touch.<br/><br/> A capstan swabbie instinctively protects its captain's ship.\
-  \ Using short ropes attached to its sides, the swabbie can lash and trip foes or\
-  \ make emergency repairs to itself or its vessel. Far more dangerous, of course,\
-  \ is the anchor to which the swabbie's longest rope is attached. A capstan swabbie\
-  \ can swing this anchor in wide arcs and reel it back in at a moment's notice.<br/><br/><b><u>Recall\
-  \ Knowledge - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]]\
-  \ )</b>: DC 25<br/><b><u>Unspecific Lore</u></b>: DC 23<br/><b><u>Specific Lore</u></b>:\
-  \ DC 20"
 dexterity: '+2'
 element: null
 fly_speed: null

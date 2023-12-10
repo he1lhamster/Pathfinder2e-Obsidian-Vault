@@ -11,11 +11,6 @@ creature_ability:
 - Scrabble
 - Skittering Rush
 creature_family: '[[DATABASE/monsterfamily/Animated Bones|Animated Bones]]'
-description: 'The ribs of a scrabbling ribcage are connected to either a sternum or
-  vertebral column, but not both, allowing the ribs to function as legs.<br/><br/><b><u>Recall
-  Knowledge - Construct</u> ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]]
-  )</b>: DC 17<br/><b><u>Unspecific Lore</u></b>: DC 15<br/><b><u>Specific Lore</u></b>:
-  DC 12'
 dexterity: '+2'
 element: null
 fly_speed: null

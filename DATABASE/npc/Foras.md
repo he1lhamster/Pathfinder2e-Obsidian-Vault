@@ -14,19 +14,6 @@ creature_ability:
 - Time Siphon
 - Unseen Sight
 creature_family: null
-description: "The man who would take the name Foras grew up millennia ago among worshipers\
-  \ of [[DATABASE/deity/Pharasma|Pharasma]] , yet he came to believe that the Outer\
-  \ Gods were the keys to claiming personal power. He tricked his people's priests\
-  \ into to imparting eldritch truths they would not normally share, then shared them\
-  \ with a few fellow secretive scholars of the occult.<br/><br/> Gathering those\
-  \ whom Foras could manipulate, he retreated to a new stronghold\u2014a location\
-  \ now known as Candlemere. Here, Foras's cult gave up their sight and their souls,\
-  \ only to become trapped with him within their own compound when their leader's\
-  \ brother tracked them down and imprisoned them. Yet even this hasn't stymied Foras,\
-  \ and he continues to this day to work toward his goal of drawing [[DATABASE/deity/Yog-Sothoth|Yog-Sothoth]]\
-  \ into the world.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]\
-  \ )</b>: DC 49<br/><b><u>Unspecific Lore</u></b>: DC 47<br/><b><u>Specific Lore</u></b>:\
-  \ DC 44"
 dexterity: '+4'
 element: null
 fly_speed: null

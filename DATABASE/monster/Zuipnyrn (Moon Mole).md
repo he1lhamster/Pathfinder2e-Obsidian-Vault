@@ -1,96 +1,65 @@
 ﻿---
-ac: '26'
-alignment: null
+ac: '20'
+alignment: N
 all_resistance: null
 burrow_speed: null
 charisma: '+5'
-climb_speed: null
-constitution: '+6'
+climb_speed: '10'
+constitution: '+3'
 creature_ability:
-- Blinding Reflection
-- Change Shape
-- Conductive Redirection
-creature_family: '[[DATABASE/monsterfamily/Genie|Genie]]'
-description: 'Zuhras, the genies of the elemental [[DATABASE/plane/Plane of Metal|Plane
-  of Metal]] , are bold and imposing, fond of being the center of attention and drawing
-  a crowd with flashy performances, displays of skill, and tales of their personal
-  victories. Despite their large personalities, their long-term relationships tend
-  to be cool and somewhat distant; zuhras often make alliances but rarely form friendships,
-  and the trust required for deeper relationships is rarer still. The few mortals
-  who''ve gotten to know a zuhra often describe them as bombastic but emotionally
-  aloof.<br/><br/> Since the reconnection with other planes, zuhras have sought out
-  and formed bonds with other genies. They find their jabali cousins to be capable
-  smithing partners, if a bit staid and dull. Zuhras rarely pay non-genie elementals
-  any more than a passing glance, finding even the intelligent ones uninteresting
-  to communicate with or hard to relate to.<br/><br/><b><u>Recall Knowledge - Elemental</u>
-  ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]] )</b>: DC
-  26<br/><b><u>Unspecific Lore</u></b>: DC 24<br/><b><u>Specific Lore</u></b>: DC
-  21'
-dexterity: '+5'
-element: Metal
-fly_speed: '30'
-fortitude: '+16'
+- Alluring Aspect
+- Beguiling Gaze
+- Blinding Flare
+creature_family: null
+dexterity: '+3'
+element: null
+fly_speed: null
+fortitude: '+10'
 hardness: null
-hp: '125'
-id: '2655'
+hp: '35'
+id: '515'
 immunity: null
-intelligence: '+4'
-land_speed: '25'
+intelligence: '-2'
+land_speed: '20'
 language:
-- '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Talican|Talican]] ; [[DATABASE/spell/Tongues|truespeech]]'
-level: '8'
-max_speed: '30'
-name: Zuhra
-perception: '+15'
-rarity: Uncommon
-reflex: '+17'
+- '[[DATABASE/language/Common|Common]] ; (can''t speak any language)'
+level: '3'
+max_speed: '20'
+name: Zuipnyrn
+perception: '+9'
+rarity: Rare
+reflex: '+10'
 resistance:
-- '[[DATABASE/trait/Electricity|electricity]] 10'
+- bludgeoning 3
 rus_type_level: null
 school: null
 sense:
-- '[[DATABASE/monsterability/Darkvision|darkvision]]'
-size: Large
+- greater darkvision
+size: Small
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +19'
-- '[[DATABASE/skill/Athletics|Athletics]] +15'
-- '[[DATABASE/skill/Crafting|Crafting]] +17'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +17'
-- '[[DATABASE/skill/Performance|Performance]] +19'
-- '[[DATABASE/skill/Society|Society]] +16'
-source: '[[DATABASE/source/Rage of Elements|Rage of Elements]]'
+- '[[DATABASE/skill/Stealth|Stealth]] +11'
+source: '[[DATABASE/source/Pathfinder 152. Legacy of the Lost God|Pathfinder #152:
+  Legacy of the Lost God]]'
 speed:
-- 25 feet
-- fly 30 feet
-spell:
-- '[[DATABASE/spell/Clad in Metal|Clad in Metal]]'
-- '[[DATABASE/spell/Detect Magic|Detect Magic]]'
-- '[[DATABASE/spell/Invisibility|Invisibility]]'
-- '[[DATABASE/spell/Magnetic Attraction|Magnetic Attraction]]'
-- '[[DATABASE/spell/Magnetic Repulsion|Magnetic Repulsion]]'
-- '[[DATABASE/spell/Mercurial Stride|Mercurial Stride]]'
-- '[[DATABASE/spell/Plane Shift|Plane Shift]]'
-- '[[DATABASE/spell/Tongues|Tongues]]'
-- '[[DATABASE/spell/Weapon Storm|Weapon Storm]]'
-strength: '+3'
-strength_req: '3'
+- 20 feet
+- climb 10 feet
+spell: null
+strength: '+1'
+strength_req: '1'
 strongest_save:
+- Fortitude
 - Reflex
-- Will
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Elemental|Elemental]]'
-- '[[DATABASE/trait/Genie|Genie]]'
-- '[[DATABASE/trait/Metal|Metal]]'
-- '[[DATABASE/trait/Uncommon|Uncommon]]'
+- '[[DATABASE/trait/Aberration|Aberration]]'
+- '[[DATABASE/trait/Rare|Rare]]'
 type: Creature
-vision: Darkvision
+vision: Greater darkvision
 weakest_save:
-- Fortitude
+- Will
 weakness: null
-will: '+17'
-wisdom: '+3'
+will: '+7'
+wisdom: '+2'
 
 ---
 # Zuipnyrn (Moon Mole)

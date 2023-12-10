@@ -10,14 +10,6 @@ creature_ability:
 - Intuit Object
 - Light Blindness
 creature_family: '[[DATABASE/monsterfamily/Munavri|Munavri]]'
-description: "Although the subterranean Darklands are known for their cruel and domineering\
-  \ civilizations\u2014led by fiend-worshipping [[DATABASE/monsterfamily/Drow|drow]]\
-  \ , [[DATABASE/monsterfamily/Urdefhan|urdefhans]] , and others\u2014that dwell within\
-  \ those sinister caverns, not every such subterranean society is ruled that way.\
-  \ Munavris are perhaps the best example of a people that tend to treat new arrivals\
-  \ to their Darklands territories with good temper, fairness, and respect.<br/><br/><b><u>Recall\
-  \ Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 21<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 19<br/><b><u>Specific Lore</u></b>: DC 16"
 dexterity: '+0'
 element: null
 fly_speed: null

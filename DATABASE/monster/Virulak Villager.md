@@ -11,13 +11,6 @@ creature_ability:
 - Mob Mentality
 - Undead Virulence
 creature_family: '[[DATABASE/monsterfamily/Virulak|Virulak]]'
-description: 'A village of commoners raised to undeath by a mass poisoning might continue
-  to go about the settled routines of life, posing an eerie scene for living creatures
-  who enter their village. Virulak villagers prefer to attack with an advantage of
-  numbers, but even a lone villager can pose a problem for unaware or inexperienced
-  travelers.<br/><br/><b><u>Recall Knowledge - Undead</u> ( [[DATABASE/skill/Religion|Religion]]
-  )</b>: DC 20<br/><b><u>Unspecific Lore</u></b>: DC 18<br/><b><u>Specific Lore</u></b>:
-  DC 15'
 dexterity: '+3'
 element: null
 fly_speed: null

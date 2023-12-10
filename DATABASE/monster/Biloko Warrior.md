@@ -10,12 +10,6 @@ creature_ability:
 - Inspired Feast
 - Shield Block
 creature_family: '[[DATABASE/monsterfamily/Biloko|Biloko]]'
-description: 'Bilokos prefer to move in small, stealthy packs through dark, isolated
-  sections of the forest. When a band of bilokos finds a suitable hunting ground,
-  they claim the area exclusively, digging pit traps, crafting snares from vines,
-  and building blinds high in trees where they can lie in ambush.<br/><br/><b><u>Recall
-  Knowledge - Fey</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 15<br/><b><u>Unspecific
-  Lore</u></b>: DC 13<br/><b><u>Specific Lore</u></b>: DC 10'
 dexterity: '+2'
 element: null
 fly_speed: null

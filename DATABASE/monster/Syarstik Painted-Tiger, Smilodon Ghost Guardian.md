@@ -1,83 +1,81 @@
 ﻿---
-ac: '29'
+ac: '21'
 alignment: N
-all_resistance: null
+all_resistance: '5'
 burrow_speed: null
-charisma: '-5'
+charisma: '+4'
 climb_speed: null
-constitution: '+5'
+constitution: '+0'
 creature_ability:
-- Attack of Opportunity
-- Central Weapon
-- Colossal Echo
-- Echoblade Flurry
-- Project Echoblade
-- ''
-- Raise Guard
+- Awaken Painting
+- Pounce
+- Rejuvenation
+- Site Bound
+- Sneak Attack
 creature_family: null
-description: 'Collectors who want to guard their magical arsenals procure or build
-  swordkeepers. These constructs are equal parts display case and security system,
-  each holding a single weapon within its body and projecting copies of the weapon
-  it stores to deter would-be thieves.<br/><br/><b><u>Recall Knowledge - Construct</u>
-  ( [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Crafting|Crafting]] )</b>:
-  DC 27<br/><b><u>Unspecific Lore</u></b>: DC 25<br/><b><u>Specific Lore</u></b>:
-  DC 22'
 dexterity: '+5'
 element: null
-fly_speed: null
-fortitude: '+21'
+fly_speed: '30'
+fortitude: '+9'
 hardness: null
-hp: '285'
-id: '1330'
+hp: 40 ( negative healing , rejuvenation)
+id: '1770'
 immunity:
 - '[[DATABASE/trait/Death|death]] effects'
 - '[[DATABASE/trait/Disease|disease]]'
-- '[[DATABASE/condition/Doomed|doomed]]'
-- '[[DATABASE/condition/Drained|drained]]'
-- '[[DATABASE/condition/Fatigued|fatigued]]'
-- '[[DATABASE/trait/Healing|healing]]'
-- '[[DATABASE/trait/Mental|mental]]'
-- '[[DATABASE/trait/Necromancy|necromancy]]'
-- '[[DATABASE/trait/Nonlethal|nonlethal]] attacks'
 - '[[DATABASE/condition/Paralyzed|paralyzed]]'
 - '[[DATABASE/trait/Poison|poison]]'
-intelligence: '-5'
-land_speed: '20'
+- precision
+- '[[DATABASE/condition/Unconscious|unconscious]]'
+intelligence: '-1'
+land_speed: null
 language:
-- '[[DATABASE/language/Common|Common]]'
-level: '10'
-max_speed: '20'
-name: Swordkeeper
-perception: '+20'
-rarity: Common
-reflex: '+19'
-resistance: null
+- '[[DATABASE/language/Hallit|Hallit]]'
+level: '5'
+max_speed: '30'
+name: Syarstik Painted-Tiger
+perception: '+14'
+rarity: Unique
+reflex: '+12'
+resistance:
+- all damage 5 (except [[DATABASE/trait/Force|force]]
+- '[[DATABASE/equipment/Ghost Touch|ghost touch]]'
+- or [[DATABASE/trait/Positive|positive]] ; double vs non- [[DATABASE/trait/Magical|magical]]
+  )
 rus_type_level: null
 school: null
-sense: null
+sense:
+- '[[DATABASE/monsterability/Darkvision|darkvision]]'
+- '[[DATABASE/monsterability/Scent|scent]] (imprecise) 60 feet'
 size: Large
 skill:
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +21'
-- '[[DATABASE/skill/Athletics|Athletics]] +23'
-source: '[[DATABASE/source/Bestiary 3|Bestiary 3]]'
+- '[[DATABASE/skill/Acrobatics|Acrobatics]] +14'
+- '[[DATABASE/skill/Intimidation|Intimidation]] +12'
+- '[[DATABASE/skill/Nature|Nature]] +14'
+- '[[DATABASE/skill/Stealth|Stealth]] +14'
+source: '[[DATABASE/source/Pathfinder 175. Broken Tusk Moon|Pathfinder #175: Broken
+  Tusk Moon]]'
 speed:
-- 20 feet
+- fly 30 feet
 spell: null
-strength: '+7'
-strength_req: '7'
+strength: '-5'
+strength_req: '-5'
 strongest_save:
-- Fortitude
+- Will
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Construct|Construct]]'
-- '[[DATABASE/trait/Mindless|Mindless]]'
+- '[[DATABASE/trait/Ghost|Ghost]]'
+- '[[DATABASE/trait/Incorporeal|Incorporeal]]'
+- '[[DATABASE/trait/Spirit|Spirit]]'
+- '[[DATABASE/trait/Undead|Undead]]'
+- '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: null
+vision: Darkvision
 weakest_save:
-- Will
+- Fortitude
 weakness: null
-will: '+14'
-wisdom: '+2'
+will: '+16'
+wisdom: '+5'
 
 ---
 # Syarstik Painted-Tiger, Smilodon Ghost Guardian

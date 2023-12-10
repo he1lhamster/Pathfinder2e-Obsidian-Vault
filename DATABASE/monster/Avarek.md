@@ -11,21 +11,6 @@ creature_ability:
 - Rolling Assault
 - Sneak Attack
 creature_family: null
-description: "Avareks delight in tormenting ship's crews and causing shipwrecks off\
-  \ the coasts of Garund and the Inner Sea. Bipedal, aquatic fey covered in long,\
-  \ urchin-like spines, avareks stand 2 feet tall\u2014or 3 feet tall if measured\
-  \ to the tips of their spines\u2014and weigh fewer than 30 pounds.<br/><br/> Avareks\
-  \ rely on subtlety and subterfuge to indulge their destructive whims, using magic\
-  \ to sabotage ships and cloud the minds of crew members and passengers. Patient\
-  \ and cunning, avareks lurk beneath or within a targeted vessel for weeks, building\
-  \ conflict and mistrust. Soon, shipmates accuse one another of theft and treachery;\
-  \ superstitious crew members might believe their ship is haunted. Eventually, the\
-  \ crew becomes too frightened or mistrustful to save their ship from the avareks'\
-  \ sabotage.<br/><br/> Avareks take pride in their sunken trophies, claiming the\
-  \ wrecks of ships they've destroyed as their homes and gorging on the bloated, water-logged\
-  \ corpses of the crew and passengers.<br/><br/><b><u>Recall Knowledge - Fey</u>\
-  \ ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 26<br/><b><u>Unspecific Lore</u></b>:\
-  \ DC 24<br/><b><u>Specific Lore</u></b>: DC 21"
 dexterity: '+5'
 element: null
 fly_speed: null

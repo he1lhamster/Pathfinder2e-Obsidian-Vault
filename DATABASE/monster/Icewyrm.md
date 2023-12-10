@@ -11,13 +11,6 @@ creature_ability:
 - Explosion
 - Ice Burrow
 creature_family: '[[DATABASE/monsterfamily/Elemental, Water|Elemental, Water]]'
-description: 'Resembling wingless, serpentine dragons formed of jagged ice and shot
-  through with veins of nearly frozen water, these elementals dwell within icebergs
-  and enjoy striking out at passing ships or creatures. They''re especially common
-  in frigid stretches of ocean in the Plane of Water, where icebergs cluster together
-  into enormous islands of ice.<br/><br/><b><u>Recall Knowledge - Elemental</u> (
-  [[DATABASE/skill/Arcana|Arcana]] , [[DATABASE/skill/Nature|Nature]] )</b>: DC 27<br/><b><u>Unspecific
-  Lore</u></b>: DC 25<br/><b><u>Specific Lore</u></b>: DC 22'
 dexterity: '+7'
 element: Water
 fly_speed: null

@@ -11,10 +11,6 @@ creature_ability:
 - Swarming Bites
 - Web Sense
 creature_family: '[[DATABASE/monsterfamily/Spider|Spider]]'
-description: 'An abundance of food, the sudden hatching of a clutch of eggs, or magical
-  influence can cause smaller spiders to gather in terrifying, deadly masses.<br/><br/><b><u>Recall
-  Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 14<br/><b><u>Unspecific
-  Lore</u></b>: DC 12<br/><b><u>Specific Lore</u></b>: DC 9'
 dexterity: '+3'
 element: null
 fly_speed: null

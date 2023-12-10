@@ -11,10 +11,6 @@ creature_ability:
 - Engulf
 - Mundane Appearance
 creature_family: '[[DATABASE/monsterfamily/Tsukumogami|Tsukumogami]]'
-description: Born from large pieces of cloth, ittan-momen flutter in the air, catching
-  the last rays of the setting sun. Ittan-momen can awaken from any sufficiently large
-  cloth, and many beautiful but cruelly-treated tapestries have lured unsuspecting
-  victims to an untimely end.
 dexterity: '+4'
 element: null
 fly_speed: '30'

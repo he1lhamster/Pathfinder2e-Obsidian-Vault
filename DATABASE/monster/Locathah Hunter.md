@@ -13,26 +13,6 @@ creature_ability:
 - Pack Attack
 - Smooth Swimmer
 creature_family: '[[DATABASE/monsterfamily/Locathah|Locathah]]'
-description: "Deep in the sea, schools of locathah\u2014piscine humanoids armed with\
-  \ spears and specialized crossbows\u2014stalk sharks, sea serpents, and giant squid\
-  \ from the backs of their [[DATABASE/monster/Giant Moray Eel|giant moray eel]] mounts.\
-  \ The first hunters to strike are armed with barbed harpoons that deploy large fans\
-  \ of seaweed, slowing and exhausting their prey. A daring few locathahs use the\
-  \ embedded harpoon as a handle to ride prey for a short time. Once the creature\
-  \ is tired, remaining hunters finish it with longspears. Locathahs developed this\
-  \ hunting tradition to forge skilled warriors and deter potential attackers, partially\
-  \ in response to centuries of oppression and mistreatment from other aquatic cultures.<br/><br/>\
-  \ Locathahs rarely hunt land-dwellers, instead offering to trade their services\
-  \ as guides in exchange for metal and ceramic items they can't build underwater\u2014\
-  and for tubers, which they consider earthy delicacies. They render aid to damaged\
-  \ sailing ships and rescue shipwrecked sailors, providing food and guidance.<br/><br/>\
-  \ Locathah communities\u2014usually villages of 200 individuals or fewer\u2014are\
-  \ matriarchal. The ruler is also as its primary egg-layer, providing each generation\
-  \ with powerful familial bonds. The communities are tight-knit and loyal. Matriarchs\
-  \ are advised and assisted by primal spellcasters and healers, who are often accompanied\
-  \ by octopus companions.<br/><br/><b><u>Recall Knowledge - Humanoid</u> ( [[DATABASE/skill/Society|Society]]\
-  \ )</b>: DC 18<br/><b><u>Unspecific Lore</u></b>: DC 16<br/><b><u>Specific Lore</u></b>:\
-  \ DC 13"
 dexterity: '+3'
 element: null
 fly_speed: null

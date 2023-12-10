@@ -11,10 +11,6 @@ creature_ability:
 - Swarming Bites
 - Tick Fever
 creature_family: '[[DATABASE/monsterfamily/Tick|Tick]]'
-description: "This swarm of thousands of fist-sized ticks forms a moving carpet of\
-  \ bloated insects\u2014a nauseating and intimidating sight.<br/><br/><b><u>Recall\
-  \ Knowledge - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 26<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 24<br/><b><u>Specific Lore</u></b>: DC 21"
 dexterity: '+6'
 element: null
 fly_speed: null

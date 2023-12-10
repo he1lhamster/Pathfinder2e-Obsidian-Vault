@@ -10,17 +10,6 @@ creature_ability:
 - Echolocation
 - Wing Thrash
 creature_family: '[[DATABASE/monsterfamily/Bat|Bat]]'
-description: "While big bats are certainly not uncommon in dark caves and abandoned\
-  \ ruins and may instill fear in squeamish spelunkers, the so-called giant bat is\
-  \ a true monster, weighing well over 100 pounds and having a wingspan of nearly\
-  \ 15 feet. It primarily eats fruit and bugs, but can be incited to violence through\
-  \ fear or hunger. Giant bat attacks can quickly give rise to rumors of more dangerous\
-  \ monsters\u2014many mistake these massive animals for some sort of demon or vampiric\
-  \ monster. But like other bats, giant bats are simply social and intelligent mammals.\
-  \ They are sometimes used as mounts by smaller humanoids, commonly those who hail\
-  \ from or dwell in mountainous or underground regions.<br/><br/><b><u>Recall Knowledge\
-  \ - Animal</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 16<br/><b><u>Unspecific\
-  \ Lore</u></b>: DC 14<br/><b><u>Specific Lore</u></b>: DC 11"
 dexterity: '+2'
 element: null
 fly_speed: '30'

@@ -11,31 +11,6 @@ creature_ability:
 - Swooping Dive
 - Wind Blast
 creature_family: null
-description: "Garudas are noble, birdlike beings descended from the gods. They were\
-  \ born under the cerulean skies of the Outer Plane of [[DATABASE/plane/Elysium|Elysium]]\
-  \ but have since spread to the [[DATABASE/plane/Material Plane|Material Plane]]\
-  \ , and it is here that they primarily reside. On Golarion,the largest garuda populations\
-  \ live in the rugged hills and mountains of Vudra, though some have spread to the\
-  \ Impossible Kingdom of Jalmeray and even to the eastern mountains of Garund.<br/><br/>\
-  \ Garudas usually roost in isolated aeries but spend much of their time gliding\
-  \ on the wind. Many garudas are nomadic or migratory, yearning to travel and soar\
-  \ above new landscapes. While they remain detached from humanoid societies, they\
-  \ are impetuous and gallant, frequently serving as protectors of communities near\
-  \ the cliffs and peaks where they roost. Some garudas instead combine their wanderlust\
-  \ and goodhearted nature by serving as messengers and emissaries between remote\
-  \ settlements, though most who take up this work abandon it after a few years when\
-  \ the same terrain becomes boring. Wandering garudas are no less compassionate,\
-  \ and many a tale tells of a garuda who came to the aid of a lost traveler or carried\
-  \ an endangered soul to safety.<br/><br/> Though they hold most living creatures\
-  \ in high regard, garudas loathe ophidian creatures\u2014 [[DATABASE/monsterfamily/Naga|nagas]]\
-  \ in particular. Rarely do they come into contact without fighting, and a garuda\
-  \ will go out of their way to hunt down a naga if they hear even the tiniest hint\
-  \ of a rumor suggesting the presence of one.<br/><br/> A garuda's feathering and\
-  \ coloration range widely depending on the terrain they favor. Garudas in temperate\
-  \ woodlands might resemble jays or falcons, while tropical garudas sport bright\
-  \ plumage.<br/><br/><b><u>Recall Knowledge - Celestial</u> ( [[DATABASE/skill/Religion|Religion]]\
-  \ )</b>: DC 26<br/><b><u>Unspecific Lore</u></b>: DC 24<br/><b><u>Specific Lore</u></b>:\
-  \ DC 21"
 dexterity: '+6'
 element: null
 fly_speed: '60'

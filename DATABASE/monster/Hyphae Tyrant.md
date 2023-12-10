@@ -13,17 +13,6 @@ creature_ability:
 - Spores
 - Sporesense
 creature_family: null
-description: 'Leshy creations sometimes fall prey to herbivores and foragers. Whereas
-  most take the loss in stride, fungus leshies sometimes grow bitter and explore the
-  grimmer elements of fungi: decomposition and possession. Combining unethical experiments,
-  mind-altering cordyceps spores, and occult magic fueled by their own victim narrative,
-  a fungus leshy can transform into a hyphae tyrant, who in turn transforms corpses
-  into sporeborn puppets to torment local fauna. These leshies'' greatest tragedy
-  is perhaps their own impermanence. As their agendas increasingly celebrate decay,
-  a hyphae tyrant''s spite and occult narrative slowly drain their life force, ultimately
-  ending in a final burst of destructive energy.<br/><br/><b><u>Recall Knowledge -
-  Fungus</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 24<br/><b><u>Unspecific
-  Lore</u></b>: DC 22<br/><b><u>Specific Lore</u></b>: DC 19'
 dexterity: '+2'
 element: null
 fly_speed: null

@@ -10,11 +10,6 @@ creature_ability:
 - Catch Rock
 - Throw Rock
 creature_family: '[[DATABASE/monsterfamily/Fetch|Fetch]]'
-description: 'A fetch behemoth is much larger than a stalker, and forms from the soul
-  of a Large [[DATABASE/trait/Fey|fey]] or [[DATABASE/trait/Humanoid|humanoid]] .<br/><br/><b><u>Recall
-  Knowledge - Fey</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 45<br/><b><u>Recall
-  Knowledge - Plant</u> ( [[DATABASE/skill/Nature|Nature]] )</b>: DC 45<br/><b><u>Unspecific
-  Lore</u></b>: DC 43<br/><b><u>Specific Lore</u></b>: DC 40'
 dexterity: '+6'
 element: null
 fly_speed: null

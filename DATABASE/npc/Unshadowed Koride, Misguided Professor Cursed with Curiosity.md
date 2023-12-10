@@ -1,106 +1,106 @@
 ﻿---
-ac: '41'
+ac: '40'
 alignment: CE
 all_resistance: null
 burrow_speed: null
-charisma: '-1'
+charisma: '+4'
 climb_speed: null
 constitution: '+4'
 creature_ability:
 - Rupture Shadow
 - Shadow's Displeasure
 - Vesicated Shadow
-- Wind Step to [three-actions]
-- Wind Touch
 creature_family: null
-description: 'This creature did not include a description.<br/><br/><b><u>Recall Knowledge
-  - Humanoid</u> ( [[DATABASE/skill/Society|Society]] )</b>: DC 48<br/><b><u>Unspecific
-  Lore</u></b>: DC 46<br/><b><u>Specific Lore</u></b>: DC 43'
-dexterity: '+4'
+dexterity: '+3'
 element: null
 fly_speed: null
-fortitude: '+33'
-hp: '330'
-id: '1808'
+fortitude: '+32'
+hp: '290'
+id: '1835'
 immunity: null
-intelligence: '+4'
-land_speed: '20'
+intelligence: '+6'
+land_speed: '25'
 language:
 - '[[DATABASE/language/Common|Common]]'
-- '[[DATABASE/language/Dwarven|Dwarven]]'
-level: '18'
-max_speed: '20'
-name: Unshadowed Haibram
-perception: '+30'
+- '[[DATABASE/language/Draconic|Draconic]]'
+- '[[DATABASE/language/Gnoll|Gnoll]]'
+- '[[DATABASE/language/Iruxi|Iruxi]]'
+- '[[DATABASE/language/Necril|Necril]]'
+- '[[DATABASE/language/Sylvan|Sylvan]]'
+level: '19'
+max_speed: '25'
+name: Unshadowed Koride
+perception: '+33'
 rarity: Unique
-reflex: '+30'
+reflex: '+29'
 resistance:
 - '[[DATABASE/trait/Acid|acid]] 20'
 rus_type_level: null
-sense:
-- '[[DATABASE/monsterability/Darkvision|darkvision]]'
+sense: null
 size: Medium
 skill:
-- '[[DATABASE/skill/Lore|Academia Lore]] +31'
-- '[[DATABASE/skill/Acrobatics|Acrobatics]] +33'
-- '[[DATABASE/skill/Arcana|Arcana]] +33'
-- '[[DATABASE/skill/Athletics|Athletics]] +35'
-- '[[DATABASE/skill/Deception|Deception]] +29'
-- '[[DATABASE/skill/Intimidation|Intimidation]] +31'
-- '[[DATABASE/skill/Performance|Performance]] +31'
-- '[[DATABASE/skill/Stealth|Stealth]] +29'
-- '[[DATABASE/skill/Survival|Survival]] +29'
+- '[[DATABASE/skill/Lore|Academia Lore]] +37'
+- '[[DATABASE/skill/Crafting|Crafting]] +37'
+- '[[DATABASE/skill/Deception|Deception]] +33'
+- '[[DATABASE/skill/Diplomacy|Diplomacy]] +33'
+- '[[DATABASE/skill/Medicine|Medicine]] +35'
+- '[[DATABASE/skill/Nature|Nature]] +33'
+- '[[DATABASE/skill/Stealth|Stealth]] +31'
+- '[[DATABASE/skill/Survival|Survival]] +33'
 source: '[[DATABASE/source/Pathfinder 174. Shadows of the Ancients|Pathfinder #174:
   Shadows of the Ancients]]'
 speed:
-- 20 feet
+- 25 feet
 spell:
-- '[[DATABASE/spell/Boil Blood|Boil Blood]]'
-- '[[DATABASE/spell/Chain Lightning|ChainLightning]]'
-- '[[DATABASE/spell/Detect Magic|Detect Magic]]'
-- '[[DATABASE/spell/Disappearance|Disappearance]]'
+- '[[DATABASE/spell/Banishment|Banishment]]'
+- '[[DATABASE/spell/Blazing Fissure|BlazingFissure]]'
+- '[[DATABASE/spell/Chain Lightning|Chain Lightning]]'
+- '[[DATABASE/spell/Darkvision|Darkvision]]'
+- '[[DATABASE/spell/Detect Magic|DetectMagic]]'
+- '[[DATABASE/spell/Dispel Magic|Dispel Magic]]'
 - '[[DATABASE/spell/Electric Arc|Electric Arc]]'
-- '[[DATABASE/spell/Endure Elements|Endure Elements]]'
-- '[[DATABASE/spell/Energy Aegis|Energy Aegis]]'
-- '[[DATABASE/spell/Fireball|Fireball]]'
-- '[[DATABASE/spell/Flame Vortex|Flame Vortex]]'
-- '[[DATABASE/spell/Flaming Sphere|Flaming Sphere]]'
+- '[[DATABASE/spell/Entangle|Entangle]]'
+- '[[DATABASE/spell/Fated Confrontation|Fated Confrontation]]'
+- '[[DATABASE/spell/Fear|Fear]]'
+- '[[DATABASE/spell/Feather Fall|Feather Fall]]'
+- '[[DATABASE/spell/Finger of Death|Finger of Death]]'
+- '[[DATABASE/spell/Flesh to Stone|Flesh to Stone]]'
 - '[[DATABASE/spell/Fly|Fly]]'
-- '[[DATABASE/spell/Gaseous Form|Gaseous Form]]'
+- '[[DATABASE/spell/Freedom of Movement|Freedom of Movement]]'
 - '[[DATABASE/spell/Gust of Wind|Gust of Wind]]'
+- '[[DATABASE/spell/Healing Well|Healing Well]]'
 - '[[DATABASE/spell/Implosion|Implosion]]'
-- '[[DATABASE/spell/Lightning Bolt|Lightning Bolt]]'
-- '[[DATABASE/spell/Mantle of the Magma Heart|Mantle of the Magma Heart]]'
-- '[[DATABASE/spell/Meteor Swarm|Meteor Swarm]]'
-- '[[DATABASE/spell/Obscuring Mist|Obscuring Mist]]'
-- '[[DATABASE/spell/Produce Flame|Produce Flame]]'
-- '[[DATABASE/spell/Ray of Enfeeblement|Ray of Enfeeblement]]'
+- '[[DATABASE/spell/Moment of Renewal|Momentof Renewal]]'
+- '[[DATABASE/spell/Nature''s Reprisal|Nature''s Reprisal]]'
+- '[[DATABASE/spell/Polar Ray|Polar Ray]]'
+- '[[DATABASE/spell/Prestidigitation|Prestidigitation]]'
 - '[[DATABASE/spell/Ray of Frost|Ray of Frost]]'
-- '[[DATABASE/spell/Repulsion|Repulsion]]'
-- '[[DATABASE/spell/Shadow Blast|ShadowBlast]]'
+- '[[DATABASE/spell/Regenerate|Regenerate]]'
+- '[[DATABASE/spell/Shadow Blast|Shadow Blast]]'
 - '[[DATABASE/spell/Shadow Siphon|Shadow Siphon]]'
-- '[[DATABASE/spell/Shield|Shield]]'
-- '[[DATABASE/spell/Telekinetic Haul|Telekinetic Haul]]'
-- '[[DATABASE/spell/True Strike|True Strike]]'
-- '[[DATABASE/spell/True Target|True Target]]'
-- '[[DATABASE/spell/Wall of Fire|Wallof Fire]]'
+- '[[DATABASE/spell/Shapechange|Shapechange]]'
+- '[[DATABASE/spell/Slow|Slow]]'
+- '[[DATABASE/spell/Sunburst|Sunburst]]'
+- '[[DATABASE/spell/Tanglefoot|Tanglefoot]]'
+- '[[DATABASE/spell/True Seeing|TrueSeeing]]'
 - '[[DATABASE/spell/Wall of Wind|Wall of Wind]]'
-strength: '+5'
-strength_req: '5'
+- '[[DATABASE/spell/Web|Web]]'
+strength: '+1'
+strength_req: '1'
 strongest_save:
-- Fortitude
+- Will
 swim_speed: null
 trait:
-- '[[DATABASE/trait/Dwarf|Dwarf]]'
+- '[[DATABASE/trait/Human|Human]]'
 - '[[DATABASE/trait/Humanoid|Humanoid]]'
 - '[[DATABASE/trait/Unique|Unique]]'
 type: Creature
-vision: Darkvision
+vision: null
 weakest_save:
-- Will
+- Reflex
 weakness: null
-will: '+27'
-wisdom: '+2'
+will: '+35'
+wisdom: '+3'
 
 ---
 # Unshadowed Koride, Misguided Professor Cursed with Curiosity

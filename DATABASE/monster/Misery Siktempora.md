@@ -13,13 +13,6 @@ creature_ability:
 - Temporal Sense
 - Uncanny Pounce
 creature_family: '[[DATABASE/monsterfamily/Siktempora|Siktempora]]'
-description: 'Creatures born of intense pain and suffering, the armless, six-legged
-  misery siktemporas are some of the most numerous of their kind since misery is as
-  ubiquitous an experience as living. They''re also the most proactive of siktemporas,
-  seeking to propagate the misery from which they spawn. They delight in opportunities
-  to travel to the [[DATABASE/plane/Material Plane|Material Plane]] , where misery
-  is so woefully prevalent and easily multiplied.<br/><br/><b><u>Unspecific Lore</u></b>:
-  DC 33<br/><b><u>Specific Lore</u></b>: DC 30'
 dexterity: '+5'
 element: null
 fly_speed: null

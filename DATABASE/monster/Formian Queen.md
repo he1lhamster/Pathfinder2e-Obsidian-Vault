@@ -12,11 +12,6 @@ creature_ability:
 - Possess Formian
 - Telepathic Feedback
 creature_family: '[[DATABASE/monsterfamily/Formian|Formian]]'
-description: The formian queen is the center of the formian hive. The queen identifies
-  and attends to the hive's needs, laying egg clusters that vary from a single formian
-  born to a particular task to hundreds of workers at a time. All formians are born
-  with an instinctive deference for the queen that borders on slavish devotion, though
-  this urge can be corrupted, as with the King of Biting Ants' mutant mageslayers.
 dexterity: '+5'
 element: null
 fly_speed: null
