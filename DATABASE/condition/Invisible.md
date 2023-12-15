@@ -1,9 +1,4 @@
-﻿---
-id: '26'
-name: Invisible
+﻿# Invisible
 
----
-# Invisible
-
-**Source** [[DATABASE/source/Core Rulebook|4.0]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 While invisible, you can't be seen. You're [[DATABASE/condition/Undetected|undetected]] to everyone. Creatures can [[DATABASE/action/Seek|Seek]] to attempt to detect you; if a creature succeeds at its Perception check against your Stealth DC, you become [[DATABASE/condition/Hidden|hidden]] to that creature until you [[DATABASE/action/Sneak|Sneak]] to become undetected again. If you become invisible while someone can already see you, you start out hidden to the observer (instead of undetected) until you successfully Sneak. You can't become [[DATABASE/condition/Observed|observed]] while invisible except via special abilities or magic.

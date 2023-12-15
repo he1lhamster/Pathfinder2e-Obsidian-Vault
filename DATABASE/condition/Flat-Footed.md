@@ -1,9 +1,4 @@
-﻿---
-id: '16'
-name: Flat-Footed
+﻿# Flat-Footed
 
----
-# Flat-Footed
-
-**Source** [[DATABASE/source/Core Rulebook|4.0]]
+**Source** [[DATABASE/source/Core Rulebook|Core Rulebook]] 
 You’re distracted or otherwise unable to focus your full attention on defense. You take a –2 circumstance penalty to AC. Some effects give you the flat-footed condition only to certain creatures or against certain attacks. Others—especially conditions—can make you universally flat-footed against everything. If a rule doesn’t specify that the condition applies only to certain circumstances, it applies to all of them; for example, many effects simply say “The target is flat-footed.”
